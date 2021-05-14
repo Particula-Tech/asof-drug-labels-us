@@ -1,38 +1,4 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following adverse reactions have been identified during post-approval use of PLAQUENIL or other 4-aminoqunoline compounds.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Blood and lymphatic system disorders: Bone marrow failure, anemia, aplastic anemia, agranulocytosis, leukopenia, and thrombocytopenia.
-Hemolysis reported in individuals with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
-
-Cardiac disorders: Cardiomyopathy which may result in cardiac failure and in some cases a fatal outcome (see WARNINGS and OVERDOSAGE).
-PLAQUENIL prolongs the QT interval.
-Ventricular arrhythmias and torsade de pointes have been reported in patients taking PLAQUENIL (see OVERDOSAGE and DRUG INTERACTIONS).
-
-Ear and labyrinth disorders: Vertigo, tinnitus, nystagmus, nerve deafness, deafness.
-
-Eye disorders: Irreversible retinopathy with retinal pigmentation changes (bull’s eye appearance), visual field defects (paracentral scotomas) and visual disturbances (visual acuity), maculopathies (macular degeneration), decreased dark adaptation, color vision abnormalities, corneal changes (edema and opacities) including corneal deposition of drug with or without accompanying symptoms (halo around lights, photophobia, blurred vision).
-
-Gastrointestinal disorders: Nausea, vomiting, diarrhea, and abdominal pain.
-
-General disorders and administration site conditions: Fatigue.
-
-Hepatobiliary disorders: Liver function tests abnormal, hepatic failure acute.
-
-Immune system disorders: Urticaria, angioedema, bronchospasm
-
-Metabolism and nutrition disorders: Decreased appetite, hypoglycemia, porphyria, weight decreased.
-
-Musculoskeletal and connective tissue disorders: Sensorimotor disorder, skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups, depression of tendon reflexes and abnormal nerve conduction.
-
-Nervous system disorders: Headache, dizziness, seizure, ataxia and extrapyramidal disorders such as dystonia, dyskinesia, and tremor have been reported with this class of drugs.
-
-Psychiatric disorders: Affect/emotional lability, nervousness, irritability, nightmares, psychosis, suicidal behavior.
-
-Skin and subcutaneous tissue disorders: Rash, pruritus, pigmentation disorders in skin and mucous membranes, hair color changes, alopecia.
-Dermatitis bullous eruptions including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS syndrome), photosensitivity, dermatitis exfoliative, acute generalized exanthematous pustulosis (AGEP).
-AGEP has to be distinguished from psoriasis, although PLAQUENIL may precipitate attacks of psoriasis.
-It may be associated with pyrexia and hyperleukocytosis.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals at 1-877-370-1142 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+The following adverse reactions are described in greater detail in other sections: • Cardiomyopathy and Ventricular Arrhythmias [see Warnings and Precautions (5.1)] • Retinal Toxicity [see Warnings and Precautions (5.2)] • Serious Skin Reactions [see Warnings and Precautions (5.3)] • Worsening of Psoriasis and Porphyria [see Warnings and Precautions (5.4)] • Hematologic Toxicity [see Warnings and Precautions (5.5)] • Hemolytic Anemia Associated with G6PD [see Warnings and Precautions (5.6)] • Skeletal Muscle Myopathy or Neuropathy [see Warnings and Precautions (5.7)] • Neuropsychiatric Reactions Including Suicidality [see Warnings and Precautions (5.8)] • Hypoglycemia [see Warnings and Precautions (5.9)] The following adverse reactions have been identified during post-approval use of 4-aminoquinoline drugs, including PLAQUENIL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - Blood and lymphatic system disorders: Bone marrow depression, anemia, aplastic anemia, agranulocytosis, leukopenia, thrombocytopenia - Cardiac disorders: Cardiomyopathy, cardiac failure, QT-interval prolongation, ventricular tachycardia, torsades de pointes, atrioventricular block, bundle branch block, sick sinus syndrome, pulmonary hypertension - Ear and labyrinth disorders: Vertigo, tinnitus, nystagmus, sensorineural hearing loss - Eye disorders: Retinopathy, retinal pigmentation changes (typically bull’s eye appearance), visual field defects (paracentral scotomas), macular degeneration, corneal edema, corneal opacities, decreased dark adaptation - Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain - General disorders: Fatigue - Hepatobiliary disorders: Abnormal liver function tests, fulminant hepatic failure - Immune system disorders: Urticaria, angioedema, bronchospasm - Metabolism and nutrition disorders: Anorexia, hypoglycemia, weight loss - Musculoskeletal and connective tissue disorders: Proximal myopathy, depressed tendon reflexes, abnormal nerve conduction - Nervous system disorders: Ataxia, dizziness, headache, seizure, extrapyramidal disorders (dystonia, dyskinesia, tremor) - Psychiatric disorders: Affect/emotional lability, irritability, nervousness, nightmares, psychosis, suicidal ideation, suicidal behavior - Skin and subcutaneous tissue disorders: Alopecia, hair color changes, rash, pruritus, photosensitivity, psoriasis exacerbation, hyperpigmentation, exfoliative dermatitis, erythema multiforme, acute generalized exanthematous pustulosis, Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)

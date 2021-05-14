@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Use of PLAQUENIL is contraindicated in patients with known hypersensitivity to 4-aminoquinoline compounds.
+PLAQUENIL is contraindicated in patients with known hypersensitivity to 4-aminoquinoline compounds
