@@ -1,0 +1,3 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg (60 Tablet Bottle)
+
+Rising® PHARMACEUTICALS NDC 16571-784-06 Gemfibrozil Tablets, USP 600 mg 60 Tablets Rx only

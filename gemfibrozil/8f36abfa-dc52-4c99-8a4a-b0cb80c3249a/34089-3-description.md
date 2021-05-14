@@ -1,0 +1,11 @@
+# DESCRIPTION
+
+Gemfibrozil is a lipid regulating agent.
+It is available as tablets for oral administration.
+Each tablet contains 600 mg gemfibrozil.
+Each tablet also contains calcium stearate, colloidal silicon dioxide, hypromellose, low substituted hydroxypropyl cellulose, low viscosity hydroxypropyl cellulose, microcrystalline cellulose, polyethylene glycol, polysorbate, pregelatinized starch (maize), and titanium dioxide.
+The chemical name is 5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoic acid, with the following structural formula:
+
+The molecular formula is C15H22O3 and the molecular weight is 250.35; practically insoluble in water, soluble in alcohol, in methanol and in chloroform.
+The melting point is 58° to 61°C.
+Gemfibrozil USP is a white or almost white, waxy crystalline solid.

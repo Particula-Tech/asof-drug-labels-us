@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202726"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-784-06",
+    "16571-784-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "8f36abfa-dc52-4c99-8a4a-b0cb80c3249a",
+  "source": "dailymed"
+}
