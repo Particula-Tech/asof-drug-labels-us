@@ -1,22 +1,44 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Dopamine exhibits an inotropic action on the myocardium, resulting in increased cardiac output.
-It causes less increase in myocardial oxygen consumption than isoproterenol and the effect of dopamine usually is not associated with tachyarrhythmia.
-Reported clinical studies have revealed that the drug usually increases systolic and pulse pressure without any or only a minor elevating effect on diastolic pressure.
-Total peripheral resistance at low and intermediate doses is usually unchanged.
-Blood flow to peripheral vascular beds may decrease while mesenteric blood flow is increased.
-The drug also has been reported to produce dilation of the renal vasculature which is accompanied by increases in glomerular filtration rate, renal blood flow and sodium excretion.
-Increased urinary output produced by dopamine is usually not associated with decreased urine osmolality.
+## 12.1 Mechanism of Action
 
-Solutions containing carbohydrate in the form of dextrose restore blood glucose levels and provide calories.
-Carbohydrate in the form of dextrose may aid in minimizing liver glycogen depletion and exerts a protein-sparing action.
-Dextrose injected parenterally undergoes oxidation to carbon dioxide and water.
+Dopamine is a natural catecholamine formed by the decarboxylation of 3,4-dihydroxyphenylalanine (DOPA).
+It is a precursor to norepinephrine in noradrenergic nerves and is also a neurotransmitter in certain areas of the central nervous system, especially in the nigrostriatal tract, and in a few peripheral sympathetic nerves.
 
-Water is an essential constituent of all body tissues and accounts for approximately 70% of total body weight.
-Average normal adult daily requirement ranges from two to three liters (1.0 to 1.5 liters each for insensible water loss due to perspiration and urine production).
+Dopamine elicits its pharmacological action by activating dopamine D1 and D2 receptors, beta-1 receptors and alpha-1 receptors.
+The activation of different receptors leading to its effects are dependent on dopamine dose.
 
-Water balance is maintained by various regulatory mechanisms.
-Water distribution depends primarily on the concentration of electrolytes and sodium (Na+) plays a major role in maintaining physiologic equilibrium.
+## 12.2 Pharmacodynamics
 
-The reported clearance rate of dopamine in critically ill infants and children has ranged from 46 to 168 mL/kg/min, with the higher values seen in the younger patients.
-The apparent volume of distribution in neonates is reported as 0.6 to 4 L/kg, leading to an elimination half-life of 5 to 11 minutes.
+Dopamine's onset of action occurs within five minutes of intravenous administration and the duration of action is less than about ten minutes.
+Dopamine effects are dosage-dependent.
+
+- At <5 mcg/kg/minute, dopamine HCl activates dopamine D1 and D2 receptors in the renal, mesenteric, and coronary vasculature causing vasodilation.
+- At 5 to 10 mcg/kg/minute, dopamine HCl activates beta-1 receptors enhancing heart rate and contractility.
+- At >10 mcg/kg/minute, dopamine HCl activates alpha-1 receptors causing vasoconstriction and increased blood pressure
+
+## 12.3 Pharmacokinetics
+
+Distribution
+
+Following intravenous administration, dopamine is widely distributed in the body but does not cross the blood-brain barrier to a significant extent.
+
+Elimination
+
+The half-life of dopamine in adults is less than 2 minutes.
+
+Metabolism
+
+About 75% of dopamine is metabolized by monoamine oxidase (MAO) and catechol O-methyl transferase (COMT) in the liver, kidney, and plasma to the inactive compounds homovanillic acid (HVA) and 3,4-dihydroxyphenylacetic acid, and about 25% is metabolized to norepinephrine in the adrenergic nerve terminals.
+
+Excretion
+
+About 80% of dopamine is renally excreted as inactive metabolites within 24 hours.
+Dopamine is stored in vesicles or diffused back into the plasma.
+
+Specific Populations
+
+Pediatric Patients
+
+The reported clearance rate of dopamine in critically ill infants and pediatric patients ranged from 46 to 168 mL/kg/minute, with the higher values seen in the younger patients.
+The reported apparent volume of distribution in neonates was 0.6 to 4 L/kg, leading to an elimination half-life of 5 to 11 minutes.

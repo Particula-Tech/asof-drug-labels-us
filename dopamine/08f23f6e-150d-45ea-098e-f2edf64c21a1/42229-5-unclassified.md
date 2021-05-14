@@ -1,3 +1,3 @@
-Aqueous Solutions for Acute Correction of Hemodynamics in Shock States
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Flexible Plastic Container
+LAB 1153 2.0

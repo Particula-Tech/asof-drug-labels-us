@@ -1,17 +1,13 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency.
+The following adverse reactions are described elsewhere in the labeling:
 
-Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction
+- Tissue Ischemia [see Warnings and Precautions (5.1)]
+- Cardiac Arrhythmias [see Warnings and Precautions (5.2)]
+- Hypotension [see Warnings and Precautions (5.3)]
+- Severe Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 
-Respiratory System dyspnea
+The following adverse reactions have been identified during post-approval use of dopamine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal System nausea vomiting
-
-Metabolic/Nutritional System azotemia
-
-Central Nervous System headache anxiety
-
-Dermatological System piloerection
-
-Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl.
+Cardiac Disorders: anginal pain, palpitation Gastrointestinal Disorders: nausea, vomiting Metabolism and Nutrition Disorders: azotemia Nervous System Disorders: headache, anxiety Respiratory Disorders: dyspnea Skin and Subcutaneous Tissue Disorders: piloerection Vascular Disorders: hypertension

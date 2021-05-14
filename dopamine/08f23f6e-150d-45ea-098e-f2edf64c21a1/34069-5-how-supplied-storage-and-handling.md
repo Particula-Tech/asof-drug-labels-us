@@ -1,25 +1,17 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Dopamine Hydrochloride in 5% Dextrose Injection, USP is supplied in 250 and 500 mL LifeCare flexible containers as follows:
+Dopamine Hydrochloride in 5% Dextrose Injection, USP, is supplied in 250 and 500 mL LifeCare flexible single-dose plastic containers (the solutions are clear to slightly yellow in appearance) as follows.
+Each 100 mL contains 5 grams of hydrous dextrose in Water for Injection.
 
 | Unit of Sale | Total Strength/Total Volume (Concentration) |
 | --- | --- |
-| NDC 0409-7808-22 12 in a carton | 200 mg/250 mL (800 mcg/mL) |
-| NDC 0409-7808-24 12 in a carton | 400 mg/500 mL (800 mcg/mL) |
-| NDC 0409-7809-22 12 in a carton | 400 mg/250 mL (1600 mcg/mL) |
-| NDC 0409-7809-24 12 in a carton | 800 mg/500 mL (1600 mcg/mL) |
-| NDC 0409-7810-22 12 in a carton | 800 mg/250 mL (3200 mcg/mL) |
+| NDC 0409-7808-22 12 in a case | 200 mg/250 mL (800 mcg/mL) |
+| NDC 0409-7808-24 12 in a case | 400 mg/500 mL (800 mcg/mL) |
+| NDC 0409-7809-22 12 in a case | 400 mg/250 mL (1600 mcg/mL) |
+| NDC 0409-7809-24 12 in a case | 800 mg/500 mL (1600 mcg/mL) |
+| NDC 0409-7810-22 12 in a case | 800 mg/250 mL (3200 mcg/mL) |
 
-Avoid contact with alkalies (including sodium bicarbonate), oxidizing agents or iron salts.
-
-Do not use the injection if it is darker than slightly yellow or discolored in any other way.
-
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 Protect from freezing.
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1153-1.0
-
-Revised: 03/2018
+Discard unused portion.
