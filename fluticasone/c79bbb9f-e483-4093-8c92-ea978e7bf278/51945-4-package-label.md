@@ -42,8 +42,7 @@ For more information, please visit www.XHANCE.com or call 1.833.678.6673
 
 For best results:
 
-Keep using XHANCE regularly twice each day without missing a dose
-
-Do not stop using XHANCE unless your healthcare provider tells you to do so
+- •Keep using XHANCE regularly twice each day without missing a dose
+- •Do not stop using XHANCE unless your healthcare provider tells you to do so
 
 Read enclosed Instructions for Use and visit www.XHANCE.com for more information.
