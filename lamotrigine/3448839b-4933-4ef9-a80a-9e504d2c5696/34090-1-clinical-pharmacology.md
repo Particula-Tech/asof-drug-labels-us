@@ -8,7 +8,7 @@ Lamotrigine also displayed inhibitory properties in the kindling model in rats b
 The relevance of these models to human epilepsy, however, is not known.
 
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
-In virto pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
+In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor-Mediated Activity
 
@@ -30,9 +30,9 @@ Reduced concentrations were partially returned to normal when supplemented with 
 
 Cardiac Electrophysiology
 
-Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+Effect of Lamotrigine:In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
 It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
-Lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+At therapeutic doses, lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease), lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death.
 Elevated heart rates could also increase the risk of ventricular conduction slowing with lamotrigine.
 
 Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N- methyl metabolite.
@@ -348,7 +348,8 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Ages 5 to 11 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6 (1.0 to 3.0) | 7.0 (3.8 to 9.8) | 2.54 (1.35 to 5.58) |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3 (1.0 to 6.4) | 19.1 (7.0 to 31.2) | 0.89 (0.39 to 1.93) |
 | Subjects taking valproate only b | 3 | 4.5 (3.0 to 6.0) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
-| Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
+| Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone a | 11 | ___c | ___c | 1.3 |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
 | a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
 | b Two subjects were included in the calculation for mean T max. |  |  |  |  |

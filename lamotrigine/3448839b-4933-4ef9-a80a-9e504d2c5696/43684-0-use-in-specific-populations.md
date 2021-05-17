@@ -50,7 +50,7 @@ The lowest effect dose for developmental neurotoxicity in rats is less than the 
 Maternal toxicity was observed at the higher dose tested.
 
 When pregnant rats were administered lamotrigine (oral doses of 0, 5, 10, or 20 mg/kg) during the latter part of gestation and throughout lactation, increased offspring mortality (including stillbirths) was seen at all doses.
-The lowest effect dose for pre- and postnatal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
+The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
 Maternal toxicity was observed at the 2 highest doses tested.
 
 When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m 2 basis.

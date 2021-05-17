@@ -23,4 +23,4 @@ Lamotrigine tablets, USP are indicated for the maintenance treatment of bipolar 
 Limitations of Use
 
 Treatment of acute manic or mixed episodes is not recommended.
-Effectiveness of lamotrigine in the acute treatment of mood episodes has not been established.
+Effectiveness of lamotrigine tablets in the acute treatment of mood episodes has not been established.

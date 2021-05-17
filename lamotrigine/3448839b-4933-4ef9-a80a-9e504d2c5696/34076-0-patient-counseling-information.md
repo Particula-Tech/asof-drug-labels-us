@@ -18,7 +18,7 @@ Instruct patients to contact their healthcare providers immediately if they expe
 
 Cardiac Rhythm and Conduction Abnormalities
 
-Inform patients that, due to its mechanism of action, lamotrigine could lead to irregular heart rhythm.
+Inform patients that, due to its mechanism of action, lamotrigine could lead to irregular or slowed heart rhythm.
 This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
 Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
 Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
