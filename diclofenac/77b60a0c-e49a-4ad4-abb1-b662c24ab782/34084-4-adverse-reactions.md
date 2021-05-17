@@ -66,3 +66,5 @@ Respiratory System: respiratory depression, pneumonia
 Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
 
 Special Senses: conjunctivitis, hearing impairment
+
+To report SUSPECTED ADVERSE EVENTS, contact Teva Pharmaceuticals USA, Inc., at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.

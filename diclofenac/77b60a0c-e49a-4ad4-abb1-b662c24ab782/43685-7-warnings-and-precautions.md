@@ -322,9 +322,6 @@ Risk Summary
 
 Use of NSAIDs, including diclofenac potassium tablets, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of diclofenac potassium tablets use between about 20 and 30 weeks of gestation, and avoid diclofenac potassium tablets use at about 30 weeks of gestation and later in pregnancy (see WARNINGS; Fetal Toxicity).
-The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Premature Closure of Fetal Ductus Arteriosus
 
@@ -340,6 +337,9 @@ Based on animal data, prostaglandins have been shown to have an important role i
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
