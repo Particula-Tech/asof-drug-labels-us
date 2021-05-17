@@ -19,7 +19,7 @@
 | The most common side effects of BIKTARVY are diarrhea, nausea, and headache. |  |
 | These are not all of the possible side effects of BIKTARVY. |  |
 | Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
-| How should I store BIKTARVY? Store BIKTARVY below 86°F (30°C).Keep BIKTARVY in its original container.Keep the container tightly closed. |  |
+| How should I store BIKTARVY? Store BIKTARVY bottle below 86 °F (30 °C).Keep the bottle tightly closed.Store BIKTARY blister pack at room temperature between 68 °F to 77 °F (20 °C to 25 °C).Keep BIKTARVY in its original bottle or blister pack. |  |
 | Keep BIKTARVY and all medicines out of reach of children. |  |
 | General information about the safe and effective use of BIKTARVY. |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use BIKTARVY for a condition for which it was not prescribed. Do not give BIKTARVY to other people, even if they have the same symptoms you have. It may harm them. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about BIKTARVY that is written for health professionals. |  |
@@ -29,6 +29,6 @@
 | The tablets are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. |  |
 | Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404 |  |
 | BIKTARVY is a trademark of Gilead Sciences, Inc., or its related companies. All other trademarks referenced herein are the property of their respective owners. |  |
-| © 2021 Gilead Sciences, Inc. All rights reserved. 210251-GS-006 |  |
+| © 2021 Gilead Sciences, Inc. All rights reserved. 210251-GS-007 |  |
 | For more information, call 1-800-445-3235 or go to www.BIKTARVY.com. |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised:02/2021 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised 05/2021 |
