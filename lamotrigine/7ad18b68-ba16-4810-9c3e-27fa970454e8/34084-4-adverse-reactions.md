@@ -47,7 +47,7 @@ Controlled Adjunctive Clinical Trials in Adults with Epilepsy: Table 8 lists adv
 In these trials, either SUBVENITE or placebo was added to the patient's current AED therapy.
 
 Table 8.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsya,b
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsy a,b
 
 | Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive SUBVENITE(n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive 
 |  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo (n = 73) | SUBVENITE300 mg (n = 71) | SUBVENITE 500 mg (n = 72) |
-| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28a,b 25a,b 49a,b 54a,b 25a 18a |
+| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24 a 31 18 11 | 28 a,b 25 a,b 49 a,b 54 a,b 25 a 18 a |
 | a Significantly greater than placebo group (P<0.05). |  |  |  |
 | b Significantly greater than group receiving SUBVENITE 300 mg (P<0.05). |  |  |  |
 
@@ -83,9 +83,9 @@ There was little difference between females and males in the rates of discontinu
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with SUBVENITE in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
 Table 10.
-Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
+Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizures a,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITEc as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose ValproatedMonotherapy (n = 44) |
+| Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITEc as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproate dMonotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole Pain Infection Chest pain | 5 5 5 | 0 2 2 |
 | Digestive Vomiting Dyspepsia Nausea | 9 7 7 | 0 2 2 |
@@ -117,7 +117,7 @@ Special Senses: Vision abnormality.
 Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received SUBVENITE up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsya
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsy a
 
 | Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITE(n = 168) | Percent of Patients Receiving Placebo (n = 171) |
 | --- | --- | --- |
@@ -145,7 +145,7 @@ Approximately 16% of 2,401 patients who received SUBVENITE (50 to 500 mg/day) fo
 The overall adverse reaction profile for SUBVENITE was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
-Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
+Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disorder a,b
 
 | Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITE(n = 227) | Percent of Patients Receiving Placebo (n = 190) |
 | --- | --- | --- |
@@ -153,7 +153,7 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 | Digestive Nausea Constipation Vomiting | 14 5 5 | 11 2 2 |
 | Nervous System Insomnia Somnolence Xerostomia (dry mouth) | 10 9 6 | 6 7 4 |
 | Respiratory Rhinitis Exacerbation of cough Pharyngitis | 7 5 5 | 4 3 4 |
-| Skin Rash (nonserious)c | 7 | 5 |
+| Skin Rash (nonserious) c | 7 | 5 |
 
 aAdverse reactions that occurred in at least 5% of patients treated with SUBVENITE and at a greater incidence than placebo. bPatients in these trials were converted to SUBVENITE (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications.
 Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. cIn the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received SUBVENITE as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received SUBVENITE as adjunctive therapy [see Warnings and Precautions (5.1)].

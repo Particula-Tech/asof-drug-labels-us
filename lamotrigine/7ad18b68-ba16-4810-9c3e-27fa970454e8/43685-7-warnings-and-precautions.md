@@ -1,12 +1,12 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## Serious Skin Rashes [see Boxed Warning]
+## 5.1 Serious Skin Rashes [see Boxed Warning]
 
 Pediatric Population
 
 The incidence of serious rash associated with hospitalization and discontinuation of SUBVENITE in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking SUBVENITE as adjunctive therapy.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -60,9 +60,9 @@ Prior to initiation of treatment with SUBVENITE, the patient should be instructe
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
 In vitro testing showed that SUBVENITE exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
-Based on this activity, SUBVENITE could slow ventricular conduction (widen QRS) and induce proarrhythmia, including sudden death, in patients with structural heart disease or myocardial ischemia.
-Therefore, avoid the use of SUBVENITE in patients who have cardiac conduction disorders (e.g., second- or third-degree heart block), ventricular arrhythmias, or cardiac disease or abnormality (e.g., myocardial ischemia, heart failure, structural heart disease, Brugada syndrome or other sodium channelopathies).
-Concomitant use of other sodium channel blockers may increase the risk of proarrhythmia.
+Based on these in vitro findings, SUBVENITE could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
+Any expected or observed benefit of SUBVENITE in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrhythmias and/or death for that patient.
+Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
 
 ## 5.5 Blood Dyscrasias
 

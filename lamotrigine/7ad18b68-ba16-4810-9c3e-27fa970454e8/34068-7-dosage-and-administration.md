@@ -106,7 +106,7 @@ Recommended dosing guidelines are summarized in Table 1.
 Table 1.
 Escalation Regimen for SUBVENITE in Patients Older than 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneband NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day(in 2 divided doses) |
@@ -115,7 +115,7 @@ Escalation Regimen for SUBVENITE in Patients Older than 12 Years with Epilepsy
 
 a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 Patients Aged 2 to 12 Years
 
@@ -132,7 +132,7 @@ If the calculated dose cannot be achieved using whole tablets, the dose should b
 Table 2.
 Escalation Regimen for SUBVENITE in Patients Aged 2 to 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneband NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
@@ -219,7 +219,7 @@ To avoid an increased risk of rash, the recommended initial dose and subsequent 
 Table 5.
 Escalation Regimen for SUBVENITE in Adults with Bipolar Disorder
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneband NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg daily | 50 mg daily |
 | Weeks 3 and 4 | 25 mg daily | 50 mg daily | 100 mg daily, in divided doses |
@@ -234,7 +234,7 @@ Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follo
 Table 6.
 Dosage Adjustments to SUBVENITE in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
-|  | Discontinuation of Psychotropic Drugs (excluding Valproatea,Carbamazepine,Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
+|  | Discontinuation of Psychotropic Drugs (excluding Valproate a,Carbamazepine,Phenytoin, Phenobarbital, or Primidone b) | After Discontinuation of Valproate a | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidone b |
 | --- | --- | --- | --- |
 |  |  | Current Dose of Lamotrigine (mg/day)100 | Current Dose of Lamotrigine (mg/day)400 |
 | Week 1 | Maintain current dose of SUBVENITE | 150 | 400 |

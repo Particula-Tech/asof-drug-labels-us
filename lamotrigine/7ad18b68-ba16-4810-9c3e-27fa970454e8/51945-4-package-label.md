@@ -4,7 +4,7 @@
 
 NDC 69102-301-01
 
-SUBVENITETM
+SUBVENITE TM
 
 (lamotrigine tablets, USP) 25 mg
 
@@ -20,7 +20,7 @@ Rx Only
 
 NDC 69102-319-01
 
-SUBVENITETM
+SUBVENITE TM
 
 (lamotrigine tablets, USP) 100 mg
 
@@ -36,7 +36,7 @@ Rx Only
 
 NDC 69102-150-01
 
-SUBVENITETM
+SUBVENITE TM
 
 (lamotrigine tablets, USP) 150 mg
 
@@ -52,7 +52,7 @@ Rx Only
 
 NDC 69102-320-01
 
-SUBVENITETM
+SUBVENITE TM
 
 (lamotrigine tablets, USP) 200 mg
 
@@ -68,7 +68,7 @@ Rx Only
 
 Subvenite
 
-(lamotrigine tablets, USP)Blue Starter Kit
+(lamotrigine tablets, USP) Blue Starter Kit
 
 Contains
 

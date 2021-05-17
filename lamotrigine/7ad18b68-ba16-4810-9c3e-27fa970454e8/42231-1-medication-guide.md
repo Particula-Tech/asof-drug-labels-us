@@ -46,7 +46,7 @@ Call your healthcare provider right away if you have any of these symptoms:
 - pain and/or tenderness in the area towards the top of your stomach (enlarged liver and/or spleen)
 
 3.
-In patients with known heart problems, the use of lamotrigine may lead to a fast heart beat.
+In patients with known heart problems, the use of SUBVENITE may lead to a fast heart beat.
 Call your healthcare provider right away if you:• have a fast, slow, or pounding heart beat. • feel your heart skip a beat. • have shortness of breath. • have chest pain. • feel lightheaded.
 
 4.
@@ -69,7 +69,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 
 Do not stop SUBVENITE without first talking to a healthcare provider.
 
-- Stopping lamotrigine suddenly can cause serious problems.
+- Stopping SUBVENITE suddenly can cause serious problems.
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
@@ -126,7 +126,7 @@ Do not take SUBVENITE:
 - if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in SUBVENITE.
   See the end of this leaflet for a complete list of ingredients in SUBVENITE.
 
-Before taking SUBVENITE, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking SUBVENITE, tell your healthcare provider about all of your health conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
@@ -138,7 +138,7 @@ Before taking SUBVENITE, tell your healthcare provider about all of your medical
   Stopping these medicines while you are taking SUBVENITE may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well SUBVENITE works.
 - are pregnant or plan to become pregnant.
-  It is not known if SUBVENITE will harm your unborn baby.
+  It is not known if SUBVENITE may harm your unborn baby.
   If you become pregnant while taking SUBVENITE, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
@@ -172,13 +172,13 @@ How should I take SUBVENITE?
 - You may not feel the full effect of SUBVENITE for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow SUBVENITE whole.
-- If you have trouble swallowing SUBVENITE tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
-- If you receive SUBVENITE in a blister-pack, examine the blister-pack before use.
+- If you have trouble swallowing SUBVENITE tablets, tell your healthcare provider because there may be another form of SUBVENITE you can take.
+- If you receive SUBVENITE in a blister pack, examine the blister pack before use.
   Do not use if blisters are torn, broken, or missing.
 
-What should I avoid while taking lamotrigine?
+What should I avoid while taking SUBVENITE?
 
-Do not drive, operate machinery, or do other dangerous activities until you know how lamotrigine affects you.
+Do not drive, operate machinery, or do other dangerous activities until you know how SUBVENITE affects you.
 
 What are the possible side effects of SUBVENITE?
 
@@ -246,8 +246,8 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured for:
 
 OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563.
 
-8080087 OWOSSUBMGI0920 Revised November 2020
+8082161 OWOSSUBMGI0321 Revised May 2021
