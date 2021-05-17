@@ -22,7 +22,7 @@ In late-onset deficiency patients, including females heterozygous for ornithine 
 The two deaths in this group of patients occurred during episodes of hyperammonemic encephalopathy.
 However, compliance with the therapeutic regimen has not been adequately documented to allow evaluation of the potential for BUPHENYL and dietary protein restriction to prevent mental deterioration and recurrence of hyperammonemic encephalopathy if carefully adhered to.
 The majority of these patients tested (30/46 or 65%) have IQ's in the average to low average/borderline mentally retarded range.
-Reversal of pre-existing neurologic impairment is not likely to occur with treatment and neurologic deterioration may continue in some patients.
+Reversal of preexisting neurologic impairment is not likely to occur with treatment and neurologic deterioration may continue in some patients.
 
 Even on therapy, acute hyperammonemic encephalopathy recurred in the majority of patients for whom the drug is indicated.
 

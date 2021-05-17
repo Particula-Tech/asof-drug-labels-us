@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 The assessment of clinical adverse events came from 206 patients treated with sodium phenylbutyrate.
-Adverse events (both clinical and laboratory) were not collected systematically in these patients, but were obtained from patient-visit reports by the 65 co-investigators.
+Adverse events (both clinical and laboratory) were not collected systematically in these patients, but were obtained from patient visit reports by the 65 co-investigators.
 Causality of adverse effects is sometimes difficult to determine in this patient population because they may result from either the underlying disease, the patient's restricted diet, intercurrent illness, or BUPHENYL.
-Furthermore, the rates may be under-estimated because they were reported primarily by parent or guardian and not the patient.
+Furthermore, the rates may be underestimated because they were reported primarily by parent or guardian and not the patient.
 
 ## Clinical Adverse Events
 

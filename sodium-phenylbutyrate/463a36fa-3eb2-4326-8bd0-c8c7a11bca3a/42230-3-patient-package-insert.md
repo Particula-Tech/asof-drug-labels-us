@@ -37,7 +37,7 @@ BUPHENYL aids the body in eliminating substances that produce ammonia.
 However, despite drug treatment, blood ammonia levels may become elevated periodically and there may be episodes of altered brain function in association with these ammonia elevations.
 Patients who have disease onset as newborns have a high incidence of mental retardation.
 Medical attention should be obtained as soon as signs appear (see above under "What are urea cycle disorders?").
-BUPHENYL may be used as life-long therapy or as a temporary measure until liver transplantation is performed.
+BUPHENYL may be used as lifelong therapy or as a temporary measure until liver transplantation is performed.
 
 What diet should I or my child follow?
 
@@ -92,4 +92,4 @@ This leaflet provides a brief summary of the information available on BUPHENYL.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
 For more complete information, consult your physician, or contact Horizon at 1-866-479-6742.
 
-BUP-US-PPI-001
+BUP-US-PPI-002
