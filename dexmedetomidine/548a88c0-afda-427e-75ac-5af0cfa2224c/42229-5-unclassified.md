@@ -1,3 +1,3 @@
-Distributed by: Hospira, Inc. Lake Forest, IL 60045
+Distributed by Hospira, Inc. Lake Forest, IL 60045
 
-LAB-1346-1.0
+LAB-1346-2.0
