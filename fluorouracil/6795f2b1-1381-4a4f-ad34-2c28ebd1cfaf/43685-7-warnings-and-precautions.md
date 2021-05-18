@@ -36,6 +36,10 @@ Patients using Carac should receive the following information and instructions:
    Treated areas may be unsightly during and after therapy.
 9. 9.If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
 10. 10.Report any side effects to the physician and/or pharmacist.
+11. 11.Fluorouracil, including Carac may be fatal if ingested by pets.
+    Avoid allowing pets to contact the Carac container or the skin where Carac has been applied.
+    Store Carac out of reach of pets.
+    Safely discard or clean any cloth or applicator that may retain Carac and avoid leaving any residues of Carac on your hands, clothing, carpeting or furniture.
 
 ## Laboratory Tests:
 
@@ -47,7 +51,7 @@ Adequate long-term studies in animals to evaluate carcinogenic potential have no
 Studies with the active ingredient of Carac, fluorouracil, have shown positive effects in in vitro and in vivo tests for mutagenicity and on impairment of fertility in in vivo animal studies.
 
 Fluorouracil produced morphological transformation of cells in in vitro cell transformation assays.
-Morphological transformation was also produced in an in vitro assay by a metabolite of fluorouracil, and the transformed cells produced malignant tumors when injected into immunosuppressed syngeneic mice.
+Morphological transformation was also produced in anin vitro assay by a metabolite of fluorouracil, and the transformed cells produced malignant tumors when injected into immunosuppressed syngeneic mice.
 Fluorouracil has been shown to exert mutagenic activity in yeast cells, Bacillus subtilis, and Drosophila assays.
 In addition, fluorouracil has produced chromosome damage at concentrations of 1.0 and 2.0 mcg/mL in an in vitro hamster fibroblast assay, was positive in a microwell mouse lymphoma assay, and was positive in in vivo micronucleus assays in rats and mice following intraperitoneal administration.
 Some patients receiving cumulative doses of 0.24 to 1.0 g of fluorouracil parenterally have shown an increase in numerical and structural chromosome aberrations in peripheral blood lymphocytes.

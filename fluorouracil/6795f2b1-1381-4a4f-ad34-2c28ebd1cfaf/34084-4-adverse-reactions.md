@@ -5,7 +5,7 @@ The signs and symptoms of facial irritation (i.e., application site reaction) ar
 
 Summary of Facial Irritation Signs and Symptoms - Pooled Phase 3 Studies
 
-|  | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) |
+|  |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  | n (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Clinical Sign or Symptom | Active 1 Week N=85 |  | Active 2 Week N=87 |  | Active 4 Week N=85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
 | Erythema | 76 | (89.4) | 82 | (94.3) | 82 | (96.5) | 240 | (93.4) | 76 | (59.8) |
@@ -25,12 +25,12 @@ Except for three patients, discontinuation of treatment occurred on or after Day
 Eye irritation adverse events, described as mild to moderate in intensity, were characterized as burning, watering, sensitivity, stinging, and itching.
 These adverse events occurred across all treatment arms in one of the two Phase 3 studies.
 
-Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Active Treatment and Vehicle Groups - Pooled Phase 3 Studies
+Summary of All Adverse Events Reported in ≥ 1% of Patients in the Combined Active Treatment and Vehicle Groups - Pooled Phase 3 Studies
 
 | BODY AS A WHOLE | 7 | (8.2) | 6 | (6.9) | 12 | (14.1) | 25 | (9.7) | 15 | (11.8) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9721 and 9722 Combined |  |  |  |  |  |  |  |  |  |  |
-| Adverse Event | Active 1 Week N= 85 |  | Active 2Week N= 87 |  | Active 4Week N= 85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
+| Adverse Event | Active 1 Week N= 85 |  | Active 2 Week N= 87 |  | Active 4 Week N= 85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
 |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  | n (%) |  |
 | Headache | 3 | (3.5) | 2 | (2.3) | 3 | (3.5) | 8 | (3.1) | 3 | (2.4) |
 | Common Cold | 4 | (4.7) | 0 |  | 2 | (2.4) | 6 | (2.3) | 3 | (2.4) |
@@ -56,4 +56,4 @@ Post-treatment clinical laboratory tests other than pregnancy tests were not per
 Clinical laboratory tests were performed during conduct of a Phase 2 study of 104 patients and 21 patients in a Phase 1 study.
 No abnormal serum chemistry, hematology, or urinalysis results in these studies were considered clinically significant.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

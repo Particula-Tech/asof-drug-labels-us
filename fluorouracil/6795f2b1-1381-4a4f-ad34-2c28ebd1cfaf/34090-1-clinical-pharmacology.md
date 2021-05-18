@@ -21,7 +21,7 @@ Plasma Pharmacokinetic Summary
 | --- | --- | --- |
 | Cmax | 0.77 ng/mL | 11.49 ± 8.24 ng/mL |
 | Tmax | 1.00 hr | 1.03 ± 0.028 hr |
-| AUC (0–24) | 2.80 ng∙hr/mL | 22.39 ± 7.89 ng∙hr/mL |
+| AUC(0–24) | 2.80 ng∙hr/mL | 22.39 ± 7.89 ng∙hr/mL |
 
 Five of 10 patients receiving Carac and nine of 10 patients receiving Efudex® 5% Cream had measurable urine fluorouracillevels.
 
@@ -30,9 +30,9 @@ Urine Pharmacokinetic Summary
 | PK Parameter | Carac (Mean ± SD) (Range) n=10 | Efudex® (Mean ± SD) (Range) n=10 |
 | --- | --- | --- |
 | Cum AeCumulative urinary excretion | 2.74 ± 5.22 mcg | 119.83 ± 94.80 mcg |
-| (min-max) | (0–15.02) | (0–329.87) |
+| (min-max) | (0-15.02) | (0-329.87) |
 | Max excretion rate | 0.19 ± 0.52 mcg/hr | 40.27 ± 47.14 mcg/hr |
-| (min-max) | (0–1.67) | (0–164.5) |
+| (min-max) | (0-1.67) | (0-164.5) |
 
 Both Carac and Efudex® 5% Cream demonstrated low measurable plasma concentrations for fluorouracil when administered under steady-state conditions.
 Cumulative urinary excretion of fluorouracil was low for Carac and for Efudex®, corresponding to 0.055% and 0.24% of the applied doses, respectively.

@@ -11,4 +11,4 @@ FOR TOPICAL USE ONLY
 Net Wt.
 30 g
 
-VALEANT
+Ortho Dermatologics

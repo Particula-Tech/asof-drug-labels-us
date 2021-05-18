@@ -57,6 +57,14 @@ Do not cover the treated skin with a dressing.
 Do not breast feed or become pregnant while using Carac.
 If you do become pregnant, stop using Carac and tell your doctor right away.
 
+Carac may be fatal to your pet if your pet licks or ingests Carac.
+
+- •Avoid allowing pets to contact the Carac container or your skin where you applied Carac
+- •Store Carac out of reach of pets
+- •Safely discard or clean any cloth or applicator that may have Carac residue
+- •Avoid applying Carac on your clothing, carpeting, or furniture.
+- •If your pet starts vomiting or starts having a seizure after your pet licks or ingests Carac, seek immediate veterinary care for your pet.
+
 What are the possible side effects of Carac?
 
 Most patients using Carac get skin reactions where the medicine is used.
@@ -74,7 +82,6 @@ If you experience any of these symptoms, discontinue therapy immediately, and co
 Storage information
 
 Keep this medicine at room temperature 68° to 77° F (20° to 25° C). Throw away unused medicine.
-
 Keep this medicine out of reach of children.
 
 General advice about prescription medicines
@@ -86,16 +93,14 @@ Never give it to other people.
 It may harm them even if their skin problem appears to be the same as yours.
 Do not use Carac after the expiration date on the tube.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
 U.S. Patent Number 6,670,335
 
-©Valeant Pharmaceuticals North America LLC
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-Revised: 05/2017
+Revised: 05/2021
 
 9499602
-
-50083783H
