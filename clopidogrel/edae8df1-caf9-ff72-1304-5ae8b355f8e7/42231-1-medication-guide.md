@@ -99,6 +99,7 @@ Especially tell your doctor if you take:
 - warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
+- rifampin (used to treat severe infections)
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -200,7 +201,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: June 2019
+Revised: April 2021
 
 Rev.
-26
+27

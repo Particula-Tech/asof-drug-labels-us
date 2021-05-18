@@ -31,7 +31,7 @@ Most of the benefit of clopidogrel occurred in the first two months, but the dif
 The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
 The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
-The use of oral anticoagulants, non study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
 The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2,253 patients [36.0%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
@@ -98,7 +98,7 @@ However, because aspirin is itself effective in reducing cardiovascular events i
 
 The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD.
 The efficacy of clopidogrel relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8).
-Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups.
+Nonetheless, this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups.
 The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was not numerically superior to aspirin.
 

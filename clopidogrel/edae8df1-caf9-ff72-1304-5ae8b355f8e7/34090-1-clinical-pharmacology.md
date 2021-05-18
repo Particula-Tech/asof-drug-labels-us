@@ -72,6 +72,16 @@ Drug Interactions
 Effect of other drugs on Clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+
+CYP2C19 inducers
+
+Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
+
+Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and Cmax of clopidogrel’s thiol metabolites by 3.8-fold.
+Mean inhibition of platelet aggregation at 4 hours post-dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
+
+CYP2C19 inhibitors
+
 Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 
 Proton pump inhibitors (PPI)
@@ -86,7 +96,7 @@ Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopid
 Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 
 Effect of clopidogrel on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.6)].
+Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.7)].
 
 ## 12.5 Pharmacogenomics
 

@@ -7,14 +7,17 @@ Inhibition of platelet aggregation by clopidogrel is achieved through an active 
 The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning].
 
 The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole.
-Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel [see Drug Interactions (7.1)].
+Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel [see Drug Interactions (7.2)].
 
 ## 5.2 General Risk of Bleeding
 
-Thienopyridines, including clopidogrel bisulfate, increase the risk of bleeding.
+P2Y12 inhibitors (Thienopyridines), including clopidogrel bisulfate, increase the risk of bleeding.
 
-Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days).
+P2Y12 inhibitors (Thienopyridines), inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days).
 Because the half-life of clopidogrel’s active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
+
+Use of drugs that induce the activity of CYP2C19 would be expected to result in increased drug levels of the active metabolite of clopidogrel and might potentiate the bleeding risk.
+As a precaution, avoid concomitant use of strong CYP2C19 inducers [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 5.3 Discontinuation of Clopidogrel Bisulfate
 

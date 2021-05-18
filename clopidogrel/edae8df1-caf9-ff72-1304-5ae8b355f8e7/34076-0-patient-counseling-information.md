@@ -15,7 +15,7 @@ Thrombotic Thrombocytopenic Purpura Instruct patients to get prompt medical atte
 Invasive Procedures Advise patients to inform physicians and dentists that they are taking clopidogrel before any surgery or dental procedure [see Warnings and Precautions (5.2, 5.3)].
 
 Proton Pump Inhibitors Advise patients not to take omeprazole or esomeprazole while taking clopidogrel.
-Dexlansoprazole, lansoprazole and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Drug Interactions (7.1)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Drug Interactions (7.2)].
 
 APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 
@@ -25,7 +25,7 @@ APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: June 2019
+Revised: April 2021
 
 Rev.
-26
+27
