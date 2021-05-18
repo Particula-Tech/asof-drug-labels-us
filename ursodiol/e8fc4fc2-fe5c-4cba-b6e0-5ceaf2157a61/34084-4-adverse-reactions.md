@@ -25,7 +25,7 @@ However, an adverse reaction may occur at any dose.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions, presented by system organ class in alphabetical order, have been identified during postapproval use of ursodiol.
+The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of ursodiol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Gastrointestinal disorders: abdominal discomfort, abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomiting.

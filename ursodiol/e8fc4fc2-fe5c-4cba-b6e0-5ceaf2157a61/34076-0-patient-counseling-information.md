@@ -14,7 +14,7 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940 www.allergan.com
 
 URSO 250® and URSO Forte® are registered trademarks of Allergan Sales, LLC.
 
-© 2018 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
-v1.0USPI785
+v2.0USPI785

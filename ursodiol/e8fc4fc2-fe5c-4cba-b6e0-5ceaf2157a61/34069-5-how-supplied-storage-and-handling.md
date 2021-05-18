@@ -9,7 +9,6 @@ Available in bottles of 100 tablets (NDC 58914-785-10).
 
 Each URSO Forte elliptical, biconvex, scored, film-coated tablet, white, engraved with "URS790", contains 500 mg of ursodiol.
 Available in bottles of 100 tablets (NDC 58914-790-10).
-
 Store at 20°C to 25°C (68°F to 77°F).
 Dispense in a tight container.
 

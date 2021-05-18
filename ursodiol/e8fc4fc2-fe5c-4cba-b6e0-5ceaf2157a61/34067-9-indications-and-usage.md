@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-URSO 250® and URSO Forte® (ursodiol) tablets are indicated for the treatment of patients with primary biliary cirrhosis (PBC).
+URSO 250 and URSO Forte (ursodiol) tablets are indicated for the treatment of patients with primary biliary cholangitis (PBC).

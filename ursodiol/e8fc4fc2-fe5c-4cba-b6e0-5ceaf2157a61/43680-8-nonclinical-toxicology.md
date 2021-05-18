@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenicity, Mutagenicity and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In two 24-month oral carcinogenicity studies in mice, ursodiol at doses up to 1,000 mg/kg/day (3,000 mg/m2/day) was not tumorigenic.
 Based on body surface area, for a 50 kg person of average height (1.46 m2 body surface area), this dose represents 5.4 times the recommended maximum clinical dose of 15 mg/kg/day (555 mg/m2/day).
