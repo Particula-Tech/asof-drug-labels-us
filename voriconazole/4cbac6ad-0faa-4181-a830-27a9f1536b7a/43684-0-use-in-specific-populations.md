@@ -46,8 +46,8 @@ Monitoring for adverse reactions associated with oral contraceptives and voricon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of voriconazole have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
-A total of 105 pediatric patients aged 2 to less than 12 [N=26] and aged 12 to less than 18 [N=79] from two, non-comparative Phase 3 pediatric studies and eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The safety and effectiveness of voriconazole have been established in pediatric patients aged 12 to 14 years weighing greater than or equal to 50 kg and those aged 15 years and older regardless of body weight based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
+A total of 51 pediatric patients aged 12 to less than 18 [N=51] from eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Safety and effectiveness in pediatric patients below the age of 2 years has not been established.
 Therefore, voriconazole is not recommended for pediatric patients less than 2 years of age.
@@ -62,7 +62,7 @@ Sun avoidance and dermatologic follow-up are recommended in pediatric patients e
 Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
 Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.10)].
 
-- Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+- Additional pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use

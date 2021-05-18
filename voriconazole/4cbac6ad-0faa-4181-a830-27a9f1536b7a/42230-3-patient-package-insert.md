@@ -26,7 +26,7 @@ Do not take voriconazole tablets if you:
 | •sirolimus | •rifampin | •carbamazepine |
 | •long-acting barbiturates like phenobarbital | •efavirenz | •ritonavir |
 | •rifabutin | •ergotamine, dihydroergotamine (ergot alkaloids) | •St. John’s Wort (herbal supplement) |
-| •naloxegol | •tolvaptan |  |
+| •naloxegol | •tolvaptan | •Ivabradine•venetoclax |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
@@ -145,20 +145,6 @@ The most common side effects of voriconazole tablets in adults include:
 | •nausea | •headache | •fast heart beat (tachycardia) |
 | •hallucinations (seeing or hearing things that are not there) | •abnormal liver function tests•chills | •fever |
 
-The most common side effects of voriconazole tablets in children include:
-
-| •fever | •high blood pressure | •inflammation of mucous membranes |
-| --- | --- | --- |
-| •diarrhea | •cough | •hallucinations (seeing or hearing things that are not there) |
-| •low platelet counts | •low blood pressure | •coughing up blood |
-| •abnormal liver function tests | •swelling in arms and legs |  |
-| •low blood calcium levels | •high blood sugar levels | •constipation |
-| •low blood phosphate levels | •headache | •low blood magnesium levels |
-| •vision changes | •fast heart beat (tachycardia) | •fullness of the stomach area |
-| •rash | •nose bleeds | •vomiting |
-| •stomach pain | •low blood potassium levels | •nausea |
-|  |  | •upper respiratory tract infection |
-
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of voriconazole tablets.
@@ -168,9 +154,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store voriconazole tablets?
 
-- •Store voriconazole tablets at room temperature, 68°F to 77°F (20°C to 25°C).
-  Do not refrigerate or freeze.
-- •Keep voriconazole tablets in a tightly closed container.
+- •Store voriconazole tablets at room temperature, 59°F to 86°F (15°C to 30°C).
+- • Keep voriconazole tablets in a tightly closed container.
 - •Safely throw away medicine that is out of date or no longer needed.
 - •Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
 
@@ -189,7 +174,7 @@ Active ingredient: voriconazole
 
 Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, pregelatinized starch, povidone, talc, and coating material containing hypromellose, lactose monohydrate, titanium dioxide, and triacetin.
 
-Trademarks are the properties of their respective owners.
+Trademarks are the property of their respective owners.
 
 Manufactured by:
 
@@ -204,6 +189,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-March 2021
+May 2021
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

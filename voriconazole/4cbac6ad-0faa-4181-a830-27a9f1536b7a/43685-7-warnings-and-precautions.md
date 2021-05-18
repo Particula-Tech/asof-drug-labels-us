@@ -14,9 +14,6 @@ Measure serum transaminase levels and bilirubin at the initiation of voriconazol
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
 If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
-- Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 5.2 Arrhythmias and QT Prolongation
 
 Some azoles, including voriconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
