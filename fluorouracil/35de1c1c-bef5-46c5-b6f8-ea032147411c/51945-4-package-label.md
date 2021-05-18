@@ -4,7 +4,7 @@ NDC 0187-3204-47
 
 Rx only
 
-Efudex® (fluorouracil) Topical Cream, 5%
+Efudex® (fluorouracil) Topical Cream 5%
 
 FOR TOPICAL USE ONLY
 

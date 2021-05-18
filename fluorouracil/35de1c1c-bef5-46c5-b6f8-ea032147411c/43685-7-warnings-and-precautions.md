@@ -30,6 +30,11 @@ Patients should be instructed to avoid exposure to ultraviolet rays during and i
 If EFUDEX is applied with the fingers, the hands should be washed immediately afterward.
 EFUDEX should not be applied on the eyelids or directly into the eyes, nose, or mouth because irritation may occur.
 
+Fluorouracil, including Efudex may be fatal if ingested by pets.
+Avoid allowing pets to contact the Efudex container or the skin where Efudex has been applied.
+Store Efudex out of reach of pets.
+Safely discard or clean any cloth or applicator that may retain Efudex and avoid leaving any residues of Efudex on your hands, clothing, carpeting or furniture.
+
 ## Laboratory Tests:
 
 Solar keratoses which do not respond should be biopsied to confirm the diagnosis.

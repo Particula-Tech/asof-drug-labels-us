@@ -9,8 +9,6 @@ EFUDEX is a trademark of Bausch Health Companies Inc. or its affiliates.
 © 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-04/2020
+05/2021
 
-9734600
-
-115797
+9734601
