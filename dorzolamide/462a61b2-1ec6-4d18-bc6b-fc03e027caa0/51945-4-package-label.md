@@ -1,15 +1,15 @@
-# PACKAGE LABEL PRINCIPAL DISPLAY PANEL: 10ml in 10ml bottle
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Principal Display Panel
+NDC 14445-404-10.
+Indoco Remedies Limited.
+Dorzolamide Hydrochloride Ophthalmic Solution, USP, 2%.
+10 ml in 10 ml bottle Container Label
 
-NDC 0591-2481-79
+Rx
 
-Sterile
+NDC 14445-404-10.
+Indoco Remedies Limited.
+Dorzolamide Hydrochloride Ophthalmic Solution, USP, 2%.
+10 ml Carton Label
 
-Dorzolamide Hydrochloride ophthalmic solution 2% * 22.3 mg/mL
-
-FOR USE IN THE EYES ONLY
-
-Watson 10 mL
-
-Rx only
+Rx
