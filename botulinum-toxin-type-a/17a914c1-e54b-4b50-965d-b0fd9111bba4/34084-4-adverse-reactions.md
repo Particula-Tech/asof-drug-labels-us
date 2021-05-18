@@ -41,7 +41,7 @@ The adverse events profile was similar to that reported in single dose trials.
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to prabotulinumtoxinA-xvfs in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to prabotulinumtoxinA-xvfs in the studies described below, with the incidence of antibodies in other studies, or to other products may be misleading.
 
 Treatment with botulinum toxins may result in the formation of antibodies that may reduce the effectiveness of subsequent treatments by inactivating biological activity of the toxin.
 Among 1,414 subjects treated with prabotulinumtoxinA-xvfs, 2 subjects were found to have pre-existing antibodies and 2 subjects had treatment-emergent antibodies.

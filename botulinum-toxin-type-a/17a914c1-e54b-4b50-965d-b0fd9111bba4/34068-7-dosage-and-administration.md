@@ -6,7 +6,7 @@ The potency Units of JEUVEAU (prabotulinumtoxinA-xvfs) for injection are specifi
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of JEUVEAU cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
 
 Retreatment of JEUVEAU should be administered no more frequently than every three months.
-Consideration of the cumulative dose is necessary when treating adult patients with JEUVEAU for Glabellar Lines if other botulinum toxin products are or have been used to treat other indications approved for those products.
+Consideration of the cumulative dose is necessary when treating adult patients with JEUVEAU for glabellar lines if other botulinum toxin products are or have been used to treat other indications approved for those products.
 
 The safe and effective use of JEUVEAU depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 Physicians administering JEUVEAU must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures [see Warnings and Precautions (5.4)].
@@ -33,9 +33,8 @@ Dilution Instructions for JEUVEAU Vials (100 Units)
 | --- | --- |
 | 2.5 mL | 4 Units |
 
-Reconstituted JEUVEAU should be clear, colorless, and free of particulate matter.
+Reconstituted JEUVEAU should be clear, colorless, and free of particulate matter otherwise it should not be injected.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
-Reconstituted JEUVEAU should be a clear, colorless solution, free of particulate matter, otherwise it should not be injected.
 
 ## 2.3 Administration
 
@@ -51,9 +50,9 @@ In order to reduce the complication of eyelid ptosis the following steps should 
 - •Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
 - •Lateral corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
 - •Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
-- •Avoid injecting toxin closer than 1 centimeter above the central eyebrow.
+- •Avoid injecting JEUVEAU closer than 1 centimeter above the central eyebrow.
 
-Draw at least 0.5 mL of the properly reconstituted toxin into a sterile syringe and expel any air bubbles in the syringe barrel.
+Draw at least 0.5 mL of the properly reconstituted JEUVEAU into a sterile syringe and expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach a 30-33 gauge needle.
 Confirm the patency of the needle.
-Inject a dose of 0.1 mL (4 Units) intramuscularly into each of five sites, the inferomedial and superior middle of each corrugator and one in the mid-line of the procerus muscle for a total dose of 20 Units (See Figure 1).
+Inject a dose of 0.1 mL (4 Units) intramuscularly into each of five sites: the inferomedial and superior middle of each corrugator, and one in the mid-line of the procerus muscle for a total dose of 20 Units (See Figure 1).

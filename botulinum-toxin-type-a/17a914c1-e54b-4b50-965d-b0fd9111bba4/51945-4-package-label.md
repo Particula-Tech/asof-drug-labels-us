@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - Carton Label
 
 Principal Panel
 
 prabotulinumtoxinA-xvfs
 
-Jeuveau™ for Injection
+Jeuveau® for Injection
 
 100 UNITS/VIAL
 
@@ -34,7 +34,7 @@ Manufactured by: Evolus, Inc. Newport Beach, CA US License No. 2070
 
 at: Daewoong Pharmaceuticals Seoul, Korea
 
-www.evolus.com NDC 72301-595-10
+www.jeuveau.com NDC 72301-595-10
 
 Made in Korea
 

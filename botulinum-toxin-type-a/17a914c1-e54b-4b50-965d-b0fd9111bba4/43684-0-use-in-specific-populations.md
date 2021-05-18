@@ -15,12 +15,12 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Animal Data
 
-In an embryofetal developmental study, intramuscular doses up to 4 unit/kg JEUVEAU were administered to pregnant rats once daily during organogenesis (gestation days 6 to 16).
-No maternal or embryofetal toxicities were observed at doses up to 4 unit/kg (12 times the MRHD of 20 units, based on unit/kg comparison).
+In an embryofetal developmental study, intramuscular doses up to 4 Unit/kg JEUVEAU were administered to pregnant rats once daily during organogenesis (gestation days 6 to 16).
+No maternal or embryofetal toxicities were observed at doses up to 4 Unit/kg (12 times the MRHD of 20 Units, based on Unit/kg comparison).
 
 ## 8.2 Lactation
 
-There is no information regarding the presence of prabotulinumtoxinA in human or animal milk, its effects on the breastfed infant or on milk production.
+There is no information regarding the presence of prabotulinumtoxinA-xvfs in human or animal milk, its effects on the breastfed infant, or on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for JEUVEAU and any potential adverse effects on the breastfed infant from JEUVEAU or from the underlying maternal condition
 
