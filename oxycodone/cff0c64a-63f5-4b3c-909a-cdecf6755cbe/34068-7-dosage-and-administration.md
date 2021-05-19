@@ -13,7 +13,18 @@ Take each tablet with enough water to ensure complete swallowing immediately aft
 OXAYDO is not amenable to crushing and dissolution.
 Do not administer OXAYDO via nasogastric, gastric or other feeding tubes as it may cause obstruction of feeding tubes.
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with OXAYDO [see Warning and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Although it is not possible to list every condition that is important to the selection of the initial dose of OXAYDO, attention must be given to:
 
@@ -41,7 +52,7 @@ Therefore, a conservative approach is advised when determining the total daily d
 It is safer to underestimate a patient’s 24-hour OXAYDO dosage than to overestimate the 24-hour OXAYDO dosage and manage an adverse reaction due to overdose.
 If a patient has been receiving opioid-containing medications prior to taking OXAYDO, the potency of the prior opioid relative to oxycodone should be factored into the selection of the total daily dose (TDD) of oxycodone.
 
-In converting patients from other opioids to OXAYDO, close observation and adjustment of dosage based upon the patient’s response to OXAYDO is imperative.
+In converting patients from other opioids to Oxycodone Hydrochloride Capsules, close observation and adjustment of dosage based upon the patient’s response to OXAYDO is imperative.
 Administration of supplemental analgesia for breakthrough or incident pain and titration of the total daily dose of OXAYDO may be necessary, especially in patients who have disease states that are changing rapidly.
 
 Conversion from Fixed-Ratio Oral Opioid/Non-Opioid Combinations
@@ -59,7 +70,7 @@ Conversion from OXAYDO to Extended-Release Oxycodone
 
 The relative bioavailability of OXAYDO compared to extended-release oxycodone is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate OXAYDO to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving OXAYDO to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -69,7 +80,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of OXAYDO
+## 2.5 Safe Reduction or Discontinuation of OXAYDO
 
 Do not abruptly discontinue OXAYDO in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -94,5 +105,5 @@ Other signs and symptoms also may develop, including irritability, anxiety, back
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
 In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

@@ -42,5 +42,4 @@ Concomitant use of opioids with benzodiazepines or other central nervous system 
 
 - Reserve concomitant prescribing of OXAYDO and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.
-
-Follow patients for signs and symptoms of respiratory depression and sedation.
+- Follow patients for signs and symptoms of respiratory depression and sedation.
