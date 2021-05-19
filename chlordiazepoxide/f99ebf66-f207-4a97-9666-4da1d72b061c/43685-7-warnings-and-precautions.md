@@ -1,6 +1,6 @@
 # WARNINGS:
 
-Risks From Concomitant Use with Opioids
+Risks From Concomitant Use With Opioids
 
 Concomitant use of benzodiazepines, including Librax, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs - in patients for whom alternative treatment options are inadequate.
@@ -75,7 +75,7 @@ Instruct patients that discontinuation or dosage reduction of Librax may require
 
 Concomitant Use With Opioids and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Librax is used with opioids or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Inform patients and caregivers that potentially fatal additive effects may occur if Librax is used with opioids or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider (see WARNINGSand PRECAUTIONS, Drug Interactions).
 
 ## Drug Interactions
 

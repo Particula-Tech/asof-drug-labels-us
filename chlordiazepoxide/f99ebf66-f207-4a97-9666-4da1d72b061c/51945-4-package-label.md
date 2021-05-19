@@ -6,13 +6,13 @@ Rx only
 
 Librax®
 
-(chlordiazepoxide HCl and clindinium bromide) Capsules
+(chlordiazepoxide hydrochloride and clindinium bromide) Capsules
 
 5 mg and 2.5 mg
 
 100 Capsules
 
-Each capsule contains 5 mg chlordiazepoxide HCl and 2.5 mg clindinium bromide.
+Each capsule contains 5 mg chlordiazepoxide hydrochloride and 2.5 mg clindinium bromide.
 
 MEDICATION GUIDE TO BE DISPENSED WITH EACH PRESCRIPTION
 
