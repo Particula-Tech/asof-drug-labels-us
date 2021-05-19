@@ -4,18 +4,24 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 General Instructions for Use
 
-Instruct patients to refer to the app store to ensure compatibility with their specific smartphone.
-Instruct patient to first download the MYCITE APP and follow instructions provided by the app.
-Advise patients that the initial use should be facilitated by the healthcare provider.
+Instruct patients to:
+
+- Refer to the app store to ensure compatibility with their specific smartphone.
+- First download the MYCITE App and follow instructions provided by the app.
+
+Advise patients that:
+
+- The initial use should be facilitated by the healthcare provider [see Dosage and Administration (2.1)].
+- They need a functioning pod before using the Maintenance Kit [see How Supplied/Storage and Handling (16.1)].
 
 Advise patients that most ingestions will be detected within 30 minutes; however, in some cases it can take over two hours for the smartphone app and web portal to detect the ingestion of ABILIFY MYCITE.
 In some cases, the ingestion of the tablet may not be detected.
 If the tablet is not detected after ingestion, the dose should not be repeated.
 
-Managing Lost or Disabled Mobile Device
+Managing Lost or Disabled Smartphone
 
 Advise patients that if their smartphone is lost, impaired or otherwise rendered unusable, some information collected by the system (synced) may be lost.
-Advise patients to change their MYCITE Patch immediately and connect to a new mobile device using their current account information.
+Advise patients to change their MYCITE Patch immediately and connect to a new smartphone using their current account information.
 Information previously synced to the patients account will be available.
 
 Using the MYCITE Patch in Different Environments
@@ -23,7 +29,7 @@ Using the MYCITE Patch in Different Environments
 The MYCITE Patch will communicate with a paired device when it is within 9-foot proximity.
 The MYCITE Patch should remain on an individual whether they are showering, swimming, or exercising as it is intended to tolerate water or perspiration.
 Patients undergoing an MRI, however, need to remove their patch and replace with a new one as soon as possible.
-In order for the MYCITE Patch to communicate with a smartphone, the device must be powered on and Bluetooth ®-enabled.
+In order for the MYCITE Patch to communicate with a smartphone, the device must be powered on and Bluetooth®-enabled.
 
 Suicidal Thoughts and Behaviors
 

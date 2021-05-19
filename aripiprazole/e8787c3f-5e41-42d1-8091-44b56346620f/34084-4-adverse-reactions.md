@@ -59,7 +59,7 @@ Table 10: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 
 | System Organ Class Preferred Term | Aripiprazole tablets (n=1843) | Placebo (n=1166) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -111,9 +111,9 @@ Table 11 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 11: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Aripiprazole tablets + Li or Val Lithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
+| System Organ Class Preferred Term | Aripiprazole tablets + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
 | Vomiting | 4 | 0 |
@@ -146,9 +146,9 @@ Table 12 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 12: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| System Organ Class Preferred Term | Aripiprazole tablets + ADT Antidepressant Therapy (n=371) | Placebo + ADT (n=366) |
+| System Organ Class Preferred Term | Aripiprazole tablets + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -220,7 +220,7 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 Skin Irritation for MYCITE Patch
 
 Symptoms of skin irritation localized at the site of the MYCITE Patch may occur in some patients.
-In clinical studies, sixty-one patients (12.4%) experienced skin rashes localized at the site of patch placement.
+In clinical studies with the 1-component patch, sixty-one patients (12.4%) experienced skin rashes localized at the site of patch placement.
 
 Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 

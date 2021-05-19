@@ -1,9 +1,9 @@
-Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+Tablets with embedded IEM sensors Manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
-IEM sensors and MYCITE Patches Manufactured by Proteus Digital Health ®, Inc., 2600 Bridge Parkway, Redwood City, CA 94065 USA
+MYCITE Patches Manufactured for Otsuka America Pharmaceutical, Inc. 3956 Point Eden Way, Hayward, CA 94545 USA
 
 Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 20850 USA
 
-ABILIFY MYCITE ® and MYCITE ® are registered trademarks of Otsuka Pharmaceutical Co., Ltd.
+ABILIFY MYCITE® and MYCITE® are registered trademarks of Otsuka Pharmaceutical Co., Ltd.
 
 ©2020, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

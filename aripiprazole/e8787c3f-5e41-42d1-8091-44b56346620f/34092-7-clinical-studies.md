@@ -1,13 +1,15 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Overview of the Clinical Studies
+
 The safety and efficacy of aripiprazole tablets for the treatment of adults with schizophrenia, acute treatment of adults with manic and mixed episodes associated with Bipolar I disorder, and adjunctive treatment of adults with major depressive disorder (MDD) has been established and is based on the following adequate and well-controlled trials of aripiprazole tablets:
 
-- Four short-term trials and one maintenance trial in adult patients with schizophrenia [see Clinical Studies (14.1)]
-- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients with manic or mixed episodes [see Clinical Studies (14.2)]
-- One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see Clinical Studies (14.2)]
-- Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.3)]
+- Four short-term trials and one maintenance trial in adult patients with schizophrenia [see Clinical Studies (14.2)]
+- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients with manic or mixed episodes [see Clinical Studies (14.3)]
+- One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see Clinical Studies (14.3)]
+- Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.4)]
 
-## 14.1 Schizophrenia
+## 14.2 Schizophrenia
 
 The efficacy of aripiprazole tablets in the treatment of schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
 Four of the five trials were able to distinguish aripiprazole tablets from placebo, but one study, the smallest, did not.
@@ -40,7 +42,7 @@ Patients receiving aripiprazole tablets 15 mg/day experienced a significantly lo
 
 Table 14: Schizophrenia Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
 | Study 1 | Aripiprazole tablets (15 mg/day) Doses statistically significantly superior to placebo | 98.5 (17.2) | -15.5 (2.40) | -12.6 (-18.9, -6.2) |
@@ -61,7 +63,7 @@ Table 14: Schizophrenia Studies
 
 Figure 6: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Relapse (Schizophrenia Study 5)
 
-## 14.2 Bipolar Disorder
+## 14.3 Bipolar Disorder
 
 Acute Treatment of Manic and Mixed Episodes
 
@@ -83,13 +85,13 @@ The efficacy of adjunctive aripiprazole tablets with concomitant lithium or valp
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
 Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole tablets (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole tablets (15 mg/day or an increase to 30 mg/day as early as Day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
 In the 6-week placebo-controlled phase, adjunctive aripiprazole tablets starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 to 1.0 mEq/L or 50 to 125 μg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score (Study 5 in Table 15) and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium were on 15 mg/day at 6-week endpoint.
 
 Table 15: Bipolar Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
 | Study 1 | Aripiprazole tablets (30/15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
@@ -124,7 +126,7 @@ Adjunctive Maintenance Therapy
 
 An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode.
 Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole tablets with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole tablets with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as Day 4, as adjunctive therapy with open-label lithium or valproate.
 Prior to randomization, patients on the combination of single-blind aripiprazole tablets and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
 Three hundred thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of aripiprazole tablets they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
 Aripiprazole tablets were superior to placebo on the primary endpoint, time from randomization to relapse to any mood event (Study 8 in Figure 8).
@@ -138,7 +140,7 @@ An examination of population subgroups did not reveal any clear evidence of diff
 
 Figure 8: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Relapse to Any Mood Event (Bipolar Study 8)
 
-## 14.3 Adjunctive Treatment of Adults with Major Depressive Disorder
+## 14.4 Adjunctive Treatment of Adults with Major Depressive Disorder
 
 The efficacy of aripiprazole tablets in the adjunctive treatment of major depressive disorder (MDD) was demonstrated in two short-term (6-week), placebo-controlled trials of adult patients meeting DSM-IV criteria for MDD who had had an inadequate response to prior antidepressant therapy (1 to 3 courses) in the current episode and who had also demonstrated an inadequate response to 8 weeks of prospective antidepressant therapy (paroxetine extended-release, venlafaxine extended-release, fluoxetine, escitalopram, or sertraline).
 Inadequate response for prospective treatment was defined as less than 50% improvement on the 17-item version of the Hamilton Depression Rating Scale (HAMD17), minimal HAMD17 score of 14, and a Clinical Global Impressions Improvement rating of no better than minimal improvement.
@@ -160,7 +162,7 @@ With regards to gender, a smaller mean reduction on the MADRS total score was se
 
 Table 16: Adjunctive Treatment of Major Depressive Disorder Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | Study 1 | Aripiprazole tablets (5 to 20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2(6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |

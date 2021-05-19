@@ -180,16 +180,16 @@ Table 8: Percentage of Patients From Placebo-Controlled Trials in Adult Patients
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-|  | Schizophrenia 4 to 6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |
+|  | Schizophrenia4 to 6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |
 |  | Placebo | 379 | 12 (3.2) |  |
-|  | Bipolar Mania 3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |
+|  | Bipolar Mania3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |
 |  | Placebo | 598 | 16 (2.7) |  |
 |  | Major Depressive Disorder (Adjunctive Therapy) 6 weeks duration. | Aripiprazole | 347 | 18 (5.2) |
 |  | Placebo | 330 | 2 (0.6) |  |
 
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
-Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
+Postmarketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
 Other compulsive urges, reported less frequently, include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
 Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with ABILIFY MYCITE.
 It should be noted that impulse-control symptoms can be associated with the underlying disorder.
@@ -199,7 +199,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 
 ## 5.8 Orthostatic Hypotension
 
-ABILIFY MYCITE may cause orthostatic hypotension, perhaps due to its α 1-adrenergic receptor antagonism.
+ABILIFY MYCITE may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%) [see Adverse Reactions (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence) in adult oral aripiprazole-treated patients (4%, 2%).
@@ -221,7 +221,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of ABILIFY MYCITE at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue ABILIFY MYCITE in patients with severe neutropenia (absolute neutrophil count <1000/mm 3) and follow their WBC counts until recovery.
+Discontinue ABILIFY MYCITE in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures
 

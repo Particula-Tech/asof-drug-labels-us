@@ -3,17 +3,17 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in the treatment of schizophrenia, bipolar I disorder, or adjunctive treatment of major depressive disorder is unknown.
-However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
+However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
-Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC 50>1000 nM).
-Actions at receptors other than D 2, 5-HT 1A, and 5-HT 2A may explain some of the adverse reactions of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
+Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
+Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
+Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the adverse reactions of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
 ## 12.3 Pharmacokinetics
 
-Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D 2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
@@ -25,13 +25,13 @@ Absorption
 
 Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 ABILIFY MYCITE can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T max by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Distribution
 
 The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
-In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D 2 receptor occupancy indicating brain penetration of aripiprazole in humans.
+In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
 Elimination
 
@@ -50,8 +50,8 @@ Less than 1% of unchanged aripiprazole was excreted in the urine and approximate
 Drug Interaction Studies
 
 Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5-fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3-fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 Figure 1: The Effects of Other Drugs on Aripiprazole Pharmacokinetics
 

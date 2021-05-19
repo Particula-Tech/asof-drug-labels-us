@@ -13,7 +13,7 @@ Neonates exposed to antipsychotic drugs, including ABILIFY MYCITE, during the th
 There are no available data on aripiprazole use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 Animal reproduction studies were conducted with aripiprazole in rats and rabbits during organogenesis, and in rats during the pre-and post-natal period.
 Oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses higher than the maximum recommended human dose (MRHD) produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
-Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses higher than the maximum recommended human dose (MRHD) produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival.
+Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses higher than the MRHD produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival.
 Consider the benefits and risks of ABILIFY MYCITE and possible risks to the fetus when prescribing ABILIFY MYCITE to a pregnant woman.
 Advise pregnant women of potential fetal risk.
 
@@ -35,7 +35,7 @@ Animal Data
 
 In animal studies, aripiprazole demonstrated developmental toxicity, including possible teratogenic effects in rats and rabbits.
 
-Pregnant rats were treated with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the maximum recommended human dose [MRHD] on a mg/m 2 basis) of aripiprazole during the period of organogenesis.
+Pregnant rats were treated with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on mg/m2 basis) of aripiprazole during the period of organogenesis.
 Gestation was slightly prolonged at 30 mg/kg/day.
 Treatment at the high dose of 30 mg/kg/day caused a slight delay in fetal development (decreased fetal weight), undescended testes, and delayed skeletal ossification (also seen at 10 mg/kg/day).
 There were no adverse effects on embryofetal or pup survival.
@@ -45,15 +45,15 @@ Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence t
 
 In pregnant rats receiving aripiprazole injection intravenously (3, 9, and 27 mg/kg/day) during the period of organogenesis, decreased fetal weight and delayed skeletal ossification were seen at the highest dose where it also caused maternal toxicity.
 
-Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3, and 11 times human exposure at MRHD based on AUC and 6, 19, and 65 times the MRHD based on mg/m 2) of aripiprazole during the period of organogenesis.
+Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3, and 11 times human exposure at MRHD based on AUC and 6, 19, and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
 At the high dose of 100 mg/kg/day decreased maternal food consumption, and increased abortions were seen as well as increased fetal mortality, decreased fetal weight (also seen at 30 mg/kg/day), increased incidence of a skeletal abnormality (fused sternebrae) (also seen at 30 mg/kg/day).
 
 In pregnant rabbits receiving aripiprazole injection intravenously (3, 10, and 30 mg/kg/day) during the period of organogenesis, the highest dose, which caused pronounced maternal toxicity, resulted in decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification.
-The fetal no-effect dose was 10 mg/kg/day, which is 5 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m 2.
+The fetal no-effect dose was 10 mg/kg/day, which is 5 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m2.
 
-In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m 2 basis) of aripiprazole from gestation day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
+In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on mg/m2 basis) of aripiprazole from gestation Day 17 through Day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
 
-In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation day 6 through day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
+In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation Day 6 through Day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
 
 The effect of ABILIFY MYCITE on labor and delivery in humans is unknown.

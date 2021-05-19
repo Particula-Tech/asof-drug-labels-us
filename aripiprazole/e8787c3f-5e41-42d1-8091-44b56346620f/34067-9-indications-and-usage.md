@@ -2,11 +2,11 @@
 
 ABILIFY MYCITE, a drug-device combination product comprised of aripiprazole tablets embedded with an Ingestible Event Marker (IEM) sensor intended to track drug ingestion, is indicated for the:
 
-- Treatment of adults with schizophrenia [see Clinical Studies (14.1)]
+- Treatment of adults with schizophrenia.
 - Treatment of bipolar I disorder
-  - Acute treatment of adults with manic and mixed episodes as monotherapy and as adjunct to lithium or valproate [see Clinical Studies (14.2)]
-  - Maintenance treatment of adults as monotherapy and as adjunct to lithium or valproate [see Clinical Studies (14.2)]
-- Adjunctive treatment of adults with Major Depressive Disorder [see Clinical Studies (14.3)]
+  - Acute treatment of adults with manic and mixed episodes as monotherapy and as adjunct to lithium or valproate.
+  - Maintenance treatment of adults as monotherapy and as adjunct to lithium or valproate.
+- Adjunctive treatment of adults with Major Depressive Disorder.
 
 Limitations of Use:
 

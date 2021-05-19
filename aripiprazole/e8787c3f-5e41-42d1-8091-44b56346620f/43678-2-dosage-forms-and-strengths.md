@@ -4,7 +4,7 @@ ABILIFY MYCITE (aripiprazole tablets with sensor) is available as described in T
 
 Table 2: ABILIFY MYCITE Presentations
 
-| Tablet Strength | Tablet Color/Shape | Tablet Markings |
+| Strength | Color/Shape | Markings |
 | --- | --- | --- |
 | 2 mg | pale green modified rectangle | "DA-029" and "2" |
 | 5 mg | pale blue modified rectangle | "DA-030" and "5" |
