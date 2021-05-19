@@ -26,9 +26,9 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop NAPROSYN Suspension immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop taking NAPROSYN Suspension immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility
 
@@ -36,7 +36,8 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of NAPROSYN Suspension and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of NAPROSYN Suspension and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with NAPROSYN Suspension is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 

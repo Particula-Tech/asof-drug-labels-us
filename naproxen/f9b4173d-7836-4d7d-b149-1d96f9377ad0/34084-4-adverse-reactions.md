@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6 Renal Toxicity and Hyperkalemia)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -93,7 +93,9 @@ Hepatobiliary: hepatitis, liver failure
 
 Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia
 
-Metabolic and Nutritional: weight changes Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+Metabolic and Nutritional: weight changes
+
+Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
 
 Respiratory: asthma, respiratory depression, pneumonia
 
