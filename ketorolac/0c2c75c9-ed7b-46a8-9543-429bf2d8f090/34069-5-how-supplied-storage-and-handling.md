@@ -16,6 +16,6 @@ Store at 20° to 25°C (68° to 77°F), excursions permitted to 15° to 30°C (5
 
 PROTECT FROM LIGHT Retain in carton until time of use.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.

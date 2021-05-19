@@ -16,7 +16,7 @@ Elderly patients are at greater risk for serious gastrointestinal events (see WA
 
 CARDIOVASCULAR THROMBOTIC EVENTS
 
-• Non steroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
+• Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
 This risk may occur early in treatment and may increase with duration of use (see WARNINGS and PRECAUTIONS).
 
 • Ketorolac tromethamine injection is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).

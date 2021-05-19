@@ -86,7 +86,7 @@ The concurrent use of aspirin and an NSAID, such as ketorolac tromethamine, incr
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardical infarction and stroke.
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
 
 Post–MI Patients
@@ -122,9 +122,37 @@ NSAIDs, including ketorolac tromethamine, can cause serious skin adverse events 
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-## Pregnancy
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it may cause premature closure of the ductus arteriosus.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ketorolac tromethamine injection.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue ketorolac tromethamine injection and evaluate the patient immediately.
+
+## Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including ketorolac tromethamine injection, in pregnant women at about 30 weeks gestation and later.
+NSAIDs including ketorolac tromethamine injection, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including ketorolac tromethamine injection, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit ketorolac tromethamine injection use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if ketorolac tromethamine injection treatment extends beyond 48 hours.
+Discontinue ketorolac tromethamine injection if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS – Pregnancy).
 
 # PRECAUTIONS
 
@@ -175,16 +203,15 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 1. Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately (see WARNINGS).
 2. Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-3. Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+   Patients should be apprised of the importance of this follow-up (see WARNINGS – Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
+3. Serious Skin Reactions, including DRESS Advise patients to stop taking ketorolac tromethamine injection immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
 4. Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
+7. Fetal Toxicity Inform pregnant women to avoid use of ketorolac tromethamine injection and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+   If treatment with ketorolac tromethamine injection is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS – Fetal Toxicity, PRECAUTIONS – Pregnancy).
 
 ## Laboratory Tests
 
@@ -280,21 +307,75 @@ Impairment of fertility did not occur in male or female rats at oral doses of 9 
 
 ## Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C
+Use of NSAIDs, including ketorolac tromethamine injection, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of ketorolac tromethamine injection use between about 20 and 30 weeks of gestation, and avoid ketorolac tromethamine injection use at about 30 weeks of gestation and later in pregnancy (see WARNINGS – Fetal Toxicity).
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including ketorolac tromethamine injection, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In animal reproduction studies, the results did not reveal evidence of teratogenicity to the fetus.
+However, animal reproduction studies are not always predictive of human response.
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including ketorolac tromethamine injection, can cause premature closure of the fetal ductus arteriosus (see WARNINGS – Fetal Toxicity).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If ketorolac tromethamine injection treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue ketorolac tromethamine injection and follow up according to clinical practice (see WARNINGS – Fetal Toxicity).
+
+Data
+
+Human Data
+
+There are no adequate and well-controlled studies of ketorolac tromethamine in pregnant women.
+Ketorolac tromethamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
+
+Animal Data
 
 Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine tablets at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
 Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
 
-Nonteratogenic Effects
-
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
 Oral doses of ketorolac tromethamine tablets at 1.5 mg/kg (0.14 times the human AUC), administered after gestation day 17, caused dystocia and higher pup mortality in rats.
-
-There are no adequate and well-controlled studies of ketorolac tromethamine in pregnant women.
-Ketorolac tromethamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Labor and Delivery
 
