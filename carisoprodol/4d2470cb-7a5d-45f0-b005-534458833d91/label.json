@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040792"
+  ],
+  "inn": "carisoprodol",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-780-01",
+    "16571-781-01",
+    "16571-781-10",
+    "16571-781-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carisoprodol",
+      "name": "carisoprodol"
+    }
+  ],
+  "setid": "4d2470cb-7a5d-45f0-b005-534458833d91",
+  "source": "dailymed"
+}

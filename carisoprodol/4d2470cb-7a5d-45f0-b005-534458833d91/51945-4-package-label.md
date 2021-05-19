@@ -1,0 +1,7 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 250 mg (100 Tablet Bottle)
+
+Rising® PHARMACEUTICALS NDC 16571-780-01 Carisoprodol Tablets, USP CIV 250 mg 100 Tablets Rx only
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 350 mg (100 Tablet Bottle)
+
+Rising® PHARMACEUTICALS NDC 16571-781-01 Carisoprodol Tablets, USP CIV 350 mg 100 Tablets Rx only
