@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 BIVIGAM is supplied in a single-use, tamper-evident vial.
-The components used in the packaging for BIVIGAM are latex free.
+The components used in the packaging for BIVIGAM are not made with natural rubber latex.
 
 BIVIGAM is supplied in the following sizes:
 
 | NDC Number | Size | Grams Protein |
 | --- | --- | --- |
-| 69800-6502 | 50mL | 5 |
-| 69800-6503 | 100mL | 10 |
+| 69800-6502-1 | 50mL | 5 |
+| 69800-6503-1 | 100mL | 10 |
 
 Storage Refrigerate between 2 to 8°C (36 to 46°F).
 
