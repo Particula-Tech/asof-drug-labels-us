@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described elsewhere in the labeling:
 
-- Hypotension in Volume or Salt-depleted Patients [see Warnings and Precautions (5.2)]
+- Hypotension in Volume or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
 - Impaired Renal Function [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
