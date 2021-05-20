@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-AVALIDE® (irbesartan-hydrochlorothiazide) tablets are indicated for the treatment of hypertension.
+AVALIDE® (irbesartan and hydrochlorothiazide) tablets are indicated for the treatment of hypertension.
 
 AVALIDE may be used in patients whose blood pressure is not adequately controlled on monotherapy.
 

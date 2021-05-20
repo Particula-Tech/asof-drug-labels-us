@@ -5,7 +5,7 @@
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-Irbesartan-Hydrochlorothiazide
+Irbesartan and Hydrochlorothiazide
 
 AVALIDE tablets have been evaluated for safety in 1694 patients treated for essential hypertension in 6 clinical trials.
 In Studies I through IV with AVALIDE, no adverse events peculiar to this combination drug product have been observed.
@@ -16,7 +16,7 @@ For the most part, adverse events have been mild and transient in nature and hav
 In controlled clinical trials, discontinuation of AVALIDE therapy due to clinical adverse events was required in only 3.6%.
 This incidence was significantly less (p=0.023) than the 6.8% of patients treated with placebo who discontinued therapy.
 
-In these double-blind controlled clinical trials, the following adverse events reported with AVALIDE occurred in ≥1% of patients, and more often on the irbesartan-hydrochlorothiazide combination than on placebo, regardless of drug relationship:
+In these double-blind controlled clinical trials, the following adverse events reported with AVALIDE occurred in ≥1% of patients, and more often on the irbesartan and hydrochlorothiazide combination than on placebo, regardless of drug relationship:
 
 |  | Irbesartan/HCTZ (n=898) (%) | Placebo (n=236) (%) | Irbesartan (n=400) (%) | HCTZ (n=380) (%) |
 | --- | --- | --- | --- | --- |
@@ -99,11 +99,11 @@ Initial Therapy
 
 In the moderate hypertension Study V (mean SeDBP between 90 and 110 mmHg), the types and incidences of adverse events reported for patients treated with AVALIDE were similar to the adverse event profile in patients on initial irbesartan or HCTZ monotherapy.
 There were no reported events of syncope in the AVALIDE treatment group and there was one reported event in the HCTZ treatment group.
-The incidences of pre-specified adverse events on AVALIDE, irbesartan, and HCTZ, respectively, were: 0.9%, 0%, and 0% for hypotension; 3.0%, 3.8%, and 1.0% for dizziness; 5.5%, 3.8%, and 4.8% for headache; 1.2%, 0%, and 1.0% for hyperkalemia; and 0.9%, 0%, and 0% for hypokalemia.
+The incidences of prespecified adverse events on AVALIDE, irbesartan, and HCTZ, respectively, were: 0.9%, 0%, and 0% for hypotension; 3.0%, 3.8%, and 1.0% for dizziness; 5.5%, 3.8%, and 4.8% for headache; 1.2%, 0%, and 1.0% for hyperkalemia; and 0.9%, 0%, and 0% for hypokalemia.
 The rates of discontinuation due to adverse events on AVALIDE, irbesartan alone, and HCTZ alone were 6.7%, 3.8%, and 4.8%.
 
 In the severe hypertension (SeDBP ≥110 mmHg) Study VI, the overall pattern of adverse events reported through 7 weeks of follow-up was similar in patients treated with AVALIDE as initial therapy and in patients treated with irbesartan as initial therapy.
-The incidences of the pre-specified adverse events on AVALIDE and irbesartan, respectively, were: 0% and 0% for syncope; 0.6% and 0% for hypotension; 3.6% and 4.0% for dizziness; 4.3% and 6.6% for headache; 0.2% and 0% for hyperkalemia; and 0.6% and 0.4% for hypokalemia.
+The incidences of the prespecified adverse events on AVALIDE and irbesartan, respectively, were: 0% and 0% for syncope; 0.6% and 0% for hypotension; 3.6% and 4.0% for dizziness; 4.3% and 6.6% for headache; 0.2% and 0% for hyperkalemia; and 0.6% and 0.4% for hypokalemia.
 The rates of discontinuation due to adverse events were 2.1% and 2.2%.
 [See Clinical Studies (14.2).]
 
@@ -115,9 +115,9 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapies: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
 
-The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, and increased CPK.
+The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, increased CPK, and anemia.
 
-The following have been reported with hydrochlorothiazide monotherapy: secondary acute angle-closure glaucoma and/or acute myopia.
+The following have been reported with hydrochlorothiazide monotherapy: acute angle-closure glaucoma, acute myopia, and choroidal effusion.
 
 Non-melanoma Skin Cancer
 

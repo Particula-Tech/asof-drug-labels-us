@@ -22,7 +22,7 @@ No dosage adjustment is necessary in patients with hepatic impairment.
 
 ## 2.2 Add-On Therapy
 
-In patients not controlled on monotherapy with irbesartan or hydrochlorothiazide, the recommended doses of AVALIDE, in order of increasing mean effect, are (irbesartan-hydrochlorothiazide) 150/12.5 mg, 300/12.5 mg, and 300/25 mg.
+In patients not controlled on monotherapy with irbesartan or hydrochlorothiazide, the recommended doses of AVALIDE, in order of increasing mean effect, are (irbesartan and hydrochlorothiazide) 150/12.5 mg, 300/12.5 mg, and 300/25 mg.
 The largest incremental effect will likely be in the transition from monotherapy to 150/12.5 mg.
 [See Clinical Studies (14.2).]
 

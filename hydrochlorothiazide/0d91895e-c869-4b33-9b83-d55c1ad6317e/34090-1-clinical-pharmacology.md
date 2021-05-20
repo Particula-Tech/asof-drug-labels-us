@@ -115,7 +115,7 @@ Specific Populations
 
 Pediatric
 
-Irbesartan-hydrochlorothiazide pharmacokinetics have not been investigated in patients <18 years of age.
+Irbesartan and hydrochlorothiazide pharmacokinetics have not been investigated in patients <18 years of age.
 
 Gender
 

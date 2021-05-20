@@ -11,7 +11,7 @@ Therefore, monitor renal function and blood pressure periodically in patients re
 Hydrochlorothiazide
 
 Administration of a nonsteroidal anti-inflammatory agent, including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
-Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) tablets and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Therefore, when AVALIDE (irbesartan and hydrochlorothiazide) tablets and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## 7.2 Dual Blockade of the Renin-Angiotensin System (RAS)
 

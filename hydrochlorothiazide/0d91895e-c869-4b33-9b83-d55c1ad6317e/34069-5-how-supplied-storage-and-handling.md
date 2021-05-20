@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-AVALIDE® (irbesartan-hydrochlorothiazide) film-coated tablets have markings on both sides and are available in the strengths and packages listed in the following table:
+AVALIDE® (irbesartan and hydrochlorothiazide) film-coated tablets have markings on both sides and are available in the strengths and packages listed in the following table:
 
 | Tablet Strength (irbesartan and hydrochlorothiazide) | Film-Coated Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |

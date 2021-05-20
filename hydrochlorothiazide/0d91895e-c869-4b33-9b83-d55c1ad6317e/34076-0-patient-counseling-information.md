@@ -19,9 +19,9 @@ Potassium Supplements
 
 Advise patients not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see Drug Interactions (7.3)].
 
-Acute Myopia and Secondary Angle-Closure Glaucoma
+Acute Angle-Closure Glaucoma, Acute Myopia, and Choroidal Effusion
 
-Advise patients to discontinue AVALIDE and seek immediate medical attention if they experience symptoms of Acute Myopia or Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.8)].
+Advise patients to discontinue AVALIDE and seek immediate medical attention if they experience symptoms of acute angle-closure glaucoma, acute myopia, and choroidal effusion [see Warnings and Precautions (5.8)].
 
 Non-melanoma Skin Cancer
 

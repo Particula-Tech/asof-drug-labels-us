@@ -26,16 +26,16 @@ At the end of the 8-week exposure, about 2/3 of the antihypertensive effect was 
 Rebound hypertension was not observed.
 There was essentially no change in average heart rate in irbesartan-treated patients in controlled trials.
 
-## 14.2 Irbesartan-Hydrochlorothiazide
+## 14.2 Irbesartan and Hydrochlorothiazide
 
-The antihypertensive effects of AVALIDE (irbesartan-hydrochlorothiazide) tablets were examined in 4 placebo-controlled studies in patients with mild-moderate hypertension (mean seated diastolic blood pressure [SeDBP] between 90 and 110 mmHg), one study in patients with moderate hypertension (mean seated systolic blood pressure [SeSBP] 160 to 179 mmHg or SeDBP 100 to 109 mmHg), and one study in patients with severe hypertension (mean SeDBP ≥110 mmHg) of 8 to 12 weeks.
+The antihypertensive effects of AVALIDE (irbesartan and hydrochlorothiazide) tablets were examined in 4 placebo-controlled studies in patients with mild-moderate hypertension (mean seated diastolic blood pressure [SeDBP] between 90 and 110 mmHg), one study in patients with moderate hypertension (mean seated systolic blood pressure [SeSBP] 160 to 179 mmHg or SeDBP 100 to 109 mmHg), and one study in patients with severe hypertension (mean SeDBP ≥110 mmHg) of 8 to 12 weeks.
 These trials included 3149 patients randomized to fixed doses of irbesartan (37.5 to 300 mg) and concomitant hydrochlorothiazide (6.25 to 25 mg).
 
 Study I was a factorial study that compared all combinations of irbesartan (37.5 mg, 100 mg, and 300 mg or placebo) and hydrochlorothiazide (6.25 mg, 12.5 mg, and 25 mg or placebo).
 
-Study II compared the irbesartan-hydrochlorothiazide combinations of 75/12.5 mg and 150/12.5 mg to their individual components and placebo.
+Study II compared the irbesartan and hydrochlorothiazide combinations of 75/12.5 mg and 150/12.5 mg to their individual components and placebo.
 
-Study III investigated the ambulatory blood pressure responses to irbesartan-hydrochlorothiazide (75/12.5 mg and 150/12.5 mg) and placebo after 8 weeks of dosing.
+Study III investigated the ambulatory blood pressure responses to irbesartan and hydrochlorothiazide (75/12.5 mg and 150/12.5 mg) and placebo after 8 weeks of dosing.
 
 Study IV investigated the effects of the addition of irbesartan (75 or 150 mg) in patients not controlled (SeDBP 93–120 mmHg) on hydrochlorothiazide (25 mg) alone.
 In Studies I–III, the addition of irbesartan 150 to 300 mg to hydrochlorothiazide doses of 6.25, 12.5, or 25 mg produced further dose-related reductions in blood pressure at trough of 8 to 10 mmHg/3 to 6 mmHg, similar to those achieved with the same monotherapy dose of irbesartan.

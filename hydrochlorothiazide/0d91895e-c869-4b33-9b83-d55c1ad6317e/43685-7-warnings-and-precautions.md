@@ -8,11 +8,11 @@ Resulting oligohydramnios can be associated with fetal lung hypoplasia and skele
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue AVALIDE as soon as possible [see Use in Specific Populations (8.1)].
 
-Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+Thiazides cross the placenta and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
 ## 5.2 Hypotension in Volume or Salt-Depleted Patients
 
-Excessive reduction of blood pressure was rarely seen in patients with uncomplicated hypertension treated with irbesartan alone (<0.1%) or with irbesartan-hydrochlorothiazide (approximately 1%).
+Excessive reduction of blood pressure was rarely seen in patients with uncomplicated hypertension treated with irbesartan alone (<0.1%) or with irbesartan and hydrochlorothiazide (approximately 1%).
 Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume or sodium depletion, e.g., in patients treated vigorously with diuretics or in patients on dialysis.
 Such volume depletion should be corrected prior to administration of antihypertensive therapy.
 
@@ -33,7 +33,7 @@ Thiazide diuretics have been reported to cause exacerbation or activation of sys
 
 ## 5.5 Electrolyte and Metabolic Imbalances
 
-Irbesartan-Hydrochlorothiazide
+Irbesartan and Hydrochlorothiazide
 
 In double-blind clinical trials of various doses of irbesartan and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 7.5% versus 6.0% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was <1.0% versus 1.7% for placebo.
 No patient discontinued due to increases or decreases in serum potassium.
@@ -65,7 +65,7 @@ Thiazides should be discontinued before carrying out tests for parathyroid funct
 
 Hydrochlorothiazide
 
-Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
 ## 5.7 Impaired Renal Function
 
@@ -79,14 +79,14 @@ Thiazides should be used with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
-## 5.8 Secondary Acute Angle-Closure Glaucoma and/or Acute Myopia
+## 5.8 Acute Angle-Closure Glaucoma, Acute Myopia, and Choroidal Effusion
 
 Hydrochlorothiazide
 
-Sulfonamide or sulfonamide derivative drugs, such as hydrochlorothiazide, can cause an idiosyncratic reaction, resulting in transient myopia and/or acute angle-closure glaucoma.
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction resulting in acute angle-closure glaucoma and elevated intraocular pressure with or without a noticeable acute myopic shift and/or choroidal effusions.
 Cases of acute angle-closure glaucoma have been reported with hydrochlorothiazide.
 Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
-Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+Untreated acute angle-closure glaucoma may result in permanent vision loss.
 The primary treatment is to discontinue drug intake as rapidly as possible.
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.

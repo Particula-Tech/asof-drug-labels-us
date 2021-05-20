@@ -9,7 +9,7 @@ Use of drugs that act on the renin-angiotensin system during the second and thir
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 When pregnancy is detected, discontinue AVALIDE as soon as possible.
 
-All pregnancies have a background risk of birth defect, loss or other adverse outcomes regardless of drug exposure.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes regardless of drug exposure.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
@@ -49,7 +49,7 @@ Radioactivity was present in the rat and rabbit fetuses during late gestation fo
 
 When pregnant mice and rats were given hydrochlorothiazide at doses up to 3000 and 1000 mg/kg/day, respectively (about 600 and 400 times the MRHD) during their respective periods of major organogenesis, there was no evidence of fetal harm.
 
-A development toxicity study was performed in rats with doses of 50/50 mg/kg/day and 150/150 mg/kg/day irbesartan-hydrochlorothiazide.
+A development toxicity study was performed in rats with doses of 50/50 mg/kg/day and 150/150 mg/kg/day irbesartan and hydrochlorothiazide.
 Although the high dose combination appeared to be more toxic to the dams than either drug alone, there did not appear to be an increase in toxicity to the developing embryos.
 
 ## 8.2 Lactation

@@ -2,12 +2,12 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Irbesartan-Hydrochlorothiazide
+Irbesartan and Hydrochlorothiazide
 
-No carcinogenicity studies have been conducted with the irbesartan-hydrochlorothiazide combination.
+No carcinogenicity studies have been conducted with the irbesartan and hydrochlorothiazide combination.
 
-Irbesartan-hydrochlorothiazide was not mutagenic in standard in vitro tests (Ames microbial test and Chinese hamster mammalian-cell forward gene-mutation assay).
-Irbesartan-hydrochlorothiazide was negative in tests for induction of chromosomal aberrations (in vitro–human lymphocyte assay; in vivo–mouse micronucleus study).
+Irbesartan and hydrochlorothiazide was not mutagenic in standard in vitro tests (Ames microbial test and Chinese hamster mammalian-cell forward gene-mutation assay).
+Irbesartan and hydrochlorothiazide was negative in tests for induction of chromosomal aberrations (in vitro–human lymphocyte assay; in vivo–mouse micronucleus study).
 
 The combination of irbesartan and hydrochlorothiazide has not been evaluated in definitive studies of fertility.
 
