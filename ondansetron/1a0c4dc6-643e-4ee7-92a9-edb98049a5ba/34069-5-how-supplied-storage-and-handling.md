@@ -2,7 +2,7 @@
 
 Ondansetron Oral Solution USP
 
-4mg /5 mL oral solution is supplied as a (strawberry-flavored) clear, colorless solution.
+4 mg/5 mL oral solution is supplied as a (strawberry-flavored) clear, colorless solution.
 
 NDC 0054-0064-47: Bottle of 50 mL
 

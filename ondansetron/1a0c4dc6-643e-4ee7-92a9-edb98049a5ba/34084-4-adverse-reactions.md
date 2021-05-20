@@ -1,5 +1,12 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- •Hypersensitivity reactions [see Warnings and Precautions (5.1)]
+- •QT prolongation [see Warnings and Precautions (5.2)]
+- •Serotonin syndrome [see Warnings and Precautions (5.3)]
+- •Masking of progressive ileus and gastric distention [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -13,13 +20,13 @@ The most common adverse reactions reported in greater than or equal to 4% of 300
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
-Table 3: Most Common Adverse Reactions in Adults1 for the Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in Adults1 for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 | Adverse Reaction | Ondansetron 8 mg Twice Daily(n=242) | Placebo(n=262) |
 | --- | --- | --- |
 | Headache | 58 (24%) | 34 (13%) |
 | Malaise/Fatigue | 32 (13%) | 6 (2%) |
-| Constipation | 22 (9%) | 1 (<1%) |
+| Constipation | 22 (9%) | 1 (< 1%) |
 | Diarrhea | 15 (6%) | 10 (4%) |
 
 1 Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
@@ -73,13 +80,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Cardiovascular
 
 Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT/QTc interval prolongation, and ST segment depression), palpitations, and syncope.
-Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT interval prolongation have been reported.
+Rarely and predominantly with intravenous ondansetron, transient ECG changes, including QT interval prolongation have been reported.
 
 General
 
-Flushing.
-Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
-
+Flushing: Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
 Laryngospasm, shock, and cardiopulmonary arrest have occurred during allergic reactions in patients receiving injectable ondansetron.
 
 Hepatobiliary

@@ -4,7 +4,7 @@ The active ingredient in ondansetron oral solution USP is ondansetron hydrochlor
 Chemically it is 4H-carbazol-4-one, 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-, monohydrochloride, (±)-, dihydrate.
 It has the following structural formula:
 
-The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.9.
+The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.9 g/mol.
 
 Ondansetron hydrochloride USP dihydrate is a white to off-white powder that is soluble in water and normal saline.
 

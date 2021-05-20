@@ -68,9 +68,9 @@ These higher plasma concentrations may in part be explained by differences in bo
 It is not known whether these sex-related differences were clinically important.
 More detailed pharmacokinetic information is contained in Tables 5 and 6.
 
-Table: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of an Ondansetron 8-mg Tablet
+Table: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 8-mg Tablet
 
-| Age-group (Years) Sex (M/F) |  |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
+| Age-group (years) Sex (M/F) |  |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 18 to 40 | M |  | 69.0 | 6 | 26.2 | 2.0 | 3.1 | 0.403 | 0.483 |
 | F |  | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |  |
@@ -79,9 +79,9 @@ Table: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose 
 | ≥75 |  | M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |  |  |
 
-Table: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of an Ondansetron 24-mg Tablet
+Table: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 24-mg Tablet
 
-| Age-group (Years) Sex (M/F) |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
+| Age-group (years) Sex (M/F) |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 18 to 43 | M | 84.1 | 8 | 125.8 | 1.9 | 4.7 |
 | F | 71.8 | 8 | 194.4 | 1.6 | 5.8 |  |

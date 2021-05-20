@@ -22,7 +22,6 @@ Moderately Emetogenic Chemotherapy
 
 A randomized, placebo-controlled, double-blind trial was conducted in the US in 67 patients receiving a cyclophosphamide-based chemotherapy regimen containing doxorubicin.
 The first 8-mg dose of ondansetron was administered 30 minutes before the start of chemotherapy, with a subsequent dose 8 hours after the first dose, followed by 8 mg of ondansetron twice a day for 2 days after the completion of chemotherapy.
-
 Ondansetron was significantly more effective than placebo in preventing vomiting.
 Treatment response was based on the total number of emetic episodes over the 3-day trial period.
 The results of this trial are summarized in Table 7:
@@ -32,11 +31,11 @@ Table 7: Emetic Episodes: Treatment Response in Patients Receiving Moderately Em
 |  | Ondansetron(n=33) | Placebo(n=34) | P Value |
 | --- | --- | --- | --- |
 | Treatment Response |  |  |  |
-| 0 Emetic Episodes | 20 (61%) | 2 (6%) | <0.001 |
+| 0 Emetic Episodes | 20 (61%) | 2 (6%) | < 0.001 |
 | 1 to 2 Emetic Episodes | 6 (18%) | 8 (24%) |  |
-| More than 2 Emetic Episodes/ Withdrawn | 7 (21%) | 24 (71%) | <0.001 |
-| Median Number of Emetic Episodes | 0.0 | Undefined1 |  |
-| Median Time to First Emetic Episode (Hours) | Undefined2 | 6.5 |  |
+| More than 2 Emetic Episodes/ Withdrawn | 7 (21%) | 24 (71%) | < 0.001 |
+| Median Number of Emetic Episodes | 0.0 | UndefinedMedian undefined since at least 50% of the patients were withdrawn or had more than 2 emetic episodes. |  |
+| Median Time to First Emetic Episode (Hours) | UndefinedMedian undefined since at least 50 % of patients did not have any emetic episodes. | 6.5 |  |
 
 In a double-blind US trial in 336 patients receiving a cyclophosphamide-based chemotherapy regimen containing either methotrexate or doxorubicin, ondansetron 8 mg administered twice a day was as effective as ondansetron 8 mg administered 3 times a day in preventing nausea and vomiting.
 Ondansetron 8 mg three times daily is not a recommended regimen for the treatment of moderately emetogenic chemotherapy [see Dosage and Administration (2.1)].
@@ -48,14 +47,14 @@ Table 8: Emetic Episodes: Treatment Response after Ondansetron Tablets Administe
 
 |  | Ondansetron Tablets |  |
 | --- | --- | --- |
-| 8 mg Twice Daily1(n=165) | 8 mg Three Times a Day2(n=171) |  |
+| 8 mg Twice DailyThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose, followed by 8 mg administered twice a day for 2 days after the completion of chemotherapy.(n=165) | 8 mg Three Times a DayThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with subsequent 8-mg doses at 4 hours and 8 hours after the first dose, followed by 8 mg administered 3 times a day for 2 days after the completion of chemotherapy.(n=171) |  |
 | Treatment Response |  |  |
 | 0 Emetic Episodes | 101 (61%) | 99 (58%) |
 | 1 to 2 Emetic Episodes | 16 (10%) | 17 (10%) |
 | More than 2 Emetic Episodes/Withdrawn | 48 (29%) | 55 (32%) |
 | Median Number of Emetic Episodes | 0.0 | 0.0 |
-| Median Time to First Emetic Episode (h) | Undefined3 | Undefined3 |
-| Median Nausea Scores (0 to 100)4 | 6 | 6 |
+| Median Time to First Emetic Episode (h) | UndefinedMedian undefined since at least 50% of patients did not have any emetic episodes. | Undefined |
+| Median Nausea Scores (0 to 100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 6 | 6 |
 
 Re-treatment
 
