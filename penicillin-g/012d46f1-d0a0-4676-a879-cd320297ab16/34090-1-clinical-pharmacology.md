@@ -34,7 +34,7 @@ Penicillin has been shown to be active against most isolates of the following ba
 
 Gram-positive bacteria
 
-Beta-hemolytic streptococci (groups A, B, C, G, H, L and M)
+Beta-hemolytic streptococci (groups A, B, C, G, H, L and M).
 
 Other microorganisms Treponema pallidum Treponema carateum
 

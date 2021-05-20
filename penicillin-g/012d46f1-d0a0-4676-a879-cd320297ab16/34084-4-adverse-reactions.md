@@ -4,9 +4,15 @@ As with other penicillins, untoward reactions of the sensitivity phenomena are l
 
 As with other treatments for syphilis, the Jarisch-Herxheimer reaction has been reported.
 
-The following have been reported with parenteral penicillin G:
+The following adverse reactions have been reported with Bicillin L-A during post-marketing experience:
 
-General: Hypersensitivity reactions including the following: skin eruptions (maculopapular to exfoliative dermatitis), urticaria, laryngeal edema, fever, eosinophilia; other serum sickness-like reactions (including chills, fever, edema, arthralgia, and prostration); and anaphylaxis including shock and death.
+Skin and Appendages: Stevens-Johnson syndrome (SJS) and drug reaction with eosinophilia and systemic symptoms (DRESS).
+(See WARNINGS.)
+
+The following have been reported with parenteral penicillin G (the active moiety in Bicillin L-A):
+
+General: Hypersensitivity reactions including the following: skin eruptions (maculopapular to exfoliative dermatitis), urticaria, laryngeal edema, fever, eosinophilia; other serum sickness-like reactions (including chills, fever, edema, arthralgia, and prostration); and anaphylaxis including shock and death: severe cutaneous adverse reactions (SCAR), such as toxic epidermal necrolysis (TEN) and acute generalized exanthematous pustulosis (AGEP).
+(See WARNINGS.)
 Note: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, penicillin G should be discontinued unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to therapy with penicillin G. Serious anaphylactic reactions require immediate emergency treatment with epinephrine.
 Oxygen, intravenous steroids, and airway management, including intubation, should also be administered as indicated.
@@ -21,7 +27,7 @@ Neurologic: Neuropathy.
 
 Urogenital: Nephropathy.
 
-The following adverse events have been temporally associated with parenteral administration of penicillin G benzathine:
+The following adverse events have been temporally associated with parenteral administration of penicillin G benzathine (a component of Bicillin L-A):
 
 Body as a Whole: Hypersensitivity reactions including allergic vasculitis, pruritus, fatigue, asthenia, and pain; aggravation of existing disorder; headache, Nicolau syndrome.
 
