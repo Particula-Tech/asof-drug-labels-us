@@ -2,7 +2,7 @@
 
 NDC 67457-218-10 10 mL
 
-Duraclon® clonidine HCl injection
+Duraclon® (clonidine HCl injection, USP)
 
 1000 mcg/10 mL (100 mcg/mL)
 
@@ -29,8 +29,8 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Ireland
 
-0511C102 MI:218:1C:R5
+0511C103 MI:218:1C:R6
 
-Duraclon® is a licensed registered trademark.
+Duraclon® is a registered trademark of Astellas US LLC, licensed to the Viatris Companies..
 
 Mylan.com

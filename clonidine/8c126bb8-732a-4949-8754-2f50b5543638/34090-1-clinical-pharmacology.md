@@ -27,7 +27,7 @@ CSF concentrations were not determined in these patients.
 Clonidine is highly lipid soluble and readily distributes into extravascular sites including the central nervous system.
 Clonidine’s volume of distribution is 2.1±0.4 L/kg.
 The binding of clonidine to plasma protein is primarily to albumin and varies between 20 and 40% in vitro.
-Epidurally administered clonidine readily partitions into plasma via the epidural veins and attains systemic concentrations (0.5 - 2.0 ng/mL) that are associated with a hypotensive effect mediated by the central nervous system.
+Epidurally administered clonidine readily partitions into plasma via the epidural veins and attains systemic concentrations (0.5-2.0 ng/mL) that are associated with a hypotensive effect mediated by the central nervous system.
 
 ## Excretion
 
