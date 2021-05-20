@@ -6,7 +6,11 @@ Nifedipine is 3,5-pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(2-nitro
 Nifedipine is a yellow crystalline substance, practically insoluble in water but soluble in ethanol.
 It has a molecular weight of 346.3.
 PROCARDIA XL is a registered trademark for Nifedipine GITS.
-Nifedipine GITS (Gastrointestinal Therapeutic System) Tablet is formulated as a once-a-day controlled-release tablet for oral administration designed to deliver 30, 60, or 90 mg of nifedipine.
+Nifedipine GITS (Gastrointestinal Therapeutic System) Tablet is formulated as a once-a-day controlled-release tablet for oral administration to provide 30, 60, or 90 mg of nifedipine.
+
+Each tablet contains 33 mg nifedipine to provide a 30 mg dose.
+Each tablet contains 66 mg nifedipine to provide a 60 mg dose.
+Each tablet contains 99 mg nifedipine to provide a 90 mg dose.
 
 Inert ingredients in the formulations are: cellulose acetate; hydroxypropyl cellulose; hypromellose; magnesium stearate; polyethylene glycol; polyethylene oxide; red ferric oxide; sodium chloride; titanium dioxide.
 
