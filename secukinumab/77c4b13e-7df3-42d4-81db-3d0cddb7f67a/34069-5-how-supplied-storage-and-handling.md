@@ -21,8 +21,13 @@ COSENTYX vial (for healthcare professional use only):
 
 ## 16.2 Storage and Handling
 
-COSENTYX Sensoready pens, prefilled syringes and vials must be refrigerated at 2ºC to 8ºC (36ºF to 46ºF).
+Refrigerate COSENTYX Sensoready pens, prefilled syringes, and vials at 2ºC to 8ºC (36ºF to 46ºF).
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 To avoid foaming do not shake.
 COSENTYX does not contain a preservative; discard any unused portion.
+
+If necessary, COSENTYX Sensoready pens and prefilled syringes may be stored for up to 4 days at room temperature not to exceed 30°C (86°F).
+Write the date COSENTYX was removed from the refrigerator in the space provided on the carton.
+If unused and not stored above 30°C (86°F), COSENTYX Sensoready pens and prefilled syringes may be returned to the refrigerator.
+Throw away COSENTYX if it has been kept outside of the refrigerator and not been used in over 4 days.

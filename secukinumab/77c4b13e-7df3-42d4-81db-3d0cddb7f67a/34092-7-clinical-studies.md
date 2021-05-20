@@ -119,7 +119,7 @@ Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
 | ACR70 response |  |  |  |  |  |
 | Week 16 (%) | 17 | 15 | 2 | 15 (7, 23) | 13 (5, 20) |
 | Week 24 (%) | 21 | 20 | 1 | 20 (12, 28) | 19 (11, 27) |
-| a Patients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders. |  |  |  |  |  |
+| aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders. |  |  |  |  |  |
 
 The percentage of patients achieving ACR20 response by visit is shown in Figure 1.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ACR20 responses over time (data not shown).
@@ -155,7 +155,7 @@ Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 | CRP (mg/L) |  |  |  |
 | Baseline | 14.15 | 10.88 | 7.87 |
 | Mean Change at Week 16b | -8.41 | -7.21 | 0.79 |
-| a Week 16 rather than Week 24 data are displayed to provide comparison between arms prior to placebo escape to COSENTYX. b Mean Change based upon observed data. |  |  |  |
+| aWeek 16 rather than Week 24 data are displayed to provide comparison between arms prior to placebo escape to COSENTYX. bMean Change based upon observed data. |  |  |  |
 
 Improvements in enthesitis and dactylitis scores were observed in each COSENTYX group compared to placebo at Week 24.
 
@@ -174,7 +174,7 @@ Table 6: Rate of Change per 24 Weeks in Modified Total Sharp Score
 | COSENTYX 150 mg with load | 213 | 0.14 | -0.37 (-0.71, -0.03) |
 | COSENTYX 300 mg with load | 217 | 0.03 | -0.48 (-0.82, -0.14) |
 | Placebo | 296 | 0.51 | -- |
-| Results from a linear mixed effects model that excluded data after escape for placebo subjects who received escape therapy at week 16. The model assumes approximately linear progression over time and estimates a difference in rates (slopes) of progression over 24 weeks to compare treatment arms. |  |  |  |
+| Results from a linear mixed effects model that excluded data after escape for placebo subjects who received escape therapy at Week 16. The model assumes approximately linear progression over time and estimates a difference in rates (slopes) of progression over 24 weeks to compare treatment arms. |  |  |  |
 
 Physical Function
 

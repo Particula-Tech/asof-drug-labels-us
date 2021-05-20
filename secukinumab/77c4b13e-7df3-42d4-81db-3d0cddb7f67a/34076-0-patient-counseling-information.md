@@ -28,8 +28,8 @@ Dispose of needles, syringes and pens in a puncture-resistant container.
 
 Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-US License No. 1244
+US License Number 1244
 
 © Novartis
 
-T2020-91
+T2021-53

@@ -56,7 +56,7 @@ COSENTYX® (koe-sen-tix)
 
 Injection
 
-Prefilled Syringe
+Single-Use Prefilled Syringe
 
 Be sure that you read, understand, and follow this Instructions for Use before injecting COSENTYX.
 Your healthcare provider should show you how to prepare and inject COSENTYX properly using the prefilled syringe before you use it for the first time.
@@ -66,7 +66,6 @@ Important:
 
 - Do not use the COSENTYX prefilled syringe if either the seal on the outside carton or the seal of the blister are broken.
   Keep the COSENTYX prefilled syringe in the sealed carton until you are ready to use it.
-- Inject COSENTYX within 1 hour after taking it out of the refrigerator.
 - Do not shake the COSENTYX prefilled syringe.
 - The needle caps of the prefilled syringes contain latex.
   Do not handle the prefilled syringes if you are sensitive to latex.
@@ -83,6 +82,10 @@ How should I store COSENTYX?
 
 - Store your carton of COSENTYX prefilled syringes in a refrigerator, between 36°F to 46°F (2°C to 8°C).
 - Keep COSENTYX prefilled syringes in the original carton until ready to use to protect from light.
+- COSENTYX Sensoready pen and COSENTYX prefilled syringe may be stored at room temperature, not to exceed temperatures above 86°F (30°C), for up to 4 days.
+- Write the date COSENTYX Sensoready pen or COSENTYX prefilled syringe was removed from the refrigerator in the space provided on the carton.
+- If unused and not stored above 30°C (86°F), COSENTYX Sensoready pens and prefilled syringes may be returned to the refrigerator.
+- Throw away COSENTYX if it has been kept outside of the refrigerator and not been used in over 4 days.
 - Do not freeze COSENTYX prefilled syringes.
 
 Keep COSENTYX and all medicines out of the reach of children.
@@ -114,11 +117,10 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 14. Slowly release the plunger and allow the syringe guard to automatically cover the exposed needle (see Figure I). Step 15. There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. | Figure I |
 | If your prescribed dose of COSENTYX is 300 mg, repeat steps 4 through 15 with a new COSENTYX prefilled syringe. How should I dispose of used COSENTYX prefilled syringes? |  |
 | Step 16. Put your used prefilled syringes in a FDA-cleared sharps disposal container right away after use (see Figure J). Do not throw away (dispose of) prefilled syringes in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure J |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: May 2021 |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
-| Revised: January 2018 |  |
 | © Novartis |  |
-| T2018-08 |  |
+| T2021-55 |  |
 
 INSTRUCTIONS FOR USE
 
@@ -128,7 +130,7 @@ COSENTYX® (koe-sen-tix)
 
 Injection
 
-Sensoready® Pen
+Single-Use Sensoready® Pen
 
 Be sure that you read, understand, and follow this Instructions for Use before injecting COSENTYX.
 Your healthcare provider should show you how to prepare and inject COSENTYX properly using the Sensoready Pen before you use it for the first time.
@@ -138,7 +140,6 @@ Important:
 
 - Do not use the COSENTYX Sensoready Pen if either the seal on the outer carton or the seal on the pen is broken.
   Keep the COSENTYX Sensoready Pen in the sealed outer carton until you are ready to use it.
-- Inject COSENTYX within 1 hour after taking it out of the refrigerator.
 - Do not shake the COSENTYX Sensoready Pen.
 - The caps of the Sensoready Pens contain latex.
   Do not handle the Sensoready Pens if you are sensitive to latex.
@@ -151,6 +152,10 @@ How should I store COSENTYX?
 
 - Store your carton of COSENTYX Sensoready Pen in a refrigerator, between 36°F to 46°F (2°C to 8°C).
 - Keep COSENTYX Sensoready Pen in the original carton until ready to use to protect from light.
+- COSENTYX Sensoready pen and COSENTYX prefilled syringe may be stored at room temperature, not to exceed temperatures above 86°F (30°C), for up to 4 days.
+- Write the date COSENTYX Sensoready pen or COSENTYX prefilled syringe was removed from the refrigerator in the space provided on the carton.
+- If unused and not stored above 30°C (86°F), COSENTYX Sensoready pens and prefilled syringes may be returned to the refrigerator.
+- Throw away COSENTYX if it has been kept outside of the refrigerator and not been used in over 4 days.
 - Do not freeze COSENTYX Sensoready Pen.
 
 Keep COSENTYX and all medicines out of the reach of children.
@@ -177,4 +182,7 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 8. Check the green indicator fills the window (see Figure L): This means the medicine has been delivered. Contact your healthcare provider if the green indicator is not visible.There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. If your prescribed dose of COSENTYX is 300 mg, repeat steps 1 through 8 with a new COSENTYX Sensoready Pen. | Figure L |
 | How should I dispose of used COSENTYX Sensoready Pens? |  |
 | Step 9. Put your used Sensoready Pens in a FDA-cleared sharps disposal container right away after use (see Figure M). Do not throw away (dispose of) Sensoready Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes, and Sensoready Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure M |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 Revised: January 2018 © Novartis T2018-09 |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: May 2021 |  |
+| Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
+| © Novartis |  |
+| T2021-56 |  |
