@@ -29,6 +29,7 @@ Do not inject into or near an artery or nerve, or intravenously or admix with ot
 
 Administer by DEEP INTRAMUSCULAR INJECTION in the upper, outer quadrant of the buttock (dorsogluteal) or the ventrogluteal site.
 In neonates, infants and small children, the midlateral aspect of the thigh may be preferable.
+Administration in the anterolateral thigh is not recommended due to the adverse effects observed (see WARNINGS section), and vascularity of this region.
 When doses are repeated, vary the injection site.
 
 Because of the high concentration of suspended material in this product, the needle may be blocked if the injection is not made at a slow, steady rate.

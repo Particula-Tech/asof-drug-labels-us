@@ -17,7 +17,7 @@ OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD
 
 ## Severe cutaneous adverse reactions
 
-Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking penicillin G (the active moiety in Bicillin C-R).
 When SCAR is suspected, Bicillin C-R should be discontinued immediately and an alternative treatment should be considered.
 
 ## Methemoglobinemia
@@ -32,9 +32,9 @@ Discontinue Bicillin C-R and any other oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-## Clostridium difficile associated diarrhea
+## Clostridioides difficile Associated Diarrhea
 
-Clostridium difficile associated with diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin C-R, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated with diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin C-R, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -48,6 +48,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## Method of Administration
 
 Do not inject into or near an artery or nerve.
+See administration instructions below.
 
 Injection into or near a nerve may result in permanent neurological damage.
 
@@ -64,7 +65,7 @@ Therefore, do not inject intravenously or admix with other intravenous solutions
 
 Administer by DEEP INTRAMUSCULAR INJECTION ONLY in the upper, outer quadrant of the buttock (dorsogluteal) or the ventrogluteal site.
 Quadriceps femoris fibrosis and atrophy have been reported following repeated intramuscular injections of penicillin preparations into the anterolateral thigh.
-Therefore, administration in the anterolateral thigh is not recommended.
+Because of these adverse effects and the vascularity of this region, administration in the anterolateral thigh is not recommended.
 
 # PRECAUTIONS
 
@@ -132,6 +133,8 @@ Examples of Drugs Associated with Methemoglobinemia:
 
 ## Pregnancy
 
+### Teratogenic effects
+
 Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
@@ -154,5 +157,5 @@ No long-term animal studies have been conducted with these drugs.
 Clinical studies of penicillin G benzathine and penicillin G procaine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see CLINICAL PHARMACOLOGY).
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (See CLINICAL PHARMACOLOGY.)
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -1,3 +1,3 @@
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Bicillin C-R and other antibacterial drugs, Bicillin C-R should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-LAB-0635-12.0 Revised: 11/2019
+LAB-0635-15.0 Revised: 05/2021
