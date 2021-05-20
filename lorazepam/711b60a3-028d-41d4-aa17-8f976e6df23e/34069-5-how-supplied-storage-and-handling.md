@@ -7,7 +7,12 @@
 
 PROTECT FROM LIGHT
 
-Store at Cold Temperature– Refrigerate 2°-8°C (36°-46°F)
+Keep bottles tightly closed.
+
+Keep out of the reach of children.
+
+Store at Cold Temperature.
+Refrigerate 2° - 8°C (36° - 46°F)
 
 Dispense only in the bottle and only with the calibrated dropper provided.
 

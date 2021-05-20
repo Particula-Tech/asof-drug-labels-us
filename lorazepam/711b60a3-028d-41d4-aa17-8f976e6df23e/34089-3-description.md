@@ -1,15 +1,9 @@
 # DESCRIPTION
 
-Each mL of Lorazepam Oral Concentrate for oral administration contains:
+Lorazepam, an antianxiety agent, has the chemical formula, 2H-1,4-benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-, (±)-:
 
-Lorazepam 2 mg
+C 15H 10Cl 2N 2O 2 M.W.
+321.16
 
-## Inactive Ingredients
-
-Lorazepam Oral Concentrate contains polyethylene glycol and propylene glycol.
-
-Lorazepam, an antianxiety agent, has the chemical formula, 2 H-1,4-benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-, (±)-:
-
-C 15H 10Cl 2N 2O 2 MW: 321.16
-
-Lorazepam is a nearly white powder almost insoluble in water.
+It is a nearly white powder almost insoluble in water.
+The inactive ingredients present are polyethylene glycol and propylene glycol.
