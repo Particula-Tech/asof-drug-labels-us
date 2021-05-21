@@ -134,8 +134,8 @@ Active ingredient: alogliptin
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium and magnesium stearate.
 In addition, the film-coating contains the following inactive ingredients: hypromellose, titanium dioxide, ferric oxide (red or yellow) and polyethylene glycol and is marked with gray F1 printing ink
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
-NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc. © 2013 - 2016 Takeda Pharmaceuticals America, Inc. NES011 R8
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421.
+NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc. © 2013 - 2016 Takeda Pharmaceuticals America, Inc. NES011 R9
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 12/2016
