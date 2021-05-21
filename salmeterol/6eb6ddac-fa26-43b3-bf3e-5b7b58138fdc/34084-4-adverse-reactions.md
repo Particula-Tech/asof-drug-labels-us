@@ -28,30 +28,30 @@ The average duration of exposure was 60 to 79 days in the active treatment group
 Table 2.
 Adverse Reactions with Fluticasone Propionate/Salmeterol DISKUS with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthma
 
-| Adverse Event | Fluticasone Propionate/ Salmeterol DISKUS100/50 mcg(n = 92)% | Fluticasone Propionate/ Salmeterol DISKUS250/50 mcg(n = 84)% |  | Fluticasone Propionate100 mcg(n = 90)% |  | Fluticasone Propionate250 mcg(n = 84)% |  | Salmeterol50 mcg(n = 180)% |  | Placebo(n = 175)% |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ear, nose, and throat |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infection | 27 | 21 | 29 |  | 25 |  | 19 |  | 14 |  |  |
-| Pharyngitis | 13 | 10 | 7 |  | 12 |  | 8 |  | 6 |  |  |
-| Upper respiratory inflammation | 7 | 6 | 7 |  | 8 |  | 8 |  | 5 |  |  |
-| Sinusitis | 4 | 5 | 6 |  | 1 |  | 3 |  | 4 |  |  |
-| Hoarseness/dysphonia | 5 | 2 | 2 |  | 4 |  | <1 |  | <1 |  |  |
-| Oral candidiasis | 1 | 4 | 2 |  | 2 |  | 0 |  | 0 |  |  |
-| Lower respiratory |  |  |  |  |  |  |  |  |  |  |  |
-| Viral respiratory infections | 4 | 4 | 4 |  | 10 |  | 6 |  | 3 |  |  |
-| Bronchitis | 2 | 8 | 1 |  | 2 |  | 2 |  | 2 |  |  |
-| Cough | 3 | 6 | 0 |  | 0 |  | 3 |  | 2 |  |  |
-| Neurology |  |  |  |  |  |  |  |  |  |  |  |
-| Headaches | 12 | 13 | 14 |  | 8 |  | 10 |  | 7 |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea and vomiting | 4 | 6 | 3 |  | 4 |  | 1 |  | 1 |  |  |
-| Gastrointestinal discomfort and pain | 4 | 1 | 0 |  | 2 |  | 1 |  | 1 |  |  |
-| Diarrhea | 4 | 2 | 2 |  | 2 |  | 1 |  | 1 |  |  |
-| Viral gastrointestinal infections | 3 | 0 | 3 |  | 1 |  | 2 |  | 2 |  |  |
-| Non-site specific |  |  |  |  |  |  |  |  |  |  |  |
-| Candidiasis unspecified site | 3 | 0 | 1 |  | 4 |  | 0 |  | 1 |  |  |
-| Musculoskeletal |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal pain | 4 | 2 | 1 |  | 5 |  | 3 |  | 3 |  |  |
+| Adverse Event | Fluticasone Propionate/ Salmeterol DISKUS100/50 mcg(n = 92)% | Fluticasone Propionate/ Salmeterol DISKUS250/50 mcg(n = 84)% | Fluticasone Propionate100 mcg(n = 90)% | Fluticasone Propionate250 mcg(n = 84)% | Salmeterol50 mcg(n = 180)% | Placebo(n = 175)% |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ear, nose, and throat |  |  |  |  |  |  |
+| Upper respiratory tract infection | 27 | 21 | 29 | 25 | 19 | 14 |
+| Pharyngitis | 13 | 10 | 7 | 12 | 8 | 6 |
+| Upper respiratory inflammation | 7 | 6 | 7 | 8 | 8 | 5 |
+| Sinusitis | 4 | 5 | 6 | 1 | 3 | 4 |
+| Hoarseness/dysphonia | 5 | 2 | 2 | 4 | <1 | <1 |
+| Oral candidiasis | 1 | 4 | 2 | 2 | 0 | 0 |
+| Lower respiratory |  |  |  |  |  |  |
+| Viral respiratory infections | 4 | 4 | 4 | 10 | 6 | 3 |
+| Bronchitis | 2 | 8 | 1 | 2 | 2 | 2 |
+| Cough | 3 | 6 | 0 | 0 | 3 | 2 |
+| Neurology |  |  |  |  |  |  |
+| Headaches | 12 | 13 | 14 | 8 | 10 | 7 |
+| Gastrointestinal |  |  |  |  |  |  |
+| Nausea and vomiting | 4 | 6 | 3 | 4 | 1 | 1 |
+| Gastrointestinal discomfort and pain | 4 | 1 | 0 | 2 | 1 | 1 |
+| Diarrhea | 4 | 2 | 2 | 2 | 1 | 1 |
+| Viral gastrointestinal infections | 3 | 0 | 3 | 1 | 2 | 2 |
+| Non-site specific |  |  |  |  |  |  |
+| Candidiasis unspecified site | 3 | 0 | 1 | 4 | 0 | 1 |
+| Musculoskeletal |  |  |  |  |  |  |
+| Musculoskeletal pain | 4 | 2 | 1 | 5 | 3 | 3 |
 
 The types of adverse reactions and events reported in Trial 3, a 28-week, non-U.S. clinical trial in 503 subjects previously treated with ICS who were treated twice daily with fluticasone propionate/salmeterol DISKUS 500/50 mcg, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg used concurrently, or fluticasone propionate inhalation powder 500 mcg, were similar to those reported in Table 2.
 
@@ -112,7 +112,7 @@ The most common events that occurred with a frequency of >5% and more frequently
 Overall, 55 (7%) of the subjects treated with fluticasone propionate/salmeterol DISKUS and 25 (3%) of the subjects treated with salmeterol developed pneumonia.
 
 The incidence of pneumonia was higher in subjects older than 65 years, 9% in the subjects treated with fluticasone propionate/salmeterol DISKUS compared with 4% in the subjects treated with fluticasone propionate/salmeterol DISKUS younger than 65 years.
-In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age-groups.
+In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age groups.
 [See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
 Long-term (3 Years) Trial

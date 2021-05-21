@@ -38,15 +38,15 @@ The effect of fluticasone propionate/salmeterol DISKUS 100/50 mcg on morning and
 Table 5.
 Peak Expiratory Flow Results for Subjects with Asthma Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
 
-| Efficacy Variablea | Fluticasone Propionate/ Salmeterol DISKUS100/50 mcg(n = 87) | Fluticasone Propionate100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |  |
-| --- | --- | --- | --- | --- | --- |
-| AM PEF (L/min) |  |  |  |  |  |
-| Baseline | 393 | 374 | 369 | 382 |  |
-| Change from baseline | 53 | 17 | -2 | -24 |  |
-| PM PEF (L/min) |  |  |  |  |  |
-| Baseline | 418 | 390 | 396 | 398 |  |
-| Change from baseline | 35 | 18 | -7 | -13 |  |
-| a Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |  |
+| Efficacy Variablea | Fluticasone Propionate/ Salmeterol DISKUS100/50 mcg(n = 87) | Fluticasone Propionate100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AM PEF (L/min) |  |  |  |  |  |  |  |  |
+| Baseline | 393 | 374 | 369 | 382 |  |  |  |  |
+| Change from baseline | 53 | 17 | -2 | -24 |  |  |  |  |
+| PM PEF (L/min) |  |  |  |  |  |  |  |  |
+| Baseline | 418 | 390 | 396 | 398 |  |  |  |  |
+| Change from baseline | 35 | 18 | -7 | -13 |  |  |  |  |
+| a Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |  |  |  |  |
 
 The subjective impact of asthma on subjects’ perception of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
 Subjects receiving fluticasone propionate/salmeterol DISKUS 100/50 mcg had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.25 compared with placebo).
@@ -113,15 +113,15 @@ In Trials 4 and 5, fluticasone propionate/salmeterol DISKUS was non-inferior to 
 Table 6.
 Serious Asthma-Related Events in the 26-Week Trials 4 and 5
 
-|  | Adult and Adolescent Subjects Aged 12 Years and Older (Trial 4) |  | Pediatric Subjects Aged 4 to 11 Years (Trial 5) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fluticasone Propionate/ Salmeterol DISKUS(n = 5,834) | Fluticasone Propionate Inhalation Powder(n = 5,845) | Fluticasone Propionate/ Salmeterol DISKUS(n = 3,107) | Fluticasone Propionate Inhalation Powder(n = 3,101) |  |  |  |  |  |  |  |  |  |  |  |
-| Serious asthma-related event (hospitalization, endotracheal intubation, and death)a | 34 (0.6%) | 33 (0.6%) | 27 (0.9%) | 21 (0.7%) |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio (Fluticasone propionate/salmeterol DISKUS/fluticasone propionate) | 1.03(0.64-1.66)b |  | 1.29(0.73-2.27)b |  |  |  |  |  |  |  |  |  |  |  |
-| Asthma-related death | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Asthma-related intubation (endotracheal) | 0 | 2 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Asthma-related hospitalization (≥24-hour stay) | 34 | 33 | 27 | 21 |  |  |  |  |  |  |  |  |  |  |
-| a Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. b The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (fluticasone propionate/salmeterol DISKUS vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status. If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial 4) or <2.7 (Trial 5), then non-inferiority was concluded. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Adult and Adolescent Subjects Aged 12 Years and Older (Trial 4) |  | Pediatric Subjects Aged 4 to 11 Years (Trial 5) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fluticasone Propionate/ Salmeterol DISKUS(n = 5,834) | Fluticasone Propionate Inhalation Powder(n = 5,845) | Fluticasone Propionate/ Salmeterol DISKUS(n = 3,107) | Fluticasone Propionate Inhalation Powder(n = 3,101) |  |  |  |  |  |  |  |  |  |  |
+| Serious asthma-related event (hospitalization, endotracheal intubation, and death)a | 34 (0.6%) | 33 (0.6%) | 27 (0.9%) | 21 (0.7%) |  |  |  |  |  |  |  |  |  |
+| Hazard ratio (Fluticasone propionate/salmeterol DISKUS/fluticasone propionate) | 1.03(0.64-1.66)b |  | 1.29(0.73-2.27)b |  |  |  |  |  |  |  |  |  |  |
+| Asthma-related death | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |
+| Asthma-related intubation (endotracheal) | 0 | 2 | 0 | 0 |  |  |  |  |  |  |  |  |  |
+| Asthma-related hospitalization (≥24-hour stay) | 34 | 33 | 27 | 21 |  |  |  |  |  |  |  |  |  |
+| a Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. b The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (fluticasone propionate/salmeterol DISKUS vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status. If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial 4) or <2.7 (Trial 5), then non-inferiority was concluded. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Effect on Exacerbation: Trials 4 and 5 included time to first exacerbation as a secondary endpoint, where exacerbation was defined as a deterioration of asthma requiring the use of systemic corticosteroids for at least 3 days or an in-patient hospitalization or emergency department visit due to asthma that required systemic corticosteroids.
 In Trials 4 and 5, the hazard ratio for the time to first asthma exacerbation for fluticasone propionate/salmeterol DISKUS relative to fluticasone propionate inhalation powder was 0.79 (95% CI: 0.70, 0.89) and 0.86 (95% CI: 0.73, 1.01), respectively.
