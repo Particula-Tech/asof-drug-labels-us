@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZEMPLAR injection is a clear, colorless solution available in trays of 25 vials as follows:
+ZEMPLAR injection is a clear, colorless solution available in cartons of 25 vials as follows:
 
 Table 7.
 ZEMPLAR Presentations
@@ -9,7 +9,7 @@ ZEMPLAR Presentations
 | --- | --- | --- | --- |
 | 2 mcg/mL | 2 mcg/mL | 1 mL single-dose vial | 0074-4637-01 |
 | 5 mcg/mL | 5 mcg/mL | 1 mL single-dose vial | 0074-1658-01 |
-| 10 mcg/2 mL | 5 mcg/mL | 2 mL multi-dose vial | 0074-1658-05 |
+| 10 mcg/2 mL | 5 mcg/mL | 2 mL multiple-dose vial | 0074-1658-05 |
 
 Store at 25°C (77°F).
 Excursions permitted between 15° to 30°C (59° to 86°F).
