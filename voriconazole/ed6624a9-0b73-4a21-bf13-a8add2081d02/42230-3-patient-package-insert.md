@@ -18,12 +18,13 @@ Do not take voriconazole for oral suspension if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole for oral suspension.
 - are taking any of the following medicines:
 
-| o cisapride | o pimozide | o quinidine |
+| cisapride | pimozide | o quinidine |
 | --- | --- | --- |
-| o sirolimus | o rifampin | o carbamazepine |
-| o long-acting barbiturates like phenobarbital | o efavirenz | o ritonavir |
-| o rifabutin | o ergotamine, dihydroergotamine (ergot alkaloids) | o St. John’s Wort (herbal supplement) |
-| o naloxegol | o tolvaptan |  |
+| sirolimus | rifampin | carbamazepine |
+| long-acting barbiturates like phenobarbital | efavirenz | ritonavir |
+| rifabutin | ergotamine, dihydroergotamine (ergot alkaloids) | St. John’s Wort (herbal supplement) |
+| naloxegol | tolvaptan |  |
+| ivabradine | venetoclax |  |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
@@ -202,4 +203,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-04-2021-06
+04-2021-07
