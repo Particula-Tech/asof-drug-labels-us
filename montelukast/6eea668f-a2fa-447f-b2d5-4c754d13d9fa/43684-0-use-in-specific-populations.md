@@ -39,8 +39,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness in pediatric patients below the age of 12 months with asthma and 6 months with perennial allergic rhinitis have not been established.
-The safety and effectiveness in pediatric patients below the age of 6 years with exercise-induced bronchoconstriction have not been established.
+The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
 
 ## 8.5 Geriatric Use
 

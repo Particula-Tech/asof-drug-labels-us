@@ -11,6 +11,6 @@ NDC 16729-119-17 high-density polyethylene (HDPE) bottles of 1000 with a polypro
 
 Storage
 
-Store montelukast sodium tablets, USP 10 mg film-coated at 25°C (77°F), excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store montelukast sodium tablets, USP 10 mg film-coated at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original package.

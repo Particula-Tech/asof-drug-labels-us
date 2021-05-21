@@ -14,9 +14,12 @@ The patients had a mean baseline percent of predicted forced expiratory volume i
 The co-primary endpoints in these trials were FEV 1 and daytime asthma symptoms.
 In both studies after 12 weeks, a random subset of patients receiving montelukast sodium was switched to placebo for an additional 3 weeks of double-blind treatment to evaluate for possible rebound effects.
 
-The results of the U.S. trial on the primary endpoint, morning FEV 1, expressed as mean percent change from baseline averaged over the 12-week treatment period, are shown in FIGURE 1.
+The results of the U.S. trial on the primary endpoint, morning FEV 1, expressed as mean percent change from baseline averaged over the 12-week treatment period, are shown in FIGURE 2.
 Compared with placebo, treatment with one montelukast sodium 10-mg tablet daily in the evening resulted in a statistically significant increase in FEV 1 percent change from baseline (13.0%-change in the group treated with montelukast sodium vs. 4.2%-change in the placebo group, p<0.001); the change from baseline in FEV 1 for montelukast sodium was 0.32 liters compared with 0.10 liters for placebo, corresponding to a between-group difference of 0.22 liters (p<0.001, 95% CI 0.17 liters, 0.27 liters).
 The results of the Multinational trial on FEV 1 were similar.
+
+Figure 2: FEV1 Mean Percent Change from Baseline (U.S.
+Trial: Montelukast sodium N=406; Placebo N=270) (ANOVA Model)
 
 The effect of montelukast sodium on other primary and secondary endpoints, represented by the Multinational study is shown in TABLE 2.
 Results on these endpoints were similar in the US study.
@@ -62,7 +65,7 @@ Patients who were randomized to treatment arms containing beclomethasone had sta
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.3)].
+The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
@@ -110,10 +113,10 @@ Four of the five trials showed a significant reduction in daytime nasal symptoms
 The results of one trial are shown below.
 The median age in this trial was 35.0 years (range 15 to 81); 65.4% were females and 34.6% were males.
 The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other origins, 5.8% Black, and 4.8% Hispanic.
-The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 4.
+The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 5.
 The remaining three trials that demonstrated efficacy showed similar results.
 
-TABLE 4: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
+TABLE 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
@@ -129,9 +132,9 @@ Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by 
 
 In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males.
 The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1.0% other origins.
-Montelukast sodium 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 5); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
+Montelukast sodium 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 6); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
 
-Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
+Table 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
