@@ -63,7 +63,7 @@ Pediatric patients 1 year to less than 6 years of age
 The pharmacokinetics of cysteamine with administration of PROCYSBI at steady state were evaluated in 11 cysteamine treatment naïve patients between the ages of 1 and 5 years of age with nephropathic cystinosis.
 A mean (± SD) Cmax of 1.26 ± 0.86 mg/L was reached at an average Tmax of 199 ± 138 minutes and the mean (± SD) dose was 242 ± 93 mg/m2.
 The mean exposure was calculated to be 206 ± 113 minutes*mg/L (AUClast) and 231 ± 123 minutes*mg/L (AUCinf).
-The mean CLss/F was estimated to be 0.69 ± 0.37 L/minutes with an average half-life (t1/2) of 270 ± 56 minutes.
+The mean CLss/F was estimated to be 0.69 ± 0.37 L/minutes with an average half-life (t½) of 270 ± 56 minutes.
 Overall, the pharmacokinetics in patients between the ages of 1 and 5 years of age is comparable with those in older children and adults.
 
 Patients with Renal Impairment
@@ -77,7 +77,7 @@ The mean CL/F was 1.57, 1.08, and 1.09 L/min in mild, moderate, and severe renal
 
 In subjects with end-stage renal disease receiving 4 hours of hemodialysis, the geometric mean Cmax and AUCinf of cysteamine was 60% higher when PROCYSBI was administered 3 hours before hemodialysis, and 22% higher when administered 1 hour after completion of hemodialysis compared to healthy subjects.
 Approximately 4.3% (25.6 mg) of the 600 mg PROCYSBI dose was removed from the body with hemodialysis.
-The apparent clearance of cysteamine in subjects who received PROCYBI before hemodialysis was approximately 65 mL/min.
+The apparent clearance of cysteamine in subjects who received PROCYSBI before hemodialysis was approximately 65 mL/min.
 
 The increased exposure to cysteamine in patients with renal impairment compared to healthy subjects is not considered to be clinically meaningful.
 

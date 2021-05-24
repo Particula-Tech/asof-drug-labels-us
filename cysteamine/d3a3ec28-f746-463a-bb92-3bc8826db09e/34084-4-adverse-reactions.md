@@ -38,7 +38,7 @@ Table 2: Adverse Reactions in ≥5% of Patients with Nephropathic Cystinosis in 
 | Dizziness | 0 | 5 |
 | Anorexia/loss of appetite | 5 | 2 |
 
-In the open-label extension trial (N=59), the most commonly reported adverse reactions (>15%) were vomitin g, headache, diarrhea, nausea, conjunctivitis, influenza, gastroenteritis, nasopharyngitis, abdominal pain, dehydration, ear infection, upper respiratory tract infection, fatigue, arthralgia, cough, and pain in extremity.
+In the open-label extension trial (N=59), the most commonly reported adverse reactions (>15%) were vomiting, headache, diarrhea, nausea, conjunctivitis, influenza, gastroenteritis, nasopharyngitis, abdominal pain, dehydration, ear infection, upper respiratory tract infection, fatigue, arthralgia, cough, and pain in extremity.
 
 Clinical Trials Experience with PROCYSBI in Cysteamine-Naïve Patients
 

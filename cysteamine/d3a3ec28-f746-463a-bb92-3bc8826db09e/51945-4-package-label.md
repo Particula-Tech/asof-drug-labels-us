@@ -12,7 +12,7 @@ PROCYSBI® (cysteamine bitartrate) delayed-release capsules
 
 Rx Only
 
-Distributed by: Horizon Therapeutics USA, Inc. Lake Forest, IL 60045 Country of origin: Italy
+Distributed by: Horizon Therapeutics USA, Inc. Deerfield, IL 60015 Country of origin: Italy
 
 Discard after:
 
@@ -32,7 +32,7 @@ Rx Only
 
 250 capsules
 
-Distributed by: Horizon Therapeutics USA, Inc. Lake Forest, IL 60045 Country of origin: Italy
+Distributed by: Horizon Therapeutics USA, Inc. Deerfield, IL 60015 Country of origin: Italy
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Granule Packet Carton
 
@@ -46,7 +46,7 @@ Dispense only in original packaging
 
 Contains 60 packets
 
-Rx only
+Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Granule Packet Carton
 
@@ -60,4 +60,4 @@ Dispense only in original packaging
 
 Contains 60 packets
 
-Rx only
+Rx Only

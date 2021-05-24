@@ -53,7 +53,7 @@ Administration
   - For patients with a gastrostomy tube, follow the instruction in the Instructions for Use
 - Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate.
 - Do not eat for at least 2 hours before and for at least 30 minutes after taking PROCYSBI.
-  If unable to take PROCYSBI without eating, take with food but limit the amount of food to approximately 4 ounces (1/2 cup) 1 hour before through 1 hour after administration.
+  If unable to take PROCYSBI without eating, take with food but limit the amount of food to approximately 4 ounces (½ cup) 1 hour before through 1 hour after administration.
   Avoid high fat food close to dosing of PROCYSBI.
 - Avoid drinking alcohol while taking PROCYSBI.
 - Take PROCYSBI consistently and to not miss doses.

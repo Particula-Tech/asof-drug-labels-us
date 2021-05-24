@@ -76,7 +76,7 @@ During extended treatment with PROCYSBI, mean estimates of renal function, as me
 Multi-Center, Open-Label, Clinical Trial in Cysteamine Naïve Patients Less than 6 Years of Age
 
 A clinical trial of PROCYSBI (Study RP103-08; NCT01744782) was conducted in 17 patients with a documented diagnosis of nephropathic cystinosis who were naïve to cysteamine treatment (15 patients between the ages of 1 and 5 years, one 9-year old and one 22-year old).
-The PROCYSBI starting dose was 1/4 the maintenance dose of 1 gram/m2/day (actual dosing was based on weight bands using the available capsule strengths, as shown in (Table 1) and the dosage was gradually increased by 10% every 2 weeks.
+The PROCYSBI starting dose was ¼ the maintenance dose of 1 gram/m2/day (actual dosing was based on weight bands using the available capsule strengths, as shown in (Table 1) and the dosage was gradually increased by 10% every 2 weeks.
 Dosage adjustment was allowed throughout the trial and was based on subject-specific factors (e.g., weight, tolerability) and WBC cystine concentrations.
 WBC cystine concentrations were obtained 30 minutes after the morning dose collected bi-monthly until the patient's WBC cystine concentration (using the mixed leukocyte assay) was < 1 nmol ½ cystine/mg protein.
 Treatment duration was at least 12 months.

@@ -89,7 +89,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
   - For patients with a gastrostomy tube, the oral granules can be mixed in applesauce and administered via a gastrostomy tube, as described below.
 - Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate [see Drug Interactions (7.1)].
 - Do not eat for at least 2 hours before taking PROCYSBI and for at least 30 minutes after to maximize absorption.
-  If patients are unable to take PROCYSBI without eating, take with food and limit the amount of food to approximately 4 ounces (1∕2 cup) within 1 hour before taking PROCYSBI through 1 hour after taking PROCYSBI.
+  If patients are unable to take PROCYSBI without eating, take with food and limit the amount of food to approximately 4 ounces (½ cup) within 1 hour before taking PROCYSBI through 1 hour after taking PROCYSBI.
   Take PROCYSBI in a consistent manner in regard to food.
   Avoid high fat food close to dosing of PROCYSBI.
 - Avoid drinking alcohol while taking PROCYSBI [see Drug Interactions (7.2)].
@@ -100,9 +100,9 @@ Administration of PROCYSBI capules or oral granules with foods and liquids not i
 
 Administration in Applesauce or Berry Jelly:
 
-1. Place approximately 4 ounces (1/2 cup) or a smaller amount that can be consumed in one feeding of either applesauce or berry jelly into a clean container.
+1. Place approximately 4 ounces (½ cup) or a smaller amount that can be consumed in one feeding of either applesauce or berry jelly into a clean container.
 2. Open the capsule(s) or packet(s).
-3. Sprinkle all the intact granules that are inside the capsule(s) or packets(s) on applesauce or berry jelly.
+3. Sprinkle all the intact granules that are inside the capsule(s) or packet(s) on applesauce or berry jelly.
 4. Mix the granules with the applesauce or berry jelly.
    Do not crush the granules.
 5. Consume the entire contents within 30 minutes of mixing.
@@ -111,7 +111,7 @@ Administration in Applesauce or Berry Jelly:
 
 Administration in Fruit Juice (except grapefruit juice):
 
-1. Pour approximately 4 ounces (1/2 cup) of fruit juice into a clean cup.
+1. Pour approximately 4 ounces (½ cup) of fruit juice into a clean cup.
 2. Open the capsule(s) or packet(s).
 3. Sprinkle all the intact granules into the juice.
 4. Gently stir until mixed.
@@ -125,9 +125,9 @@ Administration in Applesauce via a Gastrostomy (G) Tube (14 French or larger)
 A bolus (straight) feeding tube is recommended.
 
 1. Flush the gastrostomy tube button first with 5 mL of water to clear the button.
-2. Open the capsule(s) or packet(s) and empty the granules into a clean container with approximately 4 ounces (1/2 cup) of applesauce.
+2. Open the capsule(s) or packet(s) and empty the granules into a clean container with approximately 4 ounces (½ cup) of applesauce.
    Use only strained applesauce with no chunks.
-   A minimum of 1 ounce (1/8 cup) of applesauce may be used for children 25 kg or less starting PROCYSBI at a dose of 1 or 2 capsules or packets.
+   A minimum of 1 ounce (⅛cup) of applesauce may be used for children 25 kg or less starting PROCYSBI at a dose of 1 or 2 capsules or packets.
 3. Mix the intact granules into the applesauce.
    Do not crush the granules.
 4. Draw up the mixture into a syringe.

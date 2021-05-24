@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 One case of overdosing with PROCYSBI has been reported.
-A 16-year old male patient suffered nausea and vomiting after he mistakenly took a second dose of PROCYSBI 30 minutes after his usual dose.
+A 16-year-old male patient suffered nausea and vomiting after he mistakenly took a second dose of PROCYSBI 30 minutes after his usual dose.
 
 Two cases of overdosing with immediate-release cysteamine bitartrate have been reported in two patients.
 In the first case, the patient immediately vomited after ingesting an unknown dose and did not develop any symptoms.
