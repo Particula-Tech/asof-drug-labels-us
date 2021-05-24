@@ -48,7 +48,7 @@ Drug Interaction Studies:
 
 Drugs and Supplements Increasing Serum Potassium: Concomitant administration of spironolactone with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [see Warnings and Precautions (5.1)and Drug Interactions (7.1)].
 
-Lithium: Spironolactone reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Warnings and Precautions (5.1)and Drug Interactions (7.2)].
+Lithium: Spironolactone reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Drug Interactions (7.2)].
 
 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
