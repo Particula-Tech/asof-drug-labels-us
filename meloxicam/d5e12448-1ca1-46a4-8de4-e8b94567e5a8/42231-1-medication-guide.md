@@ -51,8 +51,9 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
 - have high blood pressure
 - have asthma
 - are pregnant or plan to become pregnant.
-  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy.
 - are breastfeeding or plan to breast feed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
@@ -121,6 +122,6 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2021

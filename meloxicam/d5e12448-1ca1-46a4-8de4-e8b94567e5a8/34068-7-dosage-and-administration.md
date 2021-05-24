@@ -4,7 +4,6 @@
 
 Carefully consider the potential benefits and risks of meloxicam tablets and other treatment options before deciding to use meloxicam tablets.
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-
 After observing the response to initial therapy with meloxicam tablets, adjust the dose to suit an individual patient's needs.
 
 In adults, the maximum recommended daily oral dose of meloxicam is 15 mg regardless of formulation.
