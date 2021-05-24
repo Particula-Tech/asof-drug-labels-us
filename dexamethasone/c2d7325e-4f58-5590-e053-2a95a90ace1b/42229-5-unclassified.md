@@ -1,0 +1,17 @@
+Eyevance Pharmaceuticals, LLC
+
+FortWorth, TX 76102
+
+Rx Only
+
+FOR TOPICAL OPHTHALMIC USE ONLY
+
+USUAL DOSAGE: Read enclosed insert
+
+SHAKE WELL BEFORE USING
+
+PROTECT FROM LIGHT
+
+STORAGE: Store at 2°-25°C (36°-77°F).
+
+Rev 01/2020

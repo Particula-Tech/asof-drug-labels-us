@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050818"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Eyevance Pharmaceuticals LLC",
+  "package_ndcs": [
+    "71776-035-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "tobramycin / dexamethasone",
+      "name": "TobraDex ST"
+    }
+  ],
+  "setid": "c2d7325e-4f58-5590-e053-2a95a90ace1b",
+  "source": "dailymed"
+}
