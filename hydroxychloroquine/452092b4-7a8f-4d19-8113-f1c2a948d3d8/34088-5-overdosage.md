@@ -2,7 +2,6 @@
 
 The 4-aminoquinoline compounds are very rapidly and completely absorbed after ingestion, and in accidental overdosage, or rarely with lower doses in hypersensitive patients, toxic symptoms may occur within 30 minutes.
 The symptoms of overdosage may include headache, drowsiness, visual disturbances, cardiovascular collapse, convulsions, hypokalemia, rhythm and conduction disorders including QT prolongation, torsades de pointes, ventricular tachycardia and ventricular fibrillation, followed by sudden potentially fatal respiratory and cardiac arrest.
-
 Treatment is symptomatic and must be prompt.
 Immediate gastric lavage until the stomach is completely emptied is indicated.
 After lavage, activated charcoal is introduced by the stomach tube within 30 minutes of ingestion of the drug may inhibit further intestinal absorption.

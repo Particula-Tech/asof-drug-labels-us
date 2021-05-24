@@ -50,7 +50,7 @@ Digoxin: Concomitant hydroxychloroquine sulfate tablets and digoxin therapy may 
 
 Insulin or antidiabetic drugs: As hydroxychloroquine sulfate tablets may enhance the effects of a hypoglycemic treatment, a decrease in doses of insulin or antidiabetic drugs may be required.
 
-Drugs that prolong QT interval and other arrhythmogenic drugs: Hydroxychloroquine Sulfate Tablets prolong the QT interval and should not be administered with other drugs that have the potential to induce cardiac arrhythmias.
+Drugs that prolong QT interval and other arrhythmogenic drugs: Hydroxychloroquine Sulfate Tablets prolongs the QT interval and should not be administered with other drugs that have the potential to induce cardiac arrhythmias.
 Also, there may be an increased risk of inducing ventricular arrhythmias if hydroxychloroquine sulfate tablets is used concomitantly with other arrhythmogenic drugs.
 
 Mefloquine and other drugs known to lower the convulsive threshold: Hydroxychloroquine Sulfate Tablets can lower the convulsive threshold.
@@ -72,6 +72,17 @@ Cimetidine: Cimetidine can inhibit the metabolism of chloroquine, increasing its
 Concomitant use of cimetidine should be avoided.
 
 Ampicillin: In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin.
+
+## General:
+
+Use with caution in patients with gastrointestinal, neurological, or blood disorders, and in those with a sensitivity to quinine.
+Hepatic/Renal Disease: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
+A reduction in dosage may be necessary in patients with hepatic or renal disease, as well as in those taking medicines known to affect these organs.
+Hematologic Effects/Laboratory Tests: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism, or in conjunction with known hepatotoxic drugs.
+Periodic blood cell counts should be performed if patients are given prolonged therapy.
+If any severe blood disorder such as aplastic anemia, agranulocytosis, leukopenia, or thrombocytopenia, appears which is not attributable to the disease under treatment, consider discontinuation of hydroxychloroquine sulfate tablets.
+Hydroxychloroquine Sulfate Tablets should be administered with caution in patients having glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
+Dermatologic Effects: Dermatologic reactions to hydroxychloroquine sulfate tablets may occur and, therefore, proper care should be exercised when it is administered to any patient receiving a drug with a significant tendency to produce dermatitis.
 
 Information for Patients: Patients should be informed of the early signs and symptoms of toxicity such as rash or visual changes.
 Patients must see their physicians promptly in case of the appearance of these or of any unusual effects.

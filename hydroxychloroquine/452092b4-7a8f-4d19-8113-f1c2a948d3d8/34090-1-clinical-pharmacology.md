@@ -1,15 +1,15 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
-Pharmacokinetics: Following a single 200 mg oral dose of hydroxychloroquine sulfate tablets to healthy male volunteers, the mean peak blood concentration of hydroxychloroquine was 129.6 ng/mL, reached in 3.26 hours with a half-life of 537 hours (22.4 days).
+Pharmacokinetics: Following a single 200 mg oral dose of hydroxychloroquine sulfate tablets to healthy male, the mean peak blood concentration of hydroxychloroquine was 129.6 ng/mL, reached in 3.26 hours with a half-life of 537 hours (22.4 days).
 In the same study, the plasma peak concentration was 50.3 ng/mL reached in 3.74 hours with a half-life of 2963 hours (123.5 days).
-Urine hydroxychloroquine levels were still detectable after 3 months with approximately 10% of the dose excreted as the parent drug.
+Urine hydroxychloroquine levels were still detectable after 3 months with approximately 10% of the dose excreted was parent drug.
 Results following a single dose of a 200 mg tablet versus i.v. infusion (155 mg), demonstrated a half-life of about 40 days and a large volume of distribution.
-Peak blood concentrations of metabolites were observed at the same time was peak levels of hydroxychloroquine.
+Peak blood concentrations of metabolites were observed at the same time as peak levels of hydroxychloroquine.
 The mean fraction of the dose absorbed was 0.74.
 After administration of single 155 mg and 310 mg intravenous doses, peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following the 155 mg infusion and 6 months following the 310 mg infusion.
 Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg indicating linear kinetics.
 
-Following chronic oral administration of hydroxychloroquine, significant levels of three metabolites, desethylhydroxychloroquine (DHCQ), esethylchloroquine (DCQ), and bidesethylhydroxychloroquine (BDCQ) have been found in plasma and blood, with DHCQ being the major metabolite.
+Following chronic oral administration of hydroxychloroquine, significant levels of three metabolites, desethylhydroxychloroquine (DHCQ), desethylchloroquine (DCQ), and bidesethylhydroxychloroquine (BDCQ) have been found in plasma and blood, with DHCQ being the major metabolite.
 The absorption half-life was approximately 3 to 4 hours and the terminal half-life ranged from 40 to 50 days.
 The long half-life can be attributed to extensive tissue uptake rather than through decreased excretion.
 Peak plasma levels of hydroxychloroquine were seen in about 3 to 4 hours.

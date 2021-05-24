@@ -10,10 +10,10 @@ Do not crush or divide hydroxychloroquine sulfate film-coated tablets, USP (see 
 Dispense in a tight, light-resistant container as defined in the USP/NF.
 Keep out of the reach of children.
 
-Store at room temperature 20° to 25°C (68° to 77°F), excursions permitted between 15° and 30°C (59° and 86°F) [See USP Controlled Room Temperature].
+Store at room temperature [20° to 25°C (68° to 77°F), allows excursions between 15° and 30°C (59° and 86°F)].
 
 Manufactured by: Appco Pharma LLC Piscataway, NJ 08854 USA
 
 Manufactured For: Dr. Reddy's Laboratories Inc. Princeton, NJ 08540 USA
 
-Revision Date: 5/2018 200266
+Revision Date: 03/2021 200266

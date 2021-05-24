@@ -7,7 +7,7 @@ Blood and lymphatic system disorders: Bone marrow failure, anemia, aplastic anem
 Hemolysis reported in individuals with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
 
 Cardiac disorders: Cardiomyopathy which may result in cardiac failure and in some cases a fatal outcome (see WARNINGS and OVERDOSAGE).
-Hydroxychloroquine Sulfate Tablets prolong the QT interval.
+Hydroxychloroquine Sulfate Tablets prolongs the QT interval.
 Ventricular arrhythmias and torsade de pointes have been reported in patients taking hydroxychloroquine sulfate tablets (see OVERDOSAGE and DRUG INTERACTIONS).
 
 Ear and labyrinth disorders: Vertigo, tinnitus, nystagmus, nerve deafness, deafness.
