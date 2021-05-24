@@ -3,7 +3,7 @@
 ## 5.1 Hypotension
 
 Tizanidine is an α2-adrenergic agonist that can produce hypotension.
-Syncope has been reported in the postmarketing setting.
+Syncope has been reported in the post marketing setting.
 The chance of significant hypotension may possibly be minimized by titration of the dose and by focusing attention on signs and symptoms of hypotension prior to dose advancement.
 In addition, patients moving from a supine to fixed upright position may be at increased risk for hypotension and orthostatic effects.
 
@@ -16,8 +16,7 @@ Therefore, concomitant use of tizanidine hydrochloride with fluvoxamine or with 
 
 Tizanidine hydrochloride may cause hepatocellular liver injury.
 Tizanidine hydrochloride should be used with caution in patients with any hepatic impairment.
-Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected.
-[see Dosage and Administration (2.3) and Use in Specific Populations (8.7)]
+Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 ## 5.3 Sedation
 
@@ -39,28 +38,24 @@ Consider discontinuing tizanidine hydrochloride in patients who develop hallucin
 ## 5.5 Interaction with CYP1A2 Inhibitors
 
 Because of potential drug interactions, tizanidine hydrochloride is contraindicated in patients taking potent CYP1A2 inhibitors, such as fluvoxamine or ciprofloxacin.
-Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine hydrochloride is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
+Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine hydrochloride is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrhythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
 Concomitant use should be avoided unless the necessity for tizanidine therapy is clinically evident.
-In such a case, use with caution.
-[see Drug Interactions (7.3) and Clinical Pharmacology (12.3)]
+In such a case, use with caution [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Hypersensitivity Reactions
 
 Tizanidine hydrochloride can cause anaphylaxis.
 Signs and symptoms including respiratory compromise, urticaria, and angioedema of the throat and tongue have been reported.
-Patients should be informed of the signs and symptoms of severe allergic reactions and instructed to discontinue tizanidine hydrochloride and seek immediate medical care should these signs and symptoms occur.
-[see Contraindications (4)]
+Patients should be informed of the signs and symptoms of severe allergic reactions and instructed to discontinue tizanidine hydrochloride and seek immediate medical care should these signs and symptoms occur [see Contraindications (4)].
 
 ## 5.7 Increased Risk of Adverse Reactions in Patients with Renal Impairment
 
 Tizanidine hydrochloride should be used with caution in patients with renal insufficiency (creatinine clearance < 25 mL/min), as clearance is reduced by more than 50%.
 In these patients, during titration, the individual doses should be reduced.
 If higher doses are required, individual doses rather than dosing frequency should be increased.
-These patients should be monitored closely for the onset or increase in severity of the common adverse events (dry mouth, somnolence, asthenia and dizziness) as indicators of potential overdose.
-[see Dosage and Administration (2.2) and Use in Specific Populations (8.6)]
+These patients should be monitored closely for the onset or increase in severity of the common adverse events (dry mouth, somnolence, asthenia and dizziness) as indicators of potential overdose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.8 Withdrawal Adverse Reactions
 
 Withdrawal adverse reactions include rebound hypertension, tachycardia, and hypertonia.
-To minimize the risk of these reactions, particularly in patients who have been receiving high doses (20 to 28 mg daily) for long periods of time (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 to 4 mg per day).
-[see Dosage and Administration (2.2)]
+To minimize the risk of these reactions, particularly in patients who have been receiving high doses (20 to 28 mg daily) for long periods of time (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 to 4 mg per day) [see Dosage and Administration (2.2)].

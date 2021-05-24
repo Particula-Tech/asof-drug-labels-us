@@ -22,6 +22,8 @@ Plasma concentrations were variable from patient to patient at a given dose.
 Although 16 mg produced a larger effect, adverse events including hypotension were more common and more severe than in the 8 mg group.
 There were no differences in the number of spasms occurring in each group.
 
+Figure 2: Single Dose Study—Mean Change in Muscle Tone from Baseline as Measured by the Ashworth Scale ± 95% Confidence Interval (A Negative Ashworth Score Signifies an Improvement in Muscle Tone from Baseline)
+
 Seven-Week Study in Patients with Spinal Cord Injury with Spasticity In a 7-week study (Study 2), 118 patients with spasticity secondary to spinal cord injury were randomized to either placebo or tizanidine hydrochloride.
 Steps similar to those taken in the first study were employed to ensure the integrity of blinding.
 
@@ -33,3 +35,5 @@ The number of daytime spasms was recorded daily by patients.
 At endpoint (the protocol-specified time of outcome assessment), there was a statistically significant reduction in muscle tone and frequency of spasms in the tizanidine hydrochloride treated group compared to placebo.
 The reduction in muscle tone was not associated with a reduction in muscle strength (a desirable outcome) but also did not lead to any consistent advantage of tizanidine hydrochloride treated patients on measures of activities of daily living.
 Figure 3 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
+
+Figure 3: Seven Week Study—Mean Change in Muscle Tone 0.5–2.5 Hours After Dosing as Measured by the Ashworth Scale ± 95% Confidence Interval (A Negative Ashworth Score Signifies an Improvement in MuscleTone from Baseline)

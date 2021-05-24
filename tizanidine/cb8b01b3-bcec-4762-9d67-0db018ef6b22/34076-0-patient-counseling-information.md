@@ -12,6 +12,6 @@ Tell patients that tizanidine hydrochloride may cause them to become sedated or 
 Tell patients that the sedation may be additive when tizanidine hydrochloride is taken in conjunction with drugs (baclofen, benzodiazepines) or substances (e.g., alcohol) that act as CNS depressants.
 Remind patients that if they depend on their spasticity to sustain posture and balance in locomotion, or whenever spasticity is utilized to obtain increased function, that tizanidine hydrochloride decreases spasticity and caution should be used.
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured for: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-Revised: August 2019
+Revised: February 2021

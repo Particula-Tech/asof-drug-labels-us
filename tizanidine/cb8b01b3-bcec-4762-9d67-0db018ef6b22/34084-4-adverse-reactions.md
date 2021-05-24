@@ -75,9 +75,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Certain events, such as somnolence, dry mouth, hypotension, decreased blood pressure, bradycardia, dizziness, weakness or asthenia, muscle spasms, hallucinations, fatigue, liver function test abnormality and hepatotoxicity, have been observed in postmarketing and clinical trials and are discussed in previous sections of this document.
 
-The following adverse reactions have been identified as occurring in the postmarketing experience of tizanidine hydrochloride.
+The following adverse reactions have been identified as occurring in the post marketing experience of tizanidine hydrochloride.
 Based on the information provided regarding these reactions, a causal relationship with tizanidine hydrochloride cannot be entirely excluded.
-The events are listed in order of decreasing clinical significance; severity in the postmarketing setting is not reported.
+The events are listed in order of decreasing clinical significance; severity in the post marketing setting is not reported.
 
 - Stevens Johnson Syndrome
 - Anaphylactic Reaction

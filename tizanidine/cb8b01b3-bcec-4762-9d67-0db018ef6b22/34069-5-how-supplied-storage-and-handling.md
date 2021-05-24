@@ -10,5 +10,5 @@ Tizanidine hydrochloride capsules are available in three strengths as two-piece 
 
 • The 6 mg capsules have a blue opaque body with a white stripe and blue opaque cap with “6 MG” printed on the capsules: bottles of 150 capsules (NDC 0591-2790-86)
 
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Dispense in containers with child resistant closure.
