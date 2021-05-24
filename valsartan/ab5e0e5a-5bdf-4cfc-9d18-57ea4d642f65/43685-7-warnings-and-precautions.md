@@ -18,7 +18,7 @@ Patients with heart failure or post-myocardial infarction patients given valsart
 In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients.
 In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
-If excessive hypotension occurs, place the patient the supine position and, if necessary, give an intravenous normal saline.
+If excessive hypotension occurs, place the patient in the supine position and, if necessary, give intravenous normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Impaired Renal Function

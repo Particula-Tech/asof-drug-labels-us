@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The antihypertensive effects of valsartan tablets were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
+The antihypertensive effects of valsartan tablets were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -24,7 +24,7 @@ Abrupt withdrawal of valsartan has not been associated with a rapid increase in 
 The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
-Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
+Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 and 25 mg of HCTZ, respectively, compared to valsartan 80 mg alone.
 
 Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a similar response in both groups.
@@ -37,18 +37,27 @@ There was essentially no change in heart rate in valsartan-treated patients in c
 
 Pediatric Hypertension
 
-The antihypertensive effects of valsartan tablets were evaluated in two randomized, double-blind clinical studies.
+Children Between 1 to Less Than 6 Years of Age
 
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+The antihypertensive effect of valsartan in 290 children aged between 1 to less than 6 years of age has been evaluated in three randomized, double-blind clinical studies.
+In the first study in 90 patients, patients who weighed less than 18 kg received 5, 20 or 40 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 18 kg received 10, 40, and 80 mg of valsartan daily (low, medium and high doses).
+At the end of 2 weeks, the three dose levels of valsartan (low, medium and high) reduced systolic blood pressure from the baseline by 8.4, 8.3, and 8.6 mmHg, respectively, but a dose response could not be demonstrated.
+In the second study of 74 patients, higher doses (1 mg/kg and 4 mg/kg daily) of valsartan were associated with numerically greater blood pressure reductions than the lowest dose (0.25 mg/kg) at the end of 6- weeks treatment.
+The third study was a 6 week, randomized double-blind study to evaluate the dose response of valsartan in 126 children 1 to 5 years of age with hypertension, with or without chronic kidney disease (CKD) randomized to receive either valsartan 0.25 mg/kg or 4 mg/kg daily.
+At the end of 6 weeks, dose dependent reductions in mean systolic blood pressure (MSBP) were observed.
+The reduction in MSBP was 8.5 mmHg with valsartan 4 mg/kg and 4.1 mmHg with valsartan 0.25 mg/kg.
+Similarly, the CKD subgroup showed reductions in MSBP with valsartan 4 mg/kg compared to 0.25 mg/kg (9.2 mmHg vs 1.2 mmHg).
+
+Children Between 6 to 16 Years of Age
+
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
-Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mmHg from the baseline, respectively.
+Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8, 10, and 12 mm Hg from the baseline, respectively.
 Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo.
-In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was -4 and -7 mmHg lower than patients who received the placebo treatment.
+In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mm Hg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
-
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
 
 ## 14.2 Heart Failure
 
@@ -62,8 +71,8 @@ These results are summarized in the following table.
 
 |  | Placebo(N=2,499) | Valsartan(N=2,511) | Hazard Ratio(95% CI*) | Nominalp-value |
 | --- | --- | --- | --- | --- |
-| All-cause mortality | 484(19.4%) | 495(19.7%) | 1.02(0.90 to 1.15) | 0.8 |
-| HF morbidity | 801(32.1%) | 723(28.8%) | 0.87(0.79 to 0.97) | 0.009 |
+| All-cause mortality | 484(19.4%) | 495(19.7%) | 1.02(0.90-1.15) | 0.8 |
+| HF morbidity | 801(32.1%) | 723(28.8%) | 0.87(0.79-0.97) | 0.009 |
 
 * CI = Confidence Interval
 
@@ -86,7 +95,7 @@ Secondary end points in the subgroup not receiving ACE inhibitors were as follow
 | Components of HF morbidity |  |  |  |
 | All-cause mortality | 49 (27.1%) | 32 (17.3%) | 0.59 (0.37, 0.91) |
 | Sudden death with resuscitation | 2 (1.1%) | 1 (0.5%) | 0.47 (0.04, 5.20) |
-| CHF therapy | 1 (0.6%) | 0 (0.0%) | - |
+| CHF therapy | 1 (0.6%) | 0 (0.0%) | -- |
 | CHF hospitalization | 48 (26.5%) | 24 (13.0%) | 0.43 (0.27, 0.71) |
 | Cardiovascular mortality | 40 (22.1%) | 29 (15.7%) | 0.65 (0.40, 1.05) |
 | Non-fatal morbidity | 49 (27.1%) | 24 (13.0%) | 0.42 (0.26, 0.69) |
@@ -113,7 +122,7 @@ The results are summarized in the following table.
 |  | Valsartan vs. Captopril(N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril(N=4,885) (N=4,909) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/ Captopril | Hazard Ratio CI | p-value |
-| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%)/ 958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
+| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%)/958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
 | CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
 | CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
 
