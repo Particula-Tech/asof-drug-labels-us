@@ -132,4 +132,4 @@ For Product Inquiry call 1-877-845-0689
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised March 2021 462-103-07
+Revised May 2021 462-103-08

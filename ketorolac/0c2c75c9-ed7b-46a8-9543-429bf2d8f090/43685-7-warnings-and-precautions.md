@@ -321,8 +321,10 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies, the results did not reveal evidence of teratogenicity to the fetus.
+Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
+Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
+Oral doses of ketorolac tromethamine at 1.5 mg/kg (0.14 times the human AUC), administered after gestation Day 17, caused dystocia and higher pup mortality in rats.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -368,14 +370,6 @@ Some cases of neonatal renal dysfunction required treatment with invasive proced
 Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
-
-Animal Data
-
-Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine tablets at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
-Results of these studies did not reveal evidence of teratogenicity to the fetus.
-However, animal reproduction studies are not always predictive of human response.
-
-Oral doses of ketorolac tromethamine tablets at 1.5 mg/kg (0.14 times the human AUC), administered after gestation day 17, caused dystocia and higher pup mortality in rats.
 
 ## Labor and Delivery
 
