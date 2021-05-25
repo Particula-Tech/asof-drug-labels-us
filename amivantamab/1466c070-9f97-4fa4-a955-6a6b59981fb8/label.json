@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761210"
+  ],
+  "inn": "amivantamab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-501-00",
+    "57894-501-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "amivantamab",
+      "name": "Rybrevant"
+    }
+  ],
+  "setid": "1466c070-9f97-4fa4-a955-6a6b59981fb8",
+  "source": "dailymed"
+}
