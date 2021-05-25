@@ -18,17 +18,17 @@ A cuffed endotracheal tube should be inserted before gastric lavage of the uncon
 Diuresis, alkalinization of the urine, and correction of electrolyte disturbances should be accomplished through administration of intravenous fluids such as 1% sodium bicarbonate in 5% dextrose in water.
 Meticulous attention should be given to maintaining adequate pulmonary ventilation.
 The value of vasopressor agents such as Norepinephrine or Phenylephrine Hydrochloride in treating hypotension is questionable since they increase vasoconstriction and decrease blood flow.
-However, if prolonged support of blood pressure is required, Norepinephrine Bitartrate (Levophed®)Levophed is a registered Trademark of Sanofi Winthrop Pharmaceuticals. may be given I.V. with the usual precautions and serial blood pressure monitoring.
+However, if prolonged support of blood pressure is required, Norepinephrine Bitartrate (Levophed®) may be given I.V. with the usual precautions and serial blood pressure monitoring.
 In severe cases of intoxication, peritoneal dialysis, hemodialysis, or exchange transfusion may be lifesaving.
 Hypoprothrombinemia should be treated with Vitamin K, intravenously.
 
 Up-to-date information about the treatment of overdose can often be obtained from a Certified Regional Poison Control Center.
-Telephone numbers of Certified Regional Poison Control Centers are listed in the Physicians' Desk Reference®Trademark of Medical Economics Company, Inc..
+Telephone numbers of Certified Regional Poison Control Centers are listed in the Physicians' Desk Reference®.
 
 Toxic and Lethal Doses (for adults)
 
-Butalbital: toxic dose 1 g (20 capsules of butalbital, aspirin, and caffeine)
+Butalbital: toxic dose 1 g (20 capsules)
 
 Aspirin: toxic blood level greater than 30 mg/100 mL; lethal dose 10 to 30 g
 
-Caffeine: toxic dose 1 g (25 capsules of butalbital, aspirin, and caffeine)
+Caffeine: toxic dose 1 g (25 capsules)

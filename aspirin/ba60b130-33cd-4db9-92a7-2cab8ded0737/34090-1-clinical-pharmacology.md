@@ -21,7 +21,7 @@ Highest concentrations are found in plasma, liver, renal cortex, heart, and lung
 In plasma, about 50% to 80% of the salicylic acid and its metabolites are loosely bound to plasma proteins.
 
 The clearance of total salicylates is subject to saturable kinetics; however, first-order elimination kinetics are still a good approximation for doses up to 650 mg.
-The plasma half-life for aspirin is about 12 minutes and for salicylic acid and/or total salicylates is about 3.0 hours.
+The plasma half-life for aspirin is about 12 minutes and for salicylic acid and/or total salicylates is about 3 hours.
 
 The elimination of therapeutic doses is through the kidneys either as salicylic acid or other biotransformation products.
 The renal clearance is greatly augmented by an alkaline urine as is produced by concurrent administration of sodium bicarbonate or potassium citrate.
@@ -29,7 +29,7 @@ The renal clearance is greatly augmented by an alkaline urine as is produced by 
 The biotransformation of aspirin occurs primarily in the hepatocytes.
 The major metabolites are salicyluric acid (75%), the phenolic and acyl glucuronides of salicylate (15%), and gentisic and gentisuric acid (1%).
 The bioavailability of the aspirin component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for as lower rate of absorption.
-A peak concentration of 8.80 mcg/mL was obtained at 40 minutes after a 650 mg dose.
+A peak concentration of 8.8 mcg/mL was obtained at 40 minutes after a 650 mg dose.
 
 See OVERDOSAGE for toxicity information.
 
@@ -46,9 +46,8 @@ Of the material excreted in the urine, 32% was conjugated.
 
 The bioavailability of the butalbital component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a decrease in the rate of absorption.
 A peak concentration of 2,020 ng/mL is obtained at about 1.5 hours after a 100 mg dose.
-The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL.
 
-This falls within the range of plasma protein binding (20% to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
+The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL.This falls within the range of plasma protein binding (20% to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
 The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells.
 
 See OVERDOSAGE for toxicity information.
@@ -58,7 +57,7 @@ Caffeine
 Like most xanthines, caffeine is rapidly absorbed and distributed in all body tissues and fluids, including the CNS, fetal tissues, and breast milk.
 
 Caffeine is cleared rapidly through metabolism and excretion in the urine.
-The plasma half-life is about 3.0 hours.
+The plasma half-life is about 3 hours.
 Hepatic biotransformation prior to excretion results in about equal amounts of 1-methylxanthine and 1-methyluric acid.
 Of the 70% of the dose that has been recovered in the urine, only 3% was unchanged drug.
 
