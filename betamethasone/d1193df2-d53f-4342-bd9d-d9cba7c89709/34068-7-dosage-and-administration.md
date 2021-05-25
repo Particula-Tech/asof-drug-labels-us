@@ -6,7 +6,7 @@ Rub in Enstilar Foam gently.
 Wash hands after applying the product.
 Discontinue Enstilar Foam when control is achieved.
 
-Patients should not to use more than 60 grams every 4 days.
+Instruct patients not to use more than 60 grams every 4 days.
 
 Enstilar Foam should not be used:
 

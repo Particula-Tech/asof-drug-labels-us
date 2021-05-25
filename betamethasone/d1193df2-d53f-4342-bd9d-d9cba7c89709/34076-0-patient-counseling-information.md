@@ -4,7 +4,7 @@ See FDA-approved patient labeling (Patient Information and Instructions for Use)
 
 Flammability
 
-Instruct patients that Enstilar Foam is flammable; avoid heat, flame, or smoking when applying this medication.
+Instruct patients that Enstilar® Foam is flammable; avoid heat, flame, or smoking when applying this medication.
 
 Administration Instructions
 

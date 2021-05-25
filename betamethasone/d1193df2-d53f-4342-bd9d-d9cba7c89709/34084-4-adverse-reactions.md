@@ -20,7 +20,7 @@ Adverse reactions reported in <1% of adolescent subjects treated were acne, eryt
 
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Postmarketing reports for local adverse reactions to Enstilar Foam included application site pain/burning.
+Postmarketing reports for local adverse reactions to Enstilar Foam included application site pain/burning and application site erythema.
 
 Postmarketing reports for local adverse reactions to topical corticosteroids included atrophy, striae, telangiectasia, dryness, perioral dermatitis, secondary infection, and miliaria.
 

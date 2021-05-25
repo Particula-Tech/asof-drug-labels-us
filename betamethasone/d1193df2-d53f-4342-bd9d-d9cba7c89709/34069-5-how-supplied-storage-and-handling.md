@@ -22,4 +22,4 @@ It is available as:
 
 ## 16.3 Handling
 
-- Enstilar® Foam is flammable; avoid heat, flame or smoking when using this product.
+- Enstilar Foam is flammable; avoid heat, flame or smoking when using this product.
