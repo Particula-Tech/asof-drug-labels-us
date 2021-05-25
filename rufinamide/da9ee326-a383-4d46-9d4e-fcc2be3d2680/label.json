@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA205075"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-713-05",
+    "68462-713-08",
+    "68462-713-30",
+    "68462-714-05",
+    "68462-714-08"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rufinamide",
+      "name": "rufinamide"
+    }
+  ],
+  "setid": "da9ee326-a383-4d46-9d4e-fcc2be3d2680",
+  "source": "dailymed"
+}
