@@ -45,7 +45,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 The safety and effectiveness of MAXIDEX have been established in the pediatric patients.
-Use of MAXIDEX in all pediatric age groups is supported by evidence from adequate and well-controlled studies of MAXIDEX in adults with safety data from additional adequate and well controlled trials in pediatric patients.
+Use of MAXIDEX in all pediatric age groups is supported by evidence from adequate and well-controlled studies of MAXIDEX in adults with safety data from additional adequate and well-controlled trials in pediatric patients.
 
 ## Geriatric Use
 

@@ -11,3 +11,7 @@ Postmarketing Experience
 
 Additional adverse reactions identified from post-marketing use include corneal erosion, dizziness, eye pain, eyelid ptosis, headache, hypersensitivity reactions, and mydriasis.
 Frequencies cannot be estimated from the available data.
+
+The following additional adverse reactions have been reported with dexamethasone use:
+
+Cushing’s syndrome and adrenal suppression may occur after use of dexamethasone in excess of the listed dosing instructions in predisposed patients, including children and patients treated with CYP3A4 inhibitors.
