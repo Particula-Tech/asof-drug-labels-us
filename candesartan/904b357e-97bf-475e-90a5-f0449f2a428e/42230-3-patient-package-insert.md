@@ -1,6 +1,6 @@
 # Patient Information
 
-Candesartan Cilexetil Tablets, USP (kan″ de sarʹ tan sye lexʹ e til)
+Candesartan Cilexetil (kan″ de sarʹ tan sye lexʹ e til) Tablets, USP
 
 Read the Patient Information that comes with candesartan cilexetil tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -181,6 +181,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75077901
+75079984
 
-Revised: 11/2020 MX:CANDT:R2p/MX:PL:CANDT:R2p
+Revised: 5/2021 MX:CANDT:R3p/MX:PL:CANDT:R3p
