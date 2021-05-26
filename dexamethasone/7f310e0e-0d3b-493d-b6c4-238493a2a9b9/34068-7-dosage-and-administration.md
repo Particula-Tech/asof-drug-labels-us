@@ -9,7 +9,7 @@ Tilt your head back.
 Place a finger on your cheek just under your eye and gently pull down until a "V" pocket is formed between your eyeball and your lower lid.
 
 3.
-Place a small amount (about ½ inch) of TOBRADEX (tobramycin and dexamethasone ophthalmic ointment) in the "V" pocket.
+Place a small amount (about ½ inch) of TOBRADEX® (tobramycin and dexamethasone ophthalmic ointment).
 Do not let the tip of the tube touch your eye.
 
 4.

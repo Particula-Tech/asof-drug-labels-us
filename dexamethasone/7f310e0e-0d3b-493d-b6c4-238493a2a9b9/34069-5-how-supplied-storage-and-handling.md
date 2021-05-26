@@ -1,4 +1,4 @@
-HOW SUPPLIED: 3.5 g STERILE ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap (NDC 0078-0876-01).
+HOW SUPPLIED: 3.5 g STERILE ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap (NDC 0078-0876-01)
 
 STORAGE: Store at 2°C to 25°C (36°F to 77°F).
 
@@ -8,6 +8,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-Revised: 5/2020
+T2021-62
 
-T2020-71
+May 2021

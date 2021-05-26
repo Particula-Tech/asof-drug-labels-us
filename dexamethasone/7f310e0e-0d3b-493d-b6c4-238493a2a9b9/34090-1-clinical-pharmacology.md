@@ -11,4 +11,4 @@ Streptococci, including some of the Group A-beta-hemolytic species, some nonhemo
 
 Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganella morganii, most Proteus vulgaris strains, Haemophilus influenzae and H. aegyptius, Moraxella lacunata, Acinetobacter calcoaceticus and some Neisseria species.
 
-No data are available on the extent of systemic absorption from TOBRADEX (tobramycin and dexamethasone ophthalmic ointment); however, it is known that some systemic absorption can occur with ocularly applied drugs.
+No data are available on the extent of systemic absorption from TOBRADEX® (tobramycin and dexamethasone ophthalmic ointment); however, it is known that some systemic absorption can occur with ocularly applied drugs.
