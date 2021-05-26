@@ -4,7 +4,7 @@ TOBREX® (tobramycin ophthalmic solution) 0.3% is a sterile topical ophthalmic a
 
 Each mL of TOBREX® (tobramycin ophthalmic solution) 0.3% contains: Active: tobramycin 0.3% (3 mg).
 Preservative: benzalkonium chloride 0.01% (0.1 mg).
-Inactives: boric acid, sodium sulfate, sodium chloride, tyloxapol, sodium hydroxide and/or sulfuric acid (to adjust pH) and purified water.
+Inactives: boric acid, purified water, sodium chloride, sodium hydroxide and/or sulfuric acid (to adjust pH), sodium sulfate, and tyloxapol.
 TOBREX® (tobramycin ophthalmic solution) 0.3% has a pH range between 7.0 and 8.0 and an osmolality of 260-320 mOsm/kg.
 
 Tobramycin is a water-soluble aminoglycoside antibiotic active against a wide variety of gram-negative and gram-positive ophthalmic pathogens.
