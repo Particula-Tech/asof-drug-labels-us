@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209410"
+  ],
+  "inn": "amantadine",
+  "labeler": "Adamas Pharma, LLC",
+  "package_ndcs": [
+    "70482-075-30",
+    "70482-076-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "amantadine",
+      "name": "OSMOLEX ER"
+    }
+  ],
+  "setid": "6fbddb66-8b9d-4d37-a348-abcc31276e89",
+  "source": "dailymed"
+}
