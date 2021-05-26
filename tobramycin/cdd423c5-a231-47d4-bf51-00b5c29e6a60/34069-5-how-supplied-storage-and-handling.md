@@ -9,10 +9,10 @@ Storage: Store at 2°C to 25°C (36°F to 77°F).
 
 After opening, TOBREX (tobramycin ophthalmic ointment) 0.3% can be used until the expiration date on the tube.
 
-Revised: 4/2020
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2020-58
+T2021-64
+
+May 2021
