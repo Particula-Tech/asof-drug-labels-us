@@ -8,7 +8,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
 
@@ -20,7 +20,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
@@ -32,7 +32,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label
 
@@ -44,7 +44,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
@@ -56,7 +56,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Capsule Bottle Label
 
@@ -68,7 +68,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 70 mg Capsule Bottle Label
 
@@ -80,7 +80,7 @@ Vyvanse® (lisdexamfetamine dimesylate) capsules
 
 CII Rx only
 
-100 CAPSULES Shire
+100 CAPSULES Takeda
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
@@ -95,7 +95,7 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
@@ -110,7 +110,7 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
@@ -125,7 +125,7 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
 
@@ -140,7 +140,7 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
@@ -155,7 +155,7 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
@@ -170,4 +170,4 @@ Vyvanse® (lisdexamfetamine dimesylate) chewable tablets
 Chew tablets completely before swallowing.
 Do not swallow tablets whole.
 
-CII Rx only Shire
+CII Rx only Takeda
