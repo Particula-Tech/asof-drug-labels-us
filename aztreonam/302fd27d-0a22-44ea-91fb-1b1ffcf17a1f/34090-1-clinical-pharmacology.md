@@ -140,7 +140,7 @@ Aztreonam and aminoglycosides have been shown to be synergistic in vitro against
 
 Alterations of the anaerobic intestinal flora by broad-spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, e.g., Candida and Clostridium species.
 Aztreonam has little effect on the anaerobic intestinal microflora in in vitro studies.
-Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam (see ADVERSE REACTIONS,Gastrointestinal).
+Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam (see ADVERSE REACTIONS, Gastrointestinal).
 
 Susceptibility Test Methods
 

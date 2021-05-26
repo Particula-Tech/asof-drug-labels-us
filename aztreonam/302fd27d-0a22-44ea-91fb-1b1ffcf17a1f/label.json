@@ -5,7 +5,9 @@
   "inn": "aztreonam",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-401-21",
     "63323-401-26",
+    "63323-402-03",
     "63323-402-30"
   ],
   "products": [

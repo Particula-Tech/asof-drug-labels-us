@@ -31,4 +31,4 @@
     Clin Therap 1994;16:236-252.
 
 The brand names mentioned in this document are the trademarks of their respective owners.
-N+ and NOVAPLUS are registered trademarks of Novation, LLC.
+Novaplus is a registered trademark of Vizient, Inc.
