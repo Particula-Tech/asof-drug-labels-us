@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA214548"
+  ],
+  "inn": "amitriptyline",
+  "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+  "package_ndcs": [
+    "29300-419-01",
+    "29300-419-05",
+    "29300-420-01",
+    "29300-420-05",
+    "29300-421-01",
+    "29300-421-05",
+    "29300-422-01",
+    "29300-422-05",
+    "29300-423-01",
+    "29300-423-05",
+    "29300-424-01",
+    "29300-424-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "Amitriptyline Hydrochloride"
+    }
+  ],
+  "setid": "9c6e0e05-b579-4fae-b768-e1a664c39bb8",
+  "source": "dailymed"
+}
