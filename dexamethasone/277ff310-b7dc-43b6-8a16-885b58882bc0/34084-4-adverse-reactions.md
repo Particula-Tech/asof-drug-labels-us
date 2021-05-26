@@ -9,3 +9,7 @@ Corticosteroid-containing preparations have also been reported to cause perforat
 Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids.
 
 Additional adverse reactions identified from post marketing use include ulcerative keratitis, headache, and Stevens-Johnson syndrome.
+
+The following additional adverse reactions have been reported with dexamethasone use:
+
+Cushing’s syndrome and adrenal suppression may occur after use of dexamethasone in excess of the listed dosing instructions in predisposed patients, including children and patients treated with CYP3A4 inhibitors.
