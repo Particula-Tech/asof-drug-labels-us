@@ -63,20 +63,17 @@ The pharmacokinetics (PK) of buprenorphine following subcutaneous injection of S
 After SUBLOCADE injection, an initial buprenorphine peak was observed and the median Tmax occurred at 24 hours after injection.
 After the initial buprenorphine peak, the plasma buprenorphine concentrations decreased slowly to a plateau.
 Steady-state was achieved at 4-6 months.
-Observed mean buprenorphine concentrations levels for Cavg, Cmax and Cmin are presented in Table 6.
 
-Table 6.
-Comparison of Buprenorphine Mean Pharmacokinetic Parameters Between SUBUTEX and SUBLOCADE
+Mean buprenorphine plasma concentrations levels for Cavg, Cmax and Ctrough at steady-state are presented in Table 7 for SUBLOCADE in comparison to daily transmucosal buprenorphine.
 
-| Pharmacokinetic parameters | SUBUTEX® daily stabilization |  | SUBLOCADE |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Mean | 12 mg (steady-state) | 24 mg (steady-state) | 300 mg# (1st injection) | 100 mg* (steady-state) | 300 mg* (steady-state) |
-| Cavg,ss (ng/mL) | 1.71 | 2.91 | 2.19 | 3.21 | 6.54 |
-| Cmax,ss (ng/mL) | 5.35 | 8.27 | 5.37 | 4.88 | 10.12 |
-| Cmin,ss (ng/mL) | 0.81 | 1.54 | 1.42† | 2.48 | 5.01 |
-| #Exposure after 1 injection of 300 mg SUBLOCADE following 24 mg SUBUTEX stabilization |  |  |  |  |  |
-| †Mean plasma concentration of 1.86 ng/mL was observed on last day of the dosing interval (Day 29) |  |  |  |  |  |
-| *Steady-state exposure after 4 injections of 100 mg or 300 mg SUBLOCADE, following 2 injections of 300 mg SUBLOCADE |  |  |  |  |  |
+Table 7 Comparison of Steady-state Buprenorphine Plasma Exposure Between Daily Transmucosal Buprenorphine and Once Monthly SUBLOCADE at Trough (Ctrough), Average (Cavg) and Peak (Cmax) Levels (Geometric Mean (CV%))
+
+| Pharmacokinetic parameters | Transmucosal Buprenorphine |  |  |  | SUBLOCADE |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8 mg | 12 mg | 16 mg | 24 mg | 100 mg | 300 mg |  |
+| Cavg,ss (ng/mL) | 1.37 (40) | 1.79 (40) | 2.16 (40) | 2.84 (40) | 2.87 (32) | 6.32 (32) |
+| Cmax,ss (ng/mL) | 4.27 (45) | 5.60 (45) | 6.77 (45) | 8.86 (45) | 5.10 (33) | 11.81 (35) |
+| Ctrough,ss (ng/mL) | 0.66 (63) | 0.87 (63) | 1.04 (61) | 1.37 (62) | 2.46 (40) | 5.47 (39) |
 
 Distribution
 

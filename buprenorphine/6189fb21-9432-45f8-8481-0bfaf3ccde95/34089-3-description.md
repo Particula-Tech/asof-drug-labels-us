@@ -10,10 +10,9 @@ Buprenorphine is dissolved in the ATRIGEL® delivery system at 18% by weight.
 The ATRIGEL® delivery system is a biodegradable 50:50 poly(DL-lactide-co-glycolide) polymer and a biocompatible solvent, N-methyl-2-pyrrolidone (NMP).
 
 SUBLOCADE is provided in dosage strengths of 100 mg and 300 mg.
-Table 5 presents the delivered amounts of the raw materials and the approximate delivered volume for the two dosage strengths.
+Table 6 presents the delivered amounts of the raw materials and the approximate delivered volume for the two dosage strengths.
 
-Table 5.
-Amounts of Raw Materials and Delivered Volume for the Dosage Strengths
+Table 6 Amounts of Raw Materials and Delivered Volume for the Dosage Strengths
 
 | Raw Materials in SUBLOCADE | 100 mg Dosage | 300 mg Dosage |
 | --- | --- | --- |

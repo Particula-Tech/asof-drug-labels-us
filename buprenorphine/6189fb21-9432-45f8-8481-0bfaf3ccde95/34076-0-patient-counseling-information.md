@@ -102,9 +102,9 @@ Clinical Monitoring
 
 Tell your patients to seek emergency attention if they have signs or symptoms of respiratory or CNS depression or overdose [see Warnings and Precautions (5.4, 5.5)].
 
-Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.9)].
+Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.8)].
 
-SUBLOCADE®, SUBOXONE®, and SUBUTEX® are registered trademarks of Indivior UK Limited.
+SUBLOCADE® and SUBOXONE® are registered trademarks of Indivior UK Limited.
 
 Manufactured for Indivior Inc.
 

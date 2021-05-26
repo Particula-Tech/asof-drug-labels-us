@@ -39,7 +39,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -88,7 +88,7 @@ Injection site reactions are most commonly manifested by pain, erythema and prur
 In some post-marketing case reports injection site reactions have involved abscess, ulceration, and necrosis.
 Some cases resulted in surgical depot removal, debridement, antibiotic administration, and SUBLOCADE discontinuation.
 The likelihood of serious injection site reactions may be increased with inadvertent intramuscular or intradermal administration.
-Carefully review injection technique [see Instructions for Use (2.7)].
+Carefully review injection technique [see Instructions for Use (2.6)].
 Evaluate and treat serious injection site reactions as appropriate.
 
 ## 5.7 Neonatal Opioid Withdrawal Syndrome

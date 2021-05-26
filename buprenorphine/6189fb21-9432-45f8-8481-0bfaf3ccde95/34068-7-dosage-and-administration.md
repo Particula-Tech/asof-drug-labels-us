@@ -8,13 +8,13 @@ Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 ## 2.2 Important Dosing and Administration Information
 
 FOR ABDOMINAL SUBCUTANEOUS INJECTION ONLY.
-DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.7), Warnings and Precautions (5.1,5.6)].
+DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.6), Warnings and Precautions (5.1,5.6)].
 
 - Only healthcare providers should prepare and administer SUBLOCADE.
 - Administer SUBLOCADE monthly with a minimum of 26 days between doses.
 - Initiating treatment with SUBLOCADE as the first buprenorphine product has not been studied.
-  Initiate SUBLOCADE treatment only following induction and dose-adjustment with a transmucosal buprenorphine-containing product [see Dosage and Administration (2.5)].
-- Administer each injection only using the syringe and safety needle included with the product [see Dosage and Administration (2.7)].
+  Initiate SUBLOCADE treatment only following induction and dose-adjustment with a transmucosal buprenorphine-containing product [see Dosage and Administration (2.4)].
+- Administer each injection only using the syringe and safety needle included with the product [see Dosage and Administration (2.6)].
 
 ## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -29,7 +29,13 @@ Inform patients and caregivers of their options for obtaining naloxone as permit
 
 ## 2.4 Recommended Dosing
 
-The recommended dose of SUBLOCADE following induction and dose adjustment with transmucosal buprenorphine is 300 mg monthly for the first two months followed by a maintenance dose of 100 mg monthly.
+Initiation of Treatment following Induction
+
+Patients should first undergo induction and stabilization by initiating a buprenorphine-containing product, delivering the equivalent of 8-24 mg/day of transmucosal buprenorphine for a minimum of 7 days.
+Dosing and induction with buprenorphine-containing products should be based on instructions in their appropriate product label.
+One SUBOXONE® (buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX® (buprenorphine HCl) 8 mg sublingual tablet or one Bunavail® (buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv® (buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
+
+The recommended dose of SUBLOCADE following induction is 300 mg monthly for the first two months followed by a maintenance dose of 100 mg monthly.
 
 The maintenance dose may be increased to 300 mg monthly for patients who tolerate the 100 mg dose, but do not demonstrate a satisfactory clinical response, as evidenced by self-reported illicit opioid use or urine drug screens positive for illicit opioid use.
 
@@ -40,15 +46,22 @@ For patients in established treatment of 100 mg monthly, there may be instances 
 Thereafter, the 100 mg monthly regimen would resume.
 Patients should be cautioned that the peak plasma level after injection of a 300 mg dose will be higher than their usual monthly dose and that they may experience sedation or other buprenorphine-related effects.
 
-## 2.5 Patient Selection
+Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine
 
-Patients appropriate for SUBLOCADE are adults who have initiated treatment on a transmucosal buprenorphine-containing product delivering the equivalent of 8 to 24 mg of buprenorphine daily.
-The patient may only be transitioned to SUBLOCADE after a minimum of 7 days.
+Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [seeTable 1].
+At steady-state, buprenorphine plasma concentrations achieved with 100-mg monthly dosing are contained within the range obtained with transmucosal treatment; peak concentrations with SUBLOCADE may be lower, while average and trough concentrations may be higher.
+Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE [see Clinical Pharmacology (12.3),Table 7].
 
-Initiation of treatment with transmucosal buprenorphine-containing products should be based on instructions in their appropriate product label.
-One SUBOXONE® (buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX® (buprenorphine HCl) 8 mg sublingual tablet or one Bunavail® (buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv® (buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
+Table 1 Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine Whose Disease Symptoms are Controlled
 
-## 2.6 Clinical Supervision
+| Transmucosal Buprenorphine Doses | SUBLOCADE |  |  |
+| --- | --- | --- | --- |
+| Injection #1 | Injection #2 | Maintenance Dose |  |
+| 8 – 18 mg/day | 300 mg | 100 mg* | 100 mg |
+| 20 – 24 mg/day | 300 mg | 300 mg | 100 mg |
+| *For patients still experiencing craving or withdrawal symptoms after the initial 300-mg dose, consider giving 300 mg as the second dose |  |  |  |
+
+## 2.5 Clinical Supervision
 
 Periodic assessment is necessary to determine effectiveness of the treatment plan and overall patient progress.
 When evaluating the patient, examine the injection site for signs of infection or evidence of tampering or attempts to remove the depot.
@@ -62,7 +75,7 @@ If SUBLOCADE is discontinued, its extended-release characteristics should be con
 After steady-state has been achieved (4-6 months), patients discontinuing SUBLOCADE may have detectable plasma levels of buprenorphine for twelve months or longer.
 The correlation between plasma concentrations of buprenorphine and those detectable in urine is not known.
 
-## 2.7 Instructions for Use
+## 2.6 Instructions for Use
 
 IMPORTANT INFORMATION:
 
@@ -179,12 +192,12 @@ STEP 10: INSTRUCT THE PATIENT
 Advise the patient that they may have a lump for several weeks that will decrease in size over time.
 Instruct the patient not to rub or massage the injection site and to be aware of the placement of any belts or clothing waistbands.
 
-## 2.8 Limits on Distribution
+## 2.7 Limits on Distribution
 
 SUBLOCADE is subject to a risk evaluation and mitigation strategy (REMS) program that includes, among other elements, a restricted distribution system.
 The purpose of the restricted distribution system is to ensure that SUBLOCADE is only administered by a health care provider [see Warnings and Precautions (5.2)].
 
-## 2.9 Removal of the Depot
+## 2.8 Removal of the Depot
 
 In the event the depot must be removed, it can be surgically excised under local anesthesia within 14 days of injection.
 Only the most recently-injected depot can be removed.

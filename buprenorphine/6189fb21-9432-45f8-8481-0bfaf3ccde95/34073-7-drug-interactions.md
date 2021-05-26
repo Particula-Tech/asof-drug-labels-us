@@ -1,9 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 4 includes clinically significant drug interactions with SUBLOCADE.
+Table 5 includes clinically significant drug interactions with SUBLOCADE.
 
-Table 4.
-Clinically Significant Drug Interactions
+Table 5 Clinically Significant Drug Interactions
 
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |

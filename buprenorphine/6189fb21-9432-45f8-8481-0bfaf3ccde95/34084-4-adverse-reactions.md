@@ -17,14 +17,13 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of SUBLOCADE was evaluated in 848 opioid-dependent subjects (see Table 1).
+The safety of SUBLOCADE was evaluated in 848 opioid-dependent subjects (see Table 2).
 In these studies, there was a total of 557 subjects who received at least 6 monthly SC injections of SUBLOCADE and 138 subjects who received 12 monthly SC injections.
 Adverse events led to premature discontinuation in 4% of the group receiving SUBLOCADE compared with 2% in the placebo group (13-0001, NCT02357901).
 
 In the Phase 3 open-label study (13-0003, NCT02510014), adverse events leading to drug dose reductions were reported in 7.3% of subjects receiving SUBLOCADE.
 
-Table 1.
-Total Subjects Exposed to SUBLOCADE
+Table 2 Total Subjects Exposed to SUBLOCADE
 
 | Study 13-0001 (NCT02357901) Up to 6 Injections |  |  | Study 13-0003 (NCT02510014) |  |  |  | Total Subjects Exposed To SUBLOCADE |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,15 +34,14 @@ Total Subjects Exposed to SUBLOCADE
 | † FLEX = 300 mg initial dose with an option to receive either 100 mg or 300 mg for subsequent dosing per clinician's discretion |  |  |  |  |  |  |  |
 | ‡ = Not included in total unique subjects exposed to SUBLOCADE, already accounted for in Study 13-0001 section of table |  |  |  |  |  |  |  |
 
-Table 2 shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL® delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
+Table 3 shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL® delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
 The systemic safety profile for SUBLOCADE, given by a healthcare provider in clinical trials, was consistent with the known safety profile of transmucosal buprenorphine.
 Common adverse reactions associated with buprenorphine included constipation, nausea, vomiting, abnormal liver enzymes, headache, sedation and somnolence.
 Dose dependent hepatic effects observed in the Phase 3, double-blind study (13-0001, NCT02357901) included the incidence of ALT more than 3 times the upper limit of normal (> 3 × ULN) in 12.4%, 5.4%, and 4.0% of the SUBLOCADE 300/300-mg, SUBLOCADE 300/100-mg, and placebo groups, respectively.
 The incidence of AST > 3 × ULN was 11.4%, 7.9%, and 1.0%, respectively.
 Adverse drug reactions [by MedDRA Preferred Terms (PT)] reported in at least 2% of subjects receiving SUBLOCADE are grouped by System Organ Class (SOC).
 
-Table 2.
-Adverse Reactions for Phase 3 Double-Blind Study: ≥2% of Subjects Receiving SUBLOCADE
+Table 3 Adverse Reactions for Phase 3 Double-Blind Study: ≥2% of Subjects Receiving SUBLOCADE
 
 |  | Count (%) | Count (%) | Count (%) |
 | --- | --- | --- | --- |
@@ -67,13 +65,12 @@ Adverse Reactions for Phase 3 Double-Blind Study: ≥2% of Subjects Receiving SU
 | Somnolence | 0 | 10 (4.9) | 4 (2) |
 | *There were no cases of serious liver injury attributed to study drug. |  |  |  |
 
-Table 3 shows the injection site-related adverse events reported by ≥2 subjects in the Phase 3 studies.
+Table 4 shows the injection site-related adverse events reported by ≥2 subjects in the Phase 3 studies.
 Most injection site adverse drug reactions (ADRs) were of mild to moderate severity, with one report of severe injection site pruritus.
 None of the injection site reactions were serious.
 One reaction, an injection site ulcer, led to study treatment discontinuation.
 
-Table 3.
-Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 Studies
+Table 4 Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 Studies
 
 | Preferred term, n (%) | 13-0001 (Ph3DB) |  |  | 13-0003 (Ph3OL) |  |  |  | All Phase 3* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,7 +91,7 @@ Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 S
 
 Longer-term experience
 
-In an interim analysis of the ongoing open-label long-term safety study (13-0003), safety was evaluated for up to 12 injections over the course of a year (see Table 1).
+In an interim analysis of the ongoing open-label long-term safety study (13-0003), safety was evaluated for up to 12 injections over the course of a year (see Table 2).
 Adverse events were reported for 432 of 669 subjects during the treatment period.
 The overall adverse event profile was similar to the double-blind trial described above.
 

@@ -43,10 +43,9 @@ During this period, opioid use, if it occurred, was not considered in the analys
 Missing urine drug screen samples and/or self-reports during Weeks 5-24 were counted as positive for illicit opioids.
 
 A total of 504 patients were randomized 4:4:1:1 [203 subjects in the 300 mg/100 mg group, 201 patients in the 300 mg/300 mg group and 100 patients in the placebo group (2 groups of volume-matched placebo)].
-Patients demographics and baseline characteristics are provided in Table 7.
+Patients demographics and baseline characteristics are provided in Table 8.
 
-Table 7.
-Patient Demographics and Baseline Characteristics
+Table 8 Patient Demographics and Baseline Characteristics
 
 |  | SUBLOCADE 300/100 mg % | SUBLOCADE 300/300 mg % | Placebo % |
 | --- | --- | --- | --- |
@@ -71,18 +70,17 @@ Patient Demographics and Baseline Characteristics
 | Anxiety | 9.3 | 9.7 | 10.1 |
 | Back Pain | 14.9 | 16.3 | 13.1 |
 
-Based on the cumulative distribution function (CDF) of the percentage of urine samples negative for illicit opioids combined with self-reports negative for illicit opioid use collected from Week 5 through Week 24 (Table 8), regardless of dose, SUBLOCADE was superior to the placebo group with statistical significance.
+Based on the cumulative distribution function (CDF) of the percentage of urine samples negative for illicit opioids combined with self-reports negative for illicit opioid use collected from Week 5 through Week 24 (Table 9), regardless of dose, SUBLOCADE was superior to the placebo group with statistical significance.
 The proportion of patients achieving treatment success (defined as patients with ≥80% opioid-free weeks) was statistically significantly higher in both groups receiving SUBLOCADE compared to the placebo group (28.4% [300 mg/100 mg], 29.1% [300 mg/300mg], 2% [placebo]).
 
-For various percentages of opioid-free weeks, Table 8 shows the fraction of patients achieving that criterion.
+For various percentages of opioid-free weeks, Table 9 shows the fraction of patients achieving that criterion.
 The table is cumulative, so that a patient whose percent of opioid-free weeks is, for example, 50%, is also included at every level of opioid-free week percentage below 50%.
 Missing values and values after premature discontinuation were considered positive.
 
 Figure 12.
 Subjects Achieving Varying Percentages of Opioid-Free Weeks
 
-Table 8.
-Cumulative Distribution Function of Percentage of Opioid-Free Weeks
+Table 9 Cumulative Distribution Function of Percentage of Opioid-Free Weeks
 
 |  | Number (%) of Subjects |  |  |
 | --- | --- | --- | --- |
