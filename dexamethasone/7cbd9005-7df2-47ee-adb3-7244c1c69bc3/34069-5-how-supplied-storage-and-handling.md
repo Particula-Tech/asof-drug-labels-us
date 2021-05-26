@@ -1,12 +1,12 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
-Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) equivalent to 10 mg dexamethasone phosphate, is supplied in a single use vial as follows:
+Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) equivalent to 10 mg dexamethasone phosphate, is supplied as follows:
 
-| Product No. | NDC No. | Strength | Vial Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| PRX500601 | 63323-506-16 | 10 mg per mL | 1 mL vial, packaged in twenty-fives. |
+| PRX500601 | NDC 63323-506-16 Unit of 25 | 10 mg per mL | NDC 63323-506-41 1 mL single dose vial |
 
-The container closure is not made with natural rubber latex.
+This container closure is not made with natural rubber latex.
 
 ## Storage
 
@@ -18,5 +18,5 @@ Protect from freezing.
 
 Protect from light.
 
-Single use vials–Store in container until time of use.
+Single dose vials–Store in container until time of use.
 Discard unused portion.

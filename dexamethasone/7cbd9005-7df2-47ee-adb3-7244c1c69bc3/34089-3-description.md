@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Dexamethasone Sodium Phosphate Injection, USP, is a water-soluble inorganic ester of dexamethasone which produces a rapid response even when injected intramuscularly.
 

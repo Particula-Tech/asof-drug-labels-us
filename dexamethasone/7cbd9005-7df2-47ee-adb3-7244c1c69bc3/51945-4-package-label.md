@@ -1,6 +1,6 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 1 mL Vial Label
 
-Dexamethasone Sodium Phosphate Injection, USP
+NDC 63323-506-41 PRX500601 Dexamethasone Sodium Phosphate Injection, USP
 
 10 mg per mL
 
@@ -11,15 +11,15 @@ Discard unused portion.
 
 Protect from light.
 
-1 mL Single Use Vial Rx only
+1 mL Single Dose Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 1 mL Vial Tray Label
 
-Dexamethasone Sodium Phosphate Injection, USP
+NDC 63323-506-16 PRX500601 Dexamethasone Sodium Phosphate Injection, USP
 
 10 mg per mL*
 
 For intramuscular or intravenous use only.
 Preservative free.
 
-25 x 1 mL Single Use Vials Rx only
+25 x 1 mL Single Dose Vials Rx only

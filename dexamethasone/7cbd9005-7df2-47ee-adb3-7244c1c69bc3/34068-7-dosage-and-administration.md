@@ -1,66 +1,46 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
-Dexamethasone sodium phosphate injection, 10 mg/mL– For intravenous and intramuscular injection only.
+## A. Intravenous or Intramuscular Administration
 
-Dexamethasone sodium phosphate injection can be given directly from the vial, or it can be added to Sodium Chloride Injection or Dextrose Injection and administered by intravenous drip.
+The initial dosage of dexamethasone sodium phosphate injection may vary from 0.50 mg/day to 9.0 mg/day depending on the specific disease entity being treated.
+In situations of less severity, lower doses will generally suffice, while in selected patients higher initial doses may be required.
+Usually the parenteral dosage ranges are one-third to one-half the oral dose given every 12 hours.
+However, in certain overwhelming, acute, life-threatening situations, administration of dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 
-Solutions used for intravenous administration or further dilution of this product should be preservative free when used in the neonate, especially the premature infant.
+For the treatment of unresponsive shock high pharmacologic doses of this product are currently recommended.
+Reported regimens range from 1 to 6 mg/kg of body weight as a single intravenous injection to 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists.
 
-When it is mixed with an infusion solution, sterile precautions should be observed.
-Since infusion solutions generally do not contain preservatives, mixtures should be used within 24 hours.
+For the treatment of cerebral edema in adults an initial intravenous dose of 10 mg is recommended followed by 4 mg intramuscularly every six hours until maximum response has been noted.
+This regimen may be continued for several days postoperatively in patients requiring brain surgery.
+Oral dexamethasone, 1 to 3 mg t.i.d., should be given as soon as possible and dosage tapered off over a period of five to seven days.
+Nonoperative cases may require continuous therapy to remain free of symptoms of increased intracranial pressure.
+The smallest effective dose should be used in children, preferably orally.
+This may approximate 0.2 mg/kg/24 hours in divided doses.
 
-DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT.
+In treatment of acute exacerbations of multiple sclerosis daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day or 4–8 mg dexamethasone every other day for 1 month have been shown to be effective.
 
-## Intravenous and Intramuscular Injection
+The initial dosage should be maintained or adjusted until a satisfactory response is noted.
+If after a reasonable period of time there is a lack of satisfactory clinical response, dexamethasone sodium phosphate injection should be discontinued and the patient transferred to other appropriate therapy.
+It should be emphasized that dosage requirements are variable and must be individualized on the basis of the disease under treatment and the response of the patient.
 
-The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated.
-In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required.
+After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
+It should be kept in mind that constant monitoring is needed in regard to drug dosage.
+Included in the situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment.
+In this later situation it may be necessary to increase the dosage of dexamethasone sodium phosphate injection for a period of time consistent with the patient's condition.
+If after a long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
-The initial dosage should be maintained or adjusted until the patient’s response is satisfactory.
-If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy.
+## B. Intra-articular, soft tissue or intralesional administration.
 
-After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response.
+The dose for intrasynovial administration is usually 2 to 4 mg for large joints and 0.8 to 1 mg for small joints.
+For soft tissue and bursal injections a dose of 2 to 4 mg is recommended.
+Ganglia require a dose of 1 to 2 mg.
+A dose of 0.4 to 1 mg is used for injection into tendon sheaths.
+Injection into intervertebral joints should not be attempted at any time and hip joint injection cannot be recommended as an office procedure.
 
-Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma).
-During stress it may be necessary to increase dosage temporarily.
+Intrasynovial and soft tissue injections should be employed only when affected areas are limited to 1 or 2 sites.
+It should be remembered that corticoids provide palliation only and that other conventional or curative methods of therapy should be employed when indicated.
 
-If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-When the intravenous route of administration is used, dosage usually should be the same as the oral dosage.
-In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
-The slower rate of absorption by intramuscular administration should be recognized.
-
-## Shock
-
-There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock.
-The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors:
-
-| Author | Dosage |
-| --- | --- |
-| Cavanagh 1 | 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg |
-| Dietzman 2 | 2 to 6 mg/kg of body weight as a single intravenous injection |
-| Frank 3 | 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists |
-| Oaks 4 | 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists |
-| Schumer 5 | 1 mg/kg of body weight as a single intravenous injection |
-
-Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours.
-
-Although adverse reactions associated with high dose, short-term corticosteroid therapy are uncommon, peptic ulceration may occur.
-
-## Cerebral Edema
-
-Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside.
-Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days.
-For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with 2 mg two or three times a day may be effective.
-
-## Acute Allergic Disorders
-
-In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested:
-
-Dexamethasone sodium phosphate injection, first day, 4 or 8 mg intramuscularly.
-
-Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day, 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit.
-
-This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit.
+Frequency of injection usually ranges from once every 3 to 5 days to once every 2 to 3 weeks.
+Frequent intra-articular injection may cause damage to joint tissue.
