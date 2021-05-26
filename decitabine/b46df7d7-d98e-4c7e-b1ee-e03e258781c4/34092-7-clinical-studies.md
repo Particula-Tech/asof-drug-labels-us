@@ -49,14 +49,14 @@ Table 6 Analysis of Response (ITT)
 
 | Parameter | Decitabine N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR) † Complete Response (CR) Partial Response (PR) | 15 (17%) ** 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
+| Overall Response Rate (CR+PR) † Complete Response (CR) Partial Response (PR) | 15 (17%) * 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 93 (55-272) 288 (116-388) | NA NA |
-| **p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine vs. Supportive Care. †In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance. All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors. Responses occurred in patients with an adjudicated baseline diagnosis of AML. |  |  |
+| *p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine vs. Supportive Care. †In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance. All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors. Responses occurred in patients with an adjudicated baseline diagnosis of AML. |  |  |
 
 ## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of decitabine in MDS patients with any of the FAB subtypes.
-In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine 20 mg/m 2 as an intravenous infusion over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).
+In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine 20 mg/m 2 as an intravenous infusion over 1-hour daily, on days 1-5 of week 1, every 4 weeks (1 cycle).
 The results were consistent with the results of the controlled trial and are summarized in Table 8.
 
 Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
@@ -75,7 +75,7 @@ Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
 
 Table 8 Analysis of Response (ITT)*
 
-| Parameter | DecitabineN=99 |  |
+| Parameter | Decitabine N=99 |  |
 | --- | --- | --- |
 | Overall Response Rate (CR+PR) Complete Response (CR) Partial Response (PR) | 16 (16%) 15 (15%) 1 (1%) |  |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722+) |  |

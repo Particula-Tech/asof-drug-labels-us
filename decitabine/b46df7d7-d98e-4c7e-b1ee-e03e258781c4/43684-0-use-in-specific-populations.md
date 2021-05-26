@@ -11,7 +11,7 @@ In animal reproduction studies, administration of decitabine to pregnant mice an
 Advise pregnant women of the potential risk to a fetus.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2 to 4% and 15 to 20% of clinically recognized pregnancies, respectively.
+The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2% to 4% and 15% to 20% of clinically recognized pregnancies, respectively.
 
 Data
 
@@ -30,7 +30,7 @@ Studies in mice have also shown that decitabine administration during osteoblast
 In mice exposed to single IP (intraperitoneal) injections (0, 0.9 and 3.0 mg/m 2, approximately 2% and 7% of the recommended daily clinical dose, respectively) over gestation days 8, 9, 10 or 11, no maternal toxicity was observed but reduced fetal survival was observed after treatment at 3 mg/m 2 and decreased fetal weight was observed at both dose levels.
 The 3 mg/m 2 dose elicited characteristic fetal defects for each treatment day, including supernumerary ribs (both dose levels), fused vertebrae and ribs, cleft palate, vertebral defects, hind-limb defects and digital defects of fore- and hind- limbs.
 
-In rats given a single IP injection of 2.4, 3.6 or 6 mg/m 2 (approximately 5, 8, or 13% the daily recommended clinical dose, respectively) on gestation days 9-12, no maternal toxicity was observed.
+In rats given a single IP injection of 2.4, 3.6 or 6 mg/m 2 (approximately 5%, 8%, or 13% the daily recommended clinical dose, respectively) on gestation days 9-12, no maternal toxicity was observed.
 No live fetuses were seen at any dose when decitabine was injected on gestation day 9.
 A significant decrease in fetal survival and reduced fetal weight at doses greater than 3.6 mg/m 2 was seen when decitabine was given on gestation day 10.
 Increased incidences of vertebral and rib anomalies were seen at all dose levels, and induction of exophthalmia, exencephaly, and cleft palate were observed at 6.0 mg/m 2.
@@ -74,5 +74,5 @@ The safety and effectiveness of Decitabine for Injection in pediatric patients h
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients exposed to Decitabine for Injection in the controlled clinical trial, 61 of 83 patients were age 65 and over, while 21 of 83 patients were age 75 and over.
+Of the total number of patients exposed to Decitabine for Injection in the controlled clinical trial, 61 of 83 patients were age 65 years and over, while 21 of 83 patients were age 75 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

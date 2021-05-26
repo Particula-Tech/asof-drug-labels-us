@@ -26,4 +26,4 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Plot No. 5 to 14, Pharmez, Sarkhej-Bavla, National Highway No 8-A, Near Village Matoda, Tal Sanand, Ahmedabad - 382 213, Gujarat, India
 
-51 3341 1 723540 Issued April 2020.
+51 3341 2 724285 Issued July 2020.

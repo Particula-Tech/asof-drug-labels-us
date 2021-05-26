@@ -154,10 +154,10 @@ Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the decitabine Group
 | Hypotension NOS | 5 (6) | 4 (5) |
 | Hematoma NOS | 4 (5) | 3 (4) |
 
-In a single-arm MDS study (N=99) Decitabine was dosed at 20 mg/m 2 intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
+In a single-arm MDS study (N=99), Decitabine was dosed at 20 mg/m 2 intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
 Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
-Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study 1
+Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study *
 
 |  | Decitabine N = 99 (%) |
 | --- | --- |
@@ -256,7 +256,7 @@ Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study 1
 | Hypertension | 6 (6) |
 | Hypotension | 11 (11) |
 
-1 In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
+* In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
 Thus, not all laboratory abnormalities were recorded as adverse events.
 
 No overall difference in safety was detected between patients > 65 years of age and younger patients in these MDS trials.
@@ -266,18 +266,18 @@ Insufficient numbers of non-White patients were available to draw conclusions in
 
 Serious adverse reactions that occurred in patients receiving decitabine not previously reported in Tables 1 and 2 include:
 
-- Allergic Reaction: hypersensitivity (anaphylactic reaction).
-- Blood and Lymphatic System Disorders: myelosuppression, splenomegaly.
-- Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia.
-- Gastrointestinal Disorders: gingival pain, upper gastrointestinal hemorrhage.
-- General Disorders and Administrative Site Conditions: chest pain, catheter site hemorrhage.
-- Hepatobiliary Disorders: cholecystitis.
-- Infections and Infestations: fungal infection, sepsis, bronchopulmonary aspergillosis, peridiverticular abscess, respiratory tract infection, pseudomonal lung infection, Mycobacterium avium complex infection.
-- Injury, Poisoning and Procedural Complications: post procedural pain, post procedural hemorrhage.
-- Nervous System Disorders: intracranial hemorrhage.
-- Psychiatric Disorders: mental status changes.
-- Renal and Urinary Disorders: renal failure, urethral hemorrhage.
-- Respiratory, Thoracic and Mediastinal Disorders: hemoptysis, lung infiltration, pulmonary embolism, respiratory arrest, pulmonary mass.
+- Allergic Reaction: hypersensitivity (anaphylactic reaction)
+- Blood and Lymphatic System Disorders: myelosuppression, splenomegaly
+- Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia
+- Gastrointestinal Disorders: gingival pain, upper gastrointestinal hemorrhage
+- General Disorders and Administrative Site Conditions: chest pain, catheter site hemorrhage
+- Hepatobiliary Disorders: cholecystitis
+- Infections and Infestations: fungal infection, sepsis, bronchopulmonary aspergillosis, peridiverticular abscess, respiratory tract infection, pseudomonal lung infection, Mycobacterium avium complex infection
+- Injury, Poisoning and Procedural Complications: post procedural pain, post procedural hemorrhage
+- Nervous System Disorders: intracranial hemorrhage
+- Psychiatric Disorders: mental status changes
+- Renal and Urinary Disorders: renal failure, urethral hemorrhage
+- Respiratory, Thoracic and Mediastinal Disorders: hemoptysis, lung infiltration, pulmonary embolism, respiratory arrest, pulmonary mass
 
 ## 6.2 Postmarketing Experience
 
@@ -286,3 +286,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Sweet's syndrome (acute febrile neutrophilic dermatosis)
 - Differentiation syndrome
+- Interstitial lung disease
