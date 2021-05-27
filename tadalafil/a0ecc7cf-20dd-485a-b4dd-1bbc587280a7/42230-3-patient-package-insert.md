@@ -40,12 +40,10 @@ Before taking tadalafil tablets, tell your healthcare provider about all of your
 - are allergic to tadalafil tablets or Cialis or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in tadalafil tablets.
 - have pulmonary veno-occlusive disease (PVOD)
-- have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack
-- have low blood pressure or high blood pressure that is not controlled
-- have had a stroke
+- have heart problems
+- have low blood pressure
 - have liver problems
 - have kidney problems or get dialysis
-- have stomach ulcers
 - have retinitis pigmentosa, a rare genetic eye disease
 - have ever had any sudden vision loss, including any damage to your optic nerve or NAION.
 - have ever had hearing problems such as ringing in the ears, dizziness, or loss of hearing
@@ -53,10 +51,9 @@ Before taking tadalafil tablets, tell your healthcare provider about all of your
 - have had an erection that lasted more than 4 hours
 - have blood cell problems such as sickle cell anemia, multiple myeloma, or leukemia
 - are pregnant or planning to become pregnant.
-  It is not known if tadalafil tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breast feed.
-  It is not known if tadalafil passes into your breast milk.
+  If you breastfeed while taking tadalafil tablets, it is likely that tadalafil will pass into your breast milk.
   You and your healthcare provider should decide if you will take tadalafil tablets or breastfeed.
   You should not do both.
 
@@ -65,9 +62,6 @@ Tadalafil tablets and other medicines may affect each other.
 Especially tell your healthcare provider if you take any of these medicines*:
 
 - nitrates or guanylate cyclase stimulators (see “What is the most important information I should know about tadalafil tablets?”)
-- anti-hypertensives, used to treat high blood pressure.
-  Your blood pressure could suddenly drop.
-  You could get dizzy or faint.
 - alpha blockers, used to treat prostate disease and high blood pressure.
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
@@ -127,7 +121,7 @@ These are not all the possible side effects of tadalafil tablets.
 For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-How Should I Store tadalafil tablets?
+How Should I Store Tadalafil Tablets?
 Store tadalafil tablets at room temperature between 20° to 25°C (68° to 77°F).
 Keep tadalafil tablets and all medicines out of the reach of children.
 General Information about the safe and effective use of tadalafil tablets Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
@@ -138,8 +132,8 @@ This patient information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about tadalafil tablets that is written for healthcare professionals.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-What Are The Ingredients In tadalafil tablets?
+What Are The Ingredients In Tadalafil Tablets?
 Active Ingredient: tadalafil Inactive Ingredients: colloidal silicon dioxide, copovidone, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyoxyl 40 hydrogenated castor oil, talc, titanium dioxide, triacetin, and yellow iron oxide.
 Rx only This Patient Information has been approved by the U.S. Food and Drug Administration. *The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 The makers of these brands are not affiliated with and do not endorse Aurobindo Pharma Limited or its products.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2021
