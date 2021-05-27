@@ -12,6 +12,8 @@ Each capsule contains 15 mg of lansoprazole, USP as enteric-coated pellets.
 
 Usual Dosage: See accompanying prescribing information.
 
+Do not accept if seal over bottle opening is broken or missing.
+
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
@@ -23,7 +25,7 @@ Made in India
 
 Mylan.com
 
-RMX8015H6
+RMX8015H7
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -45,6 +47,8 @@ Each capsule contains 30 mg of lansoprazole, USP as enteric-coated pellets.
 
 Usual Dosage: See accompanying prescribing information.
 
+Do not accept if seal over bottle opening is broken or missing.
+
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
@@ -56,7 +60,7 @@ Made in India
 
 Mylan.com
 
-RMX8030H6
+RMX8030H7
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

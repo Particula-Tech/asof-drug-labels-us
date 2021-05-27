@@ -16,34 +16,34 @@ Lansoprazole also significantly reduced meal-stimulated gastric acid output and 
 In patients with hypersecretion of acid, lansoprazole significantly reduced basal and pentagastrin-stimulated gastric acid secretion.
 Lansoprazole inhibited the normal increases in secretion volume, acidity and acid output induced by insulin.
 
-The intragastric pH results of a five day, pharmacodynamic, crossover study of 15 mg and 30 mg of once daily lansoprazole are presented in Table 4:
+The intragastric pH results of a five day, pharmacodynamic, crossover study of 15 and 30 mg of once daily lansoprazole are presented in Table 6:
 
-Table 4.
+Table 6.
 Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Dosing
 
 |  |  | Lansoprazole |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Parameter | Baseline Value | 15 mg |  | 30 mg |  |
+| Parameter | BaselineValue | 15 mg |  | 30 mg |  |
 | Day 1 | Day 5 | Day 1 | Day 5 |  |  |
-| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) versus baseline only. | 4.0 | 3.6(p < 0.05) versus baseline and lansoprazole 15 mg. | 4.9 |
+| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) vs baseline only. | 4.0 | 3.6(p < 0.05) vs baseline and lansoprazole 15 mg. | 4.9 |
 | Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
 | % Time Gastric pH > 3 | 18 | 33 | 59 | 51 | 72 |
 | % Time Gastric pH > 4 | 12 | 22 | 49 | 41 | 66 |
-| NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
+| NOTE: An intragastric pH of greater than four reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
 
 After the initial dose in this study, increased gastric pH was seen within one to two hours with 30 mg of lansoprazole and two to three hours with 15 mg of lansoprazole.
-After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within one to two hours post-dosing with 15 mg of lansoprazole.
+After multiple daily dosing, increased gastric pH was seen within the first hour postdosing with 30 mg of lansoprazole and within one to two hours postdosing with 15 mg of lansoprazole.
 
 Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
-The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of lansoprazole given daily, twice daily and three times daily (Table 5).
+The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of lansoprazole given daily, twice daily and three times daily (Table 7).
 
-Table 5.
+Table 7.
 Mean Antisecretory Effects After Five Days of Twice Daily and Three Times Daily Dosing
 
 |  | Lansoprazole |  |  |  |
 | --- | --- | --- | --- | --- |
-| Parameter | 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |
-| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) versus lansoprazole 30 mg daily. | 77(p < 0.05) versus lansoprazole 30 mg daily, 15 mg twice daily and 30 mg twice daily. |
+| Parameter | 30 mgdaily | 15 mgtwice daily | 30 mgtwice daily | 30 mgthree times daily |
+| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) vs lansoprazole 30 mg daily. | 77(p < 0.05) vs lansoprazole 30 mg daily, 15 and 30 mg twice daily. |
 | % Time Gastric pH > 6 | 20 | 23 | 28 | 45 |
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
@@ -66,15 +66,18 @@ No significant increase in nitrosamine concentrations was observed.
 
 ### Serum Gastrin Effects
 
-In over 2100 patients, median fasting serum gastrin levels increased 50% to 100% from baseline but remained within normal range after treatment with 15 mg to 60 mg of oral lansoprazole.
+In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% from baseline but remained within normal range after treatment with 15 to 60 mg of oral lansoprazole.
 These elevations reached a plateau within two months of therapy and returned to pretreatment levels within four weeks after discontinuation of therapy.
+
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
 
 ### Endocrine Effects
 
 Human studies for up to one year have not detected any clinically significant effects on the endocrine system.
 Hormones studied include testosterone, luteinizing hormone (LH), follicle stimulating hormone (FSH), sex hormone binding globulin (SHBG), dehydroepiandrosterone sulfate (DHEA-S), prolactin, cortisol, estradiol, insulin, aldosterone, parathormone, glucagon, thyroid stimulating hormone (TSH), triiodothyronine (T3), thyroxine (T4), and somatotropic hormone (STH).
-Lansoprazole in oral doses of 15 mg to 60 mg for up to one year had no clinically significant effect on sexual function.
-In addition, lansoprazole in oral doses of 15 mg to 60 mg for two to eight weeks had no clinically significant effect on thyroid function.
+Lansoprazole in oral doses of 15 to 60 mg for up to one year had no clinically significant effect on sexual function.
+In addition, lansoprazole in oral doses of 15 to 60 mg for two to eight weeks had no clinically significant effect on thyroid function.
 In 24 month carcinogenicity studies in Sprague-Dawley rats with daily lansoprazole dosages up to 150 mg/kg, proliferative changes in the Leydig cells of the testes, including benign neoplasm, were increased compared to control rats.
 
 ### Other Effects
@@ -83,9 +86,137 @@ No systemic effects of lansoprazole on the central nervous system, lymphoid, hem
 Among 56 patients who had extensive baseline eye evaluations, no visual toxicity was observed after lansoprazole treatment (up to 180 mg/day) for up to 58 months.
 After lifetime lansoprazole exposure in rats, focal pancreatic atrophy, diffuse lymphoid hyperplasia in the thymus, and spontaneous retinal atrophy were seen.
 
+## 12.3 Pharmacokinetics
+
+### Absorption
+
+Lansoprazole delayed-release capsules contain an enteric-coated pellets formulation of lansoprazole (because lansoprazole is acid-labile), so that absorption of lansoprazole begins only after the pellets leave the stomach.
+The mean peak plasma levels of lansoprazole occur at approximately 1.7 hours.
+After a single-dose administration of 15 to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
+Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
+The absolute bioavailability is over 80%.
+In healthy subjects, the mean (± SD) plasma half-life was 1.5 (± 1.0) hours.
+Both the Cmax and AUC are diminished by about 50 to 70% if lansoprazole is given 30 minutes after food, compared to the fasting condition.
+There is no significant food effect if lansoprazole is given before meals.
+
+### Distribution
+
+Lansoprazole is 97% bound to plasma proteins.
+Plasma protein binding is constant over the concentration range of 0.05 to 5 mcg/mL.
+
+### Elimination
+
+#### Metabolism
+
+Lansoprazole is extensively metabolized in the liver.
+Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole).
+These metabolites have very little or no antisecretory activity.
+Lansoprazole is thought to be transformed into two active species which inhibit acid secretion by blocking the proton pump [(H+, K+)-ATPase enzyme system] at the secretory surface of the gastric parietal cell.
+The two active species are not present in the systemic circulation.
+The plasma elimination half-life of lansoprazole is less than two hours while the acid inhibitory effect lasts more than 24 hours.
+Therefore, the plasma elimination half-life of lansoprazole does not reflect its duration of suppression of gastric acid secretion.
+
+#### Excretion
+
+Following single-dose oral administration of lansoprazole, virtually no unchanged lansoprazole was excreted in the urine.
+In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
+This implies a significant biliary excretion of the lansoprazole metabolites.
+
+### Specific Populations
+
+#### Pediatric Patients
+
+##### One to 17 Years of Age
+
+The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged one to 11 years and 12 to 17 years in two separate clinical studies.
+In children aged one to 11 years, lansoprazole was dosed 15 mg daily for subjects weighing ≤ 30 kg and 30 mg daily for subjects weighing greater than 30 kg.
+Mean Cmax and AUC values observed on Day 5 of dosing were similar between the two dose groups and were not affected by weight or age within each weight-adjusted dose group used in the study.
+In adolescent subjects aged 12 to 17 years, subjects were randomized to receive lansoprazole at 15 or 30 mg daily.
+Mean Cmax and AUC values of lansoprazole were not affected by body weight or age; and nearly dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
+Overall, lansoprazole pharmacokinetics in pediatric patients aged one to 17 years were similar to those observed in healthy adult subjects.
+
+#### Geriatric Patients
+
+The clearance of lansoprazole is decreased in the elderly, with elimination half-life increased approximately 50 to 100%.
+Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repeated once daily dosing does not result in accumulation of lansoprazole.
+Peak plasma levels were not increased in the elderly [see Use in Specific Populations (8.5)].
+
+#### Male and Female Patients
+
+In a study comparing 12 male and six female human subjects who received lansoprazole, no sex-related differences were found in pharmacokinetics and intragastric pH results.
+
+#### Racial or Ethnic Groups
+
+The pooled mean pharmacokinetic parameters of lansoprazole from twelve U.S. studies (N = 513) were compared to the mean pharmacokinetic parameters from two Asian studies (N = 20).
+The mean AUCs of lansoprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
+The Cmax values were comparable.
+
+#### Patients with Renal Impairment
+
+In patients with severe renal impairment, plasma protein binding decreased by 1 to 1.5% after administration of 60 mg of lansoprazole.
+Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound).
+The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and Tmax (time to reach the maximum concentration) were not different than the Cmax and Tmax from subjects with normal renal function.
+Therefore, the pharmacokinetics of lansoprazole were not clinically different in patients with mild, moderate or severe renal impairment compared to healthy subjects with normal renal function.
+
+#### Patients with Hepatic Impairment
+
+In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for seven days.
+The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 to four hours (Child-Pugh A) or five hours (Child-Pugh B).
+
+In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
+
+### Drug Interaction Studies
+
+#### Effect of Lansoprazole on Other Drugs
+
+##### Cytochrome P450 Interactions
+
+Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
+Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
+These compounds are metabolized through various cytochrome P450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
+
+##### Theophylline
+
+When lansoprazole was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
+Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern [see Drug Interactions (7)].
+
+##### Methotrexate and 7-hydroxymethotrexate
+
+In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
+While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
+However, this study was conducted with low doses of methotrexate.
+A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.9)].
+
+##### Amoxicillin
+
+Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
+
+##### Sucralfate
+
+In a single-dose crossover study examining lansoprazole 30 mg administered alone and concomitantly with sucralfate 1 gram, absorption of lansoprazole was delayed and the bioavailability was reduced by 17% when administered concomitantly with sucralfate [see Dosage and Administration (2.4), Drug Interactions (7)].
+
+##### Antacids
+
+In clinical trials, antacids were administered concomitantly with lansoprazole and there was no evidence of a change in the efficacy of lansoprazole.
+
+##### Clopidogrel
+
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
+The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important.
+
+#### Effect of Other Drugs on Lansoprazole
+
+Because lansoprazole is metabolized by CYP2C19 and CYP3A4, inducers and inhibitors of these enzymes may potentially alter exposure of lansoprazole.
+
+## 12.4 Microbiology
+
 ### Microbiology
 
-Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the INDICATIONS AND USAGE section [see Indications and Usage (1.2)].
+Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Indications and Usage (1.2)].
 
 ### Helicobacter pylori Pretreatment Resistance
 
@@ -93,20 +224,20 @@ Clarithromycin pretreatment resistance (≥ 2.0 mcg/mL) was 9.5% (91/960) by E-t
 
 Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
 Twenty-one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
-One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 6).
+One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
 
-Table 6.
+Table 8.
 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results.
 
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | H. pylori negative -eradicated | H. pylori positive - not eradicated Post-treatment susceptibility results |  |  |  |
+|  |  | H. pylorinegative - eradicated | H. pylori positive - not eradicatedPost-treatment susceptibility results |  |  |  |
 | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL. | I | R | No MIC |  |  |  |
-| Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 gram twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
+| Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible | 112 | 105 |  |  |  | 7 |
 | Intermediate | 3 | 3 |  |  |  |  |
 | Resistant | 17 | 6 |  |  | 7 | 4 |
-| Triple Therapy 10 Day (lansoprazole 30 mg twice daily/amoxicillin 1 gram twice daily/clarithromycin 500 mg twice daily) (M95-399) |  |  |  |  |  |  |
+| Triple Therapy 10 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399) |  |  |  |  |  |  |
 | Susceptible | 42 | 40 | 1 |  | 1 |  |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 4 | 1 |  |  | 3 |  |
@@ -119,140 +250,10 @@ Patients with clarithromycin resistant H. pylori should not be treated with lans
 
 In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori.
 Of those with pretreatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
-A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times daily/amoxicillin 1 gram three times daily dual therapy and a total of 12.8% (22/172) of the patients failed the 10 and 14 day triple therapy regimens.
+A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily dual therapy and a total of 12.8% (22/172) of the patients failed the 10 and 14 day triple therapy regimens.
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
 ### Susceptibility Test for Helicobacter pylori
 
 For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
-
-## 12.3 Pharmacokinetics
-
-Lansoprazole delayed-release capsules contain an enteric-coated pellets formulation of lansoprazole.
-Absorption of lansoprazole begins only after the pellets leave the stomach.
-Absorption is rapid, with mean peak plasma levels of lansoprazole occurring after approximately 1.7 hours.
-After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
-Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
-
-### Absorption
-
-The absorption of lansoprazole is rapid, with the mean Cmax occurring approximately 1.7 hours after oral dosing, and the absolute bioavailability is over 80%.
-In healthy subjects, the mean (± SD) plasma half-life was 1.5 (± 1.0) hours.
-Both the Cmax and AUC are diminished by about 50% to 70% if lansoprazole is given 30 minutes after food, compared to the fasting condition.
-There is no significant food effect if lansoprazole is given before meals.
-
-### Distribution
-
-Lansoprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 0.05 mcg/mL to 5.0 mcg/mL.
-
-### Metabolism
-
-Lansoprazole is extensively metabolized in the liver.
-Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole).
-These metabolites have very little or no antisecretory activity.
-Lansoprazole is thought to be transformed into two active species which inhibit acid secretion by blocking the proton pump [(H+, K+)-ATPase enzyme system] at the secretory surface of the gastric parietal cell.
-The two active species are not present in the systemic circulation.
-The plasma elimination half-life of lansoprazole is less than two hours while the acid inhibitory effect lasts more than 24 hours.
-Therefore, the plasma elimination half-life of lansoprazole does not reflect its duration of suppression of gastric acid secretion.
-
-### Elimination
-
-Following single-dose oral administration of lansoprazole, virtually no unchanged lansoprazole was excreted in the urine.
-In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
-This implies a significant biliary excretion of the lansoprazole metabolites.
-
-### Specific Populations
-
-#### Pediatric Use
-
-##### One to 17 Years of Age
-
-The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged one to 11 years and 12 to 17 years in two separate clinical studies.
-In children aged one to 11 years, lansoprazole was dosed 15 mg daily for subjects weighing ≤ 30 kg and 30 mg daily for subjects weighing greater than 30 kg.
-Mean Cmax and AUC values observed on Day 5 of dosing were similar between the two dose groups and were not affected by weight or age within each weight-adjusted dose group used in the study.
-In adolescent subjects aged 12 to 17 years, subjects were randomized to receive lansoprazole at 15 mg or 30 mg daily.
-Mean Cmax and AUC values of lansoprazole were not affected by body weight or age; and nearly dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
-Overall, lansoprazole pharmacokinetics in pediatric patients aged one to 17 years were similar to those observed in healthy adult subjects.
-
-##### Neonate to Less than One Year of Age
-
-Refer to Section 8.4 for the pharmacokinetics of lansoprazole in pediatric patients with GERD aged less than 28 days and one to 11 months.
-
-#### Geriatric Use
-
-The clearance of lansoprazole is decreased in the elderly, with elimination half-life increased approximately 50% to 100%.
-Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repeated once daily dosing does not result in accumulation of lansoprazole.
-Peak plasma levels were not increased in the elderly.
-No dosage adjustment is necessary in the elderly [see Use in Specific Populations (8.5)].
-
-#### Renal Impairment
-
-In patients with severe renal impairment, plasma protein binding decreased by 1.0% to 1.5% after administration of 60 mg of lansoprazole.
-Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound).
-The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and Tmax (time to reach the maximum concentration) were not different than the Cmax and Tmax from subjects with normal renal function.
-No dosage adjustment is necessary in patients with renal impairment [see Use in Specific Populations (8.6)].
-
-#### Hepatic Impairment
-
-In patients with various degrees of chronic hepatic impairment, the mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 3.2 to 7.2 hours.
-An increase in the mean AUC of up to 500% was observed at steady state in hepatically-impaired patients compared to healthy subjects.
-Consider dose reduction in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
-
-#### Gender
-
-In a study comparing 12 male and six female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.8)].
-
-### Drug-Drug Interactions
-
-Lansoprazole may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
-
-Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
-Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
-These compounds are metabolized through various cytochrome P450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
-
-#### Atazanavir and Nelfinavir
-
-Lansoprazole causes long-lasting inhibition of gastric acid secretion.
-Lansoprazole substantially decreases the systemic concentrations of HIV protease inhibitors, such as atazanavir and nelfinavir, which are dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir or nelfinavir and the development of HIV resistance.
-Therefore, lansoprazole or other proton pump inhibitors, should not be co-administered with atazanavir or nelfinavir.
-
-#### Theophylline
-
-When lansoprazole was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
-Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern.
-Nonetheless, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels.
-
-#### Warfarin
-
-In a study of healthy subjects neither the pharmacokinetics of warfarin enantiomers nor prothrombin time were affected following single or multiple 60 mg doses of lansoprazole.
-However, there have been reports of increased International Normalized Ratio (INR) and prothrombin time in patients receiving proton pump inhibitors, including lansoprazole, and warfarin concomitantly.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
-
-#### Methotrexate and 7-hydromethotrexate
-
-In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 mg to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
-While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
-However, this study was conducted with low doses of methotrexate.
-A drug interaction study with high doses of methotrexate has not been conducted.
-
-#### Amoxicillin
-
-Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
-
-#### Sucralfate
-
-In a single-dose crossover study examining lansoprazole 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate.
-Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.
-In clinical trials, antacids were administered concomitantly with lansoprazole and there was no evidence of a change in the efficacy of lansoprazole.
-
-#### Clopidogrel
-
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
-The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was co-administered compared to administration of clopidogrel alone.
-
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
-The clinical significance of this finding is not clear.

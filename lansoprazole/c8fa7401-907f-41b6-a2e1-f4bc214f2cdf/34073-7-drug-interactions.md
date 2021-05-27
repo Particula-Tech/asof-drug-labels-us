@@ -1,48 +1,57 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs with pH-Dependent Absorption
+Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with lansoprazole delayed-release capsules and instructions for preventing or managing them.
 
-Due to its effects on gastric acid secretion, lansoprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
-As with other drugs that decrease the intragastric acidity, the absorption of drugs such as ampicillin esters, ketoconazole, atazanavir, nelfinavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with lansoprazole [see Clinical Pharmacology (12.3)].
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Lansoprazole is likely to substantially decrease the systemic concentrations of HIV protease inhibitors, such as atazanavir and nelfinavir, which are dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir or nelfinavir and the development of HIV resistance.
-Therefore, lansoprazole should not be co-administered with atazanavir or nelfinavir [see Clinical Pharmacology (12.3)].
+Table 2.
+Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole Delayed-Release Capsules and Interactions with Diagnostics
 
-Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and MMF.
-Use lansoprazole with caution in transplant patients receiving MMF.
+| Antiretrovirals |  |
+| --- | --- |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. •Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.•Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.•There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with lansoprazole delayed-release capsules is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with lansoprazole delayed-release capsules. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
+| Warfarin |  |
+| Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
+| Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)]. |
+| Intervention: | A temporary withdrawal of lansoprazole delayed-release capsules may be considered in some patients receiving high-dose methotrexate. |
+| Digoxin |  |
+| Clinical Impact: | Potential for increased exposure of digoxin. |
+| Intervention: | Monitor digoxin concentrations. Dose adjustment of digoxin may be needed to maintain therapeutic drug concentrations. See prescribing information for digoxin. |
+| Theophylline |  |
+| Clinical Impact: | Increased clearance of theophylline [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Individual patients may require additional titration of their theophylline dosage when lansoprazole delayed-release capsules are started or stopped to ensure clinically effective blood concentrations. |
+| Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
+| Clinical Impact: | Lansoprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
+| Intervention: | Mycophenolate mofetil (MMF): Coadministration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole delayed-release capsules with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Combination Therapy with Clarithromycin and Amoxicillin |  |
+| Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
+| Intervention: | •See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.•See Drug Interactions in prescribing information for amoxicillin. |
+| Tacrolimus |  |
+| Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
+| Intervention: | Monitor tacrolimus whole blood trough concentrations. Dose adjustment of tacrolimus may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
+| Interactions with Investigations of Neuroendocrine Tumors |  |
+| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)]. |
+| Intervention: | Temporarily stop lansoprazole delayed-release capsule treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
+| Interaction with Secretin Stimulation Test |  |
+| Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
+| Intervention: | Temporarily stop lansoprazole delayed-release capsule treatment at least 28 days before assessing to allow gastrin levels to return to baseline [see Clinical Pharmacology (12.2)]. |
+| False Positive Urine Tests for THC |  |
+| Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs. |
+| Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
-## 7.2 Warfarin
+Table 3.
+Clinically Relevant Interactions Affecting Lansoprazole Delayed-Release Capsules When Coadministered with Other Drugs
 
-In a study of healthy subjects, co-administration of single or multiple 60 mg doses of lansoprazole and warfarin did not affect the pharmacokinetics of warfarin nor prothrombin time [see Clinical Pharmacology (12.3)].
-However, there have been reports of increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with PPIs and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time [see Clinical Pharmacology (12.3)].
-
-## 7.3 Tacrolimus
-
-Concomitant administration of lansoprazole and tacrolimus may increase whole blood levels of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19.
-
-## 7.4 Theophylline
-
-A minor increase (10%) in the clearance of theophylline was observed following the administration of lansoprazole concomitantly with theophylline.
-Although the magnitude of the effect on theophylline clearance is small, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels [see Clinical Pharmacology (12.3)].
-
-## 7.5 Clopidogrel
-
-Concomitant administration of lansoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
-No dose adjustment of clopidogrel is necessary when administered with an approved dose of lansoprazole.
-
-## 7.6 Methotrexate
-
-Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of high dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)].
-
-In a study of rheumatoid arthritis patients receiving low-dose methotrexate, lansoprazole and naproxen, no effect on pharmacokinetics of methotrexate was observed [see Clinical Pharmacology (12.3)].
-
-## 7.7 Combination Therapy with Clarithromycin
-
-Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
-
-For information about drug interactions of antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the DRUG INTERACTIONS section of their prescribing information.
+| CYP2C19 or CYP3A4 Inducers |  |
+| --- | --- |
+| Clinical Impact: | Decreased exposure of lansoprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
+| Intervention: | St John’s Wort, rifampin: Avoid concomitant use with lansoprazole delayed-release capsules. Ritonavir-containing products: See prescribing information. |
+| CYP2C19 or CYP3A4 Inhibitors |  |
+| Clinical Impact: | Increased exposure of lansoprazole is expected when used concomitantly with strong inhibitors [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Voriconazole: See prescribing information. |
+| Sucralfate |  |
+| Clinical Impact: | Decreased and delayed absorption of lansoprazole [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate [see Dosage and Administration (2.4)]. |
