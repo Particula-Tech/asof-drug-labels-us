@@ -1,8 +1,10 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Risk Summary Prolia is contraindicated for use in pregnant women because it may cause harm to a fetus.
+Risk Summary
+
+Prolia is contraindicated for use in pregnant women because it may cause harm to a fetus.
 There are insufficient data with denosumab use in pregnant women to inform any drug-associated risks for adverse developmental outcomes.
 In utero denosumab exposure from cynomolgus monkeys dosed monthly with denosumab throughout pregnancy at a dose 50-fold higher than the recommended human dose based on body weight resulted in increased fetal loss, stillbirths, and postnatal mortality, and absent lymph nodes, abnormal bone growth, and decreased neonatal growth [see Data].
 
@@ -10,7 +12,7 @@ Data
 
 Animal Data
 
-The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a “knockout mouse”).
+The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a "knockout mouse").
 In cynomolgus monkeys dosed subcutaneously with denosumab throughout pregnancy starting at gestational day 20 and at a pharmacologically active dose 50-fold higher than the recommended human dose based on body weight, there was increased fetal loss during gestation, stillbirths, and postnatal mortality.
 Other findings in offspring included absence of axillary, inguinal, mandibular, and mesenteric lymph nodes; abnormal bone growth, reduced bone strength, reduced hematopoiesis, dental dysplasia, and tooth malalignment; and decreased neonatal growth.
 At birth out to 1 month of age, infants had measurable blood levels of denosumab (22-621% of maternal levels).
@@ -43,11 +45,15 @@ Pregnancy Testing
 
 Verify the pregnancy status of females of reproductive potential prior to initiating Prolia treatment.
 
-Contraception Females
+Contraception
+
+Females
 
 Advise females of reproductive potential to use effective contraception during therapy, and for at least 5 months after the last dose of Prolia.
 
-Males Denosumab was present at low concentrations (approximately 2% of serum exposure) in the seminal fluid of male subjects given Prolia.
+Males
+
+Denosumab was present at low concentrations (approximately 2% of serum exposure) in the seminal fluid of male subjects given Prolia.
 Following vaginal intercourse, the maximum amount of denosumab delivered to a female partner would result in exposures approximately 11000 times lower than the prescribed 60 mg subcutaneous dose, and at least 38 times lower than the NOEL in monkeys.
 
 Therefore, male condom use would not be necessary as it is unlikely that a female partner or fetus would be exposed to pharmacologically relevant concentrations of denosumab via seminal fluid [see Clinical Pharmacology (12.3)].

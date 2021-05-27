@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Prolia is supplied in a single-dose prefilled syringe with a safety guard.
 The gray needle cap on the single-dose prefilled syringe contains dry natural rubber (a derivative of latex).

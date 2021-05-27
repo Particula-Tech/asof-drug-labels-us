@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 Prolia (denosumab) is a human IgG2 monoclonal antibody with affinity and specificity for human RANKL (receptor activator of nuclear factor kappa-B ligand).
 Denosumab has an approximate molecular weight of 147 kDa and is produced in genetically engineered mammalian (Chinese hamster ovary) cells.

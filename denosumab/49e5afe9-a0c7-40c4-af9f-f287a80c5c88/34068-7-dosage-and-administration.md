@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Information Essential to Safe Dosing or Administration
 
@@ -41,11 +41,16 @@ The gray needle cap on the single-dose prefilled syringe contains dry natural ru
 
 Step 1: Remove Gray Needle Cap
 
+| Remove needle cap. |  |
+| --- | --- |
+
 Step 2: Administer Subcutaneous Injection
 
-| Choose an injection site. The recommended injection sites for Prolia include: the upper arm OR the upper thigh OR the abdomen. |  |
-| --- | --- |
-| Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
+|  | Choose an injection site. The recommended injection sites for Prolia include: the upper arm OR the upper thigh OR the abdomen. |  |
+| --- | --- | --- |
+
+|  | Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
+| --- | --- | --- |
 
 DO NOT put gray needle cap back on needle.
 
@@ -54,12 +59,12 @@ Step 3: Immediately Slide Green Safety Guard Over Needle
 With the needle pointing away from you.
 
 Hold the prefilled syringe by the clear plastic finger grip with one hand.
-Then, with the other hand, grasp the green safety guard by its base and gently slide it towards the needle until the green safety guard locks securely in place and/or you hear a “click”.
+Then, with the other hand, grasp the green safety guard by its base and gently slide it towards the needle until the green safety guard locks securely in place and/or you hear a "click".
 DO NOT grip the green safety guard too firmly - it will move easily if you hold and slide it gently.
 
-| Hold clear finger grip. |  |
-| --- | --- |
-| Gently slide green safety guard over needle and lock securely in place. Do not grip green safety guard too firmly when sliding over needle. |  |
+|  | Hold clear finger grip. |  |
+| --- | --- | --- |
+|  | Gently slide green safety guard over needle and lock securely in place. Do not grip green safety guard too firmly when sliding over needle. |  |
 
 Immediately dispose of the syringe and needle cap in the nearest sharps container.
 DO NOT put the needle cap back on the used syringe.

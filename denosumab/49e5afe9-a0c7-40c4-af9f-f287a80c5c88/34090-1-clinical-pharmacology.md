@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -14,7 +14,7 @@ At the end of each dosing interval, CTX reductions were partially attenuated fro
 These effects were sustained with continued treatment.
 Upon reinitiation, the degree of inhibition of CTX by Prolia was similar to that observed in patients initiating Prolia treatment.
 
-Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [PlNP]) were observed starting 1 month after the first dose of Prolia.
+Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of Prolia.
 After discontinuation of Prolia therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months.
 
 ## 12.3 Pharmacokinetics
@@ -31,14 +31,18 @@ Prolia pharmacokinetics were not affected by the formation of binding antibodies
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
 
-Seminal Fluid Pharmacokinetic Study Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
+Seminal Fluid Pharmacokinetic Study
+
+Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
 After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
 The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
 Among the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
 On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen.
 On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (± 36.5) ng/mL across all subjects (n = 12).
 
-Drug Interactions In a study of 19 postmenopausal women with low BMD and rheumatoid arthritis treated with etanercept (50 mg subcutaneous injection once weekly), a single-dose of denosumab (60 mg subcutaneous injection) was administered 7 days after the previous dose of etanercept.
+Drug Interactions
+
+In a study of 19 postmenopausal women with low BMD and rheumatoid arthritis treated with etanercept (50 mg subcutaneous injection once weekly), a single-dose of denosumab (60 mg subcutaneous injection) was administered 7 days after the previous dose of etanercept.
 No clinically significant changes in the pharmacokinetics of etanercept were observed.
 
 Cytochrome P450 substrates
@@ -47,7 +51,9 @@ In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) w
 Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
 This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
-Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+Specific Populations
+
+Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 
 Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
 

@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -53,11 +53,3 @@ Schedule of Administration
 
 Advise patients that if a dose of Prolia is missed, the injection should be administered as soon as convenient.
 Thereafter, schedule injections every 6 months from the date of the last injection.
-
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
-
-Patent: http://pat.amgen.com/prolia/
-
-© 2010-2020 Amgen Inc. All rights reserved.
-
-1xxxxxx – v20
