@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Methocarbamol tablets USP a carbamate derivative of guaifenesin, is a central nervous system (CNS) depressant with sedative and musculoskeletal relaxant properties.
-The chemical name of methocarbamol is 3-(2-methoxyphenoxy)-1,2-propanediol 1-carbamate and has the empirical formula C11H15NO5.
+The chemical name of methocarbamol is 3-(2-methoxyphenoxy)-1,2-propanediol 1-carbamate and has the empirical formula C 11H 15NO 5.
 Its molecular weight is 241.24.
 The structural formula is shown below.
 
