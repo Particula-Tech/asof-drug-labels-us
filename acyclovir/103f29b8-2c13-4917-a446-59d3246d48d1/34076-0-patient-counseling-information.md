@@ -16,14 +16,22 @@ Before you use Acyclovir Cream, tell your doctor if you are pregnant, planning t
 Instructions for Use
 
 Treatment should be initiated at the earliest sign or symptom of recurrence.
-Patients should be instructed to wash hands prior to application and ensure the face and/or lips are clean and dry.
-Patients should be advised to apply Acyclovir Cream topically 5 times per day for 4 days.
-Patients should be instructed to topically apply a quantity of Acyclovir Cream sufficient to cover the affected area, including the outer margin.
-Patients should be advised to avoid unnecessary rubbing of the affected area to avoid aggravating or transferring the infection.
-Patients should be instructed to wash their hands with soap and water after using Acyclovir Cream.
+Instruct patients to wash hands prior to application and ensure the face and/or lips are clean and dry.
+Advise patients to apply Acyclovir Cream topically 5 times per day for 4 days.
+Instruct patients to topically apply a quantity of Acyclovir Cream sufficient to cover the affected area, including the outer margin.
+Advise patients to avoid unnecessary rubbing of the affected area to avoid aggravating or transferring the infection.
+Instruct patients to wash their hands with soap and water after using Acyclovir Cream.
 Keep out of reach of children.
 
 Possible Side Effects
 
 Common skin-related side effects that occurred when Acyclovir Cream was applied include application site reactions.
 Acyclovir Cream has the potential for irritation and contact sensitization.
+
+Manufactured in Canada by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
+
+Manufactured for: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+
+Revised February 2021
+
+9673501

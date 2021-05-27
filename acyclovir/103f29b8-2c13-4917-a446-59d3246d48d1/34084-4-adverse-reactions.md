@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in clinical practice.
 
 In five double-blind, placebo-controlled trials, 1124 patients were treated with Acyclovir Cream and 1161 with placebo (vehicle) cream.
 Local application site reactions were reported by 5% of patients receiving Acyclovir Cream and 4% of patients receiving placebo.
@@ -24,5 +24,4 @@ Because they are reported voluntarily from a population of unknown size, estimat
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to acyclovir cream.
 
 General: Angioedema, anaphylaxis.
-
 Skin: Contact dermatitis, eczema.

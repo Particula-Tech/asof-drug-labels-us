@@ -8,6 +8,6 @@ Acyclovir Cream is intended for cutaneous use only and should not be used in the
 
 ## 5.2 Contact Sensitization
 
-Acyclovir Cream has a potential for irritation and contact sensitization [see Adverse Reactions (6.1)].
+Acyclovir Cream has a potential for irritation and contact sensitization [seeAdverse Reactions (6.1)].
 
 The effect of Acyclovir Cream has not been established in immunocompromised patients.
