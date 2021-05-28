@@ -25,20 +25,33 @@ Patients with an inadequate response to 80 mg once daily were titrated to either
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
 There are no trials of valsartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
 There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
-Pediatric Hypertension The antihypertensive effects of valsartan were evaluated in two randomized, double-blind clinical studies.
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+Pediatric Hypertension
+
+Children Between 1 to Less Than 6 Years of Age
+
+The antihypertensive effect of valsartan in 290 children aged between 1 to less than 6 years of age has been evaluated in three randomized, double-blind clinical studies.
+In the first study in 90 patients, patients who weighed less than 18 kg received 5, 20 or 40 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 18 kg received 10, 40, and 80 mg of valsartan daily (low, medium and high doses).
+At the end of 2 weeks, the three dose levels of valsartan (low, medium and high) reduced systolic blood pressure from the baseline by 8.4, 8.3, and 8.6 mmHg, respectively, but a dose response could not be demonstrated.
+In the second study of 74 patients, higher doses (1 mg/kg and 4 mg/kg daily) of valsartan were associated with numerically greater blood pressure reductions than the lowest dose (0.25 mg/kg) at the end of 6 weeks treatment.
+The third study was a 6 week, randomized double-blind study to evaluate the dose response of valsartan in 126 children 1 to 5 years of age with hypertension, with or without chronic kidney disease (CKD) randomized to receive either valsartan 0.25 mg/kg or 4 mg/kg daily.
+At the end of 6 weeks, dose dependent reductions in mean systolic blood pressure (MSBP) were observed.
+The reduction in MSBP was 8.5 mmHg with valsartan 4 mg/kg and 4.1 mmHg with valsartan 0.25 mg/kg.
+Similarly, the CKD subgroup showed reductions in MSBP with valsartan 4 mg/kg compared to 0.25 mg/kg (9.2 mmHg vs 1.2 mmHg).
+
+Children Between 6 to 16 Years of Age
+
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
-Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mm Hg from the baseline, respectively.
+Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8, 10, and 12 mm Hg from the baseline, respectively.
 Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo.
-In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was -4 and -7 mm Hg lower than patients who received the placebo treatment.
+In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mm Hg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
 
 ## 14.2 Heart Failure
 
-The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF <40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
+The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF less than 40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
 Although Val-HeFT's primary goal was to examine the effect of valsartan when added to an ACE inhibitor, about 7% were not receiving an ACE inhibitor.
 Other background therapy included diuretics (86%), digoxin (67%), and beta-blockers (36%).
 The population studied was 80% male, 46% 65 years or older and 89% Caucasian.
@@ -81,7 +94,7 @@ The number of black patients was small and does not permit a meaningful assessme
 
 ## 14.3 Post-Myocardial Infarction
 
-The VALsartan In Acute myocardial iNfarcTion trial (VALIANT) was a randomized, controlled, multinational, double-blind study in 14,703 patients with acute myocardial infarction and either heart failure (signs, symptoms or radiological evidence) or left ventricular systolic dysfunction (ejection fraction ≤40% by radionuclide ventriculography or ≤35% by echocardiography or ventricular contrast angiography).
+The VALsartan In Acute myocardial iNfarcTion trial (VALIANT) was a randomized, controlled, multinational, double-blind study in 14,703 patients with acute myocardial infarction and either heart failure (signs, symptoms or radiological evidence) or left ventricular systolic dysfunction (ejection fraction ≤ 40% by radionuclide ventriculography or ≤ 35% by echocardiography or ventricular contrast angiography).
 Patients were randomized within 12 hours to 10 days after the onset of myocardial infarction symptoms to one of three treatment groups: valsartan (titrated from 20 or 40 mg twice daily to the highest tolerated dose up to a maximum of 160 mg twice daily), the ACE inhibitor, captopril (titrated from 6.25 mg three times daily to the highest tolerated dose up to a maximum of 50 mg three times daily), or the combination of valsartan plus captopril.
 In the combination group, the dose of valsartan was titrated from 20 mg twice daily to the highest tolerated dose up to a maximum of 80 mg twice daily; the dose of captopril was the same as for monotherapy.
 The population studied was 69% male, 94% Caucasian, and 53% were 65 years of age or older.

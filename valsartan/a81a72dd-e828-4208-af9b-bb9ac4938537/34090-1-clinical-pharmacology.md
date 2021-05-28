@@ -9,7 +9,7 @@ Its action is therefore independent of the pathways for angiotensin II synthesis
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin II following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
-The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th that of valsartan itself.
+The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th(1/200th) that of valsartan itself.
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
 Because valsartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin.
@@ -71,10 +71,10 @@ Age does not affect the apparent clearance in heart failure patients.
 
 Specific Populations:
 
-Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-[see Use in Specific Populations (8.5)].
+Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young [see Use in Specific Populations (8.5)].
 
 Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
@@ -83,9 +83,7 @@ Valsartan is not removed from the plasma by hemodialysis [see Use in Specific Po
 
 Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 
-Drug Interaction Studies
-
-No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+Drug Interaction Studies No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
 
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.

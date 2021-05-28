@@ -11,7 +11,7 @@ In patients who are elderly, volume-depleted (including those on diuretic therap
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
 ## 7.3 Dual Blockade of the Renin-Angiotensin System (RAS)
 
@@ -21,7 +21,7 @@ In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS.
 
 Do not coadminister aliskiren with valsartan in patients with diabetes.
-Avoid use of aliskiren with valsartan in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with valsartan in patients with renal impairment (GFR < 60 mL/min).
 
 ## 7.4 Lithium
 
