@@ -7,7 +7,7 @@ Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have
 Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Endoscopic examination may reveal pseudomembranous colitis.
-Stool culture for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
+Stool culture for Clostridium difficile and stool assay for C.difficile toxin may be helpful diagnostically.
 
 When significant diarrhea occurs, the drug should be discontinued.
 Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea.
@@ -28,7 +28,7 @@ The carcinogenicity of a 1% clindamycin phosphate gel similar to CLINDAGEL was e
 The daily doses used in this study were approximately 3 and 15 times higher than the human dose of clindamycin phosphate from 5 mL of CLINDAGEL, assuming complete absorption and based on a body surface area comparison.
 No significant increase in tumors was noted in the treated animals.
 
-A 1% clindamycin phosphate gel similar to CLINDAGEL caused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight.
+A 1% clindamycin phosphate gel similar to CLINDAGELcaused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight.
 
 Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test.
 Both tests were negative.
@@ -41,7 +41,7 @@ Teratogenic Effects:
 Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride, and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
 The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg.
-For a rat, this dose is 84- fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from CLINDAGELbased on a mg/m2 comparison.
+For a rat, this dose is 84-fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from CLINDAGELbased on a mg/m2 comparison.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 

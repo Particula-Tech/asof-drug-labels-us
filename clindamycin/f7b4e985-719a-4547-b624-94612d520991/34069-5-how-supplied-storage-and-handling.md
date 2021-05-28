@@ -1,29 +1,23 @@
 # HOW SUPPLIED
 
-CLINDAGEL containing clindamycin phosphate equivalent to 10 mg clindamycin per gram, is available in the following size:
+CLINDAGEL containing clindamycin phosphate equivalent to 10 mg clindamycin per gram is available in the following size:
 
 75 mL bottle - NDC 16781-462-75
 
-Store at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+Store at controlled room temperature 20°to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 Do not store in direct sunlight.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC
+Retain in carton until contents are used.
 
-Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: DPT Laboratories, Ltd.
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-San Antonio, Texas 78215 USA
+CLINDAGEL is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-US Patent Number: 6,387,383
+© 2020 Bausch Health Companies Inc. or its affiliates
 
-Clindagel is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-© Valeant Pharmaceuticals North America LLC
-
-9496601-1115
+9706100
 
 Rev.
-11/17
-
-Ortho Dermatologics
+01/20

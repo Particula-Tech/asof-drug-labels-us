@@ -1,20 +1,16 @@
 # Package/Label Display Panel Carton - CLINDAGEL
 
-Rx only
-
 NDC 16781-462-75
+
+Rx only
 
 Clindagel®
 
-(clindamycin phosphate) topical gel
+(clindamycin phosphate) topical gel equivalent to 1% clindamycin
 
-equivalent to 1% clindamycin
-
-Topical Gel
+Topical Gel 1%
 
 For Topical Use Only
-
-1%
 
 75 mL
 
