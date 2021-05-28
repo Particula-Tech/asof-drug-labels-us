@@ -9,4 +9,4 @@ Acetylcysteine has the following structural formula:
 
 ACETADOTE is supplied as a sterile solution in vials containing 20% w/v (200 mg/mL) acetylcysteine.
 The pH of the solution ranges from 6.0 to 7.5.
-ACETADOTE contains the following inactive ingredients: sodium hydroxide (used for pH adjustment), and Sterile Water for Injection, USP.
+ACETADOTE contains the following inactive ingredients: sodium hydroxide (used for pH adjustment), and Water for Injection, USP.
