@@ -7,7 +7,7 @@ Heparin Sodium is supplied in the following strengths and package configurations
 | NDC 0409-1316-32 | 5,000 USP Units/0.5 mL |
 | Bin of 50 Preservative Free |  |
 | 0.5 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System |  |
-| NDC 0409-1402-12 | 5,000 USP Units/1 mL |
+| NDC 0409-1402-12 | 5,000 USP Units/mL |
 | Bin of 50 |  |
 | 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System |  |
 
