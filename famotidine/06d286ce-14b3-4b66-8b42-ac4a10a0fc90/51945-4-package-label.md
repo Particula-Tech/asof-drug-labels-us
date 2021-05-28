@@ -1,5 +1,5 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
 
-20 mg Container Label
+Famotadine Tablets USP, 20 mg - 100s count
 
-40 mg Container Label
+Famotadine Tablets USP, 40 mg - 100s count

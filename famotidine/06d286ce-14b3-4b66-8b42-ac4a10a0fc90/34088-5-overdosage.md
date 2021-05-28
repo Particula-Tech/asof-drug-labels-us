@@ -1,11 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The adverse reactions in overdose cases are similar to the adverse reactions encountered in normal clinical experience (see ADVERSE REACTIONS).
-Oral doses of up to 640 mg/day have been given to adult patients with pathological hypersecretory conditions with no serious adverse effects.
+The types of adverse reactions in overdosage of famotidine tablets are similar to the adverse reactions encountered with use of recommended dosages [see Adverse Reactions (6.1)].
+
 In the event of overdosage, treatment should be symptomatic and supportive.
 Unabsorbed material should be removed from the gastrointestinal tract, the patient should be monitored, and supportive therapy should be employed.
 
-The oral LD50 of famotidine in male and female rats and mice was greater than 3000 mg/kg and the minimum lethal acute oral dose in dogs exceeded 2000 mg/kg.
-Famotidine did not produce overt effects at high oral doses in mice, rats, cats and dogs, but induced significant anorexia and growth depression in rabbits starting with 200 mg/kg/day orally.
-The intravenous LD50 of famotidine for mice and rats ranged from 254-563 mg/kg and the minimum lethal single I.V. dose in dogs was approximately 300 mg/kg.
-Signs of acute intoxication in I.V. treated dogs were emesis, restlessness, pallor of mucous membranes or redness of mouth and ears, hypotension, tachycardia and collapse.
+Due to low binding to plasma proteins, famotidine is eliminated by hemodialysis.
+There is limited experience on the usefulness of hemodialysis as a treatment for famotidine overdosage.
