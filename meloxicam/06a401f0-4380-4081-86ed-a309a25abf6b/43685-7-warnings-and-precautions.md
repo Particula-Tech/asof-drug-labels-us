@@ -14,12 +14,12 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID, such as meloxicam, increases the risk of serious gastrointestinal (GI) events [see WARNINGS AND PRECAUTIONS (5.2)].
+The concurrent use of aspirin and an NSAID, such as meloxicam, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
-NSAIDs are contraindicated in the setting of CABG [see CONTRAINDICATIONS (4)].
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 
 Post-MI Patients
 
@@ -53,7 +53,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue meloxicam until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see DRUG INTERACTIONS (7)].
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 
@@ -63,12 +63,12 @@ In addition, rare, sometimes fatal, cases of severe hepatic injury, including fu
 Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including meloxicam.
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam immediately, and perform a clinical evaluation of the patient [see USE IN SPECIFIC POPULATIONS (8.6) and CLINICAL PHARMACOLOGY (12.3)].
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam immediately, and perform a clinical evaluation of the patient [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 5.4 Hypertension
 
 NSAIDs, including meloxicam, can lead to new onset or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see DRUG INTERACTIONS (7)].
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
@@ -78,7 +78,7 @@ The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of random
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
-Use of meloxicam may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see DRUG INTERACTIONS (7)].
+Use of meloxicam may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
 Avoid the use of meloxicam in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If meloxicam is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
@@ -98,11 +98,11 @@ The renal effects of meloxicam may hasten the progression of renal dysfunction i
 Because some meloxicam metabolites are excreted by the kidney, monitor patients for signs of worsening renal function.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating meloxicam.
-Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of meloxicam [see DRUG INTERACTIONS (7)].
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of meloxicam [see Drug Interactions (7)].
 
 No information is available from controlled clinical studies regarding the use of meloxicam in patients with advanced renal disease.
 Avoid the use of meloxicam in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
-If meloxicam is used in patients with advanced renal disease, monitor patients for signs of worsening renal function [see CLINICAL PHARMACOLOGY (12.3)].
+If meloxicam is used in patients with advanced renal disease, monitor patients for signs of worsening renal function [see Clinical Pharmacology (12.3)].
 
 Hyperkalemia
 
@@ -111,14 +111,14 @@ In patients with normal renal function, these effects have been attributed to a 
 
 ## 5.7 Anaphylactic Reactions
 
-Meloxicam has been associated with anaphylactic reactions in patients with and without known hypersensitivity to meloxicam and in patients with aspirin-sensitive asthma [see CONTRAINDICATIONs (4) and WARNINGS AND PRECAUTIONS (5.8)].
+Meloxicam has been associated with anaphylactic reactions in patients with and without known hypersensitivity to meloxicam and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
 
 Seek emergency help if an anaphylactic reaction occurs.
 
 ## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
-Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, meloxicam is contraindicated in patients with this form of aspirin sensitivity [see CONTRAINDICATIONS (4)].
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, meloxicam is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
 When meloxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## 5.9 Serious Skin Reactions
@@ -126,14 +126,40 @@ When meloxicam is used in patients with preexisting asthma (without known aspiri
 NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of meloxicam at the first appearance of skin rash or any other sign of hypersensitivity.
-Meloxicam is contraindicated in patients with previous serious skin reactions to NSAIDs [see CONTRAINDICATIONS (4)].
+Meloxicam is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Meloxicam may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including meloxicam, in pregnant women starting at 30 weeks of gestation (third trimester) [see USE IN SPECIFIC POPULATIONS (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as meloxicam.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue meloxicam and evaluate the patient immediately.
 
-## 5.11 Hematologic Toxicity
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including meloxicam, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including meloxicam, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including meloxicam, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit meloxicam use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if meloxicam treatment extends beyond 48 hours.
+Discontinue meloxicam if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -141,12 +167,12 @@ If a patient treated with meloxicam has any signs or symptoms of anemia, monitor
 
 NSAIDs, including meloxicam, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
-Monitor these patients for signs of bleeding [see DRUG INTERACTIONS (7)].
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of meloxicam in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].

@@ -85,7 +85,7 @@ Specific Populations
 Pediatric:
 
 After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
-The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see DOSAGE AND ADMINISTRATION (2.4)].
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.4)].
 The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
 
 In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.
@@ -113,7 +113,7 @@ Hepatic Impairment:
 Following a single 15 mg dose of meloxicam there was no marked difference in plasma concentrations in patients with mild (Child-Pugh Class I) or moderate (Child-Pugh Class II) hepatic impairment compared to healthy volunteers.
 Protein binding of meloxicam was not affected by hepatic impairment.
 No dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
-Patients with severe hepatic impairment (Child-Pugh Class III) have not been adequately studied [see WARNINGS AND PRECAUTIONS (5.3) and USE IN SPECIFIC POPULATIONS (8.6)].
+Patients with severe hepatic impairment (Child-Pugh Class III) have not been adequately studied [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Renal Impairment:
 
@@ -122,13 +122,13 @@ Total drug plasma concentrations of meloxicam decreased and total clearance of m
 The higher meloxicam clearance in subjects with renal impairment may be due to increased fraction of unbound meloxicam which is available for hepatic metabolism and subsequent excretion.
 No dosage adjustment is necessary in patients with mild to moderate renal impairment.
 Patients with severe renal impairment have not been adequately studied.
-The use of meloxicam in subjects with severe renal impairment is not recommended [see DOSAGE AND ADMINISTRATION (2.5), WARNINGS AND PRECAUTIONS (5.6) and USE IN SPECIFIC POPULATIONS (8.7)].
+The use of meloxicam in subjects with severe renal impairment is not recommended [see Dosage and Administration (2.5), Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 Hemodialysis:
 
 Following a single dose of meloxicam, the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
 Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
-Meloxicam is not dialyzable [see DOSAGE AND ADMINISTRATION (2.1) and USE IN SPECIFIC POPULATIONS (8.7)].
+Meloxicam is not dialyzable [see Dosage and Administration (2.1) and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
@@ -137,7 +137,7 @@ Aspirin:
 When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 When meloxicam is administered with aspirin (1000 mg three times daily) to healthy volunteers, it tended to increase the AUC (10%) and Cmax (24%) of meloxicam.
 The clinical significance of this interaction is not known.
-See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see DRUG INTERACTIONS (7)].
+See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Cholestyramine:
 
@@ -157,17 +157,17 @@ In vitro testing found no protein binding drug interaction between digoxin and m
 
 Lithium:
 
-In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg QD every day as compared to subjects receiving lithium alone [see DRUG INTERACTIONS (7)].
+In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg QD every day as compared to subjects receiving lithium alone [see Drug Interactions (7)].
 
 Methotrexate:
 
 A study in 13 rheumatoid arthritis (RA) patients evaluated the effects of multiple doses of meloxicam on the pharmacokinetics of methotrexate taken once weekly.
 Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate.
-In vitro, methotrexate did not displace meloxicam from its human serum binding sites [see DRUG INTERACTIONS (7)].
+In vitro, methotrexate did not displace meloxicam from its human serum binding sites [see Drug Interactions (7)].
 
 Warfarin:
 
 The effect of meloxicam on the anticoagulant effect of warfarin was studied in a group of healthy subjects receiving daily doses of warfarin that produced an INR (International Normalized Ratio) between 1.2 and 1.8.
 In these subjects, meloxicam did not alter warfarin pharmacokinetics and the average anticoagulant effect of warfarin as determined by prothrombin time.
 However, one subject showed an increase in INR from 1.5 to 2.1.
-Caution should be used when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see DRUG INTERACTIONS (7)].
+Caution should be used when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see Drug Interactions (7)].

@@ -2,15 +2,17 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- GI Bleeding, Ulceration, and Perforation [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.3)]
-- Hypertension [see WARNINGS AND PRECAUTIONS (5.4)]
-- Heart Failure and Edema [see WARNINGS AND PRECAUTIONS (5.5)]
-- Renal Toxicity and Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.6)]
-- Anaphylactic Reactions [see WARNINGS AND PRECAUTIONS (5.7)]
-- Serious Skin Reactions [see WARNINGS AND PRECAUTIONS (5.9)]
-- Hematologic Toxicity [see WARNINGS AND PRECAUTIONS (5.11)]
+- Cardiovascular Thrombotic Events [see Boxed Warning and Warnings and Precautions(5.1)]
+- GI Bleeding, Ulceration, and Perforation [see Boxed Warning and Warnings and Precautions(5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.10)]
+- Fetal Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -153,4 +155,4 @@ The following is a list of adverse drug reactions occurring in <2% of patients r
 The following adverse reactions have been identified during post approval use of meloxicam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions about whether to include an adverse event from spontaneous reports in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) number of reports, or (3) strength of causal relationship to the drug.
-Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome; toxic epidermal necrolysis, and infertility female.
+Adverse reactions reported in worldwide postmarketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome; toxic epidermal necrolysis, and infertility female.

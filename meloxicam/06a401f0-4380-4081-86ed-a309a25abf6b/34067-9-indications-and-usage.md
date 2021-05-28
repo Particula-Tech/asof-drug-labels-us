@@ -2,12 +2,12 @@
 
 ## 1.1 Osteoarthritis (OA)
 
-Meloxicam tablets USP are indicated for relief of the signs and symptoms of osteoarthritis [see CLINICAL STUDIES (14.1)].
+Meloxicam tablets USP are indicated for relief of the signs and symptoms of osteoarthritis [see Clinical Studies (14.1)].
 
 ## 1.2 Rheumatoid Arthritis (RA)
 
-Meloxicam tablets USP are indicated for relief of the signs and symptoms of rheumatoid arthritis [see CLINICAL STUDIES (14.1)].
+Meloxicam tablets USP are indicated for relief of the signs and symptoms of rheumatoid arthritis [see Clinical Studies (14.1)].
 
 ## 1.3 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
 
-Meloxicam tablets USP are indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients who weigh ≥60 kg [see DOSAGE AND ADMINISTRATION (2.4) and CLINICAL STUDIES (14.2)].
+Meloxicam tablets USP are indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients who weigh ≥60 kg [see Dosage and Administration (2.4) and Clinical Studies (14.2)].

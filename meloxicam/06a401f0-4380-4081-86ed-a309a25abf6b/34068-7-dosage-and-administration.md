@@ -3,12 +3,12 @@
 ## 2.1 General Dosing Instructions
 
 Carefully consider the potential benefits and risks of meloxicam tablets and other treatment options before deciding to use meloxicam tablets.
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see WARNINGS AND PRECAUTIONS (5)].
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
 After observing the response to initial therapy with meloxicam tablets, adjust the dose to suit an individual patient's needs.
 
 In adults, the maximum recommended daily oral dose of meloxicam tablets is 15 mg regardless of formulation.
-In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see USE IN SPECIFIC POPULATIONS (8.7) and CLINICAL PHARMACOLOGY (12.3)].
+In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 Meloxicam tablets may be taken without regard to timing of meals.
 
@@ -33,7 +33,7 @@ Meloxicam tablets should not be used in children who weigh <60 kg.
 
 The use of meloxicam in subjects with severe renal impairment is not recommended.
 
-In patients on hemodialysis, the maximum dosage of meloxicam is 7.5 mg per day [see CLINICAL PHARMACOLOGY (12.3)].
+In patients on hemodialysis, the maximum dosage of meloxicam is 7.5 mg per day [see Clinical Pharmacology (12.3)].
 
 ## 2.6 Non-Interchangeability with Other Formulations of Meloxicam
 
