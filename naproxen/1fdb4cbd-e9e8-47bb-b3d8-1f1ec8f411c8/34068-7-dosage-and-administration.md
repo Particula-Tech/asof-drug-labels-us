@@ -7,7 +7,7 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 After observing the response to initial therapy with naproxen tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
-Naproxen-containing products such as naproxen tablet and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
+Naproxen-containing products such as naproxen tablet, and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
 
 2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
 
@@ -22,7 +22,6 @@ Table 1: Recommended dosages for Naproxen Tablets, USP
 
 During long-term administration, the dose of naproxen may be adjusted up or down depending on the clinical response of the patient.
 A lower daily dose may suffice for long-term administration.
-The morning and evening doses do not have to be equal in size and the administration of the drug more frequently than twice daily is not necessary.
 
 The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response.
 

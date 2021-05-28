@@ -18,7 +18,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 • Serious Skin Reactions [see Warnings and Precautions (5.9)]
 
-• Hematologic Toxicity [see Warnings and Precautions (5.11)]
+• Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 CLINICAL TRIALS EXPERIENCE
 

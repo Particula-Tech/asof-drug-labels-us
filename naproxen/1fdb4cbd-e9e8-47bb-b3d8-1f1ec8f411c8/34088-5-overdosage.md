@@ -4,6 +4,7 @@ Symptoms following acute NSAID overdosages have been typically limited to lethar
 Gastrointestinal bleeding has occurred.
 Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2)].
 Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
+
 A few patients have experienced convulsions, but it is not clear whether or not these were drug-related.
 It is not known what dose of the drug would be life threatening.
 [see Warnings and Precautions (5.1,5.2, 5.4, 5.6)].
