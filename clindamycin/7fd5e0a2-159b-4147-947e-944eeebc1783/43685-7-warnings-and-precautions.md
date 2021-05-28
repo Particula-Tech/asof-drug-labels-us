@@ -1,7 +1,7 @@
 # WARNINGS
 
 Orally and parenterally administered clindamycin has been associated with severe colitis, which may result in patient death.
-Use of the topical formulation of clindamycin results in absorption of theantibiotic from the skin surface.
+Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
 
 Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
@@ -17,9 +17,13 @@ Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up t
 
 # PRECAUTIONS
 
-General: Clindamycin Phosphate Topical Gel should be prescribed with caution in atopic individuals.
+## General:
 
-Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
+Clindamycin Phosphate Topical Gel should be prescribed with caution in atopic individuals.
+
+## Drug Interactions:
+
+Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
@@ -36,12 +40,12 @@ Reproduction studies in rats using oral doses of clindamycin hydrochloride and c
 
 ## Pregnancy:
 
-Teratogenic Effects:
+### Teratogenic Effects:
 
 Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride, and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
 The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg.
-For a rat, this dose is 84- fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from Clindamycin Phosphate Topical Gelbased on a mg/m2 comparison.
+For a rat, this dose is 84-fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from Clindamycin Phosphate Topical Gel based on a mg/m2 comparison.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
