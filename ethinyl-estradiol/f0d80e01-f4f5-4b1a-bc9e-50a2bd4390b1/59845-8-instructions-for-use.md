@@ -1,6 +1,5 @@
-# Instructions for Use
-
-Etonogestrel/Ethinyl Estradiol Vaginal Ring
+| Instructions for UseEtonogestrel/Ethinyl Estradiol Vaginal Ring |
+| --- |
 
 Read these Instructions for Use before you start using Etonogestrel/Ethinyl Estradiol Vaginal Ring and each time you get a refill.
 There may be new information.

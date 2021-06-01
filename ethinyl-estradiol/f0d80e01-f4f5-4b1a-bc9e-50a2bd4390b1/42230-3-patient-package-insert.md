@@ -1,6 +1,5 @@
-# Patient Information
-
-Etonogestrel/Ethinyl Estradiol Vaginal Ring
+| Patient InformationEtonogestrel/Ethinyl Estradiol Vaginal Ring |
+| --- |
 
 | What is the most important information I should know about Etonogestrel/Ethinyl Estradiol Vaginal Ring? Do not use Etonogestrel/Ethinyl Estradiol Vaginal Ring if you smoke cigarettes and are over 35 years old. Smoking increases your risk of serious cardiovascular side effects (heart and blood vessel problems) from combination hormonal contraceptives (CHCs), including death from heart attack, blood clots or stroke. This risk increases with age and the number of cigarettes you smoke. |
 | --- |
@@ -137,7 +136,7 @@ How should I use Etonogestrel/Ethinyl Estradiol Vaginal Ring?
     - For example, if you insert your Etonogestrel/Ethinyl Estradiol Vaginal Ring on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
     - After your 1-week (7 days) break, you should insert a new Etonogestrel/Ethinyl Estradiol Vaginal Ring on the next Monday at 8:00 am.
 - While using Etonogestrel/Ethinyl Estradiol Vaginal Ring, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because Etonogestrel/Ethinyl Estradiol Vaginal Ring may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
-- Ring breakage has occurred when also using a vaginal product such as a lubricant or treatment for infection (see "What should I do if my NuvaRing comes out of my vagina?").
+- Ring breakage has occurred when also using a vaginal product such as a lubricant or treatment for infection (see "What should I do if my Etonogestrel/Ethinyl Estradiol Vaginal Ring comes out of my vagina?").
   Use of spermicides or vaginal yeast products will not make Etonogestrel/Ethinyl Estradiol Vaginal Ring less effective at preventing pregnancy.
 - Use of tampons will not make Etonogestrel/Ethinyl Estradiol Vaginal Ring less effective or stop Etonogestrel/Ethinyl Estradiol Vaginal Ring from working.
 - If Etonogestrel/Ethinyl Estradiol Vaginal Ring has been left inside your vagina for more than 4 weeks (28 days), you may not be protected from pregnancy and you should see your healthcare provider to be sure you are not pregnant.
@@ -265,7 +264,7 @@ This leaflet summarizes the most important information about Etonogestrel/Ethiny
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Etonogestrel/Ethinyl Estradiol Vaginal Ring that is written for health professionals.
 
-For more information on Etonogestrel/Ethinyl Estradiol Vaginal Ring call 1-877-888-4231.
+For more information on Etonogestrel/Ethinyl Estradiol Vaginal Ring call 1-844-674-3200.
 
 What are the ingredients in Etonogestrel/Ethinyl Estradiol Vaginal Ring?
 

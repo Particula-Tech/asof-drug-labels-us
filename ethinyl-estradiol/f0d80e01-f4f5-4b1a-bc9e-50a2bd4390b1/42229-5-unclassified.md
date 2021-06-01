@@ -1,15 +1,15 @@
 Manufactured for: Prasco Laboratories, Mason, OH 45040, USA
 
 Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07302, USA
 
-uspi-gmk8342a-rng-2001r005
+uspi-gog8342a-rng-2106r000
 
 Manufactured for: Prasco Laboratories, Mason, OH 45040, USA
 
 Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07302, USA
 
-Revised: 05/2019
+Revised: 6/2021
 
-usppi-gmk8342a-rng-1905r004
+usppi-gog8342a-rng-2106r000
