@@ -31,7 +31,7 @@ Table 3: Clinical remission and steroid withdrawal
 | Week 54 | 6/54 | 14/56 | 18/53 |
 | Patients in remission able to discontinue corticosteroid used | 11% | 25% | 34% |
 | P-valuec |  | 0.059 | 0.005 |
-| a Infliximab at Week 0 b Infliximab 5 mg/kg administered at Weeks 0, 2 and 6 cP-values represent pairwise comparisons to placebo d Of those receiving corticosteroids at baseline |  |  |  |
+| a Infliximab at Week 0 b Infliximab 5 mg/kg administered at Weeks 0, 2 and 6 c P-values represent pairwise comparisons to placebo d Of those receiving corticosteroids at baseline |  |  |  |
 
 Patients in the infliximab maintenance groups (5 mg/kg and 10 mg/kg) had a longer time to loss of response than patients in the placebo maintenance group (Figure 1).
 At Weeks 30 and 54, significant improvement from baseline was seen among the 5 mg/kg and 10 mg/kg infliximab-treated groups compared to the placebo group in the disease-specific inflammatory bowel disease questionnaire (IBDQ), particularly the bowel and systemic components, and in the physical component summary score of the general health-related quality of life questionnaire SF-36.
@@ -114,7 +114,7 @@ Table 4: Response and remission in study peds Crohn’s
 | Clinical Remissionb |  |  |
 | Week 30 | 60%c | 35% |
 | Week 54 | 56%d | 24% |
-| a Defined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. b Defined as a PCDAI score of ≤10 points. cP-value <0.05 dP-value <0.01 |  |  |
+| a Defined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. b Defined as a PCDAI score of ≤10 points. c P-value <0.05 d P-value <0.01 |  |  |
 
 ## 14.3 Ulcerative Colitis
 
