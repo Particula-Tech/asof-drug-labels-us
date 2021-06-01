@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020788"
+  ],
+  "inn": "finasteride",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-152-01",
+    "78206-152-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "PROPECIA"
+    }
+  ],
+  "setid": "6f904709-65aa-44ce-b144-b4c8a0416e36",
+  "source": "dailymed"
+}
