@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021165"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-119-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "desloratadine",
+      "name": "Clarinex"
+    }
+  ],
+  "setid": "c671342e-69a2-4ca5-abc2-8166ed4240d4",
+  "source": "dailymed"
+}
