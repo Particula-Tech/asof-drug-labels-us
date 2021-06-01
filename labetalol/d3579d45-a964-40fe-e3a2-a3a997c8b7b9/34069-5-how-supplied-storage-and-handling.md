@@ -2,7 +2,10 @@
 
 Labetalol hydrochloride injection, USP 5 mg/mL, is supplied in:
 
-4 mL (20 mg) CarpujectTM, Single-dose cartridge with Luer Lock for the Carpuject Syringe System, box of 1, NDC 0409-2339-34.
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-2339-34 | 20 mg/4 mL |
+| Bundle containing 10 cartons of 1 Single-dose Carpuject™ cartridge with Luer Lock for the Carpuject Syringe System | (5 mg/mL) |
 
 Instructions for Use of the Syringe Systems
 
@@ -17,6 +20,6 @@ Note: To prevent needle-stick injuries, needles and blunt cannulas should not be
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1223-2.0
+LAB-1223-3.0
 
-Revised: 04/2018
+Revised: 05/2021
