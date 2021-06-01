@@ -37,7 +37,7 @@ No topical embryofetal development studies were conducted with hydrocortisone bu
 However, topical embryofetal development studies were conducted in rats and rabbits with a hydrocortisone butyrate ointment formulation.
 Topical doses of 1% and 10% hydrocortisone butyrate ointment were administered to pregnant female rats during gestation days 6 – 15 or pregnant female rabbits during gestation days 6 – 18.
 A dose-dependent increase in fetal resorptions was noted in rabbits (0.2 – 2X MTHD) and fetal resorptions were noted in rats at the 10% hydrocortisone butyrate ointment dose (80X MTHD).
-No treatment-related effects on embyrofetal toxicity were noted at the 1% hydrocortisone butyrate ointment dose in rats (8X MTHD).
+No treatment-related effects on embryofetal toxicity were noted at the 1% hydrocortisone butyrate ointment dose in rats (8X MTHD).
 A dose at which no treatment-related effects on embryofetal toxicity were observed in rabbits after topical administration of hydrocortisone butyrate ointment was not established in this study.
 No treatment-related effects on teratogenicity were noted at a dose of 10% hydrocortisone butyrate ointment in rats or rabbits (80X MTHD and 2X MTHD, respectively).
 

@@ -3,9 +3,9 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - •HPA axis suppression.
-  This has been observed in pediatric subjects using LOCOID Lotion [seeWarnings and Precautions(5.1) andUse in Specific Populations(8.4)]
-- •Concomitant skin infections [seeWarnings and Precautions (5.2)]
-- •Allergic contact dermatitis [see Warnings and Precautions(5.3)]
+  This has been observed in pediatric subjects using LOCOID Lotion [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)]
+- •Concomitant skin infections [see Warnings and Precautions (5.2)]
+- •Allergic contact dermatitis [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

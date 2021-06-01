@@ -12,16 +12,16 @@ Patients using LOCOID Lotion should receive the following information and instru
 - •If no improvement is seen within 2 weeks, contact physician.
 - •Do not use other corticosteroid-containing products while using LOCOID Lotion without first consulting physician.
 
-Manufactured for:
+Distributed by:
 
-Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By:
+Manufactured by:
 
 Ferndale Laboratories, Inc. Ferndale, MI 48220 USA
 
 U.S. Patent Number: 7,981,877
 
-Locoid is a trademark of Leo Pharma A/S used under license. © Valeant Pharmaceuticals North America LLC
+Locoid is a trademark of Leo Pharma A/S used under license. © 2021 Bausch Health Companies Inc. or its affiliates
 
-9421801
+9421802
