@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020762"
+  ],
+  "inn": "mometasone",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-144-01"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "mometasone furoate monohydrate",
+      "name": "NASONEX"
+    }
+  ],
+  "setid": "913422a9-9c8a-4cea-ac4a-482d89febf3a",
+  "source": "dailymed"
+}
