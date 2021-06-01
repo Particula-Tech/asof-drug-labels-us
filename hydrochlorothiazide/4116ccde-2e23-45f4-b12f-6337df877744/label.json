@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020387"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-139-01",
+    "78206-139-02",
+    "78206-140-01",
+    "78206-140-02",
+    "78206-141-01",
+    "78206-141-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium and hydrochlorothiazide",
+      "name": "HYZAAR"
+    }
+  ],
+  "setid": "4116ccde-2e23-45f4-b12f-6337df877744",
+  "source": "dailymed"
+}
