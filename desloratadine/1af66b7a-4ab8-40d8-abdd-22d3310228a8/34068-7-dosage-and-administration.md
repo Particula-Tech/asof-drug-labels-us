@@ -1,0 +1,11 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Administer CLARINEX-D 12 HOUR Extended Release Tablet by the oral route only.
+Do not break, chew, or crush the tablet.
+Swallow the tablet whole.
+
+## 2.1 Adults and Adolescents 12 years of Age and Over
+
+The recommended dose of CLARINEX-D 12 HOUR Extended Release Tablets is 1 tablet twice a day, administered approximately 12 hours apart and with or without a meal.
+Higher doses or increased dosing frequency of CLARINEX-D 12 HOUR Extended Release Tablets have not demonstrated increased effectiveness.
+Do not exceed the recommended dose as desloratadine and pseudoephedrine, the active components of CLARINEX-D 12 HOUR Extended Release Tablets have been associated with adverse effects at higher doses [see Overdosage (10.1) and (10.2)].

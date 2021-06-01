@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021313"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-120-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desloratadine and pseudoephedrine sulfate",
+      "name": "CLARINEX-D 12 HOUR"
+    }
+  ],
+  "setid": "1af66b7a-4ab8-40d8-abdd-22d3310228a8",
+  "source": "dailymed"
+}

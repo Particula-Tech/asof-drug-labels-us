@@ -1,0 +1,19 @@
+# 10 OVERDOSAGE
+
+In the event of overdose, consider standard measures to remove any unabsorbed drug.
+Symptomatic and supportive treatment is recommended.
+Desloratadine and 3-hydroxydesloratadine are not eliminated by hemodialysis.
+
+## 10.1 Desloratadine
+
+Information regarding acute overdosage with desloratadine is limited to experience from post-marketing adverse event reports and from clinical trials conducted during the development of the CLARINEX product.
+In the reported cases of overdose, there were no significant adverse events that were attributed to desloratadine.
+In a dose-ranging trial, at doses of 10 mg and 20 mg/day, somnolence was reported.
+
+In another study, no clinically relevant adverse events were reported in normal male and female volunteers who were given single daily doses of CLARINEX 45 mg for 10 days [see Clinical Pharmacology (12.2)].
+
+## 10.2 Sympathomimetics
+
+In large doses, sympathomimetics such as pseudoephedrine may give rise to giddiness, headache, nausea, vomiting, sweating, thirst, tachycardia, precordial pain, palpitations, difficulty in micturition, muscle weakness and tenseness, anxiety, restlessness, and insomnia.
+Many patients can present a toxic psychosis with delusions and hallucinations.
+Some may develop cardiac arrhythmias, circulatory collapse, convulsions, coma, and respiratory failure.
