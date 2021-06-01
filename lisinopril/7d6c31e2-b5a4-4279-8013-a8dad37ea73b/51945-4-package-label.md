@@ -60,8 +60,26 @@ NDC 68180-517-01
 
 LISINOPRIL TABLETS USP
 
+Rx Only
+
+40 mg
+
+NDC 68180-979-01
+
+100 Tablets
+
+LISINOPRIL TABLETS USP
+
 40 mg
 
 NDC 68180-517-30
+
+5000 Tablets Bulk Pouch for Repackaging
+
+LISINOPRIL TABLETS USP
+
+40 mg
+
+NDC 68180-979-30
 
 5000 Tablets Bulk Pouch for Repackaging

@@ -9,7 +9,7 @@ Lisinopril tablet USP is available as uncoated biconvex tablets in bottles of be
 | 10 mg | Pink | Round | No | LUPIN/10 | Bottles of 90: 68180-980-09 Bottles of 100: 68180-980-01 Bottles of 500: 68180-980-02 Bottles of 1000: 68180-980-03 Bottles of 5000: 68180-980-05 |
 | 20 mg | Pink | Round | No | LUPIN/20 | Bottles of 90: 68180-981-09 Bottles of 100: 68180-981-01 Bottles of 500: 68180-981-02 Bottles of 1000: 68180-981-03 Bottles of 5000: 68180-981-05 |
 | 30 mg | Red | Round | No | LUPIN/30 | Bottles of 90: 68180-982-09 Bottles of 100: 68180-982-01 Bottles of 500: 68180-982-02 Bottles of 1000: 68180-982-03 |
-| 40 mg | Yellow | Round | No | LUPIN/40 | Bottles of 90: 68180-517-09 Bottles of 100: 68180-517-01 Bottles of 500: 68180-517-02 Bottles of 1000: 68180-517-03 Bottles of 2000: 68180-517-04 |
+| 40 mg | Yellow | Round | No | LUPIN/40 | Bottles of 90: 68180-979-09 Bottles of 100: 68180-979-01 Bottles of 1000: 68180-979-03 |
 
 Store at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP].
 Protect from moisture, freezing and excessive heat.
