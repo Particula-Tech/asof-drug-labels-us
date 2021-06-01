@@ -62,9 +62,10 @@ OPDIVO, as a single agent or in combination with ipilimumab, is indicated for th
 This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.10)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.11 Esophageal Squamous Cell Carcinoma
+## 1.11 Esophageal Cancer
 
-OPDIVO is indicated for the treatment of patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.
+- •OPDIVO is indicated for the adjuvant treatment of completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease in patients who have received neoadjuvant chemoradiotherapy (CRT).
+- •OPDIVO is indicated for the treatment of patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.
 
 ## 1.12 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
 

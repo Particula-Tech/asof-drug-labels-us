@@ -63,6 +63,9 @@ No overall differences in safety or effectiveness were reported between elderly 
 In ATTRACTION-3 (esophageal squamous cell carcinoma), 53% of patients were 65 years or older and 10% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
+In CHECKMATE-577 (adjuvant treatment of esophageal or gastroesophageal junction cancer), 36% of patients were 65 years or older and 5% were 75 years or older.
+No overall differences in safety or effectiveness were reported between elderly patients (65 years or older) and younger patients.
+
 CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in CHECKMATE-067, 41% were 65 years or older and 11% were 75 years or older.
