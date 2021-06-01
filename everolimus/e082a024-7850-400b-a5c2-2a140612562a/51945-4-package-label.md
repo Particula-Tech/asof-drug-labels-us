@@ -1,19 +1,71 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 0.25 mg Rx Only NDC 0078-0417-20 Zortress® (everolimus) Tablets 0.25 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
+NDC 0078-0417-20
+
+Rx only
+
+ZORTRESS®
+
+(everolimus) Tablets
+
+0.25 mg per tablet
+
 Contents: 6 blister cards of 10 tablets each
 
-PRINCIPAL DISPLAY PANEL
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.
 
-Package Label – 0.5 mg Rx Only NDC 0078-0414-20 Zortress® (everolimus) Tablets 0.5 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0414-20
+
+Rx only
+
+ZORTRESS®
+
+(everolimus) Tablets
+
+0.5 mg per tablet
+
 Contents: 6 blister cards of 10 tablets each
 
-PRINCIPAL DISPLAY PANEL
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.
 
-Package Label – 0.75 mg Rx Only NDC 0078-0415-20 Zortress® (everolimus) Tablets 0.75 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0415-20
+
+Rx only
+
+ZORTRESS®
+
+(everolimus) Tablets
+
+0.75 mg per tablet
+
 Contents: 6 blister cards of 10 tablets each
 
-PRINCIPAL DISPLAY PANEL
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.
 
-Package Label – 1 mg Rx Only NDC 0078-0422-20 Zortress® (everolimus) Tablets 1 mg per tablet Dispense With Medication Guide Enclosed or Provided Separately.
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0422-20
+
+Rx only
+
+ZORTRESS®
+
+(everolimus) Tablets
+
+1 mg per tablet
+
 Contents: 6 blister cards of 10 tablets each
+
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.
+
+NOVARTIS
