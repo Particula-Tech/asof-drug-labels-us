@@ -61,7 +61,7 @@ Infants did not receive breast milk obtained during the dosing period, therefore
 Infertility Male Effects on Spermatogenesis In a randomized, double-blind, placebo-controlled non-inferiority study to assess the effect of pregabalin on sperm characteristics, healthy male subjects received pregabalin at a daily dose up to 600 mg (n=111) or placebo (n=109) for 13 weeks (one complete sperm cycle) followed by a 13-week washout period (off-drug).
 A total of 65 subjects in the pregabalin group (59%) and 62 subjects in the placebo group (57%) were included in the per protocol (PP) population.
 These subjects took study drug for at least 8 weeks, had appropriate timing of semen collections and did not have any significant protocol violations.
-Among these subjects, approximately 9% of the pregabalin group (6/65) vs. 3% in the placebo group (2/62) had greater than or equal to 50% reduction in meansperm concentrations from baseline at Week 26 (the primary endpoint).
+Among these subjects, approximately 9% of the pregabalin group (6/65) vs. 3% in the placebo group (2/62) had greater than or equal to 50% reduction in mean sperm concentrations from baseline at Week 26 (the primary endpoint).
 The difference between pregabalin and placebo was within the pre-specified non-inferiority margin of 20%.
 There were no adverse effects of pregabalin on sperm morphology, sperm motility, serum FSH or serum testosterone levels as compared to placebo.
 In subjects in the PP population with greater than or equal to 50% reduction in sperm concentration from baseline, sperm concentrations were no longer reduced by greater than or equal to 50% in any affected subject after an additional 3 months off-drug.
@@ -73,7 +73,7 @@ In the animal fertility study with pregabalin in male rats, adverse reproductive
 
 Neuropathic Pain Associated with Diabetic Peripheral Neuropathy, Postherpetic Neuralgia, and Neuropathic Pain Associated with Spinal Cord Injury Safety and effectiveness in pediatric patients have not been established.
 Fibromyalgia Safety and effectiveness in pediatric patients have not been established.
-Adjunctive Therapy for Partial Onset Seizures Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
+Adjunctive Therapy for Partial-Onset Seizures Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
 Juvenile Animal Data
 
 In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.

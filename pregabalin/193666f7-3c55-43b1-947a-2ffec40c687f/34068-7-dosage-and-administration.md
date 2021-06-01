@@ -3,7 +3,7 @@
 ## 2.1 Important Administration Instructions
 
 Pregabalin capsule is given orally with or without food.
-When discontinuing pregabalin capsules, taper gradually over a minimum of 1 week.[see Warnings and Precautions (5.3)].
+When discontinuing pregabalin capsules, taper gradually over a minimum of 1 week.[see Warnings and Precautions (5.6)].
 Because pregabalin capsule is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
 ## 2.2Neuropathic Pain Associated with Diabetic Peripheral Neuropathy in Adults
@@ -24,7 +24,7 @@ In view of the dose-dependent adverse reactions and the higher rate of treatment
 
 ## 2.4 Adjunctive Therapy for Partial Onset Seizures in Patients 17 Years of Age and Older
 
-The recommended dosage for adult patients 17 years of age and older is included in Table 1.Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
+The recommended dosages for adult patients 17 years of age and older are included in Table 1.Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 Table 1: Recommended Dosage for Adult Patients 17 Years and Older
 

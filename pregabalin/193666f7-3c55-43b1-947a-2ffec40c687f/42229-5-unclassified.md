@@ -13,6 +13,7 @@ Pregabalin capsules may cause serious side effects including:
 
 - serious, even life-threatening, allergic reactions
 - suicidal thoughts or actions
+- serious breathing problems
 - swelling of your hands, legs and feet
 - dizziness and sleepiness
 
@@ -56,7 +57,9 @@ How can I watch for early symptoms of suicidal thoughts and actions?
   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   - Keep all follow-up visits with your healthcare provider as scheduled.
   - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-
+- Serious breathing problems can occur when pregabalin is taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+  Watch for increased sleepiness or decreased breathing when starting pregabalin or when the dose is increased.
+  Get help right away if breathing problems occur.
 - Swelling of your hands, legs and feet.
   This swelling can be a serious problem for people with heart problems.
 - Dizziness and sleepiness.Do not drive a car, work with machines, or do other dangerous activities until you know how pregabalin capsule affects you.
@@ -89,6 +92,7 @@ What should I tell my healthcare provider before taking pregabalin capsules?
 Before taking pregabalin capsules, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior.
+- have breathing problems.
 - have kidney problems or get kidney dialysis.
 - have heart problems including heart failure.
 - have a bleeding problem or a low blood platelet count.
@@ -119,7 +123,7 @@ Especially tell your healthcare provider if you take:
   You may have a higher chance for swelling and hives if these medicines are taken with pregabalin capsules.
 - Avandia (rosiglitazone) or Actos (pioglitazone) for diabetes.
   You may have a higher chance of weight gain or swelling of your hands or feet if these medicines are taken with pregabalin capsules.
-- any narcotic pain medicine (such as oxycodone), tranquilizers or medicines for anxiety (such as lorazepam).
+- any opioid pain medicine (such as oxycodone), tranquilizers or medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem).
   You may have a higher chance for dizziness and sleepiness if these medicines are taken with pregabalin capsules.
 - any medicines that make you sleepy
 
@@ -205,6 +209,9 @@ Active ingredient: pregabalin Inactive ingredients: Pregabalin capsules: Mannito
 Black imprinting ink contains shellac, propylene glycol, black iron oxide and potassium hydroxide.
 Pediatric use information is approved for Pfizer's LYRICA (pregabalin) Capsules and Oral Solution products.
 However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-This Medication Guide has been approved by the U.S. Food and Drug Administration Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714
+You can also visit the pregabalin capsules at Novadoz Pharmaceuticals LLC or call 1-855-668-2369.
+This Medication Guide has been approved by the U.S. Food and Drug Administration Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
-Issued on: July 2019
+Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714
+
+Issued on: June 2020

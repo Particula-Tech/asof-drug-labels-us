@@ -1,9 +1,8 @@
 # 10 OVERDOSAGE
 
-Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans
-
-There is limited experience with overdose of pregabalin.
-The highest reported accidental overdose of pregabalin during the clinical development program was 8,000 mg, and there were no notable clinical consequences.
+Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans In the postmarketing experience, the most commonly reported adverse events observed with pregabalin when taken in overdose include reduced consciousness, depression/anxiety, confusional state, agitation, and restlessness.
+Seizures and heart block have also been reported.
+Deaths have been reported in the setting of lone Pregabalin overdose and in combination with other CNS depressants.
 
 Treatment or Management of Overdose
 
@@ -11,6 +10,5 @@ There is no specific antidote for overdose with pregabalin.
 If indicated, elimination of unabsorbed drug may be attempted by emesis or gastric lavage; observe usual precautions to maintain the airway.
 General supportive care of the patient is indicated including monitoring of vital signs and observation of the clinical status of the patient.
 Contact a Certified Poison Control Center for up­-to-date information on the management of overdose with pregabalin.
-
-Although hemodialysis has not been performed in the few known cases of overdose, it may be indicated by the patient's clinical state or in patients with significant renal impairment.
+Pregabalin can be removed by hemodialysis.
 Standard hemodialysis procedures result in significant clearance of pregabalin (approximately 50% in 4 hours).

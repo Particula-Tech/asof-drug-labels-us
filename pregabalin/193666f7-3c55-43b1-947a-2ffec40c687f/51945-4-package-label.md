@@ -1,6 +1,8 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-25 mg-container-label-90's-count 50 mg-container-label-90's-count
+25 mg-container-label-90's-count
+
+50 mg-container-label-90's-count
 
 75 mg-container-label-90's-count
 
