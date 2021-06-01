@@ -1,0 +1,78 @@
+# 7 DRUG INTERACTIONS
+
+[See Clinical Pharmacology (12.3).]
+
+VYTORIN
+
+## 7.1 Strong CYP3A4 Inhibitors, Cyclosporine, or Danazol
+
+Strong CYP3A4 inhibitors: The risk of myopathy is increased by reducing the elimination of the simvastatin component of VYTORIN.
+Hence when VYTORIN is used with an inhibitor of CYP3A4 (e.g., as listed below), elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of VYTORIN.
+[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 is contraindicated [see Contraindications (4)].
+If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
+
+Cyclosporine or Danazol: The risk of myopathy, including rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol.
+Therefore, concomitant use of these drugs is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
+
+Gemfibrozil: Contraindicated with VYTORIN [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Fenofibrates (e.g., fenofibrate and fenofibric acid): Caution should be used when prescribing with VYTORIN [see Warnings and Precautions (5.1) and Drug Interactions (7.7)].
+
+## 7.3 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers
+
+The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem or amlodipine [see Dosage and Administration (2.3) and Warnings and Precautions (5.1) and Table 6 in Clinical Pharmacology (12.3)].
+
+## 7.4 Niacin
+
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+The risk of myopathy is greater in Chinese patients.
+In a clinical trial (median follow-up 3.9 years) involving patients at high risk of cardiovascular disease and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses (≥1 g/day) of niacin.
+Coadministration of VYTORIN with lipid-modifying doses (≥1 g/day) of niacin is not recommended in Chinese patients.
+It is unknown if this risk applies to other Asian patients [see Warnings and Precautions (5.1) and Use in Specific Populations (8.8)].
+
+## 7.5 Cholestyramine
+
+Concomitant cholestyramine administration decreased the mean AUC of total ezetimibe approximately 55%.
+The incremental LDL-C reduction due to adding VYTORIN to cholestyramine may be reduced by this interaction.
+
+## 7.6 Digoxin
+
+In one study, concomitant administration of digoxin with simvastatin resulted in a slight elevation in plasma digoxin concentrations.
+Patients taking digoxin should be monitored appropriately when VYTORIN is initiated.
+
+## 7.7 Fenofibrates (e.g., fenofibrate and fenofibric acid)
+
+The safety and effectiveness of VYTORIN administered with fibrates have not been established.
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of fenofibrates, VYTORIN should be administered with caution when used concomitantly with a fenofibrate [see Warnings and Precautions (5.1)].
+
+Fenofibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
+In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile [see Animal Toxicology and/or Pharmacology (13.2)].
+If cholelithiasis is suspected in a patient receiving VYTORIN and a fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered [see the product labeling for fenofibrate and fenofibric acid].
+
+## 7.8 Coumarin Anticoagulants
+
+Simvastatin 20-40 mg/day modestly potentiated the effect of coumarin anticoagulants: the prothrombin time, reported as International Normalized Ratio (INR), increased from a baseline of 1.7 to 1.8 and from 2.6 to 3.4 in a normal volunteer study and in a hypercholesterolemic patient study, respectively.
+With other statins, clinically evident bleeding and/or increased prothrombin time has been reported in a few patients taking coumarin anticoagulants concomitantly.
+In such patients, prothrombin time should be determined before starting VYTORIN and frequently enough during early therapy to ensure that no significant alteration of prothrombin time occurs.
+Once a stable prothrombin time has been documented, prothrombin times can be monitored at the intervals usually recommended for patients on coumarin anticoagulants.
+If the dose of VYTORIN is changed or discontinued, the same procedure should be repeated.
+Simvastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants.
+
+Concomitant administration of ezetimibe (10 mg once daily) had no significant effect on bioavailability of warfarin and prothrombin time in a study of twelve healthy adult males.
+There have been postmarketing reports of increased INR in patients who had ezetimibe added to warfarin.
+Most of these patients were also on other medications.
+
+The effect of VYTORIN on the prothrombin time has not been studied.
+
+## 7.9 Colchicine
+
+Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine.
+
+## 7.10 Daptomycin
+
+Cases of rhabdomyolysis have been reported with VYTORIN administered with daptomycin.
+Both VYTORIN and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration.
+Temporarily suspend VYTORIN in patients taking daptomycin [see Warnings and Precautions (5.1)].

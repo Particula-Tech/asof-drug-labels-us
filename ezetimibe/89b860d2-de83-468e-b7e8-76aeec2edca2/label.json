@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021687"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-174-01",
+    "78206-174-02",
+    "78206-175-01",
+    "78206-175-02",
+    "78206-176-01",
+    "78206-176-02",
+    "78206-177-01",
+    "78206-177-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe and simvastatin",
+      "name": "VYTORIN"
+    }
+  ],
+  "setid": "89b860d2-de83-468e-b7e8-76aeec2edca2",
+  "source": "dailymed"
+}
