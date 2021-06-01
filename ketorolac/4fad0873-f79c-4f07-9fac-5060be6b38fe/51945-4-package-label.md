@@ -1,10 +1,10 @@
 Principal Display Panel
 
-ALLERGAN
+ALLERGAN™
 
 NDC 0023-9277-05
 
-ACULAR LS®
+ACULAR LS™
 
 (ketorolac tromethamine
 
