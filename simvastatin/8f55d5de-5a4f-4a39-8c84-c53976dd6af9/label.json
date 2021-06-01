@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA019766"
+  ],
+  "inn": "simvastatin",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-179-01",
+    "78206-179-02",
+    "78206-180-01",
+    "78206-180-02",
+    "78206-181-01",
+    "78206-181-02",
+    "78206-182-01",
+    "78206-182-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "simvastatin",
+      "name": "ZOCOR"
+    }
+  ],
+  "setid": "8f55d5de-5a4f-4a39-8c84-c53976dd6af9",
+  "source": "dailymed"
+}
