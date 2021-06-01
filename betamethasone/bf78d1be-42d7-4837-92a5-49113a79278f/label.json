@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA014602"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-118-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "betamethasone acetate and betamethasone sodium phosphate",
+      "name": "CELESTONE SOLUSPAN"
+    }
+  ],
+  "setid": "bf78d1be-42d7-4837-92a5-49113a79278f",
+  "source": "dailymed"
+}
