@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA020864",
+    "NDA020865"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-142-01",
+    "78206-142-99",
+    "78206-143-01",
+    "78206-143-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rizatriptan benzoate",
+      "name": "MAXALT"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "rizatriptan benzoate",
+      "name": "MAXALT-MLT"
+    }
+  ],
+  "setid": "007b4644-e0e7-4863-9ae3-fe09676b3f5f",
+  "source": "dailymed"
+}
