@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA021067"
+  ],
+  "inn": "mometasone",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-114-01",
+    "78206-114-02",
+    "78206-114-03",
+    "78206-114-04",
+    "78206-114-59",
+    "78206-115-01",
+    "78206-115-59"
+  ],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "mometasone furoate",
+      "name": "ASMANEX"
+    }
+  ],
+  "setid": "10b36fb2-6b0d-4f20-b197-3564d6f594b9",
+  "source": "dailymed"
+}
