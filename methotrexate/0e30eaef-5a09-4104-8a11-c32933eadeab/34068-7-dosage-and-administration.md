@@ -1,133 +1,156 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Neoplastic Diseases
+## 2.1 Important Dosage and Safety Information
 
-For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
-Do not use the preserved formulation of methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
+- Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
+  Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required and preservative-free formulations are not available [see Warnings and Precautions (5.3) and Use in Specific Populations (8.4)].
+- Verify pregnancy status in females of reproductive potential before starting Methotrexate Injection [see Contraindications (4) and Warnings and Precautions (5.1)].
+- For patients switching between a methotrexate product administered orally and Methotrexate Injection, consider potential differences in bioavailability.
 
-Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
-Methotrexate injection may be given by the intramuscular, intravenous or intra-arterial route.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+## 2.2 Recommended Monitoring and Concomitant Therapies for Intermediate- and High-Dose Regimens
 
-Choriocarcinoma and similar trophoblastic diseases: Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
-Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
-The effectiveness of therapy is ordinarily evaluated by 24 hour quantitative analysis of urinary chorionic gonadotropin (hCG), which should return to normal or less than 50 IU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
-One to two courses of methotrexate after normalization of hCG is usually recommended.
-Before each course of the drug careful clinical assessment is essential.
-Cyclic combination therapy of methotrexate with other antitumor drugs has been reported as being useful.
+To decrease the risk of severe adverse reactions [see Warnings and Precautions (5)]:
 
-Since hydatidiform mole may precede choriocarcinoma, prophylactic chemotherapy with methotrexate has been recommended.
+- Administer leucovorin rescue in patients receiving Methotrexate Injection doses of 500 mg/m2 or greater (e.g., high-dose).
+- Consider leucovorin rescue for patients receiving Methotrexate Injection doses between 100 mg/m2 to less than 500 mg/m2 (e.g., intermediate-dose).
+  Refer to the leucovorin Prescribing Information for additional information.
+- For high-dose Methotrexate Injection regimens, follow the supportive care and monitoring instructions below.
+  Also consider for patients receiving intermediate-dose Methotrexate Injection regimens.
+  - –Monitor serum creatinine, electrolytes, at baseline and at least daily during therapy
+  - –Administer intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
+  - –Alkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
+  - –Monitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
+- Administer glucarpidase in patients who have toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information for additional information)
 
-Chorioadenoma destruens is considered to be an invasive form of hydatidiform mole.
-Methotrexate is administered in these disease states in doses similar to those recommended for choriocarcinoma.
+## 2.3 Recommended Dosage for Acute Lymphoblastic Leukemia
 
-Leukemia: Acute lymphoblastic leukemia in pediatric patients and young adolescents is the most responsive to present day chemotherapy.
-In young adults and older patients, clinical remission is more difficult to obtain and early relapse is more common.
+Methotrexate Injection is used as part of a multi-drug regimen.
+The recommended dosage varies from 10 to 5000 mg/m2 intravenously.
+For high dose Methotrexate Injection regimens, use leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
+Lower doses (e.g., 20 to 30 mg/m2/week) may be used intramuscularly.
+Individualize the dose and schedule of Methotrexate Injection based on disease state, patient risk category, concurrent drugs used, phase of treatment, and response to treatment.
 
-Methotrexate alone or in combination with steroids was used initially for induction of remission in acute lymphoblastic leukemias.
-More recently corticosteroid therapy, in combination with other antileukemic drugs or in cyclic combinations with methotrexate included, has appeared to produce rapid and effective remissions.
-When used for induction, methotrexate in doses of 3.3 mg/m2 in combination with 60 mg/m2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
-Methotrexate in combination with other agents appears to be the drug of choice for securing maintenance of drug-induced remissions.
-When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate is administered 2 times weekly either by mouth or intramuscularly in total weekly doses of 30 mg/m2.
-It has also been given in doses of 2.5 mg/kg intravenously every 14 days.
-If and when relapse does occur, reinduction of remission can again usually be obtained by repeating the initial induction regimen.
+## 2.4 Recommended Dosage for Meningeal Leukemia: Prophylaxis and Treatment
 
-A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
-The physician should be familiar with the new advances in antileukemic therapy.
+Use only preservative-free Methotrexate Injection for intrathecal use.
 
-Lymphomas: In Burkitt's tumor, Stages I-II, methotrexate has produced prolonged remissions in some cases.
-Recommended dosage is 10 to 25 mg/day orally for 4 to 8 days.
-In Stage III, methotrexate is commonly given concomitantly with other antitumor agents.
-Treatment in all stages usually consists of several courses of the drug interposed with 7 to 10 day rest periods.
-Lymphosarcomas in Stage III may respond to combined drug therapy with methotrexate given in doses of 0.625 to 2.5 mg/kg daily.
+Prior to administration, dilute preservative-free Methotrexate Injection to a concentration of 1 mg/mL in preservative-free 0.9% Sodium Chloride Injection, USP.
 
-Mycosis fungoides (cutaneous T cell lymphoma): Therapy with methotrexate as a single agent appears to produce clinical responses in up to 50% of patients treated.
-Dosage in early stages is usually 5 to 50 mg once weekly.
-Dose reduction or cessation is guided by patient response and hematologic monitoring.
-Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy.
-Combination chemotherapy regimens that include intravenous methotrexate administered at higher doses with leucovorin rescue have been utilized in advanced stages of the disease.
+The recommended intrathecal dose of Methotrexate Injection (preservative-free) is based on age:
 
-Osteosarcoma: An effective adjuvant chemotherapy regimen requires the administration of several cytotoxic chemotherapeutic agents.
-In addition to high-dose methotrexate with leucovorin rescue, these agents may include doxorubicin, cisplatin, and the combination of bleomycin, cyclophosphamide and dactinomycin (BCD) in the doses and schedule shown in the table below.
-The starting dose for high-dose methotrexate treatment is 12 grams/m2.
-If this dose is not sufficient to produce a peak serum methotrexate concentration of 1,000 micromolar (10-3 mol/L) at the end of the methotrexate infusion, the dose may be escalated to 15 grams/m2 in subsequent treatments.
-If the patient is vomiting or is unable to tolerate oral medication, leucovorin is given IV or IM at the same dose and schedule.
+- -less than 1 year: 6 mg
+- -1 to less than 2 years: 8 mg
+- -2 to less than 3 years: 10 mg
+- -3 to less than 9 years: 12 mg
+- -greater than or equal to 9 years: 12 to15 mg
 
-| DrugLink MP, Goorin AM, Miser AW, et al: The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity. N Engl J of Med 1986; 314 (No.25): 1600-1606. | Dose | Treatment Week After Surgery |
-| --- | --- | --- |
-| Methotrexate | 12 g/m2 IV as 4 hour infusion (starting dose) | 4,5,6,7,11,12,15,16,29,30,44,45 |
-| Leucovorin | 15 mg orally every six hours for 10 doses starting at 24 hours after start of methotrexate infusion | - - - |
-| DoxorubicinSee each respective package insert for full prescribing information. Dosage modifications may be necessary because of drug-induced toxicity. as a single drug | 30 mg/m2 day IV x 3 days | 8,17 |
-| DoxorubicinCisplatin | 50 mg/m2 IV 100 mg/m2 IV | 20,23,33,3620,23,33,36 |
-| BleomycinCyclophosphamideDactinomycin | 15 units/m2 IV x 2 days600 mg/m2 IV x 2 days0.6 mg/m2 IV x 2 days | 2,13,26,39,422,13,26,39,422,13,26,39,42 |
+For treatment of meningeal leukemia, intrathecal methotrexate may be given at intervals of 2 or more days up to twice weekly; however, administration at intervals of less than 1 week may result in increased subacute toxicity.
+For meningeal leukemia prophylaxis, Methotrexate Injection is administered no more than once weekly.
 
-When these higher doses of methotrexate are to be administered, the following safety guidelines should be closely observed.
+For patients with Down Syndrome, administer leucovorin rescue with intrathecal Methotrexate Injection.
 
-GUIDELINES FOR METHOTREXATE THERAPY WITH LEUCOVORIN RESCUE
+## 2.5 Recommended Dosage for Non-Hodgkin Lymphoma
 
-1. 1.Administration of methotrexate should be delayed until recovery if:
-   1. •the WBC count is less than 1500/microliter
-   2. •the neutrophil count is less than 200/microliter
-   3. •the platelet count is less than 75,000/microliter
-   4. •the serum bilirubin level is greater than 1.2 mg/dL
-   5. •the SGPT level is greater than 450 U
-   6. •mucositis is present, until there is evidence of healing
-   7. •persistent pleural effusion is present; this should be drained dry prior to infusion.
-2. 2.Adequate renal function must be documented. a. Serum creatinine must be normal, and creatinine clearance must be greater than 60 mL/min, before initiation of therapy. b. Serum creatinine must be measured prior to each subsequent course of therapy.
-   If serum creatinine has increased by 50% or more compared to a prior value, the creatinine clearance must be measured and documented to be greater than 60 mL/min (even if the serum creatinine is still within the normal range).
-3. 3.Patients must be well hydrated, and must be treated with sodium bicarbonate for urinary alkalinization. a. Administer 1,000 mL/m2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
-   Continue hydration at 125 mL/m2/hr (3 liters/m2/day) during the methotrexate infusion, and for 2 days after the infusion has been completed. b. Alkalinize urine to maintain pH above 7.0 during methotrexate infusion and leucovorin calcium therapy.
-   This can be accomplished by the administration of sodium bicarbonate orally or by incorporation into a separate intravenous solution.
-4. 4.Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5 x 10-8 mol/L (0.05 micromolar).
-5. 5.The table below provides guidelines for leucovorin calcium dosage based upon serum methotrexate levels.
-   (See table below.‡) Patients who experience delayed early methotrexate elimination are likely to develop nonreversible oliguric renal failure.
-   In addition to appropriate leucovorin therapy, these patients require continuing hydration and urinary alkalinization, and close monitoring of fluid and electrolyte status, until the serum methotrexate level has fallen to below 0.05 micromolar and the renal failure has resolved.
-   If necessary, acute, intermittent hemodialysis with a high-flux dialyzer may also be beneficial in these patients.
-6. 6.Some patients will have abnormalities in methotrexate elimination, or abnormalities in renal function following methotrexate administration, which are significant but less severe than the abnormalities described in the table below.
-   These abnormalities may or may not be associated with significant clinical toxicity.
-   If significant toxicity is observed, leucovorin rescue should be extended for an additional 24 hours (total 14 doses over 84 hours) in subsequent courses of therapy.
-   The possibility that the patient is taking other medications which interact with methotrexate (e.g., medications which may interfere with methotrexate binding to serum albumin, or elimination) should always be reconsidered when laboratory abnormalities or clinical toxicities are observed.
+The recommended dosage of Methotrexate Injection varies.
+When used in combination, recommended dosages range from 10 mg/m2 to 8000 mg/m2 intravenously.
+When used as a single agent, recommended dosages include 8,000 mg/m2 intravenously for central nervous system-directed therapy or 5 to 75 mg intravenously for cutaneous forms of Non-Hodgkin lymphoma.
 
-CAUTION: DO NOT ADMINISTER LEUCOVORIN INTRATHECALLY.
+As part of a combination chemotherapy regimen, a recommended dosage of Methotrexate Injection is 1,000 mg/m2 or 3,000 mg/m2 as an intravenous infusion over 24 hours followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
 
-## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
+For central nervous system-directed therapy, a recommended dosage of Methotrexate Injection is 8,000 mg/m2 as an intravenous infusion over 4 hours as a single agent or in combination with immunochemotherapy at doses ranging from 3,000 mg/m2 to 8,000 mg/m2 followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
 
-Adult Rheumatoid Arthritis: Recommended Starting Dosage Schedules
+For intrathecal Methotrexate Injection (preservative-free), the recommended dose is based on age [see Dosage and Administration (2.4)].
+The frequency of administration varies based on whether it is being used for treatment or prophylaxis, and other factors.
 
-1. 1.Single oral doses of 7.5 mg once weekly.†
-2. 2.Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.† † Methotrexate Sodium Tablets for oral administration are available.
+## 2.6 Recommended Dosage for Osteosarcoma
 
-Polyarticular-Course Juvenile Rheumatoid Arthritis: The recommended starting dose is 10 mg/m2 given once weekly.
+The recommended dosage of Methotrexate Injection is typically 12 g/m2 (maximum 20 g/dose) as an intravenous infusion over 4 hours administered as a component of a combination chemotherapy regimen.
+Administer leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
+Subsequent doses may need to be adjusted based on observed peak serum methotrexate concentrations.
+Dosage and schedule may vary based upon factors such as patient comorbidities, disease state, and prior treatments.
 
-For either adult RA or polyarticular-course JRA, dosages may be adjusted gradually to achieve an optimal response.
-Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
-Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+## 2.7 Recommended Dosage for Breast Cancer
 
-Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
+A recommended dosage of Methotrexate Injection is 40 mg/m2 intravenously as a component of a cyclophosphamide- and fluorouracil-based multi-drug regimen.
 
-The optimal duration of therapy is unknown.
-Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
-When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
+## 2.8 Recommended Dosage for Squamous Cell Carcinoma of Head and Neck
 
-The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
-(See Information for Patients under PRECAUTIONS.)
+The recommended dosage of Methotrexate Injection ranges from 40 to 60 mg/m2 intravenously once weekly.
 
-Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
-(See PRECAUTIONS.)
-Appropriate steps should be taken to avoid conception during methotrexate therapy.
-(See PRECAUTIONS and CONTRAINDICATIONS.)
+## 2.9 Recommended Dosage for Gestational Trophoblastic Neoplasia
 
-All schedules should be continually tailored to the individual patient.
-An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects (See ADVERSE REACTIONS.)
-Maximal myelosuppression usually occurs in seven to ten days.
+For patients with low-risk gestational trophoblastic neoplasia (GTN) a recommended dosage for Methotrexate Injection is 30 mg/m2 to 200 mg/m2 or 0.4 mg/kg to1 mg/kg intravenously or intramuscularly.
 
-Psoriasis: Recommended Starting Dose Schedule:
+For patients with high-risk GTN, a recommended dosage for Methotrexate Injection is 300 mg/m2 over 12 hours as an intravenous infusion as a component of a multi-drug regimen.
 
-1. 1.Weekly single oral, IM or IV dosage schedule: 10 to 25 mg per week until adequate response is achieved.†
-2. 2.Divided oral dose schedule 2.5 mg at 12 hour intervals for three doses.† † Methotrexate Sodium Tablets for oral administration are available.
+## 2.10 Recommended Dosage for Rheumatoid Arthritis
 
-Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
+The recommended starting dosage of Methotrexate Injection is 7.5 mg once weekly, administered intramuscularly with escalation to achieve optimal response.
+Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
 
-Once optimal clinical response has been achieved, each dosage schedule should be reduced to the lowest possible amount of drug and to the longest possible rest period.
-The use of methotrexate may permit the return to conventional topical therapy, which should be encouraged.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
+
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+
+## 2.11 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
+
+The recommended starting dosage of Methotrexate Injection is 10 mg/m2 once weekly administered subcutaneously or intramuscularly, with escalation to achieve optimal response.
+Dosages over 30 mg/ m2 per week may result in an increased risk of serious adverse reactions, including myelosuppression.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
+
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+
+## 2.12 Recommended Dosage for Psoriasis
+
+The recommended dosage of Methotrexate Injection is 10 mg to 25 mg intramuscularly or intravenously once weekly until adequate response is achieved.
+
+Adjust the dose gradually to achieve optimal clinical response; do not exceed 25 mg per week.
+Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
+
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+
+## 2.13 Dosage Modifications for Adverse Reactions
+
+Discontinue Methotrexate Injection for:
+
+- Anaphylaxis or other severe hypersensitivity reactions [see Warnings and Precautions (5.2)]
+- Lymphoproliferative disease [see Warnings and Precautions (5.13)]
+
+Withhold, dose reduce or discontinue Methotrexate Injection as appropriate for:
+
+- Myelosuppression [see Warnings and Precautions (5.4)]
+
+Withhold or discontinue Methotrexate Injection as appropriate for:
+
+- Serious infections [see Warnings and Precautions (5.5)]
+- Renal toxicity [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Neurotoxicity [see Warnings and Precautions (5.8)]
+- Gastrointestinal toxicity [see Warnings and Precautions (5.9)]
+- Pulmonary toxicity [see Warnings and Precautions (5.10)]
+- Dermatologic reactions [see Warnings and Precautions (5.11)]
+
+## 2.14 Administration and Handling Information
+
+Methotrexate Injection is a hazardous drug.
+Follow applicable special handling and disposable procedures.1
+
+With Preservative (multiple-dose vial)
+
+- Methotrexate Injection formulation containing benzyl alcohol as a preservative may be administered by intramuscular, intravenous, or subcutaneous injection [see Dosage and Administration (2.1)].
+  Methotrexate Injection with preservative may be further diluted with 0.9% Sodium Chloride Injection, USP.
+  Diluted product should be used within 4 hours when stored at room temperature (20°C to 25°C) or 24 hours under refrigeration (2°C to 8°C).
+- Visually inspect product for particulate matter and discoloration prior to administration.
+  Discard if particulate matter or discoloration is observed.
+
+Preservative-free (single-dose vial)
+
+Methotrexate Injection preservative-free may be administered by intramuscular, intravenous, subcutaneous, or intrathecal injection.
+
+- Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
+- Use preservative-free Methotrexate Injection for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
+- Preservative-free Methotrexate Injection may be further diluted immediately before use with preservative-free 0.9% Sodium Chloride Injection, USP.
+  For the treatment or prophylaxis of meningeal leukemia, dilute the solution to a concentration of 1 mg/mL in 0.9% Sodium Chloride Injection, USP.
+  Discard unused portion.
+- Visually inspect for particulate matter and discoloration prior to administration.
+  Discard if particulate matter or discoloration is observed.

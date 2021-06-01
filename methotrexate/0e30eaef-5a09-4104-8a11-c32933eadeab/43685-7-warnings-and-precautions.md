@@ -1,219 +1,183 @@
-# PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## General
+## 5.1 Embryo-Fetal Toxicity
 
-Methotrexate has the potential for serious toxicity.
-(See Boxed WARNINGS.)
-Toxic effects may be related in frequency and severity to dose or frequency of administration but have been seen at all doses.
-Because they can occur at any time during therapy, it is necessary to follow patients on methotrexate closely.
-Most adverse reactions are reversible if detected early.
-When such reactions do occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken.
-If necessary, this could include the use of leucovorin calcium and/or acute, intermittent hemodialysis with a high-flux dialyzer.
-(See OVERDOSAGE.)
-If methotrexate therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and increased alertness as to possible recurrence of toxicity.
+Based on published reports and its mechanism of action, methotrexate can cause embryo-fetal toxicity, including fetal death when administered to a pregnant woman.
 
-The clinical pharmacology of methotrexate has not been well studied in older individuals.
-Due to diminished hepatic and renal function as well as decreased folate stores in this population, relatively low doses should be considered, and these patients should be closely monitored for early signs of toxicity.
+Methotrexate Injection is contraindicated for use in pregnant women with non-neoplastic diseases.
+Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
+The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Warnings and Precautions (5.3)].
 
-Some of the effects mentioned under ADVERSE REACTIONS, such as dizziness and fatigue, may affect the ability to drive or operate machinery.
+Advise females of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 6 months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 3 months after the final dose [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
 
-## Information for Patients
+## 5.2 Hypersensitivity Reactions
 
-Patients should be informed of the early signs and symptoms of toxicity, of the need to see their physician promptly if they occur, and the need for close follow-up, including periodic laboratory tests to monitor toxicity.
+Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Adverse Reactions (6.1)].
+If signs or symptoms of anaphylaxis or any other serious hypersensitivity reaction occurs, immediately discontinue Methotrexate Injection and institute appropriate therapy [see Contraindications (4)].
 
-Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken weekly in rheumatoid arthritis and psoriasis, and that mistaken daily use of the recommended dose has led to fatal toxicity.
-Prescriptions should not be written or refilled on a PRN basis.
+## 5.3 Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 
-Patients should be informed of the potential benefit and risk in the use of methotrexate.
-The risk of effects on reproduction should be discussed with both male and female patients taking methotrexate.
+Formulations with benzyl alcohol can cause severe central nervous toxicity or metabolic acidosis, if used in neonates or low-birth weight infants, intrathecally, or in high-dose regimens.
+Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
+Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available.
+The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Use in Specific Populations (8.1)].
 
-## Laboratory Tests
+Serious and Fatal Adverse Reactions Including Gasping Syndrome in Neonates and Low-Birth Weight Infants
 
-Patients undergoing methotrexate therapy should be closely monitored so that toxic effects are detected promptly.
-Baseline assessment should include a complete blood count with differential and platelet counts, hepatic enzymes, renal function tests and a chest X-ray.
-During therapy of rheumatoid arthritis and psoriasis, monitoring of these parameters is recommended: hematology at least monthly, renal function and liver function every 1 to 2 months.
-More frequent monitoring is usually indicated during antineoplastic therapy.
-During initial or changing doses, or during periods of increased risk of elevated methotrexate blood levels (e.g., dehydration), more frequent monitoring may also be indicated.
+Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low birth weight infants treated with drugs containing benzyl alcohol, including Methotrexate Injection with preservative.
+The "gasping syndrome" is characterized by central nervous system (CNS) depression, metabolic acidosis, and gasping respirations.
 
-Transient liver function test abnormalities are observed frequently after methotrexate administration and are usually not cause for modification of methotrexate therapy.
-Persistent liver function test abnormalities, and/or depression of serum albumin may be indicators of serious liver toxicity and require evaluation.
-(See PRECAUTIONS, Organ System Toxicity, Hepatic.)
+When prescribing in infants (non-neonate, non-low-birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol/per mL) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.4)].
 
-A relationship between abnormal liver function tests and fibrosis or cirrhosis of the liver has not been established for patients with psoriasis.
-Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
+Neurotoxicity Due to Intrathecal Administration
 
-Pulmonary function tests may be useful if methotrexate-induced lung disease is suspected, especially if baseline measurements are available.
+Serious neurotoxicity can occur following the intrathecal administration of Methotrexate Injection containing the preservative benzyl alcohol.
 
-## Drug Interactions
+Metabolic Acidosis with High-Dose Therapy
 
-Nonsteroidal anti-inflammatory drugs should not be administered prior to or concomitantly with high doses of methotrexate, such as used in the treatment of osteosarcoma.
-Concomitant administration of some NSAIDs with high-dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
+Severe metabolic acidosis can occur with Methotrexate Injection that contains the preservative benzyl alcohol.
 
-Caution should be used when NSAIDs and salicylates are administered concomitantly with lower doses of methotrexate.
-These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
+## 5.4 Myelosuppression
 
-Despite the potential interactions, studies of methotrexate in patients with rheumatoid arthritis have usually included concurrent use of constant dosage regimens of NSAIDs, without apparent problems.
-It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 15 mg/week) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
+Methotrexate suppresses hematopoiesis and can cause severe and life-threatening pancytopenia, anemia, aplastic anemia, leukopenia, neutropenia, and thrombocytopenia [see Adverse Reactions (6.1)].
 
-Methotrexate is partially bound to serum albumin, and toxicity may be increased because of displacement by certain drugs, such as salicylates, phenylbutazone, phenytoin, and sulfonamides.
-Renal tubular transport is also diminished by probenecid; use of methotrexate with this drug should be carefully monitored.
+Obtain blood counts at baseline and periodically during treatment.
+Monitor patients for possible clinical complications of myelosuppression.
+Provide supportive care and withhold, reduce dose, or discontinue Methotrexate Injection as needed.
 
-In the treatment of patients with osteosarcoma, caution must be exercised if high-dose methotrexate is administered in combination with a potentially nephrotoxic chemotherapeutic agent (e.g., cisplatin).
+## 5.5 Serious Infections
 
-Methotrexate increases the plasma levels of mercaptopurine.
-The combination of methotrexate and mercaptopurine may therefore require dose adjustment.
+Patients treated with methotrexate are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections including opportunistic infections such as Pneumocystis jiroveci pneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zoster and cytomegalovirus infections.
 
-Oral antibiotics such as tetracycline, chloramphenicol, and nonabsorbable broad spectrum antibiotics, may decrease intestinal absorption of methotrexate or interfere with the enterohepatic circulation by inhibiting bowel flora and suppressing metabolism of the drug by bacteria.
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with Methotrexate Injection.
+Withhold or discontinue Methotrexate Injection in patients who develop serious infections.
 
-Penicillins may reduce the renal clearance of methotrexate; increased serum concentrations of methotrexate with concomitant hematologic and gastrointestinal toxicity have been observed with high and low dose methotrexate.
-Use of methotrexate with penicillins should be carefully monitored.
+## 5.6 Renal Toxicity
 
-The potential for increased hepatotoxicity when methotrexate is administered with other hepatotoxic agents has not been evaluated.
-However, hepatotoxicity has been reported in such cases.
-Therefore, patients receiving concomitant therapy with methotrexate and other potential hepatotoxins (e.g., azathioprine, retinoids, sulfasalazine) should be closely monitored for possible increased risk of hepatotoxicity.
+Methotrexate can cause renal toxicity including irreversible acute renal failure.
+Monitor renal function and withhold or discontinue methotrexate as needed for severe renal toxicity.
 
-Methotrexate may decrease the clearance of theophylline; theophylline levels should be monitored when used concurrently with methotrexate.
+For patients receiving high-dose regimens, follow recommendations to decrease the risk of renal injury and mitigate renal toxicity [see Dosage and Administration (2.2)].
 
-Vitamin preparations containing folic acid or its derivatives may decrease responses to systemically administered methotrexate.
-Preliminary animal and human studies have shown that small quantities of intravenously administered leucovorin enter the CSF primarily as 5-methyltetrahydrofolate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
-However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate.
+Patients with impaired renal function are at increased risk for methotrexate toxicity [see Use in Specific Populations (8.6)].
 
-Folate deficiency states may increase methotrexate toxicity.
-Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by decreased tubular secretion and/or an additive antifolate effect.
+Consider administration of glucarpidase in patients with toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed clearance due to impaired renal function.
+[see Dosage and Administration (2.2)].
 
-The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, resulting in the potential for increased toxicity such as stomatitis, myelosuppression, and neurotoxicity.
-Avoid concomitant nitrous oxide anesthesia in patients receiving methotrexate.
-Use caution when administering methotrexate after a recent history of nitrous oxide administration.
+## 5.7 Hepatotoxicity
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Methotrexate can cause severe and potentially irreversible hepatotoxicity including fibrosis, cirrhosis, and fatal liver failure [see Adverse Reactions (6.1, 6.2)].
 
-No controlled human data exist regarding the risk of neoplasia with methotrexate.
-Methotrexate has been evaluated in a number of animal studies for carcinogenic potential with inconclusive results.
-Although there is evidence that methotrexate causes chromosomal damage to animal somatic cells and human bone marrow cells, the clinical significance remains uncertain.
-Non-Hodgkin's lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
-However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti-lymphoma treatment.
-Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
-Methotrexate causes embryotoxicity, abortion, and fetal defects in humans.
-It has also been reported to cause impairment of fertility, oligospermia and menstrual dysfunction in humans, during and for a short period after cessation of therapy.
+In patients with psoriasis, fibrosis or cirrhosis may occur in the absence of symptoms or abnormal liver function tests.
+In patients with psoriasis, the risk of hepatotoxicity appears to increase with total cumulative dose and generally occurs after receipt of a total cumulative dose of 1.5 g or more.
 
-## Pregnancy
+The safety of Methotrexate Injection in patients with liver disease is unknown.
+Avoid use of Methotrexate Injection in patients with chronic liver disease, unless benefits clearly outweigh the risks.
+The risk of hepatotoxicity is increased with heavy alcohol consumption.
 
-Psoriasis and rheumatoid arthritis: See CONTRAINDICATIONS.
+Assess liver function prior to initiating Methotrexate Injection and monitor liver function tests during treatment.
+Withhold or discontinue Methotrexate Injection as appropriate.
 
-Nursing Mothers
+## 5.8 Neurotoxicity
 
-See CONTRAINDICATIONS.
+Methotrexate can cause severe acute and chronic neurotoxicity which can be progressive, irreversible, and fatal.
+Serious neurotoxicity, including generalized and focal seizures, have occurred in pediatric patients [see Use in Specific Populations (8.4)].
+Monitor patients for signs of neurotoxicity and withhold or discontinue Methotrexate Injection when appropriate.
 
-## Pediatric Use
+Leukoencephalopathy
 
-Safety and effectiveness in pediatric patients have been established only in cancer chemotherapy and in polyarticular-course juvenile rheumatoid arthritis.
+Leukoencephalopathy can occur with intermediate and high-dose intravenous regimens, intrathecal methotrexate, and low-dose methotrexate therapy.
+The risk of leukoencephalopathy is increased with prior cranial radiation.
 
-Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
-(See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
+Transient Acute Neurologic Syndrome
 
-For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
-Do not use the preserved formulation of Methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
+A transient acute stroke-like syndrome can occur with high-dose methotrexate.
+Clinical manifestations include confusion, hemiparesis, transient blindness, seizures, and coma.
 
-Use the preservative-free formulation of methotrexate in neonates.
-There have been reports of fatal 'gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
-Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
+Neurologic Adverse Reactions Associated with Intrathecal Administration
 
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
-(See PRECAUTIONS, Organ System Toxicity, Neurologic.)
+Intrathecal methotrexate can cause the following additional neurologic adverse reactions:
 
-## Geriatric Use
+- Acute chemical arachnoiditis manifested by symptoms such as headache, back pain, nuchal rigidity, and fever.
+- Subacute myelopathy characterized by paraparesis or paraplegia.
 
-Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population.
-(See PRECAUTIONS, Drug Interactions.)
-Since decline in renal function may be associated with increases in adverse events and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatinine clearance) should be considered.
-Serum methotrexate levels may also be helpful.
-Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
-In chronic use situations, certain toxicities may be reduced by folate supplementation.
-Post-marketing experience suggests that the occurrence of bone marrow suppression, thrombocytopenia, and pneumonitis may increase with age.
-See Boxed WARNINGS and ADVERSE REACTIONS.
+Avoid the intrathecal use of Methotrexate Injection that contains the preservative benzyl alcohol because of the risk of serious neurotoxicity [see Warnings and Precautions (5.3)].
 
-## Organ System Toxicity
+## 5.9 Gastrointestinal Toxicity
 
-Gastrointestinal: If vomiting, diarrhea, or stomatitis occur, which may result in dehydration, methotrexate should be discontinued until recovery occurs.
-Methotrexate should be used with extreme caution in the presence of peptic ulcer disease or ulcerative colitis.
+Methotrexate can cause diarrhea, vomiting, stomatitis, hemorrhagic enteritis and fatal intestinal perforation [see Adverse Reactions (6.1)].
+Patients with peptic ulcer disease or ulcerative colitis are at a greater risk of developing severe gastrointestinal adverse reactions.
 
-Hematologic: Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia.
-In patients with malignancy and preexisting hematopoietic impairment, the drug should be used with caution, if at all.
-In controlled clinical trials in rheumatoid arthritis (n=128), leukopenia (WBC <3000/mm3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
+Withhold or discontinue Methotrexate Injection for severe gastrointestinal toxicity, and institute appropriate supportive care as needed.
 
-In psoriasis and rheumatoid arthritis, methotrexate should be stopped immediately if there is a significant drop in blood counts.
-In the treatment of neoplastic diseases, methotrexate should be continued only if the potential benefit warrants the risk of severe myelosuppression.
-Patients with profound granulocytopenia and fever should be evaluated immediately and usually require parenteral broad-spectrum antibiotic therapy.
+## 5.10 Pulmonary Toxicity
 
-Hepatic: Methotrexate has the potential for acute (elevated transaminases) and chronic (fibrosis and cirrhosis) hepatotoxicity.
-Chronic toxicity is potentially fatal; it generally has occurred after prolonged use (generally two years or more) and after a total dose of at least 1.5 grams.
-In studies in psoriatic patients, hepatotoxicity appeared to be a function of total cumulative dose and appeared to be enhanced by alcoholism, obesity, diabetes and advanced age.
-An accurate incidence rate has not been determined; the rate of progression and reversibility of lesions is not known.
-Special caution is indicated in the presence of preexisting liver damage or impaired hepatic function.
+Methotrexate-induced pulmonary toxicity including acute or chronic interstitial pneumonitis and irreversible or fatal cases can occur at all dose levels.
+Monitor patients for signs of pulmonary toxicity and withhold or discontinue Methotrexate Injection as appropriate.
 
-In psoriasis, liver function tests, including serum albumin, should be performed periodically prior to dosing but are often normal in the face of developing fibrosis or cirrhosis.
-These lesions may be detectable only by biopsy.
-The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
-Moderate fibrosis or any cirrhosis normally leads to discontinuation of the drug; mild fibrosis normally suggests a repeat biopsy in 6 months.
-Milder histologic findings such as fatty change and low grade portal inflammation, are relatively common pretherapy.
-Although these mild changes are usually not a reason to avoid or discontinue methotrexate therapy, the drug should be used with caution.
+## 5.11 Dermatologic Reactions
 
-In rheumatoid arthritis, age at first use of methotrexate and duration of therapy have been reported as risk factors for hepatotoxicity; other risk factors, similar to those observed in psoriasis, may be present in rheumatoid arthritis but have not been confirmed to date.
-Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in this population.
-There is a combined reported experience in 217 rheumatoid arthritis patients with liver biopsies both before and during treatment (after a cumulative dose of at least 1.5 g) and in 714 patients with a biopsy only during treatment.
-There are 64 (7%) cases of fibrosis and 1 (0.1%) case of cirrhosis.
-Of the 64 cases of fibrosis, 60 were deemed mild.
-The reticulin stain is more sensitive for early fibrosis and its use may increase these figures.
-It is unknown whether even longer use will increase these risks.
+Severe, including fatal, dermatologic reactions, such as toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, can occur with methotrexate [see Adverse Reactions (6.1, 6.2)].
 
-Liver function tests should be performed at baseline at 4 to 8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
-Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
-During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
+Psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
 
-If the results of a liver biopsy show mild changes (Roenigk, grades I, II, IIIa), methotrexate may be continued and the patient monitored as per recommendations listed above.
-Methotrexate should be discontinued in any patient who displays persistently abnormal liver function tests and refuses liver biopsy or in any patient whose liver biopsy shows moderate to severe changes (Roenigk grade IIIb or IV).
+Methotrexate can also cause radiation recall dermatitis and photodermatitis (sunburn) reactivation.
 
-Infection or Immunologic States: Methotrexate should be used with extreme caution in the presence of active infection, and is usually contraindicated in patients with overt or laboratory evidence of immunodeficiency syndromes.
-Immunization may be ineffective when given during methotrexate therapy.
-Immunization with live virus vaccines is generally not recommended.
-There have been reports of disseminated vaccinia infections after smallpox immunizations in patients receiving methotrexate therapy.
-Hypogammaglobulinemia has been reported rarely.
+Monitor patients for signs of dermatologic toxicity and withhold or permanently discontinue Methotrexate Injection for severe dermatologic adverse reactions.
+Counsel patients to avoid excessive sun exposure and use sun protection measures.
 
-Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
-When a patient presents with pulmonary symptoms, the possibility of Pneumocystis carinii pneumonia should be considered.
+## 5.12 Folic Acid Supplementation
 
-Neurologic: There have been reports of leukoencephalopathy following intravenous administration of methotrexate to patients who have had craniospinal irradiation.
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
-Symptomatic patients were commonly noted to have leukoencephalopathy and/or microangiopathic calcifications on diagnostic imaging studies.
-Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
-Discontinuation of methotrexate does not always result in complete recovery.
+Neoplastic Diseases
 
-A transient acute neurologic syndrome has been observed in patients treated with high-dose regimens.
-Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
-The exact cause is unknown.
+Products containing folic acid or its derivatives may decrease the clinical effectiveness of methotrexate.
+Avoid use of products containing folic acid or folinic acid unless clinically indicated [see Drug Interactions (7.1)].
 
-After the intrathecal use of methotrexate, the central nervous system toxicity which may occur can be classified as follows: acute chemical arachnoiditis manifested by such symptoms as headache, back pain, nuchal rigidity, and fever; sub-acute myelopathy characterized by paraparesis/paraplegia associated with involvement with one or more spinal nerve roots; chronic leukoencephalopathy manifested by confusion, irritability, somnolence, ataxia, dementia, seizures and coma.
-This condition can be progressive and even fatal.
+Non-neoplastic Diseases
 
-Pulmonary: Pulmonary symptoms (especially a dry nonproductive cough) or a non-specific pneumonitis occurring during methotrexate therapy may be indicative of a potentially dangerous lesion and require interruption of treatment and careful investigation.
-Although clinically variable, the typical patient with methotrexate induced lung disease presents with fever, cough, dyspnea, hypoxemia, and an infiltrate on chest X-ray; infection (including pneumonia) needs to be excluded.
-This lesion can occur at all dosages.
+Folate deficiency may increase methotrexate adverse reactions.
+Administer folic acid or folinic acid to patients with rheumatoid arthritis, pJIA, and psoriasis [see Dosage and Administration (2.10, 2.11, 2.12)].
 
-Renal: Methotrexate may cause renal damage that may lead to acute renal failure.
-High doses of methotrexate used in the treatment of osteosarcoma may cause renal damage leading to acute renal failure.
-Nephrotoxicity is due primarily to the precipitation of methotrexate and 7-hydroxymethotrexate in the renal tubules.
-Close attention to renal function including adequate hydration, urine alkalinization and measurement of serum methotrexate and creatinine levels are essential for safe administration.
+## 5.13 Secondary Malignancies
 
-Skin: Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
-Reactions were noted after single or multiple low, intermediate, or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
+Secondary malignancies can occur at all dose levels of methotrexate.
+In some cases, lymphoproliferative disease that occurred during therapy with low-dose methotrexate regressed completely following withdrawal of methotrexate.
+If lymphoproliferative disease occurs, discontinue Methotrexate Injection and institute appropriate treatment if lymphoma does not regress.
 
-Other precautions: Methotrexate should be used with extreme caution in the presence of debility.
+## 5.14 Tumor Lysis Syndrome
 
-Methotrexate exits slowly from third space compartments (e.g., pleural effusions or ascites).
-This results in a prolonged terminal plasma half-life and unexpected toxicity.
-In patients with significant third space accumulations, it is advisable to evacuate the fluid before treatment and to monitor plasma methotrexate levels.
+Methotrexate can induce tumor lysis syndrome in patients with rapidly growing tumors.
+Institute appropriate treatment for prevention and management of tumor lysis syndrome.
 
-Lesions of psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
+## 5.15 Immunization and Risks Associated with Live Vaccines
 
-Radiation dermatitis and sunburn may be "recalled" by the use of methotrexate.
+Immunization during Methotrexate Injection treatment may be ineffective.
+
+Disseminated infections following administration of live vaccines have been reported.
+
+Update immunizations according to immunization guidelines prior to initiating Methotrexate Injection.
+Immunization with live vaccines is not recommended during treatment.
+The interval between live vaccinations and initiation of Methotrexate Injection should be in accordance with current vaccination guidelines for patients on immunosuppressive therapies.
+
+## 5.16 Infertility
+
+Based on published reports, methotrexate can cause impairment of fertility, oligospermia, and menstrual dysfunction.
+It is not known if the infertility may be reversible in affected patients.
+Discuss the risk of effects on reproduction with female and male patients of reproductive potential [see Use in Specific Populations (8.3)].
+
+## 5.17 Increased Risk of Adverse Reactions Due to Third Space Accumulation
+
+Methotrexate can exit slowly from third space accumulations resulting in prolonged terminal plasma half-life and toxicity.
+Evacuate significant third-space accumulations prior to Methotrexate Injection administration [see Clinical Pharmacology (12.3)].
+
+## 5.18 Increased Risk of Soft Tissue and Bone Toxicity with Concomitant Radiotherapy
+
+Concomitant radiation therapy increases the risk of soft tissue necrosis and osteonecrosis associated with methotrexate.
+
+## 5.19 Risk of Serious Adverse Reactions with Medication Errors
+
+Serious adverse reactions, including death, have occurred due to medication errors.
+Most commonly, these errors occurred in patients who were taking methotrexate daily when a weekly dosing regimen was prescribed.
+Ensure that patients receive the recommended dosage, because medication errors have led to death.

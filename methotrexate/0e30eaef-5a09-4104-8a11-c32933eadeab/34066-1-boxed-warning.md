@@ -1,41 +1,12 @@
-WARNINGS
+# WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS, BENZYL ALCOHOL TOXICITY, and OTHER SERIOUS ADVERSE REACTIONS
 
-- •FOR INTRATHECAL AND HIGH-DOSE THERAPY, USE THE PRESERVATIVE-FREE FORMULATION OF METHOTREXATE.
-  DO NOT USE THE PRESERVED FORMULATION FOR INTRATHECAL OR HIGH-DOSE THERAPY BECAUSE IT CONTAINS BENZYL ALCOHOL.
-- •METHOTREXATE SHOULD BE USED ONLY IN LIFE THREATENING NEOPLASTIC DISEASES, OR IN PATIENTS WITH PSORIASIS OR RHEUMATOID ARTHRITIS WITH SEVERE, RECALCITRANT, DISABLING DISEASE WHICH IS NOT ADEQUATELY RESPONSIVE TO OTHER FORMS OF THERAPY.
-- •DEATHS HAVE BEEN REPORTED WITH THE USE OF METHOTREXATE IN THE TREATMENT OF MALIGNANCY, PSORIASIS, AND RHEUMATOID ARTHRITIS.
-- •PATIENTS SHOULD BE CLOSELY MONITORED FOR BONE MARROW, LIVER, LUNG AND KIDNEY TOXICITIES.
-  (See PRECAUTIONS.)
-- •PATIENTS SHOULD BE INFORMED BY THEIR PHYSICIAN OF THE RISKS INVOLVED AND BE UNDER A PHYSICIAN'S CARE THROUGHOUT THERAPY.
-- •THE USE OF METHOTREXATE HIGH-DOSE REGIMENS RECOMMENDED FOR OSTEOSARCOMA REQUIRES METICULOUS CARE.
-  (See DOSAGE AND ADMINISTRATION.)
-  HIGH-DOSE REGIMENS FOR OTHER NEOPLASTIC DISEASES ARE INVESTIGATIONAL AND A THERAPEUTIC ADVANTAGE HAS NOT BEEN ESTABLISHED.
-- •Methotrexate has been reported to cause fetal death and/or congenital anomalies.
-  Therefore, it is not recommended for women of childbearing potential unless there is clear medical evidence that the benefits can be expected to outweigh the considered risks.
-  Pregnant women with psoriasis or rheumatoid arthritis should not receive methotrexate.
-  (See CONTRAINDICATIONS.)
-- •Methotrexate elimination is reduced in patients with impaired renal functions, ascites, or pleural effusions.
-  Such patients require especially careful monitoring for toxicity, and require dose reduction or, in some cases, discontinuation of methotrexate administration.
-- •Unexpectedly severe (sometimes fatal) bone marrow suppression, aplastic anemia, and gastrointestinal toxicity have been reported with concomitant administration of methotrexate (usually in high dosage) along with some nonsteroidal anti-inflammatory drugs (NSAIDs).
-  (See PRECAUTIONS, Drug Interactions.)
-- •Methotrexate causes hepatotoxicity, fibrosis and cirrhosis, but generally only after prolonged use.
-  Acutely, liver enzyme elevations are frequently seen.
-  These are usually transient and asymptomatic, and also do not appear predictive of subsequent hepatic disease.
-  Liver biopsy after sustained use often shows histologic changes, and fibrosis and cirrhosis have been reported; these latter lesions may not be preceded by symptoms or abnormal liver function tests in the psoriasis population.
-  For this reason, periodic liver biopsies are usually recommended for psoriatic patients who are under long-term treatment.
-  Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
-  (See PRECAUTIONS, Organ System Toxicity, Hepatic.)
-- •Methotrexate-induced lung disease, including acute or chronic interstitial pneumonitis, is a potentially dangerous lesion, which may occur acutely at any time during therapy and has been reported at low doses.
-  It is not always fully reversible and fatalities have been reported.
-  Pulmonary symptoms (especially a dry, nonproductive cough) may require interruption of treatment and careful investigation.
-- •Diarrhea and ulcerative stomatitis require interruption of therapy: otherwise, hemorrhagic enteritis and death from intestinal perforation may occur.
-- •Malignant lymphomas, which may regress following withdrawal of methotrexate, may occur in patients receiving low-dose methotrexate and, thus, may not require cytotoxic treatment.
-  Discontinue methotrexate first and, if the lymphoma does not regress, appropriate treatment should be instituted.
-- •Like other cytotoxic drugs, methotrexate may induce "tumor lysis syndrome" in patients with rapidly growing tumors.
-  Appropriate supportive and pharmacologic measures may prevent or alleviate this complication.
-- •Severe, occasionally fatal, skin reactions have been reported following single or multiple doses of methotrexate.
-  Reactions have occurred within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
-  Recovery has been reported with discontinuation of therapy.
-  (See PRECAUTIONS, Organ System Toxicity, Skin.)
-- •Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
-- •Methotrexate given concomitantly with radiotherapy may increase the risk of soft tissue necrosis and osteonecrosis.
+- Methotrexate Injection can cause embryo-fetal toxicity, including fetal death.
+  For non-neoplastic diseases, Methotrexate Injection is contraindicated in pregnancy.
+  Advise females and males of reproductive potential to use effective contraception [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
+- Methotrexate Injection is contraindicated in patients with a history of severe hypersensitivity reactions to methotrexate, including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.2)].
+- Formulations with benzyl alcohol can cause severe central nervous toxicity or metabolic acidosis.
+  Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
+  Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required and preservative-free formulations are not available [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
+- Other serious adverse reactions, including death, have been reported with methotrexate.
+  Closely monitor for infections and adverse reactions of the bone marrow, kidneys, liver, nervous system, gastrointestinal tract, lungs, and skin.
+  Withhold or discontinue Methotrexate Injection as appropriate [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10, 5.11)].
