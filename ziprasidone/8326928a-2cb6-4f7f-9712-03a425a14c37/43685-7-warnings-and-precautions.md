@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## 5.1 Increased Mortality in Elderly Patients With Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -10,7 +10,7 @@ Although the causes of death were varied, most of the deaths appeared to be eith
 GEODON is not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warning, Warnings and Precautions (5.2)].
 
-## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
+## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
 
 In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
 GEODON is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -144,7 +144,7 @@ Pooled data from short-term, placebo-controlled studies in schizophrenia and bip
 Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20–40 mg BID) or high (60–80 mg BID) dose based on the subject's modal daily dose.
 In the tables showing categorical changes, the percentages (% column) are calculated as 100×(n/N).
 
-Table 1: Glucose"Random" glucose measurements—fasting/non-fasting status unknown Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
+Table 1: Glucose"Random" glucose measurements—fasting/non-fasting status unknown Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
 
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -152,7 +152,7 @@ Table 1: Glucose"Random" glucose measurements—fasting/non-fasting status unkno
 | Ziprasidone |  |  |  |  |  | Placebo |
 | -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
 
-Table 2: Glucose"Random" glucose measurements – fasting/non-fasting status unknown Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
+Table 2: Glucose"Random" glucose measurements – fasting/non-fasting status unknown Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -163,7 +163,7 @@ Table 2: Glucose"Random" glucose measurements – fasting/non-fasting status unk
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20–40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60–80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
 
-Table 3: GlucoseFasting Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder
+Table 3: GlucoseFasting Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Bipolar Disorder
 
 | Low Dose: 20–40 mg BID | High Dose: 60–80 mg BID |  |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ Table 3: GlucoseFasting Mean Change from Baseline in Short-Term (up to 6 weeks),
 | Ziprasidone |  | Placebo |
 | +0.1 (N=206) | +1.6 (N=166) | +1.4 (N=287) |
 
-Table 4: GlucoseFasting Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder
+Table 4: GlucoseFasting Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Bipolar Disorder
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -185,7 +185,7 @@ Dyslipidemia
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 5–8.
 
-Table 5: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+Table 5: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
 |  | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -194,7 +194,7 @@ Table 5: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Me
 | Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
 | Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10.0 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
 
-Table 6: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+Table 6: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -214,7 +214,7 @@ Table 6: Lipid"Random" lipid measurements, fasting/non-fasting status unknown Ca
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20–40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60–80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20–40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60–80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
 
-Table 7: LipidFasting Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Bipolar Disorder
+Table 7: LipidFasting Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder
 
 | Low Dose: 20–40 mg BID | High Dose: 60–80 mg BID |  |  |
 | --- | --- | --- | --- |
@@ -225,7 +225,7 @@ Table 7: LipidFasting Mean Change from Baseline in Short-Term (up to 6 weeks), P
 | Fasting LDL Cholesterol | -3.0 (N=201) | -3.1 (N=158) | -1.97 (N=270) |
 | Fasting HDL cholesterol | -0.09 (N=206) | +0.3 (N=165) | -0.9 (N=286) |
 
-Table 8: LipidFasting Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Bipolar Disorder
+Table 8: LipidFasting Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -256,14 +256,14 @@ Weight gain has been observed with atypical antipsychotic use.
 Monitoring of weight is recommended.
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 9–10.
 
-Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ziprasidone |  |  |  |  |  | Placebo |
 | Mean Weight (kg) Changes from Baseline (N) |  |  |  |  |  |  |
 | +0.3 (N=40) | +1.0 (N=167) | +1.0 (N=135) | +0.7 (N=109) | +1.1 (N=97) | +0.9 (N=74) | -0.4 (227) |
-| Proportion of Patients with ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
+| Proportion of Patients With ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
 | 0.0% (N=40) | 9.0% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4.0% (N=227) |
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline weight for ziprasidone 20–40 mg BID was -2.3 kg (N=124); for ziprasidone 60–80 mg BID was +2.5 kg (N=10); and for placebo was -2.9 kg (N=72).
@@ -271,14 +271,14 @@ In the same long-term studies, the proportion of subjects with ≥ 7% increase i
 In a long-term (at least 1 year), placebo-controlled, fixed-dose study in schizophrenia, the mean change from baseline weight for ziprasidone 20 mg BID was -2.6 kg (N=72); for ziprasidone 40 mg BID was -3.3 kg (N=69); for ziprasidone 80 mg BID was -2.8 kg (N=70) and for placebo was -3.8 kg (N=70).
 In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
 
-Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Bipolar Disorder:
+Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder:
 
 | Low Dose: 20–40 mg BID | High DoseNote that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.: 60–80 mg BID |  |
 | --- | --- | --- |
 | Ziprasidone |  | Placebo |
 | Mean Weight (kg) Changes from Baseline (N) |  |  |
 | +0.4 (N=295) | +0.4 (N=388) | +0.1 (N=451) |
-| Proportion of Patients with ≥ 7% Increase in Weight from Baseline (N) |  |  |
+| Proportion of Patients With ≥ 7% Increase in Weight from Baseline (N) |  |  |
 | 2.4% (N=295) | 4.4% (N=388) | 1.8% (N=451) |
 
 Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
@@ -367,7 +367,7 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients with Concomitant Illnesses
+## 5.19 Patients With Concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 

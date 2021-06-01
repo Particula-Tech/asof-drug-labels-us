@@ -2,10 +2,12 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Administration with Food
+Administration Information for Capsules
 
-Instruct patients to take GEODON Capsules with food for optimal absorption.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
+Advise patients to take GEODON capsules whole.
+Do not open, crush, or chew the capsules.
+Instruct patients to take GEODON capsules with food for optimal absorption.
+The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10), and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
 

@@ -92,7 +92,8 @@ While you are on GEODON, check with your doctor before starting any new prescrip
 How To Take GEODON
 
 - Take GEODON only as directed by your doctor.
-- Swallow the capsules whole.
+- Swallow GEODON capsules whole.
+  Do not chew, crush, or open the capsules.
 - Take GEODON capsules with food.
 - It is best to take GEODON at the same time each day.
 - GEODON may take a few weeks to work.
@@ -181,9 +182,11 @@ GEODON is a prescription medicine and only your doctor can decide if it is right
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
 You can also visit www.geodon.com.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com
 
-LAB-0272-9.0
+Distributed by Roerig Division of Pfizer Inc. New York, NY 10017
 
-Revised: January 2020
+LAB-0272-10.0
+
+Revised: May 2021

@@ -1,10 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Schizophrenia
+## 2.1 Administration Information for GEODON Capsules
+
+Administer GEODON capsules orally with food.
+Swallow capsules whole, do not open, crush, or chew the capsules.
+
+## 2.2 Schizophrenia
 
 Dose Selection
 
-GEODON Capsules should be administered at an initial daily dose of 20 mg twice daily with food.
+GEODON capsules should be administered at an initial daily dose of 20 mg twice daily with food.
 In some patients, daily dosage may subsequently be adjusted on the basis of individual clinical status up to 80 mg twice daily.
 Dosage adjustments, if indicated, should generally occur at intervals of not less than 2 days, as steady-state is achieved within 1 to 3 days.
 In order to ensure use of the lowest effective dose, patients should ordinarily be observed for improvement for several weeks before upward dosage adjustment.
@@ -20,7 +25,7 @@ While there is no body of evidence available to answer the question of how long 
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## 2.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
+## 2.3 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 Acute Treatment of Manic or Mixed Episodes
 
@@ -33,7 +38,7 @@ Maintenance Treatment (as an adjunct to lithium or valproate)
 Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg–80 mg twice daily with food.
 Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
 
-## 2.3 Acute Treatment of Agitation in Schizophrenia
+## 2.4 Acute Treatment of Agitation in Schizophrenia
 
 Intramuscular Dosing
 

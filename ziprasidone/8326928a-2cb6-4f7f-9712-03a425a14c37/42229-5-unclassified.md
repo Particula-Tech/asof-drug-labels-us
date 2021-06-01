@@ -1,4 +1,6 @@
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0273-29.0
+Distributed by Roerig Division of Pfizer Inc. New York, NY 10017
+
+LAB-0273-30.0
