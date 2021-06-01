@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021762"
+  ],
+  "inn": "alendronate",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-136-01",
+    "78206-137-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium and cholecalciferol",
+      "name": "FOSAMAX PLUS D"
+    }
+  ],
+  "setid": "10307e7e-9a84-4aa1-8c5c-4b209cffe4d1",
+  "source": "dailymed"
+}
