@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020560"
+  ],
+  "inn": "alendronate",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-135-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium",
+      "name": "FOSAMAX"
+    }
+  ],
+  "setid": "14e931fd-2c5f-4d90-b7db-5980706f4a56",
+  "source": "dailymed"
+}
