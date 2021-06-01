@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "NDA020829",
+    "NDA020830",
+    "NDA021409"
+  ],
+  "inn": "montelukast",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-170-01",
+    "78206-171-01",
+    "78206-172-01",
+    "78206-172-02",
+    "78206-173-01"
+  ],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    }
+  ],
+  "setid": "482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+  "source": "dailymed"
+}
