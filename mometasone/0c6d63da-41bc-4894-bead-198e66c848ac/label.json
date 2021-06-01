@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA205641"
+  ],
+  "inn": "mometasone",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-111-01",
+    "78206-111-59",
+    "78206-112-01",
+    "78206-112-59",
+    "78206-113-01",
+    "78206-113-59"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL",
+      "generic": "mometasone furoate",
+      "name": "ASMANEX HFA"
+    }
+  ],
+  "setid": "0c6d63da-41bc-4894-bead-198e66c848ac",
+  "source": "dailymed"
+}
