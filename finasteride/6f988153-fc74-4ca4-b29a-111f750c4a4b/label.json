@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020180"
+  ],
+  "inn": "finasteride",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-153-01",
+    "78206-153-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "PROSCAR"
+    }
+  ],
+  "setid": "6f988153-fc74-4ca4-b29a-111f750c4a4b",
+  "source": "dailymed"
+}
