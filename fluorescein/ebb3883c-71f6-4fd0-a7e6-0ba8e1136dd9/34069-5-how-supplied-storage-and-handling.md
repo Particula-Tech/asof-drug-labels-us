@@ -6,7 +6,7 @@ FLUORESCITE®(fluorescein injection, USP) 10% is supplied in a single use 5 mL g
 The vial stopper is not made with natural rubber latex.
 The vial contains a sterile, red-orange solution of fluorescein sodium.
 
-NDC 0065-0092-05 NDC 0065-0092-65
+NDC 0065-0092-65
 
 ## 16.2 Storage
 
