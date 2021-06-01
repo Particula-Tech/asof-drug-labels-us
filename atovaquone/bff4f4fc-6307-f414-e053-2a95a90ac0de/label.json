@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212918"
+  ],
+  "inn": "atovaquone",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-252-87"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "Atovaquone"
+    }
+  ],
+  "setid": "bff4f4fc-6307-f414-e053-2a95a90ac0de",
+  "source": "dailymed"
+}
