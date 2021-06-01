@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Pravastatin sodium tablets USP are supplied as:
+Pravastatin sodium tablets, USP are supplied as:
 
 10 mg tablets: Yellow colored, circular shaped, flat faced tablets with “G5” debossed on one side and “10” debossed on the other side.
 They are supplied in bottles of 90 (NDC 68462-195-90) and bottles of 500 (NDC 68462-195-05).
