@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022518"
+  ],
+  "inn": "formoterol",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-125-01",
+    "78206-125-59",
+    "78206-126-01",
+    "78206-126-02",
+    "78206-126-59",
+    "78206-127-01",
+    "78206-127-02",
+    "78206-127-59"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL",
+      "generic": "mometasone furoate and formoterol fumarate dihydrate",
+      "name": "Dulera"
+    }
+  ],
+  "setid": "8f399784-f257-4f31-b3dc-368bf2a1864d",
+  "source": "dailymed"
+}
