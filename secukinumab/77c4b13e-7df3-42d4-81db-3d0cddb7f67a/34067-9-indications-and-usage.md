@@ -2,7 +2,7 @@
 
 ## 1.1 Plaque Psoriasis
 
-COSENTYX® is indicated for the treatment of moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy or phototherapy.
+COSENTYX® is indicated for the treatment of moderate to severe plaque psoriasis in patients 6 years and older who are candidates for systemic therapy or phototherapy.
 
 ## 1.2 Psoriatic Arthritis
 
@@ -12,6 +12,6 @@ COSENTYX is indicated for the treatment of adult patients with active psoriatic 
 
 COSENTYX is indicated for the treatment of adult patients with active ankylosing spondylitis.
 
-## 1.4 Non-radiographic Axial Spondyloarthritis
+## 1.4 Non-Radiographic Axial Spondyloarthritis
 
 COSENTYX is indicated for the treatment of adult patients with active non-radiographic axial spondyloarthritis (nr-axSpA) with objective signs of inflammation.

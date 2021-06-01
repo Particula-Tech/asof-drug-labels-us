@@ -1,23 +1,23 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Plaque Psoriasis
+## 14.1 Adult Plaque Psoriasis
 
-Four multicenter, randomized, double-blind, placebo-controlled trials (Trials 1, 2, 3, and 4) enrolled 2403 subjects (691 randomized to COSENTYX 300 mg, 692 to COSENTYX 150 mg, 694 to placebo, and 323 to a biologic active control) 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, and Psoriasis Area and Severity Index (PASI) score greater than or equal to 12, and who were candidates for phototherapy or systemic therapy.
+Four multicenter, randomized, double-blind, placebo-controlled trials (Trials PsO1, PsO2, PsO3, and PsO4) enrolled 2403 subjects (691 randomized to COSENTYX 300 mg, 692 to COSENTYX 150 mg, 694 to placebo, and 323 to a biologic active control) 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, and Psoriasis Area and Severity Index (PASI) score greater than or equal to 12, and who were candidates for phototherapy or systemic therapy.
 
-- Trial 1 enrolled 738 subjects (245 randomized to COSENTYX 300 mg, 245 to COSENTYX 150 mg, and 248 to placebo).
+- Trial PsO1 (NCT01365455) enrolled 738 subjects (245 randomized to COSENTYX 300 mg, 245 to COSENTYX 150 mg, and 248 to placebo).
   Subjects received subcutaneous treatment at Weeks 0, 1, 2, 3, and 4 followed by dosing every 4 weeks.
   Subjects randomized to COSENTYX received 300 mg or 150 mg doses at Weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks.
   Subjects randomized to receive placebo that were non-responders at Week 12 were then crossed over to receive COSENTYX (either 300 mg or 150 mg) at Weeks 12, 13, 14, 15, and 16 followed by the same dose every 4 weeks.
   All subjects were followed for up to 52 weeks following first administration of study treatment.
-- Trial 2 enrolled 1306 subjects (327 randomized to COSENTYX 300 mg, 327 to COSENTYX 150 mg, 326 to placebo, and 323 to a biologic active control).
+- Trial PsO2 (NCT01358578) enrolled 1306 subjects (327 randomized to COSENTYX 300 mg, 327 to COSENTYX 150 mg, 326 to placebo, and 323 to a biologic active control).
   COSENTYX and placebo data are described.
   Subjects received subcutaneous treatment at Weeks 0, 1, 2, 3, and 4 followed by dosing every 4 weeks.
   Subjects randomized to COSENTYX received 300 mg or 150 mg doses at Weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks.
   Subjects randomized to receive placebo that were non-responders at Week 12 then crossed over to receive COSENTYX (either 300 mg or 150 mg) at Weeks 12, 13, 14, 15, and 16 followed by the same dose every 4 weeks.
   All subjects were followed for up to 52 weeks following first administration of study treatment.
-- Trial 3 enrolled 177 subjects (59 randomized to COSENTYX 300 mg, 59 to COSENTYX 150 mg, and 59 to placebo) and assessed safety, tolerability, and usability of COSENTYX self-administration via prefilled syringe for 12 weeks.
+- Trial PsO3 (NCT01555125) enrolled 177 subjects (59 randomized to COSENTYX 300 mg, 59 to COSENTYX 150 mg, and 59 to placebo) and assessed safety, tolerability, and usability of COSENTYX self-administration via prefilled syringe for 12 weeks.
   Subjects received subcutaneous treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks for up to 12 weeks total.
-- Trial 4 enrolled 182 subjects (60 randomized to COSENTYX 300 mg, 61 to COSENTYX 150 mg, and 61 to placebo) and assessed safety, tolerability, and usability of COSENTYX self-administration via Sensoready pen for 12 weeks.
+- Trial PsO4 (NCT01636687) enrolled 182 subjects (60 randomized to COSENTYX 300 mg, 61 to COSENTYX 150 mg, and 61 to placebo) and assessed safety, tolerability, and usability of COSENTYX self-administration via Sensoready pen for 12 weeks.
   Subjects received subcutaneous treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks for up to 12 weeks total.
 
 Endpoints
@@ -32,52 +32,82 @@ Treatment success of “clear” or “almost clear” consisted of no signs of 
 Baseline Characteristics
 
 Across all treatment groups the baseline PASI score ranged from 11 to 72 with a median of 20 and the baseline IGA score ranged from “moderate” (62%) to “severe” (38%).
-Of the 2077 plaque psoriasis subjects who were included in the placebo-controlled trials, 79% were biologic-naïve (have never received a prior treatment with biologics) and 45% were non-biologic failures (failed to respond to a prior treatment with non-biologics therapies).
-Of the patients who received a prior treatment with biologics, over one-third were biologic failures.
+Of the 2077 plaque psoriasis subjects who were included in the placebo-controlled trials, 79% were biologic-naïve (have never received a prior treatment with biologics) and 45% were non-biologic failures (failed to respond to a prior treatment with non-biologic therapies).
+Of the subjects who received a prior treatment with biologics, over one-third were biologic failures.
 Approximately 15% to 25% of trial subjects had a history of psoriatic arthritis.
 
 Clinical Response
 
-The results of Trials 1 and 2 are presented in Table 2.
+The results of Trials PsO1 and PsO2 are presented in Table 3.
 
-Table 2: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 1 and 2
+Table 3: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials PsO1 and PsO2
 
-|  | Trial 1 |  |  | Trial 2 |  |  |
+|  | Trial PsO1 |  |  | Trial PsO2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | COSENTYX 300 mg (N = 245) n (%) | COSENTYX 150 mg (N = 245) n (%) | Placebo (N = 248) n (%) | COSENTYX 300 mg (N = 327) n (%) | COSENTYX 150 mg (N = 327) n (%) | Placebo (N = 326) n (%) |
 | PASI 75 response | 200 (82) | 174 (71) | 11 (4) | 249 (76) | 219 (67) | 16 (5) |
 | IGA of clear or almost clear | 160 (65) | 125 (51) | 6 (2) | 202 (62) | 167 (51) | 9 (3) |
 
-The results of Trials 3 and 4 are presented in Table 3.
+The results of Trials PsO3 and PsO4 are presented in Table 4.
 
-Table 3: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 3 and 4
+Table 4: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials PsO3 and PsO4
 
-|  | Trial 3 |  |  | Trial 4 |  |  |
+|  | Trial PsO3 |  |  | Trial PsO4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | COSENTYX 300 mg (N = 59) n (%) | COSENTYX 150 mg (N = 59) n (%) | Placebo (N = 59) n (%) | COSENTYX 300 mg (N = 60) n (%) | COSENTYX 150 mg (N = 61) n (%) | Placebo (N = 61) n (%) |
 | PASI 75 response | 44 (75) | 41 (69) | 0 (0) | 52 (87) | 43 (70) | 2 (3) |
 | IGA of clear or almost clear | 40 (68) | 31 (53) | 0 (0) | 44 (73) | 32 (52) | 0 (0) |
 
 Examination of age, gender, and race subgroups did not identify differences in response to COSENTYX among these subgroups.
-Based on post-hoc sub-group analyses in patients with moderate to severe psoriasis, patients with lower body weight and lower disease severity may achieve an acceptable response with COSENTYX 150 mg.
+Based on post-hoc sub-group analyses in subjects with moderate to severe psoriasis, subjects with lower body weight and lower disease severity may achieve an acceptable response with COSENTYX 150 mg.
 
-PASI 90 response at Week 12 was achieved with COSENTYX 300 mg and 150 mg compared to placebo in 59% (145/245) and 39% (95/245) versus 1% (3/248) of subjects, respectively (Trial 1) and 54% (175/327) and 42% (137/327) versus 2% (5/326) of subjects, respectively (Trial 2).
-Similar results were seen in Trials 3 and 4.
+PASI 90 response at Week 12 was achieved with COSENTYX 300 mg and 150 mg compared to placebo in 59% (145/245) and 39% (95/245) versus 1% (3/248) of subjects, respectively (Trial PsO1) and 54% (175/327) and 42% (137/327) versus 2% (5/326) of subjects, respectively (Trial PsO2).
+Similar results were seen in Trials PsO3 and PsO4.
 
-With continued treatment over 52 weeks, subjects in Trial 1 who were PASI 75 responders at Week 12 maintained their responses in 81% (161/200) of the subjects treated with COSENTYX 300 mg and in 72% (126/174) of subjects treated with COSENTYX 150 mg.
-Trial 1 subjects who were clear or almost clear on the IGA at Week 12 also maintained their responses in 74% (119/160) of subjects treated with COSENTYX 300 mg and in 59% (74/125) of subjects treated with COSENTYX 150 mg.
-Similarly in Trial 2, PASI 75 responders maintained their responses in 84% (210/249) of subjects treated with COSENTYX 300 mg and in 82% (180/219) of subjects treated with COSENTYX 150 mg.
-Trial 2 subjects who were clear or almost clear on the IGA also maintained their responses in 80% (161/202) of subjects treated with COSENTYX 300 mg and in 68% (113/167) of subjects treated with COSENTYX 150 mg.
+With continued treatment over 52 weeks, subjects in Trial PsO1 who were PASI 75 responders at Week 12 maintained their responses in 81% (161/200) of the subjects treated with COSENTYX 300 mg and in 72% (126/174) of subjects treated with COSENTYX 150 mg.
+Trial PsO1 subjects who were clear or almost clear on the IGA at Week 12 also maintained their responses in 74% (119/160) of subjects treated with COSENTYX 300 mg and in 59% (74/125) of subjects treated with COSENTYX 150 mg.
+Similarly in Trial PsO2, PASI 75 responders maintained their responses in 84% (210/249) of subjects treated with COSENTYX 300 mg and in 82% (180/219) of subjects treated with COSENTYX 150 mg.
+Trial PsO2 subjects who were clear or almost clear on the IGA also maintained their responses in 80% (161/202) of subjects treated with COSENTYX 300 mg and in 68% (113/167) of subjects treated with COSENTYX 150 mg.
 
-Among the subjects who chose to participate (39%) in assessments of patient reported outcomes, improvements in signs and symptoms related to itching, pain, and scaling, at Week 12 compared to placebo (Trials 1 and 2) were observed using the Psoriasis Symptom Diary©.
+Among the subjects who chose to participate (39%) in assessments of patient reported outcomes, improvements in signs and symptoms related to itching, pain, and scaling, at Week 12 compared to placebo (Trials PsO1 and PsO2) were observed using the Psoriasis Symptom Diary©.
 
 Psoriasis Lesions of Scalp
 
-A randomized, placebo-controlled study enrolled 102 subjects with moderate to severe psoriasis lesions of scalp, defined as having a Psoriasis Scalp Severity Index (PSSI) score of greater than or equal to 12, an IGA scalp only score of 3 or greater, and at least 30% of the scalp affected.
-In this study, 62% of subjects had at least 50% of scalp surface area affected.
+A randomized, placebo-controlled trial (Trial PsO5; NCT02267135) enrolled 102 subjects with moderate to severe psoriasis lesions of scalp, defined as having a Psoriasis Scalp Severity Index (PSSI) score of greater than or equal to 12, an IGA scalp only score of 3 or greater, and at least 30% of the scalp affected.
+In this trial, 62% of subjects had at least 50% of scalp surface area affected.
 The proportions of subjects achieving an IGA scalp only score of 0 or 1 (clear or almost clear) were 56.9% and 5.9% for the COSENTYX 300 mg and the placebo groups, respectively.
 
-## 14.2 Psoriatic Arthritis
+## 14.2 Pediatric Plaque Psoriasis
+
+A 52-week, multicenter randomized, double-blind, placebo and active-controlled trial (Trial PsO6; NCT02471144) enrolled 162 pediatric subjects 6 years of age and older, with severe plaque psoriasis (as defined by a PASI score ≥ 20, an IGA modified 2011 score of 4, and involving ≥ 10% of the body surface area) who were candidates for systemic therapy.
+
+Subjects were randomized to receive placebo, COSENTYX, or a biologic active control.
+In the COSENTYX groups, subjects with body weight < 25 kg received 75 mg, subjects with body weight 25 to < 50 kg received either 75 mg or 150 mg (2 times the recommended dose), and subjects with body weight ≥ 50 kg received either 150 mg or 300 mg (2 times the recommended dose).
+Subjects in the COSENTYX and placebo groups received treatment at Weeks 0, 1, 2, 3, and 4 followed by dosing every 4 weeks.
+At Week 12, subjects randomized to placebo who were non-responders were switched to COSENTYX (dose based on body weight) and received COSENTYX at Weeks 12, 13, 14, and 15, followed by the same dose every 4 weeks starting at Week 16.
+
+Overall, 60% of the subjects were female, 83% were Caucasian, the median body weight was 50.6 kg, and the mean age was 13.5 years with 23% of the subjects < 12 years.
+At baseline, the median PASI score was 26 (ranged from 17 to 60), and 99% of the subjects had an IGA modified 2011 score of 4 (‘severe’).
+Approximately 43% of the subjects had prior exposure to phototherapy, 53% to conventional systemic therapy, 3% to biologics, and 9% had concomitant psoriatic arthritis.
+
+The co-primary endpoints were the proportion of subjects who achieved a reduction in PASI score of at least 75% (PASI 75) from baseline to Week 12 and the proportion of subjects who achieved an IGA modified 2011 score of ‘clear’ or ‘almost clear’ (0 or 1) with at least a 2 point improvement from baseline to Week 12.
+The key secondary endpoint was the proportion of subjects who achieved a reduction in PASI score of at least 90% (PASI 90) from baseline to Week 12.
+
+Clinical Response
+
+Table 5 presents the efficacy results at Week 12 by baseline weight strata for the approved dose.
+
+Table 5: Clinical Outcomes at Week 12 in Pediatric Subjects with Severe Plaque Psoriasis in Trial PsO6
+
+|  | Body Weight < 50 kg |  | Body Weight ≥ 50 kg |  | Total |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | COSENTYX 75 mg (N = 22) n (%) | Placebo (N = 20) n (%) | COSENTYX 150 mg (N = 21) n (%) | Placebo (N = 21) n (%) | COSENTYXa (N = 43) n (%) | Placebo (N = 41) n (%) |
+| IGA of clear or almost clear | 7 (32) | 1 (5) | 17 (81) | 1 (5) | 24 (56) | 2 (5) |
+| PASI 75 response | 12 (55) | 2 (10) | 18 (86) | 4 (19) | 30 (70) | 6 (15) |
+| PASI 90 response | 9 (41) | 1 (5) | 17 (81) | 0 (0) | 26 (60) | 1 (2) |
+| Non-responder imputation was used to handle missing values. aCOSENTYX treated subjects received 75 mg for subjects < 50 kg and 150 mg for subjects ≥ 50 kg body weight. |  |  |  |  |  |  |
+
+## 14.3 Psoriatic Arthritis
 
 The safety and efficacy of COSENTYX were assessed in 1999 patients, in 3 randomized, double-blind, placebo-controlled studies (PsA1, PsA2 and PsA3) in adult patients, age 18 years and older with active psoriatic arthritis (greater than or equal to 3 swollen and greater than or equal to 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
 Patients in these studies had a diagnosis of PsA of at least 5 years across all studies.
@@ -99,13 +129,13 @@ The primary endpoint was ACR20 response at Week 16 with the key secondary endpoi
 
 Clinical Response
 
-In PsA1, patients treated with 150 mg or 300 mg COSENTYX demonstrated a greater clinical response, including ACR20, ACR50, and ACR70 compared to placebo at Week 24 (Table 4).
+In PsA1, patients treated with 150 mg or 300 mg COSENTYX demonstrated a greater clinical response, including ACR20, ACR50, and ACR70 compared to placebo at Week 24 (Table 6).
 Responses were similar in patients regardless of concomitant methotrexate treatment.
 Responses were seen regardless of prior anti-TNFα exposure.
 
 In patients with coexistent plaque psoriasis receiving COSENTYX (n = 99), the skin lesions of psoriasis improved with treatment, relative to placebo, as measured by the Psoriasis Area Severity Index (PASI).
 
-Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
+Table 6: Responsesa in PsA1 Study at Week 16 and Week 24
 
 |  | COSENTYX | COSENTYX | Placebo | Difference from Placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -128,9 +158,9 @@ Figure 1: Percent of Patients Achieving ACR 20 Responsea in PsA1 Study Through W
 
 aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders.
 
-The improvements in the components of the ACR response criteria are shown in Table 5.
+The improvements in the components of the ACR response criteria are shown in Table 7.
 
-Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
+Table 7: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 
 |  | COSENTYX 150 mg (N = 100) | COSENTYX 300 mg (N = 100) | Placebo (N = 98) |
 | --- | --- | --- | --- |
@@ -166,7 +196,7 @@ Radiographs of hands, wrists, and feet were obtained at baseline, Week 16 and/or
 COSENTYX 150 mg without load, 150 mg with load and 300 mg with load treatment significantly inhibited progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at Week 24.
 The percentage of patients with no disease progression (defined as a change from baseline in mTSS of less than or equal to 0.0) from randomization to Week 24 was 75.7%, 70.9%, and 76.5% for COSENTYX 150 mg without load, 150 mg, 300 mg, respectively versus 68.2% for placebo.
 
-Table 6: Rate of Change per 24 Weeks in Modified Total Sharp Score
+Table 8: Rate of Change per 24 Weeks in Modified Total Sharp Score
 
 | Treatment | N | Rate of Change per 24 weeks | Difference from Placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -181,40 +211,40 @@ Physical Function
 Improvement in physical function as assessed by Health Assessment Questionnaire-Disability Index (HAQ-DI) demonstrated that the proportion of patients who achieved at least -0.3 improvement in HAQ-DI score from baseline was greater in the COSENTYX 150 mg and 300 mg groups compared to placebo at Week 16 and 24.
 At Week 16 in PsA1 study, estimated mean change from baseline was -0.23 in the placebo group compared with -0.45 in the COSENTYX 150 mg group and -0.55 in the COSENTYX 300 mg group.
 
-## 14.3 Ankylosing Spondylitis
+## 14.4 Ankylosing Spondylitis
 
 The safety and efficacy of COSENTYX were assessed in 816 patients in three randomized, double-blind, placebo-controlled studies (AS1, AS2 and AS3) in adult patients 18 years of age and older with active ankylosing spondylitis.
 Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
 At baseline, approximately 13% and 25% used concomitant methotrexate or sulfasalazine, respectively.
 Overall, 29% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
 
-AS1 Study evaluated 219 patients, who were treated with COSENTYX 75 mg or 150 mg subcutaneous treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks.
+AS1 Study (NCT01649375) evaluated 219 patients, who were treated with COSENTYX 75 mg or 150 mg subcutaneous treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks.
 At Week 16, patients receiving placebo were re-randomized to either COSENTYX 75 mg or 150 mg every 4 weeks.
 The primary endpoint was the percentage of patients achieving an ASAS20 response at Week 16.
 
-AS2 Study evaluated 371 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
+AS2 Study (NCT01358175) evaluated 371 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 75 mg or 150 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
 
-AS3 Study evaluated 226 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 150 mg or 300 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
+AS3 Study (NCT02008916) evaluated 226 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 150 mg or 300 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 150 mg or 300 mg every 4 weeks) at Week 16.
 The primary endpoint was the percentage of patients achieving an ASAS20 response at Week 16.
 Patients were blinded to the treatment regimen up to Week 52, and the study continued to Week 156.
 
 Clinical Response
 
-In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 7).
+In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 9).
 Responses were similar in patients regardless of concomitant therapies.
 
-Table 7: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
+Table 9: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
 
 |  | COSENTYX 150 mg (n = 72) | Placebo (n = 74) | Difference from placebo (95% CI) |
 | --- | --- | --- | --- |
 | ASAS20 response, % | 61 | 28 | 33 (18, 48) |
 | ASAS40 response, % | 36 | 11 | 25 (12, 38) |
 
-The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 8.
+The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 10.
 
-Table 8: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
+Table 10: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
 
 |  | COSENTYX 150 mg (N = 72) |  | Placebo (N = 74) |  |
 | --- | --- | --- | --- | --- |
@@ -227,7 +257,7 @@ Table 8: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS
 | BASDAI Score4 | 6.6 | -2.2 | 6.8 | -0.9 |
 | BASMI5 | 3.6 | -0.51 | 3.9 | -0.22 |
 | hsCRP6 (mg/L) Mean Change at Week 16 | 27.0 | -17.2 | 15.9 | 0.8 |
-| Percent of subjects with at least a 20% and 10 unit improvement measured on a Visual Analog Scale (VAS) with 0= none, 100= severeBath Ankylosing Spondylitis Functional IndexInflammation is the mean of two patient-reported stiffness self-assessment in BASDAIBath Ankylosing Spondylitis Disease Activity IndexBath Ankylosing Spondylitis Metrology IndexHigh sensitivity C-reactive protein / mean change based upon observed data |  |  |  |  |
+| Percent of subjects with at least a 20% and 10 unit improvement measured on a Visual Analog Scale (VAS) with 0 = none, 100 = severeBath Ankylosing Spondylitis Functional Index.Inflammation is the mean of two patient-reported stiffness self-assessment in BASDAI.Bath Ankylosing Spondylitis Disease Activity Index.Bath Ankylosing Spondylitis Metrology Index.High sensitivity C-reactive protein / mean change based upon observed data. |  |  |  |  |
 
 The percent of patients achieving ASAS20 responses by visit is shown in Figure 2.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).
@@ -242,25 +272,25 @@ Figure 3: ASAS20 Responses in all AS3 Study Patients Over Time Up to Week 16
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.
 
-## 14.4 Non-radiographic Axial Spondyloarthritis
+## 14.5 Non-Radiographic Axial Spondyloarthritis
 
-The safety and efficacy of COSENTYX were assessed in 555 patients in one randomized, double-blind, placebo-controlled Phase 3 study (nr-axSpA1) in adult patients 18 years of age and older with active non-radiographic axial spondyloarthritis.
+The safety and efficacy of COSENTYX were assessed in 555 patients in one randomized, double-blind, placebo-controlled Phase 3 study (nr-axSpA1, NCT02696031) in adult patients 18 years of age and older with active non-radiographic axial spondyloarthritis.
 Patients met ASAS criteria for axial spondyloarthritis and had active disease as defined by a BASDAI greater or equal to 4, a Visual Analogue Scale (VAS) for total back pain greater or equal to 40 (on a scale of 0-100 mm) despite NSAID therapy and no evidence of radiographic changes in the sacroiliac joints that would meet the modified New York criteria for AS.
 Patients also had to have objective signs of inflammation with a C-reactive protein (CRP) level above the upper limit of normal and/or evidence of sacroiliitis on Magnetic Resonance Imaging (MRI).
 Approximately 10% and 15% of patients used concomitant methotrexate or sulfasalazine, respectively.
 Overall, 10% of patients had received previous treatment with anti-TNFα agents and discontinued these due to either lack of efficacy or intolerance.
 
-Patients were treated with COSENYX 150 mg subcutaneous treatment with load (Weeks 0, 1, 2, 3, and 4) or without a load (Weeks 0 and 4) followed by the same dose every 4 weeks or placebo.
+Patients were treated with COSENTYX 150 mg subcutaneous treatment with load (Weeks 0, 1, 2, 3, and 4) or without a load (Weeks 0 and 4) followed by the same dose every 4 weeks or placebo.
 In the double-blind period, patients (n = 555) received either placebo or COSENTYX for 52 weeks.
 Starting Week 16, dose adjustment or addition of concomitant NSAIDs and DMARDs was permitted.
 Starting at Week 20, patients were allowed to switch to open-label COSENTYX 150 mg monthly or other biologic at the discretion of the investigator and patient.
-The primary endpoint was at least 40% improvement in Assessment of Spondyloarthritis International Society (ASAS40) at Weeks 52.
+The primary endpoint was at least 40% improvement in Assessment of Spondyloarthritis International Society (ASAS40) at Week 52.
 
 Clinical Response
 
-In nr-axSpA1 Study, treatment with COSENTYX 150 mg resulted in significant improvements in the measure of disease activity compared to placebo at Week 16 and Week 52 (Table 9).
+In nr-axSpA1 Study, treatment with COSENTYX 150 mg resulted in significant improvements in the measure of disease activity compared to placebo at Week 16 and Week 52 (Table 11).
 
-Table 9: Clinical Response in nr-axSpA1 Study at Week 16 and Week 52
+Table 11: Clinical Response in nr-axSpA1 Study at Week 16 and Week 52
 
 | Number of subjects with ASAS40 response (%) | COSENTYX 150 mg without load (n = 184) | COSENTYX 150 mg with load (n = 185) |  | Difference from Placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -269,9 +299,9 @@ Table 9: Clinical Response in nr-axSpA1 Study at Week 16 and Week 52
 | Week 52 | 70 (38) | 62 (34) | 36 (19) | 19 (10, 28) | 14 (5, 23) |
 | Difference in proportions with 95% CI based on normal approximation. |  |  |  |  |  |
 
-The results of the main components of the ASAS40 response criteria are shown in Table 10.
+The results of the main components of the ASAS40 response criteria are shown in Table 12.
 
-Table 10: Main Components of the ASAS40 Response Criteria and Other Measures of Disease Activity in nr-axSpA Patients at Baseline and Week 16 in nr-axSpA1 Study
+Table 12: Main Components of the ASAS40 Response Criteria and Other Measures of Disease Activity in nr-axSpA Patients at Baseline and Week 16 in nr-axSpA1 Study
 
 |  | COSENTYX 150 mg without load (N = 184) |  | COSENTYX 150 mg with load (N = 185) |  | Placebo (N = 186) |  |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -4,10 +4,10 @@
 
 Risk Summary
 
-Limited available human data with COSENTYX use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
+Limited available human data with COSENTYX use in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 In an embryo-fetal development study, no adverse developmental effects were observed in infants born to pregnant monkeys after subcutaneous administration of secukinumab during organogenesis at doses up to 30 times the maximum recommended human dose (MRHD) (see Data).
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
 Data
 
@@ -17,7 +17,7 @@ An embryo-fetal development study was performed in cynomolgus monkeys with secuk
 No malformations or embryo-fetal toxicity were observed in fetuses from pregnant monkeys that were administered secukinumab weekly by the subcutaneous route during the period of organogenesis at doses up to 30 times the MRHD (on a mg/kg basis at a maternal dose of 150 mg/kg).
 
 A pre- and post-natal development toxicity study was performed in mice with a murine analog of secukinumab.
-No treatment related effects on functional, morphological or immunological development were observed in fetuses from pregnant mice that were administered the murine analog of secukinumab on gestation days 6, 11, and 17 and on postpartum days 4, 10, and 16 at doses up to 150 mg/kg/dose.
+No treatment-related effects on functional, morphological or immunological development were observed in fetuses from pregnant mice that were administered the murine analog of secukinumab on gestation days 6, 11, and 17 and on postpartum days 4, 10, and 16 at doses up to 150 mg/kg/dose.
 
 ## 8.2 Lactation
 
@@ -29,7 +29,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of COSENTYX in pediatric patients have not been evaluated.
+The safety and effectiveness of COSENTYX have been established in pediatric subjects aged 6 years and older with moderate to severe plaque psoriasis [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Safety and effectiveness of COSENYX in pediatric patients with plaque psoriasis below the age of 6 years have not been established.
+
+The safety and effectiveness of COSENTYX in pediatric patients in other indications have not been established.
 
 ## 8.5 Geriatric Use
 

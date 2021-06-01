@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0639-97
 
@@ -23,5 +23,27 @@ Sterile Solution - Contains No Preservative
 Caution: Contains Natural Rubber Latex Which May Cause Allergic Reaction.
 
 Rx only
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-1056-97
+
+Rx only
+
+Cosentyx®
+
+(secukinumab) Injection
+
+75 mg/0.5 mL
+
+1 Single-dose Prefilled Syringe
+
+For Subcutaneous Use Only
+
+Caution: Contains Natural Rubber Latex Which May Cause Allergic Reaction.
+
+ATTENTION: Dispense with enclosed Medication Guide.
 
 NOVARTIS
