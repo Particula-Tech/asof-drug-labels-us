@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017555"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-166-01",
+    "78206-167-01",
+    "78206-168-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa and levodopa",
+      "name": "SINEMET"
+    }
+  ],
+  "setid": "9b17b028-964a-473c-823d-81423535bd66",
+  "source": "dailymed"
+}

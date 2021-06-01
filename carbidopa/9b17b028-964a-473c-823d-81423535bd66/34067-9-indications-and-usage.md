@@ -1,0 +1,10 @@
+# INDICATIONS AND USAGE
+
+SINEMET is indicated in the treatment of Parkinson's disease, post-encephalitic parkinsonism, and symptomatic parkinsonism that may follow carbon monoxide intoxication or manganese intoxication.
+
+Carbidopa allows patients treated for Parkinson's disease to use much lower doses of levodopa.
+Some patients who responded poorly to levodopa have improved on SINEMET.
+This is most likely due to decreased peripheral decarboxylation of levodopa caused by administration of carbidopa rather than by a primary effect of carbidopa on the nervous system.
+Carbidopa has not been shown to enhance the intrinsic efficacy of levodopa.
+
+Carbidopa may also reduce nausea and vomiting and permit more rapid titration of levodopa.
