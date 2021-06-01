@@ -4,7 +4,7 @@ Ursodiol Capsules USP, 300 mg are supplied as opaque white body and pink cap, im
 
 They are available as follows:
 
-Bottle of 100 Capsules: NDC 69238-1540-1
+Bottles of 100: NDC 69238-1540-1
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
@@ -18,4 +18,4 @@ Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2017-00
+11-2018-01
