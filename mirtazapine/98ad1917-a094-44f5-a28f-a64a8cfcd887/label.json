@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA020415",
+    "NDA021208"
+  ],
+  "inn": "mirtazapine",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-156-01",
+    "78206-156-99",
+    "78206-158-01",
+    "78206-158-99",
+    "78206-159-01",
+    "78206-159-99",
+    "78206-160-01",
+    "78206-161-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mirtazapine",
+      "name": "REMERON"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "mirtazapine",
+      "name": "REMERONSOLTAB"
+    }
+  ],
+  "setid": "98ad1917-a094-44f5-a28f-a64a8cfcd887",
+  "source": "dailymed"
+}

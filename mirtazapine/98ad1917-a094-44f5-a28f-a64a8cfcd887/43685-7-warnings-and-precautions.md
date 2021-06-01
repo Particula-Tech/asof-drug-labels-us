@@ -1,0 +1,135 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
+
+Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+
+| Age Range | Drug-Placebo Difference in Number of Patients with Suicidal Thoughts or Behaviors per 1000 Patients Treated |
+| --- | --- |
+|  | Increases Compared to Placebo |
+| <18 years old | 14 additional patients |
+| 18–24 years old | 5 additional patients |
+|  | Decreases Compared to Placebo |
+| 25–64 years old | 1 fewer patient |
+| ≥65 years old | 6 fewer patients |
+
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
+
+Monitor all antidepressant-treated patients for any indication of clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing REMERON/REMERONSolTab, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
+
+## 5.2 Agranulocytosis
+
+In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
+For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
+All 3 patients recovered after REMERON was stopped.
+If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low white blood cell (WBC) count, treatment with REMERON/REMERONSolTab should be discontinued and the patient should be closely monitored.
+
+## 5.3 Serotonin Syndrome
+
+Serotonergic antidepressants, including REMERON/REMERONSolTab, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
+Serotonin syndrome can also occur when these drugs are used alone.
+
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+The concomitant use of REMERON/REMERONSolTab with MAOIs is contraindicated.
+In addition, do not initiate REMERON/REMERONSolTab in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking REMERON/REMERONSolTab, discontinue REMERON/REMERONSolTab before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions (7)].
+
+Monitor all patients taking REMERON/REMERONSolTab for the emergence of serotonin syndrome.
+Discontinue treatment with REMERON/REMERONSolTab and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of REMERON/REMERONSolTab with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
+
+## 5.4 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs, including REMERON/REMERONSolTab, may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.5 QT Prolongation and Torsades de Pointes
+
+The effect of REMERON (mirtazapine) on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However, the degree of QT prolongation observed with both 45 mg and 75 mg (1.67 times the maximum recommended daily dose) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
+During postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported [see Adverse Reactions (6.1, 6.2)].
+The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines [see Drug Interactions (7) and Overdosage (10)].
+Exercise caution when REMERON/REMERONSolTab is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other drugs thought to prolong the QTc interval.
+
+## 5.6 Increased Appetite and Weight Gain
+
+In U.S. controlled clinical studies, appetite increase was reported in 17% of patients treated with REMERON, compared to 2% for placebo.
+In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo.
+In a pool of premarketing U.S. clinical studies, including many patients for long-term, open-label treatment, 8% of patients receiving REMERON discontinued for weight gain.
+
+In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated pediatric patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+The safety and effectiveness of REMERON/REMERONSolTab in pediatric patients with MDD have not been established [see Use in Specific Populations (8.4)].
+
+## 5.7 Somnolence
+
+In U.S. controlled studies, somnolence was reported in 54% of patients treated with REMERON, compared to 18% for placebo.
+In these studies, somnolence resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo.
+It is unclear whether tolerance develops to the somnolent effects of REMERON/REMERONSolTab.
+Because of the potentially significant effects of REMERON/REMERONSolTab on impairment of performance, caution patients about engaging in activities that require alertness, including operating hazardous machinery and motor vehicles, until they are reasonably certain that REMERON/REMERONSolTab does not affect them adversely.
+The concomitant use of benzodiazepines and alcohol with REMERON/REMERONSolTab should be avoided [see Drug Interactions (7)].
+
+## 5.8 Activation of Mania or Hypomania
+
+In patients with bipolar disorder, treating a depressive episode with REMERON/REMERONSolTab or another antidepressant may precipitate a mixed/manic episode.
+In controlled clinical trials, patients with bipolar disorder were generally excluded; however, symptoms of mania or hypomania were reported in 0.2% of patients treated with REMERON.
+Prior to initiating treatment with REMERON/REMERONSolTab, screen patients for any personal or family history of bipolar disorder, mania, or hypomania.
+
+## 5.9 Seizures
+
+REMERON/REMERONSolTab has not been systematically evaluated in patients with seizure disorders.
+In premarketing clinical trials, 1 seizure was reported among the 2796 U.S. and non-U.S. patients treated with REMERON.
+REMERON/REMERONSolTab should be prescribed with caution in patients with a seizure disorder.
+
+## 5.10 Elevated Cholesterol and Triglycerides
+
+In U.S. controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with REMERON, compared to 7% for placebo.
+In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with REMERON, compared to 3% for placebo.
+
+## 5.11 Hyponatremia
+
+Hyponatremia may occur as a result of treatment with serotonergic antidepressants, including REMERON/REMERONSolTab.
+Cases with serum sodium lower than 110 mmol/L have been reported.
+
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+
+In patients with symptomatic hyponatremia, discontinue REMERON/REMERONSolTab and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia [see Use in Specific Populations (8.5)].
+
+## 5.12 Transaminase Elevations
+
+Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients treated with REMERON in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients.
+While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued REMERON treatment.
+REMERON/REMERONSolTab should be used with caution in patients with impaired hepatic function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 5.13 Discontinuation Syndrome
+
+There have been reports of adverse reactions upon the discontinuation of REMERON/REMERONSolTab (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+
+A gradual reduction in the dosage, rather than an abrupt cessation, is recommended [see Dosage and Administration (2.6)].
+
+## 5.14 Use in Patients with Concomitant Illness
+
+REMERON/REMERONSolTab has not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease.
+REMERON was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
+Orthostatic hypotension was infrequently observed in clinical trials with depressed patients [see Adverse Reactions (6.1)].
+REMERON/REMERONSolTab should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
+
+## 5.15 Risks in Patients with Phenylketonuria
+
+Phenylalanine can be harmful to patients with phenylketonuria (PKU).
+REMERONSolTab contains phenylalanine, a component of aspartame.
+REMERONSolTab contains the following amount of phenylalanine: 2.6 mg in 15 mg orally disintegrating tablet, 5.2 mg in 30 mg orally disintegrating tablet, and 7.8 mg in 45 mg orally disintegrating tablet.
+Before prescribing REMERONSolTab to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including REMERONSolTab.
