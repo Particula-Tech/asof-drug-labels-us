@@ -1,0 +1,17 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+In controlled clinical trials, adverse reactions associated with the use of DIPROLENE Ointment reported at a frequency of less than 1% included erythema, folliculitis, pruritus, and vesiculation.
+
+## 6.2 Postmarketing Experience
+
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Postmarketing reports for local adverse reactions to topical corticosteroids may also include: skin atrophy, telangiectasias, burning, irritation, dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, striae, and miliaria.
+
+Hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis, and erythematous rash have been reported.
+
+Ophthalmic adverse reactions of cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy have been reported with the use of topical corticosteroids, including topical betamethasone products.
