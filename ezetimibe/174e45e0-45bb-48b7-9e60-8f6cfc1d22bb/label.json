@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021445"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-178-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Zetia"
+    }
+  ],
+  "setid": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+  "source": "dailymed"
+}
