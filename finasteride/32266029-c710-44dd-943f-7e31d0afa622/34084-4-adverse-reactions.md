@@ -2,8 +2,10 @@
 
 ## 6.1 Clinical Trials Experience
 
-Finasteride is generally well tolerated; adverse reactions usually have been mild and transient.
-4-Year Placebo-Controlled Study (A Long-Term Efficacy and Safety Study) In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+4-Year Placebo-Controlled Study (A Long-Term Efficacy and Safety Study)
+
+In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
 The most frequently reported adverse reactions were related to sexual function.
 3.7% (57 patients) treated with finasteride and 2.1% (32 patients) treated with placebo discontinued therapy as a result of adverse reactions related to sexual function, which are the most frequently reported adverse reactions.
 Table 1 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
@@ -31,7 +33,8 @@ The individual adverse effects which occurred more frequently in the combination
 Of these, the incidence of abnormal ejaculation in patients receiving combination therapy was comparable to the sum of the incidences of this adverse experience reported for the two monotherapies.
 Combination therapy with finasteride and doxazosin was associated with no new clinical adverse experience.
 Four patients in MTOPS reported the adverse experience breast cancer.
-Three of these patients were on finasteride only and one was on combination therapy [See Long-Term Data].
+Three of these patients were on finasteride only and one was on combination therapy.
+[See Long-Term Data.]
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 

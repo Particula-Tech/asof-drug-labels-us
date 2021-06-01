@@ -67,8 +67,8 @@ Patients had moderate to severe BPH symptoms at baseline with a mean AUA symptom
 Mean maximum urinary flow rate was 10.5 mL/sec (±2.6 mL/sec).
 The mean prostate volume as measured by transrectal ultrasound was 36.3 mL (±20.1 mL).
 Prostate volume was ≤20 mL in 16% of patients, ≥50 mL in 18% of patients and between 21 and 49 mL in 66% of patients.
-The primary endpoint was a composite measure of the first occurrence of any of the following four outcomes: a ≥4 point confirmed increase from baseline in symptom score, acute urinary retention, BPH-related renal insufficiency (creatinine rise), recurrent urinary tract infections or urosepsis, or incontinence.
-Compared to placebo, treatment with finasteride, doxazosin, or combination therapy resulted in a reduction in the risk of experiencing one of these four outcome events by 34% (p=0.002), 39% (p<0.001), and 67% (p<0.001), respectively.
+The primary endpoint was a composite measure of the first occurrence of any of the following five outcomes: a ≥4 point confirmed increase from baseline in symptom score, acute urinary retention, BPH-related renal insufficiency (creatinine rise), recurrent urinary tract infections or urosepsis, or incontinence.
+Compared to placebo, treatment with finasteride, doxazosin, or combination therapy resulted in a reduction in the risk of experiencing one of these five outcome events by 34% (p=0.002), 39% (p<0.001), and 67% (p<0.001), respectively.
 Combination therapy resulted in a significant reduction in the risk of the primary endpoint compared to treatment with finasteride alone (49%; p≤0.001) or doxazosin alone (46%; p≤0.001).
 (See Table 6.)
 
@@ -77,7 +77,7 @@ Table 6: Count and Percent Incidence of Primary Outcome Events by Treatment Grou
 | Event | Treatment Group |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Placebo N=737 N (%) | Doxazosin N=756 N (%) | Finasteride N=768 N (%) | Combination N=786 N (%) | Total N=3047 N (%) |  |
-| AUA 4-point rise Acute urinary retention Incontinence Recurrent UTI/urosepsis Creatinine rise Total Events | 100 (13.6) 18 (2.4) 8 (1.1) 2 (0.3) 0 (0) 110 (15) | 59 (7.8) 13 (1.7) 11 (1.5) 2 (0.3) 0 (0) 72 (9.6) | 74 (9.6) 6 (0.8) 9 (1.2) 0 (0) 0 (0) 83 (10.8) | 41 (5.2) 4 (0.5) 3 (0.4) 1 (0.1) 0 (0) 45 (5.7) | 274 (9) 41 (1.3) 31 (1) 5 (0.2) 0 (0) 310 (10.2) |
+| AUA 4-point rise Acute urinary retention Incontinence Recurrent UTI/urosepsis Creatinine rise Total Events | 100 (13.6) 18 (2.4) 8 (1.1) 2 (0.3) 0 (0) 128 (17.4) | 59 (7.8) 13 (1.7) 11 (1.5) 2 (0.3) 0 (0) 85 (11.2) | 74 (9.6) 6 (0.8) 9 (1.2) 0 (0) 0 (0) 89 (11.6) | 41 (5.2) 4 (0.5) 3 (0.4) 1 (0.1) 0 (0) 49 (6.2) | 274 (9) 41 (1.3) 31 (1) 5 (0.2) 0 (0) 351 (11.5) |
 
 The majority of the events (274 out of 351; 78%) was a confirmed ≥4 point increase in symptom score, referred to as symptom score progression.
 The risk of symptom score progression was reduced by 30% (p=0.016), 46% (p<0.001), and 64% (p<0.001) in patients treated with finasteride, doxazosin, or the combination, respectively, compared to patients treated with placebo (see Figure 5).
