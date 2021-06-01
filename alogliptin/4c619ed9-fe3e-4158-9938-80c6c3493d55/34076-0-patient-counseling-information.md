@@ -41,4 +41,4 @@ Patients should be informed that the tablets must never be split.
 Instruct patients to read the Medication Guide before starting OSENI therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-ALP008 R9
+ALP008 R10

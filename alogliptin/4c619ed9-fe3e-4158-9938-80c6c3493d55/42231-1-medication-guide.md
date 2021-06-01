@@ -191,8 +191,8 @@ Active ingredients: alogliptin and pioglitazone.
 
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with red A1 or gray F1 printing ink.
 
-Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
-OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc. ©2013 – 2017 Takeda Pharmaceuticals America, Inc. ALP008 R9
+Distributed by Takeda Pharmaceuticals America, Inc. Lexington, MA 02421.
+OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc. ©2013 – 2020 Takeda Pharmaceuticals America, Inc. ALP008 R10
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 12/2016
