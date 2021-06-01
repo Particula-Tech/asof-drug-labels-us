@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020386"
+  ],
+  "inn": "losartan",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-121-01",
+    "78206-122-01",
+    "78206-122-02",
+    "78206-123-01",
+    "78206-123-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "COZAAR"
+    }
+  ],
+  "setid": "9949448f-c3b9-44ee-94ed-c1aca8c90f39",
+  "source": "dailymed"
+}
