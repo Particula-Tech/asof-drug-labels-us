@@ -2,11 +2,11 @@
 
 ## 9.1 Controlled Substance
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a Schedule IV controlled substance.
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a substance with a high potential for abuse similar to other opioids, and can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, a substance with a high potential for abuse similar to other opioids, and can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -16,9 +16,9 @@ Prescription drug abuse is the intentional non-therapeutic use of a prescription
 
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
 
-“Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers.
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers.
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
@@ -54,6 +54,6 @@ Rapid discontinuation has also been associated with attempts to find other sourc
 
 When discontinuing Tramadol Hydrochloride Extended-Release Capsules, gradually taper the dosage using a patient-specific plan that considers the following: the dose of Tramadol Hydrochloride Extended-Release Capsules the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4), Warnings and Precautions (5.17)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.17)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

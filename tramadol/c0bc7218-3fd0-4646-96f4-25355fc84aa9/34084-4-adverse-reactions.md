@@ -25,11 +25,11 @@ These included four double-blind and one long-term, open-label study in patients
 A total of 812 patients were 65 years or older.
 Adverse reactions with doses from 100 mg to 300 mg in the four pooled, randomized, double-blind, placebo-controlled studies in patients with chronic non-malignant pain are presented in the following table (see Table 1).
 
-Table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from four double-blind, placebo controlled studies in patients with moderate to moderately severe chronic pain by dose (N=1917).
+Table 1: Incidence (%) of Patients with Adverse Reaction Rates ≥ 5% from Four Double-Blind, Placebo-Controlled Studies in Patients with Moderate to Moderately Severe Chronic Pain by Dose (N=1917).
 
-|  | TRAMADOL HYDROCHLORIDE EXTENDED-RELEASE CAPSULES |  |  | PLACEBO |
-| --- | --- | --- | --- | --- |
 | Preferred Term | 100 mg (N=429) n (%) | 200 mg (N=434) n (%) | 300 mg (N=1054) n (%) | (N=646) n (%) |
+| --- | --- | --- | --- | --- |
+|  | Tramadol Hydrochloride Extended-Release Capsules |  | Placebo |  |
 | Headache | 99 (23.1) | 96 (22.1) | 200 (19.0) | 128 (19.8) |
 | Nausea | 69 (16.1) | 93 (21.4) | 265 (25.1) | 37 (5.7) |
 | Somnolence | 50 (11.7) | 60 (13.8) | 170 (16.1) | 26 (4.0) |

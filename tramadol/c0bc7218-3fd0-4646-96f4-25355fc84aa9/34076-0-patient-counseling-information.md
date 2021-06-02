@@ -8,7 +8,6 @@ Because of the risks associated with accidental ingestion, misuse, and abuse, ad
 Inform patients that leaving Tramadol Hydrochloride Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
-
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
 If no take back programs or DEA-registered collectors are available, instruct patients to dispose of Tramadol Hydrochloride Extended-Release Capsules by following these four steps:
 
@@ -26,15 +25,33 @@ Instruct patients not to share Tramadol Hydrochloride Extended-Release Capsules 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life threatening respiratory depression, including information that the risk is greatest when starting Tramadol Hydrochloride Extended-Release Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Tramadol Hydrochloride Extended-Release Capsules or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Tramadol Hydrochloride Extended-Release Capsules.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do
 
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death.
 [see Warnings and Precautions (5.3)].
+Instruct patients to take steps to store Tramadol Hydrochloride Extended-Release Capsules securely and to dispose of unused Tramadol Hydrochloride Extended-Release Capsules in accordance with the local state guidelines and/or regulations.
 
-Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Advise caregivers that Tramadol Hydrochloride Extended-Release Capsules are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
 Advise caregivers of children ages 12 to18 years of age receiving Tramadol Hydrochloride Extended-Release Capsules to monitor for signs of respiratory depression [see Warnings and Precautions (5.4)].
@@ -71,12 +88,11 @@ Instruct patients how to properly take Tramadol Hydrochloride Extended-Release C
 - Tramadol Hydrochloride Extended-Release Capsules are designed to work properly only if swallowed intact.
   Taking cut, broken, chewed, crushed, or dissolved Tramadol Hydrochloride Extended-Release Capsules can result in a fatal overdose [see Dosage and Administration (2.1)]
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
-
 - Tramadol Hydrochloride Extended-Release Capsules should not be taken with alcohol containing beverages.
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Tramadol Hydrochloride Extended-Release Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Tramadol Hydrochloride Extended-Release Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
@@ -115,10 +131,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
-
-Manufactured by: Galephar P.R., Inc. Juncos, Puerto Rico 00777
-
-Manufactured for: Trigen Laboratories, LLC Bridgewater, NJ 08807, USA
-
-Rev.
-10/2019

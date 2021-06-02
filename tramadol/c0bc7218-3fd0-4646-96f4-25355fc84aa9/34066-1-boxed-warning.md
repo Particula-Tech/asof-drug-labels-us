@@ -1,20 +1,18 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE‑THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES AND OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
-Tramadol Hydrochloride Extended-Release Capsules exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing Tramadol Hydrochloride Extended-Release Capsules and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Tramadol Hydrochloride Extended-Release Capsules expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient's risk prior to prescribing Tramadol Hydrochloride Extended-Release Capsules and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS):
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Healthcare providers are strongly encouraged to
+Healthcare providers are strongly encouraged to:
 
-- complete a REMS-compliant education program,
-- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,
-- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
-- consider other tools to improve patient, household, and community safety.
+| complete a REMS-compliant education program,counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products, emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, andconsider other tools to improve patient, household, and community safety. |
+| --- |
 
 Life-Threatening Respiratory Depression
 
@@ -29,14 +27,14 @@ Accidental ingestion of/exposure to even one dose of Tramadol Hydrochloride Exte
 Ultra-Rapid Metabolism Of Tramadol And Other Risk Factors For Life-Threatening Respiratory Depression In Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
-Some of the reported cases occurred following tonsillectomy and/or adenoidectomy, and at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.4)].
+Some of the reported cases occurred following tonsillectomy and/or adenoidectomy, and in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.4)].
 Tramadol Hydrochloride Extended-Release Capsules are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 Avoid the use of Tramadol Hydrochloride Extended-Release Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see Warnings and Precautions (5.4)].
 
 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Tramadol Hydrochloride Extended-Release Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If opioid use is required for a prolonged period in a pregnant woman,advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.5)].
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.5)].
 
 Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 

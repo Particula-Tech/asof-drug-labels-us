@@ -1,44 +1,47 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Addiction, Abuse, and Misuse
+## 5.1 Addiction, Abuse and Misuse
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a Schedule IV controlled substance.
-As an opioid, Tramadol Hydrochloride Extended-Release Capsules exposes users to the risks of addiction, abuse and misuse.
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, a Schedule IV controlled substance.
+As an opioid, Tramadol Hydrochloride Extended-Release Capsules expose users to the risks of addiction, abuse and misuse.
 Because extended-release products such as Tramadol Hydrochloride Extended-Release Capsules deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of tramadol present [see Drug Abuse and Dependence (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Tramadol Hydrochloride Extended-Release Capsules.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse or misuse prior to prescribing Tramadol Hydrochloride Extended-Release Capsules, and monitor all patients receiving Tramadol Hydrochloride Extended-Release Capsules for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse or misuse prior to prescribing Tramadol Hydrochloride Extended-Release Capsules, and monitor all patients receiving Tramadol Hydrochloride Extended-Release Capsules for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Tramadol Hydrochloride Extended-Release Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Tramadol Hydrochloride Extended-Release Capsules along with intensive monitoring for signs of addiction, abuse and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Abuse or misuse of Tramadol Hydrochloride Extended-Release Capsules by splitting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-Consider these risks when prescribing or dispense Tramadol Hydrochloride Extended-Release Capsules.
-Strategies to reduce these risks include prescribing the drug in smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)] Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Consider these risks when prescribing or dispensing Tramadol Hydrochloride Extended-Release Capsules.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Opiod Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
 - Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
-- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
-## 5.3 Life-threatening Respiratory Depression
+## 5.3 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Tramadol Hydrochloride Extended-Release Capsules, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -49,11 +52,24 @@ Overestimating the Tramadol Hydrochloride Extended-Release Capsules dosage when 
 
 Accidental ingestion of even one dose of Tramadol Hydrochloride Extended-Release Capsules, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
 
-## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Tramadol Hydrochloride Extended-Release Capsules.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.7), Patient Counseling Information (17)].
+
+## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
@@ -71,12 +87,12 @@ Nursing Mothers
 
 Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol (M1).
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
-A baby nursing from an ultra-rapid metabolizer mother taking Tramadol Hydrochloride Extended-Release Capsules could potentially be exposed to high levels of MI, and experience life-threatening respiratory depression.
+A baby nursing from an ultra-rapid metabolizer mother taking Tramadol Hydrochloride Extended-Release Capsules could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
 For this reason, breastfeeding is not recommended during treatment with Tramadol Hydrochloride Extended-Release Capsules [see Use in Specific Populations (8.2)].
 
 CYP2D6 Genetic Variability: Ultra-rapid metabolizer
 
-Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1×N or *1/*2×N).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
@@ -91,10 +107,10 @@ Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.6 Risks of Interactions with Drug Affecting Cytochrome P450 Isoenzymes
+## 5.6 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors on levels of tramadol and M1 from Tramadol Hydrochloride Extended-Release Capsules are complex.
-Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Tramadol Hydrochloride Extended-Release Capsules requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and µ-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in µ-opioid receptor binding [see Drug Interactions (7)].
+Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Tramadol Hydrochloride Extended-Release Capsules requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and mu-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in mu-opioid receptor binding [see Drug Interactions (7)].
 
 Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
 
@@ -104,7 +120,7 @@ The effect of increased tramadol levels may be an increased risk for serious adv
 
 Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in tramadol plasma levels and an increase in active metabolite M1 levels, which could increase or prolong adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression.
 
-Follow patients receiving Tramadol Hydrochloride Extended-Release Capsules and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when Tramadol Hydrochloride Extended-Release Capsules are used in conjunction with inhibitors of CYP2D6 [see, Drug Interactions (7)].
+Follow patients receiving Tramadol Hydrochloride Extended-Release Capsules and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when Tramadol Hydrochloride Extended-Release Capsules are used in conjunction with inhibitors of CYP2D6 [see Drug Interactions (7)].
 
 Cytochrome P450 3A4 Interaction
 
@@ -128,8 +144,10 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Tramadol Hydrochloride Extended-Release Capsules are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressants have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
 ## 5.8 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
@@ -150,15 +168,10 @@ Spontaneous post-marketing reports indicate that seizure risk is increased with 
 Concomitant use of tramadol increases the seizure risk in patients taking: [see Drug Interactions (7)]
 
 - Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) antidepressants or anorectics,
-
 - Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.),
-
 - Other opioids,
-
 - MAO inhibitors [see Warnings and Precautions (5.8), Drug Interactions (7)],
-
 - Neuroleptics, or
-
 - Other drugs that reduce the seizure threshold.
 
 Risk of seizures may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).
@@ -169,9 +182,7 @@ In tramadol overdose, naloxone administration may increase the risk of seizure.
 
 - Do not prescribe Tramadol Hydrochloride Extended-Release Capsules for patients who are suicidal or addiction-prone.
   Consideration should be given to the use of non-narcotic analgesics in patients who are suicidal or depressed [see Drug Abuse and Dependence (9.2)].
-
 - Prescribe Tramadol Hydrochloride Extended-Release Capsules with caution for patients with a history of misuse and/or are currently taking CNS-active drugs including tranquilizers or antidepressant drugs, or alcohol in excess, and patients who suffer from emotional disturbance or depression [see Drug Interactions (7)].
-
 - Inform patients not to exceed the recommended dose and to limit their intake of alcohol [see Dosage and Administration (2.1) and Warnings and Precautions (5.7)].
 
 ## 5.11 Adrenal Insufficiency
@@ -222,7 +233,7 @@ Monitor patients with biliary tract disease, including acute pancreatitis, for w
 ## 5.16 Anaphylaxis and Other Hypersensitivity Reactions
 
 Serious and rarely fatal hypersensitive reactions have been reported in patients receiving therapy with tramadol.
-When these events do occur it is often following the first dose.
+When these events do occur, it is often following the first dose.
 Other reported hypersensitivity reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
 Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive Tramadol Hydrochloride Extended-Release Capsules.
 If anaphylaxis or other hypersensitivity occurs, stop administration of Tramadol Hydrochloride Extended-Release Capsules immediately, discontinue Tramadol Hydrochloride Extended-Release Capsules permanently, and do not rechallenge with any formulation of tramadol.
@@ -232,10 +243,13 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 Do not abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules in a patient physically dependent on opioids.
 When discontinuing Tramadol Hydrochloride Extended-Release Capsules in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Tramadol Hydrochloride Extended-Release Capsules.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+
+When discontinuing Tramadol Hydrochloride Extended-Release Capsules, gradually taper the dosage [see Dosage and Administration (2.5)].
+Do not abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules [see Drug Abuse and Dependence (9.3)].
 
 ## 5.18 Risks of Driving and Operating Machinery
 
