@@ -14,7 +14,7 @@ Rx only
 
 50 mcg/mL
 
-For Subcutaneous Injection
+For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size
 
@@ -34,7 +34,7 @@ Rx only
 
 100 mcg/mL
 
-For Subcutaneous Injection
+For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size
 
@@ -54,6 +54,6 @@ Rx only
 
 500 mcg/mL
 
-For Subcutaneous Injection
+For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size

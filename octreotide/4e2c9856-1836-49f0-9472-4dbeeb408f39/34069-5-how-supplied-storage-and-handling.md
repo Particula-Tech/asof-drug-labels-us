@@ -21,21 +21,17 @@ NDC 0078-0182-01
 
 ## Storage
 
-For prolonged storage, Sandostatin ampuls should be stored at refrigerated temperatures 2ºC-8ºC (36ºF-46ºF) and store in outer carton in order to protect from light.
-At room temperature (20ºC-30ºC or 70ºF-86ºF), Sandostatin is stable for 14 days if protected from light.
+For prolonged storage, Sandostatin ampuls should be stored at refrigerated temperatures 2ºC to 8ºC (36ºF to 46ºF) and store in outer carton in order to protect from light.
+At room temperature (20ºC to 30ºC or 70ºF to 86ºF), Sandostatin is stable for 14 days if protected from light.
 The solution can be allowed to come to room temperature prior to administration.
 Do not warm artificially.
 Ampuls should be opened just prior to administration and the unused portion discarded.
 Dispose unused product or waste properly.
 
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, NJ 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-T2020-79
+Revised: May 2021
 
-Revised: June 2020
+T2021-74
