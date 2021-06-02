@@ -49,29 +49,29 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration—Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or potential development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or potential development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration—Adverse Experience Relationships
 
 There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of adverse experiences such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-As compared to immediate-release hydrocodone combination products, Hydrocodone Bitartrate Extended-Release Capsules at similar daily doses results in similar overall exposure but with lower maximum concentrations.
+As compared to immediate-release hydrocodone combination products, hydrocodone bitartrate extended-release capsules at similar daily doses results in similar overall exposure but with lower maximum concentrations.
 The half-life is also longer due to the prolonged duration of absorption.
 Based on the half-life of hydrocodone, steady-state should be obtained after 3 days of dosing.
 Following 7 days of dosing, AUC and Cmax increase approximately two-fold as compared to the first day of dosing.
-The pharmacokinetics of Hydrocodone Bitartrate Extended-Release Capsules have been shown to be independent of dose up to a dose of 50 mg.
+The pharmacokinetics of hydrocodone bitartrate extended-release capsules have been shown to be independent of dose up to a dose of 50 mg.
 
-Hydrocodone Bitartrate Extended-Release Capsules exhibit peak plasma concentrations approximately 5 hours after dose administration.
+Hydrocodone bitartrate extended-release capsules exhibit peak plasma concentrations approximately 5 hours after dose administration.
 
 Food Effects
 
-Food has no significant effect on the extent of absorption of hydrocodone from Hydrocodone Bitartrate Extended-Release Capsules.
-Although there was no evidence of dose dumping associated with this formulation under fasted and fed conditions, peak plasma concentration of hydrocodone increased by 27% when a Hydrocodone Bitartrate Extended-Release 20 mg capsule was administered with a high-fat meal.
+Food has no significant effect on the extent of absorption of hydrocodone from hydrocodone bitartrate extended-release capsules.
+Although there was no evidence of dose dumping associated with this formulation under fasted and fed conditions, peak plasma concentration of hydrocodone increased by 27% when a hydrocodone bitartrate extended-release 20 mg capsule was administered with a high-fat meal.
 
 Distribution
 
@@ -85,12 +85,12 @@ Metabolism
 Hydrocodone exhibits a complex pattern of metabolism, including N-demethylation, O-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 CYP3A4 mediated N-demethylation to norhydrocodone is the primary metabolic pathway of hydrocodone with a lower contribution from CYP2D6 mediated O-demethylation to hydromorphone.
 Hydromorphone is formed from the O-demethylation of hydrocodone and may contribute to the total analgesic effect of hydrocodone.
-Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7.3)].
+Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7)].
 Published in vitro studies have shown that N-demethylation of hydrocodone to form norhydrocodone can be attributed to CYP3A4 while O-demethylation of hydrocodone to hydromorphone is predominantly catalyzed by CYP2D6 and to a lesser extent by an unknown low affinity CYP enzyme.
 
 Excretion
 
-Hydrocodone and its metabolites are eliminated primarily in the kidneys, with a mean apparent plasma half-life after Hydrocodone Bitartrate Extended-Release Capsules administration of approximately 8 hours.
+Hydrocodone and its metabolites are eliminated primarily in the kidneys, with a mean apparent plasma half-life after hydrocodone bitartrate extended-release capsules administration of approximately 8 hours.
 
 Special Populations
 
@@ -102,14 +102,14 @@ Sex: No significant pharmacokinetic differences by sex were observed based on po
 
 Hepatic Impairment
 
-After a single dose of 20 mg Hydrocodone Bitartrate Extended-Release Capsules in 20 patients with mild to moderate hepatic impairment based on Child-Pugh classifications, mean hydrocodone Cmax values were 25 ± 5 ng/mL, 24 ± 5 ng/mL, and 22 ± 3.3 ng/mL for moderate and mild impairment, and normal subjects, respectively.
+After a single dose of 20 mg hydrocodone bitartrate extended-release capsules in 20 patients with mild to moderate hepatic impairment based on Child-Pugh classifications, mean hydrocodone Cmax values were 25 ± 5 ng/mL, 24 ± 5 ng/mL, and 22 ± 3.3 ng/mL for moderate and mild impairment, and normal subjects, respectively.
 Mean hydrocodone AUC values were 509 ± 157 ng∙h/mL, 440 ± 124 ng∙h/mL, and 391 ± 74 ng∙h/mL for moderate and mild impairment, and normal subjects, respectively.
 Hydrocodone Cmax values were 8% to 10% higher in patients with mild or moderate hepatic impairment, respectively, while AUC values were 10% and 26% higher in patients with mild and moderate hepatic impairment, respectively.
 Severely impaired subjects were not studied [see Use in Specific Populations (8.6)].
 
 Renal Impairment
 
-After a single dose of 20 mg Hydrocodone Bitartrate Extended-Release Capsules in 28 patients with mild, moderate, or severe renal impairment based on Cockcroft-Gault criteria, mean hydrocodone Cmax values were 26 ± 6.0 ng/mL, 28 ± 7.5 ng/mL, 21 ± 5.1 ng/mL and 19 ± 4.4 ng/mL for severe, moderate, mild renal impairment, and normal subjects, respectively.
+After a single dose of 20 mg hydrocodone bitartrate extended-release capsules in 28 patients with mild, moderate, or severe renal impairment based on Cockcroft-Gault criteria, mean hydrocodone Cmax values were 26 ± 6.0 ng/mL, 28 ± 7.5 ng/mL, 21 ± 5.1 ng/mL and 19 ± 4.4 ng/mL for severe, moderate, mild renal impairment, and normal subjects, respectively.
 Mean hydrocodone AUC values were 487 ± 123 ng∙h/mL, 547 ± 184 ng∙h/mL, 391 ± 122 ng∙h/mL and 343 ± 105 ng∙h/mL for severe, moderate, mild renal impairment, and normal subjects, respectively.
 Hydrocodone Cmax values were 15%, 48%, and 41% higher and AUC values were 15%, 57% and 44% higher in patients with mild, moderate, and severe renal impairment, respectively [see Use in Specific Populations (8.7)].
 
@@ -117,7 +117,7 @@ Drug Interaction Studies
 
 Interactions with Alcohol
 
-The rate of absorption of Hydrocodone Bitartrate Extended-Release Capsules 50 mg was affected by co-administration with 40% alcohol in the fasted state, as exhibited by an increase in peak hydrocodone concentrations (on average 2.4-fold increase with maximum increase of 3.9-fold in one subject) and a decrease in the time to peak concentrations.
+The rate of absorption of hydrocodone bitartrate extended-release capsules 50 mg was affected by co-administration with 40% alcohol in the fasted state, as exhibited by an increase in peak hydrocodone concentrations (on average 2.4-fold increase with maximum increase of 3.9-fold in one subject) and a decrease in the time to peak concentrations.
 The extent of absorption was increased on average 1.2-fold with maximum increase of 1.7-fold in one subject with 40% alcohol [see Warnings and Precautions (5.6)].
 
 Cytochrome P450 Enzymes

@@ -16,11 +16,11 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety of Hydrocodone Bitartrate Extended-Release Capsules was evaluated in a total of 1,148 subjects in Phase 3 clinical trials.
+The safety of hydrocodone bitartrate extended-release capsules was evaluated in a total of 1,148 subjects in Phase 3 clinical trials.
 
-Table 3 lists the most frequently occurring adverse reactions occurring at a greater frequency than placebo from the placebo-controlled trial in subjects with moderate-to-severe chronic lower back pain.
+Table 2 lists the most frequently occurring adverse reactions occurring at a greater frequency than placebo from the placebo-controlled trial in subjects with moderate-to-severe chronic lower back pain.
 
-Table 3.
+Table 2.
 Treatment-Emergent Adverse Events in ≥2% of Subjects During the Open-Label Titration Period and/or the Double-Blind Treatment Period, by Preferred Term — Number (%) of Treated Subjects (Placebo-Controlled Study in Opioid-Experienced Subjects with Moderate-to-Severe Chronic Lower Back Pain)
 
 | Preferred Term | (N = 510) | (n = 151) | (n = 151) |
@@ -44,7 +44,7 @@ Treatment-Emergent Adverse Events in ≥2% of Subjects During the Open-Label Tit
 | Back pain | 4 (1%) | 6 (4%) | 5 (3%) |
 | Tremor | 1 (0%) | 4 (3%) | 1 (1%) |
 
-The common (≥1% to <10%) adverse drug reactions reported at least once by subjects treated with Hydrocodone Bitartrate Extended-Release Capsules in the Phase 3 clinical trials and not represented in Table 3 were:
+The common (≥1% to <10%) adverse drug reactions reported at least once by subjects treated with hydrocodone bitartrate extended-release capsules in the Phase 3 clinical trials and not represented in Table 2 were:
 
 Gastrointestinal Disorders: abdominal discomfort, abdominal pain, gastroesophageal reflux disease
 
@@ -77,6 +77,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Hydrocodone Bitartrate Extended-Release Capsules.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate extended-release capsules.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

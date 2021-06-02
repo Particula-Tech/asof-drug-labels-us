@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Hydrocodone Bitartrate Extended-Release Capsules are supplied in bottles with child-resistant closures as follows:
+Hydrocodone bitartrate extended-release capsules are supplied in bottles with child-resistant closures as follows:
 
 | Strength | Capsule Color(s) | Capsule Text | NDC Number |
 | --- | --- | --- | --- |
@@ -11,16 +11,16 @@ Hydrocodone Bitartrate Extended-Release Capsules are supplied in bottles with ch
 | 40 mg | Yellow cap and yellow body | "ALV" printed on the cap and "413" printed on the body in grey ink | 47781-413-60 60 Count Bottle |
 | 50 mg | Light grey cap and yellow body | "ALV" printed on the cap and "414" printed on the body in grey ink | 47781-414-60 60 Count Bottle |
 
-Hydrocodone Bitartrate Extended-Release Capsules contain hydrocodone bitartrate which is a controlled substance and is controlled under Schedule II of the Controlled Substances Act.
+Hydrocodone bitartrate extended-release capsules contain hydrocodone bitartrate which is a controlled substance and is controlled under Schedule II of the Controlled Substances Act.
 Hydrocodone, like all opioids, is liable to diversion and misuse and should be handled accordingly.
-Patients and their families should be instructed to dispose of any Hydrocodone Bitartrate Extended-Release Capsules that are no longer needed.
+Patients and their families should be instructed to dispose of any hydrocodone bitartrate extended-release capsules that are no longer needed.
 
-Hydrocodone Bitartrate Extended-Release Capsules may be targeted for theft and diversion.
+Hydrocodone bitartrate extended-release capsules may be targeted for theft and diversion.
 Healthcare professionals should contact their State Medical Board, State Board of Pharmacy, or State Control Board for information on how to detect or prevent diversion of this product.
 
-Healthcare professionals should advise patients to store Hydrocodone Bitartrate Extended-Release Capsules in a secure place, preferably locked and out of the reach of children and other non-caregivers.
+Healthcare professionals should advise patients to store hydrocodone bitartrate extended-release capsules in a secure place, preferably locked and out of the reach of children and other non-caregivers.
 
-Store at 25° C (77° F); excursions permitted to 15° to 30° C (59° to 86° F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight container as defined in the USP, with a child-resistant closure.
 

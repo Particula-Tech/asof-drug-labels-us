@@ -5,7 +5,7 @@
 Risk Summary
 
 Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-There are no studies of Hydrocodone Bitartrate Extended-Release Capsules use in pregnant women.
+There are no studies of hydrocodone bitartrate extended-release capsules use in pregnant women.
 Rats administered oral hydrocodone during gestation and lactation showed increases in stillborn pups and decreases in pup survival at doses equivalent to the human dose of 100 mg/day.
 Reduced nursing behavior and decreased body weights were observed at 2 times the human dose.
 Reduced fetal weights were observed in rabbits administered hydrocodone during the period of organogenesis at doses equivalent to 5 times the human dose of 100 mg/day.
@@ -28,8 +28,8 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as po
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist such as naloxone must be available for reversal of opioid induced respiratory depression in the neonate.
-Hydrocodone Bitartrate Extended-Release Capsules are not recommended for use in women during and immediately prior to labor, when shorter-acting analgesics or other analgesic techniques are more appropriate.
-Opioid analgesics, including Hydrocodone Bitartrate Extended-Release Capsules, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
+Hydrocodone bitartrate extended-release capsules are not recommended for use in women during and immediately prior to labor, when shorter-acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics, including hydrocodone bitartrate extended-release capsules, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 
 Data
@@ -54,9 +54,9 @@ Risk Summary
 Hydrocodone is present in human milk.
 A published lactation study reports variable concentrations of hydrocodone and hydromorphone (an active metabolite) in breast milk with administration of immediate-release hydrocodone to nursing mothers in the early post-partum period.
 This lactation study did not assess breastfed infants for potential adverse drug reactions.
-Lactation studies have not been conducted with extended-release hydrocodone, including Hydrocodone Bitartrate Extended-Release Capsules, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+Lactation studies have not been conducted with extended-release hydrocodone, including hydrocodone bitartrate extended-release capsules, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Hydrocodone Bitartrate Extended-Release Capsules.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with hydrocodone bitartrate extended-release capsules.
 
 Clinical Considerations
 
@@ -77,28 +77,28 @@ Unique to rodents, prolactin is required for normal estrous cycling and the effe
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Hydrocodone Bitartrate Extended-Release Capsules in pediatric patients below the age of 18 years have not been established.
+The safety and effectiveness of hydrocodone bitartrate extended-release capsules in pediatric patients below the age of 18 years have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Hydrocodone Bitartrate Extended-Release Capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of hydrocodone bitartrate extended-release capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Elderly patients (aged 65 years or older) may have increased sensitivity to hydrocodone.
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of the concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Hydrocodone Bitartrate Extended-Release Capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Titrate the dosage of hydrocodone bitartrate extended-release capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
 
 Hydrocodone is known to be substantially secreted by the kidney and the risk adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## 8.6 Hepatic Impairment
 
-No adjustment in starting dose with Hydrocodone Bitartrate Extended-Release Capsules is required in patients with mild or moderate hepatic impairment.
+No adjustment in starting dose with hydrocodone bitartrate extended-release capsules is required in patients with mild or moderate hepatic impairment.
 Patients with severe hepatic impairment may have higher plasma concentrations than those with normal hepatic function [see Clinical Pharmacology (12.3)].
-Therefore, a dosage reduction is recommended for patients with severe hepatic impairment [see Dosage and Administration (2.4)].
+Therefore, a dosage reduction is recommended for patients with severe hepatic impairment [see Dosage and Administration (2.5)].
 Monitor patients with severe hepatic impairment closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Patients with renal impairment have higher plasma concentrations than those with normal function.
-Use a low initial dose of Hydrocodone Bitartrate Extended-Release Capsules in patients with renal impairment and monitor closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Use a low initial dose of hydrocodone bitartrate extended-release capsules in patients with renal impairment and monitor closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

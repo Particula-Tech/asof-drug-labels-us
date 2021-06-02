@@ -2,22 +2,41 @@
 
 Advise the patient to read the FDA approved patient labeling (Medication Guide).
 
-Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Hydrocodone Bitartrate Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Hydrocodone Bitartrate Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydrocodone bitartrate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving hydrocodone bitartrate extended-release capsules unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
-Expired, unwanted, or unused Hydrocodone Bitartrate Extended-Release Capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Expired, unwanted, or unused hydrocodone bitartrate extended-release capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
-Inform patients that the use of Hydrocodone Bitartrate Extended-Release Capsules, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
-Instruct patients not to share Hydrocodone Bitartrate Extended-Release Capsules with others and to take steps to protect Hydrocodone Bitartrate Extended-Release Capsules from theft or misuse.
+Inform patients that the use of hydrocodone bitartrate extended-release capsules, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
+Instruct patients not to share hydrocodone bitartrate extended-release capsules with others and to take steps to protect hydrocodone bitartrate extended-release capsules from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Hydrocodone Bitartrate Extended-Release Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate extended-release capsules or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with hydrocodone bitartrate extended-release capsules.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -25,20 +44,19 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interaction with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Hydrocodone Bitartrate Extended-Release Capsules is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter products that contain alcohol, during treatment with Hydrocodone Bitartrate Extended-Release Capsules [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate extended-release capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider.
+Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter products that contain alcohol, during treatment with hydrocodone bitartrate extended-release capsules [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications.
-[see Drug Interactions (7)].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
-Inform patients to avoid taking Hydrocodone Bitartrate Extended-Release Capsules while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Hydrocodone Bitartrate Extended-Release [see Drug Interactions (7)].
+Inform patients to avoid taking hydrocodone bitartrate extended-release capsules while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking hydrocodone bitartrate extended-release capsules [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 
@@ -46,39 +64,41 @@ Inform patients that opioids could cause adrenal insufficiency, a potentially li
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
 
-Important Administration Instructions [see Dosage and Administration (2)]
+Important Administration Instructions[see Dosage and Administration (2)]
 
-Instruct patients how to properly take Hydrocodone Bitartrate Extended-Release Capsules, including the following:
+Instruct patients how to properly take hydrocodone bitartrate extended-release capsules, including the following:
 
-- Use Hydrocodone Bitartrate Extended-Release Capsules exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)].
-- Swallow Hydrocodone Bitartrate Extended-Release Capsules whole.
+- Use hydrocodone bitartrate extended-release capsules exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)].
+- Swallow hydrocodone bitartrate extended-release capsules whole.
 - Do not crush, chew, or dissolve the capsule or its contents.
 
-Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Hydrocodone Bitartrate Extended-Release Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydrocodone bitartrate extended-release capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
 Hypotension
 
-Inform patients that Hydrocodone Bitartrate Extended-Release Capsules may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position [see Warnings and Precautions (5.9)]).
+Inform patients that hydrocodone bitartrate extended-release capsules may cause orthostatic hypotension and syncope.
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
-Inform patients that anaphylaxis has been reported with ingredients contained in Hydrocodone Bitartrate Extended-Release Capsules.
+Inform patients that anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate extended-release capsules.
 Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
 
 Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Hydrocodone Bitartrate Extended-Release Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of hydrocodone bitartrate extended-release capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
-Inform female patients of reproductive potential that Hydrocodone Bitartrate Extended-Release Capsules can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that hydrocodone bitartrate extended-release capsules can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise patients that breastfeeding is not recommended during treatment with Hydrocodone Bitartrate Extended-Release Capsules [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with hydrocodone bitartrate extended-release capsules [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -87,7 +107,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Driving or Operating Heavy Machinery
 
-Inform patients that Hydrocodone Bitartrate Extended-Release Capsules may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Inform patients that hydrocodone bitartrate extended-release capsules may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
 Blood levels of hydrocodone, in some patients, may be high at the end of 24 hours after repeated dose administration.
 Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
 
@@ -98,4 +118,4 @@ Instruct patients to monitor their analgesic response following the use of stron
 
 Disposal of Unused Hydrocodone Bitartrate Extended-Release Capsules
 
-Advise patients to flush the unused capsules down the toilet when Hydrocodone Bitartrate Extended-Release Capsules are no longer needed.
+Advise patients to flush the unused capsules down the toilet when hydrocodone bitartrate extended-release capsules are no longer needed.

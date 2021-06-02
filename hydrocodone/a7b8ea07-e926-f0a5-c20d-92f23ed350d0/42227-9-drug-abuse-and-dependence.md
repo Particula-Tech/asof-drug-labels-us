@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-Hydrocodone Bitartrate Extended-Release Capsules contain hydrocodone bitartrate, a Schedule II controlled substance.
+Hydrocodone bitartrate extended-release capsules contain hydrocodone bitartrate, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Hydrocodone Bitartrate Extended-Release Capsules contain hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
-Hydrocodone Bitartrate Extended-Release Capsules can be abused and is subject to misuse, abuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Hydrocodone bitartrate extended-release capsules contain hydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+Hydrocodone bitartrate extended-release capsules can be abused and is subject to misuse, abuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -25,19 +25,19 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Hydrocodone Bitartrate Extended-Release Capsules, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Hydrocodone bitartrate extended-release capsules, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing, storage, and disposal are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Hydrocodone Bitartrate Extended-Release Capsules
 
-Hydrocodone Bitartrate Extended-Release Capsules are for oral use only.
-Abuse of Hydrocodone Bitartrate Extended-Release Capsules pose a risk of overdose and death.
-The risk is increased with concurrent use of Hydrocodone Bitartrate Extended-Release Capsules with alcohol and other central nervous system depressants.
-Taking cut, broken, chewed, crushed, or dissolved Hydrocodone Bitartrate Extended-Release Capsules enhances drug release and increases the risk of overdose and death.
+Hydrocodone bitartrate extended-release capsules are for oral use only.
+Abuse of hydrocodone bitartrate extended-release capsules pose a risk of overdose and death.
+The risk is increased with concurrent use of hydrocodone bitartrate extended-release capsules with alcohol and other central nervous system depressants.
+Taking cut, broken, chewed, crushed, or dissolved hydrocodone bitartrate extended-release capsules enhances drug release and increases the risk of overdose and death.
 
-With intravenous abuse, the inactive ingredients in Hydrocodone Bitartrate Extended-Release Capsules can result in death, local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
+With intravenous abuse, the inactive ingredients in hydrocodone bitartrate extended-release capsules can result in death, local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
 ## 9.3 Dependence
@@ -50,12 +50,12 @@ Physical dependence is a physiological state in which the body adapts to the dru
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Do not abruptly discontinue Hydrocodone Bitartrate Extended-Release Capsules in a patient physically dependent on opioids.
-Rapid tapering of Hydrocodone Bitartrate Extended-Release Capsules in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Do not abruptly discontinue hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids.
+Rapid tapering of hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
-When discontinuing Hydrocodone Bitartrate Extended-Release Capsules, gradually taper the dosage using a patient- specific plan that considers the following: the dose of Hydrocodone Bitartrate Extended-Release Capsules the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+When discontinuing hydrocodone bitartrate extended-release capsules, gradually taper the dosage using a patient- specific plan that considers the following: the dose of hydrocodone bitartrate extended-release capsules the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.13)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.13)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].
