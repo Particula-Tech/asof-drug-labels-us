@@ -30,4 +30,4 @@ Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065-1442 
 For more information, go to www.UDENYCA.com or call 1-800-4UDENYCA (1-800-483-3692)
 
 PMD-0004, Rev.
-04
+05

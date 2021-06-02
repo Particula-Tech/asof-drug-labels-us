@@ -39,7 +39,7 @@ Monitoring of complete blood count (CBC) during UDENYCA therapy is recommended.
 
 ## 5.7 Thrombocytopenia
 
-Thrombocytopenia has been reported in patients receiving pegfilgrastim.
+Thrombocytopenia has been reported in patients receiving pegfilgrastim products.
 Monitor platelet counts.
 
 ## 5.8 Capillary Leak Syndrome
@@ -55,7 +55,7 @@ The possibility that pegfilgrastim products act as a growth factor for any tumor
 
 ## 5.10 Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML) in Patients with Breast and Lung Cancer
 
-MDS and AML have been associated with the use of pegfilgrastim in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
+MDS and AML have been associated with the use of pegfilgrastim products in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
 Monitor patients for signs and symptoms of MDS/AML in these settings.
 
 ## 5.11 Aortitis
