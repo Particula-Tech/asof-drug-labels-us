@@ -13,7 +13,7 @@
 | Do not take NSAIDs: |  |  |
 | if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.right before or after heart bypass surgery. |  |  |
 | Before taking NSAIDS, tell your healthcare provider about all of your medical conditions, including if you: |  |  |
-| have liver or kidney problemshave high blood pressurehave asthmaare pregnant or plan to become pregnant. Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy. You should not take NSAIDs after 29 weeks of pregnancy.are breastfeeding or plan to breast feed. |  |  |
+| have liver or kidney problemshave high blood pressurehave asthmaare pregnant or plan to become pregnant. Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby. If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby. You should not take NSAIDs after about 30 weeks of pregnancy.are breastfeeding or plan to breast feed. |  |  |
 | Tell your healthcare provider about all of the medicines you take, including prescription or over-the- counter medicines, vitamins or herbal supplements. NSAIDs and some other medicines can interact with each other and cause serious side effects. Do not start taking any new medicine without talking to your healthcare provider first. |  |  |
 | What are the possible side effects of NSAIDs? |  |  |
 | NSAIDs can cause serious side effects, including: |  |  |
@@ -34,4 +34,5 @@
 
 Manufacturer: Teikoku Seiyaku Co., Ltd., 769-2601 Japan Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-For more information, go to www.licart.com or call 1-800-587-3513 Issued or Revised: 09/2020
+For more information, go to www.licart.com or call 1-800-587-3513 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 04/2021
