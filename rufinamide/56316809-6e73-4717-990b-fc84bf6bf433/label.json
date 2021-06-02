@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204988"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0425-13",
+    "0054-0425-23",
+    "0054-0426-13",
+    "0054-0426-23"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rufinamide",
+      "name": "Rufinamide"
+    }
+  ],
+  "setid": "56316809-6e73-4717-990b-fc84bf6bf433",
+  "source": "dailymed"
+}

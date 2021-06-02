@@ -1,0 +1,186 @@
+# Medication Guide
+
+Rufinamide Tablets, USP (roo fin’ a mide)
+
+Read this Medication Guide before you start taking rufinamide tablets and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
+What is the most important information I should know about rufinamide?
+
+Do not stop taking rufinamide without first talking to your healthcare provider.
+
+Stopping rufinamide suddenly can cause serious problems.
+
+Rufinamide can cause serious side effects, including:
+
+1. 1.Like other antiepileptic drugs, rufinamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+
+- •thoughts about suicide or dying
+- •attempt to commit suicide
+- •new or worse depression
+- •new or worse anxiety
+- •feeling agitated or restless
+- •panic attacks
+- •trouble sleeping (insomnia)
+- •new or worse irritability
+- •acting aggressive, being angry, or violent
+- •acting on dangerous impulses
+- •an extreme increase in activity and talking (mania)
+- •other unusual changes in behavior or mood
+- •Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+
+How can I watch for early symptoms of suicidal thoughts and actions?
+
+- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Do not stop rufinamide without first talking to a healthcare provider.
+
+- •Stopping rufinamide suddenly can cause serious problems.
+  Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+- 2.Rufinamide may cause you to feel sleepy, tired, weak, dizzy or have problems with coordination and walking.
+
+What is rufinamide?
+
+Rufinamide is a prescription medicine used with other medicines to treat seizures associated with Lennox-Gastaut Syndrome (LGS) in adults and pediatric patients 1 year of age and older.
+
+It is not known if rufinamide is safe and effective in the treatment of Lennox-Gastaut Syndrome in pediatric patients under 1 year of age.
+
+Who should not take rufinamide?
+
+Do not take rufinamide if you have a genetic condition called familial short QT syndrome, a problem that affects the electrical system of the heart.
+
+What should I tell my healthcare provider before taking rufinamide?
+
+Before you take rufinamide, tell your healthcare provider if you:
+
+- •have heart problems
+- •have liver problems
+- •have any other medical problems
+- •have or have had suicidal thoughts or actions, depression or mood problems
+- •are pregnant or plan to become pregnant.
+  It is not known if rufinamide can harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking rufinamide.
+  You and your healthcare provider will decide if you should take rufinamide while you are pregnant.
+- •rufinamide may make certain types of birth control less effective.
+  Talk to your healthcare provider about the best birth control methods for you while you take rufinamide.
+  - oif you become pregnant while taking rufinamide, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+    You can enroll in this registry by calling 1-888-233-2334.
+    The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if rufinamide will pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take rufinamide.
+
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+Taking rufinamide with certain other medicines can cause side effects or affect how well they work.
+Do not start or stop other medicines without talking to your healthcare provider.
+
+Know the medicines you take.
+Keep a list of them and show it to your healthcare provider and pharmacist each time you get a new medicine.
+
+How should I take rufinamide?
+
+- •Take rufinamide exactly as your healthcare provider tells you.
+  Your healthcare provider will tell you how much rufinamide to take.
+- •Your healthcare provider may change your dose.
+  Do not change your dose of rufinamide without talking to your healthcare provider.
+- •Take rufinamide with food.
+- •Rufinamide tablets can be swallowed whole, cut in half or crushed.
+- •If you take too much rufinamide, call your local Poison Control Center or get emergency medical help right away.
+
+What should I avoid while taking rufinamide?
+
+- •Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking rufinamide until you talk to your healthcare provider.
+  Rufinamide taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- •Do not drive, operate heavy machinery, or do other dangerous activities until you know how rufinamide affects you.
+  Rufinamide can slow your thinking and motor skills.
+
+What are the possible side effects of rufinamide?
+
+See "What is the most important information I should know about rufinamide?"
+
+Rufinamide may cause serious side effects including:
+
+- •Rufinamide can also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
+  You may or may not have a rash with these types of reactions.
+
+Call your healthcare provider right away if you have any of the following.
+Symptoms may include:
+
+- •swelling of your face, eyes, lips, or tongue
+- •trouble swallowing or breathing
+- •a skin rash
+- •hives
+- •fever, swollen glands, or sore throat that do not go away or come and go
+- •swollen glands
+- •yellowing of your skin or eyes
+- •dark urine
+- •unusual bruising or bleeding
+- •severe fatigue or weakness
+- •severe muscle pain
+- •Your seizures happen more often or become worse
+
+Call your healthcare provider right away if you have any of the symptoms listed above.
+
+The most common side effects of rufinamide include:
+
+- •headache
+- •dizziness
+- •tiredness
+- •sleepiness
+- •nausea
+- •vomiting
+
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
+These are not all of the possible side effects of rufinamide.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store rufinamide?
+
+- •Store rufinamide tablets at 59° to 86°F (15° to 30°C).
+- •Keep rufinamide tablets in a dry place.
+
+Keep rufinamide and all medicines out of the reach of children.
+
+General Information about the safe and effective use of rufinamide.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use rufinamide for a condition for which it was not prescribed.
+Do not give rufinamide to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Medication Guide summarizes the most important information about rufinamide.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about rufinamide that is written for health professionals.
+
+For more information please call 1-800-962-8364.
+
+What are the ingredients in Rufinamide Tablets, USP?
+
+Active ingredient: rufinamide, USP
+
+Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, Opadry Pink, pregelatinized corn starch and sodium lauryl sulfate.
+Opadry Pink contains: hypromellose, iron oxide red, propylene glycol, talc and titanium dioxide.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Distr.
+By: Hikma
+
+Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
+
+10010260/01
+
+Revised September 2020
