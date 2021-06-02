@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA205432"
+  ],
+  "inn": "everolimus",
+  "labeler": "Natco Pharma Limited",
+  "package_ndcs": [
+    "63850-0062-2",
+    "63850-0062-3",
+    "63850-0063-2",
+    "63850-0063-3",
+    "63850-0064-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Everolimus"
+    }
+  ],
+  "setid": "d44998bb-5deb-4ee7-a0a5-979fe3f49557",
+  "source": "dailymed"
+}
