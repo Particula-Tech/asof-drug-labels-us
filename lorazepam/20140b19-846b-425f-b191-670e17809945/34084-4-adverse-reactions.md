@@ -2,15 +2,15 @@
 
 ## Status Epilepticus
 
-The most important adverse clinical event caused by the use of Lorazepam Injection is respiratory depression (see WARNINGS).
+The most important adverse clinical event caused by the use of Lorazepam injection is respiratory depression (see WARNINGS).
 
-The adverse clinical events most commonly observed with the use of Lorazepam Injection in clinical trials evaluating its use in status epilepticus were hypotension, somnolence, and respiratory failure.
+The adverse clinical events most commonly observed with the use of Lorazepam injection in clinical trials evaluating its use in status epilepticus were hypotension, somnolence, and respiratory failure.
 
 ### Incidence in Controlled Clinical Trials
 
 All adverse events were recorded during the trials by the clinical investigators using terminology of their own choosing.
 Similar types of events were grouped into standardized categories using modified COSTART dictionary terminology.
-These categories are used in the table and listings below with the frequencies representing the proportion of individuals exposed to Lorazepam Injection or to comparative therapy.
+These categories are used in the table and listings below with the frequencies representing the proportion of individuals exposed to Lorazepam injection or to comparative therapy.
 
 The prescriber should be aware that these figures cannot be used to predict the frequency of adverse events in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigators involving different treatment, uses, or investigators.
@@ -18,65 +18,65 @@ An inspection of these frequencies, however, does provide the prescribing physic
 
 ### Commonly Observed Adverse Events in a Controlled Dose-Comparison Clinical Trial
 
-Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
+Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
 TABLE 1.
 NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection (n=130)One hundred and thirty (130) patients received Lorazepam Injection. |
+| Body System Event | Lorazepam Injection (n=130): One hundred and thirty (130) patients received Lorazepam Injection. |
 | --- | --- |
-| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 16 (12.3%) |
+| Any Study Event (1 or more): Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 16 (12.3%) |
 | Body as a whole |  |
 | Infection | 1 (<1%) |
-| Cardiovascular System |  |
+| Cardiovascular system |  |
 | Hypotension | 2 (1.5%) |
-| Digestive System |  |
+| Digestive system |  |
 | Liver function tests abnormal | 1 (<1%) |
 | Nausea | 1 (<1%) |
 | Vomiting | 1 (<1%) |
 | Metabolic and Nutritional |  |
 | Acidosis | 1 (<1%) |
-| Nervous System |  |
+| Nervous system |  |
 | Brain edema | 1 (<1%) |
 | Coma | 1 (<1%) |
 | Convulsion | 1 (<1%) |
 | Somnolence | 2 (1.5%) |
 | Thinking abnormal | 1 (<1%) |
-| Respiratory System |  |
+| Respiratory system |  |
 | Hyperventilation | 1 (<1%) |
 | Hypoventilation | 1 (<1%) |
 | Respiratory failure | 2 (1.5%) |
-| Terms not Classifiable |  |
+| Terms not classifiable |  |
 | Injection site reaction | 1 (<1%) |
-| Urogenital System |  |
+| Urogenital system |  |
 | Cystitis | 1 (<1%) |
 
 ### Commonly Observed Adverse Events in Active-Controlled Clinical Trials
 
 In two studies, patients who completed the course of treatment for status epilepticus were permitted to be reenrolled and to receive treatment for a second status episode, given that there was a sufficient interval between the two episodes.
 Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all "patient-episodes."
-Table 2 lists the treatment emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam Injection or diazepam was given.
+Table 2 lists the treatment-emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam injection or diazepam was given.
 The table represents the pooling of results from the two controlled trials.
 
 TABLE 2.
 NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection (n=85)The number indicates the number of "patient-episodes." Patient-episodes were used rather than "patients" because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
+| Body System Event | Lorazepam Injection (n=85): The number indicates the number of "patient-episodes." Patient-episodes were used rather than "patients" because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
 | --- | --- | --- |
-| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 14 (16.5%) | 11 (13.8%) |
+| Any Study Event (1 or more): Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 14 (16.5%) | 11 (13.8%) |
 | Body as a whole |  |  |
 | Headache | 1 (1.2%) | 1 (1.3%) |
-| Cardiovascular System |  |  |
+| Cardiovascular system |  |  |
 | Hypotension | 2 (2.4%) | 0 |
-| Hemic and Lymphatic System |  |  |
+| Hemic and Lymphatic system |  |  |
 | Hypochromic anemia | 0 | 1 (1.3%) |
 | Leukocytosis | 0 | 1 (1.3%) |
 | Thrombocythemia | 0 | 1 (1.3%) |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Coma | 1 (1.2%) | 1 (1.3%) |
 | Somnolence | 3 (3.5%) | 3 (3.8%) |
 | Stupor | 1 (1.2%) | 0 |
-| Respiratory System |  |  |
+| Respiratory system |  |  |
 | Hypoventilation | 1 (1.2%) | 2 (2.5%) |
 | Apnea | 1 (1.2%) | 1 (1.3%) |
 | Respiratory failure | 2 (2.4%) | 1 (1.3%) |
@@ -90,11 +90,11 @@ Generally, age greater than 65 years may be associated with a greater incidence 
 
 ### Other Events Observed During the Pre-marketing Evaluation of Lorazepam Injection for the Treatment of Status Epilepticus
 
-Lorazepam Injection, active comparators, and Lorazepam Injection in combination with a comparator were administered to 488 individuals during controlled and open-label clinical trials.
+Lorazepam injection, active comparators, and Lorazepam injection in combination with a comparator were administered to 488 individuals during controlled and open-label clinical trials.
 Because of reenrollments, these 488 patients participated in a total of 521 patient-episodes.
 
-Lorazepam Injection alone was given in 69% of these patient-episodes (n=360).
-The safety information below is based on data available from 326 of these patient-episodes in which Lorazepam Injection was given alone.
+Lorazepam injection alone was given in 69% of these patient-episodes (n=360).
+The safety information below is based on data available from 326 of these patient-episodes in which Lorazepam injection was given alone.
 
 All adverse events that were seen once are listed, except those already included in previous listings (Table 1 and Table 2).
 
@@ -159,7 +159,7 @@ In this instance, appropriate airway management may become necessary (see CLINIC
 
 ### Other Adverse Experiences
 
-Skin rash, nausea, and vomiting have occasionally been noted in patients who have received injectable lorazepam combined with other drugs during anesthesia and surgery.
+Skin rash, nausea and vomiting have occasionally been noted in patients who have received injectable lorazepam combined with other drugs during anesthesia and surgery.
 
 ## Paradoxical Reactions
 
@@ -168,6 +168,6 @@ In these instances, further use of the drug in these patients should be consider
 
 ## Postmarketing Reports
 
-Voluntary reports of other adverse events temporally associated with the use of Lorazepam Injection that have been received since market introduction and that may have no causal relationship with the use of Lorazepam Injection include the following: acute brain syndrome, aggravation of pheochromocytoma, amnesia, apnea/respiratory arrest, arrhythmia, bradycardia, brain edema, coagulation disorder, coma, convulsion, gastrointestinal hemorrhage, heart arrest/failure, heart block, liver damage, lung edema, lung hemorrhage, nervousness, neuroleptic malignant syndrome, paralysis, pericardial effusion, pneumothorax, pulmonary hypertension, tachycardia, thrombocytopenia, urinary incontinence, ventricular arrhythmia.
+Voluntary reports of other adverse events temporally associated with the use of Lorazepam injection that have been received since market introduction and that may have no causal relationship with the use of Lorazepam injection include the following: acute brain syndrome, aggravation of pheochromocytoma, amnesia, apnea/respiratory arrest, arrhythmia, bradycardia, brain edema, coagulation disorder, coma, convulsion, gastrointestinal hemorrhage, heart arrest/failure, heart block, liver damage, lung edema, lung hemorrhage, nervousness, neuroleptic malignant syndrome, paralysis, pericardial effusion, pneumothorax, pulmonary hypertension, tachycardia, thrombocytopenia, urinary incontinence, ventricular arrhythmia.
 
 Fatalities also have been reported, usually in patients on concomitant medications (e.g., respiratory depressants) and/or with other medical conditions (e.g., obstructive sleep apnea).

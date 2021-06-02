@@ -10,4 +10,4 @@ To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0905-3.0 Revised: April 2019
+LAB-0905-4.0 Revised: May 2021

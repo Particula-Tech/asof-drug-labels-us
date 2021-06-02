@@ -3,8 +3,8 @@
 ## Symptoms
 
 Overdosage of benzodiazepines is usually manifested by varying degrees of central-nervous-system depression, ranging from drowsiness to coma.
-In mild cases symptoms include drowsiness, mental confusion, and lethargy.
-In more serious examples, symptoms may include ataxia, hypotonia, hypotension, hypnosis, stages one (1) to three (3) coma, and very rarely, death.
+In mild cases symptoms include drowsiness, mental confusion and lethargy.
+In more serious examples, symptoms may include ataxia, hypotonia, hypotension, hypnosis, stages one (1) to three (3) coma, and, very rarely, death.
 
 ## Treatment
 
@@ -19,4 +19,4 @@ The value of dialysis has not been adequately determined for lorazepam.
 
 The benzodiazepine antagonist flumazenil may be used in hospitalized patients as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS should be consulted prior to use.
+The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS and PRECAUTIONS should be consulted prior to use.

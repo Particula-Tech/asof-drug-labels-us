@@ -2,7 +2,7 @@
 
 ## Status Epilepticus
 
-Lorazepam Injection is indicated for the treatment of status epilepticus.
+Lorazepam injection is indicated for the treatment of status epilepticus.
 
 ## Preanesthetic
 

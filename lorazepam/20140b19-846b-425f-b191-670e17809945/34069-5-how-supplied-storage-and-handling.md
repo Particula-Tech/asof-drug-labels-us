@@ -1,11 +1,11 @@
 # HOW SUPPLIED
 
-Lorazepam Injection, USP is available as:
+Lorazepam injection, USP is available as:
 
-| NDC No. | Container | Concentration | Fill | Quantity |
-| --- | --- | --- | --- | --- |
-| 0409-1539-31 | Carpuject™, Single-dose cartridge with Luer Lock for the Carpuject Syringe System | 4 mg/mL | 1 mL | Box of 10 |
-| 0409-1985-30 | Carpuject™, Single-dose cartridge with Luer Lock for the Carpuject Syringe System | 2 mg/mL | 1 mL | Box of 10 |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-1539-31 Carton containing 10 1 mL fill Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 4 mg/mL |
+| NDC 0409-1985-30 Carton containing 10 1 mL fill Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 2 mg/mL |
 
 ## Instructions for Use of the Syringe Systems
 

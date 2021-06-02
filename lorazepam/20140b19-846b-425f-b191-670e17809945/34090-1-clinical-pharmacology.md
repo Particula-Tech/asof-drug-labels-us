@@ -12,7 +12,7 @@ The intensity of action is directly related to the degree of benzodiazepine rece
 Intravenous or intramuscular administration of the recommended dose of 2 mg to 4 mg of lorazepam injection to adult patients is followed by dose-related effects of sedation (sleepiness or drowsiness), relief of preoperative anxiety, and lack of recall of events related to the day of surgery in the majority of patients.
 The clinical sedation (sleepiness or drowsiness) thus noted is such that the majority of patients are able to respond to simple instructions whether they give the appearance of being awake or asleep.
 The lack of recall is relative rather than absolute, as determined under conditions of careful patient questioning and testing, using props designed to enhance recall.
-The majority of patients under these reinforced conditions had difficulty recalling perioperative events or recognizing props from before surgery.
+The majority of patients under these reinforced conditions had difficulty recalling preoperative events or recognizing props from before surgery.
 The lack of recall and recognition was optimum within 2 hours following intramuscular administration and 15 to 20 minutes after intravenous injection.
 
 The intended effects of the recommended adult dose of lorazepam injection usually last 6 to 8 hours.
@@ -21,7 +21,7 @@ As with other benzodiazepines, unsteadiness, enhanced sensitivity to CNS-depress
 
 ## Physiologic Effects in Healthy Adults
 
-Studies in healthy adult volunteers reveal that intravenous lorazepam in doses up to 3.5 mg/70 kg does not alter sensitivity to the respiratory stimulating effect of carbon dioxide and does not enhance the respiratory depressant effects of doses of meperidine up to 100 mg/70 kg (also determined by carbon dioxide challenge) as long as patients remain sufficiently awake to undergo testing.
+Studies in healthy adult volunteers reveal that intravenous lorazepam in doses up to 3.5 mg/70 kg does not alter sensitivity to the respiratory stimulating effect of carbon dioxide and does not enhance the respiratory-depressant effects of doses of meperidine up to 100 mg/70 kg (also determined by carbon dioxide challenge) as long as patients remain sufficiently awake to undergo testing.
 Upper airway obstruction has been observed in rare instances where the patient received greater than the recommended dose and was excessively sleepy and difficult to arouse (see WARNINGS and ADVERSE REACTIONS).
 
 Clinically employed doses of lorazepam injection do not greatly affect the circulatory system in the supine position or employing a 70-degree tilt test.
@@ -52,10 +52,10 @@ Unbound lorazepam penetrates the blood/brain barrier freely by passive diffusion
 Following parenteral administration, the terminal half-life and total clearance averaged 14 ± 5 hours and 1.1 ± 0.4 mL/min/kg, respectively.
 
 Lorazepam is extensively conjugated to the 3-O-phenolic glucuronide in the liver and is known to undergo enterohepatic recirculation.
-Lorazepam-glucuronide is an inactive metabolite and is eliminated mainly by the kidneys.
+Lorazepam glucuronide is an inactive metabolite and is eliminated mainly by the kidneys.
 
 Following a single 2-mg oral dose of 14C-lorazepam to 8 healthy subjects, 88 ± 4% of the administered dose was recovered in urine and 7 ± 2% was recovered in feces.
-The percent of administered dose recovered in urine as lorazepam-glucuronide was 74 ± 4%.
+The percent of administered dose recovered in urine as lorazepam glucuronide was 74 ± 4%.
 Only 0.3% of the dose was recovered as unchanged lorazepam, and the remainder of the radioactivity represented minor metabolites.
 
 ## Special Populations
@@ -75,17 +75,17 @@ There is no information on the pharmacokinetic profile of lorazepam in infants i
 
 ##### Children (2 years to 12 years)
 
-Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body weight) and a 30% longer mean half-life in children with acute lymphocytic leukemia in complete remission (2 to 12 years, n=37) compared to normal adults (n=10).
-Unbound lorazepam clearance normalized to body weight was comparable in children and adults.
+Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body-weight) and a 30% longer mean half-life in children with acute lymphocytic leukemia in complete remission (2 to 12 years, n=37) compared to normal adults (n=10).
+Unbound lorazepam clearance normalized to body-weight was comparable in children and adults.
 
 ##### Adolescents (12 years to 18 years)
 
-Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body weight) and a mean half-life that was two fold greater in adolescents with acute lymphocytic leukemia in complete remission (12 to 18 years, n=13) compared to normal adults (n=10).
-Unbound lorazepam clearance normalized to body weight was comparable in adolescents and adults.
+Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body-weight) and a mean half-life that was two fold greater in adolescents with acute lymphocytic leukemia in complete remission (12 to 18 years, n=13) compared to normal adults (n=10).
+Unbound lorazepam clearance normalized to body-weight was comparable in adolescents and adults.
 
 #### Elderly
 
-Following single intravenous doses of 1.5 to 3 mg of Lorazepam Injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age.
+Following single intravenous doses of 1.5 to 3 mg of Lorazepam injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age.
 Consequently, no dosage adjustment appears to be necessary in elderly subjects based solely on their age.
 
 ### Effect of Gender
@@ -99,9 +99,9 @@ However, elderly Japanese subjects had a 20% lower mean total clearance than eld
 
 ### Patients with Renal Insufficiency
 
-Because the kidney is the primary route of elimination of lorazepam-glucuronide, renal impairment would be expected to compromise its clearance.
+Because the kidney is the primary route of elimination of lorazepam glucuronide, renal impairment would be expected to compromise its clearance.
 This should have no direct effect on the glucuronidation (and inactivation) of lorazepam.
-There is a possibility that the enterohepatic circulation of lorazepam-glucuronide leads to a reduced efficiency of the net clearance of lorazepam in this population.
+There is a possibility that the enterohepatic circulation of lorazepam glucuronide leads to a reduced efficiency of the net clearance of lorazepam in this population.
 
 Six normal subjects, six patients with renal impairment (Clcr of 22 ± 9 mL/min), and four patients on chronic maintenance hemodialysis were given single 1.5 to 3.0 mg intravenous doses of lorazepam.
 Mean volume of distribution and terminal half-life values of lorazepam were 40% and 25% higher, respectively, in renally impaired patients than in normal subjects.
@@ -109,7 +109,7 @@ Both parameters were 75% higher in patients undergoing hemodialysis than in norm
 Overall, though, in this group of subjects the mean total clearance of lorazepam did not change.
 About 8% of the administered intravenous dose was removed as intact lorazepam during the 6-hour dialysis session.
 
-The kinetics of lorazepam-glucuronide were markedly affected by renal dysfunction.
+The kinetics of lorazepam glucuronide were markedly affected by renal dysfunction.
 The mean terminal half-life was prolonged by 55% and 125% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
 The mean metabolic clearance decreased by 75% and 90% in renally impaired patients and patients under hemodialysis, respectively, as compared with normal subjects.
 About 40% of the administered lorazepam intravenous dose was removed as glucuronide conjugate during the 6-hour dialysis session.
@@ -121,15 +121,15 @@ This prediction is supported by the observation that following a single 2 mg int
 
 ### Effect of Smoking
 
-Administration of a single 2 mg intravenous dose of lorazepam showed that there was no difference in any of the pharmacokinetic parameters of lorazepam between cigarette smokers (n=10, mean=31 cigarettes per day) and nonsmoking subjects (n=10) who were matched for age, weight, and gender.
+Administration of a single 2 mg intravenous dose of lorazepam showed that there was no difference in any of the pharmacokinetic parameters of lorazepam between cigarette smokers (n=10, mean=31 cigarettes per day) and nonsmoking subjects (n=10) who were matched for age, weight and gender.
 
 ## Clinical Studies
 
-The effectiveness of Lorazepam Injection in status epilepticus was established in two multi-center controlled trials in 177 patients.
+The effectiveness of Lorazepam injection in status epilepticus was established in two multi-center controlled trials in 177 patients.
 With rare exceptions, patients were between 18 and 65 years of age.
 More than half the patients in each study had tonic-clonic status epilepticus; patients with simple partial and complex partial status epilepticus comprised the rest of the population studied, along with a smaller number of patients who had absence status.
 
-One study (n=58) was a double-blind active-control trial comparing lorazepam and diazepam.
+One study (n=58) was a double-blind active-control trial comparing lorazepam injection and diazepam.
 Patients were randomized to receive lorazepam 2 mg intravenous (with an additional 2 mg intravenous if needed) or diazepam 5 mg intravenous (with an additional 5 mg intravenous if needed).
 The primary outcome measure was a comparison of the proportion of responders in each treatment group, where a responder was defined as a patient whose seizures stopped within 10 minutes after treatment and who continued seizure-free for at least an additional 30 minutes.
 Twenty-four of the 30 (80%) patients were deemed responders to lorazepam and 16/28 (57%) patients were deemed responders to diazepam (p=0.04).
@@ -140,7 +140,7 @@ After this additional dose administration, 28/30 (93%) of patients randomized to
 
 Although this study provides support for the efficacy of lorazepam as the treatment for status epilepticus, it cannot speak reliably or meaningfully to the comparative performance of either diazepam (Valium) or lorazepam under the conditions of actual use.
 
-A second study (n=119) was a double-blind dose-comparison trial with 3 doses of Lorazepam Injection: 1 mg, 2 mg, and 4 mg.
+A second study (n=119) was a double-blind dose-comparison trial with 3 doses of Lorazepam injection: 1 mg, 2 mg, and 4 mg.
 Patients were randomized to receive one of the three doses of lorazepam.
 The primary outcome and definition of responder were as in the first study.
 Twenty-five of 41 patients (61%) responded to 1 mg lorazepam; 21/37 patients (57%) responded to 2 mg lorazepam; and 31/41 (76%) responded to 4 mg lorazepam.
