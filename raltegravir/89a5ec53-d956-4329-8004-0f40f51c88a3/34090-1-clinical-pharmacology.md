@@ -86,7 +86,7 @@ Two pediatric formulations were evaluated in healthy adult volunteers, where the
 The chewable tablet and oral suspension demonstrated higher oral bioavailability, thus higher AUC, compared to the 400 mg tablet.
 In the same study, the oral suspension resulted in higher oral bioavailability compared to the chewable tablet.
 These observations resulted in proposed pediatric doses targeting 6 mg/kg/dose for the chewable tablets and oral suspension.
-As displayed in Table 13, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
+As displayed in Table 14, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
 
 Overall, dosing in pediatric patients achieved exposures (Ctrough) above 45 nM in the majority of subjects, but some differences in exposures between formulations were observed.
 Pediatric patients above 25 kg administered the chewable tablets had lower trough concentrations (113 nM) compared to pediatric patients above 25 kg administered the 400 mg tablet formulation (233 nM) [see Clinical Studies (14.4)].
@@ -128,7 +128,8 @@ Hepatic Impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 The pharmacokinetics of a single 400-mg dose of raltegravir were not altered in patients with moderate (Child-Pugh Score 7 to 9) hepatic impairment.
 
-No hepatic impairment study has been conducted with ISENTRESS HD 1200 mg (2 × 600 mg) once daily.The effect of severe hepatic impairment on the pharmacokinetics of raltegravir has not been studied.
+No hepatic impairment study has been conducted with ISENTRESS HD 1200 mg (2 × 600 mg) once daily.
+The effect of severe hepatic impairment on the pharmacokinetics of raltegravir has not been studied.
 
 Renal Impairment
 
@@ -235,4 +236,4 @@ UGT1A1 Polymorphism
 There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
 In a comparison of 30 adult subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 adult subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
 
-In the neonatal study IMPAACT P1110, there was no association between apparent clearance (CL/F) of raltegravir and UGT 1A1 genotype polymorphisms.
+In the neonatal study IMPAACT P1110, there was no association between apparent clearance (CL/F) of raltegravir and UGT1A1 genotype polymorphisms.

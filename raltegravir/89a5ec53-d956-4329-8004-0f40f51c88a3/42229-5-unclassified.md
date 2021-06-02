@@ -2,9 +2,9 @@ Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whi
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2014-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2014-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0518-mf-2007r035
+uspi-mk0518-mf-2105r036
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ, USA
 

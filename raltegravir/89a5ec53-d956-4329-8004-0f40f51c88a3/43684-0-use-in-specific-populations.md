@@ -16,14 +16,16 @@ The background risk for major birth defects and miscarriage for the indicated po
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation (see Data).
 
-In animal reproduction studies in rats and rabbits, no evidence of adverse developmental outcomes was observed with oral administration of raltegravir during organogenesis at doses that produced exposures up to approximately 4 times the maximal recommended human dose (MRHD) of 1200 mg (see Data).
+In animal reproduction studies in rats and rabbits, no evidence of adverse developmental outcomes was observed with oral administration of raltegravir during organogenesis at doses that produced exposures up to approximately 4 times the maximum recommended human dose (MRHD) of 1200 mg (see Data).
 
 Data
 
 Human Data
 
-Based on prospective reports from the APR of over 500 exposures to raltegravir during pregnancy resulting in live births (including over 250 exposures in the first trimester), there was no difference between the overall risk of birth defects for raltegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 2.9% (95% CI: 1.2% to 5.6%) following first trimester exposure to raltegravir-containing regimens and 3.6% (95% CI: 1.6% to 6.6%) following second and third trimester exposure to raltegravir-containing regimens.
+Based on prospective reports from the APR of over 850 exposures to raltegravir during pregnancy resulting in live births (including over 450 exposures in the first trimester), there was no difference between the overall risk of birth defects for raltegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.1% (95% CI: 1.7% to 5.1%) following first trimester exposure to raltegravir-containing regimens and 3.7% (95% CI: 2.1% to 6.0%) following second and third trimester exposure to raltegravir-containing regimens.
+
+There are limited data on the use of ISENTRESS 1200 mg (2 x 600 mg) once daily in pregnant women.
 
 Animal Data
 
