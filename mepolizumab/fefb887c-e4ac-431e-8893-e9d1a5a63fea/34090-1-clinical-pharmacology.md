@@ -16,7 +16,7 @@ Subjects received 1 of 4 mepolizumab treatments (administered every 28 days for 
 Sixty-six of the 70 randomized subjects completed the trial.
 Compared with baseline levels, blood eosinophils decreased in a dose-dependent manner.
 A reduction in blood eosinophil levels was observed in all treatment groups by Day 3 (48 hours post-dose).
-On Day 84 (4 weeks post-last dose), the observed geometric mean reduction from baseline in blood eosinophils was 64%, 78%, 84%, and 90% in the 12.5-mg subcutaneous, 75-mg IV, 125-mg subcutaneous, and 250-mg subcutaneous treatment groups, respectively.
+On Day 84 (4 weeks post‑last dose), the observed geometric mean reduction from baseline in blood eosinophils was 64%, 78%, 84%, and 90% in the 12.5-mg subcutaneous, 75-mg IV, 125-mg subcutaneous, and 250-mg subcutaneous treatment groups, respectively.
 The model-predicted subcutaneous doses providing 50% and 90% of maximal reduction of blood eosinophils at Day 84 were estimated to be 11 and 99 mg, respectively.
 These results, along with the clinical efficacy data from the dose-ranging exacerbation trial in adult and adolescent subjects with severe asthma (Trial 1) supported the evaluation of mepolizumab 75 mg IV and 100 mg subcutaneous in the confirmatory severe asthma trials [see Clinical Studies (14.1)].
 Following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 32 weeks in adult and adolescent subjects with severe asthma (Trial 2), blood eosinophils were reduced to a geometric mean count of 40 cells/mcL, which corresponds to a geometric mean reduction of 84% compared with placebo.

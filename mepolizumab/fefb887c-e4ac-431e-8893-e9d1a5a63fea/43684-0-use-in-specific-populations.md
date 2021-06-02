@@ -76,7 +76,7 @@ Hypereosinophilic Syndrome
 The safety and effectiveness of NUCALA for HES have been established in adolescent patients aged 12 years and older.
 The safety and effectiveness in pediatric patients aged younger than 12 years with HES have not been established.
 
-Use of NUCALA for this indication is supported by evidence from an adequate and well controlled study (NCT #02836496) in adults and adolescents and an open-label extension study (NCT #03306043).
+Use of NUCALA for this indication is supported by evidence from an adequate and well-controlled study (NCT #02836496) in adults and adolescents and an open-label extension study (NCT #03306043).
 One adolescent received NUCALA during the controlled study and this patient and an additional three adolescents received NUCALA during the open-label extension study [see Clinical Studies (14.3)].
 The one adolescent treated with NUCALA in the 32-week trial did not have a HES flare or an adverse event reported.
 All adolescents received 300 mg of NUCALA for 20 weeks in the open-label extension.

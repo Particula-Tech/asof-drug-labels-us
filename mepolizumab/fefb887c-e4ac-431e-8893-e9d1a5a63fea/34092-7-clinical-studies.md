@@ -82,6 +82,8 @@ Rate of Exacerbations in Severe Asthma Trials 1 and 2 (Intent-to-Treat Populatio
 
 The time to first exacerbation was longer for the groups receiving NUCALA 100 mg and mepolizumab 75 mg IV compared with placebo in Trial 2 (Figure 1).
 
+IV = intravenous, SC = subcutaneous.
+
 Trial 1 data were explored to determine criteria that could identify subjects likely to benefit from treatment with NUCALA.
 The exploratory analysis suggested that baseline blood eosinophil count of ≥150 cells/mcL was a potential predictor of treatment benefit.
 Exploratory analysis of Trial 2 data also suggested that baseline blood eosinophil count (obtained within 6 weeks of initiation of dosing) of ≥150 cells/mcL was a potential predictor of efficacy and showed a trend of greater exacerbation benefit with increasing blood eosinophil count.
@@ -122,7 +124,7 @@ Change from Baseline in FEV1 (mL) in Severe Asthma Trials
 | 3c | 56 (-91, 203) | 114 (-42, 271) | NA |  |  |  |  |  |  |  |  |  |
 | a Dose = 75 mg intravenous. b Forced expiratory volume in 1 second (FEV1) at Week 52. c Dose = 100 mg subcutaneous. d FEV1 at Week 32. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-The effect of mepolizumab on lung function was also studied in a 12-week, placebo-controlled trial enrolling patients with asthma on a moderate dose of ICS with evidence of symptoms and lung function impairment.
+The effect of mepolizumab on lung function was also studied in a 12-week placebo-controlled trial enrolling patients with asthma on a moderate dose of ICS with evidence of symptoms and lung function impairment.
 Enrollment was not dependent on a history of exacerbations or a pre-specified eosinophil count.
 Change from baseline in FEV1 at Week 12 was numerically lower in the mepolizumab treatment groups than the placebo group.
 
@@ -186,6 +188,8 @@ The time to first relapse (defined as worsening related to vasculitis, asthma, o
 Additionally, subjects receiving 300 mg of NUCALA had a reduction in rate of relapse compared with subjects receiving placebo (rate ratio 0.50; 95% CI: 0.36, 0.70 for 300 mg of NUCALA compared with placebo).
 The incidence and number of relapse types (vasculitis, asthma, sino‑nasal) were numerically lower with NUCALA compared with placebo.
 
+EGPA = eosinophilic granulomatosis with polyangiitis, SC = subcutaneous.
+
 Corticosteroid Reduction
 
 Subjects receiving 300 mg of NUCALA had a significantly greater reduction in average daily OCS dose compared with subjects receiving placebo during Weeks 48 to 52 (Table 7).
@@ -213,7 +217,7 @@ The on-treatment ACQ-6 responder rate during Weeks 48 to 52 (defined as a decrea
 ## 14.3 Hypereosinophilic Syndrome
 
 A total of 108 adult and adolescent patients aged 12 years and older with HES for at least 6 months were evaluated in a randomized, double-blind, placebo-controlled, multicenter, 32-week trial (NCT #02836496).
-Patients with non-hematologic secondary HES (e.g., drug hypersensitivity, parasitic helminth infection, HIV infection, non-hematologic malignancy) or FIP1L1-PDGFRα kinase-positive HES were excluded from the trial.
+Patients with non‑hematologic secondary HES (e.g., drug hypersensitivity, parasitic helminth infection, HIV infection, non-hematologic malignancy) or FIP1L1-PDGFRα kinase-positive HES were excluded from the trial.
 Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks while continuing their stable HES therapy.
 Patients entering the trial had experienced at least 2 HES flares within the past 12 months and a blood eosinophil count of 1,000 cells/mcL or higher during screening.
 Historical HES flares for the trial entry criteria were defined as HES-related worsening of clinical symptoms or blood eosinophil counts requiring an escalation in therapy.
@@ -263,6 +267,8 @@ Time to First Flare
 Difference was observed between NUCALA and placebo arms in the time to first HES flare (Figure 3).
 The risk of first HES flare over the treatment period was 66 % lower for patients treated with NUCALA compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67, P = 0.002).
 
+HES = hypereosinophilic syndrome, SC = subcutaneous.
+
 Proportion of Patients Who Experienced Flares during Week 20 through Week 32
 
 From Week 20 through Week 32, significantly fewer patients experienced a HES flare or withdrew from the trial when treated with 300 mg of NUCALA compared with placebo (17% vs. 35%, respectively, P = 0.020; OR: 0.33; 95 % CI: 0.13, 0.85).
@@ -277,7 +283,7 @@ Frequency of Flares
 
 |  | Number (%) of Patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebon = 54 | NUCALA300 mgn = 54 |  |  |  |  |  |  |
+| Placebon = 54 | NUCALA 300 mgn = 54 |  |  |  |  |  |  |
 | 0 | 26 (48) | 40 (74) |  |  |  |  |  |
 | 1 | 15 (28) | 11 (20) |  |  |  |  |  |
 | 2 | 7 (13) | 3 (6) |  |  |  |  |  |

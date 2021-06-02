@@ -83,8 +83,8 @@ Injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 
 
 ## 6.3 Clinical Trials Experience in Hypereosinophilic Syndrome
 
-A total of 108 adult and adolescent patients aged 12 years and older with HES were evaluated in a randomized, placebo-controlled, multicenter, 32-week treatment trial.
-Patients with non-hematologic secondary HES or FIP1L1-PDGFRα kinase-positive HES were excluded from the trial.
+A total of 108 adult and adolescent patients aged 12 years and older with HES were evaluated in a randomized, placebo‑controlled, multicenter, 32-week treatment trial.
+Patients with non-hematologic secondary HES or FIP1L1‑PDGFRα kinase-positive HES were excluded from the trial.
 Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks.
 Patients must have been on a stable dose of background HES therapy for the 4 weeks prior to randomization [see Clinical Studies (14.3)].
 Of the patients enrolled, 53% were female, 93% were White, and ages ranged from 12 to 82 years.
