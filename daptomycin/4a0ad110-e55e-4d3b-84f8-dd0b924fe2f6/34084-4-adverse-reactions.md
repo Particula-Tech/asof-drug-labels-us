@@ -5,8 +5,10 @@ The following adverse reactions are described, or described in greater detail, i
 - Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
 - Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
 - Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- Peripheral neuropathy [see Warnings and Precautions (5.4)]
-- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
+- Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial nephritis [see Warnings and Precautions (5.5)]
+- Peripheral neuropathy [see Warnings and Precautions (5.6)]
+- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -43,7 +45,7 @@ Table 5: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients
 | Hypotension | 2.4 | 1.4 |
 | Respiratory disorders |  |  |
 | Dyspnea | 2.1 | 1.6 |
-| * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
 
 Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
 
@@ -100,8 +102,8 @@ Table 6: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients
 | Blood creatine phosphokinase increased | 8 (7%) | 1 (1%) |
 | Vascular disorders |  |  |
 | Hypertension NOS | 7 (6%) | 3 (3%) |
-| * NOS, not otherwise specified. |  |  |
-| † Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
+| *NOS, not otherwise specified. |  |  |
+| †Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 
 The following reactions, not included above, were reported as possibly or probably drug-related in the daptomycin-treated group:
 
@@ -147,19 +149,18 @@ Table 7 summarizes the CPK shifts from Baseline through End of Therapy in the cS
 
 Table 7: Incidence of CPK Elevations from Baseline during Therapy in Either the Daptomycin Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
-| Daptomycin 4 mg/kg (N=430) |  | Comparator* (N=459) |  | Daptomycin 4 mg/kg (N=374) |  | Comparator* (N=392) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Change in CPK |  | All Adult Patients |  |  |  | Adult Patients with Normal CPK at Baseline |  |  |  |
-|  | % |  | n | % | n | % | n | % | n |
-| No Increase |  | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
-| Maximum Value | >1× ULN† | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
-|  | >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
-|  | >4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
-|  | >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
-|  | >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
-| Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |  |
-| * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |  |  |  |  |  |  |  |
-| † ULN (Upper Limit of Normal) is defined as 200 U/L. |  |  |  |  |  |  |  |  |  |
+| Daptomycin 4 mg/kg (N=430) % n | Comparator* (N=459) % n | Daptomycin 4 mg/kg (N=374) % n | Comparator* (N=392) % n |  |
+| --- | --- | --- | --- | --- |
+| Change in CPK | All Adult Patients |  | Adult Patients with Normal CPK at Baseline |  |
+| No Increase | 90.7 390 | 91.1 418 | 91.2 341 | 91.1 357 |
+| Maximum Value >1× ULN† | 9.3 40 | 8.9 41 | 8.8 33 | 8.9 35 |
+| >2× ULN | 4.9 21 | 4.8 22 | 3.7 14 | 3.1 12 |
+| >4× ULN | 1.4 6 | 1.5 7 | 1.1 4 | 1.0 4 |
+| >5× ULN | 1.4 6 | 0.4 2 | 1.1 4 | 0.0 0 |
+| >10× ULN | 0.5 2 | 0.2 1 | 0.2 1 | 0.0 0 |
+| Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different. |  |  |  |  |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |  |  |
+| † ULN (Upper Limit of Normal) is defined as 200 U/L. |  |  |  |  |
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
@@ -176,9 +177,9 @@ Blood and Lymphatic System Disorders: anemia, thrombocytopenia
 
 General and Administration Site Conditions: pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
-Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
+Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)]
 
 Laboratory Investigations: platelet count decreased
 
@@ -186,12 +187,12 @@ Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports inv
 
 Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
-Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
+Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 
-Renal and Urinary Disorders: acute kidney injury, renal insufficiency, and renal failure
+Renal and Urinary Disorders: acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)]
 
 Special Senses: visual disturbances

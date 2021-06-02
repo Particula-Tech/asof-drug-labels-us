@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Daptomycin is an antibacterial drug [see Microbiology (12.4)].
+Daptomycin is an antibacterial drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -25,9 +25,9 @@ Table 9: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunt
 | 8 (N=6) | 858 (213) | 8.3 (2.2) | 0.101 (0.013) | 9.0 (3.0) | 123.3 (16.0) |
 | 10 (N=9) | 1039 (178) | 7.9 (0.6) | 0.098 (0.017) | 8.8 (2.2) | 141.1 (24.0) |
 | 12 (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
-| * Daptomycin was administered by IV infusion over a 30-minute period. |  |  |  |  |  |
-| † Doses of daptomycin in excess of 6 mg/kg have not been approved. |  |  |  |  |  |
-| ‡ AUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |  |
+| *Daptomycin was administered by IV infusion over a 30-minute period. |  |  |  |  |  |
+| †Doses of daptomycin in excess of 6 mg/kg have not been approved. |  |  |  |  |  |
+| ‡AUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |  |
 
 Daptomycin pharmacokinetics were generally linear and time-independent at daptomycin doses of 4 to 12 mg/kg q24h administered by IV infusion over a 30-minute period for up to 14 days.
 Steady-state trough concentrations were achieved by the third daily dose.
@@ -91,9 +91,9 @@ Table 10: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following I
 | Hemodialysis | 30.51 (6.51) N=16 | 0.16 (0.04) N=16 | 3.9 (2.1) N=16 | 1193 (399) N=16 | NA | NA |
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 | Note: Daptomycin was administered over a 30-minute period. |  |  |  |  |  |  |
-| * CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. |  |  |  |  |  |  |
-| † Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. |  |  |  |  |  |  |
-| ‡ Parameters obtained at steady-state from patients with S. aureus bacteremia. |  |  |  |  |  |  |
+| *CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. |  |  |  |  |  |  |
+| †Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. |  |  |  |  |  |  |
+| ‡Parameters obtained at steady-state from patients with S. aureus bacteremia. |  |  |  |  |  |  |
 
 Because renal excretion is the primary route of elimination, adjustment of daptomycin dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
 
@@ -203,23 +203,33 @@ Antimicrobial Activity
 
 Daptomycin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
 
-- Gram-Positive Bacteria
-- Enterococcus faecalis (vancomycin-susceptible isolates only)
-- Staphylococcus aureus (including methicillin-resistant isolates)
-- Streptococcus agalactiae
-- Streptococcus dysgalactiae subsp. equisimilis
-- Streptococcus pyogenes
+Gram-Positive Bacteria
+
+Enterococcus faecalis (vancomycin-susceptible isolates only)
+
+Staphylococcus aureus (including methicillin-resistant isolates)
+
+Streptococcus agalactiae
+
+Streptococcus dysgalactiae subsp. equisimilis
+
+Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of genus or organism group.
 However, the efficacy of daptomycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
-- Gram-Positive Bacteria
-- Corynebacterium jeikeium
-- Enterococcus faecalis (vancomycin-resistant isolates)
-- Enterococcus faecium (including vancomycin-resistant isolates)
-- Staphylococcus epidermidis (including methicillin-resistant isolates)
-- Staphylococcus haemolyticus
+Gram-Positive Bacteria
+
+Corynebacterium jeikeium
+
+Enterococcus faecalis (vancomycin-resistant isolates)
+
+Enterococcus faecium (including vancomycin-resistant isolates)
+
+Staphylococcus epidermidis (including methicillin-resistant isolates)
+
+Staphylococcus haemolyticus
 
 Susceptibility Testing
 
