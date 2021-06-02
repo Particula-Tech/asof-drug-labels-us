@@ -27,7 +27,7 @@ Administration
 
 Advise patients to take ONUREG with or without food at about the same time each day and how to make up a missed or vomited dose.
 Advise patients to swallow tablets whole.
-Advise patients not to cut, split, crush, or chew the tablets [see Dosage and Administration (2.2)].
+Advise patients not to cut, crush, or chew the tablets [see Dosage and Administration (2.2)].
 
 Storage Instructions
 

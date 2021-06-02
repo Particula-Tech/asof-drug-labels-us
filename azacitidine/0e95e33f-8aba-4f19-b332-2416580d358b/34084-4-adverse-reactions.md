@@ -41,11 +41,11 @@ Table 2: Adverse Reactions (≥ 5%) in Patients with AML Who Received ONUREG wit
 | Vomiting | 60 | 3 | 10 | 0 |
 | Diarrhea | 50 | 5 | 21 | 1 |
 | Constipation | 39 | 1 | 24 | 0 |
-| Abdominal painGrouped term includes abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain. | 22 | 2 | 13 | < 1 |
+| Abdominal paina | 22 | 2 | 13 | < 1 |
 | General disorders and administration site conditions |  |  |  |  |
-| Fatigue / astheniaGrouped term includes fatigue and asthenia. | 44 | 4 | 25 | 1 |
+| Fatigue / astheniab | 44 | 4 | 25 | 1 |
 | Infections |  |  |  |  |
-| PneumoniaBroad scope term includes influenza, pneumonia, respiratory tract infection, respiratory tract infection viral, bronchopulmonary aspergillosis, lung infection, Staphylococcal infection, atypical pneumonia, lower respiratory tract infection, lung abscess, Pneumocystis jirovecii pneumonia, pneumonia bacterial, pneumonia fungal, Pseudomonas infection, hemoptysis, productive cough, pleural effusion, atelectasis, pleuritic pain, rales, Enterobacter test positive, and Hemophilus test positive. | 27 | 9 | 17 | 5 |
+| Pneumoniac | 27 | 9 | 17 | 5 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Arthralgia | 14 | 1 | 10 | < 1 |
 | Pain in extremity | 11 | < 1 | 5 | 0 |
@@ -55,6 +55,9 @@ Table 2: Adverse Reactions (≥ 5%) in Patients with AML Who Received ONUREG wit
 | Febrile neutropenia | 12 | 11 | 8 | 8 |
 | Nervous system disorders |  |  |  |  |
 | Dizziness | 11 | 0 | 9 | 0 |
+| a Grouped term includes abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain. |  |  |  |  |
+| b Grouped term includes fatigue and asthenia. |  |  |  |  |
+| c Broad scope term includes influenza, pneumonia, respiratory tract infection, respiratory tract infection viral, bronchopulmonary aspergillosis, lung infection, Staphylococcal infection, atypical pneumonia, lower respiratory tract infection, lung abscess, Pneumocystis jirovecii pneumonia, pneumonia bacterial, pneumonia fungal, Pseudomonas infection, hemoptysis, productive cough, pleural effusion, atelectasis, pleuritic pain, rales, Enterobacter test positive, and Hemophilus test positive. |  |  |  |  |
 
 Clinically relevant adverse reactions that did not meet criteria for inclusion in Table 2 were weight decreased (4%) in patients who received ONUREG.
 

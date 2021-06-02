@@ -18,7 +18,8 @@ Delay the start of the cycle until the ANC is 0.5 Gi/L or more.
 
 Instruct patients on the following:
 
-- Do not split, crush, or chew ONUREG tablets.
+- Swallow tablets whole.
+  Do not cut, crush, or chew the tablets.
 - Take a dose about the same time each day.
 - If a dose of ONUREG is missed, or not taken at the usual time, take the dose as soon as possible on the same day, and resume the normal schedule the following day.
   Do not take 2 doses on the same day.
