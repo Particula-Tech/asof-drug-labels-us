@@ -36,7 +36,7 @@ NDC 68180-279-09 Bottle of 90s
 
 NDC 68180-279-02 Bottle of 500s
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 Protect from moisture.
 

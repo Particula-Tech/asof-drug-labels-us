@@ -6,7 +6,7 @@ Valsartan tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue valsartan tablets as soon as possible [see USE IN SPECIFIC POPULATIONS (8.1)].
+When pregnancy is detected, discontinue valsartan tablets as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension
 
@@ -26,10 +26,10 @@ A transient hypotensive response is not a contraindication to further treatment,
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on valsartan.
 Monitor renal function periodically in these patients.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on valsartan [see DRUG INTERACTIONS (7)].
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on valsartan [see Drug Interactions (7)].
 
 ## 5.4 Hyperkalemia
 
 Some patients with heart failure have developed increases in potassium.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.
-Dosage reduction and/or discontinuation of valsartan tablets may be required [see ADVERSE REACTIONS (6.1)].
+Dosage reduction and/or discontinuation of valsartan tablets may be required [see Adverse Reactions (6.1)].
