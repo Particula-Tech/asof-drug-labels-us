@@ -25,7 +25,7 @@ The common adverse reactions seen on initiation of therapy with oxycodone hydroc
 The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double- blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets-treated patients with an incidence ≥3%.
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets treated patients with an incidence ≥3%.
 In descending order of frequency they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
 Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride tablets included:
