@@ -66,7 +66,7 @@ These higher plasma concentrations may in part be explained by differences in bo
 It is not known whether these sex-related differences were clinically important.
 More detailed pharmacokinetic information is contained in Tables 5 and 6.
 
-Table 5: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of a Ondansetron 8 mg Tablet
+Table 5: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of a Ondansetron 8 mg Tablet
 
 | Age-group(years)Sex (M/F) | MeanWeight(kg) | N | Peak PlasmaConcentration(ng/mL) | Tine ofPeak Plasma Concentration(h) | Mean Elimination Half-life(h) | Systemic Plasma ClearanceL/h/kg | AbsoluteBioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ Table 5: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dos
 | ≥75 M | 78 | 5 | 37 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |
 
-Table 6: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of a Ondansetron 24 mg Tablet
+Table 6: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of a Ondansetron 24 mg Tablet
 
 | Age-group (years) Sex (M/F) | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- |

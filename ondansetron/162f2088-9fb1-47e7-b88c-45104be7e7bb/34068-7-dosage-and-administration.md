@@ -19,7 +19,7 @@ Table 2: Pediatric Recommended Dosage Regimen for Prevention of Nausea and Vomit
 
 | Indication | Dosage Regimen |
 | --- | --- |
-| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age: 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8 mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) 1 to 2 days after completion of chemotherapy. 4 to 11 years of age: 4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4 mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
+| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age: 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8 mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. 4 to 11 years of age: 4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4 mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
 
 ## 2.2 Dosage in Hepatic Impairment
 

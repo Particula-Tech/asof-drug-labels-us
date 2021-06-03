@@ -4,7 +4,7 @@ The active ingredient in ondansetron tablets is ondansetron hydrochloride as the
 Chemically it is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one, monohydrochloride, dihydrate.
 It has the following structural formula:
 
-The molecular formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.86.
+The molecular formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.86 g/mol.
 
 Ondansetron HCl dihydrate USP is a white to off-white powder that is soluble in methanol, sparingly soluble in purified water and in alcohol, and slightly soluble in isopropyl alcohol, in dichloromethane, very slightly soluble in acetone, in chloroform and in ethyl acetate.
 

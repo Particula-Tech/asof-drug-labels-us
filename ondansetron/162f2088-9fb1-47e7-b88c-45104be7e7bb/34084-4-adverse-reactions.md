@@ -1,5 +1,12 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity reactions [see Warnings and Precautions (5.1)]
+- QT prolongation [see Warnings and Precautions (5.2)]
+- Serotonin syndrome [see Warnings and Precautions (5.3)]
+- Masking of progressive ileus and gastric distention [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -13,12 +20,12 @@ The most common adverse reactions reported in greater than or equal to 4% of 300
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
-Table 3: Most Common Adverse Reactions in Adultsa for the Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in Adultsa for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 | Adverse Reaction | Ondansetron 8 mg Twice Daily (n = 242) | Placebo (n = 262) |
 | --- | --- | --- |
 | Headache | 58 (24%) | 34 (13%) |
-| Malaise/fatigue | 32 (13%) | 6 (2%) |
+| Malaise/Fatigue | 32 (13%) | 6 (2%) |
 | Constipation | 22 (9%) | 1 (<1%) |
 | Diarrhea | 15 (6%) | 10 (4%) |
 
@@ -56,7 +63,7 @@ Table 4: Most Common Adverse Reactions in Adultsa for the Prevention of Postoper
 | Pyrexia | 45 (8%) | 34 (6%) |
 | Dizziness | 36 (7%) | 34 (6%) |
 | Gynecological disorder | 36 (7%) | 33 (6%) |
-| Anxiety/agitation | 33 (6%) | 29 (5%) |
+| Anxiety/Agitation | 33 (6%) | 29 (5%) |
 | Urinary retention | 28 (5%) | 18 (3%) |
 | Pruritus | 27 (5%) | 20 (4%) |
 
@@ -74,8 +81,7 @@ Rarely and predominantly with intravenous ondansetron, transient ECG changes inc
 
 General
 
-General Flushing.
-Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
+Flushing: Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
 
 Laryngospasm, shock, and cardiopulmonary arrest have occurred during allergic reactions in patients receiving injectable ondansetron.
 
