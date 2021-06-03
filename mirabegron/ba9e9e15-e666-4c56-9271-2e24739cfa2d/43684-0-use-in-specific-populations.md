@@ -49,7 +49,7 @@ The safety and effectiveness have been established only for the following pediat
 The safety and effectiveness of MYRBETRIQ/MYRBETRIQ Granules in pediatric patients aged 3 years and older have been established for the treatment of neurogenic detrusor overactivity (NDO) and the information on this use is discussed throughout the labeling.
 Use of MYRBETRIQ/MYRBETRIQ Granules for this indication is supported by evidence from a 52-week, open-label, baseline-controlled, multicenter, dose titration trial in pediatric patients 3 years of age and older with NDO (Study 9) [see Adverse Reactions (6.1), Clinical Studies (14.3)].
 Results showed an improvement from baseline in maximum cystometric (bladder) capacity (MCC) with MYRBETRIQ/MYRBETRIQ Granules use [see Clinical Studies (14.3)].
-The most commonly reported adverse reactions in Study 9 (≥3%) were UTI, nasopharyngitis, constipation, and headache.
+The most commonly reported adverse reactions in Study 9 (≥ 3%) were UTI, nasopharyngitis, constipation, and headache.
 Increased mean systolic and diastolic blood pressures with use of MYRBETRIQ/MYRBETRIQ Granules occurred in patients less than 12 years of age with larger increases in patients younger than 8 years of age [see Adverse Reactions (6.1)].
 Take MYRBETRIQ/MYRBETRIQ Granules with food to reduce potential exposure-related risks, such as increased heart rate, as predicted by modeling of vital signs data in Study 9 [see Clinical Pharmacology (12.3)].
 

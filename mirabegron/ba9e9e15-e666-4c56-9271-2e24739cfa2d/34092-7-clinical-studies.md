@@ -163,12 +163,12 @@ The magnitude of the observed changes from baseline in the primary and secondary
 
 Table 16: Change from Baseline in Maximum Cystometric Capacity (MCC) at 24 Weeks in Pediatric Patients with Neurogenic Detrusor Overactivity (NDO) Treated with MYRBETRIQ/MYRBETRIQ Granules in Study 9
 
-| Parameter |  | ChildrenAged 3 to Less than 12 Years(N=43) N is the number of patients who took at least one dose and provided valid values for MCC at Baseline and Week 24.Mean (SD) | AdolescentsAged 12 to 17 Years(N=25) Mean (SD) |
+| Parameter |  | ChildrenAged 3 to Less than 12 Years(N=43)N is the number of patients who took at least one dose and provided valid values for MCC at Baseline and Week 24.Mean (SD) | AdolescentsAged 12 to 17 Years(N=25)Mean (SD) |
 | --- | --- | --- | --- |
 | Maximum Cystometric Capacity (mL) |  |  |  |
 |  | BaselineWeek 24Change from baseline95% CI | 159 (95)231 (129)72 (87)(45, 99) | 239 (99)352 (125)113 (83)(79, 147) |
 
-Secondary efficacy endpoints from Study 9 for MYRBETRIQ/MYRBETRIQ Granules in pediatric patients with neurogenic detrusor overactivity (NDO) are shown below in Table 17 and Table 18
+Secondary efficacy endpoints from Study 9 for MYRBETRIQ/MYRBETRIQ Granules in pediatric patients with neurogenic detrusor overactivity (NDO) are shown below in Table 17 and Table 18.
 
 Table 17: Changes from Baseline in Other Urodynamic Parameters at Week 24 in Pediatric Patients with Neurogenic Detrusor Overactivity (NDO) Treated with MYRBETRIQ/MYRBETRIQ Granules in Study 9
 
