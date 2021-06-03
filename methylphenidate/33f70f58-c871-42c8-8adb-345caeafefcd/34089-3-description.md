@@ -11,7 +11,7 @@ The chemical name of methylphenidate is methyl α-phenyl-2-piperidineacetate, an
 
 Figure 1: Methylphenidate Structure
 
-C14H19NO2 Mol.
+C 14H 19NO 2 Mol.
 Wt.
 233.31
 

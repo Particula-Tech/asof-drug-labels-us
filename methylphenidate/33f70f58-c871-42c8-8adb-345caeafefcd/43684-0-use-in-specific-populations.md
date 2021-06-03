@@ -36,10 +36,10 @@ Methodological limitations of these observational studies include small sample s
 Animal Data
 
 In studies conducted in rats and rabbits, methylphenidate was administered orally at doses of up to 75 and 200 mg/kg/day, respectively, during the period of organogenesis.
-Teratogenic effects (increased incidence of fetal spina bifida) were observed in rabbits at the highest dose, which is approximately 60 times the maximum recommended human dose (MRHD) of 51.8 mg (as base) for adolescents on a mg/m2 basis.
-The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (18 times the MRHD for adolescent on a mg/m2 basis).
-There was no evidence of specific teratogenic activity in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (11 times the MRHD on a mg/m2 basis for adolescent), which was also maternally toxic.
-The no effect level for embryo-fetal development in rats was 25 mg/kg/day (4 times the MRHD on a mg/m2 basis for adolescent).
+Teratogenic effects (increased incidence of fetal spina bifida) were observed in rabbits at the highest dose, which is approximately 60 times the maximum recommended human dose (MRHD) of 51.8 mg (as base) for adolescents on a mg/m 2 basis.
+The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (18 times the MRHD for adolescent on a mg/m 2 basis).
+There was no evidence of specific teratogenic activity in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (11 times the MRHD on a mg/m 2 basis for adolescent), which was also maternally toxic.
+The no effect level for embryo-fetal development in rats was 25 mg/kg/day (4 times the MRHD on a mg/m 2 basis for adolescent).
 
 ## 8.2 Lactation
 
@@ -70,11 +70,11 @@ Juvenile Animal Toxicity Data
 
 Rats treated with methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood.
 A deficit in acquisition of a specific learning task was observed in females only.
-The doses at which these findings were observed are at least 6 times the maximum recommended human dose (MRHD) of 51.8 mg (as base) for pediatric patients on a mg/m2 basis.
+The doses at which these findings were observed are at least 6 times the maximum recommended human dose (MRHD) of 51.8 mg (as base) for pediatric patients on a mg/m 2 basis.
 
 In the study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal day 7) and continuing through sexual maturity (postnatal week 10).
-When these animals were tested as adults (postnatal weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day [approximately 6 times the MRHD of 51.8 mg (as base) on a mg/m2 basis] or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).
-The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (half the MRHD on a mg/m2 basis).
+When these animals were tested as adults (postnatal weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day [approximately 6 times the MRHD of 51.8 mg (as base) on a mg/m 2 basis] or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m 2 basis).
+The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (half the MRHD on a mg/m 2 basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
 ## 8.5 Geriatric Use

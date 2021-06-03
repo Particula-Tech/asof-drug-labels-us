@@ -17,15 +17,15 @@ After oral administration of COTEMPLA XR-ODT, circulation levels of l- methylphe
 
 Absorption
 
-Following a single dose of 51.8 mg (2×25.9 mg daily) COTEMPLA XR-ODT in healthy adult subjects under fasted conditions, plasma methylphenidate (MPH) reached maximal concentration (Cmax) at a median time of 5 hours after dosing.
-Compared to an extended release capsule formulation of methylphenidate, methylphenidate mean Cmax and exposure (AUCinf) was about 26% and 6% higher, respectively, after COTEMPLA XR-ODT administration (Figure 2).
+Following a single dose of 51.8 mg (2×25.9 mg daily) COTEMPLA XR-ODT in healthy adult subjects under fasted conditions, plasma methylphenidate (MPH) reached maximal concentration (C max) at a median time of 5 hours after dosing.
+Compared to an extended release capsule formulation of methylphenidate, methylphenidate mean C max and exposure (AUC inf) was about 26% and 6% higher, respectively, after COTEMPLA XR-ODT administration (Figure 2).
 
 Figure 2: Mean d-Methylphenidate Plasma Concentration-Time Profiles After Administration of COTEMPLA XR-ODT or Methylphenidate Hydrochloride Extended-Release Capsule in Healthy Volunteers Under Fasted Conditions
 
 Effect of Food
 
-Administration of 51.8 mg COTEMPLA XR-ODT with food (a high fat meal) decreased the Cmax and increased AUCinf of total MPH by approximately 24% and 16%, respectively.
-Food shortened the median time to peak concentration (Tmax) by 0.5 hour (fed: 4.5 hours vs. fasted: 5.0 hours).
+Administration of 51.8 mg COTEMPLA XR-ODT with food (a high fat meal) decreased the C max and increased AUC inf of total MPH by approximately 24% and 16%, respectively.
+Food shortened the median time to peak concentration (T max) by 0.5 hour (fed: 4.5 hours vs. fasted: 5.0 hours).
 
 Effect of Alcohol
 
@@ -65,11 +65,11 @@ Table 2: PK Parameters (Mean ±SD) of d-MPH After 51.8 mg Oral Dosing of COTEMPL
 
 | PK Parameter | Children (n=24) | Adolescent (n=8) | Adult (n=38) |
 | --- | --- | --- | --- |
-| Tmax (hr)data presented as median range | 4.6 (2.0-8.0) | 5.31 (3.5-8.0) | 4.98 (2.5 – 6.5) |
-| T½ (hr) | 4.43±1.0 | 3.93±0.33 | 4.00±0.73 |
-| Cmax (ng/mL) | 32.7±9.83 | 20.2±5.79 | 20.8±5.22 |
+| T max (hr) data presented as median range | 4.6 (2.0-8.0) | 5.31 (3.5-8.0) | 4.98 (2.5 – 6.5) |
+| T ½ (hr) | 4.43±1.0 | 3.93±0.33 | 4.00±0.73 |
+| C max (ng/mL) | 32.7±9.83 | 20.2±5.79 | 20.8±5.22 |
 | Cl (L/hr/kg) | 6.21±1.48 | 5.54±1.19 | 5.48±1.46 |
-| AUC∞ (hr*ng/mL) | 328.9±90.21 | 187.2±62.05 | 169.1±57.13 |
+| AUC ∞ (hr*ng/mL) | 328.9±90.21 | 187.2±62.05 | 169.1±57.13 |
 
 Patients with Renal Impairment
 

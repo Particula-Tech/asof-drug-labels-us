@@ -14,7 +14,7 @@ The SKAMP-Combined scores test day average was statistically significantly lower
 
 Table 3: Efficacy Analysis Results: SKAMP-Combined Scores Averaged Over Classroom Day in Patients with ADHD
 
-| Study Number | Treatment Group | Baseline Score at RandomizationVisit 7 baseline score (Visit 7 occurred prior to the 1-week randomized, double-blind, parallel group treatment period). (SD) | Pre-dose Score on Classroom DayVisit 8 baseline score (Visit 8 occurred at the end of the 1-week randomized, double-blind, parallel group treatment period). (SD) | LS MeanVisit 8 LS mean over hours 1, 3, 5, 7, 10, 12, and 13. (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares means. (95% CI) |
+| Study Number | Treatment Group | Baseline Score at Randomization Visit 7 baseline score (Visit 7 occurred prior to the 1-week randomized, double-blind, parallel group treatment period). (SD) | Pre-dose Score on Classroom Day Visit 8 baseline score (Visit 8 occurred at the end of the 1-week randomized, double-blind, parallel group treatment period). (SD) | LS Mean Visit 8 LS mean over hours 1, 3, 5, 7, 10, 12, and 13. (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares means. (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 | Cotempla XR-ODT (17.3-51.8 mg/day) | 21.1 (9.56) | 26.8 (11.52) | 14.3 (1.07) | -11.0 (-13.9, -8.2) |
 | Placebo | 20.4 (9.09) | 19.1 (11.04) | 25.3 (1.16) | -- |  |
