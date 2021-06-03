@@ -55,7 +55,7 @@ Table 2: Adverse Reactions Reported by 2% or More of Pediatric Patients (6-12 ye
 |  | Dizziness | 2% | 0% |
 | Metabolic/Nutritional | Weight Loss | 4% | 0% |
 
-Table 3: Adverse Reactions Reported by 5% or More of Pediatric Patients (13-17 Years Old) Weighing ≤ 75kg Receiving MAS ER with Higher Incidence than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 40 mg
+Table 3: Adverse Reactions Reported by 5% or More of Pediatric Patients (13-17 Years Old) Weighing ≤ 75kg Receiving MAS ER with Higher Incidence than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration Study Included doses up to 40 mg
 
 | Body System | Preferred Term | MAS ER (n=233) | Placebo (n=54) |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ Table 3: Adverse Reactions Reported by 5% or More of Pediatric Patients (13-17 Y
 | Metabolic/Nutritional | Weight Loss | 9% | 0% |
 | Note: The following reactions did not meet the criterion for inclusion in Table 3 but were reported by 2% to 4% of adolescent patients receiving MAS ER with a higher incidence than patients receiving placebo in this study: accidental injury, asthenia (fatigue), dry mouth, dyspepsia, emotional lability, nausea, somnolence, and vomiting. |  |  |  |
 
-Table 4: Adverse Reactions Reported by 5% or More of Adults Receiving MAS ER with Higher Incidence Than Placebo in a 255 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 60 mg.
+Table 4: Adverse Reactions Reported by 5% or More of Adults Receiving MAS ER with Higher Incidence Than Placebo in a 255 Patient Clinical Forced Weekly-Dose Titration Study Included doses up to 60 mg.
 
 | Body System | Preferred Term | MAS ER (n=191) | Placebo (n=64) |
 | --- | --- | --- | --- |

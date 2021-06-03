@@ -7,12 +7,12 @@ Teratogenic Effects
 Pregnancy Category C.
 
 Amphetamine, in the enantiomer ratio present in ADZENYS XR-ODT (d- to l- ratio of 3:1), had no apparent effects on embryofetal morphological development or survival when orally administered to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 6 and 16 mg/kg/day, respectively.
-These doses are approximately 2 and 12 times, respectively, the maximum recommended human dose (MRHD) for adolescents of 12.5 mg/day (as base), on a mg/m2 body surface area basis.
-Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 10 times the MRHD for adolescents on a mg/m2 basis) or greater to pregnant animals.
+These doses are approximately 2 and 12 times, respectively, the maximum recommended human dose (MRHD) for adolescents of 12.5 mg/day (as base), on a mg/m 2 body surface area basis.
+Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 10 times the MRHD for adolescents on a mg/m 2 basis) or greater to pregnant animals.
 Administration of these doses was also associated with severe maternal toxicity.
 
 A study was conducted in which pregnant rats received daily oral doses of amphetamine (d- to l- enantiomer ratio of 3:1, the same as in ADZENYS XR-ODT) of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
-These doses are approximately 0.8, 2, and 4 times the MRHD for adolescents of 12.5 mg/day (as base), on a mg/m2 basis.
+These doses are approximately 0.8, 2, and 4 times the MRHD for adolescents of 12.5 mg/day (as base), on a mg/m 2 basis.
 All doses caused hyperactivity and decreased weight gain in the dams.
 A decrease in pup survival was seen at all doses.
 A decrease in pup bodyweight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks.
@@ -57,7 +57,7 @@ Growth should be monitored during treatment with stimulants, including ADZENYS X
 Juvenile Animal Data
 
 In a juvenile developmental study, rats received daily oral doses of amphetamine (d to l enantiomer ratio of 3:1, the same as in ADZENYS XR-ODT) of 2, 6, or 20 mg/kg on days 7 to 13 of age; from day 14 to approximately day 60 of age these doses were given twice daily for total daily doses of 4, 12, or 40 mg/kg.
-The latter doses are approximately 0.6, 2, and 6 times the maximum recommended human dose for children of 18.8 mg/day (as base), on a mg/m2 basis.
+The latter doses are approximately 0.6, 2, and 6 times the maximum recommended human dose for children of 18.8 mg/day (as base), on a mg/m 2 basis.
 Post dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period.
 Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period.
 A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.

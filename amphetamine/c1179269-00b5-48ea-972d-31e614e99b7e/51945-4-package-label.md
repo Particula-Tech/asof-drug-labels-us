@@ -6,7 +6,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 
@@ -26,7 +26,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 
@@ -46,7 +46,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 
@@ -66,7 +66,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 
@@ -86,7 +86,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 
@@ -106,7 +106,7 @@ Contains: 30 Tablets (5 x 6-count blister cards) Travel Case
 
 Rx Only
 
-Adzenys XR-ODT™CII Amphetamine Extended-Release Orally Disintegrating Tablets
+Adzenys XR-ODT™ CII Amphetamine Extended-Release Orally Disintegrating Tablets
 
 Do not crush or chew tablets
 

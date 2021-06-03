@@ -80,7 +80,7 @@ Pharmacist: Medication Guide to be dispensed to patients
 
 ADZENYS XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 
-Copyright© 2016, Neos Therapeutics, Inc.
+Copyright © 2016, Neos Therapeutics, Inc.
 
 Patent Number 8,709,491 B2
 

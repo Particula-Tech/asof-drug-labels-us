@@ -18,12 +18,12 @@ The single dose pharmacokinetics of d-amphetamine under fed conditions are summa
 
 Table 6: d-Amphetamine PK Parameters (mean + SD) after ADZENYS XR-ODT 18.8 mg
 
-| PK parameter | Adults Fasted | Adults FedA high-fat meal was consumed 30 minutes prior to drug administration |
+| PK parameter | Adults Fasted | Adults Fed A high-fat meal was consumed 30 minutes prior to drug administration |
 | --- | --- | --- |
-| Tmax (hr)Data presented as median (range) | 5.00 (3.00-12.00) | 7.00 (3.00-16.00) |
-| T1/2 (hr) | 11.25±2.0 | 11.33±2.0 |
-| Cmax (ng/ml) | 44.9±8.9 | 36.3±6.9 |
-| AUCinf (hr*ng/mL) | 876.9±182.4 | 856.3±166.1 |
+| T max (hr) Data presented as median (range) | 5.00 (3.00-12.00) | 7.00 (3.00-16.00) |
+| T 1/2 (hr) | 11.25±2.0 | 11.33±2.0 |
+| C max (ng/ml) | 44.9±8.9 | 36.3±6.9 |
+| AUC inf (hr*ng/mL) | 876.9±182.4 | 856.3±166.1 |
 
 A single dose of ADZENYS XR-ODT 18.8 mg provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to mixed salts of a single-entity amphetamine product extended-release capsules (MAS ER) 30 mg.
 
@@ -33,8 +33,7 @@ Mean weight-normalized clearance values for d-amphetamine and l-amphetamine decr
 
 Food Effect
 
-Food does not affect the extent of absorption of d-amphetamine and l-amphetamine but caused a 19% reduction in Cmax.
-Food also prolonged the median tmax by approximately 2.0 hours for d-amphetamine and by 2.5 hours for l-amphetamine after administration of ADZENYS XR-ODT.
+Food does not affect the extent of absorption of d-amphetamine and l-amphetamine but caused a 19% reduction in C max. Food also prolonged the median t max by approximately 2.0 hours for d-amphetamine and by 2.5 hours for l-amphetamine after administration of ADZENYS XR-ODT.
 These changes are not considered clinically significant.
 
 Alcohol Effect
@@ -65,20 +64,20 @@ In addition, drugs that effect urinary pH are known to alter the elimination of 
 Specific Populations
 
 Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of MAS ER in pediatric patients (6-12 years) and adolescent (13-17 years) ADHD patients and healthy adult volunteers indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d-and l-amphetamine across the age range.
-Systemic exposure measured by area under the curve to infinity (AUC∞) and maximum plasma concentration (Cmax) decreased with increases in body weight, while oral volume of distribution (VZ/F), oral clearance (CL/F), and elimination half-life (t1/2) increased with increases in body weight.
+Systemic exposure measured by area under the curve to infinity (AUC ∞) and maximum plasma concentration (C max) decreased with increases in body weight, while oral volume of distribution (V Z/F), oral clearance (CL/F), and elimination half-life (t 1/2) increased with increases in body weight.
 
 Pediatric Patients
 
 The pharmacokinetics of ADZENYS XR-ODT in pediatric patients has been established based on the pharmacokinetics of MAS ER in pediatric patients.
 On a mg/kg weight basis, pediatric patients eliminate amphetamine faster than adults.
-The elimination half-life (t1/2) is approximately 1 hour shorter for d-amphetamine and 2 hours shorter for l-amphetamine in pediatric patients than in adults.
-However, for a given dose of MAS ER, pediatric patients had higher systemic exposure to amphetamine (Cmax and AUC) than adults which was attributed to the higher dose administered to pediatric patients on a mg/kg body weight basis compared to adults.
+The elimination half-life (t 1/2) is approximately 1 hour shorter for d-amphetamine and 2 hours shorter for l-amphetamine in pediatric patients than in adults.
+However, for a given dose of MAS ER, pediatric patients had higher systemic exposure to amphetamine (C max and AUC) than adults which was attributed to the higher dose administered to pediatric patients on a mg/kg body weight basis compared to adults.
 Upon dose normalization on a mg/kg basis, pediatric patients showed 30% less systemic exposure compared to adults.
 
 Gender
 
 Systemic exposure to amphetamine was 20-30% higher in women (N=20) than in men (N=20) due to the higher dose administered to women on a mg/kg body weight basis.
-When the exposure parameters (Cmax and AUC) were normalized by dose (mg/kg), these differences diminished.
+When the exposure parameters (C max and AUC) were normalized by dose (mg/kg), these differences diminished.
 Age and gender had no direct effect on the pharmacokinetics of d- and l-amphetamine.
 
 Race
