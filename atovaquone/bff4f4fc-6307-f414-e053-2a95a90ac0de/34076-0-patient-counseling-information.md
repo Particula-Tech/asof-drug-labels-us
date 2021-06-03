@@ -10,7 +10,7 @@ Instruct patients to:
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Instruct mothers with HIV-1-infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
 Distributed by:
 

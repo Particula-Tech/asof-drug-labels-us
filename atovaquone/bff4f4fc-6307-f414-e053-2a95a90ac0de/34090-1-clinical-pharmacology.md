@@ -19,7 +19,7 @@ Relationship between Plasma Atovaquone Concentrations and Successful Treatment O
 | 5 to < 10 | 18/26 (69%) |
 | 10 to < 15 | 30/38 (79%) |
 | 15 to < 20 | 18/19 (95%) |
-| 20 | 24/24 (100%) |
+| ≥ 20 | 24/24 (100%) |
 
 Cardiac Effects
 
@@ -63,7 +63,7 @@ The mean (±SD) minimum plasma atovaquone concentration (C min) associated with 
 
 In an open-label PCP trial in 18 HIV-1–infected subjects, administration of atovaquone oral suspension 750 mg twice daily with meals resulted in a mean (±SD) steady-state plasma atovaquone concentration of 22.0 ± 10.1 mcg/mL.
 
-The mean (±SD) plasma clearance of atovaquone following IV administration in 9 HIV-1–infected subjects was 10.4 ± 5.5 mL/min (0.15 ± 0.09 mL/min/kg).
+The mean (± SD) plasma clearance of atovaquone following IV administration in 9 HIV-1–infected subjects was 10.4 ± 5.5 mL/min (0.15 ± 0.09 mL/min/kg).
 
 Drug Interaction Studies
 

@@ -27,7 +27,7 @@ Atovaquone crossed the placenta and was present in fetal rat and rabbit tissue.
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1–infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
+The Centers for Disease Control and Prevention recommend that HIV-1 –infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 There are no data on the presence of atovaquone in human milk, the effects on the breastfed child, or the effects on milk production.
 Atovaquone was detected in rat milk when lactating rats were administered oral atovaquone (see Data).
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
