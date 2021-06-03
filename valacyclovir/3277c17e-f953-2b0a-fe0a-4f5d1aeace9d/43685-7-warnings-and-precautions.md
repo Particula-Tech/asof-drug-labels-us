@@ -2,7 +2,7 @@
 
 ## 5.1 Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TTP/HUS)
 
-TTP/HUS, in some cases resulting in death, has occurred in patients with advanced HIV disease and also in allogeneic bone marrow transplant and renal transplant recipients participating in clinical trials of valacyclovir hydrochloride at doses of 8 grams per day.
+TTP/HUS, in some cases resulting in death, has occurred in patients with advanced HIV-1 disease and also in allogeneic bone marrow transplant and renal transplant recipients participating in clinical trials of valacyclovir hydrochloride at doses of 8 grams per day.
 Treatment with valacyclovir hydrochloride should be stopped immediately if clinical signs, symptoms, and laboratory abnormalities consistent with TTP/HUS occur.
 
 ## 5.2 Acute Renal Failure
