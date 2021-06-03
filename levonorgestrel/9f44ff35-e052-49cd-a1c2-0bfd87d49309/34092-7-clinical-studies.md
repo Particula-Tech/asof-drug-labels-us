@@ -15,5 +15,3 @@ The PI was calculated based on 28-day equivalent exposure cycles; evaluable cycl
 Skyla-treated women provided 15,763 evaluable 28-day cycle equivalents in the first year and 39,368 evaluable cycles over the three year treatment period.
 The PI estimate for the first year of use based on the 5 pregnancies that occurred after the onset of treatment and within 7 days after Skyla removal or expulsion was 0.41 with a 95% upper confidence limit of 0.96.
 The cumulative 3-year pregnancy rate, based on 10 pregnancies, estimated by the Kaplan-Meier method was 0.9 per 100 women or 0.9%, with a 95% upper confidence limit of 1.7%.
-
-About 77% of women who desired pregnancy after study discontinuation and provided follow-up information, conceived within 12 months after removal of Skyla.

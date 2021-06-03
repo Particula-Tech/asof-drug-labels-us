@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Dosing Over Time
+
 Skyla contains 13.5 mg of levonorgestrel (LNG) released in vivo at a rate of approximately 14 mcg/day after 24 days.
 This rate decreases progressively to approximately 6 mcg/day after 1 year and to 5 mcg/day after 3 years.
 The average in vivo release rate of LNG is approximately 8 mcg/day over the first year of use and 6 mcg/day over a period of 3 years.
@@ -10,15 +12,16 @@ Skyla must be removed by the end of the third year and can be replaced at the ti
 Skyla can be physically distinguished from other intrauterine systems (IUSs) by the combination of the visibility of the silver ring on ultrasound and the brown color of the removal threads.
 
 Skyla is supplied in a sterile package within an inserter that enables single-handed loading (see Figure 1).
-Do not open the package until required for insertion [see Description (11)].
+Do not open the package until required for insertion [see Description (11.2)].
 Do not use if the seal of the sterile package is broken or appears compromised.
 Use strict aseptic techniques throughout the insertion procedure [see Warnings and Precautions (5.3)].
 
-## 2.1. Insertion Instructions
+## 2.2. Insertion Instructions
 
 - •Obtain a complete medical and social history to determine conditions that might influence the selection of a levonorgestrel-releasing intrauterine system (LNG IUS) for contraception.
   If indicated, perform a physical examination, and appropriate tests for any forms of genital or other sexually transmitted infections.
   [See Contraindications (4) and Warnings and Precautions (5.10).]
+  Because irregular bleeding/spotting is common during the first months of Skyla use, exclude endometrial pathology (polyps or cancer) prior to the insertion of Skyla in women with persistent or uncharacteristic bleeding [see Warnings and Precautions (5.8)].
 - •Follow the insertion instructions exactly as described to ensure proper placement and avoid premature release of Skyla from the inserter.
   Once released, Skyla cannot be re-loaded.
 - •Skyla should be inserted by a trained healthcare provider.
@@ -30,15 +33,15 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 Table 1: When to Insert Skyla
 
-| Starting Skyla in women not currently using hormonal or intrauterine contraception | •Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].•If Skyla is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back up contraception is not needed.•If Skyla is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
+| Starting Skyla in women not currently using hormonal or intrauterine contraception | •Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].•If Skyla is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back-up contraception is not needed.•If Skyla is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
 | --- | --- |
 | Switching to Skyla from an oral, transdermal or vaginal hormonal contraceptive | •Skyla may be inserted at any time, including during the hormone-free interval of the previous method.•If inserted during active use of the previous method, continue that method for 7 days after Skyla insertion or until the end of the current treatment cycle.•If the woman was using continuous hormonal contraception, discontinue that method seven days after Skyla insertion. |
-| Switching to Skyla from an injectable progestin contraceptive | •Skyla may be inserted at any time; a back-up method of contraception (such as condoms or spermicide) should also be used for 7 days if Skyla is inserted more than 3 months (13 weeks) after the last injection. |
+| Switching to Skyla from an injectable progestin contraceptive | •Skyla may be inserted at any time; a non-hormonal back-up birth control (such as condoms or spermicide) should also be used for 7 days if Skyla is inserted more than 3 months (13 weeks) after the last injection. |
 | Switching to Skyla from a contraceptive implant or another IUS | •Insert Skyla on the same day the implant or IUS is removed. •Skyla may be inserted at any time during the menstrual cycle. |
 | Inserting Skyla after abortion or miscarriage |  |
 | First-trimester | •Skyla may be inserted immediately after a first-trimester abortion or miscarriage. |
-| Second-trimester | •Do not insert Skyla until a minimum of 6 weeks after second trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Skyla. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Skyla is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy. |
-| Inserting Skyla after Childbirth | •Do not insert Skyla until a minimum of 6 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Skyla. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Skyla is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy.•There is an increased risk of perforation in lactating women. [See Warnings and Precautions (5.7).] |
+| Second-trimester | •Do not insert Skyla until a minimum of 6 weeks after second trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Skyla [see Contraindications (4), Warnings and Precautions (5.2)]. Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Skyla is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy. |
+| Inserting Skyla after Childbirth | •Do not insert Skyla until a minimum of 6 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)].•If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Skyla. [see Contraindications (4), Warnings and Precautions (5.2)]. Skyla can be inserted any time the provider can be reasonably certain the woman is not pregnant.•If Skyla is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy.•There is an increased risk of perforation in lactating women [see Warnings and Precautions (5.5)]. |
 
 ### Tools for Insertion
 
@@ -55,13 +58,12 @@ Table 1: When to Insert Skyla
 - •Sterile gloves
 - •Skyla with inserter in sealed package
 - •Instruments and anesthesia for paracervical block, if anticipated
-- •Consider having an unopened backup Skyla available
+- •Consider having an unopened back-up Skyla available
 - •Sterile, sharp curved scissors
 
 ### Preparation for insertion
 
 - •Exclude pregnancy and confirm that there are no other contraindications to the use of Skyla.
-- •Ensure that the patient understands the contents of the Patient Information Booklet and obtain the signed patient informed consent located on the last page of the Patient Information Booklet.
 - •Check expiration date of Skyla prior to initiating insertion.
 - •With the patient comfortably in lithotomy position, do a bimanual exam to establish the size, shape and position of the uterus.
 - •Gently insert a speculum to visualize the cervix.
@@ -132,27 +134,28 @@ Fundal positioning of Skyla is important to prevent expulsion.
 
 - Skyla insertion is now complete.
   Prescribe analgesics, if indicated.
-  Keep a copy of the Consent Form with lot number for your records.
+  Record the Skyla lot number in the patient records.
 
 ### Important information to consider during or after insertion
 
 - •If you suspect that Skyla is not in the correct position, check placement (for example, using transvaginal ultrasound).
   Remove Skyla if it is not positioned completely within the uterus.
   Do not reinsert a removed Skyla.
-- •If there is clinical concern, exceptional pain or bleeding during or after insertion, take appropriate steps (such as physical examination and ultrasound) immediately to exclude perforation.
 
-## 2.2 Patient Follow-up
+If there is clinical concern, exceptional pain or bleeding during or after insertion, take appropriate steps (such as physical examination and ultrasound) immediately to exclude perforation.
 
-- •Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
+## 2.3 Patient Follow-up
 
-## 2.3 Removal of Skyla
+Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
+
+## 2.4 Removal of Skyla
 
 ### Timing of Removal
 
 - •Skyla should not remain in the uterus after 3 years.
-- •If pregnancy is not desired, the removal should be carried out during the first 7 days of the menstrual cycle, provided the woman is experiencing regular menses.
-  If removal will occur at other times during the cycle or the woman does not experience regular menses, she is at risk of pregnancy: start a new contraceptive method a week prior to removal for these women.
-  [See Dosage and Administration (2.4).]
+- •If pregnancy is not desired, remove Skyla during the first 7 days of the menstrual cycle, provided the woman is still experiencing regular menses.
+  If removal will occur at other times during the cycle or the woman does not experience regular menses, she is at risk of pregnancy, start a new contraceptive method a week prior to removal for these women.
+  [See Dosage and Administration (2.5).]
 
 ### Tools for Removal
 
@@ -173,11 +176,13 @@ Fundal positioning of Skyla is important to prevent expulsion.
 - •If Skyla is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
   This may require dilation of the cervical canal.
   After removal of Skyla, examine the system to ensure that it is intact.
-- •Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
 
-## 2.4 Continuation of Contraception after Removal
+Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
+
+## 2.5 Continuation of Contraception after Removal
 
 - •If pregnancy is not desired and if a woman wishes to continue using Skyla, a new system can be inserted immediately after removal any time during the cycle.
 - •If a patient with regular cycles wants to start a different contraceptive method, time removal and initiation of the new method to ensure continuous contraception.
   Either remove Skyla during the first 7 days of the menstrual cycle and start the new method immediately thereafter or start the new method at least 7 days prior to removing Skyla if removal is to occur at other times during the cycle.
-- •If a patient with irregular cycles or amenorrhea wants to start a different contraceptive method, start the new method at least 7 days before removal.
+
+If a patient with irregular cycles or amenorrhea wants to start a different contraceptive method, start the new method at least 7 days before removal.

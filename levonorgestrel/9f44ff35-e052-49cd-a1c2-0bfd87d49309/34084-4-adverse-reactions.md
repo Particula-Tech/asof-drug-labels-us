@@ -25,7 +25,7 @@ Most common adverse reactions (occurring in ≥ 5% users) were increased bleedin
 In the contraception studies, 18% discontinued prematurely due to an adverse reaction.
 The most common adverse reactions leading to discontinuation (in >1% of users) were uterine bleeding complaints (4.6%), device expulsion (3.2%), acne/seborrhea (2.9%), abdominal pain (2.5%) dysmenorrhea/uterine spasms (2.0%) and pelvic pain (1.8%).
 
-Other common adverse reactions (occurring in ≥ 1% users) by System Organ Class (SOC): The frequencies of adverse reactions observed in clinical trials are summarized in Table 3 by SOC (presented as crude incidences).
+Other common adverse reactions (occurring in ≥ 1% users) by System Organ Class (SOC): The frequencies of adverse reactions observed in clinical trials are summarized in Table 4 by SOC (presented as crude incidences).
 
 Table 4: Adverse reactions that occurred in at least 1% of Skyla users in clinical trials by SOC
 

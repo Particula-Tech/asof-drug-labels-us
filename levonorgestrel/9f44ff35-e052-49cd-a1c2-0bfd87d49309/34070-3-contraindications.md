@@ -7,7 +7,7 @@ The use of Skyla is contraindicated when one or more of the following conditions
 - •Congenital or acquired uterine anomaly including fibroids, that distorts the uterine cavity
 - •Acute pelvic inflammatory disease (PID) or a history of PID unless there has been a subsequent intrauterine pregnancy [see Warnings and Precautions (5.4)]
 - •Postpartum endometritis or infected abortion in the past 3 months
-- •Known or suspected uterine or cervical neoplasia
+- •Known or suspected uterine or cervical malignancy
 - •Known or suspected breast cancer or other progestin-sensitive cancer, now or in the past
 - •Uterine bleeding of unknown etiology
 - •Untreated acute cervicitis or vaginitis, including bacterial vaginosis or other lower genital tract infections until infection is controlled
