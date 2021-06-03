@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204993"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-598-12",
+    "31722-598-30",
+    "31722-599-12",
+    "31722-599-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rufinamide",
+      "name": "Rufinamide"
+    }
+  ],
+  "setid": "afe24968-e078-46d6-a776-b2608734e03e",
+  "source": "dailymed"
+}
