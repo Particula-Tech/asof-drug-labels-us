@@ -5,7 +5,7 @@
 Carcinogenesis
 
 No evidence of carcinogenicity was found in studies in which d,l-amphetamine sulfate (enantiomer ratio of 1:1) was administered to mice and rats in the diet for 2 years at doses of up to 30 mg/kg/day in male mice, 19 mg/kg/day in female mice, and 5 mg/kg/day in male and female rats.
-These doses are approximately 3, 2, and 1 (equivalent) times, respectively, the maximum recommended human dose of 18.8 mg/day (as base) given to children on a mg/m2 basis.
+These doses are approximately 3, 2, and 1 (equivalent) times, respectively, the maximum recommended human dose of 18.8 mg/day (as base) given to children on a mg/m 2 basis.
 
 Mutagenesis
 
@@ -13,7 +13,7 @@ Amphetamine, in the enantiomer ratio (d- to l- ratio of 3:1), was not clastogeni
 
 Impairment of Fertility
 
-Amphetamine, in the enantiomer ratio d- to l- ratio of 3:1, did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day [approximately 12.4 times the maximum recommended human dose of 12.5 mg/day (as base) given to adolescents on a mg/m2 basis].
+Amphetamine, in the enantiomer ratio d- to l- ratio of 3:1, did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day [approximately 12.4 times the maximum recommended human dose of 12.5 mg/day (as base) given to adolescents on a mg/m 2 basis].
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

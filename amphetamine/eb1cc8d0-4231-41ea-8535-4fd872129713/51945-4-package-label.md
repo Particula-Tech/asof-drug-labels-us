@@ -2,7 +2,7 @@
 
 NDC 70165-003-15 Rx Only
 
-Adzenys ER™CII
+Adzenys ER™ CII
 
 Amphetamine Extended-Release Oral Suspension
 

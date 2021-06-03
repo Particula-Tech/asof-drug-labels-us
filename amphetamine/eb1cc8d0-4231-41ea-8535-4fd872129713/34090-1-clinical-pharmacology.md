@@ -27,7 +27,7 @@ A single 15 mL dose of ADZENYS ER (18.8 mg amphetamine base equivalent) provided
 
 Effect of Food
 
-High fat meal does not affect the extent of absorption of d-amphetamine and l-amphetamine but caused an 11% reduction in Cmax after administration of ADZENYS ER with or without food.
+High fat meal does not affect the extent of absorption of d-amphetamine and l-amphetamine but caused an 11% reduction in C max after administration of ADZENYS ER with or without food.
 This change is not considered clinically significant.
 The mean time to peak concentration (Tmax) for d- and l- amphetamine was about 5 hours after administration of ADZENYS ER with or without food.
 
@@ -59,14 +59,14 @@ In addition, drugs that effect urinary pH are known to alter the elimination of 
 Specific Populations
 
 Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of MAS ER in children (6-12 years) and adolescent (13-17 years) ADHD patients and healthy adult volunteers indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d-and l-amphetamine across the age range.
-Systemic exposure measured by area under the curve to infinity (AUC∞) and maximum plasma concentration (Cmax) decreased with increases in body weight, while oral volume of distribution (VZ/F), oral clearance (CL/F), and elimination half-life (t1/2) increased with increases in body weight.
+Systemic exposure measured by area under the curve to infinity (AUC ∞) and maximum plasma concentration (C max) decreased with increases in body weight, while oral volume of distribution (V Z/F), oral clearance (CL/F), and elimination half-life (t 1/2) increased with increases in body weight.
 
 Pediatric Patients
 
 The pharmacokinetics of d- and l-amphetamine in pediatric patients has been evaluated based on the pharmacokinetics after administration of MAS ER to pediatric patients.
 On a mg/kg weight basis, pediatric patients eliminate amphetamine faster than adults.
-The elimination half-life (t1/2) is approximately 1 hour shorter for d-amphetamine and 2 hours shorter for l-amphetamine in pediatric patients than in adults.
-However, for a given dose of MAS ER, pediatric patients had higher systemic exposure to amphetamine (Cmax and AUC) than adults which was attributed to the higher dose administered to pediatric patients on a mg/kg body weight basis compared to adults.
+The elimination half-life (t 1/2) is approximately 1 hour shorter for d-amphetamine and 2 hours shorter for l-amphetamine in pediatric patients than in adults.
+However, for a given dose of MAS ER, pediatric patients had higher systemic exposure to amphetamine (C max and AUC) than adults which was attributed to the higher dose administered to pediatric patients on a mg/kg body weight basis compared to adults.
 Upon dose normalization on a mg/kg basis, pediatric patients showed 30% less systemic exposure compared to adults.
 
 The pharmacokinetics of d- and l-amphetamine after administration of ADZENYS ER was evaluated in a single dose pharmacokinetic study in 29 pediatric patients 6 - 12 years with attention deficit hyperactivity disorder (ADHD).
@@ -77,7 +77,7 @@ Mean (±SD) T ½ decreased as age increased, ranging from 9.7 (1.0) hours in 10-
 Male and Female Patients
 
 Systemic exposure to amphetamine was 20-30% higher in women (N=20) than in men (N=20) due to the higher dose administered to women on a mg/kg body weight basis.
-When the exposure parameters (Cmax and AUC) were normalized by dose (mg/kg), these differences diminished.
+When the exposure parameters (C max and AUC) were normalized by dose (mg/kg), these differences diminished.
 Gender had no direct effect on the pharmacokinetics of d- and l-amphetamine.
 
 Racial Groups

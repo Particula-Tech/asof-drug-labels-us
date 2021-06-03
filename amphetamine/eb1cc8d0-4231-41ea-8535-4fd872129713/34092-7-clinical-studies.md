@@ -26,7 +26,7 @@ There was not adequate evidence that doses greater than 20 mg/day conferred addi
 
 Adult Patients
 
-A double-blind, randomized, placebo-controlled, parallel-group study was conducted in adults (N=255) who met DSM-IV® criteria for ADHD.
+A double-blind, randomized, placebo-controlled, parallel-group study was conducted in adults (N=255) who met DSM-IV ® criteria for ADHD.
 Patients were randomized to fixed-dose treatment groups receiving final doses of 20, 40, or 60 mg of MAS ER or placebo once daily in the morning for four weeks.
 Improvements, measured with the Attention Deficit Hyperactivity Disorder-Rating Scale (ADHD-RS), were observed at endpoint for all MAS ER doses compared to patients who received placebo for all four weeks.
 However, there was not adequate evidence that doses greater than 20 mg/day conferred additional benefit.

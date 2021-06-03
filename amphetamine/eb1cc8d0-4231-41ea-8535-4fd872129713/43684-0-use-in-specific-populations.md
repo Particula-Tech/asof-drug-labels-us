@@ -12,7 +12,7 @@ Risk Summary
 The limited available data from published literature and postmarketing reports on the use of prescription amphetamine in pregnant women are insufficient to inform a drug-associated risk for major congenital malformations or miscarriage.
 Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in infants born to mothers dependent on amphetamines (see Clinical Considerations).
 
-No effects on morphological development were observed in embryo-fetal development studies with oral administration of amphetamine to rats and rabbits during organogenesis at doses 4 and 20 times, respectively, the maximum recommended human dose (MRHD) of 12.5 mg/day (as base) given to adolescents, on a mg/m2 basis.
+No effects on morphological development were observed in embryo-fetal development studies with oral administration of amphetamine to rats and rabbits during organogenesis at doses 4 and 20 times, respectively, the maximum recommended human dose (MRHD) of 12.5 mg/day (as base) given to adolescents, on a mg/m 2 basis.
 However, in a pre- and post-natal development study, amphetamine (d- to l- ratio of 3:1) administered orally to pregnant rats during gestation and lactation caused a decrease in pup survival and a decrease in pup body weight that correlated with a delay in developmental landmarks at clinically relevant doses of amphetamine.
 In addition, adverse effects on reproductive performance were observed in pups whose mothers were treated with amphetamine.
 Long-term neurochemical and behavioral effects have also been reported in published animal developmental studies using clinically relevant doses of amphetamine (see Data).
@@ -36,12 +36,12 @@ Data
 Animal Data
 
 Amphetamine (d- to l- enantiomer ratio of 3:1) had no apparent effects on embryofetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 6 and 16 mg/kg/day, respectively.
-These doses are approximately 4 and 20 times, respectively, the MRHD of 12.5 mg/day (as base) given to adolescents, on a mg/m2 basis.
-Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 15 times the MRHD given to adolescents on a mg/m2 basis) or greater to pregnant animals.
+These doses are approximately 4 and 20 times, respectively, the MRHD of 12.5 mg/day (as base) given to adolescents, on a mg/m 2 basis.
+Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 15 times the MRHD given to adolescents on a mg/m 2 basis) or greater to pregnant animals.
 Administration of these doses was also associated with severe maternal toxicity.
 
 A study was conducted in which pregnant rats received daily oral doses of amphetamine (d- to l- enantiomer ratio of 3:1) of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
-These doses are approximately 1, 4, and 6 times the MRHD of 12.5 mg/day (as base) given to adolescents, on a mg/m2 basis.
+These doses are approximately 1, 4, and 6 times the MRHD of 12.5 mg/day (as base) given to adolescents, on a mg/m 2 basis.
 All doses caused hyperactivity and decreased weight gain in the dams.
 A decrease in pup survival was seen at all doses.
 A decrease in pup body weight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks, such as preputial separation and vaginal opening.
@@ -73,12 +73,12 @@ Growth should be monitored during treatment with stimulants, including ADZENYS E
 Juvenile Animal Toxicity Data
 
 Juvenile rats treated with mixed amphetamine salts early in the postnatal period through sexual maturation demonstrated transient changes in motor activity.
-Learning and memory was impaired at approximately 10 times the maximum recommended human dose (MRHD) given to children on a mg/m2 basis.
+Learning and memory was impaired at approximately 10 times the maximum recommended human dose (MRHD) given to children on a mg/m 2 basis.
 No recovery was seen following a drug free period.
-A delay in sexual maturation was observed at a dose approximately 10 times the MRHD given to pediatric patients on a mg/m2 basis, although there was no effect on fertility.
+A delay in sexual maturation was observed at a dose approximately 10 times the MRHD given to pediatric patients on a mg/m 2 basis, although there was no effect on fertility.
 
 In a juvenile developmental study, rats received daily oral doses of amphetamine (d to l enantiomer ratio of 3:1) of 2, 6, or 20 mg/kg on days 7-13 of age; from day 14 to approximately day 60 of age these doses were given twice daily for total daily doses of 4, 12, or 40 mg/kg.
-The latter doses are approximately 1, 3, and 10 times the MRHD of 18.8 mg/day (as base) given to children on a mg/m2 basis.
+The latter doses are approximately 1, 3, and 10 times the MRHD of 18.8 mg/day (as base) given to children on a mg/m 2 basis.
 Post-dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period.
 Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period.
 A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.
