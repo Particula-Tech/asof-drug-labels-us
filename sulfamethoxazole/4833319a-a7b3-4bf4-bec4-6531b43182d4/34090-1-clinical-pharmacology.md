@@ -1,8 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Sulfamethoxazole and trimethoprim is rapidly absorbed following oral administration.
+Sulfamethoxazole and trimethoprim tablets are rapidly absorbed following oral administration.
 Both sulfamethoxazole and trimethoprim exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form.
-Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N4-acetyl-, N4-hydroxy-, 5-methylhydroxy-, N4-acetyl- 5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
+Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N4-acetyl-, N4-hydroxy-, 5-methylhydroxy-, N4-acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
 The formulation of N4-hydroxy metabolite is mediated via CYP2C9.
 
 Trimethoprim is metabolized in vitro to 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4-hydroxy derivatives.
@@ -15,7 +15,6 @@ Approximately 70% of sulfamethoxazole and 44% of trimethoprim are bound to plasm
 The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an insignificant degree; trimethoprim does not influence the protein binding of sulfamethoxazole.
 
 Peak blood levels for the individual components occur 1 to 4 hours after oral administration.
-
 The mean serum half-lives of sulfamethoxazole and trimethoprim are 10 and 8 to 10 hours, respectively.
 However, patients with severely impaired renal function exhibit an increase in the half-lives of both components, requiring dosage regimen adjustment (see DOSAGE AND ADMINISTRATION section).
 Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours after drug administration.
@@ -28,18 +27,20 @@ Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, wi
 
 Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and middle ear fluid; trimethoprim also distributes to bronchial secretion, and both pass the placental barrier and are excreted in human milk.
 
-Pharmacokinetics in Pediatric Patients: A simulation conducted with data from a pharmacokinetic study in 153 infants and children demonstrated that mean steady state AUC and maximum plasma concentration of trimethoprim and sulfamethoxazole would be comparable between pediatric patients 2 months to 18 years receiving 8/40 (trimethoprim/sulfamethoxazole) mg/kg/day divided every 12 hours and adult patients receiving 320/1600 (trimethoprim/ sulfamethoxazole) mg/day.
+Pharmacokinetics in Pediatric Patients
 
-Pharmacokinetics in Geriatric Patients: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
+A simulation conducted with data from a pharmacokinetic study in 153 infants and children demonstrated that mean steady state AUC and maximum plasma concentration of trimethoprim and sulfamethoxazole would be comparable between pediatric patients 2 months to 18 years receiving 8/40 (trimethoprim/ sulfamethoxazole) mg/kg/day divided every 12 hours and adult patients receiving 320/1600 (trimethoprim/ sulfamethoxazole) mg/day.
+
+Pharmacokinetics in Geriatric Patients
+
+The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
 Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects.
 The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg).
 However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.3
 
-## Microbiology
+Microbiology
 
-Mechanism of Action
-
-Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA).
+Mechanism of Action Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA).
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
 Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria.
 
@@ -49,13 +50,13 @@ In vitro studies have shown that bacterial resistance develops more slowly with 
 
 Antimicrobial Activity
 
-Sulfamethoxazole and trimethoprim have been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Sulfamethoxazole and trimethoprim tablets have been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-positive bacteria: Streptococcus pneumoniae
+Aerobic gram-positive bacteria Streptococcus pneumoniae
 
-Aerobic gram-negative bacteria: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
+Aerobic gram-negative bacteria Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler’s diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
 
-Other Microorganisms: Pneumocystis jirovecii
+Other Microorganisms Pneumocystis jirovecii
 
 Susceptibility Testing
 

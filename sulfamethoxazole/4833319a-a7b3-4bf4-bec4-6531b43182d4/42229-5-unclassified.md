@@ -6,4 +6,5 @@ Distributed by: Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Rev 08, August 2020
+Rev.
+09, May 2021
