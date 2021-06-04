@@ -183,7 +183,7 @@ Please follow the preparation instructions provided below.
 
 DO NOT use the two-vial formulation (Injection and diluent) with the one-vial formulation.
 
-One-vial Docetaxel Injection
+One-vial Docetaxel (Injection)
 
 Docetaxel injection (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Use only a 21-gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
