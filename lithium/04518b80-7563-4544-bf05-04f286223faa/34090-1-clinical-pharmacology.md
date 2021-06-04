@@ -7,7 +7,7 @@ The mechanism of action of lithium as a mood stabilizing agent is unknown.
 ## 12.3 Pharmacokinetics
 
 After oral administration, lithium is reported to be completely absorbed in the upper gastrointestinal tract.
-Peak serum concentrations (Tmax) occur 0.25 to 3 hours after oral administration of immediate release preparations and 2 to 6 hours after sustained-release preparations.
+Peak serum concentrations (T max) occur 0.25 to 3 hours after oral administration of immediate release preparations and 2 to 6 hours after sustained-release preparations.
 The distribution space of lithium approximates that of total body water, and the plasma protein binding is negligible.
 After equilibrium, the apparent volume of distribution is 0.7 to 1 L/kg.
 Lithium is not metabolized.

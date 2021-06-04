@@ -48,7 +48,7 @@ A potentially life-threatening problem called serotonin syndrome can happen when
 Symptoms of serotonin syndrome include: o agitation o seeing things that are not there o confusion o coma o rapid pulse o high or low blood pressure o dizziness o sweating o flushing o fever o tremors o stiff muscles o muscle twitching o become unstable o seizures o nausea o vomiting o diarrhea • thyroid problems • high calcium levels in your blood (hypercalcemia) and changes in your parathyroid gland (hyperparathyroidism) that may not go away when you stop taking lithium carbonate. • heart problems.
 People who take lithium carbonate may find out they also have a heart problem called Brugada Syndrome.
 People who have unexplained fainting or who have a family history of sudden unexplained death before 45 years of age may have Brugada Syndrome and not know it.
-If you faint or feel abnormal heartbeats, talk to your healthcare provider right away. • increased pressure in the brain and swelling in the eye (pseudotumor cerebri) that can cause vision problems or blindness.
+If you faint or feel abnormal heartbeats, talk to your healthcare provider right away. •increased pressure in the brain and swelling in the eye (pseudotumor cerebri) that can cause vision problems or blindness.
 If you have severe headaches behind your eyes, ringing in the ears, blurred vision, double vision, or brief periods of blindness, talk to your health care provider right away.
 The most common side effects of lithium carbonate include hand trembling, increased thirst, nausea, and general discomfort when you start taking your medicine.
 These are not all the possible side effects of lithium carbonate.
@@ -70,4 +70,4 @@ You can ask your pharmacist or healthcare provider for information about lithium
 What are the ingredients in lithium carbonate capsules?
 Active ingredient: lithium carbonate, USP Inactive ingredients: gelatin, sodium lauryl sulfate, talc, titanium dioxide and the imprinting ink contains black iron oxide E172 dye, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 12/2016
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 12/2016
