@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 4 Ampule Carton
+# PRINCIPAL DISPLAY PANEL - 4 Ampule Pouch Carton
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
@@ -10,7 +10,7 @@ For oral inhalation use only
 
 See package insert and Instructions For Use manual for dosage and administration
 
-# PRINCIPAL DISPLAY PANEL - 28 Ampule Carton
+# PRINCIPAL DISPLAY PANEL - 28 Ampule Pouch Carton
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
@@ -28,7 +28,7 @@ TYVASO Inhalation System
 
 Patient Starter Kit
 
-TYVASO® (treprostinil) INHALATION SOLUTION
+TYVASO (treprostinil) INHALATION SOLUTION
 
 Treprostinil 1.74 mg/2.9 mL (0.6 mg/mL)
 
@@ -45,7 +45,7 @@ See package insert and Instructions for Use manual for dosage and administration
 | +Medicine cups | 32 | +Filter membranes | 65 |
 
 Each ampule of TYVASO contains: treprostinil 1.74 mg.
-Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
+Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate dihydrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
 Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
 
 - +One new ampule should be used each day.
@@ -62,7 +62,8 @@ NDC 66302-206-01 Rx only
 
 Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
 
-EXP LOT RTP-4-00156 Rev B
+EXP LOT 100957 Rev.
+04/2021
 
 United Therapeutics CORPORATION
 
@@ -88,7 +89,7 @@ TYVASO Inhalation System Refill Kit
 | Treatment Tracker | 1 |
 
 Each ampule of TYVASO contains: treprostinil 1.74 mg.
-Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
+Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate dihydrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
 Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
 
 - —One new ampule should be used each day.
@@ -107,13 +108,13 @@ Manufactured for United Therapeutics Corporation Research Triangle Park, NC 2770
 United Therapeutics CORPORATION
 
 EXP LOT RTP3088 Rev.
-01
+04/2021
 
 # PRINCIPAL DISPLAY PANEL - Institutional Starter Kit
 
 TYVASO Inhalation System Institutional Starter Kit
 
-TYVASO® (treprostinil) INHALATION SOLUTION
+TYVASO (treprostinil) INHALATION SOLUTION
 
 Treprostinil 1.74 mg/2.9 mL (0.6 mg/mL)
 
@@ -130,7 +131,7 @@ See package insert and Instructions for Use manual for dosage and administration
 | +Medicine cups | 32 | +Filter membranes | 65 |
 
 Each ampule of TYVASO contains: treprostinil 1.74 mg.
-Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
+Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate dihydrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
 Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
 
 - +One new ampule should be used each day.
@@ -147,6 +148,7 @@ NDC 66302-206-04 Rx only
 
 Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
 
-EXP LOT RTP-4-00157 Rev B
+EXP LOT 100958 Rev.
+04/2021
 
 United Therapeutics CORPORATION
