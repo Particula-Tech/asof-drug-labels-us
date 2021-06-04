@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Atorvastatin Calcium Tablets
-
-(a tor′′ va stat′ in kal′ see um)
+Atorvastatin Calcium (a tor′′ va stat′ in kal′ see um) Tablets
 
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -172,7 +170,7 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide
 
-Manufactured In Czech RepublicBy:
+Manufactured In Czech Republic By:
 
 Teva Czech Industries, s.r.o.
 
@@ -185,4 +183,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-D 12/2019
+E 5/2021

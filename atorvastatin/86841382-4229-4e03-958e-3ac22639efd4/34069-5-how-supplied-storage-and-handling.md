@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Atorvastatin Calcium Tablets USP are available as follows:
+Atorvastatin calcium tablets, USP are available as follows:
 
 10 mg - White to off-white, oval shaped, film-coated, unscored tablet, debossed with "TV" on one side and "5056" on the other side of the tablet.
 Available in bottles of 90 tablets (NDC 0093-5056-98).

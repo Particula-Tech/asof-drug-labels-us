@@ -2,8 +2,7 @@
 
 Atorvastatin calcium tablets are white to off-white, oval shaped, film-coated, unscored, and are available in four strengths (see Table 1).
 
-Table 1.
-Atorvastatin Calcium Tablet Strengths and Identifying Features
+Table 1: Atorvastatin Calcium Tablet Strengths and Identifying Features
 
 | Tablet Strength | Identifying Features |
 | --- | --- |

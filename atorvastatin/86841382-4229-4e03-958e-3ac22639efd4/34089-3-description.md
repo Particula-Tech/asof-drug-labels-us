@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Atorvastatin Calcium Tablets USP are a synthetic lipid-lowering agent.
+Atorvastatin calcium is a synthetic lipid-lowering agent.
 Atorvastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase.
 This enzyme catalyzes the conversion of HMG-CoA to mevalonate, an early and rate-limiting step in cholesterol biosynthesis.
 
@@ -13,4 +13,4 @@ C66H68CaF2N4O10•3H2O M.W.
 Atorvastatin calcium trihydrate (Form I) is a white to off-white powder that is insoluble in aqueous solutions of pH 4.5 and below.
 Atorvastatin calcium, USP is very slightly soluble in distilled water, pH 7.8 phosphate buffer, and acetonitrile; slightly soluble in ethanol; and freely soluble in methanol.
 
-Atorvastatin Calcium Tablets USP for oral administration contain 10, 20, 40, or 80 mg of atorvastatin and the following inactive ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide.
+Atorvastatin calcium tablets, USP for oral administration contain 10 mg, 20 mg, 40 mg, or 80 mg of atorvastatin and the following inactive ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide.

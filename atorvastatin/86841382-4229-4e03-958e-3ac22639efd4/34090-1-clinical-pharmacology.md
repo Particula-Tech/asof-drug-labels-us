@@ -23,7 +23,7 @@ Plasma atorvastatin calcium concentrations are lower (approximately 30% for Cmax
 However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
 
 Distribution: Mean volume of distribution of atorvastatin calcium is approximately 381 liters.
-Atorvastatin calcium is ≥ 98% bound to plasma proteins.
+Atorvastatin calcium is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
 Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.2)].
 
@@ -39,10 +39,10 @@ Less than 2% of a dose of atorvastatin calcium is recovered in urine following o
 
 Specific Populations
 
-Geriatric: Plasma concentrations of atorvastatin calcium are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
+Geriatric: Plasma concentrations of atorvastatin calcium are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
 Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
-Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n = 29) in an open-label, 8-week study.
+Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
 Gender: Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
 
@@ -58,8 +58,7 @@ Drug Interaction Studies Atorvastatin is a substrate of the hepatic transporters
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-Table 4.
-Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
+Table 6: Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
 
 | Coadministered drug anddosing regimen | Atorvastatin |  |  |
 | --- | --- | --- | --- |
@@ -68,7 +67,7 @@ Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
 | #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg, SDc | 9.36 | 8.58 |
 | #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22.00 |
 | #Telaprevir 750 mg q8hf, 10 days | 20 mg, SDc | 7.88 | 10.60 |
-| #,‡Saquinavir 400 mg BIDb/ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
+| #, ‡Saquinavir 400 mg BIDb/ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
 | #Elbasvir 50 mg QDa/grazoprevir 200 mg QDa, 13 days | 10 mg SDc | 1.94 | 4.34 |
 | #Simeprevir 150 mg QDa, 10 days | 40 mg SDc | 2.12 | 1.70 |
 | #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
@@ -104,8 +103,7 @@ Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
 | e Four times daily |  |  |  |
 | f Every 8 hours |  |  |  |
 
-Table 5.
-Effect of Atorvastatin on the Pharmacokinetics of Coadministered Drugs
+Table 7: Effect of Atorvastatin on the Pharmacokinetics of Coadministered Drugs
 
 | Atorvastatin | Coadministered drug and dosing regimen |  |  |
 | --- | --- | --- | --- |
@@ -120,3 +118,5 @@ Effect of Atorvastatin on the Pharmacokinetics of Coadministered Drugs
 | a Once daily |  |  |  |
 | b Twice daily |  |  |  |
 | c Single dose |  |  |  |
+
+Atorvastatin calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

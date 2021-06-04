@@ -10,7 +10,7 @@ Patients should also be advised to inform other healthcare professionals prescri
 ## 17.1 Muscle Pain
 
 All patients starting therapy with atorvastatin calcium should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing atorvastatin calcium.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (> 1 liter) of grapefruit juice.
+The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
 They should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
@@ -26,7 +26,7 @@ Advise females of reproductive potential of the risk to a fetus, to use effectiv
 
 Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
 
 Manufactured In Czech Republic By:
 
@@ -41,4 +41,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-F 12/2019
+G 5/2021
