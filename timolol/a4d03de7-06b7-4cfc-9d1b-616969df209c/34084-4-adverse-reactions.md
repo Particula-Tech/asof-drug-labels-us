@@ -19,7 +19,7 @@ Asthenia/fatigue, and chest pain.
 
 CARDIOVASCULAR
 
-Bradycardia, arrhythmia, hypotension, hypertension, syncope, heart block, cerebrovascular accident, cerebral ischemia, cardiac failure, worsening of angina pectoris, palpitation, cardiac arrest, pulmonary edema, edema, claudication, Raynaud's phenomenon, and cold hands and feet.
+Bradycardia, arrhythmia, hypotension, hypertension, syncope, heart block, cerebrovascular accident, cerebral ischemia, cardiac failure, worsening of angina pectoris, palpitation, cardiac arrest, pulmonary edema, edema, claudication, Raynaud’s phenomenon, and cold hands and feet.
 
 DIGESTIVE
 
@@ -55,8 +55,20 @@ Signs and symptoms of ocular irritation including blepharitis, keratitis, and dr
 
 UROGENITAL
 
-Retroperitoneal fibrosis, decreased libido, impotence, and Peyronie's disease.
+Retroperitoneal fibrosis, decreased libido, impotence, and Peyronie’s disease.
 
 The following additional adverse effects have been reported in clinical experience with ORAL timolol maleate or other ORAL beta-blocking agents and may be considered potential effects of ophthalmic timolol maleate: Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Body as a Whole: Extremity pain, decreased exercise tolerance, weight loss; Cardiovascular: Worsening of arterial insufficiency, vasodilatation; Digestive: Gastrointestinal pain, hepatomegaly, vomiting, mesenteric arterial thrombosis, ischemic colitis; Hematologic: Nonthrombocytopenic purpura, thrombocytopenic purpura, agranulocytosis; Endocrine: Hyperglycemia, hypoglycemia; Skin: Pruritus, skin irritation, increased pigmentation, sweating; Musculoskeletal: Arthralgia; Nervous System/Psychiatric: Vertigo, local weakness, diminished concentration, reversible mental depression progressing to catatonia, an acute reversible syndrome characterized by disorientation for time and place, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics; Respiratory: Rales, bronchial obstruction; Urogenital: Urination difficulties.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+OVERDOSAGE
+
+No data are available in regard to human overdosage with or accidental oral ingestion of TIMOPTIC‑XE.
+
+There have been reports of inadvertent overdosage with TIMOPTIC Ophthalmic Solution resulting in systemic effects similar to those seen with systemic beta-adrenergic blocking agents such as dizziness, headache, shortness of breath, bradycardia, bronchospasm, and cardiac arrest [see ADVERSE REACTIONS].
+
+Overdosage has been reported with timolol maleate tablets.
+A 30-year-old female ingested 650 mg of timolol maleate tablets (maximum recommended oral daily dose is 60 mg) and experienced second and third degree heart block.
+She recovered without treatment but approximately two months later developed irregular heartbeat, hypertension, dizziness, tinnitus, faintness, increased pulse rate, and borderline first degree heart block.
+
+An in vitro hemodialysis study, using 14C timolol added to human plasma or whole blood, showed that timolol was readily dialyzed from these fluids; however, a study of patients with renal failure showed that timolol did not dialyze readily.

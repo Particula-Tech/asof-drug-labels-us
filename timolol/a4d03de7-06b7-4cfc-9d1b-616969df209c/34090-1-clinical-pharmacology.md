@@ -29,6 +29,13 @@ The effect of timolol in lowering intraocular pressure was evident for 24 hours 
 Repeated observations over a period of six months indicate that the intraocular pressure-lowering effect of TIMOPTIC-XE was consistent.
 The results from the largest U.S. and international clinical trials comparing TIMOPTIC-XE 0.5% to TIMOPTIC 0.5% are shown in Figure 1.
 
+| Figure 1Mean IOP and Std Deviation(mm Hg) by Treatment Group |
+| --- |
+
+U.S. Study
+
+International Study
+
 TIMOPTIC-XE administered once daily had a safety profile similar to that of an equivalent concentration of TIMOPTIC administered twice daily.
 Due to the physical characteristics of the formulation, there was a higher incidence of transient blurred vision in patients administered TIMOPTIC-XE.
 A slight reduction in resting heart rate was observed in some patients receiving TIMOPTIC-XE 0.5% (mean reduction 24 hours post-dose 0.8 beats/minute, mean reduction 2 hours post-dose 3.8 beats/minute) [see ADVERSE REACTIONS].

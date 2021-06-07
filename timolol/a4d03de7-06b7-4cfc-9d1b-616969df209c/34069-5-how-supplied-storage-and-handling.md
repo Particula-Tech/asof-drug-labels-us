@@ -10,8 +10,12 @@ TIMOPTIC-XE (timolol maleate ophthalmic gel forming solution), 0.5% timolol equi
 
 NDC 24208-816-05, 5 mL in a 7.5 mL capacity bottle.
 
-## Storage
-
-Store at 15° to 25°C (59° to 77°F).
+Storage Store at 15° to 25°C (59° to 77°F).
 Avoid Freezing.
 Protect from light.
+
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its affiliates.
+
+© 2021 Bausch & Lomb Incorporated or its affiliates Revised: 02/2021 9752800

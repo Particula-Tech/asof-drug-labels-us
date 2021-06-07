@@ -54,7 +54,7 @@ Choroidal detachment after filtration procedures has been reported with the admi
 In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This may require constricting the pupil.
 Timolol maleate has little or no effect on the pupil.
-TIMOPTIC-XE should not be used alone in the treatment of angle-closure glaucoma.
+TIMOPTIC‑XE should not be used alone in the treatment of angle-closure glaucoma.
 
 ### Anaphylaxis
 
@@ -73,7 +73,7 @@ Patients should be instructed to avoid allowing the tip of the dispensing contai
 Patients should also be instructed that ocular solutions, if handled improperly or if the tip of the dispensing container contacts the eye or surrounding structures, can become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see PRECAUTIONS, General].
 
-Patients should also be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
+Patients should also be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician’s advice concerning the continued use of the present multidose container.
 
 Patients should be instructed to invert the closed container and shake once before each use.
 It is not necessary to shake the container more than once.
@@ -93,7 +93,7 @@ The concomitant use of two topical beta-adrenergic blocking agents is not recomm
 
 ### Calcium Antagonists
 
-Caution should be used in the coadministration of beta-adrenergic blocking agents, such as TIMOPTIC-XE, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, or hypotension.
+Caution should be used in the coadministration of beta-adrenergic blocking agents, such as TIMOPTIC‑XE, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, or hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
 ### Catecholamine-Depleting Drugs
@@ -159,6 +159,6 @@ Safety and effectiveness of timolol maleate ophthalmic solution have been establ
 Use of timolol maleate ophthalmic solution in these children is supported by evidence from adequate and well-controlled studies in children and adults.
 Safety and efficacy in pediatric patients below the age of 2 years have not been established.
 
-## Geriatric Use
+Geriatric Use
 
 No overall differences in safety or effectiveness have been observed between elderly and younger patients.

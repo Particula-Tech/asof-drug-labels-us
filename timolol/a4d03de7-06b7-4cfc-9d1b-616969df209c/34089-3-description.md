@@ -5,10 +5,11 @@ Its chemical name is (-)-1-(tert-butylamino)-3-[(4-morpholino-1,2,5-thiadiazol-3
 Timolol maleate possesses an asymmetric carbon atom in its structure and is provided as the levo-isomer.
 The optical rotation of timolol maleate is:
 
-|  | 25° |  |
-| --- | --- | --- |
-| [α] |  | in 1.0N HCl (C = 5%) = -12.2° (-11.7° to -12.5°). |
-|  | 405 nm |  |
+1. 25°
+
+[α] in 1.0N HCl (C = 5%) = -12.2° (-11.7° to -12.5°).
+
+1. 405 nm
 
 Its molecular formula is C13H24N4O3S•C4H4O4 and its structural formula is:
 

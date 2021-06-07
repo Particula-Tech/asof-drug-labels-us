@@ -1,10 +1,13 @@
 # Instructions for Use
 
-TIMOPTIC-XE® (tim-op’tik-XE) (timolol maleate ophthalmic gel forming solution) 0.25% and 0.5%
+TIMOPTIC-XE® (tim-op´tik-XE)
+
+(timolol maleate ophthalmic gel forming solution) 0.25% and 0.5%
 
 Read this Instructions for Use that comes with TIMOPTIC-XE before you start using it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
+
 Important information about TIMOPTIC-XE:
 
 - •Use TIMOPTIC-XE exactly as your doctor tells you to use it.
@@ -66,12 +69,4 @@ You can ask your pharmacist or doctor for more information about TIMOPTIC-XE tha
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its affiliates.
-
-© Bausch & Lomb Incorporated
-
-Revised: 07/2018
-
-9447301
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its affiliates. © 2021 Bausch & Lomb Incorporated or its affiliates Revised: 02/2021 9752800
