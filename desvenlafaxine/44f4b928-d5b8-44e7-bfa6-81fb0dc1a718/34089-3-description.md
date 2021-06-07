@@ -11,7 +11,7 @@ Desvenlafaxine succinate is a white to off-white powder that is soluble in water
 The solubility of desvenlafaxine succinate is pH dependent.
 Its octanol:aqueous system (at pH 7.0) partition coefficient is 0.21.
 
-Desvenlafaxine Extended-Release Tablets are formulated as an extended-release tablet for once-a-day oral administration.
+Desvenlafaxine is formulated as an extended-release tablet for once-a-day oral administration.
 
 Each tablet contains 38 mg, 76 mg or 152 mg of desvenlafaxine succinate equivalent to 25 mg, 50 mg or 100 mg of desvenlafaxine, respectively.
 

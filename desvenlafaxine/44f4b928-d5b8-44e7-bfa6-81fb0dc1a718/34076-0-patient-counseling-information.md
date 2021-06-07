@@ -71,4 +71,4 @@ Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
 
 Made in China
 
-Revised 04/2020
+Revised 02/2021
