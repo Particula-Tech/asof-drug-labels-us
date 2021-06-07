@@ -117,7 +117,7 @@ The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenoba
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.
 
 Alcohol has been reported to increase the maximum plasma exposure of clobazam by approximately 50%.
-Alcohol may have additive CNS depressant effects when taken with clobazam [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
+Alcohol may have additive CNS depressant effects when taken with clobazam [see Warnings and Precautions (5.4), Drug Interactions (7.2)].
 
 ## 12.5 Pharmacogenomics
 

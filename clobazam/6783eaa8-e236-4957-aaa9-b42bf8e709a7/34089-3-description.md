@@ -5,7 +5,7 @@ Description
 
 | Established Name: | Clobazam Tablets |
 | --- | --- |
-| Dosage Forms: | Tablet |
+| Dosage Form: | Tablet |
 | Route of Administration: | Oral |
 | Established Pharmacologic Class of Drug: | Benzodiazepine |
 | Chemical Name: | 7-Chloro-1-methyl-5-phenyl-1H-1,5 benzodiazepine-2,4(3H,5H)-dione |

@@ -13,7 +13,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies of clobazam in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
-Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
+Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and/or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
 There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
 
@@ -56,7 +56,7 @@ Dolovich et al. published a meta-analysis of 23 studies that examined the effect
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
 The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61 to 1.35) or for oral cleft (OR 1.19; 95% CI 0.34 to 4.15).
-The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32 to 6.84) and oral cleft (OR 1.79; 95% CI 1.13 to 2.82).
+The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01; 95% CI 1.32 to 6.84) and oral cleft (OR 1.79; 95% CI 1.13 to 2.82).
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.

@@ -2,35 +2,52 @@
 
 ## 9.1 Controlled Substance
 
-Clobazam contains clobazam which is a Schedule IV controlled substance.
+Clobazam tablets contains clobazam, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Clobazam can be abused in a similar manner as other benzodiazepines, such as diazepam.
+Clobazam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
+Abuse and misuse of benzodiazepines may lead to addiction.
 
-The pharmacological profile of clobazam is similar to that of other benzodiazepines listed in Schedule IV of the Controlled Substance Act, particularly in its potentiation of GABAergic transmission through its action on GABAA receptors, which leads to sedation and somnolence.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2)].
+
+The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
+
+The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
 The World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.
 
-Drug abuse is the intentional non-therapeutic use of a drug, repeatedly or even sporadically, for its rewarding psychological or physiological effects.
-
 ## 9.3 Dependence
 
-Dependence
+Physical Dependence
 
-Physical dependence is a state of adaptation that is manifested by a specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood levels of the drug, and/or administration of an antagonist.
+Clobazam may produce physical dependence from continued therapy.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e. higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 In clinical trials, cases of dependency were reported following abrupt discontinuation of clobazam.
 
-The risk of dependence is present even with use of clobazam at the recommended dose range over periods of only a few weeks.
-The risk of dependence increases with increasing dose and duration of treatment.
-The risk of dependence is increased in patients with a history of alcohol or drug abuse.
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
 
-Withdrawal
+Acute Withdrawal Signs and Symptoms
 
-Abrupt discontinuation of clobazam causes withdrawal symptoms.
-As with other benzodiazepines, clobazam should be withdrawn gradually [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
 
-In clobazam clinical pharmacology trials in healthy volunteers, the most common withdrawal symptoms after abrupt discontinuation were headache, tremor, insomnia, anxiety, irritability, drug withdrawal syndrome, palpitations, and diarrhea [see Warnings and Precautions (5.4)].
+Protracted Withdrawal Syndrome
 
-Other withdrawal reactions to clobazam reported in the literature include restlessness, panic attacks, profuse sweating, difficulty in concentrating, nausea and dry retching, weight loss, blurred vision, photophobia, and muscle pain and stiffness.
-In general, benzodiazepine withdrawal may cause seizures, psychosis, and hallucinations [see Warnings and Precautions (5.4)].
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+
+Tolerance
+
+Tolerance to clobazam may develop from continued therapy.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e. a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+Tolerance to the therapeutic effect of clobazam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
