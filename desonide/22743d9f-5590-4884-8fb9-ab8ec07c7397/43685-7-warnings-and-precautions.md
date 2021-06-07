@@ -19,7 +19,7 @@ If HPA axis suppression is documented, an attempt should be made to gradually wi
 Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
 
-Cushing’s syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
+Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
 
 Use of more than one corticosteroid-containing product at the same time may increase the total systemic corticosteroid exposure.
 
