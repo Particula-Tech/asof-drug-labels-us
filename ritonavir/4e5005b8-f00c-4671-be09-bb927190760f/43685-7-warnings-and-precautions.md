@@ -1,0 +1,92 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Risk of Serious Adverse Reactions Due to Drug Interactions
+
+Initiation of lopinavir and ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving lopinavir and ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of lopinavir and ritonavir, respectively.
+These interactions may lead to: • Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications. • Clinically significant adverse reactions from greater exposures of lopinavir and ritonavir. • Loss of therapeutic effect of lopinavir and ritonavir and possible development of resistance.
+See Table 12 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].Consider the potential for drug interactions prior to and during lopinavir and ritonavir therapy; review concomitant medications during lopinavir and ritonavir therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
+
+## 5.2 Toxicity in Preterm Neonates
+
+Lopinavir and ritonavir oral solution contains the excipients alcohol and propylene glycol.
+When administered concomitantly with propylene glycol, alcohol competitively inhibits the metabolism of propylene glycol, which may lead to elevated concentrations.
+Preterm neonates may be at increased risk of propylene glycol-associated adverse events due to diminished ability to metabolize propylene glycol, thereby leading to accumulation and potential adverse events.
+Postmarketing life-threatening cases of cardiac toxicity (including complete AV block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving lopinavir and ritonavir oral solution.
+Lopinavir and ritonavir oral solution should not be used in preterm neonates in the immediate postnatal period because of possible toxicities.
+A safe and effective dose of lopinavir and ritonavir oral solution in this patient population has not been established.
+However, if the benefit of using lopinavir and ritonavir oral solution to treat HIV infection in infants immediately after birth outweighs the potential risks, infants should be monitored closely for increases in serum osmolality and serum creatinine, and for toxicity related to lopinavir and ritonavir oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, CNS depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
+Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.4) and Overdosage (10)].
+
+## 5.3 Pancreatitis
+
+Pancreatitis has been observed in patients receiving lopinavir and ritonavir therapy, including those who developed marked triglyceride elevations.
+In some cases, fatalities have been observed.
+Although a causal relationship to lopinavir and ritonavir has not been established, marked triglyceride elevations are a risk factor for development of pancreatitis [see Warnings and Precautions (5.9)].
+Patients with advanced HIV-1 disease may be at increased risk of elevated triglycerides and pancreatitis, and patients with a history of pancreatitis may be at increased risk for recurrence during lopinavir and ritonavir therapy.
+Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis occur.
+Patients who exhibit these signs or symptoms should be evaluated and lopinavir and ritonavir and/or other antiretroviral therapy should be suspended as clinically appropriate.
+
+## 5.4 Hepatotoxicity
+
+Patients with underlying hepatitis B or C or marked elevations in transaminase prior to treatment may be at increased risk for developing or worsening of transaminase elevations or hepatic decompensation with use of lopinavir and ritonavir.
+
+There have been postmarketing reports of hepatic dysfunction, including some fatalities.
+These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications in the setting of underlying chronic hepatitis or cirrhosis.
+A causal relationship with lopinavir and ritonavir therapy has not been established.
+
+Elevated transaminases with or without elevated bilirubin levels have been reported in HIV-1 mono-infected and uninfected patients as early as 7 days after the initiation of lopinavir and ritonavir in conjunction with other antiretroviral agents.
+In some cases, the hepatic dysfunction was serious; however, a definitive causal relationship with lopinavir and ritonavir therapy has not been established.
+Appropriate laboratory testing should be conducted prior to initiating therapy with lopinavir and ritonavir and patients should be monitored closely during treatment.
+Increased AST/ALT monitoring should be considered in the patients with underlying chronic hepatitis or cirrhosis, especially during the first several months of lopinavir and ritonavir treatment [see Use in Specific Populations (8.6)].
+
+## 5.5 QT Interval Prolongation
+
+Postmarketing cases of QT interval prolongation and torsade de pointes have been reported although causality of lopinavir and ritonavir could not be established.
+Avoid use in patients with congenital long QT syndrome, those with hypokalemia, and with other drugs that prolong the QT interval [see Clinical Pharmacology (12.3)].
+
+## 5.6 PR Interval Prolongation
+
+Lopinavir/ritonavir prolongs the PR interval in some patients.
+Cases of second or third degree atrioventricular block have been reported.
+Lopinavir and ritonavir should be used with caution in patients with underlying structural heart disease, pre-existing conduction system abnormalities, ischemic heart disease or cardiomyopathies, as these patients may be at increased risk for developing cardiac conduction abnormalities.
+The impact on the PR interval of co-administration of lopinavir and ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
+As a result, co-administration of lopinavir and ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
+Clinical monitoring is recommended [see Clinical Pharmacology (12.3)].
+
+## 5.7 Diabetes Mellitus/Hyperglycemia
+
+New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during post-marketing surveillance in HIV-1 infected patients receiving protease inhibitor therapy.
+Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
+In some cases, diabetic ketoacidosis has occurred.
+In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
+Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
+Consider monitoring for hyperglycemia, new onset diabetes mellitus or an exacerbation of diabetes mellitus in patients treated with lopinavir and ritonavir.
+
+## 5.8 Immune Reconstitution Syndrome
+
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including lopinavir and ritonavir.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis) which may necessitate further evaluation and treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
+## 5.9 Lipid Elevations
+
+Treatment with lopinavir and ritonavir has resulted in large increases in the concentration of total cholesterol and triglycerides [see Adverse Reactions (6.1)].Triglyceride and cholesterol testing should be performed prior to initiating lopinavir and ritonavir therapy and at periodic intervals during therapy.
+Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with lopinavir and ritonavir and HMG-CoA reductase inhibitors [see Contraindications (4)and Drug Interactions (7.3)].
+
+## 5.10 Fat Redistribution
+
+Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
+The mechanism and long-term consequences of these events are currently unknown.
+A causal relationship has not been established.
+
+## 5.11 Patients with Hemophilia
+
+Increased bleeding, including spontaneous skin hematomas and hemarthrosis have been reported in patients with hemophilia type A and B treated with protease inhibitors.
+In some patients additional factor VIII was given.
+In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced.
+A causal relationship between protease inhibitor therapy and these events has not been established.
+
+## 5.12 Resistance/Cross-resistance
+
+Because the potential for HIV cross-resistance among protease inhibitors has not been fully explored in lopinavir and ritonavir-treated patients, it is unknown what effect therapy with lopinavir and ritonavir will have on the activity of subsequently administered protease inhibitors [see Microbiology (12.4)].

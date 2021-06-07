@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA091677"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-556-12",
+    "31722-556-31",
+    "31722-556-32",
+    "31722-556-60",
+    "31722-603-12",
+    "31722-603-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lopinavir and ritonavir",
+      "name": "Lopinavir and ritonavir"
+    }
+  ],
+  "setid": "4e5005b8-f00c-4671-be09-bb927190760f",
+  "source": "dailymed"
+}
