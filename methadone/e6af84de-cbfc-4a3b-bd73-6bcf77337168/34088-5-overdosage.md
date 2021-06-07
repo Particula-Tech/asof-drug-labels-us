@@ -1,10 +1,15 @@
 # 10 OVERDOSAGE
 
-Clinical Symptoms:
+Clinical Presentation:
 
-Acute overdosage with methadone can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal-muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Acute overdosage with methadone can be manifested by respiratory depression somnolence progressing to stupor or coma, skeletal-muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
+
+Methadone overdosage is associated with rhabdomyolysis.
+Seek medical attention, especially if abuse/misuse results in prolonged immobilization.
+Acute toxic leukoencephalopathy has been reported after methadone overdose, often weeks after apparent recovery from the initial intoxication.
+Hearing loss has been reported after methadone overdose, in some cases permanent.
 
 Treatment of Overdose:
 
@@ -12,9 +17,8 @@ In case of overdose, priorities are the re-establishment of a patent and protect
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
-The opioid antagonists, such as naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to methadone overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to methadone overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of reversal would be expected to be less than the duration of action of methadone, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 If the response to opioid antagonists is suboptimal or not sustained, administer additional antagonist as directed in the product’s prescribing information.

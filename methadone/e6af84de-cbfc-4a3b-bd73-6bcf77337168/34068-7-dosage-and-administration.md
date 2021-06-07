@@ -31,7 +31,17 @@ Consider the following important factors that differentiate methadone from other
 
 DISKETS have a narrow therapeutic index, especially when combined with other drugs.
 
-## 2.3 Dosing Instructions
+## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with DISKETS Dispersible Tablets.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.1)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with DISKETS Dispersible Tablets itself [see Overdosage (10)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+
+## 2.4 Dosing Instructions
 
 DISKETS are intended for dispersion in a liquid immediately prior to oral administration of the prescribed dose.
 The tablets should not be chewed or swallowed before dispersing in liquid.
@@ -43,7 +53,7 @@ Prior to administration, the desired dose of DISKETS should be dispersed in appr
 Methadone hydrochloride is very soluble in water, but there are some insoluble excipients that will not entirely dissolve.
 If residue remains in the cup after initial administration, a small amount of liquid should be added and the resulting mixture administered to the patient.
 
-## 2.4 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
+## 2.5 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
 | For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
 | --- |
@@ -78,32 +88,32 @@ Hospitalized patients may tolerate a daily reduction of 20% of the total daily d
 Ambulatory patients may need a slower schedule.
 Because DISKETS can be administered only in 10 mg increments, DISKETS may not be the appropriate product for gradual dose reduction in many patients.
 
-## 2.5 Titration and Maintenance Treatment of Opioid Dependence
+## 2.6 Titration and Maintenance Treatment of Opioid Dependence
 
 Titrate patients in maintenance treatment to a dose that prevents opioid withdrawal symptoms for 24 hours, reduces drug hunger or craving, and blocks or attenuates the euphoric effects of self-administered opioids, ensuring that the patient is tolerant to the sedative effects of methadone.
 Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
 During prolonged administration of methadone, monitor patients for persistent constipation and manage accordingly.
 
-## 2.6 Medically Supervised Withdrawal after a Period of Maintenance Treatment for Opioid Addiction
+## 2.7 Medically Supervised Withdrawal after a Period of Maintenance Treatment for Opioid Addiction
 
 There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
 Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10 to 14-day intervals should elapse between dose reductions.
 Because DISKETS can be administered only in 10 mg increments, it may not be the appropriate product for gradual dose reduction in many patients.
 Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
+Do not abruptly discontinue DISKETS Dispersible tablets in a physically dependent patient [see Warnings and Precautions (5.15)].
 
-## 2.7 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
+## 2.8 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
 Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence (9.3)].
 Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
 
-## 2.8 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
+## 2.9 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
 
 Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
 Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
 When opioids are required for management of acute pain in methadone maintenance patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients due to the opioid tolerance induced by methadone.
 
-## 2.9 Dosage Adjustment During Pregnancy
+## 2.10 Dosage Adjustment During Pregnancy
 
 Methadone clearance may be increased during pregnancy.
-During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased.
-Methadone should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased [see Use in Specific Populations (8.1)].

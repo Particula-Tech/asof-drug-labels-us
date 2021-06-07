@@ -4,8 +4,28 @@ Provide the following information to patients receiving DISKETS Dispersible Tabl
 
 Life-Threatening Respiratory Depression:
 
-Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting DISKETS Dispersible Tablets or when the dose is increased [see Warnings and Precautions (5.1)].
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting DISKETS Dispersible Tablets or when the dose is increased.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.1)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose:
+
+Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to naloxone with the patient and caregiver.
+Also discuss the importance of having access to naloxone if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
+Repeat administration may be necessary, particularly for overdose involving DISKETS Dispersible Tablets, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.3), Warnings and Precautions (5.1), Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- •How to treat with naloxone in the event of an opioid overdose
+- •To tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
+- •To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Interactions with Benzodiazepines and Other CNS Depressants:
 
@@ -71,9 +91,15 @@ Advise women that if they are pregnant while being treated with DISKETS, the bab
 
 Lactation:
 
+Advise women who are breastfeeding to monitor the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
 Instruct nursing mothers using DISKETS Dispersible Tablets to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
+
+Infertility:
+
+Advise patients that chronic use of opioids, such as DISKETS Dispersible Tablets, may cause reduced fertility.
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery:
 
@@ -84,12 +110,12 @@ Constipation:
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Distr. by: Hikma
+Distributed by:
 
-Pharmaceuticals USA Inc.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07992
 
-C50000737/01
+C50000737/02
 
-Revised April 2020
+Revised March 2021

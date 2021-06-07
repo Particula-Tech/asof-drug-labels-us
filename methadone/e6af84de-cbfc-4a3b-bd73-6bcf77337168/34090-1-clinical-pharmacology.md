@@ -50,7 +50,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Adverse Reaction Relationships:
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.4, 2.5, 2.6)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.5, 2.6, 2.7)].
 
 ## 12.3 Pharmacokinetics
 

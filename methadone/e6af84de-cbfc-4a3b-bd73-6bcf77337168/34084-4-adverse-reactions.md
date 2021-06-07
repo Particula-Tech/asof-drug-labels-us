@@ -25,9 +25,9 @@ Other adverse reactions include the following:
 
 Body as a Whole: asthenia (weakness), edema, headache
 
-Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extra systoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
+Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia.
 
-Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
+Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
 
 Endocrine: hypogonadism
 
