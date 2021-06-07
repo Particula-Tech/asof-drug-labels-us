@@ -27,6 +27,13 @@ Advise patients to swallow XELODA tablets whole with water within 30 minutes of 
 Advise patients and caregivers not to crush or cut XELODA tablets.
 Advise patients if they cannot swallow XELODA tablets whole, to inform their healthcare provider [see Dosage and Administration (2.1)].
 
+Hypersensitivity and Angioedema
+
+Advise patients that XELODA may cause severe hypersensitivity reactions and angioedema.
+Advise patients who have known hypersensitivity to capecitabine or 5-fluorouracil to inform their healthcare provider [see Contraindications (4)].
+Instruct patients who develop hypersensitivity reactions or mucocutaneous symptoms (e.g., urticaria, rash, erythema, pruritus, or swelling of the face, lips, tongue or throat which make it difficult to swallow or breathe) to stop taking XELODA and immediately contact their healthcare provider or to go to an emergency room.
+[see Adverse Reactions (6)].
+
 Nausea
 
 Instruct patients experiencing grade 2 nausea (food intake significantly decreased but able to eat intermittently) or greater to stop taking XELODA immediately and to contact their healthcare provider for management of nausea [see Adverse Reactions (6.1)].
@@ -38,7 +45,7 @@ Instruct patients experiencing grade 2 vomiting (2 to 5 episodes in a 24-hour pe
 Hand-and-Foot Syndrome
 
 Instruct patients experiencing grade 2 hand-and-foot syndrome (painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patients' activities of daily living) or greater to stop taking XELODA immediately and to contact their healthcare provider.
-Inform patients that initiation of symptomatic treatment is recommended and hand-and-foot syndrome can lead to loss of fingerprints which could impact personal identification [see Adverse Reactions (6.1)].
+Inform patients that initiation of symptomatic treatment is recommended, and hand-and-foot syndrome can lead to loss of fingerprints which could impact personal identification [see Adverse Reactions (6.1)].
 
 Stomatitis
 

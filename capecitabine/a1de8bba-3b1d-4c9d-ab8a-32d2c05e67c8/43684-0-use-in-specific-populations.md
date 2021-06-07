@@ -49,7 +49,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of XELODA [see Nonclinical Toxicology (13.1)].
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the final dose of XELODA [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
