@@ -29,6 +29,16 @@ Consider the following important factors that differentiate methadone from other
 - Steady-state plasma concentrations are not attained until 3 to 5 days after initiation of dosing.
 - METHADOSE has a narrow therapeutic index, especially when combined with other drugs.
 
+## Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with METHADOSE.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose (see WARNINGS AND PRECAUTIONS, Life-Threatening Respiratory Depression).
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with METHADOSE itself (see OVERDOSAGE).
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing regulations (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) (see PRECAUTIONS, Information for Patients).
+
 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
 | For detoxification and maintenance of opiate dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
@@ -88,5 +98,4 @@ When opioids are required for management of acute pain in methadone maintenance 
 Dosage Adjustment During Pregnancy
 
 Methadone clearance may be increased during pregnancy.
-During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased.
-Methadone should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Specific Populations, and PRECAUTIONS, Pregnancy).
+During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Specific Populations, and PRECAUTIONS, Pregnancy).
