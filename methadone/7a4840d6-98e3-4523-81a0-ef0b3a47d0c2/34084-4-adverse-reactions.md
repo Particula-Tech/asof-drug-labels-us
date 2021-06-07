@@ -30,7 +30,7 @@ Body as a Whole: asthenia (weakness), edema, headache
 
 Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsades de pointes, ventricular fibrillation, ventricular tachycardia
 
-Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
+Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
 
 Endocrine: hypogonadism, decreased testosterone
 
@@ -38,7 +38,7 @@ Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, d
 
 Hematologic: reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
 
-Metabolic: hypokalemia, hypomagnesemia, weight gain
+Metabolic: hypoglycemia, hypokalemia, hypomagnesemia, weight gain
 
 Renal: antidiuretic effect, urinary retention or hesitancy
 

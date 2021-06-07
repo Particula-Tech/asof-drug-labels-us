@@ -11,7 +11,7 @@ The contribution of NMDA receptor antagonism to methadone’s efficacy is unknow
 
 ## 12.2 Pharmacodynamics
 
-Effects on the Central Nervous System:
+Effects on the Central Nervous System
 
 Methadone produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
@@ -22,19 +22,19 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 
 Some NMDA receptor antagonists have been shown to produce neurotoxic effects in animals.
 
-Effects on the Gastrointestinal Tract and Other Smooth Muscle:
+Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
 Methadone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
-Effects on the Cardiovascular System:
+Effects on the Cardiovascular System
 
 Methadone produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Effects on the Endocrine System:
+Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
@@ -42,38 +42,38 @@ They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic sec
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
-Effects on the Immune System:
+Effects on the Immune System
 
 Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Efficacy Relationships:
+Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2, 2.4)].
+The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2,2.5)].
 
-Concentration–Adverse Reaction Relationships:
+Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.3, 2.4)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.4, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
 Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
 However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1,255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
 
-Distribution:
+Distribution
 
 Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1.0 to 8.0 L/kg.
 In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
-Elimination:
+Elimination
 
 Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene (EDDP).
 Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19, CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
@@ -85,7 +85,7 @@ Methadone is a basic (pKa=9.2) compound and the pH of the urinary tract can alte
 Also, since methadone is lipophilic, it has been known to persist in the liver and other tissues.
 The slow release from the liver and other tissues may prolong the duration of methadone action despite low plasma concentrations.
 
-Drug Interaction Studies:
+Drug Interaction Studies
 
 Cytochrome P450 Interactions: Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, CYP2C9 and CYP2D6.
 Co-administration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
@@ -111,7 +111,6 @@ Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavi
 
 1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranavir+Ritonavir Combination:
 2. Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
-3. 
-4. Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+3. Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
    Methadone disposition was not substantially altered [see Drug Interactions (7)].
-5. Zidovudine:Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7)].
+4. Zidovudine:Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7)].

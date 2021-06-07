@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis:
+Carcinogenesis
 
 The results of carcinogenicity assessment in B6C2F1 mice and Fischer 344 rats following dietary administration of two doses of methadone HCl have been published.
 Mice consumed 15 mg/kg/day or 60 mg/kg/day methadone for two years.
@@ -15,14 +15,14 @@ In contrast, female rats consumed 46 mg/kg/day or 88 mg/kg/day for two years.
 These doses were approximately 3.7 and 7.1 times the HDD.
 Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in either male or female rats.
 
-Mutagenesis:
+Mutagenesis
 
 There are several published reports on the potential genetic toxicity of methadone.
 Methadone tested positive in the in vivo mouse dominant lethal assay and the in vivo mammalian spermatogonial chromosome aberration test.
 Additionally, methadone tested positive in the E. coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
 In contrast, methadone tested negative in tests for chromosome breakage and disjunction and sex-linked recessive lethal gene mutations in germ cells of Drosophila using feeding and injection procedures.
 
-Impairment of Fertility:
+Impairment of Fertility
 
 Published animal studies show that methadone treatment of males can alter reproductive function.
 Methadone produces decreased sexual activity (mating) of male rats at 10 mg/kg/day (corresponding to 0.3 times the human daily oral dose of 120 mg/day based on body surface area).
