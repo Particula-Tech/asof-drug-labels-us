@@ -24,9 +24,9 @@ JANUMET XR
 
 JANUMET XR is available as film-coated tablets containing:
 
-- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 389.93 mg of metformin HCl equivalent to 500 mg metformin HCl (JANUMET XR 50/500).
-- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 779.86 mg of metformin HCl equivalent to 1000 mg metformin HCl (JANUMET XR 50/1000).
-- 128.5 mg sitagliptin monohydrate equivalent to 100 mg sitagliptin and 779.86 mg of metformin HCl equivalent to 1000 mg metformin HCl (JANUMET XR 100/1000).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 389.93 mg of metformin equivalent to 500 mg metformin HCl (JANUMET XR 50/500).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET XR 50/1000).
+- 128.5 mg sitagliptin monohydrate equivalent to 100 mg sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET XR 100/1000).
 
 All doses of JANUMET XR contain the following inactive ingredients: povidone, hypromellose, colloidal silicon dioxide, sodium stearyl fumarate, propyl gallate, polyethylene glycol, and kaolin.
 The JANUMET XR 50 mg/500 mg tablet contains the additional inactive ingredient microcrystalline cellulose.
