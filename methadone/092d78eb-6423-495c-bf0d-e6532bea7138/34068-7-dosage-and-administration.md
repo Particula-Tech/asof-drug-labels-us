@@ -119,6 +119,4 @@ Due to the opioid tolerance induced by methadone, when opioids are required for 
 ### Dosage Adjustment During Pregnancy
 
 Methadone clearance may be increased during pregnancy.
-Several small studies have demonstrated significantly lower trough methadone plasma concentrations and shorter methadone half-lives in women during their pregnancy compared to after their delivery.
-During pregnancy a woman's methadone dose may need to be increased, or their dosing interval decreased.
-Methadone should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+During pregnancy, a woman's methadone dose may need to be increased, or the dosing interval decreased (see PRECAUTIONS: Pregnancy).

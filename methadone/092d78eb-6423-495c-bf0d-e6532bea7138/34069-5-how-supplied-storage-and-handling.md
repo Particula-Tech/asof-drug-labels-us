@@ -10,8 +10,8 @@ Store at 20° to 25°C (68° to 77°F), with excursions permitted between 15° t
 Protect from light.
 Store in carton until contents have been used.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
 
-PC-3374H Revised: 10/2019 MI:MTHDIJ:R5
+PC-3374I Revised: 6/2021 MI:MTHDIJ:R6

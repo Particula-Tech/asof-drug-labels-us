@@ -40,7 +40,7 @@ These characteristics can contribute to cases of iatrogenic overdose, particular
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
 
 ## Life-Threatening QT Prolongation
 
@@ -232,13 +232,14 @@ Inform female patients of reproductive potential that Methadone Hydrochloride In
 
 ### Lactation
 
+Advise women who are breastfeeding to monitor the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
 Instruct nursing mothers using Methadone Hydrochloride Injection to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to the baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) (see PRECAUTIONS: Lactation).
 
 ### Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Advise patients that chronic use of opioids, such as Methadone Hydrochloride Injection, may cause reduced fertility.
 It is not known whether these effects on fertility are reversible (see PRECAUTIONS: Females and Males of Reproductive Potential).
 
 ### Driving or Operating Heavy Machinery
@@ -347,20 +348,19 @@ Decreased serum levels of testosterone were observed in male rats that were trea
 
 ### Risk Summary
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy (see WARNINGS).
-There are no adequate and well controlled studies in pregnant women.
+The majority of available data from clinical trials, observational studies, case series, and case reports on methadone use in pregnancy do not indicate an increased risk of major malformations specifically due to methadone.
 
-Pregnant women in methadone maintenance programs may have reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
-Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes and risk of continued or relapsing illicit opioid use.
-These risks should be considered in women treated with Methadone Hydrochloride Injection for maintenance treatment of opioid addiction.
+Pregnant women involved in methadone maintenance programs have been reported to have improved prenatal care leading to reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
+Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
+Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure in these studies appears to occur after the first trimester of pregnancy (see Data).
 
-For women treated with Methadone Hydrochloride Injection for pain severe enough to require an opioid analgesic, Methadone Hydrochloride Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy (see WARNINGS, PRECAUTIONS).
 
-In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) in the hamster at doses 2 times the human daily oral dose of 120 mg/day on a mg/m2 basis (HDD) and in mice at doses equivalent to the HDD.
+In published animal reproduction studies, methadone administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) in the hamster at doses 2 times the human daily oral dose of 120 mg/day on a mg/m2 basis (HDD) and in mice at doses equivalent to the HDD.
 Administration of methadone to pregnant animals during organogenesis and through lactation resulted decreased litter size, increased pup mortality, decreased pup body weights, developmental delays, and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD.
 Administration of methadone to male rodents prior to mating with untreated females resulted in increased neonatal mortality and significant differences in behavioral tests in the offspring at exposures comparable to and less than the HDD (see Data).
-
 Based on animal data, advise pregnant women of the potential risk to a fetus.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -372,20 +372,11 @@ In the U.S. general population, the estimated background risk of major birth def
 Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
-There are no controlled studies of methadone use in pregnant women that can be used to establish safety.
-However, an expert review of published data on experiences with methadone use during pregnancy by TERIS - the Teratogen Information System - concluded that maternal use of methadone during pregnancy as part of a supervised, therapeutic regimen is unlikely to pose a substantial teratogenic risk (quantity and quality of data assessed as "limited to fair"), however, the data are insufficient to state that there is no risk (TERIS, last reviewed October, 2002).
-Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care, improved fetal outcomes, and reduced mortality when compared to pregnant women using illicit drugs.
-Several factors complicate the interpretation of investigations of the children of women who took methadone during pregnancy.
-These include: the maternal use of illicit drugs, other maternal factors such as nutrition, infection, and psychosocial circumstances, limited information regarding dose and duration of methadone use during pregnancy, and the fact that most maternal exposure appears to occur after the first trimester of pregnancy.
-In addition, reported studies generally compare the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
+#### Dosage Adjustment During Pregnancy
 
-Methadone has been detected in amniotic fluid and cord plasma at concentrations proportional to maternal plasma and in newborn urine at lower concentrations than corresponding maternal urine.
-
-A retrospective series of 101 pregnant opiate-dependent women who underwent inpatient opiate detoxification with methadone did not demonstrate any increased risk of miscarriage in the 2nd trimester or premature delivery in the 3rd trimester.
-
-Several studies have suggested that infants born to narcotic-addicted women treated with methadone during all or part of pregnancy have been found to have decreased fetal growth with reduced birth weight, length, and/or head circumference compared to controls.
-The growth deficit does not appear to persist into later childhood.
-However, children born to women treated with methadone during pregnancy have been shown to demonstrate mild but persistent deficits in performance on psychometric and behavioral tests.
+Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with Methadone Hydrochloride Injection.
+Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY).
+Withdrawal signs and symptoms should be closely monitored and the dose adjusted as necessary.
 
 #### Fetal/Neonatal Adverse Reactions
 
@@ -396,25 +387,28 @@ Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly (see BOXED WARNING, WARNINGS: Neonatal Opioid Withdrawal Syndrome).
 
-There are conflicting reports on whether the risk of sudden infant death syndrome (SIDS) is increased in infants born to women treated with methadone during pregnancy.
+#### Labor or Delivery
 
-Abnormal fetal non-stress tests (NSTs) have been reported to occur more frequently when the test is performed 1 to 2 hours after a maintenance dose of methadone in late pregnancy compared to controls.
-Published animal studies suggest that perinatal exposure to opioids including methadone may alter neuronal development and behavior in the offspring.
-Perinatal methadone exposure in rats has been linked to alterations in learning ability, motor activity, thermal regulation, nociception responses and sensitivity to other drugs.
-Additional animal data demonstrates evidence for neurochemical changes in the brains of methadone-treated offspring, including the cholinergic, dopaminergic, noradrenergic and serotonergic systems.
+Opioid-dependent women on methadone maintenance therapy may require additional analgesia during labor.
 
-### Clinical Pharmacology for Pregnancy
-
-Pregnant women have significantly lower trough plasma concentrations, increased plasma methadone clearance and shorter half-life than after delivery.
-Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with methadone (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-### Labor and Delivery
-
-As with all opioids, administration of methadone to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
-Methadone is not recommended for obstetric analgesia because its long duration of action increases the probability of respiratory depression in the newborn.
-Narcotics with mixed agonist-antagonist properties should not be used for pain control during labor in patients chronically treated with methadone because they may precipitate acute withdrawal.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 ### Data
+
+#### Human Data
+
+The majority of available data from clinical trials, observational studies, case series, and case reports on methadone use in pregnancy do not indicate an increased risk of major malformations specifically due to methadone.
+Findings regarding specific major malformations, decreased fetal growth, premature birth and Sudden Infant Death Syndrome have been inconsistent.
+Children prenatally exposed to methadone have been reported to demonstrate mild but persistent deficits in performance on psychometric and behavioral tests and visual abnormalities.
+
+In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n = 86) or methadone (n = 89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
+A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 women in the methadone group (18%) discontinued treatment before the end of pregnancy.
+
+Among women who remained in treatment until delivery, there was no difference between methadone-treated and buprenorphine-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
+Buprenorphine-exposed neonates required less morphine (mean total dose, 1.1 mg vs. 10.4 mg), had shorter hospital stays (10.0 days vs. 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs. 9.9 days) compared to the methadone-exposed group.
+There were no differences between groups in other primary outcomes (neonatal head circumference) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
+The outcomes among mothers who discontinued treatment before delivery and may have relapsed to illicit opioid use are not known.
+Because of the imbalance in discontinuation rates between the methadone and buprenorphine groups, the study findings are difficult to interpret.
 
 #### Animal Data
 
@@ -423,15 +417,16 @@ Exposure margins for the following published study reports are based on a human 
 
 In a published study in pregnant hamsters, a single subcutaneous dose of methadone ranging from 31 mg/kg (2 times the HDD) to 185 mg/kg on Gestation Day 8 resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting neural tube defects including exencephaly, cranioschisis, and “various other lesions.”
 The majority of the doses tested also resulted in maternal death.
-In a study in pregnant mice, a single subcutaneous dose of 22 mg/kg to 24 mg/kg methadone (approximately equivalent to the HDD) administered on Gestation Day 9 produced exencephaly in 11% of the embryos.
-In another study in pregnant mice, subcutaneous doses up to 28 mg/kg/day methadone (equivalent to the HDD) administered from Gestation Day 6 to 15 resulted in no malformations, but there were increased postimplantation loss and decreased live fetuses at 10 mg/kg/day or greater (0.4 times the HDD) and decreased ossification and fetal body weight at 20 mg/kg/day or greater (0.8 times the HDD).
+In a study in pregnant JBT/Jd mice, a single subcutaneous dose of 22 to 24 mg/kg methadone (approximately equivalent to the HDD) administered on Gestation Day 9 produced exencephaly in 11% of the embryos.
+In another study in pregnant mice, subcutaneous doses up to 28 mg/kg/day methadone (equivalent to the HDD) administered from Gestation Day 6 to 15 resulted in no malformations, but there were increased post-implantation loss and decreased live fetuses at 10 mg/kg/day or greater (0.4 times the HDD) and decreased ossification and fetal body weight at 20 mg/kg/day or greater (0.8 times the HDD).
 In a second study of pregnant mice dosed with subcutaneous doses up to 28 mg/kg/day methadone from Gestation Day 6 to 15, there was decreased pup viability, delayed onset of development of negative phototaxis and eye opening, increased righting reflexes at 5 mg/kg/day or greater (0.2 times the HDD), and decreased number of live pups at birth and decreased pup weight gain at 20 mg/kg/day or greater (0.8 times the HDD).
+
 No effects were reported in a study of pregnant rats and rabbits at oral doses up to 40 mg/kg (3 and 6 times, respectively, the HDD) administered from Gestation Days 6 to 15 and 6 to 18, respectively.
 
-When pregnant rats were treated with intraperitoneal doses of 2.5 mg/kg, 5 mg/kg, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted in decreased birth weights.
+When pregnant rats were treated with intraperitoneal doses of 2.5, 5, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted in decreased birth weights.
 Furthermore, decreased pup viability and pup body weight gain at 2.5 mg/kg or greater (0.2 times the HDD) were noted during the preweaning period.
 
-Additional animal data demonstrates evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
+Additional animal data demonstrate evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
 Other animal studies have reported that prenatal and/or postnatal exposure to opioids including methadone alters neuronal development and behavior in the offspring including alterations in learning ability, motor activity, thermal regulation, nociceptive responses, and sensitivity to drugs at doses below the HDD.
 Treatment of pregnant rats subcutaneously with 5 mg/kg methadone from Gestation Day 14 to 19 (0.4 times the HDD) reduced fetal blood testosterone and androstenedione in males.
 
@@ -451,34 +446,33 @@ These animal data mirror the reported clinical findings of decreased testosteron
 
 ### Risk Summary
 
-Based on two studies in 22 breastfeeding women maintained on methadone treatment, methadone was present in low levels in human milk, and did not show adverse reactions in breastfed infants.
+Based on two small clinical studies, methadone was present in low levels in human milk, but the exposed infants in these studies did not show adverse reactions.
+Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
+There have been rare case reports of sedation and respiratory depression in infants exposed to methadone through breast milk (see Data).
+Monitor infants exposed to Methadone Hydrochloride Injection through breast milk for excess sedation and respiratory depression.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for methadone and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
-
-### Clinical Considerations
-
-Advise breastfeeding women taking methadone to monitor the infant for increased drowsiness and breathing difficulties.
 
 ### Data
 
-In a study of ten breastfeeding women maintained on oral methadone doses of 10 mg/day to
+In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
+Peak methadone levels in milk occur approximately 4 to 5 hours after an oral dose.
 
-80 mg/day, methadone concentrations from 50 mcg/L to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
-
-In a study of twelve breastfeeding women maintained on oral methadone doses of 20 mg/day to 80 mg/day, methadone concentrations from 39 mcg/L to 232 mcg/L in milk were reported.
-Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2% to 3% of the oral maternal dose.
+In a study of twelve breastfeeding women maintained on oral methadone doses of 20 to 80 mg/day, methadone concentrations from 39 to 232 mcg/L in milk were reported.
+Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day, which is approximately 2 to 3% of the oral maternal dose.
 Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.
-
-There have been rare cases of sedation and respiratory depression in infants exposed to methadone through breast milk.
 
 ## Females and Males of Reproductive Potential
 
 ### Infertility
 
+The effect of Methadone Hydrochloride Injection on fertility is unknown.
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS).
+It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS, CLINICAL PHARMACOLOGY).
 Reproductive function in human males may be decreased by methadone treatment.
 Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
 In addition, reductions in serum testosterone levels and sperm motility, and abnormalities in sperm morphology have been reported.
+
+In published animal studies, methadone produces a significant regression of sex accessory organs and testes of male mice and rats and administration of methadone to pregnant rats reduced fetal blood testosterone and androstenedione in male offspring (see PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 ## Pediatric Use
 

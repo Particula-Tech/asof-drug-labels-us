@@ -36,7 +36,7 @@ Hematologic and Lymphatic: Reversible thrombocytopenia has been described in opi
 
 Metabolic and Nutritional: Hypokalemia, hypomagnesemia, weight gain
 
-Nervous: Agitation, confusion, seizures, disorientation, dysphoria, euphoria, insomnia
+Central Nervous System: Agitation, confusion, seizures, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
 
 Respiratory: Pulmonary edema
 

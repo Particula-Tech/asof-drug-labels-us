@@ -2,8 +2,14 @@
 
 ## Clinical Presentation
 
-Acute overdose with Methadone Hydrochloride Injection can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
+Acute overdosage with methadone can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal-muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations (see CLINICAL PHARMACOLOGY).
+In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
+
+Methadone overdosage is associated with rhabdomyolysis.
+Seek medical attention, especially if abuse/misuse results in prolonged immobilization.
+Acute toxic leukoencephalopathy has been reported after methadone overdose, often weeks after apparent recovery from the initial intoxication.
+Hearing loss has been reported after methadone overdose, in some cases permanent.
 
 ## Treatment of Overdose
 
