@@ -26,18 +26,19 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions including DRESS
 
-Advise patients to stop DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop using DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.10, 5.9)].
 
 Female Fertility
 
 Advise females of reproductive potential who desire pregnancy that NSAIDs, including DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3%, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Use in Specific Populations (8.3)]
 
-Premature Closure of the Fetal Ductus Arteriosus
+Fetal Toxicity
 
-Advise pregnant women to avoid use of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closure of the fetal ductus arteriosus.
-Advise females of reproductive potential to contact their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closure of the fetal ductus arteriosus.
+If treatment with DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours.
+[see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
@@ -51,7 +52,7 @@ Inform patients not to use low-dose aspirin concomitantly with DICLOFENAC EPOLAM
 Eye Exposure
 
 Instruct patients to avoid contact of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% with the eyes and mucosa.
-Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour [see Warnings and Precautions (5.15)].
+Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour [see Warnings and Precautions (5.16)].
 
 Special Application Instructions
 

@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 - The DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% is supplied in resealable envelopes, each containing 5 topical systems (10 cm × 14 cm), with 6 envelopes per box (NDC 0093-3727-55).
-  Each individual topical system is embossed with " DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% TEVA 3727".
+  Each individual topical system is embossed with "DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% TEVA 3727".
 - The product is intended for topical use only.
 - Keep out of reach of children and pets.
 - Envelopes should be sealed at all times when not in use.
