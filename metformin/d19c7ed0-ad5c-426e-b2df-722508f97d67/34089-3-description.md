@@ -25,8 +25,8 @@ JANUMET
 
 JANUMET is available as film-coated tablets containing:
 
-- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 389.93 mg of metformin HCl equivalent to 500 mg metformin HCl (JANUMET 50/500).
-- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 779.86 mg of metformin HCl equivalent to 1000 mg metformin HCl (JANUMET 50/1000).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 389.93 mg of metformin equivalent to 500 mg metformin HCl (JANUMET 50/500).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET 50/1000).
 
 Each film-coated tablet of JANUMET contains the following inactive ingredients: microcrystalline cellulose, polyvinylpyrrolidone, sodium lauryl sulfate, and sodium stearyl fumarate.
 In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, red iron oxide, and black iron oxide.
