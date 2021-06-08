@@ -9,6 +9,6 @@ Cuvposa® (glycopyrrolate) oral solution 1 mg/5 mL (0.2 mg/mL)
 
 Rx Only For Oral Use Only
 
-Manufactured for: Merz North America, Inc.
+Manufactured for: Merz Pharmaceuticals, LLC
 
-Manufactured by: Mikart, Inc. Atlanta, GA 30318
+Manufactured by: Mikart, LLC Atlanta, GA 30318
