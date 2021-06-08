@@ -6,7 +6,7 @@ Cardiovascular Thrombotic Events
   This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions (5.1)].
 - ZIPSOR is contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Gastrointestinal Risk Bleeding, Ulceration, and Perforation
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
 - NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.

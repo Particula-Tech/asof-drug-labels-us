@@ -14,10 +14,11 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of ZIPSOR was assessed in 24 healthy, normal volunteers who received 25 mg ZIPSOR under fasting conditions.
-The mean pharmacokinetic parameters for ZIPSOR are shown in Table 3
+The pharmacokinetics of ZIPSOR was assessed in 24 healthy, normal adult volunteers who received 25 mg ZIPSOR under fasting conditions.
+The mean pharmacokinetic parameters for ZIPSOR are shown in Table 3.
+The pharmacokinetics of ZIPSOR was also assessed in pediatric patients 12 to 17 years of age [see Specific Populations: Pediatric] and was found to be similar to adults.
 
-Table 3 Mean Pharmacokinetics of ZIPSOR
+Table 3 Mean Pharmacokinetics of ZIPSOR in Adults
 
 | PK Parameter | Number of Subjects | Mean ± Standard Deviation |
 | --- | --- | --- |
@@ -40,7 +41,9 @@ Distribution
 The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
-Serum protein binding is constant over the concentration range (0.15-105 μg/mL) achieved with recommended doses.
+Serum protein binding is constant over the concentration range (0.15-105 g/mL) achieved with recommended doses.
+
+Diclofenac has been shown to cross the placental barrier in humans.
 
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
@@ -69,7 +72,19 @@ The terminal half-life of unchanged diclofenac is approximately 1 hour.
 
 Specific Populations
 
-Pediatric: The pharmacokinetics of ZIPSOR has not been investigated in pediatric patients.
+Pediatric: The pharmacokinetics of ZIPSOR was assessed in 24 pediatric patients 12 years to 17 years of age with mild to moderate acute pain who received 25 mg ZIPSOR every six hours as needed for pain for up to four days.
+The mean pharmacokinetic parameters of ZIPSOR on Day 1 in pediatric patients 12 years to 17 years of age are shown in Table 4.
+Peak plasma levels were noted in one hour, with an elimination half-life of less than 2 hours.
+The pharmacokinetics of ZIPSOR in pediatric patients 12 years to 17 years of age was similar to that in adults.
+
+Table 4 Mean Pharmacokinetics of ZIPSOR (Day1) in Pediatric Patients 12 Years to 17 Years of Age
+
+| PK Parameter | Number of Subjects | Mean ± Standard Deviation |
+| --- | --- | --- |
+| Tmax (hr) | 24 | 0.94 ± 0.42 |
+| Terminal Half-life (hr) | 24 | 1.81 ± 0.92 |
+| Cmax (ng/mL) | 24 | 699 ± 464 |
+| AUC(0-∞) (ng·h/mL) | 24 | 659 ± 208 |
 
 Race: Pharmacokinetic differences due to race have not been studied.
 

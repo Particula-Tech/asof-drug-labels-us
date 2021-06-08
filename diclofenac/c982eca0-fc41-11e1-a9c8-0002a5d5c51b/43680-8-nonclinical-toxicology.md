@@ -14,3 +14,5 @@ Diclofenac sodium did not show mutagenic activity in in vitro point mutation ass
 Impairment of Fertility
 
 Diclofenac sodium administered to male and female rats at 4 mg/kg/day (approximately 0.4 times the MRHD based on BSA comparison) did not affect fertility.
+
+However, published studies report that treatment of adult male rats with diclofenac by the oral route at 10 mg/kg (1 times the MRHD based on BSA comparison) for 14 days and at 0.25 mg/kg (0.025 times the MRHD based on BSA comparison) for 30 days produced adverse effects on male reproductive hormones and testes.

@@ -5,7 +5,7 @@
 Carefully consider the potential benefits and risks of ZIPSOR and other treatment options before deciding to use ZIPSOR.
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-For treatment of mild to moderate acute pain, the dosage is 25 mg four times a day.
+For treatment of mild to moderate acute pain in adult and pediatric patients 12 years of age and older, the dosage is 25 mg four times a day.
 
 ## 2.2 Dosage Adjustments in Patients with Hepatic Impairment
 

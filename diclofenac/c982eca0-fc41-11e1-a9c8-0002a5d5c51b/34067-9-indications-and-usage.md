@@ -1,3 +1,3 @@
 # 1. INDICATIONS AND USAGE
 
-ZIPSOR is indicated for relief of mild to moderate acute pain in adults (18 years of age or older).
+ZIPSOR is indicated for relief of mild to moderate acute pain in adult and pediatric patients 12 years of age and older.

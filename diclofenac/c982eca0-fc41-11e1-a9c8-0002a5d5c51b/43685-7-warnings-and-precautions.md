@@ -67,22 +67,17 @@ Elevations in transaminases were seen more frequently in patients with osteoarth
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
 Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 
-In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of NSAID therapy. but can occur at any time during treatment with diclofenac.
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of NSAID therapy, but can occur at any time during treatment with diclofenac.
 Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
 In a European retrospective population-based, case-controlled study, 10 cases of diclofenac associated drug-induced liver injury with current use compared with non-use of diclofenac were associated with a statistically significant 4-fold adjusted odds ratio of liver injury.
-In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more then 90 days.
-
-In a European retrospective population-based, case-controlled study, 10 cases of diclofenac associated drug-induced liver injury with current use compared with non-use of diclofenac were associated with a statistically significant 4-fold adjusted odds ratio of liver injury.
-In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more then 90 days.
+In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female sex, doses of 150 mg or more, and duration of use for more then 90 days.
 
 Physicians should measure transaminases at baseline and periodically in patients receiving long-term therapy with ZIPSOR, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
 The optimum times for making the first and subsequent transaminase measurements are not known.
 Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
 However, severe hepatic reactions can occur at any time during treatment with diclofenac.
-
-To minimize the possibility that hepatic injury will become severe between transaminase measurements, inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
 
 If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), ZIPSOR should be discontinued immediately.
 
@@ -149,25 +144,51 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ZIPSOR at the first appearance of skin rash or any other sign of hypersensitivity.
 ZIPSOR is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including ZIPSOR, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ZIPSOR.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue ZIPSOR and evaluate the patient immediately.
 
-## 5.11 Hematologic Toxicity
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including ZIPSOR, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including ZIPSOR, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including ZIPSOR, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit ZIPSOR use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if ZIPSOR treatment extends beyond 48 hours.
+Discontinue ZIPSOR if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
 If a patient treated with ZIPSOR has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including ZIPSOR, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplateletagents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of ZIPSOR in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
