@@ -15,7 +15,7 @@ The clinical impact of dual endothelin blockage is unknown.
 Pulmonary Hemodynamics
 
 The clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
-Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22-49) in pulmonary vascular resistance and an increase of 0.6 L/min/m2 (95% CI 0.3-0.9) in cardiac index compared to placebo (N=67).
+Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m2 (95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
 
 Cardiac Electrophysiology
 
@@ -51,10 +51,14 @@ Special Populations
 
 There are no clinically relevant effects of age, sex, or race on the pharmacokinetics of macitentan and its active metabolite.
 
-Renal Impairment Exposure to macitentan and its active metabolite in patients with severe renal impairment (CrCl 15-29 mL/min) compared to healthy subjects was increased by 30% and 60%, respectively.
+Renal Impairment
+
+Exposure to macitentan and its active metabolite in patients with severe renal impairment (CrCl 15–29 mL/min) compared to healthy subjects was increased by 30% and 60%, respectively.
 This increase is not considered clinically relevant.
 
-Hepatic Impairment Exposure to macitentan was decreased by 21%, 34%, and 6% and exposure to the active metabolite was decreased by 20%, 25%, and 25% in subjects with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, and C), respectively.
+Hepatic Impairment
+
+Exposure to macitentan was decreased by 21%, 34%, and 6% and exposure to the active metabolite was decreased by 20%, 25%, and 25% in subjects with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, and C), respectively.
 This decrease is not considered clinically relevant.
 
 Drug Interactions
@@ -69,11 +73,15 @@ Macitentan and its active metabolite are not expected to have significant intera
 
 In Vivo Studies
 
-Effect of other drugs on macitentan The effect of other drugs on macitentan and its active metabolite are studied in healthy subjects and are shown in Figure 1 below.
+Effect of other drugs on macitentan
+
+The effect of other drugs on macitentan and its active metabolite are studied in healthy subjects and are shown in Figure 1 below.
 
 Figure 1
 
 Effects of other strong CYP3A4 inhibitors such as ritonavir on macitentan were not studied, but are likely to result in an increase in macitentan exposure at steady state similar to that seen with ketoconazole [see Drug Interactions (7.2)].
+
+PBPK modeling and simulations based analysis showed that a moderate dual inhibitor of CYP3A4 and CYP2C9 such as fluconazole (400 mg once daily) is predicted to increase macitentan exposure approximately 4-fold without relevant effect on the exposure to its active metabolite [see Drug Interactions (7.3)].
 
 Effect of macitentan on other drugs
 

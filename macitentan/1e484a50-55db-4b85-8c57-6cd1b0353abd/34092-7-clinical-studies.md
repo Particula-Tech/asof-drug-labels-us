@@ -2,7 +2,7 @@
 
 ## 14.1 Pulmonary Arterial Hypertension
 
-The effect of macitentan on progression of PAH was demonstrated in a multi-center, long-term (average duration of exposure approximately 2 years), placebo-controlled study in 742 patients with symptomatic [WHO functional class (FC) II-IV] PAH who were randomized to placebo (n=250), 3 mg macitentan (n=250), or 10 mg macitentan (n=242) once daily.
+The effect of macitentan on progression of PAH was demonstrated in a multi-center, long-term (average duration of exposure approximately 2 years), placebo-controlled study in 742 patients with symptomatic [WHO functional class (FC) II–IV] PAH who were randomized to placebo (n=250), 3 mg macitentan (n=250), or 10 mg macitentan (n=242) once daily.
 Patients were treated with OPSUMIT monotherapy or in combination with phosphodiesterase-5 inhibitors or inhaled prostanoids.
 
 The primary study endpoint was time to the first occurrence of death, a significant morbidity event, defined as atrial septostomy, lung transplantation, initiation of IV or subcutaneous (SC) prostanoids, or "other worsening of PAH" during double-blind treatment plus 7 days.
@@ -21,7 +21,7 @@ At baseline, the majority of enrolled patients (64%) were being treated with a s
 Study results are described for the placebo and OPSUMIT 10 mg groups.
 The median treatment durations were 101 and 118 weeks in the placebo and OPSUMIT 10 mg groups, respectively, up to a maximum of 188 weeks.
 
-Treatment with OPSUMIT 10 mg resulted in a 45% reduction (HR 0.55, 97.5% CI 0.39-0.76; logrank p<0.0001) in the occurrence of the primary endpoint up to end of double-blind treatment compared to placebo (Table 3 and Figure 2).
+Treatment with OPSUMIT 10 mg resulted in a 45% reduction (HR 0.55, 97.5% CI 0.39–0.76; logrank p<0.0001) in the occurrence of the primary endpoint up to end of double-blind treatment compared to placebo (Table 3 and Figure 2).
 The beneficial effect of OPSUMIT 10 mg was primarily attributable to a reduction in clinical worsening events (deterioration in 6MWD and worsening of PAH symptoms and need for additional PAH treatment).
 
 Figure 2 Kaplan-Meier Estimates of the Occurrence of the Primary Endpoint Event in the SERAPHIN Study
@@ -41,12 +41,10 @@ Consistent efficacy of OPSUMIT 10 mg on the primary endpoint was seen across sub
 
 Figure 3 Subgroup Analysis of the SERAPHIN Study
 
-Eo = Number of events OPSUMIT 10 mg; No = Number of patients randomized to OPSUMIT 10 mg
-
-Ep = Number of events placebo; Np = Number of patients randomized to placebo
+Eo = Number of events OPSUMIT 10 mg; No = Number of patients randomized to OPSUMIT 10 mg Ep = Number of events placebo; Np = Number of patients randomized to placebo
 
 PAH related death or hospitalization for PAH was assessed as a secondary endpoint.
-The risk of PAH related death or hospitalization for PAH was reduced by 50% in patients receiving OPSUMIT 10 mg compared to placebo (HR 0.50, 97.5% CI 0.34-0.75; logrank p<0.0001) (Table 4 and Figure 4).
+The risk of PAH related death or hospitalization for PAH was reduced by 50% in patients receiving OPSUMIT 10 mg compared to placebo (HR 0.50, 97.5% CI 0.34–0.75; logrank p<0.0001) (Table 4 and Figure 4).
 
 Figure 4 Kaplan-Meier Estimates of the Occurrence of Death due to PAH or Hospitalization for PAH in SERAPHIN
 
@@ -59,7 +57,7 @@ Table 4: Summary of Death due to PAH and Hospitalization due to PAH
 | Death due to PAH | 5 (2.0) | 5 (2.1) |
 | Hospitalization for PAH | 79 (31.6) | 45 (18.6) |
 
-Treatment with OPSUMIT 10 mg resulted in a placebo-corrected mean increase in 6MWD of 22 meters at Month 6 (97.5% CI 3-41; p=0.0078), with significant improvement in 6MWD by Month 3.
+Treatment with OPSUMIT 10 mg resulted in a placebo-corrected mean increase in 6MWD of 22 meters at Month 6 (97.5% CI 3–41; p=0.0078), with significant improvement in 6MWD by Month 3.
 6MWD increased more in patients with worse baseline WHO Functional Class (37 meters and 12 meters placebo-corrected mean increase in WHO FC III/IV and FC I/II, respectively).
 The increase in 6MWD achieved with OPSUMIT was maintained for the duration of the study.
 
