@@ -69,3 +69,5 @@ In clinical trials of nitrofurantoin (monohydrate/macrocrystals), the most frequ
 The following laboratory adverse events also have been reported with the use of nitrofurantoin: glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
