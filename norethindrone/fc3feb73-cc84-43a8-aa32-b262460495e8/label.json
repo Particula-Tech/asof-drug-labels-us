@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214846"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Myovant Sciences, Inc.",
+  "package_ndcs": [
+    "72974-415-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "relugolix, estradiol hemihydrate, and norethindrone acetate",
+      "name": "Myfembree"
+    }
+  ],
+  "setid": "fc3feb73-cc84-43a8-aa32-b262460495e8",
+  "source": "dailymed"
+}
