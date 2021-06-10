@@ -14,8 +14,7 @@ Overall available data from published epidemiologic studies of pregnant women ex
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone, during pregnancy (see Clinical Considerations).
 
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
-Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
-(see Data).
+Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.

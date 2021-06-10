@@ -73,7 +73,8 @@ While you are on ziprasidone capsules, check with your doctor before starting an
 How To Take Ziprasidone Capsules
 
 - Take ziprasidone capsules only as directed by your doctor.
-- Swallow the capsules whole.
+- Swallow ziprasidone capsules whole.
+  Do not chew, crush, or open the capsules.
 - Take ziprasidone capsules with food.
 - It is best to take ziprasidone capsules at the same time each day.
 - Ziprasidone capsules may take a few weeks to work.
@@ -102,7 +103,7 @@ If you develop any side effects that concern you, talk with your doctor.
 It is particularly important to tell your doctor if you have diarrhea, vomiting, or another illness that can cause you to lose fluids.
 Your doctor may want to check your blood to make sure that you have the right amount of important salts after such illnesses.
 For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone capsules Professional Package Insert.
-What to Do For An Overdose In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
+What To Do For An Overdose In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
 Other Important Safety Information A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including ziprasidone capsules.
 Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweating, or increased heart rate and blood pressure.
 NMS is a rare but serious side effect that could be fatal.
@@ -137,4 +138,4 @@ For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2020
+Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2021

@@ -14,6 +14,7 @@ Adverse reactions during exposure were obtained by collecting voluntarily report
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone
 
 The following findings are based on the short-term placebo-controlled premarketing trials for schizophrenia (a pool of two 6-week, and two 4-week fixed-dose trials) and bipolar mania (a pool of two 3-week flexible-dose trials) in which ziprasidone was administered in doses ranging from 10 to 200 mg/day.
@@ -40,7 +41,7 @@ Bipolar trials (see Table 12)
 
 SCHIZOPHRENIA
 
-Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone
+Adverse Reactions Associated With Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone
 
 Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
 The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [see Warnings and Precautions (5.8)].
@@ -51,9 +52,9 @@ Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Table 11: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placebo-Controlled Trials – Schizophrenia
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
 | Body System/Adverse Reaction | Ziprasidone (N=702) | Placebo (N=273) |
+| --- | --- | --- |
+|  | Percentage of Patients Reporting Reaction |  |
 | Body as a Whole |  |  |
 | Asthenia | 5 | 3 |
 | Accidental Injury | 4 | 2 |
@@ -81,7 +82,7 @@ Table 11: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Place
 | Fungal Dermatitis | 2 | 1 |
 | Special Senses |  |  |
 | Abnormal Vision | 3 | 2 |
-| *Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 5% in schizophrenia trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness. |  |  |
+| * Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 5% in schizophrenia trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness. |  |  |
 
 Dose Dependency of Adverse Reactions in Short-Term, Fixed-Dose, Placebo-Controlled Trials
 
@@ -196,7 +197,7 @@ BIPOLAR DISORDER
 
 Acute Treatment of Manic or Mixed Episodes
 
-Adverse Reactions Associated with Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
+Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
 
 Approximately 6.5% (18/279) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 3.7% (5/136) on placebo.
 The most common reactions associated with dropout in the ziprasidone-treated patients were akathisia, anxiety, depression, dizziness, dystonia, rash and vomiting, with 2 dropouts for each of these reactions among ziprasidone patients (1%) compared to one placebo patient each for dystonia and rash (1%) and no placebo patients for the remaining adverse reactions.
@@ -205,43 +206,43 @@ Adverse Reactions Occurring at an Incidence of 2% or More Among Ziprasidone-Trea
 
 Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 3 weeks) in patients with bipolar mania, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
 
-Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated with Bipolar Disorder
+Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated With Bipolar Disorder
 
-| Body System/Adverse Reaction | Ziprasidone (N=279) | Placebo (N=136) |
+| Body Syst e m/ Adverse Reaction | Ziprasidone (N=279) | Placebo (N=136) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction |  |
+|  | Perce ntage of Patients Repor ting Reac t ion |  |
 | Body as a Whole |  |  |
 | Headache | 18 | 17 |
 | Asthenia | 6 | 2 |
 | Accidental Injury | 4 | 1 |
 | Cardiovascular |  |  |
-| Hypertension | 3 | 2 |
+| H ype rtension | 3 | 2 |
 | Digestive |  |  |
 | Nausea | 10 | 7 |
-| Diarrhea | 5 | 4 |
-| Dry Mouth | 5 | 4 |
-| Vomiting | 5 | 2 |
-| Increased Salivation | 4 | 0 |
-| Tongue Edema | 3 | 1 |
-| Dysphagia | 2 | 0 |
-| Musculoskeletal |  |  |
+| Dia rrhea | 5 | 4 |
+| D ry Mouth | 5 | 4 |
+| V o miting | 5 | 2 |
+| Increased Salivati on | 4 | 0 |
+| Tongue Ede ma | 3 | 1 |
+| D ysphagia | 2 | 0 |
+| Musculos kel etal |  |  |
 | Myalgia | 2 | 0 |
 | Nervous |  |  |
-| Somnolence | 31 | 12 |
-| Extrapyramidal Symptoms* | 31 | 12 |
+| S o mnolence | 31 | 12 |
+| Extrapyr a midal Sy mpt o ms* | 31 | 12 |
 | Dizziness** | 16 | 7 |
 | Akathisia | 10 | 5 |
 | Anxiety | 5 | 4 |
-| Hypesthesia | 2 | 1 |
+| H ypesthesia | 2 | 1 |
 | Speech Disorder | 2 | 0 |
-| Respiratory |  |  |
+| Respira tory |  |  |
 | Pharyngitis | 3 | 1 |
-| Dyspnea | 2 | 1 |
-| Skin and Appendages |  |  |
-| Fungal Dermatitis | 2 | 1 |
+| D yspnea | 2 | 1 |
+| S kin and Appen dages |  |  |
+| Fungal Der ma titis | 2 | 1 |
 | Special Senses |  |  |
-| Abnormal Vision | 6 | 3 |
-| * Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness. |  |  |
+| Abnor mal Vision | 6 | 3 |
+| * Ext rap yra midal Sy mpt o ms includes the following a dve rse reaction ter ms: ext rap yr a midal synd r o me, h ype rtonia, d ystonia, d yskin esia, h ypokinesia, t re mor, pa ral ysis and twitching. None of the se adve rse reactions occu rred individ ually at an incidence g reater than 10% in bipolar man ia trials. ** Dizziness includes the adverse react ion ter ms dizziness and lightheadedness. |  |  |
 
 Explorations for interactions on the basis of gender did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of this demographic factor.
 

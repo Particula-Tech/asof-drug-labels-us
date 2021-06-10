@@ -31,7 +31,7 @@ The results of the oral ziprasidone trials in schizophrenia follow:
 
 ## 14.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
-Acute Manic and Mixed Episodes Associated with Bipolar I Disorder
+Acute Manic and Mixed Episodes Associated With Bipolar I Disorder
 
 The efficacy of ziprasidone was established in 2 placebo-controlled, double-blind, 3-week monotherapy studies in patients meeting DSM-IV criteria for bipolar I disorder, manic or mixed episode with or without psychotic features.
 Primary rating instruments used for assessing manic symptoms in these trials were: (1) the Mania Rating Scale (MRS), which is derived from the Schedule for Affective Disorders and Schizophrenia-Change Version (SADS-CB) with items grouped as the Manic Syndrome subscale (elevated mood, less need for sleep, excessive energy, excessive activity, grandiosity), the Behavior and Ideation subscale (irritability, motor hyperactivity, accelerated speech, racing thoughts, poor judgment) and impaired insight; and (2) the Clinical Global Impression-Severity of Illness Scale (CGI-S), which was used to assess the clinical significance of treatment response.
