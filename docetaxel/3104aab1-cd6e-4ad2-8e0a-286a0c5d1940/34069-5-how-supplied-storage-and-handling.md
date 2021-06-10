@@ -7,9 +7,11 @@ Discard unused portion of the single-dose vial.
 
 The following strengths are available in a one-vial formulation:
 
-- Docetaxel Injection, USP 20 mg/1 mL single-dose vials in cartons containing 1 vial each (NDC 0409-0366-01)
-- Docetaxel Injection, USP 80 mg/4 mL multiple-dose vials in cartons containing 1 vial each (NDC 0409-0367-01)
-- Docetaxel Injection, USP 160 mg/8 mL multiple-dose vials in cartons containing 1 vial each (NDC 0409-0368-01)
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-0366-01 Carton of 1 single-dose vial | 20 mg/mL |
+| NDC 0409-0367-01 Carton of 1 multiple-dose vial | 80 mg/4 mL (20 mg/mL) |
+| NDC 0409-0368-01 Carton of 1 multiple-dose vial | 160 mg/8 mL (20 mg/mL) |
 
 ## 16.2 Storage
 
