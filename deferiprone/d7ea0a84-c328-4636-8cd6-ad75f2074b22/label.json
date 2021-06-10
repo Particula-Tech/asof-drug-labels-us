@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213239"
+  ],
+  "inn": "deferiprone",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0576-25",
+    "0054-0576-28"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "deferiprone",
+      "name": "Deferiprone"
+    }
+  ],
+  "setid": "d7ea0a84-c328-4636-8cd6-ad75f2074b22",
+  "source": "dailymed"
+}
