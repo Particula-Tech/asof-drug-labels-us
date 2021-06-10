@@ -277,6 +277,4 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Catalent Pharma Solutions 2725 Scherer Drive North St. Petersburg, FL 33716
-
-Revised: 8/2018 CAT:ISOTSP:R2
+Revised: 4/2018 CAT:ISOTFR:R5

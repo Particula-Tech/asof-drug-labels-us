@@ -41,11 +41,15 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-©2002-2016 Mylan Pharmaceuticals Inc.
+Made in France
+
+AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
+
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCATSP:6611:93:30C:R2
+MCAT:6611:93:30C:R3
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -90,11 +94,15 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-©2002-2016 Mylan Pharmaceuticals Inc.
+Made in France
+
+AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
+
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCATSP:6612:93:30C:R2
+MCAT:6612:93:30C:R3
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -139,8 +147,12 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-©2002-2016 Mylan Pharmaceuticals Inc.
+Made in France
+
+AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
+
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCATSP:6614:93:30C:R2
+MCAT:6614:93:30C:R3
