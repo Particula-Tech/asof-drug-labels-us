@@ -1,12 +1,12 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Embryo-Fetal Toxicity Due to PEG 400 and NADA Excipients
+## 5.1 Potential Risk of Exposure to Excipients During Early Pregnancy
 
-This formulation of Vancomycin Injection is not recommended during pregnancy because it contains the excipients PEG 400 and NADA, which caused fetal malformations in animal reproduction studies.
-The active ingredient vancomycin is not known to be associated with embryo-fetal toxicity [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
-
-Advise pregnant women of the potential risk to the fetus.
-If use of vancomycin is needed during pregnancy, use other available formulations of vancomycin.
+If use of vancomycin is needed during the first or second trimester of pregnancy, use other available formulations of vancomycin.
+This formulation of Vancomycin Injection contains the excipients polyethylene glycol (PEG 400) and N-acetyl D-alanine (NADA).
+In a rabbit reproduction study, fetal spinal malformations occurred when the excipient PEG 400 was administered at dose exposures approximately 8 times the exposure at the maximum daily human dose.
+In a separate rabbit reproduction study, fetal spinal and cardiovascular malformations occurred when the excipient NADA was administered at dose exposures approximately 32 times the exposure at the maximum daily human dose.
+The active ingredient vancomycin is not known to be associated with embryo-fetal toxicity [see Use in Specific Populations (8.1)].
 
 ## 5.2 Infusion Reactions
 
@@ -97,6 +97,10 @@ Thrombophlebitis may occur, the frequency and severity of which can be minimized
 Intraperitoneal administration during continuous ambulatory peritoneal dialysis (CAPD) can result in chemical peritonitis.
 Manifestations range from cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
 This syndrome appears to be resolved after discontinuation of intraperitoneal vancomycin.
+
+About 60% of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in 6 hours.
+Serum concentrations of about 10 mcg/mL are achieved by intraperitoneal injection of 30 mg/kg of vancomycin.
+However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials.
 
 ## 5.10 Development of Drug-Resistant Bacteria
 

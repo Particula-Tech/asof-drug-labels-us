@@ -14,6 +14,9 @@ In subjects with normal kidney function, multiple intravenous dosing of 1 g of v
 Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg/mL at the completion of infusion, mean plasma concentrations of about 19 mcg/mL 2 hours after infusion, and mean plasma concentrations of about 10 mcg/mL 6 hours after infusion.
 The plasma concentrations during multiple dosing are like those after a single dose.
 
+In healthy subjects administered a single 1g dose of Vancomycin Injection, geometric mean (geometric %CV) AUC0-inf values for NADA, PEG 400, and vancomycin were 209 (19.6%), 405 (12.5%), and 219 (13.7%) mcg*h/mL, respectively.
+Based on a population pharmacokinetic analysis, 1g Vancomycin Injection administered over 1.5 hours every 12 hours achieves a geometric mean (95% prediction interval) steady state AUC0-24 exposure of 384 (277-547), 734 (550-994), and 384 (261-567) mcg*h/mL for NADA, PEG 400, and vancomycin in healthy subjects, respectively.
+
 Distribution
 
 The volume of distribution ranges from 0.3 to 0.43 L/kg after intravenous administration.
@@ -38,9 +41,7 @@ Excretion
 In the first 24 hours after intravenous administration, about 75% of an administered dose of vancomycin is excreted in urine by glomerular filtration.
 Renal impairment slows excretion of vancomycin.
 
-About 60% of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in 6 hours.
-Serum concentrations of about 10 mcg/mL are achieved by intraperitoneal injection of 30 mg/kg of vancomycin.
-However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials [see Warnings and Precautions (5.8)].
+In the first 48 hours after intravenous administration of a single 1 g dose of Vancomycin Injection, the percent excreted unchanged in urine was approximately 80% and 50% for NADA and PEG 400, respectively.
 
 ## 12.4 Microbiology
 

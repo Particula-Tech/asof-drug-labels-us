@@ -2,23 +2,18 @@
 
 ## 2.1 Important Administration Instructions
 
-Use this formulation of Vancomycin Injection only in patients who require the entire (500 mg, 750 mg, 1 g, 1.25 g, 1.5 g, 1.75 g or 2 g) dose and not any fraction thereof.
-
-Vancomycin Injection in transparent single-dose flexible bags are intended for intravenous use only.
-Do NOT administer orally.
-
-To reduce the risk of infusion related adverse reactions, administer Vancomycin Injection by intravenous infusion over 60 minutes or greater [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
-An infusion rate of 10 mg/min or less is associated with fewer infusion-related events [see Warnings and Precautions (5.2)].
-Infusion related events may occur, however, at any rate or concentration.
-
-Drug additives should not be made to this solution.
-
-Vancomycin Injection concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
-See also age-specific recommendations [see Dosage and Administration (2.3)].
-
-Administer Vancomycin Injection prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.2)].
-
-Administer Vancomycin Injection by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.9)].
+- Obtain a pregnancy test in females of reproductive potential prior to initiating treatment with Vancomycin Injection [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
+- Use this formulation of Vancomycin Injection only in patients who require the entire (500 mg, 750 mg, 1 g, 1.25 g, 1.5 g, 1.75 g or 2 g) dose and not any fraction thereof.
+- Vancomycin Injection in transparent single-dose flexible bags are intended for intravenous use only.
+  Do NOT administer orally.
+- To reduce the risk of infusion related adverse reactions, administer Vancomycin Injection by intravenous infusion over 60 minutes or greater [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+  An infusion rate of 10 mg/min or less is associated with fewer infusion-related events [see Warnings and Precautions (5.2)].
+  Infusion related events may occur, however, at any rate or concentration.
+- Drug additives should not be made to this solution.
+- Vancomycin Injection concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
+  See also age-specific recommendations [see Dosage and Administration (2.3)].
+- Administer Vancomycin Injection prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.2)].
+- Administer Vancomycin Injection by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.9)].
 
 ## 2.2 Dosage in Adult Patients with Normal Renal Function
 

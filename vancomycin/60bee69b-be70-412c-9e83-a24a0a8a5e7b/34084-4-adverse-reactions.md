@@ -5,7 +5,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - Infusion Reactions [see Warnings and Precautions (5.2)]
 - Nephrotoxicity [see Warnings and Precautions (5.3)]
 - Ototoxicity [see Warnings and Precautions (5.4)]
-- Clostridioides Difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
+- Severe Dermatologic Reactions [see Warnings and Precautions (5.5)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
 - Hemorrhagic Occlusive Retinal Vasculitis [see Warnings and Precautions (5.7)]
 - Neutropenia [see Warnings and Precautions (5.8)]
 
@@ -15,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions associated with the use of vancomycin were identified in clinical trials:
 
-Immune System Disorders: Hypersensitivity reactions including anaphylaxis and "red man syndrome" [see Warnings and Precautions (5.2)]
+Immune System Disorders: Hypersensitivity reactions including anaphylaxis and "red man syndrome"[see Warnings and Precautions (5.2)]
 
 Skin and Subcutaneous Tissue Disorders: Erythema (especially of the face, neck and upper torso) and pruritus which are manifestations of rashes including exfoliative dermatitis.
 Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), Linear IgA bullous dermatosis (LABD) [see Warnings and Precautions (5.5)].
@@ -44,7 +45,7 @@ Vascular Disorders: Hypotension, shock, vasculitis
 
 ## 6.2 Post Marketing Experience
 
-The following adverse reactions have been identified during post marketing use of vancomycin.
+The following adverse reactions have been identified during postmarketing use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) [see Warnings and Precautions (5.5)].

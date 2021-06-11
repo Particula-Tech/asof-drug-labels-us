@@ -12,11 +12,11 @@ For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
 
-VANCO READY™
-
 xellia PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bag Carton - 12 Bag
+
+Rx Only Sterile
 
 NDC 70594-041-03 Contains twelve (12) single-dose Flexible Bags of NDC 70594-041-01
 
@@ -28,8 +28,6 @@ For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 
 Discard unused portion.
-
-VANCO READY™
 
 xellia PHARMACEUTICALS
 
@@ -46,8 +44,6 @@ Ready To Use
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
-
-VANCO READY™
 
 xellia PHARMACEUTICALS
 
@@ -81,9 +77,8 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
-Discard unused portion.
 
-VANCO READY™
+Discard unused portion.
 
 xellia PHARMACEUTICALS
 
@@ -99,9 +94,8 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
-Discard unused portion.
 
-VANCO READY™
+Discard unused portion.
 
 xellia PHARMACEUTICALS
 
@@ -119,8 +113,6 @@ For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
 
-VANCO READY™
-
 xellia PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 150 mL Bag Carton - 12 Bag
@@ -136,8 +128,6 @@ Ready To Use
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
-
-VANCO READY™
 
 xellia PHARMACEUTICALS
 
@@ -155,8 +145,6 @@ For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
 
-VANCO READY™
-
 xellia PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 350 mL Bag Carton
@@ -172,7 +160,5 @@ Ready To Use
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
 Discard unused portion.
-
-VANCO READY™
 
 xellia PHARMACEUTICALS
