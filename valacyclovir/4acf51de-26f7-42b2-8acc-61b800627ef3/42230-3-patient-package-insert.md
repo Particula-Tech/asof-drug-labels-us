@@ -128,5 +128,5 @@ Inactive ingredients: crospovidone, FD&C blue #2/indigo carmine aluminum lake, h
 This Patent Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 02/2020
+Manufactured by: APL Healthcare Limited Unit-IV (MP SEZ), SPSR Nellore (Dt)-524 421 Andhra Pradesh, India.
+M.L.No.: 04/NLR/AP/2016/F/CC Revised: 04/2021
