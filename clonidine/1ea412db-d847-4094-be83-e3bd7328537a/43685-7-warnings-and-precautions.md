@@ -68,11 +68,11 @@ In combination with amitriptyline, clonidine hydrochloride administration led to
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 or 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m2 basis).
+Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 or 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m 2 basis).
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
 Fertility of male or female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times MRDHD).
-In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis, 2 to 8 times the MRDHD on a mg/m2 basis).
+In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis, 2 to 8 times the MRDHD on a mg/m 2 basis).
 
 ## Pregnancy
 
@@ -81,9 +81,9 @@ In a separate experiment, fertility of female rats appeared to be affected at do
 Pregnancy Category C
 
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
-In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
+In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m 2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6 to 15.
-Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 mcg/kg).
+Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m 2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 mcg/kg).
 
 No adequate, well-controlled studies have been conducted in pregnant women.
 Clonidine crosses the placental barrier (see CLINICAL PHARMACOLOGY, Pharmacokinetics).

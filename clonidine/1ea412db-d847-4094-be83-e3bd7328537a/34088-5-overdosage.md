@@ -19,4 +19,4 @@ The largest overdose reported to date involved a 28-year old male who ingested 1
 This patient developed hypertension followed by hypotension, bradycardia, apnea, hallucinations, semicoma, and premature ventricular contractions.
 The patient fully recovered after intensive treatment.
 Plasma clonidine levels were 60 ng/mL after 1 hour, 190 ng/mL after 1.5 hours, 370 ng/mL after 2 hours, and 120 ng/mL after 5.5 and 6.5 hours.
-In mice and rats, the oral LD50 of clonidine is 206 and 465 mg/kg, respectively.
+In mice and rats, the oral LD 50 of clonidine is 206 and 465 mg/kg, respectively.
