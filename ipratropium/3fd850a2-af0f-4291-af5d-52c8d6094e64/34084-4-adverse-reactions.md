@@ -45,4 +45,4 @@ Table 2 % of Patients with SAR Reporting EventsThis table includes adverse event
 
 There were no reports of allergic-type reactions in the controlled clinical common cold and SAR trials.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

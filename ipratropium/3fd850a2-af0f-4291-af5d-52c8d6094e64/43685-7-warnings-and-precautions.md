@@ -8,7 +8,7 @@ If such a reaction occurs, therapy with Ipratropium Bromide Nasal Solution 0.06%
 ## General: 1. Effects Seen with Anticholinergic Drugs: Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
 
 2.
-Use in Hepatic or Renal Disease: Ipratropium bromide nasal solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
+Use in Hepatic or Renal Disease: Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
 It should be used with caution in those patient populations.
 
 ## Information for Patients:
@@ -39,14 +39,14 @@ At an oral dose of 500 mg/kg (approximately 16,000 times the maximum recommended
 
 ### Teratogenic Effects:
 
-Pregnancy Category B. There are no adequate and well-controlled studies for Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in pregnant women.
+There are no adequate and well-controlled studies for Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) should be used during pregnancy only if clearly needed.
 
 Oral reproduction studies were performed at ipratropium doses of 10 mg/kg in mice, 1,000 mg/kg in rats and 125 mg/kg in rabbits.
 These doses correspond, in each species respectively, to approximately 60, 12,000, and 3,000 times the maximum recommended daily intranasal dose (MRDID) in adults on a mg/m2 basis.
 Inhalation reproduction studies were conducted in rats and rabbits at doses of 1.5 and 1.8 mg/kg, respectively (approximately 20 and 45 times, respectively, the MRDID in adults on a mg/m2 basis).
 These studies demonstrated no evidence of teratogenic effects as a result of ipratropium bromide.
-At oral doses above 90 mg/kg in rats (approximately 1,100 times the MRDID in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
+At oral doses above 90 mg/kg in rats (approximately 1,100 times the MRDID in adults on a mg/m2 basis), embryotoxicity was observed as increased resorption.
 This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
 
 ## Labor and Delivery:
@@ -61,7 +61,7 @@ Because lipid-insoluble quaternary cations pass into breast milk, caution should
 ## Pediatric Use:
 
 The safety of Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) at a dose of two sprays (84 mcg) per nostril three times a day (total dose 504 mcg/day) for two to four days has been demonstrated in two clinical trials involving 362 pediatric patients 5-11 years of age with naturally acquired common colds.
-In this pediatric population Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) had an adverse event profile similar to that observed in adolescent and adult patients.
+In this pediatric population, Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) had an adverse event profile similar to that observed in adolescent and adult patients.
 When Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) was concomitantly administered with an oral decongestant (pseudoephedrine HCl) in 122 children ages 5-12 years, and concomitantly administered with an oral decongestant/antihistamine combination (pseudoephedrine HCl/chlorpheniramine maleate) in 123 children ages 5-12 years, adverse event profiles were similar to Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) alone.
 The safety of Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) at a dose of two sprays (84 mcg) per nostril four times a day (total dose 672 mcg/day) for three weeks in pediatric seasonal allergic rhinitis patients down to 5 years is based upon the safety demonstrated in the pediatric common cold trials and the trial in adult and adolescent patients 12 to 75 years of age with seasonal allergic rhinitis.
 The effectiveness of Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) for the treatment of rhinorrhea associated with the common cold and seasonal allergic rhinitis in this pediatric age group is based on extrapolation of the demonstrated efficacy of Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in adolescents and adults with the conditions and the likelihood that the disease course, pathophysiology, and the drug’s effects are substantially similar to that of adults.

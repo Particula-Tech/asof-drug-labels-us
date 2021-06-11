@@ -8,21 +8,32 @@ Rx only
 
 Allergic-type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
 
-Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
+Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (e.g., diarrhea, nausea, vomiting), bowel obstruction, constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
 
 After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma, supraventricular tachycardia and atrial fibrillation have been reported.
 
-Revised July 2016
+Distributed by:
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Bausch + Lomb, a division of
 
-© Bausch & Lomb Incorporated
+Bausch Health US, LLC
 
-9049310 (Folded)
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+© 2019 Bausch & Lomb Incorporated or its affiliates
+
+| Revised: May 2019 | 9681801 (Folded) |
+| --- | --- |
 
 # PATIENT'S INSTRUCTIONS FOR USE
 
-Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray)
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) 42 mcg/spray
 
 Rx only
 
@@ -102,14 +113,28 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
 
-STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
+STORAGE: Store at 68° to 77°F (20° to 25°C); excursions are permitted to 59° to 86°F (15° to 30°C).
 Avoid freezing.
 Keep out of reach of children.
 
-Revised: July 2016
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Distributed by:
 
-© Bausch & Lomb Incorporated
+Bausch + Lomb, a division of
 
-9049310 (Folded)
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+© 2019 Bausch & Lomb Incorporated or its affiliates
+
+Revised: May 2019
+
+9681801 (Folded)

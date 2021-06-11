@@ -1,6 +1,6 @@
 # STORAGE:
 
-Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
+Store at 20° to 25°C (68° to 77°F); excursions are permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
