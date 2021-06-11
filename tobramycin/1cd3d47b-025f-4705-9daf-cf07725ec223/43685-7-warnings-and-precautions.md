@@ -3,13 +3,8 @@
 ## 5.1 Ototoxicity
 
 Caution should be exercised when prescribing BETHKIS to patients with known or suspected auditory or vestibular dysfunction.
-Caution should be exercised when prescribing BETHKIS to patients with known or suspected auditory or vestibular dysfunction.
 
 Findings related to ototoxicity as measured by audiometric evaluations and auditory adverse event reports were similar between BETHKIS and placebo in controlled clinical trials.
-Hearing loss was reported in two (1.1%) BETHKIS-treated patients and in one (0.9%) placebo-treated patient during clinical studies.
-Additionally, dizziness and vertigo, both of which may be manifestations of vestibular forms of ototoxicity, were observed in similar numbers of BETHKIS- and placebo-treated patients.
-Dizziness occurred in two (1.1%) BETHKIS-treated patients and one (0.9%) placebo-treated patient and vertigo occurred in two (1.1%) BETHKIS-treated patients versus no placebo patients in clinical studies.
-None of the BETHKIS patients discontinued their therapy due to hearing loss, dizziness or vertigo.Findings related to ototoxicity as measured by audiometric evaluations and auditory adverse event reports were similar between BETHKIS and placebo in controlled clinical trials.
 Hearing loss was reported in two (1.1%) BETHKIS-treated patients and in one (0.9%) placebo-treated patient during clinical studies.
 Additionally, dizziness and vertigo, both of which may be manifestations of vestibular forms of ototoxicity, were observed in similar numbers of BETHKIS- and placebo-treated patients.
 Dizziness occurred in two (1.1%) BETHKIS-treated patients and one (0.9%) placebo-treated patient and vertigo occurred in two (1.1%) BETHKIS-treated patients versus no placebo patients in clinical studies.
@@ -25,7 +20,7 @@ If ototoxicity is noted, the patient should be managed as medically appropriate,
 
 ## 5.2 Nephrotoxicity
 
-Caution should be exercised when prescribing BETHKIS to patients with known or suspected renal dysfunction.Caution should be exercised when prescribing BETHKIS to patients with known or suspected renal dysfunction.
+Caution should be exercised when prescribing BETHKIS to patients with known or suspected renal dysfunction.
 
 Nephrotoxicity was not seen during BETHKIS clinical studies but has been associated with aminoglycosides as a class.
 Patients with known or suspected renal dysfunction or taking concomitant nephrotoxic drugs along with BETHKIS should have serum concentrations of tobramycin and laboratory measurements of renal function obtained at the discretion of the treating physician.
@@ -33,13 +28,10 @@ If nephrotoxicity develops, the patient should be managed as medically appropria
 
 Twenty-six (14%) BETHKIS patients and 15 (13%) placebo patients had increases in serum creatinine of at least 50% over baseline.
 Follow-up values were obtained for 17 of the 26 BETHKIS patients, all of which decreased to serum creatinine values that were within normal laboratory ranges.
-Patients who experience an increase in serum creatinine during treatment with BETHKIS should have their renal function closely monitored.Twenty-six (14%) BETHKIS patients and 15 (13%) placebo patients had increases in serum creatinine of at least 50% over baseline.
-Follow-up values were obtained for 17 of the 26 BETHKIS patients, all of which decreased to serum creatinine values that were within normal laboratory ranges.
 Patients who experience an increase in serum creatinine during treatment with BETHKIS should have their renal function closely monitored.
 
 ## 5.3 Neuromuscular Disorders
 
-BETHKIS should be used cautiously in patients with muscular disorders.
 BETHKIS should be used cautiously in patients with muscular disorders.
 
 Aminoglycosides, including tobramycin, may aggravate muscle weakness because of a potential curare-like effect on neuromuscular function.

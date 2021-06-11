@@ -8,14 +8,14 @@
 2. Weber A, Smith A, Williams-Warren J, et al. Nebulizer delivery of tobramycin to the lower respiratory tract.
    Pediatr Pulmonol.
    1994; 17(5):331-9.
-3. Clinical and laboratory Standards Institute (CLSI) Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically: Approved Standard -9 th edition.
+3. Clinical and laboratory Standards Institute (CLSI) Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically: Approved Standard -9th edition.
    CLSI document M07-A9.
    CLSI 940 West Valley Rd.
    Suite 1400, Wayne PA 19087-1898.
    2012
-4. CLSI Performance Standards for Antimicrobial Susceptibility Testing: 22 nd Informational supplement CLSI document M100-S22.
+4. CLSI Performance Standards for Antimicrobial Susceptibility Testing: 22nd Informational supplement CLSI document M100-S22.
    CLSI 2012.
-5. CLSI Performance standards for Antimicrobial Disk Susceptibility Tests: Approved standard -11 th ed.
+5. CLSI Performance standards for Antimicrobial Disk Susceptibility Tests: Approved standard -11th ed.
    CLSI document M02-A11.
    CLSI 2012.
 6. PARI Vios Aerosol Delivery System with LC Plus Nebulizer: Instructions for Use.
