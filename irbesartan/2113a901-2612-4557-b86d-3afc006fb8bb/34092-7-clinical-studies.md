@@ -57,7 +57,7 @@ Table 1: IDNT: Components of Primary Composite Endpoint
 
 The secondary endpoint of the study was a composite of cardiovascular mortality and morbidity (myocardial infarction, hospitalization for heart failure, stroke with permanent neurological deficit, amputation).
 There were no statistically significant differences among treatment groups in these endpoints.
-Compared with placebo, Irbesartan significantly reduced proteinuria by about 27%, an effect that was evident within 3 months of starting therapy.
+Compared with placebo, irbesartan significantly reduced proteinuria by about 27%, an effect that was evident within 3 months of starting therapy.
 Irbesartan significantly reduced the rate of loss of renal function (glomerular filtration rate), as measured by the reciprocal of the serum creatinine concentration, by 18.2%.
 Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
