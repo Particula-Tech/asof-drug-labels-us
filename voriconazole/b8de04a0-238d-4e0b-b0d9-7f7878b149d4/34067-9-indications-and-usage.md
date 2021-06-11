@@ -2,7 +2,7 @@
 
 ## 1.1 Invasive Aspergillosis
 
-Voriconazole is indicated in adults and pediatric patients (2 years of age and older) for the treatment of invasive apergillosis (IA).
+Voriconazole is indicated in adults and pediatric patients (2 years of age and older) for the treatment of invasive aspergillosis (IA).
 In clinical trials, the majority of isolates recovered were Aspergillus fumigatus.
 There was a small number of cases of culture-proven disease due to species of Aspergillus other than A. fumigatus [see Clinical Studies (14.1, 14.5) and Microbiology (12.4)].
 

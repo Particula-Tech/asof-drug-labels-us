@@ -25,7 +25,7 @@ Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bon
 There was no evidence of maternal toxicity at any dose.
 
 Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7–19) at 10, 40, and 100 mg/kg/day.
-Voriconazole was associated withincreased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
+Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
 Fetal skeletal variations (increases in the incidence of cervical rib and extra sternebral ossification sites) were observed at 100 mg/kg/day.
 
 In a peri- and postnatal toxicity study in rats, voriconazole was administered orally to female rats from implantation through the end of lactation at 1, 3, and 10 mg/kg/day.
