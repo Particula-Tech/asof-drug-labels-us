@@ -72,10 +72,10 @@ Manufactured for Prasco Laboratories
 
 Mason, Ohio 45040 USA
 
-by Catalent Pharma Solutions, LLC
+by Woodstock Sterile Solutions, Inc.
 
 Woodstock, Illinois 60098
 
 Printed in USA
 
-CTB-013-1119-00-SPL
+CTB-013-0521-01-SPL

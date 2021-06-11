@@ -142,7 +142,7 @@ If the infection is not properly managed, it will continue to damage your lungs 
 For more information, go to www.prasco.com or call 1-866-525-0688.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-01/2020
+05/2021
 
 ## Instructions for Use
 
@@ -279,12 +279,12 @@ Manufactured for Prasco Laboratories
 
 Mason, Ohio 45040 USA
 
-by Catalent Pharma Solutions, LLC
+by Woodstock Sterile Solutions, Inc.
 
 Woodstock, Illinois 60098
 
 All trademarks referenced herein are the property of their prospective owners.
 
-Issued: 01/2020
+Issued:05/2021
 
-CTB-014-1119-00-SPL
+CTB-014-0521-01-SPL
