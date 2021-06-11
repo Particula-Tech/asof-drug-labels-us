@@ -2,9 +2,9 @@
 
 ## 2.1 Important Administration Instructions for Use in All Patients
 
-VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
+VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
-Administer diluted VFEND I.V. by intravenous infusion over 1 to 2 hours only.
+Administer diluted VFEND I.V. by intravenous infusion over 1 to 3 hours only.
 Do not administer as an IV bolus injection.
 
 ## 2.2 Use of VFEND I.V. With Other Parenteral Drug Products
@@ -92,7 +92,7 @@ Method for Adjusting the Dosing Regimen in Pediatric Patients
 Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg
 
 If patient response is inadequate and the patient is able to tolerate the initial intravenous maintenance dose, the maintenance dose may be increased by 1 mg/kg steps.
-If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps or 50 mg steps to a maximum of 350 g every 12 hours.
+If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps or 50 mg steps to a maximum of 350 mg every 12 hours.
 If patients are unable to tolerate the initial intravenous maintenance dose, reduce the dose by 1 mg/kg steps.
 If patients are unable to tolerate the oral maintenance dose, reduce the dose by 1 mg/kg or 50 mg steps.
 
