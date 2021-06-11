@@ -2,9 +2,9 @@
 
 ## 2.1 Important Administration Instructions for Use in All Patients
 
-VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
+VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
-Administer diluted VFEND I.V. by intravenous infusion over 1 to 2 hours only.
+Administer diluted VFEND I.V. by intravenous infusion over 1 to 3 hours only.
 Do not administer as an IV bolus injection.
 
 ## 2.2 Use of VFEND I.V. with Other Parenteral Drug Products
