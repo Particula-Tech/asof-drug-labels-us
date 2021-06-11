@@ -21,7 +21,6 @@ Table 1: Recommended dosages for naproxen tablets and naproxen sodium tablets
 
 During long-term administration, the dose of naproxen may be adjusted up or down depending on the clinical response of the patient.
 A lower daily dose may suffice for long-term administration.
-The morning and evening doses do not have to be equal in size and the administration of the drug more frequently than twice daily is not necessary.
 
 The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response.
 

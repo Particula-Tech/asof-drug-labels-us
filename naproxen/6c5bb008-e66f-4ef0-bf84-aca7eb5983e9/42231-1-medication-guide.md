@@ -1,13 +1,13 @@
-# Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
-What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+What is the most important information I should know about medicines called Non-Steroidal Anti-inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
 
 - •Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
-- •with increasing doses of NSAIDs
-- •with longer use of NSAIDs
+- owith increasing doses of NSAIDs
+- owith longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
@@ -15,26 +15,25 @@ Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
 - •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-- •anytime during use
-- •without warning symptoms
-- •that may cause death
+- oanytime during use
+- owithout warning symptoms
+- othat may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
-| •past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
+| opast history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | --- | --- |
-| •taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
-| •increasing doses of NSAIDs | •older age |
-| •longer use of NSAIDs | •poor health |
-| •smoking | •advanced liver disease |
-| •drinking alcohol | •bleeding problems |
+| otaking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| oincreasing doses of NSAIDs | oolder age |
+| olonger use of NSAIDs | opoor health |
+| osmoking | oadvanced liver disease |
+| odrinking alcohol | obleeding problems |
 
 NSAIDs should only be used:
 
-- 
-  - •exactly as prescribed
-  - •at the lowest dose possible for your treatment
-  - •for the shortest time needed
+- oexactly as prescribed
+- oat the lowest dose possible for your treatment
+- ofor the shortest time needed
 
 What are NSAIDs?
 
@@ -53,8 +52,9 @@ Before taking NSAIDS, tell your healthcare provider about all of your medical co
 - •have high blood pressure
 - •have asthma
 - •are pregnant or plan to become pregnant.
-  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy.
 - •are breastfeeding or plan to breastfeed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
@@ -101,7 +101,7 @@ Other information about NSAIDs
 - •Aspirin is an NSAID but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- •Some NSAIDs are sold in lower doses without a prescription (over-the counter).
+- •Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs
@@ -126,6 +126,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-September 2019
+May 2021
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
