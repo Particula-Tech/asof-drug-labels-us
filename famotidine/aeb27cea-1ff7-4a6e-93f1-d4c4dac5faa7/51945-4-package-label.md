@@ -2,7 +2,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Famotidine 2 mL Single Dose Vial Label
 
 NDC 63323-739-11 730912
 
-Famotidine Injection, USP
+FAMOTIDINE INJECTION, USP
 
 20 mg per 2 mL (10 mg per mL)
 
@@ -12,16 +12,16 @@ Rx only
 
 Discard Unused Portion.
 
-For Intravenous Use Only After Dilution.
+FOR INTRAVENOUS USE ONLY
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Famotidine 2 mL Single Dose Vial Tray Label
 
 NDC 63323-739-12 730912
 
-Famotidine Injection, USP
+FAMOTIDINE INJECTION, USP
 
 20 mg per 2 mL (10 mg per mL) 25 x 2 mL Single Dose Vials
 
-For Intravenous Use Only After Dilution.
+FOR INTRAVENOUS USE ONLY
 
 Rx only
