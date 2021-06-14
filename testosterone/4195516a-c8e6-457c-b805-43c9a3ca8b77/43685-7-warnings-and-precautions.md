@@ -21,7 +21,7 @@ Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychia
 
 If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
 However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
-Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic steroids.
+Counsel patients concerning the serious adverse reactions associated with abuse the of testosterone and anabolic steroids.
 Conversely, consider the possibility of testosterone and anabolic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
 Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
@@ -101,6 +101,9 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 ### Teratogenic Effects.
 
 Pregnancy Category X. (See CONTRAINDICATIONS.)
+
+Benzyl alcohol can cross the placenta.
+See WARNINGS.
 
 ## Nursing mothers:
 
