@@ -49,13 +49,14 @@ When the patients were administered Cyclosporine Capsules USP MODIFIED with and 
 
 Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/dayTotal daily dose was divided into two doses administered every 12 hours (mg/d) | Dose/weight (mg/kg/d) | AUCAUC was measured over one dosing interval (ng•hr/mL) | Cmax (ng/mL) | TroughTrough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| De novo renal transplantAssay: TDx specific monoclonal fluorescence polarization immunoassay Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
-| Stable renal transplant (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
-| De novo liver transplantAssay: Cyclo-trac specific monoclonal radioimmunoassay Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
-| De novo rheumatoid arthritisAssay: INCSTAR specific monoclonal radioimmunoassay (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |
-| De novo psoriasisWeek 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |
+| Patient Population | Dose/day1 (mg/d) | Dose/weight (mg/kg/d) | AUC2 (ng•hr/mL) |  |  | Cmax (ng/mL) | Trough3 (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| De novo renal transplant4 Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 |  |  | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |  |
+| Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 |  |  | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |  |
+| De novo liver transplant5 Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 |  |  | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |  |
+| De novo rheumatoid arthritis6 (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 |  |  | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |  |
+| De novo psoriasis6 Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 |  |  | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |  |
+| Total daily dose was divided into two doses administered every 12 hoursAUC was measured over one dosing intervalTrough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous doseAssay: TDx specific monoclonal fluorescence polarization immunoassayAssay: Cyclo-trac specific monoclonal radioimmunoassayAssay: INCSTAR specific monoclonal radioimmunoassay |  |  |  |  |  |  |  |  |  |  |
 
 ## Distribution
 
@@ -115,16 +116,17 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 
 Pediatric Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) | AUCAUC was measured over one dosing interval (ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Stable liver transplantAssay: Cyclo-trac specific monoclonal radioimmunoassay |  |  |  |  |  |  |
-| Age 2 to 8, Dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
-| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4 |
-| Stable liver transplantAssay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
-| Age 3, Dosed BID (N = 1) | 120 | 8.33 | 5832 | 1050 | 171 | 11.9 |
-| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11 ± 1.9 |
-| Stable renal transplant |  |  |  |  |  |  |
-| Age 7 to 15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
+| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) |  | AUC1 (ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stable liver transplant2 |  |  |  |  |  |  |  |
+| Age 2 to 8, Dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 |  | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
+| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 |  | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4 |
+| Stable liver transplant3 |  |  |  |  |  |  |  |
+| Age 3, Dosed BID (N = 1) | 120 | 8.33 |  | 5832 | 1050 | 171 | 11.9 |
+| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 |  | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11 ± 1.9 |
+| Stable renal transplant3 |  |  |  |  |  |  |  |
+| Age 7 to 15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 |  | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
+| AUC was measured over one dosing intervalAssay: Cyclo-trac specific monoclonal radioimmunoassayAssay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |  |
 
 ### Geriatric Population
 

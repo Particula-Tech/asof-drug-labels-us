@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Cyclosporine Capsules USP MODIFIED are available as yellow soft gelatin (oval 5) capsules, filled with yellowish to yellow-brown oily liquid, imprinted “Ivax hourglass logo” “25 mg” in blue, containing 25 mg Cyclosporine, USP MODIFIED and 18.6% v/v (14.7% wt/vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-5740-65).
+Cyclosporine Capsules USP MODIFIED are available as yellow soft gelatin (oval 5) capsules, filled with yellowish to yellow-brown oily liquid, printed “Ivax hourglass logo” and “25 mg”, containing 25 mg Cyclosporine, USP MODIFIED and 15.8% v/v (12.4% wt./vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-9018-65).
 
-Cyclosporine Capsules USP MODIFIED are available as ochre-yellow soft gelatin (oblong 11) capsules, filled with yellowish to yellow-brown oily liquid, imprinted “Ivax hourglass logo” “50 mg” in blue, containing 50 mg Cyclosporine, USP MODIFIED and 18.6% v/v (14.7% wt/vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-5741-65).
+Cyclosporine Capsules USP MODIFIED are available as ochre-yellow soft gelatin (oblong 11) capsules, filled with yellowish to yellow-brown oily liquid, printed “Ivax hourglass logo” and “50 mg”, containing 50 mg Cyclosporine, USP MODIFIED and 15.8% v/v (12.4% wt./vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-9019-65).
 
-Cyclosporine Capsules USP MODIFIED are available as brown soft gelatin (oblong 20) capsules, filled with yellowish to yellow-brown oily liquid, imprinted “Ivax hourglass logo” “100 mg” in blue, containing 100 mg Cyclosporine, USP MODIFIED and 18.6% v/v (14.7% wt/vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-5742-65).
+Cyclosporine Capsules USP MODIFIED are available as brown soft gelatin (oblong 20) capsules, filled with yellowish to yellow-brown oily liquid, printed “Ivax hourglass logo” and “100 mg”, containing 100 mg Cyclosporine, USP MODIFIED and 15.8% v/v (12.4% wt./vol) dehydrated alcohol USP, packaged in unit-dose cartons of 30 capsules (NDC 0093-9020-65).
 
 Store and Dispense
 
@@ -18,15 +18,15 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Czech Republic By:
 
-TEVA CZECH INDUSTRIES s.r.o.
+Teva Czech Industries s.r.o.
 
 Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-H 4/2015
+K 3/2021

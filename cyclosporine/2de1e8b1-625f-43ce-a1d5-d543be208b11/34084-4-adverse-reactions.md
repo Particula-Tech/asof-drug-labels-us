@@ -61,7 +61,7 @@ Fatal outcomes have been reported (see WARNINGS).
 
 Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune (Cyclosporine Capsules USP)
 
-| Complication | Cyclosporine Treatment (N = 227) % of Complications | Azathioprine with SteroidsSome patients also received ALG (N = 228) % of Complications |
+| Complication | Cyclosporine Treatment (N = 227) % of Complications | Azathioprine with Steroids1 (N = 228) % of Complications |
 | --- | --- | --- |
 | Septicemia | 5.3 | 4.8 |
 | Abscesses | 4.4 | 5.3 |
@@ -72,6 +72,7 @@ Infectious Complications in Historical Randomized Studies in Renal Transplant Pa
 | Urinary tract infections | 21.1 | 20.2 |
 | Wound and skin infections | 7 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
+| Some patients also received ALG |  |  |
 
 ## Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
@@ -110,12 +111,12 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 
 |  |  | Studies 651 + 652 + 2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651 + 652 + 2008 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Preferred Term | SandimmuneIncludes patients in 2.5 mg/kg/day dose group only. (Cyclosporine Capsules USP) (N = 269) | Sandimmune (Cyclosporine Capsules USP) (N = 155) | Methotrexate & Sandimmune (Cyclosporine Capsules USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Capsules USP MODIFIED (N = 143) | Placebo (N = 201) |
+| Body System | Preferred Term | Sandimmune1 (Cyclosporine Capsules USP) (N = 269) | Sandimmune (Cyclosporine Capsules USP) (N = 155) | Methotrexate & Sandimmune (Cyclosporine Capsules USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Capsules USP MODIFIED (N = 143) | Placebo (N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As a Whole-General Disorders |  |  |  |  |  |  |  |
 |  | Accidental trauma | 0% | 1% | 10% | 4% | 4% | 0% |
-|  | Edema NOSNOS = Not Otherwise Specified. | 5% | 14% | 12% | 4% | 10% | < 1% |
+|  | Edema NOS2 | 5% | 14% | 12% | 4% | 10% | < 1% |
 |  | Fatigue | 6% | 3% | 8% | 12% | 3% | 7% |
 |  | Fever | 2% | 3% | 0% | 0% | 2% | 4% |
 |  | Influenza-like symptoms | < 1% | 6% | 1% | 0% | 3% | 2% |
@@ -137,7 +138,7 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Diarrhea | 12% | 12% | 18% | 15% | 13% | 8% |
 |  | Dyspepsia | 12% | 12% | 10% | 8% | 8% | 4% |
 |  | Flatulence | 5% | 5% | 5% | 4% | 4% | 1% |
-|  | Gastrointestinal disorder NOS | 0% | 2% | 1% | 4% | 4% | 0% |
+|  | Gastrointestinal disorder NOS2 | 0% | 2% | 1% | 4% | 4% | 0% |
 |  | Gingivitis | 4% | 3% | 0% | 0% | 0% | 1% |
 |  | Gum hyperplasia | 2% | 4% | 1% | 3% | 4% | 1% |
 |  | Nausea | 23% | 14% | 24% | 15% | 18% | 14% |
@@ -145,7 +146,7 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Stomatitis | 7% | 5% | 16% | 12% | 6% | 8% |
 |  | Vomiting | 9% | 8% | 14% | 7% | 6% | 5% |
 | Hearing and Vestibular Disorders |  |  |  |  |  |  |  |
-|  | Ear disorder NOS | 0% | 5% | 0% | 0% | 1% | 0% |
+|  | Ear disorder NOS2 | 0% | 5% | 0% | 0% | 1% | 0% |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
 |  | Hypomagnesemia | 0% | 4% | 0% | 0% | 6% | 0% |
 | Musculoskeletal System Disorders |  |  |  |  |  |  |  |
@@ -164,7 +165,7 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Bronchitis | 1% | 3% | 1% | 0% | 1% | 3% |
 |  | Coughing | 5% | 3% | 5% | 7% | 4% | 4% |
 |  | Dyspnea | 5% | 1% | 3% | 3% | 1% | 2% |
-|  | Infection NOS | 9% | 5% | 0% | 7% | 3% | 10% |
+|  | Infection NOS2 | 9% | 5% | 0% | 7% | 3% | 10% |
 |  | Pharyngitis | 3% | 5% | 5% | 6% | 4% | 4% |
 |  | Pneumonia | 1% | 0% | 4% | 0% | 1% | 1% |
 |  | Rhinitis | 0% | 3% | 11% | 10% | 1% | 0% |
@@ -183,6 +184,7 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Urinary tract infection | 0% | 3% | 5% | 4% | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
+| Includes patients in 2.5 mg/kg/day dose group only.NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to < 3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
@@ -276,13 +278,13 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials
 
-| Body SystemTotal percentage of events within the system | Preferred Term | Cyclosporine Capsules USP MODIFIED (N = 182) | Sandimmune (Cyclosporine Capsules USP) (N = 185) |
+| Body System1 | Preferred Term | Cyclosporine Capsules USP MODIFIED (N = 182) | Sandimmune (Cyclosporine Capsules USP) (N = 185) |
 | --- | --- | --- | --- |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-like symptoms | 9.9% | 8.1% |
 |  | Upper respiratory tract infections | 7.7% | 11.3% |
 | Cardiovascular System |  | 28% | 25.4% |
-|  | HypertensionNewly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg | 27.5% | 25.4% |
+|  | Hypertension2 | 27.5% | 25.4% |
 | Urinary System |  | 24.2% | 16.2% |
 |  | Increased creatinine | 19.8% | 15.7% |
 | Central and Peripheral Nervous System |  | 26.4% | 20.5% |
@@ -307,6 +309,7 @@ Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clini
 |  | Gum hyperplasia | 3.8% | 6% |
 |  | Nausea | 5.5% | 5.9% |
 | White cell and RES |  | 4.4% | 2.7% |
+| Total percentage of events within the systemNewly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 

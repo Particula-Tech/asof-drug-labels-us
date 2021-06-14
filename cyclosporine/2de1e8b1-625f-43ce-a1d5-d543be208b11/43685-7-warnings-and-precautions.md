@@ -45,16 +45,17 @@ Nephrotoxicity vs. Rejection
 | Parameter | Nephrotoxicity | Rejection |
 | --- | --- | --- |
 | History | Donor > 50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune response Retransplant patient |
-| Clinical | Often > 6 weeks postopp < 0.01 Prolonged initial nonfunction (acute tubular necrosis) | Often < 4 weeks postop Fever > 37.5°C Weight gain > 0.5 kg Graft swelling and tenderness Decrease in daily urine volume > 500 mL (or 50%) |
-| Laboratory | CyA serum trough level ˃ 200 ng/mL Gradual rise in Cr (< 0.15 mg/dL/day)p < 0.05 Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (˃ 0.3 mg/dL/day) Cr > 25% above baseline BUN/Cr < 20 |
-| Biopsy | Arteriolopathy (medial hypertrophy, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcifications Minimal edema Mild focal infiltratesp < 0.001 Diffuse interstitial fibrosis, often striped form | Endovasculitis (proliferation, intimal arteritis, necrosis, sclerosis) Tubulitis with RBC and WBC casts, some irregular vacuolization Interstitial edema and hemorrhage Diffuse moderate to severe mononuclear infiltratesp < 0.0001 Glomerulitis (mononuclear cells) |
+| Clinical | Often > 6 weeks postop1 Prolonged initial nonfunction (acute tubular necrosis) | Often < 4 weeks postop1 Fever > 37.5°C Weight gain > 0.5 kg Graft swelling and tenderness Decrease in daily urine volume > 500 mL (or 50%) |
+| Laboratory | CyA serum trough level ˃ 200 ng/mL Gradual rise in Cr (< 0.15 mg/dL/day)2 Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (˃ 0.3 mg/dL/day)2 Cr > 25% above baseline BUN/Cr < 20 |
+| Biopsy | Arteriolopathy (medial hypertrophy2, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcifications Minimal edema Mild focal infiltrates3 Diffuse interstitial fibrosis, often striped form | Endovasculitis3 (proliferation2, intimal arteritis1, necrosis, sclerosis) Tubulitis with RBC1 and WBC1 casts, some irregular vacuolization Interstitial edema3 and hemorrhage1 Diffuse moderate to severe mononuclear infiltrates4 Glomerulitis (mononuclear cells)3 |
 | Aspiration Cytology | CyA deposits in tubular and endothelial cells Fine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia > 20% of sediment |
-| Manometry | Intracapsular pressure < 40 mm Hg | Intracapsular pressure > 40 mm Hg |
+| Manometry | Intracapsular pressure < 40 mm Hg1 | Intracapsular pressure > 40 mm Hg1 |
 | Ultrasonography | Unchanged graft cross sectional area | Increase in graft cross sectional area AP diameter ≥ Transverse diameter |
 | Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
+| p < 0.01p < 0.05p < 0.001p < 0.0001 |  |  |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
 From 5% to 15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
