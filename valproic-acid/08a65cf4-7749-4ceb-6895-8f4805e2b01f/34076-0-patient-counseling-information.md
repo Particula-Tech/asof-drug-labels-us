@@ -49,9 +49,9 @@ Instruct patients to notify their healthcare provider if they notice a medicatio
 
 ©1983-2021 AbbVie Inc.
 
-Revised: February 2021
+Revised: June 2021
 
-20067097
+20068449
 
 Mfd. by AbbVie LTD, Barceloneta, PR 00617
 

@@ -247,6 +247,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©1983-2021 AbbVie Inc.
 
-Revised: February 2021
+Revised: June 2021
 
-20067097
+20068449

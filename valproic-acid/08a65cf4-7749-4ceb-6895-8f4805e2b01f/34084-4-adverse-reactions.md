@@ -259,7 +259,7 @@ Metabolism and nutrition: Weight gain.
 
 Reproductive: Aspermia, azoospermia, decreased sperm count, decreased spermatozoa motility, male infertility, and abnormal spermatozoa morphology.
 
-Genitourinary: Enuresis and urinary tract infection.
+Genitourinary: Enuresis, urinary tract infection, and tubulointerstitial nephritis.
 
 Special Senses: Hearing loss.
 
