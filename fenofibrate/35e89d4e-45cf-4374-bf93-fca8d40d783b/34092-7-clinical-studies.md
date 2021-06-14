@@ -7,24 +7,22 @@ Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
 Table 4.
-Mean Percent Change in Lipid Parameters at End of Treatment*
+Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months.
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
 | Pooled Cohort |  |  |  |  |
 | Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%† | -20.6%† | +11.0%† | -28.9%† |
+| All FEN (n=361) | -18.7%p=<0.05 vs. placebo | -20.6% | +11.0% | -28.9% |
 | Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
 | Baseline LDL-C >160 mg/dL and TG <150 mg/dL (Type IIa) |  |  |  |  |
 | Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
-| All FEN (n=193) | -22.4%† | -31.4%† | +9.8%† | -23.5%† |
+| All FEN (n=193) | -22.4% | -31.4% | +9.8% | -23.5% |
 | Placebo (n=141) | +0.2% | -2.2% | +2.6% | +11.7% |
 | Baseline LDL-C >160 mg/dL and TG ≥150 mg/dL (Type IIb) |  |  |  |  |
 | Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
-| All FEN (n=126) | -16.8%† | -20.1%† | +14.6%† | -35.9%† |
+| All FEN (n=126) | -16.8% | -20.1% | +14.6% | -35.9% |
 | Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
-| * Duration of study treatment was 3 to 6 months. |  |  |  |  |
-| † p=<0.05 vs. placebo |  |  |  |  |
 
 In a subset of the subjects, measurements of apo B were conducted.
 Fenofibrate treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
@@ -56,4 +54,4 @@ Effects of Fenofibrate in Patients With Severe Hypertriglyceridemia
 | HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9* |
 | LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0* |
 | VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4* |
-| *p=<0.05 vs. placebo |  |  |  |  |  |  |  |  |
+| * p=<0.05 vs. placebo |  |  |  |  |  |  |  |  |

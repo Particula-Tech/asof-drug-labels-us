@@ -34,7 +34,23 @@ A secondary prevention component of the Helsinki Heart Study enrolled middle-age
 Subjects received gemfibrozil or placebo for 5 years.
 Although cardiac deaths trended higher in the gemfibrozil group, this was not statistically significant (hazard ratio 2.2, 95% confidence interval: 0.94-5.05).
 
-## 5.2 Skeletal Muscle
+## 5.2 Hepatotoxicity
+
+Serious drug-induced liver injury (DILI), including liver transplantation and death, have been reported postmarketing with FENOGLIDE.
+DILI has been reported within the first few weeks of treatment or after several months of therapy and in some cases has reversed with discontinuation of FENOGLIDE treatment.
+Patients with DILI have experienced signs and symptoms including dark urine, abnormal stool, jaundice, malaise, abdominal pain, myalgia, weight loss, pruritus, and nausea.
+Many patients had concurrent elevations of total bilirubin, serum alanine transaminase (ALT), and aspartate transaminase (AST).
+DILI has been characterized as hepatocellular, chronic active, and cholestatic hepatitis, and cirrhosis has occurred in association with chronic active hepatitis.
+
+In clinical trials, fenofibrate at doses equivalent to 87 mg to 130 mg fenofibrate daily (at the highest dose, comparable to FENOGLIDE, 120 mg) has been associated with increases in serum AST or ALT.
+The incidence of increases in transaminases may be dose related [see Adverse Reactions (6.1)].
+
+FENOGLIDE is contraindicated in patients with active liver disease, including those with primary biliary cirrhosis and unexplained persistent liver function abnormalities [see Contraindications (4)].
+Monitor patient’s liver function, including serum ALT, AST, and total bilirubin, at baseline and periodically for the duration of therapy with FENOGLIDE.
+Discontinue FENOGLIDE if signs or symptoms of liver injury develop or if elevated enzyme levels persist (ALT or AST > 3 times the upper limit of normal, or if accompanied by elevation of bilirubin).
+Do not restart FENOGLIDE in these patients if there is no alternative explanation for the liver injury.
+
+## 5.3 Myopathy and Rhabdomyolysis
 
 Fibrates increase the risk for myopathy and have been associated with rhabdomyolysis.
 The risk for serious muscle toxicity appears to be increased in elderly patients and in patients with diabetes, renal insufficiency, or hypothyroidism.
@@ -44,24 +60,10 @@ Myopathy should be considered in any patient with diffuse myalgias, muscle tende
 Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 CPK levels should be assessed in patients reporting these symptoms, and FENOGLIDE therapy should be discontinued if markedly elevated CPK levels occur or myopathy/myositis is suspected or diagnosed.
 
-Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
+Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with a statin.
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
-- Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
-
-## 5.3 Liver Function
-
-Fenofibrate at doses equivalent to 87 mg to 130 mg fenofibrate per day [at the highest dose, comparable to FENOGLIDE, 120 mg] has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
-
-In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
-When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
-The incidence of increases in transaminases related to fenofibrate therapy appears to be dose related.
-In an 8-week dose-ranging study, the incidence of ALT or AST elevations to at least three times the upper limit of normal was 13% in patients receiving dosages equivalent to 87 mg to 130 mg fenofibrate per day and was 0% in those receiving dosages equivalent to 43 mg or less fenofibrate per day, or placebo.
-
-Hepatocellular, chronic active and cholestatic hepatitis have been reported after exposures of weeks to several years.
-In extremely rare cases, cirrhosis has been reported in association with chronic active hepatitis.
-
-Baseline and regular periodic monitoring of liver tests, including serum ALT (SGPT) should be performed for the duration of therapy with FENOGLIDE, and therapy discontinued if enzyme levels persist above three times the normal limit.
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
 
 ## 5.4 Serum Creatinine
 

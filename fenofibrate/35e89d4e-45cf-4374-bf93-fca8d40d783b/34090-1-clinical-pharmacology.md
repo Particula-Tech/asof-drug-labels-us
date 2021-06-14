@@ -36,16 +36,16 @@ A high-fat meal did not affect the fenofibric acid AUC after FENOGLIDE administr
   However, fenofibrate is well absorbed from the gastrointestinal tract.
   Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
   Peak plasma levels of fenofibric acid from FENOGLIDE occur, on average, within 2 to 3 hours after administration.
-  Doses of three FENOGLIDE (fenofibrate) Tablets, 40 mg are considered to be equivalent to single doses of FENOGLIDE (fenofibrate) Tablets, 120 mg.
+- Doses of three FENOGLIDE (fenofibrate) Tablets, 40 mg are considered to be equivalent to single doses of FENOGLIDE (fenofibrate) Tablets, 120 mg.
 - •Distribution: In healthy volunteers, steady-state plasma levels of fenofibric acid were shown to be achieved within a week of dosing and did not demonstrate accumulation across time following multiple dose administration.
   Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 - •Metabolism: Following oral administration, fenofibrate is rapidly hydrolyzed by esterases to the active metabolite, fenofibric acid; no unchanged fenofibrate is detected in plasma.
-  Fenofibric acid is primarily conjugated with glucuronic acid and then excreted in urine.
+- Fenofibric acid is primarily conjugated with glucuronic acid and then excreted in urine.
   A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhydrol metabolite which is, in turn, conjugated with glucuronic acid and excreted in urine.
-  In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
+- In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
 - •Elimination: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
   After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
-  Fenofibric acid from FENOGLIDE is eliminated with a half-life of 23 hours, allowing once daily dosing.
+- Fenofibric acid from FENOGLIDE is eliminated with a half-life of 23 hours, allowing once daily dosing.
 - •Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
   This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 - •Pediatrics: The pharmacokinetics of FENOGLIDE has not been studied in pediatric populations.
@@ -65,9 +65,9 @@ A high-fat meal did not affect the fenofibric acid AUC after FENOGLIDE administr
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co-Administered Drug | Dosage Regimen of Co- Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen ofFenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | AUC | Cmax |
+|  |  | AUC | Cmax |  |
 | Lipid-lowering agents |  |  |  |  |
 | Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
 | Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
@@ -84,15 +84,16 @@ Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Analyte | AUC | Cmax |  |  |  |  |  |
+| Analyte | AUC | Cmax |  |  |  |  |  |  |  |
 | Lipid-lowering agents |  |  |  |  |  |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |  |  |  |  |  |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |  |  |  |  |  |
-|  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |  |  |  |  |  |
+|  |  | 3α-Hydroxyl- iso-pravastatin | ↑26% | ↑29% |  |  |  |  |  |
 | Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |  |  |  |  |  |
 | Anti-diabetic agents |  |  |  |  |  |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |  |  |  |  |  |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |  |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |  |  |  |  |  |
 | 1 TriCor (fenofibrate) oral tablet |  |  |  |  |  |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |  |  |  |  |
+
+2 TriCor (fenofibrate) oral micronized capsule
