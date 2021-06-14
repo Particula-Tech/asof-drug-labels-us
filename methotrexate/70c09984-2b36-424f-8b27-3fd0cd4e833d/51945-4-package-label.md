@@ -1,7 +1,5 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL - 2.5 mg
-
 NDC 0378-0014-01
 
 Methotrexate Tablets, USP 2.5 mg
@@ -14,7 +12,7 @@ Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF).
 [See USP Controlled Room Temperature.]
 
 Protect from light.
@@ -25,4 +23,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0014A14
+RM0014A15

@@ -24,4 +24,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 5/2020 MTX:R20pt/PL:MTX:R4pt
+Revised: 6/2021 MTX:R21pt/PL:MTX:R4pt
