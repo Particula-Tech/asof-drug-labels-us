@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity
 
-Linezolid is contraindicated for use in patients who have known hypersensitivity to linezolid or any of the other product components.
+Linezolid injection is contraindicated for use in patients who have known hypersensitivity to linezolid or any of the other product components.
 
 ## 4.2 Monoamine Oxidase Inhibitors
 

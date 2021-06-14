@@ -2,13 +2,13 @@
 
 ## 16.1 Injection
 
-Linezolid injection is available in a single-use, ready-to-use flexible plastic container in a foil laminate overwrap.
+Linezolid injection is available in a single-dose, ready-to-use flexible plastic container in a foil laminate overwrap.
 The flexible plastic container and port are latex-free.
 The flexible plastic container is available as follows:
 
-| Product Code | Unit of Sale | Strength | Unit of Use |
+| Product No. | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 713013 | NDC 63323-713-13 Package of 10 freeflex ® bags | 600 mg per 300 mL (2 mg per mL) | NDC 63323-713-03 One 300 mL freeflex ®Bag |
+| 713013 | NDC 63323-713-13 Package of 10 freeflex® bags | 600 mg per 300 mL (2 mg per mL) | NDC 63323-713-03 One 300 mL freeflex® Bag |
 
 ## 16.2 Storage and Handling
 

@@ -2,12 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Linezolid is an antibacterial drug [see Clinical Pharmacology (12.4)].
+Linezolid injection is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single linezolid 600 mg dose via a 1 hour IV infusion, a single linezolid 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
-At both the 600 mg and 1,200 mg linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single Linezolid injection 600 mg dose via a 1 hour IV infusion, a single Linezolid injection 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1,200 mg Linezolid injection doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
 
@@ -17,16 +17,16 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | C max mcg/mL | C min mcg/mL | T max hrs | AUC * mcg•h/mL | t 1/2 hrs | CL mL/min |
+| Dose of Linezolid | Cmax mcg/mL | Cmin mcg/mL | Tmax hrs | AUC* mcg•h/mL | t1/2 hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
-| 400 mg tablet single dose † every 12 hours | 8.10 (1.83) 11 (4.37) | --- 3.08 (2.25) | 1.52 (1.01) 1.12 (0.47) | 55.10 (25) 73.40 (33.50) | 5.20 (1.50) 4.69 (1.70) | 146 (67) 110 (49) |
-| 600 mg tablet single dose every 12 hours | 12.70 (3.96) 21.20 (5.78) | --- 6.15 (2.94) | 1.28 (0.66) 1.03 (0.62) | 91.40 (39.30) 138 (42.10) | 4.26 (1.65) 5.40 (2.06) | 127 (48) 80 (29) |
-| 600 mg IV injection ‡ single dose every 12 hours | 12.90 (1.60) 15.10 (2.52) | --- 3.68 (2.36) | 0.50 (0.10) 0.51 (0.03) | 80.20 (33.30) 89.70 (31) | 4.40 (2.40) 4.80 (1.70) | 138 (39) 123 (40) |
-| 600 mg oral suspension single dose | 11 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
-| * AUC for single dose = AUC 0-∞; for multiple dose = AUC 0-τ † Data dose-normalized from 375 mg ‡ Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. C max = Maximum plasma concentration; C min = Minimum plasma concentration; T max = Time to C max; AUC = Area under concentration-time curve; t 1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
-
-Figure 1.
-Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ± Standard Deviation, n=16)
+| 400 mg tablet single dose† every 12 hours | 8.10 (1.83) 11.00 (4.37) | --- 3.08 (2.25) | 1.52 (1.01) 1.12 (0.47) | 55.10 (25.00) 73.40 (33.50) | 5.20 (1.50) 4.69 (1.70) | 146 (67) 110 (49) |
+| 600 mg tablet single dose every 12 hours | 12.70 (3.96) 21.20 (5.78) | --- 6.15 (2.94) | 1.28 (0.66) 1.03 (0.62) | 91.40 (39.30) 138.00 (42.10) | 4.26 (1.65) 5.40 (2.06) | 127 (48) 80 (29) |
+| 600 mg IV injection‡ single dose every 12 hours | 12.90 (1.60) 15.10 (2.52) | --- 3.68 (2.36) | 0.50 (0.10) 0.51 (0.03) | 80.20 (33.30) 89.70 (31.00) | 4.40 (2.40) 4.80 (1.70) | 138 (39) 123 (40) |
+| 600 mg oral suspension single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
+| * AUC for single dose = AUC0-∞; for multiple dose = AUC0-τ |  |  |  |  |  |  |
+| † Data dose-normalized from 375 mg |  |  |  |  |  |  |
+| ‡ Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. |  |  |  |  |  |  |
+| Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
 
 Absorption
 
@@ -35,8 +35,8 @@ Maximum plasma concentrations are reached approximately 1 to 2 hours after dosin
 Therefore, linezolid may be given orally or intravenously without dose adjustment.
 
 Linezolid may be administered without regard to the timing of meals.
-The time to reach the maximum concentration is delayed from 1.5 hours to 2.2 hours and C max is decreased by about 17% when high fat food is given with linezolid.
-However, the total exposure measured as AUC 0-∞ is similar under both conditions.
+The time to reach the maximum concentration is delayed from 1.5 hours to 2.2 hours and Cmax is decreased by about 17% when high fat food is given with linezolid.
+However, the total exposure measured as AUC0-∞ is similar under both conditions.
 
 Distribution
 
@@ -75,7 +75,7 @@ Pediatric Patients
 The pharmacokinetics of linezolid following a single intravenous dose were investigated in pediatric patients ranging in age from birth through 17 years (including premature and full-term neonates), in healthy adolescent subjects ranging in age from 12 through 17 years, and in pediatric patients ranging in age from 1 week through 12 years.
 The pharmacokinetic parameters of linezolid are summarized in Table 9 for the pediatric populations studied and healthy adult subjects after administration of single intravenous doses.
 
-The C max and the volume of distribution (V ss) of linezolid are similar regardless of age in pediatric patients.
+The Cmax and the volume of distribution (Vss) of linezolid are similar regardless of age in pediatric patients.
 However, plasma clearance of linezolid varies as a function of age.
 With the exclusion of pre-term neonates less than one week of age, weight-based clearance is most rapid in the youngest age groups ranging from < 1 week old to 11 years, resulting in lower single-dose systemic exposure (AUC) and a shorter half-life as compared with adults.
 As the age of pediatric patients increases, the weight-based clearance of linezolid gradually decreases, and by adolescence mean clearance values approach those observed for the adult population.
@@ -88,33 +88,27 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | C max mcg/mL | V ss L/kg | AUC* mcg●h/mL | t ½ hrs | CL mL/min/kg |
+| Age Group | Cmax mcg/mL | Vss L/kg | AUC* mcg●h/mL | t½ hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
-| Neonatal Patients Pre-term** < 1 week (N=9) † Full-term*** < 1 week (N=10) † Full-term*** ≥ 1 week to ≤ 28 days (N=10) † | 12.7 (30%) [9.6, 22.2] 11.5 (24%) [8, 18.3] 12.9 (28%) [7.7, 21.6] | 0.81 (24%) [0.43, 1.05] 0.78 (20%) [0.45, 0.96] 0.66 (29%) [0.35, 1.06] | 108 (47%) [41, 191] 55 (47%) [19, 103] 34 (21%) [23, 50] | 5.6 (46%) [2.4, 9.8] 3 (55%) [1.3, 6.1] 1.5 (17%) [1.2, 1.9] | 2 (52%) [0.9, 4] 3.8 (55%) [1.5, 8.8] 5.1 (22%) [3.3, 7.2] |
-| Infant Patients > 28 days to < 3 Months (N=12) † | 11 (27%) [7.2, 18] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
-| Pediatric Patients 3 months through 11 years † (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8] | 3.8 (53%) [1, 8.5] |
-| Adolescent Subjects and Patients 12 through 17 years ‡ (N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
-| Adult Subjects § (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
-
-* AUC = Single dose AUC 0-∞
-
-** In this data set, “pre-term” is defined as < 34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days)
-
-*** In this data set, “full-term” is defined as ≥ 34 weeks gestational age
-
-† Dose of 10 mg/kg
-
-‡ Dose of 600 mg or 10 mg/kg up to a maximum of 600 mg
-
-§ Dose normalized to 600 mg
-
-C max = Maximum plasma concentration; V ss= Volume of distribution; AUC = Area under concentration-time curve; t 1/2 = Apparent elimination half-life; CL = Systemic clearance normalized for body weight
+| Neonatal Patients Pre-term** < 1 week (N=9)† Full-term*** < 1 week (N=10)† Full-term*** ≥ 1 week to ≤ 28 days (N=10)† | 12.7 (30%) [9.6, 22.2] 11.5 (24%) [8.0, 18.3] 12.9 (28%) [7.7, 21.6] | 0.81 (24%) [0.43, 1.05] 0.78 (20%) [0.45, 0.96] 0.66 (29%) [0.35, 1.06] | 108 (47%) [41, 191] 55 (47%) [19, 103] 34 (21%) [23, 50] | 5.6 (46%) [2.4, 9.8] 3 (55%) [1.3, 6.1] 1.5 (17%) [1.2, 1.9] | 2 (52%) [0.9, 4] 3.8 (55%) [1.5, 8.8] 5.1 (22%) [3.3, 7.2] |
+| Infant Patients > 28 days to < 3 Months (N=12)† | 11 (27%) [7.2, 18] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
+| Pediatric Patients 3 months through 11 years† (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8] | 3.8 (53%) [1, 8.5] |
+| Adolescent Subjects and Patients 12 through 17 years‡ (N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
+| Adult Subjects§ (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
+| * AUC = Single dose AUC0-∞ |  |  |  |  |  |
+| ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was |  |  |  |  |  |
+| pre-term with a postnatal age between 1 week and 28 days) |  |  |  |  |  |
+| *** In this data set, “full-term” is defined as ≥34 weeks gestational age |  |  |  |  |  |
+| † Dose of 10 mg/kg |  |  |  |  |  |
+| ‡ Dose of 600 mg or 10 mg/kg up to a maximum of 600 mg |  |  |  |  |  |
+| § Dose normalized to 600 mg |  |  |  |  |  |
+| Cmax = Maximum plasma concentration; Vss= Volume of distribution; AUC = Area under concentration-time curve; t1/2 = Apparent elimination half-life; CL = Systemic clearance normalized for body weight |  |  |  |  |  |
 
 Gender
 
 Females have a slightly lower volume of distribution of linezolid than males.
 Plasma concentrations are higher in females than in males, which is partly due to body weight differences.
-After a 600 mg dose, mean oral clearance is approximately 38% lower in females than in males.
+After a 600-mg dose, mean oral clearance is approximately 38% lower in females than in males.
 However, there are no significant gender differences in mean apparent elimination-rate constant or half-life.
 Thus, drug exposure in females is not expected to substantially increase beyond levels known to be well tolerated.
 Therefore, dose adjustment by gender does not appear to be necessary.
@@ -133,38 +127,35 @@ Approximately 30% of a dose was eliminated in a 3-hour hemodialysis session begi
 Table 10.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Patients with Varying Degrees of Renal Impairment After a Single 600 mg Oral Dose of Linezolid
 
-| Parameter | Healthy Subjects CL CR > 80 mL/min | Moderate Renal Impairment 30 < CL CR < 80 mL/min | Severe Renal Impairment 10 < CL CR < 30 mL/min |
+| Parameter | Healthy Subjects CLCR > 80 mL/min | Moderate Renal Impairment 30 < CLCR < 80 mL/min | Severe Renal Impairment 10 < CLCR < 30 mL/min |
 | --- | --- | --- | --- |
 | LINEZOLID |  |  |  |
-| AUC 0-∞, mcg h/mL | 110 (22) | 128 (53) | 127 (66) |
-| t 1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |
+| AUC0-∞, mcg h/mL | 110 (22) | 128 (53) | 127 (66) |
+| t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |
 | METABOLITE A |  |  |  |
-| AUC 0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
-| t 1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9 (4.6) |
-| METABOLITE B 1 |  |  |  |
-| AUC 0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
-| t 1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11 (3.9) |
-
-1Metabolite B is the major metabolite of linezolid.
+| AUC0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
+| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9 (4.6) |
+| METABOLITE B1 |  |  |  |
+| AUC0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
+| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11 (3.9) |
+| 1 Metabolite B is the major metabolite of linezolid. |  |  |  |
 
 Table 11.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Subjects with End-Stage Renal Disease (ESRD) After the Administration of 600 mg Linezolid Every 12 Hours for 14.5 Days
 
-| Parameter | ESRD Subjects 1 |
+| Parameter | ESRD Subjects1 |
 | --- | --- |
 | LINEZOLID |  |
-| AUC 0-12, mcg h/mL (after last dose) | 181 (52.3) |
-| t 1/2, h (after last dose) | 8.3 (2.4) |
+| AUC0-12, mcg h/mL (after last dose) | 181 (52.3) |
+| t1/2, h (after last dose) | 8.3 (2.4) |
 | METABOLITE A |  |
-| AUC 0-12, mcg h/mL (after last dose) | 153 (40.6) |
-| t 1/2, h (after last dose) | 15.9 (8.5) |
-| METABOLITE B 2 |  |
-| AUC 0-12, mcg h/mL (after last dose) | 356 (99.7) |
-| t 1/2, h (after last dose) | 34.8 (23.1) |
-
-1 between hemodialysis sessions
-
-2 Metabolite B is the major metabolite of linezolid.
+| AUC0-12, mcg h/mL (after last dose) | 153 (40.6) |
+| t1/2, h (after last dose) | 15.9 (8.5) |
+| METABOLITE B2 |  |
+| AUC0-12, mcg h/mL (after last dose) | 356 (99.7) |
+| t1/2, h (after last dose) | 34.8 (23.1) |
+| 1 between hemodialysis sessions |  |
+| 2 Metabolite B is the major metabolite of linezolid. |  |
 
 Hepatic Impairment
 
@@ -181,7 +172,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibiotics
+Antibacterial Drugs
 
 Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
@@ -192,13 +183,13 @@ Antioxidants
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
 On Days 2-9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
-The AUC 0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
+The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
 
 Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
 Volunteers were administered oral linezolid 600 mg twice daily for 5 doses with and without rifampin 600 mg once daily for 8 days.
-Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid C max [90% CI, 15% to 27%] and a 32% decrease in linezolid AUC 0-12 [90% CI, 27% to 37%].
+Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% to 27%] and a 32% decrease in linezolid AUC0-12 [90% CI, 27% to 37%].
 The clinical significance of this interaction is unknown.
 The mechanism of this interaction is not fully understood and may be related to the induction of hepatic enzymes.
 Other strong inducers of hepatic enzymes (e.g. carbamazepine, phenytoin, phenobarbital) could cause a similar or smaller decrease in linezolid exposure.
@@ -210,7 +201,7 @@ Therefore, linezolid has the potential for interaction with adrenergic and serot
 
 Adrenergic Agents
 
-Some individuals receiving linezolid may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents.
+Some individuals receiving Linezolid injection may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents.
 Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been specifically studied.
 Initial doses of adrenergic agents, such as dopamine or epinephrine, should be reduced and titrated to achieve the desired response.
 
@@ -230,7 +221,7 @@ The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg 
 Serotonergic Agents
 
 Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
-Subjects were administered dextromethorphan (two 20 mg doses given 4 hours apart) with or without linezolid.
+Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
 
 ## 12.4 Microbiology
@@ -243,7 +234,7 @@ Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit 
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 
-Mechanisms of Resistance
+Resistance
 
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
 Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
@@ -253,7 +244,7 @@ Organisms resistant to oxazolidinones via mutations in chromosomal genes encodin
 Also linezolid resistance in staphylococci mediated by the enzyme methyltransferase has been reported.
 This resistance is mediated by the cfr (chloramphenicol-florfenicol) gene located on a plasmid which is transferable between staphylococci.
 
-Interaction with Other Antimicrobial Drugs.
+Interaction with Other Antimicrobial Drugs
 
 In vitro studies have demonstrated additivity or indifference between linezolid and vancomycin, gentamicin, rifampin, imipenem-cilastatin, aztreonam, ampicillin, or streptomycin.
 
@@ -272,15 +263,25 @@ Streptococcus pneumoniae
 Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
-Enterococcus faecalis (including vancomycin-resistant isolates) Enterococcus faecium (vancomycin-susceptible isolates) Staphylococcus epidermidis (including methicillin-resistant isolates) Staphylococcus haemolyticus Viridans group streptococci
+Enterococcus faecalis (including vancomycin-resistant isolates)
+
+Enterococcus faecium (vancomycin-susceptible isolates)
+
+Staphylococcus epidermidis (including methicillin-resistant isolates)
+
+Staphylococcus haemolyticus
+
+Viridans group streptococci
 
 Gram-negative bacteria
 
 Pasteurella multocida
 
-Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
