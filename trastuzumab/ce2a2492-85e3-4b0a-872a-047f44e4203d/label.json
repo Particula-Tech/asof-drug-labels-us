@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761100"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-147-01",
+    "78206-147-99",
+    "78206-148-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "ontruzant",
+      "name": "Ontruzant"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "Ontruzant"
+    }
+  ],
+  "setid": "ce2a2492-85e3-4b0a-872a-047f44e4203d",
+  "source": "dailymed"
+}
