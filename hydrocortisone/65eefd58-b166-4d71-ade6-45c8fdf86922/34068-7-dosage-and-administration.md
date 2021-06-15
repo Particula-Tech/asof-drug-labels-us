@@ -63,5 +63,4 @@ The 250 mg solution may be added to 250 to 1000 mL, the 500 mg solution may be a
 In cases where administration of a small volume of fluid is desirable, 100 mg to 3000 mg of SOLU-CORTEF may be added to 50 mL of the above diluents.
 The resulting solutions are stable for at least 4 hours and may be administered either directly or by IV piggyback.
 
-When reconstituted as directed, pH's of the solutions range from 7 to 8 and the tonicities are: 100 mg ACT-O-VIAL, 0.36 osmolar; 250 mg ACT-O-VIAL, 500 mg ACT-O-VIAL, and 1000 mg ACT-O-VIAL, 0.57 osmolar.
-(Isotonic saline=0.28 osmolar.)
+When reconstituted as directed, pH's of the solutions range from 7 to 8.
