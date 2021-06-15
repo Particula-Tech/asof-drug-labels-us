@@ -2,15 +2,30 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in pregnant rats at oral doses up to 22 times the recommended maximum human dose (based on body surface area) and in pregnant rabbits at oral doses up to 7 times the recommended maximum human dose (based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ursodiol.
+Risk Summary
 
-There are no adequate or well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Available published data on the use of ursodiol in pregnant women derived from randomized controlled trials, observational studies, and case series collected over several decades have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Most of the reported exposures to ursodiol occurred in the second and third trimester of pregnancy.
+In animal reproduction studies, ursodiol had no adverse effects on embryo-fetal development when administered at doses greater than human therapeutic doses (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-It is not known whether ursodiol is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when ursodiol tablets, 250 mg and 500 mg are administered to a nursing mother.
+Data
+
+Animal Data
+
+No adverse effects on embryo-fetal development were observed with oral administration of ursodiol to pregnant rats and rabbits during organogenesis at doses up to 22 and 7 times, respectively, the maximum recommended human dose (based on body surface area).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Ursodiol is naturally present in human milk.
+There are no reports of adverse effects of ursodiol on the breastfed child, but the reports are extremely limited.
+There are no data on the effects of ursodiol on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ursodiol tablets, 250 mg and 500 mg and any potential adverse effects on the breastfed child from ursodiol tablets, 250 mg and 500 mg or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
