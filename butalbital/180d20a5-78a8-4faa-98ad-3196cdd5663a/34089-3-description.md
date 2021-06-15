@@ -24,4 +24,4 @@ Codeine phosphate (7, 8-Didehydro-4,5α-epoxy-3-methoxy-17-methylmorphinan-6α-o
 It has the following structural formula:
 
 Inactive Ingredients: Microcrystalline Cellulose, Sodium Lauryl Sulfate, Stearic Acid, Talc.
-The gelatin capsules are printed with edible inks containing Titanium Dioxide, Gelatin, FD&C Blue #1, FD&C Red No. 3, FD&C Red No. #40, and FD&C Yellow No. 5 (Tartrazine) [see Warnings and Precautions (5.21)].
+The gelatin capsules are printed with edible inks containing Titanium Dioxide, Gelatin, FD&C Blue No. 1, FD&C Red No. 3, FD&C Red No. 40, and FD&C Yellow No. 5 (Tartrazine) [see Warnings and Precautions (5.21)].

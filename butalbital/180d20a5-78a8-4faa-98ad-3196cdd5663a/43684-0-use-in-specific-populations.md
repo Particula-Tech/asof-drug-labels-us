@@ -96,7 +96,7 @@ Women who are ultra-rapid metabolizers of codeine achieve higher than expected s
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
 
 There is no information on the effects of the codeine on milk production.
-Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.4)].
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.5)].
 
 Acetaminophen is present in human milk in small quantities after oral administration.
 Based on data from more than 15 nursing mothers, the calculated infant daily dose of acetaminophen is approximately 1% to 2% of the maternal dose.
@@ -123,7 +123,7 @@ Published literature indicates that acetaminophen affects sperm development in m
 
 The safety and effectiveness of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in pediatric patients have not been established.
 
-Life-threatening respiratory depression and deaths have occurred in children who received codeine [see Warnings and Precautions (5.4)].
+Life-threatening respiratory depression and deaths have occurred in children who received codeine [see Warnings and Precautions (5.5)].
 In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
 Because of the risk of life-threatening respiratory depression and death:

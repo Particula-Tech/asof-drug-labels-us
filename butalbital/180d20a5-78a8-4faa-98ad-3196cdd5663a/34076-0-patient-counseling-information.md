@@ -25,8 +25,25 @@ Instruct patients not to share Butalbital, Acetaminophen, Caffeine, and Codeine 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- •How to treat with naloxone in the event of an opioid overdose
+- •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- •To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -64,12 +81,12 @@ Important Administration Instructions
 
 Instruct patients how to properly take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, including the following:
 
-- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.2)].
+- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.3)].
 - •Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.3)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Severe Hypotension
 
@@ -109,7 +126,7 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Manufactured by: Nexgen Pharma, Inc., Irvine, CA 92606, USA
+Manufactured by: LGM Pharma Solutions, LLC, Irvine, CA 92614
 
 Rev.
-08/2020
+03/2021
