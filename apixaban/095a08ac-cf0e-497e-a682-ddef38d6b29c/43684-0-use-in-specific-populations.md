@@ -33,6 +33,12 @@ Maximal milk concentrations were observed 6 hours after dosing.
 The milk to plasma AUC (0-24) ratio is 30:1 indicating that apixaban can accumulate in milk.
 The concentrations of apixaban in animal milk does not necessarily predict the concentration of drug in human milk.
 
+## 8.3 Females and Males of Reproductive Potential
+
+Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
+
+The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including apixaban should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
+
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.

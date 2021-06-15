@@ -98,6 +98,8 @@ Table 4: Adverse Reactions Occurring in ≥1% of Patients in Either Group Underg
 | Hemorrhage (including hematoma, and vaginal and urethral hemorrhage) | 67 (1.1) | 81 (1.4) |
 | Postprocedural hemorrhage (including postprocedural hematoma, wound hemorrhage, vessel puncture site hematoma and catheter site hemorrhage) | 54 (0.9) | 60 (1.0) |
 | Transaminases increased (including alanine aminotransferase increased and alanine aminotransferase abnormal) | 50 (0.8) | 71 (1.2) |
+| Aspartate aminotransferase increased | 47 (0.8) | 69 (1.2) |
+| Gamma-glutamyltransferase increased | 38 (0.6) | 65 (1.1) |
 
 Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of ≥0.1% to <1%:
 

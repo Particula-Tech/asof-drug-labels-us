@@ -39,7 +39,7 @@ The next dose of apixaban tablets should not be administered earlier than 5 hour
 The risk may also be increased by traumatic or repeated epidural or spinal puncture.
 If traumatic puncture occurs, delay the administration of apixaban tablets for 48 hours.
 
-Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel, or bladder dysfunction).
+Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs or bowel, or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
 
@@ -55,4 +55,4 @@ Initiation of apixaban tablets are not recommended as an alternative to unfracti
 ## 5.6 Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome
 
 Direct-acting oral anticoagulants (DOACs), including Apixaban Tablets, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS).
-For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardioplin, anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardioplipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

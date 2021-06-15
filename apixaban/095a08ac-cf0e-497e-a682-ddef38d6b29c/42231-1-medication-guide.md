@@ -142,4 +142,4 @@ Manufactured by: INDOCO REMEDIES LIMITED L32, 33&34, Verna industrial area, Vern
 COUMADIN®is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
-Revised: 09/ 2020
+Revised: 06/ 2021
