@@ -344,7 +344,7 @@ None of the patients who tested positive for anti-rHuPH20 antibodies tested posi
 The following adverse reactions have been identified with post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System: Anaphylactic reaction
+Immune System: Anaphylactic reaction, Hypogammaglobulinemia
 
 Gastrointestinal: Pancreatitis
 
