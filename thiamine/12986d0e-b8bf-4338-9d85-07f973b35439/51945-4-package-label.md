@@ -26,10 +26,10 @@ Protect from light.
 
 Use only if solution is clear and seal intact.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
 Mylan.com
 
-MI:196:25C:R5
+MI:196:25C:R6

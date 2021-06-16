@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-"Wet" beriberi with myocardial failure must be treated as an emergency cardiac condition, and thiamine must be administered slowly by the IV route in this situation (see WARNINGS).
+“Wet” beriberi with myocardial failure must be treated as an emergency cardiac condition, and thiamine must be administered slowly by the IV route in this situation (see WARNINGS).
 
 In the treatment of beriberi, 10 mg to 20 mg of thiamine hydrochloride are given IM 3 times daily for as long as 2 weeks.
 (See WARNINGS regarding repeated injection of thiamine.)

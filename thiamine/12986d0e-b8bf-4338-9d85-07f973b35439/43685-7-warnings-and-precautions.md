@@ -32,8 +32,6 @@ The patient should be advised as to proper dietary habits during treatment so th
 
 ## Usage in Pregnancy
 
-### Pregnancy Category A
-
 Studies in pregnant women have not shown that thiamine hydrochloride increases the risk of fetal abnormalities if administered during pregnancy.
 If the drug is used during pregnancy, the possibility of fetal harm appears remote.
 Because studies cannot rule out the possibility of harm however, thiamine hydrochloride should be used during pregnancy only if clearly needed.
