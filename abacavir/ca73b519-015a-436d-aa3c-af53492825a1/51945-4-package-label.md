@@ -24,12 +24,13 @@ Made in UK
 
 1. 62000000047760 Rev.
    5/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49702-222-48
 
-ZIAGEN®
+ZIAGEN
 
 (abacavir)
 
@@ -49,7 +50,10 @@ Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning C
 
 Made in Canada
 
-©2017 the ViiV Healthcare group of companies
+Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
-1. 62000000014384 Rev.
-   4/17
+©2021 the ViiV Healthcare group of companies
+
+1. 62000000056821 Rev.
+   1/21
+2. 
