@@ -21,4 +21,4 @@ Lactation
 
 Advise nursing mothers using carisoprodol to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Issued: 04/2021
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Issued: 06/2021
