@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-For Injection: Decitabine for injection is supplied as a sterile, white to almost white lyophilized cake or powder, in a single-dose vial, packaged in cartons of 1 vial.
-Each vial contains 50 mg of decitabine.
+For Injection: 50 mg of decitabine as a sterile, white to almost white lyophilized powder in a single-dose vial for reconstitution.
