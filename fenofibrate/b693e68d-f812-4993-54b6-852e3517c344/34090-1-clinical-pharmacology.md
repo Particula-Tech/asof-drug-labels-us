@@ -103,18 +103,18 @@ Table 3 describes the effects of co-administered fenofibrate or fenofibric acid 
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate |  | Changes in Fenofibric Acid Exposure |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  | AUC | Cmax |
-| Lipid-lowering agents |  |  |  |  |  |
-| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days |  | ↓2% | ↓4% |
-| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose |  | ↓1% | ↓2% |
-| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose |  | ↓2% | ↓10% |
-| Anti-diabetic agents |  |  |  |  |  |
-| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days |  | ↑1% | ↓1% |
-| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days |  | ↓9% | ↓6% |
-| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days |  | ↑10% | ↑3% |
-| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |
+| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | AUC | Cmax |
+| Lipid-lowering agents |  |  |  |  |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
+| Anti-diabetic agents |  |  |  |  |
+| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
+| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
 
 Table 3.
 Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
