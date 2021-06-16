@@ -4,7 +4,7 @@
 
 DUPIXENT (dupilumab) Injection is a clear to slightly opalescent, colorless to pale yellow solution, supplied in single-dose pre-filled syringes with needle shield or pre-filled pens.
 Each pre-filled syringe with needle shield is designed to deliver either 300 mg of DUPIXENT in 2 mL (NDC 0024-5914-00) or 200 mg of DUPIXENT in 1.14 mL solution (NDC 0024-5918-00).
-Each pre-filled pen is designed to deliver 300 mg of DUPIXENT in 2 mL solution (NDC 0024-5915-00).
+Each pre-filled pen is designed to deliver either 300 mg of DUPIXENT in 2 mL solution (NDC 0024-5915-00) or 200 mg of DUPIXENT in 1.14 mL solution (NDC 0024-5919-00).
 
 DUPIXENT is available in cartons containing 2 pre-filled syringes with needle shield or 2 pre-filled pens.
 
@@ -12,9 +12,9 @@ DUPIXENT is available in cartons containing 2 pre-filled syringes with needle sh
 | --- | --- | --- |
 | Pack of 2 syringes | NDC 0024-5914-01 | NDC 0024-5918-01 |
 
-| Pack Size | 300 mg/2 mL Pre-filled Pen |
-| --- | --- |
-| Pack of 2 pens | NDC 0024-5915-02 |
+| Pack Size | 300 mg/2 mL Pre-filled Pen | 200 mg/1.14 mL Pre-filled Pen |
+| --- | --- | --- |
+| Pack of 2 pens | NDC 0024-5915-02 | NDC 0024-5919-02 |
 
 ## 16.2 Storage and Handling
 

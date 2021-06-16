@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults with Atopic Dermatitis
 
 Three randomized, double-blind, placebo-controlled, multicenter trials (Trials 1, 2, and 3) and one dose-ranging trial (Trial 4) evaluated the safety of DUPIXENT in subjects with moderate-to-severe atopic dermatitis.
-The safety population had a mean age of 38 years; 41% of subjects were female, 67% were white, 24% were Asian, and 6% were black; in terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
+The safety population had a mean age of 38 years; 41% of subjects were female, 67% were White, 24% were Asian, and 6% were Black; in terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
 In these 4 trials, 1472 subjects were treated with subcutaneous injections of DUPIXENT, with or without concomitant topical corticosteroids (TCS).
 
 A total of 739 subjects were treated with DUPIXENT for at least 1 year in the development program for moderate-to-severe atopic dermatitis.
@@ -71,7 +71,7 @@ Asthma
 A total of 2888 adult and adolescent subjects with moderate-to-severe asthma (AS) were evaluated in 3 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks duration (AS Trials 1, 2, and 3).
 Of these, 2678 had a history of 1 or more severe exacerbations in the year prior to enrollment despite regular use of medium to high-dose inhaled corticosteroids plus an additional controller(s) (AS Trials 1 and 2).
 A total of 210 subjects with oral corticosteroid-dependent asthma receiving high-dose inhaled corticosteroids plus up to two additional controllers were enrolled (AS Trial 3).
-The safety population (AS Trials 1 and 2) was 12-87 years of age, of which 63% were female, and 82% were white.
+The safety population (AS Trials 1 and 2) was 12-87 years of age, of which 63% were female, and 82% were White.
 DUPIXENT 200 mg or 300 mg was administered subcutaneously Q2W, following an initial dose of 400 mg or 600 mg, respectively.
 
 In AS Trials 1 and 2, the proportion of subjects who discontinued treatment due to adverse events was 4% of the placebo group, 3% of the DUPIXENT 200 mg Q2W group, and 6% of the DUPIXENT 300 mg Q2W group.
@@ -135,8 +135,8 @@ The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in 
 
 Herpes zoster was reported in <0.1% of the DUPIXENT groups (<1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week atopic dermatitis monotherapy trials.
 In the 52-week DUPIXENT + TCS atopic dermatitis trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 subject-years) and 2% of the placebo + TCS group (2 per 100 subject-years).
-Among asthma subjects the frequency of herpes zoster was similar between DUPIXENT and placebo.
-Among CRSwNP subjects there were no reported cases of herpes zoster or eczema herpeticum.
+Among asthma subjects, the frequency of herpes zoster was similar between DUPIXENT and placebo.
+Among CRSwNP subjects, there were no reported cases of herpes zoster or eczema herpeticum.
 
 Hypersensitivity Reactions
 

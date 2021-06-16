@@ -109,3 +109,32 @@ Area reserved for security sticker
 SANOFI GENZYME
 
 REGENERON
+
+# PRINCIPAL DISPLAY PANEL - 200 mg/1.14 mL Pre-filled Pen Carton
+
+NDC 0024-5919-02
+
+Rx Only
+
+DUPIXENT® (dupilumab) Injection Single-dose Pre-filled Pen
+
+200 mg/1.14 mL (175 mg/mL)
+
+For Subcutaneous Use Only.
+
+2 Single-dose Pre-filled Pens
+
+Keep out of reach of children.
+Do not use after expiration.
+Do not use if seal is broken or damaged.
+
+Store refrigerated at 36° to 46°F (2° to 8°C) in the original carton.
+Do not freeze.
+Do not heat.
+Dosage and Administration: See package insert for dosage information and directions for use.
+
+200 mg/1.14 mL
+
+SANOFI GENZYME
+
+REGENERON

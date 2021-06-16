@@ -6,7 +6,7 @@ Adults with Atopic Dermatitis
 
 Three randomized, double-blind, placebo-controlled trials (Trials 1, 2, and 3; NCT02277743, 02277769, and 02260986 respectively) enrolled a total of 2119 subjects 18 years of age and older with moderate-to-severe atopic dermatitis (AD) not adequately controlled by topical medication(s).
 Disease severity was defined by an Investigator's Global Assessment (IGA) score ≥3 in the overall assessment of AD lesions on a severity scale of 0 to 4, an Eczema Area and Severity Index (EASI) score ≥16 on a scale of 0 to 72, and a minimum body surface area involvement of ≥10%.
-At baseline, 59% of subjects were male, 67% were white, 52% of subjects had a baseline IGA score of 3 (moderate AD), and 48% of subjects had a baseline IGA of 4 (severe AD).
+At baseline, 59% of subjects were male, 67% were White, 52% of subjects had a baseline IGA score of 3 (moderate AD), and 48% of subjects had a baseline IGA of 4 (severe AD).
 The baseline mean EASI score was 33 and the baseline weekly averaged Peak Pruritus Numeric Rating Scale (NRS) was 7 on a scale of 0-10.
 
 In all three trials, subjects in the DUPIXENT group received subcutaneous injections of DUPIXENT 600 mg at Week 0, followed by 300 mg every other week (Q2W).
@@ -72,8 +72,8 @@ Subjects were permitted to receive rescue treatment at the discretion of the inv
 Subjects who received rescue treatment were considered non-responders.
 
 In Trial 6, the mean age was 14.5 years, the median weight was 59.4 kg, 41% of subjects were female, 63% were White, 15% were Asian, and 12% were Black.
-At baseline 46% of subjects had an IGA score of 3 (moderate AD), 54% had an IGA score of 4 (severe AD), the mean BSA involvement was 57%, and 42% had received prior systemic immunosuppressants.
-Also, at baseline the mean EASI score was 36, and the weekly averaged Peak Pruritus NRS was 8 on a scale of 0-10.
+At baseline, 46% of subjects had an IGA score of 3 (moderate AD), 54% had an IGA score of 4 (severe AD), the mean BSA involvement was 57%, and 42% had received prior systemic immunosuppressants.
+Also, at baseline, the mean EASI score was 36, and the weekly averaged Peak Pruritus NRS was 8 on a scale of 0-10.
 Overall, 92% of subjects had at least one co-morbid allergic condition; 66% had allergic rhinitis, 54% had asthma, and 61% had food allergies.
 
 The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) and at least a 2-point improvement from baseline to Week 16.
@@ -140,7 +140,7 @@ The asthma development program included three randomized, double-blind, placebo-
 Subjects enrolled in AS Trials 1 and 2 were required to have a history of 1 or more asthma exacerbations that required treatment with systemic corticosteroids or emergency department visit or hospitalization for the treatment of asthma in the year prior to trial entry.
 Subjects enrolled in AS Trial 3 required dependence on daily oral corticosteroids in addition to regular use of high-dose inhaled corticosteroids plus an additional controller(s).
 In all 3 trials, subjects were enrolled without requiring a minimum baseline blood eosinophil count.
-In AS Trials 2 and 3 subjects with screening blood eosinophil level of >1500 cells/mcL (<1.3%) were excluded.
+In AS Trials 2 and 3, subjects with screening blood eosinophil level of >1500 cells/mcL (<1.3%) were excluded.
 DUPIXENT was administered as add-on to background asthma treatment.
 Subjects continued background asthma therapy throughout the duration of the studies, except in AS Trial 3 in which OCS dose was tapered as described below.
 

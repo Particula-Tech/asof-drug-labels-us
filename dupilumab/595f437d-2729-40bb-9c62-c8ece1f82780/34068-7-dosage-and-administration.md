@@ -67,7 +67,7 @@ The DUPIXENT "Instructions for Use" contains more detailed instructions on the p
 
 ## 2.5 Preparation for Use of DUPIXENT
 
-Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen and 30 minutes for the 200 mg/1.14 mL pre-filled syringe) without removing the needle cap.
+Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 
 Inspect DUPIXENT visually for particulate matter and discoloration prior to administration.
 DUPIXENT is a clear to slightly opalescent, colorless to pale yellow solution.
