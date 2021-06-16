@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Loteprednol etabonate ophthalmic gel 0.5% contains 5 mg/g of loteprednol etabonate, as a sterile preserved ophthalmic gel.
+Loteprednol Etabonate Ophthalmic Gel is a sterile preserved ophthalmic gel containing 5 mg of loteprednol etabonate per gram of gel.

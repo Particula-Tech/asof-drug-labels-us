@@ -1,17 +1,21 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Administration
+Administration
 
 Invert closed bottle and shake once to fill tip before instilling drops.
 
-## 17.2 Risk of Contamination
+Risk of Contamination
 
-Patients should be advised not to allow the dropper tip to touch any surface, as this may contaminate the gel.
+Advise patients not to allow the dropper tip to touch any surface, as this may contaminate the gel.
 
-## 17.3 Contact Lens Wear
+Contact Lens Wear
 
-Patients should be advised not to wear contact lenses when using loteprednol etabonate.
+Advise patients not to wear contact lenses when using Loteprednol Etabonate Ophthalmic Gel.
 
-## 17.4 Risk of Secondary Infection
+Risk of Secondary Infection
 
-If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
+Advise the patient to consult a physician if pain develops, redness, itching or inflammation becomes aggravated.
+
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA © 2021 Bausch & Lomb Incorporated or its affiliates
+
+9590101 Folded 9590001 Flat
