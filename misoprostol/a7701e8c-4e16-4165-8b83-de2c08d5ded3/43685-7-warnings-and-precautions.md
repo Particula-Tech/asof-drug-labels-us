@@ -151,15 +151,44 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of diclofenac sodium/misoprostol at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac sodium/misoprostol is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Diclofenac, a component of diclofenac sodium/misoprostol may cause premature closure of the fetal ductus arteriosus.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac sodium/misoprostol.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue diclofenac sodium/misoprostol and evaluate the patient immediately.
+
+## 5.11 Fetal Toxicity
+
 Diclofenac sodium/misoprostol is contraindicated in pregnant women.
 Advise pregnant women of the potential risk to a fetus.
 Verify the pregnancy status of females of reproductive potential prior to initiation of diclofenac sodium/misoprostol.
-Advise females of reproductive potential to use effective contraception during treatment with diclofenac sodium/misoprostol [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with diclofenac sodium/misoprostol [see Contraindications (4), Use in Specific Populations (8.1, 8.3)].
 
-## 5.11 Hematologic Toxicity
+Misoprostol
+
+Misoprostol during pregnancy can result in maternal and fetal harm.
+
+Diclofenac
+
+Premature Closure of Fetal Ductus Arteriosus
+
+NSAIDs, including diclofenac, increase the risk of premature closure of the fetal ductus arteriosus at about 30 weeks of gestation and later.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -169,10 +198,10 @@ NSAIDs, including diclofenac, a component of diclofenac sodium/misoprostol, may 
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of diclofenac, a component of diclofenac sodium/misoprostol, in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].

@@ -4,7 +4,7 @@ DICLOFENAC SODIUM/MISOPROSTOL CONTAINS DICLOFENAC SODIUM AND MISOPROSTOL.
 ADMINISTRATION OF MISOPROSTOL TO WOMEN WHO ARE PREGNANT CAN CAUSE ABORTION, PREMATURE BIRTH, BIRTH DEFECTS, OR UTERINE RUPTURE.
 UTERINE RUPTURE HAS BEEN REPORTED WHEN MISOPROSTOL WAS ADMINISTERED IN PREGNANT WOMEN TO INDUCE LABOR OR TO INDUCE ABORTION.
 THE RISK OF UTERINE RUPTURE INCREASES WITH ADVANCING GESTATIONAL AGES AND WITH PRIOR UTERINE SURGERY, INCLUDING CESAREAN DELIVERY.
-DICLOFENAC SODIUM/MISOPROSTOL SHOULD NOT BE TAKEN BY PREGNANT WOMEN [see Contraindications (4), Warnings and Precautions (5.10), and Use in Specific Populations (8.1)].
+DICLOFENAC SODIUM/MISOPROSTOL SHOULD NOT BE TAKEN BY PREGNANT WOMEN [see Contraindications (4), Warnings and Precautions (5.11), and Use in Specific Populations (8.1)].
 
 PATIENTS MUST BE ADVISED OF THE ABORTIFACIENT PROPERTY AND WARNED NOT TO GIVE THE DRUG TO OTHERS.
 Diclofenac sodium/misoprostol should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID.
