@@ -199,6 +199,16 @@ In more severe or more sudden cases, signs and symptoms include:
 - stopping breathing (respiratory arrest)
 
 - Bone fractures.
+- Sexual problems (dysfunction).
+  Taking selective serotonin reuptake inhibitors (SSRIs), including PAXIL CR, may cause sexual problems.Symptoms in males may include:Symptoms in females may include:
+  - Delayed ejaculation or inability to have an ejaculation
+  - Decreased sex drive
+  - Problems getting or keeping an erection
+  - Decreased sex drive
+  - Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PAXIL CR.
+There may be treatments your healthcare provider can suggest.
 
 The most common side effects PAXIL CR include:
 
@@ -253,18 +263,16 @@ Toronto, Ontario
 
 M9L 1T9
 
-Manufactured by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Manufactured for:
 
 Apotex Corp.
 
 Weston, FL 33326
 
-February 2020
+For more information about PAXIL CR call 1-800-706-5575.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+06/2021
 
 - 

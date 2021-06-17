@@ -2,6 +2,11 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Sexual Dysfunction
+
+Advise patients that use of PAXIL CR may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Suicidal Thoughts and Behaviors
 
 Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -54,14 +59,12 @@ Toronto, Ontario
 
 M9L 1T9
 
-Manufactured by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Manufactured for:
 
 Apotex Corp.
 
 Weston FL 33326
+
+June 2021
+
+All registered trademarks in this document are the property of their respective owners.

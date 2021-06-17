@@ -114,3 +114,13 @@ When tamoxifen is used for the treatment or prevention of breast cancer, prescri
 
 Epidemiological studies on bone fracture risk during exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
 There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
+
+## 5.13 Sexual Dysfunction
+
+Use of SSRIs, including PAXIL CR, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of PAXIL CR and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
