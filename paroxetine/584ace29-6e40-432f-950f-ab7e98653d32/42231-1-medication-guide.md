@@ -203,6 +203,24 @@ In more severe or more sudden cases, signs and symptoms include:
   Taking PAXIL with aspirin, NSAIDs, or blood thinners may increase this risk.
   Tell your healthcare provider about any unusual bleeding or bruising.
 - Bone fractures
+- Sexual problems (dysfunction).
+  Taking selective serotonin reuptake inhibitors (SSRIs), including PAXIL, may cause sexual problems.
+
+Symptoms in males may include:
+
+- 
+  - Delayed ejaculation or inability to have an ejaculation
+  - Decreased sex drive
+  - Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- 
+  - Decreased sex drive
+  - Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PAXIL.
+There may be treatments your healthcare provider can suggest.
 
 The most common side effects of PAXIL include:
 
@@ -264,4 +282,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 2/2021
+Revised: 6/2021
