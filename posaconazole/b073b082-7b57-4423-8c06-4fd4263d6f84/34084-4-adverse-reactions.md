@@ -9,26 +9,27 @@ The following serious and otherwise important adverse reactions are discussed in
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of Noxafil cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-In clinical trials, the type of adverse reactions reported for posaconazole injection and posaconazole delayed-release tablets were generally similar to that reported in trials of posaconazole oral suspension.
 
-Clinical Trial Experience with Posaconazole Injection
+Clinical Trial Experience in Adults
 
-Multiple doses of posaconazole injection administered via a peripheral venous catheter were associated with thrombophlebitis (60% incidence).
-Therefore, in subsequent studies, posaconazole injection was administered via central venous catheter.
+Clinical Trial Experience with Noxafil Injection
 
-The safety of posaconazole injection has been assessed in 268 patients in a clinical trial.
-Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole injection when given as antifungal prophylaxis (Posaconazole Injection Study 1).
+Multiple doses of Noxafil injection administered via a peripheral venous catheter were associated with thrombophlebitis (60% incidence).
+Therefore, in subsequent studies, Noxafil injection was administered via central venous catheter.
+
+The safety of Noxafil injection has been assessed in 268 patients in a clinical trial.
+Patients were enrolled in a non-comparative pharmacokinetic and safety trial of Noxafil injection when given as antifungal prophylaxis (Noxafil Injection Study).
 Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
 This patient population was 55% male, had a mean age of 51 years (range 18-82 years, 19% of patients were ≥65 years of age), and were 95% white and 8% Hispanic.
-Ten patients received a single dose of 200 mg posaconazole injection, 21 patients received 200 mg daily dose for a median of 14 days, and 237 patients received 300 mg daily dose for a median of 9 days.
+Ten patients received a single dose of 200 mg Noxafil injection, 21 patients received 200 mg daily dose for a median of 14 days, and 237 patients received 300 mg daily dose for a median of 9 days.
 
-Table 6 presents treatment-emergent adverse reactions observed in patients treated with posaconazole injection 300 mg daily dose in the posaconazole injection study.
+Table 7 presents adverse reactions observed in patients treated with Noxafil injection 300 mg daily dose in the Noxafil Injection Study.
 Each patient received a loading dose, 300 mg twice on Day 1.
-Following posaconazole intravenous therapy, patients received posaconazole oral suspension to complete 28 days of total posaconazole therapy.
+Following Noxafil intravenous therapy, patients received Noxafil oral suspension to complete 28 days of total Noxafil therapy.
 
-Table 6: Posaconazole Injection Study 1: Number (%) of Subjects Treated with Posaconazole Injection 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
+Table 7: Noxafil Injection Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection 300 mg Daily Dose
 
-| Body System Preferred Term | Posaconazole Injection Treatment Phase n=237 (%)Adverse reactions reported in patients with an onset during the posaconazole intravenous dosing phase of the study. |  | Posaconazole Injection Treatment Phase or Subsequent Oral Suspension Treatment Phase n=237(%)Adverse reactions reported with an onset at any time during the study in patients who were treated for up to 28 days of posaconazole therapy. |  |
+| Body System | Noxafil Injection Treatment Phase n=237 (%)Adverse reactions reported in patients with an onset during the Noxafil intravenous dosing phase of the study. |  | Noxafil Injection Treatment Phase or Subsequent Oral Suspension Treatment Phase n=237 (%)Adverse reactions reported with an onset at any time during the study in patients who were treated for up to 28 days of Noxafil therapy. |  |
 | --- | --- | --- | --- | --- |
 | Subjects Reporting any Adverse Reaction | 220 | (93) | 235 | (99) |
 | Blood and Lymphatic System Disorder |  |  |  |  |
@@ -62,24 +63,24 @@ Table 6: Posaconazole Injection Study 1: Number (%) of Subjects Treated with Pos
 | Vascular Disorders |  |  |  |  |
 | Hypertension | 20 | (8) | 26 | (11) |
 
-The most frequently reported adverse reactions with an onset during the posaconazole intravenous phase of dosing with 300 mg once daily were diarrhea (32%), hypokalemia (22%), pyrexia (21%), and nausea (19%).
+The most frequently reported adverse reactions with an onset during the Noxafil intravenous phase of dosing with 300 mg once daily were diarrhea (32%), hypokalemia (22%), pyrexia (21%), and nausea (19%).
 These adverse reactions were consistent with those seen in studies with Noxafil oral suspension.
 
-Clinical Trial Experience with Posaconazole Delayed-Release Tablets
+Clinical Trial Experience with Noxafil Delayed-Release Tablets
 
-The safety of posaconazole delayed-release tablets has been assessed in 230 patients in clinical trials.
-Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole delayed-release tablets when given as antifungal prophylaxis (Delayed-Release Tablet Study 1).
+The safety of Noxafil delayed-release tablets has been assessed in 230 patients in clinical trials.
+Patients were enrolled in a non-comparative pharmacokinetic and safety trial of Noxafil delayed-release tablets when given as antifungal prophylaxis (Noxafil Delayed-Release Tablet Study).
 Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
 This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
 Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
-Table 7 presents treatment-emergent adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in posaconazole delayed-release tablet study.
+Table 8 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in Noxafil Delayed-Release Tablet Study.
 
-Table 7: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Treated with 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
+Table 8: Noxafil Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
 
-| Body System Preferred Term | Posaconazole delayed-release tablet (300 mg) (n=210) |  |
+| Body System | Noxafil delayed-release tablet (300 mg) n=210 (%) |  |
 | --- | --- | --- |
-| Subjects Reporting any Adverse Reaction | 201 | (99) |
+| Subjects Reporting any Adverse Reaction | 207 | (99) |
 | Blood and Lymphatic System Disorder |  |  |
 | Anemia | 22 | (10) |
 | Thrombocytopenia | 29 | (14) |
@@ -108,30 +109,30 @@ Table 7: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Tre
 | Vascular Disorders |  |  |
 | Hypertension | 23 | (11) |
 
-The most frequently reported adverse reactions (>25%) with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
+The most frequently reported adverse reactions (>25%) with Noxafil delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
 
-The most common adverse reaction leading to discontinuation of posaconazole delayed-release tablets 300 mg once daily was nausea (2%).
+The most common adverse reaction leading to discontinuation of Noxafil delayed-release tablets 300 mg once daily was nausea (2%).
 
-Clinical Trial Safety Experience with Posaconazole Oral Suspension
+Clinical Trial Safety Experience with Noxafil Oral Suspension
 
-The safety of posaconazole oral suspension has been assessed in 1844 patients.
+The safety of Noxafil oral suspension has been assessed in 1844 patients.
 This includes 605 patients in the active-controlled prophylaxis studies, 557 patients in the active-controlled OPC studies, 239 patients in refractory OPC studies, and 443 patients from other indications.
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, GVHD post HSCT, and HIV infection, as well as non-neutropenic patients.
 This patient population was 71% male, had a mean age of 42 years (range 8-84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
-Posaconazole therapy was given to 171 patients for ≥6 months, with 58 patients receiving posaconazole therapy for ≥12 months.
-Table 8 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
-Table 9 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Noxafil therapy was given to 171 patients for ≥6 months, with 58 patients receiving Noxafil therapy for ≥12 months.
+Table 9 presents adverse reactions observed at an incidence of >10% in Noxafil prophylaxis studies.
+Table 10 presents adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
-Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Oral Suspension Studies 1 and 2), the safety of posaconazole oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
+Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Noxafil Oral Suspension Study 1 and 2), the safety of Noxafil oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
 The most frequently reported adverse reactions (>30%) in the prophylaxis clinical trials were fever, diarrhea, and nausea.
 
-The most common adverse reactions leading to discontinuation of posaconazole in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
+The most common adverse reactions leading to discontinuation of Noxafil in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-Table 8: Posaconazole Oral Suspension Study 1 and Study 2.
-Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
+Table 9: Noxafil Oral Suspension Study 1 and Study 2.
+Adverse Reactions in at Least 10% of the Noxafil Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
-| Body System Preferred Term | Posaconazole (n=605) |  | Fluconazole (n=539) |  | Itraconazole (n=58) |  |
+| Body System | Noxafil n=605 (%) |  | Fluconazole n=539 (%) |  | Itraconazole n=58 (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |
@@ -187,24 +188,24 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Rash | 113 | (19) | 96 | (18) | 25 | (43) |
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
 
-HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole oral suspension at a dose of less than or equal to 400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
+HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of Noxafil oral suspension at a dose of less than or equal to 400 mg once daily in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg once daily.
 
-An additional 239 HIV-infected patients with refractory OPC received posaconazole oral suspension in 2 non-comparative trials for refractory OPC (rOPC).
-Of these subjects, 149 received the 800-mg/day dose and the remainder received the less than or equal to 400-mg QD dose.
+An additional 239 HIV-infected patients with refractory OPC received Noxafil oral suspension in 2 non-comparative trials for refractory OPC (rOPC).
+Of these subjects, 149 received the 800-mg/day dose and the remainder received the less than or equal to 400-mg once daily dose.
 
 In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea, nausea, headache, vomiting, and coughing.
 
-The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
-In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory impairment (3%).
+The most common adverse reactions that led to treatment discontinuation of Noxafil in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
+In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of Noxafil were AIDS (7%) and respiratory impairment (3%).
 
-Table 9: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies with Posaconazole Oral Suspension (Treated Population)
+Table 10: Adverse Reactions in of at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
 
 | n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |
-| Body System Preferred Term | Number (%) of Subjects |  |  |
+| Body System | Number (%) of Subjects |  |  |
 | Controlled OPC Pool |  | Refractory OPC Pool |  |
-| Posaconazole | Fluconazole | Posaconazole |  |
-| Subjects Reporting any Adverse ReactionNumber of subjects reporting treatment-emergent adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
+| Noxafil Oral Suspension | Fluconazole | Noxafil Oral Suspension |  |
+| Subjects Reporting any Adverse ReactionNumber of subjects reporting adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
 | Body as a Whole – General Disorders |  |  |  |
 | Fever | 34 (6) | 22 (8) | 82 (34) |
 | Headache | 44 (8) | 23 (9) | 47 (20) |
@@ -242,7 +243,7 @@ Adverse reactions were reported more frequently in the pool of patients with ref
 Among these highly immunocompromised patients with advanced HIV disease, serious adverse reactions (SARs) were reported in 55% (132/239).
 The most commonly reported SARs were fever (13%) and neutropenia (10%).
 
-Less Common Adverse Reactions: Clinically significant adverse reactions reported during clinical trials in prophylaxis, OPC/rOPC or other trials with posaconazole which occurred in less than 5% of patients are listed below:
+Other clinically significant adverse reactions reported in less than 5% of patients in clinical trials of Noxafil are listed below:
 
 - Blood and lymphatic system disorders: hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, neutropenia aggravated
 - Endocrine disorders: adrenal insufficiency
@@ -256,23 +257,22 @@ Less Common Adverse Reactions: Clinically significant adverse reactions reported
 - Platelet, Bleeding, and Clotting Disorders: thrombocytopenia
 - Renal & Urinary System Disorders: renal failure acute
 
-Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver function test values did not appear to be associated with higher plasma concentrations of posaconazole.
+Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver test values did not appear to be associated with higher plasma concentrations of posaconazole.
 
-For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 10.
+For the prophylaxis studies, the number of patients with changes in liver tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 11.
 
-Table 10: Posaconazole Oral Suspension Study 1 and Study 2.
-Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+Table 11: Noxafil Oral Suspension Study 1 and Study 2.
+Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
-| Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
+| Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. Noxafil Oral Suspension Study 1 |  |  |
 | --- | --- | --- |
-| Oral Suspension Study 1 |  |  |
-| Laboratory Parameter | Posaconazole n=301 | Fluconazole n=299 |
+| Laboratory Parameter | Noxafil Oral Suspension n=301 | Fluconazole n=299 |
 | AST | 11/266 (4) | 13/266 (5) |
 | ALT | 47/271 (17) | 39/272 (14) |
 | Bilirubin | 24/271 (9) | 20/275 (7) |
 | Alkaline Phosphatase | 9/271 (3) | 8/271 (3) |
-| Oral Suspension Study 2 |  |  |
-| Laboratory Parameter | Posaconazole (n=304) | Fluconazole/Itraconazole (n=298) |
+| Noxafil Oral Suspension Study 2 |  |  |
+| Laboratory Parameter | Noxafil Oral Suspension (n=304) | Fluconazole/Itraconazole (n=298) |
 | AST | 9/286 (3) | 5/280 (2) |
 | ALT | 18/289 (6) | 13/284 (5) |
 | Bilirubin | 20/290 (7) | 25/285 (9) |
@@ -280,23 +280,71 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 | CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; |  |  |
 | ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 11 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
+The number of patients treated for OPC with clinically significant liver test abnormalities at any time during the studies is provided in Table 12 (liver test abnormalities were present in some of these patients prior to initiation of the study drug).
 
-Table 11: Posaconazole Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 12: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
 | n=557(%) | n=262(%) | n=239(%) |  |
 | --- | --- | --- | --- |
 | Laboratory Test | Controlled |  | Refractory |
-| Posaconazole | Fluconazole | Posaconazole |  |
+| Noxafil Oral Suspension | Fluconazole | Noxafil Oral Suspension |  |
 | ALT > 3.0 × ULN | 16/537 (3) | 13/254 (5) | 25/226 (11) |
 | AST > 3.0 × ULN | 33/537 (6) | 26/254 (10) | 39/223 (17) |
 | Total Bilirubin > 1.5 × ULN | 15/536 (3) | 5/254 (2) | 9/197 (5) |
 | Alkaline Phosphatase > 3.0 × ULN | 17/535 (3) | 15/253 (6) | 24/190 (13) |
 | ALT= Alanine Aminotransferase; AST= Aspartate Aminotransferase. |  |  |  |
 
+Clinical Trial Experience in Pediatrics
+
+Clinical Trial Experience in Pediatric Patients (2 to less than 18 Years of Age)
+
+The safety of Noxafil injection and Noxafil PowderMix for delayed-release oral suspension for prophylaxis of invasive fungal infections has been assessed in an open label uncontrolled dose-ranging PK and safety study (Noxafil injection/ Noxafil PowderMix for delayed-release oral suspension Pediatric Study 1, NCT02452034); hereinafter referred to as Noxafil Pediatric Study) in 115 immunocompromised pediatric patients 2 to less than 18 years of age with known or expected neutropenia.
+Noxafil injection and Noxafil PowderMix for delayed-release oral suspension was administered at daily doses of up to 6 mg/kg (twice daily on day 1) in three dose cohorts.
+All 115 subjects initially received Noxafil injection for at least 7 days, and 63 subjects were transitioned to Noxafil PowderMix for delayed-release oral suspension.
+The mean overall treatment duration for all treated subjects was 20.6 days with 14.3 days (range: 1 to 28 days) on Noxafil injection and 11.6 days (range: 2 to 18 days) on Noxafil PowderMix for delayed-release oral suspension [see Clinical Pharmacology (12.3)].
+
+Table 13 presents adverse reactions observed in greater than or equal to 10% of pediatric patients treated with Noxafil in the Noxafil Pediatric Study.
+
+Reported adverse reaction profile of Noxafil in pediatric patients was consistent with the safety profile of Noxafil in adults.
+The most common adverse reactions (occurring in greater than 20% of pediatric patients receiving 6 mg/kg Noxafil injection and Noxafil PowderMix for delayed-release oral suspension daily dose) were pyrexia, febrile neutropenia, vomiting, mucosal inflammation, pruritus, hypertension, hypokalemia, and stomatitis.
+
+Table 13: Adverse Reactions in at Least 10% of Pediatric Patients Treated with Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension
+
+| Adverse Reaction | Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension 6 mg/kg Dose Cohort n=49 (%) | Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension All Dose Cohorts n=115 (%) |
+| --- | --- | --- |
+| Pyrexia | 16 (33) | 50 (43) |
+| Febrile neutropenia | 15 (31) | 25 (22) |
+| Vomiting | 12 (24) | 30 (26) |
+| Mucosal inflammation | 11 (22) | 32 (28) |
+| Pruritus | 11 (22) | 18 (16) |
+| Hypertension | 10 (20) | 20 (17) |
+| Hypokalemia | 10 (20) | 16 (14) |
+| Stomatitis | 10 (20) | 13 (11) |
+| Diarrhea | 9 (18) | 25 (22) |
+| Nausea | 9 (18) | 18 (16) |
+| Abdominal pain | 8 (16) | 20 (17) |
+| Decreased appetite | 7 (14) | 17 (15) |
+| Rash | 7 (14) | 18 (16) |
+| Alanine aminotransferase increased | 6 (12) | 8 (7) |
+| Headache | 6 (12) | 16 (14) |
+| Aspartate aminotransferase increased | 5 (10) | 8 (7) |
+
+The number of patients receiving Noxafil in the Noxafil Pediatric Study who had changes in liver tests from Grade 0, 1, or 2 at baseline to Grade 3 or 4 is presented in Table 14.
+
+Table 14: Noxafil Pediatric Study: Changes in Liver Tests from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+
+| Laboratory Parameter | Noxafil Injection and Noxafil PowderMix for Delayed- Release Oral Suspension (6 mg/kg daily) n=49 (%) |
+| --- | --- |
+| Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. Pediatric Study 1 |  |
+| AST | 2/49 (4) |
+| ALT | 3/49 (6) |
+| Bilirubin | 0/48 (0) |
+| Alkaline Phosphatase | 0/48 (0) |
+| CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase |  |
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reaction has been identified during the post-approval use of posaconazole.
+The following adverse reaction has been identified during the post-approval use of Noxafil.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
 Endocrine Disorders: Pseudoaldosteronism

@@ -2,12 +2,13 @@
 
 ## 1.1 Prophylaxis of Invasive Aspergillus and Candida Infections
 
-Noxafil® injection, delayed-release tablets, and oral suspension are indicated for prophylaxis of invasive Aspergillus and Candida infections in patients who are at high risk of developing these infections due to being severely immunocompromised, such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD) or those with hematologic malignancies with prolonged neutropenia from chemotherapy.
+Noxafil® is indicated for the prophylaxis of invasive Aspergillus and Candida infections in patients who are at high risk of developing these infections due to being severely immunocompromised, such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD) or those with hematologic malignancies with prolonged neutropenia from chemotherapy [see Clinical Studies (14.1)] as follows:
 
-Noxafil injection is indicated in patients 18 years of age and older.
-
-Noxafil delayed-release tablets and oral suspension are indicated in patients 13 years of age and older.
+- Noxafil injection: adults and pediatric patients 2 years of age and older
+- Noxafil delayed-release tablets: adults and pediatric patients 2 years of age and older who weigh greater than 40 kg
+- Noxafil oral suspension: adults and pediatric patients 13 years of age and older
+- Noxafil PowderMix for delayed-release oral suspension: pediatric patients 2 years of age and older (who weigh 40 kg or less)
 
 ## 1.2 Treatment of Oropharyngeal Candidiasis Including Oropharyngeal Candidiasis Refractory to Itraconazole and/or Fluconazole
 
-Noxafil oral suspension is indicated for the treatment of oropharyngeal candidiasis, including oropharyngeal candidiasis refractory to itraconazole and/or fluconazole.
+Noxafil oral suspension is indicated for the treatment of oropharyngeal candidiasis, including oropharyngeal candidiasis refractory to itraconazole and/or fluconazole in adults and pediatric patients 13 years of age and older.

@@ -20,4 +20,8 @@ Coadministration with the HMG-CoA reductase inhibitors that are primarily metabo
 
 ## 4.5 Use with Ergot Alkaloids
 
-Posaconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism [see Drug Interactions (7.4)].
+Noxafil may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism [see Drug Interactions (7.4)].
+
+## 4.6 Use of Noxafil PowderMix for Delayed-Release Oral Suspension in Patients with Hereditary Fructose Intolerance
+
+Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with known or suspected hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.7), Use in Specific Populations (8.4)].

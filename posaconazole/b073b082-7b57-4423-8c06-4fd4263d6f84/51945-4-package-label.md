@@ -49,3 +49,24 @@ For Intravenous Use Only
 Requires further dilution prior to infusion.
 
 Rx only Single-Dose Vial
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Carton
+
+NDC 0085-2224-02
+
+Noxafil® PowderMix (posaconazole) for Delayed-Release Oral Suspension
+
+300 mg
+
+For Pediatric Use For Oral Administration Only
+
+Each packet contains 300 mg posaconazole.
+
+Attention: Noxafil PowderMix for Delayed-Release Oral Suspension is NOT substitutable with Noxafil Oral Suspension due to differences in the dosing of each formulation.
+
+Use only the notched-tip syringes and mixing liquid provided with this kit.
+
+Rx only 8 packets
+
+Multi-Dose Kit A Additional notched-tip syringes are provided in Package B with this kit.
+DIRECTIONS FOR USE: See instructions for use booklet and prescribing information for additional information.
