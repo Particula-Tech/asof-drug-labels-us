@@ -1,6 +1,4 @@
-# Package/Label Display Panel
-
-## Estradiol Tablets USP 0.5 mg, 100s Label Text
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
 NDC 0555-0899-02
 
@@ -20,11 +18,7 @@ Rx only
 
 100 TABLETS
 
-TEVA
-
-# Package/Label Display Panel
-
-## Estradiol Tablets USP 1 mg, 100s Label Text
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 0555-0886-02
 
@@ -44,11 +38,7 @@ Rx only
 
 100 TABLETS
 
-TEVA
-
-# Package/Label Display Panel
-
-## Estradiol Tablets USP 2 mg, 100s Label Text
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 0555-0887-02
 
@@ -69,5 +59,3 @@ as a color additive.
 Rx only
 
 100 TABLETS
-
-TEVA
