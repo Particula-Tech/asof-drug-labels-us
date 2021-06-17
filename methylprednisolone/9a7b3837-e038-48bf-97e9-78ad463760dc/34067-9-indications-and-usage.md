@@ -4,7 +4,7 @@
 
 When oral therapy is not feasible and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intramuscular use of DEPO-MEDROL Sterile Aqueous Suspension is indicated as follows:
 
-Allergic States: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, seasonal or perennial allergic rhinitis, serum sickness, transfusion reactions.
+Allergic States: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, serum sickness, transfusion reactions.
 
 Dermatologic Diseases: Bullous dermatitis herpetiformis, exfoliative dermatitis, mycosis fungoides, pemphigus, severe erythema multiforme (Stevens-Johnson syndrome).
 

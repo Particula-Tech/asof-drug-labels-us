@@ -92,7 +92,6 @@ In chronic contact dermatitis, repeated injections at 5 to 10 day intervals may 
 In seborrheic dermatitis, a weekly dose of 80 mg may be adequate to control the condition.
 
 Following intramuscular administration of 80 to 120 mg to asthmatic patients, relief may result within 6 to 48 hours and persist for several days to two weeks.
-Similarly, in patients with allergic rhinitis (hay fever), an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
 
 If signs of stress are associated with the condition being treated, the dosage of the suspension should be increased.
 If a rapid hormonal effect of maximum intensity is required, the intravenous administration of highly soluble methylprednisolone sodium succinate is indicated.
