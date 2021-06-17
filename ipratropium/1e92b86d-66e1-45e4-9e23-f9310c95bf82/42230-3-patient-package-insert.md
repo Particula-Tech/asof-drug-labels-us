@@ -1,6 +1,8 @@
 # PATIENT’S INSTRUCTIONS FOR USE
 
-Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray)
+Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) 21 mcg/spray
+
+Rx only
 
 Read complete instructions carefully before using.
 
@@ -76,14 +78,28 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray).
 
-STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
+STORAGE: Store at 68° to 77°F (20° to 25°C); excursions are permitted to 59° to 86°F (15° to 30°C).
 Avoid freezing.
 Keep out of reach of children.
 
-Revised July 2016
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-©Bausch & Lomb Incorporated
+Bausch + Lomb, a division of
 
-9103605 (Folded)
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+© 2019 Bausch & Lomb Incorporated or its affiliates
+
+Revised: May 2019
+
+9682401 (Folded)

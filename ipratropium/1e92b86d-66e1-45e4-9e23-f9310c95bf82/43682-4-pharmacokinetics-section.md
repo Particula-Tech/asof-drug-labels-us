@@ -8,7 +8,7 @@ Its blood/plasma concentration ratio was estimated to be about 0.89.
 Studies in rats have shown that ipratropium bromide does not penetrate the blood-brain barrier.
 
 Metabolism: Ipratropium bromide is partially metabolized to ester hydrolysis products, tropic acid and tropane.
-These metabolites appear to be inactive based on in vitro receptor affinity studies using rat brain tissue homogenates.
+These metabolites appear to be inactive based on in vitroreceptor affinity studies using rat brain tissue homogenates.
 
 Elimination: After intravenous administration of 2 mg ipratropium bromide to 10 healthy volunteers, the terminal half-life of ipratropium was approximately 1.6 hours.
 The total body clearance and renal clearance were estimated to be 2,505 and 1,019 mL/min, respectively.
