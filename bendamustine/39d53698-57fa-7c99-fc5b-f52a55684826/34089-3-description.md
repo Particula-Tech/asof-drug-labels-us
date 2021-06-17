@@ -7,7 +7,8 @@ Bendamustine hydrochloride contains a mechlorethamine group and a benzimidazole 
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-TREANDA (bendamustine HCl) Injection for intravenous use is supplied as a sterile clear colorless to yellow solution in a single-dose vialEach 0.5 mL vial contains 45 mg of bendamustine hydrochloride, 162 mg of Propylene Glycol, USP and 293 mg of N,N-Dimethylacetamide, EP.
+TREANDA (bendamustine HCl) Injection for intravenous use is supplied as a sterile clear colorless to yellow solution in a single-dose vial.
+Each 0.5 mL vial contains 45 mg of bendamustine hydrochloride, 162 mg of Propylene Glycol, USP and 293 mg of N,N-Dimethylacetamide, EP.
 Each 2 mL vial contains 180 mg of bendamustine hydrochloride, 648 mg of Propylene Glycol, USP and 1172 mg of N,N-Dimethylacetamide, EP.
 An overfill of 0.2 mL is included in each vial.
 
@@ -16,4 +17,4 @@ TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 TREANDA (bendamustine HCl) for Injection for intravenous use is supplied as a sterile non-pyrogenic white to off-white lyophilized powder in a single-dose vial.
 Each 25-mg vial contains 25 mg of bendamustine hydrochloride and 42.5 mg of mannitol, USP.
 Each 100-mg vial contains 100 mg of bendamustine hydrochloride and 170 mg of mannitol, USP.
-The pH of the reconstituted solution is 2.5 - 3.5.
+The pH of the reconstituted solution is 2.5 to 3.5.

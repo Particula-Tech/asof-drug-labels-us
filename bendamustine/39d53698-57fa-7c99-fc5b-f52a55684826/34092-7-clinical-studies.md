@@ -16,10 +16,9 @@ Efficacy endpoints of objective response rate and progression-free survival were
 The results of this open-label randomized study demonstrated a higher rate of overall response and a longer progression-free survival for TREANDA compared to chlorambucil (see Table 5).
 Survival data are not mature.
 
-Table 5: Efficacy Data for CLL
-
-|  | TREANDA(N=153) | Chlorambucil(N=148) | p-value |
+| Table 5: Efficacy Data for CLL |  |  |  |
 | --- | --- | --- | --- |
+|  | TREANDA(N=153) | Chlorambucil(N=148) | p-value |
 | Response Rate n (%) |  |  |  |
 | Overall response rate | 90 (59) | 38 (26) | <0.0001 |
 | (95% CI) | (51.0, 66.6) | (18.6, 32.7) |  |

@@ -15,7 +15,7 @@ Do not mix or combine the two formulations.
 
 TREANDA Injection must be withdrawn and transferred for dilution in a biosafety cabinet (BSC) or containment isolator using a polypropylene syringe with a metal needle and a polypropylene hub.
 
-If a CSTD or adapter that contains polycarbonate or ABS is used as supplemental protection prior to dilution1, only use TREANDA for Injection, the lyophilized powder formulation [see How Supplied/Storage and Handling (16.1)].
+If a CSTD or adapter that contains polycarbonate or ABS is used as supplemental protection prior to dilution1, only use TREANDA for Injection, the lyophilized powder formulation [see How Supplied/Storage and Handling (16)].
 
 ## 2.2 Dosing Instructions for CLL
 
@@ -95,7 +95,7 @@ If a closed system transfer device or adapter that contains polycarbonate or ABS
   If particulate matter is observed, the reconstituted product should not be used.
 - Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
   As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
-  The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.6 mg/mL.
+  The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 to 0.6 mg/mL.
   After transferring, thoroughly mix the contents of the infusion bag.
 - Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
   The admixture should be a clear and colorless to slightly yellow solution.
@@ -113,10 +113,10 @@ The admixture should be prepared as close as possible to the time of patient adm
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°-8°C (36°-46°F) or for 2 hours when stored at room temperature (15°-30°C or 59°-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°C to 8°C (36°F to 46°F) or for 2 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of diluted TREANDA Injection must be completed within this period.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°-8°C (36°-46°F) or for 3 hours when stored at room temperature (15°-30°C or 59°-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°C to 8°C (36°F to 46°F) or for 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of reconstituted and diluted TREANDA for Injection must be completed within this period.

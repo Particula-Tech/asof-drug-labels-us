@@ -10,7 +10,7 @@ Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -18,7 +18,7 @@ Animal data
 
 Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities), and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
-Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7-11 resulted in an increase in resorptions from 75 mg/m2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
+Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7 to 11 resulted in an increase in resorptions from 75 mg/m2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
 
 Bendamustine hydrochloride was intraperitoneally administered once to rats from 120 mg/m2 (approximately the MRHD) on gestation days 4, 7, 9, 11, or 13 and caused embryo and fetal lethality as indicated by increased resorptions and a decrease in live fetuses.
 A significant increase in external (effect on tail, head, and herniation of external organs [exomphalos]) and internal (hydronephrosis and hydrocephalus) malformations were seen in dosed rats.
@@ -32,7 +32,7 @@ Because of the potential for serious adverse reactions in the breastfed child, a
 
 ## 8.3 Females and Males of Reproductive Potential
 
-TREANDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+TREANDA can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -65,7 +65,7 @@ The long-term effects of TREANDA on male fertility, including the reversibility 
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1-19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
+Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1 to 19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
 TREANDA was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
 There was no treatment response (CR+ CRp) in any patient in the Phase 2 portion of the trial at a dose of 120 mg/m2.
 However, 2 patients with ALL achieved CR at a dose of 90 mg/m2 in the Phase 1 portion of the study.
@@ -87,4 +87,4 @@ Do not use TREANDA in patients with creatinine clearance (CLcr) < 30 mL/min.
 
 ## 8.7 Hepatic Impairment
 
-Do not use TREANDA in patients with AST or ALT 2.5-10 × upper limit of normal (ULN) and total bilirubin 1.5-3 × ULN, or total bilirubin > 3 × ULN (see Clinical Pharmacology (12.3)]
+Do not use TREANDA in patients with AST or ALT 2.5-10 × upper limit of normal (ULN) and total bilirubin 1.5-3 × ULN, or total bilirubin > 3 × ULN [see Clinical Pharmacology (12.3)]

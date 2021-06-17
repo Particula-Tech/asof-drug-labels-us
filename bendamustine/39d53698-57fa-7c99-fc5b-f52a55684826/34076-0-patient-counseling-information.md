@@ -2,17 +2,21 @@
 
 Allergic (Hypersensitivity) Reactions
 
-Inform patients of the possibility of mild or serious allergic reactions and to immediately report rash, facial swelling, or difficulty breathing during or soon after infusion [see Warnings and Precautions (5.3)].
+Inform patients of the possibility of mild or serious allergic reactions and to immediately report rash, facial swelling, or difficulty breathing during or soon after infusion [see Warnings and Precautions (5.4)].
 
 Myelosuppression
 
 Inform patients of the likelihood that TREANDA will cause a decrease in white blood cells, platelets, and red blood cells, and the need for frequent monitoring of blood counts.
 Advise patients to report shortness of breath, significant fatigue, bleeding, fever, or other signs of infection [see Warnings and Precautions (5.1)].
 
+Progressive Multifocal Leukoencephalopathy (PML)
+
+Inform patients to immediately contact their healthcare provider if they experience confusion, memory loss, trouble thinking, difficulty talking or walking, vision loss or other neurological or cognitive symptoms [see Warnings and Precautions (5.3)].
+
 Hepatotoxicity
 
 Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.6)].
+Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.7)].
 
 Fatigue
 
@@ -31,12 +35,16 @@ Patients should report diarrhea to the physician so that symptomatic treatment m
 Rash
 
 Advise patients that a rash or itching may occur during treatment with TREANDA.
-Advise patients to immediately report severe or worsening rash or itching [see Warnings and Precautions (5.5)].
+Advise patients to immediately report severe or worsening rash or itching [see Warnings and Precautions (5.6)].
+
+Non-Melanoma Skin Cancer (NMSC)
+
+Advise patients to undergo regular skin cancer screenings, and to report any suspicious skin changes to their healthcare provider [see Warnings and Precautions (5.8)].
 
 Embryo-Fetal Toxicity
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
+Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
 Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for at least 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].
 Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
 
@@ -48,11 +56,11 @@ Infertility
 
 Advise males of reproductive potential that TREANDA may impair fertility [see Use in Specific Populations (8.3)].
 
-Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454 TREANDA is a trademark of Cephalon, Inc. or its affiliates.
+Distributed By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-©2008-2019 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd. or its affiliates.
+©2021 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd.
 
 United States Patent Nos. 8436190, 8445524, 8609863, 8669279, 8791270, 8883836, 8895756, 9533955.
 All rights reserved.
 
-TRE-016
+TRE-017

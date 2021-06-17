@@ -4,12 +4,13 @@ The following clinically significant adverse reactions have been associated with
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.3)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- Skin Reactions [see Warnings and Precautions (5.5)]
-- Hepatotoxicity [see Warnings and Precautions (5.6)]
-- Other Malignancies [see Warnings and Precautions (5.7)]
-- Extravasation Injury [see Warnings and Precautions (5.8)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.5)]
+- Skin Reactions [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Other Malignancies [see Warnings and Precautions (5.8)]
+- Extravasation Injury [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -176,11 +177,10 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
 
-Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies
-
-|  | Percent of patients |  |
+| Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies |  |  |
 | --- | --- | --- |
-| Hematology variable | All Grades | Grade 3/4 |
+| Hematology variable | Percent of patients |  |
+| All Grades | Grade 3/4 |  |
 | Lymphocytes Decreased | 99 | 94 |
 | Leukocytes Decreased | 94 | 56 |
 | Hemoglobin Decreased | 88 | 11 |
@@ -191,7 +191,7 @@ In both studies, serious adverse reactions, regardless of causality, were report
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
 Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
-Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
+Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
 Adverse reactions occurring less frequently but possibly related to TREANDA treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
 ## 6.2 Postmarketing Experience
@@ -207,9 +207,8 @@ General disorders and administration site conditions: Injection site reactions (
 
 Immune system disorders: Anaphylaxis
 
-Infections and infestations: Pneumocystis jiroveci pneumonia
+Infections and infestations: Pneumocystis jiroveci pneumonia, progressive multifocal leukoencephalopathy (PML)
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
-[see Warnings and Precautions (5.5)]
+Skin and subcutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)

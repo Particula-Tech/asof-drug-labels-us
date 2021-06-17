@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Safe Handling and Disposal
+Safe Handling and Disposal
 
 TREANDA (bendamustine hydrochloride) is a cytotoxic drug.
 Follow applicable special handling and disposal procedures1.
@@ -10,7 +10,7 @@ If gloves come in contact with TREANDA Injection prior to dilution, remove glove
 If a solution of TREANDA (bendamustine hydrochloride) contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If TREANDA (bendamustine hydrochloride) contacts the mucous membranes, flush thoroughly with water.
 
-## 16.2 How Supplied
+How Supplied
 
 TREANDA (bendamustine hydrochloride) Injection is supplied as a 90 mg/mL clear colorless to yellow solution in individual cartons as follows:
 
@@ -22,11 +22,11 @@ TREANDA (bendamustine hydrochloride) for Injection is supplied in individual car
 - NDC 63459-390-08: 25 mg white to off-white lyophilized powder in a 8 mL amber single-dose vial
 - NDC 63459-391-20: 100 mg white to off-white lyophilized powder in a 20 mL amber single-dose vial
 
-## 16.3 Storage
+Storage
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-Store TREANDA Injection in refrigerator 2° to8°C (36° to46°F).
+Store TREANDA Injection in refrigerator 2°C to 8°C (36°F to 46°F).
 Retain in original package until time of use to protect from light.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
