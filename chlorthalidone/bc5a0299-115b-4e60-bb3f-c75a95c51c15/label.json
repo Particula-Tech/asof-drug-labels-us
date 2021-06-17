@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019574"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Casper Pharma LLC",
+  "package_ndcs": [
+    "70199-001-01",
+    "70199-001-30",
+    "70199-017-01",
+    "70199-017-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "Thalitone"
+    }
+  ],
+  "setid": "bc5a0299-115b-4e60-bb3f-c75a95c51c15",
+  "source": "dailymed"
+}
