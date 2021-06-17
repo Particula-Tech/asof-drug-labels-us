@@ -1,5 +1,7 @@
 Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
+Medication Guide available at www1.apotex.com/products/us
+
 What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
@@ -19,24 +21,22 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
   - without warning symptoms
   - that may cause death
 
-The risk of getting an ulcer or bleeding increases with:
+- The risk of getting an ulcer or bleeding increases with:
+  - past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+  - taking medicines called "corticosteroids", “antiplatelet drugs”, "anticoagulants", "SSRIs" or "SNRIs"
+  - increasing doses of NSAIDs
+  - longer use of NSAIDs
+  - smoking
+  - drinking alcohol
+  - older age
+  - poor health
+  - advanced liver disease
+  - bleeding problems
 
-- past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-- taking medicines called "corticosteroids", “antiplatelet drugs”, "anticoagulants", "SSRIs" or "SNRIs"
-- increasing doses of NSAIDs
-- longer use of NSAIDs
-- smoking
-- drinking alcohol
-- older age
-- poor health
-- advanced liver disease
-- bleeding problems
-
-NSAIDs should only be used:
-
-- exactly as prescribed
-- at the lowest dose possible for your treatment
-- for the shortest time needed
+- NSAIDs should only be used:
+  - exactly as prescribed
+  - at the lowest dose possible for your treatment
+  - for the shortest time needed
 
 What are NSAIDs?
 NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
@@ -53,8 +53,9 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
 - have high blood pressure
 - have asthma
 - are pregnant or plan to become pregnant.
-  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy
 - are breastfeeding or plan to breast feed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
@@ -143,6 +144,6 @@ CELECOXIB CAPSULES
 | Weston, Florida |
 | USA 33326 |
 
-Revised: August 2019
+Revised: May 2021
 
-Revision: 10
+Revision: 11

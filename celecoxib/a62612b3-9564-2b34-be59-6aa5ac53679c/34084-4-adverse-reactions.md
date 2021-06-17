@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,24 +30,24 @@ Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-market
 |  |  | CBX N=4146 | Placebo N=1864 | NAP N=1366 | DCF N=387 | IBU N=345 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gastrointestinal |  |  |  |  |  |  |
-|  | Abdominal Pain | 4.1% | 2.8% | 7.7% | 9.0% | 9.0% |
+|  | Abdominal Pain | 4.1% | 2.8% | 7.7% | 9% | 9% |
 |  | Diarrhea | 5.6% | 3.8% | 5.3% | 9.3% | 5.8% |
 |  | Dyspepsia | 8.8% | 6.2% | 12.2% | 10.9% | 12.8% |
-|  | Flatulence | 2.2% | 1.0% | 3.6% | 4.1% | 3.5% |
-|  | Nausea | 3.5% | 4.2% | 6.0% | 3.4% | 6.7% |
+|  | Flatulence | 2.2% | 1% | 3.6% | 4.1% | 3.5% |
+|  | Nausea | 3.5% | 4.2% | 6% | 3.4% | 6.7% |
 | Body as a whole |  |  |  |  |  |  |
 |  | Back Pain | 2.8% | 3.6% | 2.2% | 2.6% | 0.9% |
-|  | Peripheral Edema | 2.1% | 1.1% | 2.1% | 1.0% | 3.5% |
+|  | Peripheral Edema | 2.1% | 1.1% | 2.1% | 1% | 3.5% |
 |  | Injury-Accidental | 2.9% | 2.3% | 3.0% | 2.6% | 3.2% |
 | Central, Peripheral Nervous system |  |  |  |  |  |  |
-|  | Dizziness | 2.0% | 1.7% | 2.6% | 1.3% | 2.3% |
+|  | Dizziness | 2% | 1.7% | 2.6% | 1.3% | 2.3% |
 |  | Headache | 15.8% | 20.2% | 14.5% | 15.5% | 15.4% |
 | Psychiatric |  |  |  |  |  |  |
 |  | Insomnia | 2.3% | 2.3% | 2.9% | 1.3% | 1.4% |
 | Respiratory |  |  |  |  |  |  |
 |  | Pharyngitis | 2.3% | 1.1% | 1.7% | 1.6% | 2.6% |
-|  | Rhinitis | 2.0% | 1.3% | 2.4% | 2.3% | 0.6% |
-|  | Sinusitis | 5.0% | 4.3% | 4.0% | 5.4% | 5.8% |
+|  | Rhinitis | 2% | 1.3% | 2.4% | 2.3% | 0.6% |
+|  | Sinusitis | 5% | 4.3% | 4% | 5.4% | 5.8% |
 |  | Upper Respiratory Infection | 8.1% | 6.7% | 9.9% | 9.8% | 9.9% |
 | Skin |  |  |  |  |  |  |
 |  | Rash | 2.2% | 2.1% | 2.1% | 1.3% | 1.2% |
@@ -86,7 +86,7 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 | General: | Sepsis, sudden death |
 | Liver and biliary: | Cholelithiasis |
 | Hemic and lymphatic: | Thrombocytopenia |
-| Nervous: | Ataxia, suicide [see Drug Interactions (7.1)] |
+| Nervous: | Ataxia, suicide [see Drug Interactions (7)] |
 | Renal: | Acute renal failure |
 
 The Celecoxib Long-Term Arthritis Safety Study [see Clinical Studies (14.7)] Hematological Events: The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
@@ -96,7 +96,7 @@ Withdrawals/Serious Adverse Events: Kaplan-Meier cumulative rates at 9 months fo
 Rates for serious adverse events (i.e., causing hospitalization or felt to be life-threatening or otherwise medically significant), regardless of causality, were not different across treatment groups (8%, 7%, and 8%, respectively).
 
 Juvenile Rheumatoid Arthritis Study In a 12-week, double-blind, active-controlled study, 242 JRA patients 2 years to 17 years of age were treated with celecoxib or naproxen; 77 JRA patients were treated with celecoxib 3 mg/kg twice daily, 82 patients were treated with celecoxib 6 mg/kg twice daily, and 83 patients were treated with naproxen 7.5 mg/kg twice daily.
-The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea and vomiting.
+The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea, and vomiting.
 The most commonly occurring (≥5%) adverse experiences for naproxen-treated patients were headache, nausea, vomiting, fever, upper abdominal pain, diarrhea, cough, abdominal pain, and dizziness (Table 2).
 Compared with naproxen, celecoxib at doses of 3 and 6 mg/kg twice daily had no observable deleterious effect on growth and development during the course of the 12-week double-blind study.
 There was no substantial difference in the number of clinical exacerbations of uveitis or systemic features of JRA among treatment groups.
@@ -145,7 +145,7 @@ Doses up to 600 mg/day of celecoxib were studied in primary dysmenorrhea and pos
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
 The only additional adverse event reported was post-dental extraction alveolar osteitis (dry socket) in the post-oral surgery pain studies.
 
-The APC and PreSAP Trials Adverse reactions from long-term, placebo- controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+The APC and PreSAP Trials Adverse reactions from long-term, placebo- controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -153,7 +153,7 @@ The adverse reactions for which these differences in patients treated with celec
 |  | Celecoxib (400 to 800 mg daily) | Placebo |
 | --- | --- | --- |
 |  | N= 2285 | N= 1303 |
-| Diarrhea | 10.5% | 7.0% |
+| Diarrhea | 10.5% | 7% |
 | Gastroesophageal reflux disease | 4.7% | 3.1% |
 | Nausea | 6.8% | 5.3% |
 | Vomiting | 3.2% | 2.1% |

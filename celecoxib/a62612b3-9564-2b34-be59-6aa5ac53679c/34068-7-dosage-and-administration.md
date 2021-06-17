@@ -9,11 +9,11 @@ These doses can be given without regard to timing of meals.
 
 ## 2.2 Osteoarthritis
 
-For the OA, dosage is 200 mg per day administered as a single dose or as 100 mg twice daily.
+For OA, the dosage is 200 mg per day administered as a single dose or as 100 mg twice daily.
 
 ## 2.3 Rheumatoid Arthritis
 
-For the RA, dosage is 100 mg to 200 mg twice daily.
+For RA, the dosage is 100 mg to 200 mg twice daily.
 
 ## 2.4 Juvenile Rheumatoid Arthritis
 
@@ -41,7 +41,7 @@ On subsequent days, the recommended dose is 200 mg twice daily as needed.
 Hepatic Impairment
 
 In patients with moderate hepatic impairment (Child-Pugh Class B), reduce the dose by 50%.
-The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Poor Metabolizers of CYP2C9 Substrates
 

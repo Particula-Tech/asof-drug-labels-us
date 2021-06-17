@@ -32,12 +32,12 @@ It has extensive distribution and high protein binding.
 It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours.
 
 Absorption Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
-Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC [see Food Effects].
+Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC (see Food Effects).
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady- state conditions are reached on or before Day 5.
 The pharmacokinetic parameters of celecoxib in a group of healthy subjects are shown in Table 4.
 
-| Table 4 Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1 |  |  |  |  |
+| Table 4. Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Mean (%CV) PK Parameter Values |  |  |  |  |
 | Cmax, ng/mL | Tmax, hr | Effective t1/2, hr | Vss/F, L | CL/F, L/hr |
@@ -74,12 +74,12 @@ The apparent plasma clearance (CL/F) is about 500 mL/min.
 Specific Populations Geriatric At steady state, elderly subjects (over 65 years old) had a 40% higher Cmax and a 50% higher AUC compared to the young subjects.
 In elderly females, celecoxib Cmax and AUC are higher than those for elderly males, but these increases are predominantly due to lower body weight in elderly females.
 Dose adjustment in the elderly is not generally necessary.
-However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Dosage and Administration (2.7) and Use in Specific Populations (8.5)].
+However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Use in Specific Populations (8.5)].
 
 Pediatric The steady state pharmacokinetics of celecoxib administered as an investigational oral suspension was evaluated in 152 JRA patients 2 years to 17 years of age weighing ≥10 kg with pauciarticular or polyarticular course JRA and in patients with systemic onset JRA.
 Population pharmacokinetic analysis indicated that the oral clearance (unadjusted for body weight) of celecoxib increases less than proportionally to increasing weight, with 10 kg and 25 kg patients predicted to have 40% and 24% lower clearance, respectively, compared with a 70 kg adult RA patient.
 
-Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see Dosage and Administration (2.4].
+Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see Dosage and Administration (2.4)].
 Celecoxib has not been studied in JRA patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), or beyond 24 weeks.
 
 Race Meta-analysis of pharmacokinetic studies has suggested an approximately 40% higher AUC of celecoxib in Blacks compared to Caucasians.
@@ -88,7 +88,7 @@ The cause and clinical significance of this finding is unknown.
 Hepatic Impairment A pharmacokinetic study in subjects with mild (Child-Pugh Class A) and moderate (Child-Pugh Class B) hepatic impairment has shown that steady-state celecoxib AUC is increased about 40% and 180%, respectively, above that seen in healthy control subjects.
 Therefore, the daily recommended dose of celecoxib capsules should be reduced by approximately 50% in patients with moderate (Child-Pugh Class B) hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh Class C) have not been studied.
-The use of celecoxib in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+The use of celecoxib in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Renal Impairment In a cross-study comparison, celecoxib AUC was approximately 40% lower in patients with chronic renal insufficiency (GFR 35 to 60 mL/min) than that seen in subjects with normal renal function.
 No significant relationship was found between GFR and celecoxib clearance.
@@ -107,11 +107,11 @@ Lithium In a study conducted in healthy subjects, mean steady-state lithium plas
 Fluconazole Concomitant administration of fluconazole at 200 mg once daily resulted in a two-fold increase in celecoxib plasma concentration.
 This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole [see Drug Interactions (7)].
 
-Other Drugs The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole [see Drug Interactions (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
+Other Drugs The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole, [see Drug Interactions (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
 
 ## 12.5 Pharmacogenomics
 
 CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
 Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
 The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
-It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups [see Dosage and Administration (2.6), Use in Specific Populations (8.8)].
+It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1% in various ethnic groups [see Dosage and Administration (2.7), Use in Specific Populations (8.8)].
