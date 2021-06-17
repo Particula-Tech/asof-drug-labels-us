@@ -1,15 +1,12 @@
 # 10 OVERDOSAGE
 
-Human Experience
+The following have been reported with paroxetine tablet overdosage:
 
-Since the introduction of PAXIL in the United States, spontaneous cases of deliberate or accidental overdosage during paroxetine treatment have been reported worldwide.
-These include overdoses with paroxetine alone and in combination with other substances.
-There are reports of fatalities that appear to involve paroxetine alone.
+- Seizures, which may be delayed, and altered mental status including coma.
+- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation.
+  Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
+- Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergicdrugs may have a higher risk).
 
-Commonly reported adverse reactions associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.
-Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including torsade de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
+Gastrointestinal decontamination with activated charcoal should be considered inpatients who present early after a paroxetine overdose.
 
-Overdosage Management
-
-No specific antidotes for PAXIL are known.
-If overdosage occurs, call your poison control center at 1-800-222-1222 for latest recommendations.
+Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist foradditional overdosage management recommendations.
