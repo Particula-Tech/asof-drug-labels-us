@@ -16,8 +16,6 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx Only
 
-Actavis
-
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 0228-2891-03
@@ -36,8 +34,6 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx Only
 
-Actavis
-
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 0228-2892-03
@@ -55,5 +51,3 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 30 Capsules
 
 Rx Only
-
-Actavis
