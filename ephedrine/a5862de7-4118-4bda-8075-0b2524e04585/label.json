@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214579"
+  ],
+  "inn": "ephedrine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-373-01",
+    "55150-373-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine Sulfate"
+    }
+  ],
+  "setid": "a5862de7-4118-4bda-8075-0b2524e04585",
+  "source": "dailymed"
+}
