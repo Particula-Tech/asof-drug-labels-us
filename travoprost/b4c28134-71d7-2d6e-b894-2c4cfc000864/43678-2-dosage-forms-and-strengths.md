@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS & STRENGTHS SECTION
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Ophthalmic solution containing travoprost 0.03 mg/mL.
