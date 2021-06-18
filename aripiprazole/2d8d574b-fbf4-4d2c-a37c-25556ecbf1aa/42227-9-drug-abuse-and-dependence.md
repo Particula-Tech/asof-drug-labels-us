@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-Aripiprazole tablet is not a controlled substance.
+Aripiprazole is not a controlled substance.
 
 ## 9.2 Abuse
 
-Aripiprazole tablet has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.
-Consequently, patients should be evaluated carefully for a history of drug abuse, and such patients should be observed closely for signs of aripiprazole tablets misuse or abuse (e.g., development of tolerance, increases in dose, drug-seeking behavior).
+Aripiprazole has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.
+Consequently, patients should be evaluated carefully for a history of drug abuse, and such patients should be observed closely for signs of aripiprazole misuse or abuse (e.g., development of tolerance, increases in dose, drug-seeking behavior).
 
 ## 9.3 Dependence
 
