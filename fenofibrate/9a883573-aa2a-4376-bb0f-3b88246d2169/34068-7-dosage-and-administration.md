@@ -21,11 +21,11 @@ Therapy should be withdrawn in patients who do not have an adequate response aft
 
 Consideration should be given to reducing the dosage of LIPOFEN if lipid levels fall significantly below the targeted range.
 
-## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia:
+## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia
 
 The dose of LIPOFEN is 150 mg once daily.
 
-## 2.3 Severe Hypertriglyceridemia:
+## 2.3 Severe Hypertriglyceridemia
 
 The initial dose is 50 to 150 mg per day.
 Dosage should be individualized according to patient response, and should be adjusted if necessary following repeat lipid determination at 4 to 8 week intervals.

@@ -28,7 +28,7 @@ The extent and rate of absorption of fenofibric acid after administration of 150
 
 Fenofibrate is a pro-drug of the active chemical moiety fenofibric acid.
 Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid which is the active constituent measurable in the circulation.
-In a bioavailability study with LIPOFEN capsules 200 mg, following single-dose administration, the plasma concentration (AUC) for the parent compound fenofibrate was approximately 40 μg/mL compared to 204 μg/mL for the metabolite, fenofibric acid.
+In a bioavailability study with LIPOFEN capsules 200 mg, following single-dose administration, the plasma concentration (AUC) for the parent compound fenofibrate was approximately 40 µg/mL compared to 204 µg/mL for the metabolite, fenofibric acid.
 In the same study, the half-life was observed to be 0.91 hrs for the parent compound versus 16.76 hrs for the metabolite.
 
 Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
@@ -81,39 +81,33 @@ Drug-Drug Interactions: In vitro studies using human liver microsomes indicate t
 They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild to moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
-Table 3 describes the effects of fenofibrate on coadministered drugs.
+Table 3 describes the effects of fenofibrate on co-administered drugs.
 
-Table 2.
-Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
+Table 2: Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | AUC | C max |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | Lipid-lowering agents |  |  |  |  |
-| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
-| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
-| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
-| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
-| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for10 days | ↓9% | ↓6% |
-| Rosiglitazone | 8 mg once daily for5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
-| 1TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑1% | ↓1% |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑10% | ↑3% |
 
-Table 3.
-Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
+Table 3: Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug |  | Change in Co-Administered Drug Exposure |  |
+| Analyte | AUC | Cmax |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Analyte | AUC | C max |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
 | Lipid-lowering agents |  |  |  |  |
-| Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
-| Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
 |  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
-| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
-| Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
-| Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| 1TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| Fenofibrate 145 mg once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 54 mg three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
+| Fenofibrate 145 mg once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |

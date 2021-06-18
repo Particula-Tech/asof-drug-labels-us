@@ -2,7 +2,7 @@ Principal Display Panel – 50mg Bottle Label
 
 NDC 66869-137-30
 
-Lipofen ®
+Lipofen®
 
 (fenofibrate capsules, usp)
 
@@ -22,7 +22,7 @@ Principal Display Panel – 150mg Bottle Label
 
 NDC 66869-147-30
 
-Lipofen ®
+Lipofen®
 
 (fenofibrate capsules, usp)
 

@@ -2,17 +2,15 @@
 
 ## 1.1 Primary Hypercholesterolemia or Mixed Dyslipidemia
 
-LIPOFEN is indicated as adjunctive therapy to diet to reduce elevated low- density lipoprotein cholesterol (LDL-C), total cholesterol (total-c), Triglycerides (TG) and apolopoprotein B (Apo B), and to increase high- density lipoprotein cholesterol (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia.
+LIPOFEN is indicated as adjunctive therapy to diet to reduce elevated low-density lipoprotein cholesterol (LDL-C), total cholesterol (total-c), Triglycerides (TG) and apolopoprotein B (Apo B), and to increase high-density lipoprotein cholesterol (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia.
 
 ## 1.2 Severe Hypertriglyceridemia
 
 LIPOFEN is also indicated as adjunctive therapy to diet for treatment of adult patients with severe hypertriglyceridemia.
 Improving glycemic control in diabetic patients showing fasting chylomicronemia will usually obviate the need for pharmacologic intervention.
 
-Markedly elevated levels of serum triglycerides (e.g. > 2,000 mg/dL) may increase the risk of developing pancreatitis.
+Markedly elevated levels of serum triglycerides (e.g., > 2,000 mg/dL) may increase the risk of developing pancreatitis.
 The effect of fenofibrate therapy on reducing this risk has not been adequately studied.
-
-.
 
 ## 1.3 Important Limitations of Use
 

@@ -9,7 +9,8 @@ In animal reproduction studies, no evidence of embryo-fetal toxicity was observe
 Adverse reproductive outcomes occurred at higher doses in the presence of maternal toxicity (see Data).
 LIPOFEN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Urticaria was seen in 1.1 vs. 0% and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients respectively in controlled trials.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
