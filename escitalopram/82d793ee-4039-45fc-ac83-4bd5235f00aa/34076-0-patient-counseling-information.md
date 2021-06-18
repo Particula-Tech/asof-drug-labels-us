@@ -36,7 +36,7 @@ Safety and effectiveness of escitalopram oxalate in MDD has not been established
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India Revised 09/2019
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India Revised 09/2019
 
 ## 17.2 FDA-Approved Medication Guide
 
@@ -57,7 +57,7 @@ Escitalopram oxalate oral solution may be associated with these serious side eff
 Serotonin Syndrome.
 This condition can be life-threatening and may include: • agitation, hallucinations, coma or other changes in mental status • coordination problems or muscle twitching (overactive reflexes) • racing heartbeat, high or low blood pressure • sweating or fever • nausea, vomiting, or diarrhea • muscle rigidity 3.
 Severe allergic reactions: • trouble breathing • swelling of the face, tongue, eyes or mouth • rash, itchy welts (hives) or blisters, alone or with fever or joint pain 4.
-Abnormal bleeding: Escitalopram oxalate oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Escitalopram oxalate oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ®, Jantoven ®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
 Seizures or convulsions 6.
 Manic episodes: • greatly increased energy • severe trouble sleeping • racing thoughts • reckless behavior • unusually grand ideas • excessive happiness or irritability • talking more or faster than usual 7.
@@ -125,5 +125,5 @@ You may ask your healthcare provider or pharmacist for information about escital
 For more information, call 1-866-495-1995.
 What are the ingredients in escitalopram oxalate oral solution?
 Active ingredient: escitalopram oxalate Inactive ingredients: anhydrous citric acid, glycerin, malic acid, methylparaben, natural peppermint flavor, non-crystallizing sorbital solution, propylene glycol, propylparaben, purified water and sodium citrate dihydrate.
-Medication Guide available at http://camberpharma.com/medication-guides Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India Revised: 09/2019 Coumadin®, Jantoven® and Orap® are the registered trademarks of their respective owners and are not the trademarks of Hetero Labs Limited.
+Medication Guide available at http://camberpharma.com/medication-guides Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India Revised: 09/2019 Coumadin ®, Jantoven ® and Orap ® are the registered trademarks of their respective owners and are not the trademarks of Hetero Labs Limited.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
