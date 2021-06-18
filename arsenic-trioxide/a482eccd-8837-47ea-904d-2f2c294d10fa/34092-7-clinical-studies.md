@@ -1,9 +1,9 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.2 Relapsed or Refractory APL
 
-Arsenic Trioxide Injection has been investigated in Study PLRXAS01, an open-label, single-arm trial in 40 relapsed or refractory APL patients, previously treated with an anthracycline and a retinoid regimen.
-Patients received Arsenic Trioxide Injection 0.15 mg/kg/day intravenously over 1 to 2 hours until the bone marrow was cleared of leukemic cells or up to a maximum of 60 days.
+Arsenic Trioxide Injection was investigated in Study PLRXAS01, an open-label, single-arm trial in 40 patients with relapsed or refractory APL who were previously treated with an anthracycline and a retinoid regimen.
+Patients received Arsenic Trioxide Injection 0.15 mg/kg/day intravenously over 1 to 2 hours until the bone marrow was cleared of leukemic cells or for a maximum of 60 days.
 The CR (absence of visible leukemic cells in bone marrow and peripheral recovery of platelets and white blood cells with a confirmatory bone marrow ≥ 30 days later) rate in this population of previously treated patients was 28 of 40 (70%).
 Among the 22 patients who had relapsed less than one year after treatment with tretinoin, there were 18 complete responders (82%).
 Of the 18 patients receiving Arsenic Trioxide Injection ≥ one year from tretinoin treatment, there were 10 complete responders (55%).
@@ -20,5 +20,5 @@ Cytogenetic conversion to no detection of the APL chromosome rearrangement was o
 RT-PCR conversions to no detection of the APL gene rearrangement were demonstrated in 22 of 28 (79%) of patients who met the response criteria, in 3 of 5 (60%) of patients who met some, but not all, of the response criteria, and in 2 of 7 (29%) of patients who did not respond.
 
 Responses were seen across all age groups tested, ranging from 6 to 72 years.
-The ability to achieve a CR was similar for both genders.
-There were insufficient patients of Black, Hispanic, or Asian derivation to estimate relative response rates in these groups, but responses were seen in members of each group.
+The ability to achieve a CR was similar for both sexes.
+There were insufficient patients of Black, Hispanic, or Asian ancestry to estimate relative response rates in these groups, but responses were seen in each group.

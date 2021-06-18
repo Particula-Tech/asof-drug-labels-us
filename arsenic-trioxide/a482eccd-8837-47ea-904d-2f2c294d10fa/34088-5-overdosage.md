@@ -1,12 +1,12 @@
-# 10 OVERDOSAGE
+# 10. OVERDOSAGE
 
-## 10.1 Manifestations
+Manifestations
 
-Manifestations of Arsenic Trioxide Injection overdosage include convulsions, muscle weakness, and confusion.
+Manifestations of Arsenic Trioxide Injection (arsenic trioxide) over-dosage include convulsions, muscle weakness, and confusion.
 
-## 10.2 Management
+Management
 
-If symptoms of Arsenic Trioxide Injection overdosage develop, the injection should be immediately discontinued and chelation therapy should be considered.
+For symptoms of Arsenic Trioxide Injection (arsenic trioxide) overdosage, immediately discontinue Arsenic Trioxide Injection and consider chelation therapy.
 
 A conventional protocol for acute arsenic intoxication includes dimercaprol administered at a dose of 3 mg/kg intramuscularly every 4 hours until immediate life-threatening toxicity has subsided.
 Thereafter, penicillamine at a dose of 250 mg orally, up to a maximum frequency of four times per day (≤ 1 g per day), may be given.

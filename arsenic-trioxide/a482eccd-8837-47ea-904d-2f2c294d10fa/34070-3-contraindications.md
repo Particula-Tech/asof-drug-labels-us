@@ -1,3 +1,3 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-Arsenic Trioxide Injection is contraindicated in patients who are hypersensitive to arsenic.
+Arsenic Trioxide Injection is contraindicated in patients with hypersensitivity to arsenic.

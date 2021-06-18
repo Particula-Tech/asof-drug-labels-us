@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
 ## 1.2 Relapsed or Refractory APL
 

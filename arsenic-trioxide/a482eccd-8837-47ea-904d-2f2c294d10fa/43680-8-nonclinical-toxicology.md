@@ -1,8 +1,8 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13. NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies have not been conducted with Arsenic Trioxide Injection by intravenous administration [see Warnings and Precautions (5.6)].
+Carcinogenicity studies have not been conducted with Arsenic Trioxide Injection [see Warnings and Precautions (5.6)].
 
 Arsenic trioxide and trivalent arsenite salts have not been demonstrated to be mutagenic to bacteria, yeast, or mammalian cells.
 Arsenite salts are clastogenic in vitro (human fibroblast, human lymphocytes, Chinese hamster ovary cells, Chinese hamster V79 lung cells).
