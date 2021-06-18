@@ -1,5 +1,8 @@
 # 4 CONTRAINDICATIONS
 
+Lisinopril is contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril).
+Do not administer Lisinopril within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor [see Warnings and Precautions (5.2)].
+
 Lisinopril is contraindicated in patients with:
 
 - •a history of angioedema or hypersensitivity related to previous treatment with an angiotensin converting enzyme inhibitor

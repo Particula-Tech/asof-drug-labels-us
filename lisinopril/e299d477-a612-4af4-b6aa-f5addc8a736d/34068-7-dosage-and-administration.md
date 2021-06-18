@@ -16,11 +16,11 @@ The recommended starting dose in adult patients with hypertension taking diureti
 
 Pediatric Patients 6 years of age and older with hypertension
 
-For pediatric patients with glomerular filtration rate > 30 mL/min/1.73 m2, the recommended starting dose is 0.07 mg per kg once daily (up to 5 mg total).
+For pediatric patients with glomerular filtration rate > 30 mL/min/1.73m2, the recommended starting dose is 0.07 mg per kg once daily (up to 5 mg total).
 Dosage should be adjusted according to blood pressure response up to a maximum of 0.61 mg per kg (up to 40 mg) once daily.
 Doses above 0.61 mg per kg (or in excess of 40 mg) have not been studied in pediatric patients [see Clinical Pharmacology (12.3)].
 
-Lisinopril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 [see Use in Specific Populations (8.4) and Clinical Studies (14.1)].
+Lisinopril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m2 [see Use in Specific Populations (8.4) and Clinical Studies (14.1)].
 
 ## 2.2 Heart Failure
 

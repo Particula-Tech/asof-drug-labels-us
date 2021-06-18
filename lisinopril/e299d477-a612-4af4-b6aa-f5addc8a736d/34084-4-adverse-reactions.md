@@ -71,7 +71,7 @@ In clinical trials, less than 0.1% of patients discontinued therapy due to anemi
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post-approval use of Lisinopril that are not included in other sections of labeling.
+The following adverse reactions have been identified during post-approval use of lisinopril that are not included in other sections of labeling.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Other reactions include:

@@ -40,12 +40,6 @@ No data are available regarding the presence of lisinopril in human milk or the 
 Lisinopril is present in rat milk.
 Because of the potential for severe adverse reactions in the breastfed infant, advise women not to breastfeed during treatment with lisinopril.
 
-## 8.3 Nursing Mothers
-
-Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ACE inhibitors, a decision should be made whether to discontinue nursing or discontinue Lisinopril, taking into account the importance of the drug to the mother.
-
 ## 8.4 Pediatric Use
 
 Antihypertensive effects and safety of lisinopril have been established in pediatric patients aged 6 to 16 years [see Dosage and Administration (2.1) and Clinical Studies (14.1)].

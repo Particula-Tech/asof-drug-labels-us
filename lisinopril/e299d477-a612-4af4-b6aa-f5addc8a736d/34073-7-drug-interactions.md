@@ -3,10 +3,10 @@
 ## 7.1 Diuretics
 
 Initiation of lisinopril in patients on diuretics may result in excessive reduction of blood pressure.
-The possibility of hypotensive effects with lisinopril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with Lisinopril.
+The possibility of hypotensive effects with lisinopril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril.
 If this is not possible, reduce the starting dose of lisinopril [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-lisinopril attenuates potassium loss caused by thiazide-type diuretics.
+Lisinopril attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) can increase the risk of hyperkalemia.
 Therefore, if concomitant use of such agents is indicated, monitor the patient’s serum potassium frequently.
 
@@ -31,7 +31,7 @@ In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on lisinopril and other agents that affect the RAS.
 
 Do not co-administer aliskiren with lisinopril in patients with diabetes.
-Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR <60 ml/min).
 
 ## 7.5 Lithium
 
@@ -45,7 +45,8 @@ Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypo
 
 ## 7.7 mTOR Inhibitors
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Warnings and Precautions (5.2)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+[see Warnings and Precautions (5.2)]
 
 ## 7.8 Neprilysin Inhibitor
 
