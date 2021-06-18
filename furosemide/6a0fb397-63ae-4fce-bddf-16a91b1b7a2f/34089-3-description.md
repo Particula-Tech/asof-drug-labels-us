@@ -7,6 +7,8 @@ Furosemide is available as white-off white tablets for oral administration in do
 Furosemide is a white to off-white odorless crystalline powder.
 It is practically insoluble in water, sparingly soluble in alcohol, freely soluble in dilute alkali solutions and insoluble in dilute acids.
 
+The CAS Registry Number is 54-31-9.
+
 The structural formula is as follows:
 
 Tested by USP Dissolution Test 1.

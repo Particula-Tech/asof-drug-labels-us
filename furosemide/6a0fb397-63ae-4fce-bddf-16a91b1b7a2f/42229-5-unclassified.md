@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured for: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Manufactured for: Solco Healthcare US, LLC Somerset NJ 08873, USA
 
-8182952-01 Revised: 03/2017
+8182952-02 Revised: 04/2020

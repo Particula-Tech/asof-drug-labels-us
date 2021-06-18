@@ -4,7 +4,7 @@
 
 Therapy should be individualized according to patient response to gain maximal therapeutic response and to determine the minimal dose needed to maintain that response.
 
-### Adults:
+### Adults -
 
 The usual initial dose of furosemide tablets is 20 to 80 mg given as a single dose.
 Ordinarily a prompt diuresis ensues.
@@ -17,11 +17,11 @@ Edema may be most efficiently and safely mobilized by giving furosemide tablets 
 
 When doses exceeding 80 mg/day are given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable (see PRECAUTIONS: Laboratory Tests).
 
-### Geriatric Patients:
+### Geriatric Patients -
 
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
 
-### Pediatric Patients:
+### Pediatric Patients -
 
 The usual initial dose of oral furosemide in pediatric patients is 2 mg/kg body weight, given as a single dose.
 If the diuretic response is not satisfactory after the initial dose, dosage may be increased by 1 or 2 mg/kg no sooner than 6 to 8 hours after the previous dose.
@@ -32,7 +32,7 @@ For maintenance therapy in pediatric patients, the dose should be adjusted to th
 
 Therapy should be individualized according to the patient's response to gain maximal therapeutic response and to determine the minimal dose needed to maintain the therapeutic response.
 
-### Adults:
+### Adults -
 
 The usual initial dose of furosemide tablets for hypertension is 80 mg, usually divided into 40 mg twice a day.
 Dosage should then be adjusted according to response.
@@ -42,6 +42,6 @@ Changes in blood pressure must be carefully monitored when furosemide tablets ar
 To prevent excessive drop in blood pressure, the dosage of other agents should be reduced by at least 50 percent when furosemide tablets are added to the regimen.
 As the blood pressure falls under the potentiating effect of furosemide tablets, a further reduction in dosage or even discontinuation of other antihypertensive drugs may be necessary.
 
-### Geriatric Patients:
+### Geriatric Patients -
 
 In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).

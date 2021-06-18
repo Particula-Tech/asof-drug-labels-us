@@ -31,9 +31,9 @@ Increases in blood glucose and alterations in glucose tolerance tests (with abno
 In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
 Thus, these patients require careful monitoring, especially during the initial stages of treatment.
 
-In patients at high risk for radiocontrast nephropathy furosemide can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+In patients at high risk for radiocontrast nephropathy, furosemide can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
 
-In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of furosemide may be weakened and its ototoxicity potentiated.
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome), the effect of furosemide may be weakened and its ototoxicity potentiated.
 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
@@ -80,12 +80,12 @@ Patients receiving high doses of salicylates concomitantly with furosemide, as i
 There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly.
 In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if furosemide is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
 
-Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
+Furosemide has a tendency to antagonize the skeletal muscle-relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
 Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
 
-Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
-An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
+Furosemide combined with angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
+An interruption or reduction in the dosage of furosemide, angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 
@@ -100,7 +100,7 @@ In isolated cases, intravenous administration of furosemide within 24 hours of t
 Use of furosemide concomitantly with chloral hydrate is therefore not recommended.
 
 Phenytoin interferes directly with renal action of furosemide.
-There is evidence that treatment with phenytoin leads to decrease intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
+There is evidence that treatment with phenytoin leads to decreased intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
 
 Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide.
 Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion.
@@ -115,7 +115,7 @@ High doses (> 80 mg) of furosemide may inhibit the binding of thyroid hormones t
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 
-Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
+Literature reports indicate that co-administration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
 Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
@@ -134,8 +134,6 @@ The urine of rats treated with this drug did not induce gene conversion in Sacch
 Furosemide produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
 ## Pregnancy
-
-### Pregnancy Category C:
 
 Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.

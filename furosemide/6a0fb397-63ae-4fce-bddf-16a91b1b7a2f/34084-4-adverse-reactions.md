@@ -4,59 +4,45 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 
 Gastrointestinal System Reactions
 
-1. 1.hepatic encephalopathy in patients with hepatocellular insufficiency
-2. 2.pancreatitis
-3. 3.jaundice (intrahepatic cholestatic jaundice)
-4. 4.increased liver enzymes
-5. 5.anorexia
-6. 6.oral and gastric irritation
-7. 7.cramping
-8. 8.diarrhea
-9. 9.constipation
-10. 10.nausea
-11. 11.vomiting
+| 1. hepatic encephalopathy in patients with hepatocellular insufficiency | 6. oral and gastric irritation |
+| --- | --- |
+| 7. cramping |  |
+| 2. pancreatitis | 8. diarrhea |
+| 3. jaundice (intrahepatic cholestatic jaundice) | 9. constipation |
+| 4. increased liver enzymes | 10. nausea |
+| 5. anorexia | 11. vomiting |
 
 Systemic Hypersensitivity Reactions
 
-1. 1.severe anaphylactic or anaphylactoid reactions (e.g., with shock)
-2. 2.systemic vasculitis
-3. 3.interstitial nephritis
-4. 4.necrotizing angiitis
+| 1. severe anaphylactic or anaphylactoid reactions (e.g., with shock) | 3. interstitial nephritis |
+| --- | --- |
+| 2. systemic vasculitis | 4. necrotizing angiitis |
 
 Central Nervous System Reactions
 
-1. 1.tinnitus and hearing loss
-2. 2.paresthesias
-3. 3.vertigo
-4. 4.dizziness
-5. 5.headache
-6. 6.blurred vision
-7. 7.xanthopsia
+| 1. tinnitus and hearing loss | 5. headache |
+| --- | --- |
+| 2. paresthesias | 6. blurred vision |
+| 3. vertigo | 7. xanthopsia |
+| 4. dizziness |  |
 
 Hematologic Reactions
 
-1. 1.aplastic anemia
-2. 2.thrombocytopenia
-3. 3.agranulocytosis
-4. 4.hemolytic anemia
-5. 5.leukopenia
-6. 6.anemia
-7. 7.eosinophilia
+| 1. aplastic anemia | 5. leukopenia |
+| --- | --- |
+| 2. thrombocytopenia | 6. anemia |
+| 3. agranulocytosis | 7. eosinophilia |
+| 4. hemolytic anemia |  |
 
 Dermatologic-Hypersensitivity Reactions
 
-1. 1.toxic epidermal necrolysis
-2. 2.Stevens-Johnson Syndrome
-3. 3.erythema multiforme
-4. 4.drug rash with eosinophilia and systemic symptoms
-5. 5.acute generalized exanthematous pustulosis
-6. 6.exfoliative dermatitis
-7. 7.bullous pemphigoid
-8. 8.purpura
-9. 9.photosensitivity
-10. 10.rash
-11. 11.pruritus
-12. 12.urticaria
+| 1. toxic epidermal necrolysis | 7. bullous pemphigoid |
+| --- | --- |
+| 2. Stevens-Johnson Syndrome | 8. purpura |
+| 3. erythema multiforme | 9. fever |
+| 4. drug rash with eosinophilia and systemic symptoms | 10. rash |
+| 5. acute generalized exanthematous pustulosis | 11. pruritus |
+| 6. exfoliative dermatitis | 12. urticaria |
 
 Cardiovascular Reaction
 
@@ -65,14 +51,13 @@ Cardiovascular Reaction
 
 Other Reactions
 
-1. 1.hyperglycemia
-2. 2.glycosuria
-3. 3.hyperuricemia
-4. 4.muscle spasm
-5. 5.weakness
-6. 6.restlessness
-7. 7.urinary bladder spasm
-8. 8.thrombophlebitis
-9. 9.fever
+| 1. hyperglycemia | 6. restlessness |
+| --- | --- |
+| 2. glycosuria | 7. urinary bladder spasm |
+| 3. hyperuricemia | 8. thrombophlebitis |
+| 4. muscle spasm | 9. fever |
+| 5. weakness |  |
 
 Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare US, LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

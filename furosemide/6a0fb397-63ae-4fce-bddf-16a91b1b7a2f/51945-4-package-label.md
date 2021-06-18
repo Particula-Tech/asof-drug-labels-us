@@ -23,16 +23,6 @@ PHARMACIST: Dispense in well-closed, light-resistant container with child-resist
 STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-Manufactured for:
-
-SOLCO HEALTHCARE US, LLC
-
-CRANBURY, NJ 08512, USA
-
-Issued: March 2017
-
-8281353-01
-
 # PRINCIPAL DISPLAY PANEL - 40 mg
 
 Container Label - 40 mg - 100 tablets
@@ -58,16 +48,6 @@ PHARMACIST: Dispense in well-closed, light-resistant container with child-resist
 STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-Manufactured for:
-
-SOLCO HEALTHCARE US, LLC
-
-CRANBURY, NJ 08512, USA
-
-Issued: March 2017
-
-8281356-01
-
 # PRINCIPAL DISPLAY PANEL - 80 mg
 
 Container Label - 40 mg - 100 tablets
@@ -92,13 +72,3 @@ PHARMACIST: Dispense in well-closed, light-resistant container with child-resist
 
 STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
 Protect from light.
-
-Manufactured for:
-
-SOLCO HEALTHCARE US, LLC
-
-CRANBURY, NJ 08512, USA
-
-Issued: March 2017
-
-8281356-01
