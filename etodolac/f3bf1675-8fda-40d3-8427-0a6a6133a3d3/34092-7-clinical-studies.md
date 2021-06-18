@@ -9,4 +9,4 @@ The safety, efficacy, and pharmacokinetics of etodolac extended-release tablets 
 Seventy-two (72) patients, 6 to 16 years of age, with juvenile rheumatoid arthritis, received etodolac extended-release tablets in doses of 400 to 1000 mg (13.3 to 21.3 mg/kg body weight) once daily.
 At these doses, etodolac extended-release tablets controlled the signs and symptoms of juvenile rheumatoid arthritis.
 Based on the results of this study, the safety profile of etodolac extended-release tablets (at doses not exceeding 20 mg/kg) appeared to be similar to that observed in the adult arthritic patients in clinical trials.
-(See PRECAUTIONS, Pediatric Use.)
+(see PRECAUTIONS, Pediatric Use.)
