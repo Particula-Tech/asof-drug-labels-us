@@ -7,16 +7,16 @@ Methotrexate Injection is a clear, yellow, sterile solution available with prese
 | Strength/Fill volume | NDC number | Pack style |
 | --- | --- | --- |
 | With Preservative |  |  |
-| 50 mg/2 mL | 61703-350-38 | Carton containing five (5) multiple-dose vials |
+| 50 mg/2 mL (25 mg/mL) | 61703-350-38 | Carton containing five (5) multiple-dose vials |
 | Preservative-free |  |  |
-| 1 g/40 mL | 61703-408-41 | Carton containing one (1) single-dose vial |
+| 1 g/40 mL (25 mg/mL) | 61703-408-41 | Carton containing one (1) single-dose vial |
 
 | Carton contents | NDC |
 | --- | --- |
 | Methotrexate Injection, With Preservative, 5 multiple-dose vials |  |
-| 50 mg/2 mL | 61703-350-38 |
-| Preservative-free, 1 single-dose vial |  |
-| 1000 mg/40 mL | 61703-408-41 |
+| 50 mg/2 mL (25 mg/mL) | 61703-350-38 |
+| Preservative-free Methotrexate Injection, 1 single-dose vial |  |
+| 1 g/40 mL (25 mg/mL) | 61703-408-41 |
 
 Storage and Handling
 
