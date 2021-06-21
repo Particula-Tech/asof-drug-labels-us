@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209499"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-267-04"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "icosapent ethyl",
+      "name": "Icosapent"
+    }
+  ],
+  "setid": "1aca884c-c464-900d-ac06-33aee7118df8",
+  "source": "dailymed"
+}
