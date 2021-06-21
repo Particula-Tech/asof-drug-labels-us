@@ -1,13 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Transfusional Iron Overload in Patients with Thalassemia Syndromes
+Deferiprone tablets are indicated for the treatment of patients with transfusional iron overload due to thalassemia syndromes when current chelation therapy is inadequate.
 
-Deferiprone tablets are indicated for the treatment of transfusional iron overload in adult and pediatric patients 8 years of age and older with thalassemia syndromes.
+Approval is based on a reduction in serum ferritin levels.
+There are no controlled trials demonstrating a direct treatment benefit, such as improvement in disease-related symptoms, functioning, or increased survival [see Clinical Studies (14)].
 
-## 1.2 Transfusional Iron Overload in Patients with Sickle Cell Disease or Other Anemias
+Limitations of Use:
 
-Deferiprone tablets are indicated for the treatment of transfusional iron overload in adult and pediatric patients 8 years of age and older with sickle cell disease or other anemias.
-
-## 1.3 Limitations of Use
-
-- •Safety and effectiveness have not been established for the treatment of transfusional iron overload in patients with myelodysplastic syndrome or in patients with Diamond Blackfan anemia.
+- •Safety and effectiveness have not been established for the treatment of transfusional iron overload in patients with other chronic anemias.

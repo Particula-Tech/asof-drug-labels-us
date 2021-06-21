@@ -9,4 +9,4 @@ It is slightly soluble in deionized water and has a melting point range of 271°
 
 Deferiprone tablets are white to off-white, modified capsule shaped, biconvex, film coated tablet, debossed with 54 [score] 422 on one side and plain on the other.
 The tablets can be broken in half along the score line.
-Each tablet contains 500 mg deferiprone and the following inactive ingredients: Tablet core: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose; Coating: hypromellose, polyethylene glycol, polysorbate 80, titanium dioxide, and water, purified.
+Each tablet contains 500 mg deferiprone and the following inactive ingredients: Tablet core - colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose; Coating - hypromellose, polyethylene glycol, polysorbate 80, titanium dioxide, and water, purified.

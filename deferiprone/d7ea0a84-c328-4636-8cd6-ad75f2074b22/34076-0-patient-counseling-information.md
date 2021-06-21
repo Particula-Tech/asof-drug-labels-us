@@ -2,17 +2,19 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-- •Instruct patients and their caregivers to store deferiprone tablets at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+- •Instruct patients and their caregivers to store deferiprone tablets at 20º to 25ºC (68º to 77ºF); [see USP Controlled Room Temperature].
   Instruct patients and their caregivers to store deferiprone tablets out of the reach and sight of children.
-- •Advise patients to take the first dose of deferiprone in the morning, the second dose at midday, and the third dose in the evening.
+- •Inform patients of the risks of developing agranulocytosis and instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms.
+- •Inform patients that their blood will be checked to monitor liver function and zinc levels.
+  A zinc supplement may be prescribed if zinc levels are low.
+- •Advise patients to take the first dose of deferiprone tablets in the morning, the second dose at midday, and the third dose in the evening.
   Clinical experience suggests that taking deferiprone tablets with meals may reduce nausea.
-- •If a dose of this medicine has been missed, take it as soon as possible.
+  If a dose of this medicine has been missed, take it as soon as possible.
   However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
   Do not catch-up or double doses.
-- •Inform patients of the risks of developing agranulocytosis and instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms.
 - •Advise patients to contact their physician in the event of overdose.
-- •Inform patients that their urine might show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
-  This is a very common sign of the desired effect, and it is not harmful.
+- •Inform patients that their urine might show a reddish/brown discoloration due to the excretion of iron.
+  This is a very common sign of the desired effect of deferiprone tablets, and it is not harmful.
 
 Embryo-Fetal toxicity:
 
@@ -25,10 +27,10 @@ Lactation:
 
 Advise females not to breastfeed during treatment with deferiprone tablets and for at least 2 weeks after the last dose [see Use in Specific Populations (8.2)].
 
-Distributed by: Hikma Pharmaceuticals USA Inc.
+Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000816/03
+C50000816/01
 
-Revised May 2021
+Revised January 2021

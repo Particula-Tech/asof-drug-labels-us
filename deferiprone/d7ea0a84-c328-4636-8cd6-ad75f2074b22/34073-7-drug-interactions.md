@@ -9,8 +9,8 @@ If co-administration is unavoidable, closely monitor the absolute neutrophil cou
 
 UDP-Glucuronosyltransferases (UGTs):
 
-Avoid use of UGT1A6 inhibitors (e.g., diclofenac, probenecid, or silymarin (milk thistle)) with deferiprone tablets [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+Avoid co-administration of deferiprone tablets with a UGT1A6 inhibitor (e.g., diclofenac, probenecid, or silymarin (milk thistle)) [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 Polyvalent Cations:
 
-Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc); allow at least a 4-hour interval between deferiprone tablets and other medications (e.g., antacids), or supplements containing these polyvalent cations [see Dosage and Administration (2.2)].
+Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc); allow at least a 4-hour interval between administration of deferiprone tablets and other medications (e.g., antacids) or supplements containing these polyvalent cations [see Dosage and Administration(2.2)].
