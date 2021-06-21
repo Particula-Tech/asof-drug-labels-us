@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074670"
+  ],
+  "inn": "nicardipine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-205-90",
+    "62559-206-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nicardipine hydrochloride",
+      "name": "Nicardipine Hydrochloride"
+    }
+  ],
+  "setid": "d1e275b8-c71a-4e8b-bca0-cfea048b5343",
+  "source": "dailymed"
+}
