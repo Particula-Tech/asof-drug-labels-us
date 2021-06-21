@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077645"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-378-01",
+    "59651-378-03",
+    "59651-378-05",
+    "59651-378-60",
+    "59651-379-01",
+    "59651-379-03",
+    "59651-379-05",
+    "59651-379-60",
+    "59651-380-01",
+    "59651-380-03",
+    "59651-380-05",
+    "59651-380-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonisamide"
+    }
+  ],
+  "setid": "ab0631ca-5339-4570-bc27-f1dd92de1d6f",
+  "source": "dailymed"
+}
