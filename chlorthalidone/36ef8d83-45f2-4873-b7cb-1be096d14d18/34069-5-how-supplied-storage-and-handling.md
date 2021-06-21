@@ -1,24 +1,22 @@
 # HOW SUPPLIED
 
 Chlorthalidone Tablets, USP are available containing 25 mg or 50 mg of Chlorthalidone, USP.
-
 The 25 mg Tablets are Light yellow colour, round, unscored tablet, debossed with "N" on one side and plain on other side.
+25 mg Tablets are supplied as follows: Bottles of 100 tablets....
+NDC # 75834-109-01 Bottles of 1000 tablets...
+NDC # 75834-109-10
 
 50 mg Tablets are Light green colour, round tablet, debossed with "N" and score line on one side and plain on other side.
-
-Tablets of 25 mg and 50 mg are supplied as follows:
-
-| Pack Style | Count | 25 mg | 50 mg |
-| --- | --- | --- | --- |
-| HDPE Bottle pack with CR Closure | 100's Count | NDC -75834-109-01 | NDC 75834-110-01 |
-| HDPE Bottle pack with CT Closure | 1000's Count | NDC 75834-109-10 | NDC 75834-110-10 |
+50 mg Tablets are supplied as follows: Bottles of 100 tablets....
+NDC # 75834-110-01 Bottles of 1000 tablets...
+NDC # 75834-110-10
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP for Controlled Room Temperature.]
 
 Protect from light.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure and continuous threads closure for 100’s and 1000’s count respectively.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure and continuous threads closure for 100's and 1000's count respectively.
 
 ## ANIMAL PHARMACOLOGY
 
