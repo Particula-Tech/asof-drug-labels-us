@@ -69,7 +69,7 @@ Therefore, do not take ziprasidone capsules if:
 What to tell your doctor before you start ziprasidone capsules
 
 Only your doctor can decide if ziprasidone capsules are right for you.
-Before you start ziprasidone e capsules, be sure to tell your doctor if you:
+Before you start ziprasidone capsules, be sure to tell your doctor if you:
 
 - have had any problem with the way your heart beats or any heart related illness or disease
 - any family history of heart disease, including recent heart attack
@@ -94,7 +94,8 @@ While you are on ziprasidone capsules, check with your doctor before starting an
 How to take ziprasidone capsules
 
 - Take ziprasidone capsules only as directed by your doctor.
-- Swallow the capsules whole.
+- Swallow ziprasidone capsules whole.
+  Do not chew, crush, or open the capsules.
 - Take ziprasidone capsules with food.
 - It is best to take ziprasidone capsules at the same time each day.
 - Ziprasidone capsules may take a few weeks to work.
@@ -182,13 +183,15 @@ This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.apotex.com
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.apotex.com.
+
+All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC. ZIPRASIDONE CAPSULES, USP 20 mg, 40 mg, 60 mg and 80 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: April 2021
+Revised: June 2021
 
-Revision: 17
+Revision: 18

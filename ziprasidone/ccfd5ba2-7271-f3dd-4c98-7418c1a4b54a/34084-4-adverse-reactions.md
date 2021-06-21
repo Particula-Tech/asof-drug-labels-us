@@ -39,7 +39,7 @@ Bipolar trials (see Table 12)
 
 SCHIZOPHRENIA
 
-Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone
+Adverse Reactions Associated With Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone
 
 Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
 The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [see Warnings and Precautions (5.8)].
@@ -93,7 +93,7 @@ An analysis for dose response in the schizophrenia 4-study pool revealed an appa
 Extrapyramidal Symptoms (EPS) -The incidence of reported EPS (which included the adverse reaction terms extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching) for ziprasidone-treated patients in the short-term, placebo-controlled schizophrenia trials was 14% vs. 8% for placebo.
 Objectively collected data from those trials on the Simpson-Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) did not generally show a difference between ziprasidone and placebo.
 
-Dystonia -Class Effect Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia -Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -113,7 +113,7 @@ Adverse reactions are further categorized by body system and listed in order of 
 
 Frequent - adverse reactions occurring in at least 1/100 patients (≥1.0% of patients) (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing);
 
-Infrequent - adverse reactions occurring in 1/100 to 1/1000 patients (in 0.1 to 1.0% of patients)
+Infrequent - adverse reactions occurring in 1/100 to 1/1000 patients (in 0.1 to 1 % of patients)
 
 Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of patients).
 
@@ -162,7 +162,7 @@ BIPOLAR DISORDER
 
 Acute Treatment of Manic or Mixed Episodes
 
-Adverse Reactions Associated with Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
+Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
 
 Approximately 6.5% (18/279) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 3.7% (5/136) on placebo.
 The most common reactions associated with dropout in the ziprasidone-treated patients were akathisia, anxiety, depression, dizziness, dystonia, rash and vomiting, with 2 dropouts for each of these reactions among ziprasidone patients (1%) compared to one placebo patient each for dystonia and rash (1%) and no placebo patients for the remaining adverse reactions.
@@ -171,7 +171,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More Among Ziprasidone-Trea
 
 Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 3 weeks) in patients with bipolar mania, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
 
-Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated with Bipolar Disorder
+Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated With Bipolar Disorder
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |

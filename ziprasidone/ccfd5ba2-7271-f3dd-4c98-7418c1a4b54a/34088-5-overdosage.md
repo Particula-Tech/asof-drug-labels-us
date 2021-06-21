@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-In premarketing trials involving more than 5400 patients and/or normal subjects, accidental or intentional overdosage of oral ziprasidone was documented in 10 patients.
+In premarketing trials involving more than 5,400 patients and/or normal subjects, accidental or intentional overdosage of oral ziprasidone was documented in 10 patients.
 All of these patients survived without sequelae.
 In the patient taking the largest confirmed amount, 3,240 mg, the only symptoms reported were minimal sedation, slurring of speech, and transitory hypertension (200/95).
 

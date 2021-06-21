@@ -2,10 +2,12 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Administration with Food
+Administration Information for Ziprasidone Capsules
 
+Advise patients to take ziprasidone capsules whole.
+Do not open, crush, or chew the capsules.
 Instruct patients to take ziprasidone capsules with food for optimal absorption.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
+The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
 
@@ -36,6 +38,8 @@ The effects on fertility are reversible [see Warnings and Precautions (5.15) and
 This product’s label may have been updated.
 For current full prescribing information, please visit www.apotex.com.
 
+All registered trademarks in this document are the property of their respective owners.
+
 APOTEX INC.
 
 ZIPRASIDONE CAPSULES, USP
@@ -45,6 +49,6 @@ ZIPRASIDONE CAPSULES, USP
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-Revised: April 2021
+Revised: June 2021
 
-Revision: 17
+Revision: 18

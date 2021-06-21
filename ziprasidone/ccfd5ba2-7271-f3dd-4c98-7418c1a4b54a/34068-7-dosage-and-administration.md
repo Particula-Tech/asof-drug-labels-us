@@ -1,6 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Schizophrenia
+## 2.1 Administration Information for Ziprasidone Capsules
+
+Administer ziprasidone capsules orally with food.
+Swallow capsules whole, do not open, crush, or chew the capsules.
+
+## 2.2 Schizophrenia
 
 Dose Selection
 
@@ -20,7 +25,7 @@ While there is no body of evidence available to answer the question of how long 
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## 2.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
+## 2.3 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 Acute Treatment of Manic or Mixed Episodes
 
