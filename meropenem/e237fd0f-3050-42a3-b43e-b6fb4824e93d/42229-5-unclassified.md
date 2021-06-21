@@ -1,3 +1,3 @@
-Marketed by: Melinta Therapeutics, Inc. Lincolnshire, IL 60069 USA
+Marketed by: Melinta Therapeutics, LLC Lincolnshire, IL 60069 USA
 
-MEL040-R003
+MEL040-R004

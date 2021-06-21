@@ -12,12 +12,10 @@ For Intravenous Infusion Only Single Dose Only Discard Unused Portion After Use
 
 MUST BE CONSTITUTED THEN DILUTED See prescribing information for constitution and dilution instructions and complete directions for use.
 
+Each vial contains meropenem 1 g, vaborbactam 1 g, and sodium carbonate 0.575 g. The total sodium content of the mixture is approximately 0.25 g (10.9 mEq).
+
 Storage: Store at 20°C to 25°C (68°F to 77°F); excursions are permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]
 
-Marketed by: Melinta Therapeutics, Inc. Lincolnshire, IL 60069 USA
-
-Product of Italy
-
-MEL042-R001
+MEL042-R002
 
 Contains 6 single dose 2 g vials
