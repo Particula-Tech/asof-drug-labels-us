@@ -10,10 +10,12 @@ Tarrytown, NY 10591-6707
 
 U.S. License Number 1760
 
+For patent information: https://www.regeneron.com/downloads/us-patent-products.pdf
+
 EYLEA is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
 © 2021, Regeneron Pharmaceuticals, Inc.
 
 All rights reserved.
 
-Revised Date: March 2021
+Revised Date: June 2021

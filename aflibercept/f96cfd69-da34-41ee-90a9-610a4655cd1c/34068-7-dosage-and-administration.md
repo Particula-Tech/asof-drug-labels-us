@@ -45,6 +45,8 @@ Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5
 The EYLEA pre-filled glass syringe is sterile and for single use only.
 It should be inspected visually prior to administration.
 Do not use if particulates, cloudiness, or discoloration are visible, or if the package is open or damaged.
+The appearance of the syringe cap on the pre-filled syringe may vary (for example, color and design).
+Do not use if any part of the pre-filled syringe is damaged or if the syringe cap is detached from the Luer lock.
 
 The intravitreal injection should be performed with a 30-gauge × ½-inch injection needle (not provided).
 
