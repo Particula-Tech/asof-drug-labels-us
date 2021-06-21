@@ -17,8 +17,8 @@ Diagnosis of definite or probable IA was made according to criteria modified fro
 
 Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of 7 days.
 Therapy could then be switched to the oral formulation at a dose of 200 mg every 12 hours.
-Median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
-After intravenous voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2 to 232 days).
+Median duration of IV voriconazole therapy was 10 days (range 2 to 85 days).
+After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2 to 232 days).
 
 Patients in the comparator group received conventional amphotericin B as a slow infusion at a daily dose of 1 to 1.5 mg/kg/day.
 Median duration of IV amphotericin therapy was 12 days (range 1 to 85 days).
@@ -166,12 +166,16 @@ Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with
 
 In pooled analyses of patients, voriconazole was shown to be effective against the following additional fungal pathogens:
 
-Scedosporium apiospermum - Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
+Scedosporium apiospermum
+
+Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
 Three of these patients relapsed within 4 weeks, including 1 patient with pulmonary, skin and eye infections, 1 patient with cerebral disease, and 1 patient with skin infection.
 Ten patients had evidence of cerebral disease and 6 of these had a successful outcome (1 relapse).
 In addition, a successful response was seen in 1 of 3 patients with mixed organism infections.
 
-Fusarium spp. - Nine of 21 (43%) patients were successfully treated with voriconazole.
+Fusarium spp.
+
+Nine of 21 (43%) patients were successfully treated with voriconazole.
 Of these 9 patients, 3 had eye infections, 1 had an eye and blood infection, 1 had a skin infection, 1 had a blood infection alone, 2 had sinus infections, and 1 had disseminated infection (pulmonary, skin, hepatosplenic).
 Three of these patients (1 with disseminated disease, 1 with an eye infection and 1 with a blood infection) had Fusarium solani and were complete successes.
 Two of these patients relapsed, 1 with a sinus infection and profound neutropenia and 1 post surgical patient with blood and eye infections.
@@ -181,62 +185,5 @@ Two of these patients relapsed, 1 with a sinus infection and profound neutropeni
 A total of 22 patients aged 12 to 18 years with IA were included in the adult therapeutic studies.
 Twelve out of 22 (55%) patients had successful response after treatment with a maintenance dose of voriconazole 4 mg/kg every 12 hours.
 
-Fifty-three pediatric patients aged 2 to less than 18 years old were treated with voriconazole in two prospective, open-label, non-comparative, multicenter clinical studies.
-
-One study was designed to enroll pediatric patients with IA or infections with rare molds (such as Scedosporium or Fusarium).
-Patients aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole loading dose of 9 mg/kg every 12 hours for the first 24-hours followed by an 8 mg/kg intravenous maintenance dose every 12 hours.
-After completing 7 days of intravenous therapy patients had an option to switch to oral voriconazole.
-The oral maintenance dose was 9 mg/kg every 12 hours (maximum dose of 350 mg).
-All other pediatric patients aged 12 to less than 18 years received the adult voriconazole dosage regimen.
-Patients received voriconazole for at least 6 weeks and up to a maximum of 12 weeks.
-
-The study enrolled 31 patients with possible, proven, or probable IA.
-Fourteen of 31 patients, 5 of whom were 2 to less than 12 years old and 9 of whom were 12 to less than 18 years old, had proven or probable IA and were included in the modified intent-to-treat (MITT) efficacy analyses.
-No patients with rare mold were enrolled.
-A successful global response was defined as resolution or improvement in clinical signs and symptoms and at least 50% resolution of radiological lesions attributed to IA.
-The overall rate of successful global response at 6 weeks in the MITT population is presented in Table 18 below.
-
-Table 18: Global Response* in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)† Population
-
-| Ages 2–<12 years N=5 | Ages 12–<18 years N=9 | Overall N=14 |  |
-| --- | --- | --- | --- |
-| Parameter | Global Response at Week 6 |  |  |
-| Number of successes, n (%) | 2 (40%) | 7 (78%) | 9 (64%) |
-
-*Global response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population.
-
-†The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria.
-
-The second study enrolled 22 patients with invasive candidiasis including candidemia (ICC) and EC requiring either primary or salvage therapy.
-Patients with ICC aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole loading dose of 9 mg/kg every 12 hours for the first 24 hours followed by an 8 mg/kg intravenous maintenance dose every 12-hours.
-After completing 5 days of intravenous therapy patients had an option to switch to oral voriconazole.
-The oral maintenance dose was 9 mg/kg every 12 hours (maximum dose of 350 mg).
-All other pediatric patients aged 12 to less than 18 years received the adult voriconazole dosage regimen.
-Voriconazole was administered for at least 14 days after the last positive culture.
-A maximum of 42 days of treatment was permitted.
-
-Patients with primary or salvage EC aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole dose of 4 mg/kg every 12 hours followed by an oral voriconazole dose of 9 mg/kg every 12 hours (maximum dose of 350 mg) when criteria for oral switch were met.
-All other pediatric patients aged 12 to less than 18 years received the adult voriconazole dosage regimen.
-Voriconazole was administered for at least 7 days after the resolution of clinical signs and symptoms.
-A maximum of 42 days of treatment was permitted.
-
-For EC, study treatment was initiated without a loading dose of intravenous voriconazole.
-Seventeen of these patients had confirmed Candida infection and were included in the MITT efficacy analyses.
-Of the 17 patients included in the MITT analyses, 9 were 2 to less than 12 years old (7 with ICC and 2 with EC) and 8 were 12 to less than18 years old (all with EC).
-For ICC and EC, a successful global response was defined as clinical cure or improvement with microbiological eradication or presumed eradication.
-The overall rate of successful global response at EOT in the MITT population is presented in Table 19 below.
-
-Table 19: Global Response* at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) Population†
-
-| Ages 2–<12 N=2 | Ages 12–<18 N=8 | Overall N=10 | Overall N=7 |  |
-| --- | --- | --- | --- | --- |
-| Parameter | Global Response at End of Treatment |  |  |  |
-| EC N=10 |  |  | ICC‡ N=7 |  |
-| Number of successes, n (%) | 2 (100%) | 5 (63%) | 7 (70%) | 6 (86%) |
-
-*Global response was determined based on the investigator's assessment of clinical and microbiological response in the Modified Intent-to-Treat (MITT) analysis population at end of treatment.
-Subjects with missing data or whose response was deemed indeterminate were considered failures.
-
-†The MITT population was defined as all subjects who received at least 1 dose of study drug and who had microbiologically confirmed invasive candidiasis with candidemia (ICC) and EC, or subjects with EC who had at least confirmation of oropharyngeal candidiasis without confirmation on esophagoscopy.
-
-‡All subjects with ICC were aged 2 to less than 12.
+Additional pediatric use information is approved for PF PRISM C.V.'s VFEND (voriconazole).
+However, due to PF PRISM C.V.'s marketing exclusivity rights, this drug product is not labeled with that information.

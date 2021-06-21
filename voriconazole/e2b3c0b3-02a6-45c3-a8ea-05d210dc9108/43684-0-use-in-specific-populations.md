@@ -10,7 +10,7 @@ In animal reproduction studies, oral voriconazole was associated with fetal malf
 Cleft palates and hydronephrosis/hydroureter were observed in rat pups exposed to voriconazole during organogenesis at and above 10 mg/kg (0.3 times the RMD of 200 mg every 12 hours based on body surface area comparisons).
 In rabbits, embryomortality, reduced fetal weight and increased incidence of skeletal variations, cervical ribs and extrasternal ossification sites were observed in pups when pregnant rabbits were orally dosed at 100 mg/kg (6 times the RMD based on body surface area comparisons) during organogenesis.
 Rats exposed to voriconazole from implantation to weaning experienced increased gestational length and dystocia, which were associated with increased perinatal pup mortality at the 10 mg/kg dose [see Data].
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.8)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.9)].
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20% respectively.
@@ -47,8 +47,8 @@ Monitoring for adverse reactions associated with oral contraceptives and voricon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of voriconazole have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
-A total of 105 pediatric patients aged 2 to less than 12 [N=26] and aged 12 to less than 18 [N=79] from two, non-comparative Phase 3 pediatric studies and eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The safety and effectiveness of voriconazole have been established in pediatric patients aged 12 to 14 years weighing greater than or equal to 50 kg and those aged 15 years and older regardless of body weight based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
+A total of 51 pediatric patients aged 12 to less than 18 [N=51] from eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Safety and effectiveness in pediatric patients below the age of 2 years has not been established.
 Therefore, voriconazole is not recommended for pediatric patients less than 2 years of age.
@@ -61,7 +61,10 @@ Stringent measures for photoprotection are warranted.
 Sun avoidance and dermatologic follow-up are recommended in pediatric patients experiencing photoaging injuries, such as lentigines or ephelides, even after treatment discontinuation [see Warnings and Precautions (5.6)].
 
 Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
-Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.9)].
+Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.10)].
+
+Additional pediatric use information is approved for PF PRISM C.V.'s VFEND (voriconazole).
+However, due to PF PRISM C.V.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
