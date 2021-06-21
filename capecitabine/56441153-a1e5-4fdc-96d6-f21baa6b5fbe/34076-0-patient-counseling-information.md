@@ -26,28 +26,20 @@ Important Administration Instructions
 Advise patients to swallow capecitabine tablets whole with water within 30 minutes of a meal.
 Advise patients and caregivers not to crush or cut capecitabine tablets.
 Advise patients if they cannot swallow capecitabine tablets whole, to inform their healthcare provider [see Dosage and Administration (2.1)].
-
+Hypersensitivity and Angioedema Advise patients that capecitabine may cause severe hypersensitivity reactions and angioedema.
+Advise patients who have known hypersensitivity to capecitabine or 5-fluorouracil to inform their healthcare provider [see Contraindications (4)].
+Instruct patients who develop hypersensitivity reactions or mucocutaneous symptoms (e.g., urticaria, rash, erythema, pruritus, or swelling of the face, lips, tongue or throat which make it difficult to swallow or breathe) to stop taking capecitabine and immediately contact their healthcare provider or to go to an emergency room.
+[see Adverse Reactions (6)].
 Nausea
 
 Instruct patients experiencing grade 2 nausea (food intake significantly decreased but able to eat intermittently) or greater to stop taking capecitabine immediately and to contact their healthcare provider for management of nausea [see Adverse Reactions (6.1)].
-
 Vomiting
 
 Instruct patients experiencing grade 2 vomiting (2 to 5 episodes in a 24-hour period) or greater to stop taking capecitabine immediately and to contact their healthcare provider for management of vomiting [see Adverse Reactions (6.1)].
-
-Hand-and-Foot Syndrome
-
-Instruct patients experiencing grade 2 hand-and-foot syndrome (painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patients’ activities of daily living) or greater to stop taking capecitabine immediately and to contact their healthcare provider.
-Inform patients that initiation of symptomatic treatment is recommended and hand-and-foot syndrome can lead to loss of fingerprints which could impact personal identification [see Adverse Reactions (6.1)].
-
-Stomatitis
-
-Inform patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater to stop taking capecitabine immediately and to contact their healthcare provider [see Adverse Reactions (6.1)].
-
-Fever and Neutropenia
-
-Inform patients who develop a fever of 100.5°F or greater or other evidence of potential infection to contact their healthcare provider [see Adverse Reactions (6.1)].
-
+Hand-and-Foot Syndrome Instruct patients experiencing grade 2 hand-and-foot syndrome (painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patients’ activities of daily living) or greater to stop taking capecitabine immediately and to contact their healthcare provider.
+Inform patients that initiation of symptomatic treatment is recommended, and hand-and-foot syndrome can lead to loss of fingerprints which could impact personal identification [see Adverse Reactions (6.1)].
+Stomatitis Inform patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater to stop taking capecitabine immediately and to contact their healthcare provider [see Adverse Reactions (6.1)].
+Fever and Neutropenia Inform patients who develop a fever of 100.5°F or greater or other evidence of potential infection to contact their healthcare provider [see Adverse Reactions (6.1)].
 Embryo-Fetal Toxicity
 
 Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with capecitabine and for 6 months after the last dose.

@@ -26,7 +26,7 @@ Data Lactating mice given a single oral dose of capecitabine excreted significan
 Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential prior to initiating capecitabine.
 Contraception Females Capecitabine can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the final dose of capecitabine.
-Males Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of capecitabine [see Nonclinical Toxicology (13.1)].
+Males Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the final dose of capecitabine [see Nonclinical Toxicology (13.1)].
 Infertility Based on animal studies, capecitabine may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
