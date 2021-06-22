@@ -18,8 +18,6 @@ Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Haup
 
 Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Revised: 03/2020
+Revised: 01/2021
 
-Barcode: 225-03-2020
-
-SAP code: 21082944
+To report SUSPECTED ADVERSE REACTIONS, Exelan Pharmaceuticals, Inc. at 1-866-604-3268 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
