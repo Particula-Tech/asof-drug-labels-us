@@ -10,8 +10,6 @@ Rx only
 
 100 CAPSULES
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 50111-648-01
@@ -23,5 +21,3 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 Rx only
 
 100 CAPSULES
-
-TEVA
