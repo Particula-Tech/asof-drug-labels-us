@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-SYNJARDY XR (empagliflozin and metformin hydrochloride extended-release) tablets, for oral use, contain two antihyperglycemic drugs used in the management of type 2 diabetes: empagliflozin and metformin hydrochloride.
+SYNJARDY XR tablets for oral use contain: empagliflozin and metformin hydrochloride.
 
 Empagliflozin
 
-Empagliflozin is an orally-active inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
+Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -16,7 +16,7 @@ It is very slightly soluble in water, sparingly soluble in methanol, slightly so
 
 Metformin hydrochloride
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
+Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a biguanide.
 Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
