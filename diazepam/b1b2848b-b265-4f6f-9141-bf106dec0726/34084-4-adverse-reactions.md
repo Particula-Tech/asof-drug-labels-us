@@ -48,7 +48,7 @@ Other events reported by fewer than 1% of patients were infection, anorexia, vom
 
 The pattern of adverse events was similar for different age, race and gender groups.
 
-## Other Adverse Events Observed During All Clinical Trials:
+## Other Adverse Events Observed During All Clinical Trials
 
 Diazepam rectal gel has been administered to 573 patients with epilepsy during all clinical trials, only some of which were placebo-controlled.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing.

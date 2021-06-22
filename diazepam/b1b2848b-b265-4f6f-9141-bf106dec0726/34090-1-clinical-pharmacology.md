@@ -61,7 +61,7 @@ Children were dosed again four hours after the first dose and were observed for 
 Adults were dosed at four and 12 hours after the first dose and were observed for a total of 24 hours.
 Primary outcomes for this study were seizure frequency during the period of observation and a global assessment that took into account the severity and nature of the seizures as well as their frequency.
 
-The median seizure frequency for the diazepam rectal gel treated group was zero seizures per hour, compared to a median seizure frequency of 0.3 seizures per hour for the placebo group, a difference that was statistically significant (p <0.0001).
+The median seizure frequency for the diazepam rectal gel treated group was zero seizures per hour, compared to a median seizure frequency of 0.3 seizures per hour for the placebo group, a difference that was statistically significant (p < 0.0001).
 All three categories of the global assessment (seizure frequency, seizure severity, and “overall”) were also found to be statistically significant in favor of diazepam rectal gel (p < 0.0001).
 The following histogram displays the results for the “overall” category of the global assessment.
 

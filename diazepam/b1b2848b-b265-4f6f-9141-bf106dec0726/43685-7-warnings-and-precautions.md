@@ -7,11 +7,36 @@ Diazepam rectal gel should only be administered by caregivers who in the opinion
 Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including diazepam rectal gel and diazepam rectal gel rectal delivery system, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe diazepam rectal gel or diazepam rectal gel rectal delivery system concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam rectal gel or diazepam rectal gel rectal delivery system is used with opioids (see PRECAUTIONS).
+
+Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including diazepam rectal gel, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE, Abuse).
+
+Before prescribing diazepam rectal gel and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction.
+Use of diazepam rectal gel, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of diazepam rectal gel along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Do not exceed the recommended dosing frequency; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+Dependence and Withdrawal Reactions After Use of Diazepam Rectal Gel More Frequently Than Recommended
+
+For patients using diazepam rectal gel more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam rectal gel (a patient-specific plan should be used to taper the dose).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+Acute Withdrawal Reactions
+
+The continued use of benzodiazepines may lead to clinically significant physical dependence.
+Although diazepam rectal gel is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of diazepam rectal gel, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE, Dependence).
+
+Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE, Dependence).
 
 ## CNS Depression
 
@@ -29,7 +54,7 @@ Data from several sources raise concerns about the use of diazepam during pregna
 
 Animal Findings: Diazepam has been shown to be teratogenic in mice and hamsters when given orally at single doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2 basis).
 Cleft palate and exencephaly are the most common and consistently reported malformations produced in these species by administration of high, maternally-toxic doses of diazepam during organogenesis.
-Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce longterm changes in cellular immune responses, brain neurochemistry, and behavior.
+Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term changes in cellular immune responses, brain neurochemistry, and behavior.
 
 General Concerns and Considerations About Anticonvulsants: Reports suggest an association between the use of anticonvulsant drugs by women with epilepsy and an elevated incidence of birth defects in children born to these women.
 Data are more extensive with respect to phenytoin and phenobarbital, but a smaller number of systematic or anecdotal reports suggest a possible similar association with the use of all known anticonvulsant drugs.
@@ -55,10 +80,6 @@ The possibility that a woman of childbearing potential may be pregnant at the ti
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug.
 
-## Withdrawal Symptoms
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
-
 ## Chronic Use
 
 Diazepam rectal gel is not recommended for chronic, daily use as an anticonvulsant because of the potential for development of tolerance to diazepam.
@@ -71,9 +92,15 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 # PRECAUTIONS
 
-Information to Be Communicated by the Prescriber to Patients and Caregivers
+Information for Patients
 
 Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if diazepam rectal gel or diazepam rectal gel delivery system is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Abuse, Misuse, and Addiction: Inform patients that the use of diazepam rectal gel more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS, Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+
+Withdrawal Reactions: Inform patients that use of diazepam rectal gel more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of diazepam rectal gel may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see WARNINGS, Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of diazepam rectal gel to individuals in their care.
 Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
@@ -137,7 +164,7 @@ Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
 Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
-Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
+Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone, and phenobarbital) could increase the rate of elimination of diazepam.
 
 Effect of Diazepam on the Metabolism of Other Drugs: There are no reports as to which isozymes could be inhibited or induced by diazepam.
 But, based on the fact that diazepam is a substrate for CYP2C19 and CYP3A4, it is possible that diazepam may interfere with the metabolism of drugs which are substrates for CYP2C19, (e.g. omeprazole, propranolol, and imipramine) and CYP3A4 (e.g. cyclosporine, paclitaxel, terfenadine, theophylline, and warfarin) leading to a potential drug-drug interaction.

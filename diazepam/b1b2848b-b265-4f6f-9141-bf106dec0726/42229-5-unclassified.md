@@ -35,21 +35,21 @@ If you are not comfortable, then discuss your role with the doctor again.
 
 To help the person with seizures:
 
-- •You must be able to tell the difference between cluster and ordinary seizures.
-- •You must be comfortable and satisfied that you are able to give Diazepam Rectal Gel.
-- •You need to agree with the doctor on the exact conditions when to treat with Diazepam Rectal Gel.
-- •You must know how and for how long you should check the person after giving Diazepam Rectal Gel.
+- ✓You must be able to tell the difference between cluster and ordinary seizures.
+- ✓You must be comfortable and satisfied that you are able to give Diazepam Rectal Gel.
+- ✓You need to agree with the doctor on the exact conditions when to treat with Diazepam Rectal Gel.
+- ✓You must know how and for how long you should check the person after giving Diazepam Rectal Gel.
 
 To know what responses to expect:
 
-- •You need to know how soon seizures should stop or decrease in frequency after giving Diazepam Rectal Gel.
-- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
+- ✓You need to know how soon seizures should stop or decrease in frequency after giving Diazepam Rectal Gel.
+- ✓You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
 
 If you have any questions or feel unsure about using the treatment, CALL THE DOCTOR before using Diazepam Rectal Gel.
 
 When to treat.
 Based on the doctor’s directions or prescription.
-Your doctor may prescribe a second dose of Diazepam Rectal Gel.
+Your doctor may prescribe a second dose of diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 ________________________________________________________
@@ -86,7 +86,7 @@ Stay with the person for 4 hours and make notes on the following:
 - •Changes in resting breathing rate________________________________________________
 - •Changes in color ____________________________________________________________
 - •Possible side effects from treatment _____________________________________________
-- •Your doctor may prescribe a second dose of Diazepam Rectal Gel.
+- •Your doctor may prescribe a second dose of diazepam rectal gel.
   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 T R E A T M E N T 2 ------------------------------------------------------------------------------------------------------------
@@ -107,6 +107,7 @@ ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
 Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-9570802 Revised: 10/2019
+9570803 Rev.
+03/2021

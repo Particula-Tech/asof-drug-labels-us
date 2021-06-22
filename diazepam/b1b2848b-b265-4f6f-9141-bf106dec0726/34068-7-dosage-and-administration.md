@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-(seealso Patient/Caregiver Package Insert)
+(see also Patient/Caregiver Package Insert)
 
 This section is intended primarily for the prescriber; however, the prescriber should also be aware of the dosing information and directions for use provided in the patient package insert.
 

@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Diazepam Rectal Gel rectal delivery system is a non-sterile, prefilled, unit dose, rectal delivery system.
-The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths, designated for convenience as 10 mg delivery system and 20 mg delivery system.
+Diazepam rectal gel rectal delivery system is a non-sterile, prefilled, unit dose, rectal delivery system.
+The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths, designated for convenience as 10 mg Delivery System and 20 mg Delivery System.
 The available doses from 20 mg delivery system are 12.5 mg, 15 mg, 17.5 mg and 20 mg.
 The available doses from 10 mg delivery system are 5 mg, 7.5 mg and 10 mg.
-The Diazepam Rectal Gel delivery system is available in the following three presentations:
+The diazepam rectal gel delivery system is available in the following three presentations:
 
 | Diazepam Rectal Gel | Rectal Tip Size | NDC |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ The Diazepam Rectal Gel delivery system is available in the following three pres
 Each Twin Pack contains two Diazepam Rectal Gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
 Diazepam Rectal Gel delivery system is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Diazepam Rectal Gel 10 mg delivery system and 20 mg delivery system
 
@@ -35,7 +35,7 @@ FOR EACH SYRINGE:
 
 SEE PHARMACIST IF YOU HAVE ANY QUESTIONS ABOUT THESE INSTRUCTIONS.
 
-The instructions are also available on the bottom of each drug product package.
+The Instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
@@ -43,6 +43,6 @@ Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC B
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-9570802 Revised: 10/2019
+9570803 Rev: 03/2021
