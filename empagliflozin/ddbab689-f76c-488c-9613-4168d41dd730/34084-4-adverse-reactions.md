@@ -3,17 +3,16 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - Pancreatitis [see Warnings and Precautions (5.1)]
-- Heart Failure [see Warnings and Precautions (5.2)]
-- Hypotension [see Warnings and Precautions (5.3)]
-- Ketoacidosis [see Warnings and Precautions (5.4)]
-- Acute Kidney Injury [see Warnings and Precautions (5.5)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.8)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.11)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.12)]
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Volume Depletion [see Warnings and Precautions (5.3)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.9)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.10)]
+- Heart Failure [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,12 +25,11 @@ The most common adverse reactions with concomitant administration of empaglifloz
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin and Linagliptin
 
-|  | n (%) | n (%) |
+| Adverse Reactions | GLYXAMBI (%) 10 mg/5 mg n=272 | GLYXAMBI (%) 25 mg/5 mg n=273 |
 | --- | --- | --- |
-|  | GLYXAMBI 10 mg/5 mg n=272 | GLYXAMBI 25 mg/5 mg n=273 |
-| Urinary tract infectiona | 34 (12.5) | 31 (11.4) |
-| Nasopharyngitis | 16 (5.9) | 18 (6.6) |
-| Upper respiratory tract infection | 19 (7.0) | 19 (7.0) |
+| Urinary tract infectiona | 12.5 | 11.4 |
+| Nasopharyngitis | 5.9 | 6.6 |
+| Upper respiratory tract infection | 7.0 | 7.0 |
 | aPredefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis |  |  |
 
 Empagliflozin
@@ -58,10 +56,10 @@ Table 2 summarizes the reports of hypoglycemia with empagliflozin and linaglipti
 
 Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 
-| Add-on to Metformin (52 weeks) | GLYXAMBI 10 mg/5 mg (n=136) | GLYXAMBI 25 mg/5 mg (n=137) |
+| Add-on to Metformin (52 weeks) | GLYXAMBI (%) 10 mg/5 mg (n=136) | GLYXAMBI (%) 25 mg/5 mg (n=137) |
 | --- | --- | --- |
-| Overall (%) | 2.2% | 3.6% |
-| Severe (%) | 0% | 0% |
+| Overall | 2.2 | 3.6 |
+| Severe | 0 | 0 |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL or requiring assistance |  |  |
 | bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |
 
@@ -72,6 +70,10 @@ Empagliflozin and Linagliptin
 Changes in laboratory findings in patients treated with the combination of empagliflozin and linagliptin included increases in cholesterol and hematocrit compared to baseline.
 
 Empagliflozin
+
+Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
 LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
@@ -89,7 +91,7 @@ Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 
 
 Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
 
-The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.1)].
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis.
 
 ## 6.2 Postmarketing Experience
 
@@ -103,6 +105,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity Reactions including Anaphylaxis, Angioedema, and Exfoliative Skin Conditions
 - Severe and Disabling Arthralgia
 - Bullous Pemphigoid
+- Acute Kidney Injury
 - Skin Reactions (e.g., rash, urticaria)
 - Mouth Ulceration, Stomatitis
 - Rhabdomyolysis

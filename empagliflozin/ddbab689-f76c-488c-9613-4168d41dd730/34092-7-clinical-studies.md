@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 GLYXAMBI Glycemic Control Studies
+GLYXAMBI Glycemic Control Studies
 
 Add-on Combination Therapy with Metformin
 
@@ -9,11 +9,11 @@ A total of 686 patients with type 2 diabetes participated in a double-blind, act
 Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin per day entered a single-blind placebo run-in period for 2 weeks.
 At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized 1:1:1:1:1 to one of 5 active-treatment arms of empagliflozin 10 mg or 25 mg, linagliptin 5 mg, or linagliptin 5 mg in combination with 10 mg or 25 mg empagliflozin as a fixed dose combination tablet.
 
-At Week 24, empagliflozin 10 mg or 25 mg used in combination with linagliptin 5 mg provided statistically significant improvement in HbA1c (p-value <0.0001) and FPG (p-value <0.001) compared to the individual components in patients who had been inadequately controlled on metformin (see Table 5, Figure 3).
+At Week 24, empagliflozin 10 mg or 25 mg used in combination with linagliptin 5 mg provided statistically significant improvement in HbA1c (p-value <0.0001) and FPG (p-value <0.001) compared to the individual components in patients who had been inadequately controlled on metformin (see Table 6, Figure 3).
 Treatment with GLYXAMBI 25 mg/5 mg or GLYXAMBI 10 mg/5 mg daily also resulted in a statistically significant reduction in body weight compared to linagliptin 5 mg (p-value <0.0001).
 There was no statistically significant difference compared to empagliflozin alone.
 
-Table 5 Glycemic Parameters at 24 Weeks in a Study Comparing GLYXAMBI to the Individual Components as Add-on Therapy in Patients Inadequately Controlled on Metformin
+Table 6 Glycemic Parameters at 24 Weeks in a Study Comparing GLYXAMBI to the Individual Components as Add-on Therapy in Patients Inadequately Controlled on Metformin
 
 |  | GLYXAMBI 10 mg/5 mg | GLYXAMBI 25 mg/5 mg | Empagliflozin 10 mg | Empagliflozin 25 mg | Linagliptin 5 mg |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Table 5 Glycemic Parameters at 24 Weeks in a Study Comparing GLYXAMBI to the Ind
 
 Figure 3 Adjusted Mean HbA1c Change at Each Time Point (Completers) and at Week 24 (mITT population)
 
-## 14.2 Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
 The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
@@ -71,11 +71,11 @@ The statistical analysis plan had pre-specified that the 10 and 25 mg doses woul
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 6 and Figures 4 and 5).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
+The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 7 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
-Table 6 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
+Table 7 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
 
 |  | Placebo N=2333 | Empagliflozin N=4687 | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
 The non-cardiovascular deaths were only a small proportion of deaths, and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
 
-## 14.3 Linagliptin Cardiovascular Safety Trials
+Linagliptin Cardiovascular Safety Trials
 
 CARMELINA
 
@@ -116,7 +116,8 @@ Patients were taking at least one antidiabetic drug (97%), and the most common w
 Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) with 72% on statin, and aspirin (62%).
 
 The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
-The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.A total of 434 patients on linagliptin and 420 patients on placebo experienced MACE.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
+A total of 434 patients on linagliptin and 420 patients on placebo experienced MACE.
 The incidence rate of MACE in both treatment arms: 56.3 MACE per 1000 patient-years on placebo vs. 57.7 MACE per 1000 patient-years on linagliptin.
 The estimated hazard ratio for MACE associated with linagliptin relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
 The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.

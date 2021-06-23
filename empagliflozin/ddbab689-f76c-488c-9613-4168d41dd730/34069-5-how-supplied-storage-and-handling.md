@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-GLYXAMBI (empagliflozin and linagliptin) tablets are available in 10 mg/5 mg and 25 mg/5 mg strengths as follows:
+GLYXAMBI (empagliflozin and linagliptin) tablets are available as follows:
 
 10 mg/5 mg tablets: pale yellow, arc triangular, flat-faced, bevel-edged, film-coated tablets.
 One side is debossed with the Boehringer Ingelheim company symbol; the other side is debossed with "10/5".

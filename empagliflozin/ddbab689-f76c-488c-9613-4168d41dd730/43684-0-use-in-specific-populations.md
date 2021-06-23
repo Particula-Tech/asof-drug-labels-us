@@ -9,9 +9,9 @@ Based on animal data showing adverse renal effects from empagliflozin, GLYXAMBI 
 The limited available data with GLYXAMBI, linagliptin, or empagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
-In animal studies, adverse renal changes were observed in rats when empagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
+In animal studies, empagliflozin, a component of GLYXAMBI, resulted in adverse renal changes in rats when administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
 Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
-No adverse developmental effects were observed when the combination of linagliptin and empagliflozin was administered to pregnant rats during the period of organogenesis at exposures approximately 253- and 353-times the clinical exposure (see Data).
+No adverse developmental effects were observed when the combination of linagliptin and empagliflozin was administered to pregnant rats (see Data).
 
 The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -27,10 +27,10 @@ Data
 Animal Data
 
 The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253- and 353-times the clinical exposure.
-A pre- and post-natal development study was not conducted with the combined components of GLYXAMBI.
+A pre- and postnatal development study was not conducted with the combined components of GLYXAMBI.
 
 Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30, and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
-These findings were not observed after a 13-week drug-free recovery period.
+These findings were not observed after a 13-week, drug-free recovery period.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
 
 In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
@@ -67,39 +67,33 @@ Juvenile rats directly exposed to empagliflozin showed a risk to the developing 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of GLYXAMBI in pediatric patients under 18 years of age have not been established.
+Safety and effectiveness of GLYXAMBI have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
 GLYXAMBI
 
-Empagliflozin is associated with osmotic diuresis, which could affect hydration status of patients age 75 years and older.
+Empagliflozin is associated with osmotic diuresis, which could affect hydration status of patients age 75 years and older [see Warnings and Precautions (5.3)].
 
 Empagliflozin
 
-No empagliflozin dosage change is recommended based on age [see Dosage and Administration (2)].
-A total of 2721 (32%) patients treated with empagliflozin were 65 years of age and older, and 491 (6%) were 75 years of age and older.
-Empagliflozin is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
-The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg.
-The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
+In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
 
 Linagliptin
 
-There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) were 65 years and over, while 131 (3%) were 75 years and over.
-Of these patients, 2566 were enrolled in 12 double-blind placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
-No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
-Therefore, no dose adjustment is recommended in the elderly population.
-While clinical studies of linagliptin have not identified differences in response between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
+In linagliptin studies, 1085 linagliptin-treated patients were 65 years of age and older and 131 patients were 75 years of age and older.
+In these linagliptin studies, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
 
 ## 8.6 Renal Impairment
 
 Empagliflozin
 
-The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.3, 5.5)].
-
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.5)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+
+Efficacy and safety studies with empagliflozin did not enroll patients with ESRD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
+Empagliflozin is contraindicated in patients on dialysis [see Indications and Usage (1) and Contraindications (4)].
 
 ## 8.7 Hepatic Impairment
 

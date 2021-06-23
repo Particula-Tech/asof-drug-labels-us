@@ -4,7 +4,7 @@
 
 GLYXAMBI
 
-GLYXAMBI combines 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, and linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor.
+GLYXAMBI contains: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, and linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor.
 
 Empagliflozin
 
@@ -55,7 +55,6 @@ At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38
 
 GLYXAMBI
 
-The results of the bioequivalence study in healthy subjects demonstrated that GLYXAMBI (25 mg empagliflozin/5 mg linagliptin) combination tablets are bioequivalent to coadministration of corresponding doses of empagliflozin and linagliptin as individual tablets.
 Administration of the fixed-dose combination with food resulted in no change in overall exposure of empagliflozin or linagliptin; however, the peak exposure was decreased 39% and 32% for empagliflozin and linagliptin, respectively.
 These changes are not likely to be clinically significant.
 
@@ -93,42 +92,39 @@ Plasma protein binding of linagliptin is concentration-dependent, decreasing fro
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
 
+Elimination
+
+Empagliflozin: The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
+Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
+
+Linagliptin: Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
+Renal clearance at steady-state was approximately 70 mL/min.
+
 Metabolism
 
-Empagliflozin
-
-No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
+Empagliflozin: No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
 Systemic exposure of each metabolite was less than 10% of total drug-related material.
 In vitro studies suggested that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 
-Linagliptin
-
-Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
+Linagliptin: Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
 A small fraction of absorbed linagliptin is metabolized to a pharmacologically inactive metabolite, which shows a steady-state exposure of 13.3% relative to linagliptin.
 
-Elimination
+Excretion
 
-Empagliflozin
-
-The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
-Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
-Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
+Empagliflozin: Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
-Linagliptin
-
-Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
-Renal clearance at steady-state was approximately 70 mL/min.
+Linagliptin: Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
 
 Specific Populations
 
 Renal Impairment
 
-GLYXAMBI: Studies characterizing the pharmacokinetics of empagliflozin and linagliptin after administration of GLYXAMBI in renally impaired patients have not been performed [see Dosage and Administration (2.2)].
+GLYXAMBI: Studies characterizing the pharmacokinetics of empagliflozin and linagliptin after administration of GLYXAMBI in renally impaired patients have not been performed.
 
-Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.
-Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function.
+Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and kidney failure/ESRD compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to subjects with normal renal function.
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased, with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
@@ -150,7 +146,7 @@ Hepatic Impairment
 
 GLYXAMBI: Studies characterizing the pharmacokinetics of empagliflozin and linagliptin after administration of GLYXAMBI in hepatically impaired patients have not been performed.
 
-Empagliflozin: In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75% and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+Empagliflozin: In patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75% and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
 Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
@@ -163,10 +159,6 @@ Empagliflozin: Based on the population PK analysis, age, body mass index (BMI), 
 
 Linagliptin: Based on the population PK analysis, age, body mass index (BMI), gender and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
-Pediatric
-
-Studies characterizing the pharmacokinetics of empagliflozin or linagliptin after administration of GLYXAMBI in pediatric patients have not been performed.
-
 Drug Interactions
 
 Pharmacokinetic drug interaction studies with GLYXAMBI have not been performed; however, such studies have been conducted with the individual components of GLYXAMBI (empagliflozin and linagliptin).
@@ -175,10 +167,10 @@ Empagliflozin
 
 In vitro Assessment of Drug Interactions
 
-In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 Empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
-Empagliflozin also does not inhibit UGT1A1.
-Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1.
+In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT1A3, UGT1A8, UGT1A9 and UGT2B7.
+Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
+Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 The effect of UGT induction (e.g., induction by rifampicin or any other UGT enzyme inducer) on empagliflozin exposure has not been evaluated.
 
 Empagliflozin is a substrate for P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP), but it does not inhibit these efflux transporters at therapeutic doses.
@@ -194,13 +186,15 @@ The relevance of this observation to patients with renal impairment is unknown.
 
 Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
+| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose |
+| --- |
 
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
 Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril
+| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril |
+| --- |
 
 Linagliptin
 
@@ -213,10 +207,10 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 In vivo Assessment of Drug Interactions
 
-Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7.2)].
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
 
-Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
+Table 4 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
 | AUCd | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -227,14 +221,14 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Ritonavir | 200 mg BID | 5 mgc | 2.01 | 2.96 |
 | Rifampinb | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |
-| bFor information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
+| bFor information regarding clinical recommendations [see Drug Interactions (7)]. |  |  |  |  |
 | cSingle dose |  |  |  |  |
 | dAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
 | BID = twice daily |  |  |  |  |
 | TID = three times daily |  |  |  |  |
 
-Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
+Table 5 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 |  | AUCc | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
