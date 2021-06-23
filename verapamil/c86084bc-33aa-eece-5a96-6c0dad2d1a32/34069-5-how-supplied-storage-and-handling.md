@@ -36,4 +36,4 @@ You may report side effects to Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA 
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 10/2019 CVERER:R16
+Revised: 6/2021 CVERER:RX

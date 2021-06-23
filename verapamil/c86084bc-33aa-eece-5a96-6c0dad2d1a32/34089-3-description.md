@@ -8,7 +8,7 @@ The structural formula of verapamil HCl is given below:
 
 Chemical name: (±)-5-[(3,4-Dimethoxyphenethyl)methylamino]-2-(3,4-dimethoxyphenyl)-2-isopropylvaleronitrile monohydrochloride.
 
-Verapamil HCl, USP is a white or practically white, crystalline powder, practically free of odor, with a bitter taste.
+Verapamil HCl, USP is a white or almost white, crystalline powder, practically free of odor, with a bitter taste.
 It is soluble in water, chloroform and methanol.
 Verapamil HCl is not structurally related to other cardioactive drugs.
 
