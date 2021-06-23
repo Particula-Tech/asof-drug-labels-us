@@ -23,12 +23,12 @@ Usual Dosage: See accompanying prescribing information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Code No.: KR/DRUGS/KTK/28/384/2009
 
-MI:256:10C:R4
+MI:256:10C:R5
 
 Mylan.com
