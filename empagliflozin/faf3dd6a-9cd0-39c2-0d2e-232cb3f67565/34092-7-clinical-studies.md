@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Glycemic Control
+Glycemic Control
 
 JARDIANCE has been studied as monotherapy and in combination with metformin, sulfonylurea, pioglitazone, linagliptin, and insulin.
 JARDIANCE has also been studied in patients with type 2 diabetes with mild or moderate renal impairment.
@@ -277,9 +277,9 @@ Table 12 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in 
 | Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
 | ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
 
-For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Indications and Usage (1), Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
-## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 The effect of JARDIANCE on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease was evaluated in the EMPA-REG OUTCOME study, a multicenter, multi-national, randomized, double-blind parallel group trial.
 The study compared the risk of experiencing a major adverse cardiovascular event (MACE) between JARDIANCE and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
@@ -295,18 +295,18 @@ The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes for mor
 Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), and sulfonylurea (43%).
 
-All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following; a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
+All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
 At baseline, the mean systolic blood pressure was 136 mmHg, the mean diastolic blood pressure was 76 mmHg, the mean LDL was 86 mg/dL, the mean HDL was 44 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 175 mg/g.
 At baseline, approximately 81% of patients were treated with renin angiotensin system inhibitors, 65% with beta-blockers, 43% with diuretics, 77% with statins, and 86% with antiplatelet agents (mostly aspirin).
 
 The primary endpoint in EMPA-REG OUTCOME was the time to first occurrence of a Major Adverse Cardiac Event (MACE).
-A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a nonfatal myocardial infarction (MI) or a nonfatal stroke.
+A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
 The statistical analysis plan had pre-specified that the 10 and 25 mg doses would be combined.
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-JARDIANCE significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 13 and Figure 5 and 6).
+JARDIANCE significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
+The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 13 and Figures 5 and 6).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
 Table 13 Treatment Effect for the Primary Composite Endpoint, and its Componentsa

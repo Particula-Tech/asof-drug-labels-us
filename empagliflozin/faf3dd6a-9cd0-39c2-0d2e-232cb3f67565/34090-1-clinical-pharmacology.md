@@ -10,7 +10,7 @@ By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucos
 
 Urinary Glucose Excretion
 
-In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of JARDIANCE and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg JARDIANCE once daily [see Clinical Studies (14)].
+In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily [see Clinical Studies (14)].
 Data from single oral doses of empagliflozin in healthy subjects indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg and 25 mg doses.
 
 Urinary Volume
@@ -19,7 +19,7 @@ In a 5-day study, mean 24-hour urine volume increase from baseline was 341 mL on
 
 Cardiac Electrophysiology
 
-In a randomized, placebo-controlled, active-comparator, crossover study, 30 healthy subjects were administered a single oral dose of JARDIANCE 25 mg, JARDIANCE 200 mg (8 times the maximum dose), moxifloxacin, and placebo.
+In a randomized, placebo-controlled, active-comparator, crossover study, 30 healthy subjects were administered a single oral dose of empagliflozin 25 mg, empagliflozin 200 mg (8 times the maximum dose), moxifloxacin, and placebo.
 No increase in QTc was observed with either 25 mg or 200 mg empagliflozin.
 
 ## 12.3 Pharmacokinetics
@@ -29,7 +29,7 @@ Absorption
 The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes and no clinically relevant differences were noted between the two populations.
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
 Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
+The steady-state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
 Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
 The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar, suggesting linear pharmacokinetics with respect to time.
 
@@ -41,16 +41,19 @@ Distribution
 The apparent steady-state volume of distribution was estimated to be 73.8 L based on a population pharmacokinetic analysis.
 Following administration of an oral [14C]-empagliflozin solution to healthy subjects, the red blood cell partitioning was approximately 36.8% and plasma protein binding was 86.2%.
 
+Elimination
+
+The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
+Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
+
 Metabolism
 
 No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
 Systemic exposure of each metabolite was less than 10% of total drug-related material.
 In vitro studies suggested that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 
-Elimination
+Excretion
 
-The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
-Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
 Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
@@ -58,23 +61,19 @@ Specific Populations
 
 Renal Impairment
 
-In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.
-Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function.
+In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and kidney failure/ESRD compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to subjects with normal renal function.
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased, with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
 Hepatic Impairment
 
-In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+In patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
 Effects of Age, Body Mass Index, Gender, and Race
 
 Based on the population PK analysis, age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin [see Use in Specific Populations (8.5)].
-
-Pediatric
-
-Studies characterizing the pharmacokinetics of empagliflozin in pediatric patients have not been performed.
 
 Drug Interactions
 
@@ -93,9 +92,7 @@ Empagliflozin does not inhibit any of these human uptake transporters at clinica
 
 In vivo Assessment of Drug Interactions
 
-No dose adjustment of JARDIANCE is recommended when coadministered with commonly prescribed medicinal products based on results of the described pharmacokinetic studies.
 Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
-The observed increases in overall exposure (AUC) of empagliflozin following coadministration with gemfibrozil, rifampicin, or probenecid are not clinically relevant.
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 

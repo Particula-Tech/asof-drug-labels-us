@@ -1,16 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypotension
+## 5.1 Ketoacidosis
 
-JARDIANCE causes intravascular volume contraction.
-Symptomatic hypotension may occur after initiating JARDIANCE [see Adverse Reactions (6.1)] particularly in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics.
-Before initiating JARDIANCE, assess for volume contraction and correct volume status if indicated.
-Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see Use in Specific Populations (8.5)].
-
-## 5.2 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including JARDIANCE.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including JARDIANCE.
 Fatal cases of ketoacidosis have been reported in patients taking JARDIANCE.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
 JARDIANCE is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with JARDIANCE who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with JARDIANCE may be present even if blood glucose levels are less than 250 mg/dL.
@@ -30,35 +24,28 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting JARDIANCE.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue JARDIANCE and seek medical attention immediately if signs and symptoms occur.
 
-## 5.3 Acute Kidney Injury and Impairment in Renal Function
+## 5.2 Volume Depletion
 
-JARDIANCE causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including JARDIANCE; some reports involved patients younger than 65 years of age.
+JARDIANCE can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating JARDIANCE in patients with one or more of these characteristics, assess volume status and renal function.
+In patients with volume depletion, correct this condition before initiating JARDIANCE.
+Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-Before initiating JARDIANCE, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing JARDIANCE in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue JARDIANCE promptly and institute treatment.
-
-JARDIANCE increases serum creatinine and decreases eGFR.
-Patients with hypovolemia may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating JARDIANCE [see Adverse Reactions (6.1)].
-Renal function should be evaluated prior to initiation of JARDIANCE and monitored periodically thereafter.
-More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of JARDIANCE is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
-
-## 5.4 Urosepsis and Pyelonephritis
+## 5.3 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including JARDIANCE.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JARDIANCE.
 
-## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+## 5.5 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
 Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
 Cases have been reported in both females and males.
@@ -68,19 +55,14 @@ Patients treated with JARDIANCE presenting with pain or tenderness, erythema, or
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue JARDIANCE, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.7 Genital Mycotic Infections
+## 5.6 Genital Mycotic Infections
 
 JARDIANCE increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.8 Hypersensitivity Reactions
+## 5.7 Hypersensitivity Reactions
 
-There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with JARDIANCE.
+There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with JARDIANCE.
 If a hypersensitivity reaction occurs, discontinue JARDIANCE; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-JARDIANCE is contraindicated in patients with a previous serious hypersensitivity reaction to empagliflozin or any of the excipients in JARDIANCE [see Contraindications (4)].
-
-## 5.9 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Increases in LDL-C can occur with JARDIANCE [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
+JARDIANCE is contraindicated in patients with hypersensitivity to empagliflozin or any of the excipients in JARDIANCE [see Contraindications (4)].

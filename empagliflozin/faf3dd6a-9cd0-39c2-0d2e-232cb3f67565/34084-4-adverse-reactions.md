@@ -2,15 +2,13 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
-- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
+- Ketoacidosis [see Warnings and Precautions (5.1)]
+- Volume Depletion [see Warnings and Precautions (5.2)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
+- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.5)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,17 +32,16 @@ The adverse reactions were not present at baseline, occurred more commonly on JA
 
 Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with JARDIANCE and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of JARDIANCE Monotherapy or Combination Therapy
 
-|  | Placebo N=995 | JARDIANCE 10 mg N=999 | JARDIANCE 25 mg N=977 |
+| Adverse Reactions | Placebo (%) N=995 | JARDIANCE 10 mg (%) N=999 | JARDIANCE 25 mg (%) N=977 |
 | --- | --- | --- | --- |
-|  | Number (%) of Patients |  |  |
-| Urinary tract infectiona | 7.6% | 9.3% | 7.6% |
-| Female genital mycotic infectionsb | 1.5% | 5.4% | 6.4% |
-| Upper respiratory tract infection | 3.8% | 3.1% | 4.0% |
-| Increased urinationc | 1.0% | 3.4% | 3.2% |
-| Dyslipidemia | 3.4% | 3.9% | 2.9% |
-| Arthralgia | 2.2% | 2.4% | 2.3% |
-| Male genital mycotic infectionsd | 0.4% | 3.1% | 1.6% |
-| Nausea | 1.4% | 2.3% | 1.1% |
+| Urinary tract infectiona | 7.6 | 9.3 | 7.6 |
+| Female genital mycotic infectionsb | 1.5 | 5.4 | 6.4 |
+| Upper respiratory tract infection | 3.8 | 3.1 | 4.0 |
+| Increased urinationc | 1.0 | 3.4 | 3.2 |
+| Dyslipidemia | 3.4 | 3.9 | 2.9 |
+| Arthralgia | 2.2 | 2.4 | 2.3 |
+| Male genital mycotic infectionsd | 0.4 | 3.1 | 1.6 |
+| Nausea | 1.4 | 2.3 | 1.1 |
 | aPredefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis bFemale genital mycotic infections include the following adverse reactions: vulvovaginal mycotic infection, vaginal infection, vulvitis, vulvovaginal candidiasis, genital infection, genital candidiasis, genital infection fungal, genitourinary tract infection, vulvovaginitis, cervicitis, urogenital infection fungal, vaginitis bacterial. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=481), JARDIANCE 10 mg (N=443), JARDIANCE 25 mg (N=420). cPredefined adverse event grouping, including, but not limited to, polyuria, pollakiuria, and nocturia dMale genital mycotic infections include the following adverse reactions: balanoposthitis, balanitis, genital infections fungal, genitourinary tract infection, balanitis candida, scrotal abscess, penile infection. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=514), JARDIANCE 10 mg (N=556), JARDIANCE 25 mg (N=557). |  |  |  |
 
 Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
@@ -53,79 +50,39 @@ Volume Depletion
 
 JARDIANCE causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion.
 In the pool of five placebo-controlled clinical trials, adverse reactions related to volume depletion (e.g., blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolemia, orthostatic hypotension, and syncope) were reported by 0.3%, 0.5%, and 0.3% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
-JARDIANCE may increase the risk of hypotension in patients at risk for volume contraction [see Warnings and Precautions (5.1) and Use in Specific Populations (8.5, 8.6)].
+JARDIANCE may increase the risk of hypotension in patients at risk for volume contraction [see Use in Specific Populations (8.5, 8.6)].
 
 Increased Urination
 
 In the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on JARDIANCE than on placebo (see Table 1).
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 
-Acute Impairment in Renal Function
-
-Treatment with JARDIANCE was associated with increases in serum creatinine and decreases in eGFR (see Table 2).
-Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
-
-In a long-term cardiovascular outcome trial, the acute impairment in renal function was observed to reverse after treatment discontinuation suggesting acute hemodynamic changes play a role in the renal function changes observed with empagliflozin.
-
-Table 2 Changes from Baseline in Serum Creatinine and eGFRa in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
-
-|  |  | Pool of 24-Week Placebo-Controlled Studies |  |  |
-| --- | --- | --- | --- | --- |
-| Placebo | JARDIANCE 10 mg | JARDIANCE 25 mg |  |  |
-| Baseline Mean | N | 825 | 830 | 822 |
-| Creatinine (mg/dL) | 0.84 | 0.85 | 0.85 |  |
-| eGFR (mL/min/1.73 m2) | 87.3 | 87.1 | 87.8 |  |
-| Week 12 Change | N | 771 | 797 | 783 |
-| Creatinine (mg/dL) | 0.00 | 0.02 | 0.01 |  |
-| eGFR (mL/min/1.73 m2) | -0.3 | -1.3 | -1.4 |  |
-| Week 24 Change | N | 708 | 769 | 754 |
-| Creatinine (mg/dL) | 0.00 | 0.01 | 0.01 |  |
-| eGFR (mL/min/1.73 m2) | -0.3 | -0.6 | -1.4 |  |
-|  |  | Moderate Renal Impairmentb |  |  |
-| Placebo |  | JARDIANCE 25 mg |  |  |
-| Baseline Mean | N | 187 | -- | 187 |
-| Creatinine (mg/dL) | 1.49 | -- | 1.46 |  |
-| eGFR (mL/min/1.73 m2) | 44.3 | -- | 45.4 |  |
-| Week 12 Change | N | 176 | -- | 179 |
-| Creatinine (mg/dL) | 0.01 | -- | 0.12 |  |
-| eGFR (mL/min/1.73 m2) | 0.1 | -- | -3.8 |  |
-| Week 24 Change | N | 170 | -- | 171 |
-| Creatinine (mg/dL) | 0.01 | -- | 0.10 |  |
-| eGFR (mL/min/1.73 m2) | 0.2 | -- | -3.2 |  |
-| Week 52 Change | N | 164 | -- | 162 |
-| Creatinine (mg/dL) | 0.02 | -- | 0.11 |  |
-| eGFR (mL/min/1.73 m2) | -0.3 | -- | -2.8 |  |
-| Post-treatment Changec | N | 98 | -- | 103 |
-| Creatinine (mg/dL) | 0.03 | -- | 0.02 |  |
-| eGFR (mL/min/1.73 m2) | 0.16 | -- | 1.48 |  |
-| aObserved cases on treatment. bSubset of patients from renal impairment study with eGFR 30 to less than 60 mL/min/1.73 m2 cApproximately 3 weeks after end of treatment. |  |  |  |  |
-
 Hypoglycemia
 
-The incidence of hypoglycemia by study is shown in Table 3.
-The incidence of hypoglycemia increased when JARDIANCE was administered with insulin or sulfonylurea [see Warnings and Precautions (5.5)].
+The incidence of hypoglycemia by study is shown in Table 2.
+The incidence of hypoglycemia increased when JARDIANCE was administered with insulin or sulfonylurea.
 
-Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studiesc
+Table 2 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studiesc
 
 | Monotherapy (24 weeks) | Placebo (n=229) | JARDIANCE 10 mg (n=224) | JARDIANCE 25 mg (n=223) |
 | --- | --- | --- | --- |
-| Overall (%) | 0.4% | 0.4% | 0.4% |
-| Severe (%) | 0% | 0% | 0% |
+| Overall (%) | 0.4 | 0.4 | 0.4 |
+| Severe (%) | 0 | 0 | 0 |
 | In Combination with Metformin (24 weeks) | Placebo + Metformin (n=206) | JARDIANCE 10 mg + Metformin (n=217) | JARDIANCE 25 mg + Metformin (n=214) |
-| Overall (%) | 0.5% | 1.8% | 1.4% |
-| Severe (%) | 0% | 0% | 0% |
+| Overall (%) | 0.5 | 1.8 | 1.4 |
+| Severe (%) | 0 | 0 | 0 |
 | In Combination with Metformin + Sulfonylurea (24 weeks) | Placebo (n=225) | JARDIANCE 10 mg + Metformin + Sulfonylurea (n=224) | JARDIANCE 25 mg + Metformin + Sulfonylurea (n=217) |
-| Overall (%) | 8.4% | 16.1% | 11.5% |
-| Severe (%) | 0% | 0% | 0% |
+| Overall (%) | 8.4 | 16.1 | 11.5 |
+| Severe (%) | 0 | 0 | 0 |
 | In Combination with Pioglitazone +/- Metformin (24 weeks) | Placebo (n=165) | JARDIANCE 10 mg + Pioglitazone +/- Metformin (n=165) | JARDIANCE 25 mg + Pioglitazone +/- Metformin (n=168) |
-| Overall (%) | 1.8% | 1.2% | 2.4% |
-| Severe (%) | 0% | 0% | 0% |
+| Overall (%) | 1.8 | 1.2 | 2.4 |
+| Severe (%) | 0 | 0 | 0 |
 | In Combination with Basal Insulin +/- Metformin (18 weeksd) | Placebo (n=170) | JARDIANCE 10 mg (n=169) | JARDIANCE 25 mg (n=155) |
-| Overall (%) | 20.6% | 19.5% | 28.4% |
-| Severe (%) | 0% | 0% | 1.3% |
+| Overall (%) | 20.6 | 19.5 | 28.4 |
+| Severe (%) | 0 | 0 | 1.3 |
 | In Combination with MDI Insulin +/-Metformin (18 weeksd) | Placebo (n=188) | JARDIANCE 10 mg (n=186) | JARDIANCE 25 mg (n=189) |
-| Overall (%) | 37.2% | 39.8% | 41.3% |
-| Severe (%) | 0.5% | 0.5% | 0.5% |
+| Overall (%) | 37.2 | 39.8 | 41.3 |
+| Severe (%) | 0.5 | 0.5 | 0.5 |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cTreated set (patients who had received at least one dose of study drug) dInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
 
 Genital Mycotic Infections
@@ -145,14 +102,20 @@ The rate of treatment discontinuation due to urinary tract infections was 0.1%, 
 
 Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
-The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
+The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
 
 Laboratory Tests
+
+Increases in Serum Creatinine and Decreases in eGFR
+
+Initiation of JARDIANCE causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with JARDIANCE.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with JARDIANCE.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.9)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit
@@ -165,8 +128,9 @@ At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initi
 Additional adverse reactions have been identified during postapproval use of JARDIANCE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Ketoacidosis [see Warnings and Precautions (5.2)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.6)]
-- Angioedema [see Warnings and Precautions (5.8)]
+- Ketoacidosis
+- Urosepsis and Pyelonephritis
+- Necrotizing Fasciitis of the Perineum (Fournier's gangrene)
+- Angioedema
+- Acute Kidney Injury
 - Skin Reactions (e.g., rash, urticaria)
