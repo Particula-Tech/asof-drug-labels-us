@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207306"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-168-48",
+    "69097-168-64",
+    "69097-168-87"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "arformoterol tartrate"
+    }
+  ],
+  "setid": "70071afd-5323-4019-aca5-5534278829dc",
+  "source": "dailymed"
+}
