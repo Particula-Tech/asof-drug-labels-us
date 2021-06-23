@@ -146,6 +146,6 @@ PCI Pharma Services 23-24 Tafarnaubach Industrial Estate Tredegar, Gwent NP22 3A
 
 Rivopharm SA Centro Insema 6928 Manno, Switzerland
 
-Marketed by: Cycle Pharmaceuticals Ltd. Bailey Grundy Barrett Building Little St. Mary’s Lane CB2 1RR, Cambridge, United Kingdom
+Marketed by: Cycle Pharmaceuticals Ltd The Broers Building 21 JJ Thomson Ave Cambridge, CB3 0FA, United Kingdom
 
-Revised: 02/2021
+Revised: 06/2021
