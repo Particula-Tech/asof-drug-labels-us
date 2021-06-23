@@ -1,13 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-RITUXAN (rituximab) injection is a sterile, preservative-free, clear, colorless solution for intravenous infusion supplied as follows:
+RITUXAN HYCELA (rituximab and hyaluronidase human) injection, for subcutaneous use is supplied as a sterile preservative-free liquid solution in a single-dose vial.
+The following configurations are available:
 
-| Carton contents | NDC number |
-| --- | --- |
-| One 100 mg/10 mL (10 mg/mL) single-dose vial | NDC 50242-051-21 |
-| Ten 100 mg/10 mL (10 mg/mL) single-dose vials | NDC 50242-051-10 |
-| One 500 mg/50 mL (10 mg/mL) single-dose vial | NDC 50242-053-06 |
+Individually packaged single-dose vials:
 
-Store RITUXAN vials refrigerated at 2°C to 8°C (36°F to 46°F).
-RITUXAN vials should be protected from direct sunlight.
-Do not freeze or shake.
+- RITUXAN HYCELA 1,400 mg/23,400 Units (NDC 50242-108-01) providing 1,400 mg rituximab and 23,400 Units hyaluronidase human per 11.7 mL
+- RITUXAN HYCELA 1,600 mg/26,800 Units (NDC 50242-109-01) providing 1,600 mg rituximab and 26,800 Units hyaluronidase human per 13.4 mL
+
+Storage
+
+Store RITUXAN HYCELA vials in the refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
+Do not freeze.

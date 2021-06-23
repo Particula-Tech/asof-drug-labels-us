@@ -1,26 +1,22 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Non–Hodgkin's Lymphoma (NHL)
+## 1.1 Follicular Lymphoma (FL)
 
-RITUXAN (rituximab) is indicated for the treatment of adult patients with:
+RITUXAN HYCELA is indicated for the treatment of adult patients with:
 
-- Relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL as a single agent.
-- Previously untreated follicular, CD20-positive, B-cell NHL in combination with first line chemotherapy and, in patients achieving a complete or partial response to a rituximab product in combination with chemotherapy, as single-agent maintenance therapy.
-- Non-progressing (including stable disease), low-grade, CD20-positive, B-cell NHL as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.
-- Previously untreated diffuse large B-cell, CD20-positive NHL in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
+- Relapsed or refractory, follicular lymphoma as a single agent.
+- Previously untreated follicular lymphoma in combination with first line chemotherapy and, in patients achieving a complete or partial response to rituximab in combination with chemotherapy, as single-agent maintenance therapy.
+- Non-progressing (including stable disease), follicular lymphoma as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.
 
-## 1.2 Chronic Lymphocytic Leukemia (CLL)
+## 1.2 Diffuse Large B-Cell Lymphoma (DLBCL)
 
-RITUXAN, in combination with fludarabine and cyclophosphamide (FC), is indicated for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.
+RITUXAN HYCELA is indicated for the treatment of adult patients with previously untreated diffuse large B-cell lymphoma in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
 
-## 1.3 Rheumatoid Arthritis (RA)
+## 1.3 Chronic Lymphocytic Leukemia (CLL)
 
-RITUXAN, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to severely-active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
+RITUXAN HYCELA is indicated, in combination with fludarabine and cyclophosphamide (FC), for the treatment of adult patients with previously untreated and previously treated CLL.
 
-## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+## 1.4 Limitations of Use
 
-RITUXAN, in combination with glucocorticoids, is indicated for the treatment of adult and pediatric patients 2 years of age and older with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
-
-## 1.5 Pemphigus Vulgaris (PV)
-
-RITUXAN is indicated for the treatment of adult patients with moderate to severe pemphigus vulgaris.
+- Initiate treatment with RITUXAN HYCELA only after patients have received at least one full dose of a rituximab product by intravenous infusion [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
+- RITUXAN HYCELA is not indicated for the treatment of non-malignant conditions.

@@ -1,5 +1,1 @@
 # 7 DRUG INTERACTIONS
-
-Formal drug interaction studies have not been performed with RITUXAN.
-In patients with CLL, RITUXAN did not alter systemic exposure to fludarabine or cyclophosphamide.
-In clinical trials of patients with RA, concomitant administration of methotrexate or cyclophosphamide did not alter the pharmacokinetics of rituximab.

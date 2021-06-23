@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: RITUXAN is a colorless, clear solution for intravenous infusion:
+RITUXAN HYCELA is a colorless to yellowish, clear to opalescent solution for subcutaneous injection:
 
-- 100 mg/10 mL (10 mg/mL) in a single-dose vial
-- 500 mg/50 mL (10 mg/mL) in a single-dose vial
+- Injection: 1,400 mg rituximab and 23,400 Units hyaluronidase human per 11.7 mL (120 mg/2,000 Units per mL) in a single-dose vial.
+- Injection: 1,600 mg rituximab and 26,800 Units hyaluronidase human per 13.4 mL (120 mg/2,000 Units per mL) in a single-dose vial.
