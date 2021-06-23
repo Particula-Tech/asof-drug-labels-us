@@ -148,9 +148,9 @@ Renal Impairment
 
 TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin after administration of TRIJARDY XR in renally impaired patients have not been performed.
 
-Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD, compared to patients with normal renal function.
-Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment, as compared to subjects with normal renal function.
+Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and kidney failure/ESRD, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment, as compared to subjects with normal renal function.
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased, with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
@@ -174,7 +174,7 @@ Hepatic Impairment
 
 TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin after administration of TRIJARDY XR in hepatically impaired patients have not been performed.
 
-Empagliflozin: In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75% and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+Empagliflozin: In patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75% and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
 Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
@@ -198,10 +198,6 @@ In controlled clinical studies of metformin HCl in patients with type 2 diabetes
 Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-Pediatric
-
-Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, or metformin after administration of TRIJARDY XR in pediatric patients have not been performed.
-
 Drug Interactions
 
 Pharmacokinetic drug interaction studies with TRIJARDY XR have not been performed; however, such studies have been conducted with the individual components of TRIJARDY XR (empagliflozin, linagliptin, and metformin HCl).
@@ -210,10 +206,10 @@ Empagliflozin
 
 In vitro Assessment of Drug Interactions
 
-In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 Empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
-Empagliflozin also does not inhibit UGT1A1.
-Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1.
+In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT1A3, UGT1A8, UGT1A9 and UGT2B7.
+Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
+Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 The effect of UGT induction (e.g., induction by rifampicin or any other UGT enzyme inducer) on empagliflozin exposure has not been evaluated.
 
 Empagliflozin is a substrate for P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP), but it does not inhibit these efflux transporters at therapeutic doses.
@@ -300,7 +296,7 @@ Metformin HCl
 
 Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin HCl* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
 | Glyburide | 5 mg | 500 mg≠ | metformin | 0.98‡ | 0.99‡ |
@@ -320,7 +316,7 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin HCl* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
 | Glyburide | 5 mg | 500 mg§ | glyburide | 0.78‡ | 0.63‡ |

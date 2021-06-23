@@ -2,10 +2,10 @@
 
 ## 2.1 Prior to Initiation of TRIJARDY XR
 
-- Assess renal function prior to initiation of TRIJARDY XR and periodically thereafter [see Warnings and Precautions (5.1, 5.6), Use in Specific Populations (8.5, 8.6)].
-- In patients with volume depletion, correct this condition prior to initiation of TRIJARDY XR [see Warnings and Precautions (5.4), Use in Specific Populations (8.5, 8.6)].
+- Assess renal function before initiating TRIJARDY XR and as clinically indicated [see Warnings and Precautions (5.1, 5.4)].
+- In patients with volume depletion, correct this condition before initiating TRIJARDY XR [see Warnings and Precautions (5.4), Use in Specific Populations (8.5, 8.6)].
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage and Administration
 
 - Individualize the starting dose of TRIJARDY XR based on the patient's current regimen:
   - In patients on metformin HCl, with or without linagliptin, switch to TRIJARDY XR containing a similar total daily dose of metformin HCl and a total daily dose of empagliflozin 10 mg and linagliptin 5 mg;
@@ -19,11 +19,8 @@
 
 ## 2.3 Dosage Recommendations in Patients with Renal Impairment
 
-No dose adjustment is needed in patients with an estimated glomerular filtration rate (eGFR) greater than or equal to 45 mL/min/1.73 m2.
-
-TRIJARDY XR should not be initiated or continued in patients with an eGFR less than 45 mL/min/1.73 m2.
-
-TRIJARDY XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.6)].
+- Initiation of TRIJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
+- TRIJARDY XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1, 5.4) and Use in Specific Populations (8.6)].
 
 ## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 

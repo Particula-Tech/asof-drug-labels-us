@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Empagliflozin and Linagliptin Add-on Combination Therapy with Metformin for Glycemic Control
+Empagliflozin and Linagliptin Add-on Combination Therapy with Metformin for Glycemic Control
 
 A total of 686 patients with type 2 diabetes participated in a double-blind, active-controlled study to evaluate the efficacy and safety of empagliflozin 10 mg or 25 mg in combination with linagliptin 5 mg, compared to the individual components.
 
@@ -41,7 +41,7 @@ Table 7 Glycemic Parameters at 24 Weeks in a Study Comparing Empagliflozin in Co
 
 Figure 3 Adjusted Mean HbA1c Change at Each Time Point (Completers) and at Week 24 (mITT population)
 
-## 14.2 Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
 The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
@@ -69,8 +69,8 @@ The statistical analysis plan had pre-specified that the 10 and 25 mg doses woul
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 8 and Figures 4 and 5).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
+The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 8 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
 Table 8 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
@@ -96,7 +96,7 @@ A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
 The non-cardiovascular deaths were only a small proportion of deaths, and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
 
-## 14.3 Linagliptin Cardiovascular Safety Trials
+Linagliptin Cardiovascular Safety Trials
 
 CARMELINA
 

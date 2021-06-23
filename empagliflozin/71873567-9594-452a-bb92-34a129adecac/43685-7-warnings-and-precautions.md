@@ -51,7 +51,7 @@ Therefore, avoid use of TRIJARDY XR in patients with clinical or laboratory evid
 ## 5.2 Pancreatitis
 
 Acute pancreatitis, including fatal pancreatitis, has been reported in patients treated with linagliptin.
-In the CARMELINA trial [see Clinical Studies (14.3)], acute pancreatitis was reported in 9 (0.3%) patients treated with linagliptin and in 5 (0.1%) patients treated with placebo.
+In the CARMELINA trial [see Clinical Studies (14)], acute pancreatitis was reported in 9 (0.3%) patients treated with linagliptin and in 5 (0.1%) patients treated with placebo.
 Two patients treated with linagliptin in the CARMELINA trial had acute pancreatitis with a fatal outcome.
 There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients treated with linagliptin.
 
@@ -59,23 +59,7 @@ Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue TRIJARDY XR and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using TRIJARDY XR.
 
-## 5.3 Heart Failure
-
-An association between DPP-4 inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
-These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
-
-Consider the risks and benefits of TRIJARDY XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
-Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
-If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of TRIJARDY XR.
-
-## 5.4 Hypotension
-
-Empagliflozin causes intravascular volume contraction.
-Symptomatic hypotension may occur after initiating empagliflozin [see Adverse Reactions (6.1)] particularly in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics.
-Before initiating TRIJARDY XR, assess for volume contraction and correct volume status if indicated.
-Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see Use in Specific Populations (8.5)].
-
-## 5.5 Ketoacidosis
+## 5.3 Ketoacidosis
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
 Fatal cases of ketoacidosis have been reported in patients taking empagliflozin.
@@ -99,36 +83,29 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting TRIJARDY X
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue TRIJARDY XR and seek medical attention immediately if signs and symptoms occur.
 
-## 5.6 Acute Kidney Injury
+## 5.4 Volume Depletion
 
-Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.4)] and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
+Empagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating TRIJARDY XR in patients with one or more of these characteristics, assess volume status and renal function.
+In patients with volume depletion, correct this condition before initiating TRIJARDY XR.
+Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-Before initiating TRIJARDY XR, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal impairment, heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing TRIJARDY XR in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue TRIJARDY XR promptly and institute treatment.
-
-Empagliflozin increases serum creatinine and decreases eGFR.
-Patients with hypovolemia may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating TRIJARDY XR [see Adverse Reactions (6.1)].
-Renal function should be evaluated prior to initiation of TRIJARDY XR and monitored periodically thereafter.
-More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of TRIJARDY XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4) and Use in Specific Populations (8.6)].
-
-## 5.7 Urosepsis and Pyelonephritis
+## 5.5 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.8 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
 Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with TRIJARDY XR.
 
-## 5.9 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
 Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
 Cases have been reported in both females and males.
@@ -138,34 +115,34 @@ Patients treated with TRIJARDY XR presenting with pain or tenderness, erythema, 
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue TRIJARDY XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.10 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.11 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
-There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of TRIJARDY XR).
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
 Onset of these reactions occurred predominantly within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with TRIJARDY XR.
 
-There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with empagliflozin (one of the components of TRIJARDY XR).
+There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with empagliflozin.
 
 If a hypersensitivity reaction occurs, discontinue TRIJARDY XR, treat promptly per standard of care, and monitor until signs and symptoms resolve.
-TRIJARDY XR is contraindicated in patients with a previous serious hypersensitivity reaction to linagliptin or empagliflozin [see Contraindications (4)].
+TRIJARDY XR is contraindicated in patients with hypersensitivity to linagliptin, empagliflozin or any of the excipients in TRIJARDY XR [see Contraindications (4)].
 
-## 5.12 Vitamin B12 Deficiency
+## 5.10 Vitamin B12 Deficiency
 
 In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on TRIJARDY XR and manage any abnormalities [see Adverse Reactions (6.1)].
 
-## 5.13 Severe and Disabling Arthralgia
+## 5.11 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -173,10 +150,19 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.14 Bullous Pemphigoid
+## 5.12 Bullous Pemphigoid
 
 Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.3)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving TRIJARDY XR.
 If bullous pemphigoid is suspected, TRIJARDY XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+## 5.13 Heart Failure
+
+An association between DPP-4 inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
+These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+
+Consider the risks and benefits of TRIJARDY XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of TRIJARDY XR.

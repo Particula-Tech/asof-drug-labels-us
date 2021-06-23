@@ -4,18 +4,17 @@ The following important adverse reactions are described below and elsewhere in t
 
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
-- Heart Failure [see Warnings and Precautions (5.3)]
-- Hypotension [see Warnings and Precautions (5.4)]
-- Ketoacidosis [see Warnings and Precautions (5.5)]
-- Acute Kidney Injury [see Warnings and Precautions (5.6)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.7)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.8)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.9)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.10)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.12)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.13)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.14)]
+- Ketoacidosis [see Warnings and Precautions (5.3)]
+- Volume Depletion [see Warnings and Precautions (5.4)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
+- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.10)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.11)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.12)]
+- Heart Failure [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,15 +27,15 @@ The most common adverse reactions are shown in Table 1.
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin, Linagliptin, and Metformin in an Active-Controlled Clinical Trial of 52 Weeks
 
-|  | Empagliflozin 10 mg + Linagliptin 5 mg + Metformin n=136 | Empagliflozin 25 mg + Linagliptin 5 mg + Metformin n=137 |
+| Adverse Reactions | Empagliflozin 10 mg + Linagliptin 5 mg + Metformin (%) n=136 | Empagliflozin 25 mg + Linagliptin 5 mg + Metformin (%) n=137 |
 | --- | --- | --- |
-| Upper respiratory tract infection | 10.3% | 8.0% |
-| Urinary tract infectiona | 9.6% | 10.2% |
-| Nasopharyngitis | 8.1% | 5.8% |
-| Diarrhea | 6.6% | 2.2% |
-| Constipation | 5.1% | 5.8% |
-| Headache | 5.1% | 5.1% |
-| Gastroenteritis | 2.9% | 5.8% |
+| Upper respiratory tract infection | 10.3 | 8.0 |
+| Urinary tract infectiona | 9.6 | 10.2 |
+| Nasopharyngitis | 8.1 | 5.8 |
+| Diarrhea | 6.6 | 2.2 |
+| Constipation | 5.1 | 5.8 |
+| Headache | 5.1 | 5.1 |
+| Gastroenteritis | 2.9 | 5.8 |
 | aPredefined grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis |  |  |
 
 Hypoglycemia
@@ -72,8 +71,9 @@ Laboratory Tests
 
 Empagliflozin
 
-Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR.
-Patients with hypovolemia may be more susceptible to these changes.
+Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
 LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
@@ -109,6 +109,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity Reactions including Anaphylaxis, Angioedema, and Exfoliative Skin Conditions
 - Severe and Disabling Arthralgia
 - Bullous Pemphigoid
+- Acute Kidney Injury
 - Skin Reactions (e.g., rash, urticaria)
 - Mouth Ulceration, Stomatitis
 - Cholestatic, hepatocellular, and mixed hepatocellular liver injury

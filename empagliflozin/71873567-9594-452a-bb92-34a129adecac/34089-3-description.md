@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-TRIJARDY XR tablets contain: empagliflozin, linagliptin, and metformin hydrochloride.
+TRIJARDY XR tablets for oral use contain: empagliflozin, linagliptin, and metformin hydrochloride.
 
 Empagliflozin
 
-Empagliflozin is an orally-active inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
+Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -16,7 +16,7 @@ It is very slightly soluble in water, sparingly soluble in methanol, slightly so
 
 Linagliptin
 
-Linagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
+Linagliptin is an inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 
 The chemical name of linagliptin is 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
 

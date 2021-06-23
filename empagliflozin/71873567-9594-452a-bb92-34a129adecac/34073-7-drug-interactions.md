@@ -14,7 +14,7 @@ Table 2 Clinically Relevant Interactions with TRIJARDY XR
 | Intervention | Warn patients against excessive alcohol intake while receiving TRIJARDY XR. |
 | Diuretics |  |
 | Clinical Impact | Coadministration of empagliflozin with diuretics resulted in increased urine volume and frequency of voids, which might enhance the potential for volume depletion. |
-| Intervention | Before initiating TRIJARDY XR, assess for volume contraction and correct volume status if indicated. Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected. |
+| Intervention | Before initiating TRIJARDY XR, assess volume status and renal function. In patients with volume depletion, correct this condition before initiating TRIJARDY XR. Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy. |
 | Insulin or Insulin Secretagogues |  |
 | Clinical Impact | Empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial. Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue. |
 | Intervention | Coadministration of TRIJARDY XR with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |

@@ -33,7 +33,7 @@ However, these studies cannot definitely establish the absence of any metformin-
 Animal Data
 
 Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30, and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
-These findings were not observed after a 13-week drug-free recovery period.
+These findings were not observed after a 13-week, drug-free recovery period.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
 
 In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
@@ -81,13 +81,12 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of TRIJARDY XR in pediatric patients under 18 years of age have not been established.
+Safety and effectiveness of TRIJARDY XR have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Assess renal function more frequently in TRIJARDY XR-treated geriatric patients because there is a greater risk of empagliflozin-associated intravascular volume contraction and symptomatic hypotension in geriatric patients (empagliflozin is a component of TRIJARDY XR) and there is a greater risk of metformin-associated lactic acidosis in geriatric patients (metformin is a component of TRIJARDY XR) [see Warnings and Precautions (5.1, 5.4)].
+Assess renal function more frequently in TRIJARDY XR-treated geriatric patients because there is a greater risk of empagliflozin-associated intravascular volume contraction and symptomatic hypotension in geriatric patients and there is a greater risk of metformin-associated lactic acidosis in geriatric patients [see Warnings and Precautions (5.1, 5.4)].
 
-The recommended dosage of the empagliflozin and linagliptin components of TRIJARDY XR are the same in geriatric patients (patients 65 years of age and older) as in younger adult patients.
 The recommended dosage for the metformin component of TRIJARDY XR in geriatric patients should usually start at the lower end of the dosage range.
 
 Of the 273 patients treated with the combination of empagliflozin, linagliptin, and metformin hydrochloride to improve glycemic control in adults with type 2 diabetes mellitus, 58 were 65 years of age and older, while 8 were 75 years of age and older.
@@ -95,8 +94,8 @@ Clinical studies of TRIJARDY XR did not include sufficient numbers of geriatric 
 
 Empagliflozin
 
-In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older (including 491 empagliflozin-treated patients 75 years of age and older).
-In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively [see Warnings and Precautions (5.4)].
+In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
+In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
 
 Linagliptin
 
@@ -111,12 +110,12 @@ Clinical studies of metformin did not include sufficient numbers of geriatric pa
 
 ## 8.6 Renal Impairment
 
-TRIJARDY XR should not be initiated or continued in patients with an eGFR less than 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease, or dialysis.
+TRIJARDY XR should not be initiated in patients with an eGFR less than 45 mL/min/1.73 m2 due to the metformin component and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease, or dialysis.
 
 Empagliflozin
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.6)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
 Metformin HCl
 
