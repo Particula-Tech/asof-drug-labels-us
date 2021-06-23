@@ -1,4 +1,4 @@
-# Package/Label Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0093-7198-56
 
@@ -9,5 +9,3 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 Rx only
 
 30 CAPSULES
-
-TEVA
