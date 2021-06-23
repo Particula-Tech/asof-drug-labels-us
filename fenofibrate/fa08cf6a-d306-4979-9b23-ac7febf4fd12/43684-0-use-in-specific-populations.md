@@ -24,9 +24,7 @@ Aborted litters were observed at maternally toxic doses (≥ 150 mg/kg/day, corr
 
 In pregnant rats given oral dietary doses of 15, 75, and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), no adverse developmental effects were observed at 15 mg/kg/day (less than the clinical exposure at the MRHD, based on body surface area comparisons), despite maternal toxicity (decreased weight gain).
 Post-implantation loss was observed at ≥ 75 mg/kg/day (≥ 2 times the clinical exposure at the MRHD) in the presence of maternal toxicity (decreased weight gain).
-Decreased pup survival was noted at 300 mg/kg/day
-
-(10 times the clinical exposure at the MRHD), which was associated with decreased maternal body weight gain/maternal neglect.
+Decreased pup survival was noted at 300 mg/kg/day (10 times the clinical exposure at the MRHD), which was associated with decreased maternal body weight gain/maternal neglect.
 
 ## 8.2 Lactation
 
@@ -46,7 +44,7 @@ Fenofibric acid is known to be substantially excreted by the kidney, and the ris
 Fenofibric acid exposure is not influenced by age.
 Since elderly patients have a higher incidence of renal impairment, dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 Elderly patients with normal renal function should require no dose modifications.
-Consider monitoring renal function in elderly patients taking fenofibrate tablets.
+Consider monitoring renal function in elderly patients taking fenofibrate.
 
 ## 8.6 Renal Impairment
 

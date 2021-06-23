@@ -2,17 +2,18 @@
 
 ## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
 
-The effects of fenofibrate at a dose equivalent to 160 mg fenofibrate tablets per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
+The effects of fenofibrate at a dose equivalent to 160 mg fenofibrate tablets per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191 mg/dL.
 Fenofibrate tablets therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate tablets therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
-Table 4: Mean Percent Change in Lipid Parameters at End of Treatment†
+Table 4.
+Mean Percent Change in Lipid Parameters at End of Treatment†
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
 | Pooled Cohort |  |  |  |  |
-| Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%* | -20.6%* | +11.0%* | -28.9%* |
+| Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191 mg/dL |
+| All FEN (n=361) | -18.7%* | -20.6%* | +11%* | -28.9%* |
 | Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
 | Baseline LDL-C > 160 mg/dL and TG < 150 mg/dL |  |  |  |  |
 | Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
@@ -21,7 +22,7 @@ Table 4: Mean Percent Change in Lipid Parameters at End of Treatment†
 | Baseline LDL-C >160 mg/dL and TG ≥ 150 mg/dL |  |  |  |  |
 | Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
 | All FEN (n=126) | -16.8%* | -20.1%* | +14.6%* | -35.9%* |
-| Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
+| Placebo (n=116) | -3% | -6.6% | +2.3% | +0.9% |
 | † Duration of study treatment was 3 to 6 months. * p = < 0.05 vs. Placebo |  |  |  |  |
 
 In a subset of the subjects, measurements of apo B were conducted.
@@ -34,7 +35,8 @@ Patients were treated for eight weeks under protocols that differed only in that
 In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to fenofibrate tablets 160 mg per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
 Treatment of patients with elevated triglycerides often results in an increase of LDL-C (see Table 5).
 
-Table 5: Effects of Fenofibrate Tablets in Patients With Severe Hypertriglyceridemia
+Table 5.
+Effects of Fenofibrate Tablets in Patients With Severe Hypertriglyceridemia
 
 | Study 1 | Placebo |  |  |  | Fenofibrate Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,9 +52,9 @@ Table 5: Effects of Fenofibrate Tablets in Patients With Severe Hypertriglycerid
 | Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5* |
 | VLDLTriglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6* |
 | Total Cholesterol | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8* |
-| HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9* |
-| LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0* |
-| VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4* |
+| HDL Cholesterol | 44 | 27 | 28 | 5 | 48 | 30 | 36 | 22.9* |
+| LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45* |
+| VLDL Cholesterol | 42 | 137 | 142 | 11 | 45 | 126 | 54 | -49.4* |
 | * =p < 0.05 vs. Placebo |  |  |  |  |  |  |  |  |
 
 The effect of fenofibrate tablets on cardiovascular morbidity and mortality has not been determined.

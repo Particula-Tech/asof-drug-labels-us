@@ -14,4 +14,4 @@ The effect of fenofibrate therapy on reducing this risk has not been adequately 
 
 ## 1.3 Important Limitations of Use
 
-Fenofibrate at a dose equivalent to 160 mg of fenofibrate tablets was not shown to reduce coronary heart disease morbidity and mortality in a large, randomized controlled trial of patients with type 2 diabetes mellitus [see Warnings and Precautions (5.1)].
+Fenofibrate at a dose equivalent to 160 mg of fenofibrate tablet was not shown to reduce coronary heart disease morbidity and mortality in a large, randomized controlled trial of patients with type 2 diabetes mellitus [see Warnings and Precautions (5.1)].

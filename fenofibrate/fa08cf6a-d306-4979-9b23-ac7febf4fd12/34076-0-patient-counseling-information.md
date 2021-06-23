@@ -7,16 +7,19 @@ Patients should be advised:
 - of medications that should not be taken in combination with fenofibrate tablets.
 - that if they are taking coumarin anticoagulants, fenofibrate tablets may increase their anti-coagulant effect, and increased monitoring may be necessary.
 - to continue to follow an appropriate lipid-modifying diet while taking fenofibrate tablets.
-- to take fenofibrate tablets once daily with a meal at the prescribed dose, swallowing each tablet whole.
-- to return to their physician’s office for for routine monitoring.
+- to take fenofibrate tablets once daily with a meal at the prescribed dose swallowing each tablet whole.
+- to return to their physician’s office for routine monitoring.
 - to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking fenofibrate tablets.
-- to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
+- to inform their physician of symptoms of liver injury (e.g., jaundice, abnormal pain, nausea, malaise, dark urine, abnormal stool, pruritus); any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 - not to breastfeed during treatment with fenofibrate tablets and for 5 days after the final dose.
 
-Distributed by:
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+For more information call Amneal Pharmaceuticals at 1-877-835-5472.
+
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2021-00
+04-2021-01

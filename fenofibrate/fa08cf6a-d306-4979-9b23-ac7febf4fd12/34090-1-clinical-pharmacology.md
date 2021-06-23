@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-The active moiety of fenofibrate tablets is fenofibric acid.
+The active moiety of fenofibrate tablet is fenofibric acid.
 The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
-The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor alpha (PPARα).
+The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
 
 The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation), to large buoyant particles.
@@ -33,7 +33,7 @@ Absorption
 
 The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
 However, fenofibrate is well absorbed from the gastrointestinal tract.
-Following oral administration in healthy volunteers, approximately 60% of a single-dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
+Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid occur within 6 to 8 hours after administration.
 
 The absorption of fenofibrate is increased when administered with food.
@@ -42,7 +42,7 @@ With fenofibrate tablets, the extent of absorption is increased by approximately
 Distribution
 
 Upon multiple dosing of fenofibrate, fenofibric acid steady state is achieved within 5 days.
-Plasma concentrations of fenofibric acid at steady state are approximately double of those following a single-dose.
+Plasma concentrations of fenofibric acid at steady state are approximately double of those following a single dose.
 Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 
 Metabolism
@@ -98,33 +98,35 @@ They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inh
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
 Table 3 describes the effects of co-administered fenofibrate or fenofibric acid on other drugs.
 
-Table 2: Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
+Table 2.
+Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
 | Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate* | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
 | Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
-| Pravastatin | 40 mg as a single-dose | Fenofibrate 3 x 67 mg2 as a single-dose | ↓1% | ↓2% |
-| Fluvastatin | 40 mg as a single-dose | Fenofibrate 160 mg1 as a single-dose | ↓2% | ↓10% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
-| Glimepiride | 1 mg as a single-dose | 1 Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
+| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
 | Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
 | * Plasma concentrations of fenofibric acid after administration of 54 mg and 160 mg tablets are equivalent under fed conditions to 67 and 200 mg capsules, respectively. Plasma concentrations of fenofibric acid after administration of one 145 mg tablet are equivalent under fed conditions to one 200 mg capsule. 1 Fenofibrate oral tablet 2 Fenofibrate oral micronized capsule |  |  |  |  |
 
-Table 3: Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
+Table 3.
+Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
 | Dosage Regimen of Fenofibrate* | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Analyte | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
-| Fenofibrate 3 x 67 mg2 as a single-dose | Pravastatin, 40 mg as a single-dose | Pravastatin | ↑13% | ↑13% |
+| Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
 |  |  | 3α-Hydroxyl-iso-­pravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single-dose | Fluvastatin, 40 mg as a single-dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
-| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single-dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
 | * Plasma concentrations of fenofibric acid after administration of 54 mg and 160 mg tablets are equivalent under fed conditions to 67 and 200 mg capsules, respectively. Plasma concentrations of fenofibric acid after administration of one 145 mg tablet are equivalent under fed conditions to one 200 mg capsule. 1Fenofibrate oral tablet 2Fenofibrate oral micronized capsule |  |  |  |  |
