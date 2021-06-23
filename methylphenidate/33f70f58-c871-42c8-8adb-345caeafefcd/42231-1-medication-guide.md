@@ -34,4 +34,4 @@
 | Manufactured for Neos Therapeutics Brands, LLC, Grand Prairie, TX 75050 |  |  |  |
 | For more information go to http://www.COTEMPLAXRODT.com or call 1-888-319-1789 |  |  |  |
 | COTEMPLA XR-ODT is registered in the US Patent and Trademark Office © 2014 Neos Therapeutics, Inc. |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Revised June/2017 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Revised April/2021 |

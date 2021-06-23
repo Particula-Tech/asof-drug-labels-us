@@ -65,11 +65,12 @@ Table 2: PK Parameters (Mean ±SD) of d-MPH After 51.8 mg Oral Dosing of COTEMPL
 
 | PK Parameter | Children (n=24) | Adolescent (n=8) | Adult (n=38) |
 | --- | --- | --- | --- |
-| T max (hr) data presented as median range | 4.6 (2.0-8.0) | 5.31 (3.5-8.0) | 4.98 (2.5 – 6.5) |
+| T max (hr) † | 4.6 (2.0-8.0) | 5.31 (3.5-8.0) | 4.98 (2.5 – 6.5) |
 | T ½ (hr) | 4.43±1.0 | 3.93±0.33 | 4.00±0.73 |
 | C max (ng/mL) | 32.7±9.83 | 20.2±5.79 | 20.8±5.22 |
 | Cl (L/hr/kg) | 6.21±1.48 | 5.54±1.19 | 5.48±1.46 |
 | AUC ∞ (hr*ng/mL) | 328.9±90.21 | 187.2±62.05 | 169.1±57.13 |
+| † data presented as median range |  |  |  |
 
 Patients with Renal Impairment
 
