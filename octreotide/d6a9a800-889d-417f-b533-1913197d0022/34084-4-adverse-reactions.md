@@ -1,4 +1,6 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
+
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 ## Gallbladder Abnormalities
 
@@ -6,7 +8,7 @@ Gallbladder abnormalities, especially stones and/or biliary sludge, frequently d
 
 ## Cardiac
 
-In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS,General).
+In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS, General).
 
 ## Gastrointestinal
 
@@ -25,7 +27,7 @@ Symptoms of hypoglycemia were noted in approximately 2% of patients.
 
 ## Hypothyroidism
 
-In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS,General).
+In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS, General).
 In patients without acromegaly, hypothyroidism has only been reported in several isolated patients and goiter has not been reported.
 
 ## Other Adverse Events
@@ -37,12 +39,15 @@ Pancreatitis was also observed (see WARNINGS and PRECAUTIONS).
 
 Other events (relationship to drug not established), each observed in 1% to 4% of patients, included fatigue, weakness, pruritus, joint pain, backache, urinary tract infection, cold symptoms, flu symptoms, injection site hematoma, bruise, edema, flushing, blurred vision, pollakiuria, fat malabsorption, hair loss, visual disturbance and depression.
 
-## Other Adverse Events <1%
+## Other Adverse Events < 1%
 
-Events reported in less than 1% of patients and for which relationship to drug is not established are listed: Gastrointestinal: hepatitis, jaundice, increase in liver enzymes, GI bleeding, hemorrhoids, appendicitis, gastric/peptic ulcer, gallbladder polyp; Integumentary: rash, cellulitis, petechiae, urticaria, basal cell carcinoma; Musculoskeletal: arthritis, joint effusion, muscle pain, Raynaud’s phenomenon; Cardiovascular: chest pain, shortness of breath, thrombophlebitis, ischemia, congestive heart failure, hypertension, hypertensive reaction, palpitations, orthostatic BP decrease, tachycardia; CNS: anxiety, libido decrease, syncope, tremor, seizure, vertigo, Bell’s Palsy, paranoia, pituitary apoplexy, increased intraocular pressure, amnesia, hearing loss, neuritis; Respiratory: pneumonia, pulmonary nodule, status asthmaticus; Endocrine: galactorrhea, hypoadrenalism, diabetes insipidus, gynecomastia, amenorrhea, polymenorrhea, oligomenorrhea, vaginitis; Urogenital: nephrolithiasis, hematuria; Hematologic: anemia, iron deficiency, epistaxis; Miscellaneous: otitis, allergic reaction, increased CK, weight loss.
+Events reported in less than 1% of patients and for which relationship to drug is not established are listed:
+
+Gastrointestinal: hepatitis, jaundice, increase in liver enzymes, GI bleeding, hemorrhoids, appendicitis, gastric/peptic ulcer, gallbladder polyp; Integumentary: rash, cellulitis, petechiae, urticaria, basal cell carcinoma; Musculoskeletal: arthritis, joint effusion, muscle pain, Raynaud's phenomenon; Cardiovascular: chest pain, shortness of breath, thrombophlebitis, ischemia, congestive heart failure, hypertension, hypertensive reaction, palpitations, orthostatic BP decrease, tachycardia; CNS: anxiety, libido decrease, syncope, tremor, seizure, vertigo, Bell's Palsy, paranoia, pituitary apoplexy, increased intraocular pressure, amnesia, hearing loss, neuritis; Respiratory: pneumonia, pulmonary nodule, status asthmaticus; Endocrine: galactorrhea, hypoadrenalism, diabetes insipidus, gynecomastia, amenorrhea, polymenorrhea, oligomenorrhea, vaginitis; Urogenital: nephrolithiasis, hematuria; Hematologic: anemia, iron deficiency, epistaxis; Miscellaneous: otitis, allergic reaction, increased CK, weight loss.
 
 Evaluation of 20 patients treated for at least 6 months has failed to demonstrate titers of antibodies exceeding background levels.
 However, antibody titers to octreotide acetate were subsequently reported in three patients and resulted in prolonged duration of drug action in two patients.
+
 Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate.
 
 ## Postmarketing Experience
@@ -50,4 +55,6 @@ Anaphylactoid reactions, including anaphylactic shock, have been reported in sev
 The following adverse reactions have been identified during the postapproval use of octreotide acetate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: intestinal obstruction Hematologic: thrombocytopenia
+- Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy
+- Gastrointestinal: intestinal obstruction
+- Hematologic: thrombocytopenia

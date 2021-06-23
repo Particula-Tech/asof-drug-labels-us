@@ -1,6 +1,6 @@
-# WARNINGS
+# WARNINGS:
 
-Single doses of octreotide acetate have been shown to inhibit gallbladder contractility and decrease bile secretion in normal volunteers.
+Single doses of Octreotide acetate have been shown to inhibit gallbladder contractility and decrease bile secretion in normal volunteers.
 In clinical trials (primarily patients with acromegaly or psoriasis), the incidence of biliary tract abnormalities was 63% (27% gallstones, 24% sludge without stones, 12% biliary duct dilatation).
 The incidence of stones or sludge in patients who received octreotide acetate for 12 months or longer was 52%.
 Less than 2% of patients treated with octreotide acetate for 1 month or less developed gallstones.
@@ -9,8 +9,11 @@ Like patients without gallbladder abnormalities, the majority of patients develo
 The symptoms were not specific for gallbladder disease.
 A few patients developed acute cholecystitis, ascending cholangitis, biliary obstruction, cholestatic hepatitis, or pancreatitis during octreotide acetate therapy or following its withdrawal.
 One patient developed ascending cholangitis during octreotide acetate therapy and died.
+There have been postmarketing reports of cholelithiasis (gallstones) resulting in complications requiring cholecystectomy.
 
-# PRECAUTIONS
+If complications of cholelithiasis are suspected, discontinue octreotide acetate and treat appropriately.
+
+# PRECAUTIONS:
 
 ## General
 
@@ -20,7 +23,9 @@ Cardiac conduction abnormalities have also occurred during treatment with octreo
 However, the incidence of these adverse events during long-term therapy was determined vigorously only in acromegaly patients who, due to their underlying disease and/or the subsequent treatment they receive, are at an increased risk for the development of diabetes mellitus, hypothyroidism, and cardiovascular disease.
 Although the degree to which these abnormalities are related to octreotide acetate therapy is not clear, new abnormalities of glycemic control, thyroid function and ECG developed during octreotide acetate therapy as described below.
 
-Risk of Pregnancy with Normalization of IGF-1 and GH Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
+## Risk of Pregnancy with Normalization of IGF-1 and GH
+
+Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
 In women with active acromegaly who have been unable to become pregnant, normalization of GH and IGF-1 may restore fertility.
 Female patients of childbearing potential should be advised to use adequate contraception during treatment with octreotide.
 
@@ -34,9 +39,10 @@ In non-diabetics and Type II diabetics with partially intact insulin reserves, o
 It is therefore recommended that glucose tolerance and antidiabetic treatment be periodically monitored during therapy with these drugs.
 
 In acromegalic patients, 12% developed biochemical hypothyroidism only, 8% developed goiter, and 4% required initiation of thyroid replacement therapy while receiving octreotide acetate.
-Baseline and periodic assessment of thyroid function (TSH, total and/or free T 4) is recommended during chronic therapy.
+Baseline and periodic assessment of thyroid function (TSH, total and/or free T4) is recommended during chronic therapy.
 
 In acromegalics, bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during octreotide acetate therapy.
+
 Other EKG changes observed included QT prolongation, axis shifts, early repolarization, low voltage, R/S transition, and early R wave progression.
 These ECG changes are not uncommon in acromegalic patients.
 Dose adjustments in drugs such as beta-blockers that have bradycardia effects may be necessary.
@@ -49,23 +55,25 @@ Octreotide acetate may alter absorption of dietary fats in some patients.
 
 In patients with severe renal failure requiring dialysis, the half-life of octreotide acetate may be increased, necessitating adjustment of the maintenance dosage.
 
-Depressed vitamin B 12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide acetate therapy, and monitoring of vitamin B 12 levels is recommended during chronic octreotide acetate therapy.
+Depressed vitamin B12 levels and abnormal Schilling's tests have been observed in some patients receiving octreotide acetate therapy, and monitoring of vitamin B12 levels is recommended during chronic octreotide acetate therapy.
 
 ## Information for Patients
 
-Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer octreotide acetate injection.
+Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer Octreotide acetate injection.
+Inform patients that cholelithiasis has been reported with the use of octreotide acetate.
+Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of gallstones (e.g., cholecystitis, cholangitis, and pancreatitis).
 
 ## Laboratory Tests
 
 Laboratory tests that may be helpful as biochemical markers in determining and following patient response depend on the specific tumor.
 Based on diagnosis, measurement of the following substances may be useful in monitoring the progress of therapy:
 
-| Acromegaly: | Growth Hormone, IGF-I(somatomedin C) Responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose. Alternatively, a single measurement of IGF-I (somatomedin C) level may be made two weeks after drug initiation or dosage change. |
+| Acromegaly: | Growth Hormone, IGF-I (somatomedin C) Responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose. |
 | --- | --- |
-| Carcinoid: | 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P |
-| VIPoma: | VIP (plasma vasoactive intestinal peptide) |
+|  | Alternatively, a single measurement of IGF-I (somatomedin C) level may be made two weeks after drug initiation or dosage change. |
+| Carcinoid: | 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P VIPoma: VIP (plasma vasoactive intestinal peptide) |
 
-Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS,General).
+Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS, General).
 
 ## Drug Interactions
 
@@ -78,11 +86,11 @@ Concomitant administration of octreotide and bromocriptine increases the availab
 Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormones.
 Since it cannot be excluded that octreotide may have this effect, other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine) should therefore be used with caution.
 
-## Drug Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 No known interference exists with clinical laboratory tests, including amine or peptide determinations.
 
-## Carcinogenesis/Mutagenesis/Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Studies in laboratory animals have demonstrated no mutagenic potential of octreotide acetate.
 
@@ -96,10 +104,8 @@ The presence of endometritis coupled with the absence of corpora lutea, the redu
 
 Octreotide acetate did not impair fertility in rats at doses up to 1,000 mcg/kg/day, which represents 7x the human exposure based on body surface area.
 
-## Pregnancy Category B
-
 There are no adequate and well-controlled studies of octreotide use in pregnant women.
-Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and have revealed no evidence of harm to the fetus due to octreotide.
+Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and revealed no evidence of harm to the fetus due to octreotide.
 However, because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 In postmarketing data, a limited number of exposed pregnancies have been reported in patients with acromegaly.
@@ -108,8 +114,8 @@ In cases with a known outcome, no congenital malformations were reported.
 
 ## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in milk, caution should be exercised when octreotide acetate is administered to a nursing woman.
+It is not known whether octreotide is excreted into human milk.
+Because many drugs are excreted in human milk, caution should be exercised when octreotide is administered to a nursing woman.
 
 ## Pediatric Use
 
@@ -120,9 +126,9 @@ In post-marketing reports, serious adverse events, including hypoxia, necrotizin
 The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
 
 The efficacy and safety of octreotide using the octreotide acetate for injectable suspension formulation was examined in a single randomized, double-blind, placebo-controlled, six–month pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult.
-The mean octreotide concentration after 6 doses of 40 mg octreotide acetate for injectable suspension administered by IM injection every four weeks was approximately 3 ng/ml.
+The mean octreotide concentration after 6 doses of 40 mg octreotide acetate for injectable suspension administered by IM injection every four weeks was approximately 3 ng/mL.
 Steady-state concentrations was achieved after 3 injections of a 40 mg dose.
-Mean BMI increased 0.1 kg/m 2 in octreotide acetate for injectable suspension treated subjects compared to 0 kg/m 2 in saline control-treated subjects.
+Mean BMI increased 0.1 kg/m2 in octreotide acetate for injectable suspension-treated subjects compared to 0 kg/m2 in saline control-treated subjects.
 Efficacy was not demonstrated.
 Diarrhea occurred in 11 of 30 (37%) patients treated with octreotide acetate for injectable suspension.
 No unexpected adverse events were observed.
@@ -132,4 +138,4 @@ However, with octreotide acetate for injectable suspension 40 mg once a month, t
 
 Clinical studies of octreotide acetate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

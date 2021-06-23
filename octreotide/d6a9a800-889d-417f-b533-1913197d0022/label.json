@@ -5,9 +5,10 @@
   "inn": "octreotide",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
-    "63323-365-04",
     "63323-376-04",
-    "63323-377-04"
+    "63323-376-41",
+    "63323-377-04",
+    "63323-377-41"
   ],
   "products": [
     {
