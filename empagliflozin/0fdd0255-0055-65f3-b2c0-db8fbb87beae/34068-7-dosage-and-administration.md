@@ -1,21 +1,25 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Prior to Initiation of SYNJARDY
 
-- In patients with volume depletion not previously treated with empagliflozin, correct this condition before initiating SYNJARDY [see Warnings and Precautions (5.2)].
+- Assess renal function before initiating SYNJARDY and as clinically indicated [see Warnings and Precautions (5.1, 5.3)].
+- In patients with volume depletion, correct this condition before initiating SYNJARDY [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
+
+## 2.2 Recommended Dosage and Administration
+
 - Individualize the starting dose of SYNJARDY based on the patient's current regimen:
-  - – In patients on metformin hydrochloride, switch to SYNJARDY containing empagliflozin 5 mg with a similar total daily dose of metformin hydrochloride;
-  - – In patients on empagliflozin, switch to SYNJARDY containing metformin hydrochloride 500 mg with a similar total daily dose of empagliflozin;
-  - – In patients already treated with empagliflozin and metformin hydrochloride, switch to SYNJARDY containing the same total daily doses of each component.
-- Take SYNJARDY twice daily with meals; with gradual dose escalation to reduce the gastrointestinal side effects due to metformin [see Dosage Forms and Strengths (3)].
-- Adjust dosing based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of metformin hydrochloride 2000 mg and empagliflozin 25 mg [see Dosage and Administration (2.2)].
+  - In patients on metformin HCl, switch to SYNJARDY containing empagliflozin 5 mg with a similar total daily dose of metformin HCl;
+  - In patients on empagliflozin, switch to SYNJARDY containing metformin HCl 500 mg with a similar total daily dose of empagliflozin;
+  - In patients already treated with empagliflozin and metformin HCl, switch to SYNJARDY containing the same total daily doses of each component.
+- Monitor effectiveness and tolerability, and adjust dosing as appropriate, not to exceed the maximum recommended daily dose of empagliflozin 25 mg and metformin HCl 2000 mg.
+- Take SYNJARDY twice daily with meals; with gradual dose escalation to reduce the gastrointestinal side effects due to metformin.
 
-## 2.2 Recommended Dosage in Patients with Renal Impairment
+## 2.3 Dosage Recommendations in Patients with Renal Impairment
 
-- Assess renal function prior to initiation of SYNJARDY and periodically, thereafter.
-- SYNJARDY is contraindicated in patients with an eGFR less than 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.4)].
+- Initiation of SYNJARDY is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
+- SYNJARDY is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
+## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 
-Discontinue SYNJARDY at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 45 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Discontinue SYNJARDY at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure; restart SYNJARDY if renal function is stable [see Warnings and Precautions (5.1)].

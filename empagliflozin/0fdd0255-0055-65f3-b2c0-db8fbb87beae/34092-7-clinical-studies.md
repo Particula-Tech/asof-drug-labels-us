@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 SYNJARDY Glycemic Control Studies
+SYNJARDY Glycemic Control Studies
 
 In patients with type 2 diabetes, treatment with empagliflozin and metformin produced clinically and statistically significant improvements in HbA1c compared to placebo.
 Reductions in HbA1c were observed across subgroups including age, gender, race, and baseline body mass index (BMI).
@@ -48,9 +48,9 @@ At Week 24, initial therapy of empagliflozin in combination with metformin provi
 
 Table 8 Glycemic Parameters at 24 Weeks in a Study Comparing Empagliflozin and Metformin to the Individual Components as Initial Therapy
 
-| HbA1c (%) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Empagliflozin 10 mg + Metformin 1000 mga N=161 | Empagliflozin 10 mg + Metformin 2000 mga N=167 | Empagliflozin 25 mg + Metformin 1000 mga N=165 | Empagliflozin 25 mg + Metformin 2000 mga N=169 | Empagliflozin 10 mg N=169 | Empagliflozin 25 mg N=163 | Metformin 1000 mga N=167 | Metformin 2000 mga N=162 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HbA1c (%) |  |  |  |  |  |  |  |  |
 | Baseline (mean) | 8.7 | 8.7 | 8.8 | 8.7 | 8.6 | 8.9 | 8.7 | 8.6 |
 | Change from baseline (adjusted mean) | -2.0 | -2.1 | -1.9 | -2.1 | -1.4 | -1.4 | -1.2 | -1.8 |
 | Comparison vs empagliflozin (adjusted mean) (95% CI) | -0.6b (-0.9, -0.4) | -0.7b (-1.0, -0.5) | -0.6c (-0.8, -0.3) | -0.7c (-1.0, -0.5) | -- | -- | -- | -- |
@@ -121,8 +121,7 @@ Table 10 Results at Week 52 from an Active-Controlled Study Comparing Empagliflo
 | cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) |  |  |
 | dFPG (mg/dL); for empagliflozin 25 mg, n=764, for glimepiride, n=779 |  |  |
 
-| Figure 3 Adjusted mean HbA1c Change at Each Time Point (Completers) and at Week 52 (mITT Population) - LOCF |
-| --- |
+Figure 3 Adjusted mean HbA1c Change at Each Time Point (Completers) and at Week 52 (mITT Population) - LOCF
 
 At Week 52, the adjusted mean change from baseline in systolic blood pressure was -3.6 mmHg, compared to 2.2 mmHg for glimepiride.
 The differences between treatment groups for systolic blood pressure was statistically significant (p-value <0.0001).
@@ -136,10 +135,9 @@ In this multiple imputation analysis, 13.9% of the data were imputed for empagli
 
 At Week 104, empagliflozin 25 mg daily resulted in a statistically significant difference in change from baseline for body weight compared to glimepiride (-3.1 kg for empagliflozin 25 mg vs. +1.3 kg for glimepiride; ANCOVA-LOCF, p-value <0.0001).
 
-## 14.2 Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
-However, the effectiveness of SYNJARDY on reducing the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease has not been established.
 The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
 
 The EMPA-REG OUTCOME study, a multicenter, multi-national, randomized, double-blind parallel group trial compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
@@ -155,18 +153,18 @@ The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes for mor
 Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), and sulfonylurea (43%).
 
-All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following; a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
+All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
 At baseline, the mean systolic blood pressure was 136 mmHg, the mean diastolic blood pressure was 76 mmHg, the mean LDL was 86 mg/dL, the mean HDL was 44 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 175 mg/g.
 At baseline, approximately 81% of patients were treated with renin angiotensin system inhibitors, 65% with beta-blockers, 43% with diuretics, 77% with statins, and 86% with antiplatelet agents (mostly aspirin).
 
 The primary endpoint in EMPA-REG OUTCOME was the time to first occurrence of a Major Adverse Cardiac Event (MACE).
-A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a nonfatal myocardial infarction (MI) or a nonfatal stroke.
+A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
 The statistical analysis plan had pre-specified that the 10 and 25 mg doses would be combined.
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 11 and Figure 4 and 5).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
+The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 11 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
 Table 11 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
@@ -181,11 +179,9 @@ Table 11 Treatment Effect for the Primary Composite Endpoint, and its Components
 | bp−value for superiority (2−sided) 0.04 |  |  |  |
 | cTotal number of events |  |  |  |
 
-| Figure 4 Estimated Cumulative Incidence of First MACE |
-| --- |
+Figure 4 Estimated Cumulative Incidence of First MACE
 
-| Figure 5 Estimated Cumulative Incidence of Cardiovascular Death |
-| --- |
+Figure 5 Estimated Cumulative Incidence of Cardiovascular Death
 
 The efficacy of empagliflozin on cardiovascular death was generally consistent across major demographic and disease subgroups.
 

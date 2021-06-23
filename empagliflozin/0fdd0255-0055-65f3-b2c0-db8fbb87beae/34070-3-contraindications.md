@@ -2,7 +2,6 @@
 
 SYNJARDY is contraindicated in patients with:
 
-- Moderate to severe renal impairment (eGFR less than 45 mL/min/1.73 m2), end stage renal disease, or dialysis [see Warnings and Precautions (5.1, 5.4) and Use in Specific Populations (8.6)].
-- Acute or chronic metabolic acidosis, including diabetic ketoacidosis.
-  Diabetic ketoacidosis should be treated with insulin [see Warnings and Precautions (5.1)].
-- History of serious hypersensitivity reaction to empagliflozin, metformin or any of the excipients in SYNJARDY [see Warnings and Precautions (5.9)].
+- Severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end stage renal disease, or dialysis [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+- Acute or chronic metabolic acidosis, including diabetic ketoacidosis [see Warnings and Precautions (5.1)].
+- Hypersensitivity to empagliflozin, metformin or any of the excipients in SYNJARDY, reactions such as angioedema have occurred [see Warnings and Precautions (5.8)].
