@@ -48,12 +48,13 @@ Do not take NSAIDs:
 
 Before taking NSAIDS, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have liver or kidney problems.
-- have high blood pressure.
+- have liver or kidney problems
+- have high blood pressure
 - have asthma
 - are pregnant or plan to become pregnant.
-  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy.
 - are breastfeeding or plan to breast feed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
@@ -135,4 +136,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 2/2020
+Revised: 05/2021
