@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Valtrex (valacyclovir hydrochloride) is the hydrochloride salt of the L‑valyl ester of the antiviral drug acyclovir.
+VALTREX (valacyclovir hydrochloride) is the hydrochloride salt of the L‑valyl ester of the antiviral drug acyclovir.
 
 VALTREX tablets are for oral administration.
 Each tablet contains 556.2 mg or 1.112 grams of valacyclovir hydrochloride equivalent to 500 mg or 1 gram of valacyclovir, respectively, and the inactive ingredients carnauba wax, colloidal silicon dioxide, crospovidone, FD&C Blue No. 2 Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.

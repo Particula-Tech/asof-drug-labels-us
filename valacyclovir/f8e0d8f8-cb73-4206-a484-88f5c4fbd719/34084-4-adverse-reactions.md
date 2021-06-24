@@ -45,16 +45,13 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes Tr
 
 | Laboratory Abnormality | Herpes Zoster |  | Genital Herpes Treatment |  |  | Genital Herpes Suppression |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VALTREX1 gram3 Times Daily(n = 967) | Place-bo(n = 195) | VALTREX 1 gram Twice Daily(n = 1,194) | VALTREX 500 mg Twice Daily(n = 1,159) | Place-bo(n = 439) | VALTREX1 gram Once Daily(n = 269) | VALTREX 500 mg Once Daily(n = 266) | Place-bo(n = 134) |  |
+| VALTREX1 gram3 Times Daily(n = 967) | Place- bo(n = 195) | VALTREX 1 gram Twice Daily(n = 1,194) | VALTREX 500 mg Twice Daily(n = 1,159) | Place- bo(n = 439) | VALTREX1 gram Once Daily(n = 269) | VALTREX 500 mg Once Daily(n = 266) | Place- bo(n = 134) |  |
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells(<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
 | AST (SGOT)(>2 x ULN) | 1.0% | 0% | 1.0% | a | 0.5% | 4.1% | 3.8% | 3.0% |
 | Serum creatinine(>1.5 x ULN) | 0.2% | 0% | 0.7% | 0% | 0% | 0% | 0% | 0% |
-
-a Data were not collected prospectively.
-LLN = Lower limit of normal.
-ULN = Upper limit of normal.
+| a Data were not collected prospectively. LLN = Lower limit of normal. ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |
 
 ## 6.2 Clinical Trials Experience in Pediatric Subjects
 

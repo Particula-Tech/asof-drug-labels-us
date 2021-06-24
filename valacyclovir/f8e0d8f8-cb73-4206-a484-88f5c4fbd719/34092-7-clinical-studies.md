@@ -38,19 +38,18 @@ Suppressive Therapy
 Two clinical trials were conducted, one in immunocompetent adults and one in HIV-1-infected adults.
 
 A double‑blind, 12‑month, placebo‑ and active‑controlled trial enrolled immunocompetent adults with a history of 6 or more recurrences per year.
-Outcomes for the overall trial population are shown in Table 5.
+Outcomes for the overall trial population are shown in Table 8.
 
-Table 5.
+Table 8.
 Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| VALTREX 1 gram Once Daily(n = 269) | Oral Acyclovir400 mg Twice Daily(n = 267) | Placebo(n = 134) | VALTREX1 gram Once Daily(n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo (n = 134) |  |
+| VALTREX 1 gram Once Daily(n = 269) | Oral Acyclovir400 mg Twice Daily(n = 267) | Placebo(n = 134) | VALTREX1 gram Once Daily(n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo(n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknowna | 10% | 10% | 10% | 19% | 19% | 10% |
-
-a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn.
+| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |  |  |  |  |
 
 Subjects with 9 or fewer recurrences per year showed comparable results with VALTREX 500 mg once daily.
 
@@ -58,18 +57,17 @@ In a second trial, 293 HIV‑1−infected adults on stable antiretroviral therap
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median pretrial HIV‑1 RNA was 2.6 log10 copies/mL.
 Among subjects who received VALTREX, the pretrial median CD4+ cell count was 336 cells/mm3; 11% had less than 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had greater than or equal to 500 cells/mm3.
-Outcomes for the overall trial population are shown in Table 6.
+Outcomes for the overall trial population are shown in Table 9.
 
-Table 6.
-Recurrence Rates in HIV‑1−Infected Adults at 6 Months
+Table 9.
+Recurrence Rates in HIV1−Infected Adults at 6 Months
 
-| Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |
-| --- | --- | --- |
-| Recurrence free | 65% | 26% |
-| Recurrences | 17% | 57% |
-| Unknowna | 18% | 17% |
-
-a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn.
+| Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Recurrence free | 65% | 26% |  |  |  |  |  |  |  |
+| Recurrences | 17% | 57% |  |  |  |  |  |  |  |
+| Unknowna | 18% | 17% |  |  |  |  |  |  |  |
+| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |  |  |  |  |  |  |  |
 
 Reduction of Transmission of Genital Herpes
 
@@ -80,19 +78,17 @@ Both partners were counseled on safer sex practices and were advised to use cond
 Source partners were randomized to treatment with either VALTREX 500 mg once daily or placebo once daily for 8 months.
 The primary efficacy endpoint was symptomatic acquisition of HSV‑2 in susceptible partners.
 Overall HSV‑2 acquisition was defined as symptomatic HSV‑2 acquisition and/or HSV‑2 seroconversion in susceptible partners.
-The efficacy results are summarized in Table 7.
+The efficacy results are summarized in Table 10.
 
-Table 7.
+Table 10.
 Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | VALTREXa(n = 743) | Placebo(n = 741) |
-| --- | --- | --- |
-| Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |
-| HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |
-| Overall HSV‑2 acquisition | 14 (1.9%) | 27 (3.6%) |
-
-a Results show reductions in risk of 75% (symptomatic HSV‑2 acquisition), 50% (HSV‑2 seroconversion), and 48% (overall HSV‑2 acquisition) with VALTREX versus placebo.
-Individual results may vary based on consistency of safer sex practices.
+| Endpoint | VALTREXa(n = 743) | Placebo(n = 741) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |  |  |  |  |  |  |  |  |  |  |
+| HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |  |  |  |  |  |  |  |  |  |  |
+| Overall HSV‑2 acquisition | 14 (1.9%) | 27 (3.6%) |  |  |  |  |  |  |  |  |  |  |
+| a Results show reductions in risk of 75% (symptomatic HSV‑2 acquisition), 50% (HSV‑2 seroconversion), and 48% (overall HSV‑2 acquisition) with VALTREX versus placebo. Individual results may vary based on consistency of safer sex practices. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 14.3 Herpes Zoster
 
@@ -111,7 +107,7 @@ The use of VALTREX for treatment of chickenpox in pediatric subjects aged 2 to l
 The single‑dose pharmacokinetic and multiple‑dose safety trial enrolled 27 pediatric subjects aged 1 to less than 12 years with clinically suspected VZV infection.
 Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
 Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
-The mean projected daily acyclovir exposures in pediatric subjects across all age‑groups (1 to less than 12 years) were lower (Cmax: 13%, AUC: 30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: 50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The mean projected daily acyclovir exposures in pediatric subjects across all age‑groups (1 to less than 12 years) were lower (Cmax: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
 The projected daily exposures in pediatric subjects were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric subjects receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
 Based on the pharmacokinetic and safety data from this trial and the safety and extrapolated efficacy data from the acyclovir trials, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients aged 2 to less than 18 years.
 Because the efficacy and safety of acyclovir for the treatment of chickenpox in children aged less than 2 years have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children aged less than 2 years with chickenpox.

@@ -53,9 +53,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019, GSK group of companies or its licensor.
+©2021, GSK group of companies or its licensor.
 
-VTX:7PI
+VTX: 8PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

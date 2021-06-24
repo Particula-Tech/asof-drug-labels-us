@@ -87,7 +87,7 @@ Trial 3 was a single‑dose pharmacokinetic, multiple‑dose safety trial in 28 
 None of the subjects enrolled in this trial had genital herpes.
 Each subject was dosed with valacyclovir oral suspension 10 mg/kg twice daily for 3 to 5 days.
 Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes.
-The mean projected daily acyclovir systemic exposures in pediatric subjects across all age‑groups (1 to less than 12 years) were lower (Cmax: 20%, AUC: 33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: 16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily.
+The mean projected daily acyclovir systemic exposures in pediatric subjects across all age‑groups (1 to less than 12 years) were lower (Cmax: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily.
 Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age‑group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible.
 Moreover, valacyclovir has not been studied in children aged 1 to less than 12 years with recurrent genital herpes.
 
