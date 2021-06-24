@@ -12,10 +12,10 @@ Keep out of reach of children.
 
 Rx only
 
-For all medical inquiries contact: ACTAVIS TEVA Parsippany, NJ 07054 1-800-272-5525 Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+For all medical inquiries contact: TEVA Parsippany, NJ 07054 1-888-838-2872 Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Manufactured for: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Content Updated: November 2020
 
-174784-3
+174784-3_AW-11-2020
