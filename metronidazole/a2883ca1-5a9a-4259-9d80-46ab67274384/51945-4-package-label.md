@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 50 Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 375 mg Capsule Bottle Label
 
 Pfizer NDC 0025-1942-50
 
-Flagyl® 375 metronidazole capsules
+Flagyl® 375 (metronidazole) capsules
 
 375 mg
 
