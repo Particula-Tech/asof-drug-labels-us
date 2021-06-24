@@ -24,7 +24,7 @@ Table 5 Pharmacokinetic Properties of the Components of EPCLUSA
 |  | Sofosbuvir | Velpatasvir |
 | --- | --- | --- |
 | Absorption |  |  |
-| Tmax (h) | 0.5–1 | 3 |
+| Tmax (hr) | 0.5–1 | 3 |
 | Effect of moderate meal (relative to fasting)Values refer to mean systemic exposure. Moderate meal = ~600 kcal, 30% fat; high fat meal = ~800 kcal, 50% fat. EPCLUSA can be taken with or without food. | ↑ 60% | ↑ 34% |
 | Effect of high fat meal (relative to fasting) | ↑ 78% | ↑ 21% |
 | Distribution |  |  |
@@ -34,7 +34,7 @@ Table 5 Pharmacokinetic Properties of the Components of EPCLUSA
 | Metabolism | Cathepsin A CES1 HINT1 | CYP2B6 CYP2C8 CYP3A4 |
 | Elimination |  |  |
 | Major route of elimination | SOF: metabolism GS-331007GS-331007 is the primary circulating nucleoside metabolite of SOF.: glomerular filtration and active tubular secretion | Biliary excretion as parent (77%) |
-| t1/2 (h)t1/2 values refer to median terminal plasma half-life. | SOF: 0.5 GS-331007: 25 | 15 |
+| t1/2 (hr)t1/2 values refer to median terminal plasma half-life. | SOF: 0.5 GS-331007: 25 | 15 |
 | % Of dose excreted in urineSingle dose administration of [14C] SOF or [14C] VEL in mass balance studies. | 80Predominantly as GS-331007. | 0.4 |
 | % Of dose excreted in feces | 14 | 94 |
 | CES1 = carboxylesterase 1; HINT1 = histidine triad nucleotide-binding protein 1. |  |  |
@@ -43,9 +43,9 @@ Table 6 Multiple Dose Pharmacokinetic Parameters of Sofosbuvir and its Metabolit
 
 | Parameter Mean (%CV) | SofosbuvirFrom Population PK analysis, N = 666 | GS-331007From Population PK analysis, N = 1029 | VelpatasvirFrom Population PK analysis, N = 1025 |
 | --- | --- | --- | --- |
-| Cmax (nanogram per mL) | 567 (30.7) | 898 (26.7) | 259 (54.3) |
-| AUCtau (nanogram∙ hr per mL) | 1268 (38.5) | 14372 (28.0) | 2980 (51.3) |
-| Ctrough (nanogram per mL) | NA | NA | 42 (67.3) |
+| Cmax (ng/mL) | 567 (30.7) | 898 (26.7) | 259 (54.3) |
+| AUCtau (ng∙hr/mL) | 1268 (38.5) | 14372 (28.0) | 2980 (51.3) |
+| Ctrough (ng/mL) | NA | - | 42 (67.3) |
 | CV = coefficient of variation; NA = not applicable. |  |  |  |
 
 Sofosbuvir and GS-331007 AUC0–24 and Cmax were similar in healthy adult subjects and subjects with HCV infection.
@@ -57,24 +57,28 @@ Sofosbuvir and GS-331007 AUCs are near dose-proportional over the dose range of 
 
 Specific Populations
 
-Pediatric Patients: The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were determined in HCV genotype 1, 2, 3, 4, or 6 infected pediatric subjects 6 years of age and older receiving a daily dose of EPCLUSA as described below in Table 7.
-Geometric mean SOF AUCtau and Cmax and VEL Cmax values were 72%, 75%, and 85% higher in pediatric subjects ≥30 kg, and 73%, 81%, and 109% higher in pediatric subjects 17 to <30 kg compared to those observed in adults.
-This difference was not considered clinically significant.
+Pediatric Patients: The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were determined in HCV genotype 1, 2, 3, 4, or 6 infected pediatric subjects 3 years of age and older receiving a daily dose of EPCLUSA as described below in Table 7.
+Sofosbuvir AUCtau and Cmax and velpatasvir Cmax values were 67%, 69%, and 78% higher in pediatric subjects ≥30 kg, 68%, 70%, and 96% higher in pediatric subjects 17 to <30 kg, and 103%, 135%, and 92% higher in pediatric subjects <17 kg compared to those observed in adults.
+These differences were not considered clinically significant.
 GS-331007 exposures and velpatasvir AUCtau and Ctau values in pediatric subjects were similar to those observed in adults.
 
-Table 7 Pharmacokinetic Properties of the Components of EPCLUSA in HCV-Infected Pediatric Subjects 6 Years of Age and OlderPopulation PK derived parameters
+Table 7 Exposures of Sofosbuvir, GS-331007, and Velpatasvir at Steady-State in HCV-Infected Pediatric Subjects 3 Years of Age and OlderPopulation PK derived parameters
 
 | Sofosbuvir | GS-331007 | Velpatasvir |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
-| ≥30 kgSofosbuvir N=89; GS-331007 N=100; Velpatasvir N=100 | 400/100 mg | Cmax (ng/mL) | 946 (93.2) | 1140 (24.5) | 416 (34.8) |
-| AUCtau (ng∙hr/mL) | 2040 (83.3) | 13100 (27.4) | 3810 (40.3) |  |  |
-| Ctrough (ng/mL) | NA | NA | 35 (87.2) |  |  |
-| 17 to <30 kgSofosbuvir N=43; GS-331007 N=43; Velpatasvir N=43 | 200/50 mg | Cmax (ng/mL) | 974 (70.8) | 1040 (29.8) | 470 (33.6) |
-| AUCtau (ng∙hr/mL) | 2050 (59.0) | 10800 (27.9) | 3460 (27.5) |  |  |
-| Ctrough (ng/mL) | NA | NA | 33 (51.2) |  |  |
+| Weight Group | Dose | PK Parameter | Mean (%CV) |  |  |
+| <17 kgSofosbuvir N=11; GS-331007 N=11; Velpatasvir N=11 | 150/37.5 mg | Cmax (ng/mL) | 1550 (65.2) | 1090 (17.0) | 488 (46.6) |
+| AUCtau (ng∙hr/mL) | 2830 (63.7) | 11900 (19.7) | 4480 (53.4) |  |  |
+| Ctrough (ng/mL) | NA | - | 57.4 (82.7) |  |  |
+| 17 to <30 kgSofosbuvir N=62; GS-331007 N=64; Velpatasvir N=64 | 200/50 mg | Cmax (ng/mL) | 1200 (73.8) | 1070 (27.2) | 483 (39.5) |
+| AUCtau (ng∙hr/mL) | 2280 (55.6) | 11400 (43.3) | 4090 (38.5) |  |  |
+| Ctrough (ng/mL) | NA | - | 43 (65.8) |  |  |
+| ≥30 kgSofosbuvir N=90; GS-331007 N=101; Velpatasvir N=101 | 400/100 mg | Cmax (ng/mL) | 1310 (91.4) | 1180 (24.6) | 456 (56.4) |
+| AUCtau (ng∙hr/mL) | 2570 (82.8) | 13600 (27.6) | 4240 (46.7) |  |  |
+| Ctrough (ng/mL) | NA | - | 42.2 (66.4) |  |  |
+| CV = coefficient of variation; NA = not applicable. |  |  |  |  |  |
 
-The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 6 years of age or weighing less than 17 kg [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
+The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 82 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir, GS-331007, or velpatasvir [see Use in Specific Populations (8.5)].
 
@@ -84,7 +88,7 @@ The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mi
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment [see Use in Specific Populations (8.6)].
@@ -145,10 +149,10 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
 | GS-331007 | 0.86 (0.80, 0.93) | 0.90 (0.85, 0.96) | 1.01 (0.95, 1.07) |  |  |  |  |  |
 | velpatasvir | 0.53 (0.43, 0.64) | 0.47 (0.39, 0.57) | 0.43 (0.36, 0.52) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
 | GS-331007 | 1.29 (1.25, 1.33) | 1.48 (1.43, 1.53) | 1.58 (1.52, 1.65) |  |  |  |  |  |
 | velpatasvir | 1.30 (1.17, 1.45) | 1.50 (1.35, 1.66) | 1.60 (1.44, 1.78) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir DFAdministered as STRIBILD® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as STRIBILD® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
 | GS-331007 | 1.13 (1.07, 1.18) | 1.35 (1.30, 1.40) | 1.45 (1.38, 1.52) |  |  |  |  |  |
 | velpatasvir | 1.05 (0.93, 1.19) | 1.19 (1.07, 1.34) | 1.37 (1.22, 1.54) |  |  |  |  |  |
 | Famotidine | 40 single dose simultaneously with EPCLUSA | 400 single dose | 100 single dose | 60 | sofosbuvir | 0.92 (0.82, 1.05) | 0.82 (0.74, 0.91) | NA |
@@ -382,7 +386,7 @@ Three subjects in the EPCLUSA with ribavirin 12-week group had baseline NS5B nuc
 
 Pediatrics
 
-In Study 1143, the presence of NS5A and NS5B RAPs did not impact treatment outcome; all pediatric subjects 6 years of age and older with baseline NS5A RAPs (14%; 23/165) or NS5B nucleoside inhibitor RAPs (3%; 5/164) achieved SVR following 12 weeks treatment with EPCLUSA.
+In Study 1143, the presence of NS5A and NS5B RAPs did not impact treatment outcome; all pediatric subjects 3 years of age and older with baseline NS5A RAPs (15%; 29/199) or NS5B nucleoside inhibitor RAPs (3%; 6/195) achieved SVR following 12 weeks treatment with EPCLUSA.
 
 Cross Resistance
 

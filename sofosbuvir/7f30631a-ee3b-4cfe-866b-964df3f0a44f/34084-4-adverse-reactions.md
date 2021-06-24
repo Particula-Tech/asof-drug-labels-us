@@ -88,10 +88,13 @@ Adverse Reactions in Adults with Severe Renal Impairment Requiring Dialysis
 
 In an open-label trial (Trial 4062), in which a total of 59 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received EPCLUSA for 12 weeks, the most common adverse reaction was nausea (7%) [see Clinical Studies (14.6)].
 
-Adverse Reactions in Pediatric Subjects 6 Years of Age and Older
+Adverse Reactions in Pediatric Subjects 3 Years of Age and Older
 
-The safety assessment of EPCLUSA in pediatric subjects 6 years of age and older or weighing at least 17 kg is based on data from a Phase 2, open-label clinical trial (Study 1143) that enrolled 175 subjects who were treated with EPCLUSA for 12 weeks.
-The adverse reactions observed were consistent with those observed in clinical trials of EPCLUSA in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
+The safety assessment of EPCLUSA in pediatric subjects 3 years of age and older is based on data from a Phase 2, open-label clinical trial (Study 1143) that enrolled 216 subjects who were treated with EPCLUSA for 12 weeks [see Clinical Studies (14.7)].
+The adverse reactions observed in pediatric subjects 6 years of age and older were consistent with those observed in clinical trials of EPCLUSA in adults.
+
+Among the 41 pediatric subjects less than 6 years of age, gastrointestinal adverse reactions were reported more commonly compared to subjects 6 years of age and older.
+Vomiting and product use issue (spitting up the drug) were reported in 15% and 10% of subjects, respectively; these adverse reactions were mild (Grade 1 or 2) and led to treatment discontinuation in 5 (12%) subjects [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 ## 6.2 Postmarketing Experience
 

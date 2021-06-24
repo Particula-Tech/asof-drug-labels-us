@@ -21,3 +21,41 @@ Epclusa® (sofosbuvir and velpatasvir) tablets
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Epclusa
+
+# PRINCIPAL DISPLAY PANEL - 200 mg/50 mg Packet Carton
+
+NDC 61958-2204-1 28 packets
+
+Rx only
+
+Epclusa® (sofosbuvir and velpatasvir) oral pellets
+
+200 mg/50 mg per packet
+
+Pellets should be swallowed whole.
+Do not chew pellets.
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Epclusa
+
+GILEAD
+
+# PRINCIPAL DISPLAY PANEL - 150 mg/37.5 mg Packet Carton
+
+NDC 61958-2205-1 28 packets
+
+Rx only
+
+Epclusa® (sofosbuvir and velpatasvir) oral pellets
+
+150 mg/37.5 mg per packet
+
+Pellets should be swallowed whole.
+Do not chew pellets.
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Epclusa
+
+GILEAD
