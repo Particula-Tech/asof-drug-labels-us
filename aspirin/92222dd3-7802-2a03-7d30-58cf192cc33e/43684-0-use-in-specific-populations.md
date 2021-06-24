@@ -9,6 +9,7 @@ Aspirin and extended-release dipyridamole capsules contains low-dose aspirin whi
 In animal reproduction studies, there were adverse developmental effects with administration of aspirin in rats and rabbits at doses about 66 and 44 times, respectively, the human exposure at the maximum recommended daily dose of aspirin-dipyridamole.
 Reproduction studies with dipyridamole in mice, rabbits, and rats have revealed no evidence of harm to the fetus up to doses about 25 times the maximum recommended daily human dose of aspirin-dipyridamole.
 Nonclinical data are suggestive of a possible potentiation of aspirin-related fetal toxicity when combined with dipyridamole (see Data).
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4 and 15 to 20%, respectively.

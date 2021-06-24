@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Information
 
 Aspirin and Extended-Release Dipyridamole Capsules
 
@@ -229,11 +229,11 @@ Each capsule shell contains FD&C yellow 6, gelatin, sodium lauryl sulfate, titan
 
 Imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
-To reorder additional Patient Information sheets, contact Dr. Reddy’s Customer Service at 1-866-733-3952.
+The other brands listed are trademarks of their respective owners and are not trademarks of Dr. Reddy’s Laboratories Inc.
 
 Rx only
 
-Distributor:
+Distributed by:
 
 Dr. Reddy’s Laboratories Inc.,
 
@@ -241,4 +241,8 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised: 1219
+Revised: 0521
+
+For Patient Information Sheet, please visit:
+
+www.drreddys.com/pi/aspirinanddipyridamolecaps.pdf

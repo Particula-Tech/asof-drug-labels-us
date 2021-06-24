@@ -45,6 +45,6 @@ These results were not statistically significant.
 
 Death Endpoint
 
-The incidence rate of all cause mortality was 11.3% for aspirin and extended-release dipyridamole capsules, 11% for aspirin alone, 11.4% for extended-release dipyridamole alone and 12.3% for placebo alone.
+The incidence rate of all-cause mortality was 11.3% for aspirin and extended-release dipyridamole capsules, 11% for aspirin alone, 11.4% for extended-release dipyridamole alone and 12.3% for placebo alone.
 The differences between the aspirin and extended-release dipyridamole capsules, aspirin alone and extended-release dipyridamole alone treatment groups were not statistically significant.
 These incidence rates for aspirin and extended-release dipyridamole capsules and aspirin alone are consistent with previous aspirin studies in stroke and TIA patients.
