@@ -33,7 +33,7 @@ E.E.S.
 Granules: Citric acid, FD&C Red No. 3, magnesium aluminum silicate, sodium carboxymethylcellulose, sodium citrate, sucrose and artificial flavor.
 
 E.E.S.
-400 film-coated tablets: Cellulosic polymers, confectioner's sugar (contains corn starch), corn starch, D&C Red No. 30, D&C Yellow No. 10, FD&C Red No. 40, magnesium stearate, polacrilin potassium, polyethylene glycol, propylene glycol, sodium citrate, sorbic acid, and titanium dioxide.
+400 film-coated tablets: confectioner's sugar (contains corn starch), corn starch, FD&C Red No. 40, magnesium stearate, polacrilin potassium, sodium citrate and Opadry® Pink 321A140035 (consists of the following ingredients: D&C Red #30, D&C Yellow #10, glycerol monocaprylocaprate, Macrogol (PEG) Polyvinyl Alcohol Graft Copolymer, polyvinyl alcohol partially hydrolyzed, talc and titanium dioxide.
 
 E.E.S.
 200 Liquid: FD&C Red No. 40, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
