@@ -1,6 +1,6 @@
-Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
-What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+What is the most important information I should know about medicines called Non-Steroidal Anti-inflammatory Drugs (NSAIDs)?
 
 NSAID can cause serious side effects, including:
 
@@ -50,12 +50,14 @@ Do not take NSAIDs:
 
 Before taking NSAIDs, tell your healthcare provider about all of your medical conditions, including if you:
 
-- had liver or kidney problems
+- have liver or kidney problems
 - have high blood pressure
 - have asthma
-- are pregnant or plan to become pregnant Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy
-- are breastfeeding or plan to breast feed
+- are pregnant or plan to become pregnant.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy
+- are breastfeeding or plan to breast feed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
@@ -107,7 +109,7 @@ Other information about NSAIDs
 - Aspirin is an NSAID but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- Some NSAIDs are sold in lower doses without a prescription (over -the counter).
+- Some NSAIDs are sold in lower doses without a prescription (over-the counter).
   Talk to your healthcare provider before using over -the -counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs
@@ -138,4 +140,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 2/2020
+Revised: 5/2021

@@ -2,7 +2,7 @@
 
 Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
 Gastrointestinal bleeding has occurred.
-Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.2, 5.4, 5.6)].
 
 No overdoses of celecoxib capsules were reported during clinical trials.
 Doses up to 2400 mg/day for up to 10 days in 12 patients did not result in serious toxicity.

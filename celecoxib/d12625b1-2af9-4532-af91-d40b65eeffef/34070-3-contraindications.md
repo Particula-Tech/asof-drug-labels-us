@@ -7,3 +7,4 @@ Celecoxib capsules are contraindicated in the following patients:
   Severe, sometimes fatal, anaphylactic reactions to NSAIDs, have been reported in such patients [see Warnings and Precautions (5.7, 5.8)].
 - In the setting of CABG surgery [see Warnings and Precautions (5.1)].
 - In patients who have demonstrated allergic-type reactions to sulfonamides.
+  [see Warnings and Precautions (5.7)].

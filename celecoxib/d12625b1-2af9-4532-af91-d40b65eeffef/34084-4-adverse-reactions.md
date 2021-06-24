@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -89,7 +89,7 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 | General: | Sepsis, sudden death |
 | Liver and biliary: | Cholelithiasis, |
 | Hemic and lymphatic: | Thrombocytopenia |
-| Nervous: | Ataxia, suicide [see Drug Interactions (7.1)] |
+| Nervous: | Ataxia, suicide [see Drug Interactions (7)] |
 | Renal: | Acute renal failure |
 
 The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.7)]
@@ -111,7 +111,7 @@ There was no substantial difference in the number of clinical exacerbations of u
 In a 12-week, open-label extension of the double-blind study described above, 202 JRA patients were treated with celecoxib 6 mg/kg twice daily.
 The incidence of adverse events was similar to that observed during the double-blind study; no unexpected adverse events of clinical importance emerged.
 
-$ Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
+Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
 
 |  |  | All Doses Twice Daily |  |
 | --- | --- | --- | --- |
@@ -154,7 +154,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib capsules pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib capsules were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -190,7 +190,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | --- | --- |
 | General: | Anaphylactoid reaction, angioedema |
 | Liver and biliary: | Liver necrosis, hepatitis, jaundice, hepatic failure |
-| Hemic and lymphatic | Agranulocytosis, aplastic anemia, pancytopenia, leucopenia |
+| Hemic and lymphatic: | Agranulocytosis, aplastic anemia, pancytopenia, leucopenia |
 | Metabolic: | Hypoglycemia, hyponatremia |
 | Nervous: | Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage |
-| Renal | Interstitial nephritis |
+| Renal: | Interstitial nephritis |

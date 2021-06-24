@@ -27,7 +27,7 @@ The response rates were based upon the JRA Definition of Improvement greater tha
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of celecoxib capsules for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to celecoxib capsules have not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12)].
+The long-term cardiovascular toxicity in children exposed to celecoxib capsules have not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.1, 5.15)].
 
 ## 14.4 Ankylosing Spondylitis
 
@@ -44,7 +44,7 @@ Single doses [see Dosage and Administration (2.6)] of celecoxib capsules provide
 
 ## 14.6 Cardiovascular Outcomes Trial
 
-Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen(PRECISION; NCT00346216)
+Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
 
 Design
 
@@ -74,6 +74,7 @@ The trial had two prespecified analysis populations:
 
 Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [See Table 5].
 Non-inferiority was prespecified as a hazard ratio (HR) of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
+
 The primary analysis results for ITT and mITT are described in Table 5.
 
 Table 5.
@@ -121,7 +122,7 @@ These changes resulted in a statistically significant and clinically meaningful 
 
 Adenomatous Polyp Prevention Studies (NCT00005094 and NCT00141193)
 
-Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib capsules: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
+Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three-year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib capsules: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
 The PreSAP trial did not demonstrate a statistically significant increased risk for the same composite endpoint (adjudicated):
 
@@ -164,7 +165,7 @@ Table 7: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Ca
 | Celecoxib with ASA (n=479) | 3.06 |
 
 In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib capsules alone or celecoxib capsules with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
-These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Cardiovascular safety outcomes were also evaluated in the CLASS trial.
 Kaplan-Meier cumulative rates for investigator-reported serious cardiovascular thromboembolic adverse events (including MI, pulmonary embolism, deep venous thrombosis, unstable angina, transient ischemic attacks, and ischemic cerebrovascular accidents) demonstrated no differences between the celecoxib, diclofenac, or ibuprofen treatment groups.
@@ -178,7 +179,7 @@ The rates of hypertension from the CLASS trial in the celecoxib capsules, ibupro
 Endoscopic Studies
 
 The correlation between findings of short-term endoscopic studies with celecoxib capsules and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib capsules in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.7)].
+Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib capsules in controlled and open-labeled trials [see Warnings and Precautions (5.2) and Clinical Studies (14.7)].
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking celecoxib capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.

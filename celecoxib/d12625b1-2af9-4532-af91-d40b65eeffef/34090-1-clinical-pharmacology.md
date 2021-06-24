@@ -34,12 +34,13 @@ It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours
 Absorption
 
 Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
-Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC [see Food Effects].
+Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC (see Food Effects).
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady-state conditions are reached on or before Day 5.
 The pharmacokinetic parameters of celecoxib in a group of healthy subjects are shown in Table 4.
 
-$ Table 4: Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1
+Table 4.
+Summary of Single Dose (200 mg) Disposition Kinetics of Celecoxib in Healthy Subjects1
 
 | Mean (%CV) PK Parameter Values |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -90,7 +91,7 @@ Geriatric
 At steady state, elderly subjects (over 65 years old) had a 40% higher Cmax and a 50% higher AUC compared to the young subjects.
 In elderly females, celecoxib Cmax and AUC are higher than those for elderly males, but these increases are predominantly due to lower body weight in elderly females.
 Dose adjustment in the elderly is not generally necessary.
-However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Dosage and Administration (2.7) and Use in Specific Populations (8.5)].
+However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Use in Specific Populations (8.5)].
 
 Pediatric
 
@@ -110,7 +111,7 @@ Hepatic Impairment
 A pharmacokinetic study in subjects with mild (Child-Pugh Class A) and moderate (Child-Pugh Class B) hepatic impairment has shown that steady-state celecoxib AUC is increased about 40% and 180%, respectively, above that seen in healthy control subjects.
 Therefore, the daily recommended dose of celecoxib capsules should be reduced by approximately 50% in patients with moderate (Child-Pugh Class B) hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh Class C) have not been studied.
-The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Renal Impairment
 
