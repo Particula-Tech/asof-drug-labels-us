@@ -3,7 +3,7 @@
 ## 7.1 Allopurinol
 
 Allopurinol can inhibit the first-pass oxidative metabolism of mercaptopurine by xanthine oxidase, which can lead to an increased risk of mercaptopurine adverse reactions (i.e., myelosuppression, nausea, and vomiting) [see Warnings andPrecautions (5.1), Adverse Reactions (6.1)].
-Reduce the dose of Mercaptopurine Tablets when co-administered with allopurinol [see Dosage and Administration (2.4)].
+Reduce the dose of Mercaptopurine Tablets when coadministered with allopurinol [see Dosage and Administration (2.4)].
 
 ## 7.2 Warfarin
 
@@ -19,8 +19,8 @@ Monitor the CBC and adjust the dose of Mercaptopurine Tablets for excessive myel
 
 ## 7.4 Aminosalicylates
 
-Aminosalicylates (e.g., mesalamine, olsalazine or sulfasalazine) may inhibit the TPMT enzyme, which may increase the risk of myelosuppression when co-administered with Mercaptopurine Tablets.
-When aminosalicylates and Mercaptopurine Tablets are co-administered, use the lowest possible doses for each drug and monitor more frequently for myelosuppression [see Warnings and Precautions (5.1)].
+Aminosalicylates (e.g., mesalamine, olsalazine or sulfasalazine) may inhibit the TPMT enzyme, which may increase the risk of myelosuppression when coadministered with Mercaptopurine Tablets.
+When aminosalicylates and Mercaptopurine Tablets are coadministered, use the lowest possible doses for each drug and monitor more frequently for myelosuppression [see Warnings and Precautions (5.1)].
 
 ## 7.5 Hepatotoxic Products
 

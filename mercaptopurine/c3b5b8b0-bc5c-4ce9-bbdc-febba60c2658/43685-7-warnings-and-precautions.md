@@ -10,7 +10,7 @@ TPMT genotyping or phenotyping (red blood cell TPMT activity) and NUDT15 genotyp
 Patients with heterozygous or homozygous TPMT or NUDT15 deficiency may require a dose reduction [see Dosage and Administration (2.2), Clinical Pharmacology (12.5)].
 
 Myelosuppression can be exacerbated by coadministration with allopurinol, aminosalicylates or other products that cause myelosuppression [see Drug Interactions (7.1, 7.3, 7.4)].
-Reduce the dose of Mercaptopurine Tablets when co-administered with allopurinol [see Dosage and Administration (2.4)].
+Reduce the dose of Mercaptopurine Tablets when coadministered with allopurinol [see Dosage and Administration (2.4)].
 
 ## 5.2 Hepatotoxicity
 

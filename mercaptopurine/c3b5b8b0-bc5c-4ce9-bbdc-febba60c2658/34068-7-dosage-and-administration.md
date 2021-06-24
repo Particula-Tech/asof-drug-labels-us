@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended starting dosage of Mercaptopurine Tablets is 1.5 to 2.5 mg/kg orally once daily as part of combination chemotherapy maintenance regimen.
+The recommended starting dosage of Mercaptopurine Tablets is 1.5 mg/kg to 2.5 mg/kg orally once daily as part of combination chemotherapy maintenance regimen.
 A recommended dosage for patients less than 17 kg is not achievable, because the only available strength is 50 mg.
 Take Mercaptopurine Tablets either consistently with or without food.
 
@@ -16,7 +16,7 @@ Do not administer to patients who are unable to swallow tablets.
 If a patient misses a dose, instruct the patient to continue with the next scheduled dose.
 
 Mercaptopurine Tablets is a cytotoxic drug.
-Follow special handling and disposal procedures.1
+Follow special handling and disposal procedures.
 
 ## 2.2 Dosage Modifications in Patients with TPMT and NUDT15 Deficiency
 
@@ -47,4 +47,4 @@ Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable lev
 
 ## 2.4 Dosage Modification with Concomitant Use of Allopurinol
 
-Reduce the dose of Mercaptopurine Tablets to one-third to one-quarter of the current dosage when co-administered with allopurinol [see Drug Interactions (7.1)].
+Reduce the dose of Mercaptopurine Tablets to one-third to one-quarter of the current dosage when coadministered with allopurinol [see Drug Interactions (7.1)].
