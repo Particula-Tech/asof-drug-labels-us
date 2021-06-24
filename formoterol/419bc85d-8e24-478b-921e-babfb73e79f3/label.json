@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091141"
+  ],
+  "inn": "formoterol",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-4061-06",
+    "0093-4061-19",
+    "0093-4061-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate",
+      "name": "Formoterol fumarate"
+    }
+  ],
+  "setid": "419bc85d-8e24-478b-921e-babfb73e79f3",
+  "source": "dailymed"
+}
