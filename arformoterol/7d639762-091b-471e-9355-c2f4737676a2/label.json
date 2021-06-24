@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA213762"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Slate Run Pharmaceuticals",
+  "package_ndcs": [
+    "70436-151-19",
+    "70436-151-20",
+    "70436-151-57",
+    "70436-151-58"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate inhalation",
+      "name": "Arformoterol Tartrate Inhalation"
+    }
+  ],
+  "setid": "7d639762-091b-471e-9355-c2f4737676a2",
+  "source": "dailymed"
+}
