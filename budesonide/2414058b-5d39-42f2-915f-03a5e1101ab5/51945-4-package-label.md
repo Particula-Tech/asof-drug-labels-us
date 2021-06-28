@@ -1,8 +1,4 @@
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Budesonide Inhalation Suspension 0.25 mg/2 mL, 30s (6 pouches of five 2 mL vials each) Carton Text
+# Package Label Principal Display Panel 1
 
 NDC 0093-6815-73
 
@@ -12,9 +8,9 @@ Inhalation Suspension
 
 0.25 mg/2 mL
 
-Each unit-dose vial delivers 2 mL of a sterile suspension
+Each unit-dose vial delivers 2 mL of a sterile suspension containing
 
-containing 0.25 mg of micronized budesonide.
+0.25 mg of micronized budesonide,USP.
 
 Steri-Neb™
 
@@ -27,9 +23,7 @@ For Oral Inhalation Use Only
 NOT FOR INJECTION
 
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic
-
-nebulizer.
+Do NOT use in an ultrasonic nebulizer.
 
 Rx only
 
@@ -37,11 +31,7 @@ Rx only
 
 TEVA
 
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Budesonide Inhalation Suspension 0.5 mg/2 mL, 30s (6 pouches of five 2 mL vials each) Carton Text
+# Package Label Principal Display Panel 2
 
 NDC 0093-6816-73
 
@@ -51,9 +41,9 @@ Inhalation Suspension
 
 0.5 mg/2 mL
 
-Each unit-dose vial delivers 2 mL of a sterile suspension
+Each unit-dose vial delivers 2 mL of a sterile suspension containing 0.5
 
-containing 0.5 mg of micronized budesonide.
+mg of micronized budesonide,USP.
 
 Steri-Neb™
 
@@ -66,9 +56,7 @@ For Oral Inhalation Use Only
 NOT FOR INJECTION
 
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic
-
-nebulizer.
+Do NOT use in an ultrasonic nebulizer.
 
 Rx only
 
