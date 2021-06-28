@@ -5,7 +5,7 @@
 PROPECIA is not indicated for use in women.
 Women should not handle crushed or broken PROPECIA tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
 PROPECIA tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
-[See Indications and Usage (1), Contraindications (4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.1).]
+[See Indications and Usage (1), Contraindications (4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17).]
 
 ## 5.2 Effects on Prostate Specific Antigen (PSA)
 

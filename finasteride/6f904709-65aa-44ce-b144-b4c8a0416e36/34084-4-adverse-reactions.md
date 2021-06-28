@@ -79,8 +79,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hypersensitivity Reaction: hypersensitivity reactions such as rash, pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face);
 
-Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders; male infertility and/or poor seminal quality (normalization or improvement of seminal quality has been reported after discontinuation of finasteride); testicular pain.
-[See Adverse Reactions (6.1).]
+Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders; male infertility and/or poor seminal quality (normalization or improvement of seminal quality has been reported after discontinuation of finasteride); testicular pain; hematospermia.
 
 Neoplasms: male breast cancer;
 
