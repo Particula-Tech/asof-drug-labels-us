@@ -29,8 +29,8 @@ In postmarketing experience, there have been abiraterone acetate-associated seve
 
 In the two randomized clinical trials, grade 3 or 4 ALT or AST increases (at least 5X ULN) were reported in 4% of patients who received abiraterone acetate, typically during the first 3 months after starting treatment.
 Patients whose baseline ALT or AST were elevated were more likely to experience liver test elevation than those beginning with normal values.
-Treatment discontinuation due to liver enzyme increases occurred in 1% of patients taking abiraterone acetate.
-No deaths clearly related to abiraterone acetate were reported due to hepatotoxicity events.
+Treatment discontinuation due to ALT and AST increases occurred in 1% of patients taking abiraterone acetate.
+In these clinical trials, no deaths clearly related to abiraterone acetate were reported due to hepatotoxicity events.
 
 Measure serum transaminases (ALT and AST) and bilirubin levels prior to starting treatment with YONSA, every two weeks for the first three months of treatment and monthly thereafter.
 In patients with baseline moderate hepatic impairment receiving a reduced YONSA dose of 125 mg, measure ALT, AST, and bilirubin prior to the start of treatment, every week for the first month, every two weeks for the following two months of treatment and monthly thereafter.
@@ -46,7 +46,7 @@ The safety of YONSA re-treatment of patients who develop AST or ALT greater than
 
 ## 5.4 Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride
 
-YONSA plus methylprednisolone is not recommended for use in combination with radium 223 dichloride outside of clinical trials.
+YONSA plus methylprednisolone is not recommended for use in combination with radium Ra 223 dichloride outside of clinical trials.
 
 The clinical efficacy and safety of concurrent initiation of abiraterone acetate plus a corticosteroid and radium Ra 223 dichloride was assessed in a randomized, placebo-controlled multicenter study in 806 patients with asymptomatic or mildly symptomatic castration-resistant prostate cancer with bone metastases.
 The study was unblinded early based on an Independent Data Monitoring Committee recommendation.
@@ -56,7 +56,13 @@ At the primary analysis, increased incidences of fractures (28.6% vs 11.4%) and 
 ## 5.5 Embryo-Fetal Toxicity
 
 The safety and efficacy of YONSA have not been established in females.
-Based on animal reproductive studies and mechanism of action, YONSA can cause fetal harm and loss of pregnancy when administered to a pregnant female.
+Based on animal reproductive studies and mechanism of action, abiraterone acetate can cause fetal harm and loss of pregnancy when administered to a pregnant female.
 In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with YONSA and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1, 8.3)].
-Females who are pregnant or females who may be pregnant should not handle YONSA tablets if broken, crushed, or damaged without protection, e.g., gloves [see How Supplied/Storage and Handling (16)].
+YONSA should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].
+
+## 5.6 Hypoglycemia
+
+Severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide [see Drug Interactions (7.2)].
+Monitor blood glucose in patients with diabetes during and after discontinuation of treatment with abiraterone acetate.
+Assess if antidiabetic drug dosage needs to be adjusted to minimize the risk of hypoglycemia.

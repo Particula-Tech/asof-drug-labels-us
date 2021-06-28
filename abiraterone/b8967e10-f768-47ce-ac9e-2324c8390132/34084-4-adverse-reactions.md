@@ -22,13 +22,13 @@ The most common laboratory abnormalities (>20%) reported in the two randomized c
 Study 1: Metastatic CRPC Following Chemotherapy
 
 Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥ 2.5 XULN in the absence of liver metastases.
+Patients were not eligible if AST and/or ALT ≥ 2.5 X ULN in the absence of liver metastases.
 Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
 
 Table 1 shows adverse reactions on the abiraterone acetate arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with abiraterone acetate with a corticosteroid was 8 months.
 
-Table 1 Adverse Reactions due to Abiraterone Acetate in Study 1
+Table 1:Adverse Reactions due to Abiraterone Acetate in Study 1
 
 |  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid (N=394) |  |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Patients were ineligible if AST and/or ALT ≥ 2.5X ULN and patients were exclud
 Table 3 shows adverse reactions on the abiraterone acetate arm in Study 2 that occurred in ≥ 5% of patients with a ≥ 2% absolute increase in frequency compared to placebo.
 The median duration of treatment with abiraterone acetate with a corticosteroid was 13.8 months.
 
-Table 3 Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
+Table 3:Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
 
 |  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid (N=540) |  |
 | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@ Table 3 Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in
 
 Table 4 shows laboratory abnormalities that occurred in greater than 15% of patients, and more frequently (>5%) in the abiraterone acetate arm compared to placebo in Study 2.
 
-Table 4 Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Arm of Study 2
+Table 4:Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Arm of Study 2
 
 |  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid(N=540) |  |
 | --- | --- | --- | --- | --- |
@@ -145,7 +145,7 @@ Table 4 Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate
 | Hypokalemia | 17 | 2.8 | 10 | 1.7 |
 | 1 Based on non-fasting blood draws |  |  |  |  |
 
-Cardiovascular Adverse Reactions:
+Cardiovascular Adverse Reactions
 
 In the combined data for studies 1 and 2, cardiac failure occurred more commonly in patients treated with abiraterone acetate compared to patients on the placebo arm (2.1% versus 0.7%).
 Grade 3-4 cardiac failure occurred in 1.6% of patients taking abiraterone acetate and led to 5 treatment discontinuations and 2 deaths.
@@ -157,7 +157,7 @@ There was one death associated with arrhythmia and one patient with sudden death
 There were 7 (0.5 %) deaths due to cardiorespiratory arrest in the abiraterone acetate arms and 3 (0.3 %) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 2 deaths in the abiraterone acetate arms.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of abiraterone acetate with a different corticosteroid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -169,3 +169,5 @@ Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyoly
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
 
 Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+
+Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).

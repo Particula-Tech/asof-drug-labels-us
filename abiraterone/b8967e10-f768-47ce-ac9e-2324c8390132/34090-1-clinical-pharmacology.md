@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-Abiraterone acetate (YONSA) is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17, 20-lyase (CYP17).
+Abiraterone acetate (YONSA) is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17).
 This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and is required for androgen biosynthesis.
 
-CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity.
+CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17,20-lyase activity.
 DHEA and androstenedione are androgens and are precursors of testosterone.
 Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals [see Warnings and Precautions (5.1)].
 
@@ -90,7 +90,7 @@ The AUC for dextrorphan, the active metabolite of dextromethorphan, increased ap
 In a clinical study to determine the effects of 1,000 mg daily of another abiraterone acetate product (plus a different corticosteroid twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.
 
 Abiraterone is a substrate of CYP3A4, in vitro.
-In a clinical pharmacokinetic interaction study of healthy subjects, pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of 1000 mg of another abiraterone acetate product, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
+In a clinical pharmacokinetic interaction study of healthy subjects, pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of 1,000 mg of another abiraterone acetate product, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
 
 In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
 

@@ -4,9 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions
 
-Inform patients that YONSA is associated with hypertension, hypokalemia, and peripheral edema that may lead to QT prolongation and Torsades de Pointes in patients who develop hypokalemia while taking YONSA.
-Advise patients that their blood pressure, serum potassium and signs and symptoms of fluid retention will be monitored clinically at least monthly.
-Advise patients to adhere to corticosteroids and to report symptoms of hypertension, hypokalemia, or edema to their healthcare provider [see Warnings and Precautions (5.1)].
+- Inform patients that YONSA is associated with hypertension, hypokalemia, and peripheral edema that may lead to QT prolongation and Torsades de Pointes in patients who develop hypokalemia while taking YONSA.
+  Advise patients that their blood pressure, serum potassium and signs and symptoms of fluid retention will be monitored clinically at least monthly.
+  Advise patients to adhere to corticosteroids and to report symptoms of hypertension, hypokalemia, or edema to their healthcare provider [see Warnings and Precautions (5.1)].
 
 Adrenocortical Insufficiency
 
@@ -15,14 +15,19 @@ Adrenocortical Insufficiency
 
 Hepatotoxicity
 
-Inform patients that YONSA is associated with severe hepatotoxicity.
-Inform patients that their liver function will be monitored using blood tests.
-Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
+- Inform patients that YONSA is associated with severe hepatotoxicity.
+  Inform patients that their liver function will be monitored using blood tests.
+  Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
+
+Hypoglycemia
+
+- Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
+  Advise patients with diabetes to monitor blood glucose levels during and after treatment with abiraterone acetate[see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
 
 Use in Combination with Radium Ra 223 Dichloride
 
-Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus a corticosteroid.
-Inform patients to speak with their healthcare provider about any other medications or treatment they are currently taking for prostate cancer [see Warnings and Precautions (5.4)].
+- Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus a corticosteroid.
+  Inform patients to speak with their healthcare provider about any other medications or treatment they are currently taking for prostate cancer [see Warnings and Precautions (5.4)].
 
 Dosing and Administration
 
@@ -42,7 +47,7 @@ Embryo-Fetal Toxicity
 
 Infertility
 
-Advise male patients that YONSA may impair fertility [see Use in Specific Populations (8.3)].
+- Advise male patients that YONSA may impair fertility [see Use in Specific Populations (8.3)].
 
 Manufactured for:
 
@@ -56,10 +61,10 @@ Cranbury, NJ 08512
 
 YONSA is a registered trademark of Sun Pharma Global FZE
 
-© 2020 Sun Pharma Global, FZE
+© 2021 Sun Pharma Global, FZE
 
 All rights reserved.
 
-Revised: August 2020
+Revised: March 2021
 
-uspi-YONSA-tab-00002
+uspi-YONSA-tab-00003

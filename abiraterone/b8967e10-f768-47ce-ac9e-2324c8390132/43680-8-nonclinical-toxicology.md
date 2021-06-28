@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 A two-year carcinogenicity study was conducted in rats at abiraterone acetate oral doses of 5, 15, and 50 mg/kg/day for males and 15, 50, and 150 mg/kg/day for females.
 Abiraterone acetate increased the combined incidence of interstitial cell adenomas and carcinomas in the testes at all dose levels tested.
@@ -11,10 +11,10 @@ Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (T
 
 Abiraterone acetate and abiraterone was not mutagenic in an in vitro microbial mutagenesis (Ames) assay or clastogenic in an in vitro cytogenetic assay using primary human lymphocytes or an in vivo rat micronucleus assay.
 
-In repeat-dose toxicity studies in male rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥ 50 mg/kg/day in rats and ≥ 250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone [see Nonclinical Toxicology (13.2)].
+In repeat-dose toxicity studies in male rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥ 50 mg/kg/day in rats and ≥ 250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone.
 These effects were observed in rats at systemic exposures similar to humans and in monkeys at exposures approximately 0.6 times the AUC in humans.
 
-In fertility studies in male rats, reduced organ weights of the reproductive system, sperm counts, sperm motility, altered sperm morphology and decreased fertility were observed in males dosed for 4 weeks at ≥ 30 mg/kg/day.
+In a fertility study in male rats, reduced organ weights of the reproductive system, sperm counts, sperm motility, altered sperm morphology and decreased fertility were observed in animals dosed for 4 weeks at ≥ 30 mg/kg/day orally.
 Mating of untreated females with males that received 30 mg/kg/day oral abiraterone acetate resulted in a reduced number of corpora lutea, implantations and live embryos and an increased incidence of pre-implantation loss.
 Effects on male rats were reversible after 16 weeks from the last abiraterone acetate administration.
 
