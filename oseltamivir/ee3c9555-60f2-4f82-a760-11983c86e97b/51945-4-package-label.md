@@ -52,7 +52,7 @@ Genentech
 
 10175388
 
-# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0822-05
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
 NDC 0004-0822-05
 
@@ -68,4 +68,4 @@ Rx only
 
 Genentech
 
-10167501
+10240835
