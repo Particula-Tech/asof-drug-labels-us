@@ -45,7 +45,7 @@ Advise lactating women not to breastfeed during and after treatment with Zoledro
 
 Common Adverse Reactions
 
-Advise patients that the most common side effects of Zoledronic Acid Injection are nausea, fatigue, anemia, bone pain, constipation, fever, vomiting, and dyspnea.
+- Advise patients that the most common side effects of Zoledronic Acid Injection are nausea, fatigue, anemia, bone pain, constipation, fever, vomiting, and dyspnea.
 
 Brands listed are the trademarks of their respective owners.
 
@@ -53,4 +53,4 @@ Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switz
 
 novaplusTM+ Novaplus is a registered trademark of Vizient, Inc.
 
-Revised: February 2019
+Revised: October 2020

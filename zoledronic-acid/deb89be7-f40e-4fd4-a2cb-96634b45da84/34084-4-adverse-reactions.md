@@ -89,10 +89,10 @@ Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypocalcemia2 | 1/86 | (1%) | 2/100 | (2%) |
 | Hypophosphatemia3 | 36/70 | (51%) | 27/81 | (33%) |
 | Hypomagnesemia4 | 0/71 | 0 | 0/84 | 0 |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |
-| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |
+| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
 
 Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
@@ -104,14 +104,14 @@ Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypocalcemia2 | 0/86 | 0 | 0/100 | 0 |
 | Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
 | Hypomagnesemia4 | 0/71 | 0 | 1/84 | (1%) |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |
-| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |
+| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
 
-Injection-Site Reactions
+Injection Site Reactions
 
-Local reactions at the infusion-site, such as redness or swelling, were observed infrequently.
+Local reactions at the infusion site, such as redness or swelling, were observed infrequently.
 In most cases, no specific treatment is required and the symptoms subside after 24-48 hours.
 
 Ocular Adverse Reactions
@@ -185,12 +185,12 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypophosphatemia3 | 115/973 | (12%) | 38/537 | (7%) | 14/415 | (3%) |
 | Hypermagnesemia4 | 19/971 | (2%) | 2/535 | (<1%) | 8/415 | (2%) |
 | Hypomagnesemia5 | 1/971 | (<1%) | 0/535 | — | 1/415 | (<1%) |
-| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment. |  |  |  |  |  |  |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |  |  |
-| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). |  |  |  |  |  |  |
-| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
+| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |  |  |
+| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) |  |  |  |  |  |  |
+| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
 
 Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
 
@@ -203,12 +203,12 @@ Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypophosphatemia3 | 5/973 | (<1%) | 0/537 | 0 | 1/415 | (<1%) |
 | Hypermagnesemia4 | 0/971 | 0 | 0/535 | 0 | 2/415 | (<1%) |
 | Hypomagnesemia5 | 2/971 | (<1%) | 1/535 | (<1%) | 0/415 | 0 |
-| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment. |  |  |  |  |  |  |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |  |  |
-| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). |  |  |  |  |  |  |
-| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
+| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |  |  |
+| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) |  |  |  |  |  |  |
+| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
 
 Among the less frequently occurring adverse reactions (less than 15% of patients), rigors, hypokalemia, influenza-like illness, and hypocalcemia showed a trend for more reactions with bisphosphonate administration (Zoledronic Acid Injection 4 mg and pamidronate groups) compared to the placebo group.
 
