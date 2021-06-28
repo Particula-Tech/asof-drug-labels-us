@@ -1,6 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
-## <content styleCode="italics">Mechanism of Action</content>Mechanism of Action
+## Mechanism of Action:
 
 Adapalene acts on retinoid receptors.
 Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes all of which represent important features in the pathology of acne vulgaris.
@@ -8,7 +8,7 @@ Biochemical and pharmacological profile studies have demonstrated that adapalene
 Mechanistically, adapalene binds to specific retinoic acid nuclear receptors but does not bind to the cytosolic receptor protein.
 Although the exact mode of action of adapalene is unknown, it is suggested that topical adapalene normalizes the differentiation of follicular epithelial cells resulting in decreased microcomedone formation.
 
-## <content styleCode="italics">Pharmacokinetics</content>Pharmacokinetics
+## Pharmacokinetics:
 
 Absorption of adapalene from DIFFERIN® Cream through human skin is low.
 In a pharmacokinetic study with six acne patients treated once daily for 5 days with 2 grams of DIFFERIN® Cream applied to 1000 cm2 of acne involved skin, there were no quantifiable amounts (limit of quantification = 0.35 ng/mL) of adapalene in the plasma samples from any patient.

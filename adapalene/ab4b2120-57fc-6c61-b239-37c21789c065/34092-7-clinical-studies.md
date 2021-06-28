@@ -1,4 +1,4 @@
-# CLINICAL STUDIES
+# CLINICAL STUDIES:
 
 Two vehicle-controlled clinical studies were conducted in patients 12 to 30 years of age with mild to moderate acne vulgaris, in which DIFFERIN® Cream was compared with its vehicle.
 Patients were instructed to apply their treatment medication once daily at bedtime for 12 weeks.

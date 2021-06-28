@@ -6,9 +6,10 @@ Differin®
 
 CREAM
 
-0.1%
+0.1% NET WT.
+45 g
 
-NDC 0299-5915-45
+NDC 0299-5915-45 Rx Only
 
 GALDERMA
 
@@ -28,8 +29,8 @@ Marketed by:
 
 GALDERMA LABORATORIES, L.P.
 
-Fort Worth, Texas 76177 USA
+Fort Worth, Texas 76177 USA Made in Canada
 
 All trademarks are the property of their respective owners.
 
-P50446-3
+P50446-4
