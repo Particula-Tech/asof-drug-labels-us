@@ -20,7 +20,7 @@ Important:
 
 Each RAPAMUNE Oral Solution carton contains:
 
-|  | a)a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)b)1 oral syringe adapter for fitting into the neck of the bottlec)enough disposable amber oral syringes and caps for daily dosingd)1 carrying case |
+|  | a)a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)b)1 oral syringe adapter for fitting into the neck of the bottlec)enough disposable oral syringes (amber color) and caps for daily dosingd)1 carrying case |
 | --- | --- |
 
 You will also need:
@@ -56,4 +56,4 @@ Keep RAPAMUNE and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-LAB-0579-4.0 Revised: January 2020
+LAB-0579-5.0 Revised: June 2021
