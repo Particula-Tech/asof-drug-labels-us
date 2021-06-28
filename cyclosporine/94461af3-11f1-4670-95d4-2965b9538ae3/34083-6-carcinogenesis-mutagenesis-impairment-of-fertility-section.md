@@ -24,6 +24,6 @@ The most common forms of neoplasms are non-Hodgkin’s lymphoma and carcinomas o
 The risk of malignancies in cyclosporine recipients is higher than in the normal, healthy population but similar to that in patients receiving other immunosuppressive therapies.
 Reduction or discontinuance of immunosuppression may cause the lesions to regress.
 
-In psoriasis patients on cyclosporine, development of malignancies, especially those of the skin has been reported.
-(See WARNINGS) Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine treatment.
+In psoriasis patients on cyclosporine, development of malignancies, especially those of the skin has been reported (see WARNINGS).
+Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine treatment.
 Patients with malignant or premalignant changes of the skin should be treated with cyclosporine only after appropriate treatment of such lesions and if no other treatment option exists.

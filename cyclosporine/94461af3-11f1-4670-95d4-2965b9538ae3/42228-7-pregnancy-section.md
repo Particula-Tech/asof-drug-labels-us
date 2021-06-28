@@ -1,7 +1,5 @@
 # Pregnancy
 
-Pregnancy Category C
-
 Animal studies have shown reproductive toxicity in rats and rabbits.
 Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally.)
 Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
@@ -27,5 +25,4 @@ Renal function and blood pressure in these children were normal.
 
 Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Neoral in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Neoral.
 
-The alcohol content of the Neoral formulations should also be taken into account in pregnant women.
-(See WARNINGS, Special Excipients)
+The alcohol content of the Neoral formulations should also be taken into account in pregnant women (see WARNINGS, Special Excipients).
