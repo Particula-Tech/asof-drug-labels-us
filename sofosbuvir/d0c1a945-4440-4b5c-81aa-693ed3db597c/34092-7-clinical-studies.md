@@ -9,14 +9,14 @@ Table 12 Trials Conducted with Sofosbuvir and Velpatasvir in Subjects with Genot
 
 | Trial | Population | Sofosbuvir and Velpatasvir and Comparator Groups (Number of Subjects Treated) |
 | --- | --- | --- |
-| ASTRAL-1 Double-blind, placebo-controlled. (NCT02201940) | Genotype 1, 2, 4, 5, and 6 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (624) Placebo 12 weeks (116) |
-| ASTRAL-2 Open-label. (NCT02220998) | Genotype 2 TN and TE, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (134) SOF + RBV 12 weeks (132) |
+| ASTRAL-1Double-blind, placebo-controlled. (NCT02201940) | Genotype 1, 2, 4, 5, and 6 TN and TETE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (624) Placebo 12 weeks (116) |
+| ASTRAL-2Open-label. (NCT02220998) | Genotype 2 TN and TE, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (134) SOF + RBV 12 weeks (132) |
 | ASTRAL-3 (NCT02201953) | Genotype 3 TN and TE, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (277) SOF + RBV 24 weeks (275) |
 | ASTRAL-5 (NCT02480712) | Genotype 1, 2, 3, 4, 5, and 6 HCV/HIV-1 coinfected TN and TE, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (106) |
 | ASTRAL-4 (NCT02201901) | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (90) Sofosbuvir and velpatasvir + RBV 12 weeks (87) Sofosbuvir and velpatasvir 24 weeks (90) |
-| 2104 (NCT02781571) | Genotype 1, 2, 3, and 4 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen or an HCV-specific DAA-based regimen that does not include an NS5A inhibitor. liver transplant recipients, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (79) |
-| 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | Sofosbuvir and velpatasvir 12 weeks (59) |
-| 1143 (NCT03022981) | Genotype 1, 2, 3, 4, and 6 TN and TE pediatric subjects 6 years of age and older | Sofosbuvir and velpatasvir 12 weeks (173) |
+| 2104 (NCT02781571) | Genotype 1, 2, 3, and 4 TN and TETE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen or an HCV-specific DAA-based regimen that does not include an NS5A inhibitor. liver transplant recipients, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (79) |
+| 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TETE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | Sofosbuvir and velpatasvir 12 weeks (59) |
+| 1143 (NCT03022981) | Genotype 1, 2, 3, 4, and 6 TN and TETE = treatment-experienced subjects are those who have failed an interferon-based regimen with or without ribavirin and with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir). pediatric subjects 3 years of age and older | Sofosbuvir and velpatasvir 12 weeks (214) |
 | TN = treatment-naïve subjects; SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh; ESRD = End Stage Renal Disease. |  |  |
 
 The ribavirin dosage was weight-based (1000 mg daily administered in two divided doses for subjects less than 75 kg and 1200 mg for those greater than or equal to 75 kg) and administered in two divided doses when used in combination with sofosbuvir in the ASTRAL-2 and ASTRAL-3 trials or in combination with sofosbuvir and velpatasvir in the ASTRAL-4 trial.
@@ -188,11 +188,11 @@ Of the subjects completing 12 weeks of sofosbuvir and velpatasvir, 1 subject exp
 
 ## 14.7 Clinical Trial in Pediatric Subjects
 
-The efficacy of sofosbuvir and velpatasvir once daily for 12 weeks was evaluated in an open-label trial (Study 1143) in 173 genotype 1, 2, 3, 4, or 6 HCV treatment-naïve (N=147) or treatment-experienced (N=26) pediatric subjects 6 years of age and older without cirrhosis or with compensated cirrhosis.
+The efficacy of sofosbuvir and velpatasvir once daily for 12 weeks was evaluated in an open-label trial (Study 1143) in 214 genotype 1, 2, 3, 4, or 6 HCV treatment-naïve (N=188) or treatment-experienced (N=26) pediatric subjects 3 years of age and older without cirrhosis or with compensated cirrhosis.
 
 Subjects 12 Years to <18 Years of Age: Sofosbuvir and velpatasvir was evaluated in 102 subjects 12 years to <18 years of age with genotype 1, 2, 3, 4, or 6 HCV infection.
 Among these subjects, 80 (78%) were treatment-naïve and 22 (22%) were treatment-experienced.
-The median age was 15 years (range: 12 to 17); 51% of the subjects were female; 73% were White, 9% were Black, and 11% were Asian; 14% were Hispanic/Latino; mean body mass index was 23 kg/m2 (range: 13 to 49 kg/m2); mean weight was 61 kg (range 22 to 147 kg); 58% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; the proportions of subjects with genotype 1, 2, 3, 4, or 6 HCV infection were 74%, 6%, 12%, 2%, and 6%, respectively; no subjects had known cirrhosis.
+The median age was 15 years (range: 12 to 17); 51% of the subjects were female; 73% were White, 9% were Black, and 11% were Asian; 14% were Hispanic/Latino; mean body mass index was 23 kg/m2 (range: 13 to 49 kg/m2); mean weight was 61 kg (range: 22 to 147 kg); 58% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; the proportions of subjects with genotype 1, 2, 3, 4, or 6 HCV infection were 74%, 6%, 12%, 2%, and 6%, respectively; no subjects had known cirrhosis.
 The majority of subjects (89%) had been infected through vertical transmission.
 
 The SVR rate was 93% (71/76) in subjects with genotype 1 HCV infection and 100% in subjects with genotype 2 (6/6), genotype 3 (12/12), genotype 4 (2/2), and genotype 6 (6/6) HCV infection.
@@ -200,8 +200,16 @@ One subject discontinued treatment at Week 4 and subsequently relapsed; the othe
 
 Subjects 6 Years to <12 Years of Age: Sofosbuvir and velpatasvir was evaluated in 71 subjects 6 years to <12 years of age with genotype 1, 2, 3, or 4 HCV infection.
 Among these subjects, 67 (94%) were treatment-naïve and 4 (6%) were treatment-experienced.
-The median age was 8 years (range: 6 to 11); 54% of the subjects were female; 90% were White, 6% were Black, and 1% were Asian; 10% were Hispanic/Latino; mean body mass index was 17 kg/m2 (range: 13 to 31 kg/m2); mean weight was 30 kg (range 18 to 78 kg); 48% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; the proportions of subjects with genotype 1, 2, 3, or 4 HCV infection were 76%, 3%, 15%, and 6%, respectively; no subjects had known cirrhosis.
+The median age was 8 years (range: 6 to 11); 54% of the subjects were female; 90% were White, 6% were Black, and 1% were Asian; 10% were Hispanic/Latino; mean body mass index was 17 kg/m2 (range: 13 to 31 kg/m2); mean weight was 30 kg (range: 18 to 78 kg); 48% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; the proportions of subjects with genotype 1, 2, 3, or 4 HCV infection were 76%, 3%, 15%, and 6%, respectively; no subjects had known cirrhosis.
 The majority of subjects (94%) had been infected through vertical transmission.
 
 The SVR rate was 93% (50/54) in subjects with genotype 1 HCV infection, 91% (10/11) in subjects with genotype 3 HCV infection, and 100% in subjects with genotype 2 (2/2) and genotype 4 (4/4) HCV infection.
 One subject had on-treatment virologic failure; the other four subjects who did not achieve SVR12 did not meet virologic failure criteria (lost to follow-up).
+
+Subjects 3 Years to <6 Years of Age: Sofosbuvir and velpatasvir was evaluated in 41 treatment-naïve subjects 3 years to <6 years of age with genotype 1, 2, 3, or 4 HCV infection.
+The median age was 4 years (range: 3 to 5); 59% of the subjects were female; 78% were White, 7% were Black; 10% were Hispanic/Latino; mean body mass index was 17.0 kg/m2 (range: 13.9 to 22.0 kg/m2); mean weight was 19 kg (range: 13 to 35 kg); 49% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; the proportions of subjects with genotype 1, 2, 3, or 4 HCV infection were 78%, 15%, 5%, and 2%, respectively; no subjects had known cirrhosis.
+The majority of subjects (98%) had been infected through vertical transmission.
+
+The SVR12 rate among all subjects was 83% (34/41); with 88% (28/32) in subjects with genotype 1 HCV infection, 50% (3/6) in subjects with genotype 2 HCV infection, and 100% in subjects with genotype 3 (2/2) and genotype 4 (1/1) HCV infection.
+None of the 34 subjects who completed the treatment had virologic failure.
+Of the remaining seven subjects who did not achieve SVR12, five discontinued treatment on Day 1, one on Day 7, and one on Day 20 [see Adverse Reactions (6.1)].

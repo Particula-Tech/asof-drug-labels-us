@@ -55,17 +55,20 @@ Refer to ribavirin prescribing information for additional information.
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 1, 2, 3, 4, or 6 infection in treatment-naïve and treatment-experienced pediatric patients 6 years of age and older or weighing at least 17 kg without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1143, N=175; 149 treatment-naïve, 26 treatment-experienced).
+The pharmacokinetics, safety, and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 1, 2, 3, 4, or 6 infection in treatment-naïve and treatment-experienced pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1143, N=216; 190 treatment-naïve, 26 treatment-experienced).
 No clinically meaningful differences in pharmacokinetics were observed in comparison to those observed in adults.
-The safety and effectiveness were comparable with those observed in adults [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
-The safety and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 5 in pediatric patients 6 years of age and older or weighing at least 17 kg without cirrhosis or with compensated cirrhosis are supported by sofosbuvir, GS-331007, and velpatasvir exposures in adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+The safety and effectiveness in pediatric subjects were comparable to those observed in adults.
+However, among the 41 pediatric subjects less than 6 years of age, vomiting and product use issue (spitting up the drug) were reported more frequently (15% and 10%, respectively; all Grade 1 or 2) compared to subjects 6 years of age and older.
+Five subjects (12%) discontinued treatment after vomiting or spitting up the drug [see Dosage and Administration (2.4, 2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+
+The safety and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 5 in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis are supported by sofosbuvir, GS-331007, and velpatasvir exposures in adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 Similar rationale is used to support dosing recommendations for pediatric patients with HCV genotype 1, 2, 3, 4, 5, or 6 infection who have decompensated cirrhosis (Child-Pugh B or C).
 
 In patients with severe renal impairment, including those requiring dialysis, exposures of GS-331007, the inactive metabolite of sofosbuvir, are increased [see Clinical Pharmacology (12.3)].
 No data are available regarding the safety of sofosbuvir and velpatasvir in pediatric patients with renal impairment [see Use in Specific Populations (8.6)].
 
-The safety and effectiveness of sofosbuvir and velpatasvir have not been established in pediatric patients less than 6 years of age.
+The safety and effectiveness of sofosbuvir and velpatasvir have not been established in pediatric patients less than 3 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -75,7 +78,7 @@ No dosage adjustment of sofosbuvir and velpatasvir is warranted in geriatric pat
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of sofosbuvir and velpatasvir is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+No dosage adjustment of sofosbuvir and velpatasvir is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.6), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
 No safety data are available in subjects with both decompensated cirrhosis and severe renal impairment, including ESRD requiring dialysis.
 Additionally, no safety data are available in pediatric patients with renal impairment [see Use in Specific Populations (8.4)].
 Refer to ribavirin tablet prescribing information regarding use of ribavirin in patients with renal impairment.

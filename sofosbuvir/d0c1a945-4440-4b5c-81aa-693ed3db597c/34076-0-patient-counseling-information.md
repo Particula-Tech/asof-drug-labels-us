@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Risk of Hepatitis B Virus Reactivation in Patients Coinfected with HCV and HBV
 
@@ -20,6 +20,8 @@ Administration
 
 Advise patients to take sofosbuvir and velpatasvir once daily on a regular dosing schedule with or without food.
 Inform patients that it is important not to miss or skip doses and to take sofosbuvir and velpatasvir for the duration that is recommended by the physician.
+
+For sofosbuvir and velpatasvir (EPCLUSA) oral pellets, advise patients or caregivers to read and follow the Instructions for Use for preparing the correct dose [see Dosage and Administration (2.4, 2.5)].
 
 Pregnancy
 
