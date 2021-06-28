@@ -17,8 +17,6 @@ Adverse reactions led to discontinuation of treatment in 5.0% of patients treate
 
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
-Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
-
 | Body System Adverse Reaction | FenofibrateDosage equivalent to 130 mg fenofibrate (N=439) | Placebo (N=365) |
 | --- | --- | --- |
 | Body As A Whole |  |  |
