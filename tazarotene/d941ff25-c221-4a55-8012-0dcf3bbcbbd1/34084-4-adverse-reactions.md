@@ -17,7 +17,7 @@ Most adverse reactions were mild to moderate in severity.
 Severe adverse reactions represented 1.3% of the subjects treated.
 Overall, 2.4% (19/779) of subjects discontinued ARAZLO because of local skin reactions.
 
-Table 1: Adverse Reactions Reported by ≥1% of the ARAZLO Group and More Frequently than the Vehicle Group
+Table 1:Adverse Reactions Reported by ≥1% of the ARAZLO Group and More Frequently than the Vehicle Group
 
 |  | ARAZLO N=779 | Vehicle N=791 |
 | --- | --- | --- |

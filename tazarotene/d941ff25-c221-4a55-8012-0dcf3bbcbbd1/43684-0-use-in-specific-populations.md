@@ -42,7 +42,7 @@ Based on data from another study, the systemic drug exposure in the rat at this 
 Risk Summary
 
 There are no data on the presence of tazarotene or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-After single topical doses ofa 14C-tazarotene gel formulation to the skin of lactating rats, radioactivity was detected in rat milk.
+After single topical doses of a 14C-tazarotene gel formulation to the skin of lactating rats, radioactivity was detected in rat milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ARAZLO and any potential adverse effects on the breastfed child from ARAZLO.
 
 Clinical Considerations
@@ -52,7 +52,7 @@ Advise breastfeeding patients not to apply ARAZLO directly to the nipple and are
 
 ## 8.3 Females and Males of Reproductive Potential
 
-- Pregnancy Testing
+Pregnancy Testing
 
 Pregnancy testing is recommended for patients of childbearing potential within 2 weeks prior to initiating ARAZLO therapy which should begin during a menstrual period.
 

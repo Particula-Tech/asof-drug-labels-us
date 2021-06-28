@@ -21,7 +21,7 @@ Table 3: Efficacy Results at Week 12
 | Inflammatory Facial Lesions |  |  |  |
 | Mean Absolute Reduction | 15.6 | 12.4 | 3.3 (1.9, 4.7) |
 | Mean Percent Reduction | 55.5% | 45.7% |  |
-| Trial 2 | ARAZLO N=397 | Vehicle N=404 |  |
+| Trial 2 | ARAZLO Lotion N=397 | Vehicle N=404 |  |
 | EGSS |  |  |  |
 | Clear or Almost Clear and 2-Grade Reduction from Baseline | 29.6% | 17.3% | 12.3% (6.5%, 18.1%) |
 | Non-Inflammatory Facial Lesions |  |  |  |
