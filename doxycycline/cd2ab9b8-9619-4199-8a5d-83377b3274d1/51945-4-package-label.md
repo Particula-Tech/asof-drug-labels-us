@@ -68,4 +68,4 @@ Rx Only
 
 mayne pharma
 
-60 Tablets
+30 Tablets
