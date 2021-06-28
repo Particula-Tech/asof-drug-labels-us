@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078643"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-782-01",
+    "16571-782-10",
+    "16571-782-50",
+    "16571-783-01",
+    "16571-783-10",
+    "16571-783-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "Cyclobenzaprine Hydrochloride"
+    }
+  ],
+  "setid": "0280b504-4a42-44f3-8a1a-34a20eac054a",
+  "source": "dailymed"
+}
