@@ -8,7 +8,7 @@ While ondansetron's mechanism of action has not been fully characterized, it is 
 ## 12.2 Pharmacodynamics
 
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
-In another trial in six normal male volunteers, a 16 mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or electrocardiogram (ECG).
+In another trial in 6 normal male volunteers, a 16 mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or ECG.
 Multiday administration of ondansetron has been shown to slow colonic transit in normal volunteers.
 Ondansetron has no effect on plasma prolactin concentrations.
 In a gender balanced pharmacodynamic trial (n = 56), ondansetron 4 mg administered intravenously or intramuscularly was dynamically similar in the prevention of nausea and vomiting using the ipecacuanha model of emesis.
@@ -36,7 +36,7 @@ Pharmacokinetics in Normal Adult Volunteers
 Absorption
 
 A trial was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4-mg dose administered as a 5-minute infusion compared with a single intramuscular injection.
-Systemic exposure as measured by mean AUC were equivalent, with values of 156 [95% CI:136, 180] and 161 [95% CI: 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
+Systemic exposure as measured by mean area under curve (AUC) were equivalent, with values of 156 [95% CI:136, 180] and 161 [95% CI: 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
 Mean peak plasma concentrations were 42.9 [95% CI: 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI: 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
 
 Distribution
@@ -93,7 +93,7 @@ As shown in Table 6, the 41 patients with pharmacokinetic data were divided into
 Table 6.
 Pharmacokinetics in Pediatric Surgery Patients Aged 1 Month to 12 Years
 
-|  |  | CL (L/h/kg) | Vdss (L/kg) | t1/2 (h) |
+|  |  | CL (L/h/kg) | Vdss (L/kg) | t½ (h) |
 | --- | --- | --- | --- | --- |
 | Subjects and Age-group | N | Geometric Mean |  | Mean |
 | Pediatric Surgery Patients 3 to 12 years | N = 21 | 0.439 | 1.65 | 2.9 |

@@ -13,7 +13,7 @@ Cisplatin-based Chemotherapy: In a double-blind trial in 28 patients, Ondansetro
 Therapeutic response was as shown in Table 7.
 
 Table 7.
-Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cisplatin Therapya in Adults
+Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cisplatin Therapya in Adults
 
 |  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Cyclophosphamide-based Chemotherapy: In a double-blind, placebo-controlled trial
 The results are summarized in Table 9.
 
 Table 9.
-Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cyclophosphamide Therapya in Adults
+Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cyclophosphamide Therapya in Adults
 
 |  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pedia
 | Number of patients | 185 | 191 |  |
 | None | 119 (64%) | 99 (52%) | ≤0.01 |
 
-a Failure was one or more emetic episodes, rescued, or withdrawn. b Nausea measured as none, mild, or severe
+a Failure was one or more emetic episodes, rescued, or withdrawn. b Nausea measured as none, mild, or severe.
 
 A double-blind, multicenter, placebo-controlled trial was conducted in 670 pediatric patients aged 1 month to 24 months who were undergoing routine surgery under general anesthesia.
 Seventy-five percent (75%) were males; 64% were white, 15% were black, 13% were American Hispanic, 2% were Asian, and 6% were “other race” patients.

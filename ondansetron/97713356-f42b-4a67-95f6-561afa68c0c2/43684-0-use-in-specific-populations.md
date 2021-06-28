@@ -4,29 +4,30 @@
 
 ### Risk Summary
 
-Available data do not reliably inform the association of ondansetron and adverse fetal outcomes.
-Published epidemiological studies on the association between ondansetron and fetal outcomes have reported inconsistent findings and have important methodological limitations hindering interpretation [see Data].
+Published epidemiological studies on the association between ondansetron use and major birth defects have reported inconsistent findings and have important methodological limitations that preclude conclusions about the safety of ondansetron use in pregnancy [see Data].
+Available postmarketing data have not identified a drug-associated risk of miscarriage or adverse maternal outcomes.
 Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered intravenously during organogenesis at approximately 3.6 and 2.9 times the maximum recommended human intravenous dose of 0.15 mg/kg given three times a day, based on body surface area, respectively [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the US general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+All pregnancies have a background risk of birth defect, miscarriages, or other adverse outcomes.
+In the US general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ### Data
 
 Human Data
 
-Methodological limitations of the epidemiology studies preclude a reliable evaluation of the potential risk of adverse fetal outcomes with the use of ondansetron in pregnancy.
-Two large retrospective cohort studies of ondansetron use in pregnancy have been published.
-In one study with 1,349 infants born to women who reported the use of ondansetron or received an ondansetron prescription in the first trimester, no increased risk for major congenital malformations was seen in aggregate analysis.
-In this same study, however, a sub-analysis for specific malformations reported an association between ondansetron exposure and cardiovascular defect (odds ratio (OR) 1.62 [95% CI (1.04, 2.14)]) and cardiac septal defect (OR 2.05 [95% CI (1.19, 3.28)]).
-The second study examined 1970 women who received ondansetron prescription during pregnancy and reported no association between ondansetron exposure and major congenital malformations, miscarriage or stillbirth, and infants of low birth weight or small for gestational age.
-Important methodological limitations with these studies include the uncertainty of whether women who filled a prescription actually took the medication, the concomitant use of other medications or treatments, and other unadjusted confounders that may account for the study findings.
+Available data on ondansetron use in pregnant women from several published epidemiological studies preclude an assessment of a drug-associated risk of adverse fetal outcomes due to important methodological limitations, including the uncertainty of whether women who filled a prescription actually took the medication, the concomitant use of other medications or treatments, recall bias, and other unadjusted confounders.
+Ondansetron exposure in utero has not been associated with overall major congenital malformations in aggregate analyses.
+One large retrospective cohort study examined 1970 women who received a prescription for ondansetron during pregnancy and reported no association between ondansetron exposure and major congenital malformations, miscarriage, stillbirth, preterm delivery, infants of low birth weight, or infants small for gestational age.
 
-A case-control study evaluating associations between several common non-cardiac malformations and multiple antiemetic drugs reported an association between maternal use of ondansetron and isolated cleft palate (reported adjusted OR = 2.37 [95% CI (1.18, 4.76)]).
-However, this association could be a chance finding, given the large number of drugs-birth defect comparisons in this study.
-It is unknown whether ondansetron exposure in utero in the cases of cleft palate occurred during the time of palate formation (the palate is formed between the 6th and 9th weeks of pregnancy) or whether mothers of infants with cleft palate used other medications or had other risk factors for cleft palate in the offspring.
-In addition, no cases of isolated cleft palate were identified in the aforementioned two large retrospective cohort studies.
-At this time, there is no clear evidence that ondansetron exposure in early pregnancy can cause cleft palate.
+Two large retrospective cohort studies and one case-control study have assessed ondansetron exposure in the first trimester and risk of cardiovascular defects with inconsistent findings.
+Relative risks (RR) ranged from 0.97 (95% CI 0.86 to 1.10) to 1.62 (95% CI 1.04, 2.54).
+A subset analysis in one of the cohort studies observed that ondansetron was specifically associated with cardiac septal defects (RR 2.05, 95% CI 1.19, 3.28); however this association was not confirmed in other studies.
+Several studies have assessed ondansetron and the risk of oral clefts with inconsistent findings.
+A retrospective cohort study of 1.8 million pregnancies in the US Medicaid Database showed an increased risk of oral clefts among 88,467 pregnancies in which oral ondansetron was prescribed in the first trimester (RR 1.24, 95% CI 1.03, 1.48), but no such association was reported with intravenous ondansetron in 23,866 pregnancies (RR 0.95, 95% CI 0.63, 1.43).
+In the subgroup of women who received both forms of administration, the RR was 1.07 (95% CI 0.59, 1.93).
+Two case-control studies, using data from birth defects surveillance programs, reported conflicting associations between maternal use of ondansetron and isolated cleft palate (OR 1.6 [95% CI 1.1, 2.3] and 0.5 [95% CI 0.3, 1.0]).
+It is unknown whether ondansetron exposure in utero in the cases of cleft palate occurred during the time of palate formation (the palate is formed between the 6th and 9th weeks of pregnancy).
 
 Animal Data
 
@@ -35,7 +36,7 @@ With the exception of short periods of maternal weight loss and a slight increas
 At doses of 10 mg/kg/day in rats and 4 mg/kg/day in rabbits, the maternal exposure margin was approximately 3.6 and 2.9 times the maximum recommended human oral dose of 0.15 mg/kg given three times a day, respectively, based on body surface area.
 
 No intravenous pre- and post-natal developmental toxicity study was performed with ondansetron.
-In an oral pre- and post-natal development study pregnant rats received doses of ondansetron up to 15 mg/kg/day from Day 17 of pregnancy to litter Day 21.
+In an oral pre- and post-natal development study pregnant rats received oral doses of ondansetron up to 15 mg/kg/day from Day 17 of pregnancy to litter Day 21.
 With the exception of a slight reduction in maternal body weight gain, there were no effects upon the pregnant rats and the pre- and postnatal development of their offspring, including reproductive performance of the mated F1 generation.
 
 ## 8.2 Lactation
@@ -45,19 +46,17 @@ Risk Summary
 It is not known whether ondansetron is present in human milk.
 There are no data on the effects of ondansetron on the breastfed infant or the effects on milk production.
 However, it has been demonstrated that ondansetron is present in the milk of rats.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ondansetron and any potential adverse effects on the breast-fed infant from ondansetron or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month.
-[See Clinical Studies (14.2).]
-Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months.
-[See Clinical Studies (14.1), Dosage and Administration (2).]
+Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month [see Clinical Studies (14.2)].
+Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months [see Clinical Studies (14.1), Dosage and Administration (2)].
 
 The clearance of ondansetron in pediatric patients aged 1 month to 4 months is slower and the half-life is ~2.5-fold longer than patients who are aged >4 to 24 months.
-As a precaution, it is recommended that patients younger than 4 months receiving this drug be closely monitored.
-[See Clinical Pharmacology (12.3).]
+As a precaution, it is recommended that patients younger than 4 months receiving this drug be closely monitored [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

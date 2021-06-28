@@ -1,5 +1,12 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity reactions [see Warnings and Precautions (5.1)]
+- QT prolongation [see Warnings and Precautions (5.2)]
+- Serotonin syndrome [see Warnings and Precautions (5.3)]
+- Masking of progressive ileus and gastric distention [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -12,7 +19,7 @@ Chemotherapy-induced Nausea and Vomiting
 Table 2.
 Adverse Reactions Reported in >5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses
 
-| Adverse Reaction | Number of Adult Patients with Reaction |  |  |
+| Adverse Reaction | Number of Adult Patients With Reaction |  |  |
 | --- | --- | --- | --- |
 | Ondansetron Injection 0.15 mg/kg x 3 (n = 419) | Metoclopramide (n = 156) | Placebo (n = 34) |  |
 | Diarrhea | 16% | 44% | 18% |
@@ -38,19 +45,19 @@ Postoperative Nausea and Vomiting
 The adverse reactions in Table 3 have been reported in ≥2% of adults receiving ondansetron at a dosage of 4 mg intravenous over 2 to 5 minutes in clinical trials.
 
 Table 3.
-Adverse Reactions Reported in ≥2% (and with Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous over 2 to 5 Minutes
+Adverse Reactions Reported in ≥2% (and with Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous Over 2 to 5 Minutes
 
 | Adverse Reactiona,b | Ondansetron Injection 4 mg Intravenous (n = 547) | Placebo (n = 547) |
 | --- | --- | --- |
 | Headache | 92 (17%) | 77 (14%) |
-| Drowsiness/sedation | 44 (8%) | 37 (7%) |
-| Injection site reaction | 21 (4%) | 18 (3%) |
+| Drowsiness/Sedation | 44 (8%) | 37 (7%) |
+| Injection-site reaction | 21 (4%) | 18 (3%) |
 | Fever | 10 (2%) | 6 (1%) |
 | Cold sensation | 9 (2%) | 8 (1%) |
 | Pruritus | 9 (2%) | 3 (<1%) |
 | Paresthesia | 9 (2%) | 2 (<1%) |
 
-a Adverse reactions: Rates of these reactions were not significantly different in the ondansetron and placebo groups b Patients were receiving multiple concomitant perioperative and postoperative medications
+a Adverse reactions: Rates of these reactions were not significantly different in the ondansetron and placebo groups. b Patients were receiving multiple concomitant perioperative and postoperative medications.
 
 Pediatric Use: Rates of adverse reactions were similar in both the ondansetron and placebo groups in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than 40 kg) administered intravenously over at least 30 seconds.
 Diarrhea was seen more frequently in patients taking Ondansetron Injection (2%) compared with placebo (<1%) in the 1-month to 24-month age-group.
@@ -65,18 +72,17 @@ The reactions have been chosen for inclusion due to a combination of their serio
 Cardiovascular
 
 Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT/QTc interval prolongation, and ST segment depression), palpitations, and syncope.
-Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT/QTc interval prolongation have been reported [see Warnings and Precautions (5.2)].
+Rarely and predominantly with intravenous ondansetron, transient ECG changes, including QT/QTc interval prolongation have been reported [see Warnings and Precautions (5.2)].
 
 General
 
-Flushing.
-Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
+Flushing: Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
 A positive lymphocyte transformation test to ondansetron has been reported, which suggests immunologic sensitivity to ondansetron.
 
 Hepatobiliary
 
 Liver enzyme abnormalities have been reported.
-Liver failure and death have been reported in patients with cancer receiving concurrent medications including potentially hepatotoxic cytotoxic chemotherapy and antibiotics.
+Liver failure and death have been reported in patients with cancer receiving concurrent medications, including potentially hepatotoxic cytotoxic chemotherapy and antibiotics.
 
 Local Reactions
 
@@ -99,4 +105,4 @@ Eye Disorders
 
 Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.
-Transient blurred vision, in some cases associated with abnormalities of accommodation, have also been reported.
+Transient blurred vision, in some cases associated with abnormalities of accommodation, has also been reported.

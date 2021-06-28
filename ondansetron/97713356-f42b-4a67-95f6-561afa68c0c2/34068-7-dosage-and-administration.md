@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Prevention of Nausea and Vomiting Associated with Initial and Repeat Courses of Emetogenic Chemotherapy
+## 2.1 Prevention of Nausea and Vomiting Associated With Initial and Repeat Courses of Emetogenic Chemotherapy
 
 Important Preparation Instructions • Dilution of Ondansetron Injection in 50 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection is required before administration to adult and pediatric patients for the prevention of nausea and vomiting associated with emetogenic chemotherapy.
 
@@ -43,9 +43,9 @@ The recommended dose and administration instructions for adult and pediatric pat
 Table 1.
 Recommended Dose and Administration of Ondansetron Injection for Prevention of Postoperative Nausea and Vomiting
 
-| Population | Recommended Single Dose | Administration Instructions | Timing of Administration |
+| Population | RecommendedSingle Dose | Administration Instructions | Timing ofAdministration |
 | --- | --- | --- | --- |
-| Adults and pediatric patients older than 12 years of age | 4 mg1 | May be administered intravenously or intramuscularly: Intravenously: infuse undiluted syringe contents (4 mg) over at least 30 seconds and preferably longer (over 2 to 5 minutes)Intramuscularly: inject undiluted syringe contents (4 mg) | Administer immediately before induction of anesthesia, or postoperatively if the patient did not receive prophylactic antiemetics and experiences nausea and/or vomiting occurring within 2 hours after surgery2,3 |
+| Adults andpediatric patients older than 12 years of age | 4 mg1 | May be administered intravenouslyor intramuscularly: Intravenously: infuse undiluted syringe contents (4 mg) over at least 30 seconds and preferably longer (over 2 to 5 minutes)Intramuscularly: inject undiluted syringe contents (4 mg) | Administer immediately before induction of anesthesia, or postoperatively if the patient did not receive prophylactic antiemetics and experiences nausea and/or vomiting occurring within 2 hours after surgery2,3 |
 | Pediatric patients 1 month to 12 years and more than 40 kg | 4 mg | Infuse intravenously over at least 30 seconds and preferably longer (over 2 to 5 minutes). |  |
 | Pediatric patients 1 month to 12 years and 40 kg or less | 0.1 mg/kg | Infuse intravenously over at least 30 seconds and preferably longer (over 2 to 5 minutes). |  |
 
@@ -53,7 +53,7 @@ Recommended Dose and Administration of Ondansetron Injection for Prevention of P
 2 Administration of a second intravenous dose of 4 mg ondansetron postoperatively in adult patients who received a 4 mg prophylactic dose does not provide additional control of nausea and vomiting [see Clinical Studies (14.3)].
 3 For pediatric patients (1 month to 12 years) prevention of nausea and vomiting was only studied in patients who had not received prophylactic ondansetron.
 
-## 2.3 Dosage Adjustment for Patients with Hepatic Impairment
+## 2.3 Dosage Adjustment for Patients With Hepatic Impairment
 
 In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), a single maximal daily dose of 8 mg infused over 15 minutes beginning 30 minutes before the start of the emetogenic chemotherapy is recommended.
 There is no experience beyond first-day administration of ondansetron in these patients [see Use in Specific Populations (8.6)].
