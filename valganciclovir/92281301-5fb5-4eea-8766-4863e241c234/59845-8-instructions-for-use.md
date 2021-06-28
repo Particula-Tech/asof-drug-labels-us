@@ -1,6 +1,6 @@
-# Instructions for Use
+# INSTRUCTIONS FOR USE
 
-Valganciclovir (val-gan-SYE-kloe-ver) Hydrochloride for Oral Solution
+Valganciclovir (val" gan sye' kloe-vir) for Oral Solution
 
 Be sure that you read, and that you understand and follow these instructions carefully to ensure proper dosing of the oral solution.
 
@@ -8,12 +8,12 @@ Important:
 
 - Avoid contact with your skin or eyes.
   If you come in contact with the contents of the oral solution, wash your skin well with soap and water or rinse your eyes well with plain water.
-- Do not use valganciclovir hydrochloride for oral solution after the expiration date on the bottle.
-- Always use the oral dispenser provided to take or give a dose of valganciclovir hydrochloride for oral solution.
-- Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to give or take a dose of valganciclovir hydrochloride for oral solution.
+- Do not use valganciclovir for oral solution after the discard date on the bottle.
+- Always use the oral dispenser provided to give or take a dose of valganciclovir for oral solution.
+- Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to give or take a dose of valganciclovir for oral solution.
 - Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose.
-  To take a dose of valganciclovir hydrochloride for oral solution, you will need the bottle of medicine and an oral dispenser provided with the medicine (see Figure 1).
-  Your pharmacist inserts the bottle adapter in the valganciclovir hydrochloride for oral solution bottle.
+  To take a dose of valganciclovir for oral solution, you will need the bottle of medicine and an oral dispenser provided with the medicine (see Figure 1).
+  Your pharmacist inserts the bottle adapter in the valganciclovir for oral solution bottle.
 
 Figure 1
 
@@ -34,12 +34,12 @@ Pull the plunger to withdraw the prescribed dose.
 
 If you see air bubbles in the oral dispenser, fully push in the plunger so that the oral solution flows back into the bottle.
 
-Then withdraw your prescribed dose of valganciclovir hydrochloride for oral solution.
+Then withdraw your prescribed dose of valganciclovir for oral solution.
 
 Step 7: Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position.
 Slowly remove the oral dispenser from the bottle adapter.
 
-Step 8: Give or take the dose of valganciclovir hydrochloride for oral solution.
+Step 8: Give or take the dose of valganciclovir for oral solution.
 
 - Place the tip of the oral dispenser in the mouth.
 - Slowly push down the oral dispenser plunger until the oral dispenser is empty.
@@ -56,14 +56,12 @@ Step 10: Rinse the oral dispenser with tap water after each use.
 
 Do not throw away the oral dispenser.
 
-How should I store valganciclovir hydrochloride for oral solution?
+How should I store valganciclovir for oral solution?
 
 - Store solution in the refrigerator at 36° to 46°F (2° to 8°C) for no longer than 49 days.
 - Do not freeze.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-Brands listed are the trademarks of their respective owners.
 
 Manufactured by:
 
@@ -78,6 +76,6 @@ Actavis Pharma, Inc.
 Parsippany, NJ 07054 USA
 
 Rev.
-A 1/2019
+B 6/2021
 
-For more information, go to www.actavis.com or call 1-800-272-5525.
+For more information, call 1-888-838-2872.

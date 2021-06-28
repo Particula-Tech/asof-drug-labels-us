@@ -13,8 +13,8 @@ Table 9 Established and Other Potentially Significant Drug Interactions with Gan
 | Name of the Concomitant Drug | Change in the Concentration of Ganciclovir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
 | Imipenem-cilastatin | Unknown | Coadministration with imipenem­ cilastatin is not recommended because generalized seizures have been reported in patients who received ganciclovir and imipenem-cilastatin. |
-| Cyclosporine or amphotericin B | Unknown | Monitor renal function when valganciclovir hydrochloride is coadministered with cyclosporine or amphotericin B because of potential increase in serum creatinine [see Warnings and Precautions (5.2)]. |
+| Cyclosporine or amphotericin B | Unknown | Monitor renal function when valganciclovir is coadministered with cyclosporine or amphotericin B because of potential increase in serum creatinine [see Warnings and Precautions (5.2)]. |
 | Mycophenolate mofetil (MMF) | ↔ Ganciclovir (in patients with normal renal function) ↔ MMF (in patients with normal renal function) | Based on increased risk, patients should be monitored for hematological and renal toxicity. |
-| Other drugs associated with myelosuppresion or nephrotoxicity (e.g., adriamycin, dapsone, doxorubicin, flucytosine, hydroxyurea, pentamidine, tacrolimus, trimethoprim/ sulfamethoxazole, vinblastine, vincristine, and zidovudine) | Unknown | Because of potential for higher toxicity, coadministration with valganciclovir hydrochloride should be considered only if the potential benefits are judged to outweigh the risks. |
+| Other drugs associated with myelosuppression or nephrotoxicity (e.g., adriamycin, dapsone, doxorubicin, flucytosine, hydroxyurea, pentamidine, tacrolimus, trimethoprim/ sulfamethoxazole, vinblastine, vincristine, and zidovudine) | Unknown | Because of potential for higher toxicity, coadministration with valganciclovir should be considered only if the potential benefits are judged to outweigh the risks. |
 | Didanosine | ↔ Ganciclovir ↑ Didanosine | Patients should be closely monitored for didanosine toxicity (e.g., pancreatitis) |
-| Probenecid | ↑ Ganciclovir | Valganciclovir hydrochloride dose may need to be reduced. Monitor for evidence of ganciclovir toxicity. |
+| Probenecid | ↑ Ganciclovir | Valganciclovir dose may need to be reduced. Monitor for evidence of ganciclovir toxicity. |

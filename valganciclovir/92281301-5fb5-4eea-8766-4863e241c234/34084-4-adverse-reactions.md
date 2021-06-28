@@ -8,8 +8,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Fetal Toxicity [see Warnings and Precautions (5.4)].
 - Mutagenesis and Carcinogenesis [see Warnings and Precautions (5.5)].
 
-The most common adverse reactions and laboratory abnormalities reported in at least one indication by greater than or equal to 20% of adult patients treated with valganciclovir hydrochloride tablets are diarrhea, pyrexia, fatigue, nausea, tremor, neutropenia, anemia, leukopenia, thrombocytopenia, headache, insomnia, urinary tract infection, and vomiting.
-The most common reported adverse reactions and laboratory abnormalities reported in greater than or equal to 20% of pediatric solid organ transplant recipients treated with valganciclovir hydrochloride for oral solution or tablets are diarrhea, pyrexia, upper respiratory tract infection, urinary tract infection, vomiting, neutropenia, leukopenia, and headache.
+The most common adverse reactions and laboratory abnormalities reported in at least one indication by greater than or equal to 20% of adult patients treated with valganciclovir tablets are diarrhea, pyrexia, fatigue, nausea, tremor, neutropenia, anemia, leukopenia, thrombocytopenia, headache, insomnia, urinary tract infection, and vomiting.
+The most common reported adverse reactions and laboratory abnormalities reported in greater than or equal to 20% of pediatric solid organ transplant recipients treated with valganciclovir for oral solution or tablets are diarrhea, pyrexia, upper respiratory tract infection, urinary tract infection, vomiting, neutropenia, leukopenia, and headache.
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,21 +20,21 @@ Adverse reactions known to be associated with ganciclovir usage can therefore be
 
 Adverse Reactions in Adults:
 
-Treatment of CMV Retinitis in AIDS Patients: In a clinical study for the treatment of CMV retinitis in HIV-infected patients, the adverse reactions reported by patients receiving valganciclovir hydrochloride tablets (n=79) or intravenous ganciclovir (n=79) for 28 days of randomized therapy (21 days induction dose and 7 days maintenance dose), respectively, included diarrhea (16%, 10%), nausea (8%, 14%), and headache (9%, 5%).
-The incidence of adverse reactions was similar between the group who received valganciclovir hydrochloride tablets and the group who received intravenous ganciclovir.
-The frequencies of neutropenia (ANC less than 500/μL) were 11% for patients receiving valganciclovir hydrochloride tablets compared with 13% for patients receiving intravenous ganciclovir.
+Treatment of CMV Retinitis in AIDS Patients: In a clinical study for the treatment of CMV retinitis in HIV-infected patients, the adverse reactions reported by patients receiving valganciclovir tablets (n=79) or intravenous ganciclovir (n=79) for 28 days of randomized therapy (21 days induction dose and 7 days maintenance dose), respectively, included diarrhea (16%, 10%), nausea (8%, 14%), and headache (9%, 5%).
+The incidence of adverse reactions was similar between the group who received valganciclovir tablets and the group who received intravenous ganciclovir.
+The frequencies of neutropenia (ANC less than 500/μL) were 11% for patients receiving valganciclovir tablets compared with 13% for patients receiving intravenous ganciclovir.
 Anemia (Hgb less than 8 g/dL) occurred in 8% of patients in each group.
 Other laboratory abnormalities occurred with similar frequencies in the two groups.
 
-Adverse reactions and laboratory abnormalities are available for 370 patients who received maintenance therapy with valganciclovir hydrochloride tablets 900 mg once daily in two open-label clinical trials.
-Approximately 252 (68%) of these patients received valganciclovir hydrochloride tablets for more than nine months (maximum duration was 36 months).
+Adverse reactions and laboratory abnormalities are available for 370 patients who received maintenance therapy with valganciclovir tablets 900 mg once daily in two open-label clinical trials.
+Approximately 252 (68%) of these patients received valganciclovir tablets for more than nine months (maximum duration was 36 months).
 Table 3 and Table 4 show pooled selected adverse reactions and abnormal laboratory values from these patients.
 
-Table 3 Pooled Selected Adverse Reactions Reported in greater than or equal to 5% of Patients who Received Valganciclovir Hydrochloride Tablets Maintenance Therapy for CMV Retinitis
+Table 3 Pooled Selected Adverse Reactions Reported in greater than or equal to 5% of Patients who Received Valganciclovir Tablets Maintenance Therapy for CMV Retinitis
 
 |  | Patients with CMV Retinitis |
 | --- | --- |
-| Adverse Reactions according to Body System | Valganciclovir Hydrochloride Tablets |
+| Adverse Reactions according to Body System | Valganciclovir Tablets |
 |  | (N=370) |
 |  | % |
 | Gastrointestinal system |  |
@@ -52,11 +52,11 @@ Table 3 Pooled Selected Adverse Reactions Reported in greater than or equal to 5
 | Eye disorders |  |
 | Retinal detachment | 15 |
 
-Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Received Valganciclovir Hydrochloride Tablets Maintenance Therapy for the Treatment of CMV Retinitis
+Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Received Valganciclovir Tablets Maintenance Therapy for the Treatment of CMV Retinitis
 
 |  | Patients with CMV Retinitis |
 | --- | --- |
-| Laboratory Abnormalities | Valganciclovir Hydrochloride Tablets |
+| Laboratory Abnormalities | Valganciclovir Tablets |
 |  | (N=370) % |
 | Neutropenia: ANC/µL |  |
 | < 500 | 19 |
@@ -74,12 +74,12 @@ Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Receiv
 | > 2.5 | 3 |
 | > 1.5 to 2.5 | 12 |
 
-Prevention of CMV Disease in Solid Organ Transplant Patients: Table 5 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received valganciclovir hydrochloride tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
+Prevention of CMV Disease in Solid Organ Transplant Patients: Table 5 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received valganciclovir tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
 The majority of the adverse reactions were of mild or moderate intensity.
 
-Table 5 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients
+Table 5 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients
 
-| Adverse Reactions | Valganciclovir Hydrochloride Tablets (N=244) % | Oral Ganciclovir (N=126) % |
+| Adverse Reactions | Valganciclovir Tablets (N=244) % | Oral Ganciclovir (N=126) % |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 30 | 29 |
@@ -93,11 +93,11 @@ Table 5 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in great
 | Pyrexia | 13 | 14 |
 
 Table 6 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from another clinical trial where kidney transplant patients received either valganciclovir once daily starting within 10 days post-transplant until Day 100 post-transplant followed by 100 days of placebo or valganciclovir once daily until Day 200 post-transplant.
-The overall safety profile of valganciclovir hydrochloride for oral solution did not change with the extension of prophylaxis until Day 200 post-transplant in high risk kidney transplant patients.
+The overall safety profile of valganciclovir for oral solution did not change with the extension of prophylaxis until Day 200 post-transplant in high risk kidney transplant patients.
 
-Table 6 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients
+Table 6 Percentage of Selected Grades 1-4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients
 
-| Adverse Reactions | Valganciclovir Hydrochloride Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Hydrochloride Tablets Day 200 Post- transplant (N=156) % |
+| Adverse Reactions | Valganciclovir Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Tablets Day 200 Post- transplant (N=156) % |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 26 | 31 |
@@ -110,11 +110,11 @@ Table 6 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in great
 | General disorders and administration site conditions |  |  |
 | Pyrexia | 12 | 9 |
 
-Tables 7 and Table 8 show selected laboratory abnormalities reported with valganciclovir hydrochloride tablets in two trials in solid organ transplant patients.
+Table 7 and Table 8 show selected laboratory abnormalities reported with valganciclovir tablets in two trials in solid organ transplant patients.
 
 Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Organ Transplant Patients*
 
-| Laboratory Abnormalities | Valganciclovir Hydrochloride Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
+| Laboratory Abnormalities | Valganciclovir Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
 | --- | --- | --- |
 | Neutropenia: ANC/µL |  |  |
 | < 500 | 5 | 3 |
@@ -132,11 +132,11 @@ Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Org
 | > 2.5 | 14 | 21 |
 | > 1.5 to 2.5 | 45 | 47 |
 
-* Laboratory abnormalities are those reported by investigators.
+*Laboratory abnormalities are those reported by investigators.
 
 Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Transplant Patients*
 
-| Laboratory Abnormalities | Valganciclovir Hydrochloride Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Hydrochloride Tablets Day 200 Post-transplant (N=156) % |
+| Laboratory Abnormalities | Valganciclovir Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Tablets Day 200 Post-transplant (N=156) % |
 | --- | --- | --- |
 | Neutropenia: ANC/µL |  |  |
 | < 500 | 9 | 10 |
@@ -154,11 +154,11 @@ Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Tr
 | > 2.5 | 17 | 14 |
 | > 1.5 to 2.5 | 50 | 48 |
 
-* Laboratory abnormalities are those reported by investigators.
+*Laboratory abnormalities are those reported by investigators.
 
-Other adverse drug reactions from valganciclovir hydrochloride in clinical trials in CMV retinitis and solid organ transplant patients
+Other adverse drug reactions from valganciclovir in clinical trials in CMV retinitis and solid organ transplant patients
 
-Other adverse drug reactions with valganciclovir hydrochloride in clinical trials in either patients with CMV retinitis or solid organ transplant patients that occurred in at least 5% of patients are listed below.
+Other adverse drug reactions with valganciclovir in clinical trials in either patients with CMV retinitis or solid organ transplant patients that occurred in at least 5% of patients are listed below.
 
 Eye disorders: retinal detachment, eye pain
 
@@ -188,7 +188,7 @@ Skin and subcutaneous tissues disorders: dermatitis, night sweats, pruritus
 
 Vascular disorders: hypotension
 
-Other adverse reactions with valganciclovir hydrochloride in clinical trials in either patients with CMV retinitis or solid organ transplant patients that occurred in less than 5% of patients are listed below.
+Other adverse reactions with valganciclovir in clinical trials in either patients with CMV retinitis or solid organ transplant patients that occurred in less than 5% of patients are listed below.
 
 Blood and lymphatic disorders: febrile neutropenia, pancytopenia, bone marrow failure (including aplastic anemia)
 
@@ -220,18 +220,18 @@ Renal and urinary disorders: renal failure
 
 Adverse Reactions in Pediatric Patients:
 
-Valganciclovir hydrochloride for oral solution and tablets have been studied in 179 pediatric solid organ transplant patients who were at risk for developing CMV disease (aged 3 weeks to 16 years) and in 24 neonates with symptomatic congenital CMV disease (aged 8 to 34 days), with duration of ganciclovir exposure ranging from 2 to 200 days [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+Valganciclovir for oral solution and tablets have been studied in 179 pediatric solid organ transplant patients who were at risk for developing CMV disease (aged 3 weeks to 16 years) and in 24 neonates with symptomatic congenital CMV disease (aged 8 to 34 days), with duration of ganciclovir exposure ranging from 2 to 200 days [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
-Prevention of CMV Disease in Pediatric Solid Organ Transplant Patients: The most frequently reported adverse reactions (greater than 10% of patients), regardless of seriousness, in pediatric solid organ transplant patients taking valganciclovir hydrochloride for oral solution until Day 100 post-transplant were diarrhea, pyrexia, upper respiratory tract infection, vomiting, anemia, neutropenia, constipation and nausea.
+Prevention of CMV Disease in Pediatric Solid Organ Transplant Patients: The most frequently reported adverse reactions (greater than 10% of patients), regardless of seriousness, in pediatric solid organ transplant patients taking valganciclovir for oral solution until Day 100 post-transplant were diarrhea, pyrexia, upper respiratory tract infection, vomiting, anemia, neutropenia, constipation and nausea.
 The most frequently reported adverse reactions (greater than 10% of patients) in pediatric kidney transplant patients treated with valganciclovir until Day 200 post-transplant were upper respiratory tract infection, urinary tract infection, diarrhea, leukopenia, neutropenia, headache, abdominal pain, tremor, pyrexia, anemia, blood creatinine increased, vomiting, and hematuria.
 
 In general, the safety profile was similar in pediatric patients compared to that observed in adult patients.
 However, the rates of certain adverse reactions, and laboratory abnormalities, such as upper respiratory tract infection, pyrexia, nasopharyngitis, anemia, and abdominal pain were reported more frequently in pediatric patients than in adults [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 Neutropenia was reported at a higher incidence in the two pediatric studies as compared to adults, but there was no correlation between neutropenia and infections observed in the pediatric population.
 
-The overall safety profile of valganciclovir hydrochloride was similar with the extension of prophylaxis until Day 200 post-transplant in high risk pediatric kidney transplant patients.
-However, the incidence of severe neutropenia (ANC < 500/μL) was higher in pediatric kidney transplant patients treated with valganciclovir hydrochloride until Day 200 (17/57, 30%) compared to pediatric kidney transplant patients treated until Day 100 (3/63, 5%).
-There were no differences in the incidence of severe (Grade 4) anemia or thrombocytopenia in patients treated 100 or 200 days with valganciclovir hydrochloride.
+The overall safety profile of valganciclovir was similar with the extension of prophylaxis until Day 200 post-transplant in high risk pediatric kidney transplant patients.
+However, the incidence of severe neutropenia (ANC < 500/μL) was higher in pediatric kidney transplant patients treated with valganciclovir until Day 200 (17/57, 30%) compared to pediatric kidney transplant patients treated until Day 100 (3/63, 5%).
+There were no differences in the incidence of severe (Grade 4) anemia or thrombocytopenia in patients treated 100 or 200 days with valganciclovir.
 
 ## 6.2 Postmarketing Experience
 

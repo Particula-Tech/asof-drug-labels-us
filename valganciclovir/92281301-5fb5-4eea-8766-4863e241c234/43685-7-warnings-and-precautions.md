@@ -3,8 +3,8 @@
 ## 5.1 Hematologic Toxicity
 
 Severe leukopenia, neutropenia, anemia, thrombocytopenia, pancytopenia, and bone marrow failure including aplastic anemia have been reported in patients treated with valganciclovir or ganciclovir.
-Valganciclovir hydrochloride for oral solution should be avoided if the absolute neutrophil count is less than 500 cells/μL, the platelet count is less than 25,000/μL, or the hemoglobin is less than 8 g/dL.
-Valganciclovir hydrochloride should also be used with caution in patients with pre-existing cytopenias and in patients receiving myelosuppressive drugs or irradiation.
+Valganciclovir for oral solution should be avoided if the absolute neutrophil count is less than 500 cells/μL, the platelet count is less than 25,000/μL, or the hemoglobin is less than 8 g/dL.
+Valganciclovir should also be used with caution in patients with pre-existing cytopenias and in patients receiving myelosuppressive drugs or irradiation.
 Cytopenia may occur at any time during treatment and may worsen with continued dosing.
 Cell counts usually begin to recover within 3 to 7 days after discontinuing drug.
 In patients with severe leukopenia, neutropenia, anemia and/or thrombocytopenia, treatment with hematopoietic growth factors may be considered.

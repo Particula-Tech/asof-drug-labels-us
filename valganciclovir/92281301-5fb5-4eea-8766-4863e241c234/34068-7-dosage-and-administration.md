@@ -2,8 +2,8 @@
 
 ## 2.1 General Dosing Information
 
-- Valganciclovir hydrochloride for oral solution should be taken with food [see Clinical Pharmacology (12.3)].
-- Valganciclovir hydrochloride for oral solution (50 mg/mL) must be prepared by the pharmacist prior to dispensing to the patient [see Dosage and Administration (2.4)].
+- Valganciclovir for oral solution should be taken with food [see Clinical Pharmacology (12.3)].
+- Valganciclovir for oral solution (50 mg/mL) must be prepared by the pharmacist prior to dispensing to the patient [see Dosage and Administration (2.4)].
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
@@ -11,13 +11,13 @@ Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric
 
 Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of transplantation until 100 days post-transplantation.
 
-The recommended once daily dosage of valganciclovir hydrochloride for oral solution is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
+The recommended once daily dosage of valganciclovir for oral solution is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
 
 Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formula).
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
 
-Table 1. k Values According to Pediatric Patient Age*
+Table 1 k Values According to Pediatric Patient Age*
 
 | k value | Pediatric Patient Age |
 | --- | --- |
@@ -26,19 +26,21 @@ Table 1. k Values According to Pediatric Patient Age*
 | 0.45 | Children aged 1 to less than 2 years |
 | 0.55 | Boys aged 2 to less than 13 years Girls aged 2 to less than 16 years |
 | 0.7 | Boys aged 13 to 16 years |
-
-*The k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1.
+| *The k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1. |  |
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
 
 All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
+The oral dispenser is graduated in 0.2 mL increments.
+A 50 mg dose is equivalent to 1 mL.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
-Valganciclovir hydrochloride for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above.
+Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above.
 
 ## 2.4 Preparation of Valganciclovir for Oral Solution
 
-- Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
-  Prior to dispensing to the patient, valganciclovir hydrochloride for oral solution must be prepared by the pharmacist as follows [see How Supplied/Storage and Handling (16)]:
+Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
+Prior to dispensing to the patient, valganciclovir for oral solution must be prepared by the pharmacist as follows [see How Supplied/Storage and Handling (16)]
+
 - Measure 91 mL of purified water in a graduated cylinder.
 - Shake the valganciclovir bottle to loosen the powder.
   Remove the child resistant bottle cap and add approximately half the total amount of water for constitution to the bottle and shake the closed bottle well for about 1 minute.
@@ -49,15 +51,15 @@ Valganciclovir hydrochloride for oral solution is the preferred formulation sinc
   This will assure the proper seating of the bottle adapter in the bottle and child resistant status of the cap.
 - Store constituted oral solution under refrigeration at 2°C to 8°C (36°F to 46°F) for no longer than 49 days.
   Do not freeze.
-- Write the date of expiration of the constituted oral solution on the bottle label.
+- Write the discard date of the constituted oral solution on the bottle label.
 
 The patient package insert, which includes the dosing instructions for patients, and 2 oral dispensers should be dispensed to the patient [see Patient Counseling Information (17)].
 
 ## 2.6 Handling and Disposal
 
-Caution should be exercised in the handling of valganciclovir hydrochloride for oral solution.
+Caution should be exercised in the handling of valganciclovir for oral solution.
 Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling, the powder for oral solution, and the constituted oral solution [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with the powder for oral solution, and the constituted oral solution with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
 
-Handle and dispose valganciclovir hydrochloride for oral solution according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity).2
+Handle and dispose valganciclovir for oral solution according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity).2

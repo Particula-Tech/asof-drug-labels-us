@@ -19,7 +19,7 @@ Advise patients that valganciclovir is considered a potential carcinogen [see No
 
 Lactation
 
-Advise mothers not to breast-feed if they are receiving valganciclovir because of the potential for hematologic toxicity and cancer in nursing infants, and because HIV can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Advise mothers not to breastfeed if they are receiving valganciclovir because of the potential for hematologic toxicity and cancer in nursing infants, and because HIV can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -37,7 +37,7 @@ Some patients will require more frequent follow-up.
 
 Administration
 
-Inform adult patients that they should use valganciclovir hydrochloride tablets, not valganciclovir hydrochloride for oral solution [see Dosage and Administration (2.1)].
+Inform adult patients that they should use valganciclovir tablets, not valganciclovir for oral solution [see Dosage and Administration (2.1)].
 
 Inform patients to take valganciclovir with food to maximize bioavailability.
 
@@ -48,4 +48,4 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 1/2019
+B 6/2021

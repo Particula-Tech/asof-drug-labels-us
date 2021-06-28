@@ -31,7 +31,7 @@ Doses resulting in two-times the human exposure of ganciclovir (based on the hum
 Fetal resorptions were present in at least 85% of rabbits and mice.
 Rabbits showed increased embryo-fetal mortality, growth retardation of the fetuses and structural abnormalities of multiple organs of the fetuses including the palate (cleft palate), eyes (anophthalmia/microphthalmia), brain (hydrocephalus), jaw (brachygnathia), kidneys and pancreas (aplastic organs).
 Increased embryo-fetal mortality was also seen in mice.
-Daily intravenous doses of approximately 1.7-times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
+Daily intravenous doses of approximately 1.7 times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
 
 Data from an ex-vivo human placental model showed that ganciclovir crosses the human placenta.
 The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 to 10 mg/mL.
@@ -67,40 +67,40 @@ Valganciclovir at the recommended doses may cause temporary or permanent female 
 
 ## 8.4 Pediatric Use
 
-Valganciclovir hydrochloride for oral solution and tablets are indicated for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age and pediatric heart transplant patients 1 month to 16 years of age at risk for developing CMV disease [see Indications and Usage (1.2), Dosage and Administration (2.3)].
+Valganciclovir for oral solution and tablets are indicated for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age and in pediatric heart transplant patients 1 month to 16 years of age at risk for developing CMV disease [see Indications and Usage (1.2), Dosage and Administration (2.3)].
 
-The use of valganciclovir hydrochloride for oral solution for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age is based on two single-arm, open-label, non-comparative studies in patients 4 months to 16 years of age.
+The use of valganciclovir for oral solution for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age is based on two single-arm, open-label, non-comparative studies in patients 4 months to 16 years of age.
 Study 1 was a safety and pharmacokinetic study in pediatric solid organ transplant patients (kidney, liver, heart, and kidney/pancreas).
-Valganciclovir hydrochloride was administered once daily within 10 days of transplantation for a maximum of 100 days post-transplantation.
-Study 2 was a safety and tolerability study where valganciclovir hydrochloride was administered once daily within 10 days of transplantation for a maximum of 200 days post-transplantation in pediatric kidney transplant patients.
+Valganciclovir was administered once daily within 10 days of transplantation for a maximum of 100 days post-transplantation.
+Study 2 was a safety and tolerability study where valganciclovir was administered once daily within 10 days of transplantation for a maximum of 200 days post-transplantation in pediatric kidney transplant patients.
 The results of these studies were supported by previous demonstration of efficacy in adult patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
-The use of valganciclovir hydrochloride for oral solution and tablets for the prevention of CMV disease in pediatric heart transplant patients 1 months to 16 years of age is based on two studies (Study 1 described above and Study 3) and was supported by previous demonstration of efficacy in adult patients [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-Study 3 was a pharmacokinetic and safety study of valganciclovir hydrochloride for oral solution in pediatric heart transplant patients less than 4 months of age who received a single dose of valganciclovir hydrochloride for oral solution on each of two consecutive days.
+The use of valganciclovir for oral solution and tablets for the prevention of CMV disease in pediatric heart transplant patients 1 month to 16 years of age is based on two studies (Study 1 described above and Study 3) and was supported by previous demonstration of efficacy in adult patients [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Study 3 was a pharmacokinetic and safety study of valganciclovir for oral solution in pediatric heart transplant patients less than 4 months of age who received a single dose of valganciclovir for oral solution on each of two consecutive days.
 A physiologically based pharmacokinetic (PBPK) model was developed based on the available pharmacokinetic data from pediatric and adult patients to support dosing in heart transplant patients less than 1 month of age.
-However, due to uncertainty in model predictions for neonates, valganciclovir hydrochloride for oral solution is not indicated for prophylaxis in this age group.
+However, due to uncertainty in model predictions for neonates, valganciclovir for oral solution is not indicated for prophylaxis in this age group.
 
-The safety and efficacy of valganciclovir hydrochloride for oral solution and tablets have not been established in children for prevention of CMV disease in pediatric liver transplant patients, in kidney transplant patients less than 4 months of age, in heart transplant patients less than 1 month of age, in pediatric AIDS patients with CMV retinitis, and in infants with congenital CMV infection.
+The safety and efficacy of valganciclovir for oral solution and tablets have not been established in children for prevention of CMV disease in pediatric liver transplant patients, in kidney transplant patients less than 4 months of age, in heart transplant patients less than 1 month of age, in pediatric AIDS patients with CMV retinitis, and in infants with congenital CMV infection.
 
-A pharmacokinetic and pharmacodynamic evaluation of valganciclovir hydrochloride for oral solution was performed in 24 neonates with congenital CMV infection involving the central nervous system.
-All patients were treated for 6 weeks with a combination of intravenous ganciclovir 6 mg per kg twice daily or valganciclovir hydrochloride for oral solution at doses ranging from 14 mg per kg to 20 mg per kg twice daily.
-The pharmacokinetic results showed that in infants greater than 7 days to 3 months of age, a dose of 16 mg per kg twice daily of valganciclovir hydrochloride for oral solution provided ganciclovir systemic exposures (median AUC0-12h = 23.6 [range 16.8 to 35.5] mcg∙h/mL; n = 6) comparable to those obtained in infants up to 3 months of age from a 6 mg per kg dose of intravenous ganciclovir twice daily (AUC0-12h = 25.3 [range 2.4 to 89.7] mcg∙h/mL; n = 18) or to the ganciclovir systemic exposures obtained in adults from a 900 mg dose of valganciclovir hydrochloride tablets twice daily.
-However, the efficacy and safety of intravenous ganciclovir and of valganciclovir hydrochloride for oral solution have not been established for the treatment of congenital CMV infection in infants and no similar disease occurs in adults; therefore, efficacy cannot be extrapolated from intravenous ganciclovir use in adults.
+A pharmacokinetic and pharmacodynamic evaluation of valganciclovir for oral solution was performed in 24 neonates with congenital CMV infection involving the central nervous system.
+All patients were treated for 6 weeks with a combination of intravenous ganciclovir 6 mg per kg twice daily or valganciclovir for oral solution at doses ranging from 14 mg per kg to 20 mg per kg twice daily.
+The pharmacokinetic results showed that in infants greater than 7 days to 3 months of age, a dose of 16 mg per kg twice daily of valganciclovir for oral solution provided ganciclovir systemic exposures (median AUC0-12h = 23.6 [range 16.8 to 35.5] mcg∙h/mL; n = 6) comparable to those obtained in infants up to 3 months of age from a 6 mg per kg dose of intravenous ganciclovir twice daily (AUC0-12h = 25.3 [range 2.4 to 89.7] mcg∙h/mL; n = 18) or to the ganciclovir systemic exposures obtained in adults from a 900 mg dose of valganciclovir tablets twice daily.
+However, the efficacy and safety of intravenous ganciclovir and of valganciclovir for oral solution have not been established for the treatment of congenital CMV infection in infants and no similar disease occurs in adults; therefore, efficacy cannot be extrapolated from intravenous ganciclovir use in adults.
 
 ## 8.5 Geriatric Use
 
-Studies of valganciclovir hydrochloride for oral solution or tablets have not been conducted in adults older than 65 years of age.
+Studies of valganciclovir for oral solution or tablets have not been conducted in adults older than 65 years of age.
 Clinical studies of valganciclovir did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-Valganciclovir hydrochloride is known to be substantially excreted by the kidneys, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because renal clearance decreases with age, valganciclovir hydrochloride should be administered with consideration of their renal status.
+Valganciclovir is known to be substantially excreted by the kidneys, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because renal clearance decreases with age, valganciclovir should be administered with consideration of their renal status.
 Renal function should be monitored and dosage adjustments should be made accordingly [see Warnings and Precautions (5.2), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Dose reduction is recommended when administering valganciclovir to patients with renal impairment [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-For adult patients on hemodialysis (CrCl less than 10 mL/min), valganciclovir hydrochloride tablets should not be used.
+For adult patients on hemodialysis (CrCl less than 10 mL/min), valganciclovir tablets should not be used.
 Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE®-IV complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

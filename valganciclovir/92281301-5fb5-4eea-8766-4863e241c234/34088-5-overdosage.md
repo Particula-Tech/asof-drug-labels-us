@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-Experience with Valganciclovir Hydrochloride Tablets: An overdose of valganciclovir hydrochloride could possibly result in increased renal toxicity [see Use in Specific Populations (8.6)].
-Because ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of valganciclovir hydrochloride [see Clinical Pharmacology (12.3)].
+Experience with Valganciclovir Tablets: An overdose of valganciclovir could possibly result in increased renal toxicity [see Use in Specific Populations (8.6)].
+Because ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of valganciclovir [see Clinical Pharmacology (12.3)].
 Adequate hydration should be maintained.
 The use of hematopoietic growth factors should be considered [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 

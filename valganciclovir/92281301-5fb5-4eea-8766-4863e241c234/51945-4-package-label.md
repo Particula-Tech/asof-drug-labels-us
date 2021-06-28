@@ -2,7 +2,7 @@
 
 NDC 0591-2579-20
 
-Valganciclovir Hydrochloride for Oral Solution 50 mg/1 mL
+Valganciclovir for Oral Solution 50 mg/mL
 
 Each mL of constituted oral solution contains 50 mg valganciclovir free base.
 
