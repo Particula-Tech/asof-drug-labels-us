@@ -8,7 +8,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 • Hypersensitivity reactions [see Contraindications (4)].
 
-• Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 
 • Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)].
 
