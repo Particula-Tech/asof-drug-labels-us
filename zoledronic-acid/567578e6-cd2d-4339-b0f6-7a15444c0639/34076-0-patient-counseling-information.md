@@ -45,12 +45,12 @@ Advise lactating women not to breastfeed during and after treatment with Zoledro
 
 Common Adverse Reactions
 
-Advise patients that the most common side effects of Zoledronic Acid Injection are nausea, fatigue, anemia, bone pain, constipation, fever, vomiting, and dyspnea.
+- Advise patients that the most common side effects of Zoledronic Acid Injection are nausea, fatigue, anemia, bone pain, constipation, fever, vomiting, and dyspnea.
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
+SAGENT® Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2020 Sagent Pharmaceuticals, Inc.
 
-Revised: February 2019
+Revised: October 2020
 
 SAGENT Pharmaceuticals®
