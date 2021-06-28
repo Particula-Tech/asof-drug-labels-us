@@ -4,7 +4,7 @@ For patent information: www.organon.com/our-solutions/patent/
 
 Copyright © 2021 Organon Global Inc. All rights reserved.
 
-uspi-og0906-5t-2106r001
+uspi-og0906-5t-2106r002
 
 Dist. by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
