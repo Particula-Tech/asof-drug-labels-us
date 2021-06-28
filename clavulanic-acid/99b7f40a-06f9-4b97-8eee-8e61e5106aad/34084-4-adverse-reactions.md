@@ -27,7 +27,7 @@ Onset of pseudomembranous colitis symptoms may occur during or after antibacteri
 
 Hypersensitivity Reactions
 
-Skin rashes, pruritus, urticaria, angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported [see WARNINGS AND PRECAUTIONS (5.1)].
+Skin rashes, pruritus, urticaria, angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported [see Warnings and Precautions (5.1)].
 
 Liver
 
@@ -37,11 +37,11 @@ It has been reported more commonly in the elderly, in males, or in patients on p
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
 The hepatic dysfunction, which may be severe, is usually reversible.
-Deaths have been reported [see CONTRAINDICATIONS (4.2), WARNINGS AND PRECAUTIONS (5.2)].
+Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.2)].
 
 Renal
 
-Interstitial nephritis, hematuria, and crystalluria have been reported [see OVERDOSAGE (10)].
+Interstitial nephritis, hematuria, and crystalluria have been reported [see Overdosage (10)].
 
 Hemic and Lymphatic Systems
 

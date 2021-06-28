@@ -13,11 +13,9 @@ Chemically, clavulanate potassium is potassium (Z)-(2R,5R)-3-(2-hydroxyethyliden
 
 Inactive Ingredients
 
-Powder for Oral Suspension
-
 Caramel flavor, carboxymethyl cellulose sodium, citric acid, colloidal silicon dioxide, microcrystalline cellulose, orange flavor, raspberry flavor, saccharin sodium, silicon dioxide, sodium citrate, and xanthan gum.
 
-Each 5 mL of reconstituted Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL contains 600 mg amoxicillin as the trihydrate and 42.9 mg clavulanic acid as the potassium salt (clavulanate potassium).
+Each 5 mL of reconstituted amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL contains 600 mg amoxicillin as the trihydrate and 42.9 mg clavulanic acid as the potassium salt (clavulanate potassium).
 The potassium content per 5 mL is 0.23 mEq (equivalent to 9 mg).
 
 Color and appearance of the dry powder

@@ -13,7 +13,7 @@ If an allergic reaction occurs, discontinue amoxicillin and clavulanate potassiu
 Use amoxicillin and clavulanate potassium with caution in patients with evidence of hepatic dysfunction.
 Hepatic toxicity associated with the use of amoxicillin/clavulanate potassium is usually reversible.
 Deaths have been reported (fewer than one death reported per estimated four million prescriptions worldwide).
-These have generally been cases associated with serious underlying diseases or concomitant medications [see Contraindications (4.2) and Adverse Reactions (6.2)].
+These have generally been cases associated with serious underlying diseases or concomitant medications [see Contraindications (4.2)andAdverse Reactions(6.2)].
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 

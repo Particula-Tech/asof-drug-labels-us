@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
-
 There are no adequate and well-controlled studies of amoxicillin and clavulanate potassium in pregnant women.
 Because animal reproduction studies are not always predictive of human response, use this drug during pregnancy only if clearly needed.
 
@@ -24,8 +22,8 @@ Ampicillin-class antibacterial drugs are excreted in human milk; therefore, caut
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of amoxicillin and clavulanate potassium in infants younger than 3 months have not been established.
-Safety and efficacy of amoxicillin and clavulanate potassium have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Description of Clinical Studies (14)].
+Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension in infants younger than 3 months have not been established.
+Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Description of Clinical Studies (14)].
 
 The safety and effectiveness of amoxicillin and clavulanate potassium for oral suspension have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
-This use is supported by evidence from adequate and well-controlled studies of amoxicillin and clavulanate potassium extended release tablets in adults with acute bacterial sinusitis, studies of amoxicillin and clavulanate potassium for oral suspension in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking amoxicillin and clavulanate potassium for oral suspension [see CLINICAL PHARMACOLOGY (12)] and adults taking amoxicillin and clavulanate potassium extended-release tablets.
+This use is supported by evidence from adequate and well-controlled studies of amoxicillin and clavulanate potassium extended-release tablets in adults with acute bacterial sinusitis, studies of amoxicillin and clavulanate potassium for oral suspension in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking amoxicillin and clavulanate potassium for oral suspension [see Clinical Pharmacology (12)] and adults taking amoxicillin and clavulanate potassium extended-release tablets.

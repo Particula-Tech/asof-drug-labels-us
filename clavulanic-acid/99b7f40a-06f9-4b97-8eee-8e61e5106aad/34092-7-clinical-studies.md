@@ -12,8 +12,8 @@ Clinical success was defined as improvement or resolution of signs and symptoms.
 Clinical failure was defined as lack of improvement or worsening of signs and/or symptoms at any time following at least 72 hours of amoxicillin and clavulanate potassium for oral suspension; patients who received an additional systemic antibacterial drug for otitis media after 3 days of therapy were considered clinical failures.
 Bacteriological eradication on therapy (day 4 to 6 visit) in the per protocol population is summarized in the following table:
 
-1. Table 5.
-   Bacteriologic Eradication Rates in the Per Protocol Population
+- Table 3.
+  Bacteriologic Eradication Rates in the Per Protocol Population
 
 | Pathogen | Bacteriologic Eradication on Therapy |  |  |
 | --- | --- | --- | --- |
@@ -28,27 +28,31 @@ Clinical assessments were made in the per protocol population 2 to 4 days post-t
 Patients who responded to therapy 2 to 4 days post-therapy were followed for 15 to 18 days post-therapy to assess them for acute otitis media.
 Nonresponders at 2 to 4 days post-therapy were considered failures at the latter timepoint.
 
-1. Table 6.
-   Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients With Penicillin MICs = 2 mcg/mL or 4 mcg/mL**)
+1. Table 4.
+   Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients With Penicillin MICs = 2 mcg/mL or 4 mcg/mL*)
 
 | Pathogen | 2 to 4 Days Post-Therapy (Primary Endpoint) |  |  |
 | --- | --- | --- | --- |
 | Clinical Response |  |  |  |
-| n/N | % | 95% CICI = confidence intervals; 95% CIs are not adjusted for multiple comparisons. |  |
+| n/N | % | 95% CI† |  |
 | All S. pneumoniae | 122/137 | 89 | (82.6, 93.7) |
 | S. pneumoniae with penicillin MIC = 2 mcg/mL | 17/20 | 85 | (62.1, 96.8) |
 | S. pneumoniae with penicillinMIC = 4 mcg/mL | 11/14 | 79 | (49.2, 95.3) |
 | H. influenzae | 141/162 | 87 | (80.9, 91.8) |
 | M. catarrhalis | 22/26 | 85 | (65.1, 95.6) |
-| Pathogen | 15 to 18 Days Post-TherapyClinical assessments at 15 to 18 days post-therapy may have been confounded by viral infections and new episodes of acute otitis media with time elapsed post-treatment. (Secondary Endpoint) |  |  |
+| Pathogen | 15 to 18 Days Post-Therapy‡ (Secondary Endpoint) |  |  |
 | Clinical Response |  |  |  |
-| n/N | % | 95% CI |  |
+| n/N | % | 95% CI† |  |
 | All S. pneumoniae | 95/136 | 70 | (61.4, 77.4) |
 | S. pneumoniae with penicillin MIC = 2 mcg/mL | 11/20 | 55 | (31.5, 76.9) |
 | S. pneumoniae with penicillin MIC = 4 mcg/mL | 5/14 | 36 | (12.8, 64.9) |
 | H. influenzae | 106/156 | 68 | (60, 75.2) |
 | M. catarrhalis | 14/25 | 56 | (34.9, 75.6) |
 
-** S. pneumoniae strains with penicillin MICs of 2 mcg/mL or 4 mcg/mL are considered resistant to penicillin.
+* S. pneumoniae strains with penicillin MICs of 2 mcg/mL or 4 mcg/mL are considered resistant to penicillin.
+
+† CI = confidence intervals; 95% CIs are not adjusted for multiple comparisons.
+
+1. ‡ Clinical assessments at 15 to 18 days post-therapy may have been confounded by viral infections and new episodes of acute otitis media with time elapsed post-treatment.
 
 In the intent-to-treat analysis, overall clinical outcomes at 2 to 4 days and 15 to 18 days post treatment in patients with S. pneumoniae with penicillin MIC = 2 mcg/mL and 4 mcg/mL were 29/41 (71%) and 17/41 (42%), respectively.

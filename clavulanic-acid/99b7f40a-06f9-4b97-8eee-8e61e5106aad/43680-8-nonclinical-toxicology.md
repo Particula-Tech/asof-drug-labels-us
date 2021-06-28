@@ -9,5 +9,5 @@ Amoxicillin and clavulanate potassium was negative in the mouse micronucleus tes
 Potassium clavulanate alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test, and was negative in each of these assays.
 
 Amoxicillin and clavulanate potassium (2:1 ratio formulation of amoxicillin:clavulanate) at oral doses of up to 1,200 mg/kg/day was found to have no effect on fertility and reproductive performance in rats.
-Based on body surface area (assuming a 20 kg child), this dose of amoxicillin is approximately 2 times the recommended clinical amoxicillin and clavulanate potassium dose of 90/6.4 mg/kg/day.
+Based on body surface area (assuming a 20 kg child), this dose of amoxicillin is approximately 2 times the recommended clinical amoxicillin and clavulanate potassium for oral suspension dose of 90/6.4 mg/kg/day.
 For clavulanate, the dose multiple is approximately 15 times higher than the recommended clinical daily dose, also based on body surface area.
