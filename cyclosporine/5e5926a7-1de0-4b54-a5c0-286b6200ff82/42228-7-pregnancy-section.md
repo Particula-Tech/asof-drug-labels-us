@@ -1,7 +1,5 @@
 # Pregnancy
 
-## Pregnancy Category C
-
 Animal studies have shown reproductive toxicity in rats and rabbits.
 Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally).
 Sandimmune Oral Solution (cyclosporine oral solution, USP) has been shown to be embryo- and fetotoxic in rats and rabbits when given in doses 2-5 times the human dose.
@@ -27,4 +25,4 @@ More information on cyclosporine use in pregnancy is available from Novartis Pha
 A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
 Renal function and blood pressure in these children were normal.
 
-The alcohol content of the Sandimmune formulations should also be taken into account in pregnant women (See WARNINGS, Special Excipients).
+The alcohol content of the Sandimmune formulations should also be taken into account in pregnant women (see WARNINGS, Special Excipients).

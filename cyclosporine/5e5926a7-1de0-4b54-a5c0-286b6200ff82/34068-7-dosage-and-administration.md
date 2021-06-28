@@ -17,13 +17,13 @@ Specific Populations
 
 Renal Impairment
 
-Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (See CLINICAL PHARMACOLOGY).
-However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (See WARNINGS and PRECAUTIONS).
+Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (see CLINICAL PHARMACOLOGY).
+However, due to its nephrotoxic potential (see WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (see WARNINGS and PRECAUTIONS).
 
 Hepatic Impairment
 
-The clearance of cyclosporine may be significantly reduced in severe liver disease patients (See CLINICAL PHARMACOLOGY).
-Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (See WARNINGS and PRECAUTIONS).
+The clearance of cyclosporine may be significantly reduced in severe liver disease patients (see CLINICAL PHARMACOLOGY).
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (see WARNINGS and PRECAUTIONS).
 
 Pediatrics
 

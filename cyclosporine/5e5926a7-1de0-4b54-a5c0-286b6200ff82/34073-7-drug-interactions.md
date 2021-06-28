@@ -4,7 +4,7 @@ A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safe
 
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
 In addition, concomitant use of nonsteroidal anti-inflammatory drugs (NSAIDs) with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
-Caution should be exercised when using other drugs which are known to impair renal function (See WARNINGS, Nephrotoxicity).
+Caution should be exercised when using other drugs which are known to impair renal function (see WARNINGS, Nephrotoxicity).
 
 Drugs That May Potentiate Renal Dysfunction
 
@@ -21,8 +21,8 @@ If a significant impairment of renal function occurs, reduction in the dosage of
 
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
-Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Appropriate Sandimmune (cyclosporine) dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (See Blood Concentration Monitoring).
+Compounds that decrease cyclosporine absorption, such as orlistat, should be avoided.
+Appropriate Sandimmune (cyclosporine) dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring).
 
 1.
 Drugs That Increase Cyclosporine Concentrations
@@ -41,7 +41,7 @@ Drugs That Increase Cyclosporine Concentrations
 
 HIV Protease inhibitors
 
-The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
+The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however, no formal studies of the interaction are available.
 Care should be exercised when these drugs are administered concomitantly.
 
 Grapefruit juice
@@ -62,7 +62,7 @@ Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
 Bosentan
 
-Co-administration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (See also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Co-administration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
 Coadministration of cyclosporine with bosentan should be avoided.
 
 Boceprevir
@@ -100,7 +100,7 @@ If digoxin is used concurrently with cyclosporine, serum digoxin concentrations 
 
 Colchicine
 
-There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
+There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine, such as myopathy and neuropathy, especially in patients with renal dysfunction.
 Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
 If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
 
@@ -136,7 +136,7 @@ The coadministration of cyclosporine with aliskiren is not recommended.
 
 Bosentan
 
-In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on Day 1 and 2-fold on Day 8 (steady state)) compared to when bosentan was given alone as a single dose on Day 1 (See also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on Day 1 and 2-fold on Day 8 (steady state)) compared to when bosentan was given alone as a single dose on Day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
 Coadministration of cyclosporine with bosentan should be avoided.
 
 Dabigatran
@@ -153,7 +153,7 @@ Control of potassium levels in these situations is advisable.
 
 Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
 
-Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (See WARNINGS).
+Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (see WARNINGS).
 
 Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepenta acetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
 Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood levels and occasional reports of reversible decreases in renal function.
@@ -161,9 +161,9 @@ Consequently, the dose of diclofenac should be in the lower end of the therapeut
 
 Methotrexate Interaction
 
-Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
+Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N = 20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
 The clinical significance of this interaction is not known.
-Cyclosporine concentrations do not appear to have been altered (N=6).
+Cyclosporine concentrations do not appear to have been altered (N = 6).
 
 Sirolimus
 

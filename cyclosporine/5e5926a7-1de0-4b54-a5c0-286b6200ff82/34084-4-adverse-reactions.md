@@ -24,7 +24,7 @@ The following reactions occurred in 3% or greater of 892 patients involved in cl
 |  | Randomized Kidney Patients |  | All Sandimmune (cyclosporine) Patients |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Sandimmune | Azathioprine | Kidney | Heart | Liver |
-| Body System/ | (N=227) | (N=228) | (N=705) | (N=112) | (N=75) |
+| Body System/ | (N = 227) | (N = 228) | (N = 705) | (N = 112) | (N = 75) |
 | Adverse Reactions | % | % | % | % | % |
 | Genitourinary |  |  |  |  |  |
 | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
@@ -63,7 +63,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | --- | --- | --- | --- |
 |  | Randomized Patients |  | All Sandimmune Patients |
 |  | Sandimmune | Azathioprine |  |
-|  | (N=227) | (N=228) | (N=705) |
+|  | (N = 227) | (N = 228) | (N = 705) |
 | Reason for Discontinuation | % | % | % |
 | Renal Toxicity | 5.7 | 0 | 5.4 |
 | Infection | 0 | 0.4 | 0.9 |
@@ -75,15 +75,15 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Other | 0 | 0 | 0.7 |
 | Sandimmune (cyclosporine) was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
-Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, and parasitic).
 Both generalized and localized infections can occur.
 Preexisting infections may also be aggravated.
-Fatal outcomes have been reported (See WARNINGS).
+Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
 |  | Sandimmune Treatment | Standard Treatment* |
-|  | (N=227) | (N=228) |
+|  | (N = 227) | (N = 228) |
 | Complication | % of Complications | % of Complications |
 | Septicemia | 5.3 | 4.8 |
 | Abscesses | 4.4 | 5.3 |
@@ -94,8 +94,7 @@ Fatal outcomes have been reported (See WARNINGS).
 | Urinary Tract Infections | 21.1 | 20.2 |
 | Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
-
-*Some patients also received ALG.
+| *Some patients also received ALG. |  |  |
 
 Cremophor® EL (polyoxyethylated castor oil) is known to cause hyperlipemia and electrophoretic abnormalities of lipoproteins.
 These effects are reversible upon discontinuation of treatment but are usually not a reason to stop treatment.
@@ -104,11 +103,11 @@ These effects are reversible upon discontinuation of treatment but are usually n
 
 Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis, and liver failure; serious and/or fatal outcomes have been reported (See WARNINGS, Hepatotoxicity).
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis, and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (See WARNINGS, Polyoma Virus Infection).
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
 Headache, Including Migraine
 

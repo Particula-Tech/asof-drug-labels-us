@@ -70,8 +70,6 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 50 mL
-
 Rx Only NDC 0078-0110-22
 
 SANDIMMUNE® Oral Solution
@@ -94,8 +92,6 @@ dehydrated alcohol, Ph.
 Helv 12.5%
 
 # PRINCIPAL DISPLAY PANEL
-
-Package Label – 250 mg(5 mL ampul)
 
 Rx Only NDC 0078-0109-01
 

@@ -2,7 +2,7 @@
 
 Kidney, Liver, and Heart Transplant
 
-(See BOXED WARNING): Sandimmune (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
+Sandimmune (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity (see BOXED WARNING).
 
 Nephrotoxicity
 
@@ -52,8 +52,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  | Decrease in tubular function | Decrease in perfusion > decrease in tubular function |
 |  | (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased Sandimmune (cyclosporine) | Responds to increased steroids or antilymphocyte globulin |
-
-ap <0.05, bp <0.01, cp <0.001, dp <0.0001.
+| ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001. |  |  |
 
 A form of chronic progressive cyclosporine-associated nephrotoxicity is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
 From 5% to 15% of transplant recipients will fail to show a reduction in a rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
@@ -70,14 +69,14 @@ Impaired renal function at any time requires close monitoring, and frequent dosa
 In patients with persistent high elevations of BUN and creatinine who are unresponsive to dosage adjustments, consideration should be given to switching to other immunosuppressive therapy.
 In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the Sandimmune (cyclosporine) dosage to a very high level in an attempt to reverse the rejection.
 
-Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Sandimmune with other drugs that may impair renal function (See PRECAUTIONS, Drug Interactions).
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Sandimmune with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
 
 Thrombotic Microangiopathy
 
 Occasionally patients have developed a syndrome of thrombocytopenia and microangiopathic hemolytic anemia which may result in graft failure.
 The vasculopathy can occur in the absence of rejection and is accompanied by avid platelet consumption within the graft as demonstrated by Indium 111 labeled platelet studies.
 Neither the pathogenesis nor the management of this syndrome is clear.
-Though resolution has occurred after reduction or discontinuation of Sandimmune (cyclosporine) and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans (See ADVERSE REACTIONS).
+Though resolution has occurred after reduction or discontinuation of Sandimmune (cyclosporine) and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans (see ADVERSE REACTIONS).
 
 Hyperkalemia
 
@@ -87,7 +86,7 @@ Hepatotoxicity
 
 Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
 Most reports included patients with significant co-morbidities, underlying conditions and other confounding factors, including infectious complications and comedications with hepatotoxic potential.
-In some cases, mainly in transplant patients, fatal outcomes have been reported (See ADVERSE REACTIONS, Postmarketing Experience).
+In some cases, mainly in transplant patients, fatal outcomes have been reported (see ADVERSE REACTIONS, Postmarketing Experience).
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
 This was usually noted during the first month of therapy when high doses of Sandimmune (cyclosporine) were used.
@@ -105,7 +104,7 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 Serious Infections
 
 Patients receiving immunosuppressants, including Sandimmune, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
-These infections may lead to serious, including fatal, outcomes (See BOXED WARNING, and ADVERSE REACTIONS).
+These infections may lead to serious, including fatal, outcomes (see BOXED WARNING, and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
 
@@ -113,7 +112,7 @@ Patients receiving immunosuppressants, including Sandimmune, are at increased ri
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
 
-PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (See ADVERSE REACTIONS/Postmarketing Experience).
+PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS, Postmarketing Experience).
 Patient monitoring may help detect patients at risk for PVAN.
 
 Cases of PML have been reported in patients treated with Sandimmune.
@@ -155,11 +154,11 @@ In fact, patients experiencing anaphylactic reactions have been treated subseque
 
 Alcohol (ethanol)
 
-The alcohol content (See DESCRIPTION) of Sandimmune should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+The alcohol content (see DESCRIPTION) of Sandimmune should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
 For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
 The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
 
-Care should be taken in using Sandimmune (cyclosporine) with nephrotoxic drugs (See PRECAUTIONS).
+Care should be taken in using Sandimmune (cyclosporine) with nephrotoxic drugs (see PRECAUTIONS).
 
 Conversion from Neoral to Sandimmune
 
@@ -174,12 +173,12 @@ Patients with malabsorption may have difficulty in achieving therapeutic concent
 
 Hypertension
 
-Hypertension is a common side effect of Sandimmune (cyclosporine) therapy (See ADVERSE REACTIONS).
+Hypertension is a common side effect of Sandimmune (cyclosporine) therapy (see ADVERSE REACTIONS).
 Mild or moderate hypertension is more frequently encountered than severe hypertension and the incidence decreases over time.
 Antihypertensive therapy may be required.
 Control of blood pressure can be accomplished with any of the common antihypertensive agents.
 However, since cyclosporine may cause hyperkalemia, potassium-sparing diuretics should not be used.
-While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, care should be taken since interference with cyclosporine metabolism may require a dosage adjustment (See Drug Interactions).
+While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, care should be taken since interference with cyclosporine metabolism may require a dosage adjustment (see Drug Interactions).
 
 Vaccination
 

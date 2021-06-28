@@ -1,7 +1,7 @@
 # Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Cyclosporine gave no evidence of mutagenic or teratogenic effects in appropriate test systems.
-Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats (See Pregnancy).
+Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats (see Pregnancy).
 
 Carcinogenicity studies were carried out in male and female rats and mice.
 In the 78-week mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
