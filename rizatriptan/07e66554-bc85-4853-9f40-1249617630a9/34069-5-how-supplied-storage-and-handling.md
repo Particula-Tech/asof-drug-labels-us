@@ -8,6 +8,5 @@ NDC 67877-261-18, carton of 18 tablets NDC 67877-261-25, carton of 12 tablets Ri
 They are supplied as follows: NDC 67877-262-30, bottle of 30 tablets.
 NDC 67877-262-01, bottle of 100 tablets.
 NDC 67877-262-05, bottle of 500 tablets.
-NDC 67877-262-18, carton of 18 tablets NDC 67877-262-25, carton of 12 tablets Storage
-
-Store rizatriptan benzoate tablets, USP at room temperature, 15°C to 30°C (59°F to 86°F).
+NDC 67877-262-18, carton of 18 tablets NDC 67877-262-25, carton of 12 tablets Storage Store rizatriptan benzoate tablets, USP at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.

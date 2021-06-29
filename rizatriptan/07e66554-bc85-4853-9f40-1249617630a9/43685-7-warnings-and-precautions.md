@@ -2,23 +2,23 @@
 
 ## 5.1 Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina
 
-Rizatriptan benzoate tablets, USP should not be given to patients with ischemic or vasospastic coronary artery disease.
-There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of rizatriptan benzoate tablets, USP.
+Rizatriptan benzoate tablets should not be given to patients with ischemic or vasospastic coronary artery disease.
+There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of rizatriptan benzoate tablets.
 Some of these reactions occurred in patients without known coronary artery disease (CAD).
-5-HT1 agonists, including rizatriptan benzoate tablets, USP may cause coronary artery vasospasm (Prinzmetal's Angina), even in patients without a history of CAD.
-Triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) should have a cardiovascular evaluation prior to receiving rizatriptan benzoate tablets, USP.
-If there is evidence of CAD or coronary artery vasospasm, rizatriptan benzoate tablets, USP should not be administered [see Contraindications (4)].
-For patients who have a negative cardiovascular evaluation, consideration should be given to administration of the first rizatriptan benzoate tablets, USP dose in a medically- supervised setting and performing an electrocardiogram (ECG) immediately following rizatriptan benzoate tablets, USP administration.
-Periodic cardiovascular evaluation should be considered in intermittent long-term users of rizatriptan benzoate tablets, USP who have cardiovascular risk factors.
+5-HT1 agonists, including rizatriptan benzoate tablets may cause coronary artery vasospasm (Prinzmetal's Angina), even in patients without a history of CAD.
+Triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) should have a cardiovascular evaluation prior to receiving rizatriptan benzoate tablets.
+If there is evidence of CAD or coronary artery vasospasm, rizatriptan benzoate tablets should not be administered [see Contraindications (4)].
+For patients who have a negative cardiovascular evaluation, consideration should be given to administration of the first rizatriptan benzoate tablets dose in a medically supervised setting and performing an electrocardiogram (ECG) immediately following rizatriptan benzoate tablets administration.
+Periodic cardiovascular evaluation should be considered in intermittent long-term users of rizatriptan benzoate tablets who have cardiovascular risk factors.
 
 ## 5.2 Arrhythmias
 
 Life-threatening disturbances of cardiac rhythm, including ventricular tachycardia and ventricular fibrillation leading to death, have been reported within a few hours following the administration of 5-HT1 agonists.
-Discontinue rizatriptan benzoate tablets, USP if these disturbances occur.
+Discontinue rizatriptan benzoate tablets if these disturbances occur.
 
 ## 5.3 Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure
 
-As with other 5-HT1 agonists, sensations of tightness, pain, pressure, and heaviness in the precordium, throat, neck and jaw commonly occur after treatment with rizatriptan benzoate tablets, USP and are usually non­ cardiac in origin.
+As with other 5-HT1 agonists, sensations of tightness, pain, pressure, and heaviness in the precordium, throat, neck and jaw commonly occur after treatment with rizatriptan benzoate tablets and are usually non­-cardiac in origin.
 However, if a cardiac origin is suspected, patients should be evaluated.
 Patients shown to have CAD and those with Prinzmetal's variant angina should not receive 5-HT1 agonists.
 
@@ -29,12 +29,12 @@ In a number of cases, it appears possible that the cerebrovascular events were p
 Also, patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, transient ischemic attack).
 Discontinue rizatriptan benzoate tablets, USP if a cerebrovascular event occurs.
 As with other acute migraine therapies, before treating headaches in patients not previously diagnosed as migraineurs, and in migraineurs who present with atypical symptoms, care should be taken to exclude other potentially serious neurological conditions.
-Rizatriptan benzoate tablets, USP should not be administered to patients with a history of stroke or transient ischemic attack [see Contraindications (4)].
+Rizatriptan benzoate tablets should not be administered to patients with a history of stroke or transient ischemic attack [see Contraindications (4)].
 
 ## 5.5 Other Vasospasm Reactions
 
-5-HT1 agonists, including rizatriptan benzoate tablets, USP, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
-In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, the suspected vasospasm reaction should be ruled out before receiving additional rizatriptan benzoate tablets, USP doses.
+5-HT1 agonists, including rizatriptan benzoate tablets, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
+In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, the suspected vasospasm reaction should be ruled out before receiving additional rizatriptan benzoate tablets doses.
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
 Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
 
@@ -46,13 +46,13 @@ Detoxification of patients, including withdrawal of the overused drugs, and trea
 
 ## 5.7 Serotonin Syndrome
 
-Serotonin syndrome may occur with triptans, including rizatriptan benzoate tablets, USP particularly during co-administration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.5)].
+Serotonin syndrome may occur with triptans, including rizatriptan benzoate tablets particularly during co-administration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.5)].
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 The onset of symptoms can occur within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
-Rizatriptan benzoate tablets, USP treatment should be discontinued if serotonin syndrome is suspected [see Drug Interactions (7.4) and Patient Counseling Information (17)].
+Rizatriptan benzoate tablets treatment should be discontinued if serotonin syndrome is suspected [see Drug Interactions (7.4) and Patient Counseling Information (17)].
 
 ## 5.8 Increase in Blood Pressure
 
-Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients with and without a history of hypertension receiving 5-HT1 agonists, including rizatriptan benzoate tablets, USP.
-In healthy young adult male and female patients who received maximal doses of rizatriptan benzoate tablets, USP (10 mg every 2 hours for 3 doses), slight increases in blood pressure (approximately 2-3 mmHg) were observed.
-Rizatriptan benzoate tablets, USP is contraindicated in patients with uncontrolled hypertension [see Contraindications (4)].
+Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients with and without a history of hypertension receiving 5-HT1 agonists, including rizatriptan benzoate tablets.
+In healthy young adult male and female patients who received maximal doses of rizatriptan benzoate tablets (10 mg every 2 hours for 3 doses), slight increases in blood pressure (approximately 2-3 mmHg) were observed.
+Rizatriptan benzoate tablets is contraindicated in patients with uncontrolled hypertension [see Contraindications (4)].

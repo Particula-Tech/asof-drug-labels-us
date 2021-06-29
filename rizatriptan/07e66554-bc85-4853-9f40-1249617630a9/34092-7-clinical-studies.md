@@ -2,21 +2,21 @@
 
 ## 14.1 Adults
 
-The efficacy of rizatriptan benzoate tablets, USP was established in four multicenter, randomized, placebo-controlled trials.
+The efficacy of rizatriptan benzoate tablets was established in four multicenter, randomized, placebo-controlled trials.
 Patients enrolled in these studies were primarily female (84%) and Caucasian (88%), with a mean age of 40 years (range of 18 to 71).
 Patients were instructed to treat a moderate to severe headache.
 Headache response, defined as a reduction of moderate or severe headache pain to no or mild headache pain, was assessed for up to 2 hours (Study 1) or up to 4 hours after dosing (Studies 2, 3 and 4).
 Associated symptoms of nausea, photophobia, and phonophobia and maintenance of response up to 24 hours post-dose were evaluated.
-A second dose of rizatriptan benzoate tablets, USP was allowed 2 to 24 hours after dosing for treatment of recurrent headache in Studies 1 and 2.
+A second dose of rizatriptan benzoate tablets was allowed 2 to 24 hours after dosing for treatment of recurrent headache in Studies 1 and 2.
 Additional analgesics and/or antiemetics were allowed 2 hours after initial treatment for rescue in all four studies.
-In all studies, the percentage of patients achieving headache response 2 hours after treatment was significantly greater in patients who received either rizatriptan benzoate tablets, USP 5 or 10 mg compared to those who received placebo.
+In all studies, the percentage of patients achieving headache response 2 hours after treatment was significantly greater in patients who received either rizatriptan benzoate tablets 5 or 10 mg compared to those who received placebo.
 In a separate study, doses of 2.5 mg were not different from placebo.
 Doses greater than 10 mg were associated with an increased incidence of adverse effects.
 The results from the four controlled studies are summarized in Table 2.
 
 Table 2: Response Rates 2 Hours Following Treatment of Initial Headache in Studies 1, 2, 3, and 4
 
-| Study | Placebo | Rizatriptan Benzoate Tablets, USP 5 mg | Rizatriptan Benzoate Tablets, USP 10 mg |
+| Study | Placebo | Rizatriptan Benzoate Tablets 5 mg | Rizatriptan Benzoate Tablets 10 mg |
 | --- | --- | --- | --- |
 | 1 | 35% (n=304) | 62%* (n=458) | 71%*,† (n=456) |
 | 2‡ | 37% (n=82) | -- | 77%* (n=320) |
@@ -27,10 +27,10 @@ Table 2: Response Rates 2 Hours Following Treatment of Initial Headache in Studi
 Comparisons of drug performance based upon results obtained in different clinical trials may not be reliable.
 Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.
 The estimated probability of achieving an initial headache response within 2 hours following treatment in pooled Studies 1, 2, 3, and 4 is depicted in Figure 1.
-Figure 1: Estimated Probability of Achieving an Initial Headache Response by 2 Hours in Pooled Studies 1, 2, 3, and 4* *Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate tablets, USP or placebo.
+Figure 1: Estimated Probability of Achieving an Initial Headache Response by 2 Hours in Pooled Studies 1, 2, 3, and 4* *Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate tablets or placebo.
 The averages displayed are based on pooled data from 4 placebo-controlled, outpatient trials providing evidence of efficacy (Studies 1, 2, 3, and 4).
 Patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
-For patients with migraine-associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of rizatriptan benzoate tablets, USP compared to placebo.
+For patients with migraine-associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of rizatriptan benzoate tablets compared to placebo.
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain response in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 

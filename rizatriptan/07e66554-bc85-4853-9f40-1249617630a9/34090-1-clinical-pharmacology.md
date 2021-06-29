@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Rizatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
-Rizatriptan benzoate tablets, USP presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
+Rizatriptan benzoate tablets presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
 
 ## 12.3 Pharmacokinetics
 
@@ -11,9 +11,9 @@ Absorption Rizatriptan is completely absorbed following oral administration.
 The mean oral absolute bioavailability of the rizatriptan benzoate tablet is about 45%, and mean peak plasma concentrations (Cmax) are reached in approximately 1-1.5 hours (Tmax).
 The presence of a migraine headache did not appear to affect the absorption or pharmacokinetics of rizatriptan.
 Food has no significant effect on the bioavailability of rizatriptan but delays the time to reach peak concentration by an hour.
-In clinical trials, rizatriptan benzoate tablets, USP was administered without regard to food.
+In clinical trials, rizatriptan benzoate tablets was administered without regard to food.
 
-The bioavailability and Cmax of rizatriptan were similar following administration of rizatriptan benzoate tablets, USP and rizatriptan benzoate orally disintegrating tablets, but the rate of absorption is somewhat slower with rizatriptan benzoate orally disintegrating tablets, with Tmax delayed by up to 0.7 hour.
+The bioavailability and Cmax of rizatriptan were similar following administration of rizatriptan benzoate tablets and rizatriptan benzoate orally disintegrating tablets, but the rate of absorption is somewhat slower with rizatriptan benzoate orally disintegrating tablets, with Tmax delayed by up to 0.7 hour.
 AUC of rizatriptan is approximately 30% higher in females than in males.
 No accumulation occurred on multiple dosing.
 
@@ -41,12 +41,12 @@ Race: Pharmacokinetic data revealed no significant differences between African A
 Drug Interactions [See also Drug Interactions (7).]
 Monoamine oxidase inhibitors: Rizatriptan is principally metabolized via monoamine oxidase, ‘A’ subtype (MAO-A).
 Plasma concentrations of rizatriptan may be increased by drugs that are selective MAO-A inhibitors (e.g., moclobemide) or nonselective MAO inhibitors [type A and B] (e.g., isocarboxazid, phenelzine, tranylcypromine, and pargyline).
-In a drug interaction study, when rizatriptan benzoate tablets, USP 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective, reversible MAO-A inhibitor, moclobemide 150 mg t.i.d., there were mean increases in rizatriptan AUC and Cmax of 119% and 41% respectively; and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%.
+In a drug interaction study, when rizatriptan benzoate tablets 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective, reversible MAO-A inhibitor, moclobemide 150 mg t.i.d., there were mean increases in rizatriptan AUC and Cmax of 119% and 41% respectively; and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%.
 The interaction would be expected to be greater with irreversible MAO inhibitors.
 No pharmacokinetic interaction is anticipated in patients receiving selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.5)].
 Propranolol: In a study of concurrent administration of propranolol 240 mg/day and a single dose of rizatriptan 10 mg in healthy adult subjects (n=11), mean plasma AUC for rizatriptan was increased by 70% during propranolol administration, and a four-fold increase was observed in one subject.
 The AUC of the active N-monodesmethyl metabolite of rizatriptan was not affected by propranolol [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
 Nadolol/Metoprolol: In a drug interactions study, effects of multiple doses of nadolol 80 mg or metoprolol 100 mg every 12 hours on the pharmacokinetics of a single dose of 10 mg rizatriptan were evaluated in healthy subjects (n=12).
 No pharmacokinetic interactions were observed.
-Paroxetine: In a study of the interaction between the selective serotonin reuptake inhibitor (SSRI) paroxetine 20 mg/day for two weeks and a single dose of rizatriptan benzoate tablets, USP 10 mg in healthy subjects (n=12), neither the plasma concentrations of rizatriptan nor its safety profile were affected by paroxetine [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Patient Counseling Information (17)].
-Oral contraceptives: In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan benzoate tablets, USP (10 mg/day to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.
+Paroxetine: In a study of the interaction between the selective serotonin reuptake inhibitor (SSRI) paroxetine 20 mg/day for two weeks and a single dose of rizatriptan benzoate tablets 10 mg in healthy subjects (n=12), neither the plasma concentrations of rizatriptan nor its safety profile were affected by paroxetine [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Patient Counseling Information (17)].
+Oral contraceptives: In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan benzoate tablets (10 mg/day to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.

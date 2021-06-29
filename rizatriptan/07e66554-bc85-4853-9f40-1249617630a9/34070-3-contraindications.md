@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Rizatriptan benzoate tablets, USP are contraindicated in patients with:
+Rizatriptan benzoate tablets are contraindicated in patients with:
 
 - Ischemic coronary artery disease (angina pectoris, history of myocardial infarction, or documented silent ischemia), or other significant underlying cardiovascular disease [see Warnings and Precautions (5.1)].
 - Coronary artery vasospasm including Prinzmetal's angina [see Warnings and Precautions(5.1)].
