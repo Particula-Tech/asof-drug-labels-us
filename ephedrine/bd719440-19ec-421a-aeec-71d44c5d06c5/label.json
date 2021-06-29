@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA213536"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Eton Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71863-210-05",
+    "71863-210-06",
+    "71863-211-05",
+    "71863-211-06",
+    "71863-212-01",
+    "71863-212-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ephedrine hydrochloride",
+      "name": "REZIPRES"
+    }
+  ],
+  "setid": "bd719440-19ec-421a-aeec-71d44c5d06c5",
+  "source": "dailymed"
+}
