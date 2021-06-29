@@ -12,7 +12,51 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trial Experience in Adults
 
-Clinical Trial Experience with Noxafil Injection
+Clinical Trial Experience with Noxafil Injection and Noxafil Delayed-Release Tablets for the Treatment of Invasive Aspergillosis
+
+The safety of Noxafil injection and Noxafil delayed-release tablet was assessed in a randomized, double-blind, active-controlled clinical study of Noxafil injection and Noxafil delayed-release tablets versus voriconazole for treatment of invasive aspergillosis (Aspergillosis Treatment Study).
+A total of 575 (288 in Noxafil arm, 287 in voriconazole arm) adult and pediatric patients 13 years of age and older with proven, probable or possible invasive aspergillosis were included.
+The median duration of treatment was 67 days for Noxafil injection or Noxafil delayed-release tablet and 64 days for voriconazole, with 55% to 60% of subjects starting treatment with the IV formulation of either drug.
+The median duration of the first instance of IV treatment (before switching to oral treatment or discontinuing or completing study treatment) was 9 days for both groups.
+Table 7 presents adverse reactions reported at an incidence of ≥10% in either one of the groups in Aspergillosis Treatment Study.
+
+Adverse reactions leading to treatment discontinuation were reported for 33.9% of subjects.
+The most commonly reported adverse reactions (>2% of subjects) leading to treatment discontinuation were septic shock, respiratory failure, and bronchopulmonary aspergillosis in the Noxafil arm, and septic shock and acute myeloid leukemia in the voriconazole arm.
+
+Table 7: Noxafil Invasive Aspergillosis Treatment Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection or Noxafil Delayed-Release Tablets
+
+| System Organ Class | Noxafil injection or tablet (N = 288), n (%) | Voriconazole injection or oral (N = 287), n (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Anemia | 25 (8.7) | 29 (10.1) |
+| Febrile neutropenia | 42 (14.6) | 38 (13.2) |
+| Gastrointestinal disorders |  |  |
+| Abdominal pain | 29 (10.1) | 24 (8.4) |
+| Constipation | 32 (11.1) | 23 (8.0) |
+| Diarrhea | 52 (18.1) | 52 (18.1) |
+| Nausea | 65 (22.6) | 51 (17.8) |
+| Vomiting | 52 (18.1) | 39 (13.6) |
+| General disorders and administration site conditions |  |  |
+| Edema peripheral | 32 (11.1) | 24 (8.4) |
+| Pyrexia | 81 (28.1) | 72 (25.1) |
+| Infections and infestations |  |  |
+| Pneumonia | 36 (12.5) | 26 (9.1) |
+| Investigations |  |  |
+| Alanine aminotransferase increased | 42 (14.6) | 37 (12.9) |
+| Aspartate aminotransferase increased | 38 (13.2) | 36 (12.5) |
+| Blood alkaline phosphatase increased | 21 (7.3) | 29 (10.1) |
+| Metabolism and nutrition disorders |  |  |
+| Hypokalemia | 82 (28.5) | 49 (17.1) |
+| Hypomagnesemia | 29 (10.1) | 18 (6.3) |
+| Nervous system disorders |  |  |
+| Headache | 35 (12.2) | 25 (8.7) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Cough | 30 (10.4) | 24 (8.4) |
+| Epistaxis | 32 (11.1) | 17 (5.9) |
+
+The most frequently reported adverse reactions in the Noxafil-treated group were pyrexia (28%), hypokalemia (28%), and nausea (23%).
+
+Clinical Trial Experience with Noxafil Injection for Prophylaxis
 
 Multiple doses of Noxafil injection administered via a peripheral venous catheter were associated with thrombophlebitis (60% incidence).
 Therefore, in subsequent studies, Noxafil injection was administered via central venous catheter.
@@ -23,13 +67,13 @@ Patients were immunocompromised with underlying conditions including hematologic
 This patient population was 55% male, had a mean age of 51 years (range 18-82 years, 19% of patients were ≥65 years of age), and were 95% white and 8% Hispanic.
 Ten patients received a single dose of 200 mg Noxafil injection, 21 patients received 200 mg daily dose for a median of 14 days, and 237 patients received 300 mg daily dose for a median of 9 days.
 
-Table 7 presents adverse reactions observed in patients treated with Noxafil injection 300 mg daily dose in the Noxafil Injection Study.
+Table 8 presents adverse reactions observed in patients treated with Noxafil injection 300 mg daily dose in the Noxafil Injection Study.
 Each patient received a loading dose, 300 mg twice on Day 1.
 Following Noxafil intravenous therapy, patients received Noxafil oral suspension to complete 28 days of total Noxafil therapy.
 
-Table 7: Noxafil Injection Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection 300 mg Daily Dose
+Table 8: Noxafil Injection Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection 300 mg Daily Dose
 
-| Body System | Noxafil Injection Treatment Phase n=237 (%)Adverse reactions reported in patients with an onset during the Noxafil intravenous dosing phase of the study. |  | Noxafil Injection Treatment Phase or Subsequent Oral Suspension Treatment Phase n=237 (%)Adverse reactions reported with an onset at any time during the study in patients who were treated for up to 28 days of Noxafil therapy. |  |
+| Body System | Noxafil Injection Treatment Phase n=237 (%)Adverse reactions reported in patients with an onset during the Noxafil intravenous dosing phase of the study. |  | Noxafil Injection Treatment Phase or Subsequent Noxafil Oral Suspension Treatment Phase n=237 (%)Adverse reactions reported with an onset at any time during the study in patients who were treated for up to 28 days of Noxafil therapy. |  |
 | --- | --- | --- | --- | --- |
 | Subjects Reporting any Adverse Reaction | 220 | (93) | 235 | (99) |
 | Blood and Lymphatic System Disorder |  |  |  |  |
@@ -66,7 +110,7 @@ Table 7: Noxafil Injection Study: Adverse Reactions in at Least 10% of Subjects 
 The most frequently reported adverse reactions with an onset during the Noxafil intravenous phase of dosing with 300 mg once daily were diarrhea (32%), hypokalemia (22%), pyrexia (21%), and nausea (19%).
 These adverse reactions were consistent with those seen in studies with Noxafil oral suspension.
 
-Clinical Trial Experience with Noxafil Delayed-Release Tablets
+Clinical Trial Experience with Noxafil Delayed-Release Tablets for Prophylaxis
 
 The safety of Noxafil delayed-release tablets has been assessed in 230 patients in clinical trials.
 Patients were enrolled in a non-comparative pharmacokinetic and safety trial of Noxafil delayed-release tablets when given as antifungal prophylaxis (Noxafil Delayed-Release Tablet Study).
@@ -74,9 +118,9 @@ Patients were immunocompromised with underlying conditions including hematologic
 This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
 Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
-Table 8 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in Noxafil Delayed-Release Tablet Study.
+Table 9 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in Noxafil Delayed-Release Tablet Study.
 
-Table 8: Noxafil Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
+Table 9: Noxafil Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
 
 | Body System | Noxafil delayed-release tablet (300 mg) n=210 (%) |  |
 | --- | --- | --- |
@@ -120,8 +164,8 @@ This includes 605 patients in the active-controlled prophylaxis studies, 557 pat
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, GVHD post HSCT, and HIV infection, as well as non-neutropenic patients.
 This patient population was 71% male, had a mean age of 42 years (range 8-84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
 Noxafil therapy was given to 171 patients for ≥6 months, with 58 patients receiving Noxafil therapy for ≥12 months.
-Table 9 presents adverse reactions observed at an incidence of >10% in Noxafil prophylaxis studies.
-Table 10 presents adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Table 10 presents adverse reactions observed at an incidence of >10% in Noxafil prophylaxis studies.
+Table 11 presents adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
 Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Noxafil Oral Suspension Study 1 and 2), the safety of Noxafil oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
@@ -129,10 +173,10 @@ The most frequently reported adverse reactions (>30%) in the prophylaxis clinica
 
 The most common adverse reactions leading to discontinuation of Noxafil in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-Table 9: Noxafil Oral Suspension Study 1 and Study 2.
+Table 10: Noxafil Oral Suspension Study 1 and Study 2.
 Adverse Reactions in at Least 10% of the Noxafil Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
-| Body System | Noxafil n=605 (%) |  | Fluconazole n=539 (%) |  | Itraconazole n=58 (%) |  |
+| Body System | Noxafil Oral Suspension n=605 (%) |  | Fluconazole n=539 (%) |  | Itraconazole n=58 (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |
@@ -198,7 +242,7 @@ In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea,
 The most common adverse reactions that led to treatment discontinuation of Noxafil in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of Noxafil were AIDS (7%) and respiratory impairment (3%).
 
-Table 10: Adverse Reactions in of at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
+Table 11: Adverse Reactions in of at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
 
 | n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |
@@ -252,16 +296,14 @@ Other clinically significant adverse reactions reported in less than 5% of patie
 - Cardiac disorders: torsades de pointes [see Warnings and Precautions (5.2)]
 - Vascular disorders: pulmonary embolism
 - Gastrointestinal disorders: pancreatitis
-- Liver and Biliary System Disorders: bilirubinemia, hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice, AST Increased, ALT Increased
-- Metabolic and Nutritional Disorders: hypokalemia
-- Platelet, Bleeding, and Clotting Disorders: thrombocytopenia
+- Liver and Biliary System Disorders: hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice
 - Renal & Urinary System Disorders: renal failure acute
 
 Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver test values did not appear to be associated with higher plasma concentrations of posaconazole.
 
-For the prophylaxis studies, the number of patients with changes in liver tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 11.
+For the prophylaxis studies, the number of patients with changes in liver tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 12.
 
-Table 11: Noxafil Oral Suspension Study 1 and Study 2.
+Table 12: Noxafil Oral Suspension Study 1 and Study 2.
 Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. Noxafil Oral Suspension Study 1 |  |  |
@@ -280,11 +322,11 @@ Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 o
 | CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; |  |  |
 | ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver test abnormalities at any time during the studies is provided in Table 12 (liver test abnormalities were present in some of these patients prior to initiation of the study drug).
+The number of patients treated for OPC with clinically significant liver test abnormalities at any time during the studies is provided in Table 13 (liver test abnormalities were present in some of these patients prior to initiation of the study drug).
 
-Table 12: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 13: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
-| n=557(%) | n=262(%) | n=239(%) |  |
+| n=557 (%) | n=262 (%) | n=239 (%) |  |
 | --- | --- | --- | --- |
 | Laboratory Test | Controlled |  | Refractory |
 | Noxafil Oral Suspension | Fluconazole | Noxafil Oral Suspension |  |
@@ -293,6 +335,22 @@ Table 12: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Tes
 | Total Bilirubin > 1.5 × ULN | 15/536 (3) | 5/254 (2) | 9/197 (5) |
 | Alkaline Phosphatase > 3.0 × ULN | 17/535 (3) | 15/253 (6) | 24/190 (13) |
 | ALT= Alanine Aminotransferase; AST= Aspartate Aminotransferase. |  |  |  |
+
+The number of patients treated for invasive aspergillosis with clinically significant liver test abnormalities at any time during the Aspergillosis Treatment Study is provided in Table 14.
+Liver test abnormalities present prior to the initiation of study drug included ALT (22%), AST (13%), and bilirubin (13%).
+
+Table 14: Aspergillosis Treatment Study: Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+
+| Laboratory Parameter | Noxafil n/N (%) | Voriconazole n/N (%) |
+| --- | --- | --- |
+| Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form n/N, where n represents the number of patients who met the criterion as indicated, and N represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
+| AST | 22/281 (8) | 21/285 (7) |
+| ALT | 29/281(10) | 23/282 (8) |
+| Bilirubin | 26/280 (9) | 25/284 (9) |
+| Alkaline Phosphatase | 12/282 (4) | 20/284 (7) |
+| N=Number of subjects for a given laboratory test with a baseline value of CTC Grade 0, 1, or 2 and at least one post-baseline value. |  |  |
+| CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; |  |  |
+| ALT= Alanine Aminotransferase. |  |  |
 
 Clinical Trial Experience in Pediatrics
 
@@ -303,12 +361,12 @@ Noxafil injection and Noxafil PowderMix for delayed-release oral suspension was 
 All 115 subjects initially received Noxafil injection for at least 7 days, and 63 subjects were transitioned to Noxafil PowderMix for delayed-release oral suspension.
 The mean overall treatment duration for all treated subjects was 20.6 days with 14.3 days (range: 1 to 28 days) on Noxafil injection and 11.6 days (range: 2 to 18 days) on Noxafil PowderMix for delayed-release oral suspension [see Clinical Pharmacology (12.3)].
 
-Table 13 presents adverse reactions observed in greater than or equal to 10% of pediatric patients treated with Noxafil in the Noxafil Pediatric Study.
+Table 15 presents adverse reactions observed in greater than or equal to 10% of pediatric patients treated with Noxafil in the Noxafil Pediatric Study.
 
 Reported adverse reaction profile of Noxafil in pediatric patients was consistent with the safety profile of Noxafil in adults.
 The most common adverse reactions (occurring in greater than 20% of pediatric patients receiving 6 mg/kg Noxafil injection and Noxafil PowderMix for delayed-release oral suspension daily dose) were pyrexia, febrile neutropenia, vomiting, mucosal inflammation, pruritus, hypertension, hypokalemia, and stomatitis.
 
-Table 13: Adverse Reactions in at Least 10% of Pediatric Patients Treated with Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension
+Table 15: Adverse Reactions in at Least 10% of Pediatric Patients Treated with Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension
 
 | Adverse Reaction | Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension 6 mg/kg Dose Cohort n=49 (%) | Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension All Dose Cohorts n=115 (%) |
 | --- | --- | --- |
@@ -329,9 +387,9 @@ Table 13: Adverse Reactions in at Least 10% of Pediatric Patients Treated with N
 | Headache | 6 (12) | 16 (14) |
 | Aspartate aminotransferase increased | 5 (10) | 8 (7) |
 
-The number of patients receiving Noxafil in the Noxafil Pediatric Study who had changes in liver tests from Grade 0, 1, or 2 at baseline to Grade 3 or 4 is presented in Table 14.
+The number of patients receiving Noxafil in the Noxafil Pediatric Study who had changes in liver tests from Grade 0, 1, or 2 at baseline to Grade 3 or 4 is presented in Table 16.
 
-Table 14: Noxafil Pediatric Study: Changes in Liver Tests from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+Table 16: Noxafil Pediatric Study: Changes in Liver Tests from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Laboratory Parameter | Noxafil Injection and Noxafil PowderMix for Delayed- Release Oral Suspension (6 mg/kg daily) n=49 (%) |
 | --- | --- |

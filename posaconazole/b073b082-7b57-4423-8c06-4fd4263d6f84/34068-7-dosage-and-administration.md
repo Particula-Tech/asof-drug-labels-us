@@ -18,8 +18,9 @@ Noxafil delayed-release tablets
 
 - Swallow tablets whole.
   Do not divide, crush, or chew.
-- Administer with food [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
-- Noxafil delayed-release tablets generally provide higher plasma drug exposures than Noxafil oral suspension under both fed and fasted conditions, and therefore is the preferred oral formulation for the prophylaxis indication.
+- Administer with or without food [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+- For patients who cannot eat a full meal, Noxafil delayed-release tablets should be used instead of Noxafil oral suspension for the prophylaxis indication.
+  Noxafil delayed-release tablets generally provide higher plasma drug exposures than Noxafil oral suspension under both fed and fasted conditions [see Dosage and Administration (2.6)].
 
 Noxafil oral suspension
 
@@ -40,6 +41,7 @@ Table 1: Dosing Regimens in Adult Patients
 
 | Indication | Dose and Frequency | Duration of Therapy |
 | --- | --- | --- |
+| Treatment of invasive Aspergillosis | Noxafil Injection:Loading dose: 300 mg Noxafil injection intravenously twice a day on the first day.Maintenance dose: 300 mg Noxafil injection intravenously once a day, starting on the second day. Noxafil Delayed-Release Tablets: Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day. Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. Switching between the intravenous and delayed-release tablets is acceptable. A loading dose is not required when switching between formulations. | Loading dose: 1 day Maintenance dose: Recommended total duration of therapy is 6 to 12 weeks. |
 | Prophylaxis of invasive Aspergillus and Candida infections | Noxafil Injection: Loading dose: 300 mg Noxafil injection intravenously twice a day on the first day. Maintenance dose: 300 mg Noxafil injection intravenously once a day thereafter. Noxafil Delayed-Release Tablets: Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day. Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. Noxafil Oral Suspension: 200 mg (5 mL) three times a day. | Loading dose: 1 day Maintenance dose: Duration of therapy is based on recovery from neutropenia or immunosuppression. |
 | Oropharyngeal Candidiasis (OPC) | Noxafil Oral Suspension: Loading dose: 100 mg (2.5 mL) twice a day on the first day. Maintenance dose: 100 mg (2.5 mL) once a day thereafter. | Loading dose: 1 day Maintenance dose: 13 days |
 | OPC Refractory (rOPC) to Itraconazole and/or Fluconazole | Noxafil Oral Suspension: 400 mg (10 mL) twice a day. | Duration of therapy is based on the severity of the patient’s underlying disease and clinical response. |
@@ -48,15 +50,18 @@ Table 1: Dosing Regimens in Adult Patients
 
 The recommended dosing regimen of Noxafil for pediatric patients 2 to less than 18 years of age is shown in Tables 2, 3, and 4 [see Dosage and Administration (2.5, 2.6, 2.8) and Clinical Pharmacology (12.3)].
 
-Noxafil PowderMix for Delayed-Release Oral Suspension is not recommended for use in patients who weigh greater than 40 kg because the recommended dosage cannot be achieved with this formulation.
+Noxafil PowderMix for delayed-release oral suspension is not recommended for use in patients who weigh greater than 40 kg because the recommended dosage cannot be achieved with this formulation.
 
 Table 2: Noxafil Delayed-Release Tablet and Noxafil Injection Dosing Regimens for Pediatric Patients (ages 2 to less than 18 years of age)
 
-| Indication | Weight | Delayed-Release Tablet | Injection | Duration of therapy |
+| Indication | Weight/Age | Delayed-Release Tablet | Injection | Duration of therapy |
 | --- | --- | --- | --- | --- |
 |  |  | Recommended Pediatric Dosage and Formulation |  |  |
-| Prophylaxis of invasive Aspergillus and Candida infections | Less than or equal to 40 kg | Not Applicable | Loading dose: 6 mg/kg up to a maximum of 300 mg twice daily on the first day | Duration of therapy is based on recovery from neutropenia or immunosuppression. |
-| Greater than 40 kg | Loading dose: 300 mg twice daily on the first day Maintenance dose: 300 mg once daily | Maintenance dose: 6 mg/kg up to a maximum of 300 mg once daily |  |  |
+| Prophylaxis of invasive Aspergillus and Candida infections | Less than or equal to 40 kg (2 to less than 18 years of age) | Not Applicable | Loading dose: 6 mg/kg up to a maximum of 300 mg twice daily on the first day | Duration of therapy is based on recovery from neutropenia or immunosuppression. |
+|  | Greater than 40 kg (2 to less than 18 years of age) | Loading dose: 300 mg twice daily on the first day Maintenance dose: 300 mg once daily | Maintenance dose: 6 mg/kg up to a maximum of 300 mg once daily |  |
+| Treatment of invasive Aspergillosis | 13 to less than 18 years of age regardless of weight. | Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day. | Loading dose: 300 mg Noxafil injection intravenously twice a day on the first day. | Loading dose: 1 day |
+|  |  | Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. | Maintenance dose: 300 mg Noxafil injection intravenously once a day, starting on the second day. | Maintenance dose: Recommended total duration of therapy is 6 to 12 weeks. |
+|  |  | Switching between the intravenous and delayed-release tablets is acceptable. A loading dose is not required when switching between formulations. | Switching between the intravenous and delayed-release tablets is acceptable. A loading dose is not required when switching between formulations. |  |
 
 Table 3: Noxafil Oral Suspension Dosing Regimens for Pediatric Patients (ages 13 to less than 18 years of age)
 
@@ -77,7 +82,7 @@ Table 4: Noxafil PowderMix for Delayed-Release Oral Suspension Dosing Regimen in
 | 26 to less than 36 | 210 mg (7 mL) twice daily on the first day | 210 mg (7 mL) once daily |  |
 | 36 to 40 | 240 mg (8 mL) twice daily on the first day | 240 mg (8 mL) once daily |  |
 
-## 2.4 Preparation, Intravenous Line Compatibility and Administration of Noxafil Injection
+## 2.4 Preparation, Intravenous Line Compatibility, and Administration of Noxafil Injection
 
 Preparation:
 
@@ -144,7 +149,7 @@ Lactated Ringer's solution 5% dextrose with Lactated Ringer's solution 4.2% sodi
 
 Administration:
 
-- Noxafil injection must be administered through a 0.22 micron polyethersulfone (PES) or polyvinylidene difluoride (PVDF) filter.
+- Noxafil injection must be administered through a 0.22-micron polyethersulfone (PES) or polyvinylidene difluoride (PVDF) filter.
 - Administer via a central venous line, including a central venous catheter or PICC by slow infusion over approximately 90 minutes.
   Noxafil injection is not for bolus administration.
 - If a central venous catheter is not available, Noxafil injection may be administered through a peripheral venous catheter only as a single dose in advance of central venous line placement or to bridge the period during which a central venous line is replaced or is in use for other treatment.
@@ -156,18 +161,19 @@ Administration:
 
 - Swallow tablets whole.
   Do not divide, crush, or chew.
-- Administer Noxafil delayed-release tablets with food to enhance the oral absorption of posaconazole and optimize plasma concentrations [see Clinical Pharmacology (12.3)].
-- Noxafil delayed-release tablets should be used only for the prophylaxis indication [see Dosage and Administration (2.1)].
+- Administer Noxafil delayed-release tablets with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.6 Administration Instructions for Noxafil Oral Suspension
 
 - Shake Noxafil oral suspension well before use.
   Administer with measured dosing spoon (see Figure 1) provided.
 
+| Figure 1: A measured dosing spoon is provided, marked for doses of 2.5 mL and 5 mL. |
+| --- |
+
 - Rinse the spoon with water after each administration and before storage.
-- Administer each dose of Noxafil oral suspension during or immediately (i.e., within 20 minutes) following a full meal to enhance the oral absorption of Noxafil and optimize plasma concentrations [see Clinical Pharmacology (12.3)].
-- For patients who cannot eat a full meal, Noxafil delayed-release tablets should be used instead of Noxafil oral suspension.
-  Noxafil delayed-release tablets should be used only for the prophylaxis indication.
+- Administer each dose of Noxafil oral suspension during or immediately (i.e., within 20 minutes) following a full meal [see Clinical Pharmacology (12.3)].
+- For patients who cannot eat a full meal, Noxafil delayed-release tablets should be used instead of Noxafil oral suspension for the prophylaxis indication.
   Noxafil delayed-release tablets provide higher plasma drug exposures than Noxafil oral suspension under fasted conditions [see Dosage and Administration (2.1)].
 - In patients who cannot eat a full meal and for whom Noxafil delayed-release tablets or Noxafil injection are not options, administer each dose of Noxafil oral suspension with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale).
 - For patients who cannot eat a full meal or tolerate an oral nutritional supplement or an acidic carbonated beverage and who do not have the option of taking Noxafil delayed-release tablets or Noxafil injection, an alternative antifungal therapy should be considered or patients should be monitored closely for breakthrough fungal infections.
@@ -177,7 +183,7 @@ Administration:
 Noxafil oral suspension is not substitutable with Noxafil delayed-release tablets or Noxafil PowderMix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 Therefore, follow the specific dosage recommendations for each of the formulations [see Dosage and Administration (2.2, 2.3)].
 
-## 2.8 Preparation and Administration Instructions for Noxafil PowderMix for Delayed-Release Oral Suspension (pediatric patients 2 to less than 18 years of age)
+## 2.8 Preparation and Administration Instructions for Noxafil PowderMix for Delayed-Release Oral Suspension (pediatric patients ages 2 to less than 18 years of age)
 
 For details on preparation and administration of Noxafil PowderMix for delayed-release oral suspension, see Instructions for Use.
 
@@ -218,7 +224,7 @@ Administration Instructions
 
 ## 2.9 Dosage Adjustments in Patients with Renal Impairment
 
-The pharmacokinetics of Noxafil oral suspension and delayed-release tablets are not significantly affected by renal impairment.
+The pharmacokinetics of Noxafil oral suspension and Noxafil delayed-release tablets are not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment.
 
 - Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.

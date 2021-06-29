@@ -6,8 +6,6 @@ Important Administration Instructions
 
 Noxafil Delayed-Release Tablets
 
-Advise patients to take Noxafil delayed-release tablets with food.
-
 Advise patients that Noxafil delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
 
 Instruct patients that if they miss a dose, they should take it as soon as they remember.

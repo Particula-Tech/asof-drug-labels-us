@@ -6,11 +6,11 @@ Posaconazole is an azole antifungal agent [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure Response Relationship: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of Noxafil oral suspension.
-A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 15).
+Exposure Response Relationship Prophylaxis: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of Noxafil oral suspension.
+A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 17).
 A lower Cavg may be associated with an increased risk of treatment failure, defined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections.
 
-Table 15: Noxafil Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
+Table 17: Noxafil Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
 
 | Cavg Range (ng/mL) | Treatment FailureDefined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections (%) | Cavg Range (ng/mL) | Treatment Failure (%) |  |
 | --- | --- | --- | --- | --- |
@@ -21,6 +21,11 @@ Table 15: Noxafil Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
 | Quartile 4 | 734-2200 | 27.8 | 1563-3650 | 17.5 |
 | Cavg = the average posaconazole concentration when measured at steady state |  |  |  |  |
 
+Exposure Response Relationship Treatment of Invasive Aspergillosis:
+
+Across a range of posaconazole plasma minimum concentrations (Cmin, range: 244 to 5663 ng/mL) following administration of Noxafil injection and Noxafil delayed-release tablets in patients treated for invasive aspergillosis in Aspergillosis Treatment Study, there was no association between posaconazole Cmin and treatment efficacy [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+Similarly, across a range of population pharmacokinetic model-predicted steady-state plasma average concentrations (Cavg, range: 589 to 6315 ng/mL), there was no association between posaconazole Cavg and treatment efficacy.
+
 ## 12.3 Pharmacokinetics
 
 General Pharmacokinetic Characteristics
@@ -28,9 +33,9 @@ General Pharmacokinetic Characteristics
 Noxafil Injection
 
 Noxafil injection exhibits dose proportional pharmacokinetics after single doses between 200 and 300 mg in healthy volunteers and patients.
-The mean pharmacokinetic parameters after single doses with Noxafil injection in healthy volunteers and patients are shown in Table 16.
+The mean pharmacokinetic parameters after single doses with Noxafil injection in healthy volunteers and patients are shown in Table 18.
 
-Table 16: Summary of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers (30-minute infusion via peripheral venous line) and Patients (90 minute infusion via central venous line) after Dosing with Noxafil Injection on Day 1
+Table 18: Summary of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers (30-minute infusion via peripheral venous line) and Patients (90 minute infusion via central venous line) after Dosing with Noxafil Injection on Day 1
 
 |  | Dose (mg) | n | AUC0-∞ (ng∙hr/mL) | AUC0-12 (ng∙hr/mL) | Cmax (ng/mL) | t1/2 (hr) | CL (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,9 +45,9 @@ Table 16: Summary of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers
 | 300 | 22 | N/D | 8240 (26) | 1590 (62) | N/D | N/D |  |
 | AUC0-∞ = Area under the plasma concentration-time curve from time zero to infinity; AUC0-12 = Area under the plasma concentration-time curve from time zero to 12 hr after the first dose on Day 1; Cmax = maximum observed concentration; t½ = terminal phase half-life; CL = total body clearance; N/D = Not Determined |  |  |  |  |  |  |  |
 
-Table 17 displays the pharmacokinetic parameters of posaconazole in patients following administration of Noxafil injection 300 mg taken once a day for 10 or 14 days following twice daily dosing on Day 1.
+Table 19 displays the pharmacokinetic parameters of posaconazole in patients following administration of Noxafil injection 300 mg taken once a day for 10 or 14 days following twice daily dosing on Day 1.
 
-Table 17: Arithmetic Mean (%CV) of PK Parameters in Serial PK-Evaluable Patients Following Dosing of Noxafil Injection (300 mg)300 mg dose administered over 90 minutes once a day following twice daily dosing on Day 1
+Table 19: Arithmetic Mean (%CV) of PK Parameters in Serial PK-Evaluable Patients Following Dosing of Noxafil Injection (300 mg)300 mg dose administered over 90 minutes once a day following twice daily dosing on Day 1
 
 | Day | N | Cmax (ng/mL) | TmaxMedian (minimum-maximum) (hr) | AUC0-24 (ng*hr/mL) | Cav (ng/mL) | Cmin (ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -53,9 +58,9 @@ Table 17: Arithmetic Mean (%CV) of PK Parameters in Serial PK-Evaluable Patients
 Noxafil Delayed-Release Tablets
 
 Noxafil delayed-release tablets exhibit dose proportional pharmacokinetics after single and multiple dosing up to 300 mg.
-The mean pharmacokinetic parameters of posaconazole at steady state following administration of Noxafil delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 18.
+The mean pharmacokinetic parameters of posaconazole at steady state following administration of Noxafil delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 20.
 
-Table 18: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Noxafil Delayed-Release Tablets (300 mg)300 mg twice daily on Day 1, then 300 mg once daily thereafter
+Table 20: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Noxafil Delayed-Release Tablets (300 mg)300 mg twice daily on Day 1, then 300 mg once daily thereafter
 
 |  | N | AUC0-24 hr (ng∙hr/mL) | CavCav = time-averaged concentrations (i.e., AUC0-24 hr/24hr) (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | TmaxMedian (minimum-maximum) (hr) | t1/2 (hr) | CL/F (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -68,9 +73,9 @@ Noxafil Oral Suspension
 Dose-proportional increases in plasma exposure (AUC) to Noxafil oral suspension were observed following single oral doses from 50 mg to 800 mg and following multiple-dose administration from 50 mg twice daily to 400 mg twice daily in healthy volunteers.
 No further increases in exposure were observed when the dose of the oral suspension increased from 400 mg twice daily to 600 mg twice daily in febrile neutropenic patients or those with refractory invasive fungal infections.
 
-The mean (%CV) [min-max] Noxafil oral suspension average steady-state plasma concentrations (Cavg) and steady-state pharmacokinetic parameters in patients following administration of 200 mg three times a day and 400 mg twice daily of the oral suspension are provided in Table 19.
+The mean (%CV) [min-max] Noxafil oral suspension average steady-state plasma concentrations (Cavg) and steady-state pharmacokinetic parameters in patients following administration of 200 mg three times a day and 400 mg twice daily of the oral suspension are provided in Table 21.
 
-Table 19: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Parameters in Patients Following Oral Administration of Noxafil Oral Suspension 200 mg Three Times a Day and 400 mg Twice Daily
+Table 21: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Parameters in Patients Following Oral Administration of Noxafil Oral Suspension 200 mg Three Times a Day and 400 mg Twice Daily
 
 | DoseOral suspension administration | Cavg (ng/mL) | AUCAUC (0-24 hr) for 200 mg three times a day and AUC (0-12 hr) for 400 mg twice daily (ng∙hr/mL) | CL/F (L/hr) | V/F (L) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -87,10 +92,9 @@ Noxafil Delayed-Release Tablets
 When given orally in healthy volunteers, Noxafil delayed-release tablets are absorbed with a median Tmax of 4 to 5 hours.
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
 The absolute bioavailability of the oral delayed-release tablet is approximately 54% under fasted conditions.
-The Cmax and AUC of posaconazole following administration of Noxafil delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 20).
-In order to enhance the oral absorption of posaconazole and optimize plasma concentrations, Noxafil delayed-release tablets should be administered with food.
+The Cmax and AUC of posaconazole following administration of Noxafil delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 22).
 
-Table 20: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Noxafil Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
+Table 22: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Noxafil Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
 
 | Pharmacokinetic Parameter | N | Mean (%CV) | N | Mean (%CV) | GMR (90% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -100,9 +104,9 @@ Table 20: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Foll
 | TmaxMedian (Min, Max) reported for Tmax (hr) | 14 | 5.00 (3.00, 8.00) | 16 | 6.00 (5.00, 24.00) | N/A |
 | GMR=Geometric least-squares mean ratio; CI=Confidence interval |  |  |  |  |  |
 
-Concomitant administration of Noxafil delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 21).
+Concomitant administration of Noxafil delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 23).
 
-Table 21: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Noxafil Delayed-Release Tablets in Healthy Volunteers
+Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Noxafil Delayed-Release Tablets in Healthy Volunteers
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to Noxafil alone for Cmax or AUC0-last.; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
@@ -127,13 +131,13 @@ Noxafil oral suspension is absorbed with a median Tmax of ~3 to 5 hours.
 Steady-state plasma concentrations are attained at 7 to 10 days following multiple-dose administration.
 
 Following single-dose administration of 200 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when the oral suspension is administered with a nonfat meal and approximately 4-times higher when administered with a high-fat meal (~50 gm fat) relative to the fasted state.
-Following single-dose administration of Noxafil oral suspension 400 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when administered with a liquid nutritional supplement (14 gm fat) relative to the fasted state (see Table 22).
-In addition, the effects of varying gastric administration conditions on the Cmax and AUC of Noxafil oral suspension in healthy volunteers have been investigated and are shown in Table 23.
+Following single-dose administration of Noxafil oral suspension 400 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when administered with a liquid nutritional supplement (14 gm fat) relative to the fasted state (see Table 24).
+In addition, the effects of varying gastric administration conditions on the Cmax and AUC of Noxafil oral suspension in healthy volunteers have been investigated and are shown in Table 25.
 
 In order to assure attainment of adequate plasma concentrations, it is recommended to administer Noxafil oral suspension during or immediately following a full meal.
 In patients who cannot eat a full meal, Noxafil oral suspension should be taken with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale).
 
-Table 22: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Noxafil Oral Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
+Table 24: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Noxafil Oral Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
 
 | Dose (mg) | Cmax (ng/mL) | TmaxMedian [min-max]. (hr) | AUC (I) (ng∙hr/mL) | CL/F (L/hr) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -143,7 +147,7 @@ Table 22: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Follo
 | 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
 | 400 mg with liquid nutritional supplement (14 gm fat) (n=23) | 355 (43) [145-720] | 5 [4-8] | 11,295 (40) [3865-20,592] | 43 (56) [19-103] | 26.0 (19) [18.2-35.0] |
 
-Table 23: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Noxafil Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.
+Table 25: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Noxafil Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.
 It is recommended to closely monitor patients for breakthrough fungal infections when Noxafil is administered via an NG tube because a lower plasma exposure may be associated with an increased risk of treatment failure.
 
 | Study Description | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in AUC (ratio estimate; 90% CI of the ratio estimate) |
@@ -162,9 +166,9 @@ It is recommended to closely monitor patients for breakthrough fungal infections
 | 400-mg single dose either orally with BOOST or via an NG tube with BOOST (n=16) | Via NG tubeNG = nasogastric | ↓19% (0.81; 0.71-0.91) | ↓23% (0.77; 0.69-0.86) |
 
 Concomitant administration of Noxafil oral suspension with drugs affecting gastric pH or gastric motility results in lower posaconazole exposure.
-(See Table 24.)
+(See Table 26.)
 
-Table 24: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Noxafil Oral Suspension in Healthy Volunteers
+Table 26: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Noxafil Oral Suspension in Healthy Volunteers
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -188,9 +192,9 @@ The excreted metabolites in urine and feces account for ~17% of the administered
 
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 25.
+A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 27.
 
-Table 25: Summary of the Effect of Coadministered Drugs on Noxafil in Healthy Volunteers
+Table 27: Summary of the Effect of Coadministered Drugs on Noxafil in Healthy Volunteers
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to Noxafil alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -203,9 +207,9 @@ Table 25: Summary of the Effect of Coadministered Drugs on Noxafil in Healthy Vo
 In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
 A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
-A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 26 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
+A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 28 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
 
-Table 26: Summary of the Effect of Noxafil on Coadministered Drugs in Healthy Adult Volunteers and Patients
+Table 28: Summary of the Effect of Noxafil on Coadministered Drugs in Healthy Adult Volunteers and Patients
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -220,7 +224,7 @@ Table 26: Summary of the Effect of Noxafil on Coadministered Drugs in Healthy Ad
 |  | 2-mg single oral dose | 200 mg (oral suspension) once daily × 7 days | ↑ 169% (2.69; 2.46-2.93) | ↑ 470% (5.70; 4.82-6.74) |
 |  | 2-mg single oral dose | 400 mg (oral suspension) twice daily × 7 days | ↑ 138% (2.38; 2.13-2.66) | ↑ 397% (4.97; 4.46-5.54) |
 | Rifabutin | 300 mg once daily x 17 days | 200 mg (tablets) once daily × 10 days | ↑ 31% (1.31; 1.10-1.57) | ↑ 72% (1.72;1.51-1.95) |
-| Phenytoin | 200 mg once daily PO x 10 days | 200 mg (tablets) once daily x 10 days | ↑ 16% (1.16; 0.85-1.57) | ↑ 16% (1.16; 0.84-1.59) |
+| Phenytoin | 200 mg once daily PO x 10 days | 200 mg (tablets) once daily × 10 days | ↑ 16% (1.16; 0.85-1.57) | ↑ 16% (1.16; 0.84-1.59) |
 | Ritonavir | 100 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 49% (1.49; 1.04-2.15) | ↑ 80% (1.8;1.39-2.31) |
 | Atazanavir | 300 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 155% (2.55; 1.89-3.45) | ↑ 268% (3.68; 2.89-4.70) |
 | Atazanavir/ ritonavir boosted regimen | 300 mg/100 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 53% (1.53; 1.13-2.07) | ↑ 146% (2.46; 1.93-3.13) |
@@ -240,12 +244,25 @@ Noxafil oral suspension is eliminated with a mean half-life (t½) of 35 hours (r
 
 Specific Populations
 
+No clinically significant differences in the pharmacokinetics of posaconazole were observed based on age, sex, renal impairment, and indication (prophylaxis or treatment).
+
+Race/Ethnicity:
+
+In a population pharmacokinetic analysis of posaconazole, AUC was found to be 25% higher in Chinese patients relative to patients from other races/ethnicities.
+This higher exposure is not expected to be clinically relevant given the expected variability in posaconazole exposure.
+
+Patients Weighing More Than 120 kg:
+
+Weight has a clinically significant effect on posaconazole clearance.
+Relative to 70 kg patients, the Cavg is decreased by 25% in patients greater than 120 kg.
+Patients administered Noxafil weighing more than 120 kg may be at higher risk for lower posaconazole plasma concentrations compared to lower weight patients [see Use in Specific Populations (8.10)].
+
 Pediatric Patients
 
-The mean pharmacokinetic parameters after multiple-dose administration of Noxafil injection and Noxafil PowderMix for delayed-release oral suspension in neutropenic pediatric patients 2 to less than 18 years of age are shown in Table 27.
+The mean pharmacokinetic parameters after multiple-dose administration of Noxafil injection and Noxafil PowderMix for delayed-release oral suspension in neutropenic pediatric patients 2 to less than 18 years of age are shown in Table 29.
 Patients were enrolled into 2 age groups and received Noxafil injection and Noxafil PowderMix for delayed-release oral suspension doses at 6 mg/kg (0.6 to 1 times the recommended dose) with a maximum 300 mg dose once daily (twice daily on Day 1) [see Adverse Reactions (6.1)].
 
-Table 27: Summary of Steady-State Geometric Mean Pharmacokinetic Parameters (% Geometric CV) After Multiple Dosing with Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension 6 mg/kg0.6 to 1 times the recommended dose in Pediatric Patients with Neutropenia or Expected Neutropenia
+Table 29: Summary of Steady-State Geometric Mean Pharmacokinetic Parameters (% Geometric CV) After Multiple Dosing with Noxafil Injection and Noxafil PowderMix for Delayed-Release Oral Suspension 6 mg/kg0.6 to 1 times the recommended dose in Pediatric Patients with Neutropenia or Expected Neutropenia
 
 | Age Group | Dose Type | N | AUC0-24 hr (ng·hr/mL) | CavCav = time-averaged concentrations (i.e., AUC0-24 hr/24hr) (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | TmaxMedian (minimum-maximum) (hr) | CL/FClearance (CL for IV and CL/F for PFS) (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

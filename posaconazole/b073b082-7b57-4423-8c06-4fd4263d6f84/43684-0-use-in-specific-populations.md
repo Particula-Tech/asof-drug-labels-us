@@ -38,6 +38,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of Noxafil injection, Noxafil delayed-release tablets, Noxafil PowderMix for delayed-release oral suspension, and Noxafil oral suspension for the prophylaxis of invasive Aspergillus and Candida infections have been established in pediatric patients aged 2 and older who are at high risk of developing these infections due to being severely immunocompromised, such as HSCT recipients with GVHD or those with hematologic malignancies with prolonged neutropenia from chemotherapy.
 
+The safety and effectiveness of Noxafil injection and Noxafil delayed-release tablets for the treatment of invasive aspergillosis have been established in pediatric patients aged 13 years and older.
+
 The safety and effectiveness of Noxafil oral suspension have been established for the treatment of oropharyngeal candidiasis (OPC), including OPC refractory (rOPC) to itraconazole and/or fluconazole in pediatric patients aged 13 years and older.
 
 Use of Noxafil in these age groups is supported by evidence from adequate and well-controlled studies of Noxafil in adult and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 2 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
@@ -58,6 +60,7 @@ Of the 279 patients treated with Noxafil injection in the Noxafil Injection Stud
 Of the 230 patients treated with Noxafil delayed-release tablets, 38 (17%) were greater than 65 years of age.
 Of the 605 patients randomized to Noxafil oral suspension in Noxafil Oral Suspension Study 1 and Study 2, 63 (10%) were ≥65 years of age.
 In addition, 48 patients treated with greater than or equal to 800-mg/day Noxafil oral suspension in another indication were ≥65 years of age.
+Of the 288 patients randomized to Noxafil injection/Noxafil delayed-release tablets in the Aspergillosis Treatment Study, 85 (29%) were ≥65 years of age.
 
 No overall differences in the pharmacokinetics and safety were observed between elderly and young subjects during clinical trials, but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -66,7 +69,7 @@ No overall differences in the pharmacokinetics and safety were observed between 
 Following single-dose administration of 400 mg of the Noxafil oral suspension, there was no significant effect of mild (eGFR: 50-80 mL/min/1.73 m2, n=6) or moderate (eGFR: 20-49 mL/min/1.73 m2, n=6) renal impairment on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
 In subjects with severe renal impairment (eGFR: <20 mL/min/1.73 m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (eGFR: >80 mL/min/1.73 m2); however, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal impairment as compared to that in the other renal impairment groups (CV<40%).
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2)].
-Similar recommendations apply to Noxafil delayed-release tablets; however, a specific study has not been conducted with the delayed-release tablets.
+Similar recommendations apply to Noxafil delayed-release tablets; however, a specific study has not been conducted with the Noxafil delayed-release tablets.
 
 Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
@@ -95,4 +98,4 @@ No adjustment in the dosage of Noxafil is necessary based on race.
 ## 8.10 Weight
 
 Pharmacokinetic modeling suggests that patients weighing greater than 120 kg may have lower posaconazole plasma drug exposure.
-It is, therefore, suggested to closely monitor for breakthrough fungal infections.
+It is, therefore, suggested to closely monitor for breakthrough fungal infections particularly when using Noxafil oral suspension [see Clinical Pharmacology (12.3)].

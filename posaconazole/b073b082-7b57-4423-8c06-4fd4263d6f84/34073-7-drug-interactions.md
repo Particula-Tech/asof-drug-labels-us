@@ -8,8 +8,8 @@ If such drugs are necessary, patients should be monitored closely for breakthrou
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
 
-The following information was derived from data with Noxafil oral suspension or early tablet formulation.
-All drug interactions with Noxafil oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility) are considered relevant to Noxafil injection as well [see Drug Interactions (7.9) and (7.13)].
+The following information was derived from data with Noxafil oral suspension or early tablet formulation unless otherwise noted.
+All drug interactions with Noxafil oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility), are considered relevant to Noxafil injection, Noxafil delayed-release tablet, and Noxafil PowderMix for delayed-release oral suspension as well [see Drug Interactions (7.9) and (7.13)].
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 

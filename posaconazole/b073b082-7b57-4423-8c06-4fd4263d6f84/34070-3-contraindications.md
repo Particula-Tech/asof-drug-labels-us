@@ -24,4 +24,4 @@ Noxafil may increase the plasma concentrations of ergot alkaloids (ergotamine an
 
 ## 4.6 Use of Noxafil PowderMix for Delayed-Release Oral Suspension in Patients with Hereditary Fructose Intolerance
 
-Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with known or suspected hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.7), Use in Specific Populations (8.4)].
+Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with known or suspected hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.8), Use in Specific Populations (8.4)].
