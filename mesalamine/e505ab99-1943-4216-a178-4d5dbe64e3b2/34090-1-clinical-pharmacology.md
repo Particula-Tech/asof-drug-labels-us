@@ -9,7 +9,7 @@ Mucosal production of arachidonic acid (AA) metabolites, both through the cycloo
 
 Preclinical studies have shown the kidney to be the major target organ for mesalamine toxicity.
 Adverse renal function changes were observed in rats after a single 600 mg/kg oral dose, but not after a 200 mg/kg dose.
-Gross kidney lesions, including papillary necrosis, were observed after a single oral > 900 mg/kg dose, and after I.V. doses of > 214 mg/kg.
+Gross kidney lesions, including papillary necrosis, were observed after a single oral >900 mg/kg dose, and after I.V. doses of >214 mg/kg.
 Mice responded similarly.
 In a 13-week oral (gavage) dose study in rats, the high dose of 640 mg/kg/day mesalamine caused deaths, probably due to renal failure, and dose-related renal lesions (papillary necrosis and/or multifocal tubular injury) were seen in most rats given the high dose (males and females) as well as in males receiving lower doses 160 mg/kg/day.
 Renal lesions were not observed in the 160 mg/kg/day female rats.
@@ -42,16 +42,20 @@ In addition, steady state plasma levels demonstrated a lack of accumulation of e
 
 In a placebo-controlled, international, multicenter trial of 153 patients with active distal ulcerative colitis, proctosigmoiditis or proctitis, ROWASA® (mesalamine) Rectal Suspension Enema reduced the overall disease activity index (DAI) and individual components as follows:
 
-EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, mean
-
-|  |  | N | Baseline | Day 22 | End Point | Change Baseline to End Point Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). |
+| EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, mean |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Overall DAI | ROWASA® Placebo | 76 77 | 7.42 7.40 | 4.05Significant ROWASA®/placebo difference. p < 0.01 6.03 | 3.37Significant ROWASA®/placebo difference. p < 0.001 5.83 | -55.07% -21.58% |
-| Stool Frequency | ROWASA® Placebo |  | 1.58 1.92 | 1.11Significant ROWASA®/placebo difference. p < 0.05 1.47 | 1.01 1.50 | -0.57 -0.41 |
-| Rectal Bleeding | ROWASA® Placebo |  | 1.82 1.73 | 0.59 1.21 | 0.51 1.11 | -1.30 -0.61 |
-| Mucosal Inflammation | ROWASA® Placebo |  | 2.17 2.18 | 1.22 1.74 | 0.96 1.61 | -1.21 -0.56 |
-| Physician's Assessment of Disease Severity | ROWASA® Placebo |  | 1.86 1.87 | 1.13 1.62 | 0.88 1.55 | -0.97 -0.30 |
-| Each parameter has a 4-point scale with a numerical rating: 0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12. |  |  |  |  |  |  |
+|  |  | N | Baseline | Day 22 | End Point | Change Baseline to End Point * |
+| Overall DAI | ROWASA® Placebo | 76 77 | 7.42 7.40 | 4.05† 6.03 | 3.37‡ 5.83 | -55.07%‡ -21.58% |
+| Stool Frequency | ROWASA® Placebo |  | 1.58 1.92 | 1.11§ 1.47 | 1.01† 1.50 | -0.57§ -0.41 |
+| Rectal Bleeding | ROWASA® Placebo |  | 1.82 1.73 | 0.59‡ 1.21 | 0.51‡ 1.11 | -1.30‡ -0.61 |
+| Mucosal Inflammation | ROWASA® Placebo |  | 2.17 2.18 | 1.22† 1.74 | 0.96‡ 1.61 | -1.21† -0.56 |
+| Physician's Assessment of Disease Severity | ROWASA® Placebo |  | 1.86 1.87 | 1.13‡ 1.62 | 0.88‡ 1.55 | -0.97‡ -0.30 |
+| Each parameter has a 4-point scale with a numerical rating: |  |  |  |  |  |  |
+| 0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12. |  |  |  |  |  |  |
+| * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). |  |  |  |  |  |  |
+| †Significant ROWASA®/placebo difference. p < 0.01 |  |  |  |  |  |  |
+| ‡Significant ROWASA®/placebo difference. p < 0.001 |  |  |  |  |  |  |
+| §Significant ROWASA®/placebo difference. p < 0.05 |  |  |  |  |  |  |
 
 Differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
 Significant differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.
