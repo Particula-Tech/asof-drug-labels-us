@@ -168,7 +168,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-L6846A
+L6846B
 
 Rev.
 05/21

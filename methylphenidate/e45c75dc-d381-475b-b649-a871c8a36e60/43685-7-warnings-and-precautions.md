@@ -147,11 +147,6 @@ It may be necessary to adjust the dosage and monitor plasma drug concentrations 
 In theory, there is a possibility that the clearance of methylphenidate might be affected by urinary pH, either being increased with acidifying agents or decreased with alkalizing agents.
 This should be considered when methylphenidate is given in combination with agents that alter urinary pH.
 
-### Halogenated Anesthetics
-
-Concomitant use of halogenated anesthetics and Methylphenidate HCl Extended-Release Capsules CD may increase the risk of sudden blood pressure and heart rate increase during surgery.
-Avoid use of Methylphenidate HCl Extended-Release Capsules CD in patients being treated with anesthetics on the day of surgery.
-
 ### Risperidone
 
 Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).
