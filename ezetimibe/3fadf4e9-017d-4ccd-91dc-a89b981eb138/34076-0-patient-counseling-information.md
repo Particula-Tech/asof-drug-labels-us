@@ -28,15 +28,7 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
-Packed by: Amneal Pharmaceuticals Pvt.
-Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
-
-Or
-
-Amneal Pharmaceuticals Pvt.
-Ltd. Ahmedabad 382220, INDIA
-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2020-02
+05-2021-03
