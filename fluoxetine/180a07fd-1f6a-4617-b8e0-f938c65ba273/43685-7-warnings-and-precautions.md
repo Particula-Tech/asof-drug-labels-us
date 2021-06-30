@@ -216,3 +216,13 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the healthcare provider may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
+
+## 5.16 Sexual Dysfunction
+
+Use of SSRIs, including fluoxetine, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of fluoxetine and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

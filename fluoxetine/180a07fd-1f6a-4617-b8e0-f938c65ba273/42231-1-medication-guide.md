@@ -114,6 +114,24 @@ Stopping fluoxetine too quickly may cause serious symptoms including:
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
+11.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with fluoxetine.
+There may be treatments your healthcare provider can suggest.
+
 What is fluoxetine?
 
 Fluoxetine is a prescription medicine used to treat depression.
@@ -277,10 +295,10 @@ Inactive ingredients: glycerin, purified water, sodium benzoate, spearmint flavo
 
 *Prozac ® Weekly, Symbyax ® and Sarafem ® are registered trademarks of Eli Lilly and Company
 
-R04/17 MG072110417
+R06/21 MG072110621
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised, April, 2017
+Medication Guide revised, June 2021

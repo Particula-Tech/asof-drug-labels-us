@@ -84,3 +84,8 @@ Pediatric Use of Fluoxetine - Fluoxetine is approved for use in pediatric patien
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
 [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+
+Sexual Dysfunction
+
+Advise patients that use of fluoxetine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
