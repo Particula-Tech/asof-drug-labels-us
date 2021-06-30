@@ -54,6 +54,25 @@ Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, le
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
 Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation.
 
+Pharmacodynamic Interaction with Fentanyl
+
+An open-label, cross-over study was conducted in 8 opioid-tolerant subjects to assess the ability of intravenous buprenorphine to prevent respiratory depression associated with high doses of fentanyl administered in a clinical setting.
+Opioid-tolerant subjects were medically stable and taking oral morphine equivalents of ≥ 90 mg daily with no other CNS depressant use.
+Buprenorphine infusions at three dose levels and placebo infusions were administered, followed by up to four doses of fentanyl.
+The three intravenous buprenorphine dose levels were designated as low (0.25 mg/70kg bolus + 0.1 mg/70kg/hr), mid (0.5 mg/70kg bolus + 0.2 mg/70kg/hr), and high (1.25 mg/70kg bolus + 0.5 mg/70kg/hr).
+The low, mid, and high buprenorphine dose levels produced average plasma concentrations (from 2 hours to 6 hours after infusion onset) of 1.06 ng/mL, 2.26 ng/mL, and 6.04 ng/mL, respectively.
+
+Escalating intravenous fentanyl boluses of 0.25, 0.35, 0.50 and 0.70 mg/70 kg (up to a maximum cumulative dose of 1.8 mg/70 kg) were administered over 90 seconds at +2hr, +3hr, +4hr and +5hr after the start of intravenous infusion of buprenorphine or placebo.
+Apnea events after each fentanyl bolus are shown in Figure 11.
+Four of the 8 subjects in the placebo infusion groups discontinued prior to the fourth fentanyl bolus because of apnea (2 after the second bolus and 2 after the third bolus); 3 of the remaining 4 subjects experienced apnea after the fourth fentanyl dose.
+All 8 subjects in the buprenorphine infusion groups completed the fentanyl boluses and 2 of the 8 experienced apnea.
+
+Figure 11 Occurrence of Apnea Events After Fentanyl Doses in a Pharmacodynamic Interaction Study
+
+There were 2 opioid-tolerant subjects in the low intravenous buprenorphine (BUP) group (Arm A), 3 in the mid BUP group (Arm B), and 3 in the high BUP group (Arm C). The numbers in parentheses represent the geometric mean of buprenorphine plasma concentrations in each group from 2 hours to 6 hours after infusion onset.
+The escalating fentanyl doses 1 to 4 were 0.25, 0.35, 0.50 and 0.70 mg/70 kg body weight.
+The same subject in the low BUP group had apnea after the third and fourth fentanyl boluses.
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -83,6 +102,10 @@ Elimination
 
 Buprenorphine is metabolized and eliminated in urine and feces.
 The apparent terminal plasma half-life of buprenorphine following subcutaneous injection of SUBLOCADE ranged between 43 to 60 days as a result of the slow release of buprenorphine from the subcutaneous depot.
+
+A study assessing buprenorphine exposure 22 to 38 months following the last SUBLOCADE injection indicated that buprenorphine could potentially be detected in plasma and urine over that time period.
+Concentrations in urine were more variable than in plasma and generally higher depending on the test used.
+Hence, it is expected that buprenorphine will be detected in patients for a longer time in urine than in plasma.
 
 Metabolism
 

@@ -72,8 +72,7 @@ For some patients, treatment may continue indefinitely.
 If considering stopping treatment, the clinical status of the patient should be considered.
 
 If SUBLOCADE is discontinued, its extended-release characteristics should be considered and the patient should be monitored for several months for signs and symptoms of withdrawal and treated appropriately.
-After steady-state has been achieved (4-6 months), patients discontinuing SUBLOCADE may have detectable plasma levels of buprenorphine for twelve months or longer.
-The correlation between plasma concentrations of buprenorphine and those detectable in urine is not known.
+After steady-state has been achieved (4-6 months), patients discontinuing SUBLOCADE may have detectable plasma and urine levels of buprenorphine for twelve months or longer [see Clinical Pharmacology (12.3)].
 
 ## 2.6 Instructions for Use
 

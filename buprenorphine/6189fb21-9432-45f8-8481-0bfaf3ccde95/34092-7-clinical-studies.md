@@ -15,7 +15,7 @@ However, wide variation can be seen in isolated measurements from individual sub
 For comparison, stabilization doses of SL buprenorphine in Week 0 failed to provide full blockade to 18 mg of HM.
 Complete blockade continued throughout the 8 weeks of observation that followed the 2nd SUBLOCADE injection.
 
-Figure 11: Median (95% Confidence Interval) of Placebo-Corrected Drug-Liking Scores by Hydromorphone Dose and by Week
+Figure 12 Median (95% Confidence Interval) of Placebo-Corrected Drug-Liking Scores by Hydromorphone Dose and by Week
 
 - Key to Figure: The grey shaded area indicates the period where subjects were stabilized with 8 to 24 mg/day sublingual (SL) buprenorphine; the two vertical arrows represent treatment injections of SUBLOCADE, with 300 mg of buprenorphine.
 - The light grey and dark grey squares represent the median Emax drug-liking scores, placebo-corrected (VAS drug liking for that week's 0 mg dose subtracted) during the hydromorphone challenge of 6 and 18 mg, respectively.
@@ -77,8 +77,7 @@ For various percentages of opioid-free weeks, Table 9 shows the fraction of pati
 The table is cumulative, so that a patient whose percent of opioid-free weeks is, for example, 50%, is also included at every level of opioid-free week percentage below 50%.
 Missing values and values after premature discontinuation were considered positive.
 
-Figure 12.
-Subjects Achieving Varying Percentages of Opioid-Free Weeks
+Figure 13 Subjects Achieving Varying Percentages of Opioid-Free Weeks
 
 Table 9 Cumulative Distribution Function of Percentage of Opioid-Free Weeks
 
