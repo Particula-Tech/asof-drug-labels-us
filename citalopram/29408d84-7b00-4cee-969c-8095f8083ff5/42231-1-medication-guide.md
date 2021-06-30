@@ -1,6 +1,6 @@
 # Medication Guide
 
-Citalopram Oral Solution USP
+Citalopram Oral Solution, USP
 
 (si TAL o pram)
 
@@ -98,13 +98,30 @@ Symptoms may include:
 - •headache
 - •weakness or feeling unsteady
 - •confusion, problems concentrating or thinking or memory problems
-- 10.
-  Visual problems.
+
+10.
+Visual problems.
+
 - •eye pain
 - •changes in vision
-- •swelling or redness in or around the eye
-- Only some people are at risk for these problems.
+- •swelling or redness in or around the eye Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+11.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including citalopram, may cause sexual problems.
+
+1. Symptoms in males may include:
+2. oDelayed ejaculation or inability to have an ejaculation
+3. oDecreased sex drive
+4. oProblems getting or keeping an erection
+5. Symptoms in females may include:
+6. oDecreased sex drive
+7. oDelayed orgasm or inability to have an orgasm
+8. 
+9. Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram.
+   There may be treatments your healthcare provider can suggest.
+10. 
 
 Do not stop citalopram without first talking to your healthcare provider.
 Stopping citalopram too quickly may cause serious symptoms including:
@@ -264,14 +281,12 @@ For more information about citalopram call 1-800-962-8364.
 
 What are the ingredients in citalopram oral solution?
 
-Active ingredient: citalopram hydrobromide USP
+Active ingredient: citalopram hydrobromide, USP
 
 Inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water, and sorbitol solution
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-For more information, please call 1-800-962-8362.
-
-10003824/14 Revised January 2019
+Berkeley Heights, NJ 07922 C50000426/01 Revised June 2021

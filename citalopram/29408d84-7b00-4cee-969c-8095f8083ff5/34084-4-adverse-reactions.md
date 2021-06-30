@@ -77,7 +77,7 @@ TABLE 3: Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clin
 | Anxiety | 4% | 3% |
 | Anorexia | 4% | 2% |
 | Agitation | 3% | 1% |
-| Dysmenorrhea | 3% | 2% |
+| Dysmenorrhea1 | 3% | 2% |
 | Libido Decreased | 2% | <1% |
 | Yawning | 2% | <1% |
 | Respiratory System Disorders |  |  |
@@ -85,13 +85,9 @@ TABLE 3: Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clin
 | Rhinitis | 5% | 3% |
 | Sinusitis | 3% | <1% |
 | Urogenital |  |  |
-| Ejaculation Disorder | 6% | 1% |
-| Impotence | 3% | <1% |
-| *Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. |  |  |
-
-1. 1.Denominator used was for females only (N=638 citalopram; N=252 placebo).
-2. 2.Primarily ejaculatory delay
-3. 3.Denominator used was for males only (N=425 citalopram; N=194 placebo).
+| Ejaculation Disorder2,3 | 6% | 1% |
+| Impotence3 | 3% | <1% |
+| *Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1. Denominator used was for females only (N=638 citalopram; N=252 placebo). 2. Primarily ejaculatory delay 3. Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
 
 Dose Dependency of Adverse Events
 

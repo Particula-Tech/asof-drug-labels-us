@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Citalopram Oral Solution USP
+Citalopram Oral Solution, USP
 
 10 mg per 5 mL oral solution is supplied as a (peppermint flavored) clear, colorless oral solution.
 

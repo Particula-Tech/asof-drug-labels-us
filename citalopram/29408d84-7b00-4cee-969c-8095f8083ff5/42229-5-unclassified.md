@@ -20,6 +20,6 @@ Assays of DDCT plasma concentrations in 2,020 citalopram-treated individuals dem
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.
 The possibility that DCT, a principal metabolite in humans, may prolong the QT interval in dogs has not been directly examined because DCT is rapidly converted to DDCT in that species.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-10003824/14 Revised January 2019
+Berkeley Heights, NJ 07922 C50000426/01 Revised June 2021
