@@ -1,16 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0187-0453-02
-
-Rx only
-
-Zelapar® 1.25 mg
-
-(selegiline HCl)
-
-Orally Disintegrating Tablets
-
-Contents: Clear child -resistant pouch containing 6 sachet pouches.
-Each sachet pouch contains 10 tablets
-
-VALEANT®
+NDC 0187-0453-02 Rx only Zelapar® (selegiline HCL) Orally Disintegrating Tablets 60 Tablets 1.25 mg Contents: Clear child-resistant pouch containing 6 sachetpouches.
+Each sachet pouch contains 10 tablets BAUSCH HEALTH

@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Assessment of the carcinogenic potential of selegiline administered orally to mice and rats is ongoing.
+Carcinogenicity studies of orally administered selegiline are not available for ZELAPAR.
 
 Carcinogenicity studies of selegiline have not been conducted using the buccal route.
 

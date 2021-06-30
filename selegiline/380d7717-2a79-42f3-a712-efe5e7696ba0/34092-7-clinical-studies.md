@@ -15,7 +15,9 @@ Table 2 shows the primary efficacy results.
 Patients treated with ZELAPAR had a 13% reduction from baseline in daily “OFF” time, compared with a 5% reduction for patients treated with placebo.
 ZELAPAR-treated patients had an average reduction from baseline of “OFF” time of 2.2 hours per day, compared with a reduction of 0.6 hours in placebo-treated patients.
 
-Table 2: Mean Percentage Change from Baseline in Daily "Off" Hours at End of Treatment (Average of Weeks 10 and 12) for Intent-to-Treat Population
+Table 2: Mean Percentage Change from Baseline in Daily "Off" Hours at End of Treatment
+
+(Average of Weeks 10 and 12) for Intent-to-Treat Population
 
 | Treatment | Change from Baseline |
 | --- | --- |
@@ -24,7 +26,7 @@ Table 2: Mean Percentage Change from Baseline in Daily "Off" Hours at End of Tre
 
 Figure 1 shows the mean daily percent “OFF” time during treatment over the whole study period for patients treated with ZELAPAR vs. patients treated with placebo.
 
-Figure 1: Mean daily percent "OFF" time during treatment over the whole study period for patients treated with ZELAPAR vs. patients treated with placebo
+Figure 1: Mean Daily Percent "OFF" Time During Treatment Over the Whole Study Period for Patients Treated with ZELAPAR vs. Patients Treated with Placebo
 
 Dosage reduction of levodopa was allowed during this study if dopaminergic side effects, including dyskinesia and hallucinations, emerged.
 In those patients who had levodopa dosage reduced, the dose was reduced on average by 24% in ZELAPAR-treated patients and by 21% in placebo-treated patients.

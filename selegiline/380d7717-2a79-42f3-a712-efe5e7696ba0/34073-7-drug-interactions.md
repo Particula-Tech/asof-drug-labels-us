@@ -1,8 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Meperidine
+## 7.1 Opioid Drugs
 
-Serious, sometimes fatal reactions have been reported in patients treated with concomitant meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors [see Contraindications (4)].
+Because serious, sometimes fatal reactions have been precipitated with concomitant use of opioid drugs (e.g., meperidine and its derivatives, methadone, or tramadol) and MAOIs, including selective MAO-B inhibitors, concomitant use of these drugs with ZELAPAR is contraindicated [see Contraindications (4) and Warnings and Precautions (5.2)].
+At least 14 days should elapse between discontinuation of ZELAPAR and initiation of treatment with these drugs.
 
 ## 7.2 Dextromethorphan
 
@@ -11,7 +12,8 @@ Therefore, in view of ZELAPAR’s MAO inhibitory activity, dextromethorphan shou
 
 ## 7.3 MAO Inhibitors
 
-ZELAPAR should not be administered along with other selegiline products (e.g., EMSAM or ELDEPRYL®) because of the increased risk of non-selective MAO inhibition that may lead to a hypertensive crisis [see Contraindications (4)].
+ZELAPAR is contraindicated for concomitant use with other drugs in the MAOI class or other drugs that are potent inhibitors of monoamine oxidase (including linezolid, an oxazolidinone antibacterial, which also has reversible nonselective MAO inhibition activity) because of the increased risk for hypertensive crisis [see Contraindications (4) and Warnings and Precautions (5.1)].
+At least 14 days should elapse between discontinuation of ZELAPAR and initiation of treatment with other MAOIs.
 
 ## 7.4 Sympathomimetic Medications
 

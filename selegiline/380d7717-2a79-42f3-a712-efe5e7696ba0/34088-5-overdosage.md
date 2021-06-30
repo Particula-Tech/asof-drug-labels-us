@@ -2,8 +2,8 @@
 
 ## 10.1 Selegiline
 
-No specific information is available about clinically significant overdoses with swallowed selegiline or ZELAPAR.
-However, experience gained during development of the 5 mg swallowed dosage form reveals that some individuals exposed to doses of 600 mg of d,l-selegiline suffered severe hypotension and psychomotor agitation.
+Experience gained during development of the 5 mg swallowed dosage form reveals that some individuals exposed to doses of 600 mg of d,l-selegiline suffered severe hypotension and psychomotor agitation.
+Small increments in serum BUN and creatinine have been observed in patients who received ZELAPAR 10 mg daily (4 times the recommended dose).
 
 Since the selective inhibition of MAO-B by ZELAPAR is achieved only at doses in the range recommended for the treatment of Parkinson’s disease (e.g., 2.5 mg/day), overdoses are likely to cause significant inhibition of both MAO-A and MAO-B.
 Consequently, the signs and symptoms of overdose may resemble those observed with marketed non-selective MAO inhibitors [e.g., tranylcypromine (PARNATE®), isocarboxazid (MARPLAN®), and phenelzine (NARDIL®)].

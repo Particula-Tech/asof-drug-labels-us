@@ -37,8 +37,8 @@ Inform patients that ZELAPAR may cause and/or exacerbate pre-existing dyskinesia
 
 Hallucinations/Psychotic-Like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur while taking Neupro and that the elderly are at a higher risk than younger patients with Parkinson's disease.
-Tell patients to report hallucinations or psychotic-like behavior to their health care provider promptly should they develop [see Warnings and Precautions (5.6)].
+Inform patients that hallucinations and other psychotic-like behavior can occur while taking ZELAPAR and that the elderly are at a higher risk than younger patients with Parkinson's disease.
+Tell patients to report hallucinations or psychotic-like behavior to their healthcare provider promptly should they develop [see Warnings and Precautions (5.6)].
 
 Impulse Control/Compulsive Behaviors
 
@@ -52,22 +52,17 @@ Withdrawal Emergent Hyperpyrexia and Confusion
 
 Advise patients to contact their healthcare provider if they wish to discontinue ZELAPAR or decrease the dose of ZELAPAR [see Warnings and Precautions (5.8)].
 
-Melanoma
-
-Advise patients with Parkinson’s disease that they have a higher risk of developing melanoma.
-Advise patients to have periodic examinations of their skin by a qualified healthcare professional on a regular basis when using ZELAPAR [see Warnings and Precautions (5.9)].
-
 Irritation of the Buccal Mucosa
 
-Inform patients that ZELAPAR may cause irritation of the buccal mucosa including swallowing pain, mouth pain, discrete areas of focal reddening, edema, and/or ulceration [see Warnings and Precautions (5.10)].
+Inform patients that ZELAPAR may cause irritation of the buccal mucosa including swallowing pain, mouth pain, discrete areas of focal reddening, edema, and/or ulceration [see Warnings and Precautions (5.9)].
 
 Risk for Phenylketonuric Patients
 
-Advise patients that ZELAPAR contains aspartame which could cause problems in patients with phenylketonuria [see Warnings and Precautions (5.11)].
+Advise patients that ZELAPAR contains aspartame which could cause problems in patients with phenylketonuria [see Warnings and Precautions (5.10)].
 
 Instructions for Use
 
-Patients should be instructed not to remove the blister from the sachet pouch until just prior to dosing.
+Instruct patients not to remove the blister from the sachet pouch until just prior to dosing.
 The blister pack should then be peeled open with dry hands and the orally disintegrating tablet placed on the tongue, where the tablet will disintegrate.
 Patients should also avoid drinking liquids or eating food 5 minutes before and after taking ZELAPAR.
 Use ZELAPAR within 3 months of opening sachet pouch and immediately upon opening individual blister.
@@ -85,3 +80,7 @@ How should I store ZELAPAR?
 
 BLISTER PACKS AND SACHET POUCHES ARE NOT CHILD-RESISTANT.
 THE CLEAR OUTER POUCH IS CHILD-RESISTANT.
+
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Catalent Pharma Solutions Limited Swindon, Wiltshire, SN5 8RU, UK ZELAPAR is a trademark of Bausch Health Companies Inc. or its affiliates.
+Zydis® is a registered trademark of Catalent Pharma Solutions or one of its subsidiaries, used under license.
+All other product/brand names are trademarks of their respective owners. © 2021 Bausch Health Companies Inc. or its affiliates 9603102

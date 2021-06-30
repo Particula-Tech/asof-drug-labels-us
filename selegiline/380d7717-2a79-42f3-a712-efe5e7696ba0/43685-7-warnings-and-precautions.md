@@ -4,9 +4,9 @@
 
 ZELAPAR should not be used at daily doses exceeding those recommended (2.5 mg/day) because of the risks associated with non-selective inhibition of MAO [see Drug Interactions (7.3) and Clinical Pharmacology (12.2)].
 
-The selectivity of ZELAPAR for MAO-B may not be absolute even at the recommended daily dose of 2.5 mg a day.
-The selectivity of MAO-B inhibitors, typically decreases and it is ultimately lost as the dose is increased beyond recommended doses.
-Hypertensive reactions associated with ingestion of tyramine containing foods have been reported even in patients taking the recommended daily dose of swallowed selegiline, a dose which is generally believed to be selective for MAO-B.
+The selectivity of ZELAPAR for MAO-B may not be absolute even at the recommended daily dose of 2.5 mg daily.
+The selectivity of MAO-B inhibitors typically decreases, and it is ultimately lost as the dose is increased beyond recommended doses.
+Hypertensive reactions associated with ingestion of tyramine-containing foods have been reported even in patients taking the recommended daily dose of swallowed selegiline, a dose which is generally believed to be selective for MAO-B.
 Selectivity for MAO-B inhibition is gradually lost with increasing daily doses.
 An increase in tyramine sensitivity for blood pressure responses appears to begin at a dose of 5 mg ZELAPAR daily [see Drug Interactions (7.5)].
 However, the precise dose at which ZELAPAR becomes a non-selective inhibitor of all MAO enzymes in individual patients is unknown.
@@ -79,7 +79,7 @@ The incidence of dyskinesia causing study discontinuation was greater on ZELAPAR
 In controlled trials, hallucination was reported by 4% of ZELAPAR-treated patients and 2% in placebo-treated patients.
 Hallucinations led to drug discontinuation and premature withdrawal from clinical trials in about 1% of ZELAPAR-treated patients, compared to no patient on placebo.
 
-Post-marketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during ZELAPAR treatment or after starting or increasing the dose of ZELAPAR.
+Postmarketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during ZELAPAR treatment or after starting or increasing the dose of ZELAPAR.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
@@ -97,24 +97,15 @@ Physicians should consider dose reduction or stopping the medication if a patien
 
 Although not reported with ZELAPAR in the clinical development program, a symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
 
-## 5.9 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using ZELAPAR for any indication.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
-
-## 5.10 Irritation of the Buccal Mucosa
+## 5.9 Irritation of the Buccal Mucosa
 
 In the controlled clinical trials, periodic examinations of the tongue and oral mucosa were performed.
 At the end of the study, the frequency of mild oropharyngeal abnormality (e.g., swallowing pain, mouth pain, discrete areas of focal reddening, multiple foci of reddening, edema, and/or ulceration) in patients without similar abnormality at baseline was 10% in ZELAPAR-treated patients compared to 3% in placebo-treated patients.
 
-## 5.11 Risk for Phenylketonuric Patients
+## 5.10 Risk for Patients with Phenylketonuria
 
-It is important to note that each ZELAPAR tablet contains 1.25 mg phenylalanine (a component of aspartame).
+Phenylalanine can be harmful to patients with phenylketonuria (PKU).
+ZELAPAR contains phenylalanine, a component of aspartame.
+Each ZELAPAR 1.25 mg tablet contains 1.25 mg phenylalanine.
 Patients taking the 2.5 mg dose of ZELAPAR will receive 2.5 mg phenylalanine.
-
-## 5.12 Effect on Renal Function
-
-Small increments in serum BUN and creatinine have been observed in patients treated with high dose ZELAPAR (10 mg daily; 4 times the recommended dose).
+Before prescribing ZELAPAR to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including ZELAPAR.

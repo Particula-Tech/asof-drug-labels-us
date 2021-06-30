@@ -2,11 +2,17 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate data on the developmental risk associated with the use of ZELAPAR in pregnant women.
 In animal studies, administration of selegiline during pregnancy was associated with developmental toxicity (decreased embryofetal and postnatal offspring growth and survival) at doses greater than those used clinically.
-ZELAPAR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+The background risk of major birth defects and miscarriage in the indicated population is unknown.
+
+Data
+
+Animal Data
 
 In rats administered selegiline orally (5, 10, and 40 mg/kg/day) throughout the period of organogenesis, a decrease in fetal body weight was observed at the mid and high doses.
 The no-effect dose for embryofetal developmental toxicity in rats (5 mg/kg/day) is approximately 20 times the maximum recommended human dose (MRHD) of 2.5 mg/day on a mg/m2 basis.
@@ -17,11 +23,14 @@ The no-effect dose for embryofetal developmental toxicity in rabbits (5 mg/kg/da
 In rats administered selegiline orally (0.3, 1, and 10 mg/kg/day) during gestation and lactation, decreases in offspring survival and body weights were observed at the highest dose tested.
 The no-effect dose for pre- and postnatal developmental toxicity (1 mg/kg/day) is approximately 4 times the MRHD on a mg/m2 basis.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
+Risk Summary
+
+There are no data on the presence of selegiline or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
 Selegiline and metabolites were detected in rat milk at levels higher than those in maternal plasma.
-It is not known whether this drug or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when ZELAPAR is administered to a nursing woman.
+
+Because of the potential for serious adverse reactions in breastfed infants from ZELAPAR, including the potential for hypertensive reactions, advise a woman that breastfeeding is not recommended during treatment with ZELAPAR and for 7 days after the final dose.
 
 ## 8.4 Pediatric Use
 
@@ -40,7 +49,7 @@ In the geriatric patients, the treatment difference for incidence of orthostatic
 ## 8.6 Hepatic Impairment
 
 Patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9) may require a dose reduction of ZELAPAR (from 2.5 to 1.25 mg daily) depending on the clinical response.
-ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score >9) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score >9)[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
