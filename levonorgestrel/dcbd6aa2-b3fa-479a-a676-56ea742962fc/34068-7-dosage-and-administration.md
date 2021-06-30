@@ -17,31 +17,37 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 ## 2.2 Insertion Instructions
 
-- •A complete medical and social history should be obtained to determine conditions that might influence the selection of a levonorgestrel-releasing intrauterine system (LNG IUS) for contraception.
+- •Obtain a complete medical and social history to determine conditions that might influence the selection of a levonorgestrel-releasing intrauterine system (LNG IUS) for contraception.
   If indicated, perform a physical examination, and appropriate tests for any forms of genital or other sexually transmitted infections.
   [See Contraindications (4) and Warnings and Precautions (5.10).]
-- •Follow the insertion instructions exactly as described in order to ensure proper placement and avoid premature release of Mirena from the inserter.
+  Because irregular bleeding/spotting is common during the first months of Mirena use, exclude endometrial pathology (polyps or cancer) prior to the insertion of Mirena in women with persistent or uncharacteristic bleeding [see Warnings and Precautions (5.8)].
+- •Follow the insertion instructions exactly as described to ensure proper placement and avoid premature release of Mirena from the inserter.
   Once released, Mirena cannot be re-loaded.
+- •Check expiration date of Mirena prior to initiating insertion.
+
 - •Mirena should be inserted by a trained healthcare provider.
   Healthcare providers should become thoroughly familiar with the insertion instructions before attempting insertion of Mirena.
-- •Insertion may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia), or with seizure in an epileptic patient, especially in patients with a predisposition to these symptoms.
+- •Insertion may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia), or with seizure, especially in patients with a predisposition to these conditions.
   Consider administering analgesics prior to insertion.
 
 ### Timing of Insertion
 
 Table 1: When to Insert Mirena
 
-| Starting Mirena in women not currently using hormonal or intrauterine contraception | Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].If Mirena is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back up contraception is not needed.If Mirena is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
+| Starting Mirena in women not currently using hormonal or intrauterine contraception | •Insert Mirena any time there is reasonable certainty that the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].•If Mirena is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back-up contraception is not needed.•If Mirena is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used, or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
 | --- | --- |
-| Switching to Mirena from an oral, transdermal or vaginal hormonal contraceptive | Mirena may be inserted at any time, including during the hormone-free interval of the previous method.If inserted during active use of the previous method, continue that method for 7 days after Mirena insertion or until the end of the current treatment cycle.If the woman was using continuous hormonal contraception, discontinue that method seven days after Mirena insertion. |
-| Switching to Mirena from an injectable progestin contraceptive | Mirena may be inserted at any time; a back-up method of contraception (such as condoms or spermicide) should also be used for 7 days if Mirena is inserted more than 3 months (13 weeks) after the last injection. |
-| Switching to Mirena from a contraceptive implant or another IUS | Insert Mirena on the same day the implant or IUS is removed. Mirena may be inserted at any time during the menstrual cycle. |
-| Inserting Mirena after abortion or miscarriage |  |
-| First-trimester | Mirena may be inserted immediately after a first-trimester abortion or miscarriage. |
-| Second-trimester | Do not insert Mirena until a minimum of 6 weeks after second trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Mirena. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant.If Mirena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy. |
-| Inserting Mirena after Childbirth | Do not insert Mirena until a minimum of 6 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of Mirena. [See Contraindications (4), Warnings and Precautions (5.2)]. Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant.If Mirena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days to prevent pregnancy.There is an increased risk of perforation in lactating women. [See Warnings and Precautions (5.6).] |
+| Switching to Mirena from an oral, transdermal or vaginal hormonal contraceptive | •Insert Mirena at any time, including during the hormone-free interval of the previous method.•If inserted during active use of the previous method, continue that method for 7 days after Mirena insertion or until the end of the current treatment cycle.•If the woman was using continuous hormonal contraception, discontinue that method seven days after Mirena insertion. |
+| Switching to Mirena from an injectable progestin contraceptive | •Insert Mirena at any time; a non-hormonal back-up birth control (such as condoms or spermicide) should also be used for 7 days if Mirena is inserted more than 3 months (13 weeks) after the last injection. |
+| Switching to Mirena from a contraceptive implant or another IUS | •Insert Mirena on the same day the implant or IUS is removed. •Insert Mirena at any time during the menstrual cycle. |
+| Inserting Mirena after first-trimester abortion or miscarriage | •Insert Mirena immediately after a first-trimester abortion or miscarriage, unless it is a septic abortion [see Contraindications (4)]. |
+| Inserting Mirena after childbirth or second-trimester abortion or miscarriage |  |
+| •Immediate insertion after childbirth or second-trimester abortion or miscarriage | •Insert Mirena after removal of the placenta. Back-up contraception is not needed. [See Contraindications (4), Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)]. |
+| Interval insertion following complete involution of the uterus | •Wait a minimum of 6 weeks or until the uterus is fully involuted before inserting Mirena [see Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)].•Insert Mirena any time there is reasonable certainty the woman is not pregnant.•If Mirena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used, or the woman should abstain from vaginal intercourse for 7 days to prevent pregnancy [see Contraindications (4), Warnings and Precautions (5.2)]. |
 
 ### Tools for Insertion
+
+Note: The inserter provided with Mirena (see Figure 1) and the Insertion Procedure described in this section are not applicable for immediate insertion after childbirth or second-trimester abortion or miscarriage.
+For immediate insertion, remove Mirena from the inserter by first loading (see Figure 2) and then releasing (see Figure 7) Mirena from the inserter, and insert according to accepted practice.
 
 #### Preparation
 
@@ -49,14 +55,15 @@ Table 1: When to Insert Mirena
 - •Speculum
 - •Sterile uterine sound
 - •Sterile tenaculum
-- •Antiseptic solution, applicator
+
+Antiseptic solution, applicator
 
 #### Procedure
 
 - •Sterile gloves
 - •Mirena with inserter in sealed package
 - •Instruments and anesthesia for paracervical block, if anticipated
-- •Consider having an unopened backup Mirena available
+- •Consider having an unopened back-up Mirena available
 - •Sterile, sharp curved scissors
 
 ### Preparation for insertion
@@ -96,7 +103,7 @@ Ensure use of aseptic technique throughout the entire procedure.
   DO NOT move the slider downward at this time as this may prematurely release the threads of Mirena.
   Once the slider is moved below the mark, Mirena cannot be re-loaded.
 
-#### Step 3–Setting the flange
+#### Step 3–Setting the Flange
 
 - •Holding the slider in this forward position, set the upper edge of the flange to correspond to the uterine depth (in centimeters) measured during sounding (Figure 3).
 
@@ -136,9 +143,9 @@ Record the Mirena lot number in the patient records.
 
 - •If you suspect that Mirena is not in the correct position, check placement (for example, using transvaginal ultrasound).
   Remove Mirena if it is not positioned completely within the uterus.
-  A removed Mirena must not be re-inserted.
+  Do not reinsert a removed Mirena.
 
-If there is clinical concern, exceptional pain or bleeding during or after insertion, appropriate steps (such as physical examination and ultrasound) should be taken immediately to exclude perforation.
+If there is clinical concern, exceptional pain or bleeding during or after insertion, take appropriate steps (such as physical examination and ultrasound) immediately to exclude perforation.
 
 ## 2.3 Patient Follow-up
 
@@ -150,9 +157,8 @@ Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year the
 
 - •For contraception, remove Mirena by the end of the sixth year and replace at the time of removal with a new Mirena if continued use is desired.
   Replace Mirena by the end of the fifth year if continued treatment of heavy menstrual bleeding is needed.
-- •If pregnancy is not desired, remove Mirena during menstruation, provided the woman is still experiencing regular menses.
-  If removal will occur at other times during the cycle, consider starting a new contraceptive method a week prior to removal.
-  If removal occurs at other times during the cycle and the woman has had intercourse in the week prior to removal, she is at risk of pregnancy.
+- •If pregnancy is not desired, remove Mirena during the first 7 days of the menstrual cycle, provided the woman is still experiencing regular menses.
+  If removal will occur at other times during the cycle, or the woman does not experience regular menses, she is at risk of pregnancy; start a new contraceptive method a week prior to removal for these women.
   [See Dosage and Administration (2.5).]
 
 ### Tools for Removal
@@ -175,13 +181,11 @@ Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year the
 - •If Mirena is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
   This may require dilation of the cervical canal.
   After removal of Mirena, examine the system to ensure that it is intact.
-
-Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, or a seizure in an epileptic patient).
+- •Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure especially in patients with a predisposition to these conditions.
 
 ## 2.5 Continuation of Contraception after Removal
 
 - •If pregnancy is not desired and if a woman wishes to continue using Mirena, a new system can be inserted immediately after removal any time during the cycle.
-- •If a patient with regular cycles wants to start a different birth control method, time removal and initiation of new method to ensure continuous contraception.
+- •If a patient with regular cycles wants to start a different contraceptive method, time removal and initiation of the new method to ensure continuous contraception.
   Either remove Mirena during the first 7 days of the menstrual cycle and start the new method immediately thereafter or start the new method at least 7 days prior to removing Mirena if removal is to occur at other times during the cycle.
-
-If a patient with irregular cycles or amenorrhea wants to start a different birth control method, start the new method at least 7 days before removal.
+- •If a patient with irregular cycles or amenorrhea wants to start a different contraceptive method, start the new method at least 7 days before removal.

@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-The local mechanism by which continuously released LNG enhances contraceptive effectiveness of Mirena has not been conclusively demonstrated.
+The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Mirena has not been conclusively demonstrated.
 Studies of Mirena and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium.
 
 ## 12.2 Pharmacodynamics
 
 Mirena has mainly local progestogenic effects in the uterine cavity.
-The high local levels of LNG2 lead to morphological changes including stromal pseudodecidualization, glandular atrophy, a leukocytic infiltration and a decrease in glandular and stromal mitoses.
+The local concentrations of LNG lead to morphological changes including stromal pseudodecidualization, glandular atrophy, a leukocytic infiltration and a decrease in glandular and stromal mitoses.
 
 Ovulation is inhibited in some women using Mirena.
 In a 1-year study, approximately 45% of menstrual cycles were ovulatory, and in another study after 4 years, 75% of cycles were ovulatory.
@@ -49,7 +49,7 @@ Use of this product before menarche is not indicated.
 
 Geriatric: Mirena has not been studied in women over age 65 and is not currently approved for use in this population.
 
-Race: No studies have evaluated the effect of race on pharmacokinetics of Mirena.
+Race: No studies have evaluated the effect of race on the pharmacokinetics of Mirena.
 
 Hepatic Impairment: No studies were conducted to evaluate the effect of hepatic disease on the disposition of Mirena.
 
