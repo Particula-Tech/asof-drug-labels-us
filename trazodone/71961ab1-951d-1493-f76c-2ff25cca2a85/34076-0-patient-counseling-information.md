@@ -39,6 +39,8 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 mg
 
 | Manufactured by | Manufactured For |
@@ -47,7 +49,7 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Toronto, Ontario | Weston Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: November 2018
+Revised: September 2020
 
 Rev.
-6
+7

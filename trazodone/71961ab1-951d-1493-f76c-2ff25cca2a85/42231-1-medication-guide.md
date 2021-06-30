@@ -4,6 +4,8 @@ Trazodone hydrochloride tablets, USP, for oral use
 
 (traz' oh done hye'' droe klor' ide)
 
+Medication Guide available at www1.apotex.com/products/us
+
 What is the most important information I should know about trazodone hydrochloride tablets?
 
 Antidepressant medicines, depression or other serious mental illnesses, and suicidal thoughts or actions: Talk to your healthcare provider about:
@@ -202,7 +204,7 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Toronto, Ontario | Weston Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: November 2018
+Revised: September 2020
 
 Rev.
-6
+7
