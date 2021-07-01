@@ -3,23 +3,25 @@
 ## 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
 
 Premature discontinuation of any oral anticoagulant, including PRADAXA, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
-If PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant and restart PRADAXA as soon as medically appropriate [see Dosage and Administration (2.4, 2.5, 2.6)].
+If PRADAXA Capsules is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant and restart PRADAXA Capsules as soon as medically appropriate [see Dosage and Administration (2.6, 2.7, 2.8)].
 
 ## 5.2 Risk of Bleeding
 
 PRADAXA increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding.
 Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension).
-Discontinue PRADAXA in patients with active pathological bleeding [see Dosage and Administration (2.2)].
+Discontinue PRADAXA Capsules in patients with active pathological bleeding [see Dosage and Administration (2.4)].
 
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 PRADAXA's anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
 Reversal of Anticoagulant Effect:
 
-A specific reversal agent (idarucizumab) for dabigatran is available when reversal of the anticoagulant effect of dabigatran is needed:
+In adults, a specific reversal agent (idarucizumab) for PRADAXA is available when reversal of the anticoagulant effect of dabigatran is needed:
 
 - For emergency surgery/urgent procedures
 - In life-threatening or uncontrolled bleeding
+
+In pediatric patients, the efficacy and safety of idarucizumab have not been established.
 
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Prothrombin complex concentrates, or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.
@@ -30,7 +32,7 @@ Consider administration of platelet concentrates in cases where thrombocytopenia
 
 When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see Boxed Warning].
 
-To reduce the potential risk of bleeding associated with the concurrent use of dabigatran and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of dabigatran [see Clinical Pharmacology (12.3)].
+To reduce the potential risk of bleeding associated with the concurrent use of PRADAXA and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of dabigatran [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of dabigatran is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
 Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction.
@@ -39,10 +41,10 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 ## 5.4 Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
 
-The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150 mg, 220 mg, or 300 mg of PRADAXA twice a day.
-RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm.
-These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.
-Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].
+The safety and efficacy of PRADAXA Capsules in adult patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose-adjusted warfarin or 150 mg, 220 mg, or 300 mg of PRADAXA Capsules twice a day.
+RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA Capsules treatment arm as compared to the warfarin treatment arm.
+These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA Capsules postoperatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.
+Therefore, the use of PRADAXA is contraindicated in all patients with mechanical prosthetic valves [see Contraindications (4)].
 
 The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
 
@@ -53,18 +55,22 @@ The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces expos
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
-Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-Reduce the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
-Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
+Reduce the dose of PRADAXA Capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with PRADAXA Capsules in patients with moderate renal impairment (CrCl 30-50 mL/min).
+Avoid use of PRADAXA Capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
+Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
 
-Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
+Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
+
+Treatment and reduction in risk of recurrence of VTE in pediatric patients
+
+The concomitant use of PRADAXA Capsules with P-gp-inhibitors has not been studied in pediatric patients but may increase exposure to dabigatran.
 
 ## 5.6 Increased Risk of Thrombosis in Patients with Triple-Positive Antiphospholipid Syndrome
 

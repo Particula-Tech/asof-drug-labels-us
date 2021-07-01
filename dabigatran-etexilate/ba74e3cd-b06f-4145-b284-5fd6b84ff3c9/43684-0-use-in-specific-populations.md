@@ -13,7 +13,7 @@ However, the incidence of delayed or irregular ossification of fetal skull bones
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 
 Clinical Considerations
 
@@ -55,11 +55,16 @@ Breastfeeding is not recommended during treatment with PRADAXA.
 
 Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
 
-The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including Pradaxa should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
+The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including PRADAXA should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of PRADAXA in pediatric patients have not been established.
+The safety and effectiveness of PRADAXA Capsules for the treatment and the reduction in risk of recurrence of venous thromboembolism have been established in pediatric patients 8 to less than 18 years of age.
+Use of PRADAXA for this indication is supported by evidence from adequate and well-controlled studies in pediatric patients.
+These studies included an open-label, randomized, parallel-group study and an open-label, single-arm safety study [see Adverse Reactions (6.1) and Clinical Studies (14.4, 14.5)].
+Other age-appropriate pediatric dosage forms of dabigatran etexilate are available for pediatric patients less than 8 years of age for these indications.
+
+Safety and effectiveness of PRADAXA Capsules have not been established in pediatric patients with non-valvular atrial fibrillation or those who have undergone hip replacement surgery.
 
 ## 8.5 Geriatric Use
 
@@ -68,25 +73,32 @@ The risk of stroke and bleeding increases with age, but the risk-benefit profile
 
 ## 8.6 Renal Impairment
 
-Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
 No dose adjustment of PRADAXA is recommended in patients with mild or moderate renal impairment [see Clinical Pharmacology (12.3)].
-Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
+Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.2, 2.4) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
 
 Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.5), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
 Patients with severe renal impairment (CrCl ≤30 mL/min) were excluded from RE-COVER.
 
 Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
 Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
-Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
 Patients with severe renal impairment (CrCl <30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
 
 Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
 
 Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
+
+Treatment and Reduction in the Risk of Recurrence of VTE in Pediatric Patients
+
+PRADAXA has not been studied in pediatric patients with eGFR < 50 mL/min/1.73m2.
+Reduced renal function could increase exposure.
+Dosing recommendations cannot be provided for treatment of these patients.
+Avoid use of PRADAXA Capsules in these patients [see Dosage and Administration (2.4)].

@@ -3,7 +3,7 @@
 (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS
 
 Premature discontinuation of any oral anticoagulant, including PRADAXA, increases the risk of thrombotic events.
-If anticoagulation with PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4, 2.5, 2.6) and Warnings and Precautions (5.1)].
+If anticoagulation with PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.6, 2.7, 2.8) and Warnings and Precautions (5.1)].
 
 (B) SPINAL/EPIDURAL HEMATOMA
 
