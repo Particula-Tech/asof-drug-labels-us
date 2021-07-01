@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214455"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-983-17",
+    "51991-983-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "norepinephrine bitartrate",
+      "name": "Norepinephrine Bitartrate"
+    }
+  ],
+  "setid": "109aa5e6-4e42-4131-97b0-f24d3a4cb4e8",
+  "source": "dailymed"
+}
