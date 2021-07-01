@@ -61,14 +61,32 @@ Venlafaxine Tablets, USP may:
 Enlarged pupils (mydriasis).
 
 5.
-Anxiety and insomnia.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including venlafaxine tablets, USP, may cause sexual problems.
+
+Symptoms in males may include:
+
+- oDelayed ejaculation or inability to have an ejaculation
+- oDecreased sex drive
+- oProblems getting or keeping an erection
+
+Symptoms in females may include:
+
+- oDecreased sex drive
+- oDelayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with venlafaxine tablets, USP.
+There may be treatments your healthcare provider can suggest.
 
 6.
+Anxiety and insomnia.
+
+7.
 Changes in appetite or weight.
 
 - •children and adolescents should have height and weight monitored during treatment
 
-7.
+8.
 Manic/hypomanic episodes:
 
 - •greatly increased energy
@@ -79,7 +97,7 @@ Manic/hypomanic episodes:
 - •excessive happiness or irritability
 - •talking more or faster than usual
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 
 Elderly people may be at greater risk for this.
@@ -89,16 +107,16 @@ Symptoms may include:
 - •weakness or feeling unsteady
 - •confusion, problems concentrating or thinking or memory problems
 
-9.
+10.
 Seizures or convulsions.
 
-10.
+11.
 Abnormal bleeding: venlafaxine tablets, USP and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-11.
+12.
 Elevated cholesterol.
 
-12.
+13.
 Lung disease and pneumonia: venlafaxine tablets, USP may cause rare lung problems.
 Symptoms include:
 
@@ -106,14 +124,14 @@ Symptoms include:
 - •cough
 - •chest discomfort
 
-13.
+14.
 Severe allergic reactions:
 
 - •trouble breathing
 - •swelling of the face, tongue, eyes or mouth
 - •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-14.
+15.
 Visual problems:
 
 - •eye pain
@@ -271,11 +289,11 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 How should I store Venlafaxine Tablets, USP?
 
 - •Store at 20° to 25°C (68° to 77°F) excursions permitted 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
-- •Keep velafaxine tablets, USP in a dry place.
+- •Keep venlafaxine tablets, USP in a dry place.
 
 Keep Venlafaxine Tablets, USP and all medicines out of the reach of children.
 
-General information about venlafaxine tablets, USP Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about venlafaxine tablets, USP.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use venlafaxine tablets, USP for a condition for which it was not prescribed.
 Do not give venlafaxine tablets, USP to other people, even if they have same condition.
 It may harm them.
@@ -312,4 +330,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Revised: 01/2019
+Revised: 06/2021
