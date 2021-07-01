@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022007"
+  ],
+  "inn": "formoterol",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-1631-91",
+    "0378-1631-93"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate dihydrate",
+      "name": "FORMOTEROL FUMARATE"
+    }
+  ],
+  "setid": "6c1a6c53-af85-4220-9ce3-2373e0928f7f",
+  "source": "dailymed"
+}
