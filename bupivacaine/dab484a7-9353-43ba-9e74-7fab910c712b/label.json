@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA211988"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Heron Therapeutics, Inc.",
+  "package_ndcs": [
+    "47426-301-02",
+    "47426-302-02",
+    "47426-303-01",
+    "47426-304-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "bupivacaine and meloxicam",
+      "name": "ZYNRELEF"
+    }
+  ],
+  "setid": "dab484a7-9353-43ba-9e74-7fab910c712b",
+  "source": "dailymed"
+}

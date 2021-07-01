@@ -1,0 +1,225 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Cardiovascular (CV) Thrombotic Events with NSAID Use
+
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
+The risk of these events following single-dose local application of ZYNRELEF is uncertain.
+
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, do not exceed the recommended dose.
+Physicians and patients should remain alert for the development of such events following treatment with ZYNRELEF, even in the absence of previous CV symptoms.
+Inform patients about the signs and symptoms of serious CV events and the steps to take if they occur.
+
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as meloxicam, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+
+Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+ZYNRELEF is contraindicated in the setting of CABG [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of ZYNRELEF in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If ZYNRELEF is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+The risk of these events following single-dose local application of ZYNRELEF is uncertain.
+
+## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation with NSAID Use
+
+NSAIDs, including meloxicam in ZYNRELEF, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
+Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
+However, even short-term NSAID therapy is not without risk.
+
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most post marketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+Strategies to Minimize the GI Risks in NSAID-treated Patients
+
+- Use the recommended dose for each indicated surgical procedure.
+- Avoid administration of analgesic doses of more than one NSAID at a time.
+  If additional NSAID medication is indicated in the post-operative period, monitor patients for signs and symptoms of NSAID-related GI adverse reactions.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding following treatment with ZYNRELEF.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+
+## 5.3 Dose-Related Toxicity
+
+The safety and effectiveness of local anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+The toxic effects of local anesthetics are additive.
+Avoid additional local anesthetic administration within 96 hours following ZYNRELEF instillation.
+If additional local anesthetic administration with ZYNRELEF cannot be avoided based on clinical need, monitor patients for neurologic and cardiovascular effects related to local anesthetic systemic toxicity.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after administration of ZYNRELEF.
+
+Possible early warning signs of central nervous system (CNS) toxicity are restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, CNS depression, or drowsiness.
+Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest, and, possibly, death.
+
+## 5.4 Risk of Use in Patients with Impaired Cardiovascular Function
+
+Patients with impaired cardiovascular function (e.g., hypotension, heart block) may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by ZYNRELEF.
+Monitor patients closely for blood pressure, heart rate, and ECG changes.
+
+## 5.5 Hepatotoxicity
+
+Local Anesthetics, Including Bupivacaine
+
+Because amide-type local anesthetics such as bupivacaine are metabolized by the liver, these drugs should be used cautiously in patients with hepatic disease.
+Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations.
+
+NSAIDs
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials.
+In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including meloxicam.
+The risk of these events following single-dose local application of ZYNRELEF is uncertain.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), perform a clinical evaluation of the patient [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 5.6 Hypertension
+
+NSAIDs, including meloxicam in ZYNRELEF, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+Monitor blood pressure (BP) after administration of ZYNRELEF.
+
+## 5.7 Heart Failure and Edema
+
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of meloxicam may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
+The risk of these events following single-dose local application of ZYNRELEF is uncertain.
+
+Avoid the use of ZYNRELEF in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If ZYNRELEF is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
+## 5.8 Renal Toxicity and Hyperkalemia
+
+Renal Toxicity
+
+ZYNRELEF is a single-use product that contains an NSAID.
+Long-term administration of NSAIDs has resulted in renal papillary necrosis, renal insufficiency, acute renal failure, and other renal injury.
+
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+The renal effects of meloxicam may hasten the progression of renal dysfunction in patients with preexisting renal disease.
+Because some meloxicam metabolites are excreted by the kidney, monitor patients for signs of worsening renal function.
+
+Correct volume status in dehydrated or hypovolemic patients prior to initiating ZYNRELEF.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of ZYNRELEF [see Drug Interactions (7)].
+Avoid the use of ZYNRELEF in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If ZYNRELEF is used in patients with advanced renal disease, monitor patients for signs of worsening renal function [see Clinical Pharmacology (12.3)].
+
+Hyperkalemia
+
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
+
+## 5.9 Anaphylactic Reactions
+
+NSAIDs
+
+Meloxicam, contained in ZYNRELEF, has been associated with anaphylactic reactions in patients with and without known hypersensitivity to meloxicam and in patients with aspirin-sensitive asthma [see Contraindications (4)].
+
+Seek emergency help if an anaphylactic reaction occurs.
+
+## 5.10 Chondrolysis with Intra-Articular Infusion
+
+Intra-articular infusions of local anesthetics, following arthroscopic and other surgical procedures is an unapproved use, and there have been post marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humerol chondrolysis have been described in pediatric patients and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are associated with chondrolysis.
+The time of onset of symptoms, such as joint pain, stiffness, and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who have experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
+## 5.11 Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue any oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+## 5.12 Exacerbation of Asthma Related to Aspirin Sensitivity
+
+A subpopulation of patients with asthma may have aspirin-sensitive asthma, which may include: chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, NSAIDs are contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+When ZYNRELEF is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for exacerbation of asthma symptoms.
+
+## 5.13 Serious Skin Reactions
+
+NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions.
+
+ZYNRELEF is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+
+## 5.14 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ZYNRELEF.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, evaluate the patient immediately and treat as clinically indicated.
+
+## 5.15 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including ZYNRELEF, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including ZYNRELEF, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including ZYNRELEF, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit ZYNRELEF use to the lowest effective dose.
+Because meloxicam can be detected in plasma beyond 48 hours after administration of ZYNRELEF, consider ultrasound monitoring for oligohydramnios.
+If oligohydramnios occurs, follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.16 Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
+If a patient treated with ZYNRELEF has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+NSAIDs, including meloxicam, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
+
+## 5.17 Masking of Inflammation and Fever
+
+The pharmacological activity of ZYNRELEF in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
