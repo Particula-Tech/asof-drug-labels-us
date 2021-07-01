@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Medroxyprogesterone acetate injectable suspension, inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
+Medroxyprogesterone acetate (MPA) injectable suspension, inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
 These actions contribute to its contraceptive effect.
 
 ## 12.2 Pharmacodynamics

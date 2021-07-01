@@ -8,4 +8,16 @@
 - Counsel patients on Warnings and Precautions associated with use of medroxyprogesterone acetate injectable suspension.
 - Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with medroxyprogesterone acetate injectable suspension.
 
-.
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Industries Limited
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India.
