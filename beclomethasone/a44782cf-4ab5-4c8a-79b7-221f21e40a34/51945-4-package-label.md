@@ -20,8 +20,7 @@ Important: Read accompanying directions carefully.
 
 Made in Canada
 
-©2017 GSK group of companies or its licensor.
+©2021 GSK group of companies or its licensor.
 
-1. 62000000019007 Rev.
-   11/17
-2. 
+1. 62000000062921 Rev.
+   4/21
