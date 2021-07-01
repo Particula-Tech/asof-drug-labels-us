@@ -115,3 +115,10 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in tramado
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
 Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in overdose setting.
+
+Metabolism and nutrition disorders
+
+Hyponatremia: cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.19)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.20)].
