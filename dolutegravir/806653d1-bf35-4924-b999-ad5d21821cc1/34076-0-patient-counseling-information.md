@@ -15,10 +15,10 @@ Inform patients that monitoring for hepatotoxicity is recommended.
 
 Embryo-Fetal Toxicity
 
-Advise individuals of childbearing potential to consider an alternative treatment to JULUCA at the time of conception through the first trimester of pregnancy.
-Advise individuals of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with JULUCA [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
+Advise individuals of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of JULUCA with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
+If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
 
-Counsel individuals of childbearing potential taking JULUCA to consistently use effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+Individuals of childbearing potential taking JULUCA should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 Depressive Disorders
 
@@ -27,7 +27,7 @@ Advise patients to seek immediate medical evaluation if they experience depressi
 
 Drug Interactions
 
-JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
+JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Administration Instruction
 
@@ -62,6 +62,6 @@ by:
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2021 ViiV Healthcare group of companies or its licensor.
 
-JLC:5PI
+JLC:6PI

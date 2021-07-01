@@ -25,15 +25,14 @@ Monitoring for hepatotoxicity is recommended.
 
 ## 5.3 Embryo-Fetal Toxicity
 
-An observational study showed an association between dolutegravir, a component of JULUCA, and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, an alternative treatment to JULUCA should be considered at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
+An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform individuals of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with JULUCA.
+Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1.
+8.3)].
 
-Perform pregnancy testing before initiation of JULUCA in individuals of childbearing potential to exclude use of JULUCA during the first trimester of pregnancy [see Dosage and Administration (2.1)].
-Initiation of JULUCA is not recommended in individuals actively trying to become pregnant unless there is no suitable alternative [see Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of JULUCA in individuals of childbearing potential [see Dosage and Administration (2.1)].
 
-Counsel individuals of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
-
-In individuals of childbearing potential currently on JULUCA who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing JULUCA versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Use in Specific Populations (8.1, 8.3)].
+Individuals of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
 
 JULUCA may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
 

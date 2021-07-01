@@ -2,7 +2,7 @@
 
 ## 2.1 Pregnancy Testing before Initiation of JULUCA
 
-Perform pregnancy testing before initiation of JULUCA in individuals of childbearing potential [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of JULUCA in individuals of childbearing potential [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 ## 2.2 Recommended Dosage
 

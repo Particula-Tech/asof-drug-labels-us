@@ -2,9 +2,11 @@
 
 JULUCA is contraindicated in patients:
 
-- •with previous hypersensitivity reaction to dolutegravir or rilpivirine [see Warnings and Precautions (5.1)].
-- •receiving dofetilide due to the potential for increased dofetilide plasma concentrations and the risk for serious and/or life-threatening events [see Drug Interactions (7)].
-- •receiving other coadministered drugs in Table 1 that significantly decrease rilpivirine plasma concentrations [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+• with previous hypersensitivity reaction to dolutegravir or rilpivirine [see Warnings and Precautions (5.1)].
+
+• receiving dofetilide due to the potential for increased dofetilide plasma concentrations and the risk for serious and/or life-threatening events [see Drug Interactions (7)].
+
+• receiving other coadministered drugs in Table 1 that significantly decrease rilpivirine plasma concentrations [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 Table 1.
 Drugs That are Contraindicated with JULUCA
