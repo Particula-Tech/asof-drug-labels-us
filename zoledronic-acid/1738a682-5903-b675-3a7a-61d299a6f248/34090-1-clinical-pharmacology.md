@@ -55,7 +55,7 @@ Excretion
 In 64 patients with cancer and bone metastases, on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
 The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
-The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2 L/h.
+The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
 
 Zoledronic acid clearance was independent of dose but dependent upon the patient’s creatinine clearance.
 In a study in patients with cancer and bone metastases, increasing the infusion time of a 4 mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL versus 420 ± 218 ng x h/mL).
@@ -66,7 +66,7 @@ Special Populations
 Pediatrics
 
 Zoledronic acid injection is not indicated for use in children.
-[See Use in Specific Populations (8.4)]
+[see Use in Specific Populations (8.4)]
 
 Geriatrics
 
@@ -92,7 +92,7 @@ CrCl = [140-age (years)] x weight (kg) {x 0.85 for female patients}
 
 [72 x serum creatinine (mg/dL)]
 
-Zoledronic acid injection systemic clearance in individual patients can be calculated from the population clearance of zoledronic acid injection, CL (L/h)=6.5(CLcr/90)0.4.
+Zoledronic acid injection systemic clearance in individual patients can be calculated from the population clearance of zoledronic acid injection, CL (L/h)=6.5 (CLcr/90)0.4.
 These formulae can be used to predict the zoledronic acid injection AUC in patients, where CL = Dose/AUC0-∞.
 The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4 mg dose of zoledronic acid injection.
 However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.3)].

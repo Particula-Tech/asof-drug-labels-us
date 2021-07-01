@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-4 mg per 5 mL single-use vial of concentrate
+Injection: 4 mg/5 mL (0.8 mg/mL) single-dose vial for dilution prior to intravenous infusion.

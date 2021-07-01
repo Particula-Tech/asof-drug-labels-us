@@ -4,7 +4,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 ## 2.1 Hypercalcemia of Malignancy
 
-The maximum recommended dose of zoledronic acid injection in hypercalcemia of malignancy (albumin-corrected serum calcium greater than or equal to 12 mg/dL [3 mmol/L]) is 4 mg.
+The maximum recommended dose of zoledronic acid injection in hypercalcemia of malignancy (albumin-corrected serum calcium greater than or equal to 12 mg/dL [3.0 mmol/L]) is 4 mg.
 The 4 mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
 Patients who receive zoledronic acid injection should have serum creatinine assessed prior to each treatment.
 
@@ -31,14 +31,14 @@ Upon treatment initiation, the recommended zoledronic acid injection doses for p
 These doses are calculated to achieve the same area under the curve (AUC) as that achieved in patients with creatinine clearance of 75 mL/min.
 CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
-Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 mL/min
+Table 1: Reduced Doses for Patients With Baseline CrCl Less Than or Equal to 60 mL/min
 
-| Baseline Creatinine Clearance (mL/min) | Zoledronic Acid Injection Recommended Dose* |
+| Baseline Creatinine Clearance (mL/min) | Zoledronic Acid Injection Recommended Dose(mg)* |
 | --- | --- |
-| greater than 60 | 4 mg |
-| 50 to 60 | 3.5 mg |
-| 40 to 49 | 3.3 mg |
-| 30 to 39 | 3 mg |
+| greater than 60 | 4 |
+| 50 to 60 | 3.5 |
+| 40 to 49 | 3.3 |
+| 30 to 39 | 3 |
 | *Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl = 75 mL/min) |  |
 
 During treatment, serum creatinine should be measured before each zoledronic acid injection dose and treatment should be withheld for renal deterioration.
@@ -46,10 +46,10 @@ In the clinical studies, renal deterioration was defined as follows:
 
 For patients with normal baseline creatinine, increase of 0.5 mg/dL
 
-For patients with abnormal baseline creatinine, increase of 1 mg/dL
+For patients with abnormal baseline creatinine, increase of 1.0 mg/dL
 
 In the clinical studies, zoledronic acid injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
-Zoledronic acid injection should be re-initiated at the same dose as that prior to treatment interruption.
+Zoledronic acid injection should be reinitiated at the same dose as that prior to treatment interruption.
 
 Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 
@@ -57,25 +57,25 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zoledronic acid injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg per 5 mL Single-Use Vial
+4 mg/5 mL Single-Dose Vial for Dilution Prior to Intravenous Infusion
 
-Vials of zoledronic acid injection concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
-This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
-Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
+Zoledronic acid injection 4 mg/5mL vial for dilution prior to intravenous infusion contains an overfill to allow withdrawal of 5 mL (equivalent to 4 mg zoledronic acid).
+Zoledronic acid injection, 4 mg/5mL should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by intravenous infusion.
+Do not store undiluted zoledronic acid injection, 4 mg/5mL in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection concentrate from the vial for the dose required (see Table 2).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection, 4 mg/5mL from the vial for the dose required (see Table 3).
 
-Table 2: Preparation of Reduced Doses Zoledronic Acid Injection Concentrate
+Table 3: Preparation of Reduced Doses Zoledronic Acid Injection 4mg/5mL Single-Dose Vial for Dilution
 
 | Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
 | 4.4 | 3.5 |
 | 4.1 | 3.3 |
-| 3.8 | 3 |
+| 3.8 | 3.0 |
 
-The withdrawn concentrate must be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
+The withdrawn zoledronic acid injection,4 mg/5mL solution must be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 
-If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C-8°C (36°F-46°F).
+If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C to 8°C (36°F to 46°F).
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
