@@ -114,6 +114,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 - Anaphylaxis: Anaphylaxis has been reported with ingredients contained in tramadol hydrochloride extended-release tablets.
 - Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY].
+- Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see PRECAUTIONS].
+- Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
+  Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see PRECAUTIONS].
 
 ## DRUG ABUSE AND DEPENDENCE
 
