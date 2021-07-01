@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761054"
+  ],
+  "inn": "infliximab",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-162-01",
+    "78206-162-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "infliximab",
+      "name": "Renflexis"
+    }
+  ],
+  "setid": "dbf738c4-3fac-4422-a9d8-51d9c83a8789",
+  "source": "dailymed"
+}
