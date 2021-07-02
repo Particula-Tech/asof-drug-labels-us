@@ -22,6 +22,6 @@ Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: SpecGx LLC Webster Groves, MO 63119 US
 
-MOS-PI-07 L20M21 Rev 08/2017
+MOS-PI-08 L20M21 Rev 06/2021
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M31.pdf or by calling 1-800-778-7898 for alternate delivery options.

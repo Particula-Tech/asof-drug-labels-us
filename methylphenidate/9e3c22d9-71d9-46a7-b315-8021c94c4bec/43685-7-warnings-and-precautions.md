@@ -51,7 +51,7 @@ Priapism has also appeared during a period of drug withdrawal (drug holidays or 
 
 Stimulants, including Methylin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
@@ -98,12 +98,22 @@ Instruct the patient to seek immediate medical attention in the event of priapis
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
 
-- Instruct patients beginning treatment with Methylin about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients beginning treatment with Methylin about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Methylin.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
+
+Monoamine Oxidase Inhibitors (MAOI) Concomitant use of MAOIs and CNS stimulants, including Methylin can cause hypertensive crisis.
+Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure (see CONTRAINDICATIONS).
+Concomitant use of Methylin with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated.
+
+Antihypertensive Drugs Methylin may decrease the effectiveness of drugs used to treat hypertension.
+Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed.
+
+Risperidone Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for signs of EPS.
 
 Methylin may decrease the hypotensive effect of guanethidine.
 Use cautiously with pressor agents.
