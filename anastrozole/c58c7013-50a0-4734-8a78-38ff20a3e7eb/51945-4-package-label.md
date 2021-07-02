@@ -2,12 +2,12 @@
 
 NDC 0093-7536-56
 
-Anastrozole Tablets USP, 1 mg
+Anastrozole Tablets, USP
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
+1 mg
+
+PHARMACIST: Please dispense with attached Patient Information leaflet
 
 Rx only
 
 30 TABLETS
-
-TEVA

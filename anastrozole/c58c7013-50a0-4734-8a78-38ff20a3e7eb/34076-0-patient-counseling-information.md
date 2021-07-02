@@ -46,10 +46,18 @@ Advise women not to breastfeed during anastrozole tablets treatment and for at l
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
-Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Manufactured In Israel By:
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Teva Pharmaceutical Ind.
+Ltd.
+
+Kfar Saba, 4410202, Israel
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
 
 Rev.
-J 1/2019
+K 12/2020

@@ -148,14 +148,22 @@ What are the ingredients in anastrozole tablets?
 
 Active ingredient: anastrozole
 
-Inactive ingredients: hypromellose, lactose monohydrate, macrogol/PEG 400, macrogol/PEG 6000, magnesium stearate, povidone, sodium starch glycolate and titanium dioxide.
+Inactive ingredients: hypromellose, lactose monohydrate, polyethylene glycol 400, polyethylene glycol 6000, magnesium stearate, povidone, sodium starch glycolate and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Manufactured In Israel By:
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Teva Pharmaceutical Ind.
+Ltd.
+
+Kfar Saba, 4410202, Israel
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
 
 Rev.
-E 1/2019
+F 12/2020
