@@ -12,7 +12,10 @@ Table 7: TIROSINT-SOL Packaging Description
 | --- | --- | --- | --- |
 | 13 | Green | 71858-0105-5 | 71858-0105-4 |
 | 25 | Orange | 71858-0110-5 | 71858-0110-4 |
+| 37.5 | Dark Blue | 71858-0112-5 | 71858-0112-4 |
+| 44 | Red | 71858-0113-5 | 71858-0113-4 |
 | 50 | White | 71858-0115-5 | 71858-0115-4 |
+| 62.5 | Grey | 71858-0117-5 | 71858-0117-4 |
 | 75 | Purple | 71858-0120-5 | 71858-0120-4 |
 | 88 | Olive | 71858-0125-5 | 71858-0125-4 |
 | 100 | Yellow | 71858-0130-5 | 71858-0130-4 |
@@ -25,7 +28,7 @@ Table 7: TIROSINT-SOL Packaging Description
 
 ## 16.2 Storage and Handling
 
-Store TIROSINT-SOL in the original container (closed pouch) at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°-30°C (59-86°F) [See USP Controlled Room Temperature].
+Store TIROSINT-SOL in the original container (closed pouch) at 20°C to 25°C (68 °F to 77°F); excursions permitted to 15°-30°C (59-86°F) [See USP Controlled Room Temperature].
 
 Use TIROSINT-SOL oral solution within three (3) months after opening the pouch.
 Keep the ampules in the pouch until ready to use as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number).

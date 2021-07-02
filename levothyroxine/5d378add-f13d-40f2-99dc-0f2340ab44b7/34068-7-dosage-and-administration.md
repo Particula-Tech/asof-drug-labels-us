@@ -7,6 +7,7 @@ Administer TIROSINT-SOL as a single daily oral dose, on an empty stomach, one-ha
 Administer TIROSINT-SOL at least 4 hours before or after drugs known to interfere with TIROSINT-SOL absorption [see Drug Interactions (7.1)].
 
 Evaluate the need for dose adjustments when regularly administering within an hour of certain foods that may affect TIROSINT-SOL absorption [see Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
+
 TIROSINT-SOL may be administered in water or directly into the mouth:
 
 - To administer TIROSINT-SOL in water, squeeze the contents of one single unit-dose ampule into a glass or cup containing water.
@@ -18,7 +19,7 @@ TIROSINT-SOL may be administered in water or directly into the mouth:
 
 ## 2.2 General Principles of Dosing
 
-The dose of TIROSINT-SOL for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, coadministered food, and the specific nature of the condition being treated [see Dosage and Administration (2.3), Warnings and Precautions (5), and Drug Interactions (7)].
+The dose of TIROSINT-SOL for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food, and the specific nature of the condition being treated [see Dosage and Administration (2.3), Warnings and Precautions (5), and Drug Interactions (7)].
 Dosing must be individualized to account for these factors and dose adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters [see Dosage and Administration (2.4)].
 
 The peak therapeutic effect of a given dose of TIROSINT-SOL may not be attained for 4 to 6 weeks.
@@ -107,6 +108,7 @@ In patients with congenital hypothyroidism, assess the adequacy of replacement t
 Monitor TSH and total or free-T4 in children as follows: 2 and 4 weeks after the initiation of treatment, 2 weeks after any change in dosage, and then every 3 to 12 months thereafter following dose stabilization until growth is completed.
 Poor compliance or abnormal values may necessitate more frequent monitoring.
 Perform routine clinical examination, including assessment of mental and physical growth and development, and bone maturation, at regular intervals.
+
 While the general aim of therapy is to normalize the serum TSH level, TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
 Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of TIROSINT-SOL therapy and/or of the serum TSH to decrease below 20 mIU per Liter within 4 weeks may indicate the child is not receiving adequate therapy.
 Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of TIROSINT-SOL [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)].

@@ -7,8 +7,11 @@ Each ampule bears a colored label with the dosage strength and the product name 
 | --- | --- |
 | 13 | Green |
 | 25 | Orange |
+| 37.5 | Dark Blue |
+| 44 | Red |
 | 50 | White |
 | 75 | Purple |
+| 62.5 | Grey |
 | 88 | Olive |
 | 100 | Yellow |
 | 112 | Rose |

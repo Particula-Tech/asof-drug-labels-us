@@ -10,5 +10,5 @@ TIROSINT-SOL is indicated as an adjunct to surgery and radioiodine therapy in th
 
 Limitations of Use:
 
-- TIROSINT-SOL is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with TIROSINT-SOL may induce hyperthyroidism [see Warnings and Precautions (5.4)].
-- TIROSINT-SOL is not indicated for treatment of transient hypothyroidism during the recovery phase of subacute thyroiditis.
+- Tirosint-SOL is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with TIROSINT-SOL may induce hyperthyroidism [see Warnings and Precautions (5.4)].
+- Tirosint-SOL is not indicated for treatment of transient hypothyroidism during the recovery phase of subacute thyroiditis.

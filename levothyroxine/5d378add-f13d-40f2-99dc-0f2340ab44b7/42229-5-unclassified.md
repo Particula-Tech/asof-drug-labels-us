@@ -1,6 +1,8 @@
 Rx Only
 
-Manufactured for IBSA Pharma Inc. by: IBSA Institut Biochimique SA 6915 Pambio-Noranco Switzerland
+Manufactured for IBSA Pharma Inc. by:
+
+IBSA Institut Biochimique SA 6915 Pambio-Noranco Switzerland
 
 Distributed by:
 

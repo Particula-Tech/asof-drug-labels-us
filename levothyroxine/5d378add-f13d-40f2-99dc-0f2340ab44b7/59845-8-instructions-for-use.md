@@ -61,10 +61,11 @@ How should I store TIROSINT-SOL?
 - Use TIROSINT-SOL within three (3) months after opening the pouch.
   Keep TIROSINT-SOL in the original closed pouch until you are ready to use it as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number.
 - Do not store the diluted or mixed TIROSINT-SOL solution.
-- Keep TIROSINT-SOL and all medicines out of the reach of children.
+
+Keep TIROSINT-SOL and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufacturer: IBSA Institut Biochimique SA, 6915 Pambio-Noranco, Switzerland Marketed and distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
+Manufacturer: IBSA Institut Biochimique SA, 6915 Pambio-Noranco, Switzerland Marketed and Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Issued: May 2020
+Issued: January 2021
