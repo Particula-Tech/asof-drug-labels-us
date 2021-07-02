@@ -12,4 +12,4 @@ Store at room temperature, 15-30°C (59-86°F).
 Keep container closed and protect from moisture.
 
 Women should not handle crushed or broken PROPECIA tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
-PROPECIA tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed [see Warnings and Precautions (5.1), Use in Specific Populations (8.1) and Patient Counseling Information (17.1)].
+PROPECIA tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed [see Warnings and Precautions (5.1), Use in Specific Populations (8.1) and Patient Counseling Information (17)].

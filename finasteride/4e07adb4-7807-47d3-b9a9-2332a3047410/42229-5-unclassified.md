@@ -6,7 +6,7 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 1997 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0906-1t-1309r011
+uspi-mk0906-1t-2106r012
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
