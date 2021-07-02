@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10 OVERDOSE
 
 Cases of overdose with dimethyl fumarate have been reported.
 The symptoms described in these cases were consistent with the known adverse event profile of dimethyl fumarate.

@@ -14,12 +14,15 @@ A fatal case of PML occurred in a patient who received dimethyl fumarate for 4 y
 During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5 x 109/L for 3.5 years) while taking dimethyl fumarate [see Warnings and Precautions (5.4)].
 The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
 The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
+
 PML has also occurred in the postmarketing setting in the presence of lymphopenia (<0.9x109/L).
 While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts <0.8 x 109/L persisting for more than 6 months.
+
 At the first sign or symptom suggestive of PML, withhold dimethyl fumarate and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
 MRI findings may be apparent before clinical signs or symptoms.
-Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML.
+Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absenceof clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML.
 Many of these patients subsequently became symptomatic with PML.
 Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
 Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
@@ -31,10 +34,12 @@ Serious cases of herpes zoster have occurred with dimethyl fumarate, including d
 These events may occur at any time during treatment.
 Monitor patients on dimethyl fumarate for signs and symptoms of herpes zoster.
 If herpes zoster occurs, appropriate treatment for herpes zoster should be administered.
+
 Other serious opportunistic infections have occurred with dimethyl fumarate, including cases of serious viral (herpes simplex virus, West Nile virus, cytomegalovirus), fungal (Candida and Aspergillus), and bacterial (Nocardia, Listeria monocytogenes, Mycobacterium tuberculosis) infections.
 These infections have been reported in patients with reduced absolute lymphocyte counts (ALC) as well as in patients with normal ALC.
 These infections have affected the brain, meninges, spinal cord, gastrointestinal tract, lungs, skin, eye, and ear.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and receive appropriate treatment.
+
 Consider withholding dimethyl fumarate treatment in patients with herpes zoster or other serious infections until the infection has resolved [see Adverse Reactions (6.2)].
 
 ## 5.4 Lymphopenia

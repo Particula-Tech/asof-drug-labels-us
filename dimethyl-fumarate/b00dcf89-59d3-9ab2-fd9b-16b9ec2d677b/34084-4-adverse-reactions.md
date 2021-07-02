@@ -55,3 +55,5 @@ The following adverse reaction has been identified during post-approval use of d
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following dimethyl fumarate administration in postmarketing experience [See Warnings and Precautions (5.5)].
 Herpes zoster infection and other serious opportunistic infections have has been reported with dimethyl fumarate administration in postmarketing experience [See Warnings and Precautions (5.3)].
+
+Rhinorrhea has been reported with dimethyl fumarate administration in post marketing experience.
