@@ -80,6 +80,16 @@ If concomitant use of citalopram with other serotonergic drugs including, tripta
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
+## Sexual Dysfunction
+
+Use of SSRIs, including citalopram, may cause symptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of citalopram and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -151,6 +161,10 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+Sexual Dysfunction
+
+Advise patients that use of citalopram may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
 
 ## Laboratory Tests
 
@@ -214,7 +228,7 @@ Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD
 
 ## Pregnancy
 
-Teratogenic Effects Pregnancy Category C In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
+Teratogenic Effects In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.

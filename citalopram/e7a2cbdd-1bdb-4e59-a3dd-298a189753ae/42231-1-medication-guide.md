@@ -51,16 +51,37 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 4.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including citalopram oral solution, may cause sexual problems.
+
+Symptoms in males may include:
+
+o Delayed ejaculation or inability to have an ejaculation
+
+o Decreased sex drive
+
+o Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+o Decreased sex drive
+
+o Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram oral solution.
+There may be treatments your healthcare provider can suggest.
+
+5.
 Severe allergic reactions:
 
 - trouble breathing
 - swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-5.
-Abnormal bleeding: Citalopram oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 6.
-Seizures or convulsions 7.
+Abnormal bleeding: Citalopram oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+7.
+Seizures or convulsions 8.
 Manic episodes:
 
 - greatly increased energy
@@ -71,10 +92,10 @@ Manic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-8.
+9.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
-9.
+10.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -90,7 +111,7 @@ Stopping citalopram oral solution too quickly may cause serious symptoms includi
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
-10.
+11.
 Visual problems.
 
 - eye pain
@@ -234,4 +255,4 @@ Active ingredient: citalopram hydrobromide Inactive ingredients: non crystallizi
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2021
