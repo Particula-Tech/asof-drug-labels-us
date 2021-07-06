@@ -4,7 +4,7 @@ The following are discussed in more detail in other sections of the labeling:
 
 - Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to Methylphenidate [see Contraindications (4)]
-- Hypertensive Crisis with Concomintant Use of Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
+- Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
@@ -68,7 +68,7 @@ Eye Disorders: Diplopia, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
-Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
+Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthems NEC
 
 Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal, severe hepatic injury
 
