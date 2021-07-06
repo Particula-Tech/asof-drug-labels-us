@@ -17,10 +17,6 @@ Table 1: Drugs Having Clinically Important Interactions with Methylphenidate
 | Clinical Impact: | Cotempla XR-ODT may decrease the effectiveness of drug used to treat hypertension [see Warnings and Precautions (5.3)]. |
 | Intervention: | Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed. |
 | Examples: | Potassium-sparing and thiazide diuretics, calcium channel blockers, angiotensin-converting-enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), beta blockers, centrally acting alpha-2 receptor agonists |
-| Halogenated Anesthetics |  |
-| Clinical Impact: | Concomitant use of halogenated anesthetics and Cotempla XR-ODT may increase the risk of sudden blood pressure and heart rate increase during surgery. |
-| Intervention: | Avoid use of Cotempla XR-ODT in patients being treated with anesthetics on the day of surgery. |
-| Examples: | halothane, isoflurane, enflurane, desflurane, sevoflurane |
 | Risperidone |  |
 | Clinical Impact: | Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS). |
 | Intervention: | Monitor for signs of EPS. |
