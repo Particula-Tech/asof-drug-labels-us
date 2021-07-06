@@ -163,3 +163,7 @@ rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibit
 Skin and Subcutaneous Tissue Disorders:
 
 toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
+
+Renal and Urinary Disorders:
+
+acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome [see Warnings and Precautions (5.6)]

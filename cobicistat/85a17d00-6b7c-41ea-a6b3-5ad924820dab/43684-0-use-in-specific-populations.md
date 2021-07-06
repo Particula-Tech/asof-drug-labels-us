@@ -141,6 +141,6 @@ Dosing recommendations are not available for drugs that require dosage adjustmen
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of SYMTUZA is required in patients with mild (Child Pugh Class A) or moderate (Child Pugh Class B) hepatic impairment.
-SYMTUZA has not been studied in patients with severe hepatic impairment (Child Pugh Class C) and there are only limited data regarding the use of SYMTUZA components in this population.
+No dosage adjustment of SYMTUZA is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
+SYMTUZA has not been studied in patients with severe hepatic impairment (Child-Pugh Class C) and there are only limited data regarding the use of SYMTUZA components in this population.
 Therefore, SYMTUZA is not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

@@ -134,10 +134,10 @@ Tenofovir alafenamide: In studies of TAF, no clinically relevant differences in 
 
 Patients with Hepatic Impairment
 
-Darunavir: There were no clinically relevant differences in the pharmacokinetics of darunavir (600 mg with ritonavir 100 mg twice daily) in subjects with mild hepatic impairment (Child Pugh Class A, n=8), and moderate hepatic impairment (Child Pugh Class B, n=8), compared to subjects with normal hepatic function (n=16).
+Darunavir: There were no clinically relevant differences in the pharmacokinetics of darunavir (600 mg with ritonavir 100 mg twice daily) in subjects with mild hepatic impairment (Child-Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8), compared to subjects with normal hepatic function (n=16).
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been evaluated [see Use in Specific Populations (8.7)].
 
-Cobicistat: There were no clinically relevant differences in the cobicistat pharmacokinetics between subjects with moderate hepatic impairment (Child Pugh Class B) and healthy subjects.
+Cobicistat: There were no clinically relevant differences in the cobicistat pharmacokinetics between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment on the pharmacokinetics of cobicistat has not been evaluated [see Use in Specific Populations (8.7)].
 
 Emtricitabine: The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of hepatic impairment should be limited [see Use in Specific Populations (8.7)].

@@ -58,9 +58,8 @@ Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syn
 
 ## 5.6 New Onset or Worsening Renal Impairment
 
-Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
-In clinical trials of SYMTUZA, there were no cases of proximal renal tubulopathy (PRT), including Fanconi syndrome, reported in the SYMTUZA group through Week 48.
-SYMTUZA is not recommended in patients with creatinine clearance below 30 mL per minute.
+Postmarketing cases of renal impairment, including acute renal failure, proximal renal tubulopathy (PRT), and Fanconi syndrome have been reported with TAF-containing products; while most of these cases were characterized by potential confounders that may have contributed to the reported renal events, it is also possible these factors may have predisposed patients to tenofovir-related adverse events [see Adverse Reactions (6.1, 6.2)].
+SYMTUZA is not recommended in patients with estimated creatinine clearance below 30 mL per minute.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
