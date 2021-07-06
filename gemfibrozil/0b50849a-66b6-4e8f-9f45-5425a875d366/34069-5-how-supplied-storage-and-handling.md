@@ -10,4 +10,4 @@ NDC 71209-008-10: Bottles of 500
 
 Store at controlled room temperature 20° – 25°C (68° – 77°F) [see USP].
 Protect from light and humidity.
-Rx only Manufactured by: Cadila Pharmaceuticals Limited, 1389 Trasad Road, Dholka, District - Ahmedabad, Gujarat, INDIA Revised: November 2018
+Rx only Manufactured by: Cadila Pharmaceuticals Limited, 1389 Trasad Road, Dholka, District - Ahmedabad, Gujarat, INDIA Revised: January 2021
