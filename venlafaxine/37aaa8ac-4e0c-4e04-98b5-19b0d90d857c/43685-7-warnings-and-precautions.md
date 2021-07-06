@@ -99,6 +99,16 @@ Preexisting hypertension should be controlled before treatment with venlafaxine.
 It is recommended that patients receiving venlafaxine have regular monitoring of blood pressure.
 For patients who experience a sustained increase in blood pressure while receiving venlafaxine, either dose reduction or discontinuation should be considered.
 
+## Sexual Dysfunction
+
+Use of SNRIs, including venlafaxine tablets, may cause symptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of venlafaxine tablets and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -269,6 +279,11 @@ Patients should be advised that taking venlafaxine can cause mild pupillary dila
 Preexisting glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
+### Sexual Dysfunction
+
+Advise patients that use of venlafaxine tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
 
 ### Pregnancy
 

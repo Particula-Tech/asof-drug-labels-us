@@ -122,6 +122,24 @@ Visual problems.
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+15.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including venlafaxine tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with venlafaxine tablets.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop venlafaxine tablets without first talking to your healthcare provider.
 Stopping venlafaxine tablets too quickly or changing from another antidepressant too quickly may cause serious symptoms including:
 
@@ -300,4 +318,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-D 2/2019
+E 6/2021
