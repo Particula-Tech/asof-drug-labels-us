@@ -1,7 +1,5 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Barcode
-
 EZPE7748 NDC 0338-0112-20 Baxter Logo 250 mL
 
 NORepinephrine Bitartrate in 5% Dextrose Injection
@@ -33,15 +31,15 @@ Do not use this port
 
 Symbol
 
-Barcode (01)00000000000000
+Barcode (01)00303380112203
 
 LOT
 
 EXP
 
-EZPE7748 Baxter Logo
+EZPE7788 Baxter Logo
 
-NDC 0338-0112-20 250 mL
+NDC 0338-0108-20 250 mL
 
 NORepinephrine Bitartrate in 5% Dextrose Injection
 
@@ -73,7 +71,7 @@ Symbol
 
 Symbol 07 0
 
-Barcode (01)00000000000000
+Barcode (01)00303380108206
 
 LOT
 
