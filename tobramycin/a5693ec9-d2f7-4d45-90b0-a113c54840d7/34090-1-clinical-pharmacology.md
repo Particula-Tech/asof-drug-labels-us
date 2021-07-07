@@ -5,5 +5,4 @@ In Vitro Data: In vitro studies have demonstrated tobramycin is active against s
 Streptococci, including some of the Group A-beta-hemolytic species, some nonhemolytic species, and some Streptococcus pneumoniae.
 
 Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganella morganii, most Proteus vulgaris strains, Haemophilus influenzae and H. aegyptius, Moraxella lacunata, Acinetobacter calcoaceticus and some Neisseria species.
-
 Bacterial susceptibility studies demonstrate that in some cases, microorganisms resistant to gentamicin retain susceptibility to tobramycin.

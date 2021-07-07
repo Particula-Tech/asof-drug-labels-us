@@ -7,4 +7,9 @@ Postmarketing Experience
 
 Additional adverse reactions identified from postmarketing use include anaphylactic reaction, Stevens-Johnson syndrome, and erythema multiforme.
 
+The following additional adverse reactions have been reported with systemic aminoglycosides:
+
+Neurotoxicity, ototoxicity and nephrotoxicity have occurred in patients receiving systemic aminoglycoside therapy.
+Aminoglycosides may aggravate muscle weakness in patients with known or suspected neuromuscular disorders, such as myasthenia gravis or Parkinson’s disease, because of their potential effect on neuromuscular function.
+
 To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
