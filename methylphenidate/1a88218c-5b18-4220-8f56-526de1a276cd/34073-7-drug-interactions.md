@@ -13,3 +13,8 @@ Because of possible increases in blood pressure, CONCERTA® should be used cauti
 Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (eg, phenobarbital, phenytoin, primidone), and some antidepressants (tricyclics and selective serotonin reuptake inhibitors).
 Downward dose adjustment of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.
+
+## 7.4 Risperidone
+
+Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for signs of EPS.
