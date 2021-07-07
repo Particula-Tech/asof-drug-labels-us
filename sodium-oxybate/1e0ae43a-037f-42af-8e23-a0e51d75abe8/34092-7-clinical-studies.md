@@ -18,7 +18,7 @@ Among patients whose dosage was changed, most changes were within one titration 
 Patients taking an anticataplectic other than Xyrem were tapered off the non-Xyrem anticataplectic over 2 to 8 weeks.
 All patients continued to receive XYWAV only, for the treatment of cataplexy during the last 2 weeks of the OL OTTP.
 
-CNS stimulants were allowed at entry, and 39% (78/201) of patients continued taking a stable dose of stimulant throughout the SDP and DB RWP.
+CNS stimulants were allowed at entry, and approximately 59% of patients continued taking a stable dose of stimulant throughout the SDP and DB RWP.
 
 The total nightly dose of XYWAV was administered in two equally divided doses in 90% (62/69) of patients.
 Unequal doses were administered in 10% (7/69) of patients treated with XYWAV.
