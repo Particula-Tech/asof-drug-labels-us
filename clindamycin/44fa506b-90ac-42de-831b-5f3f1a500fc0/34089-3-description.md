@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Clindamycin Phosphate is a lincosamide antibacterial and a semisynthetic drug produced by a 7(S) chloro substitution of the 7(R) hydroxyl group of the parent compound lincomycin.
+Clindamycin phosphate is a lincosamide antibacterial and a semisynthetic drug produced by a 7(S) chloro substitution of the 7(R) hydroxyl group of the parent compound lincomycin.
 
 The chemical name of clindamycin phosphate is L-threo-α-D-galacto-Octopyranoside, methyl-7-chloro-6,7,8-trideoxy-6-[[(1-methyl-4-propyl-2-pyrrolidinyl)carbonyl]amino]01-thio-, 2-(dihydrogen phosphate), (2S-trans)-.
 

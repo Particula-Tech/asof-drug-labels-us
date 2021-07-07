@@ -37,7 +37,7 @@ Jaundice and abnormalities in liver function tests have been observed during cli
 
 Renal
 
-Renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+Acute renal failure, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
 
 Hematopoietic
 

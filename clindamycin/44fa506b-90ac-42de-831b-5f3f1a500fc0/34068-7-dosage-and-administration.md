@@ -42,7 +42,7 @@ Table 2: Infusion Rates for the Administration of Clindamycin Injection by Singl
 If a dose of Clindamycin Phosphate in Sodium Chloride Injection is required that does not equal 300 mg, 600 mg or 900 mg, this product is not recommended for use and an alternative formulation of clindamycin should be considered.
 The recommended pediatric dosing regimen of Clindamycin Phosphate in Sodium Chloride Injection is as follows:
 
-- •Pediatric patients (1 month of age to16 years old) is 20 to 40 mg/kg/day in 3 or 4 equal doses
+- •Pediatric patients (1 month of age to 16 years old) is 20 to 40 mg/kg/day in 3 or 4 equal doses
 - •Pediatric Patients (less than 1 month of age) is 15 to 20 mg/kg/day in 3 or 4 equal doses.
   The lower dosage may be adequate for small prematures.
 
