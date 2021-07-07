@@ -5,6 +5,10 @@
   "inn": "doxazosin",
   "labeler": "Roerig",
   "package_ndcs": [
+    "0049-2410-10",
+    "0049-2512-10",
+    "0049-2614-10",
+    "0049-2716-10",
     "0049-2750-41",
     "0049-2750-66",
     "0049-2760-41",
@@ -15,6 +19,11 @@
     "0049-2780-66"
   ],
   "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin",
+      "name": "Cardura"
+    },
     {
       "form": "TABLET",
       "generic": "doxazosin mesylate",

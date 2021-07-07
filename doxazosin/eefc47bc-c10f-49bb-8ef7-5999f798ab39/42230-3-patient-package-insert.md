@@ -1,30 +1,35 @@
-| PATIENT INFORMATION CARDURA®(kar-DUR-a) (doxazosin mesylate tablets) |  |  |  |
-| --- | --- | --- | --- |
-| What is CARDURA? |  |  |  |
-| CARDURA is a prescription medicine that contains doxazosin mesylate and is called an "alpha-blocker". CARDURA is used to treat: the symptoms of benign prostatic hyperplasia (BPH)high blood pressure (hypertension) |  |  |  |
-| It is not known if CARDURA is safe and effective in children. |  |  |  |
-| Who should not take CARDURA? |  |  |  |
-| Do not take CARDURA if you: are allergic to doxazosin, other quinazolines, or any of the ingredients in CARDURA. See the end of this Patient Information leaflet for a complete list of ingredients in CARDURA. |  |  |  |
-| What should I tell my healthcare provider before taking CARDURA? |  |  |  |
-| Before taking CARDURA, tell your healthcare provider about all of your medical conditions, including if you: have had low blood pressure, especially after taking other medicine. Signs of low blood pressure include fainting, dizziness, and lightheadedness.have any planned eye surgeryhave prostate cancer or a history of prostate cancer. Your healthcare provider may have you checked for prostate cancer before you start taking and while you take CARDURA.have liver problemsare pregnant or plan to become pregnant. It is not known if CARDURA will harm your unborn baby.are breastfeeding or plan to breastfeed. It is not known if CARDURA passes into your breastmilk. Talk to your healthcare provider about the best way to feed your baby if you take CARDURA. |  |  |  |
-| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. CARDURA may affect the way other medicines work, and other medicines may affect the way CARDURA works causing side effects. |  |  |  |
-| Especially tell your healthcare provider if you take: other medicine for high blood pressuremedicine to treat erectile dysfunction (ED) called a phosphodiesterase type 5 (PDE-5) inhibitor. The use of CARDURA with PDE-5 inhibitors can lead to a drop in blood pressure or to fainting. |  |  |  |
-| Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |
-| How should I take CARDURA? Take CARDURA exactly as your healthcare provider tells you to take it.Your healthcare provider will tell you how much CARDURA to take and when to take it.Your healthcare provider may need to change your dose of CARDURA until it is the right dose for you. |  |  |  |
-| What should I avoid while taking CARDURA? |  |  |  |
-| Do not drive or perform any hazardous task until at least 24 hours after you have taken CARDURA if you are taking: your first dose of CARDURACARDURA for the first time after your healthcare provider has increased your dose of CARDURACARDURA for the first time after any breaks (interruptions) in your treatment with CARDURA |  |  |  |
-| What are the possible side effects of CARDURA? |  |  |  |
-| CARDURA may cause serious side effects, including: A sudden drop in blood pressure, especially when you first start treatment or when there is an increase in your dose of CARDURA, is common but can also be serious. This may cause you to faint, or to feel dizzy or lightheaded. Your risk of having this problem may be increased if you take CARDURA with certain other medicines that lower blood pressure including PDE-5 inhibitors. Your healthcare provider may monitor your blood pressure while you take CARDURA. See "What should I avoid while taking CARDURA?"Eye problems during cataract surgery. A condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen during cataract surgery if you take or have taken alpha-blockers such as CARDURA. If you need to have cataract surgery, be sure to tell your healthcare provider if you take or have taken CARDURA.A painful erection that will not go away. CARDURA can cause a painful erection (priapism), which cannot be relieved by having sex. If this happens, get medical help right away. If priapism is not treated, you may not be able to get an erection in the future. |  |  |  |
-| The most common side effects of CARDURA are: |  |  |  |
-|  | weakness or lack of energy (asthenia) | dizziness |  |
-| Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of CARDURA. For more information, ask your healthcare provider or pharmacist. |  |  |  |
-| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
-| General information about the safe and effective use of CARDURA. |  |  |  |
-| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use CARDURA for a condition for which it was not prescribed. Do not give CARDURA to other people, even if they have the same symptoms you have. It may harm them. |  |  |  |
-| This Patient Information leaflet summarizes the most important information about CARDURA. For more information, ask your healthcare provider. You can ask your healthcare provider or pharmacist for information that is written for healthcare professionals. |  |  |  |
-| What are the ingredients in CARDURA? |  |  |  |
-| Active ingredient: doxazosin mesylate |  |  |  |
-| Inactive ingredients: microcrystalline cellulose, lactose, sodium starch glycolate, magnesium stearate and sodium lauryl sulfate. The 2 mg tablet contains D & C yellow 10 and FD & C yellow 6; the 4 mg tablet contains FD & C yellow 6; the 8 mg tablet contains FD & C blue 2 and D & C yellow 10. |  |  |  |
-| LAB-0070-5.0 |  |  |  |
-| For more information, go to www.Pfizer.com or call 1-800-438-1985. |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Revised: 3/2019 |
+| PATIENT INFORMATION CARDURA®(kar-DUR-a) (doxazosin tablets) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| What is CARDURA? |  |  |  |  |
+| CARDURA is a prescription medicine that contains doxazosin mesylate and is called an "alpha-blocker". CARDURA is used to treat: the symptoms of benign prostatic hyperplasia (BPH)high blood pressure (hypertension) |  |  |  |  |
+| It is not known if CARDURA is safe and effective in children. |  |  |  |  |
+| Who should not take CARDURA? |  |  |  |  |
+| Do not take CARDURA if you: are allergic to doxazosin, other quinazolines, or any of the ingredients in CARDURA. See the end of this Patient Information leaflet for a complete list of ingredients in CARDURA. |  |  |  |  |
+| What should I tell my healthcare provider before taking CARDURA? |  |  |  |  |
+| Before taking CARDURA, tell your healthcare provider about all of your medical conditions, including if you: have had low blood pressure, especially after taking other medicine. Signs of low blood pressure include fainting, dizziness, and lightheadedness.have any planned eye surgeryhave prostate cancer or a history of prostate cancer. Your healthcare provider may have you checked for prostate cancer before you start taking and while you take CARDURA.have liver problemsare pregnant or plan to become pregnant. It is not known if CARDURA will harm your unborn baby.are breastfeeding or plan to breastfeed. It is not known if CARDURA passes into your breastmilk. Talk to your healthcare provider about the best way to feed your baby if you take CARDURA. |  |  |  |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. CARDURA may affect the way other medicines work, and other medicines may affect the way CARDURA works causing side effects. |  |  |  |  |
+| Especially tell your healthcare provider if you take: other medicine for high blood pressure or medicine to treat erectile dysfunction (ED) called a phosphodiesterase type 5 (PDE-5) inhibitor. The use of CARDURA with PDE-5 inhibitors can lead to a drop in blood pressure or to fainting. |  |  |  |  |
+| Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |  |
+| How should I take CARDURA? Take CARDURA exactly as your healthcare provider tells you to take it.Your healthcare provider will tell you how much CARDURA to take and when to take it.Your healthcare provider may need to change your dose of CARDURA until it is the right dose for you. |  |  |  |  |
+| What should I avoid while taking CARDURA? |  |  |  |  |
+| Do not drive or perform any hazardous task until at least 24 hours after you have taken CARDURA if you are taking: your first dose of CARDURACARDURA for the first time after your healthcare provider has increased your dose of CARDURACARDURA for the first time after any breaks (interruptions) in your treatment with CARDURA |  |  |  |  |
+| What are the possible side effects of CARDURA? |  |  |  |  |
+| CARDURA may cause serious side effects, including: A sudden drop in blood pressure, especially when you first start treatment or when there is an increase in your dose of CARDURA, is common but can also be serious. This may cause you to faint, or to feel dizzy or lightheaded. Your risk of having this problem may be increased if you take CARDURA with certain other medicines that lower blood pressure including PDE-5 inhibitors. Your healthcare provider may monitor your blood pressure while you take CARDURA. See "What should I avoid while taking CARDURA?"Eye problems during cataract surgery. A condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen during cataract surgery if you take or have taken alpha-blockers such as CARDURA. If you need to have cataract surgery, be sure to tell your healthcare provider if you take or have taken CARDURA.A painful erection that will not go away. CARDURA can cause a painful erection (priapism), which cannot be relieved by having sex. If this happens, get medical help right away. If priapism is not treated, you may not be able to get an erection in the future. |  |  |  |  |
+| The most common side effects of CARDURA are: |  |  |  |  |
+|  | weakness or lack of energy (asthenia) | dizziness |  |  |
+| Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of CARDURA. For more information, ask your healthcare provider or pharmacist. |  |  |  |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
+| General information about the safe and effective use of CARDURA. |  |  |  |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use CARDURA for a condition for which it was not prescribed. Do not give CARDURA to other people, even if they have the same symptoms you have. It may harm them. |  |  |  |  |
+| This Patient Information leaflet summarizes the most important information about CARDURA. For more information, ask your healthcare provider. You can ask your healthcare provider or pharmacist for information that is written for healthcare professionals. |  |  |  |  |
+| What are the ingredients in CARDURA?The size, shape and appearance of the tablet that you receive may vary, all the tablets have the same active ingredient, and this will not affect the way that the medicine works. You can identify the tablet that you have from the following information. |  |  |  |  |
+| Strength |  | Either | Or |  |
+| 1 mg Tablet |  | White, round tablet marked "CN1" on one side and "Pfizer" on the other side. | White, capsule shaped tablet marked "Cardura" on one side, scored and marked "1 mg" on the other side. |  |
+| 2 mg Tablet |  | White, capsule shaped tablet with break score and marked "CN2" on one side and "Pfizer" on the other side. | Yellow, capsule shaped tablet marked "Cardura" on one side, scored and marked "2 mg" on the other side. |  |
+| 4 mg Tablet |  | White, diamond shaped tablet with break score and marked "CN4" on one side and "Pfizer" on the other side. | Orange, capsule shaped tablet marked "Cardura" on one side, scored and marked "4 mg" on the other side. |  |
+| 8 mg Tablet |  | White, capsule shaped tablet with break score and marked "CN8" on one side and "Pfizer" on the other side. | Green, capsule shaped tablet marked "Cardura" on one side, scored and marked "8 mg" on the other side. |  |
+| Active ingredient: doxazosin |  |  |  |  |
+| Inactive ingredients: microcrystalline cellulose, lactose, sodium starch glycolate, magnesium stearate and sodium lauryl sulfate. The 2 mg yellow tablet contains D & C yellow 10 and FD & C yellow 6; the 4 mg orange tablet contains FD & C yellow 6; the 8 mg green tablet contains FD & C blue 2 and D & C yellow 10. |  |  |  |  |
+| LAB-0070-6.0 |  |  |  |  |
+| For more information, go to www.Pfizer.com or call 1-800-438-1985. |  |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 12/2020 |
