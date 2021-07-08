@@ -28,7 +28,7 @@ Distribution Spironolactone and its metabolites are more than 90% bound to plasm
 
 Elimination The half-life of spironolactone is approximately 1- 2 hour, and the half-life of canrenone, 7-α-(thiomethyl) spirolactone (TMS), and 6-ß-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) ranged from 10 to 35 hours.
 
-Metabolism: Spironolactone is rapidly and extensively metabolized.
+Metabolism: Spironolactone is rapidly and extensively metabolized primarily by CYP 3A4/5, and to a lesser extent by CYP2C8.
 Metabolites can be divided into two main categories: those in which sulfur of the parent molecule is removed (e.g., canrenone) and those in which the sulfur is retained (e.g., TMS and HTMS).
 In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were approximately a third relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
@@ -46,3 +46,8 @@ Lithium: CAROSPIR reduces the renal clearance of lithium, inducing a high risk o
 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
 Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [see Drug Interactions (7.6)].
+
+In Vitro Studies: Spironolactone is an irreversible inhibitor for CYP2C8 and CYP3A4/5.
+
+Digoxin: CAROSPIR increased the Cmax and AUC0-96 of a single dose of digoxin by 55% and 18% as compared to digoxin administered alone.
+Renal clearance of digoxin decreased by approximately 11%, and the tmax and terminal t1/2 of digoxin were not changed when coadministered with spironolactone [see Drug Interactions (7.4)].

@@ -27,10 +27,9 @@ Therefore, when CAROSPIR and NSAIDs are used concomitantly, monitor closely to d
 
 ## 7.4 Digoxin
 
-Spironolactone and its metabolites interfere with radioimmunoassays for digoxin and increase the apparent exposure to digoxin.
-It is unknown to what extent, if any, spironolactone may increase actual digoxin exposure.
-In patients taking concomitant digoxin, use an assay that does not interact with spironolactone.
-[see Clinical Pharmacology (12.3)].
+Spironolactone and its metabolites increase the apparent exposure to digoxin.
+In patients taking concomitant digoxin, measure serum digoxin concentrations before imitating spironolactone using an assay that does not interact with spironolactone.
+Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Cholestyramine
 
@@ -40,3 +39,9 @@ Hyperkalemic metabolic acidosis has been reported in patients given spironolacto
 
 Acetylsalicylic acid may reduce the efficacy of spironolactone.
 Therefore, when CAROSPIR and acetylsalicylic acid are used concomitantly, CAROSPIR may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)].
+
+## 7.7 CYP2C8 and CYP3A Substrates
+
+Spironolactone is an irreversible inhibitor for CYP2C8 and CYP3A4/5 in vitro [see Clinical Pharmacology (12.3)].
+Therefore, spironolactone may increase the exposure of other coadministered drugs that are metabolized by CYP2C8 and CYP3A4/5.
+Dosage adjustments of the drugs metabolized by CYP2C8 (e.g., repaglinide) and CYP3A4/5 (e.g., midazolam, sirolimus and tacrolimus) may be necessary if they are given concurrently with spironolactone.
