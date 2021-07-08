@@ -30,6 +30,38 @@ Rx Only
 
 IBSA
 
+# PRINCIPAL DISPLAY PANEL - 37.5 microgram/mL Ampule Pouch Carton
+
+NDC 71858-0112-5
+
+TIROSINT® - SOL (levothyroxine sodium) Oral Solution
+
+37.5 microgram/mL
+
+For Oral Use Only – NOT for Inhalation, Injection or Ophthalmic Use
+
+Rx Only
+
+6 pouches x 5 ampules
+
+IBSA
+
+# PRINCIPAL DISPLAY PANEL - 44 microgram/mL Ampule Pouch Carton
+
+NDC 71858-0113-5
+
+TIROSINT® - SOL (levothyroxine sodium) Oral Solution
+
+44 microgram/mL
+
+For Oral Use Only – NOT for Inhalation, Injection or Ophthalmic Use
+
+Rx Only
+
+6 pouches x 5 ampules
+
+IBSA
+
 # PRINCIPAL DISPLAY PANEL - 50 microgram/mL Ampule Pouch Carton
 
 NDC 71858-0115-5
@@ -37,6 +69,22 @@ NDC 71858-0115-5
 TIROSINT® - SOL (levothyroxine sodium) Oral Solution
 
 50 microgram/mL
+
+For Oral Use Only – NOT for Inhalation, Injection or Ophthalmic Use
+
+Rx Only
+
+6 pouches x 5 ampules
+
+IBSA
+
+# PRINCIPAL DISPLAY PANEL - 62.5 microgram/mL Ampule Pouch Carton
+
+NDC 71858-0117-5
+
+TIROSINT® - SOL (levothyroxine sodium) Oral Solution
+
+62.5 microgram/mL
 
 For Oral Use Only – NOT for Inhalation, Injection or Ophthalmic Use
 
