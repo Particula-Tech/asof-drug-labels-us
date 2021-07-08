@@ -2,12 +2,12 @@
 
 ## 5.1 Postural Hypotension
 
-Postural hypotension with or without symptoms (e.g., dizziness) may develop within a few hours following administration of Doxazosin Mesylate.
+Postural hypotension with or without symptoms (e.g., dizziness) may develop within a few hours following administration of Doxazosin.
 However, infrequently, symptomatic postural hypotension has also been reported later than a few hours after dosing.
 As with other alpha-blockers, there is a potential for syncope, especially after the initial dose or after an increase in dosage strength.
 Advise patient how to avoid symptoms resulting from postural hypotension and what measures to take should they develop.
 
-Concomitant administration of Doxazosin Mesylate with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension.
+Concomitant administration of Doxazosin with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension.
 
 ## 5.2 Cataract Surgery
 
@@ -19,7 +19,7 @@ There does not appear to be a benefit of stopping alpha1 blocker therapy prior t
 ## 5.3 Prostate Cancer
 
 Carcinoma of the prostate causes many of the symptoms associated with BPH and the two disorders frequently co-exist.
-Carcinoma of the prostate should therefore be ruled out prior to commencing therapy with Doxazosin Mesylate tablet for the treatment of BPH.
+Carcinoma of the prostate should therefore be ruled out prior to commencing therapy with Doxazosin tablet for the treatment of BPH.
 
 ## 5.4 Priapism
 

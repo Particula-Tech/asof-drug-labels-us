@@ -4,9 +4,9 @@
 
 In vitro studies suggest that doxazosin is a substrate of CYP 3A4.
 Strong CYP3A inhibitors may increase exposure to doxazosin.
-Monitor blood pressure and for symptoms of hypotension when Doxazosin Mesylate is used concomitantly with strong CYP3A inhibitors [see Clinical Pharmacology (12.3)].
+Monitor blood pressure and for symptoms of hypotension when Doxazosin is used concomitantly with strong CYP3A inhibitors [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Phosphodiesterase-5 (PDE-5) inhibitors
 
-Concomitant administration of Doxazosin Mesylate with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension.
+Concomitant administration of Doxazosin with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension.
 Monitor blood pressure and for symptoms of hypotension [see Warnings and Precautions (5.1)].

@@ -12,4 +12,4 @@ Priapism
 Advise patients of the possibility of priapism and to seek immediate medical attention if symptoms occur.
 
 This product's label may have been updated.
-For full prescribing information, please visit www.greenstonellc.com
+For full prescribing information, please visit www.greenstonellc.com.

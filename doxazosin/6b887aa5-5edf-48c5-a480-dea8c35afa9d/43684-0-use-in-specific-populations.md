@@ -4,7 +4,7 @@
 
 Risk Summary
 
-The limited available data with Doxazosin Mesylate in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+The limited available data with Doxazosin in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
 However, untreated hypertension during pregnancy can result in increased maternal risks [see Clinical Considerations].
 In animal reproduction studies, no adverse developmental effects were observed when doxazosin was orally administered to pregnant rabbits and rats during the period of organogenesis at doses of up to 41 and 20 mg/kg, respectively (exposures in rabbits and rats were 10 and 4 times, respectively, the human AUC exposures with a 12 mg/day therapeutic dose).
 A dosage regimen of 82 mg/kg/day in the rabbit was associated with reduced fetal survival [see Data].
@@ -32,34 +32,34 @@ In peri- and postnatal studies in rats, postnatal development at maternal doses 
 
 Risk Summary
 
-There is limited information on the presence of Doxazosin Mesylate in human milk [see Data].
-There is no information on the effects of Doxazosin Mesylate on the breastfeed infant or the effects on milk production.
+There is limited information on the presence of Doxazosin in human milk [see Data].
+There is no information on the effects of Doxazosin on the breastfeed infant or the effects on milk production.
 
 Data
 
-A single case study reports that Doxazosin Mesylate is present in human milk, which resulted in an infant dose of less than 1% of the maternal weight-adjusted dosage and a milk/plasma ratio of 0.1.
-However, these data are insufficient to confirm the presence of Doxazosin Mesylate in human milk.
+A single case study reports that Doxazosin is present in human milk, which resulted in an infant dose of less than 1% of the maternal weight-adjusted dosage and a milk/plasma ratio of 0.1.
+However, these data are insufficient to confirm the presence of Doxazosin in human milk.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Doxazosin Mesylate have not been established in children.
+The safety and effectiveness of Doxazosin have not been established in children.
 
 ## 8.5 Geriatric Use
 
 Benign Prostatic Hyperplasia (BPH)
 
-The safety and effectiveness profile of Doxazosin Mesylate tablet was similar in the elderly (age ≥ 65 years) and younger (age < 65 years) patients.
+The safety and effectiveness profile of Doxazosin tablet was similar in the elderly (age ≥ 65 years) and younger (age < 65 years) patients.
 
 Hypertension
 
-Clinical studies of Doxazosin Mesylate tablet did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Doxazosin tablet did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 
-Doxazosin Mesylate is extensively metabolized in the liver.
+Doxazosin is extensively metabolized in the liver.
 Hepatic impairment is expected to increase exposure to doxazosin.
-Use of Doxazosin Mesylate in patients with severe hepatic impairment (Child-Pugh Class C) is not recommended.
+Use of Doxazosin in patients with severe hepatic impairment (Child-Pugh Class C) is not recommended.
 Monitor blood pressure and for symptoms of hypotension in patients with lesser degrees of hepatic impairment (Child-Pugh Class A and B) [see Clinical Pharmacology (12.3)].

@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis and Mutagenesis: Chronic dietary administration (up to 24 months) of Doxazosin Mesylate at maximally tolerated doses of 40 mg/kg/day in rats and 120 mg/kg/day in mice revealed no evidence of carcinogenic potential.
+Carcinogenesis and Mutagenesis: Chronic dietary administration (up to 24 months) of Doxazosin at maximally tolerated doses of 40 mg/kg/day in rats and 120 mg/kg/day in mice revealed no evidence of carcinogenic potential.
 The highest doses evaluated in the rat and mouse studies are associated with AUCs (a measure of systemic exposure) that are 8 times and 4 times, respectively, the human AUC at a dose of 16 mg/day.
 
 Mutagenicity studies revealed no drug- or metabolite-related effects at either chromosomal or subchromosomal levels.

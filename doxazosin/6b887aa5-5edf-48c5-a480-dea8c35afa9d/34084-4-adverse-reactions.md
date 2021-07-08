@@ -7,15 +7,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Benign Prostatic Hyperplasia (BPH)
 
 The incidence of adverse events has been ascertained from worldwide clinical trials in 965 BPH patients.
-The incidence rates presented below (Table 2) are based on combined data from seven placebo-controlled trials involving once-daily administration of Doxazosin Mesylate tablet in doses of 1 to 16 mg in hypertensives and 0.5 to 8 mg in normotensives.
-Adverse reactions occurring more than 1% more frequently in BPH patients treated with Doxazosin Mesylate vs placebo are summarized in Table 1.
+The incidence rates presented below (Table 2) are based on combined data from seven placebo-controlled trials involving once-daily administration of Doxazosin tablet in doses of 1 to 16 mg in hypertensives and 0.5 to 8 mg in normotensives.
+Adverse reactions occurring more than 1% more frequently in BPH patients treated with Doxazosin vs placebo are summarized in Table 1.
 
 Table 1.
-Adverse Reactions Occurring more than 1% More Frequently in BPH Patients Treated with Doxazosin Mesylate Versus Placebo
+Adverse Reactions Occurring more than 1% More Frequently in BPH Patients Treated with Doxazosin Versus Placebo
 
 | NERVOUS SYSTEM DISORDERS |  |  |
 | --- | --- | --- |
-| BODY SYSTEM | Doxazosin Mesylate N=665 | Placebo N=300 |
+| BODY SYSTEM | Doxazosin N=665 | Placebo N=300 |
 | DizzinessIncludes vertigo | 15.6% | 9.0% |
 | Somnolence | 3.0% | 1.0% |
 | CARDIAC DISORDERS |  |  |
@@ -28,23 +28,23 @@ Adverse Reactions Occurring more than 1% More Frequently in BPH Patients Treated
 | Fatigue | 8.0% | 1.7% |
 | Oedema | 2.7% | 0.7% |
 
-Other adverse reactions occurring less than 1% more frequently in BPH patients treated with Doxazosin Mesylate vs placebo but plausibly related to Doxazosin Mesylate include: palpitations.
+Other adverse reactions occurring less than 1% more frequently in BPH patients treated with Doxazosin vs placebo but plausibly related to Doxazosin include: palpitations.
 
 Hypertension
 
-Doxazosin Mesylate has been administered to approximately 4000 hypertensive patients in clinical trials, of whom 1679 were included in the hypertension clinical development program.
+Doxazosin has been administered to approximately 4000 hypertensive patients in clinical trials, of whom 1679 were included in the hypertension clinical development program.
 In placebo-controlled studies, adverse events occurred in 49% and 40% of patients in the doxazosin and placebo groups, respectively, and led to discontinuation in 2% of patients in each group.
 
-Adverse reactions occurring more than 1% more frequently in hypertensive patients treated with Doxazosin Mesylate vs placebo are summarized in Table 1.
+Adverse reactions occurring more than 1% more frequently in hypertensive patients treated with Doxazosin vs placebo are summarized in Table 1.
 Postural effects and edema appeared to be dose-related.
 The prevalence rates presented below are based on combined data from placebo-controlled studies involving once-daily administration of doxazosin at doses ranging from 1 to 16 mg.
 
 Table 2.
-Adverse Reactions Occurring more than 1% More Frequently in Hypertensive Patients Treated with Doxazosin Mesylate versus Placebo
+Adverse Reactions Occurring more than 1% More Frequently in Hypertensive Patients Treated with Doxazosin versus Placebo
 
 | NERVOUS SYSTEM DISORDERS |  |  |
 | --- | --- | --- |
-| BODY SYSTEM | Doxazosin Mesylate N=339 | Placebo N=336 |
+| BODY SYSTEM | Doxazosin N=339 | Placebo N=336 |
 | Dizziness | 19% | 9% |
 | Somnolence | 5% | 1% |
 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
@@ -54,19 +54,19 @@ Adverse Reactions Occurring more than 1% More Frequently in Hypertensive Patient
 | REPRODUCTIVE SYSTEM AND BREAST DISORDERS GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Fatigue / Malaise | 12% | 6% |
 
-Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with Doxazosin Mesylate vs placebo but plausibly related to Doxazosin Mesylate use include vertigo, hypotension, hot flushes, epistaxis and oedema.
+Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with Doxazosin vs placebo but plausibly related to Doxazosin use include vertigo, hypotension, hot flushes, epistaxis and oedema.
 
-Doxazosin Mesylate has been associated with decreases in white blood cell counts
+Doxazosin has been associated with decreases in white blood cell counts
 
 Laboratory changes observed in clinical studies
 
-Leukopenia/Neutropenia: Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving Doxazosin Mesylate.
-In cases where follow-up was available, WBC and neutrophil counts returned to normal after discontinuation of Doxazosin Mesylate.
+Leukopenia/Neutropenia: Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving Doxazosin.
+In cases where follow-up was available, WBC and neutrophil counts returned to normal after discontinuation of Doxazosin.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Doxazosin Mesylate.
+The following adverse reactions have been identified during post-approval use of Doxazosin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 In post-marketing experience, the following additional adverse reactions have been reported:

@@ -1,11 +1,11 @@
 # 10 OVERDOSAGE
 
-Experience with Doxazosin Mesylate tablet overdosage is limited.
-Two adolescents, who each intentionally ingested 40 mg Doxazosin Mesylate tablet with diclofenac or acetaminophen, were treated with gastric lavage with activated charcoal and made full recoveries.
-A two-year-old child who accidently ingested 4 mg Doxazosin Mesylate tablet was treated with gastric lavage and remained normotensive during the five-hour emergency room observation period.
-A six-month-old child accidentally received a crushed 1 mg tablet of Doxazosin Mesylate tablet and was reported to have been drowsy.
-A 32-year-old female with chronic renal failure, epilepsy, and depression intentionally ingested 60 mg Doxazosin Mesylate tablet (blood level = 0.9 mcg/mL; normal values in hypertensives = 0.02 mcg/mL); death was attributed to a grand mal seizure resulting from hypotension.
-A 39-year-old female who ingested 70 mg Doxazosin Mesylate tablet, alcohol, and Dalmane® (flurazepam) developed hypotension which responded to fluid therapy.
+Experience with Doxazosin tablet overdosage is limited.
+Two adolescents, who each intentionally ingested 40 mg Doxazosin tablet with diclofenac or acetaminophen, were treated with gastric lavage with activated charcoal and made full recoveries.
+A two-year-old child who accidently ingested 4 mg Doxazosin tablet was treated with gastric lavage and remained normotensive during the five-hour emergency room observation period.
+A six-month-old child accidentally received a crushed 1 mg tablet of Doxazosin tablet and was reported to have been drowsy.
+A 32-year-old female with chronic renal failure, epilepsy, and depression intentionally ingested 60 mg Doxazosin tablet (blood level = 0.9 mcg/mL; normal values in hypertensives = 0.02 mcg/mL); death was attributed to a grand mal seizure resulting from hypotension.
+A 39-year-old female who ingested 70 mg Doxazosin tablet, alcohol, and Dalmane® (flurazepam) developed hypotension which responded to fluid therapy.
 
 The oral LD50 of doxazosin is greater than 1000 mg/kg in mice and rats.
 The most likely manifestation of overdosage would be hypotension, for which the usual treatment would be intravenous infusion of fluid.
