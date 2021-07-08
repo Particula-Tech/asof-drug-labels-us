@@ -61,9 +61,10 @@ RITUXAN HYCELA is ready to use.
 
 Preparation
 
+Use a sterile needle and syringe to prepare RITUXAN HYCELA.
 RITUXAN HYCELA is compatible with polypropylene and polycarbonate syringe material and stainless steel transfer and injection needles.
 
-Withdraw 20 mL into a syringe using any length, narrow gauge needle (e.g., 25–30 gauge).
+Using a 20 mL syringe, withdraw the required volume from the vial with a narrow (e.g., 25–30 gauge) needle of any length.
 
 Label the syringe with the provided peel-off label.
 

@@ -56,9 +56,10 @@ Hyaluronidase Human:
 
 ## 8.2 Lactation
 
-There are no data on the presence of rituximab or hyaluronidase human in human milk, the effect on the breastfed infant, or the effect on milk production.
-However, rituximab is detected in the milk of lactating cynomolgus monkeys and IgG is present in human milk.
-Since many drugs including antibodies are present in human milk, advise women not to breastfeed during treatment with RITUXAN HYCELA and for 6 months after the last dose due to the potential for serious adverse reactions in breastfed infants.
+There are no data on the presence of hyaluronidase human in human milk or the effect of rituximab on milk production, and there is limited data on the effect of rituximab on the breastfed child.
+However, rituximab is detected in the milk of lactating cynomolgus monkeys and maternal IgG is present in human breast milk.
+Rituximab has also been reported to be excreted at low concentrations in human breast milk.
+Given that the clinical significance of this finding for children is not known, advise women not to breastfeed during treatment with RITUXAN HYCELA and for 6 months after the last dose due to the potential for serious adverse reactions in breastfed children.
 
 ## 8.3 Females and Males of Reproductive Potential
 
