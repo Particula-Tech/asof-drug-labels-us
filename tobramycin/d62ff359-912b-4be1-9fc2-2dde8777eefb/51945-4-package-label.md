@@ -1,10 +1,10 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Tobramycin 1.2 g Vial Label
 
-NDC 63323-303-51
+NDC 63323-303-01
 
 300351
 
-Tobramycin for Injection, USP
+TOBRAMYCIN FOR INJECTION, USP
 
 PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION
 
@@ -16,13 +16,13 @@ Tobramycin
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Tobramycin 1.2 g Vial Tray Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Tobramycin 1.2 g Tray Label
 
 NDC 63323-303-51
 
 300351
 
-Tobramycin for Injection, USP
+TOBRAMYCIN FOR INJECTION, USP
 
 PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION
 
@@ -33,3 +33,5 @@ equivalent to
 Tobramycin
 
 Rx only
+
+6 x 50 mL pharmacy bulk package vials
