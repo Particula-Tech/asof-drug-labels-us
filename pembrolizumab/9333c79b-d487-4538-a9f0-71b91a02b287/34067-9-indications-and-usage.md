@@ -53,10 +53,7 @@ KEYTRUDA is indicated for the treatment of patients with Bacillus Calmette-Gueri
 
 ## 1.7 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR)
-
-- solid tumors that have progressed following prior treatment and who have no satisfactory alternative treatment options, or
-- colorectal cancer that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) solid tumors that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.7)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
@@ -65,7 +62,7 @@ Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patien
 
 ## 1.8 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
-KEYTRUDA is indicated for the first-line treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC).
+KEYTRUDA is indicated for the treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC).
 
 ## 1.9 Gastric Cancer
 
