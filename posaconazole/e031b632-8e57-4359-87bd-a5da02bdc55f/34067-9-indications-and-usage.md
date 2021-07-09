@@ -2,6 +2,6 @@
 
 ## 1.1 Prophylaxis of Invasive Aspergillus and Candida Infections
 
-Posaconazole delayed-release tablets and oral suspension are indicated for prophylaxis of invasive Aspergillus and Candida infections in patients who are at high risk of developing these infections due to being severely immunocompromised, such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD) or those with hematologic malignancies with prolonged neutropenia from chemotherapy.
+Posaconazole is indicated for the prophylaxis of invasive Aspergillus and Candida infections in patients who are at high risk of developing these infections due to being severely immunocompromised, such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD) or those with hematologic malignancies with prolonged neutropenia from chemotherapy [see Clinical Studies (14.1)] as follows:
 
-Posaconazole delayed-release tablets are indicated in patients 13 years of age and older.
+Posaconazole delayed-release tablets: adults and pediatric patients 2 years of age and older who weigh greater than 40 kg.

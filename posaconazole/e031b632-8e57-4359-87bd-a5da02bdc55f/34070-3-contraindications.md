@@ -2,17 +2,17 @@
 
 ## 4.1 Hypersensitivity
 
-Posaconazole is contraindicated in persons with known hypersensitivity to posaconazole or other azole antifungal agents.
+Posaconazole is contraindicated in persons with known hypersensitivity to Posaconazole or other azole antifungal agents.
 
 ## 4.2 Use with Sirolimus
 
 Posaconazole is contraindicated with sirolimus.
-Concomitant administration of posaconazole with sirolimus increases the sirolimus blood concentrations by approximately 9-fold and can result in sirolimus toxicity [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Concomitant administration of Posaconazole with sirolimus increases the sirolimus blood concentrations by approximately 9-fold and can result in sirolimus toxicity [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 4.3 QT Prolongation with Concomitant Use with CYP3A4 Substrates
 
 Posaconazole is contraindicated with CYP3A4 substrates that prolong the QT interval.
-Concomitant administration of posaconazole with the CYP3A4 substrates, pimozide and quinidine may result in increased plasma concentrations of these drugs, leading to QTc prolongation and cases of torsades de pointes [see Warnings and Precautions (5.2) and Drug Interactions (7.2)].
+Concomitant administration of Posaconazole with the CYP3A4 substrates, pimozide and quinidine may result in increased plasma concentrations of these drugs, leading to QTc prolongation and cases of torsades de pointes [see Warnings and Precautions (5.2) and Drug Interactions (7.2)].
 
 ## 4.4 HMG-CoA Reductase Inhibitors Primarily Metabolized Through CYP3A4
 

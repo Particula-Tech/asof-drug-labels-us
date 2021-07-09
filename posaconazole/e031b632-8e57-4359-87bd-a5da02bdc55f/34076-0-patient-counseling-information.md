@@ -2,28 +2,28 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-## 17.1 Administration
+Important Administration Instructions
 
 Posaconazole Delayed-Release Tablets
 
-Advise patients to take posaconazole delayed-release tablets with food.
+Advise patients to take Posaconazole delayed-release tablets with food.
 
-Advise patients that posaconazole delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
+Advise patients that Posaconazole delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
 
 Instruct patients that if they miss a dose, they should take it as soon as they remember.
 If they do not remember until it is within 12 hours of the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
 Patients should not double their next dose or take more than the prescribed dose.
 
-## 17.2 Drug Interactions
+Drug Interactions
 
 Advise patients to inform their physician immediately if they:
 
 - develop severe diarrhea or vomiting.
 - are currently taking drugs that are known to prolong the QTc interval and are metabolized through CYP3A4.
 - are currently taking a cyclosporine or tacrolimus, or they notice swelling in an arm or leg or shortness of breath.
-- are taking other drugs or before they begin taking other drugs as certain drugs can decrease or increase the plasma concentrations of posaconazole.
+- are taking other drugs or before they begin taking other drugs as certain drugs can decrease or increase the plasma concentrations of Posaconazole.
 
-## 17.3 Serious and Potentially Serious Adverse Reactions
+Serious and Potentially Serious Adverse Reactions
 
 Advise patients to inform their physician immediately if they:
 
