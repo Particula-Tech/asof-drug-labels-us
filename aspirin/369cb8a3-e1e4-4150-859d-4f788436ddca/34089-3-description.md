@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Aspirin and extended-release dipyridamole is a combination antiplatelet agent intended for oral administration.
+Aspirin and extended-release dipyridamole is a combination of aspirin and dipyridamole, antiplatelet agents intended for oral administration.
 Each hard gelatin capsule contains 200 mg dipyridamole, USP in an extended-release form and 25 mg aspirin USP, as an immediate-release sugar-coated tablet.
 In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, corn starch, hypromellose, hypromellose phthalate, lactose monohydrate, methacrylic acid copolymer, microcrystalline cellulose, polyethylene glycol, simethicone, stearic acid, sucrose, talc, tartaric acid, triethyl citrate and triacetin.
 

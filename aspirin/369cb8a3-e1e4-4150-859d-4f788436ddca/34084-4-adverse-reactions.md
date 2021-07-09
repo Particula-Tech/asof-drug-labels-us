@@ -92,7 +92,7 @@ Psychiatric Disorders: Confusion, agitation
 
 Respiratory: Tachypnea, dyspnea, hemoptysis
 
-Skin and Appendages Disorders: Rash, alopecia, angioedema, Stevens-Johnson syndrome, skin hemorrhages such as bruising, ecchymosis, and hematoma, pruritus, urticaria
+Skin and Appendages Disorders: Rash, alopecia, angioedema, Stevens-Johnson syndrome, skin hemorrhages such as bruising, ecchymosis, and hematoma, pruritus, urticaria, and drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 Urogenital: Interstitial nephritis, papillary necrosis, proteinuria, renal insufficiency and failure, hematuria
 

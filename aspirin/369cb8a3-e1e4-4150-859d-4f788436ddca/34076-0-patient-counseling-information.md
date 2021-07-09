@@ -18,4 +18,4 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2019-02
+06-2021-03
