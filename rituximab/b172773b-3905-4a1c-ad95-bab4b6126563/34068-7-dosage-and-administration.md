@@ -2,94 +2,126 @@
 
 ## 2.1 Important Dosing Information
 
-RITUXAN HYCELA is for subcutaneous use only.
-RITUXAN HYCELA should only be administered by a healthcare professional with appropriate medical support to manage severe reactions that can be fatal if they occur.
+Administer only as an Intravenous Infusion [see Dosage and Administration (2.8)].
 
-All patients must first receive at least one full dose of a rituximab product by intravenous infusion without experiencing severe adverse reactions before starting treatment with RITUXAN HYCELA.
-If patients are not able to receive one full dose by intravenous infusion, they should continue subsequent cycles with a rituximab product by intravenous infusion and not switch to RITUXAN HYCELA until a full intravenous dose is successfully administered [see Warnings and Precautions (5.4)].
+Do not administer as an intravenous push or bolus.
 
-Refer to the prescribing information for a rituximab product for intravenous infusion for additional information.
+RITUXAN should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
-Premedicate before each dose of RITUXAN HYCELA [see Dosage and Administration (2.5)].
+Premedicate before each infusion [see Dosage and Administration (2.8)].
 
-Dose reductions of RITUXAN HYCELA are not recommended.
-When RITUXAN HYCELA is given in combination with chemotherapy dose, reduce the chemotherapeutic drugs to manage adverse reactions.
+Prior to First Infusion: Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with RITUXAN [see Warnings and Precautions (5.3)].
+Obtain complete blood counts (CBC) including platelets prior to the first dose.
 
-## 2.2 Recommended Dosage for Follicular Lymphoma (FL)
+During RITUXAN Therapy: In patients with lymphoid malignancies, during treatment with RITUXAN monotherapy, obtain complete blood counts (CBC) with differential and platelet counts prior to each RITUXAN course.
+During treatment with RITUXAN and chemotherapy, obtain CBC with differential and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
+In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RITUXAN therapy.
+Continue to monitor for cytopenias after final dose and until resolution.
 
-All patients must receive at least one full dose of a rituximab product by intravenous infusion before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
-Premedicate before each dose [see Dosage and Administration (2.5)].
+- First Infusion: Initiate infusion at a rate of 50 mg/hr.
+  In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
+- Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hr.
+  In the absence of infusion toxicity, increase rate by 100 mg/hr increments at 30-minute intervals, to a maximum of 400 mg/hr.
+  For Previously Untreated Follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
+  If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
+  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5,000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
+- Interrupt the infusion or slow the infusion rate for infusion-related reactions [see Boxed Warning, Warnings and Precautions (5.1)].
+  Continue the infusion at one-half the previous rate upon improvement of symptoms.
 
-The recommended dose is RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) subcutaneously at a fixed dose irrespective of patient's body surface area according to the following schedules:
+## 2.2 Recommended Dose for Non-Hodgkin's Lymphoma (NHL)
 
-- Relapsed or Refractory, Follicular Lymphoma Administer once weekly for 3 or 7 weeks following a full dose of a rituximab product by intravenous infusion at week 1 (i.e., 4 or 8 weeks in total).
-- Retreatment for Relapsed or Refractory, Follicular Lymphoma Administer once weekly for 3 weeks following a full dose of a rituximab product by intravenous infusion at week 1 (i.e., 4 weeks in total).
-- Previously Untreated, Follicular Lymphoma Administer on Day 1 of Cycles 2–8 of chemotherapy (every 21 days), for up to 7 cycles following a full dose of a rituximab product by intravenous infusion on Day 1 of Cycle 1 of chemotherapy (i.e., up to 8 cycles in total).
-  In patients with complete or partial response, initiate RITUXAN HYCELA maintenance treatment 8 weeks following completion of RITUXAN HYCELA in combination with chemotherapy.
-  Administer RITUXAN HYCELA as a single-agent every 8 weeks for 12 doses.
-- Non-progressing, Follicular Lymphoma after first line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy and a full dose of a rituximab product by intravenous infusion at week 1, administer once weekly for 3 weeks (i.e., 4 weeks in total) at 6 month intervals to a maximum of 16 doses.
+The recommended dose is 375 mg/m2 as an intravenous infusion according to the following schedules:
 
-## 2.3 Recommended Dosage for Diffuse Large B-Cell Lymphoma (DLBCL)
+- Relapsed or Refractory, Low-Grade or Follicular, CD20-Positive, B-Cell NHL Administer once weekly for 4 or 8 doses.
+- Retreatment for Relapsed or Refractory, Low-Grade or Follicular, CD20-Positive, B-Cell NHL Administer once weekly for 4 doses.
+- Previously Untreated, Follicular, CD20-Positive, B-Cell NHL Administer on Day 1 of each cycle of chemotherapy for up to 8 doses.
+  In patients with complete or partial response, initiate RITUXAN maintenance eight weeks following completion of a rituximab product in combination with chemotherapy.
+  Administer RITUXAN as a single-agent every 8 weeks for 12 doses.
+- Non-progressing, Low-Grade, CD20-Positive, B-Cell NHL, after first-line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy, administer once weekly for 4 doses at 6-month intervals to a maximum of 16 doses.
+- Diffuse Large B-Cell NHL Administer on Day 1 of each cycle of chemotherapy for up to 8 infusions.
 
-All patients must receive at least one full dose of a rituximab product by intravenous infusion in combination with CHOP chemotherapy before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
-Premedicate before each dose [see Dosage and Administration (2.5)].
+## 2.3 Recommended Dose for Chronic Lymphocytic Leukemia (CLL)
 
-The recommended dose for DLBCL is RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) at a fixed dose irrespective of patient's body surface area in combination with CHOP chemotherapy.
-Administer RITUXAN HYCELA 1,400 mg/23,400 Units on Day 1 of Cycles 2–8 of CHOP chemotherapy for up to 7 cycles following a full dose of a rituximab product by intravenous infusion at Day 1, Cycle 1 of CHOP chemotherapy (i.e., up to 6–8 cycles in total).
+The recommended dose is 375 mg/m2 the day prior to the initiation of FC chemotherapy, then 500 mg/m2 on Day 1 of cycles 2–6 (every 28 days).
 
-## 2.4 Recommended Dosage for Chronic Lymphocytic Leukemia (CLL)
+## 2.4 Recommended Dose as a Component of Zevalin® for treatment of NHL
 
-All patients must receive at least one full dose of a rituximab product by intravenous infusion in combination with FC chemotherapy before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
-Premedicate before each dose [see Dosage and Administration (2.5)].
+- When used as part of the Zevalin therapeutic regimen, infuse 250 mg/m2 in accordance with the Zevalin package insert.
+  Refer to the Zevalin package insert for full prescribing information regarding the Zevalin therapeutic regimen.
 
-The recommended dose for CLL is RITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human) in combination with FC chemotherapy, at a fixed dose, irrespective of patient's body surface area.
-Administer RITUXAN HYCELA 1,600 mg/26,800 Units on Day 1 of Cycles 2–6 (every 28 days) for a total of 5 cycles following a full intravenous dose at Day 1, Cycle 1 (i.e., 6 cycles in total).
+## 2.5 Recommended Dose for Rheumatoid Arthritis (RA)
 
-## 2.5 Recommended Premedication and Prophylactic Medications
+- Administer RITUXAN as two-1,000 mg intravenous infusions separated by 2 weeks.
+- Glucocorticoids administered as methylprednisolone 100 mg intravenous or its equivalent 30 minutes prior to each infusion are recommended to reduce the incidence and severity of infusion-related reactions.
+- Subsequent courses should be administered every 24 weeks or based on clinical evaluation, but not sooner than every 16 weeks.
+- RITUXAN is given in combination with methotrexate.
 
-Premedicate with acetaminophen and an antihistamine before each dose of RITUXAN HYCELA.
-Premedication with a glucocorticoid should also be considered [see Dosage and Administration (2.2, 2.3, 2.4)].
+## 2.6 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-Provide prophylaxis for Pneumocystis jiroveci pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
+Induction Treatment of Adult Patients with Active GPA/MPA
 
-## 2.6 Preparation and Administration
+- Administer RITUXAN as a 375 mg/m2 intravenous infusion once weekly for 4 weeks for patients with active GPA or MPA.
+- Glucocorticoids administered as methylprednisolone 1,000 mg intravenously per day for 1 to 3 days followed by oral prednisone as per clinical practice.
+  This regimen should begin within 14 days prior to or with the initiation of RITUXAN and may continue during and after the 4 week induction course of RITUXAN treatment.
 
-To prevent medication errors, check the vial labels to ensure that the drug being prepared and administered is RITUXAN HYCELA for subcutaneous use.
-Do not administer RITUXAN HYCELA intravenously.
+Follow up Treatment of Adult Patients with GPA/MPA who have achieved disease control with induction treatment
 
-RITUXAN HYCELA is ready to use.
+- Administer RITUXAN as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion every 6 months thereafter based on clinical evaluation.
+- If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RITUXAN within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
+- If induction treatment of active disease was with other standard of care immunosuppressants, initiate RITUXAN follow up treatment within the 4 week period that follows achievement of disease control.
 
-Preparation
+Induction treatment of Pediatric Patients with Active GPA/MPA
 
-Use a sterile needle and syringe to prepare RITUXAN HYCELA.
-RITUXAN HYCELA is compatible with polypropylene and polycarbonate syringe material and stainless steel transfer and injection needles.
+- Administer RITUXAN as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
+- Prior to the first RITUXAN infusion, administer intravenous methylprednisolone 30 mg/kg (not to exceed 1g/day) once daily for 3 days.
+- Following intravenous methylprednisolone administration, oral steroids should be continued per clinical practice.
 
-Using a 20 mL syringe, withdraw the required volume from the vial with a narrow (e.g., 25–30 gauge) needle of any length.
+Follow up Treatment of Pediatric Patients with GPA/MPA who have achieved disease control with induction treatment
 
-Label the syringe with the provided peel-off label.
+- Administer RITUXAN as two 250 mg/m2 intravenous infusions separated by two weeks, followed by a 250 mg/m2 intravenous infusion every 6 months thereafter based on clinical evaluation.
+- If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RITUXAN within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
+- If induction treatment of active disease was with other standard of care immunosuppressants, initiate RITUXAN follow up treatment within the 4 week period following achievement of disease control.
 
-Change the needle to a 1/2" to 5/8" long, narrow gauge needle (e.g., 25–30 gauge) immediately prior to subcutaneous administration to avoid needle clogging.
+## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
 
-Visually inspect for particulate matter and discoloration prior to administration.
-RITUXAN HYCELA should be a clear to opalescent and colorless to yellowish liquid.
-Do not use if particulates or discoloration is present.
+- Administer RITUXAN as two-1,000 mg intravenous infusions separated by 2 weeks in combination with a tapering course of glucocorticoids.
+- Maintenance treatment Administer RITUXAN as a 500 mg intravenous infusion at Month 12 and every 6 months thereafter or based on clinical evaluation.
+- Treatment of relapse Administer RITUXAN as a 1,000 mg intravenous infusion on relapse, and consider resuming or increasing the glucocorticoid dose based on clinical evaluation.
+
+Subsequent infusions of RITUXAN may be administered no sooner than 16 weeks following the previous infusion.
+
+## 2.8 Recommended Dose for Premedication and Prophylactic Medications
+
+Premedicate with acetaminophen and an antihistamine before each infusion of RITUXAN.
+For patients administered RITUXAN according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
+
+For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+
+Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
+
+PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RITUXAN infusion.
+
+PCP prophylaxis should be considered for patients with PV during and following RITUXAN treatment.
+
+## 2.9 Administration and Storage
+
+Use appropriate aseptic technique.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+RITUXAN should be a clear, colorless liquid.
+Do not use vial if particulates or discoloration is present.
 
 Administration
 
-- Inject RITUXAN HYCELA into the subcutaneous tissue of the abdomen over approximately 5–7 minutes.
-  Never inject into areas where the skin is red, bruised, tender or hard, or areas where there are moles or scars.
-  No data are available on performing the injection at other sites of the body.
-- Inject 11.7 mL of RITUXAN HYCELA 1,400 mg/23,400 Units vial (1,400 mg rituximab and 23,400 Units hyaluronidase human) subcutaneously into the abdomen over approximately 5 minutes.
-- Inject 13.4 mL of RITUXAN HYCELA 1,600 mg/26,800 Units vial (1,600 mg rituximab and 26,800 Units hyaluronidase human) subcutaneously into the abdomen over approximately 7 minutes.
-
-If administration of RITUXAN HYCELA is interrupted, continue administering at the same site, or at a different site, but restricted to the abdomen.
-
-Observe patients for at least 15 minutes following RITUXAN HYCELA administration [see Warnings and Precautions (5.4)].
-
-During treatment with RITUXAN HYCELA, do not administer other medications for subcutaneous use at the same sites as RITUXAN HYCELA.
+Use a sterile needle and syringe to prepare RITUXAN.
+Withdraw the necessary amount of RITUXAN and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
+Gently invert the bag to mix the solution.
+Do not mix or dilute with other drugs.
+Discard any unused portion left in the vial.
 
 Storage
 
-Use immediately.
-
-If not used immediately store refrigerated at 2°C to 8°C (36°F to 46°F) up to 48 hours and subsequently for 8 hours at room temperature up to 30°C (86°F) in diffuse light.
+Diluted RITUXAN solutions for infusion may be stored refrigerated at 2°C to 8°C (36°F to 46°F) for 24 hours.
+Diluted RITUXAN solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
+However, since RITUXAN solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C to 8°C).
+No incompatibilities between RITUXAN and polyvinylchloride or polyethylene bags have been observed.

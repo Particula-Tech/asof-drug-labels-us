@@ -2,9 +2,4 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long term animal studies have been performed to establish the carcinogenic or mutagenic potential of RITUXAN HYCELA or rituximab, or to determine potential effects on fertility in males or females.
-
-RITUXAN HYCELA contains hyaluronidase human.
-Hyaluronidases are found in most tissues of the body.
-Long-term animal studies have not been performed to assess the carcinogenic or mutagenic potential of hyaluronidase human.
-In addition, when hyaluronidase human was administered to cynomolgus monkeys for 39 weeks at dose levels up to 220,000 U/kg, which is > 90 times higher than the human dose, no evidence of toxicity to the male or female reproductive system was found through periodic monitoring of in-life parameters, e.g., semen analyses, hormone levels, menstrual cycles, and also from gross pathology, histopathology and organ weight data.
+No long-term animal studies have been performed to establish the carcinogenic or mutagenic potential of RITUXAN or to determine potential effects on fertility in males or females.

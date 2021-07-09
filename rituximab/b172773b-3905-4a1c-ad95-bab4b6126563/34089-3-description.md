@@ -1,16 +1,12 @@
 # 11 DESCRIPTION
 
-RITUXAN HYCELA is a combination of rituximab and hyaluronidase human.
 Rituximab is a genetically engineered chimeric murine/human monoclonal IgG1 kappa antibody directed against the CD20 antigen.
 Rituximab has an approximate molecular weight of 145 kD.
-Rituximab has a binding affinity for the CD20 antigen of approximately 8.0 nM.
-Rituximab is produced by mammalian cell (Chinese Hamster Ovary) suspension.
 
-Recombinant human hyaluronidase is an endoglycosidase used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
-It is produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20).
-It is a glycosylated single-chain protein with an approximate molecular weight of 61 kD.
+Rituximab is produced by mammalian cell (Chinese Hamster Ovary) suspension culture in a nutrient medium that may contain the antibiotic gentamicin.
+Gentamicin is not detectable in the final product.
 
-RITUXAN HYCELA (rituximab and hyaluronidase human) injection is a colorless to yellowish, clear to opalescent solution supplied in sterile, preservative-free, single-dose vials for subcutaneous use.
-
-RITUXAN HYCELA is supplied as 1,400 mg rituximab and 23,400 Units hyaluronidase human per 11.7 mL in single-dose vials or 1,600 mg rituximab and 26,800 Units hyaluronidase human per 13.4 mL in single-dose vials.
-Each mL of solution contains rituximab (120 mg), hyaluronidase human (2,000 Units), L-histidine (0.53 mg), L-histidine hydrochloride monohydrate (3.47 mg), L-methionine (1.49 mg), polysorbate 80 (0.6 mg), α,α-trehalose dihydrate (79.45 mg), and Water for Injection.
+RITUXAN (rituximab) injection is a sterile, preservative-free, clear, colorless solution for intravenous infusion.
+RITUXAN is supplied at a concentration of 10 mg/mL in either 100 mg/10 mL or 500 mg/50 mL single-dose vials.
+Each mL of solution contains 10 mg rituximab, polysorbate 80 (0.7 mg), sodium chloride (9 mg), sodium citrate dihydrate (7.35 mg), and Water for Injection, USP.
+The pH is 6.5.
