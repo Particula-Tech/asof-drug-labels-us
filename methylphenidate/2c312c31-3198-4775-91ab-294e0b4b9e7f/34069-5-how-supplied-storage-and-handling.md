@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Daytrana is supplied in a sealed tray or outer pouch containing 30 individually pouched patches.
+DAYTRANA is supplied in a sealed tray or outer pouch containing 30 individually pouched patches.
 See the chart below for information regarding available strengths.
 
 | Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | Patch Size (cm 2) | Methylphenidate Content per Patch** (mg) | Patches Per Carton | NDC Number |

@@ -62,7 +62,7 @@ Patients who develop abnormally sustained or frequent and painful erections shou
 
 ## 5.5 Peripheral Vasculopathy, including Raynaud’s phenomenon
 
-Stimulants, including Daytrana, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Stimulant medications, including DAYTRANA, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
@@ -77,33 +77,33 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 
 ## 5.7 Chemical Leukoderma
 
-Daytrana use may result in a persistent loss of skin pigmentation at and around the application site.
+DAYTRANA use may result in a persistent loss of skin pigmentation at and around the application site.
 Loss of pigmentation, in some cases, has been reported at other sites distant from the application site.
 Chemical leukoderma can mimic the appearance of vitiligo, particularly when the loss of skin pigmentation involves areas distant from the application site.
 Individuals with a history of vitiligo and/or a family history of vitiligo may be more at risk.
-Skin depigmentation may persist even after Daytrana use is discontinued.
+Skin depigmentation may persist even after DAYTRANA use is discontinued.
 Monitor for signs of skin depigmentation, and advise patients to immediately inform their healthcare provider if changes in skin pigmentation occur.
-Discontinue the Daytrana patch in patients with chemical leukoderma.
+Discontinue use of the DAYTRANA in patients with chemical leukoderma.
 
 ## 5.8 Contact Sensitization
 
-In an open-label study of 305 subjects conducted to characterize dermal reactions in children with ADHD treated with Daytrana using a 9-hour wear time, one subject (0.3%) was confirmed by patch testing to be sensitized to methylphenidate (allergic contact dermatitis).
-This subject experienced erythema and edema at Daytrana application sites with concurrent urticarial lesions on the abdomen and legs resulting in treatment discontinuation.
+In an open-label study of 305 subjects conducted to characterize dermal reactions in children with ADHD treated with DAYTRANA using a 9-hour wear time, one subject (0.3%) was confirmed by patch testing to be sensitized to methylphenidate (allergic contact dermatitis).
+This subject experienced erythema and edema at DAYTRANA application sites with concurrent urticarial lesions on the abdomen and legs resulting in treatment discontinuation.
 This subject was not transitioned to oral methylphenidate.
 
-Use of Daytrana may lead to contact sensitization.
-Daytrana should be discontinued if contact sensitization is suspected.
-Erythema is commonly seen with use of Daytrana and is not by itself an indication of sensitization.
+Use of DAYTRANA may lead to contact sensitization.
+DAYTRANA should be discontinued if contact sensitization is suspected.
+Erythema is commonly seen with use of DAYTRANA and is not by itself an indication of sensitization.
 However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the patch site.
 Confirmation of a diagnosis of contact sensitization (allergic contact dermatitis) may require further diagnostic testing.
 
-Patients sensitized from use of Daytrana, as evidenced by development of an allergic contact dermatitis, may develop systemic sensitization or other systemic reactions if methylphenidate-containing products are taken via other routes, e.g., orally.
+Patients sensitized from use of DAYTRANA, as evidenced by development of an allergic contact dermatitis, may develop systemic sensitization or other systemic reactions if methylphenidate-containing products are taken via other routes, e.g., orally.
 Manifestations of systemic sensitization may include a flare-up of previous dermatitis or of prior positive patch-test sites, or generalized skin eruptions in previously unaffected skin.
 Other systemic reactions may include headache, fever, malaise, arthralgia, diarrhea, or vomiting.
-No cases of systemic sensitization have been observed in clinical trials of Daytrana.
+No cases of systemic sensitization have been observed in clinical trials of DAYTRANA.
 
-Patients who develop contact sensitization to Daytrana and require oral treatment with methylphenidate should be initiated on oral medication under close medical supervision.
-It is possible that some patients sensitized to methylphenidate by exposure to Daytrana may not be able to take methylphenidate in any form.
+Patients who develop contact sensitization to DAYTRANA and require oral treatment with methylphenidate should be initiated on oral medication under close medical supervision.
+It is possible that some patients sensitized to methylphenidate by exposure to DAYTRANA may not be able to take methylphenidate in any form.
 
 ## 5.9 Visual Disturbance
 
@@ -111,8 +111,8 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 ## 5.10 Patients Using External Heat
 
-Patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch.
-When heat is applied to Daytrana after patch application, both the rate and extent of absorption are significantly increased.
+Patients should be advised to avoid exposing the DAYTRANA application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch.
+When heat is applied to DAYTRANA after patch application, both the rate and extent of absorption are significantly increased.
 The temperature-dependent increase in methylphenidate absorption can be greater than 2-fold [see Clinical Pharmacology (12.3)].
 This increased absorption can be clinically significant and can result in overdose of methylphenidate [see Overdosage (10)].
 

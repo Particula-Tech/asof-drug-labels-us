@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Daytrana is classified as a Schedule II controlled substance by federal regulation.
+DAYTRANA is classified as a Schedule II controlled substance by federal regulation.
 
 ## 9.2 Abuse
 

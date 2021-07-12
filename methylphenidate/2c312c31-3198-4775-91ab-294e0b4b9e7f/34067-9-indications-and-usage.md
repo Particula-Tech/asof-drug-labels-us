@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-Daytrana (methylphenidate transdermal system) is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
+DAYTRANA (methylphenidate transdermal system) is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 
-The efficacy of Daytrana in patients diagnosed with ADHD was established in two 7-week controlled clinical trials in children (ages 6-12) and one 7-week, controlled clinical trial in adolescents (ages 13-17).
+The efficacy of DAYTRANA in patients diagnosed with ADHD was established in two 7-week controlled clinical trials in children (ages 6-12) and one 7-week, controlled clinical trial in adolescents (ages 13-17).
 
 A diagnosis of ADHD (DSM-IV-TR®) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in two or more settings, e.g., school (or work) and at home.
@@ -20,7 +20,7 @@ The diagnosis must be based upon a complete history and evaluation of the patien
 
 ## 1.2 Need for Comprehensive Treatment Program
 
-Daytrana is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with this syndrome.
+DAYTRANA is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all patients with this syndrome.
 Stimulants are not intended for use in the patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.

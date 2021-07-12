@@ -54,12 +54,12 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-Daytrana should not be used in children under six years of age, since safety and efficacy in this age group have not been established.
+DAYTRANA should not be used in children under six years of age, since safety and efficacy in this age group have not been established.
 Long-term effects of methylphenidate in children have not been well established.
 
 Long Term Suppression of Growth
 
-Growth should be monitored during treatment with stimulants, including Daytrana.
+Growth should be monitored during treatment with stimulants, including DAYTRANA.
 Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.6)].
 
 Juvenile Animal Toxicity Data
@@ -75,4 +75,4 @@ The clinical significance of the long-term behavioral effects observed in rats i
 
 ## 8.5 Geriatric Use
 
-Daytrana has not been studied in patients greater than 65 years of age.
+DAYTRANA has not been studied in patients greater than 65 years of age.

@@ -26,16 +26,16 @@ The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adve
 
 The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions [see Adverse Reactions (6.1)].
 
-The overall Daytrana development program included exposure to Daytrana in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
+The overall DAYTRANA development program included exposure to DAYTRANA in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.
-In a combined studies pool of children using Daytrana with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents have been exposed for ≥ 6 months.
-Most patients studied were exposed to Daytrana patch sizes of 12.5 cm 2, 18.75 cm 2, 25 cm 2 or 37.5 cm 2, with a wear time of 9 hours.
+In a combined studies pool of children using DAYTRANA with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents have been exposed for ≥ 6 months.
+Most patients studied were exposed to DAYTRANA patch sizes of 12.5 cm 2, 18.75 cm 2, 25 cm 2 or 37.5 cm 2, with a wear time of 9 hours.
 
 In the data presented below, the adverse reactions reported during exposure were obtained primarily by general inquiry at each visit, and were recorded by the clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of events into a smaller number of standardized event categories.
 
-Throughout this section adverse reactions reported are events that were considered to be reasonably associated with the use of Daytrana based on comprehensive assessment of the available adverse event information.
-A causal association for Daytrana often cannot be reliably established in individual cases.
+Throughout this section adverse reactions reported are events that were considered to be reasonably associated with the use of DAYTRANA based on comprehensive assessment of the available adverse event information.
+A causal association for DAYTRANA often cannot be reliably established in individual cases.
 Further, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 ## 6.1 Clinical Trials Experience
@@ -44,17 +44,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions Associated With Discontinuation of Treatment
 
-In a 7-week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting, 7.1% (7/98) of patients treated with Daytrana discontinued due to adverse events compared with 1.2% (1/85) receiving placebo.
-The most commonly reported (≥ 1% and twice the rate of placebo) adverse reactions leading to discontinuation in the Daytrana group were application site reaction (2%), tics (1%), headache (1%), and irritability (1%).
+In a 7-week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting, 7.1% (7/98) of patients treated with DAYTRANA discontinued due to adverse events compared with 1.2% (1/85) receiving placebo.
+The most commonly reported (≥ 1% and twice the rate of placebo) adverse reactions leading to discontinuation in the DAYTRANA group were application site reaction (2%), tics (1%), headache (1%), and irritability (1%).
 
-In a 7-week double-blind, parallel-group, placebo-controlled study in adolescents with ADHD conducted in the outpatient setting, 5.5% (8/145) of patients treated with Daytrana discontinued due to adverse reactions compared with 2.8% (2/72) receiving placebo.
-The most commonly reported adverse reactions leading to discontinuation in the Daytrana group were application site reaction (2%) and decreased appetite/anorexia (1.4%).
+In a 7-week double-blind, parallel-group, placebo-controlled study in adolescents with ADHD conducted in the outpatient setting, 5.5% (8/145) of patients treated with DAYTRANA discontinued due to adverse reactions compared with 2.8% (2/72) receiving placebo.
+The most commonly reported adverse reactions leading to discontinuation in the DAYTRANA group were application site reaction (2%) and decreased appetite/anorexia (1.4%).
 
 Commonly Observed Adverse Reactions in Double-Blind, Placebo-Controlled Trials
 
 Skin Irritation and Application Site Reactions
 
-Daytrana is a dermal irritant.
+DAYTRANA is a dermal irritant.
 In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the patch application site.
 This erythema generally caused no or minimal discomfort and did not usually interfere with therapy or result in discontinuation from treatment.
 Erythema is not by itself a manifestation of contact sensitization.
@@ -62,13 +62,13 @@ However, contact sensitization should be suspected if erythema is accompanied by
 
 Most Commonly Reported Adverse Reactions
 
-Table 2 lists treatment-emergent adverse reactions reported in ≥ 1% Daytrana-treated children or adolescents with ADHD in two 7 week double-blind, parallel-group, placebo-controlled studies conducted in the outpatient setting.
+Table 2 lists treatment-emergent adverse reactions reported in ≥ 1% DAYTRANA-treated children or adolescents with ADHD in two 7 week double-blind, parallel-group, placebo-controlled studies conducted in the outpatient setting.
 Overall, in these studies, 75.5% of children and 78.6% of adolescents experienced at least 1 adverse event.
 
-| Table 2 Number (%) of Subjects with Commonly Reported Adverse Reactions (≥ 1% in the Daytrana Group) in 7-Week Placebo-controlled Studies in Either Children or Adolescents - Safety Population |  |  |  |  |
+| Table 2 Number (%) of Subjects with Commonly Reported Adverse Reactions (≥ 1% in the DAYTRANA Group) in 7-Week Placebo-controlled Studies in Either Children or Adolescents - Safety Population |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Adolescents |  | Children |  |
-| System Organ Class Preferred term | Placebo N = 72 | Daytrana N = 145 | Placebo N = 85 | Daytrana N = 98 |
+| System Organ Class Preferred term | Placebo N = 72 | DAYTRANA N = 145 | Placebo N = 85 | DAYTRANA N = 98 |
 | Cardiac Disorders |  |  |  |  |
 | Tachycardia | 0 (0) | 1 (0.7) | 0 (0) | 1 (1.0) |
 | Gastrointestinal disorders |  |  |  |  |
@@ -90,24 +90,24 @@ Overall, in these studies, 75.5% of children and 78.6% of adolescents experience
 | Tic | 0 (0) | 0 (0) | 0 (0) | 7 (7.1) |
 | * Six subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional |  |  |  |  |
 
-Adverse Reactions With the Long-Term Use of Daytrana
+Adverse Reactions With the Long-Term Use of DAYTRANA
 
-In a long-term open-label study of up to 12 months duration in 326 children wearing Daytrana 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite, headache, and weight decreased.
+In a long-term open-label study of up to 12 months duration in 326 children wearing DAYTRANA 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite, headache, and weight decreased.
 A total of 30 subjects (9.2%) were withdrawn from the study due to adverse events and 22 additional subjects (6.7%) discontinued treatment as the result of an application site reaction.
 Other than application site reactions, affect lability (5 subjects, 1.5%) was the only additional adverse reaction leading to discontinuation reported with a frequency of greater than 1%.
 
-In a long-term open-label study of up to 6 months duration in 162 adolescents wearing Daytrana 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite and headache.
+In a long-term open-label study of up to 6 months duration in 162 adolescents wearing DAYTRANA 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite and headache.
 A total of 9 subjects (5.5%) were withdrawn from the study due to adverse events and 3 additional subjects (1.9%) discontinued treatment as the result of an application site reaction.
 Other adverse reactions leading to discontinuation that occurred with a frequency of greater than 1% included affect lability and irritability (2 subjects each, 1.2%).
 
 ## 6.2 Postmarketing Experience
 
-In addition, the following adverse reactions have been identified during the postapproval use of Daytrana.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to Daytrana exposure.
+In addition, the following adverse reactions have been identified during the postapproval use of DAYTRANA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to DAYTRANA exposure.
 
 Cardiac Disorders: palpitations
 
-Eye Disorders: visual disturbances, blurred vision, mydriasis, accommodation disorder
+Eye Disorders: visual disturbances, blurred vision, mydriasis, and accommodation disorder
 
 General Disorders and Administration Site Disorders: fatigue, application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
 
@@ -115,9 +115,9 @@ Immune System Disorders: hypersensitivity reactions including generalized erythe
 
 Investigations: blood pressure increased
 
-Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs, and extrapyramidal disorder
 
-Psychiatric Disorders: depression, hallucination, nervousness, libido changes
+Psychiatric Disorders: depression, hallucination, nervousness, and libido changes
 
 Skin and Subcutaneous Tissue Disorders: alopecia
 
@@ -128,28 +128,28 @@ In children, loss of appetite, abdominal pain, weight loss during prolonged ther
 
 Other reactions include:
 
-Cardiac: angina, arrhythmia, pulse increased or decreased
+Cardiac Disorders: angina, arrhythmia, and pulse increased or decreased
 
-Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
+Immune System Disorders: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
 
-Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
+Metabolism and Nutrition Disorders: anorexia and weight loss during prolonged therapy
 
-Nervous System: drowsiness, rare reports of Tourette's syndrome, toxic psychosis
+Nervous System Disorders: drowsiness, rare reports of Tourette's syndrome and toxic psychosis.
 
-Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
-
-Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
-
-Blood/lymphatic: leukopenia and/or anemia
-
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
-
-Psychiatric: transient depressed mood
-
-Skin/Subcutaneous: scalp hair loss
-
-Neuroleptic Malignant Syndrome: Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
+Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
 
-Musculoskeletal: rhabdomyolysis
+Vascular Disorders: blood pressure increased or decreased and cerebral arteritis and/or occlusion
+
+Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
+
+Blood and Lymphatic System Disorders: leukopenia and/or anemia
+
+Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+
+Psychiatric Disorders: transient depressed mood
+
+Skin and Subcutaneous Tissue Disorders: scalp hair loss
+
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis

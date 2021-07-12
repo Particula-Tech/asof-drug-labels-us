@@ -12,7 +12,7 @@ Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
 Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
 
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for Daytrana overdosage has not been established.
+Efficacy of peritoneal dialysis or extracorporeal hemodialysis for DAYTRANA overdosage has not been established.
 
 ## 10.3 Poison Control Center
 
