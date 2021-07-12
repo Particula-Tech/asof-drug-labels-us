@@ -21,14 +21,17 @@ Clinical Trials Experience with Other Methylphenidate Products in Children, Adol
 
 Clinical Trials Experience with ADHANSIA XR ADHANSIA XR was studied in adults (18 to 72 years) and pediatric patients (6 to 17 years) who met Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) criteria for ADHD.
 
-The safety data for adults is based on two randomized, double-blind, placebo-controlled studies in doses of 25 mg to 100 mg per day.
-The safety data for pediatric patients (6 to 17 years) is based on randomized, double-blind, placebo-controlled studies in doses of 25 mg to 85 mg per day.
+The safety data for adults is based on three randomized, double-blind, placebo-controlled studies in doses of 25 mg to 100 mg per day.
+The safety data for pediatric patients (6 to 17 years) is based on two randomized, double-blind, placebo-controlled studies in doses of 25 mg to 85 mg per day.
 
-The total number of patients exposed to ADHANSIA XR during 1 to 4-week long, controlled treatment periods is 883; this included 434 adult patients and 449 pediatric patients [156 (6 to 12 years); 293 (12 to 17 years)], from two clinical trials in adults, one in pediatric patients ages 12 to 17 years, and one in pediatric patients ages 6 to 12 years [see Clinical Studies (14)].
+The total number of patients exposed to ADHANSIA XR during 1 to 4-week long, controlled treatment periods is 1168; this included 719 adult patients and 449 pediatric patients [156 (6 to 12 years); 293 (12 to 17 years)], from two clinical trials in adults, one in pediatric patients ages 12 to 17 years, and one in pediatric patients ages 6 to 12 years [see Clinical Studies (14)].
 
 Adverse Reactions Leading to Discontinuation of Treatment In controlled adult trials for Study 1, 3% of both of ADHANSIA XR-treated patients and placebo-treated patients discontinued due to adverse reactions.
 In an adult workplace environment study (Study 2), 10% of ADHANSIA XR-treated patients discontinued due to adverse reactions compared to 0% of placebo-treated patients.
 The following adverse reactions led to discontinuation at a frequency of 2% of ADHANSIA XR-treated patients: nausea, bronchitis, gastroenteritis viral, viral infection, blood pressure increased, and hypomania.
+
+In an adult laboratory classroom study (Study 5), 3.5% of ADHANSIA XR-treated patients discontinued due to adverse reactions during the open-label titration period.
+There were no discontinuations due to adverse reactions during the double-blind period of the study.
 
 In a controlled trial (Study 3) in pediatric patients (12 to 17 years), 3% of ADHANSIA XR-treated patients discontinued due to adverse reactions compared to 0% of placebo-treated patients.
 The most frequent adverse reactions leading to discontinuation in at least 1% of ADHANSIA XR-treated patients and at a rate greater that placebo was irritability (1%).
@@ -36,11 +39,11 @@ Two patients taking ADHANSIA XR 70 or 85 mg had delirium leading to discontinuat
 
 In a controlled trial (Study 4) in pediatric patients (6 to 12 years), 1% of ADHANSIA XR-treated patients discontinued due to adverse reactions compared to 0% of placebo-treated patients.
 
-Adult Patients with ADHD The most common adverse reactions (incidence of ≥5% and at least twice placebo) of ADHANSIA XR occurring in controlled trials in adults were insomnia, dry mouth, and decreased appetite.
+Adult Patients with ADHD The most common adverse reactions (incidence of ≥5% and at least twice placebo) of ADHANSIA XR occurring in controlled trials in adults (Study 1) were insomnia, dry mouth, and decreased appetite.
 
-Table 1 lists the adverse reactions that occurred ≥2% of adult patients and greater than placebo among ADHANSIA XR-treated adult patients.
+Table 1 lists the adverse reactions that occurred ≥2% of adult patients and greater than placebo among ADHANSIA XR-treated adult patients in Study 1.
 
-Table 1: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on ADHANSIA XR and Greater than Patients Taking Placebo in a 4-week Clinical Trial
+Table 1: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on ADHANSIA XR and Greater than Patients Taking Placebo in a 4-week Clinical Trial (Study 1)
 
 | Adverse Reaction | ADHANSIA XR |  |  |  | All doses ADHANSIA XR | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -56,11 +59,29 @@ Table 1: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on AD
 | Weight decreased | 3% | 4% | 3% | 5% | 4% | 1% |
 | Upper respiratory tract infection | 0% | 4% | 3% | 3% | 2% | 1% |
 
+The most common adverse reactions (incidence of ≥5%) of ADHANSIA XR occurring in adults in the open-label dose-optimization period of Study 5 were headache, decreased appetite, insomnia, irritability, upper respiratory tract infection, dry mouth, nausea, anxiety, and fatigue.
+
+Table 2 lists adverse reactions that occurred ≥2% of adult patients in the ADHANSIA XR-treated patients and greater than placebo-treated patients for the double-blind period of study 5.
+
+Table 2: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on ADHANSIA XR and Greater than Patients Taking Placebo in the Double-Blind Period (Study 5)
+
+| Adverse Reaction | ADHANSIA XR |  |  |  |  |  |  | All doses ADHANSIA XR | Placebo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 25 mg | 35 mg | 45 mg | 55 mg | 70 mg | 85 mg | 100 mg |  |  |  |
+| N=239 | (N=3) | (N=4) | (N=15) | (N=31) | (N=30) | (N=22) | (N=16) | (N=121) | (N=118) |
+| Headache | 0% | 0% | 7% | 0% | 3% | 5% | 13% | 4% | 3% |
+| Fatigue | 0% | 0% | 0% | 3% | 3% | 9% | 0% | 3% | 1% |
+| Insomnia* | 0% | 0% | 0% | 0% | 7% | 5% | 0% | 3% | 2% |
+| Irritability | 0% | 0% | 0% | 0% | 0% | 9% | 0% | 2% | 0% |
+| Nausea | 0% | 0% | 7% | 3% | 0% | 0% | 0% | 2% | 0% |
+| Dysmenorrhea | 0% | 25% | 0% | 0% | 0% | 5% | 0% | 2% | 0% |
+| * Includes insomnia, initial insomnia, and delayed sleep phase |  |  |  |  |  |  |  |  |  |
+
 Pediatric Patients (12 to 17 years) with ADHD The most common (incidence ≥5% and at least twice placebo) adverse reactions reported in pediatric patients (12 to 17 years) were decreased appetite, insomnia, and weight decreased.
 
-Table 2 lists the adverse reactions that occurred ≥2% of pediatric patients (12 to 17 years) and greater than placebo among ADHANSIA XR-treated pediatric patients (12 to 17 years).
+Table 3 lists the adverse reactions that occurred ≥2% of pediatric patients (12 to 17 years) and greater than placebo among ADHANSIA XR-treated pediatric patients (12 to 17 years).
 
-Table 2: Adverse Reactions Occurring in ≥ 2% of Pediatric Patients (12 to 17 years) with ADHD Taking ADHANSIA XR and Greater than Placebo in a 4-week Clinical Trial
+Table 3: Adverse Reactions Occurring in ≥ 2% of Pediatric Patients (12 to 17 years) with ADHD Taking ADHANSIA XR and Greater than Placebo in a 4-week Clinical Trial
 
 | Adverse Reaction | ADHANSIA XR |  |  |  | All doses ADHANSIA XR | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |

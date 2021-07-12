@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ADHANSIA XR (methylphenidate hydrochloride) extended-release capsules are available as follows:
+ADHANSIA XR® (methylphenidate hydrochloride) extended-release capsules are available as follows:
 
 - 25 mg Capsules – blue, (imprinted with “MLR-02” and “25 mg”) Bottles of 30.........................................………………………………NDC 72912-525-30
 - 35 mg Capsules – orange, (imprinted with “MLR-02” and “35 mg”) Bottles of 30.........................................………………………………NDC 72912-535-30

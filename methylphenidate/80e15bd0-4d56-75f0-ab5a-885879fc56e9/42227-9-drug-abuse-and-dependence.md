@@ -19,7 +19,9 @@ After prescribing, keep careful prescription records, educate patients and their
 
 ## 9.3 Dependence
 
-Tolerance Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time) may occur during chronic therapy with CNS stimulants including ADHANSIA XR.
-
-Dependence Physical dependence (a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) can occur in patients treated with CNS stimulants including ADHANSIA XR.
+Dependence ADHANSIA XR may produce physical dependence from continued therapy.
+Physical dependence is a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist.
 Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+
+Tolerance ADHANSIA XR may produce tolerance from continued therapy.
+Tolerance is a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time.

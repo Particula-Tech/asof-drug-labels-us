@@ -15,8 +15,8 @@ Methylphenidate blocks the reuptake of norepinephrine and dopamine into the pres
 
 Absorption ADHANSIA XR contains a racemic mixture of d- and l-methylphenidate and produces two distinct peak concentrations (Cmax).
 The 1st median (range) time to Cmax occurred at about 1.5 (1- 2.5) hours and the 2nd about 12 (8.5- 16.0) hours after ADHANSIA XR administration.
-Following administration of ADHANSIA XR (100 mg once daily) and 60 mg of immediate-release (IR) methylphenidate (administered as 20 mg three times daily 4 hours apart) under fasted condition for 5 consecutive days to 21 healthy adult subjects, 1st d,l-methylphenidate mean Cmax was about 22% higher but the 2nd mean Cmax was similar for ADHANSIA XR compared to IR methylphenidate at steady state.
-The mean extent of exposure (AUC 0-24h) and minimum concentration (Cmin) of d,l-methylphenidate were about 50% and 288% higher, respectively for ADHANSIA XR compared to IR methylphenidate at steady state.
+Following administration of ADHANSIA XR (100 mg once daily) and 60 mg of immediate-release (IR) methylphenidate (administered as 20 mg three times daily 4 hours apart) under fasted condition for 5 consecutive days to 21 healthy adult subjects, 1std,l-methylphenidate mean Cmax was about 22% higher but the 2nd mean Cmax was similar for ADHANSIA XR compared to IR methylphenidate at steady state.
+The mean extent of exposure (AUC0-24h) and minimum concentration (Cmin) of d,l-methylphenidate were about 50% and 288% higher, respectively for ADHANSIA XR compared to IR methylphenidate at steady state.
 (Figure 1).
 Following administration of ADHANSIA XR (100 mg once daily), the steady-state was reached from day 3.
 
@@ -34,7 +34,7 @@ In an in vivo alcohol interaction study, in fasted healthy adults, ADHANSIA XR 7
 
 Elimination The mean plasma elimination half-life for d, l-methylphenidate was about 7 hours in healthy volunteers.
 
-Metabolism In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (PPAA).
+Metabolism In humans, methylphenidate is metabolized primarily via de-esterification to alpha-phenyl-piperidine acetic acid (PPAA).
 The metabolite has little or no pharmacologic activity.
 
 Excretion After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
