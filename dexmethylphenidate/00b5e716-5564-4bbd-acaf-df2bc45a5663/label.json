@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA212994"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Corium, Inc",
+  "package_ndcs": [
+    "65038-286-99",
+    "65038-429-99",
+    "65038-561-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "serdexmethylphenidate and dexmethylphenidate",
+      "name": "AZSTARYS"
+    }
+  ],
+  "setid": "00b5e716-5564-4bbd-acaf-df2bc45a5663",
+  "source": "dailymed"
+}
