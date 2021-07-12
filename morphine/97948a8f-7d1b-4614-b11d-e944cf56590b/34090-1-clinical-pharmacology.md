@@ -54,12 +54,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -67,13 +67,13 @@ Absorption
 
 Morphine sulfate extended-release capsules contain polymer coated extended-release pellets of morphine sulfate that release morphine significantly more slowly than oral morphine solution.
 Following the administration of oral morphine solution, approximately 50% of the morphine absorbed reaches the systemic circulation within 30 minutes compared to 8 hours with an equal amount of morphine sulfate.
-Because of pre-systemic elimination, only about 20 to 40% of the administered dose reaches the systemic circulation.
+Because of pre-systemic elimination, only about 20% to 40% of the administered dose reaches the systemic circulation.
 
 Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of morphine sulfate in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 2).
 
 When morphine sulfate extended-release capsules were given twice daily to 24 patients with chronic pain due to malignancy, steady-state was achieved in about two days.
 At steady-state, morphine sulfate extended-release capsules have a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
-When given once daily to 24 patients with malignancy, morphine sulfate extended-release capsules had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
+When given once daily to 24 patients with malignancy, morphine sulfate extended-release capsules have a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
 
 The single-dose pharmacokinetics of morphine sulfate extended-release capsules are linear over the dosage range of 30 to 100 mg.
 
@@ -97,9 +97,9 @@ Distribution
 
 Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
-Morphine is 30 to 35% reversibly bound to plasma proteins.
+Morphine is 30% to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.4)].
+Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.2)].
 
 Elimination
 

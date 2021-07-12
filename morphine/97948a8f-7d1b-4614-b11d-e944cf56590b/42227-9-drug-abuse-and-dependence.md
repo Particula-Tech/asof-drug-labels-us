@@ -14,7 +14,6 @@ The high drug content in extended-release formulations adds to the risk of adver
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Prescription drug abuse is the intentional non-therapeutic use of an over-the-counter or prescription drug, even once, for its rewarding psychological or physiological effects.
-
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
 
 "Drug seeking" behavior is very common in persons with substance use disorders.
@@ -57,6 +56,6 @@ Rapid discontinuation has also been associated with attempts to find other sourc
 
 When discontinuing morphine sulfate extended-release capsules, gradually taper the dosage using a patient-specific plan that considers the following: the dose of morphine sulfate extended-release capsules the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4), Warnings and Precautions (5.13)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.13)].
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.2), Warnings and Precautions (5.4)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.1), Warnings and Precautions (5.4)].

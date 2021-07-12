@@ -5,11 +5,11 @@ The following serious adverse reactions are described, or described in greater d
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.8)]
 - Severe Hypotension [see Warnings and Precautions (5.9)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
+- Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.11)]
+- Increased Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.12)]
 - Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
@@ -71,7 +71,7 @@ Other less common side effects expected from morphine sulfate extended-release c
 
 Four-Week Open-Label Safety Study
 
-In the open-label, 4-week safety study, 1418 patients ages 18 to 85 with chronic, non-malignant pain (e.g., back pain, osteoarthritis, neuropathic pain) were enrolled.
+In the open-label, 4-week safety study, 1,418 patients ages 18 to 85 with chronic, non-malignant pain (e.g., back pain, osteoarthritis, neuropathic pain) were enrolled.
 The most common adverse events reported at least once during therapy were constipation (12%), nausea (9%), and somnolence (3%).
 Other less common side effects occurring in less than 3% of patients were vomiting, pruritus, dizziness, sedation, dry mouth, headache, fatigue, and rash.
 

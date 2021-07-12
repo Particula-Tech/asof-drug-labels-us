@@ -7,18 +7,29 @@ Morphine sulfate extended-release capsules should be prescribed only by healthca
 Morphine sulfate extended-release 100 mg capsules, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients considered opioid-tolerant are those taking, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone daily, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate extended-release capsules and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow morphine sulfate extended-release capsules whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving the pellets in morphine sulfate extended-release capsules will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-Instruct patients who are unable to swallow morphine sulfate extended-release capsules to sprinkle the capsule contents on applesauce and immediately swallow without chewing [see Dosage and Administration (2.5)].
+Instruct patients who are unable to swallow morphine sulfate extended-release capsules to sprinkle the capsule contents on applesauce and immediately swallow without chewing [see Dosage and Administration (2.6)].
 
 Morphine sulfate extended-release capsules are administered orally at a frequency of either once daily (every 24 hours) or twice daily (every 12 hours).
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with morphine sulfate extended-release capsules [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of Morphine Sulfate Extended-Release Capsules as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -74,7 +85,7 @@ Close monitoring is of particular importance when converting from methadone to o
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate morphine sulfate extended-release capsules to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving morphine sulfate extended-release capsules to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -89,7 +100,7 @@ Because steady-state plasma concentrations are approximated within 24 to 36 hour
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Capsules
+## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Capsules
 
 Do not abruptly discontinue morphine sulfate extended-release capsules in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -117,7 +128,7 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
 
-## 2.5 Administration of Morphine Sulfate Extended-Release Capsules
+## 2.6 Administration of Morphine Sulfate Extended-Release Capsules
 
 Morphine sulfate extended-release capsules must be taken whole.
 Crushing, chewing, or dissolving the pellets in morphine sulfate extended-release capsules will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
