@@ -15,7 +15,7 @@ The PI was calculated based on 28-day equivalent exposure cycles; evaluable cycl
 The Year 1 PI was based on 2 pregnancies and the cumulative 5-year pregnancy rate was based on 13 pregnancies that occurred after the onset of treatment and within 7 days after Kyleena removal or expulsion.
 Table 5 shows the calculated annual and cumulative pregnancy rates.
 
-Table 5: Pearl Indices by Year and 5-Year Cumulative Pregnancy Rate
+Table 7: Pearl Indices by Year and 5-Year Cumulative Pregnancy Rate
 
 | Kyleena Clinical Trial | Pearl Index |  |  |  |  | Cumulative 5-Year Kaplan Meier Rate |
 | --- | --- | --- | --- | --- | --- | --- |

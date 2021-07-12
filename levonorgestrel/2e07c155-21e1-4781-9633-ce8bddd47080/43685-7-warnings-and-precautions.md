@@ -71,30 +71,29 @@ When possible, confirm a Pap smear diagnosis with cultures.
 ## 5.5 Perforation
 
 Perforation (total or partial, including penetration/embedment of Kyleena in the uterine wall or cervix) may occur most often during insertion, although the perforation may not be detected until sometime later.
-Perforation may reduce contraceptive efficacy and result in pregnancy.
 The incidence of perforation during clinical trials was < 0.1%.
+
+The risk of uterine perforation is increased in women who have recently given birth, and in women who are breastfeeding at the time of insertion.
+In a large postmarketing safety study conducted in the US, the risk of uterine perforation was highest when insertion occurred within ≤ 6 weeks postpartum, and also higher with breastfeeding at the time of insertion [see Adverse Reactions (6.2)].
+
+The risk of perforation may be increased if Kyleena is inserted when the uterus is fixed, retroverted or not completely involuted.
 
 If perforation occurs, locate and remove Kyleena.
 Surgery may be required.
 Delayed detection or removal of Kyleena in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
-
-The risk of perforation may be increased if Kyleena is inserted when the uterus is fixed retroverted or not completely involuted.
-Delay Kyleena insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
-
-Clinical trials with Kyleena excluded breast-feeding women.
-A large postmarketing safety study conducted in Europe over a 1-year observational period reported that lactation at the time of insertion of an IUD/IUS was associated with an increased risk of perforation.
-For users of another LNG-releasing IUS, the incidence of uterine perforation was reported as 6.3 per 1,000 insertions for lactating women, compared to 1.0 per 1,000 insertions for non-lactating women.
+In addition, perforation may reduce contraceptive efficacy and result in pregnancy.
 
 ## 5.6 Expulsion
 
-Partial or complete expulsion of Kyleena may occur resulting in the loss of contraceptive protection.
+Partial or complete expulsion of Kyleena may occur resulting in the loss of efficacy.
 Expulsion may be associated with symptoms of bleeding or pain, or it may be asymptomatic and go unnoticed.
 Kyleena typically decreases menstrual bleeding over time; therefore, an increase of menstrual bleeding may be indicative of an expulsion.
 Consider further diagnostic imaging, such as x-ray, if expulsion is suspected based on ultrasound [see Warnings and Precautions (5.10)].
-The risk of expulsion may be increased when the uterus is not completely involuted.
 In clinical trials, a 5-year expulsion rate of 3.5% (59 out of 1,690 subjects) was reported.
 
-Delay Kyleena insertion a minimum of six weeks or until uterine involution is complete following a delivery or a second trimester abortion.
+The risk of expulsion is increased with insertions immediately after delivery and appears to be increased with insertion after second-trimester abortion based on limited data.
+In a large postmarketing safety study conducted in the US, the risk of expulsion was lower with breastfeeding status [see Adverse Reactions (6.2)].
+
 Remove a partially expelled Kyleena.
 If expulsion has occurred, a new Kyleena can be inserted any time the provider can be reasonably certain the woman is not pregnant.
 
