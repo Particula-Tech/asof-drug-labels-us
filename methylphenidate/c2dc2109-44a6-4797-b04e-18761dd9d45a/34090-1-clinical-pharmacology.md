@@ -18,12 +18,11 @@ Absorption
 Following a single, 60 mg oral dose of QUILLIVANT XR in 28 healthy adult subjects in a crossover study under fasting conditions, d-methylphenidate (d-MPH) mean (± SD) peak plasma concentrations of 13.6 (± 5.8) ng/mL occurred at a median time of 5 hours after dosing (Figure 2).
 The relative bioavailability of QUILLIVANT XR compared to Methylphenidate IR oral solution (2x30 mg, q6h) is 95%.
 
-Figure 2.
-Mean d-Methylphenidate Plasma Concentration-Time Profiles
+Figure 2: Mean d-Methylphenidate Plasma Concentration-Time Profiles
 
 The single dose pharmacokinetics of d-MPH under fed conditions are summarized (Table 3) from studies in children and adolescents with ADHD, and healthy adults following an oral dose of 60 mg QUILLIVANT XR.
 
-Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XR*
+Table 3: d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XR*
 
 | PK Parameter | Children† (n=3) | Adolescent† (n=4) | Adult (n=27) |
 | --- | --- | --- | --- |

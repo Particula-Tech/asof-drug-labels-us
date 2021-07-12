@@ -45,8 +45,7 @@ Remove bottle cap, and add specified amount of water to the bottle (see Table 1 
 Fully insert bottle adapter into neck of bottle [see Instructions for Use, Figures F and G]. Replace bottle cap.
 Shake with vigorous back and forth motion for at least 10 seconds to prepare suspension.
 
-Table 1.
-Product Reconstitution Instructions
+Table 1: Product Reconstitution Instructions
 
 | Amount of drug in bottle | Amount of water to add to bottle | Final reconstituted volume (yield) |
 | --- | --- | --- |

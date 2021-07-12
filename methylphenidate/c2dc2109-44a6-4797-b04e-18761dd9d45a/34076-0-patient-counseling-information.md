@@ -63,11 +63,11 @@ Patients should be advised to avoid alcohol while taking QUILLIVANT XR Oral Susp
 Consumption of alcohol while taking QUILLIVANT XR may result in a more rapid release of the dose of methylphenidate [see Clinical Pharmacology (12.3)].
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.trispharma.com
+For current full prescribing information, please visit www.trispharma.com.
 
 Distributed by:
 
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
 LB8529 Rev.
-00 08/2018
+01 06/2021

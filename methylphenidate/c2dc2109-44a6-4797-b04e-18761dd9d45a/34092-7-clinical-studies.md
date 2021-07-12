@@ -13,5 +13,4 @@ The key secondary efficacy endpoints were the SKAMP-Combined scores at 0.75, 2, 
 Results from the first double-blind, placebo-controlled week of the study are summarized in Figure 3.
 SKAMP-Combined scores were statistically significantly lower (improved) at all time points (0.75, 2, 4, 8, 10, 12 hours) post-dosing with QUILLIVANT XR compared to placebo.
 
-Figure 3.
-Absolute SKAMP-Combined Score after treatment with QUILLIVANT XR or Placebo during Period 1.
+Figure 3: Absolute SKAMP-Combined Score after treatment with QUILLIVANT XR or Placebo during Period 1.

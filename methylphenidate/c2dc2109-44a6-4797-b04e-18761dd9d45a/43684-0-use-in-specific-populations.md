@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/othermedications/.
+
 Risk Summary
 
 There are limited published studies and small case series that report on the use of methylphenidate in pregnant women; however, the data are insufficient to inform any drug-associated risks.
@@ -45,7 +50,7 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 The safety and effectiveness of QUILLIVANT XR have been established in pediatric patients ages 6 to 17 years.
 Use of QUILLIVANT XR in pediatric patients 6 to 12 years of age is supported by one adequate and well-controlled study [see Clinical Studies (14)].
-Use in 12 to 17 year olds is supported by the adequate and well-controlled studies of QUILLIVANT XR in younger pediatric patients and additional pharmacokinetic data in adolescents, along with safety information from other methylphenidate‑containing products.
+Use in 12 to 17 year old's is supported by the adequate and well-controlled studies of QUILLIVANT XR in younger pediatric patients and additional pharmacokinetic data in adolescents, along with safety information from other methylphenidate‑containing products.
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 Safety and efficacy in pediatric patients below the age of 6 years have not been established.
 

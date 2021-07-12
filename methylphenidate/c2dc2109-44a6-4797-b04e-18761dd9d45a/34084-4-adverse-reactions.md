@@ -26,8 +26,7 @@ There is limited experience with QUILLIVANT XR in controlled trials.
 Based on this limited experience, the adverse reaction profile of QUILLIVANT XR appears similar to other methylphenidate extended-release products.
 The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6 to 12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
 
-Table 2.
-Common Adverse Reactions occurring in ≥2% of subjects on QUILLIVANT XR and greater than placebo during the controlled cross-over phase
+Table 2: Common Adverse Reactions occurring in ≥2% of subjects on QUILLIVANT XR and greater than placebo during the controlled cross-over phase
 
 | Adverse reaction | QUILLIVANT XR N= 45 | Placebo N= 45 |
 | --- | --- | --- |

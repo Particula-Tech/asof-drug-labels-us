@@ -7,8 +7,7 @@ After reconstitution, QUILLIVANT XR is available in a 25 mg per 5 mL (5 mg per m
 Methylphenidate HCl is a central nervous system (CNS) stimulant.
 The chemical name is methyl α-phenyl-2-piperidineacetate hydrochloride, and its structural formula is shown in Figure 1.
 
-Figure 1.
-Methylphenidate HCl structure
+Figure 1: Methylphenidate HCl structure
 
 C14H19NO2•HCI Mol.
 Wt.
