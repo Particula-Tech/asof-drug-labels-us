@@ -6,7 +6,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Known hypersensitivity to methylphenidate or other ingredients of Focalin XR [see Contraindications (4)]
 - Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions[(5.3)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]

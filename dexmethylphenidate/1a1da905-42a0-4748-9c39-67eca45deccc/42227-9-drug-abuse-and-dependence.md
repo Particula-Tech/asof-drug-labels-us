@@ -10,7 +10,7 @@ CNS stimulants, including Focalin XR, other methylphenidate-containing products,
 Abuse is characterized by impaired control over drug use despite harm, and craving.
 
 Signs and symptoms of CNS stimulant abuse include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
-Anxiety, psychosis, hostility, aggression, suicidal or homicidal ideation have also been observed.
+Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed.
 Abusers of CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which may result in overdose and death [see Overdosage (10)].
 
 To reduce the abuse of CNS stimulants, including Focalin XR, assess the risk of abuse prior to prescribing.

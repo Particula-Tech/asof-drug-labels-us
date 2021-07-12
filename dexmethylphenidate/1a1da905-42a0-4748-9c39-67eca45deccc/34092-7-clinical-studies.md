@@ -25,7 +25,7 @@ Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 â€
 |  | Placebo (n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |
 | Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 
-In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years, who received 20 mg Focalin XR or placebo, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all-time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the study 3).
+In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years, who received 20 mg Focalin XR or placebo, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all-time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the Study 3).
 SKAMP is a validated 13-item teacher-rated scale that assesses manifestations of ADHD in a classroom setting.
 A treatment effect was also observed 0.5 hours after administration of Focalin XR 20 mg in an additional study of ADHD patients ages 6 to 12 years.
 
@@ -37,7 +37,7 @@ Patients were randomized to receive either a fixed dose of Focalin XR (20, 30, o
 Patients randomized to Focalin XR were initiated on a 10 mg/day starting dose and titrated in increments of 10 mg/week to the randomly assigned fixed dose.
 Patients were maintained on their fixed dose (20, 30, or 40 mg/day) for a minimum of 2 weeks.
 
-Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for Focalin XR and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the investigator-administered DSM-IV Attention-Deficit/Hyperactivity Disorder Rating Scale (DSM-IV ADHD RS).
+Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for Focalin XR and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the investigator-administered DSM-IV Attention-Deficit/Hyperactivity Disorder Rating Scale (DSM-IV ADHD-RS).
 
 The DSM-IV ADHD-RS is an 18-item questionnaire with a score range of 0 to 54 points that measures the core symptoms of ADHD and includes both hyperactive/impulsive and inattentive subscales.
 

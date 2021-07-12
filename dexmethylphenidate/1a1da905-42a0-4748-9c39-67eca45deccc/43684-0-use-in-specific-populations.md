@@ -59,7 +59,7 @@ The safety and effectiveness of Focalin XR in pediatric patients less than 6 yea
 The safety and effectiveness of Focalin XR for the treatment of ADHD have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14.2)].
 The long-term efficacy of Focalin XR in pediatric patients has not been established.
 
-Long Term Suppression of Growth
+Long-Term Suppression of Growth
 
 Growth should be monitored during treatment with stimulants, including Focalin XR.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].

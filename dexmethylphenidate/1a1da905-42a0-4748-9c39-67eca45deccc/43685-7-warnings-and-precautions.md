@@ -55,7 +55,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-In a 7-week, double-blind, placebo-controlled study of Focalin XR, the mean weight gain was greater for pediatric patients (ages 6 to 17 years) receiving placebo (+0.4 kg) than for patients receiving Focalin XR (-0.5 kg).
+In a 7-week, double-blind, placebo-controlled study of Focalin XR, the mean weight gain was greater for pediatric patients (ages 6 to 17 years) receiving placebo (+ 0.4 kg) than for patients receiving Focalin XR (- 0.5 kg).
 
 Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
