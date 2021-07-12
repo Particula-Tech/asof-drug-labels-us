@@ -60,7 +60,7 @@ The safety and effectiveness of Focalin in pediatric patients less than 6 years 
 
 The long-term efficacy of Focalin in pediatric patients has not been established.
 
-Long Term Suppression of Growth
+Long-Term Suppression of Growth
 
 Growth should be monitored during treatment with stimulants, including Focalin.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].

@@ -20,5 +20,5 @@ Table 2: Clinically Important Drug Interactions With Focalin
 | Intervention | Monitor blood pressure and avoid use of Focalin in patients being treated with anesthetics on the day of surgery. |
 | Examples | halothane, isoflurane, enflurane, desflurane, sevoflurane |
 | Risperidone |  |
-| Clinical Impact | Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS) |
-| Intervention | Monitor for signs of EPS |
+| Clinical Impact | Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS). |
+| Intervention | Monitor for signs of EPS. |
