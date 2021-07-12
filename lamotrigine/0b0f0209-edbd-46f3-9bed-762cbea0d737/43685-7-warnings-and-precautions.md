@@ -54,9 +54,9 @@ Prior to initiation of treatment with lamotrigine, the patient should be instruc
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
 In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
-Based on this activity, lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, including sudden death, in patients with structural heart disease or myocardial ischemia.
-Therefore, avoid the use of lamotrigine in patients who have cardiac conduction disorders (e.g., second- or third-degree heart block), ventricular arrhythmias, or cardiac disease or abnormality (e.g., myocardial ischemia, heart failure, structural heart disease, Brugada syndrome or other sodium channelopathies).
-Concomitant use of other sodium channel blockers may increase the risk of proarrhythmia.
+Based on these in vitro findings, lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
+Any expected or observed benefit of lamotrigine in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrhythmias and/or death for that patient.
+Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
 
 ## 5.5 Blood Dyscrasias
 
@@ -157,7 +157,7 @@ Consequently, whether these figures are reassuring or suggest concern depends on
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
-## 5.13 Addition of lamotrigine to a Multidrug Regimen that Includes Valproate
+## 5.13 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 

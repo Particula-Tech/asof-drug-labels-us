@@ -10,7 +10,7 @@ Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure Infor
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
 Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.5)].
 
-Cardiac Rhythm and Conduction Abnormalities Inform patients that, due to its mechanism of action, lamotrigine could lead to irregular heart rhythm.
+Cardiac Rhythm and Conduction Abnormalities Inform patients that, due to its mechanism of action, lamotrigine could lead to irregular or slowed heart rhythm.
 This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
 Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
 Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
@@ -49,4 +49,4 @@ Rx Only
 
 Manufactured by:
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2020
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 04/2021
