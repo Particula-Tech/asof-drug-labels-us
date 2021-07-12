@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10. OVERDOSAGE
 
 Dose-limiting toxicity was myelosuppression and was reported with any dose but is expected to be more severe at higher doses.
 An overdose of 2000 mg per day for 5 days was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure, and death.

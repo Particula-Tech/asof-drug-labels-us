@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myelosuppression
 
@@ -24,7 +24,7 @@ Monitor all patients receiving TEMOZOLOMIDE for the development of lymphopenia a
 ## 5.4 Hepatotoxicity
 
 Fatal and severe hepatotoxicity have been reported in patients receiving TEMOZOLOMIDE.
-Perform liver tests at baseline, midway through the first cycle, prior to each subsequent cycle, and approximately two to four weeks after the last dose of TEMOZOLOMIDE.
+Perform liver tests at baseline, midway through the first cycle, prior to each subsequent cycle, and approximately 2 to 4 weeks after the last dose of TEMOZOLOMIDE.
 
 ## 5.5 Embryo-Fetal Toxicity
 

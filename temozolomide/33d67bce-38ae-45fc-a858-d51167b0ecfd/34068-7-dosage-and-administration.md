@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma
 
@@ -14,8 +14,8 @@ TABLE 1: Temozolomide Dosage Modifications During Concomitant Phase
 | Adverse Reaction | Interruption | Discontinuation |
 | --- | --- | --- |
 | Absolute Neutrophil Count | Withhold TEMOZOLOMIDE if ANC is greater than or equal to 0.5 x 109/L and less than 1.5 x 109/L. Resume TEMOZOLOMIDE when ANC is greater than or equal to 1.5 x 109/L. | Discontinue TEMOZOLOMIDE if platelet count is less than 0.5 x 109/L. |
-| Platelet Count | Withhold TEMOZOLOMIDE if platelet count is greater than or equal to 10 x 109/L and less than 100 x 109/L. Resume TEMODAR when platelet count is greater than or equal to 100 x 109/L. | Discontinue TEMOZOLOMIDE if platelet count is less than 10 x 109/L. |
-| Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 2 adverse reaction occurs. Resume TEMODAR when resolution to Grade 1 or less. | Discontinue TEMOZOLOMIDE if Grade 3 or 4 adverse reaction occurs. |
+| Platelet Count | Withhold TEMOZOLOMIDE if platelet count is greater than or equal to 10 x 109/L and less than 100 x 109/L. Resume TEMOZOLOMIDE when platelet count is greater than or equal to 100 x 109/L. | Discontinue TEMOZOLOMIDE if platelet count is less than 10 x 109/L. |
+| Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 2 adverse reaction occurs. Resume TEMOZOLOMIDE when resolution to Grade 1 or less. | Discontinue TEMOZOLOMIDE if Grade 3 or 4 adverse reaction occurs. |
 
 Maintenance Phase Beginning 4 weeks after Concomitant Phase completion, administer TEMOZOLOMIDE either orally or intravenously once daily on Days 1 to 5 of each 28-day cycle for 6 cycles.
 The recommended dosage of TEMOZOLOMIDE is as follows: Cycle 1: 150 mg/m2 per day Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
@@ -29,7 +29,7 @@ TABLE 2: Temozolomide Dosage Modifications During Maintenance Treatment
 
 | Toxicity | Interruption | Discontinuation |
 | --- | --- | --- |
-| Absolute Neutrophil Count | Withhold TEMOZOLOMIDE if ANC less than 1 x 109/L. When ANC is above 1.5 x 109/L, resume TEMODAR at reduced dose for the next cycle. | Unable to tolerate a dose of 100 mg/m2 per day. |
+| Absolute Neutrophil Count | Withhold TEMOZOLOMIDE if ANC less than 1 x 109/L. When ANC is above 1.5 x 109/L, resume TEMOZOLOMIDE at reduced dose for the next cycle. | Unable to tolerate a dose of 100 mg/m2 per day. |
 | Platelet Count | Withhold TEMOZOLOMIDE if platelet less than 50 x 109/L. When platelet count is above 100 x 109/L, resume TEMOZOLOMIDE at reduced dose for the next cycle. | Unable to tolerate a dose of 100 mg/m2 per day. |
 | Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 3 adverse reaction. When resolved to grade 1 or less, resume TEMOZOLOMIDE at reduced dose for the next cycle. | Recurrent Grade 3 after dose reduction. Grade 4 Unable to tolerate a dose of 100 mg/m2 per day. |
 
@@ -42,13 +42,3 @@ Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1
 Do not start the next cycle until the ANC and platelet count exceed these levels.
 If the ANC is less than 1 x 109/L or the platelet count is less than 50 x 109/L during any cycle, reduce the TEMOZOLOMIDE dose for the next cycle by 50 mg/m2 per day.
 Permanently discontinue TEMOZOLOMIDE in patients who are unable to tolerate a dose of 100 mg/m2 per day.
-
-## 2.3 Preparation and Administration
-
-TEMOZOLOMIDE is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1 TEMOZOLOMIDE capsules Administer TEMOZOLOMIDE consistently with respect to food (fasting vs. nonfasting) [see Clinical Pharmacology (12.3)].
-To reduce nausea and vomiting, take TEMOZOLOMIDE on an empty stomach or at bedtime and consider antiemetic therapy prior to and/or following TEMOZOLOMIDE administration.
-Swallow TEMOZOLOMIDE capsules whole.
-Do not open or chew capsules.
-If capsules are accidentally opened or damaged, take precautions to avoid inhalation or contact with the skin or mucous membranes.
-In case of powder contact, the hands should be washed.

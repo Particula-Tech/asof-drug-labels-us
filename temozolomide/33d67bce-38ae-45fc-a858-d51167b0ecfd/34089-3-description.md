@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 Temozolomide is an alkylating drug.
 The chemical name of temozolomide is 3,4-dihydro-3-methyl-4-oxoimidazo[5,1-d]-as-tetrazine-8-carboxamide.

@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 · TEMOZOLOMIDE Capsules, USP for oral administration
 

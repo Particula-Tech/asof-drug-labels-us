@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are described elsewhere in the labeling: • Myelosuppression [see Warnings and Precautions (5.1)]. • Myelodysplastic Syndrome and Secondary Malignancies [see Warnings and Precautions (5.2)]. • Pneumocystis Pneumonia [see Warnings and Precautions (5.3)]. • Hepatotoxicity [see Warnings and Precautions (5.4)].
 
@@ -11,12 +11,12 @@ Forty-nine percent (49%) of patients treated with TEMOZOLOMIDE reported one or m
 The most common adverse reactions (≥20%) across the cumulative TEMOZOLOMIDE experience were alopecia, fatigue, nausea, and vomiting.
 Table 3 summarizes the adverse reactions in Newly Diagnosed Glioblastoma Trial.
 Overall, the pattern of reactions during the maintenance phase was consistent with the known safety profile of TEMOZOLOMIDE.
-TABLE 3: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLAMIDE in Newly Diagnosed Glioblastoma Trial
+TABLE 3: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLOMIDE in Newly Diagnosed Glioblastoma Trial
 
 | Adverse Reactions | Concomitant Phase |  |  |  | Maintenance Phase |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Radiation Therapy and TEMOZOLAMIDE N=288* |  | Radiation Therapy Alone N=285 |  | TEMOZOLAMIDE N=224 |  |  |
-| All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grades ≥3 (%) | All Grades (%) | Grade ≥3 (%) |  |
+| Radiation Therapy and TEMOZOLAMIDE N=288* |  | Radiation Therapy Alone N=285 |  | TEMOZOLOMIDE N=224 |  |  |
+| All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grade ≥3 (%) |  |
 | Skin and Subcutaneous Tissue |  |  |  |  |  |  |
 | Alopecia | 69 |  | 63 |  | 55 |  |
 | Rash | 19 | 1 | 15 |  | 13 | 1 |
@@ -58,11 +58,11 @@ TABLE 3: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLAMIDE in Newly D
 | Musculoskeletal System |  |  |  |  |  |  |
 | Arthralgia | 2 | <1 | 1 |  | 6 |  |
 
-*One patient who was randomized to radiation therapy only arm received radiation therapy and TEMOZOLAMIDE.
+*One patient who was randomized to radiation therapy only arm received radiation therapy and TEMOZOLOMIDE.
 NOS=not otherwise specified.
 Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of patients, and Grade 3 or Grade 4 platelet abnormalities including thrombocytopenic reactions, were observed in 14% of patients.
-Refractory Anaplastic Astrocytoma The safety of TEMOZOLAMIDE was evaluated in Study MK-7365-006 [see Clinical Studies (14.2)].
+Refractory Anaplastic Astrocytoma The safety of TEMOZOLOMIDE was evaluated in Study MK-7365-006 [see Clinical Studies (14.2)].
 Myelosuppression (thrombocytopenia and neutropenia) was the dose-limiting adverse reaction.
 It usually occurred within the first few cycles of therapy and was not cumulative.
 Myelosuppression occurred late in the treatment cycle and returned to normal, on average, within 14 days of nadir counts.
@@ -71,7 +71,7 @@ Only 14% (22/158) of patients had a neutrophil nadir and 20% (32/158) of patient
 Less than 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression.
 The most common adverse reactions (≥20%) were nausea, vomiting, headache, fatigue, constipation, and convulsions.
 Tables 4 and 5 summarize the adverse reactions and hematological laboratory abnormalities in Refractory Anaplastic Astrocytoma Trial.
-TABLE 4: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLAMIDE in Refractory Anaplastic Astrocytoma Trial
+TABLE 4: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLOMIDE in Refractory Anaplastic Astrocytoma Trial
 
 | Adverse Reactions | TEMOZOLOMIDE N=158 |  |  |
 | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ TABLE 4: Adverse Reactions (≥5%) in Patients Receiving TEMOZOLAMIDE in Refract
 *This term includes blurred vision; visual deficit; vision changes; and vision troubles.
 TABLE 5: Grade 3 to 4 Adverse Hematologic Laboratory Abnormalities in Refractory Anaplastic Astrocytoma Trial
 
-|  | TEMOZOLOMIDE *, † |
+|  | TEMOZOLOMIDE *,† |
 | --- | --- |
 | Decreased lymphocytes | 55% |
 | Decreased platelets | 19% |
@@ -150,7 +150,7 @@ TABLE 5: Grade 3 to 4 Adverse Hematologic Laboratory Abnormalities in Refractory
 In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 9.5% (6/63) of patients > 70 years experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 For patients ≤ 70 years, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 Pancytopenia, leukopenia, and anemia also occurred.
-Adverse reactions with TEMOZOLAMIDE for injection Adverse reactions that were reported in 35 patients who received TEMOZOLOMIDE for injection that were not reported in patients who received TEMOZOLOMIDE capsules were pain, irritation, pruritus, warmth, swelling, and erythema at infusion site; petechiae; and hematoma.
+Adverse reactions with TEMOZOLOMIDE for injection Adverse reactions that were reported in 35 patients who received TEMOZOLOMIDE for injection that were not reported in patients who received TEMOZOLOMIDE capsules were pain, irritation, pruritus, warmth, swelling, and erythema at infusion site; petechiae; and hematoma.
 
 ## 6.2 Postmarketing Experience
 
@@ -164,7 +164,7 @@ Erythema multiforme, which resolved after discontinuation of TEMOZOLOMIDE and, i
 
 Hematopoietic: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes.
 
-Hepatobiliary: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis.
+Hepatobiliary: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis
 
 Infections: Serious opportunistic infections, including some cases with fatal outcomes, with bacterial, viral (primary and reactivated), fungal, and protozoan organisms.
 Pulmonary:Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.

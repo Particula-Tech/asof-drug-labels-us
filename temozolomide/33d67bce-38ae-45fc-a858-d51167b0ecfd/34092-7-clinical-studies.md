@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.1 Newly Diagnosed Glioblastoma
 
@@ -26,9 +26,9 @@ TEMOZOLOMIDE capsules were given on Days 1 to 5 of each 28-day cycle at a starti
 If ANC was ≥1.5 x 109/L and platelet count was ≥100 x 109/L at the nadir and on Day 1 of the next cycle, the TEMOZOLOMIDE dose was increased to 200 mg/m2/day.
 The major efficacy outcome measure was progression-free survival at 6 months and the additional efficacy outcome measures were overall survival and overall response rate.
 In the refractory anaplastic astrocytoma population (n=54), the median age was 42 years (range: 19 to 76); 65% were male; and 72% had a KPS of >80.
-Sixty-three percent of patients had surgery other than a biopsy at the time of initial diagnosis.
+63% of patients had surgery other than a biopsy at the time of initial diagnosis.
 Of those patients undergoing resection, 73% underwent a subtotal resection and 27% underwent a gross total resection.
-Eighteen percent of patients had surgery at the time of first relapse.
+18% of patients had surgery at the time of first relapse.
 The median time from initial diagnosis to first relapse was 13.8 months (range: 4.2 months to 6.3 years).
 
 In the refractory anaplastic astrocytoma population, the overall response rate (CR + PR) was 22% (12 of 54 patients) and the complete response rate was 9% (5 of 54 patients).
