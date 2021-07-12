@@ -26,13 +26,15 @@ Atropine Sulfate Injection, USP
 
 1 mg/10 mL (0.1 mg/mL)
 
-For Intravenous, Intramuscular, Subcutaneous or Endotracheal Use
+For Intravenous Use
 
-Ansyr™
+Ansyr®
 
 Single-Dose Syringe
 
 Hospira
+
+LOT #####AA EXP DMMMYYYY
 
 ◀ PRESS AND PULL TO OPEN ▶
 
@@ -62,13 +64,15 @@ Pediatric Atropine Sulfate Injection, USP
 
 0.25 mg/5 mL (0.05 mg/mL)
 
-For Intravenous, Intramuscular, Subcutaneous or Endotracheal Use
+For Intravenous Use
 
-Ansyr™
+Ansyr®
 
 Single-Dose Syringe
 
 Hospira
+
+LOT #####AA EXP DMMMYYYY
 
 ◀ PRESS AND PULL TO OPEN ▶
 
@@ -98,9 +102,11 @@ For intravenous use
 
 with male luer lock adapter and 20-Gauge protected needle
 
-Glass LIFESHIELD™ ABBOJECT™ Unit of Use Syringe
+Glass LIFESHIELD® ABBOJECT® Unit of Use Syringe
 
 Single-dose syringe Discard unused portion
+
+LOT #####AA EXP DMMMYYYY
 
 Hospira
 
@@ -132,10 +138,12 @@ For intravenous use
 
 with male luer lock adapter and 20-Gauge protected needle
 
-Glass LIFESHIELD™ ABBOJECT™ Unit of Use Syringe
+Glass LIFESHIELD® ABBOJECT® Unit of Use Syringe
 
 Single-dose syringe.
 Discard unused portion
+
+LOT #####AA EXP DMMMYYYY
 
 Hospira
 
