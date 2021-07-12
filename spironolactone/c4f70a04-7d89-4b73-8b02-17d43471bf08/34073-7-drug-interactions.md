@@ -28,7 +28,7 @@ Therefore, when CAROSPIR and NSAIDs are used concomitantly, monitor closely to d
 ## 7.4 Digoxin
 
 Spironolactone and its metabolites increase the apparent exposure to digoxin.
-In patients taking concomitant digoxin, measure serum digoxin concentrations before imitating spironolactone using an assay that does not interact with spironolactone.
+In patients taking concomitant digoxin, measure serum digoxin concentrations before initiating spironolactone using an assay that does not interact with spironolactone.
 Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Cholestyramine
