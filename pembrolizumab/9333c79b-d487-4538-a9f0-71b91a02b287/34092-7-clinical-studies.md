@@ -1235,7 +1235,7 @@ In an exploratory analysis in 32 patients enrolled in KEYNOTE-158 whose cancer h
 
 ## 14.17 Cutaneous Squamous Cell Carcinoma
 
-The efficacy of KEYTRUDA was investigated in patients with recurrent or metastatic cSCC enrolled in KEYNOTE-629 (NCT03284424), a multicenter, multi-cohort, non-randomized, open-label trial.
+The efficacy of KEYTRUDA was investigated in patients with recurrent or metastatic cSCC or locally advanced cSCC enrolled in KEYNOTE-629 (NCT03284424), a multicenter, multi-cohort, non-randomized, open-label trial.
 The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
 
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks until documented disease progression, unacceptable toxicity, or a maximum of 24 months.
@@ -1244,24 +1244,28 @@ Patients with initial radiographic disease progression could receive additional 
 Assessment of tumor status was performed every 6 weeks during the first year, and every 9 weeks during the second year.
 The major efficacy outcome measures were ORR and DoR as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
-Among the 105 patients treated, the study population characteristics were: median age of 72 years (range: 29 to 95), 71% age 65 or older; 76% male; 71% White, 25% race unknown; 34% ECOG PS of 0 and 66% ECOG PS of 1.
+Among the 105 patients with recurrent or metastatic cSCC treated, the study population characteristics were: median age of 72 years (range: 29 to 95), 71% age 65 or older; 76% male; 71% White, 25% race unknown; 34% ECOG PS of 0 and 66% ECOG PS of 1.
 Forty-five percent of patients had locally recurrent only cSCC, 24% had metastatic only cSCC, and 31% had both locally recurrent and metastatic cSCC.
 Eighty-seven percent received one or more prior lines of therapy; 74% received prior radiation therapy.
+
+Among the 54 patients with locally advanced cSCC treated, the study population characteristics were: median age of 76 years (range: 35 to 95), 80% age 65 or older; 72% male; 83% White, 13% race unknown; 41% ECOG PS of 0 and 59% ECOG PS of 1.
+Twenty-two percent received one or more prior lines of therapy; 63% received prior radiation therapy.
 
 Efficacy results are summarized in Table 70.
 
 Table 70: Efficacy Results in KEYNOTE-629
 
-| Endpoint | KEYTRUDA n=105 |
-| --- | --- |
-| Objective Response Rate |  |
-| ORR (95% CI) | 34% (25, 44) |
-| Complete response rate | 4% |
-| Partial response rate | 31% |
-| Duration of ResponseMedian follow-up time of 9.5 months | n=36 |
-| Median in months (range) | NR (2.7, 13.1+)Based on patients (n=36) with a confirmed response by independent review |
-| % with duration ≥6 months | 69% |
-| + Denotes ongoing response |  |
+| Endpoint | KEYTRUDA Recurrent or Metastatic cSCC n=105 | KEYTRUDA Locally Advanced cSCC n=54 |
+| --- | --- | --- |
+| Objective Response Rate |  |  |
+| ORR (95% CI) | 35% (26, 45) | 50% (36, 64) |
+| Complete response rate | 11% | 17% |
+| Partial response rate | 25% | 33% |
+| Duration of ResponseMedian follow-up time: recurrent or metastatic cSCC: 23.8 months; locally advanced cSCC: 13.4 months | n=37 | n=27 |
+| Median in months (range) | NR (2.7, 30.4+) | NR (1.0+, 17.2+) |
+| % with duration ≥6 months | 76% | 81% |
+| % with duration ≥12 months | 68% | 37% |
+| + Denotes ongoing response |  |  |
 
 ## 14.18 Triple-Negative Breast Cancer
 

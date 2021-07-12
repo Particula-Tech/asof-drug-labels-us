@@ -1215,10 +1215,10 @@ Adverse reactions occurring in patients with TMB-H cancer were similar to those 
 
 cSCC
 
-Among the 105 patients with cSCC enrolled in KEYNOTE-629 [see Clinical Studies (14.17)], the median duration of exposure to KEYTRUDA was 5.8 months (range 1 day to 16.1 months).
+Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.17)], the median duration of exposure to KEYTRUDA was 6.9 months (range 1 day to 28.9 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
-Adverse reactions occurring in patients with cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
-Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (11%).
+Adverse reactions occurring in patients with recurrent or metastatic cSCC or locally advanced cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
+Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (10%) and decreased sodium (10%).
 
 TNBC
 

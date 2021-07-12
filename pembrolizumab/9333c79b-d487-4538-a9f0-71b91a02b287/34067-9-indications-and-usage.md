@@ -123,7 +123,7 @@ Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patien
 
 ## 1.17 Cutaneous Squamous Cell Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) that is not curable by surgery or radiation.
+KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) or locally advanced cSCC that is not curable by surgery or radiation.
 
 ## 1.18 Triple-Negative Breast Cancer
 
