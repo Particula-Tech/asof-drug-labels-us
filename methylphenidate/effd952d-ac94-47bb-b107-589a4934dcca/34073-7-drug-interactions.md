@@ -6,7 +6,7 @@ Table 3 presents clinically important drug interactions with Ritalin LA.
 
 Table 3: Clinically Important Drug Interactions With Ritalin LA
 
-| Monoamine Oxidase Inhibitors (MAOI) |  |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of MAOIs and CNS stimulants, including Ritalin LA, can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications (4)]. |
 | Intervention | Concomitant use of Ritalin LA with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated. |

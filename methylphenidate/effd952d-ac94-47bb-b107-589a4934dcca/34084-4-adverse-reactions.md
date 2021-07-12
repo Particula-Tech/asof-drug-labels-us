@@ -48,7 +48,7 @@ The adverse events leading to discontinuation were anger (2 patients), hypomania
 The following adverse reactions have been identified during the post approval use of methylphenidate products.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported With Ritalin and Ritalin LA
+Adverse Reactions Reported With Ritalin, Ritalin-SR, and Ritalin LA
 
 Infections and Infestations: nasopharyngitis
 
@@ -80,7 +80,7 @@ Investigations: weight loss (adult ADHD patients)
 
 Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-The list below shows adverse reactions not listed with Ritalin, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
+The list below shows adverse reactions not listed with Ritalin, Ritalin-SR, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
 
 Blood and Lymphatic Disorders: pancytopenia
 
