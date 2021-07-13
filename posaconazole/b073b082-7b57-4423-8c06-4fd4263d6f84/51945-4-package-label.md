@@ -48,7 +48,7 @@ For Intravenous Use Only
 
 Requires further dilution prior to infusion.
 
-Rx only Single-Dose Vial
+Rx only Sterile Single-Dose Vial Discard Unused Portion
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Carton
 

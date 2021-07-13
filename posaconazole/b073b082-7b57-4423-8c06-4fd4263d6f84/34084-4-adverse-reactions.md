@@ -242,7 +242,7 @@ In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea,
 The most common adverse reactions that led to treatment discontinuation of Noxafil in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of Noxafil were AIDS (7%) and respiratory impairment (3%).
 
-Table 11: Adverse Reactions in of at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
+Table 11: Adverse Reactions in at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
 
 | n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |

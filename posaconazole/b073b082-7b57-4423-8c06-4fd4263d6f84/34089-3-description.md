@@ -12,7 +12,7 @@ Posaconazole is a white powder with a low aqueous solubility.
 Noxafil Injection
 
 Noxafil injection is available as a clear colorless to yellow, sterile liquid essentially free of foreign matter.
-Each vial contains 300 mg of posaconazole and the following inactive ingredients: 6.68 g Betadex Sulfobutyl Ether Sodium (SBECD), 0.003 g edetate disodium, hydrochloric acid and sodium hydroxide to adjust the pH to 2.6, and water for injection.
+Each vial contains 300 mg of posaconazole and the following inactive ingredients: 6.68 g Betadex Sulfobutyl Ether Sodium (SBECD), 0.0033 g edetate disodium, hydrochloric acid and sodium hydroxide to adjust the pH to 2.6, and water for injection.
 
 Noxafil Delayed-Release Tablets
 
