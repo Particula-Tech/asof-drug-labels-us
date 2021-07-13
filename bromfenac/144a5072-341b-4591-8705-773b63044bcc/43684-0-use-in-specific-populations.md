@@ -2,20 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-There are no adequate and well-controlled studies in pregnant women to inform any drug associated risks.
+Risk Summary There are no adequate and well-controlled studies in pregnant women to inform any drug associated risks.
 Treatment of pregnant rats and rabbits with oral bromfenac did not produce teratogenic effects at clinically relevant doses.
+Clinical Considerations Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of BromSite during late pregnancy should be avoided.
 
-Clinical Considerations
-
-Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of BromSite during late pregnancy should be avoided.
-
-Data
-
-Animal Data
-
-Treatment of rats with bromfenac at oral doses up to 0.9 mg/kg/day (195 times a unilateral daily human ophthalmic dose on a mg/m2 basis, assuming 100% absorbed) and rabbits at oral doses up to 7.5 mg/kg/day (3243 times a unilateral daily dose on a mg/m2 basis) produced no structural teratogenicity in reproduction studies.
+Data Animal Data Treatment of rats with bromfenac at oral doses up to 0.9 mg/kg/day (195 times a unilateral daily human ophthalmic dose on a mg/m2 basis, assuming 100% absorbed) and rabbits at oral doses up to 7.5 mg/kg/day (3243 times a unilateral daily dose on a mg/m2 basis) produced no structural teratogenicity in reproduction studies.
 However, embryo-fetal lethality, neonatal mortality and reduced postnatal growth were produced in rats at 0.9 mg/kg/day, and embryo-fetal lethality was produced in rabbits at 7.5 mg/kg/day.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
