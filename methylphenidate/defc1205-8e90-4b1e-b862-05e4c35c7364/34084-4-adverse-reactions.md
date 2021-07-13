@@ -29,8 +29,7 @@ The study consisted of a 6-week dose optimization period, followed by a randomiz
 
 The most common (≥2% in the QuilliChew ER group and greater than placebo) adverse reactions reported in the double-blind, randomized, placebo-controlled phase in patients optimized to doses of QuilliChew ER 20 to 60 mg/day are described in Table 1.
 
-Table 1.
-Common Adverse Reactions Occurring in ≥2% of Subjects on QuilliChew ER and Greater than Placebo During the Double-Blind Period of the ADHD Laboratory Classroom Study
+Table 1: Common Adverse Reactions Occurring in ≥2% of Subjects on QuilliChew ER and Greater than Placebo During the Double-Blind Period of the ADHD Laboratory Classroom Study
 
 | Adverse reaction | QuilliChew ER N= 42 n (%) | Placebo N= 44 n (%) |
 | --- | --- | --- |

@@ -18,8 +18,7 @@ QuilliChew ER was statistically significantly superior to placebo with respect t
 QuilliChew ER also showed improvement over placebo at 0.75, 2, 4, and 8 hours post-dosing.
 Efficacy results at each time point are summarized in Figure 3.
 
-Table 2.
-Primary Efficacy Result (ITT Population)
+Table 2: Primary Efficacy Result (ITT Population)
 
 | Study Number | Treatment Group | Primary Efficacy measure: Average of Treatment Effect Across All Time Points Based on SKAMP-Combined Score |  |  |
 | --- | --- | --- | --- | --- |
@@ -33,11 +32,9 @@ mean; CI: confidence interval.
 
 aLeast-Squares Mean Difference (drug minus placebo).
 
+Figure 3: SKAMP-Combined Scores Over Time (LS Mean ± SE) by Treatment Group (ITT Population)
+
 ITT: intent-to-treat
 
-LS means from post-dose time-points were obtained from a repeated measures mixed model with terms
-
-for center, hour, treatment and treatment by hour interaction.
-For the pre-dose time-point, arithmetic
-
-means and standard errors are displayed.
+LS means from post-dose time-points were obtained from a repeated measures mixed model with terms for center, hour, treatment and treatment by hour interaction.
+For the pre-dose time-point, arithmetic means and standard errors are displayed.

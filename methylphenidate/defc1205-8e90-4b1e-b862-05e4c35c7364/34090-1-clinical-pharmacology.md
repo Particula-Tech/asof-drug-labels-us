@@ -18,6 +18,8 @@ Absorption
 Following a single oral dose of 40 mg QuilliChew ER under fasting conditions, plasma methylphenidate reached maximal concentration (Cmax) at a median time of 5 hours after dosing.
 Compared to an immediate-release formulation of methylphenidate chewable tablet (40 mg in 2 equal doses of 20 mg, 6 hours apart), methylphenidate mean peak concentration and exposure (AUCinf) was about 20% and 11% lower, respectively, after single dose administration of 40 mg QuilliChew ER (Figure 2).
 
+Figure 2: Mean Methylphenidate Plasma Concentration-Time Profiles After Administration of 40 mg QuilliChew ER or Methylphenidate Immediate-Release Chewable Tablets (IRCT, 2 Equal Doses of 20 mg, 6 Hours Apart) Under Fasted Conditions in Healthy Volunteers
+
 Food Effect
 
 High-fat meal had no effect on the time to peak concentration, and increased C max and systemic exposure (AUCinf) of methylphenidate by about 20% and 4%, respectively, after a single dose administration of 40 mg QuilliChew ER.

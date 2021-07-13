@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/othermedications/.
+
 Risk Summary
 
 There are limited published studies and small case series that report on the use of methylphenidate in pregnant women; however, the data are insufficient to inform any drug-associated risks.

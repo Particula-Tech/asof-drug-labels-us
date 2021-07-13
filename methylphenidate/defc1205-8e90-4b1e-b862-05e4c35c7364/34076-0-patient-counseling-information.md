@@ -50,7 +50,7 @@ Consumption of alcohol while taking QuilliChew ER may result in a more rapid rel
 
 Risks in Patients with Phenylketonuria (PKU)
 
-Advise patients with phenylketonuria that QuilliChew ER extended-release chewable tablets contain phenylalanine, a component of aspartame [see Warnings And Precautions (5.8)].
+Advise patients with phenylketonuria that QuilliChew ER extended-release chewable tablets contain phenylalanine, a component of aspartame [see Warnings and Precautions (5.8)].
 
 This product’s label may have been updated.
 For current full prescribing information, please visit www.trispharma.com.
@@ -64,4 +64,4 @@ Tris Pharma, Inc.,
 Monmouth Junction, NJ 08852
 
 LB8533 Rev.
-00 08/2018
+01 06/2021
