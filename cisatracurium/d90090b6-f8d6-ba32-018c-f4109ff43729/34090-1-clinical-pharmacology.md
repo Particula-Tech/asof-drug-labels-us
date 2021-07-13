@@ -207,12 +207,12 @@ Parameter Estimates* for Cisatracurium and Metabolites in ICU Patients After Lon
 |  | Parameter | Cisatracurium (n = 6) |
 | --- | --- | --- |
 | Parent Compound | CL (mL/min/kg) | 7.45 ± 1.02 |
-| t½ β(min) | 26.8 ± 11.1 |  |
-| Vβ (mL/kg)† | 280 ± 103 |  |
+|  | t½ β(min) | 26.8 ± 11.1 |
+|  | Vβ (mL/kg)† | 280 ± 103 |
 | Laudanosine | Cmax (ng/mL) | 707 ± 360 |
-| t½β (hrs) | 6.6 ± 4.1 |  |
+|  | t½β (hrs) | 6.6 ± 4.1 |
 | MQA metabolite | Cmax (ng/mL) | 152-181‡ |
-| t½β (min) | 26-31‡ |  |
+|  | t½β (min) | 26-31‡ |
 | * Presented as mean ± standard deviation † Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored. ‡ n = 2, range presented |  |  |
 
 Pediatric Population: The population PK/PD of cisatracurium were described in 20 healthy pediatric patients ages 2 to 12 years during halothane anesthesia, using the same model developed for healthy adult patients.
