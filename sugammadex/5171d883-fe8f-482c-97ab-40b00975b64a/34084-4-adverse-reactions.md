@@ -9,6 +9,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adult Patients
+
 The data described below reflect 2914 subjects exposed to 2, 4, or 16 mg/kg BRIDION and 544 to placebo in pooled Phase 1-3 studies.
 The population was 18 to 92 years old, 47% male and 53% female, 34% ASA (American Society of Anesthesiologists) Class 1, 51% ASA Class 2, and 14% ASA Class 3, and 82% Caucasian.
 Most subjects received a single dose of BRIDION 2 mg/kg or 4 mg/kg.
@@ -72,6 +74,32 @@ Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Advers
 | Bradycardia | 9 (1) | 21 (1) | 5 (5) | 6 (1) |
 | Surgical and medical procedures |  |  |  |  |
 | Hysterectomy | 0 | 0 | 2 (2) | 0 |
+
+Pediatric Patients
+
+The safety of BRIDION has been assessed in a randomized, active-controlled study of pediatric patients 2 to <17 years of age, with 242 receiving treatment with BRIDION.
+Adverse events occurring in ≥5% of pediatric patients are presented in Table 3.
+The safety profile was generally consistent with that observed in adults.
+
+Table 3: Pediatric Patients with Adverse Events Incidence ≥5% in One or More Treatment Groups Up to 7 Days Post-Treatment
+
+|  | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- |
+|  | Sugammadex 2 mg/kg |  | Sugammadex 4 mg/kg |  |
+| Subjects in population | 51 |  | 191 |  |
+| with one or more specific adverse events | 40 | (78) | 143 | (75) |
+| with no specific adverse events | 11 | (22) | 48 | (25) |
+| Cardiac disorders | 5 | (10) | 16 | (8) |
+| BradycardiaCombines preferred terms of bradycardia and sinus bradycardia Every subject is counted a single time for each applicable row and column. A system organ class or specific adverse event appears in this table only if its incidence in one or more of the columns meets the incidence criterion in the table title, after rounding. | 5 | (10) | 13 | (7) |
+| Eye disorders | 3 | (6) | 1 | (1) |
+| Gastrointestinal disorders | 8 | (16) | 35 | (18) |
+| Nausea | 1 | (2) | 12 | (6) |
+| Vomiting | 4 | (8) | 20 | (10) |
+| Injury, poisoning and procedural complications | 34 | (67) | 121 | (63) |
+| Incision site pain | 3 | (6) | 6 | (3) |
+| Procedural nausea | 4 | (8) | 9 | (5) |
+| Procedural pain | 30 | (59) | 111 | (58) |
+| Procedural vomiting | 3 | (6) | 5 | (3) |
 
 Anaphylaxis and Hypersensitivity
 

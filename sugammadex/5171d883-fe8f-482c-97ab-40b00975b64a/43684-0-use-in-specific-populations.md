@@ -55,7 +55,11 @@ Advise female patients of reproductive potential using hormonal contraceptives t
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of BRIDION in pediatric patients have not been established.
+The safety and effectiveness of BRIDION for reversal of neuromuscular blockade induced by rocuronium bromide or vecuronium bromide have been established in pediatric patients aged 2 years and older.
+Use of BRIDION in these age groups is supported by evidence from an adequate and well-controlled study of BRIDION [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+In pediatric patients aged 2 years and older, the safety profile is generally consistent with that observed in adults [see Adverse Reactions (6.1)].
+
+Safety and effectiveness in patients younger than 2 years of age have not been established.
 
 Juvenile Animal Studies
 

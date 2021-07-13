@@ -57,10 +57,20 @@ In a second study comparing subjects with moderate or severe renal impairment to
 Exposure was 2-fold and 5-fold higher in subjects with moderate and severe renal impairment, respectively.
 Sugammadex concentrations were no longer detectable beyond 7 days post-dose in subjects with severe renal impairment.
 
-Age: Geriatric Population
+Geriatric Patients
 
 Geriatric patients may have mild or moderate renal impairment.
 Population pharmacokinetic analysis indicated that, beyond the effects of a decreased creatinine clearance, increased age has limited impact on sugammadex PK parameters [see Use in Specific Populations (8.5, 8.6)].
+
+Pediatric Patients
+
+Sugammadex pharmacokinetic parameters were estimated in pediatric patients 2 to <17 years of age with patients enrolled into 3 age groups (2 to <6, 6 to <12 and 12 to <17 years of age) and intravenous doses of 2 or 4 mg/kg sugammadex administered for reversal of moderate or deep neuromuscular blockade, respectively.
+Both clearance and volume of distribution increase with increasing age in pediatric patients.
+
+Sugammadex exposure (AUC0-inf and Cmax) increased in a dose-dependent, linear manner following administration of 2 and 4 mg/kg across patients 2 to <17 years of age.
+Sugammadex exposure was approximately 40% lower in patients 2 to <6 years of age following administration of 2 or 4 mg/kg sugammadex compared to older pediatric patients (6 to <17 years) and adults; however, this difference was not clinically relevant [see Clinical Studies (14.1)].
+
+The observed steady-state volume of distribution of sugammadex is approximately 3 to 10 liters and clearance is approximately 38 to 95 mL/min resulting in a half-life of approximately 1-2 hours in pediatric patients 2 to <17 years of age.
 
 Sex
 

@@ -39,9 +39,9 @@ Patients underwent elective surgical procedures under general anesthesia that re
 The laparoscopic or open surgical procedures were mainly gynecological, orthopedic, or reconstructive.
 Return of the first twitch in a TOF (T1) to 10% of baseline was compared between BRIDION 16 mg/kg for reversal of rocuronium 1.2 mg/kg versus spontaneous recovery from succinylcholine 1 mg/kg.
 
-Recovery to T1 of 10% of baseline (relative to the time of administration of rocuronium or succinylcholine) was overall faster in the rocuronium/BRIDION group compared with succinylcholine alone (Table 3).
+Recovery to T1 of 10% of baseline (relative to the time of administration of rocuronium or succinylcholine) was overall faster in the rocuronium/BRIDION group compared with succinylcholine alone (Table 4).
 
-Table 3: Time (minutes) from Start of Administration of Rocuronium or Succinylcholine to Recovery of T1 to 10% of Baseline
+Table 4: Time (minutes) from Start of Administration of Rocuronium or Succinylcholine to Recovery of T1 to 10% of Baseline
 
 |  | Rocuronium (1.2 mg/kg) and BRIDION (16 mg/kg) | Succinylcholine (1 mg/kg) |
 | --- | --- | --- |
@@ -49,3 +49,12 @@ Table 3: Time (minutes) from Start of Administration of Rocuronium or Succinylch
 | N | 55 | 55 |
 | Mean (SD) | 4.4 (0.7) | 7.1 (1.6) |
 | Median (Range) | 4.2 (3.5 – 7.7) | 7.1 (3.8 – 10.5) |
+
+Comparative Study of BRIDION versus Neostigmine as a Reversal Agent for Neuromuscular Blockade Induced by Rocuronium or Vecuronium in Pediatric Patients 2 to <17 Years of Age
+
+Time to recovery from neuromuscular blockade induced by rocuronium or vecuronium followed by administration of BRIDION or neostigmine was assessed in a randomized, double-blind, active comparator-controlled study.
+The study was conducted in 288 randomized pediatric patients 2 to <17 years of age, of which 276 patients received treatment (153 boys and 123 girls; ASA class 1, 2, and 3; 89.5% were Caucasian; median weight was 25 kg; median age was 7 years).
+The primary efficacy objective was to evaluate the effect of BRIDION compared to neostigmine for reversal of moderate neuromuscular blockade as measured by time to recovery to a TOF ratio of ≥0.9.
+
+Recovery to a TOF ratio of ≥0.9 was statistically significantly faster in pediatric patients 2 to <17 years of age dosed with BRIDION 2 mg/kg (N=33) compared with neostigmine (N=34) for reversal of moderate block based on a geometric mean of 1.7 minutes for BRIDION 2 mg/kg and 7.4 minutes for neostigmine (ratio of geometric means was 0.22, 95% CI (0.16, 0.32)).
+These effects were consistent across age cohorts studied (2 to <6; 6 to <12; 12 to <17 years of age) and neuromuscular blocking agent (rocuronium and vecuronium).

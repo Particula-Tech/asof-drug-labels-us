@@ -17,6 +17,15 @@ Satisfactory recovery should be determined through assessment of skeletal muscle
 
 The recommended dose of BRIDION does not depend on the anesthetic regimen.
 
+Preparation of dilution for pediatric use:
+
+BRIDION 100 mg/mL may be diluted to a concentration of 10 mg/mL, using 0.9% sodium chloride injection, USP, to increase the accuracy of dosing in the pediatric population.
+
+- To prepare the required dose, aseptically transfer all the contents of the 2 mL vial of BRIDION 2-mL single-dose vials containing 200 mg sugammadex (100 mg/mL) to a bottle (or intravenous bag) containing 18 mL of 0.9% sodium chloride injection, to achieve a final concentration of 10 mg/mL sugammadex.
+- BRIDION injection is a single-dose sterile solution without preservatives.
+  Discard any unused portion from the vial.
+- If not used immediately, the diluted solution can be stored up to 48 hours refrigerated (5°C; 41°F) or at room temperature (25°C; 77°F).
+
 ## 2.2 Recommended Dosing
 
 BRIDION can be used to reverse different levels of rocuronium- or vecuronium-induced neuromuscular blockade.
@@ -29,7 +38,8 @@ For rocuronium and vecuronium:
 For rocuronium only:
 
 - A dose of 16 mg/kg BRIDION is recommended if there is a clinical need to reverse neuromuscular blockade soon (approximately 3 minutes) after administration of a single dose of 1.2 mg/kg of rocuronium.
-  The efficacy of the 16 mg/kg dose of BRIDION following administration of vecuronium has not been studied [see Clinical Studies (14.1)].
+  The efficacy of the 16 mg/kg dose of BRIDION following administration of vecuronium has not been studied.
+  Immediate reversal in pediatric patients has not been studied [see Clinical Studies (14.1)].
 
 ## 2.3 Drug Compatibility
 
