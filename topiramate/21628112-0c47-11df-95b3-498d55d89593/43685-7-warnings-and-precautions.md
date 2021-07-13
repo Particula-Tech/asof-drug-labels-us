@@ -1,11 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Acute Myopia and Secondary Angle Closure Glaucoma
+## 5.1 Acute Myopia and Secondary Angle Closure Glaucoma Syndrome
 
 A syndrome consisting of acute myopia associated with secondary angle closure glaucoma has been reported in patients receiving TOPAMAX®.
 Symptoms include acute onset of decreased visual acuity and/or ocular pain.
-Ophthalmologic findings can include myopia, anterior chamber shallowing, ocular hyperemia (redness), and increased intraocular pressure.
-Mydriasis may or may not be present.
+Ophthalmologic findings can include some or all of the following: myopia, mydriasis, anterior chamber shallowing, ocular hyperemia (redness), choroidal detachments, retinal pigment epithelial detachments, macular striae, and increased intraocular pressure.
 This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma.
 Symptoms typically occur within 1 month of initiating TOPAMAX® therapy.
 In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with topiramate has been reported in pediatric patients as well as adults.
