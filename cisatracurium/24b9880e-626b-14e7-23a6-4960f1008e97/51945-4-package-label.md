@@ -8,16 +8,6 @@ Nimbex®
 
 (2 mg/mL)
 
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-Rx only
-
-PREMIERProRx®
-
 NDC 0074-4380-79
 
 Nimbex®
@@ -28,16 +18,6 @@ Nimbex®
 
 (2 mg/mL)
 
-WARNING: Paralyzing Agent
-
-Multiple-dose vial
-
-0.9% benzyl alcohol (added as a preservative)
-
-Rx only
-
-PREMIERProRx®
-
 NDC 0074-4382-91
 
 Nimbex®
@@ -47,15 +27,3 @@ Nimbex®
 200 mg/20 mL*
 
 (10 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-For ICU use only.
-
-Rx only
-
-PREMIERProRx®
