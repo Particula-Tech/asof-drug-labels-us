@@ -4,12 +4,12 @@ NDC 0025-1451-34
 
 Cytotec® misoprostol tablets 100 mcg
 
-Distributed by G.D.
-Searle LLC Division of Pfizer Inc. NY, NY 10017
+Distributed by Pfizer Labs Division of Pfizer Inc. NY, NY 10017
 
-EXP: YYYY.MM.DD LOT A01234
+EXP.
+YYYY.MM.DD LOT A01234
 
-21540986
+21541930
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Blister Pack Carton
 
@@ -27,8 +27,7 @@ NDC 0025-1451-60
 
 Cytotec® misoprostol tablets 100 mcg 60 Tablets
 
-Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 Rx only
 
@@ -61,7 +60,6 @@ NDC 0025-1461-60
 
 Cytotec® misoprostol tablets 200 mcg 60 Tablets
 
-Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 Rx only
