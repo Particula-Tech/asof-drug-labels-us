@@ -103,4 +103,4 @@ Patients should be closely monitored following cessation of therapy.
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with TENORMIN.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to TENORMIN therapy with subsequent resolution or quiescence of the reaction.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, Inc. at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, LLCat 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.

@@ -11,7 +11,7 @@ In patients with acute myocardial infarction, cardiac failure which is not promp
 Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely.
 If cardiac failure continues despite adequate treatment, TENORMIN should be withdrawn.
-(See DOSAGE AND ADMINISTRATION)
+(See DOSAGE AND ADMINISTRATION.)
 
 | Cessation of Therapy with TENORMIN Patients with coronary artery disease, who are being treated with TENORMIN, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta-blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta-blockers, when discontinuation of TENORMIN is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that TENORMIN be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TENORMIN therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
 | --- |
@@ -83,7 +83,7 @@ The drug should be used with caution in patients with impaired renal function.
 Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
 Patients treated with TENORMIN plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension.
 
-Calcium channel blockers may also have an additive effect when given with TENORMIN (See WARNINGS).
+Calcium channel blockers may also have an additive effect when given with TENORMIN (see WARNINGS).
 
 Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
 Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta-blockers.

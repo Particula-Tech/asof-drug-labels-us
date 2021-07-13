@@ -10,7 +10,7 @@ Approximately 50% of an oral dose is absorbed from the gastrointestinal tract, t
 Peak blood levels are reached between two (2) and four (4) hours after ingestion.
 Unlike propranolol or metoprolol, but like nadolol, TENORMIN undergoes little or no metabolism by the liver, and the absorbed portion is eliminated primarily by renal excretion.
 Over 85% of an intravenous dose is excreted in urine within 24 hours compared with approximately 50% for an oral dose.
-TENORMIN also differs from propranolol in that only a small amount (6% to16%) is bound to proteins in the plasma.
+TENORMIN also differs from propranolol in that only a small amount (6% to 16%) is bound to proteins in the plasma.
 This kinetic profile results in relatively consistent plasma drug levels with about a 4-fold interpatient variation.
 
 The elimination half-life of oral TENORMIN is approximately 6 to 7 hours, and there is no alteration of the kinetic profile of the drug by chronic administration.
