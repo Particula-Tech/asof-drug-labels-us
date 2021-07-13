@@ -14,13 +14,13 @@ For prolonged storage, octreotide acetate injection syringes should be stored at
 At room temperature, (20° to 30°C or 70° to 86°F), octreotide acetate injection is stable for 14 days if protected from light.
 The solution can be allowed to come to room temperature prior to administration.
 Do not warm artificially.
-Discard unused portion.
+Dispose unused product or waste properly.
 
 Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Italfarmaco S.p.A.
 V.le Fulvio Testi, 330 20126 Milano, Italy
 
-Revised: 1/2021 MI:OCTRIJ:R7
+Revised: 6/2021 MI:OCTRIJ:R8
 
-PK21228
+PK21306

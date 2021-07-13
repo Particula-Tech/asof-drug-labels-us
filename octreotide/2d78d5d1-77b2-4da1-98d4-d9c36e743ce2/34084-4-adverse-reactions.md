@@ -2,21 +2,21 @@
 
 ## Gallbladder Abnormalities
 
-Gallbladder abnormalities, especially stones and/or biliary sludge, frequently develop in patients on chronic octreotide acetate therapy (see WARNINGS).
+Gallbladder abnormalities, especially stones and/or biliary sludge, frequently develop in patients on chronic octreotide acetate injection therapy (see WARNINGS).
 
 ## Cardiac
 
-In acromegalics, sinus bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS: General).
+In acromegalics, sinus bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate injection therapy (see PRECAUTIONS: General).
 
 ## Gastrointestinal
 
-Diarrhea, loose stools, nausea and abdominal discomfort were each seen in 34% to 61% of acromegalic patients in U.S. studies although only 2.6% of the patients discontinued therapy due to these symptoms.
-These symptoms were seen in 5%-10% of patients with other disorders.
+Diarrhea, loose stools, nausea, and abdominal discomfort were each seen in 34% to 61% of acromegalic patients in U.S. studies although only 2.6% of the patients discontinued therapy due to these symptoms.
+These symptoms were seen in 5% to 10% of patients with other disorders.
 
-The frequency of these symptoms was not dose-related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
+The frequency of these symptoms was not dose related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
 Vomiting, flatulence, abnormal stools, abdominal distention, and constipation were each seen in less than 10% of patients.
 
-In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distension, severe epigastric pain, abdominal tenderness and guarding.
+In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distension, severe epigastric pain, abdominal tenderness, and guarding.
 
 ## Hypo/Hyperglycemia
 
@@ -25,7 +25,7 @@ Symptoms of hypoglycemia were noted in approximately 2% of patients.
 
 ## Hypothyroidism
 
-In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS: General).
+In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate injection therapy (see PRECAUTIONS: General).
 In patients without acromegaly, hypothyroidism has only been reported in several isolated patients and goiter has not been reported.
 
 ## Other Adverse Events
@@ -33,15 +33,15 @@ In patients without acromegaly, hypothyroidism has only been reported in several
 Pain on injection was reported in 7.7%, headache in 6% and dizziness in 5%.
 Pancreatitis was also observed (see WARNINGS and PRECAUTIONS).
 
-## Other Adverse Events 1%-4%
+## Other Adverse Events 1% to 4%
 
-Other events (relationship to drug not established), each observed in 1%-4% of patients, included fatigue, weakness, pruritus, joint pain, backache, urinary tract infection, cold symptoms, flu symptoms, injection site hematoma, bruise, edema, flushing, blurred vision, pollakiuria, fat malabsorption, hair loss, visual disturbance and depression.
+Other events (relationship to drug not established), each observed in 1% to 4% of patients, included fatigue, weakness, pruritus, joint pain, backache, urinary tract infection, cold symptoms, flu symptoms, injection site hematoma, bruise, edema, flushing, blurred vision, pollakiuria, fat malabsorption, hair loss, visual disturbance, and depression.
 
-## Other Adverse Events < 1%
+## Other Adverse Events Less Than 1%
 
-Events reported in less than 1% of patients and for which relationship to drug is not established are listed:
+Events reported in less than 1% of patients and for which relationship to octreotide acetate injection is not established are listed:
 
-Gastrointestinal: hepatitis, jaundice, increase in liver enzymes, GI bleeding, hemorrhoids, appendicitis, gastric/peptic ulcer, gallbladder polyp;
+Gastrointestinal (GI): hepatitis, jaundice, increase in liver enzymes, GI bleeding, hemorrhoids, appendicitis, gastric/peptic ulcer, gallbladder polyp;
 
 Integumentary: rash, cellulitis, petechiae, urticaria, basal cell carcinoma;
 
@@ -62,12 +62,12 @@ Hematologic: anemia, iron deficiency, epistaxis;
 Miscellaneous: otitis, allergic reaction, increased CK, weight loss.
 
 Evaluation of 20 patients treated for at least 6 months has failed to demonstrate titers of antibodies exceeding background levels.
-However, antibody titers to octreotide acetate were subsequently reported in three patients and resulted in prolonged duration of drug action in two patients.
-Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate.
+However, antibody titers to octreotide acetate were subsequently reported in 3 patients and resulted in prolonged duration of drug action in 2 patients.
+Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate injection.
 
 ## Postmarketing Experience
 
-The following adverse reactions have been identified during the postapproval use of octreotide acetate.
+The following adverse reactions have been identified during the postapproval use of octreotide acetate injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy
