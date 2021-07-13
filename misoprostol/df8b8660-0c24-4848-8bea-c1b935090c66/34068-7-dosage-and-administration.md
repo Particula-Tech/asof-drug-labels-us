@@ -18,7 +18,7 @@ Doses of the components delivered with these regimens are as follows:
 
 |  | Osteoarthritis | Diclofenac Sodium | Misoprostol |
 | --- | --- | --- | --- |
-|  | regimen | (mg/day) | (mcg/day) |
+|  | Regimen | (mg/day) | (mcg/day) |
 | Diclofenac Sodium | three times a day | 150 | 600 |
 | and Misoprostol |  |  |  |
 | Delayed-Release |  |  |  |
@@ -36,7 +36,7 @@ Doses of the components delivered with these regimens are as follows:
 
 |  | Rheumatoid Arthritis | Diclofenac Sodium | Misoprostol |
 | --- | --- | --- | --- |
-|  | regimen | (mg/day) | (mcg/day) |
+|  | Regimen | (mg/day) | (mcg/day) |
 | Diclofenac Sodium | four times a day | 200 | 800 |
 | and Misoprostol |  |  |  |
 | Delayed-Release |  |  |  |

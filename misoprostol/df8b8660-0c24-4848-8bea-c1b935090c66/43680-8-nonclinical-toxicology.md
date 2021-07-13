@@ -19,7 +19,7 @@ Diclofenac sodium and misoprostol combination in 250:1 ratio was not genotoxic i
 Impairment of Fertility
 
 The effects of diclofenac sodium and misoprostol on male or female fertility have not been studied in animals; however, there are data with diclofenac sodium and misoprostol given alone.
-Misoprostol, when administered to male and female breeding rats in an oral dose range of 0.1 to 10 mg/kg/day (0.6 to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and postimplantation losses and a significant decrease in the number of live pups born at the highest dose (60 mg/m2/day, 100 times the recommended maximum human dose based on body surface area).
+Misoprostol, when administered to male and female breeding rats in an oral dose range of 0.1 mg/kg/day to 10 mg/kg/day (0.6 mg/m2/day to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and postimplantation losses and a significant decrease in the number of live pups born at the highest dose (60 mg/m2/day, 100 times the recommended maximum human dose based on body surface area).
 Diclofenac sodium at oral doses up to 4 mg/kg/day (24 mg/m2/day, 0.16 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.
 
 ## 13.2 Animal Toxicology

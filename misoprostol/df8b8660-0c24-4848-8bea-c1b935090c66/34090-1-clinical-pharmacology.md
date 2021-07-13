@@ -30,7 +30,7 @@ The sites have a high affinity for misoprostol, for its acid metabolite, and for
 Receptor-site affinity for misoprostol correlates well with an indirect index of antisecretory activity.
 It is likely that these specific receptors allow misoprostol taken with food to be effective topically, despite the lower serum concentrations attained.
 
-Misoprostol, over the range of 50 to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
+Misoprostol, over the range of 50 mcg to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
 In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
 
@@ -44,7 +44,7 @@ General pharmacokinetic characteristics
 The pharmacokinetic profiles of diclofenac and misoprostol administered as the fixed combination diclofenac sodium and misoprostol delayed-release tablets, 50 mg/0.2 mg or diclofenac sodium and misoprostol delayed-release tablets, 75 mg/0.2 mg are similar to the profiles when the two drugs are administered as separate tablets (see Table 2).
 No pharmacokinetic interaction between the two drugs has been observed following multiple dosing.
 The diclofenac total exposure [area under the curve (AUC)] is dose-proportional within the range of 25 mg to 150 mg.
-Approximately dose-proportional increase in misoprostol exposure was also observed within the range of 200 to 400 mcg.
+Approximately dose-proportional increase in misoprostol exposure was also observed within the range of 200 mcg to 400 mcg.
 Neither diclofenac nor misoprostol accumulated in plasma following repeated doses of diclofenac sodium and misoprostol delayed-release tablets given every 12 hours under fasted conditions.
 
 Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following Single Oral Doses of Diclofenac Sodium and Misoprostol Delayed-Release Tablets or Separate Products in Healthy Subjects
@@ -67,7 +67,7 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 | Misoprostol Delayed- |  |  |  |  |  |  |  |  |
 | Release Tablets |  |  |  |  |  |  |  |  |
 | 50 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Diclofenac |  | 1298 (441) |  | 2.4 (1.0) |  |  | 1357 (290) |  |
+| Diclofenac Sodium |  | 1298 (441) |  | 2.4 (1.0) |  |  | 1357 (290) |  |
 | Diclofenac Sodium and |  | 2025 (2005) |  | 2.0 (1.4) |  |  | 2773 (1347) |  |
 | Misoprostol Delayed- |  |  |  |  |  |  |  |  |
 | Release Tablets |  |  |  |  |  |  |  |  |
@@ -78,7 +78,7 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 Absorption
 
 Diclofenac: Diclofenac is completely absorbed from the GI tract after oral administration under fasted condition, and peak plasma levels are achieved in 2 hours (range 1 to 4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
-Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
+Peak plasma levels are less than dose-proportional and are approximately 1.5 mcg/mL and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
 The diclofenac in diclofenac sodium and misoprostol is in a pharmaceutical formulation that resists dissolution in the low pH of gastric fluid but allows a rapid release of drug in the higher pH environment of the duodenum.
 Only 50% of the absorbed dose is systemically available due to first pass metabolism (i.e., oral bioavailability is 50%).
 
@@ -119,11 +119,11 @@ Approximately 65% of the dose is excreted in the urine and 35% in the bile.
 The elimination half-life of diclofenac is approximately 2 hours.
 The clearance of diclofenac is approximately 350 mL/min (equivalent to 21 L/h).
 
-Conjugates of unchanged diclofenac account for 5 to 10% of the dose excreted in the urine and for less than 5% excreted in the bile.
+Conjugates of unchanged diclofenac account for 5% to 10% of the dose excreted in the urine and for less than 5% excreted in the bile.
 Little or no unchanged unconjugated drug is excreted.
-Conjugates of the principal metabolite account for 20 to 30% of the dose excreted in the urine and for 10 to 20% of the dose excreted in the bile.
+Conjugates of the principal metabolite account for 20% to 30% of the dose excreted in the urine and for 10% to 20% of the dose excreted in the bile.
 
-Conjugates of three other metabolites together account for 10 to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
+Conjugates of three other metabolites together account for 10% to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
 Urinary excretion of an additional metabolite (half-life = 80 hours) accounts for only 1.4% of the oral dose.
 The degree of accumulation of diclofenac metabolites is unknown.
@@ -145,7 +145,7 @@ Race: Pharmacokinetic differences due to race have not been identified.
 
 Renal Impairment
 
-In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
+In patients with renal impairment (N=5, creatinine clearance 3 mL/min to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
 
 Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of elimination half-life, Cmax, and AUC compared to healthy subjects.
 
