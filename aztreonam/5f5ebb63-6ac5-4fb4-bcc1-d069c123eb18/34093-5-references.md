@@ -32,4 +32,4 @@
 
 The brand names mentioned in this document are the trademarks of their respective owners.
 
-PREMIERProRx™ is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.

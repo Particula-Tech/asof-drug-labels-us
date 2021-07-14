@@ -16,8 +16,6 @@ Aztreonam for injection is a sterile, nonpyrogenic, sodium-free lyophilized, off
 Following constitution, the product is for intramuscular or intravenous use.
 Aqueous solutions of the product have a pH in the range of 4.5 to 7.5.
 
-Each 500 mg contains 500 mg aztreonam with approximately 390 mg arginine.
-
 Each 1 gram vial contains 1 gram aztreonam with approximately 780 mg arginine.
 
 Each 2 gram vial contains 2 grams aztreonam with approximately 1.56 grams arginine.

@@ -4,10 +4,12 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Manufactured by:
 
-Fresenius Kabi USA, LLC
+Fresenius Kabi
 
 Lake Zurich, IL 60047
 
-451405A
+www.fresenius-kabi.com/us
 
-Revised: December 2014
+451405B
+
+Revised: April 2021
