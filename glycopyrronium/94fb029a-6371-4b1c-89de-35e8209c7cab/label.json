@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA012827"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Casper Pharma LLC",
+  "package_ndcs": [
+    "70199-007-30",
+    "70199-007-90",
+    "70199-008-30",
+    "70199-008-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glycopyrrolate",
+      "name": "Robinul"
+    },
+    {
+      "form": "TABLET",
+      "generic": "glycopyrrolate",
+      "name": "Robinul Forte"
+    }
+  ],
+  "setid": "94fb029a-6371-4b1c-89de-35e8209c7cab",
+  "source": "dailymed"
+}
