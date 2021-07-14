@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two dietary carcinogenicity studies have been conducted in rats with fenofibrate.
 In the first 24-month study, Wistar rats were dosed with fenofibrate at 10, 45, and 200 mg/kg/day, approximately 0.3, 1, and 6 times the maximum recommended human dose (MRHD) of 300 mg fenofibrate daily, equivalent to 145 mg fenofibrate tablets daily, based on body surface area comparisons.

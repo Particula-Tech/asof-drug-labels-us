@@ -11,13 +11,13 @@ Patients should be advised:
 - •to return to their physician’s office for routine monitoring.
 - •to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking fenofibrate tablets.
-- •to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
+- •to inform their physician of symptoms of liver injury (e.g., jaundice, abdominal pain, nausea, malaise, dark urine, abnormal stool, pruritus); any muscle pain, tenderness, or weakness; or any other new symptoms.
 - •not to breastfeed during treatment with fenofibrate tablets and for 5 days after the final dose.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad—500 096, India
 
-75067957
+75080369
 
-Revised: 5/2019 MX:FNFBR:R5
+Revised: 6/2021 MX:FNFBR:R6
