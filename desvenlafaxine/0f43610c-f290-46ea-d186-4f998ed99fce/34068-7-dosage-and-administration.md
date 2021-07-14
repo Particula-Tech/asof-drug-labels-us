@@ -33,7 +33,8 @@ Patients should be periodically reassessed to determine the need for continued t
 ## 2.5 Discontinuing PRISTIQ
 
 Adverse reactions may occur upon discontinuation of PRISTIQ [see Warnings and Precautions (5.7)].
-Gradually reduce the dosage rather than stopping PRISTIQ abruptly whenever possible.
+Gradually reduce the dosage rather than stopping PRISTIQ abruptly when discontinuing therapy with PRISTIQ.
+In some patients, discontinuation may need to occur very gradually over a period of several months.
 
 ## 2.6 Switching Patients From Other Antidepressants to PRISTIQ
 

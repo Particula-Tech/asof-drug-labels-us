@@ -33,6 +33,11 @@ Discontinuation
 Advise patients not to abruptly stop taking PRISTIQ without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping PRISTIQ, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
+Sexual Dysfunction
+
+Advise patients that use of PRISTIQ may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
 Switching Patients from Other Antidepressants to PRISTIQ
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to PRISTIQ.
