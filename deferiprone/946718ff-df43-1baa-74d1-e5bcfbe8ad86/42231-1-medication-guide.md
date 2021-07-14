@@ -20,7 +20,7 @@
 | General information about the safe and effective use of FERRIPROX Tablets. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use FERRIPROX Tablets for a condition for which it was not prescribed. Do not give FERRIPROX Tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about FERRIPROX Tablets that is written for health professionals. |  |  |
 | What are the ingredients in FERRIPROX Tablets? Active ingredient: deferiprone Inactive ingredients: Tablet core: hypromellose acetate succinate, magnesium oxide, colloidal silicon dioxide and magnesium stearate. Coating: triethyl citrate, talc, titanium dioxide, and methacrylic acid and ethyl acrylate copolymer. Distributed by: Chiesi USA, Inc., Cary, NC 27518. Manufactured by: Apotex Inc., Toronto, Ontario, Canada, M9L 1T9. For more information, call 1-888-661-9260. |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 04/2021 |
-| CTFD-002-0620-01-SPL-B |  |  |
+| CTFD-002-0620-01-SPL-B-1 |  |  |
 
 | Medication Guide FERRIPROX (Feh' ri prox) Tablets (deferiprone) tablets, for oral use, 3 times a day 1000 mg |  |  |
 | --- | --- | --- |
@@ -43,4 +43,4 @@
 | General information about the safe and effective use of FERRIPROX Tablets. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use FERRIPROX Tablets for a condition for which it was not prescribed. Do not give FERRIPROX Tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about FERRIPROX Tablets that is written for health professionals. |  |  |
 | What are the ingredients in FERRIPROX Tablets? Active ingredient: deferiprone Inactive ingredients: Tablet core: methylcellulose, crospovidone, and magnesium stearate. Coating: hypromellose, hydroxypropyl cellulose, macrogol, and titanium dioxide. Distributed by: Chiesi USA, Inc., Cary, NC 27518. Manufactured by: Apotex Inc., Toronto, Ontario, Canada, M9L 1T9. For more information, call 1-888-661-9260. |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 04/2021 |
-| CTFD-002-0620-01-SPL-T |  |  |
+| CTFD-002-0620-01-SPL-T-1 |  |  |
