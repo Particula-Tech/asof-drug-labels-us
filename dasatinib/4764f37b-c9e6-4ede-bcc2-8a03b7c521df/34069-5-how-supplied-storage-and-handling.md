@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 SPRYCEL® (dasatinib) tablets are available as described in Table 21.
 
@@ -15,11 +15,11 @@ Table 21: SPRYCEL Trade Presentations
 | 0003-0852-22 | 100 mg | white to off-white, biconvex, oval, film-coated tablet with “BMS 100” debossed on one side and “852” on the other side | 30 |
 | 0003-0857-22 | 140 mg | white to off-white, biconvex, round, film-coated tablet with “BMS” and “140” (BMS over 140) debossed on one side and “857” on the other side | 30 |
 
-## 16.2 Storage
+Storage
 
 SPRYCEL tablets should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
-## 16.3 Handling and Disposal
+Handling and Disposal
 
 SPRYCEL is an antineoplastic product.
 Follow special handling and disposal procedures.1

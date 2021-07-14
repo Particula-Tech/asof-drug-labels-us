@@ -2,18 +2,23 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-### Bleeding
-
-Inform patients of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising) [see Warnings and Precautions (5.2)].
-
 ### Myelosuppression
 
 Inform patients of the possibility of developing low blood cell counts.
 Advise patients to immediately report fever particularly in association with any suggestion of infection [see Warnings and Precautions (5.1)].
 
+### Bleeding
+
+Inform patients of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising) [see Warnings and Precautions (5.2)].
+
 ### Fluid Retention
 
 Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and advised to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.3)].
+
+Cardiovascular Toxicity
+
+Inform patients of the possibility of developing cardiovascular toxicity, including cardiac ischemic events, cardiac-related fluid retention, conduction abnormalities, and TIAs.
+Advise patients to seek immediate medical attention if symptoms suggestive of cardiovascular toxicity occur, such as chest pain, shortness of breath, palpitations, transient vision problems, or slurred speech [see Warnings and Precautions (5.4)].
 
 Pulmonary Arterial Hypertension
 
@@ -30,7 +35,7 @@ Inform pediatric patients and their caregivers of the possibility of developing 
 ### Embryo-Fetal Toxicity
 
 - •Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
-- •Advise patients of reproductive potential to avoid pregnancy, which may include use of effective contraception by both sexually active male and female patients during treatment with SPRYCEL and for 30 days after the final dose.
+- •Advise females of reproductive potential and males with female partners of reproductive potential to use effective contraception during treatment with SPRYCEL and for 30 days after the last dose.
   Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking SPRYCEL [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1, 8.3)].
 
 ### Lactation
@@ -63,8 +68,11 @@ Advise patients to seek medical attention if this symptom is bothersome or persi
 
 Inform patients that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
 
-### Missed Dose
+### Instructions for Taking SPRYCEL
 
-Advise patients that if they miss a dose of SPRYCEL, they should take the next scheduled dose at its regular time.
-The patient should not take two doses at the same time.
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+- •Missed Dose
+- Advise patients that if they miss a dose of SPRYCEL, they should take the next scheduled dose at its regular time.
+  The patient should not take two doses at the same time.
+- •Grapefruit Juice
+- Advise patients not to drink grapefruit juice as it may increase the amount of SPRYCEL in their blood and therefore increase their risk of adverse reactions.
+  Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA

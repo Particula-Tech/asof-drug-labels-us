@@ -131,5 +131,5 @@ The effect of stopping treatment on long-term disease outcome after the achievem
 
 In clinical studies, treatment with SPRYCEL in pediatric patients with Ph+ ALL was administered for a maximum duration of 2 years [see Dosage and Administration (2.2) and Clinical Studies (14.4)].
 
-SPRYCEL is an antineoplastic product.
+SPRYCEL is a hazardous product.
 Follow applicable special handling and disposal procedures.1

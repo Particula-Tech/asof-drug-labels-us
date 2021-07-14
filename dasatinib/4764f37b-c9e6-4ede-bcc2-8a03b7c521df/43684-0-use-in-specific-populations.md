@@ -43,15 +43,15 @@ In a pre- and postnatal development study in rats, administration of dasatinib f
 
 No data are available regarding the presence of dasatinib in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 However, dasatinib is present in the milk of lactating rats.
-Because of the potential for serious adverse reactions in nursing children from SPRYCEL, breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the final dose.
+Because of the potential for serious adverse reactions in nursing children from SPRYCEL, breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+SPRYCEL can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 ### Contraception
 
-SPRYCEL can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to avoid pregnancy.
-Both sexually active male and female patients of childbearing potential should use adequate contraceptive methods during treatment with SPRYCEL and for 30 days after the final dose.
+Advise females of reproductive potential and males with female partners of reproductive potential to use effective contraception during treatment with SPRYCEL and for 30 days after the last dose.
 
 #### Infertility
 

@@ -5,7 +5,7 @@ The following clinically significant adverse reactions are discussed in greater 
 - •Myelosuppression [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 - •Bleeding-related events [see Warnings and Precautions (5.2)].
 - •Fluid retention [see Warnings and Precautions (5.3)].
-- •Cardiovascular events [see Warnings and Precautions (5.4)].
+- •Cardiovascular toxicity [see Warnings and Precautions (5.4)].
 - •Pulmonary arterial hypertension [see Warnings and Precautions (5.5)].
 - •QT prolongation [see Warnings and Precautions (5.6)].
 - •Severe dermatologic reactions [see Warnings and Precautions (5.7)].
@@ -357,7 +357,7 @@ Table 15: CTCAE Grade 3/4 Laboratory Abnormalities in ≥10% of Pediatric Patien
 | Hypophosphatemia | 11 |
 | Toxicity grading is per CTCAE version 4. |  |
 
-## 6.2 Additional Pooled Data from Clinical Trials
+Additional Pooled Data from Clinical Trials
 
 The following additional adverse reactions were reported in adult and pediatric patients (n=2809) in SPRYCEL CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1%–<10%, 0.1%–<1%, or <0.1%.
 These adverse reactions are included based on clinical relevance.
@@ -406,7 +406,7 @@ Immune System Disorders: 0.1%–<1% – hypersensitivity (including erythema nod
 
 Endocrine Disorders: 0.1%–<1% – hypothyroidism; <0.1% – hyperthyroidism, thyroiditis.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of SPRYCEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
