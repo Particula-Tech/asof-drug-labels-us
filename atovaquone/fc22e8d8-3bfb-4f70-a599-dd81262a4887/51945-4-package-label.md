@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0675-01
 
-MALARONE®
+MALARONE
 
 (atovaquone and proguanil HCl)
 
@@ -20,22 +20,28 @@ Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) (see USP
 
 Do not use if printed safety seal under cap is broken or missing.
 
+Trademarks owned or licensed by GSK.
+
+Distributed by:
+
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+RTP, NC 27709
 
 Made in Canada
 
-Rev.
-10/16
+©2020 GSK or licensor.
 
-A142937
+Rev.
+01/21
+
+A059145 (62000000059145)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0676-01
 
-MALARONE®
+MALARONE
 
 (atovaquone and proguanil HCl)
 
@@ -53,13 +59,19 @@ Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) (see USP
 
 Do not use if printed safety seal under cap is broken or missing.
 
+Trademarks owned or licensed by GSK.
+
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Canada
 
-Rev.
-9/16
+©2020 GSK or licensor.
 
-A142938
+Rev.
+01/21
+
+A059143 (62000000059143)
