@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA091388"
+  ],
+  "inn": "quetiapine",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-717-01",
+    "16571-717-10",
+    "16571-718-01",
+    "16571-718-10",
+    "16571-719-01",
+    "16571-719-10",
+    "16571-720-01",
+    "16571-720-10",
+    "16571-721-06",
+    "16571-721-10",
+    "16571-722-01",
+    "16571-722-50",
+    "16571-809-01",
+    "16571-809-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "quetiapine fumarate",
+      "name": "Quetiapine Fumarate"
+    }
+  ],
+  "setid": "532c8ace-4cf5-4a08-bae7-2af8c41ffa3d",
+  "source": "dailymed"
+}
