@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210773"
+  ],
+  "inn": "meropenem",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-145-01",
+    "44567-145-10",
+    "44567-146-01",
+    "44567-146-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "6520ae3d-e149-499c-8152-36f6ab861662",
+  "source": "dailymed"
+}
