@@ -104,7 +104,7 @@ Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Racial or Ethnic Groups: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations was observed.
+Racial or Ethnic Groups: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African‑American, Asian, or Hispanic populations was observed.
 
 Drug Interaction Studies
 
