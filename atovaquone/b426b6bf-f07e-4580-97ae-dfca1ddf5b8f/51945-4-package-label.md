@@ -23,14 +23,16 @@ Dispense in a tight container as defined in USP.
 
 SHAKE GENTLY BEFORE USING.
 
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Canada
 
-1. A019644 Rev.
-   3/18
+1. A058418 (62000000058418) Rev.
+   12/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -55,7 +57,7 @@ Rx only
 
 Contains 42 sachets of 5 mL each
 
-©2018 the GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. A019639 Rev.
-   2/18
+1. A058473 (62000000058473) Rev.
+   12/20
