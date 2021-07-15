@@ -68,9 +68,10 @@ The need for continuing medication in patients with PD who improve with Effexor 
 
 ## 2.8 Discontinuing Effexor XR
 
-A gradual reduction in the dose, rather than abrupt cessation, is recommended whenever possible.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended when discontinuing therapy with Effexor XR.
 In clinical studies with Effexor XR, tapering was achieved by reducing the daily dose by 75 mg at one-week intervals.
 Individualization of tapering may be necessary [see Warnings and Precautions (5.7)].
+In some patients, discontinuation may need to occur very gradually over a period of several months.
 
 ## 2.9 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 

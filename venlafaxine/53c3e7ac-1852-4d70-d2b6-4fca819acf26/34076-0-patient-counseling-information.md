@@ -57,6 +57,11 @@ Discontinuation [Symptoms]
 Advise patients not to stop taking Effexor XR without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping Effexor XR [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
+Sexual Dysfunction
+
+Advise patients that use of Effexor XR may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Interference with Cognitive and Motor Performance
 
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that Effexor XR therapy does not adversely affect their ability to engage in such activities.

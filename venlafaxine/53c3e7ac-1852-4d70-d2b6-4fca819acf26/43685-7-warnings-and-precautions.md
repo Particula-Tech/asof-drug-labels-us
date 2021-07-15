@@ -54,7 +54,7 @@ It should be noted that Effexor XR is not approved for use in treating bipolar d
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Effexor XR alone, but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's wort) and with drugs that impair metabolism of serotonin in particular, MAOIs, both those intended to treat psychiatric disorders and others, such as linezolid or intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with Serotonin-norepinephrine reuptake inhibitors (SNRIs) and SSRIs, including Effexor XR alone, but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's wort) and with drugs that impair metabolism of serotonin in particular, MAOIs, both those intended to treat psychiatric disorders and others, such as linezolid or intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, coma) autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia, diaphoresis, flushing, and dizziness), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination); seizures and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -117,14 +117,18 @@ Table 2: Incidence (%) of Mania or Hypomania Reported in Effexor XR Treated Pati
 Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, including prospective analyses of clinical studies in GAD and retrospective surveys of studies in MDD and SAD.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
 Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock-like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
+These events are generally self-limited.
+There have been postmarketing reports of serious discontinuation symptoms which can be protracted and severe.
+Completed suicide, suicidal thoughts, aggression and violent behavior have been observed in patients during reduction in Effexor XR dosage, including during discontinuation.
+Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of Effexor XR.
 
-During marketing of Effexor XR, other SNRIs, and SSRIs, there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
+During marketing of Effexor XR, other SNRIs, and SSRIs, there have been spontaneous reports of other adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: irritability, lethargy, emotional lability, tinnitus, and seizures.
 
 Patients should be monitored for these symptoms when discontinuing treatment with Effexor XR.
-A gradual reduction in the dose, rather than abrupt cessation, is recommended whenever possible.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see Dosage and Administration (2.8)].
+Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
+In some patients, discontinuation may need to occur over a period of several months [see Dosage and Administration (2.8)].
 
 ## 5.8 Seizures
 
@@ -203,3 +207,13 @@ Table 6: Incidence (%) of Decreased Appetite and Associated Discontinuation Rate
 Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine therapy have been rarely reported.
 The possibility of these adverse events should be considered in venlafaxine-treated patients who present with progressive dyspnea, cough or chest discomfort.
 Such patients should undergo a prompt medical evaluation, and discontinuation of venlafaxine therapy should be considered.
+
+## 5.13 Sexual Dysfunction
+
+Use of SNRIs, including Effexor XR, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of Effexor XR and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

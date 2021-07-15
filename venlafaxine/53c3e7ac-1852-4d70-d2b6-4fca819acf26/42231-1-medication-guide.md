@@ -1,6 +1,6 @@
 # Medication Guide
 
-EFFEXOR XR(e-fex-or) (venlafaxine hydrochloride) (Extended-Release Capsules)
+EFFEXOR XR® (e-fex-or) (venlafaxine hydrochloride) Extended-Release Capsules
 
 Read the Medication Guide that comes with EFFEXOR XR before you start taking it and each time you get a refill.
 There may be new information.
@@ -109,14 +109,30 @@ Severe allergic reactions:
 - swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain.
 
-Do not stop EFFEXOR XR without first talking to your healthcare provider.
-Stopping EFFEXOR XR too quickly or changing from another antidepressant too quickly may cause serious symptoms including:
+14.
+Sexual Problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including EFFEXOR XR, may cause sexual problems.
+Symptoms in males may include:
 
-- anxiety, irritability
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection Symptoms in females may include:
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with EFFEXOR XR.
+There may be treatments your healthcare provider can suggest.
+
+Do not stop EFFEXOR XR without first talking to your healthcare provider.
+Stopping EFFEXOR XR too quickly or changing from another antidepressant too quickly may cause serious symptoms including (in some patients these symptoms can be severe and last for long time):
+
+- anxiety, irritability, aggressiveness, violent behavior
 - feeling tired, restless or problems sleeping
 - headache, sweating, dizziness
 - electric shock-like sensations, shaking, confusion, nightmares
 - vomiting, nausea, diarrhea
+- problems with eyesight such as blurred vision or trouble focusing
+- increased blood pressure
 
 What is EFFEXOR XR?
 
@@ -289,6 +305,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-8.0
+LAB-0542-9.0
 
-Revised: December 2018
+Revised: July 2021

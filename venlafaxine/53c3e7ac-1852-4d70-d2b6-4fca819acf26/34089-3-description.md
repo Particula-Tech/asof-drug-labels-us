@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Effexor XR is an extended-release capsule for once-a-day oral administration that contains venlafaxine hydrochloride, a serotonin and norepinephrine reuptake inhibitor (SNRI).
+Effexor XR is an extended-release capsule for once-a-day oral administration that contains venlafaxine hydrochloride, a SNRI.
 
 Venlafaxine is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α- [(dimethylamino)methyl]-p-methoxybenzyl] cyclohexanol hydrochloride and has the empirical formula of C17H27NO2 HCl.
 Its molecular weight is 313.86.

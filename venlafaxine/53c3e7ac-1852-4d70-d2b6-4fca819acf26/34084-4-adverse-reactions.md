@@ -15,6 +15,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Weight and Height changes in Pediatric Patients [see Warnings and Precautions (5.10)]
 - Appetite Changes in Pediatric Patients [see Warnings and Precautions (5.11)]
 - Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.12)]
+- Sexual Dysfunction [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Studies Experience
 
