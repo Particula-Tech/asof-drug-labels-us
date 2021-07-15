@@ -14,7 +14,7 @@ The following serious adverse reactions are described below and elsewhere in the
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Donepezil hydrochloride tablets have been administered to over 1,700 individuals during clinical trials worldwide.
-Approximately 1,200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
+Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1,214 days
@@ -39,7 +39,7 @@ Most Common Adverse Reactions
 
 The most common adverse reactions, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by donepezil hydrochloride tablet's cholinomimetic effects.
 These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
-These adverse events were often transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
+These adverse events were often of mild intensity and transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
 
 There is evidence to suggest that the frequency of these common adverse reactions may be affected by the rate of titration.
 An open-label study was conducted with 269 patients who received placebo in the 15- and 30-week studies.
@@ -141,7 +141,7 @@ Table 4 lists adverse reactions that occurred in at least 2% of patients in pool
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of donepezil hydrochloride tablets.
+The following adverse reactions have been identified during post-approval use donepezil hydrochloride tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.

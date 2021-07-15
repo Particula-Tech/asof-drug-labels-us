@@ -8,17 +8,28 @@ Instruct patients and caregivers that donepezil hydrochloride tablets can be tak
 
 Advise patients and caregivers that donepezil hydrochloride tablets may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and decreased appetite.
 
-Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
+
+For:
+
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+
+8057807 Revised November 2015
+
+or
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
 Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8073530 Revised January 2019
+8060564 Revised May 2016
 
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
@@ -28,16 +39,16 @@ Rx Only
 
 - Tablets: 5 mg and 10 mg
 
-Read this Patient Information that comes with donepezil hydrochloride tablets before you start taking it and each time you get a refill.
+Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking them and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with your doctor about Alzheimer's disease or treatment for it.
+This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 
 What are donepezil hydrochloride tablets?
 
 Donepezil hydrochloride tablets come as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
 
-Donepezil hydrochloride tablets are a prescription medicine to treat mild, moderate and severe Alzheimer's disease.
+Donepezil hydrochloride tablets are a prescription medicine to treat mild, moderate and severe Alzheimer’s disease.
 Donepezil hydrochloride tablets can help with mental function and with doing daily tasks.
 Donepezil hydrochloride tablet does not work the same in all people.
 Some people may:
@@ -47,74 +58,66 @@ Some people may:
 - Get worse over time but slower than expected
 - Not change and then get worse as expected
 
-Donepezil hydrochloride tablet does not cure Alzheimer's disease.
-All patients with Alzheimer's disease get worse over time, even if they take donepezil hydrochloride tablets.
+Donepezil hydrochloride tablet does not cure Alzheimer’s disease.
+All patients with Alzheimer’s disease get worse over time, even if they take donepezil hydrochloride tablets.
 
 Donepezil hydrochloride tablets have not been approved as a treatment for any medical condition in children.
 
 Who should not take donepezil hydrochloride tablets?
 
-Do not take donepezil hydrochloride tablets if you are allergic to any of the ingredients in donepezil hydrochloride tablets or to medicines that contain piperidines.
-Ask your doctor if you are not sure.
+The patient should not take donepezil hydrochloride tablets if allergic to any of the ingredients in donepezil hydrochloride tablets or to medicines that contain piperidines.
+Ask the patient’s doctor if you are not sure.
 See the end of this leaflet for a list of ingredients in donepezil hydrochloride tablets.
 
-What should I tell my doctor before taking donepezil hydrochloride tablets?
+What should I tell the doctor before the patient takes donepezil hydrochloride tablets?
 
-Tell the doctor about all of your present or past health problems and conditions.
+Tell the doctor about all the patient’s present or past health problems.
 Include:
 
-Any heart problems including problems with irregular, slow, or fast heartbeats
-
-Asthma or lung problems
-
-A seizure
-
-Stomach ulcers
-
-Difficulty passing urine
-
-Liver or kidney problems
-
-Trouble swallowing tablets
-
-Present pregnancy or plans to become pregnant.
-It is not known if donepezil hydrochloride tablets can harm an unborn baby.
-
+- Any heart problems including problems with irregular, slow, or fast heartbeats
+- Asthma or lung problems
+- A seizure
+- Stomach ulcers
+- Difficulty passing urine
+- Liver or kidney problems
+- Trouble swallowing tablets
+- Present pregnancy or plans to become pregnant.
+  It is not known if donepezil hydrochloride tablets can harm an unborn baby.
 - Present breast-feeding.
   It is not known if donepezil hydrochloride passes into breast milk.
-  Talk to your doctor about the best way to feed your baby if you take Donepezil hydrochloride tablets.
+  Donepezil hydrochloride tablets are not for women who are breast-feeding.
 
-Tell the doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
+Tell the doctor about all the medicines the patient takes, including prescription and non-prescription medicines, vitamins, and herbal products.
 Donepezil hydrochloride tablets and other medicines may affect each other.
 
-Be particularly sure to tell the doctor if you take aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
+Be particularly sure to tell the doctor if the patient takes aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
 There are many NSAID medicines, both prescription and non-prescription.
-Ask the doctor or pharmacist if you are not sure if any of your medicines are NSAIDs.
-Taking NSAIDs and donepezil hydrochloride tablets together may make you more likely to get stomach ulcers.
+Ask the doctor or pharmacist if you are not sure if any of the patient’s medicines are NSAIDs.
+Taking NSAIDs and donepezil hydrochloride tablets together may make the patient more likely to get stomach ulcers.
 
 Donepezil hydrochloride tablets taken with certain medicines used for anesthesia may cause side effects.
-Tell the responsible doctor or dentist that you take donepezil hydrochloride tablets before you have:
+Tell the responsible doctor or dentist that the patient takes donepezil hydrochloride tablets before the patient has:
 
 - surgery
 - medical procedures
 - dental surgery or procedures.
 
-Know the medicines that you take.
-Keep a list of all your medicines.
-Show it to your doctor or pharmacist before you start a new medicine.
+Know the medicines that the patient takes.
+Keep a list of all the patient’s medicines.
+Show it to the doctor or pharmacist before the patient starts a new medicine.
 
-How should you take donepezil hydrochloride tablets?
+How should the patient take donepezil hydrochloride tablets?
 
-- Take donepezil hydrochloride tablets exactly as prescribed by the doctor.
+- Give donepezil hydrochloride tablets exactly as prescribed by the doctor.
   Do not stop donepezil hydrochloride tablets or change the dose yourself.
-  Talk with your doctor first.
-- Take donepezil hydrochloride tablets one time each day.
+  Talk with the doctor first.
+- Give donepezil hydrochloride tablets one time each day.
   Donepezil hydrochloride tablets can be taken with or without food.
-- If you miss a dose of donepezil hydrochloride tablets, just wait.
-  Take only the next dose at the usual time.
-  Do not take 2 doses at the same time.
-- If donepezil hydrochloride tablets are missed for 7 days or more, talk with your doctor before starting again.
-- If you take too much donepezil hydrochloride tablets at one time, call your doctor or poison control center, or go to the emergency room right away.
+- If you miss giving the patient a dose of donepezil hydrochloride tablets, just wait.
+  Give only the next dose at the usual time.
+  Do not give 2 doses at the same time.
+- If donepezil hydrochloride tablets are missed for 7 days or more, talk with the doctor before starting again.
+- If the patient takes too much donepezil hydrochloride tablets at one time, call the doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of donepezil hydrochloride tablets?
 
@@ -122,15 +125,15 @@ Donepezil hydrochloride tablets may cause the following serious side effects:
 
 - slow heartbeat and fainting.
   This happens more often in people with heart problems.
-  Call your doctor right away if you feel faint or lightheaded while taking donepezil hydrochloride tablets.
+  Call the doctor right away if the patient faints while taking donepezil hydrochloride tablets.
 - more stomach acid.
   This raises the chance of ulcers and bleeding.
-  The risk is higher for patients who have had ulcers, or take aspirin or other NSAIDs.
+  The risk is higher for patients who had ulcers, or take aspirin or other NSAIDs.
 - worsening of lung problems in people with asthma or other lung disease.
 - seizures.
 - difficulty passing urine.
 
-Call your doctor right away if you have:
+Call the doctor right away if the patient has:
 
 - fainting.
 - heartburn or stomach pain that is new or won’t go away.
@@ -150,9 +153,9 @@ The most common side effects of donepezil hydrochloride tablets are:
 - feeling tired
 - not wanting to eat
 
-These side effects may get better after you take donepezil hydrochloride tablets for a while.
+These side effects may get better after the patient takes donepezil hydrochloride tablets for a while.
 This is not a complete list of side effects with donepezil hydrochloride tablets.
-For more information, ask your doctor or pharmacist.
+For more information, ask the doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -168,13 +171,12 @@ General information about donepezil hydrochloride tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in this Patient Information Leaflet.
 Do not use donepezil hydrochloride tablets for a condition for which it was not prescribed.
-Do not give donepezil hydrochloride tablets to other people, even if they have the same symptoms or condition.
-It may harm them.
+Do not give donepezil hydrochloride tablets to people other than the patient, even if they have the same symptoms as the patient, as it may harm them.
 
 This leaflet summarizes the most important information about donepezil hydrochloride tablets.
-If you would like more information, talk with your doctor.
+If you would like more information talk with the patient’s doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride tablets that is written for health professionals.
-For more information, call 1-800-912-9561.
+For more information, call 1-269-544-2299.
 
 What are the ingredients in donepezil hydrochloride tablets?
 
@@ -190,10 +192,23 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
 
-Manufactured for:
+For
+
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+
+8057808 Revised November 2015
+
+or
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+Manufactured For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8073531 Revised January 2019
+8060563 Revised May 2016

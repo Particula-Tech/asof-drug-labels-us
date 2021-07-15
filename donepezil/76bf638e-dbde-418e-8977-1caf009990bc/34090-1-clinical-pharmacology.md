@@ -18,7 +18,7 @@ Donepezil hydrochloride ODT 5 mg and 10 mg are bioequivalent to donepezil hydroc
 The elimination half life of donepezil is about 70 hours, and the mean apparent plasma clearance (Cl/F) is 0.13 to 0.19 L/hr/kg.
 Following multiple dose administration, donepezil accumulates in plasma by 4 to 7 fold, and steady state is reached within 15 days.
 The steady state volume of distribution is 12 to 16 L/kg.
-Donepezil is approximately 96% bound to human plasma proteins, mainly to albumins (about 75%) and alpha1 - acid glycoprotein (about 21%) over the concentration range of 2 to 1000 ng/mL.
+Donepezil is approximately 96% bound to human plasma proteins, mainly to albumins (about 75%) and alpha 1 - acid glycoprotein (about 21%) over the concentration range of 2 to 1000 ng/mL.
 
 Donepezil is both excreted in the urine intact and extensively metabolized to four major metabolites, two of which are known to be active, and a number of minor metabolites, not all of which have been identified.
 Donepezil is metabolized by CYP 450 isoenzymes 2D6 and 3A4 and undergoes glucuronidation.
@@ -33,13 +33,13 @@ In a study of 10 patients with stable alcoholic cirrhosis, the clearance of done
 
 Renal Disease
 
-In a study of 11 patients with moderate to severe renal impairment (ClC < 18 mL/min/1.73 m2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
+In a study of 11 patients with moderate to severe renal impairment (Cl C < 18 mL/min/1.73 m 2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
 
 Age
 
 No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride.
 Population pharmacokinetic analysis suggested that the clearance of donepezil in patients decreases with increasing age.
-When compared with 65-year old subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
+When compared with 65-year old, subjects, 90-year old subjects have a 17% decrease in clearance, while 40-year old subjects have a 33% increase in clearance.
 The effect of age on donepezil clearance may not be clinically significant.
 
 Gender and Race
@@ -57,7 +57,7 @@ Drug Interactions
 Effect of Donepezil Hydrochloride Tablets on the Metabolism of Other Drugs
 
 No in vivo clinical trials have investigated the effect of donepezil hydrochloride tablets on the clearance of drugs metabolized by CYP 3A4 (e.g. cisapride, terfenadine) or by CYP 2D6 (e.g. imipramine).
-However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50 to 130 µM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
+However, in vitro studies show a low rate of binding to these enzymes (mean K i about 50 to 130 µM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
 Based on in vitro studies, donepezil shows little or no evidence of direct inhibition of CYP2B6, CYP2C8 and CYP2C19 at clinically relevant concentrations.
 
 Whether donepezil hydrochloride tablets have any potential for enzyme induction is not known.
@@ -70,7 +70,7 @@ Ketoconazole and quinidine, strong inhibitors of CYP450 3A and 2D6, respectively
 Whether there is a clinical effect of quinidine is not known.
 Population pharmacokinetic analysis showed that in the presence of concomitant CYP2D6 inhibitors donepezil AUC was increased by approximately 17% to 20% in Alzheimer's disease patients taking donepezil hydrochloride tablets 10 mg.
 This represented an average effect of weak, moderate, and strong CYP2D6 inhibitors.
-In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean donepezil (5 mg q.d.) concentrations (AUC0 to 24 and Cmax) by 36%.
+In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean donepezil (5 mg q.d.) concentrations (AUC 0 to 24 and C max) by 36%.
 The clinical relevance of this increase in concentration is unknown.
 
 Inducers of CYP 3A (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride tablets.
