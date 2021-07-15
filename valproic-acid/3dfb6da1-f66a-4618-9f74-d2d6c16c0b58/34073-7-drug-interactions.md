@@ -19,7 +19,7 @@ Aspirin
 
 A study involving the co-administration of aspirin at antipyretic doses (11 to 16 mg/kg) with valproate to pediatric patients (n = 6) revealed a decrease in protein binding and an inhibition of metabolism of valproate.
 Valproate free fraction was increased 4-fold in the presence of aspirin compared to valproate alone.
-The ß-oxidation pathway consisting of 2-E-valproic acid, 3-OH-valproic acid, and 3-keto valproic acid was decreased from 25% of total metabolites excreted on valproate alone to 8.3% in the presence of aspirin.
+The β-oxidation pathway consisting of 2-E-valproic acid, 3-OH-valproic acid, and 3-keto valproic acid was decreased from 25% of total metabolites excreted on valproate alone to 8.3% in the presence of aspirin.
 Caution should be observed if valproate and aspirin are to be co-administered.
 
 Carbapenem Antibiotics
@@ -43,7 +43,7 @@ A decrease in valproate dosage may be necessary when felbamate therapy is initia
 Rifampin
 
 A study involving the administration of a single dose of valproate (7 mg/kg) 36 hours after 5 nights of daily dosing with rifampin (600 mg) revealed a 40% increase in the oral clearance of valproate.
-Valproate dosage adjustment may be necessary when it is co-administered with rifampin.
+Valproate dosage adjustment may be necessary when it is coadministered with rifampin.
 
 Drugs for which either no interaction or a likely clinically unimportant interaction has been observed
 
@@ -82,7 +82,7 @@ Consideration should be given to lowering the dose of amitriptyline/nortriptylin
 
 Carbamazepine/carbamazepine-10,11-Epoxide
 
-Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
+Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10, 11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
 
 Clonazepam
 
@@ -165,7 +165,7 @@ Valproate had no effect on any of the pharmacokinetic parameters of acetaminophe
 
 Clozapine
 
-In psychotic patients (n = 11), no interaction was observed when valproate was co-administered with clozapine.
+In psychotic patients (n = 11), no interaction was observed when valproate was coadministered with clozapine.
 
 Lithium
 
@@ -178,11 +178,11 @@ Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in
 Olanzapine
 
 No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
-Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in C max and 35% reduction in AUC of olanzapine.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
 
 Oral Contraceptive Steroids
 
-Administration of a single dose of ethinyl estradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
+Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
 
 ## 7.3 Topiramate
 

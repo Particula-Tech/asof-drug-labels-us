@@ -23,41 +23,42 @@ Other adverse reactions leading to discontinuation were hallucinations, pneumoni
 Dizziness and injection site pain were observed more frequently at a 100 mg/min infusion rate than at rates up to 33 mg/min.
 At a 200 mg/min rate, dizziness and taste perversion occurred more frequently than at a 100 mg/min rate.
 The maximum rate of infusion studied was 200 mg/min.
+
 Adverse reactions reported by at least 0.5% of all subjects/patients in clinical trials of valproate sodium are summarized in Table 1.
 
 Table 1.
 Adverse Reactions Reported During Studies of Valproate Sodium
 
-| Body System/Reaction | N=463 |
+| Body System/Reaction | N = 463 % |
 | --- | --- |
 | Body as a Whole |  |
-| Chest Pain | 1.7% |
-| Headache | 4.3% |
-| Injection Site Inflammation | 0.6% |
-| Injection Site Pain | 2.6% |
-| Injection Site Reaction | 2.4% |
-| Pain (unspecified) | 1.3% |
+| Headache | 4.3 |
+| Injection Site Pain | 2.6 |
+| Injection Site Reaction | 2.4 |
+| Chest Pain | 1.7 |
+| Pain (unspecified) | 1.3 |
+| Injection Site Inflammation | 0.6 |
 | Cardiovascular |  |
-| Vasodilation | 0.9% |
+| Vasodilation | 0.9 |
 | Dermatologic |  |
-| Sweating | 0.9% |
+| Sweating | 0.9 |
 | Digestive System |  |
-| Abdominal Pain | 1.1% |
-| Diarrhea | 0.9% |
-| Nausea | 3.2% |
-| Vomiting | 1.3% |
+| Nausea | 3.2 |
+| Vomiting | 1.3 |
+| Abdominal Pain | 1.1 |
+| Diarrhea | 0.9 |
 | Nervous System |  |
-| Dizziness | 5.2% |
-| Euphoria | 0.9% |
-| Hypesthesia | 0.6% |
-| Nervousness | 0.9% |
-| Paresthesia | 0.9% |
-| Somnolence | 1.7% |
-| Tremor | 0.6% |
+| Dizziness | 5.2 |
+| Somnolence | 1.7 |
+| Euphoria | 0.9 |
+| Nervousness | 0.9 |
+| Paresthesia | 0.9 |
+| Hypesthesia | 0.6 |
+| Tremor | 0.6 |
 | Respiratory |  |
-| Pharyngitis | 0.6% |
+| Pharyngitis | 0.6 |
 | Special Senses |  |
-| Taste Perversion | 1.9% |
+| Taste Perversion | 1.9 |
 
 In a separate clinical safety trial, 112 patients with epilepsy were given infusions of valproate (up to 15 mg/kg) over 5 to 10 minutes (1.5 to 3 mg/kg/min).
 The common adverse reactions (> 2%) were somnolence (10.7%), dizziness (7.1%), paresthesia (7.1%), asthenia (7.1%), nausea (6.3%), and headache (2.7%).
@@ -79,7 +80,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 2.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex Sodium During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Divalproex Sodium (%)(n=77) | Placebo (%)(n=70) |
+| Body System/Reaction | Divalproex Sodium (n = 77) % | Placebo (n = 70) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -117,26 +118,22 @@ Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of valproate and other antiepilepsy drugs.
 
 Table 3.
-Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures 1
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (%)(n=131) | Low Dose (%)(n=134) |
+| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
-| Asthenia | 21 | 10 |
-| Digestive System |  |  |
+| Asthenia Digestive System | 21 | 10 |
 | Nausea | 34 | 26 |
 | Diarrhea | 23 | 19 |
 | Vomiting | 23 | 15 |
 | Abdominal Pain | 12 | 9 |
 | Anorexia | 11 | 4 |
-| Dyspepsia | 11 | 10 |
-| Hemic/Lymphatic System |  |  |
+| Dyspepsia Hemic/Lymphatic System | 11 | 10 |
 | Thrombocytopenia | 24 | 1 |
-| Ecchymosis | 5 | 4 |
-| Metabolic/Nutritional |  |  |
+| Ecchymosis Metabolic/Nutritional | 5 | 4 |
 | Weight Gain | 9 | 4 |
-| Peripheral Edema | 8 | 3 |
-| Nervous System |  |  |
+| Peripheral Edema Nervous System | 8 | 3 |
 | Tremor | 57 | 19 |
 | Somnolence | 30 | 18 |
 | Dizziness | 18 | 13 |
@@ -144,18 +141,15 @@ Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the C
 | Nervousness | 11 | 7 |
 | Amnesia | 7 | 4 |
 | Nystagmus | 7 | 1 |
-| Depression | 5 | 4 |
-| Respiratory System |  |  |
+| Depression Respiratory System | 5 | 4 |
 | Infection | 20 | 13 |
 | Pharyngitis | 8 | 2 |
-| Dyspnea | 5 | 1 |
-| Skin and Appendages |  |  |
+| Dyspnea Skin and Appendages | 5 | 1 |
 | Alopecia | 24 | 13 |
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-
-1Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group.
+| 1Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
@@ -211,7 +205,7 @@ Digestive System: Dry mouth, stomatitis.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of divalproex sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -220,7 +214,7 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: Paradoxical convulsion.
+Neurologic: Paradoxical convulsion, parkinsonism
 
 There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 

@@ -25,24 +25,22 @@ Equivalent doses of valproate sodium and divalproex sodium yield equivalent plas
 
 Bioavailability
 
-Equivalent doses of intravenous (IV) valproate and oral valproate products are expected to result in equivalent C max, C min, and total systemic exposure to the valproate ion when the IV valproate is administered as a 60 minute infusion.
+Equivalent doses of intravenous (IV) valproate and oral valproate products are expected to result in equivalent Cmax, Cmin, and total systemic exposure to the valproate ion when the IV valproate is administered as a 60 minute infusion.
 However, the rate of valproate ion absorption may vary with the formulation used.
 These differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
-Administration of divalproex sodium tablets and IV valproate (given as a one hour infusion), 250 mg every 6 hours for 4 days to 18 healthy male volunteers resulted in equivalent AUC, C max, C min at steady state, as well as after the first dose.
-The T max after IV valproate sodium occurs at the end of the one hour infusion, while the T max after oral dosing with divalproex sodium occurs at approximately 4 hours.
-Because the kinetics of unbound valproate are linear, bioequivalence between valproate sodium and divalproex sodium up to the maximum recommended dose of
-
-60 mg/kg/day can be assumed.
-The AUC and C max resulting from administration of IV valproate 500 mg as a single one hour infusion and a single 500 mg dose of divalproex sodium syrup to 17 healthy male volunteers were also equivalent.
+Administration of divalproex sodium tablets and IV valproate (given as a one hour infusion), 250 mg every 6 hours for 4 days to 18 healthy male volunteers resulted in equivalent AUC, Cmax, Cmin at steady state, as well as after the first dose.
+The Tmax after IV valproate sodium occurs at the end of the one hour infusion, while the Tmax after oral dosing with divalproex sodium occurs at approximately 4 hours.
+Because the kinetics of unbound valproate are linear, bioequivalence between valproate sodium and divalproex sodium up to the maximum recommended dose of 60 mg/kg/day can be assumed.
+The AUC and Cmax resulting from administration of IV valproate 500 mg as a single one hour infusion and a single 500 mg dose of divalproex sodium syrup to 17 healthy male volunteers were also equivalent.
 
 Patients maintained on valproic acid doses of 750 mg to 4,250 mg daily (given in divided doses every 6 hours) as oral divalproex sodium alone (n = 24) or with another stabilized antiepileptic drug [carbamazepine (n = 15), phenytoin (n = 11), or phenobarbital (n = 1)], showed comparable plasma levels for valproic acid when switching from oral divalproex sodium to IV valproate (1-hour infusion).
 
-Eleven healthy volunteers were given single infusions of 1,000 mg IV valproate over 5, 10, 30, and 60 minutes in a 4 period crossover study.
+Eleven healthy volunteers were given single infusions of 1,000 mg IV valproate over 5, 10, 30, and 60 minutes in a 4‑period crossover study.
 Total valproate concentrations were measured; unbound concentrations were not measured.
-After the 5 minute infusions (mean rate of 2.8 mg/kg/min), mean C max was 145 ± 32 mcg/mL, while after the 60 minute infusions, mean C max was 115 ± 8 mcg/mL.
+After the 5 minute infusions (mean rate of 2.8 mg/kg/min), mean Cmax was 145 ± 32 mcg/mL, while after the 60 minute infusions, mean Cmax was 115 ± 8 mcg/mL.
 Ninety to 120 minutes after infusion initiation, total valproate concentrations were similar for all 4 rates of infusion.
-Because protein binding is nonlinear at higher total valproate concentrations, the corresponding increase in unbound C max at faster infusion rates will be greater.
+Because protein binding is nonlinear at higher total valproate concentrations, the corresponding increase in unbound Cmax at faster infusion rates will be greater.
 
 Distribution
 
@@ -60,7 +58,7 @@ Metabolism
 
 Valproate is metabolized almost entirely by the liver.
 In adult patients on monotherapy, 30 to 50% of an administered dose appears in urine as a glucuronide conjugate.
-Mitochondrial ß-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose.
+Mitochondrial β-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose.
 Usually, less than 15 to 20% of the dose is eliminated by other oxidative mechanisms.
 Less than 3% of an administered dose is excreted unchanged in urine.
 
@@ -69,7 +67,7 @@ The kinetics of unbound drug are linear.
 
 Elimination
 
-Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m 2 and 11 L/1.73 m 2, respectively.
+Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
 Mean terminal half-life for valproate monotherapy after an intravenous infusion of 1,000 mg was 16 ± 3 hours.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
@@ -88,20 +86,19 @@ For example, in one study, the half-life in children under 10 days ranged from 1
 
 Children
 
-Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight
-
-(i.e., mL/min/kg) than do adults.
+Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
 Elderly
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
+
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 
 Effect of Sex
 
-There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m 2, respectively).
+There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m2, respectively).
 
 Effect of Race
 
@@ -112,9 +109,7 @@ Effect of Disease
 Liver Disease
 
 Liver disease impairs the capacity to eliminate valproate.
-In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by
-
-16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
+In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
 Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].

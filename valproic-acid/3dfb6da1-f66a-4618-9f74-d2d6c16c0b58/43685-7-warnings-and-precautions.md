@@ -38,18 +38,18 @@ This older group of patients should be closely monitored during treatment with v
 The drug should be discontinued immediately in the presence of significant hepatic dysfunction, suspected or apparent.
 In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug [see Boxed Warning and Contraindications (4)].
 
-## 5.2 Birth Defects
+## 5.2 Structural Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
-Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in Specific Populations (8.1)].
 
 ## 5.3 Decreased IQ Following in utero Exposure
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
-The largest of these studies 1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
+The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94 to 101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105 to 110]), carbamazepine (105 [95% C.I.
 102 to 108]), and phenytoin (108 [95% C.I.
@@ -61,15 +61,14 @@ Although all of the available studies have methodological limitations, the weigh
 
 In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
-Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
-In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
-
 ## 5.4 Use in Women of Childbearing Potential
 
-Because of the risk to the fetus of decreased IQ and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
-This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)].
 Women should use effective contraception while using valproate.
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of valproate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+
+Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
@@ -99,7 +98,8 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 ## 5.7 Bleeding and Other Hematopoietic Disorders
 
 Valproate is associated with dose-related thrombocytopenia.
-In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 9/L.
+In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
+
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
@@ -143,7 +143,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
 DRESS may be fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
@@ -168,12 +168,12 @@ Dose reductions or discontinuation of valproate should be considered in patients
 
 ## 5.14 Post-traumatic Seizures
 
-A study was conducted to evaluate the effect of IV valproate in the prevention of post-traumatic seizures in patients with acute head injuries.
+A study was conducted to evaluate the effect of IV valproate in the prevention of posttraumatic seizures in patients with acute head injuries.
 Patients were randomly assigned to receive either IV valproate given for one week (followed by oral valproate products for either one or six months per random treatment assignment) or IV phenytoin given for one week (followed by placebo).
 In this study, the incidence of death was found to be higher in the two groups assigned to valproate treatment compared to the rate in those assigned to the IV phenytoin treatment group (13% vs. 8.5%, respectively).
 Many of these patients were critically ill with multiple and/or severe injuries, and evaluation of the causes of death did not suggest any specific drug-related causation.
 Further, in the absence of a concurrent placebo control during the initial week of intravenous therapy, it is impossible to determine if the mortality rate in the patients treated with valproate was greater or less than that expected in a similar group not treated with valproate, or whether the rate seen in the IV phenytoin treated patients was lower than would be expected.
-Nonetheless, until further information is available, it seems prudent not to use valproate sodium in patients with acute head trauma for the prophylaxis of post-traumatic seizures.
+Nonetheless, until further information is available, it seems prudent not to use valproate sodium in patients with acute head trauma for the prophylaxis of posttraumatic seizures.
 
 ## 5.15 Monitoring: Drug Plasma Concentration
 
