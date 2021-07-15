@@ -13,7 +13,7 @@ The clinical significance of these findings is unknown.
 
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in inflammation.
-These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+These anti-inflammatory actions of corticosteroids contribute to their efficacy in the treatment of asthma.
 
 Salmeterol: Salmeterol is a selective LABA.
 In vitro studies show salmeterol to be at least 50 times more selective for beta2‑adrenoceptors than albuterol.
@@ -46,13 +46,13 @@ Four trials were conducted with healthy adult subjects to assess CV effects:
 
 1. Single‑dose crossover trial using 2 inhalations of fluticasone propionate and salmeterol DPI (500/50 mcg) (two times the maximum approved salmeterol dosage for that DPI per dosing interval), fluticasone propionate DPI 500 mcg and salmeterol DPI 50 mcg given concurrently, or fluticasone propionate DPI 500 mcg given alone,
 2. Cumulative dose trial using 50 to 400 mcg of salmeterol DPI (1 time to 8 times the maximum approved salmeterol dosage per dosing interval for that DPI, respectively) given alone, or fluticasone propionate and salmeterol DPI (500/50 mcg),
-3. Repeat‑dose trial for 11 days using 2 inhalations twice daily of fluticasone and salmeterol DPI (250/50 mcg) (two times the maximum approved salmeterol dosage for that DPI per dosing interval), fluticasone propionate DPI 250 mcg, or salmeterol DPI 50 mcg, and
+3. Repeat‑dose trial for 11 days using 2 inhalations twice daily of fluticasone propionate and salmeterol DPI (250/50 mcg) (two times the maximum approved salmeterol dosage for that DPI per dosing interval), fluticasone propionate DPI 250 mcg, or salmeterol DPI 50 mcg, and
 4. Single-dose trial using 5 inhalations of fluticasone propionate and salmeterol DPI (100/50 mcg) (five times the maximum approved salmeterol dosage for that DPI per dosing interval), fluticasone propionate DPI 100 mcg alone, or placebo.
 
 In these trials, no significant differences were observed in the pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given as fluticasone propionate and salmeterol DPI, concurrently with fluticasone propionate from separate inhalers, or as salmeterol alone.
 The systemic pharmacodynamic effects of salmeterol were not altered by the presence of fluticasone propionate in the other fluticasone propionate and salmeterol DPI product.
 
-Other Salmeterol Products inSubjects with Asthma:
+Other Salmeterol Products in Subjects with Asthma:
 
 Inhaled salmeterol, like other beta‑adrenergic agonist drugs, can produce dose‑related CV effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.11, 5.17)].
 The CV effects (heart rate, blood pressure) associated with salmeterol inhalation aerosol occurred with similar frequency, and are of similar type and severity, as those noted following albuterol administration.
@@ -112,7 +112,7 @@ Terminal half-life estimates of fluticasone propionate following oral inhalation
 
 Metabolism
 
-The total clearance of fluticasone propionate is high (average, 1,093 mL/minutes), with renal clearance accounting for less than 0.02% of the total.
+The total clearance of fluticasone propionate is high (average, 1,093 mL/minute), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in humans is the 17β carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite has less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in humans.
@@ -145,11 +145,12 @@ A population pharmacokinetic analysis was performed for fluticasone propionate a
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 AirDuo Digihaler is not approved in pediatric patients younger than 12 years.
 
-Geriatric and Pediatric Patients: No pharmacokinetic studies have been performed with AirDuo Digihaler in pediatric or geriatric patients.
-A subgroup analysis was conducted to compare patients aged 12-17 (n=15) and ≥18 (n=23) years following administration of 232/14 mcg fluticasone propionate/salmeterol MDPI.
+Age: No pharmacokinetic studies have been performed with AirDuo Digihaler in geriatric patients.
+
+Adolescents Aged 12 to 17 Years: A subgroup analysis was conducted to compare patients aged 12 to 17 (n=15) and ≥18 (n=23) years following administration of 232 mcg/14 mcg fluticasone propionate/salmeterol MDPI.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
-Male and Female Patients: A subgroup analysis was conducted to compare male (n=21) and female (n=16) patients following administration of 232/14 mcg fluticasone propionate/salmeterol MDPI.
+Male and Female Patients: A subgroup analysis was conducted to compare male (n=21) and female (n=16) adolescent and adult patients following administration of 232 mcg/14 mcg fluticasone propionate/salmeterol MDPI.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
 Patients with Renal Impairment: The effect of renal impairment of the pharmacokinetics of AirDuo Digihaler has not been evaluated.

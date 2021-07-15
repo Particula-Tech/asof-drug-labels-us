@@ -62,7 +62,7 @@ New Zealand White rabbits were less sensitive since only delayed ossification of
 In two embryo/fetal development studies, pregnant rats received salmeterol by oral administration at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
 Salmeterol produced no maternal toxicity or embryo/fetal effects at doses up to 3500 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
 
-In a peri-and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose 3500 times the MRHDID (on mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
+In a peri- and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose 3500 times the MRHDID (on mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
 
 Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
 
@@ -84,11 +84,15 @@ Oral administration of salmeterol at a dose in lactating rats approximately 2900
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of AirDuo Digihaler in the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA has been established.
-Use of AirDuo Digihaler for this indication was supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
+The safety and effectiveness of AirDuo Digihaler have been established for the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA.
+
+Use of AirDuo Digihaler in pediatric patients aged 12 to 17 years for this indication is supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
 In these trials, 58 adolescents received fluticasone propionate/salmeterol MDPI one inhalation twice daily.
 
-The safety and effectiveness of AirDuo Digihaler in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of AirDuo Digihaler have not been established in pediatric patients younger than 12 years of age for the treatment of asthma.
+Effectiveness was not demonstrated in one adequate and well-controlled study conducted in 211 patients aged 4 to 11 years with persistent asthma on a stable asthma regimen who were treated with fluticasone propionate/salmeterol MDPI 55 mcg/14 mcg one inhalation twice daily.
+
+Effect on Growth
 
 Inhaled corticosteroids, including fluticasone propionate, a component of AirDuo Digihaler, may cause a reduction in growth velocity in adolescents [see Warning and Precautions (5.13)].
 The growth of pediatric patients receiving ICS, including AirDuo Digihaler, should be monitored.
@@ -105,7 +109,7 @@ No overall differences in safety or effectiveness were observed in data collecte
 
 Formal pharmacokinetic studies using AirDuo Digihaler have not been conducted in patients with hepatic impairment.
 However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism [see Clinical Pharmacology (12.3)], impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
-Therefore, patients with hepatic disease should be closely monitored.
+Therefore, patients with hepatic impairment should be closely monitored.
 
 ## 8.7 Renal Impairment
 

@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-Use of LABA as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death [seeSalmeterol Multicenter Asthma Research Trial (SMART)].
+Use of LABA as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
 These findings are considered a class effect of LABA monotherapy.
 When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone [see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists].
@@ -35,7 +35,7 @@ ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
 a Randomized subjects who had taken at least 1 dose of study drug.
 Planned treatment used for analysis.
 
-b Estimated using a Cox proportional hazards model for time to first event with baseline hazardsstratified by each of the 3 trials.
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials.
 
 c Number of subjects with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
 Subjects can have one or more events, but only the first event was counted for analysis.
@@ -73,19 +73,19 @@ When prescribing AirDuo Digihaler, the healthcare provider should also prescribe
 
 When beginning treatment with AirDuo Digihaler, patients who have been taking oral or inhaled, short‑acting beta2‑agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of AIRDUO DIGIHALER and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Avoid Excessive Use of AirDuo Digihaler and Avoid Use with Other Long-Acting Beta2-Agonists
 
 AirDuo Digihaler should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 Patients using AirDuo Digihaler should not use another medicine containing a LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
 
-## 5.4 Local Effects of Inhaled Corticosteroids
+## 5.4 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with fluticasone propionate and salmeterol MDPI.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with AirDuo Digihaler continues, but at times therapy with AirDuo Digihaler may need to be interrupted.
 Advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
 
-## 5.5 Immunosuppression
+## 5.5 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible adolescents or adults using corticosteroids.
@@ -101,6 +101,8 @@ Inhaled corticosteroids should be used with caution, if at all, in patients with
 
 ## 5.6 Transferring Patients from Systemic Corticosteroid Therapy
 
+HPA Suppression/Adrenal Insufficiency
+
 Particular care is needed for patients who are transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic‑pituitary‑adrenal (HPA) function.
 
@@ -115,7 +117,11 @@ Patients requiring systemic corticosteroids should be weaned slowly from systemi
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta‑agonist use, and asthma symptoms should be carefully monitored during withdrawal of systemic corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to AirDuo Digihaler may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
@@ -149,7 +155,7 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 ## 5.11 Cardiovascular and Central Nervous System Effects
 
-Excessive beta‑adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10.2)].
+Excessive beta‑adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10)].
 Therefore, AirDuo Digihaler, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 Salmeterol, a component of AirDuo Digihaler, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.

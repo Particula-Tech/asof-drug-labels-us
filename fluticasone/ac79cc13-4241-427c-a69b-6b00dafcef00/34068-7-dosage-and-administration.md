@@ -1,36 +1,40 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Administration Instructions
+## 2.1 Administration Instructions
 
-Administer AirDuo Digihaler as 1 inhalation twice daily (approximately 12 hours apart at the same time every day) by the orally inhaled route.
-Advise the patient to rinse his/her mouth with water without swallowing after each inhalation.
-
-- AirDuo Digihaler does not require priming.
+- AirDuo Digihaler is for oral inhalation and does not require priming.
 - Do not use AirDuo Digihaler with a spacer or volume holding chamber.
-- Do not use AirDuo Digihaler by other routes.
 - Do not use more than two times every 24 hours.
   More frequent administration or a greater number of daily inhalations (more than one inhalation twice daily) is not recommended as some patients are more likely to experience adverse reactions with higher salmeterol dosages.
-- Avoid the concomitant use of other long acting beta2 adrenergic agonist (LABAs) [see Warnings and Precautions (5.3, 5.11)].
+- Avoid the concomitant use of other long acting beta2-adrenergic agonist (LABAs) [see Warnings and Precautions (5.3, 5.11)].
 
 If asthma symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist should be taken for immediate relief.
 
 ## 2.2 Recommended Dosage
 
+Administer 1 inhalation of AirDuo Digihaler twice daily by oral inhalation (approximately 12 hours apart at the same time every day).
+Rinse the mouth with water without swallowing after each inhalation.
+
+Dosage Selection
+
 The recommended starting dosage for AirDuo Digihaler is based on asthma severity and current inhaled corticosteroid use and strength.
-For example:
 
-- For patients not taking inhaled corticosteroids (ICS) (with less severe asthma): select 55/14 mcg (55 mcg of fluticasone propionate and 14 mcg of salmeterol), administered twice daily.
-- For patients with greater asthma severity, use the higher dosages: either:
-  - 113/14 mcg (113 mcg of fluticasone propionate and 14 mcg of salmeterol), administered twice daily; or
-  - 232/14 mcg (232 mcg of fluticasone propionate and 14 mcg of salmeterol), administered twice daily.
-- For patients switching to AirDuo Digihaler from another inhaled corticosteroid or combination product, select the low (55/14 mcg), medium (113/14 mcg) or high (232/14 mcg) dose strength of AirDuo Digihaler based on the strength of the previous inhaled corticosteroid product, or the strength of the inhaled corticosteroid from a combination product, and disease severity.
+- Patients not taking inhaled corticosteroids (ICS) (with less severe asthma): 1 inhalation of 55 mcg/14 mcg AirDuo Digihaler (55 mcg of fluticasone propionate and 14 mcg of salmeterol) twice daily by oral inhalation.
 
-Improvement in asthma control following AirDuo Digihaler administration can occur within 15 minutes of beginning treatment; although, maximum benefit may not be achieved for 1 week or longer after starting treatment.
+- Patients with greater asthma severity, use the higher dose strengths:
+  - 1 inhalation of 113 mcg/14 mcg AirDuo Digihaler (113 mcg of fluticasone propionate and 14 mcg of salmeterol) twice daily by oral inhalation; or
+  - 1 inhalation of 232 mcg/14 mcg AirDuo Digihaler (232 mcg of fluticasone propionate and 14 mcg of salmeterol) twice daily by oral inhalation.
+- For patients switching to AirDuo Digihaler from another inhaled corticosteroid or combination product:
+  - 1 inhalation of low (55 mcg/14 mcg), medium (113 mcg/14 mcg) or high (232 mcg/14 mcg) AirDuo Digihaler twice daily by oral inhalation based on the strength of the previous inhaled corticosteroid product, or the strength of the inhaled corticosteroid from a combination product, and disease severity.
+- The maximum recommended dosage of AirDuo Digihaler is 232 mcg/14 mcg twice daily.
+
+General Dosing Information
+
+Improvement in asthma control following AirDuo Digihaler administration can occur within 15 minutes of beginning treatment; although maximum benefit may not be achieved for 1 week or longer after starting treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
-For patients who do not respond adequately to the starting dosage after 2 weeks of therapy, consider increasing the strength (replace with a higher strength) to possibly provide additional improvement in asthma control.
-The maximum recommended dosage of AirDuo Digihaler is 232/14 mcg twice daily.
+For patients who do not respond adequately to the starting dose of AirDuo Digihaler after 2 weeks of therapy, consider increasing the strength (replace with higher strength) to possibly provide additional improvement in asthma control.
 
-If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of AirDuo Digihaler with a higher strength, adding additional controller therapies) should be considered.
+If a previously effective dosage regimen fails to provide adequate improvement in asthma control, re-evaluate the therapeutic regimen, including patient compliance and inhaler technique, and consider additional therapeutic options (e.g., increasing the dose of AirDuo Digihaler with a higher strength, adding additional controller therapies).
 After asthma stability has been achieved, it is desirable to titrate to the lowest effective dosage to reduce the risk of adverse reactions.
 
 ## 2.3 Storing and Cleaning the Inhaler

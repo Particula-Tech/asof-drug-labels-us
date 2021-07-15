@@ -6,7 +6,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 55/14
+Digihaler® 55/14
 
 (fluticasone propionate 55 mcg and salmeterol 14 mcg) Inhalation Powder
 
@@ -32,7 +32,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 113/14
+Digihaler® 113/14
 
 (fluticasone propionate 113 mcg and salmeterol 14 mcg) Inhalation Powder
 
@@ -58,7 +58,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 232/14
+Digihaler® 232/14
 
 (fluticasone propionate 232 mcg and salmeterol 14 mcg) Inhalation Powder
 
@@ -84,7 +84,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 55/14
+Digihaler® 55/14
 
 (fluticasone propionate 55 mcg and salmeterol 14 mcg) Inhalation Powder
 
@@ -112,7 +112,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 113/14
+Digihaler® 113/14
 
 (fluticasone propionate 113 mcg and salmeterol 14 mcg) Inhalation Powder
 
@@ -140,7 +140,7 @@ Rx Only
 
 AirDuo®
 
-Digihaler™ 232/14
+Digihaler® 232/14
 
 (fluticasone propionate 232 mcg and salmeterol 14 mcg) Inhalation Powder
 

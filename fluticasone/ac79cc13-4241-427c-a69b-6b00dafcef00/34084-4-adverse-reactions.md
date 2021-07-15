@@ -1,15 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-Use of LABA may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
-
-Systemic and local corticosteroid use may result in the following:
-
-- Candida albicans infection [see Warnings and Precautions (5.4)]
-- Immunosuppression [see Warnings and Precautions (5.5)]
+- Oropharyngeal candidiasis [see Warnings and Precautions (5.4)]
+- Immunosuppression and risk of infections [see Warnings and Precautions (5.5)]
 - Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
+- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
 - Reduction in bone mineral density [see Warnings and Precautions (5.12)]
 - Growth effects in pediatrics [see Warnings and Precautions (5.13)]
 - Glaucoma and cataracts [see Warnings and Precautions (5.14)]
@@ -27,7 +24,7 @@ Table 2 displays the incidence of most common adverse reactions in pooled Trials
 
 Table 2: Adverse Reactions with ≥3% Incidence with Fluticasone Propionate/Salmeterol MDPI, and More Common than Placebo in Subjects with Asthma (Trials 1 and 2)
 
-| Adverse Reaction | fluticasone propionate MDPI55 mcg(n=129)% | fluticasone propionate MDPI113 mcg(n=274)% | fluticasone propionate MDPI232 mcg(n=146)% | fluticasone propionate /salmeterol MDPI 55/14 mcg(n=128)% | fluticasone propionate /salmeterol MDPI 113/14 mcg(n=269)% | fluticasone propionate /salmeterol MDPI232/14 mcg (n=145)% | Placebo (n=273)% |
+| Adverse Reaction | Fluticasone Propionate MDPI55 mcg(n=129)% | Fluticasone Propionate MDPI113 mcg(n=274)% | Fluticasone Propionate MDPI232 mcg(n=146)% | Fluticasone Propionate /Salmeterol MDPI 55/14 mcg(n=128)% | Fluticasone Propionate /Salmeterol MDPI 113/14 mcg(n=269)% | Fluticasone Propionate /Salmeterol MDPI232/14 mcg (n=145)% | Placebo (n=273)% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 5.4 | 5.8 | 4.8 | 8.6 | 4.8 | 6.9 | 4.4 |
 | Oral candidiasis* | 3.1 | 2.9 | 4.8 | 1.6 | 2.2 | 3.4 | 0.7 |
@@ -41,8 +38,7 @@ Other adverse reactions not previously listed (and occurring in <3% of patients 
 
 Sinusitis, oropharyngeal pain, pharyngitis, dizziness, influenza, rhinitis allergic, respiratory tract infection, rhinitis, nasal congestion, abdominal pain upper, myalgia, pain in extremity, dyspepsia, laceration, dermatitis contact, and palpitations.
 
-Long Term Safety Study.
-This was a 26-week, open labeled study of 674 patients previously treated with ICS who were treated twice daily with fluticasone propionate MDPI 113 mcg or 232 mcg; fluticasone propionate/salmeterol MDPI 113/14 mcg or 232/14 mcg; fluticasone propionate inhalation aerosol 110 mcg or 220 mcg; fluticasone propionate and salmeterol inhalation powder (250/50 mcg), or fluticasone propionate and salmeterol inhalation powder (500/50 mcg).
+Long Term Safety Study: This was a 26-week, open labeled study of 674 patients previously treated with ICS who were treated twice daily with fluticasone propionate MDPI 113 mcg or 232 mcg; fluticasone propionate/salmeterol MDPI 113/14 mcg or 232/14 mcg; fluticasone propionate inhalation aerosol 110 mcg or 220 mcg; fluticasone propionate and salmeterol inhalation powder (250/50 mcg), or fluticasone propionate and salmeterol inhalation powder (500/50 mcg).
 The types of adverse reactions were similar to those reported above in placebo-controlled studies.
 
 ## 6.2 Postmarketing Experience

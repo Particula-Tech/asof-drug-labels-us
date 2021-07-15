@@ -1,14 +1,14 @@
 # Instructions for Use
 
-AirDuo Digihaler (ayr´due oh di´ji haye´´ler)
+AirDuo® Digihaler® (ayr´due oh di´ji haye´´ler)
 
 (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
 
-AirDuo Digihaler (ayr´due oh di´ji haye´´ler)
+AirDuo® Digihaler® (ayr´due oh di´ji haye´´ler)
 
 (fluticasone propionate and salmeterol) inhalation powder 113 mcg/14 mcg
 
-AirDuo Digihaler (ayr´due oh di´ji haye´´ler)
+AirDuo® Digihaler® (ayr´due oh di´ji haye´´ler)
 
 (fluticasone propionate and salmeterol) inhalation powder 232 mcg/14 mcg
 
@@ -51,12 +51,13 @@ Important:
   Do not open the cap unless you are ready for your next dose.
 - You will hear a “click” sound when the cap is opened all the way.
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
-- AirDuo Digihaler does not have an activation button or medicine canister.When you open the cap, a dose of AirDuo Digihaler will be activated for delivery of the medicine.
+- AirDuo Digihaler does not have an activation button or medicine canister.
+  When you open the cap, a dose of AirDuo Digihaler will be activated for delivery of the medicine.
 - AirDuo Digihaler does not need to be wirelessly connected to the mobile application (App) in order for it to work and for you to take your medicine.
 - Do not use a spacer or volume holding chamber with AirDuo Digihaler.
   AirDuo Digihaler does not need priming.
 
-Using your AirDuo Digihaler Inhaler:
+Using your AirDuo Digihaler inhaler:
 
 Important: Make sure the cap is closed before you start using your inhaler.
 
@@ -71,7 +72,8 @@ Figure C
 
 Remember:
 
-- For the correct use of AirDuo Digihaler, hold the inhaler upright as you open the yellow cap.See Figure D.
+- For the correct use of AirDuo Digihaler, hold the inhaler upright as you open the yellow cap.
+  See Figure D.
 - Do not hold the inhaler in any other way as you open the yellow cap.
 - Do not open the yellow cap until you are ready to take a dose of AirDuo Digihaler.
 
@@ -141,7 +143,8 @@ Replacing your AirDuo Digihaler inhaler
 
 Important information
 
-- Do not open the yellow cap unless you are taking a dose.Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
+- Do not open the yellow cap unless you are taking a dose.
+  Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
 - Your AirDuo Digihaler inhaler contains dry powder so it is important that you do not blow or breathe into it.
 
 Support
@@ -157,8 +160,15 @@ These Instructions for Use have been approved by the U.S. Food and Drug Administ
 
 The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ã2019, Teva Respiratory, LLC; All rights reserved.
+Distributed by:
 
-AIRDDHIFU-001
+Teva Pharmaceuticals USA, Inc.
 
-Rev.July 2019
+Parsippany, NJ 07054
+
+©2021, Teva Respiratory, LLC.
+All rights reserved.
+
+AIRDDHIFU-002
+
+Revised: July 2021

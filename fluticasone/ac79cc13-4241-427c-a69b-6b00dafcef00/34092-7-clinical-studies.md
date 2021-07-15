@@ -32,13 +32,13 @@ Fluticasone propionate/salmeterol xinafoate MDPI 118/13.2 mcg had similar clinic
 
 Figure 2: Mean Baseline Adjusted FEV1 (mL) over 12 Hours (FAS)a
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate/salmeterol inhalation powder.
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate/salmeterol inhalation powder.
 
 ## 14.2 Trials in the Treatment of Asthma
 
 Adult and Adolescent Patients Aged 12 Years and Older:
 
-Two 12-week randomized, double-blind, placebo-control, parallel-group, global Phase 3 clinical trials (Trials 1 and 2) were conducted in 1375 adult and adolescent patients (aged 12 years and older, with baseline FEV1 40% to 85% of predicted normal) with asthma that was not optimally controlled on their current therapy.
+Two 12-week randomized, double-blind, placebo-controlled, parallel-group, global clinical trials (Trials 1 and 2) were conducted in 1375 adult and adolescent patients (aged 12 years and older, with baseline FEV1 40% to 85% of predicted normal) with asthma that was not optimally controlled on their current therapy.
 Patients were randomized to receive 1 inhalation twice a day of fluticasone propionate and salmeterol inhalation powder (referred to as fluticasone propionate/salmeterol MDPI), fluticasone propionate MDPI alone, or placebo.
 Maintenance asthma therapies were discontinued at randomization.
 
@@ -59,9 +59,9 @@ Patients in both fluticasone propionate/salmeterol MDPI treatment groups had sig
 
 - Fluticasone propionate/salmeterol MDPI 113/14 mcg: LS mean change of 0.315 L at 12 weeks
 - Fluticasone propionate/salmeterol MDPI 55/14 mcg: LS mean change of 0.319 L at 12 weeks
-- Fluticasone propionate MDPI 113 mcg:LS mean change of 0.204 L at 12 weeks
-- Fluticasone propionate MDPI 55 mcg:LS mean change of 0.172 L at 12 weeks
-- Placebo:LS mean change of 0.053 L at 12 weeks
+- Fluticasone propionate MDPI 113 mcg: LS mean change of 0.204 L at 12 weeks
+- Fluticasone propionate MDPI 55 mcg: LS mean change of 0.172 L at 12 weeks
+- Placebo: LS mean change of 0.053 L at 12 weeks
 
 The estimated mean differences between:
 
@@ -72,12 +72,12 @@ The estimated mean differences between:
 
 In addition, the mean FEV1 results at each visit are displayed in Figure 3.
 
-Figure 3: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
+Figure 3: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1 (FAS)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
 
 Supportive evidence of efficacy for fluticasone propionate/salmeterol MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and total daily use of rescue medication.
-The Asthma Quality of Life Questionnaire (AQLQ) for patients age ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12-17 were assessed in Trial 1.
+The Asthma Quality of Life Questionnaire (AQLQ) for patients aged ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12-17 were assessed in Trial 1.
 The responder rate for both measures was defined as an improvement in score of 0.5 or more as threshold.
 In Trial 1, the responder rate for patients receiving fluticasone propionate/salmeterol MDPI 55/14 mcg and fluticasone propionate/salmeterol MDPI 113/14 mcg was 51% and 57%, respectively, compared to 40% for patients receiving placebo, with an odds ratio of 1.53 (95% CI: 0.93, 2.55) and 2.04 (95% CI: 1.23, 3.41), respectively.
 
@@ -90,11 +90,11 @@ No diminution in the 12 hour bronchodilator effect was observed with either flut
 
 Figure 4: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler;FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
 
 Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
 
 Trial 2: In this trial, adolescents and adult patients with persistent symptomatic asthma despite inhaled corticosteroid (ICS) or ICS/LABA therapy were included.
 After completing a run-in period where patients were treated with single-blind fluticasone propionate MDPI 55 mcg twice daily replacing their current asthma therapy, patients who met the randomization criteria were randomized to 1 inhalation twice a day of the following treatments:
@@ -125,11 +125,11 @@ Estimated mean differences between:
 - Fluticasone propionate/salmeterol MDPI 232/14 mcg and fluticasone propionate MDPI 232 mcg was 0.093 L (95% CI: 0.009, 0.178).
 - Fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate MDPI 113 mcg was 0.152 L (95% CI: 0.066, 0.237).
 
-In addition, the mean FEV1 results at each visit are displayed in Figure 6
+In addition, the mean FEV1 results at each visit are displayed in Figure 6.
 
 Figure 6: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
 
 Supportive evidence of efficacy for fluticasone propionate/salmeterol MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and total daily use of rescue medication.
 There were fewer withdrawals due to worsening asthma in patients treated with fluticasone propionate/salmeterol MDPI than with placebo.
@@ -145,8 +145,8 @@ No diminution in the 12 hour bronchodilator effect was observed with either flut
 
 Figure 7: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
 
 Figure 8: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler; FP MDPI = fluticasone propionate multidose dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; Placebo = placebo MDPI
