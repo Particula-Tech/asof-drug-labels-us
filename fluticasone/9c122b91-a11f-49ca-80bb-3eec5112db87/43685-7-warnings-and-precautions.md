@@ -73,19 +73,19 @@ When prescribing AIRDUO RESPICLICK, the healthcare provider should also prescrib
 
 When beginning treatment with AIRDUO RESPICLICK, patients who have been taking oral or inhaled, short‑acting beta2‑agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of AIRDUO RESPICLICK and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Avoid Excessive Use of AIRDUO RESPICLICK and Avoid Use with Other Long-Acting Beta2-Agonists
 
 AIRDUO RESPICLICK should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 Patients using AIRDUO RESPICLICK should not use another medicine containing a LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
 
-## 5.4 Local Effects of Inhaled Corticosteroids
+## 5.4 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with AIRDUO RESPICLICK.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with AIRDUO RESPICLICK continues, but at times therapy with AIRDUO RESPICLICK may need to be interrupted.
 Advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
 
-## 5.5 Immunosuppression
+## 5.5 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible adolescents or adults using corticosteroids.
@@ -101,6 +101,8 @@ Inhaled corticosteroids should be used with caution, if at all, in patients with
 
 ## 5.6 Transferring Patients from Systemic Corticosteroid Therapy
 
+HPA Suppression/Adrenal Insufficiency
+
 Particular care is needed for patients who are transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic‑pituitary‑adrenal (HPA) function.
 
@@ -115,7 +117,11 @@ Patients requiring systemic corticosteroids should be weaned slowly from systemi
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta‑agonist use, and asthma symptoms should be carefully monitored during withdrawal of systemic corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to AIRDUO RESPICLICK may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 

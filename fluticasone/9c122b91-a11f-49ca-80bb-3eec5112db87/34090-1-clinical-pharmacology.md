@@ -136,11 +136,12 @@ A population pharmacokinetic analysis was performed for fluticasone propionate a
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 AIRDUO RESPICLICK is not approved in pediatric patients younger than 12 years.
 
-Geriatric and Pediatric Patients: No pharmacokinetic studies have been performed with AIRDUO RESPICLICK in pediatric or geriatric patients.
-A subgroup analysis was conducted to compare patients aged 12-17 (n=15) and ≥18 (n=23) years following administration of 232 mcg/14 mcg AIRDUO RESPICLICK.
+Age: No pharmacokinetic studies have been performed with AIRDUO RESPICLICK in geriatric patients.
+
+Adolescents Aged 12 to 17 Years: A subgroup analysis was conducted to compare patients aged 12 to 17 (n=15) and ≥18 (n=23) years following administration of 232 mcg/14 mcg AIRDUO RESPICLICK.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
-Male and Female Patients: A subgroup analysis was conducted to compare male (n=21) and female (n=16) patients following administration of 232 mcg/14 mcg AIRDUO RESPICLICK.
+Male and Female Patients: A subgroup analysis was conducted to compare male (n=21) and female (n=16) adolescent and adult patients following administration of 232 mcg/14 mcg AIRDUO RESPICLICK.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
 Patients with Renal Impairment: The effect of renal impairment of the pharmacokinetics of AIRDUO RESPICLICK has not been evaluated.
@@ -160,7 +161,7 @@ The population pharmacokinetic analysis from 9 controlled clinical trials in 350
 
 Strong CYP3A4 Inhibitors: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and ritonavir, a strong CYP3A4 inhibitor, is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects [see Drug Interactions (7.1)].
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC0-τ averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC0-τ averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
 However, the fluticasone propionate Cmax and AUC0-τ increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after 7 days of coadministration of ritonavir (100 mg twice daily) with fluticasone propionate aqueous nasal spray (200 mcg once daily).
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 

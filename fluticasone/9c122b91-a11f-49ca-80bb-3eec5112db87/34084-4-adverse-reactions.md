@@ -1,15 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-Use of LABA may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
-
-Systemic and local corticosteroid use may result in the following:
-
-- Candida albicans infection [see Warnings and Precautions (5.4)]
-- Immunosuppression [see Warnings and Precautions (5.5)]
+- Oropharyngeal candidiasis [see Warnings and Precautions (5.4)]
+- Immunosuppression and risk of infections [see Warnings and Precautions (5.5)]
 - Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
+- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
 - Reduction in bone mineral density [see Warnings and Precautions (5.12)]
 - Growth effects in pediatrics [see Warnings and Precautions (5.13)]
 - Glaucoma and cataracts [see Warnings and Precautions (5.14)]
@@ -18,7 +15,7 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In two placebo-controlled, 12-week, clinical studies (Trials 1 and 2) [see Clinical Studies (14)], a total of 1,364 adolescent and adult patients with persistent symptomatic asthma despite ICS or ICS/LABA therapy were treated twice daily with either placebo; fluticasone propionate MDPI 55 mcg, 113 mcg or 232 mcg (ARMONAIR RESPICLICK, hereafter referred to as fluticasone propionate MDPI); or AIRDUO RESPICLICK 55 mcg/14 mcg, 113 mcg/14 mcg, or 232 mcg/14 mcg.
+In two placebo-controlled, 12-week, clinical studies (Trials 1 and 2) [see Clinical Studies (14)], a total of 1,364 adolescent and adult patients with persistent symptomatic asthma despite ICS or ICS/LABA therapy were treated twice daily with either placebo; fluticasone propionate MDPI 55 mcg, 113 mcg, or 232 mcg (ARMONAIR RESPICLICK, hereafter referred to as fluticasone propionate MDPI); or AIRDUO RESPICLICK 55 mcg/14 mcg, 113 mcg/14 mcg, or 232 mcg/14 mcg.
 Sixty percent of patients were female and 80% of patients were white.
 The average duration of exposure was 82 to 84 days in the fluticasone propionate MDPI and AIRDUO RESPICLICK treatment groups compared with 75 days in the placebo group.
 Table 2 displays the incidence of most common adverse reactions in pooled Trials 1 and 2.
@@ -39,9 +36,8 @@ Other adverse reactions not previously listed (and occurring in <3% of patients 
 
 Sinusitis, oropharyngeal pain, pharyngitis, dizziness, influenza, rhinitis allergic, respiratory tract infection, rhinitis, nasal congestion, abdominal pain upper, myalgia, pain in extremity, dyspepsia, laceration, dermatitis contact, and palpitations.
 
-Long Term Safety Study.
-This was a 26-week, open labeled study of 674 patients previously treated with ICS who were treated twice daily with fluticasone propionate MDPI 113 mcg or 232 mcg; AIRDUO RESPICLICK 113 mcg/14 mcg or 232 mcg/14 mcg; fluticasone propionate inhalation aerosol 110 mcg and 220 mcg; fluticasone propionate and salmeterol inhalation powder (250 mcg/50 mcg), or fluticasone propionate and salmeterol inhalation powder (500 mcg/50 mcg).
-The types of adverse reactions were similar to those reported above in placebo controlled studies.
+Long Term Safety Study: This was a 26-week, open labeled study of 674 patients previously treated with ICS who were treated twice daily with fluticasone propionate MDPI 113 mcg or 232 mcg; AIRDUO RESPICLICK 113 mcg/14 mcg or 232 mcg/14 mcg; fluticasone propionate inhalation aerosol 110 mcg or 220 mcg; fluticasone propionate and salmeterol inhalation powder (250 mcg/50 mcg), or fluticasone propionate and salmeterol inhalation powder (500 mcg/50 mcg).
+The types of adverse reactions were similar to those reported above in placebo-controlled studies.
 
 ## 6.2 Postmarketing Experience
 

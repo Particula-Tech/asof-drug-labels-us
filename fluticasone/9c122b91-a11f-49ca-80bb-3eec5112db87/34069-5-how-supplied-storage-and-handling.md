@@ -1,10 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-AIRDUO RESPICLICK is supplied in the following three strengths as a white, multi-dose, dry-powder inhaler (MDPI).
-Each inhaler has a yellow cap and is packaged individually in a foil pouch in a carton.
-Each inhaler contains 0.45grams of the formulation and provides 60 actuations:
+AIRDUO RESPICLICK inhalation powder:
+
+- a multidose, dry-powder inhaler (MDPI)
+- each inhaler is white, has a yellow cap and is packaged individually in a foil pouch with a dessicant, each pouch is packed in a carton
+- each inhaler contains 0.45 grams of the formulation and provides 60 actuations
+- available in 3 strengths
 
 | STRENGTH | NDC CODE |
 | --- | --- |
@@ -17,7 +20,7 @@ Patients should never try to alter the numbers for the dose counter.
 Discard the inhaler when the counter displays 0, 30 days after opening the foil pouch or after the expiration date on the product, whichever comes first.
 The labeled amount of medication in each actuation cannot be assured after the counter displays 0, even though the inhaler is not completely empty and will continue to operate [see Patient Counseling Information (17)].
 
-## 16.2 Storage and Handling
+Storage and Handling
 
 Store at room temperature (between 15ºC and 25ºC; 59ºF and 77ºF) in a dry place; excursions permitted from 59º F to 86º F (15ºC to 30ºC).
 Avoid exposure to extreme heat, cold, or humidity.

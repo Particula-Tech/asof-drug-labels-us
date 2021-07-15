@@ -1,10 +1,12 @@
-Instructions for Use
+# Instructions for Use
 
-AIRDUO RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
+AIRDUO® RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
 
-AIRDUO RESPICLICK (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 113 mcg/14 mcg
+AIRDUO® RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 113 mcg/14 mcg
 
-AIRDUO RESPICLICK (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 232 mcg/14 mcg for oral inhalation use
+AIRDUO® RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 232 mcg/14 mcg
+
+for oral inhalation use
 
 Your AIRDUO RESPICLICK Inhaler
 
@@ -38,7 +40,7 @@ Important:
 - You will hear a “click” sound when the cap is opened all the way.
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
 - AIRDUO RESPICLICK does not have an activation button or medicine canister.
-  When you open the cap, a dose of AIRDUO will be activated for delivery of the medicine.
+  When you open the cap, a dose of AIRDUO RESPICLICK will be activated for delivery of the medicine.
 - Do not use a spacer or volume holding chamber with AIRDUO RESPICLICK.
   AIRDUO RESPICLICK does not need priming.
 
@@ -52,7 +54,7 @@ Open
 Figure C
 
 - Hold the inhaler upright and open the yellow cap all the way until it “clicks”.
-  See Figure C
+  See Figure C.
 - Each time you open the yellow cap and it “clicks”, 1 dose of AIRDUO RESPICLICK is ready to be inhaled.
 
 Remember:
@@ -136,12 +138,13 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Distributed by:
 
-©2020, Teva Respiratory, LLC.
+Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+
+©2021 Teva Respiratory, LLC.
 All rights reserved.
 
-AIRDIFU-005
+AIRDIFU-006
 
-Rev.
-February 2020
+Revised: July 2021

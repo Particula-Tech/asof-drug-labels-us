@@ -1,10 +1,12 @@
+# Package/Label Display Panel
+
 TEVA
 
 NDC 59310-805-06
 
 Rx Only
 
-AirDuo™
+AirDuo®
 
 RespiClick® 55/14
 
@@ -32,13 +34,15 @@ information on product use and handling.
 
 ATTENTION: Dispense with enclosed Medication Guide.
 
+# Package/Label Display Panel
+
 TEVA
 
 NDC 59310-812-06
 
 Rx Only
 
-AirDuo™
+AirDuo®
 
 RespiClick® 113/14
 
@@ -66,13 +70,15 @@ information on product use and handling.
 
 ATTENTION: Dispense with enclosed Medication Guide.
 
+# Package/Label Display Panel
+
 TEVA
 
 NDC 59310-822-06
 
 Rx Only
 
-AirDuo™
+AirDuo®
 
 RespiClick® 232/14
 
