@@ -30,11 +30,13 @@ The exposure-response relationship and time course of pharmacodynamics of DARZAL
 
 ## 12.3 Pharmacokinetics
 
-Following the recommended dose of DARZALEX FASPRO 1,800 mg/30,000 units, Cmax increased 4.8-fold and AUC0–7 days increased 5.4-fold from the 1st dose to the 8th dose.
+Following the recommended dose of DARZALEX FASPRO 1,800 mg/30,000 units subcutaneously once weekly for 8 weeks, daratumumab peak concentration (Cmax) increased 4.8-fold and area under the curve (AUC0–7 days) increased 5.4-fold from the 1st dose to the 8th dose as monotherapy.
+Maximum trough concentrations for DARZALEX FASPRO are typically observed at the end of the weekly dosing regimens for both monotherapy and combination therapies.
+The mean ± standard deviation (SD) maximum trough serum concentration (Ctrough) after the 8th dose was 593 ± 306 µg/mL when DARZALEX FASPRO was administered as monotherapy and 537 ± 277 µg/mL and 526 ± 226 µg/mL when DARZALEX FASPRO was administered as combination with Pd and Rd, respectively.
 
-Table 14 lists the observed mean (±SD) maximum trough concentrations (Ctrough) after the 8th dose, simulated median (5th–95th percentiles) maximum Ctrough after the 8th dose, simulated median (5th–95th percentiles) Cmax after the 8th dose, and simulated median (5th–95th percentiles) area under the curve (AUC0–7day) after the 8th dose following DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously or daratumumab 16 mg/kg administered intravenously in patients with multiple myeloma or light chain (AL) amyloidosis.
+Table 16 lists the observed mean (±SD) maximum trough concentrations (Ctrough) after the 8th dose, simulated median (5th–95th percentiles) maximum Ctrough after the 8th dose, simulated median (5th–95th percentiles) Cmax after the 8th dose, and simulated median (5th–95th percentiles) area under the curve (AUC0–7day) after the 8th dose following DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously or daratumumab 16 mg/kg administered intravenously in patients with multiple myeloma or light chain (AL) amyloidosis.
 
-Table 14: Daratumumab Exposure for Patients with Multiple Myeloma or Light Chain (AL) Amyloidosis
+Table 16: Daratumumab Exposure for Patients with Multiple Myeloma or Light Chain (AL) Amyloidosis
 
 | Parameter | Intravenous Daratumumab 16 mg/kg in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in Patients with Light Chain (AL) Amyloidosis |
 | --- | --- | --- | --- |

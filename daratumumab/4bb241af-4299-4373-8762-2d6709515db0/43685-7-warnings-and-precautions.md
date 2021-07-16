@@ -3,13 +3,14 @@
 ## 5.1 Hypersensitivity and Other Administration Reactions
 
 Both systemic administration-related reactions, including severe or life-threatening reactions, and local injection-site reactions can occur with DARZALEX FASPRO.
+Fatal reactions have been reported with daratumumab-containing products, including DARZALEX FASPRO [see Adverse Reactions (6.3)].
 
 Systemic Reactions
 
-In a pooled safety population of 683 patients with multiple myeloma (N=490) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 10% of patients experienced a systemic administration-related reaction (Grade 2: 3.5%, Grade 3: 1%).
-Systemic administration-related reactions occurred in 9% of patients with the first injection, 0.4% with the second injection, and cumulatively 1% with subsequent injections.
+In a pooled safety population of 832 patients with multiple myeloma (N=639) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 9% of patients experienced a systemic administration-related reaction (Grade 2: 3.5%, Grade 3: 0.8%).
+Systemic administration-related reactions occurred in 8% of patients with the first injection, 0.4% with the second injection, and cumulatively 1% with subsequent injections.
 The median time to onset was 3.2 hours (range: 9 minutes to 3.5 days).
-Of the 117 systemic administration-related reactions that occurred in 66 patients, 100 (85%) occurred on the day of DARZALEX FASPRO administration.
+Of the 129 systemic administration-related reactions that occurred in 74 patients, 110 (85%) occurred on the day of DARZALEX FASPRO administration.
 Delayed systemic administration-related reactions have occurred in 1% of the patients.
 
 Severe reactions included hypoxia, dyspnea, hypertension and tachycardia.
@@ -22,9 +23,9 @@ Consider administering corticosteroids and other medications after the administr
 
 Local Reactions
 
-In this pooled safety population, injection-site reactions occurred in 9% of patients, including Grade 2 reactions in 0.7%.
+In this pooled safety population, injection-site reactions occurred in 8% of patients, including Grade 2 reactions in 0.6%.
 The most frequent (>1%) injection-site reaction was injection site erythema.
-These local reactions occurred a median of 5 minutes (range: 0 minutes to 4.7 days) after starting administration of DARZALEX FASPRO.
+These local reactions occurred a median of 5.5 minutes (range: 0 minutes to 6.5 days) after starting administration of DARZALEX FASPRO.
 Monitor for local reactions and consider symptomatic management.
 
 ## 5.2 Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis
@@ -59,8 +60,8 @@ DARZALEX FASPRO may cause depletion of fetal immune cells and decreased bone den
 Advise pregnant women of the potential risk to a fetus.
 Advise females with reproductive potential to use effective contraception during treatment with DARZALEX FASPRO and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
-The combination of DARZALEX FASPRO with lenalidomide or thalidomide is contraindicated in pregnant women, because lenalidomide and thalidomide may cause birth defects and death of the unborn child.
-Refer to the lenalidomide or thalidomide prescribing information on use during pregnancy.
+The combination of DARZALEX FASPRO with lenalidomide, thalidomide or pomalidomide is contraindicated in pregnant women, because lenalidomide, thalidomide or pomalidomide may cause birth defects and death of the unborn child.
+Refer to the lenalidomide, thalidomide or pomalidomide prescribing information on use during pregnancy.
 
 ## 5.6 Interference with Serological Testing
 

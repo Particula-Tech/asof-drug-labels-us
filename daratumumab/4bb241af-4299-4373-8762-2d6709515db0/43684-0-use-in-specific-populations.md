@@ -13,9 +13,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-The combination of DARZALEX FASPRO and lenalidomide or thalidomide is contraindicated in pregnant women, because lenalidomide and thalidomide may cause birth defects and death of the unborn child.
-Lenalidomide and thalidomide are only available through a REMS program.
-Refer to the lenalidomide or thalidomide prescribing information on use during pregnancy.
+The combination of DARZALEX FASPRO and lenalidomide, thalidomide or pomalidomide is contraindicated in pregnant women, because lenalidomide, thalidomide and pomalidomide may cause birth defects and death of the unborn child.
+Lenalidomide, thalidomide and pomalidomide are only available through a REMS program.
+Refer to the lenalidomide, thalidomide or pomalidomide prescribing information on use during pregnancy.
 
 Clinical Considerations
 
@@ -44,8 +44,8 @@ Risk Summary
 There is no data on the presence of daratumumab and hyaluronidase in human milk, the effects on the breastfed child, or the effects on milk production.
 Maternal immunoglobulin G is known to be present in human milk.
 Published data suggest that antibodies in breast milk do not enter the neonatal and infant circulations in substantial amounts.
-Because of the potential for serious adverse reactions in the breastfed child when DARZALEX FASPRO is administered with lenalidomide or thalidomide and dexamethasone, advise women not to breastfeed during treatment with DARZALEX FASPRO.
-Refer to lenalidomide or thalidomide prescribing information for additional information.
+Because of the potential for serious adverse reactions in the breastfed child when DARZALEX FASPRO is administered with lenalidomide, thalidomide or pomalidomide, advise women not to breastfeed during treatment with DARZALEX FASPRO.
+Refer to lenalidomide, thalidomide or pomalidomide prescribing information for additional information.
 
 Data
 
@@ -59,12 +59,12 @@ DARZALEX FASPRO can cause fetal harm when administered to a pregnant woman [see 
 
 Pregnancy Testing
 
-With the combination of DARZALEX FASPRO with lenalidomide or thalidomide, refer to the lenalidomide or thalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
+With the combination of DARZALEX FASPRO with lenalidomide, thalidomide or pomalidomide, refer to the lenalidomide, thalidomide or pomalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
 
 Contraception
 
 Advise females of reproductive potential to use effective contraception during treatment with DARZALEX FASPRO and for 3 months after the last dose.
-Additionally, refer to the lenalidomide or thalidomide labeling for additional recommendations for contraception.
+Additionally, refer to the lenalidomide, thalidomide or pomalidomide labeling for additional recommendations for contraception.
 
 ## 8.4 Pediatric Use
 
@@ -77,7 +77,10 @@ No overall differences in effectiveness of DARZALEX FASPRO have been observed be
 Adverse reactions that occurred at a higher frequency (≥5% difference) in patients ≥65 years of age included upper respiratory tract infection, urinary tract infection, dizziness, cough, dyspnea, diarrhea, nausea, fatigue, and peripheral edema.
 Serious adverse reactions that occurred at a higher frequency (≥2% difference) in patients ≥65 years of age included pneumonia.
 
-Clinical studies of DARZALEX FASPRO as part of a combination therapy for patients with multiple myeloma did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Of the 214 patients who received DARZALEX FASPRO as combination therapy with pomalidomide and dexamethasone or DARZALEX FASPRO as combination therapy with lenalidomide and low-dose dexamethasone for relapsed and refractory multiple myeloma, 43% were 65 to <75 years of age, and 18% were 75 years of age or older.
+No overall differences in effectiveness were observed between patients ≥65 years (n=131) and <65 years (n=85).
+Adverse reactions occurring at a higher frequency (≥5% difference) in patients ≥65 years of age included fatigue, pyrexia, peripheral edema, urinary tract infection, diarrhea, constipation, vomiting, dyspnea, cough, and hyperglycemia.
+Serious adverse reactions occurring at a higher frequency (≥2% difference) in patients ≥65 years of age included neutropenia, thrombocytopenia, diarrhea, anemia, COVID-19, ischemic colitis, deep vein thrombosis, general physical health deterioration, pulmonary embolism, and urinary tract infection.
 
 Of the 193 patients who received DARZALEX FASPRO as part of a combination therapy for light chain (AL) amyloidosis, 35% were 65 to <75 years of age, and 10% were 75 years of age or older.
 Clinical studies of DARZALEX FASPRO as part of a combination therapy for patients with light chain (AL) amyloidosis did not include sufficient numbers of patients aged 65 and older to determine whether effectiveness differs from that of younger patients.

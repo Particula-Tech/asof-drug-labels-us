@@ -11,14 +11,15 @@
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
 Tables 1, 2, 3, and 4 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
 
-Monotherapy and In Combination with Lenalidomide and Dexamethasone (D-Rd)
+Monotherapy and In Combination with Lenalidomide (DARZALEX FASPRO-Rd) or Pomalidomide (DARZALEX FASPRO-Pd) and Dexamethasone
 
 Use the dosing schedule provided in Table 1 when DARZALEX FASPRO is administered:
 
 - in combination with lenalidomide and dexamethasone (4-week cycle) OR
+- in combination with pomalidomide and dexamethasone (4-week cycle) OR
 - as monotherapy.
 
-Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide and dexamethasone (4-week cycle) and for monotherapy
+Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide or pomalidomide and dexamethasone (4-week cycle) and for monotherapy
 
 | Weeks | Schedule |
 | --- | --- |
@@ -28,7 +29,7 @@ Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide and de
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2) and the prescribing information for dosage recommendations for the other drugs.
 
-In Combination with Bortezomib, Melphalan and Prednisone (D-VMP)
+In Combination with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP)
 
 Use the dosing schedule provided in Table 2 when DARZALEX FASPRO is administered in combination with bortezomib, melphalan and prednisone (6-week cycle).
 
@@ -42,7 +43,7 @@ Table 2: DARZALEX FASPRO dosing schedule in combination with bortezomib, melphal
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
-In Combination with Bortezomib, Thalidomide, and Dexamethasone (D-VTd)
+In Combination with Bortezomib, Thalidomide, and Dexamethasone (DARZALEX FASPRO-VTd)
 
 Use the dosing schedule in Table 3 when DARZALEX FASPRO is administered in combination with bortezomib, thalidomide, and dexamethasone (4-week cycle).
 
@@ -57,7 +58,7 @@ Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib, thalido
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
-In Combination with Bortezomib and Dexamethasone (D-Vd)
+In Combination with Bortezomib and Dexamethasone (DARZALEX FASPRO-Vd)
 
 Use the dosing schedule in Table 4 when DARZALEX FASPRO is administered in combination with bortezomib and dexamethasone (3-week cycle).
 
@@ -73,7 +74,7 @@ When DARZALEX FASPRO is administered as part of a combination therapy, see the p
 
 ## 2.3 Recommended Dosage for Light Chain Amyloidosis
 
-In Combination with Bortezomib, Cyclophosphamide and Dexamethasone (D-VCd)
+In Combination with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd)
 
 Use the dosing schedule provided in Table 5 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
 
