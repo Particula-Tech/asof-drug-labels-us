@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208079"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Primus Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68040-714-99"
+  ],
+  "products": [
+    {
+      "form": "Spray",
+      "generic": "betamethasone dipropionate",
+      "name": "Sernivo"
+    }
+  ],
+  "setid": "b1b3d1b0-da9b-11eb-ad76-0800200c9a66",
+  "source": "dailymed"
+}
