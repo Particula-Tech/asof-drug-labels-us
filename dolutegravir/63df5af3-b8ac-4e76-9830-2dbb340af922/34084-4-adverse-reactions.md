@@ -66,9 +66,11 @@ The rate of adverse events leading to discontinuation was 4% of subjects at Week
 
 Treatment‑emergent adverse reactions in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
 
-Virologically Suppressed Subjects: The adverse reactions observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV-1–infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine, were consistent with the adverse reaction profiles and severities for the individual components when administered with other antiretroviral agents.
-There were no adverse reactions (Grades 2 to 4) with an incidence of at least 2% in either treatment arm.
-The rates of adverse events leading to discontinuation were 4% in subjects receiving TIVICAY plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
+Virologically Suppressed Subjects: The adverse reactions observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV-1–infected, virologically suppressed subjects switching from their current antiretroviral regimen to TIVICAY plus rilpivirine, were consistent with the adverse reaction profiles and severities for the individual components when administered with other antiretroviral agents.
+There were no adverse reactions (Grades 2 to 4) with an incidence of at least 2% in either treatment arm at Week 48.
+The safety profile during the additional follow-up period through Week 148 were consistent with Week 48.
+The rate of adverse events leading to discontinuation through Week 48 was 4% in subjects receiving TIVICAY plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
+In the pooled analyses, the proportion of subjects receiving TIVICAY plus rilpivirine who discontinued treatment due to an adverse event through Week 148 was 8%.
 
 Less Common Adverse Reactions Observed in Treatment-Naïve and Treatment-Experienced Trials: The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects receiving TIVICAY in a combination regimen in any one trial.
 These events have been included because of their seriousness and assessment of potential causal relationship.

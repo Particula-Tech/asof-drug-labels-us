@@ -40,7 +40,7 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at 
 | --- | --- | --- | --- | --- |
 | TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
 | HIV-1 RNA <50 copies/mL | 82% | 78% | 71% | 63% |
-| Treatment differencea | 4.9% (95% CI: -0.6%, 10.3%)d |  | 8.3% (95% CI: 2.0%, 14.6%)e |  |
+| Treatment differencea | 4.9% (95% CI: -0.6%, 10.3%)b |  | 8.3% (95% CI: 2.0%, 14.6%)c |  |
 | Virologic nonresponse | 5% | 10% | 10% | 7% |
 | Data in window not <50 copies/mL | 1% | 3% | 4% | <1% |
 | Discontinued for lack of efficacy | 2% | 3% | 3% | 3% |
@@ -48,8 +48,8 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at 
 | Change in ART regimen | <1% | <1% | 0 | 0 |
 | No virologic data | 12% | 12% | 18% | 30% |
 | Reasons |  |  |  |  |
-| Discontinued study/study drug due to adverse event or deathb | 2% | 2% | 4% | 14% |
-| Discontinued study/study drug for other reasonsc | 8% | 9% | 12% | 13% |
+| Discontinued study/study drug due to adverse event or deathd | 2% | 2% | 4% | 14% |
+| Discontinued study/study drug for other reasonse | 8% | 9% | 12% | 13% |
 | Missing data during window but on study | 2% | <1% | 2% | 3% |
 | Proportion (%) of Subjects with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |  |  |
 | Plasma viral load (copies/mL) |  |  |  |  |
@@ -61,7 +61,7 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at 
 | Race |  |  |  |  |
 | White | 83% | 78% | 72% | 71% |
 | African-American/African Heritage/Other | 77% | 75% | 71% | 47% |
-| a Adjusted for pre-specified stratification factors. b Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window. c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. d The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%). e The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%). |  |  |  |  |
+| a Adjusted for pre-specified stratification factors. b The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%). c The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%). d Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window. e Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |  |  |
 
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
 The median change in CD4+ cell counts from baseline was 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
@@ -164,10 +164,15 @@ Virologically Suppressed Subjects
 
 SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
 A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
-Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to TIVICAY 50 mg plus rilpivirine 25 mg administered once daily.
+Subjects were randomized 1:1 to continue their current antiretroviral regimen (n°= 511) or be switched to TIVICAY 50 mg plus rilpivirine 25 mg administered once daily (n = 513).
+Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to TIVICAY plus rilpivirine at Week 52 (n = 477).
+
 The primary efficacy endpoint for the SWORD trial was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
 The proportion of subjects with HIV-1 RNA less than 50 copies per mL at Week 48 was 95% for both treatment groups; treatment difference and 95% CI was -0.2% (-3.0%, 2.5%).
-The proportion of subjects with HIV-1 RNA greater than or equal to 50 copies per mL (virologic failure) at Week 48 was 0.6% and 1.2% for the dolutegravir plus rilpivirine treatment group and the current antiretroviral regimen treatment groups, respectively; treatment difference and 95% CI was -0.6% (-1.7%, 0.6%).
+The proportion of subjects with HIV‑1 RNA greater than or equal to 50 copies per mL (virologic failure) at Week 48 was 0.6% and 1.2% for the dolutegravir plus rilpivirine treatment group and the current antiretroviral regimen treatment groups, respectively; treatment difference and 95% CI was -0.6% (-1.7%, 0.6%).
+At Week 148 in the pooled SWORD-1 and SWORD-2 trials, 84% of subjects who received TIVICAY plus rilpivirine from study start had plasma HIV-1 RNA less than 50 copies/mL (Snapshot algorithm).
+In subjects who initially remained on their current antiretroviral regimen and switched to TIVICAY plus rilpivirine at Week 52, 90% had plasma HIV-1 RNA less than 50 copies/mL at Week 148 (Snapshot algorithm), which was comparable to the response rate (89%) observed at Week 100 (similar exposure duration) in subjects receiving TIVICAY plus rilpivirine from study start.
+
 Refer to the prescribing information for JULUCA (dolutegravir and rilpivirine) tablet for complete virologic outcome information.
 
 ## 14.3 Pediatric Subjects

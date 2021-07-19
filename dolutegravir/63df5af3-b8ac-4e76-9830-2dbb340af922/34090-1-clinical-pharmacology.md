@@ -29,7 +29,7 @@ Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1–Infecte
 
 | Parameter | 50 mg Once DailyGeometric Meana (%CV) | 50 mg Twice DailyGeometric Meanb (%CV) |
 | --- | --- | --- |
-| AUC(0-24) (mcg.h/mL) | 53.6 (27) | 75.1 (35) |
+| AUC(0-24) (mcg∙h/mL) | 53.6 (27) | 75.1 (35) |
 | Cmax (mcg/mL) | 3.67 (20) | 4.15 (29) |
 | Cmin (mcg/mL) | 1.11 (46) | 2.12 (47) |
 | a Based on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2. b Based on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3. |  |  |
@@ -159,7 +159,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Carbamazepine 300 mg twice daily | 50 mg once daily | 16a | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -167,10 +167,10 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Multivitamin (One-A-Day) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampinc 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. c The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a The number of subjects represents the maximum number of subjects that were evaluated. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily c Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -212,11 +212,15 @@ One subject isolate had pre-existing raltegravir resistance substitutions E138A,
 In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline resistance data had evidence of emergent INSTI-resistance substitutions (L74M, E92Q, T97A, E138Q, G140S/A, Y143R/C, Q148H/R, V151I, N155H, E157Q, and G163K/R) and raltegravir phenotypic resistance.
 
 Virologically Suppressed Subjects: SWORD-1 and SWORD-2 are identical trials in virologically suppressed subjects receiving 2 NRTIs plus either an INSTI, an NNRTI, or a PI, that switched to dolutegravir plus rilpivirine (n = 513) or remained on their current antiviral regimen (n = 511).
-Two subjects in each treatment arm had confirmed virologic failure at any time through Week 48.
-The 2 subjects in the dolutegravir/rilpivirine arm had detectable resistance substitutions at rebound.
-One subject had the NNRTI-resistance-associated substitution K101K/E with no decreased susceptibility to rilpivirine (fold-change = 1.2) at Week 36, had no INSTI resistance-associated substitutions or decreased susceptibility to dolutegravir (fold-change less than 2), and had HIV-1 RNA less than 50 copies per mL at the withdrawal visit.
-The other subject had the dolutegravir resistance-associated substitution G193E at baseline (by exploratory HIV proviral DNA archive sequencing) and at Week 24 (by conventional sequencing) without decreased susceptibility to dolutegravir (fold-change = 1.02) at Week 24.
-No resistance-associated substitutions were observed for the other 2 subjects in the comparative current antiretroviral regimen arm.
+In the pooled SWORD-1 and SWORD-2 trials, 12 subjects (7 in SWORD-1 and 5 in SWORD-2) had confirmed virologic failure (HIV-1 RNA greater than 200 copies/mL) while receiving dolutegravir plus rilpivirine at any time through Week 148.
+Ten of the confirmed virologic failures had post-baseline resistance data, with 6 isolates showing evidence of rilpivirine resistance, and 2 with evidence of dolutegravir resistance substitutions.
+Six isolates showed genotypic and/or phenotypic resistance to rilpivirine with emergent NNRTI-resistance substitutions E138E/A (rilpivirine 1.6-fold change), M230M/L (rilpivirine 2-fold change), L100L/I, K101Q, and E138A (rilpivirine 4.1-fold change), K101K/E (rilpivirine 1.2-fold change), K101K/E, M230M/L (rilpivirine 2-fold change), and L100L/V/M, M230M/L (rilpivirine 31-fold change).
+In addition, 1 virologic failure subject had NNRTI‑resistance substitutions K103N and V179I at Week 88 with rilpivirine phenotypic fold change of 5.2 but had no baseline sample.
+
+One virologic failure isolate had emergent INSTI‑resistance substitution V151V/I present post-baseline with baseline INSTI‑resistance substitutions N155N/H and G163G/R (by exploratory HIV proviral DNA archive sequencing); no integrase phenotypic data were available for this isolate at virologic failure.
+One other subject had the dolutegravir resistance substitution G193E at baseline and virologic failure, but no detectable phenotypic resistance (fold change = 1.02) at Week 24.
+
+No resistance-associated substitutions were observed for the 2 subjects meeting confirmed virologic failure in the comparative current antiretroviral regimen arms at Week 48.
 
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
 Use of TIVICAY in INSTI-experienced patients should be guided by the number and type of baseline INSTI substitutions.

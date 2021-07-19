@@ -47,9 +47,8 @@ Recommended Dosage of TIVICAY PD in Pediatric Patients 4 Weeks and Older Weighin
 
 For pediatric patients weighing 14 kg or greater (4 weeks and older, treatment-naïve or treatment-experienced but naïve to INSTI treatment) administer either:
 
-• TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
-
-• TIVICAY tablets for oral use (Table 4)
+- •TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
+- •TIVICAY tablets for oral use (Table 4)
 
 Table 3.
 Recommended Dosage of TIVICAY PD Tablets for Oral Suspension in Pediatric Patients Weighing 14 kg or Greater
@@ -80,7 +79,6 @@ Administration Instructions for TIVICAY PD
 Do not chew, cut, or crush TIVICAY PD [see Instructions for Use].
 Instruct patients (or instruct caregivers) to either:
 
-• Swallow the tablets for oral suspension whole (if more than one tablet is required, swallow one tablet at a time to reduce the risk of choking), or
-
-• Fully disperse the tablets for oral suspension in 5 mL of drinking water (if using 1 or 3 tablets for oral suspension) or 10 mL (if using 4, 5, or 6 tablets for oral suspension) in the supplied cup; swirl the suspension so that no lumps remain.
-After full dispersion, administer the oral suspension within 30 minutes of mixing [see Instructions for Use].
+- •Swallow the tablets for oral suspension whole (if more than one tablet is required, swallow one tablet at a time to reduce the risk of choking), or
+- •Fully disperse the tablets for oral suspension in 5 mL of drinking water (if using 1 or 3 tablets for oral suspension) or 10 mL (if using 4, 5, or 6 tablets for oral suspension) in the supplied cup; swirl the suspension so that no lumps remain.
+  After full dispersion, administer the oral suspension within 30 minutes of mixing [see Instructions for Use].
