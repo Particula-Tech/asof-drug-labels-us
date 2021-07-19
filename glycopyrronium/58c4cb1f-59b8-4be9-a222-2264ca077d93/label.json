@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA012827"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-743-03",
+    "16571-743-09",
+    "16571-744-03",
+    "16571-744-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "58c4cb1f-59b8-4be9-a222-2264ca077d93",
+  "source": "dailymed"
+}
