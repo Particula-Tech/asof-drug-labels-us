@@ -22,10 +22,10 @@ Protect from light.
 
 Store in carton until contents have been used.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in U.S.A.
 
-MI:217:1C:R4
+MI:217:1C:R5
 
 Mylan.com
