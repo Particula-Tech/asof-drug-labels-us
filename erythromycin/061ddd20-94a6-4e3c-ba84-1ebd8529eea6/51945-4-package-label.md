@@ -6,9 +6,5 @@ Erythromycin Ophthalmic Ointment, USP 0.5% (Sterile)
 
 FOR TOPICAL ADMINISTRATION IN THE EYE
 
-Rx only
-
 Net wt.
-1/8 oz (3.5 g)
-
-BAUSCH + LOMB
+1/8 oz Rx only (3.5 g) BAUSCH + LOMB

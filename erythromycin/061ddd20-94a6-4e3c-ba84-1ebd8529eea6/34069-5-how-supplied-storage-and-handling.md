@@ -3,22 +3,14 @@
 Erythromycin Ophthalmic Ointment, USP 0.5% is available in the following sizes:
 
 1/8 oz.
-(3.5 g) tamper-resistant tube - NDC 24208-910-55
+(3.5 g) tamper-resistant tube – NDC 24208-910-55
 
-DO NOT USE IF CAP AND NECKRING ARE NOT INTACT.
+1 g tin container (in cartons of 50) – NDC 24208-910-19
 
-1 g tin container (in cartons of 50) - NDC 24208-910-19
+Storage: Store between 15° to 25°C (59° to 77°F).
 
-DO NOT USE IF BOTTOM RIDGE OF TUBE CAP IS EXPOSED.
+Keep out of reach of children.
 
-## Storage:
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
-Store between 15°-25°C (59°-77°F).
-
-KEEP OUT OF REACH OF CHILDREN.
-
-Revised: July 2016
-
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
-
-9043404 (Folded) 9043504 (Flat)
+© 2020 Bausch & Lomb Incorporated or its affiliates 9043405 (Folded) 9043505 (Flat) Revised: July 2020
