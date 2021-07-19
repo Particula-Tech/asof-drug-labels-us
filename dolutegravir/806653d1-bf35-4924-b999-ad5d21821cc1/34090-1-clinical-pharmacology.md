@@ -249,11 +249,15 @@ Amino acid substitutions E92Q, G118R, S153F or Y, G193E, or R263K emerged in dif
 Rilpivirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and clades as well as NNRTI-resistant HIV-1.
 The frequently observed amino acid substitutions that emerged and conferred decreased phenotypic susceptibility to rilpivirine included: L100I; K101E; V106I and A; V108I; E138K and G, Q, R; V179F and I; Y181C and I; V189I; G190E; H221Y; F227C; and M230I and L.
 
-Virologically Suppressed Subjects: In the pooled SWORD-1 and SWORD-2 trials, 2 subjects in each treatment arm had confirmed virologic failure at any time through Week 48.
-The 2 subjects in the dolutegravir/rilpivirine arm had detectable resistance substitutions at rebound.
-One subject had the NNRTI-resistance-associated substitution K101K/E with no decreased susceptibility to rilpivirine (fold-change = 1.2) at Week 36, had no INSTI resistance-associated substitutions or decreased susceptibility to dolutegravir (fold-change less than 2), and had HIV-1 RNA less than 50 copies per mL at the withdrawal visit.
-The other subject had the dolutegravir resistance-associated substitution G193E at baseline (by exploratory HIV proviral DNA archive sequencing) and Week 24 (by conventional sequencing) without decreased susceptibility to dolutegravir (fold-change = 1.02) at Week 24.
-No resistance-associated substitutions were observed for the other 2 subjects in the comparative current antiretroviral regimen arms.
+Virologically Suppressed Subjects: In the pooled SWORD-1 and SWORD-2 trials, 12 subjects (7 in SWORD-1 and 5 in SWORD-2) had confirmed virologic failure (HIV-1 RNA greater than 200 copies/mL) while receiving dolutegravir plus rilpivirine at any time through Week 148.
+Ten of the confirmed virologic failures had post-baseline resistance data, with 6 isolates showing evidence of rilpivirine resistance, and 2 with evidence of dolutegravir resistance substitutions.
+Six isolates showed genotypic and/or phenotypic resistance to rilpivirine with emergent NNRTI-resistance substitutions E138E/A (rilpivirine 1.6-fold change), M230M/L (rilpivirine 2-fold change), L100L/I, K101Q and E138A (rilpivirine 4.1-fold change), K101K/E (rilpivirine 1.2-fold change), K101K/E, M230M/L (rilpivirine 2-fold change), and L100L/V/M, M230M/L (rilpivirine 31-fold change).
+In addition, 1 virologic failure subject had NNRTI-resistance substitutions K103N and V179I at Week 88 with rilpivirine phenotypic fold change of 5.2 but had no baseline sample.
+
+One virologic failure isolate had emergent INSTI-resistance substitution V151V/I present post-baseline with baseline INSTI-resistance substitutions N155N/H and G163G/R (by exploratory HIV proviral DNA archive sequencing); no integrase phenotypic data were available for this isolate at virologic failure.
+One other subject had the dolutegravir-resistance substitution G193E at baseline and virologic failure, but no detectable phenotypic resistance (fold change = 1.02) at Week 24.
+
+No resistance-associated substitutions were observed for the 2 subjects meeting confirmed virologic failure in the comparative current antiretroviral regimen arms at Week 48.
 
 Cross-Resistance
 

@@ -6,7 +6,9 @@ The efficacy of JULUCA is supported by data from 2 open-label, controlled trials
 
 SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
 A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
-Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to dolutegravir plus rilpivirine administered once daily.
+Subjects were randomized 1:1 to continue their current antiretroviral regimen (n = 511) or be switched to dolutegravir plus rilpivirine administered once daily (n = 513).
+Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52 (n = 477).
+
 The primary efficacy endpoint for the SWORD trials was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
 
 At baseline, in the pooled analysis, the median age of subjects was 43 years (range: 21 to 79), 22% female, 20% non-white, 11% were CDC Class C (AIDS), and 11% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment arms.
@@ -54,3 +56,6 @@ Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials 
 | a Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |
 
 Treatment differences were maintained across baseline characteristics including, CD4+ cell count, age, gender, race, and baseline third-treatment-agent class.
+
+At Week 148 in the pooled SWORD-1 and SWORD-2 trials, 84% of subjects who received dolutegravir plus rilpivirine from study start had plasma HIV-1 RNA less than 50 copies/mL (Snapshot algorithm).
+In subjects who initially remained on their current antiretroviral regimen and switched to dolutegravir plus rilpivirine at Week 52, 90% had plasma HIV-1 RNA less than 50 copies/mL at Week 148 (Snapshot algorithm), which was comparable to the response rate (89%) observed at Week 100 (similar exposure duration) in subjects receiving dolutegravir plus rilpivirine from study start.

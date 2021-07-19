@@ -56,12 +56,12 @@ All 10 infants received antiretroviral prophylactic treatment with zidovudine.
 Rilpivirine was well tolerated during pregnancy and postpartum.
 There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1–infected adults.
 
-Animal Data: Dolutegravir: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
+Animal Data: Dolutegravir: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) development were observed at up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans, and in rats were approximately 38 times the exposure in humans (50 mg once daily).
 In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 32 times the human exposure with 50 mg once daily).
 
-Rilpivirine: Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg per kg per day) and rabbits (5, 10, or 20 mg per kg per day) through organogenesis (on gestation Days 6 through 17, and 6 through 19, respectively).
+Rilpivirine: Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg per kg per day) and rabbits (5, 10, or 20 mg per kg per day) through organogenesis (on Gestation Days 6 through 17, and 6 through 19, respectively).
 No significant toxicological effects were observed in embryo-fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
 In a pre/postnatal development study with rilpivirine, where rats were administered up to 400 mg per kg per day through lactation, no significant adverse effects directly related to drug were noted in the offspring.
 
@@ -78,7 +78,7 @@ Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants),
 
 Data
 
-Animal Data: Dolutegravir: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
+Animal Data: Dolutegravir: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
 
 Rilpivirine: In animals, no studies have been conducted to assess the excretion of rilpivirine into milk directly; however, rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats (dosed up to 400 mg per kg per day).
 

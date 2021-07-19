@@ -23,7 +23,7 @@ Coadministration of dolutegravir with polyvalent cation-containing products may 
 Rilpivirine
 
 Rilpivirine is primarily metabolized by CYP3A, and drugs that induce or inhibit CYP3A may affect the clearance of rilpivirine.
-Coadministration of JULUCA and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [see Contraindications (4), Drug Interactions (7.3)].
+Coadministration of JULUCA and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [see Contraindications (4), Drug Interactions (7.4)].
 Coadministration of JULUCA and drugs that inhibit CYP3A may result in increased plasma concentrations of rilpivirine.
 Coadministration of JULUCA with drugs that increase gastric pH may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [see Contraindications (4), Drug Interactions (7.4), Clinical Pharmacology (12.3)].
 

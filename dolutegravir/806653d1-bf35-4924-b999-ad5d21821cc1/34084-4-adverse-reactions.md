@@ -10,12 +10,14 @@ The following adverse reactions are described below and in other sections of the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety assessment of JULUCA in HIV-1–infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine is based on the pooled primary Week 48 analyses of data from 2 identical, international, multicenter, open-label trials, SWORD-1 and SWORD-2.
+The safety assessment of JULUCA is based on the pooled primary Week 48 analyses of data from 2 identical, international, multicenter, open-label trials, SWORD-1 and SWORD-2, including additional follow up through Week 148.
 
 A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 nucleoside reverse transcriptase inhibitors [NRTIs] plus either an integrase strand transfer inhibitor [INSTI], a non-nucleoside reverse transcriptase inhibitor [NNRTI], or a protease inhibitor [PI]) for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine, were randomized and received treatment.
 Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to dolutegravir plus rilpivirine administered once daily.
-In the pooled analyses, the proportion of subjects who discontinued treatment due to an adverse event was 4% in subjects receiving dolutegravir plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
-The most common adverse events leading to discontinuation were psychiatric disorders: 2% of subjects receiving dolutegravir plus rilpivirine and less than 1% on the current antiretroviral regimen.
+Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52.
+In the pooled analyses, the proportion of subjects who discontinued treatment due to an adverse event through Week 48 was 4% in subjects receiving dolutegravir plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
+The most common adverse events leading to discontinuation through Week 48 were psychiatric disorders: 2% of subjects receiving dolutegravir plus rilpivirine and less than 1% on the current antiretroviral regimen.
+In the pooled analyses, the proportion of subjects receiving dolutegravir plus rilpivirine who discontinued treatment due to an adverse event through Week 148 was 8%.
 
 The most common adverse reactions (ARs) (all grades) reported in at least 2% of subjects in the Week 48 pooled analyses from SWORD-1 and SWORD-2 are provided in Table 2.
 
@@ -26,6 +28,8 @@ Adverse Reactions (Grades 1 to 4) Reported in at Least 2% of Virologically Suppr
 | --- | --- | --- |
 | Diarrhea | 2% | <1% |
 | Headache | 2% | 0 |
+
+In the Week 148 pooled analyses, the only adverse reaction (all grades) occurring in at least 2% of subjects who received dolutegravir plus rilpivirine and that was not observed during the Week 48 analyses was nausea (2%).
 
 Less Common Adverse Reactions
 
@@ -56,7 +60,7 @@ Skin and Subcutaneous Tissue Disorders: Pruritus, rash.
 
 Laboratory Abnormalities
 
-Selected laboratory abnormalities with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in Table 3.
+Selected laboratory abnormalities with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in the Week 48 pooled analysis are presented in Table 3.
 
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 and 3 to 4; Week 48 Pooled Analyses) in SWORD-1 and SWORD-2 Trials
@@ -83,17 +87,20 @@ Selected Laboratory Abnormalities (Grades 2 and 3 to 4; Week 48 Pooled Analyses)
 | Grade 3 to 4 (>3.0 x ULN) | 2% | 2% |  |  |  |
 | ULN = Upper limit of normal. |  |  |  |  |  |
 
+In the Week 148 pooled analyses, there were no additional selected laboratory abnormalities with dolutegravir plus rilpivirine compared with those shown in Table 3.
+
 Changes in Serum Creatinine: Dolutegravir and rilpivirine have been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
-Increases in serum creatinine occurred within the first 4 weeks of treatment with dolutegravir plus rilpivirine and remained stable through 48 weeks.
-A mean change from baseline of 0.093 mg per dL (range: -0.30 to 0.58 mg per dL) was observed after 48 weeks of treatment with dolutegravir plus rilpivirine.
+Increases in serum creatinine occurred within the first 4 weeks of treatment with dolutegravir plus rilpivirine and remained stable through 148 weeks.
+Mean changes from baseline of 0.093 mg per dL (range: -0.30 to 0.58 mg per dL) and 0.112 mg per dL (range: -0.24 to 0.81 mg per dL) were observed after 48 and 148°weeks of treatment with dolutegravir plus rilpivirine, respectively.
 These changes are not considered to be clinically relevant.
 
-Serum Lipids: At 48 weeks, total cholesterol, HDL cholesterol, LDL cholesterol, triglycerides, and total cholesterol to HDL ratio were similar between the treatment arms.
+Serum Lipids: At 48 weeks, total cholesterol, HDL cholesterol, LDL cholesterol, triglycerides, and total cholesterol to HDL ratio were similar between the treatment arms, with no further notable changes beyond Week 48.
 
 Bone Mineral Density Effects
 
 Mean bone mineral density (BMD) increased from baseline to Week 48 in subjects who switched from an antiretroviral treatment (ART) regimen containing tenofovir disoproxil fumarate (TDF) to dolutegravir plus rilpivirine (1.34% total hip and 1.46% lumbar spine) compared with those who continued on treatment with a TDF-containing antiretroviral regimen (0.05% total hip and 0.15% lumbar spine) in a dual-energy X-ray absorptiometry (DXA) substudy.
 BMD declines of 5% or greater at the lumbar spine were experienced by 2% of subjects receiving JULUCA and 5% of subjects who continued their TDF-containing regimen.
+In subjects who received dolutegravir plus rilpivirine from study start and were continuing JULUCA at Week 148, mean BMD increases from baseline were 0.98% (total hip) and 0.53% (lumbar spine).
 The long-term clinical significance of these BMD changes is not known.
 
 Fractures (excluding fingers and toes) were reported in 3 (0.6%) subjects who switched to dolutegravir plus rilpivirine and 9 (1.8%) subjects who continued their current antiretroviral regimen through 48 weeks.

@@ -18,7 +18,7 @@ ALERT: Find out about medicines that should NOT be taken with JULUCA.
 
 30 tablets
 
-Each film-coated tablet contains 50 mg of dolutegravir (equivalent to 52.6 mg dolutegravir sodium) and 25 mg of rilpvirine (equivalent to 27.5 mg rilpivirine hydrochloride).
+Each film-coated tablet contains 50 mg of dolutegravir (equivalent to 52.6 mg dolutegravir sodium) and 25 mg of rilpivirine (equivalent to 27.5 mg rilpivirine hydrochloride).
 
 Store at 20ºC to 25ºC (68ºF to 77ºF); excursions permitted between 15ºC and 30ºC (59ºF and 86ºF) (see USP Controlled Room Temperature).
 
@@ -40,6 +40,6 @@ GlaxoSmithKline, RTP NC 27709
 Made in UK
 
 Rev.
-10/17
+11/17
 
 10000000146014
