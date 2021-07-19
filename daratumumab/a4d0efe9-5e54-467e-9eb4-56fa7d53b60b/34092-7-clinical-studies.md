@@ -183,7 +183,7 @@ With a median follow-up of 13.5 months, 75 deaths were observed; 30 in the DRd g
 Combination Treatment with Bortezomib and Dexamethasone
 
 CASTOR (NCT02136134), an open-label, randomized, active-controlled Phase 3 trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with multiple myeloma who had received at least one prior therapy.
-Bortezomib was administered by SC injection or IV infusion at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
+Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
 Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
 On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medication.
 For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.

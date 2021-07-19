@@ -121,7 +121,7 @@ If a dose of DARZALEX is missed, administer the dose as soon as possible and adj
 
 Pre-infusion Medication
 
-Administer the following pre-infusion medications 1–3 hours before every DARZALEX infusion:
+Administer the following pre-infusion medications 1 hour to 3 hours before every DARZALEX infusion:
 
 - Corticosteroid (long- or intermediate-acting)
   - Monotherapy: Administer methylprednisolone 100 mg (or equivalent) intravenously.
@@ -129,8 +129,8 @@ Administer the following pre-infusion medications 1–3 hours before every DARZA
     In Combination: Administer dexamethasone 20 mg (or equivalent) orally or intravenously.
     When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].
     Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX infusion days when patients have received dexamethasone (or equivalent) as a pre-medication.
-- Acetaminophen 650 to 1,000 mg orally
-- Diphenhydramine 25 to 50 mg (or equivalent) orally or intravenously.
+- Acetaminophen 650 mg to 1,000 mg orally
+- Diphenhydramine 25 mg to 50 mg (or equivalent) orally or intravenously.
 
 Post-infusion Medication
 
@@ -171,7 +171,7 @@ Management of infusion-related reactions may further require reduction in the ra
 
 Preparation
 
-DARZALEX is for single use only.
+DARZALEX is for single dose only.
 
 Prepare the solution for infusion using aseptic technique as follows:
 
@@ -188,15 +188,15 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   The diluted solution may develop very small, translucent to white proteinaceous particles, as daratumumab is a protein.
   Do not use if visibly opaque particles, discoloration or foreign particles are observed.
-- Since DARZALEX does not contain a preservative, administer the diluted solution immediately at room temperature 15°C–25°C (59°F–77°F) and in room light.
+- Since DARZALEX does not contain a preservative, administer the diluted solution immediately at room temperature 15°C to 25°C (59°F to 77°F) and in room light.
   Diluted solution may be kept at room temperature for a maximum of 15 hours (including infusion time).
-- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions 2°C–8°C (36°F–46°F) and protected from light.
+- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions 2°C to 8°C (36°F to 46°F) and protected from light.
   Do not freeze.
 
 Administration
 
 - If stored in the refrigerator, allow the solution to come to room temperature.
-  Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometer).
+  Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 micrometer or 0.2 micrometer).
   Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP or PE.
 - Do not store any unused portion of the infusion solution for reuse.
   Any unused product or waste material should be disposed of in accordance with local requirements.

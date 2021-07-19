@@ -3,6 +3,8 @@
 ## 5.1 Infusion-Related Reactions
 
 DARZALEX can cause severe and/or serious infusion-related reactions including anaphylactic reactions.
+These reactions can be life-threatening and fatal outcomes have been reported [see Adverse Reactions (6.3)].
+
 In clinical trials (monotherapy and combination: N=2,066), infusion-related reactions occurred in 37% of patients with the Week 1 (16 mg/kg) infusion, 2% with the Week 2 infusion, and cumulatively 6% with subsequent infusions.
 Less than 1% of patients had a Grade 3/4 infusion-related reaction at Week 2 or subsequent infusions.
 The median time to onset was 1.5 hours (range: 0 to 73 hours).
@@ -11,7 +13,7 @@ Median durations of 16 mg/kg infusions for the Week 1, Week 2, and subsequent in
 Nearly all reactions occurred during infusion or within 4 hours of completing DARZALEX.
 Prior to the introduction of post-infusion medication in clinical trials, infusion-related reactions occurred up to 48 hours after infusion.
 
-Severe reactions have occurred, including bronchospasm, hypoxia, dyspnea, hypertension, laryngeal edema and pulmonary edema.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnea, hypertension, tachycardia, headache, laryngeal edema and pulmonary edema.
 Signs and symptoms may include respiratory symptoms, such as nasal congestion, cough, throat irritation, as well as chills, vomiting and nausea.
 Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus, and hypotension [see Adverse Reactions (6.1)].
 

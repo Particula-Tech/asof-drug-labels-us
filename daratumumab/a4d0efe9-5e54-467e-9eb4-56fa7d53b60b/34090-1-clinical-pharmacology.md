@@ -43,7 +43,7 @@ Terminal half-life was similar when DARZALEX was administered as combination the
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of daratumumab as monotherapy or as combination therapy were observed based on sex, age (31 to 93 years), mild [total bilirubin 1 to 1.5 times upper limit of normal (ULN) or aspartate aminotransaminase (AST)>ULN] and moderate (total bilirubin 1.5 to 3 times ULN and any AST) hepatic impairment, or renal impairment [Creatinine clearance (CLcr) 15 –89 mL/min].
+No clinically significant differences in the pharmacokinetics of daratumumab as monotherapy or as combination therapy were observed based on sex, age (31 to 93 years), mild [total bilirubin 1 to 1.5 times upper limit of normal (ULN) or aspartate aminotransaminase (AST)>ULN] and moderate (total bilirubin 1.5 to 3 times ULN and any AST) hepatic impairment, or renal impairment [Creatinine clearance (CLcr) 15–89 mL/min].
 The effect of severe (total bilirubin >3 times ULN and any AST) hepatic impairment on daratumumab pharmacokinetics is unknown.
 
 Body Weight

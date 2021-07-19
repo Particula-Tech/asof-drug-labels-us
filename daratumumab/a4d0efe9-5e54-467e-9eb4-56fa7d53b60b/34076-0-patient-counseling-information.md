@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Infusion-Related Reactions
 
-Advise patients to seek immediate medical attention for any of the following signs and symptoms of infusion-related reactions: itchy, runny or blocked nose; chills, nausea, throat irritation, cough, headache, shortness of breath or difficulty breathing [see Warnings and Precautions (5.1)].
+Advise patients to seek immediate medical attention for any of the following signs and symptoms of infusion-related reactions: itchy, runny or blocked nose; fever, chills, nausea, vomiting, throat irritation, cough, headache, dizziness or lightheadedness, tachycardia, chest discomfort, wheezing, shortness of breath or difficulty breathing, itching [see Warnings and Precautions (5.1)].
 
 Neutropenia
 
@@ -29,7 +29,7 @@ Embryo-Fetal Toxicity
 Advise pregnant women of the potential hazard to a fetus.
 Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
-Advise females of reproductive potential to avoid becoming pregnant during treatment with DARZALEX and for at least 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to avoid becoming pregnant during treatment with DARZALEX and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 Advise patients that lenalidomide, pomalidomide, or thalidomide has the potential to cause fetal harm and has specific requirements regarding contraception, pregnancy testing, blood and sperm donation, and transmission in sperm.
 Lenalidomide, pomalidomide, and thalidomide are only available through a REMS program [see Use in Specific Populations (8.1, 8.3)].

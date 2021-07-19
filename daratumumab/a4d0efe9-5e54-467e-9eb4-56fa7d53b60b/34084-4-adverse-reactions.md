@@ -511,7 +511,7 @@ Infections
 
 Grade 3 or 4 infections were reported as follows:
 
-- Relapsed/refractory patient studies: DVd: 21% vs. Vd: 19%; DRd: 27% vs. Rd: 23%; DPd: 28%; DKdwhere carfilzomib 20/56 mg/m2 was administered twice-weekly: 37%, Kd: 29%; DKdwhere carfilzomib 20/70 mg/m2 was administered once-weekly: 21%
+- Relapsed/refractory patient studies: DVd: 21% vs. Vd: 19%; DRd: 28% vs. Rd: 23%; DPd: 28%; DKdwhere carfilzomib 20/56 mg/m2 was administered twice-weekly: 37%, Kd: 29%; DKdwhere carfilzomib 20/70 mg/m2 was administered once-weekly: 21%
 - Newly diagnosed patient studies: D-VMP: 23%, VMP: 15%; DRd: 32%, Rd: 23%; DVTd: 22%; VTd: 20%.
 
 Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
@@ -529,6 +529,12 @@ Hepatitis B Virus (HBV) Reactivation
 
 Hepatitis B virus reactivation has been reported in less than 1% of patients (including fatal cases) treated with DARZALEX in clinical trials.
 
+Other Clinical Trials Experience
+
+The following adverse reactions have been reported following administration of daratumumab and hyaluronidase for subcutaneous injection:
+
+Nervous System disorders: Syncope
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
@@ -545,7 +551,7 @@ However, this assay has limitations in detecting anti-daratumumab antibodies in 
 The following adverse reactions have been identified during post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System disorders: Anaphylactic reaction
+Immune System disorders: Anaphylactic reaction; IRR (including deaths)
 
 Gastrointestinal disorders: Pancreatitis
 
