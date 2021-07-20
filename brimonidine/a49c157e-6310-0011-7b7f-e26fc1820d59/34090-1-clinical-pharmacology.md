@@ -15,7 +15,7 @@ The result is a reduction in intraocular pressure (IOP).
 ## 12.3 Pharmacokinetics
 
 Following topical ocular administration, brinzolamide is absorbed into the systemic circulation.
-Due to its affinity for CA-II, brinzolamide distributes extensively into the RBCs and exhibits a long half-life in whole blood (approximately 111 days).
+Due to its affinity for CA-II, brinzolamide distributes extensively into the Red Blood Cells (RBC) and exhibits a long half-life in whole blood (approximately 111 days).
 In humans, the metabolite N-desethyl brinzolamide is formed, which also binds to CA and accumulates in RBCs.
 This metabolite binds mainly to CA-I in the presence of brinzolamide.
 In plasma, both parent brinzolamide and N-desethyl brinzolamide concentrations are <10 ng/mL.

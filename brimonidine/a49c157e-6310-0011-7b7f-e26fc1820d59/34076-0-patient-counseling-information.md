@@ -2,7 +2,7 @@
 
 ## 17.1 Sulfonamide Reactions
 
-Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician.
+Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician [see Warnings and Precautions (5.1)].
 
 ## 17.2 Temporary Blurred Vision
 
@@ -28,11 +28,11 @@ Advise patients that if they have ocular surgery or develop an intercurrent ocul
 
 ## 17.6 Concomitant Topical Ocular Therapy
 
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five minutes apart.
+If more than one topical ophthalmic drug is being used, the drugs should be administered at least five minutes apart [see Dosage and Administration].
 
 ## 17.7 Contact Lens Wear
 
 The preservative in SIMBRINZA, benzalkonium chloride, may be absorbed by soft contact lenses.
 Contact lenses should be removed during instillation of SIMBRINZA, but may be reinserted 15 minutes after instillation.
 
-©2013-2015 Novartis U.S. Pat.: www.alconpatents.com Alcon® a Novartis company Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 9012601-0216
+©2021 Alcon Inc. U.S. Pat.: www.alconpatents.com Alcon Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 300049173-0521
