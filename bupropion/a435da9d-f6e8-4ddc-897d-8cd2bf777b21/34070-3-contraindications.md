@@ -6,6 +6,6 @@
 - •The use of MAOIs (intended to treat psychiatric disorders) concomitantly with Wellbutrin XL or within 14 days of discontinuing treatment with Wellbutrin XL is contraindicated.
   There is an increased risk of hypertensive reactions when Wellbutrin XL is used concomitantly with MAOIs.
   The use of Wellbutrin XL within 14 days of discontinuing treatment with an MAOI is also contraindicated.
-  Starting Wellbutrin XL in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated [see Dosage and Administration (2.9), Warnings and Precautions (5.4) and Drug Interactions (7.6)].
+  Starting Wellbutrin XL in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated [see Dosage and Administration (2.9), Warnings and Precautions (5.4)and Drug Interactions (7.6)].
 - •Wellbutrin XL is contraindicated in patients with known hypersensitivity to bupropion or other ingredients of Wellbutrin XL.
   Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported [see Warnings and Precautions (5.8)].

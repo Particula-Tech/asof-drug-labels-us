@@ -6,7 +6,7 @@ Rx only
 
 ONCE-DAILY Wellbutrin XL® (bupropion hydrochloride extended-release tablets)
 
-150 mg 90 Tablets
+150 mg 30 Tablets
 
 WARNING: Do not use with other medicines that contain bupropion hydrochloride.
 

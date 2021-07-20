@@ -1,4 +1,4 @@
-MEDICATION GUIDE Wellbutrin XL® (Well-byu-trin) (bupropion hydrochloride extended-release) tablets
+MEDICATION GUIDE WELLBUTRIN XL® (WELL-byu-trin) (bupropion hydrochloride) Extended-Release Tablets
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
 The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About Wellbutrin XL?”
@@ -137,7 +137,7 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 
 What is Wellbutrin XL?
 
-Wellbutrin XL is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder
+Wellbutrin XL is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder and for the prevention of autumn-winter seasonal depression (seasonal affective disorder).
 
 Who should not take Wellbutrin XL?
 
@@ -145,7 +145,7 @@ Do not take Wellbutrin XL if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including Wellbutrin, Wellbutrin SR, APLENZIN®, ZYBAN, or FORFIVO XL.
+- •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, APLENZIN®, ZYBAN, or FORFIVO XL.
   Bupropion is the same active ingredient that is in Wellbutrin XL.
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -195,7 +195,7 @@ How should I take Wellbutrin XL?
   Tell your healthcare provider if you cannot swallow tablets.
 - •Wellbutrin XL tablets may have an odor.
   This is normal.
-- •Take your doses of Wellbutrin XL at least 8 hours apart.
+- •Take your doses of Wellbutrin XL at least 24 hours apart.
 - •You may take Wellbutrin XL with or without food.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
@@ -280,7 +280,7 @@ Bridgewater, NJ 08807 USA
 
 Manufactured by:
 
-Bausch Health Companies Inc.
+Bausch Health Companies, Inc.
 
 Steinbach, MB R5G 1Z7, Canada
 
@@ -292,10 +292,9 @@ All other product/brand names are the trademarks of the respective owners.
 
 U.S. Patent Number: 7,537,784
 
-© 2020 Bausch Health Companies Inc. or its affiliates
-
-9395607 20002844
+© 2021 Bausch Health Companies Inc. or its affiliates
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-- Revised: 02/2020
+- Revised: 7/2021
+- 9395608

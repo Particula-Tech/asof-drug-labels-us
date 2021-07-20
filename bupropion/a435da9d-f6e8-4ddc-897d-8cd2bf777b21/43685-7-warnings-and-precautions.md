@@ -20,10 +20,10 @@ Table 1: Risk Differences in the Number of Suicidality Cases by Age Group in the
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-| Increases Compared to Placebo |  |
+|  | Increases Compared to Placebo |
 | <18 years | 14 additional cases |
 | 18-24 years | 5 additional cases |
-| Decreases Compared to Placebo |  |
+|  | Decreases Compared to Placebo |
 | 25-64 years | 1 fewer case |
 | ≥65 years | 6 fewer cases |
 

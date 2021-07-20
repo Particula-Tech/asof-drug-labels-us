@@ -43,7 +43,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that Wellbutrin XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that Wellbutrin XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as Wellbutrin SR, the sustained-release formulation, Wellbutrin, the immediate-release formulation, and APLENZIN, a bupropion hydrobromide formulation).
+Educate patients that Wellbutrin XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that Wellbutrin XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN, a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion HCl products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -88,6 +88,6 @@ All other product/brand names are the trademarks of the respective owners.
 
 U.S. Patent Number: 7,537,784
 
-© 2020 Bausch Health Companies Inc. or its affiliates
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-9395607 20002844
+9395608
