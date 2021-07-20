@@ -30,6 +30,11 @@ Patients should be instructed to avoid exposure to ultraviolet rays during and i
 If Fluorouracil 5% Topical Cream is applied with the fingers, the hands should be washed immediately afterward.
 Fluorouracil 5% Topical Cream should not be applied on the eyelids or directly into the eyes, nose, or mouth because irritation may occur.
 
+Fluorouracil, including Fluorouracil 5% Topical Cream may be fatal if ingested by pets.
+Avoid allowing pets to contact the Fluorouracil 5% Topical Cream container or the skin where Fluorouracil 5% Topical Cream has been applied.
+Store Fluorouracil 5% Topical Cream out of reach of pets.
+Safely discard or clean any cloth or applicator that may retain Fluorouracil 5% Topical Cream and avoid leaving any residues of Fluorouracil 5% Topical Cream on your hands, clothing, carpeting or furniture.
+
 ## Laboratory Tests
 
 Solar keratoses which do not respond should be biopsied to confirm the diagnosis.
