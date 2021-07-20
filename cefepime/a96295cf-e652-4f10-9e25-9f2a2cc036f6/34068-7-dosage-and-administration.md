@@ -11,13 +11,12 @@ Table 1: Recommended Dosage Schedule for MAXIPIME in Adult Patients with Creatin
 | --- | --- | --- | --- |
 | (days) |  |  |  |
 | Adults | Intravenous (IV)/Intramuscular (IM) |  |  |
-| Moderate to Severe Pneumonia§ | 1 to 2 g IV | Every 8 to 12 hours | 10 |
-| Empiric therapy for febrile neutropenic patients | 2 g IV | Every 8 hours | 7* |
-| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis | 0.5 to 1 gIV/IM** | Every 12 hours | 7 to 10 |
+| Moderate to Severe PneumoniaFor P. aeruginosa, use 2 g IV every 8 hours. | 1 to 2 g IV | Every 8 to 12 hours | 10 |
+| Empiric therapy for febrile neutropenic patients | 2 g IV | Every 8 hours | 7or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. |
+| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis | 0.5 to 1 gIV/IMIntramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli. | Every 12 hours | 7 to 10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections | 2 g IV | Every 12 hours | 10 |
 | Complicated Intra-abdominal Infections§ (used in combination with metronidazole) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
-| *or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. **Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli. §For P. aeruginosa, use 2 g IV every 8 hours. |  |  |  |
 
 ## 2.2 Pediatric Patients (2 months up to 16 years)
 
@@ -83,18 +82,18 @@ Vials
   - oM/6 Sodium Lactate Injection
   - o5% Dextrose and 0.9% sodium Chloride Injection
   - oLactated Rings and 5% Dextrose Injection
-  - oNormosol™-R and Normosol™-M in 5% Dextrose Injection
+  - oNormosol®-R and Normosol®-M in 5% Dextrose Injection
 - •Parenteral drugs should be inspected visually for particulate matter before administration.
   If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 - •Administer the resulting intravenous infusion over approximately 30 minutes.
 - • Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
   However, during infusion of a solution containing cefepime, it is desirable to discontinue the other solution.
 
-ADD-Vantage Vials
+ADD-Vantage® Vials
 
 Constitute only with 50 mL or 100 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection in ADD-Vantage flexible diluent containers as described in the instructions for reconstitution [see Dosage and Administration (2.7)].
 
-## 2.5 Preparation for Intramuscular Administration
+## 2.5 Preparation of MAXIPIME for Intramuscular Administration
 
 Constitute MAXIPIME vials 0.5 gram, 1 gram and 2 grams with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
 Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of reconstituted volume to be withdrawn.
@@ -125,7 +124,7 @@ Intravenous MAXIPIME
 
 Intravenous Infusion Compatibility
 
-MAXIPIME vials are compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol™-R, and Normosol™-M in 5% Dextrose Injection.
+MAXIPIME vials are compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol®-R, and Normosol®-M in 5% Dextrose Injection.
 These solutions may be stored up to 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
 
 MAXIPIME in ADD-Vantage vials are stable at concentrations of 10 to 40 mg per mL in 5% Dextrose Injection or 0.9% Sodium Chloride Injection for 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
@@ -166,7 +165,7 @@ Intramuscular and Intravenous MAXIPIME
 
 As with other cephalosporins, the color of MAXIPIME powder, as well as its solutions tend to darken depending on storage conditions; however, when stored as recommended, the product potency is not adversely affected.
 
-## 2.7 ADD-Vantage Instructions for Reconstitution and Intravenous Administration
+## 2.7 ADD-Vantage® Instructions for Reconstitution and Intravenous Administration
 
 To Open
 
@@ -179,11 +178,11 @@ Assembly of Vial and Flexible Diluent Container
 
 1. 1.Use Aseptic Technique
 2. 2.Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
-   1. a.To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (See Figure 1), then pull straight up to remove the cap (See Figure 2)
+   1. a.To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (See Figure 1), then pull straight up to remove the cap (See Figure 2).
    2. b.Once the breakaway cap has been removed, do not access vial with syringe.
 
 - 
-  - c.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover (See Figure 3.)
+  - c.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover (See Figure 3).
 - 3.Screw the vial into the vial port until it will go no further.
   The Vial Must Be Screwed In Tightly To Assure a Seal.
   This occurs approximately 1/2 turn (180°) after the first audible click (see Figure 4).
@@ -192,7 +191,7 @@ Assembly of Vial and Flexible Diluent Container
 - 4.Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
 - 5.Label appropriately.
 
-Instructions for Reconstitution MAXIPIME ADD-Vantage Vial in Flexible Diluent Container
+Instructions for Reconstitution MAXIPIME ADD-Vantage® Vial in Flexible Diluent Container
 
 1. 1.Squeeze the bottom of the diluent container gently to inflate the portion of the container surrounding the end of the drug vial.
 2. 2.With the other hand, push the drug vial down into the container telescoping the walls of the container.
@@ -204,9 +203,9 @@ Instructions for Reconstitution MAXIPIME ADD-Vantage Vial in Flexible Diluent Co
 6. 6.If the rubber stopper is not removed from the vial and medication is not released on the first attempt, the inner cap may be manipulated back into the rubber stopper without removing the drug vial from the diluent container.
    Repeat steps 3 through 5.
 
-Instructions for Intravenous Administration of MAXIPIME ADD-Vantage Vial
+Instructions for Intravenous Administration of MAXIPIME ADD-Vantage® Vial
 
-1. 1.Use Aseptic Technique
+1. 1.Use Aseptic Technique.
 2. 2.Confirm the activation and admixture of vial contents.
 3. 3.Check for leaks by squeezing container firmly.
    If leaks are found, discard unit as sterility may be impaired.
@@ -222,4 +221,4 @@ Instructions for Intravenous Administration of MAXIPIME ADD-Vantage Vial
 10. 10.Attach set to venipuncture device.
     If device is not indwelling, prime and make venipuncture.
 11. 11.Regulate rate of administration with flow control clamp.
-12. 12.Do not use flexible container in series connections
+12. 12.Do not use flexible container in series connections.

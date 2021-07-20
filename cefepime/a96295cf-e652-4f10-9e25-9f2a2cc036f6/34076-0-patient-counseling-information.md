@@ -10,8 +10,6 @@
 - •Advise patients of neurological adverse events that could occur with MAXIPIME use.
   Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia (disturbance of speaking and understanding spoken and written language), myoclonus, seizures and nonconvulsive status epilepticus, for immediate treatment, dosage adjustment, or discontinuation of MAXIPIME.
 
-Manufactured for: Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Made in India
-
-LAB-0888-3.0
+LAB-0888-4.0
