@@ -85,13 +85,26 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility:
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6) and Clinical Pharmacology (12.2)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness and the pharmacokinetics of Morphine Sulfate Tablets in pediatric patients below the age of 18 have not been established.
+The safety and effectiveness of Morphine Sulfate Tablets have been established for the management of pediatric patients weighing at least 50 kg with acute pain severe enough to require an opioid analgesic when alternative treatments are inadequate.
+Use of Morphine Sulfate Tablets in this age group is supported by clinical evidence in adults and supportive data from an open-label, safety and pharmacokinetic study in pediatric patients 2 through 17 years of age with post-operative acute pain.
+Patients were excluded if they had used opioids for more than 7 days within the previous 30 days prior to surgery or had received opioids in any form in the previous 7 days prior to surgery.
+Initial dosing was approximately 0.15 mg/kg to 0.3 mg/kg.
+Pharmacokinetic modeling and simulation indicate that an initial dose of 15 mg Morphine Sulfate Tablets to pediatric patients weighing at least 50 kg is expected to produce a maximum systemic exposure (Cmax) similar to that achieved after single dose administration of 10 mg morphine sulfate oral solution to adults [see Clinical Pharmacology (12.3)].
+Safety data were available in 81 patients who received single and multiple doses (63 patients aged 2 to 17 years received the oral solution; 18 patients aged 12 years to 17 years received the tablets).
+The median duration of treatment was 20 hours (range 4 hours to 36 hours).
+Opioid and non-opioid rescue analgesics were allowed.
+The safety profile in pediatric patients consisted primarily of opioid-related adverse reactions and is similar to that observed in adults [see Adverse Reactions (6)].
+
+The safety and effectiveness of Morphine Sulfate Tablets have not been established for the management of pediatric patients weighing less than 50 kg with acute pain severe enough to require an opioid analgesic when alternative treatments are inadequate because the recommended dosage cannot be achieved with available tablet strengths.
+Consider use of another morphine sulfate product in patients who cannot swallow oral tablets or who weigh less than 50 kg [see Dosage and Administration (2.3)].
+
+The safety and effectiveness of Morphine Sulfate Tablets have not been established for the management of pediatric patients with chronic pain severe enough to require an opioid analgesic when alternative treatments are inadequate.
 
 ## 8.5 Geriatric Use
 

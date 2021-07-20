@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal:
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3) and Drug Abuse and Dependence (9.2)].
 Inform patients that leaving Morphine Sulfate Tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
@@ -18,8 +18,25 @@ Instruct patients not to share Morphine Sulfate Tablets with others and to take 
 
 Life-Threatening Respiratory Depression:
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Morphine Sulfate Tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Morphine Sulfate Tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose:
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Morphine Sulfate Tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- •How to treat with naloxone in the event of an opioid overdose
+- •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- •To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion:
 
@@ -27,7 +44,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines and Other CNS Depressants:
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Morphine Sulfate Tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if Morphine Sulfate Tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5) and Drug Interactions (7)].
 
 Serotonin Syndrome:
 
@@ -38,7 +55,7 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 MAOI Interaction:
 
 Inform patients not to take Morphine Sulfate Tablets while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Morphine Sulfate Tablets [see Warnings and Precautions (5.7), Drug Interactions (7)].
+Patients should not start MAOIs while taking Morphine Sulfate Tablets [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Adrenal Insufficiency:
 
@@ -53,7 +70,7 @@ Advise patients not to adjust the dose of morphine sulfate without consulting wi
 
 Important Discontinuation Instructions:
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Morphine Sulfate Tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Morphine Sulfate Tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension:
 
@@ -63,11 +80,11 @@ Instruct patients how to recognize symptoms of low blood pressure and how to red
 Anaphylaxis:
 
 Inform patients that anaphylaxis have been reported with ingredients contained in Morphine Sulfate Tablets.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4) Adverse Reactions (6)].
 
 Pregnancy:
 
-Neonatal Opioid Withdrawal Syndrome: Inform patients of reproductive potential that prolonged use of Morphine Sulfate Tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Neonatal Opioid Withdrawal Syndrome: Inform patients of reproductive potential that prolonged use of Morphine Sulfate Tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity: Inform female patients of reproductive potential that Morphine Sulfate Tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
@@ -90,8 +107,8 @@ Constipation:
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-10004596/10
+C500000374/01
 
-Revised October 2019
+Revised June 2021

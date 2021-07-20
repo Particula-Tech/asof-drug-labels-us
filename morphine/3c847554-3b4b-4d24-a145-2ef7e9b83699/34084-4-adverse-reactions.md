@@ -17,7 +17,7 @@ Because some of these reactions were reported voluntarily from a population of u
 
 Serious adverse reactions associated with morphine use included: respiratory depression, apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest.
 
-The common adverse reactions seen on initiation of therapy with morphine were dose-dependent and were typical opioid-related adverse reactions.
+The common adverse reactions seen on initiation of therapy with morphine in adults were dose-dependent and were typical opioid-related adverse reactions.
 The most frequent of these included: constipation, nausea, and somnolence.
 Other commonly observed adverse reactions included: lightheadedness, dizziness, sedation, vomiting, and sweating.
 The frequency of these events depended upon several factors including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
@@ -55,3 +55,10 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Morphine Sulfate Tablets.
 
 Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Clinical Trial Experience in Pediatric Patients
+
+The safety of morphine sulfate was evaluated in 81 pediatric patients with acute pain [see Use in Specific Populations (8.4)].
+Morphine Tablets are not recommended for use in pediatric patients weighing less than 50 kg.
+The adverse reaction profile in pediatric patients is similar to adults.
+The most common adverse reactions reported on initiation of therapy in at least 5% of patients were: nausea (17%), vomiting (10%), constipation (6%), decreased oxygen saturation (5%), and flatulence (5%).

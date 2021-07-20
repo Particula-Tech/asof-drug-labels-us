@@ -50,12 +50,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships:
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships:
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -95,6 +95,11 @@ The effective terminal half-life of morphine sulfate after IV administration is 
 In some studies involving longer periods of plasma sampling, a longer terminal half-life of morphine sulfate of about 15 hours was reported.
 
 Specific Populations:
+
+Pediatric Patients:Morphine pharmacokinetics were analyzed in a population pharmacokinetic analysis of 66 pediatric patients aged 2 years to 17 years.
+Initially after dosing, the geometric mean plasma half-life of morphine was up to 1.8 hours.
+The geometric mean terminal elimination plasma half-life of morphine was 18.6 hours.
+For both the M3G metabolite and M6G metabolite, the single-dose geometric mean Cmax in pediatric patients was not greater than in adults.
 
 Race/ Ethnicity: There may be some pharmacokinetic differences associated with race.
 In one published study, Chinese subjects given intravenous morphine sulfate had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).

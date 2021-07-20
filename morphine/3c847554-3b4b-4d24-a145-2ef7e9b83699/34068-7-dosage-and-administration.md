@@ -8,31 +8,48 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Morphine Sulfate Tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of Morphine Sulfate Tablets as the First Opioid Analgesic (Opioid-naïve or Opioid-non-tolerant Patients):
 
-Initiate treatment with Morphine Sulfate Tablets in a dosing range of 15 mg to 30 mg every 4 hours as needed for pain.
+Adults: The recommended dosage to initiate treatment in adults is 15 mg to 30 mg every 4 hours as needed for pain.
 
-Conversion from Parenteral Morphine to Morphine Sulfate Tablets:
+Pediatric Patients Weighing at Least 50 kg: The recommended dosage to initiate treatment in pediatric patients weighing at least 50 kg and who are able to swallow oral tablets is 15 mg every 4 hours as needed for pain.
+Do not exceed 30 mg as an initial dose.
+
+Morphine Sulfate Tablets are not recommended for use in pediatric patients who weigh less than 50 kg as the recommended dosage cannot be achieved with available tablet strengths.
+Consider use of another morphine sulfate productin patients who cannot swallow oral tablets or who weigh less than 50 kg.
+
+Conversion from Parenteral Morphine to Morphine Sulfate Tablets
 
 For conversion from parenteral morphine to Morphine Sulfate Tablets, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
 
-Conversion from Other Opioids to Morphine Sulfate Tablets:
+Conversion from Other Opioids to Morphine Sulfate Tablets
 
 There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of Morphine Sulfate Tablets.
 It is safer to underestimate a patient’s 24-hour Morphine Sulfate Tablets dosage than to overestimate the 24-hour Morphine Sulfate Tablets dosage and manage an adverse reaction due to overdose.
 Initiate dosing using Morphine Sulfate Tablets 15 mg to 30 mg every 4 hours.
 
-Conversion from Morphine Sulfate Tablets to Extended-Release Morphine:
+Conversion from Morphine Sulfate Tablets to Extended-Release Morphine
 
 For a given dose, the same total amount of morphine sulfate is available from Morphine Sulfate Tablets, and extended-release morphine formulations.
 The extended duration of release of morphine sulfate from extended-release formulations results in reduced maximum and increased minimum plasma morphine sulfate concentrations than with shorter acting morphine sulfate products.
 Conversion from Morphine Sulfate Tablets to the same total daily dose of an extended-release formulation could lead to excessive sedation at peak serum levels.
 Therefore, conversion to extended-release morphine formulations must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate Morphine Sulfate Tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving Morphine Sulfate Tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -42,7 +59,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of Morphine Sulfate Tablets
+## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Tablets
 
 Do not abruptly discontinue Morphine Sulfate Tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
