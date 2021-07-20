@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020246"
+  ],
+  "inn": "medroxyprogesterone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-370-25",
+    "66993-370-83",
+    "66993-371-79"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "medroxyprogesterone acetate",
+      "name": "medroxyprogesterone acetate"
+    }
+  ],
+  "setid": "987496bf-b4b0-409b-b745-f52ed0871f4e",
+  "source": "dailymed"
+}
