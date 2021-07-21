@@ -1,8 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
 
-NDC 55566-2300-0
+NDC 55566-2300-0 Rx ONLY
 
-DDAVP® Injection desmopressin acetate
+DDAVP® Injection
+
+desmopressin acetate
 
 4 mcg/mL
 
@@ -12,13 +14,13 @@ For Intravenous and Subcutaneous Use Only
 
 FERRING PHARMACEUTICALS
 
-Rx ONLY
-
 # PRINCIPAL DISPLAY PANEL - Ten 1 mL Ampule Carton
 
-NDC-55566-2200-0
+NDC-55566-2200-0 Rx ONLY
 
-DDAVP® Injection desmopressin acetate
+DDAVP® Injection
+
+desmopressin acetate
 
 4 mcg/mL
 
@@ -27,5 +29,3 @@ PRESERVATIVE FREE For Intravenous and Subcutaneous Use Only
 Ten 1 mL Ampules
 
 FERRING PHARMACEUTICALS
-
-Rx ONLY
