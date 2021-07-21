@@ -25,10 +25,10 @@ Protect from light.
 
 Retain in carton until contents are used.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:299:10C:R3
+MI:299:10C:R4
 
 Mylan.com

@@ -47,8 +47,6 @@ Reproduction studies conducted in mice and rats at doses 4 times and 8 times, re
 
 ## Use in Pregnancy
 
-### Teratogenic Effects. Pregnancy Category C
-
 Teratology studies conducted in mice and rats at doses 4 times and 8 times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m2), demonstrated no embryotoxic or teratogenic effects due to naloxone.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, naloxone hydrochloride should be used during pregnancy only if clearly needed.
