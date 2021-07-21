@@ -11,5 +11,4 @@ Sotalol hydrochloride/Sotalol hydrochloride (AF) is contraindicated in patients 
 
 For the treatment of AFIB/AFL, sotalol hydrochloride/sotalol hydrochloride AF is also contraindicated in patients with:
 
-- Baseline QT interval >450 ms
-- Creatinine clearance < 40 mL/min
+- Baseline QT interval >450 msec

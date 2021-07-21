@@ -8,5 +8,5 @@ It is hydrophilic, soluble in water, propylene glycol and ethanol, but is only s
 Chemically, sotalol hydrochloride is d,l-N-[4-[1-hydroxy-2-[(1-methylethyl) amino]ethyl]phenyl]methane-sulfonamide monohydrochloride.
 The molecular formula is C12H20N2O3 S∙HCl and is represented by the following structural formula:
 
-Each Sotalol Hydrochloride tablet, USP/Sotalol Hydrocloride AF tablets, USP for oral administration, contains 80 mg, 120 mg, 160 mg or 240 mg of sotalol hydrochloride.
+Each Sotalol Hydrochloride tablet, USP/Sotalol Hydrochloride AF tablets, USP for oral administration, contains 80 mg, 120 mg, 160 mg or 240 mg of sotalol hydrochloride.
 In addition, each tablet also contains the following inactive ingredients: magnesium stearate and microcrystalline cellulose.
