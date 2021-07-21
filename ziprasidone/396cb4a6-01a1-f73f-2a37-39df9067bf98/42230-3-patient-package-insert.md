@@ -105,7 +105,8 @@ How to take ziprasidone hydrochloride capsules
 
 • Take ziprasidone hydrochloride capsules only as directed by your doctor.
 
-• Swallow the capsules whole.
+• Swallow ziprasidone hydrochloride capsules whole.
+Do not chew, crush, or open the capsules.
 
 • Take ziprasidone hydrochloride capsules with food.
 
@@ -214,6 +215,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 2/2020
+Revised: 6/2021
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf

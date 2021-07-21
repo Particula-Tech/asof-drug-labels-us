@@ -14,8 +14,7 @@ Overall available data from published epidemiologic studies of pregnant women ex
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone hydrochloride capsules, during pregnancy (see Clinical Considerations).
 
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
-Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
-(see Data).
+Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -47,7 +46,7 @@ Animal Data
 
 When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations, and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day based on mg/m2 body surface area).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
-The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based on mg/m2 body surface area).
+The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based on a mg/m2 body surface area).
 In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD based on mg/m2 body surface area) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
 Doses of 40 and 160 mg/kg/day (2 and 8 times the MRHD based on mg/m2 body surface area) were associated with maternal toxicity.
 The developmental no-effect dose is 5 mg/kg/day (0.2 times the MRHD based on mg/m2 body surface area).
