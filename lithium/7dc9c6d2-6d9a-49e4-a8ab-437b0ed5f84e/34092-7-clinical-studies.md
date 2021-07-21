@@ -18,7 +18,7 @@ Table 5: Primary Efficacy Results
 | Acute Efficacy | Lithium: | 53 | 29.5 (5.6) | -12.9 (3.1) | -5.5 (-10.5, -0.5) |
 | Placebo: | 28 | 30.0 (6.0) | -7.3 (3.1) |  |  |
 | Analysis | Treatment GroupPatients analyzed by received treatment. | All-cause Discontinuation |  |  |  |
-| N |  | Number of Discontinued Subjects | Hazard RatioLithium to placebo. (95% CI) |  |  |
+| N |  | Number of Discontinued Subjects | Hazard RatioLithium to placebo.(95% CI) |  |  |
 | Randomized Withdrawal | Lithium: | 17 |  | 7 (41.2%) | 0.28 (0.10, 0.78) |
 | Placebo: | 14 |  | 11 (78.6%) |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |  |
