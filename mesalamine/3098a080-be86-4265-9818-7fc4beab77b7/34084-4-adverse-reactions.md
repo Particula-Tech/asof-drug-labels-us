@@ -100,7 +100,7 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS)
+Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN)
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
@@ -108,7 +108,7 @@ Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, trans
 
 Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
-Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
+Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), pleurisy/pleuritis
 
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 
