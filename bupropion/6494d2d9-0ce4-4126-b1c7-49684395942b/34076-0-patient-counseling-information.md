@@ -68,21 +68,13 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN can be taken with or without food.
 
-*Trademark of PDR Network, LLC
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Distributed by:
-
-Bausch Health US, LLC Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
 APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 All other product/brand names are the trademarks of their respective owners.
 
-U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2020 Bausch Health Companies Inc. or its affiliates
-
-1. 9386807 20002918
+U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2021 Bausch Health Companies Inc. or its affiliates 9386808

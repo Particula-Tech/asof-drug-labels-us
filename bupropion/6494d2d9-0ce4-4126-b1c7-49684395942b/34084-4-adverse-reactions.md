@@ -108,10 +108,8 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 2% | 5% |
 | Urinary urgency | 0% | — | 2% |
-| Vaginal hemorrhageIncidence based on the number of female patients. | — | 0% | 2% |
+| Vaginal hemorrhageIncidence based on the number of female patients. - Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. | — | 0% | 2% |
 | Urinary tract infection | — | 1% | 0% |
-
-- Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients.
 
 The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), tachycardia (11% vs. 9%), appetite increased (4% vs. 2%), dyspepsia (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
 

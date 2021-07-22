@@ -1,8 +1,6 @@
 --------------------------------------------- PRINCIPAL DISPLAY PANEL - 174 mg Tablet Bottle Label
 
-NDC 0187-5810-30
-
-ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
+NDC 0187-5810-30 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
 174 mg
 
@@ -12,15 +10,13 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 Rx only
 
-30Tablets
+30 Tablets
 
-BAUSCHHealth
+BAUSCH Health
 
 PRINCIPAL DISPLAY PANEL - 348 mg Tablet Bottle Label
 
-NDC 0187-5811-30
-
-ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
+NDC 0187-5811-30 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
 348 mg
 
@@ -44,7 +40,7 @@ WARNING: Do not use with other medicines that contain bupropion.
 
 Federal Law requires dispensing of Aplenzin with the Medication Guide attached to this bottle.
 
-30Tablets
+30 Tablets
 
 Rx only
 
