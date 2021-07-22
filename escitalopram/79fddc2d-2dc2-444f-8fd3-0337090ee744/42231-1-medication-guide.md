@@ -93,7 +93,26 @@ Visual problems
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+10.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including escitalopram oral solution, may cause sexual problems.
 
+Symptoms in males may include:
+
+o Delayed ejaculation or inability to have an ejaculation
+
+o Decreased sex drive
+
+o Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+o Decreased sex drive
+
+o Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with escitalopram oral solution.
+There may be treatments your healthcare provider can suggest.
 Do not stop escitalopram oral solution without first talking to your healthcare provider.
 Stopping escitalopram oral solution too quickly may cause serious symptoms including:
 
@@ -247,4 +266,4 @@ What are the ingredients in escitalopram oral solution?
 Active ingredient: escitalopram oxalate Inactive ingredients: anhydrous citric acid, DL – malic acid, glycerin, methylparaben, natural peppermint flavor, noncrystalizing sorbitol solution, propylene glycol, propylparaben, purified water, and sodium citrate.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Orap® is a registered trademark of Teva Pharmaceuticals USA.
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Issued: 03/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
