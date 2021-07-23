@@ -1,4 +1,4 @@
-# Patient Information MIRAPEX ER® (mîr'-ah-pěx) (pramipexole dihydrochloride) extended-release tablets
+# Patient Information MIRAPEX ER® (mîr'-ah-pěx) (pramipexole dihydrochloride extended-release tablets)
 
 Read this Patient Information before you start taking MIRAPEX ER and each time you get a refill.
 There may be new information.
@@ -62,10 +62,7 @@ How should I take MIRAPEX ER?
   Do not double your next MIRAPEX ER dose.
 - Do not stop taking MIRAPEX ER without talking to your doctor first.
   If your doctor tells you to stop taking MIRAPEX ER, you should ask your doctor for specific instructions on how to slowly and safely discontinue taking MIRAPEX ER.
-  If you stop taking MIRAPEX ER too quickly you may have withdrawal symptoms such as:
-  - fever
-  - confusion
-  - severe muscle stiffness
+  If you stop taking MIRAPEX ER you may have withdrawal symptoms (see "withdrawal symptoms" under "What are the possible side effects of MIRAPEX ER?").
 
 What should I avoid while taking MIRAPEX ER?
 
@@ -95,13 +92,29 @@ MIRAPEX ER may cause serious side effects, including:
   Some people who take certain medicines to treat Parkinson's disease, including MIRAPEX ER, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
   If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 - hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are age 65 or older.
+  The chances of having hallucinations or other psychotic-like changes are higher in people taking MIRAPEX ER for Parkinson's disease who are elderly (age 65 or older).
   If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia, or your existing dyskinesia gets worse, tell your doctor.
 - posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+- withdrawal symptoms.
+  MIRAPEX ER is a dopamine agonist medicine.
+  Dopamine agonist medicines, including MIRAPEX ER, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with MIRAPEX ER is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:
+  - fever
+  - confusion
+  - severe muscle stiffness
+  - feeling like you do not care about things you usually care about (apathy)
+  - anxiety
+  - depression
+  - fatigue
+  - insomnia
+  - sweating
+  - pain
+
+After you have stopped taking MIRAPEX ER, your doctor may need to restart you at a low dose of MIRAPEX ER if you get severe withdrawal symptoms.
 
 The most common side effects in people taking MIRAPEX ER for early Parkinson's disease are:
 
@@ -137,7 +150,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for more information about MIRAPEX ER tablets that is written for healthcare professionals.
 
-For current Prescribing Information, scan the code below or for additional information, you may also call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or 1-800-459-9906 TTY.
+For current Prescribing Information, scan the code or for additional information, you may also call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 What are the ingredients in MIRAPEX ER?
 
@@ -159,10 +172,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-Trademark under license from: Boehringer Ingelheim International GmbH
+MIRAPEX is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2020
+Revised: 7/2021
 
-OT220011ADB042020
+COL9694AG162021

@@ -44,6 +44,6 @@ MIRAPEX ER tablets are available as follows:
 
 ## 16.2 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from exposure to high humidity.
 Store in a safe place out of the reach of children.

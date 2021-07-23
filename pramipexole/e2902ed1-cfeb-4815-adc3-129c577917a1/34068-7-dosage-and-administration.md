@@ -20,7 +20,7 @@ Patients should be assessed for therapeutic response and tolerability at a minim
 Due to the flexible dose design used in clinical trials, specific dose-response information could not be determined [see Clinical Studies (14)].
 
 MIRAPEX ER tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)].
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10, 5.11)].
 
 Dosing in Patients with Renal Impairment
 

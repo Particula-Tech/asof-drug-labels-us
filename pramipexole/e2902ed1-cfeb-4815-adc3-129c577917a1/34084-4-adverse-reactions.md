@@ -11,6 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Rhabdomyolysis [see Warnings and Precautions (5.8)]
 - Retinal Pathology [see Warnings and Precautions (5.9)]
 - Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
+- Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -136,6 +137,8 @@ Decisions to include these reactions in labeling are typically based on one or m
 Cardiac Disorders: cardiac failure
 
 Gastrointestinal Disorders: vomiting
+
+General Disorders and Administration Site Conditions: withdrawal symptoms [see Warnings and Precautions (5.11)]
 
 Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
 
