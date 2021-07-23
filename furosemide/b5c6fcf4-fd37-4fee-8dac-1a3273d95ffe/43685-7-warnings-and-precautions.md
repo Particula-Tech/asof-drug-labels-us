@@ -107,6 +107,8 @@ Furosemide tablets can increase the risk of cephalosporin-induced nephrotoxicity
 
 Concomitant use of cyclosporine and Furosemide tablets is associated with increased risk of gouty arthritis secondary to Furosemide tablets-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
+High doses (>80mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
+
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 
@@ -130,7 +132,7 @@ Furosemide tablets (furosemide) produced no impairment of fertility in male or f
 
 ## Pregnancy
 
-PREGNANCY CATEGORY C - Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
+Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

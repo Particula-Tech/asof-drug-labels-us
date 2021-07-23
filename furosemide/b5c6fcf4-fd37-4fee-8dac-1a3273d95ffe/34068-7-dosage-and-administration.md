@@ -40,7 +40,7 @@ Dosage should then be adjusted according to response.
 If response is not satisfactory, add other antihypertensive agents.
 
 Changes in blood pressure must be carefully monitored when Furosemide tablets are used with other antihypertensive drugs, especially during initial therapy.
-To prevent excessive drop in blood pressure, the dosage of other agents should be reduced by at least 50 percent when Furosemide tablets are added to the regimen.
+To prevent excessive drop in blood pressure, the dosage of other agents should be reduced by at least 50% when Furosemide tablets are added to the regimen.
 As the blood pressure falls under the potentiating effect of Furosemide tablets, a further reduction in dosage or even discontinuation of other antihypertensive drugs may be necessary.
 
 Geriatric patients
