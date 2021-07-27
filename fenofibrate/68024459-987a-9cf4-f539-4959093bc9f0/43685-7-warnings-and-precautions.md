@@ -6,7 +6,7 @@ The effects of fenofibrate on coronary heart disease morbidity and mortality and
 
 The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) trial was a randomized placebo-controlled study of 5518 patients with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
 The mean duration of follow-up was 4.7 years.
-Fenofibrate plus statin combination therapy showed a non-significant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, nonfatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p=0.32) as compared to statin monotherapy.
+Fenofibrate plus statin combination therapy showed a nonsignificant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, nonfatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p=0.32) as compared to statin monotherapy.
 In a gender subgroup analysis, the hazard ratio for MACE in men receiving combination therapy versus statin monotherapy was 0.82 (95% CI 0.69 to 0.99), and the hazard ratio for MACE in women receiving combination therapy versus statin monotherapy was 1.38 (95% CI 0.98 to 1.94) (interaction p=0.01).
 The clinical significance of this subgroup finding is unclear.
 
@@ -17,7 +17,7 @@ There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 
 Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to fenofibrate capsules.
 
 In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
-There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
+There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3% vs. 1.8%).
 
 In a study conducted by the World Health Organization (WHO), 5000 subjects without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional one year.
 There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p≤0.01).
@@ -34,12 +34,28 @@ A secondary prevention component of the Helsinki Heart Study enrolled middle-age
 Subjects received gemfibrozil or placebo for 5 years.
 Although cardiac deaths trended higher in the gemfibrozil group, this was not statistically significant (hazard ratio 2.2, 95% confidence interval: 0.94 to 5.05).
 
-## 5.2 Skeletal Muscle
+## 5.2 Hepatotoxicity
+
+Serious drug-induced liver injury (DILI), including liver transplantation and death, have been reported postmarketing with fenofibrate.
+DILI has been reported within the first few weeks of treatment or after several months of therapy and in some cases has reversed with discontinuation of fenofibrate treatment.
+Patients with DILI have experienced signs and symptoms including dark urine, abnormal stool, jaundice, malaise, abdominal pain, myalgia, weight loss, pruritus, and nausea.
+Many patients had concurrent elevations of total bilirubin, serum alanine transaminase (ALT), and aspartate transaminase (AST).
+DILI has been characterized as hepatocellular, chronic active, and cholestatic hepatitis, and cirrhosis has occurred in association with chronic active hepatitis.
+
+In clinical trials, fenofibrate at doses equivalent to 90 mg fenofibrate daily has been associated with increases in serum AST or ALT.
+The incidence of increases in transaminases may be dose related [see Adverse Reactions (6.1)].
+
+Fenofibrate is contraindicated in patients with active liver disease, including those with primary biliary cirrhosis and unexplained persistent liver function abnormalities [see Contraindications (4)].
+Monitor patient’s liver function, including serum ALT, AST, and total bilirubin, at baseline and periodically for the duration of therapy with fenofibrate.
+Discontinue fenofibrate if signs or symptoms of liver injury develop or if elevated enzyme levels persist (ALT or AST > 3 times the upper limit of normal, or if accompanied by elevation of bilirubin).
+Do not restart fenofibrate in these patients if there is no alternative explanation for the liver injury.
+
+## 5.3 Myopathy and Rhabdomyolysis
 
 Fibrates increase the risk for myopathy, and have been associated with rhabdomyolysis.
 The risk for serious muscle toxicity appears to be increased in elderly patients and in patients with diabetes, renal failure, or hypothyroidism.
 
-Data from observational studies suggest that the risk for rhabdomyolysis is increased when fibrates, in particularly gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
+Data from observational studies suggest that the risk for rhabdomyolysis is increased when fibrates, in particularly gemfibrozil, are co-administered with statin.
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevations of creatine phosphokinase (CPK) levels.
@@ -48,19 +64,6 @@ Patients should be advised to report promptly unexplained muscle pain, tendernes
 CPK levels should be assessed in patients reporting these symptoms, and fenofibrate therapy should be discontinued if markedly elevated CPK levels occur or myopathy/myositis is suspected or diagnosed.
 
 Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
-
-## 5.3 Liver Function
-
-Fenofibrate at doses equivalent to 130 mg fenofibrate capsules per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
-
-In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
-When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
-The incidence of increases in transaminases levels related to fenofibrate therapy appears to be dose related.
-
-Hepatocellular, chronic active and cholestatic hepatitis associated with fenofibrate therapy have been reported after exposures of weeks to several years.
-In extremely rare cases, cirrhosis has been reported in association with chronic active hepatitis.
-
-Baseline and regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate, and therapy discontinued if enzyme levels persist above three times the normal limit.
 
 ## 5.4 Serum Creatinine
 

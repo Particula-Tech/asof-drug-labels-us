@@ -12,7 +12,7 @@ The initial treatment for dyslipidemia is dietary therapy specific for the type 
 Excess body weight and excess alcoholic intake may be important factors in hypertriglyceridemia and should be addressed prior to any drug therapy.
 Physical exercise can be an important ancillary measure.
 Diseases contributory to hyperlipidemia, such as hypothyroidism or diabetes mellitus should be looked for and adequately treated.
-Estrogen therapy, thiazide diuretics and beta-blockers are sometimes associated with massive rises in plasma triglycerides, especially in subjects with familial hypertriglyceridemia.
+Estrogen therapy, thiazide diuretics and beta-blockers, are sometimes associated with massive rises in plasma triglycerides, especially in subjects with familial hypertriglyceridemia.
 In such cases, discontinuation of the specific etiologic agent may obviate the need for specific drug therapy of hypertriglyceridemia.
 
 Lipid levels should be monitored periodically and consideration should be given to reducing the dosage of fenofibrate capsules if lipid levels fall significantly below the targeted range.

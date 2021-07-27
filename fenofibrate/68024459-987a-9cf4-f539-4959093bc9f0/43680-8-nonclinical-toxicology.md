@@ -19,6 +19,10 @@ In a second 18-month study at 10, 60, and 200 mg/kg/day, fenofibrate significant
 Electron microscopy studies have demonstrated peroxisomal proliferation following fenofibrate administration to the rat.
 An adequate study to test for peroxisome proliferation in humans has not been done, but changes in peroxisome morphology and numbers have been observed in humans after treatment with other members of the fibrate class when liver biopsies were compared before and after treatment in the same individual.
 
-Mutagenesis: Fenofibrate has been demonstrated to be devoid of mutagenic potential in the following tests: Ames, mouse lymphoma, chromosomal aberration and unscheduled DNA synthesis in primary rat hepatocytes.
+Mutagenesis
 
-Impairment of Fertility: In fertility studies rats were given oral dietary doses of fenofibrate, males received 61 days prior to mating and females 15 days prior to mating through weaning which resulted in no adverse effect on fertility at doses up to 300 mg/kg/day (~10 times the MRHD, based on mg/m2 surface area comparisons).
+Fenofibrate has been demonstrated to be devoid of mutagenic potential in the following tests: Ames, mouse lymphoma, chromosomal aberration and unscheduled DNA synthesis in primary rat hepatocytes.
+
+Impairment of Fertility
+
+In fertility studies rats were given oral dietary doses of fenofibrate, males received 61 days prior to mating and females 15 days prior to mating through weaning which resulted in no adverse effect on fertility at doses up to 300 mg/kg/day (~10 times the MRHD, based on mg/m2 surface area comparisons).
