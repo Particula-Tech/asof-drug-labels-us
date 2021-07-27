@@ -1,3 +1,5 @@
+# INSTRUCTIONS FOR USE
+
 Instructions for Use
 
 Fluticasone Propionate and Salmeterol inhalation powder 55 mcg/14 mcg
@@ -59,7 +61,7 @@ Step 1.
 Open
 
 - Hold the inhaler upright and open the yellow cap all the way until it “clicks”.
-  See Figure C
+  See Figure C.
 
 - Each time you open the yellow cap and it “clicks”, 1 dose of Fluticasone Propionate/Salmeterol inhalation powder is ready to be inhaled.
 
@@ -167,12 +169,13 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Distributed by:
 
-©2020 Teva Respiratory, LLC.
+Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+
+©2021 Teva Respiratory, LLC.
 All rights reserved.
 
-FPSIFU-004
+FPSIFU-005
 
-Rev.
-February 2020
+Revised: July 2021

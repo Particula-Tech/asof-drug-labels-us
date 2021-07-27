@@ -84,11 +84,15 @@ Oral administration of salmeterol at a dose in lactating rats approximately 2900
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI in the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA has been established.
-Use of Fluticasone Propionate/Salmeterol MDPI for this indication was supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
+The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI have been established for the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA.
+
+Use of Fluticasone Propionate/Salmeterol MDPI in pediatric patients aged 12 to 17 years for this indication is supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
 In these trials, 58 adolescents received Fluticasone Propionate/Salmeterol MDPI one inhalation twice daily.
 
-The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI in pediatric patients below the age of 12 years old have not been established.
+The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI have not been established in pediatric patients younger than 12 years of age for the treatment of asthma.
+Effectiveness was not demonstrated in one adequate and well-controlled study conducted in 211 patients aged 4 to 11 years with persistent asthma on a stable asthma regimen who were treated with Fluticasone Propionate/Salmeterol MDPI 55 mcg/14 mcg one inhalation twice daily.
+
+Effect on Growth
 
 Inhaled corticosteroids, including fluticasone propionate, a component of this product, may cause a reduction in growth velocity in adolescents [see Warning and Precautions (5.13)].
 The growth of pediatric patients receiving ICS, including Fluticasone Propionate/Salmeterol MDPI, should be monitored.

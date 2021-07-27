@@ -28,5 +28,5 @@ Fertility and reproductive performance were unaffected in male and female rats a
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical: Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta‑agonists and methylxanthines are administered concurrently.
+Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta‑agonists and methylxanthines are administered concurrently.
 The clinical relevance of these findings is unknown.
