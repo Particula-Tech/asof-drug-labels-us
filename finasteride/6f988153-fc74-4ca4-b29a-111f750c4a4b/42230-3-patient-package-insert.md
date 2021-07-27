@@ -63,6 +63,7 @@ The following have been reported in general use with PROSCAR and/or finasteride 
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat, and face
 - rarely, some men may have testicular pain
+- blood in semen
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
