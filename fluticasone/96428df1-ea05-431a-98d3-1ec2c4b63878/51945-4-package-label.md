@@ -25,7 +25,6 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 1. 10000000149209 Rev.
    4/18
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -54,4 +53,3 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 1. 10000000149210 Rev.
    4/18
-2. 
