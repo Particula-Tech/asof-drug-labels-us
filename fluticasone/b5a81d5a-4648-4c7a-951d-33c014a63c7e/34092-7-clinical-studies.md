@@ -6,7 +6,7 @@ The clinical efficacy of TRELEGY ELLIPTA has been evaluated in 3 clinical trials
 
 Trials 1 and 2 were multicenter, randomized, double-blind, parallel-group, 12-week treatment trials in subjects with COPD.
 Across both trials, a total of 412 subjects received coadministration of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg, the components of TRELEGY ELLIPTA.
-Comparative in vitrodata (drug delivery and aerodynamic particle size distribution) provide support for reliance on coadministration studies with umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg.
+Comparative in vitro data (drug delivery and aerodynamic particle size distribution) provide support for reliance on coadministration studies with umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg.
 These data demonstrated no pharmaceutical interactions and that each drug component (fluticasone furoate, umeclidinium, and vilanterol) was delivered in a comparable manner whether administered via a single ELLIPTA inhaler or from separate inhalers.
 
 The population demographics for Trials 1 and 2 were: mean age of 64 years, 92% White, 66% male, and an average smoking history of 48 pack-years, with 50% identified as current smokers.
@@ -39,9 +39,18 @@ Greater least squares (LS) mean changes from baseline in FEV1 over time were dem
 For Trial 1, LS mean changes in FEV1 over time relative to baseline are displayed for Day 1 and Day 84 in Figures 5 and 6, respectively.
 Similar results were seen in Trial 2.
 
+Figure 5.
+Least Squares (LS) Mean Change from Baseline in Postdose Serial FEV1 (mL) on Day 1
+
+Figure 6.
+Least Squares (LS) Mean Change from Baseline in Postdose Serial FEV1 (mL) on Day 84
+
 In Trial 3, treatment with TRELEGY ELLIPTA 100/62.5/25 mcg demonstrated a statistically significant improvement in lung function (mean change from baseline trough FEV1 at Week 52) compared with fluticasone furoate/vilanterol and umeclidinium/vilanterol.
 The mean change from baseline in trough (predose) FEV1 at Week 52 was 97 mL for TRELEGY ELLIPTA compared with fluticasone furoate/vilanterol (95% CI: 85, 109; P<0.001) and 54 mL for TRELEGY ELLIPTA compared with umeclidinium/vilanterol (95% CI: 39, 69; P<0.001).
 The effects on lung function (mean change from baseline trough FEV1) of TRELEGY ELLIPTA compared with fluticasone furoate/vilanterol and umeclidinium/vilanterol were observed at all timepoints over the course of the 52-week study (Figure 7).
+
+Figure 7.
+Least Squares (LS) Mean Change from Baseline in Trough FEV1 (mL)
 
 Exacerbations: In Trial 3, the primary endpoint was annual rate of on-treatment moderate and severe exacerbations in subjects with COPD treated with TRELEGY ELLIPTA 100/62.5/25 mcg compared with fluticasone furoate/vilanterol and umeclidinium/vilanterol.
 Exacerbations were defined as worsening of 2 or more major symptoms (dyspnea, sputum volume, and sputum purulence) or worsening of any 1 major symptom together with any 1 of the following minor symptoms: sore throat, colds (nasal discharge and/or nasal congestion), fever without other cause, and increased cough or wheeze for at least 2 consecutive days.
@@ -109,6 +118,12 @@ Least Squares Mean Change from Baseline in Trough FEV1 at Week 24
 | 95% CI |  |  |  | 49, 135 |
 | P value |  |  |  | P<0.001 |
 | FEV1 = Forced Expiratory Volume in 1 Second, FF/VI = Fluticasone Furoate/Vilanterol. |  |  |  |  |
+
+Figure 8.
+Least Squares Mean Change from Baseline in Trough FEV1 (mL) with TRELEGY ELLIPTA 100/62.5/25 mcg over 24 Weeks of Treatment
+
+Figure 9.
+Least Squares Mean Change from Baseline in Trough FEV1 (mL) with TRELEGY ELLIPTA 200/62.5/25 mcg over 24 Weeks of Treatment
 
 The difference in change from baseline in trough FEV1 at Week 24 for TRELEGY ELLIPTA 100/62.5/25 mcg compared with fluticasone furoate/vilanterol 200/25 mcg was 59 mL (95% CI: 15, 102).
 

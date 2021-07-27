@@ -49,5 +49,6 @@ Made in UK
 
 ©2020 GSK group of companies or its licensor.
 
-1. 62000000049430 Rev.
-   5/20
+1. 62000000055048 Rev.
+   9/20
+2. 

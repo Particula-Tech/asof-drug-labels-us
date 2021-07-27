@@ -75,7 +75,7 @@ Decreases in serum and urine cortisol levels were observed at fluticasone furoat
 Subjects with Chronic Obstructive Pulmonary Disease: In a trial with subjects with COPD, treatment with fluticasone furoate (50, 100, or 200 mcg)/vilanterol 25 mcg, vilanterol 25 mcg, or fluticasone furoate (100 or 200 mcg) for 6 months did not affect 24-hour urinary cortisol excretion.
 A separate trial with subjects with COPD demonstrated no effects on serum cortisol after 28 days of treatment with fluticasone furoate (50, 100, or 200 mcg)/vilanterol 25 mcg.
 
-Subjects withAsthma: A randomized, double-blind, parallel-group trial in 185 subjects with asthma showed no difference between once-daily treatment with fluticasone furoate/vilanterol 100/25 mcg or fluticasone furoate/vilanterol 200/25 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours), serum cortisol AUC(0-24), and 24-hour urinary cortisol after 6 weeks of treatment, whereas prednisolone 10 mg given once daily for 7 days resulted in significant cortisol suppression.
+Subjects with Asthma: A randomized, double-blind, parallel-group trial in 185 subjects with asthma showed no difference between once-daily treatment with fluticasone furoate/vilanterol 100/25 mcg or fluticasone furoate/vilanterol 200/25 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours), serum cortisol AUC(0-24), and 24-hour urinary cortisol after 6 weeks of treatment, whereas prednisolone 10 mg given once daily for 7 days resulted in significant cortisol suppression.
 
 ## 12.3 Pharmacokinetics
 
@@ -141,7 +141,25 @@ Specific Populations
 The effects of intrinsic and extrinsic factors on the pharmacokinetics of fluticasone furoate, umeclidinium, and vilanterol are shown in Figures 1, 2, 3, and 4.
 Based on population pharmacokinetic analyses in COPD and asthma, none of the covariates assessed (i.e., age, race, gender) had a clinically relevant effect on fluticasone furoate, umeclidinium, or vilanterol pharmacokinetics when administered as TRELEGY ELLIPTA.
 
-Racial or Ethnic Groups:Fluticasone Furoate: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate was approximately 30% higher in subjects with COPD of East Asian heritage (n = 113) compared with White subjects (Figure 1).
+Figure 1.
+Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF), Umeclidinium (UMEC), and Vilanterol (VI) following Coadministration in COPD
+
+Figure 2.
+Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF), Umeclidinium (UMEC), and Vilanterol (VI) following Coadministration in Asthmaa
+
+a Age, ethnicity, and gender comparison for TRELEGY ELLIPTA 200/62.5/25 mcg in subjects with asthma.
+
+Figure 3.
+Impact of Intrinsic Factorsa and Coadministered Drugsb on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) following Administration as Fluticasone Furoate/Vilanterol Combination or following Vilanterol Coadministered with Umeclidinium
+
+a Renal groups (fluticasone furoate/vilanterol 200/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200/25 mcg or fluticasone furoate/vilanterol 100/12.5 mcg).
+
+b Compared with placebo group.
+
+Figure 4.
+Impact of Intrinsic Factors and Coadministered Drugs on the Systemic Exposure of Umeclidinium
+
+Racial or Ethnic Groups: Fluticasone Furoate: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate was approximately 30% higher in subjects with COPD of East Asian heritage (n = 113) compared with White subjects (Figure 1).
 However, this higher exposure to fluticasone furoate is not expected to have clinically relevant effects on serum or urine cortisol or on efficacy in these racial groups.
 In East Asian subjects with asthma (Japanese, East Asian, and Southeast Asian heritage) (n = 92), there was no effect of race on pharmacokinetics of fluticasone furoate (Figure 2).
 

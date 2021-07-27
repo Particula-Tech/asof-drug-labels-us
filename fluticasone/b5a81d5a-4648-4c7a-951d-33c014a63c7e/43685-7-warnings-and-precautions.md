@@ -5,7 +5,7 @@
 Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death.
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
 These findings are considered a class effect of LABA monotherapy.
-When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (seeSerious Asthma-Related Events with Inhaled Corticosteroid/Long‑acting Beta2-adrenergic Agonists).
+When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long‑acting Beta2-adrenergic Agonists).
 
 Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
 
