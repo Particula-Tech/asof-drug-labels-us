@@ -22,7 +22,7 @@ Bottles of 90 NDC 0597-0191-90 Unit dose packages of 100 NDC 0597-0191-61
 
 ## 16.2 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 

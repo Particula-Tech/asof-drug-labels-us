@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-MIRAPEX® (mîr′-ah-pĕx) (pramipexole dihydrochloride) tablets
+MIRAPEX® (mîr′-ah-pĕx) (pramipexole dihydrochloride tablets)
 
 Read this Patient Information before you start taking MIRAPEX and each time you get a refill.
 There may be new information.
@@ -16,21 +16,21 @@ MIRAPEX is a prescription medicine used to treat:
 It is not known if MIRAPEX is safe and effective in children.
 
 What should I tell my doctor before taking MIRAPEX?
+Before taking MIRAPEX, tell your doctor if you:
 
-- Before taking MIRAPEX, tell your doctor if you:
-  - feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
-  - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
-  - have trouble controlling your muscles (dyskinesia)
-  - have kidney problems
-  - drink alcohol.
-    Alcohol can increase the chance that MIRAPEX will make you feel sleepy or fall asleep when you should be awake.
-  - have any other medical conditions
-  - are pregnant or plan to become pregnant.
-    It is not known if MIRAPEX will harm your unborn baby.
-  - are breastfeeding or plan to breastfeed.
-    It is not known if MIRAPEX passes into your breast milk.
-    You and your doctor should decide if you will take MIRAPEX or breastfeed.
-    You should not do both.
+- feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
+- have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
+- have trouble controlling your muscles (dyskinesia)
+- have kidney problems
+- drink alcohol.
+  Alcohol can increase the chance that MIRAPEX will make you feel sleepy or fall asleep when you should be awake.
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if MIRAPEX will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if MIRAPEX passes into your breast milk.
+  You and your doctor should decide if you will take MIRAPEX or breastfeed.
+  You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -62,11 +62,9 @@ How should I take MIRAPEX?
 - If you take more MIRAPEX than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, do not double your next dose.
   Skip the dose you missed and take your next regular dose.
-- If you have Parkinson’s disease and your doctor tells you to stop taking MIRAPEX, you should stop MIRAPEX slowly as directed by your doctor.
-  If you stop MIRAPEX too quickly you may have withdrawal symptoms such as:
-  - fever
-  - confusion
-  - severe muscle stiffness Do not stop taking MIRAPEX without talking to your doctor.
+- Do not stop taking MIRAPEX without talking to your doctor first.
+  If your doctor tells you to stop taking MIRAPEX, you should ask your doctor for specific instructions on how to safely discontinue taking MIRAPEX.
+  If you stop MIRAPEX you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of MIRAPEX?”).
 
 What should I avoid while taking MIRAPEX?
 
@@ -102,6 +100,20 @@ MIRAPEX may cause serious side effects, including:
 - posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+- withdrawal symptoms.
+  MIRAPEX is a dopamine agonist medicine.
+  Dopamine agonist medicines, including MIRAPEX, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with MIRAPEX is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:After you have stopped taking MIRAPEX, your doctor may need to restart you at a low dose of MIRAPEX if you get severe withdrawal symptoms.
+  - fever
+  - confusion
+  - severe muscle stiffness
+  - feeling like you do not care about things you usually care about (apathy)
+  - anxiety
+  - depression
+  - fatigue
+  - insomnia
+  - sweating
+  - pain
 
 The most common side effects in people taking MIRAPEX for Restless Legs Syndrome are nausea and headache.
 
@@ -140,7 +152,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MIRAPEX that is written for healthcare professionals.
 
-For current Prescribing Information, scan the code below or for additional information, you may also call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or 1-800-459-9906 TTY.
+For more information about MIRAPEX call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 What are the ingredients in MIRAPEX?
 
@@ -152,12 +164,12 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-Trademark under license from: Boehringer Ingelheim International GmbH
+MIRAPEX is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: April 2020
+Revised: 7/2021
 
-OT1338AAD082020
+COL9697AG162021
