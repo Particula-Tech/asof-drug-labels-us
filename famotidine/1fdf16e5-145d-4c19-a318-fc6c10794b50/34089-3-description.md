@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 The active ingredient in Famotidine Injection, USP is a histamine H2-receptor antagonist.
-Famotidine is [1-Amino-3-[[[2-[(diaminomethylene) amino]-4-thiazolyl]methyl]thio]propylidene] sulfamide.
+Famotidine is [1-Amino-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propylidene] sulfamide.
 Its structural formula is:
 
 C8H15N7O2S3 MW 337.45
