@@ -6,14 +6,12 @@ Rx only
 
 Efudex® (fluorouracil) Topical Cream 5%
 
-FOR TOPICAL USE ONLY
-
-NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
-
 Net Wt.
 40 g
 
-5%
+FOR TOPICAL USE ONLY
+
+NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
 Ortho Dermatologics
 
