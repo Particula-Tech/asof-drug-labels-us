@@ -142,13 +142,17 @@ Efficacy results are shown in Table 43 and Figure 4.
 
 Table 43: Efficacy Results - CHECKMATE-238
 
-| Recurrence-free Survival |  |  |
-| --- | --- | --- |
-|  | OPDIVO N=453 | Ipilimumab 10 mg/kg N=453 |
-| Number of events, n (%) | 154 (34%) | 206 (45%) |
-| Median (months) (95% CI) | NRa | NRa (16.56, NRa) |
-| Hazard ratiob (95% CI) p-valuec,d | 0.65 (0.53, 0.80) p<0.0001 |  |
-| a Not reached. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with 0.0244 of the allocated alpha for this analysis. |  |  |
+| Recurrence-free Survival |  |  |  |
+| --- | --- | --- | --- |
+|  | OPDIVO N=453 |  | Ipilimumab 10 mg/kg N=453 |
+| Number of events, n (%) | 154 (34%) |  | 206 (45%) |
+| Median (months) (95% CI) | NRa |  | NRa (16.56, NRa) |
+| Hazard ratiob (95% CI) p-valuec,d | 0.65 (0.53, 0.80) p<0.0001 |  |  |
+| Overall Survival |  |  |  |
+| Number of events, n (%)e | 100 (22%) | 111 (25%) |  |
+| Median (months) (95% CI) | NRa | NRa |  |
+| Hazard ratiob (95% CI) p-value | 0.87 (0.67, 1.14) 0.3148 |  |  |
+| a Not reached. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with 0.0244 of the allocated alpha for this analysis. e At the time of the final OS analysis, fewer overall survival events were observed than originally anticipated (approximately 302). |  |  |  |
 
 Figure 4: Recurrence-free Survival - CHECKMATE-238
 
