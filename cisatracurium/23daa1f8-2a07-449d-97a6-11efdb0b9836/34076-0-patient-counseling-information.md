@@ -6,20 +6,16 @@ Advise the caregiver and/or family that severe hypersensitivity reactions have o
 
 Trademarks are the property of their respective owners.
 
-Manufactured by:
-
-Wintac Limited
-
-Bangalore 562123
-
-India
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
 Hollywood, FL 33024
 
-ST-CAB/P/01
+Customer Care # 1-800-417-9175
+
+Made in India
+
+Code No.:KR/DRUGS/KTK/28/289/97
+
+ST-CAB/P/02
