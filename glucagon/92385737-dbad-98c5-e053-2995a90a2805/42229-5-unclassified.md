@@ -1,4 +1,4 @@
-GVOKE™ is a trademark of Xeris Pharmaceuticals, Inc.
+GVOKE® is a trademark of Xeris Pharmaceuticals, Inc.
 
 Manufactured for Xeris Pharmaceuticals, Inc. by Pyramid Laboratories Inc., Costa Mesa, CA 92626
 
@@ -12,4 +12,4 @@ Xeris Pharmaceuticals, Inc.
 
 www.xerispharma.com
 
-© 2019 Xeris Pharmaceuticals
+© 2021 Xeris Pharmaceuticals

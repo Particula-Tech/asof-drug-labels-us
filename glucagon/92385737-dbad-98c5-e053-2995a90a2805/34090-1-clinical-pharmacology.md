@@ -45,9 +45,9 @@ Specific Populations
 
 Pediatrics
 
-Subcutaneous injection of 0.5 mg GVOKE in subjects ages 2 to under 6 years resulted in a mean glucagon Cmax of 2300 pg/mL, tmax of 41 minutes, and AUC0‑180min of 1389 pg/mL*min.
-Subcutaneous injection of 0.5 mg GVOKE in subjects ages 6 to under 12 years resulted in a mean Cmax of 1600 pg/mL, median tmax of 34 minutes and AUC0‑180min of 1047 pg/mL*min.
-Subcutaneous injection of 1 mg GVOKE in subjects ages 12 to less than 18 years resulted in a mean Cmax of 1900 pg/mL, tmax of 51 minutes AUC0‑180min of 1343 pg/mL*min.
+Subcutaneous injection of 0.5 mg GVOKE in subjects ages 2 to under 6 years resulted in a mean glucagon Cmax of 2300 pg/mL, tmax of 41 minutes, and AUC0‑180min of 138900 pg/mL*min.
+Subcutaneous injection of 0.5 mg GVOKE in subjects ages 6 to under 12 years resulted in a mean Cmax of 1600 pg/mL, median tmax of 34 minutes and AUC0‑180min of 104700 pg/mL*min.
+Subcutaneous injection of 1 mg GVOKE in subjects ages 12 to less than 18 years resulted in a mean Cmax of 1900 pg/mL, tmax of 51 minutes AUC0‑180min of 134300 pg/mL*min.
 Mean plasma glucagon levels were similar across the age groups following age appropriate doses of GVOKE.
 
 Figure 4: Mean (± SEM) Plasma Glucagon Concentration vs. Time from GVOKE Injection in Pediatric Patients with Type 1 Diabetes Mellitus

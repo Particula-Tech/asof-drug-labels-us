@@ -18,6 +18,7 @@ Emphasize the following instructions to the patient or caregiver:
   If the solution is discolored or contains particulate matter, do not use.
 - Administer the injection in the lower abdomen, outer thigh, or outer upper arm.
 - Call for emergency assistance immediately after administering the dose.
+- If there has been no response after 15 minutes, an additional dose from a new device may be administered while waiting for emergency assistance.
 - When the patient has responded to treatment, give oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
 - Do not attempt to reuse GVOKE.
   Each GVOKE device contains a single dose of glucagon and cannot be reused.
