@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA213434"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-061-01",
+    "72205-062-01",
+    "72205-063-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
+  "setid": "4e1bf850-d616-4ff3-b62a-2057dddc3dfe",
+  "source": "dailymed"
+}
