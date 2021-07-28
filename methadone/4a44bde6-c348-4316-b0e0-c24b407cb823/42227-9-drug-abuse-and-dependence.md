@@ -53,7 +53,7 @@ Rapid discontinuation has also been associated with attempts to find other sourc
 
 When discontinuing methadone hydrochloride tablets, gradually taper the dosage using a patient-specific plan that considers the following: the dose of methadone hydrochloride tablets the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see DOSAGE AND ADMINISTRATION (2.5), WARNINGS (5.15)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see DOSAGE AND ADMINISTRATION (2.6), WARNINGS (5.15)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see USE IN SPECIFIC POPULATIONS (8.1)].
 

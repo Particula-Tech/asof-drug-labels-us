@@ -13,6 +13,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the prescribing of methadone hydrochloride tablets for the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as methadone hydrochloride tablets, but use in such patients necessitates intensive counseling about the risks and proper use of methadone hydrochloride tablets along with the intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.3)].
 
 Abuse or misuse of methadone hydrochloride tablets by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the methadone and can result in overdose and death [see OVERDOSAGE (10)].
 
@@ -48,14 +49,36 @@ While serious, life-threatening, or fatal respiratory depression can occur at an
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
 Monitor patients closely for respiratory depression, when initiating therapy with methadone hydrochloride tablets and following dose increases.
 
-To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see DOSAGE AND ADMINISTRATION (2.3, 2.4)].
+To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see DOSAGE AND ADMINISTRATION (2.4, 2.5)].
 Overestimating the methadone hydrochloride tablets dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see PATIENT COUNSELING INFORMATION (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE AND ADMINISTRATION (2.4)]
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE AND ADMINISTRATION (2.5)]
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with methadone hydrochloride tablets.
+
+For Patients Being Treated for Pain
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+
+For Patients Being Treated for Opioid Addiction
+
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets itself [see OVERDOSAGE (10)].
+
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see PATIENT COUNSELING INFORMATION (17)].
 
 ## 5.4 Life-Threatening QT Prolongation
 
@@ -115,6 +138,8 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.3)].
+
 Advise both patients and caregivers about the risks of respiratory depression and sedation when methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see DRUG INTERACTIONS (7) and PATIENT COUNSELING INFORMATION (17)].
@@ -139,6 +164,8 @@ In others, gradually tapering a patient off a prescribed benzodiazepine or other
 For patients in methadone treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
+
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in methadone treatment for opioid use disorder [see WARNINGS AND PRECAUTIONS (5.3)].
 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see DRUG INTERACTIONS (7)].
