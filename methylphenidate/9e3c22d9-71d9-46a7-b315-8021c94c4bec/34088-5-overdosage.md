@@ -1,15 +1,11 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
+Human Experience Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following nausea, vomiting, diarrhea, restlessness, anxiety, agitation, tremors, hyperreflexia, muscle twitching, convulsions (which may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, hypotension, tachypnea, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
 
-Consult with a Certified Poison Control Center regarding treatment for up-to-date guidance and advice.
-
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Gastric contents may be evacuated by gastric lavage.
-In the presence of severe intoxication, use a carefully titrated dosage of a short-acting barbiturate before performing gastric lavage.
-Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
-
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
-
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for methylphenidate overdosage has not been established.
+Overdose Management Consult with a Certified Poison Control Center (1-800-222-1222) for the latest recommendations on the management of overdosage with methylphenidate.
+Provide supportive care, including close medical supervision and monitoring.
+Treatment should consist of those general measures employed in the management of overdosage with any drug.
+Consider the possibility of multiple drug overdosage.
+Ensure an adequate airway, oxygenation, and ventilation.
+Monitor cardiac rhythm and vital signs.
+Use supportive and symptomatic measures.

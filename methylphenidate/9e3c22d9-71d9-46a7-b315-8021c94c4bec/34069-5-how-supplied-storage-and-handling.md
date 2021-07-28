@@ -1,27 +1,14 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Methylin Oral Solution 5 mg per 5 mL is available as a colorless, grape flavored liquid.
+How Supplied Methylin oral solution is a colorless, grape flavored liquid available in the following strengths:
 
-Bottles of 500 mL........
-NDC 59630-750-50
+- 5 mg per 5 mL Bottles of 500 mL.................NDC 59630-750-50
+- 10 mg per 5 mL Bottles of 500 mL.................NDC 59630-755-50
 
-Methylin Oral Solution 10 mg per 5 mL is available as a colorless, grape flavored liquid.
-
-Bottles of 500 mL........
-NDC 59630-755-50
-
+Storage and Handling Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in tight container with child-resistant closure.
 
-Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-
-Methylin is a trademark of Mallinckrodt LLC.
-
-Ritalin is a registered trademark of Novartis Corporation.
-
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
-
-Manufactured by: SpecGx LLC Webster Groves, MO 63119 US
-
-MOS-PI-08 L20M21 Rev 06/2021
-
-An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M31.pdf or by calling 1-800-778-7898 for alternate delivery options.
+Disposal Comply with local laws and regulations on drug disposal of CNS stimulants.
+Dispose of remaining, unused, or expired Methylin by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
+If no take-back program or authorized collector is available, mix Methylin with an undesirable, nontoxic substance to make it less appealing to children and pets.
+Place the mixture in a container such as a sealed plastic bag and discard Methylin in the household trash.

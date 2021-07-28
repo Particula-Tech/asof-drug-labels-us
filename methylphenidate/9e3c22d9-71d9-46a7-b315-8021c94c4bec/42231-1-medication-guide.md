@@ -1,146 +1,19 @@
 # MEDICATION GUIDE
 
-Methylin® Oral Solution (methylphenidate HCl oral solution) 5 mg/5 mL and 10 mg/5 mL CII
-
-Read the Medication Guide that comes with Methylin Oral Solution before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with Methylin Oral Solution.
-
-| What is the most important information I should know about Methylin Oral Solution? The following have been reported with use of methylphenidate HCl oral solution and other stimulant medicines.1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Methylin Oral Solution. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Methylin Oral Solution. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Methylin Oral Solution.2. Mental (Psychiatric) problems:All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Methylin Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Methylin. |
+| MEDICATION GUIDEMETHYLIN® (METH il in) (methylphenidate hydrochloride) oral solution, CII |
 | --- |
-
-What Is Methylin Oral Solution?
-
-Methylin Oral Solution is a central nervous system stimulant prescription medicine.
-Methylin Oral Solution is a liquid form of medication that you take by mouth.
-It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
-Methylin Oral Solution may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-
-Methylin Oral Solution should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-
-Methylin Oral Solution is also used in the treatment of a sleep disorder called narcolepsy.
-
-| Methylin Oral Solution is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Methylin Oral Solution in a safe place to prevent misuse and abuse. Selling or giving away Methylin Oral Solution may harm others, and is against the law.Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
-| --- |
-
-Who should not take Methylin Oral Solution?
-
-Methylin Oral Solution should not be taken if you or your child:
-
-- are very anxious, tense, or agitated
-- have an eye problem called glaucoma
-- have tics or Tourette's syndrome, or a family history of Tourette's syndrome.
-  Tics are hard to control repeated movements or sounds.
-- are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
-- are allergic to anything in Methylin Oral Solution.
-  See the end of this Medication Guide for a complete list of ingredients.
-
-Methylin Oral Solution should not be used in children less than 6 years old because it has not been studied in this age group.
-
-Methylin Oral Solution may not be right for you or your child.
-Before starting Methylin Oral Solution tell your or your child's doctor about all health conditions (or a family history of) including:
-
-- heart problems, heart defects, high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette's syndrome
-- seizures or have had an abnormal brain wave test (EEG)
-- circulation problems in fingers and toes
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
-
-Can Methylin Oral Solution be taken with other medicines?
-
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Methylin Oral Solution and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking Methylin Oral Solution.
-
-Your doctor will decide whether Methylin Oral Solution can be taken with other medicines.
-
-Especially tell your doctor if you or your child takes:
-
-- antidepression medicines including MAOIs
-- seizure medicines
-- blood thinner medicines
-- blood pressure medicines
-- cold or allergy medicines that contain decongestants
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking Methylin Oral Solution without talking to your doctor first.
-
-How should Methylin Oral Solution be taken?
-
-- Take Methylin Oral Solution exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Methylin Oral Solution is usually taken 2 to 3 times a day.
-- Take Methylin Oral Solution 30 to 45 minutes before meals.
-- From time to time, your doctor may stop Methylin Oral Solution treatment for awhile to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking Methylin Oral Solution.
-  Children should have their height and weight checked often while taking Methylin Oral Solution.
-  Methylin Oral Solution treatment may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much Methylin Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of Methylin Oral Solution?
-
-See “What is the most important information I should know about Methylin Oral Solution?” for information on reported heart and mental problems.
-
-Other serious side effects include:
-
-- slowing of growth (height and weight) in children
-- seizures, mainly in patients with a history of seizures
-- eyesight changes or blurred vision
-- Painful and prolonged erections (priapism) have occurred with methylphenidate.
-  If you or your child develop priapism, seek medical help right away.
-  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
-
-Common side effects include:
-
-- nervousness
-- trouble sleeping
-- headache
-- stomach ache
-- fast heart beat
-- nausea
-- decreased appetite
-- dizziness
-- weight loss
-
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Methylin Oral Solution?
-
-- Store Methylin Oral Solution in a safe place at room temperature, 68° to 77°F (20° to 25°C).
-- Keep Methylin Oral Solution and all medicines out of the reach of children.
-
-General information about Methylin Oral Solution
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Methylin Oral Solution for a condition for which it was not prescribed.
-Do not give Methylin Oral Solution to other people, even if they have the same condition.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about Methylin Oral Solution.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Methylin Oral Solution that was written for healthcare professionals.
-For more information, please contact Shionogi Inc. at 1-800-849-9707 or visit the website at www.methylinrx.com.
-
-What are the ingredients in Methylin Oral Solution?
-
-Active Ingredient: methylphenidate hydrochloride USP
-
-Inactive Ingredients: citric acid anhydrous, glycerin, N&A grape flavor, PEG 1450, and purified water.
+| What is the most important information I should know about METHYLIN? METHYLIN can cause serious side effects, including: Abuse and dependence. METHYLIN, other methylphenidate containing medicines, and amphetamines have a high chance for abuse and can cause physical and psychological dependence. Your healthcare provider should check you or your child for signs of abuse and dependence before and during treatment with METHYLIN. Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.Your healthcare provider can tell you more about the differences between physical and psychological dependence and drug addiction. Heart-related problems, including: sudden death, stroke, and heart attack in adultssudden death in children who have heart problems or heart defectsincreased blood pressure and heart rate Your healthcare provider should check you or your child carefully for heart problems before starting treatment with METHYLIN. Tell your healthcare provider if you or your child have any heart problems, heart defects, high blood pressure, or have a family history of these problems. Your healthcare provider should check your or your child’s blood pressure and heart rate regularly during treatment with METHYLIN. Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with METHYLIN. Mental (psychiatric) problems, including: new or worse behavior and thought problemsnew or worse bipolar illnessnew psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with METHYLIN, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
+| What is METHYLIN? METHYLIN is a prescription medicine used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in people 6 years of age and older. METHYLIN may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. It is not known if METHYLIN is safe and effective for use in children under 6 years of age. METHYLIN is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs. Keep METHYLIN in a safe place to protect it from theft. Never give your METHYLIN to anyone else, because it may cause death or harm them. Selling or giving away METHYLIN may harm others and is against the law. |
+| Do not take METHYLIN if you or your child are: allergic to methylphenidate hydrochloride or any of the ingredients in METHYLIN. See the end of this Medication Guide for a complete list of ingredients in METHYLIN.taking, or have stopped taking within the past 14 days, a medicine called a monoamine oxidase inhibitor (MAOI). |
+| Before taking METHYLIN tell your healthcare provider about all your medical conditions, including if you or your child: have heart problems, heart defects, or high blood pressurehave mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depressionhave circulation problems in fingers and toesare pregnant or plan to become pregnant. It is not known if METHYLIN will harm the unborn baby. There is a pregnancy registry for females who are exposed to METHYLIN during pregnancy. The purpose of the registry is to collect information about the health of females exposed to METHYLIN and their baby. If you or your child becomes pregnant during treatment with METHYLIN, talk to your healthcare provider about registering with the National Pregnancy Registry for Psychostimulants at 1-866-961-2388. are breastfeeding or plan to breastfeed. METHYLIN passes into breast milk. Talk to your healthcare provider about the best way to feed the baby during treatment with METHYLIN. Tell your healthcare provider about all the medicines that you take or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. METHYLIN and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be changed during treatment with METHYLIN. Your healthcare provider will decide whether METHYLIN can be taken with other medicines. Especially tell your healthcare provider if you or your child take a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI). Know the medicines that you take or your child take. Keep a list of your medicines with you to show your healthcare provider and pharmacist. Do not start any new medicine during treatment with METHYLIN without talking to your healthcare provider first. |
+| How should METHYLIN be taken? Take METHYLIN exactly as prescribed by your healthcare provider.Your healthcare provider may change the dose if needed.Children 6 years of age and older: Take METHYLIN by mouth 2 times a day before breakfast and lunch, 30 to 45 before a meal, as prescribed by your healthcare provider. Adults: Take METHYLIN by mouth 2 or 3 times a day, 30 to 45 before a meal, as prescribed by your healthcare provider.For adults who have sleep problems when METHYLIN is taken late in the day, take your last dose of METHYLIN before 6 p.m. Your healthcare provider may sometimes stop METHYLIN treatment for a while to check ADHD symptoms.If you or your child take too much METHYLIN, call your poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of METHYLIN? METHYLIN can cause serious side effects, including: See “What is the most important information I should know about METHYLIN?”Painful and prolonged erections (priapism). Priapism has happened in males who take products that contain methylphenidate. If you or your child develop priapism, get medical help right away.Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon). Signs and symptoms may include: fingers or toes may feel numb, cool, painfulfingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes, or if you or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with METHYLIN. Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with METHYLIN. METHYLIN treatment may be stopped if your child is not growing or gaining weight. The most common side effects of METHYLIN include: increased heart rateheadacheanxietyweight lossdry mouthstomach painirregular heart beat (palpitations)trouble sleepingsweatingdecreased appetitenausea These are not all the possible side effects of METHYLIN. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store METHYLIN? Store METHYLIN at room temperature between 68°F to 77°F (20°C to 25°C). Store METHYLIN in a safe place, like a locked cabinet.Protect from light and moisture.Dispose of remaining, unused, or expired METHYLIN by a medication take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations. If no take-back program or authorized collector is available, mix METHYLIN with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away METHYLIN in the household trash. Keep METHYLIN and all medicines out of the reach of children. |
+| General information about the safe and effective use of METHYLIN. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use METHYLIN for a condition for which it was not prescribed. Do not give METHYLIN to other people, even if they have the same symptoms. It may harm them and it is against the law. You can ask your healthcare provider or pharmacist for information about METHYLIN that was written for healthcare professionals. |
+| What are the ingredients in METHYLIN?Active Ingredient: methylphenidate hydrochloride USPInactive Ingredients: citric acid anhydrous, glycerin, N&A grape flavor, PEG 1450, and purified waterDistributed by: Shionogi Inc., Florham Park, NJ 07932Manufactured by: SpecGx LLC, Webster Groves, MO 63119 USA For more information go to www.methylinrx.com or call 1-800-849-9707. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
+Revised: 07/2021
 
-Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
-
-MOS-MG-05 L20M31 Rev 08/2017
+MOS-MG-06 L20M31
