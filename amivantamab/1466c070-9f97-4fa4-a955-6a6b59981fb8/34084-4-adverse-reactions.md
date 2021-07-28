@@ -38,9 +38,9 @@ Adverse reactions requiring dose reductions in ≥ 2% of patients included rash 
 The most common adverse reactions (≥ 20%) were rash, IRR, paronychia, musculoskeletal pain, dyspnea, nausea, fatigue, edema, stomatitis, cough, constipation, and vomiting.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased albumin, decreased phosphate, decreased potassium, increased glucose, increased alkaline phosphatase, increased gamma-glutamyl transferase, and decreased sodium.
 
-Table 6 summarizes the adverse reactions in CHRYSALIS.
+Table 7 summarizes the adverse reactions in CHRYSALIS.
 
-Table 6: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received RYBREVANT in CHRYSALIS
+Table 7: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received RYBREVANT in CHRYSALIS
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |
@@ -80,9 +80,9 @@ Table 6: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Inserti
 
 Clinically relevant adverse reactions in <10% of patients who received RYBREVANT included ocular toxicity, ILD/pneumonitis, and toxic epidermal necrolysis (TEN).
 
-Table 7 summarizes the laboratory abnormalities in CHRYSALIS.
+Table 8 summarizes the laboratory abnormalities in CHRYSALIS.
 
-Table 7: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received RYBREVANT in CHRYSALIS
+Table 8: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received RYBREVANT in CHRYSALIS
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |

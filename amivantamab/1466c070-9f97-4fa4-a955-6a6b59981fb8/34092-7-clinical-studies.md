@@ -17,9 +17,9 @@ The median age was 62 (range: 42 to 84) years, 59% were female; 49% were Asian, 
 The median number of prior therapies was 2 (range: 1 to 7).
 At baseline, 67% had Eastern Cooperative Oncology Group (ECOG) performance status of 1; 53% never smoked; all patients had metastatic disease; and 22% had previously treated brain metastases.
 
-Efficacy results are summarized in Table 8.
+Efficacy results are summarized in Table 9.
 
-Table 8: Efficacy Results for CHRYSALIS
+Table 9: Efficacy Results for CHRYSALIS
 
 |  | Prior Platinum-based Chemotherapy Treated (N=81) |
 | --- | --- |
