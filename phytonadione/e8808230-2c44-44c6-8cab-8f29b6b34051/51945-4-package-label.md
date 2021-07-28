@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Ampul Label - RL-7130
-
-0.5 mL
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Ampul Label - RL-7876
 
 NDC 0409-9157-31
+
+0.5 mL Single-dose Ampul
 
 Rx only
 
@@ -12,14 +12,15 @@ Phytonadione Injectable Emulsion, USP
 1 mg/0.5 mL Neonatal Concentration
 
 Contains no more than 100 mcg/L of aluminum.
-
 Protect from light.
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-7130
-
 Hospira
+
+RL-7876
+
+##-###-AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Ampul Tray Label - RL-7129
 
@@ -47,11 +48,11 @@ Hospira
 
 RL-7129
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Ampul Label - RL-7126
-
-1 mL only
+# PRINCIPAL DISPLAY PANEL - 1 mL Ampul Label - RL-7875
 
 NDC 0409-9158-31
+
+1 mL only Single-dose Ampul
 
 VITAMIN K1 Inj.
 
@@ -62,11 +63,13 @@ Phytonadione Injectable Emulsion, USP
 Contains no more than 110 mcg/L of aluminum.
 Protect from light.
 
+Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
+
 Rx only
 
-RL-7126
+RL-7875
 
-Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
+##-###-AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Ampul Tray Label - RL-7125
 
@@ -94,16 +97,22 @@ Hospira
 
 RL-7125
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Ampul Label - RL-7127
+# PRINCIPAL DISPLAY PANEL - 1 mL Ampul Label - RL-7874
 
-NDC 0409-9158-11 Rx only 1 mL
+NDC 0409-9158-11 Rx only 1 mL Single-dose Ampul
 
 VITAMIN K1 Inj.
 Phytonadione Injectable Emulsion, USP 10 mg/mL
 
 Contains no more than 110 mcg/L of aluminum.
 Protect from light.
-Dist. by Hospira, Inc., Lake Forest, IL 60045 USA RL -7127 novaplus™
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+novaplus™
+
+RL-7874
+
+##-###-AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Ampul Tray Label - RL-7128
 
