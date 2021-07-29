@@ -54,7 +54,7 @@ Consider monitoring renal function in elderly patients taking fenofibrate.
 
 ## 8.6 Renal Impairment
 
-The use of fenofibrate should be avoided in patients who have severe renal impairment [see Contraindications (4)].
+The use of fenofibrate should be avoided in patients who have severe renal impairment [see Contraindication (4)].
 Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Monitoring renal function in patients with renal impairment is recommended.
 
