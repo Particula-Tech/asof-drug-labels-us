@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Hypersensitivity to any component of this medication.
+Mephyton is contraindicated in patients with a history of a hypersensitivity reaction to phytonadione or inactive ingredients [see Description (11)].
