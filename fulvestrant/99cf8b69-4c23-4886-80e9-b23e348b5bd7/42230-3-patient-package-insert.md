@@ -13,6 +13,13 @@ Fulvestrant injection may be used alone, if you have gone through menopause, and
 - •hormone receptor (HR)-positive and human epidermal growth factor receptor 2 (HER2)-negative and has not been previously treated with endocrine therapy
 - or
 - •HR-positive and has progressed after endocrine therapy.
+
+Fulvestrant injection may be used in combination with ribociclib, if you have gone through menopause, and your advanced or metastatic breast cancer is HR-positive and HER2-negative, and has not been previously treated with endocrine therapy or has progressed after endocrine therapy.
+
+Fulvestrant injection may be used in combination with palbociclib or abemaciclib if your advanced or metastatic breast cancer is HR-positive and HER2-negative, and has progressed after endocrine therapy.
+
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, also read the Patient Information for the prescribed product.
+
 - It is not known if fulvestrant injection is safe and effective in children.
 - It is not known if fulvestrant injection is safe and effective in people with severe liver problems.
 
@@ -36,9 +43,9 @@ Before receiving fulvestrant injection, tell your healthcare provider about all 
 - •are pregnant or plan to become pregnant.
   Fulvestrant can harm your unborn baby.
 - Females who are able to become pregnant:
-- •Your healthcare provider may perform a pregnancy test within 7 days before you start fulvestrant injection.
-- •You should use effective birth control during treatment with fulvestrant injection and for one year after the last dose of fulvestrant injection.
-- •Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with fulvestrant injection.
+- oYour healthcare provider may perform a pregnancy test within 7 days before you start fulvestrant injection.
+- oYou should use effective birth control during treatment with fulvestrant injection and for one year after the last dose of fulvestrant injection.
+- oTell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with fulvestrant injection.
 - •are breastfeeding or plan to breastfeed.
   It is not known if fulvestrant passes into your breast milk.
   Do not breastfeed during your treatment with fulvestrant injection and for one year after the final dose of fulvestrant injection.
@@ -60,9 +67,9 @@ Fulvestrant injection may cause serious side effects, including:
 
 - •Injection site related nerve damage.
   Call your healthcare provider if you develop any of the following symptoms in your legs following a fulvestrant injection:
-- •numbness
-- •tingling
-- •weakness
+- onumbness
+- otingling
+- oweakness
 
 The most common side effects of fulvestrant injection include:
 
@@ -109,4 +116,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-November 2020
+07/2021

@@ -6,6 +6,24 @@ Monotherapy
 
 The recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter [see Clinical Studies (14)].
 
+Combination Therapy
+
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, the recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days1, 15, 29,and once monthly thereafter.
+
+When fulvestrant injection is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
+Palbociclib should be taken with food.
+Refer to the Full Prescribing Information for palbociclib.
+
+When fulvestrant injection is used in combination with abemaciclib, the recommended dose of abemaciclib is 150 mg orally, twice daily.
+Abemaciclib may be taken with or without food.
+Refer to the Full Prescribing Information for abemaciclib.
+
+When fulvestrant injection is used in combination with ribociclib, the recommended dose of ribociclib is 600 mg taken orally, once daily for 21 consecutive days followed by 7 days off treatment resulting in a complete cycle of 28 days.
+Ribociclib can be taken with or without food.
+Refer to the Full Prescribing Information for ribociclib.
+
+Pre/perimenopausal women treated with the combination of fulvestrant injection plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+
 ## 2.2 Dose Modification
 
 Monotherapy
@@ -15,6 +33,12 @@ Hepatic Impairment:
 A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 to 2 minutes) as one 5 mL injection on Days 1, 15, 29, and once monthly thereafter.
 
 Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+
+Combination Therapy
+
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to monotherapy dose modification instructions for fulvestrant injection.
+
+Refer to the Full Prescribing Information of co-administered palbociclib, abemaciclib, or ribociclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
 
 ## 2.3 Administration Technique
 

@@ -7,4 +7,4 @@ The molecular formula is C32H47F5O3S and its structural formula is:
 Fulvestrant is a white powder with a molecular weight of 606.77 g/mol.
 The solution for injection is a clear, colorless to yellow, viscous liquid.
 
-Each injection contains as inactive ingredients: 12% v/v Alcohol USP, 10% w/v Benzyl Alcohol, NF, and 15% w/v Benzyl Benzoate, USP, as co-solvents, and made up to 100% w/v with Castor Oil, USP as a co-solvent and release rate modifier.
+Each injection contains as inactive ingredients: 12% v/v Alcohol, USP, 10% w/v Benzyl Alcohol, NF, and 15% w/v Benzyl Benzoate, USP, as co-solvents, and made up to 100% w/v with Castor Oil, USP as a co-solvent and release rate modifier.

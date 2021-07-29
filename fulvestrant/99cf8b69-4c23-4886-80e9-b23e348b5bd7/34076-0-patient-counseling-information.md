@@ -17,6 +17,10 @@ Lactation:
 
 - •Advise women not to breastfeed during treatment with fulvestrant and for one year after the last dose [see Use in Specific Populations (8.2)].
 
+Combination Therapy
+
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
+
 Manufactured by:
 
 Glenmark Pharmaceuticals Inc., USA
@@ -26,4 +30,6 @@ Monroe, NC 28110
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
-1 (888) 721-7115 www.glenmarkpharma-us.com November 2020
+1 (888) 721-7115 www.glenmarkpharma-us.com
+
+07/2021

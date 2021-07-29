@@ -2,7 +2,7 @@
 
 Fulvestrant Injection is supplied as two 5 mL clear neutral glass (Type 1) barrels, each containing 250 mg/5 mL of fulvestrant solution for intramuscular injection and fitted with a tamper evident closure.
 
-NDC 68462–317–32
+2 single-dose pre-filled syringes in 1 carton: NDC 68462–317–32
 
 The single-dose pre-filled syringes are presented in a tray with polystyrene plunger rod and safety needles (SafetyGlide™) for connection to the barrel.
 
