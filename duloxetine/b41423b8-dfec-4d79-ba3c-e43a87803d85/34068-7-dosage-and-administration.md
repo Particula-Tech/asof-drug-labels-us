@@ -1,12 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Administration Information
+## 2.1 Important Administration Instructions
 
-- Administer DRIZALMA Sprinkle with or without food.
-  Swallow DRIZALMA Sprinkle whole (do not chew or crush the capsule).
+- Administer DRIZALMA SPRINKLE with or without food.
+  Swallow DRIZALMA SPRINKLE whole (do not chew or crush the capsule).
   For patients unable to swallow an intact capsule, refer to the alternative administration instructions below.
 - Directions for use with applesauce
-- For patients with swallowing difficulty, DRIZALMA Sprinkle can be opened and the contents sprinkled over applesauce.
+- For patients with swallowing difficulty, DRIZALMA SPRINKLE can be opened and the contents sprinkled over applesauce.
   The contents of the capsules should be swallowed along with a small amount (tablespoonful) of applesauce.
   The drug/food mixture should be swallowed immediately and not stored for future use.
 - Nasogastric tube administration
@@ -15,74 +15,97 @@
   Promptly deliver through a 12 French or larger nasogastric tube.
   Ensure no pellets are left in the syringe.
   Rinse with additional water (about 15 mL) if needed.
-- If a dose of DRIZALMA Sprinkle is missed, take the missed dose as soon as it is remembered.
+- If a dose of DRIZALMA SPRINKLE is missed, take the missed dose as soon as it is remembered.
   If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
-  Do not take two doses of DRIZALMA Sprinkle at the same time.
+  Do not take two doses of DRIZALMA SPRINKLE at the same time.
 
-## 2.2 Dosage for Treatment of Major Depressive Disorder
+## 2.2 Dosage for Treatment of Major Depressive Disorder in Adults
 
-Administer DRIZALMA Sprinkle at a total dose of 40 mg per day (given as 20 mg twice daily) to 60 mg per day (given either once daily or as 30 mg twice daily).
-For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+The recommended starting dosage in adults with MDD is 40 mg per day (given as 20 mg twice daily) to 60 mg per day (given either once daily or as 30 mg twice daily).
+For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
 While a 120 mg per day dose was shown to be effective, there is no evidence that doses greater than 60 mg per day confer any additional benefits.
-The safety of doses above 120 mg per day has not been adequately evaluated.
-Periodically reassess to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
+Periodically reassess to determine the need for maintenance treatment and the appropriate dosage for such treatment [see Clinical Studies (14.1)].
 
 ## 2.3 Dosage for Treatment of Generalized Anxiety Disorder
 
-Adults - For most patients, initiate DRIZALMA Sprinkle 60 mg once daily.
-For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
-While a 120 mg once daily dose was shown to be effective, there is no evidence that doses greater than 60 mg per day confer additional benefit.
-Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The safety of doses above 120 mg once daily has not been adequately evaluated.
-Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+- Recommended Dosage in Adults Less than 65 Years of Age
+- For most adults less than 65 years of age with GAD, initiate DRIZALMA SPRINKLE 60 mg once daily.
+  For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
+  While a 120 mg once daily dosage was shown to be effective, there is no evidence that doses greater than 60 mg per day confer additional benefit.
+  Nevertheless, if a decision is made to increase the dosage beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+  The safety of doses above 120 mg once daily has not been adequately evaluated.
+  Periodically reassess to determine the continued need for maintenance treatment and the appropriate dosage for such treatment.
+- Recommended Dosage in Geriatric Patients
+- In geriatric patients with GAD, initiate DRIZALMA SPRINKLE at a dosage of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg per day.
+  Thereafter, patients may benefit from doses above 60 mg once daily.
+  If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+  The maximum dose studied was 120 mg per day.
+- Recommended Dosage in Pediatric Patients 7 to 17 Years of Age
+- Initiate DRIZALMA SPRINKLE in pediatric patients 7 to 17 years of age with GAD at a dosage of 30 mg once daily for 2 weeks before considering an increase to 60 mg once daily.
+  The recommended dosage range is 30 to 60 mg once daily.
+  Some patients may benefit from dosages above 60 mg once daily.
+  If a decision is made to increase the dose beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+  The maximum dose studied was 120 mg per day.
 
-Elderly - Initiate DRIZALMA Sprinkle at a dose of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg.
-Thereafter, patients may benefit from doses above 60 mg once daily.
-If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The maximum dose studied was 120 mg per day.
-Safety of doses above 120 mg once daily has not been adequately evaluated [see Clinical Studies (14.2)].
+## 2.4 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain in Adults
 
-Children and Adolescents (7 to 17 years of age) - Initiate DRIZALMA Sprinkle at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
-The recommended dose range is 30 to 60 mg once daily.
-Some patients may benefit from doses above 60 mg once daily.
-If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The maximum dose studied was 120 mg per day.
-The safety of doses above 120 mg once daily has not been evaluated [see Clinical Studies (14.2)].
-
-## 2.4 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
-
-Administer DRIZALMA Sprinkle 60 mg once daily.
-There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
+Administer DRIZALMA SPRINKLE 60 mg once daily in adults with diabetic peripheral neuropathic pain.
+There is no evidence that doses higher than 60 mg once daily confer additional significant benefit and the higher dosage is clearly less well tolerated.
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see Dosage and Administration (2.7), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
+Since diabetes is frequently complicated by renal disease, consider a lower starting dosage and gradual increase in dosage for patients with renal impairment [see Dosage and Administration (2.8) and Use in Specific Populations (8.10)].
 
-## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
+## 2.5 Dosage for Treatment of Fibromyalgia in Adults
 
-Administer DRIZALMA Sprinkle 60 mg once daily.
-Begin treatment at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
-There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.4)].
+Recommended Dosage in Adults
 
-## 2.6 Dosage Recommendations for Concomitant Use with Potent CYP1A2 Inhibitors
+The recommended DRIZALMA SPRINKLE dosage is 60 mg once daily in adults with fibromyalgia.
+Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
+Some patients may respond to the starting dosage.
+There is no evidence that dosages greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg/day dosage, and higher dosages were associated with a higher rate of adverse reactions.
 
-- Coadministration with potent CYP1A2 Inhibitors: Avoid concomitant use of DRIZALMA Sprinkle with potent CYP1A2 inhibitors.
+Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine delayed-release capsules).
+However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.7 Dosage Recommendations for Patients with Hepatic and Renal Impairment
+## 2.6 Dosage for Treatment of Chronic Musculoskeletal Pain in Adults
 
-Hepatic Impairment: Avoid use in patients with mild (Child-Pugh A), moderate (Child-Pugh B), or severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
+The recommended DRIZALMA SPRINKLE dosage is 60 mg once daily in adults with chronic musculoskeletal pain.
+Begin treatment at 30 mg once daily for one week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
+There is no evidence that higher dosage confer additional benefit, even in patients who do not respond to a 60 mg once daily dosage, and higher dosages are associated with a higher rate of adverse reactions [seeClinical Studies (14.5)].
 
-Severe Renal Impairment: Avoid use in patients with severe renal impairment (CrCl ≥15 to <30 mL/min) [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
+## 2.7 Dosage Recommendations for Concomitant Use with Potent CYP1A2 Inhibitors
 
-## 2.8 Screen for Bipolar Disorder Prior to Starting DRIZALMA Sprinkle
+Coadministration with potent CYP1A2 Inhibitors: Avoid concomitant use of DRIZALMA SPRINKLE with potent CYP1A2 inhibitors.
 
-Prior to initiating treatment with DRIZALMA Sprinkle or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.8)].
+## 2.8 Dosage in Patients with Hepatic Impairment or Severe Renal Impairment
 
-## 2.9 Discontinuation of Treatment with DRIZALMA Sprinkle
+Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
-- Adverse reactions may occur upon discontinuation of DRIZALMA Sprinkle [see Warnings and Precautions (5.7)].
-  Gradually reduce the dosage rather than stopping DRIZALMA Sprinkle abruptly whenever possible [see Warnings and Precautions (5.7)].
+- Avoid use in patients with severe renal impairment, GFR <30 mL/minute [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
-## 2.10 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.9 Screen for Bipolar Disorder Prior to Starting DRIZALMA SPRINKLE
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with DRIZALMA Sprinkle.
-Conversely, at least 5 days should be allowed after stopping DRIZALMA Sprinkle before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4), Warnings and Precautions (5.4)].
+Prior to initiating treatment with DRIZALMA SPRINKLE or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.8)].
+
+## 2.10 Discontinuing DRIZALMA SPRINKLE
+
+Adverse reactions may occur upon discontinuation of DRIZALMA SPRINKLE [see Warnings and Precautions (5.7)].
+Gradually reduce the dosage rather than stopping DRIZALMA SPRINKLE abruptly whenever possible [see Warnings and Precautions (5.7)].
+
+## 2.11 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with DRIZALMA SPRINKLE.
+Conversely, at least 5 days should be allowed after stopping DRIZALMA SPRINKLE before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4).
+
+## 2.12 Use of DRIZALMA SPRINKLE with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start DRIZALMA SPRINKLE in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
+
+In some cases, a patient already receiving DRIZALMA SPRINKLE therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, DRIZALMA SPRINKLE should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with DRIZALMA SPRINKLE may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with DRIZALMA SPRINKLE is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.4)].

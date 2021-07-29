@@ -1,9 +1,12 @@
 # 1 INDICATIONS AND USAGE
 
-DRIZALMA Sprinkle is indicated for the treatment of:
+DRIZALMA SPRINKLE is indicated for the treatment of:
 
-- •Major Depressive Disorder in adults [see Clinical Studies (14.1)]
-- •Generalized Anxiety Disorder in adults and pediatric patients 7 years to 17 years old [see Clinical Studies (14.2)]
-- •Diabetic Peripheral Neuropathy in adults [see Clinical Studies (14.3)]
+- •Major Depressive Disorder in adults
+- •Generalized Anxiety Disorder in adults and pediatric patients 7 years of age and older
+- •Diabetic Peripheral Neuropathy in adults
+- •Fibromyalgia in adults
+- •Chronic Musculoskeletal Pain in adults
 
-Chronic Musculoskeletal Pain in adults [see Clinical Studies (14.4)]
+Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine delayed-release capsules).
+However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

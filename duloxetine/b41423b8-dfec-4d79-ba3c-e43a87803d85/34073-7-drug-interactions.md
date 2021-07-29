@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Having Clinically Important Interactions with DRIZALMA Sprinkle
+## 7.1 Drugs Having Clinically Important Interactions with DRIZALMA SPRINKLE
 
 - Table 7: Clinically Important Drug Interactions
 

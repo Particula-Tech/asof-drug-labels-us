@@ -10,8 +10,13 @@ Preclinical studies have shown that duloxetine is a potent inhibitor of neuronal
 Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro.
 Duloxetine does not inhibit monoamine oxidase (MAO).
 
-Duloxetine is in a class of drugs known to affect urethral resistance.
-If symptoms of urinary hesitation develop during treatment with duloxetine delayed-release capsules, consideration should be given to the possibility that they might be drug-related.
+Duloxetine is in a class of drugs known to affect urethral resistance [see Warnings and Precautions (5.15)].
+
+Cardiac Electrophysiology
+
+The effect of duloxetine delayed-release capsules 160 mg and 200 mg administered twice daily (2.7 and 3.3 times the maximum recommended dosage, respectively) to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female adult subjects.
+No QT interval prolongation was detected.
+Duloxetine delayed-release capsules appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
 ## 12.3 Pharmacokinetics
 
@@ -20,7 +25,7 @@ Steady-state plasma concentrations are typically achieved after 3 days of dosing
 
 Absorption
 
-Orally administered duloxetine hydrochloride is well absorbed.
+After oral duloxetine delayed-release capsules administration, duloxetine hydrochloride is well absorbed.
 Peak plasma concentration of duloxetine is attained at 5 hours following administration of duloxetine delayed-release capsules.
 There is a 3 hour delay in absorption and a one- third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
 
@@ -39,10 +44,6 @@ Plasma protein binding of duloxetine is not affected by renal or hepatic impairm
 
 Elimination
 
-Only trace (<1% of the dose) amounts of unchanged duloxetine are present in the urine.
-Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
-Mean terminal half-life was 12.4 hours (range 7.8 to 22.2 hour) in subjects receiving a single dose duloxetine delayed-release capsules.
-
 Metabolism
 
 Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
@@ -52,55 +53,59 @@ Both CYP1A2 and CYP2D6 catalyze the oxidation of the naphthyl ring in vitro.
 Metabolites found in plasma include 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate.
 Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
 
+Excretion
+
+Only trace (<1% of the dose) amounts of unchanged duloxetine are present in the urine.
+Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
+Mean terminal half-life was 12.4 hours (range 7.8 to 22.2 hour) in subjects receiving a single dose DRIZALMA SPRINKLE.
+
 Specific Populations
 
 Pediatric Patients
 
-Children and Adolescents (ages 7 to 17 years) - Duloxetine steady-state plasma concentration was comparable in children (7 to 12 years of age), adolescents (13 to 17 years of age) and adults.
-The average steady-state duloxetine concentration was approximately 30% lower in the pediatric population (children and adolescents) relative to the adults.
-The model-predicted duloxetine steady state plasma concentrations in children and adolescents were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.
+Duloxetine steady-state plasma concentration was comparable in pediatric patients7 to 17 years of age) and adult patients.
+The average steady-state duloxetine concentration was approximately 30% lower in the pediatric population relative to the adults.
+The model-predicted duloxetine steady state plasma concentrations in pediatric patients 7 to 17 years of age were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.
 
 Drug Interaction Studies
 
-Clinical Studies
+Clinical Studies: Effect of other drugs on duloxetine
 
-Effect of other drugs on duloxetine
-
-Fluvoxamine
+Fluvoxamine:
 
 When duloxetine 60 mg was co-administered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n = 14) duloxetine AUC was increased approximately 6 fold, the Cmax was increased about 2.5 fold, and duloxetine t1/2 was increased approximately 3 fold [see Dosage and Administration (2.6) and Drug Interactions (7.1)].
 
-Fluvoxamine in CYP2D6 poor metabolizer subjects
+Fluvoxamine in CYP2D6 poor metabolizer subjects:
 
-Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to CYP2D6 poor metabolizer subjects (n = 14) resulted in a 6 fold increase in duloxetine AUC and Cmax [see Dosage and Administration (2.6) and Drug Interactions (7.1)].
+Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to CYP2D6 poor metabolizer subjects (n = 14) resulted in a 6 fold increase in duloxetine AUC and Cmax[see Dosage and Administration (2.6) and Drug Interactions (7.1)].
 
-Paroxetine
+Paroxetine:
 
 Concomitant use of duloxetine (40 mg once daily) with paroxetine (20 mg once daily), a strong CYP2D6 inhibitor, increased the concentration of duloxetine AUC by about 60%, and greater degrees of inhibition are expected with higher doses of paroxetine [see Drug Interactions (7.1)].
 
-Lorazepam
+Lorazepam:
 
 Under steady-state conditions for duloxetine (60 mg Q 12 hours) and lorazepam (2 mg Q 12 hours), the pharmacokinetics of duloxetine were not affected by co-administration.
 
-Temazepam
+Temazepam:
 
 Under steady-state conditions for duloxetine (20 mg qhs) and temazepam (30 mg qhs), the pharmacokinetics of duloxetine were not affected by co-administration.
 
-Drugs that Affect Gastric Acidity
+Drugs that Affect Gastric Acidity:
 
 Co-administration of duloxetine delayed-release capsules with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine delayed-release capsules with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose [see Drug Interactions (7.1)].
 
-Effect of duloxetine on other drugs
+Clinical Studies: Effect of duloxetine on other drugs
 
-Theophylline
+Theophylline:
 
 In two clinical studies the average (90% confidence interval) increase in theophylline (a CYP1A2 substrate) AUC was 7% (1% to 15%) and 20% (13% to 27%) when co-administered with duloxetine (60 mg twice daily) [see Drug Interactions (7.1)].
 
-Desipramine
+Desipramine:
 
 When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3 fold [see Drug Interactions (7.1)].
 
-Warfarin
+Warfarin:
 
 Under steady-state condition for warfarin (2 to 9 mg once daily) and duloxetine (60 or 120 mg once daily), the total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin (a CYP2C9 substrate) were not altered by duloxetine [see Drug Interactions (7.1)].
 
@@ -108,8 +113,8 @@ In vitro Studies
 
 Results of in vitro studies demonstrate that duloxetine does not inhibit activity of drugs metabolized by CYP3A (e.g., oral contraceptives and other steroidal agents) and drugs metabolized by CYP2C19.
 
-Alcohol
+Alcohol:
 
-An in vitro study showed significant increases of duloxetine hydrochloride release from DRIZALMA Sprinkle at 2 hours to approximately 86% and 56% of the drug release in the presence of 40% and 20% alcohol, respectively.
+An in vitro study showed significant increases of duloxetine hydrochloride release from DRIZALMA SPRINKLE at 2 hours to approximately 86% and 56% of the drug release in the presence of 40% and 20% alcohol, respectively.
 Effect of 5% alcohol on drug release was not observed at 2 hours.
 There is no in vivo study conducted for the effect of alcohol on drug exposure.
