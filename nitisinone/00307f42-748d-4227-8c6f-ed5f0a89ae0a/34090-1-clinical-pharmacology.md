@@ -31,7 +31,7 @@ The single-dose pharmacokinetics of nitisinone have been studied for both ORFADI
 Absorption
 
 The pharmacokinetic characteristics following single oral administration of ORFADIN 30 mg under fasting conditions are shown in Table 3.
-Compared to ORFADIN capsule, the median Tmax occurred about 3 hours earlier with ORFADIN oral suspension.
+Compared to ORFADIN capsule, the median T max occurred about 3 hours earlier with ORFADIN oral suspension.
 The multiple-dose characteristics of ORFADIN 80 mg once daily are shown in Table 4.
 Steady-state (SS) was reached within 14 days dosing in all subjects.
 
@@ -54,7 +54,7 @@ TABLE 4 Nitisinone Arithmetic Mean (CV%) Pharmacokinetic Parameters in Healthy S
 | * presented as median [range] |  |  |  |  |  |
 
 Food Effect: No food effect study was conducted with ORFADIN capsules.
-For ORFADIN oral suspension, a high calorie (800 to 1000 calories) and high fat meal (approximately 50% of total caloric content) did not affect nitisinone total exposure (AUC72h), but decreased the Cmax by approximately 20% [see Dosage and Administration (2.2)].
+For ORFADIN oral suspension, a high calorie (800 to 1000 calories) and high fat meal (approximately 50% of total caloric content) did not affect nitisinone total exposure (AUC 72h), but decreased the C max by approximately 20% [see Dosage and Administration (2.2)].
 
 Distribution
 
@@ -77,7 +77,7 @@ Nitisinone is a moderate inhibitor of CYP2C9, and a weak inducer of CYP2E1 (Tabl
 Nitisinone is an inhibitor of OAT1/3 (Table 5).
 
 Table 5.
-Percent Change in AUC0-∞ and Cmax for Co-administered Drugs in the Presence of ORFADIN in 18 Healthy Subjects
+Percent Change in AUC 0-∞ and C max for Co-administered Drugs in the Presence of ORFADIN in 18 Healthy Subjects
 
 | Co-administered Drug a | Dose of Co-administered Drug (Route of Administration) | Effect of Nitisinone on the Pharmacokinetics of Co-administered Drug b |  |
 | --- | --- | --- | --- |
