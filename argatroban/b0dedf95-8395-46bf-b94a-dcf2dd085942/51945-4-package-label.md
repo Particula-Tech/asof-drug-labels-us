@@ -30,10 +30,10 @@ DO NOT FREEZE.
 
 Discard unused portion.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:212:1C:R6
+MI:212:1C:R7
 
 Mylan.com

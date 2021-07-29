@@ -8,10 +8,10 @@ Specifically, inform patients to report:
 - •any bleeding signs or symptoms.
 - •the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions).
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0815L104
+0815L105
 
-Revised: 3/2020 MI:ARGAIJ:R5
+Revised: 4/2021 MI:ARGAIJ:R6
