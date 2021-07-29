@@ -107,10 +107,7 @@ KEYTRUDA, in combination with axitinib, is indicated for the first-line treatmen
 
 ## 1.15 Endometrial Carcinoma
 
-KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy and are not candidates for curative surgery or radiation.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.15)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation.
 
 ## 1.16 Tumor Mutational Burden-High Cancer
 

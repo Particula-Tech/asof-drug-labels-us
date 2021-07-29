@@ -1,6 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, Cervical Cancer, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, TMB-H Cancer, or TNBC
+## 2.1 Patient Selection
+
+Patient Selection for Single Agent Treatment
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
@@ -19,12 +21,18 @@ For the TMB-H indication, select patients for treatment with KEYTRUDA as a singl
 
 Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
 
-Select patients for treatment with KEYTRUDA in combination with chemotherapy based on the presence of positive PD-L1 expression in:
+Patient Selection for Combination Therapy
 
-- locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.18)].
+For the not MSI-H/dMMR advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MSI or MMR status in tumor specimens [see Clinical Studies (14.15)].
 
-Information on FDA-approved tests for the detection of PD-L1 expression and TMB status is available at: http://www.fda.gov/CompanionDiagnostics.
-An FDA-approved test for the detection of MSI-H or dMMR is not currently available.
+For use of KEYTRUDA in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.18)].
+
+Additional Patient Selection Information
+
+Information on FDA-approved tests used for patient selection is available at: http://www.fda.gov/CompanionDiagnostics.
+
+- An FDA-approved test for the detection of MSI-H or dMMR is not currently available [see Clinical Studies (14.7, 14.8)].
+- An FDA-approved test for the detection of not MSI-H or dMMR is not currently available [see Clinical Studies (14.15)].
 
 ## 2.2 Recommended Dosage
 
@@ -82,7 +90,7 @@ Table 2: Recommended Dosage Modifications for Adverse Reactions
 
 The following table represents dosage modifications that are different from those described above for KEYTRUDA or in the Full Prescribing Information for the drug administered in combination.
 
-Table 3: Recommended Specific Dosage Modifications for Adverse Reactions for Combination
+Table 3: Recommended Specific Dosage Modifications for Adverse Reactions in Combination with Axitinib
 
 | Treatment | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- | --- |
@@ -90,9 +98,11 @@ Table 3: Recommended Specific Dosage Modifications for Adverse Reactions for Com
 | ALT or AST increases to more than 3 times ULN with concurrent total bilirubin at least 2 times ULN or ALT or AST ≥10 times ULN | Permanently discontinue both KEYTRUDA and axitinib |  |  |
 | ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal |  |  |  |
 
-When administering KEYTRUDA in combination with lenvatinib for the treatment of endometrial carcinoma, interrupt one or both as appropriate.
-No dose reductions are recommended for KEYTRUDA.
-Withhold, dose reduce, or discontinue lenvatinib in accordance with the instructions in the lenvatinib prescribing information.
+KEYTRUDA in Combination with Lenvatinib
+
+When administering KEYTRUDA in combination with lenvatinib, modify the dosage of one or both drugs as appropriate.
+Withhold or discontinue KEYTRUDA as shown in Table 2.
+Refer to lenvatinib prescribing information for additional dosage modification information.
 
 ## 2.4 Preparation and Administration
 

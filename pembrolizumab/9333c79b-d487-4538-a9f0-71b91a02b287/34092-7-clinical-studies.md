@@ -61,7 +61,7 @@ The study demonstrated a statistically significant improvement in PFS for patien
 There was no statistically significant difference between KEYTRUDA 2 mg/kg and chemotherapy or between KEYTRUDA 10 mg/kg and chemotherapy in the OS analysis in which 55% of the patients who had been randomized to receive chemotherapy had crossed over to receive KEYTRUDA.
 Among the 38 patients randomized to KEYTRUDA 2 mg/kg with an objective response, response durations ranged from 1.3+ to 11.5+ months.
 Among the 46 patients randomized to KEYTRUDA 10 mg/kg with an objective response, response durations ranged from 1.1+ to 11.1+ months.
-Efficacy results are summarized in Table 40.
+Efficacy results are summarized in Table 40 and Figure 2.
 
 Table 40: Efficacy Results in KEYNOTE-002
 
@@ -1150,35 +1150,56 @@ Table 66: Efficacy Results in KEYNOTE-426
 
 ## 14.15 Endometrial Carcinoma
 
-The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-146 (NCT02501096), a single-arm, multicenter, open-label, multi-cohort trial that enrolled 108 patients with metastatic endometrial carcinoma that had progressed following at least one prior systemic therapy in any setting.
-Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
-Patients were treated with KEYTRUDA 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily until unacceptable toxicity or disease progression as determined by the investigator.
-The major efficacy outcome measures were ORR and DoR as assessed by BICR using RECIST 1.1.
+The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775 (NCT03517449), a multicenter, open-label, randomized, active-controlled trial that enrolled 827 patients with advanced endometrial carcinoma who had been previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings.
+Patients with endometrial sarcoma, including carcinosarcoma, or patients who had active autoimmune disease or a medical condition that required immunosuppression were ineligible.
+Patients with endometrial carcinoma that were not MSI-H or dMMR were stratified by ECOG performance status, geographic region, and history of pelvic radiation.
+Patients were randomized (1:1) to one of the following treatment arms:
 
-Administration of KEYTRUDA and lenvatinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered by the investigator to be deriving clinical benefit.
-KEYTRUDA dosing was continued for a maximum of 24 months; however, treatment with lenvatinib could be continued beyond 24 months.
-Assessment of tumor status was performed at baseline and then every 6 weeks until week 24, followed by every 9 weeks thereafter.
+- KEYTRUDA 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily.
+- Investigator’s choice, consisting of either doxorubicin 60 mg/m2 every 3 weeks or paclitaxel 80 mg/m2 given weekly, 3 weeks on/1 week off.
 
-Among the 108 patients, 87% (n=94) had tumors that were not MSI-H or dMMR, 10% (n=11) had tumors that were MSI-H or dMMR, and in 3% (n=3) the status was not known.
-Tumor MSI status was determined using a polymerase chain reaction (PCR) test.
-Tumor MMR status was determined using an IHC test.
-The baseline characteristics of the 94 patients with tumors that were not MSI-H or dMMR were: median age of 66 years, 62% age 65 or older; 86% White, 6% Black, 4% Asian, and 3% other races; and ECOG PS of 0 (52%) or 1 (48%).
-All 94 of these patients received prior systemic therapy for endometrial carcinoma: 51% had one, 38% had two, and 11% had three or more prior systemic therapies.
+Treatment with KEYTRUDA and lenvatinib continued until RECIST v1.1-defined progression of disease as verified by BICR, unacceptable toxicity, or for KEYTRUDA, a maximum of 24 months.
+Treatment was permitted beyond RECIST v1.1-defined disease progression if the treating investigator considered the patient to be deriving clinical benefit, and the treatment was tolerated.
+Assessment of tumor status was performed every 8 weeks.
+The major efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+Additional efficacy outcome measures included ORR and DoR, as assessed by BICR.
 
-Efficacy results are summarized in Table 67.
+Among the 697 not dMMR patients, 346 patients were randomized to KEYTRUDA in combination with lenvatinib, and 351 patients were randomized to investigator’s choice of doxorubicin (n=254) or paclitaxel (n=97).
+The not dMMR population characteristics were: median age of 65 years (range: 30 to 86), 52% age 65 or older; 62% White, 22% Asian, and 3% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1.
+The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear cell carcinoma (7%), mixed (4%), and other (3%).
+All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
+Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Table 67: Efficacy Results in KEYNOTE-146
+Efficacy results for the not MSI-H or dMMR patients are summarized in Table 67 and Figures 17 and 18.
 
-| Endpoint | KEYTRUDA 200 mg every 3 weeks with lenvatinib n=94Median follow-up time of 18.7 months |
-| --- | --- |
-| Objective Response Rate |  |
-| ORR (95% CI) | 38.3% (29, 49) |
-| Complete response rate | 10.6% |
-| Partial response rate | 27.7% |
-| Response duration |  |
-| Median in months (range) | NR (1.2+, 33.1+)Based on patients (n=36) with a response by independent review |
-| % with duration ≥6 months | 69% |
-| + Denotes ongoing response NR = not reached |  |
+Table 67: Efficacy Results in KEYNOTE-775
+
+| Endpoint | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=346 | Doxorubicin or Paclitaxel n=351 |
+| --- | --- | --- |
+|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |
+| OS |  |  |
+| Number (%) of patients with event | 165 (48%) | 203 (58%) |
+| Median in months (95% CI) | 17.4 (14.2, 19.9) | 12.0 (10.8, 13.3) |
+| Hazard ratioBased on the stratified Cox regression model (95% CI) | 0.68 (0.56, 0.84) |  |
+| p-ValueBased on stratified log-rank test | 0.0001 |  |
+| PFS |  |  |
+| Number (%) of patients with event | 247 (71%) | 238 (68%) |
+| Median in months (95% CI) | 6.6 (5.6, 7.4) | 3.8 (3.6, 5.0) |
+| Hazard ratio (95% CI) | 0.60 (0.50, 0.72) |  |
+| p-Value | <0.0001 |  |
+| Objective Response Rate |  |  |
+| ORRResponse: Best objective response as confirmed complete response or partial response (95% CI) | 30% (26, 36) | 15% (12, 19) |
+| Complete response rate | 5% | 3% |
+| Partial response rate | 25% | 13% |
+| p-ValueBased on Miettinen and Nurminen method stratified by ECOG performance status, geographic region, and history of pelvic radiation | <0.0001 |  |
+| Duration of Response | n=105 | n=53 |
+| Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
+
+| Figure 17: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (Not MSI-H or dMMR) |
+| --- |
+
+| Figure 18: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (Not MSI-H or dMMR) |
+| --- |
 
 ## 14.16 Tumor Mutational Burden-High Cancer
 
@@ -1285,7 +1306,7 @@ Additional efficacy outcome measures were OS as well as ORR and DoR as assessed 
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 71 and Figure 17 summarize the efficacy results for KEYNOTE-355.
+Table 71 and Figure 19 summarize the efficacy results for KEYNOTE-355.
 
 Table 71: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
@@ -1303,7 +1324,7 @@ Table 71: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | DoR |  |  |
 | Median in months (95% CI) | 19.3 (9.9, 29.8) | 7.3 (5.3, 15.8) |
 
-| Figure 17: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 19: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.19 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks

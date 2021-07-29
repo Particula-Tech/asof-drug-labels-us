@@ -1123,89 +1123,93 @@ Table 34: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Endometrial Carcinoma
 
-The safety of KEYTRUDA in combination with lenvatinib (20 mg orally once daily) was investigated in KEYNOTE-146, a single-arm, multicenter, open-label trial in 94 patients with endometrial carcinoma whose tumors had progressed following one line of systemic therapy and were not MSI-H or dMMR [see Clinical Studies (14.15)].
-The median duration of study treatment was 7 months (range: 0.03 to 37.8 months).
-The median duration of exposure to KEYTRUDA was 6 months (range: 0.03 to 23.8 months).
-KEYTRUDA was continued for a maximum of 24 months; however, treatment with lenvatinib could be continued beyond 24 months.
+The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.15)].
+Patients with endometrial carcinoma that is not MSI-H or dMMR received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
-Fatal adverse reactions occurred in 3% of patients receiving KEYTRUDA and lenvatinib, including gastrointestinal perforation, reversible posterior leukoencephalopathy syndrome (RPLS) with intraventricular hemorrhage, and intracranial hemorrhage.
+For patients with not MSI-H or dMMR tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
 
-Serious adverse reactions occurred in 52% of patients receiving KEYTRUDA and lenvatinib.
-Serious adverse reactions in ≥3% of patients were hypertension (9%), abdominal pain (6%), musculoskeletal pain (5%), hemorrhage (4%), fatigue (4%), nausea (4%), confusional state (4%), pleural effusion (4%), adrenal insufficiency (3%), colitis (3%), dyspnea (3%), and pyrexia (3%).
+Fatal adverse reactions among these patients occurred in 4.7% of those treated with KEYTRUDA and lenvatinib, including 2 cases of pneumonia, and 1 case of the following: acute kidney injury, acute myocardial infarction, colitis, decreased appetite, intestinal perforation, lower gastrointestinal hemorrhage, malignant gastrointestinal obstruction, multiple organ dysfunction syndrome, myelodysplastic syndrome, pulmonary embolism, and right ventricular dysfunction.
 
-KEYTRUDA was discontinued for adverse reactions (Grade 1-4) in 19% of patients, regardless of action taken with lenvatinib.
-The most common adverse reactions (≥ 2%) leading to discontinuation of KEYTRUDA were adrenal insufficiency (2%), colitis (2%), pancreatitis (2%), and muscular weakness (2%).
+Serious adverse reactions occurred in 50% of these patients receiving KEYTRUDA and lenvatinib.
+Serious adverse reactions (≥3%) were hypertension (4.4%) and urinary tract infections (3.2%).
 
-Adverse reactions leading to interruption of KEYTRUDA occurred in 49% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were: fatigue (14%), diarrhea (6%), decreased appetite (6%), rash (5%), renal impairment (4%), vomiting (4%), increased lipase (4%), weight loss (4%), nausea (3%), increased blood alkaline phosphatase (3%), skin ulcer (3%), adrenal insufficiency (2%), increased amylase (2%), hypocalcemia (2%), hypomagnesemia (2%), hyponatremia (2%), peripheral edema (2%), musculoskeletal pain (2%), pancreatitis (2%), and syncope (2%).
+Discontinuation of KEYTRUDA due to an adverse reaction occurred in 15% of these patients.
+The most common adverse reaction leading to discontinuation of KEYTRUDA (≥1%) was increased ALT (1.2%).
 
-Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib.
+Dose interruptions of KEYTRUDA due to an adverse reaction occurred in 48% of these patients.
+The most common adverse reactions leading to interruption of KEYTRUDA (≥3%) were diarrhea (8%), increased ALT (4.4%), increased AST (3.8%), and hypertension (3.5%).
 
-Table 35: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-146
+Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib in KEYNOTE-775.
 
-| All Grades (%) | Grades 3-4 (%) |  |
-| --- | --- | --- |
-| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with Lenvatinib N=94 |  |
-| General |  |  |
-| FatigueIncludes asthenia, fatigue, and malaise | 65 | 17 |
-| Musculoskeletal and Connective Tissue |  |  |
-| Musculoskeletal painIncludes arthralgia, arthritis, back pain, breast pain, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 65 | 3 |
-| Vascular |  |  |
-| HypertensionIncludes essential hypertension, hypertension, and hypertensive encephalopathy | 65 | 38 |
-| Hemorrhagic eventsIncludes catheter site bruise, contusion, epistaxis, gastrointestinal hemorrhage, hematemesis, hematuria, hemorrhage intracranial, injection site hemorrhage, intraventricular hemorrhage, large intestinal hemorrhage, metrorrhagia, mouth hemorrhage, uterine hemorrhage, and vaginal hemorrhage | 28 | 4 |
-| Gastrointestinal |  |  |
-| DiarrheaIncludes diarrhea, gastroenteritis, gastrointestinal viral infection, and viral diarrhea | 64 | 4 |
-| Nausea | 48 | 5 |
-| StomatitisIncludes glossitis, mouth ulceration, oral discomfort, oral mucosal blistering, oropharyngeal pain, and stomatitis | 43 | 0 |
-| Vomiting | 39 | 0 |
-| Abdominal painIncludes abdominal discomfort, abdominal pain, lower abdominal pain, and upper abdominal pain | 33 | 6 |
-| Constipation | 32 | 0 |
-| Metabolism |  |  |
-| Decreased appetiteIncludes decreased appetite and early satiety | 52 | 0 |
-| Hypomagnesemia | 27 | 3 |
-| Endocrine |  |  |
-| HypothyroidismIncludes increased blood thyroid stimulating hormone and hypothyroidism | 51 | 1 |
-| Investigations |  |  |
-| Weight loss | 36 | 3 |
-| Nervous System |  |  |
-| Headache | 33 | 1 |
-| Infections |  |  |
-| Urinary tract infectionIncludes cystitis and urinary tract infection | 31 | 4 |
-| Respiratory, Thoracic and Mediastinal |  |  |
-| Dysphonia | 29 | 0 |
-| DyspneaIncludes dyspnea and exertional dyspnea | 24 | 2 |
-| Cough | 21 | 0 |
-| Skin and Subcutaneous Tissue |  |  |
-| Palmar-plantar erythrodysesthesia syndrome | 26 | 3 |
-| RashIncludes rash, rash generalized, rash macular, and rash maculo-papular | 21 | 3 |
+Table 35: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-775
 
-Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-146
+|  | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
+| --- | --- | --- | --- | --- |
+|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |  |  |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=342 |  | Doxorubicin or Paclitaxel n=325 |  |
+| Endocrine |  |  |  |  |
+| HypothyroidismIncludes hypothyroidism, blood thyroid stimulating hormone increased, thyroiditis, secondary hypothyroidism | 67 | 0.9 | 0.9 | 0 |
+| Vascular |  |  |  |  |
+| HypertensionIncludes hypertension, blood pressure increased, secondary hypertension, blood pressure abnormal, hypertensive encephalopathy, blood pressure fluctuation | 67 | 39 | 6 | 2.5 |
+| Hemorrhagic eventsIncludes epistaxis, vaginal hemorrhage, hematuria, gingival bleeding, metrorrhagia, rectal hemorrhage, contusion, hematochezia, cerebral hemorrhage, conjunctival hemorrhage, gastrointestinal hemorrhage, hemoptysis, hemorrhage urinary tract, lower gastrointestinal hemorrhage, mouth hemorrhage, petechiae, uterine hemorrhage, anal hemorrhage, blood blister, eye hemorrhage, hematoma, hemorrhage intracranial, hemorrhagic stroke, melena, stoma site hemorrhage, upper gastrointestinal hemorrhage, wound hemorrhage, blood urine present, ecchymosis, hematemesis, hemorrhage subcutaneous, hepatic hematoma, injection site bruising, intestinal hemorrhage, laryngeal hemorrhage, pulmonary hemorrhage, subdural hematoma, umbilical hemorrhage, vessel puncture site bruise | 25 | 2.6 | 15 | 0.9 |
+| General |  |  |  |  |
+| FatigueIncludes fatigue, asthenia, malaise, lethargy | 58 | 11 | 54 | 6 |
+| Gastrointestinal |  |  |  |  |
+| DiarrheaIncludes diarrhea, gastroenteritis | 55 | 8 | 20 | 2.8 |
+| Nausea | 49 | 2.9 | 47 | 1.5 |
+| Vomiting | 37 | 2.3 | 21 | 2.2 |
+| StomatitisIncludes stomatitis, mucosal inflammation, oropharyngeal pain, aphthous ulcer, mouth ulceration, cheilitis, oral mucosal erythema, tongue ulceration | 35 | 2.6 | 26 | 1.2 |
+| Abdominal painIncludes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, gastrointestinal pain, abdominal tenderness, epigastric discomfort | 34 | 2.6 | 21 | 1.2 |
+| Constipation | 27 | 0 | 25 | 0.6 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal disordersIncludes arthralgia, myalgia, back pain, pain in extremity, bone pain, neck pain, musculoskeletal pain, arthritis, musculoskeletal chest pain, musculoskeletal stiffness, non-cardiac chest pain, pain in jaw | 53 | 5 | 27 | 0.6 |
+| Metabolism |  |  |  |  |
+| Decreased appetiteIncludes decreased appetite, early satiety | 44 | 7 | 21 | 0 |
+| Investigations |  |  |  |  |
+| Weight loss | 34 | 10 | 6 | 0.3 |
+| Renal and Urinary |  |  |  |  |
+| ProteinuriaIncludes proteinuria, protein urine present, hemoglobinuria | 29 | 6 | 3.4 | 0.3 |
+| Infections |  |  |  |  |
+| Urinary tract infectionIncludes urinary tract infection, cystitis, pyelonephritis | 31 | 5 | 13 | 1.2 |
+| Nervous System |  |  |  |  |
+| Headache | 26 | 0.6 | 9 | 0.3 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Dysphonia | 22 | 0 | 0.6 | 0 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Palmar-plantar erythrodysesthesiaIncludes palmar-plantar erythrodysesthesia syndrome, palmar erythema, plantar erythema | 23 | 2.9 | 0.9 | 0 |
+| RashIncludes rash, rash maculo-papular, rash pruritic, rash erythematous, rash macular, rash pustular, rash papular, rash vesicular, application site rash | 20 | 2.3 | 4.9 | 0 |
 
-| All Grades %Laboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter (range: 71 to 92 patients). | Grade 3-4 % |  |
-| --- | --- | --- |
-| Laboratory TestWith at least 1 grade increase from baseline | KEYTRUDA 200 mg every 3 weeks with Lenvatinib |  |
-| Chemistry |  |  |
-| Increased creatinine | 80 | 7 |
-| Hypertriglyceridemia | 58 | 4 |
-| Hyperglycemia | 53 | 1 |
-| Hypercholesteremia | 49 | 6 |
-| Hypoalbuminemia | 48 | 0 |
-| Hypomagnesemia | 47 | 2 |
-| Increased aspartate aminotransferase | 43 | 4 |
-| Hyponatremia | 42 | 13 |
-| Increased lipase | 42 | 18 |
-| Increased alanine aminotransferase | 35 | 3 |
-| Increased alkaline phosphatase | 32 | 1 |
-| Hypokalemia | 27 | 5 |
-| Increased amylase | 19 | 6 |
-| Hypocalcemia | 14 | 3 |
-| Hypermagnesemia | 4 | 3 |
-| Hematology |  |  |
-| Thrombocytopenia | 48 | 0 |
-| Leukopenia | 38 | 2 |
-| Lymphopenia | 36 | 7 |
-| Anemia | 35 | 1 |
-| Increased INR | 21 | 3 |
-| Neutropenia | 12 | 3 |
+Table 36: Laboratory Abnormalities Worsened from BaselineWith at least one grade increase from baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-775
+
+|  | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |  |  |
+| Laboratory TestLaboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter: KEYTRUDA/lenvatinib (range: 263 to 340 patients) and doxorubicin or paclitaxel (range: 240 to 322 patients). | KEYTRUDA 200 mg every 3 weeks and Lenvatinib |  | Doxorubicin or Paclitaxel |  |
+| Chemistry |  |  |  |  |
+| Hypertriglyceridemia | 70 | 6 | 45 | 1.7 |
+| Hypoalbuminemia | 60 | 2.7 | 42 | 1.6 |
+| Increased aspartate aminotransferase | 58 | 9 | 23 | 1.6 |
+| Hyperglycemia | 58 | 8 | 45 | 4.4 |
+| Hypomagnesemia | 53 | 6 | 32 | 3.8 |
+| Increased alanine aminotransferase | 55 | 9 | 21 | 1.2 |
+| Hypercholesteremia | 53 | 3.2 | 23 | 0.7 |
+| Hyponatremia | 46 | 15 | 28 | 7 |
+| Increased alkaline phosphatase | 43 | 4.7 | 18 | 0.9 |
+| Hypocalcemia | 40 | 4.7 | 21 | 1.9 |
+| Increased lipase | 36 | 14 | 13 | 3.9 |
+| Increased creatinine | 35 | 4.7 | 18 | 1.9 |
+| Hypokalemia | 34 | 10 | 24 | 5 |
+| Hypophosphatemia | 26 | 8 | 17 | 3.2 |
+| Increased amylase | 25 | 7 | 8 | 1 |
+| Hyperkalemia | 23 | 2.4 | 12 | 1.2 |
+| Increased creatine kinase | 19 | 3.7 | 7 | 0 |
+| Increased bilirubin | 18 | 3.6 | 6 | 1.6 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 50 | 16 | 65 | 20 |
+| Thrombocytopenia | 50 | 8 | 30 | 4.7 |
+| Anemia | 49 | 8 | 84 | 14 |
+| Leukopenia | 43 | 3.5 | 83 | 43 |
+| Neutropenia | 31 | 6 | 76 | 58 |
 
 TMB-H Cancer
 
