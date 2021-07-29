@@ -24,7 +24,7 @@ Metabolic: edema, weight gain, weight loss.
 
 Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 
-Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, neuroleptic malignant syndrome (NMS, see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, neuroleptic malignant syndrome (NMS), (see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with carbidopa and levodopa, has not been established.
 
 Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
@@ -38,3 +38,5 @@ Urogenital: dark urine, priapism, urinary frequency, urinary incontinence, urina
 Laboratory Tests: abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; decreased hemoglobin and hematocrit; decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; white blood cells, bacteria and blood in the urine; protein and glucose in the urine.
 
 Miscellaneous: bizarre breathing patterns, faintness, hoarseness, hot flashes, malaise, neuroleptic malignant syndrome, sense of stimulation.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Edenbridge Pharmaceuticals, LLC at 1-877-381-3336 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
