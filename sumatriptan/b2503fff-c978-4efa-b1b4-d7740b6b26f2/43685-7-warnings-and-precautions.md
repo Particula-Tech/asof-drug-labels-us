@@ -61,7 +61,7 @@ Sumatriptan tablets are contraindicated in patients with uncontrolled hypertensi
 ## 5.9 Anaphylactic/Anaphylactoid Reactions
 
 Anaphylactic/anaphylactoid reactions have occurred in patients receiving sumatriptan.
-Such reactions can be life-threatening or fatal.
+Such reactions can be life threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 Sumatriptan tablets are contraindicated in patients with a history of hypersensitivity reaction to sumatriptan.
 

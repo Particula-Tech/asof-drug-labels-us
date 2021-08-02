@@ -20,7 +20,7 @@ Data
 Human Data: The Sumatriptan/Naratriptan/Treximet (sumatriptan and naproxen sodium) Pregnancy Registry, a population-based international prospective study, collected data for sumatriptan from January 1996 to September 2012.
 The Registry documented outcomes of 626 infants and fetuses exposed to sumatriptan during pregnancy (528 with earliest exposure during the first trimester, 78 during the second trimester, 16 during the third trimester, and 4 unknown).
 The occurrence of major birth defects (excluding fetal deaths and induced abortions without reported defects and all spontaneous pregnancy losses) during first-trimester exposure to sumatriptan was 4.2% (20/478 [95% CI: 2.6% to 6.5%]) and during any trimester of exposure was 4.2% (24/576 [95% CI: 2.7% to 6.2%]).
-The sample size in this study had 80% power to detect at least a 1.73-to 1.91-fold increase in the rate of major malformations.
+The sample size in this study had 80% power to detect at least a 1.73- to 1.91-fold increase in the rate of major malformations.
 The number of exposed pregnancy outcomes accumulated during the registry was insufficient to support definitive conclusions about overall malformation risk or for making comparisons of the frequencies of specific birth defects.
 Of the 20 infants with reported birth defects after exposure to sumatriptan in the first trimester, 4 infants had ventricular septal defects, including one infant who was exposed to both sumatriptan and naratriptan, and 3 infants had pyloric stenosis.
 No other birth defect was reported for more than 2 infants in this group.
@@ -72,7 +72,7 @@ Adverse reactions observed in these clinical trials were similar in nature to th
 Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral sumatriptan (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
 These trials did not establish the efficacy of oral sumatriptan compared with placebo in the treatment of migraine in adolescents.
 Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
-The frequency of all adverse reactions in these patients appeared to be both dose - and age-dependent, with younger patients reporting reactions more commonly than older adolescents.
+The frequency of all adverse reactions in these patients appeared to be both dose- and age-dependent, with younger patients reporting reactions more commonly than older adolescents.
 Postmarketing experience documents that serious adverse reactions have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal sumatriptan.
 These reports include reactions similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
 A myocardial infarction has been reported in a 14-year-old male following the use of oral sumatriptan; clinical signs occurred within 1 day of drug administration.

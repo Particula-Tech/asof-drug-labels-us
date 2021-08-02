@@ -28,7 +28,7 @@ Adverse Reactions Reported by at Least 2% of Patients Treated with Sumatriptan T
 | Atypical sensations Paresthesia (all types) Sensation warm/cold | 5 3 3 | 6 5 2 | 6 3 3 | 4 2 2 |
 | Pain and other pressure sensations | 6 | 6 | 8 | 4 |
 | Chest - pain/tightness/ pressure and/or heaviness | 1 | 2 | 2 | 1 |
-| Neck/throat/jaw -pain/ tightness/pressure | <1 | 2 | 3 | <1 |
+| Neck/throat/jaw - pain/ tightness/pressure | <1 | 2 | 3 | <1 |
 | Pain - location specified | 2 | 1 | 1 | 1 |
 | Other - pressure/tightness/ heaviness | 1 | 1 | 3 | 2 |
 | Neurological Vertigo | <1 | <1 | 2 | <1 |

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of sumatriptan tablets in the acute treatment of migraine headaches was demonstrated in 3 randomized, double-blind, placebo-controlled trials.
+The efficacy of sumatriptan tablets in the acute treatment of migraine headaches was demonstrated in 3, randomized, double-blind, placebo-controlled trials.
 Patients enrolled in these 3 trials were predominately female (87%) and Caucasian (97%), with a mean age of 40 years (range: 18 to 65 years).
 Patients were instructed to treat a moderate to severe headache.
 Headache response, defined as a reduction in headache severity from moderate or severe pain to mild or no pain, was assessed up to 4 hours after dosing.
@@ -28,12 +28,12 @@ Percentage of Patients with Headache Response (Mild or No Headache) 2 and 4 Hour
 
 a P<0.05 in comparison with placebo.
 
-b P<0.05 in comparison with 25 mg.
+bP<0.05 in comparison with 25 mg.
 The estimated probability of achieving an initial headache response over the 4 hours following treatment in pooled Trials 1, 2, and 3 is depicted in Figure 1.
 Figure 1.
 Estimated Probability of Achieving Initial Headache Response within 4 Hours of Treatment in Pooled Trials 1, 2, and 3a
 
-a The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with oral sumatriptan.
+aThe figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with oral sumatriptan.
 The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
 Kaplan-Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
 For patients with migraine-associated nausea, photophobia, and/or phonophobia at baseline, there was a lower incidence of these symptoms at 2 hours (Trial 1) and at 4 hours (Trials 1, 2, and 3) following administration of sumatriptan tablets compared with placebo.
@@ -42,7 +42,7 @@ The estimated probability of patients taking a second dose or other medication f
 Figure 2.
 The Estimated Probability of Patients Taking a Second Dose of Sumatriptan Tablets or Other Medication to Treat Migraine over the 24 Hours following the Initial Dose of Study Treatment in Pooled Trials 1, 2, and 3a
 
-a Kaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+aKaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
 Plot also includes patients who had no response to the initial dose.
 No remedication was allowed within 2 hours postdose.
 There is evidence that doses above 50 mg do not provide a greater effect than 50 mg.
