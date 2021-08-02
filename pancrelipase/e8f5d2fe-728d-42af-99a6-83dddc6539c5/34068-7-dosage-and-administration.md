@@ -11,14 +11,14 @@ The dosage of PANCREAZE should be individualized based on clinical symptoms, the
 Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.
 1,2,3 PANCREAZE should be administered in a manner consistent with the recommendations of the Conferences provided in the following paragraphs with one exception.
 The Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months.
-PANCREAZE is available in a 2,600 lipase unit capsule.
+PANCREAZE is available in a 2,600 lipase unit delayed-release capsule.
 The recommended dose of PANCREAZE in infants up to 12 months is 2,600 lipase units per 120 mL of formula or per breast-feeding.
 Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
 
 Infants (up to 12 months)
 
 Infants may be given 2,600 lipase units per 120 mL of formula or per breast-feeding.
-Do not mix PANCREAZE capsule contents directly into formula or breast milk prior to administration [see Dosage and Administration (2.2)].
+Do not mix PANCREAZE delayed-release capsule contents directly into formula or breast milk prior to administration [see Dosage and Administration (2.2)].
 
 Children Older than 12 Months and Younger than 4 Years
 
@@ -54,19 +54,19 @@ PANCREAZE should always be taken as prescribed by a healthcare professional.
 
 Infants (up to 12 months)
 
-PANCREAZE should be administered to infants immediately prior to each feeding, using a dosage of 2,600 lipase units per 120 mL of formula or per breast-feeding (i.e., one capsule with 2,600 USP units of lipase).
-Contents of the capsule may be sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce) and given to the infant within 15 minutes.
-Contents of the capsule may also be administered directly to the mouth.
+PANCREAZE should be administered to infants immediately prior to each feeding, using a dosage of 2,600 lipase units per 120 mL of formula or per breast-feeding (i.e., one delayed-release capsule with 2,600 USP units of lipase).
+Contents of the delayed-release capsule may be sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce) and given to the infant within 15 minutes.
+Contents of the delayed-release capsule may also be administered directly to the mouth.
 Administration should be followed by breast milk or formula.
-Contents of the capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
+Contents of the delayed-release capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
 Care should be taken to ensure that PANCREAZE is not crushed or chewed or retained in the mouth, to avoid irritation of the oral mucosa.
 
 Children and Adults
 
 PANCREAZE should be taken during meals or snacks, with sufficient fluid.
-PANCREAZE capsules and capsule contents should not be crushed or chewed.
-Capsules should be swallowed whole.
+PANCREAZE delayed-release capsules and delayed-release capsule contents should not be crushed or chewed.
+Delayed-release capsules should be swallowed whole.
 
-For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce).
+For patients who are unable to swallow intact delayed-release capsules, the delayed-release capsules may be carefully opened and the contents sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce).
 The PANCREAZE-soft food mixture should be swallowed immediately without crushing or chewing, and followed with water or juice to ensure complete ingestion.
 Care should be taken to ensure that no drug is retained in the mouth.

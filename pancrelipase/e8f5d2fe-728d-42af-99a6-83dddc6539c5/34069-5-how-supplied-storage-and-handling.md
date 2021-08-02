@@ -30,6 +30,12 @@ PANCREAZE (pancrelipase) Delayed-Release Capsules
 
 PANCREAZE (pancrelipase) is supplied as hypromellose capsules with a white opaque body and cap imprinted with "VIVUS" and "MT 20" and packaged in bottles of 100-(NDC 62541-405-10).
 
+PANCREAZE (pancrelipase) Delayed-Release Capsules
+
+37,000 USP units of lipase; 97,300 USP units of protease; 149,900 USP units of amylase.
+
+PANCREAZE (pancrelipase) is supplied as hypromellose capsules with an iron grey opaque body and white opaque cap imprinted with "VIVUS" and "MT 37" and packaged in 2 bottles of 50-(NDC 62541-406-50) inside a carton (NDC 62541-406-10).
+
 Storage and Handling
 
 Avoid heat.
@@ -40,7 +46,5 @@ Do not store above 25°C (77°F).
 All PANCREAZE bottles contain a desiccant canister.
 Do not eat or throw away the desiccant canister in your medicine bottle.
 This canister will protect your medicine from moisture.
-
-Keep out of reach of children.
 
 DO NOT CRUSH PANCREAZE delayed-release capsules or the capsule contents.

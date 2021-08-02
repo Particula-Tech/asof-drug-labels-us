@@ -18,7 +18,7 @@ Patients receiving higher doses than 6,000 lipase units/kg of body weight per me
 Care should be taken to ensure that no drug is retained in the mouth.
 PANCREAZE should not be crushed or chewed or mixed in foods having a pH greater than 4.5.
 These actions can disrupt the protective enteric coating resulting in early release of enzymes, irritation of oral mucosa, and/or loss of enzyme activity [see Dosage and Administration (2.2) and Patient Counseling Information (17)].
-For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents sprinkled to a small amount of acidic soft food with a pH of 4.5 or less, such as applesauce.
+For patients who are unable to swallow intact delayed-release capsules, the delayed-release capsules may be carefully opened and the contents sprinkled to a small amount of acidic soft food with a pH of 4.5 or less, such as applesauce.
 The PANCREAZE-soft food mixture should be swallowed immediately and followed with water or juice to ensure complete ingestion.
 
 ## 5.3 Potential for Risk of Hyperuricemia

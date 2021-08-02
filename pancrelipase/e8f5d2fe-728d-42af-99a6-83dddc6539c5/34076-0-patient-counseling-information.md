@@ -11,9 +11,9 @@ Patients should be informed that if a dose is missed, the next dose should be ta
 Doses should not be doubled [see Dosage and Administration (2)].
 
 Instruct patients and caregivers that PANCREAZE should always be taken with food.
-Patients should be advised that PANCREAZE delayed-release capsules and the capsule contents must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity.
-Patients should swallow the intact capsules with adequate amounts of liquid at mealtimes.
-If necessary, the capsule contents can also be sprinkled on soft acidic foods.
+Patients should be advised that PANCREAZE delayed-release capsules and the delayed-release capsule contents must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity.
+Patients should swallow the intact delayed-release capsules with adequate amounts of liquid at mealtimes.
+If necessary, the delayed-release capsule contents can also be sprinkled on soft acidic foods.
 [see Dosage and Administration (2)].
 
 Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with PANCREAZE [see Use in Specific Populations (8.1)].

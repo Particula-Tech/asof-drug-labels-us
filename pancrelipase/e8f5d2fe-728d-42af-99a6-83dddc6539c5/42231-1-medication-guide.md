@@ -152,19 +152,21 @@ Imprint ink for Pancreaze 4200, 10500 and 16800 contains black iron oxide, shell
 
 Imprint ink for Pancreaze 21000 contains yellow iron oxide, shellac, strong ammonia solution, propylene glycol.
 
+Imprint ink for Pancreaze 37000 contains black iron oxide, shellac-glaze-45%, ammonium hydroxide, propylene glycol.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03/2020
+04/2021
 
 Product of Germany
 
-Finished Product Manufactured by:
+Finished Product Manufactured at:
 
-Nordmark Arzneimittel GmbH & Co. KG
+Nordmark Pharma GmbH
 
 25436 Uetersen, Germany.
 
-Manufactured for:
+Manufactured by:
 
 VIVUS, Inc.
 
@@ -172,6 +174,8 @@ VIVUS, Inc.
 
 Campbell, CA 95008, USA
 
-©VIVUS, Inc. 2010-2020
+©VIVUS, Inc. 2010-2021
 
-PH-10-001-04
+U.S. License No. 2197
+
+PH-10-001-05
