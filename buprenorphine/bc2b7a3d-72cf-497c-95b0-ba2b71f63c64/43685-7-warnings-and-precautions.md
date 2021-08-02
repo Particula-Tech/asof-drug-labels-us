@@ -12,6 +12,7 @@ Assess each patient's risk for opioid addiction, abuse, or misuse prior to presc
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as BELBUCA, but use in such patients necessitates intensive counseling about the risks and proper use of BELBUCA, along with intensive monitoring for signs of addiction, abuse, or misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Abuse or misuse of BELBUCA by swallowing may cause choking, overdose, and death [see Overdosage (10)].
 
@@ -50,9 +51,22 @@ Overestimating the dose of BELBUCA when converting patients from another opioid 
 
 Accidental exposure to BELBUCA, especially in children, can result in respiratory depression and death due to an overdose of buprenorphine.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with BELBUCA.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.5), Patient Counseling Information (17)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -73,6 +87,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when BELBUCA is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -104,7 +120,7 @@ The information available does not identify any particular opioids as being more
 BELBUCA has been observed to prolong the QTc interval in some subjects participating in clinical trials.
 Consider these observations in clinical decisions when prescribing BELBUCA to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
 Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of BELBUCA in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+Avoid the use of BELBUCA in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 
 ## 5.9 Severe Hypotension
 
@@ -132,7 +148,7 @@ For patients at increased risk of hepatotoxicity (e.g., patients with a history 
 ## 5.12 Risk of Overdose in Patients with Moderate to Severe Hepatic Impairment
 
 In a pharmacokinetic study in subjects dosed with buprenorphine sublingual tablets, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6), Use in Specific Populations (8.6)].
 
 ## 5.13 Anaphylactic/Allergic Reactions
 
@@ -145,7 +161,7 @@ BELBUCA is contraindicated in patients with a history of hypersensitivity to bup
 
 Do not abruptly discontinue BELBUCA in a patient physically dependent on opioids.
 When discontinuing BELBUCA in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
 Additionally, the use of BELBUCA, a partial agonist opioid analgesic, in patients who are receiving a full opioid agonist analgesic may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 Avoid concomitant use of BELBUCA with a full opioid agonist analgesic.
@@ -167,7 +183,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Cancer patients with oral mucositis may absorb buprenorphine more rapidly than intended and are likely to experience higher plasma levels of the opioid.
 For patients with known or suspected mucositis, a dose reduction is recommended.
-Monitor these patients carefully for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
+Monitor these patients carefully for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
 
 ## 5.18 Risks of Driving and Operating Machinery
 

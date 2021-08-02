@@ -54,12 +54,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration varies widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -80,7 +80,7 @@ Following the multiple dose administration (60 to 240 mcg every 12 hours) of BEL
 Buprenorphine steady-state Cmax and AUC increased proportional to dose.
 
 Systemic exposure to buprenorphine from BELBUCA film was reduced by 23-27% by the ingestion of liquids (cold, hot and room temperature water) during film administration; additionally, coadministration with low pH liquid, such as decaffeinated cola, decreased buprenorphine exposure from BELBUCA by approximately 37%.
-The consumption of liquids should be avoided until the buccal film has completely dissolved [see Dosage and Administration (2.7)].
+The consumption of liquids should be avoided until the buccal film has completely dissolved [see Dosage and Administration (2.8)].
 
 Distribution
 
@@ -141,7 +141,7 @@ The disposition of buprenorphine in patients with hepatic impairment was compare
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
 No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 8) [see Dosage and Administration (2.5), Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 8) [see Dosage and Administration (2.6), Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
 
 Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
 
@@ -156,4 +156,4 @@ Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Sev
 
 Oral Mucositis
 
-In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.6), Warnings and Precautions (5.17)].
+In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.7), Warnings and Precautions (5.17)].

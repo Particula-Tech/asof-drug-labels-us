@@ -117,7 +117,7 @@ BELBUCA has not been evaluated in patients with severe hepatic impairment.
 The effects of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-Given that increased buprenorphine plasma levels are associated with a greater risk of toxicity and overdose, a dosage reduction in patients with severe hepatic impairment (i.e., Child-Pugh C) is recommended [see Dosage and Administration (2.5)].
+Given that increased buprenorphine plasma levels are associated with a greater risk of toxicity and overdose, a dosage reduction in patients with severe hepatic impairment (i.e., Child-Pugh C) is recommended [see Dosage and Administration (2.6)].
 Monitor patients with severe hepatic impairment for signs and symptoms of overdose.
 A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed; however, monitor these patients for signs and symptoms of toxicity or overdose.
-A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.5), Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].
+A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.6), Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].

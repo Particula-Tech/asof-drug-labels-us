@@ -12,7 +12,18 @@ BELBUCA buccal film is for oral buccal use only and is to be applied to the bucc
 
 Instruct patients not to use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way and to avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
 
-## 2.2 Initial Dosing
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with BELBUCA [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosing
 
 Use of BELBUCA as the Initial Opioid Analgesic (opioid-naïve patients) or in Patients who are not Opioid Tolerant (opioid-non-tolerant patients)
 
@@ -58,7 +69,7 @@ Close monitoring is of particular importance when converting from methadone to o
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate BELBUCA to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving BELBUCA to assess the maintenance of pain control and the relative incidence of adverse reactions and monitor for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -72,12 +83,12 @@ The minimum titration interval of BELBUCA is 4 days, based on the pharmacokineti
 Individual titration should proceed in increments of no more than 150 mcg every 12 hours.
 
 The maximum BELBUCA dose is 900 mcg every 12 hours.
-Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation [see Warnings and Precautions (5.8), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation[see Warnings and Precautions (5.8), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 If pain is not adequately managed on BELBUCA 900 mcg, consider an alternate analgesic.
 
 If unacceptable opioid-related adverse reactions are observed, adjust the dose to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of BELBUCA
+## 2.5 Safe Reduction or Discontinuation of BELBUCA
 
 Do not abruptly discontinue BELBUCA in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -105,15 +116,15 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
 
-## 2.5 Dosage Modifications in Patients with Severe Hepatic Impairment
+## 2.6 Dosage Modifications in Patients with Severe Hepatic Impairment
 
 In patients with severe hepatic impairment (i.e., Child-Pugh C), reduce the starting dose and reduce the titration dose by half that of patients with normal liver function, from 150 mcg to 75 mcg [see Warnings and Precautions (5.12), Use in Special Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.6 Dosage Modifications in Patients with Oral Mucositis
+## 2.7 Dosage Modifications in Patients with Oral Mucositis
 
 In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
 
-## 2.7 Administration of BELBUCA
+## 2.8 Administration of BELBUCA
 
 BELBUCA should not be used if the package seal is broken or the film is cut, damaged, or changed in any way.
 

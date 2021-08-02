@@ -42,6 +42,6 @@ Manufactured for: BioDelivery Sciences International, Inc., Raleigh, NC 27612
 
 BELBUCA is a trademark of BioDelivery Sciences International, Inc.
 
-©2020 BioDelivery Sciences International, Inc. All rights reserved.
+©2021 BioDelivery Sciences International, Inc. All rights reserved.
 
-BEL-001-MG-JUL2020
+BEL-001-MG-Mar2021
