@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213069"
+  ],
+  "inn": "febuxostat",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-2244-32",
+    "0527-2248-32"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "febuxostat",
+      "name": "FEBUXOSTAT"
+    }
+  ],
+  "setid": "73b07a94-c044-42dc-abe4-7d7c860c9638",
+  "source": "dailymed"
+}
