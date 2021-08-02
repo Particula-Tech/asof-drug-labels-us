@@ -54,7 +54,7 @@ Advise patients that close monitoring may be required when PIQRAY is coadministe
 Dosing
 
 - Instruct patients to take PIQRAY at approximately the same time each day and to swallow the tablet(s) whole (tablets should not be chewed, crushed, or split prior to swallowing) [see Dosage and Administration (2.2)].
-- Advise patients to take PIQRAY with food [see Drug Interactions (7.4)].
+- Advise patients to take PIQRAY with food [see Clinical Pharmacology (12.3)].
 - Instruct patients that if a dose of PIQRAY is missed, it can be taken with food within 9 hours after the time it is usually taken.
   After more than 9 hours, skip the dose for that day.
   The next day, take PIQRAY at the usual time.
@@ -65,4 +65,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2020-127A
+T2021-104

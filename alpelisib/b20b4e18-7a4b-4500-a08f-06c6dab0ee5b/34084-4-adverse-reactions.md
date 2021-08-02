@@ -70,7 +70,7 @@ Table 6: Adverse Reactions Occurring in ≥ 10% and ≥ 2% Higher than Placebo A
 | Alopecia | 20 | 0* | 2.4 | 0* |
 | Pruritus | 18 | 0.7* | 6 | 0* |
 | Dry skin8 | 18 | 0.4* | 3.8 | 0* |
-| Grading according to CTCAE Version 4.03 1Stomatitis: including stomatitis, aphthous ulcer and mouth ulceration 2Abdominal pain: abdominal pain, abdominal pain upper, abdominal pain lower 3Fatigue: including fatigue, asthenia 4Mucosal dryness: including dry mouth, mucosal dryness, vulvovaginal dryness 5Urinary tract infection: including UTI and single case of urosepsis 6Dysgeusia: including dysgeusia, ageusia, hypogeusia 7Rash: including rash, rash maculo-papular, rash macular, rash generalized, rash papular, rash pruritic 8Dry skin: including dry skin, skin fissures, xerosis, xeroderma *No Grade 4 adverse reactions were reported. |  |  |  |  |
+| Grading according to CTCAE Version 4.03. 1Stomatitis: including stomatitis, aphthous ulcer and mouth ulceration. 2Abdominal pain: abdominal pain, abdominal pain upper, abdominal pain lower. 3Fatigue: including fatigue, asthenia. 4Mucosal dryness: including dry mouth, mucosal dryness, vulvovaginal dryness. 5Urinary tract infection: including UTI and single case of urosepsis. 6Dysgeusia: including dysgeusia, ageusia, hypogeusia. 7Rash: including rash, rash maculo-papular, rash macular, rash generalized, rash papular, rash pruritic. 8Dry skin: including dry skin, skin fissures, xerosis, xeroderma. *No Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Among the patients with Grade 2 or 3 rash, the median time to first onset of Grade 2 or 3 rash was 12 days.
 A subgroup of 86 patients received prophylaxis, including antihistamines, prior to onset of rash.
@@ -105,5 +105,7 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 
 The following adverse reactions have been identified during post-approval use of PIQRAY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Metabolism and nutrition disorders: Hyperglycemic hyperosmolar nonketotic syndrome (HHNKS).
 
 Skin and sub-cutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS).

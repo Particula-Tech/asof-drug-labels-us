@@ -70,6 +70,7 @@ Of 284 patients who received PIQRAY in the SOLAR-1 trial, 117 patients were ≥ 
 In patients treated with PIQRAY plus fulvestrant, there was a higher incidence of Grade 3-4 hyperglycemia in patients ≥ 65 years of age (44%) compared to patients < 65 years of age (32%).
 No overall differences in effectiveness of PIQRAY were observed between patients ≥ 65 years of age compared to younger patients.
 There are an insufficient number of patients ≥ 75 years of age to assess whether there are differences in safety or effectiveness.
+However, in the SOLAR-1 trial, an increase in the hyperglycemia adverse reactions (74% vs 66%) and Grade 3-4 (56% vs 36%) hyperglycemia were observed in patients ≥ 75 years of age compared to patients < 75 years of age, respectively [see Warnings and Precautions (5.3)].
 
 ## 8.6 Renal Impairment
 

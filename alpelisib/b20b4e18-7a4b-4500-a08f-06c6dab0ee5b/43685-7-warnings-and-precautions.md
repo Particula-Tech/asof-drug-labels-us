@@ -3,7 +3,7 @@
 ## 5.1 Severe Hypersensitivity
 
 Severe hypersensitivity reactions, including anaphylaxis and anaphylactic shock, can occur in patients treated with PIQRAY.
-Severe hypersensitivity reactions were manifested by symptoms including, but not limited to, dyspnea, flushing, rash, fever, or tachycardia.
+Severe hypersensitivity reactions were manifested by symptoms, including, but not limited to, dyspnea, flushing, rash, fever, or tachycardia.
 
 The incidence of Grade 3 and 4 hypersensitivity reactions was 0.7% [see Adverse Reactions (6)].
 
@@ -29,14 +29,16 @@ Advise patients of the signs and symptoms of SCARs (e.g., a prodrome of fever, f
 
 ## 5.3 Hyperglycemia
 
-Severe hyperglycemia, including ketoacidosis, can occur in patients treated with PIQRAY.
+Severe hyperglycemia, in some cases associated with hyperglycemic hyperosmolar non-ketotic syndrome (HHNKS) or ketoacidosis has occurred in patients treated with PIQRAY.
+Some fatal cases of ketoacidosis have occurred in the post marketing setting.
+
 Hyperglycemia was reported in 65% of patients treated with PIQRAY.
 Grade 3 (FPG > 250 to 500 mg/dL) and Grade 4 (FPG > 500 mg/dL) hyperglycemia was reported in 33% and 3.9% of patients, respectively.
 Ketoacidosis was reported in 0.7% of patients (n = 2) treated with PIQRAY.
 
 Among the patients who experienced Grade ≥ 2 (FPG 160 to 250 mg/dL) hyperglycemia, the median time to first occurrence of hyperglycemia was 15 days (range, 5 to 517 days).
 
-In the 187 patients with hyperglycemia, 87% (163/187) were managed with anti-diabetic medication, and 76% (142/187) reported use of metformin as single agent or in combination with other anti-diabetic medication [i.e., insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, and sulfonylureas].
+In the 187 patients with hyperglycemia, 87% (163/187) were managed with anti- hyperglycemic medication, and 76% (142/187) reported use of metformin as single agent or in combination with other anti- hyperglycemic medication [i.e., insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, and sulfonylureas].
 In patients with Grade ≥ 2 hyperglycemia with at least 1 grade improvement (n = 153), median time to improvement from the first event was 8 days (range, 2 to 65 days).
 
 In all patients with elevated FPG who continued fulvestrant treatment after discontinuing PIQRAY (n = 54), 96% (n = 52) of patients had FPG levels that returned to baseline.
@@ -44,14 +46,15 @@ In all patients with elevated FPG who continued fulvestrant treatment after disc
 Before initiating treatment with PIQRAY, test fasting plasma glucose (FPG), HbA1c, and optimize blood glucose.
 After initiating treatment with PIQRAY, monitor fasting glucose (FPG or fasting blood glucose) at least once every week for the first 2 weeks, then at least once every 4 weeks, and as clinically indicated.
 Monitor HbA1c every 3 months and as clinically indicated.
+Monitor fasting glucose more frequently for the first few weeks during treatment with PIQRAY in patients with risk factors for hyperglycemia such as obesity (BMI ≥ 30), elevated FPG, HbA1c at the upper limit of normal or above, use of concomitant systemic corticosteroids, or age ≥ 75 [see Use in Specific Populations (8.5)].
 
 If a patient experiences hyperglycemia after initiating treatment with PIQRAY, monitor fasting glucose as clinically indicated, and at least twice weekly until fasting glucose decreases to normal levels.
-During treatment with anti-diabetic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks and as clinically indicated.
+During treatment with anti-hyperglycemic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks and as clinically indicated.
 Consider consultation with a healthcare practitioner with expertise in the treatment of hyperglycemia and counsel patients on lifestyle changes.
 
 The safety of PIQRAY in patients with Type 1 and uncontrolled Type 2 diabetes has not been established as these patients were excluded from the SOLAR-1 trial.
-Patients with a medical history of Type 2 diabetes were included.
-Patients with a history of diabetes mellitus may require intensified diabetic treatment.
+Patients with a medical history of controlled Type 2 diabetes were included.
+Patients with a history of diabetes mellitus may require intensified hyperglycemic treatment.
 Closely monitor patients with diabetes.
 
 Based on the severity of the hyperglycemia, PIQRAY may require dose interruption, reduction, or discontinuation as described in Table 3 [see Dosage and Administration (2.3)].
@@ -65,7 +68,7 @@ Severe pneumonitis, including acute interstitial pneumonitis and interstitial lu
 Pneumonitis was reported in 1.8% of patients treated with PIQRAY.
 
 In patients who have new or worsening respiratory symptoms or are suspected to have developed pneumonitis, interrupt PIQRAY immediately and evaluate the patient for pneumonitis.
-Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, cough, dyspnea, or interstitial infiltrates on radiologic exams and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
+Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms, such as hypoxia, cough, dyspnea, or interstitial infiltrates on radiologic exams and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
 
 Permanently discontinue PIQRAY in all patients with confirmed pneumonitis.
 
