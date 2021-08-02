@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA203821"
+  ],
+  "inn": "nebivolol",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-615-01",
+    "68462-615-11",
+    "68462-615-30",
+    "68462-616-01",
+    "68462-616-11",
+    "68462-616-30",
+    "68462-617-01",
+    "68462-617-11",
+    "68462-617-30",
+    "68462-618-01",
+    "68462-618-11",
+    "68462-618-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nebivolol hydrochloride",
+      "name": "nebivolol"
+    }
+  ],
+  "setid": "cb47560d-9e35-4b0f-b12b-6ea478684a5b",
+  "source": "dailymed"
+}
