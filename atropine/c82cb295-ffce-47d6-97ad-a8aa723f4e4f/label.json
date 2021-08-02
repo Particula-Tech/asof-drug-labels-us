@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212868"
+  ],
+  "inn": "atropine",
+  "labeler": "Accord Healthcare, Inc.,",
+  "package_ndcs": [
+    "16729-483-31",
+    "16729-484-03",
+    "16729-484-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "atropine sulfate",
+      "name": "ATROPINE SULFATE"
+    }
+  ],
+  "setid": "c82cb295-ffce-47d6-97ad-a8aa723f4e4f",
+  "source": "dailymed"
+}
