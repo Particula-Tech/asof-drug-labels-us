@@ -40,10 +40,12 @@ Treatment with IMITREX tablets may cause somnolence and dizziness; instruct pati
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 ©2020 GSK group of companies or its licensor.
 
-IMT:6PI
+IMT:7PI
