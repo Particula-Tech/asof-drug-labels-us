@@ -21,7 +21,7 @@ The maximum mean (95% upper confidence bound) difference in PR from placebo afte
 
 Effects on Serum Creatinine
 
-Cobicistat: The effect of cobicistat on serum creatinine was investigated in a trial in subjects with normal renal function (eGFR ≥ 80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
+Cobicistat: The effect of cobicistat on serum creatinine was investigated in a trial in subjects with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
 A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among subjects with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
 No statistically significant changes in eGFRCG were observed compared to baseline for subjects with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
 The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate.
@@ -53,7 +53,7 @@ Table 2: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg C
 
 Absorption and Bioavailability
 
-In healthy subjects, under fed conditions, when single doses of the darunavir and cobicistat fixed dose combination tablet were administered, the maximum plasma concentration was achieved within approximately 4 to 4.5 hours for darunavir and approximately 4 to 5 hours for cobicistat.
+In healthy subjects, under fed conditions, when single doses of the darunavir and cobicistat fixed-dose combination tablet were administered, the maximum plasma concentration was achieved within approximately 4 to 4.5 hours for darunavir and approximately 4 to 5 hours for cobicistat.
 
 Effects of Food on Oral Absorption
 
@@ -82,9 +82,9 @@ Elimination
 Darunavir: A mass balance trial in healthy subjects showed that after single dose administration of 400 mg 14C-darunavir co-administered with 100 mg ritonavir, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir was recovered in the feces and urine, respectively.
 Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in feces and urine, respectively.
 
-When single doses of the darunavir and cobicistat fixed dose combination tablet were administered, the terminal elimination half-life of darunavir was approximately 7 hours under fed conditions.
+When single doses of the darunavir and cobicistat fixed-dose combination tablet were administered, the terminal elimination half-life of darunavir was approximately 7 hours under fed conditions.
 
-Cobicistat: When single doses of the darunavir and cobicistat fixed dose combination tablet were administered, the terminal elimination half-life of cobicistat was approximately 4 hours under fed conditions.
+Cobicistat: When single doses of the darunavir and cobicistat fixed-dose combination tablet were administered, the terminal elimination half-life of cobicistat was approximately 4 hours under fed conditions.
 With single dose administration of 14C-cobicistat after multiple dosing of cobicistat for six days, the mean percent of the administered dose excreted in feces and urine was 86.2% and 8.2%, respectively.
 
 Specific Populations
