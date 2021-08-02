@@ -18,11 +18,11 @@ However, on the basis of available data, no dosage adjustment for ondansetron is
 ## 7.4 Tramadol
 
 Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small trials indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
-Patients on concomitant ondansetron self administered tramadol more frequently in these trials, leading to an increased cumulative dose in patient-controlled administration (PCA) of tramadol.
+Patients on concomitant ondansetron self-administered tramadol more frequently in these trials, leading to an increased cumulative dose in patient-controlled administration of tramadol.
 
 ## 7.5 Serotonergic Drugs
 
-Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.3)].
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including SSRIs and SNRIs [see Warnings and Precautions (5.3)].
 
 ## 7.6 Chemotherapy
 
