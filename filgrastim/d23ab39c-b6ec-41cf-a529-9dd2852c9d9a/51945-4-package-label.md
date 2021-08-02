@@ -62,7 +62,7 @@ Single-Dose Prefilled Syringe with Needle Guard For Subcutaneous Use Only Mfd by
 
 US License No. 1974
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 71002448
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton
 
 1 x 300 mcg/0.5 mL Single-Dose Prefilled Syringe with Needle Guard
 
@@ -88,7 +88,7 @@ The syringe plunger stopper and needle cover are not made with natural rubber la
 
 Sterile Solution - No Preservative
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 10 Pk
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - NDC 0069-0291-10
 
 NDC 0069-0291-10 Rx Only
 
@@ -104,7 +104,7 @@ Subcutaneous Use Only Sterile Solution - No Preservative
 
 Pfizer Biosimilars
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - 71002449
+# PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - NDC 0069-0291-01
 
 NDC 0069-0291-01 Rx Only
 
@@ -132,7 +132,7 @@ Single-Dose Prefilled Syringe with Needle Guard For Subcutaneous Use Only Mfd by
 
 US License No. 1974
 
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 71002447
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton
 
 1 x 480 mcg/0.8 mL Single-Dose Prefilled Syringe with Needle Guard
 
@@ -158,7 +158,7 @@ The syringe plunger stopper and needle cover are not made with natural rubber la
 
 Sterile Solution - No Preservative
 
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 10 Pk
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - NDC 0069-0292-10
 
 NDC 0069-0292-10 Rx Only
 
@@ -174,7 +174,7 @@ Subcutaneous Use Only Sterile Solution - No Preservative
 
 Pfizer Biosimilars
 
-# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - 71002451
+# PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - NDC 0069-0292-01
 
 NDC 0069-0292-01 Rx Only
 
