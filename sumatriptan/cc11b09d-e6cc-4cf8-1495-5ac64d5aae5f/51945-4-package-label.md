@@ -30,6 +30,7 @@ Made in India
 
 1. 62000000046138 Rev.
    1/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -63,3 +64,4 @@ Made in India
 
 1. 62000000046139 Rev.
    1/20
+2. 
