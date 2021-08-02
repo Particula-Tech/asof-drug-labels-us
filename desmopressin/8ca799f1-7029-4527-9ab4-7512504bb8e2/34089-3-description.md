@@ -1,16 +1,15 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
-The structural formula for the active ingredient is:
+Desmopressin Nasal Spray Solution, USP is a vasopressin analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+It is chemically defined as follows:
 
-C48H74N14O17S2 Mol.
-Wt.
-1183.34
+Molecular weight: 1183.34
 
-Chemical Name: 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
+Empirical formula: C46H64N14O12S2•C2H4O2•3H2O
 
-Each mL Contains: ACTIVE: Desmopressin Acetate 0.1 mg (0.01%); INACTIVES: Purified Water and Sodium Chloride.
+1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
+
+Desmopressin Nasal Spray Solution, USP is an aqueous solution for intranasal use.
+Each mL contains: ACTIVE: Desmopressin Acetate 0.1 mg (0.01%); INACTIVES: Purified Water and Sodium Chloride.
 Hydrochloric Acid may be added to adjust pH (3.5 - 6.0).
 PRESERVATIVE ADDED: Chlorobutanol 0.5%.
-
-The Desmopressin Acetate Nasal Spray Solution compression pump delivers 0.1 mL (10 mcg) of Desmopressin Acetate Nasal Spray Solution per spray.

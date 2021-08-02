@@ -1,90 +1,38 @@
-Rx only FOR INTRANASAL USE ONLY
+# 2.1 Important Administration Instructions
 
-# PRECAUTIONS
+Administer desmopressin nasal spray solution by intranasal use only.
+Instruct patients about appropriate fluid restriction during desmopressin nasal spray solution treatment [see Warnings and Precautions (5.1)].
 
-## General:
+Must prime the spray pump prior to the first use.
+Instruct patients to:
 
-Intranasal desmopressin acetate at high dosage has infrequently produced a slight elevation of blood pressure, which disappeared with a reduction in dosage.
-The drug should be used with caution in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease because of possible rise in blood pressure.
+- •Prime pump by pressing down on pump five times (if the spray pump is not used for one week, re-prime the pump by pressing down on the pump once).
+- •Discard desmopressin nasal spray solution after 50 sprays since the amount delivered thereafter may be substantially less than the recommended dosage.
 
-Desmopressin acetate should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
+## 2.2 Recommended Dosage
 
-Rare severe allergic reactions have been reported with desmopressin acetate.
-Anaphylaxis has been reported rarely with intravenous and intranasal administration of desmopressin acetate.
+The use of desmopressin nasal spray solution is not indicated for patients who require less than 10 mcg doses or doses that are not multiples of 10 mcg because the spray pump can only deliver doses of 10 mcg [see Indications and Usage (1)].
+If other doses are required, use another desmopressin acetate product.
 
-Central Cranial Diabetes Insipidus:
+Individualize the dosage of desmopressin nasal spray solution for each patient with particular attention in pediatric and elderly patients and adjust according to the diurnal pattern of response to limit nocturia and to ensure fluid intake with respect to urine output is not excessive [see Warnings and Precautions (5.1)].
+Monitor continued response to desmopressin nasal spray solution by urine volume and osmolality to ensure adequate diuresis to limit the risk of hyponatremia, and include measurements of serum sodium and plasma osmolality as needed.
 
-Since Desmopressin Acetate Nasal Spray Solution is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case intranasal desmopressin acetate should not be used.
-For such situations, desmopressin acetate injection should be considered.
+Adults
 
-## Information for Patients:
+The recommended dosage in adults is 10 mcg once daily into one nostril up to 40 mcg once daily (or 40 mcg divided into two or three daily doses).
+If administered more than once a day, adjust for an adequate diurnal rhythm of urine output.
 
-Ensure that in children administration is under adult supervision in order to control the dose intake.
-Patients should be informed that the Desmopressin Acetate Nasal Spray Solution bottle accurately delivers 50 sprays of 10 mcg each.
-Any solution remaining after 50 sprays should be discarded since the amount delivered thereafter may be substantially less than 10 mcg of drug.
-No attempt should be made to transfer remaining solution to another bottle.
-Patients should be instructed to read accompanying directions on use of the spray pump carefully before use.
+Pediatric Patients
 
-Fluid intake should be adjusted downward based upon discussion with the physician.
+1. • For pediatric patients requiring doses less than 10 mcg, desmopressin nasal spray solution is not indicated.
+2. • For pediatric patients 4 years of age and older, the recommended starting dosage of desmopressin nasal spray solution is 10 mcg once daily into one nostril.
+   The dose can be titrated up to 30 mcg once daily (or 30 mcg divided into two daily doses, typically with 20 mcg given in the morning and 10 mcg given at nighttime).
+   If administered more than once a day, adjust for an adequate diurnal rhythm of urine output.
 
-## Laboratory Tests:
+Because administration of desmopressin acetate can be associated with decreased responsiveness with prolonged use, consider increasing the dosage of desmopressin nasal spray solution if patients demonstrate decreased response over a long period of time.
 
-Laboratory tests for following the patient with central cranial diabetes insipidus or post-surgical or head trauma-related polyuria and polydipsia include urine volume and osmolality.
-In some cases plasma osmolality measurements may be required.
+## 2.3 Switching Between Desmopressin Acetate Formulations
 
-## Drug Interactions:
+When switching from the desmopressin acetate injection to desmopressin nasal spray solution, administer 10 times the amount of desmopressin acetate, rounding down to the nearest 10 mcg.
 
-Although the pressor activity of desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring.
-The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
-
-Studies with desmopressin acetate have not been performed to evaluate carcinogenic potential, mutagenic potential or effects on fertility.
-
-## Pregnancy: Category B:
-
-Fertility studies have not been done.
-Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m2) revealed no harm to the fetus due to desmopressin acetate.
-There are, however no adequate and well controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-Several publications of desmopressin acetate's use in the management of diabetes insipidus during pregnancy are available; these include a few anecdotal reports of congenital anomalies and low birth weight babies.
-However, no causal connection between these events and desmopressin acetate has been established.
-A fifteen year, Swedish epidemiologic study of the use of desmopressin acetate in pregnant women with diabetes insipidus found the rate of birth defects to be no greater than that in the general population; however, the statistical power of this study is low.
-As opposed to preparations containing natural hormones, desmopressin acetate in antidiuretic doses has no uterotonic action and the physician will have to weigh the therapeutic advantages against the possible risks in each case.
-
-## Nursing Mothers:
-
-There have been no controlled studies in nursing mothers.
-A single study in a post-partum woman demonstrated a marked change in plasma, but little if any change in assayable desmopressin acetate in breast milk following an intranasal dose of 10 mcg.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when desmopressin acetate is administered to a nursing woman.
-
-## Pediatric Use:
-
-Central Cranial Diabetes Insipidus:
-
-Desmopressin Acetate Nasal Spray Solution has been used in children with diabetes insipidus.
-Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication (see WARNINGS).
-The dose must be individually adjusted to the patient with attention in the very young to the danger of an extreme decrease in plasma osmolality with resulting convulsions.
-Dose should start at 0.05 mL or less.
-
-Since the spray cannot deliver less than 0.1 mL (10 mcg), smaller doses should be administered using the rhinal tube delivery system.
-Do not use the nasal spray in pediatric patients requiring less than 0.1 mL (10 mcg) per dose.
-
-## Geriatric Use:
-
-Clinical studies of Desmopressin Acetate Nasal Spray Solution did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy.
-
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-Desmopressin Acetate Nasal Spray Solution is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50 mL/min).
-(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
-
-Use of Desmopressin Acetate Nasal Spray Solution in geriatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
-(See WARNINGS.)
-
-There are reports of an occasional change in response with time, usually greater than 6 months.
-Some patients may show a decreased responsiveness, others a shortened duration of effect.
-There is no evidence this effect is due to the development of binding antibodies but may be due to a local inactivation of the peptide.
+When switching from the desmopressin acetate tablets to desmopressin nasal spray solution, individual dose titration is required because intranasal desmopressin is approximately 10 to 40 fold more potent than oral (tablet) desmopressin.

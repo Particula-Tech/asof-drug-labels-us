@@ -1,16 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL is supplied in a bottle with nasal pump dispenser with dust cover and with patient instructions in the following size: 5 mL - NDC 24208-342-05
+## 16.1 How Supplied
 
-## Storage:
+Desmopressin Nasal Spray Solution, USP is available as a 5 mL bottle containing an aqueous solution with the spray pump delivering 50 sprays of 10 mcg (0.1 mL) (NDC 24208-342-05).
 
-Store in refrigerator at 2°-8°C (36°-46°F).
+## 16.2 Storage and Handling
+
+Store in refrigerator at 2° to 8°C (36° to 46°F).
+
 When traveling, product will maintain stability for up to 3 weeks when stored at room temperature, 22°C (72°F).
 
-Keep out of reach of children.
-
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-© Bausch & Lomb Incorporated
-
-Revised: October 2018 9035706 (Folded) 9045706 (Flat)
+STORE BOTTLE IN UPRIGHT POSITION.

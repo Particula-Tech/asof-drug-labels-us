@@ -1,14 +1,22 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-1. 1.For intranasal use only.
-2. 2.Desmopressin Acetate Nasal Spray Solution should only be used in patients where orally administered formulations are not feasible.
-3. 3.Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with Desmopressin Acetate Nasal Spray Solution (desmopressin acetate).
-   Desmopressin Acetate Nasal Spray Solution is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia.
-   Unless properly diagnosed and treated hyponatremia can be fatal.
-   Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian.
-   Careful medical supervision is required.
-4. 4.When Desmopressin Acetate Nasal Spray Solution is administered, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward in order to decrease the potential occurrence of water intoxication and hyponatremia (see PRECAUTIONS, Pediatric Use and Geriatric Use).
-   All patients receiving Desmopressin Acetate Nasal Spray Solution therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
-   Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest.
-   Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma.
-5. 5.Desmopressin Acetate Nasal Spray Solution should be used with caution in patients with habitual or psychogenic polydipsia who may be more likely to drink excessive amounts of water, putting them at greater risk of hyponatremia.
+## 5.1 Hyponatremia
+
+Excessive fluid intake when urine output is limited by the antidiuretic effect of desmopressin may lead to water intoxication with hyponatremia.
+Cases of hyponatremia have been reported from postmarketing experience in patients treated with desmopressin acetate.
+Unless properly diagnosed and treated, hyponatremia can be fatal.
+
+All patients receiving desmopressin nasal spray solution should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness, and confusion.
+Severe symptoms due to an extreme decrease in serum sodium and plasma osmolality may include one or a combination of the following: seizure, coma, and/or respiratory arrest.
+
+In order to decrease the risk of water intoxication with hyponatremia, fluid restriction is recommended.
+Careful fluid intake restriction is particularly important in pediatric and geriatric patients because these patients are at greater risk of developing hyponatremia [seeUse in Specific Populations (8.4, 8.5)].
+More frequent monitoring of serum sodium levels is recommended in the following patients: those with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure, renal disorders, habitual or psychogenic polydipsia or those taking concomitant drugs that may cause hyponatremia [see Drug Interactions (7.1)].
+
+Desmopressin nasal spray solution is not an indicated formulation for the treatment of primary nocturnal enuresis due to a higher risk of hyponatremia and hyponatremic convulsions with the use of the nasal spray formulation compared to desmopressin tablets seen in postmarketing reports [see Indications and Usage (1)].
+
+## 5.2 Altered Absorption in Patients with Nasal Mucosa Abnormalities
+
+Chronic administration of desmopressin nasal spray solution may result in changes to nasal mucosa.
+Nasal mucosa abnormalities (such as scarring and edema) due to chronic administration, or due to other causes (nasal blockage, nasal mucosal atrophy, severe atrophic rhinitis, recent nasal surgery such as transsphenoidal hypophysectomy) may cause erratic, unreliable absorption.
+Avoid use of desmopressin nasal spray solution in such patients [see Indications and Usage (1)] and consider use of other formulations of desmopressin acetate given by other routes of administration.

@@ -1,21 +1,24 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Desmopressin acetate is a synthetic analogue of the natural hormone arginine vasopressin.
-One mL (0.1 mg) of intranasal desmopressin acetate has an antidiuretic activity of about 400 international units; 10 mcg of desmopressin acetate is equivalent to 40 international units.
+## 12.1 Mechanism of Action
 
-1.
-The biphasic half-lives for intranasal desmopressin acetate were 7.8 and 75.5 minutes for the fast and slow phases, compared with 2.5 and 14.5 minutes for Iysine vasopressin, another form of the hormone used in this condition.
-As a result, intranasal desmopressin acetate provides a prompt onset of antidiuretic action with a long duration after each administration.
+The antidiuretic effects of desmopressin are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production.
+Desmopressin is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus.
+The change in structure of arginine vasopressin to desmopressin acetate resulted in a decreased vasopressor action and decreased actions on visceral smooth muscle relative to the enhanced antidiuretic activity, so that clinically effective antidiuretic doses were usually below threshold levels for effects on vascular or visceral smooth muscle.
 
-2.
-The change in structure of arginine vasopressin to desmopressin acetate has resulted in a decreased vasopressor action and decreased actions on visceral smooth muscle relative to the enhanced antidiuretic activity, so that clinically effective antidiuretic doses are usually below threshold levels for effects on vascular or visceral smooth muscle.
+## 12.2 Pharmacodynamics
 
-3.
-Desmopressin acetate administered intranasally has an antidiuretic effect about one-tenth that of an equivalent dose administered by injection.
+The use of desmopressin nasal spray solution in patients with central diabetes insipidus reduces urinary output, increases urine osmolality, and decreases plasma osmolality.
 
-## Human Pharmacokinetics:
+## 12.3 Pharmacokinetics
 
-Desmopressin Acetate Nasal Spray Solution is mainly excreted in the urine.
-A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in Desmopressin Acetate Nasal Spray Solution terminal half-life.
-Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment.
-(See CONTRAINDICATIONS).
+Absorption: Desmopressin acetate is absorbed through the nasal mucosa.
+
+Elimination: Desmopressin acetate exhibits a biphasic elimination profile, with half-lives of 7.8 and 75.5 minutes for the initial and terminal phases, respectively.
+
+Specific Populations
+
+Renal Impairment: Desmopressin acetate is mainly excreted in the urine.
+A pharmacokinetic study was conducted in subjects with normal renal function and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects each group) with a single 2 mcg dose of desmopressin acetate injection (this results in approximately 20 times the exposure of 10 mcg of desmopressin nasal spray solution).
+The terminal half-life was 2.8 hours in subjects with normal renal function, 4.0 hours in mild renal impairment, 6.6 hours in moderate renal impairment and 8.7 hours in severe renal impairment.
+In patients with mild, moderate and severe renal impairment, mean desmopressin exposure was 1.5 fold, 2.4 fold and 3.6 fold higher, respectively compared to that of subjects with normal renal function [see Contraindications (4), Use in Specific Populations (8.6)].
