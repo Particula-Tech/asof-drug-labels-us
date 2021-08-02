@@ -11,7 +11,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult and Adolescent Patients Aged 12 Years and Older
 
-A total of 1,327 patients with severe asthma were evaluated in 3 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks’ duration (Trial 1, NCT #01000506; Trial 2, NCT #01691521; and Trial 3, NCT #01691508).
+A total of 1,327 patients with severe asthma were evaluated in 3 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks’ duration (Trial 1, NCT01000506; Trial 2, NCT01691521; and Trial 3, NCT01691508).
 Of these, 1,192 had a history of 2 or more exacerbations in the year prior to enrollment despite regular use of high-dose ICS plus additional controller(s) (Trials 1 and 2), and 135 patients required daily oral corticosteroids (OCS) in addition to regular use of high-dose ICS plus additional controller(s) to maintain asthma control (Trial 3).
 All patients had markers of eosinophilic airway inflammation [see Clinical Studies (14.1)].
 Of the patients enrolled, 59% were female, 85% were White, and ages ranged from 12 to 82 years.
@@ -60,7 +60,42 @@ Patients received NUCALA for 12 weeks (initial short phase).
 After a treatment interruption of 8 weeks, 30 patients received NUCALA for a further 52 weeks (long phase).
 The adverse reaction profile for patients aged 6 to 11 years was similar to that observed in patients aged 12 years and older.
 
-## 6.2 Clinical Trials Experience in Eosinophilic Granulomatosis with Polyangiitis
+## 6.2 Clinical Trials Experience in Chronic Rhinosinusitis with Nasal Polyps
+
+A total of 407 patients with CRSwNP were evaluated in 1 randomized, placebo-controlled, multicenter, 52-week treatment trial.
+Patients received NUCALA 100 mg or placebo subcutaneously once every 4 weeks.
+Patients had recurrent CRSwNP with a history of prior surgery and were on nasal corticosteroids for at least 8 weeks prior to screening [see Clinical Studies (14.2)].
+Of the patients enrolled, 35% were female, 93% were White, and ages ranged from 18 to 82 years.
+Approximately 2% of patients receiving NUCALA 100 mg withdrew from study treatment due to adverse events compared with 2% of patients receiving placebo.
+
+Table 2 summarizes adverse reactions that occurred in ≥ 3% of NUCALA-treated patients and more frequently than in patients treated with placebo in the CRSwNP trial.
+
+Table 2.
+Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo in Patients with CRSwNP
+
+| Adverse Reaction | NUCALA(Mepolizumab 100 mgSubcutaneous)(n = 206)% | Placebo(n = 201)% |
+| --- | --- | --- |
+| Oropharyngeal pain | 8 | 5 |
+| Arthralgia | 6 | 2 |
+| Abdominal Pain Upper | 3 | 2 |
+| Diarrhea | 3 | 2 |
+| Pyrexia | 3 | 2 |
+| Nasal dryness | 3 | <1 |
+| Rash | 3 | <1 |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps |  |  |
+
+Systemic Reactions, including Hypersensitivity Reactions
+
+In the 52-week trial, the percentage of patients who experienced systemic (allergic [type I hypersensitivity] and other) reactions was <1% in the group receiving NUCALA 100 mg and <1% in the placebo group.
+Systemic allergic (type I hypersensitivity) reactions were reported by <1% of patients in the group receiving NUCALA 100 mg and no patients in the placebo group.
+The manifestations of systemic allergic (type I hypersensitivity) reactions included urticaria, erythema, and rash and 1 of the 3 reactions occurred on the day of dosing.
+Other systemic reactions were reported by no patients in the group receiving NUCALA 100 mg and <1% of patients in the placebo group.
+
+Injection Site Reactions
+
+Injection site reactions (e.g., erythema, pruritus) occurred at a rate of 2% in patients receiving NUCALA 100 mg compared with <1% in patients receiving placebo.
+
+## 6.3 Clinical Trials Experience in Eosinophilic Granulomatosis with Polyangiitis
 
 A total of 136 patients with EGPA were evaluated in 1 randomized, placebo-controlled, multicenter, 52-week treatment trial.
 Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks.
@@ -81,12 +116,12 @@ Injection Site Reactions
 
 Injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving 300 mg of NUCALA compared with 13% in patients receiving placebo.
 
-## 6.3 Clinical Trials Experience in Hypereosinophilic Syndrome
+## 6.4 Clinical Trials Experience in Hypereosinophilic Syndrome
 
 A total of 108 adult and adolescent patients aged 12 years and older with HES were evaluated in a randomized, placebo‑controlled, multicenter, 32-week treatment trial.
 Patients with non-hematologic secondary HES or FIP1L1‑PDGFRα kinase-positive HES were excluded from the trial.
 Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks.
-Patients must have been on a stable dose of background HES therapy for the 4 weeks prior to randomization [see Clinical Studies (14.3)].
+Patients must have been on a stable dose of background HES therapy for the 4 weeks prior to randomization [see Clinical Studies (14.4)].
 Of the patients enrolled, 53% were female, 93% were White, and ages ranged from 12 to 82 years.
 No additional adverse reactions were identified to those reported in the severe asthma trials.
 
@@ -100,7 +135,7 @@ Injection Site Reactions
 
 Injection site reactions (e.g., burning, itching) occurred at a rate of 7% in patients receiving 300 mg of NUCALA compared with 4% in patients receiving placebo.
 
-## 6.4 Immunogenicity
+## 6.5 Immunogenicity
 
 In adult and adolescent patients with severe asthma receiving NUCALA 100 mg, 15/260 (6%) had detectable anti-mepolizumab antibodies.
 Neutralizing antibodies were detected in 1 patient with asthma receiving NUCALA 100 mg.
@@ -109,6 +144,9 @@ There was no evidence of a correlation between anti-mepolizumab antibody titers 
 The clinical relevance of the presence of anti-mepolizumab antibodies is not known.
 In the clinical trial of children aged 6 to 11 years with severe asthma receiving NUCALA 40 or 100 mg, 2/35 (6%) had detectable anti‑mepolizumab antibodies during the initial short phase of the trial.
 No children had detectable anti-mepolizumab antibodies during the long phase of the trial.
+
+In patients with CRSwNP receiving NUCALA 100 mg, 6/196 (3%) had detectable anti mepolizumab antibodies.
+No neutralizing antibodies were detected in any patients with CRSwNP.
 
 In patients with EGPA receiving 300 mg of NUCALA, 1/68 (<2%) had detectable anti-mepolizumab antibodies.
 No neutralizing antibodies were detected in any patients with EGPA.
@@ -120,7 +158,7 @@ The reported frequency of anti-mepolizumab antibodies may underestimate the actu
 The data reflect the percentage of patients whose test results were positive for antibodies to mepolizumab in specific assays.
 The observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 
-## 6.5 Postmarketing Experience
+## 6.6 Postmarketing Experience
 
 In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of NUCALA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

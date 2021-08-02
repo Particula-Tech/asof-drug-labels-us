@@ -33,7 +33,7 @@ GlaxoSmithKline LLC
 
 Philadelphia, PA 19112
 
-U.S. License Number 1727
+U.S. License No. 1727
 
 Distributed by
 
@@ -41,6 +41,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2020 GSK group of companies or its licensor.
+©2021 GSK group of companies or its licensor.
 
-NCL:6PI
+NCL:7PI

@@ -5,9 +5,9 @@
 Mepolizumab is an IL-5 antagonist (IgG1 kappa).
 IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils.
 Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface.
-Inflammation is an important component in the pathogenesis of asthma, EGPA, and HES.
+Inflammation is an important component in the pathogenesis of asthma, CRSwNP, EGPA, and HES.
 Multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) are involved in inflammation.
-Mepolizumab, by inhibiting IL-5 signaling, reduces the production and survival of eosinophils; however, the mechanism of mepolizumab action in asthma, EGPA, and HES has not been definitively established.
+Mepolizumab, by inhibiting IL-5 signaling, reduces the production and survival of eosinophils; however, the mechanism of mepolizumab action in asthma, CRSwNP, EGPA, and HES has not been definitively established.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,18 +27,22 @@ This corresponds to a geometric mean reduction from baseline of 85%.
 
 The magnitude of reduction in adults, adolescents, and children was observed within 4 weeks of treatment and was maintained throughout the treatment periods.
 
+For adults with CRSwNP, following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 60 cells/mcL.
+There was a geometric mean reduction of 83% compared with placebo.
+This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period [see Clinical Studies (14.2)].
+
 For adults with EGPA, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 38 cells/mcL.
-There was a geometric mean reduction of 83% compared with placebo, and this magnitude of reduction was observed within 4 weeks of treatment [see Clinical Studies (14.2)].
+There was a geometric mean reduction of 83% compared with placebo, and this magnitude of reduction was observed within 4 weeks of treatment [see Clinical Studies (14.3)].
 
 For adults and adolescents with HES, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 32 weeks, blood eosinophils were reduced to a geometric mean count of 70 cells/mcL.
-There was a geometric mean reduction of 92% compared with placebo [see Clinical Studies (14.3)].
+There was a geometric mean reduction of 92% compared with placebo [see Clinical Studies (14.4)].
 
 ## 12.3 Pharmacokinetics
 
 Following subcutaneous dosing in adult subjects with asthma, mepolizumab exhibited approximately dose‑proportional pharmacokinetics over a dose range of 12.5 to 250 mg.
-The pharmacokinetic properties of mepolizumab observed in subjects with EGPA (adults) or HES (adults and adolescents) were similar to the pharmacokinetic properties observed in subjects with severe asthma (adults and adolescents).
+The pharmacokinetic properties of mepolizumab observed in subjects with CRSwNP (adults), EGPA (adults), or HES (adults and adolescents) were similar to the pharmacokinetic properties observed in subjects with severe asthma (adults and adolescents).
 
-Systemic exposure following administration of mepolizumab 300 mg subcutaneously in subjects with EGPA (adults) or HES (adults and adolescents) was approximately 3 times that of mepolizumab 100 mg administered subcutaneously in subjects with severe asthma (adults and adolescents) (Trial 2).
+Subcutaneous administration of mepolizumab 300 mg had approximately 3 times the systemic exposure of mepolizumab 100 mg.
 
 Absorption
 
@@ -50,14 +54,12 @@ Distribution
 
 The population central volume of distribution of mepolizumab in adult subjects with asthma is estimated to be 3.6 L for a 70-kg individual.
 
-Metabolism
-
-Mepolizumab is a humanized IgG1 monoclonal antibody that is degraded by proteolytic enzymes widely distributed in the body and not restricted to hepatic tissue.
-
 Elimination
 
 Following subcutaneous administration of mepolizumab in adult subjects with asthma, the mean terminal half-life (t1/2) ranged from 16 to 22 days.
 The population apparent systemic clearance of mepolizumab in adult and adolescent subjects with asthma is estimated to be 0.28 L/day for a 70-kg individual.
+
+Metabolism: Mepolizumab is a humanized IgG1 monoclonal antibody that is degraded by the proteolytic enzymes widely distributed in the body and not restricted to hepatic tissue.
 
 Specific Populations
 

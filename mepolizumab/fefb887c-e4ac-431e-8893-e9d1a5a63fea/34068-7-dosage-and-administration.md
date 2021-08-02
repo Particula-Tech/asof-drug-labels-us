@@ -6,23 +6,27 @@ NUCALA is for subcutaneous use only.
 
 Adults and Adolescents Aged 12 Years and Older
 
-The recommended dosage of NUCALA in adults and adolescents aged 12 years and older is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
+The recommended dosage of NUCALA in adults and adolescents aged 12 years and older is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
 
 Pediatric Patients Aged 6 to 11 Years
 
-The recommended dosage of NUCALA for injection in children aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4)].
+The recommended dosage of NUCALA for injection in pediatric patients aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5)].
 
-## 2.2 Eosinophilic Granulomatosis with Polyangiitis
+## 2.2 Chronic Rhinosinusitis with Nasal Polyps
 
-The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
+The recommended dosage of NUCALA is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
+
+## 2.3 Eosinophilic Granulomatosis with Polyangiitis
+
+The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
 Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
 
-## 2.3 Hypereosinophilic Syndrome
+## 2.4 Hypereosinophilic Syndrome
 
-The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
+The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
 Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
 
-## 2.4 Preparation and Administration of NUCALA for Injection Vial
+## 2.5 Preparation and Administration of NUCALA for Injection Vial
 
 NUCALA for injection should be reconstituted and administered by a healthcare professional.
 In line with clinical practice, monitoring of patients after administration of biologic agents is recommended [see Warnings and Precautions (5.1)].
@@ -43,9 +47,9 @@ Reconstitution Instructions
    Small air bubbles, however, are expected and acceptable.
    If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be administered.
 5. 5.If the reconstituted solution is not used immediately:
-6. •store below 30°C (86°F),
-7. •do not freeze, and
-8. •discard if not used within 8 hours of reconstitution.
+   1. •store below 30°C (86°F),
+   2. •do not freeze, and
+   3. •discard if not used within 8 hours of reconstitution.
 
 Administration of 100-mg Dose
 
@@ -63,29 +67,23 @@ Administration of 40-mg Dose
 
 Each vial of NUCALA for injection should be used for a single patient, and any remainder of the contents should be discarded.
 
-## 2.5 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringe
+## 2.6 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringe
 
 NUCALA injection is intended for use under the guidance of a healthcare provider.
 The NUCALA injection prefilled autoinjector and prefilled syringe are only for use in adults and adolescents aged 12 years and older.
 A patient may self-inject or the patient caregiver may administer NUCALA injection subcutaneously after the healthcare provider determines it is appropriate.
 Provide proper training in subcutaneous injection technique and on the preparation and administration of NUCALA injection prior to use according to the “Instructions for Use”.
 
-1. 1.
-   Remove the prefilled autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to injection.
+1. 1.Remove the prefilled autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to injection.
    Do not warm NUCALA injection in any other way.
-2. 2.
-   Prior to administration, visually inspect the window of the prefilled autoinjector or the prefilled syringe for particulate matter or discoloration.
+2. 2.Prior to administration, visually inspect the window of the prefilled autoinjector or the prefilled syringe for particulate matter or discoloration.
    NUCALA injection should be clear to opalescent, colorless to pale yellow to pale brown in color.
    Do not use NUCALA injection if the product exhibits discoloration, cloudiness, or particulate matter.
    Do not use the NUCALA prefilled autoinjector or prefilled syringe if dropped on a hard surface.
-3. 3.
-   Administer the subcutaneous injection into the thigh or abdomen, avoiding the 5 cm (2 inches) around the navel.
+3. 3.Administer the subcutaneous injection into the thigh or abdomen, avoiding the 5 cm (approximately 2 inches) around the navel.
    The upper arm can also be used if a caregiver administers the subcutaneous injection.
-4. 4.
-   For use in EGPA and HES, ensure injection sites for each subcutaneous injection are separated by at least 5 cm (2 inches).
-5. 5.
-   Never give injections into areas where the skin is tender, bruised, red, or hard.
-6. 6.
-   If a dose is missed, administer a dose as soon as possible.
+4. 4.For use in EGPA and HES, ensure injection sites for each subcutaneous injection are separated by at least 5 cm (approximately 2 inches).
+5. 5.Never give injections into areas where the skin is tender, bruised, red, or hard.
+6. 6.If a dose is missed, administer a dose as soon as possible.
    Thereafter, the patient can resume dosing on the usual day of administration.
    If the next dose is already due, then administer as planned.
