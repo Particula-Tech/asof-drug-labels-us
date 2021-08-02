@@ -245,7 +245,7 @@ The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, d
 
 Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adultsa,b
 
-| Body System/ AdverseReaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |
+| Body System/ Adverse Reaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |
 | --- | --- | --- | --- |
 |  |  | Topiramate Dosage (mg/day) |  |
 | Body as a Whole-General Disorders |  |  |  |
