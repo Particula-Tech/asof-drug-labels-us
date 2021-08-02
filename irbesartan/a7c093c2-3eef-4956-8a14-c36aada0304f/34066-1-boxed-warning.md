@@ -1,4 +1,6 @@
 WARNING: FETAL TOXICITY
 
-- When pregnancy is detected, discontinue irbesartan tablets as soon as possible [see Warnings and Precautions (5.1) Use in Specific Populations (8.1)].
-- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions (5.1) Use in Specific Populations (8.1)].
+- Administration to patients with moderate or severe renal impairment is not recommended.
+  (8.6)
+- Administration to patients with hepatic impairment is not recommended.
+  (8.7)

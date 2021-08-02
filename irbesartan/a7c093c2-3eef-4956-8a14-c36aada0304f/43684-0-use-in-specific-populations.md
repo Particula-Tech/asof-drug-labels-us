@@ -6,7 +6,7 @@ Risk Summary
 
 Irbesartan can cause fetal harm when administered to a pregnant woman.
 
-Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death[see Clinical Considerations].
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death [see Clinical Considerations].
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 When pregnancy is detected, discontinue Irbesartan-hydrochlorothiazide as soon as possible.
 
@@ -65,4 +65,4 @@ Irbesartan has not been studied in pediatric patients less than 6 years old.
 
 Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3.0%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
-[see CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.1)].
+[see CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.1)]

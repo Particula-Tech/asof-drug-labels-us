@@ -68,28 +68,28 @@ Following either oral or intravenous administration of 14C-labeled irbesartan, a
 
 Specific Populations
 
-Sex:
+Sex
 
 No sex-related differences in pharmacokinetics are observed in healthy elderly (age 65 to 80 years) or in healthy young (age 18 to 40 years) subjects.
 In studies of hypertensive patients, there is no sex difference in half-life or accumulation, but somewhat higher plasma concentrations of irbesartan are observed in females (11% to 44%).
 No sex-related dosage adjustment is necessary.
 
-Geriatrics:
+Geriatrics
 
 In elderly subjects (age 65 to 80 years), irbesartan elimination half-life is not significantly altered, but AUC and Cmax values are about 20% to 50% greater than those of young subjects (age 18 to 40 years).
 No dosage adjustment is necessary in the elderly.
 
-Race/ethnicity:
+Race/ethnicity
 
 In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
 
-Renal impairment:
+Renal impairment
 
 The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see WARNINGS AND PRECAUTIONS (5.2) and DOSAGE AND ADMINISTRATION (2.4)].
 
-Hepatic insufficiency:
+Hepatic insufficiency
 
 The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
