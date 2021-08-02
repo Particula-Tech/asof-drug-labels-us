@@ -11,7 +11,7 @@ For the severest cases or in postoperative conditions in which oral administrati
 
 ## Directions for Intravenous Use
 
-Methocarbamol Injectable may be administered undiluted directly into the vein at a maximum rate of three mL per minute.
+Methocarbamol injection may be administered undiluted directly into the vein at a maximum rate of three mL per minute.
 It may also be added to an intravenous drip of Sodium Chloride Injection (Sterile Isotonic Sodium Chloride Solution for Parenteral Use) or five percent Dextrose Injection (Sterile 5 percent Dextrose Solution); one vial given as a single dose should not be diluted to more than 250 mL for I.V. infusion.
 AFTER MIXING WITH I.V.
 INFUSION FLUIDS, DO NOT REFRIGERATE.
@@ -30,7 +30,7 @@ Not Recommended for Subcutaneous Administration.
 
 There is clinical evidence which suggests that methocarbamol may have a beneficial effect in the control of the neuromuscular manifestations of tetanus.
 It does not, however, replace the usual procedure of debridement, tetanus antitoxin, penicillin, tracheotomy, attention to fluid balance, and supportive care.
-Methocarbamol Injectable should be added to the regimen as soon as possible.
+Methocarbamol injection should be added to the regimen as soon as possible.
 
 For adults: Inject one or two vials directly into the tubing of the previously inserted indwelling needle.
 An additional 10 mL or 20 mL may be added to the infusion bottle so that a total of up to 30 mL (three vials) is given as the initial dose (see PRECAUTIONS).

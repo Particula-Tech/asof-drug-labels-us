@@ -25,22 +25,16 @@ Discard unused portion.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Somerset Therapeutics, LLC at 1-800-417-9175 or FDA at 1-800 FDA-1088 or www.fda.gov/medwatch
 
-Manufactured by:
-
-Wintac Limited
-
-Bangalore 562 123
-
-India.
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Somerset, NJ 08873
+Hollywood, FL 33024
 
-ST-MET11/P/02
+Made in India
 
-Revised: June 2018
+Code No.:KR/DRUGS/KTK/28/289/97
+
+ST-MET11/P/03
+
+Revised: July, 2020

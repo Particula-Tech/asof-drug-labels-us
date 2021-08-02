@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Methocarbamol injection, USP Injectable, a carbamate derivative of guaifenesin, is a central nervous system (CNS) depressant with sedative and musculoskeletal relaxant properties.
+Methocarbamol injection, USP a carbamate derivative of guaifenesin, is a central nervous system (CNS) depressant with sedative and musculoskeletal relaxant properties.
 It is a sterile, pyrogen-free solution intended for intramuscular or intravenous administration.
 
 Each mL contains: methocarbamol, USP 100 mg, polyethylene glycol 300, NF 0.5 mL, Water for Injection, USP q. s. The pH is adjusted, when necessary, with hydrochloric acid and/or sodium hydroxide.
@@ -10,7 +10,7 @@ The structural formula is shown below.
 
 Methocarbamol is a white powder, sparingly soluble in water and chloroform, soluble in alcohol (only with heating) and propylene glycol, and insoluble in benzene and n-hexane.
 
-Methocarbamol Injectable has a pH between 3.5 and 6.0.
+Methocarbamol injection has a pH between 3.5 and 6.0.
 
 AFTER MIXING WITH I.V.
 INFUSION FLUIDS, DO NOT REFRIGERATE.
