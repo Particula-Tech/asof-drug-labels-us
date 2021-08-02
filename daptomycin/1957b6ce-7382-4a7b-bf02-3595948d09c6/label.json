@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210282"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0120-01",
+    "0409-0122-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "1957b6ce-7382-4a7b-bf02-3595948d09c6",
+  "source": "dailymed"
+}
