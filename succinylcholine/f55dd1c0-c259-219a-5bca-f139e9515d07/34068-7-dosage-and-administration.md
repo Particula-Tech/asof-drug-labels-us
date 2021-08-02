@@ -25,14 +25,21 @@ For Long Surgical Procedures
 The dose of succinylcholine administered by infusion depends upon the duration of the surgical procedure and the need for muscle relaxation.
 The average rate for an adult ranges between 2.5 and 4.3 mg per minute.
 
+Solutions containing from 1 to 2 mg per mL succinylcholine have commonly been used for continuous infusion.
+The more dilute solution (1 mg per mL) is probably preferable from the standpoint of ease of control of the rate of administration of the drug and, hence, of relaxation.
+This intravenous solution containing 1 mg per mL may be administered at a rate of 0.5 mg (0.5 mL) to 10 mg (10 mL) per minute to obtain the required amount of relaxation.
+The amount required per minute will depend upon the individual response as well as the degree of relaxation required.
+Avoid overburdening the circulation with a large volume of fluid.
+It is recommended that neuromuscular function be carefully monitored with a peripheral nerve stimulator when using succinylcholine by infusion in order to avoid overdose, detect development of Phase II block, follow its rate of recovery, and assess the effects of reversing agents (see PRECAUTIONS).
+
 Intermittent intravenous injections of succinylcholine may also be used to provide muscle relaxation for long procedures.
 An intravenous injection of 0.3 to 1.1 mg/kg may be given initially, followed, at appropriate intervals, by further injections of 0.04 to 0.07 mg/kg to maintain the degree of relaxation required.
 
 Pediatrics
 
-For emergency tracheal intubation or in instances where immediate securing of the airway is necessary, the intravenous dose of succinylcholine is 2 mg/kg for infants and small pediatric patients; for older pediatric patients and adolescents the dose is 1 mg/kg (see BOX WARNING and PRECAUTIONS:Pediatric Use).
+For emergency tracheal intubation or in instances where immediate securing of the airway is necessary, the intravenous dose of succinylcholine is 2 mg/kg for infants and small pediatric patients; for older pediatric patients and adolescents the dose is 1 mg/kg (see BOX WARNING and PRECAUTIONS: Pediatric Use).
 It is currently known that the effective dose of succinylcholine in pediatric patients may be higher than that predicted by body weight dosing alone.
-For example, the usual adult IV dose of 0.6 mg/kg is comparable to a dose of 2-3 mg/kg in neonates and infants to 6 months and 1-2 mg/kg in infants up to 2 years of age.
+For example, the usual adult IV dose of 0.6 mg/kg is comparable to a dose of 2 to 3 mg/kg in neonates and infants to 6 months and 1 to 2 mg/kg in infants up to 2 years of age.
 This is thought to be due to the relatively large volume of distribution in the pediatric patient versus the adult patient.
 
 Rarely, intravenous bolus administration of succinylcholine in infants and pediatric patients may result in malignant ventricular arrythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia.
@@ -48,3 +55,13 @@ Intramuscular Use
 If necessary, succinylcholine may be given intramuscularly to infants, older pediatric patients or adults when a suitable vein is inaccessible.
 A dose of up to 3 to 4 mg/kg may be given, but not more than 150 mg total dose should be administered by this route.
 The onset of effect of succinylcholine given intramuscularly is usually observed in about 2 to 3 minutes.
+
+Compatibility and Admixtures
+
+Succinylcholine is acidic(pH 3.5) and should not be mixed with alkaline solutionshaving a pH greater than 8.5 (e.g., barbiturate solutions).
+Admixtures containing 1 to 2 mg/mL may be preparedby adding 1 gram succinylcholine to 1,000 or 500 mL sterile solution,such as 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP.
+Admixtures of succinylcholine chloride injection must be used within 24 hours after preparation.
+Aseptic techniques should be used to preparethe diluted product.Admixtures of succinylcholine chloride injection should be prepared for single patient use only.
+The unused portion of diluted succinylcholine should be discarded.
+
+To prevent needle-stick injuries, needlesshould not be recapped, purposelybent, or broken by hand.

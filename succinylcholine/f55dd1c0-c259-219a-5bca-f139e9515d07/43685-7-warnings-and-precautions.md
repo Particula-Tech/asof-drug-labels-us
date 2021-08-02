@@ -103,16 +103,17 @@ If other neuromuscular blocking agents are to be used during the same procedure,
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There have been no long-term studies performed in animals to evaluate carcinogenic potential.Genetic toxicology studies have not been completed to evaluate the genotoxic potential of succinylcholine.
+There have been no long-term studies performed in animals to evaluate carcinogenic potential of succinylcholine.Genetic toxicology studies have not been completed to evaluate the genotoxic potential of succinylcholine.
 There are no studies to evaluate the potential impact of succinylcholine on fertility.
 
-## Pregnancy:
+## Pregnancy
 
 Risk Summary
 
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Animal reproduction studies have not been conducted with succinylcholine chloride.
 Succinylcholine should be given to a pregnant woman only if clearly needed.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.

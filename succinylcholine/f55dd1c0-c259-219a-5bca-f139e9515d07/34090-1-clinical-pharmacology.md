@@ -8,7 +8,7 @@ Onset of flaccid paralysis is rapid (less than one minute after intravenous admi
 
 Succinylcholine is rapidly hydrolyzed by plasma cholinesterase to succinylmonocholine (which possesses clinically insignificant depolarizing muscle relaxant properties) and then more slowly to succinic acid and choline (see PRECAUTIONS).
 About 10% of the drug is excreted unchanged in the urine.
-Succinylcholine levels were reported to be below the detection limit of 2 µg/mL after 2.5 minutes of an intravenous bolus dose of 1 or 2 mg/kg in fourteen (14) anesthetized patients.
+Succinylcholine levels were reported to be below the detection limit of 2 mcg/mL after 2.5 minutes of an intravenous bolus dose of 1 or 2 mg/kg in fourteen (14) anesthetized patients.
 The paralysis following administration of succinylcholine is progressive, with differing sensitivities of different muscles.
 This initially involves consecutively the levator muscles of the face, muscles of the glottis and finally the intercostals and the diaphragm and all other skeletal muscles.
 
