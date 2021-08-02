@@ -41,7 +41,7 @@ The trials consisted of double-blind controlled and open-label studies, inpatien
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
+Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week, placebo-controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
 Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-week US Mirtazapine Tablets Trials

@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
+The recommended starting dose for mirtazapine tablets is 15mg once daily, administered orally, preferably in the evening prior to sleep.
 If patients do not have an adequate response to the initial 15 mg dose, increase the dose up to a maximum of 45 mg per day.
 Dose changes should not be made in intervals of less than 1 to 2 weeks to allow sufficient time for evaluation of response to a given dose [see Clinical Pharmacology (12.3)].
 

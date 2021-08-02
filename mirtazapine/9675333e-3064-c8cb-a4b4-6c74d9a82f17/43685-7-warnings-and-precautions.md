@@ -11,11 +11,11 @@ The drug-placebo differences in the number of cases of suicidal thoughts and beh
 | --- | --- |
 | Age Range | Drug-placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | Increases Compared to Placebo |  |
-| <18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| <18 | 14 additional patients |
+| 18 to 24 | 5 additional patients |
 | Decreases Compared to Placebo |  |
-| 25 to 64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| 25 to 64 | 1 fewer patients |
+| ≥65 | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
