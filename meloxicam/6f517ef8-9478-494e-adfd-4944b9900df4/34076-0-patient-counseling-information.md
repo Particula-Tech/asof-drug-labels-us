@@ -51,6 +51,6 @@ This PRESCRIBING INFORMATION has been approved by the US Food and Drug Administr
 
 Manufactured for: Baudax Bio, Inc. Malvern, PA 19355 USA Made in Italy
 
-Prescribing Information issued: April 2021
+Prescribing Information issued: July 2021
 
-216203
+216277

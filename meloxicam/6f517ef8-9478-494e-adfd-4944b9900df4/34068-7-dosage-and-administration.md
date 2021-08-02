@@ -15,5 +15,6 @@ To reduce the risk of renal toxicity, patients must be well hydrated prior to ad
 
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
 Should the contents appear discolored or contain particulate matter, discard the vial [see Dosage Forms and Strengths (3)].
-
+The vial contains overfill to allow for withdrawal of 1 mL of the drug product.
+The overfill is to provide assurance that 1 mL can be withdrawn from the vial to deliver 30 mg of meloxicam.
 Discard any unused portion from the single-dose vial [see Dosage Forms and Strengths (3)].
