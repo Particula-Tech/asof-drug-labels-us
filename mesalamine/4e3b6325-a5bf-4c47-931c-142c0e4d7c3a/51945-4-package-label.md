@@ -8,4 +8,4 @@ Mesalamine delayed-release tablets
 
 Rx Only 120 Tablets
 
-Shire
+Takeda
