@@ -8,3 +8,6 @@ To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or 
 Postmarketing Experience
 
 Additional adverse reactions identified from post-marketing use include anaphylactic reaction, Stevens-Johnson syndrome, and erythema multiforme.
+
+The following additional adverse reactions have been reported with systemic aminoglycosides: Neurotoxicity, ototoxicity and nephrotoxicity have occurred in patients receiving systemic aminoglycoside therapy.
+Aminoglycosides may aggravate muscle weakness in patients with known or suspected neuromuscular disorders, such as myasthenia gravis or Parkinson’s disease, because of their potential effect on neuromuscular function.

@@ -35,4 +35,4 @@ Safety and effectiveness in pediatric patients below the age of 2 months has not
 
 ## Geriatric Use
 
-No overall clinical differences in safety or effectiveness have been observed between elderly and younger patients.
+No overall differences in safety or effectiveness have been observed between elderly and younger patients.
