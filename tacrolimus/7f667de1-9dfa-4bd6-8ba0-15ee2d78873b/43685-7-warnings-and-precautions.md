@@ -2,10 +2,10 @@
 
 ## 5.1 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including PROGRAF, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+Patients receiving immunosuppressants, including PROGRAF, are at increased risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
 The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
@@ -29,11 +29,11 @@ Monitor for the development of infection and adjust the immunosuppressive regime
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or overexposure to tacrolimus.
 PROGRAF is not interchangeable or substitutable for tacrolimus extended-release products.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
-Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [seeDosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
+Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
-PROGRAF was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, and heart transplantation.
+PROGRAF was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, heart, or lung transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using PROGRAF [see Adverse Reactions (6.1)].
@@ -76,7 +76,7 @@ Monitor patients for anaphylaxis when using the intravenous route of administrat
 
 PROGRAF is not recommended for use with sirolimus:
 
-- •The use of sirolimus with PROGRAF in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended.
+- •The use of sirolimus with PROGRAF in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT), and is not recommended.
 - •The use of sirolimus (2 mg per day) with PROGRAF in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers

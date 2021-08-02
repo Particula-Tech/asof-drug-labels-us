@@ -14,7 +14,7 @@ Capsule contains labeled amount.
 
 Store and Dispense
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
 ## 16.2 PROGRAF (tacrolimus) Injection
 

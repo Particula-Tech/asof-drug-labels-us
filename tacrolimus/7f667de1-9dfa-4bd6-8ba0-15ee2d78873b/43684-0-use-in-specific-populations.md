@@ -2,21 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
+### Pregnancy Exposure Registry
 
 There is a pregnancy registry that monitors pregnancy outcomes in women exposed to PROGRAF during pregnancy.
 
 The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppressants including tacrolimus.
 Healthcare providers are encouraged to advise their patients to register by contacting the Transplantation Pregnancy Registry International at 1-877-955-6877 or https://www.transplantpregnancyregistry.org/.
 
-Risk Summary
+### Risk Summary
 
 Tacrolimus can cause fetal harm when administered to a pregnant woman.
 Data from postmarketing surveillance and TPRI suggest that infants exposed to tacrolimus in utero are at a risk of prematurity, birth defects/congenital anomalies, low birth weight, and fetal distress [see Human Data].
 Advise pregnant women of the potential risk to the fetus.
 
 Administration of oral tacrolimus to pregnant rabbits and rats throughout the period of organogenesis was associated with maternal toxicity/lethality, and an increased incidence of abortion, malformation and embryofetal death at clinically relevant doses (0.5 to 6.9 times the recommended clinical dose range [0.2 to 0.075 mg/kg/day], on a mg/m2 basis).
-
 Administration of oral tacrolimus to pregnant rats after organogenesis and throughout lactation produced maternal toxicity, effects on parturition, reduced pup viability and reduced pup weight at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
 Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation produced maternal toxicity/lethality, marked effects on parturition, embryofetal loss, malformations, and reduced pup viability at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died [see Animal Data].
@@ -24,7 +23,7 @@ Interventricular septal defects, hydronephrosis, craniofacial malformations and 
 The background risk of major birth defects and miscarriage in the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo-Fetal Risk
 
@@ -53,9 +52,9 @@ Labor or Delivery
 
 There is an increased risk for premature delivery (< 37 weeks) following transplantation and maternal exposure to PROGRAF.
 
-Data
+### Data
 
-Human Data
+#### Human Data
 
 There are no adequate and well controlled studies on the effects of tacrolimus in human pregnancy.
 Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
@@ -80,7 +79,7 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 
 Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients, and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
-Animal Data
+#### Animal Data
 
 Administration of oral tacrolimus to pregnant rabbits throughout organogenesis produced maternal toxicity and abortion at 0.32 mg/kg (0.5 to 1.4 times the recommended clinical dose range [0.2 to 0.075 mg/kg/day], on a mg/m2 basis).
 At 1 mg/kg (1.6 to 4.3 times the recommended clinical dose range), embryofetal lethality and fetal malformations (ventricular hypoplasia, interventricular septal defect, bulbous aortic arch, stenosis of ductus arteriosus, omphalocele, gallbladder agenesis, skeletal anomalies) were observed.
@@ -99,7 +98,7 @@ Risk Summary
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for PROGRAF and any potential adverse effects on the breastfed child from PROGRAF or from the underlying maternal condition.
 
@@ -116,18 +115,22 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver, kidney, and heart transplant patients.
+Safety and effectiveness have been established in pediatric liver, kidney, heart, and lung transplant patients.
 
-Liver transplant
+Liver Transplantation
 
 Safety and efficacy using PROGRAF Granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received PROGRAF, and supported by two pharmacokinetic and safety studies in 151 children who received PROGRAF.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
 Pediatric patients generally required higher doses of PROGRAF to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
-Kidney and heart transplant
+Kidney and Heart Transplantation
 
 Use of PROGRAF capsules and PROGRAF Granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+Lung Transplantation
+
+The use of PROGRAF capsules and PROGRAF Granules in pediatric lung transplantation is supported by the experience in the U.S. Scientific Registry of Transplant Recipients (SRTR) including 450 pediatric patients receiving tacrolimus immediate-release products in combination with mycophenolate mofetil and 72 pediatric patients receiving tacrolimus immediate-release products in combination with azathioprine between 1999-2017.
 
 ## 8.5 Geriatric Use
 

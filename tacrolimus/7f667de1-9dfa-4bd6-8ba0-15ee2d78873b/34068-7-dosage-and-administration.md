@@ -7,7 +7,7 @@ PROGRAF should not be used without supervision by a physician with experience in
 PROGRAF capsules and PROGRAF Granules are not interchangeable or substitutable for other tacrolimus extended-release products.
 This is because rate of absorption following the administration of an extended-release tacrolimus product is not equivalent to that of an immediate-release tacrolimus drug product.
 Under- or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
-Changes between tacrolimus immediate-release and extended- release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
+Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
 
 Intravenous Formulation - Administration Precautions due to Risk of Anaphylaxis
 
@@ -33,21 +33,21 @@ In the presence of elevated PROGRAF or cyclosporine concentrations, dosing with 
 
 Therapeutic drug monitoring (TDM) is recommended for all patients receiving PROGRAF [see Dosage and Administration (2.6)].
 
-## 2.2 Dosing for Adult Kidney, Liver, or Heart Transplant Patients - Capsules and Injection
+## 2.2 Dosage Recommendations for Adult Kidney, Liver, Heart, or Lung Transplant Patients - Capsules and Injection
 
 Capsules
 
 If patients are able to tolerate oral therapy, the recommended oral starting doses should be initiated.
-The initial dose of PROGRAF capsules should be administered no sooner than 6 hours after transplantation in the liver and heart transplant patients.
+The initial dose of PROGRAF capsules should be administered no sooner than 6 hours after transplantation in the liver, heart, or lung transplant patients.
 In kidney transplant patients, the initial dose of PROGRAF capsules may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
 
-The initial oral PROGRAF capsule dosage recommendations for adult patients with kidney, liver, or heart transplants and whole blood trough concentration range are shown in Table 1.
+The initial oral PROGRAF capsule dosage recommendations for adult patients with kidney, liver, heart, or lung transplants and whole blood trough concentration range are shown in Table 1.
 Perform therapeutic drug monitoring (TDM) to ensure that patients are within the ranges listed in Table 1.
 
 Table 1.
-Summary of Initial Oral PROGRAF Capsules Dosing Recommendations and Whole Blood Trough Concentration Range in Adults
+Summary of Initial Oral PROGRAF Capsules Dosage Recommendations and Whole Blood Trough Concentration Range in Adults
 
-| Patient Population | PROGRAF CapsulesAfrican-American patients may require higher doses compared to Caucasians (see Table 2) Initial Oral Dosing | Whole Blood Trough Concentration Range |
+| Patient Population | PROGRAF CapsulesAfrican-American patients may require higher doses compared to Caucasians (see Table 2). Initial Oral Dosage | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
 | Kidney Transplant |  |  |
 | With Azathioprine | 0.2 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 7-20 ng/mLMonth 4-12: 5-15 ng/mL |
@@ -56,9 +56,11 @@ Summary of Initial Oral PROGRAF Capsules Dosing Recommendations and Whole Blood 
 | With corticosteroids only | 0.10-0.15 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
 | Heart Transplant |  |  |
 | With azathioprine or MMF | 0.075 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 10-20 ng/mLMonth ≥ 4: 5-15 ng/mL |
+| Lung Transplant |  |  |
+| With azathioprine or MMF | 0.075 mg/kg/day Patients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]., divided in two doses, administered every 12 hours | Month 1-3: 10-15 ng/mLMonth 4-12: 8-12 ng/mL |
 
-Dosing should be titrated based on clinical assessments of rejection and tolerability.
-Lower PROGRAF dosages than the recommended initial dosage may be sufficient as maintenance therapy.
+Dosage should be titrated based on clinical assessments of rejection and tolerability.
+PROGRAF dosages lower than the recommended initial dosage may be sufficient as maintenance therapy.
 Adjunct therapy with adrenal corticosteroids is recommended early post-transplant.
 
 The data in kidney transplant patients indicate that the African-American patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2) [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
@@ -74,12 +76,15 @@ Comparative Dose and Trough Concentrations Based on Race
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
 | Month 12 | 0.13 | 10.1 | 0.19 | 11.0 |
 
+In lung transplantation, cystic fibrosis patients may have a reduced bioavailability of orally administered tacrolimus resulting in the need for higher doses to achieve target tacrolimus trough concentrations.
+Monitor tacrolimus trough concentrations and adjust the dose accordingly.
+
 Intravenous Injection
 
 PROGRAF injection should be used only as a continuous intravenous infusion and should be discontinued as soon as the patient can tolerate oral administration.
 The first dose of PROGRAF capsules should be given 8-12 hours after discontinuing the intravenous infusion.
 
-The recommended starting dose of PROGRAF injection is 0.03-0.05 mg/kg/day in kidney and liver transplant and 0.01 mg/kg/day in heart transplant given as a continuous intravenous infusion.
+The recommended starting dose of PROGRAF injection is 0.03-0.05 mg/kg/day in kidney or liver transplant, 0.01 mg/kg/day in heart transplant, and 0.01-0.03 mg/kg/day in lung transplant, given as a continuous intravenous infusion.
 Adult patients should receive doses at the lower end of the dosing range.
 Concomitant adrenal corticosteroid therapy is recommended early post-transplantation.
 
@@ -88,31 +93,38 @@ The whole blood trough concentration range described in Table 1 pertains to oral
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as PROGRAF injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosing for Pediatric Kidney, Liver, and Heart Transplant Patients
+## 2.3 Dosage Recommendations for Pediatric Kidney, Liver, Heart, or Lung Transplant Patients
 
 Oral formulations (capsules or oral suspension)
 
-Pediatric patients in general need higher tacrolimus doses compared to adults: the higher dose requirements may decrease as the child grows older.
-Recommendations for the initial oral dosing for pediatric transplant patients and whole blood trough concentration range are shown in Table 3.
+Pediatric patients, in general, need higher tacrolimus doses compared to adults: the higher dose requirements may decrease as the child grows older.
+Recommendations for the initial oral dosage for pediatric transplant patients and whole blood trough concentration range are shown in Table 3.
 Perform TDM to ensure that patients are within the ranges listed in Table 3.
 
 Table 3.
-Summary of Initial PROGRAF Capsule and PROGRAF Granules Dosing Recommendations and Whole Blood Trough Concentration Range in Children
+Summary of Initial PROGRAF Capsule and PROGRAF Granules Dosage Recommendations and Whole Blood Trough Concentration Range in Children
 
 | Patient Population | Initial PROGRAF Capsule and PROGRAF Granules Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
 | Pediatric kidney transplant patientsSee Clinical Pharmacology (12.3), PROGRAF Granules Pharmacokinetics in Pediatric Patients. | 0.3 mg/kg/day capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
 | Pediatric liver transplant patientsSee Clinical Studies (14.2), Liver Transplantation. | 0.15-0.2 mg/kg/day capsules or 0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
-| Pediatric heart transplant patients | 0.3 mg/kg/day0.1 mg/kg/day if cell depleting induction treatment is administered. capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| Pediatric heart transplant patients | 0.3 mg/kg/dayDose at 0.1 mg/kg/day if antibody induction treatment is administered. capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| Pediatric lung transplant patients | 0.3 mg/kg/day, Patients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]. capsules or oral suspension, divided in two doses, administered every 12 hours | Week 1-2: 10-20 ng/mLWeek 2 to Month 12: 10-15 ng/mL |
+
+In lung transplantation, cystic fibrosis patients may have a reduced bioavailability of orally administered tacrolimus resulting in the need for higher doses to achieve target tacrolimus trough concentrations.
+Monitor tacrolimus trough concentrations and adjust the dose accordingly.
 
 For conversion of pediatric patients from PROGRAF Granules to PROGRAF capsules or from PROGRAF capsules to PROGRAF Granules, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].
+
+Intravenous Injection
+
 If a patient is unable to receive an oral formulation, the patient may be started on PROGRAF injection.
 For pediatric liver transplant patients, the intravenous dose is 0.03-0.05 mg/kg/day.
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
 
-Due to its potential for nephrotoxicity, consideration should be given to dosing PROGRAF at the lower end of the therapeutic dosing range in patients who have received a liver or heart transplant and have pre-existing renal impairment.
+Due to its potential for nephrotoxicity, consider dosing PROGRAF at the lower end of the therapeutic dosing range in patients who have received a liver, heart, or lung transplant, and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required.
 
 In kidney transplant patients with post-operative oliguria, the initial dose of PROGRAF should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
@@ -123,7 +135,7 @@ Due to the reduced clearance and prolonged half-life, patients with severe hepat
 Close monitoring of blood concentrations is warranted.
 
 The use of PROGRAF in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole blood concentrations of tacrolimus.
-These patients should be monitored closely and dosage adjustments should be considered.
+These patients should be monitored closely, and dosage adjustments should be considered.
 Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
 ## 2.6 Therapeutic Drug Monitoring
@@ -134,6 +146,7 @@ Whole blood trough concentration range can be found in Table 1.
 Factors influencing frequency of monitoring include but are not limited to hepatic or renal dysfunction, the addition or discontinuation of potentially interacting drugs and the post-transplant time.
 Blood concentration monitoring is not a replacement for renal and liver function monitoring and tissue biopsies.
 Data from clinical trials show that tacrolimus whole blood concentrations were most variable during the first week post-transplantation.
+
 The relative risks of toxicity and efficacy failure are related to tacrolimus whole blood trough concentrations.
 Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
@@ -172,6 +185,7 @@ Use the minimum whole number of packets that corresponds to the required morning
 If the morning or evening dose is not covered by the whole number of packets, use one additional 0.2 mg packet to round up the dose.
 Do not use tubing, syringes and other equipment (cups) containing PVC to prepare or administer tacrolimus products.
 Do not sprinkle PROGRAF Granules on food.
+Prepare and administer PROGRAF Granules as follows:
 
 • To prepare the dose, empty the entire contents of each PROGRAF Granules packet into a glass cup.
 Check for any remaining granules in the packet(s) and empty these into the cup. • Add 1 to 2 tablespoons (15 to 30 milliliters) of room temperature drinking water to the cup containing the PROGRAF Granules. • Mix and administer the entire contents of the cup.
