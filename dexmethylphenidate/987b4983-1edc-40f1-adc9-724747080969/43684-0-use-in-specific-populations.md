@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including dexmethylphenidate hydrochloride tablets, during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
 
@@ -24,7 +24,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-CNS stimulants such as dexmethylphenidate hydrochloride tablets, can cause vasoconstriction and thereby decrease placental perfusion.
+CNS stimulants, such as dexmethylphenidate hydrochloride tablets, can cause vasoconstriction and thereby decrease placental perfusion.
 No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 
 Data
@@ -34,7 +34,7 @@ Animal Data
 In embryo-fetal development studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis.
 No evidence of malformations was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats.
 When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, post-weaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed.
-At the highest doses tested, plasma levels (AUCs) of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.
+At the highest doses tested, plasma levels [area under the curves (AUCs)] of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.
 
 Racemic methylphenidate has been shown to cause malformations (increased incidence of fetal spina bifida) in rabbits when given in doses of 200 mg/kg/day throughout organogenesis.
 

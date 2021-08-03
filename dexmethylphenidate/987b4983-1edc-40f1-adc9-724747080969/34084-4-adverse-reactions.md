@@ -9,7 +9,7 @@ The following are discussed in more detail in other sections of the labeling:
 - •Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - •Priapism [see Warnings and Precautions (5.5)]
-- •Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- •Peripheral Vasculopathy, Including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 - •Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -28,27 +28,27 @@ The most common reasons for discontinuation were twitching (described as motor o
 Table 1 enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking dexmethylphenidate hydrochloride tablets doses of 5, 10, and 20 mg/day.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride tablets for which the incidence was at least 5% and twice the incidence among placebo-treated patients.
 
-Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD*
+Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
 | System Organ Class | Adverse Reactions | Dexmethylphenidate Hydrochloride Tablets(N = 79) | Placebo(N = 82) |
 | --- | --- | --- | --- |
-| Body as a Whole | Abdominal Pain | 15% | 6% |
+| Body as a Whole | Abdominal pain | 15% | 6% |
 | Fever | 5% | 1% |  |
 | Digestive System | Anorexia | 6% | 1% |
 | Nausea | 9% | 1% |  |
 
-* ADHD: Attention Deficit Hyperactivity Disorder
+Abbreviation: ADHD, attention deficit hyperactivity disorder.
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post-approval use of dexmethylphenidate.
+The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal: rhabdomyolysis
 
-Immune System Disorders: hypersensitivity reactions such as angioedema, anaphylactic reactions
+Immune System Disorders: hypersensitivity reactions, such as angioedema, anaphylactic reactions
 
-Adverse Reactions Reported with all Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
+Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
 Infections and Infestations: nasopharyngitis
@@ -61,13 +61,13 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages, and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
 Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Respiratory, Thoracic and Mediastinal Disorders: cough
+Respiratory, Thoracic, and Mediastinal Disorders: cough
 
 Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
@@ -79,11 +79,11 @@ Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhab
 
 Investigations: weight loss (adult ADHD patients)
 
-Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
+Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
@@ -95,18 +95,18 @@ Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, ext
 
 Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
 Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 
 Reproductive System and Breast Disorders: gynecomastia
 
-General disorders: fatigue
+General Disorders: fatigue
 
-Urogenital disorders: priapism
+Urogenital Disorders: priapism

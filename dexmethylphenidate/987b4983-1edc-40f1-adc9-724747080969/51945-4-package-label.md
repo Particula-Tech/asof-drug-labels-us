@@ -1,29 +1,5 @@
 # PRINCIPAL DISPLAY PANEL – 2.5 mg Tablet Bottle Label
 
-NDC 57664-376-88
-
-Dexmethylphenidate Hydrochloride Tablets, CII 2.5 mg
-
-PHARMACIST: DISPENSE WITH MEDICAITON GUIDE PROVIDED SEPARATELY.
-
-Rx Only 100 Tablets
-
 # PRINCIPAL DISPLAY PANEL – 5 mg Tablet Bottle Label
 
-NDC 57664-378-88
-
-Dexmethylphenidate Hydrochloride Tablets, CII 5 mg
-
-PHARMACIST: DISPENSE WITH MEDICAITON GUIDE PROVIDED SEPARATELY.
-
-Rx Only 100 Tablets
-
 # PRINCIPAL DISPLAY PANEL – 10 mg Tablet Bottle Label
-
-NDC 57664-379-88
-
-Dexmethylphenidate Hydrochloride Tablets, CII 10 mg
-
-PHARMACIST: DISPENSE WITH MEDICAITON GUIDE PROVIDED SEPARATELY.
-
-Rx Only 100 Tablets

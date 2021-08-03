@@ -14,15 +14,15 @@ The mouse strain used is sensitive to the development of hepatic tumors and the 
 Racemic methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 4 times the MRHD (children) of 60 mg/day of racemic methylphenidate on a mg/m2 basis.
 
 In a 24-week carcinogenicity study with racemic methylphenidate in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity.
-Male and female mice were fed diets containing the same concentrations as in the lifetime carcinogenicity study; the high-dose group was exposed to 60 to 74 mg/kg/day of racemic methylphenidate.
+Male and female mice were fed diets containing the same concentrations as in the lifetime carcinogenicity study; the high-dose group was exposed to 60-74 mg/kg/day of racemic methylphenidate.
 
 ### Mutagenesis
 
 Dexmethylphenidate was not mutagenic in the in vitro Ames reverse mutation assay, in the in vitro mouse lymphoma cell forward mutation assay, or in the in vivo mouse bone marrow micronucleus test.
-In an in vitro assay using cultured Chinese Hamster Ovary (CHO) cells treated with racemic methylphenidate, sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response.
+In an in vitro assay using cultured Chinese Hamster Ovary cells treated with racemic methylphenidate, sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response.
 
 Impairment of Fertility No human data on the effect of methylphenidate on fertility are available.
 
 Fertility studies have not been conducted with dexmethylphenidate.
 Racemic methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week continuous breeding study.
-The study was conducted at doses of up to 160 mg/kg/day, approximately 10-times the maximum recommended human dose of 60 mg/day of racemic methylphenidate given adolescents on a mg/m2 basis.
+The study was conducted at doses of up to 160 mg/kg/day, approximately 10 times the MRHD of 60 mg/day of racemic methylphenidate given adolescents on a mg/m2 basis.

@@ -7,14 +7,14 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 
 ## 5.2 Serious Cardiovascular Reactions
 
-Sudden death, stroke and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
+Sudden death, stroke, and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
 Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, and other serious heart problems.
 Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during dexmethylphenidate hydrochloride tablets treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute).
 Individuals may have larger increases.
 Monitor all patients for hypertension and tachycardia.
 
@@ -27,7 +27,7 @@ Prior to initiating treatment, screen patients for risk factors for developing a
 
 New Psychotic or Manic Symptoms CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
 If such symptoms occur, consider discontinuing dexmethylphenidate hydrochloride tablets.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic, or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
 
 ## 5.5 Priapism
 
@@ -36,7 +36,7 @@ Priapism was not reported with drug initiation but developed after some time on 
 Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
+## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 CNS stimulants, including dexmethylphenidate hydrochloride tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant.
+Dexmethylphenidate hydrochloride is a CNS stimulant.
 The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
@@ -29,7 +29,7 @@ However, due to first pass metabolism the mean absolute bioavailability of dexme
 
 Effect of Food
 
-High fat breakfast did not significantly affect Cmax or AUC0-inf of dexmethylphenidate when two 10 mg dexmethylphenidate hydrochloride tablets were administered, but delayed Tmax from 1.5 hours postdose to 2.9 hours postdose.
+High fat breakfast did not significantly affect Cmax or AUC0-inf of dexmethylphenidate when two 10 mg dexmethylphenidate hydrochloride tablets were administered, but delayed Tmax from 1.5 hours post dose to 2.9 hours post dose.
 
 Distribution The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12% to 15%, independent of concentration.
 Dexmethylphenidate shows a volume of distribution of 2.65 ± 1.11 L/kg.
@@ -75,5 +75,5 @@ Patients with Hepatic Impairment There is no experience with the use of dexmethy
 
 Drug Interaction Studies Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
 Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
-Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A.
 Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Pre-treatment Screening
+## 2.1 Pretreatment Screening
 
 Prior to treating pediatric patients and adults with central nervous system (CNS) stimulants, including dexmethylphenidate hydrochloride tablets, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for dexmethylphenidate hydrochloride tablets use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for dexmethylphenidate hydrochloride tablets use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
 
-## 2.2 Pediatric Patients with ADHD
+## 2.2 Pediatric Patients With Attention Deficit Hyperactivity Disorder
 
 Patients New to Methylphenidate
 
@@ -15,7 +15,7 @@ The recommended starting dose of dexmethylphenidate hydrochloride tablets for pe
 
 Patients Currently on Methylphenidate
 
-The recommended starting dose of dexmethylphenidate hydrochloride tablets for pediatric patients currently using methylphenidate is half the total daily dose of racemic methylphenidate.
+The recommended starting dose of dexmethylphenidate hydrochloride tablets for pediatric patients currently using methylphenidate is half (1/2) the total daily dose of racemic methylphenidate.
 
 Titration Schedule
 
