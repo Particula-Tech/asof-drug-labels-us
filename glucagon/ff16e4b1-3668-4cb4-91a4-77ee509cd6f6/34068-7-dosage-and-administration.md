@@ -53,7 +53,5 @@ Pediatric Patients Weighing Less Than 25 kg or for Pediatric Patients with Unkno
 
 ## 2.4 Dosage in Adults for Using GlucaGen Diagnostic Kit and GlucaGen for Injection Single-Dose Vial as a Diagnostic Aid
 
-Dose Vial as a Diagnostic Aid
-
 - •The recommended diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum, and small bowel is 0.2 mg to 0.5 mg administered intravenously or 1 mg administered intramuscularly; the recommended dose to relax the colon is 0.5 mg to 0.75 mg administered intravenously or 1 mg to 2 mg administered intramuscularly [see Clinical Pharmacology (12.2)].
 - •The onset of action after an injection will depend on the organ under examination and route of administration [see Clinical Pharmacology (12.2)].

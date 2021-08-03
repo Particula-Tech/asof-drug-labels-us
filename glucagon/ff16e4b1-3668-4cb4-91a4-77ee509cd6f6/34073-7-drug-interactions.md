@@ -11,7 +11,7 @@ Table 1: Clinically Significant Drug Interactions with GlucaGen
 | Intervention: | Monitor blood glucose levels during GlucaGen treatment of patients taking indomethacin. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs and GlucaGen increase the risk of gastrointestinal adverse reactions due to additive effects on inhibition of gastrointestinal motility. |
-| Intervention: | Concomintant use of anticholinergic drugs with GlucaGen for use as a diagnostic aid is not recommended. |
+| Intervention: | Concomitant use of anticholinergic drugs with GlucaGen for use as a diagnostic aid is not recommended. |
 | Warfarin |  |
 | Clinical Impact: | GlucaGen may increase the anticoagulant effect of warfarin. |
 | Intervention: | Monitor patients for unusual bruising or bleeding, as adjustments in warfarin dosage may be required. |
