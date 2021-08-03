@@ -12,6 +12,7 @@ While immune-mediated adverse reactions usually manifest during treatment with P
 Early identification and management of immune-mediated adverse reactions are essential to ensure safe use of PD-1/PD-L1 blocking antibodies.
 Monitor patients closely for symptoms and signs that may be clinical manifestations of underlying immune-mediated adverse reactions.
 Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodically during treatment.
+For patients with TNBC treated with KEYTRUDA in the neoadjuvant setting, monitor blood cortisol at baseline, prior to surgery, and as clinically indicated.
 In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection.
 Institute medical management promptly, including specialty consultation as appropriate.
 

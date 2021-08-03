@@ -1226,6 +1226,82 @@ Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence includ
 
 TNBC
 
+Neoadjuvant and Adjuvant Treatment of High-Risk Early-Stage TNBC
+
+The safety of KEYTRUDA in combination with neoadjuvant chemotherapy (carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide) followed by surgery and continued adjuvant treatment with KEYTRUDA as a single agent was investigated in KEYNOTE-522, a randomized (2:1), multicenter, double-blind, placebo-controlled trial in patients with newly diagnosed, previously untreated, high-risk early-stage TNBC.
+
+A total of 778 patients on the KEYTRUDA arm received at least 1 dose of KEYTRUDA in combination with neoadjuvant chemotherapy followed by KEYTRUDA as adjuvant treatment after surgery, compared to 389 patients who received at least 1 dose of placebo in combination with neoadjuvant chemotherapy followed by placebo as adjuvant treatment after surgery [see Clinical Studies (14.18)].
+
+The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 13.3 months (range: 1 day to 21.9 months).
+
+Fatal adverse reactions occurred in 0.9% of patients receiving KEYTRUDA, including 1 each of adrenal crisis, autoimmune encephalitis, hepatitis, pneumonia, pneumonitis, pulmonary embolism, and sepsis in association with multiple organ dysfunction syndrome and myocardial infarction.
+
+Serious adverse reactions occurred in 44% of patients receiving KEYTRUDA.
+Serious adverse reactions in ≥2% of patients who received KEYTRUDA included febrile neutropenia (15%), pyrexia (3.7%), anemia (2.6%), and neutropenia (2.2%).
+
+KEYTRUDA was discontinued for adverse reactions in 20% of patients.
+The most common adverse reactions (≥1%) resulting in permanent discontinuation of KEYTRUDA were increased ALT (2.7%), increased AST (1.5%), and rash (1%).
+Adverse reactions leading to the interruption of KEYTRUDA occurred in 57% of patients.
+The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (26%), thrombocytopenia (6%), increased ALT (6%), increased AST (3.7%), anemia (3.5%), rash (3.2%), febrile neutropenia (2.8%), leukopenia (2.8%), upper respiratory tract infection (2.6%), pyrexia (2.2%), and fatigue (2.1%).
+
+Tables 37 and 38 summarize the adverse reactions and laboratory abnormalities, respectively, in patients treated with KEYTRUDA in KEYNOTE-522.
+
+Table 37: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA in KEYNOTE-522
+
+| All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with chemotherapyChemotherapy: carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide/KEYTRUDA n=778 |  | Placebo with chemotherapy/Placebo n=389 |  |
+| General |  |  |  |  |
+| FatigueIncludes asthenia, fatigue | 70 | 8 | 66 | 3.9 |
+| Pyrexia | 28 | 1.3 | 19 | 0.3 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 67 | 3.7 | 66 | 1.8 |
+| Constipation | 42 | 0 | 39 | 0.3 |
+| Diarrhea | 41 | 3.2 | 34 | 1.8 |
+| StomatitisIncludes aphthous ulcer, cheilitis, lip pain, lip ulceration, mouth ulceration, mucosal inflammation, oral mucosal eruption, oral pain, stomatitis, tongue blistering, tongue ulceration | 34 | 2.7 | 29 | 1 |
+| Vomiting | 31 | 2.7 | 28 | 1.5 |
+| Abdominal painIncludes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, abdominal tenderness | 24 | 0.5 | 23 | 0.8 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Alopecia | 61 | 0 | 58 | 0 |
+| RashIncludes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative generalised, drug eruption, eczema, incision site rash, injection site rash, rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash morbilliform, rash papular, rash pruritic, rash pustular, rash rubelliform, skin exfoliation, skin toxicity, toxic skin eruption, urticaria, vasculitic rash, viral rash | 52 | 5 | 41 | 0.5 |
+| Nervous System |  |  |  |  |
+| Peripheral neuropathyIncludes neuropathy peripheral, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy | 41 | 3.3 | 42 | 2.3 |
+| Headache | 30 | 0.5 | 29 | 1 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Arthralgia | 29 | 0.5 | 31 | 0.3 |
+| Myalgia | 20 | 0.5 | 19 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| CoughIncludes cough, productive cough, upper-airway cough syndrome | 26 | 0.1 | 24 | 0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 23 | 0.9 | 17 | 0.3 |
+| Psychiatric |  |  |  |  |
+| Insomnia | 21 | 0.5 | 19 | 0 |
+
+Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA in KEYNOTE-522
+
+| All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
+| --- | --- | --- | --- | --- |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with chemotherapy followed by KEYTRUDA as a single agent (range: 759 to 777 patients) and placebo in combination with chemotherapy followed by placebo (range: 378 to 389 patients). | KEYTRUDA 200 mg every 3 weeks with chemotherapyChemotherapy: carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide/KEYTRUDA |  | Placebo with chemotherapy/Placebo |  |
+| Hematology |  |  |  |  |
+| Anemia | 97 | 22 | 96 | 19 |
+| Leukopenia | 93 | 41 | 91 | 32 |
+| Neutropenia | 88 | 62 | 89 | 62 |
+| Lymphopenia | 80 | 28 | 74 | 22 |
+| Thrombocytopenia | 58 | 11 | 57 | 9 |
+| Chemistry |  |  |  |  |
+| Increased ALT | 71 | 9 | 69 | 4.6 |
+| Increased AST | 66 | 6 | 58 | 1.8 |
+| Hyperglycemia | 65 | 5 | 62 | 2.8 |
+| Increased alkaline phosphatase | 41 | 1 | 37 | 0.8 |
+| Hyponatremia | 38 | 9 | 28 | 6 |
+| Hypoalbuminemia | 36 | 1.2 | 30 | 1.5 |
+| Hypocalcemia | 32 | 3.2 | 29 | 4.4 |
+| Hypokalemia | 32 | 6 | 24 | 2.8 |
+| Hypophosphatemia | 23 | 6 | 18 | 4.5 |
+| Hypercalcemia | 21 | 3 | 24 | 3.4 |
+
+Locally Recurrent Unresectable or Metastatic TNBC
+
 The safety of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.18)].
 A total of 596 patients (including 34 patients from a safety run-in) received KEYTRUDA 200 mg every 3 weeks in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin.
 
@@ -1241,9 +1317,9 @@ The most common adverse reactions resulting in permanent discontinuation of KEYT
 Adverse reactions leading to the interruption of KEYTRUDA occurred in 50% of patients.
 The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (22%), thrombocytopenia (14%), anemia (7%), increased ALT (6%), leukopenia (5%), increased AST (5%), decreased white blood cell count (3.9%), and diarrhea (2%).
 
-Tables 37 and 38 summarize the adverse reactions and laboratory abnormalities in patients on KEYTRUDA in KEYNOTE-355.
+Tables 39 and 40 summarize the adverse reactions and laboratory abnormalities in patients on KEYTRUDA in KEYNOTE-355.
 
-Table 37: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
+Table 39: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1265,7 +1341,7 @@ Table 37: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA w
 | Nervous System |  |  |  |  |
 | HeadacheIncludes headache, migraine, tension headache | 20 | 0.7 | 23 | 0.7 |
 
-Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
+Table 40: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
