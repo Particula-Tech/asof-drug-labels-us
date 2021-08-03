@@ -12,8 +12,23 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 Addiction, Abuse, and Misuse Inform patients that the use of morphine sulfate extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
 Instruct patients not to share morphine sulfate extended-release tablets with others and to take steps to protect morphine sulfate extended-release tablets from theft or misuse.
 
-Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dosage is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with morphine sulfate extended-release tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 
@@ -36,7 +51,7 @@ Important Administration Instructions Instruct patients how to properly take mor
 - Do not crush, chew, or dissolve the tablets [see Dosage and Administration (2.1)]
 - Use morphine sulfate extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
 
-Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
 Hypotension Inform patients that morphine sulfate extended-release tablets may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
@@ -62,12 +77,12 @@ Healthcare professionals can telephone Mallinckrodt at 1-800-778-7898, or visit 
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
 
-© 2019 Mallinckrodt.
+© 2021 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
 Mallinckrodt™ Pharmaceuticals
 
-Issued 10/2019
+Issued 03/2021
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M55.pdf or by calling 1-800-778-7898 for alternate delivery options.

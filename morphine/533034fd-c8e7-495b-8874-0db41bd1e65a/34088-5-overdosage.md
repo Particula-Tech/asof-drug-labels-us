@@ -7,14 +7,13 @@ Treatment of Overdose In case of overdose, priorities are the re-establishment o
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to morphine overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine overdose.
 
 Because the duration of reversal would be expected to be less than the duration of action of morphine in morphine sulfate extended-release tablets, carefully monitor the patient until spontaneous respiration is reliably re-established.
 Morphine sulfate extended-release tablets will continue to release morphine and add to the morphine load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
 If the response to opioid antagonists is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
-In an individual physically dependent on opioids, administration of the usual dose of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
 If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.
