@@ -2,12 +2,12 @@
 
 ## 16.1 How Supplied
 
-BASAGLAR (insulin glargine injection) is a clear, colorless, sterile solution, with no visible particles, 100 units per mL (U-100) available as:
+BASAGLAR (insulin glargine) injection is a clear, colorless solution, 100 units/mL (U-100), available as:
 
 | BASAGLAR | Total Volume | NDC Number | Package Size |
 | --- | --- | --- | --- |
-| BASAGLAR single-patient-use KwikPen | 3 mL | 0002-7715-59 (HP-7715) | 5 pens |
-| BASAGLAR single-patient-use Tempo Pena | 3 mL | 0002-8214-05 (HP-8214) | 5 pens |
+| BASAGLAR single-patient-use KwikPen | 3 mL | 0002-7715-59 | 5 pens |
+| BASAGLAR single-patient-use Tempo Pena | 3 mL | 0002-8214-05 | 5 pens |
 | a Tempo Pen contains a component that allows for data connectivity when used with a compatible transmitter. |  |  |  |
 
 The BASAGLAR KwikPen and Tempo Pen dial in 1 unit increments.
@@ -20,12 +20,9 @@ This device is recommended for use with Becton, Dickinson & Company's insulin pe
 
 Dispense in the original sealed carton with the enclosed Instructions for Use.
 
+Protect BASAGLAR from heat and light.
 Do not freeze BASAGLAR.
-Do not use BASAGLAR if it has been frozen.
 
-BASAGLAR must be protected from direct heat and light.
-
-Do not use after the expiration date.
 In-use BASAGLAR prefilled pens must be used within 28 days or be discarded, even if they still contain BASAGLAR.
 
 Storage conditions are summarized in the following table:

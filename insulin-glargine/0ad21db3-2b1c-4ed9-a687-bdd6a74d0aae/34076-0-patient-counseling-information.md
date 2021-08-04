@@ -20,22 +20,11 @@ Medication errors
 
 Inform patients to always check the insulin label before each injection [see Warnings and Precautions (5.4)].
 
-Administration
+Literature revised July 2021
 
-BASAGLAR must only be used if the solution is clear and colorless with no particles visible.
-Patients must be advised that BASAGLAR must NOT be diluted or mixed with any other insulin or solution [see Dosage and Administration (2.1)].
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Management of Hypoglycemia and Handling of Special Situations
-
-Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia.
-Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals [see Warnings and Precautions (5.3)].
-Refer patients to the BASAGLAR “Patient Information” for additional information about the potential side effects of insulin therapy, including lipodystrophy (and the need to rotate injection sites within the same body region), weight gain, allergic reactions, and hypoglycemia.
-
-Literature revised November 2019
-
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
-
-Copyright © 2015, 2019, Eli Lilly and Company.
+Copyright © 2015, 2021, Eli Lilly and Company.
 All rights reserved.
 
-BAS-0005-USPI-20191125
+BAS-0007-USPI-20210727

@@ -7,7 +7,7 @@ In general, the reduction in glycated hemoglobin (HbA1c) with this other insulin
 
 ## 14.2 Clinical Studies in Adult and Pediatric Patients with Type 1 Diabetes
 
-Patients with inadequately controlled type 1 diabetes participated in a 24-week open-label, active-controlled study with a 28 week extension to evaluate the glucose lowering effect of once-daily BASAGLAR compared to that of once-daily administration of another insulin glargine product, 100 units/mL, or a non-U.S.-approved insulin glargine product, 100 units/mL, (comparator insulin glargine products, 100 units/mL) both in combination with mealtime insulin lispro.
+Patients with inadequately controlled type 1 diabetes participated in a 24-week open-label, active-controlled study with a 28 week extension to evaluate the glucose lowering effect of once-daily BASAGLAR compared to that of once-daily administration of another insulin glargine product, 100 units/mL, or a non-U.S.-licensed insulin glargine, 100 units/mL, (comparator insulin glargine products, 100 units/mL) both in combination with mealtime insulin lispro.
 Randomized were 535 adults with type 1 diabetes.
 Mean age was 41.2 years and mean duration of diabetes was 16.39 years.
 57.9% were male.
@@ -27,7 +27,7 @@ Table 7: Type 1 Diabetes Mellitus – Adult (BASAGLAR plus Mealtime insulin vers
 | Difference from comparator (adjusted meanc,d) (95% CI) | 0.11 (-0.002, 0.219) |  |
 | Proportion of patients achieving HbA1c <7%d | 34.5% | 32.2% |
 | a One patient randomized to the BASAGLAR group was not included in the Full Analysis Set. |  |  |
-| b “Comparator insulin glargine products, 100 units/mL” refers to another insulin glargine product, 100 units/mL, and a non-U.S.-approved insulin glargine product, 100 units/mL, used in this study. |  |  |
+| b “Comparator insulin glargine products, 100 units/mL” refers to another insulin glargine product, 100 units/mL, and a non-U.S.-licensed insulin glargine, 100 units/mL, used in this study. |  |  |
 | c ANCOVA Model includes treatment, country and time of baseline basal insulin injection (daytime or evening/bedtime) as fixed effects and baseline HbA1c as covariate. |  |  |
 | d The results were calculated based on the number of patients in the Full Analysis Set using their last observed post-baseline value of HbA1c. Observed HbA1c data at 24 weeks were available from 256 (95.5%) and 258 (96.6%) subjects randomized to the BASAGLAR and comparator insulin glargine products, 100 units/mL, groups, respectively. |  |  |
 
@@ -94,8 +94,8 @@ Table 9: Type 1 Diabetes Mellitus – Pediatric (Another Insulin Glargine Produc
 
 ## 14.3 Clinical Studies in Adults with Type 2 Diabetes
 
-Patients with type 2 diabetes participated in a double-blind, active-controlled study to evaluate the glucose lowering effect of once-daily BASAGLAR plus oral antidiabetic medication (OAM) compared to that of another insulin glargine product, 100 units/mL, or a non-U.S.-approved insulin glargine product, 100 units/mL (comparator insulin glargine products, 100 units/mL) administered once-daily along with OAMs.
-Patients were either insulin naïve (approximately 60%) and had failed to achieve adequate glycemic control on at least 2 OAMs, or were already on another insulin glargine product, 100 units/mL, or a non-U.S.-approved insulin glargine product, 100 units/mL, along with at least 2 OAMs with adequate or inadequate glycemic control (approximately 40%).
+Patients with type 2 diabetes participated in a double-blind, active-controlled study to evaluate the glucose lowering effect of once-daily BASAGLAR plus oral antidiabetic medication (OAM) compared to that of another insulin glargine product, 100 units/mL, or a non-U.S.-licensed insulin glargine, 100 units/mL (comparator insulin glargine products, 100 units/mL) administered once-daily along with OAMs.
+Patients were either insulin naïve (approximately 60%) and had failed to achieve adequate glycemic control on at least 2 OAMs, or were already on another insulin glargine product, 100 units/mL, or a non-U.S.-licensed insulin glargine, 100 units/mL, along with at least 2 OAMs with adequate or inadequate glycemic control (approximately 40%).
 A total of 759 patients were randomized.
 Three patients randomized to BASAGLAR did not receive study drug and were not included in efficacy analysis.
 The average age was approximately 59 years.
@@ -114,7 +114,7 @@ Table 10: Type 2 Diabetes Mellitus – Adult (BASAGLAR plus Oral Antidiabetic Me
 | Difference from comparator (adjusted meanc,d) (95% CI) | 0.05 (-0.07, 0.17) |  |
 | Proportion of patients achieving HbA1c <7%d | 48.8% | 52.5% |
 | a Three patients randomized to BASAGLAR did not receive study drug and were not included in the Full Analysis Set. |  |  |
-| b “Comparator insulin glargine products, 100 units/mL” refers to another insulin glargine product, 100 units/mL, and a non-U.S.-approved insulin glargine product, 100 units/mL, used in this study. |  |  |
+| b “Comparator insulin glargine products, 100 units/mL” refers to another insulin glargine product, 100 units/mL, and a non-U.S.-licensed insulin glargine, 100 units/mL, used in this study. |  |  |
 | c ANCOVA Model includes treatment, country, sulfonylurea use and time of baseline basal insulin injection (daytime or evening/bedtime) as fixed effects and baseline HbA1c as covariate. |  |  |
 | d The results were calculated based on the number of patients in the Full Analysis Set using their last observed post-baseline value of HbA1c. Observed HbA1c data at 24 weeks were available from 331 (88%) and 329 (87%) subjects randomized to the BASAGLAR and comparator insulin glargine products, 100 units/mL, groups, respectively. |  |  |
 

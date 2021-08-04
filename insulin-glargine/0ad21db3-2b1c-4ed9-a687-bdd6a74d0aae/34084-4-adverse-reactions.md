@@ -3,7 +3,8 @@
 The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)].
-- Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)].
+- Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)].
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)].
 - Hypokalemia [see Warnings and Precautions (5.6)].
 
 ## 6.1 Clinical Trial Experience
@@ -72,7 +73,7 @@ Table 3: Common adverse reactions in 5-year trial of adult patients with type 2 
 
 The frequencies of adverse reactions during clinical trials with another insulin glargine product, 100 units/mL, in children and adolescents with type 1 diabetes mellitus are listed in Table 4.
 
-Table 4: Adverse reactions in a 28-week clinical trial of children and adolescents with type 1 diabetes (adverse reactions with frequency ≥5% and the same or higher with another insulin glargine product, 100 units/mL, than comparator)
+Table 4: Adverse reactions in a 28-week clinical trial of pediatric patients with type 1 diabetes (adverse reactions with frequency ≥5% and the same or higher with another insulin glargine product, 100 units/mL, than comparator)
 
 |  | Another Insulin Glargine Product, % (n=174) | NPH, % (n=175) |
 | --- | --- | --- |
@@ -80,7 +81,7 @@ Table 4: Adverse reactions in a 28-week clinical trial of children and adolescen
 
 Severe Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including BASAGLAR [see Warnings and Precautions (5.3)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including BASAGLAR.
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for BASAGLAR with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that will occur in clinical practice.
 
@@ -101,9 +102,9 @@ Table 5: Severe Symptomatic Hypoglycemia in the ORIGIN Trial
 
 Allergic Reactions
 
-Some patients taking insulin therapy, including BASAGLAR have experienced erythema, local edema, and pruritus at the site of injection.
+Some patients taking insulins, including BASAGLAR have experienced erythema, local edema, and pruritus at the site of injection.
 These conditions were usually self-limiting.
-Severe cases of generalized allergy (anaphylaxis) have been reported [see Warnings and Precautions (5.5)].
+Severe cases of generalized allergy (anaphylaxis) have been reported.
 
 Peripheral Edema
 
@@ -111,11 +112,11 @@ Some patients taking BASAGLAR have experienced sodium retention and edema, parti
 
 Lipodystrophy
 
-Administration of insulin subcutaneously, including BASAGLAR, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) in some patients [see Dosage and Administration (2.1)].
+Administration of insulins subcutaneously, including BASAGLAR, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) in some patients [see Dosage and Administration (2.1)].
 
 Weight gain
 
-Weight gain has occurred with some insulin therapies including BASAGLAR and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+Weight gain has occurred with insulins, including BASAGLAR, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
 
 ## 6.2 Immunogenicity
 
@@ -135,11 +136,10 @@ For these reasons, comparison of the incidence of antibodies to BASAGLAR with th
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of another insulin glargine product, 100 units/mL.
+The following adverse reactions have been identified during post-approval use of insulin glargine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 
-Medication errors have been reported in which other insulin products, particularly rapid-acting insulins, have been accidentally administered instead of an insulin glargine product.
-To avoid medication errors between insulin glargine products and other insulin products, patients should be instructed to always verify the insulin label before each injection.
+Medication errors have been reported in which other insulin products, particularly rapid-acting insulins, have been accidentally administered instead of insulin glargine.
 
 Localized cutaneous amyloidosis at the injection site has occurred.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

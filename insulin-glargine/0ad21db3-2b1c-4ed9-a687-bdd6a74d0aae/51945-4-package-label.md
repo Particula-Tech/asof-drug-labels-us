@@ -8,23 +8,21 @@ Basaglar®
 
 KwikPen®
 
-insulin glargine injection
+(insulin glargine) injection
 
 For Single Patient Use Only
 
-U-100
+100 units per mL (U-100)
 
-100 units per mL
+For subcutaneous use only
+
+Can inject from 1 to 80 units in a single injection
 
 5 x 3 mL prefilled pens
 
 prefilled insulin delivery device
 
-Can inject from 1 to 80 units in a single injection
-
 Rx only
-
-For subcutaneous use.
 
 Read Basaglar® KwikPen® Instructions for Use.
 
@@ -44,23 +42,21 @@ Basaglar®
 
 Tempo Pen™
 
-insulin glargine injection
+(insulin glargine) injection
 
 For Single Patient Use Only
 
-U-100
+100 units per mL (U-100)
 
-100 units per mL
+For subcutaneous use only
+
+Can inject from 1 to 80 units in a single injection
 
 5 x 3 mL prefilled pens
 
 prefilled insulin delivery device
 
-Can inject from 1 to 80 units in a single injection
-
 Rx only
-
-For subcutaneous use only.
 
 Read Basaglar® Tempo Pen™ Instructions for Use.
 

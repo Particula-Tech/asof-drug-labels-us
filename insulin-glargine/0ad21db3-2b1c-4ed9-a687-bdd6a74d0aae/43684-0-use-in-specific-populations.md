@@ -52,9 +52,6 @@ The developmental and health benefits of breastfeeding should be considered alon
 The safety and effectiveness of BASAGLAR have been established in pediatric patients (age 6 to 15 years) with type 1 diabetes based on an adequate and well-controlled trial of another insulin glargine product, 100 units/mL, in pediatric patients (age 6 to 15 years) with type 1 diabetes and additional data in adults with type 1 diabetes [see Clinical Studies (14.2)].
 The safety and effectiveness of BASAGLAR in pediatric patients younger than 6 years of age with type 1 diabetes and pediatric patients with type 2 diabetes has not been established.
 
-The dosage recommendation when changing to BASAGLAR in pediatric patients (age 6 to 15 years) with type 1 diabetes is the same as that described for adults [see Dosage and Administration (2.3, 2.4) and Clinical Studies (14)].
-As in adults, the dosage of BASAGLAR must be individualized in pediatric patients (age 6 to 15 years) with type 1 diabetes based on metabolic needs and frequent monitoring of blood glucose.
-
 In the pediatric clinical trial, pediatric patients (age 6 to 15 years) with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia compared to the adults in trials with type 1 diabetes [see Adverse Reactions (6.1)].
 
 ## 8.5 Geriatric Use
@@ -76,7 +73,3 @@ Frequent glucose monitoring and dose adjustment may be necessary for BASAGLAR in
 
 The effect of hepatic impairment on the pharmacokinetics of BASAGLAR has not been studied.
 However, as with all insulin products, more frequent glucose monitoring and dose adjustment may be necessary for BASAGLAR in patients with hepatic impairment [see Warnings and Precautions (5.3)].
-
-## 8.8 Obesity
-
-In controlled clinical trials, subgroup analyses based on BMI did not show differences in safety and efficacy between BASAGLAR and another insulin glargine product, 100 units/mL.

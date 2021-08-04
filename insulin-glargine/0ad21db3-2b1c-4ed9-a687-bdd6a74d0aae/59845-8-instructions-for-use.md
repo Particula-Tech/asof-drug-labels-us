@@ -2,7 +2,11 @@ Instructions for Use
 
 BASAGLAR® KwikPen®
 
-insulin glargine injection (100 units/mL, 3 mL single-patient-use pen)
+(insulin glargine)
+
+injection, for subcutaneous use
+
+100 units/mL, 3 mL single-patient-use pen
 
 Read the Instructions for Use before you start using BASAGLAR and each time you get another BASAGLAR® KwikPen®.
 There may be new information.
@@ -20,7 +24,7 @@ One pen contains multiple doses of medicine.
 - The plunger only moves a little with each injection, and you may not notice that it moves.
   When the plunger reaches the end of the cartridge, you have used all 300 units in the Pen.
 
-People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the BASAGLAR prefilled pen.
 
 How to recognize your BASAGLAR KwikPen
 
@@ -158,27 +162,29 @@ Scan this code to launch www.basaglar.com
 This Instructions for Use have been approved by the U.S. Food and Drug Administration.
 BASAGLAR® and BASAGLAR® KwikPen® are trademarks of Eli Lilly and Company.
 
-Instructions for Use revised: November 2019
+Instructions for Use revised: July 2021
 
-Marketed by:
+Manufactured by:
 
-Lilly USA, LLC
+Eli Lilly and Company
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2015, 2019, Eli Lilly and Company.
+US License Number 1891
+
+Copyright © 2015, 2021, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |  |
 | --- | --- |
 
-BASKP-0007-IFU-20191125
+BASKP-0008-IFU-20210720
 
 Instructions for Use
 
-BASAGLAR® Tempo Pen™
+BASAGLAR® Tempo Pen™ (insulin glargine) injection, for subcutaneous use
 
-insulin glargine injection (100 units/mL, 3 mL pen, single-patient-use)
+100 units/mL, 3 mL pen, single-patient-use
 
 Read the Instructions for Use before you start using BASAGLAR and each time you get another BASAGLAR Tempo Pen.
 There may be new information.
@@ -196,7 +202,7 @@ One pen contains multiple doses of medicine.
 - The Plunger only moves a little with each injection, and you may not notice that it moves.
   When the Plunger reaches the end of the cartridge, you have used all 300 units in the Pen.
 
-People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
+People who are blind or have vision problems should not use the Pen without help from a person trained to use the BASAGLAR prefilled pen.
 
 This BASAGLAR Tempo Pen contains a component that allows for data connectivity when used with a compatible transmitter.
 
@@ -341,14 +347,14 @@ This Instructions for Use have been approved by the U.S. Food and Drug Administr
 
 BASAGLAR® is a registered trademark and Tempo PenTM is a trademark of Eli Lilly and Company.
 
-Instructions for Use issued: 11/2019
+Instructions for Use revised: July 2021
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 2019, Eli Lilly and Company.
+Copyright © 2021, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR Tempo Pen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-BASTP-0002-IFU-20191125
+BASTP-0003-IFU-20210720
