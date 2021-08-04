@@ -105,7 +105,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 VERDESO is a registered trademark of Stiefel Laboratories, Inc.
 
-Manufactured by DPT Laboratories, San Antonio, TX 78215 For Almirall, LLC, Exton, PA 19341
+Manufactured by DPT Laboratories, San Antonio, TX 78215 For Almirall, LLC, 101 Lindenwood Drive, Suite 400, Malvern, PA 19355
 
 ©2019, Almirall, LLC All rights reserved.
 
