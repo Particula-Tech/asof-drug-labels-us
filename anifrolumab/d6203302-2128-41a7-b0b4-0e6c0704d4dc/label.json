@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761123"
+  ],
+  "inn": "anifrolumab",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-3040-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "anifrolumab",
+      "name": "SAPHNELO"
+    }
+  ],
+  "setid": "d6203302-2128-41a7-b0b4-0e6c0704d4dc",
+  "source": "dailymed"
+}
