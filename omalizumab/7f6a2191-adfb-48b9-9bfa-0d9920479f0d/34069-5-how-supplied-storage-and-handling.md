@@ -2,7 +2,7 @@
 
 Injection (Prefilled Syringe)
 
-XOLAIR (omalizumab) injection is a clear to slightly opalescent and colorless to pale brownish-yellow solution in a single-dose prefilled glass syringe with a 26 gauge staked needle, rigid needle cap, and needle shield.
+XOLAIR (omalizumab) injection is a clear to slightly opalescent and colorless to pale brownish-yellow solution in a single-dose prefilled glass syringe with a 26-gauge staked needle, rigid needle cap, and needle shield.
 Each carton contains one prefilled syringe.
 
 Each XOLAIR 75 mg carton contains one single-dose 75 mg prefilled syringe with a blue needle shield (NDC 50242-214-01).
@@ -13,7 +13,9 @@ Storage
 
 XOLAIR prefilled syringe should be shipped and stored under refrigerated conditions 2°C to 8°C (36°F to 46°F) in the original carton.
 Protect from direct sunlight.
-After removal from the refrigerator, XOLAIR prefilled syringe must be used within 4 hours or discarded.
+XOLAIR prefilled syringe can be removed from and placed back in the refrigerator if needed.
+The total combined time out of the refrigerator may not exceed 2 days.
+Do not use if prefilled syringe is exposed to temperatures above 25°C (77°F).
 
 Do not freeze.
 Do not use if the syringe has been frozen.

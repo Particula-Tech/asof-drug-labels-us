@@ -15,12 +15,12 @@ In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to
 Anaphylaxis has occurred as early as after the first dose of XOLAIR, but also has occurred beyond one year after beginning regularly scheduled treatment.
 Approximately 60% to 70% of anaphylaxis cases have been reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
 
-Initiate XOLAIR only in a healthcare setting equipped to manage anaphylaxis which can be life-threatening.
+Initiate XOLAIR only in a healthcare setting equipped to manage anaphylaxis, which can be life-threatening.
 Observe patients closely for an appropriate period of time after administration of XOLAIR, taking into account the time to onset of anaphylaxis seen in premarketing clinical trials and postmarketing spontaneous reports [see Adverse Reactions (6)].
 Inform patients of the signs and symptoms of anaphylaxis, and instruct them to seek immediate medical care should signs or symptoms occur.
 
 Once XOLAIR therapy has been established, administration of XOLAIR Prefilled Syringe outside of a healthcare setting by a patient or a caregiver may be appropriate for selected patients.
-Patient selection, determined by the healthcare provider in consultation with the patient, should take into account the pattern of anaphylaxis events seen in premarketing clinical trials and postmarketing spontaneous reports, as well as individual patient risk factors (e.g. prior history of anaphylaxis), ability to recognize signs and symptoms of anaphylaxis, and ability to perform subcutaneous injections with XOLAIR Prefilled Syringe with proper technique according to the prescribed dosing regimen and Instructions for Use [see Dosage and Administration (2.5),Adverse Reactions (6)].
+Patient selection, determined by the healthcare provider in consultation with the patient, should take into account the pattern of anaphylaxis events seen in premarketing clinical trials and postmarketing spontaneous reports, as well as individual patient risk factors (e.g. prior history of anaphylaxis), ability to recognize signs and symptoms of anaphylaxis, and ability to perform subcutaneous injections with XOLAIR Prefilled Syringe with proper technique according to the prescribed dosing regimen and Instructions for Use [see Dosage and Administration (2.5), Adverse Reactions (6)].
 
 Discontinue XOLAIR in patients who experience a severe hypersensitivity reaction [see Contraindications (4)].
 
@@ -46,7 +46,7 @@ Patients should seek medical advice if their asthma remains uncontrolled or wors
 
 Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of XOLAIR therapy for asthma or nasal polyps.
 Decrease corticosteroids gradually under the direct supervision of a physician.
-In CIU patients, the use of XOLAIR in combination with corticosteroids has not been evaluated.
+In CSU patients, the use of XOLAIR in combination with corticosteroids has not been evaluated.
 
 ## 5.5 Eosinophilic Conditions
 
@@ -57,7 +57,7 @@ A causal association between XOLAIR and these underlying conditions has not been
 
 ## 5.6 Fever, Arthralgia, and Rash
 
-In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash, fever and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of XOLAIR.
+In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash, fever, and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of XOLAIR.
 These signs and symptoms have recurred after additional doses in some patients.
 Although circulating immune complexes or a skin biopsy consistent with a Type III reaction were not seen with these cases, these signs and symptoms are similar to those seen in patients with serum sickness.
 Physicians should stop XOLAIR if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.3)].
@@ -75,4 +75,4 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of XOLAIR due to formation of XOLAIR:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of XOLAIR.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma or nasal polyps patients, because these levels may not reflect steady state free IgE levels [see Dosage and Administration (2.2, 2.3)].
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma or nasal polyps patients, because these levels may not reflect steady-state free IgE levels [see Dosage and Administration (2.2, 2.3)].

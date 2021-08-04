@@ -7,17 +7,17 @@ Asthma and Nasal Polyps
 Omalizumab inhibits the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells.
 In allergic asthmatics, treatment with omalizumab inhibits IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13.
 
-Chronic Idiopathic Urticaria
+Chronic Spontaneous Urticaria (CSU)
 
 Omalizumab binds to IgE and lowers free IgE levels.
 Subsequently, IgE receptors (FcεRI) on cells down-regulate.
-The mechanism by which these effects of omalizumab result in an improvement of CIU symptoms is unknown.
+The mechanism by which these effects of omalizumab result in an improvement of CSU symptoms is unknown.
 
 ## 12.2 Pharmacodynamics
 
 Asthma
 
-In clinical studies, serum free IgE levels were reduced in a dose dependent manner within 1 hour following the first dose and maintained between doses.
+In clinical studies, serum free IgE levels were reduced in a dose-dependent manner within 1 hour following the first dose and maintained between doses.
 Mean serum free IgE decrease was greater than 96% using recommended doses.
 Serum total IgE levels (i.e., bound and unbound) increased after the first dose due to the formation of omalizumab:IgE complexes, which have a slower elimination rate compared with free IgE.
 At 16 weeks after the first dose, average serum total IgE levels were five-fold higher compared with pre-treatment when using standard assays.
@@ -32,9 +32,9 @@ After repeated dosing every 2 or 4 weeks, with dosage and frequency according to
 Total IgE levels in serum increased due to the formation of omalizumab-IgE complexes, which have a slower elimination rate compared with free IgE.
 After repeated dosing every 2 or 4 weeks, with dosage and frequency according to Table 3, mean and median predose serum total IgE levels at Week 16 were 3- to 4- fold higher compared with pre-treatment levels, and remained stable between 16 and 24 weeks of treatment.
 
-Chronic Idiopathic Urticaria
+Chronic Spontaneous Urticaria
 
-In clinical studies in CIU patients, XOLAIR treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in asthma patients.
+In clinical studies in CSU patients, XOLAIR treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in asthma patients.
 Maximum suppression of free IgE was observed 3 days following the first subcutaneous dose.
 After repeat dosing once every 4 weeks, predose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 Total IgE levels in serum increased after the first dose due to the formation of omalizumab-IgE complexes which have a slower elimination rate compared with free IgE.
@@ -45,17 +45,17 @@ After discontinuation of XOLAIR dosing, free IgE levels increased and total IgE 
 
 After SC administration, omalizumab was absorbed with an average absolute bioavailability of 62%.
 Following a single SC dose in adult and adolescent patients with asthma, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 7–8 days.
-In patients with CIU, the peak serum concentration was reached at a similar time after a single SC dose.
+In patients with CSU, the peak serum concentration was reached at a similar time after a single SC dose.
 The pharmacokinetics of omalizumab was linear at doses greater than 0.5 mg/kg.
 In patients with asthma, following multiple doses of XOLAIR, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
-In patients with CIU, omalizumab exhibited linear pharmacokinetics across the dose range of 75 mg to 600 mg given as single subcutaneous dose.
+In patients with CSU, omalizumab exhibited linear pharmacokinetics across the dose range of 75 mg to 600 mg given as single subcutaneous dose.
 Following repeat dosing from 75 to 300 mg every 4 weeks, trough serum concentrations of omalizumab increased proportionally with the dose levels.
 
 In vitro, omalizumab formed complexes of limited size with IgE.
 Precipitating complexes and complexes larger than 1 million daltons in molecular weight were not observed in vitro or in vivo.
 Tissue distribution studies in Cynomolgus monkeys showed no specific uptake of 125I-omalizumab by any organ or tissue.
 The apparent volume of distribution of omalizumab in patients with asthma following SC administration was 78 ± 32 mL/kg.
-In patients with CIU, based on population pharmacokinetics, distribution of omalizumab was similar to that in patients with asthma.
+In patients with CSU, based on population pharmacokinetics, distribution of omalizumab was similar to that in patients with asthma.
 
 Clearance of omalizumab involved IgG clearance processes as well as clearance via specific binding and complex formation with its target ligand, IgE.
 Liver elimination of IgG included degradation in the liver reticuloendothelial system (RES) and endothelial cells.
@@ -63,7 +63,7 @@ Intact IgG was also excreted in bile.
 In studies with mice and monkeys, omalizumab:IgE complexes were eliminated by interactions with Fcγ receptors within the RES at rates that were generally faster than IgG clearance.
 In asthma patients omalizumab serum elimination half-life averaged 26 days, with apparent clearance averaging 2.4 ± 1.1 mL/kg/day.
 Doubling body weight approximately doubled apparent clearance.
-In CIU patients, at steady state, based on population pharmacokinetics, omalizumab serum elimination half-life averaged 24 days and apparent clearance averaged 240 mL/day (corresponding to 3.0 mL/kg/day for an 80 kg patient).
+In CSU patients, at steady state, based on population pharmacokinetics, omalizumab serum elimination half-life averaged 24 days and apparent clearance averaged 240 mL/day (corresponding to 3.0 mL/kg/day for an 80 kg patient).
 
 Specific Populations
 
@@ -79,8 +79,8 @@ Graphical covariate analyses were performed to evaluate the effects of demograph
 These analyses demonstrate that no dose adjustments are necessary for age (18 to 75 years) or gender.
 Race and ethnicity data are too limited in nasal polyps studies to inform dose adjustment.
 
-Chronic Idiopathic Urticaria
+Chronic Spontaneous Urticaria
 
-The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics and other factors on omalizumab exposure in patients with CIU.
+The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics and other factors on omalizumab exposure in patients with CSU.
 Covariate effects were evaluated by analyzing the relationship between omalizumab concentrations and clinical responses.
-These analyses demonstrate that no dose adjustments are necessary for age (12 to 75 years), race/ethnicity, gender, body weight, body mass index or baseline IgE level.
+These analyses demonstrate that no dose adjustments are necessary for age (12 to 75 years), race/ethnicity, gender, body weight, body mass index, or baseline IgE level.

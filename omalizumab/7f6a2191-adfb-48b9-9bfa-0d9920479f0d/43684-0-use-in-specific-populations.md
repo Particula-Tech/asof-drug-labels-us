@@ -30,7 +30,7 @@ Human Data
 A prospective cohort pregnancy exposure registry study conducted in the US from 2006 to 2018, included 250 pregnant women with asthma treated with XOLAIR.
 Of these, 246 patients were exposed to XOLAIR in the first trimester of pregnancy, and the median exposure duration was 8.7 months.
 
-The registry findings for applicable mother and infant subgroups were compared to age-adjusted frequencies in a disease matched external cohort of 1,153 pregnant women with asthma (without exposure to XOLAIR) identified from healthcare databases of residents in the Canadian province of Quebec, and referred to as the Quebec External Comparator Cohort ("comparator cohort").
+The registry findings for applicable mother and infant subgroups were compared to age-adjusted frequencies in a disease-matched external cohort of 1,153 pregnant women with asthma (without exposure to XOLAIR) identified from healthcare databases of residents in the Canadian province of Quebec, and referred to as the Quebec External Comparator Cohort ("comparator cohort").
 
 Among applicable registry infants, the prevalence of major congenital anomalies (8.1%) was similar to that for infants in the comparator cohort (8.9%).
 Among applicable registry pregnancies, 99.1% led to live births, similar to 99.3% for the comparator cohort.
@@ -41,7 +41,7 @@ The registry study cannot definitively establish the absence of any risk because
 Animal Data
 
 Reproductive studies have been performed in Cynomolgus monkeys.
-There was no evidence of maternal toxicity, embryotoxicity, or teratogenicity when omalizumab was administered throughout the period of organogenesis at doses that produced exposures approximately 5 times the MHRD (on a mg/kg basis with maternal subcutaneous doses up to 75 mg/kg/week).
+There was no evidence of maternal toxicity, embryotoxicity, or teratogenicity when omalizumab was administered throughout the period of organogenesis at doses that produced exposures approximately 5 times the MRHD (on a mg/kg basis with maternal subcutaneous doses up to 75 mg/kg/week).
 Omalizumab did not elicit adverse effects on fetal or neonatal growth when administered throughout late gestation, delivery, and nursing.
 
 ## 8.2 Lactation
@@ -73,16 +73,16 @@ Nasal Polyps
 
 Safety and effectiveness in pediatric patients with nasal polyps below 18 years of age have not been established.
 
-Chronic Idiopathic Urticaria
+Chronic Spontaneous Urticaria
 
-The safety and effectiveness of XOLAIR for chronic idiopathic urticaria have been established in pediatric patients aged 12 years and older.
+The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) have been established in pediatric patients aged 12 years and older.
 Use of XOLAIR in this population is supported by evidence from adequate and well-controlled studies.
-Adolescent patients with CIU were evaluated in 39 patients 12 to 17 years of age (XOLAIR 29, placebo 10) included in three randomized, placebo-controlled CIU trials.
+Adolescent patients with CSU were evaluated in 39 patients 12 to 17 years of age (XOLAIR 29, placebo 10) included in three randomized, placebo-controlled CSU trials.
 A numerical decrease in weekly itch score was observed, and adverse reactions were similar to those reported in patients 18 years and older.
 
-Safety and effectiveness in pediatric patients with CIU below 12 years of age have not been established.
+Safety and effectiveness in pediatric patients with CSU below 12 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
-In clinical studies, 134 asthma patients, 20 nasal polyps patients, and 37 CIU phase 3 study patients 65 years of age or older were treated with XOLAIR.
+In clinical studies, 134 asthma patients, 20 nasal polyps patients, and 37 CSU phase 3 study patients 65 years of age or older were treated with XOLAIR.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.

@@ -13,9 +13,9 @@ Limitations of Use:
 
 XOLAIR is indicated for add-on maintenance treatment of nasal polyps in adult patients 18 years of age and older with inadequate response to nasal corticosteroids.
 
-## 1.3 Chronic Idiopathic Urticaria (CIU)
+## 1.3 Chronic Spontaneous Urticaria (CSU)
 
-XOLAIR is indicated for the treatment of adults and adolescents 12 years of age and older with chronic idiopathic urticaria who remain symptomatic despite H1 antihistamine treatment.
+XOLAIR is indicated for the treatment of adults and adolescents 12 years of age and older with chronic spontaneous urticaria who remain symptomatic despite H1 antihistamine treatment.
 
 Limitations of Use:
 

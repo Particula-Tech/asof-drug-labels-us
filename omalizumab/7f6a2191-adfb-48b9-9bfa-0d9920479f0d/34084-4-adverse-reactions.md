@@ -99,11 +99,11 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequen
 | Headache | 11 (8.1%) | 7 (5.4%) |
 | Dizziness | 4 (3.0%) | 1 (0.8%) |
 
-Adverse Reactions from Clinical Studies in Patients with Chronic Idiopathic Urticaria (CIU)
+Adverse Reactions from Clinical Studies in Patients with Chronic Spontaneous Urticaria (CSU)
 
-The safety of XOLAIR for the treatment of CIU was assessed in three placebo-controlled, multiple-dose clinical trials of 12 weeks' (CIU Trial 2) and 24 weeks' duration (CIU Trials 1 and 3).
-In CIU Trials 1 and 2, patients received XOLAIR 75 mg, 150 mg, or 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy throughout the treatment period.
-In CIU Trial 3 patients were randomized to XOLAIR 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy.
+The safety of XOLAIR for the treatment of CSU was assessed in three placebo-controlled, multiple-dose clinical trials of 12 weeks' (CSU Trial 2) and 24 weeks' duration (CSU Trials 1 and 3).
+In CSU Trials 1 and 2, patients received XOLAIR 75 mg, 150 mg, or 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy throughout the treatment period.
+In CSU Trial 3 patients were randomized to XOLAIR 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy.
 The data described below reflect XOLAIR exposure for 733 patients enrolled and receiving at least one dose of XOLAIR in the three clinical trials, including 684 patients exposed for 12 weeks and 427 exposed for 24 weeks.
 The mean age of patients receiving XOLAIR 300 mg was 43 years, 75% were women, and 89% were white.
 The demographic profiles for patients receiving XOLAIR 150 mg and 75 mg were similar.
@@ -112,11 +112,11 @@ Table 8 shows adverse reactions that occurred in ≥2% of patients receiving XOL
 Adverse reactions are pooled from Trial 2 and the first 12 weeks of Trials 1 and 3.
 
 Table 8.
-Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CIU Trials
+Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CSU Trials
 
 | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |  |
 | --- | --- | --- | --- |
-| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | CIU Trials 1, 2 and 3 Pooled |  |  |
+| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | CSU Trials 1, 2 and 3 Pooled |  |  |
 | Gastrointestinal disorders |  |  |  |
 | Nausea | 2 (1.1%) | 11 (2.7%) | 6 (2.5%) |
 | Infections and infestations |  |  |  |
@@ -136,19 +136,19 @@ Additional reactions reported during the 24-week treatment period in Trials 1 an
 Injection Site Reactions
 
 Injection site reactions of any severity occurred during the studies in more XOLAIR-treated patients [11 patients (2.7%) at 300 mg, 1 patient (0.6%) at 150 mg] compared with 2 placebo-treated patients (0.8%).
-The types of injection site reactions included: swelling, erythema, pain, bruising, itching, bleeding and urticaria.
+The types of injection site reactions included: swelling, erythema, pain, bruising, itching, bleeding, and urticaria.
 None of the events resulted in study discontinuation or treatment interruption.
 
 Cardiovascular and Cerebrovascular Events from Clinical Studies in Patients with Asthma
 
-A 5-year observational cohort study was conducted in patients ≥12 years of age with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long -term safety of XOLAIR, including the risk of malignancy [see Warnings and Precautions (5.2)].
-A total of 5007 XOLAIR-treated and 2829 non-XOLAIR-treated patients enrolled in the study.
+A 5-year observational cohort study was conducted in patients ≥12 years of age with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long-term safety of XOLAIR, including the risk of malignancy [see Warnings and Precautions (5.2)].
+A total of 5007 XOLAIR-treated and 2829 non–XOLAIR-treated patients enrolled in the study.
 Similar percentages of patients in both cohorts were current (5%) or former smokers (29%).
 Patients had a mean age of 45 years and were followed for a mean of 3.7 years.
-More XOLAIR-treated patients were diagnosed with severe asthma (50%) compared to the non-XOLAIR-treated patients (23%) and 44% of patients prematurely discontinued the study.
+More XOLAIR-treated patients were diagnosed with severe asthma (50%) compared to the non–XOLAIR-treated patients (23%) and 44% of patients prematurely discontinued the study.
 Additionally, 88% of patients in the XOLAIR-treated cohort had been previously exposed to XOLAIR for a mean of 8 months.
 
-A higher incidence rate (per 1000 patient-years) of overall cardiovascular and cerebrovascular serious adverse events (SAEs) was observed in XOLAIR-treated patients (13.4) compared to non-XOLAIR-treated patients (8.1).
+A higher incidence rate (per 1000 patient-years) of overall cardiovascular and cerebrovascular serious adverse events (SAEs) was observed in XOLAIR-treated patients (13.4) compared to non–XOLAIR-treated patients (8.1).
 Increases in rates were observed for transient ischemic attack (0.7 versus 0.1), myocardial infarction (2.1 versus 0.8), pulmonary hypertension (0.5 versus 0), pulmonary embolism/venous thrombosis (3.2 versus 1.5), and unstable angina (2.2 versus 1.4), while the rates observed for ischemic stroke and cardiovascular death were similar among both study cohorts.
 The results suggest a potential increased risk of serious cardiovascular and cerebrovascular events in patients treated with XOLAIR.
 However, the observational study design, the inclusion of patients previously exposed to XOLAIR (88%), baseline imbalances in cardiovascular risk factors between the treatment groups, an inability to adjust for unmeasured risk factors, and the high study discontinuation rate limit the ability to quantify the magnitude of the risk.
@@ -168,7 +168,7 @@ For these reasons, comparison of the incidence of antibodies to omalizumab in th
 
 Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for asthma in patients 12 years of age and older.
 In three pediatric studies, antibodies to XOLAIR were detected in one patient out of 581 patients 6 to <12 years of age treated with XOLAIR and evaluated for antibodies.
-There were no detectable antibodies in the patients treated in the CIU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
+There were no detectable antibodies in the patients treated in the CSU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
 The data reflect the percentage of patients whose test results were considered positive for antibodies to XOLAIR in ELISA assays and are highly dependent on the sensitivity and specificity of the assays.
 
 ## 6.3 Postmarketing Experience

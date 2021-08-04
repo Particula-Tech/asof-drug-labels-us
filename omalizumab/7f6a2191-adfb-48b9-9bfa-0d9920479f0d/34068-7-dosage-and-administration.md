@@ -14,9 +14,9 @@ Therefore, re-testing of IgE levels during XOLAIR treatment cannot be used as a 
 - Interruptions lasting less than one year: Dose based on serum IgE levels obtained at the initial dose determination.
 - Interruptions lasting one year or more: Re-test total serum IgE levels for dose determination (Table 1 or 2 for treatment of asthma, based on the patient's age, and Table 3 for treatment of nasal polyps).
 
-Chronic Idiopathic Urticaria
+Chronic Spontaneous Urticaria
 
-Dosing XOLAIR in chronic idiopathic urticaria patients is not dependent on serum IgE (free or total) level or body weight.
+Dosing XOLAIR in chronic spontaneous urticaria patients is not dependent on serum IgE (free or total) level or body weight.
 
 ## 2.2 Recommended Dosage for Asthma
 
@@ -37,14 +37,14 @@ Duration of Therapy
 
 Periodically reassess the need for continued therapy based upon the patient's disease severity and level of symptom control.
 
-## 2.4 Recommended Dosage for Chronic Idiopathic Urticaria
+## 2.4 Recommended Dosage for Chronic Spontaneous Urticaria (CSU)
 
 Administer XOLAIR 150 mg or 300 mg by subcutaneous injection every 4 weeks.
-Dosing of XOLAIR in CIU patients is not dependent on serum IgE (free or total) level or body weight.
+Dosing of XOLAIR in CSU patients is not dependent on serum IgE (free or total) level or body weight.
 
 Duration of Therapy
 
-The appropriate duration of therapy for CIU has not been evaluated.
+The appropriate duration of therapy for CSU has not been evaluated.
 Periodically reassess the need for continued therapy.
 
 ## 2.5 Administration Overview
@@ -75,7 +75,7 @@ Administration Instructions
 
 - Visually inspect the contents of the prefilled syringe for particulate matter and discoloration prior to administration.
   XOLAIR prefilled syringe solution should be clear and colorless to pale brownish yellow.
-  Do not use the prefilled syringe if the medicine is cloudy, discolored or contains particles.
+  Do not use the prefilled syringe if the medicine is cloudy, discolored, or contains particles.
 - Determine the number of Prefilled Syringes needed for patient's dosage (see Table 4).
 - For patients requiring more than 1 injection to complete a full dose, administer each injection at least 1 inch apart from other injection sites.
 - Administer subcutaneous injection into the thigh or abdomen, avoiding the 2-inch (5 cm) area directly around the navel.
@@ -85,7 +85,7 @@ Administration Instructions
 Table 4.
 Number of Prefilled Syringes, Injections and Total Injection Volumes
 
-| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CIU patients. | 75 mg Syringes | 150 mg Syringes | Total Volume Injected |
+| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | 75 mg Syringes | 150 mg Syringes | Total Volume Injected |
 | --- | --- | --- | --- |
 | 75 mg | 1 | 0 | 0.5 mL |
 | 150 mg | 0 | 1 | 1 mL |
@@ -106,7 +106,7 @@ The supplied XOLAIR lyophilized powder must be reconstituted with Sterile Water 
 Table 5.
 Number of Vials, Injections and Total Injection Volumes
 
-| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CIU patients. | Number of Vials | Number of Injections | Total Volume Injected |
+| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | Number of Vials | Number of Injections | Total Volume Injected |
 | --- | --- | --- | --- |
 | 75 mg | 1 | 1 | 0.6 mL |
 | 150 mg | 1 | 1 | 1.2 mL |
@@ -115,7 +115,7 @@ Number of Vials, Injections and Total Injection Volumes
 | 375 mg | 3 | 3 | 3.0 mL |
 | 450 mg | 3 | 3 | 3.6 mL |
 | 525 mg | 4 | 4 | 4.2 mL |
-| 600mg | 4 | 4 | 4.8 mL |
+| 600 mg | 4 | 4 | 4.8 mL |
 
 - 2) Draw 1.4 mL of SWFI, USP, into a 3 mL syringe equipped with a 1-inch, 18-gauge needle.
 - 3) Place the vial upright on a flat surface and using standard aseptic technique, insert the needle and inject the SWFI, USP, directly onto the product.
@@ -139,7 +139,7 @@ Number of Vials, Injections and Total Injection Volumes
 - 10) Replace the 18-gauge needle with a 25-gauge needle for subcutaneous injection.
 - 11) Expel air, large bubbles, and any excess solution in order to obtain a volume of 1.2 mL corresponding to a dose of 150 mg of XOLAIR.
   To obtain a volume of 0.6 mL corresponding to a dose of 75 mg of XOLAIR, expel air, large bubbles and discard 0.6 mL from the syringe.
-  A thin layer of small bubbles may remain at the top of the solution in the syringe
+  A thin layer of small bubbles may remain at the top of the solution in the syringe.
 - 12)Administer XOLAIR by subcutaneous injection.
   The injection may take 5-10 seconds to administer because the solution is slightly viscous.
   Do not administer more than 150 mg (contents of one vial) per injection site.

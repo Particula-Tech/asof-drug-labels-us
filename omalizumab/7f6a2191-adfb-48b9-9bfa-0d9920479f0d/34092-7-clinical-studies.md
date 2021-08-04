@@ -21,7 +21,7 @@ Asthma Trials 1 and 2
 
 At screening, patients in Asthma Trials 1 and 2 had a forced expiratory volume in one second (FEV1) between 40% and 80% predicted.
 All patients had a FEV1 improvement of at least 12% following beta2-agonist administration.
-All patients were symptomatic and were being treated with inhaled corticosteroids (ICS) and short acting beta2-agonists.
+All patients were symptomatic and were being treated with inhaled corticosteroids (ICS) and short-acting beta2-agonists.
 Patients receiving other concomitant controller medications were excluded, and initiation of additional controller medications while on study was prohibited.
 Patients currently smoking were excluded.
 
@@ -201,11 +201,11 @@ The odds-ratio of systemic corticosteroid use with XOLAIR compared to placebo wa
 
 There were no sino-nasal surgeries reported, in either placebo or XOLAIR arms, in either Trial.
 
-## 14.3 Chronic Idiopathic Urticaria
+## 14.3 Chronic Spontaneous Urticaria (CSU)
 
 Adult and Adolescent Patients 12 Years of Age and Older
 
-The safety and efficacy of XOLAIR for the treatment of CIU was assessed in two placebo-controlled, multiple-dose clinical trials of 24 weeks' duration (CIU Trial 1; n= 319) and 12 weeks' duration (CIU Trial 2; n=322).
+The safety and efficacy of XOLAIR for the treatment of CSU, previously referred to as chronic idiopathic urticaria (CIU) was assessed in two placebo-controlled, multiple-dose clinical trials of 24 weeks' duration (CSU Trial 1; n= 319) and 12 weeks' duration (CSU Trial 2; n=322).
 Patients received XOLAIR 75 mg, 150 mg, or 300 mg or placebo by SC injection every 4 weeks in addition to their baseline level of H1 antihistamine therapy for 24 or 12 weeks, followed by a 16-week washout observation period.
 A total of 640 patients (165 males, 475 females) were included for the efficacy analyses.
 Most patients were white (84%) and the median age was 42 years (range 12–72).
@@ -214,14 +214,14 @@ Disease severity was measured by a weekly urticaria activity score (UAS7, range 
 All patients were required to have a UAS7 of ≥16, and a weekly itch severity score of ≥8 for the 7 days prior to randomization, despite having used an H1 antihistamine for at least 2 weeks.
 
 The mean weekly itch severity scores at baseline were fairly balanced across treatment groups and ranged between 13.7 and 14.5 despite use of an H1 antihistamine at an approved dose.
-The reported median durations of CIU at enrollment across treatment groups were between 2.5 and 3.9 years (with an overall subject-level range of 0.5 to 66.4 years).
+The reported median durations of CSU at enrollment across treatment groups were between 2.5 and 3.9 years (with an overall subject-level range of 0.5 to 66.4 years).
 
-In both CIU Trials 1 and 2, patients who received XOLAIR 150 mg or 300 mg had greater decreases from baseline in weekly itch severity scores and weekly hive count scores than placebo at Week 12.
-Representative results from CIU Trial 1 are shown (Table 14); similar results were observed in CIU Trial 2.
+In both CSU Trials 1 and 2, patients who received XOLAIR 150 mg or 300 mg had greater decreases from baseline in weekly itch severity scores and weekly hive count scores than placebo at Week 12.
+Representative results from CSU Trial 1 are shown (Table 14); similar results were observed in CSU Trial 2.
 The 75-mg dose did not demonstrate consistent evidence of efficacy and is not approved for use.
 
 Table 14.
-Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CIU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
+Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CSU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
 
 |  | XOLAIR 75mg | XOLAIR 150mg | XOLAIR 300mg | Placebo |
 | --- | --- | --- | --- | --- |
@@ -238,8 +238,8 @@ Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Co
 | 95% CI for difference | −4.95, −0.54 | −5.57, −1.32 | −9.10, −4.76 | - |
 
 The mean weekly itch severity score at each study week by treatment groups is shown in Figure 2.
-Representative results from CIU Trial 1 are shown; similar results were observed in CIU Trial 2.
-The appropriate duration of therapy for CIU with XOLAIR has not been determined.
+Representative results from CSU Trial 1 are shown; similar results were observed in CSU Trial 2.
+The appropriate duration of therapy for CSU with XOLAIR has not been determined.
 
-In CIU Trial 1, a larger proportion of patients treated with XOLAIR 300 mg (36%) reported no itch and no hives (UAS7=0) at Week 12 compared to patients treated with XOLAIR 150 mg (15%), XOLAIR 75 mg (12%), and placebo group (9%).
-Similar results were observed in CIU Trial 2.
+In CSU Trial 1, a larger proportion of patients treated with XOLAIR 300 mg (36%) reported no itch and no hives (UAS7=0) at Week 12 compared to patients treated with XOLAIR 150 mg (15%), XOLAIR 75 mg (12%), and placebo group (9%).
+Similar results were observed in CSU Trial 2.
