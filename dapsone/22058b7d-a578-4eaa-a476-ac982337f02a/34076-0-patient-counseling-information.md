@@ -17,7 +17,7 @@ Important Administration Instructions
 
 Distributed by: Almirall, LLC.
 
-Exton, PA 19341
+101 Lindenwood Drive, Suite 400, Malvern, PA 19355
 
 © 2019 Almirall, LLC.
 All rights reserved.
