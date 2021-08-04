@@ -1,5 +1,6 @@
-Revised October 2019
+Revised April 2021
 
 ALMIRALL, LLC
 
-® Marks owned by Almirall, LLC Manufactured by: Almirall, LLC Exton, PA 19341, U.S.A. Made in Germany
+® Marks owned by Almirall, LLC Manufactured by: Almirall, LLC 101 Lindenwood Drive, Suite 400, Malvern, PA.
+19355, U.S.A. Made in Germany

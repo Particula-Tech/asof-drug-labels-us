@@ -11,7 +11,7 @@ Fluorouracil
 
 Chemical Name: 2,4(1H,3H)-Pyrimidinedione, 5-fluoro-.
 
-FLUOROPLEX® 1% Topical Cream contains:
+FLUOROPLEX 1% Topical Cream contains:
 
 Active Ingredient: fluorouracil 1.0%
 

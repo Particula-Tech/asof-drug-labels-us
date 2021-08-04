@@ -5,7 +5,7 @@ Patch testing to prove hypersensitivity may be inconclusive1.
 
 If an occlusive dressing is used, there may be an increase in the incidence of inflammatory reactions in the adjacent normal skin.
 
-The patient should avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment with FLUOROPLEX® Cream, as the intensity of the reaction may be increased.
+The patient should avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment with FLUOROPLEX Cream, as the intensity of the reaction may be increased.
 
 # PRECAUTIONS
 
@@ -13,8 +13,13 @@ General: There is a possibility of increased absorption through ulcerated or inf
 
 Information for patients: The medication should be applied with care near the eyes, nose, and mouth.
 Excessive reaction in these areas may occur due to irritation from accumulation of drug.
-FLUOROPLEX® Cream is applied with the fingers, and the hands should be washed immediately afterward.
-The reaction to FLUOROPLEX® Cream in treated areas may be unsightly during therapy, and, in some cases, for several weeks following cessation of therapy.
+FLUOROPLEX Cream is applied with the fingers, and the hands should be washed immediately afterward.
+The reaction to FLUOROPLEX Cream in treated areas may be unsightly during therapy, and, in some cases, for several weeks following cessation of therapy.
+
+Fluorouracil, including FLUOROPLEX Cream may be fatal if ingested by pets.
+Avoid allowing pets to contact the FLUOROPLEX Cream container or the skin where FLUOROPLEX Cream has been applied.
+Store FLUOROPLEX Cream out of reach of pets.
+Safely discard or clean any cloth or applicator that may retain FLUOROPLEX Cream and avoid leaving any residues of FLUOROPLEX Cream on your hands, clothing, carpeting or furniture.
 
 Laboratory Tests: To rule out the presence of a frank neoplasm, a biopsy should be made of those areas failing to respond to treatment or recurring after treatment.
 
