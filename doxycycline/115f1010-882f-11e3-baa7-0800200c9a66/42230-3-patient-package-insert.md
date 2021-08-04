@@ -24,7 +24,8 @@ How to break your ACTICLATE tablet:
 - Apply enough pressure to break the tablet at the scored line.
 - Do not break the ACTICLATE tablet in any other way.
 
-Manufactured for Almirall, LLC, Exton, PA 19341
+Manufactured for Almirall, LLC, 101 Lindenwood Drive, Suite 400, Malvern, PA.
+19355
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Revised: 12/2019 Rx only
