@@ -48,14 +48,33 @@ Venlafaxine tablets may:
 
 4.
 Enlarged pupils (mydriasis).
+
 5.
-Anxiety and insomnia.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including venlafaxine tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with venlafaxine tablets.
+There may be treatments your healthcare provider can suggest.
+
 6.
+Anxiety and insomnia.
+7.
 Changes in appetite or weight.
 
 - children and adolescents should have height and weight monitored during treatment
 
-7.
+8.
 Manic/hypomanic episodes:
 
 - greatly increased energy
@@ -66,7 +85,7 @@ Manic/hypomanic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -75,13 +94,13 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-9.
-Seizures or convulsions.
 10.
-Abnormal bleeding: Venlafaxine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Seizures or convulsions.
 11.
-Elevated cholesterol.
+Abnormal bleeding: Venlafaxine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 12.
+Elevated cholesterol.
+13.
 Lung disease and pneumonia: Venlafaxine tablets may cause rare lung problems.
 Symptoms include:
 
@@ -89,14 +108,14 @@ Symptoms include:
 - cough
 - chest discomfort
 
-13.
+14.
 Severe allergic reactions:
 
 - trouble breathing
 - swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-14.
+15.
 Visual problems.
 
 - eye pain
@@ -268,4 +287,4 @@ Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 03/2019
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2021

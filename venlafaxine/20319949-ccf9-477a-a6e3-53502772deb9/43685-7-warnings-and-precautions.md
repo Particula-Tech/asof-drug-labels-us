@@ -89,6 +89,16 @@ Pre-existing hypertension should be controlled before treatment with venlafaxine
 It is recommended that patients receiving venlafaxine have regular monitoring of blood pressure.
 For patients who experience a sustained increase in blood pressure while receiving venlafaxine, either dose reduction or discontinuation should be considered.
 
+## Sexual Dysfunction
+
+Use of SNRIs, including venlafaxine tablets, may cause symptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of venlafaxine tablets and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -194,7 +204,7 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 
 ### Serum Cholesterol Elevation
 
-Clinically relevant increases in serum cholesterol were recorded in 5.3% of venlafaxine-treated patients and 0% of placebo-treated patients treated for at least 3 months in placebo-controlled trials (see ADVERSE REACTIONS–Laboratory Changes).
+Clinically relevant increases in serum cholesterol were recorded in 5.3% of venlafaxine-treated patients and 0% of placebo-treated patients treated for at least 3 months in placebo-controlled trials (see ADVERSE REACTIONS- Laboratory Changes).
 Measurement of serum cholesterol levels should be considered during long-term treatment.
 
 ### Interstitial Lung Disease and Eosinophilic Pneumonia
@@ -248,6 +258,11 @@ Patients should be advised that taking venlafaxine tablets can cause mild pupill
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
+### Sexual Dysfunction
+
+Advise patients that use of venlafaxine tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
 
 ### Pregnancy
 
@@ -454,7 +469,7 @@ This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associate
 
 ### Teratogenic Effects
 
-Pregnancy Category C Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 11 times (rat) or 12 times (rabbit) the maximum recommended human daily dose on a mg/kg basis, or 2.5 times (rat) and 4 times (rabbit) the human daily dose on a mg/m2 basis.
+Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 11 times (rat) or 12 times (rabbit) the maximum recommended human daily dose on a mg/kg basis, or 2.5 times (rat) and 4 times (rabbit) the human daily dose on a mg/m2 basis.
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.
 The cause of these deaths is not known.
 These effects occurred at 10 times (mg/kg) or 2.5 times (mg/m2) the maximum human daily dose.

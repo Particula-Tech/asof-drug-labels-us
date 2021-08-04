@@ -27,4 +27,4 @@ Dispense with medication guide available at: http://www.risingpharma.com/med-gui
 
 Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993
 
-Revised: 03/2019
+Revised: 07/2021
