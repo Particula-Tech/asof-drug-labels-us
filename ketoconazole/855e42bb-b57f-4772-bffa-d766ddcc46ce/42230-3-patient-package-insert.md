@@ -94,10 +94,10 @@ This Patient Information leaflet has been approved by the U.S. Food and Drug Adm
 
 The Patient Information leaflet was last revised: May 2012.
 
-Manufactured for Almirall, LLC Exton, PA 19341
+Manufactured for Almirall, LLC 101 Lindenwood Drive, Suite 400, Malvern, PA 19355
 
 Revised 12/2019 XOLEGEL is a registered trademark of Almirall, LLC.
 
-© 2019 Almirall.
+© 2019 Almirall, LLC
 
-almirall
+Almirall, LLC
