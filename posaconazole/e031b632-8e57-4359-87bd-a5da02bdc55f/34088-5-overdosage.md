@@ -2,8 +2,8 @@
 
 There is no experience with overdosage of Posaconazole delayed-release tablets.
 
-During the clinical trials, some patients received Posaconazole oral suspension up to 1600 mg/day with no adverse reactions noted that were different from the lower doses.
-In addition, accidental overdose was noted in one patient who took 1200 mg twice daily Posaconazole oral suspension for 3 days.
+During the clinical trials, some patients received Noxafil oral suspension up to 1600 mg/day with no adverse reactions noted that were different from the lower doses.
+In addition, accidental overdose was noted in one patient who took 1200 mg twice daily Noxafil oral suspension for 3 days.
 No related adverse reactions were noted by the investigator.
 
 Posaconazole is not removed by hemodialysis.

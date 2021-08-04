@@ -4,7 +4,7 @@
 
 Delayed-Release Tablets
 
-Posaconazole delayed-release tablets are available as yellow, coated, oblong, debossed with "100" on one side containing 100 mg of Posaconazole.
+Posaconazole delayed-release tablets are available as yellow, coated, oblong, debossed with "100" on one side containing 100 mg of posaconazole.
 Bottles with child-resistant closures of 60 delayed-release tablets (NDC 0254-2045-02).
 
 ## 16.2 Storage and Handling

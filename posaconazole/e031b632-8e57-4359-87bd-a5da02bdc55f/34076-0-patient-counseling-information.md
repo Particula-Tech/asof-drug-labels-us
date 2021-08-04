@@ -6,8 +6,6 @@ Important Administration Instructions
 
 Posaconazole Delayed-Release Tablets
 
-Advise patients to take Posaconazole delayed-release tablets with food.
-
 Advise patients that Posaconazole delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
 
 Instruct patients that if they miss a dose, they should take it as soon as they remember.
@@ -21,7 +19,7 @@ Advise patients to inform their physician immediately if they:
 - develop severe diarrhea or vomiting.
 - are currently taking drugs that are known to prolong the QTc interval and are metabolized through CYP3A4.
 - are currently taking a cyclosporine or tacrolimus, or they notice swelling in an arm or leg or shortness of breath.
-- are taking other drugs or before they begin taking other drugs as certain drugs can decrease or increase the plasma concentrations of Posaconazole.
+- are taking other drugs or before they begin taking other drugs as certain drugs can decrease or increase the plasma concentrations of posaconazole.
 
 Serious and Potentially Serious Adverse Reactions
 
