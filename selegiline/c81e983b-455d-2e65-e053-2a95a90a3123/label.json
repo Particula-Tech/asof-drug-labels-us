@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074672"
+  ],
+  "inn": "selegiline",
+  "labeler": "i3 Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "72319-006-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "selegiline hydrochloride",
+      "name": "Selegiline Hydrochloride"
+    }
+  ],
+  "setid": "c81e983b-455d-2e65-e053-2a95a90a3123",
+  "source": "dailymed"
+}
