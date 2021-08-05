@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.3 Acute Treatment of Agitation in Schizophrenia
+## 2.4 Acute Treatment of Agitation in Schizophrenia
 
 Intramuscular Dosing The recommended dose is 10 mg to 20 mg administered as required up to a maximum dose of 40 mg per day.
 Doses of 10 mg may be administered every two hours; doses of 20 mg may be administered every four hours up to a maximum of 40 mg/day.
