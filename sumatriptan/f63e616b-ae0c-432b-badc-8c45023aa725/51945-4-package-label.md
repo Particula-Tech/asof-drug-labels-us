@@ -12,7 +12,7 @@ PRASCO
 
 For Intranasal Use Only
 
-Each unit does nasal spray contains 5 mg of sumatriptan.
+Each unit dose nasal spray contains 5 mg of sumatriptan.
 
 1 Spray per unit.
 
@@ -24,12 +24,12 @@ Rx Only
 
 5 mg
 
-Made in Spain
+Made in India
 
 Rev.
-8/19
+11/19
 
-62000000042297
+62000000045655
 
 Principal Display Panel
 
@@ -45,7 +45,7 @@ PRASCO
 
 For Intranasal Use Only
 
-Each unit does nasal spray contains 20 mg of sumatriptan.
+Each unit dose nasal spray contains 20 mg of sumatriptan.
 
 1 Spray per unit.
 
@@ -57,9 +57,9 @@ Rx Only
 
 20 mg
 
-Made in Spain
+Made in India
 
 Rev.
-8/19
+11/19
 
-62000000042293
+62000000045654
