@@ -8,7 +8,7 @@ Instruct patients to take pramipexole dihydrochloride tablets only as prescribed
 If a dose is missed, advise patients not to double their next dose.
 
 Pramipexole dihydrochloride tablets can be taken with or without food.
-If patients develop nausea, advised that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
+If patients develop nausea, advise that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
 
 Pramipexole is the active ingredient that is in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
 Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride tablets.
@@ -20,6 +20,12 @@ Since somnolence is a frequent adverse reaction with potentially serious consequ
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
 Because of possible additive effects, advise caution when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
 
+Postural (Orthostatic) Hypotension
+
+Advise patients that they may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting or blackouts, and sometimes, sweating.
+Hypotension may occur more frequently during initial therapy.
+Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with pramipexole dihydrochloride tablets [see Warnings and Precautions (5.2)].
+
 Impulse Control Symptoms Including Compulsive Behaviors
 
 Alert patients and their caregivers to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking pramipexole dihydrochloride tablets.
@@ -30,11 +36,15 @@ Hallucinations and Psychotic-like Behavior
 Inform patients that hallucinations and other psychotic-like behavior can occur.
 In patients with Parkinson's disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
-Postural (Orthostatic) Hypotension
+Withdrawal-Emergent Hyperpyrexia and Confusion
 
-Advise patients that they may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting or blackouts, and sometimes, sweating.
-Hypotension may occur more frequently during initial therapy.
-Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with pramipexole dihydrochloride tablets [see Warnings and Precautions (5.2)].
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have symptoms such as fever, muscular rigidity, or altered consciousness [see Warnings and Precautions(5.10)].
+
+Withdrawal Symptoms
+
+Advise patients that withdrawal symptoms may occur during or after discontinuation or dose reduction of pramipexole dihydrochloride.
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as apathy, anxiety, depression, fatigue, insomnia, sweating, or pain.
+Notify patients that in case of severe withdrawal symptoms, a trial re- administration of a dopamine agonist at the lowest effective dose may be considered [see Warnings and Precautions (5.11)].
 
 Pregnancy
 
@@ -48,13 +58,11 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-.
-
 Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8078620 Revised April 2020
+8083106 Revised July 2021
 
 PATIENT INFORMATION
 
@@ -128,16 +136,9 @@ How should I take pramipexole dihydrochloride tablets?
 - If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, do not double your next dose.
   Skip the dose you missed and take your next regular dose.
-- If you have Parkinson's disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
-  If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as:
-
-• fever
-
-• confusion
-
-• severe muscle stiffness
-
-Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
+- Do not stop taking pramipexole dihydrochloride without talking to your doctor first.
+  If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride.
+  If you stop pramipexole dihydrochloride tabletsyou may have withdrawal symptoms (see “withdrawal symptoms” under “ What are the possible side effects of pramipexole dihydrochloride?”).
 
 What should I avoid while taking pramipexole dihydrochloride tablets?
 
@@ -191,6 +192,15 @@ If you have new dyskinesia or your existing dyskinesia gets worse tell your doct
 • posture changes.
 Talk with your doctor if you have posture changes you cannot control.
 These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+
+- withdrawal symptoms.
+  Pramipexole dihydrochloride is a dopamine agonist medicine.
+  Dopamine agonist medicines, including pramipexole dihydrochloride, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:
+
+• fever • confusion • severe muscle stiffness • feeling like you do not care about things you usually care about (apathy) • anxiety • depression • fatigue • insomnia • sweating • pain
+
+After you have stopped taking pramipexole dihydrochloride, your doctor may need to restart you at a low dose of pramipexole dihydrochloride if you get severe withdrawal symptoms.
 
 The most common side effects in people taking pramipexole dihydrochloride tablet for Restless Legs Syndrome are nausea and headache.
 
@@ -251,4 +261,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8078620 Revised: April 2020
+8083106 Revised: July 2021

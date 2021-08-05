@@ -10,7 +10,8 @@ The following adverse reactions are discussed in greater detail in other section
 - Postural Deformity [see Warnings and Precautions (5.6)].
 - Rhabdomyolysis [see Warnings and Precautions (5.8)].
 - Retinal Pathology [see Warnings and Precautions (5.9)].
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)].
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)
+- ﻿Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -203,7 +204,7 @@ Laboratory Tests
 
 During the development of pramipexole dihydrochloride tablets, no systematic abnormalities on routine laboratory testing were noted.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -212,6 +213,8 @@ Decisions to include these reactions in labeling are typically based on one or m
 Cardiac Disorders: cardiac failure
 
 Gastrointestinal Disorders: vomiting
+
+General Disorders and Administration Site Conditions:withdrawal symptoms[see Warnings and Precautions (5.11)]
 
 Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
 

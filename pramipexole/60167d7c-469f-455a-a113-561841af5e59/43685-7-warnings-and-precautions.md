@@ -7,7 +7,7 @@ Although many of these patients reported somnolence while on pramipexole dihydro
 Some of these events had been reported as late as one year after the initiation of treatment.
 
 Somnolence is a common occurrence in patients receiving pramipexole at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson's disease.
-In controlled clinical trials in RLS, patients treated with pramipexole dihydrochloride tablets at doses of 0.25 to 0.75 mg once a day, the incidence of somnolence was 6% compared to an incidence of 3% for placebo-treated patients [see Adverse Reactions (6.1)].It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of pre-existing somnolence, although patients may not give such a history.
+In controlled clinical trials in RLS, patients treated with pramipexole dihydrochloride tablets at doses of 0.25 to 0.75 mg once a day, the incidence of somnolence was 6% compared to an incidence of 3% for placebo-treated patients [see Adverse Reactions (6.1)].It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of preexisting somnolence, although patients may not give such a history.
 For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
@@ -40,13 +40,9 @@ Physicians should consider dose reduction or stopping the medication if a patien
 
 In the three double-blind, placebo-controlled trials in early Parkinson's disease, hallucinations were observed in 9% (35 of 388) of patients receiving pramipexole dihydrochloride tablets, compared with 2.6% (6 of 235) of patients receiving placebo.
 In the four double-blind, placebo-controlled trials in advanced Parkinson's disease, where patients received pramipexole dihydrochloride tablets and concomitant levodopa, hallucinations were observed in 16.5% (43 of 260) of patients receiving pramipexole dihydrochloride tablets compared with 3.8% (10 of 264) of patients receiving placebo.
-Hallucinations were of sufficient severity to cause discontinuation of treatment in 3.1% of the early Parkinson's disease patients and 2.7% of the advanced Parkinson's disease patients compared with about 0.4% of placebo patients in both populations.In the three double-blind, placebo-controlled trials in early Parkinson's disease, hallucinations were observed in 9% (35 of 388) of patients receiving pramipexole dihydrochloride tablets, compared with 2.6% (6 of 235) of patients receiving placebo.
-In the four double-blind, placebo-controlled trials in advanced Parkinson's disease, where patients received pramipexole dihydrochloride tablets and concomitant levodopa, hallucinations were observed in 16.5% (43 of 260) of patients receiving pramipexole dihydrochloride tablets compared with 3.8% (10 of 264) of patients receiving placebo.
 Hallucinations were of sufficient severity to cause discontinuation of treatment in 3.1% of the early Parkinson's disease patients and 2.7% of the advanced Parkinson's disease patients compared with about 0.4% of placebo patients in both populations.
 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
-In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
-In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.Age appears to increase the risk of hallucinations attributable to pramipexole.
 In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
 In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.
 
@@ -55,13 +51,11 @@ Other drugs prescribed to improve the symptoms of Parkinson's disease or RLS can
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, symptoms of mania (e.g., insomnia, psychomotor agitation), disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride, because of the risk of exacerbating the psychosis.
-In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of pramipexole dihydrochloride [].
-Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride, because of the risk of exacerbating the psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of pramipexole dihydrochloride [see Drug Interactions (7.1)].
 
-In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
+In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
 
-ed treatment and the symptoms resolved.ed treatment and the symptoms resolved.
+ed treatment and the symptoms resolved.
 
 ## 5.5 Dyskinesia
 
@@ -120,13 +114,13 @@ While these complications may resolve when the drug is discontinued, complete re
 
 Although these adverse events are believed to be related to the ergoline structure of these compounds, whether other, nonergot-derived dopamine agonists can cause them is unknown.
 
-Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the post marketing experience with pramipexole dihydrochloride tablets.
+Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the postmarketing experience with pramipexole dihydrochloride tablets.
 While the evidence is not sufficient to establish a causal relationship between pramipexole dihydrochloride tablets and these fibrotic complications, a contribution of pramipexole dihydrochloride tablets cannot be completely ruled out.
 
 Rebound and Augmentation in RLS
 
 Reports in the literature indicate treatment of RLS with dopaminergic medications can result in rebound: a worsening of symptoms following treatment cessation with greater intensity than described before starting treatment.
-In a 26 week placebo controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from pramipexole dihydrochloride (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
+In a 26 week placebo-controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from pramipexole dihydrochloride (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
 The worsening of RLS symptoms was considered generally mild.
 
 Augmentation has also been described during therapy for RLS.
@@ -135,3 +129,11 @@ In a 26 week placebo controlled clinical trial in patients with RLS, augmentatio
 The incidence of augmentation increased with increasing duration of exposure to pramipexole dihydrochloride and to placebo.
 
 The frequency and severity of augmentation and/or rebound after longer-term use of pramipexole dihydrochloride tablets and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.
+
+## 5.11 Withdrawal Symptoms
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including pramipexole dihydrochloride.
+These symptoms generally do not respond to levodopa.
+
+Prior to discontinuation of pramipexole dihydrochloride, patients should be informed about potential withdrawal symptoms, and monitored during and after discontinuation.
+In case of severe withdrawal symptoms, a trial re-administration of a dopamine agonist at the lowest effective dose may be considered.

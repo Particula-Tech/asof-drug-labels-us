@@ -8,7 +8,7 @@ There are no adequate data on the developmental risk associated with the use of 
 No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy.
 Effects on embryofetal development could not be adequately assessed in pregnant rats; however, postnatal growth was inhibited at clinically relevant exposures [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data
