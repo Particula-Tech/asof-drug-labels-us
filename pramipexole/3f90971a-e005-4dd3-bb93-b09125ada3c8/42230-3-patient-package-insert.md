@@ -19,20 +19,21 @@ It is not known if pramipexole dihydrochloride tablets are safe and effective in
 
 What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
-- Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
-  - feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
-  - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
-  - have trouble controlling your muscles (dyskinesia)
-  - have kidney problems
-  - drink alcohol.
-    Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake.
-  - have any other medical conditions
-  - are pregnant or plan to become pregnant.
-    It is not known if pramipexole dihydrochloride tablets will harm your unborn baby.
-  - are breastfeeding or plan to breastfeed.
-    It is not known if pramipexole dihydrochloride passes into your breast milk.
-    You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
-    You should not do both.
+Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
+
+- feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
+- have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
+- have trouble controlling your muscles (dyskinesia)
+- have kidney problems
+- drink alcohol.
+  Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake.
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if pramipexole dihydrochloride tablets will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if pramipexole dihydrochloride passes into your breast milk.
+  You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
+  You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -64,13 +65,9 @@ How should I take pramipexole dihydrochloride tablets?
 - If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, do not double your next dose.
   Skip the dose you missed and take your next regular dose.
-- If you have Parkinson’s disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
-  If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as:
-  - fever
-  - confusion
-  - severe muscle stiffness
-
-Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
+- Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor first.
+  If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride tablets.
+  If you stop pramipexole dihydrochloride tablets you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride tablets?”).
 
 What should I avoid while taking pramipexole dihydrochloride tablets?
 
@@ -118,7 +115,22 @@ If you have new dyskinesia or your existing dyskinesia gets worse tell your doct
 - posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+- withdrawal symptoms.
+  Pramipexole dihydrochloride tablets is a dopamine agonist medicine.
+  Dopamine agonist medicines, including pramipexole dihydrochloride tablets, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride tablets is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:
+  - fever
+  - confusion
+  - severe muscle stiffness
+  - feeling like you do not care about things you usually care about (apathy)
+  - anxiety
+  - depression
+  - fatigue
+  - insomnia
+  - sweating
+  - pain
 
+After you have stopped taking pramipexole dihydrochloride tablets, your doctor may need to restart you at a low dose of pramipexole dihydrochloride tablets if you get severe withdrawal symptoms.
 The most common side effects in people taking pramipexole dihydrochloride tablets for Restless Legs Syndrome are nausea and headache.
 
 The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson’s disease are:
@@ -168,4 +180,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2021
