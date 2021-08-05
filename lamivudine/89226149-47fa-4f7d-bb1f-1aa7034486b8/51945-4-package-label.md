@@ -26,18 +26,14 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in Canada
 
-Trademark owned or licensed by ViiV Healthcare.
+Trademark owned or licensed by ViiV Healthcare group of companies
 
-1. 10000000149606 Rev.
-   9/18
+©2020 ViiV Healthcare group of companies or its licensor.
+
+1. 62000000057908 Rev.
+   11/20
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -68,18 +64,14 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in Canada
 
-Trademark owned or licensed by ViiV Healthcare.
+Trademark owned or licensed by ViiV Healthcare group of companies
 
-1. 10000000149607 Rev.
-   8/18
+©2020 ViiV Healthcare group of companies or its licensor.
+
+1. 62000000057948 Rev.
+   11/20
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -104,8 +96,8 @@ Made in Canada
 
 Do not use if shrinkband on bottle is broken or missing.
 
-- ©2018 ViiV Healthcare group of companies or its licensor.
+- ©2020 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000025189 Rev.
-   06/18
+1. 62000000057201 Rev.
+   10/20
 2. 
