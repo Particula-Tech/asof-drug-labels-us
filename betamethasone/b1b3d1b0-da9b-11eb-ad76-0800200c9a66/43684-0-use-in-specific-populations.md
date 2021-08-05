@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
 There are no available data on SERNIVO Spray use in pregnant women to evaluate a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
 Observational studies suggest an increased risk of low birthweight infants with the use of greater than 300 grams of potent or very potent topical corticosteroid during a pregnancy.
@@ -39,13 +37,7 @@ Advise breastfeeding women not to apply SERNIVO Spray directly to the nipple and
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SERNIVO Spray in patients younger than 18 years of age have not been established for the treatment of mild to moderate plaque psoriasis.
-
-In a clinical safety study to evaluate HPA axis suppression, three subjects aged 12 to 18 years were enrolled.
-Sernivo Spray was applied twice daily to affected areas (20% BSA for each subject upon enrollment).
-Mild HPA axis suppression was reported in two subjects, requiring no corrective action.
-
-Use in pediatric patients is not recommended.
+Safety and effectiveness of SERNIVO Spray in patients younger than 18 years of age have not been studied, therefore use in pediatric patients is not recommended.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at greater risk of systemic toxicity, including HPA axis suppression and adrenal insufficiency, when treated with topical drugs.
 [see Warnings and Precautions (5.1)]
 

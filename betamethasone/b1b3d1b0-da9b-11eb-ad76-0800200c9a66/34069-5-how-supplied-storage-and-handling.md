@@ -5,7 +5,8 @@
 SERNIVO Spray is a slightly thickened, white to off-white, non-sterile emulsion supplied in high density polyethylene bottles with a heat induction seal lined polypropylene cap.
 The drug is supplied in the following volumes:
 
-- 120 mL (NDC 68040-714-28)
+- 60 mL (NDC 67857-808-17)
+- 120 mL (NDC 67857-808-04)
 
 Store at controlled room temperature of 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 

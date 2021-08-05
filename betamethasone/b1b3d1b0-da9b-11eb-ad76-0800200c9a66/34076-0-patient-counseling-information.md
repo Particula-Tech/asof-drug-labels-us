@@ -15,10 +15,10 @@ Inform patients of the following:
 
 Manufactured by: DPT Laboratories, Ltd., San Antonio, TX 78215
 
-Distributed by: Primus Pharmaceuticals, Inc. Scottsdale, AZ 85253
+For Encore Dermatology, Inc. Scottsdale, AZ 85254
 
-Sernivo is a registered trademark of Primus Pharmaceuticals, Inc.
+Sernivo is a registered trademark of Encore Dermatology, Inc.
 
-Revised: 2021-06
+Revised: 2021-04
 
-22519-01
+Product Insert Item Number SER1325 03/20
