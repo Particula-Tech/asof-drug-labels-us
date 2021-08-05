@@ -35,12 +35,6 @@ B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA API from Spain LD-305-4 Y94-0
 
 EXP LOT
 
-# PRINCIPAL DISPLAY PANEL - 500 mL overwrap
-
-HEPARIN 20,000 USP units per 500 mL (40 USP units per mL)
-
-LD-421-1 Y94-003-168
-
 # PRINCIPAL DISPLAY PANEL - 500 mL container
 
 HEPARIN SODIUM 25,000 USP units per 500 mL (50 USP units per mL) in 5% Dextrose Injection
@@ -78,12 +72,6 @@ Y94-003-380 LD-307-5
 
 EXP LOT
 
-# PRINCIPAL DISPLAY PANEL - 500 mL overwrap
-
-HEPARIN SODIUM 25,000 USP units per 500 mL (50 USP units per mL) in 5% Dextrose Injection
-
-LD-422-4 Y94-003-377
-
 # PRINCIPAL DISPLAY PANEL - 250 mL container
 
 HEPARIN SODIUM 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection
@@ -116,9 +104,3 @@ REF P5872 Rx only B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA API from Sp
 Y94-003-381 LD-309-6
 
 EXP LOT
-
-# PRINCIPAL DISPLAY PANEL - 250 mL overwrap
-
-HEPARIN SODIUM 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection
-
-LD-423-4 Y94-003-378
