@@ -729,16 +729,6 @@ Tumor assessments were conducted every 6 weeks for 48 weeks and then every 12 we
 The major efficacy outcome measure was confirmed overall response rate as assessed by BICR using RECIST v1.1 and modified RECIST (mRECIST) for HCC.
 Duration of response was also assessed.
 
-The efficacy of OPDIVO as a single agent was evaluated in a pooled subgroup of 154 patients across Cohorts 1 and 2 who received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks until disease progression or unacceptable toxicity.
-The median age was 63 years (range: 19 to 81), 77% were male, and 46% were White.
-Baseline ECOG performance status was 0 (65%) or 1 (35%).
-Thirty-one percent (31%) of patients had active HBV infection, 21% had active HCV infection, and 49% had no evidence of active HBV or HCV.
-The etiology for HCC was alcoholic liver disease in 18% and non-alcoholic fatty liver disease in 6.5% of patients.
-Child-Pugh class and score was A5 for 68%, A6 for 31%, and B7 for 1% of patients.
-Seventy-one percent (71%) of patients had extrahepatic spread, 29% had macrovascular invasion, and 37% had alfa-fetoprotein (AFP) levels ≥400 µg/L.
-Prior treatment history included surgical resection (66%), radiotherapy (24%), or locoregional treatment (58%).
-All patients had received prior sorafenib, of whom 36 (23%) were unable to tolerate sorafenib; 19% of patients had received 2 or more prior systemic therapies.
-
 The efficacy of OPDIVO in combination with ipilimumab was evaluated in 49 patients (Cohort 4) who received OPDIVO 1 mg/kg and ipilimumab 3 mg/kg administered every 3 weeks for 4 doses, followed by single-agent OPDIVO at 240 mg every 2 weeks until disease progression or unacceptable toxicity.
 The median age was 60 years (range: 18 to 80), 88% were male, 74% were Asian, and 25% were White.
 Baseline ECOG performance status was 0 (61%) or 1 (39%).
@@ -749,28 +739,26 @@ Prior cancer treatment history included surgery (74%), radiotherapy (29%), or lo
 All patients had received prior sorafenib, of whom 10% were unable to tolerate sorafenib; 29% of patients had received 2 or more prior systemic therapies.
 
 Efficacy results are shown in Table 57.
-Based on the design of this study, the data below cannot be used to identify statistically significant differences in efficacy between cohorts.
-The results for OPDIVO in Cohorts 1 and 2 are based on a minimum follow-up of approximately 27 months.
 The results for OPDIVO in combination with ipilimumab in Cohort 4 are based on a minimum follow-up of 28 months.
 
-Table 57: Efficacy Results - Cohorts 1, 2, and 4 of CHECKMATE-040
+Table 57: Efficacy Results - Cohort 4 of CHECKMATE-040
 
-|  | OPDIVO and Ipilimumab (Cohort 4) (n=49) | OPDIVO (Cohorts 1 and 2) (n=154) |
-| --- | --- | --- |
-| Overall Response Rate per BICR,a n (%), RECIST v1.1 | 16 (33%) | 22 (14%) |
-| (95% CI)b | (20, 48) | (9, 21) |
-| Complete response | 4 (8%) | 3 (2%) |
-| Partial response | 12 (24%) | 19 (12%) |
-| Duration of Response per BICR,a RECIST v1.1 | n=16 | n=22 |
-| Range (months) | 4.6, 30.5+ | 3.2, 51.1+ |
-| Percent with duration ≥6 months | 88% | 91% |
-| Percent with duration ≥12 months | 56% | 59% |
-| Percent with duration ≥24 months | 31% | 32% |
-| Overall Response Rate per BICR,a n (%), mRECIST | 17 (35%) | 28 (18%) |
-| (95% CI)b | (22, 50) | (12, 25) |
-| Complete response | 6 (12%) | 7 (5%) |
-| Partial response | 11 (22%) | 21 (14%) |
-| a Confirmed by BICR. b Confidence interval is based on the Clopper and Pearson method. |  |  |
+|  | OPDIVO and Ipilimumab (Cohort 4) (n=49) |
+| --- | --- |
+| Overall Response Rate per BICR,a n (%), RECIST v1.1 | 16 (33%) |
+| (95% CI)b | (20, 48) |
+| Complete response | 4 (8%) |
+| Partial response | 12 (24%) |
+| Duration of Response per BICR,a RECIST v1.1 | n=16 |
+| Range (months) | 4.6, 30.5+ |
+| Percent with duration ≥6 months | 88% |
+| Percent with duration ≥12 months | 56% |
+| Percent with duration ≥24 months | 31% |
+| Overall Response Rate per BICR,a n (%), mRECIST | 17 (35%) |
+| (95% CI)b | (22, 50) |
+| Complete response | 6 (12%) |
+| Partial response | 11 (22%) |
+| a Confirmed by BICR. b Confidence interval is based on the Clopper and Pearson method. |  |
 
 ## 14.11 Esophageal Cancer
 

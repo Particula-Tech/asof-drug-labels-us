@@ -1100,18 +1100,7 @@ Table 32: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 
 ### Hepatocellular Carcinoma
 
-The safety of OPDIVO 3 mg/kg every 2 weeks as a single agent was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh Class A cirrhosis who progressed on or were intolerant to sorafenib.
-These patients enrolled in Cohorts 1 and 2 of CHECKMATE-040, a multicenter, multiple cohort, open-label trial [see Clinical Studies (14.10)].
-Patients were required to have an AST and ALT ≤5 x ULN and total bilirubin <3 mg/dL.
-The median duration of exposure to OPDIVO was 5 months (range: 0 to 22+ months).
-Serious adverse reactions occurred in 49% of patients.
-The most frequent serious adverse reactions reported in at least 2% of patients were pyrexia, ascites, back pain, general physical health deterioration, abdominal pain, pneumonia, and anemia.
-
-The toxicity profile observed in these patients with advanced HCC was generally similar to that observed in patients with other cancers, with the exception of a higher incidence of elevations in transaminases and bilirubin levels.
-Treatment with OPDIVO resulted in treatment-emergent Grade 3 or 4 AST in 27 (18%) patients, Grade 3 or 4 ALT in 16 (11%) patients, and Grade 3 or 4 bilirubin in 11 (7%) patients.
-Immune-mediated hepatitis requiring systemic corticosteroids occurred in 8 (5%) patients.
-
-The safety of OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg was evaluated in a subgroup comprising 49 patients with HCC and Child-Pugh Class A cirrhosis enrolled in Cohort 4 of the CHECKMATE-040 trial who progressed on or were intolerant to sorafenib.
+The safety of OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg was evaluated in a subgroup comprising 49 patients with HCC and Child-Pugh Class A cirrhosis enrolled in Cohort 4 of CHECKMATE-040, a multicenter, multiple cohort, open-label [see Clinical Studies (14.10)] trial who progressed on or were intolerant to sorafenib.
 OPDIVO and ipilimumab were administered every 3 weeks for 4 doses, followed by single-agent OPDIVO 240 mg every 2 weeks until disease progression or unacceptable toxicity.
 During the OPDIVO and ipilimumab combination period, 33 of 49 (67%) patients received all 4 planned doses of OPDIVO and ipilimumab.
 During the entire treatment period, the median duration of exposure to OPDIVO was 5.1 months (range: 0 to 35+ months) and to ipilimumab was 2.1 months (range: 0 to 4.5 months).
@@ -1122,91 +1111,86 @@ Treatment was discontinued in 29% of patients and delayed in 65% of patients for
 The most frequent serious adverse reactions (reported in ≥4% of patients) were pyrexia, diarrhea, anemia, increased AST, adrenal insufficiency, ascites, esophageal varices hemorrhage, hyponatremia, increased blood bilirubin, and pneumonitis.
 
 Tables 33 and 34 summarize the adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-040.
-Based on the design of the study, the data below cannot be used to identify statistically significant differences between the cohorts summarized below for any adverse reaction.
 
-Table 33: Adverse Reactions Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 or OPDIVO in Cohorts 1 and 2 of CHECKMATE-040
+Table 33: Adverse Reactions Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 of CHECKMATE-040
 
-| Adverse Reaction | OPDIVO and Ipilimumab(n=49) |  | OPDIVO(n=154) |  |
-| --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |
-| Rash | 53 | 8 | 26 | 0.6 |
-| Pruritus | 53 | 4 | 27 | 0.6 |
-| Musculoskeletal and Connective Tissue |  |  |  |  |
-| Musculoskeletal pain | 41 | 2 | 36 | 1.9 |
-| Arthralgia | 10 | 0 | 8 | 0.6 |
-| Gastrointestinal |  |  |  |  |
-| Diarrhea | 39 | 4 | 27 | 1.3 |
-| Abdominal pain | 22 | 6 | 34 | 3.9 |
-| Nausea | 20 | 0 | 16 | 0 |
-| Ascites | 14 | 6 | 9 | 2.6 |
-| Constipation | 14 | 0 | 16 | 0 |
-| Dry mouth | 12 | 0 | 9 | 0 |
-| Dyspepsia | 12 | 2 | 8 | 0 |
-| Vomiting | 12 | 2 | 14 | 0 |
-| Stomatitis | 10 | 0 | 7 | 0 |
-| Abdominal distension | 8 | 0 | 11 | 0 |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |
-| Cough | 37 | 0 | 23 | 0 |
-| Dyspnea | 14 | 0 | 13 | 1.9 |
-| Pneumonitis | 10 | 2 | 1.3 | 0.6 |
-| Metabolism and Nutrition |  |  |  |  |
-| Decreased appetite | 35 | 2 | 22 | 1.3 |
-| General |  |  |  |  |
-| Fatigue | 27 | 2 | 38 | 3.2 |
-| Pyrexia | 27 | 0 | 18 | 0.6 |
-| Malaise | 18 | 2 | 6.5 | 0 |
-| Edema | 16 | 2 | 12 | 0 |
-| Influenza-like illness | 14 | 0 | 9 | 0 |
-| Chills | 10 | 0 | 3.9 | 0 |
-| Nervous System |  |  |  |  |
-| Headache | 22 | 0 | 11 | 0.6 |
-| Dizziness | 20 | 0 | 9 | 0 |
-| Endocrine |  |  |  |  |
-| Hypothyroidism | 20 | 0 | 4.5 | 0 |
-| Adrenal insufficiency | 18 | 4 | 0.6 | 0 |
-| Investigations |  |  |  |  |
-| Weight decreased | 20 | 0 | 7 | 0 |
-| Psychiatric |  |  |  |  |
-| Insomnia | 18 | 0 | 10 | 0 |
-| Blood and Lymphatic System |  |  |  |  |
-| Anemia | 10 | 4 | 19 | 2.6 |
-| Infections |  |  |  |  |
-| Influenza | 10 | 2 | 1.9 | 0 |
-| Upper Respiratory Tract Infection | 6 | 0 | 12 | 0 |
-| Vascular |  |  |  |  |
-| Hypotension | 10 | 0 | 0.6 | 0 |
+| Adverse Reaction | OPDIVO and Ipilimumab(n=49) |  |
+| --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) |  |
+| Skin and Subcutaneous Tissue |  |  |
+| Rash | 53 | 8 |
+| Pruritus | 53 | 4 |
+| Musculoskeletal and Connective Tissue |  |  |
+| Musculoskeletal pain | 41 | 2 |
+| Arthralgia | 10 | 0 |
+| Gastrointestinal |  |  |
+| Diarrhea | 39 | 4 |
+| Abdominal pain | 22 | 6 |
+| Nausea | 20 | 0 |
+| Ascites | 14 | 6 |
+| Constipation | 14 | 0 |
+| Dry mouth | 12 | 0 |
+| Dyspepsia | 12 | 2 |
+| Vomiting | 12 | 2 |
+| Stomatitis | 10 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |
+| Cough | 37 | 0 |
+| Dyspnea | 14 | 0 |
+| Pneumonitis | 10 | 2 |
+| Metabolism and Nutrition |  |  |
+| Decreased appetite | 35 | 2 |
+| General |  |  |
+| Fatigue | 27 | 2 |
+| Pyrexia | 27 | 0 |
+| Malaise | 18 | 2 |
+| Edema | 16 | 2 |
+| Influenza-like illness | 14 | 0 |
+| Chills | 10 | 0 |
+| Nervous System |  |  |
+| Headache | 22 | 0 |
+| Dizziness | 20 | 0 |
+| Endocrine |  |  |
+| Hypothyroidism | 20 | 0 |
+| Adrenal insufficiency | 18 | 4 |
+| Investigations |  |  |
+| Weight decreased | 20 | 0 |
+| Psychiatric |  |  |
+| Insomnia | 18 | 0 |
+| Blood and Lymphatic System |  |  |
+| Anemia | 10 | 4 |
+| Infections |  |  |
+| Influenza | 10 | 2 |
+| Vascular |  |  |
+| Hypotension | 10 | 0 |
 
 Clinically important adverse reactions reported in <10% of patients who received OPDIVO with ipilimumab were hyperglycemia (8%), colitis (4%), and increased blood creatine phosphokinase (2%).
 
-Table 34: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 or OPDIVO as a Single Agent in Cohorts 1 and 2 of CHECKMATE-040
+Table 34: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 of CHECKMATE-040
 
-| Laboratory Abnormality | OPDIVO and Ipilimumab(n=47) |  | OPDIVO* |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 53 | 13 | 59 | 15 |  |  |  |  |  |
-| Anemia | 43 | 4.3 | 49 | 4.6 |  |  |  |  |  |
-| Neutropenia | 43 | 9 | 19 | 1.3 |  |  |  |  |  |
-| Leukopenia | 40 | 2.1 | 26 | 3.3 |  |  |  |  |  |
-| Thrombocytopenia | 34 | 4.3 | 36 | 7 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased AST | 66 | 40 | 58 | 18 |  |  |  |  |  |
-| Increased ALT | 66 | 21 | 48 | 11 |  |  |  |  |  |
-| Increased bilirubin | 55 | 11 | 36 | 7 |  |  |  |  |  |
-| Increased lipase | 51 | 26 | 37 | 14 |  |  |  |  |  |
-| Hyponatremia | 49 | 32 | 40 | 11 |  |  |  |  |  |
-| Hypocalcemia | 47 | 0 | 28 | 0 |  |  |  |  |  |
-| Increased alkaline phosphatase | 40 | 4.3 | 44 | 7 |  |  |  |  |  |
-| Increased amylase | 38 | 15 | 31 | 6 |  |  |  |  |  |
-| Hypokalemia | 26 | 2.1 | 12 | 0.7 |  |  |  |  |  |
-| Hyperkalemia | 23 | 4.3 | 20 | 2.6 |  |  |  |  |  |
-| Increased creatinine | 21 | 0 | 17 | 1.3 |  |  |  |  |  |
-| Hypomagnesemia | 11 | 0 | 13 | 0 |  |  |  |  |  |
-| * The denominator used to calculate the rate varied from 140 to 152 based on the number of patients with a baseline value and at least one post-treatment value. |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Ipilimumab(n=47) |  |
+| --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) |  |
+| Hematology |  |  |
+| Lymphopenia | 53 | 13 |
+| Anemia | 43 | 4.3 |
+| Neutropenia | 43 | 9 |
+| Leukopenia | 40 | 2.1 |
+| Thrombocytopenia | 34 | 4.3 |
+| Chemistry |  |  |
+| Increased AST | 66 | 40 |
+| Increased ALT | 66 | 21 |
+| Increased bilirubin | 55 | 11 |
+| Increased lipase | 51 | 26 |
+| Hyponatremia | 49 | 32 |
+| Hypocalcemia | 47 | 0 |
+| Increased alkaline phosphatase | 40 | 4.3 |
+| Increased amylase | 38 | 15 |
+| Hypokalemia | 26 | 2.1 |
+| Hyperkalemia | 23 | 4.3 |
+| Increased creatinine | 21 | 0 |
+| Hypomagnesemia | 11 | 0 |
 
 In patients who received OPDIVO with ipilimumab, virologic breakthrough occurred in 4 of 28 (14%) patients and 2 of 4 (50%) patients with active HBV or HCV at baseline, respectively.
-In patients who received single-agent OPDIVO, virologic breakthrough occurred in 5 of 47 (11%) patients and 1 of 32 (3%) patients with active HBV or HCV at baseline, respectively.
 HBV virologic breakthrough was defined as at least a 1 log increase in HBV DNA for those patients with detectable HBV DNA at baseline.
 HCV virologic breakthrough was defined as a 1 log increase in HCV RNA from baseline.
 
