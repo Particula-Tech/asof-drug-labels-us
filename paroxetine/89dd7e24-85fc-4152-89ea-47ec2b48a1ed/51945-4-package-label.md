@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 10 mg
+# PRINCIPAL DISPLAY PANEL – 10 mg
 
 NDC 0378-7001-93
 
@@ -8,7 +8,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 10 mg of paroxetine.
+Each film-coated tablet contains paroxetine hydrochloride, USP (hemihydrate) equivalent to 10 mg of paroxetine.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -21,13 +21,17 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM7001H5
+RALP7001H3
 
-PRINCIPAL DISPLAY PANEL - 20 mg
+2833/2
+
+# PRINCIPAL DISPLAY PANEL – 20 mg
 
 NDC 0378-7002-93
 
@@ -37,7 +41,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 20 mg of paroxetine.
+Each film-coated tablet contains paroxetine hydrochloride, USP (hemihydrate) equivalent to 20 mg of paroxetine.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -50,13 +54,17 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM7002H5
+RALP7002H3
 
-PRINCIPAL DISPLAY PANEL - 30 mg
+2835/2
+
+# PRINCIPAL DISPLAY PANEL – 30 mg
 
 NDC 0378-7003-93
 
@@ -66,7 +74,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 30 mg of paroxetine.
+Each film-coated tablet contains paroxetine hydrochloride, USP (hemihydrate) equivalent to 30 mg of paroxetine.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -79,13 +87,17 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM7003H5
+RALP7003H3
 
-PRINCIPAL DISPLAY PANEL - 40 mg
+2837/2
+
+# PRINCIPAL DISPLAY PANEL – 40 mg
 
 NDC 0378-7004-93
 
@@ -95,7 +107,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 40 mg of paroxetine.
+Each film-coated tablet contains paroxetine hydrochloride, USP (hemihydrate) equivalent to 40 mg of paroxetine.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -108,8 +120,12 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM7004H5
+RALP7004H3
+
+2839/2

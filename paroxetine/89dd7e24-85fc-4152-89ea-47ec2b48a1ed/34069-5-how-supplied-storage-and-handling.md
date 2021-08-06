@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Paroxetine Tablets, USP are available containing paroxetine hydrochloride, USP (hemihydrate) equivalent to 10 mg, 20 mg, 30 mg or 40 mg of paroxetine.
 
