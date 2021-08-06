@@ -78,7 +78,7 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Progressive disease (%) | 125 (45) | 192 (69) |
 | DeathWithout documented radiological disease progression (%) | 11 (4) | 14 (5) |
 | Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian) and mutation status (Ex19del vs L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
 | p-valueStratified log-rank test | <0.0001 |  |
 | Overall Survival (OS) |  |  |
 | Number of deaths (%) | 155 (56) | 166 (60) |
@@ -123,7 +123,7 @@ The efficacy of TAGRISSO was demonstrated in a randomized, multicenter open-labe
 All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas® EGFR Mutation Test performed in a central laboratory prior to randomization.
 
 A total of 419 patients were randomized 2:1 to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140).
-Randomization was stratified by ethnicity (Asian vs. non-Asian).
+Randomization was stratified by ethnicity (Asian vs non-Asian).
 Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
 Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500mg/m2 with cisplatin 75 mg/m2 on Day 1 of every 21-day cycle for up to 6 cycles.
 Patients whose disease had not progressed after four cycles of platinum-based chemotherapy could have received pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).
@@ -132,11 +132,11 @@ The major efficacy outcome measure was progression-free survival (PFS) according
 Additional efficacy outcome measures included overall response rate (ORR), duration of response (DoR), and overall survival (OS).
 Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and blinded independent central review (BICR) were permitted to cross over to receive treatment with TAGRISSO.
 
-The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20-90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
+The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20‑90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 11 and Figure 4).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 11 and Figure 4).
 No statistically significant difference was observed between the treatment arms at final OS analysis.
 At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
@@ -150,7 +150,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Progressive disease (%) | 129 (46) |  | 104 (74) |
 | DeathWithout documented radiological disease progression(%) | 11 (4) |  | 6 (4) |
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) |  | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |  |
 | p-valueStratified log-rank test | <0.001 |  |  |
 | Overall Survival |  |  |  |
 | Number of deaths (%) | 188 (67) | 93 (66) |  |

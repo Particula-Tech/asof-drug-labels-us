@@ -13,7 +13,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in the Warnings and Precautions section reflect exposure to TAGRISSO in 1479 patients with EGFR mutation-positive NSCLC who received TAGRISSO at the recommended dose of 80 mg once daily in three randomized, controlled trials [ADAURA (n=337), FLAURA (n=279), and AURA3 (n=279)], two single arm trials [AURA Extension (n=201) and AURA2 (n=210)], and one dose-finding study, AURA1 (n=173) [see Warnings and Precautions (5)].
+The data in the Warnings and Precautions section reflect exposure to TAGRISSO in 1479 patients with EGFR mutation‑positive NSCLC who received TAGRISSO at the recommended dose of 80 mg once daily in three randomized, controlled trials [ADAURA (n=337), FLAURA (n=279), and AURA3 (n=279)], two single arm trials [AURA Extension (n=201) and AURA2 (n=210)], and one dose-finding study, AURA1 (n=173) [see Warnings and Precautions (5)].
 Among 1479 patients who received TAGRISSO, 81% were exposed for 6 months or longer and 60% were exposed for greater than one year.
 In this pooled safety population, the most common adverse reactions in ≥20% of 1479 patients who received TAGRISSO were diarrhea (47%), rash (45%), musculoskeletal pain (36%), nail toxicity (33%), dry skin (32%), stomatitis (26%), fatigue (21%), and cough (20%).
 The most common laboratory abnormalities in ≥20% of 1479 patients who received TAGRISSO were leukopenia (65%), lymphopenia (62%), thrombocytopenia (53%), anemia (47%), and neutropenia (33%).
@@ -65,7 +65,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 13 | 0.6 | 3.8 | 0 |
 
-Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiform (0.3%).
+Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiform (0.3%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 3.
@@ -132,7 +132,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANC
 | Infection and Infestation Disorders |  |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
-Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
+Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 5.
@@ -163,7 +163,7 @@ The safety of TAGRISSO was evaluated in AURA3, a multicenter international open 
 A total of 279 patients received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
 A total of 136 patients received pemetrexed plus either carboplatin or cisplatin every three weeks for up to 6 cycles; patients without disease progression after 4 cycles of chemotherapy could continue maintenance pemetrexed until disease progression, unacceptable toxicity, or investigator determination that the patient was no longer benefiting from treatment.
 Left Ventricular Ejection Fraction (LVEF) was evaluated at screening and every 12 weeks.
-The median duration of treatment was 8.1 months for patients treated with TAGRISSO and 4.2 months for chemotherapy-treated patients.
+The median duration of treatment was 8.1 months for patients treated with TAGRISSO and 4.2 months for chemotherapy‑treated patients.
 The trial population characteristics were: median age 62 years, age less than 65 (58%), female (64%), Asian (65%), never smokers (68%), and ECOG PS 0 or 1 (100%).
 
 Serious adverse reactions were reported in 18% of patients treated with TAGRISSO and 26% in the chemotherapy group.
@@ -203,7 +203,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
 | Back pain | 10 |  | 0.4 | 9 | 0.7 |
 
-Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiform (0.7%).
+Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiform (0.7%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 7.
