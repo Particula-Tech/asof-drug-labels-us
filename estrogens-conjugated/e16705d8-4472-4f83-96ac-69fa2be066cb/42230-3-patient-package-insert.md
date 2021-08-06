@@ -1,8 +1,11 @@
-Patient Information DUAVEE® (DEW' ah-vee) (conjugated estrogens/bazedoxifene) Tablets
+# Patient Information DUAVEE® (DEW' ah-vee) (conjugated estrogens/bazedoxifene) Tablets
 
 Read this Patient Information before you start taking DUAVEE and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+| What is the most important information I should know about DUAVEE? Do not take additional estrogen products while you are taking DUAVEE.Using estrogens may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are taking DUAVEE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogens may increase your chances of getting strokes or blood clots.Using estrogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with DUAVEE. |
+| --- |
 
 What is DUAVEE?
 
@@ -44,14 +47,10 @@ Do not take DUAVEE if you:
   If you have or have had cancer, talk with your healthcare provider about whether you should use DUAVEE.
 - currently have or have had liver problems
 - have been diagnosed with a bleeding disorder
-- think you may be pregnant.
+- are pregnant.
   DUAVEE is not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
   Do not take DUAVEE if the test is positive and talk to your healthcare provider.
-- are breastfeeding or plan to breastfeed.
-  It is not known if DUAVEE passes into your breast milk.
-  You and your healthcare provider should decide if you will take DUAVEE or breastfeed.
-  You should not do both.
 
 What should I tell my healthcare provider before taking DUAVEE?
 
@@ -187,6 +186,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0583-1.0
-
-October 2013
+LAB-0583-4.0 Revised December 2019

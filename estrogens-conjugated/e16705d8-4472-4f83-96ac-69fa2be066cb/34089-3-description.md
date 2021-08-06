@@ -11,7 +11,7 @@ The empirical formula is C30H34N2O3 ∙ C2H4O2, and the molecular weight is 530.
 Bazedoxifene acetate is a white to tan powder.
 The aqueous solubility of bazedoxifene is pH-dependent.
 Solubility is higher at lower pH.
-The solubility of bazedoxifene acetate in unbuffered sterile water was measured to be 923 μgA/mL at pH 5.4.
+The solubility of bazedoxifene acetate in unbuffered sterile water was measured to be 923 microgramsA/mL at pH 5.4.
 The following represents the chemical structure of bazedoxifene acetate:
 
 DUAVEE is available for oral administration as tablets containing 0.45 mg of conjugated estrogens with 20 mg of bazedoxifene (equivalent to 22.6 mg of bazedoxifene acetate).

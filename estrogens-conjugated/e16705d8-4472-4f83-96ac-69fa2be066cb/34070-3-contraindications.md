@@ -10,6 +10,4 @@ DUAVEE is contraindicated in women with any of the following conditions:
 - Hypersensitivity (for example, anaphylaxis, angioedema) to estrogens, bazedoxifene, or any ingredients
 - Known hepatic impairment or disease
 - Known protein C, protein S, or antithrombin deficiency or other known thrombophilic disorders
-- Pregnancy, women who may become pregnant, and nursing mothers.
-  DUAVEE may cause fetal harm when administered to a pregnant woman.
-  If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus
+- Pregnancy, as DUAVEE may cause fetal harm [see pregnancy (8.1)].

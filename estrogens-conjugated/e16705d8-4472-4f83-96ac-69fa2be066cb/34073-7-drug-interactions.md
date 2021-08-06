@@ -1,18 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies were conducted with DUAVEE.
-Results from in vitro and in vivo studies and clinical studies conducted with the conjugated estrogens or bazedoxifene components of DUAVEE are noted below:
-
 ## 7.1 Cytochrome P450 (CYP)
 
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
-Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
-Inducers of CYP3A4, such as St. John's Wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine, and rifampin, may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
+Concomitant administration of itraconazole, a strong CYP3A4 inhibitor, with DUAVEE, resulted in increases in bazedoxifene exposure (40%) and, to a lesser extent, conjugated estrogens exposure (9% for baseline-adjusted total estrone, 5% for total equilin), compared to DUAVEE alone [see Pharmacokinetics (12.3)].
+Inducers of CYP3A4, such as St. John's Wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine, and rifampin, may reduce plasma concentrations of some estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
 
-Inhibitors of CYP3A4, such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice, may increase the exposure of conjugated estrogens resulting in an increased risk of endometrial hyperplasia.
-Therefore, for chronically administered CYP3A4 inhibitors (>30 days) concurrently administered with DUAVEE, adequate diagnostic measures, including directed or random endometrial sampling when indicated by signs and symptoms of endometrial hyperplasia, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
-
-Bazedoxifene undergoes little or no cytochrome P450 (CYP)-mediated metabolism.
 Bazedoxifene does not induce or inhibit the activities of major CYP isoenzymes.
 In vitro data suggest that bazedoxifene is unlikely to interact with co-administered drugs via CYP-mediated metabolism.
 
