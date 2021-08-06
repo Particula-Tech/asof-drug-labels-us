@@ -1,12 +1,1 @@
-0484
-
-0485
-
 Rx only
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
-
-Rev.
-A 5/2016

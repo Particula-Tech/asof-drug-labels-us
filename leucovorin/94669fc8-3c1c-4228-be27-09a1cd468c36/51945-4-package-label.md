@@ -14,8 +14,6 @@ Rx only
 
 30 TABLETS
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 0555-0485-27
@@ -31,5 +29,3 @@ Tablets USP
 Rx only
 
 25 TABLETS
-
-TEVA
