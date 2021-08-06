@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022517"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Antares Pharma, Inc.",
+  "package_ndcs": [
+    "54436-325-10",
+    "54436-325-30",
+    "54436-350-10",
+    "54436-350-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desmopressin acetate",
+      "name": "NOCDURNA"
+    }
+  ],
+  "setid": "cf51914a-55df-4b4a-8ea8-c7af257c1d59",
+  "source": "dailymed"
+}
