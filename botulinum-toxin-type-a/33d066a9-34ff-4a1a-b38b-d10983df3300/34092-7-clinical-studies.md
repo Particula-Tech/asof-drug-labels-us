@@ -170,7 +170,7 @@ Within group improvements for the primary and secondary endpoints for the 200 Un
 
 The efficacy of BOTOX 6 U/kg for pediatric patients with NDO weighing less than 34 kg was comparable to that of BOTOX 200 U.
 
-Table 30:Baseline and Change from Baseline in Daily Daytime Frequency of Urinary Incontinence Episodes, Urine Volume at First Morning Catheterization, Maximum Detrusor Pressure during the Storage Phase (cmH2O), and Maximum Cystometric Capacity (mL) in Study191622-120
+Table 30: Baseline and Change from Baseline in Daily Daytime Frequency of Urinary Incontinence Episodes, Urine Volume at First Morning Catheterization, Maximum Detrusor Pressure during the Storage Phase (cmH2O), and Maximum Cystometric Capacity (mL) in Study191622-120
 
 |  | BOTOX 200 U N=30 |
 | --- | --- |
@@ -232,8 +232,7 @@ Figure 12:Mean Change from Baseline in Number of Headache Days for Study 2
 
 Adult Upper Limb Spasticity
 
-The efficacy of BOTOX for the treatment of adult upper limb spasticity was evaluated in three randomized, multi-center, double-blind, placebo-controlled studies (Studies 1, 2, and 3).
-Two additional randomized, multi-center, double-blind, placebo-controlled studies for upper limb spasticity in adults also included the evaluation of the efficacy of BOTOX for the treatment of thumb spasticity (Studies 4 and 5).
+The efficacy of BOTOX for the treatment of adult upper limb spasticity was evaluated in several randomized, multi-center, double-blind, placebo-controlled studies (Studies 1 through 6).
 
 Study 1 included 126 adult patients (64 BOTOX and 62 placebo) with upper limb spasticity (Ashworth score of at least 3 for wrist flexor tone and at least 2 for finger flexor tone) who were at least 6 months post-stroke.
 BOTOX (a total dose of 200 Units to 240 Units) and placebo were injected intramuscularly (IM) into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and if necessary into the adductor pollicis and flexor pollicis longus (see Table 32).
@@ -352,9 +351,9 @@ c Total dose of BOTOX injected into the flexor digitorum profundus and flexor di
 
 d Dose of BOTOX injected into biceps brachii muscle
 
-Study 4 included 170 adult patients (87 BOTOX and 83 placebo) with upper limb spasticity who were at least 6 months post-stroke.
+Study 4 (NCT01153815) included 170 adult patients (87 BOTOX and 83 placebo) with upper limb spasticity who were at least 6 months post-stroke.
 In Study 4, patients received 20 Units of BOTOX into the adductor pollicis and flexor pollicis longus (total BOTOX dose = 40 Units in thumb muscles) or placebo (see Table 37).
-Study 5 included 109 patients with upper limb spasticity who were at least 6 months post-stroke.
+Study 5 (NCT00460564) included 109 patients with upper limb spasticity who were at least 6 months post-stroke.
 In Study 5, adult patients received 15 Units (low dose) or 20 Units (high dose) of BOTOX into the adductor pollicis and flexor pollicis longus under EMG guidance (total BOTOX low dose = 30 Units, total BOTOX high dose = 40 Units), or placebo (see Table 37).
 The duration of follow-up in Study 4 and Study 5 was 12 weeks.
 
@@ -399,15 +398,38 @@ Table 39: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 5
 
 a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles
 
+Study 6 (NCT03261167) enrolled 124 post-stroke adult patients with upper limb spasticity.
+In Study 6, 61 patients received 160 Units BOTOX divided among 3 elbow flexors (biceps brachii, brachioradialis, and brachialis) and 63 patients received placebo (see Table 40).
+EMG, nerve stimulation, or ultrasound techniques were recommended to assist in proper muscle localization for injections.
+The duration of follow-up was 12 weeks.
+
+Table 40: BOTOX Dose and Injection Sites in Study 6
+
+| Muscles Injected | BOTOX 160 U (Units) | Volume (mL) | Number of Injection Sites |
+| --- | --- | --- | --- |
+| Elbow Biceps Brachii | 70 | 1.4 | 2 |
+| Brachioradialis | 45 | 0.9 | 1 |
+| Brachialis | 45 | 0.9 | 1 |
+
+The change from baseline in elbow flexor tone measured by modified Ashworth Scale at Week 6 is presented in Table 41.
+
+Table 41: Primary Efficacy Endpoint Results for Elbow Flexors at Week 6 in Study 6
+
+|  | BOTOX 160 U (N=61) | Placebo (N=63) |
+| --- | --- | --- |
+| Mean Change from Baseline in Elbow Flexor Muscle Tone on the modified Ashworth Scale at Week 6 | -1.09* | -0.71 |
+
+*nominal p value <0.05
+
 Adult Lower Limb Spasticity
 
-The efficacy and safety of BOTOX for the treatment of adult lower limb spasticity was evaluated in Study 6, a randomized, multi-center, double-blind, placebo-controlled study.
-Study 6 included 468 post-stroke adult patients (233 BOTOX and 235 placebo) with ankle spasticity (modified Ashworth Scale ankle score of at least 3) who were at least 3 months post-stroke.
-A total dose of 300 Units of BOTOX or placebo were injected intramuscularly and divided between the gastrocnemius, soleus, and tibialis posterior, with optional injection into the flexor hallucis longus, flexor digitorum longus, flexor digitorum brevis, extensor hallucis, and rectus femoris (see Table 40) with up to an additional 100 Units (400 Units total dose).
+The efficacy and safety of BOTOX for the treatment of adult lower limb spasticity was evaluated in Study 7, a randomized, multi-center, double-blind, placebo-controlled study.
+Study 7 included 468 post-stroke adult patients (233 BOTOX and 235 placebo) with ankle spasticity (modified Ashworth Scale ankle score of at least 3) who were at least 3 months post-stroke.
+A total dose of 300 Units of BOTOX or placebo were injected intramuscularly and divided between the gastrocnemius, soleus, and tibialis posterior, with optional injection into the flexor hallucis longus, flexor digitorum longus, flexor digitorum brevis, extensor hallucis, and rectus femoris (see Table 42) with up to an additional 100 Units (400 Units total dose).
 The use of electromyographic guidance or nerve stimulation was required to assist in proper muscle localization for injections.
 Patients were followed for 12 weeks.
 
-Table 40: BOTOX Dose and Injection Sites in Study 6
+Table 42: BOTOX Dose and Injection Sites in Study 7
 
 | Muscles Injected | BOTOX (Units) | Number of Injection Sites |
 | --- | --- | --- |
@@ -424,9 +446,9 @@ Table 40: BOTOX Dose and Injection Sites in Study 6
 The co-primary endpoints were the average of the change from baseline in modified Ashworth Scale (MAS) ankle score at Week 4 and Week 6, and the average of the Physician Global Assessment of Response (CGI) at Week 4 and Week 6.
 The CGI evaluated the response to treatment in terms of how the patient was doing in his/her life using a 9-point scale from -4=very marked worsening to +4=very marked improvement.
 
-Statistically significant between-group differences for BOTOX over placebo were demonstrated for the co-primary efficacy measures of MAS and CGI (see Table 41).
+Statistically significant between-group differences for BOTOX over placebo were demonstrated for the co-primary efficacy measures of MAS and CGI (see Table 43).
 
-Table 41: Co-Primary Efficacy Endpoints Results in Study 6 (Intent-To-Treat Population)
+Table 43: Co-Primary Efficacy Endpoints Results in Study 7 (Intent-To-Treat Population)
 
 |  | BOTOX 300 to 400 Units (N=233) | Placebo (N=235) |
 | --- | --- | --- |
@@ -439,9 +461,9 @@ Table 41: Co-Primary Efficacy Endpoints Results in Study 6 (Intent-To-Treat Popu
 
 Compared to placebo, significant improvements in MAS change from baseline for ankle plantar flexors (see Figure 13) and CGI (see Figure 14) were observed at Week 2, Week 4, and Week 6 for patients treated with BOTOX.
 
-Figure 13:Modified Ashworth Scale Ankle Score for Study 6 – Mean Change from Baseline by Visit
+Figure 13:Modified Ashworth Scale Ankle Score for Study 7 – Mean Change from Baseline by Visit
 
-Figure 14:Clinical Global Impression by Physician for Study 6 – Mean Scores by Visit
+Figure 14:Clinical Global Impression by Physician for Study 7 – Mean Scores by Visit
 
 ## 14.6Pediatric Spasticity
 
@@ -449,11 +471,11 @@ Pediatric Upper Limb Spasticity
 
 The efficacy and safety of BOTOX for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age was evaluated in Study 1 (NCT01603602), a randomized, multi-center, double-blind, placebo-controlled study.
 Study 1 included 234 pediatric patients (78 BOTOX 3 Units/kg, 77 BOTOX 6 Units/kg, and 79 placebo) with upper limb spasticity (modified Ashworth Scale elbow or wrist score of at least 2) because of cerebral palsy or stroke.
-A total dose of 3 Units/kg BOTOX (maximum 100 Units), 6 Units/kg BOTOX (maximum 200 Units), or placebo was injected intramuscularly and divided between the elbow or wrist and finger muscles (see Table 42).
+A total dose of 3 Units/kg BOTOX (maximum 100 Units), 6 Units/kg BOTOX (maximum 200 Units), or placebo was injected intramuscularly and divided between the elbow or wrist and finger muscles (see Table 44).
 Electromyographic guidance, nerve stimulation, or ultrasound techniques were used to assist in muscle localization for injections.
 Patients were followed for 12 weeks after injection.
 
-Table 42: BOTOX Dose and Injection Sites in Study 1
+Table 44: BOTOX Dose and Injection Sites in Study 1
 
 | Muscles Injected | BOTOX 3 Units/kg* (maximum Units per muscle) | BOTOX 6 Units/kg** (maximum Units per muscle) | Number of Injection Sites |
 | --- | --- | --- | --- |
@@ -474,10 +496,10 @@ Table 42: BOTOX Dose and Injection Sites in Study 1
 The co-primary endpoints were the average of the change from baseline in modified Ashworth Scale (MAS) principal muscle group score (elbow or wrist) at Week 4 and Week 6, and the average of the Clinical Global Impression of Overall Change by Physician (CGI) at Week 4 and Week 6.
 The CGI evaluated the response to treatment in terms of how the patient was doing in his/her life using a 9-point scale (-4=very marked worsening to +4=very marked improvement).
 
-Compared to placebo, significant improvements in MAS change from baseline were observed at all timepoints for BOTOX-treated patients (see Table 43, Figure 15 and Figure 16).
+Compared to placebo, significant improvements in MAS change from baseline were observed at all timepoints for BOTOX-treated patients (see Table 45, Figure 15 and Figure 16).
 Although CGI scores numerically favored BOTOX over placebo, the difference was not statistically significant.
 
-Table 43: Co-Primary Efficacy Endpoints Results in Study 1 (Pediatric Upper Limb Spasticity, Modified Intent-To-Treat Population)
+Table 45: Co-Primary Efficacy Endpoints Results in Study 1 (Pediatric Upper Limb Spasticity, Modified Intent-To-Treat Population)
 
 |  | BOTOX 3 Units/kg (N=78) | BOTOX 6 Units/kg (N=77) | Placebo (N=79) |
 | --- | --- | --- | --- |
@@ -496,11 +518,11 @@ Pediatric Lower Limb Spasticity
 
 The efficacy and safety of BOTOX for the treatment of lower limb spasticity in pediatric patients 2 to 17 years of age was evaluated in Study 2 (NCT01603628), a randomized, multi-center, double-blind, placebo-controlled study.
 Study 2 included 381 pediatric patients (125 BOTOX 4 Units/kg, 127 BOTOX 8 Units/kg, and 129 placebo) with lower limb spasticity (modified Ashworth Scale ankle score of at least 2) because of cerebral palsy.
-A total dose of 4 Units/kg BOTOX (maximum 150 Units), 8 Units/kg BOTOX (maximum 300 Units), or placebo was injected intramuscularly and divided between the gastrocnemius, soleus, and tibialis posterior (see Table 44).
+A total dose of 4 Units/kg BOTOX (maximum 150 Units), 8 Units/kg BOTOX (maximum 300 Units), or placebo was injected intramuscularly and divided between the gastrocnemius, soleus, and tibialis posterior (see Table 46).
 Electromyographic guidance, nerve stimulation, or ultrasound techniques were used to assist in muscle localization for injections.
 Patients were followed for 12 weeks after injection.
 
-Table 44:BOTOX Dose and Injection Sites in Study 2
+Table 46: BOTOX Dose and Injection Sites in Study 2
 
 | Muscles Injected | BOTOX 4 Units/kg* (maximum Units per muscle) | BOTOX 8 Units/kg** (maximum Units per muscle) | Number of Injection Sites |
 | --- | --- | --- | --- |
@@ -516,9 +538,9 @@ Table 44:BOTOX Dose and Injection Sites in Study 2
 The co-primary endpoints were the average of the change from baseline in modified Ashworth Scale (MAS) ankle score at Week 4 and Week 6, and the average of the Clinical Global Impression of Overall Change by Physician (CGI) at Week 4 and Week 6.
 The CGI evaluated the response to treatment in terms of how the patient was doing in his/her life using a 9-point scale (-4=very marked worsening to +4=very marked improvement).
 
-Statistically significant differences between BOTOX and placebo were demonstrated for the MAS and CGI for the 8 Units/kg dose only (see Table 45).
+Statistically significant differences between BOTOX and placebo were demonstrated for the MAS and CGI for the 8 Units/kg dose only (see Table 47).
 
-Table 45:Co-Primary Efficacy Endpoints Results in Study 2 (Pediatric Lower Limb Spasticity, Modified Intent-To-Treat Population)
+Table 47: Co-Primary Efficacy Endpoints Results in Study 2 (Pediatric Lower Limb Spasticity, Modified Intent-To-Treat Population)
 
 |  | BOTOX 4 Units/kg (N = 125) | BOTOX 8 Units/kg (N=127) | Placebo (N=129) |
 | --- | --- | --- | --- |
@@ -553,9 +575,9 @@ The CDSS quantifies the severity of abnormal head positioning and was newly devi
 CDSS allots 1 point for each 5 degrees (or part thereof) of head deviation in each of the three planes of head movement (range of scores up to theoretical maximum of 54).
 The Physician Global Assessment Scale is a 9 category scale scoring the physician’s evaluation of the patients’ status compared to baseline, ranging from –4 to +4 (very marked worsening to complete improvement), with 0 indicating no change from baseline and +1 slight improvement.
 Pain is also an important symptom of cervical dystonia and was evaluated by separate assessments of pain frequency and severity on scales of 0 (no pain) to 4 (constant in frequency or extremely severe in intensity).
-Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 46.
+Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 48.
 
-Table 46: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
+Table 48: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
 
 |  | Placebo (N=82) | BOTOX (N=88) | 95% CI on Difference |
 | --- | --- | --- | --- |
@@ -582,10 +604,10 @@ There were too few non-Caucasian patients enrolled to draw any conclusions regar
 
 In this study the median total BOTOX dose in patients randomized to receive BOTOX (N=88) was 236 Units, with 25th to 75th percentile ranges of 198 Units to 300 Units.
 Of these 88 patients, most received injections to 3 or 4 muscles; 38 received injections to 3 muscles, 28 to 4 muscles, 5 to 5 muscles, and 5 to 2 muscles.
-The dose was divided amongst the affected muscles in quantities shown in Table 47.
+The dose was divided amongst the affected muscles in quantities shown in Table 49.
 The total dose and muscles selected were tailored to meet individual patient needs.
 
-Table 47: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
+Table 49: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
 
 | Muscle | Number of Patients Treated in this Muscle (N=88) | Mean % Dose per Muscle | Mid-Range of % Dose per Muscle* |
 | --- | --- | --- | --- |
@@ -617,7 +639,7 @@ Sweat production responders were those patients who demonstrated a reduction in 
 In the three study groups the percentage of patients with baseline HDSS score of 3 ranged from 50% to 54% and from 46% to 50% for a score of 4.
 The median amount of sweat production (averaged for each axilla) was 102 mg, 123 mg, and 114 mg for the placebo, 50 Units and 75 Units groups respectively.
 
-The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 48).
+The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 50).
 
 Duration of response was calculated as the number of days between injection and the date of the first visit at which patients returned to 3 or 4 on the HDSS scale.
 The median duration of response following the first treatment in BOTOX treated patients with either dose was 201 days.
@@ -628,7 +650,7 @@ Treatment responders were defined as subjects showing at least a 50% reduction f
 At week 4 post-injection, the percentages of responders were 91% (219/242) in the BOTOX group and 36% (28/78) in the placebo group, p<0.001.
 The difference in percentage of responders between BOTOX and placebo was 55% (95% CI=43.3, 65.9).
 
-Table 48: Study 1 - Study Outcomes
+Table 50: Study 1 - Study Outcomes
 
 | Treatment Response | BOTOX 50 Units (N=104) | BOTOX 75 Units (N=110) | Placebo (N=108) | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
 | --- | --- | --- | --- | --- | --- |

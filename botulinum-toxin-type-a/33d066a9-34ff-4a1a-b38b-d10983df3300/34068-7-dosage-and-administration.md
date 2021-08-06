@@ -137,7 +137,11 @@ Alternatively, for patients receiving general anesthesia (or conscious sedation)
 Patients should discontinue anti-platelet therapy at least 3 days before the injection procedure.
 Patients on anti-coagulant therapy need to be managed appropriately to decrease the risk of bleeding.
 
-Appropriate caution should be exercised when performing a cystoscopy. • In patients 5 years to less than 12 years of age: Consider general anesthesia (or conscious sedation) prior to injection, per local site practice. • In patients 12 years of age or older: Consider an intravesical instillation of diluted local anesthetic with or without sedation, or general anesthesia prior to injection, per local site practice.
+Appropriate caution should be exercised when performing a cystoscopy.
+
+• In patients 5 years to less than 12 years of age: Consider general anesthesia (or conscious sedation) prior to injection, per local site practice.
+
+• In patients 12 years of age or older: Consider an intravesical instillation of diluted local anesthetic with or without sedation, or general anesthesia prior to injection, per local site practice.
 
 At a minimum, consider a diluted instillation of local anesthetic for all age groups.
 If a local anesthetic instillation is performed, drain and irrigate the bladder with sterile saline before injection.
@@ -166,7 +170,7 @@ If patient’s body weight is less than 34 kg, the recommended dosage is 6 Units
 • Use BOTOX immediately after reconstitution in the syringe.
 Dispose of any unused preservative-free 0.9% Sodium Chloride Injection, USP.
 
-Table 2:BOTOX Dilution Instructions and Final Dosing for Patients with Body Weight < 34 kg
+Table 2: BOTOX Dilution Instructions and Final Dosing for Patients with Body Weight < 34 kg
 
 | Body Weight (kg) | Volume of reconstituted BOTOX and Diluent* (mL) to draw into dosing syringe to achieve a final volume of 10 mL |  | Final dose of BOTOX in dosing syringe |
 | --- | --- | --- | --- |
@@ -234,7 +238,7 @@ Dosing in initial and sequential treatment sessions should be tailored to the in
 The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
 The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
 An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
-Localization of the involved muscles with techniques such as needle electromyographic guidance or nerve stimulation is recommended.
+Localization of the involved muscles with techniques such as needle electromyographic guidance, nerve stimulation, or ultrasound is recommended.
 
 Repeat BOTOX treatment may be administered when the effect of a previous injection has diminished, but generally no sooner than 12 weeks after the previous injection.
 The degree and pattern of muscle spasticity at the time of re-injection may necessitate alterations in the dose of BOTOX and muscles to be injected.
@@ -247,13 +251,19 @@ Table 4: BOTOX Dosing by Muscle for Adult Upper Limb Spasticity
 
 | Muscle | Recommended Dose Total Dosage (Number of Sites) |
 | --- | --- |
-| Biceps Brachii | 100 Units-200 Units divided in 4 sites |
-| Flexor Carpi Radialis | 12.5 Units-50 Units in 1 site |
-| Flexor Carpi Ulnaris | 12.5 Units-50 Units in 1 site |
-| Flexor Digitorum Profundus | 30 Units-50 Units in 1 site |
-| Flexor Digitorum Sublimis | 30 Units-50 Units in 1 site |
+| Biceps Brachii | 60 Units to 200 Units divided in 2 to 4 sites |
+| Brachioradialis | 45 Units to 75 Units divided in 1 to 2 sites |
+| Brachialis | 30 Units to 50 Units divided in 1 to 2 sites |
+| Pronator Teres | 15 Units to 25 Units in 1 site |
+| Pronator Quadratus | 10 Units to 50 Units in 1 site |
+| Flexor Carpi Radialis | 12.5 Units to 50 Units in 1 site |
+| Flexor Carpi Ulnaris | 12.5 Units to 50 Units in 1 site |
+| Flexor Digitorum Profundus | 30 Units to 50 Units in 1 site |
+| Flexor Digitorum Sublimis | 30 Units to 50 Units in 1 site |
+| Lumbricals/Interossei | 5 Units to 10 Units in 1 site |
 | Adductor Pollicis | 20 Units in 1 site |
 | Flexor Pollicis Longus | 20 Units in 1 site |
+| Flexor pollicis brevis/ Opponens pollicis | 5 Units to 25 Units in 1 site |
 
 Figure 2:Injection Sites for Adult Upper Limb Spasticity
 
@@ -299,14 +309,14 @@ Table 6: BOTOX Dosing by Muscle for Pediatric Upper Limb Spasticity
 | Flexor Digitorum Profundus | 0.5 Units/kg to 1 Unit/kg divided in 2 sites |
 | Flexor Digitorum Sublimis | 0.5 Units/kg to 1 Unit/kg divided in 2 sites |
 
-Figure 4:Injection Sites for Pediatric Upper Limb Spasticity
+Figure 4: Injection Sites for Pediatric Upper Limb Spasticity
 
 Pediatric Lower Limb Spasticity
 
 The recommended dose for treating pediatric lower limb spasticity is 4 Units/kg to 8 Units/kg divided among the affected muscles (see Table 7 and Figure 5).
 The total dose of BOTOX administered per treatment session in the lower limb should not exceed 8 Units/kg or 300 Units, whichever is lower.
 
-Table 7:BOTOX Dosing by Muscle for Pediatric Lower Limb Spasticity
+Table 7: BOTOX Dosing by Muscle for Pediatric Lower Limb Spasticity
 
 | Muscle | Recommended Dose Total Dosage (Number of Sites) |
 | --- | --- |
