@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-CYCLOSET Tablets contain micronized bromocriptine mesylate, a dopamine receptor agonist.
+CYCLOSET Tablets contain micronized bromocriptine mesylate, an ergot derivative.
 Bromocriptine mesylate is chemically designated [Ergotaman-3',6',18-trione, 2-bromo-12'-hydroxy-2'-(1-methylethyl)-5'-(2-methylpropyl)-, monomethanesulfonate (salt), (5'α)-].
 CYCLOSET is a single enantiomer with absolute configuration 5R, 8R, 2'R, 5'S, 11'S, 12'S.
 
