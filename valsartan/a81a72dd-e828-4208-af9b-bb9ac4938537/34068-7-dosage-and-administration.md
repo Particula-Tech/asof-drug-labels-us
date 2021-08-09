@@ -8,8 +8,7 @@ The systemic exposure to valsartan (AUC) is 60% higher with the suspension compa
 
 Use of the oral suspension is recommended:
 
-- in pediatric patients aged 1 to 5 years
-- in patients >5 years of age who cannot swallow tablets and
+- in patients >6 years of age who cannot swallow tablets and
 - in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan.
 
 When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
@@ -37,15 +36,13 @@ Addition of a diuretic has a greater effect than dose increases beyond 80 mg.
 
 Valsartan tablets may be administered with other antihypertensive agents.
 
-## 2.3 Pediatric Hypertension 1 to 16 Years of Age
+## 2.3 Pediatric Hypertension 6 to 16 Years of Age
 
 The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
 A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
 The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2 [see Use in Specific Populations (8.4)].
-
-Use of valsartan tablets are not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
 
 ## 2.4 Heart Failure
 
