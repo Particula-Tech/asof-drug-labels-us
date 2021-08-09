@@ -22,7 +22,7 @@ The most common adverse reactions occurring in at least 1% of mesalamine- or pla
 
 Table 2: Adverse Reactions* in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis
 
-| Adverse Reaction | Mesalamine2.4 g once daily(n = 177) | Mesalamine4.8 g once daily(n = 179) | Placebo (n = 179) |
+| Adverse Reaction | Mesalamine 2.4 g once daily (n=177) | Mesalamine 4.8 g once daily (n=179) | Placebo (n=179) |
 | --- | --- | --- | --- |
 | Headache | 6% | 3% | <1% |
 | Flatulence | 4% | 3% | 3% |
@@ -40,7 +40,7 @@ The most common adverse reactions with mesalamine in these maintenance trials ar
 
 Table 3: Adverse Reactions* in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis
 
-|  |  | Mesalamine2.4 g/day†(n=1082) |
+|  |  | Mesalamine 2.4 g/day† (n=1082) |
 | --- | --- | --- |
 | Adverse Reaction |  | % |
 | Headache |  | 3% |
@@ -98,7 +98,7 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS)
+Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN)
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
@@ -106,7 +106,7 @@ Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, trans
 
 Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
-Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
+Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), pleurisy/pleuritis
 
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 

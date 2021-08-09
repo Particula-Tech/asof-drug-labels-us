@@ -24,8 +24,8 @@ Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 
 | Parameter* of Mesalamine | Mesalamine 1.2 g (N=47) | Mesalamine 2.4 g (N=48) | Mesalamine 4.8 g (N=48) |
 | --- | --- | --- | --- |
-| AUC0-t (ng.h/mL) | 9039† (5054) | 20538 (12980) | 41434 (26640) |
-| AUC0-∞ (ng.h/mL) | 9578‡ (5214) | 21084 (13185) | 44775§ (30302) |
+| AUC0-t (ng•h/mL) | 9039† (5054) | 20538 (12980) | 41434 (26640) |
+| AUC0-∞ (ng•h/mL) | 9578‡ (5214) | 21084 (13185) | 44775§ (30302) |
 | Cmax (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
 | Tmax¶ (h) | 9.0# (4.0 to 32.1) | 12.0 (4.0 to 34.1) | 12.0 (4.0 to 34.0) |
 | Tlag¶ (h) | 2.0# (0 to 8.0) | 2.0 (1.0 to 4.0) | 2.0 (1.0 to 4.0) |
@@ -76,8 +76,8 @@ Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 
 | Parameter of 5-ASA | Young Subjects (18 to 35 years) (N=28) | Elderly Subjects (65 to 75 years) (N=28) | Elderly Subjects (75 years and older) (N=15) |
 | --- | --- | --- | --- |
-| AUC0-t (ng.h/mL) | 51570 (23870) | 73001 (42608) | 65820 (25283) |
-| AUC0-∞ (ng.h/mL) | 58057* (22429) | 89612† (40596) | 63067‡ (22531) |
+| AUC0-t (ng•h/mL) | 51570 (23870) | 73001 (42608) | 65820 (25283) |
+| AUC0-∞ (ng•h/mL) | 58057* (22429) | 89612† (40596) | 63067‡ (22531) |
 | Cmax (ng/mL) | 2243 (1410) | 4999 (4381) | 4832 (4383) |
 | tmax§ (h) | 22.0 (5.98 to 48.0) | 12.5 (4.00 to 36.0) | 16.0 (4.00 to 26.0) |
 | tlag§ (h) | 2 (1 to 6) | 2 (1 to 4) | 2 (2 to 4) |
