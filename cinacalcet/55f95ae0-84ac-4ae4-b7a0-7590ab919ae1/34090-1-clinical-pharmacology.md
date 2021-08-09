@@ -64,7 +64,8 @@ In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but n
 In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes.
 Tables 4 and 5 list the findings from in vivo drug-drug interaction studies.
 
-Table 4 Effect of co-administered drugs on cinacalcet
+Table 5.
+Effect of co-administered drugs on cinacalcet
 
 | Co-administered drug and dosing regimen | Cinacalcet |  |  |
 | --- | --- | --- | --- |
@@ -76,7 +77,7 @@ Table 4 Effect of co-administered drugs on cinacalcet
 
 *Single dose.
 
-Table 5.
+Table 6.
 Effect of cinacalcet co-administration on other drugs
 
 | Cinacalcet dosing regimen | Co-administered drug |  |  |

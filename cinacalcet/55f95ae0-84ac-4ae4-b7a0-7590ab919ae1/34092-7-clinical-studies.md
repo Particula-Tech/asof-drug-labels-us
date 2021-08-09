@@ -22,7 +22,7 @@ Patients with milder disease typically required lower doses.
 
 Similar results were observed when either the iPTH or biointact PTH (biPTH) assay was used to measure PTH levels in CKD patients on dialysis; treatment with cinacalcet did not alter the relationship between iPTH and biPTH.
 
-Table 6.
+Table 7.
 Effects of cinacalcet on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
 |  | Study 1 |  | Study 2 |  | Study 3 |  |
@@ -57,8 +57,6 @@ Values shown are medians unless indicated otherwise.
 
 Figure 1.
 Mean (SE) iPTH Values (Pooled Phase 3 Studies) Data are presented for patients who completed the studies; Placebo (n = 342), cinacalcet (n = 439).
-Figure 2.
-Mean (SE) Ca x P Values (Pooled Phase 3 Studies) Data are presented for patients who completed the studies; Placebo (n = 342), cinacalcet (n = 439).
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment.
 

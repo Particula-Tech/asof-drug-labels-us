@@ -7,6 +7,8 @@
 - Advise patients to take cinacalcet with food or shortly after a meal and to take the tablets whole and not divide them [see Dosage and Administration (2.1)].
 - Inform patients of the importance of regular blood tests, in order to monitor the safety and efficacy of cinacalcet therapy.
 
+All trademarks are the property of their respective owners.
+
 Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-Revised: May,2020 PT 2787-01
+Revised: December, 2020 PT 2787-02
