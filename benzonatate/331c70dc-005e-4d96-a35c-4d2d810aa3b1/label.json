@@ -5,9 +5,9 @@
   "inn": "benzonatate",
   "labeler": "Zydus Pharmaceuticals (USA) Inc.",
   "package_ndcs": [
+    "68382-091-01",
     "68382-247-01",
-    "68382-247-05",
-    "68382-248-01"
+    "68382-247-05"
   ],
   "products": [
     {

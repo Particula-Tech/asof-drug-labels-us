@@ -10,7 +10,7 @@ Rx only
 
 ZYDUS
 
-NDC 68382-248-01 in bottle of 100 capsules
+NDC 68382-091-01 in bottle of 100 capsules
 
 Benzonatate Capsules USP, 200 mg
 
