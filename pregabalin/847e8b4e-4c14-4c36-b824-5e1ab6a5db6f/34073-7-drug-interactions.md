@@ -12,5 +12,5 @@ A similar lack of pharmacokinetic interactions would be expected to occur with L
 
 Pharmacodynamics
 
-Although no pharmacokinetic interactions were seen, with LYRICA and ethanol, lorazepam, or oxycodone, additive effects on cognitive and gross motor functioning were seen when LYRICA was co-administered with these drugs.
+Although no pharmacokinetic interactions were seen with LYRICA and ethanol, lorazepam, or oxycodone, additive effects on cognitive and gross motor functioning were seen when LYRICA was co-administered with these drugs.
 No clinically important effects on respiration were seen in studies of LYRICA.

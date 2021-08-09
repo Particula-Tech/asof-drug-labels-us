@@ -13,5 +13,5 @@ Carefully evaluate all patients treated with LYRICA CR for history of drug abuse
 
 ## 9.3 Dependence
 
-In clinical studies, following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including insomnia, nausea, headache diarrhea, or anxiety [see Warnings and Precautions (5.7)], consistent with physical dependence.
+In clinical studies, following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including insomnia, nausea, headache diarrhea, or anxiety [see Warnings and Precautions (5.6)], consistent with physical dependence.
 In the postmarketing experience with LYRICA, in addition to these reported symptoms there have also been reported cases of hyperhidrosis.
