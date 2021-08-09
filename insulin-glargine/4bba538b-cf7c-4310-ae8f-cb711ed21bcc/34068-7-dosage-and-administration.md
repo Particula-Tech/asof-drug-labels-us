@@ -6,19 +6,19 @@
 - Administer SOLIQUA 100/33 subcutaneously once a day within the hour prior to the first meal of the day.
 - The SOLIQUA 100/33 pen delivers doses from 15 to 60 units in a single injection.
   Table 1 presents the units of insulin glargine and the micrograms of lixisenatide in each dosage of SOLIQUA 100/33 [see Dosage and Administration (2.2)].
-- The maximum dose of SOLIQUA 100/33 is 60 units daily (60 units insulin glargine/20 mcg lixisenatide) [see Warnings and Precautions (5.5)].
+- The maximum dose of SOLIQUA 100/33 is 60 units daily (60 units insulin glargine and 20 mcg lixisenatide) [see Warnings and Precautions (5.5)].
 
 ## 2.2 Recommended Starting Dose
 
 In patients naive to basal insulin or to a GLP-1 receptor agonist, currently on a GLP-1 receptor agonist or currently on less than 30 units of basal insulin daily:
 
 - Discontinue therapy with basal insulin or a GLP-1 receptor agonist prior to initiation of SOLIQUA 100/33.
-- The recommended starting dosage of SOLIQUA 100/33 is 15 units (15 units insulin glargine/5 mcg lixisenatide) given subcutaneously once daily.
+- The recommended starting dosage of SOLIQUA 100/33 is 15 units (15 units insulin glargine and 5 mcg lixisenatide) given subcutaneously once daily.
 
 In patients currently on 30 to 60 units of basal insulin daily, with or without a GLP-1 receptor agonist:
 
 - Discontinue therapy with basal insulin or GLP-1 receptor agonist prior to initiation of SOLIQUA 100/33.
-- The recommended starting dosage of SOLIQUA 100/33 is 30 units (30 units insulin glargine/10 mcg lixisenatide) given subcutaneously once daily.
+- The recommended starting dosage of SOLIQUA 100/33 is 30 units (30 units insulin glargine and 10 mcg lixisenatide) given subcutaneously once daily.
 
 Table 1: Units of Insulin Glargine and Micrograms of Lixisenatide in Each Dosage of SOLIQUA 100/33
 
@@ -99,9 +99,9 @@ Do not administer an extra dose or increase the dose to make up for the missed d
   Only use SOLIQUA 100/33 if the solution is clear and colorless to almost colorless.
 - Inject SOLIQUA 100/33 subcutaneously into the abdominal area, thigh, or upper arm.
 - Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
-  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.4)].
-- Do not administer intravenously, intramuscularly, or via an insulin pump.
+- Do not administer intravenously or via an insulin pump.
 - Use SOLIQUA 100/33 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - The SOLIQUA 100/33 pen dials in 1-unit increments.
 - Do not dilute or mix SOLIQUA 100/33 with any other insulin or solution.

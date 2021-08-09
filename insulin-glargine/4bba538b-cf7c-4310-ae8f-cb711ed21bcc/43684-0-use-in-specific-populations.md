@@ -76,11 +76,11 @@ Data
 
 Lixisenatide
 
-A study in lactating rats showed low (9.4%) transfer of lixisenatide and its metabolites into milk and negligible (0.01%) levels of unchanged lixisenatide peptide in the gastric contents of weaning offspring.
+A study in lactating rats showed low (9.4%) transfer of lixisenatide and its metabolites into milk and negligible (0.01%) levels of unchanged lixisenatide protein in the gastric contents of weaning offspring.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SOLIQUA 100/33 have not been established in pediatric patients below 18 years of age.
+Safety and effectiveness of SOLIQUA 100/33 have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -117,6 +117,6 @@ Frequent glucose monitoring and dose adjustment may be necessary for SOLIQUA 100
 
 ## 8.8 Patients with Gastroparesis
 
-Lixisenatide, one of the components of SOLIQUA 100/33, slows gastric emptying.
+Lixisenatide slows gastric emptying.
 Patients with preexisting gastroparesis were excluded from clinical trials of SOLIQUA 100/33.
 SOLIQUA 100/33 is not recommended in patients with severe gastroparesis.

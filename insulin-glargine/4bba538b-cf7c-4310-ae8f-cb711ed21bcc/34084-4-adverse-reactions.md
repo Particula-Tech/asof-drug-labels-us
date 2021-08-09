@@ -118,5 +118,7 @@ No information regarding the presence of neutralizing antibodies is currently av
 The following additional adverse reactions have been identified during postapproval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Localized cutaneous amyloidosis at the injection site has occurred with insulins.
+Renal: Acute kidney injury
+
+Skin: Localized cutaneous amyloidosis at the injection site has occurred with insulins.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

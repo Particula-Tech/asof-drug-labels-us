@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE SOLIQUA® 100/33 (So - lee - kwa) (insulin glargine and lixisenatide injection) for subcutaneous use
+# INSTRUCTIONS FOR USE SOLIQUA® 100/33 (So - lee - kwa) (insulin glargine and lixisenatide) Injection, for subcutaneous use
 
 Read these instructions carefully before using your SOLIQUA 100/33 pen.
 
@@ -8,6 +8,8 @@ You may give other people a serious infection, or get a serious infection from t
 SOLIQUA 100/33 is an injectable prescription medicine that contains 2 diabetes medicines, insulin glargine and lixisenatide in a SoloStar pen.
 The drug combination in this pen is only for the daily injection of 15 to 60 units of SOLIQUA 100/33.
 Each unit dialed contains 1 unit insulin glargine and 0.33 mcg lixisenatide.
+
+People who are blind or have other vision problems should not use the SOLIQUA 100/33 pen without help from a person trained to use the pen.
 
 Important information
 
@@ -19,14 +21,14 @@ Important information
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination, and infection.
   If you reuse needles, you might not get your dose (underdosing) or get too much (overdosing).
-- Do not use SOLIQUA 100/33 in an insulin pump or inject SOLIQUA 100/33 into your vein (intravenously) or muscle (intramuscularly).
+- Do not use SOLIQUA 100/33 in an insulin pump or inject SOLIQUA 100/33 into your vein (intravenously).
 - Do not mix SOLIQUA 100/33 in any other type of insulin or liquid medicine prior to injection.
 - Change (rotate) your injection sites within the area you chose with each dose (see "Places to inject").
 
 Learn to inject
 
 - Talk with your healthcare provider about how to use the SOLIQUA 100/33 pen and how to inject correctly before using your pen.
-- Ask for help if you have problems handling the pen, for example if you have vision problems.
+- Ask for help if you have problems handling the pen.
 - Read all of these instructions before using your pen.
   You may get too much or too little medicine if you do not follow the instructions correctly.
 
@@ -45,7 +47,7 @@ Places to inject
 
 - Inject your SOLIQUA 100/33 dose exactly as your healthcare provider has shown you.
 - Inject your SOLIQUA 100/33 dose under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits in skin or thickened skin(lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -132,7 +134,7 @@ Step 4: Select the dose
 - Do not use this pen if you need a single daily dose that is more than 60 units.
 - Do not use the pen if your single daily dose is less than 15 units, the black area in dose window as shown in the picture.
 
-- 4AMake sure a needle is attached and the dose is set to '0'.
+- 4AMake sure a needle is attached and the dose is set to "0."
 
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
   - Do not dial your dose by counting the clicks, because you might dial the wrong dose.
@@ -215,7 +217,7 @@ Before first use
 
 After first use
 
-- Keep your pen at room temperature, below 77°F (25°C).
+- Keep your pen at room temperature, up to 77°F (25°C).
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
 - Store the pen with your pen cap on.
@@ -248,14 +250,14 @@ Throwing your pen away
   - properly labeled to warn of hazardous waste inside the container.
 - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
+
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+
+©2021 sanofi-aventis U.S. LLC
+
+SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2019
-
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
-
-© 2019 sanofi-aventis U.S. LLC
-
-SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
+Revised: July 2021

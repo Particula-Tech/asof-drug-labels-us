@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions, including anaphylaxis, have been reported in clinical trials of SOLIQUA 100/33 and during postmarketing use of other GLP-1 receptor agonists.
+Inform patients that serious hypersensitivity reactions, including anaphylaxis, have been reported with SOLIQUA 100/33.
 If symptoms of hypersensitivity reactions occur, instruct patients to stop taking SOLIQUA 100/33 and seek medical advice promptly [see Warnings and Precautions (5.1)].
 
 Risk of Pancreatitis
