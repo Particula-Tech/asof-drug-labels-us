@@ -32,25 +32,27 @@ Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 40 mL Vial Label
 
-NDC 61703-408-25 40 mL Vial
+Sterile NDC 61703-408-25
 
-Sterile Rx only
+40 mL Single dose vial.
+Discard unused portion.
+Rx only
 
 Methotrexate Injection, USP
 
 1 g/40 mL (25 mg/mL)
 
-Preservative Free Single Dose Vial
+Preservative Free
 
 Cytotoxic Agent
 
-NOVAPLUS®
+novaplus™
 
 # PRINCIPAL DISPLAY PANEL - 40 mL Vial Carton
 
 VIAL
 
-NDC 61703-408-25 1 x 40 mL Vial
+1 x 40 mL Vial NDC 61703-408-25
 
 Sterile Rx only
 
@@ -58,6 +60,9 @@ Methotrexate Injection, USP
 
 1 g/40 mL (25 mg/mL)
 
-Preservative Free Single Dose Vial
+Preservative Free
+
+Single dose vial.
+Discard unused portion.
 
 Cytotoxic Agent
