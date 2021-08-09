@@ -9,14 +9,14 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-There are insufficient human data on the use of SYMTUZA in pregnant individuals from the APR to inform on a potential drug-associated risk of birth defects and miscarriage.
-Available data from the APR show no difference in rate of overall birth defects for darunavir and emtricitabine compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+SYMTUZA is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Dosage and Administration (2.5)].
+A study evaluating the pharmacokinetics of antiretrovirals during pregnancy demonstrated substantially lower exposures of darunavir and cobicistat in the second and third trimesters compared to the post-partum period (see Data) and [see Clinical Pharmacology (12.3)].
+
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
+However, available data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir, cobicistat, emtricitabine, or tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
-
-The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates pregnant individuals and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks' gestation.
 
 In animal reproduction studies, no adverse developmental effects were observed when the components of SYMTUZA were administered separately at darunavir exposures less than 1- (mice and rabbits) and 2.6-times (rats) higher, at cobicistat exposures 1.7- and 4.1-times higher (rats and rabbits respectively), at emtricitabine exposures 88- and 7.3- times higher (mice and rabbits, respectively), and tenofovir alafenamide exposures equal to or 85- times higher (rats and rabbits, respectively) than human exposures at the recommended daily dose of these components in SYMTUZA (see Data).
 No adverse developmental effects were seen when cobicistat was administered to rats through lactation at cobicistat exposures up to 1.1 times the human exposure at the recommended therapeutic dose.
@@ -34,7 +34,7 @@ Data
 
 Human Data
 
-Darunavir/Cobicistat: Darunavir and cobicistat in combination with a background regimen was evaluated in a clinical trial of 7 pregnant individuals taking darunavir and cobicistat prior to enrollment and who were willing to remain on darunavir and cobicistat throughout the study.
+Darunavir and cobicistat in combination with a background regimen was evaluated in a clinical trial of 7 pregnant individuals taking darunavir and cobicistat prior to enrollment and who were willing to remain on darunavir and cobicistat throughout the study.
 The study period included the second and third trimesters, and through 12 weeks postpartum.
 Six pregnant individuals completed the trial.
 
@@ -44,16 +44,17 @@ One out of 6 pregnant individuals who completed the study experienced virologic 
 Five pregnant individuals had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when darunavir and cobicistat are initiated during pregnancy.
 
-Darunavir: Based on prospective reports to the APR of 679 live births following exposure to darunavir-containing regimens during pregnancy (including 425 exposed in the first trimester and 254 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of SYMTUZA are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
-The prevalence of birth defects in live births was 2.1% (95% CI: 1.0% to 4.0%) with first trimester exposure to darunavir containing-regimens and 2.4% (95% CI: 0.9% to 5.1%) with second/third trimester exposure to darunavir-containing regimens.
+Darunavir: Based on prospective reports to the APR of over 960 exposures to darunavir-containing regimens during pregnancy resulting in live births (including over 640 exposed in the first trimester and over 320 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.7% (95% CI: 2.4% to 5.5%) with first trimester exposure to darunavir containing-regimens and 2.5% (95% CI: 1.1% to 4.9%) with second/third trimester exposure to darunavir-containing regimens.
 
-Cobicistat: Insufficient numbers of pregnancies with exposure to cobicistat have been reported to the APR to estimate the rate of birth defects.
+Cobicistat: Based on prospective reports to the APR of over 560 exposures to cobicistat-containing regimens during pregnancy resulting in live births (including over 470 exposed in the first trimester and over 80 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.6% (95% CI: 2.1% to 5.7%) and 1.1% (95% CI: 0.0% to 6.2%) with first and second/third trimester, respectively, to cobicistat-containing regimens.
 
-Emtricitabine: Based on prospective reports to the APR of 3749 exposures to emtricitabine-containing regimens during pregnancy (including 2614 exposed in the first trimester and 1135 exposed in the second/third trimester), there was no difference between emtricitabine and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.3% (95% CI: 1.8% to 2.9%) with first trimester exposure to emtricitabine-containing regimens and 2.1% (95% CI: 1.4% to 3.1%) with the second/third trimester exposure to emtricitabine-containing regimens.
+Emtricitabine: Based on prospective reports to the APR of over 5400 exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including over 3900 exposed in the first trimester and over 1500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) with first trimester exposure to emtricitabine-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) with the second/third trimester exposure to emtricitabine-containing regimens.
 
-Tenofovir alafenamide: Insufficient numbers of pregnancies with exposure to tenofovir alafenamide have been reported to the APR to estimate the rate of birth defects.
+Tenofovir alafenamide (TAF): Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) with first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 

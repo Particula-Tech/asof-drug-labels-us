@@ -9,7 +9,6 @@ SYMTUZA is contraindicated with the following co-administered drugs due to the p
 - Antipsychotics: lurasidone, pimozide
 - Cardiac Disorders: dronedarone, ivabradine, ranolazine
 - Ergot derivatives, e.g., dihydroergotamine, ergotamine, methylergonovine
-- GI motility agent: cisapride
 - Herbal product: St. John's wort (Hypericum perforatum)
 - Hepatitis C direct acting antiviral: elbasvir/grazoprevir
 - Lipid modifying agents: lomitapide, lovastatin, simvastatin
