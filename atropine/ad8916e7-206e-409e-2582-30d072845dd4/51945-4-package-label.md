@@ -10,11 +10,13 @@ Atropine Sulfate Injection, USP 1 mg/10 mL (0.1 mg/mL)
 
 Hospira
 
-For Intravenous, Intramuscular, Subcutaneous or Endotracheal use.
+For Intravenous Use.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-7088
+RL-7664
+
+LOT ##-###-AA EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Syringe Carton
 
@@ -48,11 +50,13 @@ PEDIATRIC 0.25 mg/5 mL (0.05 mg/mL) Atropine Sulfate Injection, USP
 
 Hospira
 
-For Intravenous, Intramuscular, Subcutaneous or Endotracheal Use.
+For Intravenous Use.
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-7089
+RL-7665
+
+LOT ##-###-AA EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Syringe Carton
 
