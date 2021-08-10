@@ -169,10 +169,13 @@ Active Ingredient: dextroamphetamine sulfate
 Inactive Ingredients: colloidal silicon dioxide, crospovidone, microcrystalline cellulose and stearic acid.
 The 5 mg tablets contain D&C Red #27 and FD&C Yellow #6.
 The 10 mg tablets contain FD&C Red #40, FD&C Yellow #6 and FD&C Blue #2.
+The 15 mg tablets contain FD&C Blue #1, FD&C Blue #2, and FD&C Red #40.
+The 20 mg tablets contain FD&C Blue #1 and D&C Red #27.
+The 30 mg tablets contain D&C Yellow #10.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
 
 Rev.
-01/21 DEX-MG-07
+06/21 DEX-MG-08
