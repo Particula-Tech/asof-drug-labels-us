@@ -4,6 +4,8 @@ Omeprazole Delayed-Release Capsules, USP
 
 (oh mep’ ra zole)
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 Read this Medication Guide before you start taking omeprazole delayed-release capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -213,5 +215,3 @@ The capsule shells have the following inactive ingredients: gelatin, red iron ox
 The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, potassium hydroxide, propylene glycol and shellac.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Medication Guide available at www1.apotex.com/products/us
