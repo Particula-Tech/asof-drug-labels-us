@@ -91,7 +91,7 @@ Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, TX 76177 USA
 Made in Canada.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: July 2016
+Revised: Nov 2017
 
 Instructions for Use MIRVASO (Mer-VAY-soe) (brimonidine)topical geltube
 

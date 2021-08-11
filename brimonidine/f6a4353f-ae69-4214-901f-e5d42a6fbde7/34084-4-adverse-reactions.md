@@ -17,7 +17,7 @@ Adverse reactions that occurred in at least 1% of subjects treated with MIRVASO 
 
 Table 1 - Adverse Reactions Reported in Clinical Trials by at Least 1% of Subjects Treated for 29 Days
 
-| Preferred Term | MIRVASO Topical Gel (N=330) n (%) | Vehicle Gel (N=330) n (%) |
+| Preferred Term | MIRVASO Topical Gel (N=330) n (%) | Vehicle Gel (N=331) n (%) |
 | --- | --- | --- |
 | Subjects with at least one adverse reaction, Number (%) of Subjects | 109 (33) | 91 (28) |
 | Erythema | 12 (4%) | 3 (1%) |
