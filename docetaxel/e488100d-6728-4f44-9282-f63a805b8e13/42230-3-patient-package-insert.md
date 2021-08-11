@@ -185,7 +185,7 @@ Inactive ingredients: polysorbate 80 and dehydrated alcohol solution
 
 Manufactured by:
 
-Jiangsu Hengrui Medicine Co., Ltd.
+Jiangsu Hengrui Pharmaceuticals Co., Ltd.
 
 Lianyungang, Jiangsu 222047 China
 
@@ -197,7 +197,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09/2020
+Revised: 08/2021
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -215,6 +215,6 @@ Revised: 09/2020
 | (Docetaxel Injection Treatment Day) |
 | Time: ________ |
 
-Revised: September 2020
+Revised: August 2021
 
-10VUF05
+10VUF06

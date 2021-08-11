@@ -93,7 +93,7 @@ Inform patients about the risk of drug interactions and the importance of provid
 
 Manufactured by:
 
-Jiangsu Hengrui Medicine Co., Ltd.
+Jiangsu Hengrui Pharmaceuticals Co., Ltd.
 
 Lianyungang, Jiangsu 222047 China
 
@@ -103,6 +103,6 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 506 Carnegie Center, Suite 100, NJ 08540, USA
 
-Revised: September 2020
+Revised: August 2021
 
-10VUF05
+10VUF06
