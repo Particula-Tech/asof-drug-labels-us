@@ -2,11 +2,11 @@
 
 Tablets:
 
-· 250 mg/125 mg Tablets: Each white oval film-coated tablet, debossed with AUGMENTIN on one side and 250/125 on the other side, contains 250 mg of amoxicillin and 125 mg clavulanic acid as the potassium salt.
+· 250mg/125 mg Tablets: Each white oval film-coated tablet, debossed with AUGMENTIN on one side and 250/125 on the other side, contains 250 mg of amoxicillin and 125 mg clavulanic acid as the potassium salt.
 
-· 500 mg/125 mg Tablets: Each white oval film-coated tablet, debossed with AUGMENTIN on one side and 500/125 on the other side, contains 500 mg amoxicillin and 125 mg of clavulanic acid as the potassium salt.
+· 500mg/125 mg Tablets: Each white oval film-coated tablet, debossed with AUGMENTIN on one side and 500/125 on the other side, contains 500 mg amoxicillin and 125 mg of clavulanic acid as the potassium salt.
 
-· 875 mg/125 mg Tablets: Each scored white capsule‑shaped tablet, debossed with AUGMENTIN 875 on one side and scored on the other side, contains 875 mg amoxicillin and 125 mg clavulanic acid as the potassium salt.
+· 875mg/125 mg Tablets: Each scored white capsule‑shaped tablet, debossed with AUGMENTIN 875 on one side and scored on the other side, contains 875 mg amoxicillin and 125 mg clavulanic acid as the potassium salt.
 
 Powder for Oral Suspension:
 
