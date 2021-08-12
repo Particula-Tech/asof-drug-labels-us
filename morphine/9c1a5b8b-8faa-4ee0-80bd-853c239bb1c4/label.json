@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203158"
+  ],
+  "inn": "morphine",
+  "labeler": "Nortec Development Associates, Inc.",
+  "package_ndcs": [
+    "42689-005-01",
+    "42689-006-01",
+    "42689-007-01",
+    "42689-008-01",
+    "42689-009-01",
+    "42689-010-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "9c1a5b8b-8faa-4ee0-80bd-853c239bb1c4",
+  "source": "dailymed"
+}
