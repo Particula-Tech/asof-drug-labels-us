@@ -136,7 +136,7 @@ Body Cavity Use
 
 Adults
 
-In controlled clinical studies involving 285 adult patients for various body cavity examinations using OMNIPAQUE 240, 300 and 350, the most frequent adverse reactions were administration site reactions: pain 26% and swelling 22%, were exclusively reported for arthrography and were generally related to the procedure rather than the contrast medium.
+Arthrography: In controlled clinical studies involving 285 adult patients for various body cavity examinations using OMNIPAQUE 240, 300 and 350, the most frequent adverse reactions were administration site reactions: pain 26% and swelling 22%, were exclusively reported for arthrography and were generally related to the procedure rather than the contrast medium.
 Patients also experienced heat (7%).
 All other adverse reaction occurred at a rate less than or equal to 1%.
 
@@ -203,3 +203,9 @@ Body Cavity Administration
 Gastrointestinal Disorders: Pancreatitis.
 
 Musculoskeletal and Connective Tissue Disorders: Arthritis (arthrography).
+
+Hysterosalpingography: Injection of OMNIPAQUE for hysterosalpingography is associated with immediate, transient pain.
+Monitor injection pressure and volume instilled to minimize pain and to avoid disruptive distention of the uterus and fallopian tubes.
+Fluoroscopic monitoring is recommended.
+Nervous system: Pain (49%), somnolence and fever each with an individual incidence of 3%.
+Gastrointestinal system: Nausea (3%).

@@ -4,6 +4,7 @@
 
 Risk Summary
 
+Hysterosalpingography is contraindicated in pregnant women due to the potential risk to the fetus from an intrauterine procedure [see Contraindications (4)].
 There are no data with iohexol use in pregnant women to inform any drug-associated risks.
 Iohexol crosses the placenta and reaches fetal tissues in small amounts (see Data).
 In animal reproduction studies, no developmental toxicity occurred with intravenous iohexol administration to rats and rabbits at doses up to 0.4 (rat) and 0.5 (rabbit) times the maximum recommended human intravenous dose (see Data).
