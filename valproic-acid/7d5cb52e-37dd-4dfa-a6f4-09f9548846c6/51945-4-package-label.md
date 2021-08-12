@@ -16,6 +16,24 @@ Rx ONLY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605
 
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+
+NDC 0121-0675-85
+
+Valproic Acid Oral Solution USP
+
+250 mg/5 mL
+
+Each 5 mL contains: Equivalent of 250 mg valproic acid as the sodium salt.
+
+Pharmacist: Please dispense with attached Medication Guide.
+
+Rx ONLY
+
+16 fl oz (473 mL)
+
+Pharmaceutical Associates, Inc. Greenville, SC 29605
+
 # PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 
 Delivers 5 mL NDC 0121-4675-05

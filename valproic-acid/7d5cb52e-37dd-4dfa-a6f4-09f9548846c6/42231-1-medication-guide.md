@@ -207,4 +207,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R03/20
+R10/20
