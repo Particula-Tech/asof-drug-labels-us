@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS SECTION
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Mirtazapine Tablets, USP 15 mg are available for oral administration as pale yellow, oval-shaped, scored, film-coated tablets imprinted "APO" on one side and "MI" bisect "15" on the other side.
 

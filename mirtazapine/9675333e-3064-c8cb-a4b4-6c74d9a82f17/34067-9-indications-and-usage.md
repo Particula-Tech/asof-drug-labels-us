@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Mirtazapine Tablets are indicated for the treatment of major depressive disorder (MDD) in adults [see Clinical Studies (14)].
+Mirtazapine tablets are indicated for the treatment of major depressive disorder (MDD) in adults [see Clinical Studies (14)].

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear.
-However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α2­ adrenergic inhibitory auto-receptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity.
+However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α2-adrenergic inhibitory auto-receptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,7 +27,6 @@ The (–) enantiomer has an elimination half-life that is approximately twice as
 Absorbtion
 
 Mirtazapine has an absolute bioavailability of about 50% following oral administration.
-Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose.0% following oral administration.
 Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose.
 
 Food Effect
@@ -36,29 +35,29 @@ The presence of food in the stomach has a minimal effect on both the rate and ex
 
 Distribution
 
-Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to10 mcg/mL.
+Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 
 Elimination
 
-Mirtazapine has a half-life of about 20 to 40 hours following oral administration of mirtazapine tablets -life of about 20 to 40 hours following oral administration of mirtazapine tablets
+Mirtazapine has a half-life of about 20 to 40 hours following oral administration of mirtazapine tablets
 
 Metabolism
 
 Mirtazapine is extensively metabolized after oral administration.
 Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation.
 In vitro data from human liver microsomes indicate that CYP2D6 and CYP1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas CYP3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite.
-Several unconjugated metabolites possess pharmacological activity but are presentin the plasma at very low levels.
+Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels.
 
 Excretion
 
-Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces..
+Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces.
 
 Specific Populations
 
 Geriatric Patients
 
 Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
-The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.14), Use in Specific Populations (8.5)]
+The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.14), Use in Specific Populations (8.5)].
 
 Male and Female Patients
 
@@ -70,39 +69,39 @@ There have been no clinical studies to evaluate the effect of race on the pharma
 
 Patients with Renal Impairment
 
-When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m2 and approximately 50%in renal impaired patients with GFR=<10 mL/min/1.73 m2) [see Warnings and Precautions (5.14),Use in Specific Populations(8.6)].
+When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m2) [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.12, 5.14), Use in Specific Populations(8.6)].
+Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.12, 5.14), Use in Specific Populations (8.6)].
 
 Drug Interactions Studies
 
 Warfarin
 
-Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in theInternational Normalized Ratio (INR) in subjects treated with warfarin [see Drug Interactions (7)].
+Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in the International Normalized Ratio (INR) in subjects treated with warfarin [see Drug Interactions (7)].
 
 QTc-Prolonging Drugs
 
-The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose [see Warnings and Precautions(5.5), Adverse Reactions(6.1,6.2), Drug Interactions (7), and Overdosage(10)].
+The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose [see Warnings and Precautions (5.5), Adverse Reactions (6.1, 6.2), Drug Interactions (7), and Overdosage (10)].
 
 Phenytoin
 
-In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions(7)].
+In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7)].
 Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
 
 Carbamazepine
 
-In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions(7)].
+In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7)].
 
 Cimetidine
 
-In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions(7)].
+In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7)].
 Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
 
 Ketoconazole
 
-In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions(7)].
+In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7)].
 
 Amitriptyline
 
@@ -114,12 +113,12 @@ In healthy CYP2D6 extensive metabolizer subjects (n=24), mirtazapine (30 mg/day)
 
 Lithium
 
-No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single30 mg dose of mirtazapine.
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single 30 mg dose of mirtazapine.
 The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
 
 Risperidone
 
-Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug.
+Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug.
 
 Alcohol
 

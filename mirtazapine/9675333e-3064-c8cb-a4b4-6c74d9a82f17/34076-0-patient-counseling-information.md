@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behaviors
 
-Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Agranulocytosis
 
@@ -15,7 +15,7 @@ Serotonin Syndrome
 Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of mirtazapine tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.3), Drug Interactions (7)].
 
-QT Prolongation and Torsades de Pointes
+QTc Prolongation and Torsades de Pointes
 
 Inform patients to consult their physician immediately if they feel faint, lose consciousness, or have heart palpitations [see Warnings and Precautions (5.5), Drug Interactions (7), Overdosage (10)].
 Advise patients to inform physicians that they are taking mirtazapine tablets before any new drug is taken.
@@ -41,7 +41,7 @@ Adverse reactions can occur when mirtazapine tablets are discontinued [see Dosag
 
 Allergic Reactions
 
-Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives,swelling, or difficulty breathing [see Contraindications (4), Adverse Reactions (6.2)].
+Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Contraindications (4), Adverse Reactions (6.2)].
 
 Pregnancy
 
@@ -54,10 +54,12 @@ Advise patients to notify their physician if they are breastfeeding an infant [s
 
 Angle-Closure Glaucoma
 
-Patients should be advised that taking mirtazapine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Patients should be advised that taking mirtazapine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.4).]
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.4)].
+
+Dispense with Medication Guide available at www1.apotex.com/products/us
 
 APOTEX INC.
 
@@ -71,6 +73,6 @@ MIRTAZAPINE TABLETS, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9l 1T9 | 33326 |
 
-Revised February 2021
+Revised: May 2021
 
-Rev 16
+Rev: 17

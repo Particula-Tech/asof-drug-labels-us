@@ -6,7 +6,7 @@ In premarketing clinical studies, there were reports of mirtazapine tablets over
 Signs and symptoms reported in association with overdose included disorientation, drowsiness, impaired memory, and tachycardia.
 
 Based on postmarketing reports, serious outcomes (including fatalities) may occur at dosages higher than the recommended doses, especially with mixed overdoses.
-In these cases, QT prolongation andTorsades de Pointes have also been reported [see Warnings and Precautions(5.5), Adverse Reactions(6.2), and Drug Interactions(7)].
+In these cases, QT prolongation and Torsades de Pointes have also been reported [see Warnings and Precautions (5.5), Adverse Reactions (6.2), and Drug Interactions (7)].
 
 Overdose Management
 

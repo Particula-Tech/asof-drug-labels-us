@@ -4,8 +4,8 @@
 
 Carcinogenesis
 
-Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats.
-The highest doses used are approximately20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day, based on body surface area (mg/m2) in mice and rats, respectively.
+Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats.
+The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day, based on body surface area (mg/m2) in mice and rats, respectively.
 There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose.
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
 

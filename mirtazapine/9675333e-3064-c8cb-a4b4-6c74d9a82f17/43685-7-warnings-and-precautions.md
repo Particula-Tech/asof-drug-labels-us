@@ -7,9 +7,10 @@ There was considerable variation in risk of suicidal thoughts and behaviors amon
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
 The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
 
-| Table 1 |  |
-| --- | --- |
+Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+
 | Age Range | Drug-placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
+| --- | --- |
 | Increases Compared to Placebo |  |
 | <18 | 14 additional patients |
 | 18 to 24 | 5 additional patients |
@@ -34,7 +35,7 @@ If a patient develops a sore throat, fever, stomatitis, or other signs of infect
 ## 5.3 Serotonin Syndrome
 
 Serotonergic antidepressants, including mirtazapine tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications(4), Drug Interactions (7)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -42,13 +43,13 @@ Serotonin syndrome signs and symptoms may include mental status changes (e.g., a
 The concomitant use of mirtazapine tablets with MAOIs is contraindicated.
 In addition, do not initiate mirtazapine tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
-If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine tablets, discontinue mirtazapine tablets before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions(7)].
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine tablets, discontinue mirtazapine tablets before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions (7)].
 
 Monitor all patients taking mirtazapine tablets for the emergence of serotonin syndrome.
 Discontinue treatment with mirtazapine tablets and any concomitant serotonergic agents immediately if the above symptoms occur and initiate supportive symptomatic treatment.
-If concomitant use of mirtazapine tablets with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms., inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
+If concomitant use of mirtazapine tablets with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
-## 5.4 Angle-closure Glaucoma
+## 5.4 Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs, including mirtazapine tablets, may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
@@ -68,7 +69,7 @@ In these same trials, weight gain of ≥7% of body weight was reported in 7.5% o
 In a pool of premarketing U.S. clinical studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine tablets discontinued for weight gain.
 
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine tablets-treated pediatric patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
-The safety and effectiveness of mirtazapine tablets in pediatric patients with MDD have not been established [see Use in Specific Populations(8.4)].
+The safety and effectiveness of mirtazapine tablets in pediatric patients with MDD have not been established [see Use in Specific Populations (8.4)].
 
 ## 5.7 Somnolence
 
@@ -97,8 +98,7 @@ In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were ob
 
 ## 5.11 Hyponatremia
 
-Hyponatremia may occur as a result of treatment with serotonergic antidepressants, includingmirtazapine tablets.
-Cases with serum sodium lower than 110 mmol/L have been reported.mirtazapine tablets.
+Hyponatremia may occur as a result of treatment with serotonergic antidepressants, including mirtazapine tablets.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
@@ -106,12 +106,14 @@ Signs and symptoms associated with more severe or acute cases have included hall
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 
 In patients with symptomatic hyponatremia, discontinue mirtazapine tablets and institute appropriate medical intervention.
-Elderly patients, patients taking diuretics, and those who are volume- depleted may be at greater risk of developing hyponatremia [see Use in Specific Populations(8.5)].
+Elderly patients, patients taking diuretics, and those who are volume- depleted may be at greater risk of developing hyponatremia [see Use in Specific Populations (8.5)].
 
 ## 5.12 Transaminase Elevations
 
 Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients treated with mirtazapine tablets in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients.
-While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.Mirtazapine tablets should be used with caution in patients with impaired hepatic function [see Use in Specific Populations(8.6), Clinical Pharmacology(12.3)].
+While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
+
+Mirtazapine tablets should be used with caution in patients with impaired hepatic function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 5.13 Discontinuation Syndrome
 
@@ -121,7 +123,7 @@ A gradual reduction in the dosage, rather than an abrupt cessation, is recommend
 
 ## 5.14 Use in Patients with Concomitant Illness
 
-Mirtazapine tablets have not been systematically evaluated or used to any appreciable extentin patients with a recent history of myocardial infarction or other significant heart disease.
+Mirtazapine tablets have not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease.
 Mirtazapine tablets were associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients [see Adverse Reactions (6.1)].
 Mirtazapine tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).

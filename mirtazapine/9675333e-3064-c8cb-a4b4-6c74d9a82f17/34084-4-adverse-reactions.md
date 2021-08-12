@@ -2,27 +2,27 @@
 
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
-• Hypersensitivity [see Contraindications(4)]
+• Hypersensitivity [see Contraindications (4)]
 
-• Suicidal Thoughts and Behaviors [see Warnings and Precautions(5.1)]
+• Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1)]
 
-• Agranulocytosis [see Warnings and Precautions(5.2)]
+• Agranulocytosis [see Warnings and Precautions (5.2)]
 
-• Serotonin Syndrome [see Contraindications(4), Warnings and Precautions(5.3), Drug Interactions (7)]
+• Serotonin Syndrome [see Contraindications (4), Warnings and Precautions (5.3), Drug Interactions (7)]
 
-• Angle-Closure Glaucoma [see Warnings and Precautions(5.4)]
+• Angle-Closure Glaucoma [see Warnings and Precautions (5.4)]
 
-• QT Prolongation and Torsades de Pointes [see Warnings and Precautions(5.5)]
+• QT Prolongation and Torsades de Pointes [see Warnings and Precautions (5.5)]
 
 • Increased Appetite and Weight Gain [see Warnings and Precautions (5.6)]
 
-• Somnolence [see Warnings and Precautions(5.7)]
+• Somnolence [see Warnings and Precautions (5.7)]
 
-• Activation of Mania or Hypomania [see Warnings and Precautions(5.8)]
+• Activation of Mania or Hypomania [see Warnings and Precautions (5.8)]
 
 • Seizures [see Warnings and Precautions (5.9)]
 
-• Elevated Cholesterol and Triglycerides [see Warnings and Precautions(5.10)]
+• Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.10)]
 
 • Hyponatremia [see Warnings and Precautions (5.11)]
 
@@ -41,10 +41,10 @@ The trials consisted of double-blind controlled and open-label studies, inpatien
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week, placebo-controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
+Approximately 16% of the 453 patients who received mirtazapine tablets in U.S. 6-week placebo-controlled clinical trials discontinued treatment due to an adverse reaction, compared to 7% of the 361 placebo-treated patients in those studies.
+The most common reactions leading to discontinuation (≥1% and at a rate at least twice that of placebo) are included in Table 2:
 
-Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-week US Mirtazapine Tablets Trials
+Table 2: Adverse Reactions (≥1% and at least twice placebo) Leading to Discontinuation of Mirtazapine Tablets in 6-Week Clinical Trials in Patients with MDD
 
 |  | Mirtazapine Tablets (n=453) | Placebo (n=361) |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Common Adverse Reactions
 
 The most common adverse reactions (≥5% and twice placebo) associated with the use of mirtazapine tablets are listed in Table 3.
 
-Table 3: Common Treatment-emergent Adverse Events Associated with the Use of Mirtazapine Tablets in 6-week US Trials
+Table 3: Adverse Reactions (≥5% and twice placebo) in 6-Week U.S. Clinical Trials of Mirtazapine Tablets in Patients with MDD
 
 |  | Mirtazapine Tablets (n=45 3) | Placebo (n=3 61) |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Table 3: Common Treatment-emergent Adverse Events Associated with the Use of Mir
 Table 4 enumerates adverse reactions that occurred in ≥1% of mirtazapine tablets-treated patients and were more frequent than the placebo-treated patients, who participated in 6-week, U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
 This table shows the percentage of patients in each group who had at least 1 episode of an adverse reaction at some time during their treatment.
 
-Table 4: Adverse Reactions (≥1% and greater than placebo) in 6-Week U.S. Clinical Studies ofMirtazapine Tablets in Patients with MDDMirtazapine Tablets in Patients with MDD-Week U.S. Clinical Studies ofMirtazapine Tablets in Patients with MDD
+Table 4: Adverse Reactions (≥1% and greater than placebo) in 6-Week U.S. Clinical Studies of Mirtazapine Tablets in Patients with MDD
 
 |  | Mirtazapine Tablets (n=453) | Placebo (n=361) |
 | --- | --- | --- |
@@ -105,15 +105,15 @@ The clinical significance of these changes is unknown.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Mirtazapine Tablets
 
-The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling,2) for which a drug cause was remote, 3) which were so general or excessively specific so as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
+The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general or excessively specific so as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
 
-Adverse reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patient.
+Adverse reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients.
 
-Body as a Whole:frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
+Body as a Whole: frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
 
-Cardiovascular System:frequent: hypertension, vasodilatation; infrequent: angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare: atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure.
+Cardiovascular System: frequent: hypertension, vasodilatation; infrequent: angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare: atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure.
 
-Digestive System:frequent: vomiting, anorexia; infrequent: eructation, glossitis, cholecystitis, nausea and vomiting, gum hemorrhage, stomatitis, colitis, liver function tests abnormal; rare: tongue discoloration, ulcerative stomatitis, salivary gland enlargement, increased salivation, intestinal obstruction, pancreatitis, aphthous stomatitis, cirrhosis of liver, gastritis, gastroenteritis, oral moniliasis, tongue edema.
+Digestive System: frequent: vomiting, anorexia; infrequent: eructation, glossitis, cholecystitis, nausea and vomiting, gum hemorrhage, stomatitis, colitis, liver function tests abnormal; rare: tongue discoloration, ulcerative stomatitis, salivary gland enlargement, increased salivation, intestinal obstruction, pancreatitis, aphthous stomatitis, cirrhosis of liver, gastritis, gastroenteritis, oral moniliasis, tongue edema.
 
 Endocrine System: rare: goiter, hypothyroidism.
 
@@ -121,11 +121,11 @@ Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia,
 
 Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia.
 
-Musculoskeletal System:frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare:pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
+Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 
-Nervous System:frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
+Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
 
-Respiratory System:frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
+Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 
 Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
 
@@ -138,7 +138,7 @@ Urogenital System: frequent: urinary tract infection; infrequent: kidney calculu
 The following adverse reactions have been identified during post-approval use of mirtazapine tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac disorders: ventricular arrhythmia (Torsades de Pointes): ventricular arrhythmia (Torsades de Pointes)
+Cardiac disorders: ventricular arrhythmia (Torsades de Pointes)
 
 Endocrine disorders: hyperprolactinemia (and related symptoms, e.g., galactorrhea and gynecomastia)
 
