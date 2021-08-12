@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Not for Acute Symptoms
 
 Inform patients that SEEBRI NEOHALER is not meant to relieve acute symptoms of COPD and extra doses should not be used for that purpose.
-Advise them to treat acute symptoms with a rescue inhaler such as albuterol.
+Advise them to treat acute symptoms with a rescue inhaler, such as albuterol.
 Provide patients with such medicine and instruct them in how it should be used [see Warnings and Precautions (5.1)].
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
@@ -18,17 +18,17 @@ Patients should not stop therapy with SEEBRI NEOHALER without physician/healthca
 Paradoxical Bronchospasm
 
 Inform patients that, SEEBRI NEOHALER can produce paradoxical bronchospasm.
-Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SEEBRI NEOHALER.
+Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SEEBRI NEOHALER [see Warnings and Precautions (5.2)].
 
 Worsening of Narrow-Angle Glaucoma
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g. eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately should any of these signs or symptoms develop [see Warnings and Precautions (5.4)].
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g. difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately should any of these signs or symptoms develop [see Warnings and Precautions (5.5)].
 
 Instructions for Administering SEEBRI NEOHALER
 
@@ -39,14 +39,9 @@ Remind patients that the contents of SEEBRI capsules are for oral inhalation onl
 Instruct patients always to store SEEBRI capsules in sealed blisters and to only remove a SEEBRI capsule immediately before use or it may not be as effective.
 Instruct patients to discard unused additional SEEBRI capsules that are exposed to air (i.e., not intended for immediate use).
 
-Inform patients to use one inhalation of SEEBRI NEOHALER orally twice-daily (1 capsule in the morning and 1 capsule in the evening) at the same time every day.
+Inform patients to use one inhalation of SEEBRI NEOHALER orally twice daily (1 capsule in the morning and 1 capsule in the evening) at the same time every day.
 
 Inform patients that if they miss a dose of SEEBRI NEOHALER, they should use their next capsule at the usual time.
 Instruct patients to not use 2 capsules at one time and to not use more than 2 capsules in a day.
 
-Manufactured for Sunovion Pharmaceuticals Inc. Marlborough MA 01752 USA Made in Switzerland
-
-© 2018 Sunovion Pharmaceuticals Inc.
-
-For Customer Service, call 1-888-394-7377.
-For medical information, call 1-800-739-0565 To report suspected adverse events, call 1-877-737-7226 Revised: January 2018 902046R01
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 T2021-109

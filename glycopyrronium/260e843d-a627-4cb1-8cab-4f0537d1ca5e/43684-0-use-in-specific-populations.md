@@ -2,36 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
 There are no adequate and well-controlled studies with SEEBRI NEOHALER in pregnant women.
-Because animal reproduction studies are not always predictive of human response, SEEBRI NEOHALER should only be used during pregnancy if the potential benefit to the patient justifies the potential risk to the fetus.
 Women should be advised to contact their physician if they become pregnant while taking SEEBRI NEOHALER.
 
-Glycopyrrolate was not teratogenic in Wistar rats and New Zealand White rabbits at approximately 1400 and 530 times, respectively, the MRHD in adults (on an AUC basis at maternal inhaled doses up to 3.83 mg/kg/day in rats and up to 4.4 mg/kg/day in rabbits).
+In animal reproduction studies, there were no evidence of fetal harm or structural abnormalities in Wistar rats or New Zealand White rabbits at inhaled doses approximately 1,400 and 530 times, respectively, the maximum recommended human dose (MRHD of 31.2 mcg) on an area under the curve (AUC) basis (see Data).
 
-Non-teratogenic Effects:
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Glycopyrrolate had no effects on peri-natal and post-natal developments in rats at approximately 1100 times the MRHD in adults (on an AUC basis at maternal subcutaneous doses up to 1.88 mg/kg/day).
+Clinical Considerations
 
-## 8.2 Labor and Delivery
+Labor or Delivery
 
-There are no adequate and well-controlled human trials that have investigated the effects of SEEBRI NEOHALER during labor and delivery.
-In human parturients undergoing Caesarean section, 86 minutes after a single intramuscular injection of 0.006 mg/kg glycopyrrolate, umbilical plasma concentrations were low.
+The potential effect of SEEBRI NEOHALER on labor and delivery is unknown.
+SEEBRI NEOHALER should be used during labor and delivery only if the potential benefit to the patient justifies the potential risk to the fetus.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether SEEBRI NEOHALER is excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when SEEBRI NEOHALER is administered to a nursing woman.
-Since there are no data from well-controlled human studies on the use of SEEBRI NEOHALER by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue SEEBRI NEOHALER, taking into account the importance of SEEBRI NEOHALER to the mother.
+Animal Data
 
-It is not known whether glycopyrrolate is excreted in human breast milk.
-Glycopyrrolate (including its metabolites) have been detected in the milk of lactating rats and reached up to 10-fold higher concentrations in the milk than in the blood of the dam.
+In embryo-fetal development studies, pregnant Wistar rats received daily inhalation doses of glycopyrrolate, during the period of organogenesis from gestation days 7 to 17, at exposures up to 1,400 times the MRHD (on an AUC basis with maternal inhaled doses up to 3.83 mg/kg) and pregnant New Zealand White rabbits received daily inhalation doses of glycopyrrolate, during the period of organogenesis from gestation days 7 to 19, at exposures up to 530 times the MRHD on an AUC basis with maternal inhaled doses up to 4.4 mg/kg).
+Glycopyrrolate produced no evidence of teratogenicity in Wistar rats or New Zealand White rabbits at exposures up to approximately 1,400 and 530 times, respectively the MRHD.
+
+In a pre- and postnatal development study in pregnant Wistar rats, glycopyrrolate was administered subcutaneously daily throughout the periods of organogenesis and lactation from gestation day 6 through lactation day 23 at exposures up to 1,100 times the MRHD (on an AUC basis with maternal subcutaneous doses up to 1.88 mg/kg/day).
+Glycopyrrolate had no effects on physical, neurological, or reproductive development in rats following exposures up to approximately 1,100 times the MRHD.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of glycopyrrolate or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
+However, in a study of lactating rats, glycopyrrolate was present in the milk (see Data).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SEEBRI NEOHALER and any potential adverse effects on the breastfed child from SEEBRI NEOHALER or from the underlying maternal condition.
+
+Data
+
+Animal Data
+
+Glycopyrrolate and its metabolites were detected in the milk of lactating rats following a single intravenous injection of 4 mg/kg of radiolabeled glycopyrrolate.
 
 ## 8.4 Pediatric Use
 
-SEEBRI NEOHALER is not indicated for use in children.
-The safety and efficacy of SEEBRI NEOHALER in pediatric patients have not been established.
+The safety and effectiveness of SEEBRI NEOHALER in pediatric patients have not been established.
+SEEBRI NEOHALER is not indicated for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -43,10 +59,10 @@ No overall differences in safety or effectiveness were observed between these su
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is required for patients with mild and moderate renal impairment.
-SEEBRI NEOHALER should be used in patients with severe renal impairment (estimated GFR less than 30 mL/min/1.73m2), including those with end-stage renal disease requiring dialysis, if the expected benefit outweighs the potential risk since the systemic exposure to glycopyrrolate may be increased in this population [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended for patients with mild and moderate renal impairment.
+Use SEEBRI NEOHALER in patients with severe renal impairment [estimated glomerular filtration rate (GFR) less than 30 mL/min/1.73m2], including those with end-stage renal disease requiring dialysis, only if the expected benefit outweighs the potential risk since the systemic exposure to glycopyrrolate may be increased in this population [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment is required for patients with hepatic impairment.
+No dose adjustment is recommended for patients with hepatic impairment.
 The effects of hepatic impairment on the pharmacokinetics of glycopyrrolate have not been studied [see Clinical Pharmacology (12.3)].

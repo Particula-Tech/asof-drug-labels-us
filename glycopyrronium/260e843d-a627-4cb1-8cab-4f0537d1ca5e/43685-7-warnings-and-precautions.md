@@ -12,7 +12,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
 If SEEBRI NEOHALER no longer controls symptoms of bronchoconstriction; the patient's inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more inhalation of a short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
-In this setting, a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
+In this setting, a reevaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dose of SEEBRI NEOHALER beyond the recommended dose is not appropriate in this situation.
 
 ## 5.2 Paradoxical Bronchospasm
@@ -20,7 +20,7 @@ Increasing the daily dose of SEEBRI NEOHALER beyond the recommended dose is not 
 As with other inhaled medicines, SEEBRI NEOHALER can produce paradoxical bronchospasm that may be life-threatening.
 If paradoxical bronchospasm occurs following dosing with SEEBRI NEOHALER, it should be treated immediately with an inhaled, short-acting bronchodilator; SEEBRI NEOHALER should be discontinued immediately, and alternative therapy instituted.
 
-## 5.3 Immediate Hypersensitivity Reactions
+## 5.3 Hypersensitivity Reactions, Including Anaphylaxis
 
 Immediate hypersensitivity reactions have been reported after administration of SEEBRI NEOHALER.
 If signs suggesting allergic reactions occur, in particular, angioedema (including difficulties in breathing or swallowing, swelling of the tongue, lips, and face), urticaria, or skin rash, SEEBRI NEOHALER should be discontinued immediately and alternative therapy instituted.

@@ -1,3 +1,5 @@
+# PRINCIPAL DISPLAY PANEL
+
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL – 15.6 mcg per capsule – 12 SAMPLE Capsule Carton
 
 NDC 63402-815-12
@@ -25,6 +27,8 @@ SEEBRI capsules are for use with NEOHALER Inhaler only
 Manufactured for Sunovion Pharmaceuticals Inc.
 
 EXP/LOT
+
+# PRINCIPAL DISPLAY PANEL
 
 BLISTER LABEL - PRINCIPAL DISPLAY PANEL – 15.6 mcg SAMPLE Blister
 
@@ -54,6 +58,8 @@ EXP/LOT
 
 Mfd for Sunovion Pharmaceuticals Inc.
 
+# PRINCIPAL DISPLAY PANEL
+
 CARTON LABEL - PRINCIPAL DISPLAY PANEL - 15.6 mcg per capsule - 60 capsule Trade Carton
 
 NDC 63402-815-60
@@ -80,6 +86,8 @@ GTIN: 00363402815604
 
 EXP/LOT
 
+# PRINCIPAL DISPLAY PANEL
+
 CARTON LABEL - PRINCIPAL DISPLAY PANEL - 15.6 mcg per capsule - 6 capsule Carton
 
 NDC 63402-815-06
@@ -105,6 +113,8 @@ Manufactured for Sunovion Pharmaceuticals Inc.
 GTIN: 00363402815062
 
 EXP/LOT
+
+# PRINCIPAL DISPLAY PANEL
 
 BLISTER LABEL - PRINCIPAL DISPLAY PANEL – 15.6 mcg Trade Blister
 
