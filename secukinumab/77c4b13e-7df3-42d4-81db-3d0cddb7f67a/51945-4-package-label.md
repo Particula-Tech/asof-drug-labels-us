@@ -8,7 +8,7 @@ Cosentyx®
 
 Injection
 
-Single-use Prefilled Syringe
+Single-dose Prefilled Syringe
 
 150 mg/mL
 
