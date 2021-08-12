@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212408"
+  ],
+  "inn": "enalapril",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-237-46"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "enalapril maleate",
+      "name": "Enalapril maleate oral solution"
+    }
+  ],
+  "setid": "9391b8d8-2217-4838-8976-1a5ad90ef4ca",
+  "source": "dailymed"
+}
