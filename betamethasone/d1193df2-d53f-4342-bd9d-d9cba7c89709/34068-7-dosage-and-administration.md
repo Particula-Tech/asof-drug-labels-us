@@ -2,11 +2,10 @@
 
 Shake can prior to using Enstilar Foam.
 Apply Enstilar Foam to affected areas once daily for up to 4 weeks.
+The maximum dose should not exceed 60 grams every 4 days.
 Rub in Enstilar Foam gently.
 Wash hands after applying the product.
 Discontinue Enstilar Foam when control is achieved.
-
-Instruct patients not to use more than 60 grams every 4 days.
 
 Enstilar Foam should not be used:
 

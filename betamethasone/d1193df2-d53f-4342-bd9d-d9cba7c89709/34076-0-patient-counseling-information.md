@@ -4,13 +4,13 @@ See FDA-approved patient labeling (Patient Information and Instructions for Use)
 
 Flammability
 
-Instruct patients that Enstilar® Foam is flammable; avoid heat, flame, or smoking when applying this medication.
+Instruct patients that Enstilar Foam is flammable; avoid heat, flame, or smoking when applying this medication.
 
 Administration Instructions
 
 - Shake before use and spray the foam by holding the can in any orientation except horizontally.
 - Gently rub in Enstilar Foam to your affected areas.
-- Do not to use more than 60 grams every 4 days.
+- Do not use more than 60 grams every 4 days.
 - Discontinue therapy when control is achieved unless directed otherwise by the healthcare provider.
 - Avoid use of Enstilar Foam on the face, underarms, groin or eyes.
   If this medicine gets on face or in mouth or eyes, wash area right away.
