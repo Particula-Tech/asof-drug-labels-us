@@ -16,6 +16,7 @@ Medication Errors
 Advise patients that Oxycodone Hydrochloride Oral Solution, is available in two concentrations (5 mg/5 mL and 100 mg/5 mL).
 Inform patients about which concentration they have been prescribed.
 Instruct patients how to measure and take the correct dose of Oxycodone Hydrochloride Oral Solution and to always use the enclosed calibrated measuring cup when administering Oxycodone Hydrochloride Oral Solution 5 mg per 5 mL (1 mg/mL) and to always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
+
 If the prescribed concentration is changed, instruct patients on how to correctly measure the new dose to avoid errors which could result in accidental overdose and death.
 
 Addiction, Abuse, and Misuse

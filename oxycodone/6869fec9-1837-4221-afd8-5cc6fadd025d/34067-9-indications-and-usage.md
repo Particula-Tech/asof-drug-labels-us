@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-Oxycodone Hydrochloride Oral Solution is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
+Oxycodone Hydrochloride Oral Solution is indicated in adults for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
 
-Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is indicated for the relief of pain in opioidtolerant patients.
+Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is indicated for the relief of pain in opioid-tolerant patients.
 
 Limitations of Use
 

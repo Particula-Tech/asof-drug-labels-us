@@ -68,7 +68,10 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness and the pharmacokinetics of Oxycodone Hydrochloride Oral Solution in pediatric patients below the age of 18 have not been established.
+The safety and effectiveness of Oxycodone Hydrochloride Oral Solution has not been established in pediatric patients.
+
+The safety and pharmacokinetics of a single-dose of an Oxycodone Hydrochloride Oral Solution were evaluated in an open-label clinical trial in 89 pediatric patients 2 years to less than 17 years of age with postoperative pain.
+However, definitive conclusions were not possible because of insufficient information.
 
 ## 8.5 Geriatric Use
 
