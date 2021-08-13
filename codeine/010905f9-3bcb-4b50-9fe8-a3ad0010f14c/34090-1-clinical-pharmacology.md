@@ -44,12 +44,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships:
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships:
 
 There is a relationship between increasing codeine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -72,7 +72,7 @@ Approximately 90% of the total dose of codeine is excreted through the kidneys.
 The plasma half-lives of codeine and its metabolites have been reported to be approximately 3 hours.
 
 Metabolism: About 70% to 80% of the administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5% to 10%) and N-demethylation to norcodeine (about 10%) respectively.
-UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucurodination of codeine to C6G.
+UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucuronidation of codeine to C6G.
 Cytochrome P450 2D6 is the major enzyme responsible for conversion of codeine to morphine and P450 3A4 is the major enzyme mediating conversion of codeine to norcodeine.
 Morphine and norcodeine are further metabolized by conjugation with glucuronic acid.
 The glucuronide metabolites of morphine are morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G).
