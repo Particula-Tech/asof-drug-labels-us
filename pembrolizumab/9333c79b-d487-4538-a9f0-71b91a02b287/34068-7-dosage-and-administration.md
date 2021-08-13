@@ -2,7 +2,7 @@
 
 ## 2.1 Patient Selection
 
-Patient Selection for Single Agent Treatment
+Patient Selection for Single-Agent Treatment
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 

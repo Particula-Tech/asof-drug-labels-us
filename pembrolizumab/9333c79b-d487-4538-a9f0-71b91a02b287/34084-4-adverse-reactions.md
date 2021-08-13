@@ -540,7 +540,7 @@ Table 18: Adverse Reactions (≥10%) in Patients with cHL who Received KEYTRUDA 
 | Endocrine |  |  |  |  |
 | Hypothyroidism | 19 | 0 | 3 | 0 |
 | Nervous System |  |  |  |  |
-| Peripheral neuropathyIncludes dysaesthesia, hypoaesthesia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, polyneuropathy | 11 | 0.7 | 43 | 7 |
+| Peripheral neuropathyIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, polyneuropathy | 11 | 0.7 | 43 | 7 |
 | HeadacheIncludes headache, migraine, tension headache | 11 | 0 | 11 | 0 |
 
 Clinically relevant adverse reactions in <10% of patients who received KEYTRUDA included herpes virus infection (9%), pneumonia (8%), oropharyngeal pain (8%), hyperthyroidism (5%), hypersensitivity (4.1%), infusion reactions (3.4%), altered mental state (2.7%), and in 1.4% each, uveitis, myocarditis, thyroiditis, febrile neutropenia, sepsis, and tumor flare.
@@ -601,7 +601,7 @@ Table 20: Adverse Reactions (≥10%) in Patients with cHL who Received KEYTRUDA 
 | Vomiting | 15 | 0 |
 | Nausea | 13 | 0 |
 | Skin and Subcutaneous Tissue |  |  |
-| Rash Includes rash, rash maculo-papular, drug eruption, eczema, eczema asteatotic, dermatitis, dermatitis acneiform, dermatitis contact, rash erythematous, rash macular, rash papular, rash pruritic, seborrhoeic dermatitis, dermatitis psoriasiform | 20 | 0.5 |
+| Rash Includes rash, rash maculo-papular, drug eruption, eczema, eczema asteatotic, dermatitis, dermatitis acneiform, dermatitis contact, rash erythematous, rash macular, rash papular, rash pruritic, seborrheic dermatitis, dermatitis psoriasiform | 20 | 0.5 |
 | Pruritus | 11 | 0 |
 | Endocrine |  |  |
 | Hypothyroidism | 14 | 0.5 |
@@ -1092,7 +1092,7 @@ Table 33: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA w
 | Skin and Subcutaneous Tissue |  |  |  |  |
 | Palmar-plantar erythrodysesthesia syndrome | 28 | 5 | 40 | 3.8 |
 | Stomatitis/Mucosal inflammation | 27 | 1.6 | 41 | 4 |
-| RashIncludes rash, butterfly rash, dermatitis, dermatitis acneform, dermatitis atopic, dermatitis bullous, dermatitis contact, exfoliative rash, genital rash, rash erythematous, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, seborrhoeric dermatitis, skin discoloration, skin exfoliation, perineal rash | 25 | 1.4 | 21 | 0.7 |
+| RashIncludes rash, butterfly rash, dermatitis, dermatitis acneform, dermatitis atopic, dermatitis bullous, dermatitis contact, exfoliative rash, genital rash, rash erythematous, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, seborrheic dermatitis, skin discoloration, skin exfoliation, perineal rash | 25 | 1.4 | 21 | 0.7 |
 | Respiratory, Thoracic and Mediastinal |  |  |  |  |
 | Dysphonia | 25 | 0.2 | 3.3 | 0 |
 | Cough | 21 | 0.2 | 14 | 0.5 |
@@ -1263,7 +1263,7 @@ Table 37: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA i
 | Abdominal painIncludes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, abdominal tenderness | 24 | 0.5 | 23 | 0.8 |
 | Skin and Subcutaneous Tissue |  |  |  |  |
 | Alopecia | 61 | 0 | 58 | 0 |
-| RashIncludes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative generalised, drug eruption, eczema, incision site rash, injection site rash, rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash morbilliform, rash papular, rash pruritic, rash pustular, rash rubelliform, skin exfoliation, skin toxicity, toxic skin eruption, urticaria, vasculitic rash, viral rash | 52 | 5 | 41 | 0.5 |
+| RashIncludes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative generalized, drug eruption, eczema, incision site rash, injection site rash, rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash morbilliform, rash papular, rash pruritic, rash pustular, rash rubelliform, skin exfoliation, skin toxicity, toxic skin eruption, urticaria, vasculitic rash, viral rash | 52 | 5 | 41 | 0.5 |
 | Nervous System |  |  |  |  |
 | Peripheral neuropathyIncludes neuropathy peripheral, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy | 41 | 3.3 | 42 | 2.3 |
 | Headache | 30 | 0.5 | 29 | 1 |
@@ -1373,3 +1373,10 @@ For these reasons, comparison of incidence of antibodies to pembrolizumab in the
 Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the patients with a concentration of pembrolizumab below the drug tolerance level of the anti-product antibody assay.
 In clinical studies in patients treated with pembrolizumab at a dose of 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks, 27 (2.1%) of 1289 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies of whom six (0.5%) patients had neutralizing antibodies against pembrolizumab.
 There was no evidence of an altered pharmacokinetic profile or increased infusion reactions with anti-pembrolizumab binding antibody development.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of KEYTRUDA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hepatobiliary: sclerosing cholangitis
