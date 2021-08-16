@@ -11,8 +11,8 @@ Sterile, Non-pyrogenic
 
 Preservative Free
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 3/2020 0940L102 MI:DEXDIJ:R10
+Revised: 7/2021 0940L103 MI:DEXDIJ:R11

@@ -26,9 +26,9 @@ Must be diluted with 0.9% Sodium Chloride Injection USP for intravenous use.
 
 Discard unused portion.
 
-MI:251:25C:R7
+MI:251:25C:R8
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
