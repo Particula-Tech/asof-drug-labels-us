@@ -10,4 +10,4 @@ Linezolid injection is supplied as a ready-to-use sterile isotonic solution for 
 Each container contains 600 mg of linezolid in 300 mL of a clear, colorless to slightly yellow aqueous solution.
 Inactive ingredients include: citric acid anhydrous USP 1.92 mg/mL, sodium chloride USP 9 mg/mL, sodium hydroxide NF 0.76 mg/mL, and water for injection USP.
 Sodium hydroxide NF and/or hydrochloric acid NF are used to adjust the pH.
-The sodium (Na+) content is 3.98 mg/mL (52 mEq/300-mL container).
+The sodium (Na+) content is 3.98 mg/mL (52 mEq/300 mL container).

@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-The safety of linezolid formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
+The safety of linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 For all indications, 20.4% of linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
 
 Table 2 shows the incidence of all-causality, treatment-emergent adverse reactions reported in at least 1% of adult patients in these trials by dose of linezolid.
