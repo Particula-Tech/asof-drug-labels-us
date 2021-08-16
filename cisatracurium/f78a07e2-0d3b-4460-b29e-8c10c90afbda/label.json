@@ -6,8 +6,11 @@
   "inn": "cisatracurium",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-416-01",
     "63323-416-05",
+    "63323-417-01",
     "63323-417-10",
+    "63323-418-01",
     "63323-418-20"
   ],
   "products": [
