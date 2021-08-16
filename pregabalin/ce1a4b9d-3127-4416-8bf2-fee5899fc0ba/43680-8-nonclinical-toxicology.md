@@ -27,12 +27,6 @@ In a fertility study in which female rats were given pregabalin (500, 1250, or 2
 The low dose in this study produced a plasma exposure approximately 9 times that in humans receiving the MRD.
 A no-effect dose for female reproductive toxicity in rats was not established.
 
-Human Data
-
-In a double-blind, placebo-controlled clinical trial to assess the effect of pregabalin on sperm motility, 30 healthy male subjects were exposed to pregabalin at a dose of 600 mg/day.
-After 3 months of treatment (one complete sperm cycle), the difference between placebo- and pregabalin-treated subjects in mean percent sperm with normal motility was <4% and neither group had a mean change from baseline of more than 2%.
-Effects on other male reproductive parameters in humans have not been adequately studied.
-
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Dermatopathy
@@ -46,6 +40,6 @@ No increase in incidence of skin lesions was observed in clinical studies.
 Ocular Lesions
 
 Ocular lesions (characterized by retinal atrophy [including loss of photoreceptor cells] and/or corneal inflammation/mineralization) were observed in two lifetime carcinogenicity studies in Wistar rats.
-These findings were observed at plasma pregabalin exposures (AUC) ≥2 times those achieved in humans given the maximum recommended dose of 600 mg/day.
+These findings were observed at plasma pregabalin exposures (AUC) greater than or equal to 2 times those achieved in humans given the maximum recommended dose of 600 mg/day.
 A no-effect dose for ocular lesions was not established.
 Similar lesions were not observed in lifetime carcinogenicity studies in two strains of mice or in monkeys treated for 1 year.

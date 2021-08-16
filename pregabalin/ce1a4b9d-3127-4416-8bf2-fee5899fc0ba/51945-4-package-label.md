@@ -4,15 +4,17 @@ SAMPLE: NOT FOR SALE Lyrica® (pregabalin) CV capsules, 50 mg Dist. by Pfizer In
 
 157476
 
-PRINCIPAL DISPLAY PANEL - 50 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Blister Pack Carton
 
 NDC 63539-013-41 PROFESSIONAL SAMPLE – NOT FOR SALE
 
 Pfizer
 
-LYRICA® PREGABALIN capsules CV
+LYRICA® CV PREGABALIN capsules
 
-50 mg 21 Capsules
+50 mg
+
+21 Capsules
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
@@ -26,15 +28,17 @@ SAMPLE: NOT FOR SALE Lyrica® (pregabalin) capsules, 75 mg CV Distributed by Pfi
 
 157477
 
-PRINCIPAL DISPLAY PANEL - 75 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack Carton
 
 NDC 63539-014-90 PROFESSIONAL SAMPLE – NOT FOR SALE
 
 Pfizer
 
-LYRICA® PREGABALIN capsules CV
+LYRICA® CV PREGABALIN capsules
 
-75 mg 14 Capsules
+75 mg
+
+14 Capsules
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 

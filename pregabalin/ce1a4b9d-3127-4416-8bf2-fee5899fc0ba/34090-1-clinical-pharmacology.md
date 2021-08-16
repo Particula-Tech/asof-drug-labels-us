@@ -4,10 +4,10 @@
 
 LYRICA (pregabalin) binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
 Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin's anti-nociceptive and antiseizure effects in animals.
-In animal models of nerve damage, pregabalin has been shown to reduce calciumdependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta containing-calcium channel trafficking and/or reducing calcium currents.
+In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta containing-calcium channel trafficking and/or reducing calcium currents.
 Evidence from other animal models of nerve damage and persistent pain suggest the anti-nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
 
-While pregabalin is a structural derivative of the inhibitory neurotransmitter gammaaminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
+While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
 However, in cultured neurons prolonged application of pregabalin increases the density of GABA transporter protein and increases the rate of functional GABA transport.
 Pregabalin does not block sodium channels, is not active at opiate receptors, and does not alter cyclooxygenase enzyme activity.
 It is inactive at serotonin and dopamine receptors and does not inhibit dopamine, serotonin, or noradrenaline reuptake.
@@ -19,8 +19,8 @@ Pregabalin is well absorbed after oral administration, is eliminated largely by 
 Absorption and Distribution
 
 Following oral administration of LYRICA capsules under fasting conditions, peak plasma concentrations occur within 1.5 hours.
-Pregabalin oral bioavailability is ≥90% and is independent of dose.
-Following single- (25 to 300 mg) and multiple- dose (75 to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
+Pregabalin oral bioavailability is greater than or equal to 90% and is independent of dose.
+Following single- (25 to 300 mg) and multiple-dose (75 to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 Multiple-dose pharmacokinetics can be predicted from single-dose data.
 
@@ -39,14 +39,14 @@ Metabolism and Elimination
 Pregabalin undergoes negligible metabolism in humans.
 Following a dose of radiolabeled pregabalin, approximately 90% of the administered dose was recovered in the urine as unchanged pregabalin.
 The N-methylated derivative of pregabalin, the major metabolite of pregabalin found in urine, accounted for 0.9% of the dose.
-In preclinical studies, pregabalin (Senantiomer) did not undergo racemization to the R-enantiomer in mice, rats, rabbits, or monkeys.
+In preclinical studies, pregabalin (S-enantiomer) did not undergo racemization to the R-enantiomer in mice, rats, rabbits, or monkeys.
 
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half-life of 6.3 hours in subjects with normal renal function.
 Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy subjects.
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
-Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.6)].
+Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration (2.7)].
 
-Pharmacokinetics in Special Populations
+Pharmacokinetics in Specific Populations
 
 Race
 
@@ -62,17 +62,26 @@ Pregabalin clearance is nearly proportional to creatinine clearance (CLcr).
 Dosage reduction in patients with renal dysfunction is necessary.
 Pregabalin is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, plasma pregabalin concentrations are reduced by approximately 50%.
-For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.6)].
+For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.7)].
 
 Elderly
 
 Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
-Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.6)].
+Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration (2.7)].
 
 Pediatric Pharmacokinetics
 
-Pharmacokinetics of pregabalin have not been adequately studied in pediatric patients.
+Pediatric Patients (3 months to less than 17 years of age)
+
+Pregabalin pharmacokinetics were evaluated in 358 pediatric patients 3 months to less than 17 years of age with partial-onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Both apparent clearance (CL/F) and apparent volume of distribution increase as body weight increases.
+A weight-based dosing regimen is necessary to achieve pregabalin exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated for partial-onset seizures at effective doses [see Dosage and Administration (2.4)].
+The mean t½ is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin CL/F is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg [see Dosage and Administration (2.4)].
 
 Drug Interactions
 
@@ -94,7 +103,7 @@ The extent of pregabalin absorption was unaffected by gabapentin coadministratio
 
 Oral Contraceptive
 
-Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 μg, respectively) in healthy subjects.
+Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 µg, respectively) in healthy subjects.
 
 Lorazepam
 
