@@ -2,24 +2,24 @@
 
 See HOW SUPPLIED section for a complete list of available packages of REYATAZ.
 
-NDC 0003-3624-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir) capsules 150 mg Rx only
+NDC 0003-3624-12 Bristol Myers Squibb 60 Capsules REYATAZ® (atazanavir) capsules 150 mg Rx only
 
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
 
 # REYATAZ 200 mg Capsules Representative Packaging
 
-NDC 0003-3631-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir) capsules 200 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
+NDC 0003-3631-12 Bristol Myers Squibb 60 Capsules REYATAZ® (atazanavir) capsules 200 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
 
 # REYATAZ 300 mg Capsules Representative Packaging
 
-NDC 0003-3622-12 Bristol-Myers Squibb 30 Capsules REYATAZ® (atazanavir) capsules 300 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
+NDC 0003-3622-12 Bristol Myers Squibb 30 Capsules REYATAZ® (atazanavir) capsules 300 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
 
 # REYATAZ 50 mg Oral Powder Representative Packaging
 
-NDC 0003-3638-10 Bristol-Myers Squibb One Packet REYATAZ® (atazanavir) oral powder 50 mg Rx only For patients who are at least 3 months of age and weigh at least 5 kg.
+NDC 0003-3638-10 Bristol Myers Squibb One Packet REYATAZ® (atazanavir) oral powder 50 mg Rx only For patients who are at least 3 months of age and weigh at least 5 kg.
 Mix with food or beverage before taking this medicine.
 See Instructions for Use.
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
