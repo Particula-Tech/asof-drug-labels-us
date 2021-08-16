@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Label
 
-10 mL Single Use Vial NDC 61703-363-18
+10 mL Single Dose Vial NDC 61703-363-18
 
 Sterile Aqueous Solution
 
@@ -40,13 +40,13 @@ See package insert for further required dilution
 
 Do not dilute with sodium chloride/chloride-containing solutions
 
-Single Use Vial
+Single Dose Vial
 
 Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
 
-20 mL Single Use Vial NDC 61703-363-22
+20 mL Single Dose Vial NDC 61703-363-22
 
 Sterile Aqueous Solution
 
@@ -86,6 +86,6 @@ See package insert for further required dilution
 
 Do not dilute with sodium chloride/chloride-containing solutions
 
-Single Use Vial
+Single Dose Vial
 
 Caution: Cytotoxic Agent
