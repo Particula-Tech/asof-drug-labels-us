@@ -4,7 +4,7 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-0028-1 60 Tablets
 
 GREENSTONE® BRAND
 
-diclofenac sodium/ misoprostol
+diclofenac sodium and misoprostol delayed-release tablets
 
 50 mg/200 mcg
 
@@ -16,7 +16,7 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-0029-1 60 Tablets
 
 GREENSTONE® BRAND
 
-diclofenac sodium/ misoprostol
+diclofenac sodium and misoprostol delayed-release tablets
 
 75 mg/200 mcg
 
