@@ -2,19 +2,19 @@
 
 ## 5.1 Potential for Abuse and Dependence
 
-CNS stimulants (amphetamines and methylphenidate-containing products), including VYVANSE, have a high potential for abuse and dependence.
+CNS stimulants, including VYVANSE, other amphetamine-containing products, and methylphenidate, have a high potential for abuse and dependence.
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Drug Abuse and Dependence (9.2, 9.3)].
 
 ## 5.2 Serious Cardiovascular Reactions
 
-Sudden death, stroke and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
-Sudden death has been reported in children and adolescents with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
+Sudden death, stroke, and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
+Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, coronary artery disease, and other serious heart problems.
 Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during VYVANSE treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase about 2-4 mm Hg) and heart rate (mean increase about 3-6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
 Monitor all patients for potential tachycardia and hypertension.
 
 ## 5.4 Psychiatric Adverse Reactions
@@ -30,7 +30,7 @@ Prior to initiating treatment, screen patients for risk factors for developing a
 
 New Psychotic or Manic Symptoms
 
-CNS stimulants, at recommended doses, may cause psychotic or manic symptoms, e.g. hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania.
+CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
 If such symptoms occur, consider discontinuing VYVANSE.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in 0.1% of CNS stimulant-treated patients compared to 0% in placebo-treated patients.
 
@@ -38,8 +38,11 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including VYVANSE.
-In a 4-week, placebo-controlled trial of VYVANSE in patients ages 6 to 12 years old with ADHD, there was a dose-related decrease in weight in the VYVANSE groups compared to weight gain in the placebo group.
+In a 4-week, placebo-controlled trial of VYVANSE in pediatric patients ages 6 to 12 years old with ADHD, there was a dose-related decrease in weight in the VYVANSE groups compared to weight gain in the placebo group.
 Additionally, in studies of another stimulant, there was slowing of the increase in height [see Adverse Reactions (6.1)].
+
+Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+VYVANSE is not approved for use in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
@@ -53,13 +56,12 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 ## 5.7 Serotonin Syndrome
 
 Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see Drug Interactions (7.1)].
-Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see Clinical Pharmacology 12.3].
-The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to the active metabolite of VYVANSE (dextroamphetamine).
+The co-administration with cytochrome P450 2D6 (CYP2D6) inhibitors may also increase the risk with increased exposure to the active metabolite of VYVANSE (dextroamphetamine).
 In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see Drug Interactions (7.1)].
+
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
 Concomitant use of VYVANSE with MAOI drugs is contraindicated [see Contraindications (4)].
 
 Discontinue treatment with VYVANSE and any concomitant serotonergic agents immediately if symptoms of serotonin syndrome occur, and initiate supportive symptomatic treatment.
-Concomitant use of VYVANSE with other serotonergic drugs or CYP2D6 inhibitors should be used only if the potential benefit justifies the potential risk.
-If clinically warranted, consider initiating VYVANSE with lower doses, monitoring patients for the emergence of serotonin syndrome during drug initiation or titration, and informing patients of the increased risk for serotonin syndrome.
+If concomitant use of VYVANSE with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate VYVANSE with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.

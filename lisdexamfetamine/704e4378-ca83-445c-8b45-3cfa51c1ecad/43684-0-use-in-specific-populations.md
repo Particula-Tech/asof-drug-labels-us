@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and researchprograms/pregnancyregistry/adhd-medications/.
+
 Risk Summary
 
 The limited available data from published literature and postmarketing reports on use of VYVANSE in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
@@ -31,17 +36,16 @@ Data
 Animal Data
 
 Lisdexamfetamine dimesylate had no apparent effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
-These doses are approximately 4 and 27 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adolescents, on a mg/m2 body surface area basis.
+These doses are approximately 5.5 and 33 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adults, on a mg/m2 body surface area basis.
 
 A study was conducted with amphetamine (d- to l- enantiomer ratio of 3:1) in which pregnant rats received daily oral doses of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
-These doses are approximately 0.8, 2, and 4 times the MRHD of amphetamine (d- to l- ratio of 3:1) for adolescents of 20 mg/day, on a mg/m2 basis.
 All doses caused hyperactivity and decreased weight gain in the dams.
 A decrease in pup survival was seen at all doses.
 A decrease in pup body weight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks, such as preputial separation and vaginal opening.
 Increased pup locomotor activity was seen at 10 mg/kg on day 22 postpartum but not at 5 weeks postweaning.
 When pups were tested for reproductive performance at maturation, gestational weight gain, number of implantations, and number of delivered pups were decreased in the group whose mothers had been given 10 mg/kg.
 
-A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
+A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d, l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
 ## 8.2 Lactation
@@ -59,16 +63,22 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ADHD
 
-Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
-Safety and efficacy in pediatric patients below the age of 6 years have not been established.
+Safety and effectiveness of VYVANSE have been established in pediatric patients with ADHD ages 6 to 17 years [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+
+Safety and effectiveness of VYVANSE have not been established in pediatric patients below the age of 6 years.
+
+Safety and efficacy of VYVANSE were evaluated in a double-blind, randomized, parallel-group, placebo-controlled, fixed-dose study in pediatric patients ages 4 to 5 years with ADHD, followed by a 1-year open-label extension study.
+In these studies, patients experienced elevated rates of adverse reactions, including weight loss, decreased BMI, decreased appetite, insomnia, infections (upper respiratory and nasopharyngitis), irritability, and affect lability.
+
+With the same VYVANSE dose, mean steady state exposure of dextroamphetamine was approximately 44% higher in pediatric patients ages 4 to 5 years compared to the pediatric patients ages 6 to 11 years.
 
 BED
 
-Safety and effectiveness in patients less than 18 years of age have not been established.
+Safety and effectiveness of VYVANSE have not been established in patients less than 18 years of age.
 
 Growth Suppression
 
-Growth should be monitored during treatment with stimulants, including VYVANSE, and children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+Growth should be monitored during treatment with stimulants, including VYVANSE, and pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Juvenile Animal Data
 
@@ -94,7 +104,3 @@ Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 3
 The maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
 
 Lisdexamfetamine and d-amphetamine are not dialyzable.
-
-## 8.7 Gender
-
-No dosage adjustment of VYVANSE is necessary on the basis of gender [see Clinical Pharmacology (12.3)].

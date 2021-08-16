@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Information for VYVANSE capsules:
+VYVANSE (lisdexamfetamine dimesylate) capsules:
 
 - Capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg)
 - Capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg)
@@ -10,7 +10,7 @@ Information for VYVANSE capsules:
 - Capsules 60 mg: aqua blue body/aqua blue cap (imprinted with S489 and 60 mg)
 - Capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg)
 
-Information for VYVANSE chewable tablets:
+VYVANSE (lisdexamfetamine dimesylate) chewable tablets:
 
 - Chewable tablets 10 mg: White to off-white round shaped tablet debossed with '10' on one side and 'S489' on the other
 - Chewable tablets 20 mg: White to off-white hexagonal shaped tablet debossed with '20' on one side and 'S489' on the other

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Information for VYVANSE capsules:
+VYVANSE (lisdexamfetamine dimesylate) capsules:
 
 - VYVANSE capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg), bottles of 100, NDC 59417-101-10
 - VYVANSE capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg), bottles of 100, NDC 59417-102-10
@@ -12,7 +12,7 @@ Information for VYVANSE capsules:
 - VYVANSE capsules 60 mg: aqua blue body/aqua blue cap (imprinted with S489 and 60 mg), bottles of 100, NDC 59417-106-10
 - VYVANSE capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg), bottles of 100, NDC 59417-107-10
 
-Information for VYVANSE chewable tablets:
+VYVANSE (lisdexamfetamine dimesylate) chewable tablets:
 
 - VYVANSE chewable tablets 10 mg: White to off-white round shaped tablet debossed with '10' on one side and 'S489' on the other, bottles of 100, NDC 59417-115-01
 - VYVANSE chewable tablets 20 mg: White to off-white hexagonal shaped tablet debossed with '20' on one side and 'S489' on the other, bottles of 100, NDC 59417-116-01
@@ -25,7 +25,8 @@ Information for VYVANSE chewable tablets:
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at room temperature, 20ºC to 25º C (68ºF to 77º F). Excursions permitted between 15ºC and 30º C (59 to 86º F) [see USP Controlled Room Temperature].
+Store at room temperature, 20ºC to 25ºC (68ºF to 77ºF).
+Excursions permitted between 15ºC and 30ºC (59 to 86ºF) [see USP Controlled Room Temperature].
 
 Disposal
 

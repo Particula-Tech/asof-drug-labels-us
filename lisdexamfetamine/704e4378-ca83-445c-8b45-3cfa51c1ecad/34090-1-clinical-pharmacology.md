@@ -14,41 +14,38 @@ The parent drug, lisdexamfetamine, does not bind to the sites responsible for th
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetic studies after oral administration of lisdexamfetamine dimesylate have been conducted in healthy adult (capsule and chewable tablet formulations) and pediatric (6 to 12 years) patients with ADHD (capsule formulation).
-After single dose administration of lisdexamfetamine dimesylate, pharmacokinetics of dextroamphetamine was found to be linear between 30 mg and 70 mg in a pediatric study, and between 50 mg and 250 mg in an adult study.
+After single dose administration of lisdexamfetamine dimesylate, pharmacokinetics of dextroamphetamine was found to be linear between 30 mg and 70 mg in a pediatric study (6 to 12 years), and between 50 mg and 250 mg in an adult study.
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
-
 There is no accumulation of lisdexamfetamine and dextroamphetamine at steady state in healthy adults.
-
-Safety and efficacy have not been studied above the maximum recommended dose of 70 mg.
 
 Absorption
 
 Capsule formulation
 
-Following single-dose oral administration of VYVANSE capsule (30 mg, 50 mg, or 70 mg) in patients ages 6 to 12 years with ADHD under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 3.5 hour post dose, respectively.
+Following single-dose oral administration of VYVANSE capsule (30 mg, 50 mg, or 70 mg) in patients ages 6 to 12 years with ADHD under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 3.5 hours post dose, respectively.
 Weight/Dose normalized AUC and Cmax values were the same in pediatric patients ages 6 to 12 years as the adults following single doses of 30 mg to 70 mg VYVANSE capsule.
 
-Food effect on capsule formulation
+Effect of food on capsule formulation
 
 Neither food (a high fat meal or yogurt) nor orange juice affects the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of VYVANSE capsules.
-Food prolongs Tmax by approximately 1 hour (from 3.8 hour at fasted state to 4.7 hour after a high fat meal or to 4.2 hour with yogurt).
+Food prolongs Tmax by approximately 1 hour (from 3.8 hours at fasted state to 4.7 hours after a high fat meal or to 4.2 hours with yogurt).
 After an 8-hour fast, the AUC for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
 
 Chewable Tablet formulation
 
-After a single dose administration of 60 mg VYVANSE chewable tablet in healthy subjects under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 4.4 hour post dose, respectively.
+After a single dose administration of 60 mg VYVANSE chewable tablet in healthy subjects under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 4.4 hours post dose, respectively.
 Compared to 60 mg VYVANSE capsule, exposure (Cmax and AUC) to lisdexamfetamine was about 15% lower.
 The exposure (Cmax and AUCinf) of dextroamphetamine is similar between VYVANSE chewable tablet and VYVANSE capsule.
 
-Food effect on tablet formulation
+Effect of food on tablet formulation
 
-Administration of 60 mg VYVANSE chewable tablet with food (a high-fat meal) decreases the exposure (Cmax and AUCinf) of dextroamphetamine by about 5% to 7%, and prolongs mean Tmax by approximately 1 hour (from 3.9 hrs at fasted state to 4.9 hours).
+Administration of 60 mg VYVANSE chewable tablet with food (a high-fat meal) decreases the exposure (Cmax and AUCinf) of dextroamphetamine by about 5% to 7%, and prolongs mean Tmax by approximately 1 hour (from 3.9 hours at fasted state to 4.9 hours).
 
 Elimination
 
 Plasma concentrations of unconverted lisdexamfetamine are low and transient, generally becoming non-quantifiable by 8 hours after administration.
-The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in studies of lisdexamfetamine dimesylate in volunteers.
-The mean plasma elimination half- life of dextroamphetamine was about 12 hours after oral administration of lisdexamfetamine dimesylate.
+The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in volunteers ages 6 years and older.
+The plasma elimination half-life of dextroamphetamine was approximately 8.6 to 9.5 hours in pediatric patients 6 to 12 years and 10 to 11.3 hours in healthy adults.
 
 Metabolism
 

@@ -1,68 +1,52 @@
 # 14 CLINICAL STUDIES
 
-Efficacy of VYVANSE in the treatment of ADHD has been established in the following trials:
-
-- Three short-term trials in children (6 to 12 years, Studies 1, 2, 3)
-- One short-term trial in adolescents (13 to 17 years, Study 4)
-- One short-term trial in children and adolescents (6 to 17 years, Study 5)
-- Two short-term trials in adults (18 to 55 years, Studies 7, 8)
-- Two randomized withdrawal trials in children and adolescents (6 to 17 years, Study 6), and adults (18 to 55 years, Study 9)
-
-Efficacy of VYVANSE in the treatment of moderate to severe BED in adults has been established in the following trials:
-
-- One randomized trial in adults (18 to 55 years, Study 10)
-- Two short-term trials in adults (18 to 55 years, Studies 11 and 12)
-- One randomized withdrawal study in adults (18 to 55 years, Study 13)
-
 ## 14.1 Attention Deficit Hyperactivity Disorder (ADHD)
 
-Patients Ages 6 to 12 Years Old with ADHD
+Pediatric Patients Ages 6 to 12 Years with ADHD
 
-A double-blind, randomized, placebo-controlled, parallel-group study (Study 1) was conducted in children ages 6 to 12 years (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+A double-blind, randomized, placebo-controlled, parallel-group study (Study 1) was conducted in pediatric patients ages 6 to 12 years (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Patients were randomized to receive final doses of 30 mg, 50 mg, or 70 mg of VYVANSE or placebo once daily in the morning for a total of four weeks of treatment.
 All patients receiving VYVANSE were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
 The primary efficacy outcome was change in Total Score from baseline to endpoint in investigator ratings on the ADHD Rating Scale (ADHD-RS), an 18-item questionnaire with a score range of 0-54 points that measures the core symptoms of ADHD which includes both hyperactive/impulsive and inattentive subscales.
-Endpoint was defined as the last post-randomization treatment week (i.e.
-Weeks 1 through 4) for which a valid score was obtained.
+Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 1 through 4) for which a valid score was obtained.
 All VYVANSE dose groups were superior to placebo in the primary efficacy outcome.
-Mean effects at all doses were similar; however, the highest dose (70 mg/day) was numerically superior to both lower doses (Study 1 in Table 7).
+Mean effects at all doses were similar; however, the highest dose (70 mg/day) was numerically superior to both lower doses (Study 1 in Table 6).
 The effects were maintained throughout the day based on parent ratings (Conners' Parent Rating Scale) in the morning (approximately 10 am), afternoon (approximately 2 pm), and early evening (approximately 6 pm).
 
-A double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 2) was conducted in children ages 6 to 12 years (N=52) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+A double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 2) was conducted in pediatric patients ages 6 to 12 years (N=52) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Following a 3-week open-label dose optimization with Adderall XR®, patients were randomly assigned to continue their optimized dose of Adderall XR (10 mg, 20 mg, or 30 mg), VYVANSE (30 mg, 50 mg, or 70 mg), or placebo once daily in the morning for 1 week each treatment.
 Efficacy assessments were conducted at 1, 2, 3, 4.5, 6, 8, 10, and 12 hours post-dose using the Swanson, Kotkin, Agler, M.Flynn, and Pelham Deportment scores (SKAMP-DS), a 4-item subscale of the SKAMP with scores ranging from 0 to 24 points that measures deportment problems leading to classroom disruptions.
-A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-DS across the 8 assessments were observed between patients when they received VYVANSE compared to patients when they received placebo (Study 2 in Table 7).
+A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-DS across the 8 assessments were observed between patients when they received VYVANSE compared to patients when they received placebo (Study 2 in Table 6).
 The drug effect reached statistical significance from hours 2 to 12 post-dose, but was not significant at 1 hour.
 
-A second double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 3) was conducted in children ages 6 to 12 years (N=129) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+A second double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 3) was conducted in pediatric patients ages 6 to 12 years (N=129) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Following a 4-week open-label dose optimization with VYVANSE (30 mg, 50 mg, 70 mg), patients were randomly assigned to continue their optimized dose of VYVANSE or placebo once daily in the morning for 1 week each treatment.
-A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received VYVANSE compared to patients when they received placebo (Study 3 in Table 7, Figure 4).
+A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received VYVANSE compared to patients when they received placebo (Study 3 in Table 6, Figure 4).
 
-Patients Ages 13 to 17 Years Old with ADHD
+Pediatric Patients Ages 13 to 17 Years with ADHD
 
-A double-blind, randomized, placebo-controlled, parallel-group study (Study 4) was conducted in adolescents ages 13 to 17 years (N=314) who met DSM-IV criteria for ADHD.
+A double-blind, randomized, placebo-controlled, parallel-group study (Study 4) was conducted in pediatric patients ages 13 to 17 years (N=314) who met DSM-IV criteria for ADHD.
 In this study, patients were randomized in a 1:1:1:1 ratio to a daily morning dose of VYVANSE (30 mg/day, 50 mg/day or 70 mg/day) or placebo for a total of four weeks of treatment.
 All patients receiving VYVANSE were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
 The primary efficacy outcome was change in Total Score from baseline to endpoint in investigator ratings on the ADHD Rating Scale (ADHD-RS).
-Endpoint was defined as the last post-randomization treatment week (i.e.
-Weeks 1 through 4) for which a valid score was obtained.
-All VYVANSE dose groups were superior to placebo in the primary efficacy outcome (Study 4 in Table 7).
+Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 1 through 4) for which a valid score was obtained.
+All VYVANSE dose groups were superior to placebo in the primary efficacy outcome (Study 4 in Table 6).
 
-Patients Ages 6 to 17 Years Old: Short-Term Treatment in ADHD
+Pediatric Patients Ages 6 to 17 Years: Short-Term Treatment in ADHD
 
-A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in children and adolescents ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
-In this eight-week study, patients were randomized to a daily morning dose of VYVANSE (30, 50 or 70mg/day), an active control, or placebo (1:1:1).
+A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in pediatric patients ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
+In this eight-week study, patients were randomized to a daily morning dose of VYVANSE (30, 50 or 70 mg/day), an active control, or placebo (1:1:1).
 The study consisted of a Screening and Washout Period (up to 42 days), a 7-week Double-blind Evaluation Period (consisting of a 4-week Dose-Optimization Period followed by a 3-week Dose-Maintenance Period), and a 1-week Washout and Follow-up Period.
 During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator's judgment, was reached.
 VYVANSE showed significantly greater efficacy than placebo.
 The placebo-adjusted mean reduction from baseline in the ADHD-RS-IV total score was 18.6.
-Subjects on VYVANSE also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 7).
+Subjects on VYVANSE also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 6).
 
-Patients Ages 6 to 17 Years Old: Maintenance Treatment in ADHD
+Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD
 
-Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in children and adolescents ages 6 to 17 (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
+Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
 A total of 276 patients were enrolled into the study, 236 patients participated in Study 5 and 40 subjects directly enrolled.
 Subjects were treated with open-label VYVANSE for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
@@ -80,9 +64,8 @@ In this study, patients were randomized to receive final doses of 30 mg, 50 mg, 
 All patients receiving VYVANSE were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
 The primary efficacy outcome was change in Total Score from baseline to endpoint in investigator ratings on the ADHD Rating Scale (ADHD-RS).
-Endpoint was defined as the last post-randomization treatment week (i.e.
-Weeks 1 through 4) for which a valid score was obtained.
-All VYVANSE dose groups were superior to placebo in the primary efficacy outcome (Study 7 in Table 7).
+Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 1 through 4) for which a valid score was obtained.
+All VYVANSE dose groups were superior to placebo in the primary efficacy outcome (Study 7 in Table 6).
 
 The second study was a multi-center, randomized, double-blind, placebo-controlled, cross-over, modified analog classroom study (Study 8) of VYVANSE to simulate a workplace environment in 142 adults ages 18 to 55 who met DSM-IV-TR criteria for ADHD.
 There was a 4-week open-label, dose optimization phase with VYVANSE (30 mg/day, 50 mg/day, or 70 mg/day in the morning).
@@ -90,7 +73,7 @@ Patients were then randomized to one of two treatment sequences: 1) VYVANSE (opt
 Efficacy assessments occurred at the end of each week, using the Permanent Product Measure of Performance (PERMP), a skill-adjusted math test that measures attention in ADHD.
 PERMP total score results from the sum of the number of math problems attempted plus the number of math problems answered correctly.
 VYVANSE treatment, compared to placebo, resulted in a statistically significant improvement in attention across all post-dose time points, as measured by average PERMP total scores over the course of one assessment day, as well as at each time point measured.
-The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose (Study 8 in Table 7, Figure 6).
+The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose (Study 8 in Table 6, Figure 6).
 
 Adults: Maintenance Treatment in ADHD
 
@@ -98,13 +81,13 @@ A double-blind, placebo-controlled, randomized withdrawal design study (Study 9)
 At study entry, patients must have had documentation of treatment with VYVANSE for a minimum of 6 months and had to demonstrate treatment response as defined by Clinical Global Impression Severity (CGI-S) ≤3 and Total Score on the ADHD-RS <22.
 ADHD-RS Total Score is a measure of core symptoms of ADHD.
 The CGI-S score assesses the clinician's impression of the patient's current illness state and ranges from 1 (not at all ill) to 7 (extremely ill).
-Patients that maintained treatment response at week 3 of the open label treatment phase (N=116) were eligible to be randomized to ongoing treatment with the same dose of VYVANSE (N=56) or switched to placebo (N=60) during the double-blind phase.
+Patients that maintained treatment response at Week 3 of the open label treatment phase (N=116) were eligible to be randomized to ongoing treatment with the same dose of VYVANSE (N=56) or switched to placebo (N=60) during the double-blind phase.
 Patients were observed for relapse (treatment failure) during the 6-week double-blind phase.
 The efficacy endpoint was the proportion of patients with treatment failure during the double-blind phase.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind phase.
 Maintenance of efficacy for patients treated with VYVANSE was demonstrated by the significantly lower proportion of patients with treatment failure (9%) compared to patients receiving placebo (75%) at endpoint during the double-blind phase (Study 9, Figure 7).
 
-Table 7: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE in Children, Adolescents, and Adults with ADHD
+Table 6: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE in Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 
 | Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -130,11 +113,11 @@ Table 7: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE 
 | Placebo | 261.4 (75.0) | 289.5 (8.6) | -- |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |  |
 
-Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Children Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
-Figure 5 Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
+Figure 5 Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Pediatric Patients Ages 6 to 17 (Study 6)
 
 Figure 6 LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
 
@@ -155,7 +138,7 @@ Severity of BED was determined based on having at least 3 binge days per week fo
 For both studies, a binge day was defined as a day with at least 1 binge episode, as determined from the subject's daily binge diary.
 
 Both 12-week studies consisted of a 4-week dose-optimization period and an 8-week dose-maintenance period.
-During dose-optimization, subjects assigned to VYVANSE began treatment at the titration dose of 30 mg/day and, after 1 week of treatment, were subsequently titrated to 50mg/day.
+During dose-optimization, subjects assigned to VYVANSE began treatment at the titration dose of 30 mg/day and, after 1 week of treatment, were subsequently titrated to 50 mg/day.
 Additional increases to 70 mg/day were made as tolerated and clinically indicated.
 Following the dose-optimization period, subjects continued on their optimized dose for the duration of the dose-maintenance period.
 
@@ -164,7 +147,7 @@ Baseline is defined as the weekly average of the number of binge days per week f
 Subjects from both studies on VYVANSE had a statistically significantly greater reduction from baseline in mean number of binge days per week at Week 12.
 In addition, subjects on VYVANSE showed greater improvement as compared to placebo across key secondary outcomes with higher proportion of subjects rated improved on the CGI-I rating scale, higher proportion of subjects with 4-week binge cessation, and greater reduction in the Yale-Brown Obsessive Compulsive Scale Modified for Binge Eating (Y-BOCS-BE) total score.
 
-Table 8: Summary of Primary Efficacy Results in BED
+Table 7: Summary of Primary Efficacy Results in BED
 
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -181,6 +164,6 @@ Response in the open-label phase was defined as 1 or fewer binge days each week 
 Relapse during the double-blind phase was defined as having 2 or more binge days each week for two consecutive weeks (14 days) prior to any visit and having an increase in CGI-S score of 2 or more points compared to the randomized-withdrawal baseline.
 Maintenance of efficacy for patients who had an initial response during the open-label period and then continued on VYVANSE during the 26-week double-blind randomized-withdrawal phase was demonstrated with VYVANSE being superior over placebo as measured by time to relapse.
 
-Figure 8 Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with BED (Study 13)
+Figure 8 Kaplan-Meier Estimated Proportions of Subjects with Relapse in Adults with BED (Study 13)
 
 Examination of population subgroups based on age (there were no patients over 65), gender, and race did not reveal any clear evidence of differential responsiveness in the treatment of BED.
