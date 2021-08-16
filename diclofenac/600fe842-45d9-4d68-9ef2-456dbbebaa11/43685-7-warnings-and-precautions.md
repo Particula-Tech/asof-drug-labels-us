@@ -2,7 +2,7 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Clinical trials of several cyclooxygenase-2 (COX-2) selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
@@ -18,7 +18,7 @@ The concurrent use of aspirin and an NSAID, such as diclofenac, increases the ri
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 
 Post-MI Patients
@@ -35,13 +35,13 @@ If ARTHROTEC is used in patients with a recent MI, monitor patients for signs of
 NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3–6 months, and in about 2%–4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 
 Risk Factors for GI Bleeding, Ulceration, and Perforation
 
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
-Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, antiplatelet drugs (such as aspirin), anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
@@ -57,15 +57,15 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
 
 ## 5.3 Hepatotoxicity
 
-In clinical trials with ARTHROTEC, meaningful elevation of ALT (SGPT, more than 3 times the ULN [ULN = the upper limit of the normal range]) occurred in 1.6% of 2,184 patients treated with ARTHROTEC and in 1.4% of 1,691 patients treated with diclofenac sodium.
+In clinical trials with ARTHROTEC, meaningful elevation of alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT], more than 3 times the upper limit of the normal range [ULN]) occurred in 1.6% of 2,184 patients treated with ARTHROTEC and in 1.4% of 1,691 patients treated with diclofenac sodium.
 These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with ARTHROTEC.
 The misoprostol component of ARTHROTEC does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
 
-In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT]) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
 
-In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2–6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., greater than 8 times the ULN) in about 1% of the 3,700 patients.
-In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3 to 8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
@@ -195,7 +195,7 @@ This may be due to occult or gross blood loss, fluid retention, or an incomplete
 If a patient treated with ARTHROTEC has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including diclofenac a component ARTHROTEC, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet drugs (e.g., aspirin), and SSRIs and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 ## 5.13 Masking of Inflammation and Fever
@@ -204,4 +204,4 @@ The pharmacological activity of diclofenac, a component of ARTHROTEC, in reducin
 
 ## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a complete blood count (CBC) and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].

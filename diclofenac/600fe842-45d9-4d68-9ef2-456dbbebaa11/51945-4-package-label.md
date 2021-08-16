@@ -23,37 +23,7 @@ DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
 
-20688035
-
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label - 90
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-Pfizer
-
-NDC 0025-1411-90
-
-Arthrotec® 50 diclofenac sodium and misoprostol delayed-release tablets
-
-50 mg/200 mcg
-
-DOSAGE AND USE See accompanying prescribing information.
-
-90 Tablets Rx only
-
-20688036
-
-# PRINCIPAL DISPLAY PANEL - 50 mg Carton
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0025-1411-34 100 Tablets UNIT DOSE
-
-2146 MADE IN ENGLAND
-
-Arthrotec® 50 50 mg diclofenac sodium/ 200 mcg misoprostol
-
-50 mg/200 mcg
-
-11004701
+20688084
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Tablet Label
 
@@ -80,16 +50,4 @@ DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
 
-20688037
-
-# PRINCIPAL DISPLAY PANEL - 75 mg Carton
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0025-1421-34 100 Tablets UNIT DOSE
-
-2149 MADE IN ENGLAND
-
-Arthrotec® 75 75 mg diclofenac sodium/ 200 mcg misoprostol
-
-75 mg/200 mcg
-
-11004901
+20688086

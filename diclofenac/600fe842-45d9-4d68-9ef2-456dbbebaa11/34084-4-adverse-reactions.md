@@ -55,7 +55,7 @@ Body as a whole: asthenia, fatigue, malaise.
 
 Central and peripheral nervous system: dizziness, drowsiness, headache, insomnia, paresthesia, vertigo.
 
-Digestive: anorexia, appetite changes, constipation, dry mouth, dysphagia, esophageal ulceration, oesophagitis, eructation, gastritis, gastroesophageal reflux, GI neoplasm benign, peptic ulcer, tenesmus, vomiting.
+Digestive: anorexia, appetite changes, constipation, dry mouth, dysphagia, esophageal ulceration, esophagitis, eructation, gastritis, gastroesophageal reflux, GI neoplasm benign, peptic ulcer, tenesmus, vomiting.
 
 Female reproductive disorders: breast pain, dysmenorrhea, menstrual disorder, menorrhagia, vaginal hemorrhage.
 
@@ -84,7 +84,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a whole: death, fever, infection, sepsis, chills, edema.
 
-Cardiovascular system: arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
+Cardiovascular system: arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased creatine phosphokinase (CPK), increased lactate dehydrogenase (LDH), myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
 
 Central and peripheral nervous system: coma, convulsions, hyperesthesia, hypertonia, hypoesthesia, meningitis, migraine, neuralgia, somnolence, stroke, tremor.
 
@@ -102,7 +102,7 @@ Liver and biliary system: abnormal hepatic function, bilirubinemia, liver failur
 
 Male reproductive disorders: impotence, perineal pain.
 
-Metabolic and nutritional: BUN increased, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, periorbital edema, porphyria, weight changes, fluid retention.
+Metabolic and nutritional: blood urea nitrogen (BUN) increased, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, periorbital edema, porphyria, weight changes, fluid retention.
 
 Pregnancy, puerperium and perinatal conditions: abnormal uterine contractions, uterine rupture/perforation, retained placenta, amniotic fluid embolism, incomplete abortion, premature birth, fetal death.
 

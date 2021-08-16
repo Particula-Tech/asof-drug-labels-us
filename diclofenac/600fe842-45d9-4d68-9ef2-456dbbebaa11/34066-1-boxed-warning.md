@@ -1,6 +1,6 @@
 # WARNING: RISK OF UTERINE RUPTURE, ABORTION, PREMATURE BIRTH, BIRTH DEFECTS; AND SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS
 
-ARTHROTEC® CONTAINS DICLOFENAC SODIUM AND MISOPROSTOL.
+ARTHROTEC CONTAINS DICLOFENAC SODIUM AND MISOPROSTOL.
 ADMINISTRATION OF MISOPROSTOL TO WOMEN WHO ARE PREGNANT CAN CAUSE ABORTION, PREMATURE BIRTH, BIRTH DEFECTS, OR UTERINE RUPTURE.
 UTERINE RUPTURE HAS BEEN REPORTED WHEN MISOPROSTOL WAS ADMINISTERED IN PREGNANT WOMEN TO INDUCE LABOR OR TO INDUCE ABORTION.
 THE RISK OF UTERINE RUPTURE INCREASES WITH ADVANCING GESTATIONAL AGES AND WITH PRIOR UTERINE SURGERY, INCLUDING CESAREAN DELIVERY.
@@ -17,7 +17,7 @@ In such patients, ARTHROTEC may be prescribed if the patient:
 
 Cardiovascular Thrombotic Events
 
-- Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
+- NSAIDs cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
   This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions (5.1)].
 - ARTHROTEC is contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4), and Warnings and Precautions (5.1)].
 

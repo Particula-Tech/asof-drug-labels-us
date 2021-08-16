@@ -6,7 +6,7 @@
 | NSAIDs can cause serious side effects, including: Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: with increasing doses of NSAIDswith longer use of NSAIDs |  |
 | Do not take NSAID containing medicines right before or after a heart surgery called a "coronary artery bypass graft (CABG)." |  |
 | Avoid taking NSAID containing medicines after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: anytime during usewithout warning symptomsthat may cause death |  |
-| The risk of getting an ulcer or bleeding increases with: past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDstaking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs" |  |
+| The risk of getting an ulcer or bleeding increases with: past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDstaking medicines called "corticosteroids", "antiplatelet drugs", "anticoagulants", "SSRIs", or "SNRIs" |  |
 | increasing doses of NSAIDslonger use of NSAIDssmokingdrinking alcohol | older agepoor healthadvanced liver diseasebleeding problems |
 | NSAID containing medicines should only be used: exactly as prescribedat the lowest dose possible for your treatmentfor the shortest time needed |  |
 | What is Arthrotec? |  |
@@ -36,5 +36,5 @@
 | Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone (polyvidone) K-30, sodium hydroxide, starch (corn), talc, triethyl citrate. |  |
 | This product's labeling may have been updated. For the most recent prescribing information, please visit www.pfizer.com. |  |
 | For more information, go to www.pfizer.com or call 1-800-438-1985. |  |
-| LAB: 0793-6.0 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: April 2021 |
+| LAB: 0793-7.0 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: August 2021 |
