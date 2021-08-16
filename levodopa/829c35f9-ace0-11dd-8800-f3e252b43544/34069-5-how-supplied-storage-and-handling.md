@@ -37,7 +37,8 @@ Bottle of 100, NDC 62756-519-08
 
 Bottle of 500, NDC 62756-519-13
 
-Bottle of 1000, NDC 62756-519-18
+Bottle of 1000, NDC 62756-519-18 Carbidopa and levodopa tablets, USP 25 mg/250 mg are mottled blue to light blue colored round shaped, biconvex, uncoated tablets debossed with "519" on one side and plain on the other side.
+They are supplied as follows: Bottle of 100 with child-resistant closure, NDC 62756-985-01 Bottle of 500, NDC 62756-985-02
 
 Storage
 
