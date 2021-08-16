@@ -111,12 +111,18 @@ Table 10: Summary of AED Interactions with Topiramate
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
-| a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. |  |  |
-| b = Is not administered but is an active metabolite of carbamazepine. |  |  |
-| NC = Less than 10% change in plasma concentration. |  |  |
-| AED = Antiepileptic drug. |  |  |
-| NE = Not Evaluated. |  |  |
-| TPM = Topiramate |  |  |
+
+a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.
+
+b = Is not administered but is an active metabolite of carbamazepine.
+
+NC = Less than 10% change in plasma concentration.
+
+AED = Antiepileptic drug.
+
+NE = Not Evaluated.
+
+TPM = Topiramate
 
 Oral Contraceptives
 

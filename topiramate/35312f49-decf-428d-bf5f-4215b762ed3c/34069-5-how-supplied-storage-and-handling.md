@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Topiramate Tablets USP are available as circular, biconvex, film-coated tablets in the following strengths and colors:
+Topiramate Tablets, USP are available as circular, biconvex, film-coated tablets in the following strengths and colors:
 
 25 mg white tablets with ‘G’ engraved on one side and ‘25’ on the other side.
 
