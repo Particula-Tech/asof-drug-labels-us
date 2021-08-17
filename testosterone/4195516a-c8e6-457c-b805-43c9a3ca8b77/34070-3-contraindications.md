@@ -10,7 +10,7 @@ Males with carcinoma of the breast
 Males with known or suspected carcinoma of the prostate gland
 
 4.
-Women who are or who may become pregnant
+Women who are pregnant (see PRECAUTIONS, Pregnancy)
 
 5.
-Patients with serious cardiac, hepatic or renal disease
+Patients with serious cardiac, hepatic or renal disease (see WARNINGS)

@@ -17,6 +17,6 @@ Manufactured By Grand River Aseptic Manufacturing Grand Rapids, MI 49504
 
 Manufactured For Perrigo® Minneapolis, MN 55427
 
-2R800 RC J7
+2R800 RC J8
 
-Rev 08-18 G
+Rev 07-21

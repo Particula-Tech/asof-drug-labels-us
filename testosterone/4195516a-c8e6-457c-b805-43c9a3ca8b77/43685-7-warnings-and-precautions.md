@@ -14,15 +14,15 @@ If a venous thromboembolic event is suspected, discontinue treatment with testos
 Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
 To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
-Patients should be informed of the possible risk when deciding whether to use or to continue to use testosterone cypionate.
+Patients should be informed of this possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
-Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic steroids.
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
 Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence].
 
 If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
 However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
-Counsel patients concerning the serious adverse reactions associated with abuse the of testosterone and anabolic steroids.
-Conversely, consider the possibility of testosterone and anabolic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
+Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
 Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
 
@@ -100,7 +100,9 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 
 ### Teratogenic Effects.
 
-Pregnancy Category X. (See CONTRAINDICATIONS.)
+The use of testosterone in women who are pregnant is contraindicated.
+Testosterone is teratogenic and may cause fetal harm.
+Testosterone is known to cause virilization of the female fetus when administrated to pregnant women.
 
 Benzyl alcohol can cross the placenta.
 See WARNINGS.
