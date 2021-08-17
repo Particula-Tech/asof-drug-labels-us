@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "ANDA083386",
+    "ANDA084112",
+    "ANDA084113",
+    "ANDA084114",
+    "ANDA084115"
+  ],
+  "inn": "chlorpromazine",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0832-6017-00",
+    "0832-6018-00",
+    "0832-6018-10",
+    "0832-6019-00",
+    "0832-6019-01",
+    "0832-6019-10",
+    "0832-6019-89",
+    "0832-6020-00",
+    "0832-6020-01",
+    "0832-6020-10",
+    "0832-6020-89",
+    "0832-6021-00",
+    "0832-6021-01",
+    "0832-6021-10",
+    "0832-6021-89"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "Chlorpromazine Hydrochloride"
+    }
+  ],
+  "setid": "5ae79c1e-f523-4358-9f8b-7382a03d59bc",
+  "source": "dailymed"
+}
