@@ -4,7 +4,7 @@ The use of Mirena is contraindicated when one or more of the following condition
 
 - •Pregnancy or suspicion of pregnancy [see Warnings and Precautions (5.2), Use in Specific Populations (8.1)]
 - •For use as post-coital contraception (emergency contraception)
-- •Congenital or acquired uterine anomaly including fibroids that distorts the uterine cavity
+- •Congenital or acquired uterine anomaly including fibroids, that distorts the uterine cavity
 - •Acute pelvic inflammatory disease (PID) or a history of PID unless there has been a subsequent intrauterine pregnancy [see Warnings and Precautions (5.4)]
 - •Postpartum endometritis or infected abortion in the past 3 months
 - •Known or suspected uterine or cervical malignancy

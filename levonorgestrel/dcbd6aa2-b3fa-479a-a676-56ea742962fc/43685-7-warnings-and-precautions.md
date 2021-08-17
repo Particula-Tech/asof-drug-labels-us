@@ -61,8 +61,8 @@ PID may be asymptomatic but still result in tubal damage and its sequelae.
 
 #### Treatment of PID
 
-Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained and antibiotic therapy should be initiated promptly.
-Removal of Mirena after initiation of antibiotic therapy is usually appropriate.
+Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained, and antibiotic therapy should be initiated promptly.
+Removal of Mirena after initiation of antibiotic therapy is usually appropriate.1
 
 #### Actinomycosis
 
@@ -147,7 +147,7 @@ In addition, consider removing Mirena if any of the following conditions arise d
 - •Uterine or cervical malignancy
 - •Jaundice
 
-If the threads are not visible or are significantly shortened they may have broken or retracted into the cervical canal or uterus.
+If the threads are not visible or are significantly shortened, they may have broken or retracted into the cervical canal or uterus.
 Consider the possibility that the system may have been displaced (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.5, 5.6)].
 Exclude pregnancy and verify the location of Mirena, for example, by sonography, X-ray, or by gentle exploration of the cervical canal with a suitable instrument.
 If Mirena is displaced, remove it.

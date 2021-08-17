@@ -10,14 +10,17 @@ The reported 12-month pregnancy rates were less than or equal to 0.2 per 100 wom
 
 The contraceptive efficacy of Mirena during extended use beyond 5 years was studied in the Mirena Extension Trial (NCT02985541), a multi-center, open-label, uncontrolled study conducted in the United States.
 The trial enrolled women 18 to 35 years of age who had been using Mirena for not less than 4.5 years and not more than 5 years at enrollment.
-The efficacy population consisted of 362 women using Mirena.
+The population consisted of 362 women using Mirena.
 Of these 47.2% were nulliparous.
 The women were predominantly White (75.4%); 14.1% of the women were Black/African American, and 2.5% were Asian; 11.3 % were Hispanic.
 The weight range was 38.5–163.5 kg (mean weight: 75.6 kg) and mean BMI was 27.9 kg/m2 (range: 15.4–57.7 kg/m2).
-The pregnancy rate calculated as the Pearl Index (PI) in women ≤ 36 years of age at the end of Year 6 was the primary efficacy endpoint.
-The PI was calculated based on 28-day equivalent exposure cycles; evaluable cycles excluded those in which back-up contraception was used unless a pregnancy occurred in that cycle.
-A total of 362 women contributed 3,722 cycles.
-The PI for the 6th year of use based on the 1 pregnancy that occurred during Year 6 and within 7 days after Mirena removal or expulsion was 0.35 with a 95% upper confidence limit of 1.95.
+
+The pregnancy rate calculated as the Pearl Index (PI) was the primary efficacy endpoint used to assess contraceptive efficacy.
+The PI was based on 28-day equivalent exposure cycles; evaluable cycles excluded those in which back-up contraception was used unless a pregnancy occurred in that cycle.
+The PI for the 6th year of use based on the 1 pregnancy that occurred during Year 6 and within 7 days after Mirena removal or expulsion and 3,722 evaluable cycles was 0.35 with a 95% upper confidence limit of 1.95, and the PI for the 7th year of use based on the 1 pregnancy that occurred during Year 7 and within 7 days after Mirena removal or expulsion and 2,912 evaluable cycles was 0.45 with a 95% upper confidence limit of 2.49.
+
+The cumulative 2-year pregnancy rate for Years 6 and 7 was estimated by the Kaplan-Meier method.
+Based on 2 pregnancies (1 in Year 6 and 1 in Year 7) and 7,269 exposure cycles, the cumulative pregnancy rate at the end of the 2-year period of extended use (Years 6 and 7) was 0.71% with a 95% upper confidence limit of 2.84%.
 
 ## 14.2 Clinical Trial on Heavy Menstrual Bleeding
 

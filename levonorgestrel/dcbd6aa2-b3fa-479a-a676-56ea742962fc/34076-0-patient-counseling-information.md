@@ -30,7 +30,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   [See Warnings and Precautions (5.7).]
 - •Bleeding Pattern Alterations: Advise the patient that irregular or prolonged bleeding and spotting, and/or cramps may occur during the first few weeks after insertion.
   Inform the patient that, during the first 3–6 months of Mirena use, the number of bleeding and spotting days may be higher and bleeding patterns may be irregular.
-  If her symptoms continue or are severe she should report them to her healthcare provider.
+  If her symptoms continue or are severe, she should report them to her healthcare provider.
   [See Warnings and Precautions (5.8).]
 - •Clinical Considerations for Use and Removal: Advise the patient to contact her healthcare provider if she experiences any of the following:
 - •A stroke or heart attack
