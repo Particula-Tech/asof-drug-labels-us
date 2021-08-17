@@ -30,8 +30,8 @@ The duration of action of rocuronium bromide injection 0.6 mg/kg is longer than 
 Rocuronium bromide injection was dosed according to actual body weight (ABW) in most clinical studies.
 The administration of rocuronium bromide injection in the 47 of 330 (14%) patients who were at least 30% or more above their ideal body weight (IBW) was not associated with clinically significant differences in the onset, duration, recovery, or reversal of rocuronium bromide injection-induced neuromuscular block.
 
-In 1 clinical study in obese patients, rocuronium bromide injection 0.6 mg/kg was dosed according to ABW (n=12) or IBW (n=11).
-Obese patients dosed according to IBW had a longer time to maximum block, a shorter median (range) clinical duration of 25 (14 to 29) minutes, and did not achieve intubating conditions comparable to those dosed based on ABW.
+In 1 clinical study in obese patients, rocuronium bromide injection 0.6 mg/kg was dosed according to ABW (n = 12) or IBW (n = 11).
+Obese patients dosed according to IBW had a longer time to maximum block, a shorter median (range) clinical duration of 25 (14-29) minutes, and did not achieve intubating conditions comparable to those dosed based on ABW.
 These results support the recommendation that obese patients be dosed based on actual body weight [see Dosage and Administration (2.6)].
 
 ### Obstetric Patients

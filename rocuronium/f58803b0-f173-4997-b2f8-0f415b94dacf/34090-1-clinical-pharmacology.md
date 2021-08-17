@@ -31,20 +31,20 @@ Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Rocuronium Bromide Injection Dose (mg/kg) Administered Over 5 sec | Time to ≥ 80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adults 18 to 64 yrs |  |  |  |  |  |  |
-| 0.45 (n = 50) | 1.3 (0.8–6.2) | 3.0 (1.3–8.2) | 22 (12–31) |  |  |  |
-| 0.6 (n = 142) | 1.0 (0.4–6.0) | 1.8 (0.6–13.0) | 31 (15–85) |  |  |  |
-| 0.9 (n = 20) | 1.1 (0.3–3.8) | 1.4 (0.8–6.2) | 58 (27–111) |  |  |  |
-| 1.2 (n = 18) | 0.7 (0.4–1.7) | 1.0 (0.6–4.7) | 67 (38–160) |  |  |  |
+| 0.45 (n = 50) | 1.3 (0.8-6.2) | 3.0 (1.3-8.2) | 22 (12-31) |  |  |  |
+| 0.6 (n = 142) | 1.0 (0.4-6.0) | 1.8 (0.6-13.0) | 31 (15-85) |  |  |  |
+| 0.9 (n = 20) | 1.1 (0.3-3.8) | 1.4 (0.8-6.2) | 58 (27-111) |  |  |  |
+| 1.2 (n = 18) | 0.7 (0.4-1.7) | 1.0 (0.6-4.7) | 67 (38-160) |  |  |  |
 | Geriatric ≥ 65 yrs |  |  |  |  |  |  |
-| 0.6 (n = 31) | 2.3 (1.0–8.3) | 3.7 (1.3–11.3) | 46 (22–73) |  |  |  |
-| 0.9 (n = 5) | 2.0 (1.0–3.0) | 2.5 (1.2–5.0) | 62 (49–75) |  |  |  |
-| 1.2 (n = 7) | 1.0 (0.8–3.5) | 1.3 (1.2–4.7) | 94 (64–138) |  |  |  |
+| 0.6 (n = 31) | 2.3 (1.0-8.3) | 3.7 (1.3-11.3) | 46 (22-73) |  |  |  |
+| 0.9 (n = 5) | 2.0 (1.0-3.0) | 2.5 (1.2-5.0) | 62 (49-75) |  |  |  |
+| 1.2 (n = 7) | 1.0 (0.8-3.5) | 1.3 (1.2-4.7) | 94 (64-138) |  |  |  |
 | Infants 3 mo to 1 yr |  |  |  |  |  |  |
-| 0.6 (n = 17) | — | 0.8 (0.3–3.0) | 41 (24–68) |  |  |  |
-| 0.8 (n = 9) | — | 0.7 (0.5–0.8) | 40 (27–70) |  |  |  |
+| 0.6 (n = 17) | — | 0.8 (0.3-3.0) | 41 (24-68) |  |  |  |
+| 0.8 (n = 9) | — | 0.7 (0.5-0.8) | 40 (27-70) |  |  |  |
 | Pediatric 1 to 12 yrs |  |  |  |  |  |  |
-| 0.6 (n = 27) | 0.8 (0.4–2.0) | 1.0 (0.5–3.3) | 26 (17–39) |  |  |  |
-| 0.8 (n = 18) | — | 0.5 (0.3–1.0) | 30 (17–56) |  |  |  |
+| 0.6 (n = 27) | 0.8 (0.4-2.0) | 1.0 (0.5-3.3) | 26 (17-39) |  |  |  |
+| 0.8 (n = 18) | — | 0.5 (0.3-1.0) | 30 (17-56) |  |  |  |
 | n = the number of patients who had time to maximum block recorded. Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
 Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
@@ -54,7 +54,7 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Rocuronium Bromide Injection Dose (mg/kg) Administered Over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Neonates birth to < 28 days |  |  |  |  |  |  |  |  |  |
-| 0.45 (n = 5) | 1.1 (0.6-2.2) | 40.3 (32.5–62.6) |  |  |  |  |  |  |  |
+| 0.45 (n = 5) | 1.1 (0.6-2.2) | 40.3 (32.5-62.6) |  |  |  |  |  |  |  |
 | 0.6 (n = 10) | 1.0 (0.2-2.1) | 49.7 (16.6-119.0) |  |  |  |  |  |  |  |
 | 1 (n = 6) | 0.6 (0.3-1.8) | 114.4 (92.6-136.3) |  |  |  |  |  |  |  |
 | Infants 28 days to ≤ 3 mo |  |  |  |  |  |  |  |  |  |
@@ -126,7 +126,7 @@ In geriatric and other adult surgical patients undergoing either opioid/nitrous 
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n = 22; ages 27 to 58 yrs) and Geriatric (n = 20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| PK Parameters | Adults (Ages 27-58 yrs) | Geriatrics (≥65 yrs) |
+| PK Parameters | Adults (Ages 27-58 yrs) | Geriatrics (≥ 65 yrs) |
 | --- | --- | --- |
 | Clearance (L/kg/hr) | 0.25 (0.08) | 0.21 (0.06) |
 | Volume of Distribution at Steady State (L/kg) | 0.25 (0.04) | 0.22 (0.03) |
@@ -168,7 +168,7 @@ Table 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patient
 
 | PK Parameters | Patient Age Range |  |  |
 | --- | --- | --- | --- |
-| 3 to <12 mos | 1 to <3 yrs | 3 to <8 yrs |  |
+| 3 to < 12 mos | 1 to < 3 yrs | 3 to < 8 yrs |  |
 | Clearance (L/kg/hr) | 0.35 (0.08) | 0.32 (0.07) | 0.44 (0.16) |
 | Volume of Distribution at Steady State (L/kg) | 0.30 (0.04) | 0.26 (0.06) | 0.21 (0.03) |
 | t1/2 β Elimination (hr) | 1.3 (0.5) | 1.1 (0.7) | 0.8 (0.3) |
@@ -177,13 +177,13 @@ Pharmacokinetics of rocuronium bromide injection were evaluated using a populati
 All pharmacokinetic parameters were found to be linearly proportional to body weight.
 In patients under the age of 18 years clearance (CL) and volume of distribution (Vss) increase with bodyweight (kg) and age (years).
 As a result the terminal half-life of rocuronium bromide injection decreases with increasing age from 1.1 hour to 0.7-0.8 hour.
-Table 10 presents the pharmacokinetic parameters in the different age groups in the studies with sevoflurane (induction)and isoflurane/nitrous oxide (maintenance) anesthesia.
+Table 10 presents the pharmacokinetic parameters in the different age groups in the studies with sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
 
 Table 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia
 
 | PK Parameters | Patient Age Range |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Birth to <28 days | 28 days to ≤3 mos | 3 mos to ≤2 yrs | 2 to ≤11 yrs | 11 to ≤17 yrs |  |
+| Birth to < 28 days | 28 days to ≤ 3 mos | 3 mos to ≤ 2 yrs | 2 to ≤ 11 yrs | 11 to ≤ 17 yrs |  |
 | CL (L/kg/hr) | 0.31 (0.07) | 0.30 (0.08) | 0.33 (0.10) | 0.35 (0.09) | 0.29 (0.14) |
 | Volume of Distribution (L/kg) | 0.42 (0.06) | 0.31 (0.03) | 0.23 (0.03) | 0.18 (0.02) | 0.18 (0.01) |
 | t1/2 β (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |

@@ -55,4 +55,4 @@ The use of doses higher than 0.6 mg/kg has not been studied [see Dosage and Admi
 ## 8.7 Patients with Renal Impairment
 
 Due to the limited role of the kidney in the excretion of rocuronium bromide injection, usual dosing guidelines should be followed.
-In patients with renal dysfunction, the duration of neuromuscular blockade was not prolonged; however, there was substantial individual variability (range: 22- 90 minutes) [see Clinical Pharmacology (12.3)].
+In patients with renal dysfunction, the duration of neuromuscular blockade was not prolonged; however, there was substantial individual variability (range: 22-90 minutes) [see Clinical Pharmacology (12.3)].

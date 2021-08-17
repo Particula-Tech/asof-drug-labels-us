@@ -29,10 +29,10 @@ Use opened vials within 30 days.
 
 Mylan.com
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Code No.: AP/DRUGS/103/97
 
-MI:22805:10C:R6
+MI:22805:10C:R7

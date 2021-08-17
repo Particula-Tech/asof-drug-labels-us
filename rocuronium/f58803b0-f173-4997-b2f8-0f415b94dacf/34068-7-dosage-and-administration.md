@@ -177,7 +177,7 @@ During 1 to 2 hours of infusion, the infusion rate of rocuronium bromide injecti
 
 ## 2.7 Preparation for Administration of Rocuronium Bromide Injection
 
-Diluent Compatibility:Rocuronium bromide injection is compatible in solution with:
+Diluent Compatibility: Rocuronium bromide injection is compatible in solution with:
 
 | 0.9% NaCl solution | sterile water for injection |
 | --- | --- |
@@ -186,7 +186,7 @@ Diluent Compatibility:Rocuronium bromide injection is compatible in solution wit
 
 Rocuronium bromide injection is compatible in the above solutions at concentrations up to 5 mg/mL for 24 hours at room temperature in plastic bags, glass bottles, and plastic syringe pumps.
 
-Drug Admixture Incompatibility:Rocuronium bromide injection is physically incompatible when mixed with the following drugs:
+Drug Admixture Incompatibility: Rocuronium bromide injection is physically incompatible when mixed with the following drugs:
 
 | amphotericin | hydrocortisone sodium succinate |
 | --- | --- |
@@ -207,5 +207,5 @@ Unused portions of infusion solutions should be discarded.
 
 Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.11)].
 
-Visual Inspection:Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
+Visual Inspection: Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
 Do not use solution if particulate matter is present.
