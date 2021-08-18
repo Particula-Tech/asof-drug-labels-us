@@ -1,6 +1,6 @@
 # WARNINGS
 
-(See also Boxed WARNING.)
+(See alsoBoxed WARNING.)
 
 The total combined duration of use of ketorolac tromethamine tablets and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
 Ketorolac tromethamine tablets are not indicated for use in pediatric patients.

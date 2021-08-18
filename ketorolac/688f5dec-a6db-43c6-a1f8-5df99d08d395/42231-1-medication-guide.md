@@ -1,16 +1,13 @@
-| Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs) |  |
+# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+
+| Dispense with Medication Guide available at: www.tevausa.com/medguides |  |
 | --- | --- |
 | What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)? |  |
 | NSAIDs can cause serious side effects, including: |  |
-| Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: |  |
-| with increasing doses of NSAIDs |  |
-| with longer use of NSAIDs |  |
+| Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: with increasing doses of NSAIDswith longer use of NSAIDs |  |
 | Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).” |  |
 | Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack. |  |
-| Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: |  |
-| anytime during use |  |
-| without warning symptoms |  |
-| that may cause death |  |
+| Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: anytime during use without warning symptomsthat may cause death |  |
 | The risk of getting an ulcer or bleeding increases with: |  |
 | past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
@@ -66,7 +63,7 @@
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
-Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 10/2020
+B 7/2021

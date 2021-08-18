@@ -17,7 +17,7 @@ In patients taking ketorolac tromethamine or other NSAIDs in clinical trials, th
 | drowsiness | edema | elevated liver enzymes |
 | headaches* | hypertension | increased bleeding time |
 | injection site pain | pruritus | purpura |
-| rashes | tinnitus | sweating |
+| Rashes | tinnitus | sweating |
 | * Incidence greater than 10% |  |  |
 
 Additional adverse experiences reported occasionally (< 1% in patients taking ketorolac tromethamine or other NSAIDs in clinical trials) include:
@@ -84,3 +84,5 @@ Table 3: Incidence of Clinically Serious GI Bleeding as Related to Age, Total Da
 | ≤ 60 mg | > 60 to 90 mg | > 90 to 120 mg | > 120 mg |  |
 | < 65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |
 | ≥ 65 years of age | 4.7% | 3.7% | 2.8% | 25% |
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.

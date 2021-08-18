@@ -39,4 +39,4 @@ CONCOMITANT USE WITH NSAIDs
 
 SPECIAL POPULATIONS
 
-- Dosage should be adjusted for patients 65 years or older, for patients under 50 kg (110 lbs) of body weight (see DOSAGE AND ADMINISTRATION) and for patients with moderately elevated serum creatinine (see WARNINGS).
+Dosage should be adjusted for patients 65 years or older, for patients under 50 kg (110 lbs) of body weight (see DOSAGE AND ADMINISTRATION) and for patients with moderately elevated serum creatinine (see WARNINGS).
