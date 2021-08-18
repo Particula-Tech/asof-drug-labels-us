@@ -12,8 +12,8 @@ Advise patients to dispose of remaining, unused, or expired dexmethylphenidate h
 
 Serious Cardiovascular Risks
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with dexmethylphenidate hydrochloride tablets use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Advise patients that there is a potential serious cardiovascular risk, including sudden death, myocardial infarction, stroke, and hypertension with dexmethylphenidate hydrochloride tablets use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Blood Pressure and Heart Rate Increases
 
@@ -42,8 +42,8 @@ Advise patients that dexmethylphenidate hydrochloride tablets may cause slowing 
 
 Pregnancy Registry
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride tablets, during pregnancy [see Use in Specific Populations (8.1)].
 
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-LB8408 Rev 03 12/2019
+LB8408 Rev 04 08/2021

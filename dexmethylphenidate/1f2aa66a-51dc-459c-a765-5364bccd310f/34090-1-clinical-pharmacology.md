@@ -2,10 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant.
+Dexmethylphenidate hydrochloride is a CNS stimulant.
 The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
+
+Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
 Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
@@ -87,5 +89,5 @@ Drug Interaction Studies
 
 Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
 Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
-Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A.
 Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

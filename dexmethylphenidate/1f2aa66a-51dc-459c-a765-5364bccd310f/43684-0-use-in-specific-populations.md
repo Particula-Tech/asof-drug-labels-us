@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including dexmethylphenidate hydrochloride tablets, during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
 
@@ -25,7 +25,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-CNS stimulants such as dexmethylphenidate hydrochloride tablets, can cause vasoconstriction and thereby decrease placental perfusion.
+CNS stimulants, such as dexmethylphenidate hydrochloride tablets, can cause vasoconstriction and thereby decrease placental perfusion.
 No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 
 Data
@@ -35,12 +35,7 @@ Animal Data
 In embryo-fetal development studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis.
 No evidence of malformations was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats.
 When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, post-weaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed.
-At the highest doses tested, plasma levels (AUCs) of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.
-
-In studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis.
-No evidence of malformations was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats.
-When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, post-weaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed.
-At the highest doses tested, plasma levels (AUCs) of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.
+At the highest doses tested, plasma levels [area under the curves (AUCs)] of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.
 
 Racemic methylphenidate has been shown to cause malformations (increased incidence of fetal spina bifida) in rabbits when given in doses of 200 mg/kg/day throughout organogenesis.
 
@@ -73,9 +68,13 @@ Pediatric patients who are not growing or gaining weight as expected may need to
 
 Juvenile Animal Toxicity Data
 
+Rats treated with racemic methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood.
+A deficit in acquisition of a specific learning task was observed in females only.
+The doses at which these findings were observed are at least 6 times the MRHD of 60 mg/day given to children on a mg/m2 basis.
+
 In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal week 10).
-When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg of racemic methylphenidate on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD of 60 mg of racemic methylphenidate given to children on a mg/m2 basis).
-The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD of 60 mg of racemic methylphenidate on a mg/m2 basis).
+When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg of racemic methylphenidate given to children on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m2 basis).
+The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD given to children on a mg/m2 basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
 ## 8.5 Geriatric Use
