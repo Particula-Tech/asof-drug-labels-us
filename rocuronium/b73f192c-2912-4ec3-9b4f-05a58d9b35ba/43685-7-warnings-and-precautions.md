@@ -9,7 +9,7 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 ## 5.2 Anaphylaxis
 
 Severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
-These reactions have, in some cases (including cases with rocuronium bromide), been life threatening and fatal.
+These reactions have, in some cases (including cases with rocuronium bromide), been life threatening.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
 Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and nondepolarizing, has been reported.
 
@@ -46,7 +46,7 @@ Therefore, for patients receiving both neuromuscular blocking agents and cortico
 ## 5.7 Malignant Hyperthermia (MH)
 
 Rocuronium bromide has not been studied in MH-susceptible patients.
-Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of anyanesthetic [see Adverse Reactions (6.2)].
+Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
 
 In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.
 
@@ -60,7 +60,7 @@ The overall analysis of ECG data in pediatric patients indicates that the concom
 
 ## 5.10 Conditions/Drugs Causing Potentiation of, or Resistance to, Neuromuscular Block
 
-Potentiation
+Potentiation:
 
 Nondepolarizing neuromuscular blocking agents have been found to exhibit profound neuromuscular blocking effects in cachectic or debilitated patients, patients with neuromuscular diseases, and patients with carcinomatosis.
 
@@ -68,13 +68,13 @@ Certain inhalation anesthetics, particularly enflurane and isoflurane, antibioti
 
 In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.6)].
 
-Resistance
+Resistance:
 
 Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
 Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, or with chronic exposure to nondepolarizing agents.
 When rocuronium bromide is administered to these patients, shorter durations of neuromuscular block may occur, and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 
-Potentiation or Resistance
+Potentiation or Resistance:
 
 Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of rocuronium bromide.
 No data are available in such patients and no dosing recommendations can be made.
@@ -87,11 +87,11 @@ Since electrolyte imbalance and acid-base imbalance are usually mixed, either en
 
 ## 5.11 Incompatibility with Alkaline Solutions
 
-Rocuronium bromide injection, which has an acid pH, should not be mixed with alkaline solutions (e.g., barbiturate solutions) in the same syringe or administered simultaneously during intravenous infusion through the same needle.
+Rocuronium bromide, which has an acid pH, should not be mixed with alkaline solutions (e.g., barbiturate solutions) in the same syringe or administered simultaneously during intravenous infusion through the same needle.
 
 ## 5.12 Increase in Pulmonary Vascular Resistance
 
-Rocuronium bromide injection may be associated with increased pulmonary vascular resistance, so caution is appropriate in patients with pulmonary hypertension or valvular heart disease [see Clinical Studies (14.1)].
+Rocuronium bromide may be associated with increased pulmonary vascular resistance, so caution is appropriate in patients with pulmonary hypertension or valvular heart disease [see Clinical Studies (14.1)].
 
 ## 5.13 Use In Patients with Myasthenia
 

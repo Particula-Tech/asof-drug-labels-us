@@ -4,13 +4,13 @@
 
 Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15%-30% of human intubation dose of 0.6-1.2 mg/kg based on the body surface unit of mg/m2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high-dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15%-30% of human intubation dose of 0.6-1.2 mg/kg based on the body surface unit of mg/m2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
 The incidence of late embryonic death was increased at the high dose in rats, most likely due to oxygen deficiency.
 Therefore, this finding probably has no relevance for humans because immediate mechanical ventilation of the intubated patient will effectively prevent embryo-fetal hypoxia.
 However, there are no adequate and well-controlled studies in pregnant women.
-Rocuronium bromide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus
+Rocuronium bromide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 
@@ -35,10 +35,10 @@ Recommendations for use in pediatric patients are discussed in other sections [s
 
 ## 8.5 Geriatric Use
 
-Rocuronium bromide was administered to 140 geriatric patients (65 years or greater) in US clinical trials and 128 geriatric patients in European clinical trials.
+Rocuronium bromide was administered to 140 geriatric patients (65 years or greater) in U.S. clinical trials and 128 geriatric patients in European clinical trials.
 The observed pharmacokinetic profile for geriatric patients (n=20) was similar to that for other adult surgical patients [see Clinical Pharmacology (12.3)].
 Onset time and duration of action were slightly longer for geriatric patients (n=43) in clinical trials.
-Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.6), Warnings and Precautions (5.5), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
+Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.6), Warnings and Precautions (5.5), Clinical Pharmacology (12.2), and Clinical Studies (14.2)]
 
 ## 8.6 Patients with Hepatic Impairment
 

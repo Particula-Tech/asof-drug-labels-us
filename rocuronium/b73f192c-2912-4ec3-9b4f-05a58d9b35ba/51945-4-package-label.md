@@ -4,42 +4,54 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 5 mL Multiple Dose Vial Label
 
 NDC 39822-4200-1
 
-ROCURONIUM BROMIDE Injection
+ROCURONIUM BROMIDE INJECTION
 
-50 mg/5 mL
-
-(10 mg/mL)
-
-WARNING: Paralyzing Agent
+50 mg/5 mL (10 mg/mL)
 
 For IV Use Only
 
-FOR IV USE ONLY
+Rx only
 
-Manufactured for
-
-X-GenBig Flats, NY 12814
-
-Manufactured in Germany
+Multiple Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Label
 
 NDC 39822-4200-5
 
-ROCURONIUM BROMIDE Injection
+ROCURONIUM BROMIDE INJECTION
 
-100 mg/10 mL
-
-(10 mg/mL)
-
-WARNING: Paralyzing Agent
+100 mg/10 mL (10 mg/mL)
 
 For IV Use Only
 
-FOR IV USE ONLY
+Rx only
 
-Manufactured for
+Multiple Dose Vial
 
-X-Gen Big Flats, NY 12814
+PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 5 mL Multiple Dose Vial Label
 
-Manufactured in Germany
+NDC 39822-4200-2
+
+ROCURONIUM BROMIDE INJECTION
+
+50 mg/5 mL (10 mg/mL)
+
+For IV Use Only
+
+Rx only
+
+Multiple Dose Vial
+
+PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Label
+
+NDC 39822-4200-6
+
+ROCURONIUM BROMIDE INJECTION
+
+100 mg/10 mL (10 mg/mL)
+
+For IV Use Only
+
+Rx only
+
+Multiple Dose Vial
