@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
 ## 1.1 Treatment of Chronic Iron Overload Due to Blood Transfusions (Transfusional Iron Overload)
 

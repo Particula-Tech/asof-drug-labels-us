@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
 Deferasirox tablets are contraindicated in patients with:
 
