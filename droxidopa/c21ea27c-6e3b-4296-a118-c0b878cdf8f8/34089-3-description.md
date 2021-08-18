@@ -10,4 +10,4 @@ It has a molecular weight of 213.19 and a molecular formula of C 9H 11NO 5.
 Droxidopa capsules also contain the following inactive ingredients: corn starch, mannitol, and magnesium stearate.
 The capsule shell is printed with black ink.
 The black ink contain black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
-The capsule shell contains gelatin and titanium dioxide.
+The capsule shell contains gelatin and titanium dioxide, in addition 100 mg and 200 mg capsule shells contain FD&C Blue 1 and FD&C Red 3.

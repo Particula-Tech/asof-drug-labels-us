@@ -26,4 +26,4 @@ Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 By: Annora Pharma Pvt.
 Ltd. Sangareddy - 502313, Telangana, India.
 
-Revised: 01/2021
+Revised: 07/2021

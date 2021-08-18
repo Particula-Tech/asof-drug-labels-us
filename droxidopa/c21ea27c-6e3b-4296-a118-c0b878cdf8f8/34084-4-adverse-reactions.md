@@ -16,10 +16,10 @@ Most Common Adverse Reactions Occurring More Frequently in the Droxidopa Group
 |  | Study 301 and Study 302 (1 to 2 Weeks Randomized Treatment) |  | Study 306 (8 to 10 Weeks Randomized Treatment) |  |
 | --- | --- | --- | --- | --- |
 | Placebo (N=132) n (%) | Droxidopa (N=131) n (%) | Placebo (N=108) n (%) | Droxidopa (N=114) n (%) |  |
-| Headache | 4 (3) | 8 (6.1) | 8 (7.4) | 15 (13.2) |
+| Headache | 4 (3.0) | 8 (6.1) | 8 (7.4) | 15 (13.2) |
 | Dizziness | 2 (1.5) | 5 (3.8) | 5 (4.6) | 11 (9.6) |
 | Nausea | 2 (1.5) | 2 (1.5) | 5 (4.6) | 10 (8.8) |
-| Hypertension | 0 | 2 (1.5) | 1 (0.9) | 8 (7) |
+| Hypertension | 0 | 2 (1.5) | 1 (0.9) | 8 (7.0) |
 
 Note: n=number of patients.
 Adverse reactions that were reported in greater than 5% of patients in the droxidopa group and with at least a 3% greater incidence in the droxidopa group than in the placebo group were from Study 306.
