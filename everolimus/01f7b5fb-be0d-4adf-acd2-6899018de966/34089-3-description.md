@@ -7,5 +7,5 @@ The chemical name of everolimus is (1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28
 The molecular formula is C53H83NO14 and the molecular weight is 958.2 g/mol.
 The structural formula is:
 
-Everolimus tablets are supplied for oral administration and contain 2.5 mg, 5 mg or 7.5 mg of everolimus.
+Everolimus tablets are supplied for oral administration and contain 2.5 mg, 5 mg, 7.5 mg or 10 mg of everolimus.
 The tablets also contain anhydrous lactose, butylated hydroxytoluene, crospovidone, hypromellose, and magnesium stearate as inactive ingredients.
