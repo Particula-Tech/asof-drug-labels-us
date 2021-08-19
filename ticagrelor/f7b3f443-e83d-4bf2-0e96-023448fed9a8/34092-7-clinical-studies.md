@@ -174,7 +174,7 @@ Table 9 - Primary composite endpoint, primary endpoint components, and secondary
 | Time to first CV death, MI, or strokePrimary endpoint | 24 | 27 | 0.90 (0.81, 0.99) | 0.04 |
 | CV deathThe event rate for the components CV death, MI and stroke are calculated from the actual number of first events for each component. | 12 | 11 | 1.02 (0.88, 1.18) |  |
 | Myocardial infarction | 9 | 11 | 0.84 (0.71, 0.98) |  |
-| Stroke† | 6 | 7 | 0.82 (0.67, 0.99) |  |
+| Stroke | 6 | 7 | 0.82 (0.67, 0.99) |  |
 | Secondary endpoints |  |  |  |  |
 | CV death | 12 | 11 | 1.02 (0.88, 1.18) |  |
 | Myocardial infarction | 9 | 11 | 0.84 (0.71, 0.98) |  |
@@ -215,12 +215,12 @@ The effect was driven primarily by a significant reduction in the stroke compone
 
 Table 10 - Incidences of the primary composite endpoint, primary composite endpoint components, and secondary endpoint (THALES)
 
-|  | BRILINTA N=5523 |  | Placebo N=5493 |  | HR (95% CI) | p-value |
+|  | BRILINTAN=5523 |  | PlaceboN=5493 |  | HR (95% CI) | p-value |
 | --- | --- | --- | --- | --- | --- | --- |
-| n (patientswith event) | KM% | n (patientswith event) | KM% |  |  |  |
+|  | n (patientswith event) | KM% | n (patientswith event) | KM% |  |  |
 | Time to first Stroke or Death | 303 | 5.4% | 362 | 6.5% | 0.83 (0.71, 0.96) | 0.015 |
 | Time to first StrokeThe number of patients with the event of interest. In the time to first stroke, patients who died are censored at the time of death. | 284 | 5.1% | 347 | 6.3% | 0.81 (0.69, 0.95) |  |
-| Time to Death | 36 | 0.6% | 27 | 0.5% | 1.33 (0.81, 2.19) |  |
+| Time to Death1 | 36 | 0.6% | 27 | 0.5% | 1.33 (0.81, 2.19) |  |
 | Secondary Endpoint |  |  |  |  |  |  |
 | Time to first Ischemic Stroke | 276 | 5.0% | 345 | 6.2% | 0.79 (0.68, 0.93) | 0.004 |
 | CI = Confidence interval; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 30 days; N = Number of patients |  |  |  |  |  |  |

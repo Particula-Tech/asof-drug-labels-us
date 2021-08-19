@@ -113,9 +113,9 @@ The bleeding events in THEMIS are shown below in Table 6.
 
 Table 6 – Bleeding events (THEMIS)
 
-| Events / 1000 patient years | Events / 1000 patient years |  |
+|  | BRILINTAN=9562 | PlaceboN=9531 |
 | --- | --- | --- |
-|  | BRILINTA N=9562 | Placebo N=9531 |
+| Events / 1000 patient years | Events / 1000 patient years |  |
 | TIMI Major | 9 | 4 |
 | TIMI Major or Minor | 12 | 5 |
 | TIMI Major or Minor or Requiring medical attention | 46 | 18 |

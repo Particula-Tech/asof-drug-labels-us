@@ -43,7 +43,12 @@ Avoid use of BRILINTA in patients with severe hepatic impairment.
 Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
 There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
-## 5.7 Laboratory Test Interferences
+## 5.7 Central Sleep Apnea
+
+Central sleep apnea (CSA) including Cheyne-Stokes respiration (CSR) has been reported in the post-marketing setting in patients taking ticagrelor, including recurrence or worsening of CSA/CSR following rechallenge.
+If central sleep apnea is suspected, consider further clinical assessment.
+
+## 5.8 Laboratory Test Interferences
 
 False negative functional tests for Heparin Induced Thrombocytopenia (HIT)
 
