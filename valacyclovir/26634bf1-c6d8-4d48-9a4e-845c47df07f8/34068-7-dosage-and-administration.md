@@ -39,7 +39,7 @@ Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingli
 
 Chickenpox
 
-The recommended dosage of valacyclovir tablets for treatment of chickenpox in immunocompetent pediatric patients 2 to less than 18 years of age is 20 mg/kg administered 3 times daily for 5 days.
+The recommended dosage of valacyclovir tablets for treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years is 20 mg/kg administered 3 times daily for 5 days.
 The total dose should not exceed 1 gram 3 times daily.
 Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 

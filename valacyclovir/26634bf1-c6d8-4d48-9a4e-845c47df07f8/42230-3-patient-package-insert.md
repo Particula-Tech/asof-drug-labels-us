@@ -15,21 +15,21 @@ Valacyclovir tablets are a prescription medicine used in adults:
 
 - •to treat cold sores (herpes labialis)
 - •to treat or control genital herpes outbreaks in adults with normal immune systems
-- •to control genital herpes outbreaks in adults with the human immunodeficiency virus-1 (HIV-1)
-- •with safer sex practices to lower the chance of spreading genital herpes to others, in adults with normal immune system.
+- •to control genital herpes outbreaks in adults with human immunodeficiency virus-1 (HIV-1).
+- •with safer sex practices to lower the chance of spreading genital herpes to others, in adults with normal immune systems.
   Even with safer sex practices, it is still possible to spread genital herpes.
-- oDo not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
-- oUse a condommade of latex or polyurethane whenever you have sexual contact.
-- oAsk your healthcare provider for more information about safer sex practices.
+- •Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
+- •Use a condom made of latex or polyurethane whenever you have sexual contact.
+- •Ask your healthcare provider for more information about safer sex practices.
 - •to treat shingles (herpes zoster) in adults with normal immune systems.
 
 Valacyclovir tablets are used in children to treat:
 
 cold sores in children 12 years of age and older.
 
-chickenpox in children with normal immune system 2 years of age to less than 18 years of age.
+chickenpox in children with normal immune systems 2 years of age to less than 18 years of age.
 
-Valacyclovir tabletsdoes not cure cold sores, chickenpox, shingles, or genital herpes.
+Valacyclovir tablets does not cure cold sores, chickenpox, shingles, or genital herpes.
 
 It is not known if valacyclovir tablets are safe and effective in people with weakened immune systems, other than for control of outbreaks of genital herpes in people with HIV-1.
 
@@ -37,9 +37,9 @@ It is not known if valacyclovir tablets are safe and effective in people 18 year
 
 It is not known if valacyclovir tablets are safe and effective in children:
 
-- oless than 12 years of age with cold sores
-- oless than 2 years of age with chickenpox
-- oless than 18 years of age with genital herpes or shingles
+- •less than 12 years of age with cold sores
+- •less than 2 years of age with chickenpox
+- •less than 18 years of age with genital herpes or shingles
 
 Do not take valacyclovir tablets if you are allergic to valacyclovir, acyclovir, or any of the ingredients in valacyclovir tablets.
 See the end of this leaflet for a complete list of ingredients in valacyclovir tablets.
@@ -99,11 +99,11 @@ kidney failure.
 nervous system problems.
 Tell your healthcare provider right away if you get any of these signs or symptoms of nervous system problems during treatment with valacyclovir tablets:
 
-| oaggressive behaviour | ospeech problems |
+| •aggressive behaviour | •speech problems |
 | --- | --- |
-| ounsteady movement | ohallucinations (seeing or hearing things that are really not there) |
-| oshaky movements | oseizures |
-| oconfusion | ocoma |
+| •unsteady movement | •hallucinations (seeing or hearing things that are really not there) |
+| •shaky movements | •seizures |
+| •confusion | •coma |
 
 Elderly people are more likely to get certain side effects.
 Talk to your healthcare provider if this is a concern for you.
@@ -116,7 +116,7 @@ The most common side effects of valacyclovir tablets in adults include:
 
 The most common side effect of valacyclovir tablets in children less than 18 years of age is headache.
 
-These are not all possible side effects of valacyclovir tablets.
+These are not all the possible side effects of valacyclovir tablets.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -124,9 +124,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store valacyclovir tablets?
 
 - •Store valacyclovir tablets at 59° to 77° F (15° to 25° C).
-- •Store valacyclovir oralsuspension between 2° to 8° C (36° to 46° F) in a refrigerator.
-  Throw away (discard) any remaining valacyclovir oralsuspension after 28 days.
-- •Shake valacyclovir oralsuspension bottle well before using.
+- •Store valacyclovir oral suspension between 2° to 8° C (36° to 46° F) in a refrigerator.
+  Throw away (discard) any remaining valacyclovir oral suspension after 28 days.
+- •Shake valacyclovir oral suspension bottle well before using.
 - •Keep valacyclovir tablets in a tightly closed container.
 
 Keep valacyclovir tablets and all medicines out of the reach of children.
