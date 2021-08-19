@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Mercaptopurine Tablets USP
+Mercaptopurine Tablets, USP
 
 50 mg supplied as pale yellow, biconvex tablets, with product identification “54 420” on one side and a score on the other side.
 

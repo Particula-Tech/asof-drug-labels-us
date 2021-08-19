@@ -9,7 +9,7 @@ Mercaptopurine is practically insoluble in water and in ether.
 It has a pKa of 7.8, an average tapped density of 1.0 g/mL and average bulk density of 0.85 g/mL.
 It dissolves in solutions of alkali hydroxides.
 
-Mercaptopurine Tablets USP are available for oral use.
-Each scored tablet contains 50 mg mercaptopurine and the following inactive ingredients: corn starch, hypromellose, lactose (anhydrous), lactose monohydrate, magnesium stearate, potato starch, sodium starch glycolate and stearic acid.
+Mercaptopurine Tablets, USP are available for oral use.
+Each scored tablet contains 50 mg mercaptopurine, USP and the following inactive ingredients: corn starch, hypromellose, lactose (anhydrous), lactose monohydrate, magnesium stearate, potato starch, sodium starch glycolate and stearic acid.
 
-Each tablet meets the requirements of Test 2 for Dissolution in the USP monograph for Mercaptopurine Tablets USP.
+Each tablet meets the requirements of Test 2 for Dissolution in the USP monograph for Mercaptopurine Tablets, USP.

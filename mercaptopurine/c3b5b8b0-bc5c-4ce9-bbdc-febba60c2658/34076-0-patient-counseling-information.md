@@ -24,12 +24,12 @@ Other Adverse Reactions
 
 Instruct patients to minimize sun exposure due to risk of photosensitivity [see Adverse Reactions (6.1)].
 
-Distr. by: West-Ward
+Distributed by:
 
-Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10002106/10
+C50000734/01
 
-Revised January 2021
+Revised June 2021
