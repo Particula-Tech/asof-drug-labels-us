@@ -13,7 +13,7 @@ Follow applicable special handling and disposal procedures [see References (15)]
 Swallow HYDREA capsules whole.
 Do NOT open, break, or chew capsules because HYDREA is a cytotoxic drug.
 
-Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.7)].
+Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.8)].
 
 Monitor blood counts at least once a week during HYDREA therapy.
 Severe anemia must be corrected before initiating therapy with HYDREA.
@@ -23,7 +23,7 @@ Severe anemia must be corrected before initiating therapy with HYDREA.
 Monitor for the following and reduce the dose or discontinue HYDREA accordingly:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- Cutaneous vasculitis [see Warnings and Precautions (5.4)]
+- Cutaneous vasculitis [see Warnings and Precautions (5.5)]
 
 Consider dose modifications for other toxicities.
 
