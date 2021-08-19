@@ -1,151 +1,73 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Heparin is not intended for intramuscular use.
+## 5.1 Fatal Medication Errors
 
-## Fatal Medication Errors
+Do not use heparin sodium as a “catheter lock flush” product. heparin sodium is supplied in vials containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
+Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL heparin sodium vials were confused with 1 mL “catheter lock flush” vials.
+Carefully examine all heparin sodium vials to confirm the correct vial choice prior to administration of the drug.
 
-Do not use Heparin Sodium Injection as a “catheter lock flush” product.
-Heparin Sodium Injection is supplied in vials containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
-Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
-Carefully examine all Heparin Sodium Injection vials to confirm the correct vial choice prior to administration of the drug.
+## 5.2 Hemorrhage
 
-## Benzyl Alcohol Toxicity
-
-Use preservative-free Heparin Sodium Injection in neonates and infants.
-The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-The minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birth weight infants may be more likely to develop toxicity (see PRECAUTIONS, Pediatric Use).
-
-## Hypersensitivity
-
-Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations (see ADVERSE REACTIONS, Hypersensitivity).
-
-## Hemorrhage
+Avoid using heparin in the presence of major bleeding, except when the benefits of heparin therapy outweigh the potential risks.
 
 Hemorrhage can occur at virtually any site in patients receiving heparin.
+Fatal hemorrhages have occurred.
+Adrenal hemorrhage (with resultant acute adrenal insufficiency), ovarian hemorrhage, and retroperitoneal hemorrhage have occurred during anticoagulant therapy with heparin [see Adverse Reactions (6.1)].
+A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age [see Clinical Pharmacology (12.3)].
 An unexplained fall in hematocrit, fall in blood pressure or any other unexplained symptom should lead to serious consideration of a hemorrhagic event.
 
-Heparin sodium should be used with extreme caution in disease states in which there is increased danger of hemorrhage.
-Some of the conditions in which increased danger of hemorrhage exists are:
+Use heparin sodium with caution in disease states in which there is increased risk of hemorrhage, including:
 
-Cardiovascular - Subacute bacterial endocarditis, severe hypertension.
+- Cardiovascular - Subacute bacterial endocarditis, severe hypertension.
+- Surgical - During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+- Hematologic - Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia and some vascular purpuras.
+- Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy - The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
+  To reduce the risk of bleeding, reduce the heparin dose during concomitant treatment with antithrombin III (human).
+- Gastrointestinal - Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+- Other - Menstruation, liver disease with impaired hemostasis.
 
-Surgical - During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+## 5.3 Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis
 
-Hematologic - Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia and some vascular purpuras.
-
-Gastrointestinal - Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
-
-Other - Menstruation, liver disease with impaired hemostasis.
-
-## Coagulation Testing
-
-When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests.
-If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be promptly discontinued (see OVERDOSAGE).
-
-## Thrombocytopenia
-
-Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
-Platelet counts should be obtained at baseline and periodically during heparin administration.
-Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
-However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
-
-## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
-
-Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
-HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
+Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction.
+HIT occurs in patients treated with heparin and is due to the development of antibodies to a platelet Factor 4-heparin complex that induce in vivo platelet aggregation.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as heparin-induced thrombocytopenia with thrombosis (HITT).
 Thrombotic events may also be the initial presentation for HITT.
 These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
-Thrombocytopenia of any degree should be monitored closely.
-If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant.
 
-## Delayed Onset of HIT and HITT
+HIT or HITT can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin sodium should be evaluated for HIT or HITT.
 
-Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
-Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+## 5.4 Risk of Serious Adverse Reactions in Infants Due to Benzyl Alcohol Preservative
 
-# PRECAUTIONS
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including heparin sodium multiple-dose vials.
+The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 
-## General
+When prescribing heparin sodium multiple-dose vials in infants consider the combined daily metabolic load of benzyl alcohol from all sources including heparin sodium multiple-dose vials and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which toxicity may occur is not known [see Use in Specific Populations (8.4)].
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+## 5.5 Thrombocytopenia
 
-See WARNINGS.
+Thrombocytopenia in patients receiving heparin has been reported at frequencies up to 30%.
+It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
+Obtain platelet counts before and periodically during heparin therapy.
+Monitor thrombocytopenia of any degree closely.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant [see Warnings and Precautions (5.3)].
 
-Heparin Resistance - Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
+## 5.6 Coagulation Testing and Monitoring
 
-Increased Risk to Older Patients, Especially Women - A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
+When using a full dose heparin regimen, adjust the heparin dose based on frequent blood coagulation tests.
+If the coagulation test is unduly prolonged or if hemorrhage occurs, discontinue heparin promptly [see Overdosage (10)].
+Periodically monitor platelet counts, hematocrit, and occult blood in stool during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
 
-## Laboratory Tests
+## 5.7 Heparin Resistance
 
-Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
+Resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer, in postsurgical patients, and patients with antithrombin III deficiency.
+Close monitoring of coagulation tests is recommended in these cases.
+Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 
-## Drug Interactions
+## 5.8 Hypersensitivity
 
-Oral Anticoagulants - Heparin sodium may prolong the one-stage prothrombin time.
-Therefore, when heparin sodium is given with dicumarol or warfarin sodium, a period of at least five hours after the last intravenous dose or 24 hours after the last subcutaneous dose should elapse before blood is drawn, if a valid prothrombin time is to be obtained.
+Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations [see Adverse Reactions (6.1)].
 
-Platelet Inhibitors - Drugs such as acetylsalicylic acid, dextran, phenylbutazone, ibuprofen, indomethacin, dipyridamole, hydroxychloroquine and others that interfere with platelet-aggregation reactions (the main hemostatic defense of heparinized patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
-
-Other Interactions - Digitalis, tetracyclines, nicotine or antihistamines may partially counteract the anticoagulant action of heparin sodium.
-Intravenous nitroglycerin administered to heparinized patients may result in a decrease of the partial thromboplastin time with subsequent rebound effect upon discontinuation of nitroglycerin.
-Careful monitoring of partial thromboplastin time and adjustment of heparin dosage are recommended during coadministration of heparin and intravenous nitroglycerin.
-
-## Drug/Laboratory Tests Interactions
-
-Hyperaminotransferasemia - Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
-Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease and pulmonary emboli, increases that might be caused by drugs (like heparin) should be interpreted with caution.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
-Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
-
-## Pregnancy
-
-Pregnancy Category C
-
-There are no adequate and well-controlled studies on heparin use in pregnant women.
-In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
-Heparin sodium does not cross the placenta, based on human and animal studies.
-Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
-Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during pregnancy.
-There are no known adverse outcomes associated with fetal exposure to the preservative benzyl alcohol through maternal drug administration; however, the preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants (see PRECAUTIONS, Pediatric Use).
-
-In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
-The number of early resorptions increased in both species.
-There was no evidence of teratogenic effects.
-
-## Nursing Mothers
-
-If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during lactation.
-Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
-Benzyl alcohol present in maternal serum is likely to cross into human milk and may be orally absorbed by a nursing infant.
-Exercise caution when administering Heparin Sodium Injection to a nursing mother (see PRECAUTIONS, Pediatric Use).
-
-## Pediatric Use
-
-There are no adequate and well-controlled studies on heparin use in pediatric patients.
-Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
-
-Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials (see WARNINGS, Fatal Medication Errors).
-
-## Benzyl Alcohol Toxicity
-
-Use preservative-free Heparin Sodium Injection in neonates and infants.
-The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight infants.
-Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birth weight infants may be more likely to develop toxicity.
-Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
-
-## Geriatric Use
-
-A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
-Clinical studies indicate that lower doses of heparin may be indicated in these patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Because heparin sodium is derived from animal tissue, it should be used with caution in patients with a history of allergy.
