@@ -1,12 +1,12 @@
 # SPL PATIENT PACKAGE INSERT SECTION
 
-PATIENT SUMMARY OF INFORMATION ABOUT ZIPRASIDONE CAPSULES (zi pras' i done) Information for patients taking ziprasidone capsules or their caregivers This summary contains important information about ziprasidone capsules.
+PATIENT SUMMARY OF INFORMATION ABOUT Ziprasidone Capsules (zi pras' i done) Information for patients taking ziprasidone capsules or their caregivers This summary contains important information about ziprasidone capsules.
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take ziprasidone capsules.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone capsules.
-What are ziprasidone capsules?
+What Are Ziprasidone Capsules?
 
-Ziprasidone capsules is a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
+Ziprasidone capsules are a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
 Ziprasidone capsules can be used to treat symptoms of schizophrenia and acute manic or mixed episodes associated with bipolar disorder.
 Ziprasidone capsules can also be used as maintenance treatment of bipolar disorder when added to lithium or valproate.
 Who Should Take Ziprasidone Capsules?
@@ -44,14 +44,14 @@ You must also tell your doctor about any heart problems you have or have had.
 Who should NOT take ziprasidone capsules?
 
 Elderly patients with a diagnosis of psychosis related to dementia.
-Ziprasidone capsule is not approved for the treatment of these patients.
+Ziprasidone capsules are not approved for the treatment of these patients.
 
 Anything that can increase the chance of a heart rhythm abnormality should be avoided.
 Therefore, do not take ziprasidone capsules if:
 
 • You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor) • You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
-What To Tell Your Doctor Before You Start Ziprasidone Capsules Only your doctor can decide if ziprasidone capsule is right for you.
-Before you start ziprasidone capsule, be sure to tell your doctor if you:
+What To Tell Your Doctor Before You Start Ziprasidone Capsules Only your doctor can decide if ziprasidone capsules are right for you.
+Before you start ziprasidone capsules, be sure to tell your doctor if you:
 
 • have had any problem with the way your heart beats or any heart related illness or disease • any family history of heart disease, including recent heart attack • have had any problem with fainting or dizziness • are taking or have recently taken any prescription medicines • are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies • have had any problems with your liver • are pregnant, might be pregnant, or plan to get pregnant • are breast feeding or plan to breastfeed • are allergic to any medicines • have ever had an allergic reaction to ziprasidone or any of the other ingredients of ziprasidone capsules.
 Ask your doctor or pharmacist for a list of these ingredients • have low levels of potassium or magnesium in your blood Your doctor may want you to get additional laboratory tests to see if ziprasidone capsules are an appropriate treatment for you.
@@ -63,7 +63,8 @@ While you are on ziprasidone capsules, check with your doctor before starting an
 
 How To Take Ziprasidone Capsules
 
-• Take ziprasidone capsules only as directed by your doctor. • Swallow the capsules whole. • Take ziprasidone capsules with food. • It is best to take ziprasidone capsules at the same time each day. • Ziprasidone capsules may take a few weeks to work.
+• Take ziprasidone capsules only as directed by your doctor. • Swallow ziprasidone capsules whole.
+Do not chew, crush, or open the capsules. • Take ziprasidone capsules with food. • It is best to take ziprasidone capsules at the same time each day. • Ziprasidone capsules may take a few weeks to work.
 It is important to be patient. • Do not change your dose or stop taking your medicine without your doctor’s approval. • Remember to keep taking your capsules, even when you feel better.
 Possible Side Effects
 
@@ -78,7 +79,7 @@ Common side effects of ziprasidone capsules include the following and should als
 If you develop any side effects that concern you, talk with your doctor.
 It is particularly important to tell your doctor if you have diarrhea, vomiting, or another illness that can cause you to lose fluids.
 Your doctor may want to check your blood to make sure that you have the right amount of important salts after such illnesses.
-For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone hydrochloride capsules Professional Package Insert.
+For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone capsules Professional Package Insert.
 
 What To Do For An Overdose
 
@@ -101,7 +102,7 @@ There have been few reports of hyperglycemia or diabetes in patients treated wit
 Patients treated with an atypical antipsychotic should be monitored for symptoms of hyperglycemia.
 Dizziness caused by a drop in your blood pressure may occur with ziprasidone capsules, especially when you first start taking this medication or when the dose is increased.
 If this happens, be careful not to stand up too quickly, and talk to your doctor about the problem.
-Before taking ziprasidone capsules, tell your doctor • are pregnant or plan on becoming pregnant. o If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+Before taking ziprasidone capsules, tell your doctor if you • are pregnant or plan on becoming pregnant. o If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
 You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/ • are breastfeeding or plan to breastfeed.
 Ziprasidone capsules can pass into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
@@ -110,13 +111,13 @@ Since medications of the same drug class as ziprasidone capsules may interfere w
 It is best to avoid consuming alcoholic beverages while taking ziprasidone capsules.
 Call your doctor immediately if you take more than the amount of ziprasidone capsules prescribed by your doctor.
 
-Ziprasidone capsules has not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
+Ziprasidone capsules have not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
 
 Keep ziprasidone capsules and all medicines out of the reach of children.
 
 How To Store Ziprasidone Capsules
 
-Store ziprasidone capsules at 20°C to 25°C (68°F to 77°F); excursions permitted up to 15°C to 30° (59°F to 86°F).
+Store ziprasidone capsules at room temperature (59°F to 86°F or 15°C to 30°C).
 
 For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
@@ -124,6 +125,6 @@ If you have any questions or want more information about ziprasidone capsules, t
 
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ08536
 
-Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revision May 2020
+Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revision August 2021
 
-PM02474705
+PM02474707

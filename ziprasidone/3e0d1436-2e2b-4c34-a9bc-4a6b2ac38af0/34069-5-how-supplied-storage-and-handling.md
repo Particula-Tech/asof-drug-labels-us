@@ -14,4 +14,6 @@ Ziprasidone capsules USP, 80 mg are Blue/ white, size 0, hard gelatin capsules i
 
 Bottles of 60 capsules NDC 33342-147-09 Bottles of 300 capsules NDC 33342-147-51 Unit dose blister pack of 100 NDC 33342-147-12 (10×10) capsules
 
-Store ziprasidone capsules USP at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store ziprasidone capsules, USP at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+
+Preserve in well-closed containers, and store at controlled room temperature.

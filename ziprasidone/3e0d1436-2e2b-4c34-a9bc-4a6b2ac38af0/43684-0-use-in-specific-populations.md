@@ -2,11 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including Ziprasidone hydrochloride, during pregnancy.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone hydrochloride, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
-Risk Summary Neonates exposed to antipsychotic drugs, including Ziprasidone hydrochloride, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Risk Summary Neonates exposed to antipsychotic drugs, including ziprasidone hydrochloride, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including Ziprasidone hydrochloride, during pregnancy (see Clinical Considerations).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone hydrochloride, during pregnancy (see Clinical Considerations).
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
 Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
 (see Data).
@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk There is risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
-Fetal/neonatal adverse reactions Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including Ziprasidone hydrochloride, during the third trimester of pregnancy.
+Fetal/neonatal adverse reactions Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone hydrochloride, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
@@ -39,12 +39,12 @@ A no-effect level was not established for these effects.
 Risk Summary Limited data from a published case report indicate the presence of ziprasidone in human milk.
 Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
 There is no information on the effects of ziprasidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ziprasidone hydrochloride and any potential adverse effects on the breastfed child from Ziprasidone hydrochloride or from the mother's underlying condition.
-Clinical Considerations Infants exposed to Ziprasidone hydrochloride should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone hydrochloride and any potential adverse effects on the breastfed child from ziprasidone hydrochloride or from the mother's underlying condition.
+Clinical Considerations Infants exposed to ziprasidone hydrochloride should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility Females Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with Ziprasidone hydrochloride may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
+Infertility Females Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone hydrochloride may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -55,7 +55,6 @@ The safety and effectiveness of ziprasidone in pediatric patients have not been 
 Of the total number of subjects in clinical studies of ziprasidone, 2.4 percent were 65 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Nevertheless, the presence of multiple factors that might increase the pharmacodynamic response to ziprasidone, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period for some elderly patients.
-Ziprasidone intramuscular has not been systematically evaluated in elderly patients (65 years and over).
 
 ## 8.6 Renal Impairment
 
