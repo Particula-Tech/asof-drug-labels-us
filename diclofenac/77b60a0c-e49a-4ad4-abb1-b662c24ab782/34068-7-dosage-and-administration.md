@@ -6,10 +6,10 @@ Use the lowest effective dose for the shortest duration consistent with individu
 After observing the response to initial therapy with diclofenac potassium tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
 For treatment of pain or primary dysmenorrhea the recommended dosage is 50 mg three times a day.
-With experience, physicians may find that in some patients an initial dose of 100 mg of diclofenac potassium tablets, followed by 50 mg doses, will provide better relief.
+With experience, physicians may find that in some patients an initial dose of 100 mg of diclofenac potassium tablets, followed by 50-mg doses, will provide better relief.
 
-For the relief of osteoarthritis the recommended dosage is 100 to 150 mg/day in divided doses, 50 mg twice a day, or three times a day.
+For the relief of osteoarthritis the recommended dosage is 100 to 150 mg/day in divided doses, 50 mg twice a day or three times a day.
 
 For the relief of rheumatoid arthritis the recommended dosage is 150 to 200 mg/day in divided doses, 50 mg three times a day or four times a day.
 
-Different formulations of diclofenac [Voltaren® (diclofenac sodium enteric-coated tablets); Voltaren®-XR (diclofenac sodium extended-release tablets); diclofenac potassium tablets] are not necessarily bioequivalent even if the milligram strength is the same.
+Different formulations of diclofenac [VOLTAREN® (diclofenac sodium enteric-coated tablets); Voltaren®-XR (diclofenac sodium extended-release tablets); diclofenac potassium tablets] are not necessarily bioequivalent even if the milligram strength is the same.

@@ -25,14 +25,14 @@ Post-MI Patients
 
 Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
-Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next 4 years of follow-up.
 
 Avoid the use of diclofenac in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
 If diclofenac is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events, including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
 Upper GI ulcers, gross bleeding or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
@@ -45,10 +45,10 @@ Other factors that increase the risk of GI bleeding in patients treated with NSA
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-treated patients
 
 - Use the lowest effective dosage for the shortest possible duration.
-- Avoid administration of more than one NSAID at a time
+- Avoid administration of more than one NSAID at a time.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
@@ -57,7 +57,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
 
 Hepatotoxicity
 
-In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the upper limit of normal [ULN]) of aspartate aminotransferase (AST) (also known as SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (alanine aminotransferase [ALT] was not measured in all studies).
 
 In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients.
@@ -85,7 +85,7 @@ Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nause
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue diclofenac immediately, and perform a clinical evaluation of the patient.
 
 To minimize the potential risk for an adverse liver related event in patients treated with diclofenac, use the lowest effective dose for the shortest duration possible.
-Exercise caution when prescribing diclofenac with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, anti-epileptics).
+Exercise caution when prescribing diclofenac with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, antiepileptics).
 
 Hypertension
 
@@ -96,7 +96,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately 2-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -135,20 +135,20 @@ Diclofenac has been associated with anaphylactic reactions in patients with and 
 
 Exacerbation of Asthma Related to Aspirin Sensitivity
 
-A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+A subpopulation of patients with asthma may have aspirin-sensitive asthma, which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, diclofenac is contraindicated in patients with this form of aspirin sensitivity (see CONTRAINDICATIONS).
 When diclofenac is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 Serious Skin Reactions
 
-NSAIDs, including diclofenac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including diclofenac, can cause serious skin adverse events, such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and discontinue the use of diclofenac at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac potassium tablets.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs, such as diclofenac potassium tablets.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
 Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
@@ -160,31 +160,31 @@ If such signs or symptoms are present, discontinue diclofenac potassium tablets 
 
 Fetal Toxicity
 
-Premature Closure of Fetal Ductus Arteriosus:
+Premature Closure of Fetal Ductus Arteriosus
 
-Avoid use of NSAIDs, including diclofenac potassium tablets, in pregnant women at about 30 weeks gestation and later.
-NSAIDs including diclofenac potassium tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+Avoid use of NSAIDs, including diclofenac potassium tablets, in pregnant women at about 30 weeks’ gestation and later.
+NSAIDs, including diclofenac potassium tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
-Oligohydramnios/Neonatal Renal Impairment:
+Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs, including diclofenac potassium tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
 Oligohydramnios is often, but not always, reversible with treatment discontinuation.
 Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
-In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures, such as exchange transfusion or dialysis were required.
 
 If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit diclofenac potassium tablets use to the lowest effective dose and shortest duration possible.
 Consider ultrasound monitoring of amniotic fluid if diclofenac potassium tablets treatment extends beyond 48 hours.
 Discontinue diclofenac potassium tablets if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS; Pregnancy).
 
-Hematological Toxicity
+Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.
 If a patient treated with diclofenac has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including diclofenac, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders, concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Comorbid conditions, such as coagulation disorders, concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding (see PRECAUTIONS; Drug Interactions).
 
 # PRECAUTIONS
@@ -218,25 +218,25 @@ If these occur, instruct patients to stop diclofenac and seek immediate medical 
 
 Heart Failure and Edema
 
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
+Advise patients to be alert for the symptoms of congestive heart failure, including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
 
 Anaphylactic Reactions
 
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur (see WARNINGS; Anaphylactic Reactions).
 
-Serious Skin Reactions, including DRESS
+Serious Skin Reactions, Including DRESS
 
-Advise patients to stop taking diclofenac potassium tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
+Advise patients to stop diclofenac potassium tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS; Serious Skin Reactions).
 
 Female Fertility
 
-Advise females of reproductive potential who desire pregnancy that NSAIDs, including VOLTAREN, may be associated with a reversible delay in ovulation (see PRECAUTIONS; Carcinogenesis, Mutagenesis, Impairment of Fertility).
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including diclofenac potassium tablets, may be associated with a reversible delay in ovulation (see PRECAUTIONS; Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of diclofenac potassium tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-If treatment with diclofenac potassium tablets are needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
+Inform pregnant women to avoid use of diclofenac potassium tablets and other NSAIDs, starting at 30 weeks gestation because of the risk of the premature closure of the fetal ductus arteriosus.
+If treatment with diclofenac potassium tablets are needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS, Pregnancy).
 
 Avoid Concomitant Use of NSAIDs
 
@@ -259,21 +259,22 @@ Drug Interactions
 
 See Table 2 for clinically significant drug interactions with diclofenac.
 
-Table 2: Clinically Significant Drug Interactions with Diclofenac
+Table 2.
+Clinically Significant Drug Interactions with Diclofenac
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
-| Clinical Impact: | Diclofenac and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
-| Intervention: | Monitor patients with concomitant use of diclofenac with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding (see WARNINGS; Hematological Toxicity). |
+| Clinical Impact: | Diclofenac and anticoagulants, such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of diclofenac with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding (see WARNINGS; Hematologic Toxicity). |
 | Aspirin |  |
 | Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation). |
-| Intervention: | Concomitant use of diclofenac and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding (see WARNINGS; Hematological Toxicity). Diclofenac is not a substitute for low dose aspirin for cardiovascular protection. |
+| Intervention: | Concomitant use of diclofenac and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding (see WARNINGS; Hematologic Toxicity). Diclofenac is not a substitute for low dose aspirin for cardiovascular protection. |
 | ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers |  |
 | Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
 | Intervention: | During concomitant use of diclofenac and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of diclofenac and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function (see WARNINGS; Renal Toxicity and Hyperkalemia).When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
 | Diuretics |  |
 | Clinical Impact: | Clinical studies, as well as postmarketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
-| Intervention: | During concomitant use of diclofenac with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS; Renal Toxicity and Hyperkalemia) |
+| Intervention: | During concomitant use of diclofenac with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS; Renal Toxicity and Hyperkalemia). |
 | Digoxin |  |
 | Clinical Impact: | The concomitant use of diclofenac with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
 | Intervention: | During concomitant use of diclofenac and digoxin, monitor serum digoxin levels. |
@@ -284,7 +285,7 @@ Table 2: Clinically Significant Drug Interactions with Diclofenac
 | Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
 | Intervention: | During concomitant use of diclofenac and methotrexate, monitor patients for methotrexate toxicity. |
 | Cyclosporine |  |
-| Clinical Impact: | Concomitant use of diclofenac and cyclosporine may increase cyclosporine’s’ nephrotoxicity. |
+| Clinical Impact: | Concomitant use of diclofenac and cyclosporine may increase cyclosporine’s nephrotoxicity. |
 | Intervention: | During concomitant use of diclofenac and cyclosporine, monitor patients for signs of worsening renal function. |
 | NSAIDs and Salicylates |  |
 | Clinical Impact: | Concomitant use of diclofenac with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation). |
@@ -331,15 +332,19 @@ Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
-Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac, despite the presence of maternal and fetal toxicity at these doses [see Data].
-Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
+There are no adequate and well-controlled studies of diclofenac potassium tablets in pregnant women.
+
+Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac, despite the presence of maternal and fetal toxicity at these doses (see Data).
+
+Based on published animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors, such as diclofenac, resulted in increased pre- and postimplantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -349,7 +354,7 @@ Premature Closure of Fetal Ductus Arteriosus:
 
 Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including diclofenac potassium tablets, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity).
 
-Oligohydramnios/Neonatal Renal Impairment
+Oligohydramnios/Neonatal Renal Impairment:
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If diclofenac potassium tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
@@ -374,8 +379,6 @@ Some cases of neonatal renal dysfunction required treatment with invasive proced
 Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
-
-Data
 
 Animal Data
 
@@ -407,7 +410,8 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Geriatric Use
 
-Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions, If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects (see WARNINGS; Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation, Hepatotoxicity, Renal Toxicity and Hyperkalemia, PRECAUTIONS; Laboratory Monitoring).
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects (see WARNINGS; Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation, Hepatotoxicity, Renal Toxicity and Hyperkalemia, PRECAUTIONS; Laboratory Monitoring).
 
 Diclofenac is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS).

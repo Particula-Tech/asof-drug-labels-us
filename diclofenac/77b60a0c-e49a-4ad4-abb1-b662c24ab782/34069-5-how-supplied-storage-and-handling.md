@@ -11,6 +11,8 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Brands listed are the trademarks of their respective owners.
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Manufactured In Israel By:
 
 Teva Pharmaceutical Ind.
@@ -20,9 +22,9 @@ Kfar Saba, 4410202, Israel
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
 Rev.
-O 3/2021
+P 7/2021

@@ -16,7 +16,7 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 ### Absorption
 
-Diclofenac is 100% absorbed after oral administration compared to IV administration as measured by urine recovery.
+Diclofenac is 100% absorbed after oral administration compared to intravenous (IV) administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available (see Table 1).
 In some fasting volunteers, measurable plasma levels are observed within 10 minutes of dosing with diclofenac potassium tablets.
 Peak plasma levels are achieved approximately 1 hour in fasting normal volunteers, with a range of 0.33 to 2 hours.
@@ -28,12 +28,12 @@ Table 1: Pharmacokinetic Parameters for Diclofenac
 | PK Parameter | Normal Healthy Adults(20 to 52 years) |  |
 | --- | --- | --- |
 | Mean | Coefficient of Variation (%) |  |
-| Absolute Bioavailability (%)[N = 7] | 55 | 40 |
+| Absolute bioavailability (%)[N = 7] | 55 | 40 |
 | Tmax (hr)[N = 65] | 1.0 | 76 |
-| Oral Clearance (CL/F; mL/min)[N = 61] | 622 | 21 |
-| Renal Clearance(% unchanged drug in urine)[N = 7] | < 1 | — |
-| Apparent Volume of Distribution (V/F; L/kg)[N = 61] | 1.3 | 33 |
-| Terminal Half-life (hr)[N = 48] | 1.9 | 29 |
+| Oral clearance (CL/F; mL/min)[N = 61] | 622 | 21 |
+| Renal clearance(% unchanged drug in urine)[N = 7] | < 1 | — |
+| Apparent volume of distribution (V/F; L/kg)[N = 61] | 1.3 | 33 |
+| Terminal half-life (hr)[N = 48] | 1.9 | 29 |
 
 ### Distribution
 
@@ -77,11 +77,11 @@ Hepatic Impairment: Hepatic metabolism accounts for almost 100% of diclofenac el
 
 Renal Impairment: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
 No differences in the pharmacokinetics of diclofenac have been detected in studies of patients with renal impairment.
-In patients with renal impairment (inulin clearance 60 to 90, 30 to 60, and < 30 mL/min; N = 6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+In patients with renal impairment (inulin clearance 60 to 90, 30 to 60, and less than 30 mL/min; N = 6 in each group), area under the curve (AUC) values and elimination rate were comparable to those in healthy subjects.
 
 Drug Interactions Studies
 
-Voriconazole: When coadministered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS; Drug Interactions).
+Voriconazole: When coadministered with voriconazole (inhibitor of CYP2C9, 2C19, and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS; Drug Interactions).
 
 Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.

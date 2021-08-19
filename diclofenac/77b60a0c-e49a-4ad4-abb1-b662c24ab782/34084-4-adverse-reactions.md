@@ -16,12 +16,12 @@ Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In 718 patients treated for shorter periods, i.e., 2 weeks or less, with diclofenac tablets, adverse reactions were reported one-half to one-tenth as frequently as by patients treated for longer periods.
-In a 6 month, double-blind trial comparing diclofenac potassium tablets (N = 196) versus diclofenac sodium delayed-release tablets (N = 197) versus ibuprofen (N = 197), adverse reactions were similar in nature and frequency.
+In 718 patients treated for shorter periods, i.e., 2 weeks or less, with diclofenac potassium tablets, adverse reactions were reported one-half to one-tenth as frequently as by patients treated for longer periods.
+In a 6-month, double-blind trial comparing diclofenac potassium tablets (N = 196) versus diclofenac sodium delayed-release tablets (N = 197) versus ibuprofen (N = 197), adverse reactions were similar in nature and frequency.
 
 In patients taking diclofenac potassium tablets or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
-Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
+Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), and vomiting.
 
 Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
 
@@ -53,7 +53,7 @@ Body as a Whole: anaphylactic reactions, appetite changes, death
 
 Cardiovascular System: arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
 
-Digestive System: colitis eructation, fulminant hepatitis with and without jaundice, liver failure, liver necrosis, pancreatitis
+Digestive System: colitis, eructation, fulminant hepatitis with and without jaundice, liver failure, liver necrosis, pancreatitis
 
 Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
 
@@ -67,4 +67,4 @@ Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme
 
 Special Senses: conjunctivitis, hearing impairment
 
-To report SUSPECTED ADVERSE EVENTS, contact Teva Pharmaceuticals USA, Inc., at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Teva Pharmaceuticals, at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.

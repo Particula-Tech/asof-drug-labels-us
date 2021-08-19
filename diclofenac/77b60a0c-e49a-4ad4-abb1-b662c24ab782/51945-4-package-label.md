@@ -6,10 +6,8 @@ Diclofenac Potassium Tablets, USP
 
 50 mg
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
 100 Tablets
-
-teva
