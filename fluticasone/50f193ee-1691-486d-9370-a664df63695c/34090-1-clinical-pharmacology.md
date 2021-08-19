@@ -76,8 +76,8 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF)
 
-1. a Age, gender, and ethnicity comparison for ARNUITY ELLIPTA in adult and adolescent subjects with asthma.
-2. b Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg) compared with healthy control group.
+- a Age, gender, and ethnicity comparison for ARNUITY ELLIPTA in adult and adolescent subjects with asthma.
+- b Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg) compared with healthy control group.
 
 Pediatric Patients: A population pharmacokinetics analysis to assess impact of age on fluticasone furoate systemic exposure was conducted using combined data from clinical trials in pediatric subjects aged 5 to 11 years (n = 306).
 There was no relevant effect of age on the apparent clearance of fluticasone furoate.
@@ -106,4 +106,4 @@ The increase in fluticasone furoate exposure was associated with a 27% reduction
 Figure 2.
 Impact of Coadministered Ketoconazolea on the Pharmacokinetics (PK) of Fluticasone Furoate
 
-1. a Compared with placebo group.
+- a Compared with placebo group.
