@@ -6,7 +6,7 @@
 
 In patients with HIV infection during therapy with hydroxyurea and didanosine, with or without stavudine, fatal and nonfatal pancreatitis have occurred.
 Hydroxyurea is not indicated for the treatment of HIV infection; however, if patients with HIV infection are treated with hydroxyurea, and in particular, in combination with didanosine and/or stavudine, close monitoring for signs and symptoms of pancreatitis is recommended.
-Permanently discontinue therapy with hydroxyurea in patients who develop signs and symptoms of pancreatitis.
+Permanently discontinue therapy with DROXIA in patients who develop signs and symptoms of pancreatitis.
 
 ### Hepatotoxicity
 

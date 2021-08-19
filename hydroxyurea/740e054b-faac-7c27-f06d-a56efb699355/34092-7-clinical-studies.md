@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of hydroxyurea in sickle cell anemia was assessed in a large clinical study (Multicenter Study of Hydroxyurea in Sickle Cell Anemia) (see Table 2).
+The efficacy of DROXIA in sickle cell anemia was assessed in a large clinical study (Multicenter Study of Hydroxyurea in Sickle Cell Anemia) (see Table 2).
 
 The study was a randomized, double-blind, placebo-controlled trial that evaluated 299 adult patients (≥18 years) with moderate to severe disease (≥3 painful crises yearly).
 The trial was stopped by the Data Safety Monitoring Committee, after accrual was completed but before the scheduled 24 months of follow-up was completed in all patients, based on observations of fewer painful crises among patients receiving hydroxyurea.

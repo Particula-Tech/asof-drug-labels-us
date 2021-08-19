@@ -3,11 +3,12 @@
 The following clinically significant adverse reactions are described in detail in other labeling sections:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- Malignancies [see Warnings and Precautions (5.2)]
-- Vasculitic toxicities [see Warnings and Precautions (5.4)]
-- Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.6)]
-- Macrocytosis [see Warnings and Precautions (5.7)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.8)]
+- Hemolytic anemia [see Warnings and Precautions (5.2)]
+- Malignancies [see Warnings and Precautions (5.3)]
+- Vasculitic toxicities [see Warnings and Precautions (5.5)]
+- Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.7)]
+- Macrocytosis [see Warnings and Precautions (5.8)]
+- Pulmonary Toxicity [see Warnings and Precautions (5.9)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -36,3 +37,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity: Drug-induced fever (pyrexia) (>39°C, >102°F) requiring hospitalization has been reported concurrently with gastrointestinal, pulmonary, musculoskeletal, hepatobiliary, dermatological or cardiovascular manifestations.
   Onset typically occurred within 6 weeks of initiation and resolved upon discontinuation of hydroxyurea.
   Upon re-administration fever re-occurred typically within 24 hours.
+- Blood and lymphatic system disorders: hemolytic anemia
