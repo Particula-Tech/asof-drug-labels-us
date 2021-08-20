@@ -7,6 +7,9 @@ Atropine Sulfate Injection, USP is supplied in single-dose syringes as follows:
 | One syringe per carton 5 mL Single-Dose Glass Syringe | 0.25 mg/5 mL (0.05 mg/mL) | 16729-483-31 |
 | One syringe per carton 10 mL Single-Dose Glass Syringe | 1 mg/10 mL (0.1 mg/mL) | 16729-484-03 |
 | One syringe per carton 5 mL Single-Dose Glass Syringe | 0.5 mg/5 mL (0.1 mg/mL) | 16729-484-31 |
+| Ten syringes per carton 5 mL Single-Dose Glass Syringe | 0.25 mg/5 mL (0.05 mg/mL) | 16729-483-03 |
+| Ten syringes per carton 10 mL Single-Dose Glass Syringe | 1 mg/10 mL (0.1 mg/mL) | 16729-484-45 |
+| Ten syringes per carton 5 mL Single-Dose Glass Syringe | 0.5 mg/5 mL (0.1 mg/mL) | 16729-484-90 |
 
 The Glass syringe is presented in a tray with polypropylene plunger rod.
 
@@ -17,6 +20,6 @@ Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durha
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 3290 1 6005092
+10 5231 1 6010021
 
-Issued April 2021
+Issued July 2021
