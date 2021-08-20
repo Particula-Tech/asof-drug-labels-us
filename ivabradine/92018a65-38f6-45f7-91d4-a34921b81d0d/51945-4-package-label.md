@@ -1,98 +1,61 @@
-NDC 55513-800-60
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 AMGEN®
 
-Corlanor®
-
-(ivabradine) tablets
+NDC 55513-800-60
 
 5 mg
 
+Corlanor® (ivabradine) tablets
+
 Each tablet contains 5 mg ivabradine equivalent to 5.39 mg ivabradine as hydrochloride.
-
 Oral Use.
-
-Store at 25°C, excursions permitted to 15°C - 30°C.
-
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (between 59°F to 86°F) [See USP for controlled room temperature].
 Keep out of the sight and reach of children.
+Dispense the enclosed Medication Guide to each patient.
 
 Rx Only
 
 60 Film-coated tablets
 
-Usual Dose: See package insert for dosage
+# PRINCIPAL DISPLAY PANEL - 7.5 mg Tablet Bottle Label
 
-© 2018 Amgen Inc. All rights reserved.
-
-Patent: http://pat.amgen.com/corlanor/
-
-Manufactured by Amgen Inc.
-
-One Amgen Center Drive
-
-Thousand Oaks, CA 91320-1799
-
-Made in Italy
+AMGEN®
 
 NDC 55513-810-60
 
-AMGEN®
-
-Corlanor®
-
-(ivabradine) tablets
-
 7.5 mg
 
+Corlanor® (ivabradine) tablets
+
 Each tablet contains 7.5 mg ivabradine equivalent to 8.085 mg ivabradine as hydrochloride.
-
 Oral Use.
-
-Store at 25°C, excursions permitted to 15°C - 30°C.
-
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (between 59°F to 86°F) [See USP for controlled room temperature].
 Keep out of the sight and reach of children.
+Dispense the enclosed Medication Guide to each patient.
 
 Rx Only
 
 60 Film-coated tablets
 
-Usual Dose: See package insert for dosage
-
-© 2018 Amgen Inc. All rights reserved.
-
-Patent: http://pat.amgen.com/corlanor/
-
-Manufactured by Amgen Inc.
-
-One Amgen Center Drive
-
-Thousand Oaks, CA 91320-1799
-
-Made in Italy
+# PRINCIPAL DISPLAY PANEL - 5 mg/5 mL Ampule Carton
 
 NDC 55513-813-28
 
-Caregiver/Patient: Read the included “Instructions for Use” insert to be sure you prepare and administer the correct dose.
+Caregiver/Patient: Read the included "Instructions for Use" insert to be sure you prepare and administer the correct dose.
 
 AMGEN®
 
-Corlanor®
+ATTENTION PHARMACIST: Please dispense with both a medicine cup and an oral syringe.
 
-(ivabradine) oral solution
+Corlanor® (ivabradine) oral solution
 
 5 mg/5 mL (1 mg/mL)
 
-ATTENTION PHARMACIST: Please dispense with both a medicine cup and an oral syringe.
-
-Sterile Oral Solution in an Ampule
-
-Store at room temperature between 20°C to 25°C (68°F to 77°F),
-
-excursions permitted to 15°C - 30°C (59°F - 86°F).
-
+Sterile Oral Solution in an Ampule Store at 25°C (77°F); excursions permitted to 15°C to 30°C (between 59°F to 86°F) [See USP for controlled room temperature].
 Protect from light by storing the ampule in foil pouch until use.
-
 Keep out of the sight and reach of children.
+Dispense the enclosed Medication Guide to each patient.
 
 Rx Only
 

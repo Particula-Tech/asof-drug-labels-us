@@ -1,4 +1,4 @@
-# 5.WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Fetal Toxicity
 
@@ -9,7 +9,7 @@ Advise females of reproductive potential to use effective contraception when tak
 ## 5.2 Atrial Fibrillation
 
 Corlanor increases the risk of atrial fibrillation.
-In SHIFT, the rate of atrial fibrillation was 5.0% per patient-year in patients treated with Corlanor and 3.9% per patient-year in patients treated with placebo [see Clinical Studies (14)].
+In the Systolic Heart Failure Treatment with the If Inhibitor Ivabradine Trial (SHIFT), the rate of atrial fibrillation was 5.0% per patient-year in patients treated with Corlanor and 3.9% per patient-year in patients treated with placebo [see Clinical Studies (14)].
 Regularly monitor cardiac rhythm.
 Discontinue Corlanor if atrial fibrillation develops.
 

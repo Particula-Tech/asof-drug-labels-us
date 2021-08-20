@@ -1,4 +1,4 @@
-# 6.ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 Clinically significant adverse reactions that appear in other sections of the labeling include:
 
@@ -11,7 +11,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult Patients with Heart Failure
 
-In the Systolic Heart failure treatment with the If inhibitor ivabradine Trial (SHIFT), safety was evaluated in 3260 patients treated with Corlanor and 3278 patients given placebo.
+In SHIFT, safety was evaluated in 3,260 patients treated with Corlanor and 3,278 patients given placebo.
 The median duration of Corlanor exposure was 21.5 months.
 
 The most common adverse drug reactions in the SHIFT trial are shown in Table 2 [see Warnings and Precautions (5.2), (5.3)].
@@ -19,7 +19,7 @@ The most common adverse drug reactions in the SHIFT trial are shown in Table 2 [
 Table 2.
 Adverse Drug Reactions with Rates ≥ 1.0% Higher on Ivabradine than Placebo occurring in > 1% on Ivabradine in SHIFT
 
-|  | Ivabradine N = 3260 | Placebo N = 3278 |
+|  | Ivabradine N = 3,260 | Placebo N = 3,278 |
 | --- | --- | --- |
 | Bradycardia | 10% | 2.2% |
 | Hypertension, blood pressure increased | 8.9% | 7.8% |

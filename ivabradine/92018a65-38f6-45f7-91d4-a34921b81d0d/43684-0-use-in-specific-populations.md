@@ -1,4 +1,4 @@
-# 8.USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -7,7 +7,7 @@ Risk Summary
 Based on findings in animals, Corlanor may cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies of Corlanor in pregnant women to inform any drug-associated risks.
 In animal reproduction studies, oral administration of ivabradine to pregnant rats during organogenesis at a dosage providing 1 to 3 times the human exposure (AUC0-24hr) at the MRHD resulted in embryo-fetal toxicity and teratogenicity manifested as abnormal shape of the heart, interventricular septal defect, and complex anomalies of primary arteries.
-Increased postnatal mortality was associated with these teratogenic effects in rats.
+Increased post-natal mortality was associated with these teratogenic effects in rats.
 In pregnant rabbits, increased post-implantation loss was noted at an exposure (AUC0-24hr) 5 times the human exposure at the MRHD.
 Lower doses were not tested in rabbits.
 The background risk of major birth defects for the indicated population is unknown.
@@ -16,7 +16,7 @@ Advise a pregnant woman of the potential risk to the fetus.
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo-fetal risk
+Disease-associated Maternal and/or Embryo-fetal Risk
 
 Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester.
 Pregnant patients with left ventricular ejection fraction less than 35% on maximally tolerated doses of beta-blockers may be particularly heart rate dependent for augmenting cardiac output.
@@ -29,15 +29,15 @@ Data
 Animal Data
 
 In pregnant rats, oral administration of ivabradine during the period of organogenesis (gestation day 6-15) at doses of 2.3, 4.6, 9.3, or 19 mg/kg/day resulted in fetal toxicity and teratogenic effects.
-Increased intrauterine and postnatal mortality and cardiac malformations were observed at doses ≥ 2.3 mg/kg/day (equivalent to the human exposure at the MRHD based on AUC0-24hr).
+Increased intrauterine and post-natal mortality and cardiac malformations were observed at doses ≥ 2.3 mg/kg/day (equivalent to the human exposure at the MRHD based on AUC0-24hr).
 Teratogenic effects including interventricular septal defect and complex anomalies of major arteries were observed at doses ≥ 4.6 mg/kg/day (approximately 3 times the human exposure at the MRHD based on AUC0-24hr).
 
 In pregnant rabbits, oral administration of ivabradine during the period of organogenesis (gestation day 6-18) at doses of 7, 14, or 28 mg/kg/day resulted in fetal toxicity and teratogenicity.
 Treatment with all doses ≥ 7 mg/kg/day (equivalent to the human exposure at the MRHD based on AUC0-24hr) caused an increase in post-implantation loss.
 At the high dose of 28 mg/kg/day (approximately 15 times the human exposure at the MRHD based on AUC0-24hr), reduced fetal and placental weights were observed, and evidence of teratogenicity (ectrodactylia observed in 2 of 148 fetuses from 2 of 18 litters) was demonstrated.
 
-In the pre- and postnatal study, pregnant rats received oral administration of ivabradine at doses of 2.5, 7, or 20 mg/kg/day from gestation day 6 to lactation day 20.
-Increased postnatal mortality associated with cardiac teratogenic findings was observed in the F1 pups delivered by dams treated at the high dose (approximately 15 times the human exposure at the MRHD based on AUC0-24hr).
+In the pre- and post-natal study, pregnant rats received oral administration of ivabradine at doses of 2.5, 7, or 20 mg/kg/day from gestation day 6 to lactation day 20.
+Increased post-natal mortality associated with cardiac teratogenic findings was observed in the F1 pups delivered by dams treated at the high dose (approximately 15 times the human exposure at the MRHD based on AUC0-24hr).
 
 ## 8.2 Lactation
 
@@ -70,11 +70,11 @@ The safety and efficacy of Corlanor have not been established in patients less t
 
 Animal Data
 
-Ivabradine given orally to juvenile rats from postnatal day (PND) 7 until PND 77 at 7.5, 15 and 30 mg/kg/day did not affect postnatal (pre-weaning) development and reproductive performance (post-weaning development).
+Ivabradine given orally to juvenile rats from post-natal day (PND) 7 until PND 77 at 7.5, 15 and 30 mg/kg/day did not affect post-natal (pre-weaning) development and reproductive performance (post-weaning development).
 Similar to adult animals, ivabradine decreased heart rate dose-dependently, and increased heart weights at the highest dose administered.
 Ivabradine also decreased white blood cell counts (lymphocytes) at the highest dose administered.
 The decrease in white blood cell counts partially reversed within a 3-week recovery period.
-Exposures in male and female rats at the No Observed Adverse Effect Level (NOAEL) of 7.5 mg/kg/day, was approximately 3 and 8-times, respectively, steady state exposure associated with the highest received maintenance doses across age groups in pediatric patients (based on AUCs).
+Exposures in male and female rats at the No Observed Adverse Effect Level (NOAEL) of 7.5 mg/kg/day, was approximately 3 and 8 times, respectively, steady state exposure associated with the highest received maintenance doses across age groups in pediatric patients (based on AUCs).
 
 ## 8.5 Geriatric Use
 

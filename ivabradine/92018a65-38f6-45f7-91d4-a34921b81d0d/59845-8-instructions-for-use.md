@@ -1,7 +1,7 @@
 | Instructions for Use Corlanor® (core lan ore) (ivabradine) oral solution Ampule |
 | --- |
 | Important |
-| Before you use Corlanor oral solution, read this important information. Using These instructions are for use by adults who are preparing and taking Corlanor or giving Corlanor to an adult or child who cannot swallow tablets. When you receive your Corlanor oral solution carton, always check to see that the name “Corlanor” is on it and that the expiration date on the carton has not passed. Do not use an ampule of Corlanor after the expiration date on the carton. Corlanor oral solution comes in an ampule that contains 5 mL of medicine. The dose may be higher or lower than 1 ampule. To prepare a dose, you may need to use only part of an ampule or more than 1 ampule of Corlanor. Corlanor should only be given by an adult. A child should not give or take a dose of Corlanor by themselves. Storing Store Corlanor oral solution at room temperature between 68°F to 77°F (20°C to 25°C). Keep Corlanor oral solution ampules in their unopened foil pouch until ready to use, to protect from light. Keep Corlanor and all medicines out of the reach of children. Throw away any unused Corlanor oral solution right away after measuring the dose using the oral syringe. Do not save or reuse any leftover Corlanor oral solution. Corlanor oral solution does not contain a preservative. Measuring Your pharmacist should provide you with an oral syringe to measure and give the prescribed dose. Always use the oral syringe given to you by your pharmacist to measure the prescribed dose. Call your pharmacist if you have not been given an oral syringe. If you have any questions, ask your or your child’s healthcare provider or pharmacist to show you how to measure and give the prescribed dose of Corlanor oral solution. |
+| Before you use Corlanor oral solution, read this important information. Using These instructions are for use by adults who are preparing and taking Corlanor or giving Corlanor to an adult or child who cannot swallow tablets. When you receive your Corlanor oral solution carton, always check to see that the name “Corlanor” is on it and that the expiration date on the carton has not passed. Do not use an ampule of Corlanor after the expiration date on the carton. Corlanor oral solution comes in an ampule that contains 5 mL of medicine. The dose may be higher or lower than 1 ampule. To prepare a dose, you may need to use only part of an ampule or more than 1 ampule of Corlanor. Corlanor should only be given by an adult. A child should not give or take a dose of Corlanor by themselves. Storing Store Corlanor oral solution at room temperature between 68°F to 77°F (20°C to 25°C). Keep Corlanor oral solution ampules in their unopened child-resistant foil pouch until ready to use, to protect from light. Keep Corlanor and all medicines out of the reach of children. Throw away any unused Corlanor oral solution right away after measuring the dose using the oral syringe. Do not save or reuse any leftover Corlanor oral solution. Corlanor oral solution does not contain a preservative. Measuring Your pharmacist should provide you with an oral syringe to measure and give the prescribed dose. Always use the oral syringe given to you by your pharmacist to measure the prescribed dose. Call your pharmacist if you have not been given an oral syringe. If you have any questions, ask your or your child’s healthcare provider or pharmacist to show you how to measure and give the prescribed dose of Corlanor oral solution. |
 | For more information or help, go to www.Corlanor.com or call 1-800-722-6436. |
 
 | Supplies needed to take or give a dose of Corlanor |  |
@@ -46,8 +46,8 @@ Thousand Oaks, California 91320-1799
 
 Patent: http://pat/amgen.com/Corlanor/
 
-© 2019 Amgen Inc. All rights reserved.
+© 2019, 2021 Amgen Inc. All rights reserved.
 
-[partnumber] v1
+[partnumber] v2
 
-Issued: 04/2019
+Issued: 08/2021

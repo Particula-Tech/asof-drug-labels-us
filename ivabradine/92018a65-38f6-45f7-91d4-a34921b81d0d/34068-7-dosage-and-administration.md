@@ -1,4 +1,4 @@
-# 2.DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Adults
 
@@ -29,7 +29,7 @@ Pediatric Patients 6 Months of Age and Older Weighing Less than 40 kg (Oral Solu
 
 The recommended starting dose of Corlanor oral solution in pediatric patients 6 months of age and older and weighing less than 40 kg is 0.05 mg/kg twice daily with food.
 Assess patient at two-week intervals and adjust dose by 0.05 mg/kg to target a heart rate (HR) reduction of at least 20%, based on tolerability.
-The maximum dose is 0.2 mg/kg twice daily for patients 6 months to less than 1 year old, and 0.3 mg/kg twice daily for patients 1 years old and older, up to a total of 7.5 mg twice daily.
+The maximum dose is 0.2 mg/kg twice daily for patients 6 months to less than 1 year old, and 0.3 mg/kg twice daily for patients 1 year old and older, up to a total of 7.5 mg twice daily.
 
 If a dose of Corlanor is missed or spit out, do not give another dose to make up for the missed or spit out dose.
 Give the next dose at the usual time.

@@ -1,4 +1,4 @@
-# 12.CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -14,10 +14,10 @@ Luminous phenomena (phosphenes) are described as a transient enhanced brightness
 ## 12.2 Pharmacodynamics
 
 Corlanor causes a dose-dependent reduction in heart rate.
-The size of the effect is dependent on the baseline heart rate (i.e., greater heart rate reduction occurs in subjects with higher baseline heart rate).
+The size of the effect is dependent on the baseline heart rate (i.e., greater heart rate reduction occurs in patients with higher baseline heart rate).
 At recommended doses, heart rate reduction is approximately 10 bpm at rest and during exercise.
 Analysis of heart rate reduction vs. dose indicates a plateau effect at doses > 20 mg twice daily.
-In a study of subjects with preexisting conduction system disease (first- or second-degree AV block or left or right bundle branch block) requiring electrophysiologic study, IV ivabradine (0.20 mg/kg) administration slowed the overall heart rate by approximately 15 bpm, increased the PR interval (29 msec), and increased the AH interval (27 msec).
+In a study of patients with preexisting conduction system disease (first- or second-degree AV block or left or right bundle branch block) requiring electrophysiologic study, IV ivabradine (0.20 mg/kg) administration slowed the overall heart rate by approximately 15 bpm, increased the PR interval (29 msec), and increased the AH interval (27 msec).
 
 Corlanor does not have negative inotropic effects.
 Ivabradine increases the uncorrected QT interval with heart rate slowing but does not cause rate-corrected prolongation of QT.

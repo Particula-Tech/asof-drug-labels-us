@@ -1,4 +1,4 @@
-# 17.PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling [see Medication Guide and Instructions for Use].
 
@@ -16,8 +16,11 @@ Advise the patient to read the FDA-approved patient labeling [see Medication Gui
   Advise parents/caregivers to not double up doses (e.g., if patient spits out the drug or caregiver forgets to give the drug at the prescribed time).
   Advise parents/caregivers to throw away the unused product remaining in the cup immediately after drawing up the prescribed dose in the syringe.
 
-Corlanor® (ivabradine) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
+Corlanor® (ivabradine)
+
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 Patent: http://pat.amgen.com/Corlanor/
 
-© 2015, 2017, 2019 Amgen Inc. All rights reserved. v4
+© 2015, 2017, 2019, 2021 Amgen Inc. All rights reserved.
+[part number] v5

@@ -1,17 +1,17 @@
-# 14.CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.1 Heart Failure in Adult Patients
 
 SHIFT
 
-The Systolic Heart failure treatment with the If inhibitor ivabradine Trial (SHIFT) was a randomized, double-blind trial comparing Corlanor and placebo in 6558 adult patients with stable NYHA class II to IV heart failure, left ventricular ejection fraction ≤ 35%, and resting heart rate ≥ 70 bpm.
+The Systolic Heart Failure Treatment with the If Inhibitor Ivabradine Trial (SHIFT) was a randomized, double-blind trial comparing Corlanor and placebo in 6,558 adult patients with stable New York Heart Association (NYHA) class II to IV heart failure, left ventricular ejection fraction ≤ 35%, and resting heart rate ≥ 70 bpm.
 Patients had to have been clinically stable for at least 4 weeks on an optimized and stable clinical regimen, which included maximally tolerated doses of beta-blockers and, in most cases, ACE inhibitors or ARBs, spironolactone, and diuretics, with fluid retention and symptoms of congestion minimized.
 Patients had to have been hospitalized for heart failure within 12 months prior to study entry.
 
 The underlying cause of CHF was coronary artery disease in 68% of patients.
-At baseline, approximately 49% of randomized subjects were NYHA class II, 50% were NYHA class III, and 2% were NYHA class IV.
+At baseline, approximately 49% of randomized patients were NYHA class II, 50% were NYHA class III, and 2% were NYHA class IV.
 The mean left ventricular ejection fraction was 29%.
-All subjects were initiated on Corlanor 5 mg (or matching placebo) twice daily and the dose was increased to 7.5 mg twice daily or decreased to 2.5 mg twice daily to maintain the resting heart rate between 50 and 60 bpm, as tolerated.
+All patients were initiated on Corlanor 5 mg (or matching placebo) twice daily and the dose was increased to 7.5 mg twice daily or decreased to 2.5 mg twice daily to maintain the resting heart rate between 50 and 60 bpm, as tolerated.
 The primary endpoint was a composite of the first occurrence of either hospitalization for worsening heart failure or cardiovascular death.
 
 Most patients (89%) were taking beta-blockers, with 26% on guideline-defined target daily doses.
@@ -29,16 +29,16 @@ In the overall treatment population, Corlanor had no statistically significant b
 Table 3.
 SHIFT – Incidence of the Primary Composite Endpoint and Components
 
-|  | Corlanor (N = 3241) |  |  | Placebo (N = 3264) |  |  |  |  |  |
+|  | Corlanor (N = 3,241) |  |  | Placebo (N = 3,264) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Endpoint | n | % | % PY | n | % | % PY | Hazard Ratio | [95% CI] | p-value |
 | Primary composite endpoint: Time to first hospitalization for worsening heart failure or cardiovascular deatha | 793 | 24.5 | 14.5 | 937 | 28.7 | 17.7 | 0.82 | [0.75, 0.90] | < 0.0001 |
 | Hospitalization for worsening heart failure | 505 | 15.6 | 9.2 | 660 | 20.2 | 12.5 |  |  |  |
 | Cardiovascular death as first event | 288 | 8.9 | 4.8 | 277 | 8.5 | 4.7 |  |  |  |
-| Subjects with events at any time |  |  |  |  |  |  |  |  |  |
+| Patients with events at any time |  |  |  |  |  |  |  |  |  |
 | Hospitalization for worsening heart failureb | 514 | 15.9 | 9.4 | 672 | 20.6 | 12.7 | 0.74 | [0.66, 0.83] |  |
 | Cardiovascular deathb | 449 | 13.9 | 7.5 | 491 | 15.0 | 8.3 | 0.91 | [0.80, 1.03] |  |
-| a Subjects who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) × 100; % PY: annual incidence rate = (n/number of patient-years) × 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
+| a Patients who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) × 100; % PY: annual incidence rate = (n/number of patient-years) × 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
 
 The Kaplan-Meier curve (Figure 3) shows time to first occurrence of the primary composite endpoint of hospitalization for worsening heart failure or cardiovascular death in the overall study.
 
@@ -61,7 +61,7 @@ Apparent homogeneity or heterogeneity among groups should not be over-interprete
 
 BEAUTIFUL and SIGNIFY: No benefit in stable coronary artery disease with or without stable heart failure
 
-BEAUTIFUL was a randomized, double-blind, placebo-controlled trial in 10,917 adult patients with coronary artery disease, impaired left ventricular systolic function (ejection fraction < 40%) and resting heart rate ≥ 60 bpm.
+The Morbidity-mortality Evaluation of the If Inhibitor Ivabradine in Patients with Coronary Disease and Left Ventricular Dysfunction Trial (BEAUTIFUL) was a randomized, double-blind, placebo-controlled trial in 10,917 adult patients with coronary artery disease, impaired left ventricular systolic function (ejection fraction < 40%) and resting heart rate ≥ 60 bpm.
 Patients had stable symptoms of heart failure and/or angina for at least 3 months and were receiving conventional cardiovascular medications at stable doses for at least 1 month.
 Beta-blocker therapy was not required, nor was there a protocol mandate to achieve any specific dosing targets for patients who were taking beta-blockers.
 Patients were randomized 1:1 to Corlanor or placebo at an initial dose of 5 mg twice daily with the dose increased to 7.5 mg twice daily depending on resting heart rate and tolerability.
@@ -69,7 +69,7 @@ The primary endpoint was the composite of time to first cardiovascular death, ho
 Most patients were NYHA class II (61.4%) or class III (23.2%) - none were class IV.
 Through a median follow-up of 19 months, Corlanor did not significantly affect the primary composite endpoint (HR 1.00, 95% CI = 0.91, 1.10).
 
-SIGNIFY was a randomized, double-blind trial administering Corlanor or placebo to 19,102 adult patients with stable coronary artery disease but without clinically evident heart failure (NYHA class I). Beta-blocker therapy was not required.
+The Study Assessing the Morbi-mortality Benefits of the If Inhibitor Ivabradine in Patients with Coronary Artery Disease Trial (SIGNIFY) was a randomized, double-blind trial administering Corlanor or placebo to 19,102 adult patients with stable coronary artery disease but without clinically evident heart failure (NYHA class I). Beta-blocker therapy was not required.
 Corlanor was initiated at a dose of 7.5 mg twice daily and the dose could be increased to as high as 10 mg twice daily or down-titrated to 5.0 mg twice daily to achieve a target heart rate of 55 to 60 bpm.
 The primary endpoint was a composite of the first occurrence of either cardiovascular death or myocardial infarction.
 Through a median follow-up of 24.1 months, Corlanor did not significantly affect the primary composite endpoint (HR 1.08, 95% CI = 0.96, 1.20).

@@ -1,4 +1,4 @@
-# 10.OVERDOSAGE
+# 10. OVERDOSAGE
 
 Overdose may lead to severe and prolonged bradycardia.
 In the event of bradycardia with poor hemodynamic tolerance, temporary cardiac pacing may be required.
