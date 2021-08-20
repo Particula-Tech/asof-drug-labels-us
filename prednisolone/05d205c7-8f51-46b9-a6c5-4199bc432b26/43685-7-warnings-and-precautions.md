@@ -50,7 +50,7 @@ Pregnancy Category C. Prednisolone has been shown to be teratogenic in mice when
 Dexamethasone, hydrocortisone and prednisolone were ocularly applied to both eyes of pregnant mice five times per day on days 10 through 13 of gestation.
 A significant increase in the incidence of cleft palate was observed in the fetuses of the treated mice.
 There are no adequate and well controlled studies in pregnant women.
-Prednisolone Acetate Ophthalmic Suspension USP, 1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Prednisolone acetate ophthalmic suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
