@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213553"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Xiromed, LLC",
+  "package_ndcs": [
+    "70700-284-98"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fulvestrant",
+      "name": "FULVESTRANT"
+    }
+  ],
+  "setid": "840cd7c0-9f33-f74e-f136-de7fe899bfb4",
+  "source": "dailymed"
+}
