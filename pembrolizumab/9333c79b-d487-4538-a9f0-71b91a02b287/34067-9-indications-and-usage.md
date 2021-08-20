@@ -103,7 +103,9 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.14 Renal Cell Carcinoma
 
-KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC).
+KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of adult patients with advanced renal cell carcinoma (RCC).
+
+KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of adult patients with advanced RCC.
 
 ## 1.15 Endometrial Carcinoma
 

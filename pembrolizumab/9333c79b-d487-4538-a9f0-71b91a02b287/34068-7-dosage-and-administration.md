@@ -49,7 +49,7 @@ Table 1: Recommended Dosage
 | Combination TherapyRefer to the Prescribing Information for the agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate. |  |  |
 | Adult patients with NSCLC, HNSCC, or Esophageal Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with Gastric Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to trastuzumab and chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
-| Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice daily.When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
+| Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice dailyWhen axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. or Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with Endometrial Carcinoma | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with high-risk early-stage TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as a single agent for up to 27 weeks (9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks) or until disease recurrence or unacceptable toxicity.Patients who experience disease progression or unacceptable toxicity related to KEYTRUDA with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA. |
 | Adult patients with locally recurrent unresectable or metastatic TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
@@ -91,7 +91,7 @@ Table 2: Recommended Dosage Modifications for Adverse Reactions
 
 The following table represents dosage modifications that are different from those described above for KEYTRUDA or in the Full Prescribing Information for the drug administered in combination.
 
-Table 3: Recommended Specific Dosage Modifications for Adverse Reactions in Combination with Axitinib
+Table 3: Recommended Specific Dosage Modifications for Adverse Reactions for KEYTRUDA in Combination with Axitinib
 
 | Treatment | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- | --- |
@@ -99,11 +99,11 @@ Table 3: Recommended Specific Dosage Modifications for Adverse Reactions in Comb
 | ALT or AST increases to more than 3 times ULN with concurrent total bilirubin at least 2 times ULN or ALT or AST ≥10 times ULN | Permanently discontinue both KEYTRUDA and axitinib |  |  |
 | ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal |  |  |  |
 
-KEYTRUDA in Combination with Lenvatinib
+Recommended Dose Modifications for Adverse Reactions for KEYTRUDA in Combination with Lenvatinib
 
-When administering KEYTRUDA in combination with lenvatinib, modify the dosage of one or both drugs as appropriate.
+When administering KEYTRUDA in combination with lenvatinib, modify the dosage of one or both drugs.
 Withhold or discontinue KEYTRUDA as shown in Table 2.
-Refer to lenvatinib prescribing information for additional dosage modification information.
+Refer to lenvatinib prescribing information for additional dose modification information.
 
 ## 2.4 Preparation and Administration
 
