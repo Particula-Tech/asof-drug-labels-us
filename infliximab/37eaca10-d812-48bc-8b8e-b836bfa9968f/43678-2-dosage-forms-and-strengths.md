@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-For injection: 100 mg vial: 100 mg lyophilized infliximab-dyyb in a 20 mL vial for injection, for intravenous use.
+For injection: 100 mg of infliximab-dyyb as a white lyophilized powder in a single-dose vial for reconstitution and dilution.
