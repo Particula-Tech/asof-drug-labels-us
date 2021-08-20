@@ -24,14 +24,14 @@ Instruct patients to read the Medication Guide each time Buprenorphine Sublingua
   Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
   Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
   Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
-  Repeat administration may be necessary, particularly for overdose involving Buprenorphine Sublingual Tablets, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.3), Warnings and Precautions (5.3), Overdosage (10)].If naloxone is prescribed, also advise patients and caregivers:
+  Repeat administration may be necessary, particularly for overdose involving Buprenorphine Sublingual Tablets, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.3), Warnings and Precautions (5.2), Overdosage (10)].If naloxone is prescribed, also advise patients and caregivers:
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/05
+C50000231/06
 
-Revised July 2020
+Revised March 2021

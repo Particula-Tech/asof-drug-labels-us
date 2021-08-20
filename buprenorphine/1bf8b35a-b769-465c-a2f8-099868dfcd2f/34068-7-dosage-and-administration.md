@@ -23,7 +23,7 @@ Because patients being treated for opioid use disorder have the potential for re
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Buprenorphine Sublingual Tablets itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu receptor [see Overdosage (10)].
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
