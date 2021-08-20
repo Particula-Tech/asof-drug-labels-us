@@ -1,9 +1,12 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Topical Ophthalmic Use Only
+## 5.1 Corneal Endothelial Damage and Toxic Anterior Segment Syndrome
 
-NOT FOR INJECTION.
-MOXEZA® solution is for topical ophthalmic use only and should not be injected subconjunctivally or introduced directly into the anterior chamber of the eye.
+NOT FOR INTRACAMERAL USE OR INJECTION.
+MOXEZA will cause damage to the corneal endothelium if introduced directly into the anterior chamber of the eye.
+
+Toxic Anterior Segment Syndrome (TASS) has been reported following intraocular administration of moxifloxacin.
+TASS is typically characterized by anterior chamber inflammatory reactions, such as fibrin, cell or flare and corneal edema, but other events, such as hypopyon, keratic precipitates or vitreous opacities may also occur.
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -13,7 +16,7 @@ If an allergic reaction to moxifloxacin occurs, discontinue use of the drug.
 Serious acute hypersensitivity reactions may require immediate emergency treatment.
 Oxygen and airway management should be administered as clinically indicated.
 
-## 5.3 Growth of Resistant Organisms with Prolonged Use
+## 5.3 Growth of Resistant Organisms With Prolonged Use
 
 As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, discontinue use and institute alternative therapy.
