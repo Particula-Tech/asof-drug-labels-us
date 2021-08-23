@@ -4,68 +4,76 @@ NDC 43547-335-10 Rx only
 
 Benazepril Hydrochloride Tablets USP
 
-5 mg
+5 mg 100 Tablets
 
-100 Tablets
+SolcoHealthcare U.S.
 
-Solco Healthcare U.S.
+# PRINCIPAL DISPLAY PANEL - 5 mg 100 tablet
+
+NDC 43547-335-10 Rx only
+
+BenazeprilHydrochlorideTablets USP
+
+5 mg100 Tablets
+
+SolcoHealthcare U.S.
 
 # PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet text
 
 NDC 43547-336-10 Rx only
 
-Benazepril Hydrochloride Tablets USP
+BenazeprilHydrochlorideTablets USP
 
-10 mg
+10 mg100 Tablets
 
-100 Tablets
+SolcoHealthcare U.S.
 
-Solco Healthcare U.S.
+# PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet
 
-# PRINCIPAL DISPLAY PANEL - 20 mg 100 tablet text
+NDC 43547-336-10 Rx only
 
-NDC 43547-337-03 Rx only
+BenazeprilHydrochlorideTablets USP
 
-Benazepril Hydrochloride Tablets USP
+10 mg100 Tablets
 
-20 mg
-
-30 Tablets
-
-Solco Healthcare U.S.
+SolcoHealthcare U.S.
 
 # PRINCIPAL DISPLAY PANEL - 20 mg 100 tablet text
 
 NDC 43547-337-10 Rx only
 
-Benazepril Hydrochloride Tablets USP
+BenazeprilHydrochlorideTablets USP
 
-20 mg
+20 mg100 Tablets
 
-100 Tablets
+SolcoHealthcare U.S.
 
-Solco Healthcare U.S.
+# PRINCIPAL DISPLAY PANEL - 20 mg 100 tablet
 
-# PRINCIPAL DISPLAY PANEL - 40 mg 100 tablet text
+NDC 43547-337-10 Rx only
 
-NDC 43547-338-03 Rx only
+BenazeprilHydrochlorideTablets USP
 
-Benazepril Hydrochloride Tablets USP
+20 mg100 Tablets
 
-40 mg
-
-30 Tablets
-
-Solco Healthcare U.S.
+Solco Healthcare U.S
 
 # PRINCIPAL DISPLAY PANEL - 40 mg 100 tablet text
 
 NDC 43547-338-10 Rx only
 
-Benazepril Hydrochloride Tablets USP
+BenazeprilHydrochlorideTablets USP
 
-40 mg
+40 mg100 Tablets
 
-100 Tablets
+SolcoHealthcare U.S.
+
+# PRINCIPAL DISPLAY PANEL - 40 mg 100 tablet
+
+NDC 43547-338-10 Rx only
+
+BenazeprilHydrochlorideTablets USP
+
+40 mg100 Tablets
 
 Solco Healthcare U.S.
