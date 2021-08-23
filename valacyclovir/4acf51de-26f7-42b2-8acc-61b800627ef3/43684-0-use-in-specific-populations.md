@@ -47,7 +47,7 @@ Risk Summary
 Although there is no information on the presence of valacyclovir in human milk, its metabolite, acyclovir, is present in human milk following oral administration of valacyclovir.
 Based on published data, a 500 mg maternal dose of valacyclovir hydrochloride twice daily would provide a breastfed child with an oral acyclovir dosage of approximately 0.6 mg/kg/day (see Data).
 There is no data on the effects of valacyclovir or acyclovir on the breastfed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clincial need for valacyclovir hydrochloride and any potential adverse effects on the breastfed child from valacyclovir hydrochloride or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for valacyclovir hydrochloride and any potential adverse effects on the breastfed child from valacyclovir hydrochloride or from the underlying maternal condition.
 
 Data
 

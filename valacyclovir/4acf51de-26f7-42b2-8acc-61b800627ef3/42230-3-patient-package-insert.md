@@ -41,7 +41,7 @@ Before you take valacyclovir tablets, tell your healthcare provider about all of
   It is not known if valacyclovir tablets will harm your unborn baby.
   You and your healthcare provider will decide if you will take valacyclovir tablets if you are pregnant.
 - are breastfeeding or plan to breastfeed.
-  Valacyclovir tablets may pass into your breastmilk.
+  Valacyclovir hydrochloride may pass into your breastmilk.
   Talk with your healthcare provider about the best way to feed your child if you take valacyclovir tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -61,7 +61,7 @@ How should I take valacyclovir tablets?
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses at the same time or take more valacyclovir tablets than prescribed.
-- If you take too much valacyclovir tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
+- If you take too much valacyclovir hydrochloride, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of valacyclovir tablets?
 
@@ -75,12 +75,12 @@ Valacyclovir tablets can cause serious side effects including:
 - nervous system problems.
   Tell your healthcare provider right away if you get any of these signs or symptoms of nervous system problems during treatment with valacyclovir tablets:
   - aggressive behavior
-  - speech problems
   - unsteady movement
-  - hallucinations (seeing or hearing things that are really not there)
   - shaky movements
-  - seizures
   - confusion
+  - speech problems
+  - hallucinations (seeing or hearing things that are really not there)
+  - seizures
   - coma
 
 Elderly people are more likely to get certain side effects.
@@ -89,10 +89,8 @@ Talk to your healthcare provider if this is a concern for you.
 The most common side effects of valacyclovir tablets in adults include:
 
 - headache
-
-- stomach (abdominal) pain
-
 - nausea
+- stomach (abdominal) pain
 
 The most common side effect of valacyclovir tablets in children less than 18 years of age is headache.
 
@@ -125,8 +123,8 @@ Active ingredient: valacyclovir hydrochloride
 
 Inactive ingredients: crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
 
-This Patent Information has been approved by the U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: APL Healthcare Limited Unit-IV (MP SEZ), SPSR Nellore (Dt)-524 421 Andhra Pradesh, India.
-M.L.No.: 04/NLR/AP/2016/F/CC Revised: 04/2021
+M.L.No.: 04/NLR/AP/2016/F/CC Revised: 07/2021
