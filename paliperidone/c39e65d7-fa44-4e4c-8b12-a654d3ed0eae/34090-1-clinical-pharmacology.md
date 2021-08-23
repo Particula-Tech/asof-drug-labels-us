@@ -64,8 +64,7 @@ The clinical relevance is unknown.
 After oral administration, a decrease in mean Cmax and AUC values at steady state is expected when patients are treated with carbamazepine, a strong inducer of both CYP3A4 and P-gp [see Drug Interactions (7.1)].
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 
-| Figure 1: The effects of other drugs on INVEGA TRINZA® pharmacokinetics. |
-| --- |
+Figure 1: The effects of other drugs on INVEGA TRINZA® pharmacokinetics.
 
 In vitro studies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism, however, there is no evidence in vivo that inhibitors of these enzymes significantly affect the metabolism of paliperidone; they contribute to only a small fraction of total body clearance.
 In vitro studies demonstrated that paliperidone is a substrate of P-glycoprotein (P-gp) [see Drug Interactions (7.2)].
@@ -82,8 +81,7 @@ The effects of INVEGA TRINZA® on the exposures of other drugs are summarized in
 After oral administration of paliperidone, the steady-state Cmax and AUC of valproate were not affected in 13 patients stabilized on valproate.
 In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when oral paliperidone extended-release tablets 3–15 mg/day was added to their existing valproate treatment [see Drug Interactions (7.1)].
 
-| Figure 2: The effects of INVEGA TRINZA® on pharmacokinetics of other drugs. |
-| --- |
+Figure 2: The effects of INVEGA TRINZA® on pharmacokinetics of other drugs.
 
 Studies in Specific Populations
 
@@ -97,8 +95,7 @@ Paliperidone has not been studied in patients with severe hepatic impairment [se
 After oral administration of paliperidone in elderly subjects, the Cmax and AUC increased 1.2-fold compared to young subjects.
 However, there may be age-related decreases in creatinine clearance [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
-| Figure 3: Effects of intrinsic factors on paliperidone pharmacokinetics. |
-| --- |
+Figure 3: Effects of intrinsic factors on paliperidone pharmacokinetics.
 
 Based on in vitro studies utilizing human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 Slower absorption was observed in females in a population pharmacokinetic analysis.

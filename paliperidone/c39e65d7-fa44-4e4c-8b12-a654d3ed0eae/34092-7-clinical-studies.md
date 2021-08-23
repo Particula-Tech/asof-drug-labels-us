@@ -42,5 +42,7 @@ A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 4.
 
 An examination of population subgroups did not reveal any clinically significant differences in responsiveness on the basis of gender, age, or race.
 
-| Figure 4: Kaplan-Meier Plot of Cumulative Proportion of Patients with RelapseThe median time to relapse in the placebo group was 274 days. The median time to relapse in the INVEGA TRINZA® group could not be estimated due to low percentage (7.4%) of subjects with relapse. Over Time – Interim Analysis. |
-| --- |
+Figure 4: Kaplan-Meier Plot of Cumulative Proportion of Patients with Relapsea Over Time – Interim Analysis.
+
+a The median time to relapse in the placebo group was 274 days.
+The median time to relapse in the INVEGA TRINZA® group could not be estimated due to low percentage (7.4%) of subjects with relapse.
