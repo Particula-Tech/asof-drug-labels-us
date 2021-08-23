@@ -2,13 +2,21 @@
 
 How Supplied
 
-Arsenic trioxide injection is supplied as a sterile, clear, colorless solution in 10 mL glass, single-dose vials.
+Arsenic trioxide injection is supplied as a sterile, clear, colorless solution in single-dose vials.
 
 It is available as follows:
 
-10 mg/10 mL (1 mg/mL) Single-Dose Vial: NDC 70121-1483-1
+10 mg/10 mL (1 mg/mL):
+
+10 mL Single-Dose Vial: NDC 70121-1483-1
 
 10 Single-Dose Vials in 1 Carton: NDC 70121-1483-7
+
+12 mg/6 mL (2 mg/mL):
+
+6 mL Single-Dose Vial: NDC 70121-1658-6
+
+10 Single-Dose Vials in 1 Carton: NDC 70121-1658-1
 
 Storage and Handling
 

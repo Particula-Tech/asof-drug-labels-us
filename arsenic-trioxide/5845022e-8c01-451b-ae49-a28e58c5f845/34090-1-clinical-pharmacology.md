@@ -18,11 +18,14 @@ Prolongation of the QTc was observed between 1 and 5 weeks after arsenic trioxid
 The inorganic, lyophilized form of arsenic trioxide, when placed into solution, immediately forms the hydrolysis product arsenious acid (AsIII).
 AsIII is the pharmacologically active species of arsenic trioxide.
 Monomethylarsonic acid (MMAV), and dimethylarsinic acid (DMAV) are the main pentavalent metabolites formed during metabolism, in addition to arsenic acid (AsV) a product of AsIII oxidation.
+
 The pharmacokinetics of arsenical species ([AsIII], [AsV], [MMAV], [DMAV]) were determined in 6 APL patients following once-daily doses of 0.15 mg/kg for 5 days per week.
-Over the total single-dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
+Over the total single-dose range of 7 mg to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
+
 Peak plasma concentrations of arsenious acid (AsIII), the primary active arsenical species were reached at the end of infusion (2 hours).
 Plasma concentration of AsIII declined in a biphasic manner with a mean elimination half-life of 10 to 14 hours and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
 The daily exposure to AsIII (mean AUC0-24h) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2-fold accumulation.
+
 The primary pentavalent metabolites, MMAV and DMAV, are slow to appear in plasma (approximately 10 to 24 hours after first administration of arsenic trioxide), but, due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
 The mean estimated terminal elimination half-lives of the metabolites MMAV and DMAV are 32 hours and 72 hours, respectively.
 Approximate accumulation ranged from 1.4- to 8-fold following multiple dosing as compared to single-dose administration.

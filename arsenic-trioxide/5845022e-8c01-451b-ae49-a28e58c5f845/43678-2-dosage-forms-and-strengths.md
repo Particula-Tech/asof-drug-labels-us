@@ -1,5 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Arsenic trioxide injection is an injectable solution for intravenous administration and is available as:
+Injection: 10 mg/10 mL (1 mg/mL) arsenic trioxide clear solution in a single-dose vial.
 
-Injection: 10 mg arsenic trioxide in 10 mL clear solution in a single-dose vial.
+Injection: 12 mg/6 mL (2 mg/mL) arsenic trioxide clear solution in a single-dose vial.
