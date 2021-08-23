@@ -75,12 +75,12 @@ For detailed instructions, see the step-by-step instructions for using EVAMIST a
 - •If a pet accidentally comes in contact with the area of your skin where you have sprayed EVAMIST, the area of the pet’s skin should be washed with soap and water right away.
 - •Young children who are accidentally exposed to estrogen through contact with women using EVAMIST may show signs and symptoms of puberty that are not expected.
   Signs and symptoms in children of exposure to EVAMIST may include:
-  - obreast budding or breast lumps
-  - oother signs of abnormal sexual development
+  - •breast budding or breast lumps
+  - •other signs of abnormal sexual development
 - If a child shows signs and symptoms of accidental exposure to EVAMIST:
-  - ohave the child checked right away by their healthcare provider.
-  - ostop using EVAMIST and call your healthcare provider right away.
-  - otalk to your healthcare provider about the correct use of EVAMIST when around children.
+  1. •have the child checked right away by their healthcare provider.
+  2. •stop using EVAMIST and call your healthcare provider right away.
+  3. •talk to your healthcare provider about the correct use of EVAMIST when around children.
 - •Talk to your healthcare provider about other treatments for your menopause symptoms if accidental exposure to EVAMIST cannot be avoided.
 - •You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with EVAMIST.
 
@@ -196,7 +196,6 @@ EVAMIST comes in a spray applicator that delivers a measured amount of estradiol
   Fully press down the pump button 3 times with your thumb or index finger (see Figure B). After priming, the EVAMIST applicator is ready to use.
 - •The EVAMIST applicator should be primed only 1 time when you first start using a new applicator.
   Do not prime the EVAMIST applicator before your dose each day.
-- 
 
 Figure B
 
@@ -208,26 +207,24 @@ Using your EVAMIST
 - •Hold the EVAMIST applicator upright and rest the plastic cone flat against your skin.
   You may need to change the position of your arm or the position of the cone on your arm so that the cone is flat against your skin and there are no gaps between the cone and your skin (see Figure C).
 - •Press the pump button down fully 1 time (see Figure C).
-- 
+
 - Figure C
 - If your healthcare provider tells you to increase your dose to 2 or 3 sprays, move the cone before applying the second or third spray to an area of your skin next to but not touching the area of the previous spray (see Figure D).
-- 
+
 - Figure D
 
 - •Do not apply EVAMIST to your breasts or in and around your vagina.
 - •Do not massage or rub EVAMIST into your skin.
 - •Let EVAMIST spray dry on your skin for at least:
-  - o2 minutes before you cover your skin with clothing.
-  - o1 hour before you wash your skin.
+  - •2 minutes before you cover your skin with clothing.
+  - •1 hour before you wash your skin.
 - Step 3.
   After you use EVAMIST
-
 - •Place the plastic cover back on the EVAMIST applicator cone.
 - •EVAMIST is flammable until dry.
   Avoid fire, flame, or smoking until the area of your skin where you have applied EVAMIST has completely dried.
 - Step 4.
   Throwing away used EVAMIST applicators
-
 - •Your EVAMIST applicator contains enough medicine to allow for initial priming of the pump with 3 sprays and application of 56 sprays.
 - •Do not use your EVAMIST applicator for more than 56 application sprays even though the bottle may not be completely empty.
   You may not get the correct dose.

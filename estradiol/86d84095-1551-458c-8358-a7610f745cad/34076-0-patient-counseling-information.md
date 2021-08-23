@@ -16,10 +16,10 @@ Provide the following information about secondary exposure to Evamist:
   [See FDA-Approved Patient Information Leaflet at the end of the prescribing information.]
 - •Look for signs of unexpected sexual development, such as breast mass or increased breast size in prepubertal children.
 - •If signs of unintentional secondary exposure are noticed:
-  - oHave children evaluated by a healthcare provider.
-  - oDiscontinue Evamist until the cause(s) is identified for any unexpected sexual development in children under their care.
-  - oWomen should contact their healthcare provider and discuss the appropriate use and handling of Evamist when around children.
-  - oIf conditions for safe use cannot be met, Evamist should be discontinued and alternative treatments for menopausal signs and symptoms should be considered.
+  - •Have children evaluated by a healthcare provider.
+  - •Discontinue Evamist until the cause(s) is identified for any unexpected sexual development in children under their care.
+  - •Women should contact their healthcare provider and discuss the appropriate use and handling of Evamist when around children.
+  - •If conditions for safe use cannot be met, Evamist should be discontinued and alternative treatments for menopausal signs and symptoms should be considered.
 - •Pets may also be unintentionally exposed to Evamist if above precautions are not followed.
 
 ## 17.3 Possible Serious Adverse Reactions with Estrogen-Alone Therapy
