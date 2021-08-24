@@ -1,16 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-## Trichomoniasis
+Trichomoniasis
 
-### In the Female
+In the Female
 
-#### One-day treatment
+One-day treatment - Two grams of metronidazole tablets, given either as a single dose or in two divided doses of one gram each, given in the same day.
 
-Two grams of metronidazole tablets, given either as a single dose or in two divided doses of one gram each, given in the same day.
-
-#### Seven-day course of treatment
-
-250 mg three times daily for seven consecutive days.
+Seven-day course of treatment - 250 mg three times daily for seven consecutive days.
 There is some indication from controlled comparative studies that cure rates as determined by vaginal smears and signs and symptoms, may be higher after a seven-day course of treatment than after a one-day treatment regimen.
 
 The dosage regimen should be individualized.
@@ -24,27 +20,19 @@ In pregnant patients for whom alternative treatment has been inadequate, the one
 When repeat courses of the drug are required, it is recommended that an interval of four to six weeks elapse between courses and that the presence of the trichomonad be reconfirmed by appropriate laboratory measures.
 Total and differential leukocyte counts should be made before and after re-treatment.
 
-### In the Male
+In the Male: Treatment should be individualized as it is for the female.
 
-Treatment should be individualized as it is for the female.
+Amebiasis
 
-## Amebiasis
+Adults
 
-### Adults
+For acute intestinal amebiasis (acute amebic dysentery): 750 mg orally three times daily for 5 to 10 days.
 
-#### For acute intestinal amebiasis (acute amebic dysentery)
+For amebic liver abscess: 500 mg or 750 mg orally three times daily for 5 to 10 days.
 
-750 mg orally three times daily for 5 to 10 days.
+Pediatric patients: 35 to 50 mg/kg/24 hours, divided into three doses, orally for 10 days.
 
-#### For amebic liver abscess
-
-500 mg or 750 mg orally three times daily for 5 to 10 days.
-
-### Pediatric Patients
-
-35 to 50 mg/kg/24 hours, divided into three doses, orally for 10 days.
-
-## Anaerobic Bacterial Infections
+Anaerobic Bacterial Infections
 
 In the treatment of most serious anaerobic infections, intravenous metronidazole is usually administered initially.
 

@@ -46,11 +46,11 @@ Following a single intravenous infusion of 500 mg metronidazole, the mean AUC24 
 There were no significant changes in the AUC24 of hydroxyl-metronidazole in these hepatically impaired patients.
 A reduction in metronidazole dosage by 50% is recommended in patients with severe (Child-Pugh C) hepatic impairment (see DOSAGE AND ADMINISTRATION).
 No dosage adjustment is needed for patients with mild to moderate hepatic impairment.
-Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONSand DOSAGE AND ADMINISTRATION).
+Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Geriatric Patients
 
-Following a single 500 mg oral or IV dose of metronidazole, subjects > 70 years old with no apparent renal or hepatic dysfunction had a 40% to 80% higher mean AUC of hydroxy-metronidazole (active metabolite), with no apparent increase in the mean AUC of metronidazole (parent compound), compared to young healthy controls < 40 years old.
+Following a single 500 mg oral or IV dose of metronidazole, subjects >70 years old with no apparent renal or hepatic dysfunction had a 40% to 80% higher mean AUC of hydroxy-metronidazole (active metabolite), with no apparent increase in the mean AUC of metronidazole (parent compound), compared to young healthy controls <40 years old.
 In geriatric patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
 
 Pediatric Patients
@@ -69,7 +69,7 @@ Because of this alteration of the metronidazole molecule, a concentration gradie
 The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of the bacteria.
 The precise mechanism of action of metronidazole is unclear.
 
-Drug Resistance
+Resistance
 
 A potential for development of resistance exists against metronidazole.
 
@@ -77,7 +77,7 @@ Resistance may be due to multiple mechanisms that include decreased uptake of th
 
 Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-Activity In Vitro and in Clinical Infections
+Antimicrobial Activity
 
 Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
@@ -105,7 +105,7 @@ Trichomonas vaginalis
 
 The following in vitro data are available, but their clinical significance is unknown:
 
-Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-negative anaerobes
 
@@ -115,4 +115,4 @@ Prevotella species (P. bivia, P. buccae, P. disiens)
 
 ## Susceptibility Testing
 
-For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -104,6 +104,10 @@ Drugs that Induce CYP450 Enzymes
 
 The simultaneous administration of drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has also been reported.
 
+Drugs that Prolong the QT interval
+
+QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+
 ## Drug/Laboratory Test Interactions
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase.
@@ -116,7 +120,7 @@ Interference is due to the similarity in absorbance peaks of NADH (340 nm) and m
 Tumors affecting the liver, lungs, mammary, and lymphatic tissues have been detected in several studies of metronidazole in rats and mice, but not hamsters.
 
 Pulmonary tumors have been observed in all six reported studies in the mouse, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only).
-Malignant liver tumors were increased in male mice treated at approximately 1500 mg/m2 (similar to the maximum recommended daily dose, based on body surface area comparisons).
+Malignant liver tumors were increased in male mice treated at approximately 1,500 mg/m2 (similar to the maximum recommended daily dose, based on body surface area comparisons).
 Malignant lymphomas and pulmonary neoplasms were also increased with lifetime feeding of the drug to mice.
 Mammary and hepatic tumors were increased among female rats administered oral metronidazole compared to concurrent controls.
 Two lifetime tumorigenicity studies in hamsters have been performed and reported to be negative.
@@ -133,10 +137,10 @@ Fertility was restored in most rats after an eight week, drug-free recovery peri
 ### Teratogenic Effects
 
 There are no adequate and well controlled studies of metronidazole in pregnant women.
-There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
+There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5,000 pregnant women who used metronidazole during pregnancy.
 Many studies included first trimester exposures.
 One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in-utero; however, these findings were not confirmed.
-In addition, more than ten randomized placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
+In addition, more than ten randomized placebo-controlled clinical trials enrolled more than 5,000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
 Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy.
 Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
 

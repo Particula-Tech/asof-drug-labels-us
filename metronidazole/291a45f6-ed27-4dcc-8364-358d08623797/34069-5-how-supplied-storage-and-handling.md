@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Metronidazole Tablets USP are available as follows:
+Metronidazole Tablets, USP are available as follows:
 
 250 mg - White, round, convex tablets debossed “PLIVA 333” on one side and unscored on the other side.
 Available in bottles of 100 (NDC 50111-333-01), 250 (NDC 50111-333-06) and 500 (NDC 50111-333-02).
@@ -18,10 +18,17 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
+Manufactured In Czech Republic By:
+
+Teva Czech Industries s.r.o.
+
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
 
 Rev.
-E 11/2018
+F 8/2021

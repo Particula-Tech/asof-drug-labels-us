@@ -15,7 +15,8 @@ Dermatologic: Erythematous rash and pruritus.
 
 Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
-Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
+Cardiovascular: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 
@@ -30,3 +31,5 @@ Patients with Crohn’s disease are known to have an increased incidence of gast
 There have been some reports in the medical literature of breast and colon cancer in Crohn’s disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
 Crohn’s disease is not an approved indication for metronidazole tablets.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
