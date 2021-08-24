@@ -26,13 +26,13 @@ Unequal doses were administered in 10% (7/69) of patients treated with XYWAV.
 The primary efficacy endpoint was the change in frequency of cataplexy attacks from the 2 weeks of the SDP to the 2 weeks of the DB RWP.
 The key secondary endpoint was the change in the Epworth Sleepiness Scale (ESS) score, as a measure of reduction in EDS from the end of the SDP to the end of the DB RWP.
 
-Patients taking stable doses of XYWAV who discontinued XYWAV treatment and were randomized to placebo during the DB RWP experienced a significant worsening in the average weekly number of cataplexy attacks and in ESS score, compared with patients randomized to continue treatment with XYWAV (see Table 4).
+Patients taking stable doses of XYWAV who discontinued XYWAV treatment and were randomized to placebo during the DB RWP experienced a significant worsening in the average weekly number of cataplexy attacks and in ESS score, compared with patients randomized to continue treatment with XYWAV (see Table 6).
 
-Table 4: Mean and Median Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (ESS)
+Table 6: Mean and Median Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (ESS)
 
 |  | Average Weekly Number of Cataplexy Attacks |  | ESS SCORE |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo (N = 65) | XYWAV (N = 69) | Placebo (N = 65) | XYWAV (N = 69) |
+|  | Placebo (N=65) | XYWAV (N=69) | Placebo (N=65) | XYWAV (N=69) |
 | Baseline (2 Weeks of the Stable Dose Period) |  |  |  |  |
 | Mean (SD) | 7.2 (14.4) | 8.9 (16.8) | 12.6 (5.5) | 13.6 (5.3) |
 | Median | 1.0 | 1.1 | 13.0 | 14.0 |
@@ -41,7 +41,7 @@ Table 4: Mean and Median Number of Weekly Cataplexy Attacks and Epworth Sleepine
 | Median | 2.4 | 0.0 | 2.0 | 0.0 |
 | p-value | <0.0001 |  | <0.0001 |  |
 
-DB RWP = Double‑blind Randomized-withdrawal Period; SD = standard deviation
+DB RWP=Double‑blind Randomized-withdrawal Period; SD=standard deviation
 
 ## 14.2 Cataplexy and Excessive Daytime Sleepiness in Pediatric Narcolepsy
 
@@ -62,14 +62,14 @@ Efficacy was established at dosages ranging from 3 g to 9 g of Xyrem per night.
 The primary efficacy measure was the change in frequency of cataplexy attacks.
 In addition, change in cataplexy severity was evaluated with the Clinical Global Impression of Change for cataplexy severity.
 The efficacy of Xyrem in the treatment of excessive daytime sleepiness in pediatric patients with narcolepsy was evaluated with the change in the Epworth Sleepiness Scale (Child and Adolescent) score.
-The Epworth Sleepiness Scale (Child and Adolescent) is a modified version of the scale used in adult clinical trials described above.
+The Epworth Sleepiness Scale (Child and Adolescent) is a modified version of the scale used in the adult clinical trial described above.
 The overall change in narcolepsy condition was assessed by the Clinical Global Impression of Change for narcolepsy overall.
-Efficacy was assessed during or at the end of the 2-week double-blind treatment period, relative to the last 2 weeks or end of the stable-dose period (see Tables 5 and 6).
+Efficacy was assessed during or at the end of the 2-week double-blind treatment period, relative to the last 2 weeks or end of the stable-dose period (see Tables 7 and 8).
 
 Pediatric patients taking stable dosages of Xyrem who discontinued Xyrem treatment and were randomized to placebo during the double-blind treatment period experienced a statistically significant increase in weekly cataplexy attacks compared with patients who were randomized to continue treatment with Xyrem.
-Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of EDS compared with patients randomized to continue receiving Xyrem (see Table 5).
+Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of EDS compared with patients randomized to continue receiving Xyrem (see Table 7).
 
-Table 5: Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child and Adolescent) Score
+Table 7: Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child and Adolescent) Score
 
 | Treatment Group | Baseline*,† | Double-blind Treatment Period‡,§ | Median Change from Baseline | Comparison to Placebo (p-value¶) |
 | --- | --- | --- | --- | --- |
@@ -82,9 +82,9 @@ Table 5: Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child 
 
 * For weekly number of cataplexy attacks, baseline value is calculated from the last 14 days of the stable-dose period. † For Epworth Sleepiness Scale score, baseline value is collected at the end of stable-dose period. ‡ Weekly number of cataplexy attacks is calculated from all days within the double-blind treatment period. § For Epworth Sleepiness Scale, value is collected at the end of the double-blind treatment period. ¶ P-value from rank-based analysis of covariance (ANCOVA) with treatment as a factor and rank baseline value as a covariate. ** One patient in each of the treatment groups did not have baseline ESS score available and were not included in this analysis.
 
-Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of cataplexy severity and narcolepsy overall according to the clinician’s assessment compared with patients randomized to continue receiving Xyrem (see Table 6).
+Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of cataplexy severity and narcolepsy overall according to the clinician’s assessment compared with patients randomized to continue receiving Xyrem (see Table 8).
 
-Table 6: Clinical Global Impression of Change (CGIc) for Cataplexy Severity and Narcolepsy Overall
+Table 8: Clinical Global Impression of Change (CGIc) for Cataplexy Severity and Narcolepsy Overall
 
 | Worsened, %† | CGIc Cataplexy Severity* |  | CGIc Narcolepsy Overall* |  |
 | --- | --- | --- | --- | --- |
@@ -93,3 +93,89 @@ Table 6: Clinical Global Impression of Change (CGIc) for Cataplexy Severity and 
 | p-value§ | 0.0001 |  | <0.0001 |  |
 
 * Responses indicate change of severity or symptoms relative to receiving Xyrem treatment at baseline. † Percentages based on total number of observed values. ‡ Two patients randomized to Xyrem did not have the CGIc assessments completed and were excluded from the analysis. § P-value from Pearson’s chi-square test.
+
+## 14.3 Idiopathic Hypersomnia (IH) in Adults
+
+Efficacy of XYWAV for the treatment of IH in adult patients as a once or twice nightly regimen was established in a double-blind, placebo-controlled, randomized-withdrawal, study (Study 2, NCT03533114).
+Study 2 consisted of a minimum of 10‑week open‑label treatment titration and optimization period (OL OTTP), (with up to 4 additional weeks) to allow for an optimally effective and tolerable dose and regimen followed by a 2‑week stable dose period (SDP), a 2‑week double-blind, randomized withdrawal period (DB RWP), and a 24‑week open label safety extension period (OLE).
+
+Study 2 enrolled 154 patients with idiopathic hypersomnia, 19 to 75 years of age.
+Of the 154 patients, 115 were evaluable for efficacy data and were randomized 1:1 to continue treatment with XYWAV or to placebo in the 2‑week DB RWP.
+In the safety population, overall, the median age was 39 years (range: 19 to 75).
+At baseline, 2% of patients were taking Xyrem only, 4% of patients were taking Xyrem and an additional stimulant or alerting agent, 54% of patients were not currently taking Xyrem but were taking a stimulant or alerting agent, and 41% were treatment naïve.
+CNS stimulants were allowed at entry, and approximately 57% of patients continued taking a stable dose of stimulant throughout the SDP and DB RWP.
+
+The majority of subjects were female (71%), and most were white (81%) and not Hispanic or Latino (79%).
+
+The XYWAV dosing regimen was initiated at the discretion of the investigator according to clinical presentation.
+Patients were considered for XYWAV once nightly if they reported difficulty awakening as a result of sleep inertia or long sleep time.
+Patients were considered for twice nightly dosing if they reported disrupted nighttime sleep or difficulty with sleep maintenance.
+For twice nightly regimens, doses were divided equally or unequally, with the first dose administered at bedtime and the second dose administered 2.5 to 4 hours later.
+
+Based on clinical response during the OTTP, investigators were permitted to switch patients between twice nightly and once nightly dosing regimens.
+When patients were switched from a twice nightly to a once nightly dosing regimen, the total nightly dose was initially the same as the first dose of the twice nightly dosing regimen.
+When patients were switched from a once nightly to a twice nightly dosing regimen, the total nightly dose was no more than 1.5 g higher than the current dose, divided into two doses.
+
+At the start of the DB RWP, 23% (27/115) of patients were taking XYWAV once nightly (median nightly dose 4.5 g), and 77% (88/115) of patients were taking XYWAV twice nightly (median nightly dose 7.5 g). There were no meaningful differences in demographics, baseline characteristics or disease severity between patients receiving XYWAV once nightly vs twice nightly.
+
+The primary efficacy endpoint was the change in Epworth Sleepiness Scale (ESS) score, as a measure of reduction in EDS from the end of the SDP to the end of the DB RWP.
+The ESS is an 8-item self-reported questionnaire by which patients rate their perceived likelihood of falling asleep during usual daily life activities.
+Each of the 8 items on the ESS is rated from 0 (would never doze) to 3 (high chance of dozing), with a maximum score of 24.
+Key secondary efficacy endpoints included patient global impression of change (PGIc) and the Idiopathic Hypersomnia Severity Scale (IHSS), both assessed as a change from the end of the SDP to the end of the DB RWP.
+The IHSS is a 14-item self-reported questionnaire assessing the severity of IH symptoms of excessive sleepiness, prolonged sleep duration, cognitive impairment, and sleep inertia.
+Total scores can range from 0-50, with higher scores indicating a greater severity or frequency of symptoms.
+
+Change in ESS
+
+Patients in Study 2 taking stable doses of XYWAV who were withdrawn from XYWAV treatment and randomized to placebo during DB RWP experienced significant worsening in ESS score compared with patients randomized to continue treatment with XYWAV (p<0.0001) across all dosing regimens (see Table 9).
+These two treatment groups had comparable median ESS scores (Placebo=17; XYWAV=16) at entry into the OTTP.
+
+Table 9: Median Change in Epworth Sleepiness Scale (ESS)
+
+| ESS Score |  |  |
+| --- | --- | --- |
+|  | Placebo(N=59) | XYWAV(N=56) |
+| Baseline End of 2-Week SDP |  |  |
+| Median | 5.0 | 6.5 |
+| End of 2-Week DB RWP |  |  |
+| Median | 14.0 | 7.0 |
+| Median Change from End of 2-Week SDP to End of 2-Week DB RWP |  |  |
+| Median | 8.0 | 0.0 |
+| p-value | <0.0001 |  |
+
+SDP=Stable Dose Period DB RWP=Double-blind Randomized-withdrawal Period
+
+PGIc
+
+Patient Global Impression of change (PGIc) ratings showed that patients randomized to placebo experienced a worsening of symptoms of idiopathic hypersomnia overall compared with patients randomized to XYWAV (Table 10).
+The percentage of patients with worsening PGIc scores for IH overall (defined as scores of Minimally, Much Worse, or Very Much Worse) was greater for patients receiving placebo (88.1%) compared with patients receiving XYWAV (21.4%) (p<0.0001).
+
+Table 10: PGIc* at End of the DB RWP†
+
+|  | PGIc* IH Overall |  |
+| --- | --- | --- |
+| Worsened,% ‡† | Placebo (N=59) n (%) | XYWAV (N=56) n (%) |
+| Proportion Worsened (minimally, much, or very much worse) | 52 (88.1) | 12 (21.4) |
+| p‑value | <0.0001 | n/a |
+
+*PGIc is a 7‑point patient-reported scale by which patients rated their symptom change from “very much improved” to “very much worse.” †DB RWP=Double‑blind Randomized-withdrawal Period. ‡At the end of the DB RWP/early termination visit, patients rated the change in their condition since the end of the Open-Label Stable-Dose Period.
+
+IHSS
+
+At end of DB RWP, patients randomized to placebo experienced a worsening in IHSS total score, compared to patients randomized to XYWAV (p<0.0001) (see Table 11).
+These two treatment groups had comparable median IHSS scores (Placebo=33; XYWAV=33) at entry into the OTTP.
+
+Table 11: Median Change in IHSS Total Score
+
+| Total Score |  |  |
+| --- | --- | --- |
+|  | Placebo(N=59) | XYWAV(N=56) |
+| Baseline End of 2-Week SDP |  |  |
+| Median | 14.0 | 14.0 |
+| End of 2-Week DB RWP |  |  |
+| Median | 29.0 | 16.0 |
+| Median Change from End of 2-Week SDP to End of 2-Week DB RWP |  |  |
+| Median | 14.0 | 0.0 |
+| p-value | <0.0001 |  |
+
+SDP=Stable Dose Period DB RWP=Double‑blind Randomized-withdrawal Period

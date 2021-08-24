@@ -8,5 +8,5 @@ Use of other CNS depressants may potentiate the CNS-depressant effects of XYWAV 
 ## 7.2 Divalproex Sodium
 
 Concomitant use of sodium oxybate with divalproex sodium results in an increase in systemic exposure to GHB, which was shown to cause a greater impairment on some tests of attention and working memory in a clinical study [see Clinical Pharmacology (12.3)].
-A similar increase in exposure is expected with concomitant use of XYWAV and divalproex sodium; therefore, an initial dose reduction of XYWAV is recommended when used concomitantly with divalproex sodium [see Dosage and Administration (2.6)].
+A similar increase in exposure is expected with concomitant use of XYWAV and divalproex sodium; therefore, an initial dose reduction of XYWAV is recommended when used concomitantly with divalproex sodium [see Dosage and Administration (2.7)].
 Prescribers are advised to monitor patient response closely and adjust dose accordingly if concomitant use of XYWAV and divalproex sodium is warranted.

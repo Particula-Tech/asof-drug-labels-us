@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Dosing Information
+## 2.1 Dosing Information in Adult Patients with Narcolepsy
 
 The recommended starting dosage is 4.5 grams (g) per night administered orally, divided into two doses: 2.25 g at bedtime and 2.25 g taken 2.5 to 4 hours later (see Table 1).
 Increase the dosage by up to 1.5 g per night per week (e.g., 0.75 g at bedtime and 0.75 g taken 2.5 to 4 hours later), to the recommended dosage range of 6 g to 9 g per night.
@@ -19,7 +19,7 @@ Table 1: Recommended Adult XYWAV Dosage Regimen (g = grams)
 
 Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later.
 
-## 2.2 Pediatric Dosing Information
+## 2.2 Dosing Information in Pediatric Patients with Narcolepsy
 
 For pediatric patients 7 years of age and older, XYWAV is administered orally twice per night.
 The recommended starting pediatric dosage, titration regimen, and maximum total nightly dosage are based on patient weight, as specified in Table 2.
@@ -39,35 +39,52 @@ Table 2: Recommended XYWAV Dosage for Patients 7 Years of Age and Older*
 * For patients who sleep more than 8 hours per night, the first nightly dose of XYWAV may be given at bedtime or after an initial period of sleep. ** If XYWAV is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered.
 Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later.
 
-## 2.3 Important Administration Instructions for All Patients
+## 2.3 Dosing Information in Adult Patients with Idiopathic Hypersomnia (IH)
 
-The total nightly dosage of XYWAV is divided into two doses.
-Prepare both doses of XYWAV prior to bedtime.
-Prior to ingestion, each dose of XYWAV should be diluted with approximately ¼ cup (approximately 60 mL) of water in the empty pharmacy containers provided.
+The dosage and regimen of XYWAV should be individualized based on clinical presentation [see Clinical Studies (14.3)].
+
+XYWAV can be administered as a twice nightly or once nightly regimen.
+The recommended starting dose, titration guidance, and maximum nightly doses appear in Table 3:
+
+Table 3: Recommended Nightly Dosage in Adult Patients with IH
+
+| Dosing Regimen | Starting Nightly Dose | Titration Increments | Maximum Total Nightly Dose |
+| --- | --- | --- | --- |
+| Twice nightly*,† | ≤4.5 g per night divided into two doses (e.g., 2.25 g each) | ≤1.5 g per night per week (divided into two doses) | 9 g (divided into two doses) |
+| Once nightly | ≤3 g per night | ≤1.5 g per night per week | 6 g |
+
+* Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later. † The first dose should be taken at bedtime and the second dose taken 2.5 to 4 hours later.
+
+The increase in the total nightly dose should not exceed 1.5 g /week.
+During titration, the dosing regimen may be changed between twice nightly and once nightly, as needed based on efficacy and tolerability [see Clinical Studies (14.3)].
+Doses higher than 9 g per night or single dose administrations higher than 6 g have not been studied and should not be administered.
+
+## 2.4 Important Administration Instructions for All Patients
+
+Administer XYWAV at least 2 hours after eating [see Clinical Pharmacology (12.3)].
+Prepare all doses of XYWAV prior to bedtime.
+Prior to ingestion, each dose of XYWAV should be diluted with approximately ¼ cup (approximately 60 mL) of water in the empty pharmacy-provided containers.
 Solutions prepared following dilution should be consumed within 24 hours.
-
-Take the first nightly dose of XYWAV at least 2 hours after eating.
-Take the second nightly dose 2.5 to 4 hours after the first dose [see Clinical Pharmacology (12.3)].
 
 Patients should take each dose of XYWAV while in bed and lie down immediately after dosing, and remain in bed following ingestion of each dose.
 XYWAV may cause patients to fall asleep abruptly without first feeling drowsy [see Adverse Reactions (6.2)].
 
 Patients will often fall asleep within 5 minutes of taking XYWAV, and will usually fall asleep within 15 minutes, though the time it takes any individual patient to fall asleep may vary from night to night.
 
-Patients may need to set an alarm to awaken for the second dose.
+If dosing twice nightly, patients may need to set an alarm to awaken for the second dose.
 If the second dose is missed, that dose should be skipped and XYWAV should not be taken again until the next night.
 Two XYWAV doses should never be taken at one time.
 
-## 2.4 Patients Transitioning from Xyrem to XYWAV
+## 2.5 Patients Transitioning from Xyrem to XYWAV
 
 On the first night of dosing with XYWAV, initiate treatment at the same dose (gram for gram) and regimen as Xyrem.
 Titrate as needed based on efficacy and tolerability [see Dosage and Administration (2.1)].
 
-## 2.5 Dosage Modification in Patients with Hepatic Impairment
+## 2.6 Dosage Modification in Patients with Hepatic Impairment
 
 The recommended starting dosage in patients with hepatic impairment is one-half of the original dosage per night administered orally, divided into two doses [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.6 Dosage Adjustment with Co-administration of Divalproex Sodium
+## 2.7 Dosage Adjustment with Co-administration of Divalproex Sodium
 
 When initiating divalproex sodium in patients taking a stable dosage of XYWAV, a reduction of the XYWAV dosage by at least 20% is recommended with initial concomitant use [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 When initiating XYWAV in patients already taking divalproex sodium, a lower starting dosage of XYWAV is recommended.

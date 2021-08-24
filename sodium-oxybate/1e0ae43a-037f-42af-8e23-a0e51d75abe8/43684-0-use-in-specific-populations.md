@@ -40,13 +40,19 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
+Narcolepsy
+
 The safety and effectiveness of XYWAV for the treatment of cataplexy or excessive daytime sleepiness in pediatric patients 7 years of age and older with narcolepsy have been established.
 XYWAV has not been studied in a pediatric clinical trial.
 Use of XYWAV in pediatric patients 7 years of age and older with narcolepsy is supported by evidence from an adequate and well-controlled study of sodium oxybate in pediatric patients 7 to 17 years of age, a study in adults showing a treatment effect of XYWAV similar to that observed with sodium oxybate, pharmacokinetic data of sodium oxybate from adult and pediatric patients, and pharmacokinetic data of XYWAV from healthy adult volunteers [see Adverse Reactions (6.1) and Clinical Studies (14.1, 14.2)].
 
 In the pediatric clinical trial with sodium oxybate administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; depression; suicidal ideation; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
 
-Safety and effectiveness of XYWAV in pediatric patients below the age of 7 years have not been established.
+Safety and effectiveness of XYWAV for the treatment of cataplexy or excessive daytime sleepiness in pediatric patients below the age of 7 years have not been established.
+
+Idiopathic Hypersomnia
+
+Safety and effectiveness of XYWAV for the treatment of idiopathic hypersomnia in pediatric patients have not been established.
 
 Juvenile Animal Toxicity Data
 
@@ -57,7 +63,7 @@ The no-effect dose for adverse effects in juvenile rats is associated with plasm
 
 ## 8.5 Geriatric Use
 
-Clinical studies of XYWAV or Xyrem in patients with narcolepsy did not include sufficient numbers of subjects age 65 years and older to determine whether they respond differently from younger subjects.
+Clinical studies of XYWAV or Xyrem in patients with narcolepsy or IH did not include sufficient numbers of subjects age 65 years and older to determine whether they respond differently from younger subjects.
 
 In clinical studies of sodium oxybate in another population, 39 (5%) of 874 patients were 65 years or older.
 Discontinuations of treatment due to adverse reactions were increased in the elderly compared to younger adults (21% vs. 19%).
@@ -67,4 +73,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-Because of an increase in exposure to XYWAV, the starting dose should be reduced by half in patients with hepatic impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Because of an increase in exposure to XYWAV, the starting dose should be reduced by half in patients with hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

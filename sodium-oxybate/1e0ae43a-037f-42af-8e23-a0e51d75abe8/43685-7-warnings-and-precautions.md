@@ -29,7 +29,7 @@ XYWAV is available only through a restricted program under a REMS [see Warnings 
 
 ## 5.3 XYWAV and XYREM REMS
 
-XYWAV is available only through a restricted distribution program called the XYWAV and XYREM REMS because of the risks of central nervous system depression and abuse and misuse [see Warnings and Precautions (5.1, 5.2)].
+XYWAV is available only through a restricted distribution program called the XYWAV and XYREM REMS because of the risks of central nervous system depression, and abuse and misuse [see Warnings and Precautions (5.1, 5.2)].
 
 Notable requirements of the XYWAV and XYREM REMS include the following:
 
@@ -55,7 +55,7 @@ However, there was a significant increase in the number of central apneas in pat
 
 During polysomnographic evaluation (PSG), central sleep apnea and oxygen desaturation were observed in pediatric patients with narcolepsy treated with Xyrem.
 
-Prescribers should be aware that increased central apneas and clinically relevant desaturation events have been observed with sodium oxybate administration in adult and pediatric patients.
+Prescribers should be aware that increased central apneas and clinically relevant oxygen desaturation events have been observed with sodium oxybate administration in adult and pediatric patients.
 
 In clinical trials of Xyrem in 128 adult patients with narcolepsy, two patients had profound CNS depression, which resolved after supportive respiratory intervention.
 Two other patients discontinued sodium oxybate because of severe difficulty breathing and an increase in obstructive sleep apnea.
@@ -68,8 +68,10 @@ Prescribers should be aware that sleep-related breathing disorders tend to be mo
 
 Depression, and suicidal ideation and behavior can occur in patients treated with XYWAV.
 
-In Study 1, depression and depressed mood were reported in 3% and 4%, respectively, of patients treated with XYWAV.
+In Study 1 [see Clinical Studies (14.1)], depression and depressed mood were reported in 3% and 4%, respectively, of patients treated with XYWAV.
 Two patients (1%) discontinued XYWAV because of depression, but in most cases, no change in XYWAV treatment was required.
+
+In Study 2 [see Clinical Studies (14.3)], depression and depressed mood were reported in 1 patient (1%) and in 5 patients (3%), respectively, of patients treated with XYWAV, all of whom continued XYWAV treatment.
 
 In clinical trials of Xyrem (same active moiety as XYWAV) in adult patients with narcolepsy (n=781), there were two suicides and two attempted suicides in patients treated with Xyrem, including three patients with a previous history of depressive psychiatric disorder.
 Of the two suicides, one patient used Xyrem in conjunction with other drugs.
@@ -87,6 +89,10 @@ Other behavioral and psychiatric adverse reactions can occur in patients taking 
 
 In Study 1, confusion occurred in 1% of patients treated with XYWAV and anxiety occurred in 5% of patients treated with XYWAV.
 One patient experienced visual hallucinations and confusion after ingesting approximately 9 grams of XYWAV.
+
+In Study 2, confusion occurred in 3% of patients treated with XYWAV, and anxiety occurred in 16% patients treated with XYWAV.
+One patient experienced visual hallucinations which led to discontinuation of XYWAV.
+
 Other neuropsychiatric reactions reported in clinical trials of Xyrem (same active moiety as XYWAV) in adult patients with narcolepsy and in the postmarketing setting included hallucinations, paranoia, psychosis, aggression, and agitation.
 
 In a pediatric clinical trial with Xyrem in patients with narcolepsy, neuropsychiatric reactions, including acute psychosis, confusion, and anxiety, were reported while taking Xyrem.
@@ -98,6 +104,9 @@ The emergence or increase in the occurrence of behavioral or psychiatric events 
 Parasomnias can occur in patients taking XYWAV.
 
 In Study 1, parasomnias, including sleepwalking, were reported in 6% of patients treated with XYWAV.
+
+In Study 2, parasomnias, including sleepwalking, were reported in 5% of patients treated with XYWAV.
+
 In a clinical trial of Xyrem (same active moiety as XYWAV) in adult patients with narcolepsy, five instances of sleepwalking with potential injury or significant injury were reported.
 Parasomnias, including sleepwalking, also have been reported in a pediatric clinical trial with sodium oxybate and in postmarketing experience with sodium oxybate.
 

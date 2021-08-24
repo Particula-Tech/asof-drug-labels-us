@@ -9,7 +9,7 @@ In adult clinical trials with Xyrem (same active moiety as XYWAV), two cases of 
 In the first case, an estimated dose of 150 g, more than 15 times the maximum recommended dose, caused a patient to be unresponsive with brief periods of apnea and to be incontinent of urine and feces.
 This individual recovered without sequelae.
 In the second case, death was reported following a multiple drug overdose consisting of Xyrem and numerous other drugs.
-No cases of overdose (greater than 9 g) with XYWAV were reported in the XYWAV clinical trial.
+No cases of overdose (greater than 9 g) with XYWAV were reported in the XYWAV clinical trials.
 
 ## 10.2 Signs and Symptoms
 

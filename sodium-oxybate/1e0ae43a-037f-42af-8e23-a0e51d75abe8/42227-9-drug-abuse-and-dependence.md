@@ -36,9 +36,9 @@ There have been case reports of withdrawal, ranging from mild to severe, followi
 Signs and symptoms of GHB withdrawal following abrupt discontinuation included insomnia, restlessness, anxiety, psychosis, lethargy, nausea, tremor, sweating, muscle cramps, tachycardia, headache, dizziness, rebound fatigue and sleepiness, confusion, and, particularly in the case of severe withdrawal, visual hallucinations, agitation, and delirium.
 These symptoms generally abated in 3 to 14 days.
 In cases of severe withdrawal, hospitalization may be required.
-The discontinuation effects of XYWAV have not been systematically evaluated in controlled clinical trials.
 In the clinical trial experience with Xyrem in narcolepsy/cataplexy patients at recommended doses, two patients reported anxiety and one reported insomnia following abrupt discontinuation at the termination of the clinical trial; in the two patients with anxiety, the frequency of cataplexy had increased markedly at the same time.
 In the XYWAV clinical trial in adult narcolepsy/cataplexy patients at recommended doses, one patient reported insomnia following abrupt discontinuation of XYWAV.
+In the XYWAV clinical trial in adult idiopathic hypersomnia patients at recommended doses, six patients reported insomnia, two patients reported early insomnia, and one patient reported visual and auditory hallucinations following abrupt discontinuation of XYWAV.
 
 Tolerance
 

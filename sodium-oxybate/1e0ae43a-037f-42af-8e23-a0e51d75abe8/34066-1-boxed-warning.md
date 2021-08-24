@@ -3,7 +3,8 @@
 - •Central Nervous System Depression
 - XYWAV is a CNS depressant.
   Clinically significant respiratory depression and obtundation may occur in patients treated with XYWAV at recommended doses [see Warnings and Precautions (5.1, 5.4)].
-  Many patients who received XYWAV during clinical trials in narcolepsy were receiving central nervous system stimulants [see Clinical Trials (14.1)].
+  Many patients who received XYWAV during clinical trials in narcolepsy and idiopathic hypersomnia were receiving central nervous system stimulants [see Clinical Studies (14.1, 14.2, 14.3)].
+- 
 - •Abuse and Misuse
 - The active moiety of XYWAV is oxybate or gamma-hydroxybutyrate (GHB).
   Abuse or misuse of illicit GHB, either alone or in combination with other CNS depressants, is associated with CNS adverse reactions, including seizure, respiratory depression, decreases in the level of consciousness, coma, and death [see Warnings and Precautions (5.2)].

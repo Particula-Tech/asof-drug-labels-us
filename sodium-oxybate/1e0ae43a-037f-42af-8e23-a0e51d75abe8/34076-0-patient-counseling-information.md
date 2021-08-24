@@ -32,11 +32,15 @@ Sedation
 Inform patients and/or caregivers that the patient is likely to fall asleep quickly after taking XYWAV (often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
 The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization [see Adverse Reactions (6.2)].
 Instruct patients and/or caregivers that the patient should remain in bed following ingestion of each dose.
-Instruct patients and/or caregivers that the patient should not take a subsequent nightly dose until at least 2.5 to 4 hours after the previous dose [see Dosage and Administration (2.3)].
+Instruct patients and/or caregivers that the patient should not take a subsequent nightly dose until at least 2.5 to 4 hours after the previous dose [see Dosage and Administration (2.4)].
 
 Administration Instructions
 
-Inform patients and/or caregivers that the total nightly dosage of XYWAV is divided into two doses and that the first nightly dose of XYWAV should be taken at least 2 hours after eating.
+Inform patients to administer XWAV at least 2 hours after eating.
+Inform patients and/or caregivers of patients taking XYWAV twice nightly, that the total nightly dosage of XYWAV is divided into two doses [see Dosage and Administration (2.4)].
+
+Inform patients if their nightly dose requires multiple draws.
+Instruct patients on how to perform the draws from the bottle.
 
 Respiratory Depression and Sleep-Disordered Breathing
 

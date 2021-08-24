@@ -3,7 +3,7 @@
 ## 16.1 How Supplied
 
 XYWAV is a clear to slightly opalescent oral solution.
-Each prescription includes one bottle of XYWAV with attached press in bottle adaptor, an oral measuring device (plastic syringe), and a Medication Guide.
+Each prescription includes at least one bottle of XYWAV with attached press in bottle adaptor, an oral measuring device (plastic syringe), and a Medication Guide.
 The pharmacy provides two empty containers with child-resistant caps with each XYWAV shipment.
 
 Each amber bottle contains XYWAV oral solution at a concentration of 0.5 g/mL and has a child-resistant cap.
