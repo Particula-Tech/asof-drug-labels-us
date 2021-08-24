@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204052"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-9274-06",
+    "0781-9274-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "2884e523-5f12-48d6-98dc-3a80cde524f8",
+  "source": "dailymed"
+}
