@@ -2,11 +2,9 @@
 
 NDC 0009-0825-01
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-100 mg*
+100 mg/vial
 
 For IM or IV use Preservative-Free
 
@@ -18,11 +16,9 @@ NDC 0009-0825-01
 
 1 Vial
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-100 mg*
+100 mg/vial
 
 For intramuscular or intravenous use
 
@@ -36,11 +32,9 @@ Pfizer Injectables
 
 2 mL Act-O-Vial® NDC 0009-0011-03
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-100 mg*
+100 mg/vial
 
 For IM or IV use Preservative-Free Rx only
 
@@ -50,11 +44,9 @@ NDC 0009-0011-04 Contains 25 of NDC 0009-0011-03
 
 25–2 mL Act-O-Vial® Systems Single-Dose Vials
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-100 mg*
+100 mg/vial
 
 For intramuscular or intravenous use
 
@@ -66,11 +58,9 @@ Pfizer Injectables Rx only
 
 Single-Dose Vial 2 mL Act-O-Vial® NDC 0009-0013-05
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-250 mg*
+250 mg/vial
 
 For IM or IV use Preservative-Free Rx only
 
@@ -80,11 +70,9 @@ NDC 0009-0013-05
 
 Single-Dose Vial 2 mL Act-O-Vial®
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-250 mg*
+250 mg/vial
 
 For intramuscular or intravenous use
 
@@ -98,11 +86,9 @@ Pfizer Injectables
 
 Single-Dose Vial 4 mL Act-O-Vial® NDC 0009-0016-12
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-500 mg*
+500 mg/vial
 
 For intramuscular or intravenous use
 
@@ -114,11 +100,9 @@ NDC 0009-0016-12
 
 Single-Dose Vial 4 mL Act-O-Vial®
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-500 mg*
+500 mg/vial
 
 For intramuscular or intravenous use
 
@@ -132,11 +116,9 @@ Pfizer Injectables
 
 Single-Dose Vial 8 mL Act-O-Vial® NDC 0009-0005-01
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-1000 mg*
+1000 mg/vial
 
 For IM or IV use Preservative-Free Rx only
 
@@ -146,11 +128,9 @@ NDC 0009-0005-01
 
 Single-Dose Vial 8 mL Act-O-Vial®
 
-Solu-Cortef®
+Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-(hydrocortisone sodium succinate for injection, USP)
-
-1000 mg*
+1000 mg/vial
 
 For intramuscular or intravenous use
 
