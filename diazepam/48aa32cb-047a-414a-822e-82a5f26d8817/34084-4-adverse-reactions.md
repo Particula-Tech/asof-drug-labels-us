@@ -31,7 +31,9 @@ Minor changes in EEG patterns, usually low-voltage fast activity, have been obse
 
 Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
 
-## Postmarketing Experience
+## Postmarketing Experience:
 
 Injury, Poisoning and Procedural Complications: There have been reports of falls and fractures in benzodiazepine users.
 The risk is increased in those taking concomitant sedatives (including alcohol), and in the elderly.
+
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
