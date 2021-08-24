@@ -15,11 +15,11 @@ In vitro inactivation
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
 Piperacillin and tazobactam for injection is compatible with amikacin and gentamicin for simultaneous Y-site infusion in certain diluents and at specific concentrations.
-Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.67)].
+Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.7)].
 
 ## 7.2 Probenecid
 
-Probenecid administered concomitantly with piperacillin and tazobactam prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam.
+Probenecid administered concomitantly with piperacillin and tazobactam for injection prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam.
 Probenecid should not be co-administered with piperacillin and tazobactam for injection unless the benefit outweighs the risk.
 
 ## 7.3 Vancomycin

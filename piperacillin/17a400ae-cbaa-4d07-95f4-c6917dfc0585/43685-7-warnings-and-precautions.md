@@ -14,7 +14,7 @@ If patients develop a skin rash they should be monitored closely and piperacilli
 
 ## 5.3 Hematologic Adverse Reactions
 
-Bleeding manifestations have occurred in some patients receiving β-lactam drugs, including piperacillin.
+Bleeding manifestations have occurred in some patients receiving beta-lactam drugs, including piperacillin.
 These reactions have sometimes been associated with abnormalities of coagulation tests such as clotting time, platelet aggregation and prothrombin time, and are more likely to occur in patients with renal failure.
 If bleeding manifestations occur, piperacillin and tazobactam for injection should be discontinued and appropriate therapy instituted.
 
@@ -24,11 +24,14 @@ Periodic assessment of hematopoietic function should be performed, especially wi
 
 ## 5.4 Central Nervous System Adverse Reactions
 
-As with other penicillins, patients may experience neuromuscular excitability or convulsions if higher than recommended doses are given intravenously (particularly in the presence of renal failure).
+As with other penicillins, piperacillin and tazobactam for injection may cause neuromuscular excitability or seizures.
+Patients receiving higher doses, especially patients with renal impairment may be at greater risk for central nervous system adverse reactions.
+Closely monitor patients with renal impairment or seizure disorders for signs and symptoms of neuromuscular excitability or seizures [see Adverse Reactions (6.2)].
 
 ## 5.5 Nephrotoxicity in Critically Ill Patients
 
 The use of piperacillin and tazobactam for injection was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions(6.1)].
+
 Based on this study, alternative treatment options should be considered in the critically ill population.
 If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with piperacillin and tazobactam for injection [see Dosage and Administration (2.3)].
 
@@ -36,13 +39,13 @@ Combined use of piperacillin/tazobactam and vancomycin may be associated with an
 
 ## 5.6 Electrolyte Effects
 
-Piperacillin and tazobactam for injection contains a total of 2.35 mEq (54 mg) of Na+ per gram of piperacillin in the combination product.
+Piperacillin and tazobactam for injection contains a total of 2.35 mEq (54 mg) of Na+ (sodium) per gram of piperacillin in the combination product.
 This should be considered when treating patients requiring restricted salt intake.
 Periodic electrolyte determinations should be performed in patients with low potassium reserves, and the possibility of hypokalemia should be kept in mind with patients who have potentially low potassium reserves and who are receiving cytotoxic therapy or diuretics.
 
-## 5.7 Clostridium difficile Associated Diarrhea
+## 5.7 Clostridioides difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including piperacillin and tazobactam for injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including piperacillin and tazobactam for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

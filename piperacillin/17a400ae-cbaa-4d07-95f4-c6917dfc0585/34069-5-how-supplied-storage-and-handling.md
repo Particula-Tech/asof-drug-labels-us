@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Piperacillin and Tazobactam for Injection is supplied as follows:
+Piperacillin and Tazobactam for Injection, USP is supplied as follows:
 
 1. 44567-804-01 40.5 grams per 1 bottle per carton
 2. Pharmacy Bulk Bottle
