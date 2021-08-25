@@ -280,7 +280,7 @@ Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit j
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -294,8 +294,8 @@ Made in India
 
 Rx only
 
-1. 62000000048400 Rev.
-   2/20
+1. 62000000058470 Rev.
+   11/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -320,7 +320,7 @@ Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit j
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -334,8 +334,8 @@ Made in India
 
 Rx only
 
-1. 62000000048399 Rev.
-   2/20
+1. 62000000058469 Rev.
+   11/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -360,7 +360,7 @@ Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit j
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -374,8 +374,8 @@ Made in India
 
 Rx only
 
-1. 62000000048398 Rev.
-   2/20
+1. 62000000058472 Rev.
+   11/20
 
 PRINCIPAL DISPLAY PANEL
 
