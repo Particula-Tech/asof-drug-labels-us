@@ -4,7 +4,7 @@ Before using your TRUSOPT
 
 Before using your TRUSOPT for the first time, make sure the safety strip on the front of the bottle is unbroken.
 A gap between the bottle and the cap is normal for an unopened bottle.
-(See Figure A).
+See Figure A.
 
 Step 1.
 Wash your hands.
