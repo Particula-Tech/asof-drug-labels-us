@@ -11,4 +11,4 @@ Rx ONLY
 Net Wt.
 50 g
 
-24950 mayne pharma
+24965 mayne pharma

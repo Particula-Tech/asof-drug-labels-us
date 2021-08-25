@@ -42,15 +42,20 @@ Advise breastfeeding women not to apply LEXETTE directly to the nipple and/or ar
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of LEXETTE in patients younger than 18 years of age have not been established.
+The safety and effectiveness of LEXETTE in patients younger than 12 years of age have not been established; therefore, use in children younger than 12 years is not recommended.
+
+The safety and effectiveness of LEXETTE for the treatment of stable plaque psoriasis in subjects 12 to less than 18 years of age is supported by evidence from adequate and well-controlled studies in adults and from one open-label safety study in 24 subjects aged 12 to less than 18 years.
+Subjects 12 to less than 18 years with stable plaque psoriasis covering a minimum of 10% of the total body surface area at baseline were treated twice daily for 2 weeks with LEXETTE.
+Hypothalamic-pituitary adrenal (HPA) axis function (ACTH stimulation test) was evaluated in a subset of 23 subjects.
+After 2 weeks of treatment, 6 of 23 subjects (26.1%) experienced laboratory evidence of adrenal suppression (i.e., cortisol serum level of ≤18 µg/dL) that recovered upon retesting after at least 4 weeks of stopping the treatment [see Clinical Pharmacology (12.2)].
 
 Because of higher skin surface area to body mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing's syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
-Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children.
+Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children [see Warnings and Precautions (5.1)].
 
 HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include low plasma cortisol levels and an absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
+Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema [see Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 

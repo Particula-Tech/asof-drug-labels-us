@@ -6,9 +6,13 @@ LEXETTE is a topical corticosteroid that has been shown to suppress the hypothal
 
 Systemic effects of topical corticosteroids may include reversible HPA axis suppression, with the potential for glucocorticosteroid insufficiency.
 This may occur during treatment or upon withdrawal of treatment of the topical corticosteroid.
-The potential for hypothalamic-pituitary adrenal (HPA) suppression with LEXETTE was evaluated in a study of 25 adult subjects with moderate to severe plaque psoriasis involving ≥15% of their body surface area.
-LEXETTE produced laboratory evidence of HPA axis suppression when used twice daily for two weeks in 6 out of 25 (24%) adult subjects with plaque psoriasis.
-Recovery of HPA axis function was generally prompt with the discontinuation of treatment [see Clinical Pharmacology (12.2)].
+The potential for hypothalamic-pituitary adrenal (HPA) suppression with LEXETTE was evaluated in the following studies:
+
+- In a study of 25 adult subjects with moderate to severe plaque psoriasis involving ≥15% of their body surface area.
+  LEXETTE produced laboratory evidence of HPA axis suppression when used twice daily for two weeks in 6 out of 25 (24%) adult subjects with plaque psoriasis.
+  All subjects returned to normal HPA axis function at follow-up at least 4 weeks after stopping the treatment [see Clinical Pharmacology (12.2)].
+- In another clinical study, 24 subjects 12 to less than 18 years old with stable plaque psoriasis involving 10% or more of their body surface area applied LEXETTE to affected areas twice daily for two weeks.
+  Of the 23 subjects evaluated for HPA axis suppression, laboratory evidence of adrenal suppression occurred in 6 subjects (26.1%), whom recovered upon retesting after at least 4 weeks of stopping the treatment [see Clinical Pharmacology (12.2)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids, including LEXETTE, may require that patients be evaluated periodically for evidence of HPA axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent corticosteroids, use over large surface areas, prolonged use, occlusive use, use on an altered skin barrier, concomitant use of multiple corticosteroid-containing products, liver failure, and young age.

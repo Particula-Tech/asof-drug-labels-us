@@ -22,3 +22,10 @@ Table 1: Adverse Reactions Occurring in ≥ 1% of Subjects through Week 2
 | Headache | 1% | <1% |
 
 Skin atrophy (n=1) and telangiectasia (n=2) were reported with LEXETTE, but not with vehicle foam.
+
+## 6.2 Postmarketing Experience
+
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The following local adverse reactions have been reported with topical corticosteroids: folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria.
+They may occur more frequently with the use of occlusive dressings and higher potency corticosteroids, such as halobetasol propionate.
