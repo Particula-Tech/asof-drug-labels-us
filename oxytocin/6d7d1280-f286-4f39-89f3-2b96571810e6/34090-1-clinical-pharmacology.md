@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Oxytocin injection (synthetic) acts on the smooth muscle of the uterus to stimulate contractions; response depends on the uterine threshold of excitability.
 It exerts a selective action on the smooth musculature of the uterus, particularly toward the end of pregnancy, during labor and immediately following delivery.
