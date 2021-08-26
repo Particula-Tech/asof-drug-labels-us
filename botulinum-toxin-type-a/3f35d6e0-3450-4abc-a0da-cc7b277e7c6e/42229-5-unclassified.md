@@ -1,6 +1,6 @@
 Manufactured by: Merz Pharmaceuticals GmbH Eckenheimer Landstrasse 100 Frankfurt Germany U.S. License Number 1830
 
-Distributed by: Merz Pharmaceuticals, LLC 6501 Six Forks Road Raleigh, NC 27615
+Distributed by: Merz Pharmaceuticals, LLC 6601 Six Forks Road, Suite 430 Raleigh, NC 27615
 
 and
 
@@ -10,4 +10,4 @@ Merz North America, Inc. 4133 Courtney Street, Suite 10 Franksville, WI 53126
 All trademarks are the property of their respective owners.
 Patent www.merzusa.com/patents/
 
-EM00451-09
+IN00180-00
