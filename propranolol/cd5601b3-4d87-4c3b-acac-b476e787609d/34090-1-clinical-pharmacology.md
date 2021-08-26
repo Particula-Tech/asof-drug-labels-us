@@ -13,7 +13,7 @@ Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessin
 It specifically competes with beta-adrenergic receptor-stimulating agents for available receptor sites.
 Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta-adrenergic receptors.
 When access to beta-receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
-At dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
+At dosages greater than required for beta-blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
 ## 12.3 Pharmacokinetics
@@ -66,7 +66,7 @@ Gender: In a dose-proportionality study, the pharmacokinetics of INNOPRAN XL wer
 Following single doses under fasting conditions, the mean AUC and Cmax were about 49% and 16% higher for females across the dosage range.
 The mean elimination half-life was longer in females than in males (11 hours versus 7.5 hours).
 
-Race: A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
+Race: A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
 
 Renal Impairment: The pharmacokinetics of propranolol after administration of INNOPRAN XL have not been evaluated in patients with renal impairment.
 In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 3- to 5-fold (161±41 ng/mL) those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).

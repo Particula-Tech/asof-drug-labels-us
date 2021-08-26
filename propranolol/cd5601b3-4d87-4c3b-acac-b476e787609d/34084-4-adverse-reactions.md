@@ -9,9 +9,9 @@ Adverse reactions occurring at a rate of ≥3%, excluding those reported more co
 Table 1.
 Treatment-Emergent Adverse Reactions Reported In ≥3% of Subjects
 
-|  |  | INNOPRAN XL |  |
+| Body System | Placebo (N=88) | INNOPRAN XL |  |
 | --- | --- | --- | --- |
-| Body System | Placebo (N=88) | 80 mg (N=89) | 120mg (N=85) |
+| 80 mg (N=89) | 120mg (N=85) |  |  |
 | Fatigue | 3 (3%) | 4 (5%) | 6 (7%) |
 | Dizziness (except vertigo) | 2 (2%) | 6 (7%) | 3 (4%) |
 | Constipation | 0 | 3 (3%) | 1 (1%) |

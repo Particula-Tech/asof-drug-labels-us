@@ -2,22 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women.
-Intrauterine growth retardation, small placentas, and congenital anomalies have been reported for neonates whose mothers received propranolol HCl during pregnancy.
+Risk Summary
 
-Animal Data: In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
+Prolonged experience with propranolol in pregnant women over several decades, based on published interventional and observational studies, has not identified a drug associated risk of major birth defects, miscarriage, or other adverse maternal outcomes.
+Bradycardia, hypoglycemia, and respiratory depression have been observed with use of beta-blockers, including propranolol, in utero near the time of delivery.
+There are inconsistent reports of intrauterine growth restriction with beta-blocker use, including propranolol, during pregnancy.
+Untreated hypertension during pregnancy can lead to serious adverse outcomes for the mother and the fetus (see Clinical Considerations and Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage) Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal Adverse Reactions
+
+Propranolol crosses the placenta.
+Neonates born to mothers who are receiving propranolol during pregnancy, may be at risk for bradycardia, hypoglycemia, and respiratory depression.
+Monitor neonates exposed to propranolol during pregnancy and manage accordingly.
+
+Data
+
+Animal Data
+
+In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the maximum recommended human oral daily dose (MRHD) on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
 Propranolol HCl was also administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the MRHD).
 No evidence of embryo or neonatal toxicity was noted.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-Neonates whose mothers received propranolol HCl at parturition have exhibited bradycardia, hypoglycemia, and/or respiratory depression.
-Adequate facilities for monitoring such infants at birth should be available.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Propranolol is present in human milk at low levels, but the related risk to a breastfed infant is unknown.
+There are no data on the effects of propranolol on milk production.
 
-Propranolol is excreted in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for INNOPRAN XL and any potential adverse effects on the breastfed child from INNOPRAN XL or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Males
+
+Based on the published literature, beta-blockers, including propranolol, may cause erectile dysfunction.
+In rats, propranolol inhibits spermatogenesis [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

@@ -33,11 +33,11 @@ Avoid abrupt withdrawal of beta-blockade, which may precipitate a thyroid storm.
 
 Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of INNOPRAN XL.
 Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders (including Wolff-Parkinson-White) may be at increased risk.
-The concomitant use of beta adrenergic blockers and non-dihydropyridine calcium channel blockers (e.g., verapamil and diltiazem), digoxin or clonidine increases the risk of significant bradycardia.
+The concomitant use of beta-adrenergic blockers and non-dihydropyridine calcium channel blockers (e.g., verapamil and diltiazem), digoxin or clonidine increases the risk of significant bradycardia.
 Monitor heart rate and rhythm in patients receiving INNOPRAN XL.
 If severe bradycardia develops, reduce or stop INNOPRAN XL.
 
 ## 5.7 Reduced Effectiveness of Epinephrine in Treating Anaphylaxis
 
-Beta adrenergic blocker-treated patients treated with epinephrine for a severe anaphylactic reaction may be less responsive to the typical doses of epinephrine.
+Beta-adrenergic blocker-treated patients treated with epinephrine for a severe anaphylactic reaction may be less responsive to the typical doses of epinephrine.
 In these patients, consider other medications (e.g., intravenous fluids, glucagon).

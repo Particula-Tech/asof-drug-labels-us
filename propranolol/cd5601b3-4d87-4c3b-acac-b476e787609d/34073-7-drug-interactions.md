@@ -31,5 +31,5 @@ Dobutamine: Propranolol may reduce sensitivity to dobutamine stress echocardiogr
 Antidepressants: The hypotensive effect of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers.
 Monitor patients for postural hypotension.
 
-Nonsteroidal Anti-Inflammatory Drugs: Nonsteroidal anti-inflammatory drugs (NSAIDS) may attenuate the antihypertensive effect of beta-adrenoreceptor blocking agents.
+Nonsteroidal Anti-Inflammatory Drugs: Nonsteroidal anti-inflammatory drugs (NSAIDs) may attenuate the antihypertensive effect of beta-adrenoreceptor blocking agents.
 Monitor blood pressure.
