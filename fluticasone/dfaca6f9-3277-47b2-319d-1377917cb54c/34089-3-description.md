@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ADVAIR HFA 45/21, ADVAIR HFA 115/21, and ADVAIR HFA 230/21 are combinations of fluticasone propionate and salmeterol xinafoate.
+ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, and ADVAIR HFA 230 mcg/21 mcg are combinations of fluticasone propionate and salmeterol xinafoate.
 
 One active component of ADVAIR HFA is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
@@ -25,3 +25,4 @@ The actual amount of drug delivered to the lung will depend on patient factors, 
 
 Prime ADVAIR HFA before using for the first time by releasing 4 sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 sprays into the air away from the face, shaking well for 5 seconds before each spray.
+Avoid spraying in eyes.

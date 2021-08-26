@@ -22,7 +22,7 @@ These anti-inflammatory actions of corticosteroids contribute to their efficacy 
 Salmeterol Xinafoate
 
 Salmeterol is a selective LABA.
-In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
+In vitro studies show salmeterol to be at least 50 times more selective for beta2‑adrenoceptors than albuterol.
 Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
 The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta2-agonists may have cardiac effects.
 
@@ -38,7 +38,7 @@ In humans, single doses of salmeterol administered via inhalation aerosol attenu
 ADVAIR HFA
 
 Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
-Four (4) placebo-controlled crossover trials were conducted with healthy subjects: (1) a cumulative-dose trial using 42 to 336 mcg of salmeterol CFC inhalation aerosol given alone or as ADVAIR HFA 115/21, (2) a single-dose trial using 4 inhalations of ADVAIR HFA 230/21, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (3) a single-dose trial using 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21, and (4) a single-dose trial using 4 inhalations of ADVAIR HFA 230/21; 2 inhalations of ADVAIR DISKUS 500/50; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
+Four (4) placebo-controlled crossover trials were conducted with healthy subjects: (1) a cumulative-dose trial using 42 to 336 mcg of salmeterol CFC inhalation aerosol given alone or as ADVAIR HFA 115 mcg/21 mcg, (2) a single-dose trial using 4 inhalations of ADVAIR HFA 230 mcg/21 mcg, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (3) a single-dose trial using 8 inhalations of ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, or ADVAIR HFA 230 mcg/21 mcg, and (4) a single-dose trial using 4 inhalations of ADVAIR HFA 230 mcg/21 mcg; 2 inhalations of ADVAIR DISKUS 500 mcg/50 mcg; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
 In these trials pulse rate, blood pressure, QTc interval, glucose, and/or potassium were measured.
 Comparable or lower effects were observed for ADVAIR HFA compared with ADVAIR DISKUS or salmeterol alone.
 The effect of salmeterol on pulse rate and potassium was not altered by the presence of different amounts of fluticasone propionate in ADVAIR HFA.
@@ -48,26 +48,26 @@ Compared with fluticasone propionate CFC inhalation aerosol, ADVAIR HFA had less
 In these crossover trials in healthy subjects, ADVAIR HFA and ADVAIR DISKUS had similar effects on urinary and serum cortisol.
 
 Subjects with Asthma: Cardiovascular Effects: In clinical trials with ADVAIR HFA in adult and adolescent subjects aged 12 years and older with asthma, systemic pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) were similar to or slightly lower in patients treated with ADVAIR HFA compared with patients treated with salmeterol CFC inhalation aerosol 21 mcg.
-In 61 adult and adolescent subjects with asthma given ADVAIR HFA (45/21 or 115/21 mcg), continuous 24-hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of twice-daily therapy, and no clinically significant dysrhythmias were noted.
+In 61 adult and adolescent subjects with asthma given ADVAIR HFA (45 mcg/21 mcg or 115 mcg/21 mcg), continuous 24-hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of twice-daily therapy, and no clinically significant dysrhythmias were noted.
 
-The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) was evaluated in 31 children aged 4 to 11 years with mild asthma.
+The effect of 21 days of treatment with ADVAIR HFA 45 mcg/21 mcg (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100 mcg/50 mcg (1 inhalation twice daily) was evaluated in 31 children aged 4 to 11 years with mild asthma.
 There were no notable changes from baseline for QTc, heart rate, or systolic and diastolic blood pressure.
 
-Hypothalamic-Pituitary-Adrenal Axis Effects: A 4-way crossover trial in 13 subjects with asthma compared pharmacodynamics at steady state following 4 weeks of twice-daily treatment with 2 inhalations of ADVAIR HFA 115/21, 1 inhalation of ADVAIR DISKUS 250/50 mcg, 2 inhalations of fluticasone propionate HFA inhalation aerosol 110 mcg, and placebo.
+Hypothalamic-Pituitary-Adrenal Axis Effects: A 4-way crossover trial in 13 subjects with asthma compared pharmacodynamics at steady state following 4 weeks of twice-daily treatment with 2 inhalations of ADVAIR HFA 115 mcg/21 mcg, 1 inhalation of ADVAIR DISKUS 250 mcg/50 mcg, 2 inhalations of fluticasone propionate HFA inhalation aerosol 110 mcg, and placebo.
 No significant differences in serum cortisol AUC were observed between active treatments and placebo.
 Mean 12-hour serum cortisol AUC ratios comparing active treatment with placebo ranged from 0.9 to 1.2.
 No statistically or clinically significant increases in heart rate or QTc interval were observed for any active treatment compared with placebo.
 
-In a 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 115/21 was compared with the individual components, fluticasone propionate CFC inhalation aerosol 110 mcg and salmeterol CFC inhalation aerosol 21 mcg, and placebo [see Clinical Studies (14.1)].
+In a 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 115 mcg/21 mcg was compared with the individual components, fluticasone propionate CFC inhalation aerosol 110 mcg and salmeterol CFC inhalation aerosol 21 mcg, and placebo [see Clinical Studies (14.1)].
 All treatments were administered as 2 inhalations twice daily.
 After 12 weeks of treatment with these therapeutic doses, the geometric mean ratio of urinary cortisol excretion compared with baseline was 0.9 for ADVAIR HFA and fluticasone propionate and 1.0 for placebo and salmeterol.
 In addition, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation in 23 to 32 subjects per treatment group, remained intact for the majority of subjects and was similar across treatments.
-Three (3) subjects who received ADVAIR HFA 115/21 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 1 subject who received placebo, 2 subjects who received fluticasone propionate 110 mcg, and 1 subject who received salmeterol.
+Three (3) subjects who received ADVAIR HFA 115 mcg/21 mcg had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 1 subject who received placebo, 2 subjects who received fluticasone propionate 110 mcg, and 1 subject who received salmeterol.
 
-In another 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 230/21 (2 inhalations twice daily) was compared with ADVAIR DISKUS 500/50 (1 inhalation twice daily) and fluticasone propionate CFC inhalation aerosol 220 mcg (2 inhalations twice daily) [see Clinical Studies (14.1)].
-The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compared with baseline was 0.9 for all 3 treatment groups.
+In another 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 230 mcg/21 mcg (2 inhalations twice daily) was compared with ADVAIR DISKUS 500 mcg/50 mcg (1 inhalation twice daily) and fluticasone propionate CFC inhalation aerosol 220 mcg (2 inhalations twice daily) [see Clinical Studies (14.1)].
+The geometric mean ratio of 24‑hour urinary cortisol excretion at week 12 compared with baseline was 0.9 for all 3 treatment groups.
 
-The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) on serum cortisol was evaluated in 31 children aged 4 to 11 years with mild asthma.
+The effect of 21 days of treatment with ADVAIR HFA 45 mcg/21 mcg (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100 mcg/50 mcg (1 inhalation twice daily) on serum cortisol was evaluated in 31 children aged 4 to 11 years with mild asthma.
 There were reductions in serum cortisol from baseline in all treatment groups (14%, 22%, and 13% for ADVAIR HFA, ADVAIR HFA with spacer, and ADVAIR DISKUS, respectively).
 
 Other Fluticasone Propionate Products
@@ -86,7 +86,7 @@ The cardiovascular effects (heart rate, blood pressure) associated with salmeter
 
 The effects of rising inhaled doses of salmeterol and standard inhaled doses of albuterol were studied in volunteers and in subjects with asthma.
 Salmeterol doses up to 84 mcg administered as inhalation aerosol resulted in heart rate increases of 3 to 16 beats/min, about the same as albuterol dosed at 180 mcg by inhalation aerosol (4 to 10 beats/min).
-In 2 double-blind asthma trials, subjects receiving either 42 mcg of salmeterol inhalation aerosol twice daily (n = 81) or 180 mcg of albuterol inhalation aerosol 4 times daily (n = 80) underwent continuous electrocardiographic monitoring during four 24-hour periods; no clinically significant dysrhythmias were noted.
+In 2 double‑blind asthma trials, subjects receiving either 42 mcg of salmeterol inhalation aerosol twice daily (n = 81) or 180 mcg of albuterol inhalation aerosol 4 times daily (n = 80) underwent continuous electrocardiographic monitoring during four 24-hour periods; no clinically significant dysrhythmias were noted.
 
 Concomitant Use of ADVAIR HFA with Other Respiratory Medicines
 
@@ -95,7 +95,7 @@ Two percent (2%) of subjects receiving ADVAIR HFA in these trials averaged 6 or 
 No increase in frequency of cardiovascular adverse events was observed among subjects who averaged 6 or more inhalations per day.
 
 Methylxanthines: The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by subjects receiving ADVAIR HFA has not been completely evaluated.
-In five 12-week clinical trials (3 U.S. and 2 non-U.S.), 45 subjects receiving ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 subjects receiving ADVAIR HFA without theophylline.
+In five 12-week clinical trials (3 U.S. and 2 non-U.S.), 45 subjects receiving ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, or ADVAIR HFA 230 mcg/21 mcg twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 subjects receiving ADVAIR HFA without theophylline.
 
 Fluticasone Propionate Nasal Spray: In subjects receiving ADVAIR HFA in three 12-week U.S. clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between subjects receiving FLONASE (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 89) and those who were not (n = 192).
 
@@ -107,38 +107,38 @@ Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
-Three (3) single-dose, placebo-controlled, crossover trials were conducted in healthy subjects: (1) a trial using 4 inhalations of ADVAIR HFA 230/21, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (2) a trial using 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21, and (3) a trial using 4 inhalations of ADVAIR HFA 230/21; 2 inhalations of ADVAIR DISKUS 500/50; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
+Three (3) single-dose, placebo-controlled, crossover trials were conducted in healthy subjects: (1) a trial using 4 inhalations of ADVAIR HFA 230 mcg/21 mcg, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (2) a trial using 8 inhalations of ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, or ADVAIR HFA 230 mcg/21 mcg, and (3) a trial using 4 inhalations of ADVAIR HFA 230 mcg/21 mcg; 2 inhalations of ADVAIR DISKUS 500 mcg/50 mcg; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
 Peak plasma concentrations of fluticasone propionate were achieved in 0.33 to 1.5 hours and those of salmeterol were achieved in 5 to 10 minutes.
 
-Peak plasma concentrations of fluticasone propionate (N = 20 subjects) following 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, and ADVAIR HFA 230/21 averaged 41, 108, and 173 pg/mL, respectively.
+Peak plasma concentrations of fluticasone propionate (N = 20 subjects) following 8 inhalations of ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, and ADVAIR HFA 230 mcg/21 mcg averaged 41, 108, and 173 pg/mL, respectively.
 
-Systemic exposure (N = 20 subjects) from 4 inhalations of ADVAIR HFA 230/21 was 53% of the value from the individual inhaler for fluticasone propionate CFC inhalation aerosol and 42% of the value from the individual inhaler for salmeterol CFC inhalation aerosol.
+Systemic exposure (N = 20 subjects) from 4 inhalations of ADVAIR HFA 230 mcg/21 mcg was 53% of the value from the individual inhaler for fluticasone propionate CFC inhalation aerosol and 42% of the value from the individual inhaler for salmeterol CFC inhalation aerosol.
 Peak plasma concentrations from ADVAIR HFA for fluticasone propionate (86 versus 120 pg/mL) and salmeterol (170 versus 510 pg/mL) were significantly lower compared with individual inhalers.
 
-In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR HFA 230/21 (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500/50 (1,000/100 mcg) was similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
+In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR HFA 230 mcg/21 mcg (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500 mcg/50 mcg (1,000/100 mcg) was similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
 Similar results were observed for peak fluticasone propionate plasma concentrations (186 and 182 pg/mL from ADVAIR HFA and ADVAIR DISKUS, respectively, and 307 pg/mL from the fluticasone propionate CFC inhalation aerosol).
 Absolute bioavailability of fluticasone propionate was 5.3% and 5.5% following administration of ADVAIR HFA and ADVAIR DISKUS, respectively.
 
-Subjects with Asthma: A double-blind crossover trial was conducted in 13 adult subjects with asthma to evaluate the steady-state pharmacokinetics of fluticasone propionate and salmeterol following administration of 2 inhalations of ADVAIR HFA 115/21 twice daily or 1 inhalation of ADVAIR DISKUS 250/50 twice daily for 4 weeks.
+Subjects with Asthma: A double-blind crossover trial was conducted in 13 adult subjects with asthma to evaluate the steady-state pharmacokinetics of fluticasone propionate and salmeterol following administration of 2 inhalations of ADVAIR HFA 115 mcg/21 mcg twice daily or 1 inhalation of ADVAIR DISKUS 250 mcg/50 mcg twice daily for 4 weeks.
 Systemic exposure (AUC) to fluticasone propionate was similar for ADVAIR HFA (274 pg•h/mL [95% CI: 150, 502]) and ADVAIR DISKUS (338 pg•h/mL [95% CI: 197, 581]).
 
-The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) was evaluated in a trial of 31 children aged 4 to 11 years with mild asthma.
+The effect of 21 days of treatment with ADVAIR HFA 45 mcg/21 mcg (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100 mcg/50 mcg (1 inhalation twice daily) was evaluated in a trial of 31 children aged 4 to 11 years with mild asthma.
 Systemic exposure to fluticasone propionate was similar with ADVAIR DISKUS and ADVAIR HFA with a spacer (138 pg•h/mL [95% CI: 69, 273] and 107 pg•h/mL [95% CI: 46, 252], respectively) and lower with ADVAIR HFA without a spacer (24 pg•h/mL [95% CI: 10, 60]).
 
 Salmeterol Xinafoate: Healthy Subjects: Salmeterol xinafoate, an ionic salt, dissociates in solution so that the salmeterol and 1-hydroxy-2-naphthoic acid (xinafoate) moieties are absorbed, distributed, metabolized, and eliminated independently.
 Salmeterol acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 
-Peak plasma concentrations of salmeterol (N = 20 subjects) following 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, and ADVAIR HFA 230/21 ranged from 220 to 470 pg/mL.
+Peak plasma concentrations of salmeterol (N = 20 subjects) following 8 inhalations of ADVAIR HFA 45 mcg/21 mcg, ADVAIR HFA 115 mcg/21 mcg, and ADVAIR HFA 230 mcg/21 mcg ranged from 220 to 470 pg/mL.
 
-In 15 healthy subjects receiving ADVAIR HFA 230/21 (920/84 mcg) and ADVAIR DISKUS 500/50 (1,000/100 mcg), systemic exposure to salmeterol was higher (317 versus 169 pg•h/mL) and peak salmeterol concentrations were lower (196 versus 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
+In 15 healthy subjects receiving ADVAIR HFA 230 mcg/21 mcg (920/84 mcg) and ADVAIR DISKUS 500 mcg/50 mcg (1,000/100 mcg), systemic exposure to salmeterol was higher (317 versus 169 pg•h/mL) and peak salmeterol concentrations were lower (196 versus 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
 
 Subjects with Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended dosages (42 mcg of salmeterol inhalation aerosol twice daily).
 Following chronic administration of an inhaled dose of 42 mcg of salmeterol inhalation aerosol twice daily, salmeterol was detected in plasma within 5 to 10 minutes in 6 subjects with asthma; plasma concentrations were very low, with mean peak concentrations of 150 pg/mL at 20 minutes and no accumulation with repeated doses.
 
-A double-blind crossover trial was conducted in 13 adult subjects with asthma to evaluate the steady-state pharmacokinetics of fluticasone propionate and salmeterol following administration of 2 inhalations of ADVAIR HFA 115/21 twice daily or 1 inhalation of ADVAIR DISKUS 250/50 twice daily for 4 weeks.
+A double-blind crossover trial was conducted in 13 adult subjects with asthma to evaluate the steady-state pharmacokinetics of fluticasone propionate and salmeterol following administration of 2 inhalations of ADVAIR HFA 115 mcg/21 mcg twice daily or 1 inhalation of ADVAIR DISKUS 250 mcg/50 mcg twice daily for 4 weeks.
 Systemic exposure to salmeterol was similar for ADVAIR HFA (53 pg•h/mL [95% CI: 17, 164]) and ADVAIR DISKUS (70 pg•h/mL [95% CI: 19, 254]).
 
-The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) was evaluated in 31 children aged 4 to 11 years with mild asthma.
+The effect of 21 days of treatment with ADVAIR HFA 45 mcg/21 mcg (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100 mcg/50 mcg (1 inhalation twice daily) was evaluated in 31 children aged 4 to 11 years with mild asthma.
 Systemic exposure to salmeterol was similar for ADVAIR HFA, ADVAIR HFA with spacer, and ADVAIR DISKUS (126 pg•h/mL [95% CI: 70, 225], 103 pg•h/mL [95% CI: 54, 200], and 110 pg•h/mL [95% CI: 55, 219], respectively).
 
 Distribution
@@ -151,22 +151,10 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Salmeterol: The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
 
-Metabolism
-
-Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
-The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
-This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
-Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
-
-Salmeterol: Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominantly in the feces.
-No significant amount of unchanged salmeterol base was detected in either urine or feces.
-
-An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
-Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
-
 Elimination
 
 Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, ADVAIR DISKUS, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 
@@ -176,6 +164,16 @@ The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
 No terminal half-life estimates were calculated for salmeterol following administration of ADVAIR HFA.
+
+Metabolism: Fluticasone Propionate: The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
+This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
+Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
+
+Salmeterol: Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominantly in the feces.
+No significant amount of unchanged salmeterol base was detected in either urine or feces.
+
+An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
+Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
 Specific Populations
 

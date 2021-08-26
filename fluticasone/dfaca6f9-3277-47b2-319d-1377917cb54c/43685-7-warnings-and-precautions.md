@@ -63,13 +63,13 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of ADVAIR HFA and Use with Other Long-acting Beta2-agonists
+## 5.3 Avoid Excessive Use of ADVAIR HFA and Avoid Use with Other Long-acting Beta2-agonists
 
 ADVAIR HFA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 Patients using ADVAIR HFA should not use another medicine containing a LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
 
-## 5.4 Local Effects of Inhaled Corticosteroids
+## 5.4 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with ADVAIR HFA.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with ADVAIR HFA continues, but at times therapy with ADVAIR HFA may need to be interrupted.
@@ -78,13 +78,13 @@ Advise the patient to rinse his/her mouth with water without swallowing followin
 ## 5.5 Pneumonia
 
 Lower respiratory tract infections, including pneumonia, have been reported in patients with chronic obstructive pulmonary disease (COPD) following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
-In 2 replicate 1-year trials in 1,579 subjects with COPD, there was a higher incidence of pneumonia reported in subjects receiving ADVAIR DISKUS 250/50 (7%) than in those receiving salmeterol 50 mcg (3%).
+In 2 replicate 1-year trials in 1,579 subjects with COPD, there was a higher incidence of pneumonia reported in subjects receiving ADVAIR DISKUS 250 mcg/50 mcg (7%) than in those receiving salmeterol 50 mcg (3%).
 The incidence of pneumonia in the subjects treated with ADVAIR DISKUS was higher in subjects older than 65 years (9%) compared with the incidence in subjects younger than 65 years (4%).
 
-In a 3-year trial in 6,184 subjects with COPD, there was a higher incidence of pneumonia reported in subjects receiving ADVAIR DISKUS 500/50 compared with placebo (16% with ADVAIR DISKUS 500/50, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
-Similar to what was seen in the 1-year trials with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in subjects older than 65 years (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with subjects younger than 65 years (14% with ADVAIR DISKUS 500/50 versus 8% with placebo).
+In a 3-year trial in 6,184 subjects with COPD, there was a higher incidence of pneumonia reported in subjects receiving ADVAIR DISKUS 500 mcg/50 mcg compared with placebo (16% with ADVAIR DISKUS 500 mcg/50 mcg, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
+Similar to what was seen in the 1-year trials with ADVAIR DISKUS 250 mcg/50 mcg, the incidence of pneumonia was higher in subjects older than 65 years (18% with ADVAIR DISKUS 500 mcg/50 mcg versus 10% with placebo) compared with subjects younger than 65 years (14% with ADVAIR DISKUS 500 mcg/50 mcg versus 8% with placebo).
 
-## 5.6 Immunosuppression
+## 5.6 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
@@ -99,6 +99,8 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
+
+HPA Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
@@ -115,7 +117,11 @@ Prednisone reduction can be accomplished by reducing the daily prednisone dose b
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to ADVAIR HFA may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
@@ -142,13 +148,13 @@ As with other inhaled medicines, ADVAIR HFA can produce paradoxical bronchospasm
 If paradoxical bronchospasm occurs following dosing with ADVAIR HFA, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR HFA should be discontinued immediately; and alternative therapy should be instituted.
 Upper airway symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving ADVAIR HFA.
 
-## 5.11 Immediate Hypersensitivity Reactions
+## 5.11 Hypersensitivity Reactions, including Anaphylaxis
 
 Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of ADVAIR HFA [see Contraindications (4)].
 
 ## 5.12 Cardiovascular and Central Nervous System Effects
 
-Excessive beta-adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10.2)].
+Excessive beta-adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10)].
 Therefore, ADVAIR HFA, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 Salmeterol, a component of ADVAIR HFA, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
