@@ -21,7 +21,6 @@ In general, high dose corticosteroid therapy should be continued only until the 
 
 In other indications, initial dosage will vary from 10 to 40 mg of methylprednisolone depending on the specific disease entity being treated.
 However, in certain overwhelming, acute, life-threatening situations, administrations in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
-
 It Should Be Emphasized that Dosage Requirements are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
 Situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient’s individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment.
