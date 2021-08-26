@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017442"
+  ],
+  "inn": "prazosin",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-431-85",
+    "66993-432-85",
+    "66993-433-85"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "prazosin hydrochloride",
+      "name": "Prazosin Hydrochloride"
+    }
+  ],
+  "setid": "cbe89216-7dea-43d7-b12e-44ccfb69af3d",
+  "source": "dailymed"
+}
