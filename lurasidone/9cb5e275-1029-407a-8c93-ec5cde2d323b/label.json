@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA208055"
+  ],
+  "inn": "lurasidone",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-464-05",
+    "13668-464-30",
+    "13668-464-74",
+    "13668-464-90",
+    "13668-465-05",
+    "13668-465-30",
+    "13668-465-74",
+    "13668-465-90",
+    "13668-466-05",
+    "13668-466-30",
+    "13668-466-74",
+    "13668-466-90",
+    "13668-467-05",
+    "13668-467-30",
+    "13668-467-74",
+    "13668-467-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lurasidone hydrochloride",
+      "name": "Lurasidone Hydrochloride"
+    }
+  ],
+  "setid": "9cb5e275-1029-407a-8c93-ec5cde2d323b",
+  "source": "dailymed"
+}
