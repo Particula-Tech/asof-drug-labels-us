@@ -15,4 +15,4 @@ Constituted solution of MAXIPIME can range in color from pale yellow to amber.
 
 Storage and Handling
 
-MAXIPIME for injection in the dry state should be stored at 20 to 25° C (68 to 77° F) [see USP controlled room temperature.] and protected from light.
+MAXIPIME for injection in the dry state should be stored at 20 to 25° C (68 to 77° F) [see USP controlled room temperature] and protected from light.

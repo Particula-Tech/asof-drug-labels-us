@@ -86,7 +86,7 @@ Vials
 - •Parenteral drugs should be inspected visually for particulate matter before administration.
   If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 - •Administer the resulting intravenous infusion over approximately 30 minutes.
-- • Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
+- •Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
   However, during infusion of a solution containing cefepime, it is desirable to discontinue the other solution.
 
 ADD-Vantage® Vials
@@ -135,7 +135,7 @@ MAXIPIME admixture compatibility information is summarized in Table 4.
 
 Table 4: Cefepime Admixture Stability
 
-|  |  |  | Stability Time for |  |
+| Stability Time for |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | MAXIPIME Concentration | Admixture and Concentration | Intravenous (IV) InfusionSolutions | RT/L (20° to 25°C) | Refrigeration (2° to 8°C) |
 | 40 mg/mL | Amikacin6 mg/mL | NS or D5W | 24 hours | 7 days |
@@ -154,8 +154,8 @@ Table 4: Cefepime Admixture Stability
 
 MAXIPIME Admixture Incompatibility
 
-Do not add solutions of MAXIPIME, to solutions of ampicillin at a concentration greater than 40 mg per mL, or to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
-However, if concurrent therapy with MAXIPIME is indicated, each of these antibiotics can be administered separately.
+Do not add solutions of MAXIPIME to solutions of ampicillin at a concentration greater than 40 mg per mL, or to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
+However, if concurrent therapy with MAXIPIME is indicated, each of these antibacterial drugs can be administered separately.
 
 Intramuscular MAXIPIME
 
