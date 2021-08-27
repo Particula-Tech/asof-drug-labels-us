@@ -22,7 +22,8 @@ Progesterone receptors have been identified in the female reproductive tract, br
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamics data known for Activella tablets.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Activella nor her risk for adverse outcomes.
+Likewise, exposure comparisions across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -80,7 +81,7 @@ a geometric mean; b geometric % coefficient of variation; c baseline unadjusted 
 g n=13; h n=22; I n=21
 
 Following continuous dosing with once-daily administration of Activella 1 mg/0.5 mg,serum concentrations of estradiol, estrone, and norethindrone reached steady-state within two weeks with an accumulation of 33 to 47% above concentrations following single dose administration.
-Unadjusted circulating concentrations of E2, E1, and NET during Activella 1 mg/0.5 mg treatment at steady–state (dosing at time 0) are provided in Figures 1a and 1b.
+Unadjusted circulating concentrations of E2, E1, and NET during Activella 1 mg/0.5 mg treatment at steady-state (dosing at time 0) are provided in Figures 1a and 1b.
 
 Figure 1a: Mean Baseline-Uncorrected Estradiol and Estrone Serum Concentration-Time Profiles Following Multiple Doses of Activella 1 mg/0.5 mg (N=24)
 
@@ -123,7 +124,3 @@ The half-life of estradiol following single dose administration of Activella 1 m
 Norethindrone Acetate
 
 The terminal half-life of norethindrone is about 8 to 11 hours.
-
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted in specific populations, including women with renal or hepatic impairment.

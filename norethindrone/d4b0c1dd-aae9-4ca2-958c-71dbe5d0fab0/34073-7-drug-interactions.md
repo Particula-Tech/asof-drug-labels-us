@@ -3,14 +3,12 @@
 Co-administration of estradiol with norethindrone acetate did not elicit any apparent influence on the pharmacokinetics of norethindrone acetate.
 Similarly, no relevant interaction of norethindrone acetate on the pharmacokinetics of estradiol was found within the NETA dose range investigated in a single dose study.
 
-## 7.1 Metabolic Interactions
-
 Estradiol
 
 In-vitro and in-vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
 Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
-Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and result in side effects.
+Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and result in adverse reactions.
 
 Norethindrone Acetate
 

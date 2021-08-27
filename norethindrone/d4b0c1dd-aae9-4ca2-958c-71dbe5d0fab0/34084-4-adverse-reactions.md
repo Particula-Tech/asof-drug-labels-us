@@ -9,7 +9,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions reported with Activella 1 mg/0.5 mg by investigators in the Phase 3 studies regardless of causality assessment are shown in Table 1.
+Adverse reactions reported with Activella 1 mg/0.5 mg by investigators during clinical trials regardless of causality assessment are shown in Table 1.
 
 TABLE 1
 
@@ -48,7 +48,7 @@ ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT 
 
 * including one upper extremity fracture in each group
 
-Adverse reactions reported with Activella 0.5 mg/0.1 mg by investigators during the Phase 3 study regardless of causality assessment are shown in Table 2.
+Adverse reactions reported with Activella 0.5 mg/0.1 mg by investigators during clinical trials regardless of causality assessment are shown in Table 2.
 
 TABLE 2
 

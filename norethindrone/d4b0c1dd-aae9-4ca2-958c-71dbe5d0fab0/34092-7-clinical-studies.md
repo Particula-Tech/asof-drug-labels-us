@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 In a 12-week randomized clinical trial involving 92 subjects, Activella 1 mg/0.5 mg was compared to 1 mg of estradiol and to placebo.
 The mean number and intensity of hot flushes were significantly reduced from baseline to week 4 and 12 in both the Activella 1 mg/0.5 mg and the 1 mg estradiol group compared to placebo (see Figure 2).
@@ -18,11 +18,11 @@ Mean Number of Moderate to Severe Hot
 
 Flushes for Weeks 0 Through 12
 
-## 14.2 Effects on the Endometrium
+## 14.2 Effects on the Endometrium in Postmenopausal Women
 
 Activella 1 mg/0.5 mg reduced the incidence of estrogen-induced endometrial hyperplasia at 1 year in a randomized, controlled clinical trial.
-This trial enrolled 1,176 subjects who were randomized to one of 4 arms: 1 mg estradiol unopposed (n=296), 1 mg E2 + 0.1 mg NETA (n=294), 1 mg E2 + 0.25 mg NETA (n=291), and Activella 1 mg/0.5 mg (n=295).
-At the end of the study, endometrial biopsy results were available for 988 subjects.
+This trial enrolled 1,176 postmenopausal women who were randomized to one of 4 arms: 1 mg estradiol unopposed (n=296), 1 mg E2 + 0.1 mg NETA (n=294), 1 mg E2 + 0.25 mg NETA (n=291), and Activella 1 mg/0.5 mg (n=295).
+At the end of the study, endometrial biopsy results were available for 988 women.
 The results of the 1 mg estradiol unopposed arm compared to Activella 1 mg/0.5 mg are shown in Table 4.
 
 TABLE 4
@@ -34,7 +34,7 @@ INCIDENCE OF ENDOMETRIAL HYPERPLASIA WITH UNOPPOSED ESTRADIOL AND ACTIVELLA 1 MG
 | No. of subjects with histological evaluation at the end of the study | 247 | 241 | 251 | 249 |
 | No. (%) of subjects with endometrial hyperplasia at the end of the study | 36 (14.6%) | 1 (0.4%) | 1 (0.4%) | 2 (0.8%) |
 
-## 14.3 Effects on Uterine Bleeding or Spotting
+## 14.3 Effects on Uterine Bleeding or Spotting in Postmenopausal Women
 
 During the initial months of therapy, irregular bleeding or spotting occurred with Activella 1 mg/0.5 mg treatment.
 However, bleeding tended to decrease over time, and after 12 months of treatment with Activella 1 mg/0.5 mg, about 86 percent of women were amenorrheic (see Figure 4).
@@ -62,12 +62,12 @@ Percentage of Women with no Bleeding or Spotting at any
 
 Cycle Through Cycle 6, Intent to Treat Population, LOCF
 
-## 14.4 Effects on Bone Mineral Density
+## 14.4 Effects on Bone Mineral Density in Postmenopausal Women
 
 The results of two randomized, multicenter, calcium-supplemented (500 to 1,000 mg per day), placebo-controlled, 2 year clinical trials have shown that Activella 1 mg/0.5 mg and estradiol 0.5 mg are effective in preventing bone loss in postmenopausal women.
 A total of 462 postmenopausal women with intact uteri and baseline BMD values for lumbar spine within 2 standard deviations of the mean in healthy young women (T-score > -2.0) were enrolled.
-In a US trial, 327 postmenopausal women (mean time from menopause 2.5 to 3.1 years) with a mean age of 53 years were randomized to 7 groups (0.25 mg, 0.5 mg, and 1 mg of estradiol alone, 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and 2 mg estradiol with 1 mg norethindrone acetate, and placebo.)
-In a European trial (EU trial), 135 postmenopausal women (mean time from menopause 8.4 to 9.3 years) with a mean age of 58 years were randomized to 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and placebo.
+In a US trial, 327 postmenopausal women (mean time from menopause 2.5 to 3.1 years) with a mean age of 53 years were randomized to 7 groups (0.25 mg, 0.5 mg, and 1 mg of estradiol alone, 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and 2 mg estradiol with 1 mg norethindrone acetate, and placebo).
+In a European trial (EU trial), 135 postmenopausal women (mean time from menopause 8.4 to 9.3 years) with a mean age of 58 years were randomized to 1 mg estradiolwith 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, andplacebo.
 Approximately 58 percent and 67 percent of the randomized subjects in the two clinical trials, respectively, completed the two clinical trials.
 BMD was measured using dual-energy x-ray absorptiometry (DXA).
 
@@ -213,7 +213,7 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), andUse in Specific Populations(8.5)].
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
