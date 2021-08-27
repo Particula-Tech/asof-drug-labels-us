@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ENTYVIO during pregnancy.
-Information about the registry can be obtained by calling 1-877-TAKEDA7 (1-877-825-3327).
+Information about the registry can be obtained by calling 1-877-TAKEDA-7 (1-877-825-3327).
 
 Risk Summary
 
@@ -19,12 +19,12 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and embryo/fetal risk
+Disease-Associated Maternal and Embryo/Fetal Risk
 
 Published data suggest that the risk of adverse pregnancy outcomes in women with inflammatory bowel disease (IBD) is associated with increased disease activity.
 Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 g) infants, and small for gestational age at birth.
 
-Fetal/Neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 ENTYVIO administered during pregnancy could affect immune responses in the in utero exposed newborn and infant.
 The clinical significance of low levels of ENTYVIO in utero-exposed infants is unknown.
@@ -41,10 +41,17 @@ A pre- and post-natal development study in monkeys showed no evidence of any adv
 
 Risk Summary
 
-Available published literature suggests the presence of vedolizumab in human milk.
-The effects of local gastrointestinal exposure and expected low systemic exposure to vedolizumab on the breastfed infant are unknown.
+Data from a clinical lactation study show the presence of vedolizumab in human milk.
+The mean calculated daily infant dosage was 0.02 mg/kg/day orally (see Data).
+Systemic exposure in a breastfed infant is expected to be low because monoclonal antibodies are largely degraded in the gastrointestinal tract.
 There are no data on the effects of vedolizumab on the breastfed infant, or the effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ENTYVIO and any potential adverse effects on the breastfed infant from ENTYVIO or from the underlying maternal condition.
+
+Data
+
+A milk-only lactation study was conducted in 9 adult lactating women being treated for active ulcerative colitis or Crohn's disease with intravenous ENTYVIO every 8 weeks after reaching steady state and completing the induction phase (ENTYVIO administration at 0, 2, and 6 weeks).
+Mean concentrations of ENTYVIO in human milk ranged from 0.03 to 0.26 mcg/mL.
+The mean calculated daily infant oral dosage was 0.02 mg/kg/day calculated as a product of the average concentration over the 8-week dosing interval and the standardized milk consumption of 150 mL/kg/day.
 
 ## 8.4 Pediatric Use
 

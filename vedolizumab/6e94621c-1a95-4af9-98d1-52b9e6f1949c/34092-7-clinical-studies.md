@@ -6,8 +6,8 @@ The safety and efficacy of ENTYVIO were evaluated in two randomized, double-blin
 The Mayo score ranges from zero to 12 and has four subscales that are each scored from zero (normal) to three (most severe): stool frequency, rectal bleeding, findings on endoscopy, and physician global assessment.
 An endoscopy subscore of two is defined by marked erythema, lack of vascular pattern, friability, and erosions; an endoscopy subscore of three is defined by spontaneous bleeding and ulceration.
 
-Enrolled patients in the United States (US) had over the previous five-year period an inadequate response or intolerance to immunomodulator therapy (i.e., azathioprine or 6-mercaptopurine) and/or an inadequate response, loss of response, or intolerance to a TNF blocker.
-Outside the US, prior treatment with corticosteroids was sufficient for entry if over the previous five-year period the patients were corticosteroid dependent (i.e., unable to successfully taper corticosteroids without a return of the symptoms of UC) or had an inadequate response or intolerance to corticosteroids.
+Enrolled patients in the U.S. had over the previous five-year period an inadequate response or intolerance to immunomodulator therapy (i.e., azathioprine or 6-mercaptopurine) and/or an inadequate response, loss of response, or intolerance to a TNF blocker.
+Outside the U.S., prior treatment with corticosteroids was sufficient for entry if over the previous five-year period the patients were corticosteroid dependent (i.e., unable to successfully taper corticosteroids without a return of the symptoms of UC) or had an inadequate response or intolerance to corticosteroids.
 
 Patients that had received natalizumab ever in the past, and patients that had received a TNF blocker in the past 60 days were excluded from enrollment.
 Concomitant use of natalizumab or a TNF blocker was not allowed.
@@ -44,7 +44,7 @@ Patients could have come from either UC Trial I or from a group who received ENT
 In UC Trial II, 373 patients were randomized in a double-blind fashion (1:1:1) to one of the following regimens beginning at Week 6: ENTYVIO 300 mg every eight weeks, ENTYVIO 300 mg every four weeks or placebo every four weeks.
 Efficacy assessments were at Week 52.
 Concomitant aminosalicylates and corticosteroids were permitted through Week 52.
-Concomitant immunomodulators (azathioprine or 6-mercaptopurine) were permitted outside the US but were not permitted beyond Week 6 in the US.
+Concomitant immunomodulators (azathioprine or 6-mercaptopurine) were permitted outside the U.S. but were not permitted beyond Week 6 in the U.S.
 
 At Week 6, patients were receiving corticosteroids (61%), immunomodulators (azathioprine or 6-mercaptopurine) (32%) and aminosalicylates (75%).
 Thirty-two percent of patients had an inadequate response, loss of response or intolerance to a TNF blocker therapy.
@@ -75,8 +75,8 @@ This group includes patients that were not in clinical remission at Week 6.
 
 The safety and efficacy of ENTYVIO were evaluated in three randomized, double-blind, placebo-controlled clinical trials (CD Trials I, II, and III) in adult patients with moderately to severely active Crohn's disease (CD) (Crohn's Disease Activity Index [CDAI] score of 220 to 450).1
 
-Enrolled patients in the United States (US) had over the previous five-year period an inadequate response or intolerance to immunomodulator therapy (i.e., azathioprine, 6-mercaptopurine, or methotrexate) and/or an inadequate response, loss of response, or intolerance to one or more TNF blockers.
-Outside the US, prior treatment with corticosteroids was sufficient for entry if over the previous five-year period the patients were corticosteroid dependent (i.e., unable to successfully taper corticosteroids without a return of the symptoms of CD) or had an inadequate response or intolerance to corticosteroids.
+Enrolled patients in the U.S. had over the previous five-year period an inadequate response or intolerance to immunomodulator therapy (i.e., azathioprine, 6-mercaptopurine, or methotrexate) and/or an inadequate response, loss of response, or intolerance to one or more TNF blockers.
+Outside the U.S., prior treatment with corticosteroids was sufficient for entry if over the previous five-year period the patients were corticosteroid dependent (i.e., unable to successfully taper corticosteroids without a return of the symptoms of CD) or had an inadequate response or intolerance to corticosteroids.
 
 Patients that had received natalizumab ever in the past, and patients that had received a TNF blocker in the past 30 to 60 days were excluded from enrollment.
 Concomitant use of natalizumab or a TNF blocker was not allowed.
@@ -124,7 +124,7 @@ Patients could have come from either CD Trial I or from a group who received ENT
 In CD Trial III, 461 patients were randomized in a double-blind fashion (1:1:1) to one of the following regimens beginning at Week 6: ENTYVIO 300 mg every eight weeks, ENTYVIO 300 mg every four weeks or placebo every four weeks.
 Efficacy assessments were at Week 52.
 Concomitant aminosalicylates and corticosteroids were permitted through Week 52.
-Concomitant immunomodulators (azathioprine, 6-mercaptopurine, or methotrexate) were permitted outside the US but were not permitted beyond Week 6 in the US.
+Concomitant immunomodulators (azathioprine, 6-mercaptopurine, or methotrexate) were permitted outside the U.S. but were not permitted beyond Week 6 in the U.S.
 
 At Week 6, patients were receiving corticosteroids (59%), immunomodulators (azathioprine, 6-mercaptopurine, or methotrexate) (31%), and aminosalicylates (41%).
 Fifty-one percent of patients had an inadequate response, loss of response, or intolerance to a TNF blocker therapy.

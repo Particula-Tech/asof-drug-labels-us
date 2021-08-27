@@ -12,7 +12,7 @@
 
 ## 2.2 Prior to Administration of ENTYVIO
 
-- Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines.
+Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines.
 
 ## 2.3 Dosage in Adults with Ulcerative Colitis or Crohn's Disease
 

@@ -20,7 +20,7 @@ Of these, 769 patients had ulcerative colitis and 962 patients had Crohn's disea
 Patients were exposed for a mean duration of 259 days (UC Trials I and II) and 247 days (CD Trials I and III).
 
 Adverse reactions were reported in 52% of patients treated with ENTYVIO and 45% of patients treated with placebo (UC Trials I and II: 49% with ENTYVIO and 37% with placebo; CD Trials I and III: 55% with ENTYVIO and 47% with placebo).
-Serious adverse reactions were reported in 7% of patients treated with ENTYVIO compared to 4% of patients treated with placebo (UC Trials I and II: 8% with ENTYVIO and 7% with placebo; CD Trials I and III: 12% with ENTYVIO and 9%, with placebo).
+Serious adverse reactions were reported in 7% of patients treated with ENTYVIO compared to 4% of patients treated with placebo (UC Trials I and II: 8% with ENTYVIO and 7% with placebo; CD Trials I and III: 12% with ENTYVIO and 9% with placebo).
 
 The most common adverse reactions (reported by ≥3% of patients treated with ENTYVIO in the UC Trials I and II and CD Trials I and III combined group and ≥1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities (Table 2).
 
@@ -80,7 +80,7 @@ The rate of sepsis in patients with ulcerative colitis or Crohn's disease receiv
 In clinical trials, all patients were screened for tuberculosis.
 One case of latent, pulmonary tuberculosis was diagnosed during the controlled trials with ENTYVIO.
 Additional cases of pulmonary tuberculosis were diagnosed during the open-label trial.
-All of these observed cases occurred outside the United States, and none of the patients had extrapulmonary manifestations.
+All of these observed cases occurred outside the United States (U.S.), and none of the patients had extrapulmonary manifestations.
 
 Liver Injury
 
@@ -115,11 +115,11 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to vedolizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-In UC Trials I and II and CD Trials I and III, in patients who received ENTYVIO, the frequency of antibodies detected in patients was 13% at 24 weeks after the last dose of study drug (greater than five half-lives after last dose).
-During treatment, 56 of 1,434 (4%) of patients treated with ENTYVIO had detectable anti-vedolizumab antibody at any time during the 52 weeks of continuous treatment.
-Nine of 56 patients were persistently positive (at two or more study visits) for anti-vedolizumab antibody and 33 of 56 patients developed neutralizing antibodies to vedolizumab.
-Among eight of these nine subjects with persistently positive anti-vedolizumab antibody and available vedolizumab concentration data, six had undetectable and two had reduced vedolizumab concentrations [see Clinical Pharmacology (12.3)].
-None of the nine subjects with persistently positive anti-vedolizumab antibody achieved clinical remission at Weeks 6 or 52 in the controlled trials.
+The incidence of anti-vedolizumab antibodies to intravenous ENTYVIO using a drug-tolerant electrochemiluminescence (ECL) method for patients in UC Trials I and II and CD Trials I and III who had continuous treatment for 52 weeks was 6% (86 out of 1,427).
+Of the 86 patients who tested positive for anti-vedolizumab antibodies, 20 patients were persistently positive (at two or more study visits) and 56 developed neutralizing antibodies to vedolizumab.
+Among the 20 patients with persistently positive anti-vedolizumab antibody status, 14 had undetectable or reduced vedolizumab serum concentrations [see Clinical Pharmacology (12.3)].
+Five of the 20 patients with persistently positive anti-vedolizumab antibody achieved clinical remission at Week 52 in the controlled trials.
+Overall, there was no apparent correlation of anti-vedolizumab antibody development to adverse reactions following intravenous administration of ENTYVIO.
 
 ## 6.3 Postmarketing Experience
 
@@ -127,3 +127,5 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: Anaphylaxis [see Warnings and Precautions (5.1)]
+
+Gastrointestinal system disorders: Acute Pancreatitis

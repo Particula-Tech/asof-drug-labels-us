@@ -32,14 +32,14 @@ Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials
 | Ulcerative Colitis | 26.3 ± 12.9 (N=210) | 11.2 ± 7.2 (N=77) |
 | Crohn's Disease | 27.4 ± 19.2 (N=198) | 13.0 ± 9.1 (N=72) |
 
-The presence of persistent anti-vedolizumab antibody was observed to substantially reduce serum concentrations of vedolizumab, either to undetectable or negligible levels at Weeks 6 and 52 (n=8).
+The presence of persistent anti-vedolizumab antibody was observed to substantially reduce serum concentrations of vedolizumab, either to undetectable or negligible levels (n=20) [see Adverse Reactions (6.2)].
 
 Vedolizumab clearance depends on both linear and nonlinear pathways; the nonlinear clearance decreases with increasing concentrations.
 Population pharmacokinetic analyses indicated that the linear clearance was approximately 0.157 L/day, the serum half-life was approximately 25 days at 300 mg dosage, and the distribution volume was approximately 5 L.
 
 Vedolizumab was not detected in the cerebrospinal fluid (CSF) of 14 healthy subjects at five weeks after a single intravenous administration of 450 mg ENTYVIO (1.5 times the recommended dosage).
 
-Special Populations
+Specific Populations
 
 Population pharmacokinetic analysis showed that the severity of disease state, body weight, prior treatment with TNF blocker therapy, age (18 to 78 years), serum albumin, coadministered immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and coadministered aminosalicylates did not have a clinically meaningful effect on the pharmacokinetics of ENTYVIO.
 
