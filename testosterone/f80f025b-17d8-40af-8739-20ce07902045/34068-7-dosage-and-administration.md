@@ -18,7 +18,9 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Carefully remove the gray plastic cap from the top of the vial by lifting it up from the edges with your fingers or by pushing the bottom edge of the cap upward using the top of your thumb.
 Remove only the gray plastic cap while leaving the aluminum metal ring and crimp seal around the gray rubber stopper in place.
-To facilitate the removal of medication from the vial, you can draw 3 mL of air into the syringe and inject it through the gray rubber stopper into the vial to create positive pressure within the vial chamber.
+To facilitate the removal of medication from the vial, attach an 18-gauge needle and draw 3 mL of air into the syringe.
+Hold the needle at a 45° angle to the stopper with the bevel in the up orientation.
+Inject through the gray rubber stopper into the vial to create positive pressure within the vial chamber.
 
 Withdraw 3 mL (750 mg) of AVEED solution from the vial.
 Expel excess air bubbles from the syringe.
