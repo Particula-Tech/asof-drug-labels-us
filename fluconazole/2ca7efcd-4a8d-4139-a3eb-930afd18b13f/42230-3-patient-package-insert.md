@@ -129,4 +129,4 @@ You can ask your pharmacist or doctor for information about fluconazole that is 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 Propulsid® is a registered trademark of Johnson and Johnson.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 10/2020
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2021
