@@ -258,14 +258,14 @@ One patient experienced drug related laboratory abnormalities, Grade 4 AST and G
 
 ISENTRESS has also been studied in 26 HIV-1 infected infants and toddlers 4 weeks to less than 2 years of age, in combination with other antiretroviral agents in IMPAACT P1066 [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
 
-In these 26 infants and toddlers, the frequency, type and severity of drug-related adverse reactions through Week 48 were comparable to those observed in adults.
+In these 26 infants and toddlers, the frequency, type and severity of drug related adverse reactions through Week 48 were comparable to those observed in adults.
 
-One patient experienced a Grade 3 serious drug-related allergic rash that resulted in treatment discontinuation.
+One patient experienced a Grade 3 serious drug related allergic rash that resulted in treatment discontinuation.
 
 HIV-1 Exposed Neonates
 
 Forty-two neonates were treated with ISENTRESS for up to 6 weeks from birth, and followed for a total of 24 weeks in IMPAACT P1110 [see Use in Specific Populations (8.4)].
-There were no drug related clinical adverse reactions and three drug-related laboratory adverse reactions (one case of transient Grade 4 neutropenia in a subject receiving zidovudine-containing regimen for prevention of mother to child transmission (PMTCT), and two bilirubin elevations (one each, Grade 1 and Grade 2) considered non-serious and not requiring specific therapy).
+There were no drug related clinical adverse reactions and three drug related laboratory adverse reactions (one case of transient Grade 4 neutropenia in a subject receiving zidovudine-containing regimen for prevention of mother to child transmission (PMTCT), and two bilirubin elevations (one each, Grade 1 and Grade 2) considered non-serious and not requiring specific therapy).
 The safety profile in neonates was generally similar to that observed in older patients treated with ISENTRESS.
 No clinically meaningful differences in the adverse event profile of neonates were observed when compared to adults.
 

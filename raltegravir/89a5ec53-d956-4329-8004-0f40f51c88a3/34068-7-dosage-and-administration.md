@@ -36,7 +36,7 @@ Table 1: Dosing Recommendations for ISENTRESS and ISENTRESS HD in Adult Patients
 
 | Population | Recommended Dose |
 | --- | --- |
-| Treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 1,200 mg (2 × 600 mg) once daily or 400 mg twice daily |
+| Treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 1200 mg (2 × 600 mg) once daily or 400 mg twice daily |
 | Treatment-experienced | 400 mg twice daily |
 | Treatment-naïve or treatment-experienced when coadministered with rifampin [see Drug Interactions (7.1)] | 800 mg (2 × 400 mg) twice daily |
 
@@ -50,7 +50,7 @@ Table 2: Dosing Recommendations for ISENTRESS and ISENTRESS HD in Pediatric Pati
 | Population/Weight | Film-Coated Tablets 400 mg | Film-Coated Tablets 600 mg | Chewable Tablets 100 mg and 25 mg | For Oral Suspension 100 mg |
 | --- | --- | --- | --- | --- |
 |  | Recommended Pediatric Dosage and Formulation |  |  |  |
-| If at least 40 kg and either: treatment-naïve or virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 400 mg twice daily | 1,200 mg (2 × 600 mg) once daily | 300 mg twice daily (see Table 3) | NA |
+| If at least 40 kg and either: treatment-naïve or virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 400 mg twice daily | 1200 mg (2 × 600 mg) once daily | 300 mg twice daily (see Table 3) | NA |
 | If at least 25 kg | 400 mg twice dailyIf able to swallow a tablet | NA | Weight-based dosing twice daily (see Table 3) | NA |
 | If at least 4 weeks of age and weighing 3 kg to less than 25 kg | NA | NA | Weight-based dosing twice daily (see Table 4) | Weight-based dosing twice daily up to 20 kg (see Table 4) |
 | From birth to 4 weeks (28 days) weighing at least 2 kg | NA | NA | NA | Weight-based dosing once daily or twice daily (see Table 5) |
@@ -87,7 +87,7 @@ Table 5: Recommended Dose for ISENTRESS For Oral Suspension in Full-Term Neonate
 | 2 to less than 3 | 0.4 mL (4 mg) once daily |
 | 3 to less than 4 | 0.5 mL (5 mg) once daily |
 | 4 to less than 5 | 0.7 mL (7 mg) once daily |
-| 1 to 4 Weeks - Twice daily dosing The dosing recommendations are based on approximately 3 mg/kg/dose. |  |
+| 1 to 4 Weeks - Twice daily dosingThe dosing recommendations are based on approximately 3 mg/kg/dose. |  |
 | 2 to less than 3 | 0.8 mL (8 mg) twice daily |
 | 3 to less than 4 | 1 mL (10 mg) twice daily |
 | 4 to less than 5 | 1.5 mL (15 mg) twice daily |

@@ -45,7 +45,7 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 There are no data on the presence of raltegravir in human milk, the effects on the breastfed infant, or the effects on milk production.
-When administered to lactating rats, raltegravir was present in milk [see Data].
+When administered to lactating rats, raltegravir was present in milk (see Data).
 Because of the potential for: 1) HIV transmission (in HIV-negative infants), 2) developing viral resistance (in HIV-positive infants), and 3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving ISENTRESS/ISENTRESS HD.
 
 Data
@@ -65,7 +65,7 @@ HIV-1 Exposed Neonates
 
 The safety and pharmacokinetics of ISENTRESS for oral suspension were evaluated in 42 full-term HIV-1 exposed neonates at high risk of acquiring HIV-1 infection in a Phase 1, open-label, multicenter clinical study, IMPAACT P1110.
 Cohort 1 neonates received 2 single doses of ISENTRESS for oral suspension: the first within 48 hours of birth and the second at 7 to 10 days of age.
-Cohort 2 neonates received daily dosing of ISENTRESS for oral suspension for 6 weeks: 1.5 mg/kg once daily starting within 48 hours of birth through Day 7 (week 1); 3 mg/kg twice daily on Days 8 to 28 of age (weeks 2 to 4); and 6 mg/kg twice daily on Days 29 to 42 of age (weeks 5 and 6).
+Cohort 2 neonates received daily dosing of ISENTRESS for oral suspension for 6 weeks: 1.5 mg/kg once daily starting within 48 hours of birth through day 7 (week 1); 3 mg/kg twice daily on days 8 to 28 of age (weeks 2 to 4); and 6 mg/kg twice daily on days 29 to 42 of age (weeks 5 and 6).
 Sixteen neonates were enrolled in Cohort 1 (10 were exposed and 6 were unexposed to raltegravir in utero) and 26 in Cohort 2 (all unexposed to raltegravir in utero); all infants received a standard of care antiretroviral drug regimen for prevention of mother to child transmission.
 All enrolled neonates were followed for safety for a duration of 24 weeks.
 The 42 infants were 52% male, 69% Black and 12% Caucasian.
@@ -77,7 +77,7 @@ ISENTRESS is not recommended in pre-term neonates or in pediatric patients weigh
 ISENTRESS HD
 
 ISENTRESS HD once daily has not been studied in pediatric patients.
-However population PK modeling and simulation support the use of 1,200 mg (2 × 600 mg) once daily in pediatric patients weighing at least 40 kg [see Clinical Pharmacology (12.3)].
+However population PK modeling and simulation support the use of 1200 mg (2 × 600 mg) once daily in pediatric patients weighing at least 40 kg [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

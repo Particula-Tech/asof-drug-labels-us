@@ -24,7 +24,7 @@ STARTMRK is a Phase 3 randomized, international, double-blind, active-controlled
 Randomization was stratified by screening HIV-1 RNA level (≤50,000 copies/mL; or >50,000 copies/mL) and by hepatitis status.
 In STARTMRK, 563 subjects were randomized and received at least 1 dose of either raltegravir 400 mg twice daily or efavirenz 600 mg at bedtime, both in combination with emtricitabine (+) tenofovir disoproxil fumarate.
 There were 563 subjects included in the efficacy and safety analyses.
-At baseline, the median age of subjects was 37 years (range 19-71), 19% female, 58% non-white, 6% had hepatitis B and/or C virus co-infection, 20% were CDC Class C (AIDS), 53% had HIV-1 RNA greater than 100,000 copies per mL, and 47% had CD4+ cell count less than 200 cells per mm3; the frequencies of these baseline characteristics were similar between treatment groups.
+At baseline, the median age of subjects was 37 years (range: 19-71), 19% female, 58% non-white, 6% had hepatitis B and/or C virus co-infection, 20% were CDC Class C (AIDS), 53% had HIV-1 RNA greater than 100,000 copies per mL, and 47% had CD4+ cell count less than 200 cells per mm3; the frequencies of these baseline characteristics were similar between treatment groups.
 
 ONCEMRK (ISENTRESS HD 1200 mg [2 × 600 mg] once daily)
 
@@ -33,7 +33,7 @@ Randomization was stratified by screening HIV-1 RNA level (≤100,000 or >100,00
 
 In ONCEMRK, 797 subjects were randomized and received at least 1 dose of either raltegravir 1200 mg once daily or raltegravir 400 mg twice daily, both in combination with emtricitabine (+) tenofovir disoproxil fumarate.
 There were 797 subjects included in the efficacy and safety analyses.
-At baseline, the median age of subjects was 34 years (range 18-84), 15% female, 41% non-white, 3% had hepatitis B and/or C virus co-infection, 13% were CDC Class C (AIDS), 28% had HIV-1 RNA greater than 100,000 copies per mL, and 13% had CD4+ cell count less than 200 cells per mm3; the frequencies of these baseline characteristics were similar between treatment groups.
+At baseline, the median age of subjects was 34 years (range: 18-84), 15% female, 41% non-white, 3% had hepatitis B and/or C virus co-infection, 13% were CDC Class C (AIDS), 28% had HIV-1 RNA greater than 100,000 copies per mL, and 13% had CD4+ cell count less than 200 cells per mm3; the frequencies of these baseline characteristics were similar between treatment groups.
 
 Table 19 shows the virologic outcomes in both studies.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing duration of follow-up.
@@ -48,7 +48,7 @@ Table 19: Virologic Outcomes of Randomized Treatment in STARTMRK and ONCEMRK (Sn
 | HIV RNA ≥ Lower Limit of Quantitation | 8% | 15% | 9% | 8% |
 | No Virologic Data at Analysis Timepoint | 26% | 26% | 9% | 12% |
 | Reasons |  |  |  |  |
-| Discontinued trial due to AE or DeathIncludes subjects who discontinued because of adverse event (AE) or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 10% | 1% | 3% |
+| Discontinued trial due to AE or DeathIncludes subjects who discontinued because of adverse event (AE) or death at any time point from day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 10% | 1% | 3% |
 | Discontinued trial for Other ReasonsOther Reasons includes: lost to follow-up, moved, non-compliance with study drug, physician decision, pregnancy, withdrawal by subject. | 15% | 14% | 7% | 8% |
 | On trial but missing data at timepoint | 6% | 2% | 1% | 2% |
 | Notes: ISENTRESS BID, ISENTRESS HD and Efavirenz were administered with emtricitabine (+) tenofovir disoproxil fumarate |  |  |  |  |
@@ -133,7 +133,7 @@ Table 22: Virologic Outcomes of Randomized Treatment of BENCHMRK 1 and BENCHMRK 
 | Virologic FailureIncludes subjects who switched to open-label raltegravir after Week 16 due to the protocol-defined virologic failure, subjects who discontinued prior to Week 96 for lack of efficacy, subjects changed OBT due to lack of efficacy prior to Week 96, or subjects who were ≥50 copies in the 96 week window. | 35% | 66% |
 | No virologic data at Week 96 Window |  |  |
 | Reasons |  |  |
-| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or death at any time point from Day 1 through the Week 96 window if this resulted in no virologic data on treatment during the Week 96 window. | 3% | 3% |
+| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or death at any time point from day 1 through the Week 96 window if this resulted in no virologic data on treatment during the Week 96 window. | 3% | 3% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 4% | 4% |
 | Missing data during window but on study | 4% | <1% |
 
@@ -174,8 +174,8 @@ Clinical and laboratory adverse events occurred at similar frequencies in the tr
 
 2 to 18 Years of Age
 
-IMPAACT P1066 is a Phase I/II open label multicenter trial to evaluate the pharmacokinetic profile, safety, tolerability, and efficacy of raltegravir in HIV infected children.
-This study enrolled 126 treatment experienced children and adolescents 2 to 18 years of age.
+IMPAACT P1066 is a Phase I/II open-label multicenter trial to evaluate the pharmacokinetic profile, safety, tolerability, and efficacy of raltegravir in HIV infected children.
+This study enrolled 126 treatment-experienced children and adolescents 2 to 18 years of age.
 Subjects were stratified by age, enrolling adolescents first and then successively younger children.
 Subjects were enrolled into cohorts according to age and received the following formulations: Cohort I (12 to less than 18 years old), 400 mg film-coated tablet; Cohort IIa (6 to less than 12 years old), 400 mg film-coated tablet; Cohort IIb (6 to less than 12 years old), chewable tablet; Cohort III (2 to less than 6 years), chewable tablet.
 Raltegravir was administered with an optimized background regimen.
@@ -185,7 +185,7 @@ Dose selection was based upon achieving similar raltegravir plasma exposure and 
 After dose selection, additional subjects were enrolled for evaluation of long term safety, tolerability and efficacy.
 Of the 126 subjects, 96 received the recommended dose of ISENTRESS [see Dosage and Administration (2.3)].
 
-These 96 subjects had a median age of 13 (range 2 to 18) years, were 51% Female, 34% Caucasian, and 59% Black.
+These 96 subjects had a median age of 13 (range: 2 to 18) years, were 51% female, 34% Caucasian, and 59% Black.
 At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies/mL, median CD4 cell count was 481 cells/mm3 (range: 0 – 2361) and median CD4% was 23.3% (range: 0 – 44).
 Overall, 8% had baseline plasma HIV-1 RNA >100,000 copies/mL and 59% had a CDC HIV clinical classification of category B or C. Most subjects had previously used at least one NNRTI (78%) or one PI (83%).
 
@@ -200,7 +200,7 @@ Raltegravir was administered as an oral suspension without regard to food in com
 
 The 26 subjects had a median age of 28 weeks (range: 4 -100), were 35% female, 85% Black and 8% Caucasian.
 At baseline, mean plasma HIV-1 RNA was 5.7 log10 copies/mL (range: 3.1 – 7), median CD4 cell count was 1400 cells/mm3 (range: 131 – 3648) and median CD4% was 18.6% (range: 3.3 – 39.3).
-Overall, 69% had baseline plasma HIV-1 RNA exceeding 100,000 copies/mL and 23% had a CDC HIV clinical classification of category B or C. None of the 26 subjects were completely treatment naïve.
+Overall, 69% had baseline plasma HIV-1 RNA exceeding 100,000 copies/mL and 23% had a CDC HIV clinical classification of category B or C. None of the 26 subjects were completely treatment-naïve.
 All infants under 6 months of age had received nevirapine or zidovudine for prevention of mother-to-infant transmission, and 43% of subjects greater than 6 months of age had received two or more antiretrovirals.
 
 Of the 26 treated subjects, 23 subjects were included in the Week 24 and 48 efficacy analyses, respectively.

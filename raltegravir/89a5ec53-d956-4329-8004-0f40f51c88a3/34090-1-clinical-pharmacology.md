@@ -6,7 +6,7 @@ Raltegravir is an HIV-1 antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a monotherapy study raltegravir (400 mg twice daily) demonstrated rapid antiviral activity with mean viral load reduction of 1.66 log10 copies/mL by Day 10.
+In a monotherapy study raltegravir (400 mg twice daily) demonstrated rapid antiviral activity with mean viral load reduction of 1.66 log10 copies/mL by day 10.
 
 Cardiac Electrophysiology
 
@@ -28,7 +28,7 @@ The chewable tablet and oral suspension have higher oral bioavailability compare
 
 Relative to the raltegravir 400 mg formulation, the raltegravir 600 mg formulation has higher relative bioavailability.
 
-Steady-state is generally reached in 2 days, with little to no accumulation with multiple dose administration for the 400 mg twice daily and 1200 once daily formulation.
+Steady-state is generally reached in 2 days, with little to no accumulation with multiple-dose administration for the 400 mg twice daily and 1200 once daily formulation.
 
 Effect of Food on Oral Absorption
 
@@ -46,9 +46,9 @@ Table 12: Effect of Food on the Pharmacokinetics of Raltegravir Formulations
 |  | High Fat | 1.02 (0.86-1.21) | 0.72 (0.58-0.90) | 0.88 (0.66-1.18) |
 | Chewable tablet | High Fat | 0.94 (0.78-1.14) | 0.38 (0.28-0.52) | 2.88 (2.21-3.75) |
 | Oral suspension | The effect of food on oral suspension was not studied. |  |  |  |
-| Low-fat meal: 300 Kcal, 2.5 g fat |  |  |  |  |
-| Moderate-fat meal: 600 Kcal, 21 g fat |  |  |  |  |
-| High-fat meal: 825 Kcal, 52 g fat |  |  |  |  |
+| Low fat meal: 300 Kcal, 2.5 g fat |  |  |  |  |
+| Moderate fat meal: 600 Kcal, 21 g fat |  |  |  |  |
+| High fat meal: 825 Kcal, 52 g fat |  |  |  |  |
 
 Distribution
 
@@ -72,9 +72,9 @@ Table 13: Multiple-Dose Pharmacokinetic Parameters of Raltegravir Following the 
 
 | Parameter | 400 mg BID Geometric Mean (%CV) N=6 | 1200 mg QD Geometric Mean (%CV) N=524 |
 | --- | --- | --- |
-| AUC (µM∙hr) | AUC0-12= 14.3 (88.6) | AUC0-24 = 55.3 (41.5) |
+| AUC (µM∙hr) | AUC0-12hr= 14.3 (88.6) | AUC0-24hr = 55.3 (41.5) |
 | Cmax (µM) | 4.5 (128) | 15.7 (45.8) |
-| Cmin (nM) | C12 = 142 (63.8) | C24 = 107 (97.5) |
+| Cmin (nM) | C12hr = 142 (63.8) | C24hr = 107 (97.5) |
 
 Special Populations
 
@@ -93,7 +93,7 @@ Pediatric patients above 25 kg administered the chewable tablets had lower troug
 As a result, the 400 mg film-coated tablet is the recommended dose in patients weighing at least 25 kg; however, the chewable tablet offers an alternative regimen in patients weighing at least 25 kg who are unable to swallow the film-coated tablet [see Dosage and Administration (2.3)].
 In addition, pediatric patients weighing 11 to 25 kg who were administered the chewable tablets had the lowest trough concentrations (82 nM) compared to all other pediatric subgroups.
 
-Table 14: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Twice-Daily Doses
+Table 14: Raltegravir Steady-State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Twice Daily Doses
 
 | Body Weight | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
@@ -210,10 +210,10 @@ No antagonism was observed when human T-lymphoid cells infected with the H9IIIB 
 Resistance
 
 The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, Q95K/R, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
-E92Q, T97A, and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
+E92Q, T97A, and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir treatment-failure subjects.
 
 Treatment-Naïve Adult Subjects: By Week 240 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 12 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
-By Week 96 in the ONCEMRK trial, primary raltegravir resistance substitutions were observed in on treatment isolates obtained from 4 (3 with N155H and 1 with E92Q) of 14 virologic failure subjects with evaluable genotypic data in the 1,200 mg QD arm and 2 (1 with N155H and 1 with T97A) of 6 virologic failure subjects in the 400 mg BID arm.
+By Week 96 in the ONCEMRK trial, primary raltegravir resistance substitutions were observed in on treatment isolates obtained from 4 (3 with N155H and 1 with E92Q) of 14 virologic failure subjects with evaluable genotypic data in the 1200 mg QD arm and 2 (1 with N155H and 1 with T97A) of 6 virologic failure subjects in the 400 mg BID arm.
 Additional integrase substitutions observed included L74M, Q95K, V151I, E170A, I203M and D232N.
 These resistant isolates exhibited 6.2- to 19-fold reductions in susceptibility to raltegravir.
 Overall, at Week 96, detection of raltegravir resistance was not different between the QD and BID arms in subjects who were failing treatment and had resistance data evaluable (28.6% versus 33.3%, respectively).
