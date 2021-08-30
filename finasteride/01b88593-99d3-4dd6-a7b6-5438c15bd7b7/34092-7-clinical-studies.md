@@ -48,7 +48,7 @@ At 2 years, an increase in hair growth was demonstrated in 66% of men treated wi
 At 5 years, 48% of men treated with finasteride demonstrated an increase in hair growth, 42% were rated as having no change (no further visible progression of hair loss from baseline) and 10% were rated as having lost hair when compared to baseline.
 In comparison, 6% of men treated with placebo demonstrated an increase in hair growth, 19% were rated as having no change and 75% were rated as having lost hair when compared to baseline.
 A 48-week, placebo-controlled study designed to assess by phototrichogram the effect of finasteride on total and actively growing (anagen) scalp hairs in vertex baldness enrolled 212 men with androgenetic alopecia.
-At baseline and 48 weeks, total and anagen hair counts were obtained in a 1-cm2 target area of the scalp.
+At baseline and 48 weeks, total and anagen hair counts were obtained in a 1 cm2 target area of the scalp.
 Men treated with finasteride showed increases from baseline in total and anagen hair counts of 7 hairs and 18 hairs, respectively, whereas men treated with placebo had decreases of 10 hairs and 9 hairs, respectively.
 These changes in hair counts resulted in a between-group difference of 17 hairs in total hair count (p<0.001) and 27 hairs in anagen hair count (p<0.001), and an improvement in the proportion of anagen hairs from 62% at baseline to 68% for men treated with finasteride.
 Other Results in Vertex Baldness Studies A sexual function questionnaire was self-administered by patients participating in the two vertex baldness trials to detect more subtle changes in sexual function.
