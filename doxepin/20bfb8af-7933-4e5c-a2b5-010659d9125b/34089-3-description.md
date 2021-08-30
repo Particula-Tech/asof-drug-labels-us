@@ -15,4 +15,4 @@ In addition, the 75 mg and 100 mg hard gelatin capsule shells contain FD&C Green
 
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
-USP dissolution test is pending.
+Meets USP Dissolution Test 2.
