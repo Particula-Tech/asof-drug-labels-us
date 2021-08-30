@@ -126,11 +126,15 @@ Do not take SARAFEM if you:
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. ○ Do not take an MAOI within 5 weeks of stopping SARAFEM unless directed to do so by your healthcare provider. ○ Do not start SARAFEM if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 
 Women who take SARAFEM close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out)
+Get medical help right away if you have any of these symptoms:
 
-- take Mellaril® (thioridazine).
-  Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death.
-- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- high fever
+- uncontrolled muscle spasms
+- stiff muscles
+- rapid changes in heart rate or blood pressure
+- confusion
+- loss of consciousness (pass out) • take Mellaril® (thioridazine).
+  Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death. • take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 
 What should I tell my healthcare provider before taking SARAFEM?
 Ask if you are not sure.
@@ -138,7 +142,6 @@ Ask if you are not sure.
 Before starting SARAFEM, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as: ○ Triptans used to treat migraine headache ○ Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, amphetamines, SSRIs, SNRIs, MAOIs or antipsychotics ○ Tramadol and fentanyl ○ Over-the-counter supplements such as tryptophan or St. John’s Wort ○ Electroconvulsive therapy (ECT)
-
 - have liver problems
 - have kidney problems
 - have heart problems
