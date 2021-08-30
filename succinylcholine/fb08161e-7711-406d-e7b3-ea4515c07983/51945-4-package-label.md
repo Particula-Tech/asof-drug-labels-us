@@ -24,13 +24,13 @@ NDC 0409-6629-02 Contains 25 of NDC 0409-6629-12
 
 SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
-QUELICIN™ 200 mg/10 mL (20 mg/mL)
-
 Rx only
+
+QUELICIN™ 200 mg/10 mL (20 mg/mL)
 
 WARNING: Paralyzing Agent
 
-Store in refrigerator 2° to 8°C (36°to 46°F).
+Store in refrigerator 2° to 8°C (36° to 46°F).
 
 Hospira
 

@@ -1,22 +1,15 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-QUELICIN™ (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
+QUELICIN (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-6970-10 | 1,000 mg/10 mL |
-| Tray containing 25 Single-dose Fliptop Vials | (100 mg/mL) |
-| NDC-0409-6629-02 | 200 mg/10 mL |
-| Tray containing 25 Multi-dose Fliptop Vials | (20 mg/mL) |
+| NDC 0409-6970-10 Tray containing 25 Single-dose Fliptop Vials | 1,000 mg/10 mL (100 mg/mL) |
+| NDC 0409-6629-02 Tray containing 25 Multiple-dose Fliptop Vials | 200 mg/10 mL (20 mg/mL) |
 
-Refrigeration of the undiluted agent will assure full potency until expiration date.
-All units carry a date of expiration.
+Refrigeration of undiluted QUELICIN will assure full potency until expiration date.
 
-Store in refrigerator 2° to 8°C (36° to 46°F).
-The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
+Single-dose Fliptop Vials: Discard unused portion.
 
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1246-3.0
-
-Revised: 2/2019
+Store in refrigerator 2 °C to 8 °C (36 °F to 46 °F).
+The multiple-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
