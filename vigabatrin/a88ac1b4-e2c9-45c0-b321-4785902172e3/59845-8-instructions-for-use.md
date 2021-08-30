@@ -4,7 +4,7 @@ SABRIL®(SAY-bril)
 
 (vigabatrin)
 
-Powder for oral solution
+for oral solution
 
 Read this Instructions for Use before your child starts taking SABRIL and each time you get a refill.
 There may be new information.
@@ -13,9 +13,10 @@ Talk to your healthcare provider if you have any questions about the right dose 
 
 Important Note:
 
-- SABRIL comes in a packet
-- Each packet contains 500 mg of SABRIL powder
-- SABRIL powder must be mixed with water only.The water may be cold or at room temperature.
+- SABRIL for oral solution comes in a packet
+- Each packet contains 500 mg of SABRIL as a powder
+- The SABRIL powder must be mixed with water only.
+  The water may be cold or at room temperature.
 - Your healthcare provider will tell you:
   - how many packets of SABRIL you will need for each dose
   - how many milliliters (mL) of water to use to mix one dose of SABRIL
@@ -60,7 +61,8 @@ To do this, put the tip of the oral syringe all the way into the water in your c
 Then pull the plunger up towards you until the edge of the plunger is at the 10 mL line on the barrel of the oral syringe (see Figure C).
 
 - If you see bubbles of air in the oral syringe after drawing up the water, turn the oral syringe so the tip is pointing up (see Figure D). The air will move to the top of the oral syringe.
-  Pull the plunger back towards you and then push it back gently into the oral syringe to get rid of the bubbles.Tiny bubbles are normal.
+  Pull the plunger back towards you and then push it back gently into the oral syringe to get rid of the bubbles.
+  Tiny bubbles are normal.
 
 Step 7: Check the oral syringe to make sure it is filled with water up to the 10 mL line (see Figure E).
 
@@ -103,4 +105,4 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 SABRIL is a registered trademark of Lundbeck
 
-Revised: 1/2020
+Revised: 4/2021
