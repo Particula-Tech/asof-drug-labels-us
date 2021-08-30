@@ -10,4 +10,5 @@ The active pharmacological ingredient in TESTIM is testosterone.
 Testosterone USP is a white to practically white crystalline powder chemically described as 17-β hydroxyandrost-4-en-3-one.
 The structural formula is shown in the following figure:
 
+Testim may have an alcoholic/musk odor.
 Inactive ingredients in TESTIM are purified water, pentadecalactone, carbopol, acrylates, propylene glycol, glycerin, polyethylene glycol, ethanol (74%), and tromethamine.
