@@ -34,7 +34,7 @@ However, due to first pass metabolism the mean absolute bioavailability of dexme
 Figure 1.
 Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-Release (n = 24) Capsules and 2 x 10 mg Dexmethylphenidate Hydrochloride Immediate-Release Tablets (n = 25)
 
-After single dose administration, dexmethylphenidate hydrochloride extended-release demonstrated dose proportional PK in the range of 5 mg to 40 mg.
+After single dose administration, dexmethylphenidate hydrochloride extended-release demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
 
 For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
 
@@ -76,9 +76,9 @@ There is insufficient experience with the use of dexmethylphenidate hydrochlorid
 Pediatric Patients
 
 The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride extended-release capsule administration have not been studied in pediatrics less than 18 years of age.
-When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
+When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age, and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
 After administration of the same dose to pediatric patients and adults, concentrations in pediatric patients were approximately twice the concentrations observed in adults.
-This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e. clearance and volume of distribution) are observed after normalization to dose and weight.
+This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e., clearance and volume of distribution) are observed after normalization to dose and weight.
 
 Patients with Renal Impairment
 

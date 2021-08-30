@@ -9,20 +9,20 @@ The following are discussed in more detail in other sections of the labeling:
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release in Pediatric Patients with ADHD
+Clinical Trials Experience With Dexmethylphenidate Hydrochloride Extended-Release in Pediatric Patients With ADHD
 
 The safety data in this section is based on data from a 7-week controlled clinical study of dexmethylphenidate hydrochloride extended-release in 100 (103 randomized) pediatric patients with ADHD ages 6 to 17 years (ages 6 to 12, n = 86; ages 13 to 17, n = 17).
 
-This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of dexmethylphenidate hydrochloride extended-release capsules 5 mg/day to 30 mg/day who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
+This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of dexmethylphenidate hydrochloride extended-release capsules 5 mg/day to 30 mg/day who met The Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria for ADHD [see Clinical Studies (14.1)].
 
-Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache and anxiety.
+Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache, and anxiety.
 
 Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
@@ -30,27 +30,26 @@ The most common reasons for discontinuation were twitching (described as motor o
 Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release doses of 5 mg/day to 30 mg/day.
 The table includes only those events that occurred in 5% or more of patients treated with dexmethylphenidate hydrochloride extended-release and for which the incidence in patients treated with dexmethylphenidate hydrochloride extended-release was at least twice the incidence in placebo-treated patients.
 
-Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
+Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) With ADHD
 
 | System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release N=53 | Placebo N=47 |
 | --- | --- | --- |
 | Gastrointestinal Disorders | 38% | 19% |
 | Dyspepsia | 8% | 4% |
 | Metabolism and Nutrition Disorders | 34% | 11% |
-| Decreased Appetite | 30% | 9% |
+| Decreased appetite | 30% | 9% |
 | Nervous System Disorders | 30% | 13% |
 | Headache | 25% | 11% |
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
-
-Abbreviation: ADHD, attention deficit hyperactivity disorder.
+| Abbreviation: ADHD, attention deficit hyperactivity disorder. |  |  |
 
 Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking dexmethylphenidate hydrochloride extended-release up to 30 mg daily versus placebo.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride extended-release for which the incidence was at least 5% and greater than the incidence among placebo-treated patients.
 
-Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
+Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) With ADHD
 
-| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 10 mg/d N=64 | Dexmethylphenidate Hydrochloride Extended-Release 20 mg/d N=60 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg/d N=58 | Placebo N=63 |
+| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 10 mg/day N=64 | Dexmethylphenidate Hydrochloride Extended-Release 20 mg/day N=60 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg/day N=58 | Placebo N=63 |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal Disorders | 22% | 23% | 29% | 24% |
 | Vomiting | 2% | 8% | 9% | 0% |
@@ -59,20 +58,19 @@ Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of 
 | Psychiatric Disorders | 19% | 20% | 38% | 8% |
 | Insomnia | 5% | 8% | 17% | 3% |
 | Depression | 0% | 0% | 3% | 0% |
-| Mood Swings | 0% | 0% | 3% | 2% |
+| Mood swings | 0% | 0% | 3% | 2% |
 | Other Adverse Reactions |  |  |  |  |
 | Irritability | 0% | 2% | 5% | 0% |
-| Nasal Congestion | 0% | 0% | 5% | 0% |
+| Nasal congestion | 0% | 0% | 5% | 0% |
 | Pruritus | 0% | 0% | 3% | 0% |
+| Abbreviation: ADHD, attention deficit hyperactivity disorder. |  |  |  |  |
 
-Abbreviation: ADHD, attention deficit hyperactivity disorder.
-
-Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release in Adult Patients with ADHD
+Clinical Trials Experience With Dexmethylphenidate Hydrochloride Extended-Release in Adult Patients With ADHD
 
 The safety data in this section is based on data from a 5-week controlled clinical study of dexmethylphenidate hydrochloride extended-release in 218 adult patients (221 randomized) with ADHD ages 18 to 60 years.
 In this study, 101 adult patients were treated for at least 6 months.
 
-This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy, safety, and tolerability of dexmethylphenidate hydrochloride extended-release 20 mg, 30 mg, or 40 mg daily who met DSM-IV criteria for ADHD [see Clinical Studies (14.3)].
+This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy, safety, and tolerability of dexmethylphenidate hydrochloride extended-release 20 mg, 30 mg, or 40 mg daily who met DSM-IV criteria for ADHD [see Clinical Studies (14.2)].
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dry mouth, dyspepsia, headache, anxiety, and pharyngolaryngeal pain.
 
@@ -82,19 +80,19 @@ Three patients (1.8%) in the dexmethylphenidate hydrochloride extended-release d
 Table 3 enumerates adverse reactions for the placebo-controlled, parallel-group study in adults with ADHD at fixed dexmethylphenidate hydrochloride extended-release doses of 20 mg/day, 30 mg/day, and 40 mg/day.
 The table includes only those events that occurred in 5% or more of patients in a dexmethylphenidate hydrochloride extended-release dose group and for which the incidences in patients treated with dexmethylphenidate hydrochloride extended-release appeared to increase with dose.
 
-Table 3: Dose-Related Adverse Reactions in Adult Patients (18 to 60 years of age) with ADHD
+Table 3: Dose-Related Adverse Reactions in Adult Patients (18 to 60 years of age) With ADHD
 
 | System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 20 mg N=57 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg N=54 | Dexmethylphenidate Hydrochloride Extended-Release 40 mg N=54 | Placebo N=53 |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal Disorders | 28% | 32% | 44% | 19% |
-| Dry Mouth | 7% | 20% | 20% | 4% |
+| Dry mouth | 7% | 20% | 20% | 4% |
 | Dyspepsia | 5% | 9% | 9% | 2% |
 | Nervous System Disorders | 37% | 39% | 50% | 28% |
 | Headache | 26% | 30% | 39% | 19% |
 | Psychiatric Disorders | 40% | 43% | 46% | 30% |
 | Anxiety | 5% | 11% | 11% | 2% |
 | Respiratory, Thoracic and Mediastinal Disorders | 16% | 9% | 15% | 8% |
-| Pharyngolaryngeal Pain | 4% | 4% | 7% | 2% |
+| Pharyngolaryngeal pain | 4% | 4% | 7% | 2% |
 
 Two other adverse reactions occurring in clinical trials with dexmethylphenidate hydrochloride extended-release at a frequency greater than placebo, but which were not dose related were: feeling jittery (12% and 2%, respectively) and dizziness (6% and 2%, respectively).
 
@@ -108,7 +106,7 @@ Table 4: Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose Durin
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
 | Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following additional adverse reactions have been identified during post approval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -117,7 +115,7 @@ Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
+Adverse Reactions Reported With All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
 
 The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
@@ -132,13 +130,13 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
 Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Respiratory, Thoracic and Mediastinal Disorders: cough
+Respiratory, Thoracic, and Mediastinal Disorders: cough
 
 Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
@@ -150,15 +148,15 @@ Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhab
 
 Investigations: weight loss (adult ADHD patients)
 
-Additional Adverse Reactions Reported with Other Methylphenidate Products
+Additional Adverse Reactions Reported With Other Methylphenidate Products
 
-The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
+The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling, bullous conditions, eruptions, exanthemas
 
-Psychiatric Disorders: affect lability, mania, disorientation, libido changes,
+Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
 Nervous System Disorders: migraine
 
@@ -168,13 +166,13 @@ Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, ext
 
 Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
 Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 

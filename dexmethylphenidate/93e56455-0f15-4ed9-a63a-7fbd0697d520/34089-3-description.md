@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dexmethylphenidate hydrochloride extended-release capsules contain dexmethylphenidate hydrochloride, a CNS stimulant.
+Dexmethylphenidate hydrochloride extended-release capsules contains dexmethylphenidate hydrochloride, a CNS stimulant.
 Dexmethylphenidate hydrochloride is the d-threo enantiomer of racemic methylphenidate hydrochloride.
 Dexmethylphenidate hydrochloride extended-release capsules are an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
 Each bead-filled dexmethylphenidate hydrochloride extended-release capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of dexmethylphenidate and a delayed-release of dexmethylphenidate.

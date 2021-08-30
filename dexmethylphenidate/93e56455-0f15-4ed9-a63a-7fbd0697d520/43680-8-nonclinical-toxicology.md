@@ -19,7 +19,7 @@ Male and female mice were fed diets containing the same concentrations as in the
 Mutagenesis
 
 Dexmethylphenidate was not mutagenic in the in vitro Ames reverse mutation assay, in the in vitro mouse lymphoma cell forward mutation assay, or in the in vivo mouse bone marrow micronucleus test.
-In an in vitro assay using cultured Chinese Hamster Ovary (CHO) cells treated with racemic methylphenidate, sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response.
+In an in vitro assay using cultured Chinese Hamster Ovary cells treated with racemic methylphenidate, sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response.
 
 Impairment of Fertility
 
