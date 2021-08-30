@@ -19,6 +19,9 @@ Elevated Blood Pressure
 
 Advise patients that they should have regular monitoring of blood pressure when taking desvenlafaxine [see Warnings and Precautions (5.3)].
 
+Sexual Dysfunction Advise patients that use of desvenlafaxine extended-release tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of desvenlafaxine with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
@@ -59,6 +62,5 @@ Residual Inert Matrix Tablet
 
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
-All trademarks are property of their respective owners.
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 USA
