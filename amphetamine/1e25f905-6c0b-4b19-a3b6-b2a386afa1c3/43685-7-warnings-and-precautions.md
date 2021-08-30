@@ -39,7 +39,7 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including EVEKEO ODT.
 
-Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted [Use in Specific Populations (8.4)].
+Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted [see Use in Specific Populations (8.4)].
 
 ## 5.6 Seizures
 

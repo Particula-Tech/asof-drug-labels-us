@@ -26,7 +26,7 @@ Table 1 lists the adverse reactions reported during the double-blind, cross-over
 No patient discontinued the study for an adverse reaction during the double-blind crossover phase.
 Because of the trial design (an initial 8-week, open-label, active treatment phase), the adverse reaction rates described in the double-blind phase are lower than expected in clinical practice.
 
-Table 1: Adverse Reactions Reported in ≥ 2%, and > Placebo, of EVEKEO -Treated Pediatric Patients (6 to 12 Years) During the Double-Blind Cross-Over Weeks.
+Table 1: Adverse Reactions Reported in ≥ 2%, and > Placebo, of EVEKEO-Treated Pediatric Patients (6 to 12 Years) During the Double-Blind Cross-Over Weeks.
 Drug exposures and placebo exposures from cross-over were combined for analysis.
 
 | System Organ Class Preferred Term | EVEKEO (n= 97) | Placebo (n= 97) |
