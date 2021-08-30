@@ -29,7 +29,7 @@ Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
 The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulation.
-As with all insulin preparations, the glucose lowering effect time course of LYUMJEV may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+As with all insulins, the glucose lowering effect time course of LYUMJEV may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
 Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
 Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
@@ -41,7 +41,7 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.4 Hypoglycemia Due to Medication Errors
 
-Accidental mix-ups between basal insulin products and other insulins, particularly rapid-acting insulins, have been reported.
+Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between LYUMJEV and other insulins, instruct patients to always check the insulin label before each injection.
 
 Do not transfer LYUMJEV U-200 from the LYUMJEV KwikPen to a syringe.
@@ -49,13 +49,13 @@ The markings on the insulin syringe will not measure the dose correctly and can 
 
 ## 5.5 Hypokalemia
 
-All insulin products, including LYUMJEV, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+All insulins, including LYUMJEV, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-## 5.6 Hypersensitivity and Allergic Reactions
+## 5.6 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including LYUMJEV [see Adverse Reactions (6.1)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including LYUMJEV [see Adverse Reactions (6.1)].
 If hypersensitivity reactions occur, discontinue LYUMJEV; treat per standard of care and monitor until symptoms and signs resolve.
 LYUMJEV is contraindicated in patients who have had hypersensitivity reactions to insulin lispro-aabc or any of its excipients [see Contraindications (4)].
 
@@ -65,3 +65,10 @@ Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor 
 Fluid retention may lead to or exacerbate heart failure.
 Patients treated with insulin, including LYUMJEV, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
+## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
+
+Pump or infusion set malfunctions can lead to a rapid onset of hyperglycemia and ketoacidosis.
+Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
+Interim therapy with subcutaneous injection of LYUMJEV may be required.
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see Dosage and Administration (2.2), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)].

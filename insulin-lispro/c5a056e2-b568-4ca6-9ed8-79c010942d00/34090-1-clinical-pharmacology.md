@@ -10,9 +10,9 @@ Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 ## 12.2 Pharmacodynamics
 
 The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.
-The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 7, 15, and 30 units of LYUMJEV in 42 healthy subjects is shown in Figure 1 and key characteristics of the timing of the effect are described in Table 5 below.
+The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 7, 15, and 30 units of LYUMJEV in 42 healthy subjects is shown in Figure 1 and key characteristics of the timing of the effect are described in Table 6 below.
 
-Table 5.
+Table 6.
 Timing of Insulin Effect (i.e., Mean Pharmacodynamic Effect) After Subcutaneous Administration of 7, 15, and 30 Units of LYUMJEV in Healthy Subjects (N=42) and Corresponding to the Data Shown in Figure 1
 
 | Parameter for Insulin Effect | LYUMJEV 7 units | LYUMJEV 15 units | LYUMJEV 30 units |

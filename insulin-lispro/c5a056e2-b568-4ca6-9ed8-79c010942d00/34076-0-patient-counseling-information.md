@@ -34,7 +34,26 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with LYUMJEV.
 Inform patients on the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.6)].
 
-Eli Lilly and Company, Indianapolis, IN 46285, USA US License No. 1891 Copyright © 2020, Eli Lilly and Company.
+Instructions for Patients Using Continuous Subcutaneous Infusion (Insulin Pump)
+
+- Do not use LYUMJEV U-200 in an insulin pump.
+- Train patients in intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
+- Instruct patients to follow healthcare provider recommendations when setting pump basal rates and bolus settings.
+- Refer to the continuous subcutaneous infusion pump user manual to see if LYUMJEV can be used with the pump.
+  See recommended reservoir and infusion sets in the insulin pump user manual.
+- Instruct patients to replace insulin in the reservoir at least every 9 days, or according to the pump user manual whichever is shorter.
+  By following this schedule, patients avoid insulin degradation, infusion set occlusion, and loss of the insulin preservative.
+- Instruct patients to discard insulin exposed to temperatures higher than 98.6°F (37°C).
+- Instruct patients to inform healthcare provider and select a new site for infusion if infusion site becomes erythematous, pruritic, or thickened.
+- Instruct patients on the risk of rapid hyperglycemia and ketosis due to pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
+  Instruct patients on the risk of hypoglycemia from pump malfunction.
+  If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their healthcare provider [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
+
+Eli Lilly and Company, Indianapolis, IN 46285, USA
+
+US License No. 1891
+
+Copyright © 2020, 2021, Eli Lilly and Company.
 All rights reserved.
 
-LUM-0001-USPI-20200615
+LUM-0002-USPI-20210813

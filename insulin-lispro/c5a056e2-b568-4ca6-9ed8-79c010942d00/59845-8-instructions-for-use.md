@@ -44,7 +44,7 @@ Preparing your LYUMJEV dose
 | Step 3: Remove the needle shield from the syringe by pulling the needle shield straight off. Hold the syringe with the needle pointing up. Pull down on the plunger until the plunger tip reaches the line for the number of units for your prescribed dose. | (Example Dose: 20 units shown) |
 | Step 4: Push the needle through the rubber stopper of the vial. |  |
 | Step 5: Push the plunger all the way in. This puts air into the vial. |  |
-| Step 6: Turn the vial and syringe upside down and slowly pull the plunger down until the plunger tip is a few units past the line for your prescribed dose. | (Example Dose: 20 units; plunger is shown at 24 units) |
+| Step 6: Turn the vial and syringe upside down and slowly pull the plunger down until the plunger tip is a few units past the line for your prescribed dose. | (Example Dose: 20 units, plunger is shown at 24 units) |
 | If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top. |  |
 | Step 7: Slowly push the plunger up until the plunger tip reaches the line for your prescribed dose. Check the syringe to make sure that you have the right dose. | (Example Dose: 20 units shown) |
 | Step 8: Pull the syringe out of the rubber stopper of the vial. |  |
@@ -59,11 +59,26 @@ Giving your LYUMJEV injection with a syringe
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
-| Step 9: Choose your injection site. LYUMJEV is injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
+| Step 9: Choose your injection site. LYUMJEV is injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs, or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
 | --- | --- |
 | Step 10: Insert the needle into your skin. |  |
 | Step 11: Push down on the plunger to inject your dose. The needle should stay in your skin for at least 5 seconds after pushing down on the plunger to make sure you have injected all of your insulin dose. |  |
 | Step 12: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area. Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
+
+Giving your LYUMJEV using an insulin pump
+
+- If you have been prescribed an insulin pump, check the pump manufacturer's user manual to see if LYUMJEV can be used with the pump.
+- LYUMJEV should be given into an area of your body recommended in the instructions that come with your insulin pump.
+- Change LYUMJEV in the pump reservoir at least every 9 days or according to the pump user manual, whichever is shorter, even if you have not used all of the insulin.
+- Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
+  Do not insert into the exact same spot for each insertion.
+  Do not insert where the skin has pits, is thickened, or has lumps.
+  Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+- Call your healthcare provider and choose a new infusion site if the skin at the infusion site becomes red, itchy, or thickened.
+- Your healthcare provider should provide recommendations for appropriate pump basal and meal-time infusion rates.
+  Call your healthcare provider if you have any questions about using the insulin pump.
+- Do not dilute or mix LYUMJEV with any other type of insulin in your insulin pump.
+- You should be trained on how to give insulin by injection and have an alternative insulin delivery system in case of pump failure.
 
 Disposing of used syringes and needles
 
@@ -98,6 +113,10 @@ After vials have been in-use (opened):
 - Keep vials away from direct heat and light.
 - Throw away all in-use (opened) vials after 28 days of use, even if there is insulin left in the vial.
 
+LYUMJEV in an insulin pump:
+
+- Throw away LYUMJEV in the pump reservoir if it has been exposed to temperatures higher than 98.6°F (37°C).
+
 Keep LYUMJEV vials, syringes, needles and all medicines out of the sight and reach of children.
 
 If you have any questions or problems with your LYUMJEV, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
@@ -107,22 +126,20 @@ Scan this code to launch
 
 www.lyumjev.com
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
 Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 LYUMJEV™ is a trademark of Eli Lilly and Company.
 
-Copyright © 2020, Eli Lilly and Company.
+Copyright © 2020, 2021, Eli Lilly and Company.
 All rights reserved.
 
-Issued: June 2020
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-LUMVL-0001-IFU-20200615
+Revised: August 2021 LUMVL-0002-IFU-20210813
 
 Instructions for Use
 
-LYUMJEV™ KwikPen® (LOOM-jehv)
+LYUMJEV™ KwikPen®(LOOM-jehv)
 
 (insulin lispro-aabc)
 
@@ -305,7 +322,7 @@ LUMKP-0001-IFU-20200615
 
 Instructions for Use
 
-LYUMJEV™ Junior KwikPen® (LOOM-jehv)
+LYUMJEV™ Junior KwikPen®(LOOM-jehv)
 
 (insulin lispro-aabc)
 
@@ -673,7 +690,7 @@ LUMTP-0001-IFU-20200615
 
 Instructions for Use
 
-LYUMJEV™ KwikPen® (LOOM-jehv)
+LYUMJEV™ KwikPen®(LOOM-jehv)
 
 (insulin lispro-aabc)
 

@@ -3,6 +3,7 @@
 ## 14.1 Overview of Clinical Studies
 
 The safety and efficacy of LYUMJEV was evaluated in 2 randomized, active controlled trials of 26 weeks in adult patients with type 1 diabetes (N=780) or type 2 diabetes (N=336).
+The safety and efficacy of LYUMJEV in adults with type 1 diabetes currently using continuous subcutaneous insulin infusion (N=432) was evaluated in a randomized, active controlled 16 week trial.
 
 ## 14.2 Type 1 Diabetes – Adults
 
@@ -14,11 +15,11 @@ Patients had a mean age of 44 years; mean duration of diabetes of 19 years; 56% 
 Eight percent of the randomized patients were Hispanic.
 The mean BMI was 26.6 kg/m2.
 
-At week 26, treatment with mealtime LYUMJEV provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin (0.4%) (see Table 6).
+At week 26, treatment with mealtime LYUMJEV provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin (0.4%) (see Table 7).
 In addition, postmeal LYUMJEV met the prespecified non-inferiority margin (0.4%) compared to mealtime HUMALOG.
 Insulin doses were similar in all treatment groups at baseline and at 26 weeks.
 
-Table 6.
+Table 7.
 Results from Study PRONTO-T1D: 26 Week Trial of Mealtime LYUMJEV and Postmeal LYUMJEV compared with Mealtime HUMALOG, all in Combination with Basal Insulin in Adults with Type 1 Diabetes
 
 |  | Mealtime LYUMJEV + basal insulin | Mealtime HUMALOG + basal insulin | Postmeal LYUMJEV + basal insulin |
@@ -42,10 +43,10 @@ Patients had a mean age of 61 years; mean duration of diabetes of 17 years; 53% 
 Twenty-three percent of the randomized patients were Hispanic.
 The mean BMI was 32.3 kg/m2.
 
-At week 26, treatment with mealtime LYUMJEV provided a mean reduction of HbA1c from baseline that met the pre-specified non-inferiority margin (0.4%) compared to mealtime HUMALOG (see Table 7).
+At week 26, treatment with mealtime LYUMJEV provided a mean reduction of HbA1c from baseline that met the pre-specified non-inferiority margin (0.4%) compared to mealtime HUMALOG (see Table 8).
 Insulin doses were similar in both treatment groups at baseline and at 26 weeks.
 
-Table 7.
+Table 8.
 Results from Study PRONTO-T2D: 26 Week Trial of Mealtime LYUMJEV Compared with Mealtime HUMALOG, both in Combination with Basal Insulin in Adults with Type 2 Diabetes
 
 |  | Mealtime LYUMJEV + basal insulin | Mealtime HUMALOG + basal insulin |
@@ -56,5 +57,32 @@ Results from Study PRONTO-T2D: 26 Week Trial of Mealtime LYUMJEV Compared with M
 | Adjusted mean change from baseline | -0.36 | -0.38 |
 | Estimated treatment difference versus HUMALOG [95% CI]c | 0.03 [-0.08, 0.13] |  |
 | a Analysis population: all randomized subjects regardless of adherence to treatment or availability of post-baseline assessment. Missing data at Week 26 were imputed by return to baseline approach. At week 26, primary efficacy assessment was missing for 4.8% of subjects for mealtime LYUMJEV and for 4.5% mealtime HUMALOG. |  |  |
+| b Least-squares (LS) mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |
+| c Tested for non-inferiority. |  |  |
+
+## 14.4 Type 1 Diabetes – Adults Continuous Subcutaneous Insulin Infusion (CSII)
+
+PRONTO-Pump-2 (NCT03830281) was a 16 week randomized (1:1), active controlled, treat-to-target, multinational trial that evaluated the efficacy of LYUMJEV in 432 patients with type 1 diabetes currently using continuous subcutaneous insulin infusion.
+Patients were randomized to either blinded LYUMJEV (N=215) or blinded HUMALOG (N= 217).
+Mealtime LYUMJEV or HUMALOG boluses were initiated 0 to 2 minutes before the meal.
+
+Patients had a mean age of 46 years; mean duration of diabetes of 26 years; 45% were male; race: 95% White, 3% Black or African American, and 0.5% Asian.
+Eight percent of the randomized patients were Hispanic.
+The mean BMI was 27.1 kg/m2.
+
+At week 16, treatment with LYUMJEV provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin (0.4%) compared to mealtime HUMALOG (see Table 9).
+Total daily insulin doses were similar for both treatment groups at baseline and at 16 weeks.
+
+Table 9.
+Results from Study PRONTO-Pump-2: 16 Week Trial of LYUMJEV compared with HUMALOG in Adults with Type 1 Diabetes
+
+|  | LYUMJEV | HUMALOG |
+| --- | --- | --- |
+| Number of randomized subjects (N) | 215 | 217 |
+| HbA1c (%)a,b |  |  |
+| Baseline mean | 7.6 | 7.5 |
+| Adjusted mean change from baseline | -0.06 | -0.09 |
+| Estimated treatment difference versus HUMALOG [95% CI]c | 0.03 [-0.05, 0.11] |  |
+| a Analysis population: all randomized subjects regardless of adherence to treatment or availability of post-baseline assessment. Missing data at Week 16 were imputed by return to baseline approach. At week 16, primary efficacy assessment was missing for 7% and 4.6% of subjects, for LYUMJEV and HUMALOG, respectively. |  |  |
 | b Least-squares (LS) mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |
 | c Tested for non-inferiority. |  |  |

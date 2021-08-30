@@ -38,8 +38,6 @@ For Single Patient Use Only
 
 For subcutaneous use
 
-5 x 3 mL prefilled pens
-
 Rx only
 
 For use in Eli Lilly and Company's HumaPen® LUXURA®HD and other compatible insulin delivery devices.

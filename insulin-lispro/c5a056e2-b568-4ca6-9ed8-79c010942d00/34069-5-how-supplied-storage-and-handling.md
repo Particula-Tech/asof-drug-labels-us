@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-LYUMJEV (insulin lispro-aabc) injection is a clear and colorless solution available as shown in Table 8.
+LYUMJEV (insulin lispro-aabc) injection is a clear and colorless solution available as shown in Table 10.
 
-Table 8.
+Table 10.
 How Supplied
 
 | LYUMJEV | NDC Number | Concentration | Total Units in Presentation | Dose Increment | Package Size |
@@ -26,9 +26,9 @@ How Supplied
   Do not expose to direct heat.
   Discard opened or unopened LYUMJEV vials, pens, and cartridges stored at room temperature below 86°F (30°C) after 28 days.
 
-The storage conditions for vials, pens, and cartridges are summarized in Table 9.
+The storage conditions for vials, pens, and cartridges are summarized in Table 11.
 
-Table 9.
+Table 11.
 Storage Conditions for Vials, Pens, and Cartridges
 
 | LYUMJEV Presentation | Not In-use (Unopened) |  | In-use (Opened) |  |
@@ -42,4 +42,11 @@ Storage Conditions for Vials, Pens, and Cartridges
 | a In-use (opened) vials, whether or not refrigerated, must be used within 28 days. |  |  |  |  |
 | b When stored at room temperature, LYUMJEV can only be used for a total of 28 days including both not in-use (unopened) and in-use (opened) storage time. |  |  |  |  |
 
-Diluted LYUMJEV may be stored for up to 4 days when refrigerated at 36°F to 46°F (2°C to 8°C) and up to 12 hours at room temperature at 68°F to 77°F (20°C to 25°C) [see Dosage and Administration (2.2)].
+Storage of LYUMJEV in Insulin Pump
+
+Change the LYUMJEV U-100 in the pump reservoir at least every 9 days, or according to the pump user manual, whichever is shorter, or after exposure to temperatures that exceed 98.6°F (37°C).
+
+Storage of LYUMJEV in Intravenous Infusion Fluids
+
+Diluted LYUMJEV may be stored for up to 4 days when refrigerated at 36°F to 46°F (2°C to 8°C) until time of use.
+The same solution may be stored up to 12 hours at room temperature at 68°F to 77°F (20°C to 25°C) [see Dosage and Administration (2.2)].
