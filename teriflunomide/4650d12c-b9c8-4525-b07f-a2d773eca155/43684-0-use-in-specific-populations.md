@@ -49,7 +49,6 @@ Maternal plasma exposure at the no-effect dose for prenatal and postnatal develo
 In animal reproduction studies of leflunomide, embryolethality and teratogenic effects were observed in pregnant rat and rabbit at or below clinically relevant plasma teriflunomide exposures (AUC).
 In published reproduction studies in pregnant mice, leflunomide was embryolethal and increased the incidence of malformations (craniofacial, axial skeletal, heart and great vessel).
 Supplementation with exogenous uridine reduced the teratogenic effects in pregnant mice, suggesting that the mode of action (inhibition of mitochondrial enzyme dihydroorotate dehydrogenase) is the same for therapeutic efficacy and developmental toxicity.
-
 At recommended doses in humans, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
 
 ## 8.2 Lactation
