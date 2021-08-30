@@ -6,7 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to SABRIL consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The SABRIL dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
+The SABRIL dosing regimen depends on the indication, age group, weight, and dosage form [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
 Monitoring of SABRIL plasma concentrations to optimize therapy is not helpful.
@@ -15,7 +15,7 @@ Administration
 
 SABRIL is given orally with or without food.
 
-SABRIL powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
+SABRIL for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
@@ -102,9 +102,9 @@ height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant):
 
 The effect of dialysis on SABRIL clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
-## 2.5 Preparation and Administration Instructions for SABRIL Powder for Oral Solution
+## 2.5 Preparation and Administration Instructions for SABRIL for oral solution
 
-If using SABRIL powder for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving SABRIL with the patient or caregiver(s).
+If using SABRIL for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving SABRIL with the patient or caregiver(s).
 Physicians should confirm that patients or caregiver(s) understand how to mix SABRIL powder with water and administer the correct daily dose.
 
 Empty the entire contents of each 500 mg packet into a clean cup, and dissolve in 10 mL of cold or room temperature water per packet.

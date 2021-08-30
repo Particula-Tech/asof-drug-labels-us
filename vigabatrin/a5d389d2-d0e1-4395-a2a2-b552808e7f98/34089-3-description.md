@@ -15,6 +15,6 @@ The dissociation constants (pKa) of vigabatrin are 4 and 9.7 at room temperature
 Each SABRIL tablet contains 500 mg of vigabatrin.
 The inactive ingredients are hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycols, povidone, sodium starch glycolate, and titanium dioxide.
 
-SABRIL powder for oral solution is available as white to off-white granular powder for oral administration.
+SABRIL for oral solution is available as a white to off-white granular powder.
 Each packet contains 500 mg of vigabatrin.
 The inactive ingredient is povidone.

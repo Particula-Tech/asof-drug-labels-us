@@ -23,7 +23,7 @@ The adverse reactions most commonly associated with SABRIL treatment discontinua
 
 In patients with infantile spasms, the adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
-Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
+Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per SABRIL-treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
 
 | Table 5. Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex Partial Seizures |  |  |  |
 | --- | --- | --- | --- |

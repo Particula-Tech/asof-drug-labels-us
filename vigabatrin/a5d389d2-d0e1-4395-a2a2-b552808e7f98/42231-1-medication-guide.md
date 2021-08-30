@@ -2,7 +2,7 @@ MEDICATION GUIDE
 
 SABRIL®(SAY-bril) (vigabatrin) Tablets
 
-SABRIL®(SAY-bril) (vigabatrin) Powder for oral solution
+SABRIL®(SAY-bril) (vigabatrin) for oral solution
 
 What is the most important information I should know about SABRIL?
 
@@ -147,7 +147,7 @@ SABRIL and other medicines may affect each other causing side effects.
 
 How should I take SABRIL?
 
-- SABRIL comes as tablets or powder for oral solution.
+- SABRIL comes as tablets or as a powder for mixing oral solution.
 - You or your child will receive SABRIL from a specialty pharmacy.
 - Take SABRIL exactly as your healthcare provider tells you to.
   SABRIL is usually taken 2 times each day.
@@ -163,9 +163,9 @@ How should I take SABRIL?
   Before your child starts taking SABRIL, speak to your child’s healthcare provider about what to do if your baby misses a dose, vomits, spits up, or only takes part of the dose of SABRIL.
 - Do not stop taking SABRIL without talking to your healthcare provider.
   If SABRIL improves your (or your child’s) seizures, you and your healthcare provider should talk about whether the benefit of taking SABRIL is more important than the risk of vision loss, and decide if you (or your child) will continue to take SABRIL.
-- If you are giving SABRIL powder for oral solution to your child, it can be given at the same time as their meal.
-  SABRIL for oral solution powder should be mixed with water only.
-- See “Instructions for Use” for detailed information about how to mix and give SABRIL powder for oral solution to your child the right way.
+- If you are giving SABRIL for oral solution to your child, it can be given at the same time as their meal.
+  SABRIL powder should be mixed with water only.
+- See “Instructions for Use” for detailed information about how to mix and give SABRIL for oral solution to your child the right way.
 
 What should I avoid while taking SABRIL?
 
@@ -247,4 +247,4 @@ SABRIL is a registered trademark of Lundbeck
 For more information, go to www.SABRIL.net or call 1-866-402-8520.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 1/2020
+Revised: 4/2021

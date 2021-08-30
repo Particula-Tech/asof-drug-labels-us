@@ -2,9 +2,9 @@
 
 Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Administration Instructions for SABRIL Powder for Oral Solution
+Administration Instructions for SABRIL for oral solution
 
-Physicians should confirm that caregivers(s) understand how to mix SABRIL for Oral Solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
+Physicians should confirm that caregivers(s) understand how to mix SABRIL for oral solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 
 Permanent Vision Loss Inform patients and caregivers of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions (5.1)].
 
