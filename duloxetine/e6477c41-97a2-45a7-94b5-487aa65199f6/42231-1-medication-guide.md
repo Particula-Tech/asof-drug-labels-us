@@ -71,6 +71,7 @@ Duloxetine is also used to treat or manage:
 
 - Generalized Anxiety Disorder (GAD)
 - Diabetic Peripheral Neuropathic Pain (DPNP)
+- Fibromyalgia (FM)
 - Chronic Musculoskeletal Pain
 
 Who should not take Duloxetine?
@@ -141,7 +142,7 @@ How should I take Duloxetine?
 - If you miss a dose of duloxetine, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of duloxetine at the same time.
-- If you take too much duloxetine, call your healthcare provider or poison control center at 1800-222-1222 right away, or get emergency treatment.
+- If you take too much duloxetine, call your healthcare provider or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - When switching from another antidepressant to duloxetine your healthcare provider may want to lower the dose of the initial antidepressant first to potentially avoid side effects.
 
 What should I avoid while taking Duloxetine?
@@ -173,7 +174,7 @@ Duloxetine may:
 
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine or when increasing the dose.
-- Increase risk of falls, especially in elderly.
+- increase risk of falls, especially in elderly.
 
 3.
 Serotonin Syndrome: This condition can be life-threatening and symptoms may include:
@@ -269,7 +270,7 @@ These are not all the possible side effects of duloxetine.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to 1800-FDA-1088.
+You may report side effects to 1-800-FDA-1088.
 
 How should I store Duloxetine Delayed-Release Capsules USP?
 
@@ -314,4 +315,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: December, 2019 PT2473-02
+Revised: October, 2020
