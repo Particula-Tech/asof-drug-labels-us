@@ -21,7 +21,7 @@ Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of
 
 Liver: Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
 
-Renal: Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+Renal: Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed (See WARNINGS).
 
 Hematopoietic: Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.

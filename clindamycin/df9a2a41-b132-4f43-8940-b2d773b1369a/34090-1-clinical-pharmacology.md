@@ -32,6 +32,7 @@ Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the fe
 
 Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
+Dosage schedules do not need to be modified in patients with renal disease.
 
 #### Elderly Patients
 
