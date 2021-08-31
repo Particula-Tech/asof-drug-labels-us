@@ -176,7 +176,7 @@ Table 10: Alfuzosin (10 mg/day) Study: Mean Maximal Decrease (95% CI) in Systoli
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure (mm Hg) | Tadalafil 20 mg |
 | --- | --- |
-| Supine | 2.2 (-0.9, -5.2) |
+| Supine | 2.2 (-0.9,-5.2) |
 | Standing | 4.4 (-0.2, 8.9) |
 
 Blood pressure was measured manually at 1, 2, 3, 4, 6, 8, 10, 20, and 24 hours after tadalafil or placebo dosing.

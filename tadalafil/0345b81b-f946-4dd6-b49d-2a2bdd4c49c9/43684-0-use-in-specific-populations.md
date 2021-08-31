@@ -37,13 +37,11 @@ Based on studies in animals, a decrease in spermatogenesis was observed in dogs,
 
 Tadalafil is not indicated for use in pediatric patients.
 Safety and efficacy in patients below the age of 18 years have not been established.
+A randomized, double-blind, placebo-controlled trial in pediatric patients (7 to 14 years of age) with Duchenne muscular dystrophy, who received tadalafil 0.3 mg/kg, tadalafil 0.6 mg/kg, or placebo daily for 48 weeks failed to demonstrate any benefit of treatment with tadalafil on a range of assessments of muscle strength and performance.
 Juvenile Animal Study
 
 No adverse effects were observed in a study in which tadalafil was administered orally at doses of 60, 200, and 1000 mg/kg/day to juvenile rats on postnatal days 14 to 90.
 The highest plasma tadalafil exposures (AUC) achieved were approximately 10-fold that observed at the MRHD.
-
-Additional information describing a clinical study in which efficacy was not demonstrated is approved for Eli Lilly and Company’s CIALIS (tadalafil) tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
