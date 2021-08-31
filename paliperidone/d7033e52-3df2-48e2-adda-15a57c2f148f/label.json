@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA212807"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-222-01",
+    "27808-223-01",
+    "27808-224-01",
+    "27808-225-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "Paliperidone"
+    }
+  ],
+  "setid": "d7033e52-3df2-48e2-adda-15a57c2f148f",
+  "source": "dailymed"
+}
