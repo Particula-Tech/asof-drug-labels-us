@@ -57,9 +57,10 @@ Animal Data: Subcutaneous administration of tritiated fluticasone propionate at 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of FLOVENT HFA in children aged 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-The safety and effectiveness of FLOVENT HFA in children younger than 4 years have not been established.
+The safety and effectiveness of FLOVENT HFA in pediatric patients aged 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 Use of FLOVENT HFA in patients aged 4 to 11 years is supported by evidence from adequate and well-controlled trials in adults and adolescents aged 12 years and older, pharmacokinetic trials in patients aged 4 to 11 years, established efficacy of fluticasone propionate formulated as FLOVENT DISKUS (fluticasone propionate inhalation powder) and FLOVENT ROTADISK (fluticasone propionate inhalation powder) in patients aged 4 to 11 years, and supportive findings with FLOVENT HFA in a trial conducted in subjects aged 4 to 11 years.
+
+The safety and effectiveness of FLOVENT HFA in pediatric patients younger than 4 years have not been established.
 
 Effects on Growth
 
@@ -86,7 +87,7 @@ A separate subset analysis of children who remained prepubertal during the trial
 In children aged 8.5 years, the mean age of children in this trial, the range for expected growth velocity is: boys – 3rd percentile = 3.8 cm/year, 50th percentile = 5.4 cm/year, and 97th percentile = 7.0 cm/year; girls – 3rd percentile = 4.2 cm/year, 50th percentile = 5.7 cm/year, and 97th percentile = 7.3 cm/year.
 The clinical relevance of these growth data is not certain.
 
-Children Younger than 4 Years
+Pediatric Patients Younger than 4 Years
 
 Pharmacokinetics: [see Clinical Pharmacology (12.3)].
 

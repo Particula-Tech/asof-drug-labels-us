@@ -49,17 +49,15 @@ The volume of distribution averaged 4.2 L/kg.
 The percentage of fluticasone propionate bound to human plasma proteins averages 99%.
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not significantly bound to human transcortin.
 
-Metabolism
-
-The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
-The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
-This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
-Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
-
 Elimination
 
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
+
+Metabolism: The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
+This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
+Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
 Specific Populations
 

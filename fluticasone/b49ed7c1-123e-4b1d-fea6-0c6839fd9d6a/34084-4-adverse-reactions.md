@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-Systemic and local corticosteroid use may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Candida albicans infection [see Warnings and Precautions (5.1)]
-- •Immunosuppression [see Warnings and Precautions (5.3)]
+- •Oropharyngeal candidiasis infection [see Warnings and Precautions (5.1)]
+- •Immunosuppression and risk of infections [see Warnings and Precautions (5.3)]
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
 - •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
 - •Growth effects [see Warnings and Precautions (5.8)]

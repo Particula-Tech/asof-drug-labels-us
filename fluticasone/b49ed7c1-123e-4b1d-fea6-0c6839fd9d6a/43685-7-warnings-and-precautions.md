@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Effects of Inhaled Corticosteroids
+## 5.1 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with FLOVENT HFA.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with FLOVENT HFA continues, but at times therapy with FLOVENT HFA may need to be interrupted.
@@ -12,7 +12,7 @@ FLOVENT HFA is not to be regarded as a bronchodilator and is not indicated for r
 Patients should be instructed to contact their physicians immediately when episodes of asthma that are not responsive to bronchodilators occur during the course of treatment with FLOVENT HFA.
 During such episodes, patients may require therapy with oral corticosteroids.
 
-## 5.3 Immunosuppression
+## 5.3 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
@@ -27,6 +27,8 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
+
+HPA Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
@@ -43,7 +45,11 @@ Prednisone reduction can be accomplished by reducing the daily prednisone dose b
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to FLOVENT HFA may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
@@ -60,7 +66,7 @@ Particular care should be taken in observing patients postoperatively or during 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects.
 If such effects occur, FLOVENT HFA should be reduced slowly, consistent with accepted procedures for reducing systemic corticosteroids, and other treatments for management of asthma symptoms should be considered.
 
-## 5.6 Immediate Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions, including Anaphylaxis
 
 Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of FLOVENT HFA [see Contraindications (4)].
 

@@ -16,3 +16,4 @@ The actual amount of drug delivered to the lung will depend on patient factors, 
 
 Prime FLOVENT HFA before using for the first time by releasing 4 sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well for 5 seconds and releasing 1 spray into the air away from the face.
+Avoid spraying in eyes.
