@@ -49,7 +49,7 @@ In the geriatric patients, the treatment difference for incidence of orthostatic
 ## 8.6 Hepatic Impairment
 
 Patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9) may require a dose reduction of ZELAPAR (from 2.5 to 1.25 mg daily) depending on the clinical response.
-ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score >9)[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score >9) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

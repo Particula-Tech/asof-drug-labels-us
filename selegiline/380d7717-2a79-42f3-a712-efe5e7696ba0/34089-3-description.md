@@ -7,4 +7,4 @@ Its empirical formula is C13H17N∙HCl, representing a molecular weight of 223.7
 Selegiline hydrochloride is a white to almost white crystalline powder that is freely soluble in water and in methanol, slightly soluble in acetone.
 
 ZELAPAR Orally Disintegrating Tablets are available for oral administration (not to be swallowed) in a strength of 1.25 mg.
-Each lyophilized orally disintegrating tablet contains the following inactive ingredients: aspartame, citric acid, gelatin, glycine, mannitol, opatint yellow, and grapefruit flavor.
+Each lyophilized orally disintegrating tablet contains the following inactive ingredients: aspartame, citric acid, gelatin, glycine, mannitol, opatint yellow, purified water, and grapefruit flavor.

@@ -23,7 +23,7 @@ After starting ZELAPAR, monitor patients for new onset hypertension or exacerbat
 
 ## 5.2 Serotonin Syndrome
 
-Serotonin syndrome and hyperpyrexia have been reported with the combined treatment of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a non-selective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (ELDEPRYL), rasagiline (AZILECT), and Zydis selegiline (ZELAPAR).
+Serotonin syndrome and hyperpyrexia have been reported with the combined treatment of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a non-selective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (ELDEPRYL), rasagiline (AZILECT), and olanzapine (Zydis) selegiline (ZELAPAR).
 
 Serotonin syndrome is a potentially serious condition, which can result in death.
 Typical clinical signs and symptoms include behavioral and cognitive/mental status changes (e.g., confusion, hypomania, hallucinations, agitation, delirium, headache, and coma), autonomic effects (e.g., syncope, shivering, sweating, high fever/hyperthermia, hypertension, hypotension, tachycardia, nausea, diarrhea), and somatic effects (e.g., muscular rigidity, myoclonus, muscle twitching, hyperreflexia manifested by clonus, and tremor).
