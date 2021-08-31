@@ -7,7 +7,7 @@ Available data from controlled clinical trials also suggest that use of LABA as 
 These findings are considered a class effect of LABA monotherapy.
 When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists).
 
-Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists:
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
 
 Four (4) large, 26-week, randomized, double-blind, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared with ICS alone in subjects with asthma.
 Three (3) trials included adult and adolescent subjects aged 12 years and older: 1 trial compared fluticasone propionate/salmeterol inhalation powder with fluticasone propionate inhalation powder [see Clinical Studies (14.1)], 1 trial compared mometasone furoate/formoterol with mometasone furoate, and 1 trial compared budesonide/formoterol with budesonide.
@@ -22,9 +22,9 @@ These trials were not designed to rule out all risk for serious asthma-related e
 
 Table 1: Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
 
-|  | ICS/LABA (n = 17,537)Randomized subjects who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (n = 17,552) | ICS/LABA vs. ICS Hazard Ratio (95% CI)Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the trials. |
+|  | ICS/LABA (n = 17,537)Randomized subjects who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (n = 17,552) | ICS/LABA vs. ICS Hazard Ratio (95% CI)Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials. |
 | --- | --- | --- | --- |
-| Serious asthma-related eventNumber of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma related. Asthma-related death Asthma-related intubation (endotracheal) Asthma-related hospitalization (≥24-hour stay) | 11621115 | 10502105 | 1.10 (0.85, 1.44) |
+| Serious asthma-related eventNumber of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma related.Asthma-related deathAsthma-related intubation (endotracheal)Asthma-related hospitalization(≥24-hour stay) | 11621115 | 10502105 | 1.10 (0.85, 1.44) |
 
 ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist.
 
@@ -33,7 +33,7 @@ In this trial, 27/3,107 (0.9%) subjects randomized to ICS/LABA and 21/3,101 (0.7
 There were no asthma-related deaths or intubations.
 ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared with ICS based on the pre-specified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
 
-Salmeterol Multicenter Asthma Research Trial (SMART):
+Salmeterol Multicenter Asthma Research Trial (SMART)
 
 A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol versus 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 Use of background ICS was not required in SMART.
@@ -51,7 +51,7 @@ However, these events have occurred in a few patients with less severe asthma as
 It was not possible from these reports to determine whether salmeterol contributed to these events.
 
 Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
-In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of fluticasone propionate and salmeterol inhalation powder with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
+In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of fluticasone propionate and salmeterol inhalation powder with a higher strength, adding additional ICS, or initiating systemic corticosteroids.
 Patients should not use more than 1 inhalation twice daily of fluticasone propionate and salmeterol inhalation powder.
 
 Fluticasone propionate and salmeterol inhalation powder should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
@@ -167,11 +167,11 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating fluticasone propionate and salmeterol inhalation powder and periodically thereafter.
 If significant reductions in BMD are seen and fluticasone propionate and salmeterol inhalation powder is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
 
-2-Year Fluticasone Propionate Trial:
+2-Year Fluticasone Propionate Trial
 
 A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
-3-Year Bone Mineral Density Trial:
+3-Year Bone Mineral Density Trial
 
 Effects of treatment with fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 subjects with COPD (aged 43 to 87 years) in a 3-year double-blind trial.
 Of those enrolled, 108 subjects (72 males and 36 females) were followed for the entire 3 years.
@@ -181,7 +181,7 @@ Conclusions cannot be drawn from this trial regarding BMD decline in subjects tr
 In this trial there were 7 non-traumatic fractures reported in 5 subjects treated with fluticasone propionate and salmeterol inhalation powder and 1 non-traumatic fracture in 1 subject treated with salmeterol.
 None of the non-traumatic fractures occurred in the vertebrae, hip, or long bones.
 
-3-Year Survival Trial:
+3-Year Survival Trial
 
 Effects of treatment with fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 subjects (females and males aged 40 to 80 years) with COPD in the 3-year survival trial.
 BMD evaluations were conducted at baseline and at 48, 108, and 158 weeks.

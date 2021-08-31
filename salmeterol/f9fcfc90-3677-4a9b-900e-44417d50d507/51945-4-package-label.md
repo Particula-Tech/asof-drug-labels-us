@@ -1,7 +1,7 @@
 # Package/Label Display Panel
 
-NDC 0054-0326-56
+100 mcg/ 50 mcg: NDC 0054-0326-56
 
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0054-0327-56
+250 mcg/ 50 mcg: NDC 0054-0327-56

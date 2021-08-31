@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary:
+Risk Summary
 
 There are insufficient data on the use of fluticasone propionate and salmeterol inhalation powder or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
 There are clinical considerations with the use of fluticasone propionate and salmeterol inhalation powder in pregnant women (see Clinical Considerations).
@@ -16,7 +16,7 @@ No such effects occurred at an oral salmeterol dose approximately 20 times the M
 The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations:
+Clinical Considerations
 
 Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
@@ -24,7 +24,7 @@ Pregnant women should be closely monitored and medication adjusted as necessary 
 Labor and Delivery: There are no human studies evaluating the effects of fluticasone propionate and salmeterol inhalation powder during labor and delivery.
 Because of the potential for beta-agonist interference with uterine contractility, use of fluticasone propionate and salmeterol inhalation powder during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
-Data:
+Data
 
 Human Data: Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
 
@@ -68,14 +68,14 @@ Salmeterol xinafoate crossed the placenta following oral administration to mice 
 
 ## 8.2 Lactation
 
-Risk Summary:
+Risk Summary
 
 There are no available data on the presence of fluticasone propionate or salmeterol in human milk, the effects on the breastfed child, or the effects on milk production.
 Other corticosteroids have been detected in human milk.
 However, fluticasone propionate and salmeterol concentrations in plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluticasone propionate and salmeterol inhalation powder and any potential adverse effects on the breastfed child from fluticasone propionate and salmeterol inhalation powder or from the underlying maternal condition.
 
-Data:
+Data
 
 Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose of 10 mcg/kg/day to lactating rats resulted in measurable levels in milk.
 Oral administration of salmeterol at a dose of 10,000 mcg/kg/day to lactating rats resulted in measurable levels in milk.
@@ -88,7 +88,7 @@ The safety and effectiveness of fluticasone propionate and salmeterol inhalation
 ICS, including fluticasone propionate, a component of fluticasone propionate and salmeterol inhalation powder, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
 The growth of pediatric patients receiving orally inhaled corticosteroids, including fluticasone propionate and salmeterol inhalation powder, should be monitored.
 
-A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
+A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT ROTADISK) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
 An imbalance in the proportion of children entering puberty between groups and a higher dropout rate in the placebo group due to poorly controlled asthma may be confounding factors in interpreting these data.
 A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50-mcg group (n = 74), and 5.67 cm/year in the 100-mcg group (n = 79).

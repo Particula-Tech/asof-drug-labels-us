@@ -2,7 +2,7 @@
 
 ## 14.1 Asthma
 
-Adult and Adolescent Subjects Aged 12 Years and Older:
+Adult and Adolescent Subjects Aged 12 Years and Older
 
 In clinical trials comparing fluticasone propionate and salmeterol inhalation powder with its individual components, improvements in most efficacy endpoints were greater with fluticasone propionate and salmeterol inhalation powder than with the use of either fluticasone propionate or salmeterol alone.
 In addition, clinical trials showed similar results between fluticasone propionate and salmeterol inhalation powder and the concurrent use of fluticasone propionate plus salmeterol at corresponding doses from separate inhalers.
@@ -15,7 +15,7 @@ The trial was stratified according to baseline asthma maintenance therapy; subje
 Baseline FEV1 measurements were similar across treatments: fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, 2.17 L; fluticasone propionate 100 mcg, 2.11 L; salmeterol, 2.13 L; and placebo, 2.15 L.
 
 Predefined withdrawal criteria for lack of efficacy, an indicator of worsening asthma, were utilized for this placebo-controlled trial.
-Worsening asthma was defined as a clinically important decrease in FEV1 or PEF, increase in use of VENTOLIN® (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
+Worsening asthma was defined as a clinically important decrease in FEV1 or PEF, increase in use of VENTOLIN (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
 As shown in Table 4, statistically significantly fewer subjects receiving fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg were withdrawn due to worsening asthma compared with fluticasone propionate, salmeterol, and placebo.
 
 Table 4: Percent of Subjects Withdrawn due to Worsening Asthma in Subjects Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
@@ -35,7 +35,7 @@ The effect of fluticasone propionate and salmeterol inhalation powder 100 mcg/50
 
 Table 5: Peak Expiratory Flow Results for Subjects with Asthma Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
 
-| Efficacy VariableChange from baseline = change from baseline at endpoint (last available data). | Fluticasone Propionate and Salmeterol Inhalation Powder100 mcg/50 mcg(n = 87) | Fluticasone Propionate100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |
+| Efficacy VariableChange from baseline = change from baseline at Endpoint (last available data). | Fluticasone Propionate and Salmeterol Inhalation Powder100 mcg/50 mcg(n = 87) | Fluticasone Propionate100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |
 | --- | --- | --- | --- | --- |
 | AM PEF (L/min) Baseline Change from baseline | 39353 | 37417 | 369-2 | 382-24 |
 | PM PEF (L/min) Baseline Change from baseline | 41835 | 39018 | 396-7 | 398-13 |
@@ -52,7 +52,7 @@ Statistically significantly fewer subjects receiving fluticasone propionate and 
 In addition, fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg was superior to fluticasone propionate, salmeterol, and placebo for improvements in morning and evening PEF.
 Subjects receiving fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg also had clinically meaningful improvements in overall asthma-specific quality of life as described in Trial 1 (difference in AQLQ score of 1.29 compared with placebo).
 
-Trial 3: Clinical Trial with Fluticasone Propionate and Salmeterol Inhalation Powder US 500 mcg/50 mcg: This 28-week, non-U.S. trial compared fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg with fluticasone propionate 500 mcg alone and concurrent therapy (salmeterol 50 mcg plus fluticasone propionate 500 mcg administered from separate inhalers) twice daily in 503 subjects with asthma using ICS (daily doses of beclomethasone dipropionate 1,260 to 1,680 mcg; budesonide 1,500 to 2,000 mcg; flunisolide 1,500 to 2,000 mcg; or fluticasone propionate inhalation aerosol 660 to 880 mcg [750 to 1,000 mcg inhalation powder]).
+Trial 3: Clinical Trial with Fluticasone Propionate and Salmeterol Inhalation Powder 500 mcg/50 mcg: This 28-week, non-U.S. trial compared fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg with fluticasone propionate 500 mcg alone and concurrent therapy (salmeterol 50 mcg plus fluticasone propionate 500 mcg administered from separate inhalers) twice daily in 503 subjects with asthma using ICS (daily doses of beclomethasone dipropionate 1,260 to 1,680 mcg; budesonide 1,500 to 2,000 mcg; flunisolide 1,500 to 2,000 mcg; or fluticasone propionate inhalation aerosol 660 to 880 mcg [750 to 1,000 mcg inhalation powder]).
 The primary efficacy parameter, morning PEF, was collected daily for the first 12 weeks of the trial.
 The primary purpose of weeks 13 to 28 was to collect safety data.
 
@@ -72,7 +72,7 @@ Figure 3: Percent Change in Serial 12-Hour FEV1 in Subjects with Asthma Previous
 
 Reduction in asthma symptoms and use of rescue VENTOLIN Inhalation Aerosol and improvement in morning and evening PEF also occurred within the first day of treatment with fluticasone propionate and salmeterol inhalation powder, and continued to improve over the 12 weeks of therapy in both trials.
 
-Pediatric Subjects:
+Pediatric Subjects
 
 In a 12-week U.S. trial, fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg twice daily was compared with fluticasone propionate inhalation powder 100 mcg twice daily in 203 children with asthma aged 4 to 11 years.
 At trial entry, the children were symptomatic on low doses of ICS (beclomethasone dipropionate 252 to 336 mcg/day; budesonide 200 to 400 mcg/day; flunisolide 1,000 mcg/day; triamcinolone acetonide 600 to 1,000 mcg/day; or fluticasone propionate 88 to 250 mcg/day).
@@ -82,12 +82,41 @@ In subjects receiving fluticasone propionate and salmeterol inhalation powder 10
 
 The findings of this trial, along with extrapolation of efficacy data from subjects aged 12 years and older, support the overall conclusion that fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg is efficacious in the treatment of asthma in subjects aged 4 to 11 years.
 
+Safety and Efficacy Trials Comparing Fluticasone Propionate and Salmeterol Inhalation Powder with Fluticasone Propionate
+
+Serious Asthma-Related Events: Two 26-week, randomized, double-blind, parallel-group, active comparator trials were conducted to compare the safety and efficacy of fluticasone propionate and salmeterol inhalation powder with fluticasone propionate inhalation powder in adult and adolescent subjects (Trial 4, NCT01475721) and in pediatric subjects aged 4 to 11 years (Trial 5, NCT01462344).
+The primary safety objective of both trials was to evaluate whether the addition of salmeterol xinafoate to fluticasone propionate therapy (fluticasone propionate and salmeterol inhalation powder) was non-inferior to ICS fluticasone propionate in terms of the risk of a serious asthma-related event (hospitalization, endotracheal intubation, and death).
+The trials were designed to rule out pre-defined risk margins for serious asthma-related events of 2.0 for Trial 4 and 2.7 for Trial 5.
+A blinded adjudication committee determined whether events were asthma related.
+
+Trial 4 enrolled subjects with moderate to severe persistent asthma with a history of asthma-related hospitalization or at least 1 asthma exacerbation in the previous year treated with systemic corticosteroids.
+A total of 11,679 adult and adolescent subjects [5,834 receiving fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg, or fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg and 5,845 receiving fluticasone propionate inhalation powder (100 mcg, 250 mcg, or 500 mcg)] were included.
+Trial 5 enrolled subjects with a diagnosis of asthma and a history of at least 1 asthma exacerbation in the previous year treated with systemic corticosteroid.
+A total of 6,208 subjects aged 4 to 11 years [3,107 receiving fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg or fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg and 3,101 receiving fluticasone propionate inhalation powder (100 mcg or 250 mcg)] were included.
+In both trials, subjects with life-threatening asthma were excluded.
+In Trials 4 and 5, fluticasone propionate and salmeterol inhalation powder was non-inferior to fluticasone propionate in terms of time to first serious asthma-related events based on the pre-specified risk margins, with estimated hazard ratios of 1.03 (95% CI: 0.64, 1.66) and 1.29 (95% CI: 0.73, 2.27), respectively (Table 6).
+
+Table 6: Serious Asthma-Related Events in the 26-Week Trials 4 and 5
+
+|  | Adult and Adolescent Subjects Aged 12 Years and Older (Trial 4) |  | Pediatric Subjects Aged 4 to 11 Years (Trial 5) |  |
+| --- | --- | --- | --- | --- |
+|  | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 5,834) | Fluticasone Propionate Inhalation Powder(n = 5,845) | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 3, 107) | Fluticasone Propionate Inhalation Powder (n = 3, 101) |
+| Serious asthma-related event (hospitalization, endotracheal intubation, and death)Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. | 34 (0.6%) | 33 (0.6%) | 27 (0.9%) | 21 (0.7%) |
+| Hazard ratio (fluticasone propionate and salmeterol/fluticasone propionate) | 1.03 (0.64-1.66)The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (fluticasone propionate and salmeterol vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status. If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial4) or <2.7 (Trial 5), then non-inferiority was concluded. |  | 1.29 (0.73-2.27) |  |
+| Asthma-related death | 0 | 0 | 0 | 0 |
+| Asthma-related intubation (endotracheal) | 0 | 2 | 0 | 0 |
+| Asthma-related hospitalization (≥24-hour stay) | 34 | 33 | 27 | 21 |
+
+Effect on Exacerbation: Trials 4 and 5 included time to first exacerbation as a secondary endpoint, where exacerbation was defined as a deterioration of asthma requiring the use of systemic corticosteroids for at least 3 days or an in-patient hospitalization or emergency department visit due to asthma that required systemic corticosteroids.
+In Trials 4 and 5, the hazard ratio for the time to first asthma exacerbation for fluticasone propionate and salmeterol inhalation powder relative to fluticasone propionate inhalation powder was 0.79 (95% CI: 0.70, 0.89) and 0.86 (95% CI: 0.73, 1.01), respectively.
+The difference in exacerbations was primarily driven by a reduction in those requiring systemic corticosteroids only.
+
 ## 14.2 Chronic Obstructive Pulmonary Disease
 
 The efficacy of fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg and fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg in the treatment of subjects with COPD was evaluated in 6 randomized, double-blind, parallel-group clinical trials in adult subjects aged 40 years and older.
 These trials were primarily designed to evaluate the efficacy of fluticasone propionate and salmeterol inhalation powder on lung function (3 trials), exacerbations (2 trials), and survival (1 trial).
 
-Lung Function:
+Lung Function
 
 Two (2) of the 3 clinical trials primarily designed to evaluate the efficacy of fluticasone propionate and salmeterol inhalation powder on lung function were conducted in 1,414 subjects with COPD associated with chronic bronchitis.
 In these 2 trials, all the subjects had a history of cough productive of sputum that was not attributable to another disease process on most days for at least 3 months of the year for at least 2 years.
@@ -115,7 +144,7 @@ The subjects had an established history of COPD and exacerbations, a pre-broncho
 The primary endpoint was the comparison of pre-bronchodilator FEV1 in the groups receiving fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg or placebo.
 Subjects treated with fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg had greater improvements in FEV1 (113 mL, 10%) compared with fluticasone propionate 500 mcg (7 mL, 2%), salmeterol (15 mL, 2%), and placebo (-60 mL, -3%).
 
-Exacerbations:
+Exacerbations
 
 Two (2) trials were primarily designed to evaluate the effect of fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg on exacerbations.
 In these 2 trials, exacerbations were defined as worsening of 2 or more major symptoms (dyspnea, sputum volume, and sputum purulence) or worsening of any 1 major symptom together with any 1 of the following minor symptoms: sore throat, colds (nasal discharge and/or nasal congestion), fever without other cause, and increased cough or wheeze for at least 2 consecutive days.
@@ -140,7 +169,7 @@ In the 3-year trial, the group receiving fluticasone propionate and salmeterol i
 There were no trials conducted to directly compare the efficacy of fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg with fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg on exacerbations.
 Across trials, the reduction in exacerbations seen with fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg was not greater than the reduction in exacerbations seen with fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg.
 
-Survival:
+Survival
 
 A 3-year multicenter, international trial evaluated the efficacy of fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg compared with fluticasone propionate 500 mcg, salmeterol 50 mcg, and placebo on survival in 6,112 subjects with COPD.
 During the trial subjects were permitted usual COPD therapy with the exception of other ICS and long-acting bronchodilators.

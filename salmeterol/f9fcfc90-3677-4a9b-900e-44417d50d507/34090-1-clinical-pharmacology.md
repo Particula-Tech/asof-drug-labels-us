@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Fluticasone Propionate and Salmeterol Inhalation Powder:
+Fluticasone Propionate and Salmeterol Inhalation Powder
 
 Fluticasone propionate and salmeterol inhalation powder contains both fluticasone propionate and salmeterol.
 The mechanisms of action described below for the individual components apply to fluticasone propionate and salmeterol inhalation powder.
 These drugs represent 2 different classes of medications (a synthetic corticosteroid and a LABA) that have different effects on clinical, physiologic, and inflammatory indices.
 
-Fluticasone Propionate:
+Fluticasone Propionate
 
 Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity.
 Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide.
@@ -23,7 +23,7 @@ Inflammation is also a component in the pathogenesis of COPD.
 In contrast to asthma, however, the predominant inflammatory cells in COPD include neutrophils, CD8+ T-lymphocytes, and macrophages.
 The effects of corticosteroids in the treatment of COPD are not well defined and ICS and fluticasone propionate when used apart from fluticasone propionate and salmeterol inhalation powder are not indicated for the treatment of COPD.
 
-Salmeterol Xinafoate:
+Salmeterol Xinafoate
 
 Salmeterol is a selective LABA.
 In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
@@ -39,7 +39,7 @@ In humans, single doses of salmeterol administered via inhalation aerosol attenu
 
 ## 12.2 Pharmacodynamics
 
-Fluticasone Propionate and Salmeterol Inhalation Powder:
+Fluticasone Propionate and Salmeterol Inhalation Powder
 
 Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
 Four (4) trials were conducted with healthy adult subjects: (1) a single-dose crossover trial using 2 inhalations of fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg given concurrently, or fluticasone propionate inhalation powder 500 mcg given alone, (2) a cumulative-dose trial using 50 to 400 mcg of salmeterol inhalation powder given alone or as fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg, (3) a repeat-dose trial for 11 days using 2 inhalations twice daily of fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg, fluticasone propionate inhalation powder 250 mcg, or salmeterol inhalation powder 50 mcg, and (4) a single-dose trial using 5 inhalations of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, fluticasone propionate inhalation powder 100 mcg alone, or placebo.
@@ -60,7 +60,7 @@ In a 12-week trial in adult and adolescent subjects with asthma, fluticasone pro
 For most subjects, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation, remained intact with fluticasone propionate and salmeterol inhalation powder.
 One subject (3%) who received fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg had an abnormal response (peak serum cortisol less than 18 mcg/dL) after dosing, compared with 2 subjects (6%) who received placebo, 2 subjects (6%) who received fluticasone propionate 250 mcg, and no subjects who received salmeterol.
 
-In a repeat-dose, 3-way crossover trial, 1 inhalation twice daily of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, FLOVENT® DISKUS® 100 mcg (fluticasone propionate inhalation powder 100 mcg), or placebo was administered to 20 adult and adolescent subjects with asthma.
+In a repeat-dose, 3-way crossover trial, 1 inhalation twice daily of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, FLOVENT DISKUS 100 mcg (fluticasone propionate inhalation powder 100 mcg), or placebo was administered to 20 adult and adolescent subjects with asthma.
 After 28 days of treatment, geometric mean serum cortisol AUC over 12 hours showed no significant difference between fluticasone propionate and salmeterol inhalation powder and FLOVENT DISKUS or between either active treatment and placebo.
 
 Pediatric Subjects:Hypothalamic-Pituitary-Adrenal Axis Effects: In a 12-week trial in subjects with asthma aged 4 to 11 years who were receiving ICS at trial entry, fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg twice daily was compared with fluticasone propionate inhalation powder 100 mcg administered twice daily via a dry powder inhaler.
@@ -87,7 +87,7 @@ One (1) subject (3%) who received fluticasone propionate and salmeterol inhalati
 
 After 36 weeks of dosing, serum cortisol concentrations in a subset of subjects with COPD (n = 83) were 22% lower in subjects receiving fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg and 21% lower in subjects receiving fluticasone propionate 500 mcg than in subjects receiving placebo.
 
-Other Fluticasone Propionate Products:
+Other Fluticasone Propionate Products
 
 Subjects with Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol less than 18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
@@ -100,7 +100,7 @@ Subjects with Chronic Obstructive Pulmonary Disease: Hypothalamic-Pituitary-Adre
 Serial serum cortisol concentrations were measured across a 12-hour dosing interval.
 Serum cortisol concentrations following 250- and 500-mcg twice-daily dosing were 10% and 21% lower than placebo, respectively, indicating a dose-dependent increase in systemic exposure to fluticasone propionate.
 
-Other Salmeterol Xinafoate Products:
+Other Salmeterol Xinafoate Products
 
 Subjects with Asthma: Cardiovascular Effects: Inhaled salmeterol, like other beta-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.12, 5.18)].
 The cardiovascular effects (heart rate, blood pressure) associated with salmeterol inhalation aerosol occur with similar frequency, and are of similar type and severity, as those noted following albuterol administration.
@@ -109,7 +109,7 @@ The effects of rising inhaled doses of salmeterol and standard inhaled doses of 
 Salmeterol doses up to 84 mcg administered as inhalation aerosol resulted in heart rate increases of 3 to 16 beats/min, about the same as albuterol dosed at 180 mcg by inhalation aerosol (4 to 10 beats/min).
 Adult and adolescent subjects receiving 50-mcg doses of salmeterol inhalation powder (N = 60) underwent continuous electrocardiographic monitoring during two 12-hour periods after the first dose and after 1 month of therapy, and no clinically significant dysrhythmias were noted.
 
-Concomitant Use of Fluticasone Propionate and Salmeterol Inhalation Powder with Other Respiratory Medicines:
+Concomitant Use of Fluticasone Propionate and Salmeterol Inhalation Powder with Other Respiratory Medicines
 
 Short-acting Beta2-agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using fluticasone propionate and salmeterol inhalation powder was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
 Five percent (5%) of subjects using fluticasone propionate and salmeterol inhalation powder in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
@@ -126,11 +126,11 @@ Similar results were observed in subjects receiving salmeterol 50 mcg plus fluti
 In a clinical trial in subjects with COPD, 17 subjects receiving fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg twice daily concurrently with a theophylline product had adverse event rates similar to those in 161 subjects receiving fluticasone propionate and salmeterol inhalation powder without theophylline.
 Based on the available data, the concomitant administration of methylxanthines with fluticasone propionate and salmeterol inhalation powder did not alter the observed adverse event profile.
 
-Fluticasone Propionate Nasal Spray: In adult and adolescent subjects aged 12 years and older receiving fluticasone propionate and salmeterol inhalation powder in clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between subjects who were receiving FLONASE® (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 46) and those who were not (n = 130).
+Fluticasone Propionate Nasal Spray: In adult and adolescent subjects aged 12 years and older receiving fluticasone propionate and salmeterol inhalation powder in clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between subjects who were receiving FLONASE (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 46) and those who were not (n = 130).
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
 Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
@@ -141,7 +141,7 @@ In a single-dose crossover trial, a higher-than-recommended dose of fluticasone 
 Two (2) inhalations of the following treatments were administered: fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg given concurrently, and fluticasone propionate inhalation powder 500 mcg alone.
 Mean peak plasma concentrations of fluticasone propionate averaged 107, 94, and 120 pg/mL, respectively, indicating no significant changes in systemic exposures of fluticasone propionate.
 
-In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR® HFA 230/21 (fluticasone propionate 230 mcg and salmeterol 21 mcg) Inhalation Aerosol (920/84 mcg) and 2 inhalations of fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg (1,000 mcg/100 mcg) was similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
+In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR HFA 230/21 (fluticasone propionate 230 mcg and salmeterol 21 mcg) Inhalation Aerosol (920/84 mcg) and 2 inhalations of fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg (1,000 mcg/100 mcg) was similar between the 2 inhalers (i.e., 799 versus 832 pg•h/mL, respectively), but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
 Similar results were observed for peak fluticasone propionate plasma concentrations (186 and 182 pg/mL from ADVAIR HFA and fluticasone propionate and salmeterol inhalation powder, respectively, and 307 pg/mL from the fluticasone propionate CFC inhalation aerosol).
 Absolute bioavailability of fluticasone propionate was 5.3% and 5.5% following administration of ADVAIR HFA and fluticasone propionate and salmeterol inhalation powder, respectively.
 
@@ -164,7 +164,7 @@ In 15 healthy subjects receiving ADVAIR HFA 230/21 Inhalation Aerosol (920/84 mc
 Subjects with Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended dosages (50 mcg of salmeterol inhalation powder twice daily).
 Following chronic administration of an inhaled dose of 50 mcg of salmeterol inhalation powder twice daily, salmeterol was detected in plasma within 5 to 45 minutes in 7 subjects with asthma; plasma concentrations were very low, with mean peak concentrations of 167 pg/mL at 20 minutes and no accumulation with repeated doses.
 
-Distribution:
+Distribution
 
 Fluticasone Propionate: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
@@ -174,7 +174,7 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Salmeterol: The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
 
-Metabolism:
+Metabolism
 
 Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
@@ -187,11 +187,11 @@ No significant amount of unchanged salmeterol base was detected in either urine 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
-Elimination:
+Elimination
 
 Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
-Terminal half-life estimates of fluticasone propionate for fluticasone propionate and salmeterol inhalation aerosol, fluticasone propionate and salmeterol inhalation powder, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
+Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, fluticasone propionate and salmeterol inhalation powder, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 
 Salmeterol: In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as salmeterol xinafoate) orally, approximately 25% and 60% of the radiolabeled salmeterol was eliminated in urine and feces, respectively, over a period of 7 days.
 The terminal elimination half-life was about 5.5 hours (1 volunteer only).
@@ -200,9 +200,9 @@ The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
 No terminal half-life estimates were calculated for salmeterol following administration of fluticasone propionate and salmeterol inhalation powder.
 
-Specific Populations:
+Specific Populations
 
-A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with fluticasone propionate and salmeterol inhalation powder, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT® HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
+A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with fluticasone propionate and salmeterol inhalation powder, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 
 Age: When the population pharmacokinetic analysis for fluticasone propionate was divided into subgroups based on fluticasone propionate strength, formulation, and age (adolescents/adults and children), there were some differences in fluticasone propionate exposure.
@@ -230,7 +230,7 @@ However, since both fluticasone propionate and salmeterol are predominantly clea
 
 Therefore, patients with hepatic disease should be closely monitored.
 
-Drug Interaction Studies:
+Drug Interaction Studies
 
 In the repeat- and single-dose trials, there was no evidence of significant drug interaction in systemic exposure between fluticasone propionate and salmeterol when given alone or in combination via a dry powder inhaler.
 The population pharmacokinetic analysis from 9 controlled clinical trials in 350 subjects with asthma showed no significant effects on fluticasone propionate or salmeterol pharmacokinetics following co-administration with beta2-agonists, corticosteroids, antihistamines, or theophyllines.

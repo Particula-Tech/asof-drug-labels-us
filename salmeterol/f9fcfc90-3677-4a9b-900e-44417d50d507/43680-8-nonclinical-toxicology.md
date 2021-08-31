@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Fluticasone Propionate:
+Fluticasone Propionate
 
 Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 5 and 10 times the MRHDID for adults and children, respectively, on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than and approximately equivalent to the MRHDID for adults and children, respectively, on a mcg/m2 basis) for 104 weeks.
 
@@ -11,7 +11,7 @@ No significant clastogenic effect was seen in cultured human peripheral lymphocy
 
 Fertility and reproductive performance were unaffected in male and female rats at subcutaneous doses up to 50 mcg/kg (approximately 0.5 times the MRHDID for adults on a mcg/m2 basis).
 
-Salmeterol:
+Salmeterol
 
 In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 1,400 mcg/kg and above (approximately 20 times the MRHDID for adults and children based on comparison of the plasma AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
 No tumors were seen at 200 mcg/kg (approximately 3 times the MRHDID for adults and children based on comparison of the AUCs).
@@ -28,7 +28,7 @@ Fertility and reproductive performance were unaffected in male and female rats a
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical:
+Preclinical
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
 The clinical relevance of these findings is unknown.

@@ -10,7 +10,7 @@ Patients using fluticasone propionate and salmeterol inhalation powder should no
 
 If asthma symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist should be taken for immediate relief.
 
-Adult and Adolescent Patients Aged 12 Years and Older:
+Adult and Adolescent Patients Aged 12 Years and Older
 
 For patients aged 12 years and older, the dosage is 1 inhalation twice daily, approximately 12 hours apart.
 
@@ -25,7 +25,7 @@ For patients who do not respond adequately to the starting dosage after 2 weeks 
 
 If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of fluticasone propionate and salmeterol inhalation powder with a higher strength, adding additional ICS, initiating oral corticosteroids) should be considered.
 
-Pediatric Patients Aged 4 to 11 Years:
+Pediatric Patients Aged 4 to 11 Years
 
 For patients with asthma aged 4 to 11 years who are not controlled on an ICS, the dosage is 1 inhalation of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg twice daily, approximately 12 hours apart.
 

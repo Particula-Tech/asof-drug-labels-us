@@ -8,12 +8,12 @@ No formal drug interaction trials have been performed with fluticasone propionat
 Fluticasone propionate and salmeterol, the individual components of fluticasone propionate and salmeterol inhalation powder, are substrates of CYP3A4.
 The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with fluticasone propionate and salmeterol inhalation powder is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
-Ritonavir:
+Ritonavir
 
 Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 
-Ketoconazole:
+Ketoconazole
 
 Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
 

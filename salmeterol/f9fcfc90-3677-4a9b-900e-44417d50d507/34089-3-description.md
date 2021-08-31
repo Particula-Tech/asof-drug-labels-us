@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg and fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg are combinations of fluticasone propionate USP and salmeterol xinafoate USP.
+Fluticasone propionate and salmeterol inhalation powder USP, 100 mcg/50 mcg and fluticasone propionate and salmeterol inhalation powder USP, 250 mcg/50 mcg are combinations of fluticasone propionate, USP and salmeterol xinafoate, USP.
 
 One active component of fluticasone propionate and salmeterol inhalation powder is fluticasone propionate, a corticosteroid having the chemical name S-fluoromethyl-6α,9α-difluoro-11β-hydroxy-16α-methyl-3-oxo-17α-propionyloxyandrosta-1,4-diene-17β-carbothioate and the following chemical structure:
 
