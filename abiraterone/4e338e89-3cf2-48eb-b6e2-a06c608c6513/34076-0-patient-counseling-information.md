@@ -33,7 +33,8 @@ Dosing and Administration
 
 - Inform patients that ZYTIGA is taken once daily with prednisone (once or twice daily according to their healthcare provider's instructions) and to not interrupt or stop either of these medications without consulting their healthcare provider.
 - Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with ZYTIGA.
-- Instruct patients to take ZYTIGA on an empty stomach, at least one hour before or at least two hours after a meal.
+- Instruct patients to take ZYTIGA tablets as a single dose once daily on an empty stomach.
+  Instruct patients to not eat food 2 hours before and 1 hour after taking ZYTIGA.
   ZYTIGA taken with food causes increased exposure and may result in adverse reactions.
   Instruct patients to swallow tablets whole with water and not to crush or chew the tablets [see Dosage and Administration (2.3)].
 - Inform patients that if they miss a dose of ZYTIGA or prednisone, they should take their normal dose the following day.

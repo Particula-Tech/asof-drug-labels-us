@@ -9,4 +9,4 @@ Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
 © 2011, 2017 Janssen Pharmaceutical Companies
 
-Revised: 10/2020
+Revised: 8/2021

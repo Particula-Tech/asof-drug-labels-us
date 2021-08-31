@@ -33,8 +33,8 @@ Other reported causes of death in ≥5 patients included pneumonia, cardio-respi
 COU-AA-301: Metastatic CRPC Following Chemotherapy
 
 COU-AA-301 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥2.5× ULN in the absence of liver metastases.
-Patients with liver metastases were excluded if AST and/or ALT >5× ULN.
+Patients were not eligible if AST and/or ALT ≥2.5 × ULN in the absence of liver metastases.
+Patients with liver metastases were excluded if AST and/or ALT >5 × ULN.
 
 Table 1 shows adverse reactions on the ZYTIGA arm in COU-AA-301 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with ZYTIGA with prednisone was 8 months.
@@ -88,7 +88,7 @@ Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 COU-AA-302: Metastatic CRPC Prior to Chemotherapy
 
 COU-AA-302 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
-Patients were ineligible if AST and/or ALT ≥2.5× ULN and patients were excluded if they had liver metastases.
+Patients were ineligible if AST and/or ALT ≥2.5 × ULN and patients were excluded if they had liver metastases.
 
 Table 3 shows adverse reactions on the ZYTIGA arm in COU-AA-302 that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to placebo.
 The median duration of treatment with ZYTIGA with prednisone was 13.8 months.
@@ -148,7 +148,7 @@ Table 4: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of COU-A
 LATITUDE: Patients with Metastatic High-risk CSPC
 
 LATITUDE enrolled 1199 patients with newly-diagnosed metastatic, high-risk CSPC who had not received prior cytotoxic chemotherapy.
-Patients were ineligible if AST and/or ALT ≥2.5× ULN or if they had liver metastases.
+Patients were ineligible if AST and/or ALT ≥2.5 × ULN or if they had liver metastases.
 All the patients received GnRH analogs or had prior bilateral orchiectomy during the trial.
 The median duration of treatment with ZYTIGA and prednisone was 24 months.
 
@@ -181,8 +181,7 @@ Table 6: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of LATIT
 
 | Laboratory Abnormality | Grade 1–4 % | Grade 3–4 % | Grade 1–4 % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
-|  | ZYTIGA with Prednisone (N=597) |  | Placebos |  |
-|  |  |  | (N=602) |  |
+|  | ZYTIGA with Prednisone (N=597) |  | Placebos (N=602) |  |
 | Hematology |  |  |  |  |
 | Lymphopenia | 20 | 4.1 | 14 | 1.8 |
 | Chemistry |  |  |  |  |
