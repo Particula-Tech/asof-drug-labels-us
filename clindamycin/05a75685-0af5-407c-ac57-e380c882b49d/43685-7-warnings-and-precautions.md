@@ -34,6 +34,12 @@ Although normal therapeutic doses of this product ordinarily deliver amounts of 
 The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low birth weight infants may be more likely to develop toxicity.
 
+## Renal Toxicity
+
+Clindamycin is potentially nephrotoxic.
+Acute kidney injury including acute renal failure has been reported.
+Therefore, monitoring of renal function should be considered during therapy of patients with pre-existing renal dysfunction or taking concomitant nephrotoxic drugs and monitoring of renal function should be performed if therapy is prolonged.
+
 ## Usage in Meningitis
 
 Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
@@ -56,7 +62,7 @@ Should superinfections occur, appropriate measures should be taken as indicated 
 
 CLEOCIN PHOSPHATE should not be injected intravenously undiluted as a bolus, but should be infused over at least 10–60 minutes as directed in the DOSAGE AND ADMINISTRATION section.
 
-Clindamycin dosage modification may not be necessary in patients with renal disease.
+Clindamycin dosage modification is not necessary in patients with renal disease.
 In patients with moderate to severe liver disease, prolongation of clindamycin half-life has been found.
 However, it was postulated from studies that when given every eight hours, accumulation should rarely occur.
 Therefore, dosage modification in patients with liver disease may not be necessary.

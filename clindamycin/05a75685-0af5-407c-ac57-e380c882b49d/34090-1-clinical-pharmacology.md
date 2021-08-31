@@ -27,7 +27,7 @@ Biologically inactive clindamycin phosphate disappears from the serum with 6 min
 
 The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
-Dosage schedules need not be modified in the presence of mild or moderate renal or hepatic disease.
+Dosage schedules need not be modified in patients with renal or hepatic disease.
 
 ### Elderly Patients
 
