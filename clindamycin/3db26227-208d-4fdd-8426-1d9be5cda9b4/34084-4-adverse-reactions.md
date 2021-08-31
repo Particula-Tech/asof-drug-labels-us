@@ -44,6 +44,6 @@ Liver: Jaundice and abnormalities in liver function tests have been observed dur
 
 Musculoskeletal: Rare instances of polyarthritis have been reported.
 
-Renal: Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed in rare instances.
+Renal: Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed.
 
 There have been reports of pseudomembranous colitis following the administration of clindamycin vaginal cream.
