@@ -29,7 +29,7 @@ Clindamycin is active in vitro against most isolates of the following organisms 
 
 Rx only
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0043-12.0 Revised 03/2020
+LAB-0043-13.0 Revised 8/2021
