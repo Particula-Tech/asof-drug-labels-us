@@ -25,6 +25,12 @@ In case of such an anaphylactic or severe hypersensitivity reaction, discontinue
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
+## Renal Toxicity
+
+Clindamycin is potentially nephrotoxic.
+Acute kidney injury including acute renal failure has been reported.
+Therefore, monitoring of renal function should be considered during therapy of patients with pre-existing renal dysfunction or taking concomitant nephrotoxic drugs and monitoring of renal function should be performed if therapy is prolonged.
+
 ## Usage in Meningitis
 
 Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
@@ -45,7 +51,7 @@ Indicated surgical procedures should be performed in conjunction with antibiotic
 The use of CLEOCIN PEDIATRIC occasionally results in overgrowth of nonsusceptible organisms-particularly yeasts.
 Should superinfections occur, appropriate measures should be taken as indicated by the clinical situation.
 
-Clindamycin dosage modification may not be necessary in patients with renal disease.
+Clindamycin dosage modification is not necessary in patients with renal disease.
 In patients with moderate to severe liver disease, prolongation of clindamycin half-life has been found.
 However, it was postulated from studies that when given every eight hours, accumulation should rarely occur.
 Therefore, dosage modification in patients with liver disease may not be necessary.
