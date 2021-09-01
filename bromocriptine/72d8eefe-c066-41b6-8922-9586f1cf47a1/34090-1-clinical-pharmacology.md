@@ -24,7 +24,7 @@ Following bromocriptine 5 mg administered twice daily for 14 days, the bromocrip
 
 ### Distribution
 
-In vitro experiments showed that bromocriptine was 90% - 96% bound to serum albumin.
+In vitro experiments showed that bromocriptine was 90% to 96% bound to serum albumin.
 
 ### Metabolism
 
@@ -39,6 +39,8 @@ The potential effect of bromocriptine and its metabolites to act as inducers of 
 
 About 82% and 5.6% of the radioactive dose orally administered was recovered in feces and urine, respectively.
 Bromolysergic acid and bromoisolysergic acid accounted for half of the radioactivity in urine.5
+
+__________________________________________________________________________
 
 1 Nelson, M. et. al. (1990).
 Pharmacokinetic evaluation of erythromycin and caffeine administered with bromocriptine.

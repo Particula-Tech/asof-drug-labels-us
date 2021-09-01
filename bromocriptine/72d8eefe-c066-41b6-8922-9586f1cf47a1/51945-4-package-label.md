@@ -1,53 +1,34 @@
-# PRINCIPAL DISPLAY PANEL – 2.5 mg
-
-NDC 0378-2042-93
-
-Bromocriptine Mesylate Tablets, USP 2.5 mg*
-
-Rx only 30 Tablets
-
-*Each tablet contains bromocriptine mesylate, USP equivalent to 2.5 mg bromocriptine.
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Keep this and all medication out of the reach of children.
-
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
-
-Usual Dosage: See accompanying prescribing information.
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Mylan.com
-
-RM2042H4
-
-# PRINCIPAL DISPLAY PANEL – 5 mg
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0378-7096-93
 
-Bromocriptine Mesylate Capsules, USP 5 mg*
+Bromocriptine Mesylate Capsules, USP 5 mg
 
-Rx only 30 Tablets
+Rx only
 
-*Each capsule contains bromocriptine mesylate, USP equivalent to 5 mg bromocriptine.
+30 Capsules
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+*Each capsule contains: Bromocriptine mesylate, USP equivalent to 5 mg bromocriptine.
 
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Usual Dosage: See accompanying prescribing information.
+Protect from light.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in India
 
-RM7096H3
+RGR7096H
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+200000002645
+
+AP/DRUGS/37/2003

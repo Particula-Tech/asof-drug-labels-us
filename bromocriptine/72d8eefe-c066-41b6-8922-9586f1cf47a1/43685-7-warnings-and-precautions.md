@@ -28,7 +28,7 @@ Cases of acute myocardial infarction have also been reported.
 
 Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
 In patients being treated for hyperprolactinemia, bromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS: Hyperprolactinemic States).
-In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS: Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
+In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS: Hyperprolactinemic States)and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
 When bromocriptine is being used to treat acromegaly or Parkinson’s disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
 If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine is considered to be medically contraindicated.
 Because of the possibility of an interaction between bromocriptine and other ergot alkaloids, the concomitant use of these medications is not recommended.
@@ -109,7 +109,7 @@ Rarely, after high doses, hallucinations have persisted for several weeks follow
 
 As with levodopa, caution should be exercised when administering bromocriptine to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
-Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2 to 10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
+Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2-10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
 
 Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
@@ -169,7 +169,7 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 post coitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
-In animals treated from day 8-5 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
+In animals treated from day 8-15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
 One anomaly, aplasia of spinal vertebrae and ribs, was found in the group of 262 fetuses derived from the dams treated with 30 mg/kg bromocriptine.
 No fetotoxic effects were found in offspring of dams treated during the peri- or postnatal period.
 
@@ -190,11 +190,11 @@ The mean daily dose for all patients was 5.8 mg (range 1-40 mg).
 
 Of these 1276 pregnancies, there were 1088 full-term deliveries (4 stillborn), 145 spontaneous abortions (11.4%), and 28 induced abortions (2.2%).
 Moreover, 12 extrauterine gravidities and 3 hydatidiform moles (twice in the same patient) caused early termination of pregnancy.
-These data compare favorably with the abortion rate (11% - 25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
+These data compare favorably with the abortion rate (11%-25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
 
 Although spontaneous abortions often go unreported, especially prior to 20 weeks of gestation, their frequency has been estimated to be 15%.
 
-The incidence of birth defects in the population at large ranges from 2% - 4.5%.
+The incidence of birth defects in the population at large ranges from 2%-4.5%.
 The incidence in 1109 live births from patients receiving bromocriptine is 3.3%.
 
 There is no suggestion that bromocriptine contributed to the type or incidence of birth defects in this group of infants.

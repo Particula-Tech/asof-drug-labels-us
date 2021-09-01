@@ -1,15 +1,6 @@
 # HOW SUPPLIED
 
-Bromocriptine Mesylate Tablets, USP are available containing 2.5 mg of bromocriptine (as the mesylate).
-
-The 2.5 mg tablets are white to off-white, round, scored tablets debossed with M over 42 on one side of the tablet and scored on the other side.
-They are available as follows:
-
-NDC 0378-2042-93 bottles of 30 tablets
-
-NDC 0378-2042-01 bottles of 100 tablets
-
-Bromocriptine Mesylate Capsules, USP are available containing 5 mg of bromocriptine (as the mesylate).
+Bromocriptine Mesylate Capsules, USP are available containing bromocriptine mesylate, USP equivalent to 5 mg bromocriptine.
 
 The 5 mg capsules are hard-shell gelatin capsules with a light brown opaque cap and ivory opaque body filled with a white to off-white powder.
 The capsules are axially printed with MYLAN over 7096 in black ink on both the cap and body.
@@ -24,6 +15,10 @@ Store and Dispense: Store at 20° to 25°C (68° to 77°F).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2020 BROMTC:R5
+Manufactured by: Granules India Limited Survey No. 160/A, 161/E, 162, 174/A, Gagillapur Village, Dundigal-Gandimaisamma Mandal, Medchal-Malkajgiri District – 500043, Telangana, INDIA
+
+AP/DRUGS/37/2003
+
+Revised: 9/2020 GR:BROMC:R2
