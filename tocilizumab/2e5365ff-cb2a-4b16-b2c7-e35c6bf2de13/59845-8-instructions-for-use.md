@@ -129,11 +129,11 @@ Record your Injection
 If you have questions or concerns about your ACTEMRA prefilled syringe, please contact your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 03/2021 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: MM/20YY ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-U.S. License No.: 1048 © 2021 Genentech, Inc. All rights reserved.
+U.S. License No.: 1048 © 20YY Genentech, Inc. All rights reserved.
 
 Instructions for Use ACTEMRA® (AC-TEM-RA) (tocilizumab) Injection, For Subcutaneous Use Single-dose Prefilled ACTPen® (AKT-PEN) Autoinjector
 
@@ -295,11 +295,11 @@ Record your Injection
 If you have any questions or concerns about your ACTEMRA ACTPen autoinjector, talk to your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 03/2021 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: MM/20YY ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 ACTPen is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
 U.S. License No.: 1048
 
-© 2021 Genentech, Inc. All rights reserved.
+© 20YY Genentech, Inc. All rights reserved.
