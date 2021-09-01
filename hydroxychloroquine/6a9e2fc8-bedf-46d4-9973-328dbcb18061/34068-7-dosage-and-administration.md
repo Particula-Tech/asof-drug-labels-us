@@ -1,54 +1,47 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-One hydroxychloroquine sulfate tablet contains 200 mg of hydroxychloroquine sulfate, which is equivalent to 155 mg base.
+## 2.1 Important Administration Instructions
 
-Take hydroxychloroquine sulfate tablets with a meal or a glass of milk.
+Administer hydroxychloroquine sulfate tablets orally with food or milk.
+Do not crush or divide the tablets.
 
-Malaria
+## 2.2 Dosage for Malaria in Adult and Pediatric Patients
+
+Hydroxychloroquine sulfate tablets are not recommended in pediatric patients less than 31 kg because the lowest available strength (200 mg) exceeds the recommended dose for these patients and it cannot be divided.
 
 Prophylaxis
 
-Adults:
+Treatment must start 2 weeks before travel to an endemic area.
+Advise the patient to take the prophylaxis dosage once a week, staring 2 weeks prior to travel to the endemic area, on the same day every week, continuing the same weekly dose while in the endemic area, and for 4 weeks after leaving the endemic area.
+The recommended prophylaxis dosage is:
 
-400 mg (310 mg base) once weekly on the same day of each week starting 2 weeks prior to exposure, and continued for 4 weeks after leaving the endemic area.
-
-Weight-based dosing in adults and pediatric patients:
-
-6.5 mg/kg (5 mg/kg base), not to exceed 400 mg (310 mg base), once weekly on the same day of the week starting 2 weeks prior to exposure, and continued for 4 weeks after leaving the endemic area.
+- Adult patients: 400 mg once a week
+- Pediatric patients ≥ 31 kg: 6.5 mg/kg actual body weight (up to 400 mg) once a week
 
 Treatment of Uncomplicated Malaria
 
-Adults:
+The dosages for the treatment of uncomplicated malaria are:
 
-800 mg (620 mg base) followed by 400 mg (310 mg base) at 6 hours, 24 hours and 48 hours after the initial dose (total 2,000 mg hydroxychloroquine sulfate or 1,550 mg base).
+- Adult patients: Administer 800 mg initially; subsequently administer 400 mg at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 2,000 mg).
+- Pediatric patients ≥ 31 kg: Administer 13 mg/kg (up to 800 mg) initially; subsequently administer 6.5 mg/kg (up to 400 mg) at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 31 mg/kg - up to 2,000 mg).
 
-Weight based dosage in adults and pediatric patients:
+For radical cure of P. vivax and P. ovale infections, concomitant therapy with an 8-aminoquinoline drug is necessary [see Microbiology (12.4)].
 
-13 mg/kg (10 mg/kg base), not to exceed 800 mg (620 mg base) followed by 6.5 mg/kg (5 mg/kg base), not to exceed 400 mg (310 mg base), at 6 hours, 24 hours and 48 hours after the initial dose.
-Hydroxychloroquine sulfate film-coated tablets cannot be divided, therefore they should not be used to treat patients who weigh less than 31 kg.
+## 2.3 Dosage for Rheumatoid Arthritis in Adults
 
-For radical cure of P. vivax and P. malariae infections, concomitant therapy with an 8-aminoquinoline compound is necessary.
+The recommended dosage is:
 
-Lupus Erythematosus
+- Initial dosage: 400 mg to 600 mg daily as a single daily dose or two divided doses.
+  The action of hydroxychloroquine is cumulative and may require weeks to months for maximum therapeutic effect.
+  Daily doses exceeding 5 mg/kg (actual weight) of hydroxychloroquine sulfate increase the incidence of retinopathy [see Warnings and Precautions (5.2)].
+- Chronic dosage: 200 mg once daily to 400 mg daily, as a single dose or two divided doses.
 
-The recommended adult dosage is 200 mg to 400 mg (155 mg to 310 mg base) daily, administered as a single daily dose or in two divided doses.
-Doses above 400 mg a day are not recommended.
+Corticosteroids, salicylates, and other antirheumatic agents may be used concomitantly with hydroxychloroquine sulfate tablets.
 
-The incidence of retinopathy has been reported to be higher when this maintenance dose is exceeded.
+## 2.4 Dosage for Systemic Lupus Erythematosus in Adults
 
-Rheumatoid Arthritis
+The recommended dosage is 200 mg given once daily, or 400 mg given once daily or in two divided doses.
 
-The action of hydroxychloroquine is cumulative and may require weeks to months to achieve the maximum therapeutic effect (see CLINICAL PHARMACOLOGY).
+## 2.5 Dosage for Chronic Discoid Lupus Erythematosus in Adults
 
-Initial adult dosage:
-
-400 mg to 600 mg (310 mg to 465 mg base) daily, administered as a single daily dose or in two divided doses.
-In a small percentage of patients, side effects may require temporary reduction of the initial dosage.
-
-Maintenance adult dosage:
-
-When a good response is obtained, the dosage may be reduced by 50 percent and continued at a maintenance level of 200 mg to 400 mg (155 mg to 310 mg base) daily, administered as a single daily dose or in two divided doses.
-
-Do not exceed 600 mg or 6.5 mg/kg (5 mg/kg base) per day, whichever is lower, as the incidence of retinopathy has been reported to be higher when this maintenance dose is exceeded.
-
-Corticosteroids and salicylates may be used in conjunction with hydroxychloroquine sulfate tablets and they can generally be decreased gradually in dosage or eliminated after a maintenance dose of hydroxychloroquine sulfate has been achieved.
+The recommended dosage is 200 mg given once daily, or 400 mg given once daily or in two divided doses.
