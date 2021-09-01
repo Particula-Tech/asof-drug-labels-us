@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Glycemic Control
+Glycemic Control in Patients with Type 2 Diabetes Mellitus
 
 JARDIANCE has been studied as monotherapy and in combination with metformin, sulfonylurea, pioglitazone, linagliptin, and insulin.
 JARDIANCE has also been studied in patients with type 2 diabetes with mild or moderate renal impairment.
@@ -277,7 +277,7 @@ Table 12 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in 
 | Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
 | ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
 
-For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Indications and Usage (1), Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Indications and Usage (1), Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
@@ -324,4 +324,49 @@ The efficacy of JARDIANCE on cardiovascular death was generally consistent acros
 Vital status was obtained for 99.2% of subjects in the trial.
 A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
-The non-cardiovascular deaths were only a small proportion of deaths, and were balanced between the treatment groups (2.1% in patients treated with JARDIANCE, and 2.4% of patients treated with placebo).
+The non-cardiovascular deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with JARDIANCE, and 2.4% of patients treated with placebo).
+
+Heart Failure with Reduced Ejection Fraction
+
+EMPEROR-Reduced (NCT03057977) was a randomized, double-blind, placebo-controlled study conducted in patients with chronic heart failure (New York Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular ejection fraction [LVEF] 40% or less) to evaluate the efficacy and safety of JARDIANCE 10 mg once daily, as adjunct to standard of care heart failure therapy.
+
+Of 3730 patients, 1863 were randomized to JARDIANCE 10 mg and 1867 to placebo and were followed for a median of 16 months.
+The mean age of the study population was 67 years (range: 25 to 94 years) and 76% were men, 24% were women, and 27% were 75 years of age or older.
+Approximately 71% of the study population were White, 18% Asian and 7% Black or African American.
+At baseline, 50% of the patients had type 2 diabetes mellitus.
+
+At randomization, 75% of patients were NYHA class II, 24% were class III and 0.5% were class IV.
+The mean LVEF was 28%.
+At baseline, the mean eGFR was 62 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g.
+Approximately half of the patients (52%) had eGFR ≥60 mL/min/1.73 m2, 24% had eGFR 45 to <60 mL/min/1.73 m2, 19% had eGFR 30 to <45 mL/min/1.73 m2 and 5% had eGFR 20 to <30 ml/min/1.73 m2.
+
+At baseline, 88% of patients were treated with angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARB), or angiotensin receptor-neprilysin inhibitors (ARNI), 95% with beta-blockers, 71% with mineralocorticoid receptor antagonists (MRA), and 95% with diuretics.
+
+The primary endpoint was the time to first event of either cardiovascular death (CV) or hospitalization for heart failure (HHF).
+Occurrence of HHF (first and recurrent) was assessed as a key secondary endpoint.
+
+JARDIANCE was superior in reducing the risk of the primary composite endpoint of cardiovascular death or hospitalization for heart failure compared with placebo, mostly through a reduction in hospitalization for heart failure.
+JARDIANCE significantly reduced the risk of occurrence of HHF (first and recurrent) (see Table 14 and Figures 7 and 8).
+
+Table 14 Treatment Effect for the Primary Composite Endpoint, its Components, and Key Secondary Endpoints
+
+|  | Number of Patients (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo N=1867 | JARDIANCE 10 mg N=1863 | Hazard ratio vs placebo (95% CI) | p-value |
+| Primary composite of cardiovascular death or hospitalization for heart failure (time to first event) | 462 (24.7%) | 361 (19.4%) | 0.75 (0.65-0.86) | <0.0001 |
+| Cardiovascular deatha,b | 202 (10.8%) | 187 (10.0%) | 0.92 (0.75, 1.12) |  |
+| Hospitalization for heart failurea | 342 (18.3%) | 246 (13.2%) | 0.69 (0.59, 0.81) |  |
+|  | Number of Events |  |  |  |
+| Hospitalization for heart failure (first and recurrent) | 553 | 388 | 0.70 (0.58, 0.85) | 0.0003 |
+| aTime to first event bIncludes deaths following hospitalization |  |  |  |  |
+
+Figure 7 Time to First Occurrence of the Primary Composite Endpoint of Cardiovascular Death or Hospitalization for Heart Failure
+
+Figure 8 Time to Event of Hospitalization for Heart Failure (First and Recurrent)
+
+The results of the primary composite were generally consistent across the pre-specified subgroups, including heart failure patients with and without type 2 diabetes mellitus (see Figure 9).
+
+Figure 9 Treatment Effects for the Primary Composite Endpoint (Cardiovascular Death and Hospitalization for Heart Failure) Subgroup Analysis (EMPEROR-Reduced)
+
+LVEF >30%: Includes both above and below the median NTproBNP.
+To be eligible for inclusion, patients with an LVEF >30% were required to meet a higher NTproBNP threshold than those with LVEF ≤30%, unless they additionally had a history of HHF within the past 12 months.

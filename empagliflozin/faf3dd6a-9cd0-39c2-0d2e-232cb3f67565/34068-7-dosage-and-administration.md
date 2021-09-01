@@ -7,9 +7,10 @@
 
 ## 2.2 Recommended Dosage
 
-The recommended dose of JARDIANCE is 10 mg once daily in the morning, taken with or without food.
-In patients tolerating JARDIANCE, the dose may be increased to 25 mg for additional glycemic control.
-
-## 2.3 Dosage Recommendations in Patients with Renal Impairment
-
-JARDIANCE is not recommended for use in patients with an eGFR less than 30 mL/min/1.73 m2 and contraindicated in patients on dialysis [see Indications and Usage (1), Contraindications (4), Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+- The recommended dose of JARDIANCE is 10 mg once daily in the morning, taken with or without food.
+- For additional glycemic control, the dose may be increased to 25 mg in patients tolerating JARDIANCE.
+- Use for glycemic control is not recommended in patients with an eGFR less than 30 mL/min/1.73 m2.
+- Data are insufficient to provide a dosing recommendation in patients;
+  - who have type 2 diabetes and established cardiovascular disease with an eGFR less than 30 mL/min/1.73 m2, or
+  - who have heart failure with reduced ejection fraction with an eGFR less than 20 mL/min/1.73 m2 [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+- JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].

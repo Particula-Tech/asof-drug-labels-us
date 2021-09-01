@@ -2,8 +2,9 @@
 
 JARDIANCE is indicated:
 
-- as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus,
-- to reduce the risk of cardiovascular death in adult patients with type 2 diabetes mellitus and established cardiovascular disease.
+- as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+- to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
+- to reduce the risk of cardiovascular death plus hospitalization for heart failure in adults with heart failure and reduced ejection fraction.
 
 Limitations of Use
 

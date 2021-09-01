@@ -10,8 +10,7 @@ The limited available data with JARDIANCE in pregnant women are not sufficient t
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
 In animal studies, adverse renal changes were observed in rats when empagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
-Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
-[see Data].
+Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible [see Data].
 
 The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -62,23 +61,31 @@ The safety and effectiveness of JARDIANCE have not been established in pediatric
 
 ## 8.5 Geriatric Use
 
-In studies assessing the efficacy of empagliflozin in improving glycemic control in patients with type 2 diabetes, a total of 2721 (32%) patients treated with empagliflozin were 65 years of age and older, and 491 (6%) were 75 years of age and older.
+In glycemic control studies in patients with type 2 diabetes mellitus, a total of 2721 (32%) patients treated with JARDIANCE were 65 years of age and older, and 491 (6%) were 75 years of age and older.
 JARDIANCE is expected to have diminished glycemic efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
+In the EMPEROR-Reduced study, a total of 1188 (64%) patients with heart failure 65 years of age and older were treated with 10 mg of JARDIANCE.
+Safety and efficacy were similar for patients 65 years and younger and those older than 65 years.
+
 ## 8.6 Renal Impairment
 
-The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of patients with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14)].
+The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14)].
 In this study, 195 patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
 The glucose lowering benefit of JARDIANCE 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.2)].
+Use of JARDIANCE for glycemic control in patients without established cardiovascular disease or cardiovascular risk factors is not recommended when eGFR is less than 30 mL/min/1.73 m2.
 
-In a large cardiovascular outcomes study, there were 1819 patients with eGFR below 60 mL/min/1.73 m2.
+In a large cardiovascular outcomes study of patients with type 2 diabetes and established cardiovascular disease, there were 1819 patients with eGFR below 60 mL/min/1.73 m2.
 The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14)].
 
-The efficacy and safety studies with JARDIANCE did not enroll patients with ESRD, on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
-JARDIANCE is contraindicated in patients on dialysis [see Indications and Usage (1) and Contraindications (4)].
+In the study in patients with heart failure with reduced ejection fraction [see Clinical Studies (14)] patients with eGFR equal to or above 20 mL/min/1.73 m2 were included.
+No dose adjustment is recommended for these patients.
+There is insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
+
+Efficacy and safety studies with JARDIANCE did not enroll patients with an eGFR less than 20 mL/min/1.73 m2.
+JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].
 
 ## 8.7 Hepatic Impairment
 

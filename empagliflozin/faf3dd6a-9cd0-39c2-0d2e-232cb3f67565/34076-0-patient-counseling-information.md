@@ -42,7 +42,7 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with JARDIANCE.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing physician [see Warnings and Precautions (5.7)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.7)].
 
 Laboratory Tests
 
@@ -51,7 +51,7 @@ Inform patients that elevated glucose in urinalysis is expected when taking JARD
 Pregnancy
 
 Advise pregnant patients, and patients of reproductive potential, of the potential risk to a fetus with treatment with JARDIANCE [see Use in Specific Populations (8.1)].
-Instruct patients to report pregnancies to their physicians as soon as possible.
+Instruct patients to report pregnancies to their healthcare provider as soon as possible.
 
 Lactation
 

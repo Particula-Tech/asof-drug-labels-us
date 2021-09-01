@@ -4,10 +4,10 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 JARDIANCE is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the EMPA-REG OUTCOME® trademark under license.
+Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the EMPA-REG OUTCOME® and EMPEROR-Reduced® trademarks under license.
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
 Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8914BF142021
+COL8914DH162021

@@ -35,7 +35,7 @@ Monitor for signs and symptoms of volume depletion, and renal function after ini
 
 ## 5.3 Urosepsis and Pyelonephritis
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including JARDIANCE.
+There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including JARDIANCE.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
@@ -47,7 +47,7 @@ Therefore, a lower dose of the insulin secretagogue or insulin may be required t
 
 ## 5.5 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 

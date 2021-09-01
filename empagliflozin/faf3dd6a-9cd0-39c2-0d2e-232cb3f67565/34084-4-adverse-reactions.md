@@ -14,9 +14,12 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Pool of Placebo-Controlled Trials evaluating JARDIANCE 10 and 25 mg
+JARDIANCE has been evaluated in clinical trials in patients with type 2 diabetes mellitus and in patients with heart failure.
+The overall safety profile of JARDIANCE was generally consistent across the studied indications.
 
-The data in Table 1 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with insulin.
+Clinical Trials in Patients with Type 2 Diabetes Mellitus
+
+The data in Table 1 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with insulin in patients with type 2 diabetes.
 JARDIANCE was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14)].
 
 These data reflect exposure of 1976 patients to JARDIANCE with a mean exposure duration of approximately 23 weeks.
@@ -103,6 +106,11 @@ The rate of treatment discontinuation due to urinary tract infections was 0.1%, 
 Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
 The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
+
+Clinical Trial in Patients with Heart Failure
+
+The EMPEROR-Reduced study included 3726 patients with heart failure and reduced ejection fraction, treated with JARDIANCE 10 mg or placebo.
+No new adverse reactions were identified in the EMPEROR-Reduced heart failure study.
 
 Laboratory Tests
 
