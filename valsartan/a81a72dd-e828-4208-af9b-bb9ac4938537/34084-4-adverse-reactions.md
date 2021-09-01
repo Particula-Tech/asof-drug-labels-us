@@ -26,7 +26,7 @@ Pediatric Hypertension
 
 Valsartan has been evaluated for safety in over 400 patients aged 6 to 17 years.
 No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
-Hyperkalemia was more frequently observed in pediatric patients aged 6 to 17 years with underlying chronic kidney disease (CKD).
+Hyperkalemia was more frequently observed in pediatric patients with underlying chronic kidney disease (CKD).
 Heart Failure
 
 In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
@@ -73,7 +73,11 @@ Clinical Laboratory Test Findings
 Creatinine: In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
 In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
-Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients [see Warnings and Precautions (5.3)].
+Blood Urea Nitrogen (BUN):
+
+In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients [see Warnings and Precautions (5.3)].
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

@@ -73,7 +73,8 @@ Specific Populations:
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young [see Use in Specific Populations (8.5)].
 
-Pediatric: In a study of pediatric hypertensive patients (n=26, 6 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
 Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min).

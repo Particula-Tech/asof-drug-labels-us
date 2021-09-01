@@ -24,6 +24,9 @@ Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
 *Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
 
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 2.2 Adult Hypertension
 
 The recommended starting dose of valsartan tablets is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
@@ -43,6 +46,11 @@ A higher starting dose of 2 mg/kg may be considered in selected cases when a gre
 The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2 [see Use in Specific Populations (8.4)].
+
+Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Heart Failure
 

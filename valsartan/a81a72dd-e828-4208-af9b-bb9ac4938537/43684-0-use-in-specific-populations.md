@@ -59,12 +59,19 @@ Valsartan was detected in the milk of lactating rats 15 minutes after oral admin
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan have been evaluated in 5 clinical studies in pediatric patients from 6 to 16 years of age [see Clinical Studies (14.1)].
-The pharmacokinetics of valsartan have been evaluated in pediatric patients 6 to 16 years of age [see Clinical Pharmacology (12.3)].
+The antihypertensive effects of valsartan have been evaluated in a clinical study in pediatric patients from 6 to 16 years of age [see Clinical Studies (14.1)].
+The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
 The adverse experience profile of valsartan was similar to that described for adults [see Adverse Reactions (6.1)].
 
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
+
+Use of valsartan is not recommended in children less than 1 year of age.
+[see Nonclinical Toxicology (13.2)].
+It is not known whether post-natal use of valsartan, before maturation of renal function is complete, has a long- term deleterious effect on the kidney.
+
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate less than 30 mL/min/1.73 m2.
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
