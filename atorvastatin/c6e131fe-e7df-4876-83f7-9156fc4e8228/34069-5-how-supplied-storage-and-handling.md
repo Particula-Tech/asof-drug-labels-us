@@ -2,15 +2,15 @@
 
 10 mg tablets (10 mg of atorvastatin): coded "PD 155" on one side and "10" on the other.
 
-NDC 0071-0155-23 bottles of 90 NDC 0071-0155-40 10 × 10 unit dose blisters NDC 0071-0155-10 bottles of 1000
+NDC 0071-0155-23 bottles of 90 NDC 0071-0155-40 10 × 10 unit dose blisters
 
 20 mg tablets (20 mg of atorvastatin): coded "PD 156" on one side and "20" on the other.
 
-NDC 0071-0156-23 bottles of 90 NDC 0071-0156-40 10 × 10 unit dose blisters NDC 0071-0156-10 bottles of 1000
+NDC 0071-0156-23 bottles of 90 NDC 0071-0156-40 10 × 10 unit dose blisters
 
 40 mg tablets (40 mg of atorvastatin): coded "PD 157" on one side and "40" on the other.
 
-NDC 0071-0157-23 bottles of 90 NDC 0071-0157-73 bottles of 500 NDC 0071-0157-40 10 × 10 unit dose blisters
+NDC 0071-0157-23 bottles of 90 NDC 0071-0157-40 10 × 10 unit dose blisters
 
 80 mg tablets (80 mg of atorvastatin): coded "PD 158" on one side and "80" on the other.
 
