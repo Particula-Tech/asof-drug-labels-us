@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2011-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2011-2021 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8415-iptx-2011r025
+uspi-mk8415-iptx-2107r026
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -16,8 +16,8 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2011-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2011-2021 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2020
+Revised: 7/2021
 
-usppi-mk8415-iptx-2010r022
+usppi-mk8415-iptx-2107r023

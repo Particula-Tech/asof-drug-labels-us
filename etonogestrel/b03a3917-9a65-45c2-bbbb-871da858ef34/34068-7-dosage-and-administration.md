@@ -6,7 +6,7 @@ All healthcare professionals should receive instruction and training prior to pe
 
 A single NEXPLANON implant is inserted subdermally just under the skin at the inner side of the non-dominant upper arm.
 The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
-This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus (See Figures 2a, 2b and 2c).
+This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus (see Figures 2a, 2b and 2c).
 An implant inserted more deeply than subdermally (deep insertion) may not be palpable and the localization and/or removal can be difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
 NEXPLANON must be inserted by the expiration date stated on the packaging.
@@ -158,7 +158,7 @@ Step 10.
 With your free hand, stretch the skin around the insertion site towards the elbow (Figure 4).
 
 Step 11.
-The implant should be inserted subdermally just under the skin (see Warnings and Precautions (5.1))
+The implant should be inserted subdermally just under the skin [see Warnings and Precautions (5.1)].
 
 To help make sure the implant is inserted just under the skin, you should position yourself to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
 From the side view (see Figure 6), you can clearly see the insertion site and the movement of the needle just under the skin.

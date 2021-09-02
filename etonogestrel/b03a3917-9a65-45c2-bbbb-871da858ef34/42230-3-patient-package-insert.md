@@ -12,7 +12,7 @@ What is NEXPLANON?
 
 NEXPLANON is a hormone-releasing birth control implant for use by women to prevent pregnancy for up to 3 years.
 The implant is a flexible plastic rod about the size of a matchstick that contains a progestin hormone called etonogestrel.
-It contains a small amount of barium sulfate so that the implant can be seen by X-ray, and may also contain magnesium stearate.
+It contains a small amount of barium sulfate (15 mg), so that the implant can be seen by X-ray, an ethylene vinyl acetate (EVA) copolymer (28% vinyl acetate, 43 mg) core, and magnesium stearate (0.1 mg).
 Your healthcare provider will insert the implant just under the skin of the inner side of your upper arm.
 You can use a single NEXPLANON implant for up to 3 years.
 NEXPLANON does not contain estrogen.
