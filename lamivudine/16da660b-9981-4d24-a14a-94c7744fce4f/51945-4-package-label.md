@@ -34,7 +34,7 @@ Research Triangle Park, NC 27709
 
 Trademarks are owned or licensed by ViiV Healthcare.
 
-2018 ViiV Healthcare or licensor.
+©2018 ViiV Healthcare or licensor.
 
 Made in UK
 
