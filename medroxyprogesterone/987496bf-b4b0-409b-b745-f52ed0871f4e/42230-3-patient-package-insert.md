@@ -1,6 +1,6 @@
 # Patient Information
 
-Medroxyprogesterone Acetate Injectable Suspension, USP
+Medroxyprogesterone Acetate Injectable Suspension, USP Contraceptive Injection
 
 Read this Patient Information carefully before you decide if Medroxyprogesterone Acetate (MPA) Injectable Suspension, USP is right for you.
 This information does not take the place of talking with your gynecologist or other healthcare provider who specializes in women's health.
@@ -233,6 +233,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Distributed by: Prasco Laboratories Mason, OH 45040 USA
 
-LAB-1463-2.0
+LAB-1463-3.0
 
-Revised: January 2021
+Revised: August 2021

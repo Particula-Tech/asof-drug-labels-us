@@ -1,3 +1,3 @@
 Distributed by: Prasco Laboratories Mason, OH 45040 USA
 
-LAB-1462-2.0
+LAB-1462-3.0
