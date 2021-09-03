@@ -1,9 +1,12 @@
-Rx ONLY
+Rx Only
 
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
-
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Revised: July 2018 PIN115-WES/10
+Berkeley Heights, NJ 07922
+
+Revised: July 2021
+
+PIN115-WES/13

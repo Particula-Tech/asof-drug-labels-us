@@ -3,7 +3,7 @@
 Fluconazole Injection, USP for intravenous infusion administration is formulated as a sterile iso-osmotic solution containing 2 mg/mL of Fluconazole, USP.
 It is supplied in glass vials containing a volume of 100 mL, affording a dose of 200 mg of Fluconazole, USP.
 It is also supplied in plastic containers containing volumes of 100 mL or 200 mL, affording doses of 200 mg and 400 mg of Fluconazole, USP, respectively.
-Fluconazole injections in plastic containers are available both in Sodium Chloride, USP and Dextrose, USP diluents.
+Fluconazole Injection, USP in plastic containers are available in both Sodium Chloride, USP and Dextrose, USP diluents.
 
 Fluconazole in Sodium Chloride Injection, USP in glass vials:
 
@@ -26,4 +26,4 @@ Storage: Store between 77°F (25°C) and 41°F (5°C).
 Brief exposure up to 104°F (40°C) does not adversely affect the product.
 Protect from freezing.
 
-Maalox® is a registered trademark of Aventis Pharmaceuticals Products Inc.
+Brands listed are the trademarks of their respective owners.
