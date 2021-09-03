@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210735"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-270-01",
+    "55150-271-01"
+  ],
+  "products": [
+    {
+      "form": "CONCENTRATE",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "3c1eb470-0bba-457d-94e3-b9508f0d398a",
+  "source": "dailymed"
+}
