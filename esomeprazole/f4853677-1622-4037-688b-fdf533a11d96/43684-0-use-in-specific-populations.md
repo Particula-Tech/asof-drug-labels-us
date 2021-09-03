@@ -4,14 +4,14 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies with NEXIUM in pregnant women.
+There are no adequate and well-controlled studies with esomeprazole in pregnant women.
 Esomeprazole is the S-isomer of omeprazole.
-Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
+Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use (see Data).
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg.
-When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age (see Data).
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -76,46 +76,62 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NEXIUM have been established in pediatric patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD.
-The safety and effectiveness of NEXIUM have been established in pediatric patients 1 month to less than 1 year for short-term treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD.
-However, the safety and effectiveness of NEXIUM have not been established in patients less than 1 month of age.
+Healing of EE
 
-1 to 17 years of age
+Pediatric Patients 1 Year to 17 Years of Age
 
-Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
-The safety and effectiveness of NEXIUM for other pediatric uses have not been established.
+The safety and effectiveness of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension have been established in pediatric patients 12 years to 17 years for short-term treatment (4 to 8 weeks) for healing of EE.
+The safety and effectiveness of NEXIUM for delayed-release oral suspension have been established in pediatric patients 1 year to 11 years for short-term treatment (up to 8 weeks) for healing of EE.
+Use of NEXIUM for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4).
 
-Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
+Pediatric Patients 1 Month to Less Than 1 Year of Age
 
-Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
+The safety and effectiveness of NEXIUM for delayed-release oral suspension have been established in pediatric patients 1 month to less than 1 year of age for short-term treatment (up to 6 weeks) of EE due to acid-mediated GERD.
+Use of NEXIUM for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety, pharmacokinetic, and pharmacodynamic data in pediatric patients 1 month to less than 1 year of age.
+The safety profile in pediatric patients 1 month to less than 1 year of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3)].
 
-Symptomatic GERD in infants 1 month to less than one year of age
+The safety and effectiveness of NEXIUM for the treatment of EE due to acid-mediated GERD in pediatric patients less than 1 month of age have not been established.
 
-There was no statistically significant difference between NEXIUM and placebo in the rate of discontinuation due to symptom worsening in a multicenter, randomized, double-blind, controlled, treatment-withdrawal study of 98 patients ages 1 to 11 months, inclusive.
+Symptomatic GERD
+
+Pediatric Patients 1 Year to 17 Years of Age
+
+The safety and effectiveness of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension have been established in pediatric patients 12 years to 17 years of age for the short-term treatment (4 weeks) of heartburn and other symptoms associated with GERD.
+The safety and effectiveness of NEXIUM for delayed-release oral suspension have been established in pediatric patients 1 year to 11 years of age for the short-term treatment (up to 8 weeks) of heartburn and other symptoms associated with GERD.
+Use of NEXIUM for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+The safety and effectiveness of NEXIUM for the treatment of symptomatic GERD in pediatric patients less than 1 year of age have not been established.
+
+Infants 1 Month to Less Than 1 Year of Age
+
+NEXIUM was not found to be effective in a multicenter, randomized, double-blind, controlled, treatment-withdrawal study of 98 infants aged 1 month to 11 months for the treatment of symptomatic GERD.
 Patients were enrolled if they had either a clinical diagnosis of suspected GERD, symptomatic GERD, or endoscopically proven GERD.
-Twenty of 98 enrolled patients underwent endoscopy, and 6 patients were found to have erosive esophagitis on endoscopy at baseline.
-All patients received NEXIUM Delayed-Release Oral Suspension once daily during a two-week, open-label phase of the study.
-
+Twenty of 98 enrolled patients underwent endoscopy, and 6 patients were found to have EE on endoscopy at baseline.
+All patients received NEXIUM for delayed-release oral suspension once daily during a two-week, open-label phase of the study.
 There were 80 patients who attained a pre-specified level of symptom improvement and who entered the double-blind phase, in which they were randomized in equal proportions to receive NEXIUM or placebo for the next four weeks.
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week, treatment-withdrawal phase.
+There was no statistically significant difference between NEXIUM and placebo in the rate of discontinuation due to symptom worsening; therefore, these results do not support the use of NEXIUM for the treatment of symptomatic GERD in infants 1 month to less than 1 year of age.
 
-The following pharmacokinetic and pharmacodynamic information was obtained in pediatric patients with GERD aged birth to less than one year of age.
-In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [see Clinical Pharmacology (12.2)].
-Apparent clearance (CL/F) increases with age in pediatric patients from birth to 2 years of age.
+Other Conditions
 
-Neonates 0 to 1 month of age
+The safety and effectiveness of NEXIUM for the risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence and treatment of pathological hypersecretory conditions have not been established in pediatric patients.
 
-Following administration of oral NEXIUM in neonates the geometric mean (range) for the apparent clearance (CL/F) was 0.55 L/h/kg (0.25-1.6 L/h/kg).
-
-The safety and effectiveness of NEXIUM in neonates have not been established.
-
-Juvenile Animal Data
+Juvenile Animal Toxicity Studies
 
 In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received NEXIUM in clinical trials, 1459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
+Of the total number of patients who received NEXIUM in clinical trials, 1459 were 65 to 74 years of age and 354 patients were 75 years of age and older.
 
-No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+## 8.6 Hepatic Impairment
+
+In patients with severe hepatic impairment (Child-Pugh Class C) exposure to esomeprazole substantially increased compared to healthy subjects.
+Dosage modification of NEXIUM is recommended for patients with severe hepatic impairment for the healing of EE, risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence, and pathological hypersecretory conditions including Zollinger-Ellison Syndrome [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+
+In patients with mild to moderate liver impairment (Child-Pugh Classes A and B), no dosage adjustment is necessary.

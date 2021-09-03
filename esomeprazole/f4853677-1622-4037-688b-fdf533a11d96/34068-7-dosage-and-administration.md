@@ -1,99 +1,95 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-NEXIUM is supplied as delayed-release capsules for oral administration or in packets for preparation of delayed-release oral suspensions.
-The recommended dosages are outlined in Table 1.
-NEXIUM should be taken at least one hour before meals.
+## 2.1 Recommended Dosage in Adults by Indication
 
-The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
-Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
+Table 1 shows the recommended adult dosage of NEXIUM by indication.
 
-Table 1: Recommended Dosage Schedule for NEXIUM
+The duration of NEXIUM treatment should be based on available safety and efficacy data specific to the defined indication and dosing frequency and individual patient medical needs.
+NEXIUM should only be initiated and continued if the benefits outweigh the risks of treatment.
 
-| Indication | Dose | Frequency |
+Table 1: Recommended Dosage of NEXIUM in Adults by Indication
+
+| Adult Indication | Recommended Dosage of NEXIUMdelayed-release capsules and NEXIUM for delayed-release oral suspension | Treatment Duration |
 | --- | --- | --- |
-| Gastroesophageal Reflux Disease (GERD) |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
-| Maintenance of Healing of Erosive Esophagitis | 20 mg | Once DailyControlled studies did not extend beyond six months. |
-| Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 WeeksIf symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered. |
-| Pediatric GERD12 to 17 Year Olds |  |  |
-| Healing of Erosive EsophagitisSymptomatic GERD | 20 mg or 40 mg20 mg | Once Daily for 4 to 8 WeeksOnce Daily for 4 Weeks |
-| 1 to 11 Year OldsDoses over 1 mg/kg/day have not been studied. |  |  |
-| Short-term Treatment of Symptomatic GERD | 10 mg | Once Daily for up to 8 Weeks |
-| Healing of Erosive Esophagitis |  |  |
-| weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
-| weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
-| 1 month to < 1 year oldDoses over 1.33 mg/kg/day have not been studied. |  |  |
-| Erosive Esophagitis due to acid-mediated GERD |  |  |
-| weight 3 kg to 5 kg | 2.5 mg | Once Daily for up to 6 Weeks |
-| weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |
-| weight > 7.5 kg to 12 kg | 10 mg | Once Daily for up to 6 Weeks |
-| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg | Once Daily for up to 6 months |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence |  |  |
-| Triple Therapy: |  |  |
-| NEXIUM | 40 mg | Once Daily for 10 Days |
-| Amoxicillin | 1000 mg | Twice Daily for 10 Days |
-| Clarithromycin | 500 mg | Twice Daily for 10 Days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Twice DailyDoses up to 240 mg daily have been administered [see Drug Interactions (7)]. |
+| Healing of EE | 20 mg or 40 mg once daily | 4 to 8 weeks |
+| Maintenance of Healing of EE | 20 mg once daily | Controlled studies do not extend beyond 6 months |
+| Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
+| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg once daily | Controlled studies do not extend beyond 6 months |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | NEXIUM 40 mg once daily | 10 days |
+| Amoxicillin 1000 mg twice daily | 10 days |  |
+| Clarithromycin 500 mg twice daily | 10 days |  |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily; individualize the regimen to patient needs.Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
 
-Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
+## 2.2 Recommended Dosage in Pediatric Patients by Indication
 
-Specific Populations
+Table 2 shows the recommended dosage of NEXIUM in pediatric patients by indication.
 
-Hepatic Insufficiency
+Table 2: Recommended Dosage of NEXIUM in Pediatric Patients by Indication
 
-In patients with mild to moderate liver impairment (Child‑Pugh Classes A and B), no dosage adjustment is necessary.
-For patients with severe liver impairment (Child‑Pugh Class C), a dose of 20 mg of NEXIUM should not be exceeded [see Clinical Pharmacology (12.3)].
+| Indication | Patient Age | Recommended Dosage | Duration |
+| --- | --- | --- | --- |
+| Healing of EE | 12 years to 17 years | NEXIUM delayed-release capsules or NEXIUM for delayed-release oral suspension:20 mg or 40 mg once daily | 4 to 8 Weeks |
+| 1 year to 11 yearsDosages over 1 mg/kg/day have not been studied | NEXIUM for delayed-release oral suspension: Less than 20 kg10 mg once daily20 kg and greater10 mg or 20 mg once daily | 8 weeks |  |
+| Treatment of EE due to Acid-Mediated GERD | 1 month to less than 1 yearDosages over 1.33 mg/kg/day have not been studied | NEXIUM for delayed-release oral suspension: 3 kg to 5 kg2.5 mg once dailyGreater than 5 kg to 7.5 kg5 mg once dailyGreater than 7.5 kg to 12 kg10 mg once daily | Up to 6 weeks |
+| Treatment of Symptomatic GERD | 12 years to 17 years | NEXIUM delayed-release capsules or NEXIUM for delayed-release oral suspension:20 mg once daily | 4 weeks |
+| 1 year to 11 years | NEXIUM for delayed-release oral suspension:10 mg once daily1 | Up to 8 weeks |  |
 
-Directions for use specific to the route and available methods of administration for each of these dosage forms are presented in Table 2.
+## 2.3 Preparation and Administration Instructions
 
-Table 2: Administration Options
-
-| Administration Options (See text following table for additional instructions.) |  |  |
-| --- | --- | --- |
-| Dosage Form | Route | Options |
-| Delayed-Release Capsules | Oral | Capsule can be swallowed whole.-or- Capsule can be opened and mixed with applesauce. |
-| Delayed-Release Capsules | Nasogastric Tube | Capsule can be opened and the intact granules emptied into a syringe and delivered through the nasogastric tube. |
-| For Delayed-Release Oral Suspension | Oral | For the 2.5 mg and 5 mg strengths, mix the contents of packet with 5 mL of water, leave 2 to 3 minutes to thicken, stir and drink within 30 minutes. For the 10 mg, 20 mg and 40 mg strengths, mix contents of packet with 15 mL of water, and follow the instructions above. |
-| For Delayed-Release Oral Suspension | Nasogastric or Gastric Tube | For the 2.5 mg and 5 mg strengths, add 5 mL of water to a syringe and then add contents of packet. Shake the syringe; leave 2 to 3 minutes to thicken. Shake the syringe and inject through the nasogastric or gastric tube within 30 minutes. For the 10 mg, 20 mg and 40 mg strengths, add 15 mL of water, and follow the instructions above. |
+- •Take NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension at least one hour before meals [see Clinical Pharmacology (12.3)].
+- •Antacids may be used concomitantly with NEXIUM.
+- •Take a missed dose as soon as possible.
+  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+  Do not take 2 doses at the same time.
 
 NEXIUM Delayed-Release Capsules
 
-NEXIUM Delayed-Release Capsules should be swallowed whole.
+Administer NEXIUM delayed-release capsules orally or via a nasogastric tube, as described below.
 
-Alternatively, for patients who have difficulty swallowing capsules, one tablespoon of applesauce can be added to an empty bowl and the NEXIUM Delayed-Release Capsule can be opened, and the granules inside the capsule carefully emptied onto the applesauce.
-The granules should be mixed with the applesauce and then swallowed immediately: do not store for future use.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The granules should not be chewed or crushed.
-If the granules/applesauce mixture is not used in its entirety, the remaining mixture should be discarded immediately.
+Oral Administration
 
-For patients who have a nasogastric tube in place, NEXIUM Delayed-Release Capsules can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and mixed with 50 mL of water.
-It is important to only use a catheter tipped syringe when administering NEXIUM through a nasogastric tube.
-Replace the plunger and shake the syringe vigorously for 15 seconds.
-Hold the syringe with the tip up and check for granules remaining in the tip.
-Attach the syringe to a nasogastric tube and deliver the contents of the syringe through the nasogastric tube into the stomach.
-After administering the granules, the nasogastric tube should be flushed with additional water.
-Do not administer the granules if they have dissolved or disintegrated.
+- •Swallow NEXIUM delayed-release capsules whole; do not chew or crush the capsules.
+- •For patients who have difficulty swallowing capsules, NEXIUM delayed-release capsules can be opened, and the contents sprinkled on applesauce.
+  Use with other foods has not been evaluated and is not recommended.
+- 1.Add one tablespoon of applesauce to an empty bowl.
+  The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+- 2.Open the NEXIUM delayed-release capsule and carefully empty the granules inside the capsule onto the applesauce.
+- 3.Mix the granules with the applesauce.
+- 4.Administer the mixture immediately.
+  Do not chew or crush the granules
+- 5.Discard any remaining mixture.
+  Do not store the mixture for future use.
 
-The mixture must be used immediately after preparation.
+Administration via Nasogastric Tube
+
+1. 1.Open the NEXIUM delayed-release capsule and empty the granules into a 60 mL catheter-tipped syringe.
+2. 2.Mix the granules with 50 mL of water.
+3. 3.Replace the plunger and shake the catheter-tipped syringe vigorously for 15 seconds.
+4. 4.Hold the catheter-tipped syringe with the tip up and check for any granules remaining in the tip.
+5. 5.Attach the catheter-tipped syringe to a nasogastric tube and deliver the contents of the syringe through the nasogastric tube into the stomach.
+6. 6.After administering the granules, flush the nasogastric tube with additional water.
+7. 7.Use the mixture immediately after preparation.
+   Do not administer the granules if they have dissolved or disintegrated.
 
 NEXIUM For Delayed-Release Oral Suspension
 
-NEXIUM For Delayed-Release Oral Suspension should be administered as follows:
+Administer NEXIUM for delayed-release oral suspension orally or via a nasogastric or gastric tube, as described below.
 
-- •Empty the contents of a 2.5 mg or 5 mg packet into a container containing 5 mL of water.
-  For the 10 mg, 20 mg, and 40 mg strengths, the contents of a packet should be emptied into a container containing 15 mL of water.
-- •Stir.
-- •Leave 2 to 3 minutes to thicken.
-- •Stir and drink within 30 minutes.
-- •If any medicine remains after drinking, add more water, stir, and drink immediately.
-- •In cases where there is a need to use two packets, they may be mixed in a similar way by adding twice the required amount of water or follow the mixing instructions provided by your pharmacist or doctor.
+Oral Administration
 
-For patients who have a nasogastric or gastric tube in place, NEXIUM For Delayed-Release Oral Suspension can be administered as follows:
+1. 1.Empty the contents of a 2.5 mg or 5 mg NEXIUM packet into a container containing 5 mL of water.
+   For the 10 mg, 20 mg, and 40 mg strengths, the contents of a packet should be emptied into a container containing 15 mL of water.
+   If two packets are needed, mix in a similar way add twice the required amount of water.
+2. 2.Stir the packet contents into the water.
+3. 3.Leave 2 to 3 minutes to thicken.
+4. 4.Stir and drink within 30 minutes.
+5. 5.If any of the contents remain after drinking, add more water, stir, and drink immediately.
 
-- •Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg or 5 mg NEXIUM packet.
-  For the 10 mg, 20 mg, and 40 mg strengths, the volume of water in the syringe should be 15 mL.
-  It is important to only use a catheter tipped syringe when administering NEXIUM through a nasogastric tube or gastric tube.
-- •Immediately shake the syringe and leave 2 to 3 minutes to thicken.
-- •Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
-- •Refill the syringe with an equal amount of water (5 mL or 15 mL).
-- •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
+Administration via Nasogastric or Gastric Tube
+
+1. 1.Add 5 mL of water to a catheter-tipped syringe and then add the contents of a 2.5 mg or 5 mg NEXIUM packet.
+   For the 10 mg, 20 mg, and 40 mg packet strengths, add at least 15 mL of water to the catheter-tipped syringe.
+2. 2.Immediately shake the catheter-tipped syringe and leave 2 to 3 minutes to thicken.
+3. 3.Shake the catheter-tipped syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
+4. 4.Refill the catheter-tipped syringe with an equal amount of water (5 mL or 15 mL).
+5. 5.Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.

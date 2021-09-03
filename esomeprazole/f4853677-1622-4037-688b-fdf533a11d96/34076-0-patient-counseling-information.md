@@ -1,33 +1,52 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Adverse Reactions
+Acute Tubulointerstitial Nephritis
 
-Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+Advise the patient or caregiver to call the patient’s healthcare provider immediately if they experience signs and/or symptoms associated with suspected acute TIN [see Warnings and Precautions (5.2)].
 
-- •Hypersensitivity Reactions [see Contraindications (4)]
-- •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- •Bone Fracture [see Warnings and Precaution (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- •Hypomagnesemia [see Warnings and Precautions (5.8)]
+Clostridium difficile-Associated Diarrhea
+
+Advise the patient or caregiver to immediately call the patient’s healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+
+Bone Fracture
+
+Advise the patient or caregiver to report any fractures, especially of the hip, wrist or spine, to the patient’s healthcare provider [see Warnings and Precautions (5.4)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+
+Cyanocobalamin (Vitamin B-12) Deficiency
+
+Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving NEXIUM for longer than 3 years [see Warnings and Precautions (5.7)].
+
+Hypomagnesemia
+
+Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia to the patient’s healthcare provider, if they have been receiving NEXIUM for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
-- •Advise patients to let you know if they are taking, or begin taking, other medications, because NEXIUM can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions (7.1)].
+Advise the patient or caregiver to report to their healthcare provider if starting treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.6, 5.9, 5.11)].
 
 Administration
 
-- •Let patients know that antacids may be used while taking NEXIUM.
-- •Advise patients to take NEXIUM at least one hour before a meal.
-- •For patients who are prescribed NEXIUM Delayed-Release Capsules, advise them not to chew or crush the capsules.
-- •Advise patients that, if they open NEXIUM Delayed-Release Capsules to mix the granules with food, the granules should only be mixed with applesauce.
-  Use with other foods has not been evaluated and is not recommended.
-- •For patients who are advised to open the NEXIUM Delayed-Release Capsules before taking them or who are prescribed NEXIUM For Delayed-Release Oral Suspension, instruct them in the proper technique for administration [see Dosage and Administration (2)] and tell them to follow the dosing instructions in the PATIENT INFORMATION insert included in the package.
-  Instruct patients to rinse the syringe with water after each use.
-- •For patients who are prescribed NEXIUM For Delayed-Release Oral Suspension and need to use more than one packet for their dose, instruct them regarding the correct amount of water to use when mixing their dose.
+- •Take NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension at least one hour before meals.
+- •Antacids may be used concomitantly with NEXIUM.
+- •Swallow NEXIUM delayed-release capsules whole; do not chew or crush the capsules.
+- •For patients who have difficulty swallowing capsules, NEXIUM delayed-release capsules can be opened, and the contents sprinkled on applesauce.
+  Use with other foods is not recommended.
+- 1.Add one tablespoon of applesauce to an empty bowl.
+  The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+- 2.Open the NEXIUM delayed-release capsule and carefully empty the granules inside the capsule onto the applesauce.
+- 3.Mix the granules with the applesauce.
+- 4.Administer the mixture immediately.
+  Do not chew or crush the granules
+- 5.Discard any remaining mixture.
+  Do not store the mixture for future use.
+- •NEXIUM delayed-release capsules can also be administered via a nasogastric tube, as described in the Instructions for Use.
+- •Administer NEXIUM for delayed-release oral suspension orally or via a nasogastric or gastric tube, as described in the Instructions for Use.
 
 Distributed by:
 

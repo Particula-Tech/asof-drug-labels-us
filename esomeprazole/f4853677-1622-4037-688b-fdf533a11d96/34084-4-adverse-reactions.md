@@ -128,4 +128,4 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), acute generalized exanthematous pustulosis (AGEP), drug rash with eosinophilia and systemic symptoms (DRESS), cutaneous lupus erythematosus.

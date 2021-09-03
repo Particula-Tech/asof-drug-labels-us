@@ -7,31 +7,27 @@ NDC 0186-5020-31 unit of use bottles of 30
 
 NDC 0186-5020-54 bottles of 90
 
-NDC 0186-5020-82 bottles of 1000
-
-NEXIUM Delayed-Release Capsules, 40 mg, are opaque, hard gelatin, amethyst colored capsules with three radial bars in yellow on the cap and NEXIUM 40 mg in yellow on the body.
+NEXIUM Delayed-Release Capsules, 40 mg, esomeprazole, are opaque, hard gelatin, amethyst colored capsules with three radial bars in yellow on the cap and NEXIUM 40 mg in yellow on the body.
 They are supplied as follows:
 
 NDC 0186-5040-31 unit of use bottles of 30
 
 NDC 0186-5040-54 bottles of 90
 
-NDC 0186-5040-82 bottles of 1000
-
 NEXIUM For Delayed-Release Oral Suspension is supplied as a unit dose packet containing a fine yellow powder, consisting of white to pale brownish esomeprazole granules and pale yellow inactive granules.
 NEXIUM unit dose packets are supplied as follows:
 
-NDC 0186-4025-01 unit dose packages of 30: 2.5 mg packets
+NDC 0186-4025-01 unit dose packages of 30: 2.5 mg esomeprazole packets
 
-NDC 0186-4050-01 unit dose packages of 30: 5 mg packets
+NDC 0186-4050-01 unit dose packages of 30: 5 mg esomeprazole packets
 
-NDC 0186-4010–01 unit dose packages of 30: 10 mg packets
+NDC 0186-4010–01 unit dose packages of 30: 10 mg esomeprazole packets
 
-NDC 0186-4020–01 unit dose packages of 30: 20 mg packets
+NDC 0186-4020–01 unit dose packages of 30: 20 mg esomeprazole packets
 
-NDC 0186-4040–01 unit dose packages of 30: 40 mg packets
+NDC 0186-4040–01 unit dose packages of 30: 40 mg esomeprazole packets
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature].
-Keep NEXIUM Delayed-Release Capsules container tightly closed.
-Dispense in a tight container if the NEXIUM Delayed-Release Capsules product package is subdivided.
+Keep NEXIUM delayed-release capsules container tightly closed.
+Dispense in a tight container if the NEXIUM delayed-release capsules product package is subdivided.
