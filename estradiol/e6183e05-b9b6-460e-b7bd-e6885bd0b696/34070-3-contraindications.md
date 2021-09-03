@@ -1,12 +1,13 @@
 # CONTRAINDICATIONS
 
-ESTRING vaginal ring should not be used in women with any of the following conditions:
+ESTRING is contraindicated in women with any of the following conditions:
 
 1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of cancer of the breast.
+2. Known, suspected, or history of breast cancer.
 3. Known or suspected estrogen-dependent neoplasia.
-4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
-5. Active or recent (within the past year) arterial thromboembolic disease (for example, stroke and myocardial infarction).
-6. Known liver dysfunction or disease.
-7. Known hypersensitivity to any of the ingredients in ESTRING.
-8. Known or suspected pregnancy.
+4. Active DVT, PE, or a history of these conditions.
+5. Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions.
+6. Known anaphylactic reaction or angioedema or hypersensitivity to ESTRING.
+7. Known liver impairment or disease.
+8. Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders.
+9. Known or suspected pregnancy.
