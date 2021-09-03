@@ -4,11 +4,11 @@
 
 Table 1: Recommended Dosage
 
-| Indication | Renal ConsiderationsCalculate CrCl based on actual weight. See Warnings and Precautions (5.4) and Use in Specific Populations (8.6) | Dosage | Food/TimingSee Clinical Pharmacology (12.3) |
+| Indication | Renal ConsiderationsCalculate CrCl based on actual weight. [See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)] | Dosage | Food/TimingSee Clinical Pharmacology (12.3) |
 | --- | --- | --- | --- |
 | Reduction in Risk of Stroke in Nonvalvular Atrial Fibrillation | CrCl >50 mL/min | 20 mg once daily | Take with evening meal |
 | CrCl ≤50 mL/minPatients with CrCl <30 mL/min were not studied, but administration of XARELTO is expected to result in serum concentrations of rivaroxaban similar to those in patients with moderate renal impairment (CrCl 30 to <50 mL/min) [see Use in Specific Populations (8.6)] | 15 mg once daily | Take with evening meal |  |
-| Treatment of DVT and/or PE | CrCl ≥15 mL/min | 15 mg twice daily ▼ after 21 days, transition to ▼ 20 mg once daily | Take with food, at the same time each day |
+| Treatment of DVT and/or PE | CrCl ≥15 mL/min | 15 mg twice daily ▼after 21 days, transition to ▼ 20 mg once daily | Take with food, at the same time each day |
 | CrCl <15 mL/min | Avoid Use |  |  |
 | Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE | CrCl ≥15 mL/min | 10 mg once daily, after at least 6 months of standard anticoagulant treatment | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
@@ -19,7 +19,9 @@ Table 1: Recommended Dosage
 | CrCl <15 mL/min | Avoid Use |  |  |
 | Prophylaxis of VTE in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding | CrCl ≥15 mL/min | 10 mg once daily, in hospital and after hospital discharge, for a total recommended duration of 31 to 39 days | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
-| Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in Chronic CAD or PAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75–100 mg) once daily | Take with or without food |
+| Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in CAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75–100 mg) once daily | Take with or without food |
+| Reduction of Risk of Major Thrombotic Vascular Events in PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75–100 mg) once daily. | Take with or without food |
+| When starting therapy after a successful lower extremity revascularization procedure, initiate once hemostasis has been established. |  |  |  |
 
 ## 2.2 Switching to and from XARELTO
 

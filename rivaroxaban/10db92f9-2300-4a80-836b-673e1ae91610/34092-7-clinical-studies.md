@@ -26,9 +26,9 @@ Patients randomized to warfarin had a mean percentage of time in the INR target 
 In ROCKET AF, XARELTO was demonstrated non-inferior to warfarin for the primary composite endpoint of time to first occurrence of stroke (any type) or non-CNS systemic embolism [HR (95% CI): 0.88 (0.74, 1.03)], but superiority to warfarin was not demonstrated.
 There is insufficient experience to determine how XARELTO and warfarin compare when warfarin therapy is well-controlled.
 
-Table 11 displays the overall results for the primary composite endpoint and its components.
+Table 12 displays the overall results for the primary composite endpoint and its components.
 
-Table 11: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
+Table 12: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
 
 | Event | N=7081 n (%) | Event Rate (per 100 Pt-yrs) | N=7090 n (%) | Event Rate (per 100 Pt-yrs) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -40,14 +40,15 @@ Table 11: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat
 | Unknown Stroke Type | 19 (0.3) | 0.2 | 18 (0.3) | 0.1 |  |
 | Non-CNS Systemic Embolism | 20 (0.3) | 0.2 | 27 (0.4) | 0.2 |  |
 
-Figure 5 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
+Figure 4 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
 
-Figure 5: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group (Intent-to-Treat Population)
+Figure 4: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group (Intent-to-Treat Population)
 
-Figure 6 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
+Figure 5 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
 
-| Figure 6: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted. (Intent-to-Treat Population) |
+| Figure 5: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. (Intent-to-Treat Population) |
 | --- |
+| Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted. |
 
 The efficacy of XARELTO was generally consistent across major subgroups.
 
@@ -80,9 +81,9 @@ Other risk factors included previous episode of DVT/PE (19%), recent surgery or 
 In the EINSTEIN DVT and EINSTEIN PE studies, XARELTO was demonstrated to be non-inferior to enoxaparin/VKA for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE [EINSTEIN DVT HR (95% CI): 0.68 (0.44, 1.04); EINSTEIN PE HR (95% CI): 1.12 (0.75, 1.68)].
 In each study the conclusion of non-inferiority was based on the upper limit of the 95% confidence interval for the hazard ratio being less than 2.0.
 
-Table 12 displays the overall results for the primary composite endpoint and its components for EINSTEIN DVT and EINSTEIN PE studies.
+Table 13 displays the overall results for the primary composite endpoint and its components for EINSTEIN DVT and EINSTEIN PE studies.
 
-Table 12: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (3, 6 or 12 months) irrespective of the actual treatment duration.
+Table 13: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (3, 6 or 12 months) irrespective of the actual treatment duration.
 If the same patient had several events, the patient may have been counted for several components. in EINSTEIN DVT and EINSTEIN PE Studies – Intent-to-Treat Population
 
 | Event | XARELTO 20 mgTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] | Enoxaparin/VKA | XARELTO vs. Enoxaparin/VKA Hazard Ratio (95% CI) |
@@ -102,11 +103,11 @@ If the same patient had several events, the patient may have been counted for se
 | Symptomatic recurrent PE only | 23 (1.0) | 20 (0.8) |  |
 | Symptomatic recurrent DVT only | 18 (0.7) | 17 (0.7) |  |
 
-Figures 7 and 8 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
+Figures 6 and 7 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
 
-Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
+Figure 6: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
 
-Figure 8: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
+Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
 
 ## 14.3 Reduction in the Risk of Recurrence of DVT and/or PE
 
@@ -126,9 +127,9 @@ Other risk factors included idiopathic VTE (43%), previous episode of DVT/PE (17
 
 In the EINSTEIN CHOICE study, XARELTO 10 mg was demonstrated to be superior to aspirin 100 mg for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE.
 
-Table 13 displays the overall results for the primary composite endpoint and its components.
+Table 14 displays the overall results for the primary composite endpoint and its components.
 
-Table 13: Primary Composite Endpoint and its Components ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (12 months) irrespective of the actual treatment duration.
+Table 14: Primary Composite Endpoint and its Components ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (12 months) irrespective of the actual treatment duration.
 The individual component of the primary endpoint represents the first occurrence of the event. in EINSTEIN CHOICE Study – Full Analysis Set
 
 | Event | XARELTO 10 mg N=1,127 n (%) | Acetylsalicylic Acid (Aspirin) 100 mg N=1,131 n (%) | XARELTO 10 mg vs. Aspirin 100 mg Hazard Ratio (95% CI) |
@@ -139,9 +140,9 @@ The individual component of the primary endpoint represents the first occurrence
 | Death (PE) | 0 | 1 (<0.1) |  |
 | Death (PE cannot be excluded) | 0 | 1 (<0.1) |  |
 
-Figure 9 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
+Figure 8 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
 
-Figure 9: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Full Analysis Set) – EINSTEIN CHOICE Study
+Figure 8: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Full Analysis Set) – EINSTEIN CHOICE Study
 
 ## 14.4 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
@@ -155,9 +156,9 @@ The studies excluded patients undergoing staged bilateral total hip replacement,
 In RECORD 1, the mean exposure duration (± SD) to active XARELTO and enoxaparin was 33.3 ± 7.0 and 33.6 ± 8.3 days, respectively.
 In RECORD 2, the mean exposure duration to active XARELTO and enoxaparin was 33.5 ± 6.9 and 12.4 ± 2.9 days, respectively.
 After Day 13, oral placebo was continued in the enoxaparin group for the remainder of the double-blind study duration.
-The efficacy data for RECORD 1 and 2 are provided in Table 14.
+The efficacy data for RECORD 1 and 2 are provided in Table 15.
 
-Table 14: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Hip Replacement Surgery - Modified Intent-to-Treat Population
+Table 15: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Hip Replacement Surgery - Modified Intent-to-Treat Population
 
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value | XARELTO 10 mg once daily | EnoxaparinIncludes the placebo-controlled period of RECORD 2 40 mg once daily | RRR, p-value |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -181,9 +182,9 @@ Sixty-eight percent (68%) of patients were female.
 Eighty-one percent (81%) of patients were White, less than 7% were Asian, and less than 2% were Black.
 The study excluded patients with severe renal impairment defined as an estimated creatinine clearance <30 mL/min or patients with significant liver disease (hepatitis or cirrhosis).
 The mean exposure duration (± SD) to active XARELTO and enoxaparin was 11.9 ± 2.3 and 12.5 ± 3.0 days, respectively.
-The efficacy data are provided in Table 15.
+The efficacy data are provided in Table 16.
 
-Table 15: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population
+Table 16: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population
 
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value |
 | --- | --- | --- | --- |
@@ -213,14 +214,14 @@ The major efficacy outcome in the MAGELLAN trial was a composite endpoint that i
 
 A total of 6024 patients were evaluable for the major efficacy outcome analysis (2967 on XARELTO 10 mg once daily and 3057 on enoxaparin/placebo).
 The mean age was 68.9 years, with 37.1% of the subject population ≥ 75 years.
-VTE risk factors included severe immobilization at study entry (99.9%), D-dimer > 2X ULN (43.7%), history of heart failure (35.6%), BMI ≥ 35 kg/m2 (15.2%), chronic venous insufficiency (14.9%), acute infectious disease (13.9%), severe varicosis (12.5%), history of cancer (16.2%), history of VTE (4.5%), hormone replacement therapy (1.1%), and thrombophilia (0.3%), recent major surgery (0.8%) and recent serious trauma (0.2%).
+VTE risk factors included severe immobilization at study entry (99.9%), D-dimer > 2× ULN (43.7%), history of heart failure (35.6%), BMI ≥ 35 kg/m2 (15.2%), chronic venous insufficiency (14.9%), acute infectious disease (13.9%), severe varicosis (12.5%), history of cancer (16.2%), history of VTE (4.5%), hormone replacement therapy (1.1%), and thrombophilia (0.3%), recent major surgery (0.8%) and recent serious trauma (0.2%).
 The population was 54.7% male, 68.2% White, 20.4% Asian, 1.9% Black and 5.3% Other.
 Admitting diagnoses for hospitalization were acute infectious diseases (43.8%) followed by congestive heart failure NYHA class III or IV (33.2%), acute respiratory insufficiency (26.4%), acute ischemic stroke (18.5%) and acute inflammatory diseases (3.4%).
 
-Table 16 shows the overall results from the prespecified, modified intent-to-treat (mITT) analysis for the efficacy outcomes and their components.
+Table 17 shows the overall results from the prespecified, modified intent-to-treat (mITT) analysis for the efficacy outcomes and their components.
 This analysis excludes approximately 25% of the patients mainly due to no ultrasonographic assessment (13.5%), inadequate assessment at day 35 (8.1%), or lack of intake of study medication (1.3%).
 
-Table 16: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (per protocol) in the MAGELLAN Study
+Table 17: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (per protocol) in the MAGELLAN Study
 
 | Events from Day 1 to Day 35, mITT analysis set | XARELTO 10 mg N=2967 n (%) | Enoxaparin 40 mg/placebo N=3057 n (%) | RR (95% CI) |
 | --- | --- | --- | --- |
@@ -246,9 +247,9 @@ Table 16: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (p
 Patients with bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months (19.4%) all had an excess of bleeding with XARELTO compared with enoxaparin/placebo.
 Therefore, patients meeting these criteria were excluded from the following analyses presented below.
 
-Table 17 provides the efficacy results for the subgroup of patients not at a high risk of bleeding.
+Table 18 provides the efficacy results for the subgroup of patients not at a high risk of bleeding.
 
-Table 17: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (per protocol) in patients not at a high risk of bleeding in the MAGELLAN StudyPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
+Table 18: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (per protocol) in patients not at a high risk of bleeding in the MAGELLAN StudyPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
 
 | Events from Day 1 to Day 35, mITT analysis set | XARELTO 10 mg N=2419 n (%) | Enoxaparin 40 mg/placebo N=2506 n (%) | RR (95% CI) |
 | --- | --- | --- | --- |
@@ -271,9 +272,9 @@ Table 17: Efficacy Results at Day 35 (modified Intent-to-Treat) and at Day 10 (p
 | All-cause mortality | 107 (4.3) | 112 (4.3) |  |
 | mITT: modified intent-to-treat; PP: per protocol; DVT: Deep vein thrombosis; PE: pulmonary embolism; VTE: venous thromboembolism; CI: Confidence Interval; RR: Relative Risk |  |  |  |
 
-## 14.6 Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
+## 14.6 Reduction of Risk of Major Cardiovascular Events in Patients with CAD
 
-The evidence for the efficacy and safety of XARELTO for the reduction in the risk of stroke, myocardial infarction, or cardiovascular death in patients with coronary artery disease (CAD) or peripheral artery disease (PAD) was derived from the double-blind Cardiovascular OutcoMes for People using Anticoagulation StrategieS trial (COMPASS) [NCT10776424].
+The evidence for the efficacy and safety of XARELTO for the reduction in the risk of stroke, myocardial infarction, or cardiovascular death in patients with coronary artery disease (CAD) or peripheral artery disease (PAD) was derived from the double-blind, placebo-controlled Cardiovascular OutcoMes for People using Anticoagulation StrategieS trial (COMPASS) [NCT10776424].
 A total of 27,395 patients were evenly randomized to rivaroxaban 2.5 mg orally twice daily plus aspirin 100 mg once daily, rivaroxaban 5 mg orally twice daily alone, or aspirin 100 mg once daily alone.
 Because the 5 mg dose alone was not superior to aspirin alone, only the data concerning the 2.5 mg dose plus aspirin are discussed below.
 
@@ -281,47 +282,97 @@ Patients with established CAD or PAD were eligible.
 Patients with CAD who were younger than 65 years of age were also required to have documentation of atherosclerosis involving at least two vascular beds or to have at least two additional cardiovascular risk factors (current smoking, diabetes mellitus, an estimated glomerular filtration rate [eGFR] <60 mL per minute, heart failure, or non-lacunar ischemic stroke ≥1 month earlier).
 Patients with PAD were either symptomatic with ankle brachial index <0.90 or had asymptomatic carotid artery stenosis ≥50%, a previous carotid revascularization procedure, or established ischemic disease of one or both lower extremities.
 Patients were excluded for use of dual antiplatelet, other non-aspirin antiplatelet, or oral anticoagulant therapies, ischemic, non-lacunar stroke within 1 month, hemorrhagic or lacunar stroke at any time, or eGFR <15 mL/min.
-[see Warnings and Precautions (5.2)].
 
 The mean age was 68 years and 21% of the subject population were ≥75 years.
-Of the included patients, 91% had CAD, 27% had PAD, and 18% had both CAD and PAD.
+Of the included patients, 91% had CAD (and will be referred to as the COMPASS CAD population), 27% had PAD (and will be referred to as the COMPASS PAD population), and 18% had both CAD and PAD.
 Of the patients with CAD, 69% had prior MI, 60% had prior percutaneous transluminal coronary angioplasty (PTCA)/atherectomy/ percutaneous coronary intervention (PCI), and 26% had history of coronary artery bypass grafting (CABG) prior to study.
 Of the patients with PAD, 49% had intermittent claudication, 27% had peripheral artery bypass surgery or peripheral percutaneous transluminal angioplasty, 26% had asymptomatic carotid artery stenosis > 50%, and 4% had limb or foot amputation for arterial vascular disease.
 
 The mean duration of follow-up was 23 months.
-Relative to aspirin alone, XARELTO plus aspirin reduced the rate of the primary composite outcome of stroke, myocardial infarction or cardiovascular death.
-The benefit was observed early with a constant treatment effect over the entire treatment period (see Table 18 and Figure 11).
+Relative to placebo, XARELTO reduced the rate of the primary composite outcome of stroke, myocardial infarction or cardiovascular death: HR 0.76 (95% CI: 0.66, 0.86; p=0.00004).
+In the COMPASS CAD population, the benefit was observed early with a constant treatment effect over the entire treatment period (see Table 19 and Figure 10).
 
-A benefit-risk analysis of the data from COMPASS was performed by comparing the number of CV events (CV deaths, myocardial infarctions and non-hemorrhagic strokes) prevented to the number of fatal or life-threatening bleeding events (fatal bleeds + symptomatic non-fatal bleeds into a critical organ) in the XARELTO plus aspirin group versus the aspirin group.
-Compared to aspirin alone, during 10,000 patient-years of treatment, XARELTO plus aspirin would be expected to result in 70 fewer CV events and 12 additional life-threatening bleeds, indicating a favorable balance of benefits and risks.
+A benefit-risk analysis of the data from COMPASS was performed by comparing the number of CV events (CV deaths, myocardial infarctions and non-hemorrhagic strokes) prevented to the number of fatal or life-threatening bleeding events (fatal bleeds + symptomatic non-fatal bleeds into a critical organ) in the XARELTO group versus the placebo group.
+Compared to placebo, during 10,000 patient-years of treatment, XARELTO would be expected to result in 70 fewer CV events and 12 additional life-threatening bleeds, indicating a favorable balance of benefits and risks.
 
-The results in patients with PAD, CAD, and both CAD and PAD were consistent with the overall efficacy and safety results (see Figure 10).
+The results in the COMPASS CAD population were consistent across major subgroups (see Figure 9).
 
-Figure 10 shows the risk of primary efficacy outcome across major subgroups.
+| Figure 9: Risk of Primary Efficacy Outcome by Baseline Characteristics in the COMPASS CAD Population (Intent-to-Treat Population)All patients received aspirin 100 mg once daily as background therapy. |
+| --- |
 
-Figure 10: Risk of Primary Efficacy Outcome by Baseline Characteristics in COMPASS (Intent-to-Treat Population)
-
-Table 18: Efficacy results from COMPASS study
+Table 19: Efficacy results from COMPASS CAD Populationintention to treat analysis set, primary analyses.
 
 | n (%) | Event Rate (%/year) | n (%) | Event Rate (%/year) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study Population | Patients with CAD or PADintention to treat analysis set, primary analyses. |  |  |  |  |
-| Event | XARELTO plus aspirinTreatment schedule: XARELTO 2.5 mg twice daily plus aspirin 100 mg once daily, or aspirin 100 mg once daily. N=9152 |  | Aspirin alone N=9126 |  | Hazard Ratio (95% CI) vs. aspirin 100 mg |
-| Stroke, MI or CV death | 379 (4.1) | 2.2 | 496 (5.4) | 2.9 | 0.76 (0.66, 0.86) |
-| - Stroke | 83 (0.9) | 0.5 | 142 (1.6) | 0.8 | 0.58 (0.44, 0.76) |
-| - MI | 178 (1.9) | 1.0 | 205 (2.2) | 1.2 | 0.86 (0.70, 1.05) |
-| - CV death | 160 (1.7) | 0.9 | 203 (2.2) | 1.2 | 0.78 (0.64, 0.96) |
-| Coronary heart disease death, MI, ischemic stroke, acute limb ischemia | 329 (3.6) | 1.9 | 450 (4.9) | 2.6 | 0.72 (0.63, 0.83) |
-| - Coronary heart disease deathCoronary heart disease death: death due to acute MI, sudden cardiac death, or CV procedure. | 86 (0.9) | 0.5 | 117 (1.3) | 0. 7 | 0.73 (0.55, 0.96) |
-| - Ischemic stroke | 64 (0.7) | 0.4 | 125 (1.4) | 0.7 | 0.51 (0.38, 0.69) |
-| - Acute limb ischemiaAcute limb ischemia is defined as limb-threatening ischemia leading to an acute vascular intervention (i.e., pharmacologic, peripheral arterial surgery/reconstruction, peripheral angioplasty/stent, or amputation). | 22 (0.2) | 0.1 | 40 (0.4) | 0.2 | 0.55 (0.32, 0.92) |
-| CV deathCV death includes CHD death, or death due to other CV causes or unknown death., MI, ischemic stroke, acute limb ischemia | 389 (4.3) | 2.2 | 516 (5.7) | 3.00 | 0.74 (0.65, 0.85) |
-| All-cause mortality | 313 (3.4) | 1. 8 | 378 (4.1) | 2.2 | 0.82 (0.71, 0.96) |
-| Lower extremity amputations for CV reasons | 15 (0.2) | <0.1 | 31 (0.3) | 0.2 | 0.48 (0.26, 0.89) |
-| Patients with PAD |  |  |  |  |  |
-| Acute limb ischemia | 19 (0.8) | 0.4 | 34 (1.4) | 0.8 | 0.56 (0.32, 0.99) |
+| Event | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily vs placebo. All patients received aspirin 100 mg once daily as background therapy. N=8313 |  | Placebo N=8261 |  | Hazard Ratio (95% CI) XARELTO vs. placebo. |
+| Stroke, MI or CV death | 347 (4.2) | 2.2 | 460 (5.6) | 2.9 | 0.74 (0.65, 0.86) |
+| - Stroke | 74 (0.9) | 0.5 | 130 (1.6) | 0.8 | 0.56 (0.42, 0.75) |
+| - MI | 169 (2.0) | 1.1 | 195 (2.4) | 1.2 | 0.86 (0.70, 1.05) |
+| - CV death | 139 (1.7) | 0.9 | 184 (2.2) | 1.1 | 0.75 (0.60, 0.93) |
+| Coronary heart disease death, MI, ischemic stroke, acute limb ischemia | 299 (3.6) | 1.9 | 411 (5.0) | 2.6 | 0.72 (0.62, 0.83) |
+| - Coronary heart disease deathCoronary heart disease death: death due to acute MI, sudden cardiac death, or CV procedure. | 80 (1.0) | 0.5 | 107 (1.3) | 0.7 | 0.74 (0.55, 0.99) |
+| - Ischemic stroke | 56 (0.7) | 0.3 | 114 (1.4) | 0.7 | 0.49 (0.35, 0.67) |
+| - Acute limb ischemiaAcute limb ischemia is defined as limb-threatening ischemia leading to an acute vascular intervention (i.e., pharmacologic, peripheral arterial surgery/reconstruction, peripheral angioplasty/stent, or amputation). | 13 (0.2) | 0.1 | 27 (0.3) | 0.2 | 0.48 (0.25, 0.93) |
+| CV death,CV death includes CHD death, or death due to other CV causes or unknown death. MI, ischemic stroke, acute limb ischemia | 349 (4.2) | 2.2 | 470 (5.7) | 3.0 | 0.73 (0.64, 0.84) |
+| All-cause mortality | 262 (3.2) | 1.6 | 339 (4.1) | 2.1 | 0.77 (0.65, 0.90) |
 | CHD: coronary heart disease, CI: confidence interval; CV: cardiovascular; MI: myocardial infarction |  |  |  |  |  |
 
-Figure 11: Time to first occurrence of primary efficacy outcome (stroke, myocardial infarction, cardiovascular death) in COMPASS
+| Figure 10: Time to first occurrence of primary efficacy outcome (stroke, myocardial infarction, cardiovascular death) in the COMPASS CAD PopulationAll patients received aspirin 100 mg once daily as background therapy. |
+| --- |
+| CI: confidence interval |
 
-CI: confidence interval
+## 14.7 Reduction of Risk of Major Thrombotic Vascular Events in Patients with PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD
+
+The efficacy and safety of XARELTO 2.5 mg orally twice daily versus placebo on a background of aspirin 100 mg once daily in patients with PAD were evaluated in the COMPASS study (n=4996) and will be referred to as the COMPASS PAD population [see Clinical Studies (14.6)].
+
+The efficacy and safety of XARELTO were also evaluated for the reduction in the risk of the composite endpoint of myocardial infarction, ischemic stroke, cardiovascular death, acute limb ischemia (ALI), and major amputation of a vascular etiology in patients undergoing a lower extremity infrainguinal revascularization procedure due to symptomatic peripheral artery disease (PAD) in the double-blinded, placebo-controlled Vascular Outcomes studY of ASA alonG with rivaroxaban in Endovascular or surgical limb Revascularization for peripheral artery disease (PAD) trial (VOYAGER) [NCT02504216].
+A total of 6,564 patients were equally randomized to XARELTO 2.5 mg orally twice daily vs placebo on a background therapy of aspirin 100 mg once daily.
+
+Eligible patients included adults who were at least 50 years of age with documented moderate to severe symptomatic lower extremity atherosclerotic PAD who had a successful peripheral surgical procedure and/or endovascular procedure with or without clopidogrel (up to a maximum of 6 months was allowed; median duration of therapy was 31 days).
+Patients had either a prior history of limb revascularization with ankle brachial index ≤0.85 or no prior history of limb revascularization with ankle brachial index ≤0.80.
+Patients in need of dual antiplatelet for >6 months, or any additional antiplatelet other than aspirin and clopidogrel, or oral anticoagulant, as well as patients with a history of intracranial hemorrhage, stroke, or transient ischemic attack (TIA), or patients with eGFR <15 mL/min were excluded.
+
+The mean age was 67 years and 20% of the subject population was ≥75 years.
+Of the included patients, 35% had surgical revascularization, 47% had endovascular revascularization with clopidogrel, and 18% endovascular revascularization without clopidogrel.
+The median duration of follow-up was 30.8 months.
+
+XARELTO 2.5 mg twice daily was superior to placebo in reducing the rate of the primary composite outcome of myocardial infarction, ischemic stroke, cardiovascular death, acute limb ischemia (ALI), and major amputation of a vascular etiology.
+The primary efficacy outcome and its components are provided in Table 20.
+The Kaplan-Meier plot for the primary efficacy outcome can be seen in Figure 11.
+The secondary efficacy outcomes were tested for superiority in a prespecified, hierarchical order and the first five of seven endpoints were significantly reduced in the rivaroxaban treatment arm (see Table 20).
+Compared to placebo during 10,000 patient-years of treatment, XARELTO would be expected to result in 181 fewer primary outcome events and 29 more TIMI major bleeding events, indicating a favorable balance of benefits and risks.
+
+| Figure 11: Time to First Occurrence of Primary Efficacy Outcome (Myocardial Infarction, Ischemic Stroke, Cardiovascular Death, Acute Limb Ischemia, Major Amputation due to Vascular Origins) in VOYAGERAll patients received aspirin 100 mg once daily as background therapy. |
+| --- |
+
+Figure 12 shows the risk of primary efficacy outcome across major subgroups.
+Subgroup analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses.
+The primary efficacy endpoint generally shows homogeneous results across subgroups.
+
+| Figure 12: Risk of Primary Efficacy Outcome by Baseline Characteristics in VOYAGER (Intent-to-Treat Population)All patients received aspirin 100 mg once daily as background therapy. |
+| --- |
+
+Table 20 provides the efficacy event rates for the prespecified endpoints in VOYAGER and similar endpoints in the COMPASS PAD population.
+
+Table 20: Efficacy Results in VOYAGER (Intent-to-Treat Population) and COMPASS PAD
+
+| Outcome Components | Event Rate (%/year) |  | Event Rate (%/year) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VOYAGER |  |  | COMPASS PAD |  |  |
+|  | XARELTO N=3286 | Placebo N=3278 | Hazard Ratio (95% CI)XARELTO vs. placebo. p-valueTwo-sided p-values | XARELTO N=2492 | Placebo N=2504 | Hazard Ratio (95% CI) |
+| 5-Component Outcome (Major thrombotic vascular events)Major thrombotic vascular event is the composite of MI, ischemic stroke, CV death, ALI, and major amputation of a vascular etiology. | 6.8 | 8.0 | 0.85 (0.76, 0.96) p=0.0085 | 3.4 | 4.8 | 0.71 (0.57, 0.87) |
+| MI | 1.7 | 1.9 | 0.88 (0.70, 1.12) | 1.1 | 1.5 | 0.76 (0.53, 1.09) |
+| Ischemic StrokeIschemic stroke for VOYAGER included stroke of uncertain/unknown etiology whereas COMPASS only included ischemic stroke. | 0.9 | 1.0 | 0.87 (0.63, 1.19) | 0.5 | 0.9 | 0.55 (0.33, 0.93) |
+| CV deathCV death includes Coronary Heart Disease death, or death due to other CV causes or sudden cardiac arrest and unknown death. | 2.5 | 2.2 | 1.14 (0.93, 1.40) | 1.4 | 1.7 | 0.82 (0.59, 1.14) |
+| ALI | 2.0 | 3.0 | 0.67 (0.55, 0.82) | 0.4 | 0.8 | 0.56 (0.32, 0.99) |
+| Major amputation of a vascular etiologyAdjudicated events in VOYAGER and investigator reported events in COMPASS | 1.3 | 1.5 | 0.89 (0.68, 1.16) | 0.2 | 0.6 | 0.40 (0.20, 0.79) |
+| VOYAGER Secondary Efficacy OutcomesSecondary outcomes for VOYAGER were tested sequentially. |  |  |  |  |  |  |
+| MI, ischemic stroke, CHD death,CHD death includes death due to sudden cardiac death, MI, or coronary revascularization procedure ALI, and major amputation due to vascular etiology | 5.8 | 7.3 | 0.80 (0.71, 0.91) p=0.0008 | 2.8 | 4.2 | 0.66 (0.53, 0.83) |
+| Unplanned index limb revascularization for recurrent limb ischemiaUnplanned index limb revascularization for recurrent limb ischemia was not captured in COMPASS study. | 8.4 | 9.5 | 0.88 (0.79, 0.99) p=0.028 | N/A | N/A | N/A |
+| Hospitalization for a coronary or peripheral cause of a thrombotic nature | 3.5 | 4.8 | 0.72 (0.62, 0.85) p<0.0001 | 1.7 | 2.9 | 0.58 (0.44, 0.77) |
+| MI, ischemic stroke, all-cause mortality, ALI, and major amputation due to vascular etiology | 8.2 | 9.3 | 0.89 (0.79, 0.99) p=0.029 | 4.8 | 6.0 | 0.80 (0.67, 0.96) |
+| MI, all-cause stroke, CV death, ALI, and major amputation due to vascular etiology | 6.9 | 8.1 | 0.86 (0.76, 0.96) p=0.010 | 3.4 | 4.9 | 0.70 (0.57, 0.86) |
+| All-cause mortality | 4.0 | 3.7 | 1.08 (0.92, 1.27) | 2.8 | 3.1 | 0.91 (0.72, 1.16) |
+| VTE eventsInvestigator reported in VOYAGER and adjudicated events in COMPASS | 0.3 | 0.5 | 0.61 (0.37, 1.00) | 0.2 | 0.3 | 0.67 (0.30, 1.49) |
+| Efficacy endpoints in COMPASS PAD were analysed according to the pre-specified endpoints in VOYAGER when applicable. |  |  |  |  |  |  |
+| ALI=acute limb ischemia, CHD=coronary heart disease; CI=confidence interval, CV=cardiovascular; MI=myocardial infarction, VTE=venous thromboembolism. |  |  |  |  |  |  |

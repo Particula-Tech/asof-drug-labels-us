@@ -26,6 +26,10 @@ XARELTO is indicated for the prophylaxis of DVT, which may lead to PE in patient
 
 XARELTO is indicated for the prophylaxis of venous thromboembolism (VTE) and VTE related death during hospitalization and post hospital discharge in adult patients admitted for an acute medical illness who are at risk for thromboembolic complications due to moderate or severe restricted mobility and other risk factors for VTE and not at high risk of bleeding [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
 
-## 1.7 Reduction of Risk of Major Cardiovascular Events in Patients with Chronic Coronary Artery Disease (CAD) or Peripheral Artery Disease (PAD)
+## 1.7 Reduction of Risk of Major Cardiovascular Events in Patients with Coronary Artery Disease (CAD)
 
-XARELTO, in combination with aspirin, is indicated to reduce the risk of major cardiovascular events (cardiovascular (CV) death, myocardial infarction (MI) and stroke) in patients with chronic coronary artery disease (CAD) or peripheral artery disease (PAD).
+XARELTO, in combination with aspirin, is indicated to reduce the risk of major cardiovascular events (cardiovascular death, myocardial infarction, and stroke) in patients with coronary artery disease.
+
+## 1.8 Reduction of Risk of Major Thrombotic Vascular Events in Patients with Peripheral Artery Disease (PAD), Including Patients after Lower Extremity Revascularization due to Symptomatic PAD
+
+XARELTO, in combination with aspirin, is indicated to reduce the risk of major thrombotic vascular events (myocardial infarction, ischemic stroke, acute limb ischemia, and major amputation of a vascular etiology) in patients with PAD, including patients who have recently undergone a lower extremity revascularization procedure due to symptomatic PAD.

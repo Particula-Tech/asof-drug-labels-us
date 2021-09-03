@@ -4,4 +4,4 @@ Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-© 2011-2019 Janssen Pharmaceutical Companies
+© 2011–2021 Janssen Pharmaceutical Companies

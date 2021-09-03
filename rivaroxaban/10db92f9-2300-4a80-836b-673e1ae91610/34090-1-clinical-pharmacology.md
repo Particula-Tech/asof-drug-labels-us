@@ -20,11 +20,11 @@ Renal Impairment
 
 The relationship between systemic exposure and pharmacodynamic activity of rivaroxaban was altered in subjects with renal impairment relative to healthy control subjects [see Use in Specific Populations (8.6)].
 
-Table 10: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
+Table 11: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
 
-| Measure | Parameter | 50–79 | 30–49 | 15–29 | ESRD (on dialysis)Separate stand-alone study. | ESRD (post-dialysis) |
+| 50–79 | 30–49 | 15–29 | ESRD (on dialysis)Separate stand-alone study. | ESRD (post-dialysis) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Creatinine Clearance (mL/min) |  |  |  |  |
+| Measure | Parameter | Creatinine Clearance (mL/min) |  |  |  |  |
 | Exposure | AUC | 44 | 52 | 64 | 47 | 56 |
 | FXa Inhibition | AUEC | 50 | 86 | 100 | 49 | 33 |
 | PT Prolongation | AUEC | 33 | 116 | 144 | 112 | 158 |
@@ -48,7 +48,7 @@ XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Admini
 
 The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
-Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist ranitidine (150 mg twice daily), the antacid aluminum hydroxide/magnesium hydroxide (10 mL) or XARELTO (20 mg single dose) with the PPI omeprazole (40 mg once daily) did not show an effect on the bioavailability and exposure of rivaroxaban (see Figure 4).
+Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist ranitidine (150 mg twice daily), the antacid aluminum hydroxide/magnesium hydroxide (10 mL) or XARELTO (20 mg single dose) with the PPI omeprazole (40 mg once daily) did not show an effect on the bioavailability and exposure of rivaroxaban (see Figure 3).
 
 Absorption of rivaroxaban is dependent on the site of drug release in the GI tract.
 A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
@@ -81,11 +81,11 @@ The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy sub
 
 Specific Populations
 
-The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of rivaroxaban are summarized in Figure 3.
+The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of rivaroxaban are summarized in Figure 2.
 
-Figure 3: Effect of Specific Populations on the Pharmacokinetics of Rivaroxaban
+Figure 2: Effect of Specific Populations on the Pharmacokinetics of Rivaroxaban
 
-[see Dosage and Administration (2.1)].
+[See Dosage and Administration (2.1)]
 
 Gender
 
@@ -102,11 +102,11 @@ The terminal elimination half-life is 11 to 13 hours in the elderly subjects age
 
 Renal Impairment
 
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 3).
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 2).
 Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
 Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.6)].
 
-Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 10).
+Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 11).
 The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 600 mL/min and a blood flow rate in the range of 320 to 400 mL/min is 47% higher compared to those with normal renal function.
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking XARELTO 15 mg.
 Hemodialysis had no significant impact on rivaroxaban exposure.
@@ -114,9 +114,9 @@ Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects i
 
 Hepatic Impairment
 
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects (n=16) and subjects with varying degrees of hepatic impairment (see Figure 3).
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects (n=16) and subjects with varying degrees of hepatic impairment (see Figure 2).
 No patients with severe hepatic impairment (Child-Pugh C) were studied.
-Compared to healthy subjects with normal liver function, significant increases in rivaroxaban exposure were observed in subjects with moderate hepatic impairment (Child-Pugh B) (see Figure 3).
+Compared to healthy subjects with normal liver function, significant increases in rivaroxaban exposure were observed in subjects with moderate hepatic impairment (Child-Pugh B) (see Figure 2).
 Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.7)].
 
 Drug Interactions
@@ -124,21 +124,21 @@ Drug Interactions
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
 In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
 
-The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 4 [see Drug Interactions (7)].
+The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7)].
 
-Figure 4: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban
+Figure 3: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban
 
 Anticoagulants
 
 In a drug interaction study, single doses of enoxaparin (40 mg subcutaneous) and XARELTO (10 mg) given concomitantly resulted in an additive effect on anti-factor Xa activity.
 In another study, single doses of warfarin (15 mg) and XARELTO (5 mg) resulted in an additive effect on factor Xa inhibition and PT.
-Neither enoxaparin nor warfarin affected the pharmacokinetics of rivaroxaban (see Figure 4).
+Neither enoxaparin nor warfarin affected the pharmacokinetics of rivaroxaban (see Figure 3).
 
 NSAIDs/Aspirin
 
 In ROCKET AF, concomitant aspirin use (almost exclusively at a dose of 100 mg or less) during the double-blind phase was identified as an independent risk factor for major bleeding.
 NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO.
-Neither naproxen nor aspirin affected the pharmacokinetics of rivaroxaban (see Figure 4).
+Neither naproxen nor aspirin affected the pharmacokinetics of rivaroxaban (see Figure 3).
 
 Clopidogrel
 

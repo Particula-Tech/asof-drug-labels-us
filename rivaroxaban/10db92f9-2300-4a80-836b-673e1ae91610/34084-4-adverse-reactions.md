@@ -10,8 +10,7 @@ The following clinically significant adverse reactions are also discussed in oth
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During clinical development for the approved indications, 31,691 patients were exposed to XARELTO.
-These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (ROCKET AF); 6962 patients who received XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily to treat DVT or PE (EINSTEIN DVT, EINSTEIN PE), 10 mg or 20 mg orally once daily (EINSTEIN Extension, EINSTEIN CHOICE) to reduce the risk of recurrence of DVT and/or PE; 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of DVT following hip or knee replacement surgery (RECORD 1–3); 3997 patients who received 10 mg orally once daily for prophylaxis of VTE and VTE-related death in acutely ill medical patients (MAGELLAN) and 9134 patients who received XARELTO 2.5 mg orally twice daily, in combination with aspirin 100 mg once daily, for the reduction in risk of major cardiovascular events in patients with chronic CAD or PAD (COMPASS).
+During clinical development for the approved indications, 34,947 patients were exposed to XARELTO.
 
 Hemorrhage
 
@@ -41,11 +40,9 @@ These events occurred during treatment or within 2 days of stopping treatment.- 
 
 Figure 1 shows the risk of major bleeding events across major subgroups.
 
-Figure 1: Risk of Major Bleeding Events by Baseline Characteristics in ROCKET AF – On Treatment Plus 2 Days
-
-Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup but was a criterion for the CHADS2 score).
-The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
-Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+| Figure 1: Risk of Major Bleeding Events by Baseline Characteristics in ROCKET AF – On Treatment Plus 2 Days |
+| --- |
+| Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup but was a criterion for the CHADS2 score). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted. |
 
 Treatment of Deep Vein Thrombosis (DVT) and/or Pulmonary Embolism (PE)
 
@@ -152,40 +149,49 @@ Study–Safety Analysis Set - On Treatment Plus 2 Days
 | Fatal bleedingFatal bleeding is adjudicated death with the primary cause of death from bleeding. | 3 (<0.1) | 1 (<0.1) |
 | Clinically relevant non-major bleeding events (CRNM) | 93 (2.9) | 34 (1.1) |
 
-Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
+Reduction of Risk of Major Cardiovascular Events in Patients with CAD
 
-In the COMPASS trial, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 2.7% for XARELTO 2.5 mg twice daily in combination with aspirin 100 mg once daily vs. 1.2% for aspirin 100 mg once daily.
+In the COMPASS trial overall, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 2.7% for XARELTO 2.5 mg twice daily vs. 1.2% for placebo on background therapy for all patients with aspirin 100 mg once daily.
+The incidences of important bleeding events in the CAD and PAD populations in COMPASS were similar.
 
 Table 7 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
 
-Table 7: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
-These events occurred during treatment or within 2 days of stopping treatment. in COMPASS - On Treatment Plus 2 days
+Table 7: Major Bleeding Events in COMPASS - On Treatment Plus 2 daysMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients.
 
-| Parameter | n (%/year) | n (%/year) | HR (95 % CI) |
+| Parameter | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=9134 n (%/year) | Placebo N=9107 n (%/year) | XARELTO vs. Placebo HR (95 % CI) |
 | --- | --- | --- | --- |
-|  | XARELTO plus aspirinTreatment schedule: XARELTO 2.5 mg twice daily plus aspirin 100 mg once daily, or aspirin 100 mg once daily N=9134 | Aspirin alone N=9107 | XARELTO plus aspirin vs. Aspirin alone |
-| Modified ISTH Major BleedingDefined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. | 263 (1.6) | 144 (0.9) | 1.84 (1.50, 2.26) |
-| - Fatal bleeding event | 12 (<0.1) | 8 (<0.1) | 1.51 (0.62, 3.69) |
-| Intracranial hemorrhage (ICH) | 6 (<0.1) | 3 (<0.1) | 2.01 (0.50, 8.03) |
-| Non-intracranial | 6 (<0.1) | 5 (<0.1) | 1.21 (0.37, 3.96) |
-| - Symptomatic bleeding in critical organ (non-fatal) | 58 (0.3) | 43 (0.3) | 1.36 (0.91, 2.01) |
-| ICH | 23 (0.1) | 21 (0.1) | 1.09 (0.61, 1.98) |
-| Hemorrhagic Stroke | 18 (0.1) | 13 (<0.1) | 1.38 (0.68, 2.82) |
-| Other ICH | 6 (<0.1) | 9 (<0.1) | 0.67 (0.24, 1.88) |
-| - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.17 (0.39, 3.48) |
-| - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.08 (1.62, 2.67) |
-| Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.40 (1.72, 3.35) |
+| Modified ISTH Major BleedingDefined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
+| -Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.0 (0.5, 8.0) 1.2 (0.4, 4.0) |
+| -Symptomatic bleeding in critical organ (non-fatal)-ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2.0) 1.1 (0.6, 2.0) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
+| -Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
+| -Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
+| Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.4 (1.7, 3.4) |
 | CI: confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
 
-Figure 2 shows the risk of modified ISTH major bleeding events across major subgroups.
+Reduction of Risk of Major Thrombotic Vascular Events in Patients with Peripheral Artery Disease (PAD), Including Patients after Lower Extremity Revascularization due to Symptomatic PAD
 
-Figure 2: Risk of Modified ISTH Major Bleeding Events by Baseline Characteristics in COMPASS – On Treatment Plus 2 Days
+The incidence of premature permanent discontinuation due to bleeding events for XARELTO 2.5 mg twice daily vs. placebo on background therapy with aspirin 100 mg once daily in VOYAGER was 4.1% vs. 1.6% and in COMPASS PAD was 2.7% vs. 1.3%, respectively.
+
+Table 8 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
+The most common site of bleeding was gastrointestinal.
+
+Table 8: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. in VOYAGER- On Treatment Plus 2 days
+
+| Parameter | n (%) | Event rate %/year | n (%) | Event rate %/year |  |
+| --- | --- | --- | --- | --- | --- |
+|  | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=3256 |  | Placebo N=3248 |  | XARELTO vs. Placebo HR (95 % CI) |
+| TIMI Major Bleeding (CABG/non-CABG) | 62 (1.9) | 0.96 | 44 (1.4) | 0.67 | 1.4 (1.0, 2.1) |
+| Fatal bleeding | 6 (0.2) | 0.09 | 6 (0.2) | 0.09 | 1.0 (0.3, 3.2) |
+| Intracranial bleeding | 13 (0.4) | 0.20 | 17 (0.5) | 0.26 | 0.8 (0.4, 1.6) |
+| Clinically overt signs of hemorrhage associated with a drop in hemoglobin of ≥5 g/dL or drop in hematocrit of ≥15% | 46 (1.4) | 0.71 | 24 (0.7) | 0.36 | 1.9 (1.2, 3.2) |
+| CABG: Coronary artery bypass graft; CI: confidence interval; HR: hazard ratio; TIMI: Thrombolysis in Myocardial Infarction Bleeding Criteria |  |  |  |  |  |
 
 Other Adverse Reactions
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 8.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 9.
 
-Table 8: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
+Table 9: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
 
 | Body System Adverse Reaction |  |  |
 | --- | --- | --- |
@@ -207,9 +213,9 @@ Table 8: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XAR
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritus | 53 (2.2) | 27 (1.1) |
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 9.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 10.
 
-Table 9: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
+Table 10: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
 | Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |

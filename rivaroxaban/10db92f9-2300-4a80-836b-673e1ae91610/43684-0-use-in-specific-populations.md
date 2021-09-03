@@ -75,12 +75,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in the RECORD 1–3 clinical studies evaluating XARELTO, about 54% were 65 years and over, while about 15% were >75 years.
-In ROCKET AF, approximately 77% were 65 years and over and about 38% were >75 years.
-In the EINSTEIN DVT, PE and Extension clinical studies approximately 37% were 65 years and over and about 16% were >75 years.
-In EINSTEIN CHOICE, approximately 39% were 65 years and over and about 12% were >75 years.
-In the MAGELLAN study, approximately 67% were 65 years and over and about 37% were >75 years.
-In the COMPASS study, approximately 76% were 65 years and over and about 17% were >75 years.
+Of the total number of adult patients in clinical trials for the approved indications of XARELTO (N=64,943 patients), 64 percent were 65 years and over, with 27 percent 75 years and over.
 In clinical trials the efficacy of XARELTO in the elderly (65 years or older) was similar to that seen in patients younger than 65 years.
 Both thrombotic and bleeding event rates were higher in these older patients [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
@@ -122,16 +117,16 @@ In patients with CrCl <30 mL/min a dose of XARELTO 10 mg once daily is expected 
 Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 15 to <30 mL/min.
 Avoid use of XARELTO in patients with CrCl <15 mL/min.
 
-Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
+Reduction of Risk of Major Cardiovascular Events in Patients with CAD and Reduction of Risk of Major Thrombotic Vascular Events in Patients with PAD, Including Patients After Recent Lower Extremity Revascularization due to Symptomatic PAD
 
 Patients with Chronic Kidney Disease not on Dialysis
 
-Patients with a CrCl <15 mL/min at screening were excluded from COMPASS, and limited data are available for patients with a CrCl of 15 to 30 mL/min.
+Patients with a CrCl <15 mL/min at screening were excluded from COMPASS and VOYAGER, and limited data are available for patients with a CrCl of 15 to 30 mL/min.
 In patients with CrCl <30 mL/min, a dose of 2.5 mg XARELTO twice daily is expected to give an exposure similar to that in patients with moderate renal impairment (CrCl 30 to <50 mL/min) [see Clinical Pharmacology (12.3)], whose efficacy and safety outcomes were similar to those with preserved renal function.
 
 Patients with End-Stage Renal Disease on Dialysis
 
-No clinical outcome data is available for the use of XARELTO with aspirin in patients with ESRD on dialysis since these patients were not enrolled in COMPASS.
+No clinical outcome data is available for the use of XARELTO with aspirin in patients with ESRD on dialysis since these patients were not enrolled in COMPASS or VOYAGER.
 In patients with ESRD maintained on intermittent hemodialysis, administration of XARELTO 2.5 mg twice daily will result in concentrations of rivaroxaban and pharmacodynamic activity similar to those observed in moderate renal impaired patients in the COMPASS study [see Clinical Pharmacology (12.2, 12.3)].
 It is not known whether these concentrations will lead to similar CV risk reduction and bleeding risk in patients with ESRD on dialysis as was seen in COMPASS.
 
