@@ -12,11 +12,12 @@ Instruct parents or caregivers on use of the oral dosing syringe.
 
 Risk of hypoglycemia
 
-Inform parents or caregivers that there is a risk of hypoglycemia when HEMANGEOL is given to infants who are not feeding regularly or who are vomiting.
-Instruct them to skip dosing under such conditions.
-
+Inform parents or caregivers that there is a risk of hypoglycemia while on HEMANGEOL.
+Hypoglycemia can occur at any time during treatment.
+Instruct caregivers to skip dosing in patients who are fasting (e.g., poor oral food intake, infection, vomiting), or when glucose demands are increased (e.g., cold, stress, infections).
 Instruct parents or caregivers how to recognize the signs of hypoglycemia.
-Tell them to discontinue HEMANGEOL and call their health care provider immediately or take the child to the emergency room in case of suspected hypoglycemia.
+Tell them to discontinue HEMANGEOL if hypoglycemia develops and call their health care provider immediately or take the child to the emergency room.
+[see Warnings and Precautions 5.1]
 
 Cardiovascular risks
 

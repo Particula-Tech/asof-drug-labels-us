@@ -18,7 +18,8 @@ To help reduce the risk of low blood sugar with HEMANGEOL:
   Tell your doctor if your child has a poor appetite.
 - If your child is not taking feedings, for example, due to an illness or vomiting, do not give HEMANGEOL until your child is taking feedings normally again.
 
-If your child has any of the signs or symptoms of low blood sugar listed below during treatment with HEMANGEOL, stop giving your child HEMANGEOL and call your doctor or go to the nearest emergency room right away.
+If your child has any of the signs or symptoms of low blood sugar listed below during treatment with HEMANGEOL, stop giving your child HEMANGEOL, call your healthcare provider immediately or go to the emergency room.
+If the child is conscious, give him/her a drink of liquid containing sugar.
 
 Signs or symptoms of low blood sugar include: pale, blue or purple skin color, sweating, irritability, crying for no apparent reason, irregular or fast heartbeat, poor feeding, low body temperature, unusual sleepiness, seizures, breathing stops for short periods of time, and loss of consciousness.
 
@@ -41,7 +42,7 @@ Do not give HEMANGEOL to your child if your child:
 
 What should I tell my doctor before giving my child HEMANGEOL?
 
-Before you start giving HEMANGEOL to your child,tell your doctor about all of your child’s medical conditions.
+Before you start giving HEMANGEOL to your child, tell your child’s doctor about all of your child’s medical conditions.
 
 Tell your doctor about all of the medicines that your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 HEMANGEOL and some medicines may interact with each other and cause serious side effects.
@@ -109,4 +110,4 @@ Manufactured for: Pierre Fabre Pharmaceuticals, Inc., Parsippany, NJ 07054
 
 For more information, call 1-855-PFPHARM (737-4276)
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: Jun 2016
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: Jun 2021
