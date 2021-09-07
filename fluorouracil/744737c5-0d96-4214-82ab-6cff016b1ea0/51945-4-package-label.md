@@ -14,6 +14,8 @@ Apply preferably with a nonmetal applicator or suitable glove.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
+Product of Mexico
+
 Usual Dosage: For dosage recommendations and other important prescribing information, see accompanying insert.
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
@@ -25,4 +27,4 @@ May be fatal if your pet licks or ingests.
 Avoid allowing pets to contact this tube or your skin where Fluorouracil 5% Topical Cream has been applied.
 Store and dispose out of the reach of pets.
 
-M:4791:06:1C:R5 1231.5
+M:4791:06:1C:R6 1231.6
