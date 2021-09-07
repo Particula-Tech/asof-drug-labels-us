@@ -13,6 +13,7 @@ Priming
 
 Instruct patients to prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
 To prime VENTOLIN HFA, release 4 sprays into the air away from the face, shaking well before each spray.
+Avoid spraying in eyes.
 
 Cleaning
 
@@ -22,7 +23,7 @@ Inform patients that detailed cleaning instructions are included in the Patient 
 Paradoxical Bronchospasm
 
 Inform patients that VENTOLIN HFA can produce paradoxical bronchospasm.
-Instruct them to discontinue VENTOLIN HFA if paradoxical bronchospasm occurs.
+Instruct them to discontinue VENTOLIN HFA if paradoxical bronchospasm occurs [see Warnings and Precautions (5.1)].
 
 Concomitant Drug Use
 
@@ -47,4 +48,4 @@ Research Triangle Park, NC 27709
 
 ©2021 GSK group of companies or its licensor.
 
-VNT:13PI
+VNT:14PI

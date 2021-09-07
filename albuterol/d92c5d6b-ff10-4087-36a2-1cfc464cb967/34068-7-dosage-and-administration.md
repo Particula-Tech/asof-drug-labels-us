@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Bronchospasm
+## 2.1 Recommended Dosage for Bronchospasm (Acute Episodes or Symptoms Associated with Bronchospasm)
 
-For treatment of acute episodes of bronchospasm or prevention of symptoms associated with bronchospasm, the usual dosage for adults and children is 2 inhalations repeated every 4 to 6 hours; in some patients, 1 inhalation every 4 hours may be sufficient.
+Adult and pediatric patients aged 4 years and older: 2 inhalations by oral inhalation repeated every 4 to 6 hours; in some patients, 1 inhalation every 4 hours may be sufficient.
 More frequent administration or a greater number of inhalations is not recommended.
 
-## 2.2 Exercise-Induced Bronchospasm
+## 2.2 Recommended Dosage for Prevention of Exercise-Induced Bronchospasm
 
-For prevention of exercise-induced bronchospasm, the usual dosage for adults and children aged 4 years and older is 2 inhalations 15 to 30 minutes before exercise.
+Adult and pediatric patients aged 4 years and older: 2 inhalations by oral inhalation 15 to 30 minutes before exercise.
 
 ## 2.3 Administration Information
 
@@ -18,6 +18,7 @@ Priming
 Priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
 Prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
 To prime VENTOLIN HFA, release 4 sprays into the air away from the face, shaking well before each spray.
+Avoid spraying in eyes.
 
 Cleaning
 

@@ -14,8 +14,6 @@ Fertility and reproductive performance in rats demonstrated no evidence of impai
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical
-
 Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations.
 In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 

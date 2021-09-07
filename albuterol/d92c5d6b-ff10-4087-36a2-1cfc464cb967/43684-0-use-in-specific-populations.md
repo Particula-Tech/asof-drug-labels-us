@@ -53,8 +53,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VENTOLIN HFA in children aged 4 years and older have been established based upon two 12-week clinical trials in subjects aged 12 years and older with asthma and one 2-week clinical trial in subjects aged 4 to 11 years with asthma [see Adverse Reactions (6.1), Clinical Studies (14.1)].
-The safety and effectiveness of VENTOLIN HFA in children younger than 4 years have not been established.
+The safety and effectiveness of VENTOLIN HFA for treatment or prevention of bronchospasm and for prevention of exercised-induced bronchospasm in pediatric patients aged 4 years and older have been established.
+Use of VENTOLIN HFA for this indication is supported by evidence from adequate and well-controlled studies of two 12-week clinical trials in subjects aged 12 years and older with asthma and one 2-week clinical trial in subjects aged 4 to 11 years with asthma [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+
+The safety and effectiveness of VENTOLIN HFA in pediatric patients younger than 4 years have not been established.
 Three trials have been conducted to evaluate the safety and efficacy of VENTOLIN HFA in subjects younger than 4 years and the findings are described below.
 
 Two 4-week randomized, double-blind, placebo-controlled trials were conducted in 163 pediatric subjects aged from birth to 48 months with symptoms of bronchospasm associated with obstructive airway disease (presenting symptoms included: wheeze, cough, dyspnea, or chest tightness).
