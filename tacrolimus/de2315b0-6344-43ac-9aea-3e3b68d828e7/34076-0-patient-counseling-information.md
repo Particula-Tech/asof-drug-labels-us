@@ -75,4 +75,4 @@ Product of Germany
 
 Manufactured by: Rottendorf Pharma GmbH 59320 Ennigerloh North Rhine-Westphalia Germany
 
-Manufactured for: Veloxis Pharmaceuticals, Inc. Cary, North Carolina 27513 United States
+Manufactured for: Veloxis Pharmaceuticals, Inc. Cary, North Carolina 27518 United States
