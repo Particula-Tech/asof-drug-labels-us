@@ -41,13 +41,12 @@ OPDIVO is indicated for the treatment of patients with recurrent or metastatic s
 
 ## 1.8 Urothelial Carcinoma
 
+OPDIVO is indicated for the adjuvant treatment of patients with urothelial carcinoma (UC) who are at high risk of recurrence after undergoing radical resection of UC [see Clinical Studies (14.8)].
+
 OPDIVO is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who:
 
 - •have disease progression during or following platinum-containing chemotherapy
 - •have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
-
-This indication is approved under accelerated approval based on tumor response rate and duration of response [see Clinical Studies (14.8)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
 ## 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer
 

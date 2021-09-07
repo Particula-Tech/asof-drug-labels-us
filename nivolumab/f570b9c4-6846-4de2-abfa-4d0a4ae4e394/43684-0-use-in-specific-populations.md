@@ -54,7 +54,10 @@ The safety and effectiveness of OPDIVO have not been established (1) in pediatri
 Of the 1359 patients randomized to single-agent OPDIVO in CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, and CHECKMATE-067, 39% were 65 years or older and 9% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
-In CHECKMATE-275 (urothelial cancer), 55% of patients were 65 years or older and 14% were 75 years or older.
+In CHECKMATE-275 (metastatic or advanced urothelial cancer), 55% of patients were 65 years or older and 14% were 75 years or older.
+No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
+
+In CHECKMATE-274 (adjuvant treatment of urothelial cancer), 56% of patients were 65 years or older and 19% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
 In CHECKMATE-238 (adjuvant treatment of melanoma), 26% of patients were 65 years or older and 3% were 75 years or older.

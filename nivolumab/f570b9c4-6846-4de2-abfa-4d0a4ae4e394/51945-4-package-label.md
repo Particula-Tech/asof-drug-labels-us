@@ -11,7 +11,7 @@ Opdivo® (nivolumab) injection
 For intravenous Infusion Only Single-dose vial; Discard unused portion.
 Please provide enclosed Medication Guide to the patient.
 
-Bristol-Myers Squibb
+Bristol Myers Squibb
 
 # OPDIVO 100 mg/10 mL Representative Packaging
 
@@ -24,7 +24,20 @@ Opdivo® (nivolumab) injection
 For Intravenous Infusion Only Single-dose vial; Discard unused portion.
 Please provide enclosed Medication Guide to the patient.
 
-Bristol-Myers Squibb
+Bristol Myers Squibb
+
+# OPDIVO 120 mg/12 mL Representative Packaging
+
+NDC 0003-3756-14 Rx only
+
+Opdivo® (nivolumab) injection
+
+120 mg/12 mL (10 mg/mL)
+
+For Intravenous Infusion Only Single-dose vial; Discard unused portion.
+Please provide enclosed Medication Guide to the patient.
+
+Bristol Myers Squibb
 
 # OPDIVO 240 mg/24 mL Representative Packaging
 
@@ -37,4 +50,4 @@ Opdivo® (nivolumab) injection
 For Intravenous Infusion Only Single-dose vial; Discard unused portion.
 Please provide enclosed Medication Guide to the patient.
 
-Bristol-Myers Squibb
+Bristol Myers Squibb
