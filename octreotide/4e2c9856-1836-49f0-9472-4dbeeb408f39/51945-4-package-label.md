@@ -1,7 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-NOVARTIS
-
 NDC 0078-0180-01 Unit Dose Package
 
 Sandostatin®
@@ -18,9 +16,9 @@ For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size
 
-# PRINCIPAL DISPLAY PANEL
-
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0181-01 Unit Dose Package
 
@@ -38,9 +36,9 @@ For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size
 
-# PRINCIPAL DISPLAY PANEL
-
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0182-01 Unit Dose Package
 
@@ -57,3 +55,5 @@ Rx only
 For Subcutaneous or Intravenous Use
 
 10 Ampuls/1 mL size
+
+NOVARTIS
