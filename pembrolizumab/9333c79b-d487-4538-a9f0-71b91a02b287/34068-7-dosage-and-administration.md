@@ -9,7 +9,6 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 - stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
 - metastatic NSCLC [see Clinical Studies (14.2)].
 - first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
-- metastatic urothelial carcinoma [see Clinical Studies (14.6)].
 - metastatic gastric cancer [see Clinical Studies (14.9)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
 - previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].

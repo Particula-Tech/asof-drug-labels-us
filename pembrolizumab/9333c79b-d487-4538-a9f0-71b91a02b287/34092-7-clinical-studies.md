@@ -575,9 +575,9 @@ Table 56: Efficacy Results in Patients with PMBCL in KEYNOTE-170
 
 ## 14.6 Urothelial Carcinoma
 
-Cisplatin Ineligible Patients with Urothelial Carcinoma
+Platinum Ineligible Patients with Urothelial Carcinoma
 
-The efficacy of KEYTRUDA was investigated in KEYNOTE-052 (NCT02335424), a multicenter, open-label, single-arm trial in 370 patients with locally advanced or metastatic urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy.
+The efficacy of KEYTRUDA was investigated in KEYNOTE-052 (NCT02335424), a multicenter, open-label, single-arm trial in 370 patients with locally advanced or metastatic urothelial carcinoma who had one or more comorbidities, including patients who were not eligible for any platinum-containing chemotherapy.
 The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
 Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or disease progression.
 Patients with initial radiographic disease progression could receive additional doses of treatment during confirmation of progression unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
@@ -589,41 +589,35 @@ The study population characteristics were: median age of 74 years; 77% male; and
 Eighty-seven percent had M1 disease, and 13% had M0 disease.
 Eighty-one percent had a primary tumor in the lower tract, and 19% of patients had a primary tumor in the upper tract.
 Eighty-five percent of patients had visceral metastases, including 21% with liver metastases.
-Reasons for cisplatin ineligibility included: 50% with baseline creatinine clearance of <60 mL/min, 32% with ECOG PS of 2, 9% with ECOG PS of 2 and baseline creatinine clearance of <60 mL/min, and 9% with other reasons (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss).
+Fifty percent of patients had baseline creatinine clearance of <60 mL/min, 32% had ECOG PS of 2, 9% had ECOG PS of 2 and baseline creatinine clearance of <60 mL/min, and 9% had one or more of Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss.
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 
-Among the 370 patients, 30% (n = 110) had tumors that expressed PD-L1 with a CPS ≥10.
-PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx kit.
-The study population characteristics of these 110 patients were: median age of 73 years; 68% male; and 87% White.
-Eighty-two percent had M1 disease, and 18% had M0 disease.
-Eighty-one percent had a primary tumor in the lower tract, and 18% of patients had a primary tumor in the upper tract.
-Seventy-six percent of patients had visceral metastases, including 11% with liver metastases.
-Reasons for cisplatin ineligibility included: 45% with baseline creatinine clearance of <60 mL/min, 37% with ECOG PS of 2, 10% with ECOG PS of 2 and baseline creatinine clearance of <60 mL/min, and 8% with other reasons (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss).
-Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
-
-The median follow-up time for 370 patients treated with KEYTRUDA was 7.8 months (range 0.1 to 20 months).
+The median follow-up time for 370 patients treated with KEYTRUDA was 11.4 months (range 0.1 to 63.8 months).
 Efficacy results are summarized in Table 57.
 
 Table 57: Efficacy Results in KEYNOTE-052
 
-|  | All Subjects n=370 | PD-L1 CPS <10 n=260Includes 9 subjects with unknown PD-L1 status | PD-L1 CPS ≥10 n=110 |
-| --- | --- | --- | --- |
-| Endpoint | KEYTRUDA 200 mg every 3 weeks |  |  |
-| Objective Response Rate |  |  |  |
-| ORR (95% CI) | 29% (24, 34) | 21% (16, 26) | 47% (38, 57) |
-| Complete response rate | 7% | 3% | 15% |
-| Partial response rate | 22% | 18% | 32% |
-| Duration of Response |  |  |  |
-| Median in months (range) | NR (1.4+, 17.8+) | NR (1.4+, 16.3+) | NR (1.4+, 17.8+) |
-| + Denotes ongoing response NR = not reached |  |  |  |
+|  | All Subjects n=370 |
+| --- | --- |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks |
+| Objective Response Rate |  |
+| ORR (95% CI) | 29% (24, 34) |
+| Complete response rate | 10% |
+| Partial response rate | 20% |
+| Duration of Response |  |
+| Median in months (range) | 33.4 (1.4+, 60.7+) |
+| + Denotes ongoing response |  |
 
-Previously Untreated Urothelial Carcinoma
+Platinum Eligible Patients with Previously Untreated Urothelial Carcinoma
 
-KEYNOTE-361 (NCT02853305) is an ongoing, multicenter, randomized study in previously untreated patients with metastatic urothelial carcinoma who are eligible for platinum-containing chemotherapy.
-The study compares KEYTRUDA with or without platinum-based chemotherapy (i.e., cisplatin or carboplatin with gemcitabine) to platinum-based chemotherapy alone.
-The trial also enrolled a third arm of monotherapy with KEYTRUDA to compare to platinum-based chemotherapy alone.
-The independent Data Monitoring Committee (iDMC) for the study conducted a review of early data and found that in patients classified as having low PD-L1 expression (CPS <10), those treated with KEYTRUDA monotherapy had decreased survival compared to those who received platinum-based chemotherapy.
-The iDMC recommended to stop further accrual of patients with low PD-L1 expression in the monotherapy arm, however, no other changes were recommended, including any change of therapy for patients who had already been randomized to and were receiving treatment in the monotherapy arm.
+The efficacy of KEYTRUDA for the first-line treatment of platinum-eligible patients with locally advanced or metastatic urothelial carcinoma was investigated in KEYNOTE-361 (NCT02853305), a multicenter, randomized, open-label, active-controlled study in 1010 previously untreated patients.
+The safety and efficacy of KEYTRUDA in combination with platinum-based chemotherapy for previously untreated patients with locally advanced or metastatic urothelial carcinoma has not been established.
+
+The study compared KEYTRUDA with or without platinum-based chemotherapy (i.e., cisplatin or carboplatin with gemcitabine) to platinum-based chemotherapy alone.
+Among the patients receiving KEYTRUDA plus platinum-based chemotherapy, 44% received cisplatin and 56% received carboplatin.
+
+The study did not meet its major efficacy outcome measures of improved PFS or OS in the KEYTRUDA plus chemotherapy arm compared to the chemotherapy-alone arm.
+Additional efficacy endpoints, including improvement of OS in the KEYTRUDA monotherapy arm, could not be formally tested.
 
 Previously Treated Urothelial Carcinoma
 

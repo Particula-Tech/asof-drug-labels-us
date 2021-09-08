@@ -42,12 +42,10 @@ Limitations of Use: KEYTRUDA is not recommended for treatment of patients with P
 
 ## 1.6 Urothelial Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)], or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status.
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma:
 
-This indication is approved under accelerated approval based on tumor response rate and duration of response [see Clinical Studies (14.6)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
-
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+- who are not eligible for any platinum-containing chemotherapy, or
+- who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
 KEYTRUDA is indicated for the treatment of patients with Bacillus Calmette-Guerin (BCG)-unresponsive, high-risk, non-muscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors who are ineligible for or have elected not to undergo cystectomy.
 

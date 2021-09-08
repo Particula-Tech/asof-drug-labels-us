@@ -687,9 +687,9 @@ Table 23: Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patie
 
 Urothelial Carcinoma
 
-Cisplatin Ineligible Patients with Urothelial Carcinoma
+Platinum Ineligible Patients with Urothelial Carcinoma
 
-The safety of KEYTRUDA was investigated in KEYNOTE-052, a single-arm trial that enrolled 370 patients with locally advanced or metastatic urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy.
+The safety of KEYTRUDA was investigated in KEYNOTE-052, a single-arm trial that enrolled 370 patients with locally advanced or metastatic urothelial carcinoma who had one or more comorbidities.
 Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible [see Clinical Studies (14.6)].
 Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or either radiographic or clinical disease progression.
 
@@ -1137,7 +1137,7 @@ Serious adverse reactions in ≥2% of patients were hemorrhagic events (5%), dia
 Permanent discontinuation of either of KEYTRUDA, lenvatinib or both due to an adverse reaction occurred in 37% of patients receiving KEYTRUDA in combination with lenvatinib; 29% KEYTRUDA only, 26% lenvatinib only, and 13% both.
 The most common adverse reactions (≥2%) resulting in permanent discontinuation of KEYTRUDA, lenvatinib, or the combination were pneumonitis (3%), myocardial infarction (3%), hepatotoxicity (3%), acute kidney injury (3%), rash (3%), and diarrhea (2%).
 
-Dose interruptions KEYTRUDA, lenvatinib, or both due to an adverse reaction occurred in 78% of patients receiving KEYTRUDA in combination with lenvatinib.
+Dose interruptions of KEYTRUDA, lenvatinib, or both due to an adverse reaction occurred in 78% of patients receiving KEYTRUDA in combination with lenvatinib.
 KEYTRUDA was interrupted in 55% of patients and both drugs were interrupted in 39% of patients.
 The most common adverse reactions (≥3%) resulting in interruption of KEYTRUDA were diarrhea (10%), hepatotoxicity (8%), fatigue (7%), lipase increased (5%), amylase increased (4%),musculoskeletal pain (3%), hypertension (3%), rash (3%), acute kidney injury (3%), and decreased appetite (3%).
 
