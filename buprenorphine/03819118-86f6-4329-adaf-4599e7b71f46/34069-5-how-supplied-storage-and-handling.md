@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED / STORAGE AND HANDLING
 
-Buprenorphine Sublingual Tablets are available as follows:
+Buprenorphine sublingual tablets are available as follows:
 
 2 mg – Oval, orange tablets debossed with on one side and 156 on the other side.
 Tablets are supplied in bottles of 30 (NDC 0228-3156-03).
@@ -14,4 +14,4 @@ Dispense in a tight, light-resistant container as defined in USP.
 
 CAUTION: DEA Order Form Required.
 
-Store Buprenorphine Sublingual Tablets securely and dispose of properly [see Patient Counseling Information (17)].
+Store buprenorphine sublingual tablets securely and dispose of properly [see Patient Counseling Information (17)].

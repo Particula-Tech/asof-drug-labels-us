@@ -17,10 +17,10 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual tablet and other trials using buprenorphine sublingual solutions.
+The safety of buprenorphine sublingual tablets was supported by clinical trials using buprenorphine sublingual tablets, buprenorphine and naloxone sublingual tablet and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
 
-Few differences in adverse event profile were noted between Buprenorphine Sublingual Tablets or buprenorphine administered as a sublingual solution.
+Few differences in adverse event profile were noted between buprenorphine sublingual tablets or buprenorphine administered as a sublingual solution.
 
 The following adverse events were reported to occur by at least 5% of patients in a 4-week study (Table 1).
 
@@ -104,13 +104,13 @@ Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week
 The following adverse reactions have been identified during post approval use of buprenorphine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+The most frequently reported post-marketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Buprenorphine Sublingual Tablets.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in buprenorphine sublingual tablets.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 

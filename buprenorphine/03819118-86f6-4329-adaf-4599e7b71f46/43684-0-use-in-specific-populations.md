@@ -4,7 +4,7 @@
 
 Risk Summary
 
-The data on use of buprenorphine, the active ingredient in Buprenorphine Sublingual Tablets, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
+The data on use of buprenorphine, the active ingredient in buprenorphine sublingual tablets, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
 There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Data].
 Observational studies have reported on congenital malformations among buprenorphine-exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Data].
 
@@ -18,7 +18,7 @@ Based on animal data, advice pregnant women of the potential risk to a fetus.
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -34,7 +34,7 @@ Withdrawal signs and symptoms should be monitored closely and the dose adjusted 
 
 Fetal/neonatal adverse reactions
 
-Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with Buprenorphine Sublingual Tablets.
+Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with buprenorphine sublingual tablets.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
@@ -67,7 +67,7 @@ Because of the imbalance in discontinuation rates between the buprenorphine and 
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via Buprenorphine Sublingual Tablets.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via buprenorphine sublingual tablets.
 
 No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the human sublingual dose of 16 mg).
 Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
@@ -94,7 +94,7 @@ Delays in the occurrence of righting reflex and startle response were noted in r
 Risk Summary
 
 Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Buprenorphine Sublingual Tablets and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for buprenorphine sublingual tablets and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -118,14 +118,14 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Buprenorphine Sublingual Tablets has not been established in pediatric patients.
+The safety and effectiveness of buprenorphine sublingual tablets has not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual film, or buprenorphine and naloxone sublingual tablet did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
+Clinical studies of buprenorphine sublingual tablets, buprenorphine and naloxone sublingual film, or buprenorphine and naloxone sublingual tablet did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-Due to possible decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe Buprenorphine Sublingual Tablets should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
+Due to possible decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe buprenorphine sublingual tablets should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6 Hepatic Impairment
 

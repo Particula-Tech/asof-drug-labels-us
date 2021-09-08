@@ -7,11 +7,11 @@ Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 
 ## 2.2 Important Dosage and Administration Instructions
 
-Buprenorphine Sublingual Tablets are administered sublingually as a single daily dose.
+Buprenorphine sublingual tablets are administered sublingually as a single daily dose.
 
-Buprenorphine Sublingual Tablets do not contain naloxone HCl and is preferred for use only during induction.
+Buprenorphine sublingual tablets do not contain naloxone and is preferred for use only during induction.
 Following induction, buprenorphine and naloxone sublingual film or buprenorphine and naloxone sublingual tablet is preferred due to the presence of naloxone when clinical use includes unsupervised administration.
-The use of Buprenorphine Sublingual Tablets for unsupervised administration should be limited to those patients who cannot tolerate buprenorphine and naloxone sublingual film or buprenorphine and naloxone sublingual tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
+The use of buprenorphine sublingual tablets for unsupervised administration should be limited to those patients who cannot tolerate buprenorphine and naloxone sublingual film or buprenorphine and naloxone sublingual tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
 
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
@@ -19,11 +19,11 @@ Provision of multiple refills is not advised early in treatment or without appro
 ## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine sublingual tablets.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Buprenorphine Sublingual Tablets itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu receptor [see Overdosage (10)].
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine sublingual tablets itself.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine sublingual tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
@@ -33,42 +33,42 @@ Prior to induction, consideration should be given to the type of opioid dependen
 
 Patients dependent on heroin or other short-acting opioid products:
 
-At treatment initiation, the first dose of Buprenorphine Sublingual Tablets should be administered only when objective and clear signs of moderate opioid withdrawal appear, and not less than 4 hours after the patient last used an opioid.
+At treatment initiation, the first dose of buprenorphine sublingual tablets should be administered only when objective and clear signs of moderate opioid withdrawal appear, and not less than 4 hours after the patient last used an opioid.
 
 It is recommended that an adequate treatment dose, titrated to clinical effectiveness, should be achieved as rapidly as possible.
 The dosing on the initial day of treatment may be given in 2 mg to 4 mg increments if preferred.
 In some studies, gradual induction over several days led to a high rate of dropout of buprenorphine patients during the induction period.
 
-In a one-month study, patients received 8 mg of Buprenorphine Sublingual Tablets on Day 1 and 16 mg Buprenorphine Sublingual Tablets on Day 2.
-From Day 3 onward, patients received either buprenorphine and naloxone sublingual tablet or Buprenorphine Sublingual Tablet at the same buprenorphine dose as Day 2 based on their assigned treatment.
-Induction in the studies of buprenorphine solution was accomplished over 3 to 4 days, depending on the target dose.
+In a one-month study, patients received 8 mg of buprenorphine sublingual tablets on Day 1 and 16 mg buprenorphine sublingual tablets on Day 2.
+From Day 3 onward, patients received either buprenorphine and naloxone sublingual tablet or buprenorphine sublingual tablet at the same buprenorphine dose as Day 2 based on their assigned treatment.
+Induction in the studies of buprenorphine solution was accomplished over 3-4 days, depending on the target dose.
 
 Patients dependent on methadone or other long-acting opioid products:
 
-Patients dependent upon methadone or other long-acting opioid products may be more susceptible to precipitated and prolonged withdrawal during induction than those on short-acting opioid products; therefore, the first dose of Buprenorphine Sublingual Tablets should only be administered when objective and clear signs of moderate opioid withdrawal appear, and generally not less than 24 hours after the patient last used a long-acting opioid product.
+Patients dependent upon methadone or other long-acting opioid products may be more susceptible to precipitated and prolonged withdrawal during induction than those on short-acting opioid products; therefore, the first dose of buprenorphine sublingual tablets should only be administered when objective and clear signs of moderate opioid withdrawal appear, and generally not less than 24 hours after the patient last used a long-acting opioid product.
 
 There is little controlled experience with the transfer of methadone-maintained patients to buprenorphine.
 Available evidence suggests that withdrawal signs and symptoms are possible during induction onto buprenorphine.
-Withdrawal appears more likely in patients maintained on higher doses of methadone (greater than 30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
+Withdrawal appears more likely in patients maintained on higher doses of methadone (>30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
 
 ## 2.5 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
 - Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments/decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
-- After treatment induction and stabilization, the maintenance dose of Buprenorphine Sublingual Tablets is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
-  The recommended target dosage of Buprenorphine Sublingual Tablets is 16 mg as a single daily dose.
+- After treatment induction and stabilization, the maintenance dose of buprenorphine sublingual tablets is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
+  The recommended target dosage of buprenorphine sublingual tablets is 16 mg as a single daily dose.
   Dosages higher than 24 mg have not been demonstrated to provide any clinical advantage.
 - When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
 - There is no maximum recommended duration of maintenance treatment.
-  Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of Buprenorphine Sublingual Tablets contributes to the intended treatment goals.
+  Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of buprenorphine sublingual tablets contributes to the intended treatment goals.
 
 ## 2.6 Method of Administration
 
-Buprenorphine Sublingual Tablets must be administered whole.
-Do not cut, chew, or swallow Buprenorphine Sublingual Tablets.
+Buprenorphine sublingual tablets must be administered whole.
+Do not cut, chew, or swallow buprenorphine sublingual tablets.
 Advise patients not to eat or drink anything until the tablet is completely dissolved.
 
-Buprenorphine Sublingual Tablet should be placed under the tongue until it is dissolved.
+Buprenorphine sublingual tablet should be placed under the tongue until it is dissolved.
 For doses requiring the use of more than two tablets, patients are advised to either place all the tablets at once or alternatively (if they cannot fit in more than two tablets comfortably), place two tablets at a time under the tongue.
 Either way, the patients should continue to hold the tablets under the tongue until they dissolve; swallowing the tablets reduces the bioavailability of the drug.
 To ensure consistency in bioavailability, patients should follow the same manner of dosing with continued use of the product.

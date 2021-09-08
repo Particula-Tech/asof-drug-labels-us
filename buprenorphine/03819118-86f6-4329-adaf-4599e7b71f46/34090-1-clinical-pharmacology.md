@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Buprenorphine Sublingual Tablets contain buprenorphine, a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
+Buprenorphine sublingual tablets contain buprenorphine, a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
 
 ## 12.2 Pharmacodynamics
 
@@ -16,7 +16,7 @@ Both active drugs produced typical opioid agonist effects.
 For all measures for which the drugs produced an effect, buprenorphine produced a dose-related response.
 However, in each case, there was a dose that produced no further effect.
 In contrast, the highest dose of the full agonist control always produced the greatest effects.
-Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
+Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8-32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
 Physiologic Effects
@@ -45,7 +45,7 @@ Patients presenting with symptoms of androgen deficiency should undergo laborato
 
 Absorption
 
-Plasma levels of buprenorphine increased with the sublingual dose of Buprenorphine Sublingual Tablets (Table 4).
+Plasma levels of buprenorphine increased with the sublingual dose of buprenorphine sublingual tablets (Table 4).
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
 Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 mg to 16 mg), although the increase was not directly dose-proportional.
 
@@ -71,7 +71,7 @@ Metabolism
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
-Norbuprenorphine has been found to bind opioid receptors in vitro; however, it is not known whether norbuprenorphine contributes to the overall effect of Buprenorphine Sublingual Tablets.
+Norbuprenorphine has been found to bind opioid receptors in vitro; however, it is not known whether norbuprenorphine contributes to the overall effect of buprenorphine sublingual tablets.
 
 Excretion
 
@@ -80,7 +80,7 @@ Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorp
 In urine, most of buprenorphine and norbuprenorphine was conjugated (buprenorphine, 1% free and 9.4% conjugated; norbuprenorphine, 2.7% free and 11% conjugated).
 In feces, almost all of the buprenorphine and norbuprenorphine were free (buprenorphine, 33% free and 5% conjugated; norbuprenorphine, 21% free and 2% conjugated).
 
-When Buprenorphine Sublingual Tablets are administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
+When buprenorphine sublingual tablets are administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
 
 Drug Interactions Studies
 

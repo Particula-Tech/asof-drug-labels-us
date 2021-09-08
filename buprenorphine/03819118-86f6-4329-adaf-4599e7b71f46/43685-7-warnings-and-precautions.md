@@ -10,10 +10,10 @@ Multiple refills should not be prescribed early in treatment or without appropri
 ## 5.2 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
-Many, but not all, postmarketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
-Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with Buprenorphine Sublingual Tablets [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Many, but not all, post-marketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
+Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with buprenorphine sublingual tablets [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Use Buprenorphine Sublingual Tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+Use buprenorphine sublingual tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
 
@@ -24,13 +24,15 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine sublingual tablets.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Buprenorphine Sublingual Tablets itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu receptor [see Overdosage (10)].
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine sublingual tablets itself.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine sublingual tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
 Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
 Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
@@ -71,7 +73,7 @@ Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome 
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
 
-Advise pregnant women receiving opioid addiction treatment with Buprenorphine Sublingual Tablets of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
+Advise pregnant women receiving opioid addiction treatment with buprenorphine sublingual tablets of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
@@ -89,11 +91,11 @@ The information available does not identify any particular opioids as being more
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
-When discontinuing Buprenorphine Sublingual Tablets, gradually taper the dosage [see Dosage and Administration (2.10)].
+When discontinuing buprenorphine sublingual tablets, gradually taper the dosage [see Dosage and Administration (2.10)].
 
 ## 5.8 Risk of Hepatitis, Hepatic Events
 
-Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through postmarketing adverse event reports.
+Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through post-marketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injecting drug use may have played a causative or contributory role.
 In other cases, insufficient data were available to determine the etiology of the abnormality.
@@ -102,23 +104,23 @@ The possibility exists that buprenorphine had a causative or contributory role i
 Liver function tests, prior to initiation of treatment is recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
-Depending on the case, Buprenorphine Sublingual Tablets may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
+Depending on the case, buprenorphine sublingual tablets may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
 
 ## 5.9 Hypersensitivity Reactions
 
-Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the postmarketing experience.
+Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the post-marketing experience.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
-A history of hypersensitivity to buprenorphine is a contraindication to the use of Buprenorphine Sublingual Tablets.
+A history of hypersensitivity to buprenorphine is a contraindication to the use of buprenorphine sublingual tablets.
 
 ## 5.10 Precipitation of Opioid Withdrawal Signs and Symptoms
 
-Because of the partial agonist properties of buprenorphine, Buprenorphine Sublingual Tablets may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
+Because of the partial agonist properties of buprenorphine, buprenorphine sublingual tablets may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
 
 ## 5.11 Risk of Overdose in Opioid Naïve Patients
 
 There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
-Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
+Buprenorphine sublingual tablets are not appropriate as an analgesic.
 
 ## 5.12 Use in Patients with Impaired Hepatic Function
 
@@ -128,12 +130,12 @@ For patients with severe hepatic impairment, a dose adjustment is recommended, a
 
 ## 5.13 Impairment of Ability to Drive or Operate Machinery
 
-Buprenorphine Sublingual Tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
+Buprenorphine sublingual tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
 
 ## 5.14 Orthostatic Hypotension
 
-Like other opioids, Buprenorphine Sublingual Tablets may produce orthostatic hypotension in ambulatory patients.
+Like other opioids, buprenorphine sublingual tablets may produce orthostatic hypotension in ambulatory patients.
 
 ## 5.15 Elevation of Cerebrospinal Fluid Pressure
 
