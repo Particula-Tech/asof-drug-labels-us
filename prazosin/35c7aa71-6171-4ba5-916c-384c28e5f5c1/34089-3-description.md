@@ -11,4 +11,3 @@ The empty hard gelatin capsules contain black iron oxide, gelatin, red iron oxid
 In addition, the 1 mg empty gelatin capsules contain D&C Yellow No. 10 and FD&C Green No. 3; the 2 mg empty gelatin capsules contain D&C Red No. 28, D&C Yellow No. 10, FD&C Blue No. 1 and FD&C Red No. 40; and the 5 mg empty gelatin capsules contain FD&C Blue No. 1.
 
 The capsules shells are imprinted in edible ink which contains concentrated ammonium solution, potassium hydroxide, propylene glycol, shellac and titanium dioxide.
-FDA approved dissolution method differs from the current USP monograph dissolution method.

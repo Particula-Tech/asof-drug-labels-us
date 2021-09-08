@@ -4,6 +4,8 @@ Prazosin Hydrochloride Capsules, USP 1 mg for oral administration containing pra
 
 Hard gelatin capsule shell with dark green colored cap and light brown colored body, imprinted with white ink as 019 on cap and novitium on body, filled with white to off-white powder blend.
 
+NDC 70954-019-50 Bottles of 90 capsules
+
 NDC 70954-019-10 Bottles of 100 capsules
 
 NDC 70954-019-20 Bottles of 1000 capsules
@@ -45,6 +47,13 @@ Novitium Pharma LLC
 
 New Jersey 08520
 
-Issued: 10/2020
+Issued: 08/2021
 
-LB4046-03
+LB4375-00
+
+REFERENCES
+
+1) Lubbe, WF, and Hodge, JV: New Zealand Med J, 94 (691) 169-172,1981.
+
+2) Davey, DA, and Dommisse, J: SA.
+Med J, Oct.4, 1980 (551-556).
