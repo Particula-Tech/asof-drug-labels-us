@@ -1,6 +1,10 @@
 # MEDICATION GUIDE
 
-Fluoxetine (floo ox' e teen) Capsules, USP for oral use
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Fluoxetine (floo ox' e teen) Capsules, USP
+
+for oral use
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
@@ -285,12 +289,9 @@ Inactive ingredients: D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
-Opava-Komarov, Czech Republic
-
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o., Opava-Komarov, Czech Republic Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054
 
 Rev.
-J 6/2020
+K 8/2021

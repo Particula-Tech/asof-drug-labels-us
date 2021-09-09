@@ -92,12 +92,14 @@ Height and weight should be monitored periodically in pediatric patients receivi
 
 Pediatric Use of fluoxetine and olanzapine in combination - Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
+
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-M 6/2020
+N 8/2021
