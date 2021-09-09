@@ -4,7 +4,7 @@ Everolimus is available in tablets for oral administration
 
 ## 2.1 Important Dosage Information
 
-- •Modify the dosage for patients with hepatic impairment or for patients taking drugs that inhibit or induce Pglycoprotein (P-gp) and CYP3A4 [see Dosage and Administration (2.11, 2.12)].
+- •Modify the dosage for patients with hepatic impairment or for patients taking drugs that inhibit or induce P-glycoprotein (P-gp) and CYP3A4 [see Dosage and Administration (2.11, 2.12)].
 
 ## 2.4 Recommended Dosage for Renal Cell Carcinoma (RCC)
 

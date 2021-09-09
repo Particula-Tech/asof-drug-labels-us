@@ -50,6 +50,11 @@ Advise females of reproductive potential to use effective contraception during t
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [seeWarnings and Precautions (5.12)and Use in Specific Populations(8.1,8.3)].
 
+Radiation Sensitization and Radiation Recall
+
+Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to everolimus treatment.
+Advise patients to inform their health care provider if they have had or are planning to receive radiation therapy [see Warning and Precautions (5.12)].
+
 Lactation
 
 Advise women not to breastfeed during treatment with Everolimus and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
@@ -58,8 +63,12 @@ Infertility
 
 Advise males and females of reproductive potential of the potential risk for impaired fertility [seeUse in Specific Populations (8.3)].
 
-Distr. by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724
+Distributed by:
 
-C50000034/01
+Hikma Pharmaceuticals USA Inc.
 
-Revised June 2020
+Berkeley Heights, NJ 07922
+
+C50000034/02
+
+Revised April 2021

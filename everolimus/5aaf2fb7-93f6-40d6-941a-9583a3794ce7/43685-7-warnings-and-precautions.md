@@ -96,7 +96,13 @@ Due to the potential increased risk of infection, avoid the use of live vaccines
 Due to the potential increased risk of infection or reduced immune response with vaccination, complete the recommended childhood series of vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
 An accelerated vaccination schedule may be appropriate.
 
-## 5.12 Embryo-Fetal Toxicity
+## 5.12 Radiation Sensitization and Radiation Recall
+
+Radiation sensitization and recall, in some cases severe, involving cutaneous and visceral organs (including radiation esophagitis and pneumonitis) have been reported in patients treated with radiation prior to, during, or subsequent to everolimus treatment [see Adverse Reactions (6.2)].
+
+Monitor patients closely when everolimus is administered during or sequentially with radiation treatment.
+
+## 5.13 Embryo-Fetal Toxicity
 
 Based on animal studies and the mechanism of action, Everolimus can cause fetal harm when administered to a pregnant woman.
 In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg once daily.

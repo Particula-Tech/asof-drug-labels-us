@@ -11,6 +11,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - •Impaired Wound Healing [see Warnings and Precautions (5.7)].
 - •Metabolic Disorders [see Warnings and Precautions(5.9)].
 - •Myelosuppression [seeWarnings and Precautions(5.10)].
+- •Radiation Sensitization and Radiation Recall [see Warnings and Precautions (6.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -190,3 +191,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Infections: Sepsis and septic shock
 - •Nervous System: Reflex sympathetic dystrophy
 - •Vascular: Arterial thrombotic events
+- •Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall

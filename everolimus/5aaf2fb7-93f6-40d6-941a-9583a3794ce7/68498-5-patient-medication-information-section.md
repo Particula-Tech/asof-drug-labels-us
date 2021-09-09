@@ -43,7 +43,13 @@ Symptoms of hepatitis B or infection may include the following:
 - 4.Possible increased risk for a type of allergic reaction called angioedema, in people who take an Angiotensin-Converting Enzyme (ACE) inhibitor medicine during treatment with Everolimus Tablets.
   Talk with your healthcare provider before taking Everolimus Tablets if you are not sure if you take an ACE inhibitor medicine.
   Get medical help right away if you have trouble breathing or develop swelling of your tongue, mouth, or throat during treatment with Everolimus Tablets.
-- 5.You may develop kidney failure.
+- 5.Mouth ulcers and sores.
+  Mouth ulcers and sores are common during treatment with everolimus but can also be severe.
+  When you start treatment with everolimus, your healthcare provider may tell you to also start a prescription mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity.
+  Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
+  If you develop pain, discomfort, or open sores in your mouth, tell your healthcare provider.
+  Your healthcare provider may tell you to re-start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
+- 6.You may develop kidney failure.
   In some people this may be severe and can even lead to death.
   Your healthcare provider should do tests to check your kidney function before and during your treatment with Everolimus Tablets.
 
@@ -89,16 +95,17 @@ Before taking Everolimus Tablets, tell your healthcare provider about all of you
   If you are not sure about the type of immunization or vaccine, ask your healthcare provider.
 - •Are pregnant, can become pregnant, or have a partner who can become pregnant.
   Everolimus Tablets can cause harm to your unborn baby.
-  If you are a female who is able to become pregnant you should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.
-  If you are a male with a female partner, you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets.
-  Talk to your healthcare provider about birth control methods that may be right for you during this time.
-  If you become pregnant or think you are pregnant, tell your healthcare provider right away.
+  Females who are able to become pregnant:
+- o Your healthcare provider will give you a pregnancy test before you start treatment with Everolimus Tablets.
+- o You should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.Males with a female partner, you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets.
 - •Are breastfeeding or plan to breastfeed.
   It is not known if Everolimus passes into your breast milk.
   Do not breastfeed during treatment and for 2 weeks after your last dose of Everolimus Tablets.
 - •Are planning to have surgery or if you have had a recent surgery.
   You should stop taking Everolimus Tablets at least 1 week before planned surgery.
   See “Whatare the possible side effects of Everolimus Tablets?”
+- •Have received radiation therapy or are planning to receive radiation therapy in the future.
+  See “What are the possible side effects of Everolimus Tablets?
 
 Tell your healthcare provider about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -132,22 +139,20 @@ How should I take Everolimus Tablets?
   Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
 - •Your healthcare provider may change your dose of Everolimus Tablets or tell you to temporarily interrupt dosing, if needed.
 - •Use scissors to open the blister pack.
-
-Everolimus Tablets:
-
-- •Swallow Everolimus Tablets whole with a glass of water.
-  Do not take any tablet that is broken or crushed.
 - •Take Everolimus Tablets 1 time each day at about the same time.
 - •Take Everolimus Tablets the same way each time, either with food or without food.
-- •If you take too much Everolimus Tablets contact your healthcare provider or go to the nearest hospital emergency room right away.
-  Take the bottle or blister pack of Everolimus Tablets with you.
+- •If you take too many Everolimus Tablets, contact your healthcare provider or go to the nearest hospital emergency room right away.
+  Take the pack of Everolimus Tablets with you.
 - •If you miss a dose of Everolimus Tablets, you may take it if it is less than 6 hours after the time you normally take it.
   If it is more than 6 hours after you normally take your Everolimus Tablets, skip the dose for that day.
   The next day, take Everolimus Tablets at your usual time.
   Do not take 2 doses to make up for a missed dose.
   If you are not sure about what to do, call your healthcare provider.
-- •You should have blood tests before you start Everolimus Tablets and as needed during your treatment.
-  These will include tests to check your blood cell count, kidney and liver function, cholesterol, and blood sugar levels.
+
+Everolimus Tablets:
+
+- •Swallow Everolimus Tablets whole with a glass of water.
+  Do not take any tablet that is broken or crushed.
 
 What should I avoid while taking Everolimus Tablets?
 
@@ -169,15 +174,11 @@ Everolimus Tablets can cause serious side effects.
 - •Decreased blood cell counts.
   Everolimus Tablets can cause you to have decreased red blood cells, white blood cells, and platelets.
   Your healthcare provider should do blood tests to check your blood cell counts before you start and during treatment with Everolimus Tablets.
+- •Worsening side effects from radiation treatment, that can sometimes be severe.
+  Tell your healthcare provider if you have had or are planning to receive radiation therapy.
 
 The most common side effects of Everolimus Tablets in people with advanced kidney cancer include:
 
-- •Mouth ulcers.
-  Everolimus Tablets can cause mouth ulcers and sores.
-  When you start treatment with Everolimus Tablets, your healthcare provider may also tell you to start a prescription mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity.
-  Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
-  If you develop pain, discomfort, or open sores in your mouth, tell your healthcare provider.
-  Your healthcare provider may tell you to re-start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
 - •Infections
 - •Rash
 - •Feeling weak or tired
@@ -190,15 +191,7 @@ The most common side effects of Everolimus Tablets in people with advanced kidne
 - •Headache
 - •Decreased appetite
 
-The most common side effects of Everolimus Tablets in people who have renal angiomyolipoma with TSC include:
-
-- •Mouth ulcers.
-  Everolimus Tablets can cause mouth ulcers and sores.
-  When you start treatment with Everolimus Tablets, your healthcare provider may tell you to also start a prescription mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity.
-  Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
-  If you develop pain, discomfort, or open sores in your mouth, tell your healthcare provider.
-  Your healthcare provider may tell you to re‐start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
-- •Respiratory tract infections.
+The most common side effects of Everolimus Tablets in people who have renal angiomyolipoma with TSC include respiratory tract infections.
 
 Other side effects that may occur with Everolimus Tablets:
 
@@ -234,7 +227,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Pat
 Do not use Everolimus Tablets for a condition for which it was not prescribed.
 Do not give Everolimus Tablets to other people, even if they have the same problem you have.
 It may harm them.
-
 This leaflet summarizes the most important information about Everolimus Tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information written for healthcare professionals.
@@ -250,8 +242,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc.
 
-Distr. by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724
+Distributed by:
 
-C50000034/01
+Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised June 2020
+C50000034/02
+
+Revised April 2021
