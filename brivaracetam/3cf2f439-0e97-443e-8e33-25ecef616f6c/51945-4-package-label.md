@@ -84,9 +84,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient
 
 NDC 50474-970-75 Rx only
 
-BRIVIACT® (brivaracetam) injection CV
-
-50 mg/5 mL (10 mg/mL)
+BRIVIACT® (brivaracetam) injection CV 50 mg/5 mL (10 mg/mL)
 
 For Intravenous Use Only
 

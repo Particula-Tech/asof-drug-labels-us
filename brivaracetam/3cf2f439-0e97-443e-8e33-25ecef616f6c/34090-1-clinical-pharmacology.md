@@ -63,10 +63,12 @@ Specific Populations
 
 Age
 
-Pediatric Patients: An open-label, single-arm, multicenter, pharmacokinetic study with a 3-week evaluation period and fixed 3-step up-titration using BRIVIACT oral solution was conducted in 59 pediatric patients 4 years to less than 16 years of age.
+Pediatric Patients (2 months to less than 16 years): An open-label, single-arm, multicenter, pharmacokinetic study with a 3-week evaluation period and fixed 3-step up-titration using BRIVIACT oral solution was conducted in 99 pediatric patients 2 months to less than 16 years of age.
 In those patients, plasma concentrations were shown to be dose-proportional.
-A weight-based dosing regimen is necessary to achieve brivaracetam exposures in pediatric patients 4 years to less than 16 years of age that are similar to those observed in adults treated at effective doses of BRIVIACT [see Dosage and Administration (2.2)].
-The estimated plasma clearance was 1.61 L/h; 2.18 L/h; 3.19 L/h for pediatric patients weighing 20 kg, 30 kg, and 50 kg, respectively.
+The pediatric pharmacokinetic profile for BRIVIACT was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in three open-label studies in 255 adult and pediatric patients with epilepsy 2 months to 22 years of age that received intravenous, oral solution, or oral tablet formulations.
+
+A weight-based dosing regimen is necessary to achieve brivaracetam exposures in pediatric patients 1 month to less than 16 years of age that are similar to those observed in adults treated at effective doses of BRIVIACT [see Dosage and Administration (2.2)].
+The estimated plasma clearance was 1.09 L/h, 1.81 L/h, and 3.11 L/h for pediatric patients weighing 11 kg, 20 kg, and 50 kg, respectively.
 In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
 
 Geriatric Population: In a study in elderly subjects (65 to 79 years old; creatinine clearance 53 to 98 mL/min/1.73 m2) receiving BRIVIACT 200 mg twice daily (2 times the highest recommended dosage), the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75 years groups, respectively.
@@ -118,9 +120,9 @@ Drug Interaction Studies with Antiepileptic Drugs (AEDs)
 Potential interactions between BRIVIACT (25 mg twice daily to 100 mg twice daily) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all Phase 2 and 3 studies and in a population exposure-response analysis of placebo-controlled, Phase 3 studies in adjunctive therapy in the treatment of partial-onset seizures.
 None of the interactions require changes in the dose of BRIVIACT.
 Interactions with carbamazepine and phenytoin can be clinically important [see Drug Interactions (7.2) and (7.3)].
-The interactions are summarized in Table 4.
+The interactions are summarized in Table 5.
 
-Table 4: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
+Table 5: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
 
 | Concomitant AED | Influence of AED on BRIVIACT | Influence of BRIVIACT on AED |
 | --- | --- | --- |

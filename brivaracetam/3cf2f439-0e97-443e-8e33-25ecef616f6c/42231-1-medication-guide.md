@@ -32,17 +32,13 @@ Do not stop BRIVIACT without first talking to a healthcare provider.
 
 What is BRIVIACT?
 
-BRIVIACT is a prescription medicine used to treat partial-onset seizures in people 4 years of age and older.
+BRIVIACT is a prescription medicine used to treat partial-onset seizures in people 1 month of age and older.
 
-- It is not known if BRIVIACT injection is safe for use in children.
-- Children 4 years of age and older should only take BRIVIACT by mouth.
-- BRIVIACT injection is only for use in people 16 years of age and older and may be given in the vein (intravenously) when BRIVIACT is not able to be taken by mouth.
-
-It is not known if BRIVIACT is safe and effective in children younger than 4 years of age.
+It is not known if BRIVIACT is safe and effective in children younger than 1 month of age.
 
 Who should not take BRIVIACT?
 
-Do not take BRIVIACT if you are allergic to brivaracetam or any of the inactive ingredients in BRIVIACT.
+Do not take BRIVIACT if you are allergic to brivaracetam or any of the ingredients in BRIVIACT.
 See the end of this Medication Guide for a complete list of ingredients in BRIVIACT.
 
 What should I tell my healthcare provider before starting BRIVIACT?
@@ -110,7 +106,7 @@ The most common side effects of BRIVIACT in adults include:
 - dizziness
 - nausea and vomiting
 
-Side effects of BRIVIACT in children 4 to less than 16 years of age are similar to those seen in adults.
+Side effects of BRIVIACT in children 1 month to less than 16 years of age are similar to those seen in adults.
 
 These are not all the possible side effects of BRIVIACT.
 For more information, ask your healthcare provider or pharmacist.
@@ -160,4 +156,4 @@ All rights reserved.
 
 For more information, go to www.BRIVIACT.com or call 1-844-599-2273.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 3/2021
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 8/2021

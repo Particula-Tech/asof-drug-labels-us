@@ -15,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In all controlled and uncontrolled trials performed in adult epilepsy patients, BRIVIACT was administered as adjunctive therapy to 2437 patients.
 Of these patients, 1929 were treated for at least 6 months, 1500 for at least 12 months, 1056 for at least 24 months, and 758 for at least 36 months.
 A total of 1558 patients (1099 patients treated with BRIVIACT and 459 patients treated with placebo) constituted the safety population in the pooled analysis of Phase 3 placebo-controlled studies in patients with partial-onset seizures (Studies 1, 2, and 3) [see Clinical Studies (14)].
-The adverse reactions presented in Table 2 are based on this safety population; the median length of treatment in these studies was 12 weeks.
+The adverse reactions presented in Table 4 are based on this safety population; the median length of treatment in these studies was 12 weeks.
 Of the patients in those studies, approximately 51% were male, 74% were Caucasian, and the mean age was 38 years.
 
 In the Phase 3 controlled epilepsy studies, adverse events occurred in 68% of patients treated with BRIVIACT and 62% treated with placebo.
@@ -23,9 +23,9 @@ The most common adverse reactions occurring at a frequency of at least 5% in pat
 
 The discontinuation rates due to adverse events were 5%, 8%, and 7% for patients randomized to receive BRIVIACT at the recommended doses of 50 mg, 100 mg, and 200 mg/day, respectively, compared to 4% in patients randomized to receive placebo.
 
-Table 3 lists adverse reactions for BRIVIACT that occurred at least 2% more frequently for BRIVIACT doses of at least 50 mg/day than placebo.
+Table 4 lists adverse reactions for BRIVIACT that occurred at least 2% more frequently for BRIVIACT doses of at least 50 mg/day than placebo.
 
-Table 3: Adverse Reactions in Pooled Placebo-Controlled Adjunctive Therapy Studies in Adult Patients with Partial-Onset Seizures (BRIVIACT 50 mg/day, 100 mg/day, and 200 mg/day)
+Table 4: Adverse Reactions in Pooled Placebo-Controlled Adjunctive Therapy Studies in Adult Patients with Partial-Onset Seizures (BRIVIACT 50 mg/day, 100 mg/day, and 200 mg/day)
 
 | Adverse Reactions | BRIVIACT (N=803) % | Placebo (N=459) % |
 | --- | --- | --- |
@@ -40,13 +40,14 @@ Table 3: Adverse Reactions in Pooled Placebo-Controlled Adjunctive Therapy Studi
 | Psychiatric disorders |  |  |
 | Irritability | 3 | 1 |
 
-There was no apparent dose-dependent increase in adverse reactions listed in Table 3 with the exception of somnolence and sedation.
+There was no apparent dose-dependent increase in adverse reactions listed in Table 4 with the exception of somnolence and sedation.
 
-Pediatric Patients (4 Years to less than 16 Years of Age)
+Pediatric Patients
 
-Safety of BRIVIACT was evaluated in two open-label, safety and pharmacokinetic trials in pediatric patients 4 years to less than 16 years of age.
-Across studies of pediatric patients with partial onset seizures, 149 patients 4 years to less than 16 years of age received BRIVIACT oral solution or tablet, of whom 107 received BRIVIACT for at least 12 months.
-Adverse reactions reported in clinical studies of pediatric patients 4 years to less than 16 years of age were generally similar to those seen in adult patients.
+Safety of BRIVIACT was evaluated in two open-label, safety and pharmacokinetic trials in pediatric patients 2 months to less than 16 years of age.
+Across studies of pediatric patients with partial onset seizures, 186 patients received BRIVIACT oral solution or tablet, of whom 123 received BRIVIACT for at least 12 months.
+Adverse reactions reported in clinical studies of pediatric patients were generally similar to those seen in adult patients.
+Decreased appetite was also observed in these pediatric trials.
 
 Hematologic Abnormalities
 
@@ -55,8 +56,8 @@ In the Phase 3 controlled adjunctive epilepsy studies, a total of 1.8% of BRIVIA
 
 Adverse Reactions with BRIVIACT Injection
 
-Adverse reactions with BRIVIACT injection administered to adult patients were generally similar to those observed with BRIVIACT tablets.
-Other adverse events that occurred in at least 3% of patients who received BRIVIACT injection included dysgeusia, euphoric mood, feeling drunk, and infusion site pain.
+Adverse reactions with BRIVIACT injection administered to adults and pediatric patients 2 months to 16 years of age were generally similar to those observed with BRIVIACT tablets.
+Other adverse events that occurred in at least 3% of adult patients who received BRIVIACT injection included dysgeusia, euphoric mood, feeling drunk, and infusion site pain.
 
 Comparison by Sex
 

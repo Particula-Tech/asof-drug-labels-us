@@ -4,27 +4,27 @@
 
 Monotherapy or Adjunctive Therapy
 
-The recommended dosage for adults and pediatric patients 4 years of age and older is included in Table 1.
-In pediatric patients 4 years to less than 16 years of age, the recommended dosing regimen is dependent upon body weight and is only recommended to be administered orally.
+The recommended dosage for patients 1 month of age and older is included in Table 1.
+In pediatric patients weighing less than 50 kg, the recommended dosing regimen is dependent upon body weight.
 When initiating treatment, gradual dose escalation is not required.
 Dosage should be adjusted based on clinical response and tolerability.
 
-Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older
+Table 1: Recommended Dosage for Patients 1 Month of Age and Older
 
 | Age and Body Weight | Initial Dosage | Minimum and Maximum Maintenance Dosage |
 | --- | --- | --- |
-| Adults (16 years and older) | 50 mg twice daily (100 mg per day) | 25 mg to 100 mg twice daily (50 to 200 mg per day) |
-| Pediatric patients weighing 50 kg or more | 25 mg to 50 mg twice daily (50 mg to 100 mg per day) | 25 mg to 100 mg twice daily (50 to 200 mg per day) |
+| Adults (16 years and older) | 50 mg twice daily (100 mg per day) | 25 mg to 100 mg twice daily (50 mg to 200 mg per day) |
+| Pediatric patients weighing 50 kg or more | 25 mg to 50 mg twice daily (50 mg to 100 mg per day) | 25 mg to 100 mg twice daily (50 mg to 200 mg per day) |
 | Pediatric patients weighing 20 kg to less than 50 kg | 0.5 mg/kg to 1 mg/kg twice daily (1 mg/kg to 2 mg/kg per day) | 0.5 mg/kg to 2 mg/kg twice daily (1 mg/kg to 4 mg/kg per day) |
 | Pediatric patients weighing 11 kg to less than 20 kg | 0.5 mg/kg to 1.25 mg/kg twice daily (1 mg/kg to 2.5 mg/kg per day) | 0.5 mg/kg to 2.5 mg/kg twice daily (1 mg/kg to 5 mg/kg per day) |
+| Pediatric patients weighing less than 11 kg | 0.75 mg/kg to 1.5 mg/kg twice daily (1.5 mg/kg to 3 mg/kg per day) | 0.75 mg/kg to 3 mg/kg twice daily (1.5 mg/kg to 6 mg/kg per day) |
 
-BRIVIACT Injection Dosage in Adult Patients (16 years and older)
+BRIVIACT Injection Dosage
 
-BRIVIACT injection may be used for adult patients when oral administration is temporarily not feasible [see Dosage and Administration (2.3)].
-BRIVIACT injection should be administered intravenously to adult patients at the same dosage and same frequency as BRIVIACT tablets and oral solution.
-The use of BRIVIACT injection in pediatric patients has not been studied.
+BRIVIACT injection may be used when oral administration is temporarily not feasible [see Dosage and Administration (2.3)].
+BRIVIACT injection should be administered intravenously at the same dosage and same frequency as BRIVIACT tablets and oral solution.
 
-The clinical study experience with BRIVIACT injection is limited to 4 consecutive days of treatment.
+The clinical study experience with BRIVIACT injection is up to 4 consecutive days of treatment.
 
 ## 2.2 Administration Instructions for BRIVIACT Tablets and BRIVIACT Oral Solution
 
@@ -47,7 +47,7 @@ BRIVIACT oral solution may also be administered using a nasogastric tube or gast
 
 Discard any unused BRIVIACT oral solution remaining after 5 months of first opening the bottle.
 
-## 2.3 Preparation and Administration Instructions for BRIVIACT Injection for Adult Patients
+## 2.3 Preparation and Administration Instructions for BRIVIACT Injection
 
 BRIVIACT injection is for intravenous use only.
 
@@ -79,10 +79,17 @@ Avoid abrupt withdrawal from BRIVIACT in order to minimize the risk of increased
 
 ## 2.5 Patients with Hepatic Impairment
 
-For all stages of hepatic impairment, the recommended starting dosage for adults and pediatric patients weighing 50 kg or more is 25 mg twice daily (50 mg per day), and the recommended maximum dosage is 75 mg twice daily (150 mg per day).
-The recommended starting dosage for pediatric patients with hepatic impairment weighing 11 kg to less than 50 kg is 0.5 mg/kg twice daily (1 mg/kg per day).
-The maximum dosage for pediatric patients with hepatic impairment weighing 20 kg to less than 50 kg is 1.5 mg/kg twice daily (3 mg/kg per day).
-The maximum dosage for pediatric patients with hepatic impairment weighing 11 kg to less than 20 kg is 2 mg/kg twice daily (4 mg/kg per day) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+The recommended dosage for patients with hepatic impairment is included in Table 2 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+Table 2: Recommended Dosage for Patients with Hepatic Impairment
+
+| Age and Body Weight | Initial Dosage | Maximum Maintenance Dosage |
+| --- | --- | --- |
+| Adults (16 years and older) | 25 mg twice daily (50 mg per day) | 75 mg twice daily (150 mg per day) |
+| Pediatric patients weighing 50 kg or more |  |  |
+| Pediatric patients weighing 20 kg to less than 50 kg | 0.5 mg/kg twice daily (1 mg/kg per day) | 1.5 mg/kg twice daily (3 mg/kg per day) |
+| Pediatric patients weighing 11 kg to less than 20 kg | 0.5 mg/kg twice daily (1 mg/kg per day) | 2 mg/kg twice daily (4 mg/kg per day) |
+| Pediatric patients weighing less than 11 kg | 0.75 mg/kg twice daily (1.5 mg/kg per day) | 2.25 mg/kg twice daily (4.5 mg/kg per day) |
 
 ## 2.6 Co-administration with Rifampin
 

@@ -48,12 +48,10 @@ Following a single oral (5 mg/kg) dose of 14C-brivaracetam to lactating rats, ra
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BRIVIACT tablets and oral solution have been established in pediatric patients 4 years to less than 16 years of age.
-Use of BRIVIACT in these age groups is supported by evidence from adequate and well-controlled studies of BRIVIACT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 149 pediatric patients 4 years to less than 16 years of age [see Dosage and Administration (2.1), Warnings and Precautions (5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+Safety and effectiveness of BRIVIACT have been established in pediatric patients 1 month to less than 16 years of age.
+Use of BRIVIACT in these age groups is supported by evidence from adequate and well-controlled studies of BRIVIACT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in pediatric patients 2 months to less than 16 years of age [see Dosage and Administration (2.1), Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
-Safety of BRIVIACT injection in pediatric patients has not been established.
-
-Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
 
 Juvenile Animal Toxicity Data
 
