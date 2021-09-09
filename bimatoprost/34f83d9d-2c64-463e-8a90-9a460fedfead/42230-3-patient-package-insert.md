@@ -112,9 +112,7 @@ Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodi
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-Distributed by
-
-Allergan USA, Inc. Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 © 2020 Allergan.
 All rights reserved.
