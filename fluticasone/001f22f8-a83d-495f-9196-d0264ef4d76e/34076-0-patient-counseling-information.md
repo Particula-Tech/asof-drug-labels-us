@@ -46,7 +46,7 @@ Advise patients that long-term use of ICS may increase the risk of some eye prob
 
 Use Daily for Best Effect
 
-Patients should use Flovent DISKUS at regular intervals as directed.
+Patients should use FLOVENT DISKUS at regular intervals as directed.
 Individual patients will experience a variable time to onset and degree of symptom relief and the full benefit may not be achieved until treatment has been administered for 1 to 2 weeks or longer.
 Patients should not increase the prescribed dosage but should contact their physicians if symptoms do not improve or if the condition worsens.
 Instruct patients not to stop use of FLOVENT DISKUS abruptly.

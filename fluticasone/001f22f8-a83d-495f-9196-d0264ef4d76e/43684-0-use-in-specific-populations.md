@@ -85,7 +85,7 @@ The clinical relevance of these growth data is not certain.
 
 ## 8.5 Geriatric Use
 
-Safety data have been collected on 280 subjects (FLOVENT DISKUS n = 83, FLOVENT Rotadisk n = 197) aged 65 years and older and 33 subjects (FLOVENT DISKUS n = 14, FLOVENT ROTADISK n = 19) aged 75 years and older who have been treated with fluticasone propionate inhalation powder in U.S. and non-U.S. clinical trials.
+Safety data have been collected on 280 subjects (FLOVENT DISKUS n = 83, FLOVENT ROTADISK n = 197) aged 65 years and older and 33 subjects (FLOVENT DISKUS n = 14, FLOVENT ROTADISK n = 19) aged 75 years and older who have been treated with fluticasone propionate inhalation powder in U.S. and non-U.S. clinical trials.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment

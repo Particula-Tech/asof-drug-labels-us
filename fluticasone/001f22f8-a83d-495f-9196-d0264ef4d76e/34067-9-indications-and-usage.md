@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Flovent DISKUS is indicated for the maintenance treatment of asthma as prophylactic therapy in patients aged 4 years and older.
+FLOVENT DISKUS is indicated for the maintenance treatment of asthma as prophylactic therapy in patients aged 4 years and older.
 
 Important Limitation of Use
 
