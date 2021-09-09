@@ -133,9 +133,9 @@ The clinical significance of the observed serum creatinine elevations is unknown
 
 Other Adverse Reactions
 
-Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 3.
+Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 4.
 
-Table 3: Common Adverse Reactionsreported in ≥2% of patients treated with either dose of XELJANZ and ≥1% greater than that reported for placebo. in Clinical Trials of XELJANZ for the Treatment of Rheumatoid Arthritis With or Without Concomitant DMARDs (0–3 Months)
+Table 4: Common Adverse Reactionsreported in ≥2% of patients treated with either dose of XELJANZ and ≥1% greater than that reported for placebo. in Clinical Trials of XELJANZ for the Treatment of Rheumatoid Arthritis With or Without Concomitant DMARDs (0–3 Months)
 
 | N = 1336 (%) | N = 1349 (%) | N = 809 (%) |  |
 | --- | --- | --- | --- |
@@ -209,9 +209,9 @@ Common adverse reactions reported in ≥2% of patients treated with XELJANZ 10 m
 
 Maintenance Trial (Study UC-III)
 
-Common adverse reactions reported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported in patients receiving placebo are shown in Table 4.
+Common adverse reactions reported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported in patients receiving placebo are shown in Table 5.
 
-Table 4: Common Adverse Reactionsreported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported for placebo. in -UC Patients during the Maintenance Trial (Study UC-III)
+Table 5: Common Adverse Reactionsreported in ≥4% of patients treated with either dose of XELJANZ and ≥1% greater than reported for placebo. in -UC Patients during the Maintenance Trial (Study UC-III)
 
 | N = 198 (%) | N = 196 (%) | N = 198 (%) |  |
 | --- | --- | --- | --- |
@@ -232,6 +232,13 @@ In the long-term extension study, malignancies (including solid cancers, lymphom
 Four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one fatality in a patient with advanced cancer [see Warnings and Precautions (5.4)].
 
 Dose-dependent adverse reactions seen in patients treated with XELJANZ 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC [see Warnings and Precautions (5.1, 5.3)].
+
+Polyarticular Course Juvenile Idiopathic Arthritis
+
+XELJANZ/XELJANZ Oral Solution 5 mg twice daily or weight-based equivalent twice daily was studied in 225 patients from 2 years to 17 years of age in Study pcJIA-I [see Clinical Studies (14.4)] and one open-label extension study.
+The total patient exposure (defined as patients who received at least one dose of XELJANZ/XELJANZ Oral Solution) was 351 patient-years.
+
+In general, the types of adverse drug reactions in patients with pcJIA were consistent with those seen in adult RA patients [see Adverse Reactions (6.1)].
 
 ## 6.2 Postmarketing Experience
 

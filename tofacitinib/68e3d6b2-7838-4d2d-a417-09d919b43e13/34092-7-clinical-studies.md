@@ -54,13 +54,13 @@ The primary endpoints were mean change from baseline in van der Heijde-modified 
 
 Clinical Response
 
-The percentages of XELJANZ-treated patients achieving ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 8.
+The percentages of XELJANZ-treated patients achieving ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 9.
 Similar results were observed with Studies RA-II and III.
 In trials RA-I through V, patients treated with 5 mg twice daily XELJANZ had higher ACR20, ACR50, and ACR70 response rates versus placebo, with or without background DMARD treatment, at Month 3 and Month 6.
 Higher ACR20 response rates were observed within 2 weeks compared to placebo.
 In the 12-month trials, ACR response rates in XELJANZ-treated patients were consistent at 6 and 12 months.
 
-Table 8: Proportion of Patients with an ACR Response
+Table 9: Proportion of Patients with an ACR Response
 
 |  | 122 | 243 | 160 | 321 | 132 | 133 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -78,9 +78,9 @@ Table 8: Proportion of Patients with an ACR Response
 | Month 3 | 6% | 15% | 3% | 11% | 2% | 14% |
 | Month 6 | NA | 22% | 1% | 14% | NA | 16% |
 
-In Study RA-IV, a greater proportion of patients treated with XELJANZ 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 9).
+In Study RA-IV, a greater proportion of patients treated with XELJANZ 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 10).
 
-Table 9: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints
+Table 10: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints
 
 |  | 160 | 321 |
 | --- | --- | --- |
@@ -92,10 +92,10 @@ Table 9: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of R
 | Of responders, proportion with 2 active joints (n) | 0 | 32% (6) |
 | Of responders, proportion with 3 or more active joints (n) | 50% (1) | 21% (4) |
 
-The results of the components of the ACR response criteria for Study RA-IV are shown in Table 10.
+The results of the components of the ACR response criteria for Study RA-IV are shown in Table 11.
 Similar results were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
 
-Table 10: Components of ACR Response at Month 3
+Table 11: Components of ACR Response at Month 3
 
 | Component (mean) Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 |
 | --- | --- | --- | --- | --- |
@@ -121,17 +121,17 @@ Two studies were conducted to evaluate the effect of XELJANZ on structural joint
 In Study RA-IV and Study RA-VI, progression of structural joint damage was assessed radiographically and expressed as change from baseline in mTSS and its components, the erosion score and joint space narrowing score, at Months 6 and 12.
 The proportion of patients with no radiographic progression (mTSS change less than or equal to 0) was also assessed.
 
-In Study RA-IV, XELJANZ 5 mg twice daily reduced the mean progression of structural damage (not statistically significant) as shown in Table 10.
+In Study RA-IV, XELJANZ 5 mg twice daily reduced the mean progression of structural damage (not statistically significant) as shown in Table 12.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
 
 In the placebo plus MTX group, 74% of patients experienced no radiographic progression at Month 6 compared to 84% of patients treated with XELJANZ plus MTX 5 mg twice daily.
 
-In Study RA-VI, XELJANZ monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 10.
+In Study RA-VI, XELJANZ monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 12.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
 
 In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% of patients treated with XELJANZ 5 mg twice daily.
 
-Table 11: Radiographic Changes at Months 6 and 12
+Table 12: Radiographic Changes at Months 6 and 12
 
 |  | Study IV |  |  |
 | --- | --- | --- | --- |
@@ -182,9 +182,9 @@ At the Month 3 visit, placebo patients were advanced in a blinded fashion to a p
 
 Clinical Response
 
-At Month 3, patients treated with XELJANZ 5 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for XELJANZ 5 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 12 and 13).
+At Month 3, patients treated with XELJANZ 5 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for XELJANZ 5 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 13 and 14).
 
-Table 12: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
+Table 13: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
 [Nonbiologic DMARD Inadequate Responders (TNF Blocker-Naïve)]
 
 |  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
@@ -197,7 +197,7 @@ Table 12: Proportion of Patients with an ACR Response in Study PsA-ISubjects rec
 | ACR70 | 5% | 17% | 12.1 (3.9, 20.2) |
 | Subjects with missing data were treated as non-responders. |  |  |  |
 
-Table 13: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
+Table 14: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
 (TNF Blocker Inadequate Responders)
 
 |  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
@@ -210,9 +210,9 @@ Table 13: Proportion of Patients with an ACR Response in Study PsA-IISubjects re
 | ACR70 | 10% | 17% | 6.9 (-1.3, 15.1) |
 | Subjects with missing data were treated as non-responders. |  |  |  |
 
-Improvements from baseline in the ACR response criteria components for both studies are shown in Table 14.
+Improvements from baseline in the ACR response criteria components for both studies are shown in Table 15.
 
-Table 14: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
+Table 15: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
 
 | N at Baseline | 105 | 107 | 131 | 131 |
 | --- | --- | --- | --- | --- |
@@ -255,9 +255,9 @@ In patients with active psoriatic arthritis evidence of benefit in enthesitis an
 Physical Function
 
 Improvement in physical functioning was measured by the HAQ-DI.
-Patients receiving XELJANZ 5 mg twice daily demonstrated significantly greater improvement (p ≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 15).
+Patients receiving XELJANZ 5 mg twice daily demonstrated significantly greater improvement (p ≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 16).
 
-Table 15: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
+Table 16: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
 
 | NN is the total number of subjects in the statistical analysis. | 104 | 107 | 131 | 129 |
 | --- | --- | --- | --- | --- |
@@ -302,9 +302,9 @@ The baseline clinical characteristics were generally similar between the XELJANZ
 
 The primary endpoint of Study UC-I and Study UC-II was the proportion of patients in remission at Week 8, and the key secondary endpoint was the proportion of patients with improvement of endoscopic appearance of the mucosa at Week 8.
 
-The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 16.
+The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 17.
 
-Table 16: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
+Table 17: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
 
 | Study UC-I |  |  |  |
 | --- | --- | --- | --- |
@@ -371,9 +371,9 @@ At baseline of Study UC-III:
 The primary endpoint was the proportion of patients in remission at Week 52.
 There were 2 key secondary endpoints: the proportion of patients with improvement of endoscopic appearance at Week 52, and the proportion of patients with sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baseline of Study UC-III.
 
-The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 17.
+The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 18.
 
-Table 17: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
+Table 18: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
 
 | Endpoint | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- |
@@ -423,3 +423,31 @@ Of the 905 patients who were assigned to XELJANZ 10 mg twice daily in the 8-week
 Of these 322 patients, 291 continued to receive XELJANZ 10 mg twice daily (unblinded) and had available data after an additional 8 weeks in Study UC-IV.
 After 8 additional weeks (a total of 16 weeks treatment), 148 patients achieved clinical response, and 25 patients achieved remission (based on central endoscopy read).
 Among those 143 patients who achieved clinical response by 16 weeks and had available data at Week 52, 66 patients achieved remission (based on local endoscopy read) after continued treatment with XELJANZ 10 mg twice daily for 52 weeks.
+
+## 14.4 Polyarticular Course Juvenile Idiopathic Arthritis
+
+The efficacy of XELJANZ/XELJANZ Oral Solution for pcJIA was assessed in Study pcJIA-I (NCT02592434), a 44-week, two-part study (consisting of an 18-week, open-label, run-in phase, followed by a 26-week double-blind, placebo-controlled, randomized withdrawal phase) in patients 2 years to 17 years of age with active RF negative polyarthritis, RF positive polyarthritis, extended oligoarthritis, and systemic JIA without systemic manifestations who had an inadequate response or intolerance to at least one DMARD which could have included MTX or biologic agents; the study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (JPsA) and enthesitis-related arthritis (ERA) who had an inadequate response to NSAIDs.
+
+Patients received XELJANZ/XELJANZ Oral Solution (dosed at 5 mg twice daily or body weight-based equivalent twice daily) for 18 weeks (run-in phase) followed by randomization to either XELJANZ/XELJANZ Oral Solution (dosed at 5 mg twice daily or body weight-based equivalent twice daily) or placebo for 26 weeks (double-blind phase).
+Only patients who achieved at least a JIA ACR30 response at the end of the run-in phase were randomized (1:1) to the double-blind phase.
+Treatment with a stable dose of MTX was permitted but was not required during the study.
+Concurrent use of biologics or DMARDs other than MTX was not permitted in the study.
+
+A total of 225 JIA patients (56 male and 169 female) with active polyarthritis were enrolled in the run-in phase including RF negative (104), RF positive (39), extended oligoarthritis (28), systemic JIA without systemic manifestations (13), JPsA (20), and ERA (21).
+Patients had a mean (SD) disease duration of 3.8 ± 3.5 years, and a mean (SD) number of active joints of 12.2 ± 8.1.
+
+Of the 225 patients, 173 (76.9%) patients achieved JIA ACR30 response at Week 18 and were randomized into the double-blind phase to either active XELJANZ/XELJANZ Oral Solution (n=88) or placebo (n=85).
+At the conclusion of the 18-week, open-label, run-in phase, pediatric ACR 30/50/70 responses were 77%, 70%, and 49%, respectively.
+
+In both the run-in and double-blind phases, approximately one-third of the patients were taking concomitant oral corticosteroids, and approximately two-thirds were taking concomitant MTX.
+
+The primary endpoint was the occurrence of disease flare at Week 44 relative to the double-blind phase baseline at Week 18.
+Disease flare was defined (according to Pediatric Rheumatology Collaborative Study Group (PRCSG)/Pediatric Rheumatology International Trials Organization (PRINTO) Disease Flare criteria) as worsening of ≥30% in 3 or more of the 6 JIA core response variables with no more than 1 of the remaining JIA core response variables improving by ≥30%.
+
+XELJANZ/XELJANZ Oral Solution treated patients experienced significantly fewer disease flares at Week 44 compared to placebo-treated patients (31% [27/88] vs. 55% [47/85]; difference in proportions -25% [95% CI: -39%, -10%]; p=0.0007).
+The occurrence of disease flare by visit in Study pcJIA-I is shown in Figure 7.
+
+Figure 7: Occurrence of Disease Flare by Visit in the Double-Blind Phase in Study pcJIA-I
+
+BID = twice daily; SE = standard error; N = total number of subjects.
+The 26-week double-blind phase is from Week 18 through Week 44 on and after randomization day.

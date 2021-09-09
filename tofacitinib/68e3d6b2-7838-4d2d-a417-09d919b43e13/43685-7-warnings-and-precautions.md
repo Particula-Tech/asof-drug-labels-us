@@ -12,8 +12,8 @@ Additionally, opportunistic herpes zoster infections (including meningoencephali
 
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
-Avoid use of XELJANZ/XELJANZ XR in patients with an active, serious infection, including localized infections.
-The risks and benefits of treatment should be considered prior to initiating XELJANZ/XELJANZ XR in patients:
+Avoid use of XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with an active, serious infection, including localized infections.
+The risks and benefits of treatment should be considered prior to initiating XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients:
 
 - with chronic or recurrent infection
 - who have been exposed to tuberculosis
@@ -21,46 +21,46 @@ The risks and benefits of treatment should be considered prior to initiating XEL
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with XELJANZ/XELJANZ XR.
-XELJANZ/XELJANZ XR should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
-A patient who develops a new infection during treatment with XELJANZ/XELJANZ XR should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient; appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
+XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
+A patient who develops a new infection during treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient; appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
 
 Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.
 
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
-Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.2, 2.3)].
+Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Tuberculosis
 
-Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of XELJANZ/XELJANZ XR.
+Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 
-Anti-tuberculosis therapy should also be considered prior to administration of XELJANZ/XELJANZ XR in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but who have risk factors for tuberculosis infection.
+Anti-tuberculosis therapy should also be considered prior to administration of XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but who have risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision about whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
 Patients should be closely monitored for the development of signs and symptoms of tuberculosis, including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
 
-Patients with latent tuberculosis should be treated with standard antimycobacterial therapy before administering XELJANZ/XELJANZ XR.
+Patients with latent tuberculosis should be treated with standard antimycobacterial therapy before administering XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 
 Viral Reactivation
 
-Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with XELJANZ.
+Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with XELJANZ/XELJANZ Oral Solution.
 Postmarketing cases of hepatitis B reactivation have been reported in patients treated with XELJANZ.
-The impact of XELJANZ/XELJANZ XR on chronic viral hepatitis reactivation is unknown.
+The impact of XELJANZ/XELJANZ XR/XELJANZ Oral Solution on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
-Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with XELJANZ/XELJANZ XR.
-The risk of herpes zoster is increased in patients treated with XELJANZ/XELJANZ XR and appears to be higher in patients treated with XELJANZ in Japan and Korea.
+Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
+The risk of herpes zoster is increased in patients treated with XELJANZ/XELJANZ XR/XELJANZ Oral Solution and appears to be higher in patients treated with XELJANZ in Japan and Korea.
 
 ## 5.2 Mortality
 
 Rheumatoid arthritis patients 50 years of age and older with at least one cardiovascular (CV) risk factor treated with XELJANZ 10 mg twice a day had a higher rate of all-cause mortality, including sudden CV death, compared to those treated with XELJANZ 5 mg given twice daily or TNF blockers in a large, ongoing, postmarketing safety study.
 
-A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+A dosage of XELJANZ/XELJANZ Oral Solution 10 mg twice daily or weight-based equivalent twice daily, or XELJANZ XR 22 mg once daily, is not recommended for the treatment of RA, PsA, or pcJIA [see Dosage and Administration (2.2)].
 
 For the treatment of UC, use XELJANZ at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
 
 ## 5.3 Malignancy and Lymphoproliferative Disorders
 
-Consider the risks and benefits of XELJANZ/XELJANZ XR treatment prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing XELJANZ/XELJANZ XR in patients who develop a malignancy.
+Consider the risks and benefits of XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients who develop a malignancy.
 Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions (6.1)].
 
 In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.
@@ -89,13 +89,13 @@ Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial t
 Patients with rheumatoid arthritis 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing study had an observed increase in incidence of these events.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
 
-A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+A dosage of XELJANZ/XELJANZ Oral Solution 10 mg twice daily or weight-based equivalent twice daily, or XELJANZ XR 22 mg once daily is not recommended for the treatment of RA, PsA, or pcJIA [see Dosage and Administration (2.2)].
 
 In a long-term extension study in patients with UC, four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.
 
-Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR in patients with symptoms of thrombosis.
+Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with symptoms of thrombosis.
 
-Avoid XELJANZ/XELJANZ XR in patients that may be at increased risk of thrombosis.
+Avoid XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that may be at increased risk of thrombosis.
 For the treatment of UC, use XELJANZ at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
 
 ## 5.5 Gastrointestinal Perforations
@@ -105,7 +105,7 @@ In these studies, many patients with rheumatoid arthritis were receiving backgro
 
 There was no discernable difference in frequency of gastrointestinal perforation between the placebo and the XELJANZ arms in clinical trials of patients with UC, and many of them were receiving background corticosteroids.
 
-XELJANZ/XELJANZ XR should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs).
+XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.6 Hypersensitivity
@@ -121,27 +121,27 @@ Lymphocyte Abnormalities
 Treatment with XELJANZ was associated with initial lymphocytosis at one month of exposure followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
 Lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections.
 
-Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low lymphocyte count (i.e., less than 500 cells/mm3).
-In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
+Avoid initiation of XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment in patients with a low lymphocyte count (i.e., less than 500 cells/mm3).
+In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution is not recommended.
 
 Monitor lymphocyte counts at baseline and every 3 months thereafter.
-For recommended modifications based on lymphocyte counts [see Dosage and Administration (2.2, 2.3)].
+For recommended modifications based on lymphocyte counts [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Neutropenia
 
 Treatment with XELJANZ was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to placebo.
 
-Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
-For patients who develop a persistent ANC of 500 to 1000 cells/mm3, interrupt XELJANZ/XELJANZ XR dosing until ANC is greater than or equal to 1000 cells/mm3.
-In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
+Avoid initiation of XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
+For patients who develop a persistent ANC of 500 to 1000 cells/mm3, interrupt XELJANZ/XELJANZ XR/XELJANZ Oral Solution dosing until ANC is greater than or equal to 1000 cells/mm3.
+In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution is not recommended.
 
 Monitor neutrophil counts at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on ANC results [see Dosage and Administration (2.2, 2.3)].
 
 Anemia
 
-Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low hemoglobin level (i.e., less than 9 g/dL).
-Treatment with XELJANZ/XELJANZ XR should be interrupted in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment.
+Avoid initiation of XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment in patients with a low hemoglobin level (i.e., less than 9 g/dL).
+Treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be interrupted in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment.
 
 Monitor hemoglobin at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on hemoglobin results [see Dosage and Administration (2)].
@@ -152,7 +152,7 @@ Treatment with XELJANZ was associated with an increased incidence of liver enzym
 Most of these abnormalities occurred in studies with background DMARD (primarily methotrexate) therapy.
 
 Routine monitoring of liver tests and prompt investigation of the causes of liver enzyme elevations is recommended to identify potential cases of drug-induced liver injury.
-If drug-induced liver injury is suspected, the administration of XELJANZ/XELJANZ XR should be interrupted until this diagnosis has been excluded.
+If drug-induced liver injury is suspected, the administration of XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be interrupted until this diagnosis has been excluded.
 
 Lipid Elevations
 
@@ -161,20 +161,20 @@ Maximum effects were generally observed within 6 weeks.
 There were no clinically relevant changes in LDL/HDL cholesterol ratios.
 The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
 
-Assessment of lipid parameters should be performed approximately 4–8 weeks following initiation of XELJANZ/XELJANZ XR therapy.
+Assessment of lipid parameters should be performed approximately 4–8 weeks following initiation of XELJANZ/XELJANZ XR/XELJANZ Oral Solution therapy.
 
 Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 ## 5.8 Vaccinations
 
-Avoid use of live vaccines concurrently with XELJANZ/XELJANZ XR.
+Avoid use of live vaccines concurrently with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 The interval between live vaccinations and initiation of tofacitinib therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
 A patient experienced dissemination of the vaccine strain of varicella zoster virus, 16 days after vaccination with live attenuated (Zostavax) virus vaccine and 2 days after treatment start with tofacitinib 5 mg twice daily.
 The patient was varicella virus naïve, as evidenced by no previous history of varicella infection and no anti-varicella antibodies at baseline.
 Tofacitinib was discontinued and the patient recovered after treatment with standard doses of antiviral medication.
 
-Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ/XELJANZ XR therapy.
+Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ/XELJANZ XR/XELJANZ Oral Solution therapy.
 
 ## 5.9 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
 
