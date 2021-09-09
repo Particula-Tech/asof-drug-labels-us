@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Each mL of Oxytocin Injection, USP (synthetic), intended for intravenous infusion or intramuscular injection, possesses an oxytocic activity equivalent to 10 USP Oxytocin Units and contains chlorobutanol anhydrous (chloral derivative) 0.5%.
 This product may contain up to 12.5% decomposition products/impurities.

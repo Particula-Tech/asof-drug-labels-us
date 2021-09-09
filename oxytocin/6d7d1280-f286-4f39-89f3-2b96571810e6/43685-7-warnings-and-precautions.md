@@ -1,8 +1,8 @@
-# WARNINGS:
+# WARNINGS
 
 Oxytocin injection (synthetic) when given for induction or stimulation of labor, must be administered only by the intravenous route and with adequate medical supervision in a hospital.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General
 
