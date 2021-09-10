@@ -1,12 +1,7 @@
-(1 gram)
-
-Rx only
-
-Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-476-05
-
 Rev.
-11-2018-00
+01-2021-00

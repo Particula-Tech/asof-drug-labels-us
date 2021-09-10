@@ -36,10 +36,10 @@ Although the significance of this finding has not been established in clinical s
 
 In patients with heterozygous familial hypercholesterolemia who have not obtained an optimal response to colestipol hydrochloride alone in maximal doses, the combination of colestipol hydrochloride and nicotinic acid has been shown to further lower serum cholesterol, triglyceride, and LDL-cholesterol (LDL-C) values.
 Simultaneously, HDL-C values increased significantly.
-In many such patients it is possible to normalize serum lipid values5-7.
+In many such patients it is possible to normalize serum lipid values5 to 7.
 
 Preliminary evidence suggests that the cholesterol-lowering effects of lovastatin and the bile acid sequestrant, colestipol hydrochloride, are additive.
 
 The effect of intensive lipid-lowering therapy on coronary atherosclerosis has been assessed by arteriography in hyperlipidemic patients.
 In these randomized, controlled clinical trials, patients were treated for two to four years by either conventional measures (diet, placebo, or in some cases low-dose resin), or with intensive combination therapy using diet and colestipol hydrochloride granules plus either nicotinic acid or lovastatin.
-When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease8-11.
+When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease8 to 11.
