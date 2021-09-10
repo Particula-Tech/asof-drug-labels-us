@@ -4,14 +4,14 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone hydrochloride capsules, during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone capsules, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-Neonates exposed to antipsychotic drugs, including ziprasidone hydrochloride capsules, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Neonates exposed to antipsychotic drugs, including ziprasidone capsules, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone hydrochloride capsules, during pregnancy (see Clinical Considerations).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone capsules, during pregnancy (see Clinical Considerations).
 
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
 Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses (see Data).
@@ -30,7 +30,7 @@ It is not known if this is a direct result of the illness or other comorbid fact
 
 Fetal/neonatal adverse reactions
 
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone hydrochloride capsules, during the third trimester of pregnancy.
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone capsules, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
@@ -62,11 +62,11 @@ Risk Summary
 Limited data from a published case report indicate the presence of ziprasidone in human milk.
 Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
 There is no information on the effects of ziprasidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone hydrochloride and any potential adverse effects on the breastfed child from ziprasidone hydrochloride capsules or from the mother’s underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone hydrochloride and any potential adverse effects on the breastfed child from ziprasidone capsules or from the mother’s underlying condition.
 
 Clinical Considerations
 
-Infants exposed to ziprasidone hydrochloride capsules should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+Infants exposed to ziprasidone capsules should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -74,7 +74,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone hydrochloride capsules may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
+Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone capsules may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

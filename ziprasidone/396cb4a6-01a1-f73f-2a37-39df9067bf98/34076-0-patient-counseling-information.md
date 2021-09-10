@@ -4,12 +4,12 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Administration Information for Capsules
 
-Advise patients to take ziprasidone hydrochloride capsules whole.
+Advise patients to take ziprasidone capsules whole.
 Do not open, crush, or chew the capsules.
-Instruct patients to take ziprasidone hydrochloride capsules with food for optimal absorption.
+Instruct patients to take ziprasidone capsules with food for optimal absorption.
 The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10), and Clinical Pharmacology (12.3)].
 
-Instruct patients to take ziprasidone hydrochloride capsules with food for optimal absorption.
+Instruct patients to take ziprasidone capsules with food for optimal absorption.
 The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
@@ -25,15 +25,15 @@ Instruct patients to report to their health care provider at the earliest onset 
 
 Pregnancy
 
-Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ziprasidone hydrochloride capsules.
-Advise patients that ziprasidone hydrochloride capsules may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ziprasidone hydrochloride capsules during pregnancy [see Use in Specific Populations (8.1)].
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ziprasidone capsules.
+Advise patients that ziprasidone capsules may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ziprasidone capsules during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise breastfeeding women using ziprasidone hydrochloride capsules to monitor infants for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors, and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using ziprasidone capsules to monitor infants for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors, and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females of reproductive potential that ziprasidone hydrochloride capsules may impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that ziprasidone capsules may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Warnings and Precautions (5.15) and Use in Specific Populations (8.3)].
