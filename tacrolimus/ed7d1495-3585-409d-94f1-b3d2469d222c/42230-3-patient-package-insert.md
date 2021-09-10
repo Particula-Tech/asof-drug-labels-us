@@ -5,7 +5,6 @@ Tacrolimus (ta kroe′ li mus) Capsules, USP, for oral use
 Read this Patient Information before you start taking tacrolimus and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-If you have any questions about tacrolimus, ask your healthcare provider or pharmacist.
 
 What is the most important information I should know about tacrolimus?
 
@@ -26,7 +25,7 @@ Tacrolimus can cause serious side effects, including:
 
 What is tacrolimus?
 
-• Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+• Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, heart, or lung transplant.
 
 • Tacrolimus capsules is a type of tacrolimus immediate-release drug and it is not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
 Your healthcare provider should decide what medicine is right for you.
@@ -38,9 +37,9 @@ See the end of this leaflet for a complete list of ingredients in tacrolimus cap
 
 What should I tell my healthcare provider before taking tacrolimus?
 
-Before you take tacrolimus, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking tacrolimus, tell your healthcare provider about all of your medical conditions, including if you:
 
-- plan to receive any live vaccines.
+- plan to receive any vaccines.
   People taking tacrolimus should not receive live vaccines.
 - have or have had liver, kidney, or heart problems.
 - are pregnant or plan to become pregnant.
@@ -55,12 +54,14 @@ Before you take tacrolimus, tell your healthcare provider about all of your medi
 - are breastfeeding or plan to breastfeed.
   Tacrolimus passes into your breast milk.
   You and your healthcare provider should decide if you will breastfeed while taking tacrolimus capsules.
+- plan to have children.
+  Tacrolimus may affect the ability to have children in females and males (fertility problems).
 
 Tell your healthcare provider about all the medicines you take, and when you start a new medicine or stop taking a medicine, including prescription and over-the-counter medicines, vitamins, natural, herbal or nutritional supplements.
 
 Especially tell your healthcare provider if you take:
 
-- sirolimus (RAPAMUNE)
+- sirolimus (RAPAMUNE): You should not take tacrolimus if you take sirolimus.
 - cyclosporine (GENGRAF, NEORAL, and SANDIMMUNE)
 - medicines called aminoglycosides that are used to treat bacterial infections
 - ganciclovir (CYTOVENE IV, VALCYTE)
@@ -102,7 +103,6 @@ How should I take tacrolimus capsules?
 - Take tacrolimus capsules at the same time each day, 12 hours apart.
   For example, if you take your first dose at 7:00 a.m. you should take your second dose at 7:00 p.m.
 - Taking tacrolimus capsules at the same time each day helps to keep the amount of medicine in your body at a steady level.
-- Do not eat grapefruit or drink grapefruit juice while taking tacrolimus capsules.
 - If you take too much tacrolimus capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 Tacrolimus capsules:
@@ -114,6 +114,7 @@ What should I avoid while taking tacrolimus capsules?
 - While you take tacrolimus capsules you should not receive any live vaccines.
 - Limit the amount of time you spend in sunlight and avoid exposure to ultraviolet (UV) light, such as tanning machines.
   Wear protective clothing and use a sunscreen with a high sun protection factor (SPF).
+- Do not eat grapefruit or drink grapefruit juice during treatment with Tacrolimus.
 
 What are the possible side effects of tacrolimus capsules?
 
@@ -121,7 +122,8 @@ Tacrolimus capsules may cause serious side effects, including:
 
 - See"What is the most important information I should know about tacrolimus capsules"?
 - problems from medicine errors.
-  People who take tacrolimus have sometimes been given the wrong type of tacrolimus product.Tacrolimus extended-release medicines are not the same as tacrolimus capsules and cannot be substituted for each other, unless specifically prescribed by your healthcare provider, who will send you to get blood tacrolimus levels at a lab.Check your tacrolimus when you get a new prescription and before you take it to make sure you have received tacrolimus capsules.
+  People who take tacrolimus have sometimes been given the wrong type of tacrolimus product.Tacrolimus extended-release medicines are not the same as tacrolimus capsules and cannot be substituted for each other.
+  Check your tacrolimus when you get a new prescription and before you take it to make sure you have received tacrolimus capsules.
 - Check with the pharmacist and call your healthcare provider if you think you were given the wrong medicine.
 - high blood sugar (diabetes).
   Your healthcare provider may do blood tests to check for diabetes while you take tacrolimus capsules.
@@ -166,9 +168,9 @@ Tacrolimus capsules may cause serious side effects, including:
   - feel faint
 - severe low red blood cell count (anemia)
 
-The most common side effects of tacrolimus capsules in people who have received a kidney, liver or heart transplant are:
+The most common side effects of tacrolimus capsules in people who have received a kidney, liver, heart, or lung transplant are:
 
-- infections in general, including cytomegalovirus (CMV) infection
+- infections in general, including cytomegalovirus (cmv) infection
 - tremors (shaking of the body)
 - constipation
 - diarrhea
@@ -196,7 +198,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of tacrolimus capsules.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www.strides.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
 How should I store tacrolimus capsules?
@@ -235,7 +237,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 08/2020
+Revised: 09/2021
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -21,23 +21,23 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 | Population | N | Route (Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | Tmax (hr) | AUC (ng•hr/mL) | t1/2 (hr) | CL (L/hr/kg) | V (L/kg) |  |  |  |
-| Healthy Volunteers | 8 | IV (0.025 mg/kg/4 hr) | * | * | 652† ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
-| 16 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266† ± 95 | 32.3 ± 8.8 | ‡ | ‡ |  |
-| Kidney Transplant Patients | 26 | IV (0.02 mg/kg/12 hr) | * | * | 294† ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
-| PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3.0 | 203† ± 42 | ‡ | ‡ | ‡ |  |  |
-| PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 288† ± 93 | ‡ | ‡ | ‡ |  |  |
-| Liver Transplant Patients | 17 | IV (0.05 mg/kg/12 hr) | * | * | 3300† ± 2130 | 11.7 ± 3.9 | 0.053 ± 0.017 | 0.85 ±.30 |
-| PO (0.3 mg/kg/day) | 68.5 ± 30.0 | 2.3 ± 1.5 | 519† ± 179 | ‡ | ‡ | ‡ |  |  |
-| Heart Transplant Patients | 11 | IV (0.01 mg/kg/day as a continuous infusion) | * | * | 954§ ± 334 | 23.6 ± 9.22 | 0.051 ± 0.015 | ‡ |
-| 11 | PO (0.075 mg/kg/day)¶ | 14.7 + 7.79 | 2.1 [0.5-6.0]# | 82.7Þ ± 63.2 | * | ‡ | ‡ |  |
-| 14 | PO (0.15 mg/kg/day)¶ | 24.5 ± 13.7 | 1.5 [0.4-4.0]# | 142Þ ± 116 | * | ‡ | ‡ |  |
-| * not applicable |  |  |  |  |  |  |  |  |
-| † AUC0-inf |  |  |  |  |  |  |  |  |
-| ‡ not available |  |  |  |  |  |  |  |  |
-| § AUC0-t |  |  |  |  |  |  |  |  |
-| ¶ Determined after the first dose |  |  |  |  |  |  |  |  |
-| # Median [range] |  |  |  |  |  |  |  |  |
-| Þ AUC0-12 |  |  |  |  |  |  |  |  |
+| Healthy Volunteers | 8 | IV (0.025 mg/kg/4 hr) | 1 | 1 | 6522 ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
+| 16 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 2662 ± 95 | 32.3 ± 8.8 | 3 | 3 |  |
+| Kidney Transplant Patients | 26 | IV (0.02 mg/kg/12 hr) | 1 | 1 | 2942 ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
+| PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3.0 | 2032 ± 42 | 3 | 3 | 3 |  |  |
+| PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 2882 ± 93 | 3 | 3 | 3 |  |  |
+| Liver Transplant Patients | 17 | IV (0.05 mg/kg/12 hr) | 1 | 1 | 33002 ± 2130 | 11.7 ± 3.9 | 0.053 ± 0.017 | 0.85 ±.30 |
+| PO (0.3 mg/kg/day) | 68.5 ± 30.0 | 2.3 ± 1.5 | 5192 ± 179 | 3 | 3 | 3 |  |  |
+| Heart Transplant Patients | 11 | IV (0.01 mg/kg/day as a continuous infusion) | 1 | 1 | 9544 ± 334 | 23.6 ± 9.22 | 0.051 ± 0.015 | 3 |
+| 11 | PO (0.075 mg/kg/day)5 | 14.7 + 7.79 | 2.1 [0.5-6.0]6 | 82.77 ± 63.2 | 1 | 3 | 3 |  |
+| 14 | PO (0.15 mg/kg/day)5 | 24.5 ± 13.7 | 1.5 [0.4-4.0]6 | 1427 ± 116 | 1 | 3 | 3 |  |
+| 1 Not applicable |  |  |  |  |  |  |  |  |
+| 2AUC0-inf |  |  |  |  |  |  |  |  |
+| 3 Not available |  |  |  |  |  |  |  |  |
+| 4AUC0-t |  |  |  |  |  |  |  |  |
+| 5Determined after the first dose |  |  |  |  |  |  |  |  |
+| 6Median [range] |  |  |  |  |  |  |  |  |
+| 7AUC0-12 |  |  |  |  |  |  |  |  |
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of the dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
@@ -131,14 +131,14 @@ Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 | --- | --- | --- | --- | --- | --- |
 | Renal Impairment (n=12) | 0.02 mg/kg/4hr IV | 393 ± 123 (t=60 hr) | 26.3 ± 9.2 | 1.07 ± 0.20 | 0.038 ± 0.014 |
 | Mild Hepatic Impairment (n=6) | 0.02 mg/kg/4hr IV | 367 ± 107 (t=72 hr) | 60.6 ± 43.8 Range: 27.8 - 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
-|  | 7.7 mg PO | 488 ± 320 (t=72 hr) | 66.1 ± 44.8 Range: 29.5 - 138 | 3.7 ± 4.7 * | 0.034 ± 0.019 * |
+|  | 7.7 mg PO | 488 ± 320 (t=72 hr) | 66.1 ± 44.8 Range: 29.5 - 138 | 3.7 ± 4.71 | 0.034 ± 0.019 1 |
 | Severe Hepatic Impairment (n=6, IV) | 0.02 mg/kg/4hr IV (n=2) | 762 ± 204 (t=120 hr) | 198 ± 158 Range:81 - 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
 |  | 0.01 mg/kg/8hr IV (n=4) | 289 ± 117 (t=144 hr) |  |  |  |
-| (n=5, PO)† | 8 mg PO (n=1) | 658 (t=120 hr) | 119±35 Range: 85 - 178 | 3.1±3.4* | 0.016 ±0.011* |
+| (n=5, PO) 2 | 8 mg PO (n=1) | 658 (t=120 hr) | 119±35 Range: 85 - 178 | 3.1±3.41 | 0.016 ±0.0111 |
 |  | 5 mg PO (n=4) | 533±156 (t=144 hr) |  |  |  |
 |  | 4 mg PO (n=1) |  |  |  |  |
-| * corrected for bioavailability |  |  |  |  |  |
-| † 1 patient did not receive the PO dose |  |  |  |  |  |
+| 1Corrected for bioavailability |  |  |  |  |  |
+| 21 patient did not receive the PO dose |  |  |  |  |  |
 
 Patients with Renal Impairment:
 
@@ -153,12 +153,16 @@ The mean clearance of tacrolimus in patients with mild hepatic dysfunction was n
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: >10).
 The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
+Patients with Cystic Fibrosis
+
+Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2, 2.3)].
+
 Racial or Ethnic Groups
 
 The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
-However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
-Mean AUC0-inf tended to be lower in African-Americans (203±115 ng·hr/mL) than Caucasians (344±186 ng·hr/mL) and Latino- Americans (274±150 ng·hr/mL).
+However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and the Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
+Mean AUC0-inf tended to be lower in African-Americans (203±115 ng·hr/mL) than Caucasians (344±186 ng·hr/mL) and the Latino- Americans (274±150 ng·hr/mL).
 The mean (±SD) absolute oral bioavailability (F) in African-Americans (12±4.5%) and Latino-Americans (14±7.4%) was significantly lower than in Caucasians (19±5.8%, p=0.011).
 There was no significant difference in mean terminal T1/2 among the three ethnic groups (range from approximately 25 to 30 hours).
 A retrospective comparison of African-American and Caucasian kidney transplant patients indicated that African-American patients required higher tacrolimus doses to attain similar trough concentrations [see Dosage and Administration (2.2)].
