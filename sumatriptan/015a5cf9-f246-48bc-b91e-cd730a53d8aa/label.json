@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210884"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0245-0812-59",
+    "0245-0812-61",
+    "0245-0812-89"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "sumatriptan",
+      "name": "TOSYMRA"
+    }
+  ],
+  "setid": "015a5cf9-f246-48bc-b91e-cd730a53d8aa",
+  "source": "dailymed"
+}
