@@ -28,9 +28,9 @@ In vitro experiments showed that bromocriptine was 90%-96% bound to serum albumi
 
 Metabolism
 
-Bromocriptine undergoes extensive first-pass bio-transformation, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
+Bromocriptine undergoes extensive first-pass biotransformation, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
 
-In vitro studies using human liver microsomes showed that bromocriptine has a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constituted a main metabolic pathway.5 Inhibitors and/or potent substrates for CYP3A4 might therefore inhibit the clearance of bromocriptine and lead to increased levels (see PRECAUTIONS, Drug Interactions).
+In vitro studies using human liver microsomes showed that bromocriptine has a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constituted a main metabolic pathway.5 Inhibitors and/or potent substrates for CYP3A4 might therefore inhibit the clearance of bromocriptine and lead to increased levels (see PRECAUTIONS, Drug Interactions section).
 The participation of other major CYP enzymes such as 2D6, 2C8, and 2C19 on the metabolism of bromocriptine has not been evaluated.
 Bromocriptine is also an inhibitor of CYP3A4 with a calculated IC50 value of 1.69 μM.6 Given the low therapeutic concentrations of bromocriptine in patients (Cmax=0.82 nM), a significant alteration of the metabolism of a second drug whose clearance is mediated by CYP3A4 should not be expected.
 The potential effect of bromocriptine and its metabolites to act as inducers of CYP enzymes has not been reported.

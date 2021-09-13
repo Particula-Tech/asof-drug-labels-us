@@ -115,8 +115,13 @@ Whether the increased risk observed was due to Parkinson’s disease or other fa
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
-Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on l-dopa.
+Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
 A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine mesylate.
+These symptoms generally do not respond to levodopa.
+Prior to discontinuation of bromocriptine mesylate, patients should be informed about potential withdrawal symptoms, and closely monitored during and after discontinuation of bromocriptine mesylate.
+In case of severe withdrawal symptoms, re-administration of a dopamine agonist at the lowest effective dose may be considered.
 
 ## Information for Patients
 
@@ -126,13 +131,16 @@ Sudden onset of sleep during daily activities, in some cases without awareness o
 All patients receiving bromocriptine mesylate should be cautioned with regard to engaging in activities requiring rapid and precise responses, such as driving an automobile or operating machinery.
 Patients being treated with bromocriptine mesylate and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines).
 
-Patients receiving bromocriptine mesylate for hyperprolactinemic states associated with macro-adenoma or those who have had previous trans-sphenoidal surgery, should be told to report any persistent watery nasal discharge to their physician.
+Patients receiving bromocriptine mesylate for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery should be told to report any persistent watery nasal discharge to their physician.
 Patients receiving bromocriptine mesylate for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
 
 Patients and their caregivers should be alerted to the possibility that patients may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking bromocriptine mesylate.
 Advise patients and their caregivers to inform their healthcare provider if they develop new or increased uncontrolled spending, gambling urges, sexual urges, or other urges while being treated with bromocriptine mesylate (see PRECAUTIONS).
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+
+Advise patients to contact their healthcare provider if they wish to discontinue bromocriptine mesylate or decrease the dose of bromocriptine mesylate.
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as fever, muscular rigidity, altered consciousness, apathy, anxiety, depression, fatigue, insomnia, sweating, or pain (see PRECAUTIONS).
 
 ## Drug Interactions
 
@@ -187,6 +195,7 @@ No teratological or embryotoxic effects of bromocriptine were produced in any of
 Information concerning 1276 pregnancies in women taking bromocriptine mesylate has been collected.
 In the majority of cases, bromocriptine mesylate was discontinued within 8 weeks into pregnancy (mean 28.7 days), however, 8 patients received the drug continuously throughout pregnancy.
 The mean daily dose for all patients was 5.8 mg (range 1 to 40 mg).
+
 Of these 1276 pregnancies, there were 1088 full-term deliveries (4 stillborn), 145 spontaneous abortions (11.4%), and 28 induced abortions (2.2%).
 Moreover, 12 extrauterine gravidities and 3 hydatidiform moles (twice in the same patient) caused early termination of pregnancy.
 These data compare favorably with the abortion rate (11% to 25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
@@ -206,13 +215,13 @@ Bromocriptine mesylate should not be used during lactation in postpartum women.
 
 The safety and effectiveness of bromocriptine for the treatment of prolactin-secreting pituitary adenomas have been established in patients age 16 to adult.
 No data are available for bromocriptine use in pediatric patients under the age of 8 years.
-A single 8-year old patient treated with bromocriptine for a prolactin-secreting pituitary macroadenoma has been reported without therapeutic response.
+A single 8-year-old patient treated with bromocriptine for a prolactin-secreting pituitary macroadenoma has been reported without therapeutic response.
 
 The use of bromocriptine for the treatment of prolactin-secreting adenomas in pediatric patients in the age group 11 to under 16 years is supported by evidence from well-controlled trials in adults, with additional data in a limited number (n=14) of children and adolescents 11 to 15 years of age with prolactin-secreting pituitary macro- and microadenomas who have been treated with bromocriptine.
-
 Of the 14 reported patients, 9 had successful outcomes, 3 partial responses, and 2 failed to respond to bromocriptine treatment.
 Chronic hypopituitarism complicated macroadenoma treatment in 5 of the responders, both in patients receiving bromocriptine alone and in those who received bromocriptine in combination with surgical treatment and/or pituitary irradiation.
-Safety and effectiveness of bromocriptine in pediatric patients have not been established for any other indication listed in the INDICATIONS AND USAGE section.
+
+Safety and effectiveness of bromocriptine in pediatric patients have not been established for any other indication listed in the INDICATIONS AND USAGEsection.
 
 ## Geriatric Use
 

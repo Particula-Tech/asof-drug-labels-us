@@ -12,18 +12,3 @@ If satisfactory relief of hypotension cannot be achieved by using the above meas
 There have been isolated reports of children who accidentally ingested bromocriptine mesylate.
 Vomiting, somnolence and fever were reported as adverse events.
 Patients recovered either spontaneously within a few hours or after appropriate management.
-
-# STORAGE
-
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-Protect from moisture.
-Dispense in a tight, light-resistant container.
-
-Manufactured in Slovenia
-
-by Lek Pharmaceuticals d.d.
-
-for Sandoz Inc., Princeton, NJ 08540
-
-Rev.
-February 2020

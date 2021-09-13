@@ -11,6 +11,7 @@ In cases where adenectomy is elected, a course of bromocriptine mesylate tablets
 
 Bromocriptine mesylate tablets, USP are indicated in the treatment of acromegaly.
 Bromocriptine mesylate tablets, USP therapy, alone or as adjunctive therapy with pituitary irradiation or surgery, reduces serum growth hormone by 50% or more in approximately one-half of patients treated, although not usually to normal levels.
+
 Since the effects of external pituitary radiation may not become maximal for several years, adjunctive therapy with bromocriptine mesylate tablets, USP offers potential benefit before the effects of irradiation are manifested.
 
 ## Parkinson's Disease

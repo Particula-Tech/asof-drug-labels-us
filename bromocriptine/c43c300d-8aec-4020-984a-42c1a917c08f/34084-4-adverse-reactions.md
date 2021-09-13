@@ -54,7 +54,7 @@ Skin and Subcutaneous Tissue Disorders: Allergic skin reactions, hair loss.
 
 Musculoskeletal and Connective Tissue Disorders: Leg cramps.
 
-General Disorders and Administration Site Conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate (see PRECAUTIONS).
+General Disorders and Administration Site Conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate, withdrawal symptoms (including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain) with taper or after discontinuation (see PRECAUTIONS).
 
 ## Adverse Events Observed in Other Conditions
 

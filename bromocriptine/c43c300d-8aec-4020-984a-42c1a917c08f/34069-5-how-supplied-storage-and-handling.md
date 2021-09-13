@@ -7,3 +7,18 @@ Bromocriptine mesylate tablets, USP are available as follows:
 NDC 0781-5325-31 bottle of 30 tablets
 
 NDC 0781-5325-01 bottle of 100 tablets
+
+## Store and Dispense
+
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Protect from moisture.
+Dispense in a tight, light-resistant container.
+
+Manufactured in Slovenia
+
+by Lek Pharmaceuticals d.d.
+
+for Sandoz Inc., Princeton, NJ 08540
+
+Rev.
+July 2021
