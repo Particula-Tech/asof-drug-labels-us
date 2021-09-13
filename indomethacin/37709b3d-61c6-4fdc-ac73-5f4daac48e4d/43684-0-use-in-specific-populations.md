@@ -2,37 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C in the first and second trimesters of pregnancy; Category D in the third trimester.
+Risk Summary Use of NSAIDs, including TIVORBEX, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of TIVORBEX use between about 20 and 30 weeks of gestation, and avoid TIVORBEX use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
 
-Risk Summary
-
-Use of NSAIDs, including TIVORBEX, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including TIVORBEX, in pregnant women starting at 30 weeks of gestation (third trimester).
+Premature Closure of Fetal Ductus Arteriosus Use of NSAIDs, including TIVORBEX, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+OligohydramniosNeonatal Renal Impairment Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 There are no adequate and well-controlled studies of TIVORBEX in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 In animal reproduction studies, retarded fetal ossification was observed with administration of indomethacin to mice and rats during organogenesis at doses 0.16 and 0.32 times, respectively, the maximum recommended human dose (MRHD, 120 mg).
 In published studies in pregnant mice, indomethacin produced maternal toxicity and death, increased fetal resorptions, and fetal malformations at 0.2 times the MRHD.
 When rat and mice dams were dosed during the last three days of gestation, indomethacin produced neuronal necrosis in the offspring at 0.1 and 0.05 times the MRHD, respectively [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as indomethacin, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcojmes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Labor or Delivery
+Fetal/Neonatal Adverse Reactions Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including TIVORBEX, can cause premature closure of the fetal ductus arteriosus (see Data).
 
-There are no studies on the effects of TIVORBEX during labor or delivery.
+Oligohydramnios/Neonatal Renal Impairment: If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If TIVORBEX treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue TIVORBEX and follow up according to clinical practice (see Data).
+
+Labor or Delivery There are no studies on the effects of TIVORBEX during labor or delivery.
 In animal studies, NSAIDs, including indomethacin, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
-Data
+Data Human Data
 
-Animal data
+Premature Closure of Fetal Ductus Arteriosus: Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
 
-Reproductive studies were conducted in mice and rats at dosages of 0.5, 1.0, 2.0, and 4.0 mg/kg/day.
+Oligohydramnios/Neonatal Renal Impairment: Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequenty reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
+
+Data Animal data Reproductive studies were conducted in mice and rats at dosages of 0.5, 1.0, 2.0, and 4.0 mg/kg/day.
 Except for retarded fetal ossification at 4 mg/kg/day (0.16 times [mice] and 0.32 times [rats] the MRHD on a mg/m2 basis, respectively) considered secondary to the decreased average fetal weights, no increase in fetal malformations was observed as compared with control groups.
 Other studies in mice reported in the literature using higher doses (5 to 15 mg/kg/day, 0.20 to 0.60 times MRHD on a mg/m2 basis) have described maternal toxicity and death, increased fetal resorptions, and fetal malformations.
-
 In rats and mice, maternal indomethacin administration of 4.0 mg/kg/day (0.32 and 0.16 times the MRHD on a mg/m2 basis) during the last 3 days of gestation was associated with an increased incidence of neuronal necrosis in the diencephalon in the live-born fetuses however no increase in neuronal necrosis was observed at 2.0 mg/kg/day as compared to the control groups (0.16 and 0.08 times the MRHD on a mg/m2 basis).
 Administration of 0.5 or 4.0 mg/kg/day to offspring during the first 3 days of life did not cause an increase in neuronal necrosis at either dose level.
 
