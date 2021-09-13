@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209844"
+  ],
+  "inn": "doxycycline",
+  "labeler": "LIFSA DRUGS LLC",
+  "package_ndcs": [
+    "72336-596-86",
+    "72336-596-87"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doxycycline hyclate",
+      "name": "LymePak"
+    }
+  ],
+  "setid": "48b46003-e585-487a-beab-533e76544538",
+  "source": "dailymed"
+}
