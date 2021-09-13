@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA207946"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Janssen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50458-611-01",
+    "50458-612-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "paliperidone palmitate",
+      "name": "INVEGA HAFYERA"
+    }
+  ],
+  "setid": "6cd61892-d2cb-434d-83ed-5c1b2c4e7a0b",
+  "source": "dailymed"
+}
