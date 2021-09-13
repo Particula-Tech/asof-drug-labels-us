@@ -52,9 +52,7 @@ For Delayed-Release Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 2.8 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 2.5 mg of esomeprazole as enteric-coated granules.
+*Each packet of delayed release oral suspension contains 2.5 mg of esomeprazole (equivalent to 2.8 mg of esomeprazole magnesium trihydrate).
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -80,9 +78,7 @@ Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 5.6 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 5 mg of esomeprazole as enteric-coated granules.
+*Each packet of delayed release oral suspension contains 5 mg of esomeprazole (equivalent to 5.6 mg of esomeprazole magnesium trihydrate).
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -108,9 +104,7 @@ Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 11.1 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 10 mg of esomeprazole as enteric-coated granules.
+*Each packet of delayed release oral suspension contains 10 mg of esomeprazole (equivalent to 11.1 mg of esomeprazole magnesium trihydrate).
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -136,9 +130,7 @@ Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 22.3 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 20 mg of esomeprazole as enteric-coated granules.
+*Each packet of delayed release oral suspension contains 20 mg of esomeprazole (equivalent to 22.3 mg of esomeprazole magnesium trihydrate).
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -162,9 +154,7 @@ For Delayed-Release Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 44.5 mg of esomeprazole magnesium trihydrate
-
-which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
+*Each packet of delayed release oral suspension contains 40 mg of esomeprazole (equivalent to 44.5 mg of esomeprazole magnesium trihydrate).
 
 Dispense the enclosed Medication Guide to each patient.
 
