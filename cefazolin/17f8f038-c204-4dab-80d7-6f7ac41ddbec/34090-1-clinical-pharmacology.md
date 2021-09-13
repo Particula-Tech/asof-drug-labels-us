@@ -21,7 +21,7 @@ Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) foll
 | Table 7: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | N | Cmax(mcg/mL) | TmaxTmax reported as median (range) (h) | AUC0-inf (mcg*h/mL) | t1/2 (h) | CL (L/h) | Vz (L) |
-| Single 2 g Dose as a 15-Minute IV Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.50 (1.53) |
+| Single 2 grams Dose as a 15-Minute IV Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.50 (1.53) |
 
 N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
 
