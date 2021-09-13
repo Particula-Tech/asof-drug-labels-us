@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA214826"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-658-30",
+    "52427-663-30",
+    "52427-667-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "lorazepam",
+      "name": "LOREEV XR"
+    }
+  ],
+  "setid": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+  "source": "dailymed"
+}
