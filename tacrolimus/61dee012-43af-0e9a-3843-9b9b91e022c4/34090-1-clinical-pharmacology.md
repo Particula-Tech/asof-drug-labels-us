@@ -22,7 +22,7 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Cmax (ng/mL) | Tmax (hr) | AUC (ng•hr/mL) | t1/2 (hr) | CL (L/hr/kg) | V (L/kg) |
 | Healthy Volunteers | 8 | IV (0.025 mg/kg/4 hr) | * | * | 652† ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
-|  |  | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266† ± 95 | 32.3 ± 8.8 | ‡ | ‡ |
+|  | 16 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266† ± 95 | 32.3 ± 8.8 | ‡ | ‡ |
 | Kidney Transplant Patients | 26 | IV (0.02 mg/kg/ 12 hr) | * | * | 294† ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
 |  |  | PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3 | 203† ± 42 | ‡ | ‡ | ‡ |
 |  |  | PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 288† ± 93 | ‡ | ‡ | ‡ |
@@ -30,13 +30,13 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 |  |  | PO (0.3 mg/kg/day) | 68.5 ± 30 | 2.3 ± 1.5 | 519† ± 179 | ‡ | ‡ | ‡ |
 | Heart Transplant Patients | 11 | IV (0.01 mg/kg/day as a continuous infusion) | * | * | 954§ ± 334 | 23.6 ± 9.22 | 0.051 ± 0.015 | ‡ |
 |  | 11 | PO (0.075 mg/kg/day)¶ | 14.7 ± 7.79 | 2.1 [0.5-6.0]# | 82.7Þ ± 63.2 | * | ‡ | ‡ |
-|  | 14 | PO (0.15 mg/kg/day)¶ | 24.5 ± 13.7 | 1.5 [0.4-4.0]# | 142 Þ ± 116 | * | ‡ | ‡ |
+|  | 14 | PO (0.15 mg/kg/day)¶ | 24.5 ±13.7 | 1.5 [0.4-4.0]# | 142 Þ ± 116 | * | ‡ | ‡ |
 
-* not applicable
+* Not applicable
 
 † AUC0-inf
 
-‡ not available
+‡ Not available
 
 § AUC0-t
 
@@ -144,7 +144,7 @@ Pharmacokinetic in Renal and Hepatic Impaired Adult Patients
 | (n=5, PO)† | 8 mg PO (n=1) | 658 (t=120 hr) | 119±35 Range: 85 to 178 | 3.1±3.4* | 0.016±0.011* |
 |  | 5 mg PO (n=4) 4 mg PO (n=1) | 533±156 (t=144 hr) |  |  |  |
 
-* corrected for bioavailability
+* Corrected for bioavailability
 
 † 1 patient did not receive the PO dose
 
@@ -160,7 +160,11 @@ Patients with Hepatic Impairment
 Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: >10).
-The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) andUse in Specific Populations(8.7)].
+
+Patients with Cystic Fibrosis
+
+Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2, 2.3)].
 
 Racial or Ethnic Groups
 
@@ -183,7 +187,7 @@ Frequent monitoring of whole blood concentrations and appropriate dosage adjustm
 
 Telaprevir: In a single dose study in 9 healthy volunteers, co-administration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone [see Drug Interactions (7.2)].
 
-Boceprevir: In a single dose study in 12 subjects, co-administration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.2)].
+Boceprevir: In a single-dose study in 12 subjects, co-administration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.2)].
 
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.
 It is recommended to avoid concomitant use of tacrolimus and nelfinavir unless the benefits outweigh the risks [see Drug Interactions (7.2)].

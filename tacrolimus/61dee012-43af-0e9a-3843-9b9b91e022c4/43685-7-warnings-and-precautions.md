@@ -2,10 +2,10 @@
 
 ## 5.1 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
 The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
@@ -26,7 +26,7 @@ Serious viral infections reported include:
 
 Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products-Medication Errors
+## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products-Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
 Tacrolimus is not interchangeable or substitutable for tacrolimus extended-release products.
@@ -35,7 +35,7 @@ Instruct patients and caregivers to recognize the appearance of tacrolimus dosag
 
 ## 5.4 New Onset Diabetes After Transplant
 
-Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver and heart transplantation.
+Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, heart, or lung transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].
