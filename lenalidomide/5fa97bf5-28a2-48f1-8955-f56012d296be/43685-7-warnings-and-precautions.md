@@ -6,7 +6,7 @@ REVLIMID is a thalidomide analogue and is contraindicated for use during pregnan
 Thalidomide is a known human teratogen that causes life-threatening human birth defects or embryo-fetal death [see Use in Specific Populations (8.1)].
 An embryo-fetal development study in monkeys indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
 
-REVLIMID is only available through the REVLIMID REMS program [see Warnings and Precautions (5.2)].
+REVLIMID is only available through the Lenalidomide REMS program [see Warnings and Precautions (5.2)].
 
 Females of Reproductive Potential
 
@@ -27,18 +27,18 @@ Blood Donation
 
 Patients must not donate blood during treatment with REVLIMID and for 4 weeks following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to REVLIMID.
 
-## 5.2 REVLIMID REMS Program
+## 5.2 Lenalidomide REMS Program
 
-Because of the embryo-fetal risk [see Warnings and Precautions (5.1)], REVLIMID is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS), the REVLIMID REMS program.
+Because of the embryo-fetal risk [see Warnings and Precautions (5.1)], REVLIMID is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS), the Lenalidomide REMS program.
 
-Required components of the REVLIMID REMS program include the following:
+Required components of the Lenalidomide REMS program include the following:
 
-- Prescribers must be certified with the REVLIMID REMS program by enrolling and complying with the REMS requirements.
-- Patients must sign a Patient-Physician agreement form and comply with the REMS requirements.
+- •Prescribers must be certified with the Lenalidomide REMS program by enrolling and complying with the REMS requirements.
+- •Patients must sign a Patient-Physician agreement form and comply with the REMS requirements.
   In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)] and males must comply with contraception requirements [see Use in Specific Populations (8.3)].
-- Pharmacies must be certified with the REVLIMID REMS program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
+- •Pharmacies must be certified with the Lenalidomide REMS program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
 
-Further information about the REVLIMID REMS program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
+Further information about the Lenalidomide REMS program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
 
 ## 5.3 Hematologic Toxicity
 

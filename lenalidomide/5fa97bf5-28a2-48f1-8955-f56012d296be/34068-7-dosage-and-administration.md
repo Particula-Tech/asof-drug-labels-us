@@ -54,7 +54,7 @@ Table 2: Dose Adjustments for Hematologic Toxicities for MM
 |  | Fall below 30,000/mcL | Interrupt REVLIMID treatment, follow CBC weekly |
 |  | Return to at least 30,000/mcL | Resume REVLIMID at next lower dose, continuously for Days 1-28 of repeated 28-day cycle |
 |  | If at the 5 mg daily dose, For a subsequent drop below 30,000/mcL | Interrupt REVLIMID treatment. Do not dose below 5 mg daily for Day 1 to 21 of 28 day cycle |
-|  | Return to at least 30,000/mcL | Resume REVLIMID at 5 mg daily for Days 1 to 21of 28-day cycle. Do not dose below 5 mg daily for Day 1 to 21 of 28 day cycle |
+|  | Return to at least 30,000/mcL | Resume REVLIMID at 5 mg daily for Days 1 to 21 of 28-day cycle. Do not dose below 5 mg daily for Day 1 to 21 of 28 day cycle |
 | Absolute Neutrophil counts (ANC) |  |  |
 |  | Neutropenia in MM |  |
 |  | When Neutrophils | Recommended Course |
@@ -190,7 +190,7 @@ Neutropenia during treatment in FL or MZL
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
-| Fall below 1,000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500 /mcL | Interrupt REVLIMID treatment and follow CBC weekly. |
+| Fall below 1,000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500/mcL | Interrupt REVLIMID treatment and follow CBC weekly. |
 | Return to at least 1,000/mcL | If patient starting dose was 20 mg daily, resume REVLIMID at 5 mg less than the previous dose. Do not dose below 5 mg daily. If patient starting dose was 10 mg daily, resume at 5 mg less than previous dose. Do not dose below 2.5 mg daily. |
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions

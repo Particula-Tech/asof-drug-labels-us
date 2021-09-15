@@ -108,7 +108,7 @@ No differences in efficacy were observed between patients over 65 years of age a
 
 Of the 148 patients with del 5q MDS enrolled in the major study, 38% were age 65 and over, while 33% were age 75 and over.
 Although the overall frequency of adverse reactions (100%) was the same in patients over 65 years of age as in younger patients, the frequency of serious adverse reactions was higher in patients over 65 years of age than in younger patients (54% vs. 33%).
-A greater proportion of patients over 65 years of age discontinued from the clinical studies because of adverse reactions than the proportion of younger patients (27% vs.16%).
+A greater proportion of patients over 65 years of age discontinued from the clinical studies because of adverse reactions than the proportion of younger patients (27% vs. 16%).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
 
 Of the 134 patients with MCL enrolled in the MCL trial, 63% were age 65 and over, while 22% of patients were age 75 and over.
