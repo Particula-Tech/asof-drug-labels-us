@@ -14,17 +14,7 @@ Rx only abbvie
 
 NDC 0074-6214-53
 
-500 Tablets
-
-DEPAKOTE®
-
-DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
-
-250 mg Valproic Acid Activity
-
-Dispense the accompanying Medication Guide to each patient
-
-Rx only abbvie
+No image available
 
 NDC 0074-6214-13
 
