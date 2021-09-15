@@ -7,7 +7,7 @@
 | Do not take NSAID containing medicines right before or after a heart surgery called a "coronary artery bypass graft (CABG)." |  |  |
 | Avoid taking NSAID containing medicines after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: anytime during usewithout warning symptomsthat may cause death |  |  |
 | The risk of getting an ulcer or bleeding increases with: |  |  |
-|  | past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDstaking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs" |  |
+|  | past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDstaking medicines called "corticosteroids", "antiplatelet drugs", "anticoagulants", "SSRIs", or "SNRIs" |  |
 |  | increasing doses of NSAIDslonger use of NSAIDssmokingdrinking alcohol | older agepoor healthadvanced liver diseasebleeding problems |
 | NSAID containing medicines should only be used: |  |  |
 |  | exactly as prescribed at the lowest dose possible for your treatmentfor the shortest time needed |  |
@@ -33,5 +33,5 @@
 | General information about the safe and effective use of NSAIDs |  |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. |  |  |
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |  |
-| Active ingredients: diclofenac sodium, misoprostol. Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone (polyvidone) K-30, sodium hydroxide, starch (corn), talc, triethyl citrate. This product's labeling may have been updated. For the most recent prescribing information, please visit www.greenstonellc.com. For more information, go to www.greenstonellc.com or call 1-800-438-1985 LAB-0801-4.0 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: April 2021 |
+| Active ingredients: diclofenac sodium, misoprostol. Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone (polyvidone) K-30, sodium hydroxide, starch (corn), talc, triethyl citrate. This product's labeling may have been updated. For the most recent prescribing information, please visit www.greenstonellc.com. For more information, go to www.greenstonellc.com or call 1-800-438-1985 LAB-0801-5.0 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: August 2021 |

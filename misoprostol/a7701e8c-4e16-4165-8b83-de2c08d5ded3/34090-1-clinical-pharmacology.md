@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
+Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, an NSAID with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
 
 Diclofenac
 
@@ -29,7 +29,7 @@ The sites have a high affinity for misoprostol, for its acid metabolite, and for
 Receptor-site affinity for misoprostol correlates well with an indirect index of antisecretory activity.
 It is likely that these specific receptors allow misoprostol taken with food to be effective topically, despite the lower serum concentrations attained.
 
-Misoprostol, over the range of 50–200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
+Misoprostol, over the range of 50 mcg to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
 In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
 
@@ -43,7 +43,7 @@ General pharmacokinetic characteristics
 The pharmacokinetic profiles of diclofenac and misoprostol administered as the fixed combination (diclofenac sodium/misoprostol 50 or 75) are similar to the profiles when the two drugs are administered as separate tablets (see Table 2).
 No pharmacokinetic interaction between the two drugs has been observed following multiple dosing.
 The diclofenac total exposure [area under the curve (AUC)] is dose-proportional within the range of 25 mg to 150 mg.
-Approximately dose-proportional increase in misoprostol exposure was also observed within the range of 200 to 400 mcg.
+Approximately dose-proportional increase in misoprostol exposure was also observed within the range of 200 mcg to 400 mcg.
 Neither diclofenac nor misoprostol accumulated in plasma following repeated doses of diclofenac sodium/misoprostol given every 12 hours under fasted conditions.
 
 Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following Single Oral Doses of Diclofenac Sodium/Misoprostol or Separate Products in Healthy Subjects
@@ -88,6 +88,8 @@ The maximum concentration of misoprostol acid in expressed breast milk was achie
 The misoprostol acid concentrations in breast milk declined to <1 pg/mL at 5 hours post-dose.
 These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
 
+Elimination
+
 Metabolism
 
 Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
@@ -107,11 +109,11 @@ Approximately 65% of the dose is excreted in the urine and 35% in the bile.
 The elimination half-life of diclofenac is approximately 2 hours.
 The clearance of diclofenac is approximately 350 mL/min (equivalent to 21 L/h).
 
-Conjugates of unchanged diclofenac account for 5–10% of the dose excreted in the urine and for less than 5% excreted in the bile.
+Conjugates of unchanged diclofenac account for 5% to 10% of the dose excreted in the urine and for less than 5% excreted in the bile.
 Little or no unchanged unconjugated drug is excreted.
-Conjugates of the principal metabolite account for 20–30% of the dose excreted in the urine and for 10–20% of the dose excreted in the bile.
+Conjugates of the principal metabolite account for 20% to 30% of the dose excreted in the urine and for 10% to 20% of the dose excreted in the bile.
 
-Conjugates of three other metabolites together account for 10–20% of the dose excreted in the urine and for small amounts excreted in the bile.
+Conjugates of three other metabolites together account for 10% to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
 Urinary excretion of an additional metabolite (half-life = 80 hours) accounts for only 1.4% of the oral dose.
 The degree of accumulation of diclofenac metabolites is unknown.
@@ -129,7 +131,9 @@ In subjects over 64 years of age, the AUC for misoprostol acid was increased.
 
 In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in diclofenac sodium/misoprostol (two times a day) did not affect the pharmacokinetics of diclofenac.
 
-Race: Pharmacokinetic differences due to race have not been identified.
+Race
+
+Pharmacokinetic differences due to race have not been identified.
 
 Renal Impairment
 
@@ -150,14 +154,14 @@ Diclofenac
 
 Aspirin: When diclofenac sodium/misoprostol was administered with aspirin, the protein binding of diclofenac was reduced, although the clearance of the free diclofenac was not altered.
 The clinical significance of this interaction is not known.
-See table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Voriconazole: When a single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2), the mean Cmax and AUC of diclofenac were increased by 114% and 78%, respectively, when compared to diclofenac alone [see Drug Interactions (7)].
 
 In vitro, diclofenac interferes minimally with the protein binding of prednisolone (10% decrease in binding).
 Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalothin, erythromycin, and sulfamethoxazole have no influence, in vitro, on the protein binding of diclofenac in human serum.
 
-Other drugs: In small groups of patients (7–10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect Cmax and AUC of diclofenac.
+Other drugs: In small groups of patients (7 to 10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect Cmax and AUC of diclofenac.
 
 Misoprostol
 
