@@ -30,6 +30,7 @@ The low dose in this study was associated with a plasma exposure (AUC) approxima
 A no-effect dose for rat embryo-fetal developmental toxicity was not established.
 
 When pregnant rabbits were given pregabalin (250, 500, or 1,250 mg/kg) orally throughout the period of organogenesis, decreased fetal body weight and increased incidences of skeletal malformations, visceral variations, and retarded ossification were observed at the highest dose.
+
 The no-effect dose for developmental toxicity in rabbits (500 mg/kg) was associated with a plasma exposure approximately 16 times human exposure at the MRD.
 
 In a study in which female rats were dosed with pregabalin (50, 100, 250, 1,250, or 2,500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg.
@@ -49,7 +50,7 @@ The estimated average daily infant dose of pregabalin from breast milk (assuming
 The study did not evaluate the effects of pregabalin on milk production or the effects of pregabalin on the breastfed infant.
 
 Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
-Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.8)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
 Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with pregabalin.
 
 Data
@@ -90,6 +91,11 @@ Safety and effectiveness in pediatric patients have not been established.
 Fibromyalgia
 
 Safety and effectiveness in pediatric patients have not been established.
+
+A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at pregabalin total daily doses of 75 to 450 mg per day.
+The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance.
+The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
+The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
 
 Adjunctive Therapy for Partial-Onset Seizures
 
