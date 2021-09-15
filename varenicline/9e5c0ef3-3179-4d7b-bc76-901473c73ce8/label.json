@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA201785"
+  ],
+  "inn": "varenicline",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-155-76",
+    "49884-156-76",
+    "49884-944-99"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline tartrate",
+      "name": "Varenicline"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline tartrate",
+      "name": "Varenicline"
+    }
+  ],
+  "setid": "9e5c0ef3-3179-4d7b-bc76-901473c73ce8",
+  "source": "dailymed"
+}
