@@ -77,12 +77,6 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 ©2020 ViiV Healthcare group of companies or its licensor.
 
-RTR:10PI
+RTR:11PI

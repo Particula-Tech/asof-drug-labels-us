@@ -10,6 +10,8 @@ CAPSULES
 
 100 mg
 
+100 mg
+
 Rx only
 
 100 Capsules
@@ -27,20 +29,16 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in Canada
 
-Trademark owned or licensed by ViiV Healthcare.
+Trademark owned or licensed by the ViiV Healthcare group of companies.
+
+©2020 ViiV Healthcare or licensor.
 
 Rev.
-6/17
+02/21
 
-10000000146571
+62000000060263
 
 PRINCIPAL DISPLAY PANEL
 
@@ -66,17 +64,13 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-GlaxoSmithKline, Research Triangle Park, NC 27709
-
 Made in Canada
 
 Trademark are owned by or licensed to the ViiV Healthcare group of companies.
 
 ©2020 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000053865 Rev.7/20
+1. 62000000060142 Rev.1/21
 
 PRINCIPAL DISPLAY PANEL
 
