@@ -22,10 +22,18 @@ QT prolongation, Torsade de Pointes.
 
 In post-marketing experience, the following additional undesirable effects have been reported:
 
-Body as a Whole: allergic reaction
+Body as a Whole
 
-Nervous System: headache
+Allergic reaction
 
-Psychiatric: hallucination
+Nervous System
 
-Skin and Appendages: pruritus, rash, urticaria
+Headache
+
+Psychiatric
+
+Hallucination
+
+Skin and Appendages
+
+Pruritus, rash, urticaria

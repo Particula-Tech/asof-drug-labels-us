@@ -16,11 +16,11 @@ NDC 0185-0674-10 bottles of 1000
 
 (equivalent to 50 mg hydroxyzine hydrochloride) are dark green/white capsules imprinted “E 615” and supplied as:
 
-NDC 0185-0615-01 bottles of 100
+NDC 0185-0676-01 bottles of 100
 
-NDC 0185-0615-05 bottles of 500
+NDC 0185-0676-05 bottles of 500
 
-NDC 0185-0615-10 bottles of 1000
+NDC 0185-0676-10 bottles of 1000
 
 Storage
 
@@ -32,40 +32,19 @@ Dispense contents in a tight, light-resistant container as defined in the USP, w
 
 KEEP TIGHTLY CLOSED.
 
+KEEP OUT OF THE REACH OF CHILDREN.
+
 To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-25 mg
-
 Manufactured by
 
 Sandoz Inc.
 
 Princeton, NJ 08540
 
-50 mg
-
-Manufactured for
-
-Sandoz Inc.
-
-Princeton, NJ 08540
-
-Manufactured by
-
-Epic Pharma, LLC
-
-Laurelton, NY 11413
-
-46192627
+46192889
 
 Rev.
-December 2016
+November 2020
 
-MF0674REV12/16
-
-OS7127
-
-Rev.
-October 2016
-
-MF0615REV10/16
+MF0674REV1120
