@@ -148,4 +148,4 @@ Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
 DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company.
 
-Revised: 4/2021 IN-023A6-X2
+Revised: 4/2021 IN-023A6-07

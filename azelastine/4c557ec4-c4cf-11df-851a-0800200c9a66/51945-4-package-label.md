@@ -2,15 +2,13 @@
 
 NDC 0037-0245-23
 
-Dymista® (azelastine hydrochloride and fluticasone propionate)
-
-Nasal Spray
+Dymista® (azelastine hydrochloride and fluticasone propionate) Nasal Spray
 
 137 mcg / 50 mcg per spray
 
 120 Metered Sprays
 
-FOR INTRANASAL USE ONLY
+FOR NASAL USE ONLY
 
 Rx Only
 
@@ -24,8 +22,7 @@ Contents: An aqueous suspension containing azelastine hydrochloride, fluticasone
 
 Dosage: See enclosed full Prescribing Information.
 
-Storage: Store upright, with dust cap in place, at controlled room temperature 20°-25°C (68°-77°F).
-
+Storage: Store upright, with dust cap in place, at controlled room temperature 20° to 25°C (68° to 77°F).
 Protect from light.
 Do not store in the freezer or refrigerator.
 
@@ -49,7 +46,7 @@ Discard after 120 actuations.
 
 For assistance call 1-888-939-6478 www.DYMISTA.com
 
-DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company.
 
 Shake the bottle gently before each use.
 
@@ -57,16 +54,15 @@ Initial Priming: 6 sprays or until a fine mist appears.
 
 Repriming (only if you have not used Dymista for 14 or more days): 1 spray or until a fine mist appears.
 
-FOR INTRANASAL USE ONLY
+FOR NASAL USE ONLY
 
 Manufactured by: Cipla Ltd., Goa, India, M.L.
 No. 546
 
 For: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2018 Mylan Specialty L.P.
+© 2021 Viatris Inc.
 
-UC-023A6-06 Rev.
-4/2018
+UC-023A6-07
 
 U.S. Patents 8,163,723; 8,168,620; 9,259,428; 9,901,585
