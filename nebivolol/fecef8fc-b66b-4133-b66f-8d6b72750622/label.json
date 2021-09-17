@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA203828"
+  ],
+  "inn": "nebivolol",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-390-01",
+    "67877-390-30",
+    "67877-390-90",
+    "67877-391-01",
+    "67877-391-30",
+    "67877-391-90",
+    "67877-392-01",
+    "67877-392-30",
+    "67877-392-90",
+    "67877-393-01",
+    "67877-393-30",
+    "67877-393-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nebivolol",
+      "name": "Nebivolol"
+    }
+  ],
+  "setid": "fecef8fc-b66b-4133-b66f-8d6b72750622",
+  "source": "dailymed"
+}
