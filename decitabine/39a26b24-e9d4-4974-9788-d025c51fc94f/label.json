@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205539"
+  ],
+  "inn": "decitabine",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-528-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "decitabine"
+    }
+  ],
+  "setid": "39a26b24-e9d4-4974-9788-d025c51fc94f",
+  "source": "dailymed"
+}
