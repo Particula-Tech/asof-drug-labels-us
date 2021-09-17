@@ -39,17 +39,12 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
-Manufactured In Croatia By:
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Pliva Hrvatska d.o.o.
-
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-I 7/2020
+J 7/2021
