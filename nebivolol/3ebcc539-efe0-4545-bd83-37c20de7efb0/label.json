@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA203659"
+  ],
+  "inn": "nebivolol",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-275-30",
+    "62559-275-83",
+    "62559-276-30",
+    "62559-276-71",
+    "62559-276-90",
+    "62559-277-05",
+    "62559-277-30",
+    "62559-277-90",
+    "62559-278-30",
+    "62559-278-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nebivolol",
+      "name": "Nebivolol"
+    }
+  ],
+  "setid": "3ebcc539-efe0-4545-bd83-37c20de7efb0",
+  "source": "dailymed"
+}

@@ -1,0 +1,15 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 62559-275-30 Nebivolol Tablets, 2.5 mg Rx only 30 Tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 62559-276-30 Nebivolol Tablets, 5 mg Rx only 30 Tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 62559-277-30 Nebivolol Tablets, 10 mg Rx only 30 Tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 62559-278-30 Nebivolol Tablets, 20 mg Rx only 30 Tablets
