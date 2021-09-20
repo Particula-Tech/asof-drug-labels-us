@@ -122,7 +122,7 @@ This leaflet summarizes the most important information about CUVPOSA.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CUVPOSA that is written for health professionals.
 
-For more information, go to: www.cuvposa.com or call 866-862-1211.
+For more information, go to: www.cuvposa.com or call 1-844-469-6379.
 
 What are the ingredients in CUVPOSA?
 
