@@ -116,8 +116,13 @@ Whether the increased risk observed was due to Parkinson’s disease or other fa
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for anyindication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
-Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on l-dopa.
+Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
 A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine mesylate.
+These symptoms generally do not respond to levodopa.
+Prior to discontinuation of bromocriptine mesylate, patients should be informed about potential withdrawal symptoms, and closely monitored during and after discontinuation of bromocriptine mesylate.
+In case of severe withdrawal symptoms, re-administration of a dopamine agonist at the lowest effective dose may be considered.
 
 ## Information for Patients
 
@@ -134,6 +139,9 @@ Patients and their caregivers should be alerted to the possibility that patients
 Advise patients and their caregivers to inform their healthcare provider if they develop new or increased uncontrolled spending, gambling urges, sexual urges, or other urges while being treated with bromocriptine mesylate [see PRECAUTIONS].
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+
+Advise patients to contact their healthcare provider if they wish to discontinue bromocriptine mesylate or decrease the dose of bromocriptine mesylate.
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as fever, muscular rigidity, altered consciousness, apathy, anxiety, depression, fatigue, insomnia, sweating, or pain (see Precautions).
 
 ## Drug Interactions
 
@@ -168,23 +176,7 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 ## Pregnancy
 
-Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
-
-Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
-In animals treated from day 8-15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
-One anomaly, aplasia of spinal vertebrae and ribs, was found in the group of 262 fetuses derived from the dams treated with 30 mg/kg bromocriptine.
-No fetotoxic effects were found in offspring of dams treated during the peri- or postnatal period.
-
-Two studies were conducted in rabbits (2 strains) to determine the potential to interfere with nidation.
-Dose levels of 100 or 300 mg/kg/day from day 1 to day 6 p.c. did not adversely affect nidation.
-The high dose was approximately 63 times the maximum human dose administered in controlled clinical trials (100 mg/day), based on body surface area.
-In New Zealand white rabbits, some embryo mortality occurred at 300 mg/kg which was a reflection of overt maternal toxicity.
-Three studies were conducted in 2 strains of rabbits to determine the teratological potential of bromocriptine at dose levels of 3, 10, 30, 100, and 300 mg/kg given from day 6 to day 18 p.c.
-In 2 studies with the Yellow-silver strain, cleft palate was found in 3 and 2 fetuses at maternally toxic doses of 100 and 300 mg/kg, respectively.
-One control fetus also exhibited this anomaly.
-In the third study conducted with New Zealand white rabbits using an identical protocol, no cleft palates were produced.
-
-Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
+Category B: Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 
 Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
 In animals treated from day 8-15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.

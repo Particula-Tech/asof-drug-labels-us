@@ -9,7 +9,7 @@ Therapy was discontinued in approximately 5% of patients because of adverse effe
 These in decreasing order of frequency are: nausea (49%), headache (19%), dizziness (17%), fatigue (7%), lightheadedness (5%), vomiting (5%), abdominal cramps (4%), nasal congestion (3%), constipation (3%), diarrhea (3%) and drowsiness (3%).
 
 A slight hypotensive effect may accompany bromocriptine mesylate treatment.
-The occurrence of adverse reactions may be lessened by temporarily reducing dosage to ½ tablet 2 or 3 times daily.
+The occurrence of adverse reactions may be lessened by temporarily reducing dosage to half tablet 2 or 3 times daily.
 A few cases of cerebrospinal fluid rhinorrhea have been reported in patients receiving bromocriptine mesylate for treatment of large prolactinomas.
 This has occurred rarely, usually only in patients who have received previous transsphenoidal surgery, pituitary radiation, or both, and who were receiving bromocriptine mesylate for tumor recurrence.
 It may also occur in previously untreated patients whose tumor extends into the sphenoid sinus.
@@ -25,7 +25,7 @@ Rarely (less than 1%) hair loss, alcohol potentiation, faintness, lightheadednes
 
 In clinical trials in which bromocriptine mesylate was administered with concomitant reduction in the dose of levodopa/carbidopa, the most common newly appearing adverse reactions were: nausea, abnormal involuntary movements, hallucinations, confusion, “on-off’’ phenomenon, dizziness, drowsiness, faintness/fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
 
-Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud’s Syndrome.
+Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud’s syndrome.
 
 Abnormalities in laboratory tests may include elevations in blood urea nitrogen, SGOT, SGPT, GGPT, CPK, alkaline phosphatase and uric acid, which are usually transient and not of clinical significance.
 
@@ -44,7 +44,7 @@ Ear and labyrinth disorders: Tinnitus.
 
 Cardiac disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
 
-Vascular disorders: Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon)
+Vascular disorders: Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon).
 
 Respiratory, thoracic and mediastinal disorders: Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.
 
@@ -54,11 +54,11 @@ Skin and subcutaneous tissue disorders: Allergic skin reactions, hair loss.
 
 Musculoskeletal and connective tissue disorders: Leg cramps.
 
-General disorders and administration site conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate (see PRECAUTIONS).
+General disorders and administration site conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate, withdrawal symptoms (including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain) with taper or after discontinuation (see Precautions).
 
 ## Adverse Events Observed in Other Conditions
 
-### Postpartum Patients (see above WARNINGS)
+### Postpartum Patients (see above Warnings)
 
 In postpartum studies with bromocriptine mesylate, 23 percent of postpartum patients treated had at least 1 side effect, but they were generally mild to moderate in degree.
 Therapy was discontinued in approximately 3% of patients.

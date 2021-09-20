@@ -76,12 +76,12 @@ Drug Metab Dispos; 25:1211-14.
 
 The effect of renal function on the pharmacokinetics of bromocriptine has not been evaluated.
 
-Since parent drug and metabolites are almost completely excreted via metabolism, and only 6% eliminated via the kidney, renal impairment may not have a significant impact on the PK of bromocriptine and its metabolites (see PRECAUTIONS, General).
+Since parent drug and metabolites are almost completely excreted via metabolism, and only 6% eliminated via the kidney, renal impairment may not have a significant impact on the PK of bromocriptine and its metabolites (see PRECAUTIONS, general).
 
 #### Effect of Hepatic Impairment
 
 The effect of liver impairment on the PK of bromocriptine mesylate and its metabolites has not been evaluated.
-Since bromocriptine mesylate is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, General).
+Since bromocriptine mesylate is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, general).
 
 The effect of age, race, and gender on the pharmacokinetics of bromocriptine and its metabolites has not been evaluated.
 
