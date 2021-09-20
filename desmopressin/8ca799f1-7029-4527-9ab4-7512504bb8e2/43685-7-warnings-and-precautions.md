@@ -10,7 +10,7 @@ All patients receiving desmopressin nasal spray solution should be observed for 
 Severe symptoms due to an extreme decrease in serum sodium and plasma osmolality may include one or a combination of the following: seizure, coma, and/or respiratory arrest.
 
 In order to decrease the risk of water intoxication with hyponatremia, fluid restriction is recommended.
-Careful fluid intake restriction is particularly important in pediatric and geriatric patients because these patients are at greater risk of developing hyponatremia [seeUse in Specific Populations (8.4, 8.5)].
+Careful fluid intake restriction is particularly important in pediatric and geriatric patients because these patients are at greater risk of developing hyponatremia [see Use in Specific Populations (8.4, 8.5)].
 More frequent monitoring of serum sodium levels is recommended in the following patients: those with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure, renal disorders, habitual or psychogenic polydipsia or those taking concomitant drugs that may cause hyponatremia [see Drug Interactions (7.1)].
 
 Desmopressin nasal spray solution is not an indicated formulation for the treatment of primary nocturnal enuresis due to a higher risk of hyponatremia and hyponatremic convulsions with the use of the nasal spray formulation compared to desmopressin tablets seen in postmarketing reports [see Indications and Usage (1)].

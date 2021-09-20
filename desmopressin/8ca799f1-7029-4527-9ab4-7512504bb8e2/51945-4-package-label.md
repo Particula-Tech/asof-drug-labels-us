@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# Package Label/Principal Display Panel
 
 NDC 24208-342-05
 

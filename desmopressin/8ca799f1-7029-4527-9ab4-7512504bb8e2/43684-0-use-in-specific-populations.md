@@ -6,7 +6,7 @@ Risk Summary
 
 Prolonged experience with desmopressin in pregnant women over several decades, based on the available published data and case reports, did not identify a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 In addition, in vitro studies with human placenta demonstrate poor placental transfer of desmopressin.
-No adverse developmental outcomes were observed in animal reproduction studies with administration of desmopressin during organogenesis to pregnant rats and rabbits at doses approximately <1 and 38 times, respectively, the maximum recommended human dose based on body surface area (mg/m2) (seeData).
+No adverse developmental outcomes were observed in animal reproduction studies with administration of desmopressin during organogenesis to pregnant rats and rabbits at doses approximately <1 and 38 times, respectively, the maximum recommended human dose based on body surface area (mg/m2) (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -55,4 +55,4 @@ Use of desmopressin nasal spray solution in geriatric patients requires careful 
 ## 8.6 Renal Impairment
 
 Desmopressin acetate is substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with renal impairment than patients with normal renal function.
-Desmopressin nasal spray solution is contraindicated in patients with estimated CLcr by Cockcroft-Gault equation less than 50 mL/min [see Clinical Pharmacology (12.1, 12.3), Contraindications (4)].
+Desmopressin nasal spray solution is contraindicated in patients with estimated CLcr by Cockcroft-Gault equation less than 50 mL/min [see Clinical Pharmacology (12.1, 12.3), Contraindications(4)].
