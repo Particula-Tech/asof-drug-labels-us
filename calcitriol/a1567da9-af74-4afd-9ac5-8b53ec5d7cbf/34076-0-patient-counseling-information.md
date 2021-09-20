@@ -20,4 +20,5 @@ To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 86
 
 US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Made in Canada.
-GALDERMA is a registered trademark.
+Galderma is a registered trademark.
+P51460-5

@@ -13,5 +13,5 @@ Storage: Store at controlled room temperature 68° - 77° (20° -25°C) with exc
 Do not freeze or refrigerate.
 US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Made in Canada.
-GALDERMA is a registered trademark.
-P51459-4
+All trademarks are the property of their respective owners.
+P51459-5
