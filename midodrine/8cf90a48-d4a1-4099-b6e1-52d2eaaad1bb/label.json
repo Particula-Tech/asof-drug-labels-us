@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212543"
+  ],
+  "inn": "midodrine",
+  "labeler": "Advagen Pharma Limited",
+  "package_ndcs": [
+    "72888-112-01",
+    "72888-113-01",
+    "72888-114-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
+  "setid": "8cf90a48-d4a1-4099-b6e1-52d2eaaad1bb",
+  "source": "dailymed"
+}
