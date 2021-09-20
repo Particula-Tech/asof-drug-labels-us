@@ -262,3 +262,17 @@ In these patients, mixed agonist/antagonist and partial agonist analgesics may r
 
 QDOLO may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of QDOLO and know how they will react to the medication [see Patient Counseling Information (17)].
+
+## 5.20 Hyponatremia
+
+Hyponatremia (serum sodium < 135 mmol/L) has been reported with the use of tramadol, and many cases are severe (sodium level < 120 mmol/L).
+Most cases of hyponatremia occurred in females over the age of 65 and within the first week of therapy.
+In some reports, hyponatremia resulted from the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Monitor for signs and symptoms of hyponatremia (e.g., confusion, disorientation), during treatment with QDOLO, especially during initiation of therapy.
+If signs and symptoms of hyponatremia are present, initiate appropriate treatment (e.g., fluid restriction) and discontinue QDOLO [see Dosage and Administration: Safe Reduction or Discontinuation of QDOLO (2.5)].
+
+## 5.21 Hypoglycemia
+
+Cases of tramadol-associated hypoglycemia have been reported, some resulting in hospitalization.
+In most cases, patients had predisposing risk factors (e.g. diabetes).
+If hypoglycemia is suspected, monitor blood glucose levels and consider drug discontinuation as appropriate [see Dosage and Administration: Safe Reduction or Discontinuation of QDOLO (2.5)].

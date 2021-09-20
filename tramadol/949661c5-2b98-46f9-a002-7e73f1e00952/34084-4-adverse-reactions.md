@@ -115,8 +115,12 @@ Many of these cases were reported in patients taking another drug labeled for QT
 
 Eye disorders – mydriasis
 
-Metabolism and nutrition disorders – Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
-Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
+Metabolism and nutrition disorders
+
+Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.20)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.21)].
 
 Nervous system disorders – movement disorder, speech disorder
 
