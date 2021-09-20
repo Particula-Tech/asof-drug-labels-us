@@ -116,8 +116,13 @@ Whether the increased risk observed was due to Parkinson's disease or other fact
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
-Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on L-dopa.
+Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
 A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine.
+These symptoms generally do not respond to levodopa.
+Prior to discontinuation of bromocriptine, patients should be informed about potential withdrawal symptoms, and closely monitored during and after discontinuation of bromocriptine.
+In case of severe withdrawal symptoms, re-administration of a dopamine agonist at the lowest effective dose may be considered.
 
 Information for Patients
 
@@ -134,6 +139,9 @@ Patients and their caregivers should be alerted to the possibility that patients
 Advise patients and their caregivers to inform their healthcare provider if they develop new or increased uncontrolled spending, gambling urges, sexual urges, or other urges while being treated with bromocriptine [see PRECAUTIONS].
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+
+Advise patients to contact their healthcare provider if they wish to discontinue bromocriptine or decrease the dose of bromocriptine.
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as fever, muscular rigidity, altered consciousness, apathy, anxiety, depression, fatigue, insomnia, sweating, or pain (see Precautions).
 
 Drug Interactions
 

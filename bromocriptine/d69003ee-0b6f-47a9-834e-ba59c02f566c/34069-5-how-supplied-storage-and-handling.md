@@ -8,6 +8,6 @@ NDC 68382-110-01 in bottle of 100 capsules
 
 Storage:
 
-Store at 20° to 25°C (68° to 77° F) [See USP Controlled Room Temperature]; in tight, light-resistant container.
+Store at 20°C to 25°C (68°F to 77° F) [See USP Controlled Room Temperature]; in tight, light-resistant container.
 
 Dispense in a tight, light-resistant container.

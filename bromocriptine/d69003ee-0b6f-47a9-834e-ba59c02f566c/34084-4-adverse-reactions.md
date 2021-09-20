@@ -16,7 +16,7 @@ It may also occur in previously untreated patients whose tumor extends into the 
 
 Acromegaly
 
-The most frequent adverse reactions encountered in acromegalic patients treated with bromocriptine were: nausea (18%), constipation (14%), postural/ orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/dyspepsia (4%), digital vasospasm (3%), drowsiness/tiredness (3%) and vomiting (2%).
+The most frequent adverse reactions encountered in acromegalic patients treated with bromocriptine were: nausea (18%), constipation (14%), postural/orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/dyspepsia (4%), digital vasospasm (3%), drowsiness/tiredness (3%) and vomiting (2%).
 
 Less frequent adverse reactions (less than 2%) were: gastrointestinal bleeding, dizziness, exacerbation of Raynaud's syndrome, headache and syncope.
 Rarely (less than 1%) hair loss, alcohol potentiation, faintness, lightheadedness, arrhythmia, ventricular tachycardia, decreased sleep requirement, visual hallucinations, lassitude, shortness of breath, bradycardia, vertigo, paresthesia, sluggishness, vasovagal attack, delusional psychosis, paranoia, insomnia, heavy headedness, reduced tolerance to cold, tingling of ears, facial pallor and muscle cramps have been reported.
@@ -56,7 +56,7 @@ Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhy
 
 Vascular disorders
 
-Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon)
+Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon).
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -76,7 +76,7 @@ Leg cramps.
 
 General disorders and administration site conditions
 
-Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine (see Precautions).
+Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine, withdrawal symptoms (including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain) with taper or after discontinuation (see Precautions).
 
 Adverse Events Observed in Other Conditions
 
@@ -87,7 +87,7 @@ Therapy was discontinued in approximately 3% of patients.
 The most frequently occurring adverse reactions were: headache (10%), dizziness (8%), nausea (7%), vomiting (3%), fatigue (1.0%), syncope (0.7%), diarrhea (0.4%) and cramps (0.4%).
 Decreases in blood pressure (≥ 20 mm Hg systolic and ≥ 10 mm Hg diastolic) occurred in 28% of patients at least once during the first 3 postpartum days; these were usually of a transient nature.
 Reports of fainting in the puerperium may possibly be related to this effect.
-In postmarketing experience in the U.S. serious adverse reactions reported include 72 cases of seizures (including 4 cases of status epilepticus), 30 cases of stroke, and 9 cases of myocardial infarction among postpartum patients.
+In postmarketing experience in the U.S., serious adverse reactions reported include 72 cases of seizures (including 4 cases of status epilepticus), 30 cases of stroke, and 9 cases of myocardial infarction among postpartum patients.
 Seizure cases were not necessarily accompanied by the development of hypertension.
 An unremitting and often progressively severe headache, sometimes accompanied by visual disturbance, often preceded by hours to days many cases of seizure and/or stroke.
 Most patients had shown no evidence of any of the hypertensive disorders of pregnancy including eclampsia, preeclampsia or pregnancy-induced hypertension.

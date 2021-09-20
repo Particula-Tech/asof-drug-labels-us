@@ -6,7 +6,7 @@ Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 
 
 Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.3 It is recommended that bromocriptine be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 
-Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
+Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady-state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
 
 Distribution
 
@@ -33,7 +33,7 @@ Clin Pharmacol Ther; 47(6):694-7.
 
 2 Schran, H.F., Bhuta, S.I., Schwartz, et al. (1980).
 The pharmacokinetics of bromocriptine in man.
-In: Golstein, M. Calne, D.B.,et.
+In: Golstein, M. Calne, D.B., et.
 Al (eds).
 Ergot compound and brain function: Neuroendocrine and neuropsychiatric aspects, pp.
 125-139, New York, Rave Press.
