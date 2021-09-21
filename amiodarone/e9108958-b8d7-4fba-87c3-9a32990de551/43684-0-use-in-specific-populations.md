@@ -2,56 +2,49 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.8)].
+Risk Summary Available data from postmarketing reports and published case series indicate that amiodarone use in pregnant women may increase the risk for fetal adverse effects including neonatal hypo- and hyperthyroidism, neonatal bradycardia, neurodevelopmental abnormalities, preterm birth and fetal growth restriction.
+Amiodarone and its metabolite, desethylamiodarone (DEA), cross the placenta.
+Untreated underlying arrhythmias, including ventricular arrhythmias, during pregnancy pose a risk to the mother and fetus (see Clinical Considerations).
+In animal studies, administration of amiodarone to rabbits, rats, and mice during organogenesis resulted in embryo-fetal toxicity at doses less than the maximum recommended human maintenance dose (see Data).
+Advise pregnant women of the potential risk to a fetus.
 
-Teratogenic Effects
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%‑20%, respectively.
 
-Amiodarone and desethylamiodarone cross the placenta.
+Clinical Considerations Disease-associated maternal and or embryo/fetal Risk The incidence of ventricular tachycardia is increased and may be more symptomatic during pregnancy.
+Ventricular arrhythmias most often occur in pregnant women with underlying cardiomyopathy, congenital heart disease, valvular heart disease, or mitral valve prolapse.
+Most tachycardia episodes are initiated by ectopic beats and the occurrence of arrhythmia episodes may therefore, increase during pregnancy due to the increased propensity to ectopic activity.
+Breakthrough arrhythmias may also occur during pregnancy, as therapeutic treatment levels may be difficult to maintain due to the increased volume of distribution and increased drug metabolism inherent in the pregnant state.
 
-Reported risks include:
+Fetal/Neonatal adverse reactions Amiodarone and its metabolite have been shown to cross the placenta.
+Adverse fetal effects associated with maternal amiodarone use during pregnancy may include neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles, neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure, neonatal hyperthyroxinemia, neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia, jerk nystagmus with synchronous head titubation, fetal growth restriction, and premature birth.
+Monitor the newborn for signs and symptoms of thyroid disorder and cardiac arrhythmias.
 
-- •neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
-- •neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
-- •neonatal hyperthyroxinemia
-- •neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
-- •jerk nystagmus with synchronous head titubation
-- •fetal growth retardation
-- •premature birth
+Labor and Delivery Risk of arrhythmias may increase during labor and delivery.
 
-Amiodarone has caused a variety of adverse effects in animals.
+Data Animal Data In pregnant rats and rabbits during the period of organogenesis, an amiodarone HCl dose of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose*) had no adverse effects on the fetus.
+In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose*) caused abortions in greater than 90% of the animals.
+In the rat, doses of 50 mg/kg/day or more were associated with slight displacement of the testes and an increased incidence of incomplete ossification of some skull and digital bones; at 100 mg/kg/day or more, fetal body weights were reduced; at 200 mg/kg/day, there was an increased incidence of fetal resorption (approximately 0.8, 1.6 and 3.2 times the maximum recommended human maintenance dose*).
+Adverse effects on fetal growth and survival also were noted in one of two strains of mice at a dose of 5 mg/kg/day (approximately 0.04 times the maximum recommended human maintenance dose*).
 
-Amiodarone was given intravenously to rabbits at dosages of 5, 10, or 25 mg/kg per day (about 0.1, 0.3, and 0.7 times human intravenous maintenance dose of 0.5 mg/min on a body surface area basis), during gestation days 8 to 16 (organogenesis).
-The incidence of maternal deaths increased with increasing dose and occurred in all treated groups and controls.
-Mean fetal weights were significantly decreased in the low and middle dose groups and embryotoxicity (as manifested by fewer full-term fetuses and increased resorptions) occurred at dosages of 10 mg/kg and above.
-There were no significant differences in the number of minor fetal abnormalities and no major fetal abnormalities were observed.
+*600 mg in a 60 kg patient (doses compared on a body surface area basis)
 
-Amiodarone was administered by continuous intravenous infusion to rats at dosages of 25, 50, or 100 mg/kg per day (about 0.3, 0.7 and 1.3 times the human intravenous maintenance dose of 0.5 mg/min on a body surface area basis) during gestation days 8 to 16 (organogenesis).
-Maternal toxicity (manifest as reduced weight gain and food consumption) and embryotoxicity (manifest as increased resorptions, decreased live litter size and fetal body weights, and delayed sternal and metacarpal ossification) were observed in the 100 mg/kg group.
-The delayed ossification was reversible and related to decreased fetal weight.
-Fetal thyroid tissues appeared normal in all groups.
+## 8.2 Lactation
 
-Nonteratogenic Effects
+Risk Summary Amiodarone and one of its major metabolites, DEA, are present in breastmilk at between 3.5% and 45% of the maternal weight-adjusted dosage of amiodarone.
+There are cases of hypothyroidism and bradycardia in breastfed infants, although it is unclear if these effects are due to amiodarone exposure in breastmilk.
+Breastfeeding is not recommended during treatment with NEXTERONE [see Warnings and Precautions (5.6, 5.7)].
 
-Very high concentrations of amiodarone and desethylamiodarone may be found in testes.
-An elevated follicle-stimulating hormone and luteinizing hormone levels, suggestive of testicular dysfunction, have been reported in men on long-term amiodarone treatment.
+## 8.3 Females and Males of Reproductive Potential
 
-While planning pregnancy after discontinuation of amiodarone treatment, consider the long half-life of amiodarone and its metabolite DEA.
-
-## 8.2 Labor and Delivery
-
-It is not known whether the use of amiodarone during labor or delivery has any immediate or delayed adverse effects.
-Preclinical studies in rodents have not shown any effect on the duration of gestation or on parturition.
-
-## 8.3 Nursing Mothers
-
-Amiodarone and one of its major metabolites, desethylamiodarone (DEA), are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
-Nursing offspring of lactating rats administered amiodarone have demonstrated reduced viability and transient reduced body weight gains.
-The risk of exposing the infant to amiodarone and DEA must be weighed against the potential benefit of arrhythmia suppression in the mother.
-Advise the mother to discontinue nursing.
+Infertility Based on animal fertility studies, NEXTERONE may reduce female and male fertility.
+It is not known if this effect is reversible.
+[see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of amiodarone in pediatric patients have not been established; therefore, the use of amiodarone in pediatric patients is not recommended.
+The safety and effectiveness of amiodarone in pediatric patients have not been established.
 In a pediatric trial of 61 patients, aged 30 days to 15 years, hypotension (36%), bradycardia (20%), and AV block (15%) were common dose-related adverse reactions and were severe or life-threatening in some cases.
 Injection site reactions were seen in 5 (25%) of the 20 patients receiving intravenous amiodarone through a peripheral vein irrespective of dose regimen.
 

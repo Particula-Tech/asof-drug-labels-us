@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Amiodarone is generally considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes.
+Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes.
 Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action.
 One of its main effects, with prolonged administration, is to lengthen the cardiac action potential, a class III effect.
 The negative chronotropic effect of amiodarone in nodal tissues is similar to the effect of class IV drugs.
@@ -10,7 +10,7 @@ In addition to blocking sodium channels, amiodarone blocks myocardial potassium 
 The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node.
 Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption.
 
-Intravenous amiodarone administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN), but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infra-nodal conduction (His-ventricular, HV).
+Intravenous amiodarone administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN) but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infra-nodal conduction (His-ventricular, HV).
 A comparison of the electrophysiologic effects of intravenous amiodarone and oral amiodarone is shown in the table below.
 
 Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS
@@ -19,7 +19,7 @@ Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAME
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Intravenous | ↔ | ↔ | ↔ | ↑ | ↔ | ↔ | ↔ | ↑ |
 | Oral | ↑ | ↔ | ↑ | ↑ | ↔ | ↑ | ↑ | ↑ |
-| ↔ No change |  |  |  |  |  |  |  |  |
+| ↔No Change |  |  |  |  |  |  |  |  |
 
 At higher doses (>10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
 These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
@@ -35,41 +35,34 @@ DEA's precise role and contribution to the antiarrhythmic activity of oral amiod
 The development of maximal ventricular class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
 On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [see Clinical Trials (14)].
 
+There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.
+
 ## 12.3 Pharmacokinetics
 
-### Disposition:
-
-Amiodarone exhibits complex disposition characteristics after intravenous administration.
+Absorption: Amiodarone exhibits complex disposition characteristics after intravenous administration.
 Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L.
 Peak concentrations after 10-minute infusions of 150 mg intravenous amiodarone in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L.
-Due to rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion.
+Because of rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion.
 In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260).
 
-### Metabolism:
-
-N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans.
-DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone.
-Amiodarone is metabolized to DEA by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P4503A (CYP3A) and CYP2C8.
-The CYP3A isoenzyme is present in both the liver and intestines.
-The highly variable systemic availability of oral amiodarone may be attributed potentially to large interindividual variability in CYP3A activity.
-
-### Distribution/Elimination:
-
-From in vitro studies, the protein binding of amiodarone is >96%.
+Distribution: From in vitro studies, the protein binding of amiodarone is >96%.
 Amiodarone and DEA cross the placenta and both appear in breast milk.
 Neither amiodarone nor DEA is dialyzable.
 
-Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
+Elimination: Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
 In studies in healthy subjects following single intravenous administration (5 mg/kg of amiodarone over 15 min), the plasma concentration vs. time profile could be characterized by linear sum of four exponential terms with terminal elimination half-lives (t½) of 9 - 36 days for amiodarone and 9 - 30 days for DEA.
-The clearance of amiodarone and DEA ranged between 63 - 231 mL/hr/kg and 140 - 400 ml/h/kg, respectively.
-In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/hr/kg.
+The clearance of amiodarone and DEA ranged between 63 - 231 mL/h/kg and 140 - 400 ml/h/kg, respectively.
+In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/h/kg.
 
-### Special Populations:
+Metabolism: N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans.
+DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone.
+Amiodarone is metabolized to DEA by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P4503A (CYP3A) and CYP2C8.
+The CYP3A isoenzyme is present in both the liver and intestines.
 
-Effect of Age: The pharmacokinetics of amiodarone and DEA are affected by age.
-Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t½ from about 20 to 47 days.
+Specific Populations: Age: The pharmacokinetics of amiodarone and DEA are affected by age.
+Normal subjects over 65 years of age show lower clearances (about 100 mL/h/kg) than younger subjects (about 150 mL/h/kg) and an increase in t½ from about 20 to 47 days.
 
-Effect of Gender: Pharmacokinetics of amiodarone and DEA are similar in males and females.
+Sex: Pharmacokinetics of amiodarone and DEA are similar in males and females.
 
 Renal Impairment: Renal disease does not influence the pharmacokinetics of amiodarone or DEA.
 
@@ -79,24 +72,16 @@ Cardiac Disease: In patients with severe left ventricular dysfunction, the pharm
 
 Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
 
-### Exposure-Response:
+Drug Interactions:
 
-There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.
-
-### Drug Interactions:
-
-Effect of other drugs on amiodarone:
-
-Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
+Effect of other drugs on amiodarone: Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
 
 Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
 
 Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination.
 This results in reduced amiodarone serum levels and half-life.
 
-Effect of amiodarone on other drugs:
-
-Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
+Effect of amiodarone on other drugs: Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
 Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone.
@@ -112,10 +97,5 @@ Amiodarone taken concomitantly with digoxin increases the serum digoxin concentr
 Dextromethorphan is a substrate for both CYP2D6 and CYP3A.
 Amiodarone inhibits CYP2D6.Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations.
 
-Dabigatran etexilate when taken concomitantly with oral amiodarone can result in elevated serum concentration of dabigatran.
-
 Cyclophosphamide is a prodrug, metabolized by CYP450 including CYP3A to an active metabolite.
 The metabolism of cyclophosphamide may be inhibited by amiodarone.
-
-Clopidogrel, an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.
-A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported.

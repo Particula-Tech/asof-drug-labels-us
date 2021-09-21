@@ -1,53 +1,20 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Pharmacodynamic Interactions
+Drug interactions with amiodarone are described in Table 5 below.
 
-Drugs prolonging the QT interval: Co-administration of drugs prolonging the QT interval (such as class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents) increases the risk of Torsade de Pointes.
-In general, avoid concomitant use of drugs that prolong the QT interval [see Warnings and Precautions (5.4)].
+Table 5: Amiodarone Drug Interactions
 
-Drugs that slow heart rate: Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, ivabradine, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
-Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
-
-## 7.2 Pharmacokinetic Interactions
-
-Effect of other drugs on amiodarone
-
-Amiodarone is metabolized to the active metabolite desethylamiodarone (DEA) by the cytochrome P450 (CYP450) enzyme group, specifically CYP3A and CYP2C8.
-Amiodarone has the potential for interactions with drugs or substances that may be substrates, inhibitors or inducers of CYP450 enzymes (e.g., inhibitors such as protease inhibitors, grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals and inducers such as St. John’s Wort) or P-glycoprotein.
-In view of the long and variable half-life of amiodarone, potential for drug interactions exists not only with concomitant medication but also with drugs administered after discontinuation of amiodarone [see Clinical Pharmacology (12.3)].
-
-Patients should avoid grapefruit juice beverages while taking amiodarone because exposure to amiodarone is significantly increased [see Clinical Pharmacology (12.3)].
-
-Effect of amiodarone on other drugs
-
-Amiodarone and DEA are inhibitors of P-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6 and CYP3A [see Clinical Pharmacology (12.3)].
-
-Antiarrhythmics: The metabolism of quinidine, procainamide, flecainide can be inhibited by amiodarone.
-In general, initiate any added antiarrhythmic drug at a lower than usual dose and monitor the patient carefully.
-During transfer to oral amiodarone, reduce the dose levels of previously administered agents by 30 to 50% several days after the addition of oral amiodarone.
-Review the continued need for the other antiarrhythmic agent after the effects of amiodarone have been established, and attempt discontinuation [see Clinical Pharmacology (12.3)].
-
-Digoxin: In patients receiving digoxin therapy, administration of oral amiodarone results in an increase in serum digoxin concentration.
-Reduce dose of digoxin by half or discontinue digoxin.
-If digitalis treatment is continued, monitor serum levels closely and observe patients for clinical evidence of toxicity [see Clinical Pharmacology (12.3)].
-
-HMG-CoA Reductase Inhibitors: Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
-Limit the daily dose of lovastatin to 40 mg.
-Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as amiodarone may increase the plasma concentration of these drugs.
-
-Anticoagulants: Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
-Since the concomitant administration of warfarin with amiodarone increases the INR by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor INR closely.
-
-Cyclosporine (CYP3A substrate) administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
-Monitor cyclosporine drug levels and renal function in patients taking both drugs.
-
-Increased steady-state levels of phenytoin during concomitant therapy with amiodarone have been reported.
-Monitor phenytoin levels in patients taking both drugs.
-
-## 7.3 Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
-
-Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
-Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
-Bradycardia generally resolved after discontinuation of antiviral treatment.
-The mechanism for this effect is unknown.
-Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
+| Concomitant Drug Class/Name | Examples | Clinical Comment |
+| --- | --- | --- |
+| QT Prolonging Drugs | class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents | Increased risk of Torsade de Pointes. Avoid concomitant use. |
+| Negative Chronotropes | digoxin, beta blockers, verapamil, diltiazem, clonidine, ivabradine | Potentiates the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest and AV block. Monitor heart rate. |
+| CYP450 Inhibitors | Grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals, cimetidine | Increased exposure of amiodarone. Avoid concomitant use. |
+| CYP450 Inducers | St. John’s Wort | Reduced amiodarone serum levels |
+| Cyclosporine |  | Increased plasma levels of cyclosporine have been reported resulting in elevated creatinine, despite reduction of cyclosporine dose. Monitor cyclosporine drug levels and renal function with concomitant use. |
+| Cholestyramine |  | Reduced amiodarone serum levels |
+| Antiarrhythmics | quinidine, procainamide, flecainide | Reserve concomitant use for patients who are unresponsive to a single agent. Antiarrhythmic metabolism inhibited by amiodarone. Initiate antiarrhythmic at a lower than usual dose and monitor patient carefully. Reduce dose levels of previously administered antiarrhythmic by 30 to 50% for several days after transitioning to oral amiodarone. Evaluate continued need for antiarrhythmic. |
+| Digoxin |  | Increased digoxin concentration. Reduce digoxin by half or discontinue. If continued, monitor for evidence of toxicity. |
+| HMG-CoA Reductase Inhibitors | simvastatin, lovastatin, atorvastatin | Increased plasma concentration of HMG-CoA reductase inhibitor. Limit the dose of lovastatin to 40 mg. Limit the coadministered dose of simvastatin to 20 mg. Lower starting dose of other CYP3A4 substrates may be required. |
+| Warfarin |  | Potentiates anticoagulant response and can result in serious or fatal bleeding. Coadministration increases INR by 100% after 3 to 4 days. Reduce warfarin dose by one-third to one-half and monitor INR. |
+| Phenytoin |  | Increased steady state levels of phenytoin. Monitor phenytoin levels. |
+| Hepatitis C direct acting antiviral | Sofosbuvir | Cases of symptomatic bradyarrhythmia requiring pacemaker insertion have been reported in patients on oral maintenance amiodarone who initiated therapy with Sofosbuvir. |

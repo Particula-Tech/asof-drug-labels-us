@@ -87,23 +87,6 @@ USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-LOT #: NC123456 EXP: JAN 00
-
-Nexterone (amiodarone HCI) Premixed Injection
-
-360 mg/200 mL (1.8 mg/mL)
-
-Barcode (01)10343066360204(17)000131(21)100000017932(10)NC123456
-
-Contains: 10 x 200 mL GALAXY Single-Dose Containers NDC 43066-360-20 Code: 2G3450 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-See USP Controlled Room Temperature.
-Protect from freezing.
-Avoid excessive heat.
-
-Bar code (01) 10343066360204 (21) 100000017932 (17) 000131 (10) NC123456
-
-Rx Only Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-06-77-424
-
 NDC 43066-150-10 For Intravenous Use
 
 Nexterone (amiodarone HCl) Premixed Injection
@@ -193,20 +176,3 @@ For Intravenous Use
 Nexterone (amiodarone HCl) Premixed Injection
 
 150 mg/100 mL (1.5 mg/mL)
-
-LOT #: NC123456 EXP: JAN 00
-
-Nexterone (amiodarone HCI) Premixed Injection
-
-150 mg/100 mL (1.5 mg/mL)
-
-Barcode (01)10343066150102(17)000131(21)100000002437(10)NC123456
-
-Contains: 12 x 100 mL GALAXY Single-Dose Containers NDC 43066-150-10 Code: 2G3451 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-See USP Controlled Room Temperature.
-Protect from freezing.
-Avoid excessive heat.
-
-Barcode (01) 1034066150102 (21) 100000002437 (17) 000131 (10) NC123456
-
-Rx Only Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-06-77-423
