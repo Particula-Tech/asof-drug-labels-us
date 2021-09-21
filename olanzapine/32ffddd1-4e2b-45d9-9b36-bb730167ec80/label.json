@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA213378"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Alkermes, Inc.",
+  "package_ndcs": [
+    "65757-651-40",
+    "65757-651-42",
+    "65757-651-44",
+    "65757-652-40",
+    "65757-652-42",
+    "65757-652-44",
+    "65757-653-40",
+    "65757-653-42",
+    "65757-653-44",
+    "65757-654-40",
+    "65757-654-42",
+    "65757-654-44"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olanzapine and samidorphan l-malate",
+      "name": "LYBALVI"
+    }
+  ],
+  "setid": "32ffddd1-4e2b-45d9-9b36-bb730167ec80",
+  "source": "dailymed"
+}
