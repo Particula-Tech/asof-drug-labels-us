@@ -6,17 +6,19 @@ Lansoprazole
 
 Delayed-Release
 
-Capsules USP, 15 mg
+Capsules, USP
+
+15 mg
 
 PHARMACIST: PLEASE DISPENSE
 
-WITH ATTACHED MEDICATION GUIDE
+WITH ACCOMPANYING
+
+MEDICATION GUIDE
 
 Rx only
 
-30 CAPSULES
-
-TEVA
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -26,14 +28,16 @@ Lansoprazole
 
 Delayed-Release
 
-Capsules USP, 30 mg
+Capsules, USP
+
+30 mg
 
 PHARMACIST: PLEASE DISPENSE
 
-WITH ATTACHED MEDICATION GUIDE
+WITH ACCOMPANYING
+
+MEDICATION GUIDE
 
 Rx only
 
-30 CAPSULES
-
-TEVA
+30 Capsules
