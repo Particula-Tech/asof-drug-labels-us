@@ -10,8 +10,6 @@ Rx only
 
 100 TABLETS
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 0093-5417-01
@@ -24,8 +22,6 @@ Rx only
 
 100 TABLETS
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 0093-5419-01
@@ -37,5 +33,3 @@ Phenylketonurics: Contains phenylalanine 11.2 mg per each 100 mg orally disinteg
 Rx only
 
 100 TABLETS
-
-TEVA
