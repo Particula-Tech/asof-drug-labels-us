@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214331"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "36000-306-60"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "0f67c1bd-915b-4681-88dd-22f5154a80b3",
+  "source": "dailymed"
+}
