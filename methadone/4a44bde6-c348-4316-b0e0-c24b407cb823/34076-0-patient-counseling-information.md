@@ -119,4 +119,4 @@ Manufactured for:
 
 VistaPharm, Inc. Largo, FL 33771, USA
 
-VP2002R1 05/2021
+VP2002R2 08/2021

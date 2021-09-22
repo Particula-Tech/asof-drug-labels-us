@@ -3,7 +3,7 @@
 ## 5.1 Addiction, Abuse and Misuse
 
 Methadone hydrochloride tablets contain methadone, a Schedule II controlled substance.
-As an opioid, methadone hydrochloride tablets exposes users to the risks of addiction, abuse, and misuse.
+As an opioid, methadone hydrochloride tablets expose users to the risks of addiction, abuse, and misuse.
 As long-acting opioids such as methadone hydrochloride tablets have pharmacological effects over an extended period of time, there is a greater risk for overdose and death [see DRUG ABUSE AND DEPENDENCE (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed methadone hydrochloride tablets.
@@ -11,7 +11,7 @@ Addiction can occur at recommended doses and if the drug is misused or abused.
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing methadone hydrochloride tablets, and monitor all patients receiving methadone hydrochloride tablets for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
-The potential for these risks should not, however, prevent the prescribing of methadone hydrochloride tablets for the proper management of pain in any given patient.
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as methadone hydrochloride tablets, but use in such patients necessitates intensive counseling about the risks and proper use of methadone hydrochloride tablets along with the intensive monitoring for signs of addiction, abuse, and misuse.
 Consider prescribing naloxone for the emergency treatment of opioid overdose [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.3)].
 
@@ -72,6 +72,7 @@ The presence of risk factors for overdose should not prevent the proper manageme
 For Patients Being Treated for Opioid Addiction
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets itself [see OVERDOSAGE (10)].
 
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.

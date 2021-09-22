@@ -23,7 +23,7 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 
 ## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with methadone hydrochloride tablets [see WARNINGS AND PRECAUTIONS (5.3), OVERDOSAGE(10)].
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with methadone hydrochloride tablets [see WARNINGS AND PRECAUTIONS (5.1, 5.3, 5.7), OVERDOSAGE (10)].
 
 For Patients Being Treated for Pain
 
@@ -35,6 +35,7 @@ The presence of risk factors for overdose should not prevent the proper manageme
 For Patients Being Treated for Opioid Addiction
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets itself.
 
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.

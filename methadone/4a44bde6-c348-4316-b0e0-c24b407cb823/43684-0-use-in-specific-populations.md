@@ -10,7 +10,7 @@ Pregnant women involved in methadone maintenance programs have been reported to 
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure in these studies appears to occur after the first trimester of pregnancy (see Data).
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see WARNINGS AND PRECAUTIONS (5.5)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see WARNINGS AND PRECAUTIONS (5.6)].
 
 In published animal reproduction studies, methadone administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) in the hamster at doses 2 times the human daily oral dose of 120 mg/day on a mg/m2 basis (HDD) and in mice at doses equivalent to the HDD.
 Administration of methadone to pregnant animals during organogenesis and through lactation resulted decreased litter size, increased pup mortality, decreased pup body weights, developmental delays, and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD.
@@ -28,7 +28,7 @@ In addition, untreated opioid addiction often results in continued or relapsing 
 
 Dosage Adjustment During Pregnancy: Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with methadone hydrochloride tablets.
 Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
-[see DOSAGE AND ADMINISTRATION (2.11) and Clinical Pharmacology (12.3)].
+[see DOSAGE AND ADMINISTRATION (2.9) and Clinical Pharmacology (12.3)].
 Withdrawal signs and symptoms should be closely monitored and the dose adjusted as necessary.
 
 Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with methadone hydrochloride tablets.
@@ -36,7 +36,7 @@ Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS AND PRECAUTIONS (5.5)].
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS AND PRECAUTIONS (5.6)].
 
 Labor or Delivery: Opioid-dependent women on methadone maintenance therapy may require additional analgesia during labor.
 
@@ -53,7 +53,7 @@ A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 
 
 Among women who remained in treatment until delivery, there was no difference between methadone-treated and buprenorphine-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
 Buprenorphine-exposed neonates required less morphine (mean total dose, 1.1 mg vs 10.4 mg), had shorter hospital stays (10.0 days vs. 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs. 9.9 days) compared to the methadone-exposed group.
-There were no differences between groups in other primary outcomes (neonatal head circumference) or secondary outcomes (Weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
+There were no differences between groups in other primary outcomes (neonatal head circumference) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
 The outcomes among mothers who discontinued treatment before delivery and may have relapsed to illicit opioid use are not known.
 Because of the imbalance in discontinuation rates between the methadone and buprenorphine groups, the study findings are difficult to interpret.
 

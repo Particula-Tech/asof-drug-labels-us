@@ -38,7 +38,7 @@ Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, d
 
 Hematologic: reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
 
-Metabolic: hypokalemia, hypomagnesemia, weight gain
+Metabolic: hypoglycemia, hypokalemia, hypomagnesemia, weight gain
 
 Renal: antidiuretic effect, urinary retention or hesitancy
 
