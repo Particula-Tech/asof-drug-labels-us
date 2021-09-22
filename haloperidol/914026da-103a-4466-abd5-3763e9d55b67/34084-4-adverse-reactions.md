@@ -26,14 +26,14 @@ These clinical trials comprised:
 - 9 open-label trials.
 - 1 dose-response trial.
 
-The most common adverse reactions in haloperidol decanoate-treated patients in the double-blind, active comparator-controlled clinical trial with fluphenazine decanoate (>5%) were: Parkinsonism, and oculogyric crisis.
+The most common adverse reactions in haloperidol decanoate-treated patients in the double-blind, active comparator-controlled clinical trial with fluphenazine decanoate (≥5%) were: Parkinsonism, and oculogyric crisis.
 
 ## Adverse Reactions Reported at ≥1% Incidence in a Double-Blind Active Comparator-Controlled Clinical Trial
 
-Adverse reactions occurring in ³1% of haloperidol decanoate-treated patients in a double-blind, clinical trial with the active comparator fluphenazine decanoate are shown in Table 1.
+Adverse reactions occurring in ≥1% of haloperidol decanoate-treated patients in a double-blind, clinical trial with the active comparator fluphenazine decanoate are shown in Table 1.
 
 Table 1.
-Adverse Reactions Reported by >1% of Haloperidol Decanoate-treated Patients in a Double-Blind, Active Comparator-Controlled Clinical Trial with Fluphenazine Decanoate
+Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in a Double-Blind, Active Comparator-Controlled Clinical Trial with Fluphenazine Decanoate
 
 | System/Organ ClassAdverse Reaction | Haloperidol decanoate(n=36)% | Fluphenazine decanoate(n=36)% |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Adverse Reactions Reported by >1% of Haloperidol Decanoate-treated Patients in a
 | Akinesia | 2.8 | 22.2 |
 | Akathisia | 2.8 | 13.9 |
 | Tremor | 2.8 | 0 |
-| Heachache | 2.8 | 0 |
+| Headache | 2.8 | 0 |
 
 a Precise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug
 
@@ -72,7 +72,7 @@ Nervous System Disorders: Dyskinesia, Dystonia, Cogwheel rigidity, Hypertonia, M
 
 Reproductive System and Breast Disorders: Erectile dysfunction
 
-## Adverse Reactions Identified in Clinical Trials with Haloperidol (Non-Decanoate Formulations
+## Adverse Reactions Identified in Clinical Trials with Haloperidol (Non-Decanoate Formulations)
 
 The adverse reactions listed below were identified with non-decanoate formulations, and reflect exposure to the active moiety haloperidol in the following:
 
@@ -82,7 +82,7 @@ The adverse reactions listed below were identified with non-decanoate formulatio
 
 Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle twitching
 
-Nervous system Disorders: Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
+Nervous System Disorders: Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
 
 Psychiatric Disorders: Loss of libido, Restlessness
 
@@ -99,7 +99,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
 
-Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Venticular tachycardia, Extrasystoles
+Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
 
 Endocrine Disorders: Inappropriate antidiuretic hormone secretion
 
@@ -129,4 +129,4 @@ Reproductive System and Breast Disorders: Priapism, Gynecomastia
 
 Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritis, Rash, Hyperhidrosis
+Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis
