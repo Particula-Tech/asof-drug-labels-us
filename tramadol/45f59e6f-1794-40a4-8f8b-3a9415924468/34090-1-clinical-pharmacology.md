@@ -66,7 +66,7 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 ## 12.3 Pharmacokinetics
 
-The analgesic activity of ULTRAM is due to both parent drug and the M1 metabolite [see Clinical Pharmacology (12.1,12.2)].
+The analgesic activity of ULTRAM is due to both parent drug and the M1 metabolite [see Clinical Pharmacology (12.1, 12.2)].
 Tramadol is administered as a racemate and both the [-] and [+] forms of both tramadol and M1 are detected in the circulation.
 Linear pharmacokinetics have been observed following multiple doses of 50 and 100 mg to steady-state.
 
@@ -163,4 +163,4 @@ Poor / Extensive Metabolizers, CYP2D6
 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P450 metabolizing enzyme system.
 These individuals are "poor metabolizers" of debrisoquine, dextromethorphan and tricyclic antidepressants, among other drugs.
-Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower
+Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
