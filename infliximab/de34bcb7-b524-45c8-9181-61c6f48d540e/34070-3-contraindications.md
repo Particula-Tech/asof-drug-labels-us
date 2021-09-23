@@ -1,7 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-AVSOLA at doses >5 mg/kg should not be administered to patients with moderate to severe heart failure.
-In a randomized study evaluating infliximab in patients with moderate to severe heart failure (New York Heart Association [NYHA] Functional Class III/IV), infliximab treatment at 10 mg/kg was associated with an increased incidence of death and hospitalization due to worsening heart failure [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+The use of AVSOLA at doses >5 mg/kg is contraindicated in patients with moderate or severe heart failure [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
-AVSOLA should not be re-administered to patients who have experienced a severe hypersensitivity reaction to infliximab products.
-Additionally, AVSOLA should not be administered to patients with known hypersensitivity to inactive components of the product or to any murine proteins.
+AVSOLA is contraindicated in patients with a previous severe hypersensitivity reaction to infliximab products or any of the inactive ingredients of AVSOLA or any murine proteins [severe hypersensitivity reactions have included anaphylaxis, hypotension, and serum sickness] [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
