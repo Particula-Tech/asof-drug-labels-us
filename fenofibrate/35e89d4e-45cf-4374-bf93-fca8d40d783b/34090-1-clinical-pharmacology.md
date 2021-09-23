@@ -69,31 +69,26 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 | --- | --- | --- | --- | --- |
 |  |  | AUC | Cmax |  |
 | Lipid-lowering agents |  |  |  |  |
-| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
-| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
-| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg1 as a single dose | ↓2% | ↓10% |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓2% | ↓10% |
 | Anti-diabetic agents |  |  |  |  |
-| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
-| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
-| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑1% | ↓1% |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑10% | ↑3% |
 
 Table 3.
 Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Analyte | AUC | Cmax |  |  |  |  |  |  |  |
-| Lipid-lowering agents |  |  |  |  |  |  |  |  |  |
-| Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |  |  |  |  |  |
-| Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |  |  |  |  |  |
-|  |  | 3α-Hydroxyl- iso-pravastatin | ↑26% | ↑29% |  |  |  |  |  |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |  |  |  |  |  |
-| Anti-diabetic agents |  |  |  |  |  |  |  |  |  |
-| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |  |  |  |  |  |
-| Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |  |  |  |  |  |
-| Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |  |  |  |  |  |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |  |  |  |  |  |
-
-2 TriCor (fenofibrate) oral micronized capsule
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
+| --- | --- | --- | --- | --- |
+| Analyte | AUC | Cmax |  |  |
+| Lipid-lowering agents |  |  |  |  |
+| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 x 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+|  |  | 3α-Hydroxyl- iso-pravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Anti-diabetic agents |  |  |  |  |
+| Fenofibrate 145 mg once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 54 mg three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
+| Fenofibrate 145 mg once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
