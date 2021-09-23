@@ -184,3 +184,11 @@ Active ingredient: clonazepam
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose, with the following colorants: 0.5 mg – D&C Yellow #10 aluminum lake; 1 mg – FD&C Blue #1 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+
+Manufactured for: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+
+Revised: 06/2017
+
+9040314-01
