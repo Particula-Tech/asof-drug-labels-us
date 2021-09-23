@@ -1,4 +1,4 @@
-MEDICATION GUIDE WELLBUTRIN XL® (WELL-byu-trin) (bupropion hydrochloride) Extended-Release Tablets
+MEDICATION GUIDE WELLBUTRIN XL® (WELL-byu-trin) (bupropion hydrochloride extended-release) tablets
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
 The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About Wellbutrin XL?”
@@ -63,19 +63,6 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 When you try to quit smoking, with or without bupropion you may have symptoms that may be due to nicotine withdrawal, including:
 
-- •urge to smoke
-- •depressed mood
-- •trouble sleeping
-- •irritability
-- •frustration
-- •anger
-- •feeling anxious
-- •difficulty concentrating
-- •restlessness
-- •decreased heart rate
-- •increased appetite
-- •weight gain
-
 Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
 Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
 
@@ -95,8 +82,8 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About Wellbutrin XL?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with Wellbutrin XL, especially in people:
-  - owith certain medical problems.
-  - owho take certain medicines.
+  - •with certain medical problems.
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of Wellbutrin XL.
 For more information, see the sections “Who should not take Wellbutrin XL?” and “What should I tell my healthcare provider before taking Wellbutrin XL?”
@@ -222,15 +209,6 @@ See the sections at the beginning of this Medication Guide for information about
 
 The most common side effects of Wellbutrin XL include:
 
-- •trouble sleeping
-- •stuffy nose
-- •dry mouth
-- •dizziness
-- •feeling anxious
-- •nausea
-- •constipation
-- •joint aches
-
 If you have trouble sleeping, do not take Wellbutrin XL too close to bedtime.
 
 Tell your healthcare provider right away about any side effects that bother you.
@@ -272,25 +250,13 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: ethylcellulose, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
-Distributed by:
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch Health Companies, Inc.
-
-Steinbach, MB R5G 1Z7, Canada
-
-Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 
 APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 All other product/brand names are the trademarks of the respective owners.
-
-U.S. Patent Number: 7,537,784
 
 © 2021 Bausch Health Companies Inc. or its affiliates
 

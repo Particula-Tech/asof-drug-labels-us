@@ -169,7 +169,7 @@ There was a dose-related decrease in body weight.
 
 Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion HCl Sustained-Release
 
-| Weight Change | Bupropion HClSustained- Release 300 mg/day (n=339) | Bupropion HCl Sustained- Release 400 mg/day (n=112) | Placebo (n=347) |
+| Weight Change | Bupropion HCl Sustained- Release 300 mg/day (n=339) | Bupropion HCl Sustained- Release 400 mg/day (n=112) | Placebo (n=347) |
 | --- | --- | --- | --- |
 | Gained >5 lbs | 3% | 2% | 4% |
 | Lost >5 lbs | 14% | 19% | 6% |

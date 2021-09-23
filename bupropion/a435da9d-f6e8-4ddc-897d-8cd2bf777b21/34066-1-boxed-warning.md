@@ -3,7 +3,7 @@
 SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term trials.
-These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects aged 65 and older [seeWarnings and Precautions (5.1)].
+These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects aged 65 and older [see Warnings and Precautions (5.1)].
 
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
-Advise families and caregivers of the need for close observation and communication with the prescriber [seeWarnings and Precautions (5.1)].
+Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
