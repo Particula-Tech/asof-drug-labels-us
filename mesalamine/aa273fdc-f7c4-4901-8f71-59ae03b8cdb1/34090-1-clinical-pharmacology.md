@@ -6,6 +6,7 @@ Azad Khan et al, Lancet 2:892-895 (1977)].
 The usual oral dose of sulfasalazine for active ulcerative colitis in adults is two to four grams per day in divided doses.
 Four grams of sulfasalazine provide 1.6 g of free mesalamine to the colon.
 Each sfROWASA® (mesalamine) Rectal Suspension delivers up to 4 g of mesalamine to the left side of the colon.
+
 The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
 Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
 
@@ -13,13 +14,13 @@ Mucosal production of arachidonic acid (AA) metabolites, both through the cycloo
 
 Preclinical studies have shown the kidney to be the major target organ for mesalamine toxicity.
 Adverse renal function changes were observed in rats after a single 600 mg/kg oral dose, but not after a 200 mg/kg dose.
-Gross kidney lesions, including papillary necrosis, were observed after a single oral > 900 mg/kg dose, and after I.V. doses of > 214 mg/kg.
+Gross kidney lesions, including papillary necrosis, were observed after a single oral >900 mg/kg dose, and after I.V. doses of >214 mg/kg.
 Mice responded similarly.
 In a 13-week oral (gavage) dose study in rats, the high dose of 640 mg/kg/day mesalamine caused deaths, probably due to renal failure, and dose-related renal lesions (papillary necrosis and/or multifocal tubular injury) were seen in most rats given the high dose (males and females) as well as in males receiving lower doses 160 mg/kg/day.
 Renal lesions were not observed in the 160 mg/kg/day female rats.
 Minimal tubular epithelial damage was seen in the 40 mg/kg/day males and was reversible.
-In a six-month oral study in dogs, the no - observable dose level of mesalamine was 40 mg/kg/day and doses of 80 mg/kg/day and higher caused renal pathology similar to that described for the rat.
-In a combined 52-week toxicity and 127-week carcinogenicity study in rats, degeneration in kidneys was observed at doses of 100 mg/kg/day and above admixed with diet for 52 weeks, and at 127 weeks increased incidence of kidney degeneration and hyalinization of basement membranes and Bowman’s capsule were seen at 100 mg/kg/day and above.
+In a six-month oral study in dogs, the no-observable dose level of mesalamine was 40 mg/kg/day and doses of 80 mg/kg/day and higher caused renal pathology similar to that described for the rat.
+In a combined 52-week toxicity and 127-week carcinogenicity study in rats, degeneration in kidneys was observed at doses of 100 mg/kg/day and above admixed with diet for 52 weeks, and at 127 weeks increased incidence of kidney degeneration and hyalinization of basement membranes and Bowman's capsule were seen at 100 mg/kg/day and above.
 In the 12-month eye toxicity study in dogs, Keratoconjunctivitis Sicca (KCS) occurred at oral doses of 40 mg/kg/day and above.
 The oral preclinical studies were done with a highly bioavailable suspension where absorption throughout the gastrointestinal tract occurred.
 The human dose of 4 grams represents approximately 80 mg/kg but when mesalamine is given rectally as a suspension, absorption is poor and limited to the distal colon (see Pharmacokinetics).
@@ -29,10 +30,9 @@ Overt renal toxicity has not been observed (see ADVERSE REACTIONS and PRECAUTION
 
 Mesalamine administered rectally is poorly absorbed from the colon and is excreted principally in the feces during subsequent bowel movements.
 The extent of absorption is dependent upon the retention time of the drug product, and there is considerable individual variation.
-At steady state, approximately 10 to 30% of the daily 4 grams dose can be recovered in cumulative 24-hour urine collections.
+At steady state, approximately 10 to 30% of the daily 4-gram dose can be recovered in cumulative 24-hour urine collections.
 Other than the kidney, the organ distribution and other bioavailability characteristics of absorbed mesalamine in man are not known.
 It is known that the compound undergoes acetylation but whether this process takes place at colonic or systemic sites has not been elucidated.
-
 Whatever the metabolic site, most of the absorbed mesalamine is excreted in the urine as the N-acetyl-5-ASA metabolite.
 The poor colonic absorption of rectally administered mesalamine is substantiated by the low serum concentration of 5-ASA and N-acetyl-5-ASA seen in ulcerative colitis patients after dosage with mesalamine.
 Under clinical conditions patients demonstrated plasma levels 10 to 12 hours post mesalamine administration of 2 µg/mL, about two-thirds of which was the N-acetyl metabolite.
