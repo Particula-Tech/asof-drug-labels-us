@@ -2,10 +2,10 @@
 
 ## 5.1 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
 The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
@@ -26,14 +26,14 @@ Monitor for the development of infection and adjust the immunosuppressive regime
 
 ## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products - Medication Errors
 
-Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
+Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or overexposure to tacrolimus.
 Tacrolimus capsules are not interchangeable or substitutable for tacrolimus extended-release products.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
 Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
-Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, and heart transplantation.
+Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, or heart transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].
@@ -76,7 +76,7 @@ Monitor patients for anaphylaxis when using the intravenous route of administrat
 
 Tacrolimus is not recommended for use with sirolimus:
 
-- •The use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended.
+- •The use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT), and is not recommended.
 - •The use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers

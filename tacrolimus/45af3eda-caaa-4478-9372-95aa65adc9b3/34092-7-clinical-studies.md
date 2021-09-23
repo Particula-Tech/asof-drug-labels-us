@@ -11,7 +11,7 @@ Patients less than 6 years of age were excluded.
 
 There were 205 patients randomized to tacrolimus-based immunosuppression and 207 patients were randomized to cyclosporine-based immunosuppression.
 All patients received prophylactic induction therapy consisting of an antilymphocyte antibody preparation, corticosteroids, and azathioprine.
-Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
+Overall, 1-year patient and graft survivals were 96.1% and 89.6%, respectively.
 
 Data from this trial of tacrolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
 

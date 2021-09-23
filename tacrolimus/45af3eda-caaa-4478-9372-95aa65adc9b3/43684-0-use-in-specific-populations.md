@@ -97,7 +97,7 @@ Effects on parturition (incomplete delivery of nonviable pups) were observed at 
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
@@ -116,7 +116,7 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 Safety and effectiveness have been established in pediatric liver transplant patients.
 
-### Liver Transplant
+### Liver Transplantation
 
 Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.

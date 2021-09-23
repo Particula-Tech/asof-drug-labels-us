@@ -2,8 +2,8 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- •Lymphoma and Other Malignancies [see Boxed Warning, Warnings and Precautions (5.1)]
-- •Serious Infections [see Boxed Warning, Warnings and Precautions (5.2)]
+- •Lymphoma and Other Malignancies [see Warnings and Precautions (5.1)]
+- •Serious Infections [see Warnings and Precautions (5.2)]
 - •New Onset Diabetes After Transplant [see Warnings and Precautions (5.4)]
 - •Nephrotoxicity [see Warnings and Precautions (5.5)]
 - •Neurotoxicity [see Warnings and Precautions (5.6)]
@@ -95,16 +95,16 @@ Such trials often report a lower incidence of adverse reactions in comparison to
 Table 5.
 Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
 
-|  | Tacrolimus (Group C)(N = 403) | Cyclosporine (Group A)(N = 384) | Cyclosporine (Group B)(N = 408) |  |
-| --- | --- | --- | --- | --- |
-| Diarrhea | 25% | 16% | 13% |  |
-| Urinary Tract Infection | 24% | 28% | 24% |  |
-| Anemia | 17% | 19% | 17% |  |
-| Hypertension | 13% | 14% | 12% |  |
-| Leukopenia | 13% | 10% | 10% |  |
-| Edema Peripheral | 11% | 12% | 13% |  |
-| Hyperlipidemia | 10% | 15% | 13% |  |
-| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |  |
+|  | Tacrolimus (Group C)(N = 403) | Cyclosporine (Group A)(N = 384) | Cyclosporine (Group B)(N = 408) |
+| --- | --- | --- | --- |
+| Diarrhea | 25% | 16% | 13% |
+| Urinary Tract Infection | 24% | 28% | 24% |
+| Anemia | 17% | 19% | 17% |
+| Hypertension | 13% | 14% | 12% |
+| Leukopenia | 13% | 10% | 10% |
+| Edema Peripheral | 11% | 12% | 13% |
+| Hyperlipidemia | 10% | 15% | 13% |
+| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received tacrolimus (n = 212) or cyclosporine (n = 212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
 The trial population had a mean age of 48 years (range 17 to 77); the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
@@ -350,11 +350,11 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Hear
 
 Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies: The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-- •Nervous System: [see Warnings and Precautions (5.6)]: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
+- •Nervous System: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 - •Special Senses: Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
 - •Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, esophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, stomatitis
 - •Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation
-- •Urogenital: Acute kidney failure [see Warnings and Precautions (5.5)], albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
+- •Urogenital: Acute kidney failure, albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
 - •Metabolic/Nutritional: Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increased, weight gain
 - •Endocrine: Cushing’s syndrome
 - •Hemic/Lymphatic: Coagulation disorder, ecchymosis, hematocrit increased, hypochromic anemia, leukocytosis, polycythemia, prothrombin decreased, serum iron decreased
@@ -366,7 +366,7 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 6.2 Postmarketing Adverse Reactions
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported from worldwide marketing experience with tacrolimus.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -374,14 +374,14 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Other reactions include:
 
-- •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see Warnings and Precautions (5.13)]
+- •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
 - •Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
-- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
-- •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss [see Warnings and Precautions (5.2)]
+- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia
+- •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss
 - •Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
 - •Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
-- •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
+- •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES), progressive multifocal leukoencephalopathy (PML), quadriplegia, speech disorder, syncope
 - •Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - •Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
