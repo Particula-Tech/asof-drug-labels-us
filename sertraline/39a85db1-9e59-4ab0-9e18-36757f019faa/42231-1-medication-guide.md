@@ -208,8 +208,8 @@ What are the ingredients in sertraline hydrochloride tablets?
 Active ingredient: sertraline hydrochloride Inactive ingredients: Tablets: microcrystalline cellulose, sodium starch glycolate, hydroxypropyl cellulose, dibasic calcium phosphate dihydrate, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and polysorbate 80.
 Besides, 25 mg contains D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake; 50 mg contains FD&C blue #2 aluminum lake; and 100 mg contains iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 03/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 032, India Revised: 09/2021

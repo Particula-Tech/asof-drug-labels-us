@@ -11,4 +11,4 @@ Discontinuation Syndrome Advise patients not to abruptly discontinue sertraline 
 Adverse reactions can occur when sertraline hydrochloride is discontinued [See Warnings and Precautions (5.5)].
 Allergic Reactions Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [See Adverse Reactions (6.2)].
 Pregnancy Inform pregnant women that sertraline hydrochloride may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
