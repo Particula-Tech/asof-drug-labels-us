@@ -11,7 +11,6 @@ The concomitant use of TYBOST with atazanavir or darunavir and the following dru
 - Antineoplastics: irinotecanThese contraindications apply only to TYBOST coadministered with atazanavir
 - Antipsychotics: lurasidone, pimozide
 - Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine
-- GI Motility Agent: cisapride
 - Herbal Products: St. John's wort (Hypericum perforatum)
 - Hormonal Contraceptives: drospirenone/ ethinyl estradiol
 - Lipid-modifying Agents: lomitapide, lovastatin, simvastatin

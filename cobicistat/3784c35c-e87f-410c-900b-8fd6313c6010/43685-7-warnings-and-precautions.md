@@ -31,15 +31,15 @@ Renal replacement therapy was not required in any subject.
 Initiation of TYBOST, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving TYBOST, may increase plasma concentrations of medications metabolized by CYP3A and reduce plasma concentrations of active metabolite(s) formed by CYP3A.
 Initiation of medications that inhibit or induce CYP3A may respectively increase or decrease concentrations of TYBOST with atazanavir or darunavir.
 
-Increased concentrations may lead to:
+These interactions may lead to:
 
 - clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from higher exposures of concomitant medications.
 - clinically significant adverse reactions from higher exposures of TYBOST and atazanavir or darunavir.
 
-Decreased concentrations may lead to:
+These interactions may lead to:
 
 - loss of therapeutic effect of TYBOST with atazanavir or darunavir and possible development of resistance.
-- loss of therapeutic effect of the concomitant medications from lower exposures of concomitant drugs or active metabolite(s).
+- loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
 
 See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during TYBOST with atazanavir or darunavir therapy; review concomitant medications during TYBOST with atazanavir or darunavir therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
