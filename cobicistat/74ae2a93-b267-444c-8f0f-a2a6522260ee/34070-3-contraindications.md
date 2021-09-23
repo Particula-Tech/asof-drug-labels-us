@@ -8,7 +8,6 @@ These drugs and other contraindicated drugs (which may lead to reduced efficacy 
 - Antimycobacterial: rifampin
 - Antipsychotics: lurasidone, pimozide
 - Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine
-- GI Motility Agent: cisapride
 - Herbal Products: St. John's wort (Hypericum perforatum)
 - Lipid-modifying Agents: lomitapide, lovastatin, simvastatin
 - Phosphodiesterase-5 (PDE-5) Inhibitor: sildenafil when administered as Revatio® for the treatment of pulmonary arterial hypertension
