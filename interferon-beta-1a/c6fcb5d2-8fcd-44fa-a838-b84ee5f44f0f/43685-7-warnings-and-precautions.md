@@ -29,19 +29,20 @@ Discontinue REBIF if anaphylaxis occurs.
 
 ## 5.4 Injection Site Reactions including Necrosis
 
+Injection site reactions, including injection site necrosis, can occur with the use of interferon beta products, including REBIF.
 In controlled clinical trials, injection site reactions occurred more frequently in REBIF-treated patients (92% in the 44 mcg group and 89% in the 22 mcg group) than in placebo-treated patients (39%) and at a higher frequency in REBIF treated patients (83%) than in AVONEX-treated patients (28%).
 Injection site necrosis also occurred more frequently in REBIF-treated patients (3% in the 44 mcg group and 1% in the 22 mcg group) than in placebo-treated patients (0) during the two years of therapy.
-All events resolved with conservative management.
 
 Injection site reactions including injection site pain, erythema, edema, cellulitis, abscess, and necrosis have been reported in the postmarketing setting.
 Some occurred more than 2 years after initiation of REBIF.
 Necrosis occurred at single and at multiple injection sites.
 Some cases of injection site necrosis required treatment with intravenous antibiotics and surgical intervention (debridement and skin grafting).
+Some cases of injection site abscesses and cellulitis required treatment with hospitalization for surgical drainage and intravenous antibiotics.
 
 Patient understanding and use of aseptic self-injection techniques and procedures should be periodically evaluated, particularly if injection site necrosis has occurred.
 Patients should be advised of the importance of rotating sites of injection with each dose and not reusing syringes.
 Patients should be advised against injecting an area which is inflamed, edematous, erythematous, ecchymotic, or has any other signs of infection.
-These signs should be reported to a healthcare professional immediately.
+These signs should be reported to a healthcare professional immediately
 
 ## 5.5 Decreased Peripheral Blood Counts
 

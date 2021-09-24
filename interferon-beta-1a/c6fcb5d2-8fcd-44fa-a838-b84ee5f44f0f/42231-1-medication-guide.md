@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-REBIF (interferon beta-1a) Injection for subcutaneous use
+REBIF interferon beta-1a Injection for subcutaneous use
 
 Read this Medication Guide before you start using REBIF and each time you get a refill.
 There may be new information.
@@ -26,13 +26,11 @@ Tell your healthcare provider right away if you have any of the symptoms listed 
   - anxiousness
   - feeling faint
   - skin rash, hives, sores in your mouth, or skin blisters and peels
-- 4.Injection site problems.
-  Symptoms at the injection site may include:
-  - redness
-  - pain
-  - swelling
-  - color changes (blue or black)
-  - drainage of fluid
+
+Injection site problems.
+REBIF may cause redness, pain, itching or swelling at the place where your injection was given.
+Call your healthcare provider right away if an injection site becomes swollen and painful or the area looks infected.
+You may have a skin infection or an area of severe skin damage (necrosis) requiring treatment by a healthcare provider.
 
 What is REBIF?
 
@@ -50,7 +48,7 @@ Do not take REBIF if you:
 
 What should I tell my healthcare provider before taking REBIF?
 
-Before you take REBIF, tell your healthcare provider if you have or have had any of the following conditions:
+Before you take REBIF, tell your healthcare provider if have or have had any of the following conditions:
 
 - mental illness, including depression and suicidal behavior
 - liver problems
@@ -143,7 +141,7 @@ General information about the safe and effective use of REBIF
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use REBIF for a condition for which it was not prescribed.
-Do not give REBIF to other people, even if they have the same symptoms that you have.
+Do not give REBIF to other people, even if they have they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about REBIF.
@@ -160,4 +158,4 @@ Inactive ingredients: albumin (human), mannitol, sodium acetate, water for injec
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-05/2020
+08/2021
