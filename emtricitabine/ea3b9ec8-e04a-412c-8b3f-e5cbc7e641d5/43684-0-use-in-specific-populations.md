@@ -9,14 +9,13 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no increase in the risk of overall major birth defects with first trimester exposure for emtricitabine (FTC) or rilpivirine (RPV) compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
-There are insufficient tenofovir alafenamide (TAF) data from the APR to adequately assess the risk of major birth defects.
-In a clinical trial, total rilpivirine exposures were generally lower during pregnancy compared to the postpartum period [see Clinical Pharmacology (12.3)].
-The rate of miscarriage for individual drugs is not reported in the APR.
+Available data from the APR show no statistically significant difference in the overall risk of major birth defects for emtricitabine (FTC), rilpivirine (RPV) or tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
 
 Based on the experience of HIV-1-infected pregnant individuals who completed a clinical trial through the postpartum period with an RPV-based regimen, no dose adjustments are required for pregnant patients who are already on a stable RPV-containing regimen prior to pregnancy and who are virologically suppressed (HIV-1 RNA less than 50 copies per mL).
-Lower exposures of RPV were observed during pregnancy, therefore viral load should be monitored closely [see Data and Clinical Pharmacology (12.3)].
+Lower exposures of RPV were observed during pregnancy compared to the postpartum period.
+Therefore, viral load should be monitored closely [see Data and Clinical Pharmacology (12.3)].
 
 In animal studies, no adverse developmental effects were observed when the components of ODEFSEY were administered separately during the period of organogenesis at exposures up to 60 and 108 times (mice and rabbits, respectively; FTC), 15 and 70 times (rats and rabbits, respectively; RPV) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dose of these components in ODEFSEY (see Data).
 Likewise, no adverse developmental effects were seen when FTC was administered to mice and RPV was administered to rats through lactation at exposures up to approximately 60 and 63 times, respectively, the exposure at the recommended daily dose of these components in ODEFSEY.
@@ -28,12 +27,15 @@ Human Data
 
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to drug components of ODEFSEY are compared with a U.S. background major birth defect rate.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
-Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
-Emtricitabine: Based on prospective reports to the APR of exposures to FTC-containing regimens during pregnancy resulting in live births (including over 2,750 exposed in the first trimester and over 1,200 exposed in the second/third trimester), there was no increase in overall birth defects with FTC compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 3.1%) with first trimester exposure to FTC-containing regimens and 2.3% (95% CI: 1.5% to 3.3%) with second/third trimester exposure to FTC-containing regimens.
+Emtricitabine (FTC):
 
-Rilpivirine: RPV in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant subjects during the second and third trimesters and postpartum.
+Based on prospective reports to the APR of over 5,400 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,900 exposed in the first trimester and over 1,500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) and 2.7% (95% CI: 1.9% to 3.7%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
+
+Rilpivirine (RPV):
+
+RPV in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant subjects during the second and third trimesters and postpartum.
 Each of the subjects were on an RPV-based regimen at the time of enrollment.
 Twelve subjects completed the trial through the postpartum period (6–12 weeks after delivery) and pregnancy outcomes are missing for six subjects.
 The exposure (C0h and AUC) of total RPV was approximately 30 to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
@@ -46,10 +48,9 @@ All 10 infants received antiretroviral prophylactic treatment with zidovudine.
 RPV was well tolerated during pregnancy and postpartum.
 There were no new safety findings compared with the known safety profile of RPV in HIV–1-infected adults.
 
-Based on prospective reports to the APR of over 450 exposures to RPV-containing regimens during pregnancy (including over 290 exposed in the first trimester and over 160 exposed in the second/third trimester), there was no significant increase in overall risk of major birth defects with RPV compared with the background rate of 2.7% for major birth defects in the U.S. reference population of the MACDP.
-The prevalence of major birth defects in live births was 1.0% (95% CI: 0.2% to 2.9%) with first trimester exposure to RPV-containing regimens and 1.2% (95% CI: 0.2% to 4.4%) with second/third trimester exposure to RPV-containing regimens.
+Based on prospective reports to the APR of over 750 exposures to RPV-containing regimens during pregnancy resulting in live births (including over 550 exposed in the first trimester and over 200 exposed in the second/third trimester), the prevalence of birth defects in live births was 1.4% (95% CI: 0.6% to 2.8%) and 1.5% (95% CI: 0.3% to 4.3%) following first and second/third trimester exposure, respectively, to RPV-containing regimens.
 
-Tenofovir Alafenamide: Based on prospective reports to the APR of 85 exposures to TAF-containing regimens during pregnancy (including 56 exposed in the first trimester and 29 exposed in the second/third trimester), there have been 3 birth defects with first trimester exposure to TAF-containing regimens.
+Tenofovir Alafenamide (TAF): Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 
