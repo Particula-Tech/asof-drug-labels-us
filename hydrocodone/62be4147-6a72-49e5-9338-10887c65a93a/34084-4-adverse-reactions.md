@@ -13,7 +13,7 @@ Gastrointestinal System - Constipation.
 
 Genitourinary System - Ureteral spasm, spasm of vesical sphincters, and urinary retention.
 
-Special Senses - Cases of hearing impairment, or permanent loss have been reported predominately in patients with chronic overdose.
+Special Senses - Cases of hearing impairment, or permanent loss have been reported predominantly in patients with chronic overdose.
 
 Dermatological - Skin rash, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, allergic reactions.
 

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Important Dosage and Administration Instructions
+## Important Dosage and Administration Instructions
 
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
 
@@ -8,7 +8,18 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Follow patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Hydrocodone Bitartrate and Acetaminophen Tablets and adjust the dosage accordingly [see WARNINGS].
 
-Initial Dosage
+## Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Hydrocodone Bitartrate and Acetaminophen Tablets [see WARNINGS, Life-Threatening Respiratory Depression; PRECAUTIONS, Information for Patients/Caregivers].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing regulations (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see WARNINGS, Addiction, Abuse, and Misuse, Life-Threatening Respiratory Depression, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants].
+
+Consider prescribing naloxone when the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## Initial Dosage
 
 Initiating Treatment with Hydrocodone Bitartrate and Acetaminophen Tablets
 
@@ -25,7 +36,7 @@ Conversion from Hydrocodone Bitartrate and Acetaminophen Tablets to Extended-Rel
 
 The relative bioavailability of hydrocodone from Hydrocodone Bitartrate and Acetaminophen Tablets compared to extended-release hydrocodone products is unknown, so conversion to extended-release products must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-Titration and Maintenance of Therapy
+## Titration and Maintenance of Therapy
 
 Individually titrate Hydrocodone Bitartrate and Acetaminophen Tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving Hydrocodone Bitartrate and Acetaminophen Tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see WARNINGS].
@@ -35,7 +46,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-Safe Reduction or Discontinuation of Hydrocodone Bitartrate and Acetaminophen Tablets
+## Safe Reduction or Discontinuation of Hydrocodone Bitartrate and Acetaminophen Tablets
 
 Do not abruptly discontinue Hydrocodone Bitartrate and Acetaminophen Tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
