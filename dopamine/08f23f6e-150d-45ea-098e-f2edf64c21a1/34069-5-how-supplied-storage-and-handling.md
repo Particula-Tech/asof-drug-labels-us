@@ -5,8 +5,6 @@ Each 100 mL contains 5 grams of hydrous dextrose in Water for Injection.
 
 | Unit of Sale | Total Strength/Total Volume (Concentration) |
 | --- | --- |
-| NDC 0409-7808-22 12 in a case | 200 mg/250 mL (800 mcg/mL) |
-| NDC 0409-7808-24 12 in a case | 400 mg/500 mL (800 mcg/mL) |
 | NDC 0409-7809-22 12 in a case | 400 mg/250 mL (1600 mcg/mL) |
 | NDC 0409-7809-24 12 in a case | 800 mg/500 mL (1600 mcg/mL) |
 | NDC 0409-7810-22 12 in a case | 800 mg/250 mL (3200 mcg/mL) |

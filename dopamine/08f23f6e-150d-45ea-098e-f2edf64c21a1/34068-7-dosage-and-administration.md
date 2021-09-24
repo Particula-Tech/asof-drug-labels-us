@@ -11,7 +11,7 @@ Acidosis may reduce the effectiveness of dopamine [see Warnings and Precautions 
 Administration
 
 Dopamine HCl in Dextrose Injection is a premixed infusion solution that does not require dilution prior to intravenous administration.
-Administer Dopamine HCl in Dextrose Injection into a large vein [see Warnings and Precautions (5.3)] with the use of an infusion pump preferably in an intensive care setting.
+Administer Dopamine HCl in Dextrose Injection into a large vein [see Warnings and Precautions (5.1)] with the use of an infusion pump preferably in an intensive care setting.
 
 Remove outer wrap (moisture and oxygen barrier) only when ready to administer the product.
 Discard product if outer wrap is damaged (e.g., tears or holes).
