@@ -282,4 +282,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2021
+Revised: 9/2021
