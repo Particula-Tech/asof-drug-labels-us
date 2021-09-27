@@ -273,6 +273,6 @@ For more information about PAXIL CR call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-06/2021
+09/2021
 
 - 

@@ -13,6 +13,7 @@ The following adverse reactions are included in more detail in other sections of
 - Angle-closure Glaucoma [see Warnings and Precautions (5.9)]
 - Hyponatremia [see Warnings and Precautions (5.10)]
 - Bone Fracture [see Warnings and Precautions (5.12)]
+- Sexual Dysfunction [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
