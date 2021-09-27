@@ -13,7 +13,7 @@ Follow applicable special handling and disposal procedures [see References (15)]
 Swallow hydroxyurea capsule whole.
 Do NOT open, break, or chew capsule because hydroxyurea is a cytotoxic drug.
 
-Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.7)].
+Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.8)].
 
 Monitor blood counts at least once a week during hydroxyurea therapy.
 Severe anemia must be corrected before initiating therapy with hydroxyurea.
@@ -23,7 +23,7 @@ Severe anemia must be corrected before initiating therapy with hydroxyurea.
 Monitor for the following and reduce the dose or discontinue hydroxyurea accordingly:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- Cutaneous vasculitis [see Warnings and Precautions (5.4)]
+- Cutaneous vasculitis [see Warnings and Precautions (5.5)]
 
 ## 2.3 Dose Modifications for Renal Impairment
 
