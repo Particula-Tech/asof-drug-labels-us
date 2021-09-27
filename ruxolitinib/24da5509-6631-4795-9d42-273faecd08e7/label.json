@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215309"
+  ],
+  "inn": "ruxolitinib",
+  "labeler": "Incyte Corporation",
+  "package_ndcs": [
+    "50881-007-04",
+    "50881-007-05"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ruxolitinib",
+      "name": "OPZELURA"
+    }
+  ],
+  "setid": "24da5509-6631-4795-9d42-273faecd08e7",
+  "source": "dailymed"
+}
