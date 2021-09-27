@@ -59,7 +59,7 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with APLENZIN.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to APLENZIN during pregnancy [see Use in Specific Populations 8.1].
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to APLENZIN during pregnancy [see Use in Specific Populations (8.1)].
 
 Administration Information
 
