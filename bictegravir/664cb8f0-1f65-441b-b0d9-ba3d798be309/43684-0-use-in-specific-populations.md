@@ -12,12 +12,11 @@ Risk Summary
 There are insufficient human data on the use of BIKTARVY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
 Dolutegravir, another integrase inhibitor, has been associated with neural tube defects (NTDs) (see Data).
 Discuss the benefit-risk of using BIKTARVY with individuals of childbearing potential, particularly if pregnancy is being planned.
-Bictegravir (BIC) and tenofovir alafenamide (TAF) use in women during pregnancy has not been evaluated; however, emtricitabine (FTC) use during pregnancy has been evaluated in a limited number of women reported to the APR.
-Available data from the APR show no difference in the overall risk of major birth defects for FTC compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+BIKTARVY use during pregnancy has been evaluated in a limited number of women reported to the APR; consequently, there are insufficient BIC data from the APR to adequately assess the risk of major birth defects.
+Reports of pregnant indivduals treated with other drug products containing TAF or FTC contribute to APR's overall risk assessment for these components.
+Available data from the APR show no statistically significant difference in the overall risk of major birth defects for FTC or TAF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
-Methodological limitations of the APR include the use of MACDP as the external comparator group.
-The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
 In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of BIKTARVY at exposures that were either not maternally toxic (rabbits) or greater than (rats and mice) those in humans at the recommended human dose (RHD) (see Data).
 During organogenesis, systemic exposures (AUC) to BIC were approximately 36 (rats) and 0.6 times (rabbits), to FTC were approximately 60 (mice) and 108 times (rabbits), and to TAF were approximately 2 (rats) and 78 times (rabbits) the exposure at the RHD of BIKTARVY.
@@ -27,11 +26,26 @@ Data
 
 Human Data
 
-Bictegravir: Data from an observational study in Botswana showed that dolutegravir, another integrase inhibitor, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of BIKTARVY are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
+
+Bictegravir (BIC):
+
+Data from an observational study in Botswana showed that dolutegravir, another integrase inhibitor, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
 Data available to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address this risk with BIC.
 
-Emtricitabine: Based on prospective reports to the APR of 3,406 exposures to FTC-containing regimens during pregnancy resulting in live births (including 2,326 exposed in the first trimester and 1,080 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.3% (95% CI: 1.7% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.0% (95% CI: 1.3% to 3.1%) with the second/third trimester exposure to FTC-containing regimens.
+There are an insufficient number of reports to the APR to adequately assess the risk of major birth defects associated with BIC exposure.
+The APR has received prospective reports of 3 birth defects among 100 (3.0%) first trimester exposures to BIC-containing regimens during pregnancy resulting in live births.
+No birth defects were reported among 40 exposures during the second/third trimester.
+
+Emtricitabine (FTC):
+
+Based on prospective reports to the APR of over 5,400 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,900 exposed in the first trimester and over 1,500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) and 2.7% (95% CI: 1.9% to 3.7%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
+
+Tenofovir Alafenamide (TAF):
+
+Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 
