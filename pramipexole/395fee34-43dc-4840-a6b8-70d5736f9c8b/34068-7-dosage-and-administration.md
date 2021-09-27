@@ -53,7 +53,7 @@ Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease P
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients. |  |
 
 Discontinuation of Treatment Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions(5.10)].
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions(5.10) (5.11)].
 
 ## 2.3 Dosing for Restless Legs Syndrome
 

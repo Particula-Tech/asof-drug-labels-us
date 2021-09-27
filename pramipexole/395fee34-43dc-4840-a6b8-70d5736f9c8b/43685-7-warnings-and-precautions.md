@@ -8,7 +8,7 @@ Some of these events had been reported as late as one year after the initiation 
 
 Somnolence is a common occurrence in patients receiving pramipexole at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson’s disease.
 In controlled clinical trials in RLS, patients treated with pramipexole dihydrochloride tablets at doses of 0.25 to 0.75 mg once a day, the incidence of somnolence was 6% compared to an incidence of 3% for placebo-treated patients [see Adverse Reactions (6.1)].
-It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of pre-existing somnolence, although patients may not give such a history.
+It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of preexisting somnolence, although patients may not give such a history.
 For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
@@ -112,16 +112,24 @@ While these complications may resolve when the drug is discontinued, complete re
 
 Although these adverse events are believed to be related to the ergoline structure of these compounds, whether other, nonergot-derived dopamine agonists can cause them is unknown.
 
-Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the post marketing experience with pramipexole dihydrochloride tablets.
+Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the postmarketing experience with pramipexole dihydrochloride tablets.
 While the evidence is not sufficient to establish a causal relationship between pramipexole dihydrochloride tablets and these fibrotic complications, a contribution of pramipexole dihydrochloride tablets cannot be completely ruled out.
 
 Rebound and Augmentation in RLS Reports in the literature indicate treatment of RLS with dopaminergic medications can result in rebound: a worsening of symptoms following treatment cessation with greater intensity than described before starting treatment.
-In a 26 week placebo controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
+In a 26 week placebo-controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
 The worsening of RLS symptoms was considered generally mild.
 
 Augmentation has also been described during therapy for RLS.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
-In a 26 week placebo controlled clinical trial in patients with RLS, augmentation was reported with greater frequency by patients treated with pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to patients who received placebo (12% vs. 9%, respectively).
+In a 26 week placebo-controlled clinical trial in patients with RLS, augmentation was reported with greater frequency by patients treated with pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to patients who received placebo (12% vs. 9%, respectively).
 The incidence of augmentation increased with increasing duration of exposure to pramipexole dihydrochloride tablets and to placebo.
 
 The frequency and severity of augmentation and/or rebound after longer-term use of pramipexole dihydrochloride tablets and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.
+
+## 5.11 Withdrawal Symptoms
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including pramipexole dihydrochloride tablets.
+These symptoms generally do not respond to levodopa.
+
+Prior to discontinuation of pramipexole dihydrochloride tablets, patients should be informed about potential withdrawal symptoms, and monitored during and after discontinuation.
+In case of severe withdrawal symptoms, a trial re-administration of a dopamine agonist at the lowest effective dose may be considered.
