@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213436"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Impel NeuroPharma, Inc.",
+  "package_ndcs": [
+    "77530-725-04"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Trudhesa"
+    }
+  ],
+  "setid": "b81397b0-910d-4eb4-8fee-a9a3c9d94d63",
+  "source": "dailymed"
+}
