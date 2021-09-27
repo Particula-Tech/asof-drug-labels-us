@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213536"
+  ],
+  "inn": "ephedrine",
+  "labeler": "XGen Pharmaceuticals DJB, Inc.",
+  "package_ndcs": [
+    "39822-1410-5",
+    "39822-1410-6"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ephedrine hydrochloride",
+      "name": "REZIPRES"
+    }
+  ],
+  "setid": "89b66e68-cd69-484f-b190-f501d95be790",
+  "source": "dailymed"
+}
