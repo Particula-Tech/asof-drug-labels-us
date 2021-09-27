@@ -56,7 +56,7 @@ Active liver disease or unexplained persistent transaminase elevations are contr
 
 ## 5.4 Endocrine Function
 
-Increased in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including atorvastatin calcium.
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including atorvastatin calcium.
 
 Statins interfere with cholesterol synthesis and theoretically might blunt adrenal and/or gonadal steroid production.
 Clinical studies have shown that atorvastatin calcium does not reduce basal plasma cortisol concentration or impair adrenal reserve.

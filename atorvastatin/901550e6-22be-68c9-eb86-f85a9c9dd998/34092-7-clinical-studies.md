@@ -16,7 +16,7 @@ Due to the small number of events, results for women were inconclusive.
 
 Figure 1: Effect of Atorvastatin Calcium 10 mg/day on Cumulative Incidence of Non-Fatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA)
 
-Atorvastatin calcium also significantly decreased the relative risk for revascularization procedures by 42%.
+Atorvastatin calcium also significantly decreased the relative risk for revascularization procedures by 42% (incidences of 1.4% for atorvastatin and 2.5% for placebo).
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin calcium and 2.3% for placebo).
 There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
@@ -46,7 +46,7 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin calcium and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin calcium.
 
-Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 6).
+Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 9).
 The overall risk reduction was consistent regardless of age (<65, ≥65) or gender.
 
 Figure 3: Effect of Atorvastatin Calcium 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
