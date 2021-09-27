@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021612"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-305-90",
+    "62559-306-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Lipofen"
+    }
+  ],
+  "setid": "78b789b9-854f-46b9-97f3-a48759a6ff89",
+  "source": "dailymed"
+}
