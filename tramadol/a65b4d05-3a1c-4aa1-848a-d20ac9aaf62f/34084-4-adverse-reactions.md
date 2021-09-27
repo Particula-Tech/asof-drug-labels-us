@@ -25,11 +25,11 @@ These included four double-blind and one long-term, open-label study in patients
 A total of 812 patients were 65 years or older.
 Adverse reactions with doses from 100 mg to 300 mg in the four pooled, randomized, double-blind, placebo-controlled studies in patients with chronic non-malignant pain are presented in the following table (see Table 1).
 
-Table 1: Incidence (%) of Patients with Adverse Reaction Rates ≥ 5% from Four Double-Blind, Placebo-Controlled Studies in Patients with Moderate to Moderately Severe Chronic Pain by Dose (N=1917).
+Table 1: Incidence (%) of Patients with Adverse Reaction Rates ≥ 5% from Four Double-Blind, Placebo-Controlled Studies in Patients with Moderate to Moderately Severe Chronic Pain by Dose (N=1917)
 
-| Preferred Term | 100 mg (N=429) n (%) | 200 mg (N=434) n (%) | 300 mg (N=1054) n (%) | (N=646) n (%) |
+| 100 mg (N=429) n (%) | 200 mg (N=434) n (%) | 300 mg (N=1054) n (%) | (N=646) n (%) |  |
 | --- | --- | --- | --- | --- |
-|  | CONZIP |  | Placebo |  |
+| Preferred Term | CONZIP |  |  | Placebo |
 | Headache | 99 (23.1) | 96 (22.1) | 200 (19.0) | 128 (19.8) |
 | Nausea | 69 (16.1) | 93 (21.4) | 265 (25.1) | 37 (5.7) |
 | Somnolence | 50 (11.7) | 60 (13.8) | 170 (16.1) | 26 (4.0) |
@@ -51,9 +51,9 @@ Adverse reactions with incidence rates of 1.0% to <5.0%
 
 Cardiac disorders: hypertension Gastrointestinal disorders: dyspepsia, flatulence General disorders: abdominal pain, accidental injury, chills, fever, flu syndrome, neck pain, pelvic pain Investigations: hyperglycemia, urine abnormality Metabolism and nutrition disorders: peripheral edema, weight loss Musculoskeletal, connective tissue and bone disorders: myalgia Nervous system disorders: paresthesia, tremor, withdrawal syndrome Psychiatric disorders: agitation, anxiety, apathy, confusion, depersonalization, depression, euphoria, nervousness Respiratory, thoracic and mediastinal disorders: bronchitis, pharyngitis, rhinitis, sinusitis Skin and subcutaneous tissue disorders: rash Urogenital disorders: prostatic disorder, urinary tract infection Vascular disorders: vasodilatation
 
-Adverse reactions with incidence rates of 0.5% to <1.0% at any dose and serious adverse reactions reported in at least two patients.
+Adverse reactions with incidence rates of 0.5% to <1.0% at any dose and serious adverse reactions reported in at least two patients
 
-Cardiac disorders: EKG abnormal, hypotension, tachycardia Gastrointestinal disorders: gastroenteritis General disorders: neck rigidity, viral infection Hematologic/Lymphatic disorders; anemia, ecchymoses Metabolism and nutrition disorders: blood urea nitrogen increased, GGT increased, gout, SGPT increased Musculoskeletal disorders: arthritis, arthrosis, joint disorder, leg cramps Nervous system disorders: emotional lability, hyperkinesia, hypertonia, thinking abnormal, twitching, vertigo Respiratory disorders: pneumonia Skin and subcutaneous tissue disorders: hair disorder, skin disorder, urticaria Special Senses: eye disorder, lacrimation disorder Urogenital disorders: cystitis, dysuria, sexual function abnormality, urinary retention
+Cardiac disorders: EKG abnormal, hypotension, tachycardia Gastrointestinal disorders: gastroenteritis General disorders: neck rigidity, viral infection Hematologic/Lymphatic disorders: anemia, ecchymoses Metabolism and nutrition disorders: blood urea nitrogen increased, GGT increased, gout, SGPT increased Musculoskeletal disorders: arthritis, arthrosis, joint disorder, leg cramps Nervous system disorders: emotional lability, hyperkinesia, hypertonia, thinking abnormal, twitching, vertigo Respiratory disorders: pneumonia Skin and subcutaneous tissue disorders: hair disorder, skin disorder, urticaria Special Senses: eye disorder, lacrimation disorder Urogenital disorders: cystitis, dysuria, sexual function abnormality, urinary retention
 
 ## 6.2 Postmarketing Experience
 
@@ -70,3 +70,10 @@ Androgen deficiency: Cases of androgen deficiency have occurred with chronic use
 
 QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
 Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in overdose setting.
+
+Metabolism and nutrition disorders
+
+Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.19)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.20)].

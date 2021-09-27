@@ -177,7 +177,7 @@ Poor / Extensive Metabolizers, CYP2D6
 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450 metabolizing enzyme system.
 These individuals are "poor metabolizers" of debrisoquine, dextromethorphan and tricyclic antidepressants, among other drugs.
-Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
+Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers", while M1 concentrations were 40% lower.
 
 CYP2D6 Inhibitors
 
@@ -190,8 +190,7 @@ Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol ER
 The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism.
-[see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 

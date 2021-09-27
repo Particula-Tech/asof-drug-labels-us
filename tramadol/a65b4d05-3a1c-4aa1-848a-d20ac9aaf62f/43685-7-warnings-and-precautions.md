@@ -245,7 +245,7 @@ Do not abruptly discontinue CONZIP in a patient physically dependent on opioids.
 When discontinuing CONZIP in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including CONZIP.
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including CONZIP.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing CONZIP, gradually taper the dosage [see Dosage and Administration (2.5)].
@@ -255,3 +255,17 @@ Do not abruptly discontinue CONZIP [see Drug Abuse and Dependence (9.3)].
 
 CONZIP may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of CONZIP and know how they will react to the medication [see Patient Counseling Information (17)].
+
+## 5.19 Hyponatremia
+
+Hyponatremia (serum sodium <135 mmol/L) has been reported with the use of tramadol, and many cases are severe (sodium level <120 mmol/L).
+Most cases of hyponatremia occurred in females over the age of 65 and within the first week of therapy.
+In some reports, hyponatremia resulted from the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Monitor for signs and symptoms of hyponatremia (e.g., confusion, disorientation), during treatment with CONZIP, especially during initiation of therapy.
+If signs and symptoms of hyponatremia are present, initiate appropriate treatment (e.g., fluid restriction) and discontinue CONZIP [see Dosage and Administration: Safe Reduction or Discontinuation of CONZIP (2.5)].
+
+## 5.20 Hypoglycemia
+
+Cases of tramadol-associated hypoglycemia have been reported, some resulting in hospitalization.
+In most cases, patients had predisposing risk factors (e.g., diabetes).
+If hypoglycemia is suspected, monitor blood glucose levels and consider drug discontinuation as appropriate [see Dosage and Administration: Safe Reduction or Discontinuation of CONZIP (2.5)].

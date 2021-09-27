@@ -1,12 +1,10 @@
-Principal Display Panel – 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
 NDC 68025-071-30
 
-Conzip®
+ConZip®
 
-(tramadol hydrochloride)
-
-extended-release capsules
+(tramadol hydrochloride) extended-release capsules
 
 100 mg per capsule
 
@@ -14,19 +12,19 @@ CIV
 
 Once daily
 
-Rx only
+Rx Only
+
+VERTICAL PHARMACEUTICALS, LLC
 
 30 Capsules
 
-Principal Display Panel – 200 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
 NDC 68025-072-30
 
-Conzip®
+ConZip®
 
-(tramadol hydrochloride)
-
-extended-release capsules
+(tramadol hydrochloride) extended-release capsules
 
 200 mg per capsule
 
@@ -34,19 +32,19 @@ CIV
 
 Once daily
 
-Rx only
+Rx Only
+
+VERTICAL PHARMACEUTICALS, LLC
 
 30 Capsules
 
-Principal Display Panel – 300 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
 NDC 68025-073-30
 
-Conzip®
+ConZip®
 
-(tramadol hydrochloride)
-
-extended-release capsules
+(tramadol hydrochloride) extended-release capsules
 
 300 mg per capsule
 
@@ -54,6 +52,8 @@ CIV
 
 Once daily
 
-Rx only
+Rx Only
+
+VERTICAL PHARMACEUTICALS, LLC
 
 30 Capsules
