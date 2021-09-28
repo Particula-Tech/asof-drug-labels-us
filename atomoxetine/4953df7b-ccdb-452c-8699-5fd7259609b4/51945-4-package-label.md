@@ -8,17 +8,13 @@ Capsules USP
 
 10 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -30,17 +26,13 @@ Capsules USP
 
 18 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -52,17 +44,13 @@ Capsules USP
 
 25 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -74,17 +62,13 @@ Capsules USP
 
 40 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -96,17 +80,13 @@ Capsules USP
 
 60 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -118,17 +98,13 @@ Capsules USP
 
 80 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -140,14 +116,10 @@ Capsules USP
 
 100 mg*
 
-PHARMACIST: Dispense the
+PHARMACIST: Dispense the accompanying
 
-accompanying Medication Guide
-
-to each patient.
+Medication Guide to each patient.
 
 Rx only
 
 30 CAPSULES
-
-TEVA
