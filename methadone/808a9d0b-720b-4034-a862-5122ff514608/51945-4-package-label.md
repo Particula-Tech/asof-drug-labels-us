@@ -1,4 +1,4 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Oral Concentrate 1 Liter Bottle Label
+# PRINCIPAL DISPLAY PANEL - Methadose™ Oral Concentrate 1 Liter Bottle Label
 
 NDC 0406-0527-10
 
@@ -8,9 +8,12 @@ Methadose™ Oral Concentrate (methadone hydrochloride oral concentrate USP)
 
 CII
 
-10 mg per mL
+| 10 mg per mL |
+| --- |
 
-Each milliliter contains: Methadone Hydrochloride.............................
+Each milliliter contains:
+
+Methadone Hydrochloride.............................
 10 mg
 
 Methadose™ also contains Artificial Cherry Flavor, Citric Acid, FD&C Red 40, D&C Red 33, Methylparaben, Poloxamer 407, Propylene Glycol, Propylparaben, Purified Water, Sodium Citrate and Sucrose.
@@ -34,7 +37,7 @@ SpecGx LLC, Webster Groves, MO 63119 USA
 
 Made in USA
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Sugar-Free Oral Concentrate 1 Liter Bottle Label
+# PRINCIPAL DISPLAY PANEL - Methadose™ Sugar-Free Oral Concentrate 1 Liter Bottle Label
 
 NDC 0406-8725-10
 
@@ -44,7 +47,8 @@ Methadose™ Sugar-Free Oral Concentrate (methadone hydrochloride oral concentra
 
 CII
 
-10 mg per mL
+| 10 mg per mL |
+| --- |
 
 Each milliliter contains: Methadone Hydrochloride.............................
 10 mg

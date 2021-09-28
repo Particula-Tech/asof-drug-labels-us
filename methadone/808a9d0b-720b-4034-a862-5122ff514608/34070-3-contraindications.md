@@ -1,8 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 METHADOSE is contraindicated in patients with:
 
-- Significant respiratory depression
-- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
-- Known or suspected gastrointestinal obstruction, including paralytic ileus
-- Hypersensitivity (e.g., anaphylaxis) to methadone or any other ingredient in METHADOSE
+- Significant respiratory depression [see Warnings and Precautions (5.1)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.8)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.13)]
+- Hypersensitivity (e.g., anaphylaxis) to methadone or any other ingredient in METHADOSE [see Adverse Reactions (6)]

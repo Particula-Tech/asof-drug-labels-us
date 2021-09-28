@@ -1,42 +1,56 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+The following serious adverse reactions and/or conditions are described, or described in greater detail, in other sections:
+
+- Respiratory Depression [see Warnings and Precautions (5.1)]
+- Interactions with Benzodiazepines and other CNS Depressants [see Warnings and Precautions (5.2)]
+- QT Prolongation [see Warnings and Precautions (5.3)]
+- Serotonin Syndrome [see Warnings and Precautions (5.9)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
+
+The following adverse reactions have been identified during post-approval use of methadone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
 Respiratory arrest, shock, cardiac arrest, and death have occurred.
 
 The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.
-These effects seem to be more prominent in ambulatory patients.
-In such individuals, lower doses are advisable.
+These effects seem to be more prominent in ambulatory patients and in those who are not suffering severe pain.
 
-Other adverse reactions include the following: (listed alphabetically under each subsection)
+Other adverse reactions include the following:
 
-Body as a Whole – asthenia (weakness), edema, headache
+Body as a Whole: asthenia (weakness), edema, headache
 
-Cardiovascular (see WARNINGS, Cardiac Conduction Effects) – arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
+Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
 
-Central Nervous System – agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
+Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
 
-Digestive – abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
+Endocrine: hypogonadism
 
-Hematologic and Lymphatic – reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
+Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
 
-Metabolic and Nutritional – hypokalemia, hypomagnesemia, weight gain
+Hematologic: Reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis.
 
-Respiratory – pulmonary edema, respiratory depression (see WARNINGS, Respiratory Depression)
+Metabolic: hypokalemia, hypomagnesemia, weight gain
 
-Skin and Appendages – pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
+Musculoskeletal: decreased muscle mass and strength, osteoporosis and fractures
 
-Special Senses – hallucinations, visual disturbances
+Renal: antidiuretic effect, urinary retention or hesitancy
 
-Urogenital – amenorrhea, antidiuretic effect, reduced libido and/or potency, urinary retention or hesitancy
+Reproductive: amenorrhea, reduced libido and/or potency, reduced ejaculate volume, reduced seminal vesicle and prostate secretions, decreased sperm motility, abnormalities in sperm morphology
 
-Postmarketing Experience
+Respiratory: pulmonary edema, respiratory depression
 
-The following adverse reactions have been identified during post-approval use of METHADOSE.
+Skin and Subcutaneous Tissue: pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 
-Serotonin Syndrome – Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Hypersensitivity: Anaphylaxis has been reported with ingredients contained in METHADOSE.
 
-Adrenal Insufficiency – Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use (see WARNINGS).
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-Anaphylaxis – Anaphylactic reaction has been reported with ingredients contained in METHADOSE (see CONTRAINDICATIONS).
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Androgen Deficiency – Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
