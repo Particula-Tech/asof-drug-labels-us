@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "BLA761201"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-250-80",
+    "49502-251-35",
+    "49502-251-71",
+    "49502-251-73",
+    "49502-251-75",
+    "49502-251-98",
+    "49502-251-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine-yfgn",
+      "name": "SEMGLEE"
+    }
+  ],
+  "setid": "84082072-bfab-4c3f-95f7-3fb3b443bfb2",
+  "source": "dailymed"
+}
