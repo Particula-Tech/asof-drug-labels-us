@@ -8,5 +8,5 @@ Its empirical formula is C20H25ClN2O5•C7H6O2, and its structural formula is:
 Amlodipine benzoate is a white crystalline powder with a molecular weight of 530.
 
 KATERZIA is for oral administration.
-Inactive ingredients include citric acid, colloidal silicon dioxide, hypromellose, maltodextrin, polysorbate 80, simethicone, sodium benzoate, sodium besylate, sodium citrate, sodium hydroxide, sucralose, and water.
+Inactive ingredients include citric acid, colloidal silicon dioxide, hypromellose, maltodextrin, polysorbate 80, simethicone, sodium benzoate, sodium besylate, sodium citrate, sucralose, and water.
 It is a white to off-white oral suspension.
