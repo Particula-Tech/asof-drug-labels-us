@@ -8,7 +8,7 @@ Princeton, NJ 08540 USA
 
 Made in India
 
-Revised: 0820
+Revised: 0821
 
 # Patient Information
 
@@ -77,10 +77,7 @@ How should I take pramipexole dihydrochloride extended-release tablet?
   Do not double your next pramipexole dihydrochloride extended-release dose.
 - Do not stop taking pramipexole dihydrochloride extended-release tablets without talking to your doctor first.
   If your doctor tells you to stop taking pramipexole dihydrochloride extended-release tablets, you should ask your doctor for specific instructions on how to slowly and safely discontinue taking pramipexole dihydrochloride extended-release tablets.
-  If you stop taking pramipexole dihydrochloride extended-release tablets too quickly you may have withdrawal symptoms such as:
-- fever
-- confusion
-- severe muscle stiffness
+  If you stop taking pramipexole dihydrochloride extended-release tablets you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride extended-release tablets?”).
 
 What should I avoid while taking pramipexole dihydrochloride extended-release tablets?
 
@@ -116,7 +113,7 @@ Tell your doctor right away if you fall asleep while you are doing activities su
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
 - hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are age 65 or older.
+  The chances of having hallucinations or other psychotic-like changes are higher in people taking pramipexole dihydrochloride extended-release tablets for Parkinson’s disease who are elderly (age 65 or older).
 
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 
@@ -125,6 +122,22 @@ If you have hallucinations or other psychotic-like changes, talk with your docto
 - posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
+- withdrawal symptoms.
+  Pramipexole dihydrochloride extended-release tablets are a dopamine agonist medicine.
+  Dopamine agonist medicines, including pramipexole dihydrochloride extended-release tablets, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride extended-release tablets is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:
+- fever
+- confusion
+- severe muscle stiffness
+- feeling like you do not care about things you usually care about (apathy)
+- anxiety
+- depression
+- fatigue
+- insomnia
+- sweating
+- pain
+
+After you have stopped taking pramipexole dihydrochloride extended-release tablets, your doctor may need to restart you at a low dose of pramipexole dihydrochloride extended-release tablets if you get severe withdrawal symptoms.
 
 The most common side effects in people taking pramipexole dihydrochloride extended-release tablets for early Parkinson’s disease are:
 
@@ -159,9 +172,9 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for more information about pramipexole dihydrochloride extended-release tablets that is written for healthcare professionals.
 
-For additional information, you may also call 1-888-375-3784.
+For more information, call 1-888-375-3784.
 
-What are the ingredients in pramipexole dihydrochloride extended-release tablets
+What are the ingredients in pramipexole dihydrochloride extended-release tablets?
 
 Active Ingredient: pramipexole dihydrochloride monohydrate
 
@@ -179,4 +192,4 @@ Princeton, NJ 08540 USA
 
 Made in India
 
-Revised: 0820
+Revised: 0821

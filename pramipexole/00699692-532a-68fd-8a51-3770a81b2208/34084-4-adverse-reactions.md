@@ -11,6 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Rhabdomyolysis [see Warnings and Precautions (5.8)]
 - Retinal Pathology [see Warnings and Precautions (5.9)]
 - Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
+- Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -73,11 +74,13 @@ Table 1 Adverse-Reactions in a 33-Week Double-Blind, Placebo-Controlled Trial wi
 | Vascular disorders |  |  |  |
 | Orthostatic hypotension | 1 | 3 | 0 |
 
+Because this study used a flexible dose titration design, it was not possible to assess the effects of dose on the incidence of adverse reactions.
+
 Adverse reactions can initially occur in either the titration or maintenance phase.
 Some adverse reactions developed in pramipexole dihydrochloride extended-release-treated patients during the titration phase and persisted (≥7 days) into the maintenance phase (i.e., pramipexole dihydrochloride extended-release % - placebo % = treatment difference ≥2%); persistent adverse reactions were somnolence, nausea, constipation, fatigue, and dry mouth.
 
 A double-blind, randomized, parallel group trial evaluated the tolerability of an overnight switch from immediate-release pramipexole tablets to extended-release pramipexole tablets at the same daily dose in 156 early Parkinson’s disease patients with or without levodopa.
-One of 104 patients switched from immediate-release pramipexole tablets to extended-release pramipexole tablets discontinued due to adverse events (vertigo and nausea).
+One of 104 patients switched from immediate-release pramipexole tablets to extended-release pramipexole tablets discontinued due to adverse reactions (vertigo and nausea).
 
 Advanced Parkinson's Disease
 
@@ -117,11 +120,11 @@ Because this flexible dose study used a titration design, it was not possible to
 Adverse reactions can initially occur in either the titration or maintenance phase.
 Some adverse reactions developed in pramipexole dihydrochloride extended-release-treated patients during the titration phase and persisted (≥7 days) into the maintenance phase (i.e., pramipexole dihydrochloride extended-release % - placebo % = treatment difference ≥2%); persistent adverse reactions were dyskinesia and insomnia.
 
-Laboratory Tests
+Laboratory Testing
 
 During the development of pramipexole dihydrochloride extended-release tablets, no systematic abnormalities on routine laboratory testing were noted.
 
-Other adverse reactions observed during clinical trials ofpramipexole dihydrochloride immediate-release tablets orpramipexole dihydrochloride extended-release tablets inearly and advanced Parkinson’s disease
+Other adverse reactions observed during clinical trials of pramipexole dihydrochloride immediate-release tablets or pramipexole dihydrochloride extended-release tablets inearly and advanced Parkinson’s disease
 
 Other adverse reactions in clinical studies involving pramipexole dihydrochloride immediate-release tablets or pramipexole dihydrochloride extended-release tablets include abnormal dreams, akathisia, amnesia, decreased libido, decreased weight, dyspnea, pneumonia, and vision abnormalities.
 
@@ -134,6 +137,8 @@ Decisions to includethese reactions in labeling are typically based on one ormor
 Cardiac Disorders: cardiac failure
 
 Gastrointestinal Disorders: vomiting
+
+General Disorders and Administration Site Conditions: withdrawal symptoms [see Warnings and Precautions (5.11)]
 
 Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
 

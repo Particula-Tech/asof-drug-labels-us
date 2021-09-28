@@ -29,9 +29,9 @@ One patient of 387 on pramipexole dihydrochloride extended-release tablets disco
 
 ## 5.3 Impulse Control/Compulsive Behaviors
 
-Case reports and the results of cross-sectional studies suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride extended-release, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
+Case reports and the results of cross-sectional studies suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride extended-release, that increase central dopaminergic tone.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride extended-release.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride extended-release for Parkinson’s disease.
 Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride extended-release.
 
 A total of 1056 patients with Parkinson’s disease who participated in two pramipexole dihydrochloride extended-release placebo-controlled studies of up to 33 weeks duration were specifically asked at each visit about the occurrence of these symptoms.
@@ -45,9 +45,9 @@ Hallucinations led to discontinuation of treatment in 5 of 387 (1%) patients on 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
 In placebo-controlled clinical trials in Parkinson’s disease, hallucinations were reported in 15 of 162 (9%)patients ≥ 65 years of age taking pramipexole dihydrochloride extended-release tablets compared to 10 of 225 (4%)patients <65 years of age taking pramipexole dihydrochloride extended-release tablets.
 
-Postmarketing reports with dopamine agonists, including pramipexole dihydrochloride extended-release, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole dihydrochloride extended-release or after starting or increasing the dose of pramipexole dihydrochloride extended-release.
+Postmarketing reports with dopamine agonists, including pramipexole dihydrochloride extended-release, indicate that patients with Parkinson’s disease may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole dihydrochloride extended-release or after starting or increasing the dose of pramipexole dihydrochloride extended-release.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
-This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
+This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, symptoms of mania (e.g., insomnia, psychomotor agitation), disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride extended-release, because of the risk of exacerbating the psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of pramipexole dihydrochloride extended-release [see Drug Interactions (7.1)].
@@ -113,3 +113,11 @@ Although these adverse events are believed to be related to the ergoline structu
 
 Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the postmarketing experience with immediate-release pramipexole tablets.
 While the evidence is not sufficient to establish a causal relationship between pramipexole and these fibrotic complications, a contribution of pramipexole cannot be completely ruled out.
+
+## 5.11 Withdrawal Symptoms
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including pramipexole dihydrochloride extended-release tablets.
+These symptoms generally do not respond to levodopa.
+
+Prior to discontinuation of pramipexole dihydrochloride extended-release tablets, patients should be informed about potential withdrawal symptoms, and monitored during and after discontinuation.
+In case of severe withdrawal symptoms, a trial re-administration of a dopamine agonist at the lowest effective dose may be considered.
