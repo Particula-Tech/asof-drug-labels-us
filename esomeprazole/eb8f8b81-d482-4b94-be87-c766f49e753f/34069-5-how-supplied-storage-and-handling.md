@@ -18,7 +18,7 @@ NDC 62175-840-46 unit of use bottles of 90
 
 NDC 62175-840-43 bottles of 1000
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature].
 Keep Esomeprazole Magnesium Delayed-release Capsules container tightly closed.
 Dispense in a tight container if the Esomeprazole Magnesium Delayed-release Capsules product package is subdivided.

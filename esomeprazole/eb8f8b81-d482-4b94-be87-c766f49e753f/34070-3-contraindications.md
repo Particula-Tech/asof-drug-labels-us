@@ -1,6 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-Esomeprazole Magnesium Delayed-release Capsules are contraindicated in patients with known hypersensitivity to substituted benzimidazoles or to any component of the formulation.
-Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- Esomeprazole Magnesium Delayed-release Capsules are contraindicated in patients with known hypersensitivity to substituted benzimidazoles or to any component of the formulation.
+  Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
 
-For information about contraindications of antibacterial agents (clarithromycin and amoxicillin) indicated in combination with Esomeprazole Magnesium Delayed-release Capsules, refer to the CONTRAINDICATIONS section of their package inserts.
+- For information about contraindications of amoxicillin and clarithromycin, indicated in combination with Esomeprazole Magnesium Delayed-release Capsules for H. pylori eradication to reduce the risk of duodenal ulcer recurrence, refer to the Contraindications section of the respective prescribing information.
+
+- Proton pump inhibitors (PPIs), including Esomeprazole Magnesium Delayed-release Capsules, are contraindicated in patients receiving rilpivirine-containing products [see Drug Interactions (7)].

@@ -1,40 +1,74 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Adverse Reactions
+Acute Tubulointerstitial Nephritis
 
-Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+Advise the patient or caregiver to call the patient’s healthcare provider immediately if they experience signs and/or symptoms associated with suspected acute TIN [see Warnings and Precautions (5.2)].
 
-- Hypersensitivity Reactions [see Contraindications (4)]
-- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- Hypomagnesemia [see Warnings and Precautions (5.8)]
+Clostridium difficile-Associated Diarrhea
+
+Advise the patient or caregiver to immediately call the patient’s healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+
+Bone Fracture
+
+Advise the patient or caregiver to report any fractures, especially of the hip, wrist or spine, to the patient’s healthcare provider [see Warnings and Precautions (5.4)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+
+Cyanocobalamin (Vitamin B-12) Deficiency
+
+Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for longer than 3 years [see Warnings and Precautions (5.7)].
+
+Hypomagnesemia
+
+Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia to the patient’s healthcare provider, if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
-- Advise patients to let you know if they are taking, or begin taking, other medications, because Esomeprazole Magnesium Delayed-release Capsules can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions (7.1)].
+Advise the patient or caregiver to report to their healthcare provider if starting treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.6, 5.9, 5.11)].
 
 Administration
 
-- Let patients know that antacids may be used while taking Esomeprazole Magnesium Delayed-release Capsules.
-- Advise patients to take Esomeprazole Magnesium Delayed-release Capsules at least one hour before a meal.
-- For patients who are prescribed Esomeprazole Magnesium Delayed-release Capsules, advise them not to chew or crush the capsules.
-- Advise patients that, if they open Esomeprazole Magnesium Delayed-release Capsules to mix the pellets with food, the pellets should only be mixed with applesauce.
-  Use with other foods has not been evaluated and is not recommended.
-- For patients who are advised to open the Esomeprazole Magnesium Delayed-release Capsules before taking them, instruct them in the proper technique for administration [see Dosage and Administration (2)] and tell them to follow the dosing instructions in the PATIENT INFORMATION insert included in the package.
-  Instruct patients to rinse the syringe with water after each use.
+- Take Esomeprazole Magnesium Delayed-release Capsules at least one hour before meals.
+- Antacids may be used concomitantly with Esomeprazole Magnesium Delayed-release Capsules.
+- Swallow Esomeprazole Magnesium Delayed-release Capsules whole; do not chew or crush the capsules.
+- For patients who have difficulty swallowing capsules, Esomeprazole Magnesium Delayed-release Capsules can be opened, and the contents sprinkled on applesauce.
+  Use with other foods is not recommended.
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
+1.
+Add one tablespoon of applesauce to an empty bowl.
+The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+
+2.
+Open the Esomeprazole Magnesium Delayed-release Capsule and carefully empty the pellets inside the capsule onto the applesauce.
+
+3.
+Mix the pellets with the applesauce.
+
+4.
+Administer the mixture immediately.
+Do not chew or crush the pellets
+
+5.
+Discard any remaining mixture.
+Do not store the mixture for future use.
+
+- Esomeprazole Magnesium Delayed-release Capsules can also be administered via a nasogastric tube, as described in the Instructions for Use.
+
+Distributed by:
+
+Lannett Company, Inc.
+
+Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
-CIA77977E
+CIA77977F
 
 Rev.
-12/2020
+09/2021
 
 All brand names are the trademarks of their respective owners.
