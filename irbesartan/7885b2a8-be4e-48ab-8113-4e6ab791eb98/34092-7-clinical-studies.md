@@ -60,7 +60,7 @@ Table 1: IDNT: Components of Primary Composite Endpoint
 | Breakdown of first occurring event contributing to primary endpoint |  |  |  |  |  |  |  |
 | 2× creatinine | 14.2 | 19.5 | --- | --- | 22.8 | --- | --- |
 | ESRD | 7.4 | 8.3 | --- | --- | 8.8 | --- | --- |
-| Death | 11.1 | 11.2 | --- | --- | 9.5 | --- | ---- |
+| Death | 11.1 | 11.2 | --- | --- | 9.5 | --- | --- |
 | Incidence of total events over entire period of follow-up |  |  |  |  |  |  |  |
 | 2× creatinine | 16.9 | 23.7 | 0.67 | 0.52–0.87 | 25.4 | 0.63 | 0.49–0.81 |
 | ESRD | 14.2 | 17.8 | 0.77 | 0.57–1.03 | 18.3 | 0.77 | 0.57–1.03 |
@@ -79,7 +79,7 @@ Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
 | Placebo N=569 (%) | Hazard Ratio | 95% Cl |  |  |
 | --- | --- | --- | --- | --- |
-| Baseline Factors | AVAPRO N=579 (%) | Comparison With Placebo |  |  |
+| Baseline Factors | AVAPRO N=579 (%) | Comparison with Placebo |  |  |
 | Sex |  |  |  |  |
 | Male | 27.5 | 36.7 | 0.68 | 0.53–0.88 |
 | Female | 42.3 | 44.6 | 0.98 | 0.72–1.34 |
