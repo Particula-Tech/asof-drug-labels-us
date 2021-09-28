@@ -9,10 +9,9 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no increase in the risk of overall major birth defects for emtricitabine (FTC) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
-There are insufficient tenofovir alafenamide (TAF) data from the APR to adequately assess the risk of major birth defects.
+Available data from the APR show no statistically significant difference in the overall risk of major birth defects for emtricitabine (FTC) or tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage for individual drugs is not reported in the APR.
-The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15−20%.
+The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
 
 In animal studies, no adverse developmental effects were observed when the components of DESCOVY were administered separately during the period of organogenesis at exposures 60 and 108 times (mice and rabbits, respectively) the FTC exposure and at exposure equal to or 53 times (rats and rabbits, respectively) the TAF exposure at the recommended daily dose of DESCOVY (see Data).
 Likewise, no adverse developmental effects were seen when FTC was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily dose of DESCOVY.
@@ -22,15 +21,17 @@ Data
 
 Human Data
 
-Emtricitabine: Based on prospective reports to the APR through January 2019 of over 4,450 exposures to FTC-containing regimens during pregnancy (including over 3,150 exposed in the first trimester and over 1,300 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.3% (95% CI: 1.5% to 3.2%) with the second/third trimester exposure to FTC-containing regimens.
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of DESCOVY are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
-Tenofovir Alafenamide: Based on prospective reports to the APR of over 220 exposures to TAF-containing regimens during pregnancy (including over 160 exposed in the first trimester and over 60 exposed in the second/third trimester), there have been 6 birth defects with first trimester exposure to TAF-containing regimens.
+Emtricitabine (FTC)
 
-Methodologic limitations of the APR include the use of MACDP as the external comparator group.
-The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
+Based on prospective reports to the APR of over 5,400 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,900 exposed in the first trimester and over 1,500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) and 2.7 % (95% CI: 1.9 % to 3.7 %) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
 
-Additionally, published observational studies on emtricitabine and tenofovir exposure in pregnancy have not shown an increased risk for major malformations.
+Tenofovir Alafenamide (TAF)
+
+Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2 % (95% CI: 2.6 % to 6.3 %) and 3.0% (95% CI: 0.8% to 7.5 %) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 
