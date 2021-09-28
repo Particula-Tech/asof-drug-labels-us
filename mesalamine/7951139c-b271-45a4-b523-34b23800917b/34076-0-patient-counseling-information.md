@@ -24,19 +24,24 @@ Hepatic Failure
 
 Inform patients with known liver disease of the signs and symptoms of worsening liver function and advise them to report to their healthcare provider if they experience such signs or symptoms [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients of the signs and symptoms of severe cutaneous adverse reactions.
+Instruct patients to stop taking APRISO and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Photosensitivity
 
 Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use
 
-a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.5)].
+a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
 
 Nephrolithiasis
 
-Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.6)].
+Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Patients with Phenylketonuria
 
-Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO capsule contains aspartame equivalent to 0.56 mg of phenylalanine, so that the recommended adult dosing provides an equivalent of 2.24 mg of phenylalanine per day [see Warnings and Precautions (5.7)].
+Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO capsule contains aspartame equivalent to 0.56 mg of phenylalanine, so that the recommended adult dosing provides an equivalent of 2.24 mg of phenylalanine per day [see Warnings and Precautions (5.8)].
 
 Blood Disorders
 
@@ -45,8 +50,8 @@ Advise patients to complete all blood tests ordered by their healthcare provider
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA U.S. Patent Number: 8,865,688
 
-Apriso is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+APRISO is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
+© 2021 Salix Pharmaceuticals, Inc. or its affiliates
 
-9602404 20003055
+P/N

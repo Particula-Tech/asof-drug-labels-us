@@ -30,25 +30,30 @@ Discontinue APRISO if an alternative etiology for the signs and symptoms cannot 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Evaluate the risks and benefits of using APRISO in patients with known liver impairment.
 
-## 5.5 Photosensitivity
+## 5.5 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of mesalamine [see Adverse Reactions (6.2)].
+Discontinue APRISO at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
+
+## 5.6 Photosensitivity
 
 Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
 Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-## 5.6 Nephrolithiasis
+## 5.7 Nephrolithiasis
 
 Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with 100% mesalamine content.
 Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
 Ensure adequate fluid intake during treatment with APRISO.
 
-## 5.7 Risks in Patients with Phenylketonuria
+## 5.8 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 APRISO contains phenylalanine, a component of aspartame.
 Each APRISO 0.375 g capsule contains 0.56 mg of phenylalanine.
 Before prescribing APRISO to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including APRISO.
 
-## 5.8 Interference with Laboratory Tests
+## 5.9 Interference with Laboratory Tests
 
 Use of APRISO may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
 Consider an alternative, selective assay for normetanephrine.

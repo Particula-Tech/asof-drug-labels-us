@@ -6,9 +6,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - •Hepatic Failure [see Warnings and Precautions (5.4)]
-- •Photosensitivity [see Warnings and Precautions (5.5)]
-- •Nephrolithiasis [see Warnings and Precautions (5.6)]
-- •Risks in Patients with Phenylketonuria [see Warnings and Precautions (5.7)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Photosensitivity [see Warnings and Precautions (5.6)]
+- •Nephrolithiasis [see Warnings and Precautions (5.7)]
+- •Risks in Patients with Phenylketonuria [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +22,7 @@ Patients received doses of APRISO 1.5 g administered orally once per day for six
 
 In the two placebo-controlled trials, the most common reactions reported in at least 3% of APRISO-treated patients and at a greater rate than placebo are shown in Table 1 below.
 
-Table 1: Common Adverse Reactions* in Clinical Trials of Adults with Ulcerative Colitis
+Table 1: Common Adverse ReactionsReported in at least 3% of APRISO-treated patients and at a greater rate than with placebo in Clinical Trials of Adults with Ulcerative Colitis
 
 |  | APRISO 1.5 g once daily N=367 | Placebo N=185 |
 | --- | --- | --- |
@@ -30,8 +31,6 @@ Table 1: Common Adverse Reactions* in Clinical Trials of Adults with Ulcerative 
 | Upper Abdominal Pain | 5% | 3% |
 | Nausea | 4% | 3% |
 | Nasopharyngitis | 4% | 3% |
-
-* Reported in at least 3% of APRISO-treated patients and at a greater rate than with placebo
 
 The following adverse reactions, presented by body system, were reported at a frequency less than 3% in patients treated with APRISO for up to 24 months in controlled and open-label trials.
 
@@ -72,10 +71,10 @@ Nervous System: intracranial hypertension
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis
 
-Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)]
+Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
-Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis
+Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis, pleurisy/pleuritis
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)]
 
 Renal/Urogenital: reversible oligospermia

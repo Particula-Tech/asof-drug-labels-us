@@ -8,5 +8,5 @@ Administration Instructions
 - •Swallow APRISO capsules whole.
   Do not cut, break, crush or chew the capsules.
 - •Avoid co-administration of APRISO with antacids [see Drug Interactions (7.1)].
-- •Drink an adequate amount of fluids [see Warnings and Precautions (5.5)].
+- •Drink an adequate amount of fluids [see Warnings and Precautions (5.6)].
 - •Take APRISO without regard to meals [see Clinical Pharmacology (12.3)].
