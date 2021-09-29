@@ -191,4 +191,4 @@ Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic
 
 Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
 
-Neurologic disorders: New or worsening seizures
+Neurologic disorders: Dyskinesia, new or worsening seizures
