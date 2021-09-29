@@ -115,7 +115,7 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapies: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
 
-The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, increased CPK, and anemia.
+The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, increased CPK, anemia, and hypoglycemia in diabetic patients.
 
 The following have been reported with hydrochlorothiazide monotherapy: acute angle-closure glaucoma, acute myopia, and choroidal effusion.
 
