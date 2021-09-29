@@ -34,7 +34,7 @@ It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours
 ### Absorption
 
 Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
-Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC [see Food Effects].
+Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC (see Food Effects).
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady-state conditions are reached on or before Day 5.
 The pharmacokinetic parameters of celecoxib in a group of healthy subjects are shown in Table 4.
@@ -57,7 +57,7 @@ Celecoxib, at doses up to 200 mg twice daily, can be administered without regard
 Higher doses (400 mg twice daily) should be administered with food to improve absorption.
 
 In healthy adult volunteers, the overall systemic exposure (AUC) of celecoxib was equivalent when celecoxib was administered as intact capsule or capsule contents sprinkled on applesauce.
-There were no significant alterations in Cmax, Tmax or t1/2 after administration of capsule contents on applesauce [see DOSAGE AND ADMINISTRATION (2)].
+There were no significant alterations in Cmax, Tmax or t1/2 after administration of capsule contents on applesauce [see Dosage and Administration (2)].
 
 ### Distribution
 
@@ -90,14 +90,14 @@ Geriatric:
 At steady state, elderly subjects (over 65 years old) had a 40% higher Cmax and a 50% higher AUC compared to the young subjects.
 In elderly females, celecoxib Cmax and AUC are higher than those for elderly males, but these increases are predominantly due to lower body weight in elderly females.
 Dose adjustment in the elderly is not generally necessary.
-However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see DOSAGE AND ADMINISTRATION (2.7) and USE IN SPECIFIC POPULATIONS (8.5)].
+However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [Use in Specific Populations (8.5)].
 
 Pediatric:
 
 The steady state pharmacokinetics of celecoxib administered as an investigational oral suspension was evaluated in 152 JRA patients 2 years to 17 years of age weighing ≥10 kg with pauciarticular or polyarticular course JRA and in patients with systemic onset JRA.
 Population pharmacokinetic analysis indicated that the oral clearance (unadjusted for body weight) of celecoxib increases less than proportionally to increasing weight, with 10 kg and 25 kg patients predicted to have 40% and 24% lower clearance, respectively, compared with a 70 kg adult RA patient.
 
-Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤ 25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see DOSAGE AND ADMINISTRATION (2.4)].
+Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤ 25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see Dosage and Administration (2.4)].
 Celecoxib has not been studied in JRA patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), or beyond 24 weeks.
 
 Race:
@@ -110,14 +110,14 @@ Hepatic Impairment:
 A pharmacokinetic study in subjects with mild (Child-Pugh Class A) and moderate (Child-Pugh Class B) hepatic impairment has shown that steady-state celecoxib AUC is increased about 40% and 180%, respectively, above that seen in healthy control subjects.
 Therefore, the daily recommended dose of celecoxib capsules should be reduced by approximately 50% in patients with moderate (Child-Pugh Class B) hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh Class C) have not been studied.
-The use of celecoxib in patients with severe hepatic impairment is not recommended [see DOSAGE AND ADMINISTRATION (2.6) and USE IN SPECIFIC POPULATIONS (8.6)].
+The use of celecoxib in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Renal Impairment:
 
 In a cross-study comparison, celecoxib AUC was approximately 40% lower in patients with chronic renal insufficiency (GFR 35 to 60 mL/min) than that seen in subjects with normal renal function.
 No significant relationship was found between GFR and celecoxib clearance.
 Patients with severe renal insufficiency have not been studied.
-Similar to other NSAIDs, celecoxib capsules are not recommended in patients with severe renal insufficiency [see WARNINGS AND PRECAUTIONS (5.6)].
+Similar to other NSAIDs, celecoxib capsules are not recommended in patients with severe renal insufficiency [see Warnings and Precautions (5.6)].
 
 ### Drug Interaction Studies
 
@@ -129,20 +129,20 @@ Aspirin:
 
 When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
-See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see DRUG INTERACTIONS (7)].
+See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Lithium:
 
-In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg twice daily with celecoxib capsules 200 mg twice daily as compared to subjects receiving lithium alone [see DRUG INTERACTIONS (7)].
+In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg twice daily with celecoxib capsules 200 mg twice daily as compared to subjects receiving lithium alone [see Drug Interactions (7)].
 
 Fluconazole:
 
 Concomitant administration of fluconazole at 200 mg once daily resulted in a two-fold increase in celecoxib plasma concentration.
-This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole [see DRUG INTERACTIONS (7)].
+This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole [see Drug Interactions (7)].
 
 Other Drugs:
 
-The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole, [see DRUG INTERACTIONS (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
+The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole, [see Drug Interactions (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
 
 ## 12.5 Pharmacogenomics
 
@@ -150,4 +150,4 @@ CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead t
 Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
 The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
 It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
-[see DOSAGE AND ADMINISTRATION (2.6), USE IN SPECIFIC POPULATIONS (8.8)].
+[see Dosage and Administration (2.7), Use in Specific Populations (8.8)].

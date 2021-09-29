@@ -27,7 +27,7 @@ The response rates were based upon the JRA Definition of Improvement greater tha
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of celecoxib for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.12)].
+The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.1, 5.15)].
 
 ## 14.4 Ankylosing Spondylitis
 
@@ -40,7 +40,7 @@ The responder analysis also demonstrated no change in the responder rates beyond
 ## 14.5 Analgesia, including Primary Dysmenorrhea
 
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, celecoxib capsules relieved pain that was rated by patients as moderate to severe.
-Single doses [see DOSAGE AND ADMINISTRATION (2.6)] of celecoxib capsules provided pain relief within 60 minutes.
+Single doses [see Dosage and Administration (2.6)] of celecoxib capsules provided pain relief within 60 minutes.
 
 ## 14.6 Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
 
@@ -143,7 +143,7 @@ Patients were allowed to take concomitant low-dose (≤ 325 mg/day) aspirin (ASA
 Differences in the incidence of complicated ulcers between celecoxib and the combined group of ibuprofen and diclofenac were not statistically significant.
 
 Patients on celecoxib and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105).
-The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low-dose ASA and those not on ASA, respectively [see WARNINGS AND PRECAUTIONS (5.4)].
+The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low-dose ASA and those not on ASA, respectively [see Warnings and Precautions (5.4)].
 
 The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with celecoxib capsules 400 mg twice daily are described in Table 7.
 Table 7 also displays results for patients less than or greater than 65 years of age.
@@ -163,7 +163,7 @@ $ Table 7: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib 
 | Celecoxib with ASA (n=479) | 3.06 |
 
 In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib alone or celecoxib with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
-These results are to be expected in patients with a prior history of ulcer disease [see WARNINGS AND PRECAUTIONS (5.4) and ADVERSE REACTIONS (6.1)].
+These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Cardiovascular safety outcomes were also evaluated in the CLASS trial.
 Kaplan-Meier cumulative rates for investigator-reported serious cardiovascular thromboembolic adverse events (including MI, pulmonary embolism, deep venous thrombosis, unstable angina, transient ischemic attacks, and ischemic cerebrovascular accidents) demonstrated no differences between the celecoxib, diclofenac, or ibuprofen treatment groups.
@@ -177,11 +177,11 @@ The rates of hypertension from the CLASS trial in the celecoxib, ibuprofen and d
 ### Endoscopic Studies
 
 The correlation between findings of short-term endoscopic studies with celecoxib and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib in controlled and open-labeled trials [see WARNINGS AND PRECAUTIONS (5.4) and CLINICAL STUDIES (14.7)]
+Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib in controlled and open-labeled trials [see Warnings and Precautions (5.2) and Clinical Studies (14.7)]
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking celecoxib capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
-However, celecoxib was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see CLINICAL STUDIES (14.7)].
+However, celecoxib was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.7)].
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
 There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of celecoxib capsules (50 mg to 400 mg twice daily).

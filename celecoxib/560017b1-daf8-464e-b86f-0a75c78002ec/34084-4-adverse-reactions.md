@@ -1,14 +1,14 @@
 # 6 ADVERSE REACTIONS
 
-- Cardiovascular Thrombotic Events [see WARNINGS AND PRECAUTIONS (5.1)]
-- GI Bleeding, Ulceration and Perforation [see WARNINGS AND PRECAUTIONS (5.2)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.3)]
-- Hypertension [see WARNINGS AND PRECAUTIONS (5.4)]
-- Heart Failure and Edema [see WARNINGS AND PRECAUTIONS (5.5)]
-- Renal Toxicity and Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.6)]
-- Anaphylactic Reactions [see WARNINGS AND PRECAUTIONS (5.7)]
-- Serious Skin Reactions [see WARNINGS AND PRECAUTIONS (5.9)]
-- Hematologic Toxicity [see WARNINGS AND PRECAUTIONS (5.11)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -85,15 +85,15 @@ The following adverse reactions occurred in 0.1% to 1.9% of patients treated wit
 | General: | Sepsis, sudden death |
 | Liver and biliary: | Cholelithiasis |
 | Hemic and lymphatic: | Thrombocytopenia |
-| Nervous: | Ataxia, suicide [see DRUG INTERACTIONS (7.1)] |
+| Nervous: | Ataxia, suicide [see Drug Interactions(7)] |
 | Renal: | Acute renal failure |
 
-### The Celecoxib Long-Term Arthritis Safety Study [see CLINICAL STUDIES (14.7)]
+### The Celecoxib Long-Term Arthritis Safety Study [see Clinical Studies (14.7)]
 
 Hematological Events
 
 The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on celecoxib capsules 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
-The lower incidence of events with celecoxib was maintained with or without aspirin use [see CLINICAL PHARMACOLOGY (12.2)].
+The lower incidence of events with celecoxib was maintained with or without aspirin use [see Clinical Pharmacology (12.2)].
 
 Withdrawals/Serious Adverse Events
 
@@ -161,7 +161,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 Adverse reactions from long-term, placebo-controlled polyp prevention studies
 
 Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years.
-[see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+[see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:

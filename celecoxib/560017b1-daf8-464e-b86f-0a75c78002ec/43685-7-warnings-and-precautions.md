@@ -10,19 +10,19 @@ Some observational studies found that this increased risk of serious CV thrombot
 The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
 In the APC (Adenoma Prevention with Celecoxib) trial, there was about a threefold increased risk of the composite endpoint of cardiovascular death, MI, or stroke for the celecoxib capsules 400 mg twice daily and celecoxib capsules 200 mg twice daily treatment arms compared to placebo.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see CLINICAL STUDIES (14.7)].
+The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.7)].
 
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID, such as celecoxib increases the risk of serious gastrointestinal (GI) events [see WARNINGS AND PRECAUTIONS (5.2)].
+The concurrent use of aspirin and an NSAID, such as celecoxib increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
 ### Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
-NSAIDs are contraindicated in the setting of CABG [see CONTRAINDICATIONS (4)].
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 
 ### Post-MI Patients
 
@@ -49,7 +49,7 @@ Most postmarketing reports of fatal GI events occurred in elderly or debilitated
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
-Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see CLINICAL STUDIES (14.7)].
+Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
 
 ### Strategies to Minimize the GI Risks in NSAID-treated patients:
 
@@ -59,7 +59,7 @@ Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.0
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue celecoxib capsules until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see DRUG INTERACTIONS (7)].
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 
@@ -76,9 +76,9 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 ## 5.4 Hypertension
 
 NSAIDs, including celecoxib capsules, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [see DRUG INTERACTIONS (7)].
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
-See CLINICAL STUDIES (14.6, 14.7) for additional blood pressure data for celecoxib capsules.
+See Clinical Studies (14.6, 14.7) for additional blood pressure data for celecoxib capsules.
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
@@ -88,9 +88,9 @@ The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of random
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
-Use of celecoxib may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see DRUG INTERACTIONS (7)].
+Use of celecoxib may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
-In the CLASS study [see CLINICAL STUDIES (14.7)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
+In the CLASS study [see Clinical Studies (14.7)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
 
 Avoid the use of celecoxib capsules in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If celecoxib capsules is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
@@ -110,7 +110,7 @@ No information is available from controlled clinical studies regarding the use o
 The renal effects of celecoxib capsules may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating celecoxib capsules.
-Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of celecoxib [see DRUG INTERACTIONS (7)].
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of celecoxib [see Drug Interactions (7)].
 Avoid the use of celecoxib in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
 If celecoxib is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
@@ -122,14 +122,14 @@ In patients with normal renal function, these effects have been attributed to a 
 ## 5.7 Anaphylactic Reactions
 
 Celecoxib has been associated with anaphylactic reactions in patients with and without known hypersensitivity to celecoxib and in patients with aspirin sensitive asthma.
-Celecoxib capsules is a sulfonamide and both NSAIDs and sulfonamides may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.8)].
+Celecoxib capsules is a sulfonamide and both NSAIDs and sulfonamides may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people [see Contraindications (4) and Warnings and Precautions (5.8)].
 
 Seek emergency help if any anaphylactic reaction occurs.
 
 ## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
-Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, celecoxib is contraindicated in patients with this form of aspirin sensitivity [see CONTRAINDICATIONS (4)].
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, celecoxib is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
 When celecoxib capsules are used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## 5.9 Serious Skin Reactions
@@ -138,14 +138,40 @@ Serious skin reactions have occurred following treatment with celecoxib, includi
 These serious events may occur without warning and can be fatal.
 
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib at the first appearance of skin rash or any other sign of hypersensitivity.
-Celecoxib is contraindicated in patients with previous serious skin reactions to NSAIDs [see CONTRAINDICATIONS (4)].
+Celecoxib is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Celecoxib may cause premature closure of the ductus arteriosus.
-Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at 30 weeks of gestation (third trimester) [see USE IN SPECIFIC POPULATIONS (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as celecoxib.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue celecoxib and evaluate the patient immediately.
 
-## 5.11 Hematological Toxicity
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including celecoxib, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including celecoxib, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including celecoxib, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit celecoxib use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if celecoxib treatment extends beyond 48 hours.
+Discontinue celecoxib if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematological Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -156,20 +182,20 @@ Patients on long-term treatment with celecoxib capsules should have their hemogl
 
 NSAIDs, including celecoxib, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet drugs (e.g., aspirin), SSRIs and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
-Monitor these patients for signs of bleeding [see DRUG INTERACTIONS (7)].
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of celecoxib in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
 
 In controlled clinical trials, elevated BUN occurred more frequently in patients receiving celecoxib capsules compared with patients on placebo.
 This laboratory abnormality was also seen in patients who received comparator NSAIDs in these studies.
 The clinical significance of this abnormality has not been established.
 
-## 5.14 Disseminated Intravascular Coagulation (DIC)
+## 5.15 Disseminated Intravascular Coagulation (DIC)
 
 Because of the risk of disseminated intravascular coagulation with use of celecoxib in pediatric patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, and inform patients and their caregivers to report symptoms as soon as possible.
