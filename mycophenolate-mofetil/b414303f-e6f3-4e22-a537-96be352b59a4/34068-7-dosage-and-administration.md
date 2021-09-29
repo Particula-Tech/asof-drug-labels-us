@@ -2,6 +2,8 @@
 
 ## 2.1 Important Administration Instructions
 
+Mycophenolate mofetil capsules should not be used without the supervision of a physician with experience in immunosuppressive therapy.
+
 Mycophenolate Mofetil Capsules
 
 Mycophenolate mofetil capsules should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of mycophenolate mofetil capsules and mycophenolic acid delayed-release tablets are not equivalent.
@@ -27,14 +29,14 @@ Pediatrics (3 months and older)
 
 Pediatric dosing is based on body surface area (BSA).
 The recommended dose of mycophenolate mofetil oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2g or 10 mL of the oral suspension).
-Pediatric patients with BSA ≥ 1.25 m2 may be dosed with capsules or tablets as follows:
+Pediatric patients with BSA ≥1.25 m2 may be dosed with capsules or tablets as follows:
 
 Table 1 Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
 | Body Surface Area | Dosing |
 | --- | --- |
 | 1.25 m2 to <1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g daily dose) |
-| ≥ 1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g daily dose) |
+| ≥1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g daily dose) |
 
 ## 2.3 Dosing for Heart Transplant Patients: Adults
 
@@ -49,9 +51,9 @@ The recommended dose of mycophenolate mofetil for adult liver transplant patient
 Renal Impairment
 
 No dose adjustments are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
-In kidney transplant patients with severechronic impairment of the graft (GFR <25 mL/min/1.73 m2), do not administer doses of mycophenolate mofetil greater than 1 g twice a day.
+In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), do not administer doses of mycophenolate mofetil greater than 1 g twice a day.
 These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
 Neutropenia
 
-If neutropenia develops (ANC <1.3 x 103/mL), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1].
+If neutropenia develops (ANC <1.3 x 103/μL), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1].

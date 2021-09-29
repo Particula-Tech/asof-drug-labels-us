@@ -54,14 +54,14 @@ One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral s
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily mycophenolate mofetil capsules [see Clinical Pharmacology (12.3)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
-The combined incidence of graft loss (5%) and patient death (2%) at 12 months post- transplant was similar to that observed in adult kidney transplant patients.
+The combined incidence of graft loss (5%) and patient death (2%) at 12 months post-transplant was similar to that observed in adult kidney transplant patients.
 
 ## 14.2 Heart Transplantation
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary de novo heart transplant recipients was performed at centers in the United States (20), in Canada (1), in Europe (5) and in Australia (2).
 The total number of patients enrolled (ITT population) was 650; 72 never received study drug and 578 received study drug (Safety Population).
 Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune® or Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
-The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy- proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
+The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
 The analyses of the endpoints showed:
@@ -77,7 +77,7 @@ Table 13 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-t
 | Biopsy-proven rejection with hemodynamic compromise at 6 monthsa | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or re-transplantation at 1 year | 49(15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 
-a Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ³20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction £30%; pulmonary artery oxygen saturation £60% or a 25% decrease; presence of new S3 gallop; fractional shortening was £20% or a 25% decrease; inotropic support required to manage the clinical condition.
+a Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition.
 
 ## 14.3 Liver Transplantation
 

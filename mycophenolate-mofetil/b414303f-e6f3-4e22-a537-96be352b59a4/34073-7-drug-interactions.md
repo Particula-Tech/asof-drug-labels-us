@@ -32,8 +32,8 @@ Table 6 Drug Interactions with Mycophenolate Mofetil Capsules that Affect Other 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |
 | Clinical Impact | When concomitantly used with mycophenolate mofetil capsules, its metabolite MPAG, may compete with drugs eliminated by renal tubular secretion which may increase plasma concentrations and/or adverse reactions associated with these drugs. |
-| Prevention orManagement | Monitor for drug-related adverse reactions in patients with renalimpairment. |
+| Prevention or Management | Monitor for drug-related adverse reactions in patients with renalimpairment. |
 | Examples | Acyclovir, ganciclovir, probenecid, valacyclovir, valganciclovir |
 | Combination Oral Contraceptives |  |
 | Clinical Impact | Concomitant use with mycophenolate mofetil capsules decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |
-| Prevention orManagement | Use additional barrier contraceptive methods. |
+| Prevention or Management | Use additional barrier contraceptive methods. |

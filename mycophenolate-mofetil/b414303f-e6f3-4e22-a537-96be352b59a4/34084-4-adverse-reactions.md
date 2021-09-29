@@ -34,7 +34,7 @@ Approximately 53% of the kidney transplant patients, 65% of the heart transplant
 Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation (Reported in ≥20% of Patients in the Mycophenolate Mofetil Group)
+Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
 | Adverse drug reaction | Kidney Studies |  |  |  | Heart Study |  |  | Liver Study |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 -Nervous system malformations: such as spina bifida.
 
-- Digestive:Colitis, pancreatitis
+- Digestive: Colitis, pancreatitis
 
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.

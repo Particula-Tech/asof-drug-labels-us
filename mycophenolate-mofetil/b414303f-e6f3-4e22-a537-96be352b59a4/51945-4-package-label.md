@@ -2,20 +2,8 @@
 
 NDC 0093-7334-01
 
-Mycophenolate
+Mycophenolate Mofetil Capsules, USP 250
 
-Mofetil
-
-Capsules, USP
-
-250 mg
-
-PHARMACIST: Dispense the accompanying
-
-Medication Guide to each patient.
+100 Capsules
 
 Rx only
-
-100 CAPSULES
-
-TEVA

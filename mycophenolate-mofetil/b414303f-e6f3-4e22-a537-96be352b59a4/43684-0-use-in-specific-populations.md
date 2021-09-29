@@ -47,7 +47,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Data
 
 Limited information is available from the National Transplantation Pregnancy Registry.
-Of seven infants reported by the National Transplantation Pregnancy Registry to have been breastfed while the mother was taking mycophenolate, all were born at 34 to 40 weeks gestation, and breastfed for up to 14 months.
+Of seven infants reported by the National Transplantation Pregnancy Registry to have been breastfed while the mother was taking mycophenolate, all were born at 34-40 weeks gestation, and breastfed for up to 14 months.
 No adverse events were reported.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -76,9 +76,31 @@ Patients must use acceptable birth control during the entire mycophenolate mofet
 
 Patients should be aware that mycophenolate mofetil capsules reduce blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7 Acceptable Contraception Methods For Females Of Reproductive Potential
+Table 7 Acceptable Contraception Methods for Females of Reproductive Potential
 
 Pick from the following birth control options:
+
+| Option 1 |  |
+| --- | --- |
+| Methods to | Intrauterine devices (IUDs) |
+| Use Alone | Tubal sterilization |
+|  | Patient’s partner vasectomy |
+
+| OR |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Option 2 | Hormone Methodschoose 1 |  | Barrier Methodschoose 1 |  |
+| Choose One Hormone Method AND | Estrogen and Progesterone Oral Contraceptive Pill |  | Diaphragm with spermicide |  |
+| One Barrier Method | Transdermal patch |  | Cervical cap with spermicide |  |
+|  | Vaginal ring | AND | Contraceptive sponge |  |
+|  |  |  | Male condom |  |
+|  | Progesterone-only |  | Female condom |  |
+|  | Injection |  |  |  |
+|  | Implant |  |  |  |
+| OR |  |  |  |  |
+| Option 3 | Barrier Methodschoose 1 |  | Barrier Methodschoose 1 |  |
+| Choose One Barrier Method from each column (must choose two methods) | Diaphragm with spermicide |  | Male condom |  |
+|  | Cervical cap with spermicide | AND | Female condom |  |
+|  | Contraceptive sponge |  |  |  |
 
 Male Patients
 

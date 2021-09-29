@@ -47,11 +47,11 @@ Monitoring infected patients for clinical and laboratory signs of active HBV or 
 
 ## 5.4 Blood Dyscrasias: Neutropenia and Pure Red Cell Aplasia (PRCA)
 
-Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/mL] developed in transplant patients receiving mycophenolate mofetil capsules 3 g daily [see Adverse Reactions (6.1)].
+Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/μL] developed in transplant patients receiving mycophenolate mofetil capsules 3 g daily [see Adverse Reactions (6.1)].
 Patients receiving mycophenolate mofetil capsules should be monitored for neutropenia.
 Neutropenia has been observed most frequently in the period from 31 to 180 days post-transplant in patients treated for prevention of kidney, heart and liver rejection.
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or a combination of these causes.
-If neutropenia develops (ANC <1.3 x 103/mL), dosing with mycophenolate mofetil capsules should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Dosage and Administration (2.5)].
+If neutropenia develops (ANC <1.3 x 103/μL), dosing with mycophenolate mofetil capsules should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Dosage and Administration (2.5)].
 
 Patients receiving mycophenolate mofetil capsules should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
@@ -81,7 +81,7 @@ Patients should not donate blood during therapy and for at least 6 weeks followi
 
 ## 5.11 Semen Donation
 
-Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules [see Use In Specific Populations (8.3)].
+Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules [see Use in Specific Populations (8.3)].
 
 ## 5.12 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
 

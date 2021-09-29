@@ -8,25 +8,21 @@ See FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Pregnancy loss and malformations
 
-Inform females of reproductive potential and pregnant women that use of mycophenolate mofetil capsules during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations.
-Advise that they must use an acceptable form of contraception [see Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)].
-
-Encourage pregnant women to enroll in the Pregnancy Exposure Registry.
-This registry monitors pregnancy outcomes in women exposed to mycophenolate [see Use in Specific Populations (8.1)].
+- Inform females of reproductive potential and pregnant women that use of mycophenolate mofetil capsules during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations.
+  Advise that they must use an acceptable form of contraception [see Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)].
+- Encourage pregnant women to enroll in the Pregnancy Exposure Registry.
+  This registry monitors pregnancy outcomes in women exposed to mycophenolate [see Use in Specific Populations (8.1)].
 
 Contraception
 
-Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential [see Use in Specific Populations (8.3)].
-
-Females of reproductive potential must use an acceptable form of birth control during the entire mycophenolate mofetil capsule therapy and for 6 weeks after stopping mycophenolate mofetil capsules, unless the patient chooses abstinence.
-Mycophenolate mofetil capsules may reduce effectiveness of oral contraceptives.
-Use of additional barrier contraceptive methods is recommended [see Use in Specific Populations (8.3)].
-
-For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
-Risks and benefits of mycophenolate mofetil capsules should be discussed with the patient.
-
-Advise sexually active male patients and/or their partners to use effective contraception during the treatment of the male patient and for at least 90 days after cessation of treatment.
-This recommendation is based on findings of animal studies [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+- Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential [see Use in Specific Populations (8.3)].
+- Females of reproductive potential must use an acceptable form of birth control during the entire mycophenolate mofetil capsule therapy and for 6 weeks after stopping mycophenolate mofetil capsules, unless the patient chooses abstinence.
+  Mycophenolate mofetil capsules may reduce effectiveness of oral contraceptives.
+  Use of additional barrier contraceptive methods is recommended [see Use in Specific Populations (8.3)].
+- For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
+  Risks and benefits of mycophenolate mofetil capsules should be discussed with the patient.
+- Advise sexually active male patients and/or their partners to use effective contraception during the treatment of the male patient and for at least 90 days after cessation of treatment.
+  This recommendation is based on findings of animal studies [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
 ## 17.2 Development of Lymphoma and Other Malignancies
 
@@ -77,12 +73,14 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 Advise patients that mycophenolate mofetil capsules can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
+
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-P 6/2020
+Q 8/2021
