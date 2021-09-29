@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-A two-year carcinogenicity study was conducted in rats at abiraterone acetate oral doses of 5, 15, and 50 mg/kg/day for males and 15, 50, and 150 mg/kg/day for females.
+A two-year carcinogenicity study was conducted in rats at oral abiraterone acetate doses of 5, 15, and 50 mg/kg/day for males and 15, 50, and 150 mg/kg/day for females.
 Abiraterone acetate increased the combined incidence of interstitial cell adenomas and carcinomas in the testes at all dose levels tested.
 This finding is considered to be related to the pharmacological activity of abiraterone.
 Rats are regarded as more sensitive than humans to developing interstitial cell tumors in the testes.

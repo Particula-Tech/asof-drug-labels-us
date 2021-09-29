@@ -8,7 +8,7 @@ The safety and efficacy of YONSA have not been established in females.
 Based on findings from animal studies and the mechanism of action, YONSA can cause fetal harm and potential loss of pregnancy.
 
 There are no human data on the use of YONSA in pregnant women.
-In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis, caused adverse developmental effects at maternal exposures of approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose (see Data).
+In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures of approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose (see Data).
 
 Data
 
@@ -24,7 +24,7 @@ The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03
 Risk Summary
 
 The safety and efficacy of YONSA have not been established in females.
-There is no information available on the presence of abiraterone acetate in human milk, or on the effects on the breastfed child or milk production.
+There is no information available on the presence of abiraterone in human milk, or on the effects on the breastfed child or milk production.
 
 ## 8.3 Females and Males of Reproductive Potential
 
