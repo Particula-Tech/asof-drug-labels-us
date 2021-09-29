@@ -91,7 +91,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Card Label
 
 NDC 0008-1040-10
 
@@ -101,9 +101,9 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-13096000
+PAA073118
 
-EXP AND LOT AREA
+LOT X EXP Y
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Card Carton
 
@@ -139,7 +139,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Card Label
 
 NDC 0008-1041-10
 
@@ -149,9 +149,9 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-13096300
+PAA086081
 
-EXP AND LOT AREA
+LOT X EXP Y
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Card Carton
 
