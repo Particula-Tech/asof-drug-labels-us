@@ -74,7 +74,18 @@ Fluoxetine should be used during pregnancy only if the potential benefit justifi
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking SARAFEM is not recommended [see Use in Specific Populations (8.3)].
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612 Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited © 2016 Allergan.
+17.12 Sexual Dysfunction
+
+Advise patients that use of SARAFEM may cause symptoms of sexual dysfunction in female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.15)].
+
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
+
+Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited
+
+© 2021 Allergan.
 All rights reserved.
 
-01/2017
+09/2021
+
+v1.0USPI0210

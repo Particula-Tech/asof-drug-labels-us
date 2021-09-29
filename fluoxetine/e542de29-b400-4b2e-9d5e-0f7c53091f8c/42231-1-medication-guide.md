@@ -1,8 +1,6 @@
 Medication Guide
 
-SARAFEM® (SAIR-a-fem) (fluoxetine hydrochloride)
-
-Tablets
+SARAFEM® (SAIR-a-fem) (fluoxetine hydrochloride) Tablets
 
 Read the Medication Guide that comes with SARAFEM before you start taking it and each time you get a refill.
 There may be new information.
@@ -21,7 +19,9 @@ Suicidal thoughts or actions:
 
 - SARAFEM and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice: ○ New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe. ○ Pay particular attention to such changes when SARAFEM is started or when the dose is changed.
+- Watch for these changes and call your healthcare provider right away if you notice:
+  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - Pay particular attention to such changes when SARAFEM is started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -103,6 +103,18 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+10.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including SARAFEM, may cause symptoms of sexual problems
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with SARAFEM.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop SARAFEM without first talking to your healthcare provider.
 Stopping SARAFEM too quickly may cause serious symptoms including:
 
@@ -123,7 +135,9 @@ Who should not take SARAFEM?
 Do not take SARAFEM if you:
 
 - take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. ○ Do not take an MAOI within 5 weeks of stopping SARAFEM unless directed to do so by your healthcare provider. ○ Do not start SARAFEM if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - Do not take an MAOI within 5 weeks of stopping SARAFEM unless directed to do so by your healthcare provider.
+  - Do not start SARAFEM if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 
 Women who take SARAFEM close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -133,8 +147,10 @@ Get medical help right away if you have any of these symptoms:
 - stiff muscles
 - rapid changes in heart rate or blood pressure
 - confusion
-- loss of consciousness (pass out) • take Mellaril® (thioridazine).
-  Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death. • take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- loss of consciousness (pass out)
+- take Mellaril® (thioridazine).
+  Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death.
+- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 
 What should I tell my healthcare provider before taking SARAFEM?
 Ask if you are not sure.
@@ -246,11 +262,13 @@ Inactive ingredients: microcrystalline cellulose, croscarmellose sodium, colloid
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited
 
-© 2016 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
-01/2017
+Rev: 09/2021
+
+v1.0USPI0210

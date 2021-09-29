@@ -213,3 +213,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the dose may continue to be decreased but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
+
+## 5.15 Sexual Dysfunction
+
+Use of SSRIs, including SARAFEM, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1, 6.2)].
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of SARAFEM and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

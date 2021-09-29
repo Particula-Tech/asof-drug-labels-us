@@ -16,8 +16,6 @@ The 20 mg tablet is a yellow, round tablet embossed with S20 on one side:
 
 NDC 0430-0220-14 - Four blister cards of 7 tablets each
 
-________________
-
 1 Equivalent to fluoxetine base.
 
 ## 16.2 Storage and Handling

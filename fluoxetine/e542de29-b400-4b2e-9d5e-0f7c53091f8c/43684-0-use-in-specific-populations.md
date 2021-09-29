@@ -2,18 +2,18 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C — It should be noted that the diagnosis of PMDD does exist during pregnancy.
+Pregnancy Category C - It should be noted that the diagnosis of PMDD does exist during pregnancy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
-Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Treatment of Pregnant Women during the First Trimester - There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
 Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
 More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
 However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
 
-Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Nonteratogenic Effects - Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -27,10 +27,10 @@ Other studies do not show a significant statistical association.
 Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
 Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
 
-When treating a pregnant woman with fluoxetine, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+When treating a pregnant woman with fluoxetine the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
 The decision can only be made on a case by case basis.
 
-Animal Data — In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
+Animal Data - In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
 However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
 There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
 The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).

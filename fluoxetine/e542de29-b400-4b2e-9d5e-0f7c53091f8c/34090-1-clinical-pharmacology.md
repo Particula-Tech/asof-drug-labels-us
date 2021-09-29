@@ -9,7 +9,7 @@ Although the exact mechanism of SARAFEM is unknown, it is presumed to be linked 
 Studies at clinically relevant doses in humans have demonstrated that fluoxetine blocks the uptake of serotonin into human platelets.
 Studies in animals also suggest that fluoxetine is a much more potent uptake inhibitor of serotonin than of norepinephrine.
 
-Antagonism of muscarinic, histaminergic, and α1- adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of classical tricyclic antidepressant (TCA) drugs.
+Antagonism of muscarinic, histaminergic, and α1-adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of classical tricyclic antidepressant (TCA) drugs.
 Fluoxetine binds to these and other membrane receptors from brain tissue much less potently in vitro than do the tricyclic drugs.
 
 Enantiomers — Fluoxetine is a racemic mixture (50/50) of R-fluoxetine and S-fluoxetine enantiomers.
