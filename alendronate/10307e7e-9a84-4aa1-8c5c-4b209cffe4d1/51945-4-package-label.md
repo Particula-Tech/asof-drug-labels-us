@@ -20,7 +20,8 @@ See accompanying circular for dosage information.
 
 Manuf. for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
-By: FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
+By: Rovi Pharma Industrial Services, S.A.
+28805 Alcalá de Henares Madrid, Spain
 
 Made in Spain
 
@@ -46,6 +47,7 @@ See accompanying circular for dosage information.
 
 Manuf. for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
-By: FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
+By: Rovi Pharma Industrial Services, S.A.
+28805 Alcalá de Henares Madrid, Spain
 
 Made in Spain
