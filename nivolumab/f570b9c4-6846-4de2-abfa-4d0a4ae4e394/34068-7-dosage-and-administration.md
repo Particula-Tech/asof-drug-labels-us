@@ -118,9 +118,9 @@ Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
 - •The product does not contain a preservative.
 
-- •After preparation, store the diluted solution either: • at room temperature for no more than 8 hours from the time of preparation to end of the infusion.
-  Discard diluted solution if not used within 8 hours from the time of preparation; or • under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of preparation to end of infusion.
-  Discard diluted solution if not used within 24 hours from the time of preparation.
+- •After preparation, store the diluted solution either: • at room temperature and room light for no more than 8 hours from the time of preparation to end of the infusion.
+  Discard diluted solution if not used within 8 hours from the time of preparation; or • under refrigeration at 2°C to 8°C (36°F to 46°F) and protected from light for no more than 7 days from the time of preparation to end of infusion.
+  Discard diluted solution if not used within 7 days from the time of preparation.
 - •Do not freeze.
 
 ### Administration
