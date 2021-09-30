@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no significant difference in the overall risk of birth defects for tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Available data from the APR show no statistically significant difference in the overall risk of birth defects for tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 
@@ -20,9 +20,9 @@ Data
 
 Human Data
 
-Based on prospective reports to the APR of exposures to TAF-containing regimens during pregnancy resulting in live births (including over 200 exposed in the first trimester and over 80 exposed in the second/third trimester), the prevalence of birth defects in live births was 5.2% (95% CI: 2.7% to 8.8%) and 1.2% (95% CI: 0% to 6.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 Methodologic limitations of the APR include the use of MACDP as the external comparator group.
-The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
 Animal Data
 
