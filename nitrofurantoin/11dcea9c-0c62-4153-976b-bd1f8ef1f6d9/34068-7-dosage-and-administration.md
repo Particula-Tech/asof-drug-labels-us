@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Nitrofurantoin oral suspension should be given with food to improve drug absorption and, in some patients, tolerance.
 

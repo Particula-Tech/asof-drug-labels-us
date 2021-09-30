@@ -33,7 +33,7 @@ Gram-Negative Aerobes
 
 Escherichia coli
 
-Note: Some strains of Enterobacter species and Klebsiella species are resistant to nitrofurantoin.
+NOTE: Some strains of Enterobacter species and Klebsiella species are resistant to nitrofurantoin.
 
 The following in vitro data are available, but their clinical significance is unknown.
 Nitrofurantoin exhibits in vitro activity against the following bacteria; however, the safety and effectiveness of nitrofurantoin in treating clinical infections due to these bacteria have not been established in adequate and well controlled clinical trials.
@@ -57,6 +57,6 @@ Klebsiella oxytoca
 Nitrofurantoin is not active against most strains of Proteus species or Serratia species.
 It has no activity against Pseudomonas species.
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.

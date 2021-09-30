@@ -6,7 +6,7 @@ REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH.
 
 CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY.
 THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX MONTHS OR LONGER.
-CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS (SEE RESPIRATORY REACTIONS).
+CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS (see RESPIRATORY REACTIONS).
 
 Hepatotoxicity
 
@@ -32,7 +32,7 @@ Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency
 This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin.
 Hemolysis is an indication for discontinuing Nitrofurantoin oral suspension; hemolysis ceases when the drug is withdrawn.
 
-Clostridium difficile-associated diarrhea:
+Clostridium difficile-associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin oral suspension, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -94,7 +94,7 @@ Pregnancy
 
 Teratogenic effects
 
-Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
+Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
 However at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain.
 There are, however, no adequate and well-controlled studies in pregnant women.
