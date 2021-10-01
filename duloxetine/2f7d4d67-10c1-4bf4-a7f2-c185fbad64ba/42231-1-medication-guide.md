@@ -245,6 +245,23 @@ Symptoms may include:
 - decreased urine flow
 - unable to pass any urine
 
+12. sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including CYMBALTA, may cause sexual problems.
+
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with CYMBALTA.
+There may be treatments your healthcare provider can suggest.
+
 The most common side effects of Cymbalta include:
 
 - nausea
@@ -304,13 +321,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: 10/2019
+Medication Guide revised: 09/2021
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 Cymbalta is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2009, 2019, Eli Lilly and Company.
+Copyright © 2009, 2021, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0005-MG-20191004
+CYM-0006-MG-20210920

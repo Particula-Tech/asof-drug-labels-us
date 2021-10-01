@@ -32,6 +32,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Concomitant Illnesses — Advise patients to inform their healthcare provider about all of their medical conditions [see Warnings and Precautions (5.14)].
 - Urinary Hesitation and Retention — CYMBALTA is in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
+- Sexual Dysfunction — Advise patients that use of CYMBALTA may cause symptoms of sexual dysfunction in both male and female patients.
+  Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
 - Pregnancy
   - Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with CYMBALTA.
   - Advise pregnant women or patients who intend to become pregnant that CYMBALTA use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
@@ -43,7 +45,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2004, 2020, Eli Lilly and Company.
+Copyright © 2004, 2021, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0012-USPI-20200521
+CYM-0013-USPI-20210920
