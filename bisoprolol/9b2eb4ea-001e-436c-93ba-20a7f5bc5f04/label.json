@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA204891"
+  ],
+  "inn": "bisoprolol",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-603-30",
+    "62332-603-31",
+    "62332-603-71",
+    "62332-604-30",
+    "62332-604-31",
+    "62332-604-71"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bisoprolol fumarate",
+      "name": "BISOPROLOL FUMARATE"
+    }
+  ],
+  "setid": "9b2eb4ea-001e-436c-93ba-20a7f5bc5f04",
+  "source": "dailymed"
+}
