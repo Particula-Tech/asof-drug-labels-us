@@ -2,14 +2,16 @@
 
 ## 10.1 Human Experience with Overdosage
 
-There is limited clinical experience with BRISDELLE overdosage in humans, as there were no overdoses reported in the clinical studies.
+The following have been reported with paroxetine tablet overdosage:
 
-Spontaneous cases of deliberate or accidental overdosage during paroxetine treatment have been reported; some of these cases were fatal and some of the fatalities appeared to involve paroxetine alone.
-Of nonfatal cases with known outcome, most recovered without sequelae.
-The largest known ingestion involved 2000 mg of paroxetine (267 times the maximum recommended daily dose) in a patient who recovered.
+- Seizures, which may be delayed, and altered mental status including coma.
+- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation.
+  Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
+- Serotonin syndrome (patients with a multiple drug overdosage with other pro-serotonergic drugs may have a higher risk).
 
-Commonly reported adverse reactions associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.
-Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including torsades de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
+Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a paroxetine overdose.
+
+Consider contacting a poison center (1-800-221-2222) or a medical toxicologist for overdose management recommendations.
 
 ## 10.2 Management of Overdosage
 

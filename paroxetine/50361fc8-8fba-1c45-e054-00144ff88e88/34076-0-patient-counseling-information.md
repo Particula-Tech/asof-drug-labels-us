@@ -21,10 +21,13 @@ Instruct patients to read the Medication Guide before starting therapy with BRIS
 - Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal supplements, because there is a potential for interaction with paroxetine [see Drug Interactions (7.3)].
 - Advise patients that paroxetine, the active ingredient in BRISDELLE, is also the active ingredient in certain other drugs and these medications should not be taken concomitantly [see Indications and Usage (1) and Drug Interactions (7.3)].
 
+- Advise patients that use of BRISDELLE may cause symptoms of sexual dysfunction in female patients.
+  Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.12)].
+
 Distributed by: Sebela Pharmaceuticals Inc., 645 Hembree Parkway, Suite I, Roswell, GA 30076
 
 www.sebelapharma.com
 
 Toll Free 1-844-732-3521
 
-BRISDELLE is a registered trademark of Sebela International Limited. © 2017 Sebela Pharmaceuticals Inc. All rights reserved.
+BRISDELLE is a registered trademark of Sebela International Limited. © 2021 Sebela Pharmaceuticals Inc. All rights reserved.

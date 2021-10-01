@@ -107,6 +107,12 @@ Driving.
 BRISDELLE may affect your ability to make decisions, think clearly, or react quickly.
 Do not drive, operate heavy machinery, or do other potentially dangerous activities until you know how BRISDELLE affects you.
 
+12.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including BRISDELLE, may cause symptoms of sexual problems.
+Symptoms in females may include: • Decrease sexual drive • Delayed or inability to have an orgasm Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with BRISDELLE.
+There may be treatments your healthcare provider can suggest.
+
 What is BRISDELLE?
 
 BRISDELLE is a prescription medicine used to reduce moderate to severe hot flashes associated with menopause.
@@ -265,6 +271,6 @@ Roswell, GA 30076
 
 www.sebelapharma.com
 
-BRISDELLE ® is a registered trademark of Sebela International Ltd. © 2017 Sebela Pharmaceuticals Inc. All rights reserved.
+BRISDELLE ® is a registered trademark of Sebela International Ltd. © 2021 Sebela Pharmaceuticals Inc. All rights reserved.
 
-Revised 03/2017
+Revised 09/2021

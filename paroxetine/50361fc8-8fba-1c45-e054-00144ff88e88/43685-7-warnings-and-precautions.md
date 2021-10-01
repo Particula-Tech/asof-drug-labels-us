@@ -94,3 +94,12 @@ Discontinue treatment with BRISDELLLE if akathisia occurs.
 
 BRISDELLE has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including motor vehicles, until they are reasonably certain that the drug treatment does not affect them adversely.
+
+## 5.12 Sexual Dysfunction
+
+Use of SSRIs, including BRISDELLE, may cause symptoms of sexual dysfunction.
+In female patients, SSRI/SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of BRISDELLE and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
