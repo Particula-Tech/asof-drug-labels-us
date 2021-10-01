@@ -62,5 +62,7 @@ Residual Inert Matrix Tablet
 
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
+
+All trademarks are property of their respective owners.
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 USA
