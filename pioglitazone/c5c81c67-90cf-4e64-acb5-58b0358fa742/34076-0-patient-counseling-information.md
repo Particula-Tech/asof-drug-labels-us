@@ -13,10 +13,12 @@ See FDA-Approved Patient Labeling (Medication Guide).
 - When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
 - Inform female patients that treatment with pioglitazone tablets, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 5/2019
+I 7/2021

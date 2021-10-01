@@ -1,6 +1,8 @@
 # MEDICATION GUIDE
 
-Pioglitazone (pye oh gli′ ta zone) Tablets Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Pioglitazone (pye" oh gli′ ta zone) Tablets Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about pioglitazone tablets, ask your doctor or pharmacist.
@@ -132,12 +134,11 @@ Pioglitazone tablets may cause serious side effects including:
 
 The most common side effects of pioglitazone tablets include:
 
-- 
-  - cold-like symptoms (upper respiratory tract infection)
-  - headache
-  - sinus infection
-  - muscle pain
-  - sore throat
+- cold-like symptoms (upper respiratory tract infection)
+- headache
+- sinus infection
+- muscle pain
+- sore throat
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the side effects of pioglitazone tablets.
@@ -148,7 +149,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pioglitazone tablets?
 
-- Store pioglitazone tablets at (68° to 77°F) 20° to 25°C.
+- Store pioglitazone tablets at 68° to 77°F (20° to 25°C).
   Keep pioglitazone tablets in the original container and protect from light
 - Keep the pioglitazone tablet bottle tightly closed and keep tablets dry
 - Keep pioglitazone tablets and all medicines out of the reach of children
@@ -176,7 +177,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-C 5/2019
+D 7/2021

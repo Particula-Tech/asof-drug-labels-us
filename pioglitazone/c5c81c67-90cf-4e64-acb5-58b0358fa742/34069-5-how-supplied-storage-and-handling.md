@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Pioglitazone Tablets USP are available as follows:
+Pioglitazone Tablets, USP are available as follows:
 
 15 mg: white to off-white, round convex tablets, debossed with “TEVA” on one side of the tablet and “7271” on the other side, available in bottles of 30 (NDC 0093-7271-56), 90 (NDC 0093-7271-98), and 500 (NDC 0093-7271-05).
 

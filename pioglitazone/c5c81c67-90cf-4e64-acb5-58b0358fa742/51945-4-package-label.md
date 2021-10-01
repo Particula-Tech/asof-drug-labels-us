@@ -2,64 +2,34 @@
 
 NDC 0093-7271-98
 
-Pioglitazone
-
-Tablets USP
+Pioglitazone Tablets, USP
 
 15 mg
 
-PHARMACIST: Dispense the
-
-accompanying Medication Guide
-
-to each patient.
-
 Rx only
 
-90 TABLETS
-
-TEVA
+30 Tablets
 
 # Package/Label Display Panel
 
 NDC 0093-7272-98
 
-Pioglitazone
-
-Tablets USP
+Pioglitazone Tablets, USP
 
 30 mg
 
-PHARMACIST: Dispense the
-
-accompanying Medication Guide
-
-to each patient.
-
 Rx only
 
-90 TABLETS
-
-TEVA
+30 Tablets
 
 # Package/Label Display Panel
 
 NDC 0093-7273-98
 
-Pioglitazone
-
-Tablets USP
+Pioglitazone Tablets, USP
 
 45 mg
 
-PHARMACIST: Dispense the
-
-accompanying Medication Guide
-
-to each patient.
-
 Rx only
 
-90 TABLETS
-
-TEVA
+30 Tablets

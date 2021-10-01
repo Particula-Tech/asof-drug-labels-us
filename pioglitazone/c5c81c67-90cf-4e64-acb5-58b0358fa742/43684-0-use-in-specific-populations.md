@@ -9,9 +9,9 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal reproduction studies, no adverse developmental effects were observed when pioglitazone was administered to pregnant rats and rabbits during organogenesis at exposures up to 5- and 35-times the 45 mg clinical dose, respectively, based on body surface area [see Data].
 
-The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c > 7 and has been reported to be as high as 20 to 25% in women with a HbA1c > 10.
+The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c > 7 and has been reported to be as high as 20% to 25% in women with a HbA1c > 10.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 

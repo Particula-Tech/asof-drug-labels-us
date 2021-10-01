@@ -259,8 +259,6 @@ Table 12: Adverse Events of Edema in Patients Treated With Pioglitazone Hydrochl
 
 Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.”
 
-Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.”
-
 Table 13: Adverse Events of Edema in Patients in the PROactive Trial
 
 | Number (%) of Patients |  |
