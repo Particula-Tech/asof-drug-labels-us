@@ -42,6 +42,11 @@ Nursing
 
 Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
 
+﻿Sexual Dysfunction
+
+Advise patients that use of PEXEVA may cause symptoms of sexual dysfunction in female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Distributed By
 
 Sebela Pharmaceuticals Inc.
@@ -54,4 +59,4 @@ www.sebelapharma.com
 
 Toll Free 1-844-732-3521
 
-©2020 Sebela Pharmaceuticals Inc. All rights reserved.
+©2021 Sebela Pharmaceuticals Inc. All rights reserved.
