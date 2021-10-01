@@ -3,10 +3,14 @@
     "ANDA213342"
   ],
   "inn": "hydroxychloroquine",
-  "labeler": "Accord Healthcare, Inc.",
+  "labeler": "Accord Healthcare, Inc.,",
   "package_ndcs": [
     "16729-485-01",
-    "16729-485-16"
+    "16729-485-16",
+    "16729-561-01",
+    "16729-562-01",
+    "16729-563-01",
+    "16729-563-16"
   ],
   "products": [
     {

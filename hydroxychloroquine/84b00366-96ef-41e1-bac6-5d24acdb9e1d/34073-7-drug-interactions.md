@@ -1,28 +1,61 @@
-# Drug Interactions
+# 7 DRUG INTERACTIONS
 
-Digoxin: Concomitant hydroxychloroquine sulfate and digoxin therapy may result in increased serum digoxin levels: serum digoxin levels should be closely monitored in patients receiving combined therapy.
+## 7.1 Drugs Prolonging QT Interval and Other Arrhythmogenic Drugs
 
-Insulin or antidiabetic drugs: As hydroxychloroquine sulfate may enhance the effects of a hypoglycemic treatment, a decrease in doses of insulin or antidiabetic drugs may be required.
+Hydroxychloroquine sulfate prolong the QT interval.
+There may be an increased risk of inducing ventricular arrhythmias if hydroxychloroquine sulfate are used concomitantly with other arrhythmogenic drugs.
+Therefore, hydroxychloroquine sulfate is not recommended in patients taking other drugs that have the potential to prolong the QT interval or are arrhythmogenic [see Warnings and Precautions (5.1)].
 
-Drugs that prolong QT interval and other arrhythmogenic drugs: Hydroxychloroquine sulfate prolongs the QT interval and should not be administered with other drugs that have the potential to induce cardiac arrhythmias.
-Also, there may be an increased risk of inducing ventricular arrhythmias if hydroxychloroquine sulfate is used concomitantly with other arrhythmogenic drugs.
+## 7.2 Insulin or Other Antidiabetic Drugs
 
-Mefloquine and other drugs known to lower the convulsive threshold: Hydroxychloroquine sulfate can lower the convulsive threshold.
-Co-administration of hydroxychloroquine sulfate with other antimalarials known to lower the convulsion threshold (e.g., mefloquine) may increase the risk of convulsions.
+Hydroxychloroquine sulfate may enhance the effects of insulin and antidiabetic drugs, and consequently increase the hypoglycemic risk.
+Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary [see Warnings and Precautions (5.8)].
 
-Antiepileptics: The activity of antiepileptic drugs might be impaired if co-administered with hydroxychloroquine sulfate.
+## 7.3 Drugs that Lower the Seizure Threshold
 
-Methotrexate: Combined use of methotrexate with hydroxychloroquine sulfate has not been studied and may increase the incidence of adverse effects.
+Hydroxychloroquine sulfate can lower the seizure threshold.
+Co-administration of hydroxychloroquine sulfate with other antimalarials known to lower the seizure threshold (e.g., mefloquine) may increase the risk of seizures.
 
-Cyclosporin: An increased plasma cyclosporin level was reported when cyclosporin and hydroxychloroquine sulfate were co-administered.
+## 7.4 Antiepileptics
 
-The following interactions have been observed on treatment with the structurally related substance chloroquine phosphate, and therefore cannot be ruled out for hydroxychloroquine.
+The activity of antiepileptic drugs might be impaired if co-administered with hydroxychloroquine sulfate.
 
-Praziquantel: Chloroquine has been reported to reduce the bioavailability of praziquantel.
+## 7.5 Methotrexate
 
-Antacids and kaolin: Antacids and kaolin can reduce absorption of chloroquine; an interval of at least 4 hours between intake of these agents and chloroquine should be observed.
+Concomitant use of hydroxychloroquine sulfate and methotrexate may increase the incidence of adverse reactions.
 
-Cimetidine: Cimetidine can inhibit the metabolism of chloroquine, increasing its plasma level.
-Concomitant use of cimetidine should be avoided.
+## 7.6 Cyclosporine
 
-Ampicillin: In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin.
+An increased plasma cyclosporin level was reported when cyclosporin and hydroxychloroquine sulfate were co-administered.
+Monitor serum cyclosporine levels closely in patients receiving combined therapy.
+
+## 7.7 Digoxin
+
+Concomitant hydroxychloroquine sulfate and digoxin therapy may result in increased serum digoxin levels.
+Monitor serum digoxin levels closely in patients receiving combined therapy.
+
+## 7.8 Cimetidine
+
+Concomitant use of cimetidine resulted in a 2-fold increase of exposure of chloroquine, which is structurally related to hydroxychloroquine.
+Interaction of cimetidine with hydroxychloroquine cannot be ruled out.
+Avoid concomitant use of cimetidine.
+
+## 7.9 Rifampicin
+
+Lack of efficacy of hydroxychloroquine was reported when rifampicin was concomitantly administered.
+Avoid concomitant use of rifampicin.
+
+## 7.10 Praziquantel
+
+Chloroquine has been reported to reduce the bioavailability of praziquantel.
+Interaction of praziquantel with hydroxychloroquine cannot be ruled out.
+
+## 7.11 Antacids and kaolin
+
+Antacids and kaolin can reduce absorption of chloroquine; an interval of at least 4 hours between intake of these agents and chloroquine should be observed.
+Interaction of antacids and kaolin with hydroxychloroquine cannot be ruled out.
+
+## 7.12 Ampicillin
+
+In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin.
+Interaction of ampicillin with hydroxychloroquine cannot be ruled out.
