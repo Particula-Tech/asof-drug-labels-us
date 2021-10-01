@@ -21,24 +21,24 @@ What is the most important information I should know about ELIQUIS?
   - ●warfarin sodium (COUMADIN®, JANTOVEN®)
   - ●any medicine that contains heparin
   - ●selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
-  - ●other medicines to help prevent or treat blood clots
-- Tell your doctor if you take any of these medicines.
-  Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
-  While taking ELIQUIS:
-  1. ●you may bruise more easily
-  2. ●it may take longer than usual for any bleeding to stop
-- Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding when taking ELIQUIS:
-  1. ●unexpected bleeding, or bleeding that lasts a long time, such as:
-     - ●unusual bleeding from the gums
-     - ●nosebleeds that happen often
-     - ●menstrual bleeding or vaginal bleeding that is heavier than normal
-  2. ●bleeding that is severe or you cannot control
-  3. ●red, pink, or brown urine
-  4. ●red or black stools (looks like tar)
-  5. ●cough up blood or blood clots
-  6. ●vomit blood or your vomit looks like coffee grounds
-  7. ●unexpected pain, swelling, or joint pain
-  8. ●headaches, feeling dizzy or weak
+  - ●other medicines to help prevent or treat blood clots Tell your doctor if you take any of these medicines.
+    Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
+    While taking ELIQUIS:
+- 
+  - ●you may bruise more easily
+  - ●it may take longer than usual for any bleeding to stop Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding when taking ELIQUIS:
+- 
+  - ●unexpected bleeding, or bleeding that lasts a long time, such as:
+    - ●unusual bleeding from the gums
+    - ●nosebleeds that happen often
+    - ●menstrual bleeding or vaginal bleeding that is heavier than normal
+  - ●bleeding that is severe or you cannot control
+  - ●red, pink, or brown urine
+  - ●red or black stools (looks like tar)
+  - ●cough up blood or blood clots
+  - ●vomit blood or your vomit looks like coffee grounds
+  - ●unexpected pain, swelling, or joint pain
+  - ●headaches, feeling dizzy or weak
 - ●ELIQUIS is not for patients with artificial heart valves.
 - ●Spinal or epidural blood clots (hematoma).
   People who take a blood thinner medicine (anticoagulant) like ELIQUIS, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
@@ -46,9 +46,8 @@ What is the most important information I should know about ELIQUIS?
   - ●a thin tube called an epidural catheter is placed in your back to give you certain medicine
   - ●you take NSAIDs or a medicine to prevent blood from clotting
   - ●you have a history of difficult or repeated epidural or spinal punctures
-  - ●you have a history of problems with your spine or have had surgery on your spine
-- If you take ELIQUIS and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots or bleeding.
-  Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
+  - ●you have a history of problems with your spine or have had surgery on your spine If you take ELIQUIS and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots or bleeding.
+    Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
 - ●ELIQUIS is not for use in people with antiphospholipid syndrome (APS), especially with positive triple antibody testing, who have a history of blood clots.
 
 What is ELIQUIS?
@@ -78,7 +77,8 @@ Before you take ELIQUIS, tell your doctor if you:
 - ●have any other medical condition
 - ●have ever had bleeding problems
 - ●are pregnant or plan to become pregnant.
-  It is not known if ELIQUIS will harm your unborn baby.
+  It is not known if ELIQUIS will harm your unborn baby.Females who are able to become pregnant: Talk with your healthcare provider about pregnancy planning during treatment with ELIQUIS.
+  Talk with your healthcare provider about your risk of severe uterine bleeding if you are treated with blood thinner medicines including ELIQUIS.
 - ●are breastfeeding or plan to breastfeed.
   It is not known if ELIQUIS passes into your breast milk.
   You and your doctor should decide if you will take ELIQUIS or breastfeed.
@@ -164,4 +164,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-Revised November 2019
+Revised September 2021
