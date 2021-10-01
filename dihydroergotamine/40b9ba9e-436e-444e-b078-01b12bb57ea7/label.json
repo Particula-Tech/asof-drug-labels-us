@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212046"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Provepharm Inc.",
+  "package_ndcs": [
+    "81284-411-00",
+    "81284-411-05",
+    "81284-411-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Dihydroergotamine Mesylate"
+    }
+  ],
+  "setid": "40b9ba9e-436e-444e-b078-01b12bb57ea7",
+  "source": "dailymed"
+}
