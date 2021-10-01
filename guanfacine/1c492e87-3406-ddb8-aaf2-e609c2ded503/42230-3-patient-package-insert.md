@@ -4,6 +4,8 @@ Guanfacine Extended-Release Tablets
 
 (gwahn-fa-seen)
 
+Medication Guide available at www1.apotex.com/products/us
+
 Read the Patient Information that comes with guanfacine extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -169,7 +171,7 @@ Guanfacine Extended-Release Tablets
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2020
+Revised: June 2021
 
 Rev.
-10
+11

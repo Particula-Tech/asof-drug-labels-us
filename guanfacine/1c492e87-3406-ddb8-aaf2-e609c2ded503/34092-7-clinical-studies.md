@@ -43,7 +43,7 @@ Table 16: Fixed dose Studies
 | Study 2 (6 to 17 years) | Guanfacine extended-release tablets 1 mg*^ Guanfacine extended-release tablets 2 mg* Guanfacine extended-release tablets 3 mg* Guanfacine extended-release tablets 4 mg* Placebo | 41.7 (7.81) 39.9 (8.74) 39.1 (9.22) 40.6 (8.57) 39.3 (8.85) | -19.4 (1.69) -18.1 (1.60) -20.0 (1.64) -20.6 (1.60) -12.7 (1.60) | -6.8 (-11.3, -2.2) -5.4 (-9.9, -0.9) -7.3 (-11.8, -2.8) -7.9 (-12.3, -3.4) -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. ^ The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. |  |  |  |  |
 
-Study 3: Flexible-dose Guanfacine extended-release tablets as Adjunctive Therapy to Psychostimulants
+Study 3: Flexible-dose Guanfacine Extended-Release Tablets as Adjunctive Therapy to Psychostimulants
 
 Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily optimized dosing (morning or evening) with guanfacine extended-release tablets (1 mg, 2 mg, 3 mg and 4 mg), when co-administered with psychostimulants, was evaluated for 8 weeks, in children and adolescents aged 6 to 17 years with a diagnosis of ADHD, with a sub-optimal response to stimulants (n=455).
 Patients were started at the 1 mg guanfacine extended-release tablets dose level and were titrated weekly over a 5-week dose-optimization period to an optimal guanfacine extended-release tablets dose not to exceed 4 mg/day based on tolerability and clinical response.
