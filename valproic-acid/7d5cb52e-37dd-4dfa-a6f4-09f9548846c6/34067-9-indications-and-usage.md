@@ -16,4 +16,4 @@ Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, 
 Valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17)].
 
 For prophylaxis of migraine headaches, valproate is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception.
-For prophylaxis of migraine headaches, valproate is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see Contraindications (4)].
+[see Contraindications (4)].

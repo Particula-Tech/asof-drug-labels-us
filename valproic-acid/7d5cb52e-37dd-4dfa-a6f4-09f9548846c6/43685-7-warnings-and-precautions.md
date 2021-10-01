@@ -68,14 +68,11 @@ Women should use effective contraception while using valproate.
 
 Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
 This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients.
-Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
-This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+[see Boxed Warning and Use in Specific Populations (8.1)].
 
-To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
-It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
 Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
 
@@ -179,7 +176,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
 DRESS may be fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.

@@ -2,13 +2,13 @@
 
 Valproic Acid Oral Solution USP is available as a red, cherry flavored oral solution containing the equivalent of 250 mg valproic acid per 5 mL as the sodium salt and supplied in the following oral dosage forms:
 
-NDC 0121-0675-16: 16 fl oz (473 mL) bottle
+NDC 0121-0675-16: 16 fl oz (473 mL) bottle, in a case of 6 bottles.
 
-NDC 0121-0675-85: 16 fl oz (473 mL) bottle
+NDC 0121-0675-85: 16 fl oz (473 mL) bottle, in a case of 12 bottles.
 
-NDC 0121-4675-05: 5 mL unit dose cup
+NDC 0121-4675-05: 5 mL unit dose cup, in a tray of ten cups.
 
-NDC 0121-1350-10: 10 mL unit dose cup
+NDC 0121-1350-10: 10 mL unit dose cup, in a tray of ten cups.
 
 STORAGE
 

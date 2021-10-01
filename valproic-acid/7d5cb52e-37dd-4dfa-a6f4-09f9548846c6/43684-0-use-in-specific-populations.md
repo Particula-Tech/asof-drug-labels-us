@@ -114,7 +114,7 @@ There are no data to assess the effects of valproic acid on milk production or e
 
 Clinical Considerations
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for valproic acid and any potential adverse effects on the breastfed child from valproic acid or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for valproic acid and any potential adverse effects on the breastfed infant from valproic acid or from the underlying maternal condition.
 
 Monitor the breastfed infant for signs of liver damage including jaundice and unusual bruising or bleeding.
 There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see Use in Specific Populations (8.1)].

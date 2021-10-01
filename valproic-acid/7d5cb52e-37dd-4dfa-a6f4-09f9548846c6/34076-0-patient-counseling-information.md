@@ -24,7 +24,7 @@ Advise women of childbearing potential to discuss pregnancy planning with their 
 
 Encourage women who are taking valproic acid to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233­2334 or visit the website, http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233­-2334 or visit the website, http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Suicidal Thinking and Behavior
 
