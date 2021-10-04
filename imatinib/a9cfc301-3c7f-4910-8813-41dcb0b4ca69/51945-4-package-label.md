@@ -10,8 +10,6 @@ Rx only
 
 90 TABLETS
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 0093-7630-56
@@ -23,5 +21,3 @@ Imatinib Mesylate Tablets
 Rx only
 
 30 TABLETS
-
-TEVA
