@@ -12,7 +12,7 @@ They received placebo during a 5-day lead-in period and subsequently were random
 If tolerated, the total daily dose could be increased by 200 mg once daily to a maximum dose of 800 mg twice daily (1600 mg/day).
 The mean EQUETRO dose during the last week was 952 mg/day in Study 1 and 726 mg/day in Study 2.
 
-Patients were permitted to receive lorazepam for agitation or insomnia (up to 6 mg/day during the placebo-lead in period, up to 4 mg/day during the first week of controlled treatment, and up to 2 mg/day during the second week of treatment; no lorazepam was permitted during the third week of treatment.
+Patients were permitted to receive lorazepam for agitation or insomnia up to 6 mg/day during the placebo-lead in period, up to 4 mg/day during the first week of controlled treatment, and up to 2 mg/day during the second week of treatment; no lorazepam was permitted during the third week of treatment.
 They were permitted to continue their routine psychotherapy.
 Patients were not allowed to use antipsychotics, lithium, antidepressants, or sedatives/hypnotics (other than lorazepam) during the studies.
 There were no significant differences in lorazepam use between the EQUETRO and placebo groups in both studies.
@@ -21,7 +21,7 @@ In Studies 1 and 2, the primary endpoint was the mean change from baseline in th
 In both studies, treatment with EQUETRO was statistically significantly superior to placebo, as measured by the mean decrease in YMRS score at Day 21 (Table 3).
 
 The key secondary efficacy endpoint in both trials was the change in Clinical Global Impression-Severity (CGI-S) Scale score.
-The CGI-S an investigator-rated global assessment of symptom severity that is scored on a 7-point scale (1 = normal, not ill); 7 = severely ill).
+The CGI-S an investigator-rated global assessment of symptom severity that is scored on a 7-point scale (1 = normal, not ill); (7 = severely ill).
 In both studies, there was a statistically significant decrease from baseline in the mean CGI-S score at Day 21, compared to placebo (Table 3).
 
 Table 3.

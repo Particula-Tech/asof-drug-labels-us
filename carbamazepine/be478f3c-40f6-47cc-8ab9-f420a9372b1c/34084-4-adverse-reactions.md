@@ -23,8 +23,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most commonly reported adverse reactions (>5% in the EQUETRO group and at least twice placebo) in the pooled 3-week placebo-controlled trials in patients with acute mania associated with Bipolar I Disorder (Studies 1 and 2) were dizziness, somnolence, nausea, vomiting, ataxia, constipation, pruritus, dry mouth, asthenia, blurred vision, and speech disorder [see Clinical Studies (14.1)].
 The EQUETRO doses used were 400 to 1600 mg per day.
 
-Table 2.
-Common Adverse Reactions Reported in Bipolar Disorder Studies 1 and 2 (Incidence > 2% and greater than placebo)
+(Incidence > 2% and greater than placebo)
 
 | Adverse Reactions | EQUETRO® (N = 251) | Placebo (N = 248) |
 | --- | --- | --- |
@@ -72,4 +71,4 @@ Nervous System: Isolated cases of neuroleptic malignant syndrome have been repor
 
 Skin: onychomadesis, acute generalized exanthematous pustulosis (AGEP).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-9VALIDUS(1-866-982-5438) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

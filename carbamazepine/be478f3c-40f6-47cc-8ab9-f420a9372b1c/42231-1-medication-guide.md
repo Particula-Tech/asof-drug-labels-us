@@ -219,7 +219,9 @@ For more information, ask your healthcare provider or pharmacist.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-9VALIDUS(1-866-982-5438) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at
+
+1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store EQUETRO?
 
@@ -254,8 +256,10 @@ Inactive ingredients: citric acid, colloidal silicon dioxide, lactose monohydrat
 
 This Medication Guide has been approved by the U. S. Food and Drug Administration.
 
-Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com http://www.equetro.com 1-866-982-5438
 
-1-866-9VALIDUS (1-866-982-5438)
+Product of India
 
-60080-01 Revised: October 2016
+© 2021 Validus Pharmaceuticals LLC
+
+60080-03 June 2021

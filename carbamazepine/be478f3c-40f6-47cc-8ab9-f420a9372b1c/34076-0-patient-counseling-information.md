@@ -27,8 +27,10 @@ Instruct them to read the Medication Guide before taking EQUETRO.
 - Decreased Effectiveness of Oral Contraceptives Inform patients that EQUETRO can significantly decrease the effectiveness of oral contraception.
   This can cause contraceptive failure or breakthrough bleeding.
 
-Manufactured for Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com http://www.equetro.com 1-866-982-5438
 
-1-866-9VALIDUS (1-866-982-5438) info@validuspharma.com http://www.equetro.com
+Product of India
 
-Made in U.S.A. © 2016 Validus Pharmaceuticals LLC 60079-01 October 2016
+© 2021 Validus Pharmaceuticals LLC
+
+60079-03 June 2021

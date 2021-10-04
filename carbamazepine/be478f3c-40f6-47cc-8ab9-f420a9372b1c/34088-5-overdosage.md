@@ -7,7 +7,7 @@ Highest known doses survived: adults, 30 grams (31-year-old woman); children, 10
 
 Signs and Symptoms: The first signs and symptoms of carbamazepine overdose appear after 1 to 3 hours.
 Neuromuscular disturbances are the most prominent.
-Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than60 grams) have been ingested.
+Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than 60 grams) have been ingested.
 
 Respiration: Irregular breathing, respiratory depression.
 

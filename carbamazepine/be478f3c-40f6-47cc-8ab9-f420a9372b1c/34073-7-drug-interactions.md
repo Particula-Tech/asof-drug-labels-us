@@ -9,7 +9,7 @@ Inhibitors of CYP 3A4 and/or epoxide hydrolase can increase plasma levels of EQU
 It may be necessary to reduce the EQUETRO dose if used concomitantly with inhibitors of CYP3A4 and/or epoxide hydrolase.
 The following drugs are CYP3A4 inhibitors:
 
-Acetazolamide, aprepitant, azole antifungals (e.g., ketoconazole, itraconazole, fluconazole, voriconazole,, cimetidine, ciprofloxacin, clarithromycin, dalfopristin, danazol, dantrolene, delavirdine, diltiazem, erythromycin, fluoxetine, fluvoxamine, grapefruit juice, ibuprofen, isoniazid, loratadine, nefazodone, niacinamide, nicotinamide, olanzapine, omeprazole, oxybutynin, quinine, quinupristin, ticlopidine, troleandomycin, valproate, verapamil, zileuton.
+Acetazolamide, aprepitant, azole antifungals (e.g., ketoconazole, itraconazole, fluconazole, voriconazole), cimetidine, ciprofloxacin, clarithromycin, dalfopristin, danazol, dantrolene, delavirdine, diltiazem, erythromycin, fluoxetine, fluvoxamine, grapefruit juice, ibuprofen, isoniazid, loratadine, nefazodone, niacinamide, nicotinamide, olanzapine, omeprazole, oxybutynin, quinine, quinupristin, ticlopidine, troleandomycin, valproate, verapamil, zileuton.
 
 Drugs that Inhibit Epoxide Hydrolase and CYP3A4
 

@@ -92,7 +92,8 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to100 years) in the clinical trials analyzed.
 Table 1 presents the absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk of suicidal thoughts or behavior (reactions) for antiepileptic drugs by indication in the pooled analysis
+Table 1.
+Risk of suicidal thoughts or behavior (reactions) for antiepileptic drugs by indication in the pooled analysis
 
 |  | Placebo | Antiepileptic Drugs |  |  |
 | --- | --- | --- | --- | --- |
@@ -151,7 +152,7 @@ Consider discontinuing EQUETRO in patients with symptomatic hyponatremia.
 
 EQUETRO has the potential to cause impairment in judgment, cognition, and motor function.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain the EQUETRO does not affect them adversely.
-Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor 3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
+Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor (3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
 
 ## 5.9 Potential for Loss of Virologic Response to Non-nucleoside Reverse Transcriptase Inhibitors that are substrates for CYP3A4 with Concomitant Use of EQUETRO
 
