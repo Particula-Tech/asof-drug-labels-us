@@ -6,4 +6,4 @@ Ruxolitinib phosphate has the following structural formula:
 Ruxolitinib phosphate is a white to off-white to light pink powder and is soluble in aqueous buffers across a pH range of 1 to 8.
 
 Jakafi (ruxolitinib) Tablets are for oral administration.
-Each tablet contains ruxolitinib phosphate equivalent to 5 mg, 10 mg, 15 mg, 20 mg and 25 mg of ruxolitinib free base together with microcrystalline cellulose, lactose monohydrate, magnesium stearate, colloidal silicon dioxide, sodium starch glycolate, povidone and hydroxypropyl cellulose.
+Each tablet contains 6.6 mg, 13.2 mg, 19.8 mg, 26.4 mg, or 33 mg of ruxolitinib phosphate equivalent to 5 mg, 10 mg, 15 mg, 20 mg, or 25 mg of ruxolitinib free base, respectively, together with microcrystalline cellulose, lactose monohydrate, magnesium stearate, colloidal silicon dioxide, sodium starch glycolate, povidone and hydroxypropyl cellulose.

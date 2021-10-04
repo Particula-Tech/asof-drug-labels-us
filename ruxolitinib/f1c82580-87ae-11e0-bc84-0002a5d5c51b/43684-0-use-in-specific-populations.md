@@ -45,10 +45,15 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 The safety and effectiveness of Jakafi for treatment of myelofibrosis or polycythemia vera in pediatric patients have not been established.
 
-The safety and effectiveness of Jakafi for treatment of steroid-refractory acute graft-versus-host disease (GVHD) have been established for treatment of children 12 years and older.
-Use of Jakafi in pediatric patients with steroid-refractory acute GVHD is supported by evidence from an adequate and well-controlled trial of Jakafi in adults [see Clinical Studies (14.3)] and additional pharmacokinetic and safety data in pediatric patients.
+The safety and effectiveness of Jakafi for treatment of steroid-refractory aGVHD has been established for treatment of children 12 years and older.
+Use of Jakafi in pediatric patients with steroid-refractory aGVHD is supported by evidence from adequate and well-controlled trials of Jakafi in adults [see Clinical Studies (14.3)] and additional pharmacokinetic and safety data in pediatric patients.
+The safety and effectiveness of Jakafi for treatment of steroid-refractory aGVHD has not been established in pediatric patients younger than 12 years old.
 
-Jakafi was evaluated in a single-arm, dose-escalation study (NCT01164163) in 27 pediatric patients with relapsed or refractory solid tumors (Cohort A) and 20 with leukemias or myeloproliferative neoplasms (Cohort B). The patients had a median age of 14 years (range, 2 to 21 years) and included 18 children (age 2 to <12 years), and 14 adolescents (age 12 to <17 years).
+The safety and effectiveness of Jakafi for treatment of cGVHD after failure of one or two lines of systemic therapy has been established for treatment of children 12 years and older.
+Use of Jakafi in pediatric patients with cGVHD after failure of one or two lines of systemic therapy is supported by evidence from adequate and well-controlled trials of Jakafi in adults and adolescents [see Clinical Studies (14.3, 14.4)] and additional pharmacokinetic and safety data in pediatric patients.
+The safety and effectiveness of Jakafi for treatment of cGVHD has not been established in pediatric patients younger than 12 years old.
+
+Jakafi was evaluated in a single-arm, dose-escalation study (NCT01164163) in 27 pediatric patients with relapsed or refractory solid tumors (Cohort A) and 20 with leukemias or myeloproliferative neoplasms (Cohort B). The patients had a median age of 14 years (range, 2 to 21 years) and included 18 children (age 2 to < 12 years), and 14 adolescents (age 12 to < 17 years).
 The dose levels tested were 15, 21, 29, 39, or 50 mg/m2 twice daily in 28-day cycles with up to 6 patients per dose group.
 
 Overall, 38 (81%) patients were treated with no more than a single cycle of Jakafi, while 3, 1, 2, and 3 patients received 2, 3, 4, and 5 or more cycles, respectively.
@@ -68,16 +73,21 @@ These findings were observed at exposures that are at least 27% the clinical exp
 Of the total number of patients with MF in clinical studies with Jakafi, 52% were 65 years and older, while 15% were 75 years and older.
 No overall differences in safety or effectiveness of Jakafi were observed between these patients and younger patients.
 
-Clinical studies of Jakafi in patients with acute GVHD did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Jakafi in patients with aGVHD did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
+
+Of the total number of patients with cGVHD treated with Jakafi in clinical trials, 11% were 65 years and older.
+No overall differences in safety or effectiveness of Jakafi were observed between these patients and younger patients.
 
 ## 8.6 Renal Impairment
 
-Total exposure of ruxolitinib and its active metabolites increased with moderate (CLcr 30 mL/min to 59 mL/min) and severe (CLcr 15 mL/min to 29 mL/min) renal impairment, and ESRD on dialysis [see Clinical Pharmacology (12.3)].
-Reduce Jakafi dose as recommended [see Dosage and Administration (2.5)].
+Total exposure of ruxolitinib and its active metabolites increased with moderate (CLcr 30 to 59 mL/min) and severe (CLcr 15 to 29 mL/min) renal impairment, and ESRD (CLcr less than 15 mL/min) on dialysis [see Clinical Pharmacology (12.3)].
+Modify Jakafi dosage as recommended [see Dosage and Administration (2.6)].
 
 ## 8.7 Hepatic Impairment
 
 Exposure of ruxolitinib increased with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment [see Clinical Pharmacology (12.3)].
-Reduce Jakafi dose as recommended in patients with MF or PV and any hepatic impairment [see Dosage and Administration (2.5)].
 
-Monitor blood counts more frequently for toxicity and consider 5 mg once daily for patients with Stage 3 or 4 liver GVHD [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Reduce Jakafi dosage as recommended in patients with MF or PV with hepatic impairment [see Dosage and Administration (2.6)].
+Reduce Jakafi dosage as recommended for patients with Stage 4 liver aGVHD.
+
+Monitor blood counts more frequently for toxicity and modify the Jakafi dosage for adverse reactions if they occur for patients with Score 3 liver cGVHD [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

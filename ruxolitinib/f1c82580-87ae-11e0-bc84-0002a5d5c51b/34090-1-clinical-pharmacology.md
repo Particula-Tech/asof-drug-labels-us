@@ -9,12 +9,12 @@ MF and PV are myeloproliferative neoplasms (MPN) known to be associated with dys
 In a mouse model of JAK2V617F-positive MPN, oral administration of ruxolitinib prevented splenomegaly, preferentially decreased JAK2V617F mutant cells in the spleen and decreased circulating inflammatory cytokines (e.g., TNF-α, IL-6).
 
 JAK-STAT signaling pathways play a role in regulating the development, proliferation, and activation of several immune cell types important for GVHD pathogenesis.
-In a mouse model of acute GVHD, oral administration of ruxolitinib was associated with decreased expression of inflammatory cytokines in colon homogenates and reduced immune-cell infiltration in the colon.
+In a mouse model of aGVHD, oral administration of ruxolitinib was associated with decreased expression of inflammatory cytokines in colon homogenates and reduced immune-cell infiltration in the colon.
 
 ## 12.2 Pharmacodynamics
 
 Jakafi inhibits cytokine induced STAT3 phosphorylation in whole blood from patients with MF and PV.
-Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in patients with MF and PV.
+STAT3 phosphorylation reached maximal inhibition 2 hours after Jakafi dosing and returned to near baseline by 10 hours in patients with MF and PV.
 
 Cardiac Electrophysiology
 
@@ -22,7 +22,7 @@ At a dose of 1.25 to 10 times the highest recommended starting dosage, Jakafi do
 
 ## 12.3 Pharmacokinetics
 
-Mean ruxolitinib maximal plasma concentration (Cmax) and AUC increased proportionally over a single dose range of 5 mg to 200 mg.
+Mean ruxolitinib maximal plasma concentration (Cmax) and AUC increased proportionally over a single dose range of 5 mg to 200 mg (4 times the approved highest recommended total daily dosage of 25 mg twice daily).
 Mean ruxolitinib Cmax ranged from 205 nM to 7100 nM and AUC ranged from 862 nM*hr to 30700 nM*hr over a single dose range of 5 mg to 200 mg.
 
 Absorption
@@ -30,25 +30,27 @@ Absorption
 Ruxolitinib achieves Cmax within 1 hour to 2 hours post-dose.
 Oral absorption of ruxolitinib is estimated to be at least 95%.
 
-Food Effect
+Effect of Food
 
 No clinically relevant changes in the pharmacokinetics of ruxolitinib were observed upon administration of Jakafi with a high-fat, high-calorie meal (approximately 800 to 1000 calories of which 50% were derived from fat).
 
 Distribution
 
-The mean volume of distribution at steady-state is 72 L (coefficient of variation [CV] 29%) in patients with MF and 75 L (23%) in patients with PV.
+The mean ruxolitinib volume of distribution at steady-state is 72 L (coefficient of variation [CV] 29%) in patients with MF and 75 L (23%) in patients with PV.
 
-Binding to plasma proteins is approximately 97%, mostly to albumin.
+Protein binding of ruxolitinib is approximately 97%, mostly to albumin.
 
 Elimination
 
-The mean elimination half-life of ruxolitinib is approximately 3 hours and the mean half-life of ruxolitinib + metabolites is approximately 5.8 hours.
+The mean elimination half-life of ruxolitinib is approximately 3 hours and the mean elimination half-life of ruxolitinib and its metabolites is approximately 5.8 hours in healthy volunteers.
 
-Ruxolitinib clearance (% coefficient of variation, CV) was 17.7 L/h in women and 22.1 L/h in men with MF (39%).
+Ruxolitinib clearance (%CV) was 17.7 L/h in women and 22.1 L/h in men with MF (39%).
 
 Ruxolitinib clearance (%CV) was 12.7 L/h (42%) in patients with PV.
 
-Ruxolitinib clearance (%CV) was 11.9 L/h (43%) in patients with acute GVHD.
+Ruxolitinib clearance (%CV) was 11.8 L/h (63%) in patients with aGVHD.
+
+Ruxolitinib clearance (%CV) was 9.7 L/h (51%) in patients with cGVHD.
 
 Metabolism
 
@@ -56,52 +58,52 @@ Ruxolitinib is metabolized by CYP3A4 and to a lesser extent by CYP2C9.
 
 Excretion
 
-Following a single oral dose of radiolabeled ruxolitinib, elimination was predominately through metabolism with 74% of radioactivity excreted in urine and 22% excretion via feces.
+Following a single oral dose of radiolabeled ruxolitinib, 74% of radioactivity was excreted in urine and 22% via feces.
 Unchanged drug accounted for less than 1% of the excreted total radioactivity.
 
 Specific Populations
 
-No clinically relevant differences in ruxolitinib pharmacokinetics were observed with regard to age, race, sex, or weight.
-No clinically relevant effect in ruxolitinib pharmacokinetics were observed with regards to any hepatic impairment (total bilirubin >ULN and any aspartate transferase) in patients with acute GVHD.
+No clinically relevant differences in ruxolitinib pharmacokinetics were observed based on age (12-73 years), race (White, Asian), sex, or weight (29-139 kg).
 
 Patients with Renal Impairment
 
-Following oral administration of a single dose of Jakafi 25 mg, the total AUC of ruxolitinib and its active metabolites increased by 1.3-,1.5-, and 1.9-fold in subjects with mild, moderate, and severe renal impairment, respectively, compared to that in subjects with normal renal function (CLcr ≥ 90 mL/min).
-Also, the total AUC of ruxolitinib and its active metabolites increased by 1.6-fold in subjects with ESRD after dialysis) compared to that in subjects with normal renal function (CLcr ≥ 90 mL/min).
-The pharmacokinetics of ruxolitinib was similar in subjects with various degrees of renal impairment and in those with normal renal function.
+Total AUC of ruxolitinib and its active metabolites increased by 1.3-, 1.5-, 1.9-, and 1.6-fold in subjects with mild, moderate, severe renal impairment, and with ESRD after dialysis, respectively, compared to subjects with normal renal function (CLcr ≥ 90 mL/min).
 The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in metabolite exposure with renal impairment.
 Ruxolitinib is not removed by dialysis; however, the removal of some active metabolites by dialysis cannot be ruled out.
 
 Patients with Hepatic Impairment
 
-Following oral administration of a single dose of Jakafi 25 mg, the AUC of ruxolitinib increased in subjects with mild (Child-Pugh A) by 1.9-fold, moderate (Child-Pugh B) by 1.3-fold, and severe (Child-Pugh C) hepatic impairment by 1.7-fold compared to that in subjects with normal hepatic function.
+No clinically relevant effect on ruxolitinib pharmacokinetics was observed based on mild to severe hepatic impairment by NCI criteria (total bilirubin > ULN and any AST) in patients with aGVHD or cGVHD.
+
+Ruxolitinib AUC increased in subjects with mild (Child-Pugh A) by 1.9-fold, moderate (Child-Pugh B) by 1.3-fold, and severe (Child-Pugh C) hepatic impairment by 1.7-fold compared to that in subjects with normal hepatic function.
 
 The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in ruxolitinib exposure except in the severe hepatic impairment cohort where the pharmacodynamic activity was more prolonged in some subjects than expected based on plasma concentrations of ruxolitinib.
 
-Drug Interactions
+Patients with Liver Involvement in Graft-Versus-Host Disease
 
-Fluconazole
+No clinically relevant effect on ruxolitinib pharmacokinetics was observed based on Stage 1, 2 or 3 liver aGVHD, or Score 1, or 2 liver cGVHD.
 
-Simulations suggest that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily [see Dosage and Administration (2.4) and Drug Interactions (7)].
+A lower apparent clearance of ruxolitinib was observed in patients with Stage 4 liver aGVHD compared to patients with no liver aGVHD.
 
-Strong CYP3A4 inhibitors
+The effect of Score 3 liver cGVHD on the pharmacokinetics of ruxolitinib is unknown.
 
-Ketoconazole (a strong CYP3A4 inhibitor) increased ruxolitinib Cmax by 33% and AUC by 91%.
-Ketoconazole also prolonged ruxolitinib half-life from 3.7 hours to 6 hours [see Dosage and Administration (2.4) and Drug Interactions (7)].
+Drug Interaction Studies
 
-Moderate CYP3A4 inhibitors
+Clinical Studies and Model-Informed Approaches
 
-Erythromycin (a moderate CYP3A4 inhibitor) increased ruxolitinib Cmax by 8% and AUC by 27% [see Drug Interactions (7)].
+Fluconazole: Fluconazole 100 to 400 mg once daily (a moderate CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% [see Dosage and Administration (2.5) and Drug Interactions (7)].
 
-Strong CYP3A4 inducers
+Strong CYP3A4 inhibitors: Ketoconazole (strong CYP3A4 inhibitor) increased ruxolitinib Cmax by 33% and AUC by 91% and prolonged ruxolitinib half-life from 3.7 hours to 6 hours [see Dosage and Administration (2.5) and Drug Interactions (7)].
 
-Rifampin (a strong CYP3A4 inducer) decreased ruxolitinib Cmax by 32% and AUC by 61%.
+Moderate CYP3A4 inhibitors: Erythromycin (moderate CYP3A4 inhibitor) increased ruxolitinib Cmax by 8% and AUC by 27% [see Drug Interactions (7)].
+
+Strong CYP3A4 inducers: Rifampin (strong CYP3A4 inducer) decreased ruxolitinib Cmax by 32% and AUC by 61%.
 The relative exposure to ruxolitinib’s active metabolites increased approximately 100% [see Drug Interactions (7)].
 
-In vitro studies
+In Vitro Studies
 
-Ruxolitinib and its M18 metabolite did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
+Cytochrome P450 (CYP) Enzymes: Ruxolitinib and its M18 metabolite did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
 Ruxolitinib did not induce CYP1A2, CYP2B6 or CYP3A4 at clinically relevant concentrations.
 
-Ruxolitinib and its M18 metabolite did not inhibit the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transport systems at clinically relevant concentrations.
-Ruxolitinib is not a substrate for the P-gp transporter.
+Transporter Systems: Ruxolitinib and its M18 metabolite did not inhibit the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 at clinically relevant concentrations.
+Ruxolitinib was not a P-gp substrate.

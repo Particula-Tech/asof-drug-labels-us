@@ -10,4 +10,8 @@ Jakafi is indicated for treatment of polycythemia vera (PV) in adults who have h
 
 ## 1.3 Acute Graft-Versus-Host Disease
 
-Jakafi is indicated for treatment of steroid-refractory acute graft-versus-host disease (GVHD) in adult and pediatric patients 12 years and older.
+Jakafi is indicated for treatment of steroid-refractory acute graft-versus-host disease (aGVHD) in adult and pediatric patients 12 years and older.
+
+## 1.4 Chronic Graft-Versus-Host Disease
+
+Jakafi is indicated for treatment of chronic graft-versus-host disease (cGVHD) after failure of one or two lines of systemic therapy in adult and pediatric patients 12 years and older.

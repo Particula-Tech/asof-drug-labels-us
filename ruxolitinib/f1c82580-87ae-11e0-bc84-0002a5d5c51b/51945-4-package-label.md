@@ -10,7 +10,7 @@ Jakafi® (Ruxolitinib) Tablets
 
 60 tablets
 
-Each tablet contains ruxolitinib phosphate equivalent to 5 mg ruxolitinib free base.
+Each tablet contains 6.6 mg ruxolitinib phosphate equivalent to 5 mg ruxolitinib free base.
 
 # 10 mg Tablet Bottle Label
 
@@ -24,7 +24,7 @@ Jakafi® (Ruxolitinib) Tablets
 
 60 tablets
 
-Each tablet contains ruxolitinib phosphate equivalent to 10 mg ruxolitinib free base.
+Each tablet contains 13.2 mg ruxolitinib phosphate equivalent to 10 mg ruxolitinib free base.
 
 # 15 mg Tablet Bottle Label
 
@@ -38,7 +38,7 @@ Jakafi® (Ruxolitinib) Tablets
 
 60 tablets
 
-Each tablet contains ruxolitinib phosphate equivalent to 15 mg ruxolitinib free base.
+Each tablet contains 19.8 mg ruxolitinib phosphate equivalent to 15 mg ruxolitinib free base.
 
 # 20 mg Tablet Bottle Label
 
@@ -52,7 +52,7 @@ Jakafi® (Ruxolitinib) Tablets
 
 60 tablets
 
-Each tablet contains ruxolitinib phosphate equivalent to 20 mg ruxolitinib free base.
+Each tablet contains 26.4 mg ruxolitinib phosphate equivalent to 20 mg ruxolitinib free base.
 
 # 25 mg Tablet Bottle Label
 
@@ -66,4 +66,4 @@ Jakafi® (Ruxolitinib) Tablets
 
 60 tablets
 
-Each tablet contains ruxolitinib phosphate equivalent to 25 mg ruxolitinib free base.
+Each tablet contains 33 mg ruxolitinib phosphate equivalent to 25 mg ruxolitinib free base.

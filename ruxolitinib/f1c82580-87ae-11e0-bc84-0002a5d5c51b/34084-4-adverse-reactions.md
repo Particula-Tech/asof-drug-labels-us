@@ -6,44 +6,50 @@ The following clinically significant adverse reactions are discussed in greater 
 - Risk of Infection [see Warnings and Precautions (5.2)]
 - Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi [see Warnings and Precautions (5.3)]
 - Non-Melanoma Skin Cancer [see Warnings and Precautions (5.4)]
+- Lipid Elevations [see Warnings and Precautions (5.5)]
+- Major Adverse Cardiovascular Events (MACE) [see Warnings and Precautions (5.6)]
+- Thrombosis [see Warnings and Precautions (5.7)]
+- Secondary Malignancies [see Warnings and Precautions (5.8)]
 
-## 6.1 Clinical Trials Experience in Myelofibrosis
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Myelofibrosis
 
 The safety of Jakafi was assessed in 617 patients in six clinical studies with a median duration of follow-up of 10.9 months, including 301 patients with MF in two Phase 3 studies.
 
 In these two Phase 3 studies, patients had a median duration of exposure to Jakafi of 9.5 months (range 0.5 to 17 months), with 89% of patients treated for more than 6 months and 25% treated for more than 12 months.
 One hundred and eleven (111) patients started treatment at 15 mg twice daily and 190 patients started at 20 mg twice daily.
-In patients starting treatment with 15 mg twice daily (pretreatment platelet counts of 100 to 200 X 109/L) and 20 mg twice daily (pretreatment platelet counts greater than 200 X 109/L), 65% and 25% of patients, respectively, required a dose reduction below the starting dose within the first 8 weeks of therapy.
+In patients starting treatment with 15 mg twice daily (pretreatment platelet counts of 100 to 200 x 109/L) and 20 mg twice daily (pretreatment platelet counts greater than 200 x 109/L), 65% and 25% of patients, respectively, required a dose reduction below the starting dose within the first 8 weeks of therapy.
 
-In a double-blind, randomized, placebo-controlled study of Jakafi, among the 155 patients treated with Jakafi, the most frequent adverse reactions were thrombocytopenia and anemia [see Table 12].
+In a double-blind, randomized, placebo-controlled study of Jakafi, among the 155 patients treated with Jakafi, the most frequent adverse reactions were thrombocytopenia and anemia [see Table 13].
 Thrombocytopenia, anemia and neutropenia are dose-related effects.
-The three most frequent nonhematologic adverse reactions were bruising, dizziness and headache [see Table 11].
+The three most frequent nonhematologic adverse reactions were bruising, dizziness and headache [see Table 12].
 
 Discontinuation for adverse events, regardless of causality, was observed in 11% of patients treated with Jakafi and 11% of patients treated with placebo.
 
-Table 11 presents the most common nonhematologic adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
+Table 12 presents the most common nonhematologic adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
 
-Table 11: Myelofibrosis: Nonhematologic Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
+Table 12: Myelofibrosis: Nonhematologic Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
-| Bruisingincludes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura | 23 | <1 | 0 | 15 | 0 | 0 |
-| Dizzinessincludes dizziness, postural dizziness, vertigo, balance disorder, Meniere's Disease, labyrinthitis | 18 | <1 | 0 | 7 | 0 | 0 |
+| Bruisingincludes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura | 23 | < 1 | 0 | 15 | 0 | 0 |
+| Dizzinessincludes dizziness, postural dizziness, vertigo, balance disorder, Meniere’s Disease, labyrinthitis | 18 | < 1 | 0 | 7 | 0 | 0 |
 | Headache | 15 | 0 | 0 | 5 | 0 | 0 |
-| Urinary Tract Infectionsincludes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present | 9 | 0 | 0 | 5 | <1 | <1 |
-| Weight Gainincludes weight increased, abnormal weight gain | 7 | <1 | 0 | 1 | <1 | 0 |
-| Flatulence | 5 | 0 | 0 | <1 | 0 | 0 |
-| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 2 | 0 | 0 | <1 | 0 | 0 |
+| Urinary Tract Infectionsincludes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present | 9 | 0 | 0 | 5 | < 1 | < 1 |
+| Weight Gainincludes weight increased, abnormal weight gain | 7 | < 1 | 0 | 1 | < 1 | 0 |
+| Flatulence | 5 | 0 | 0 | < 1 | 0 | 0 |
+| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 2 | 0 | 0 | < 1 | 0 | 0 |
 
 Description of Selected Adverse Reactions
 
 Anemia
 
 In the two Phase 3 clinical studies, median time to onset of first CTCAE Grade 2 or higher anemia was approximately 6 weeks.
-One patient (<1%) discontinued treatment because of anemia.
+One patient (< 1%) discontinued treatment because of anemia.
 In patients receiving Jakafi, mean decreases in hemoglobin reached a nadir of approximately 1.5 to 2.0 g/dL below baseline after 8 to 12 weeks of therapy and then gradually recovered to reach a new steady state that was approximately 1.0 g/dL below baseline.
 This pattern was observed in patients regardless of whether they had received transfusions during therapy.
 
@@ -54,25 +60,25 @@ Thrombocytopenia
 
 In the two Phase 3 clinical studies, in patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was approximately 8 weeks.
 Thrombocytopenia was generally reversible with dose reduction or dose interruption.
-The median time to recovery of platelet counts above 50 X 109/L was 14 days.
+The median time to recovery of platelet counts above 50 x 109/L was 14 days.
 Platelet transfusions were administered to 5% of patients receiving Jakafi and to 4% of patients receiving control regimens.
-Discontinuation of treatment because of thrombocytopenia occurred in <1% of patients receiving Jakafi and <1% of patients receiving control regimens.
-Patients with a platelet count of 100 X 109/L to 200 X 109/L before starting Jakafi had a higher frequency of Grade 3 or 4 thrombocytopenia compared to patients with a platelet count greater than 200 X 109/L (17% versus 7%).
+Discontinuation of treatment because of thrombocytopenia occurred in < 1% of patients receiving Jakafi and < 1% of patients receiving control regimens.
+Patients with a platelet count of 100 x 109/L to 200 x 109/L before starting Jakafi had a higher frequency of Grade 3 or 4 thrombocytopenia compared to patients with a platelet count greater than 200 x 109/L (17% versus 7%).
 
 Neutropenia
 
 In the two Phase 3 clinical studies, 1% of patients reduced or stopped Jakafi because of neutropenia.
 
-Table 12 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
+Table 13 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
 
-Table 12: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled StudyPresented values are worst Grade values regardless of baseline
+Table 13: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled StudyPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Thrombocytopenia | 70 | 9 | 4 | 31 | 1 | 0 |
 | Anemia | 96 | 34 | 11 | 87 | 16 | 3 |
-| Neutropenia | 19 | 5 | 2 | 4 | <1 | 1 |
+| Neutropenia | 19 | 5 | 2 | 4 | < 1 | 1 |
 
 Additional Data from the Placebo-Controlled Study
 
@@ -80,67 +86,67 @@ Additional Data from the Placebo-Controlled Study
   The incidence of greater than or equal to Grade 2 elevations was 2% for Jakafi with 1% Grade 3 and no Grade 4 ALT elevations.
 
 - 17% of patients treated with Jakafi and 6% of patients treated with placebo developed newly occurring or worsening Grade 1 abnormalities in aspartate transaminase (AST).
-  The incidence of Grade 2 AST elevations was <1% for Jakafi with no Grade 3 or 4 AST elevations.
+  The incidence of Grade 2 AST elevations was < 1% for Jakafi with no Grade 3 or 4 AST elevations.
 
-- 17% of patients treated with Jakafi and <1% of patients treated with placebo developed newly occurring or worsening Grade 1 elevations in cholesterol.
-  The incidence of Grade 2 cholesterol elevations was <1% for Jakafi with no Grade 3 or 4 cholesterol elevations.
+- 17% of patients treated with Jakafi and < 1% of patients treated with placebo developed newly occurring or worsening Grade 1 elevations in cholesterol.
+  The incidence of Grade 2 cholesterol elevations was < 1% for Jakafi with no Grade 3 or 4 cholesterol elevations.
 
-## 6.2 Clinical Trial Experience in Polycythemia Vera
+Polycythemia Vera
 
 In a randomized, open-label, active-controlled study, 110 patients with PV resistant to or intolerant of hydroxyurea received Jakafi and 111 patients received best available therapy [see Clinical Studies (14.2)].
 The most frequent adverse reaction was anemia.
 Discontinuation for adverse events, regardless of causality, was observed in 4% of patients treated with Jakafi.
-Table 13 presents the most frequent nonhematologic adverse reactions occurring up to Week 32.
+Table 14 presents the most frequent nonhematologic adverse reactions occurring up to Week 32.
 
-Table 13: Polycythemia Vera: Nonhematologic Adverse Reactions Occurring in ≥ 5% of Patients on Jakafi in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatment
+Table 14: Polycythemia Vera: Nonhematologic Adverse Reactions Occurring in ≥ 5% of Patients on Jakafi in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatment
 
 |  | Jakafi (N=110) |  | Best Available Therapy (N=111) |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
-| Diarrhea | 15 | 0 | 7 | <1 |
+| Diarrhea | 15 | 0 | 7 | < 1 |
 | Dizzinessincludes dizziness and vertigo | 15 | 0 | 13 | 0 |
 | Dyspneaincludes dyspnea and dyspnea exertional | 13 | 3 | 4 | 0 |
-| Muscle Spasms | 12 | <1 | 5 | 0 |
+| Muscle Spasms | 12 | < 1 | 5 | 0 |
 | Constipation | 8 | 0 | 3 | 0 |
-| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 6 | <1 | 0 | 0 |
+| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 6 | < 1 | 0 | 0 |
 | Nausea | 6 | 0 | 4 | 0 |
-| Weight Gainincludes weight increased and abnormal weight gain | 6 | 0 | <1 | 0 |
+| Weight Gainincludes weight increased and abnormal weight gain | 6 | 0 | < 1 | 0 |
 | Urinary Tract Infectionsincludes urinary tract infection and cystitis | 6 | 0 | 3 | 0 |
-| Hypertension | 5 | <1 | 3 | <1 |
+| Hypertension | 5 | < 1 | 3 | < 1 |
 
-Clinically relevant laboratory abnormalities are shown in Table 14.
+Clinically relevant laboratory abnormalities are shown in Table 15.
 
-Table 14: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
+Table 15: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=110) |  |  | Best Available Therapy (N=111) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Hematology |  |  |  |  |  |  |
-| Anemia | 72 | <1 | <1 | 58 | 0 | 0 |
-| Thrombocytopenia | 27 | 5 | <1 | 24 | 3 | <1 |
-| Neutropenia | 3 | 0 | <1 | 10 | <1 | 0 |
+| Anemia | 72 | < 1 | < 1 | 58 | 0 | 0 |
+| Thrombocytopenia | 27 | 5 | < 1 | 24 | 3 | < 1 |
+| Neutropenia | 3 | 0 | < 1 | 10 | < 1 | 0 |
 | Chemistry |  |  |  |  |  |  |
 | Hypercholesterolemia | 35 | 0 | 0 | 8 | 0 | 0 |
-| Elevated ALT | 25 | <1 | 0 | 16 | 0 | 0 |
-| Elevated AST | 23 | 0 | 0 | 23 | <1 | 0 |
+| Elevated ALT | 25 | < 1 | 0 | 16 | 0 | 0 |
+| Elevated AST | 23 | 0 | 0 | 23 | < 1 | 0 |
 | Hypertriglyceridemia | 15 | 0 | 0 | 13 | 0 | 0 |
 
-## 6.3 Clinical Trial Experience in Acute Graft-Versus-Host Disease
+Acute Graft-Versus-Host Disease
 
-In a single-arm, open-label study, 71 adults (ages 18-73 years) were treated with Jakafi for acute GVHD failing treatment with steroids with or without other immunosuppressive drugs [see Clinical Studies(14.3)].
+In a single-arm, open-label study, 71 adults (ages 18-73 years) were treated with Jakafi for aGVHD failing treatment with steroids with or without other immunosuppressive drugs [see Clinical Studies (14.3)].
 The median duration of treatment with Jakafi was 46 days (range, 4‑382 days).
 
 There were no fatal adverse reactions to Jakafi.
 An adverse reaction resulting in treatment discontinuation occurred in 31% of patients.
 The most common adverse reaction leading to treatment discontinuation was infection (10%).
-Table 15 shows the adverse reactions other than laboratory abnormalities.
+Table 16 shows the adverse reactions other than laboratory abnormalities.
 
-Table 15: Acute Graft-Versus-Host Disease: Nonhematologic Adverse Reactions Occurring in ≥ 15% of Patients in the Open-Label, Single-Cohort Study
+Table 16: Acute Graft-Versus-Host Disease: Nonhematologic Adverse Reactions Occurring in ≥ 15% of Patients in the Open-Label, Single-Cohort Study
 
 |  | Jakafi (N=71) |  |
 | --- | --- | --- |
-| Adverse ReactionsSelected laboratory abnormalities are listed in Table 16 below | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 4.03 (%) | Grade 3-4 (%) |
-| Infections | 55 | 41 |
+| Adverse ReactionsSelected laboratory abnormalities are listed in Table 17 below | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 (%) | Grade 3-4 (%) |
+| Infections (pathogen not specified) | 55 | 41 |
 | Edema | 51 | 13 |
 | Hemorrhage | 49 | 20 |
 | Fatigue | 37 | 14 |
@@ -154,9 +160,9 @@ Table 15: Acute Graft-Versus-Host Disease: Nonhematologic Adverse Reactions Occu
 | Hypertension | 20 | 13 |
 | Dizziness | 16 | 0 |
 
-Selected laboratory abnormalities during treatment with Jakafi are shown in Table 16.
+Selected laboratory abnormalities during treatment with Jakafi are shown in Table 17.
 
-Table 16: Acute Graft-Versus-Host Disease: Selected Laboratory Abnormalities Worsening from Baseline in the Open-Label, Single Cohort Study
+Table 17: Acute Graft-Versus-Host Disease: Selected Laboratory Abnormalities Worsening from Baseline in the Open-Label, Single Cohort Study
 
 |  | Jakafi (N=71) |  |
 | --- | --- | --- |
@@ -170,3 +176,61 @@ Table 16: Acute Graft-Versus-Host Disease: Selected Laboratory Abnormalities Wor
 | Elevated ALT | 48 | 8 |
 | Elevated AST | 48 | 6 |
 | Hypertriglyceridemia | 11 | 1 |
+
+Chronic Graft-Versus-Host Disease
+
+In a Phase 3, randomized, open-label, multi-center study, 165 patients were treated with Jakafi and 158 patients were treated with best available therapy for cGVHD failing treatment with steroids with or without other immunosuppressive drugs [see Clinical Studies (14.4)]; sixty-five patients crossed over from best available therapy to treatment with Jakafi, for a total of 230 patients treated with Jakafi.
+The median duration of exposure to Jakafi for the study was 49.7 weeks (range, 0.7 to 144.9 weeks) in the Jakafi arm.
+One hundred and nine (47%) patients were on Jakafi for at least 1 year.
+
+There were five fatal adverse reactions to Jakafi, including 1 from toxic epidermal necrolysis and 4 from neutropenia, anemia and/or thrombocytopenia.
+An adverse reaction resulting in treatment discontinuation occurred in 18% of patients treated with Jakafi.
+An adverse reaction resulting in dose modification occurred in 27%, and an adverse reaction resulting in treatment interruption occurred in 23%.
+The most common hematologic adverse reactions (incidence > 35%) are anemia and thrombocytopenia.
+The most common nonhematologic adverse reactions (incidence ≥ 20%) are infections (pathogen not specified) and viral infection.
+
+Table 18 presents the most frequent nonlaboratory adverse reactions occurring up to Cycle 7 Day 1 of randomized treatment.
+
+Table 18: Chronic Graft-Versus-Host Disease: All-Grade (≥ 10%) and Grades 3-5 (≥ 3%) Nonlaboratory Adverse Reactions Occurring in Patients in the Open-Label, Active-controlled Study up to Cycle 7 Day 1 of Randomized Treatment
+
+| Adverse ReactionGrouped terms that are composites of applicable adverse reaction terms. | Jakafi (N = 165) |  | Best Available Therapy (N = 158) |  |
+| --- | --- | --- | --- | --- |
+| All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 4.03 (%) | Grade ≥ 3 (%) | All Grades (%) | Grade ≥ 3 (%) |  |
+| Infections and infestations |  |  |  |  |
+| Infections (pathogen not specified) | 45 | 15 | 44 | 16 |
+| Viral infections | 28 | 5 | 23 | 5 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain | 18 | 1 | 13 | 0 |
+| General disorders and administration site conditions |  |  |  |  |
+| Pyrexia | 16 | 2 | 9 | 1 |
+| Fatigue | 13 | 1 | 10 | 2 |
+| Edema | 10 | 1 | 12 | 1 |
+| Vascular disorders |  |  |  |  |
+| Hypertension | 16 | 5 | 13 | 7 |
+| Hemorrhage | 12 | 2 | 15 | 2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Cough | 13 | 0 | 8 | 0 |
+| Dyspnea | 11 | 1 | 8 | 1 |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea | 12 | 0 | 13 | 2 |
+| Diarrhea | 10 | 1 | 13 | 1 |
+
+Clinically relevant laboratory abnormalities are shown in Table 19.
+
+Table 19: Chronic Graft-Versus-Host Disease: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Cycle 7 Day 1 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
+
+| Laboratory Test | Jakafi (N = 165) |  | Best Available Therapy (N = 158) |  |
+| --- | --- | --- | --- | --- |
+| All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 (%) | Grade ≥ 3 (%) | All Grades (%) | Grade ≥ 3 (%) |  |
+| Hematology |  |  |  |  |
+| Anemia | 82 | 13 | 75 | 8 |
+| Neutropenia | 27 | 12 | 23 | 9 |
+| Thrombocytopenia | 58 | 20 | 54 | 17 |
+| Chemistry |  |  |  |  |
+| Hypercholesterolemia | 88 | 10 | 85 | 8 |
+| Elevated AST | 65 | 5 | 54 | 6 |
+| Elevated ALT | 73 | 11 | 71 | 16 |
+| Gamma glutamyltransferase increased | 81 | 42 | 75 | 38 |
+| Creatinine increased | 47 | 1 | 40 | 2 |
+| Elevated lipase | 38 | 12 | 30 | 9 |
+| Elevated amylase | 35 | 8 | 25 | 4 |

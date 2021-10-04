@@ -1,19 +1,19 @@
 # 7. DRUG INTERACTIONS
 
+## 7.1 Effect of Other Drugs on Jakafi
+
 Fluconazole
 
-Concomitant administration of Jakafi with fluconazole doses greater than 200 mg daily may increase ruxolitinib exposure due to inhibition of both the CYP3A4 and CYP2C9 metabolic pathways [see Clinical Pharmacology (12.3)].
-Increased exposure may increase the risk of exposure-related adverse reactions.
-Avoid the concomitant use of Jakafi with fluconazole doses of greater than 200 mg daily except in patients with acute GVHD [see Dosage and Administration (2.4)].
+Concomitant use of Jakafi with fluconazole increases ruxolitinib exposure [see Clinical Pharmacology (12.3)], which may increase the risk of exposure-related adverse reactions.
+Avoid concomitant use of Jakafi with fluconazole doses of greater than 200 mg daily.
+Reduce the Jakafi dosage when used concomitantly with fluconazole doses of less than or equal to 200 mg [see Dosage and Administration (2.5)].
 
-Strong CYP3A4 inhibitors
+Strong CYP3A4 Inhibitors
 
-Concomitant administration of Jakafi with strong CYP3A4 inhibitors increases ruxolitinib exposure [see Clinical Pharmacology (12.3)].
-Increased exposure may increase the risk of exposure-related adverse reactions.
-Consider dose reduction when administering Jakafi with strong CYP3A4 inhibitors [see Dosage and Administration (2.4)].
-In patients with acute GVHD, reduce Jakafi dose as recommended only when coadministered with ketoconazole, and monitor blood counts more frequently for toxicity and adjust the dose if necessary when coadministered with itraconazole [see Dosage and Administration (2.4)].
+Concomitant use of Jakafi with strong CYP3A4 inhibitors increases ruxolitinib exposure [see Clinical Pharmacology (12.3)], which may increase the risk of exposure-related adverse reactions.
+Reduce the Jakafi dosage when used concomitantly with strong CYP3A4 inhibitors except in patients with aGVHD or cGVHD [see Dosage and Administration (2.5)].
 
-Strong CYP3A4 inducers
+Strong CYP3A4 Inducers
 
-Concomitant administration of Jakafi with strong CYP3A4 inducers may decrease ruxolitinib exposure [see Clinical Pharmacology (12.3)].
-No dose adjustment is recommended; however, monitor patients frequently and adjust the Jakafi dose based on safety and efficacy [see Clinical Pharmacology (12.3)].
+Concomitant use of Jakafi with strong CYP3A4 inducers may decrease ruxolitinib exposure [see Clinical Pharmacology (12.3)], which may reduce efficacy of Jakafi.
+Monitor patients frequently and adjust the Jakafi dose based on safety and efficacy [see Clinical Pharmacology (12.3)].
