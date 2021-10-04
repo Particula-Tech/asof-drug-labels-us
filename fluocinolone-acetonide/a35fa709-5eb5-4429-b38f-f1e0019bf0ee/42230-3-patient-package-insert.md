@@ -159,16 +159,4 @@ Manufactured by:
 
 Hill Dermaceuticals, Inc.
 
-Sanford, FL 32773 USA
-
-or
-
-Manufactured by:
-
-G Production Inc.
-
-Baie dUrfé, QC, H9X 3S4 Canada
-
-Made in Canada
-
-Revised: March 2014
+Sanford, FL 32773 USA P51400-1

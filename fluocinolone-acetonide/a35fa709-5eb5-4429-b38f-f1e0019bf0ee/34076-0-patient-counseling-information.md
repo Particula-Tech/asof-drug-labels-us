@@ -31,15 +31,3 @@ Hill Dermaceuticals, Inc.
 Sanford, FL 32773 USA
 
 P51400-1
-
-or
-
-Manufactured by:
-
-G Production Inc.
-
-Baie d’Urfé, QC, H9X 3S4 Canada
-
-Made in Canada
-
-P52091-2
