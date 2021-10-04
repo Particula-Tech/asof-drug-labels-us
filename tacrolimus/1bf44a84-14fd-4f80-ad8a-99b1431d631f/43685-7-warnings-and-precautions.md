@@ -10,7 +10,7 @@ Therefore:
 - •Tacrolimus ointment should not be used in immunocompromised adults and children.
 - •If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
 - •The safety of tacrolimus ointment has not been established beyond one year of non-continuous use.
-- (See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
+- (See CLINICAL PHARMACOLOGY, boxed WARNING, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
@@ -26,8 +26,7 @@ Post-marketing cases of increased tacrolimus blood level have been reported in t
 The use of tacrolimus ointment may cause local symptoms such as skin burning (burning sensation, stinging, soreness) or pruritus.
 Localized symptoms are most common during the first few days of tacrolimus ointment application and typically improve as the lesions of atopic dermatitis resolve.
 With tacrolimus ointment 0.1%, 90% of the skin burning events had a duration between 2 minutes and 3 hours (median 15 minutes).
-90% of the pruritus events had a duration between 3 minutes and 10 hours (median 20 minutes).
-(see ADVERSE REACTIONS).
+90% of the pruritus events had a duration between 3 minutes and 10 hours (median 20 minutes) (see ADVERSE REACTIONS).
 
 ## Bacterial and Viral Skin Infections
 
@@ -45,7 +44,7 @@ Patients who develop lymphadenopathy should be monitored to ensure that the lymp
 
 ## Sun Exposure
 
-During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while tacrolimus is not on the skin.
+During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while tacrolimus ointment is not on the skin.
 It is not known whether tacrolimus ointment interferes with skin response to ultraviolet damage.
 
 ## Immunocompromised Patients
@@ -56,7 +55,7 @@ The safety and efficacy of tacrolimus ointment in immunocompromised patients hav
 
 Rare post-marketing cases of acute renal failure have been reported in patients treated with tacrolimus ointment.
 
-Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when tacrolimus is applied to large body surface areas.
+Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when tacrolimus ointment is applied to large body surface areas.
 Caution should also be exercised in patients predisposed to renal impairment.
 
 ## Information for Patients
@@ -105,12 +104,12 @@ Advise patients to:
 
 Advise patients:
 
-- •Wash their hands before applying tacrolimus.
+- •Wash their hands before applying tacrolimus ointment.
 - •Apply a thin layer of tacrolimus ointment twice daily to the areas of skin affected by eczema.
 - •Use the smallest amount of tacrolimus ointment needed to control the signs and symptoms of eczema.
-- •If they are a caregiver applying tacrolimus ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying tacrolimus.
+- •If they are a caregiver applying tacrolimus ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying tacrolimus ointment.
   This should remove any ointment left on the hands.
-- •Do not bathe, shower, or swim right after applying tacrolimus.
+- •Do not bathe, shower, or swim right after applying tacrolimus ointment.
   This could wash off the ointment.
 - •Moisturizers can be used with tacrolimus ointment.
   Make sure they check with their doctor first about the products that are right for them.
@@ -159,7 +158,9 @@ Tacrolimus, given orally at 1.0 mg/kg (0.12X MRHD based on body surface area [BS
 Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre-implantation loss and increased numbers of undelivered and nonviable pups.
 When given at 3.2 mg/kg (0.43X MRHD based on BSA), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.
 
-Pregnancy Teratogenic Effects: Pregnancy Category C
+Pregnancy
+
+Teratogenic Effects:
 
 There are no adequate and well-controlled studies of topically administered tacrolimus in pregnant women.
 The experience with tacrolimus ointment when used by pregnant women is too limited to permit assessment of the safety of its use during pregnancy.

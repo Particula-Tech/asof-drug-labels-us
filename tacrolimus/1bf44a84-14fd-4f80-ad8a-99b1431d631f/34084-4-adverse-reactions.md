@@ -107,13 +107,13 @@ CNS
 
 Seizures
 
-Infections
-
-Bullous impetigo, osteomyelitis, septicemia
-
 Neoplasms
 
 Lymphomas, basal cell carcinoma, squamous cell carcinoma, malignant melanoma
+
+Infections
+
+Bullous impetigo, osteomyelitis, septicemia
 
 Renal
 

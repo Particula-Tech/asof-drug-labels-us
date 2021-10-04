@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Adult Tacrolimus ointment 0.03% and 0.1%
+ADULT Tacrolimus ointment 0.03% and 0.1%
 
 - •Apply a thin layer of tacrolimus ointment to the affected skin twice daily.
   The minimum amount should be rubbed in gently and completely to control signs and symptoms of atopic dermatitis.

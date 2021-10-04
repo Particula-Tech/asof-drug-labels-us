@@ -50,7 +50,7 @@ Tacrolimus ointment should not be used:
 
 What should I tell my doctor before starting tacrolimus ointment?
 
-Before you start using tacrolimus, you and your doctor should talk about all of your medical conditions, including if you:
+Before you start using tacrolimus ointment you and your doctor should talk about all of your medical conditions, including if you:
 
 - •have a skin disease called Netherton's syndrome (a rare inherited condition).
 - •have any infection on your skin including chicken pox or herpes.
@@ -77,12 +77,12 @@ How should I use tacrolimus ointment?
 
 To apply tacrolimus ointment:
 
-- •Wash your hands before applying tacrolimus.
+- •Wash your hands before applying tacrolimus ointment.
 - •Apply a thin layer of tacrolimus ointment twice daily to the areas of skin affected by eczema.
 - •Use the smallest amount of tacrolimus ointment needed to control the signs and symptoms of eczema.
 - •If you are a caregiver applying tacrolimus ointment to a patient, or if you are a patient who is not treating your hands, wash your hands with soap and water after applying tacrolimus.
   This should remove any ointment left on the hands.
-- •Do not bathe, shower, or swim right after applying tacrolimus.
+- •Do not bathe, shower, or swim right after applying tacrolimus ointment.
   This could wash off the ointment.
 - •You can use moisturizers with tacrolimus ointment.
   Make sure you check with your doctor first about the products that are right for you.
@@ -105,18 +105,18 @@ What are the possible side effects of tacrolimus ointment?
 
 Please read the first section of this Medication Guide.
 
-The most common side effects of tacrolimus ointment at the skin application site are stinging, burning, or itching of the skin treated with tacrolimus.
+The most common side effects of tacrolimus ointment at the skin application site are stinging, burning, or itching of the skin treated with tacrolimus ointment.
 These side effects are usually mild to moderate, are most common during the first few days of treatment, and usually go away as your skin heals.
 
 Other side effects include acne, swollen or infected hair follicles, headache, increased sensitivity of the skin to hot or cold temperatures, or flu-like symptoms such as the common cold and stuffy nose, skin tingling, upset stomach, muscle pain, swollen glands (enlarged lymph nodes), or skin infections including cold sores, chicken pox or shingles.
 
 Talk to your doctor if you have a skin infection or if side effects (for example, swollen glands) continue or bother you.
-While you are using tacrolimus, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
+While you are using tacrolimus ointment, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
 These are not all the side effects with tacrolimus ointment.
 Ask your doctor or pharmacist for more information.
 
-Call your doctor for medical side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+Call your doctor for medical advice about side effects.
+You may report side effects to Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088.
 
 How should I store tacrolimus ointment?
 
@@ -136,7 +136,9 @@ This Medication Guide summarizes the most important information about tacrolimus
 If you would like more information, talk with your doctor.
 
 Your doctor or pharmacist can give you information about tacrolimus ointment that is written for health care professionals.
-To download the professional package insert you can also visit the tacrolimus ointment website at www.fougera.com or call 1-800-645-9833.
+For more information about tacrolimus ointment, contact Sandoz Inc. at 1-800-525-8747.
+
+.
 
 What are the ingredients in tacrolimus ointment?
 
@@ -144,8 +146,12 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or
+
+FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
+
 E. FOUGERA & CO. A division of
 
 Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-46160664B R06/16 #234
+46294198 A R09/2021 #234
