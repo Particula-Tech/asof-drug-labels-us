@@ -126,6 +126,6 @@ Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Padd
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA
 
-Revised: 07/2020
+Revised: 07/2021
