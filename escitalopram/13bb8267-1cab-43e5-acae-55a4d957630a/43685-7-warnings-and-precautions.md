@@ -3,7 +3,7 @@
 ## 5.1Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
-There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most all drugs studied.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
 The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
 
@@ -111,3 +111,13 @@ The recommended dose of Lexapro in hepatically impaired patients is 10 mg/day [s
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
 Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with Lexapro, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].
+
+## 5.11Sexual Dysfunction
+
+Use of SSRIs, including Lexapro, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of Lexapro and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

@@ -25,6 +25,11 @@ Pre-existing glaucoma is almost always open-angle glaucoma because angle closure
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
 
+Sexual Dysfunction
+
+Advise patients that use of Lexapro may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
 Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
@@ -63,15 +68,11 @@ Antidepressants are not intended for use in the adolescent who exhibits symptoms
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
 © 2021 Allergan.
 All rights reserved.
 
-V3.0USPI2120
+V3.0USPI2005

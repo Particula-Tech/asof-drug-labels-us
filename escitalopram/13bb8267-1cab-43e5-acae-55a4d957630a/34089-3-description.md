@@ -1,6 +1,6 @@
 # 11DESCRIPTION
 
-Lexapro contains escitalopram, an orally administered selective serotonin reuptake inhibitor (SSRI).
+Lexapro® contains escitalopram oxalate, an orally administered selective serotonin reuptake inhibitor (SSRI).
 Escitalopram is the pure S-enantiomer (single isomer) of the racemic bicyclic phthalane derivative citalopram.
 Escitalopram oxalate is designated S-(+)-1-[3(dimethyl-amino)propyl]-1-(p-fluorophenyl)-5-phthalancarbonitrile oxalate with the following structural formula:
 

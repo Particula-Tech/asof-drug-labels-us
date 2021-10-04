@@ -16,7 +16,9 @@ Suicidal thoughts or actions:
 
 - Lexapro and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice: ∙ New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe. ∙ Pay particular attention to such changes when Lexapro is started or when the dose is changed.
+- Watch for these changes and call your healthcare provider right away if you notice:
+- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+- Pay particular attention to such changes when Lexapro is started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -94,6 +96,24 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+10.
+Sexual Dysfunction.
+Taking selective serotonin reuptake inhibitors (SSRIs), including Lexapro, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Lexapro.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop Lexapro without first talking to your healthcare provider.
 Stopping Lexapro too quickly may cause serious symptoms including:
 
@@ -141,7 +161,11 @@ Ask if you are not sure.
 
 Before starting Lexapro, tell your healthcare provider if you:
 
-- Are taking certain drugs such as: ∙ Triptans used to treat migraine headache ∙ Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics ∙ Tramadol ∙ Over-the-counter supplements such as tryptophan or St. John’s Wort
+- Are taking certain drugs such as:
+- Triptans used to treat migraine headache
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
+- Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -251,17 +275,17 @@ Inactive ingredients:
 
 - Tablets: talc, croscarmellose sodium, microcrystalline cellulose/colloidal silicon dioxide, and magnesium stearate.
   The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
-- Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor.
+- Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor (oral solution is not currently being marketed).
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-Revised: 08/2020
+Revised: 09/2021
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
-v3.0MG2010
+v3.0MG2005

@@ -287,9 +287,7 @@ Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis,
 
 Immune System Disorders: allergic reaction, anaphylaxis.
 
-Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased,
-
-hypercholesterolemia, INR increased, prothrombin decreased.
+Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased, hypercholesterolemia, INR increased, prothrombin decreased.
 
 Metabolism and Nutrition Disorders: hyperglycemia, hypoglycemia, hypokalemia, hyponatremia.
 

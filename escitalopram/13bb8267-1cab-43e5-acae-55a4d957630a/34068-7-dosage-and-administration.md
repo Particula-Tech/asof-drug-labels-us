@@ -40,7 +40,7 @@ Generalized anxiety disorder is recognized as a chronic condition.
 The efficacy of Lexapro in the treatment of GAD beyond 8 weeks has not been systematically studied.
 The physician who elects to use Lexapro for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 
-## 2.3 Screen for Bipolar Disorder Prior to Starting Lexapro
+## 2.3Screen for Bipolar Disorder Prior to Starting Lexapro
 
 Prior to initiating treatment with Lexapro or another antidepressant, screen patients for a personal family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.5)].
 
