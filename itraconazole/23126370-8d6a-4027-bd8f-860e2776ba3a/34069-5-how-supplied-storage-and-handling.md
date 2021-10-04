@@ -12,6 +12,8 @@ Keep out of reach of children.
 Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866-210-9797.
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+Manufactured for: Alembic Pharmaceuticals, Inc.
 
-Revised: 11/2019
+Bedminster, NJ 07921, USA
+
+Revised: 08/2021

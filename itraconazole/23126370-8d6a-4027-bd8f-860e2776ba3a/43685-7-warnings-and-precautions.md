@@ -177,7 +177,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Netupitant |  | Monitor for adverse reactions. |
 | Immunosuppressants |  |  |
 | Everolimus Sirolimus Temsirolimus (IV) |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasone a | Fluticasone (inhalation)a Fluticasone (nasal) Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation)a Fluticasone (nasal) Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
 | Lomitapide Lovastatina Simvastatina |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Atorvastatina |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary |
@@ -190,7 +190,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Fesoterodine |  | Patients with moderate to severe renal or hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Darifenacin Vardenafil |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Dutasteride Oxybutynin a Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
+| Dutasteride Oxybutynina Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
 | Miscellaneous Drugs and Other Substances |  |  |
 | Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Not recommended during and 2 weeks after itraconazole treatment. |
 | Eliglustat |  | CYP2D6 EMsctaking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMsc, or CYP2D6 PMsc: Contraindicated during and 2 weeks after itraconazole treatment. CYP2D6 EMsc not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
