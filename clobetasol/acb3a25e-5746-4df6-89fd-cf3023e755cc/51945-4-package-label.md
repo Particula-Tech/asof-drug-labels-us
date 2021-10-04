@@ -39,4 +39,5 @@ Marketed by:
 
 GALDERMA LABORATORIES, L.P.
 
-Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. www.clobex.com P51351-2
+Fort Worth, Texas 76177 USA Made in Canada All trademarks are the property of their respective owners.
+P51351-3
