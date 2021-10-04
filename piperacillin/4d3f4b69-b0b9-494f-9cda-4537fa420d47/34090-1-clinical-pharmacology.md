@@ -10,27 +10,25 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 7.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 9.
 
-Table 7: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+Table 9: Mean (CV%) Piperacillin and Tazobactam PK Parameters
 
 | Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Piperacillin/ Tazobactam Dose | Cmax (mcg/mL) | AUC (mcg•h/mL) | CL (mL/min) | V (L) | T1/2(h) | CLR (mL/min) |
+| Piperacillin/ Tazobactam Dose* | Cmax (mcg/mL) | AUC† (mcg•h/mL) | CL (mL/min) | V (L) | T1/2(h) | CLR (mL/min) |
 | 2.25 g | 134 | 131 [14] | 257 | 17.4 | 0.79 | - |
 | 3.375 g | 242 | 242 [10] | 207 | 15.1 | 0.84 | 140 |
 | 4.5 g | 298 | 322 [16] | 210 | 15.4 | 0.84 | - |
 | Tazobactam |  |  |  |  |  |  |
-| Piperacillin/ Tazobactam Dose | Cmax (mcg/mL) | AUC (mcg•h/mL) | CL (mL/min) | V (L) | T1/2(h) | CLR (mL/min) |
+| Piperacillin/ Tazobactam Dose* | Cmax (mcg/mL) | AUC† (mcg•h/mL) | CL (mL/min) | V (L) | T1/2(h) | CLR (mL/min) |
 | 2.25 g | 15 | 16 [21] | 258 | 17 | 0.77 | - |
 | 3.375 g | 24 | 25 [8] | 251 | 14.8 | 0.68 | 166 |
 | 4.5 g | 34 | 39.8 [15] | 206 | 14.7 | 0.82 | - |
 
-1.
-Piperacillin and tazobactam were given in combination, infused over 30 minutes.
+* Piperacillin and tazobactam were given in combination, infused over 30 minutes.
 
-2.
-Numbers in [] parentheses are coefficients of variation [CV%].
+† Numbers in [] parentheses are coefficients of variation [CV%].
 
 Cmax: maximum observed concentration, AUC: Area under the curve, CL=clearance, CLR= Renal clearance
 
@@ -48,11 +46,11 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 8).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 10).
 
-Table 8: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
+Table 10: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
 
-| Tissue or Fluid | N1 | Sampling period2 (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
+| Tissue or Fluid | N* | Sampling period† (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
 | --- | --- | --- | --- | --- | --- | --- |
 | Skin | 35 | 0.5 – 4.5 | 34.8 – 94.2 | 0.6 – 1.1 | 4 – 7.7 | 0.49 – 0.93 |
 | Fatty Tissue | 37 | 0.5 – 4.5 | 4 – 10.1 | 0.097 – 0.115 | 0.7 – 1.5 | 0.1 – 0.13 |
@@ -61,8 +59,9 @@ Table 8: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids a
 | Distal Intestinal Mucosa | 7 | 1.5 – 2.5 | 31.2 | 0.59 | 14.5 | 2.1 |
 | Appendix | 22 | 0.5 – 2.5 | 26.5 – 64.1 | 0.43 – 0.53 | 9.1 – 18.6 | 0.8 – 1.35 |
 
-1. 1.Each subject provided a single sample.
-2. 2.Time from the start of the infusion.
+* Each subject provided a single sample.
+
+† Time from the start of the infusion.
 
 Metabolism
 
@@ -85,7 +84,7 @@ Renal Impairment
 After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
 Dosage adjustments for piperacillin and tazobactam for injection are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
-See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal impairment.
+See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal-impairment.
 
 Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
@@ -130,7 +129,7 @@ In vitro, piperacillin is active against a variety of Gram-positive and Gram-neg
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
 It is, however, a beta-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
-Tazobactam does not induce chromosomally mediated beta-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
+Tazobactam does not induce chromosomally-mediated beta-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
 
 Antimicrobial Activity
 
@@ -138,11 +137,11 @@ Piperacillin/tazobactam has been shown to be active against most isolates of the
 
 Aerobic Bacteria
 
-Gram-positive bacteria:
+Gram-positive bacteria
 
 Staphylococcus aureus (methicillin susceptible isolates only)
 
-Gram-negative bacteria:
+Gram-negative bacteria
 
 Acinetobacter baumannii
 
@@ -154,7 +153,7 @@ Klebsiella pneumoniae
 
 Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
 
-Anaerobic Bacteria:
+Anaerobic Bacteria
 
 Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, and B. vulgatus)
 
@@ -164,7 +163,7 @@ However, the efficacy of piperacillin/tazobactam in treating clinical infections
 
 Aerobic Bacteria
 
-Gram-positive bacteria:
+Gram-positive bacteria
 
 Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only)
 
@@ -178,7 +177,7 @@ Streptococcus pyogenes†
 
 Viridans group streptococci†
 
-Gram-negative bacteria:
+Gram-negative bacteria
 
 Citrobacter koseri
 
@@ -200,7 +199,7 @@ Providencia rettgeri
 
 Salmonella enterica
 
-Anaerobic Bacteria:
+Anaerobic Bacteria
 
 Clostridium perfringens
 

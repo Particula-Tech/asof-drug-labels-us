@@ -10,7 +10,7 @@ During the initial clinical investigations, 2621 patients worldwide were treated
 In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
 However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam for injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
+Table 6: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -59,7 +59,7 @@ Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 5: Adverse Reactions from Piperacillin and Tazobactam Injection plus Aminoglycoside Clinical Trials
+Table 7: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Aminoglycoside Clinical Trials*
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -105,7 +105,7 @@ Table 5: Adverse Reactions from Piperacillin and Tazobactam Injection plus Amino
 | Thrombophlebitis (1.3%) |
 | Hypotension (1.3%) |
 
-1 For adverse drug reactions that appeared in both studies the higher frequency is presented.
+* For adverse drug reactions that appeared in both studies the higher frequency is presented.
 
 Other Trials: Nephrotoxicity
 
@@ -139,7 +139,7 @@ The rates of serious adverse reactions were generally similar between the pipera
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse drug reactions identified in clinical trials in Table 4 and Table 5, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
+In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary - hepatitis, jaundice
@@ -164,4 +164,4 @@ Post-marketing experience with piperacillin and tazobactam for injection in pedi
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
-Skeletal - prolonged muscle relaxation [see Drug Interactions (7.5)].
+Skeletal - prolonged neuromuscular blockade [see Drug Interactions (7.5)].
