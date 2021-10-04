@@ -29,12 +29,13 @@ Recommended Metoclopramide Tablet Dosage in Patients with Gastroesophageal Reflu
 | --- | --- | --- |
 | Adult patients | 10 to 15 mg four times daily (thirty minutes before each meal and at bedtime) | 60 mg |
 | Mild hepatic impairment (Child-Pugh A) |  |  |
-| Elderly patients [see Use in Specific Populations (8.5)] | 5 mgElderly patients may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a lower starting dosage of 5 mg four times daily with titration to the recommended adult dosage of 10 to 15 mg four times daily based upon response and tolerability. four times daily (thirty minutes before each meal and at bedtime) |  |
+| Elderly patients [see Use in Specific Populations (8.5)] | 5 mg1 four times daily (thirty minutes before each meal and at bedtime) |  |
 | Moderate or severe hepatic impairment (Child-Pugh B or C) [see Use in Specific Populations (8.7)] | 5 mg four times daily (thirty minutes before each meal and at bedtime), or10 mg taken three times daily | 30 mg |
 | CYP2D6 poor metabolizers [see Use in Specific Populations (8.9)] |  |  |
 | Concomitant use with strong CYP2D6 inhibitors (e.g., quinidine, bupropion, fluoxetine, and paroxetine) [see Drug Interactions (7.1)] |  |  |
 | Moderate or severe renal impairment (creatinine clearance less than or equal to 60 mL/minute) [see Use in Specific Populations (8.6)] |  |  |
 | Patients with End-Stage Renal Disease (ESRD) including those treated with hemodialysis and continuous ambulatory peritoneal dialysis [see Use in Specific Populations (8.6)] | 5 mg four times daily (thirty minutes before each meal and at bedtime) or 10 mg twice daily | 20 mg |
+| 1 Elderly patients may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a lower starting dosage of 5 mg four times daily with titration to the recommended adult dosage of 10 to 15 mg four times daily based upon response and tolerability. |  |  |
 
 ## 2.3 Dosage for Acute and Recurrent Diabetic Gastroparesis
 
@@ -55,9 +56,10 @@ Recommended Metoclopramide Tablet Dosage in Patients with Acute and Recurrent Di
 | --- | --- | --- |
 | Adult Patients | 10 mg four times daily (30 minutes before each meal and at bedtime) | 40 mg |
 | Mild hepatic impairment (Child-Pugh A) |  |  |
-| Elderly patients [see Use in Specific Populations (8.5)] | 5 mgElderly patients may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a lower dosage of 5 mg four times daily with titration to the recommended adult dosage of 10 mg four time daily based upon response and tolerability. four times daily (30 minutes before each meal and at bedtime) |  |
+| Elderly patients [see Use in Specific Populations (8.5)] | 5 mg1 four times daily (30 minutes before each meal and at bedtime) |  |
 | Moderate or severe hepatic impairment (Child-Pugh B or C) [see Use in Specific Populations (8.7)] | 5 mg four times daily (30 minutes before each meal and at bedtime) | 20 mg |
 | CYP2D6 poor metabolizers [see Use in Specific Populations (8.9)] |  |  |
 | Concomitant use with strong CYP2D6 inhibitors (e.g., quinidine, bupropion, fluoxetine, and paroxetine) [see Drug Interactions (7.1)] |  |  |
 | Moderate or severe renal impairment (creatinine clearance less than 60 mL/minute) [see Use in Specific Populations (8.6)] |  |  |
 | Patients with End-Stage Renal Disease (ESRD) including those treated with hemodialysis and continuous ambulatory peritoneal dialysis [see Use in Specific Populations (8.6)] | 5 mg twice daily | 10 mg |
+| 1 Elderly patients may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a lower dosage of 5 mg four times daily with titration to the recommended adult dosage of 10 mg four times daily based upon response and tolerability. |  |  |

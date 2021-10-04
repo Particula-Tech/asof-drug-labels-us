@@ -55,13 +55,9 @@ Patients with Hepatic Impairment: In a group of 8 patients with severe hepatic i
 
 Drug Interaction Studies
 
-Effect of Metoclopramide on CYP2D6 Substrates
+Effect of Metoclopramide on CYP2D6 Substrates Although in vitro studies suggest that metoclopramide can inhibit CYP2D6, metoclopramide is unlikely to interact with CYP2D6 substrates in vivo at therapeutically relevant concentrations.
 
-Although in vitro studies suggest that metoclopramide can inhibit CYP2D6, metoclopramide is unlikely to interact with CYP2D6 substrates in vivo at therapeutically relevant concentrations.
-
-Effect of CYP2D6 Inhibitors on Metoclopramide
-
-In healthy subjects, 20 mg of metoclopramide and 60 mg of fluoxetine (a strong CYP2D6 inhibitor) were administered, following prior exposure to 60 mg fluoxetine orally for 8 days.
+Effect of CYP2D6 Inhibitors on Metoclopramide In healthy subjects, 20 mg of metoclopramide and 60 mg of fluoxetine (a strong CYP2D6 inhibitor) were administered, following prior exposure to 60 mg fluoxetine orally for 8 days.
 The patients who received concomitant metoclopramide and fluoxetine had a 40% and 90% increase in metoclopramide Cmax and AUC0-∞, respectively, compared to patients who received metoclopramide alone (see Table 5) [see Drug Interactions (7.1)].
 
 Table 5.
