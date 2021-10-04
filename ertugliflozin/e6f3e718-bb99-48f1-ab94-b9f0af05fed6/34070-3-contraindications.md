@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-- Severe renal impairment, end-stage renal disease (ESRD), or dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
-- History of a serious hypersensitivity reaction to STEGLATRO.
+- Hypersensitivity to ertugliflozin or any excipient in STEGLATRO, reactions such as angioedema have occurred [see Adverse Reactions (6.2)].
+- Patients on dialysis [see Use in Specific Populations (8.6)].

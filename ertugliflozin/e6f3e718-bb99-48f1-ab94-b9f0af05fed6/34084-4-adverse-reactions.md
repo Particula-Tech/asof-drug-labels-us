@@ -2,15 +2,13 @@
 
 The following important adverse reactions are described elsewhere in the labeling:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
-- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- Ketoacidosis [see Warnings and Precautions (5.1)]
+- Lower Limb Amputation [see Warnings and Precautions (5.2)]
+- Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
-- Lower Limb Amputation [see Warnings and Precautions (5.5)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,7 +28,7 @@ Baseline renal function (mean eGFR 88.9 mL/min/1.73 m2) was normal or mildly imp
 Table 1 shows common adverse reactions associated with the use of STEGLATRO.
 These adverse reactions were not present at baseline, occurred more commonly on STEGLATRO than on placebo, and occurred in at least 2% of patients treated with either STEGLATRO 5 mg or STEGLATRO 15 mg.
 
-Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with STEGLATROThe three placebo controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of STEGLATRO Monotherapy or Combination Therapy
+Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with STEGLATROThe three placebo-controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of STEGLATRO Monotherapy or Combination Therapy
 
 |  | Placebo N = 515 | STEGLATRO 5 mg N = 519 | STEGLATRO 15 mg N = 510 |
 | --- | --- | --- | --- |
@@ -46,53 +44,22 @@ Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Me
 | Weight decreased | 1.0% | 1.2% | 2.4% |
 | ThirstIncludes: thirst, dry mouth, polydipsia, and dry throat. | 0.6% | 2.7% | 1.4% |
 
+Ketoacidosis
+
+In a long-term cardiovascular outcomes study VERTIS CV (eValuation of ERTugliflozin effIcacy and Safety, CardioVascular, [see Clinical Studies (14.2)], a study in patients with type 2 diabetes and established cardiovascular disease, ketoacidosis was identified in 19 (0.3%) STEGLATRO-treated patients and in 2 (0.1%) placebo treated patients.
+Across seven other STEGLATRO clinical trials, ketoacidosis was identified in 3 (0.1%) STEGLATRO-treated patients and 0.0% of comparator-treated patients.
+
 Volume Depletion
 
 STEGLATRO causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion, particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2).
 In patients with moderate renal impairment, adverse reactions related to volume depletion (e.g., dehydration, dizziness postural, presyncope, syncope, hypotension, and orthostatic hypotension) were reported in 0%, 4.4%, and 1.9% of patients treated with placebo, STEGLATRO 5 mg, and STEGLATRO 15 mg, respectively.
 STEGLATRO may also increase the risk of hypotension in other patients at risk for volume contraction [see Use in Specific Populations (8.5, 8.6)].
 
-Ketoacidosis
-
-Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) ertugliflozin-treated patients and 0.0% of comparator-treated patients [see Warnings and Precautions (5.2)].
-
-Impairment in Renal Function
-
-Treatment with STEGLATRO was associated with increases in serum creatinine and decreases in eGFR (see Table 2).
-Patients with moderate renal impairment at baseline had larger mean changes.
-In a study in patients with moderate renal impairment, these abnormal laboratory findings were observed to reverse after treatment discontinuation [see Use in Specific Populations (8.5, 8.6)].
-
-Table 2: Changes from Baseline in Serum Creatinine and eGFR in the Pool of Three 26-Week Placebo-Controlled Studies, and a 26-Week Moderate Renal Impairment Study in Patients with Type 2 Diabetes Mellitus
-
-|  |  | Pool of 26-Week Placebo-Controlled Studies |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Placebo N=515 | STEGLATRO 5 mg N=519 | STEGLATRO 15 mg N=510 |
-| Baseline Mean | Creatinine (mg/dL) | 0.83 | 0.82 | 0.82 |
-| eGFR (mL/min/1.73 m2) | 89.5 | 88.2 | 89.0 |  |
-| Week 6 Change | Creatinine (mg/dL) | 0.00 | 0.03 | 0.03 |
-| eGFR (mL/min/1.73 m2) | -0.3 | -2.7 | -3.1 |  |
-| Week 26 Change | Creatinine (mg/dL) | -0.01 | 0.00 | 0.01 |
-| eGFR (mL/min/1.73 m2) | 0.7 | 0.5 | -0.6 |  |
-|  |  | Moderate Renal Impairment Study |  |  |
-|  |  | Placebo N=154 | STEGLATRO 5 mg N=158 | STEGLATRO 15 mg N=155 |
-| Baseline | Creatinine (mg/dL) | 1.39 | 1.38 | 1.37 |
-| eGFR (mL/min/1.73 m2) | 46.0 | 46.8 | 46.9 |  |
-| Week 6 Change | Creatinine (mg/dL) | -0.02 | 0.11 | 0.12 |
-| eGFR (mL/min/1.73 m2) | 0.6 | -3.2 | -4.1 |  |
-| Week 26 Change | Creatinine (mg/dL) | 0.02 | 0.08 | 0.10 |
-| eGFR (mL/min/1.73 m2) | 0.0 | -2.7 | -2.6 |  |
-
-Renal-related adverse reactions (e.g., acute kidney injury, renal impairment, acute prerenal failure) may occur in patients treated with STEGLATRO, particularly in patients with moderate renal impairment where the incidence of renal-related adverse reactions was 0.6%, 2.5%, and 1.3% in patients treated with placebo, STEGLATRO 5 mg, and STEGLATRO 15 mg, respectively.
-
-Lower Limb Amputation
-
-Across seven Phase 3 clinical trials in which STEGLATRO was studied as monotherapy and in combination with other antihyperglycemic agents, non-traumatic lower limb amputations occurred in 1 of 1,450 (0.1%) in the non-STEGLATRO group, 3 of 1,716 (0.2%) in the STEGLATRO 5 mg group, and 8 of 1,693 (0.5%) in the STEGLATRO 15 mg group.
-
 Hypoglycemia
 
-The incidence of hypoglycemia by study is shown in Table 3.
+The incidence of hypoglycemia by study is shown in Table 2.
 
-Table 3: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
+Table 2: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
 Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
 | Monotherapy (26 weeks) | Placebo (N = 153) | STEGLATRO 5 mg (N =156) | STEGLATRO 15 mg (N = 152) |
@@ -105,9 +72,18 @@ Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diab
 | Add-on Combination Therapy with Metformin and Sitagliptin (26 weeks) | Placebo (N = 153) | STEGLATRO 5 mg (N = 156) | STEGLATRO 15 mg (N = 153) |
 | Overall [N (%)] | 5 (3.3) | 7 (4.5) | 3 (2.0) |
 | Severe [N (%)] | 1 (0.7) | 1 (0.6) | 0 (0.0) |
-| In Combination with Insulin and/or an Insulin Secretagogue in Patients with Moderate Renal Impairment | Placebo (N = 133) | STEGLATRO 5 mg (N = 148) | STEGLATRO 15 mg (N = 143) |
+| In Combination with Insulin and/or an Insulin Secretagogue in Patients with Moderate Renal Impairment (26 weeks) | Placebo (N = 133) | STEGLATRO 5 mg (N = 148) | STEGLATRO 15 mg (N = 143) |
 | Overall [N (%)] | 48 (36.1) | 53 (35.8) | 39 (27.3) |
 | Severe [N (%)] | 3 (2.3) | 5 (3.4) | 3 (2.1) |
+| Add-on Combination with Insulin with or without Metformin (18 weeks) | Placebo (N = 347) | STEGLATRO 5 mg (N = 348) | STEGLATRO 15 mg (N = 370) |
+| Overall [N (%)] | 130 (37.5) | 137 (39.4) | 144 (38.9) |
+| Severe [N (%)] | 12 (3.5) | 13 (3.7) | 19 (5.1) |
+| Add-on Combination with a Sulfonylurea (18 weeks) | Placebo (N =48) | STEGLATRO 5 mg (N =55) | STEGLATRO 15 mg (N =54) |
+| Overall [N (%)] | 2 (4.2) | 4 (7.3) | 5 (9.3) |
+| Severe [N (%)] | 0 (0.0) | 0 (0.0) | 0 (0.0) |
+| Add-on Combination with Metformin and a Sulfonylurea (18 weeks) | Placebo (N = 117) | STEGLATRO 5 mg (N = 100) | STEGLATRO 15 mg (N = 113) |
+| Overall [N (%)] | 17 (14.5) | 20 (20.0) | 30 (26.5) |
+| Severe [N (%)] | 1 (0.9) | 2 (2.0) | 2 (1.8) |
 
 Genital Mycotic Infections
 
@@ -119,13 +95,26 @@ Male genital mycotic infections occurred more commonly in uncircumcised males.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.2% of patients treated with placebo and STEGLATRO, respectively.
 Phimosis was reported in 8 of 1729 (0.5%) male ertugliflozin-treated patients, of which four required circumcision.
 
+Urinary Tract Infections
+
+In VERTIS CV, urinary tract infections (e.g., urinary tract infection, cystitis, dysuria) occurred in 10.2%, 12.2% and 12.0% of patients treated with placebo, STEGLATRO 5 mg and STEGLATRO 15 mg, respectively.
+The incidences of serious urinary tract infections were 0.8%, 0.9% and 0.4% with placebo, STEGLATRO 5 mg and STEGLATRO 15 mg, respectively.
+
 Laboratory Tests
+
+Changes in Serum Creatinine and eGFR
+
+Initiation of STEGLATRO causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a long-term cardiovascular outcomes trial, an initial increase in serum creatinine and a decrease in eGFR within weeks of starting therapy was observed (at Week 6 eGFR changes of -2.7, -3.8 and -0.4 mL/min/1.73 m2 in the STEGLATRO 5 mg, STEGLATRO 15 mg and placebo arms, respectively).
+The initial decline was followed by a recovery toward baseline to Week 52 (eGFR change from baseline of - 0.4, - 1.1 and - 0.2 mL/min/1.73 m2 in STEGLATRO 5 mg, STEGLATRO 15 mg, and placebo arms, respectively).
+Acute hemodynamic changes may play a role in the early renal function changes observed with STEGLATRO since they are reversed after treatment discontinuation.
 
 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 In the pool of three placebo-controlled trials, dose-related increases in LDL-C were observed in patients treated with STEGLATRO.
 Mean percent changes from baseline to Week 26 in LDL-C relative to placebo were 2.6% and 5.4% with STEGLATRO 5 mg and STEGLATRO 15 mg, respectively.
-The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.9)].
+The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups.
 
 Increases in Hemoglobin
 
@@ -144,4 +133,5 @@ In a clinical trial of patients with moderate renal impairment, mean changes (pe
 Additional adverse reactions have been identified during postapproval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Cases of necrotizing fasciitis of the perineum (Fournier's gangrene) have been seen with SGLT2 inhibitors [see Warnings and Precautions (5.7)]
+- Necrotizing fasciitis of the perineum (Fournier's Gangrene)
+- Angioedema

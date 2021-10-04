@@ -2,7 +2,7 @@
 
 NDC 0006-5363-03
 
-Steglatro™ (ertugliflozin) tablets
+Steglatro® (ertugliflozin) tablets
 
 5 mg
 
@@ -18,7 +18,7 @@ Rx only
 
 NDC 0006-5364-03
 
-Steglatro™ (ertugliflozin) tablets
+Steglatro® (ertugliflozin) tablets
 
 15 mg
 

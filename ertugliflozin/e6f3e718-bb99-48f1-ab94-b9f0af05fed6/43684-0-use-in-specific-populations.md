@@ -21,7 +21,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
@@ -48,8 +48,6 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 Data
 
-Animal Data
-
 The lacteal excretion of radiolabeled ertugliflozin in lactating rats was evaluated 10 to 12 days after parturition.
 Ertugliflozin derived radioactivity exposure in milk and plasma were similar, with a milk/plasma ratio of 1.07, based on AUC.
 Juvenile rats directly exposed to STEGLATRO during a developmental period corresponding to human kidney maturation were associated with a risk to the developing kidney (persistent increased organ weight, renal mineralization, and renal pelvic and tubular dilatations).
@@ -61,20 +59,22 @@ Safety and effectiveness of STEGLATRO in pediatric patients under 18 years of ag
 ## 8.5 Geriatric Use
 
 No dosage adjustment of STEGLATRO is recommended based on age.
-Across the clinical program, a total of 876 (25.7%) patients treated with STEGLATRO were 65 years and older, and 152 (4.5%) patients treated with STEGLATRO were 75 years and older.
-Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, STEGLATRO 5 mg, and STEGLATRO 15 mg, respectively [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
-STEGLATRO is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
+In STEGLATRO clinical trials, a total of 876 (25.7%) patients treated with STEGLATRO were 65 years and older, and 152 (4.5%) patients treated with STEGLATRO were 75 years and older.
+Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, STEGLATRO 5 mg, and STEGLATRO 15 mg, respectively [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+
+In VERTIS CV, a total of 2780 (50.5%) patients treated with STEGLATRO were 65 years and older, and 595 (10.8%) patients treated with STEGLATRO were 75 years and older.
+Safety and efficacy were generally similar for patients age 65 years and older compared to patients younger than 65.
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of STEGLATRO have not been established in patients with type 2 diabetes mellitus and moderate renal impairment [see Clinical Studies (14.4)].
-Compared to placebo-treated patients, patients with moderate renal impairment treated with STEGLATRO did not have improvement in glycemic control [see Clinical Studies (14.4)], and had increased risks for renal impairment, renal-related adverse reactions and volume depletion adverse reactions [see Dosage and Administration (2.2), Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
-Therefore, STEGLATRO is not recommended in this population.
+A 26-week placebo-controlled study of 313 patients with Stage 3 Chronic Kidney Disease (eGFR ≥30 to less than 60 mL/min/1.73 m2) treated with STEGLATRO did not demonstrate improvement in glycemic control.
 
-STEGLATRO is contraindicated in patients with severe renal impairment, ESRD, or receiving dialysis.
-STEGLATRO is not expected to be effective in these patient populations [see Contraindications (4)].
+In the VERTIS CV study, there were 1370 patients (25%) with an eGFR ≥90 mL/min/1.73 m2, 2929 patients (53%) with an eGFR of ≥60 to less than 90 mL/min/1.73 m2, 879 patients (16%) with an eGFR of ≥45 to less than 60 mL/min/1.73 m2, and 299 patients (5%) with eGFR of 30 to <45 mL/min/1.73 m2 treated with STEGLATRO.
+Similar effects on glycemic control at Week 18 were observed in patients treated with STEGLATRO in each eGFR subgroup and also in the overall patient population.
 
-No dosage adjustment or increased monitoring is needed in patients with mild renal impairment.
+STEGLATRO is contraindicated in patients on dialysis [see Contraindications (4)].
+
+No dosage adjustment is needed in patients with eGFR ≥45 mL/min/1.73 m2.
 
 ## 8.7 Hepatic Impairment
 

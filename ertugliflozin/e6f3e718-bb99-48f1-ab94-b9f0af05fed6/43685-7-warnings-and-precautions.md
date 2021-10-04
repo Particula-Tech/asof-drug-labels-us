@@ -1,17 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypotension
+## 5.1 Ketoacidosis
 
-STEGLATRO causes intravascular volume contraction.
-Therefore, symptomatic hypotension may occur after initiating STEGLATRO [see Adverse Reactions (6.1)] particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients (≥65 years), in patients with low systolic blood pressure, and in patients on diuretics.
-Before initiating STEGLATRO, volume status should be assessed and corrected if indicated.
-Monitor for signs and symptoms of hypotension after initiating therapy.
-
-## 5.2 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors and cases have been reported in STEGLATRO-treated patients in clinical trials.
-Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) of STEGLATRO-treated patients and 0% of comparator-treated patients.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors including STEGLATRO [see Adverse Reactions (6.1)].
 Fatal cases of ketoacidosis have been reported in patients taking SGLT2 inhibitors.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
+The risk of ketoacidosis may be greater with higher doses.
 STEGLATRO is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with STEGLATRO who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with STEGLATRO may be present even if blood glucose levels are less than 250 mg/dL.
@@ -31,47 +25,46 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting STEGLATRO.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue STEGLATRO and seek medical attention immediately if signs and symptoms occur.
 
-## 5.3 Acute Kidney Injury and Impairment in Renal Function
+## 5.2 Lower Limb Amputation
 
-STEGLATRO causes intravascular volume contraction and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury some requiring hospitalization and dialysis in patients receiving SGLT2 inhibitors.
+In a long-term cardiovascular outcomes study [see Clinical Studies 14.2], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
 
-Before initiating STEGLATRO, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing STEGLATRO in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue STEGLATRO promptly and institute treatment.
+Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
+Some patients had multiple amputations, some involving both lower limbs.
 
-STEGLATRO increases serum creatinine and decreases eGFR.
-Patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating STEGLATRO [see Adverse Reactions (6.1)].
-Renal function should be evaluated prior to initiating STEGLATRO and periodically thereafter.
-Use of STEGLATRO is not recommended when eGFR is persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), and Use in Specific Populations (8.6)].
+Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
+Patients with amputations were more likely to be male, have higher A1C (%) at baseline, have a history of peripheral arterial disease, amputation or peripheral revascularization procedure, diabetic foot, and to have been taking diuretics or insulin.
 
-## 5.4 Urosepsis and Pyelonephritis
-
-There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving SGLT2 inhibitors.
-Cases of pyelonephritis also have been reported in STEGLATRO-treated patients in clinical trials.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.1)].
-
-## 5.5 Lower Limb Amputation
-
-An increased risk for lower limb amputation (primarily of the toe) has been observed in clinical studies with another SGLT2 inhibitor.
-Across seven Phase 3 clinical trials in the STEGLATRO development program, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the STEGLATRO 5 mg group, and 8 (0.5%) patients in the STEGLATRO 15 mg group.
-A causal association between STEGLATRO and lower limb amputation has not been definitively established.
+Across seven STEGLATRO clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the STEGLATRO 5 mg group, and 8 (0.5%) patients in the STEGLATRO 15 mg group.
 
 Before initiating STEGLATRO, consider factors in the patient history that may predispose them to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving STEGLATRO for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue STEGLATRO if these complications occur.
 
-## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.3 Volume Depletion
+
+STEGLATRO can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including STEGLATRO.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients, patients with low systolic blood pressure, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating STEGLATRO in patients with one or more of these characteristics, assess volume status and renal function.
+In patients with volume depletion, correct this condition before initiating STEGLATRO.
+Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
+
+## 5.4 Urosepsis and Pyelonephritis
+
+There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving SGLT2 inhibitors.
+Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.1)].
+
+## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
 STEGLATRO may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLATRO.
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Reports of necrotizing fasciitis of the perineum (Fournier's Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including STEGLATRO.
 Cases have been reported in females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
@@ -79,17 +72,8 @@ Patients treated with STEGLATRO presenting with pain or tenderness, erythema, or
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue STEGLATRO, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.8 Genital Mycotic Infections
+## 5.7 Genital Mycotic Infections
 
 STEGLATRO increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
-
-## 5.9 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Dose-related increases in LDL-C can occur with STEGLATRO [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
-
-## 5.10 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STEGLATRO.
