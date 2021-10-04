@@ -2,7 +2,7 @@
 
 NDC 0006-5367-03
 
-Steglujan™ (ertugliflozin and sitagliptin) tablets
+Steglujan® (ertugliflozin and sitagliptin) tablets
 
 5 mg / 100 mg
 
@@ -18,7 +18,7 @@ Rx only
 
 NDC 0006-5368-03
 
-Steglujan™ (ertugliflozin and sitagliptin) tablets
+Steglujan® (ertugliflozin and sitagliptin) tablets
 
 15 mg / 100 mg
 

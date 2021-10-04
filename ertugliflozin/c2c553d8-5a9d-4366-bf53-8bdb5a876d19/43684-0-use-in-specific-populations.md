@@ -28,7 +28,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
@@ -68,8 +68,6 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 Data
 
-Animal Data
-
 Ertugliflozin
 
 The lacteal excretion of radiolabeled ertugliflozin in lactating rats was evaluated 10 to 12 days after parturition.
@@ -90,13 +88,15 @@ STEGLUJAN
 
 No dosage adjustment of STEGLUJAN is recommended based on age.
 Elderly patients are more likely to have decreased renal function.
-Because renal function abnormalities can occur after initiating ertugliflozin, and sitagliptin is known to be substantially excreted by the kidneys, renal function should be assessed more frequently in elderly patients [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
-STEGLUJAN is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
+Because renal function abnormalities can occur after initiating ertugliflozin, and sitagliptin is known to be substantially excreted by the kidneys, renal function should be assessed more frequently in elderly patients [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
 
 Ertugliflozin
 
-Across the clinical program, a total of 876 (25.7%) patients treated with ertugliflozin were 65 years and older, and 152 (4.5%) patients treated with ertugliflozin were 75 years and older.
-Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+In ertugliflozin clinical trials, a total of 876 (25.7%) patients treated with ertugliflozin were 65 years and older, and 152 (4.5%) patients treated with ertugliflozin were 75 years and older.
+Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+
+In VERTIS CV, a total of 2780 (50.5%) patients treated with ertugliflozin were 65 years and older, and 595 (10.8%) patients treated with ertugliflozin were 75 years and older.
+Safety and efficacy were generally similar for patients age 65 years and older compared to patients younger than 65.
 
 Sitagliptin
 
@@ -106,14 +106,13 @@ While this and other reported clinical experience have not identified difference
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of ertugliflozin have not been established in patients with type 2 diabetes mellitus and moderate renal impairment.
-Compared to placebo-treated patients, patients with moderate renal impairment treated with ertugliflozin did not have improvement in glycemic control, and had increased risks for renal impairment, renal-related adverse reactions and volume depletion adverse reactions [see Dosage and Administration (2.2), Warnings and Precautions (5.4), and Adverse Reactions (6.1)].
-Therefore, STEGLUJAN is not recommended in this population.
+A 26-week placebo-controlled study of 313 patients with Stage 3 Chronic Kidney Disease (eGFR ≥30 to less than 60 mL/min/1.73 m2) treated with ertugliflozin did not demonstrate improvement in glycemic control.
+In the VERTIS CV study, there were 1370 patients (25%) with an eGFR ≥90 mL/min/1.73 m2, 2929 patients (53%) with an eGFR of ≥60 to less than 90 mL/min/1.73 m2, 879 patients (16%) with an eGFR of ≥45 to less than 60 mL/min/1.73 m2 and 299 patients (5%) with eGFR of 30 to <45 mL/min/1.73 m2 treated with ertugliflozin.
+Similar effects on glycemic control at Week 18 were observed in patients treated with ertugliflozin in each eGFR subgroup and also in the overall patient population.
 
-STEGLUJAN is contraindicated in patients with severe renal impairment, ESRD, or receiving dialysis.
-STEGLUJAN is not expected to be effective in these patient populations [see Contraindications (4)].
+STEGLUJAN is contraindicated in patients with severe renal impairment (<30 mL/min/1.73 m2), ESRD, or on dialysis [see Contraindications (4)].
 
-No dosage adjustment or increased monitoring is needed in patients with mild renal impairment.
+No dosage adjustment is needed in patients with eGFR ≥45 mL/min/1.73 m2.
 
 ## 8.7 Hepatic Impairment
 

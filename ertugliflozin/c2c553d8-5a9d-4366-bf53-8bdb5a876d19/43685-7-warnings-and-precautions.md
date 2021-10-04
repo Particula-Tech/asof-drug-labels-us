@@ -7,18 +7,12 @@ After initiation of STEGLUJAN, patients should be observed carefully for signs a
 If pancreatitis is suspected, STEGLUJAN should promptly be discontinued and appropriate management should be initiated.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using STEGLUJAN.
 
-## 5.2 Hypotension
+## 5.2 Ketoacidosis
 
-Ertugliflozin, a component of STEGLUJAN, causes intravascular volume contraction.
-Therefore, symptomatic hypotension may occur after initiating STEGLUJAN [see Adverse Reactions (6.1)] particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients (≥65 years), in patients with low systolic blood pressure, and in patients on diuretics.
-Before initiating STEGLUJAN, volume status should be assessed and corrected if indicated.
-Monitor for signs and symptoms of hypotension after initiating therapy.
-
-## 5.3 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving medicines containing sodium glucose co-transporter-2 (SGLT2) inhibitors and cases have been reported in ertugliflozin-treated patients in clinical trials.
-Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) of ertugliflozin-treated patients and 0% of comparator-treated patients.
-Fatal cases of ketoacidosis have been reported in patients taking medicines containing SGLT2 inhibitors.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving medicines containing sodium glucose co-transporter-2 (SGLT2) inhibitors including ertugliflozin [see Adverse Reactions (6.1)].
+Fatal cases of ketoacidosis have been reported in patients taking SGLT2 inhibitors.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
+The risk of ketoacidosis may be greater with higher doses.
 STEGLUJAN is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with STEGLUJAN who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with STEGLUJAN may be present even if blood glucose levels are less than 250 mg/dL.
@@ -38,20 +32,23 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting STEGLUJAN.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue STEGLUJAN and seek medical attention immediately if signs and symptoms occur.
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.3 Lower Limb Amputation
 
-STEGLUJAN causes intravascular volume contraction and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury some requiring hospitalization and dialysis in patients receiving SGLT2 inhibitors.
+In a long-term cardiovascular outcomes study [see Clinical Studies 14.2], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
 
-Before initiating STEGLUJAN, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing STEGLUJAN in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue STEGLUJAN promptly and institute treatment.
+Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
+Some patients had multiple amputations, some involving both lower limbs.
 
-Ertugliflozin, a component of STEGLUJAN, increases serum creatinine and decreases eGFR.
-Patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating STEGLUJAN [see Adverse Reactions (6.1)].
-Renal function should be evaluated prior to initiating STEGLUJAN and periodically thereafter.
-Use of STEGLUJAN is not recommended when eGFR is persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), and Use in Specific Populations (8.6)].
+Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
+Patients with amputations were more likely to be male, have higher A1C (%) at baseline, have a history of peripheral arterial disease, amputation or peripheral revascularization procedure, diabetic foot, and to have been taking diuretics or insulin.
+
+Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
+
+Before initiating STEGLUJAN, consider factors in the patient history that may predispose them to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
+Counsel patients about the importance of routine preventative foot care.
+Monitor patients receiving STEGLUJAN for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue STEGLUJAN if these complications occur.
+
+## 5.4 Acute Renal Failure
 
 There have been postmarketing reports with sitagliptin of worsening renal function, including acute renal failure, sometimes requiring dialysis.
 A subset of these reports involved patients with renal insufficiency, some of whom were prescribed inappropriate doses of sitagliptin.
@@ -60,22 +57,20 @@ Consideration can be given to cautiously reinitiating STEGLUJAN if another etiol
 
 Sitagliptin has not been found to be nephrotoxic in preclinical studies at clinically relevant doses, or in clinical trials.
 
-## 5.5 Urosepsis and Pyelonephritis
+## 5.5 Volume Depletion
+
+STEGLUJAN can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including STEGLUJAN.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients, patients with low systolic blood pressure, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating STEGLUJAN in patients with one or more of these characteristics, assess volume status and renal function.
+In patients with volume depletion, correct this condition before initiating STEGLUJAN.
+Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
+
+## 5.6 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving medicines containing SGLT2 inhibitors.
-Cases of pyelonephritis also have been reported in ertugliflozin-treated patients in clinical trials.
 Treatment with medicines containing SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.1)].
-
-## 5.6 Lower Limb Amputation
-
-An increased risk for lower limb amputation (primarily of the toe) has been observed in clinical studies with another SGLT2 inhibitor.
-Across seven Phase 3 clinical trials in the ertugliflozin development program, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
-A causal association between ertugliflozin and lower limb amputation has not been definitively established.
-
-Before initiating STEGLUJAN, consider factors in the patient history that may predispose them to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
-Counsel patients about the importance of routine preventative foot care.
-Monitor patients receiving STEGLUJAN for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue STEGLUJAN if these complications occur.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.7 Heart Failure
 
@@ -88,14 +83,13 @@ If heart failure develops, evaluate and manage according to current standards of
 ## 5.8 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
-Ertugliflozin, a component of STEGLUJAN, may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
-When sitagliptin, a component of STEGLUJAN, was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin.
-[See Adverse Reactions (6.1).]
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLUJAN.
+Ertugliflozin, may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
+When sitagliptin, was used in combination with a sulfonylurea or with insulin, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6.1)].
+A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLUJAN.
 
 ## 5.9 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Reports of necrotizing fasciitis of the perineum (Fournier's Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including ertugliflozin.
 Cases have been reported in females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
@@ -105,27 +99,21 @@ Discontinue STEGLUJAN, closely monitor blood glucose levels, and provide appropr
 
 ## 5.10 Genital Mycotic Infections
 
-Ertugliflozin, a component of STEGLUJAN, increases the risk of genital mycotic infections.
+Ertugliflozin, increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
 ## 5.11 Hypersensitivity Reactions
 
-There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, a component of STEGLUJAN.
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose.
-If a hypersensitivity reaction is suspected, discontinue STEGLUJAN, assess for other potential causes for the event, and institute alternative treatment for diabetes.
-[See Adverse Reactions (6.2).]
+If a hypersensitivity reaction is suspected, discontinue STEGLUJAN, assess for other potential causes for the event, and institute alternative treatment for diabetes [see Adverse Reactions (6.2)].
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with STEGLUJAN.
 
-## 5.12 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Dose-related increases in LDL-C can occur with ertugliflozin, a component of STEGLUJAN [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
-
-## 5.13 Severe and Disabling Arthralgia
+## 5.12 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -133,13 +121,9 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.14 Bullous Pemphigoid
+## 5.13 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving STEGLUJAN.
 If bullous pemphigoid is suspected, STEGLUJAN should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.15 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STEGLUJAN.

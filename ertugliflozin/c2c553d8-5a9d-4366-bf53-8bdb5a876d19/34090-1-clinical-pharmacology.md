@@ -166,11 +166,11 @@ Patients with Renal Impairment
 
 STEGLUJAN
 
-Studies characterizing the pharmacokinetics of ertugliflozin and sitagliptin after administration of STEGLUJAN in renally impaired patients have not been performed [see Dosage and Administration (2.2)].
+Studies characterizing the pharmacokinetics of ertugliflozin and sitagliptin after administration of STEGLUJAN in renally impaired patients have not been performed [see Dosage and Administration (2.1)].
 
 Ertugliflozin
 
-In a Phase 1 clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate and severe renally-impaired patients, compared to subjects with normal renal function.
+In a clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate and severe renally-impaired patients, compared to subjects with normal renal function.
 These increases in ertugliflozin AUC are not considered clinically meaningful.
 The 24-hour urinary glucose excretion declined with increasing severity of renal impairment [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 The plasma protein binding of ertugliflozin was unaffected in patients with renal impairment.
@@ -196,10 +196,6 @@ These differences are not considered to be clinically meaningful.
 No dosage adjustment for sitagliptin is necessary for patients with mild or moderate hepatic insufficiency.
 
 There is no clinical experience in patients with severe hepatic insufficiency (Child Pugh score >9) [see Use in Specific Populations (8.7)].
-
-Pediatric Patients
-
-No studies with STEGLUJAN, ertugliflozin, and sitagliptin have been performed in pediatric patients.
 
 Effects of Age, Body Weight/ Body Mass Index (BMI), Gender, and Race
 
@@ -243,10 +239,6 @@ These changes in exposure are not considered clinically relevant.
 Ertugliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, sitagliptin, and simvastatin when coadministered in healthy subjects (see Figure 2).
 Physiologically-based PK (PBPK) modeling suggests that coadministration of mefenamic acid (UGT inhibitor) may increase the AUC and Cmax of ertugliflozin by 1.51- and 1.19-fold, respectively.
 These predicted changes in exposure are not considered clinically relevant.
-
-Figure 1: Effects of Other Drugs on the Pharmacokinetics of Ertugliflozin
-
-Figure 2: Effects of Ertugliflozin on the Pharmacokinetics of Other Drugs
 
 Sitagliptin
 
