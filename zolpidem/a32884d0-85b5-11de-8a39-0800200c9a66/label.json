@@ -3,11 +3,15 @@
     "NDA021997"
   ],
   "inn": "zolpidem",
-  "labeler": "Meda Pharmaceuticals",
+  "labeler": "Meda Pharmaceuticals Inc.",
   "package_ndcs": [
     "0037-6010-02",
     "0037-6010-30",
-    "0037-6050-30"
+    "0037-6010-35",
+    "0037-6010-93",
+    "0037-6050-30",
+    "0037-6050-35",
+    "0037-6050-93"
   ],
   "products": [
     {

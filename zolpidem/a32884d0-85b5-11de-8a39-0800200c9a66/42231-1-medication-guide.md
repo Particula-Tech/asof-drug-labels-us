@@ -165,7 +165,7 @@ This Medication Guide summarizes the most important information about Edluar.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Edluar that is written for healthcare professionals.
 
-For more information about Edluar, go to www.meda.us or call Meda Pharmaceuticals Inc. at 1-866-444-7799.
+For more information about Edluar, call Meda Pharmaceuticals Inc. at 1-866-444-7799.
 
 What are the ingredients in Edluar?
 
@@ -175,15 +175,15 @@ Inactive Ingredients: mannitol, colloidal silicon dioxide, silicified microcryst
 
 This Medication Guide has been approved by U.S. Food and Drug Administration.
 
-Manufactured by: Recipharm Stockholm AB, Sweden for Meda Pharmaceuticals Inc.
+Manufactured by: Mylan Laboratories Limited Hyderabad – 500 096, India
 
-Distributed by: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Manufactured for: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2019 Mylan Specialty LP U.S. Patents 6,761,910; 8,512,747; 9,265,720; 9,597,281
+© 2021 Viatris Inc. U.S. Patents 9,265,720; 9,597,281
 
-EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
+EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Viatris company.
 
 The brands listed are trademarks of their respective owners.
 
-IG-6010-XX4 Rev.
-XX/2019 797139
+MX-IG-6010-02 Rev.
+9/2021 75082377
