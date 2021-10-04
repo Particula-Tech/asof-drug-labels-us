@@ -2,26 +2,25 @@
 
 Celexa should be administered once daily, in the morning or evening, with or without food.
 
-Initial Treatment
+## Initial Treatment
 
 Celexa (citalopram) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
 Doses above 40 mg/day are not recommended due to the risk of QT prolongation.
 Additionally, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose.
 
-Special Populations
+## Special Populations
 
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor.
-(see WARNINGS)
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor (see WARNINGS).
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Celexa should be used with caution in patients with severe renal impairment.
 
-Treatment of Pregnant Women During the Third Trimester
+## Treatment of Pregnant Women During the Third Trimester
 
 Neonates exposed to Celexa and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
 When treating pregnant women with Celexa during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 
-Maintenance Treatment
+## Maintenance Treatment
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacologic therapy.
 Systematic evaluation of Celexa in two studies has shown that its antidepressant efficacy is maintained for periods of up to 24 weeks following 6 or 8 weeks of initial treatment (32 weeks total).
@@ -30,7 +29,7 @@ In the latter study, the rates of relapse to depression were similar for the two
 Based on these limited data, it is not known whether the dose of citalopram needed to maintain euthymia is identical to the dose needed to induce remission.
 If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be considered.
 
-Discontinuation of Treatment with Celexa
+## Discontinuation of Treatment with Celexa
 
 Symptoms associated with discontinuation of Celexa and other SSRIs and SNRIs have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.
@@ -38,12 +37,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Celexa.
 Conversely, at least 14 days should be allowed after stopping Celexa before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-Use of Celexa with Other MAOIs, Such as Linezolid or Methylene Blue
+## Use of Celexa with Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start Celexa in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).

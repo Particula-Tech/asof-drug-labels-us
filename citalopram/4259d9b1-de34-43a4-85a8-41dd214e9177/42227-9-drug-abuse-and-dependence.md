@@ -1,10 +1,10 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance Class
+## Controlled Substance Class
 
 Celexa (citalopram) is not a controlled substance.
 
-Physical and Psychological Dependence
+## Physical and Psychological Dependence
 
 Animal studies suggest that the abuse liability of Celexa is low.
 Celexa has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.

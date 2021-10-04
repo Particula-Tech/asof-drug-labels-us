@@ -20,26 +20,22 @@ It should be noted that one patient can report more than one reason for disconti
 
 TABLE 2
 
-| Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials |  |
-| --- | --- |
-| Percentage of Patients Discontinuing |  |
-| Due to Adverse Event |  |
-|  | Citalopram Placebo |
-|  | (N=1063) (N=446) |
-| Body System/Adverse Event |  |
-| General |  |
-| Asthenia 1% <1% |  |
-| Gastrointestinal Disorders |  |
-| Nausea 4% 0% |  |
-| Dry Mouth 1% <1% |  |
-| Vomiting 1% 0% |  |
-| Central and Peripheral |  |
-| Nervous System Disorders |  |
-| Dizziness 2% <1% |  |
-| Psychiatric Disorders |  |
-| Insomnia 3% 1% |  |
-| Somnolence 2% 1% |  |
-| Agitation 1% <1% |  |
+| Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials |  |  |
+| --- | --- | --- |
+|  | Percentage of Patients Discontinuing Due to Adverse Event |  |
+| Body System/Adverse Event | Citalopram (N=1063) | Placebo (N=446) |
+| General |  |  |
+| Asthenia | 1% | <1% |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 4% | 0% |
+| Dry Mouth | 1% | <1% |
+| Vomiting | 1% | 0% |
+| Central and Peripheral Nervous System Disorders |  |  |
+| Dizziness | 2% | <1% |
+| Psychiatric Disorders |  |  |
+| Insomnia | 3% | 1% |
+| Somnolence | 2% | 1% |
+| Agitation | 1% | <1% |
 
 Adverse Events Occurring at an Incidence of 2% or More Among Celexa-Treated Patients Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1063 depressed patients who received Celexa at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with Celexa and for which the incidence in patients treated with Celexa was greater than the incidence in placebo-treated patients.
@@ -52,45 +48,43 @@ The only commonly observed adverse event that occurred in Celexa patients with a
 
 TABLE 3
 
-| Treatment-Emergent Adverse Events: |  |
-| --- | --- |
-| Incidence in Placebo-Controlled Clinical Trials* |  |
-| (Percentage of Patients Reporting Event) |  |
-| Body System/Adverse Event Celexa Placebo |  |
-|  | (N=1063) (N=446) |
-| Autonomic Nervous System Disorders |  |
-| Dry Mouth 20% 14% |  |
-| Sweating Increased 11% 9% |  |
-| Central & Peripheral Nervous System Disorders |  |
-| Tremor 8% 6% |  |
-| Gastrointestinal Disorders |  |
-| Nausea 21% 14% |  |
-| Diarrhea 8% 5% |  |
-| Dyspepsia 5% 4% |  |
-| Vomiting 4% 3% |  |
-| Abdominal Pain 3% 2% |  |
-| General |  |
-| Fatigue 5% 3% |  |
-| Fever 2% <1% |  |
-| Musculoskeletal System Disorders |  |
-| Arthralgia 2% 1% |  |
-| Myalgia 2% 1% |  |
-| Psychiatric Disorders |  |
-| Somnolence 18% 10% |  |
-| Insomnia 15% 14% |  |
-| Anxiety 4% 3% |  |
-| Anorexia 4% 2% |  |
-| Agitation 3% 1% |  |
-| Dysmenorrhea1 3% 2% |  |
-| Libido Decreased 2% <1% |  |
-| Yawning 2% <1% |  |
-| Respiratory System Disorders |  |
-| Upper Respiratory Tract Infection 5% 4% |  |
-| Rhinitis 5% 3% |  |
-| Sinusitis 3% <1% |  |
-| Urogenital |  |
-| Ejaculation Disorder2,3 6% 1% |  |
-| Impotence3 3% <1% |  |
+| Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials* |  |  |  |
+| --- | --- | --- | --- |
+|  | (Percentage of Patients Reporting Event) |  |  |
+| Body System/Adverse Event | Citalopram (N=1063) | Placebo (N=446) |  |
+| Autonomic Nervous System Disorders |  |  |  |
+| Dry Mouth | 20% | 14% |  |
+| Sweating Increased | 11% | 9% |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |
+| Tremor | 8% | 6% |  |
+| Gastrointestinal Disorders |  |  |  |
+| Nausea | 21% | 14% |  |
+| Diarrhea | 8% | 5% |  |
+| Dyspepsia | 5% | 4% |  |
+| Vomiting | 4% | 3% |  |
+| Abdominal Pain | 3% | 2% |  |
+| General |  |  |  |
+| Fatigue | 5% | 3% |  |
+| Fever | 2% | <1% |  |
+| Musculoskeletal System Disorders |  |  |  |
+| Arthralgia | 2% | 1% |  |
+| Myalgia | 2% | 1% |  |
+| Psychiatric Disorders |  |  |  |
+| Somnolence | 18% | 10% |  |
+| Insomnia | 15% | 14% |  |
+| Anxiety | 4% | 3% |  |
+| Anorexia | 4% | 2% |  |
+| Agitation | 3% | 1% |  |
+| Dysmenorrhea1 | 3% | 2% |  |
+| Libido Decreased | 2% | <1% |  |
+| Yawning | 2% | <1% |  |
+| Respiratory System Disorders |  |  |  |
+| Upper Respiratory Tract Infection | 5% |  | 4% |
+| Rhinitis | 5% |  | 3% |
+| Sinusitis | 3% |  | <1% |
+| Urogenital |  |  |  |
+| Ejaculation Disorder2,3 | 6% |  | 1% |
+| Impotence3 | 3% |  | <1% |
 
 *Events reported by at least 2% of patients treated with Celexa are reported, except for the following events which had an incidence on placebo ≥ Celexa: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
 
@@ -156,16 +150,14 @@ The incidence of bradycardic outliers was 0.9% in the Celexa group and 0.4% in t
 
 Other Events Observed During the Premarketing Evaluation of Celexa (citalopram)
 
-Following is a list of WHO terms that reflect treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with
-
-Celexa at multiple doses in a range of 10 to 80 mg/day during any phase of a trial within the premarketing database of 4422 patients.
+Following is a list of WHO terms that reflect treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with Celexa at multiple doses in a range of 10 to 80 mg/day during any phase of a trial within the premarketing database of 4422 patients.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and those occurring in only one patient.
 It is important to emphasize that, although the events reported occurred during treatment with Celexa, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in less than 1/100 patients but at least 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
 Cardiovascular - Frequent: tachycardia, postural hypotension, hypotension.
-Infrequent: hypertension, bradycardia, edema (extremities), angina pec toris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia.
+Infrequent: hypertension, bradycardia, edema (extremities), angina pectoris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia.
 Rare: transient ischemic attack, phlebitis, atrial fibrillation, cardiac arrest, bundle branch block.
 
 Central and Peripheral Nervous System Disorders - Frequent: paresthesia, migraine.

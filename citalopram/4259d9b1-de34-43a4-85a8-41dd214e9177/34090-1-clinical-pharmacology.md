@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-The mechanism of action of citalopram HBr as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
+The mechanism of action of citalopram hydrobromide as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
@@ -39,9 +39,7 @@ Population Subgroups
 
 Age - Citalopram pharmacokinetics in subjects 60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the subjects 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see
-
-WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 
 Gender - In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).
@@ -65,7 +63,7 @@ No information is available about the pharmacokinetics of citalopram in patients
 
 Drug-Drug Interactions
 
-In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, 2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
+In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, 2C9, or 2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
 
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
 However, in vivo data to address this question are limited.
@@ -79,15 +77,13 @@ CYP2D6 Inhibitors: Coadministration of a drug that inhibits CYP2D6 with Celexa i
 ## Clinical Efficacy Trials
 
 The efficacy of Celexa as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18-66) meeting DSM-III or DSMIII-R criteria for major depression.
-Study 1, a 6-week trial in which patients received fixed
-
-Celexa doses of 10, 20, 40, and 60 mg/day, showed that Celexa at doses of 40 and 60 mg/day was effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
+Study 1, a 6-week trial in which patients received fixed Celexa doses of 10, 20, 40, and 60 mg/day, showed that Celexa at doses of 40 and 60 mg/day was effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
 This study showed no clear effect of the 10 and 20 mg/day doses, and the 60 mg/day dose was not more effective than the 40 mg/day dose.
 In study 2, a 4-week, placebo-controlled trial in depressed patients, of whom 85% met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
 Patients treated with Celexa showed significantly greater improvement than placebo patients on the HAMD total score, HAMD item 1, and the CGI Severity score.
-In three additional placebo-controlled depression trials, the difference in response to treatment between patients receiving Celexa and patients receiving placebo was not statistically significant, possibly due to high spontaneous response rate, smaller sample size, or, in the case of one study, too low a dose.
+In three additional placebo controlled depression trials, the difference in response to treatment between patients receiving Celexa and patients receiving placebo was not statistically significant, possibly due to high spontaneous response rate, smaller sample size, or, in the case of one study, too low a dose.
 
-In two long-term studies, depressed patients who had responded to Celexa during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 2060 mg/day in the second study) were randomized to continuation of Celexa or to placebo.
+In two long-term studies, depressed patients who had responded to Celexa during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20-60 mg/day in the second study) were randomized to continuation of Celexa or to placebo.
 In both studies, patients receiving continued Celexa treatment experienced significantly lower relapse rates over the subsequent 6 months compared to those receiving placebo.
 In the fixed-dose study, the decreased rate of depression relapse was similar in patients receiving 20 or 40 mg/day of Celexa.
 

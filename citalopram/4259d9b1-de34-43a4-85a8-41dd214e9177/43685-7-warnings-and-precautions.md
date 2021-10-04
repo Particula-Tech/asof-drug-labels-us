@@ -11,8 +11,8 @@ There has been a long-standing concern, however, that antidepressants may have a
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 shortterm trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebocontrolled trials in adults with MDD or other psychiatric disorders included a total of 295 shortterm trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
@@ -102,6 +102,16 @@ Treatment with Celexa and any concomitant serotonergic agents should be disconti
 
 The pupillary dilation that occurs following use of many antidepressant drugs including Celexa may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
+Sexual Dysfunction
+
+Use of SSRIs, including Celexa, may cause symptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of Celexa and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -159,8 +169,7 @@ Use in Patients with Concomitant Illness
 
 Clinical experience with Celexa in patients with certain concomitant systemic illnesses is limited.
 Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if Celexa must be used in such patients.
-Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
-(see WARNINGS).
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of Celexa in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
@@ -180,6 +189,9 @@ Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Although in controlled studies Celexa has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Celexa therapy does not affect their ability to engage in such activities.
+
+Sexual Dysfunction: Advise patients that use of Celexa may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
 
 Patients should be told that, although Celexa has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of Celexa and alcohol in depressed patients is not advised.
 
@@ -202,7 +214,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Celexa.
 
 Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a dayto-day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
@@ -252,7 +264,7 @@ Warfarin - Administration of 40 mg/day Celexa for 21 days did not affect the pha
 Prothrombin time was increased by 5%, the clinical significance of which is unknown.
 
 Carbamazepine - Combined administration of Celexa (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.
-Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
+Although trough citalopram plasma levels were unaffected, given the enzyme inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
 
 Triazolam - Combined administration of Celexa (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.
 
@@ -296,8 +308,6 @@ Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD
 
 ## Pregnancy
 
-Pregnancy Category C
-
 In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 
 In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
@@ -313,7 +323,7 @@ A no-effect dose was not determined in that study.
 
 There are no adequate and well-controlled studies in pregnant women; therefore, citalopram should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Pregnancy-Nonteratogenic Effects
+### Pregnancy-Nonteratogenic Effects
 
 Neonates exposed to Celexa and other SSRIs or serotonin and norepinephrine reuptake inhibitors
 
