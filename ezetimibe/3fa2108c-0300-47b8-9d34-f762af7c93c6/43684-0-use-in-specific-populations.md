@@ -17,6 +17,9 @@ Atherosclerosis is a chronic process and the discontinuation of lipid-lowering d
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
+There is a pregnancy surveillance study for NEXLIZET.
+If NEXLIZET is administered during pregnancy, healthcare providers should report NEXLIZET exposure by contacting Esperion at 1-833-377-7633.
+
 Data
 
 Animal Data

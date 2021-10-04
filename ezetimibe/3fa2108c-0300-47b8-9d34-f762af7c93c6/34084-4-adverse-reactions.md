@@ -91,7 +91,7 @@ Adverse reactions reported in ≥2% of patients treated with ezetimibe and at an
 Table 2.
 Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality
 
-| Adverse Reaction | Ezetimibe 10 mg (%) N = 2369 | Placebo (%) N = 1159 |
+| Adverse Reaction | Ezetimibe 10 mg (%) N = 2396 | Placebo (%) N = 1159 |
 | --- | --- | --- |
 | Upper respiratory tract infection | 4.3 | 2.5 |
 | Diarrhea | 4.1 | 3.7 |

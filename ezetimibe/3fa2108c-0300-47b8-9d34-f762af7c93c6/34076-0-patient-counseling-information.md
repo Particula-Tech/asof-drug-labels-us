@@ -21,4 +21,6 @@ The risk of myopathy occurring with the use of simvastatin or pravastatin may be
 Pregnancy
 
 Advise pregnant women of the potential risk to a fetus based on NEXLIZET's mechanism of action.
-Advise females to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise females to inform their healthcare provider of a known or suspected pregnancy.
+Advise women who are exposed to NEXLIZET during pregnancy that there is a pregnancy surveillance study.
+Encourage these patients to report their pregnancy to Esperion at 1-833-377-7633 [see Use in Specific Populations (8.1)].
