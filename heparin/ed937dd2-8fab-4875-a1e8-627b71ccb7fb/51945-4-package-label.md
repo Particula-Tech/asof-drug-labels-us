@@ -96,6 +96,8 @@ Rx only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
+NOT FOR LOCK FLUSH
+
 NDC 63323-262-09 NP926206
 
 Heparin Sodium Injection, USP
