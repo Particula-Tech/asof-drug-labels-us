@@ -8,5 +8,5 @@ Apply EPIDUO FORTE gel as a thin layer, avoiding the eyes, lips and mucous membr
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA
 
-GALDERMA is a registered trademark.
-P52751-0
+Made in Canada All trademarks are the property of their respective owners.
+P52751-1
