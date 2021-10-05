@@ -24,7 +24,7 @@ NDC 44567-602-24 Rx only
 
 Dexmedetomidine
 
-HCl Injection
+HCl in 5% Dextrose Injection
 
 200 mcg/50 mL (4 mcg/mL)
 
@@ -36,7 +36,7 @@ NDC 44567-603-24 Rx only
 
 Dexmedetomidine
 
-HCl Injection
+HCl in 5% Dextrose Injection
 
 400 mcg/100 mL (4 mcg/mL)
 

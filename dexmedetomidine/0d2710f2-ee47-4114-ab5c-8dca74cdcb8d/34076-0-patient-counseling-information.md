@@ -18,5 +18,3 @@ Paramus, NJ 07652
 Vials made in Finland
 
 Bags made in Switzerland
-
-Revised: July 2018

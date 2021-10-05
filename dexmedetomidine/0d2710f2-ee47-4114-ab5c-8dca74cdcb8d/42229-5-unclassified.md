@@ -11,10 +11,8 @@ Dexmedetomidine Hydrochloride Injection is available in single-dose, single-port
 
 | NDC No. | Strength | Package |
 | --- | --- | --- |
-| 44567-602-24 | 200 mcg/50 mL* | 24 bags/carton |
+| 44567-602-24 | 200 mcg/50 mL | 24 bags/carton |
 | 44567-603-24 | 400 mcg/100 mL | 24 bags/carton |
-
-*Partial fill container 50 mL volume in 100 mL container.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
