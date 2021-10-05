@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
 Oxytocin injection (synthetic) is contraindicated in any of the following conditions:
 

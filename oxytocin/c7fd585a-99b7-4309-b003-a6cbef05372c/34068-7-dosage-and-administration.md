@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 Dosage of oxytocin is determined by uterine response.
 The following dosage information is based upon the various regimens and indications in general use.
