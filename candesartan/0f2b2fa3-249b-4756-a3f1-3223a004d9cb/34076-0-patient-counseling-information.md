@@ -8,6 +8,6 @@ Tell patients to report pregnancies to their physicians as soon as possible.
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA
 
-Revised: 07/2020
+Revised: 07/2021
