@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212649"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-725-11",
+    "43598-725-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine sulfate"
+    }
+  ],
+  "setid": "1d1c41c1-8f5f-ee76-c890-4f1f2a3b2e96",
+  "source": "dailymed"
+}
