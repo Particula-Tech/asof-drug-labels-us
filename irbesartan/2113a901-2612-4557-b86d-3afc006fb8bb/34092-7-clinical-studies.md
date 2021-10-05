@@ -65,7 +65,7 @@ For the primary endpoint, irbesartan’s favorable effects were seen in patients
 
 Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
-| Baseline Factors | Irbesartan N=579 (%) | Comparison With Placebo |  |  |
+| Baseline Factors | Irbesartan N=579 (%) | Comparison with Placebo |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) | Hazard Ratio | 95% Cl |  |  |
 | Sex |  |  |  |  |
