@@ -4,11 +4,16 @@
 
 The recommended dose of abiraterone acetate tablets is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
 
+## 2.2 Recommended Dose for Metastatic High-risk CSPC
+
+The recommended dose of abiraterone acetate tablets is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg administered orally once daily.
+
 ## 2.3 Important Administration Instructions
 
 Patients receiving abiraterone acetate tablets should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
-Abiraterone acetate tablets must be taken on an empty stomach, at least one hour before or at least two hours after a meal [see Clinical Pharmacology (12.3)].
-The tablets should be swallowed whole with water.
+Abiraterone acetate tablets must be taken as a single dose once daily on an empty stomach.
+Do not eat food 2 hours before and 1 hour after taking abiraterone acetate tablets.
+The tablets must be swallowed whole with water.
 Do not crush or chew tablets.
 
 ## 2.4 Dose Modification Guidelines in Hepatic Impairment and Hepatotoxicity
@@ -17,14 +22,14 @@ Hepatic Impairment
 
 In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of abiraterone acetate tablets to 250 mg once daily.
 In patients with moderate hepatic impairment monitor ALT, AST, and bilirubin prior to the start of treatment, every week for the first month, every two weeks for the following two months of treatment and monthly thereafter.
-If elevations in ALT and/or AST greater than 5X upper limit of normal (ULN) or total bilirubin greater than 3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate tablets and do not re-treat patients with abiraterone acetate tablets [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+If elevations in ALT and/or AST greater than 5 X upper limit of normal (ULN) or total bilirubin greater than 3 X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate tablets and do not re-treat patients with abiraterone acetate tablets [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Do not use abiraterone acetate tablets in patients with baseline severe hepatic impairment (Child-Pugh Class C).
 
 Hepatotoxicity
 
-For patients who develop hepatotoxicity during treatment with abiraterone acetate tablets (ALT and/or AST greater than 5X ULN or total bilirubin greater than 3X ULN), interrupt treatment with abiraterone acetate tablets [see Warnings and Precautions (5.3)].
-Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
+For patients who develop hepatotoxicity during treatment with abiraterone acetate tablets (ALT and/or AST greater than 5 X ULN or total bilirubin greater than 3 X ULN), interrupt treatment with abiraterone acetate tablets [see Warnings and Precautions (5.3)].
+Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5 X ULN and total bilirubin less than or equal to 1.5 X ULN.
 For patients who resume treatment, monitor serum transaminases and bilirubin at a minimum of every two weeks for three months and monthly thereafter.
 
 If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be restarted at a reduced dose of 500 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.

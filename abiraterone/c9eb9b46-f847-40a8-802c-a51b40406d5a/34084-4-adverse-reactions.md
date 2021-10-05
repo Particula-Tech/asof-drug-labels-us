@@ -13,10 +13,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Two randomized placebo-controlled, multicenter clinical trials (COU-AA-301 and COU-AA-­302) enrolled patients who had metastatic CRPC in which abiraterone acetate was administered orally at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arms.
 Placebo plus prednisone 5 mg twice daily was given to patients on the control arm.
-Another randomized placebo-controlled, multicenter clinical trial enrolled patients who had another indication in which abiraterone acetate was administered in combination with prednisone.
+A third randomized placebo-controlled, multicenter clinical trial (LATITUDE) enrolled patients who had metastatic high-risk CSPC in which abiraterone acetate was administered at a dose of 1,000 mg daily in combination with prednisone 5 mg once daily.
 Placebos were administered to patients in the control arm.
 Additionally, two other randomized, placebo-controlled trials were conducted in patients with metastatic CRPC.
-The safety data pooled from 2,230 patients in randomized controlled trials constitute the basis for the data presented in the Warnings and Precautions, Grade 1 to 4 adverse reactions, and Grade 1 to 4 laboratory abnormalities.
+The safety data pooled from 2,230 patients in the 5 randomized controlled trials constitute the basis for the data presented in the Warnings and Precautions, Grade 1 to 4 adverse reactions, and Grade 1 to 4 laboratory abnormalities.
 In all trials, a gonadotropin-releasing hormone (GnRH) analog or prior orchiectomy was required in both arms.
 
 In the pooled data, median treatment duration was 11 months (0.1, 43) for abiraterone acetate-treated patients and 7.2 months (0.1, 43) for placebo-treated patients.
@@ -33,8 +33,8 @@ Other reported causes of death in ≥5 patients included pneumonia, cardio-respi
 COU-AA-301: Metastatic CRPC Following Chemotherapy
 
 COU-AA-301 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥2.5X ULN in the absence of liver metastases.
-Patients with liver metastases were excluded if AST and/or ALT >5X ULN.
+Patients were not eligible if AST and/or ALT ≥2.5 X ULN in the absence of liver metastases.
+Patients with liver metastases were excluded if AST and/or ALT >5 X ULN.
 
 Table 1 shows adverse reactions on the abiraterone acetate arm in COU-AA-301 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with abiraterone acetate with prednisone was 8 months.
@@ -89,7 +89,7 @@ Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 COU-AA-302: Metastatic CRPC Prior to Chemotherapy
 
 COU-AA-302 enrolled 1,088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
-Patients were ineligible if AST and/or ALT ≥2.5X ULN and patients were excluded if they had liver metastases.
+Patients were ineligible if AST and/or ALT ≥2.5 X ULN and patients were excluded if they had liver metastases.
 
 Table 3 shows adverse reactions on the abiraterone acetate arm in COU-AA-302 that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to placebo.
 The median duration of treatment with abiraterone acetate with prednisone was 13.8 months.
@@ -149,9 +149,52 @@ Table 4: Laboratory Abnormalities in >15% of Patients in the Abiraterone Acetate
 | Hypokalemia | 17 | 2.8 | 10 | 1.7 |
 | 1 Based on non-fasting blood draws |  |  |  |  |
 
+LATITUDE: Patients with Metastatic High-risk CSPC
+
+LATITUDE enrolled 1,199 patients with newly-diagnosed metastatic, high-risk CSPC who had not received prior cytotoxic chemotherapy.
+Patients were ineligible if AST and/or ALT ≥2.5 x ULN or if they had liver metastases.
+All the patients received GnRH analogs or had prior bilateral orchiectomy during the trial.
+The median duration of treatment with abiraterone acetate tablets and prednisone was 24 months.
+
+Table 5 shows adverse reactions on the abiraterone acetate tablets arm that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to those on the placebos arm.
+
+| Table 5: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Arm in LATITUDE1 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Abiraterone Acetate with Prednisone(N=597) |  | Placebos(N=602) |  |
+| System/Organ ClassAdverse reaction | All Grades2 % | Grade 3 to 4 % | All Grades% | Grade 3 to 4 % |
+| Vascular disorders |  |  |  |  |
+| Hypertension | 37 | 20 | 13 | 10 |
+| Hot flush | 15 | 0.0 | 13 | 0.2 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 20 | 10 | 3.7 | 1.3 |
+| Investigations |  |  |  |  |
+| Alanine aminotransferase increased3 | 16 | 5.5 | 13 | 1.3 |
+| Aspartate aminotransferase increased3 | 15 | 4.4 | 11 | 1.5 |
+| Infections and infestations |  |  |  |  |
+| Urinary tract infection | 7.0 | 1.0 | 3.7 | 0.8 |
+| Upper respiratory tract infection | 6.7 | 0.2 | 4.7 | 0.2 |
+| Nervous system disorders |  |  |  |  |
+| Headache | 7.5 | 0.3 | 5.0 | 0.2 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough4 | 6.5 | 0.0 | 3.2 | 0 |
+| 1 All patients were receiving an GnRH agonist or had undergone orchiectomy. 2 Adverse events graded according to CTCAE version 4.0 3 Reported as an adverse event or reaction 4 Including cough, productive cough, upper airway cough syndrome |  |  |  |  |
+
+Table 6 shows laboratory abnormalities that occurred in >15% of patients, and more frequently (>5%) in the Abiraterone Acetate arm compared to placebos.
+
+| Table 6: Laboratory Abnormalities in >15% of Patients in the Abiraterone Acetate Arm of LATITUDE |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Abiraterone Acetate with Prednisone(N=597) |  | Placebos(N=602) |  |
+| Laboratory Abnormality | Grade 1 to 4 % | Grade 3 to 4 % | Grade 1 to 4 % | Grade 3 to 4 % |
+| Hematology |  |  |  |  |
+| Lymphopenia | 20 | 4.1 | 14 | 1.8 |
+| Chemistry |  |  |  |  |
+| Hypokalemia | 30 | 9.6 | 6.7 | 1.3 |
+| Elevated ALT | 46 | 6.4 | 45 | 1.3 |
+| Elevated total bilirubin | 16 | 0.2 | 6.2 | 0.2 |
+
 Cardiovascular Adverse Reactions
 
-In the combined data of randomized, placebo-controlled clinical studies, cardiac failure occurred more commonly in patients on the abiraterone acetate arm compared to patients on the placebo arm (2.6% versus 0.9%).
+In the combined data of 5 randomized, placebo-controlled clinical studies, cardiac failure occurred more commonly in patients on the abiraterone acetate arm compared to patients on the placebo arm (2.6% versus 0.9%).
 Grade 3 to 4 cardiac failure occurred in 1.3% of patients taking abiraterone acetate and led to 5 treatment discontinuations and 4 deaths.
 Grade 3 to 4 cardiac failure occurred in 0.2% of patients taking placebo.
 There were no treatment discontinuations and two deaths due to cardiac failure in the placebo group.
