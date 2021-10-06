@@ -6,10 +6,10 @@ Abiraterone acetate tablets may cause hypertension, hypokalemia, and fluid reten
 Monitor patients for hypertension, hypokalemia, and fluid retention at least once a month.
 Control hypertension and correct hypokalemia before and during treatment with abiraterone acetate tablets.
 
-In the combined data from 4 placebo-controlled trials using prednisone 5 mg twice daily in combination with 1000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 4% of patients on the abiraterone acetate tablets arm and 2% of patients on the placebo arm.
+In the combined data from 4 placebo-controlled trials using prednisone 5 mg twice daily in combination with 1,000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 4% of patients on the abiraterone acetate tablets arm and 2% of patients on the placebo arm.
 Grades 3-4 hypertension were observed in 2% of patients each arm and grades 3-4 fluid retention in 1% of patients each arm.
 
-In LATITUDE (a randomized placebo-controlled, multicenter clinical trial), which used prednisone 5 mg daily in combination with 1000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 10% of patients on the abiraterone acetate tablets arm and 1% of patients on the placebo arm, grades 3-4 hypertension were observed in 20% of patients on the abiraterone acetate tablets arm and 10% of patients on the placebo arm.
+In LATITUDE (a randomized placebo-controlled, multicenter clinical trial), which used prednisone 5 mg daily in combination with 1,000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 10% of patients on the abiraterone acetate tablets arm and 1% of patients on the placebo arm, grades 3-4 hypertension were observed in 20% of patients on the abiraterone acetate tablets arm and 10% of patients on the placebo arm.
 Grades 3-4 fluid retention occurred in 1% of patients each arm [see Adverse Reactions (6)].
 
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
@@ -19,7 +19,7 @@ The safety of abiraterone acetate tablets in patients with left ventricular ejec
 
 ## 5.2 Adrenocortical Insufficiency
 
-Adrenal insufficiency occurred in 0.3% of 2230 patients taking abiraterone acetate tablets and in 0.1% of 1763 patients taking placebo in the combined data of randomized, placebo-controlled clinical studies.
+Adrenal insufficiency occurred in 0.3% of 2230 patients taking abiraterone acetate tablets and in 0.1% of 1763 patients taking placebo in the combined data of the 5 randomized, placebo-controlled clinical studies.
 Adrenocortical insufficiency was reported in patients receiving abiraterone acetate tablets in combination with prednisone, following interruption of daily steroids and/or with concurrent infection or stress.
 
 Monitor patients for symptoms and signs of adrenocortical insufficiency, particularly if patients are withdrawn from prednisone, have prednisone dose reductions, or experience unusual stress.
@@ -31,7 +31,7 @@ Increased dosage of corticosteroids may be indicated before, during and after st
 
 In postmarketing experience, there have been abiraterone acetate tablets-associated severe hepatic toxicity, including fulminant hepatitis, acute liver failure and deaths [see Adverse Reactions (6.2)].
 
-In the combined data of randomized clinical trials, grade 3-4 ALT or AST increases (at least 5X ULN) were reported in 6% of 2230 patients who received abiraterone acetate tablets, typically during the first 3 months after starting treatment.
+In the combined data of 5 randomized clinical trials, grade 3-4 ALT or AST increases (at least 5 x ULN) were reported in 6% of 2230 patients who received abiraterone acetate tablets, typically during the first 3 months after starting treatment.
 Patients whose baseline ALT or AST were elevated were more likely to experience liver test elevation than those beginning with normal values.
 Treatment discontinuation due to ALT and AST increases or abnormal hepatic function occurred in 1.1% of 2230 patients taking abiraterone acetate tablets.
 In these clinical trials, no deaths clearly related to abiraterone acetate tablets were reported due to hepatotoxicity events.
@@ -42,11 +42,11 @@ Promptly measure serum total bilirubin, AST, and ALT if clinical symptoms or sig
 Elevations of AST, ALT, or bilirubin from the patient’s baseline should prompt more frequent monitoring.
 If at any time AST or ALT rise above five times the ULN, or the bilirubin rises above three times the ULN, interrupt abiraterone acetate tablets treatment and closely monitor liver function.
 
-Re-treatment with abiraterone acetate tablets at a reduced dose level may take place only after return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN [see Dosage and Administration (2.4)].
+Re-treatment with abiraterone acetate tablets at a reduced dose level may take place only after return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5 x ULN and total bilirubin less than or equal to 1.5 x ULN [see Dosage and Administration (2.4)].
 
-Permanently discontinue abiraterone acetate tablets for patients who develop a concurrent elevation of ALT greater than 3X ULN and total bilirubin greater than 2X ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Dosage and Administration (2.4)].
+Permanently discontinue abiraterone acetate tablets for patients who develop a concurrent elevation of ALT greater than 3 x ULN and total bilirubin greater than 2 x ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Dosage and Administration (2.4)].
 
-The safety of abiraterone acetate tablets re-treatment of patients who develop AST or ALT greater than or equal to 20X ULN and/or bilirubin greater than or equal to 10X ULN is unknown.
+The safety of abiraterone acetate tablets re-treatment of patients who develop AST or ALT greater than or equal to 20 x ULN and/or bilirubin greater than or equal to 10 x ULN is unknown.
 
 ## 5.4 Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride
 

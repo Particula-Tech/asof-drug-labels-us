@@ -24,7 +24,7 @@ The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03
 ### Risk Summary
 
 The safety and efficacy of abiraterone acetate tablets have not been established in females.
-There is no information available on the presence of abiraterone acetate in human milk, or on the effects on the breastfed child or milk production.
+There is no information available on the presence of abiraterone in human milk, or on the effects on the breastfed child or milk production.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -58,7 +58,7 @@ The systemic exposure (AUC) of abiraterone increased by approximately 7-fold and
 
 No dosage adjustment is necessary for patients with baseline mild hepatic impairment.
 In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of abiraterone acetate tablets to 250 mg once daily.
-Do not use abiraterone acetate tablets in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST > 5X ULN or total bilirubin > 3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate tablets treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Do not use abiraterone acetate tablets in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST > 5 x ULN or total bilirubin > 3 x ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate tablets treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 For patients who develop hepatotoxicity during treatment, interruption of treatment and dosage adjustment may be required [see Dosage and Administration (2.4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 

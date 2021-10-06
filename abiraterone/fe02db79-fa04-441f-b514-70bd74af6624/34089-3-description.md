@@ -16,4 +16,4 @@ Abiraterone acetate tablets are available in 500 mg film-coated tablets, 250 mg 
 - •250 mg film-coated tablets: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 - •250 mg uncoated tablets: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium lauryl sulfate.
 
-USP Dissolution Test Pending for the 500 mg tablets.
+Meets USP Dissolution Test 3 for the 500 mg tablets.
