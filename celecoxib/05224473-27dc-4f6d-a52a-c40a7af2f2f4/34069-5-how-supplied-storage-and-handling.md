@@ -16,4 +16,4 @@ Celecoxib 400 mg capsules are opaque light green cap printed "WPI" with black in
 
 NDC NumberSize 0591-3985-60 bottle of 60
 
-Storage Store at room temperature 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]
+Storage Store at room temperature 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

@@ -10,23 +10,23 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-Of the celecoxib -treated patients in the pre-marketing controlled clinical trials, approximately 4,250 were patients with OA, approximately 2,100 were patients with RA, and approximately 1,050 were patients with post-surgical pain.
+Of the celecoxib-treated patients in the pre-marketing controlled clinical trials, approximately 4,250 were patients with OA, approximately 2,100 were patients with RA, and approximately 1,050 were patients with post-surgical pain.
 More than 8,500 patients received a total daily dose of celecoxib of 200 mg (100 mg twice daily or 200 mg once daily) or more, including more than 400 treated at 800 mg (400 mg twice daily).
 Approximately 3,900 patients received celecoxib at these doses for 6 months or more; approximately 2,300 of these have received it for 1 year or more and 124 of these have received it for 2 years or more.
 
 Pre-marketing Controlled Arthritis Trials
 
-Table 1 lists all adverse events, regardless of causality, occurring in greater than or equal to 2% of patients receiving celecoxib from 12 controlled studies conducted in patients with OA or RA that included a placebo and/or a positive control group.
+Table 1 lists all adverse events, regardless of causality, occurring in ≥2% of patients receiving celecoxib from 12 controlled studies conducted in patients with OA or RA that included a placebo and/or a positive control group.
 Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
 
-Table 1: Adverse Events Occurring in Greater Than or Equal to 2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
+Table 1: Adverse Events Occurring in ≥2% of Celecoxib Patients from Pre-marketing Controlled Arthritis Trials
 
 |  | CBX | Placebo | NAP | DCF | IBU |
 | --- | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Application site disorders: Cellulitis, dermatitis contact
 
 Urinary: Albuminuria, cystitis, dysuria, hematuria, micturition frequency, renal calculus
 
-The following serious adverse events (causality not evaluated) occurred in less than 0.1% of patients:
+The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
 
 Cardiovascular: Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis
 
@@ -107,13 +107,13 @@ Liver and biliary: Cholelithiasis
 
 Hemic and lymphatic: Thrombocytopenia
 
-Nervous: Ataxia, suicide [see Drug Interactions (7.1)]
+Nervous: Ataxia, suicide [see Drug Interactions (7)]
 
 Renal: Acute renal failure
 
 The Celecoxib Long-Term Arthritis Safety Study [see Clinical Studies (14.7)]
 
-Hematological Events: The incidence of clinically significant decreases in hemoglobin (greater than 2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
+Hematological Events: The incidence of clinically significant decreases in hemoglobin (˃2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
 The lower incidence of events with celecoxib was maintained with or without aspirin use [see Clinical Pharmacology (12.2)].
 
 Withdrawals/Serious Adverse Events: Kaplan-Meier cumulative rates at 9 months for withdrawals due to adverse events for celecoxib, diclofenac and ibuprofen were 24%, 29%, and 26%, respectively.
@@ -122,15 +122,15 @@ Rates for serious adverse events (i.e., causing hospitalization or felt to be li
 Juvenile Rheumatoid Arthritis Study
 
 In a 12-week, double-blind, active-controlled study, 242 JRA patients 2 years to 17 years of age were treated with celecoxib or naproxen; 77 JRA patients were treated with celecoxib 3 mg/kg twice daily, 82 patients were treated with celecoxib 6 mg/kg twice daily, and 83 patients were treated with naproxen 7.5 mg/kg twice daily.
-The most commonly occurring (greater than or equal to 5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea and vomiting.
-The most commonly occurring (greater than or equal to 5%) adverse experiences for naproxen-treated patients were headache, nausea, vomiting, fever, upper abdominal pain, diarrhea, cough, abdominal pain, and dizziness (Table 2).
+The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea, and vomiting.
+The most commonly occurring (≥5%) adverse experiences for naproxen-treated patients were headache, nausea, vomiting, fever, upper abdominal pain, diarrhea, cough, abdominal pain, and dizziness (Table 2).
 Compared with naproxen, celecoxib at doses of 3 and 6 mg/kg twice daily had no observable deleterious effect on growth and development during the course of the 12-week double-blind study.
 There was no substantial difference in the number of clinical exacerbations of uveitis or systemic features of JRA among treatment groups.
 
 In a 12-week, open-label extension of the double-blind study described above, 202 JRA patients were treated with celecoxib 6 mg/kg twice daily.
 The incidence of adverse events was similar to that observed during the double-blind study; no unexpected adverse events of clinical importance emerged.
 
-Table 2: Adverse Events Occurring in Greater Than or Equal to 5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
+Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)
 
 |  | All Doses Twice Daily |  |  |
 | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -192,7 +192,7 @@ The adverse reactions for which these differences in patients treated with celec
 | Hypertension | 12.5% | 9.8% |
 | Nephrolithiasis | 2.1% | 0.8% |
 
-The following additional adverse reactions occurred in greater than or equal to 0.1% and less than 1% of patients taking celecoxib, at an incidence greater than placebo in the long-term polyp prevention studies, and were either not reported during the controlled arthritis pre-marketing trials or occurred with greater frequency in the long-term, placebo-controlled polyp prevention studies:
+The following additional adverse reactions occurred in ≥0.1% and <1% of patients taking celecoxib, at an incidence greater than placebo in the long-term polyp prevention studies, and were either not reported during the controlled arthritis pre-marketing trials or occurred with greater frequency in the long-term, placebo-controlled polyp prevention studies:
 
 Nervous system disorders: Cerebral infarction
 

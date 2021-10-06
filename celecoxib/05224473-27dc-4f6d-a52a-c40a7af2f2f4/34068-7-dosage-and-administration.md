@@ -18,8 +18,8 @@ For RA, the dosage is 100 mg to 200 mg twice daily.
 ## 2.4 Juvenile Rheumatoid Arthritis
 
 For JRA, the dosage for pediatric patients (age 2 years and older) is based on weight.
-For patients greater than or equal to 10 kg to less than or equal to 25 kg the recommended dose is 50 mg twice daily.
-For patients greater than 25 kg the recommended dose is 100 mg twice daily.
+For patients ≥10 kg to ≤25 kg the recommended dose is 50 mg twice daily.
+For patients ˃25 kg the recommended dose is 100 mg twice daily.
 
 For patients who have difficulty swallowing capsules, the contents of a celecoxib capsule can be added to applesauce.
 The entire capsule contents are carefully emptied onto a level teaspoon of cool or room temperature applesauce and ingested immediately with water.
@@ -41,7 +41,7 @@ On subsequent days, the recommended dose is 200 mg twice daily as needed.
 Hepatic Impairment
 
 In patients with moderate hepatic impairment (Child-Pugh Class B), reduce the dose by 50%.
-The use of celecoxib in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+The use of celecoxib in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Poor Metabolizers of CYP2C9 Substrates
 
