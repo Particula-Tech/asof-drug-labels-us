@@ -53,7 +53,7 @@ Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bul
 
 Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 
-Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, post operative wound hemorrhage (rarely requiring blood transfusion — see Boxed WARNING, WARNINGS, and PRECAUTIONS)
+Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion — see Boxed WARNING, WARNINGS, and PRECAUTIONS)
 
 Metabolic and Nutritional: hyperglycemia, hyperkalemia, hyponatremia
 

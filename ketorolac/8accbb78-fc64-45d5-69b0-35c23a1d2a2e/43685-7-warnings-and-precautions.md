@@ -201,14 +201,14 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - 2.Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-- 3.Serious Skin Reactions, including DRESS Advise patients to stop taking ketorolac tromethamine immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
+- 3.Serious Skin Reactions, including DRESS Advise patients to stop taking ketorolac tromethamine immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
 - 4.Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
 - 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 - 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
 - 7.Fetal Toxicity Inform pregnant women to avoid use of ketorolac tromethamine and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-  If treatment with ketorolac tromethamine is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy].
+  If treatment with ketorolac tromethamine is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
 Laboratory Tests
 
@@ -307,7 +307,7 @@ Pregnancy
 Risk Summary
 
 Use of NSAIDs, including ketorolac tromethamine, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-Because of these risks, limit dose and duration of ketorolac tromethamine use between about 20 and 30 weeks of gestation, and avoid ketorolac tromethamine use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
+Because of these risks, limit dose and duration of ketorolac tromethamine use between about 20 and 30 weeks of gestation, and avoid ketorolac tromethamine use at about 30 weeks of gestation and later in pregnancy (see WARNINGS; Fetal Toxicity).
 
 Premature Closure of Fetal Ductus Arteriosus
 
