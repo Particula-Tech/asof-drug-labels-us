@@ -10,11 +10,13 @@ Arsenic Trioxide Injection
 
 For Intravenous Infusion Only
 
+Preservative Free
+
+Cytotoxic Agent
+
 10 x 10 mL Single Dose Vial
 
-NEXUS
-
-PHARMACEUTICALS
+NEXUS PHARMACEUTICALS
 
 Principal Display Panel - 10 mL Vial Label
 
@@ -27,5 +29,7 @@ Arsenic Trioxide Injection
 10 mg/10 mL (1 mg/mL)
 
 For Intravenous Infusion Only
+
+Cytotoxic Agent
 
 10 mL Single Dose Vial
