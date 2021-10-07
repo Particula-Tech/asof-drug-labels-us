@@ -96,12 +96,12 @@ Animal Data
 
 The reproductive and developmental effects of both the combination of diclofenac sodium and misoprostol and each component of diclofenac sodium and misoprostol delayed-release tablets alone have been studied in animals.
 In all studies there was no evidence of teratogenicity.
-In an oral teratology study in pregnant rabbits, diclofenac sodium and misoprostol was administered at dose combinations (diclofenac and misoprostol, 250:1 ratio) up to 10 mg/kg/day diclofenac sodium (120 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area) and 0.04 mg/kg/day misoprostol (0.48 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area) and there was no evidence of teratogenicity.
+In an oral teratology study in pregnant rabbits, diclofenac sodium and misoprostol was administered at dose combinations (diclofenac and misoprostol, 250:1 ratio) up to 10 mg/kg/day diclofenac sodium (120 mg/m2/day, 0.8 times the MRHD based on body surface area) and 0.04 mg/kg/day misoprostol (0.48 mg/m2/day, 0.8 times the MRHD based on body surface area) and there was no evidence of teratogenicity.
 At the high dose, there was evidence of embryotoxicity (resorption and decreased fetal body weight) and maternal toxicity (decreased food intake and weight gain).
 
-In oral teratology studies with misoprostol in pregnant rats at doses up to 1.6 mg/kg/day (9.6 mg/m2/day, 16 times the recommended maximum human dose based on body surface area) and pregnant rabbits at doses up to 1.0 mg/kg/day (12 mg/m2/day, 20 times the recommended maximum human dose based on body surface area), there was no evidence of teratogenicity.
+In oral teratology studies with misoprostol in pregnant rats at doses up to 1.6 mg/kg/day (9.6 mg/m2/day, 16 times the MRHD based on body surface area) and pregnant rabbits at doses up to 1.0 mg/kg/day (12 mg/m2/day, 20 times the MRHD based on body surface area), there was no evidence of teratogenicity.
 
-In oral teratology studies with diclofenac sodium in pregnant mice at doses up to 20 mg/kg/day (60 mg/m2/day, 0.4 times the recommended maximum human dose based on body surface area), pregnant rats at doses up to 10 mg/kg/day (60 mg/m2/day, 0.4 times the recommended maximum human dose based on body surface area) and pregnant rabbits at doses up to 10 mg/kg/day (120 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area), there was no evidence of teratogenicity.
+In oral teratology studies with diclofenac sodium in pregnant mice at doses up to 20 mg/kg/day (60 mg/m2/day, 0.4 times the MRHD based on body surface area), pregnant rats at doses up to 10 mg/kg/day (60 mg/m2/day, 0.4 times the MRHD based on body surface area) and pregnant rabbits at doses up to 10 mg/kg/day (120 mg/m2/day, 0.8 times the MRHD based on body surface area), there was no evidence of teratogenicity.
 
 ## 8.2 Lactation
 

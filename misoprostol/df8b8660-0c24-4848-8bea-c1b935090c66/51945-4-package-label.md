@@ -10,8 +10,6 @@ Rx only
 
 60 Tablets
 
-teva
-
 # PRINCIPAL DISPLAY PANEL
 
 NDC 0591-0398-60 Diclofenac Sodium and Misoprostol Delayed-Release Tablets, USP
@@ -23,5 +21,3 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 Rx only
 
 60 Tablets
-
-teva

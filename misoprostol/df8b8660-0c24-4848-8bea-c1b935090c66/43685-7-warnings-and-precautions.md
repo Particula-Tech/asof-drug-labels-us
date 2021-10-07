@@ -2,7 +2,7 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Clinical trials of several cyclooxygenase-2 (COX-2) selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
@@ -41,22 +41,27 @@ However, even short-term NSAID therapy is not without risk.
 Risk Factors for GI Bleeding, Ulceration, and Perforation
 
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
-Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, antiplatelet drugs (such as aspirin), anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-● Use the lowest effective dosage for the shortest possible duration. ● Avoid administration of more than one NSAID at a time. ● Avoid use in patients at high risk unless benefits are expected to outweigh the increased risk of bleeding.
-For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs. ● Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy. ● If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue diclofenac sodium and misoprostol until a serious GI adverse event is ruled out. ● In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at high risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue diclofenac sodium and misoprostol until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 
-In clinical trials with diclofenac sodium and misoprostol, meaningful elevation of ALT (SGPT, more than 3 times the ULN [ULN = the upper limit of the normal range]) occurred in 1.6% of 2,184 patients treated with diclofenac sodium and misoprostol and in 1.4% of 1,691 patients treated with diclofenac sodium.
+In clinical trials with diclofenac sodium and misoprostol, meaningful elevation of alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT], more than 3 times the upper limit of the normal range [ULN]) occurred in 1.6% of 2,184 patients treated with diclofenac sodium and misoprostol and in 1.4% of 1,691 patients treated with diclofenac sodium.
 These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with diclofenac sodium and misoprostol delayed-release tablets.
 The misoprostol component of diclofenac sodium and misoprostol delayed-release tablets does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
 
-In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the ULN) of aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT]) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
 
 In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., greater than 8 times the ULN) in about 1% of the 3,700 patients.
@@ -190,7 +195,7 @@ This may be due to occult or gross blood loss, fluid retention, or an incomplete
 If a patient treated with diclofenac sodium and misoprostol has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including diclofenac a component of diclofenac sodium and misoprostol delayed-release tablets, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet drugs (e.g., aspirin), and SSRIs and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 ## 5.13 Masking of Inflammation and Fever
@@ -199,4 +204,4 @@ The pharmacological activity of diclofenac, a component of diclofenac sodium and
 
 ## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a complete blood count (CBC) and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].

@@ -1,8 +1,8 @@
-| MEDICATION GUIDE for Diclofenac Sodium (dye kloe' fen ak soe' dee um) and Misoprostol (mye'' soe pros' tol) Delayed-Release TabletsA combination of diclofenac a Nonsteroidal Anti-inflammatory Drug (NSAID) and misoprostol a GI mucosal protective prostaglandin E1 analog |  |
+| MEDICATION GUIDE forDiclofenac Sodium (dye kloe' fen ak soe' dee um) and Misoprostol (mye'' soe pros' tol) Delayed-Release TabletsA combination of diclofenac a Nonsteroidal Anti-inflammatory Drug (NSAID) and misoprostol a GI mucosal protective prostaglandin E1 analog |  |
 | --- | --- |
 | What is the most important information I should know about diclofenac sodium and misoprostol delayed-release tablets?Diclofenac sodium and misoprostol delayed-release tablets contain diclofenac (a nonsteroidal anti-inflammatory drug (NSAID)) and misoprostol, and can cause abortion, premature birth, birth defects, and the uterus to tear (uterine rupture). The risk of uterine rupture increases as your pregnancy advances, if you have given birth to 5 or more children, and if you have had surgery on the uterus, such as a cesarean delivery. Do not take diclofenac sodium and misoprostol delayed-release tablets if you are pregnant.What is the most important information I should know about medicines containing Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?NSAIDs can cause serious side effects, including: Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: ○ with increasing doses of NSAIDs○ with longer use of NSAIDsDo not take NSAID containing medicines right before or after a heart surgery called a “coronary artery bypass graft (CABG)."Avoid taking NSAID containing medicines after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: ○ anytime during use ○ without warning symptoms ○ that may cause deathThe risk of getting an ulcer or bleeding increases with: |  |
 | past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
-| taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| taking medicines called “corticosteroids”, “antiplatelet drugs”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
 | increasing doses of NSAIDs | older age |
 | longer use of NSAIDs | poor health |
 | smoking | advanced liver disease |
@@ -29,9 +29,9 @@
 | Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the stomach and intestines. |  |
 | Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |  |
 | General information about the safe and effective use of NSAIDsMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them.If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
-| Active ingredients: diclofenac sodium, misoprostol.Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, microcrystalline cellulose, povidone K-30, sodium hydroxide, corn starch, talc, and triethyl citrate. |  |
-| Manufactured By: Teva Pharmaceuticals USA, Inc., Parsippany, NJ 07054For more information, call Teva Pharmaceuticals USA, Inc. at 1-888-838-2872. |  |
+| Active ingredients: diclofenac sodium, misoprostol.Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid and ethyl acrylate copolymer dispersion, microcrystalline cellulose, povidone K-30, sodium hydroxide, corn starch, talc, and triethyl citrate. |  |
+| Manufactured By: Teva Pharmaceuticals USA, Inc., Parsippany, NJ 07054For more information, call Teva at 1-888-838-2872. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Rev.
-C 1/2021
+D 9/2021

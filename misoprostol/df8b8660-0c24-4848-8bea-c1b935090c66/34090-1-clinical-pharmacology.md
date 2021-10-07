@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Diclofenac sodium and misoprostol tablets are a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
+Diclofenac sodium and misoprostol tablets are a combination product containing diclofenac sodium, an NSAID with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
 
 Diclofenac
 
@@ -49,36 +49,25 @@ Neither diclofenac nor misoprostol accumulated in plasma following repeated dose
 
 Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following Single Oral Doses of Diclofenac Sodium and Misoprostol Delayed-Release Tablets or Separate Products in Healthy Subjects
 
-| MISOPROSTOL ACID Mean (SD) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Treatment (n=36) | Cmax (pg/mL) |  |  |  | Tmax (hr) |  |  | AUC(0–4h) (pg·hr/mL) |
-| Diclofenac Sodium and | 441 (137) |  |  |  | 0.30 (0.13) |  |  | 266 (95) |
-| Misoprostol Delayed- |  |  |  |  |  |  |  |  |
-| Release Tablets |  |  |  |  |  |  |  |  |
-| 50 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Misoprostol | 478 (201) |  |  |  | 0.30 (0.10) |  |  | 295 (143) |
-| Diclofenac Sodium and | 304 (110) |  |  |  | 0.26 (0.09) |  |  | 177 (49) |
-| Misoprostol Delayed- |  |  |  |  |  |  |  |  |
-| Release Tablets |  |  |  |  |  |  |  |  |
-| 75 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Misoprostol | 290 (130) |  |  |  | 0.35 (0.12) |  |  | 176 (58) |
-| DICLOFENAC Mean (SD) |  |  |  |  |  |  |  |  |
-| Diclofenac Sodium and |  | 1207 (364) |  | 2.4 (1.0) |  |  | 1380 (272) |  |
-| Misoprostol Delayed- |  |  |  |  |  |  |  |  |
-| Release Tablets |  |  |  |  |  |  |  |  |
-| 50 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Diclofenac Sodium |  | 1298 (441) |  | 2.4 (1.0) |  |  | 1357 (290) |  |
-| Diclofenac Sodium and |  | 2025 (2005) |  | 2.0 (1.4) |  |  | 2773 (1347) |  |
-| Misoprostol Delayed- |  |  |  |  |  |  |  |  |
-| Release Tablets |  |  |  |  |  |  |  |  |
-| 75 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Diclofenac Sodium |  | 2367 (1318) |  | 1.9 (0.7) |  |  | 2609 (1185) |  |
-| SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |  |  |  |  |  |
+| MISOPROSTOL ACID Mean (SD) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Treatment (n=36) | Cmax (pg/mL) |  | Tmax (hr) |  | AUC(0–4h)(pg·hr/mL) |
+| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 50 mg/0.2 mg | 441 (137) |  | 0.30 (0.13) |  | 266 (95) |
+| Misoprostol | 478 (201) |  | 0.30 (0.10) |  | 295 (143) |
+| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 75 mg/0.2 mg | 304 (110) |  | 0.26 (0.09) |  | 177 (49) |
+| Misoprostol | 290 (130) |  | 0.35 (0.12) |  | 176 (58) |
+| DICLOFENAC Mean (SD) |  |  |  |  |  |
+| Treatment (n=36) | Cmax (ng/mL) |  | Tmax (hr) |  | AUC(0–12h)(ng·hr/mL) |
+| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 50 mg/0.2 mg | 1207 (364) |  | 2.4 (1.0) |  | 1380 (272) |
+| Diclofenac Sodium | 1298 (441) |  | 2.4 (1.0) |  | 1357 (290) |
+| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 75 mg/0.2 mg | 2025 (2005) |  | 2.0 (1.4) |  | 2773 (1347) |
+| Diclofenac Sodium | 2367 (1318) |  | 1.9 (0.7) |  | 2609 (1185) |
+| SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |  |  |
 
 Absorption
 
-Diclofenac: Diclofenac is completely absorbed from the GI tract after oral administration under fasted condition, and peak plasma levels are achieved in 2 hours (range 1 to 4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
-Peak plasma levels are less than dose-proportional and are approximately 1.5 mcg/mL and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
+Diclofenac: Diclofenac is completely absorbed from the GI tract after oral administration under fasted condition, and peak plasma levels are achieved in 2 hours (range 1-4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
+Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
 The diclofenac in diclofenac sodium and misoprostol is in a pharmaceutical formulation that resists dissolution in the low pH of gastric fluid but allows a rapid release of drug in the higher pH environment of the duodenum.
 Only 50% of the absorbed dose is systemically available due to first pass metabolism (i.e., oral bioavailability is 50%).
 
@@ -100,6 +89,8 @@ The maximum concentration of misoprostol acid in expressed breast milk was achie
 The misoprostol acid concentrations in breast milk declined to <1 pg/mL at 5 hours post-dose.
 These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
 
+Elimination
+
 Metabolism
 
 Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
@@ -107,7 +98,7 @@ Five metabolites (4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hy
 The major metabolite (4'-hydroxy-diclofenac) has very weak pharmacologic activity.
 
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
-Acyl glucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-hydroxy-diclofenac.
 
 Misoprostol: Undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
@@ -136,16 +127,18 @@ Specific Populations
 
 Age: Geriatric Population
 
-A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a day) in younger adults (26 to 46 years, N=10) versus elderly subjects (66 to 81 years, N=10), did not show differences between age groups.
+A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a day) in younger adults (26-46 years, N=10) versus elderly subjects (66-81 years, N=10), did not show differences between age groups.
 In subjects over 64 years of age, the AUC for misoprostol acid was increased.
 
 In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in diclofenac sodium and misoprostol (two times a day) did not affect the pharmacokinetics of diclofenac.
 
-Race: Pharmacokinetic differences due to race have not been identified.
+Race
+
+Pharmacokinetic differences due to race have not been identified.
 
 Renal Impairment
 
-In patients with renal impairment (N=5, creatinine clearance 3 mL/min to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
+In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
 
 Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of elimination half-life, Cmax, and AUC compared to healthy subjects.
 
@@ -162,7 +155,7 @@ Diclofenac
 
 Aspirin: When diclofenac sodium and misoprostol was administered with aspirin, the protein binding of diclofenac was reduced, although the clearance of the free diclofenac was not altered.
 The clinical significance of this interaction is not known.
-See table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Voriconazole: When a single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2), the mean Cmax and AUC of diclofenac were increased by 114% and 78%, respectively, when compared to diclofenac alone [see Drug Interactions (7)].
 

@@ -58,7 +58,7 @@ However, the four times a day regimen is less well tolerated than the three time
 Dosages may be individualized using the separate products (misoprostol and diclofenac sodium), after which the patient may be changed to the appropriate dose of diclofenac sodium and misoprostol delayed-release tablets.
 If clinically indicated, misoprostol co-therapy with diclofenac sodium and misoprostol delayed-release tablets, or use of the individual components to optimize the misoprostol dose and/or frequency of administration, may be appropriate.
 The total dose of misoprostol should not exceed 800 mcg/day, and no more than 200 mcg of misoprostol should be administered at any one time.
-Doses of diclofenac sodium higher than 150 mg/day in osteoarthritis or higher than 225 mg/day in rheumatoid arthritis are not recommended.
+Doses of diclofenac sodium higher than 150 mg/day in osteoarthritis or higher than 200 mg/day in rheumatoid arthritis are not recommended.
 
 When concomitant use of CYP2C9 inhibitors is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of diclofenac sodium and misoprostol delayed-release tablets 50 mg/0.2 mg two times a day.
 
