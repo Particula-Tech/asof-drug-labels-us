@@ -8,6 +8,6 @@ Tasigna is indicated for the treatment of adult and pediatric patients greater t
 
 Tasigna is indicated for the treatment of adult patients with chronic phase and accelerated phase Philadelphia chromosome positive chronic myelogenous leukemia (Ph+ CML) resistant or intolerant to prior therapy that included imatinib.
 
-## 1.3 Pediatric Patients With Resistant or Intolerant Ph+ CML-CP
+## 1.3 Pediatric Patients With Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-Tasigna is indicated for the treatment of pediatric patients greater than or equal to 1 year of age with chronic phase Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) with resistance or intolerance to prior tyrosine-kinase inhibitor (TKI) therapy.
+Tasigna is indicated for the treatment of pediatric patients greater than or equal to 1 year of age with chronic phase and accelerated phase Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) with resistance or intolerance to prior tyrosine-kinase inhibitor (TKI) therapy.

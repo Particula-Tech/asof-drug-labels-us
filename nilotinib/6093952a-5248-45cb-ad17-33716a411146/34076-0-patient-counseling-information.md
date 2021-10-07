@@ -57,14 +57,13 @@ Advise patients that musculoskeletal symptoms, such as muscle pain, pain in extr
 Embryo-Fetal Toxicity
 
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy.
-[see Warnings and Precautions (5.15), Use in Specific Populations (8.1)].
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.15), Use in Specific Populations (8.1)].
 
-Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 14 days after receiving the last dose of Tasigna [see Use in Specific Populations (8.3)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with Tasigna and for 14 days after the last dose [see Use in Specific Populations (8.2)].
 
 Drug Interactions
 
@@ -94,6 +93,8 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
 © Novartis
 
-T2020-152
+T2021-127

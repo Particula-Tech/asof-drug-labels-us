@@ -78,7 +78,7 @@ CHR (CML-AP): neutrophils greater than or equal to 1.5 x 109/L, platelets greate
 
 NEL: same criteria as for CHR but neutrophils greater than or equal to 1.0 x 109/L and platelets greater than or equal to 20 x 109/L without transfusions or bleeding.
 
-Adult Patients with Chronic Phase
+Adult Patients With Chronic Phase
 
 The MCyR rate in 321 CML-CP patients was 51%.
 The median time to MCyR among responders was 2.8 months (range, 1 to 28 months).
@@ -87,7 +87,7 @@ The median duration of exposure on this single arm-trial was 18.4 months.
 Among the CML-CP patients who achieved MCyR, 62% of them had MCyR lasting more than 18 months.
 The CCyR rate was 37%.
 
-Adult Patients with Accelerated Phase
+Adult Patients With Accelerated Phase
 
 The overall confirmed hematologic response rate in 137 patients with CML-AP was 39%.
 The median time to first hematologic response among responders was 1 month (range, 1 to 14 months).
@@ -136,7 +136,7 @@ Table 13: Efficacy Results for ENESTfreedom
 
 Among the 190 patients in the TFR phase, 98 patients had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) by the 96-week cut-off date.
 
-Figure 1 Kaplan-Meier Estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
+Figure 1: Kaplan-Meier Estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
 2. By the time of the 96-week data cut-off date, one single patient lost MMR at Week 120, at the time when only 8 patients were considered at risk.
@@ -175,29 +175,38 @@ Table 14: Efficacy Results for ENESTop
 
 Among the 126 patients in the TFR phase, 61 patients (48.4%) had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, confirmed loss of MR4, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) on or before the 96-month cut-off date.
 
-Figure 2 Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR (Full Analysis Set ENESTop)
+Figure 2: Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR (Full Analysis Set ENESTop)
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
 
 ## 14.5 Pediatric Patients With Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP
 
-The safety and efficacy of Tasigna in pediatric patients with Ph+ CML-CP have been investigated in two studies: Study CAMN107A2120 (NCT01077544), an open-label, single-arm, multi-center study that evaluated the pharmacokinetics, safety, and preliminary efficacy of Tasigna in pediatric patients with Ph+ CML resistant or intolerant to imatinib or dasatinib (n = 11), and Study CAMN107A2203 (NCT01844765), an open-label, single-arm, multi-center study evaluating the efficacy and safety of Tasigna in pediatric patients with Ph+ CML-CP resistant or intolerant to imatinib or dasatinib (n = 33) and newly diagnosed Ph+ CML-CP (n = 25).
+The safety and efficacy of Tasigna in pediatric patients with Ph+ CML-CP have been investigated in two studies: Study CAMN107A2120 (NCT01077544), an open-label, single-arm, multi-center study that evaluated the pharmacokinetics, safety, and preliminary efficacy of Tasigna in pediatric patients with Ph+ CML resistant or intolerant to imatinib or dasatinib (n = 11), and Study CAMN107A2203 (NCT01844765), an open-label, single-arm, multi-center study evaluating the efficacy and safety of Tasigna in pediatric patients (from 2 to less than 18 years of age) with Ph+ CML-CP resistant or intolerant to imatinib or dasatinib (n = 33) and newly diagnosed Ph+ CML-CP (n = 25).
 In both studies, patients received Tasigna treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
-Data was pooled from a total of 69 pediatric patients (from 2 to less than 18 years of age) with either newly diagnosed Ph+ CML-CP (n = 25; 6 children from 2 to less than 12 years and 19 adolescents from 12 to less than 18 years) or imatinib/dasatinib resistant or intolerant Ph+ CML-CP (n = 44; 18 children from 2 to less than 12 years and 26 adolescents from 12 to less than 18 years).
-
-The median time on treatment with Tasigna was 13.80 months (range, 0.7 to 30.9 months).
+Data up to 12 cycles was pooled from a total of 69 pediatric patients (from 2 to less than 18 years of age) with either newly diagnosed Ph+ CML-CP (n = 25; 6 children from 2 to less than 12 years and 19 adolescents from 12 to less than 18 years) or imatinib/dasatinib resistant or intolerant Ph+ CML-CP (n = 44; 18 children from 2 to less than 12 years and 26 adolescents from 12 to less than 18 years).
 
 In patients with resistant or intolerant CML, the major molecular response [(MMR); BCR-ABL/ABL ≤ 0.1% IS] rate was 40.9% (18/44, 95% CI: 26.3%, 56.8%) at 12 cycles (28 days per cycle).
 In patients with newly diagnosed CML, the MMR rate was 60.0% (15/25, 95% CI: 38.7%, 78.9%) at 12 cycles.
-In patients with resistant or intolerant CML, the cumulative MMR rate was 47.7% (21/44) by cycle 12.
-In patients with newly diagnosed CML, the cumulative MMR rate was 64.0% (16/25) by cycle 12.
+In patients with resistant or intolerant CML, the cumulative MMR rate was 47.7% (21/44) by Cycle 12.
+In patients with newly diagnosed CML, the cumulative MMR rate was 64.0% (16/25) by Cycle 12.
 
 Among the 21 patients with resistant or intolerant CML who were in MMR at any time on treatment, the median time to first MMR was 2.8 months (range, 0.0 to 11.3).
 For the 17 patients with newly diagnosed CML who achieved MMR, the median time to first MMR was 5.6 months (range, 2.7 to 16.6).
 
-Among patients with resistant or intolerant CML, 4.5% of patients achieved BCR-ABL/ABL ≤ 0.0032% IS (MR4.5) by the cut-off date.
-Among patients with newly diagnosed CML, the percentage of patients who achieved MR4.5 was 28.0%.
+Study CAMN107A2203 provided long term data with follow up of approximately 5 years.
 
-None of the 21 patients with resistant or intolerant CML who were in MMR on treatment had confirmed loss of MMR, with a median follow-up of 11.3 months.
-Among the 17 patients with newly diagnosed CML who achieved MMR, one patient had confirmed loss of MMR 3 months after achieving this response; in these patients, the median follow-up was 11.1 months.
-One patient with resistant or intolerant CML progressed to AP/BC after about 10 months on treatment.
+By the time of final analysis, the median time on treatment with Tasigna was 51.9 months (range, 1.4 to 61.2 months) for patients with newly diagnosed CML and 60.5 months (range: 0.7 to 63.5 months) for patients with resistant or intolerant CML.
+
+In the patients with resistant or intolerant CML, the major molecular response (MMR; BCR-ABL/ABL ≤0.1% IS) rates were 57.6%, 57.6% by Cycles 24, and 36, respectively.
+The MMR rate increased to 60.6% by Cycle 48 and was the same until end of study (Cycle 66).
+In the patients with newly diagnosed CML, the MMR rates were 68.0% by Cycle 24.
+The MMR rate increased to 76.0% by Cycle 36 and was the same until end of study (Cycle 66).
+
+Among patients with resistant or intolerant CML, 12.1% of patients achieved BCR-ABL/ABL ≤ 0.0032% IS (MR4.5) by Cycle 66.
+Among patients with newly diagnosed CML, the percentage of patients who achieved MR4.5 was 44%.
+
+None of the 20 patients with resistant or intolerant CML who achieved MMR at any time on treatment by Cycle 66 had confirmed loss of MMR by the end of Cycle 66 or at the time of early discontinuation.
+Among the 19 patients with newly diagnosed CML who achieved MMR at any time on treatment by the end of Cycle 66, three patients had confirmed loss of MMR.
+The median durations of MMR could not be estimated in either population as more than half responders did not have a confirmed loss of response by the study end.
+Range of duration of response was 0.03 to 61 months for resistant or intolerant CML patients and 2.8 to 57.9 months for newly diagnosed CML patients.
+One patient with resistant or intolerant CML progressed to AP/BC after 10.1 months on treatment.

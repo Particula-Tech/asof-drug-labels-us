@@ -93,7 +93,7 @@ Proton Pump Inhibitors (PPIs): Tasigna displays pH-dependent aqueous solubility.
 Coadministration of multiple doses of esomeprazole (a PPI) at 40 mg daily decreased the nilotinib AUC by 34%.
 No significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of Tasigna was administered 10 hours after and 2 hours before famotidine (an H2 blocker), or administered 2 hours after and 2 hours before an antacid (e.g., aluminum hydroxide, magnesium hydroxide, simethicone).
 
-Moderate CYP3A inhibitors: Following coadministration of nilotinib 400 mg twice daily with imatinib (a moderate CYP3A inhibitor) 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
+Moderate CYP3A Inhibitors: Following coadministration of nilotinib 400 mg twice daily with imatinib (a moderate CYP3A inhibitor) 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
 
 CYP3A4 Substrates: Multiple doses of Tasigna increased the systemic exposure of oral midazolam (a substrate of CYP3A4) 2.6-fold.
 

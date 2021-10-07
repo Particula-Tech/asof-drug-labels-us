@@ -29,7 +29,7 @@ In rabbits, oral administration of nilotinib resulted in the early sacrifice of 
 Fetal skeletal variations (incomplete ossification of the hyoid, bent hyoid, supernumerary short detached ribs and the presence of additional ossification sites near the nasals, frontals and in the sternebral column) were also increased at this dose in the presence of maternal toxicity.
 Slight maternal toxicity was evident at 100 mg/kg/day but there were no reproductive or embryo-fetal effects at this dose.
 
-At 30 mg/kg/day in rats and 300 mg/kg/day in rabbits, the maternal systemic exposure (AUC) were 72700 ng*hr/mL and 17100 ng*hr/mL respectively, representing approximately 2 and 0.5 times the exposure in humans at the highest recommended dose 400 mg twice daily.
+At 30 mg/kg/day in rats and 300 mg/kg/day in rabbits, the maternal systemic exposure (AUC) were 72700 ng*hr/mL and 17100 ng*hr/mL, respectively, representing approximately 2 and 0.5 times the exposure in humans at the highest recommended dose 400 mg twice daily.
 
 When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 60 mg/kg (i.e., 360 mg/m2, approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area).
 At doses up to 20 mg/kg (i.e., 120 mg/m2, approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
@@ -40,7 +40,7 @@ Risk Summary
 
 There are no data on the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production.
 However, nilotinib is present in the milk of lactating rats.
-Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Tasigna and for 14 days after the last dose.
 
 Animal Data
 
@@ -60,7 +60,7 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with Tasigna and for at least 14 days after the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with Tasigna and for 14 days after the last dose.
 
 Infertility
 
@@ -71,7 +71,8 @@ In studies in rats and rabbits, the fertility in males and females was not affec
 
 The safety and effectiveness of Tasigna have been established in pediatric patients greater than or equal to 1 year of age with newly diagnosed and resistant or intolerant Ph+ CML in chronic phase [see Clinical Studies (14.5)].
 There are no data for pediatric patients under 2 years of age.
-Use of Tasigna in pediatric patients 1 to less than 2 years of age is supported by efficacy in pediatric patients 2 to 6 years of age.
+Use of Tasigna in pediatric patients 1 year to less than 2 years of age with newly diagnosed or resistant or intolerant Ph+ CML in chronic phase is supported by efficacy in pediatric patients 2 to 6 years of age for these indications.
+The safety and effectiveness of Tasigna have been established in pediatric patients greater than or equal to 1 year of age with resistant or intolerant Ph+ CML in accelerated phase based on evidence of effectiveness from an adequate and well-controlled single-arm study in adults [see Clinical Studies (14.2)] with safety data from two pediatric studies as described in the next paragraph.
 
 Use of Tasigna in pediatric patients 1 to less than 18 years of age is supported by evidence from two clinical trials [see Clinical Studies (14.5)].
 The 25 patients with newly diagnosed Ph+ CML-CP were in the following age groups: 6 children (age 2 to less than 12 years) and 19 adolescents (age 12 to less than 18 years).
@@ -79,16 +80,14 @@ The 44 patients with resistant or intolerant Ph+ CML-CP included 18 children (ag
 All pediatric patients received Tasigna treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
 No differences in efficacy or safety were observed between the different age subgroups in the two trials.
 
-The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 13%) and transaminase elevation (AST Grade 3/4: 1%, ALT Grade 3/4: 9%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)].
+The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 16%) and transaminase elevation (AST Grade 3/4: 2.9%, ALT Grade 3/4: 10%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)].
 For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with Tasigna [see Warnings and Precautions (5.14), Adverse Reactions (6.1)].
 
-The long-term effects of prolonged treatment with Tasigna in pediatric patients are unknown.
-
-The safety and effectiveness of Tasigna in pediatric patients below the age of 1 year with newly diagnosed, or resistant or intolerant Ph+ CML in chronic phase, have not been established.
+The safety and effectiveness of Tasigna in pediatric patients below the age of 1 year with newly diagnosed, or resistant or intolerant Ph+ CML in chronic phase and accelerated phase, have not been established.
 
 ## 8.5 Geriatric Use
 
-In the clinical trials of Tasigna (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 years or over respectively.
+In the clinical trials of Tasigna (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 years or over, respectively.
 
 - Patients with newly diagnosed Ph+ CML-CP: There was no difference in major molecular response between patients aged less than 65 years and those greater than or equal to 65 years.
 - Patients with resistant or intolerant CML-CP: There was no difference in major cytogenetic response rate between patients aged less than 65 years and those greater than or equal to 65 years.
