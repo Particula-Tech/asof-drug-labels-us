@@ -5,7 +5,7 @@
 Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
-## 7.2 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.2 Non-Steroida Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.

@@ -17,7 +17,7 @@ What is valsartan tablet?
 
 Valsartan tablet is a prescription medicine used in:
 
-- adults and children 1 year of age and older to lower high blood pressure (hypertension).
+- adults and children 6 years of age and older to lower high blood pressure (hypertension).
   Valsartan tablets may be used alone or in combination with other blood pressure medicines.
 - adults to treat heart failure.
   Valsartan tablets may help decrease your need for hospitalization that happens with heart failure.
@@ -64,9 +64,8 @@ How should I take valsartan tablets?
 
 - Take valsartan tablets exactly as prescribed by your healthcare provider.
 - For treatment of high blood pressure, take valsartan tablets 1 time each day
-- For children: Your pharmacist will mix valsartan tablets as a liquid suspension for your child, If:
-- your child is 1 to 5 years of age, or
-- your child is older than 5 years of age and cannot swallow tablets, or
+- For children: Your pharmacist will mix valsartan tablets as a liquid suspension for your child, if:
+- your child is ≥ 6 years of age and cannot swallow tablets, or
 - if tablets are not available in the prescribed strength needed for your child
 - If your child switches between taking the tablet and the suspension, your healthcare provider will adjust the dose as needed.
 - $$UnOrderedlist
@@ -90,9 +89,11 @@ What are the possible side effects of valsartan tablets?
 - take water pills
 - are dehydrated (decreased body fluids) due to vomiting and diarrhea
 - are on a low-salt diet
+- do not drink enough liquids
 - you sweat excessively
 - get dialysis treatments
 - have heart problems
+- do not drink enough liquids
 
 Lie down, if you feel lightheaded, dizzy or faint.
 Call your healthcare provider right away.
@@ -160,6 +161,9 @@ Active ingredient: valsartan
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch and titanium dioxide.
 In addition, the 40 mg tablet contains iron oxide yellow, 80 mg tablet contains iron oxide red, 160 mg tablet contains iron oxide red and iron oxide yellow, and 320 mg tablet contains iron oxide black, iron oxide red and iron oxide yellow.
 
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -176,4 +180,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: June 2021 ID#: 267941
+Revised: October 2021 ID#: 268932
