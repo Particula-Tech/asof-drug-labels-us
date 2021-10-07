@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Lidocaine Hydrochloride Jelly USP, 2%
 

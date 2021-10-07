@@ -1,23 +1,32 @@
-# WARNINGS
+# WARNINGS:
 
 EXCESSIVE DOSAGE, OR SHORT INTERVALS BETWEEN DOSES, CAN RESULT IN HIGH PLASMA LEVELS AND SERIOUS ADVERSE EFFECTS.
 PATIENTS SHOULD BE INSTRUCTED TO STRICTLY ADHERE TO THE RECOMMENDED DOSAGE AND ADMINISTRATION GUIDELINES AS SET FORTH IN THIS PACKAGE INSERT.
-
 THE MANAGEMENT OF SERIOUS ADVERSE REACTIONS MAY REQUIRE THE USE OF RESUSCITATIVE EQUIPMENT, OXYGEN, AND OTHER RESUSCITATIVE DRUGS.
 
 Lidocaine Hydrochloride Jelly USP, 2% should be used with extreme caution in the presence of sepsis or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.
 
 When used for endotracheal tube lubrication, care should be taken to avoid introducing the product into the lumen of the tube.
 Do not use the jelly to lubricate the endotracheal stylettes. lf allowed into the inner lumen, the jelly may dry on the inner surface leaving a residue which tends to clump with flexion, narrowing the lumen.
-There have been rare reports in which this residue has caused the lumen to occlude.
-See also ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.
+There have been rare reports in which this residue has caused the lumen to occlude (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION)
 
-# PRECAUTIONS
+## Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue Lidocaine Hydrochloride Jelly USP, 2% and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+# PRECAUTIONS:
 
 ## General
 
-The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-(See WARNINGS and ADVERSE REACTIONS).
+The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies (see WARNINGS and ADVERSE REACTIONS).
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 Repeated doses of lidocaine may cause significant increases in blood levels with each repeated dose because of slow accumulation of the drug or its metabolites.
 Tolerance to elevated blood levels varies with the status of the patient.
@@ -34,6 +43,9 @@ Successful outcome is dependent on early diagnosis, prompt discontinuance of the
 
 ## Information for Patients
 
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 When topical anesthetics are used in the mouth, the patient should be aware that the production of topical anesthesia may impair swallowing and thus enhance the danger of aspiration.
 For this reason, food should not be ingested for 60 minutes following use of local anesthetic preparations in the mouth or throat area.
 This is particularly important in children because of their frequency of eating.
@@ -41,16 +53,32 @@ This is particularly important in children because of their frequency of eating.
 Numbness of the tongue or buccal mucosa may enhance the danger of unintentional biting trauma.
 Food and chewing gum should not be taken while the mouth or throat area is anesthetized.
 
-### Carcinogenesis
+## Drug Interactions
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic Agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate, |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
+
+## Carcinogenesis
 
 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of lidocaine.
 
-### Mutagenesis
+## Mutagenesis
 
 The mutagenic potential of lidocaine has been tested in the Ames Salmonella reverse mutation assay, an in vitro chromosome aberrations assay in human lymphocytes and in an in vivo mouse micronucleus assay.
 There was no indication of any mutagenic effect in these studies.
 
-### Impairment of Fertility
+## Impairment of Fertility
 
 The effect of lidocaine on fertility was examined in the rat model.
 Administration of 30 mg/kg, s.c.
@@ -60,11 +88,7 @@ There was no evidence of altered fertility.
 
 ## Use in Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
-Reproduction studies for lidocaine have been performed in both rats and rabbits.
+Teratogenic Effects: Pregnancy Category B. Reproduction studies for lidocaine have been performed in both rats and rabbits.
 There was no evidence of harm to the fetus at subcutaneous doses of up to 50 mg/kg lidocaine (300 mg/m2 on a body surface area basis) in the rat model.
 In the rabbit model, there was no evidence of harm to the fetus at a dose of 5 mg/kg, s.c.
 (60 mg/m2 on a body surface area basis).
@@ -86,16 +110,15 @@ Because animal reproduction studies are not always predictive of human response,
 Lidocaine is not contraindicated in labor and delivery.
 Should Lidocaine Hydrochloride Jelly USP, 2% be used concomitantly with other products containing lidocaine, the total dose contributed by all formulations must be kept in mind.
 
-## Nursing mothers
+## Nursing Mothers
 
 Lidocaine is secreted in human milk.
 The clinical significance of this observation is unknown.
 Caution should be exercised when lidocaine is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric Use
 
 Although, the safety and effectiveness of Lidocaine Hydrochloride Jelly USP, 2% in pediatric patients have not been established, a study of 19 premature neonates (gestational age <33 weeks) found no correlation between the plasma concentration of lidocaine or monoethylglycinexylidide and infant body weight when moderate amounts of lidocaine (i.e.
-0.3 mL/kg of lidocaine gel 20 mg/ml) were used for lubricating both intranasal and endotracheal tubes.
+0.3 mL/kg of lidocaine gel 20 mg/mL) were used for lubricating both intranasal and endotracheal tubes.
 No neonate had plasma levels of lidocaine above 750 mcg/L.
-Dosages in children should be reduced, commensurate with age, body weight, and physical condition.
-(See DOSAGE AND ADMINISTRATION.)
+Dosages in children should be reduced, commensurate with age, body weight, and physical condition (see DOSAGE AND ADMINISTRATION.)
