@@ -1,6 +1,6 @@
 # WARNING: LACTIC ACIDOSIS
 
-Post-marketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.
+Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.
 The onset of metformin-associated lactic acidosis is often subtle, accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, somnolence, and abdominal pain.
 Metformin-associated lactic acidosis was characterized by elevated blood lactate levels (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio, and metformin plasma levels generally >5 mcg/mL [see Warnings and Precautions (5.1)].
 

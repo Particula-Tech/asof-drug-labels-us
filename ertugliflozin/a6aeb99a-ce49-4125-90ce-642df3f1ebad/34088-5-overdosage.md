@@ -9,7 +9,7 @@ Ertugliflozin
 
 Removal of ertugliflozin by hemodialysis has not been studied.
 
-Metformin hydrochloride
+Metformin HCl
 
 Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 g (25 times the maximum recommended daily dose).
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin hydrochloride has been established.

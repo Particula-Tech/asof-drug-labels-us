@@ -12,12 +12,12 @@ SGLT2 is the predominant transporter responsible for reabsorption of glucose fro
 Ertugliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, ertugliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
-Metformin hydrochloride
+Metformin HCl
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -68,7 +68,7 @@ In Phase 3 clinical trials, ertugliflozin was administered without regard to mea
 
 Metformin hydrochloride
 
-The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50-60%.
+The absolute bioavailability of a metformin HCl 500-mg tablet given under fasting conditions is approximately 50-60%.
 Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg (approximately 1.3 times the maximum recommended daily dosage), indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alternation in elimination.
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850-mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
@@ -81,7 +81,7 @@ The mean steady-state volume of distribution of ertugliflozin following an intra
 Plasma protein binding is not meaningfully altered in patients with renal or hepatic impairment.
 The blood-to-plasma concentration ratio of ertugliflozin is 0.66.
 
-Metformin hydrochloride
+Metformin
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of metformin hydrochloride tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
@@ -98,7 +98,7 @@ Metabolism is the primary clearance mechanism for ertugliflozin.
 The major metabolic pathway for ertugliflozin is UGT1A9 and UGT2B7-mediated O-glucuronidation to two glucuronides that are pharmacologically inactive at clinically relevant concentrations.
 CYP-mediated (oxidative) metabolism of ertugliflozin is minimal (12%).
 
-Metformin hydrochloride
+Metformin
 
 Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
 
@@ -111,7 +111,7 @@ The mean elimination half-life in type 2 diabetic patients with normal renal fun
 Following administration of an oral [14C]-ertugliflozin solution to healthy subjects, approximately 40.9% and 50.2% of the drug-related radioactivity was eliminated in feces and urine, respectively.
 Only 1.5% of the administered dose was excreted as unchanged ertugliflozin in urine and 33.8% as unchanged ertugliflozin in feces, which is likely due to biliary excretion of glucuronide metabolites and subsequent hydrolysis to parent.
 
-Metformin hydrochloride
+Metformin
 
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
@@ -127,12 +127,12 @@ Studies characterizing the pharmacokinetics of ertugliflozin and metformin after
 
 Ertugliflozin
 
-In a Phase 1 clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate, and severe renally-impaired patients compared to subjects with normal renal function.
+In a clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate, and severe renally-impaired patients compared to subjects with normal renal function.
 These increases in ertugliflozin AUC are not considered clinically meaningful.
-The 24-hour urinary glucose excretion declined with increasing severity of renal impairment [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
+The 24-hour urinary glucose excretion declined with increasing severity of renal impairment [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 The plasma protein binding of ertugliflozin was unaffected in patients with renal impairment.
 
-Metformin hydrochloride
+Metformin
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
@@ -146,13 +146,9 @@ This decrease in ertugliflozin exposure is not considered clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
 The plasma protein binding of ertugliflozin was unaffected in patients with moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
-Metformin hydrochloride
+Metformin
 
 No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment [see Use in Specific Populations (8.7)].
-
-Pediatric Patients
-
-No studies with SEGLUROMET have been performed in pediatric patients.
 
 Effects of Age, Body Weight, Gender, and Race
 
@@ -160,7 +156,7 @@ Ertugliflozin
 
 Based on a population pharmacokinetic analysis, age, body weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of ertugliflozin.
 
-Metformin hydrochloride
+Metformin
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
@@ -202,37 +198,33 @@ Ertugliflozin had no clinically relevant effect on the pharmacokinetics of metfo
 Physiologically-based PK (PBPK) modeling suggests that coadministration of mefenamic acid (UGT inhibitor) may increase the AUC and Cmax of ertugliflozin by 1.51- and 1.19-fold, respectively.
 These predicted changes in exposure are not considered clinically relevant.
 
-Figure 1: Effects of Other Drugs on the Pharmacokinetics of Ertugliflozin
-
-Figure 2: Effects of Ertugliflozin on the Pharmacokinetics of Other Drugs
-
 Metformin hydrochloride
 
-Table 4: Effect of Metformin on Systemic Exposure of Coadministered Drugs
+Table 6: Effect of Metformin HCl on Systemic Exposure of Coadministered Drugs
 
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr. | 1.01 |
-| Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets 500 mg. | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05. | 0.63 |
+| Glyburide | 5 mg | 500 mgMetformin HCl extended-release tablets 500 mg. | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05. | 0.63 |
 | Furosemide | 40 mg | 850 mg | Furosemide | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | Nifedipine | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means. | 1.01 |
 
-Table 5: Effect of Coadministered Drugs on Systemic Exposure of Metformin
+Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets 500 mg. | Metformin | 0.98Ratio of arithmetic means. | 0.99 |
 | Furosemide | 40 mg | 850 mg | Metformin | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin. [See Warnings and Precautions (5.1) and Drug Interactions (7.2).] |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7.2)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis. [See Warnings and Precautions (5.1) and Drug Interactions (7.2).] |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.2)]. |  |  |  |  |  |
 | Topiramate | 100 mgSteady-state 100 mg topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |

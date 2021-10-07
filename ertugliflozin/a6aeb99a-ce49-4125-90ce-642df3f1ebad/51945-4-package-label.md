@@ -2,7 +2,7 @@
 
 NDC 0006-5369-03
 
-Segluromet™
+Segluromet®
 
 (ertugliflozin and metformin HCl) tablets
 
@@ -20,7 +20,7 @@ Rx only
 
 NDC 0006-5373-03
 
-Segluromet™ (ertugliflozin and metformin HCl) tablets
+Segluromet® (ertugliflozin and metformin HCl) tablets
 
 2.5 mg / 1,000 mg
 
@@ -34,7 +34,7 @@ Each tablet contains 3.24 mg ertugliflozin L-pyroglutamic acid (equivalent to 2.
 
 NDC 0006-5370-03
 
-Segluromet™
+Segluromet®
 
 (ertugliflozin and metformin HCl) tablets
 
@@ -52,7 +52,7 @@ Rx only
 
 NDC 0006-5374-03
 
-Segluromet™ (ertugliflozin and metformin HCl) tablets
+Segluromet® (ertugliflozin and metformin HCl) tablets
 
 7.5 mg / 1,000 mg
 

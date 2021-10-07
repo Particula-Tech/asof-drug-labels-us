@@ -22,14 +22,14 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
 
 Human Data
 
-Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+Published data from postmarketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
 Animal Data
@@ -45,7 +45,7 @@ A maternally toxic dose (250 mg/kg/day) in rats (707 times the clinical dose) wa
 In the pre- and post-natal development study in pregnant rats, ertugliflozin was administered to the dams from gestation day 6 through lactation day 21 (weaning).
 Decreased post-natal growth (weight gain) was observed at maternal doses ≥100 mg/kg/day (greater than or equal to 331 times the human exposure at the maximum clinical dose of 15 mg/day, based on AUC).
 
-Metformin hydrochloride
+Metformin HCl
 
 Metformin did not adversely affect development outcomes when administered to rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about 2 and 6 times the maximum recommended human dose of 2,000 mg based on body surface area comparisons for rats and rabbits, respectively.
@@ -64,24 +64,9 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 Data
 
-Human Data
-
-There is no information regarding the presence of SEGLUROMET in human milk, the effects on the breastfed infant, or the effects on milk production.
-Ertugliflozin is present in the milk of lactating rats (see Data).
-Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
-Published studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
-There are no reports of adverse effects on breastfed infants exposed to metformin.
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that the use of SEGLUROMET is not recommended while breastfeeding.
-
-Data
-
-Ertugliflozin
-
 The lacteal excretion of radiolabeled ertugliflozin in lactating rats was evaluated 10 to 12 days after parturition.
 Ertugliflozin derived radioactivity exposure in milk and plasma were similar, with a milk/plasma ratio of 1.07, based on AUC.
 Juvenile rats directly exposed to ertugliflozin during a developmental period corresponding to human kidney maturation were associated with a risk to the developing kidney (persistent increased organ weight, renal mineralization, and renal pelvic and tubular dilatations).
-
-Metformin hydrochloride
 
 Published clinical lactation studies report that metformin is present in human milk, which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
 However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
@@ -101,32 +86,32 @@ SEGLUROMET
 No dosage adjustment of SEGLUROMET is recommended based on age.
 Elderly patients are more likely to have decreased renal function.
 Because renal function abnormalities can occur after initiating ertugliflozin, and metformin is known to be substantially excreted by the kidneys, care should be taken in dose selection in the elderly.
-Assess renal function in elderly patients prior to initiating dosing and periodically thereafter.
-[See Dosage and Administration (2.2) and Warnings and Precautions (5.1, 5.4).]
-SEGLUROMET is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
+Assess renal function in elderly patients prior to initiating dosing and periodically thereafter [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.4)].
 
 Ertugliflozin
 
-Across the clinical program, a total of 876 (25.7%) patients treated with ertugliflozin were 65 years and older, and 152 (4.5%) patients treated with ertugliflozin were 75 years and older.
-Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+In ertugliflozin clinical trials, a total of 876 (25.7%) patients treated with ertugliflozin were 65 years and older, and 152 (4.5%) patients treated with ertugliflozin were 75 years and older.
+Patients 65 years and older had a higher incidence of adverse reactions related to volume depletion compared to younger patients; events were reported in 1.1%, 2.2%, and 2.6% of patients treated with comparator, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
-Metformin hydrochloride
+In VERTIS CV, a total of 2780 (50.5%) patients treated with ertugliflozin were 65 years and older, and 595 (10.8%) patients treated with ertugliflozin were 75 years and older.
+Safety and efficacy were generally similar for patients age 65 years and older compared to patients younger than 65.
+
+Metformin HCl
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients.
-[See Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3).]
+Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of ertugliflozin have not been established in patients with type 2 diabetes mellitus and moderate renal impairment.
-Compared to placebo-treated patients, patients with moderate renal impairment treated with ertugliflozin did not have improvement in glycemic control and had increased risks for renal impairment, renal-related adverse reactions, and volume depletion adverse reactions [see Dosage and Administration (2.2), Warnings and Precautions (5.4), and Adverse Reactions (6.1)].
-Therefore, SEGLUROMET is not recommended in this population.
+A 26-week placebo-controlled study of 313 patients with Stage 3 Chronic Kidney Disease (eGFR ≥30 to less than 60 mL/min/1.73 m2) treated with ertugliflozin did not have improvement in glycemic control.
 
-SEGLUROMET is contraindicated in patients with severe renal impairment, ESRD, or receiving dialysis.
-SEGLUROMET is not expected to be effective in these patient populations [see Contraindications (4)].
+In the VERTIS CV study, there were 1370 patients (25%) with an eGFR ≥90 mL/min/1.73 m2, 2929 patients (53%) with an eGFR of ≥60 to less than 90 mL/min/1.73 m2, 879 patients (16%) with an eGFR of ≥45 to less than 60 mL/min/1.73 m2, and 299 patients (5%) with eGFR of 30 to <45 mL/min/1.73 m2 treated with ertugliflozin.
+Similar effects on glycemic control at Week 18 were observed in patients treated with ertugliflozin in each eGFR subgroup and also in the overall patient population.
 
-No dosage adjustment or increased monitoring is needed in patients with mild renal impairment.
+SEGLUROMET is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), ESRD, or on dialysis [see Contraindications (4)].
+
+No dosage adjustment is needed in patients with eGFR ≥45 mL/min/1.73 m2.
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
 

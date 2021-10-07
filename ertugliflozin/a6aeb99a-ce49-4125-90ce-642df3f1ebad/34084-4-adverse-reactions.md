@@ -3,16 +3,14 @@
 The following important adverse reactions are described elsewhere in the labeling:
 
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Hypotension [see Warnings and Precautions (5.2)]
-- Ketoacidosis [see Warnings and Precautions (5.3)]
-- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Lower Limb Amputation [see Warnings and Precautions (5.3)]
+- Volume Depletion [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
-- Lower Limb Amputation [see Warnings and Precautions (5.6)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.8)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
-- Vitamin B12 Levels [see Warnings and Precautions (5.10)]
-- Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.11)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
+- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -38,7 +36,7 @@ Baseline renal function (mean eGFR 88.9 mL/min/1.73 m2) was normal or mildly imp
 Table 1 shows common adverse reactions associated with the use of ertugliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on ertugliflozin than on placebo, and occurred in at least 2% of patients treated with either ertugliflozin 5 mg or ertugliflozin 15 mg.
 
-Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
+Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo-controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
 
 |  | Placebo N = 515 | Ertugliflozin 5 mg N = 519 | Ertugliflozin 15 mg N = 510 |
 | --- | --- | --- | --- |
@@ -54,53 +52,22 @@ Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Me
 | Weight decreased | 1.0% | 1.2% | 2.4% |
 | ThirstIncludes: thirst, dry mouth, polydipsia, and dry throat. | 0.6% | 2.7% | 1.4% |
 
+Ketoacidosis
+
+In a long-term cardiovascular outcomes study VERTIS CV (eValuation of ERTugliflozin effIcacy and Safety, CardioVascular [see Clinical Studies (14.2)], a study in patients with type 2 diabetes and established cardiovascular disease, ketoacidosis was identified in 19 (0.3%) ertugliflozin-treated patients and in 2 (0.1%) placebo-treated patients.
+Across seven other ertugliflozin clinical trials, ketoacidosis was identified in 3 (0.1%) ertugliflozin-treated patients and 0.0% of comparator-treated patients [see Warnings and Precautions (5.3)].
+
 Volume Depletion
 
 Ertugliflozin causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion, particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2).
 In patients with moderate renal impairment, adverse reactions related to volume depletion (e.g., dehydration, dizziness postural, presyncope, syncope, hypotension, and orthostatic hypotension) were reported in 0%, 4.4%, and 1.9% of patients treated with placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively.
 Ertugliflozin may also increase the risk of hypotension in other patients at risk for volume contraction [see Use in Specific Populations (8.5, 8.6)].
 
-Ketoacidosis
-
-Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) ertugliflozin-treated patients and 0.0% of comparator-treated patients [see Warnings and Precautions (5.3)].
-
-Impairment in Renal Function
-
-Treatment with ertugliflozin was associated with increases in serum creatinine and decreases in eGFR (see Table 2).
-Patients with moderate renal impairment at baseline had larger mean changes.
-In a study in patients with moderate renal impairment, these abnormal laboratory findings were observed to reverse after treatment discontinuation [see Use in Specific Populations (8.5, 8.6)].
-
-Table 2: Changes from Baseline in Serum Creatinine and eGFR in the Pool of Three 26-Week Placebo-Controlled Studies and a 26-Week Moderate Renal Impairment Study in Patients with Type 2 Diabetes Mellitus
-
-|  |  | Pool of 26-Week Placebo-Controlled Studies |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Placebo N = 515 | Ertugliflozin 5 mg N = 519 | Ertugliflozin 15 mg N = 510 |
-| Baseline Mean | Creatinine (mg/dL) | 0.83 | 0.82 | 0.82 |
-| eGFR (mL/min/1.73 m2) | 89.5 | 88.2 | 89.0 |  |
-| Week 6 Change | Creatinine (mg/dL) | 0.00 | 0.03 | 0.03 |
-| eGFR (mL/min/1.73 m2) | -0.3 | -2.7 | -3.1 |  |
-| Week 26 Change | Creatinine (mg/dL) | -0.01 | 0.00 | 0.01 |
-| eGFR (mL/min/1.73 m2) | 0.7 | 0.5 | -0.6 |  |
-|  |  | Moderate Renal Impairment Study |  |  |
-|  |  | Placebo N = 154 | Ertugliflozin 5 mg N = 154 | Ertugliflozin 15 mg N = 154 |
-| Baseline | Creatinine (mg/dL) | 1.39 | 1.38 | 1.37 |
-| eGFR (mL/min/1.73 m2) | 46.0 | 46.8 | 46.9 |  |
-| Week 6 Change | Creatinine (mg/dL) | -0.02 | 0.11 | 0.12 |
-| eGFR (mL/min/1.73 m2) | 0.6 | -3.2 | -4.1 |  |
-| Week 26 Change | Creatinine (mg/dL) | 0.02 | 0.08 | 0.10 |
-| eGFR (mL/min/1.73 m2) | 0.0 | -2.7 | -2.6 |  |
-
-Renal-related adverse reactions (e.g., acute kidney injury, renal impairment, acute prerenal failure) may occur in patients treated with ertugliflozin, particularly in patients with moderate renal impairment where the incidence of renal-related adverse reactions was 0.6%, 2.5%, and 1.3% in patients treated with placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively.
-
-Lower Limb Amputation
-
-Across seven Phase 3 clinical trials in which ertugliflozin was studied as monotherapy and in combination with other antihyperglycemic agents, non-traumatic lower limb amputations occurred in 1 of 1,450 (0.1%) in the non-ertugliflozin group, 3 of 1,716 (0.2%) in the ertugliflozin 5 mg group, and 8 of 1,693 (0.5%) in the ertugliflozin 15 mg group.
-
 Hypoglycemia
 
-The incidence of hypoglycemia by study is shown in Table 3.
+The incidence of hypoglycemia by study is shown in Table 2.
 
-Table 3: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
+Table 2: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
 Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
 | Add-on Combination Therapy with Metformin (26 weeks) | Placebo (N = 209) | Ertugliflozin 5 mg (N = 207) | Ertugliflozin 15 mg (N = 205) |
@@ -110,6 +77,12 @@ Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diab
 | Add-on Combination Therapy with Metformin and Sitagliptin (26 weeks) | Placebo (N = 153) | Ertugliflozin 5 mg (N = 156) | Ertugliflozin 15 mg (N = 153) |
 | Overall [N (%)] | 5 (3.3) | 7 (4.5) | 3 (2.0) |
 | Severe [N (%)] | 1 (0.7) | 1 (0.6) | 0 (0.0) |
+| Add-on Combination with Insulin with or without Metformin (18 weeks) | Placebo (N = 347) | Ertugliflozin 5 mg (N = 348) | Ertugliflozin 15 mg (N = 370) |
+| Overall [N (%)] | 130 (37.5) | 137 (39.4) | 144 (38.9) |
+| Severe [N (%)] | 12 (3.5) | 13 (3.7) | 19 (5.1) |
+| Add-on Combination with Metformin and a Sulfonylurea (18 weeks) | Placebo (N = 117) | Ertugliflozin 5 mg (N = 100) | Ertugliflozin 15 mg (N = 113) |
+| Overall [N (%)] | 17 (14.5) | 20 (20.0) | 30 (26.5) |
+| Severe [N (%)] | 1 (0.9) | 2 (2.0) | 2 (1.8) |
 
 Genital Mycotic Infections
 
@@ -121,21 +94,34 @@ Male genital mycotic infections occurred more commonly in uncircumcised males.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.2% of patients treated with placebo and ertugliflozin, respectively.
 Phimosis was reported in 8 of 1,729 (0.5%) male ertugliflozin-treated patients, of which four required circumcision.
 
+Urinary Tract Infections
+
+In VERTIS CV urinary tract infections (e.g., urinary tract infection, cystitis, dysuria) occurred in 10.2%, 12.2% and 12.0% of patients treated with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
+The incidences of serious urinary tract infections were 0.8%, 0.9% and 0.4% with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
+
 Metformin
 
 The most common (5% or greater incidence) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea, vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption, which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia).
+In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 Laboratory Tests
 
 Ertugliflozin
 
+Changes in Serum Creatinine and eGFR
+
+Initiation of ertugliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a long-term cardiovascular outcomes trial, an initial increase in serum creatinine and a decrease in eGFR within weeks of starting therapy was observed (at Week 6 eGFR changes of -2.7, -3.8 and -0.4 mL/min/1.73 m2 in the ertugliflozin 5 mg, ertugliflozin 15 mg and placebo arms, respectively).
+The initial decline was followed by a recovery toward baseline to Week 52 (eGFR change from baseline of - 0.4, - 1.1 and - 0.2 mL/min/1.73 m2 in ertugliflozin 5 mg, ertugliflozin 15 mg, and placebo arms, respectively).
+Acute hemodynamic changes may play a role in the early renal function changes observed with ertugliflozin since they are reversed after treatment discontinuation.
+
 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
 
 In the pool of three placebo-controlled trials, dose-related increases in LDL-C were observed in patients treated with ertugliflozin.
 Mean percent changes from baseline to Week 26 in LDL-C relative to placebo were 2.6% and 5.4% with ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
-The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups [see Warnings and Precautions (5.11)].
+The range of mean baseline LDL-C was 96.6 to 97.7 mg/dL across treatment groups.
 
 Increases in Hemoglobin
 
@@ -149,14 +135,11 @@ In the pool of three placebo-controlled trials, mean changes (percent changes) f
 The range of mean baseline serum phosphate was 3.53 to 3.54 mg/dL across treatment groups.
 In a clinical trial of patients with moderate renal impairment, mean changes (mean percent changes) from baseline at Week 26 in serum phosphate were -0.01 mg/dL (0.8%) with placebo, 0.29 mg/dL (9.7%) with ertugliflozin 5 mg, and 0.24 mg/dL (7.8%) with ertugliflozin 15 mg.
 
-Metformin
-
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation [see Warnings and Precautions (5.10)].
-
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use.
+Additional adverse reactions have been identified during post approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Cases of necrotizing fasciitis of the perineum (Fournier's gangrene) have been seen with SGLT2 inhibitors [see Warnings and Precautions (5.8)]
+- Necrotizing fasciitis of the perineum (Fournier’s Gangrene)
+- Angioedema
+- Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.

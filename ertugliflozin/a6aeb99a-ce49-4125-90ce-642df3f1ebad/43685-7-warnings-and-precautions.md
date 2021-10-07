@@ -2,9 +2,9 @@
 
 ## 5.1 Lactic Acidosis
 
-There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of SEGLUROMET.
@@ -19,10 +19,9 @@ Renal Impairment: The postmarketing metformin-associated lactic acidosis cases p
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 - Before initiating SEGLUROMET, obtain an eGFR.
-- SEGLUROMET is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2.
-- Initiation of SEGLUROMET is not recommended in patients with an eGFR of 30 mL/minute/1.73 m2 to less than 60 mL/min/1.73 m2.
-- Continued use of SEGLUROMET is not recommended when eGFR is persistently between 30 and less than 60 mL/min/1.73 m2.
-- Renal function should be evaluated prior to initiating SEGLUROMET and periodically thereafter.
+- Use of SEGLUROMET is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2.
+- SEGLUROMET is contraindicated in patients with severe renal impairment (an eGFR less than 30 mL/min/1.73 m2), end stage-renal disease (ESRD), or on dialysis.
+- Obtain an eGFR at least annually in all patients taking SEGLUROMET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
 Drug Interactions: The concomitant use of SEGLUROMET with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7)].
@@ -49,18 +48,11 @@ Hepatic Impairment: Patients with hepatic impairment have developed metformin-as
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of SEGLUROMET in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.2 Hypotension
+## 5.2 Ketoacidosis
 
-Ertugliflozin, a component of SEGLUROMET, causes intravascular volume contraction.
-Therefore, symptomatic hypotension may occur after initiating SEGLUROMET [see Adverse Reactions (6.1)] particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients (≥65 years), in patients with low systolic blood pressure, and in patients on diuretics.
-Before initiating SEGLUROMET, volume status should be assessed and corrected if indicated.
-Monitor for signs and symptoms of hypotension after initiating therapy.
-
-## 5.3 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors and cases have been reported in ertugliflozin-treated patients in clinical trials.
-Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) of ertugliflozin-treated patients and 0% of comparator-treated patients.
-Fatal cases of ketoacidosis have been reported in patients taking medicines containing SGLT2 inhibitors.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors including ertugliflozin [see Adverse Reactions (6.1)].Fatal cases of ketoacidosis have been reported in patients taking medicines containing SGLT2 inhibitors.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
+The risk of ketoacidosis may be greater with higher doses.
 SEGLUROMET is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with SEGLUROMET who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with SEGLUROMET may be present even if blood glucose levels are less than 250 mg/dL.
@@ -80,55 +72,46 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting SEGLUROMET
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue SEGLUROMET and seek medical attention immediately if signs and symptoms occur.
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.3 Lower Limb Amputation
 
-SEGLUROMET causes intravascular volume contraction and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury some requiring hospitalization and dialysis in patients receiving SGLT2 inhibitors.
+In a long-term cardiovascular outcomes study [see Clinical Studies 14.2], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
 
-Before initiating SEGLUROMET, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing SEGLUROMET in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue SEGLUROMET promptly and institute treatment.
+Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
+Some patients had multiple amputations, some involving both lower limbs.
 
-Ertugliflozin, a component of SEGLUROMET, increases serum creatinine and decreases eGFR.
-Patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating SEGLUROMET [see Adverse Reactions (6.1)].
-Renal function should be evaluated prior to initiating SEGLUROMET and periodically thereafter.
-Use of SEGLUROMET is not recommended when eGFR is persistently between 30 mL/min/1.73 m2 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
+Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
+Patients with amputations were more likely to be male, have higher A1C (%) at baseline, have a history of peripheral arterial disease, amputation or peripheral revascularization procedure, diabetic foot, and to have been taking diuretics or insulin.
 
-## 5.5 Urosepsis and Pyelonephritis
-
-There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving medicines containing SGLT2 inhibitors.
-Cases of pyelonephritis also have been reported in ertugliflozin-treated patients in clinical trials.
-Treatment with medicines containing SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.1)].
-
-## 5.6 Lower Limb Amputation
-
-An increased risk for lower limb amputation (primarily of the toe) has been observed in clinical studies with another SGLT2 inhibitor.
-Across seven Phase 3 clinical trials in the ertugliflozin development program, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
-A causal association between ertugliflozin and lower limb amputation has not been definitively established.
+Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
 
 Before initiating SEGLUROMET, consider factors in the patient history that may predispose them to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving SEGLUROMET for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue SEGLUROMET if these complications occur.
 
-## 5.7 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.4 Volume Depletion
 
-Ertugliflozin
+SEGLUROMET can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including SEGLUROMET.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2) [see Use in Specific Populations (8.6)], elderly patients, patients with low systolic blood pressure, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating SEGLUROMET in patients with one or more of these characteristics, assess volume status and renal function.
+In patients with volume depletion, correct this condition before initiating SEGLUROMET.
+Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
+
+## 5.5 Urosepsis and Pyelonephritis
+
+There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving medicines containing SGLT2 inhibitors.
+Treatment with medicines containing SGLT2 inhibitors increases the risk for urinary tract infections.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
-Ertugliflozin, a component of SEGLUROMET, may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
+SEGLUROMET may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with SEGLUROMET.
 
-Metformin
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Hypoglycemia does not occur in patients receiving metformin, a component of SEGLUROMET, alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
-Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
-
-## 5.8 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors.
+Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including ertugliflozin.
 Cases have been reported in females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
@@ -136,26 +119,15 @@ Patients treated with SEGLUROMET presenting with pain or tenderness, erythema, o
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue SEGLUROMET, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.9 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
-Ertugliflozin, a component of SEGLUROMET, increases the risk of genital mycotic infections.
+Ertugliflozin increases the risk of genital mycotic infections.
 Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.10 Vitamin B12 Levels
+## 5.9 Vitamin B12 Deficiency
 
-In controlled clinical trials of metformin, a component of SEGLUROMET, of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on SEGLUROMET and any apparent abnormalities should be appropriately investigated and managed.
-
+In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
-
-## 5.11 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Dose-related increases in LDL-C can occur with ertugliflozin, a component of SEGLUROMET [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
-
-## 5.12 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SEGLUROMET.
+Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on metformin and manage any abnormalities [see Adverse Reactions (6.1)].

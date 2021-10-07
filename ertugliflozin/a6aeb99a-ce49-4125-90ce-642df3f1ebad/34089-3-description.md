@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SEGLUROMET (ertugliflozin and metformin hydrochloride) tablet for oral use contains ertugliflozin L-pyroglutamic acid, a SGLT2 inhibitor, and metformin hydrochloride, a member of the biguanide class.
+SEGLUROMET (ertugliflozin and metformin hydrochloride) tablet for oral use contains ertugliflozin L-pyroglutamic acid, a SGLT2 inhibitor, and metformin HCl, a member of the biguanide class.
 
 Ertugliflozin
 
@@ -11,22 +11,22 @@ The chemical structure is:
 
 Ertugliflozin L-pyroglutamic acid is a white to off-white powder that is soluble in ethyl alcohol and acetone, slightly soluble in ethyl acetate and acetonitrile and very slightly soluble in water.
 
-Metformin hydrochloride
+Metformin HCl
 
 Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 The structural formula is as shown:
 
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
+Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 
 SEGLUROMET is available as film-coated tablets containing:
 
-- 3.24 mg ertugliflozin L-pyroglutamic acid equivalent to 2.5 mg of ertugliflozin and 500 mg metformin hydrochloride (SEGLUROMET 2.5/500)
-- 3.24 mg ertugliflozin L-pyroglutamic acid equivalent to 2.5 mg of ertugliflozin and 1,000 mg metformin hydrochloride (SEGLUROMET 2.5/1000)
-- 9.71 mg ertugliflozin L-pyroglutamic acid equivalent to 7.5 mg of ertugliflozin and 500 mg metformin hydrochloride (SEGLUROMET 7.5/500)
-- 9.71 mg ertugliflozin L-pyroglutamic acid equivalent to 7.5 mg of ertugliflozin and 1,000 mg metformin hydrochloride (SEGLUROMET 7.5/1000)
+- 3.24 mg ertugliflozin L-pyroglutamic acid equivalent to 2.5 mg of ertugliflozin and 500 mg metformin HCl (SEGLUROMET 2.5/500)
+- 3.24 mg ertugliflozin L-pyroglutamic acid equivalent to 2.5 mg of ertugliflozin and 1,000 mg metformin HCl (SEGLUROMET 2.5/1000)
+- 9.71 mg ertugliflozin L-pyroglutamic acid equivalent to 7.5 mg of ertugliflozin and 500 mg metformin HCl (SEGLUROMET 7.5/500)
+- 9.71 mg ertugliflozin L-pyroglutamic acid equivalent to 7.5 mg of ertugliflozin and 1,000 mg metformin HCl (SEGLUROMET 7.5/1000)
 
 Inactive ingredients are povidone, microcrystalline cellulose, crospovidone, sodium lauryl sulfate, and magnesium stearate.
 
