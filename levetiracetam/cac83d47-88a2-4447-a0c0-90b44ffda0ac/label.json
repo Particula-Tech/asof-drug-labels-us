@@ -5,8 +5,10 @@
   "inn": "levetiracetam",
   "labeler": "TRIPOINT THERAPEUTICS, LLC",
   "package_ndcs": [
+    "80705-100-02",
     "80705-100-30",
     "80705-100-99",
+    "80705-101-02",
     "80705-101-30",
     "80705-101-99"
   ],
@@ -17,7 +19,7 @@
       "name": "ELEPSIA XR 1000 MG"
     },
     {
-      "form": "TABLET, CHEWABLE, EXTENDED RELEASE",
+      "form": "TABLET, EXTENDED RELEASE",
       "generic": "levetiracetam",
       "name": "ELEPSIA XR 1500 MG"
     }
