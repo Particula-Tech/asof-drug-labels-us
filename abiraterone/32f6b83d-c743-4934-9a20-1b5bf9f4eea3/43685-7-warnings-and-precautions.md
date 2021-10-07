@@ -7,13 +7,16 @@ Monitor patients for hypertension, hypokalemia, and fluid retention at least onc
 Control hypertension and correct hypokalemia before and during treatment with abiraterone acetate.
 In the combined data from 4 placebo-controlled trials using prednisone 5 mg twice daily in combination with 1,000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 4% of patients on the abiraterone acetate arm and 2% of patients on the placebo arm.
 Grades 3-4 hypertension were observed in 2% of patients each arm and grades 3-4 fluid retention in 1% of patients each arm.
+
+In LATITUDE (a randomized placebo-controlled, multicenter clinical trial), which used prednisone 5 mg daily in combination with 1000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 10% of patients on the abiraterone acetate arm and 1% of patients on the placebo arm, grades 3-4 hypertension were observed in 20% of patients on the abiraterone acetate arm and 10% of patients on the placebo arm.
+Grades 3-4 fluid retention occurred in 1% of patients each arm [see Adverse Reactions (6)].
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
 In postmarketing experience, QT prolongation and Torsades de Pointes have been observed in patients who develop hypokalemia while taking abiraterone acetate.
-The safety of abiraterone acetate in patients with left ventricular ejection fraction <50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
+The safety of abiraterone acetate in patients with left ventricular ejection fraction <50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302 and LATITUDE) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
 
 ## 5.2 Adrenocortical Insufficiency
 
-Adrenal insufficiency occurred in 0.3% of 2,230 patients taking abiraterone acetate and in 0.1% of 1,763 patients taking placebo in the combined data of the randomized, placebo-controlled clinical studies.
+Adrenal insufficiency occurred in 0.3% of 2,230 patients taking abiraterone acetate and in 0.1% of 1,763 patients taking placebo in the combined data of the 5 randomized, placebo-controlled clinical studies.
 Adrenocortical insufficiency was reported in patients receiving abiraterone acetate in combination with prednisone, following interruption of daily steroids and/or with concurrent infection or stress.
 Monitor patients for symptoms and signs of adrenocortical insufficiency, particularly if patients are withdrawn from prednisone, have prednisone dose reductions, or experience unusual stress.
 Symptoms and signs of adrenocortical insufficiency may be masked by adverse reactions associated with mineralocorticoid excess seen in patients treated with abiraterone acetate.
@@ -23,7 +26,7 @@ Increased dosage of corticosteroids may be indicated before, during and after st
 ## 5.3 Hepatotoxicity
 
 In postmarketing experience, there have been abiraterone acetate–associated severe hepatic toxicity, including fulminant hepatitis, acute liver failure and deaths [see Adverse Reactions (6.2)].
-In the combined data of randomized clinical trials, grade 3-4 ALT or AST increases (at least 5X ULN) were reported in 6% of 2230 patients who received abiraterone acetate, typically during the first 3 months after starting treatment.
+In the combined data of 5 randomized clinical trials, grade 3-4 ALT or AST increases (at least 5X ULN) were reported in 6% of 2230 patients who received abiraterone acetate, typically during the first 3 months after starting treatment.
 Patients whose baseline ALT or AST were elevated were more likely to experience liver test elevation than those beginning with normal values.
 Treatment discontinuation due to ALT and AST increases or abnormal hepatic function occurred in 1.1% of 2230 patients taking abiraterone acetate.
 In these clinical trials, no deaths clearly related to abiraterone acetate were reported due to hepatotoxicity events.

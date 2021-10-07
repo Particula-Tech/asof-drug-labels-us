@@ -19,7 +19,7 @@ You should not start or stop any medicine before you talk with the healthcare pr
 Know the medicines you take.
 Keep a list of them with you to show to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take Abiraterone acetate tablets?
+How should I take abiraterone acetate tablets?
 
 - Take abiraterone acetate tablets and prednisone exactly as your healthcare provider tells you.
 - Take your prescribed dose of abiraterone acetate tablets 1 time a day.
@@ -35,7 +35,7 @@ How should I take Abiraterone acetate tablets?
   If you miss more than 1 dose, tell your healthcare provider right away.
 - Your healthcare provider will do blood tests to check for side effects.
 
-What are the possible side effects of Abiraterone acetate tablets ?
+What are the possible side effects of abiraterone acetate tablets?
 
 Abiraterone acetate tablets may cause serious side effects including: • High blood pressure (hypertension), low blood potassium levels (hypokalemia), fluid retention (edema), and irregular heartbeats can happen during treatment with abiraterone acetate tablets.
 This can be life threatening.
@@ -43,7 +43,7 @@ To decrease the chance of this happening, you must take prednisone with abirater
 Your healthcare provider will check your blood pressure, do blood tests to check your potassium levels, and check for any signs and symptoms of fluid retention every month during treatment with abiraterone acetate tablets.
 Tell your healthcare provider if you get any of the following symptoms:
 
-o dizziness o confusion o fast or irregular heartbeats o muscle weakness o feel faint or lightheaded o pain in your legs o headache o swelling in your legs or feet
+o dizziness o confusion o fast or irregular heartbeats o muscle weakness o feet faint or lightheaded o pain in your legs o headache o swelling in your legs or feet
 
 • Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress. • Severe l iver problems.
 You may develop changes in liver function blood test.
@@ -86,7 +86,8 @@ Do not use abiraterone acetate tablets for a condition for which it was not pres
 Do not give abiraterone acetate tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 You can ask your healthcare provider or pharmacist for information about abiraterone acetate tablets that is written for health professionals.
-For more information, call msn at 1-855-668-2369 or go to www.msnlabs.com What are the ingredients of abiraterone acetate tablets?
+For more information, go to www.novadozpharma.com or call 1-855-668-2369.
+What are the ingredients of abiraterone acetate tablets?
 Active ingredient: abiraterone acetate Inactive ingredients: 250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Revised: 01/2021
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Revised: 07/2021

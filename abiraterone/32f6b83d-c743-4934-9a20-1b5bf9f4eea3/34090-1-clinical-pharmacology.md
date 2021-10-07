@@ -23,7 +23,7 @@ However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone a
 
 Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.
 In vivo, abiraterone acetate is converted to abiraterone.
-In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (<0.2 ng/mL) in >99% of the analysed samples.
+In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (<0.2 ng/mL) in >99% of the analyzed samples.
 Absorption Following oral administration of abiraterone acetate to patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours.
 Abiraterone accumulation is observed at steady-state, with a 2-fold higher exposure (steady-state AUC) compared to a single 1,000 mg dose of abiraterone acetate.
 At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of C max were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL.
