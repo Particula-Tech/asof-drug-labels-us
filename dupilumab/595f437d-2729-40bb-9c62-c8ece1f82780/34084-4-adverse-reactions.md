@@ -20,6 +20,10 @@ A total of 739 subjects were treated with DUPIXENT for at least 1 year in the de
 Trials 1, 2, and 4 compared the safety of DUPIXENT monotherapy to placebo through Week 16.
 Trial 3 compared the safety of DUPIXENT + TCS to placebo + TCS through Week 52.
 
+Trial 9 is a multicenter, open-label extension (OLE) study which assessed the long-term safety of repeat doses of DUPIXENT (through 148 weeks of treatment) in adults with moderate-to-severe AD who had previously participated in controlled studies of DUPIXENT or had been screened for Trial 1 or Trial 2.
+The safety data in Trial 9 reflect exposure to DUPIXENT in 2677 subjects, including 2254 exposed for at least 52 weeks, 1192 exposed for at least 100 weeks, and 357 exposed for at least 148 weeks.
+In Trial 9, 99.7% of subjects were exposed to DUPIXENT 300 mg weekly dosing (QW).
+
 Weeks 0 to 16 (Trials 1 to 4)
 
 In DUPIXENT monotherapy trials (Trials 1, 2, and 4) through Week 16, the proportion of subjects who discontinued treatment because of adverse events was 1.9% in both the DUPIXENT 300 mg Q2W and placebo groups.
@@ -46,6 +50,10 @@ In the DUPIXENT with concomitant TCS trial (Trial 3) through Week 52, the propor
 Two subjects discontinued DUPIXENT because of adverse reactions: atopic dermatitis (1 subject) and exfoliative dermatitis (1 subject).
 
 The safety profile of DUPIXENT + TCS through Week 52 was generally consistent with the safety profile observed at Week 16.
+
+Safety through 148 Weeks (Trial 9)
+
+The long-term safety profile observed in this trial through 148 weeks was generally consistent with the safety profile of DUPIXENT observed in controlled studies.
 
 Adolescents with Atopic Dermatitis (12 to 17 Years of Age)
 
@@ -121,9 +129,13 @@ Specific Adverse Reactions
 
 Conjunctivitis and Keratitis
 
+In adult subjects with atopic dermatitis, conjunctivitis was reported in 10% (34 per 100 subject-years) in the 300 mg Q2W dose group and in 2% of the placebo group (8 per 100 subject-years) during the 16-week treatment period of the monotherapy trials (Trials 1, 2, and 4).
 During the 52-week treatment period of concomitant therapy atopic dermatitis trial (Trial 3), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 subject-years) and in 9% of the placebo + TCS group (10 per 100 subject-years).
+During the long-term OLE trial with data through 148 weeks (Trial 9), conjunctivitis was reported in 20% of the DUPIXENT group (12 per 100 subject-years).
+
 In DUPIXENT atopic dermatitis monotherapy trials (Trials 1, 2, and 4) through Week 16, keratitis was reported in <1% of the DUPIXENT group (1 per 100 subject-years) and in 0% of the placebo group (0 per 100 subject-years).
-In the 52-week atopic dermatitis DUPIXENT + topical corticosteroids (TCS) atopic dermatitis trial (Trial 3), keratitis was reported in 4% of the DUPIXENT + TCS group (12 per 100 subject-years) and in 0% of the placebo + TCS group (0 per 100 subject-years).
+In the 52-week atopic dermatitis DUPIXENT + topical corticosteroids (TCS) atopic dermatitis trial (Trial 3), keratitis was reported in 4% of the DUPIXENT + TCS group (4 per 100 subject-years) and in 2% of the placebo + TCS group (2 per 100 subject-years).
+During the long-term OLE trial with data through 148 weeks (Trial 9), keratitis was reported in 3% of the DUPIXENT group (2 per 100 subject-years).
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period.
 
 Among asthma subjects, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
@@ -132,11 +144,13 @@ In the 52-week CRSwNP study (CSNP Trial 2), the frequency of conjunctivitis was 
 Eczema Herpeticum and Herpes Zoster
 
 The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in the atopic dermatitis trials.
+The rates remained stable through 148 weeks in the long-term OLE trial (Trial 9).
 
-Herpes zoster was reported in <0.1% of the DUPIXENT groups (<1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week atopic dermatitis monotherapy trials.
+Herpes zoster was reported in <1% of the DUPIXENT groups (1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week atopic dermatitis monotherapy trials.
 In the 52-week DUPIXENT + TCS atopic dermatitis trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 subject-years) and 2% of the placebo + TCS group (2 per 100 subject-years).
-Among asthma subjects, the frequency of herpes zoster was similar between DUPIXENT and placebo.
-Among CRSwNP subjects, there were no reported cases of herpes zoster or eczema herpeticum.
+During the long-term OLE trial with data through 148 weeks (Trial 9), 1.9% of DUPIXENT-treated subjects reported herpes zoster (0.99 per 100 subject-years of follow up).
+Among asthma subjects the frequency of herpes zoster was similar between DUPIXENT and placebo.
+Among CRSwNP subjects there were no reported cases of herpes zoster or eczema herpeticum.
 
 Hypersensitivity Reactions
 
