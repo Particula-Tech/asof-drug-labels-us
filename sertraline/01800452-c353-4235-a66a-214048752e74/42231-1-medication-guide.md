@@ -80,6 +80,23 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking, or memory problems
 
+9.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including sertraline hydrochloride oral solution, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with sertraline hydrochloride oral solution.
+There may be treatments your healthcare provider can suggest.
 Do not stop sertraline hydrochloride oral solution without first talking to your healthcare provider.
 Stopping sertraline hydrochloride oral solution too quickly may cause serious symptoms including:
 
@@ -145,7 +162,6 @@ Before starting sertraline hydrochloride oral solution, tell your healthcare pro
   - bipolar disorder or mania
   - low sodium levels in your blood
   - or have had bleeding problems
-
 - are pregnant or plan to become pregnant.
   Your baby may have withdrawal symptoms after birth or may be at increased risk for a serious lung problem at birth.
   Talk to your healthcare provider about the benefits and risks of taking sertraline hydrochloride oral solution during pregnancy.
@@ -236,7 +252,7 @@ Inactive ingredients: alcohol (12%), natural peppermint flavor, propylene glycol
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
@@ -250,6 +266,6 @@ East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited
 
-Hyderabad-500 038, India
+Hyderabad-500 032, India
 
-Revised: 11/2018
+Revised: 10/2021
