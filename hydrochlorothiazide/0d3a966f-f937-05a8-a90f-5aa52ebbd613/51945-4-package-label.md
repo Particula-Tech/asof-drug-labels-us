@@ -4,7 +4,7 @@ Rx only
 
 ZESTORETIC® 10/12.5 (lisinopril/hydrochlorothiazide)
 
-Each tablet contains: 10 mg lisinopril and 12.5 mg hydrochlorothiazide
+Each tablet contains: 10 mg lisinopril, USP and 12.5 mg hydrochlorothiazide, USP
 
 90 tablets
 
@@ -14,7 +14,7 @@ Rx only
 
 ZESTORETIC® 20/12.5 (lisinopril/hydrochlorothiazide)
 
-Each tablet contains: 20 mg lisinopril and 12.5 mg hydrochlorothiazide
+Each tablet contains: 20 mg lisinopril, USP and 12.5 mg hydrochlorothiazide, USP
 
 90 tablets
 
@@ -24,6 +24,6 @@ Rx only
 
 ZESTORETIC® 20/25 (lisinopril/hydrochlorothiazide)
 
-Each tablet contains: 20 mg lisinopril and 25 mg hydrochlorothiazide
+Each tablet contains: 20 mg lisinopril, USP and 25 mg hydrochlorothiazide, USP
 
 90 tablets

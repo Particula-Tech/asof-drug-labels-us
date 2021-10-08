@@ -2,8 +2,9 @@
 
 ZESTORETIC is a trademark of Alvogen AZ IP Holdings LLC.
 
-Distributed by: Almatica Pharma, LLC.
-Morristown, NJ 07960 USA
+Product of USA
 
-PI435-08 Rev.
-08/2020
+Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
+
+PI435-09 Rev.
+07/2021
