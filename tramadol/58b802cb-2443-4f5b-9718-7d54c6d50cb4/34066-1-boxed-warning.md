@@ -9,7 +9,7 @@ OPIOID ANALGESIC RISK EVALUATION AND MITIGATION STRATEGY (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Healthcare providers are strongly encouraged to
+Healthcare providers are strongly encouraged to:
 
 - complete a REMS-compliant education program,
 - counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,

@@ -100,7 +100,7 @@ Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobi
 
 Sensory: Cataracts, Deafness, Tinnitus.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of tramadol hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -116,8 +116,9 @@ Many of these cases were reported in patients taking another drug labeled for QT
 
 Eye disorders – mydriasis
 
-Metabolism and nutrition disorders – Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
-Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
+Metabolism and nutrition disorders – Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.19)].
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.20)].
 
 Nervous system disorders – movement disorder, speech disorder
 

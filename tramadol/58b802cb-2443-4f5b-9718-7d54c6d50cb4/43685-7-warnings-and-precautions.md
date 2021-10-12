@@ -71,7 +71,7 @@ If naloxone is prescribed, educate patients and caregivers on how to treat with 
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
-Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Based upon post-marketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
 Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
@@ -252,3 +252,17 @@ In these patients, mixed agonist/antagonist and partial agonist analgesics may r
 
 Tramadol hydrochloride may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of tramadol hydrochloride and know how they will react to the medication [see Patient Counselling Information (17)].
+
+## 5.19 Hyponatremia
+
+Hyponatremia (serum sodium < 135 mmol/L) has been reported with the use of tramadol, and many cases are severe (sodium level < 120 mmol/L).
+Most cases of hyponatremia occurred in females over the age of 65 and within the first week of therapy.
+In some reports, hyponatremia resulted from the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Monitor for signs and symptoms of hyponatremia (e.g., confusion, disorientation), during treatment with tramadol hydrochloride, especially during initiation of therapy.
+If signs and symptoms of hyponatremia are present, initiate appropriate treatment (e.g., fluid restriction) and discontinue tramadol hydrochloride [see Dosage and Administration: Safe Reduction or Discontinuation of Tramadol Hydrochloride (2.5)].
+
+## 5.20 Hypoglycemia
+
+Cases of tramadol-associated hypoglycemia have been reported, some resulting in hospitalization.
+In most cases, patients had predisposing risk factors (e.g. diabetes).
+If hypoglycemia is suspected, monitor blood glucose levels and consider drug discontinuation as appropriate [see Dosage and Administration: Safe Reduction or Discontinuation of Tramadol Hydrochloride (2.5)].
