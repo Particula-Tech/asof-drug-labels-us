@@ -74,7 +74,25 @@ Symptoms may include:
 
 - Headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or memory problems
+- confusion, problems concentrating or thinking, memory problems
+
+9.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including sertraline hydrochloride tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with sertraline hydrochloride tablets.
+There may be treatments your healthcare provider can suggest.
 
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
@@ -212,4 +230,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 032, India Revised: 09/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 032, India Revised: 10/2021

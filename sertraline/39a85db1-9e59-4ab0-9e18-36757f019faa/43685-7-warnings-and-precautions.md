@@ -26,7 +26,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing sert
 
 ## 5.2 Serotonin Syndrome
 
-Serotonin-norepinephrine reuptake inhibitors (SNRIs) and SSRIs, including sertraline hydrochloride, can precipitate serotonin syndrome, a potentially life-threatening condition.
+Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), including sertraline hydrochloride, can precipitate serotonin syndrome, a potentially life-threatening condition.
 The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -92,3 +92,13 @@ During post-marketing use of sertraline, cases of QTc prolongation and Torsade d
 Most reports were confounded by other risk factors.
 In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
 Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
+
+## 5.11 Sexual Dysfunction
+
+Use of SSRIs, including sertraline hydrochloride, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of sertraline hydrochloride and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
