@@ -14,4 +14,4 @@
   Until it is reasonably well established that Meropenem for Injection is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.9)].
 
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India
