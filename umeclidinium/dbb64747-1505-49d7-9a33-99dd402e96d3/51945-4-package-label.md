@@ -22,4 +22,3 @@ Made in Singapore
 
 1. 10000000147473 Rev.
    9/17
-2. 
