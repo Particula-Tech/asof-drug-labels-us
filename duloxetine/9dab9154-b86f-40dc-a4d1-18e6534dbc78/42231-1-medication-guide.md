@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Duloxetine (doo lox' e teen) Delayed-Release Capsules
+Medication Guide Duloxetine (doo lox' e teen) Delayed-Release Capsules
 
 Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -122,7 +122,7 @@ Especially tell your healthcare provider if you take:
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
 - theophylline
 - the blood thinner warfarin (Coumadin, Jantoven)
-- non-steroidal anti-inflammatory drug (NSAID)(like ibuprofen, naproxen or aspirin).
+- non-steroidal anti-inflammatory drug (NSAID) (like ibuprofen, naproxen or aspirin).
 - over-the-counter supplements such as tryptophan or St. John’s Wort
 - thioridazine (Mellaril).
   Mellaril together with duloxetine delayed-release capsules can cause serious heart rhythm problems or sudden death.
@@ -234,7 +234,8 @@ You may want to undergo an eye examination to see if you are at risk and receive
 10. low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 
-- Symptoms may include:
+Symptoms may include:
+
 - headache
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
@@ -244,6 +245,23 @@ Symptoms may include:
 
 - decreased urine flow
 - unable to pass any urine
+
+12. sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including duloxetine delayed-release capsules, may cause sexual problems.
+
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with duloxetine delayed-release capsules.
+There may be treatments your healthcare provider can suggest.
 
 The most common side effects of duloxetine delayed-release capsules include:
 
@@ -290,22 +308,20 @@ This Medication Guide summarizes the most important information about duloxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about duloxetine delayed-release capsules that is written for healthcare professionals.
 
-For more information about duloxetine delayed-release capsules call Actavis at 1-888-838-2872.
+For more information about duloxetine delayed-release capsules call Teva at 1-888-838-2872.
 
 What are the ingredients in duloxetine delayed-release capsules?
 
 Active ingredient: duloxetine hydrochloride
 
-Inactive ingredients: ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hydroxypropyl methylcellulose phthalate, hypromellose, potassium hydroxide, propylene glycol, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
+Inactive ingredients: ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hypromellose, hypromellose phthalate, potassium hydroxide, propylene glycol, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue #1 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Brands listed are trademarks of their respective owners.
 
-Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
-
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 9/2020
+D 9/2021

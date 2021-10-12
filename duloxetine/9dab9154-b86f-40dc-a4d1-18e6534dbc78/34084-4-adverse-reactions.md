@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.2)]
 - Orthostatic Hypotension, Falls and Syncope [see Warnings and Precautions (5.3)]
 - Serotonin Syndrome [see Warnings and Precautions (5.4)]
@@ -16,6 +16,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Clinically Important Drug Interactions [see Warnings and Precautions (5.12)]
 - Hyponatremia [see Warnings and Precautions (5.13)]
 - Urinary Hesitation and Retention [see Warnings and Precautions (5.15)]
+- Sexual Dysfunction [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -53,7 +54,7 @@ Common adverse reactions reported as a reason for discontinuation and considered
 
 Fibromyalgia
 
-Approximately 17.5% (227/1294) of the duloxetine delayed-release capsule-treated patients in 3 to 6 month placebo-controlled adult trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo-treated patients.
+Approximately 17.5% (227/1294) of the duloxetine delayed-release capsule-treated patients in 3- to 6-month placebo-controlled adult trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo-treated patients.
 Adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 2.0%, placebo 0.5%), headache (duloxetine delayed-release capsules 1.2%, placebo 0.3%), somnolence (duloxetine delayed-release capsules 1.1%, placebo 0%), and fatigue (duloxetine delayed-release capsules 1.1%, placebo 0.1%).
 
 Chronic Pain due to Osteoarthritis
@@ -97,12 +98,12 @@ Table 2: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in 
 | Decreased appetitec | 7 | 2 |
 | Hyperhidrosisc | 6 | 1 |
 | Abdominal painf | 5 | 4 |
-| aIncludes adults with MDD, GAD, DPNP, FM, and chronic musculoskeletal pain. The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bAlso includes asthenia. |  |  |
-| cEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| dAlso includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| eAlso includes hypersomnia and sedation. |  |  |
-| fAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
+| a Includes adults with MDD, GAD, DPNP, FM, and chronic musculoskeletal pain. The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Also includes asthenia. |  |  |
+| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| d Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| e Also includes hypersomnia and sedation. |  |  |
+| f Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
 Adverse Reactions in Pooled MDD and GAD Trials in Adults
 
@@ -147,16 +148,16 @@ Table 3: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
-| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bFor GAD, there were no adverse reactions that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years |  |  |
-| cEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| dIncludes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| eIncludes asthenia |  |  |
-| fIncludes hypersomnia and sedation |  |  |
-| gIncludes initial insomnia, middle insomnia, and early morning awakening |  |  |
-| hIncludes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| iIncludes loss of libido |  |  |
-| jIncludes anorgasmia |  |  |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b For GAD, there were no adverse reactions that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years. |  |  |
+| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| d Includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| e Includes asthenia. |  |  |
+| f Includes hypersomnia and sedation. |  |  |
+| g Includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| h Includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity. |  |  |
+| i Includes loss of libido. |  |  |
+| j Includes anorgasmia. |  |  |
 
 Adverse Reactions in the DPNP, FM, OA, and CLBP Adult Trials
 
@@ -207,18 +208,18 @@ Table 4: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 | Vascular Disorders |  |  |
 | Flushingk | 3 | 1 |
 | Blood pressure increasedl | 2 | 1 |
-| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bIncidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
-| cIncludes abdominal discomfort, lower abdominal pain, upper abdominal pain, abdominal tenderness and gastrointestinal pain. |  |  |
-| dIncludes asthenia. |  |  |
-| eIncludes myalgia and neck pain. |  |  |
-| fIncludes hypersomnia and sedation. |  |  |
-| gIncludes hypoaesthesia, facial hypoaesthesia, genital hypoaesthesia and oral paraesthesia. |  |  |
-| hIncludes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| iIncludes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| jIncludes ejaculation failure |  |  |
-| kIncludes hot flush |  |  |
-| lIncludes increased diastolic blood pressure, increased systolic blood pressure, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension. |  |  |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
+| c Includes abdominal discomfort, lower abdominal pain, upper abdominal pain, abdominal tenderness and gastrointestinal pain. |  |  |
+| d Includes asthenia. |  |  |
+| e Includes myalgia and neck pain. |  |  |
+| f Includes hypersomnia and sedation. |  |  |
+| g Includes hypoaesthesia, facial hypoaesthesia, genital hypoaesthesia and oral paraesthesia. |  |  |
+| h Includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| i Includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity. |  |  |
+| j Includes ejaculation failure. |  |  |
+| k Includes hot flush. |  |  |
+| l Includes increased diastolic blood pressure, increased systolic blood pressure, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension. |  |  |
 
 Effects on Male and Female Sexual Function in Adults with MDD
 
@@ -227,6 +228,7 @@ Because adverse sexual reactions are presumed to be voluntarily underreported, t
 The ASEX scale includes five questions that pertain to the following aspects of sexual function: 1) sex drive, 2) ease of arousal, 3) ability to achieve erection (men) or lubrication (women), 4) ease of reaching orgasm, and 5) orgasm satisfaction.
 Positive numbers signify a worsening of sexual function from baseline.
 Negative numbers signify an improvement from a baseline level of dysfunction, which is commonly seen in depressed patients.
+
 In these trials, duloxetine delayed-release capsule-treated male patients experienced significantly more sexual dysfunction, as measured by the total score on the ASEX and the ability to reach orgasm, than placebo-treated male patients (see Table 5).
 Duloxetine delayed-release capsule-treated female patients did not experience more sexual dysfunction than placebo-treated female patients as measured by ASEX total score.
 Healthcare providers should routinely inquire about possible sexual adverse reactions in duloxetine delayed-release capsule-treated patients.
@@ -244,9 +246,9 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Adult Tr
 | (men); Lubrication (women) |  |  |  |  |
 | Item 4 - Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5 - Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
-| an=Number of patients with non-missing change score for ASEX total |  |  |  |  |
-| bp=0.013 versus placebo |  |  |  |  |
-| cp<0.001 versus placebo |  |  |  |  |
+| a n=Number of patients with non-missing change score for ASEX total. |  |  |  |  |
+| b p=0.013 versus placebo. |  |  |  |  |
+| c p<0.001 versus placebo. |  |  |  |  |
 
 Vital Sign Changes in Adults
 
@@ -295,11 +297,11 @@ The data described below reflect exposure to duloxetine delayed-release capsules
 Duloxetine delayed-release capsules are not approved for the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
 Of the duloxetine delayed-release capsule-treated patients in these studies, 36% were 7 to 11 years of age (64% were between 12 to 18 years old), 55% were female, and 69% were Caucasian.
 Patients received 30 to 120 mg of duloxetine delayed-release capsules per day during placebo-controlled acute treatment studies.
-In the pediatric MDD and GAD trials up to 40 weeks long, there were duloxetine delayed-release capsules-treated pediatric patients aged 7 to 17 years of age (most patients received 30 to 120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
+In the pediatric MDD and GAD trials up to 40 weeks long, there were duloxetine delayed-release capsules-treated pediatric patients aged 7 to 17 years of age (most patients received 30-120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
 
 Most Common Adverse Reactions in Pediatric Trials
 
-The most common adverse reactions (≥5% in duloxetine delayed-release capsule-treated patients and at least twice the incidence of placebo-treated patients) in all pooled pediatric populations (MDD and GAD) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
+The most common adverse reactions (≥5% in duloxetine delayed-release capsule-treated patients and at least twice the incidence of placebo-treated patients) in pooled pediatric populations (MDD and GAD) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
 
 Adverse Reactions in Pediatric Patients Aged 7 to 17 Years Old with MDD and GAD
 
@@ -307,7 +309,7 @@ The adverse reaction profile observed in clinical trials in pediatric patients a
 The most common (≥5% and twice placebo) adverse reactions observed in these pediatric clinical trials included: nausea, diarrhea, decreased weight, and dizziness.
 
 Table 6 provides the incidence of adverse reactions in MDD and GAD pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine delayed-release capsules and with an incidence greater than patients treated with placebo.
-Duloxetine delayed-release capsules are not approved in the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)]..
+Duloxetine delayed-release capsules are not approved in the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
 
 Table 6: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in Three 10-week Pediatric Placebo-Controlled Trials in MDD and GADa
 
@@ -336,12 +338,12 @@ Table 6: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Oropharyngeal Pain | 4 | 2 |
 | Cough | 3 | 1 |
-| aDuloxetine delayed-release capsules are not approved for the treatment of pediatric MDD [see Use in Specific Populations (8.4)].The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
-| cAlso includes asthenia. |  |  |
-| dFrequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 duloxetine delayed-release capsules; N=354 Placebo). |  |  |
-| eAlso includes hypersomnia and sedation. |  |  |
-| fAlso includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
+| a Duloxetine delayed-release capsules are not approved for the treatment of pediatric MDD [see Use in Specific Populations (8.4)]. The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| c Also includes asthenia. |  |  |
+| d Frequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 duloxetine delayed-release capsules; N=354 Placebo). |  |  |
+| e Also includes hypersomnia and sedation. |  |  |
+| f Also includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
 
 Other adverse reactions that occurred at an incidence of less than 2% and were reported by more duloxetine delayed-release capsule-treated patients than placebo-treated patients in pediatric MDD and GAD clinical trials included: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor (duloxetine delayed-release capsules are not approved to treat pediatric patients with MDD).
 

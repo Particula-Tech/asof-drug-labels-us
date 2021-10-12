@@ -33,26 +33,28 @@ Table 8: Summary of the Primary Efficacy Results for Adult Trials in MDD
 |  |  | Primary Efficacy Measure: HAMD-17 |  |  |
 | --- | --- | --- | --- | --- |
 | Study | Treatment Group | Mean Baseline | LS Mean Change | Placebo-subtracted |
-| Number |  | Score (SD) | from Baseline (SE) | Differencea(95% CI) |
-| MDD-1 | Duloxetine Delayed-Release Capsules (60 mg/day)b | 21.5 (4.10) | -10.9 (0.70) | -4.9 (-6.8, -2.9) |
+| Number |  | Score (SD) | from Baseline (SE) | Differencea (95% CI) |
+| Study MDD-1 | Duloxetine Delayed-Release Capsules (60 mg/day)b | 21.5 (4.10) | -10.9 (0.70) | -4.9 (-6.8, -2.9) |
 |  | Placebo | 21.1 (3.71) | -6.1 (0.69) | -- |
-| MDD-2 | Duloxetine Delayed-Release Capsules (60 mg/day)b | 20.3 (3.32) | -10.5 (0.71) | -2.2 (-4.0, -0.3) |
+| Study MDD-2 | Duloxetine Delayed-Release Capsules (60 mg/day)b | 20.3 (3.32) | -10.5 (0.71) | -2.2 (-4.0, -0.3) |
 |  | Placebo | 20.5 (3.42) | -8.3 (0.67) | -- |
-| MDD-3 | Duloxetine Delayed-Release Capsules (20 mg BID)b | 18.6 (5.85) | -7.4 (0.80) | -2.4 (-4.7, -0.2) |
+| Study MDD-3 | Duloxetine Delayed-Release Capsules (20 mg BID)b | 18.6 (5.85) | -7.4 (0.80) | -2.4 (-4.7, -0.2) |
 |  | Duloxetine Delayed-Release Capsules (40 mg BID)b | 18.1 (4.52) | -8.6 (0.81) | -3.6 (-5.9, -1.4) |
 |  | Placebo | 17.2 (5.11) | -5.0 (0.81) | -- |
-| MDD-4 | Duloxetine Delayed-Release Capsules (40 mg BID)b | 19.9 (3.54) | -11.0 (0.49) | -2.2 (-3.6, -0.9) |
+| Study MDD-4 | Duloxetine Delayed-Release Capsules (40 mg BID)b | 19.9 (3.54) | -11.0 (0.49) | -2.2 (-3.6, -0.9) |
 |  | Duloxetine Delayed-Release Capsules (60 mg BID)b | 20.2 (3.41) | -12.1 (0.49) | -3.3 (-4.7, -1.9) |
 |  | Placebo | 19.9 (3.58) | -8.8 (0.50) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
-| aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| bDoses statistically significantly superior to placebo. |  |  |  |  |
+| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| b Doses statistically significantly superior to placebo. |  |  |  |  |
 
 In Study MDD-5, 533 adult patients meeting DSM-IV criteria for MDD received duloxetine delayed-release capsules 60 mg once daily during an initial 12-week open-label treatment phase.
 Two hundred and seventy-eight patients who responded to open label treatment [defined as meeting the following criteria at weeks 10 and 12: a HAMD-17 total score ≤9, Clinical Global Impressions of Severity (CGI-S) ≤2, and not meeting the DSM-IV criteria for MDD] were randomly assigned to continuation of duloxetine delayed-release capsules at the same dosage (N=136) or to placebo (N=142) for 6 months.
 
 In Study MDD-5, patients on duloxetine delayed-release capsules experienced a statistically significantly longer time to relapse of depression than did patients on placebo (see Figure 1).
 Relapse was defined as an increase in the CGI-S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
+
+Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5)
 
 ## 14.3 Generalized Anxiety Disorder
 
@@ -96,7 +98,7 @@ Further dosage increases in 30 mg increments up to 120 mg once daily were allowe
 The mean dosage for patients completing the 10-week treatment phase was 57.6 mg/day.
 In this study, duloxetine delayed-release capsules (N=135) demonstrated superiority over placebo (N=137) from baseline to endpoint as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score (see Table 9).
 
-Table 9: Summary of the Primary Efficacy Results for Studies for GAD Trials
+Table 9: Summary of the Primary Efficacy Results for GAD Trials
 
 | Study |  | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
@@ -105,17 +107,19 @@ Table 9: Summary of the Primary Efficacy Results for Studies for GAD Trials
 | Study GAD-1(Adult) | Duloxetine Delayed-Release Capsules (60 mg/day)b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
 | (HAM-A) | Duloxetine Delayed-Release Capsules (120 mg/day)b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
 | Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |  |
-| Study GAD-2(Adult) | Duloxetine Delayed-Release Capsules (60 to 120 mg/day)b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
+| Study GAD-2(Adult) | Duloxetine Delayed-Release Capsules (60-120 mg/day)b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
 | (HAM-A) | Placebo | 23.5 (7.91) | -5.9 (0.70) | -- |
-| Study GAD-3(Adult) | Duloxetine Delayed-Release Capsules (60 to 120 mg/day)b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
+| Study GAD-3(Adult) | Duloxetine Delayed-Release Capsules (60-120 mg/day)b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
 | (HAM-A) | Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |
-| Study GAD-5(Geriatric) | Duloxetine Delayed-Release Capsules (60 to 120 mg/day)b | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
+| Study GAD-5(Geriatric) | Duloxetine Delayed-Release Capsules (60-120 mg/day)b | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
 | (HAM-A) | Placebo | 24.5 (7.05) | -11.7 (0.67) | -- |
-| Study GAD-6(Pediatric) | Duloxetine Delayed-Release Capsules (30 to 120 mg/day)b | 17.5 (1.98) | -9.7 (0.50) | -2.7 (-4.0, -1.3) |
+| Study GAD-6(Pediatric) | Duloxetine Delayed-Release Capsules (30-120 mg/day)b | 17.5 (1.98) | -9.7 (0.50) | -2.7 (-4.0, -1.3) |
 | (PARS for GAD) | Placebo | 17.4 (2.24) | -7.1 (0.50) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
 | a Difference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
 | b Dose statistically significantly superior to placebo. |  |  |  |  |
+
+Figure 2: Cumulative Proportiona of Adult Patients with GAD Relapse (Study GAD-4)
 
 ## 14.4 Diabetic Peripheral Neuropathic Pain in Adults
 
@@ -135,6 +139,10 @@ For various degrees of improvement in pain from baseline to study endpoint, Figu
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the trial.
+
+Figure 3: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-1)
+
+Figure 4: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-2)
 
 ## 14.5 Fibromyalgia
 
@@ -161,6 +169,10 @@ Some patients experienced a decrease in pain as early as week 1, which persisted
 Improvement was also demonstrated on measures of function (Fibromyalgia Impact Questionnaires) and patient global impression of change (PGI).
 Neither trial demonstrated a benefit of 120 mg compared to 60 mg, and a higher dosage was associated with more adverse reactions and premature discontinuations of treatment.
 
+Figure 5: Percentage of Adult Fibromyalgia Patients Achieving Various Levels of Pain Relief at Study Endpoint as Measured by 24-Hour Average Pain Severity (Study FM-1)
+
+Figure 6: Percentage of Adult Fibromyalgia Patients Achieving Various Levels of Pain Relief at Study Endpoint as Measured by 24-Hour Average Pain Severity (Study FM-2)
+
 Additionally, the benefit of up-titration in non-responders to duloxetine delayed-release capsules at 60 mg/day was evaluated in a separate trial (Study FM-3).
 Adult patients were initially treated with duloxetine delayed-release capsules 60 mg once daily for eight weeks in open-label fashion.
 
@@ -185,7 +197,7 @@ Patients in all trials had no signs of radiculopathy or spinal stenosis.
 Study CLBP-1: Two hundred thirty-six adult patients (N=115 on duloxetine delayed-release capsules, N=121 on placebo) enrolled and 182 (77%) completed 13-week treatment phase.
 After 7 weeks of treatment, duloxetine delayed-release capsule-treated patients with less than 30% reduction in average daily pain and who were able to tolerate 60 mg once daily had their duloxetine delayed-release capsules dosage, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the trial.
 Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
-After 13 weeks of treatment, patients taking duloxetine delayed-release capsules 60 mg to 120 mg daily had a significantly greater pain reduction compared to patients taking placebo.
+After 13 weeks of treatment, patients taking duloxetine delayed-release capsules 60-120 mg daily had a significantly greater pain reduction compared to patients taking placebo.
 Randomization was stratified by the patients’ baseline NSAIDs use status.
 Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
 
@@ -199,6 +211,10 @@ After 12 weeks of treatment, patients taking duloxetine delayed-release capsules
 For various degrees of improvement in pain from baseline to study endpoint, Figures 8 and 9 show the fraction of patients in Studies CLBP-1 and CLBP-3 achieving that degree of improvement, respectively.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned the value of 0% improvement.
+
+Figure 8: Percentage of Adult Patients with CLBP Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study CLBP-1)
+
+Figure 9: Percentage of Adult Patients with CLBP Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study CLBP-3)
 
 Trials in Chronic Pain Due to Osteoarthritis in Adults
 
@@ -225,3 +241,5 @@ After 13 weeks of treatment, patients taking duloxetine delayed-release capsules
 In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 10 shows the fraction of patients achieving that degree of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned the value of 0% improvement.
+
+Figure 10: Percentage of Adult Patients with OA Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study OA-1)

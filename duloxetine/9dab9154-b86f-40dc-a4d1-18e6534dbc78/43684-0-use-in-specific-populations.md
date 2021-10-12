@@ -38,7 +38,7 @@ It should be noted that, in some cases, the clinical picture is consistent with 
 
 Data Human Data
 
-Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08 to 2.18).
+Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08-2.18).
 The same study did not find a clinically meaningful increase in the risk for major birth defects in the comparison of 2532 women exposed to duloxetine in the first trimester of pregnancy to 1,284,827 unexposed women after adjusting for several confounders.
 Methodologic limitations include possible residual confounding, misclassification of exposure and outcomes, lack of direct measures of disease severity, and lack of information about alcohol use, nutrition, and over-the-counter medication exposures.
 
@@ -160,4 +160,4 @@ Limited data are available on the effects of duloxetine in patients with end-sta
 After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with ESRD receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
-Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].
+Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30-80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].

@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-- Suicidal Thoughts and Behaviors ― Advise patients, their families, and their caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down and instruct them to report such symptoms to their healthcare provider [see Boxed Warning, and Warnings and Precautions (5.1)].
+- Suicidal Thoughts and Behaviors ― Advise patients, their families, and their caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 - Administration ― Advise patients to swallow duloxetine delayed-release capsules whole and to not chew, crush, or open the capsule (do not sprinkle contents on food or mix with liquids) because these actions might affect the enteric coating.
 - Hepatotoxicity ― Inform patients that severe liver problems, sometimes fatal, have been reported in patients treated with duloxetine delayed-release capsules.
   Instruct patients to talk to their healthcare provider if they develop itching, right upper belly pain, dark urine, or yellow skin/eyes while taking duloxetine delayed-release capsules, which may be signs of liver problems.
@@ -32,6 +32,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Concomitant Illnesses ― Advise patients to inform their healthcare provider about all of their medical conditions [see Warnings and Precautions (5.14)].
 - Urinary Hesitation and Retention ― Duloxetine delayed-release capsules are in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
+- Sexual Dysfunction — Advise patients that use of duloxetine delayed-release capsules may cause symptoms of sexual dysfunction in both male and female patients.
+  Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
 - Pregnancy
 
 - Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with duloxetine delayed-release capsules.
@@ -41,11 +43,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 - Lactation ― Advise breastfeeding women using duloxetine delayed-release capsules to monitor infants for sedation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 - Interference with Psychomotor Performance ― Duloxetine delayed-release capsules may be associated with sedation and dizziness.
-  Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release capsules therapy does not affect their ability to engage in such activities
+  Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release capsules therapy does not affect their ability to engage in such activities.
 
-Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 9/2020
+D 9/2021

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -10,7 +10,7 @@ In female mice receiving duloxetine at 140 mg/kg/day (3 times the maximum recomm
 The no-effect dose was 50 mg/kg/day (1 time the MRHD given to children).
 Tumor incidence was not increased in male mice receiving duloxetine at doses up to 100 mg/kg/day (2 times the MRHD given to children).
 
-In rats, dietary doses of duloxetine up to 27 mg/kg/day in females (1 times the MRHD given to children) and up to 36 mg/kg/day in males (1.4 times the MRHD given to children) did not increase the incidence of tumors.
+In rats, dietary doses of duloxetine up to 27 mg/kg/day in females (1 time the MRHD given to children) and up to 36 mg/kg/day in males (1.4 times the MRHD given to children) did not increase the incidence of tumors.
 
 Mutagenesis
 
