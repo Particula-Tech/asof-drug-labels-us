@@ -1,6 +1,6 @@
 # PATIENT COUNSELING INFORMATION
 
-Advise the patient and family members or caregivers to read the FDA-approved patient labeling (Instructions for Use).
+Advise the patient and family members or caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Recognition of Severe Hypoglycemia
 

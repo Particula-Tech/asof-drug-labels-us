@@ -7,7 +7,7 @@ If the patient develops a substantial increase in blood pressure and a previousl
 
 5.2 Hypoglycemia in Patients with Insulinoma
 
-In patients with insulinoma, administration of glucagon may produce an initial increase in blood glucose; however, GVOKE administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma and cause hypoglycemia.
+In patients with insulinoma, administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma and cause hypoglycemia.
 GVOKE is contraindicated in patients with insulinoma [see Contraindications (4)].
 If a patient develops symptoms of hypoglycemia after a dose of GVOKE, give glucose orally or intravenously.
 

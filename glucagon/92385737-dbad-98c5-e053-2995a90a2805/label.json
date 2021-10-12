@@ -14,13 +14,20 @@
     "72065-130-99",
     "72065-131-11",
     "72065-131-12",
-    "72065-131-99"
+    "72065-131-99",
+    "72065-140-11",
+    "72065-141-11"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "glucagon injection, solution",
       "name": "Gvoke HypoPen"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glucagon injection, solution",
+      "name": "Gvoke Kit"
     },
     {
       "form": "INJECTION, SOLUTION",
