@@ -1,20 +1,21 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 Prior to initiation of caffeine citrate injection, baseline serum levels of caffeine should be measured in infants previously treated with theophylline, since preterm infants metabolize theophylline to caffeine.
+
 Likewise, baseline serum levels of caffeine should be measured in infants born to mothers who consumed caffeine prior to delivery, since caffeine readily crosses the placenta.
 
 The recommended loading dose and maintenance doses of caffeine citrate follow.
 
 |  | Dose of Caffeine Citrate Volume | Dose of Caffeine Citrate mg/kg | Route | Frequency |
 | --- | --- | --- | --- | --- |
-| Loading Dose | 1 mL/kg | 20 mg/kg | Intravenous* (over 30 minutes) | One Time |
+| Loading Dose | 1 mL/kg | 20 mg/kg | Intravenous* (over 30 minutes) | One time |
 | Maintenance Dose | 0.25 mL/kg | 5 mg/kg | Intravenous* (over 10 minutes) or Orally | Every 24 hours** |
+| *Using a syringe infusion pump |  |  |  |  |
+| **Beginning 24 hours after the loading dose |  |  |  |  |
 
-*using a syringe infusion pump
+NOTE THAT THE DOSE OF CAFFEINE BASE IS ONE-HALF THE DOSE WHEN EXPRESSED
 
-**beginning 24 hours after the loading dose
-
-NOTE THAT THE DOSE OF CAFFEINE BASE IS ONE-HALF THE DOSE WHEN EXPRESSED AS CAFFEINE CITRATE (e.g., 20 mg of caffeine citrate is equivalent to 10 mg of caffeine base).
+AS CAFFEINE CITRATE (e.g., 20 mg of caffeine citrate is equivalent to 10 mg of caffeine base).
 
 Serum concentrations of caffeine may need to be monitored periodically throughout treatment to avoid toxicity.
 Serious toxicity has been associated with serum levels greater than 50 mg/L.
@@ -31,18 +32,11 @@ The admixtures were then continually mixed for 24 hours, with further sampling f
 
 Based on this testing, caffeine citrate injection, 60 mg/3 mL is chemically stable for 24 hours at room temperature when combined with the following test products.
 
-• Dextrose Injection, USP 5%
-
-• 50% Dextrose Injection USP
-
-• Intralipid® 20% IV Fat Emulsion
-
-• Aminosyn® 8.5% Crystalline Amino Acid Solution
-
-• Dopamine HCI Injection, USP 40 mg/mL diluted to 0.6 mg/mL with Dextrose Injection, USP 5%
-
-• Calcium Gluconate Injection, USP 10% (0.465 mEq/Ca+2/mL)
-
-• Heparin Sodium Injection, USP 1,000 units/mL diluted to 1 unit/mL with Dextrose Injection, USP 5%
-
-• Fentanyl Citrate Injection, USP 50 mcg/mL diluted to 10 mcg/mL with Dextrose Injection, USP 5%
+- Dextrose Injection, USP 5%
+- 50% Dextrose Injection USP
+- Intralipid® 20% IV Fat Emulsion
+- Aminosyn® 8.5% Crystalline Amino Acid Solution
+- Dopamine HCl Injection, USP 40 mg/mL diluted to 0.6 mg/mL with Dextrose Injection, USP 5%
+- Calcium Gluconate Injection, USP 10% (0.465 mEq/Ca+2/mL)
+- Heparin Sodium Injection, USP 1,000 units/mL diluted to 1 unit/mL with Dextrose Injection, USP 5%
+- Fentanyl Citrate Injection, USP 50 mcg/mL diluted to 10 mcg/mL with Dextrose Injection, USP 5%
