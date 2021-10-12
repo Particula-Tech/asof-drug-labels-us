@@ -19,4 +19,7 @@ Table 15 displays the effects of other drugs on tacrolimus.
 | Other drugs, such as: Magnesium and aluminum hydroxide antacids Metoclopramide | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.11, 5.12)]. | Monitor tacrolimus whole blood trough concentrations and reduce tacrolimus dose if needed [see Dosage and Administration (2.2, 2.6) and Clinical Pharmacology (12.3)]. |
 | Mild or Moderate CYP3A Inducers Methylprednisolone, prednisone | May decrease tacrolimus concentrations. | Monitor tacrolimus whole blood trough concentrations and adjust tacrolimus dose if needed [see Dosage and Administration (2.2, 2.6)]. |
 
-Direct Acting Antiviral (DAA) Therapy
+### Direct Acting Antiviral (DAA) Therapy
+
+The pharmacokinetics of tacrolimus may be impacted by changes in liver function during DAA therapy, related to clearance of HCV virus.
+Close monitoring and potential dose adjustment of tacrolimus is warranted to ensure continued efficacy and safety [see Dosage and Administration (2.2, 2.6)].

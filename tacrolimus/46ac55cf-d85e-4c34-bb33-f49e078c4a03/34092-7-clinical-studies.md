@@ -11,7 +11,7 @@ Patients less than 6 years of age were excluded.
 
 There were 205 patients randomized to tacrolimus-based immunosuppression and 207 patients were randomized to cyclosporine-based immunosuppression.
 All patients received prophylactic induction therapy consisting of an antilymphocyte antibody preparation, corticosteroids, and azathioprine.
-Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
+Overall, 1-year patient and graft survivals were 96.1% and 89.6%, respectively.
 
 Data from this trial of tacrolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7 to 20 ng/mL, and then between 5 to 15 ng/mL, through 1 year.
 
@@ -165,3 +165,10 @@ In the European trial, the cyclosporine trough concentrations were above the pre
 Data from this European trial indicate that from 1 week to 3 months post-transplant, approximately 80% of patients maintained trough concentrations between 8 to 20 ng/mL and, from 3 months through 18 months post-transplant, approximately 80% of patients maintained trough concentrations between 6 to 18 ng/mL.
 
 The U.S. trial contained a third arm of a combination regimen of sirolimus, 2 mg per day, and full-dose tacrolimus; however, this regimen was associated with increased risk of wound-healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Warnings and Precautions (5.10)].
+
+## 14.4 Lung Transplantation
+
+The efficacy and safety of tacrolimus-based immunosuppression in primary lung transplantation were assessed in a noninterventional (observational) study using data from the U.S. Scientific Registry of Transplant Recipients (SRTR).
+The study analyzed outcomes based on discharge immunosuppression treatment regimen in recipients of a primary lung transplant between 1999 and 2017 who were alive at the time of discharge.
+In adult patients receiving tacrolimus immediate-release products in combination with MMF (n=15,478) or tacrolimus immediate-release products in combination with AZA (n=4,263), the one-year graft survival estimates from time of discharge were 90.9% and 90.8%, respectively.
+In pediatric patients receiving tacrolimus immediate-release products in combination with MMF (n= 450) or tacrolimus immediate-release products in combination with AZA (n=72), the one-year graft survival estimates from time of discharge were 91.7% and 84.7%, respectively.

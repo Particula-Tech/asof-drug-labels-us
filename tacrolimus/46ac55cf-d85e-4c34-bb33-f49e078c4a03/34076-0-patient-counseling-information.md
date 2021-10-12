@@ -16,11 +16,11 @@ Advise the patient or caregiver to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Boxed Warning and Warnings and Precautions (5.2)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions (5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 

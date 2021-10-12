@@ -23,6 +23,8 @@ They are supplied as follows:
 
 NDC 0781-2104-01, bottle of 100 capsules with child-resistant closure
 
+Store and Dispense
+
 Tacrolimus capsules, USP should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 ## 16.4 Handling and Disposal

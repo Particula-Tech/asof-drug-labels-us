@@ -97,7 +97,7 @@ Risk Summary
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
@@ -114,11 +114,15 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver, kidney, and heart transplant patients.
+Safety and effectiveness have been established in pediatric liver, kidney, heart, and lung transplant patients.
 
-Kidney and heart transplant
+Kidney and Heart Transplantation
 
 Use of tacrolimus capsules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+Lung Transplantation
+
+The use of tacrolimus capsules in pediatric lung transplantation is supported by the experience in the U.S. Scientific Registry of Transplant Recipients (SRTR) including 450 pediatric patients receiving tacrolimus immediate-release products in combination with mycophenolate mofetil and 72 pediatric patients receiving tacrolimus immediate-release products in combination with azathioprine between 1999-2017.
 
 ## 8.5 Geriatric Use
 

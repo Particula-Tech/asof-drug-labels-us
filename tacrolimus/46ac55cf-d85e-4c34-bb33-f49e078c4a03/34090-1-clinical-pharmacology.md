@@ -8,7 +8,7 @@ Such inhibition prevents the dephosphorylation and translocation of various fact
 
 Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony-stimulating factor.
 Tacrolimus also inhibits IL-2 receptor expression and nitric oxide release, induces apoptosis and production of transforming growth factor beta that can lead to immunosuppressive activity.
-The net result is the inhibition of T-lymphocyte activation and proliferation as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
+The net result is the inhibition of T-lymphocyte activation and proliferation, as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
 
 ## 12.3 Pharmacokinetics
 
@@ -20,8 +20,8 @@ Table 17 Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volun
 | Population | N | Route(Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax(ng/mL) | Tmax(hr) | AUC(ng•hr/mL) | t1/2(hr) | CL(L/hr/kg) | V(L/kg) |  |  |  |
-| HealthyVolunteers | 8 | IV (0.025 mg/kg/4 hr) | not applicable |  | 652AUC0-inf± 156 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
-| 30 | PO(5 mg) (capsules) | 28.8 ± 8.9 | 1.5± 0.7 | 266± 95 | 32.3± 8.8 | not available |  |  |
+| HealthyVolunteers | 8 | IV (0.025 mg/kg/4 hr) | Not applicable |  | 652AUC0-inf± 156 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
+| 30 | PO(5 mg) (capsules) | 28.8 ± 8.9 | 1.5± 0.7 | 266± 95 | 32.3± 8.8 | Not available |  |  |
 | KidneyTransplantPatients | 26 | IV(0.02 mg/kg/12 hr) |  |  | 294± 262 | 18.8± 16.7 | 0.083± 0.050 | 1.41± 0.66 |
 | PO(0.2 mg/kg/day) | 19.2± 10.3 | 3 | 203± 42 |  |  |  |  |  |
 | PO(0.3 mg/kg/day) | 24.2± 15.8 | 1.5 | 288± 93 |  |  |  |  |  |
@@ -112,9 +112,9 @@ Table 19 Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 
 | Population(No. of Patients) | Dose | AUC0-t(ng·hr/mL) | t1/2(hr) | V(L/kg) | CI(L/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
-| RenalImpairment(n=12) | 0.02 mg/kg/4hrIV | 393±123(t=60 hr) | 26.3±9.2 | 1.07±0.20 | 0.038±0.014 |
-| Mild Hepatic Impairment(n=6) | 0.02 mg/kg/4hr IV | 367±107 (t=72 hr) | 60.6±43.8 Range: 27.8 to 141 | 3.1±1.6 | 0.042 ±0.02 |
-| 7.7 mgPO | 488±320(t=72 hr) | 66.1±44.8Range: 29.5 to 138 | 3.7±4.7corrected for bioavailability | 0.034±0.019 |  |
+| RenalImpairment(n=12) | 0.02mg/kg/4hrIV | 393±123(t=60 hr) | 26.3±9.2 | 1.07±0.20 | 0.038±0.014 |
+| Mild Hepatic Impairment(n=6) | 0.02mg/kg/4hrIV | 367±107(t=72 hr) | 60.6±43.8Range: 27.8 to 141 | 3.1±1.6 | 0.042 ±0.02 |
+| 7.7 mgPO | 488±320(t=72 hr) | 66.1±44.8Range: 29.5 to 138 | 3.7±4.7Corrected for bioavailability | 0.034±0.019 |  |
 | SevereHepaticImpairment(n=6, IV) | 0.02 mg/kg/4hrIV (n=2)0.01 mg/kg/8hrIV (n=4) | 762±204(t=120 hr)289±117(t=144 hr) | 198±158Range: 81 to 436 | 3.9±1 | 0.017±0.013 |
 | (n=5, PO)1 patient did not receive the PO dose | 8 mg PO(n=1)5 mg PO(n=4)4 mg PO(n=1) | 658(t=120 hr)533±156 (t=144 hr) | 119±35Range: 85 to 178 | 3.1±3.4 | 0.016±0.011 |
 
@@ -130,6 +130,10 @@ Tacrolimus pharmacokinetics have been determined in six patients with mild hepat
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: >10).
 The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+
+Patients with Cystic Fibrosis
+
+Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2, 2.3)].
 
 Racial or Ethnic Groups The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
