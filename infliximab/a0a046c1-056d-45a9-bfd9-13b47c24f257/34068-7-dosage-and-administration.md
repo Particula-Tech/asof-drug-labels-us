@@ -72,7 +72,7 @@ The infusion solution should be prepared and administered by a trained medical p
      The reconstituted solution should be colorless to light yellow and opalescent, and the solution may develop a few translucent particles as infliximab is a protein.
      Do not use if the lyophilized powder has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
      Do not store unused reconstituted REMICADE solution.
-3. Dilute the total volume of the reconstituted REMICADE solution to 250 mLFor volumes greater than 250 mL, either use a larger infusion bag (e.g.
+3. Dilute the total volume of the reconstituted REMICADE solution to 250 mL For volumes greater than 250 mL, either use a larger infusion bag (e.g.
    500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL. with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
    - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted REMICADE required for a dose.
      Slowly add the total volume of reconstituted REMICADE solution from the vial(s) to the 250 mL infusion bottle or bag.
