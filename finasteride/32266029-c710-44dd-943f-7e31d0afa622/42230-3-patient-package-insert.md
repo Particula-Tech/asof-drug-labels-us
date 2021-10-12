@@ -49,6 +49,7 @@ The following have been reported in general use with finasteride tablets and/or 
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat, and face
 - rarely, some men may have testicular pain
+- blood in semen
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
@@ -112,4 +113,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 07/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 09/2021
