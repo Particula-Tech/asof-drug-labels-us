@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212035"
+  ],
+  "inn": "argatroban",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-430-11",
+    "16729-430-43"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "argatroban",
+      "name": "ARGATROBAN"
+    }
+  ],
+  "setid": "46cdf9e6-839c-49c8-9ee1-c30cfdd9368d",
+  "source": "dailymed"
+}
