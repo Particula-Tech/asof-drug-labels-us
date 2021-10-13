@@ -17,7 +17,7 @@ Advise patients and parents or guardians of minors with PJIA, SJIA, or CRS of th
 Instruction on Injection Technique
 
 Perform the first injection under the supervision of a qualified healthcare professional.
-If a patient or caregiver is to administer subcutaneous ACTEMRA, instruct him/her in injection techniques and assess his/her ability to inject subcutaneously to ensure proper administration of subcutaneous ACTEMRA and the suitability for home use [see Patient Instructions for Use].
+If a patient or caregiver is to administer subcutaneous ACTEMRA, instruct him/her in injection techniques and assess his/her ability to inject subcutaneously to ensure proper administration of subcutaneous ACTEMRA and the suitability for home use [See Patient Instructions for Use].
 
 Prior to use, remove the prefilled syringe (PFS) or autoinjector from the refrigerator and allow to sit at room temperature outside of the carton for 30 minutes (PFS) or 45 minutes (autoinjector), out of the reach of children.
 Do not warm ACTEMRA in any other way.

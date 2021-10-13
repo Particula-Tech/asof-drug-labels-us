@@ -57,23 +57,19 @@ For Ctrough, approximately 90% of the steady-state value was reached after the 6
 
 Population PK analysis identified body weight as a significant covariate impacting the pharmacokinetics of tocilizumab.
 When given IV on a mg/kg basis, individuals with body weight ≥ 100 kg are predicted to have mean steady-state exposures higher than mean values for the patient population.
-Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended in patients with RA [see Dosage and Administration (2.1)].
+Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended in patients with RA (see section 2.1 Dosage and Administration).
 Due to the flat dosing employed for SC administration of tocilizumab, no modifications are necessary by this dosing route.
 
-Giant Cell Arteritis – Subcutaneous and Intravenous Administration
+Giant Cell Arteritis – Subcutaneous Administration
 
-The pharmacokinetics of tocilizumab SC in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
+The pharmacokinetics of tocilizumab in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
 
-For the 162 mg every week dose, the estimated median (range) steady-state Cmax, Ctrough and Cmean of tocilizumab SC were 72.1 (12.2–151) mcg/mL, 67.2 (10.7–145) mcg/mL, and 70.6 (11.7–149) mcg/mL, respectively.
+For the 162 mg every week dose, the estimated median (range) steady-state Cmax, Ctrough and Cmean of tocilizumab were 72.1 (12.2–151) mcg/mL, 67.2 (10.7–145) mcg/mL, and 70.6 (11.7–149) mcg/mL, respectively.
 The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 10.9, 9.6, and 8.9, respectively.
 Steady state was reached after 17 weeks.
 For the 162 mg every other week dose, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 17.2 (1.1–56.2) mcg/mL, 7.7 (0.1–37.3) mcg/mL, and 13.7 (0.5–49) mcg/mL, respectively.
 The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 2.8, 5.6, and 2.3 respectively.
 Steady-state was reached after 14 weeks.
-
-The pharmacokinetics of tocilizumab IV in GCA patients was characterized by a non-compartmental pharmacokinetic analysis which included 22 patients treated with 6 mg/kg intravenously every 4 weeks for 20 weeks.
-The median (range) Cmax, Ctrough and Cmean of tocilizumab at steady state were 178 (115-320) mcg/mL, 22.7 (3.38-54.5) mcg/mL and 57.5 (32.9-110) mcg/mL, respectively.
-Steady state trough concentrations were within the range observed in GCA patients treated with 162 mg TCZ SC administered every week or every other week.
 
 Systemic Sclerosis-Associated Interstitial Lung Disease – Subcutaneous Administration
 
@@ -168,7 +164,6 @@ For intravenous administration in RA patients, the concentration-dependent appar
 For subcutaneous administration in RA patients, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
 In GCA patients at steady state, the effective t1/2 of tocilizumab varied between 18.3 and 18.9 days for 162 mg subcutaneously every week dosing regimen and between 4.2 and 7.9 days for 162 mg subcutaneously every other week dosing regimen.
-For intravenous administration in GCA patients, the TCZ concentration-dependent apparent t1/2 was 13.2 days following 6 mg/kg every 4 weeks.
 
 In SSc-ILD patients at steady state, the effective t1/2 of tocilizumab varied between 12.1 and 13.0 days for the 162 mg subcutaneous every week dosing regimen.
 
@@ -185,9 +180,9 @@ Linear clearance was found to increase with body size.
 In RA patients, the body weight-based dose (8 mg per kg) resulted in approximately 86% higher exposure in patients who are greater than 100 kg in comparison to patients who are less than 60 kg.
 There was an inverse relationship between tocilizumab exposure and body weight for flat dose subcutaneous regimens.
 
-In GCA patients treated with ACTEMRA-SC, higher exposure was observed in patients with lower body weight.
-For the 162 mg every week subcutaneous dosing regimen, the steady-state Cmean was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
-For the 162 mg every other week subcutaneous regimen, the steady-state Cmean was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+In GCA patients, higher exposure was observed in patients with lower body weight.
+For the 162 mg every week dosing regimen, the steady-state Cmean was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+For the 162 mg every other week regimen, the steady-state Cmean was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
 There is limited data for patients above 100 kg (n=7).
 
 Hepatic Impairment
@@ -201,7 +196,7 @@ No formal study of the effect of renal impairment on the pharmacokinetics of toc
 Most of the RA, GCA, and SSc-ILD patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
 Mild renal impairment (estimated creatinine clearance less than 80 mL per min and at or above 50 mL per min based on Cockcroft-Gault formula) did not impact the pharmacokinetics of tocilizumab.
 
-Approximately one-third of the patients in the ACTEMRA-SC GCA clinical trial had moderate renal impairment at baseline (estimated creatinine clearance of 30-59 mL/min).
+Approximately one-third of the patients in the GCA clinical trial had moderate renal impairment at baseline (estimated creatinine clearance of 30-59 mL/min).
 No impact on tocilizumab exposure was noted in these patients.
 
 No dose adjustment is required in patients with mild or moderate renal impairment.
