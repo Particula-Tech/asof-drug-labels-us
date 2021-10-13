@@ -58,14 +58,13 @@ After administration of the second dose of the alternative drug, monitor the pat
 
 ## 2.4 Directions for Use
 
-Esmolol hydrochloride injection is available in a single dose vial.
+Esmolol hydrochloride injection is available in a single-dose vial.
 Esmolol hydrochloride injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Single-Dose Vial
 
-Single Dose Vial
-
-The Single Dose Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared.
+The Single-Dose Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared.
 Compatibility with Commonly Used Intravenous Fluids Esmolol hydrochloride injection was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg Esmolol Hydrochloride per mL.
 Esmolol hydrochloride injection was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
 
