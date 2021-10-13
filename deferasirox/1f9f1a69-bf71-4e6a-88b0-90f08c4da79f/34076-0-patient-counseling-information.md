@@ -85,12 +85,6 @@ Alembic Pharmaceuticals Limited
 
 Panelav 389350, Gujarat, India
 
-Manufactured for:
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA
 
-Alembic Pharmaceuticals, Inc.
-
-750 Route 202, Bridgewater, NJ 08807
-
-USA
-
-Revised: 12/2020
+Revised: 08/2021
