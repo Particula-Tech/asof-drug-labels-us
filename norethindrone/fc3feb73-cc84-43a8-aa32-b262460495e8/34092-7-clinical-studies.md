@@ -4,7 +4,7 @@ The efficacy and safety of MYFEMBREE were evaluated in two replicate, 24-week, m
 For study inclusion, women had to have uterine fibroids confirmed by ultrasound examination in which at least one fibroid met at least one of the following criteria:
 
 1. Subserosal, intramural, or < 50% intracavitary submucosal fibroid with a diameter ≥ 2 cm, or
-2. Multiple small fibroids with a total uterine volume of ≥ 130cm3.
+2. Multiple small fibroids with a total uterine volume of ≥ 130cm 3.
 
 Women also had to have menstrual blood loss (MBL) volume of ≥ 80 mL per cycle for two menstrual cycles or ≥ 160 mL during one cycle quantified by the alkaline hematin method from menstrual products collected during baseline menstrual cycles to be included in the studies.
 Women with hemoglobin < 8.0 g/dL were excluded from the study.
@@ -19,10 +19,10 @@ Key secondary endpoints were related to amenorrhea, MBL volume, and change in he
 
 A total of 768 women were randomized and treated in Studies L1 and L2 (741 women in the efficacy population used for these studies).
 Of the 741 women, 247 received treatment with MYFEMBREE (122 and 125 in Studies L1 and L2, respectively), 252 received treatment with relugolix followed by MYFEMBREE (125 and 127 in Studies L1 and L2, respectively), and 242 received placebo (113 and 129 in Studies L1 and L2, respectively).
-The median age of women included in the efficacy analysis was 43 years (19 - 51 years), and mean body mass index was 31.6 kg/m2.
+The median age of women included in the efficacy analysis was 43 years (19 - 51 years), and mean body mass index was 31.6 kg/m 2.
 Approximately 53% of study participants were Black, 41% were White, and 6% were of other races.
 Across studies at baseline, mean (± standard deviation) MBL volume at baseline was 231 mL (± 156).
-Baseline uterine size in Studies L1 and L2 ranged from normal to greater than 28 weeks gestation size (47 - 2625 cm3).
+Baseline uterine size in Studies L1 and L2 ranged from normal to greater than 28 weeks gestation size (47 - 2625 cm 3).
 
 Menstrual Blood Loss
 
@@ -35,7 +35,7 @@ Table 5: Proportion of Responders for Reduction in MBL Volume Over Last 35 days 
 |  | Study L1 |  | Study L2 |  |
 | Women with MBL Volume < 80 mL and ≥50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
 | Difference from placebo, % | 55.3% |  | 56.5% |  |
-| 95% CICI = confidence interval. | (44.2%, 65.6%) |  | (46.6%, 66.5%) |  |
+| 95% CI CI = confidence interval. | (44.2%, 65.6%) |  | (46.6%, 66.5%) |  |
 | p-value | < 0.0001 |  | < 0.0001 |  |
 
 Amenorrhea

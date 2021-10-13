@@ -43,9 +43,9 @@ Table 1: Adverse Reactions Occurring in 3% or More of Women Treated with MYFEMBR
 | Adverse Reaction | MYFEMBREE (N = 254) % | Placebo (N = 256) % |
 | --- | --- | --- |
 | Hot flush, hyperhidrosis, or night sweats | 10.6 | 6.6 |
-| Abnormal uterine bleedingIncludes menorrhagia, metrorrhagia, vaginal haemorrhage, polymenorrhoea, and menstruation irregular. | 6.3 | 1.2 |
+| Abnormal uterine bleeding Includes menorrhagia, metrorrhagia, vaginal haemorrhage, polymenorrhoea, and menstruation irregular. | 6.3 | 1.2 |
 | Alopecia | 3.5 | 0.8 |
-| Libido decreasedIncludes libido decreased and loss of libido. | 3.1 | 0.4 |
+| Libido decreased Includes libido decreased and loss of libido. | 3.1 | 0.4 |
 
 In one of the two Phase 3 clinical trials (Study L1), more women experienced the adverse reaction of new or worsening hypertension with MYFEMBREE as compared to placebo (7.0% vs 0.8%).
 
@@ -68,7 +68,7 @@ Table 2: Mean Percent Change (On-Treatment) from Baseline in Lumbar Spine BMD in
 |  | Studies L1 and L2 Treatment Month 6 |  |
 | Number of Subjects | 256 | 254 |
 | Percent Change from Baseline | 0.18 | -0.23 |
-| (95% CIConfidence Interval) | (-0.21, 0.58) | (-0.64, 0.18) |
+| (95% CI Confidence Interval) | (-0.21, 0.58) | (-0.64, 0.18) |
 | Treatment Difference, % | -0.42 |  |
 
 In the open-label extension Study L3, continued bone loss was observed with 12 months of continuous treatment with MYFEMBREE.
@@ -76,11 +76,11 @@ The least squares mean percent change from baseline in lumbar spine BMD at Month
 
 Table 3: Mean Percent Change (On-Treatment) from Baseline in Lumbar Spine BMD at Month 6 in Studies 1 and 2 and Month 12 in Study 3 in Women with Uterine Fibroids treated with MYFEMBREE
 
-|  | Month 6Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3. | Month 12 |
+|  | Month 6 Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3. | Month 12 |
 | --- | --- | --- |
 |  | Study L3 (N = 163) |  |
 | Percent Change from Baseline | -0.23 | -0.80 |
-| (95% CICI = confidence interval.) | (-0.69, 0.24) | (-1.36, -0.25) |
+| (95% CI CI = confidence interval.) | (-0.69, 0.24) | (-1.36, -0.25) |
 
 A separate concurrent prospective observational study enrolled 262 women with uterine fibroids who were age-matched to participants of Studies L1 and L2.
 These women did not receive treatment for uterine fibroids and underwent DXA scans at Month 6 and Month 12 to monitor for changes in BMD.
