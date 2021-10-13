@@ -76,6 +76,11 @@ Patients should be advised to take PROZAC exactly as prescribed, and to continue
 Patients should be advised that they should not alter their dosing regimen, or stop taking PROZAC without consulting their healthcare provider [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with PROZAC.
 
+Sexual Dysfunction
+
+Advise patients that use of PROZAC may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
+
 Use in Specific Populations
 
 Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PROZAC.
@@ -94,6 +99,6 @@ Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of P
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 1987, 2020, Eli Lilly and Company.
+Copyright © 1987, 2021, Eli Lilly and Company.
 All rights reserved.
-PRZ-0006-USPI-20200428
+PRZ-0007-USPI-20211006

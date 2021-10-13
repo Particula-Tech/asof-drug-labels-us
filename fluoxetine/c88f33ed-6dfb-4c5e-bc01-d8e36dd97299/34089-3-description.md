@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 PROZAC® (fluoxetine capsules, USP) is a selective serotonin reuptake inhibitor for oral administration.
-It is also marketed for the treatment of premenstrual dysphoric disorder (Sarafem®, fluoxetine hydrochloride).
 It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine hydrochloride and has the empirical formula of C17H18F3NO•HCl.
 Its molecular weight is 345.79.
 The structural formula is:

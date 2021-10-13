@@ -78,6 +78,17 @@ PROZAC and other antidepressant medicines may cause serious side effects, includ
     - fast, slow, or irregular heartbeat
     - shortness of breath
     - dizziness or fainting
+11. Sexual problems (dysfunction).
+    Taking selective serotonin reuptake inhibitors (SSRIs), including PROZAC, may cause sexual problems.
+    Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PROZAC.
+    There may be treatments your healthcare provider can suggest.
+    - Symptoms in males may include:
+      - Delayed ejaculation or inability to have an ejaculation
+      - Decreased sex drive
+      - Problems getting or keeping an erection
+    - Symptoms in females may include:
+      - Decreased sex drive
+      - Delayed orgasm or inability to have an orgasm
 
 Do not stop PROZAC without first talking to your healthcare provider.
 Stopping PROZAC too quickly may cause serious symptoms including:
@@ -263,13 +274,13 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised April, 2020
+Medication Guide revised October, 2021
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2020, Eli Lilly and Company.
+Copyright © 2009, 2021, Eli Lilly and Company.
 All rights reserved.
 
-PRZ-0004-MG-20200428
+PRZ-0005-MG-20211006

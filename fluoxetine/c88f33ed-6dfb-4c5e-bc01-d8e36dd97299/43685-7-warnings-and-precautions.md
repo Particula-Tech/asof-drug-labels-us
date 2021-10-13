@@ -218,3 +218,13 @@ Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conc
 ## 5.16 PROZAC and Olanzapine in Combination
 
 When using PROZAC and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
+
+## 5.17 Sexual Dysfunction
+
+Use of SSRIs, including PROZAC, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of PROZAC and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
