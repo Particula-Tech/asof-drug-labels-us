@@ -94,6 +94,9 @@ DROXIA may cause serious side effects, including:
 - Enlarged red blood cells (macrocytosis).
   Macrocytosis is common in people who take DROXIA and can make it difficult to detect a decrease of folic acid.
   Your healthcare provider may prescribe a folic acid supplement for you.
+- Hemolytic Anemia, the fast breakdown of red blood cells, has happened in people who take DROXIA.
+  Tell your healthcare provider if you develop yellowing of your skin (jaundice) or blood in your urine.
+  Your healthcare provider may do blood tests if you have persistent or worsening anemia.
 - Respiratory (breathing) problems.
   Some people have developed life-threatening respiratory conditions called interstitial lung disease.
   Your healthcare provider may tell you to stop taking DROXIA if you develop respiratory problems.
@@ -138,4 +141,4 @@ Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1375188A2 Revised: July 2019
+Revised: Sep 2021
