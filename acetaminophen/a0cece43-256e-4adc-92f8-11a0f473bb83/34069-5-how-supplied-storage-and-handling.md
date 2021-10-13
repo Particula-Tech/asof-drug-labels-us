@@ -16,7 +16,7 @@ A small amount of moisture may be present inside the outer wrap.
 Acetaminophen Injection should be stored at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 For single use only.
-The product should be used within 6 hours after opening.
+The product should be used within 24 hours after opening.
 Do not refrigerate or freeze.
 
 The container is not made with natural rubber latex.
@@ -30,4 +30,4 @@ Made in Norway
 
 www.fresenius-kabi.com/us
 
-451659C
+451659D
