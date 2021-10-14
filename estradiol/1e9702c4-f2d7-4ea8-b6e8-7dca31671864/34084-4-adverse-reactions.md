@@ -29,7 +29,7 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Pe
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of the Climara transdermal system.
+The following adverse reactions have been identified during post-approval use of Climara.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 ### Genitourinary System

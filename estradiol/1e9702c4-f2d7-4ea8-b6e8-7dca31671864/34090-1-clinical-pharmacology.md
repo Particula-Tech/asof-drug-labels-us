@@ -18,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for Climara.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Climara nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 

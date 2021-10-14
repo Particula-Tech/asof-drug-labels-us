@@ -1,15 +1,15 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 A study of 214 women 25 to 74 years of age met the qualification criteria and were randomly assigned to one of the three treatment groups: 72 to the 0.05 mg estradiol patch, 70 to the 0.1 mg estradiol patch, and 72 to placebo.
-Potential subjects were postmenopausal women in good general health who experienced vasomotor symptoms.
+Potential participants were postmenopausal women in good general health who experienced vasomotor symptoms.
 Natural menopause patients had not menstruated for at least 12 months and surgical menopause patients had undergone bilateral oophorectomy at least 4 weeks before evaluation for study entry.
-In order to enter the 11-week treatment phase of the study, potential subjects must have experienced a minimum of five moderate to severe hot flushes per week, or a minimum of 15 hot flushes of any severity per week, for 2 consecutive weeks.
+In order to enter the 11-week treatment phase of the study, potential participants must have experienced a minimum of five moderate to severe hot flushes per week, or a minimum of 15 hot flushes of any severity per week, for 2 consecutive weeks.
 Women wore the patches in a cyclical fashion (three weeks on and one week off).
 
-During treatment, all subjects used diaries to record the number and severity of hot flushes.
-Subjects were monitored by clinic visits at the end of weeks 1, 3, 7, and 11 and by telephone at the end of weeks 4, 5, 8, and 9.
+During treatment, all women used diaries to record the number and severity of hot flushes.
+Women were monitored by clinic visits at the end of weeks 1, 3, 7, and 11 and by telephone at the end of weeks 4, 5, 8, and 9.
 
 Adequate data for the analysis of efficacy was available from 191 subjects.
 The results are presented as the mean ± SD number of flushes in each of the 3 treatment weeks of each 4-week cycle.
@@ -23,8 +23,6 @@ In a double-blind, placebo-controlled, randomized study of 187 women receiving C
 
 Table 3: Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms Intent to Treat (ITT)
 
-Table 3: Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms Intent to Treat (ITT)
-
 | Treatment Group | Statistics | Week 4 | Week 8 | Week 12 |
 | --- | --- | --- | --- | --- |
 | E2 Transdermal System | N | 82 | 84 | 68 |
@@ -35,21 +33,19 @@ Table 3: Mean Change from Baseline in the Number of Moderate to Severe Vasomotor
 | SD | 7.43 | 8.63 | 9.69 |  |
 | p-value | <0.002 |  | <0.003 |  |
 
-A second active-control trial of 193 randomized subjects was supportive of the placebo-controlled trial.
+A second active-control trial of 193 randomized women was supportive of the placebo-controlled trial.
 
-## 14.2 Effects on Bone Mineral Density
+## 14.2 Effects on Bone Mineral Density in Postmenopausal Women
 
 A two-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density >0.9 gm/cm2) women at 10 study centers in the United States.
-A total of 129 subjects were allocated to receive active treatment with 4 different doses of estradiol patches (6.5, 12.5, 15, 25 cm2) and 46 subjects were allocated to receive placebo patches.
-Seventy-seven percent of the randomized subjects (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
+A total of 129 participating women were allocated to receive active treatment with 4 different doses of estradiol patches (6.5, 12.5, 15, 25 cm2) and 46 participating women were allocated to receive placebo patches.
+Seventy-seven percent of the randomized women (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
 A statistically significant overall treatment effect at each timepoint was noted, implying bone preservation for all active treatment groups at all timepoints, as opposed to bone loss for placebo at all timepoints.
 
 Figure 3: Mean Percent Change from Baseline in Lumbar Spine (A-P View) Bone Mineral Density By Treatment and Time Last Observation Carried Forward
 
-Figure 3: Mean Percent Change from Baseline in Lumbar Spine (A-P View) Bone Mineral Density By Treatment and Time Last Observation Carried Forward
-
 Percent change in BMD of the total hip (see Figure 4) was also statistically significantly different from placebo for all active treatment groups.
-This figure is based on 74 percent of the randomized subjects (95 on active drug and 34 on placebo).
+This figure is based on 74 percent of the randomized women (95 on active drug and 34 on placebo).
 
 ## 14.3 Women's Health Initiative Studies
 
@@ -139,7 +135,7 @@ The WHI estrogen plus progestin substudy stratified by age showed in women 50 to
 
 ## 14.4 Women's Health Initiative Memory Study
 
-The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
+The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age and older (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 
 After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
