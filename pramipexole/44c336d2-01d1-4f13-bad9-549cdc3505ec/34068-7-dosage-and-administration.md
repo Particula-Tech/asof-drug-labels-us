@@ -59,7 +59,7 @@ The recommended dosing of pramipexole dihydrochloride tablets in Parkinson’s d
 Discontinuation of Treatment
 
 Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)].
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10, 5.11)].
 
 ## 2.3 Dosing for Restless Legs Syndrome
 

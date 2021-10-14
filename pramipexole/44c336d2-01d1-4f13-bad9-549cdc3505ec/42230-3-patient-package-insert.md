@@ -45,7 +45,7 @@ Especially tell your doctor if you take:
 - •extended-release pramipexole.
   Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and pramipexole dihydrochloride extended-release tablets.
   If you are taking pramipexole dihydrochloride extended-release tablets, you should not take pramipexole dihydrochloride tablets.
-- •any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet®)
+- •any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
 
@@ -63,12 +63,9 @@ How should I take pramipexole dihydrochloride tablets?
 - •If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - •If you miss a dose, do not double your next dose.
   Skip the dose you missed and take your next regular dose.
-- •If you have Parkinson’s disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
-  If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as:
-  - •fever
-  - •confusion
-  - •severe muscle stiffness
-- Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
+- •Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor first.
+  If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride tablets.
+  If you stop pramipexole dihydrochloride tablets you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride tablets?”).
 
 What should I avoid while taking pramipexole dihydrochloride tablets?
 
@@ -106,7 +103,23 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 - •posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
-- The most common side effects in people taking pramipexole dihydrochloride tablets for Restless Legs Syndrome are nausea and headache.
+- •withdrawal symptoms. pramipexole dihydrochloride tablets is a dopamine agonist medicine.
+  Dopamine agonist medicines, including pramipexole dihydrochloride tablets, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride tablets is stopped.
+  Tell your doctor right away if you get any of the following withdrawal symptoms:
+  - fever
+  - confusion
+  - severe muscle stiffness
+  - feeling like you do not care about things you usually care about (apathy)
+  - anxiety
+  - depression
+  - fatigue
+  - insomnia
+  - sweating
+  - pain
+
+After you have stopped taking pramipexole dihydrochloride tablets, your doctor may need to restart you at a low dose of pramipexole dihydrochloride tablets if you get severe withdrawal symptoms.
+
+The most common side effects in people taking pramipexole dihydrochloride tablets for Restless Legs Syndrome are nausea and headache.
 
 The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson’s disease are:
 
@@ -167,4 +180,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-March 2021
+August 2021
