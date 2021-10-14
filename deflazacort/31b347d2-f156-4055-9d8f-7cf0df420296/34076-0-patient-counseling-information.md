@@ -44,6 +44,8 @@ Drug Interactions Certain medications can cause an interaction with EMFLAZA.
 Advise patients and/or caregivers to inform their healthcare provider of all the medicines the patient is taking, including over-the-counter medicines (such as insulin, aspirin or other NSAIDS), dietary supplements, and herbal products.
 Inform patients and/or caregivers that alternate therapy, dosage adjustment, and/or special test(s) may be needed during the treatment.
 
+PTC Therapeutics
+
 Manufactured for: PTC Therapeutics, Inc. South Plainfield, NJ 07080 U.S.A.
 
 EMFLAZA Oral Suspension made in Spain
