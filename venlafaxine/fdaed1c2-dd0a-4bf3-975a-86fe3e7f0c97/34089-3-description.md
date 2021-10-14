@@ -2,7 +2,7 @@
 
 Venlafaxine Extended Release Tablets (venlafaxine hydrochloride) are extended-release tablets for oral administration that contain venlafaxine hydrochloride, a structurally novel antidepressant.
 Venlafaxine hydrochloride is a selective serotonin and norepinephrine reuptake inhibitor (SNRI).
-It is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α- [(dimethylamino)methyl]-p-methoxybenzyl] cyclohexanol hydrochloride and has the empirical formula of C17H27NO2 HCl.
+It is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α- [(dimethylamino)methyl]-p-methoxybenzyl] cyclohexanol hydrochloride and has the empirical formula of C 17H 27NO 2 HCl.
 Its molecular weight is 313.87.
 The structural formula is shown below.
 
@@ -24,4 +24,4 @@ Since the osmotic gradient remains constant, drug delivery remains essentially c
 The biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell.
 
 Tablets contain venlafaxine hydrochloride equivalent to 37.5 mg, 75 mg, 150 mg, or 225 mg venlafaxine.
-Inactive ingredients consist of mannitol, povidone, microcrystalline cellulose, polyethylene glycol, colloidal silicon dioxide, magnesium stearate, cellulose acetate, hypromellose, lactose, titanium dioxide, triacetin, black iron oxide, and propylene glycol.
+Inactive ingredients consist of black iron oxide, cellulose acetate, colloidal silicon dioxide, hypromellose, lactose, magnesium stearate, mannitol, microcrystalline cellulose, polyethylene glycol, povidone, propylene glycol, titanium dioxide, and triacetin.

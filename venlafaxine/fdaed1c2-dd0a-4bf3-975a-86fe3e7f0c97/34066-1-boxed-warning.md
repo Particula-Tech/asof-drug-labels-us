@@ -1,5 +1,3 @@
-# BOXED WARNING
-
 WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of Major Depressive Disorder (MDD) and other psychiatric disorders.
@@ -9,4 +7,4 @@ Depression and certain other psychiatric disorders are themselves associated wit
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Venlafaxine Extended Release Tablets are not approved for use in pediatric patients.
-[See Warnings and Precautions (5.1) and Patient Counseling Information (17.1]
+[See Warnings and Precautions (5.1) and Patient Counseling Informaiton (17.1)]

@@ -67,8 +67,7 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking Venlafaxine Extended Release Tablets.
-Venlafaxine Extended Release Tablets should be discontinued before initiating treatment with the MAOI.
-[see CONTRAINDICATIONS (4.1) and DOSAGE AND ADMINISTRATION (2.6 and 2.7)].
+Venlafaxine Extended Release Tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.6 and 2.7)].
 
 If concomitant use of Venlafaxine Extended Release Tablets with other serotonergic drugsincluding triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
@@ -116,7 +115,7 @@ Across most indications, a dose-related increase in supine systolic and diastoli
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Venlafaxine Hydrochloride Extended-Release Capsules mg/day |  |  |  | Placebo |  |
 | ≤75 |  | >75 |  |  |  |  |
-| SSBP1 | SDBP2 | SSBP | SDBP | SSBP | SDBP |  |
+| SSBP 1 | SDBP 2 | SSBP | SDBP | SSBP | SDBP |  |
 | Major Depressive Disorder8-12 weeks | -0.28 | 0.37 | 2.93 | 3.56 | -1.08 | -0.10 |
 | Other Clinical Trials12 weeks | -0.29 | -1.26 | 1.18 | 1.34 | -1.96 | -1.22 |
 
@@ -175,7 +174,7 @@ Co-administration of Venlafaxine Extended Release Tablets and weight loss agents
 Venlafaxine Extended Release Tablets are not indicated for weight loss alone or in combination with other products.
 
 Pediatric Patients: Weight loss has been observed in pediatric patients (ages 6-17) receiving venlafaxine hydrochloride extended-release capsules.
-In a pooled analysis of four eight-week, double-blind, placebo-controlled, flexible dose outpatient trials for major depressive disorder (MDD) and another disorder, patients treated with venlafaxine hydrochloride extended-release capsules lost an average of 0.45 kg (n = 333), while placebo-treated patients gained an average of 0.77 kg (n = 333).
+In a pooled analysis of four eight-week, double-blind, placebo-controlled, flexible dose outpatient trials for major depressive disorder (MDD) and another disorder, patients treated with venlafaxine hydrochloride extended-release capsules lost an average of 0.45 kg (n=333), while placebo-treated patients gained an average of 0.77 kg (n=333).
 More patients treated with venlafaxine hydrochloride extended-release capsules than with placebo experienced a weight loss of at least 3.5% in the studies (18% of patients treated with venlafaxine hydrochloride extended-release capsules vs. 3.6% of placebo-treated patients; p<0.001).
 In a 16-week, double-blind, placebo-controlled, flexible dose outpatient study for another disorder, venlafaxine hydrochloride extended-release capsule-treated patients lost an average of 0.75 kg (n=137), while placebo-treated patients gained an average of 0.76 kg (n=148).
 More patients treated with venlafaxine hydrochloride extended-release capsules than with placebo experienced a weight loss of at least 3.5% in the study (47% of patients treated with venlafaxine hydrochloride extended-release capsules vs. 14% of placebo-treated patients; p<0.001).
@@ -189,7 +188,7 @@ The difference between observed weight gain and expected weight gain was larger 
 
 Pediatric Patients: During an eight-week, placebo-controlled non-MDD study, venlafaxine hydrochloride extended-release capsule-treated patients (ages 6-17) grew an average of 0.3 cm (n=122), while placebo-treated patients grew an average of 1.0 cm (n=132); p=0.041.
 This difference in height increase was most notable in patients younger than twelve.
-During the eight-week placebo-controlled MDD studies, venlafaxine hydrochloride extended-release capsule-treated patients grew an average of 0.8 cm (n = 146), while placebo-treated patients grew an average of 0.7 cm (n = 147).
+During the eight-week placebo-controlled MDD studies, venlafaxine hydrochloride extended-release capsule-treated patients grew an average of 0.8 cm (n=146), while placebo-treated patients grew an average of 0.7 cm (n=147).
 During a 16-week, placebo-controlled non-MDD study, both the venlafaxine hydrochloride extended-release capsule-treated patients (n=109) and the placebo-treated (n=112) patients each grew an average of 1.0 cm.
 In the six-month, open-label MDD study, children and adolescents had height increases that were less than expected based on data from age- and sex-matched peers.
 The difference between observed growth rates and expected growth rates was larger for children (<12 years old) than for adolescents (≥12 years old).
@@ -277,3 +276,13 @@ Evaluation of the electrocardiograms for 769 patients who received venlafaxine h
 ## 5.17 Laboratory Tests
 
 There are no specific laboratory tests recommended.
+
+## 5.18 Sexual Dysfunction
+
+Use of SNRIs, including Venlafaxine Extended Release Tablets, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of Venlafaxine Extended Release Tablets and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

@@ -1,5 +1,3 @@
-# MEDICATION GUIDE
-
 Medication Guide
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
@@ -41,17 +39,20 @@ Call a healthcare provider right away if you or your family member has any of th
 
 _____________________________________________________________________________
 
-| thoughts about suicide or dyingattempts to commit suicide·new or worse depression·new or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | ·new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)·other unusual changes in behavior or moodVisual Problems: Eye pain, change in vision, swelling or redness around eye |
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or moodVisual Problems: Eye pain, change in vision, swelling or redness around eye |
 | --- | --- |
 
 _____________________________________________________________________________
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.Stopping an antidepressant medicine suddenly can cause other symptoms.
-  - Visual Problems.
-    Only some people are at risk for these problems.
-    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+
+Stopping an antidepressant medicine suddenly can cause other symptoms.
+
+- Visual Problems.
+  Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
@@ -63,6 +64,22 @@ What else do I need to know about antidepressant medicines?
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
+- Sexual problems (dysfunction).
+  Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including Venlafaxine Extended Release Tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Venlafaxine Extended Release Tablets.
+There may be treatments your healthcare provider can suggest.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -74,6 +91,6 @@ Marketed by:
 Bridgewater, NJ 08807
 
 Rev.
-10/2017
+07/2021
 
-70035845
+70042439

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide (17.9)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Venlafaxine Extended Release Tablets and should counsel them in its appropriate use.
 A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for Venlafaxine Extended Release Tablets.
@@ -54,13 +54,15 @@ Pre-existing glaucoma is almost always open-angle glaucoma because angle closure
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they
 
-are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[see Warnings and Precautions (5.4)]
+are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.4)].
 
-## 17.9 FDA-Approved Medication Guide
+## 17.9 Sexual Dysfunction
+
+Advise patient that use of Venlafaxine Extended Release Tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.18)].
 
 Marketed by:
 
 Bridgewater, NJ 08807
 
-70035845
+70042439

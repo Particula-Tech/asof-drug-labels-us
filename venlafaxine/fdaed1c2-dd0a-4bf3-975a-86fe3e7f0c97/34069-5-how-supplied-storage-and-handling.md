@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Venlafaxine Extended Release Tablets 37.5 mg are round, biconvex, white coated tablets with OS301 printed on one side.
 They are supplied as follows: Unit of Use Bottles of 30 Tablets NDC 13811-712-30 Unit of Use Bottles of 90 Tablets NDC 13811-712-90

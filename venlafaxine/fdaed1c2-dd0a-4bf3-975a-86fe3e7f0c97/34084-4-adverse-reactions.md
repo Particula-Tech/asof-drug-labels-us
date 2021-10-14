@@ -22,7 +22,7 @@ Adverse reactions that led to treatment discontinuation in a least 2% of drug-tr
 Adverse Reactions Occurring at an Incidence of 5% or More
 
 Major Depressive Disorder: Note in particular the following adverse reactions that occurred in at least 5% of the patients receiving venlafaxine hydrochloride extended-release capsules and at a rate at least twice that of the placebo group for all placebo-controlled trials for the major depressive disorder indication (see Table 6): Abnormal ejaculation, gastrointestinal complaints (nausea, dry mouth, and anorexia), CNS complaints (dizziness, somnolence, and abnormal dreams), and sweating.
-In the two U.S. placebo-controlled trials, the following additional reactions occurred in at least 5% of patients treated with venlafaxine hydrochloride extended-release capsules (n = 192) and at a rate at least twice that of the placebo group: Abnormalities of sexual function (impotence in men, anorgasmia in women, and libido decreased), gastrointestinal complaints (constipation and flatulence), CNS complaints (insomnia, nervousness, and tremor), problems of special senses (abnormal vision), cardiovascular effects (hypertension and vasodilatation), and yawning.
+In the two U.S. placebo-controlled trials, the following additional reactions occurred in at least 5% of patients treated with venlafaxine hydrochloride extended-release capsules (n=192) and at a rate at least twice that of the placebo group: Abnormalities of sexual function (impotence in men, anorgasmia in women, and libido decreased), gastrointestinal complaints (constipation and flatulence), CNS complaints (insomnia, nervousness, and tremor), problems of special senses (abnormal vision), cardiovascular effects (hypertension and vasodilatation), and yawning.
 
 Social Anxiety Disorder: Note in particular the following adverse reactions that occurred in at least 5% of the patients receiving venlafaxine hydrochloride extended-release capsules and at a rate at least twice that of the placebo group for the 2 placebo-controlled trials for the Social Anxiety Disorder indication (see Table 7): Asthenia, gastrointestinal complaints (anorexia, constipation, dry mouth, nausea), CNS complaints (dizziness, insomnia, libido decreased, nervousness, somnolence), abnormalities of sexual function (abnormal ejaculation, impotence, libido decreased, orgasmic dysfunction), yawn, sweating, and abnormal vision.
 
@@ -36,7 +36,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reaction incidence rate in the population studied.
 
-Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Patients with Major Depressive Disorder1,2
+Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Patients with Major Depressive Disorder 1,2
 
 |  | % Reporting Reaction |  |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Body as a Whole |  |  |
 | Asthenia | 8% | 7% |
 | Cardiovascular System |  |  |
-| Vasodilatation3 | 4% | 2% |
+| Vasodilatation 3 | 4% | 2% |
 | Hypertension | 4% | 1% |
 | Digestive System |  |  |
 | Nausea | 31% | 12% |
@@ -60,7 +60,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Insomnia | 17% | 11% |
 | Dry Mouth | 12% | 6% |
 | Nervousness | 10% | 5% |
-| Abnormal Dreams4 | 7% | 2% |
+| Abnormal Dreams 4 | 7% | 2% |
 | Tremor | 5% | 2% |
 | Depression | 3% | <1% |
 | Paresthesia | 3% | 1% |
@@ -72,11 +72,11 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Skin |  |  |
 | Sweating | 14% | 3% |
 | Special Senses |  |  |
-| Abnormal Vision5 | 4% | <1% |
+| Abnormal Vision 5 | 4% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation(male)6,7 | 16% | <1% |
-| Impotence7 | 4% | <1% |
-| Anorgasmia (female)8,9 | 3% | <1% |
+| Abnormal Ejaculation(male) 6,7 | 16% | <1% |
+| Impotence 7 | 4% | <1% |
+| Anorgasmia (female) 8,9 | 3% | <1% |
 
 1 Incidence, rounded to the nearest %, for reactions reported by at least 2% of patients treated with venlafaxine hydrochloride extended-release capsules, except for reactions which had an incidence equal to or less than placebo.
 2 <1% indicates an incidence greater than zero but less than 1%.
@@ -88,7 +88,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 8 Mostly “delayed orgasm” or “anorgasmia.”
 9 Incidence is based on the number of female patients.
 
-Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Social Anxiety Disorder Patients1,2
+Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Social Anxiety Disorder Patients 1,2
 
 |  | % Reporting Reaction |  |
 | --- | --- | --- |
@@ -101,11 +101,11 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Abdominal Pain | 4% | 3% |
 | Cardiovascular System |  |  |
 | Hypertension | 5% | 4% |
-| Vasodilatation3 | 3% | 1% |
+| Vasodilatation 3 | 3% | 1% |
 | Palpitation | 3% | 1% |
 | Digestive System |  |  |
 | Nausea | 29% | 9% |
-| Anorexia4 | 20% | 1% |
+| Anorexia 4 | 20% | 1% |
 | Constipation | 8% | 4% |
 | Diarrhea | 6% | 5% |
 | Vomiting | 3% | 2% |
@@ -122,7 +122,7 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Anxiety | 5% | 3% |
 | Agitation | 4% | 1% |
 | Tremor | 4% | <1% |
-| Abnormal Dreams5 | 4% | <1% |
+| Abnormal Dreams 5 | 4% | <1% |
 | Paresthesia | 3% | <1% |
 | Twitching | 2% | 0% |
 | Respiratory System |  |  |
@@ -131,11 +131,11 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Skin |  |  |
 | Sweating | 13% | 2% |
 | Special Senses |  |  |
-| Abnormal Vision6 | 6% | 3% |
+| Abnormal Vision 6 | 6% | 3% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation7,8 | 16% | 1% |
-| Impotence8 | 10% | 1% |
-| Orgasmic Dysfunction9,10 | 8% | 0% |
+| Abnormal Ejaculation 7,8 | 16% | 1% |
+| Impotence 8 | 10% | 1% |
+| Orgasmic Dysfunction 9,10 | 8% | 0% |
 
 1 Adverse reactions for which the venlafaxine hydrochloride extended-release capsules reporting rate was less than or equal to the placebo rate are not included.
 2 <1% means greater than zero but less than 1%.
@@ -175,8 +175,7 @@ Venlafaxine hydrochloride extended-release capsules treatment for up to 12 weeks
 
 ECG Changes
 
-In a flexible-dose MDD study with doses of venlafaxine hydrochloride immediate-release tablets in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, the mean change in heart rate was 8.5 beats per minute compared with 1.7 beats per minute for placebo.
-[See Warnings and Precautions (5.16)]
+In a flexible-dose MDD study with doses of venlafaxine hydrochloride immediate-release tablets in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, the mean change in heart rate was 8.5 beats per minute compared with 1.7 beats per minute for placebo [see Warnings and Precautions (5.16)].
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Venlafaxine Hydrochloride Immediate-Release Tablets and Venlafaxine Hydrochloride Extended-Release Capsules
 
@@ -218,7 +217,7 @@ Skin and appendages - Frequent: pruritus; Infrequent: acne, alopecia, contact de
 
 Special senses - Frequent: abnormality of accommodation, mydriasis, taste perversion; Infrequent: conjunctivitis, diplopia, dry eyes, otitis media, parosmia, photophobia, taste loss; Rare: blepharitis, cataract, chromatopsia, conjunctival edema, corneal lesion, deafness, exophthalmos, eye hemorrhage, angle-closure glaucoma, retinal hemorrhage, subconjunctival hemorrhage, hyperacusis, keratitis, labyrinthitis, miosis, papilledema, decreased pupillary reflex, otitis externa, scleritis, uveitis, visual field defect.
 
-Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: amenorrhea, *cystitis, dysuria, hematuria, kidney calculus, kidney pain, leukorrhea,* menorrhagia,* metrorrhagia,* nocturia, breast pain, polyuria, pyuria, prostatic disorder (prostatitis, enlarged prostate, and prostate irritability),* urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage,* vaginitis*; Rare: abortion,*anuria, breast discharge, breast engorgement, balanitis,* breast enlargement, endometriosis,* female lactation,* fibrocystic breast, calcium crystalluria, cervicitis,* orchitis,* ovarian cyst,* bladder pain, prolonged erection,* gynecomastia (male),* hypomenorrhea,* mastitis, menopause,* pyelonephritis, oliguria, salpingitis,* urolithiasis, uterine hemorrhage,* uterine spasm,* vaginal dryness.*
+Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: amenorrhea, * cystitis, dysuria, hematuria, kidney calculus, kidney pain, leukorrhea, * menorrhagia, * metrorrhagia, * nocturia, breast pain, polyuria, pyuria, prostatic disorder (prostatitis, enlarged prostate, and prostate irritability),* urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage, * vaginitis *; Rare: abortion, * anuria, breast discharge, breast engorgement, balanitis,* breast enlargement, endometriosis,* female lactation,* fibrocystic breast, calcium crystalluria, cervicitis,* orchitis,* ovarian cyst,* bladder pain, prolonged erection,* gynecomastia (male),* hypomenorrhea,* mastitis, menopause,* pyelonephritis, oliguria, salpingitis,* urolithiasis, uterine hemorrhage,* uterine spasm,* vaginal dryness.*
 
 * Based on the number of men and women as appropriate.
 

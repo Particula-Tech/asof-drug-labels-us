@@ -15,14 +15,12 @@ Dose increases should be in increments of up to 75 mg/day, as needed, and should
 In the clinical trials establishing efficacy, upward titration was permitted at intervals of 2 weeks or more; the average doses were about 140 to 180 mg/day [see Clinical Studies (14)].
 
 It should be noted that, while the maximum recommended dose for moderately depressed outpatients is also 225 mg/day for venlafaxine hydrochloride immediate-release tablets, more severely depressed inpatients in one study of the development program for that product responded to a mean dose of 350 mg/day (range of 150 to 375 mg/day).
-Whether or not higher doses of Venlafaxine Extended Release Tablets are needed for more severely depressed patients is unknown; however, the experience with venlafaxine hydrochloride extended-release capsule doses higher than 225 mg/day is very limited.
-[See Warnings and Precautions (5.17)]
+Whether or not higher doses of Venlafaxine Extended Release Tablets are needed for more severely depressed patients is unknown; however, the experience with venlafaxine hydrochloride extended-release capsule doses higher than 225 mg/day is very limited [see Warnings and Precautions (5.17)].
 
 Social Anxiety Disorder (Social Phobia)
 
 The recommended dose is 75 mg/day, administered in a single dose.
-There was no evidence that higher doses confer any additional benefit.
-[See Warnings and Precautions (5.17)]
+There was no evidence that higher doses confer any additional benefit [see Warnings and Precautions (5.17)].
 
 ## 2.2 Maintenance Treatment
 
@@ -30,7 +28,7 @@ There is no body of evidence available from controlled trials to indicate how lo
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 In one study, in which patients responding during 8 weeks of acute treatment with venlafaxine hydrochloride extended-release capsules were assigned randomly to placebo or to the same dose of venlafaxine hydrochloride extended-release capsules (75, 150, or 225 mg/day, qAM) during 26 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated.
-A second longer-term study has demonstrated the efficacy of venlafaxine hydrochloride immediate-release tablets in maintaining a response in patients with recurrent major depressive disorder who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or venlafaxine hydrochloride immediate-release tablets for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule)[see Clinical Studies (14)].
+A second longer-term study has demonstrated the efficacy of venlafaxine hydrochloride immediate-release tablets in maintaining a response in patients with recurrent major depressive disorder who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or venlafaxine hydrochloride immediate-release tablets for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule) [see Clinical Studies (14)].
 Based on these limited data, it is not known whether or not the dose of Venlafaxine Extended Release Tablets needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
@@ -48,7 +46,7 @@ Since there was much individual variability in clearance between patients with c
 
 Patients with Renal Impairment
 
-Given the decrease in clearance for venlafaxine and the increase in elimination half-life for both venlafaxine and ODV that is observed in patients with renal impairment (GFR = 10 to 70 mL/min) compared with normal subjects [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)], it is recommended that the total daily dose be reduced by 25% to 50%.
+Given the decrease in clearance for venlafaxine and the increase in elimination half-life for both venlafaxine and ODV that is observed in patients with renal impairment (GFR=10 to 70 mL/min) compared with normal subjects [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)], it is recommended that the total daily dose be reduced by 25% to 50%.
 
 In patients undergoing hemodialysis, it is recommended that the total daily dose be reduced by 50%.
 Because there was much individual variability in clearance between patients with renal impairment, individualization of dosage may be desirable in some patients.
@@ -82,12 +80,12 @@ Conversely, at least 7 days should be allowed after stopping Venlafaxine Extende
 ## 2.7 Use of Venlafaxine Extended Release Tablets with Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start Venlafaxine Extended Release Tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see CONTRAINDICATIONS (4.1)].
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
 
 In some cases, a patient already receiving Venlafaxine Extended Release Tablets therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Venlafaxine Extended Release Tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 7 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with Venlafaxine Extended Release Tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see WARNINGS AND PRECAUTIONS (5.2)].
+Therapy with Venlafaxine Extended Release Tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Venlafaxine Extended Release Tablets is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see WARNINGS AND PRECAUTIONS (5.2)].
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].
