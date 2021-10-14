@@ -8,12 +8,7 @@ Important administration instructions include:
 - Administer NIMBEX in carefully adjusted dosage by or under the supervision of experienced clinicians who are familiar with the drug’s actions and the possible complications.
 - Use NIMBEX only if the following are immediately available: personnel and facilities for resuscitation and life support (tracheal intubation, artificial ventilation, oxygen therapy); and an antagonist of NIMBEX [see Overdosage (10)].
 - The dosage information which follows is intended to serve as an initial guide for individual patients; base subsequent NIMBEX dosage on the patients’ responses to the initial doses.
-- Use a peripheral nerve stimulator to:
-  - Determine the adequacy of neuromuscular blockade (e.g., need for additional NIMBEX doses, reduction of the infusion rate).
-  - Minimize risk of overdosage or underdosage.
-  - Assess the extent of recovery from neuromuscular blockade (e.g., spontaneous recovery or recovery after administration of a reversal agent, e.g., neostigmine).
-  - Appropriately titrate doses to potentially limit exposure to toxic metabolites.
-  - Facilitate more rapid reversal of the NIMBEX-induced paralysis.
+- Use a peripheral nerve stimulator to: ○ Determine the adequacy of neuromuscular blockade (e.g., need for additional NIMBEX doses, reduction of the infusion rate). ○ Minimize risk of overdosage or underdosage. ○ Assess the extent of recovery from neuromuscular blockade (e.g., spontaneous recovery or recovery after administration of a reversal agent, e.g., neostigmine). ○ Appropriately titrate doses to potentially limit exposure to toxic metabolites. ○ Facilitate more rapid reversal of the NIMBEX-induced paralysis.
 
 Risk of Medication Errors
 
