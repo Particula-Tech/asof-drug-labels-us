@@ -12,7 +12,7 @@ Thus, at a dose two times the maximum recommended dose, clobazam did not prolong
 
 ## 12.3Pharmacokinetics
 
-SYMPAZAN® Oral Films at single doses of 10 mg and 20 mg clobazam have been shown to be bioequivalent (Cmax and AUC) to clobazam tablets at equivalent doses.
+SYMPAZAN® Oral Films at single doses of 10 mg and 20 mg clobazam have been shown to be bioequivalent (Cmaxand AUC) to clobazam tablets at equivalent doses.
 Following single-dose administration of SYMPAZAN®, peak plasma levels (Cmax) and the area under the curve (AUC) of clobazam are dose-proportional over the dose range of 10-20 mg.
 Based on a population pharmacokinetic analysis with clobazam tablets, the pharmacokinetics of clobazam are linear from 5-160 mg/day.
 Clobazam is converted to N-desmethylclobazam which has about 1/5 the activity of clobazam.
@@ -20,14 +20,18 @@ The estimated mean elimination half-lives (t1/2) of clobazam and N-desmethylclob
 
 Absorption
 
-The time to peak concentrations (T max) of SYMPAZAN® clobazam oral film under fasted conditions ranged from 0.33 to 4.0 hours after single-dose administration.
+The time to peak concentrations (Tmax) of SYMPAZAN® clobazam oral film under fasted conditions ranged from 0.33 to 4.0 hours after single-dose administration.
 The administration of clobazam tablets with food does not affect absorption.
-Although not studied, the oral bioavailability of SYMPAZAN® oral film is unlikely to be affected under fed conditions
+Although not studied, the oral bioavailability of SYMPAZAN® oral film is unlikely to be affected under fed conditions.
 
-Distribution Clobazam is lipophilic and distributes rapidly throughout the body.
+Distribution
+
+Clobazam is lipophilic and distributes rapidly throughout the body.
 The apparent volume of distribution at steady state was approximately 100 L. The in vitro plasma protein binding of clobazam and N-desmethylclobazam is approximately 80-90% and 70%, respectively.
 
-Metabolism and Excretion Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
+Metabolism and Excretion
+
+Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
 The major metabolic pathway of clobazam involves N-demethylation, primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6.
 N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3-5 times higher than those of the parent compound.
 Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
@@ -77,7 +81,7 @@ Drugs metabolized by CYP2D6 may require dose adjustment when used with clobazam.
 
 Clobazam decreased the AUC and Cmax of midazolam by 27% and 24%, respectively, and increased the AUC and Cmax of the metabolite 1-hydroxymidazolam by 4-fold and 2-fold, respectively.
 This level of induction does not call for dosage adjustment of drugs that are primarily metabolized by CYP3A4 when used concomitantly with clobazam.
-Some hormonal contraceptives are metabolized by CYP3A4 and their effectiveness may be diminished when given with SYMPAZAN® [see Drug Interactions (7.3)].
+Some hormonal contraceptives are metabolized by CYP3A4 and their effectiveness may be diminished when given with SYMPAZAN®[see Drug Interactions (7.3)].
 Repeated clobazam doses had no effect on caffeine and tolbutamide.
 
 A population pharmacokinetic analysis indicated clobazam did not affect the exposure of valproic acid (a CYP2C9/2C19 substrate) or lamotrigine (a UGT substrate).
@@ -88,11 +92,14 @@ There was no significant change in AUC and Cmax of N-desmethylclobazam (N=18).
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.4)].
 Dosage adjustment of SYMPAZAN® may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.4)].
 
+Coadministration of cannabidiol (a CYP3A4 and CYP2C19 substrate; an inhibitor of CYP2C19) produced a 3-fold increase in plasma concentrations of N-desmethylclobazam, the active metabolite of clobazam (a substrate of CYP2C19).
+This may increase the risk of clobazam-related adverse reactions [see Warnings and Precautions (5.4, 5.5), Drug Interactions (7.4)].
+
 The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C19 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C19 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.
 
 Alcohol has been reported to increase the maximum plasma exposure of clobazam by approximately 50%.
-Alcohol may have additive CNS depressant effects when taken with SYMPAZAN® [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
+Alcohol may have additive CNS depressant effects when taken with SYMPAZAN®[see Warnings and Precautions (5.4), Drug Interactions (7.2)].
 
 ## 12.4Pharmacogenomics
 

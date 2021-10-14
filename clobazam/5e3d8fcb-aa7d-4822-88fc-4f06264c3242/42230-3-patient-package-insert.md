@@ -2,11 +2,9 @@ Instructions for Use
 
 SYMPAZAN® (SIM-pa-zan)
 
-(clobazam)
+(clobazam) oral film, CIV
 
-oral film, CIV
-
-Read this Instructions for Use before you start using SYMPAZAN and each time you get a refill.
+Read this Instructions for Usebefore you start using SYMPAZAN and each time you get a refill.
 There may be new information.
 The information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
@@ -17,10 +15,10 @@ Important Information for Patient and Caregiver:
 
 How should I store SYMPAZAN?
 
-| Store SYMPAZAN at room temperature between 68°F to 77°F (20°C to 25°C). |
-| --- |
-| Keep SYMPAZAN in the foil pouch until you are ready to use. Use right away after opening foil pouch. |
-| Keep SYMPAZAN and all medicines out of the reach of children. |
+- Store SYMPAZAN at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep SYMPAZAN in the foil pouch until you are ready to use.
+  Use right away after opening foil pouch.
+- Keep SYMPAZAN and all medicines out of the reach ofchildren.
 
 How to Use SYMPAZAN:
 

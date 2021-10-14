@@ -1,6 +1,6 @@
 # 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing Information
+## 2.1Dosing Information
 
 A daily dose of SYMPAZAN® greater than 5 mg should be administered in divided doses twice daily; a 5 mg daily dose can be administered as a single dose.
 Dose patients according to body weight.
@@ -15,12 +15,14 @@ Do not proceed with dose escalation more rapidly than weekly, because serum conc
 | Starting Day 7 | 10 mg | 20 mg |
 | Starting Day 14 | 20 mg | 40 mg |
 
-## 2.2Gradual Withdrawal
+## 2.2Discontinuation or Dosage Reduction of SYMPAZAN
 
-Avoid abrupt withdrawal from SYMPAZAN® in order to minimize the risk of increased seizure frequency, status epilepticus, and other adverse reactions [see Warnings and Precautions (5.4)].
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue SYMPAZAN or reduce the dosage.
 Taper by decreasing the total daily dosage by 5-10 mg/day on a weekly basis until discontinued.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
-## 2.3 Important Administration Instructions
+## 2.3Important Administration Instructions
 
 Instruct patients and/or caregivers to read the “Instructions for Use” carefully for complete directions on how to properly dose and administer SYMPAZAN® oral films.
 

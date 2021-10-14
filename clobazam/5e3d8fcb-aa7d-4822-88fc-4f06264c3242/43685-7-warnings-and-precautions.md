@@ -3,17 +3,42 @@
 ## 5.1Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including SYMPAZAN®, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe SYMPAZAN® concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 Advise both patients and caregivers about the risks of respiratory depression and sedation when SYMPAZAN® is used with opioids [see Drug Interactions (7.1)].
 
-## 5.2Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
+## 5.2Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including SYMPAZAN, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
+
+Before prescribing SYMPAZAN and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of SYMPAZAN, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of SYMPAZAN along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## 5.3Dependence and Withdrawal Reactions
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue SYMPAZAN or reduce the dosage [see Dosage and Administration (2.2)].
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including SYMPAZAN, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of SYMPAZAN after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
+
+Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)].
+
+## 5.4Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
 
 Since SYMPAZAN® has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated [see Drug Interactions (7.2)].
 
-## 5.3Somnolence or Sedation
+## 5.5Somnolence or Sedation
 
 SYMPAZAN® causes somnolence and sedation.
 In clinical trials, somnolence or sedation was reported at all effective doses and was dose-related [see Adverse Reactions (6.1)].
@@ -22,29 +47,12 @@ In general, somnolence and sedation begin within the first month of treatment an
 Prescribers should monitor patients for somnolence and sedation, particularly with concomitant use of other central nervous system depressants.
 Prescribers should caution patients against engaging in hazardous activities requiring mental alertness, such as operating dangerous machinery or motor vehicles, until the effect of SYMPAZAN® is known.
 
-## 5.4Withdrawal Symptoms
-
-Abrupt discontinuation of SYMPAZAN® should be avoided.
-SYMPAZAN® should be tapered by decreasing the dosage every week by 5-10 mg/day until discontinuation [see Dosage and Administration (2.2)].
-
-Withdrawal symptoms occurred following abrupt discontinuation of SYMPAZAN®; the risk of withdrawal symptoms is greater with higher doses.
-
-As with most antiepileptic drugs, SYMPAZAN® should be withdrawn gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus.
-
-Withdrawal symptoms (e.g., convulsions, psychosis, hallucinations, behavioral disorder, tremor, and anxiety) have been reported following abrupt discontinuance of benzodiazepines.
-The more severe withdrawal symptoms have usually been limited to patients who received excessive doses over an extended period of time, followed by an abrupt discontinuation.
-Generally milder withdrawal symptoms (e.g., dysphoria, anxiety, and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic doses for several months.
-
-## 5.5Serious Dermatological Reactions
+## 5.6Serious Dermatological Reactions
 
 Serious skin reactions, including Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with clobazam in both children and adults during the post-marketing period.
 Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
 SYMPAZAN® should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
-
-## 5.6Physical and Psychological Dependence
-
-Patients with a history of substance abuse should be under careful surveillance when receiving SYMPAZAN® or other psychotropic agents because of the predisposition of such patients to habituation and dependence [see Drug Abuse and Dependence (9)].
 
 ## 5.7Suicidal Behavior and Ideation
 
@@ -65,7 +73,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 | Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | PlaceboPatients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |

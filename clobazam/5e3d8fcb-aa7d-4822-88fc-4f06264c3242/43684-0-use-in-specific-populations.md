@@ -38,7 +38,7 @@ Clinical manifestations of withdrawal or neonatal abstinence syndrome may includ
 These complications can appear shortly after delivery to 3 weeks after birth and persist from hours to several months depending on the degree of dependence and the pharmacokinetic profile of the benzodiazepine.
 Symptoms may be mild and transient or severe.
 Standard management for neonatal withdrawal syndrome has not yet been defined.
-Observe newborns who are exposed to SYMPAZAN® in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
+Observe newborns who are exposed to SYMPAZAN®in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
 
 Labor and Delivery
 
@@ -56,8 +56,8 @@ Although there are no adequate and well controlled studies of SYMPAZAN® in preg
 Dolovich et al. published a meta-analysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
-The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61—1.35) or for oral cleft (OR 1.19; 95% CI 0.34—4.15).
-The data from the case control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32—6.84) and oral cleft (OR 1.79; 95% CI 1.13— 2.82).
+The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61-1.35) or for oral cleft (OR 1.19; 95% CI 0.34 - 4.15).
+The data from the case control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32 6.84) and oral cleft (OR 1.79; 95% CI 1.13 -2.82).
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.
@@ -134,7 +134,7 @@ The pharmacokinetics of clobazam were evaluated in patients with mild and modera
 There were no significant differences in systemic exposure (AUC and Cmax) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
 There is essentially no experience with SYMPAZAN® in patients with severe renal impairment or ESRD.
-It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Clinical Pharmacology (12.3)].
+It is not known if clobazam or its active metabolite, N-desmethyl-clobazam, is dialyzable [see Clinical Pharmacology (12.3)].
 
 ## 8.8Hepatic Impairment
 
