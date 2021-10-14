@@ -4,7 +4,6 @@
 
 The dosage of JENTADUETO XR should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended total daily dose of linagliptin 5 mg and metformin hydrochloride (HCl) 2000 mg.
 JENTADUETO XR should be given once daily with a meal.
-For available dosage forms and strengths [see Dosage Forms and Strengths (3)].
 
 Recommended starting dose:
 
@@ -14,14 +13,9 @@ Recommended starting dose:
 
 JENTADUETO XR should be swallowed whole.
 The tablets must not be split, crushed, dissolved, or chewed.
-There have been reports of incompletely dissolved tablets being eliminated in the feces for other tablets containing metformin extended-release.
-If a patient reports seeing tablets in feces, the healthcare provider should assess adequacy of glycemic control.
 
 JENTADUETO XR 5 mg linagliptin/1000 mg metformin HCl extended-release tablet should be taken as a single tablet once daily.
 Patients using 2.5 mg linagliptin/1000 mg metformin HCl extended-release tablets should take two tablets together once daily.
-
-No studies have been performed specifically examining the safety and efficacy of JENTADUETO XR in patients previously treated with other oral antihyperglycemic agents and switched to JENTADUETO XR.
-Any change in therapy of type 2 diabetes mellitus should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.
 
 ## 2.2 Recommended Dosing in Renal Impairment
 
@@ -31,7 +25,7 @@ JENTADUETO XR is contraindicated in patients with an estimated glomerular filtra
 
 Initiation of JENTADUETO XR in patients with an eGFR between 30-45 mL/min/1.73 m2 is not recommended.
 
-In patients taking JENTADUETO XR whose eGFR later falls below 45 mL/min/1.73 m2, assess benefit risk of continuing therapy.
+In patients taking JENTADUETO XR whose eGFR later falls below 45 mL/min/1.73 m2, assess benefit/risk of continuing therapy.
 
 Discontinue JENTADUETO XR if the patient's eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
 

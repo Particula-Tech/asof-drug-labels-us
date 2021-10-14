@@ -4,12 +4,12 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 - Lactic Acidosis [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
-- Heart Failure [see Warnings and Precautions (5.3)]
-- Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
-- Vitamin B12 Levels [see Warnings and Precautions (5.6)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.7)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.8)]
+- Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.3)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.5)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.6)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.7)]
+- Heart Failure [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,11 +26,10 @@ In a 24-week factorial design study, adverse reactions reported in ≥5% of pati
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin + Metformin and Greater than with Placebo in a 24-week Factorial-Design Study
 
-|  | n (%) | n (%) | n (%) | n (%) |
+| Adverse Reactions | Placebo (%) n=72 | Linagliptin Monotherapy (%) n=142 | Metformin Monotherapy (%) n=291 | Combination of Linagliptin with Metformin (%) n=286 |
 | --- | --- | --- | --- | --- |
-|  | Placebo n=72 | Linagliptin Monotherapy n=142 | Metformin Monotherapy n=291 | Combination of Linagliptin with Metformin n=286 |
-| Nasopharyngitis | 1 (1.4) | 8 (5.6) | 8 (2.7) | 18 (6.3) |
-| Diarrhea | 2 (2.8) | 5 (3.5) | 11 (3.8) | 18 (6.3) |
+| Nasopharyngitis | 1.4 | 5.6 | 2.7 | 6.3 |
+| Diarrhea | 2.8 | 3.5 | 3.8 | 6.3 |
 
 Other adverse reactions reported in clinical studies with treatment of linagliptin + metformin were hypersensitivity (e.g., urticaria, angioedema, or bronchial hyperreactivity), cough, decreased appetite, nausea, vomiting, pruritus, and pancreatitis.
 
@@ -38,7 +37,7 @@ Linagliptin
 
 Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% vs 6.1%), diarrhea (3.3% vs 3.0%), and cough (2.1% vs 1.4%).
 
-Rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when linagliptin was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy.
+Rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific antidiabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when linagliptin was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy.
 
 Other adverse reactions reported in clinical studies with treatment of linagliptin monotherapy were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with linagliptin compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
@@ -76,7 +75,7 @@ The clinical significance of elevations in lipase and amylase with linagliptin i
 
 Metformin
 
-Decrease in Vitamin B12 Absorption: Treatment with metformin has been associated with a decrease in vitamin B12 absorption which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.6)].
+Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 

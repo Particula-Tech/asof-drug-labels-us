@@ -4,7 +4,7 @@
 
 JENTADUETO XR
 
-JENTADUETO XR combines 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin, a member of the biguanide class.
+JENTADUETO XR contains: linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin, a biguanide.
 
 Linagliptin
 
@@ -75,45 +75,30 @@ Plasma binding is not altered in patients with renal or hepatic impairment.
 
 Metformin
 
-The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins, in contrast to SUs, which are more than 90% protein bound.
+The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
-During controlled clinical trials of metformin, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
 
 Elimination
 
-Linagliptin
-
-Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
+Linagliptin: Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
 Renal clearance at steady-state was approximately 70 mL/min.
 
-Metformin
-
-Metformin has a plasma elimination half-life of approximately 6.2 hours.
+Metformin: Metformin has a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Metabolism
 
-Linagliptin
-
-Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
+Linagliptin: Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
 A small fraction of absorbed linagliptin is metabolized to a pharmacologically inactive metabolite, which shows a steady-state exposure of 13.3% relative to linagliptin.
 
-Metformin
-
-Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+Metformin: Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
 
 Excretion
 
-Linagliptin
+Linagliptin: Following administration of an oral [14C] linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
 
-Following administration of an oral [14C] linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
-
-Metformin
-
-Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
+Metformin: Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
-In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Specific Populations
 
@@ -139,35 +124,17 @@ Reductions in the pharmacokinetic parameters seen in patients with hepatic impai
 
 Metformin hydrochloride: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
-Body Mass Index (BMI)/Weight
+Effects of Age, Body Mass Index (BMI), Gender, and Race
 
-Linagliptin: BMI/Weight had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
-
-Gender
-
-Linagliptin: Gender had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
+Linagliptin: Based on the population pharmacokinetic analysis, age, BMI, gender, and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
 Metformin hydrochloride: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
 Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
 
-Geriatric
-
-JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO XR in geriatric patients have not been performed [see Warnings and Precautions (5.1) and Use in Specific Populations (8.5)].
-
-Linagliptin: Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
-
-Metformin hydrochloride: Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
+Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-Pediatric
-
-Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO XR in pediatric patients have not yet been performed.
-
-Race
-
-Linagliptin: Race had no clinically meaningful effect on the pharmacokinetics of linagliptin based on available pharmacokinetic data, including subjects of White, Hispanic, Black, and Asian racial groups.
-
-Metformin hydrochloride: No studies of metformin pharmacokinetic parameters according to race have been performed.
+No studies of metformin pharmacokinetic parameters according to race have been performed.
 In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
 
 Drug Interactions
@@ -188,7 +155,7 @@ In vivo Assessment of Drug Interactions
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and OCT.
 
-Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
+Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
 |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- |
@@ -199,14 +166,14 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
 | Rifampin** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
 | *Multiple dose (steady-state) unless otherwise noted |  |  |  |  |
-| **For information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
+| **For information regarding clinical recommendations [see Drug Interactions (7)]. |  |  |  |  |
 | # Single dose |  |  |  |  |
 | †AUC=AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
 | QD=once daily |  |  |  |  |
 | BID=twice daily |  |  |  |  |
 | TID=three times daily |  |  |  |  |
 
-Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
+Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 |  |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- | --- |
@@ -236,7 +203,7 @@ Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 Metformin hydrochloride
 
-Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 |  |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- | --- |
@@ -246,9 +213,9 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | metformin | 1.05‡ | 1.07‡ |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination [see Drug Interactions (7.1)]. |  |  |  |  |  |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination [see Drug Interactions (7)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Drug Interactions (7.1)]. |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Drug Interactions (7)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
 | *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
 | † AUC=AUC(INF) |  |  |  |  |  |
@@ -256,7 +223,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | ‡Ratio of arithmetic means |  |  |  |  |  |
 | **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
 
-Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
+Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 
 |  |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- | --- |

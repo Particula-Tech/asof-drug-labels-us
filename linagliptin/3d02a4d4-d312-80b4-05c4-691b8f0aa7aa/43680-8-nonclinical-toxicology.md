@@ -4,10 +4,7 @@
 
 JENTADUETO XR
 
-No animal studies have been conducted with the combined products in JENTADUETO XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
-General toxicity studies in rats up to 13 weeks were performed with linagliptin/metformin coadministered.
-
-The following data are based on the findings in studies with linagliptin and metformin individually.
+No carcinogenicity, mutagenicity, or impairment of fertility studies have been conducted with the combination of linagliptin and metformin HCl.
 
 Linagliptin
 
@@ -23,7 +20,7 @@ In fertility studies in rats, linagliptin had no adverse effects on early embryo
 Metformin Hydrochloride
 
 Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1200 mg/kg/day in females.
-These doses are both approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
+These doses are approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
 No evidence of carcinogenicity with metformin was found in either male or female rats.
 A carcinogenicity study was also performed in Tg.AC transgenic mice at doses of up to 2000 mg/kg/day applied dermally.
 No evidence of carcinogenicity was observed in male or female mice.

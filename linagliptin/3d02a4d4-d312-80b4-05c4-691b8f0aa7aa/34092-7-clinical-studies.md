@@ -1,8 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of JENTADUETO XR have been established based on adequate and well-controlled studies of linagliptin and metformin coadministered in patients with type 2 diabetes mellitus inadequately controlled on diet and exercise and in combination with sulfonylurea.
-
-## 14.1 Glycemic Control Trials
+Glycemic Control Trials
 
 Initial Combination Therapy with Linagliptin and Metformin
 
@@ -15,13 +13,13 @@ Patients were randomized in a 1:2:2:2:2:2 ratio to either placebo or one of 5 ac
 Approximately equal numbers of patients were randomized to receive initial therapy with 5 mg of linagliptin once daily, 500 mg or 1000 mg of metformin twice daily, or 2.5 mg of linagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with sulfonylurea, thiazolidinedione, or insulin rescue therapy.
 
-Initial therapy with the combination of linagliptin and metformin provided significant improvements in A1C, and fasting plasma glucose (FPG) compared to placebo, to metformin alone, and to linagliptin alone (Table 6, Figure 1).
+Initial therapy with the combination of linagliptin and metformin provided significant improvements in A1C, and fasting plasma glucose (FPG) compared to placebo, to metformin alone, and to linagliptin alone (Table 7, Figure 1).
 The adjusted mean treatment difference in A1C from baseline to week 24 (LOCF) was -0.5% (95% CI -0.7, -0.3; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to metformin 1000 mg twice daily; -1.1% (95% CI -1.4, -0.9; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to linagliptin 5 mg once daily; -0.6% (95% CI -0.8, -0.4; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to metformin 500 mg twice daily; and -0.8% (95% CI -1.0, -0.6; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to linagliptin 5 mg once daily.
 
 Lipid effects were generally neutral.
 No meaningful change in body weight was noted in any of the 6 treatment groups.
 
-Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and Metformin, Alone and in Combination in Randomized Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise**
+Table 7 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and Metformin, Alone and in Combination in Randomized Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise**
 
 |  | Placebo | Linagliptin 5 mg Once Daily* | Metformin 500 mg Twice Daily | Linagliptin 2.5 mg Twice Daily* + Metformin 500 mg Twice Daily | Metformin 1000 mg Twice Daily | Linagliptin 2.5 mg Twice Daily* + Metformin 1000 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -50,10 +48,10 @@ A total of 316 patients with type 2 diabetes diagnosed within the previous 12 mo
 Patients were randomized (1:1), after a 2-week run-in period, to either linagliptin 5 mg plus metformin (1500 to 2000 mg per day, n=159) or linagliptin 5 mg plus placebo, (n=157) administered once daily.
 Patients in the linagliptin and metformin treatment group were up-titrated to a maximum tolerated dose of metformin (1000 to 2000 mg per day) over a three-week period.
 
-Initial therapy with the combination of linagliptin and metformin provided statistically significant improvements in A1C compared to linagliptin (Table 7).
+Initial therapy with the combination of linagliptin and metformin provided statistically significant improvements in A1C compared to linagliptin (Table 8).
 The mean difference between groups in A1C change from baseline was -0.8% with 2-sided 95% confidence interval (-1.23%, -0.45%).
 
-Table 7 Glycemic Parameters at 24 Weeks in Study Comparing Linagliptin in Combination with Metformin to Linagliptin in Treatment-Naïve Patients*
+Table 8 Glycemic Parameters at 24 Weeks in Study Comparing Linagliptin in Combination with Metformin to Linagliptin in Treatment-Naïve Patients*
 
 |  | Linagliptin 5 mg + Metformin | Linagliptin 5 mg + Placebo |
 | --- | --- | --- |
@@ -85,11 +83,11 @@ Patients on metformin and another antihyperglycemic agent (n=207) were randomize
 Patients were randomized to the addition of either linagliptin 5 mg or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with glimepiride rescue.
 
-In combination with metformin, linagliptin provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 8).
+In combination with metformin, linagliptin provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 9).
 Rescue glycemic therapy was used in 7.8% of patients treated with linagliptin 5 mg and in 18.9% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 8 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combination with Metformin*
+Table 9 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combination with Metformin*
 
 |  | Linagliptin 5 mg + Metformin | Placebo + Metformin |
 | --- | --- | --- |
@@ -122,11 +120,11 @@ Randomization was stratified by baseline HbA1c (<8.5% vs ≥8.5%), and the previ
 Patients receiving glimepiride were given an initial dose of 1 mg/day and then electively titrated over the next 12 weeks to a maximum dose of 4 mg/day as needed to optimize glycemic control.
 Thereafter, the glimepiride dose was to be kept constant, except for down-titration to prevent hypoglycemia.
 
-After 52 weeks and 104 weeks, linagliptin and glimepiride both had reductions from baseline in A1C (52 weeks: -0.4% for linagliptin, -0.6% for glimepiride; 104 weeks: -0.2% for linagliptin, -0.4% for glimepiride) from a baseline mean of 7.7% (Table 9).
+After 52 weeks and 104 weeks, linagliptin and glimepiride both had reductions from baseline in A1C (52 weeks: -0.4% for linagliptin, -0.6% for glimepiride; 104 weeks: -0.2% for linagliptin, -0.4% for glimepiride) from a baseline mean of 7.7% (Table 10).
 The mean difference between groups in A1C change from baseline was 0.2% with 2-sided 97.5% confidence interval (0.1%, 0.3%) for the intent-to-treat population using last observation carried forward.
 These results were consistent with the completers analysis.
 
-Table 9 Glycemic Parameters at 52 and 104 Weeks in Study Comparing Linagliptin to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
+Table 10 Glycemic Parameters at 52 and 104 Weeks in Study Comparing Linagliptin to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
 
 |  | Linagliptin 5 mg + Metformin | Glimepiride + Metformin (mean glimepiride dose 3 mg) | Linagliptin 5 mg + Metformin | Glimepiride + Metformin (mean glimepiride dose 3 mg) |
 | --- | --- | --- | --- | --- |
@@ -155,12 +153,12 @@ Patients on a sulfonylurea and metformin were randomized to receive linagliptin 
 Patients who failed to meet specific glycemic goals during the study were treated with pioglitazone rescue.
 Glycemic end points measured included A1C and FPG.
 
-In combination with a sulfonylurea and metformin, linagliptin provided statistically significant improvements in A1C and FPG compared with placebo (Table 10).
+In combination with a sulfonylurea and metformin, linagliptin provided statistically significant improvements in A1C and FPG compared with placebo (Table 11).
 In the entire study population (patients on linagliptin in combination with a sulfonylurea and metformin), a mean reduction from baseline relative to placebo in A1C of -0.6% and in FPG of -13 mg/dL was seen.
 Rescue therapy was used in 5.4% of patients treated with linagliptin 5 mg and in 13% of patients treated with placebo.
 Change from baseline in body weight did not differ significantly between the groups.
 
-Table 10 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin in Combination with Metformin and Sulfonylurea*
+Table 11 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin in Combination with Metformin and Sulfonylurea*
 
 |  | Linagliptin 5 mg + Metformin + SU | Placebo + Metformin + SU |
 | --- | --- | --- |
@@ -180,7 +178,7 @@ Table 10 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin in C
 | **Linagliptin 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247 |  |  |
 | ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-## 14.2 Linagliptin Cardiovascular Safety Trials
+Linagliptin Cardiovascular Safety Trials
 
 CARMELINA
 
@@ -200,12 +198,12 @@ Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) wi
 The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
 The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
 
-The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 11.
+The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12.
 The estimated hazard ratio for MACE associated with linagliptin relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
 The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.
 The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 2.
 
-Table 11 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
+Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
 
 |  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -228,7 +226,8 @@ The trial was event driven, the median duration of follow-up was 6.23 years and 
 Patients were eligible to enter the trial if they were adults with type 2 diabetes with insufficient glycemic control (defined as HbA1c of 6.5% to 8.5% or 6.5% to 7.5% depending on whether treatment-naïve, on monotherapy or on combination therapy), and were defined to be at high cardiovascular risk with previous vascular disease, evidence of vascular related end-organ damage, age ≥70 years, and/or two cardiovascular risk factors (duration of diabetes >10 years, systolic blood pressure >140 mmHg, current smoker, LDL cholesterol ≥135 mg/dL).
 
 At baseline, the mean age was 64 years and the population was 60% male, 73% Caucasian, 18% Asian, and 5% Black.
-The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73m2.
+The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.
+The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73m2.
 The mean eGFR was 77 mL/min/1.73m2.
 Patients were taking at least one antidiabetic drug (91%) and the most common were metformin (83%) and sulfonylurea (28%).
 Patients were also taking antihypertensives (89%), lipid lowering drugs (70%) with 65% on statin, and aspirin (47%).
@@ -236,9 +235,10 @@ Patients were also taking antihypertensives (89%), lipid lowering drugs (70%) wi
 The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
 The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the upper bound of the 95% CI for the hazard ratio of MACE.
 
-The results of CAROLINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12 The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 3.
+The results of CAROLINA, including the contribution of each component to the primary composite endpoint, are shown in Table 13.
+The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 3.
 
-Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CAROLINA Study
+Table 13 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CAROLINA Study
 
 |  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
 | --- | --- | --- | --- | --- | --- |
