@@ -2,11 +2,9 @@
 
 Abiraterone acetate 250 mg tablets, USP are white to off-white, oval, biconvex uncoated tablets.
 Engraved "A250" on one side, "APO" on the other side.
-Abiraterone acetate 250 mg tablets, USP are available in high-density polyethylene bottles of 120 and 360 tablets.
+Abiraterone acetate 250 mg tablets, USP are available in high-density polyethylene bottles of 120.
 
 Bottle of 120 tablets NDC Number 60505-4327-1
-
-Bottle of 360 tablets NDC Number 60505-4327-3
 
 Storage and Handling
 

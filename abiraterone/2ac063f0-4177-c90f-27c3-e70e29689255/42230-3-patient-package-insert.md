@@ -2,6 +2,8 @@
 
 Abiraterone Acetate Tablets, USP [a" bir a' ter one as' e tate]
 
+Patient Information Leaflet available at www1.apotex.com/products/us
+
 What are Abiraterone Acetate Tablets?
 
 Abiraterone acetate tablets are a prescription medicine that is used along with prednisone.
@@ -137,6 +139,6 @@ Abiraterone Acetate Tablets, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: December 2020
+Revised: August 2021
 
-Rev: 10
+Revision: 11

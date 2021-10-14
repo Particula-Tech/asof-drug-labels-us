@@ -49,6 +49,8 @@ Infertility
 
 - Advise male patients that abiraterone acetate may impair fertility [see Use in Specific Populations (8.3)].
 
+Dispense with Patient Information Leaflet available at www1.apotex.com/products/us
+
 APOTEX INC.
 
 Abiraterone Acetate Tablets, USP
@@ -61,6 +63,6 @@ Abiraterone Acetate Tablets, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: December 2020
+Revised: August 2021
 
-Rev: 10
+Revision: 11
