@@ -9,7 +9,7 @@ Oral administration of ciprofloxacin during organogenesis at doses up to 100 mg/
 These doses were up to 0.3, 0.6, and 0.4 times the maximum recommended clinical oral dose in mice, rats, and rabbits, respectively, based on body surface area.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 

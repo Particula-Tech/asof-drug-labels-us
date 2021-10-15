@@ -36,7 +36,7 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
 |  | every 12 hours, | every 12 hours, | every 12 hours, | every 8 hours, |
-|  | orally | intravenously | orally | intravenously |
+|  | Orally | intravenously | orally | intravenously |
 | AUC0-24h,ss (mcg•hr/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
 | Cmax, ss (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 | * AUC 0–12h x 2 |  |  |  |  |
@@ -71,7 +71,7 @@ Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1
 Excretion
 
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
-Approximately 40 to 50% of an orally administered dose is excreted in the urine as unchanged drug.
+Approximately 40% to 50% of an orally administered dose is excreted in the urine as unchanged drug.
 After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 200 mcg/mL during the first two hours and are approximately 30 mcg/mL at 8 to 12 hours after dosing.
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
@@ -197,7 +197,7 @@ Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freun
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin against isolates of similar genus or organism group.
-However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacterias has not been established in adequate and well-controlled clinical trials.
+However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 

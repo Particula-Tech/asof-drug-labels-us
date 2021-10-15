@@ -11,17 +11,17 @@ Table 1: Adult Dosage Guidelines
 
 | Infection | Dose | Frequency | Usual Durations1 |
 | --- | --- | --- | --- |
-| Skin and Skin Structure | 500 to 750 mg | every 12 hours | 7 to 14 days |
-| Bone and Joint | 500 to 750 mg | every 12 hours | 4 to 8 weeks |
+| Skin and Skin Structure | 500 mg to 750 mg | every 12 hours | 7 to 14 days |
+| Bone and Joint | 500 mg to 750 mg | every 12 hours | 4 to 8 weeks |
 | Complicated Intra-Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
 | Typhoid Fever | 500 mg | every 12 hours | 10 days |
 | Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
 | Inhalational anthrax (post­exposure)3 | 500 mg | every 12 hours | 60 days |
-| Plague3 | 500 to 750 mg | every 12 hours | 14 days |
+| Plague3 | 500 mg to 750 mg | every 12 hours | 14 days |
 | Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
-| Lower Respiratory Tract Infections | 500 to 750 mg | every 12 hours | 7 to 14 days |
-| Urinary Tract Infections | 250 to 500 mg | every 12 hours | 7 to 14 days |
+| Lower Respiratory Tract Infections | 500 mg to 750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250 mg to 500 mg | every 12 hours | 7 to 14 days |
 | Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
 | Acute Sinusitis | 500 mg | every 12 hours | 10 days |
 | 1. Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |
@@ -73,9 +73,9 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 | Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
 | > 50 | See Usual Dosage. |
-| 30 to 50 | 250 to 500 mg every 12 hours |
-| 5 to 29 | 250 to 500 mg every 18 hours |
-| Patients on hemodialysis or Peritoneal dialysis | 250 to 500 mg every 24 hours (after dialysis) |
+| 30 to 50 | 250 mg to 500 mg every 12 hours |
+| 5 to 29 | 250 mg to 500 mg every 18 hours |
+| Patients on hemodialysis or Peritoneal dialysis | 250 mg to 500 mg every 24 hours (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 

@@ -5,7 +5,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
 - Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.3)]
-- Central Nervous System Effects [see Warnings and Precautions (5.4)] Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
@@ -27,9 +28,10 @@ During clinical investigations with oral and parenteral ciprofloxacin, 49,038 pa
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-| Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of Ciprofloxacin Patients |  |
-| --- | --- |
+Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of Ciprofloxacin Patients
+
 | System Organ Class | Adverse Reactions |
+| --- | --- |
 | Body as a Whole | Headache |
 |  | Abdominal Pain/Discomfort |
 |  | Pain |
@@ -134,7 +136,7 @@ The incidence rates of neurological adverse reactions within 6 weeks of treatmen
 
 In this trial, the overall incidence rates of adverse reactions within 6 weeks of treatment initiation were 41% (138/335) in the ciprofloxacin group versus 31% (109/349) in the comparator group.
 The most frequent adverse reactions were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
-Serious adverse reactions were seen in 7.5% (25/335) of ciprofloxacin­treated patients compared to 5.7% (20/349) of control patients.
+Serious adverse reactions were seen in 7.5% (25/335) of ciprofloxacin-treated patients compared to 5.7% (20/349) of control patients.
 Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
 Other adverse reactions that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 

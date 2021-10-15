@@ -19,7 +19,7 @@ Table 11: Drugs That are Affected by and Affecting Ciprofloxacin
 | Ropinirole | Use with caution | Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after coadministration with ciprofloxacin [see Warnings and Precautions (5.16)]. |
 | Clozapine | Use with caution | Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after coadministration with ciprofloxacin is advised. |
 | NSAIDs | Use with caution | Non-steroidal anti-inflammatory drugs (but not acetyl salicylic acid) in combination of very high doses of quinolones have been shown to provoke convulsions in pre-clinical studies and in postmarketing. |
-| Sildenafil | Use with caution Two-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3)]. |
+| Sildenafil | Use with caution Two-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology(12.3)]. |
 | Duloxetine | Avoid Use Five-fold increase in duloxetine exposure | If unavoidable, monitor for duloxetine toxicity |
 | Caffeine/Xanthine Derivatives | Use with caution Reduced clearance resulting in elevated levels and prolongation of serum half-life | Ciprofloxacin inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. |
 | Zolpidem | Avoid Use | Coadministration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended |
