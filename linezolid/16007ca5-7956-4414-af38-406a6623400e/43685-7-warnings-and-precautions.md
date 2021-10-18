@@ -22,7 +22,7 @@ If peripheral or optic neuropathy occurs, the continued use of linezolid in thes
 
 Spontaneous reports of serotonin syndrome including fatal cases associated with the co-administration of linezolid and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported.
 
-Unless clinically appropriate and patients are carefully observed for signs and/or symptoms of serotonin syndrome or neuroleptic malignant syndrome-like (NMS-like) reactions, linezolid should not be administered to patients with carcinoid syndrome and/or patients taking any of the following medications: serotonin re-uptake inhibitors, tricyclic antidepressants, serotonin 5-HT1 receptor agonists (triptans), meperidine, bupropion, or buspirone [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Unless clinically appropriate and patients are carefully observed for signs and/or symptoms of serotonin syndrome or neuroleptic malignant syndrome-like (NMS-like) reactions, linezolid should not be administered to patients with carcinoid syndrome and/or patients taking any of the following medications: serotonin re-uptake inhibitors, tricyclic antidepressants, bupropion, buspirone, serotonin 5-HT1 receptor agonists (triptans), and opioids, including meperidine, bupropion, or buspirone [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 In some cases, a patient already receiving a serotonergic antidepressant or buspirone may require urgent treatment with linezolid.
 If alternatives to linezolid are not available and the potential benefits of linezolid outweigh the risks of serotonin syndrome or NMS-like reactions, the serotonergic antidepressant should be stopped promptly and linezolid administered.
@@ -80,11 +80,9 @@ If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic a
 ## 5.10 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
-Linezolid for oral suspension contains phenylalanine, a component of aspartame.
+Linezolid for Oral Suspension contains phenylalanine, a component of aspartame.
 Each 5 mL of the 100 mg/5 mL oral suspension contains 20 mg of phenylalanine.
-Before prescribing Linezolid for oral suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including Linezolid for oral suspension.
-
-The other linezolid formulations do not contain phenylalanine.
+Before prescribing Linezolid for Oral Suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including Linezolid for Oral Suspension.
 
 ## 5.11 Development of Drug-Resistant Bacteria
 

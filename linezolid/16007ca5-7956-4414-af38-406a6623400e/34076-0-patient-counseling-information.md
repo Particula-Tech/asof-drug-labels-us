@@ -10,15 +10,13 @@ Advise patients to inform their physician if they experience changes in vision w
 
 Serotonin Syndrome
 
-Advise patients to inform their physician if taking serotonin re-uptake inhibitors or other antidepressants [see
-
-Warnings and Precautions (5.3)].
+Advise patients to inform their physician if taking serotonergic agents, including serotonin re-uptake inhibitors or other antidepressants and opioids [see Warnings and Precautions (5.3)].
 
 Potential Interactions Producing Elevation of Blood Pressure
 
 - •Advise patients to inform their physician if they have a history of hypertension.
 - •Advise patients to avoid large quantities of foods or beverages with high tyramine content while taking
-- lenezolid.
+- linezolid.
   Foods high in tyramine content include those that may have undergone protein changes by aging, fermentation, pickling, or smoking to improve flavor, such as aged cheeses, fermented or air-dried meats, sauerkraut, soy sauce, tap beers, and red wines.
   The tyramine content of any protein-rich food may be increased if stored for long periods or improperly refrigerated.
 - •Advise patients to inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants [see Warnings and Precautions (5.6)].
@@ -42,7 +40,7 @@ Phenylketonuria
 Advise patients with phenylketonuria (PKU) that each 5 mL of the 100 mg/5 mL linezolid for Oral Suspension contains 20 mg phenylalanine.
 The other linezolid formulations do not contain phenylalanine.
 Phenylalanine can be harmful to patients with phenylketonuria.
-Contact your physician or pharmacist when prescribed with linezolid oral suspension [see Warnings and Precautions (5.10)].
+Contact your physician or pharmacist when prescribed with linezolid for Oral Suspension [see Warnings and Precautions (5.10)].
 
 Antibacterial Resistance
 
@@ -61,12 +59,12 @@ Infertility
 
 Advise male patients that linezolid may reversibly impair fertility [see Use in Specific Populations (8.3)].
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10006274/06
+C50000712/01
 
-Revised September 2020
+Revised September 2021
