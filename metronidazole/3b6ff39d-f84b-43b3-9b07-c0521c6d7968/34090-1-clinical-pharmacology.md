@@ -6,12 +6,12 @@ Metronidazole is an antimicrobial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-Following a single, intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole) to 20 healthy female subjects, a mean maximum serum metronidazole concentration (Cmax) of 239 ng/mL was observed (range: 114 to 428 ng/mL).
-The average time to achieve this Cmax was 7.3 hours (range: 4 to 18 hours).
-This Cmax is approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole tablets (mean Cmax = 12,785 ng/mL).
+Following a single, intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole) to 20 healthy female subjects, a mean maximum serum metronidazole concentration (C max) of 239 ng/mL was observed (range: 114 to 428 ng/mL).
+The average time to achieve this C max was 7.3 hours (range: 4 to 18 hours).
+This C max is approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole tablets (mean C max = 12,785 ng/mL).
 
 The extent of exposure [area under the curve (AUC)] of metronidazole, when administered as a single intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole), was 5,434 ng∙hr/mL (range: 1382 to 12744 ng∙hr/mL).
-This AUC0-∞ is approximately 4% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole (approximately 125,000 ng∙hr/mL).
+This AUC 0-∞ is approximately 4% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole (approximately 125,000 ng∙hr/mL).
 
 ## 12.4 Microbiology
 

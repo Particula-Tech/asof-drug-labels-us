@@ -7,7 +7,7 @@ Metronidazole is a nitroimidazole antimicrobial.
 Chemically, metronidazole is a 2-methyl-5-nitroimidazole-1-ethanol.
 Its structural formula is:
 
-The molecular formula is C6H9N3O3 with a molecular weight of 171.16.
+The molecular formula is C 6H 9N 3O 3 with a molecular weight of 171.16.
 
 NUVESSA is an aqueous gel containing metronidazole at a concentration of 13 mg/g (1.3%).
 The gel is formulated at pH 4.0.

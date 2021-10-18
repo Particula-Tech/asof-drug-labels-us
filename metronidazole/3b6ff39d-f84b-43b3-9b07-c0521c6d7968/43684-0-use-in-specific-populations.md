@@ -6,7 +6,7 @@ Risk Summary
 
 There are no data available on the use of NUVESSA in pregnant women.
 Metronidazole usage in pregnancy has been associated with certain congenital anomalies (see Data).
-In animal reproduction studies, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally, during organogenesis to pregnant rats and rabbits at up to 30 times and 60 times the recommended human dose based on body surface area comparison, respectively(see Data).
+In animal reproduction studies, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally, during organogenesis to pregnant rats and rabbits at up to 30 times and 60 times the recommended human dose based on body surface area comparison, respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -17,7 +17,7 @@ Data
 Human Data
 
 Blood levels following NUVESSA vaginal administration are lower than those achieved with oral metronidazole.
-Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (Cmax) and total exposure (AUC0-∞) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology (12.3)].
+Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (C max) and total exposure (AUC0 -∞) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology (12.3)].
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 
 There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
