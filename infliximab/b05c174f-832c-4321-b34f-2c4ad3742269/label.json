@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA103772"
+  ],
+  "inn": "infliximab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-160-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "infliximab",
+      "name": "INFLIXIMAB"
+    }
+  ],
+  "setid": "b05c174f-832c-4321-b34f-2c4ad3742269",
+  "source": "dailymed"
+}
