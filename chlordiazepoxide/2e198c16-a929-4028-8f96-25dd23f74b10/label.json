@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA085461",
+    "ANDA085472",
+    "ANDA085475"
+  ],
+  "inn": "chlordiazepoxide",
+  "labeler": "Epic Pharma LLC",
+  "package_ndcs": [
+    "42806-564-01",
+    "42806-565-01",
+    "42806-566-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "chlordiazepoxide hydrochloride",
+      "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "2e198c16-a929-4028-8f96-25dd23f74b10",
+  "source": "dailymed"
+}
