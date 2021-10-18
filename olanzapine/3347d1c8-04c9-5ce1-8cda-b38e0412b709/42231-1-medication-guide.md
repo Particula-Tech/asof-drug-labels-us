@@ -2,6 +2,8 @@ Medication Guide
 
 Olanzapine Tablets, USP (oh lan′ za peen)
 
+Medication Guide available at www1.apotex.com/products/us
+
 Read the Medication Guide that comes with olanzapine tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
@@ -18,33 +20,46 @@ Olanzapine tablets may cause serious side effects, including:
 
 These serious side effects are described below.
 
-1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-   Olanzapine tablets are not approved for treating psychosis in elderly people with dementia.
-2. High blood sugar (hyperglycemia).
-   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-   High blood sugar could lead to: Your doctor should do tests to check your blood sugar before you start taking olanzapine tablets and during treatment.
-   In people who do not have diabetes, sometimes high blood sugar goes away when olanzapine tablets are stopped.
-   People with diabetes and some people who did not have diabetes before taking olanzapine tablets need to take medicine for high blood sugar even after they stop taking olanzapine tablets.
-   If you have diabetes, follow your doctor’s instructions about how often to check your blood sugar while taking olanzapine tablets.
-   Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking olanzapine tablets:
-   - a build up of acid in your blood due to ketones (ketoacidosis)
-   - coma
-   - death
-   - feel very thirsty
-   - need to urinate more than usual
-   - feel very hungry
-   - feel weak or tired
-   - feel sick to your stomach
-   - feel confused or your breath smells fruity
-3. High fat levels in your blood (cholesterol and triglycerides).
-   High fat levels may happen in people treated with olanzapine tablets, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
-   You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking olanzapine tablets and during treatment.
-4. Weight gain.
-   Weight gain is very common in people who take olanzapine tablets.
-   Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
-   Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when olanzapine tablets are used in combination with fluoxetine.
-   Some people may gain a lot of weight while taking olanzapine tablets, so you and your doctor should check your weight regularly.
-   Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+1.
+Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+Olanzapine tablets are not approved for treating psychosis in elderly people with dementia.
+
+2.
+High blood sugar (hyperglycemia).
+High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+High blood sugar could lead to:
+
+- a build up of acid in your blood due to ketones (ketoacidosis)
+- coma
+- death
+
+Your doctor should do tests to check your blood sugar before you start taking olanzapine tablets and during treatment.
+In people who do not have diabetes, sometimes high blood sugar goes away when olanzapine tablets are stopped.
+People with diabetes and some people who did not have diabetes before taking olanzapine tablets need to take medicine for high blood sugar even after they stop taking olanzapine tablets.
+
+If you have diabetes, follow your doctor’s instructions about how often to check your blood sugar while taking olanzapine tablets.
+
+Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking olanzapine tablets:
+
+- feel very thirsty
+- need to urinate more than usual
+- feel very hungry
+- feel weak or tired
+- feel sick to your stomach
+- feel confused or your breath smells fruity
+
+3.
+High fat levels in your blood (cholesterol and triglycerides).
+High fat levels may happen in people treated with olanzapine tablets, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
+You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking olanzapine tablets and during treatment.
+
+4.
+Weight gain.
+Weight gain is very common in people who take olanzapine tablets.
+Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when olanzapine tablets are used in combination with fluoxetine.
+Some people may gain a lot of weight while taking olanzapine tablets, so you and your doctor should check your weight regularly.
+Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
 What are olanzapine tablets?
 
@@ -215,4 +230,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June 2020 Revision 7
+Revised: June 2021 Revision 8

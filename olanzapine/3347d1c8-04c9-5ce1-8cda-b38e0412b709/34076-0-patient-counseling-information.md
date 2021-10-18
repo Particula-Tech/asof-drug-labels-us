@@ -92,6 +92,8 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 All registered trademarks in this document are the property of their respective owners.
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
 | Manufactured by | Manufactured for |
@@ -100,4 +102,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June 2020 Revision 7
+Revised: June 2021 Revision 8
