@@ -10,4 +10,4 @@
 | What are the ingredients in HALAVEN? Active Ingredient: eribulin mesylate Inactive Ingredients: dehydrated alcohol, water for injection, and sodium hydroxide or hydrochloric acid may be used for pH adjustment. HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd. Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677 For more information, go to www.HALAVEN.com or call Eisai Inc. at 1-877-873-4724. If you would like a leaflet with larger printing, please contact Eisai Inc. at 1-877-873-4724. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 2/2021
+Revised: 02/2021

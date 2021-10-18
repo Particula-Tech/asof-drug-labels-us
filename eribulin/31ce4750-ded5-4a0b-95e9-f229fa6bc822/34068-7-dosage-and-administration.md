@@ -41,12 +41,12 @@ Table 1: Recommended Dose Reductions
 
 ## 2.3 Instructions for Preparation and Administration
 
-Aseptically withdraw the required amount of HALAVEN from the single-use vial and administer undiluted or diluted in 100 mL of 0.9% Sodium Chloride Injection, USP.
+Aseptically withdraw the required amount of HALAVEN from the single-dose vial and administer undiluted or diluted in 100 mL of 0.9% Sodium Chloride Injection, USP.
 
 Do not dilute in or administer through an intravenous line containing solutions with dextrose.
 Do not administer in the same intravenous line concurrent with the other medicinal products.
 
-Store undiluted HALAVEN in the syringe for up to 4 hours at room temperature or for up to 24 hours under refrigeration (40°F or 4°C).
-Store diluted solutions of HALAVEN for up to 4 hours at room temperature or up to 24 hours under refrigeration.
+Store undiluted HALAVEN in the syringe for up to 4 hours at room temperature or for up to 24 hours under refrigeration at 4°C (40°F).
+Store diluted solutions of HALAVEN for up to 4 hours at room temperature or up to 24 hours under refrigeration at 4°C (40°F).
 
 Discard unused portions of the vial.
