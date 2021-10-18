@@ -48,7 +48,7 @@ Steady-State Pharmacokinetic Parameters of Lopinavir, Mean ± SD
 | Cmax (µg/mL) | 9.8 ± 3.7 | 11.8 ± 3.7 |
 | Cmin (µg/mL) | 5.5 ± 2.7 | 1.7 ± 1.6 |
 | AUCtau (µg•h/mL) | 92.6 ± 36.7 | 154.1 ± 61.4 |
-| 19 HIV-1 subjects, Kaletra 400/100 mg twice daily24 HIV-1 subjects, Kaletra 800/200 mg + emtricitabine 200 mg + tenofovir DF 300 mg |  |  |
+| 19 HIV-1 subjects, Kaletra 400/100 mg twice daily 24 HIV-1 subjects, Kaletra 800/200 mg + emtricitabine 200 mg + tenofovir DF 300 mg |  |  |
 
 Specific Populations
 
@@ -73,7 +73,7 @@ Lopinavir Pharmacokinetic Data from Pediatric Clinical Trials, Mean ± SD
 | Age ≥ 6 Months to ≤ 12 years Cohort (N = 24): |  |  |
 | 8.2 ± 2.9b | 3.4 ± 2.1b | 72.6 ± 31.1b |
 | 10.0 ± 3.3c | 3.6 ± 3.5c | 85.8 ± 36.9c |
-| KALETRA oral solution300/75 mg/m2 twice daily without concomitant NNRTI therapyKALETRA oral solution 230/57.5 mg/m2 twice daily without nevirapine (n=12)KALETRA oral solution 300/75 mg/m2 twice daily with nevirapine (n=12) |  |  |
+| KALETRA oral solution300/75 mg/m2 twice daily without concomitant NNRTI therapy KALETRA oral solution 230/57.5 mg/m2 twice daily without nevirapine (n=12) KALETRA oral solution 300/75 mg/m2 twice daily with nevirapine (n=12) |  |  |
 
 Pregnancy
 
@@ -114,13 +114,13 @@ Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of t
 | Ketoconazole | 200 single dose | 400/100 capsule twice daily | 12 | 0.89 (0.80, 0.99) | 0.87 (0.75, 1.00) | 0.75 (0.55, 1.00) |
 | Nelfinavir | 1000 twice daily | 400/100 capsule twice daily | 13 | 0.79 (0.70, 0.89) | 0.73 (0.63, 0.85) | 0.62 (0.49, 0.78) |
 | Nevirapine | 200 twice daily steady-state | 400/100 capsule twice daily | 22, 193 | 0.81 (0.62, 1.05) | 0.73 (0.53, 0.98) | 0.49 (0.28, 0.74) |
-| 7 mg/kg or 4 mg/kg once daily; twice daily 1 wk5 | (> 1 yr) 300/ 75 mg/m2 oral solution twice daily | 12, 153 | 0.86 (0.64, 1.16) | 0.78 (0.56, 1.09) | 0.45 (0.25, 0.81) |  |
+|  | 7 mg/kg or 4 mg/kg once daily; twice daily 1 wk5 | (> 1 yr) 300/ 75 mg/m2 oral solution twice daily | 12, 153 | 0.86 (0.64, 1.16) | 0.78 (0.56, 1.09) | 0.45 (0.25, 0.81) |
 | Ombitasvir/ paritaprevir/ ritonavir+ dasabuvir2 | 25/150/100 + dasabuvir 400 | 400/100 tablet twice daily | 6 | 0.87 (0.76, 0.99) | 0.94 (0.81, 1.10) | 1.15 (0.93, 1.42) |
 | Omeprazole | 40 once daily, 5 d | 400/100 tablet twice daily, 10 d | 12 | 1.08 (0.99, 1.17) | 1.07 (0.99, 1.15) | 1.03 (0.90, 1.18) |
-| 40 once daily, 5 d | 800/200 tablet once daily, 10 d | 12 | 0.94 (0.88, 1.00) | 0.92 (0.86, 0.99) | 0.71 (0.57, 0.89) |  |
+|  | 40 once daily, 5 d | 800/200 tablet once daily, 10 d | 12 | 0.94 (0.88, 1.00) | 0.92 (0.86, 0.99) | 0.71 (0.57, 0.89) |
 | Pravastatin | 20 once daily, 4 d | 400/100 capsule twice daily, 14 d | 12 | 0.98 (0.89, 1.08) | 0.95 (0.85, 1.05) | 0.88 (0.77, 1.02) |
 | Ranitidine | 150 single dose | 400/100 tablet twice daily, 10 d | 12 | 0.99 (0.95, 1.03) | 0.97 (0.93, 1.01) | 0.90 (0.85, 0.95) |
-| 150 single dose | 800/200 tablet once daily, 10 d | 10 | 0.97 (0.95, 1.00) | 0.95 (0.91, 0.99) | 0.82 (0.74, 0.91) |  |
+|  | 150 single dose | 800/200 tablet once daily, 10 d | 10 | 0.97 (0.95, 1.00) | 0.95 (0.91, 0.99) | 0.82 (0.74, 0.91) |
 | Rifabutin | 150 once daily | 400/100 capsule twice daily | 14 | 1.08 (0.97, 1.19) | 1.17 (1.04, 1.31) | 1.20 (0.96, 1.65) |
 | Rifampin | 600 once daily | 400/100 capsule twice daily | 22 | 0.45 (0.40, 0.51) | 0.25 (0.21, 0.29) | 0.01 (0.01, 0.02) |
 |  | 600 once daily | 800/200 capsule twice daily | 10 | 1.02 (0.85, 1.23) | 0.84 (0.64, 1.10) | 0.43 (0.19, 0.96) |
@@ -139,7 +139,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Pr
 | Bedaquiline1 | 400 single dose | 400/100 twice daily | N/A | N/A | 1.22 (1.11, 1.34) | N/A |
 | Efavirenz | 600 at bedtime | 400/100 capsule twice daily | 11, 123 | 0.91 (0.72, 1.15) | 0.84 (0.62, 1.15) | 0.84 (0.58, 1.20) |
 | Elbasvir/ grazoprevir1 | 50 once daily | 400/100 twice daily | 10 | 2.87 (2.29, 3.58) | 3.71 (3.05, 4.53) | 4.58 (3.72, 5.64) |
-|  | 200 once daily | 13 | 7.31 (5.65, 9.45) | 12.86 (10.25, 16.13) | 21.70 (12.99, 36.25) |  |
+|  | 200 once daily |  | 13 | 7.31 (5.65, 9.45) | 12.86 (10.25, 16.13) | 21.70 (12.99, 36.25) |
 | Ethinyl Estradiol | 35 µg once daily (Ortho Novum®) | 400/100 capsule twice daily | 12 | 0.59 (0.52, 0.66) | 0.58 (0.54, 0.62) | 0.42 (0.36, 0.49) |
 | Etravirine | 200 twice daily | 400/100 tablet twice day | 16 | 0.70 (0.64-0.78) | 0.65 (0.59-0.71) | 0.55 (0.49-0.62) |
 | Fosamprenavir1 | 700 twice daily plus ritonavir 100 twice daily | 400/100 capsule twice daily | 18 | 0.42 (0.30, 0.58) | 0.37 (0.28, 0.49) | 0.35 (0.27, 0.46) |
@@ -152,9 +152,9 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Pr
 | Nevirapine | 200 once daily twice daily | 400/100 capsule twice daily | 5, 63 | 1.05 (0.72, 1.52) | 1.08 (0.72, 1.64) | 1.15 (0.71, 1.86) |
 | Norethindrone | 1 once daily (Ortho Novum®) | 400/100 capsule twice daily | 12 | 0.84 (0.75, 0.94) | 0.83 (0.73, 0.94) | 0.68 (0.54, 0.85) |
 | Ombitasvir/ paritaprevir/ ritonavir+ dasabuvir1 | 25/150/100 + dasabuvir 400 | 400/100 tablet twice daily | 6 | 1.14 (1.01, 1.28) | 1.17 (1.07, 1.28) | 1.24 (1.14, 1.34) |
-| 2.04 (1.30, 3.20) | 2.17 (1.63, 2.89) | 2.36 (1.00, 5.55) |  |  |  |  |
-| 1.55 (1.16, 2.09) | 2.05 (1.49, 2.81) | 5.25 (3.33, 8.28) |  |  |  |  |
-| 0.99 (0.75, 1.31) | 0.93 (0.75, 1.15) | 0.68 (0.57, 0.80) |  |  |  |  |
+|  |  |  |  | 2.04 (1.30, 3.20) | 2.17 (1.63, 2.89) | 2.36 (1.00, 5.55) |
+|  |  |  |  | 1.55 (1.16, 2.09) | 2.05 (1.49, 2.81) | 5.25 (3.33, 8.28) |
+|  |  |  |  | 0.99 (0.75, 1.31) | 0.93 (0.75, 1.15) | 0.68 (0.57, 0.80) |
 | Pitavastatin1 | 4 once daily | 400/100 tablet twice daily | 23 | 0.96 (0.84-1.10) | 0.80 (0.73-0.87) | N/A |
 | Pravastatin | 20 once daily | 400/100 capsule twice daily | 12 | 1.26 (0.87, 1.83) | 1.33 (0.91, 1.94) | N/A |
 | Rifabutin | 150 once daily combo vs. 300 once daily alone | 400/100 capsule twice daily | 12 | 2.12 (1.89, 2.38) | 3.03 (2.79, 3.30) | 4.90 (3.18, 5.76) |

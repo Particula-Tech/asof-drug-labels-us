@@ -95,7 +95,7 @@ KALETRA Oral Solution Daily Dosage Recommendations in Pediatric Patients 14 days
 | --- | --- | --- | --- | --- |
 | 14 days to 6 months | 16/4 |  | 300/75 | Given twice daily |
 | Older than 6 months to less than 18 years | Less than15 kg | 12/3 | 230/57.5 | Given twice daily |
-| 15 kg to 40 kg | 10/2.5 |  |  |  |
+|  | 15 kg to 40 kg | 10/2.5 |  |  |
 
 Tablet Dosage Recommendation in Pediatric Patients Older than 6 Months to Less than 18 Years:
 
@@ -123,7 +123,7 @@ KALETRA Oral Solution Daily Dosage Recommendations for Pediatric Patients > 6 Mo
 | Patient Age | Based on Weight (mg/kg) |  | Based on BSA (mg/m2) | Frequency |
 | --- | --- | --- | --- | --- |
 | > 6 months to < 18 years | <15 kg | 13/3.25 | 300/75 | Given twice daily |
-| ≥15 kg to 45 kg | 11/2.75 |  |  |  |
+|  | ≥15 kg to 45 kg | 11/2.75 |  |  |
 
 Dosing recommendations using tablets
 

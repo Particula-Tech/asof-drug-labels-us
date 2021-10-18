@@ -27,103 +27,103 @@ The following have been identified as adverse reactions of moderate or severe in
 Table 8.
 Adverse Reactions of Moderate or Severe Intensity Occurring in at Least 0.1% of Adult Patients Receiving KALETRA in Combined Phase II/IV Studies (N=2,612)
 
-| System Organ Class (SOC) and Adverse Reaction |  | n | % |
-| --- | --- | --- | --- |
-| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |  |
-| anemia* |  | 54 | 2.1 |
-| leukopenia and neutropenia* |  | 44 | 1.7 |
-| lymphadenopathy* |  | 35 | 1.3 |
-| CARDIAC DISORDERS |  |  |  |
-| atherosclerosis such as myocardial infarction* |  | 10 | 0.4 |
-| atrioventricular block* |  | 3 | 0.1 |
-| tricuspid valve incompetence* |  | 3 | 0.1 |
-| EAR AND LABYRINTH DISORDERS |  |  |  |
-| vertigo* |  | 7 | 0.3 |
-| tinnitus |  | 6 | 0.2 |
-| ENDOCRINE DISORDERS |  |  |  |
-| hypogonadism* |  | 16 | 0.81 |
-| EYE DISORDERS |  |  |  |
-| visual impairment* |  | 8 | 0.3 |
-| GASTROINTESTINAL DISORDERS |  |  |  |
-| diarrhea* |  | 510 | 19.5 |
-| nausea |  | 269 | 10.3 |
-| vomiting* |  | 177 | 6.8 |
-| abdominal pain (upper and lower)* |  | 160 | 6.1 |
-| gastroenteritis and colitis* |  | 66 | 2.5 |
-| dyspepsia |  | 53 | 2.0 |
-| pancreatitis* |  | 45 | 1.7 |
-| Gastroesophageal Reflux Disease (GERD)* |  | 40 | 1.5 |
-| hemorrhoids |  | 39 | 1.5 |
-| flatulence |  | 36 | 1.4 |
-| abdominal distension |  | 34 | 1.3 |
-| constipation* |  | 26 | 1.0 |
-| stomatitis and oral ulcers* |  | 24 | 0.9 |
-| duodenitis and gastritis* |  | 20 | 0.8 |
-| gastrointestinal hemorrhage including rectal hemorrhage* |  | 13 | 0.5 |
-| dry mouth |  | 9 | 0.3 |
-| gastrointestinal ulcer* |  | 6 | 0.2 |
-| fecal incontinence |  | 5 | 0.2 |
-| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |  |
-| fatigue including asthenia* |  | 198 | 7.6 |
-| HEPATOBILIARY DISORDERS |  |  |  |
-| hepatitis including AST, ALT, and GGT increases* |  | 91 | 3.5 |
-| hepatomegaly |  | 5 | 0.2 |
-| cholangitis |  | 3 | 0.1 |
-| hepatic steatosis |  | 3 | 0.1 |
-| IMMUNE SYSTEM DISORDERS |  |  |  |
-| hypersensitivity including urticaria and angioedema* |  | 70 | 2.7 |
-| immune reconstitution syndrome |  | 3 | 0.1 |
-| INFECTIONS AND INFESTATIONS |  |  |  |
-| upper respiratory tract infection* |  | 363 | 13.9 |
-| lower respiratory tract infection* |  | 202 | 7.7 |
-| skin infections including cellulitis, folliculitis, and furuncle* |  | 86 | 3.3 |
-| METABOLISM AND NUTRITION DISORDERS |  |  |  |
-| hypercholesterolemia* |  | 192 | 7.4 |
-| hypertriglyceridemia* |  | 161 | 6.2 |
-| weight decreased* |  | 61 | 2.3 |
-| decreased appetite |  | 52 | 2.0 |
-| blood glucose disorders including diabetes mellitus* |  | 30 | 1.1 |
-| weight increased* |  | 20 | 0.8 |
-| lactic acidosis* |  | 11 | 0.4 |
-| increased appetite |  | 5 | 0.2 |
-| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |  |
-| musculoskeletal pain including arthralgia and back pain* |  | 166 | 6.4 |
-| myalgia* |  | 46 | 1.8 |
-| muscle disorders such as weakness and spasms* |  | 34 | 1.3 |
-| rhabdomyolysis* |  | 18 | 0.7 |
-| osteonecrosis |  | 3 | 0.1 |
-| NERVOUS SYSTEM DISORDERS |  |  |  |
-| headache including migraine* |  | 165 | 6.3 |
-| insomnia* |  | 99 | 3.8 |
-| neuropathy and peripheral neuropathy* |  | 51 | 2.0 |
-| dizziness* |  | 45 | 1.7 |
-| ageusia* |  | 19 | 0.7 |
-| convulsion* |  | 9 | 0.3 |
-| tremor* |  | 9 | 0.3 |
-| cerebral vascular event* |  | 6 | 0.2 |
-| PSYCHIATRIC DISORDERS |  |  |  |
-| anxiety* |  | 101 | 3.9 |
-| abnormal dreams* |  | 19 | 0.7 |
-| libido decreased |  | 19 | 0.7 |
-| RENAL AND URINARY DISORDERS |  |  |  |
-| renal failure* |  | 31 | 1.2 |
-| hematuria* |  | 20 | 0.8 |
-| nephritis* |  | 3 | 0.1 |
-| REPRODUCTIVE SYSTEM AND BREAST DISORDERS |  |  |  |
-| erectile dysfunction* |  | 34 | 1.71 |
-| menstrual disorders - amenorrhea, menorrhagia* |  | 10 | 1.72 |
-| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |  |
-| rash including maculopapular rash* |  | 99 | 3.8 |
-| lipodystrophy acquired including facial wasting* |  | 58 | 2.2 |
-| dermatitis/rash including eczema and seborrheic dermatitis* |  | 50 | 1.9 |
-| night sweats* |  | 42 | 1.6 |
-| pruritus* |  | 29 | 1.1 |
-| alopecia |  | 10 | 0.4 |
-| capillaritis and vasculitis* |  | 3 | 0.1 |
-| VASCULAR DISORDERS |  |  |  |
-| hypertension* |  | 47 | 1.8 |
-| deep vein thrombosis* |  | 17 | 0.7 |
-| *Represents a medical concept including several similar MedDRA PTs 1. Percentage of male population (N=2,038) 2. Percentage of female population (N=574) |  |  |  |
+| System Organ Class (SOC) and Adverse Reaction | n | % |
+| --- | --- | --- |
+| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
+| anemia* | 54 | 2.1 |
+| leukopenia and neutropenia* | 44 | 1.7 |
+| lymphadenopathy* | 35 | 1.3 |
+| CARDIAC DISORDERS |  |  |
+| atherosclerosis such as myocardial infarction* | 10 | 0.4 |
+| atrioventricular block* | 3 | 0.1 |
+| tricuspid valve incompetence* | 3 | 0.1 |
+| EAR AND LABYRINTH DISORDERS |  |  |
+| vertigo* | 7 | 0.3 |
+| tinnitus | 6 | 0.2 |
+| ENDOCRINE DISORDERS |  |  |
+| hypogonadism* | 16 | 0.81 |
+| EYE DISORDERS |  |  |
+| visual impairment* | 8 | 0.3 |
+| GASTROINTESTINAL DISORDERS |  |  |
+| diarrhea* | 510 | 19.5 |
+| nausea | 269 | 10.3 |
+| vomiting* | 177 | 6.8 |
+| abdominal pain (upper and lower)* | 160 | 6.1 |
+| gastroenteritis and colitis* | 66 | 2.5 |
+| dyspepsia | 53 | 2.0 |
+| pancreatitis* | 45 | 1.7 |
+| Gastroesophageal Reflux Disease (GERD)* | 40 | 1.5 |
+| hemorrhoids | 39 | 1.5 |
+| flatulence | 36 | 1.4 |
+| abdominal distension | 34 | 1.3 |
+| constipation* | 26 | 1.0 |
+| stomatitis and oral ulcers* | 24 | 0.9 |
+| duodenitis and gastritis* | 20 | 0.8 |
+| gastrointestinal hemorrhage including rectal hemorrhage* | 13 | 0.5 |
+| dry mouth | 9 | 0.3 |
+| gastrointestinal ulcer* | 6 | 0.2 |
+| fecal incontinence | 5 | 0.2 |
+| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
+| fatigue including asthenia* | 198 | 7.6 |
+| HEPATOBILIARY DISORDERS |  |  |
+| hepatitis including AST, ALT, and GGT increases* | 91 | 3.5 |
+| hepatomegaly | 5 | 0.2 |
+| cholangitis | 3 | 0.1 |
+| hepatic steatosis | 3 | 0.1 |
+| IMMUNE SYSTEM DISORDERS |  |  |
+| hypersensitivity including urticaria and angioedema* | 70 | 2.7 |
+| immune reconstitution syndrome | 3 | 0.1 |
+| INFECTIONS AND INFESTATIONS |  |  |
+| upper respiratory tract infection* | 363 | 13.9 |
+| lower respiratory tract infection* | 202 | 7.7 |
+| skin infections including cellulitis, folliculitis, and furuncle* | 86 | 3.3 |
+| METABOLISM AND NUTRITION DISORDERS |  |  |
+| hypercholesterolemia* | 192 | 7.4 |
+| hypertriglyceridemia* | 161 | 6.2 |
+| weight decreased* | 61 | 2.3 |
+| decreased appetite | 52 | 2.0 |
+| blood glucose disorders including diabetes mellitus* | 30 | 1.1 |
+| weight increased* | 20 | 0.8 |
+| lactic acidosis* | 11 | 0.4 |
+| increased appetite | 5 | 0.2 |
+| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |
+| musculoskeletal pain including arthralgia and back pain* | 166 | 6.4 |
+| myalgia* | 46 | 1.8 |
+| muscle disorders such as weakness and spasms* | 34 | 1.3 |
+| rhabdomyolysis* | 18 | 0.7 |
+| osteonecrosis | 3 | 0.1 |
+| NERVOUS SYSTEM DISORDERS |  |  |
+| headache including migraine* | 165 | 6.3 |
+| insomnia* | 99 | 3.8 |
+| neuropathy and peripheral neuropathy* | 51 | 2.0 |
+| dizziness* | 45 | 1.7 |
+| ageusia* | 19 | 0.7 |
+| convulsion* | 9 | 0.3 |
+| tremor* | 9 | 0.3 |
+| cerebral vascular event* | 6 | 0.2 |
+| PSYCHIATRIC DISORDERS |  |  |
+| anxiety* | 101 | 3.9 |
+| abnormal dreams* | 19 | 0.7 |
+| libido decreased | 19 | 0.7 |
+| RENAL AND URINARY DISORDERS |  |  |
+| renal failure* | 31 | 1.2 |
+| hematuria* | 20 | 0.8 |
+| nephritis* | 3 | 0.1 |
+| REPRODUCTIVE SYSTEM AND BREAST DISORDERS |  |  |
+| erectile dysfunction* | 34 | 1.71 |
+| menstrual disorders - amenorrhea, menorrhagia* | 10 | 1.72 |
+| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |
+| rash including maculopapular rash* | 99 | 3.8 |
+| lipodystrophy acquired including facial wasting* | 58 | 2.2 |
+| dermatitis/rash including eczema and seborrheic dermatitis* | 50 | 1.9 |
+| night sweats* | 42 | 1.6 |
+| pruritus* | 29 | 1.1 |
+| alopecia | 10 | 0.4 |
+| capillaritis and vasculitis* | 3 | 0.1 |
+| VASCULAR DISORDERS |  |  |
+| hypertension* | 47 | 1.8 |
+| deep vein thrombosis* | 17 | 0.7 |
+| *Represents a medical concept including several similar MedDRA PTs 1. Percentage of male population (N=2,038) 2. Percentage of female population (N=574) |  |  |
 
 Laboratory Abnormalities in Adults
 
