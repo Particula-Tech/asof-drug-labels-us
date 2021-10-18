@@ -1,3 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 Fulvestrant-inj-250mg/5mL-NDC 70700-284-98 Carton Label
+
+Fulvestrant-inj-250mg/5mL-NDC 70700-284-98 Container Label
