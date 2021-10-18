@@ -14,14 +14,12 @@ Warning: Women who are or may be pregnant should not handle ZYTIGA without glove
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
-60 film-coated tablets
-
 NDC 57894-195-06
 
-Zytiga® 500mg
-
-(abiraterone acetate) Tablets
+Zytiga® 500 mg (abiraterone acetate) Tablets
 
 Each film-coated tablet contains 500 mg of abiraterone acetate.
 
 Rx only
+
+60 film-coated tablets janssen
