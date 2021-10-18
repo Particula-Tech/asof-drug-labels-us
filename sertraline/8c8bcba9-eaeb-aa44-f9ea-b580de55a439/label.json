@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215133"
+  ],
+  "inn": "sertraline",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-664-30",
+    "52427-672-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "sertraline hydrochloride",
+      "name": "sertraline HCl"
+    }
+  ],
+  "setid": "8c8bcba9-eaeb-aa44-f9ea-b580de55a439",
+  "source": "dailymed"
+}
