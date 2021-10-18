@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Topicort® (desoximetasone) Topical Spray, 0.25% contains desoximetasone as the active ingredient.
+Topicort® (desoximetasone) Topical Spray, 0.25% for dermatologic use contains desoximetasone as the active ingredient.
 
 Desoximetasone is a corticosteroid with the chemical name of pregna-1, 4-diene-3, 20-dione, 9-fluoro-11, 21-dihydroxy-16-methyl-, (11β,16α)-.
 
