@@ -9,6 +9,9 @@ Applying ANDROGEL 1%:
 - Before applying ANDROGEL 1%, make sure that your shoulders, upper arms or stomach are clean, dry, and there is no broken skin.
 - The application sites for ANDROGEL 1% are the shoulders, upper arms or stomach area (abdomen) that will be covered by a short sleeve t-shirt (see Figure A). Do not apply ANDROGEL 1% to any other parts of your body such as your penis, scrotum, chest, armpits (axillae), knees, or back.
 
+- 
+- 
+
 (Figure A)
 
 - Tear open the packet completely at the dotted line.

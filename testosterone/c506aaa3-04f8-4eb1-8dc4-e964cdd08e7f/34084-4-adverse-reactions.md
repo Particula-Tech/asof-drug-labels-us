@@ -12,7 +12,7 @@ Table 1: Adverse Events Possibly, Probably or Definitely Related to Use of Andro
 
 | Adverse Event | Dose of AndroGel 1% |  |  |
 | --- | --- | --- | --- |
-| 50 mg | 75 mg | 100 mg |  |
+|  | 50 mg | 75 mg | 100 mg |
 |  | N = 77 | N = 40 | N = 78 |
 | Acne | 1% | 3% | 8% |
 | Alopecia | 1% | 0% | 1% |
