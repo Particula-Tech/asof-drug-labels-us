@@ -42,7 +42,7 @@ East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Revised: 06/2020
+Revised: 05/2020
 
 Patient Information Leaflet
 
@@ -164,4 +164,4 @@ East Brunswick, NJ 08816
 
 51U000000240US05
 
-Revised: 06/2020
+Revised: 05/2020
