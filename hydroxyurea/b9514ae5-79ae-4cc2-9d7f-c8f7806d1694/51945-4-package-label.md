@@ -9,5 +9,3 @@ Caution: Cytotoxic, Special Handling Procedures
 Rx only
 
 100 CAPSULES
-
-TEVA
