@@ -1,59 +1,89 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 0.025 mg
+NDC 0078-0365-42
 
-Rx Only NDC 0078-0365-42
+0.025
 
-Vivelle-Dot® (estradiol transdermal system)
+VIVELLE dot®
+
+(estradiol transdermal system)
 
 Delivers 0.025 mg/day
 
+Rx only
+
 Includes 8 Systems
 
-PRINCIPAL DISPLAY PANEL
+Twice Weekly
 
-Package Label – 0.0375 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0343-42
+NDC 0078-0343-42
 
-Vivelle-Dot® (estradiol transdermal system)
+0.0375
+
+VIVELLE dot®
+
+(estradiol transdermal system)
 
 Delivers 0.0375 mg/day
 
+Rx only
+
 Includes 8 Systems
 
-PRINCIPAL DISPLAY PANEL
+Twice Weekly
 
-Package Label – 0.05 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0344-42
+NDC 0078-0344-42
 
-Vivelle-Dot® (estradiol transdermal system)
+0.05
+
+VIVELLE dot®
+
+(estradiol transdermal system)
 
 Delivers 0.05 mg/day
 
+Rx only
+
 Includes 8 Systems
 
-PRINCIPAL DISPLAY PANEL
+Twice Weekly
 
-Package Label – 0.075 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0345-42
+NDC 0078-0345-42
 
-Vivelle-Dot® (estradiol transdermal system)
+0.075
+
+VIVELLE dot®
+
+(estradiol transdermal system)
 
 Delivers 0.075 mg/day
 
+Rx only
+
 Includes 8 Systems
 
-PRINCIPAL DISPLAY PANEL
+Twice Weekly
 
-Package Label – 0.1 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0346-42
+NDC 0078-0346-42
 
-Vivelle-Dot® (estradiol transdermal system)
+0.1
+
+VIVELLE dot®
+
+(estradiol transdermal system)
 
 Delivers 0.1 mg/day
 
+Rx only
+
 Includes 8 Systems
+
+Twice Weekly

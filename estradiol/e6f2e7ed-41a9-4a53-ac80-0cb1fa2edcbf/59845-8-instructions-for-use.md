@@ -4,6 +4,10 @@ Vivelle-Dot® (vī-VEL-dot)
 
 (estradiol transdermal system)
 
+Read this Instructions for Use before you start using Vivelle-Dot and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
+
 1.
 Determine Your Schedule for Your Twice-a-Week Application
 
@@ -54,4 +58,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-T2014-78 July 2014
+T2021-131
+
+Approved October 2021

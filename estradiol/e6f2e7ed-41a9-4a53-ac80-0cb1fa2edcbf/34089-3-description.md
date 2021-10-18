@@ -12,7 +12,7 @@ Estradiol USP is a white, crystalline powder, chemically described as estra-1,3,
 The structural formula is:
 
 The molecular formula of estradiol is C18H2402.
-The molecular weight is 272.39.
+The molecular weight is 272.39 g/mol.
 
 Vivelle-Dot is comprised of 3 layers.
 Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a translucent polyolefin film (2) an adhesive formulation containing estradiol, acrylic adhesive, silicone adhesive, oleyl alcohol, NF, povidone, USP and dipropylene glycol, and (3) a polyester release liner which is attached to the adhesive surface and must be removed before the system can be used.

@@ -2,16 +2,16 @@
 
 1. Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause.
    JAMA.
-   2007;297:1465-1477.
+   2007; 297:1465-1477.
 2. Hsia J, et al. Conjugated Equine Estrogens and Coronary Heart Disease.
    Arch Int Med.
-   2006;166:357-365.
+   2006; 166:357-365.
 3. Curb JD, et al. Venous Thrombosis and Conjugated Equine Estrogen in Women Without a Uterus.
    Arch Int Med.
-   2006;166:772-780.
+   2006; 166:772-780.
 4. Cushman M, et al. Estrogen Plus Progestin and Risk of Venous Thrombosis.
    JAMA.
-   2004;292:1573-1580.
+   2004; 292:1573-1580.
 5. Stefanick ML, et al. Effects of Conjugated Equine Estrogens on Breast Cancer and Mammography Screening in Postmenopausal Women With Hysterectomy.
    JAMA.
    2006; 295:1647-1657.

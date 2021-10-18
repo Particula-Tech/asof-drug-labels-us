@@ -2,25 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Vivelle-Dot should not be used during pregnancy [see Contraindications (4)].
-There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins as an oral contraceptive inadvertently during early pregnancy.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Vivelle-Dot is not indicated for use in pregnancy.
+There are no data with the use of Vivelle-Dot in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
 
-Vivelle-Dot should not be used during lactation.
-Estrogen administration to nursing women has been shown to decrease the quantity and quality of the breast milk.
-Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogens.
-Caution should be exercised when Vivelle-Dot is administered to a nursing woman.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Estrogens are present in human milk and can reduce milk production in breast-feeding women.
+This reduction can occur at any time but is less likely to occur once breast-feeding is well-established.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Vivelle-Dot and any potential adverse effects on the breastfed child from Vivelle-Dot or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Estrogen therapy has been used for the induction of puberty in adolescents with some forms of pubertal delay.
-Safety and effectiveness in pediatric patients have not otherwise been established.
+Vivelle-Dot is not indicated for use in pediatric patients.
+Clinical studies have not been conducted in the pediatric population.
 
-Large and repeated doses of estrogen over an extended time period have been shown to accelerate epiphyseal closure, which could result in short adult stature if treatment is initiated before the completion of physiologic puberty in normally developing children.
 If estrogen is administered to patients whose bone growth is not complete, periodic monitoring of bone maturation and effects on epiphyseal centers is recommended during estrogen administration.
-
-Estrogen treatment of prepubertal girls also induces premature breast development and vaginal cornification, and may induce vaginal bleeding.
 
 ## 8.5 Geriatric Use
 
@@ -36,12 +39,4 @@ The Women’s Health Initiative Memory Study
 
 In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].
 
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].
-
-## 8.6 Renal Impairment
-
-The effect of renal impairment on the pharmacokinetics of Vivelle-Dot has not been studied.
-
-## 8.7 Hepatic Impairment
-
-The effect of hepatic impairment on the pharmacokinetics of Vivelle-Dot has not been studied.
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].

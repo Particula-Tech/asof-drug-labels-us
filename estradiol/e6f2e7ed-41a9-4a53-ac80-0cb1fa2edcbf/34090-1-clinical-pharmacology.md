@@ -18,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamics data for Vivelle-Dot.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Vivelle-Dot nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -47,18 +48,17 @@ Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abd
 | 0.075 | 99 ± 35 | 72 ± 24 | 60 ± 24 |
 | 0.1 | 133 ± 51 | 89 ± 38 | 90 ± 44 |
 | 0.1¶ | 145 ± 71 | 104 ± 52 | 85 ± 47 |
-| *Mean baseline estradiol concentration =11.7 pg/mL |  |  |  |
-| †Peak plasma concentration |  |  |  |
-| ‡Average plasma concentration |  |  |  |
-| §Minimum plasma concentration at 84 hr |  |  |  |
-| #Measured over 80 hr |  |  |  |
-| ¶Applied to the buttocks |  |  |  |
+| *Mean baseline estradiol concentration =11.7 pg/mL. |  |  |  |
+| †Peak plasma concentration. |  |  |  |
+| ‡Average plasma concentration. |  |  |  |
+| §Minimum plasma concentration at 84 hr. |  |  |  |
+| #Measured over 80 hr. |  |  |  |
+| ¶Applied to the buttocks. |  |  |  |
 
 Vivelle-Dot (estradiol transdermal system), the revised formulation with smaller system sizes, was shown to be bioequivalent to the original formulation, Vivelle (estradiol transdermal system), used in the clinical trials.
 
 Distribution
 
-No specific investigation of the tissue distribution of estradiol absorbed from Vivelle-Dot in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
@@ -67,7 +67,7 @@ Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
-These transformations take place mainly in the liver by Cytochrome 450 isoforms CYPIA2 and CYP3A4.
+These transformations take place mainly in the liver by Cytochrome 450 isoforms CYP1A2 and CYP3A4.
 Estradiol undergoes further metabolism to sulfate and glucuronide conjugates.
 Estradiol and its metabolites are glucuronidated by UGT1A1 and UGT2B7.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
@@ -80,12 +80,8 @@ Estradiol, estrone and estriol are excreted in the urine along with glucuronide 
 The half-life values calculated after dosing with the Vivelle-Dot ranged from 5.9 to 7.7 hours.
 After removal of the transdermal systems, serum concentrations of estradiol and estrone returned to baseline levels within 24 hours.
 
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted with Vivelle-Dot in specific populations, including women with renal or hepatic impairment.
-
 Adhesion
 
-Based on combined data from 3 short-term clinical trials consisting of 471 observations, 85 percent of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
-Three (3) percent of the systems detached and were reapplied or replaced during the 3.5-day wear period.
-Approximately 80 percent of the transdermal systems evaluated in these studies were Vivelle-Dot 0.05 mg per day.
+Based on combined data from 3 short-term clinical trials consisting of 471 observations, 85% of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
+Three percent (3%) of the systems detached and were reapplied or replaced during the 3.5-day wear period.
+Approximately 80% of the transdermal systems evaluated in these studies were Vivelle-Dot 0.05 mg per day.
