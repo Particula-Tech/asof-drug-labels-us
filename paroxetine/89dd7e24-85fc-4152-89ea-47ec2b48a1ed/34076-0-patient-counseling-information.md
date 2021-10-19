@@ -17,6 +17,9 @@ Activation of Mania/Hypomania: Advise patients and their caregivers to observe f
 Discontinuation Syndrome: Advise patients not to abruptly discontinue paroxetine tablets and to discuss any tapering regimen with their healthcare provider.
 Inform patients that adverse reactions can occur when paroxetine tablets are discontinued [see Warnings and Precautions (5.7)].
 
+Sexual Dysfunction: Advise patients that use of paroxetine tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Allergic Reactions: Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions (6.1, 6.2)].
 
 Embryo-Fetal Toxicity: Advise women of the potential risk to the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].

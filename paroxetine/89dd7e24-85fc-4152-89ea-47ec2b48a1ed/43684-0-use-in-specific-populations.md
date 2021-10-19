@@ -4,7 +4,7 @@
 
 ### Pregnancy Category D
 
-[see Warnings and Precautions (5.14)]
+[see Warnings and Precautions (5.4)]
 
 Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 If paroxetine is used during pregnancy, or if the patient becomes pregnant while taking paroxetine, advise the patient of the potential hazard to the fetus.
@@ -74,7 +74,7 @@ Effectiveness was not demonstrated in three placebo-controlled trials in 752 par
 Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning, Warnings and Precautions (5.1)].
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 
-In placebo-controlled clinical trials conducted with pediatric patients, the following adverse reactions were reported in at least 2% of pediatric patients treated with paroxetine tablets and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
+In placebo-controlled clinical trials conducted with pediatric patients, the following adverse reactions were reported in at least 2% of pediatric patients treated with paroxetine tablets and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
 
 Adverse reactions upon discontinuation of treatment with paroxetine tablets in the pediatric clinical trials that included a taper phase regimen, which occurred in at least 2% of patients and at a rate at least twice that of placebo, were: emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain.
 

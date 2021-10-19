@@ -13,6 +13,7 @@ The following adverse reactions are included in more detail in other sections of
 - •Angle-closure Glaucoma [see Warnings and Precautions (5.9)]
 - •Hyponatremia [see Warnings and Precautions (5.10)]
 - •Bone Fracture [see Warnings and Precautions (5.12)]
+- •Sexual Dysfunction [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -135,7 +136,7 @@ Table 4: Adverse Reactions (≥ 1% of Paroxetine Tablets-Treated Patients and Gr
 | Taste Perversion | 2 | 0 |
 | Urogenital System |  |  |
 | Ejaculatory DisturbancePercentage corrected for gender.Mostly “ejaculatory delay.” | 13 | 0 |
-| Other Make Genital DisordersIncludes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.” | 10 | 0 |
+| Other Male Genital DisordersIncludes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.” | 10 | 0 |
 | Urinary Frequency | 3 | 1 |
 | Urination DisorderIncludes mostly “difficulty with micturition” and “urinary hesitancy.” | 3 | 0 |
 | Female Genital DisordersIncludes mostly “anorgasmia” and “difficulty reaching climax/orgasm.” | 2 | 0 |
