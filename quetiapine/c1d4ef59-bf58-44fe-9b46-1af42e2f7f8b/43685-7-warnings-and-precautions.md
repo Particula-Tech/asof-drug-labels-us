@@ -286,8 +286,8 @@ Agranulocytosis has been reported.
 Agranulocytosis (defined as absolute neutrophil count <500/mm3) has been reported with quetiapine, including fatal cases and cases in patients without pre-existing risk factors.
 Neutropenia should be considered in patients presenting with infection, particularly in the absence of obvious predisposing factor(s), or in patients with unexplained fever, and should be managed as clinically appropriate.
 
-Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug- induced leukopenia/neutropenia.
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue quetiapine and have their WBC followed until recovery.
@@ -343,7 +343,7 @@ Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Pla
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
 | 3.4%(37/1,097) | 0.6%(4/651) | 0.7%(52/7,218) | 0.1%(4/3,668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5,673) | 0.0%(1/2,679) | 3.2%(240/7,587) | 2.7%(105/3,912) |
-| 1. Based on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.2. Includes quetiapine and quetiapine extended-release data. |  |  |  |  |  |  |  |  |  |
+| 1. Based on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.2. Includes quetiapine and quetiapine extended-release data. |  |  |  |  |  |  |  |  |  |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0.0% (1/3,007) for placebo.
 

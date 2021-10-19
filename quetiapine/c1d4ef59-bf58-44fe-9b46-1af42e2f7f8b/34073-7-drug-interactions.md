@@ -16,7 +16,7 @@ The dose of quetiapine should be reduced to one sixth of the original dose if co
 CYP3A4 inducers:
 
 Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold.
-Increased doses of quetiapine up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Increased doses of quetiapine up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduced to the original level within 7 to 14 days [see Dosage and Administration (2.6)].
 
 Anticholinergic Drugs:

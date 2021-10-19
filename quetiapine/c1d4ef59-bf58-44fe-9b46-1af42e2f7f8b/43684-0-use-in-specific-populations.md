@@ -90,13 +90,13 @@ Safety and effectiveness of quetiapine in pediatric patients less than 13 years 
 Maintenance
 
 The safety and effectiveness of quetiapine in the maintenance treatment of bipolar disorder has not been established in pediatric patients less than 18 years of age.
-The safety and effectiveness of quetiapine fin the maintenance treatment of schizophrenia has not been established in any patient population, including pediatric patients.
+The safety and effectiveness of quetiapine in the maintenance treatment of schizophrenia has not been established in any patient population, including pediatric patients.
 
 Bipolar Mania
 
-The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
-Safety and effectiveness of quetiapine fin pediatric patients less than 10 years of age with bipolar mania have not been established.
+Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 
 Bipolar Depression
 

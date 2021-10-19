@@ -1,5 +1,7 @@
 # Medication Guide
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Quetiapine (kwe tye’ a peen) Tablets
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
@@ -256,7 +258,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-K 9/2020
+L 9/2021

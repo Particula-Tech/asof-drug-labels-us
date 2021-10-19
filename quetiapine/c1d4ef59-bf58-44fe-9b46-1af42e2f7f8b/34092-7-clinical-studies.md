@@ -24,7 +24,7 @@ The clinical significance of this finding is unknown.
 
 Adolescents (ages 13 to 17)
 
-The efficacy of quetiapine n the treatment of schizophrenia in adolescents (13 to 17 years of age) was demonstrated in a 6-week, double-blind, placebo-controlled trial (Study 4).
+The efficacy of quetiapine in the treatment of schizophrenia in adolescents (13 to 17 years of age) was demonstrated in a 6-week, double-blind, placebo-controlled trial (Study 4).
 Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: quetiapine 400 mg/day (n=73), quetiapine 800 mg/day (n=74), or placebo (n=75).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
@@ -84,7 +84,7 @@ Adjunct Therapy
 
 In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
-Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
+Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (Study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n=200), quetiapine was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.
@@ -93,7 +93,7 @@ The primary efficacy results of these studies in the treatment of mania in adult
 
 Children and Adolescents (ages 10 to 17)
 
-The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
+The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (Study 4 in Table 20).
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: quetiapine 400 mg/day (n=95), quetiapine 600 mg/day (n=98), or placebo (n=91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -106,7 +106,7 @@ Table 20: Mania Trials
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD)4 | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference2 (95% CI) |  |  |
-| Study 1 | Quetiapine (200 to 800 mg/day)1, 4 | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
+| Study 1 | Quetiapine (200 to 800 mg/day)1, 3 | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
 | Haloperidol1, 3 | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 2 | Quetiapine (200 to 800 mg/day)1 | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
@@ -159,7 +159,7 @@ In the open-label phase, patients were required to be stable on quetiapine plus 
 On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either quetiapine (administered twice daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the quetiapine group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
-The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
+The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed, or depressed episode).
 A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event (Figure 1 and Figure 2).
 
 In both studies, quetiapine was superior to placebo in increasing the time to recurrence of any mood event.
