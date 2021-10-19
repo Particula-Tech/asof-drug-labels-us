@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA206408"
+  ],
+  "inn": "propofol",
+  "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-345-31",
+    "23155-345-32",
+    "23155-345-33",
+    "23155-345-41",
+    "23155-345-42",
+    "23155-345-43",
+    "23155-345-44"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "propofol"
+    }
+  ],
+  "setid": "10272dc1-657d-4798-a34a-b6341b92e560",
+  "source": "dailymed"
+}
