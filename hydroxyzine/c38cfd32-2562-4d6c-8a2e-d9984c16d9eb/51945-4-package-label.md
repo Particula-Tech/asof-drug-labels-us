@@ -2,7 +2,7 @@
 
 NDC 0185-0674-01
 
-HydrOXYzine Pamoate Capsules, USP
+hydrOXYzine Pamoate Capsules, USP
 
 25 mg*
 
@@ -30,7 +30,7 @@ Sandoz
 
 NDC 0185-0676-01
 
-HydrOXYzine Pamoate Capsules, USP
+hydrOXYzine Pamoate Capsules, USP
 
 50 mg*
 
