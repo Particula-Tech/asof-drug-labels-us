@@ -7,6 +7,15 @@ Mallinckrodt™
 
 L00O06 Rev 07/2017
 
+# PRINCIPAL DISPLAY PANEL 10 mg
+
+NDC 0406-8510-01 100 TABLETS Oxycodone Hydrochloride Tablets USP CII 10 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
+10 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
+Mallinckrodt™
+
+L00O48 Rev 01/2021
+
 # PRINCIPAL DISPLAY PANEL 15 mg
 
 NDC 0406-8515-01 100 TABLETS Oxycodone Hydrochloride Tablets USP CII 15 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
@@ -15,6 +24,15 @@ NDC 0406-8515-01 100 TABLETS Oxycodone Hydrochloride Tablets USP CII 15 mg Rx on
 Mallinckrodt™
 
 L00O08 Rev 07/2017
+
+# PRINCIPAL DISPLAY PANEL 20 mg
+
+NDC 0406-8520-01 100 TABLETS Oxycodone Hydrochloride Tablets USP CII 20 mg Rx only Each tablet contains: Oxycodone Hydrochloride USP...........
+20 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
+Mallinckrodt™
+
+L00O49 Rev 01/2021
 
 # PRINCIPAL DISPLAY PANEL 30 mg
 

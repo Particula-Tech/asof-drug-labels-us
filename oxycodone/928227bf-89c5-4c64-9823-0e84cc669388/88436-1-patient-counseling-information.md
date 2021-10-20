@@ -80,7 +80,7 @@ SpecGx LLC Webster Groves, MO 63119 USA
 
 To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1‑800‑778‑7898.
 
-Rev 03/2021
+Rev 08/2021
 
 Mallinckrodt™ Pharmaceuticals
 
