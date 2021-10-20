@@ -32,10 +32,11 @@ Tell your healthcare provider right away if you (or your child):
 - These changes can mean that you (or your child) have damage to your vision.
 - It is recommended that your healthcare provider test your (or your child’s) vision (including peripheral vision) and visual acuity (ability to read an eye chart) before you (or your child) start vigabatrin for oral solution or within 4 weeks after starting vigabatrin for oral solution, and at least every 3 months after that until vigabatrin for oral solution is stopped.
   It is also recommended that you (or your child) have a vision test about 3 to 6 months after vigabatrin for oral solution is stopped.
+  Your vision loss may get worse after you stop taking vigabatrin for oral solution.
 - Some people are not able to complete testing of vision.
   Your healthcare provider will determine if you (or your child) can be tested.
   If you (or your child) cannot complete vision testing, your healthcare provider may continue prescribing vigabatrin for oral solution, but your healthcare provider will not be able to watch for any vision loss you (or your child) may get.
-- Even if your vision (or your child’s vision) seems fine, it is important that you get these regular vision tests because vision damage can happen before you (or your child) notice any changes.
+- Even if your vision (or your child’s vision) seems fine, it is important that you (or your child) get these regular vision tests because vision damage can happen before you (or your child) notice any changes.
 - These vision tests cannot prevent the vision damage that can happen with vigabatrin for oral solution, but they do allow the healthcare provider to decide if you (or your child) should stop vigabatrin for oral solution if vision has gotten worse.
 - Vision testing may not detect vision loss before it is severe
 - If you do not have these vision tests regularly, your healthcare provider may stop prescribing vigabatrin for oral solution.
@@ -106,10 +107,10 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 What is vigabatrin for oral solution?
 
-- Vigabatrin for oral solution is a prescription medicine used along with other treatments to treat adults and children 10 years and older with complex partial seizures (CPS) if:
+- Vigabatrin for oral solution is a prescription medicine used along with other treatments to treat adults and children 2 years and older with complex partial seizures (CPS) if:
 
-- The CPS does not respond well enough to several other treatments, and
-- You and your healthcare provider decide the possible benefit of taking vigabatrin for oral solution is more important than the risk of vision loss.
+- the CPS do not respond well enough to several other treatments, and
+- you and your healthcare provider decide the possible benefit of taking vigabatrin for oral solution is more important than the risk of vision loss.
 
 Vigabatrin for oral solution should not be the first medicine used to treat CPS.
 

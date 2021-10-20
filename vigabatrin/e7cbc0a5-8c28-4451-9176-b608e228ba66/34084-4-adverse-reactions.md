@@ -135,7 +135,7 @@ The median vigabatrin dose was 49.4 mg/kg (range of 8.0 to 105.9 mg/kg).
 Table 6.
 Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Years of Age with Refractory Complex Partial Seizures
 
-| Body System Adverse Reaction | All Vigabatrin [N=109] % | Placebo [N=46] % |
+| Body System Adverse Reaction | All Vigabatrin [N=165] % | Placebo [N=104] % |
 | --- | --- | --- |
 | Eye Disorders |  |  |
 | Diplopia | 3 | 2 |

@@ -4,7 +4,7 @@ Advise patients and caregivers to read the FDA-approved patient labeling (Medica
 
 Administration Instructions for Vigabatrin for Oral Solution
 
-Physicians should confirm that caregiver(s) understand how to mix vigabatrin for oral solution and to administer the correct dose to their infants [see Dosage and Administration (2.5)].
+Physicians should confirm that caregiver(s) understand how to mix vigabatrin for oral solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 
 Permanent Vision Loss
 
