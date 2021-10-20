@@ -6,16 +6,17 @@ Clindamycin is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
+Clindamycin phosphate is water-soluble ester prodrug of clindamycin.
 Biologically inactive clindamycin phosphate is converted to active clindamycin.
 By the end of short-term intravenous infusion, peak serum concentrations of active clindamycin are reached.
 
 After intramuscular injection of clindamycin phosphate, peak concentrations of active clindamycin are reached within 3 hours in adults and 1 hour in pediatric patients.
-Serum concentration-time curves may be constructed from intravenous peak serum concentrations as given in Table 3 by application of elimination half-lives described in the elimination section below.
+Serum concentration-time curves may be constructed from intravenous peak serum concentrations as given in Table 4 by application of elimination half-lives described in the elimination section below.
 
 Serum concentrations of clindamycin can be maintained above the in vitro minimum inhibitory concentrations for most indicated organisms by administration of clindamycin phosphate every 8 to 12 hours in adults and every 6 to 8 hours in pediatric patients, or by continuous intravenous infusion.
 An equilibrium state is reached by the third dose.
 
-Table 3.
+Table 4.
 Average Peak and Trough Serum Concentrations of Active Clindamycin After Dosing with Clindamycin Phosphate
 
 | Dosage Regimen | Peakmcg/mL | Troughmcg/mL |
@@ -50,6 +51,22 @@ Geriatric Patients
 Pharmacokinetic studies in elderly volunteers (61-79 years) and younger adults (18-39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after intravenous administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4-5.1 h) in the elderly, compared to 3.2 hours (range 2.1-4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
+
+Pharmacokinetics in Adults and Pediatric Patients with PMA ≤ 32 weeks, or > 32 to ≤ 40 weeks
+
+Systemic clearance (CL) in premature infants increases with increases in bodyweight (kg) and post-menstrual age (PMA).
+The dosing regimens for pediatric patients ≤ 32 weeks PMA (5 mg/kg) and 32 to ≤ 40 weeks PMA (7 mg/kg), both administered IV every 8 hours, achieve exposures comparable to therapeutic exposures in adults (weighing 70 kg) administered clindamycin 600 mg every 8 hours (Table 5).
+
+Table 5: Predicted Drug Exposure (Mean ± SD) of Clindamycin in Adults and in Pediatric Patients with PMA ≤ 32 weeks, or > 32 to ≤ 40 weeks
+
+| Age | Adult (70 kg) | PMA ≤ 32 weeks | PMA > 32 - ≤ 40 weeks |
+| --- | --- | --- | --- |
+| Dose (every 8 hours) | 600 mg | 5 mg/kg | 7 mg/kg |
+| AUCss,0-8hour(mcg.h/mL) | 50.5 (30.95) | 52.5 (17.0)_ | 55.9 (23.55) |
+| Cmax,ss (mcg/mL) | 12.0 (3.49) | 9.0 (2.202) | 10.5 (2.79) |
+| Cmin,ss (mcg/mL) | 3.1 (3.34) | 4.6 (2.00) | 4.4 (2.77) |
+
+PMA: post-menstrual age; AUCss,0-8hour: area under the concentration-time curve during a dosing interval at steady state; Cmax,ss: maximum drug concentration at steady state; Cmin,ss: minimum or trough drug concentration at steady state.
 
 Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
 

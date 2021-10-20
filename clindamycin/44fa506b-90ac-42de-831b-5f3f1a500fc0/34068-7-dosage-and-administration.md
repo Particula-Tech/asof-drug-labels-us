@@ -37,14 +37,14 @@ Table 2: Infusion Rates for the Administration of Clindamycin Injection by Singl
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-## 2.3 Dosage in Pediatric Patients (Less than 1 Month of Age to 16 Years old)
+## 2.3 Dosage in Pediatric Patients
 
 If a dose of Clindamycin Phosphate in Sodium Chloride Injection is required that does not equal 300 mg, 600 mg or 900 mg, this product is not recommended for use and an alternative formulation of clindamycin should be considered.
 The recommended pediatric dosing regimen of Clindamycin Phosphate in Sodium Chloride Injection is as follows:
 
-- •Pediatric patients (1 month of age to 16 years old) is 20 to 40 mg/kg/day in 3 or 4 equal doses
-- •Pediatric Patients (less than 1 month of age) is 15 to 20 mg/kg/day in 3 or 4 equal doses.
-  The lower dosage may be adequate for small prematures.
+Pediatric patients (1 month of age to 16 years old):
+
+The recommended dosage is 20 to 40 mg/kg/day in 3 or 4 equal doses.
 
 The higher doses would be used for more severe infections.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
@@ -52,6 +52,20 @@ As an alternative to dosing on a body weight basis, pediatric patients may be do
 Parenteral therapy may be changed to oral formulations of clindamycin when the condition warrants and at the discretion of the physician.
 
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
+
+Pediatric Patients (less than 1 month):
+
+The recommended dosage is 15 to 20 mg/kg/day in 3 to 4 equal doses.
+See Table 3 regarding the dosing regiment for pediatric patients with post-menstrual age (PMA) less than or equal to 32 weeks or greater than 32 weeks to less than or equal to 40 weeks.
+
+Table 3: Dosing Regimens for Pediatric Patients with PMA less than or equal to 32 weeks, or greater than 32 weeks to less than or equal to 40 weeks
+
+| PMA (weeks) | Dose (mg/kg) | Dosing Interval (hours) |
+| --- | --- | --- |
+| Less than or equal to 32 | 5 | 8 |
+| Greater than or equal to 32 weeks to less than or equal to 40 | 7 | 8 |
+
+PMA: Post-Menstrual Age
 
 ## 2.4 Directions for Use of Clindamycin Phosphate in Sodium Chloride Injection in GALAXY Plastic Container
 
