@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Junel® (norethindrone acetate and ethinyl estradiol tablets USP) 1/20, 3 Cyclic Dispensers x 21 Tablets Carton Text
-
 NDC 0555-9025-42
 
 3 Cyclic Tablet Dispensers x 21 Tablets
@@ -38,11 +36,7 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
-
 # Package/Label Display Panel
-
-## Junel® Fe (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) 1/20, 6 Cyclic Dispensers x 28 Tablets Carton Text
 
 NDC 0555-9026-58
 
@@ -79,11 +73,7 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
-
 # Package/Label Display Panel
-
-## Junel® (norethindrone acetate and ethinyl estradiol tablets USP) 1.5/30, 3 Cyclic Dispensers x 21 Tablets Carton Text
 
 NDC 0555-9027-42
 
@@ -122,11 +112,7 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
-
 # Package/Label Display Panel
-
-## Junel® Fe (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) 1.5/30, 6 Cyclic Dispensers x 28 Tablets Carton Text
 
 NDC 0555-9028-58
 
@@ -162,5 +148,3 @@ Rx only
 SHAPING
 
 WOMEN’S HEALTH®
-
-TEVA
