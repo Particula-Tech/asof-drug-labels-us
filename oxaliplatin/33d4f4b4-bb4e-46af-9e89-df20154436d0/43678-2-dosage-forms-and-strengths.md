@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Oxaliplatin Injection USP is supplied in single-use vials containing 50 mg, 100 mg or 200 mg of oxaliplatin as a sterile, preservative-free, aqueous solution at a concentration of 5 mg/mL.
+Injection: 50 mg (5 mg/mL), 100 mg (5 mg/mL) or 200 mg (5 mg/mL) clear, colorless solution in a single-dose vial.
