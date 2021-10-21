@@ -203,3 +203,13 @@ Duloxetine delayed-release capsules are in a class of drugs known to affect uret
 If symptoms of urinary hesitation develop during treatment with duloxetine delayed-release capsules, consideration should be given to the possibility that they might be drug-related.
 In post marketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine delayed-release capsules use, hospitalization and/or catheterization has been needed.
+
+## 5.16 Sexual Dysfunction
+
+Use of SNRIs, including duloxetine delayed-release capsules, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of duloxetine delayed-release capsules and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

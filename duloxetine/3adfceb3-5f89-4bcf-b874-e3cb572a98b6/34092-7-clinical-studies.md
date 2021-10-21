@@ -43,7 +43,7 @@ Two hundred and seventy-eight patients who responded to open label treatment [de
 In Study MDD-5, patients on duloxetine delayed-release capsules experienced a statistically significantly longer time to relapse of depression than did patients on placebo (see Figure 1).
 Relapse was defined as an increase in the CGI-S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
 
-Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5) a Kalpan-Meier estimator method.
+Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5) a Kaplan-Meier estimator method.
 
 ## 14.3 Generalized Anxiety Disorder
 

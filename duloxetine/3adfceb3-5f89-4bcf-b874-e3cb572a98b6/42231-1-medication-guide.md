@@ -243,6 +243,21 @@ Symptoms may include:
 - decreased urine flow
 - unable to pass any urine
 
+12. sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including duloxetine delayed-release capsules, may cause sexual problems.
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with duloxetine delayed-release capsules.
+There may be treatments your healthcare provider can suggest.
 The most common side effects of duloxetine delayed-release capsules include:
 
 - nausea
@@ -305,4 +320,4 @@ Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and n
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2021
