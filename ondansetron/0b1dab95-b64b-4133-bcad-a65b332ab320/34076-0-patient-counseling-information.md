@@ -23,7 +23,7 @@ The patient should report the use of all medications, especially apomorphine or 
 Concomitant use of apomorphine and ondansetron may cause a significant drop in blood pressure and loss of consciousness.
 
 Inform patients that ZUPLENZ may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
-The patient should report any hypersensitivity reactions to this and other 5-HT3 receptor antagonists to their health care provider.
+The patient should report any hypersensitivity reactions to this and other 5-HT 3 receptor antagonists to their health care provider.
 
 Instruct patients on how to use ZUPLENZ films:
 

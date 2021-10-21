@@ -1,6 +1,6 @@
 # Instructions for Use
 
-ZUPLENZ® (ZOO-plenz) (ondansetron) Oral Soluble Film
+ZUPLENZ ® (ZOO-plenz) (ondansetron) Oral Soluble Film
 
 | Step 1. | Keep the ZUPLENZ film in the foil pouch until ready to use. Use ZUPLENZ film right away after you take it out of the pouch. |
 | --- | --- |

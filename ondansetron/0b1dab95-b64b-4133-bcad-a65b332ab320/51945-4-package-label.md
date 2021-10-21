@@ -2,7 +2,7 @@
 
 NDC 89141-444-30
 
-Zuplenz® (ondansetron) oral soluble film
+Zuplenz ® (ondansetron) oral soluble film
 
 4 mg
 
@@ -14,7 +14,7 @@ Rx only
 
 NDC 89141-448-30
 
-Zuplenz® (ondansetron) oral soluble film
+Zuplenz ® (ondansetron) oral soluble film
 
 8 mg
 

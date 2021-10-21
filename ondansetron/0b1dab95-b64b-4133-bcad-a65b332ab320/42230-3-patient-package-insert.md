@@ -1,6 +1,6 @@
 # Patient Information
 
-ZUPLENZ® (ZOO-plenz) (ondansetron) Oral Soluble Film
+ZUPLENZ ® (ZOO-plenz) (ondansetron) Oral Soluble Film
 
 What is ZUPLENZ®?
 

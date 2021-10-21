@@ -9,7 +9,8 @@ Based on reports of profound hypotension and loss of consciousness when apomorph
 ## 7.2 Phenytoin, Carbamazepine, Rifampicin
 
 In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and ondansetron blood concentrations were decreased.
-However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3
+However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.
+1,3
 
 ## 7.3 Serotonergic Drugs
 
@@ -18,7 +19,8 @@ Serotonin syndrome (including altered mental status, autonomic instability, and 
 ## 7.4 Tramadol
 
 Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small studies indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
-Patients in the studies self-administered tramadol more frequently, leading to an increased cumulative dose in patient controlled administration (PCA) of tramadol.4,5
+Patients in the studies self-administered tramadol more frequently, leading to an increased cumulative dose in patient controlled administration (PCA) of tramadol.
+4,5
 
 ## 7.5 Chemotherapy
 

@@ -31,5 +31,5 @@ There is no experience beyond first-day administration of ondansetron.
 
 ## 8.7 Hepatic Impairment
 
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater)2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
 In such patients, a total daily dose of 8 mg should not be exceeded.

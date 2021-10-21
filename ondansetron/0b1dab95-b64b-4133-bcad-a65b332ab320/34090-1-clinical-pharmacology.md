@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Ondansetron is a selective 5-HT3 receptor antagonist.
+Ondansetron is a selective 5-HT 3 receptor antagonist.
 While its mechanism of action has not been fully characterized, ondansetron is not a dopamine-receptor antagonist.
-Serotonin receptors of the 5-HT3 type are present both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema.
+Serotonin receptors of the 5-HT 3 type are present both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema.
 It is not certain whether ondansetron' s antiemetic action is mediated centrally, peripherally, or in both sites.
 However, cytotoxic chemotherapy appears to be associated with release of serotonin from the enterochromaffin cells of the small intestine.
 In humans, urinary 5-HIAA (5-hydroxyindoleacetic acid) excretion increases after cisplatin administration in parallel with the onset of emesis.
-The released serotonin may stimulate the vagal afferents through the 5-HT3 receptors and initiate the vomiting reflex.
-In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT3 receptor antagonist.
+The released serotonin may stimulate the vagal afferents through the 5-HT 3 receptors and initiate the vomiting reflex.
+In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT 3 receptor antagonist.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,8 +24,8 @@ Absorption
 Ondansetron is well absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
 After a single dose of ZUPLENZ (ondansetron) oral soluble film 8 mg under fasting conditions (n=46), the peak plasma concentrations were achieved in 1.3 hours and the mean elimination half-life was 4.6 hours in healthy subjects.
 The mean (±S.D.)
-Cmax and AUC were 37.28 (±14.9) ng/mL and 225 (±88.1) ng∙h/mL, respectively.
-In the same study, mean ondansetron Cmax and AUC following administration of 8 mg ZUPLENZ oral soluble film were comparable to those after 8 mg ondansetron ODT (orally disintegrating tablet).
+C max and AUC were 37.28 (±14.9) ng/mL and 225 (±88.1) ng∙h/mL, respectively.
+In the same study, mean ondansetron C max and AUC following administration of 8 mg ZUPLENZ oral soluble film were comparable to those after 8 mg ondansetron ODT (orally disintegrating tablet).
 The systemic exposure after administration of ZUPLENZ oral soluble film 8 mg with or without water was found to be comparable.
 
 In a study using ondansetron tablets, ondansetron systemic exposure did not increase proportionately to dose.
@@ -34,7 +34,7 @@ This may reflect some reduction of first-pass metabolism at higher oral doses.
 
 Food Effect
 
-When administered with a high fat meal, 8 mg ZUPLENZ (ondansetron) oral soluble film's mean time to peak plasma concentration (tmax) was delayed by approximately 1 hour and its AUC remained similar compared to that of under fasted stated.
+When administered with a high fat meal, 8 mg ZUPLENZ (ondansetron) oral soluble film's mean time to peak plasma concentration (t max) was delayed by approximately 1 hour and its AUC remained similar compared to that of under fasted stated.
 
 Distribution
 
@@ -63,7 +63,7 @@ Based on the multiplicity of metabolic enzymes capable of metabolizing ondansetr
 On the basis of available limited data, no dosage adjustment for ondansetron is recommended for patients on inhibitors of a single CYP enzyme.
 
 Ondansetron elimination may be affected by cytochrome P-450 inducers.
-In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and T½ of ondansetron was observed1; this resulted in a significant increase in clearance.
+In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, C max, and T½ of ondansetron was observed 1; this resulted in a significant increase in clearance.
 However, on the basis of available data, no dosage adjustment for ondansetron is recommended.
 
 Specific Populations
@@ -76,7 +76,7 @@ It is not known whether these gender-related differences are clinically importan
 
 Table 4: Mean Pharmacokinetic Parameters by Gender in Healthy Volunteers After A Single 8 mg ZUPLENZ Oral Soluble Film Dose
 
-| Gender | Mean Weight (kg) | n | Cmax (ng/mL) | Tmax (h) | T1/2 (h) | AUC (h∙ng/mL) |
+| Gender | Mean Weight (kg) | n | C max (ng/mL) | T max (h) | T 1/2 (h) | AUC (h∙ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
 | M | 62 | 39 | 35.2 | 1.67 | 4.54 | 207 |
 | F | 56.7 | 7 | 49.1 | 1.7 | 5.39 | 323 |
@@ -90,7 +90,7 @@ No dosage adjustment is recommended in the elderly.
 Hepatic Impairment
 
 In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in healthy subjects.
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater)2, clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
 In patients with severe hepatic impairment, a total daily dose of 8 mg should not be exceeded.
 
 Renal Impairment

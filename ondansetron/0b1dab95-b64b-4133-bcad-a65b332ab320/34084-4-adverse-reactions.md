@@ -9,7 +9,7 @@ A causal relationship to therapy with ondansetron was unclear in many cases.
 
 Chemotherapy-Induced Nausea and Vomiting
 
-Table 1: Adverse Events Reported in ≥5% of Adult Patients After Single Day Therapy Ondansetron HCl Tablets [Highly Emetogenic Chemotherapy (cisplatin dose ≥50 mg/m2)]
+Table 1: Adverse Events Reported in ≥5% of Adult Patients After Single Day Therapy Ondansetron HCl Tablets [Highly Emetogenic Chemotherapy (cisplatin dose ≥50 mg/m 2)]
 
 | Adverse Event | Ondansetron 24 mg once daily N=300 | Ondansetron 8 mg twice daily N=124 | Ondansetron 32 mg once daily N=117 |
 | --- | --- | --- | --- |

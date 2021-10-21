@@ -4,7 +4,7 @@
 
 Adults
 
-The recommended adult oral dosage of ZUPLENZ (ondansetron) oral soluble film is 24 mg given successively as three 8 mg films administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m2.
+The recommended adult oral dosage of ZUPLENZ (ondansetron) oral soluble film is 24 mg given successively as three 8 mg films administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m 2.
 Each ZUPLENZ oral soluble film should be allowed to dissolve completely before administering the next film [see Dosage and Administration (2.6)].
 Multiday, single-dose administration of a 24 mg dosage has not been studied.
 
@@ -56,7 +56,7 @@ Safety and effectiveness of ZUPLENZ in pediatric patients have not been establis
 
 ## 2.5 Dosage Adjustment for Patients with Impaired Hepatic Function
 
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater)2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
 In such patients, a total daily dose of 8 mg should not be exceeded.
 
 ## 2.6 Important Administration Instructions

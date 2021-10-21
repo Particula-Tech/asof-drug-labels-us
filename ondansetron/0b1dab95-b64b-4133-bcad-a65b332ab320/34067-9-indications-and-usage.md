@@ -2,7 +2,7 @@
 
 ## 1.1 Prevention of Nausea and Vomiting Associated with Highly Emetogenic Cancer Chemotherapy
 
-ZUPLENZ (ondansetron) oral soluble film is indicated for the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m2 [see Clinical Studies, (14.1)].
+ZUPLENZ (ondansetron) oral soluble film is indicated for the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m 2 [see Clinical Studies, (14.1)].
 
 ## 1.2 Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Cancer Chemotherapy
 

@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists.
+Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been reported in patients who have exhibited hypersensitivity to other selective 5-HT 3 receptor antagonists.
 ZUPLENZ (ondansetron) oral soluble film should be discontinued immediately at the first sign of hypersensitivity.
 
 ## 5.2 Electrocardiographic Changes
