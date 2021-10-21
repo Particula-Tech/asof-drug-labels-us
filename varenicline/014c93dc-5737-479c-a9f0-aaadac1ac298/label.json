@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213978"
+  ],
+  "inn": "varenicline",
+  "labeler": "Oyster Point Pharma",
+  "package_ndcs": [
+    "73521-030-02",
+    "73521-030-90"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "varenicline",
+      "name": "Tyrvaya"
+    }
+  ],
+  "setid": "014c93dc-5737-479c-a9f0-aaadac1ac298",
+  "source": "dailymed"
+}
