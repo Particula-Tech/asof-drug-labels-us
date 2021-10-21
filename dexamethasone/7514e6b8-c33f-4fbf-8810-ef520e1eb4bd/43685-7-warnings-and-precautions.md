@@ -23,3 +23,8 @@ Fungal culture should be taken when appropriate [see Contraindications (4)].
 ## 5.5 Delayed Healing
 
 The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
+
+## 5.6 Other Potential Corticosteroid Complications
+
+The initial prescription and renewal of the medication order of DEXTENZA should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
+If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.

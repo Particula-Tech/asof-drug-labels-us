@@ -6,7 +6,7 @@ NDC 70382-204-01
 
 1 insert
 
-Dextenza®
+Dextenza ®
 
 (dexamethasone ophthalmic insert) 0.4mg
 
@@ -26,7 +26,7 @@ NDC 70382-204-10
 
 10 inserts
 
-Dextenza®
+Dextenza ®
 
 (dexamethasone ophthalmic insert) 0.4mg
 
@@ -46,7 +46,7 @@ NDC 70382-204-99
 
 1 inserts
 
-Dextenza®
+Dextenza ®
 
 (dexamethasone ophthalmic insert) 0.4mg
 
@@ -68,7 +68,7 @@ Therapeutix™
 
 Principal Display Panel – Dextenza Pouch Label
 
-Dextenza®
+Dextenza ®
 
 (dexamethasone ophthalmic insert) 0.4mg
 

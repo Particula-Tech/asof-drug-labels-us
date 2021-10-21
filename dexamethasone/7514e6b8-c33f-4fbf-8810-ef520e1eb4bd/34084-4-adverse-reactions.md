@@ -13,9 +13,20 @@ The following serious adverse reactions are described elsewhere in the labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Adverse reactions associated with ophthalmic steroids include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation; delayed wound healing; secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera [see Warnings and Precautions (5)].
 
-DEXTENZA was studied in four randomized, vehicle-controlled studies (n = 567).
+## 6.2 Ocular Inflammation and Pain Following Ophthalmic Surgery
+
+DEXTENZA safety was studied in four randomized, vehicle-controlled studies (n = 567).
 The mean age of the population was 68 years (range 35 to 87 years), 59% were female, and 83% were white.
 Forty-seven percent had brown iris color and 30% had blue iris color.
 The most common ocular adverse reactions that occurred in patients treated with DEXTENZA were: anterior chamber inflammation including iritis and iridocyclitis (10%); intraocular pressure increased (6%); visual acuity reduced (2%); cystoid macular edema (1%); corneal edema (1%); eye pain (1%) and conjunctival hyperemia (1%).
+
+The most common non-ocular adverse reaction that occurred in patients treated with DEXTENZA was headache (1%).
+
+## 6.3 Itching Associated with Allergic Conjunctivitis
+
+DEXTENZA safety was studied in four randomized, vehicle-controlled studies (n= 154).
+The mean age of the population was 41 years (range 19 to 69 years), 55 % were female and 61 % were white.
+Fifty seven percent had brown iris color and 20% had blue iris color.
+The most common ocular adverse reactions that occurred in patients treated with DEXTENZA were: intraocular pressure increased (3%), lacrimation increased (1%), eye discharge (1%), and visual acuity reduced (1%).
 
 The most common non-ocular adverse reaction that occurred in patients treated with DEXTENZA was headache (1%).

@@ -18,10 +18,10 @@ Do not re-sterilize.
 2. If necessary, dilate the punctum with an ophthalmic dilator.
    Care should be taken not to perforate the canaliculus during dilation or insertion of DEXTENZA.
    If perforation occurs, do not insert DEXTENZA.
-3. After drying the punctal area, using blunt (non-toothed) forceps, grasp DEXTENZA and insert into the lower lacrimal canaliculus.
-   DEXTENZA should be placed just below the punctal opening.
-   Excessive squeezing of DEXTENZA may cause deformation.
-4. To aid in the hydration of DEXTENZA, 1 to 2 drops of balanced salt solution can be instilled into the punctum.
+3. After drying the punctal area, using blunt (non-toothed) forceps, grasp DEXTENZA and insert into the lower lacrimal canaliculus by pulling the lid temporally and inserting nasally.
+4. Ensure DEXTENZA is placed just below the punctal opening.
+   Excessive squeezing of DEXTENZA with forceps may cause deformation.
+5. To aid in the hydration of DEXTENZA, 1 to 2 drops of balanced salt solution can be instilled into the punctum.
    DEXTENZA hydrates quickly upon contact with moisture.
    If DEXTENZA begins to hydrate before fully inserted, discard the product and use a new DEXTENZA.
-5. DEXTENZA can be visualized when illuminated by a blue light source (e.g., slit lamp or hand held blue light) with yellow filter.
+6. DEXTENZA can be visualized when illuminated by a blue light source (e.g., slit lamp or hand held blue light) with yellow filter.
