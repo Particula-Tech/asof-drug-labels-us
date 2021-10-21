@@ -27,11 +27,11 @@ Seventy-two percent of patients had an ECOG PS of 0 or 1.
 Reasons for ineligibility for cisplatin-containing chemotherapy were: 66% had impaired renal function, 28% had an ECOG PS of 2, 16% had a hearing loss ≥ 25 dB, and 9% had Grades 2-4 peripheral neuropathy at baseline.
 Thirty-one percent of patients had disease progression following prior platinum-containing neoadjuvant or adjuvant chemotherapy.
 
-Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 22.
+Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 20.
 The median follow-up time for this study was 14.4 months.
 In 24 patients with disease progression following neoadjuvant or adjuvant therapy, the ORR was 33% (95% CI: 16%, 55%).
 
-Table 22: Efficacy Results in IMvigor210 (Cohort 1)
+Table 20: Efficacy Results in IMvigor210 (Cohort 1)
 
 | N = 119 | PD-L1 Expression of < 5% in ICsPD-L1 expression in tumor-infiltrating immune cells (ICs) N = 87 | PD-L1 Expression of ≥ 5% in ICs N = 32 |  |
 | --- | --- | --- | --- |
@@ -81,9 +81,9 @@ Baseline ECOG performance status was 0 (36%) or 1 (64%); 88% were current or pre
 
 The trial demonstrated a statistically significant improvement in OS for patients with high PD-L1 expression (TC ≥50% or IC ≥10%) at the time of the OS interim analysis.
 There was no statistically significant difference in OS for the other two PD-L1 subgroups (TC ≥5% or IC ≥5%; and TC ≥1% or IC ≥1%) at the interim or final analyses.
-Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 23 and Figure 1.
+Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 21 and Figure 1.
 
-Table 23: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
+Table 21: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
 
 |  | Arm A: TECENTRIQ N = 107 | Arm B: Platinum-Based Chemotherapy N = 98 |
 | --- | --- | --- |
@@ -138,9 +138,9 @@ PD-L1 was TC3 and any IC in 12%, TC0/1/2 and IC2/3 in 13%, and TC0/1/2 and IC0/1
 The demographics for the 696 patients in the ITT-WT subpopulation were similar to the ITT population except for the absence of patients with EGFR- or ALK-positive NSCLC.
 
 The trial demonstrated a statistically significant improvement in PFS between Arms B and C in both the tGE-WT and ITT-WT subpopulations, but did not demonstrate a significant difference for either subpopulation between Arms A and C based on the final PFS analyses.
-In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 24 and Figure 2.
+In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 22 and Figure 2.
 
-Table 24: Efficacy Results in ITT-WT Population in IMpower150
+Table 22: Efficacy Results in ITT-WT Population in IMpower150
 
 |  | N = 337 | N = 359 | N = 349 |
 | --- | --- | --- | --- |
@@ -197,9 +197,9 @@ Baseline ECOG performance status was 0 (41%) or 1 (58%).
 Most patients were current or previous smokers (90%).
 PD-L1 tumor expression was TC0/1/2 and IC0/1 in 73%; TC3 and any IC in 14%; and TC0/1/2 and IC2/3 in 13%.
 
-Efficacy results for the ITT-WT population are presented in Table 25 and Figure 3.
+Efficacy results for the ITT-WT population are presented in Table 23 and Figure 3.
 
-Table 25: Efficacy Results from IMpower130
+Table 23: Efficacy Results from IMpower130
 
 |  | TECENTRIQ with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
 | --- | --- | --- |
@@ -241,9 +241,9 @@ Additional efficacy outcome measures were OS in all randomized patients (n = 122
 Among the first 850 randomized patients, the median age was 64 years (33 to 85 years) and 47% were ≥ 65 years old; 61% were male; 70% were White and 21% were Asian; 15% were current smokers and 67% were former smokers; and 37% had baseline ECOG PS of 0 and 63% had a baseline ECOG PS of 1.
 Nearly all (94%) had metastatic disease, 74% had non-squamous histology, 75% had received only one prior platinum-based chemotherapy regimen, and 55% of patients had PD-L1-expressing tumors.
 
-Efficacy results are presented in Table 26 and Figure 4.
+Efficacy results are presented in Table 24 and Figure 4.
 
-Table 26: Efficacy Results in OAK
+Table 24: Efficacy Results in OAK
 
 |  | TECENTRIQ | Docetaxel |
 | --- | --- | --- |
@@ -294,74 +294,7 @@ Propensity score matching factors were: baseline sum of longest tumor size (BSLD
 The hazard ratio comparing the ADA positive subgroup with its matched control was 0.89 (95% CI: 0.61, 1.3).
 The hazard ratio comparing the ADA negative subgroup with its matched control was 0.68 (95% CI: 0.55, 0.83).
 
-## 14.3 Locally Advanced or Metastatic Triple-Negative Breast Cancer
-
-The efficacy of TECENTRIQ in combination with paclitaxel protein-bound was investigated in IMpassion130 (NCT02425891), a multicenter, international, double-blinded, placebo-controlled, randomized (1:1) trial that included 902 unresectable locally advanced or metastatic triple-negative breast cancer patients that had not received prior chemotherapy for metastatic disease.
-The trial excluded patients with a history of autoimmune disease, administration of a live attenuated vaccine within 4 weeks prior to randomization, administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medications within 2 weeks prior to randomization; or untreated or corticosteroid-dependent brain metastases.
-
-Randomization was stratified by presence of liver metastases, prior taxane treatment, and by PD-L1 expression status in tumor infiltrating immune cells (IC) (PD-L1 stained tumor-infiltrating immune cells [IC] <1% of tumor area vs. ≥ 1% of the tumor area) by the VENTANA PD-L1 (SP142) Assay.
-Of the 902 patients in the intent to treat population (ITT), 41% (369 patients) were classified as PD-L1 expression ≥ 1%.
-Patients were randomized to receive TECENTRIQ 840 mg or placebo intravenously on Days 1 and 15 of every 28-day cycle with paclitaxel protein-bound 100 mg/m2 intravenously on Days 1, 8 and 15 of every 28-day cycle.
-Patients received treatment until radiographic disease progression per RECIST v1.1, or unacceptable toxicity.
-Tumor assessments were performed every 8 weeks (± 1 week) for the first 12 months after Cycle 1, day 1 and every 12 weeks (± 1 week) thereafter.
-Major efficacy outcomes were investigator-assessed progression free survival (PFS) (per RECIST v1.1) and overall survival (OS) in the ITT population and PD-L1 expressing patient population.
-
-In IMpassion130, the median age was 55 years (range: 20-86).
-Overall, most patients were women (99.6%) and the majority of patients were white (68%), Asian (18%), Black or African American (7%), and American Indian or Alaskan Native (4.4%).
-The demographic and baseline disease characteristics of the study population were well balanced between the treatment arms.
-Baseline ECOG performance status was 0 (58%) or 1 (41%).
-Overall, 41% of enrolled patients had PD-L1 expression ≥ 1%, 27% had liver metastases and 7% brain metastases at baseline.
-Approximately half the patients had received a taxane (51%) or anthracycline (54%) in the (neo)adjuvant setting.
-Patient demographics and baseline tumor disease in the PD-L1 expressing population were generally representative of the broader study population.
-
-Tumor specimens (archival or fresh) were evaluated prospectively using the VENTANA PD-L1 (SP142) Assay at a central laboratory and the results were used as a stratification factor for randomization and to define the PD-L1 expression subgroups for pre-specified analyses.
-
-The efficacy results of IMpassion130 for the patient population with PD-L1 expression ≥ 1% are presented in Table 27 and Figure 5.
-
-Table 27: Efficacy Results from IMpassion130 in Patients with PD-L1 Expression ≥ 1%
-
-| TECENTRIQ in combination with Paclitaxel Protein-Bound | Placebo in combination with Paclitaxel Protein-Bound |  |
-| --- | --- | --- |
-|  | PD-L1 Expression ≥ 1%PD-L1 expression in tumor-infiltrating immune cells (IC) |  |
-| Overall SurvivalOS in the PD-L1 expression ≥ 1% population was a major efficacy endpoint, but there remained no alpha to evaluate this endpoint. These results should be considered not statistically significant. | n=185 | n=184 |
-| Deaths (%) | 120 (65%) | 139 (76%) |
-| Median, months (95% CI) | 25.4 (19.6, 30.7) | 17.9 (13.6, 20.3) |
-| Hazard ratio (95% CI) | 0.67 (0.53, 0.86) |  |
-| p-value | <0.0001 |  |
-| Progression-Free SurvivalAs determined by investigator assessmentper RECIST v1.1 (Response Evaluation Criteria in Solid Tumors v1.1) | n=185 | n=184 |
-| Events (%) | 136 (74) | 151 (82) |
-| Median, months | 7.4 (6.6, 9.2) | 4.8 (3.8, 5.5) |
-| Stratified Hazard ratio (95% CI)Stratified by presence of liver metastases, and by prior taxane treatment | 0.60 (0.48, 0.77) |  |
-| p-value | <0.0001 |  |
-| Objective Response Rate,,Patients with measurable disease at baseline,Confirmed responses | n=185 | n=183 |
-| Number of responders (%) | 98 (53) | 60 (33) |
-| (95% CI) | (45.5, 60.3) | (26.0, 40.1) |
-| Complete Response (%) | 17 (9) | 1 (<1) |
-| Partial Response (%) | 81 (44) | 59 (32) |
-| Duration of Response,, | n=98 | n=60 |
-| Median, months | 9.2 | 6.2 |
-| (95% CI) | (7.5, 11.9) | (5.5, 8.8) |
-| PFS=Progression-Free Survival; ORR=Objective Response Rate; DOR=Duration of Response; NE=Not Estimable |  |  |
-
-Figure 5: Kaplan-Meier Plot of Progression-Free-Survival in IMpassion130 in Patients with PD-L1 Expression ≥1%
-
-## 14.4 Lack of Efficacy in Combination with Paclitaxel in Locally Advanced or Metastatic Triple-Negative Breast Cancer
-
-The efficacy of TECENTRIQ in combination with paclitaxel in patients with unresectable locally advanced or metastatic triple-negative breast cancer has not been demonstrated.
-IMpassion131 (NCT03125902) was a multicenter, international, double-blinded, placebo-controlled, randomized (2:1) trial that included 651 patients with unresectable locally advanced or metastatic triple-negative breast cancer that had not received prior chemotherapy for metastatic disease.
-Of these, 45% (292) were classified as PD-L1 expression ≥ 1%.
-
-Patients were randomized to receive TECENTRIQ 840 mg or placebo intravenously on Days 1 and 15 of every 28-day cycle with paclitaxel 90 mg/m2 intravenously on Days 1, 8 and 15 of every 28-day cycle.
-Patients received treatment until radiographic disease progression or unacceptable toxicity.
-Randomization was stratified by presence of liver metastases, prior taxane treatment, and by PD-L1 expression status in tumor infiltrating immune cells (IC) (PD-L1 stained tumor-infiltrating immune cells [IC] <1% of tumor area vs. ≥ 1% of the tumor area) determined by the VENTANA PD-L1 (SP142) Assay.
-
-The major efficacy endpoint of investigator assessed progression free survival (via RECIST v1.1) in the PD-L1 expressing population after 61% of patients experienced a PFS event showed a non-statistically significant HR of 0.82 (95% CI: 0.60, 1.12).
-The median PFS in the TECENTRIQ with paclitaxel arm was 6.0 months (95% CI: 5.6, 7.4), and the median PFS in the placebo with paclitaxel arm was 5.7 months (95% CI: 5.4, 7.2).
-
-Overall survival in the PD-L1 expressing population with 42% deaths in the same population showed an HR of 1.11 (95% CI: 0.76, 1.64).
-The median survival for TECENTRIQ in combination with paclitaxel was 22.1 months (95% CI:19.2, 30.5) and the median survival for placebo with paclitaxel was 28.3 months (95% CI:19.1, NR).
-
-## 14.5 Small Cell Lung Cancer
+## 14.3 Small Cell Lung Cancer
 
 The efficacy of TECENTRIQ with carboplatin and etoposide was investigated in IMpower133 (NCT02763579), a randomized (1:1), multicenter, double-blind, placebo-controlled trial in 403 patients with ES-SCLC.
 IMpower133 enrolled patients with ES-SCLC who had received no prior chemotherapy for extensive stage disease and ECOG performance status 0 or 1.
@@ -384,9 +317,9 @@ The median age was 64 years (range 26 to 90) and 65% were male.
 The majority of patients were White (80%); 17% were Asian, 4% were Hispanic and 1% were Black.
 Baseline ECOG performance status was 0 (35%) or 1 (65%); 9% of patients had a history of brain metastases, and 97% were current or previous smokers.
 
-Efficacy results are presented in Table 28 and Figure 6.
+Efficacy results are presented in Table 25 and Figure 5.
 
-Table 28: Efficacy Results from IMpower133
+Table 25: Efficacy Results from IMpower133
 
 |  | TECENTRIQ with Carboplatin and Etoposide | Placebo with Carboplatin and Etoposide |
 | --- | --- | --- |
@@ -412,9 +345,9 @@ Table 28: Efficacy Results from IMpower133
 | (95% CI) | (4.1, 4.5) | (3.1, 4.2) |
 | CI=confidence interval |  |  |
 
-Figure 6: Kaplan-Meier Plot of Overall Survival in IMpower133
+Figure 5: Kaplan-Meier Plot of Overall Survival in IMpower133
 
-## 14.6 Hepatocellular Carcinoma
+## 14.4 Hepatocellular Carcinoma
 
 The efficacy of TECENTRIQ in combination with bevacizumab was investigated in IMbrave150 (NCT03434379), a multicenter, international, open-label, randomized trial in patients with locally advanced unresectable and/or metastatic hepatocellular carcinoma who have not received prior systemic therapy.
 Randomization was stratified by geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), baseline AFP (<400 vs. ≥400 ng/mL), and by ECOG performance status (0 vs. 1).
@@ -438,9 +371,9 @@ The majority of patients had BCLC stage C (82%) disease at baseline, while 16% h
 The major efficacy outcome measures were overall survival (OS) and independent review facility (IRF)-assessed progression free survival (PFS) per RECIST v1.1.
 Additional efficacy outcome measures were IRF-assessed overall response rate (ORR) per RECIST and mRECIST.
 
-Efficacy results are presented in Table 29 and Figure 7.
+Efficacy results are presented in Table 26 and Figure 6.
 
-Table 29: Efficacy Results from IMbrave150
+Table 26: Efficacy Results from IMbrave150
 
 |  | TECENTRIQ in combination with Bevacizumab (N= 336) | Sorafenib (N=165) |
 | --- | --- | --- |
@@ -476,7 +409,7 @@ Table 29: Efficacy Results from IMbrave150
 | Range (months) | (1.3, 13.4) | (1.4, 9.1) |
 | CI=confidence interval; HCC mRECIST=Modified RECIST Assessment for Hepatocellular Carcinoma; NE=not estimable; RECIST 1.1=Response Evaluation Criteria in Solid Tumors v1.1 |  |  |
 
-Figure 7: Kaplan-Meier Plot of Overall Survival in IMbrave150
+Figure 6: Kaplan-Meier Plot of Overall Survival in IMbrave150
 
 Exploratory analyses showed that the subset of patients (20%) who were ADA-positive by week 6 appeared to have reduced efficacy (effect on OS) as compared to patients (80%) who tested negative for treatment-emergent ADA by week 6 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3)].
 ADA-positive patients by week 6 appeared to have similar overall survival compared to sorafenib-treated patients.
@@ -485,7 +418,7 @@ Inverse probability weighting factors were: baseline sum of longest tumor size (
 The OS hazard ratio comparing the ADA-positive subgroup of the TECENTRIQ and bevacizumab arm to sorafenib was 0.93 (95% CI: 0.57, 1.53).
 The OS hazard ratio comparing the ADA-negative subgroup to sorafenib was 0.39 (95% CI: 0.26, 0.60).
 
-## 14.7 Melanoma
+## 14.5 Melanoma
 
 The efficacy of TECENTRIQ in combination with cobimetinib and vemurafenib was evaluated in a double-blind, randomized (1:1), placebo-controlled, multicenter trial (IMspire150; NCT02908672) conducted in 514 patients.
 Randomization was stratified by geographic location (North America vs. Europe vs. Australia, New Zealand, and others) and baseline lactate dehydrogenase (LDH) [less than or equal to upper limit of normal (ULN) vs. greater than ULN].
@@ -504,10 +437,10 @@ Additional efficacy outcomes included PFS assessed by an independent central rev
 The median age of the study population was 54 years (range: 22-88), 58% of patients were male, 95% were White, a baseline ECOG performance status of 0 (77%) or 1 (23%), 33% had elevated LDH, 94% had metastatic disease, 60% were Stage IV (M1C), 56% had less than three metastatic sites at baseline, 3% had prior treatment for brain metastases, 30% had liver metastases at baseline, and 14% had received prior adjuvant systemic therapy.
 Based on central testing, 74% were identified as having a V600E mutation, 11% as having V600K mutation, and 1% as having V600D or V600R mutations.
 
-Efficacy results are summarized in Table 30 and Figure 8.
+Efficacy results are summarized in Table 27 and Figure 7.
 Patients had a median survival follow up time of 18.9 months.
 
-Table 30 Efficacy Results from IMspire150
+Table 27 Efficacy Results from IMspire150
 
 |  | TECENTRIQ + Cobimetinib + Vemurafenib N=256 | Placebo + Cobimetinib + Vemurafenib N=258 |
 | --- | --- | --- |
@@ -526,7 +459,7 @@ Table 30 Efficacy Results from IMspire150
 | Median, months | 20.4 | 12.5 |
 | (95% CI) | (15.1, NE) | (10.7, 16.6) |
 
-Figure 8: Kaplan-Meier Plot for Progression-Free Survival in IMspire150
+Figure 7: Kaplan-Meier Plot for Progression-Free Survival in IMspire150
 
 At a pre-specified analysis at the time of the primary analysis of PFS, the OS data were not mature.
 The median OS was 28.8 months with 93 (36%) deaths in the TECENTRIQ plus cobimetinib and vemurafenib arm, and 25.1 months with 112 (43%) deaths in the placebo plus cobimetinib and vemurafenib arm.

@@ -1,12 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Urothelial Carcinoma, Triple-Negative Breast Cancer, Non-Small Cell Lung Cancer and Melanoma
+## 2.1 Patient Selection for Treatment of Urothelial Carcinoma, Non-Small Cell Lung Cancer and Melanoma
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
 Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.2)].
 
-Select patients with locally advanced or metastatic triple-negative breast cancer for treatment with TECENTRIQ in combination with paclitaxel protein-bound based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.3)].Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma, triple-negative breast cancer, or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
 
 Select patients with unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.5)].
 Information on FDA-approved tests for the detection of BRAF V600E and V600K mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
@@ -31,7 +31,6 @@ Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic A
 | Indication | Recommended Dosage of TECENTRIQ60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. | Duration of Therapy |
 | --- | --- | --- |
 | NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day. | Until disease progression or unacceptable toxicity |
-| Locally Advanced or Metastatic TNBC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to paclitaxel protein-bound when given on the same day. For each 28 day cycle, paclitaxel protein-bound is administered at 100 mg/m2 on days 1, 8, and 15 until disease progression or unacceptable toxicity. TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other. Do not substitute paclitaxel protein-bound with paclitaxel in combination with TECENTRIQ in clinical practice for metastatic TNBC outside of controlled trials [see Warnings and Precautions (5.4)]. |  |
 | SCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy when given on the same day. |  |
 | HCC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg every 3 weeks. |  |
 | Melanoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily. Prior to initiating TECENTRIQ, patients should receive a 28 day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28. |  |
