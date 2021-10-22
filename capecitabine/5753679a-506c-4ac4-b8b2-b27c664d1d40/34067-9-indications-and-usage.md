@@ -2,9 +2,9 @@
 
 ## 1.1 Colorectal Cancer
 
-- Capecitabine tablets are indicated as a single agent for adjuvant treatment in patients with Dukes' C colon cancer who have undergone complete resection of the primary tumor when treatment with fluoropyrimidine therapy alone is preferred.
+- Capecitabine tablets are indicated as a single agent for adjuvant treatment in patients with Dukes’ C colon cancer who have undergone complete resection of the primary tumor when treatment with fluoropyrimidine therapy alone is preferred.
   Capecitabine tablets were non-inferior to 5-fluorouracil and leucovorin (5-FU/LV) for disease-free survival (DFS).
-  Physicians should consider results of combination chemotherapy trials, which have shown improvement in DFS and OS, when prescribing single-agent capecitabine tablets in the adjuvant treatment of Dukes' C colon cancer.
+  Physicians should consider results of combination chemotherapy trials, which have shown improvement in DFS and OS, when prescribing single-agent capecitabine tablets in the adjuvant treatment of Dukes’ C colon cancer.
 - Capecitabine tablets are indicated as first-line treatment of patients with metastatic colorectal carcinoma when treatment with fluoropyrimidine therapy alone is preferred.
   Combination chemotherapy has shown a survival benefit compared to 5-FU/LV alone.
   A survival benefit over 5-FU/LV has not been demonstrated with capecitabine tablets monotherapy.

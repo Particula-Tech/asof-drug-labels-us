@@ -2,18 +2,18 @@
 
 ## 14.1 Adjuvant Colon Cancer
 
-A multicenter randomized, controlled phase 3 clinical trial in patients with Dukes' C colon cancer (X-ACT) provided data concerning the use of capecitabine for the adjuvant treatment of patients with colon cancer.
+A multicenter randomized, controlled phase 3 clinical trial in patients with Dukes’ C colon cancer (X-ACT) provided data concerning the use of capecitabine for the adjuvant treatment of patients with colon cancer.
 The primary objective of the study was to compare disease-free survival (DFS) in patients receiving capecitabine to those receiving IV 5-FU/LV alone.
 In this trial, 1987 patients were randomized either to treatment with capecitabine 1250 mg/m2 orally twice daily for 2 weeks followed by a 1-week rest period, given as 3-week cycles for a total of 8 cycles (24 weeks) or IV bolus 5-FU 425 mg/m2 and 20 mg/m2 IV leucovorin on days 1 to 5, given as 4-week cycles for a total of 6 cycles (24 weeks).
-Patients in the study were required to be between 18 and 75 years of age with histologically-confirmed Dukes' stage C colon cancer with at least one positive lymph node and to have undergone (within 8 weeks prior to randomization) complete resection of the primary tumor without macroscopic or microscopic evidence of remaining tumor.
+Patients in the study were required to be between 18 and 75 years of age with histologically-confirmed Dukes’ stage C colon cancer with at least one positive lymph node and to have undergone (within 8 weeks prior to randomization) complete resection of the primary tumor without macroscopic or microscopic evidence of remaining tumor.
 Patients were also required to have no prior cytotoxic chemotherapy or immunotherapy (except steroids), and have an ECOG performance status of 0 or 1 (KPS ≥ 70%), ANC ≥ 1.5×109/L, platelets ≥ 100×109/L, serum creatinine ≤ 1.5 ULN, total bilirubin ≤ 1.5 ULN, AST/ALT ≤ 2.5 ULN and CEA within normal limits at time of randomization.
 
 The baseline demographics for capecitabine and 5-FU/LV patients are shown in Table 10.
 The baseline characteristics were well-balanced between arms.
 
-Table 10: Baseline Demographics
+Table 10 Baseline Demographics
 
-|  | Capecitabine (n = 1004) | 5-FU/LV (n = 983) |
+|  | Capecitabine (n=1004) | 5-FU/LV (n=983) |
 | --- | --- | --- |
 | Age (median, years) | 62 | 63 |
 | Range | (25 to 80) | (22 to 82) |
@@ -39,9 +39,9 @@ The starting dose was reduced in patients with moderate renal impairment (calcul
 Subsequently, for all patients, doses were adjusted when needed according to toxicity.
 Dose management for capecitabine included dose reductions, cycle delays and treatment interruptions (see Table 11).
 
-Table 11: Summary of Dose Modifications in X-ACT Study
+Table 11 Summary of Dose Modifications in X-ACT Study
 
-|  | Capecitabine N = 995 | 5-FU/LV N = 974 |
+|  | Capecitabine N=995 | 5-FU/LV N=974 |
 | --- | --- | --- |
 | Median relative dose intensity (%) | 93 | 92 |
 | Patients completing full course of treatment (%) | 83 | 87 |
@@ -59,28 +59,29 @@ The hazard ratio for capecitabine compared to 5-FU/LV with respect to overall su
 0.74 to 1.01).
 The 5-year overall survival rates were 71.4% for capecitabine and 68.4% for 5-FU/LV (see Figure 2).
 
-Table 12: Efficacy of Capecitabine vs 5-FU/LV in Adjuvant Treatment of Colon CancerApproximately 93.4% had 5-year DFS information
+Table 12 Efficacy of Capecitabine vs 5-FU/LV in Adjuvant Treatment of Colon Cancera
 
-| All Randomized Population | Capecitabine (n = 1004) | 5-FU/LV (n = 983) |
+| All Randomized Population | Capecitabine (n=1004) | 5-FU/LV (n=983) |
 | --- | --- | --- |
 | Median follow-up (months) | 83 | 83 |
-| 5-year Disease-free Survival Rates (%)Based on Kaplan-Meier estimates | 59.1 | 54.6 |
+| 5-year Disease-free Survival Rates (%)b | 59.1 | 54.6 |
 | Hazard Ratio | 0.88 |  |
 | (Capecitabine/5-FU/LV) | (0.77 to 1.01) |  |
 | (95% C.I. for Hazard Ratio) |  |  |
-| p-valueTest of superiority of capecitabine vs 5-FU/LV (Wald chi-square test) | p = 0.068 |  |
+| p-valuec | p = 0.068 |  |
+| a Approximately 93.4% had 5-year DFS informationb Based on Kaplan-Meier estimatesc Test of superiority of capecitabine vs 5-FU/LV (Wald chi-square test) |  |  |
 
-Figure 1: Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)a
+Figure 1 Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)a
 
 a Capecitabine has been demonstrated to be non-inferior to 5-FU/LV.
 
-Figure 2: Kaplan-Meier Estimates of Overall Survival (All Randomized Population)
+Figure 2 Kaplan-Meier Estimates of Overall Survival (All Randomized Population)
 
 ## 14.2 Metastatic Colorectal Cancer
 
 General
 
-The recommended dose of capecitabine was determined in an open-label, randomized clinical study, exploring the efficacy and safety of continuous therapy with capecitabine (1331 mg/m2/day in two divided doses, n = 39), intermittent therapy with capecitabine (2510 mg/m2/day in two divided doses, n = 34), and intermittent therapy with capecitabine in combination with oral leucovorin (LV) (capecitabine 1657 mg/m2/day in two divided doses, n = 35; leucovorin 60 mg/day) in patients with advanced and/or metastatic colorectal carcinoma in the first-line metastatic setting.
+The recommended dose of capecitabine was determined in an open-label, randomized clinical study, exploring the efficacy and safety of continuous therapy with capecitabine (1331 mg/m2/day in two divided doses, n=39), intermittent therapy with capecitabine (2510 mg/m2/day in two divided doses, n=34), and intermittent therapy with capecitabine in combination with oral leucovorin (LV) (capecitabine 1657 mg/m2/day in two divided doses, n=35; leucovorin 60 mg/day) in patients with advanced and/or metastatic colorectal carcinoma in the first-line metastatic setting.
 There was no apparent advantage in response rate to adding leucovorin to capecitabine; however, toxicity was increased.
 Capecitabine, 1250 mg/m2 twice daily for 14 days followed by a 1-week rest, was selected for further clinical development based on the overall safety and efficacy profile of the three schedules studied.
 
@@ -98,11 +99,11 @@ Survival was assessed based on a non-inferiority analysis.
 
 The baseline demographics for capecitabine and 5-FU/LV patients are shown in Table 13.
 
-Table 13: Baseline Demographics of Controlled Colorectal Trials
+Table 13 Baseline Demographics of Controlled Colorectal Trials
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | Capecitabine (n = 302) | 5-FU/LV (n = 303) | Capecitabine (n = 301) | 5-FU/LV (n = 301) |
+|  | Capecitabine (n=302) | 5-FU/LV (n=303) | Capecitabine (n=301) | 5-FU/LV (n=301) |
 | Age (median, years) | 64 | 63 | 64 | 64 |
 | Range | (23 to 86) | (24 to 87) | (29 to 84) | (36 to 86) |
 | Gender |  |  |  |  |
@@ -117,9 +118,9 @@ Table 13: Baseline Demographics of Controlled Colorectal Trials
 
 The efficacy endpoints for the two phase 3 trials are shown in Table 14 and Table 15.
 
-Table 14: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 1)
+Table 14 Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 1)
 
-|  | Capecitabine (n = 302) | 5-FU/LV (n = 303) |
+|  | Capecitabine (n=302) | 5-FU/LV (n=303) |
 | --- | --- | --- |
 | Overall Response Rate (%, 95% C.I.) | 21 (16 to 26) | 11 (8 to 15) |
 | (p-value) | 0.0014 |  |
@@ -130,9 +131,9 @@ Table 14: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 1)
 | Hazard Ratio (Capecitabine/5-FU/LV) | 1.00 |  |
 | 95% C.I. for Hazard Ratio | (0.84 to 1.18) |  |
 
-Table 15: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)
+Table 15 Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)
 
-|  | Capecitabine (n = 301) | 5-FU/LV (n = 301) |
+|  | Capecitabine (n=301) | 5-FU/LV (n=301) |
 | --- | --- | --- |
 | Overall Response Rate (%, 95% C.I.) | 21 (16 to 26) | 14 (10 to 18) |
 | (p-value) | 0.027 |  |
@@ -143,7 +144,7 @@ Table 15: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)
 | Hazard Ratio (Capecitabine/5-FU/LV) | 0.92 |  |
 | 95% C.I. for Hazard Ratio | (0.78 to 1.09) |  |
 
-Figure 3: Kaplan-Meier Curve for Overall Survival of Pooled Data (Studies 1 and 2)
+Figure 3 Kaplan-Meier Curve for Overall Survival of Pooled Data (Studies 1 and 2)
 
 Capecitabine was superior to 5-FU/LV for objective response rate in Study 1 and Study 2.
 The similarity of capecitabine and 5-FU/LV in these studies was assessed by examining the potential difference between the two treatments.
@@ -171,9 +172,9 @@ Two hundred and fifty-five (255) patients were randomized to receive capecitabin
 In the monotherapy arm, 256 patients received docetaxel 100 mg/m2 as a 1-hour intravenous infusion administered in 3-week cycles.
 Patient demographics are provided in Table 16.
 
-Table 16: Baseline Demographics and Clinical Characteristics Capecitabine and Docetaxel Combination vs Docetaxel in Breast Cancer Trial
+Table 16 Baseline Demographics and Clinical Characteristics Capecitabine and Docetaxel Combination vs Docetaxel in Breast Cancer Trial
 
-|  | Capecitabine + Docetaxel (n = 255) | Docetaxel (n = 256) |
+|  | Capecitabine + Docetaxel (n=255) | Docetaxel (n=256) |
 | --- | --- | --- |
 | Age (median, years) | 52 | 51 |
 | Karnofsky PS (median) | 90 | 90 |
@@ -184,7 +185,7 @@ Table 16: Baseline Demographics and Clinical Characteristics Capecitabine and Do
 | Lung | 95 (37%) | 99 (39%) |
 | Skin | 73 (29%) | 73 (29%) |
 | Prior Chemotherapy |  |  |
-| AnthracyclineIncludes 10 patients in combination and 18 patients in monotherapy arms treated with an anthracenedione | 255 (100%) | 256 (100%) |
+| Anthracycline1 | 255 (100%) | 256 (100%) |
 | 5-FU | 196 (77%) | 189 (74%) |
 | Paclitaxel | 25 (10%) | 22 (9%) |
 | Resistance to an Anthracycline |  |  |
@@ -198,10 +199,11 @@ Table 16: Baseline Demographics and Clinical Characteristics Capecitabine and Do
 | 1 | 123 (48%) | 135 (53%) |
 | 2 | 43 (17%) | 39 (15%) |
 | 3 | 0 (0%) | 2 (1%) |
+| 1 Includes 10 patients in combination and 18 patients in monotherapy arms treated with an anthracenedione |  |  |
 
 Capecitabine in combination with docetaxel resulted in statistically significant improvement in time to disease progression, overall survival and objective response rate compared to monotherapy with docetaxel as shown in Table 17, Figure 4, and Figure 5.
 
-Table 17: Efficacy of Capecitabine and Docetaxel Combination vs Docetaxel Monotherapy
+Table 17 Efficacy of Capecitabine and Docetaxel Combination vs Docetaxel Monotherapy
 
 | Efficacy Parameter | Combination Therapy | Monotherapy | p-value | Hazard Ratio |
 | --- | --- | --- | --- | --- |
@@ -211,57 +213,60 @@ Table 17: Efficacy of Capecitabine and Docetaxel Combination vs Docetaxel Monoth
 | Overall Survival |  |  |  |  |
 | Median Days | 442 | 352 | 0.0126 | 0.775 |
 | 95% C.I. | (375 to 497) | (298 to 387) |  |  |
-| Response RateThe response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. | 32% | 22% | 0.009 | NANA = Not Applicable |
+| Response Rate1 | 32% | 22% | 0.009 | NA2 |
+| 1 The response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm.2 NA = Not Applicable |  |  |  |  |
 
-Figure 4: Kaplan-Meier Estimates for Time to Disease Progression Capecitabine and Docetaxel vs Docetaxel
+Figure 4 Kaplan-Meier Estimates for Time to Disease Progression Capecitabine and Docetaxel vs Docetaxel
 
-Figure 5: Kaplan-Meier Estimates of Survival Capecitabine and Docetaxel vs Docetaxel
+Figure 5 Kaplan-Meier Estimates of Survival Capecitabine and Docetaxel vs Docetaxel
 
 Monotherapy
 
 The antitumor activity of capecitabine as a monotherapy was evaluated in an open-label single-arm trial conducted in 24 centers in the U.S. and Canada.
 A total of 162 patients with stage IV breast cancer were enrolled.
-The primary endpoint was tumor response rate in patients with measurable disease, with response defined as a ≥ 50% decrease in sum of the products of the perpendicular diameters of bidimensionally measurable disease for at least 1 month.
+The primary endpoint was tumor response rate in patients with measurable disease, with response defined as a ≥50% decrease in sum of the products of the perpendicular diameters of bidimensionally measurable disease for at least 1 month.
 Capecitabine was administered at a dose of 1255 mg/m2 twice daily for 2 weeks followed by a 1-week rest period and given as 3-week cycles.
-The baseline demographics and clinical characteristics for all patients (n = 162) and those with measurable disease (n = 135) are shown in Table 18.
+The baseline demographics and clinical characteristics for all patients (n=162) and those with measurable disease (n=135) are shown in Table 18.
 Resistance was defined as progressive disease while on treatment, with or without an initial response, or relapse within 6 months of completing treatment with an anthracycline-containing adjuvant chemotherapy regimen.
 
-Table 18: Baseline Demographics and Clinical Characteristics Single-Arm Breast Cancer Trial
+Table 18 Baseline Demographics and Clinical Characteristics Single-Arm Breast Cancer Trial
 
-|  | Patients With Measurable Disease (n = 135) | All Patients (n = 162) |
+|  | Patients With Measurable Disease (n=135) | All Patients (n=162) |
 | --- | --- | --- |
 | Age (median, years) | 55 | 56 |
 | Karnofsky PS | 90 | 90 |
 | No. Disease Sites |  |  |
 | 1 to 2 | 43 (32%) | 60 (37%) |
 | 3 to 4 | 63 (46%) | 69 (43%) |
-| > 5 | 29 (22%) | 34 (21%) |
+| >5 | 29 (22%) | 34 (21%) |
 | Dominant Site of Disease |  |  |
-| VisceralLung, pleura, liver, peritoneum | 101 (75%) | 110 (68%) |
+| Visceral1 | 101 (75%) | 110 (68%) |
 | Soft Tissue | 30 (22%) | 35 (22%) |
 | Bone | 4 (3%) | 17 (10%) |
 | Prior Chemotherapy |  |  |
 | Paclitaxel | 135 (100%) | 162 (100%) |
-| AnthracyclineIncludes 2 patients treated with an anthracenedione | 122 (90%) | 147 (91%) |
+| Anthracycline2 | 122 (90%) | 147 (91%) |
 | 5-FU | 110 (81%) | 133 (82%) |
 | Resistance to Paclitaxel | 103 (76%) | 124 (77%) |
-| Resistance to an Anthracycline | 55 (41%) | 67 (41%) |
-| Resistance to both Paclitaxel and an Anthracycline | 43 (32%) | 51 (31%) |
+| Resistance to an Anthracycline2 | 55 (41%) | 67 (41%) |
+| Resistance to both Paclitaxel and an Anthracycline2 | 43 (32%) | 51 (31%) |
+| 1 Lung, pleura, liver, peritoneum2 Includes 2 patients treated with an anthracenedione |  |  |
 
 Antitumor responses for patients with disease resistant to both paclitaxel and an anthracycline are shown in Table 19.
 
-Table 19: Response Rates in Doubly-Resistant Patients Single-Arm Breast Cancer Trial
+Table 19 Response Rates in Doubly-Resistant Patients Single-Arm Breast Cancer Trial
 
-|  | Resistance to Both Paclitaxel and an Anthracycline (n = 43) |
+|  | Resistance to Both Paclitaxel and an Anthracycline (n=43) |
 | --- | --- |
 | CR | 0 |
-| PRIncludes 2 patients treated with an anthracenedione | 11 |
-| CR + PR | 11 |
-| Response Rate | 25.6% |
+| PR1 | 11 |
+| CR + PR1 | 11 |
+| Response Rate1 | 25.6% |
 | (95% C.I.) | (13.5, 41.2) |
-| Duration of Response, |  |
-| Median in daysFrom date of first response | 154 |
+| Duration of Response,1 |  |
+| Median in days2 | 154 |
 | (Range) | (63 to 233) |
+| 1 Includes 2 patients treated with an anthracenedione2 From date of first response |  |
 
 For the subgroup of 43 patients who were doubly resistant, the median time to progression was 102 days and the median survival was 255 days.
 The objective response rate in this population was supported by a response rate of 18.5% (1 CR, 24 PRs) in the overall population of 135 patients with measurable disease, who were less resistant to chemotherapy (see Table 18).

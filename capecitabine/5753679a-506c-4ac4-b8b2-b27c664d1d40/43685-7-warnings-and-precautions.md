@@ -42,7 +42,7 @@ Dose modifications should be applied for the precipitating adverse event as nece
 
 Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.4)].
 Patients with mild and moderate renal impairment at baseline should be carefully monitored for adverse reactions.
-Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2[see Dosage and Administration (2.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
 ## 5.6 Embryo-Fetal Toxicity
 
@@ -68,39 +68,39 @@ Following grade 3 hand-and-foot syndrome, subsequent doses of capecitabine shoul
 
 ## 5.8 Hyperbilirubinemia
 
-In 875 patients with either metastatic breast or colorectal cancer who received at least one dose of capecitabine 1250 mg/m2 twice daily as monotherapy for 2 weeks followed by a 1-week rest period, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 15.2% (n = 133) of patients and grade 4 (> 3 × ULN) hyperbilirubinemia occurred in 3.9% (n = 34) of patients.
+In 875 patients with either metastatic breast or colorectal cancer who received at least one dose of capecitabine 1250 mg/m2 twice daily as monotherapy for 2 weeks followed by a 1-week rest period, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 15.2% (n=133) of patients and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 3.9% (n=34) of patients.
 Of 566 patients who had hepatic metastases at baseline and 309 patients without hepatic metastases at baseline, grade 3 or 4 hyperbilirubinemia occurred in 22.8% and 12.3%, respectively.
-Of the 167 patients with grade 3 or 4 hyperbilirubinemia, 18.6% (n = 31) also had postbaseline elevations (grades 1 to 4, without elevations at baseline) in alkaline phosphatase and 27.5% (n = 46) had postbaseline elevations in transaminases at any time (not necessarily concurrent).
-The majority of these patients, 64.5% (n = 20) and 71.7% (n = 33), had liver metastases at baseline.
-In addition, 57.5% (n = 96) and 35.3% (n = 59) of the 167 patients had elevations (grades 1 to 4) at both prebaseline and postbaseline in alkaline phosphatase or transaminases, respectively.
-Only 7.8% (n = 13) and 3.0% (n = 5) had grade 3 or 4 elevations in alkaline phosphatase or transaminases.
+Of the 167 patients with grade 3 or 4 hyperbilirubinemia, 18.6% (n=31) also had postbaseline elevations (grades 1 to 4, without elevations at baseline) in alkaline phosphatase and 27.5% (n=46) had postbaseline elevations in transaminases at any time (not necessarily concurrent).
+The majority of these patients, 64.5% (n=20) and 71.7% (n=33), had liver metastases at baseline.
+In addition, 57.5% (n=96) and 35.3% (n=59) of the 167 patients had elevations (grades 1 to 4) at both prebaseline and postbaseline in alkaline phosphatase or transaminases, respectively.
+Only 7.8% (n=13) and 3.0% (n=5) had grade 3 or 4 elevations in alkaline phosphatase or transaminases.
 
 In the 596 patients treated with capecitabine as first-line therapy for metastatic colorectal cancer, the incidence of grade 3 or 4 hyperbilirubinemia was similar to the overall clinical trial safety database of capecitabine monotherapy.
 The median time to onset for grade 3 or 4 hyperbilirubinemia in the colorectal cancer population was 64 days and median total bilirubin increased from 8 µm/L at baseline to 13 µm/L during treatment with capecitabine.
 Of the 136 colorectal cancer patients with grade 3 or 4 hyperbilirubinemia, 49 patients had grade 3 or 4 hyperbilirubinemia as their last measured value, of which 46 had liver metastases at baseline.
 
-In 251 patients with metastatic breast cancer who received a combination of capecitabine and docetaxel, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 7% (n = 17) and grade 4 (> 3 × ULN) hyperbilirubinemia occurred in 2% (n = 5).
+In 251 patients with metastatic breast cancer who received a combination of capecitabine and docetaxel, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 7% (n=17) and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 2% (n=5).
 
-If drug-related grade 3 to 4 elevations in bilirubin occur, administration of capecitabine should be immediately interrupted until the hyperbilirubinemia decreases to ≤ 3.0 × ULN [see recommended dose modifications under Dosage and Administration (2.3)].
+If drug-related grade 3 to 4 elevations in bilirubin occur, administration of capecitabine should be immediately interrupted until the hyperbilirubinemia decreases to ≤3.0 × ULN [see recommended dose modifications under Dosage and Administration (2.3)].
 
 ## 5.9 Hematologic
 
 In 875 patients with either metastatic breast or colorectal cancer who received a dose of 1250 mg/m2 administered twice daily as monotherapy for 2 weeks followed by a 1-week rest period, 3.2%, 1.7%, and 2.4% of patients had grade 3 or 4 neutropenia, thrombocytopenia or decreases in hemoglobin, respectively.
 In 251 patients with metastatic breast cancer who received a dose of capecitabine in combination with docetaxel, 68% had grade 3 or 4 neutropenia, 2.8% had grade 3 or 4 thrombocytopenia, and 9.6% had grade 3 or 4 anemia.
 
-Patients with baseline neutrophil counts of < 1.5 × 109/L and/or thrombocyte counts of < 100 × 109/L should not be treated with capecitabine.
+Patients with baseline neutrophil counts of <1.5 × 109/L and/or thrombocyte counts of <100 × 109/L should not be treated with capecitabine.
 If unscheduled laboratory assessments during a treatment cycle show grade 3 or 4 hematologic toxicity, treatment with capecitabine should be interrupted.
 
 ## 5.10 Geriatric Patients
 
-Patients ≥ 80 years old may experience a greater incidence of grade 3 or 4 adverse reactions.
-In 875 patients with either metastatic breast or colorectal cancer who received capecitabine monotherapy, 62% of the 21 patients ≥ 80 years of age treated with capecitabine experienced a treatment-related grade 3 or 4 adverse event: diarrhea in 6 (28.6%), nausea in 3 (14.3%), hand-and-foot syndrome in 3 (14.3%), and vomiting in 2 (9.5%) patients.
-Among the 10 patients 70 years of age and greater (no patients were > 80 years of age) treated with capecitabine in combination with docetaxel, 30% (3 out of 10) of patients experienced grade 3 or 4 diarrhea and stomatitis, and 40% (4 out of 10) experienced grade 3 hand-and-foot syndrome.
+Patients ≥80 years old may experience a greater incidence of grade 3 or 4 adverse reactions.
+In 875 patients with either metastatic breast or colorectal cancer who received capecitabine monotherapy, 62% of the 21 patients ≥80 years of age treated with capecitabine experienced a treatment-related grade 3 or 4 adverse event: diarrhea in 6 (28.6%), nausea in 3 (14.3%), hand-and-foot syndrome in 3 (14.3%), and vomiting in 2 (9.5%) patients.
+Among the 10 patients 70 years of age and greater (no patients were >80 years of age) treated with capecitabine in combination with docetaxel, 30% (3 out of 10) of patients experienced grade 3 or 4 diarrhea and stomatitis, and 40% (4 out of 10) experienced grade 3 hand-and-foot syndrome.
 
-Among the 67 patients ≥ 60 years of age receiving capecitabine in combination with docetaxel, the incidence of grade 3 or 4 treatment-related adverse reactions, treatment-related serious adverse reactions, withdrawals due to adverse reactions, treatment discontinuations due to adverse reactions and treatment discontinuations within the first two treatment cycles was higher than in the < 60 years of age patient group.
+Among the 67 patients ≥60 years of age receiving capecitabine in combination with docetaxel, the incidence of grade 3 or 4 treatment-related adverse reactions, treatment-related serious adverse reactions, withdrawals due to adverse reactions, treatment discontinuations due to adverse reactions and treatment discontinuations within the first two treatment cycles was higher than in the <60 years of age patient group.
 
-In 995 patients receiving capecitabine as adjuvant therapy for Dukes' C colon cancer after resection of the primary tumor, 41% of the 398 patients ≥ 65 years of age treated with capecitabine experienced a treatment-related grade 3 or 4 adverse event: hand-and-foot syndrome in 75 (18.8%), diarrhea in 52 (13.1%), stomatitis in 12 (3.0%), neutropenia/granulocytopenia in 11 (2.8%), vomiting in 6 (1.5%), and nausea in 5 (1.3%) patients.
-In patients ≥ 65 years of age (all randomized population; capecitabine 188 patients, 5-FU/LV 208 patients) treated for Dukes' C colon cancer after resection of the primary tumor, the hazard ratios for disease-free survival and overall survival for capecitabine compared to 5-FU/LV were 1.01 (95% C.I.
+In 995 patients receiving capecitabine as adjuvant therapy for Dukes’ C colon cancer after resection of the primary tumor, 41% of the 398 patients ≥65 years of age treated with capecitabine experienced a treatment-related grade 3 or 4 adverse event: hand-and-foot syndrome in 75 (18.8%), diarrhea in 52 (13.1%), stomatitis in 12 (3.0%), neutropenia/granulocytopenia in 11 (2.8%), vomiting in 6 (1.5%), and nausea in 5 (1.3%) patients.
+In patients ≥65 years of age (all randomized population; capecitabine 188 patients, 5-FU/LV 208 patients) treated for Dukes’ C colon cancer after resection of the primary tumor, the hazard ratios for disease-free survival and overall survival for capecitabine compared to 5-FU/LV were 1.01 (95% C.I.
 0.80 to 1.27) and 1.04 (95% C.I.
 0.79 to 1.37), respectively.
 

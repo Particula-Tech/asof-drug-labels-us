@@ -49,7 +49,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of capecitabine [see Nonclinical Toxicology (13.1)].
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the final dose of capecitabine [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -75,17 +75,17 @@ After a 2 week break, patients received 1250 mg/m2 capecitabine every 12 hours o
 There was no improvement in one-year progression-free survival rate and one-year overall survival rate in pediatric patients with newly diagnosed intrinsic brainstem gliomas who received capecitabine relative to a similar population of pediatric patients who participated in other clinical trials.
 
 The adverse reaction profile of capecitabine was consistent with the known adverse reaction profile in adults, with the exception of laboratory abnormalities which occurred more commonly in pediatric patients.
-The most frequently reported laboratory abnormalities (per-patient incidence ≥ 40%) were increased ALT (75%), lymphocytopenia (73%), leukopenia (73%), hypokalemia (68%), thrombocytopenia (57%), hypoalbuminemia (55%), neutropenia (50%), low hematocrit (50%), hypocalcemia (48%), hypophosphatemia (45%) and hyponatremia (45%).
+The most frequently reported laboratory abnormalities (per-patient incidence ≥40%) were increased ALT (75%), lymphocytopenia (73%), leukopenia (73%), hypokalemia (68%), thrombocytopenia (57%), hypoalbuminemia (55%), neutropenia (50%), low hematocrit (50%), hypocalcemia (48%), hypophosphatemia (45%) and hyponatremia (45%).
 
 ## 8.5 Geriatric Use
 
-Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.11)].
+Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.10)].
 
 ## 8.6 Hepatic Insufficiency
 
 Exercise caution when patients with mild to moderate hepatic dysfunction due to liver metastases are treated with capecitabine.
-The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 
-Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance < 30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
+Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].

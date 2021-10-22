@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Capecitabine Tablets USP are available as follows:
+Capecitabine Tablets, USP are available as follows:
 
 150 mg: Peach to light peach, oblong, film-coated, biconvex, unscored tablets, debossed with 190 on one side and 77 on the other side.
 Available in bottles of 60 tablets (NDC 0093-7473-06).

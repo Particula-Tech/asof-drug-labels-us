@@ -12,4 +12,4 @@ In studies of fertility and general reproductive performance in female mice, ora
 In mice that became pregnant, no fetuses survived this dose.
 The disturbance in estrus was reversible.
 In males, this dose caused degenerative changes in the testes, including decreases in the number of spermatocytes and spermatids.
-In separate pharmacokinetic studies, this dose in mice produced 5'-DFUR AUC values about 0.7 times the corresponding values in patients administered the recommended daily dose.
+In separate pharmacokinetic studies, this dose in mice produced 5’-DFUR AUC values about 0.7 times the corresponding values in patients administered the recommended daily dose.

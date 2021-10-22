@@ -13,14 +13,14 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 
 The recommended dose of capecitabine tablets is 1250 mg/m2 administered orally twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 2 weeks followed by a 1-week rest period given as 3-week cycles (see Table 1).
 
-Adjuvant treatment in patients with Dukes' C colon cancer is recommended for a total of 6 months [i.e., capecitabine tablets 1250 mg/m2 orally twice daily for 2 weeks followed by a 1-week rest period, given as 3-week cycles for a total of 8 cycles (24 weeks)].
+Adjuvant treatment in patients with Dukes’ C colon cancer is recommended for a total of 6 months [i.e., capecitabine tablets 1250 mg/m2 orally twice daily for 2 weeks followed by a 1-week rest period, given as 3-week cycles for a total of 8 cycles (24 weeks)].
 
-Table 1: Capecitabine Tablets Dose Calculation According to Body Surface Area
+Table 1 Capecitabine Tablets Dose Calculation According to Body Surface Area
 
 | Dose Level 1250 mg/m2 Twice a Day |  | Number of Tablets to be Taken at Each Dose (Morning and Evening) |  |
 | --- | --- | --- | --- |
 | Surface Area (m2) | Total Daily DoseTotal Daily Dose divided by 2 to allow equal morning and evening doses (mg) | 150 mg | 500 mg |
-| ≤ 1.25 | 3000 | 0 | 3 |
+| ≤1.25 | 3000 | 0 | 3 |
 | 1.26 to 1.37 | 3300 | 1 | 3 |
 | 1.38 to 1.51 | 3600 | 2 | 3 |
 | 1.52 to 1.65 | 4000 | 0 | 4 |
@@ -28,7 +28,7 @@ Table 1: Capecitabine Tablets Dose Calculation According to Body Surface Area
 | 1.78 to 1.91 | 4600 | 2 | 4 |
 | 1.92 to 2.05 | 5000 | 0 | 5 |
 | 2.06 to 2.17 | 5300 | 1 | 5 |
-| ≥ 2.18 | 5600 | 2 | 5 |
+| ≥2.18 | 5600 | 2 | 5 |
 
 In Combination With Docetaxel (Metastatic Breast Cancer)
 
@@ -52,7 +52,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 
 Capecitabine tablets dose modification scheme as described below (see Table 2) is recommended for the management of adverse reactions.
 
-Table 2: Recommended Dose Modifications of Capecitabine Tablets
+Table 2 Recommended Dose Modifications of Capecitabine Tablets
 
 | Toxicity NCIC GradesNational Cancer Institute of Canada Common Toxicity Criteria were used except for the hand-and-foot syndrome [see Warnings and Precautions (5)]. | During a Course of Therapy | Dose Adjustment for Next Treatment (% of starting dose) |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Table 2: Recommended Dose Modifications of Capecitabine Tablets
 | -2nd appearance | 50% |  |
 | -3rd appearance | Discontinue treatment permanently | - |
 | Grade 4 |  |  |
-| -1st appearance | Discontinue permanently OR If physician deems it to be in the patient's best interest to continue, interrupt until resolved to grade 0 to 1 | 50% |
+| -1st appearance | Discontinue permanently OR If physician deems it to be in the patient’s best interest to continue, interrupt until resolved to grade 0 to 1 | 50% |
 
 In Combination With Docetaxel (Metastatic Breast Cancer)
 
@@ -76,7 +76,7 @@ At the beginning of a treatment cycle, if a treatment delay is indicated for eit
 
 The dose reduction schedule for docetaxel when used in combination with capecitabine tablets for the treatment of metastatic breast cancer is shown in Table 3.
 
-Table 3: Docetaxel Dose Reduction Schedule in Combination with Capecitabine Tablets
+Table 3 Docetaxel Dose Reduction Schedule in Combination with Capecitabine Tablets
 
 | Toxicity NCIC GradesNational Cancer Institute of Canada Common Toxicity Criteria were used except for hand-and-foot syndrome [see Warnings and Precautions (5)]. | Grade 2 | Grade 3 | Grade 4 |
 | --- | --- | --- | --- |
