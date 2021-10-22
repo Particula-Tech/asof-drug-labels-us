@@ -7,7 +7,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - •Cross Hypersensitivity Reaction to Carbamazepine [see Warnings and Precautions (5.3)]
 - •Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
 - •Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- •Cognitive/Neuropsychiatric Adverse Reactions [seeWarnings and Precautions (5.7)]
+- •Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.7)]
 - •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity [see Warnings and Precautions (5.8)]
 - •Hematologic Events [see Warnings and Precautions (5.9)]
 

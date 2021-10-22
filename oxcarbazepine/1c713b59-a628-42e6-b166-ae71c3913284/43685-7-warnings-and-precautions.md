@@ -45,7 +45,7 @@ Available clinical evidence, and data from nonclinical studies showing a direct 
 
 The frequency of HLA-B*1502 allele ranges from 2 to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines and in some Malaysian populations.
 Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
-The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (< 1%).
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
 
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with oxcarbazepine.
 The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.

@@ -76,7 +76,7 @@ It is not known if oxcarbazepine tablets are safe and effective for use alone to
 Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine tablets or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine tablets.
 
-Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
+Many people who are allergic to carbamazepine are also allergic to oxcarbazepine tablets.
 Tell your healthcare provider if you are allergic to carbamazepine.
 
 Before taking oxcarbazepine tablets, tell your healthcare provider about all your medical conditions, including if you:
@@ -98,7 +98,7 @@ If you become pregnant while taking oxcarbazepine tablets, talk to your healthca
 The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 You can enroll in this registry by calling 1-888-233-2334.
 
-- •are breastfeeding or plan to breastfeed. oxcarbazepine passes into breast milk.
+- •are breastfeeding or plan to breastfeed oxcarbazepine passes into breast milk.
   Talk with your healthcare provider about the best way to feed your baby if you take oxcarbazepine.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -154,7 +154,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store oxcarbazepine tablets?
 
-- •Store oxcarbazepine film-coated tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- •Store oxcarbazepine film-coated tablets at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 - •Keep oxcarbazepine film-coated tablets dry.
 
 Keep oxcarbazepine tablets and all medicines out of the reach of children.
@@ -170,15 +170,17 @@ You can ask your pharmacist or healthcare provider for information about oxcarba
 
 What are the ingredients in oxcarbazepine tablets?
 
-Active ingredient: oxcarbazepine
+Active ingredient:s oxcarbazepine
 
-Inactive ingredients:
+Inactive ingredients: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 
-- •Film-coated tablets: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
+Medication Guide available at
+
+www.glenmarkpharma-us.com/medguides
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 India
 
@@ -191,8 +193,8 @@ Mahwah, NJ 07430
 Questions?
 1 (888)721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-March 2019
+August 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

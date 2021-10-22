@@ -43,7 +43,7 @@ The time to meeting one of the exit criteria was also statistically significant 
 
 Figure 4: Kaplan-Meier Estimates of Exit Rate by Treatment Group
 
-A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial-onset seizures.
+A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial seizures.
 Patients were hospitalized and randomized to either oxcarbazepine 10 mg/kg/day or were titrated up to 40 to 60 mg/kg/day within 3 days while withdrawing the previous AED on the second day of oxcarbazepine.
 Seizures were recorded through continuous video-EEG monitoring from Day 3 to Day 5.
 Patients either completed the 5-day treatment or met 1 of the 2 exit criteria: 1) three study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate), 2) a prolonged study-specific seizure.
@@ -51,7 +51,7 @@ The primary measure of effectiveness was a between-group comparison of the time 
 The majority of patients from both dose groups completed the 5-day study without exiting.
 
 Although this study failed to demonstrate an effect of oxcarbazepine as monotherapy in pediatric patients, several design elements, including the short treatment and assessment period, the absence of a true placebo, and the likely persistence of plasma levels of previously administered AEDs during the treatment period, make the results uninterpretable.
-For this reason, the results do not undermine the conclusion, based on pharmacokinetic/pharmacodynamics considerations, that oxcarbazepine is effective as monotherapy in pediatric patients 4 years old and older.
+For this reason, the results do not undermine the conclusion, based on pharmacokinetic/pharmacodynamic considerations, that oxcarbazepine is effective as monotherapy in pediatric patients 4 years old and older.
 
 ## 14.2 Oxcarbazepine Adjunctive Therapy Trials
 
@@ -71,7 +71,7 @@ This comparison was statistically significant in favor of oxcarbazepine at all d
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
 It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (6)], an outcome not seen in the monotherapy studies.
 
-Table 8: Summary of Percentage Change in Partial-onset Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
+Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
 
 | Trial | Treatment Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -82,7 +82,7 @@ Table 8: Summary of Percentage Change in Partial-onset Seizure Frequency from Ba
 |  | Oxcarbazepine 1200 mg/day | 177 | 9.8 | 40.21 |
 |  | Oxcarbazepine 600 mg/day | 168 | 9.6 | 26.41 |
 |  | Placebo | 173 | 8.6 | 7.6 |
-| 1 p=0.0001; * = number of seizures per 28 days |  |  |  |  |
+| 1 p=0.0001; * = number of seizures per 28 days. |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of oxcarbazepine with regard to gender in these trials revealed no important differences in response between men and women.
 Because there were very few patients over the age of 65 years in controlled trials, the effect of the drug in the elderly has not been adequately assessed.
