@@ -9,11 +9,9 @@ What are Abiraterone Acetate Tablets?
 Abiraterone acetate tablets are a prescription medicine that is used along with prednisone.
 Abiraterone acetate tablets are used to treat men with prostate cancer that has spread to other parts of the body.
 
-Abiraterone acetate tablets are not for use in women.
-
 It is not known if abiraterone acetate tablets are safe and effective in females or children.
 
-Before you take Abiraterone Acetate Tablets, tell your healthcare provider about all of your medical conditions, including if you:
+Before you take abiraterone acetate tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have heart problems
 - have liver problems
@@ -23,7 +21,7 @@ Before you take Abiraterone Acetate Tablets, tell your healthcare provider about
 - are receiving any other treatment for prostate cancer
 - are pregnant or plan to become pregnant.
   Abiraterone acetate tablets can cause harm to your unborn baby and loss of pregnancy (miscarriage).
-  Females who are or may become pregnant should not handle abiraterone acetate tablets uncoated tablets or other Abiraterone acetate tablets if broken, crushed, or damaged without protection, such as gloves.
+  Females who are or may become pregnant should not handle abiraterone acetate uncoated tablets or other abiraterone acetate tablets if broken, crushed, or damaged without protection, such as gloves.
 - have a partner who is pregnant or may become pregnant.
 - Males who have female partners who are able to become pregnant should use effective birth control (contraception) during treatment with abiraterone acetate tablets and for 3 weeks after the last dose of abiraterone acetate tablets.
 - are breastfeeding or plan to breastfeed.
@@ -43,8 +41,9 @@ How should I take Abiraterone Acetate Tablets?
 - Take your prescribed dose of abiraterone acetate tablets 1 time a day.
 - Your healthcare provider may change your dose if needed.
 - Do not change or stop taking your prescribed dose of abiraterone acetate tablets or prednisone without talking with your healthcare provider first.
-- Take abiraterone acetate tablets on an empty stomach, at least one hour before or at least two hours after a meal.
-  Do not take abiraterone acetate tablets with food.
+- Take abiraterone acetate tablets as a single dose one time a day on an empty stomach.
+  Do not eat food 2 hours before and 1 hour after taking abiraterone acetate tablets.
+- Do not take abiraterone acetate tablets with food.
   Taking abiraterone acetate tablets with food may cause more of the medicine to be absorbed by the body than is needed and this may cause side effects.
 - Swallow abiraterone acetate tablets whole.
   Do not crush or chew tablets.
@@ -55,20 +54,20 @@ How should I take Abiraterone Acetate Tablets?
 
 What are the possible side effects of Abiraterone Acetate Tablets?
 
-Abiraterone Acetate Tablets may cause serious side effects including:
+Abiraterone acetate tablets may cause serious side effects including:
 
 - High blood pressure (hypertension), low blood potassium levels (hypokalemia), fluid retention (edema), and irregular heartbeats can happen during treatment with abiraterone acetate tablets.
   This can be life threatening.
   To decrease the chance of this happening, you must take prednisone with abiraterone acetate tablets exactly as your healthcare provider tells you.
   Your healthcare provider will check your blood pressure, do blood tests to check your potassium levels, and check for any signs and symptoms of fluid retention every month during treatment with abiraterone acetate tablets.
-  Tell your healthcare provider if you get any of the following symptoms: •• dizziness • confusion•• fast or irregular heartbeats • muscle weakness•• feel faint or lightheaded • pain in your legs• headache• swelling in your legs or feet
+  Tell your healthcare provider if you get any of the following symptoms: • dizziness • confusion• fast or irregular heartbeats • muscle weakness• feel faint or lightheaded • pain in your legs• headache• swelling in your legs or feet
 
 - Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress.
 - Severe liver problems.
-  You may develop changes in liver function blood test.
+  You may develop changes in liver function blood tests.
   Your healthcare provider will do blood tests to check your liver before treatment with abiraterone acetate tablets and during treatment with abiraterone acetate tablets.
   Liver failure may occur, which can lead to death.
-  Tell your healthcare provider if you notice any of the following changes:
+  Tell your healthcare provider right away if you notice any of the following changes:
   - yellowing of the skin or eyes
   - darkening of the urine
   - severe nausea or vomiting
@@ -78,9 +77,9 @@ Tell your healthcare provider about any other treatments you are taking for pros
 
 - Severe low blood sugar (hypoglycemia).
   Severe low blood sugar with abiraterone acetate can happen in people who have diabetes and take certain antidiabetic medicines.
-  You and/or your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate and after you stop treatment.
+  You and your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate and after you stop treatment.
   Your healthcare provider may also need to change the dose of your antidiabetic medicines.
-  Signs and symptoms of low blood sugar may include:
+  Signs and symptoms of low blood sugar may include: headachedrowsiness weakness dizziness confusion irritabilityhungerfast heart beat sweating feeling jittery
 
 The most common side effects of abiraterone acetate include:
 
@@ -97,7 +96,7 @@ The most common side effects of abiraterone acetate include:
 Abiraterone acetate tablets may cause fertility problems in males, which may affect the ability to father children.
 Talk to your healthcare provider if you have concerns about fertility.
 
-These are not all the possible side effects of abiraterone acetate.
+These are not all the possible side effects of abiraterone acetate tablets.
 
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -106,7 +105,7 @@ How should I store Abiraterone Acetate Tablets?
 
 - Store abiraterone acetate tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep Abiraterone Acetate Tablets and all medicines out of the reach of children.
+Keep abiraterone acetate tablets and all medicines out of the reach of children.
 
 General information about Abiraterone Acetate Tablets.
 
@@ -139,6 +138,6 @@ Abiraterone Acetate Tablets, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: August 2021
+Revised: October 2021
 
-Revision: 11
+Revision: 12

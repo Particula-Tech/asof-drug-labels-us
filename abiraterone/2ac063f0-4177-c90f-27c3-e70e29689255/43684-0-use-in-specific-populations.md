@@ -58,7 +58,7 @@ The systemic exposure (AUC) of abiraterone increased by approximately 7-fold and
 
 No dosage adjustment is necessary for patients with baseline mild hepatic impairment.
 In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of abiraterone acetate to 250 mg once daily.
-Do not use abiraterone acetate in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Do not use abiraterone acetate in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5 X ULN or total bilirubin >3 X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 For patients who develop hepatotoxicity during treatment, interruption of treatment and dosage adjustment may be required [see Dosage and Administration (2.4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
