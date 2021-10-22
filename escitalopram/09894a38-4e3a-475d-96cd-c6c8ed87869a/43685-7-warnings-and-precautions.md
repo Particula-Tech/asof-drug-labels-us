@@ -110,3 +110,13 @@ The recommended dose of escitalopram oxalate in hepatically impaired patients is
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
 Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram oxalate, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].
+
+## 5.11 Sexual Dysfunction
+
+Use of SSRIs, including escitalopram oxalate, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of escitalopram oxalate and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

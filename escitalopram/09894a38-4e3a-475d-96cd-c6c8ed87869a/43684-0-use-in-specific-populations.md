@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
-Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
+Available data from published epidemiologic studies and post-marketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
@@ -40,7 +40,7 @@ Data
 Human Data
 
 Exposure to SSRIs, particularly later in pregnancy, may increase the risk for PPHN.
-PPHN occurs in 1-2 per 1000 live births in the general populations and is associated with substantial neonatal morbidity and mortality.
+PPHN occurs in 1 to 2 per 1000 live births in the general populations and is associated with substantial neonatal morbidity and mortality.
 
 Animal Data
 
@@ -80,7 +80,7 @@ Infants exposed to escitalopram oxalate should be monitored for excess sedation,
 
 Data
 
-A study of 8 nursing mothers on escitalopram with daily doses of 10-20 mg/day showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
+A study of 8 nursing mothers on escitalopram with daily doses of 10 to 20 mg/day showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
 
 ## 8.4 Pediatric Use
 

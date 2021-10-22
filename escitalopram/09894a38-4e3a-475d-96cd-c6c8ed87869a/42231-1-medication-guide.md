@@ -97,6 +97,20 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+10.
+Sexual Dysfunction Taking selective serotonin reuptake inhibitors (SSRIs), including escitalopram oral solution, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erectionSymptoms in females may include:
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with escitalopram oral solution.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop escitalopram oral solution without first talking to your healthcare provider.
 Stopping escitalopram oral solution too quickly may cause serious symptoms including:
 
@@ -272,6 +286,6 @@ Inactive ingredients:
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2020-05
+10-2021-07
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
