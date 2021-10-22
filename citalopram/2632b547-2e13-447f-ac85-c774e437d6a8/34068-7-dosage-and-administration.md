@@ -10,8 +10,8 @@ Additionally, the only study pertinent to dose response for effectiveness did no
 
 ## Special Populations
 
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor.
-(see WARNINGS) No dosage adjustment is necessary for patients with mild or moderate renal impairment.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor (see WARNINGS).
+No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Citalopram tablets should be used with caution in patients with severe renal impairment.
 
 ## Treatment of Pregnant Women During the Third Trimester

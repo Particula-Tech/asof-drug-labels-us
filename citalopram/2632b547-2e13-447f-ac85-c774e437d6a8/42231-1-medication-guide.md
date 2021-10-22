@@ -11,23 +11,24 @@ Suicidal thoughts or actions:
 - Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
-- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-- Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - attempts to commit suicide
 - acting on dangerous impulses
-- acting aggressive or violent
-- thoughts about suicide or dying
+- acting aggressive or violent thoughts about suicide or dying
 - new or worse depression
 - new or worse anxiety or panic attacks
 - feeling agitated, restless, angry or irritable
 - trouble sleeping
 - an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-  Citalopram tablets may be associated with these serious side effects:
+- other unusual changes in behavior or mood
+
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+Citalopram tablets may be associated with these serious side effects:
 
 2.
 Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
@@ -51,8 +52,10 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 4.
-Severe allergic reactions: trouble breathing swelling of the face, tongue, eyes or mouth
+Severe allergic reactions:
 
+- trouble breathing
+- swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
@@ -63,14 +66,15 @@ Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
-- racing thoughts, reckless behavior
+- racing thoughts
+- reckless behavior
 - unusually grand ideas
-- excessive happiness or irritability, talking more or faster than usual
+- excessive happiness or irritability
+- talking more or faster than usual
 
 8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
-
 9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
@@ -89,12 +93,26 @@ Visual problems
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+11.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including citalopram tablets, may cause sexual problems.
+
+- Symptoms in males may include:
+  - Delayed ejaculation or inability to have an ejaculation
+  - Decreased sex drive
+  - Problems getting or keeping an erection
+- Symptoms in females may include:
+  - Decreased sex drive
+  - Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram tablets.
+There may be treatments your healthcare provider can suggest.
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
-- headache, sweating, nausea, dizziness
-- electric shock-like sensations, shaking, confusion
+- headache, sweating, nausea, dizziness, electric shock-like sensations, shaking
+- confusion
 
 What are citalopram tablets?
 Citalopram tablets are a prescription medicine used to treat depression.
@@ -131,13 +149,13 @@ Ask if you are not sure.
 Before starting citalopram tablets, tell your healthcare provider if you
 
 - Are taking certain drugs such as:
-- Medicines for heart problems
-- Medicines that lower your potassium or magnesium levels in your body
-- Cimetidine
-- Triptans used to treat migraine headache
-- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-- Tramadol
-- Over-the-counter supplements such as tryptophan or St. John’s Wort
+  - Medicines for heart problems
+  - Medicines that lower your potassium or magnesium levels in your body
+  - Cimetidine
+  - Triptans used to treat migraine headache
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+  - Tramadol
+  - Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -198,12 +216,12 @@ Common possible side effects in people who take citalopram tablets include:
 
 Other side effects in children and adolescents include:
 
-- increased thirst
-- abnormal increase in muscle movement or agitation
-- nose bleed
-- urinating more often
-- heavy menstrual periods
-- possible slowed growth rate and weight change.
+- Increased thirst
+- Abnormal increase in muscle movement or agitation
+- Nose bleed
+- Urinating more often
+- Heavy menstrual periods
+- Possible slowed growth rate and weight change.
   Your child’s height and weight should be monitored during treatment with citalopram tablets.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -221,6 +239,7 @@ General information about citalopram tablets Medicines are sometimes prescribed 
 Do not use citalopram tablets for a condition for which it was not prescribed.
 Do not give citalopram tablets to other people, even if they have the same condition.
 They may harm them.
+
 This Medication Guide summarizes the most important information about citalopram tablets.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
@@ -231,4 +250,4 @@ Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2021

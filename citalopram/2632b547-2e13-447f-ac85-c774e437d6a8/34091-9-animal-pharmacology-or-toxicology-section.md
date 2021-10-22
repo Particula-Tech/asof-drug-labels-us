@@ -2,7 +2,7 @@
 
 ## Retinal Changes in Rats
 
-Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2-year carcinogenicity study with citalopram.
+Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2year carcinogenicity study with citalopram.
 There was an increase in both incidence and severity of retinal pathology in both male and female rats receiving 80 mg/kg/day (13 times the maximum recommended daily human dose of 60 mg on a mg/m2 basis).
 Similar findings were not present in rats receiving 24 mg/kg/day for two years, in mice treated for 18 months at doses up to 240 mg/kg/day, or in dogs treated for one year at doses up to 20 mg/kg/day (4, 20, and 10 times, respectively, the maximum recommended daily human dose on a mg/m2 basis).
 Additional studies to investigate the mechanism for this pathology have not been performed, and the potential significance of this effect in humans has not been established.
@@ -18,4 +18,4 @@ In dogs, peak DDCT plasma concentrations are approximately equal to peak CT plas
 Assays of DDCT plasma concentrations in 2020 citalopram-treated individuals demonstrated that DDCT levels rarely exceeded 70 nM; the highest measured level of DDCT in human overdose was 138 nM.
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.
 The possibility that DCT, a principal metabolite in humans, may prolong the QT interval in dogs has not been directly examined because DCT is rapidly converted to DDCT in that species.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2021

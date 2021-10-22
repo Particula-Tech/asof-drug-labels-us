@@ -18,11 +18,13 @@ Among 1063 depressed patients who received citalopram at doses ranging from 10 t
 The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2.
 It should be noted that one patient can report more than one reason for discontinuation and be counted more than once in this table.
 
-TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
+TABLE 2
 
-| Citalopram (N=1063) | Placebo (N=446) |  |
+| Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials |  |  |
 | --- | --- | --- |
-| Body System/ Adverse Event | Percentage of Patients Discontinuing Due to Adverse Event |  |
+|  | Percentage of Patients Discontinuing Due to Adverse Event |  |
+| Citalopram (N=1063) | Placebo (N=446) |  |
+| Body System/Adverse Event |  |  |
 | General |  |  |
 | Asthenia | 1% | <1% |
 | Gastrointestinal Disorders |  |  |
@@ -36,9 +38,7 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 | Somnolence | 2% | 1% |
 | Agitation | 1% | <1% |
 
-### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-Treated Patients
-
-Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
+Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-Treated Patients Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with citalopram and for which the incidence in patients treated with citalopram was greater than the incidence in placebo-treated patients.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
@@ -87,14 +87,7 @@ TABLE 3
 | Urogenital |  |  |
 | Ejaculation Disorder2,3 | 6% | 1% |
 | Impotence3 | 3% | <1% |
-
-* Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
-
-1 Denominator used was for females only (N=638 citalopram; N=252 placebo).
-
-2 Primarily ejaculatory delay.
-
-3 Denominator used was for males only (N=425 citalopram; N=194 placebo).
+| * Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1 Denominator used was for females only (N=638 citalopram; N=252 placebo). 2 Primarily ejaculatory delay. 3 Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
 
 ### Dose Dependency of Adverse Events
 

@@ -1,20 +1,14 @@
 # OVERDOSAGE
 
-## Human Experience
+The following have been reported with citalopram tablet overdosage:
 
-In clinical trials of citalopram, there were reports of citalopram overdose, including overdoses of up to 2000 mg, with no associated fatalities.
-During the postmarketing evaluation of citalopram, citalopram overdoses, including overdoses of up to 6000 mg, have been reported.
-As with other SSRIs, a fatal outcome in a patient who has taken an overdose of citalopram has been rarely reported.
-Symptoms most often accompanying citalopram overdose, alone or in combination with other drugs and/or alcohol, included dizziness, sweating, nausea, vomiting, tremor, somnolence, and sinus tachycardia.
-In more rare cases, observed symptoms included amnesia, confusion, coma, convulsions, hyperventilation, cyanosis, rhabdomyolysis, and ECG changes (including QTc prolongation, nodal rhythm, ventricular arrhythmia, and very rare cases of torsade de pointes).
-Acute renal failure has been very rarely reported accompanying overdose.
+- Seizures, which may be delayed, and altered mental status including coma.
+- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation, wide complex tachyarrhythmias, and torsade de pointes.
+  Hypertension most commonly seen, but rarely can see hypotension alone or with co‐ingestants including alcohol.
+- Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
-## Management of Overdose
+Prolonged cardiac monitoring is recommended in citalopram overdosage ingestions due to the arrhythmia risk.
 
-Establish and maintain an airway to ensure adequate ventilation and oxygenation.
-Gastric evacuation by lavage and use of activated charcoal should be considered.
-Careful observation and cardiac and vital sign monitoring are recommended, along with general symptomatic and supportive care.
-Due to the large volume of distribution of citalopram, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-There are no specific antidotes for citalopram.
-In managing overdosage, consider the possibility of multiple-drug involvement.
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
+Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a citalopram overdose.
+
+Consider contacting a Poison Center (1‐800‐222‐2222) or a medical toxicologist for additional overdosage management recommendations.

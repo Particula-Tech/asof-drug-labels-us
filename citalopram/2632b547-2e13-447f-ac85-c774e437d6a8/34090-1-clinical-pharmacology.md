@@ -53,7 +53,7 @@ No information is available about the pharmacokinetics of citalopram in patients
 
 ### Drug-Drug Interactions
 
-In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, 2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
+In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, 2C9, or 2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
 However, in vivo data to address this question are limited.
 CYP3A4 and CYP 2C19 inhibitors: Since CYP3A4 and CYP 2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
@@ -66,7 +66,7 @@ CYP2D6 Inhibitors: Coadministration of a drug that inhibits CYP2D6 with citalopr
 The efficacy of citalopram as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18 to 66) meeting DSM-III or DSMIII-R criteria for major depression.
 Study 1, a 6-week trial in which patients received fixed citalopram doses of 10, 20, 40, and 60 mg/day, showed that citalopram at doses of 40 and 60 mg/day was effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
 This study showed no clear effect of the 10 and 20 mg/day doses, and the 60 mg/day dose was not more effective than the 40 mg/day dose.
-In study 2, a 4-week, placebo-controlled trial in depressed patients, of whom 85% met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
+In study 2, a 4-week, placebo controlled trial in depressed patients, of whom 85% met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
 Patients treated with citalopram showed significantly greater improvement than placebo patients on the HAMD total score, HAMD item 1, and the CGI Severity score.
 In three additional placebo-controlled depression trials, the difference in response to treatment between patients receiving citalopram and patients receiving placebo was not statistically significant, possibly due to high spontaneous response rate, smaller sample size, or, in the case of one study, too low a dose.
 In two long-term studies, depressed patients who had responded to citalopram during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20 to 60 mg/day in the second study) were randomized to continuation of citalopram or to placebo.
