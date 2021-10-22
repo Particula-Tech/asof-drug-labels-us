@@ -90,7 +90,7 @@ Of these, 663 patients have been treated for at least 3 months, 476 patients hav
 Most Common Adverse Reactions The most common adverse reactions, defined as those occurring at a frequency of at least 5% and twice the placebo rate, are largely predicted by rivastigmine tartrate cholinergic effects.
 These include nausea, vomiting, tremor, anorexia, and dizziness.
 
-Discontinuation Rates The rate of discontinuation due to adverse events in the single placebo-controlled trial of rivastigmine tartrate capsules was 18.2% for patients receiving 3 mg to 12 mg per day compared to 11% for patients on placebo during the 24-week study.
+Discontinuation Rates The rate of discontinuation due to adverse events in the single placebo-controlled trial of rivastigmine tartrate capsules was 18% for patients receiving 3 mg to 12 mg per day compared to 11% for patients on placebo during the 24-week study.
 The most frequent adverse events that led to discontinuation from this study, defined as those occurring in at least 1% of patients receiving rivastigmine tartrate and more frequent than those receiving placebo, were nausea (3.6% rivastigmine tartrate versus 0.6% placebo), vomiting (1.9% rivastigmine tartrate versus 0.6% placebo), and tremor (1.7% rivastigmine tartrate versus 0.0% placebo).
 
 Adverse Reactions Observed at an Incidence of at Least 2% Table 3 lists treatment-emergent signs and symptoms that were reported in at least 2% of patients in a single placebo-controlled trial and during the first 24 weeks of a 76-week open-label active-controlled trial for which the rate of occurrence was greater for patients treated with rivastigmine tartrate capsules doses of 3 mg to 12 mg per day than for those treated with placebo in the placebo-controlled trial.
