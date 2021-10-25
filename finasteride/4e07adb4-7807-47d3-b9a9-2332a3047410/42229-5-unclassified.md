@@ -14,6 +14,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1997 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2013
+Revised: 10/2021
 
-usppi-mk0906-1t-1309r011
+usppi-mk0906-1t-2110r012

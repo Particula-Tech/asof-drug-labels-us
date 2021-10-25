@@ -73,6 +73,7 @@ The following have been reported in general use with PROPECIA:
 - allergic reactions including rash, itching, hives and swelling of the lips, tongue, throat, and face;
 - problems with ejaculation that continued after stopping medication;
 - testicular pain;
+- blood in semen;
 - difficulty in achieving an erection that continued after stopping the medication;
 - male infertility and/or poor quality of semen.
 - in rare cases, male breast cancer.
