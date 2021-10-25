@@ -6,6 +6,4 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Venlafaxine tablets are not approved for use in pediatric patients (see WARNINGS, Clinical Worsening and Suicide Risk; PRECAUTIONS, Information for Patients; and PRECAUTIONS, Pediatric Use).
-
-If you take venlafaxine tablets, you should not take any other medicines that contain (venlafaxine) including: venlafaxine HCl.
+Venlafaxine tablets are not approved for use in pediatric patients (see WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use).

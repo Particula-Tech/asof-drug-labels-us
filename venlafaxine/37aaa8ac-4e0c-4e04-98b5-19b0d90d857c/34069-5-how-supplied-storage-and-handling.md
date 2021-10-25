@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Venlafaxine Tablets USP are available as follows:
+Venlafaxine Tablets, USP are available as follows:
 
 25 mg - mottled peach, round, flat beveled tablet, scored on both sides.
 One side of the tablet has embossing “T” on one side of the score and “V” on the other side of the score.
@@ -33,10 +33,12 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-S 6/2021
+T 9/2021

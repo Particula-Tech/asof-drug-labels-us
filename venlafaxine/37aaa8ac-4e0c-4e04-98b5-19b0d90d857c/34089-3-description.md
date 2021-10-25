@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Venlafaxine hydrochloride, USP is a structurally novel antidepressant for oral administration.
+Venlafaxine Tablets, USP is a structurally novel antidepressant for oral administration.
 It is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α-[(dimethylamino)methyl]-p-methoxybenzyl]cyclohexanol hydrochloride.
 The structural formula is shown below.
 

@@ -16,12 +16,13 @@ The more common events (≥ 1%) associated with discontinuation and considered t
 | Gastrointestinal |  |  |
 | Nausea | 6% | 1% |
 | Urogenital |  |  |
-| Abnormal ejaculationPercentages based on the number of males. | 3% | — |
+| Abnormal ejaculation1 | 3% | — |
 | Other |  |  |
 | Headache | 3% | 1% |
 | Asthenia | 2% | — |
 | Sweating | 2% | — |
 | — Less than 1% |  |  |
+| 1. Percentages based on the number of males. |  |  |
 
 ## Incidence in Controlled Trials
 
@@ -39,8 +40,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-TABLE 2: Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with venlafaxine hydrochloride are included, and are rounded to the nearest %.
-Events for which the venlafaxine hydrochloride incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3.
+TABLE 2: Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-Controlled Clinical Trials1
 
 | Body System | Preferred Term | Venlafaxine Hydrochloride (n = 1033) | Placebo (n = 609) |
 | --- | --- | --- | --- |
@@ -88,12 +88,13 @@ Events for which the venlafaxine hydrochloride incidence was equal to or less th
 |  | Taste perversion | 2% | — |
 |  | Tinnitus | 2% | — |
 |  | Mydriasis | 2% | — |
-| Urogenital System | Abnormal ejaculation/orgasm | 12%Incidence based on number of male patients. | — |
-|  | Impotence | 6% | — |
+| Urogenital System | Abnormal ejaculation/orgasm | 12%2 | —2 |
+|  | Impotence | 6%2 | —2 |
 |  | Urinary frequency | 3% | 2% |
 |  | Urination impaired | 2% | — |
-|  | Orgasm disturbance | 2%Incidence based on number of female patients. | — |
+|  | Orgasm disturbance | 2%3 | —3 |
 | — Incidence less than 1%. |  |  |  |
+| 1. Events reported by at least 1% of patients treated with venlafaxine hydrochloride are included, and are rounded to the nearest %. Events for which the venlafaxine hydrochloride incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3. 2. Incidence based on number of male patients. 3. Incidence based on number of female patients. |  |  |  |
 
 ### Dose Dependency of Adverse Events
 
@@ -163,7 +164,7 @@ Clinically relevant increases in serum cholesterol, defined as 1) a final on-the
 ### ECG Changes
 
 In an analysis of ECGs obtained in 769 patients treated with venlafaxine hydrochloride and 450 patients treated with placebo in controlled clinical trials, the only statistically significant difference observed was for heart rate, i.e., a mean increase from baseline of 4 beats per minute for venlafaxine hydrochloride.
-In a flexible-dose study, with doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, the mean change in heart rate was 8.5 beats per minute compared with 1.7 beats per minute for placebo (see PRECAUTIONS, General, Use in Patients With Concomitant Illness).
+In a flexible-dose study, with doses in the range of 200 mg/day to 375 mg/day and mean dose greater than 300 mg/day, the mean change in heart rate was 8.5 beats per minute compared with 1.7 beats per minute for placebo (see PRECAUTIONS, General, Use in Patients With Concomitant Illness).
 
 ## Other Events Observed During the Premarketing Evaluation of Venlafaxine
 

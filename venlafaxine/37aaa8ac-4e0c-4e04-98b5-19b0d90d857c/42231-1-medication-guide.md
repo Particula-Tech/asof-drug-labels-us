@@ -1,6 +1,8 @@
 # MEDICATION GUIDE
 
-Venlafaxine (ven la fax een) Tablets USP
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Venlafaxine (ven" la fax' een) Tablets
 
 Read the Medication Guide that comes with venlafaxine tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -229,6 +231,9 @@ Venlafaxine tablets and some medicines may interact with each other, may not wor
 Your healthcare provider or pharmacist can tell you if it is safe to take venlafaxine tablets with your other medicines.
 Do not start or stop any medicine while taking venlafaxine tablets without talking to your healthcare provider first.
 
+| If you take venlafaxine tablets, you should not take any other medicines that contain (venlafaxine) including: venlafaxine HCl. |
+| --- |
+
 How should I take venlafaxine tablets?
 
 - Take venlafaxine tablets exactly as prescribed.
@@ -308,14 +313,14 @@ Active ingredient: venlafaxine hydrochloride.
 
 Inactive ingredients: colloidal silicon dioxide, ferric oxide yellow, ferric oxide red, lactose monohydrate, magnesium stearate, and sodium starch glycolate
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, INC.
+Brands listed are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 6/2021
+F 9/2021
