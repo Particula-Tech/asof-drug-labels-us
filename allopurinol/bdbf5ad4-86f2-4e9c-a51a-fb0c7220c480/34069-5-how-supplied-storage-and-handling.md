@@ -16,14 +16,18 @@ NDC 0378-0181-01 bottles of 100 tablets
 
 NDC 0378-0181-05 bottles of 500 tablets
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+Store at 20º to 25ºC (68º to 77ºF).
+[See USP Controlled Room Temperature.]
 Protect from moisture and light.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant
+
+closure.
 
 The brands listed are trademarks of their respective owners.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2019 ALLO:R14
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+Revised: 1/2020 ALP:ALLO:R1 (3396/0)

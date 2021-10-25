@@ -24,17 +24,18 @@ It has been reported that symptoms may develop in approximately 1 week from init
 
 To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Most Common Reactions Early clinical studies and incidence rates from early clinical experience with allopurinol tablets suggested that these adverse reactions were found to occur at a rate of greater than 1%.
-The most frequent event observed was acute attacks of gout following the initiation of therapy.
-Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
-The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
-Probably Causally Related:
+Most Common Reactions* Probably Causally Related:
 
 Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
 
 Metabolic and Nutritional: Acute attacks of gout.
 
 Skin and Appendages: Rash, maculopapular rash.
+
+*Early clinical studies and incidence rates from early clinical experience with allopurinol tablets suggested that these adverse reactions were found to occur at a rate of greater than 1%.
+The most frequent event observed was acute attacks of gout following the initiation of therapy.
+Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
+The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
 Incidence Less Than 1% Probably Causally Related:
 
@@ -52,7 +53,7 @@ Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
 
 Respiratory: Epistaxis.
 
-Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell's syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
+Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell’s syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
 
 Special Senses: Taste loss/perversion.
 

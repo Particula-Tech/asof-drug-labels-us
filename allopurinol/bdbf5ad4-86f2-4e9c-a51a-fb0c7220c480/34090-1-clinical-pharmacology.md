@@ -29,14 +29,14 @@ Oxipurinol, however, has a longer plasma half-life (approximately 15 hours) and 
 Whereas allopurinol is cleared essentially by glomerular filtration, oxipurinol is reabsorbed in the kidney tubules in a manner similar to the reabsorption of uric acid.
 
 The clearance of oxipurinol is increased by uricosuric drugs, and as a consequence, the addition of uricosuric agent reduces to some degree the inhibition of xanthine oxidase by oxipurinol and increases to some degree the urinary excretion of uric acid.
-In practice, the net effect of such combined therapy may be useful in some patients in achieving minimum serum uric acid levels provided the total urinary uric acid load does not exceed the competence of the patient's renal function.
+In practice, the net effect of such combined therapy may be useful in some patients in achieving minimum serum uric acid levels provided the total urinary uric acid load does not exceed the competence of the patient’s renal function.
 
 Hyperuricemia may be primary, as in gout, or secondary to diseases such as acute and chronic leukemia, polycythemia vera, multiple myeloma, and psoriasis.
 It may occur with the use of diuretic agents, during renal dialysis, in the presence of renal damage, during starvation or reducing diets, and in the treatment of neoplastic disease where rapid resolution of tissue masses may occur.
 Asymptomatic hyperuricemia is not an indication for treatment with allopurinol tablets (see INDICATIONS AND USAGE).
 
 Gout is a metabolic disorder which is characterized by hyperuricemia and resultant deposition of monosodium urate in the tissues, particularly the joints and kidneys.
-The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient's ability to excrete it.
+The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient’s ability to excrete it.
 If progressive deposition of urates is to be arrested or reversed, it is necessary to reduce the serum uric acid level below the saturation point to suppress urate precipitation.
 
 Administration of allopurinol tablets generally results in a fall in both serum and urinary uric acid within 2 to 3 days.

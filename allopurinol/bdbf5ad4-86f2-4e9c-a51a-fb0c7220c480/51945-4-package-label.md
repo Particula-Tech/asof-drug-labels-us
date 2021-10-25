@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg
+# PRINCIPAL DISPLAY PANEL – 100 mg
 
 NDC 0378-0137-01
 
@@ -19,15 +19,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture and light.
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0137A8
+3392/0
 
-# PRINCIPAL DISPLAY PANEL - 300 mg
+RALP0137A
+
+# PRINCIPAL DISPLAY PANEL – 300 mg
 
 NDC 0378-0181-01
 
@@ -48,10 +52,14 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture and light.
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0181A8
+3394/0
+
+RALP0181A

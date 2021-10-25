@@ -37,7 +37,7 @@ Concurrent conditions such as multiple myeloma and congestive myocardial disease
 Renal failure is also frequently associated with gouty nephropathy and rarely with hypersensitivity reactions associated with allopurinol tablets.
 Albuminuria has been observed among patients who developed clinical gout following chronic glomerulonephritis and chronic pyelonephritis.
 
-Patients with decreased renal function require lower doses of allopurinol than those with normal renal function.
+Patients with decreased renal function require lower doses of allopurinol tablets than those with normal renal function.
 Lower than recommended doses should be used to initiate therapy in any patients with decreased renal function and they should be observed closely during the early stages of administration of allopurinol tablets.
 In patients with severely impaired renal function or decreased urate clearance, the half-life of oxipurinol in the plasma is greatly prolonged.
 Therefore, a dose of 100 mg per day or 300 mg twice a week, or perhaps less, may be sufficient to maintain adequate xanthine oxidase inhibition to reduce serum urate levels.
@@ -65,7 +65,7 @@ The correct dosage and schedule for maintaining the serum uric acid within the n
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
 
 Allopurinol tablets and its primary active metabolite, oxipurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on dosage.
-In patients with decreased renal function or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's dosage of allopurinol tablets reassessed.
+In patients with decreased renal function or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient’s dosage of allopurinol tablets reassessed.
 
 The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given allopurinol tablets.
 
@@ -92,10 +92,10 @@ The cause of the reported association has not been established.
 Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of allopurinol tablets.
 However, in a well-controlled study of patients with lymphoma on combination therapy, allopurinol tablets did not increase the marrow toxicity of patients treated with cyclophosphamide, doxorubicin, bleomycin, procarbazine, and/or mechlorethamine.
 
-Tolbutamide's conversion to inactive metabolites has been shown to be catalyzed by xanthine oxidase from rat liver.
+Tolbutamide’s conversion to inactive metabolites has been shown to be catalyzed by xanthine oxidase from rat liver.
 The clinical significance, if any, of these observations is unknown.
 
-Chlorpropamide's plasma half-life may be prolonged by allopurinol tablets, since allopurinol tablets and chlorpropamide may compete for excretion in the renal tubule.
+Chlorpropamide’s plasma half-life may be prolonged by allopurinol tablets, since allopurinol tablets and chlorpropamide may compete for excretion in the renal tubule.
 The risk of hypoglycemia secondary to this mechanism may be increased if allopurinol tablets and chlorpropamide are given concomitantly in the presence of renal insufficiency.
 
 Rare reports indicate that cyclosporine levels may be increased during concomitant treatment with allopurinol tablets.
