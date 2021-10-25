@@ -8,9 +8,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 25 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -19,13 +17,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Manufactured for:
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
+Made in India
+
 Mylan.com
 
-RM0222A11
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+RMXA0222A
 
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -37,9 +41,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 50 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -48,10 +50,16 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Manufactured for:
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
+Made in India
+
 Mylan.com
 
-RM0213A11
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+RMXA0213A
