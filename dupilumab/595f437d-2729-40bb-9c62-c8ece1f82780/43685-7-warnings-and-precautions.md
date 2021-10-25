@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Hypersensitivity reactions, including generalized urticaria, rash, erythema nodosum, and serum sickness or serum sickness-like reactions, were reported in less than 1% of subjects who received DUPIXENT in clinical trials.
+Hypersensitivity reactions, including generalized urticaria, rash, erythema nodosum, erythema multiforme, and serum sickness or serum sickness-like reactions, were reported in less than 1% of subjects who received DUPIXENT in clinical trials.
 Two subjects in the atopic dermatitis development program experienced serum sickness or serum sickness-like reactions that were associated with high titers of antibodies to dupilumab.
 One subject in the asthma development program experienced anaphylaxis [see Adverse Reactions (6.2)].
 If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2)].
@@ -34,7 +34,7 @@ DUPIXENT should not be used to treat acute asthma symptoms or acute exacerbation
 Do not use DUPIXENT to treat acute bronchospasm or status asthmaticus.
 Patients should seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with DUPIXENT.
 
-## 5.5 Reduction of Corticosteroid Dosage
+## 5.5 Risk Associated with Abrupt Reduction of Corticosteroid Dosage
 
 Do not discontinue systemic, topical, or inhaled corticosteroids abruptly upon initiation of therapy with DUPIXENT.
 Reductions in corticosteroid dose, if appropriate, should be gradual and performed under the direct supervision of a physician.
@@ -51,3 +51,4 @@ It is unknown if DUPIXENT will influence the immune response against helminth in
 
 Treat patients with pre-existing helminth infections before initiating therapy with DUPIXENT.
 If patients become infected while receiving treatment with DUPIXENT and do not respond to anti-helminth treatment, discontinue treatment with DUPIXENT until the infection resolves.
+Adverse reactions of helminth infections (5 cases of enterobiasis and 1 case of ascariasis) were reported in pediatric patients 6 to 11 years old who participated in the pediatric asthma development program [see Adverse Reactions (6.1)].

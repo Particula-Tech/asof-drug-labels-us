@@ -9,9 +9,9 @@ DUPIXENT can be used with or without topical corticosteroids.
 
 ## 1.2 Asthma
 
-DUPIXENT is indicated as an add-on maintenance treatment in patients with moderate-to-severe asthma aged 12 years and older with an eosinophilic phenotype or with oral corticosteroid dependent asthma.
+DUPIXENT is indicated as an add-on maintenance treatment of patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma [see Clinical Studies (14)].
 
-Limitation of Use
+Limitations of Use
 
 DUPIXENT is not indicated for the relief of acute bronchospasm or status asthmaticus.
 

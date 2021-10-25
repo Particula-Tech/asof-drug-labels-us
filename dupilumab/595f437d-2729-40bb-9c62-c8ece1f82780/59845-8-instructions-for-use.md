@@ -459,3 +459,161 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen Put your used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. This Instructions for Use has been approved by the U.S. Food and Drug Administration. |
 | REGENERON SANOFI GENZYME |
 | Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. Issued: June 2021 |
+
+# INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
+
+Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
+Do not inject the child until you have been shown how to inject DUPIXENT.
+In children younger than 12 years of age, DUPIXENT should be given by a caregiver.
+Your healthcare provider can show you how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
+Keep these instructions for future use.
+Call your healthcare provider if you have any questions.
+
+This device is a Single-Dose Pre-filled Syringe (called "DUPIXENT Syringe" in these instructions).
+It contains 100 mg of DUPIXENT for injection under the skin (subcutaneous injection).
+
+The parts of the DUPIXENT Syringe are shown below:
+
+| Important Information |  |
+| --- | --- |
+| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given the injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
+| How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36°F to 46°F (2°C to 8°C). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
+
+Step 1: Remove
+
+Remove the DUPIXENT Syringe from the carton by holding the middle of the Syringe Body.
+
+Do not pull off the Needle Cap until you are ready to inject.
+
+Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.
+
+Step 2: Prepare
+
+Ensure you have the following:
+
+- the DUPIXENT Pre-filled Syringe
+- 1 alcohol wipe*
+- 1 cotton ball or gauze*
+- a sharps disposal container* (See Step 13)
+
+*Items not included in the carton
+
+Step 3: Check
+
+When you receive the DUPIXENT Syringes, always check to see that:
+
+- you have the correct medicine and dose.
+- the expiration date on the Single-Dose Pre-filled Syringe has not passed.
+
+Do not use the DUPIXENT Syringe if the expiration date has passed.
+
+Step 4: Inspect
+
+Look at the medicine through the Viewing Window on the DUPIXENT Syringe:
+
+Check to see if the liquid is clear and colorless to pale yellow.
+
+Note: You may see an air bubble, this is normal.
+
+Do not use the DUPIXENT Syringe if the liquid is discolored or cloudy, or if it contains visible flakes or particles.
+
+Step 5: Wait 30 minutes
+
+Lay the DUPIXENT Syringe on a flat surface and let it naturally warm to room temperature for at least 30 minutes.
+
+Do not heat the DUPIXENT Syringe.
+
+Do not put the DUPIXENT Syringe into direct sunlight.
+
+Do not keep DUPIXENT Syringes at room temperature for more than 14 days.
+Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.
+
+Step 6: Choose the injection site
+
+- You can inject into the thigh, outer area of the upper arm or stomach, except for the 2 inches (5 cm) around the belly button (navel).
+- Choose a different site each time you inject DUPIXENT.
+
+Do not inject into skin that is tender, damaged, bruised or scarred.
+
+Step 7: Clean
+
+Wash your hands.
+
+Clean the injection site with an alcohol wipe.
+
+Let the skin dry before injecting.
+
+Do not touch the injection site again or blow on it before the injection.
+
+Step 8: Remove Needle Cap
+
+Hold the DUPIXENT Syringe in the middle of the Syringe Body with the Needle pointing away from you and pull off the Needle Cap.
+
+Do not put the Needle Cap back on.
+
+Do not touch the Needle.
+
+Inject the medicine right away after removing the Needle Cap.
+
+Step 9: Pinch
+
+Pinch a fold of skin at the injection site (thigh or stomach, except 2 inches around the belly button, or outer area of the upper arm).
+The figure below shows an example of pinching a fold of skin on the stomach.
+
+Step 10: Insert
+
+Insert the Needle completely into the fold of the skin at about a 45° angle.
+
+Step 11: Push
+
+Relax the pinch.
+
+Push the Plunger Rod down slowly and steadily as far as it will go until the DUPIXENT Syringe is empty.
+
+Note: You will feel some resistance.
+This is normal.
+
+Step 12: Release and Remove
+
+Lift your thumb to release the Plunger Rod until the Needle is covered by the Needle Shield and then remove the Syringe from the injection site.
+
+Lightly press a cotton ball or gauze on the injection site if you see any blood.
+
+Do not put the Needle Cap back on.
+
+Do not rub the skin after the injection.
+
+Step 13: Dispose
+
+Put used Needles, DUPIXENT Syringes, and Needle Caps in a FDA-cleared sharps disposal container right away after use.
+
+Do not dispose of (throw away) Needles, DUPIXENT Syringes, and Needle Caps in your household trash.
+
+If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+There may be state or local laws about how you should throw away used Needles and Syringes.
+
+For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+Do not recycle your used sharps disposal container.
+
+Do not put the Needle Cap back on.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
+
+Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
+
+© 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+All rights reserved.
+
+Issued: October 2021

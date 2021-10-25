@@ -37,3 +37,7 @@ Inform patients that reduction in corticosteroid dose may be associated with sys
 Patients with Co-morbid Asthma
 
 Advise patients with atopic dermatitis or CRSwNP who have co-morbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.6)].
+
+Parasitic (Helminth) Infections
+
+Advise patients to notify their healthcare provider if they present with clinical features consistent with helminthic infection [see Warnings and Precautions (5.7)].

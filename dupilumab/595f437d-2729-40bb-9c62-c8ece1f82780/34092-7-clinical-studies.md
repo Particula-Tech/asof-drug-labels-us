@@ -4,7 +4,7 @@
 
 Adults with Atopic Dermatitis
 
-Three randomized, double-blind, placebo-controlled trials (Trials 1, 2, and 3; NCT02277743, 02277769, and 02260986 respectively) enrolled a total of 2119 subjects 18 years of age and older with moderate-to-severe atopic dermatitis (AD) not adequately controlled by topical medication(s).
+Three randomized, double-blind, placebo-controlled trials (Trials 1, 2, and 3; NCT02277743, 02277769, and 02260986, respectively) enrolled a total of 2119 subjects 18 years of age and older with moderate-to-severe atopic dermatitis (AD) not adequately controlled by topical medication(s).
 Disease severity was defined by an Investigator's Global Assessment (IGA) score ≥3 in the overall assessment of AD lesions on a severity scale of 0 to 4, an Eczema Area and Severity Index (EASI) score ≥16 on a scale of 0 to 72, and a minimum body surface area involvement of ≥10%.
 At baseline, 59% of subjects were male, 67% were White, 52% of subjects had a baseline IGA score of 3 (moderate AD), and 48% of subjects had a baseline IGA of 4 (severe AD).
 The baseline mean EASI score was 33 and the baseline weekly averaged Peak Pruritus Numeric Rating Scale (NRS) was 7 on a scale of 0-10.
@@ -19,9 +19,9 @@ Other endpoints included the proportion of subjects with EASI-75 (improvement of
 
 Clinical Response at Week 16 (Trials 1, 2, and 3)
 
-The results of the DUPIXENT monotherapy trials (Trials 1 and 2) and the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 5.
+The results of the DUPIXENT monotherapy trials (Trials 1 and 2) and the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 7.
 
-Table 5: Efficacy Results of DUPIXENT With or Without Concomitant TCS at Week 16 (FAS)
+Table 7: Efficacy Results of DUPIXENT With or Without Concomitant TCS at Week 16 (FAS)
 
 |  | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,9 +39,9 @@ Table 5: Efficacy Results of DUPIXENT With or Without Concomitant TCS at Week 16
 
 In Trial 3, of the 421 subjects, 353 had been on study for 52 weeks at the time of data analysis.
 Of these 353 subjects, responders at Week 52 represent a mixture of subjects who maintained their efficacy from Week 16 (e.g., 53% of DUPIXENT IGA 0 or 1 responders at Week 16 remained responders at Week 52) and subjects who were non-responders at Week 16 who later responded to treatment (e.g., 24% of DUPIXENT IGA 0 or 1 non-responders at Week 16 became responders at Week 52).
-Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 6.
+Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 8.
 
-Table 6: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52
+Table 8: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52
 
 |  | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Overall, 92% of subjects had at least one co-morbid allergic condition; 66% had 
 The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) and at least a 2-point improvement from baseline to Week 16.
 Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Peak Pruritus NRS (≥4-point improvement).
 
-The efficacy results at Week 16 for Trial 6 are presented in Table 7.
+The efficacy results at Week 16 for Trial 6 are presented in Table 9.
 
-Table 7: Efficacy Results of DUPIXENT in Trial 6 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized.
+Table 9: Efficacy Results of DUPIXENT in Trial 6 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized.
 
 |  | DUPIXENTAt Week 0, subjects received 400 mg (baseline weight <60 kg) or 600 mg (baseline weight ≥60 kg) of DUPIXENT. 200 mg (<60 kg) or 300 mg (≥60 kg) Q2W N=82 | Placebo N=85 |
 | --- | --- | --- |
@@ -115,9 +115,9 @@ Overall, 92% of subjects had at least one co-morbid allergic condition; 64% had 
 The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) at Week 16.
 Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Peak Pruritus NRS (≥4-point improvement).
 
-Table 8 presents the results by baseline weight strata for the approved dose regimens.
+Table 10 presents the results by baseline weight strata for the approved dose regimens.
 
-Table 8: Efficacy Results of DUPIXENT with Concomitant TCS in Trial 8 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized.
+Table 10: Efficacy Results of DUPIXENT with Concomitant TCS in Trial 8 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized.
 
 | <30 kg | <30 kg | ≥30 kg | ≥30 kg |  |
 | --- | --- | --- | --- | --- |
@@ -136,7 +136,7 @@ See Figure 3.
 
 ## 14.2 Asthma
 
-The asthma development program included three randomized, double-blind, placebo-controlled, parallel-group, multi-center trials (AS Trials 1, 2, and 3) of 24 to 52 weeks in treatment duration which enrolled a total of 2888 subjects (12 years of age and older).
+The asthma development program for patients aged 12 years and older included three randomized, double-blind, placebo-controlled, parallel-group, multi-center trials (AS Trials 1, 2, and 3) of 24 to 52 weeks in treatment duration which enrolled a total of 2888 subjects.
 Subjects enrolled in AS Trials 1 and 2 were required to have a history of 1 or more asthma exacerbations that required treatment with systemic corticosteroids or emergency department visit or hospitalization for the treatment of asthma in the year prior to trial entry.
 Subjects enrolled in AS Trial 3 required dependence on daily oral corticosteroids in addition to regular use of high-dose inhaled corticosteroids plus an additional controller(s).
 In all 3 trials, subjects were enrolled without requiring a minimum baseline blood eosinophil count.
@@ -158,7 +158,7 @@ AS Trial 2
 
 AS Trial 2 was a 52-week study which included 1902 subjects (12 years of age and older).
 DUPIXENT compared with placebo was evaluated in 107 adolescent and 1795 adult subjects with moderate-to-severe asthma on a medium or high-dose inhaled corticosteroid (ICS) and a minimum of one and up to two additional controller medications.
-Subjects were randomized to receive either 200 mg (N=631) or 300 mg (N=633) DUPIXENT Q2W (or matching placebo for either 200 mg [N=317] or 300 mg [N=321] Q2W) following an initial dose of 400 mg, 600 mg or placebo respectively.
+Subjects were randomized to receive either 200 mg (N=631) or 300 mg (N=633) DUPIXENT Q2W (or matching placebo for either 200 mg [N=317] or 300 mg [N=321] Q2W) following an initial dose of 400 mg, 600 mg or placebo, respectively.
 The primary endpoints were the annualized rate of severe exacerbation events during the 52-week placebo controlled period and change from baseline in pre-bronchodilator FEV1 at Week 12 in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included annualized severe exacerbation rates and FEV1 in patients with different baseline levels of blood eosinophils as well as responder rates in the ACQ-5 and AQLQ(S) scores.
 
@@ -170,9 +170,9 @@ Subjects continued to receive their existing asthma medicine during the study; h
 The primary endpoint was the percent reduction of oral corticosteroid dose at Weeks 20 to 24 compared with the baseline dose, while maintaining asthma control in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included the annualized rate of severe exacerbation events during treatment period and responder rate in the ACQ-5 and AQLQ(S) scores.
 
-The demographics and baseline characteristics of these 3 trials are provided in Table 9 below.
+The demographics and baseline characteristics of these 3 trials are provided in Table 11 below.
 
-Table 9: Demographics and Baseline Characteristics of Asthma Trials
+Table 11: Demographics and Baseline Characteristics of Asthma Trials
 
 | Parameter | Trial 1 (N=776) | Trial 2 (N=1902) | Trial 3 (N=210) |
 | --- | --- | --- | --- |
@@ -198,16 +198,17 @@ AS Trials 1 and 2 evaluated the frequency of severe asthma exacerbations defined
 In the primary analysis population (subjects with baseline blood eosinophil count of ≥300 cells/mcL in AS Trial 1 and the overall population in AS Trial 2), subjects receiving either DUPIXENT 200 mg or 300 mg Q2W had significant reductions in the rate of asthma exacerbations compared to placebo.
 In the overall population in AS Trial 2, the rate of severe exacerbations was 0.46 and 0.52 for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo rates of 0.87 and 0.97.
 The rate ratio of severe exacerbations compared to placebo was 0.52 (95% CI: 0.41, 0.66) and 0.54 (95% CI: 0.43, 0.68) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in AS Trials 1 and 2 are shown in Table 10.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in AS Trials 1 and 2 are shown in Table 12.
 
-Response rates by baseline blood eosinophils for AS Trial 2 are shown in Figure 4.
-Pre-specified subgroup analyses of AS Trials 1 and 2 demonstrated that there were greater reductions in severe exacerbations in subjects with higher baseline blood eosinophil levels.
+Response rates by baseline blood eosinophils and baseline FeNO for AS Trial 2 are shown for the overall population in Figure 4 and Figure 5, respectively.
+Elevation of FeNO can be a marker of the eosinophilic asthma phenotype when supported by clinical data.
+Pre-specified subgroup analyses of AS Trials 1 and 2 demonstrated that there were greater reductions in severe exacerbations in subjects with higher baseline blood eosinophil levels (≥150 cells/mcL) or FeNO (≥25 ppb).
 In AS Trial 2, reductions in exacerbations were significant in the subgroup of subjects with baseline blood eosinophils ≥150 cells/mcL.
-In subjects with baseline blood eosinophil count <150 cells/mcL, similar severe exacerbation rates were observed between DUPIXENT and placebo.
+In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb, similar severe exacerbation rates were observed between DUPIXENT and placebo.
 
 In AS Trial 2, the estimated rate ratio of exacerbations leading to hospitalizations and/or emergency room visits versus placebo was 0.53 (95% CI: 0.28, 1.03) and 0.74 (95% CI: 0.32, 1.70) with DUPIXENT 200 mg or 300 mg Q2W, respectively.
 
-Table 10: Rate of Severe Exacerbations in AS Trials 1 and 2
+Table 12: Rate of Severe Exacerbations in AS Trials 1 and 2
 
 | N | Rate (95% CI) | Rate Ratio (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -222,9 +223,11 @@ Table 10: Rate of Severe Exacerbations in AS Trials 1 and 2
 
 Figure 4: Relative Risk in Annualized Event Rate of Severe Exacerbations across Baseline Blood Eosinophil Count (cells/mcL) in AS Trial 2
 
-The time to first exacerbation was longer for the subjects receiving DUPIXENT compared to placebo in AS Trial 2 (Figure 5).
+Figure 5: Relative Risk in Annualized Event Rate of Severe Exacerbations across Baseline FeNO Group (ppb) in AS Trial 2
 
-| Figure 5: Kaplan Meier Incidence Curve for Time to First Severe Exacerbation in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)At the time of the database lock, not all patients had completed Week 52 |
+The time to first exacerbation was longer for the subjects receiving DUPIXENT compared to placebo in AS Trial 2 (Figure 6).
+
+| Figure 6: Kaplan Meier Incidence Curve for Time to First Severe Exacerbation in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)At the time of the database lock, not all patients had completed Week 52 |
 | --- |
 
 Lung Function
@@ -232,12 +235,15 @@ Lung Function
 Significant increases in pre-bronchodilator FEV1 were observed at Week 12 for AS Trials 1 and 2 in the primary analysis populations (subjects with baseline blood eosinophil count of ≥300 cells/mcL in AS Trial 1 and the overall population in AS Trial 2).
 In the overall population in AS Trial 2, the FEV1 LS mean change from baseline was 0.32 L (21%) and 0.34 L (23%) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo means of 0.18 L (12%) and 0.21 L (14%).
 The mean treatment difference versus placebo was 0.14 L (95% CI: 0.08, 0.19) and 0.13 L (95% CI: 0.08, 0.18) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in AS Trials 1 and 2 are shown in Table 11.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in AS Trials 1 and 2 are shown in Table 13.
 
-Improvements in FEV1 by baseline blood eosinophils for AS Trial 2 are shown in Figure 6.
-Subgroup analysis of AS Trials 1 and 2 demonstrated greater improvement in subjects with higher baseline blood eosinophils.
+Improvements in FEV1 by baseline blood eosinophils and baseline FeNO for AS Trial 2 are shown in Figure 7 and 8, respectively.
+Subgroup analysis of AS Trials 1 and 2 demonstrated greater improvement in subjects with higher baseline blood eosinophils (≥150 cells/mcL) or FeNO (≥25 ppb).
+In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb, similar differences in FEV1 were observed between DUPIXENT and placebo.
 
-Table 11: Mean Change from Baseline and vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in AS Trials 1 and 2
+Mean changes in FEV1 over time in AS Trial 2 are shown in Figure 9.
+
+Table 13: Mean Change from Baseline and vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in AS Trials 1 and 2
 
 | N | LS Mean Change from baseline L (%) | LS Mean Difference vs. placebo (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -250,11 +256,11 @@ Table 11: Mean Change from Baseline and vs Placebo in Pre-Bronchodilator FEV1 at
 | DUPIXENT 300 mg Q2W | 277 | 0.47 (32.5) | 0.24 (0.16, 0.32) |  |
 | Placebo | 142 | 0.22 (14.4) |  |  |
 
-Figure 6: LS Mean Difference in Change from Baseline vs Placebo to Week 12 in Pre-Bronchodilator FEV1 across Baseline Blood Eosinophil Counts (cells/mcL) in AS Trial 2
+Figure 7: LS Mean Difference in Change from Baseline vs Placebo to Week 12 in Pre-Bronchodilator FEV1 across Baseline Blood Eosinophil Counts (cells/mcL) in AS Trial 2
 
-Mean changes in FEV1 over time in AS Trial 2 are shown in Figure 7.
+Figure 8: LS Mean Difference in Change from Baseline vs Placebo to Week 12 in Pre-bronchodilator FEV1 across Baseline FeNO (ppb) in AS Trial 2
 
-Figure 7: Mean Change from Baseline in Pre-Bronchodilator FEV1 (L) Over Time in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)
+Figure 9: Mean Change from Baseline in Pre-Bronchodilator FEV1 (L) Over Time in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)
 
 Additional Secondary Endpoints
 
@@ -278,6 +284,69 @@ A total of 54 (52%) subjects receiving DUPIXENT versus 31 (29%) subjects in the 
 
 In this 24-week trial, asthma exacerbations (defined as a temporary increase in oral corticosteroid dose for at least 3 days) were lower in subjects receiving DUPIXENT compared with those receiving placebo (annualized rate 0.65 and 1.60 for the DUPIXENT and placebo group, respectively; rate ratio 0.41 [95% CI 0.26, 0.63]) and improvement in pre-bronchodilator FEV1 from baseline to Week 24 was greater in subjects receiving DUPIXENT compared with those receiving placebo (LS mean difference for DUPIXENT versus placebo of 0.22 L [95% CI: 0.09 to 0.34 L]). Effects on lung function and on oral steroid and exacerbation reduction were similar irrespective of baseline blood eosinophil levels.
 The ACQ-5 and AQLQ(S) were also assessed in AS Trial 3 and showed improvements similar to those in AS Trial 2.
+
+Children with Asthma (6 to 11 Years of Age)
+
+The efficacy and safety of DUPIXENT in pediatric subjects was evaluated in a 52-week multicenter, randomized, double-blind, placebo-controlled study (AS Trial 4) in 408 subjects 6 to 11 years of age, with moderate-to-severe asthma on a medium or high-dose ICS and a second controller medication or high-dose ICS alone.
+Subjects were required to have a history of 1 or more asthma exacerbation(s) that required treatment with systemic corticosteroids or emergency department visit or hospitalization for the treatment of asthma in the year prior to trial entry.
+Subjects were randomized to DUPIXENT (N=273) or matching placebo (N=135) every other week based on body weight <30 kg (100 mg Q2W) or ≥30 kg (200 mg Q2W).
+The effectiveness of DUPIXENT 300 mg Q4W was extrapolated from efficacy of 100 mg Q2W in AS Trial 4 with support from population pharmacokinetic analyses showing higher drug exposure levels with 300 mg Q4W [see Pediatric Use (8.4) and Pharmacokinetics (12.3)].
+
+The primary endpoint was the annualized rate of severe asthma exacerbation events during the 52-week placebo-controlled period.
+Severe asthma exacerbations were defined as deterioration of asthma requiring the use of systemic corticosteroids for at least 3 days or hospitalization or emergency room visit due to asthma that required systemic corticosteroids.
+The key secondary endpoint was the change from baseline in pre-bronchodilator FEV1 percent predicted at Week 12.
+Additional secondary endpoints included mean change from baseline and responder rates in the ACQ-7-IA (Asthma Control Questionnaire-7-Interviewer Administered) and PAQLQ(S)-IA (Pediatric Asthma Quality of Life Questionnaire with Standardized Activities Interviewer Administered) scores.
+
+The demographics and baseline characteristics for AS Trial 4 are provided in Table 14 below.
+
+Table 14: Demographics and Baseline Characteristics for AS Trial 4
+
+| Parameter | AS Trial 4 (N=408) |
+| --- | --- |
+| Mean age (years) (SD) | 9 (2) |
+| % Female | 36 |
+| % White | 88 |
+| Mean body weight (kg) | 36 |
+| Mean exacerbations in previous year (± SD) | 2.4 (2.2) |
+| High dose ICS dose (%) | 44 |
+| Pre-dose FEV1 (L) at baseline (± SD) | 1.48 (0.41) |
+| Mean percent predicted FEV1 (%) (±SD) | 78 (15) |
+| Mean % Reversibility (± SD) | 20 (21) |
+| Atopic Medical History % Overall (AD %, AR %) | 92 (36, 82) |
+| Mean FeNO ppb (± SD) | 28 (24) |
+| % patients with FeNO ppb ≥20 | 50 |
+| Median total IgE IU/mL (±SD) | 792 (1093) |
+| Mean baseline Eosinophil count (± SD) cells/mcL | 502 (395) |
+| ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; AD = atopic dermatitis; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide |  |
+
+DUPIXENT significantly reduced the annualized rate of severe asthma exacerbation events during the 52-week treatment period compared to placebo in populations with an eosinophilic phenotype as indicated by elevated blood eosinophils and/or the population with elevated FeNO.
+Subgroup analyses for results of DUPIXENT treatment based upon either baseline eosinophil level or baseline FeNO level were similar to the adolescent and adult trials and are described for the adult and adolescent asthma population above.
+In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <20 ppb, similar severe asthma exacerbation rates were observed between DUPIXENT and placebo.
+
+Significant improvements in percent predicted pre-bronchodilator FEV1 were observed at Week 12.
+Significant improvements in percent predicted FEV1 were observed as early as Week 2 and were maintained through Week 52 in AS Trial 4 (Figure 10).
+
+The efficacy results for AS Trial 4 are presented in Table 15.
+
+Table 15: Efficacy Results of DUPIXENT in AS Trial 4
+
+| Treatment | EOS ≥300 cells/mcLThis reflects the prespecified primary analysis population for AS Trial 4 in the United States. |  |  |
+| --- | --- | --- | --- |
+| Annualized Severe Exacerbations Rate over 52 Weeks |  |  |  |
+|  | N | Rate (95% CI) | Rate Ratio (95% CI) |
+| DUPIXENT 100 mg Q2W(<30 kg)/200 mg Q2W (≥30 kg) | 175 | 0.24 (0.16, 0.35) | 0.35 (0.22, 0.56) |
+| Placebo | 84 | 0.67 (0.47, 0.95) |  |
+| Mean Change from Baseline in Percent Predicted FEV1 at Week 12 |  |  |  |
+|  | N | LS mean Δ from Baseline | LS mean difference vs. Placebo (95% CI) |
+| DUPIXENT 100 mg Q2W (<30 kg)/200 mg Q2W (≥30 kg) | 168 | 10.15 | 5.32 (1.76, 8.88) |
+| Placebo | 80 | 4.83 |  |
+
+Figure 10: Mean Change from Baseline in Percent Predicted Pre-bronchodilator FEV1 (L) Over Time in AS Trial 4 (Baseline Blood Eosinophils ≥300 cells/mcL)
+
+Improvements were also observed for ACQ-7-IA and PAQLQ(S)-IA at Week 24 and were sustained at Week 52.
+Greater responder rates were observed for ACQ-7-IA and PAQLQ(S)-IA compared to placebo at Week 24.
+The responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-7-IA and 1-7 for PAQLQ(S)-IA).
+In the subgroup of subjects with baseline blood eosinophil count ≥300 cells/mcL, DUPIXENT led to a higher proportion of subjects with a response in ACQ-7-IA (80.6% versus 64.3% for placebo) with an OR of 2.79 (95% CI: 1.43, 5.44), and in PAQLQ(S)-IA (72.8% versus 63.0% for placebo) with an OR of 1.84 (95% CI: 0.92, 3.65) at Week 24.
 
 ## 14.3 Chronic Rhinosinusitis with Nasal Polyposis
 
@@ -303,9 +372,9 @@ SNOT-22 includes 22 items assessing symptoms and symptom impact associated with 
 SNOT-22 had a 2 week recall period.
 In the pooled efficacy results, the reduction in the proportion of subjects rescued with systemic corticosteroids and/or sino-nasal surgery (up to Week 52) were evaluated.
 
-The demographics and baseline characteristics of these 2 trials are provided in Table 12 below.
+The demographics and baseline characteristics of these 2 trials are provided in Table 16 below.
 
-Table 12: Demographics and Baseline Characteristics of CRSwNP Trials
+Table 16: Demographics and Baseline Characteristics of CRSwNP Trials
 
 | Parameter | CSNP Trial 1 (N=276) | CSNP Trial 2 (N=448) |
 | --- | --- | --- |
@@ -328,9 +397,9 @@ Table 12: Demographics and Baseline Characteristics of CRSwNP Trials
 
 Clinical Response (CSNP Trial 1 and CSNP Trial 2)
 
-The results for primary endpoints in CRSwNP studies are presented in Table 13.
+The results for primary endpoints in CRSwNP studies are presented in Table 17.
 
-Table 13: Results of the Primary Endpoints in CRSwNP Trials
+Table 17: Results of the Primary Endpoints in CRSwNP Trials
 
 | Scores | Baseline mean | LS mean change | Baseline mean | LS mean change |  | Baseline mean | LS mean change | Baseline mean | LS mean change |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -341,14 +410,14 @@ Table 13: Results of the Primary Endpoints in CRSwNP Trials
 | NC | 2.45 | -0.45 | 2.26 | -1.34 | -0.89 (-1.07, -0.71) | 2.38 | -0.38 | 2.46 | -1.25 | -0.87 (-1.03, -0.71) |
 | A reduction in score indicates improvement. NPS = nasal polyps score; NC = nasal congestion/obstruction |  |  |  |  |  |  |  |  |  |  |
 
-Statistically significant efficacy was observed in CSNP Trial 2 with regard to improvement in bilateral endoscopic NPS score at week 24 and week 52 (see Figure 8).
+Statistically significant efficacy was observed in CSNP Trial 2 with regard to improvement in bilateral endoscopic NPS score at week 24 and week 52 (see Figure 11).
 
-Figure 8: LS Mean Change from Baseline in Bilateral Nasal Polyps Score (NPS) up to Week 52 in CSNP Trial 2 - ITT Population
+Figure 11: LS Mean Change from Baseline in Bilateral Nasal Polyps Score (NPS) up to Week 52 in CSNP Trial 2 - ITT Population
 
 Similar results were seen in CSNP Trial 1 at Week 24.
-In the post-treatment period when subjects were off DUPIXENT, the treatment effect diminished over time (see Figure 9).
+In the post-treatment period when subjects were off DUPIXENT, the treatment effect diminished over time (see Figure 12).
 
-Figure 9: LS Mean Change from Baseline in Bilateral Nasal Polyps Score (NPS) up to Week 48 in CSNP Trial 1 - ITT Population
+Figure 12: LS Mean Change from Baseline in Bilateral Nasal Polyps Score (NPS) up to Week 48 in CSNP Trial 1 - ITT Population
 
 At Week 52, the LS mean difference for nasal congestion in the DUPIXENT group versus placebo was -0.98 (95% CI -1.17, -0.79).
 In both studies, significant improvements in nasal congestion were observed as early as the first assessment at Week 4.
@@ -367,12 +436,12 @@ Dupilumab significantly decreased sino-nasal symptoms as measured by SNOT-22 com
 The LS mean difference for SNOT-22 at Week 24 in the DUPIXENT group versus placebo was -21.12 (95% CI: -25.17, -17.06) in CSNP Trial 1 and -17.36 (95% CI: -20.87, -13.85) in CSNP Trial 2.
 At Week 52, the LS mean difference in the DUPIXENT group versus placebo was -20.96 (95% CI -25.03, -16.89).
 
-In the pre-specified multiplicity-adjusted pooled analysis of two studies, treatment with DUPIXENT resulted in significant reduction of systemic corticosteroid use and need for sino-nasal surgery versus placebo (HR of 0.24; 95% CI: 0.17, 0.35) (see Figure 10).
+In the pre-specified multiplicity-adjusted pooled analysis of two studies, treatment with DUPIXENT resulted in significant reduction of systemic corticosteroid use and need for sino-nasal surgery versus placebo (HR of 0.24; 95% CI: 0.17, 0.35) (see Figure 13).
 The proportion of subjects who required systemic corticosteroids was reduced by 74% (HR of 0.26; 95% CI: 0.18, 0.38).
 The total number of systemic corticosteroid courses per year was reduced by 75% (RR of 0.25; 95% CI: 0.17, 0.37).
 The proportion of subjects who required surgery was reduced by 83% (HR of 0.17; 95% CI: 0.07, 0.46).
 
-Figure 10: Kaplan Meier Curve for Time to First Systemic Corticosteroid Use and/or Sino-Nasal Surgery During Treatment Period - ITT population CSNP Trial 1 and CSNP Trial 2 Pooled
+Figure 13: Kaplan Meier Curve for Time to First Systemic Corticosteroid Use and/or Sino-Nasal Surgery During Treatment Period - ITT population CSNP Trial 1 and CSNP Trial 2 Pooled
 
 The effects of DUPIXENT on the primary endpoints of NPS and nasal congestion and the key secondary endpoint of LMK sinus CT scan score were consistent in patients with prior surgery and without prior surgery.
 
