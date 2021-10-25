@@ -207,7 +207,7 @@ Table 14: Treatment-Emergent Hematology Laboratory Abnormalities in POLLUX
 
 Combination Treatment with Bortezomib and Dexamethasone
 
-The safety of DARZALEX in combination with lenalidomide and dexamethasone was evaluated in CASTOR [see Clinical Studies (14.2)].
+The safety of DARZALEX in combination with bortezomib and dexamethasone was evaluated in CASTOR [see Clinical Studies (14.2)].
 Adverse reactions described in Table 15 reflect exposure to DARZALEX for a median treatment duration of 6.5 months (range: 0 to 14.8 months) for daratumumab-bortezomib-dexamethasone (DVd) and of 5.2 months (range: 0.2 to 8.0 months) for bortezomib-dexamethasone (Vd) arm.
 
 Serious adverse reactions occurred in 42% of patients in the DVd arm compared with 34% in the Vd arm.

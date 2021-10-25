@@ -176,6 +176,7 @@ DARZALEX is for single dose only.
 Prepare the solution for infusion using aseptic technique as follows:
 
 - Calculate the dose (mg), total volume (mL) of DARZALEX solution required and the number of DARZALEX vials needed based on patient actual body weight.
+- DARZALEX vials of the same strength with different NDCs are available and can be admixed in the same infusion bag [see Description (11), How Supplied/Storage and Handling (16)].
 - Check that the DARZALEX solution is colorless to pale yellow.
   Do not use if opaque particles, discoloration or other foreign particles are present.
 - Remove a volume of 0.9% Sodium Chloride Injection, USP from the infusion bag/container that is equal to the required volume of DARZALEX solution.
@@ -188,9 +189,9 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   The diluted solution may develop very small, translucent to white proteinaceous particles, as daratumumab is a protein.
   Do not use if visibly opaque particles, discoloration or foreign particles are observed.
-- Since DARZALEX does not contain a preservative, administer the diluted solution immediately at room temperature 15°C to 25°C (59°F to 77°F) and in room light.
-  Diluted solution may be kept at room temperature for a maximum of 15 hours (including infusion time).
-- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions 2°C to 8°C (36°F to 46°F) and protected from light.
+- If not used immediately, store the diluted solution refrigerated for up to 24 hours at 2°C to 8°C (36°F to 46°F) and/or at room temperature up to 15 hours at 15°C to 25°C (59°F to 77°F).
+  The room temperature storage includes infusion time.
+  Protect from light during storage.
   Do not freeze.
 
 Administration

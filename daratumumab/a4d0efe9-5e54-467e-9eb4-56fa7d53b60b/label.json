@@ -6,13 +6,20 @@
   "labeler": "Janssen Biotech, Inc.",
   "package_ndcs": [
     "57894-502-05",
-    "57894-502-20"
+    "57894-502-20",
+    "57894-505-05",
+    "57894-505-20"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "daratumumab",
       "name": "DARZALEX"
+    },
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "daratumumab",
+      "name": "Darzalex IV"
     }
   ],
   "setid": "a4d0efe9-5e54-467e-9eb4-56fa7d53b60b",

@@ -33,3 +33,8 @@ Advise females of reproductive potential to avoid becoming pregnant during treat
 
 Advise patients that lenalidomide, pomalidomide, or thalidomide has the potential to cause fetal harm and has specific requirements regarding contraception, pregnancy testing, blood and sperm donation, and transmission in sperm.
 Lenalidomide, pomalidomide, and thalidomide are only available through a REMS program [see Use in Specific Populations (8.1, 8.3)].
+
+Hereditary Fructose Intolerance (HFI)
+
+DARZALEX contains sorbitol.
+Advise patients with HFI of the risks related to sorbitol [see Description (11)].
