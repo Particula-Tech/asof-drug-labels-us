@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg
+# PRINCIPAL DISPLAY PANEL – 25 mg
 
-NDC 0378-0218-77
+NDC 0378-0218-01
 
 Atenolol Tablets, USP 25 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each tablet contains: Atenolol, USP 25 mg
 
@@ -20,19 +20,23 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0218MM
+3385/0
 
-# PRINCIPAL DISPLAY PANEL - 50 mg
+RALP0218A
 
-NDC 0378-0231-77
+# PRINCIPAL DISPLAY PANEL – 50 mg
+
+NDC 0378-0231-01
 
 Atenolol Tablets, USP 50 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each tablet contains: Atenolol, USP 50 mg
 
@@ -48,19 +52,23 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0231MM
+3387/0
 
-# PRINCIPAL DISPLAY PANEL - 100 mg
+RALP0231A
 
-NDC 0378-0757-77
+# PRINCIPAL DISPLAY PANEL – 100 mg
+
+NDC 0378-0757-01
 
 Atenolol Tablets, USP 100 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each tablet contains: Atenolol, USP 100 mg
 
@@ -76,8 +84,12 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0757MM
+3389/0
+
+RALP0757A

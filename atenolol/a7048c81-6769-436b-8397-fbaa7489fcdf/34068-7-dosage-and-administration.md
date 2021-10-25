@@ -53,7 +53,7 @@ The following maximum oral dosages are recommended for elderly, renally-impaired
 
 | Atenolol |  |  |
 | --- | --- | --- |
-| Creatinine Clearance (mL/min/1.73m2) | Elimination Half-Life (h) | Maximum Dosage |
+| Creatinine Clearance(mL/min/1.73m2) | Elimination Half-Life(h) | MaximumDosage |
 | 15-35 | 16-27 | 50 mg daily |
 | < 15 | > 27 | 25 mg daily |
 

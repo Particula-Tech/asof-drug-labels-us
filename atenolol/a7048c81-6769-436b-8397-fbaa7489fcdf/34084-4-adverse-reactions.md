@@ -6,9 +6,9 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol tablets and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol tablets and placebo is similar, causal relationship to atenolol tablets is uncertain.
 
-|  | Volunteered (U.S. Studies) |  | Total-Volunteered and Elicited (Foreign + U.S. Studies) |  |
+|  | Volunteered (U.S. Studies) |  | Total-Volunteered and Elicited(Foreign + U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
-|  | Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |
+|  | Atenolol(n = 164)% | Placebo(n = 206)% | Atenolol(n = 399)% | Placebo(n = 407)% |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
@@ -41,7 +41,7 @@ The reported frequency of these and other events occurring during these investig
 
 In a study of 477 patients, the following adverse events were reported during either intravenous and/or oral atenolol administration:
 
-|  | Conventional Therapy plusAtenolol (n = 244) |  | Conventional TherapyAlone (n = 233) |  |
+|  | Conventional Therapy plus Atenolol (n = 244) |  | Conventional Therapy Alone (n = 233) |  |
 | --- | --- | --- | --- | --- |
 | Bradycardia | 43 | (18%) | 24 | (10%) |
 | Hypotension | 60 | (25%) | 34 | (15%) |
@@ -58,10 +58,8 @@ In a study of 477 patients, the following adverse events were reported during ei
 | Nonfatal Cardiac Arrests | 4 | (1.6%) | 12 | (5.1%) |
 | Deaths | 7 | (2.9%) | 16 | (6.9%) |
 | Cardiogenic Shock | 1 | (0.4%) | 4 | (1.7%) |
-| Development of Ventricular | 0 | (0%) | 2 | (0.9%) |
-| Septal Defect |  |  |  |  |
-| Development of Mitral | 0 | (0%) | 2 | (0.9%) |
-| Regurgitation |  |  |  |  |
+| Development of Ventricular Septal Defect | 0 | (0%) | 2 | (0.9%) |
+| Development of Mitral Regurgitation | 0 | (0%) | 2 | (0.9%) |
 | Renal Failure | 1 | (0.4%) | 0 | (0%) |
 | Pulmonary Emboli | 3 | (1.2%) | 0 | (0%) |
 
@@ -69,7 +67,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 
 Reasons for Reduced Dosage
 
-|  | I.V. Atenolol ReducedDose (< 5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  | Oral Partial Dose |  |
+|  | I.V. Atenolol Reduced Dose (< 5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  | Oral Partial Dose |  |
 | --- | --- | --- | --- | --- |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
 | Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |

@@ -13,9 +13,8 @@ At the first sign or symptom of impending cardiac failure, patients should be tr
 If cardiac failure continues despite adequate treatment, atenolol tablets should be withdrawn.
 (See DOSAGE AND ADMINISTRATION.)
 
-| Cessation of Therapy With Atenolol Tablets |
+| Cessation of Therapy With Atenolol Tablets Patients with coronary artery disease, who are being treated with atenolol tablets, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta blockers, when discontinuation of atenolol tablets is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that atenolol tablets be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue atenolol tablets therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
 | --- |
-| Patients with coronary artery disease, who are being treated with atenolol tablets, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta blockers, when discontinuation of atenolol tablets is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that atenolol tablets be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue atenolol tablets therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
 
 ## Concomitant Use of Calcium Channel Blockers
 
@@ -122,7 +121,7 @@ Chronic studies employing oral atenolol performed in animals have revealed the o
 
 ### Pregnancy Category D
 
-See WARNING: Pregnancy and Fetal Injury.
+See WARNINGS: Pregnancy and Fetal Injury.
 
 *Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
