@@ -80,10 +80,9 @@ KEYTRUDA is indicated for the treatment of patients with locally advanced or met
 
 ## 1.11 Cervical Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with chemotherapy, with or without bevacizumab, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.11)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
 ## 1.12 Hepatocellular Carcinoma
 

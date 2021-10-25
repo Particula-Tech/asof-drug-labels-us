@@ -12,7 +12,7 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 - metastatic gastric cancer [see Clinical Studies (14.9)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
 - previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.11)].
+- recurrent or metastatic cervical cancer with disease progression on or after chemotherapy [see Clinical Studies (14.11)].
 
 For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.7, 14.8)].
 
@@ -21,6 +21,8 @@ For the TMB-H indication, select patients for treatment with KEYTRUDA as a singl
 Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
 
 Patient Selection for Combination Therapy
+
+For use of KEYTRUDA in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.11)].
 
 For the not MSI-H/dMMR advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MSI or MMR status in tumor specimens [see Clinical Studies (14.15)].
 
@@ -48,6 +50,7 @@ Table 1: Recommended Dosage
 | Combination TherapyRefer to the Prescribing Information for the agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate. |  |  |
 | Adult patients with NSCLC, HNSCC, or Esophageal Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with Gastric Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to trastuzumab and chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with Cervical Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy with or without bevacizumab when given on the same day. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice dailyWhen axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. or Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with Endometrial Carcinoma | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with high-risk early-stage TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as a single agent for up to 27 weeks (9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks) or until disease recurrence or unacceptable toxicity.Patients who experience disease progression or unacceptable toxicity related to KEYTRUDA with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA. |
