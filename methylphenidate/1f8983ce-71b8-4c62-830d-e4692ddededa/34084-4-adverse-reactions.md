@@ -10,9 +10,9 @@ The following are discussed in more detail in other sections of the labeling:
 - •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - •Priapism [see Warnings and Precautions (5.5)]
 - •Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
-- •Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- •Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -26,7 +26,7 @@ In the 2-week double-blind treatment phase of this study, patients received eith
 
 Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind methylphenidate hydrochloride extended-release capsule titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
-Adverse reactions with an incidence greater than 2% among methylphenidate hydrochloride extended-release capsule-treated subjects, during the 2-week double-blind phase of the clinical study, are shown in Table 2.
+Adverse reactions with an incidence greater than 2% among methylphenidate hydrochloride extended-release capsule-treated subjects, during the 2-week double blind phase of the clinical study, are shown in Table 2.
 
 Table 2: Adverse Reactions in Greater Than 2% Methylphenidate Hydrochloride Extended-release Capsules-Treated Subjects in the 2-Week Double-Blind Phase
 
@@ -35,7 +35,7 @@ Table 2: Adverse Reactions in Greater Than 2% Methylphenidate Hydrochloride Exte
 | Anorexia | 2 (3.1) | 0 (0.0) |
 | Insomnia | 2 (3.1) | 0 (0.0) |
 
-Adverse Events Associated with Discontinuation of Treatment
+Adverse Events Associated With Discontinuation of Treatment
 
 In the 2-week double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, one methylphenidate hydrochloride extended-release capsules-treated subject (1/65, 1.5%) discontinued due to an adverse event (depressed mood).
 
@@ -48,7 +48,7 @@ The adverse events leading to discontinuation were anger (2 patients), hypomania
 The following adverse reactions have been identified during the post approval use of methylphenidate products.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported with Methylphenidate Hydrochloride, Methylphenidate Hydrochloride Extended-release Tablets, and Methylphenidate Hydrochloride Extended-release Capsules
+Adverse Reactions Reported With Methylphenidate Hydrochloride, Methylphenidate Hydrochloride Extended-release Tablets, and Methylphenidate Hydrochloride Extended-release Capsules
 
 Infections and Infestations: nasopharyngitis
 
@@ -78,7 +78,7 @@ Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhab
 
 Investigations: weight loss (adult ADHD patients)
 
-Adverse Reactions Reported with Other Methylphenidate-Containing Products
+Adverse Reactions Reported With Other Methylphenidate-Containing Products
 
 The list below shows adverse reactions not listed with methylphenidate hydrochloride, methylphenidate hydrochloride extended-release tablets, or methylphenidate hydrochloride extended-release capsules formulations that have been reported with other methylphenidate-containing products.
 
@@ -88,7 +88,7 @@ Immune System Disorders: hypersensitivity reactions such as auricular swelling, 
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
-Nervous System disorders: migraine
+Nervous System Disorders: migraine
 
 Eye Disorders: diplopia, mydriasis
 
@@ -96,13 +96,13 @@ Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, ext
 
 Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
 Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 

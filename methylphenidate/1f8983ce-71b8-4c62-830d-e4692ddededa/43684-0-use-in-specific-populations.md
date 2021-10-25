@@ -67,7 +67,7 @@ Juvenile Animal Toxicity Data
 
 Rats treated with methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood.
 A deficit in acquisition of a specific learning task was observed in females only.
-The doses at which these findings were observed are at least 4 times the MRHD of 60 mg/day given to children on a mg/m2 basis
+The doses at which these findings were observed are at least 4 times the MRHD of 60 mg/day given to children on a mg/m2 basis.
 
 In a study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10).
 When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day given to children on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m2 basis).

@@ -7,7 +7,7 @@ Methylphenidate hydrochloride extended-release capsules are a Schedule II contro
 ## 9.2 Abuse
 
 CNS stimulants, including methylphenidate hydrochloride extended-release capsules, have a high potential for abuse.
-Abuse is characterized by impaired control over drug use despite harm and craving.
+Abuse is characterized by impaired control over drug use despite harm, and craving.
 
 Signs and symptoms of CNS stimulant abuse include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
 Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed.

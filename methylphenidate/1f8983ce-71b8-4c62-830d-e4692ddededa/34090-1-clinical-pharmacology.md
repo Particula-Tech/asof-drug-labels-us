@@ -2,21 +2,21 @@
 
 ## 12.1 Mechanism of Action
 
-Methylphenidate hydrochloride is a CNS stimulant.
+Methylphenidate hydrochloride is a central nervous system (CNS) stimulant.
 The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
 The d‑threo enantiomer is more pharmacologically active than the l-threo enantiomer.
-Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
 A formal QT study has not been conducted in patients taking methylphenidate hydrochloride extended-release capsules.
 
-The effect of dexmethylphenidate, the pharmacologically active d-enantiomer of methylphenidate hydrochloride tablets, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethylphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers.
-Electrocardiograms were collected up to 12 hours postdose.
+The effect of dexmethylphenidate, the pharmacologically active d-enantiomer of methylphenidate hydrochloride, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethylphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers.
+ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval (CI) was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
@@ -25,7 +25,7 @@ This was below the threshold of clinical concern and there was no evident-exposu
 
 Methylphenidate hydrochloride extended-release capsule produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when administered orally to children diagnosed with ADHD and healthy adults.
 
-No accumulation of methylphenidate is expected following multiple once daily oral dosing with methylphenidate hydrochloride extended-release capsules, however, there is a slight upward trend in the methylphenidate area under the curve and peak plasma concentrations (Cmax1 and Cmax2) after oral administration of methylphenidate hydrochloride extended-release 20 mg and 40 mg capsules to adults.
+No accumulation of methylphenidate is expected following multiple once daily oral dosing with methylphenidate hydrochloride extended-release capsules, however, there is a slight upward trend in the methylphenidate area under the curve (AUC) and peak plasma concentrations (Cmax1 and Cmax2) after oral administration of methylphenidate hydrochloride extended-release capsules 20 mg and 40 mg capsules to adults.
 
 Absorption
 
@@ -129,10 +129,10 @@ This higher exposure is almost completely due to the smaller body size and total
 
 Patients with Renal Impairment
 
-Methylphenidate hydrochloride extended-release capsules have not been studied in renally-impaired patients.
+Methylphenidate hydrochloride extended-release capsules has not been studied in renally-impaired patients.
 Renal impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since less than 1% of a radiolabeled dose is excreted in the urine as unchanged compound, and the major metabolite (ritalinic acid), has little or no pharmacologic activity.
 
 Patients with Hepatic Impairment
 
-Methylphenidate hydrochloride extended-release capsules have not been studied in patients with hepatic impairment.
+Methylphenidate hydrochloride extended-release capsule has not been studied in patients with hepatic impairment.
 Hepatic impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since it is metabolized primarily to ritalinic acid by nonmicrosomal hydrolytic esterases that are widely distributed throughout the body.

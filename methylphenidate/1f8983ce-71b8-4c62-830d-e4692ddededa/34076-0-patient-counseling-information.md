@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Controlled Substance Status/High Potential for Abuse and Dependence
 
-Advise patients that methylphenidate hydrochloride extended-release capsules are a controlled substance, and it can be abused and lead to dependence.
-Instruct patients that they should not give methylphenidate hydrochloride extended-release capsules to anyone else.
+Advise patients that methylphenidate hydrochloride extended-release capsule is a controlled substance, and it can be abused and lead to dependence.
+Instruct patients that they should not give methylphenidate hydrochloride extended-release capsule to anyone else.
 Advise patients to store methylphenidate hydrochloride extended-release capsules in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
 Advise patients to dispose of remaining, unused, or expired methylphenidate hydrochloride extended-release capsules by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
@@ -51,4 +51,4 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2019-138
+T2021-100
