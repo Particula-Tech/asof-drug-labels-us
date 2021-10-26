@@ -18,6 +18,8 @@ Dilute solutions are colorless to yellowish.
 
 Each piperacillin and tazobactam for injection, USP 13.5 g pharmacy bulk bottle contains piperacillin sodium equivalent to 12 grams of piperacillin and tazobactam sodium equivalent to 1.5 grams of tazobactam sufficient for delivery of multiple doses.
 
+Each piperacillin and tazobactam for injection, USP 40.5 g pharmacy bulk bottle contains piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam sufficient for delivery of multiple doses
+
 Piperacillin and tazobactam for injection, USP pharmacy bulk contains a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
 
 Meets USP Organic Impurities Procedure 3.

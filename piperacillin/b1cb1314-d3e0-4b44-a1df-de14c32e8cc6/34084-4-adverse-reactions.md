@@ -10,7 +10,7 @@ During the initial clinical investigations, 2621 patients worldwide were treated
 In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
 However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam for injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
+Table 6: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -59,7 +59,7 @@ Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 5: Adverse Reactions from Piperacillin and Tazobactam Injection plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
+Table 7: Adverse Reactions from Piperacillin and Tazobactam Injection plus Aminoglycoside Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -105,22 +105,24 @@ Table 5: Adverse Reactions from Piperacillin and Tazobactam Injection plus Amino
 | Thrombophlebitis (1.3%) |
 | Hypotension (1.3%) |
 
+* For adverse drug reactions that appeared in both studies the higher frequency is presented.
+
 Other Trials: Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions (5.5)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1[see Warnings and Precautions (5.5)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
-Hematologic–decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
+Hematologic - decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
 These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills)
 
-Coagulation–positive direct Coombs’ test, prolonged prothrombin time, prolonged partial thromboplastin time
+Coagulation - positive direct Coombs’ test, prolonged prothrombin time, prolonged partial thromboplastin time
 
-Hepatic–transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
+Hepatic - transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
 
-Renal–increases in serum creatinine, blood urea nitrogen
+Renal - increases in serum creatinine, blood urea nitrogen
 
 Additional laboratory events include abnormalities in electrolytes (i.e., increases and decreases in sodium, potassium, and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
 
@@ -137,22 +139,22 @@ The rates of serious adverse reactions were generally similar between the pipera
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse drug reactions identified in clinical trials in Table 4 and Table 5, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
+In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary–hepatitis, jaundice
+Hepatobiliary - hepatitis, jaundice
 
-Hematologic–hemolytic anemia, agranulocytosis, pancytopenia
+Hematologic - hemolytic anemia, agranulocytosis, pancytopenia
 
-Immune–hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
+Immune - hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
 
-Renal–interstitial nephritis
+Renal - interstitial nephritis
 
 Nervous system disorders - seizures
 
 Psychiatric disorders - delirium
 
-Respiratory–eosinophilic pneumonia
+Respiratory - eosinophilic pneumonia
 
 Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
@@ -162,4 +164,4 @@ Post-marketing experience with piperacillin and tazobactam for injection in pedi
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
-Skeletal–prolonged muscle relaxation [see Drug Interactions (7.5)].
+Skeletal - prolonged neuromuscular blockade [see Drug Interactions (7.5)].

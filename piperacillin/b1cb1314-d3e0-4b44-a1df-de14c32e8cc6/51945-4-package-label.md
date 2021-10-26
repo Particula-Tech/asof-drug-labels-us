@@ -26,3 +26,31 @@ INFUSION
 1 Bottle
 
 Sandoz – A Novartis Division
+
+# 40.5 grams Carton
+
+NDC 0781-3180-94
+
+Piperacillin and
+
+Tazobactam for
+
+Injection, USP
+
+40.5 grams – per Pharmacy Bulk Package
+
+PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
+
+Rx Only
+
+RECONSTITUTED STOCK
+
+SOLUTION MUST BE
+
+TRANSFERRED AND FURTHER
+
+DILUTED FOR INTRAVENOUS INFUSION
+
+1 Bottle
+
+Sandoz – A Novartis Division
