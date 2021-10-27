@@ -4,14 +4,14 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies with esomeprazole magnesium delayed-release capsules in pregnant women.
+There are no adequate and well-controlled studies with esomeprazole in pregnant women.
 Esomeprazole is the S-isomer of omeprazole.
-Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
+Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use (see Data).
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg.
-When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age (see Data).
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -69,17 +69,39 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD.
-However, the safety and effectiveness of esomeprazole magnesium have not been established in patients less than 1 month of age.
-1 to 17 years of age Use of esomeprazole magnesium delayed-release capsules in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
-The safety and effectiveness of esomeprazole magnesium delayed-release capsules for other pediatric uses have not been established.
-The safety and effectiveness of esomeprazole magnesium delayed-release capsules in neonates have not been established.
-Juvenile Animal Data
+Healing of EE
+
+Pediatric Patients 1 Year to 17 Years of Age
+
+The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 12 years to 17 years for short-term treatment (4 to 8 weeks) for healing of EE.
+Use of esomeprazole magnesium delayed-release capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+Symptomatic GERD
+
+Pediatric Patients 1 Year to 17 Years of Age
+
+The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 12 years to 17 years of age for the short-term treatment (4 weeks) of heartburn and other symptoms associated with GERD.
+Use of esomeprazole magnesium delayed-release capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+Other Conditions
+
+The safety and effectiveness of esomeprazole magnesium delayed-release capsules for the risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence and treatment of pathological hypersecretory conditions have not been established in pediatric patients.
+
+Juvenile Animal Toxicity Studies
 
 In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received esomeprazole magnesium delayed-release capsules in clinical trials, 1459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
-No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the total number of patients who received esomeprazole magnesium delayed-release capsules in clinical trials, 1459 were 65 to 74 years of age and 354 patients were 75 years of age and older.
+No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+## 8.6 Hepatic Impairment
+
+In patients with severe hepatic impairment (Child-Pugh Class C) exposure to esomeprazole substantially increased compared to healthy subjects.
+Dosage modification of esomeprazole magnesium delayed-release capsules is recommended for patients with severe hepatic impairment for the healing of EE, risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence, and pathological hypersecretory conditions including Zollinger-Ellison Syndrome [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+
+In patients with mild to moderate liver impairment (Child-Pugh Classes A and B), no dosage adjustment is necessary.

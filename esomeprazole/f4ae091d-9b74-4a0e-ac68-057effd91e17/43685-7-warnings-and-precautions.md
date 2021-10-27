@@ -54,7 +54,7 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
-When using esomeprazole magnesium delayed-release capsules consider alternative anti-platelet therapy [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+When using esomeprazole magnesium delayed-release capsules consider alternative anti-platelet therapy [see Drug Interactions (7)].
 
 ## 5.7 Cyanocobalamin (Vitamin B-12) Deficiency
 
@@ -71,7 +71,7 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 
 ## 5.9 Interaction with St. John's Wort or Rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7.3)].
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7)].
 Avoid concomitant use of esomeprazole magnesium delayed-release capsules with St. John’s Wort or rifampin.
 
 ## 5.10 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
@@ -84,7 +84,7 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 ## 5.11 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
 
 ## 5.12 Fundic Gland Polyps
 
