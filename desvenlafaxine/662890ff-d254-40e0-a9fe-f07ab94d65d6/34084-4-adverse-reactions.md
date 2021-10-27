@@ -13,6 +13,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Seizure [see Warnings and Precautions (5.8)]
 - •Hyponatremia [see Warnings and Precautions (5.9)]
 - •Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.10)]
+- •Sexual Dysfunction [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -33,7 +34,7 @@ For the 100 mg dose of desvenlafaxine the discontinuation rate due to an adverse
 The most common adverse reactions leading to discontinuation in at least 2% and at a rate greater than placebo of the desvenlafaxine treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each).
 In a longer-term study, up to 9 months, the most common was vomiting (2%).
 
-Common Adverse Reactions in Placebo-controlled MDD Studies
+Common Adverse Reactions in Placebo-Controlled MDD Studies
 
 The most commonly observed adverse reactions in desvenlafaxine treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 mg or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
@@ -45,43 +46,43 @@ Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the 
 | --- | --- | --- | --- | --- | --- |
 |  | Desvenlafaxine |  |  |  |  |
 | System Organ Class Preferred Term | Placebo(n=636) | 50 mg(n=317) | 100 mg(n=424) | 200 mg(n=307) | 400 mg(n=317) |
-| Cardiac Disorders |  |  |  |  |  |
-| Blood Pressure Increased | 1 | 1 | 1 | 2 | 2 |
-| Gastrointestinal Disorders |  |  |  |  |  |
+| Cardiac disorders |  |  |  |  |  |
+| Blood pressure increased | 1 | 1 | 1 | 2 | 2 |
+| Gastrointestinal disorders |  |  |  |  |  |
 | Nausea | 10 | 22 | 26 | 36 | 41 |
-| Dry Mouth | 9 | 11 | 17 | 21 | 25 |
+| Dry mouth | 9 | 11 | 17 | 21 | 25 |
 | Constipation | 4 | 9 | 9 | 10 | 14 |
 | Vomiting | 3 | 3 | 4 | 6 | 9 |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| General disorders and administration site conditions |  |  |  |  |  |
 | Fatigue | 4 | 7 | 7 | 10 | 11 |
 | Chills | 1 | 1 | < 1 | 3 | 4 |
-| Feeling Jittery | 1 | 1 | 2 | 3 | 3 |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |
-| Decreased Appetite | 2 | 5 | 8 | 10 | 10 |
-| Nervous System Disorders |  |  |  |  |  |
+| Feeling jittery | 1 | 1 | 2 | 3 | 3 |
+| Metabolism and nutrition disorders |  |  |  |  |  |
+| Decreased appetite | 2 | 5 | 8 | 10 | 10 |
+| Nervous system disorders |  |  |  |  |  |
 | Dizziness | 5 | 13 | 10 | 15 | 16 |
 | Somnolence | 4 | 4 | 9 | 12 | 12 |
 | Tremor | 2 | 2 | 3 | 9 | 9 |
-| Disturbance in Attention | < 1 | < 1 | 1 | 2 | 1 |
-| Psychiatric Disorders |  |  |  |  |  |
+| Disturbance in attention | < 1 | < 1 | 1 | 2 | 1 |
+| Psychiatric disorders |  |  |  |  |  |
 | Insomnia | 6 | 9 | 12 | 14 | 15 |
 | Anxiety | 2 | 3 | 5 | 4 | 4 |
 | Nervousness | 1 | < 1 | 1 | 2 | 2 |
-| Abnormal Dreams | 1 | 2 | 3 | 2 | 4 |
-| Renal and Urinary Disorders |  |  |  |  |  |
-| Urinary Hesitation | 0 | < 1 | 1 | 2 | 2 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
+| Abnormal dreams | 1 | 2 | 3 | 2 | 4 |
+| Renal and urinary disorders |  |  |  |  |  |
+| Urinary hesitation | 0 | < 1 | 1 | 2 | 2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
 | Yawning | < 1 | 1 | 1 | 4 | 3 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
 | Hyperhidrosis | 4 | 10 | 11 | 18 | 21 |
-| Special Senses |  |  |  |  |  |
-| Vision Blurred | 1 | 3 | 4 | 4 | 4 |
+| Special senses |  |  |  |  |  |
+| Vision blurred | 1 | 3 | 4 | 4 | 4 |
 | Mydriasis | < 1 | 2 | 2 | 6 | 6 |
 | Vertigo | 1 | 2 | 1 | 5 | 3 |
 | Tinnitus | 1 | 2 | 1 | 1 | 2 |
 | Dysgeusia | 1 | 1 | 1 | 1 | 2 |
-| Vascular Disorders |  |  |  |  |  |
-| Hot Flush | < 1 | 1 | 1 | 2 | 2 |
+| Vascular disorders |  |  |  |  |  |
+| Hot flush | < 1 | 1 | 1 | 2 | 2 |
 
 Sexual Function Adverse Reactions
 
@@ -92,41 +93,41 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 |  | Desvenlafaxine |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Placebo(n=239) | 50 mg(n=108) | 100 mg(n=157) | 200 mg(n=131) | 400 mg(n=154) |  |
-| Men Only |  |  |  |  |  |
+| Men only |  |  |  |  |  |
 | Anorgasmia | 0 | 0 | 3 | 5 | 8 |
-| Libido Decreased | 1 | 4 | 5 | 6 | 3 |
-| Orgasm Abnormal | 0 | 0 | 1 | 2 | 3 |
-| Ejaculation Delayed | < 1 | 1 | 5 | 7 | 6 |
-| Erectile Dysfunction | 1 | 3 | 6 | 8 | 11 |
-| Ejaculation Disorder | 0 | 0 | 1 | 2 | 5 |
+| Libido decreased | 1 | 4 | 5 | 6 | 3 |
+| Orgasm abnormal | 0 | 0 | 1 | 2 | 3 |
+| Ejaculation delayed | < 1 | 1 | 5 | 7 | 6 |
+| Erectile dysfunction | 1 | 3 | 6 | 8 | 11 |
+| Ejaculation disorder | 0 | 0 | 1 | 2 | 5 |
 | Ejaculation Failure | 0 | 1 | 0 | 2 | 2 |
-| Sexual Dysfunction | 0 | 1 | 0 | 0 | 2 |
+| Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
 
 |  | Desvenlafaxine |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo(n=397) | 50 mg(n=209) | 100 mg(n=267) | 200 mg(n=176) | 400 mg(n=163) |
-| Women Only |  |  |  |  |  |
+| Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
 
 Other Adverse Reactions Observed in Premarketing and Postmarketing Clinical Studies
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
-Cardiac Disorders:Tachycardia.
+Cardiac disorders -Tachycardia.
 
-General Disorders and Administration Site Conditions:Asthenia.
+General disorders and administration site conditions - Asthenia.
 
-Investigations:Weight increased, liver function test abnormal, blood prolactin increased.
+Investigations -Weight increased, liver function test abnormal, blood prolactin increased.
 
-Musculoskeletal and Connective Tissue Disorders:Musculoskeletal stiffness.
+Musculoskeletal and connective tissue disorders -Musculoskeletal stiffness.
 
-Nervous System Disorders:Syncope, convulsion, dystonia.
+Nervous system disorders -Syncope, convulsion, dystonia.
 
-Psychiatric Disorders:Depersonalization, bruxism.
+Psychiatric disorders -Depersonalization, bruxism.
 
-Renal and Urinary Disorders:Urinary retention.
+Renal and urinary disorders - Urinary retention.
 
-Skin and Subcutaneous Tissue Disorders:Rash, alopecia, photosensitivity reaction, angioedema.
+Skin and subcutaneous tissue disorders - Rash, alopecia, photosensitivity reaction, angioedema.
 
 In clinical studies, there were uncommon reports of ischemic cardiac adverse reactions, including myocardial ischemia, myocardial infarction, and coronary occlusion requiring revascularization; these patients had multiple underlying cardiac risk factors.
 More patients experienced these events during desvenlafaxine treatment as compared to placebo.
@@ -142,12 +143,12 @@ The percentage of patients who exceeded a predetermined threshold value is shown
 
 Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinical Significance*
 
-|  |  |  | Desvenlafaxine |  |  |
+|  |  | Desvenlafaxine |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
-| Total Cholesterol *(Increase of ≥ 50 mg/dl and an Absolute Value of ≥ 261 mg/dl) | 2 | 3 | 4 | 4 | 10 |
-| LDL Cholesterol *(Increase of ≥ 50 mg/dl and an Absolute Value of ≥ 190 mg/dl) | 0 | 1 | 0 | 1 | 2 |
-| Triglycerides, Fasting *(Fasting: ≥ 327 mg/dl) | 3 | 2 | 1 | 4 | 6 |
+| Total Cholesterol *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 261 mg/dl) | 2 | 3 | 4 | 4 | 10 |
+| LDL Cholesterol *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 190 mg/dl) | 0 | 1 | 0 | 1 | 2 |
+| Triglycerides, fasting *(Fasting: ≥ 327 mg/dl) | 3 | 2 | 1 | 4 | 6 |
 
 Proteinuria: Proteinuria, greater than or equal to trace, was observed in the pre-marketing fixed-dose controlled studies (see Table 5).
 This proteinuria was not associated with increases in BUN or creatinine and was generally transient.
@@ -166,11 +167,11 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 |  |  | Desvenlafaxine |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
-| Blood Pressure |  |  |  |  |  |
-| Supine Systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
-| Supine Diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
-| Pulse Rate |  |  |  |  |  |
-| Supine Pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
+| Blood pressure |  |  |  |  |  |
+| Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
+| Supine diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
+| Pulse rate |  |  |  |  |  |
+| Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
 Treatment with desvenlafaxine at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
@@ -187,7 +188,9 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 | Desvenlafaxine 200 mg per day | 1.1% |
 | Desvenlafaxine 400 mg per day | 2.3% |
 
-Orthostatic Hypotension: In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 mg to 400 mg, systolic orthostatic hypotension (decrease ≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+Orthostatic Hypotension
+
+In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 mg to 400 mg, systolic orthostatic hypotension (decrease ≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
 ## 6.2 Postmarketing Experience
 

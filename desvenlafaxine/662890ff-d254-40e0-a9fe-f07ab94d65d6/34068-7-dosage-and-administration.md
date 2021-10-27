@@ -2,7 +2,7 @@
 
 ## 2.1 General Instructions for Use
 
-The recommended dose for desvenlafaxine extended-release tablets is 50 mg once daily, with or without food.
+The recommended dose for desvenlafaxine extended release tablets is 50 mg once daily, with or without food.
 The 50 mg dose is both a starting dose and the therapeutic dose.
 Desvenlafaxine should be taken at approximately the same time each day.
 Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or dissolved.

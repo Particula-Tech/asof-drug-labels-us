@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake.
-Non-clinical studies have shown that desvenlafaxine is a potent and selective serotonin and norepinephrine reuptake inhibitor (SNRI).
+Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,7 +27,9 @@ Absorption
 
 The absolute oral bioavailability of desvenlafaxine after oral administration is about 80%.
 
-Effect of Food: Ingestion of a high-fat meal (800 to 1000 calories) increased desvenlafaxine Cmax about 16% and had no effect on AUC.
+Effect of Food
+
+Ingestion of a high-fat meal (800 to 1000 calories) increased desvenlafaxine Cmax about 16% and had no effect on AUC.
 
 Distribution
 
@@ -36,12 +38,16 @@ Plasma protein binding of desvenlafaxine is 30% and is independent of drug conce
 
 Elimination
 
-Metabolism: Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms) and, to a minor extent, through oxidative metabolism.
+Metabolism
+
+Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms) and, to a minor extent, through oxidative metabolism.
 CYP3A4 mediates the oxidative metabolism (N‑demethylation) of desvenlafaxine.
 The CYP2D6 metabolic pathway is not involved.
 The pharmacokinetics of desvenlafaxine was similar in subjects with CYP2D6 poor and extensive metabolizer phenotype.
 
-Excretion: Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
+Excretion
+
+Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
 Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
 
 Specific Populations
@@ -54,11 +60,17 @@ Figure 1:Impact of Intrinsic Factors (Renal, Hepatic Impairment and Population D
 
 Drug Interaction Studies
 
-Clinical Studies:Other Drugs on Desvenlafaxine:The effect of ketoconazole on the exposures of desvenlafaxine is summarized in Figure 2.
+Clinical Studies
+
+Other Drugs on Desvenlafaxine
+
+The effect of ketoconazole on the exposures of desvenlafaxine is summarized in Figure 2.
 
 Figure 2: Effect of Other Drugs on Desvenlafaxine Pharmacokinetics
 
-Desvenlafaxine on Other Drugs:The effects of desvenlafaxine on the exposures of other drugs are summarized in Figure 3.
+Desvenlafaxine on Other Drugs
+
+The effects of desvenlafaxine on the exposures of other drugs are summarized in Figure 3.
 
 Figure 3: Effects of Desvenlafaxine on Pharmacokinetics of Other Drugs
 
@@ -66,7 +78,7 @@ In Vitro Studies
 
 Based on in vitro data, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of desvenlafaxine.
 
-Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19, CYP2D6, or CYP3A4 isozymes.
+Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19 CYP2D6, or CYP3A4 isozymes.
 Desvenlafaxine does not induce CYP3A4 either.
 
 Desvenlafaxine is not a substrate or an inhibitor for the P-glycoprotein (P-gp) transporter.

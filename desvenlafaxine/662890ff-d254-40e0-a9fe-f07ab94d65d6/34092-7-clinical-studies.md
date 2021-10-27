@@ -16,13 +16,13 @@ Table 9: Primary Efficacy (HAM-D17) Results for Short-term Studies
 | --- | --- | --- | --- | --- | --- | --- |
 | Study No. | Primary Endpoint:HAM-D17 | Placebo | 50 mg per day | 100 mg per day | 200 mg per day | 400 mg per day |
 | 1 | Baseline Score (SDStandard deviation;) | 23.1 (2.5) |  | 23.2 (2.5) | 22.9 (2.4) | 23.0 (2.2) |
-| Difference from Placebo (95% CIDifference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals.) |  |  | -2.9Adjusted p-value < 0.05;(-5.1, -0.8) | -2.0 | -3.1(-5.2, -0.9) |  |
+| Difference from Placebo (95% CIDifference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals.) |  |  | -2.9Adjusted p-value < 0.05; (-5.1, -0.8) | -2.0 | -3.1 (-5.2, -0.9) |  |
 | 2 | Baseline Score (SD) | 25.3 (3.3) |  |  | 24.8 (2.9) | 25.2 (3.2) |
-| Difference from Placebo (95% CI) |  |  |  | -3.3(-5.3, -1.2) | -2.8(-4.8, -0.7) |  |
+| Difference from Placebo (95% CI) |  |  |  | -3.3 (-5.3, -1.2) | -2.8 (-4.8, -0.7) |  |
 | 3 | Baseline Score (SD) | 23.0 (2.6) | 23.4 (2.6) | 23.4 (2.6) |  |  |
-| Difference from Placebo (95% CI) |  | -1.9(-3.5, -0.3) | -1.5 |  |  |  |
+| Difference from Placebo (95% CI) |  | -1.9 (-3.5, -0.3) | -1.5 |  |  |  |
 | 4 | Baseline Score (SD) | 24.3 (2.6) | 24.3 (2.4) | 24.4 (2.7) |  |  |
-| Difference from Placebo (95% CI) |  | -2.5(-4.1, -0.9) | -3.0(-4.7, -1.4) |  |  |  |
+| Difference from Placebo (95% CI) |  | -2.5 (-4.1, -0.9) | -3.0 (-4.7, -1.4) |  |  |  |
 
 Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.

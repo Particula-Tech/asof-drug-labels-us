@@ -22,16 +22,21 @@ Advise patients that they should have regular monitoring of blood pressure when 
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of desvenlafaxine with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
+Advise patients to inform their healthcare providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 
-Advise patients, their families, and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
+Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
 Discontinuation
 
 Advise patients not to abruptly stop taking desvenlafaxine without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7)andAdverse Reactions (6.1)].
+
+Sexual Dysfunction
+
+Advise patients that use of Desvenlafaxine Extended-Release Tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
 
 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
@@ -60,8 +65,10 @@ Residual Inert Matrix Tablet
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by:
 
-10008303/04
+Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised February 2020
+C50000467/01
+
+Revised October 2021

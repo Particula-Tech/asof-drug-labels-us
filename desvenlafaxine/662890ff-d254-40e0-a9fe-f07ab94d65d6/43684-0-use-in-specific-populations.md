@@ -21,26 +21,34 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated Maternal and/or Embryo/Fetal Risk: A prospective longitudinal study of 201 women with history of major depression who were euthymic at the beginning of pregnancy, showed that women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Maternal Adverse Reactions: Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+A prospective longitudinal study of 201 women with history of major depression who were euthymic at the beginning of pregnancy, showed that women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
-Fetal/Neonatal Adverse Reactions: Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Maternal Adverse Reactions
+
+Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+
+Fetal/Neonatal Adverse Reactions
+
+Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Monitor neonates who were exposed to desvenlafaxine in the third trimester of pregnancy for drug discontinuation syndrome (see Data).
 
 Data
 
-Human Data: Published epidemiological studies of pregnant women exposed to the parent compound venlafaxine have not reported a clear association with major birth defects or miscarriage.
+Human Data
+
+Published epidemiological studies of pregnant women exposed to the parent compound venlafaxine have not reported a clear association with major birth defects or miscarriage.
 Methodological limitations of these observational studies include possible exposure and outcome misclassification, lack of adequate controls, adjustment for confounders, and confirmatory studies; therefore, these studies cannot establish or exclude any drug-associated risk during pregnancy.
 
 Retrospective cohort studies based on claims data have shown an association between venlafaxine use and preeclampsia, compared to depressed women who did not take an antidepressant during pregnancy.
-One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women (adjusted (adj) RR 1.57, 95% CI 1.29-1.91).
+One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women [adjusted (adj) RR 1.57, 95% CI 1.29-1.91].
 Preeclampsia was observed at venlafaxine doses equal to or greater than 75 mg/day and a duration of treatment >30 days.
 Another study that assessed venlafaxine exposure in gestational weeks 10-20 and preeclampsia showed an increased risk at doses equal to or greater than 150 mg/day.
 Available data are limited by possible outcome misclassification and possible confounding due to depression severity and other confounders.
 
 Retrospective cohort studies based on claims data have suggested an association between venlafaxine use near the time of delivery or through delivery and postpartum hemorrhage.
-One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women (adj RR 2.24 (95% CI 1.69-2.97).
+One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women [adj RR 2.24 (95% CI 1.69-2.97)].
 There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy.
 Limitations of this study include possible confounding due to depression severity and other confounders.
 Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64-1.76).
@@ -85,7 +93,7 @@ The safety and effectiveness of desvenlafaxine have not been established in pedi
 
 Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
+Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.However, due to Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
 
 Juvenile Animal Studies
 
@@ -97,7 +105,8 @@ The Low Adverse Effect Level (LOAEL) was 75 mg/kg/day which was associated with 
 In a second juvenile animal study, male and female rats were administered desvenlafaxine (75, 225 or 675 mg/kg/day) for 8-9 weeks starting on PND 22 and were mated with naïve counterparts.
 Delays in sexual maturation and decreased fertility, number of implantation sites and total live embryos were observed in treated females at all doses.
 The LOAEL for these findings is 75 mg/kg/day which was associated with an AUC twice the levels measured with a pediatric dose of 100 mg/day.
-These findings were reversed at the end of a 4-week recovery period.The relevance of these findings to humans is not known.
+These findings were reversed at the end of a 4-week recovery period.
+The relevance of these findings to humans is not known.
 
 ## 8.5 Geriatric Use
 
