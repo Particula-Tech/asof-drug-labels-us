@@ -8,7 +8,7 @@ While ondansetron’s mechanism of action has not been fully characterized, it i
 ## 12.2 Pharmacodynamics
 
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
-In another trial in 6normal male volunteers, a 16 mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or ECG.
+In another trial in 6 normal male volunteers, a 16 mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or ECG.
 Multiday administration of ondansetron has been shown to slow colonic transit in normal volunteers.
 Ondansetron has no effect on plasma prolactin concentrations.
 In a gender balanced pharmacodynamic trial (n = 56), ondansetron 4 mg administered intravenously or intramuscularly was dynamically similar in the prevention of nausea and vomiting using the ipecacuanha model of emesis.
@@ -64,7 +64,7 @@ This is consistent with a small decrease in systemic clearance with increasing p
 
 ### Specific Populations
 
-Geriatric Patients: A reduction in clearance and increase in elimination half life are seen in patients older than 75 years of age [see Use in Specific Populations (8.5)].
+Geriatric Patients: A reduction in clearance and increase in elimination half-life are seen in patients older than 75 years of age [see Use in Specific Populations (8.5)].
 
 Pediatric Patients: Pharmacokinetic samples were collected from 74 cancer patients aged 6 to 48 months, who received a dose of 0.15 mg/kg of intravenous ondansetron every 4 hours for 3 doses during a safety and efficacy trial.
 These data were combined with sequential pharmacokinetics data from 41 surgery patients aged 1 month to 24 months, who received a single dose of 0.1 mg/kg of intravenous ondansetron prior to surgery with general anesthesia, and a population pharmacokinetic analysis was performed on the combined data set.

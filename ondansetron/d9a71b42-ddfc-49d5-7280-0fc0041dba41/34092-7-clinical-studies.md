@@ -9,7 +9,7 @@ Adults
 In a double-blind trial of three different dosing regimens of ZOFRAN Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
-Cisplatin-based Chemotherapy: In a double-blind trial in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
+Cisplatin-Based Chemotherapy: In a double-blind trial in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Therapeutic response was as shown in Table 7.
 
 Table 7.
@@ -73,7 +73,7 @@ There was no difference between treatments in the types of chemotherapy that wou
 
 b Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied.
 
-Cyclophosphamide-based Chemotherapy: In a double-blind, placebo-controlled trial of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
+Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled trial of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 9.
 
 Table 9.
@@ -132,7 +132,7 @@ ZOFRAN Injection (4 mg) intravenous given over 2 to 5 minutes was significantly 
 The results of these trials are summarized in Table 10.
 
 Table 10.
-Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult Patients
+Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Adult Patients
 
 |  | Ondansetron 4 mg Intravenous | Placebo | P-value |
 | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ Ondansetron was significantly more effective than placebo in preventing nausea a
 The results of these trials are summarized in Table 11.
 
 Table 11.
-Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
+Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Pediatric Patients Aged 2 to 12 Years
 
 | Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P-value |
 | --- | --- | --- | --- |
@@ -205,7 +205,7 @@ A single 0.1-mg/kg intravenous dose of ondansetron administered within 5 minutes
 In the placebo group, 28% of patients experienced vomiting compared with 11% of subjects who received ondansetron (P ≤ 0.01).
 Overall, 32 (10%) of placebo patients and 18 (5%) of patients who received ondansetron received antiemetic rescue medication(s) or prematurely withdrew from the trial.
 
-## 14.3 Prevention of Further Postoperative Nausea and Vomiting
+## 14.3 Prevention of Further Postoperative Nausea and/or Vomiting
 
 ### Adults
 
@@ -214,7 +214,7 @@ Patients who experienced an episode of postoperative nausea and/or vomiting were
 The results of these trials are summarized in Table 12.
 
 Table 12.
-Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Adult Patients
+Therapeutic Response in Prevention of Further Postoperative Nausea and/or Vomiting in Adult Patients
 
 |  | Ondansetron 4 mg Intravenous | Placebo | P-value |
 | --- | --- | --- | --- |
@@ -260,7 +260,7 @@ Ondansetron was significantly more effective than placebo in preventing further 
 The results of the trial are summarized in Table 13.
 
 Table 13.
-Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
+Therapeutic Response in Prevention of Further Postoperative Nausea and/or Vomiting in Pediatric Patients Aged 2 to 12 Years
 
 | Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P-value |
 | --- | --- | --- | --- |
