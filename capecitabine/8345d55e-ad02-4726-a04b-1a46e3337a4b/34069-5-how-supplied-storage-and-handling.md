@@ -4,13 +4,13 @@
 
 Color: Light peach
 
-Engraving: 150 on one side, plain on the other 150 mg tablets are packaged in bottles of 60 (NDC 16729-072-12) individually packaged in a carton.
+Engraving: 150 on one side, plain on the other 150 mg tablets are packaged in bottles of 60 with child-resistant closure (NDC 16729-072-12)
 
 500 mg
 
 Color: Peach
 
-Engraving: 500 on one side, plain on the other 500 mg tablets are packaged in bottles of 120 (NDC 16729-073-29) individually packaged in a carton.
+Engraving: 500 on one side, plain on the other 500 mg tablets are packaged in bottles of 120 with child-resistant closure (NDC 16729-073-29)
 
 Storage and Handling
 
