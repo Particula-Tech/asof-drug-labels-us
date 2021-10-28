@@ -1,19 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-QT Prolongation
-
-Inform patients that ZOFRAN may cause serious cardiac arrhythmias, such as QT prolongation.
-Instruct patients to tell their healthcare provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode [see Warnings and Precautions (5.2)].
-
 Hypersensitivity Reactions
 
 Inform patients that ZOFRAN may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
 Instruct patients to immediately report any signs and symptoms of hypersensitivity reactions, including fever, chills, rash, or breathing problems to their healthcare provider [see Warnings and Precautions (5.1)].
 
-Masking of Progressive Ileus and Gastric Distension
+QT Prolongation
 
-Inform patients following abdominal surgery or those with chemotherapy-induced nausea and vomiting that ZOFRAN may mask signs and symptoms of bowel obstruction.
-Instruct patients to immediately report any signs or symptoms consistent with a potential bowel obstruction to their healthcare provider [see Warnings and Precautions (5.4)].
+Inform patients that ZOFRAN may cause serious cardiac arrhythmias, such as QT prolongation.
+Instruct patients to tell their healthcare provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode [see Warnings and Precautions (5.2)].
 
 Drug Interactions
 
@@ -21,6 +16,16 @@ Drug Interactions
   Concomitant use of apomorphine and ZOFRAN may cause a significant drop in blood pressure and loss of consciousness.
 - Advise patients of the possibility of serotonin syndrome with concomitant use of ZOFRAN and another serotonergic agent, such as medications to treat depression and migraines.
   Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
+
+Myocardial Ischemia
+
+Inform patients that ZOFRAN may cause myocardial ischemia.
+Advise patients to seek immediate medical help if any symptoms suggestive of a myocardial ischemia occur, such as sudden chest pain or chest tightness [see Warnings and Precautions (5.4)].
+
+Masking of Progressive Ileus and Gastric Distension
+
+Inform patients following abdominal surgery or those with chemotherapy-induced nausea and vomiting that ZOFRAN may mask signs and symptoms of bowel obstruction.
+Instruct patients to immediately report any signs or symptoms consistent with a potential bowel obstruction to their healthcare provider [see Warnings and Precautions (5.5)].
 
 Administration of ZOFRAN ODT Orally Disintegrating Tablets
 
@@ -34,4 +39,4 @@ Instruct patients not to remove ZOFRAN ODT orally disintegrating tablets from th
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2021-41
+T2021-143

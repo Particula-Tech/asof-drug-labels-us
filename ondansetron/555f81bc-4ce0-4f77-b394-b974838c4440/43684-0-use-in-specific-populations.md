@@ -61,9 +61,9 @@ Additional information on the use of ondansetron in pediatric patients may be fo
 
 The safety and effectiveness of orally administered ZOFRAN have not been established in pediatric patients for:
 
-- •prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy
-- •prevention of nausea and vomiting associated with radiotherapy
-- •prevention of postoperative nausea and/or vomiting
+- prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy
+- prevention of nausea and vomiting associated with radiotherapy
+- prevention of postoperative nausea and/or vomiting
 
 ## 8.5 Geriatric Use
 

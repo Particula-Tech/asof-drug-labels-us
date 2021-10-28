@@ -92,7 +92,7 @@ Daily Fractionated Radiotherapy
 In an active-controlled, double-blind trial in 135 patients receiving a 1- to 4- week course of fractionated radiotherapy (180 cGy doses) over a field size of greater than or equal to 100 cm2 to the abdomen, ZOFRAN was significantly more effective than prochlorperazine with respect to complete control of emesis (0 emetic episodes).
 Patients received the first dose of ZOFRAN (8 mg) or prochlorperazine (10 mg) 1 to 2 hours before the first daily radiotherapy fraction, with subsequent 8-mg doses approximately every 8 hours on each day of radiotherapy.
 
-## 14.3 Postoperative Nausea and Vomiting
+## 14.3 Postoperative Nausea and/or Vomiting
 
 In 2 placebo-controlled, double-blind trials (one conducted in the US and the other outside the US) in 865 females undergoing inpatient surgical procedures, ZOFRAN 16 mg as a single dose or placebo was administered one hour before the induction of general balanced anesthesia (barbiturate, opioid, nitrous oxide, neuromuscular blockade, and supplemental isoflurane or enflurane), ZOFRAN tablets was significantly more effective than placebo in preventing postoperative nausea and vomiting.
 

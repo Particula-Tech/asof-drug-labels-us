@@ -25,7 +25,14 @@ Patients should be monitored for the emergence of serotonin syndrome, especially
 If symptoms of serotonin syndrome occur, discontinue ZOFRAN and initiate supportive treatment.
 Patients should be informed of the increased risk of serotonin syndrome, especially if ZOFRAN is used concomitantly with other serotonergic drugs [see Drug Interactions (7.1), Overdosage (10)].
 
-## 5.4 Masking of Progressive Ileus and Gastric Distension
+## 5.4 Myocardial Ischemia
+
+Myocardial ischemia has been reported in patients treated with ondansetron.
+In some cases, predominantly during intravenous administration, the symptoms appeared immediately after administration but resolved with prompt treatment.
+Coronary artery spasm appears to be the most common underlying cause.
+Therefore, monitor or advise patients for signs or symptoms of myocardial ischemia after oral administration of ZOFRAN [see Adverse Reactions (6.2)].
+
+## 5.5 Masking of Progressive Ileus and Gastric Distension
 
 The use of ZOFRAN in patients following abdominal surgery or in patients with chemotherapy-induced nausea and vomiting may mask a progressive ileus and/or gastric distension.
 Monitor for decreased bowel activity, particularly in patients with risk factors for gastrointestinal obstruction.
@@ -33,7 +40,7 @@ Monitor for decreased bowel activity, particularly in patients with risk factors
 ZOFRAN is not a drug that stimulates gastric or intestinal peristalsis.
 It should not be used instead of nasogastric suction.
 
-## 5.5 Phenylketonuria
+## 5.6 Phenylketonuria
 
 Phenylketonuric patients should be informed that ZOFRAN ODT orally disintegrating tablets contain phenylalanine (a component of aspartame).
 Each 4-mg and 8-mg orally disintegrating tablet contains less than 0.03 mg phenylalanine.
