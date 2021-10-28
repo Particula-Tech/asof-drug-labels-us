@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 40 g Cream Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-40 g Cream Carton
 
 NDC 0187-3204-47
 
@@ -15,13 +15,13 @@ NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
 Ortho Dermatologics
 
-# PRINCIPAL DISPLAY PANEL - Solution Carton
+# Package/Label Display Panel-Solution Carton
 
 PRODUCT DELISTED –
 
 IMAGE NOT AVAILABLE
 
-# PRINCIPAL DISPLAY PANEL - Solution Carton
+# Package/Label Display Panel-Solution Carton
 
 PRODUCT DELISTED –
 
