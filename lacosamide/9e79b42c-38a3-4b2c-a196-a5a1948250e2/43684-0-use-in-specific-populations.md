@@ -51,14 +51,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Partial-Onset Seizures
 
-Safety and effectiveness of VIMPAT for the treatment of partial-onset seizures have been established in pediatric patients 4 to less than 17 years of age.
-Use of VIMPAT in this age group is supported by evidence from adequate and well-controlled studies of VIMPAT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Safety and effectiveness of VIMPAT for the treatment of partial-onset seizures have been established in pediatric patients 1 month to less than 17 years of age.
+Use of VIMPAT in this age group is supported by evidence from adequate and well-controlled studies of VIMPAT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 847 pediatric patients 1 month to less than 17 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
 
-Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+Safety and effectiveness in pediatric patients below 1 month of age have not been established.
 
 Primary Generalized Tonic-Clonic Seizures
 
-Safety and effectiveness of VIMPAT as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to < 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+Safety and effectiveness of VIMPAT as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
 
 Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
 

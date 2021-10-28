@@ -12,7 +12,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-VIMPAT Tablet and Oral Solution
+VIMPAT Tablet and Oral Solution in Adults
 
 In the premarketing development of adjunctive therapy for partial-onset seizures, 1327 adult patients received VIMPAT tablets in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months.
 The monotherapy development program for partial-onset seizures included 425 adult patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
@@ -75,11 +75,11 @@ Table 3: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Contr
 The overall adverse reaction rate was similar in male and female patients.
 Although there were few non-Caucasian patients, no differences in the incidences of adverse reactions compared to Caucasian patients were observed.
 
-Pediatric Patients (4 to less than 17 Years of Age)
+VIMPAT Tablet and Oral Solution in Pediatric Patients
 
-Safety of VIMPAT was evaluated in clinical studies of pediatric patients 4 to less than 17 years of age for the treatment of partial-onset seizures.
-Across studies in pediatric patients with partial-onset seizures, 328 patients 4 to less than 17 years of age received VIMPAT oral solution or tablet, of whom 148 received VIMPAT for at least 1 year.
-Adverse reactions reported in clinical studies of pediatric patients 4 to less than 17 years of age were similar to those seen in adult patients.
+Safety of VIMPAT was evaluated in clinical studies of pediatric patients 1 month to less than 17 years of age for the treatment of partial-onset seizures.
+Across studies in pediatric patients with partial-onset seizures, 847 patients 1 month to less than 17 years of age received VIMPAT oral solution or tablet, of whom 596 received VIMPAT for at least 1 year.
+Adverse reactions reported in clinical studies of pediatric patients 1 month to less than 17 years of age were similar to those seen in adult patients.
 
 Primary Generalized Tonic-Clonic Seizures in Patients (4 Years of Age and Older) Adjunctive Therapy Trial (Study 5)
 
@@ -174,9 +174,9 @@ Considering the difference in period of observations (1 week vs. 3 months), the 
 
 The adverse reactions associated with VIMPAT injection in adult patients with primary generalized tonic-clonic seizures are expected to be similar to those seen in adults with partial-onset seizures.
 
-Pediatric Patients (4 Years to less than 17 Years of Age)
+Pediatric Patients (1 Month to less than 17 Years of Age)
 
-The safety of VIMPAT injection was evaluated in a multicenter, open-label study of 77 pediatric patients 4 to less than 17 years of age with epilepsy.
+The safety of VIMPAT injection was evaluated in a multicenter, open-label study of 103 pediatric patients 1 month to less than 17 years of age with epilepsy.
 Infusions were primarily administered over a 30 to 60 minute time period; infusion times less than 30 minutes were not adequately studied in pediatric patients [see Dosage and Administration (2.6)].
 Although no serious or severe adverse reactions were noted at the time of infusion in this small study, the adverse reactions associated with VIMPAT injection in pediatric patients are expected to be similar to those noted in adults.
 

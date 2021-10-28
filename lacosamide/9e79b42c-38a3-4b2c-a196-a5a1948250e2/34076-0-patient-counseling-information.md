@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
+The Medication Guide accompanies the product and can also be accessed on www.vimpat.com or by calling 1-844-599-2273.
 
 Suicidal Thinking and Behavior
 

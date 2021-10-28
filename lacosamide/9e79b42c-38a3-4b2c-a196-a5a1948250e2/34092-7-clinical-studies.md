@@ -60,7 +60,7 @@ Dosing was initiated at a dose of 2 mg/kg/day in patients weighing less than 50 
 During the titration period, VIMPAT doses were adjusted in 2 mg/kg/day increments in patients weighing less than 50 kg or 100 mg/day in patients weighing 50 kg or more at weekly intervals to achieve the target maintenance period dose of 12 mg/kg/day in patients weighing less than 30 kg, 8 mg/kg/day in patients weighing from 30 to less than 50 kg, or 400 mg/day in patients weighing 50 kg or more.
 
 The primary efficacy endpoint (patients in the modified full analysis set: VIMPAT n=118, placebo n=121) was the time to second PGTC seizure during the 24-week treatment period (Figure 3).
-The risk of developing a second PGTC seizure was statistically significantly lower in VIMPAT group than in the placebo group during the 24-week treatment period (hazard ratio=0.548, 95% CI of hazard ratio: 0.381, 0.788, p-value=0.001), with the corresponding risk reduction being 45.2%.
+The risk of developing a second PGTC seizure was statistically significantly lower in VIMPAT group than in the placebo group during the 24-week treatment period (hazard ratio=0.548, 95% CI of hazard ratio: 0.381, 0.788, p-value = 0.001), with the corresponding risk reduction being 45.2%.
 
 The key secondary efficacy endpoint was the percentage of patients not experiencing a PGTC seizure during the 24-week treatment period.
 The adjusted Kaplan-Meier estimates of 24-week freedom from PGTC seizures were 31.3% in VIMPAT group and 17.2% in placebo group.

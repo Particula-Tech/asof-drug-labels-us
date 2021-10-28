@@ -2,7 +2,7 @@
 
 ## 1.1 Partial-Onset Seizures
 
-VIMPAT is indicated for the treatment of partial-onset seizures in patients 4 years of age and older.
+VIMPAT is indicated for the treatment of partial-onset seizures in patients 1 month of age and older.
 
 ## 1.2 Primary Generalized Tonic-Clonic Seizures
 

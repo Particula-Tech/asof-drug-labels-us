@@ -2,12 +2,13 @@
 
 ## 2.1 Dosage Information
 
-The recommended dosage for adults and pediatric patients 4 years to less than 17 years of age is included in Table 1.
-In pediatric patients 4 years to less than 17 years of age, the recommended dosing regimen is dependent upon body weight.
+The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in patients 1 month of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older is included in Table 1.
+In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Dosage should be increased based on clinical response and tolerability, no more frequently than once per week.
 Titration increments should not exceed those shown in Table 1.
 
-Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) and Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy)when not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures or primary generalized tonic-clonic seizures.
+Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) in Patients 1 Month and Older, and for Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy) in Patients 4 Years of Age and Olderwhen not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures or primary generalized tonic-clonic seizures.
+Oral and intravenous dosages are the same unless specified.
 
 | Age and Body Weight | Initial Dosage | Titration Regimen | Maintenance Dosage |
 | --- | --- | --- | --- |
@@ -16,20 +17,25 @@ Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older 
 | Pediatric patients weighing 50 kg or more | 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
 | Pediatric patients weighing 30 kg to less than 50 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
 | Pediatric patients weighing 11 kg to less than 30 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
+| Pediatric patients weighing 6 kg to less than 11 kg indicated only for partial-onset seizures |  |  |  |
+| Pediatric patients weighing less than 6 kg | Intravenous: 0.66 mg/kg three times daily (2 mg/kg/day) | Intravenous: Increase by 0.66 mg/kg three times daily (2 mg/kg/day) every week | Intravenous: 2.5 mg/kg to 5 mg/kg three times daily (7.5 mg/kg/day to 15 mg/kg/day) |
+| Oral: 1 mg/kg twice daily (2 mg/kg/day) | Oral: Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | Oral: 3.75 mg/kg to 7.5 mg/kg twice daily (7.5 mg/kg/day to 15 mg/kg/day) |  |
 
 In adjunctive clinical trials in adult patients with partial-onset seizures, a dosage higher than 200 mg twice daily (400 mg per day) was not more effective and was associated with a substantially higher rate of adverse reactions [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 VIMPAT Injection Dosage
 
 VIMPAT injection may be used when oral administration is temporarily not feasible [see Dosage and Administration (2.6) and Warnings and Precautions (5.3)].
-VIMPAT injection can be administered intravenously with the same dosing regimens described for oral dosing.
+VIMPAT injection can be administered intravenously to adult and pediatric patients weighing 6 kg or more with the same dosing regimens described for oral dosing.
+For pediatric patients weighing less than 6 kg, VIMPAT injection may be initiated with a dose of 0.66 mg/kg three times daily (see Table 1).
 
 The clinical study experience of intravenous VIMPAT is limited to 5 days of consecutive treatment.
 
 Loading Dose in Adult Patients (17 Years and Older)
 
 VIMPAT and VIMPAT injection may be initiated in adult patients with a single loading dose of 200 mg, followed approximately 12 hours later by 100 mg twice daily (200 mg per day).
-This maintenance dose regimen should be continued for one week.
+
+The maintenance dose regimen should be continued for one week.
 VIMPAT can then be titrated as recommended in Table 1.
 The adult loading dose should be administered with medical supervision because of the increased incidence of CNS adverse reactions [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
@@ -84,7 +90,7 @@ A household teaspoon or tablespoon is not an adequate measuring device.
 
 VIMPAT oral solution may also be administered using a nasogastric tube or gastrostomy tube.
 
-Discard any unused VIMPAT oral solution remaining after 7 weeks of first opening the bottle.
+Discard any unused VIMPAT oral solution remaining after 6 months of first opening the bottle.
 
 ## 2.6 Preparation and Administration Information for VIMPAT Injection
 
