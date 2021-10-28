@@ -74,8 +74,8 @@ The dose of PROMACTA was reduced if the platelet count exceeded 200 x 109/L and 
 
 In the PETIT2 study (NCT01520909), patients refractory or relapsed to at least one prior ITP therapy with a platelet count less than 30 x 109/L (n = 92) were stratified by age and randomized (2:1) to PROMACTA (n = 63) or placebo (n = 29).
 The starting dose for patients aged 6 to 17 years was 50 mg once daily for those at least 27 kg and 37.5 mg once daily for those less than 27 kg, administered as oral tablets.
-A reduced dose of 25 mg once daily was used for East Asian patients aged 6 to 17 years regardless of weight.
-The starting dose for patients aged 1 to 5 years was 1.2 mg/kg once daily (0.8 mg/kg once daily for East Asian patients) administered as oral suspension.
+A reduced dose of 25 mg once daily was used for East-/Southeast-Asian patients aged 6 to 17 years regardless of weight.
+The starting dose for patients aged 1 to 5 years was 1.2 mg/kg once daily (0.8 mg/kg once daily for East-/Southeast-Asian patients) administered as oral suspension.
 
 The 13-week, randomized, double-blind period was followed by a 24-week, open-label period where patients from both arms were eligible to receive PROMACTA.
 
@@ -108,8 +108,8 @@ In the PETIT study (NCT00908037), patients refractory or relapsed to at least on
 Approximately 15% of patients met the definition of persistent ITP.
 The starting dose for patients aged 12 to 17 years was 37.5 mg once daily regardless of weight or race.
 The starting dose for patients aged 6 to 11 years was 50 mg once daily for those greater than or equal to 27 kg and 25 mg once daily for those less than 27 kg, administered as oral tablets.
-Reduced doses of 25 mg (for those greater than or equal to 27 kg) and 12.5 mg (for those less than 27 kg), each once daily, were used for East Asian patients in this age range.
-The starting dose for patients aged 1 to 5 years was 1.5 mg/kg once daily (0.8 mg/kg once daily for East Asian patients) administered as oral suspension.
+Reduced doses of 25 mg (for those greater than or equal to 27 kg) and 12.5 mg (for those less than 27 kg), each once daily, were used for East-/Southeast-Asian patients in this age range.
+The starting dose for patients aged 1 to 5 years was 1.5 mg/kg once daily (0.8 mg/kg once daily for East-/Southeast-Asian patients) administered as oral suspension.
 
 The 7-week, randomized, double-blind period was followed by an open-label period of up to 24 weeks where patients from both arms were eligible to receive PROMACTA.
 
@@ -188,7 +188,7 @@ First-Line Treatment of Severe Aplastic Anemia
 PROMACTA in combination with h-ATG and cyclosporine was investigated in a single-arm, single-center, open-label sequential cohort trial (Study ETB115AUS01T, referred to as Study US01T [NCT01623167]) in patients with severe aplastic anemia who had not received prior immunosuppressive therapy (IST) with any ATG, alemtuzumab, or high dose cyclophosphamide.
 A total of 153 patients received PROMACTA in Study US01T in three sequential cohorts and an extension of the third cohort.
 The multiple cohorts received the same PROMACTA starting dose but differed by treatment start day and duration.
-The starting dose of PROMACTA for patients 12 years and older was 150 mg once daily (a reduced dose of 75 mg was administered for East and Southeast Asians), 75 mg once daily for pediatric patients aged 6 to 11 years (a reduced dose of 37.5 mg was administered for East and Southeast Asians), and 2.5 mg/kg once daily for pediatric patients aged 2 to 5 years (a reduced dose of 1.25 mg/kg was administered for East and Southeast Asians).
+The starting dose of PROMACTA for patients 12 years and older was 150 mg once daily (a reduced dose of 75 mg was administered for East-/Southeast-Asians), 75 mg once daily for pediatric patients aged 6 to 11 years (a reduced dose of 37.5 mg was administered for East-/Southeast-Asians), and 2.5 mg/kg once daily for pediatric patients aged 2 to 5 years (a reduced dose of 1.25 mg/kg was administered for East-/Southeast-Asians).
 
 - Cohort 1 (n = 30): PROMACTA on Day 14 to Month 6 (D14-M6) plus h-ATG and cyclosporine
 - Cohort 2 (n = 31): PROMACTA on Day 14 to Month 3 (D14-M3) plus h-ATG and cyclosporine

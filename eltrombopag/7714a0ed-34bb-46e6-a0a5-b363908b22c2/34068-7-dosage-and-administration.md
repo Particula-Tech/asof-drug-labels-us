@@ -7,13 +7,13 @@ Dose adjustments are based upon the platelet count response.
 Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
-Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
+Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East-/Southeast-Asian ancestry or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
 
-For patients of Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+For patients of East-/Southeast-Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-For patients of Asian ancestry with ITP and hepatic impairment (Child-Pugh Class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
+For patients of East-/Southeast-Asian ancestry with ITP and hepatic impairment (Child-Pugh Class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
 
 Pediatric Patients with ITP Aged 1 to 5 Years: Initiate PROMACTA at a dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
@@ -44,7 +44,7 @@ Discontinuation: Discontinue PROMACTA if the platelet count does not increase to
 Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
 Obtain CBCs with differentials, including platelet counts, weekly for at least 4 weeks following discontinuation of PROMACTA.
 
-## 2.2 Chronic Hepatitis C-associated Thrombocytopenia
+## 2.2 Chronic Hepatitis C-Associated Thrombocytopenia
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin.
 Dose adjustments are based upon the platelet count response.
@@ -100,13 +100,13 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 | Pediatric patients 6 to 11 years | 75 mg once daily for 6 months |
 | Pediatric patients 2 to 5 years | 2.5 mg/kg once daily for 6 months |
 
-For patients with severe aplastic anemia of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+For patients with severe aplastic anemia of East-/Southeast-Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
 If baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
 Determine the initial dose for these patients based on Table 3 or Table 4.
 
 Table 4.
-Recommended Initial PROMACTA Dose Regimen for Patients of Asian Ancestry or Those With Mild, Moderate, or Severe Hepatic Impairment (Child-Pugh Class A, B, C) in the First-Line Treatment of Severe Aplastic Anemia
+Recommended Initial PROMACTA Dose Regimen for Patients of East-/Southeast-Asian Ancestry or Those With Mild, Moderate, or Severe Hepatic Impairment (Child-Pugh Class A, B, C) in the First-Line Treatment of Severe Aplastic Anemia
 
 | Age | Dose Regimen |
 | --- | --- |
@@ -147,7 +147,7 @@ Hematologic response requires dose titration, generally up to 150 mg, and may ta
 
 Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg once daily.
 
-For patients with severe aplastic anemia of Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
 Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 50-mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 109/L as necessary.
 Do not exceed a dose of 150 mg daily.

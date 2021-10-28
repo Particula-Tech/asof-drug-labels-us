@@ -65,7 +65,7 @@ Specific Populations
 
 Ethnicity
 
-Eltrombopag concentrations in Asian (i.e., Japanese, Chinese, Taiwanese, Korean, or Thai) patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
+Eltrombopag concentrations in East-/Southeast-Asian ancestry patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
 
 Eltrombopag exposure in healthy African-American subjects was approximately 40% higher than that observed in Caucasian subjects in one clinical pharmacology trial and similar in three other clinical pharmacology trials.
 The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.
@@ -98,7 +98,7 @@ Pediatric Patients
 
 The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily in two trials.
 Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight.
-Asian pediatric patients with ITP had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared with non-Asian patients.
+East-/Southeast-Asian pediatric patients with ITP had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared with non-Asian patients.
 
 Plasma eltrombopag AUC(0-τ) and Cmax in pediatric patients aged 12 to 17 years was similar to that observed in adults.
 The pharmacokinetic parameters of eltrombopag in pediatric patients with ITP are shown in Table 15.

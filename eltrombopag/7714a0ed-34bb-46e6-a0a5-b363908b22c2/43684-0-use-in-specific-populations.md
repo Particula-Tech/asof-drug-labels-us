@@ -10,7 +10,7 @@ These effects were observed at doses resulting in exposures that were six times 
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -85,5 +85,5 @@ No dosage adjustment is recommended in patients with chronic hepatitis C and hep
 
 ## 8.7 Ethnicity
 
-Reduce the initial dose of PROMACTA for patients of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3), Clinical Pharmacology (12.3)].
-No reduction in the initial dose of PROMACTA is recommended in patients of Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+Reduce the initial dose of PROMACTA for patients of East-/Southeast-Asian ancestry with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3), Clinical Pharmacology (12.3)].
+No reduction in the initial dose of PROMACTA is recommended in patients of East-/Southeast-Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].
