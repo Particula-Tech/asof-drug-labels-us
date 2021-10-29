@@ -33,21 +33,46 @@ Concentrations in the renal cortex are several times higher than the usual serum
 
 Probenecid does not affect the renal tubular transport of tobramycin.
 
-Microbiology–Tobramycin is an aminoglycoside antibiotic with activity against Gram-positive and Gram-negative bacteria.
-Mechanism of Action Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
+## Microbiology
+
+Tobramycin is an aminoglycoside antibiotic with activity against Gram-positive and Gram-negative bacteria.
+
+## Mechanism of Action
+
+Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
 In vitro tests demonstrate that tobramycin is bactericidal.
-Interactions with Other Antibiotics: Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
+
+## Interactions with Other Antibiotics
+
+Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
 In vitro studies have shown that an aminoglycoside combined with an antibiotic that interferes with cell-wall synthesis affects some enterococcal strains synergistically.
 The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcus faecalis.
 However, this combination is not synergistic against other closely related organisms, e.g. Enterococcus faecium.
 Speciation of enterococci alone cannot be used to predict susceptibility.
 Susceptibility testing and tests for antibiotic synergism are emphasized.
-Cross-Resistance: Cross-resistance between aminoglycosides may occur.Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
 
-Aerobic and facultative Gram-positive microorganisms Staphylococcus aureus
+## Cross-Resistance
 
-Aerobic and facultative Gram-negative microorganisms Citrobacter sp Enterobacter sp Escherichia coli Klebsiella sp Morganella morganii Pseudomonas aeruginosa Proteus mirabilis Proteus vulgaris Providencia sp Serratis sp
+Cross-resistance between aminoglycosides may occur.
+
+Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE).
+
+Aerobic and facultative Gram-positive microorganisms
+
+Staphylococcus aureus
+
+Aerobic and facultative Gram-negative microorganisms
+
+Citrobacter sp Enterobacter sp Escherichia coli
+
+Klebsiella sp Morganella morganii Pseudomonas aeruginosa
+
+Proteus mirabilis Proteus vulgaris Providencia sp
+
+Serratis sp
 
 Aminoglycosides have a low order of activity against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
 
-Susceptibility Tests: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+## Susceptibility Tests
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

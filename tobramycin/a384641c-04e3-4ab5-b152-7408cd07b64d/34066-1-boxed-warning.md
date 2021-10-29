@@ -2,7 +2,7 @@
 
 WARNINGS
 
-Patients treated with Tobramycin for Injection USP and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
+Patients treated with Tobramycin for Injection, USP and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
 
 Neurotoxicity, manifested as both auditory and vestibular ototoxicity, can occur.
 The auditory changes are irreversible, are usually bilateral, and may be partial or total.
@@ -17,13 +17,13 @@ Renal and eighth-nerve function should be closely monitored in patients with kno
 Peak and trough serum concentrations of aminoglycosides should be monitored periodically during therapy to assure adequate levels and to avoid potentially toxic levels.
 Prolonged serum concentrations above 12 mcg/mL should be avoided.
 Rising trough levels (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (seePrecautions).
+Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (see PRECAUTIONS).
 Urine should be examined for decreased specific gravity and increased excretion of protein, cells, and casts.
 Blood urea nitrogen, serum creatinine, and creatinine clearance should be measured periodically.
 When feasible, it is recommended that serial audiograms be obtained in patients old enough to be tested, particularly high-risk patients.
 Evidence of impairment of renal, vestibular, or auditory function requires discontinuation of the drug or dosage adjustment.
 
-Tobramycin should be used with caution in premature and neonatal infants because of their renal immaturity and the resulting prolongation of serum half-life of the drug.
+Tobramycin for Injection should be used with caution in premature and neonatal infants because of their renal immaturity and the resulting prolongation of serum half-life of the drug.
 
 Concurrent and sequential use of other neurotoxic and/or nephrotoxic antibiotics, particularly other aminoglycosides (eg. amikacin, streptomycin, neomycin, kanamycin, gentamicin, and paromomycin), cephaloridine, viomycin, polymyxin B, colistin, cisplatin, and vancomycin, should be avoided.
 Other factors that may increase patient risk are advanced age and dehydration.
@@ -31,4 +31,4 @@ Other factors that may increase patient risk are advanced age and dehydration.
 Aminoglycosides should not be given concurrently with potent diuretics, such as ethacrynic acid and furosemide.
 Some diuretics themselves cause ototoxicity, and intravenously administered diuretics enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
 
-Aminoglycosides can cause fetal harm when administered to a pregnant woman (see Precautions).
+Aminoglycosides can cause fetal harm when administered to a pregnant woman (see PRECAUTIONS).

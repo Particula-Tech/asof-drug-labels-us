@@ -19,10 +19,10 @@ January 2009.
 
 Manufactured for:
 
-X-Gen Pharmaceuticals, Inc.
+XGen Pharmaceuticals DJB, Inc.
 
 Big Flats, NY 14814
 
-Revised July 2018
+Revised October 2020
 
-TOBR-PI6-02
+TOBR-PI6-03
