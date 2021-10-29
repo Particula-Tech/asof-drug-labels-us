@@ -111,9 +111,7 @@ Before you begin any new medicines be sure your doctor or clinic knows you are t
 Pick the day label strip that starts with the first day of your period.
 
 2.
-Place this day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
-
-Note: If the first day of your period is a Sunday, you can skip steps #1 and #2.
+Place this day label strip on the tablet blister over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
 ## IMPORTANT POINTS TO REMEMBER
 
@@ -137,9 +135,9 @@ Note: If the first day of your period is a Sunday, you can skip steps #1 and #2.
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPS
 
 - •If you are more than 3 hours late or you miss one or more POPs:
-  - 1.TAKE a missed pill as soon as you remember that you missed it,
-  - 2.THEN go back to taking POPs at your regular time.
-  - 3.BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
+  - •TAKE a missed pill as soon as you remember that you missed it,
+  - •THEN go back to taking POPs at your regular time.
+  - •BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
 - •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your doctor or clinic.
 
 ## IF YOU ARE BREASTFEEDING
@@ -194,20 +192,20 @@ You can also ask for the more detailed “professional package labeling” writt
 
 ## HOW TO STORE YOUR POPS
 
-Store your POPs at controlled room temperature 20 - 25oC (68 - 77oF).
+Store your POPs at controlled room temperature 20oC - 25oC (68oF - 77oF).
 
 Be certain to read new revisions of this leaflet.
-You may check the date of the most recent revision by phoning the manufacturer toll-free at 1 (888)721-7115.
+You may check the date of the most recent revision by phoning the manufacturer toll-free at 1 (888) 721-7115.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888)721-7115 www.glenmarkpharma-us.com
 
-October 2014
+August 2021
