@@ -13,3 +13,5 @@
 | What are the ingredients in desvenlafaxine? Active ingredient: desvenlafaxine Inactive ingredients: 25 mg tablet: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, talc and film coating, which consists of ferrosoferric oxide, iron oxide red, iron oxide yellow, mono- and di-glycerides, polyethylene glycol polyvinyl alcohol graft copolymer, polyvinyl alcohol, talc and titanium dioxide. 50 mg tablet: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, talc and film coating, which consists of iron oxide yellow, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide. 100 mg tablet: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, talc and film coating, which consists of D&C red #27, FD&C blue #2, FD&C yellow #6, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+For additional copies of the Medication Guide, please visit www.slaterunpharma.com/products/.
