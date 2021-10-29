@@ -2,14 +2,15 @@
 
 The following clinically significant adverse reactions have been associated with bendamustine hydrochloride in clinical trials and are discussed in greater detail in other sections of the prescribing information.
 
-- Myelosuppression [see Warnings and Precautions (5.1)]
-- Infections [see Warnings and Precautions (5.2)]
-- Anaphylaxis and Infusion Reactions[see Warnings and Precautions (5.3)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- Skin Reactions [see Warnings and Precautions (5.5)]
-- Hepatotoxicity [see Warnings and Precautions (5.6)]
-- Other Malignancies [see Warnings and Precautions (5.7)]
-- Extravasation Injury [see Warnings and Precautions (5.8)]
+- Myelosuppression [see (Warnings and Precautions 5.1)]
+- Infections [see (Warnings and Precautions 5.2)]
+- Progressive Multifocal Leukoencephalopathy [see (Warnings and Precautions 5.3)]
+- Anaphylaxis and Infusion Reactions[see (Warnings and Precautions 5.4)]
+- Tumor Lysis Syndrome [see (Warnings and Precautions 5.5)]
+- Skin Reactions [see (Warnings and Precautions 5.6)]
+- Hepatotoxicity [see (Warnings and Precautions 5.7)]
+- Other Malignancies [see (Warnings and Precautions 5.8)]
+- Extravasation Injury [see (Warnings and Precautions 5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,9 +35,7 @@ Adverse reactions (any grade) that occurred with a frequency greater than 5% wit
 
 Adverse reactions leading to study withdrawal in 4 patients receiving BENDEKA were pyrexia (1.2%), nausea (1.2%), vomiting (1.2%), pneumonia (1.2%) and fatigue (1.2%).
 
-## 6.2 Clinical Trials Experience in CLL
-
-The data described below reflect exposure to bendamustine hydrochloride in 153 patients.
+Chronic Lymphocytic Leukemia (CLL) The data described below reflect exposure to bendamustine hydrochloride in 153 patients.
 Bendamustine hydrochloride was studied in an active-controlled randomized trial.
 The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
 All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
@@ -106,9 +105,7 @@ Increases in AST and ALT of Grade 3 or 4 were limited to 1% and 3% of patients, 
 Patients treated with bendamustine hydrochloride may also have changes in their creatinine levels.
 If abnormalities are detected, monitoring of these parameters should be continued to ensure that significant deterioration does not occur.
 
-## 6.3 Clinical Trials Experience in NHL
-
-The data described below reflect exposure to bendamustine hydrochloride in 176 patients with indolent B-cell NHL treated in two single-arm studies.
+Non-Hodgkin’s Lymphoma (NHL) The data described below reflect exposure to bendamustine hydrochloride in 176 patients with indolent B-cell NHL treated in two single-arm studies.
 The population was 31-84 years of age, 60% male, and 40% female.
 The race distribution was 89% White, 7% Black, 3% Hispanic, 1% other, and <1% Asian.
 These patients received bendamustine hydrochloride at a dose of 120 mg/m2 intravenously on Days 1 and 2 for up to eight 21-day cycles.
@@ -211,14 +208,14 @@ The most common serious adverse reactions occurring in ≥5% of patients were fe
 Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
-[see Warnings and Precautions (5)] Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
+Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of bendamustine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic systems disorders:Pancytopenia.
+Blood and lymphatic systems disorders: Pancytopenia.
 
 Cardiovascular disorders: Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation.
 
@@ -226,9 +223,8 @@ General disorders and administration site conditions: Injection site reactions (
 
 Immune system disorders: Anaphylaxis.
 
-Infections and infestations: Pneumocystis jiroveci pneumonia.
+Infections and infestations: Pneumocystis jirovecii pneumonia, progressive multifocal leukoencephalopathy (PML).
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis.
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
-[see Warnings and Precautions (5.5)]
+Skin and subcutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN).

@@ -4,20 +4,20 @@
 
 Recommended Dosage:
 
-The recommended dose is 100 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
+The recommended dosage is 100 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
 
-Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL:
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for CLL:
 
 Delay BENDEKA administration in the event of Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], reinitiate BENDEKA (bendamustine hydrochloride) injection at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
 
-Consider dose re-escalation in subsequent cycles at the discretion of the treating physician.
+Consider dosage re-escalation in subsequent cycles at the discretion of the treating physician.
 
 ## 2.2 Dosing Instructions for NHL
 
@@ -25,27 +25,27 @@ Recommended Dosage:
 
 The recommended dose is 120 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
 
-Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL:
 
 Delay BENDEKA administration in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], reinitiate BENDEKA at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
 ## 2.3 Preparation for Intravenous Administration
 
-BENDEKA is a cytotoxic drug.
+BENDEKA is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 BENDEKA is in a multiple-dose vial.
 At room temperature, BENDEKA is a clear, and colorless to yellow ready-to-dilute solution.
-Store BENDEKA at recommended refrigerated storage conditions (2-8°C or 36-46°F).
+Store BENDEKA at recommended refrigerated storage conditions (2°C to 8°C or 36°F to 46°F).
 When refrigerated, the contents may freeze.
-Allow the vial to reach room temperature (15-30°C or 59-86°F) prior to use.
+Allow the vial to reach room temperature (15°C to 30°C or 59°F to 86°F) prior to use.
 Do not use the product if particulate matter is observed after achieving room temperature.
 
 Intravenous Infusion
@@ -55,7 +55,7 @@ Intravenous Infusion
   - –2.5% Dextrose/0.45% Sodium Chloride Injection, USP; or
   - –5% Dextrose Injection, USP.
 
-The resulting final concentration of bendamustine hydrochloride in the infusion bag should be within 1.85 mg/mL – 5.6 mg/mL.
+The resulting final concentration of bendamustine hydrochloride in the infusion bag should be within 0.49 mg/mL to 5.6 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.
 The admixture should be a clear, and colorless to yellow solution.
 
@@ -97,19 +97,19 @@ Any unused solution should be discarded according to institutional procedures fo
 BENDEKA contains no antimicrobial preservative.
 Prepare the admixture as close as possible to the time of patient administration.
 
-If diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2-8°C or 36-46°F) or for 6 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+If diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2°C to 8°C or 36°F to 46°F) or for 6 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of diluted BENDEKA (bendamustine hydrochloride) injection must be completed within this period of time.
 
-In the event that 5% Dextrose Injection, USP is utilized, the final admixture is stable for 24 hours when stored refrigerated (2-8°C or 36-46°F) or for only 3 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+In the event that 5% Dextrose Injection, USP is utilized, the final admixture is stable for 24 hours when stored refrigerated (2°C to 8°C or 36°F to 46°F) or for only 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of diluted BENDEKA must be completed within this period of time.
 
-Retain the partially used vial in original package to protect from light and store refrigerated (2-8°C or 36-46°F) if additional dose withdrawal from the same vial is intended.
+Retain the partially used vial in original package to protect from light and store refrigerated (2°C to 8°C or 36°F to 46°F) if additional dose withdrawal from the same vial is intended.
 
 ## 2.5 Stability of Partially Used Vials (Needle Punched Vials)
 
 BENDEKA is supplied in a multiple-dose vial.
 Although it does not contain any antimicrobial preservative, BENDEKA is bacteriostatic.
-The partially used vials are stable for up to 28 days when stored in its original carton under refrigeration (2-8°C or 36-46°F).
+The partially used vials are stable for up to 28 days when stored in its original carton under refrigeration (2°C to 8°C or 36°C to 46°F).
 Each vial is not recommended for more than a total of six (6) dose withdrawals.
 
-After first use, store the partially used vial in the refrigerator in the original carton at 2°-8°C or 36-46°F and then discard after 28 days.
+After first use, store the partially used vial in the refrigerator in the original carton at 2°C to 8°C or 36°F to 46°F and then discard after 28 days.

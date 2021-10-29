@@ -10,7 +10,7 @@ Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -18,7 +18,7 @@ Animal Data
 
 Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
-Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7-11 resulted in an increase in resorptions from 75 mg/m2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
+Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7 to 11 resulted in an increase in resorptions from 75 mg/m2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
 
 Bendamustine hydrochloride was intraperitoneally administered once to rats from 120 mg/m2 (approximately the MRHD) on gestation days 4, 7, 9, 11, or 13 and caused embryo and fetal lethality as indicated by increased resorptions and a decrease in live fetuses.
 A significant increase in external (effect on tail, head, and herniation of external organs [exomphalos]) and internal (hydronephrosis and hydrocephalus) malformations were seen in dosed rats.
@@ -28,11 +28,11 @@ A significant increase in external (effect on tail, head, and herniation of exte
 Risk Summary
 
 There are no data on the presence of bendamustine hydrochloride or its metabolites in either human or animal milk, the effects on the breastfed child, or the effects on milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with BENDEKA, and for at least 1 week after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with BENDEKA, and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-BENDEKA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+BENDEKA can cause embryo-fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -40,22 +40,15 @@ Pregnancy testing is recommended for females of reproductive potential prior to 
 
 Contraception
 
-Females
+Females Advise female patients of reproductive potential to use effective contraception during treatment with BENDEKA and for 6 months after the last dose.
 
-BENDEKA can cause embryo-fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
-Advise female patients of reproductive potential to use effective contraception during treatment with BENDEKA and for 6 months after the final dose.
-
-Males
-
-Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with BENDEKA and for at least 3 months after the final dose [see Nonclinical Toxicology (13.1)].
+Males Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with BENDEKA and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
-Males
-
-Based on findings from clinical studies, BENDEKA may impair male fertility.
+Males Based on findings from clinical studies, BENDEKA may impair male fertility.
 Impaired spermatogenesis, azoospermia, and total germinal aplasia have been reported in male patients treated with alkylating agents, especially in combination with other drugs.
-In some instances spermatogenesis may return in patients in remission, but this may occur only several years after intensive chemotherapy has been discontinued.
+In some instances, spermatogenesis may return in patients in remission, but this may occur only several years after intensive chemotherapy has been discontinued.
 Advise patients of the potential risk to their reproductive capacities.
 
 Based on findings from animal studies, BENDEKA may impair male fertility due to an increase in morphologically abnormal spermatozoa.
@@ -65,7 +58,7 @@ The long-term effects of BENDEKA on male fertility, including the reversibility 
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1-19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
+Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1 to 19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
 Bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
 There was no treatment response (CR+ CRp) in any patient.
 The safety profile in these patients was consistent with that seen in adults, and no new safety signals were identified.
