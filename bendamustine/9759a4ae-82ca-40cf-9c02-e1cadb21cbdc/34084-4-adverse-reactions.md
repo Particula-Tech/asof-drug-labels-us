@@ -4,18 +4,19 @@ The following clinically significant serious adverse reactions are discussed in 
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Anaphylaxis and Infusion Reactions[see Warnings and Precautions (5.3)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- Skin Reactions [see Warnings and Precautions (5.5)]
-- Hepatotoxicity [see Warnings and Precautions (5.6)]
-- Other Malignancies [see Warnings and Precautions (5.7)]
-- Extravasation Injury [see Warnings and Precautions (5.8)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Anaphylaxis and Infusion Reactions[see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.5)]
+- Skin Reactions [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Other Malignancies [see Warnings and Precautions (5.8)]
+- Extravasation Injury [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.2 Clinical Trials Experience in CLL
+Clinical Trials Experience in CLL
 
 The data described below reflect exposure to bendamustine hydrochloride in 153 patients.
 Bendamustine hydrochloride was studied in an active-controlled, randomized trial.
@@ -87,7 +88,7 @@ Increases in AST and ALT of Grade 3 or 4 were limited to 1% and 3% of patients, 
 Patients treated with bendamustine hydrochloride may also have changes in their creatinine levels.
 If abnormalities are detected, monitoring of these parameters should be continued to ensure that further deterioration does not occur.
 
-## 6.3 Clinical Trials Experience in NHL
+Clinical Trials Experience in NHL
 
 The data described below reflect exposure to bendamustine hydrochloride in 176 patients with indolent B-cell NHL treated in two single-arm studies.
 The population was 31-84 years of age, 60% male, and 40% female.
@@ -193,9 +194,9 @@ The most common serious adverse reactions occurring in ≥5% of patients were fe
 Other important serious adverse reactions reported in clinical trials and/or post-marketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
-[see Warnings and Precautions (5)] Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
+Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of bendamustine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -208,9 +209,8 @@ General disorders and administration site conditions: Injection site reactions (
 
 Immune system disorders: Anaphylaxis
 
-Infections and infestations: Pneumocystis jiroveci pneumonia
+Infections and infestations: Pneumocystis jirovecii pneumonia, progressive multifocal leukoencephalopathy (PML)
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
-[see Warnings and Precautions (5.5)]
+Skin and subcutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN).

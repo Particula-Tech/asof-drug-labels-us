@@ -2,39 +2,39 @@
 
 ## 2.1 Dosing Instructions for CLL
 
-Recommended Dosage: The recommended dose is 100 mg/m2 administered intravenously over 30 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
+Recommended Dosage: The recommended dosage is 100 mg/m2 administered intravenously over 30 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
 
-Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL: Delay BELRAPZO administration in the event of Grade 4 hematologic toxicity or clinically significant Grade 2 or greater non-hematologic toxicity.
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for CLL: Delay BELRAPZO administration in the event of Grade 4 hematologic toxicity or clinically significant Grade 2 or greater non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate BELRAPZO at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
 
-Consider dose re-escalation in subsequent cycles at the discretion of the treating physician.
+Consider dosage re-escalation in subsequent cycles at the discretion of the treating physician.
 
 ## 2.2 Dosing Instructions for NHL
 
 Recommended Dosage:
 
-The recommended dose is 120 mg/m2 administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
+The recommended dosage is 120 mg/m2 administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
 
-Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL:
 
 Delay BELRAPZO administration in the event of a Grade 4 hematologic toxicity or clinically significant greater or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate BELRAPZO at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+Dosage modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
 ## 2.3 Preparation for Intravenous Administration
 
-BELRAPZO is a cytotoxic drug.
+BELRAPZO is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 BELRAPZO is in a multiple-dose vial.
@@ -52,7 +52,7 @@ Aseptically withdraw the volume needed for the required dose from the 25 mg/mL s
 - 0.9% Sodium Chloride Injection, USP; or
 - 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 
-The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.7 mg/mL.
+The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.05 to 0.7 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.
 The admixture should be a clear and colorless to slightly yellow solution.
 
@@ -94,17 +94,17 @@ Any unused solution should be discarded according to institutional procedures fo
 BELRAPZO contains no antimicrobial preservative.
 The admixture should be prepared as close as possible to the time of patient administration.
 
-If diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2° to 8°C or 36° to 46°F) or for 3 hours when stored at room temperature (15° to 30°C or 59° to 86°F) and room light.
+If diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2°C to 8°C or 36°F to 46°F) or for 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of diluted BELRAPZO must be completed within this period of time.
 
 BELRAPZO (bendamustine hydrochloride injection) is supplied in a multiple-dose vial.
-Retain the partially used vial in original package to protect from light and store refrigerated (2° to 8°C or 36° to 46°F) if additional dose withdrawal from the same vial is intended.
+Retain the partially used vial in original package to protect from light and store refrigerated (2°C to 8°C or 36°F to 46°F) if additional dose withdrawal from the same vial is intended.
 
 ## 2.5 Stability of Partially Used Vials (Needle Punched Vials)
 
 BELRAPZO is supplied as a multiple-dose vial.
 Although it does not contain any antimicrobial preservative, BELRAPZO is bacteriostatic.
-The partially used vials are stable for up to 28 days when stored in its original carton under refrigeration (2° to 8°C or 36° to 46°F).
+The partially used vials are stable for up to 28 days when stored in its original carton under refrigeration (2°C to 8°C or 36°F to 46°F).
 Each vial is not recommended for more than a total of six (6) dose withdrawals.
 
-After first use, store the partially used vial in original carton at 2° to 8°C (36° to 46°F), and then discard after 28 days.
+After first use, store the partially used vial in original carton at 2°C to 8°C (36°F to 46°F), and then discard after 28 days.
