@@ -22,7 +22,7 @@ Atezolizumab clearance was found to decrease over time, with a mean maximal redu
 Specific Populations
 
 Age (21 to 89 years), body weight, sex, albumin levels, tumor burden, region or race, mild or moderate renal impairment [estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m2], mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3× ULN and any AST), level of PD-L1 expression, or performance status had no clinically significant effect on the systemic exposure of atezolizumab.
-Across clinical trials with TECENTRIQ, median atezolizumab clearance in patients who tested positive for treatment-emergent anti-drug antibodies (ADA) was 22% (range: 18% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for treatment-emergent ADA.
+Across clinical trials with TECENTRIQ, median atezolizumab clearance in patients who tested positive for treatment-emergent anti-drug antibodies (ADA) was 19% (range: 18% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for treatment-emergent ADA.
 
 Drug Interaction Studies
 

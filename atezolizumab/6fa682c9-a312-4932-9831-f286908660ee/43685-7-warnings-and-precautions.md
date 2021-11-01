@@ -36,6 +36,12 @@ Systemic corticosteroids were required in 55% (46/83) of patients with pneumonit
 Pneumonitis resolved in 69% of the 83 patients.
 Of the 39 patients in whom TECENTRIQ was withheld for pneumonitis, 25 reinitiated TECENTRIQ after symptom improvement; of these, 4% had recurrence of pneumonitis.
 
+In IMpower010 immune-mediated pneumonitis occurred in 3.8% (19/495) of patients receiving TECENTRIQ as a single agent, including fatal (0.2%), Grade 4 (0.2%), and Grade 3 (0.6%) adverse reactions.
+Pneumonitis led to permanent discontinuation of TECENTRIQ in 2.2% and withholding of TECENTRIQ in 0.8% of patients.
+
+Systemic corticosteroids were required in 63% (12/19) of patients with pneumonitis.
+Pneumonitis resolved in 84% of the 19 patients.
+
 TECENTRIQ in Combination with Cobimetinib and Vemurafenib:
 
 Immune-mediated pneumonitis occurred in 13% (29/230) of patients receiving TECENTRIQ in combination with cobimetinib and vemurafenib, including Grade 3 (1.3%) and Grade 2 (7%) adverse reactions.
@@ -92,8 +98,13 @@ Withhold or permanently discontinue TECENTRIQ depending on severity [see Dosage 
 Adrenal insufficiency occurred in 0.4% (11/2616) of patients receiving TECENTRIQ as a single agent, including Grade 3 (<0.1%) and Grade 2 (0.2%) adverse reactions.
 Adrenal insufficiency led to permanent discontinuation of TECENTRIQ in one patient and withholding of TECENTRIQ in one patient.
 
-Systemic corticosteroids were required in 81% (9/11) of patients with adrenal insufficiency, of these, 3 patients remained on systemic corticosteroids.
+Systemic corticosteroids were required in 82% (9/11) of patients with adrenal insufficiency; of these, 3 patients remained on systemic corticosteroids.
 The single patient in whom TECENTRIQ was withheld for adrenal insufficiency did not reinitiate TECENTRIQ.
+
+In IMpower010 immune-mediated adrenal insufficiency occurred in 1.2% (6/495) of patients receiving TECENTRIQ as a single agent, including Grade 3 (0.4%) adverse reactions.
+Adrenal insufficiency led to permanent discontinuation of TECENTRIQ in 0.6% and withholding of TECENTRIQ in 0.2% of patients.
+
+Systemic corticosteroids were required in 83% (5/6) of patients with adrenal insufficiency; of these, 4 patients remained on systemic corticosteroids.
 
 Hypophysitis
 
@@ -127,6 +138,13 @@ Systemic corticosteroids were required in 25% (1/4) of patients with thyroiditis
 Thyroiditis resolved in 50% of patients.
 The single patient in whom TECENTRIQ was withheld for thyroiditis reinitiated TECENTRIQ; this patient did not have recurrence of thyroiditis.
 
+In IMpower010, thyroiditis occurred in 1.2% (6/495) of patients receiving TECENTRIQ as a single agent, including Grade 2 (0.4%) adverse reactions.
+Thyroiditis led to withholding of TECENTRIQ in one patient.
+
+Hormone replacement therapy was required in 67% (4/6) of patients with thyroiditis.
+Systemic corticosteroids were required in 33% (2/6) of patients with thyroiditis.
+Thyroiditis resolved in 50% of patients.
+
 Hyperthyroidism:
 
 TECENTRIQ as a Single Agent:
@@ -137,6 +155,13 @@ Hyperthyroidism did not lead to permanent discontinuation of TECENTRIQ in any of
 Antithyroid therapy was required in 29% (6/21) of patients with hyperthyroidism.
 Of these 6 patients, the majority remained on antithyroid treatment.
 Of the 3 patients in whom TECENTRIQ was withheld for hyperthyroidism, one patient reinitiated TECENTRIQ; this patient did not have recurrence of hyperthyroidism.
+
+In IMpower010 hyperthyroidism occurred in 6% (32/495) of patients receiving TECENTRIQ as a single agent, including Grade 3 (0.4%) adverse reactions.
+Hyperthyroidism led to permanent discontinuation of TECENTRIQ in 0.8% and withholding of TECENTRIQ in 2.8% of patients.
+
+Antithyroid therapy was required in 38% (12/32) of patients with hyperthyroidism.
+Of these 12 patients, the majority remained on antithyroid treatment.
+Of the 14 patients in whom TECENTRIQ was withheld for hyperthyroidism, 9 patients reinitiated TECENTRIQ.
 
 TECENTRIQ in Combination with Cobimetinib and Vemurafenib:
 
@@ -157,6 +182,13 @@ Hypothyroidism did not lead to permanent discontinuation of TECENTRIQ in any of 
 Hormone replacement therapy was required in 81% (104/128) of patients with hypothyroidism.
 The majority of patients with hypothyroidism remained on thyroid hormone replacement.
 Of the 17 patients in whom TECENTRIQ was withheld for hypothyroidism, 8 reinitiated TECENTRIQ after symptom improvement.
+
+In IMpower010 hypothyroidism occurred in 17% (86/495) of patients receiving TECENTRIQ as a single agent.
+Hypothyroidism led to permanent discontinuation of TECENTRIQ in 1.6% and withholding of TECENTRIQ in 1.6% of patients.
+
+Hormone replacement was required in 57% (49/86) of patients with hypothyroidism.
+The majority of patients with hypothyroidism remained on thyroid hormone replacement.
+Of the 8 patients in whom TECENTRIQ was withheld for hypothyroidism, 3 reinitiated TECENTRIQ after symptom improvement.
 
 TECENTRIQ in Combination with Platinum-based Chemotherapy:
 

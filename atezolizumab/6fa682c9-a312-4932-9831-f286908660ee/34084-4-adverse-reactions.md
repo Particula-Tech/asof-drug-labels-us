@@ -4,6 +4,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Severe and Fatal Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)]
 - Infusion-Related Reactions [see Warnings and Precautions (5.2)]
+- Complications of Allogeneic HSCT after PD-1/PD-L1 Inhibitors [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,6 +14,7 @@ The data described in WARNINGS AND PRECAUTIONS reflect exposure to TECENTRIQ as 
 TECENTRIQ was administered at a dose of 1200 mg intravenously every 3 weeks in all studies except PCD4989g.
 Among the 2616 patients who received a single-agent TECENTRIQ, 36% were exposed for longer than 6 months and 20% were exposed for longer than 12 months.
 Using the dataset described for patients who received TECENTRIQ as a single-agent, the most common adverse reactions in ≥ 20% of patients were fatigue/asthenia (48%), decreased appetite (25%), nausea (24%), cough (22%), and dyspnea (22%).
+In addition, the data reflect exposure to TECENTRIQ as a single agent as adjuvant therapy in 495 patients with early stage NSCLC enrolled in a randomized study (IMpower010).
 
 In addition, the data reflect exposure to TECENTRIQ in combination with other antineoplastic drugs in 2421 patients with NSCLC (N = 2223) or SCLC (N = 198) enrolled in five randomized, active-controlled trials, including IMpower150, IMpower130 and IMpower133.
 Among the 2421 patients, 53% were exposed to TECENTRIQ for longer than 6 months and 29% were exposed to TECENTRIQ for longer than 12 months.
@@ -93,6 +95,59 @@ Table 5: Grades 3–4 Laboratory Abnormalities in ≥ 1% of Patients with Urothe
 
 Non-Small Cell Lung Cancer (NSCLC)
 
+Adjuvant Treatment of Early-stage NSCLC
+
+IMpower010
+
+The safety of TECENTRIQ was evaluated in IMpower010, a multicenter, open-label, randomized trial for the adjuvant treatment of patients with stage IB (tumors ≥ 4 cm) - IIIA NSCLC who had complete tumor resection and received up to 4 cycles of cisplatin-based adjuvant chemotherapy.
+Patients received TECENTRIQ 1200 mg every 3 weeks (n=495) for 1 year (16 cycles), unless disease progression or unacceptable toxicity occurred, or best supportive care [see Clinical Studies (14.2)].
+The median number of cycles received was 16 (range: 1, 16).
+
+Fatal adverse reactions occurred in 1.8% of patients receiving TECENTRIQ; these included multiple organ dysfunction syndrome, pneumothorax, interstitial lung disease, arrhythmia, acute cardiac failure, myocarditis, cerebrovascular accident, death of unknown cause, and acute myeloid leukemia (1 patient each).
+
+Serious adverse reactions occurred in 18% of patients receiving TECENTRIQ.
+The most frequent serious adverse reactions (>1%) were pneumonia (1.8%), pneumonitis (1.6%), and pyrexia (1.2%).
+
+TECENTRIQ was discontinued due to adverse reactions in 18% of patients; the most common adverse reactions (≥1%) leading to TECENTRIQ discontinuation were pneumonitis (2.2%), hypothyroidism (1.6%), increased aspartate aminotranferase (1.4%), arthralgia (1.0%), and increased alanine aminotransferase (1.0%).
+
+Adverse reactions leading to interruption of TECENTRIQ occurred in 29% of patients; the most common (>1%) were rash (3.0%), hyperthyroidism (2.8%), hypothyroidism (1.6%), increased AST (1.6%), pyrexia (1.6%), increased ALT (1.4%), upper respiratory tract infection (1.4%), headache (1.2%), peripheral neuropathy (1.2%), and pneumonia (1.2%).
+
+Tables 6 and 7 summarize adverse reactions and selected laboratory abnormalities in patients receiving TECENTRIQ in IMpower010.
+
+Table 6: Adverse Reactions Occurring in ≥10% of Patients with Early Stage NSCLC Receiving TECENTRIQ in IMpower010
+
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse ReactionGraded per NCI CTCAE v4.0 | TECENTRIQ N = 495 |  | Best Supportive Care N = 495 |  |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| RashIncludes rash, dermatitis, genital rash, skin exfoliation, rash maculo-papular, rash erythematous, rash papular, lichen planus, eczema asteatotic, dermatitis exfoliative, palmar-plantar erythrodysaesthesia syndrome, dyshidrotic eczema, eczema, drug eruption, rash pruritic, toxic skin eruption, dermatitis acneiform | 17 | 1.2 | 1.4 | 0 |
+| Pruritus | 10 | 0 | 0.6 | 0 |
+| Endocrine Disorders |  |  |  |  |
+| HypothyroidismIncludes hypothyroidism, autoimmune hypothyroidism, primary hypothyroidism, blood thyroid stimulating hormone increased | 14 | 0 | 0.6 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| CoughProductive cough, upper airway cough syndrome, cough | 16 | 0 | 11 | 0 |
+| General |  |  |  |  |
+| PyrexiaIncludes pyrexia, body temperature increased, hyperthermia | 14 | 0.8 | 2.2 | 0.2 |
+| FatigueIncludes fatigue, asthenia | 14 | 0.6 | 5 | 0.2 |
+| Nervous System Disorders |  |  |  |  |
+| Peripheral neuropathyIncludes paraesthesia, neuropathy peripheral, peripheral sensory neuropathy, hypoaesthesia, polyneuropathy, dysaesthesia, neuralgia, axonal neuropathy | 12 | 0.4 | 7 | 0.2 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal painIncludes myalgia, bone pain, back pain, spinal pain, musculoskeletal chest pain, pain in extremity, neck pain, non-cardiac chest pain, musculoskeletal discomfort, musculoskeletal stiffness, musculoskeletal pain | 14 | 0.8 | 9 | 0.2 |
+| ArthralgiaIncludes arthralgia, arthritis | 11 | 0.6 | 6 | 0 |
+
+Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with Early Stage NSCLC Receiving TECENTRIQ in IMpower010
+
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory AbnormalityGraded per NCI CTCAE v4.0, except for increased creatinine which only includes patients with creatinine increase based on upper limit of normal definition for Grade 1 events (NCI CTCAE v5.0). | TECENTRIQThe denominators used to calculate the rate varied from 78-480 for BSC arm and 483 for atezolizumab are for all tests of interest based on the number of patients with a baseline value and at least one post-treatment value. |  | Best Supportive Care |  |
+| Chemistry |  |  |  |  |
+| Increased aspartate aminotransferase | 34 | 2.5 | 18 | 0 |
+| Increased alanine aminotransferase | 30 | 3.3 | 19 | 0.4 |
+| Hyperkalemia | 24 | 3.5 | 15 | 2.5 |
+| Increased blood creatinine | 31 | 0.2 | 23 | 0.2 |
+
+Metastatic Chemotherapy-Naïve NSCLC
+
 IMpower110
 
 The safety of TECENTRIQ was evaluated in IMpower110, a multicenter, international, randomized, open-label study in 549 chemotherapy-naïve patients with stage IV NSCLC, including those with EGFR or ALK genomic tumor aberrations.
@@ -109,9 +164,9 @@ TECENTRIQ was discontinued due to adverse reactions in 6% of patients; the most 
 
 Adverse reactions leading to interruption of TECENTRIQ occurred in 26% of patients; the most common (>1%) were ALT increased (2.1%), AST increased (2.1%), pneumonitis (2.1%), pyrexia (1.4%), pneumonia (1.4%) and upper respiratory tract infection (1.4%).
 
-Tables 6 and 7 summarize adverse reactions and selected laboratory abnormalities in patients receiving TECENTRIQ in IMpower110.
+Tables 8 and 9 summarize adverse reactions and selected laboratory abnormalities in patients receiving TECENTRIQ in IMpower110.
 
-Table 6: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving TECENTRIQ in IMpower110
+Table 8: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving TECENTRIQ in IMpower110
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -130,7 +185,7 @@ Table 6: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving 
 | Cough | 12 | 0.3 | 10 | 0 |
 | Graded per NCI CTCAE v4.0 |  |  |  |  |
 
-Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Receiving TECENTRIQ in IMpower110
+Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Receiving TECENTRIQ in IMpower110
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -164,9 +219,9 @@ TECENTRIQ was discontinued due to adverse reactions in 15% of patients; the most
 
 Adverse reactions leading to interruption of TECENTRIQ occurred in 48%; the most common (>1%) were neutropenia, thrombocytopenia, fatigue/asthenia, diarrhea, hypothyroidism, anemia, pneumonia, pyrexia, hyperthyroidism, febrile neutropenia, increased ALT, dyspnea, dehydration and proteinuria.
 
-Tables 8 and 9 summarize adverse reactions and laboratory abnormalities in patients receiving TECENTRIQ with bevacizumab, paclitaxel, and carboplatin in IMpower150.
+Tables 10 and 11 summarize adverse reactions and laboratory abnormalities in patients receiving TECENTRIQ with bevacizumab, paclitaxel, and carboplatin in IMpower150.
 
-Table 8: Adverse Reactions Occurring in ≥15% of Patients with NSCLC Receiving TECENTRIQ in IMpower150
+Table 10: Adverse Reactions Occurring in ≥15% of Patients with NSCLC Receiving TECENTRIQ in IMpower150
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -199,7 +254,7 @@ Table 8: Adverse Reactions Occurring in ≥15% of Patients with NSCLC Receiving 
 | ProteinuriaData based on Preferred Terms since laboratory data for proteinuria were not systematically collected | 16 | 3 | 15 | 3 |
 | Graded per NCI CTCAE v4.0 |  |  |  |  |
 
-Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in IMpower150
+Table 11: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in IMpower150
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -240,9 +295,9 @@ TECENTRIQ was discontinued due to adverse reactions in 13% of patients; the most
 
 Adverse reactions leading to interruption of TECENTRIQ occurred in 62% of patients; the most common (>1%) were neutropenia, thrombocytopenia, anemia, diarrhea, fatigue/asthenia, pneumonia, dyspnea, pneumonitis, pyrexia, nausea, acute kidney injury, vomiting, pulmonary embolism, arthralgia, infusion-related reaction, abdominal pain, chronic obstructive pulmonary disease exacerbation, dehydration, and hypokalemia.
 
-Tables 10 and 11 summarize adverse reactions and laboratory abnormalities in patients receiving TECENTRIQ with paclitaxel protein-bound and carboplatin in IMpower130.
+Tables 12 and 13 summarize adverse reactions and laboratory abnormalities in patients receiving TECENTRIQ with paclitaxel protein-bound and carboplatin in IMpower130.
 
-Table 10: Adverse Reactions Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in IMpower130
+Table 12: Adverse Reactions Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in IMpower130
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -268,7 +323,7 @@ Table 10: Adverse Reactions Occurring in ≥20% of Patients with NSCLC Receiving
 | Decreased appetite | 30 | 2.1 | 26 | 2.2 |
 | Graded per NCI CTCAE v4.0 |  |  |  |  |
 
-Table 11: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Receiving TECENTRIQ in IMpower130
+Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Receiving TECENTRIQ in IMpower130
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -312,9 +367,9 @@ TECENTRIQ was discontinued due to adverse reactions in 8% of patients.
 The most common adverse reactions leading to TECENTRIQ discontinuation were fatigue, infections and dyspnea.
 Adverse reactions leading to interruption of TECENTRIQ occurred in 25% of patients; the most common (>1%) were pneumonia, liver function test abnormality, dyspnea, fatigue, pyrexia, and back pain.
 
-Tables 12 and 13 summarize adverse reactions and laboratory abnormalities, respectively, in OAK.
+Tables 14 and 15 summarize adverse reactions and laboratory abnormalities, respectively, in OAK.
 
-Table 12: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving TECENTRIQ in OAK
+Table 14: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving TECENTRIQ in OAK
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -338,7 +393,7 @@ Table 12: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving
 | RashIncludes rash, erythematous rash, generalized rash, maculopapular rash, papular rash, pruritic rash, pustular rash, pemphigoid | 12 | <1 | 10 | 0 |
 | Graded per NCI CTCAE v4.0 |  |  |  |  |
 
-Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in OAK
+Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in OAK
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -373,9 +428,9 @@ The most frequent adverse reaction requiring permanent discontinuation in >2% of
 
 Adverse reactions leading to interruption of TECENTRIQ occurred in 59% of patients; the most common (>1%) were neutropenia (22%), anemia (9%), leukopenia (7%), thrombocytopenia (5%), fatigue (4.0%), infusion-related reaction (3.5%), pneumonia (2.0%), febrile neutropenia (1.5%), increased ALT (1.5%), and nausea (1.5%).
 
-Tables 14 and 15 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ with carboplatin and etoposide in IMpower133.
+Tables 16 and 17 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ with carboplatin and etoposide in IMpower133.
 
-Table 14: Adverse Reactions Occurring in ≥20% of Patients with SCLC Receiving TECENTRIQ in IMpower133
+Table 16: Adverse Reactions Occurring in ≥20% of Patients with SCLC Receiving TECENTRIQ in IMpower133
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -392,7 +447,7 @@ Table 14: Adverse Reactions Occurring in ≥20% of Patients with SCLC Receiving 
 | Decreased appetite | 27 | 1 | 18 | 0 |
 | Graded per NCI CTCAE v4.0 |  |  |  |  |
 
-Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with SCLC Receiving TECENTRIQ in IMpower133
+Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with SCLC Receiving TECENTRIQ in IMpower133
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -436,9 +491,9 @@ Adverse reactions leading to interruption of TECENTRIQ occurred in 41% of patien
 
 Immune-related adverse reactions requiring systemic corticosteroid therapy occurred in 12% of patients in the TECENTRIQ and bevacizumab arm.
 
-Tables 16 and 17 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ and bevacizumab in IMbrave150.
+Tables 18 and 19 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ and bevacizumab in IMbrave150.
 
-Table 16: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+Table 18: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving TECENTRIQ in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -469,7 +524,7 @@ Table 16: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving T
 | Injury, Poisoning and Procedural Complications |  |  |  |  |
 | Infusion-Related Reaction | 11 | 2.4 | 0 | 0 |
 
-Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving TECENTRIQ in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -513,9 +568,9 @@ The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ discontinuatio
 Adverse reactions leading to interruption of TECENTRIQ occurred in 68% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
 The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
 
-Tables 18 and 19 summarize the incidence of adverse reactions and laboratory abnormalities in Study IMspire150.
+Tables 20 and 21 summarize the incidence of adverse reactions and laboratory abnormalities in Study IMspire150.
 
-Table 18: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 TECENTRIQ in IMspire150)
+Table 20: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 TECENTRIQ in IMspire150)
 
 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -562,7 +617,7 @@ Respiratory, thoracic and mediastinal disorders: Dyspnea, oropharyngeal pain
 
 Skin and Subcutaneous Tissue Disorders: Vitiligo
 
-Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving TECENTRIQ Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4) in IMspire150
+Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving TECENTRIQ Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4) in IMspire150
 
 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -604,6 +659,10 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to atezolizumab in the studies described above with the incidence of antibodies in other studies or to other products may be misleading.
 
+Among 111 patients in IMvigor210 (Cohort 1), 48% tested positive for treatment-emergent ADA at one or more post-dose time points.
+Patients who tested positive for treatment-emergent ADA also had decreased systemic atezolizumab exposures.
+The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
+
 Among 565 patients with NSCLC in OAK, 30% tested positive for treatment-emergent anti-drug antibodies (ADA) at one or more post-dose time points.
 The median onset time to ADA formation was 3 weeks.
 The ability of these binding ADA to neutralize atezolizumab is unknown.
@@ -611,8 +670,10 @@ Patients who tested positive for treatment-emergent ADA also had decreased syste
 Exploratory analyses showed that the subset of patients who were ADA positive by week 4 (21%; 118/560) appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for treatment-emergent ADA by week 4 [see Clinical Studies (14.2)].
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
 
-Among 111 patients in IMvigor210 (Cohort 1), 48% tested positive for treatment-emergent ADA at one or more post-dose time points.
-Patients who tested positive for treatment-emergent ADA also had decreased systemic atezolizumab exposures.
+Among 487 ADA-evaluable patients with NSCLC who received atezolizumab in IMpower010, 31% (n=152) tested positive for treatment-emergent ADA at one or more post-dose time points.
+Among 241 patients in the PD-L1 SP263 ≥1% TC Stage II-IIIA population, 28% (n=67) tested positive for treatment-emergent ADA at one or more post-dose time points.
+Patients who tested positive for treatment-emergent ADA had lower systemic atezolizumab exposure as compared to patients who were ADA-negative [see Clinical Pharmacology (12.3)].
+There were insufficient numbers of patients and DFS events in the ADA-positive subgroup (19%; 39/207 by week 7) to determine whether ADA alters the efficacy of atezolizumab.
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
 
 Among 364 ADA-evaluable patients with NSCLC who received TECENTRIQ with bevacizumab, paclitaxel and carboplatin in IMpower150, 36% (n=132) tested positive for treatment-emergent ADA at one or more post-dose time points and 83% of these 132 patients tested ADA positive prior to receiving the second dose of atezolizumab.

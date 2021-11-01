@@ -4,6 +4,8 @@
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
+Select patients with Stage II to IIIA non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on PD-L1 expression on tumor cells [see Clinical Studies (14.2)].
+
 Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.2)].
 
 Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
@@ -14,16 +16,17 @@ An FDA-approved test for the detection of other BRAF V600 mutations for this use
 
 ## 2.2 Recommended Dosage
 
-The recommended dosages of TECENTRIQ as a single agent are presented in Table 1.
+The recommended dosages of TECENTRIQ administered intravenously as a single agent are presented in Table 1.
 
 Table 1: Recommended Dosage of TECENTRIQ as a Single Agent
 
 | Indication | Recommended Dosage of TECENTRIQ60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. | Duration of Therapy |
 | --- | --- | --- |
 | Urothelial Carcinoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
-| NSCLC |  |  |
+| Metastatic NSCLC |  |  |
+| Adjuvant Treatment of NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 
-The recommended dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
+The recommended intravenous dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with TECENTRIQ for the recommended dosage information, as appropriate.
 
 Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic Agents
