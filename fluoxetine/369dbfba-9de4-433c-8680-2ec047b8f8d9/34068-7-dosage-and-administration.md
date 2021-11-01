@@ -83,7 +83,7 @@ Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combi
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 Periodically re-examine the need for continued pharmacotherapy.
 
-Children and adolescents (10 to 17 years of age) — Administer olanzapine and fluoxetine combination once daily in the evening, generally beginning with 2.5 mg of olanzapine and 20 mg of fluoxetine.
+Children and adolescents (10 -17 years of age) — Administer olanzapine and fluoxetine combination once daily in the evening, generally beginning with 2.5 mg of olanzapine and 20 mg of fluoxetine.
 Make dosage adjustments, if indicated, according to efficacy and tolerability.
 Safety of co-administration of doses above 12 mg of olanzapine with 50 mg of fluoxetine has not been evaluated in pediatric clinical studies.
 Periodically re-examine the need for continued pharmacotherapy.

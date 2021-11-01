@@ -7,7 +7,7 @@ When using fluoxetine and olanzapine in combination, also refer to the Warnings 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with Major Depressive Disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with Major Depressive Disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -23,9 +23,9 @@ Table 2: Suicidality per 1000 Patients Treated
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25 to 64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -69,7 +69,7 @@ Treatment with fluoxetine and any concomitant serotonergic agents, should be dis
 
 ## 5.3 Allergic Reactions and Rash
 
-In U.S. fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
+In US fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
 Among the cases of rash and/or urticaria reported in premarketing clinical trials, almost a third were withdrawn from treatment because of the rash and/or systemic signs or symptoms associated with the rash.
 Clinical findings reported in association with rash include fever, leukocytosis, arthralgias, edema, carpal tunnel syndrome, respiratory distress, lymphadenopathy, proteinuria, and mild transaminase elevation.
 Most patients improved promptly with discontinuation of fluoxetine and/or adjunctive treatment with antihistamines or steroids, and all patients experiencing these reactions were reported to recover completely.
@@ -100,18 +100,18 @@ However, prior to initiating treatment with an antidepressant, patients with dep
 It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for Symbyax].
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
+In US placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
-No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
-In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
+In US placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
+No patients reported mania/hypomania in US placebo-controlled clinical trials for bulimia.
+In US fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
 
 ## 5.5 Seizures
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
-No patients reported convulsions in U.S. placebo-controlled clinical trials for either OCD or bulimia.
-In U.S. fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
+In US placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
+No patients reported convulsions in US placebo-controlled clinical trials for either OCD or bulimia.
+In US fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
 The percentage appears to be similar to that associated with other marketed drugs effective in the treatment of Major Depressive Disorder.
 Fluoxetine should be introduced with care in patients with a history of seizures.
 
@@ -119,14 +119,14 @@ Fluoxetine should be introduced with care in patients with a history of seizures
 
 Significant weight loss, especially in underweight depressed or bulimic patients, may be an undesirable result of treatment with fluoxetine.
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, 11% of patients treated with fluoxetine and 2% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for Major Depressive Disorder, 11% of patients treated with fluoxetine and 2% of patients treated with placebo reported anorexia (decreased appetite).
 Weight loss was reported in 1.4% of patients treated with fluoxetine and in 0.5% of patients treated with placebo.
 However, only rarely have patients discontinued treatment with fluoxetine because of anorexia or weight loss [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for OCD, 17% of patients treated with fluoxetine and 10% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for OCD, 17% of patients treated with fluoxetine and 10% of patients treated with placebo reported anorexia (decreased appetite).
 One patient discontinued treatment with fluoxetine because of anorexia [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
 Patients treated with fluoxetine 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16-week double-blind trial.
 Weight change should be monitored during therapy.
 
@@ -157,22 +157,22 @@ More severe and/or acute cases have been associated with hallucination, syncope,
 
 ## 5.10 Anxiety and Insomnia
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with fluoxetine and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
+In US placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with fluoxetine and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
 
-In U.S. placebo-controlled clinical trials for OCD, insomnia was reported in 28% of patients treated with fluoxetine and in 22% of patients treated with placebo.
+In US placebo-controlled clinical trials for OCD, insomnia was reported in 28% of patients treated with fluoxetine and in 22% of patients treated with placebo.
 Anxiety was reported in 14% of patients treated with fluoxetine and in 7% of patients treated with placebo.
 
-In U.S. placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
+In US placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg and in 9% and 5% of patients treated with placebo.
 
-Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
+Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in US placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
 ## 5.11 QT Prolongation
 
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
-Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdosage (10.1), and Clinical Pharmacology (12.3)].
+Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdosage (10), and Clinical Pharmacology (12.3)].
 
 Pimozide and thioridazine are contraindicated for use with fluoxetine.
 Avoid the concomitant use of drugs known to prolong the QT interval.
@@ -218,3 +218,12 @@ Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conc
 ## 5.16 Fluoxetine and Olanzapine in Combination
 
 When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
+
+## 5.17 Sexual Dysfunction
+
+Use of SSRIs, including fluoxetine, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+It is important for prescribers to inquire about sexual function prior to initiation of fluoxetine capsules and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

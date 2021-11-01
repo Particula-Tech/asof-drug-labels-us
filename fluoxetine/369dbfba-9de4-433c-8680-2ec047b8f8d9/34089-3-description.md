@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
-Fluoxetine Capsules, USP are a selective serotonin reuptake inhibitor for oral administration.
-They are also marketed for the treatment of premenstrual dysphoric disorder (Sarafem®, fluoxetine hydrochloride).
+Fluoxetine capsules, USP are a selective serotonin reuptake inhibitor for oral administration.
 It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine hydrochloride and has the following structural formula:
 
 C17H18F3NO•HCl M.W.

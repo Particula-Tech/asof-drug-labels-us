@@ -1,10 +1,8 @@
 # MEDICATION GUIDE
 
-Fluoxetine (floo ox' e teen)
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Capsules, USP
-
-for oral use
+Fluoxetine (floo ox' e teen) Capsules for oral use
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
@@ -111,6 +109,21 @@ The symptoms may include:
 - shortness of breath
 - dizziness or fainting
 
+11.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, may cause sexual problems.
+
+- Symptoms in males may include:
+  - Delayed ejaculation or inability to have an ejaculation
+  - Decreased sex drive
+  - Problems getting or keeping an erection
+- Symptoms in females may include:
+  - Decreased sex drive
+  - Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with fluoxetine capsules.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop fluoxetine capsules without first talking to your healthcare provider.
 Stopping fluoxetine capsules too quickly may cause serious symptoms including:
 
@@ -188,7 +201,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
   - If you become pregnant while taking fluoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
     You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
-- are breastfeeding or plan to breastfeed.
+- are breast-feeding or plan to breast-feed.
   Fluoxetine may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if taking fluoxetine capsules.
 
@@ -200,7 +213,7 @@ Do not start or stop any medicine while taking fluoxetine capsules without talki
 
 If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-| Symbyax®Sarafem® |
+| Symbyax® Sarafem® |
 | --- |
 
 How should I take fluoxetine capsules?
@@ -296,17 +309,10 @@ Brands listed are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Czech Republic By:
-
-Teva Czech Industries, s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-L 8/2020
+M 10/2021

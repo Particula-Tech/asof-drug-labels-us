@@ -76,6 +76,11 @@ Patients should be advised to take fluoxetine exactly as prescribed, and to cont
 Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their healthcare provider [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
+Sexual Dysfunction
+
+Advise patients that use of fluoxetine capsules may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
+
 Use in Specific Populations
 
 Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
@@ -94,17 +99,12 @@ Pediatric Use of Fluoxetine and olanzapine in combination — Safety and efficac
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured In Czech Republic By:
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Teva Czech Industries, s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-AL 8/2020
+AM 10/2021
