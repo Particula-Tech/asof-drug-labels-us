@@ -4,4 +4,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0981-9.0 Revised: 03/2021
+LAB-0981-10.0 Revised: 10/2021
