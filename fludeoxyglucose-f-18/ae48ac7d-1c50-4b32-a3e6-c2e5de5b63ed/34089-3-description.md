@@ -3,7 +3,7 @@
 ## 11.1 Chemical Characteristics
 
 Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
-The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5 with a molecular weight of 181.26, and has the following chemical structure:
+The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C 6H 1118FO 5 with a molecular weight of 181.26, and has the following chemical structure:
 
 Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
 Each mL contains between 0.740 to 11.1GBq (20.0-300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
