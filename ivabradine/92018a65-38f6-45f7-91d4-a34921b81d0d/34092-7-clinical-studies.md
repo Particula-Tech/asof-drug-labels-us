@@ -29,16 +29,16 @@ In the overall treatment population, Corlanor had no statistically significant b
 Table 3.
 SHIFT – Incidence of the Primary Composite Endpoint and Components
 
-|  | Corlanor (N = 3,241) |  |  | Placebo (N = 3,264) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Endpoint | n | % | % PY | n | % | % PY | Hazard Ratio | [95% CI] | p-value |
-| Primary composite endpoint: Time to first hospitalization for worsening heart failure or cardiovascular deatha | 793 | 24.5 | 14.5 | 937 | 28.7 | 17.7 | 0.82 | [0.75, 0.90] | < 0.0001 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Corlanor (N = 3,241) |  |  | Placebo (N = 3,264) |  |  |  |  |  |
+| Primary composite endpoint: Time to first hospitalization for worsening heart failure or cardiovascular deathPatients who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. | 793 | 24.5 | 14.5 | 937 | 28.7 | 17.7 | 0.82 | [0.75, 0.90] | < 0.0001 |
 | Hospitalization for worsening heart failure | 505 | 15.6 | 9.2 | 660 | 20.2 | 12.5 |  |  |  |
 | Cardiovascular death as first event | 288 | 8.9 | 4.8 | 277 | 8.5 | 4.7 |  |  |  |
 | Patients with events at any time |  |  |  |  |  |  |  |  |  |
-| Hospitalization for worsening heart failureb | 514 | 15.9 | 9.4 | 672 | 20.6 | 12.7 | 0.74 | [0.66, 0.83] |  |
-| Cardiovascular deathb | 449 | 13.9 | 7.5 | 491 | 15.0 | 8.3 | 0.91 | [0.80, 1.03] |  |
-| a Patients who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) × 100; % PY: annual incidence rate = (n/number of patient-years) × 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
+| Hospitalization for worsening heart failureAnalyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. | 514 | 15.9 | 9.4 | 672 | 20.6 | 12.7 | 0.74 | [0.66, 0.83] |  |
+| Cardiovascular death | 449 | 13.9 | 7.5 | 491 | 15.0 | 8.3 | 0.91 | [0.80, 1.03] |  |
+| N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) × 100; % PY: annual incidence rate = (n/number of patient-years) × 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
 
 The Kaplan-Meier curve (Figure 3) shows time to first occurrence of the primary composite endpoint of hospitalization for worsening heart failure or cardiovascular death in the overall study.
 
@@ -50,7 +50,7 @@ Many of these results are shown in Figure 4.
 Such analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses.
 
 Most of the results show effects consistent with the overall study result.
-Corlanor’s benefit on the primary endpoint in SHIFT appeared to decrease as the dose of beta-blockers increased, with little if any benefit demonstrated in patients taking guideline-defined target doses of beta-blockers.
+Corlanor's benefit on the primary endpoint in SHIFT appeared to decrease as the dose of beta-blockers increased, with little if any benefit demonstrated in patients taking guideline-defined target doses of beta-blockers.
 
 Figure 4.
 Effect of Treatment on Primary Composite Endpoint in Subgroups
@@ -88,5 +88,6 @@ Patients had to be clinically stable for at least 4 weeks and on optimized medic
 
 Patients were randomized in a 2:1 ratio to receive Corlanor or placebo.
 Doses of study medication were titrated over a 2- to 8-week period to achieve a 20% heart rate reduction without inducing bradycardia.
+
 The target heart rate reduction was obtained at the end of the titration period in a significantly higher proportion of patients with Corlanor vs. placebo (72% vs. 16% respectively; Odds Ratio = 15; 95% CI = [5; 47]).
 A statistically significant reduction in HR was observed with Corlanor compared to placebo at the end of the titration period (-23 ± 11 bpm vs. -2 ± 12 bpm respectively).

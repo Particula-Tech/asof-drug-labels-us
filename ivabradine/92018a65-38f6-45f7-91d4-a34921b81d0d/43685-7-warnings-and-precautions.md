@@ -25,7 +25,9 @@ Bradycardia may increase the risk of QT prolongation which may lead to severe ve
 Concurrent use of verapamil or diltiazem will increase Corlanor exposure, may themselves contribute to heart rate lowering, and should be avoided [see Clinical Pharmacology (12.3)].
 Avoid use of Corlanor in patients with 2nd degree atrioventricular block unless a functioning demand pacemaker is present [see Contraindications (4)].
 
-Pediatric Patients Bradycardia and first-degree heart block were observed in pediatric patients treated with Corlanor.
+Pediatric Patients
+
+Bradycardia and first-degree heart block were observed in pediatric patients treated with Corlanor.
 Asymptomatic and symptomatic bradycardia were observed in 6.8% and 4.1% of pediatric patients treated with Corlanor, respectively.
 In the placebo treatment arm, 2.4% of pediatric patients had asymptomatic bradycardia, but none had symptomatic bradycardia.
 Bradycardia was managed through dose titration but did not result in study drug discontinuation [see Dosage and Administration (2.2)].

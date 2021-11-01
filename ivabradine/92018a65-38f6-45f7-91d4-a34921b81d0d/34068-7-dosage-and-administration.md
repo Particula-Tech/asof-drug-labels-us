@@ -17,9 +17,7 @@ Dose Adjustment for Adults
 | --- | --- |
 | > 60 bpm | Increase dose by 2.5 mg (given twice daily) up to a maximum dose of 7.5 mg twice daily |
 | 50-60 bpm | Maintain dose |
-| < 50 bpm or signs and symptoms of bradycardia | Decrease dose by 2.5 mg (given twice daily); if current dose is 2.5 mg twice daily, discontinue therapy* |
-
-*[see Warnings and Precautions (5.3)]
+| < 50 bpm or signs and symptoms of bradycardia | Decrease dose by 2.5 mg (given twice daily); if current dose is 2.5 mg twice daily, discontinue therapy[see Warnings and Precautions (5.3)] |
 
 ## 2.2 Pediatric Patients
 

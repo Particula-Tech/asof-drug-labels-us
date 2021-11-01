@@ -2,12 +2,12 @@
 
 Tablets:
 
-Corlanor (ivabradine) 5 mg tablets are formulated as salmon-colored, oval-shaped, film-coated tablets functionally scored on both edges, marked with “5” on one face and bisected on the other face.
+Corlanor (ivabradine) 5 mg tablets are formulated as salmon-colored, oval-shaped, film-coated tablets functionally scored on both edges, marked with "5" on one face and bisected on the other face.
 They are supplied as follows:
 
 - Bottles of 60 tablets with child-resistant closure (NDC 55513-800-60)
 
-Corlanor (ivabradine) 7.5 mg tablets are formulated as salmon-colored, triangular-shaped, film-coated tablets debossed with “7.5” on one face and plain on the other face.
+Corlanor (ivabradine) 7.5 mg tablets are formulated as salmon-colored, triangular-shaped, film-coated tablets debossed with "7.5" on one face and plain on the other face.
 They are supplied as follows:
 
 - Bottles of 60 tablets with child-resistant closure (NDC 55513-810-60)

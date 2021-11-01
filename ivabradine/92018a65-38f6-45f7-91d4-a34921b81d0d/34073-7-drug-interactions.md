@@ -13,7 +13,7 @@ Avoid concomitant use of moderate CYP3A4 inhibitors when using Corlanor.
 Examples of moderate CYP3A4 inhibitors include diltiazem, verapamil, and grapefruit juice [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 Avoid concomitant use of CYP3A4 inducers when using Corlanor.
-Examples of CYP3A4 inducers include St. John’s wort, rifampicin, barbiturates, and phenytoin [see Clinical Pharmacology (12.3)].
+Examples of CYP3A4 inducers include St. John's wort, rifampicin, barbiturates, and phenytoin [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Negative Chronotropes
 

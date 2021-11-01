@@ -61,7 +61,7 @@ No dose adjustment is required when ivabradine is concomitantly administered wit
 Effect of Ivabradine on Metformin Pharmacokinetics
 
 Ivabradine, dosed at 10 mg twice daily to steady state, did not affect the pharmacokinetics of metformin (an organic cation transporter [OCT2] sensitive substrate).
-The geometric mean (90% confidence interval [CI]) ratios of Cmax and AUCinf of metformin, with and without ivabradine were 0.98 [0.83–1.15] and 1.02 [0.86–1.22], respectively.
+The geometric mean (90% confidence interval [CI]) ratios of Cmax and AUCinf of metformin, with and without ivabradine were 0.98 [0.83-1.15] and 1.02 [0.86-1.22], respectively.
 No dose adjustment is required for metformin when administered with Corlanor.
 
 Specific Populations
