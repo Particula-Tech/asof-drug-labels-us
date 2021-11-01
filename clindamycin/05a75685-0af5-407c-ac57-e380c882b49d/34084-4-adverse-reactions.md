@@ -2,7 +2,7 @@
 
 The following reactions have been reported with the use of clindamycin.
 
-Infections and Infestations: Clostridium difficile colitis
+Infections and Infestations: Clostridioides difficile colitis
 
 Gastrointestinal: Antibiotic-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).

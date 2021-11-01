@@ -6,7 +6,7 @@ Clindamycin is a semisynthetic antibiotic produced by a 7(S)-chloro-substitution
 
 The chemical name of clindamycin phosphate is L-threo-α-D-galacto-Octopyranoside, methyl-7-chloro-6,7,8-trideoxy-6-[[(1-methyl-4-propyl-2-pyrrolidinyl)carbonyl] amino]-1-thio-, 2-(dihydrogen phosphate), (2S-trans)-.
 
-The molecular formula is C18H34CIN208PS and the molecular weight is 504.96.
+The molecular formula is C18H34ClN2O8PS and the molecular weight is 504.96.
 
 The structural formula is represented below:
 
