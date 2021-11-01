@@ -5,6 +5,6 @@
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1190-6.0
+LAB-1190-7.0
 
-Revised: 03/2021
+Revised: 10/2021
