@@ -19,7 +19,8 @@ To increase renal clearance of radioactivity and to minimize radiation dose to t
 ## 2.4 Radiation Dosimetry
 
 The converted radiation absorbed doses in rem/mCi are shown in Table 1.
-These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.1
+These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.
+1
 
 Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups.
 
