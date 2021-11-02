@@ -4,6 +4,8 @@ Phytonadione Tablets USP, 5 mg are light yellow to yellow colored, round shaped,
 
 NDC 70710-1014-1 in bottle of 100 tablets
 
+NDC 70710-1014-3 in bottle of 30 tablets
+
 NDC 70710-1014-4 in carton of 100 tablets (10 x 10 unit-dose)
 
 ## Storage
