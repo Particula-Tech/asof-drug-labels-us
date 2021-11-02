@@ -5,16 +5,16 @@
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1 Table 1.
-Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
+Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
 | Age Range | Drug-Placebo Difference in Number of patients of Suicidal Thoughts and Behaviors per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 years old | 14 additional patients |
-| 18-24 years old | 5 additional patients |
+| 18 to 24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25-64 years old | 1 fewer patients |
+| 25 to 64 years old | 1 fewer patient |
 | ≥65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
@@ -53,7 +53,7 @@ These patients were excluded from clinical studies during the product's premarke
 In clinical trials of escitalopram, cases of convulsion have been reported in association with escitalopram treatment.
 Like other drugs effective in the treatment of major depressive disorder, escitalopram should be introduced with care in patients with a history of seizure disorder.
 
-## 5.5 Activation of Mania/Hypomania
+## 5.5 Activation of Mania or Hypomania
 
 In patients with bipolar disorder, treating a depressive episode with escitalopram or another antidepressant may precipitate a mixed/manic episode.
 In placebo-controlled trials of escitalopram in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treated with escitalopram and in none of the 592 patients treated with placebo.
@@ -103,3 +103,12 @@ The recommended dose of escitalopram in hepatically impaired patients is 10 mg/d
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
 Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].
+
+## 5.11 Sexual Dysfunction
+
+5.11 Sexual Dysfunction Use of SSRIs, including escitalopram, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+It is important for prescribers to inquire about sexual function prior to initiation of escitalopram and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

@@ -13,7 +13,7 @@ Adverse events during exposure were obtained primarily by general inquiry and re
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse events.
 
-The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
+The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Adverse Events Associated with Discontinuation of Treatment
 
@@ -68,9 +68,9 @@ Events included are those occurring in 2% or more of patients treated with escit
 | Rhinitis | 5% | 4% |
 | Sinusitis | 3% | 2% |
 | Urogenital |  |  |
-| Ejaculation Disorder 1,2 | 9% | <1% |
-| Impotence 2 | 3% | <1% |
-| Anorgasmia 3 | 2% | <1% |
+| Ejaculation Disorder1,2 | 9% | <1% |
+| Impotence2 | 3% | <1% |
+| Anorgasmia3 | 2% | <1% |
 
 1Primarily ejaculatory delay.
 2Denominator used was for males only (N=225 escitalopram; N=188 placebo).
@@ -114,8 +114,8 @@ Events included are those occurring in 2% or more of patients treated with escit
 | Respiratory System Disorders |  |  |
 | Yawning | 2% | 1% |
 | Urogenital |  |  |
-| Ejaculation Disorder 1,2 | 14% | 2% |
-| Anorgasmia 3 | 6% | <1% |
+| Ejaculation Disorder1,2 | 14% | 2% |
+| Anorgasmia3 | 6% | <1% |
 | Menstrual Disorder | 2% | 1% |
 
 1Primarily ejaculatory delay.
@@ -177,10 +177,10 @@ ECG Changes Electrocardiograms from escitalopram (N=625) and placebo (N=527) gro
 None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the escitalopram and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the escitalopram group and 0.2% in the placebo group.
-QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multipledose study in 113 healthy subjects.
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple dose study in 113 healthy subjects.
 The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
-Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the C max for the dose of 20 mg is 6.6 (7.9) msec.
-Escitalopram 30 mg given once daily resulted in mean C max of 1.7-fold higher than the mean C max for the maximum recommended therapeutic dose at steady state (20 mg).
+Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
+Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
 Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets Following is a list of treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram tablets for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
@@ -212,7 +212,7 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 
 ## 6.2 Post-Marketing Experience
 
-Adverse Reactions Reported Subsequent to the Marketing of Escitalopram The following additional adverse reactions have been identified during post-approval use of escitalopram.Because these reacations are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Adverse Reactions Reported Subsequent to the Marketing of Escitalopram The following adverse reactions have been identified during post-approval use of escitalopram.Because these reacations are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 Cardiac Disorders: atrial fibrillation, bradycardia, cardiac failure, myocardial infarction, tachycardia, torsade de pointes, ventricular arrhythmia, ventricular tachycardia.

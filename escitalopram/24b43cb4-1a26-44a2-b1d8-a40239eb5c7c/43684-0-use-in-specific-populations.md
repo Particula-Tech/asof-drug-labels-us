@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-researchprograms/pregnancyregistry/antidepressants
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
 
 Risk Summary Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram, during pregnancy.
@@ -33,28 +33,28 @@ Human Data
 
 Exposure to SSRIs, particularly later in pregnancy, may increase the risk for PPHN.
 PPHN occurs in 1 to 2 per 1000 live births in the general populations and is associated with substantial neonatal morbidity and mortality.
-Animal Data In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses [approximately ≥ 55 times the maximum recommended human dose (MRHD) of 20 mg/day on a mg/m 2 basis].
+Animal Data In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses [approximately ≥ 55 times the maximum recommended human dose (MRHD) of 20 mg/day on a mg/m2 basis].
 Maternal toxicity (clinical signs and decreased body weight gain and food consumption), mild at 56 mg/kg/day, was present at all dose levels.
 The developmental no-effect dose of 56 mg/kg/day is approximately 27 times the MRHD of 20 mg on a mg/m2 basis.
 No malformations were observed at any of the doses tested (as high as 73 times the MRHD on a mg/m2 basis).
-When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m 2 basis.
+When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m2 basis.
 Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
 Slightly increased offspring mortality was also seen at 24 mg/kg/day.
 The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD of 20 mg on a mg/m2 basis.
 In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a mg/m2 basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
-The developmental no-effect dose was 56 mg/kg/day is approximately 9 times the MRHD on a mg/m 2 basis.
+The developmental no-effect dose was 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.
 In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
 Thus, developmental effects of racemic citalopram were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 When female rats were treated with racemic citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD of 60 mg on a mg/m2 basis.
-The no-effect dose was 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m 2 basis.
-Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m 2 basis.
+The no-effect dose was 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m2 basis.
+Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m2 basis.
 A no-effect dose was not determined in that study.
 
 ## 8.2 Lactation
 
 Risk Summary Data from the published literature report the presence of escitalopram and desmethylescitalopram in human milk (see Data).
-There are reports of excessive sedation, restlessness, agitation, poor feeding and poor weight gain in infants exposed to escitalopram, through breast milk (see Clinical Considerations).
+There are reports of excessive sedation, restlessness, agitation, poor feeding and poor weight gain in infants exposed to escitalopram, through breast milk (see Clinical Considerations),.
 There are no data on the effects of escitalopram or its metabolites on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for escitalopram and any potential adverse effects on the breastfed child from escitalopram or from the underlying maternal condition.
 
