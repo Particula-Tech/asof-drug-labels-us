@@ -170,13 +170,13 @@ Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-- •If you use NovoLog in an insulin pump, you should change your insertion site every 3 days.
+- •If you use NovoLog in an insulin pump, you should change your infusion set and insertion site according to the manufacturer’s user manual.
   NovoLog should be given into an area of your body recommended in the instructions that come with your insulin pump.
   Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
   Do not insert into the exact same spot for each insertion.
   Do not insert where the skin has pits, is thickened, or has lumps.
   Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-  The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
+  The insulin in the reservoir should be changed at least every 7 days or according to the pump user manual, whichever is shorter, even if you have not used all of the insulin.
 - •If you use NovoLog in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
 - •NPH insulin is the only type of insulin that can be mixed with NovoLog.
   Do not mix NovoLog with any other type of insulin.
@@ -184,7 +184,7 @@ Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
 - •NovoLog should be drawn up into the syringe before you draw up your NPH insulin.
 - •Talk to your healthcare provider if you are not sure about the right way to mix NovoLog and NPH insulin.
 
-Step 10: Choose your injection site and wipe the skin with an alcohol swab.
+Step 10: Choose your injection site (stomach area, buttocks, upper legs or upper arms) and wipe the skin with an alcohol swab.
 Let the injection site dry before you inject your dose (See Figure J).
 
 (Figure J)
@@ -228,6 +228,7 @@ How should I store NovoLog?
 - •After vials have been opened:
 - oOpened NovoLog vials can be stored in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
 - oThrow away all opened NovoLog vials after 28 days, even if they still have insulin left in them.
+- oIf using NovoLog in a pump, throw away all opened NovoLog vials after 19 days.
 
 General information about the safe and effective use of NovoLog
 
@@ -267,7 +268,7 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-Revised: 3/2021
+Revised: 10/2021
 
 INSTRUCTIONS FOR USE
 

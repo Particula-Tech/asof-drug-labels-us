@@ -36,15 +36,16 @@ Storage conditions for vial, PenFill cartridges, NOVOLOG FlexPen, and NOVOLOG Fl
 
 | NOVOLOGpresentation | Not in-use (unopened) Room Temperature (up to 30°C [86°F]) | Not in-use (unopened) Refrigerated (2°C - 8°C [36°F - 46°F]) | In-use (opened) Room Temperature (up to 30°C [86°F]) |
 | --- | --- | --- | --- |
-| 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
+| 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days* (refrigerated/room temperature) |
 | 3 mL single-patient-use PenFill cartridges | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 | 3 mL single-patient-use NOVOLOG FlexPen | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 | 3 mL single-patient-use NOVOLOG FlexTouch | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 
+*For insulin pump use, the total in-use time is 19 days, including 7 days pump in-use time.
+
 Storage in External Insulin Pump:
 
-NOVOLOG in the pump reservoir should be discarded after at least every 6 days of use or after exposure to temperatures that exceed 37°C (98.6°F).
-The infusion set and the infusion set insertion site should be changed at least every 3 days.
+Change the NOVOLOG in the pump reservoir at least every 7 days or according to the pump user manual, whichever is shorter, or after exposure to temperatures that exceed 37°C (98.6°F).
 
 Storage of Diluted NOVOLOG
 

@@ -32,9 +32,10 @@ Inform patients of the symptoms of hypersensitivity reactions [see Warnings and 
 Patients Using Continuous Subcutaneous Insulin Pumps
 
 - •Train patients in both intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
-- •Instruct patients to replace insulin in the reservoir at least every 6 days; infusion sets and infusion set insertion sites should be changed at least every 3 days.
-  NOVOLOG is recommended for use in any reservoir and infusion sets that are compatible with insulin and the specific pump.
-  Please see recommended reservoir and infusion sets in the pump manual.
+- •Refer to the continuous subcutaneous infusion pump user manual to see if NOVOLOG can be used with the pump.
+  See recommended reservoir and infusion sets in the insulin pump user manual.
+- •Instruct patients to replace insulin in the reservoir at least every 7 days or according to the user manual, whichever is shorter; infusion sets and infusion set insertion sites should be changed according to the manufacturer’s user manual.
+  By following this schedule, patients avoid insulin degradation, infusion set occlusion, and loss of the insulin preservative.
 - •Instruct patients to discard insulin exposed to temperatures higher than 37°C (98.6°F).
 - •Instruct patients to inform physician and select a new site for infusion if infusion site becomes erythematous, pruritic, or thickened.
 - •Instruct patients of the risk of rapid hyperglycemia and ketosis due to pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
@@ -42,13 +43,11 @@ Patients Using Continuous Subcutaneous Insulin Pumps
 - •Instruct patients of the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-Before using an insulin pump with NOVOLOG, read the pump label to make sure the pump has been evaluated with NOVOLOG.
-
 Rx only
 
-Date of Issue: 03/2021
+Date of Issue: 10/2021
 
-Version: 28
+Version: 29
 
 Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 

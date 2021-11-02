@@ -26,15 +26,15 @@ Subcutaneous Injection
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 
-- •Use NOVOLOG in pump systems specifically indicated for insulin infusion.
+- •Refer to the continuous subcutaneous insulin infusion pump user manual to see if NOVOLOG can be used with the insulin pump.
+  Use NOVOLOG in accordance with the insulin pump system’s instructions for use.
 - •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
 - •Administer NOVOLOG by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
-- •Change the NOVOLOG in the reservoir at least every 6 days.
-  Follow the NOVOLOG-specific information for in-use time because NOVOLOG-specific information may differ from general pump manual instructions.
-- •Change the infusion set and the infusion set insertion site at least every 3 days.
+- •Change the NOVOLOG in the reservoir at least every 7 days or according to the pump user manual, whichever is shorter.
+- •Change the infusion set and the infusion set insertion site according to the manufacturer’s user manual.
 - •Do NOT dilute or mix NOVOLOG when administering by continuous subcutaneous infusion.
 - •Do NOT expose NOVOLOG in the pump reservoir to temperatures greater than 98.6°F (37°C).
 
