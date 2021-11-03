@@ -45,12 +45,3 @@ If a dose is missed, the patient should not double-up the dose of rasagiline tab
 The next dose should be taken at the usual time on the following day.
 
 Pregnancy Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
-
-Trademarks are the property of their respective owners.
-
-Distributed by:Alvogen, Inc. Morristown, NJ 07960 USA
-
-Manufactured by: Orchid Healthcare (A Division of Orchid Pharma Ltd.) Irungattukottai - 602 117, India
-
-948026683 PI683-00 Rev.
-3/2019
