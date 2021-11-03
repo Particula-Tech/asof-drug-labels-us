@@ -1,4 +1,4 @@
-Package Printed Bottle – Principal Display Panel - 60 mL bottle
+# PRINCIPAL DISPLAY PANEL - 60 mL bottle
 
 60 mL
 

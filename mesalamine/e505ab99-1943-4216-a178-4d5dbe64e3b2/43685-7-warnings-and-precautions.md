@@ -45,6 +45,11 @@ If acute intolerance syndrome is suspected, promptly discontinue treatment with 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
 Evaluate the risks and benefits of using ROWASA in patients with known liver impairment.
 
+## Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of mesalamine (see ADVERSE REACTIONS).
+Discontinue ROWASA at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
+
 ## Photosensitivity
 
 Patients with pre‑existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
