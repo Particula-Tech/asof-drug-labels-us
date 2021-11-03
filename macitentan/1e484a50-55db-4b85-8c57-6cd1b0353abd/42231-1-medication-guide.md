@@ -15,7 +15,7 @@
 | What is OPSUMIT? |  |  |
 | OPSUMIT is a prescription medicine used to treat pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of your lungs.OPSUMIT can improve your ability to exercise, improve some of your symptoms, and help slow down the progression of your disease. OPSUMIT can also lower your chance of being hospitalized for PAH.It is not known if OPSUMIT is safe and effective in children. |  |  |
 | Who should not take OPSUMIT? |  |  |
-| Do not take OPSUMIT if you are pregnant, plan to become pregnant, or become pregnant during treatment with OPSUMIT. OPSUMIT can cause serious birth defects (see the Medication Guide section above called "What is the most important information I should know about OPSUMIT?"). |  |  |
+| Do not take OPSUMIT if you are pregnant, plan to become pregnant, or become pregnant during treatment with OPSUMIT. OPSUMIT can cause serious birth defects (see the Medication Guide section above called "What is the most important information I should know about OPSUMIT?"). Do not take OPSUMIT if you are allergic to macitentan or any of the ingredients in OPSUMIT. See the end of this Medication Guide for a complete list of ingredients in OPSUMIT. |  |  |
 | Tell your healthcare provider about all your medical conditions and all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. OPSUMIT and other medicines may affect each other causing side effects. Do not start any new medicine until you check with your healthcare provider. |  |  |
 | Especially tell your healthcare provider if you take an HIV medicine. |  |  |
 | How should I take OPSUMIT? |  |  |
@@ -43,5 +43,5 @@
 | Made in Switzerland. |  |  |
 | Manufactured for: |  |  |
 | Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company South San Francisco, CA 94080, USA © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
-| JN20210526 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 05/2021 |
+| JN20211025 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 10/2021 |
