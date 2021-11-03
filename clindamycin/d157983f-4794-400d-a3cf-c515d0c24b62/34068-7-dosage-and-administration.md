@@ -18,11 +18,14 @@ More severe infections, particularly those due to proven or suspected Bacteroide
 
 For more serious infections, these doses may have to be increased.
 In life-threatening situations due to either aerobes or anaerobes these doses may be increased.
-Doses of as much as 4800 mg daily have been given intravenously to adults (see Dilution for IV use and IV Infusion Rates section below).
+Doses of as much as 4800 mg daily have been given intravenously to adults.
+See Dilution for IV use and IV Infusion Rates section below.
 
 Single intramuscular injections of greater than 600 mg are not recommended.
 
 Alternatively, drug may be administered in the form of a single rapid infusion of the first dose followed by continuous IV infusion as follows:
+
+Table 2: Serum Clindamycin Levels Maintained, Rapid Infusion Rate and Maintenance Infusion Rate
 
 | To maintain serum clindamycin levels | Rapid infusion rate | Maintenance infusion rate |
 | --- | --- | --- |
@@ -30,12 +33,7 @@ Alternatively, drug may be administered in the form of a single rapid infusion o
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-## Neonates (less than 1 month)
-
-15 to 20 mg/kg/day in 3 to 4 equal doses.
-The lower dosage may be adequate for small prematures.
-
-## Pediatric patients 1 month of age to 16 years
+## Pediatric Patients 1 month of age to 16 years
 
 Parenteral (IM or IV) Administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
@@ -45,6 +43,19 @@ As an alternative to dosing on a body weight basis, pediatric patients may be do
 Parenteral therapy may be changed to oral CLEOCIN PEDIATRIC® Flavored Granules (clindamycin palmitate hydrochloride) or CLEOCIN HCl® Capsules (clindamycin hydrochloride) when the condition warrants and at the discretion of the physician.
 
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
+
+## Pediatric Patients less than 1 month
+
+The recommended dosage is 15 to 20 mg/kg/day in 3 to 4 equal doses.
+See Table 3 regarding the dosing regimen for pediatric patients with post-menstrual age (PMA) less than or equal to 32 weeks, or greater than 32 weeks to less than or equal to 40 weeks.
+
+Table 3: Dosing Regimens for Pediatric Patients with PMA less than or equal to 32 weeks, or greater than 32 weeks to less than or equal to 40 weeks
+
+| PMA (weeks) | Dose (mg/kg) | Dosing Interval (hours) |
+| --- | --- | --- |
+| Less than or equal to 32 | 5 | 8 |
+| Greater than or equal to 32 to less than or equal to 40 | 7 | 8 |
+| PMA: Post-Menstrual age |  |  |
 
 ## Dilution for IV use and IV Infusion Rates
 

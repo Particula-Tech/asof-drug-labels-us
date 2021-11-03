@@ -2,9 +2,9 @@
 
 See BOXED WARNING.
 
-## Clostridium difficile Associated Diarrhea
+## Clostridioides difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -25,14 +25,21 @@ In case of such an anaphylactic or severe hypersensitivity reaction, discontinue
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
-## Benzyl Alcohol Toxicity in Pediatric Patients ("Gasping Syndrome")
+## Benzyl Alcohol Toxicity in Neonates ("Gasping Syndrome")
 
 This product contains benzyl alcohol as a preservative.
-The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
-Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The administration of intravenous solutions containing the preservative benzyl alcohol has been associated with the "gasping syndrome", and death in neonates.
+Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
+Although the normal therapeutic dose of this product delivers amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known and total daily benzyl alcohol exposure may be increased by concomitant medications.
 
 The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low birth weight infants may be more likely to develop toxicity.
+
+## Renal Toxicity
+
+Clindamycin is potentially nephrotoxic.
+Acute kidney injury including acute renal failure has been reported.
+Therefore, monitoring of renal function should be considered during therapy of patients with pre-existing renal dysfunction or taking concomitant nephrotoxic drugs and monitoring of renal function should be performed if therapy is prolonged.
 
 ## Usage in Meningitis
 
@@ -56,7 +63,7 @@ Should superinfections occur, appropriate measures should be taken as indicated 
 
 CLEOCIN PHOSPHATE should not be injected intravenously undiluted as a bolus, but should be infused over at least 10–60 minutes as directed in the DOSAGE AND ADMINISTRATION section.
 
-Clindamycin dosage modification may not be necessary in patients with renal disease.
+Clindamycin dosage modification is not necessary in patients with renal disease.
 In patients with moderate to severe liver disease, prolongation of clindamycin half-life has been found.
 However, it was postulated from studies that when given every eight hours, accumulation should rarely occur.
 Therefore, dosage modification in patients with liver disease may not be necessary.
@@ -126,7 +133,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## Pediatric Use
 
-When CLEOCIN PHOSPHATE Sterile Solution is administered to the pediatric population (birth to 16 years) appropriate monitoring of organ system functions is desirable.
+When CLEOCIN PHOSPHATE Sterile Solution is administered to the pediatric population (birth to 16 years) appropriate monitoring of organ system functions is desirable (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Usage in Newborns and Infants
 
@@ -140,7 +147,7 @@ See WARNINGS.
 ## Geriatric Use
 
 Clinical studies of clindamycin did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients.
-However, other reported clinical experience indicates that antibiotic-associated colitis and diarrhea (due to Clostridium difficile) seen in association with most antibiotics occur more frequently in the elderly (>60 years) and may be more severe.
+However, other reported clinical experience indicates that antibiotic-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibiotics occur more frequently in the elderly (>60 years) and may be more severe.
 These patients should be carefully monitored for the development of diarrhea.
 
 Pharmacokinetic studies with clindamycin have shown no clinically important differences between young and elderly subjects with normal hepatic function and normal (age-adjusted) renal function after oral or intravenous administration.

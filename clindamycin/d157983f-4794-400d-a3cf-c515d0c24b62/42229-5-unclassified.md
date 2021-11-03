@@ -23,8 +23,8 @@ Such use could result in air embolism due to residual air being drawn from the p
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
 Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc. New York, NY 10017
 
@@ -34,4 +34,4 @@ CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for P
 
 Galaxy is a registered trademark of Baxter International Inc.
 
-LAB-0696-15.0 Revised: 4/2020
+LAB-0696-16.0 Revised: 10/2021

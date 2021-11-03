@@ -4,7 +4,7 @@ The following reactions have been reported with the use of clindamycin.
 
 ## Infections and Infestations
 
-Clostridium difficile colitis
+Clostridioides difficile colitis
 
 ## Gastrointestinal
 
@@ -31,7 +31,7 @@ Jaundice and abnormalities in liver function tests have been observed during cli
 
 ## Renal
 
-Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed (See WARNINGS).
 
 ## Hematopoietic
 
