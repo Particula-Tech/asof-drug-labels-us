@@ -2,13 +2,14 @@
 
 ## 2.1 General Dosage and Administration Instructions
 
-Ephedrine sulfate injection must be diluted before administration as an intravenous bolus to achieve the desired concentration.
+Ephedrine sulfate injection, 50 mg/mL must be diluted before administration as an intravenous bolus to achieve the desired concentration.
 Dilute with normal saline or 5% dextrose in water.
 Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 ## 2.2 Dosing for the Treatment of Clinically Important Hypotension in the Setting of Anesthesia
 
-The recommended dosages for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 to 10 mg administered by intravenous bolus.
+Ephedrine sulfate injection should be administered by trained healthcare providers.
+The recommended dosages for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 mg to 10 mg administered by intravenous bolus.
 Administer additional boluses as needed, not to exceed a total dosage of 50 mg.
 
 - Adjust dosage according to the blood pressure goal (i.e., titrate to effect).
