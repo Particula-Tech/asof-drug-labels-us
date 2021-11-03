@@ -110,8 +110,6 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Nebivolol Tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
-Manufactured by: Suzhou Amerigen Pharmaceutical Co. Ltd. Jiangsu, China 215006
+Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
-
-10421 Rev 09/21A
+10465 Rev 09/21A

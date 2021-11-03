@@ -15,8 +15,6 @@ Caution patients subject to spontaneous hypoglycemia, or diabetic patients recei
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
-Manufactured by: Suzhou Amerigen Pharmaceutical Co. Ltd. Jiangsu, China 215006
+Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
-
-10421 Rev 09/21A
+10465 Rev 09/21A
