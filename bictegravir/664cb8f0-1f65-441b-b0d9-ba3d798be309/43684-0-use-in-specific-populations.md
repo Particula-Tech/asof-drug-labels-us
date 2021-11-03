@@ -13,7 +13,7 @@ There are insufficient human data on the use of BIKTARVY during pregnancy to inf
 Dolutegravir, another integrase inhibitor, has been associated with neural tube defects (NTDs) (see Data).
 Discuss the benefit-risk of using BIKTARVY with individuals of childbearing potential, particularly if pregnancy is being planned.
 BIKTARVY use during pregnancy has been evaluated in a limited number of women reported to the APR; consequently, there are insufficient BIC data from the APR to adequately assess the risk of major birth defects.
-Reports of pregnant indivduals treated with other drug products containing TAF or FTC contribute to APR's overall risk assessment for these components.
+Reports of pregnant individuals treated with other drug products containing TAF or FTC contribute to APR's overall risk assessment for these components.
 Available data from the APR show no statistically significant difference in the overall risk of major birth defects for FTC or TAF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
@@ -92,12 +92,20 @@ Tenofovir was excreted into the milk of lactating monkeys following a single sub
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of BIKTARVY for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
+The safety and effectiveness of BIKTARVY have been established as a complete regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in pediatric patients weighing at least 14 kg who have no antiretroviral treatment history or to replace the current antiretroviral regimen in those who are virologically-suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no history of treatment failure and no known substitutions associated with resistance to the individual components of BIKTARVY [see Indications and Usage (1) and Dosage and Administration (2.2, 2.3)].
 
-Use of BIKTARVY in pediatric patients between the ages of 6 to less than 18 years and weighing at least 25 kg is supported by trials in adults and by an open-label trial in virologically-suppressed pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg receiving BIKTARVY through Week 48 (cohort 1 of Trial 1474, N=50) and in virologically-suppressed pediatric subjects aged 6 to less than 12 years and weighing at least 25 kg receiving BIKTARVY through Week 24 (cohort 2 of Trial 1474, N=50).
-The safety and efficacy of BIKTARVY in these pediatric subjects was similar to that in adults, and there was no clinically significant change in exposure for the components of BIKTARVY [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
+Use of BIKTARVY in pediatric patients weighing at least 14 kg is supported by the following:
 
-Safety and effectiveness of BIKTARVY in pediatric patients weighing less than 25 kg have not been established.
+- trials in adults [see Clinical Studies (14.1)]
+- an open-label trial in three age-based cohorts of virologically-suppressed pediatric subjects [see Clinical Studies (14.4)]
+  - Cohort 1: 12 to less than 18 years of age and weighing at least 35 kg receiving BIKTARVY through Week 48 (N=50),
+  - Cohort 2: 6 to less than 12 years of age and weighing at least 25 kg receiving BIKTARVY through Week 24 (N=50), and
+  - Cohort 3: at least 2 years of age and weighing at least 14 to less than 25 kg through Week 24 (N=22).
+    No pediatric subjects 2 years of age were enrolled; of the 6 pediatric subjects who were 3 years of age at enrollment, 3 subjects weighed between 14 to less than 15 kg.
+
+The safety and efficacy of BIKTARVY in these pediatric subjects were similar to that in adults, and there was no clinically significant change in exposure for the components of BIKTARVY [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
+
+Safety and effectiveness of BIKTARVY in pediatric patients weighing less than 14 kg have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -110,10 +118,10 @@ No overall differences in safety or effectiveness were observed between elderly 
 The pharmacokinetics, safety, virologic and immunologic responses of FTC and TAF (components of BIKTARVY) were evaluated in a single arm, open-label trial (Trial 1825) in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
 In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all remained virologically suppressed for 48 weeks [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
 
-No dosage adjustment of BIKTARVY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute, or in virologically-suppressed adults with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
-On days of hemodialysis, administer the daily dose of BIKTARVY after completion of hemodialysis treatment [see Dosage and Administration (2.3)]
+No dosage adjustment of BIKTARVY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL/min, or in virologically-suppressed adults (estimated creatinine clearance below 15 mL/min) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer the daily dose of BIKTARVY after completion of hemodialysis treatment [see Dosage and Administration (2.2)]
 
-BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute, by Cockcroft-Gault), or patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis, as the safety and/or efficacy of BIKTARVY has not been established in these populations [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+BIKTARVY is not recommended in patients with estimated creatinine clearance of below 30 mL/min, by Cockcroft-Gault, or patients with ESRD (estimated creatinine clearance below 15 mL/min) who are not receiving chronic dialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic dialysis, as the safety and/or efficacy of BIKTARVY has not been established in these populations [see Dosage and Administration (2.4), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

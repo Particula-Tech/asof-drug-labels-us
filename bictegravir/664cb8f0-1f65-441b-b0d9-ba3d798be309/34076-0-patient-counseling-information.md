@@ -29,6 +29,10 @@ Missed Dosage
 
 Inform patients that it is important to take BIKTARVY on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.2)].
 
+Tablet Splitting
+
+Advise caregivers that, for children unable to swallow a whole tablet, the tablet can be split and each part taken separately as long as all parts are ingested within approximately 10 minutes [see Dosage and Administration (2.3)].
+
 Pregnancy Registry
 
 Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to BIKTARVY [see Use in Specific Populations (8.1)].

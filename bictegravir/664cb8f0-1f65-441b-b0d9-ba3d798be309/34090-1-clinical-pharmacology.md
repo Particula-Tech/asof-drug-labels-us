@@ -56,10 +56,10 @@ Specific Populations
 
 Patients with Renal Impairment
 
-No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between subjects with severe renal impairment (estimated creatinine clearance of 15 to less than 30 mL per minute, by Cockcroft-Gault method) and healthy subjects in Phase 1 studies.
+No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between subjects with severe renal impairment (estimated creatinine clearance of 15 to less than 30 mL/min, by Cockcroft-Gault method) and healthy subjects in Phase 1 studies.
 In a separate Phase 1 study of FTC alone, FTC exposures were increased in subjects with severe renal impairment.
 
-The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed subjects with ESRD (estimated creatinine clearance less than 15 mL per minute, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
+The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed subjects with ESRD (estimated creatinine clearance less than 15 mL/min, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
 The pharmacokinetics of TAF were similar between healthy subjects and subjects with ESRD receiving chronic hemodialysis; increases in FTC and tenofovir exposures in subjects with ESRD were not considered clinically relevant.
 Median (minimum, maximum) BIC Ctrough values in subjects (n=7) with ESRD who received BIKTARVY were 846 ng/mL (288, 1810) compared to 2540 ng/mL (757, 6499) in subjects (N=584) with normal renal function.
 Despite significantly lower BIC Ctrough values in the virologically-suppressed ESRD population, virologic suppression was maintained [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
@@ -94,7 +94,7 @@ Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administ
 | Ctrough (microgram per mL) | 1.78 (44.4) | 0.064 (25.0) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
-Mean BIC Cmax, and exposures of FTC and TAF (AUCtau and Cmax) achieved in 50 pediatric patients between the ages of 6 to less than 12 years and weighing at least 25 kg who received BIKTARVY in Trial 1474 were higher than exposures in adults; however, the increase was not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Table 7) [see Use in Specific Populations (8.4)].
+Mean BIC Cmax, and exposures of FTC and TAF (AUCtau and Cmax) achieved in 50 pediatric patients between the ages of 6 to less than 12 years and weighing at least 25 kg, and in 22 pediatric patients at least 2 years of age and weighing at least 14 to less than 25 kg who received BIKTARVY in Trial 1474 were higher than exposures in adults; however, the increases were not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Tables 7 and 8) [see Use in Specific Populations (8.4)].
 
 Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 6 to less than 12 years
 
@@ -103,6 +103,15 @@ Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administ
 | Cmax (microgram per mL) | 9.46 (24.3) | 3.89 (31.0) | 0.205 (44.6) |
 | AUCtau (microgram∙h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
 | Ctrough (microgram per mL) | 2.36 (39.0) | 0.227 (323) | NA |
+| CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
+
+Table 8 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects at Least 2 Years of AgeCohort 3 of Trial 1474 enrolled pediatric subjects from 3 to 9 years of age. and Weighing at Least 14 to Less than 25 kg
+
+| Parameter Mean (CV%) | Bictegravir From Population PK analysis of cohort 3 of Trial 1474 (n=22). | EmtricitabineFrom Intensive PK analysis of cohort 3 of Trial 1474 (n=12 except n=11 for Ctrough for FTC). | Tenofovir Alafenamide |
+| --- | --- | --- | --- |
+| Cmax (microgram per mL) | 9.15 (44.8) | 3.85 (34.7) | 0.414 (31.0) |
+| AUCtau (microgram∙h per mL) | 126 (42.4) | 15.0 (21.9) | 0.305 (42.6) |
+| Ctrough (microgram per mL) | 2.43 (40.1) | 0.210 (243) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
 Race and Gender
@@ -123,12 +132,12 @@ TAF is a substrate of P-gp and BCRP.
 At clinically relevant concentrations, TAF is not an inhibitor of drug transporters P-gp, BCRP, hepatic transporters OATP1B1, OATP1B3, OCT1, BSEP, renal transporters OAT1, OAT3, OCT2, MATE1, or CYP (including CYP3A) or UGT1A1 enzymes.
 
 Drug interaction studies were conducted with BIKTARVY or its components.
-Tables 8 and 9 summarize the pharmacokinetic effects of other drugs on BIC and TAF, respectively.
-Table 10 summarizes the pharmacokinetic effects of BIKTARVY or its components on other drugs.
+Tables 9 and 10 summarize the pharmacokinetic effects of other drugs on BIC and TAF, respectively.
+Table 11 summarizes the pharmacokinetic effects of BIKTARVY or its components on other drugs.
 
 Effect of Other Drugs on BIKTARVY Components
 
-Table 8 Effect of Other Drugs on BICAll interaction studies conducted in healthy volunteers.
+Table 9 Effect of Other Drugs on BICAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -148,7 +157,7 @@ Table 8 Effect of Other Drugs on BICAll interaction studies conducted in healthy
 | Ferrous fumarate (simultaneous administration, fed) | 324 single dose | 50 single dose | 0.75 (0.65, 0.87) | 0.84 (0.74, 0.95) | NA |
 | NA= Not Applicable |  |  |  |  |  |
 
-Table 9 Effect of Other Drugs on TAFAll interaction studies conducted in healthy volunteers.
+Table 10 Effect of Other Drugs on TAFAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -160,7 +169,7 @@ Table 9 Effect of Other Drugs on TAFAll interaction studies conducted in healthy
 
 Effect of BIKTARVY Components on Other Drugs
 
-Table 10 Effect of Components of BIKTARVY on Other DrugsAll interaction studies conducted in healthy volunteers.
+Table 11 Effect of Components of BIKTARVY on Other DrugsAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -242,7 +251,7 @@ In Virologically Suppressed Adult Subjects: In 2 switch trials, Trials 1844 and 
 No subjects had HIV-1 with treatment-emergent genotypic or phenotypic resistance to BIC, FTC, or TAF.
 
 In Virologically Suppressed Pediatric Subjects: In Trial 1474 [see Clinical Studies (14.4)], two of 50 subjects in cohort 1 were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
-No subjects in cohort 2 met the criteria for resistance analyses.
+No subjects in cohort 2 or 3 met the criteria for resistance analyses through Week 24.
 
 Cross-Resistance
 

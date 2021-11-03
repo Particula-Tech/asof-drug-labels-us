@@ -6,6 +6,8 @@ Bottle
 
 - 50 mg/200 mg/25 mg tablets each contain 50 mg of bictegravir (BIC), 200 mg of emtricitabine (FTC), and 25 mg of tenofovir alafenamide (TAF).
   These tablets are purplish brown, capsule-shaped, and film-coated with "GSI" debossed on one side and "9883" on the other side (NDC 61958-2501-1).
+- 30 mg/120 mg/15 mg tablets each contain 30 mg of BIC,120 mg of FTC, and 15 mg of TAF.
+  These tablets are pink, capsule-shaped, and film-coated with "GSI" debossed on one side and "B" on the other side (NDC 61958-2505-1).
 
 Each bottle contains 30 tablets, a silica gel desiccant, polyester coil, and is closed with a child-resistant closure.
 

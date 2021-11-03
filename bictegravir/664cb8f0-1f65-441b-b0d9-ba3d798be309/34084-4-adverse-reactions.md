@@ -84,12 +84,12 @@ There were no discontinuations due to hepatic adverse events through Week 48 in 
 
 Clinical Trials in Pediatric Subjects
 
-The safety of BIKTARVY was evaluated in HIV-1 infected virologically-suppressed subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), and in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=50) through Week 24 (cohort 2) in an open label clinical trial (Trial 1474) [see Clinical Studies (14.4)].
+The safety of BIKTARVY was evaluated in HIV-1 infected virologically-suppressed subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=50) through Week 24 (cohort 2), and in virologically suppressed subjects at least 2 years of age and weighing at least 14 to less than 25 kg (N=22) through Week 24 (cohort 3) in an open label clinical trial (Trial 1474) [see Clinical Studies (14.4)].
 No new adverse reactions or laboratory abnormalities were identified compared to those observed in adults.
-Adverse reactions were reported in 10% of pediatric subjects.
-The majority (85%) of adverse reactions were Grade 1.
+Adverse reactions were reported in 11% of pediatric subjects.
+The majority (76%) of adverse reactions were Grade 1.
 No Grade 3 or 4 adverse reactions were reported.
-The adverse reaction reported by more than one subject (regardless of severity) was abdominal pain (n=2).
+The adverse reaction reported by more than one subject (regardless of severity) was abdominal discomfort (n=2).
 One subject (1%) had Grade 2 adverse reactions of insomnia and anxiety that led to discontinuation of BIKTARVY.
 The other adverse reactions that occurred in single subjects were similar to those seen in adults.
 

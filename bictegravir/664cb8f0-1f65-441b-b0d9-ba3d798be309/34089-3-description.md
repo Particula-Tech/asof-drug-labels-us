@@ -6,8 +6,13 @@ BIKTARVY (bictegravir, emtricitabine, and tenofovir alafenamide) is a fixed dose
 - FTC, a synthetic nucleoside analog of cytidine, is an HIV nucleoside analog reverse transcriptase inhibitor (HIV NRTI).
 - TAF, an HIV NRTI, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 
-Each tablet contains 50 mg of BIC (equivalent to 52.5 mg of bictegravir sodium), 200 mg of FTC, and 25 mg of TAF (equivalent to 28 mg of tenofovir alafenamide fumarate) and the following inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
-The tablets are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
+BIKTARVY tablets are available in two dose strengths:
+
+- 50 mg/200 mg/25 mg tablet containing 50 mg of BIC (equivalent to 52.5 mg of bictegravir sodium), 200 mg of FTC, and 25 mg of TAF (equivalent to 28 mg of tenofovir alafenamide fumarate).
+- 30 mg/120 mg/15 mg tablet containing 30 mg of BIC (equivalent to 31.5 mg of bictegravir sodium), 120 mg of FTC, and 15 mg of TAF (equivalent to 16.8 mg of tenofovir alafenamide fumarate).
+
+Both dose strengths of BIKTARVY tablets include the following inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
+The tablets for both dose strengths are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
 
 Bictegravir: The chemical name of bictegravir sodium is 2,5-Methanopyrido[1',2':4,5]pyrazino[2,1-b][1,3]oxazepine-10-carboxamide, 2,3,4,5,7,9,13,13a-octahydro-8-hydroxy-7,9-dioxo-N-[(2,4,6-trifluorophenyl)methyl]-, sodium salt (1:1), (2R,5S,13aR)-.
 
