@@ -42,9 +42,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Use of bimatoprost ophthalmic solution was evaluated in a sixteen week double-masked, randomized, vehicle-controlled study conducted in pediatric patients who were post-chemotherapy or had alopecia areata, and adolescents who had hypotrichosis with no associated medical condition.
+Use of bimatoprost ophthalmic solution was evaluated in a sixteen-week double-masked, randomized, vehicle-controlled study conducted in pediatric patients who were post-chemotherapy or had alopecia areata, and adolescents who had hypotrichosis with no associated medical condition.
 No new safety issues were observed.
-The results of the Global Eyelash Assessment are provided in Table 1.
+The results of the Global Eyelash Assessment (GEA) are provided in Table 1.
 
 Table 1.
 Number (%) of subjects with at least a 1-grade increase from baseline at month 4 in Global Eyelash Assessment

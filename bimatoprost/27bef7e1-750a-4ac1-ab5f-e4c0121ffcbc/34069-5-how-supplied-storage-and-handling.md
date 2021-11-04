@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Bimatoprost ophthalmic solution, 0.03% is supplied sterile in opaque white low density polyethylene dispenser bottles and tips with turquoise polystyrene caps accompanied by sterile, disposable applicators:
+Bimatoprost ophthalmic solution, 0.03% is supplied sterile in opaque white low-density polyethylene dispenser bottles and tips with turquoise polystyrene caps accompanied by sterile, disposable applicators:
 
 3 mL in a 4 mL bottle with 70 applicators - NDC 0781-6206-93
 

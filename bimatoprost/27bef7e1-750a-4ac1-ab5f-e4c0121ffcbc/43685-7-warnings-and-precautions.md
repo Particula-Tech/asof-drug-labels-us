@@ -43,12 +43,12 @@ Bimatoprost ophthalmic solution should be used with caution in aphakic patients,
 ## 5.7 Contamination of Bimatoprost Ophthalmic Solution or Applicators
 
 The bimatoprost ophthalmic solution bottle must be kept intact during use.
-It is important to use bimatoprost ophthalmic solution as instructed, by placing one drop on the single-use-per eye applicator.
+It is important to use bimatoprost ophthalmic solution as instructed, by placing one drop on the single-use-per-eye applicator.
 The bottle tip should not be allowed to contact any other surface since it could become contaminated.
 The accompanying sterile applicators should only be used on one eye and then discarded since reuse of applicators increases the potential for contamination and infections.
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
 
-## 5.8 Contact Lens Use
+## 5.8 Use With Contact Lenses
 
 Bimatoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration.

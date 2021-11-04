@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Bimatoprost is a structural prostaglandin analog.
-Although the precise mechanism of action is unknown the growth of eyelashes is believed to occur by increasing the percent of hairs in, and the duration of the anagen or growth phase.
+Although the precise mechanism of action is unknown, the growth of eyelashes is believed to occur by increasing the percent of hairs in, and the duration of the anagen or growth phase.
 
 ## 12.3 Pharmacokinetics
 
