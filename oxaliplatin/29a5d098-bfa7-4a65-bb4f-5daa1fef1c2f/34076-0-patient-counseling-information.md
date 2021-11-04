@@ -68,10 +68,10 @@ Inform patients about the risk of drug interactions and the importance of provid
 
 SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Pharmaceuticals Co., Ltd. Lianyungang, Jiangsu 222047, China
 
-©2020 Sagent Pharmaceuticals, Inc.
+©2021 Sagent Pharmaceuticals, Inc.
 
-Revised: June 2020
+Revised: August 2021
 
 SAGENT Pharmaceuticals®
