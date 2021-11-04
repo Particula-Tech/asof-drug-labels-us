@@ -21,8 +21,8 @@
 - Patients should be alerted to the possibility of alopecia.
 - Contains sorbitol.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2020 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Pharmaceuticals Co., Ltd. Lianyungang, Jiangsu 222047, China ©2021 Sagent Pharmaceuticals, Inc.
 
-Revised: October 2020
+Revised: August 2021
 
 SAGENT Pharmaceuticals ®
