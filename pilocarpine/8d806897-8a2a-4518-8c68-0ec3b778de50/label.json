@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA214028"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "AbbVie Inc.",
+  "package_ndcs": [
+    "0074-7098-01",
+    "0074-7098-03",
+    "0074-7098-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "pilocarpine hydrochloride",
+      "name": "VUITY"
+    }
+  ],
+  "setid": "8d806897-8a2a-4518-8c68-0ec3b778de50",
+  "source": "dailymed"
+}
