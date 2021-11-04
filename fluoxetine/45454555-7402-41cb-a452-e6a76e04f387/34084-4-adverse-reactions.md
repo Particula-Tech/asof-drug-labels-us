@@ -15,6 +15,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - QT Prolongation [see Warnings and Precautions (5.11)]
 - Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.13)]
 - Discontinuation Adverse Reactions [see Warnings and Precautions (5.15)]
+- Sexual Dysfunction [see Warnings and Precautions (5.17)]
 
 When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 

@@ -75,7 +75,8 @@ Discontinuation of Treatment
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
 Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their healthcare provider [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
-
+Sexual Dysfunction Advise patients that use of fluoxetine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
 Use in Specific Populations
 
 Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
@@ -94,4 +95,4 @@ Pediatric Use of fluoxetine and olanzapine in combination – Safety and efficac
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 09/2021 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 10/2021 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

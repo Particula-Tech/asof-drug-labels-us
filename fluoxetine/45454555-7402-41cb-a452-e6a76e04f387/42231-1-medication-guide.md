@@ -98,7 +98,23 @@ The symptoms may include:
 - shortness of breath
 - dizziness or fainting
 
-Do not stop fluoxetine capsules without first talking to your healthcare provider.
+11.
+Sexual problems (dysfunction).
+Taking selective serotonin reuptake inhibitors (SSRIs), including fluoxetine capsules, may cause sexual problems.
+
+- Symptoms in males may include:
+  - Delayed ejaculation or inability to have an ejaculation
+  - Decreased sex drive
+  - Problems getting or keeping an erection
+- Symptoms in females may include:
+  - Decreased sex drive
+  - Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with fluoxetine capsules.
+There may be treatments your healthcare provider can suggest.
+Do not stop fluoxetine capsules
+
+without first talking to your healthcare provider.
 Stopping fluoxetine capsules too quickly may cause serious symptoms including:
 
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
@@ -284,4 +300,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 09/2021
+Revised: 10/2021
