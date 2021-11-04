@@ -22,7 +22,7 @@ Following intravenous administration of 1 mg/m2 and 1.3 mg/m2 doses, the mean ma
 When administered twice weekly, the mean maximum observed plasma concentrations ranged from 67 to 106 ng/mL for the 1 mg/m2 dose and 89 to 120 ng/mL for the 1.3 mg/m2 dose.
 
 Following an intravenous bolus or subcutaneous injection of a 1.3 mg/m2 dose to patients with multiple myeloma, the total systemic exposure after repeat dose administration (AUClast) was equivalent for subcutaneous and intravenous administration.
-The AUClast geometric mean ratio (90% confidence interval) was 0.99 (0.80 – 1.23).
+The AUClast geometric mean ratio (90% confidence interval) was 0.99 (0.80 to 1.23).
 The Cmax after subcutaneous administration (20.4 ng/mL) was lower than after intravenous administration (223 ng/mL) with repeat dose administration.
 
 Distribution
@@ -50,7 +50,7 @@ The effect of race on bortezomib pharmacokinetics is unknown.
 
 Patients with Hepatic Impairment
 
-Following administration of bortezomib doses ranging from 0.5 to 1.3 mg/m2, mild (total bilirubin ≤1× ULN and AST > ULN, or total bilirubin >1 to 1.5× ULN and any AST) hepatic impairment did not alter dose-normalized bortezomib AUC when compared to patients with normal hepatic function.
+Following administration of bortezomib doses ranging from 0.5 to 1.3 mg/m2, mild (total bilirubin ≤1× ULN and AST >ULN, or total bilirubin >1 to 1.5× ULN and any AST) hepatic impairment did not alter dose-normalized bortezomib AUC when compared to patients with normal hepatic function.
 Dose normalized mean bortezomib AUC increased by approximately 60% in patients with moderate (total bilirubin >1.5 to 3× ULN and any AST) or severe (total bilirubin >3× ULN and any AST) hepatic impairment.
 A lower starting dose is recommended in patients with moderate or severe hepatic impairment.
 
@@ -60,11 +60,11 @@ Clinical Studies
 
 No clinically significant differences in bortezomib pharmacokinetics were observed when coadministered with dexamethasone (weak CYP3A4 inducer), omeprazole (strong CYP2C19 inhibitor), or melphalan in combination with prednisone.
 
-Strong CYP3A4 inhibitor
+Strong CYP3A4 Inhibitor
 
 Coadministration with ketoconazole (strong CYP3A4 inhibitor) increased bortezomib exposure by 35%.
 
-Strong CYP3A4 inducer
+Strong CYP3A4 Inducer
 
 Coadministration with rifampin (strong CYP3A4 inducer) decreased bortezomib exposure by approximately 45%.
 

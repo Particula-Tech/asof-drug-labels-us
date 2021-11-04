@@ -14,7 +14,7 @@ In the six month rat toxicity study, degenerative effects in the ovary were obse
 
 Cardiovascular Toxicity
 
-Studies in monkeys showed that administration of dosages approximately twice the recommended clinical dose resulted in heart rate elevations, followed by profound progressive hypotension, bradycardia, and death 12 to 14 hours post dose.
+Studies in monkeys showed that administration of dosages approximately twice the recommended clinical dose resulted in heart rate elevations, followed by profound progressive hypotension, bradycardia, and death 12 to 14 hours postdose.
 Doses ≥1.2 mg/m2 induced dose-proportional changes in cardiac parameters.
 Bortezomib has been shown to distribute to most tissues in the body, including the myocardium.
 In a repeated dosing toxicity study in the monkey, myocardial hemorrhage, inflammation, and necrosis were also observed.

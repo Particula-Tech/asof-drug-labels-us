@@ -17,7 +17,7 @@ When administered intravenously, administer VELCADE as a 3 to 5 second bolus int
 
 ## 2.2 Dosage in Previously Untreated Multiple Myeloma
 
-VELCADE is administered in combination with oral melphalan and oral prednisone for 9, six-week treatment cycles as shown in Table 1.
+VELCADE is administered in combination with oral melphalan and oral prednisone for 9, six week treatment cycles as shown in Table 1.
 In Cycles 1 to 4, VELCADE is administered twice weekly (Days 1, 4, 8, 11, 22, 25, 29 and 32).
 In Cycles 5 to 9, VELCADE is administered once weekly (Days 1, 8, 22 and 29).
 At least 72 hours should elapse between consecutive doses of VELCADE.
@@ -43,7 +43,7 @@ Prior to initiating any cycle of therapy with VELCADE in combination with melpha
 
 Table 2: Dose Modifications During Cycles of Combination VELCADE, Melphalan and Prednisone Therapy
 
-| Toxicity | Dose modification or delay |
+| Toxicity | Dose Modification or Delay |
 | --- | --- |
 | Hematological toxicity during a cycle: If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle |
 | If platelet count is not above 30 × 109/L or ANC is not above 0.75 × 109/L on a VELCADE dosing day (other than Day 1) | Withhold VELCADE dose |
@@ -59,14 +59,14 @@ Dose modifications guidelines for peripheral neuropathy are provided [see Dosage
 VELCADE (1.3 mg/m2) is administered intravenously in combination with intravenous rituximab, cyclophosphamide, doxorubicin and oral prednisone (VcR-CAP) for 6, three week treatment cycles as shown in Table 3.
 VELCADE is administered first followed by rituximab.
 VELCADE is administered twice weekly for two weeks (Days 1, 4, 8, and 11) followed by a ten day rest period on Days 12 to 21.
-For patients with a response first documented at cycle 6, two additional VcR-CAP cycles are recommended.
+For patients with a response first documented at Cycle 6, two additional VcR-CAP cycles are recommended.
 At least 72 hours should elapse between consecutive doses of VELCADE.
 
 Table 3: Dosage Regimen for Patients with Previously Untreated Mantle Cell Lymphoma
 
 | Week | 1 |  |  |  |  | 2 |  | 3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Twice Weekly VELCADE (6, Three-Week Cycles)Dosing may continue for two more cycles (for a total of eight cycles) if response is first seen at Cycle 6. |  |  |  |  |  |  |  |  |
+| Twice Weekly VELCADE (6, Three Week Cycles)Dosing may continue for two more cycles (for a total of eight cycles) if response is first seen at Cycle 6. |  |  |  |  |  |  |  |  |
 | VELCADE (1.3 mg/m2) | Day 1 | -- | -- | Day 4 | -- | Day 8 | Day 11 | rest period |
 | Rituximab (375 mg/m2) Cyclophosphamide (750 mg/m2) Doxorubicin (50 mg/m2) | Day 1 | -- | -- |  |  | -- | -- | rest period |
 | Prednisone (100 mg/m2) | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | -- | -- | rest period |
@@ -84,10 +84,10 @@ For dose adjustments, see Table 4 below.
 
 Table 4: Dose Modifications on Days 4, 8, and 11 During Cycles of Combination VELCADE, Rituximab, Cyclophosphamide, Doxorubicin and Prednisone Therapy
 
-| Toxicity | Dose modification or delay |
+| Toxicity | Dose Modification or Delay |
 | --- | --- |
-| Hematological toxicity |  |
-| Grade 3 or higher neutropenia, or a platelet count not at or above 25 × 109/L | Withhold VELCADE therapy for up to 2 weeks until the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L. If, after VELCADE has been withheld, the toxicity does not resolve, discontinue VELCADE.If toxicity resolves such that the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L, VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
+| Hematological Toxicity |  |
+| Grade 3 or higher neutropenia, or a platelet count not at or above 25 × 109/L | Withhold VELCADE therapy for up to 2 weeks until the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L. If, after VELCADE has been withheld, the toxicity does not resolve, discontinue VELCADE.If toxicity resolves such that the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L, VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). |
 | Grade 3 or higher nonhematological toxicities | Withhold VELCADE therapy until symptoms of the toxicity have resolved to Grade 2 or better. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold or modify VELCADE as outlined in Table 5. |
 
 For information concerning rituximab, cyclophosphamide, doxorubicin and prednisone, see manufacturer's prescribing information.
@@ -106,23 +106,23 @@ VELCADE may be administered either as a single agent or in combination with dexa
 VELCADE therapy should be withheld at the onset of any Grade 3 nonhematological or Grade 4 hematological toxicities excluding neuropathy as discussed below [see Warnings and Precautions (5)].
 Once the symptoms of the toxicity have resolved, VELCADE therapy may be reinitiated at a 25% reduced dose (1.3 mg/m2/dose reduced to 1 mg/m2/dose; 1 mg/m2/dose reduced to 0.7 mg/m2/dose).
 
-For dose modifications guidelines for peripheral neuropathy see section 2.7.
+For dose modifications guidelines for peripheral neuropathy, see section 2.7.
 
 ## 2.7 Dose Modifications for Peripheral Neuropathy
 
-Starting VELCADE subcutaneously may be considered for patients with preexisting or at high risk of peripheral neuropathy.
-Patients with preexisting severe neuropathy should be treated with VELCADE only after careful risk-benefit assessment.
+Starting VELCADE subcutaneously may be considered for patients with pre-existing or at high risk of peripheral neuropathy.
+Patients with pre-existing severe neuropathy should be treated with VELCADE only after careful risk-benefit assessment.
 
 Patients experiencing new or worsening peripheral neuropathy during VELCADE therapy may require a decrease in the dose and/or a less dose-intense schedule.
 
-For dose or schedule modification guidelines for patients who experience VELCADE-related neuropathic pain and/or peripheral neuropathy see Table 5.
+For dose or schedule modification guidelines for patients who experience VELCADE-related neuropathic pain and/or peripheral neuropathy, see Table 5.
 
-Table 5: Recommended Dose Modification for VELCADE related Neuropathic Pain and/or Peripheral Sensory or Motor Neuropathy
+Table 5: Recommended Dose Modification for VELCADE-Related Neuropathic Pain and/or Peripheral Sensory or Motor Neuropathy
 
 | Severity of Peripheral Neuropathy Signs and SymptomsGrading based on NCI Common Terminology Criteria CTCAE v4.0 | Modification of Dose and Regimen |
 | --- | --- |
 | Grade 1 (asymptomatic; loss of deep tendon reflexes or paresthesia) without pain or loss of function | No action |
-| Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL)Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money etc;) | Reduce VELCADE to 1 mg/m2 |
+| Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL)Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc.) | Reduce VELCADE to 1 mg/m2 |
 | Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADLSelf care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden) | Withhold VELCADE therapy until toxicity resolves. When toxicity resolves reinitiate with a reduced dose of VELCADE at 0.7 mg/m2 once per week. |
 | Grade 4 (life-threatening consequences; urgent intervention indicated) | Discontinue VELCADE |
 
@@ -137,8 +137,8 @@ Table 6: Recommended Starting Dose Modification for VELCADE in Patients with Hep
 |  | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
 | --- | --- | --- | --- |
 | Mild | Less than or equal to 1× ULN | More than ULN | None |
-| More than 1×-1.5× ULN | Any | None |  |
-| Moderate | More than 1.5×-3× ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
+| More than 1× to 1.5× ULN | Any | None |  |
+| Moderate | More than 1.5× to 3× ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
 | Severe | More than 3× ULN | Any |  |
 | Abbreviations: SGOT = serum glutamic oxaloacetic transaminase; |  |  |  |
 | AST = aspartate aminotransferase; ULN = upper limit of the normal range. |  |  |  |
@@ -154,7 +154,7 @@ New injections should be given at least one inch from an old site and never into
 If local injection site reactions occur following VELCADE administration subcutaneously, a less concentrated VELCADE solution (1 mg/mL instead of 2.5 mg/mL) may be administered subcutaneously [see Dosage and Administration (2.10)].
 Alternatively, consider use of the intravenous route of administration [see Dosage and Administration (2.10)].
 
-VELCADE is a cytotoxic drug.
+VELCADE is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 ## 2.10 Reconstitution/Preparation for Intravenous and Subcutaneous Administration
@@ -167,7 +167,7 @@ Different volumes of 0.9% sodium chloride are used to reconstitute the product f
 The reconstituted concentration of bortezomib for subcutaneous administration (2.5 mg/mL) is greater than the reconstituted concentration of bortezomib for intravenous administration (1 mg/mL).
 Because each route of administration has a different reconstituted concentration, use caution when calculating the volume to be administered [see Dosage and Administration (2.9)].
 
-For each 3.5 mg single-dose vial of bortezomib reconstitute with the following volume of 0.9% sodium chloride based on route of administration (Table 7):
+For each 3.5 mg single-dose vial of bortezomib, reconstitute with the following volume of 0.9% sodium chloride based on route of administration (Table 7):
 
 Table 7: Reconstitution Volumes and Final Concentration for Intravenous and Subcutaneous Administration
 

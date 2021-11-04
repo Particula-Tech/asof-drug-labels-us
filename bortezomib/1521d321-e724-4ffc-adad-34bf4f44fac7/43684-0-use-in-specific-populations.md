@@ -43,11 +43,11 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to avoid pregnancy and use effective contraception during treatment with VELCADE and for at least seven months after the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with VELCADE and for seven months after the last dose.
 
 Males
 
-Males with female sexual partners of reproductive potential should use effective contraception during treatment with VELCADE and for at least four months after the last dose.
+Males with female partners of reproductive potential should use effective contraception during treatment with VELCADE and for four months after the last dose.
 
 Infertility
 
@@ -57,14 +57,14 @@ Based on the mechanism of action and findings in animals, VELCADE may have an ef
 
 Safety and effectiveness have not been established in pediatric patients.
 
-The activity and safety of VELCADE in combination with intensive reinduction chemotherapy was evaluated in pediatric and young adult patients with lymphoid malignancies (pre-B cell ALL 77%, 16% with T-cell ALL, and 7% T-cell lymphoblastic lymphoma (LL)), all of whom relapsed within 36 months of initial diagnosis in a single-arm multicenter, non-randomized cooperative group trial.
+The activity and safety of VELCADE in combination with intensive reinduction chemotherapy was evaluated in pediatric and young adult patients with lymphoid malignancies (pre-B cell ALL 77%, 16% with T-cell ALL, and 7% T-cell lymphoblastic lymphoma (LL)), all of whom relapsed within 36 months of initial diagnosis in a single-arm multicenter, nonrandomized cooperative group trial.
 An effective reinduction multiagent chemotherapy regimen was administered in three blocks.
-Block 1 included vincristine, prednisone, doxorubicin and pegaspargase; Block 2 included cyclophosphamide, etoposide and methotrexate; Block 3 included high dose cytosine arabinoside and asparaginase.
+Block 1 included vincristine, prednisone, doxorubicin and pegaspargase; Block 2 included cyclophosphamide, etoposide and methotrexate; Block 3 included high-dose cytosine arabinoside and asparaginase.
 VELCADE was administered at a dose of 1.3 mg/m2 as a bolus intravenous injection on Days 1, 4, 8, and 11 of Block 1 and Days 1, 4, and 8 of Block 2.
 There were 140 patients with ALL or LL enrolled and evaluated for safety.
-The median age was ten years (range 1 to 26), 57% were male, 70% were white, 14% were black, 4% were Asian, 2% were American Indian/ Alaska Native, 1% were Pacific Islander.
+The median age was ten years (range: 1 to 26), 57% were male, 70% were white, 14% were black, 4% were Asian, 2% were American Indian/Alaska Native, 1% were Pacific Islander.
 
-The activity was evaluated in a pre-specified subset of the first 60 evaluable patients enrolled on the study with pre-B ALL ≤21 years and relapsed <36 months from diagnosis.
+The activity was evaluated in a prespecified subset of the first 60 evaluable patients enrolled on the study with pre-B ALL ≤21 years and relapsed <36 months from diagnosis.
 The complete remission (CR) rate at day 36 was compared to that in a historical control set of patients who had received the identical backbone therapy without VELCADE.
 There was no evidence that the addition of VELCADE had any impact on the CR rate.
 
@@ -76,8 +76,8 @@ The BSA-normalized clearance of bortezomib in pediatric patients was similar to 
 
 Of the 669 patients enrolled in the relapsed multiple myeloma study, 245 (37%) were 65 years of age or older: 125 (38%) on the VELCADE arm and 120 (36%) on the dexamethasone arm.
 Median time to progression and median duration of response for patients ≥65 were longer on VELCADE compared to dexamethasone [5.5 mo vs 4.3 mo, and 8.0 mo vs 4.9 mo, respectively].
-On the VELCADE arm, 40% (n=46) of evaluable patients aged ≥65 experienced response (CR+PR) vs 18% (n=21) on the dexamethasone arm.
-The incidence of Grade 3 and 4 events was 64%, 78% and 75% for VELCADE patients ≤50, 51 to 64 and ≥65 years old, respectively [see Adverse Reactions (6.1); Clinical Studies (14.1)].
+On the VELCADE arm, 40% (n=46) of evaluable patients aged ≥65 experienced response (CR + PR) vs 18% (n=21) on the dexamethasone arm.
+The incidence of Grade 3 and 4 events was 64%, 78% and 75% for VELCADE patients ≤50, 51 to 64 and ≥65 years old, respectively [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 No overall differences in safety or effectiveness were observed between patients ≥age 65 and younger patients receiving VELCADE; but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -88,11 +88,11 @@ In patients requiring dialysis, VELCADE should be administered after the dialysi
 
 ## 8.7 Hepatic Impairment
 
-No starting dosage adjustment of VELCADE is recommended for patients with mild hepatic impairment (total bilirubin ≤1× ULN and AST > ULN, or total bilirubin >1 to 1.5× ULN and any AST).
+No starting dosage adjustment of VELCADE is recommended for patients with mild hepatic impairment (total bilirubin ≤1× ULN and AST >ULN, or total bilirubin >1 to 1.5× ULN and any AST).
 The exposure of bortezomib is increased in patients with moderate (total bilirubin ≥1.5 to 3× ULN and any AST) and severe (total bilirubin >3× ULN and any AST) hepatic impairment.
 Reduce the starting dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Diabetes
 
 During clinical trials, hypoglycemia and hyperglycemia were reported in diabetic patients receiving oral hypoglycemics.
-Patients on oral antidiabetic agents receiving VELCADE treatment may require close monitoring of their blood glucose levels and adjustment of the dose of their anti-diabetic medication.
+Patients on oral antidiabetic agents receiving VELCADE treatment may require close monitoring of their blood glucose levels and adjustment of the dose of their antidiabetic medication.

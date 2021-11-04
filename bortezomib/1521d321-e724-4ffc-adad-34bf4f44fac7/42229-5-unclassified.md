@@ -1,10 +1,7 @@
-Distributed and Marketed by: Millennium Pharmaceuticals, Inc. 40 Landsdowne Street Cambridge, MA 02139
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-M® MILLENNIUM®
+VELCADE® and the VELCADE Logo® are registered trademarks of Takeda Pharmaceuticals U.S.A., Inc. ©2003-2021 Takeda Pharmaceuticals U.S.A., Inc.
 
-VELCADE, M and MILLENNIUM are registered trademarks of Millennium Pharmaceuticals, Inc. Millennium Pharmaceuticals, Inc. is a wholly owned subsidiary of Takeda Pharmaceutical Company Limited.
+All rights reserved.
 
-©2003-2019 Millennium Pharmaceuticals, Inc. All rights reserved.
-Printed in USA.
-
-VEL347 R20
+VEL347 R22

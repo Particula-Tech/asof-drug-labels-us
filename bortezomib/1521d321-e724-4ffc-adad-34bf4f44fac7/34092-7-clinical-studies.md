@@ -9,7 +9,7 @@ Treatment was administered for a maximum of nine cycles (approximately 54 weeks)
 Antiviral prophylaxis was recommended for patients on the VELCADE study arm.
 
 The median age of the patients in the study was 71 years (48;91), 50% were male, 88% were Caucasian and the median Karnofsky performance status score for the patients was 80 (60;100).
-Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median hemoglobin of 105 g/L (64;165), and a median platelet count of 221,500 /microliter (33,000;587,000).
+Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median hemoglobin of 105 g/L (64;165), and a median platelet count of 221,500/microliter (33,000;587,000).
 
 Efficacy results for the trial are presented in Table 14.
 At a prespecified interim analysis (with median follow-up of 16.3 months), the combination of VELCADE, melphalan and prednisone therapy resulted in significantly superior results for time to progression, progression-free survival, overall survival and response rate.
@@ -19,14 +19,14 @@ In an updated analysis of overall survival based on 387 deaths (median follow-up
 
 Table 14: Summary of Efficacy Analyses in the Previously Untreated Multiple Myeloma Study
 
-| Efficacy Endpoint | VELCADE, Melphalan and Prednisone n=344 | Melphalan and Prednisone n=338 |
+| Efficacy Endpoint | VELCADE, Melphalan and Prednisone (n=344) | Melphalan and Prednisone (n=338) |
 | --- | --- | --- |
 | Time to Progression |  |  |
 | Events n (%) | 101 (29) | 152 (45) |
 | MedianKaplan-Meier estimate (months) (95% CI) | 20.7 (17.6, 24.7) | 15.0 (14.1, 17.9) |
 | Hazard ratioHazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than one indicates an advantage for VELCADE, melphalan and prednisone (95% CI) | 0.54 (0.42, 0.70) |  |
 | p-valuep-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region | 0.000002 |  |
-| Progression-free Survival |  |  |
+| Progression-Free Survival |  |  |
 | Events n (%) | 135 (39) | 190 (56) |
 | Median (months) (95% CI) | 18.3 (16.6, 21.7) | 14.0 (11.1, 15.0) |
 | Hazard ratio (95% CI) | 0.61 (0.49, 0.76) |  |
@@ -37,7 +37,7 @@ Table 14: Summary of Efficacy Analyses in the Previously Untreated Multiple Myel
 | nCR n (%) | 5 (1) | 0 |
 | CR + PR n (%) | 238 (69) | 115 (34) |
 | p-valuep-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors | <10-10 |  |
-| Overall Survival at median follow up of 36.7 months |  |  |
+| Overall Survival at Median Follow-Up of 36.7 Months |  |  |
 | Events (deaths) n (%) | 109 (32) | 148 (44) |
 | Median (months) (95% CI) | Not Reached (46.2, NR) | 43.1 (34.8, NR) |
 | Hazard ratio (95% CI) | 0.65 (0.51, 0.84) |  |
@@ -66,7 +66,7 @@ Baseline patient and disease characteristics are summarized in Table 15.
 
 Table 15: Summary of Baseline Patient and Disease Characteristics in the Relapsed Multiple Myeloma Study
 
-| Patient Characteristics | VELCADE N=333 | Dexamethasone N=336 |
+| Patient Characteristics | VELCADE (N=333) | Dexamethasone (N=336) |
 | --- | --- | --- |
 | Median age in years (range) | 62.0 (33, 84) | 61.0 (27, 86) |
 | Gender: Male/female | 56%/44% | 60%/40% |
@@ -98,7 +98,7 @@ Patients achieving a CR were treated for four cycles beyond first evidence of CR
 Within each three week treatment cycle, VELCADE 1.3 mg/m2/dose alone was administered by intravenous bolus twice weekly for two weeks on Days 1, 4, 8, and 11 followed by a ten day rest period (Days 12 to 21).
 Within each five week treatment cycle, VELCADE 1.3 mg/m2/dose alone was administered by intravenous bolus once weekly for four weeks on Days 1, 8, 15, and 22 followed by a 13 day rest period (Days 23 to 35) [see Dosage and Administration (2.2)].
 
-Patients in the dexamethasone treatment group were to receive 4 five week treatment cycles followed by 5, four week treatment cycles.
+Patients in the dexamethasone treatment group were to receive 4, five week treatment cycles followed by 5, four week treatment cycles.
 Within each five week treatment cycle, dexamethasone 40 mg/day PO was administered once daily on Days 1 to 4, 9 to 12, and 17 to 20 followed by a 15 day rest period (Days 21 to 35).
 Within each four week treatment cycle, dexamethasone 40 mg/day PO was administered once daily on Days 1 to 4 followed by a 24 day rest period (Days 5 to 28).
 Patients with documented progressive disease on dexamethasone were offered VELCADE at a standard dose and schedule on a companion study.
@@ -116,7 +116,7 @@ Near complete response (nCR) was defined as meeting all the criteria for complet
 
 Table 16: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
 
-| n=333 | n=336 | n=132 | n=119 | n=200 | n=217 |  |
+| (n=333) | (n=336) | (n=132) | (n=119) | (n=200) | (n=217) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Efficacy Endpoint | All Patients |  | 1 Prior Line of Therapy |  | >1 Prior Line of Therapy |  |
 | VELCADE | Dex | VELCADE | Dex | VELCADE | Dex |  |
@@ -138,7 +138,7 @@ TTP was statistically significantly longer on the VELCADE arm (see Figure 3).
 
 Figure 3: Time to Progression Bortezomib vs Dexamethasone (Relapsed Multiple Myeloma Study)
 
-As shown in Figure 4 VELCADE had a significant survival advantage relative to dexamethasone (p <0.05).
+As shown in Figure 4, VELCADE had a significant survival advantage relative to dexamethasone (p <0.05).
 The median follow-up was 8.3 months.
 
 Figure 4: Overall Survival Bortezomib vs Dexamethasone (Relapsed Multiple Myeloma Study)
@@ -148,7 +148,7 @@ The response rate was significantly higher on the VELCADE arm regardless of beta
 
 Randomized, Open-Label Clinical Study of VELCADE Subcutaneous vs Intravenous in Relapsed Multiple Myeloma
 
-An open-label, randomized, Phase 3 noninferiority study (NCT00722566) compared the efficacy and safety of the subcutaneous administration of VELCADE versus the intravenous administration.
+An open-label, randomized, Phase 3 noninferiority study (NCT00722566) compared the efficacy and safety of the subcutaneous administration of VELCADE vs the intravenous administration.
 This study included 222 bortezomib naïve patients with relapsed multiple myeloma, who were randomized in a 2:1 ratio to receive 1.3 mg/m2 of VELCADE by either the subcutaneous (n=148) or intravenous (n=74) route for eight cycles.
 Patients who did not obtain an optimal response (less than Complete Response (CR)) to therapy with VELCADE alone after four cycles were allowed to receive oral dexamethasone 20 mg daily on the day of and after VELCADE administration (82 patients in subcutaneous treatment group and 39 patients in the intravenous treatment group).
 Patients with baseline Grade ≥2 peripheral neuropathy or neuropathic pain, or platelet counts <50,000/µL were excluded.
@@ -156,34 +156,34 @@ A total of 218 patients were evaluable for response.
 
 Stratification factors were based on the number of lines of prior therapy the patient had received (one previous line vs more than one line of therapy), and international staging system (ISS) stage (incorporating beta2-microglobulin and albumin levels; Stages I, II, or III).
 
-The baseline demographic and others characteristics of the two treatment groups are summarized as follows: the median age of the patient population was approximately 64 years of age (range 38 to 88 years), primarily male (subcutaneous: 50%, intravenous: 64%); the primary type of myeloma is IgG (subcutaneous: 65% IgG, 26% IgA, 8% light chain; intravenous: 72% IgG, 19% IgA, 8% light chain), ISS staging I/II/III (%) was 27, 41, 32 for both subcutaneous and intravenous, Karnofsky performance status score was ≤70% in 22% of subcutaneous and 16% of intravenous, creatinine clearance was 67.5 mL/min in subcutaneous and 73 mL/min in intravenous, the median years from diagnosis was 2.68 and 2.93 in subcutaneous and intravenous respectively and the proportion of patients with more than one prior line of therapy was 38% in subcutaneous and 35% in intravenous.
+The baseline demographic and other characteristics of the two treatment groups are summarized as follows: the median age of the patient population was approximately 64 years of age (range: 38 to 88 years), primarily male (subcutaneous: 50%, intravenous: 64%); the primary type of myeloma is IgG (subcutaneous: 65% IgG, 26% IgA, 8% light chain; intravenous: 72% IgG, 19% IgA, 8% light chain), ISS staging I/II/III (%) was 27, 41, 32 for both subcutaneous and intravenous, Karnofsky performance status score was ≤70% in 22% of subcutaneous and 16% of intravenous, creatinine clearance was 67.5 mL/min in subcutaneous and 73 mL/min in intravenous, the median years from diagnosis was 2.68 and 2.93 in subcutaneous and intravenous respectively and the proportion of patients with more than one prior line of therapy was 38% in subcutaneous and 35% in intravenous.
 
 This study met its primary (noninferiority) objective that single agent subcutaneous VELCADE retains at least 60% of the overall response rate after four cycles relative to single agent intravenous VELCADE.
 The results are provided in Table 17.
 
 Table 17: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study of VELCADE Subcutaneous vs Intravenous
 
-| Intent to Treat Population | n=148 | n=74 |
+| Intent to Treat Population | (n=148) | (n=74) |
 | --- | --- | --- |
 |  | Subcutaneous VELCADE | Intravenous VELCADE |
 | Primary Endpoint |  |  |
-| Response Rate at 4 cycles |  |  |
-| ORR (CR+PR) n(%) | 63 (43) | 31 (42) |
+| Response Rate at 4 Cycles |  |  |
+| ORR (CR + PR) n(%) | 63 (43) | 31 (42) |
 | Ratio of Response Rates (95% CI) | 1.01 (0.73, 1.40) |  |
 | CR n (%) | 11 (7) | 6 (8) |
 | PR n (%) | 52 (35) | 25 (34) |
 | nCR n (%) | 9 (6) | 4 (5) |
 | Secondary Endpoints |  |  |
-| Response Rate at 8 cycles |  |  |
-| ORR (CR+PR) | 78 (53) | 38 (51) |
+| Response Rate at 8 Cycles |  |  |
+| ORR (CR + PR) | 78 (53) | 38 (51) |
 | CR n (%) | 17 (11) | 9 (12) |
 | PR n (%) | 61 (41) | 29 (39) |
 | nCR n (%) | 14 (9) | 7 (9) |
 | Median Time to Progression, months | 10.4 | 9.4 |
-| Median Progression Free Survival, months | 10.2 | 8.0 |
-| 1 year Overall Survival (%)Median duration of follow up is 11.8 months | 72.6 | 76.7 |
+| Median Progression-Free Survival, months | 10.2 | 8.0 |
+| 1 Year Overall Survival (%)Median duration of follow-up is 11.8 months | 72.6 | 76.7 |
 
-A Randomized Phase 2 Dose-Response Study in Relapsed Multiple Myeloma
+A Randomized, Phase 2 Dose-Response Study in Relapsed Multiple Myeloma
 
 An open-label, multicenter study randomized 54 patients with multiple myeloma who had progressed or relapsed on or after front-line therapy to receive VELCADE 1 mg/m2 or 1.3 mg/m2 intravenous bolus twice weekly for two weeks on Days 1, 4, 8, and 11 followed by a ten day rest period (Days 12 to 21).
 The median duration of time between diagnosis of multiple myeloma and first dose of VELCADE on this trial was two years, and patients had received a median of one prior line of treatment (median of three prior therapies).
@@ -193,15 +193,15 @@ The overall response rates (CR + PR) were 30% (8/27) at 1 mg/m2 and 38% (10/26) 
 A Phase 2 Open-Label Extension Study in Relapsed Multiple Myeloma
 
 Patients from the two Phase 2 studies, who in the investigators' opinion would experience additional clinical benefit, continued to receive VELCADE beyond 8 cycles on an extension study.
-Sixty-three (63) patients from the Phase 2 multiple myeloma studies were enrolled and received a median of seven additional cycles of VELCADE therapy for a total median of 14 cycles (range 7 to 32).
+Sixty-three (63) patients from the Phase 2 multiple myeloma studies were enrolled and received a median of seven additional cycles of VELCADE therapy for a total median of 14 cycles (range: 7 to 32).
 The overall median dosing intensity was the same in both the parent protocol and extension study.
 Sixty-seven percent (67%) of patients initiated the extension study at the same or higher dose intensity at which they completed the parent protocol, and 89% of patients maintained the standard three week dosing schedule during the extension study.
 No new cumulative or new long-term toxicities were observed with prolonged VELCADE treatment [see Adverse Reactions (6.1)].
 
 A Single-Arm Trial of Retreatment in Relapsed Multiple Myeloma
 
-A single arm, open-label trial (NCT00431769) was conducted to determine the efficacy and safety of retreatment with VELCADE.
-One hundred and thirty patients (≥18 years of age) with multiple myeloma who previously had at least partial response on a VELCADE-containing regimen (median of two prior lines of therapy [range 1 to 7]) were retreated upon progression with VELCADE administered intravenously.
+A single-arm, open-label trial (NCT00431769) was conducted to determine the efficacy and safety of retreatment with VELCADE.
+One hundred and thirty patients (≥18 years of age) with multiple myeloma who previously had at least partial response on a VELCADE-containing regimen (median of two prior lines of therapy [range: 1 to 7]) were retreated upon progression with VELCADE administered intravenously.
 Patients were excluded from trial participation if they had peripheral neuropathy or neuropathic pain of Grade ≥2.
 At least six months after prior VELCADE therapy, VELCADE was restarted at the last tolerated dose of 1.3 mg/m2 (n=93) or ≤1 mg/m2 (n=37) and given on Days 1, 4, 8 and 11 every three weeks for maximum of eight cycles either as single agent or in combination with dexamethasone in accordance with the standard of care.
 Dexamethasone was administered in combination with VELCADE to 83 patients in Cycle 1 with an additional 11 patients receiving dexamethasone during the course of VELCADE retreatment cycles.
@@ -215,59 +215,59 @@ In the 50 responding patients, the median duration of response was 6.5 months an
 
 A Randomized, Open-Label Clinical Study in Patients with Previously Untreated Mantle Cell Lymphoma
 
-A randomized, open-label, Phase 3 study (NCT00722137) was conducted in 487 adult patients with previously untreated mantle cell lymphoma (Stage II, III or IV) who were ineligible or not considered for bone marrow transplantation to determine whether VELCADE administered in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP) resulted in improvement in progression free survival (PFS) when compared to the combination of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP).
+A randomized, open-label, Phase 3 study (NCT00722137) was conducted in 487 adult patients with previously untreated mantle cell lymphoma (Stage II, III or IV) who were ineligible or not considered for bone marrow transplantation to determine whether VELCADE administered in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP) resulted in improvement in progression-free survival (PFS) when compared to the combination of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP).
 This clinical study utilized independent pathology confirmation and independent radiologic response assessment.
 
-Patients in the VcR-CAP treatment arm received VELCADE (1.3 mg/m2) administered intravenously on Days 1, 4, 8, and 11 (rest period days 12 to 21); rituximab (375 mg/m2) on Day 1; cyclophosphamide (750 mg/m2) on Day 1; doxorubicin (50 mg/m2) on Day 1; and prednisone (100 mg/m2) on Day 1 through Day 5 of the 21 day treatment cycle.
-For patients with a response first documented at Cycle six, two additional treatment cycles were allowed.
+Patients in the VcR-CAP treatment arm received VELCADE (1.3 mg/m2) administered intravenously on Days 1, 4, 8, and 11 (rest period Days 12 to 21); rituximab (375 mg/m2) on Day 1; cyclophosphamide (750 mg/m2) on Day 1; doxorubicin (50 mg/m2) on Day 1; and prednisone (100 mg/m2) on Day 1 through Day 5 of the 21 day treatment cycle.
+For patients with a response first documented at Cycle 6, two additional treatment cycles were allowed.
 
 Median patient age was 66 years, 74% were male, 66% were Caucasian and 32% were Asian.
-Sixty nine percent of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of three (high-intermediate) or higher and 76% had Stage IV disease.
+Sixty-nine percent of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of three (high-intermediate) or higher and 76% had Stage IV disease.
 
 The majority of the patients in both groups received six or more cycles of treatment, 84% in the VcR-CAP group and 83% in the R-CHOP group.
 Median number of cycles received by patients in both treatment arms was six with 17% of patients in the R-CHOP group and 14% of subjects in the VcR-CAP group receiving up to two additional cycles.
 
 The efficacy results for PFS, CR and ORR with a median follow-up of 40 months are presented in Table 18.
 The response criteria used to assess efficacy were based on the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma (IWRC).
-Final overall survival results at a median follow up of 78.5 months are also presented in Table 18 and Figure 6.
+Final overall survival results at a median follow-up of 78.5 months are also presented in Table 18 and Figure 6.
 The combination of VcR-CAP resulted in statistically significant prolongation of PFS compared with R-CHOP (see Table 18, Figure 5).
 
 Table 18: Summary of Efficacy Analyses in the Previously Untreated Mantle Cell Lymphoma Study
 
-| Efficacy Endpoint n: Intent to Treat patients | VcR-CAP n=243 | R-CHOP n=244 |
+| Efficacy Endpoint n: Intent to Treat patients | VcR-CAP (n=243) | R-CHOP (n=244) |
 | --- | --- | --- |
-| Progression-free Survival (by independent radiographic assessment) |  |  |
+| Progression-Free Survival (by independent radiographic assessment) |  |  |
 | Events n (%) | 133 (55) | 165 (68) |
 | MedianBased on Kaplan-Meier product limit estimates. (months) (95% CI) | 25 (20, 32) | 14 (12, 17) |
 | Hazard ratioHazard ratio estimate is based on a Cox's model stratified by IPI risk and stage of disease. A hazard ratio <1 indicates an advantage for VcR-CAP. (95% CI) | 0.63 (0.50, 0.79) |  |
 | p-valueBased on Log rank test stratified with IPI risk and stage of disease. | <0.001 |  |
 | Complete Response Rate (CR)Includes CR by independent radiographic assessment, bone marrow, and LDH using ITT population. |  |  |
 | n (%) (95% CI) | 108 (44) (38, 51) | 82 (34) (28, 40) |
-| Overall Response Rate (CR+CRu+PR)Includes CR+ CRu+PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |
+| Overall Response Rate (CR + CRu + PR)Includes CR + CRu + PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |
 | n (%) | 214 (88) | 208 (85) |
 | (95% CI) | (83, 92) | (80, 89) |
 | Overall Survival |  |  |
-| Events n(%) | 103 (42) | 138 (57) |
+| Events n (%) | 103 (42) | 138 (57) |
 | Median (months) (95% CI) | 91 (71, NE) | 56 (47, 69) |
 | Hazard Ratio (95% CI) | 0.66 (0.51, 0.85) |  |
 | Note: All results are based on the analysis performed at a median follow-up duration of 40 months except for the overall survival analysis, which was performed at a median follow-up of 78.5 months. |  |  |
-| CI=Confidence Interval; IPI=International Prognostic Index; LDH=Lactate dehydrogenase |  |  |
+| CI = Confidence Interval; IPI = International Prognostic Index; LDH = Lactate dehydrogenase |  |  |
 
-Figure 5: Progression Free Survival VcR-CAP vs R-CHOP (previously Untreated Mantle Cell Lymphoma Study)
+Figure 5: Progression-Free Survival VcR-CAP vs R-CHOP (previously Untreated Mantle Cell Lymphoma Study)
 
-Key: R-CHOP=rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone.
+Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone.
 
 Figure 6: Overall Survival VcR-CAP vs R-CHOP (previously Untreated Mantle Cell Lymphoma Study)
 
-Key: R-CHOP=rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP= VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone.
+Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone.
 
-A Phase 2 Single-arm Clinical Study in Relapsed Mantle Cell Lymphoma After Prior Therapy
+A Phase 2 Single-Arm Clinical Study in Relapsed Mantle Cell Lymphoma after Prior Therapy
 
 The safety and efficacy of VELCADE in relapsed or refractory mantle cell lymphoma were evaluated in an open-label, single-arm, multicenter study (NCT00063713) of 155 patients with progressive disease who had received at least one prior therapy.
 The median age of the patients was 65 years (42, 89), 81% were male, and 92% were Caucasian.
 Of the total, 75% had one or more extra-nodal sites of disease, and 77% were Stage 4.
 In 91% of the patients, prior therapy included all of the following: an anthracycline or mitoxantrone, cyclophosphamide, and rituximab.
-A total of thirty seven percent (37%) of patients were refractory to their last prior therapy.
+A total of thirty-seven percent (37%) of patients were refractory to their last prior therapy.
 An intravenous bolus injection of VELCADE 1.3 mg/m2/dose was administered twice weekly for two weeks on Days 1, 4, 8, and 11 followed by a ten day rest period (Days 12 to 21) for a maximum of 17 treatment cycles.
 Patients achieving a CR or CRu were treated for four cycles beyond first evidence of CR or CRu.
 The study employed dose modifications for toxicity [see Dosage and Administration (2.6, 2.7)].
@@ -275,7 +275,7 @@ The study employed dose modifications for toxicity [see Dosage and Administratio
 Responses to VELCADE are shown in Table 19.
 Response rates to VELCADE were determined according to the International Workshop Response Criteria (IWRC) based on independent radiologic review of CT scans.
 The median number of cycles administered across all patients was four; in responding patients the median number of cycles was eight.
-The median time to response was 40 days (range 31 to 204 days).
+The median time to response was 40 days (range: 31 to 204 days).
 The median duration of follow-up was more than 13 months.
 
 Table 19: Response Outcomes in a Phase 2 Relapsed Mantle Cell Lymphoma Study

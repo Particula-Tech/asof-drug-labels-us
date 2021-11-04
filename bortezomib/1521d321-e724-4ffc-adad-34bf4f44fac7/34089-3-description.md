@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VELCADE® for Injection contains bortezomib which is an antineoplastic agent.
+VELCADE® for Injection, a proteasome inhibitor, contains bortezomib which is an antineoplastic agent.
 Bortezomib is a modified dipeptidyl boronic acid.
 The chemical name for bortezomib, the monomeric boronic acid, is [(1R)-3-methyl-1-[[(2S)-1-oxo-3-phenyl-2-[(pyrazinylcarbonyl) amino]propyl]amino]butyl] boronic acid.
 

@@ -50,15 +50,15 @@ Ability to Drive or Operate Machinery or Impairment of Mental Ability
 VELCADE may cause fatigue, dizziness, syncope, orthostatic/postural hypotension.
 Advise patients not to drive or operate machinery if they experience any of these symptoms [see Warnings and Precautions (5.2, 5.5)].
 
-Embryo-fetal Toxicity
+Embryo-Fetal Toxicity
 
-Advise females of the potential risk to the fetus and to avoid pregnancy and use effective contraception during treatment with VELCADE and for seven months following the final dose.
-Advise male patients with female sexual partners of reproductive potential to use effective contraception during treatment with VELCADE and for four months following the last dose.
+Advise females of the potential risk to the fetus and to use effective contraception during treatment with VELCADE and for seven months following the last dose.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with VELCADE and for four months following the last dose.
 Instruct patients to report pregnancy to their physicians immediately if they or their female partner becomes pregnant during treatment or within seven months following last dose [see Warnings and Precautions (5.11)].
 
 Lactation
 
-Advise patients to avoid breastfeeding while receiving VELCADE and for two months after last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed while receiving VELCADE and for two months after last dose [see Use in Specific Populations (8.2)].
 
 Concomitant Medications
 
@@ -71,7 +71,7 @@ Advise patients to check their blood sugar frequently if using an oral antidiabe
 Dermal
 
 Advise patients to contact their physicians if they experience rash, severe injection site reactions [see Dosage and Administration (2.9)], or skin pain.
-Discuss with patients the option for antiviral prophylaxis for herpes virus infection [see Clinical Trials Safety Experience (6.1)].
+Discuss with patients the option for antiviral prophylaxis for herpes virus infection [see Adverse Reactions (6.1)].
 
 Other
 

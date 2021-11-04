@@ -13,7 +13,7 @@ The following clinically significant adverse reactions are also discussed in oth
 - Hepatic Toxicity [see Warnings and Precautions (5.9)]
 - Thrombotic Microangiopathy [see Warnings and Precautions (5.10)]
 
-## 6.1 Clinical Trials Safety Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -23,7 +23,7 @@ Table 9 describes safety data from 340 patients with previously untreated multip
 
 The safety profile of VELCADE in combination with melphalan/prednisone is consistent with the known safety profiles of both VELCADE and melphalan/prednisone.
 
-Table 9: Most Commonly Reported Adverse Reactions (≥10% in the VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 9: Most Commonly Reported Adverse Reactions (≥10% in the VELCADE, Melphalan and Prednisone Arm) with Grades 3 and ≥4 Intensity in the Previously Untreated Multiple Myeloma Study
 
 | Adverse Reaction | n (%) | 3 | ≥4 | n (%) | 3 | ≥4 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,9 +41,9 @@ Table 9: Most Commonly Reported Adverse Reactions (≥10% in the VELCADE, Melpha
 | Diarrhea | 119 (35) | 19 (6) | 2 (1) | 20 (6) | 1 (<1) | 0 |
 | Vomiting | 87 (26) | 13 (4) | 0 | 41 (12) | 2 (1) | 0 |
 | Constipation | 77 (23) | 2 (1) | 0 | 14 (4) | 0 | 0 |
-| Abdominal Pain Upper | 34 (10) | 1 (<1) | 0 | 20 (6) | 0 | 0 |
+| Abdominal pain upper | 34 (10) | 1 (<1) | 0 | 20 (6) | 0 | 0 |
 | Nervous System Disorders |  |  |  |  |  |  |
-| Peripheral NeuropathyRepresents High Level Term Peripheral Neuropathies NEC | 156 (46) | 42 (12) | 2 (1) | 4 (1) | 0 | 0 |
+| Peripheral neuropathyRepresents High Level Term Peripheral Neuropathies NEC | 156 (46) | 42 (12) | 2 (1) | 4 (1) | 0 | 0 |
 | Neuralgia | 117 (34) | 27 (8) | 2 (1) | 1 (<1) | 0 | 0 |
 | Paresthesia | 42 (12) | 6 (2) | 0 | 4 (1) | 0 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
@@ -63,7 +63,7 @@ Relapsed Multiple Myeloma Randomized Study of VELCADE vs Dexamethasone
 
 The safety data described below and in Table 10 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
 VELCADE was administered intravenously at doses of 1.3 mg/m2 twice weekly for two out of three weeks (21 day cycle).
-After eight 21 day cycles patients continued therapy for three 35 day cycles on a weekly schedule.
+After eight, 21 day cycles patients continued therapy for three, 35 day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (nine months) with a median duration of six cycles (4.1 months).
 For inclusion in the trial, patients must have had measurable disease and one to three prior therapies.
 There was no upper age limit for entry.
@@ -85,7 +85,7 @@ The most commonly reported serious adverse reactions in the VELCADE treatment ar
 In the dexamethasone treatment group, the most commonly reported serious adverse reactions were pneumonia (4%), hyperglycemia (3%), pyrexia, and psychotic disorder (2% each).
 
 A total of 145 patients, including 84 (25%) of 331 patients in the VELCADE treatment group and 61 (18%) of 332 patients in the dexamethasone treatment group were discontinued from treatment due to adverse reactions.
-Among the 331 VELCADE treated patients, the most commonly reported adverse reaction leading to discontinuation was peripheral neuropathy (8%).
+Among the 331 VELCADE-treated patients, the most commonly reported adverse reaction leading to discontinuation was peripheral neuropathy (8%).
 Among the 332 patients in the dexamethasone group, the most commonly reported adverse reactions leading to treatment discontinuation were psychotic disorder and hyperglycemia (2% each).
 
 Four deaths were considered to be VELCADE-related in this relapsed multiple myeloma study: one case each of cardiogenic shock, respiratory insufficiency, congestive heart failure and cardiac arrest.
@@ -96,11 +96,11 @@ Most Commonly Reported Adverse Reactions in the Relapsed Multiple Myeloma Study 
 The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 10.
 All adverse reactions with incidence ≥10% in the VELCADE arm are included.
 
-Table 10: Most Commonly Reported Adverse Reactions (≥10% in VELCADE arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of VELCADE vs Dexamethasone (N=663)
+Table 10: Most Commonly Reported Adverse Reactions (≥10% in VELCADE Arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of VELCADE vs Dexamethasone (N=663)
 
 | Adverse Reactions | All | Grade 3 | Grade 4 | All | Grade 3 | Grade 4 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | VELCADE N=331 |  |  | Dexamethasone N=332 |  |  |
+|  | VELCADE (N=331) |  |  | Dexamethasone (N=332) |  |  |
 | Any Adverse Reactions | 324 (98) | 193 (58) | 28 (8) | 297 (89) | 110 (33) | 29 (9) |
 | Nausea | 172 (52) | 8 (2) | 0 | 31 (9) | 0 | 0 |
 | Diarrhea NOS | 171 (52) | 22 (7) | 0 | 36 (11) | 2 (<1) | 0 |
@@ -130,7 +130,7 @@ Safety Experience from the Phase 3 Open-Label Study of VELCADE Subcutaneous vs I
 
 The safety and efficacy of VELCADE administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
 This was a randomized, comparative study of VELCADE subcutaneous vs intravenous in 222 patients with relapsed multiple myeloma.
-The safety data described below and in Table 11 reflect exposure to either VELCADE subcutaneous (n=147) or VELCADE intravenous (n=74) [see Clinical Studies (14.1)].
+The safety data described below and in Table 11 reflect exposure to either VELCADE subcutaneous (N=147) or VELCADE intravenous (N=74) [see Clinical Studies (14.1)].
 
 Table 11: Most Commonly Reported Adverse Reactions (≥10%), with Grade 3 and ≥4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of VELCADE Subcutaneous vs Intravenous
 
@@ -193,43 +193,43 @@ Table 12: Most Commonly Reported Adverse Reactions (≥5%) with Grades 3 and ≥
 
 | Body System Adverse Reactions | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | VcR-CAP n=240 |  |  | R-CHOP n=242 |  |  |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |
+|  | VcR-CAP (n=240) |  |  | R-CHOP (n=242) |  |  |
+| Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 209 (87) | 32 (13) | 168 (70) | 172 (71) | 31 (13) | 125 (52) |
 | Leukopenia | 116 (48) | 34 (14) | 69 (29) | 87 (36) | 39 (16) | 27 (11) |
 | Anemia | 106 (44) | 27 (11) | 4 (2) | 71 (29) | 23 (10) | 4 (2) |
 | Thrombocytopenia | 172 (72) | 59 (25) | 76 (32) | 42 (17) | 9 (4) | 3 (1) |
 | Febrile neutropenia | 41 (17) | 24 (10) | 12 (5) | 33 (14) | 17 (7) | 15 (6) |
 | Lymphopenia | 68 (28) | 25 (10) | 36 (15) | 28 (12) | 15 (6) | 2 (1) |
-| Nervous system disorders |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |
 | Peripheral neuropathyRepresents High Level Term Peripheral Neuropathies NEC | 71 (30) | 17 (7) | 1 (<1) | 65 (27) | 10 (4) | 0 |
 | Hypoesthesia | 14 (6) | 3 (1) | 0 | 13 (5) | 0 | 0 |
 | Paresthesia | 14 (6) | 2 (1) | 0 | 11 (5) | 0 | 0 |
 | Neuralgia | 25 (10) | 9 (4) | 0 | 1 (<1) | 0 | 0 |
-| General disorders and administration site conditions |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | Fatigue | 43 (18) | 11 (5) | 1 (<1) | 38 (16) | 5 (2) | 0 |
 | Pyrexia | 48 (20) | 7 (3) | 0 | 23 (10) | 5 (2) | 0 |
 | Asthenia | 29 (12) | 4 (2) | 1 (<1) | 18 (7) | 1 (<1) | 0 |
 | Edema peripheral | 16 (7) | 1 (<1) | 0 | 13 (5) | 0 | 0 |
-| Gastrointestinal disorders |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |
 | Nausea | 54 (23) | 1 (<1) | 0 | 28 (12) | 0 | 0 |
 | Constipation | 42 (18) | 1 (<1) | 0 | 22 (9) | 2 (1) | 0 |
 | Stomatitis | 20 (8) | 2 (1) | 0 | 19 (8) | 0 | 1 (<1) |
 | Diarrhea | 59 (25) | 11 (5) | 0 | 11 (5) | 3 (1) | 1 (<1) |
 | Vomiting | 24 (10) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
 | Abdominal distension | 13 (5) | 0 | 0 | 4 (2) | 0 | 0 |
-| Infections and infestations |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |
 | Pneumonia | 20 (8) | 8 (3) | 5 (2) | 11 (5) | 5 (2) | 3 (1) |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
 | Alopecia | 31 (13) | 1 (<1) | 1 (<1) | 33 (14) | 4 (2) | 0 |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
 | Hyperglycemia | 10 (4) | 1 (<1) | 0 | 17 (7) | 10 (4) | 0 |
 | Decreased appetite | 36 (15) | 2 (1) | 0 | 15 (6) | 1 (<1) | 0 |
-| Vascular disorders |  |  |  |  |  |  |
+| Vascular Disorders |  |  |  |  |  |  |
 | Hypertension | 15 (6) | 1 (<1) | 0 | 3 (1) | 0 | 0 |
-| Psychiatric disorders |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |
 | Insomnia | 16 (7) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
-| Key: R-CHOP=rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
+| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
 
 The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
 Antiviral prophylaxis was mandated by protocol amendment.
@@ -244,7 +244,7 @@ The most commonly reported adverse reaction leading to discontinuation in the R-
 Integrated Summary of Safety (Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma)
 
 Safety data from Phase 2 and 3 studies of single agent VELCADE 1.3 mg/m2/dose twice weekly for two weeks followed by a ten day rest period in 1163 patients with previously-treated multiple myeloma (N=1008) and previously-treated mantle cell lymphoma (N=155) were integrated and tabulated.
-This analysis does not include data from the Phase 3 Open-Label Study of VELCADE subcutaneous vs intravenous in relapsed multiple myeloma.
+This analysis does not include data from the Phase 3 open-label study of VELCADE subcutaneous vs intravenous in relapsed multiple myeloma.
 In the integrated studies, the safety profile of VELCADE was similar in patients with multiple myeloma and mantle cell lymphoma.
 
 In the integrated analysis, the most commonly reported (>20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
@@ -269,11 +269,11 @@ All adverse reactions occurring at ≥10% are included.
 In the absence of a randomized comparator arm, it is often not possible to distinguish between adverse events that are drug-caused and those that reflect the patient's underlying disease.
 Please see the discussion of specific adverse reactions that follows.
 
-Table 13: Most Commonly Reported (≥10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
+Table 13: Most Commonly Reported (≥10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma Studies Using the 1.3 mg/m2 Dose (N=1163)
 
 | Adverse Reactions | All | ≥Grade 3 | All | ≥Grade 3 | All | ≥Grade 3 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Patients N=1163 |  | Multiple Myeloma N=1008 |  | Mantle Cell Lymphoma N=155 |  |
+|  | All Patients (N=1163) |  | Multiple Myeloma (N=1008) |  | Mantle Cell Lymphoma (N=155) |  |
 | Nausea | 567 (49) | 36 (3) | 511 (51) | 32 (3) | 56 (36) | 4 (3) |
 | Diarrhea NOS | 530 (46) | 83 (7) | 470 (47) | 72 (7) | 60 (39) | 11 (7) |
 | Fatigue | 477 (41) | 86 (7) | 396 (39) | 71 (7) | 81 (52) | 15 (10) |
@@ -320,7 +320,7 @@ The incidence of peripheral neuropathy was higher among patients with mantle cel
 
 In the VELCADE vs dexamethasone Phase 3 relapsed multiple myeloma study, among the 62 VELCADE-treated patients who experienced ≥Grade 2 peripheral neuropathy and had dose adjustments, 48% had improved or resolved with a median of 3.8 months from first onset.
 
-In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one Grade or more from the last dose of VELCADE.
+In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one grade or more from the last dose of VELCADE.
 
 Hypotension
 
@@ -338,17 +338,17 @@ Neutropenia was reported as a serious adverse reaction in <1% of patients and <1
 The incidence of neutropenia was higher in patients with multiple myeloma (16%) compared to patients with mantle cell lymphoma (5%).
 The incidence of ≥Grade 3 neutropenia also was higher in patients with multiple myeloma (12%) compared to patients with mantle cell lymphoma (3%).
 
-Asthenic conditions (Fatigue, Malaise, Weakness, Asthenia)
+Asthenic Conditions (Fatigue, Malaise, Weakness, Asthenia)
 
 Asthenic conditions were reported in 54% of patients.
 Fatigue was reported as Grade 3 in 7% and ≥Grade 4 in <1% of patients.
-Asthenia was reported as Grade 3 in 2% and ≥Grade 4 in < 1% of patients.
-Two percent (2%) of patients discontinued treatment due to fatigue and < 1% due to weakness and asthenia.
+Asthenia was reported as Grade 3 in 2% and ≥Grade 4 in <1% of patients.
+Two percent (2%) of patients discontinued treatment due to fatigue and <1% due to weakness and asthenia.
 Asthenic conditions were reported in 53% of patients with multiple myeloma and 59% of patients with mantle cell lymphoma.
 
 Pyrexia
 
-Pyrexia (> 38°C) was reported as an adverse reaction for 21% of patients.
+Pyrexia (>38°C) was reported as an adverse reaction for 21% of patients.
 The reaction was Grade 3 in 1% and ≥Grade 4 in <1%.
 Pyrexia was reported as a serious adverse reaction in 3% of patients and led to VELCADE discontinuation in <1% of patients.
 The incidence of pyrexia was higher among patients with multiple myeloma (23%) compared to patients with mantle cell lymphoma (10%).
@@ -397,9 +397,9 @@ Hepatobiliary Disorders: Cholestasis, hepatic hemorrhage, hyperbilirubinemia, po
 
 Immune System Disorders: Anaphylactic reaction, drug hypersensitivity, immune complex mediated hypersensitivity, angioedema, laryngeal edema
 
-Infections and Infestations: Aspergillosis, bacteremia, bronchitis, urinary tract infection, herpes viral infection, listeriosis, nasopharyngitis, pneumonia, respiratory tract infection, septic shock, toxoplasmosis, oral candidiasis, sinusitis, catheter related infection
+Infections and Infestations: Aspergillosis, bacteremia, bronchitis, urinary tract infection, herpes viral infection, listeriosis, nasopharyngitis, pneumonia, respiratory tract infection, septic shock, toxoplasmosis, oral candidiasis, sinusitis, catheter-related infection
 
-Injury, Poisoning and Procedural Complications: Catheter related complication, skeletal fracture, subdural hematoma
+Injury, Poisoning and Procedural Complications: Catheter-related complication, skeletal fracture, subdural hematoma
 
 Investigations: Weight decreased
 
@@ -415,7 +415,7 @@ Renal and Urinary Disorders: Calculus renal, bilateral hydronephrosis, bladder s
 
 Respiratory, Thoracic and Mediastinal Disorders: Acute respiratory distress syndrome, aspiration pneumonia, atelectasis, chronic obstructive airways disease exacerbated, cough, dysphagia, dyspnea, dyspnea exertional, epistaxis, hemoptysis, hypoxia, lung infiltration, pleural effusion, pneumonitis, respiratory distress, pulmonary hypertension
 
-Skin and Subcutaneous Tissue disorders: Urticaria, face edema, rash (which may be pruritic), leukocytoclastic vasculitis, pruritus.
+Skin and Subcutaneous Tissue Disorders: Urticaria, face edema, rash (which may be pruritic), leukocytoclastic vasculitis, pruritus
 
 Vascular Disorders: Cerebrovascular accident, cerebral hemorrhage, deep venous thrombosis, hypertension, peripheral embolism, pulmonary embolism, pulmonary hypertension
 
@@ -434,7 +434,7 @@ Gastrointestinal Disorders: Ischemic colitis
 
 Infections and Infestations: Progressive multifocal leukoencephalopathy (PML), ophthalmic herpes, herpes meningoencephalitis
 
-Nervous System Disorders: Posterior reversible encephalopathy syndrome (PRES, formerly RPLS)
+Nervous System Disorders: Posterior reversible encephalopathy syndrome (PRES, formerly RPLS), Guillain-Barré syndrome, demyelinating polyneuropathy
 
 Respiratory, Thoracic and Mediastinal Disorders: Acute diffuse infiltrative pulmonary disease
 
