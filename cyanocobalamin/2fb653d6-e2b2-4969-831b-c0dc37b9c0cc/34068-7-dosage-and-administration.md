@@ -15,6 +15,6 @@ Patients with Normal Intestinal Absorption: Where the oral route is not deemed a
 Chronic treatment should be with an oral B12 preparation.
 If other vitamin deficiencies are present, they should be treated.
 
-Schilling Test: The flushing dose is 1000 mcg.
+Schilling Test: The flushing dose is 1,000 mcg.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

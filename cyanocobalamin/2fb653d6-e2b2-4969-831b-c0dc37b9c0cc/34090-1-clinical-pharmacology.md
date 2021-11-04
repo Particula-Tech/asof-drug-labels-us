@@ -6,7 +6,7 @@ Cyanocobalamin is quantitatively and rapidly absorbed from intramuscular and sub
 Absorbed vitamin B12 is transported via specific B12 binding proteins, transcobalamin I and II to the various tissues.
 The liver is the main organ for vitamin B12 storage.
 
-Within 48 hours after injection of 100 or 1000 mcg of vitamin B12, 50 to 98% of the injected dose may appear in the urine.
+Within 48 hours after injection of 100 or 1,000 mcg of vitamin B12, 50 to 98% of the injected dose may appear in the urine.
 The major portion is excreted within the first eight hours.
 Intravenous administration results in even more rapid excretion with little opportunity for liver storage.
 
