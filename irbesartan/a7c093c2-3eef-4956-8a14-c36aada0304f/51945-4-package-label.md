@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Irbesartan Tablets USP
+Irbesartan Tablets
 
 Rx Only
 
@@ -10,7 +10,7 @@ NDC 68180-410-06
 
 30's Tablets
 
-Irbesartan Tablets USP
+Irbesartan Tablets
 
 Rx Only
 
@@ -20,7 +20,7 @@ NDC 68180-411-06
 
 30's Tablets
 
-Irbesartan Tablets USP
+Irbesartan Tablets
 
 Rx Only
 

@@ -8,7 +8,7 @@ Irbesartan can cause fetal harm when administered to a pregnant woman.
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death [see Clinical Considerations].
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-When pregnancy is detected, discontinue Irbesartan-hydrochlorothiazide as soon as possible.
+When pregnancy is detected, discontinue irbesartan as soon as possible.
 
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes regardless of drug exposure.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -34,15 +34,15 @@ Closely observe infants with histories of in utero exposure to irbesartan for hy
 In neonates with a history of in utero exposure to irbesartan, if oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
 
-DATA
+Data
 
-Animal Data
+Animal data
 
 Irbesartan crosses the placenta in rats and rabbits.
 In female rats given irbesartan prior to mating though gestation and lactation at oral doses of 50, 180, or 650 mg/kg/day (1.6 to 21.1 times the maximum recommended human dose (MRHD) based on body surface area), fetuses examined on Gestation Day 20 showed increased incidences of hydroureter and renal pelvic cavitation and/or absence of renal papilla in all irbesartan-treated groups.
 Subcutaneous edema also occurred in fetuses at maternal doses ≥180 mg/kg/day (5.8 times the MRHD).
-These anomalies occurred when female rats received irbesartan from prior to mating through Day 20 of gestation but were not observed in pups postnatally in the same study, or when irbesartan was given to pregnant rats only during organogenesis (Gestation Day 6 through Gestation Day 15) at oral doses from 50 to 450 mg/kg/day (up to 14.6 times the MHRD).
-In addition, no adverse effects on kidney development were observed in pups from dams given irbesartan from Gestation Day 15 through Lactation Day 24 at doses of 50, 180, or 650 mg/kg/day (up to 21.1 times the MHRD).
+These anomalies occurred when female rats received irbesartan from prior to mating through Day 20 of gestation but were not observed in pups postnatally in the same study, or when irbesartan was given to pregnant rats only during organogenesis (Gestation Day 6 through Gestation Day 15) at oral doses from 50 to 450 mg/kg/day (up to 14.6 times the MRHD).
+In addition, no adverse effects on kidney development were observed in pups from dams given irbesartan from Gestation Day 15 through Lactation Day 24 at doses of 50, 180, or 650 mg/kg/day (up to 21.1 times the MRHD).
 The observed effects are believed to be late gestational effects of the drug.
 Pregnant rabbits given oral doses of irbesartan of 30 mg/kg/day (1.9 times the MRHD based on body surface area) experienced a high rate of maternal mortality and abortion.
 Surviving females had a slight increase in early resorptions and a corresponding decrease in live fetuses.
@@ -53,7 +53,7 @@ Radioactivity was present in the rat and rabbit fetuses during late gestation fo
 
 There are no available data on the presence of irbesartan in human milk, effects on milk production, or the breastfed infant.
 Irbesartan or some metabolite of irbesartan is secreted in the milk of lactating rats [see Clinical Pharmacology (12.3)].
-Because of the potential for adverse effects on the nursing infant, the use of Irbesartan in breastfeeding women is not recommended.
+Because of the potential for adverse effects on the nursing infant, the use of irbesartan in breastfeeding women is not recommended.
 
 ## 8.4 Pediatric Use
 
@@ -65,4 +65,4 @@ Irbesartan has not been studied in pediatric patients less than 6 years old.
 
 Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3.0%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
-[see CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.1)]
+[see Clinical Pharmacology (12.3) and Clinical Studies (14.1)]

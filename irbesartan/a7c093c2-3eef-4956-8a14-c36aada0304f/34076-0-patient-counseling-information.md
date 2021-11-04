@@ -8,7 +8,7 @@ Patients should be asked to report pregnancies to their physicians as soon as po
 
 Potassium Supplements
 
-Advise patients receiving irbesartan not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see DRUG INTERACTIONS (7.1)].
+Advise patients receiving irbesartan not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
 
 Manufactured for:
 
@@ -26,4 +26,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA.
 
-Revised: August 2021 ID#: 268244
+Revised: December 2021 ID#: 268978

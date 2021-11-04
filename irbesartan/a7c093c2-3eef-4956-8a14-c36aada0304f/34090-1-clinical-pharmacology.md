@@ -23,7 +23,7 @@ In hypertensive patients, angiotensin II receptor inhibition following chronic a
 Aldosterone plasma concentrations generally decline following irbesartan administration, but serum potassium levels are not significantly affected at recommended doses.
 
 In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no effect on glomerular filtration rate, renal plasma flow, or filtration fraction.
-In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol, HDL-cholesterol, or fasting glucose concentrations.
+In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol or HDL-cholesterol concentrations.
 There was no effect on serum uric acid during chronic oral administration, and no uricosuric effect.
 
 ## 12.3 Pharmacokinetics
@@ -87,7 +87,7 @@ Renal impairment
 
 The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
-No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see WARNINGS AND PRECAUTIONS (5.2) and DOSAGE AND ADMINISTRATION (2.4)].
+No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see Warnings and Precautions (5.2) and Dosage and Administration (2.4)].
 
 Hepatic insufficiency
 

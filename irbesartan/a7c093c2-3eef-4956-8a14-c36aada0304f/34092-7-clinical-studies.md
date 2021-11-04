@@ -8,7 +8,7 @@ These studies allowed comparison of once or twice-daily regimens at 150 mg/day, 
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1 to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 
@@ -47,7 +47,7 @@ The primary composite endpoint was the time to occurrence of any one of the foll
 Treatment with irbesartan resulted in a 20% risk reduction versus placebo (p=0.0234) (see Figure 3 and Table 1).
 Treatment with irbesartan also reduced the occurrence of sustained doubling of serum creatinine as a separate endpoint (33%), but had no significant effect on ESRD alone and no effect on overall mortality (see Table 1).
 
-Figure 3: IDNT: Kaplan-Meier Estimates of Primary Endpoint (Doubling of Serum Creatinine, End-Stage Renal Disease or All-Cause Mortality
+Figure 3: IDNT: Kaplan-Meier Estimates of Primary Endpoint (Doubling of Serum Creatinine, End-Stage Renal Disease or All-Cause Mortality)
 
 The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below:
 
@@ -75,7 +75,7 @@ Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, irbesartan's favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting enzyme inhibitors, and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
 
-Table 2: IDNT: Primary Efficacy Outcome Within Subgroups
+Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
 |  |  | Comparison with Placebo |  |  |
 | --- | --- | --- | --- | --- |

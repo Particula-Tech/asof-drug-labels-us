@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-Irbesartan tablets USP are indicated for the treatment of hypertension, to lower blood pressure.
+Irbesartan tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular (CV) events, primarily strokes and myocardial infarction.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug.
 
@@ -19,9 +19,9 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-Irbesartan tablets USP may be used alone or in combination with other antihypertensive agents.
+Irbesartan tablets may be used alone or in combination with other antihypertensive agents.
 
 ## 1.2 Nephropathy in Type 2 Diabetic Patients
 
-Irbesartan tablets USP are indicated for the treatment of diabetic nephropathy in patients with type 2 diabetes and hypertension, an elevated serum creatinine, and proteinuria (>300 mg/day).
-In this population, irbesartan tablet USP reduces the rate of progression of nephropathy as measured by the occurrence of doubling of serum creatinine or end-stage renal disease (need for dialysis or renal transplantation) [see CLINICAL STUDIES (14.2)].
+Irbesartan tablets are indicated for the treatment of diabetic nephropathy in patients with type 2 diabetes and hypertension, an elevated serum creatinine, and proteinuria (>300 mg/day).
+In this population, irbesartan tablet reduces the rate of progression of nephropathy as measured by the occurrence of doubling of serum creatinine or end-stage renal disease (need for dialysis or renal transplantation) [see Clinical Studies (14.2)].
