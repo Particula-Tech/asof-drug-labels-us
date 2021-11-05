@@ -2,4 +2,4 @@
 
 Tablet: 500 mg: white, oval, film-coated, biconvex, scored on one side, and debossed with OV 111 on the other.
 
-Powder for oral solution: 500 mg packets of a white to off-white granular powder.
+For oral solution: 500 mg packet containing a white to off-white granular powder.

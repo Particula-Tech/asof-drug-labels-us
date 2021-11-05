@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-SABRIL®(SAY-bril) (vigabatrin) Tablets
+SABRIL®(SAY-bril) (vigabatrin) tablets
 
 SABRIL®(SAY-bril) (vigabatrin) for oral solution
 
@@ -147,7 +147,7 @@ SABRIL and other medicines may affect each other causing side effects.
 
 How should I take SABRIL?
 
-- SABRIL comes as tablets or as a powder for mixing oral solution.
+- SABRIL comes as tablets or as packets containing powder for mixing with water to make an oral solution.
 - You or your child will receive SABRIL from a specialty pharmacy.
 - Take SABRIL exactly as your healthcare provider tells you to.
   SABRIL is usually taken 2 times each day.
@@ -238,7 +238,7 @@ What are the ingredients in SABRIL?
 Active Ingredient: vigabatrin Inactive Ingredients:
 
 - Tablets: hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycols, povidone, sodium starch glycolate, and titanium dioxide
-- Powder for oral solution: povidone
+- For oral solution: povidone
 
 Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
@@ -247,4 +247,4 @@ SABRIL is a registered trademark of Lundbeck
 For more information, go to www.SABRIL.net or call 1-866-402-8520.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 4/2021
+Revised: 10/2021
