@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal:
+Storage and Disposal
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store OXYCONTIN securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving OXYCONTIN unsecured can pose a deadly risk to others in the home.
@@ -77,7 +77,7 @@ Instruct patients how to properly take OXYCONTIN, including the following:
 
 Important Discontinuation Instructions
 
-- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXYCONTIN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXYCONTIN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.10)].
 
 Hypotension
 

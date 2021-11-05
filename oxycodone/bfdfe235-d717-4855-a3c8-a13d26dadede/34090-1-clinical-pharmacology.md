@@ -52,7 +52,7 @@ Concentration –Efficacy Relationships
 Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective “drug effect”, analgesia and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
 
 Concentration –Adverse Reaction Relationships
 
@@ -106,7 +106,7 @@ Distribution
 Following intravenous administration, the steady-state volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Oxycodone binding to plasma protein at 37°C and a pH of 7.4 was about 45%.
 Once absorbed, oxycodone is distributed to skeletal muscle, liver, intestinal tract, lungs, spleen, and brain.
-Oxycodone has been found in breast milk [see Use in Specific Populations (8.4)].
+Oxycodone has been found in breast milk [see Use in Specific Populations (8.2)].
 
 Elimination
 

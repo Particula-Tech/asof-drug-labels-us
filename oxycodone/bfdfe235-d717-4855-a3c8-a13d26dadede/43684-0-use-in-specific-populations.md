@@ -31,7 +31,7 @@ Opioids cross the placenta and may produce respiratory depression and psycho-phy
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 OXYCONTIN is not recommended for use in women immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including OXYCONTIN, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
-However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 Data
@@ -100,7 +100,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Hepatic Impairment
 
 A study of OXYCONTIN in patients with hepatic impairment demonstrated greater plasma concentrations than those seen at equivalent doses in persons with normal hepatic function [see Clinical Pharmacology (12.3)].
-Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.8)].
+Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.9)].
 Monitor closely for signs of respiratory depression, sedation, and hypotension.
 
 ## 8.7 Renal Impairment

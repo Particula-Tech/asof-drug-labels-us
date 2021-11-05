@@ -56,7 +56,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.10)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose:
 
