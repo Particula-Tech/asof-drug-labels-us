@@ -125,8 +125,9 @@ A post hoc analysis indicated no observed recurrence of infantile spasms in any 
 SABRIL 500 mg tablets are white, film-coated, oval, biconvex, scored on one side, and debossed with OV 111 on the other.
 They are supplied as bottles of 100 (NDC 67386-111-01).
 
-SABRIL 500 mg packets contain a white to off-white granular powder.
+SABRIL for oral solution is available as 500 mg packets containing a white to off-white granular powder.
 They are supplied in packages of 50 (NDC 67386-211-65).
+
 The oral syringes are provided separately by the pharmacy.
 
 ## 16.2 Storage and Handling

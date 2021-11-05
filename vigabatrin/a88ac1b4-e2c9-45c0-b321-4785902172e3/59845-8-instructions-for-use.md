@@ -14,8 +14,8 @@ Talk to your healthcare provider if you have any questions about the right dose 
 Important Note:
 
 - SABRIL for oral solution comes in a packet
-- Each packet contains 500 mg of SABRIL as a powder
-- The SABRIL powder must be mixed with water only.
+- Sabril packet contains 500 mg of powder
+- SABRIL must be mixed with water only.
   The water may be cold or at room temperature.
 - Your healthcare provider will tell you:
   - how many packets of SABRIL you will need for each dose
@@ -105,4 +105,4 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 SABRIL is a registered trademark of Lundbeck
 
-Revised: 4/2021
+Revised: 10/2021

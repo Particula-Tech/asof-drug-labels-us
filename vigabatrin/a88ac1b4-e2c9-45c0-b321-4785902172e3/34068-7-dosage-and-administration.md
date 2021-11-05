@@ -6,7 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to SABRIL consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The SABRIL dosing regimen depends on the indication, age group, weight, and dosage form [see Dosage and Administration (2.2, 2.3)].
+The SABRIL dosing regimen depends on the indication, age group, weight, and dosage form (tablets or for oral solution) [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
 Monitoring of SABRIL plasma concentrations to optimize therapy is not helpful.
