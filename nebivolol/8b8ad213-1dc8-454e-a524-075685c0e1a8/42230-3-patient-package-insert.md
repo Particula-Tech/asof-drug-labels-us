@@ -124,13 +124,7 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 Rev.
 June 2019
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
-
-Licensed from Mylan Laboratories, Inc.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from Mylan Laboratories, Inc.
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 

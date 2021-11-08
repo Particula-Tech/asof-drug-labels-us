@@ -15,11 +15,7 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from Mylan Laboratories, Inc.
 
