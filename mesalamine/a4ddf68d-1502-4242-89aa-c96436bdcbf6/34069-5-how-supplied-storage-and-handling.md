@@ -44,6 +44,6 @@ Distributed By Perrigo®
 
 Allegan, MI 49010 • www.perrigorx.com
 
-Rev 10-20
+Rev 01-21
 
-2N900 RC J8
+2N900 RC J9
