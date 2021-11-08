@@ -10,6 +10,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS
@@ -43,6 +44,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS
@@ -59,9 +61,8 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
-Discard unused portion.
 
-VANCO READY™
+Discard unused portion.
 
 xellia PHARMACEUTICALS
 
@@ -111,6 +112,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS
@@ -127,6 +129,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS
@@ -143,6 +146,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS
@@ -159,6 +163,7 @@ Ready To Use
 
 For intravenous infusion only.
 Store below 25°C (77°F), in original package.
+
 Discard unused portion.
 
 xellia PHARMACEUTICALS

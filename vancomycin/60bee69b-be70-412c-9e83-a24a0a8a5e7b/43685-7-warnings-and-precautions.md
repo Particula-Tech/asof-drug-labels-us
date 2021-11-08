@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Potential Risk of Exposure to Excipients During Early Pregnancy
+## 5.1 Potential Risk of Exposure to Excipients During the First or Second Trimester of Pregnancy
 
 If use of vancomycin is needed during the first or second trimester of pregnancy, use other available formulations of vancomycin.
 This formulation of Vancomycin Injection contains the excipients polyethylene glycol (PEG 400) and N-acetyl D-alanine (NADA).

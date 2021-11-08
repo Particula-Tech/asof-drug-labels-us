@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Potential Risk of Exposure to Excipients During Early Pregnancy
+Potential Risk of Exposure to Excipients During the First or Second Trimester of Pregnancy
 
 Advise patients to notify their healthcare provider if they are pregnant prior to treatment with this formulation of vancomycin [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
