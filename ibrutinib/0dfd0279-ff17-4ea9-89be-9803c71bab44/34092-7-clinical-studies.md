@@ -68,7 +68,7 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Efficacy results for RESONATE are shown in Table 21 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for RESONATE are shown in Table 21 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figure 1 and Figure 2, respectively.
 
 Table 21: Efficacy Results in Patients with CLL/SLL in RESONATE
 
@@ -91,10 +91,6 @@ b IRC evaluated.
 All partial responses achieved; none of the patients achieved a complete response.
 
 CI = confidence interval; HR = hazard ratio; NE = not evaluable
-
-Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE
-
-Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in RESONATE
 
 63-Month Follow-Up
 
@@ -164,8 +160,6 @@ a IRC evaluated; Five subjects (3.7%) in the IMBRUVICA arm and two subjects (1.5
 
 b HR = hazard ratio; NE = not evaluable
 
-Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE-2
-
 55-Month Follow-Up
 
 With an overall follow-up of 55 months, the median PFS was not reached in the IMBRUVICA arm.
@@ -198,8 +192,6 @@ Table 24: Efficacy Results in Patients with CLL/SLL in HELIOS
 a IRC evaluated, twenty-four subjects (8.3%) in the IMBRUVICA + BR arm and six subjects (2.1%) in the placebo + BR arm achieved complete response
 
 BR = bendamustine and rituximab; CI = confidence interval; HR = hazard ratio; NE = not evaluable
-
-Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in HELIOS
 
 iLLUMINATE
 
@@ -242,8 +234,6 @@ d PR = nPR +PR
 
 HR = hazard ratio; NE = not evaluable
 
-Figure 5: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in iLLUMINATE
-
 In the high risk CLL/SLL population (del 17p/TP53 mutation, del 11q, or unmutated IGHV), the PFS HR was 0.15 [95% CI (0.09, 0.27)].
 
 E1912
@@ -278,8 +268,6 @@ Table 26: Efficacy Results in Patients with CLL/SLL in E1912
 a P-value is from unstratified log-rank test.
 
 FCR = fludarabine, cyclophosphamide, and rituximab; HR = hazard ratio; R = rituximab; NE = not evaluable
-
-Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in E1912
 
 With a median follow-up time on study of 49 months, median overall survival was not reached with a total of 23 deaths: 11 (3%) in the IMBRUVICA plus rituximab and 12 (7%) in the FCR treatment arms.
 
@@ -365,8 +353,6 @@ CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab
 a P-value is from the stratified log-rank test
 
 b P-value associated with response rate was <0.0001
-
-Figure 7: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE
 
 Median overall survival was not reached for either treatment arm.
 With an overall follow-up of 63 months, 9 (12%) patients on IMBRUVICA + R and 10 (13.3%) patients on placebo + R had died.

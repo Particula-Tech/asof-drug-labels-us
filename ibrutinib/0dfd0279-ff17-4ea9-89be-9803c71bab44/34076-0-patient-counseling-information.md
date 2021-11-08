@@ -23,26 +23,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - Advise patients that they may experience loose stools or diarrhea and should contact their doctor if their diarrhea persists.
   Advise patients to maintain adequate hydration [see Adverse Reactions (6.1)].
 
-Active ingredient made in China.
+Distributed and Marketed by: Pharmacyclics LLC South San Francisco, CA 94080 USA and Marketed by: Janssen Biotech, Inc. Horsham, PA 19044 USA
 
-Distributed and Marketed by:
+Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
 
-Pharmacyclics LLC
-
-Sunnyvale, CA USA 94085
-
-and
-
-Marketed by:
-
-Janssen Biotech, Inc.
-
-Horsham, PA USA 19044
-
-Patent http://www.imbruvica.com
-
-IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
-
-© Pharmacyclics LLC 2020
-
-© Janssen Biotech, Inc. 2020
+© Pharmacyclics LLC 2021 © Janssen Biotech, Inc. 2021
