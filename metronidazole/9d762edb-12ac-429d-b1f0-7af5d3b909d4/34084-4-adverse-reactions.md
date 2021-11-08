@@ -33,6 +33,8 @@ MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS: Muscle spasms, Arthralgia, Myal
 
 RENAL AND URINARY DISORDERS: Chromaturia, Dysuria
 
+Hepatic: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) (see CONTRAINDICATIONS)
+
 REPRODUCTIVE: Dyspareunia
 
 GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills,
