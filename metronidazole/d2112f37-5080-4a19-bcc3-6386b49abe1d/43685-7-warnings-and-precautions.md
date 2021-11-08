@@ -15,15 +15,6 @@ Aseptic meningitis may occur within hours of dose administration and generally r
 Advise patients to report neurologic symptoms that occur during metronidazole administration.
 Discontinue metronidazole treatment if any abnormal neurologic symptoms occur such as ataxia, dizziness, confusion or any other CNS adverse reaction (see ADVERSE REACTIONS).
 
-## Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
-
-Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
-In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
-Obtain liver function tests prior to the start of therapy, within the first 2-3 days after initiation of therapy, frequently during therapy and after end of treatment.
-Discontinue metronidazole if elevation of liver function occurs, and monitor liver function tests until the baseline values are reached.
-
-Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.
-
 # PRECAUTIONS
 
 ## General
