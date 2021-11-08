@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215563"
+  ],
+  "inn": "bisoprolol",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-455-10",
+    "70954-455-20",
+    "70954-456-10",
+    "70954-456-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bisoprolol fumarate",
+      "name": "Bisoprolol Fumarate"
+    }
+  ],
+  "setid": "6517d564-ea55-4084-a8ab-34fea548c24e",
+  "source": "dailymed"
+}
