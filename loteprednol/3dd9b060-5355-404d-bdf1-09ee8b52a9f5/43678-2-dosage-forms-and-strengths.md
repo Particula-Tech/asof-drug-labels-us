@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ZYLET (loteprednol etabonate and tobramycin ophthalmic suspension) 0.5%/0.3% contains 5 mg/mL loteprednol etabonate and 3 mg/mL tobramycin.
+Ophthalmic suspension containing 5 mg/mL (0.5%) loteprednol etabonate and 3 mg/mL (0.3%) tobramycin.

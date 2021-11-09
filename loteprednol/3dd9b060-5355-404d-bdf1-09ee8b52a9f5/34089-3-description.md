@@ -10,9 +10,9 @@ Chemical name: chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrost
 
 Tobramycin:
 
-Chemical Name:
+Chemical name:
 
-O-3-Amino-3-deoxy-α-D-glucopyranosyl-(1→ 4)-O- [2,6-diamino-2,3,6-trideoxy-α-D-ribo-hexopyranosyl- (1→ 6)] -2-deoxystreptamine
+O-3-Amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diamino-2,3,6-trideoxy-α-D-ribo-hexopyranosyl-(1→6)]-2-deoxystreptamine
 
 Each mL contains: Actives: Loteprednol Etabonate 5 mg (0.5%) and Tobramycin 3 mg (0.3%).
 Inactives: Edetate Disodium, Glycerin, Povidone, Purified Water, Tyloxapol, and Benzalkonium Chloride 0.01% (preservative).

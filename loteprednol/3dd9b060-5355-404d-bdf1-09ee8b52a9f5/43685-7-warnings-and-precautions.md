@@ -38,3 +38,11 @@ Fungal cultures should be taken when appropriate.
 
 Sensitivity to topically applied aminoglycosides may occur in some patients.
 If hypersensitivity develops with this product, discontinue use and institute appropriate therapy.
+
+## 5.8 Risk of Contamination
+
+Do not allow the dropper tip to touch any surface, as this may contaminate the suspension.
+
+## 5.9 Contact Lens Wear
+
+As with all ophthalmic preparations containing benzalkonium chloride, patients should be advised not to wear soft contact lenses when using ZYLET.

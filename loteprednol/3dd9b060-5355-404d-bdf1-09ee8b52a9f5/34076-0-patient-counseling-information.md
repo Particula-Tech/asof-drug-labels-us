@@ -1,22 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Risk of Contamination
+
 This product is sterile when packaged.
-Patients should be advised not to allow the dropper tip to touch any surface, as this may contaminate the suspension.
-If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
-As with all ophthalmic preparations containing benzalkonium chloride, patients should be advised not to wear soft contact lenses when using ZYLET.
+Advise patients not to allow the dropper tip to touch any surface, as this may contaminate the suspension.
 
-Distributed by:
+Risk of Secondary Infection
 
-Bausch + Lomb, a division of Bausch Health US, LLC
+Advise patients to consult a physician if pain develops, redness, itching or inflammation becomes aggravated.
 
-Bridgewater, NJ 08807 USA
+Contact Lens Wear
 
-ZYLET is a trademark of Bausch & Lomb Incorporated or its affiliates.
+As with all ophthalmic preparations containing benzalkonium chloride, advise patients not to wear soft contact lenses when using ZYLET.
 
-© 2019 Bausch & Lomb Incorporated or its affiliates
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA ZYLET is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
+© 2021 Bausch & Lomb Incorporated or its affiliates
 
-9007707 (FOLDED)
+9007708 (FOLDED)
 
-9004407 (FLAT)
+9004408 (FLAT)
