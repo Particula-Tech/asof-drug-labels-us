@@ -1,3 +1,5 @@
-A short-acting depolarizing skeletal muscle relaxant.
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-This drug should be used only by individuals familiar with its actions, characteristics and hazards.
+Novaplus is a registered trademark of Vizient, Inc.
+
+LAB-1247-5.0
