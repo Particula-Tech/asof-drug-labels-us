@@ -4,7 +4,7 @@ Desmopressin Nasal Spray, USP 10 mcg per 0.1 mL
 
 (des·mo·pres·sin)
 
-for Intranasal Use Only
+For Intranasal Use Only
 
 What is desmopressin nasal spray?
 
@@ -13,7 +13,7 @@ Desmopressin nasal spray is a prescription medicine called a vasopressin analog 
 - Desmopressin nasal spray is not effective in the treatment of nephrogenic diabetes insipidus.
 - Desmopressin nasal spray should not be used in people with nasal problems that may keep them from using a nasal spray.
 
-Who should not use desmopressin nasal spray ?
+Who should not use desmopressin nasal spray?
 
 Do not use desmopressin nasal spray if you:
 
@@ -94,9 +94,9 @@ This Patient Information has been approved by the Food and Drug Administration
 
 APOTEX INC.
 
-Desmopressin Nasal Spray, USP 10 mcg per 0.1 mL
+Desmopressin Nasal Spray, USP 10 mcg/ 0.1 mL
 
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-February 2020
+September 2021
