@@ -6,10 +6,4 @@ Bottles of 100 NDC 65862-169-01 Bottles of 1,000 NDC 65862-169-99 Atenolol Table
 Bottles of 100 NDC 65862-170-01 Bottles of 1,000 NDC 65862-170-99 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Dispense in well-closed, light-resistant containers.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 07/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2021
