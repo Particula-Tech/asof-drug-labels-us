@@ -26,7 +26,7 @@ Dosage reductions may need to be considered for adult patients with hepatic impa
 
 Strict aseptic technique must always be maintained during handling of dexmedetomidine injection.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Dexmedetomidine injection, 200 mcg/2 mL (100 mcg/mL) Dexmedetomidine injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
+Dexmedetomidine Injection, 200 mcg/2 mL (100 mcg/mL) Dexmedetomidine injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 To prepare the infusion, withdraw 2 mL of dexmedetomidine injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.

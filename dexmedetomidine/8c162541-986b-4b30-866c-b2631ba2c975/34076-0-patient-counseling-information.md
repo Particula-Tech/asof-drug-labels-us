@@ -8,6 +8,6 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 - Additionally, patients should be informed to report symptoms that may occur within 48 hours after the administration of dexmedetomidine such as: weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness.
 
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
 
-Revised: September 2020
+Revised: October 2021
