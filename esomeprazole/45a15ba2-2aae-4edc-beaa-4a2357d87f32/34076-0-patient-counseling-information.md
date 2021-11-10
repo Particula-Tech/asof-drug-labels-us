@@ -21,4 +21,4 @@ Administration
 - Inform patients that antacids may be used while taking esomeprazole.
 
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India

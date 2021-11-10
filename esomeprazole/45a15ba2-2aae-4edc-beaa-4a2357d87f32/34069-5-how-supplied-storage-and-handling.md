@@ -5,3 +5,4 @@ Esomeprazole sodium for injection is supplied as a sterile, freeze-dried, white 
 Protect from light.
 Store in carton until time of use.
 Following reconstitution and administration, discard any unused portion of esomeprazole solution [see Dosage and Administration (2.4, 2.5)].
+The vial stopper is not made with natural rubber latex.
