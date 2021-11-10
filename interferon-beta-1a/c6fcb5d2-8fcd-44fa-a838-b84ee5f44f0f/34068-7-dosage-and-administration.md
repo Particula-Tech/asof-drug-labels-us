@@ -49,7 +49,7 @@ Advise patients and caregivers to:
 
 - visually inspect REBIF for particulate matter and discoloration prior to administration
 - use aseptic technique when administering REBIF
-- rotate site of injection with each dose to minimize the likelihood of severe injection site reactions or necrosis [see Warnings and Precautions, (5.4)]
+- rotate site of injection with each dose to minimize the likelihood of severe injection site reactions, including necrosis or localized infection [see Warnings and Precautions (5.4)]
 - use a puncture-resistant container for safe disposal of used needles, prefilled syringes and REBIF Rebidose autoinjectors
 - do not re-use needles, syringes or REBIF Rebidose autoinjectors
 

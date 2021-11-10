@@ -19,7 +19,7 @@ Anaphylaxis and Other Allergic Reactions
 
 Advise patients of the symptoms of allergic reactions and anaphylaxis, and instruct patients to seek immediate medical attention if these symptoms occur [see Warnings and Precautions (5.3)].
 
-Injection Site Reactions including Necrosis
+Injection Site Reactions Including Necrosis
 
 Advise patients that injection site reactions occur in most patients treated with REBIF and that injection site necrosis may occur [see Warnings and Precautions (5.4)].
 Instruct patients to promptly report any break in the skin, which may be associated with blue-black discoloration, swelling, or drainage of fluid from the injection site, prior to continuing their REBIF therapy.
@@ -44,4 +44,4 @@ Advise patients that concurrent use of analgesics and/or antipyretics may help r
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Pregnancy (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Use in Specific Populations (8.1)].
