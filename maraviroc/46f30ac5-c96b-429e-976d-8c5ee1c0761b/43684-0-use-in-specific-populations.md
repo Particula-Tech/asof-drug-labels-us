@@ -41,7 +41,7 @@ Maraviroc (and related metabolites) was excreted into the milk of lactating rats
 ## 8.4 Pediatric Use
 
 The safety and efficacy of SELZENTRY have been established in pediatric patients aged from birth to less than 18 years.
-The use of SELZENTRY in pediatric patients was supported by pharmacokinetic and safety data described below and by previous demonstration of efficacy in adult patients [see Indications and Usage (1)], Dosage and Administration (2.4)].
+The use of SELZENTRY in pediatric patients was supported by pharmacokinetic and safety data described below and by previous demonstration of efficacy in adult patients [see Indications and Usage (1), Dosage and Administration (2.4)].
 
 HIV-1–Infected Pediatric Patients Aged 2 to Less Than 18 Years: The safety, pharmacokinetic profile, and antiviral activity of SELZENTRY were evaluated in treatment-experienced, CCR5-tropic, HIV-1–infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg in an open-label, multicenter clinical trial, A4001031 [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 Pharmacokinetics were evaluated in a total of 98 pediatric subjects: 85 subjects received SELZENTRY and concomitant medications that included potent CYP3A inhibitors with or without potent CYP3A inducers, 10 subjects received SELZENTRY and noninteracting medications (not containing potent CYP3A inhibitors or potent CYP3A inducers), and three subjects received SELZENTRY and medications that included potent CYP3A inducers without potent CYP3A inhibitors [see Clinical Pharmacology (12.3)].

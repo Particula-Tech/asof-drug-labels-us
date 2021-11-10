@@ -105,7 +105,7 @@ Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Gr
 | Amylase | >2.0 x ULN | 5.7 | 5.8 |  |  |  |  |  |
 | Lipase | >2.0 x ULN | 4.9 | 6.3 |  |  |  |  |  |
 | Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |  |  |  |  |  |
-| ULN = Upper limit of normal. a Percentages based on total subjects evaluated for each laboratory parameter. |  |  |  |  |  |  |  |  |
+| ULN = Upper limit of normal; OBT = optimized background therapy. a Percentages based on total subjects evaluated for each laboratory parameter. |  |  |  |  |  |  |  |  |
 
 Treatment‑Naive Subjects: Treatment-Emergent Adverse Events: Treatment-emergent adverse events, regardless of causality, from Trial A4001026, a double-blind, comparative, controlled trial in which 721 treatment-naive subjects received SELZENTRY 300 mg twice daily (n = 360) or efavirenz 600 mg once daily (n = 361) in combination with lamivudine/zidovudine (COMBIVIR) for 96 weeks, are summarized in Table 7.
 Selected events occurring in greater than or equal to 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
@@ -180,7 +180,7 @@ Hepatobiliary Disorders: Hepatic cirrhosis, hepatic failure, cholestatic jaundic
 
 Infections and Infestations: Endocarditis, infective myositis, viral meningitis, pneumonia, treponema infections, septic shock, Clostridium difficile colitis, meningitis.
 
-Musculoskeletal and Connective Tissue Disorders: Myositis, osteonecrosis, rhabdomyolysis, blood CK increased.
+Musculoskeletal and Connective Tissue Disorders: Myositis, osteonecrosis, rhabdomyolysis, blood creatine kinase increased.
 
 Neoplasms Benign, Malignant, and Unspecified (Including Cysts and Polyps): Abdominal neoplasm, anal cancer, basal cell carcinoma, Bowen’s disease, cholangiocarcinoma, diffuse large B-cell lymphoma, lymphoma, metastases to liver, esophageal carcinoma, nasopharyngeal carcinoma, squamous cell carcinoma, squamous cell carcinoma of skin, tongue neoplasm (malignant stage unspecified), anaplastic large cell lymphomas T- and null-cell types, bile duct neoplasms malignant, endocrine neoplasms malignant and unspecified.
 
@@ -214,7 +214,7 @@ One subject (3%) discontinued due to an adverse event (Grade 3 staphylococcal se
 
 ## 6.2 Postmarketing Experience
 
-The following adverse events have been identified during post-approval use of SELZENTRY.
+The following adverse events have been identified during postapproval use of SELZENTRY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders

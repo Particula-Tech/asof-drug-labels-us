@@ -52,7 +52,7 @@ Demographic and Baseline Characteristics of Subjects in Trials A4001027 and A400
 | PI substitutions | 10 | 10 |
 | NNRTI substitutions | 1 | 1 |
 | NRTI substitutions | 6 | 6 |
-| a OSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing. b Resistance substitutions based on IAS guidelines.1 |  |  |
+| NNRTI = Non-nucleoside reverse transcriptase inhibitors; NRTI = nucleoside reverse transcriptase inhibitors; OBT = optimized background therapy; PI = protease inhibitor. a OSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing. b Resistance substitutions based on IAS guidelines.1 |  |  |
 
 The Week 48 results for the pooled Trials A4001027 and A4001028 are shown in Table 17.
 

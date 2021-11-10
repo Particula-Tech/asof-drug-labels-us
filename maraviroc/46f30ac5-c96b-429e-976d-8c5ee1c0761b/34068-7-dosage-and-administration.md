@@ -6,7 +6,7 @@ Prior to initiation of SELZENTRY for treatment of HIV-1 infection, test all pati
 SELZENTRY is recommended for patients with only CCR5-tropic HIV-1 infection.
 Outgrowth of pre-existing low-level CXCR4- or dual/mixed-tropic HIV-1 not detected by tropism testing at screening has been associated with virologic failure on SELZENTRY [see Microbiology (12.4), Clinical Studies (14.1)].
 
-Monitor patients for ALT, AST, and bilirubin prior to initiation of SELZENTRY and at other time points during treatment as clinically indicated [see Warnings and Precautions (5.1)].
+Monitor patients for alanine aminotransferase (ALT), aspartate aminotransferase (AST), and bilirubin prior to initiation of SELZENTRY and at other time points during treatment as clinically indicated [see Warnings and Precautions (5.1)].
 
 ## 2.2 General Dosing Recommendations
 
@@ -52,7 +52,7 @@ Recommended Dosage in Pediatric Patients Aged 2 Years and Older Weighing at Leas
 The recommended oral dosage of SELZENTRY oral solution in pediatric patients weighing at least 2 kg is presented in Table 3.
 
 Table 3.
-Recommended Dosage in Pediatric Patients Weighing at Least 2kg (Oral Solution)
+Recommended Dosage in Pediatric Patients Weighing at Least 2 kg (Oral Solution)
 
 | Concomitant Medications | Dosage (Volume of Solution) of SELZENTRY Based on Weight |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Recommended Dosage in Adults Based on Renal Function
 | Potent CYP3A inhibitors (with or without a CYP3A inducer)a | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | Contra-indicated | Contra-indicated |
 | Noninteracting concomitant medicationsb | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyc |
 | Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor)d | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | Contra-indicated | Contra-indicated |
-| a Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin. b Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir. c Dosage of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)]. d Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin. |  |  |  |  |  |
+| CrCl = Creatinine Clearance. a Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin. b Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir. c Dosage of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)]. d Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin. |  |  |  |  |  |
 
 Pediatric Patients
 

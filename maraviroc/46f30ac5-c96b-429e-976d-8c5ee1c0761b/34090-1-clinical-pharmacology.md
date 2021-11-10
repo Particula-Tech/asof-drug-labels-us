@@ -257,7 +257,7 @@ Maraviroc-resistant viruses were characterized phenotypically by concentration-r
 Cross-Resistance in Cell Culture: Maraviroc had antiviral activity against HIV‑1 clinical isolates resistant to NNRTIs, NRTIs, PIs, and the gp41 fusion inhibitor enfuvirtide in cell culture (EC50 values ranged from 0.7 to 8.9 nM [0.36 to 4.57 ng per mL]).
 Maraviroc‑resistant viruses that emerged in cell culture remained susceptible to enfuvirtide and the protease inhibitor saquinavir.
 
-Clinical Resistance: Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc, through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below), through resistance to background therapy drugs (Table 15), or due to low exposure to maraviroc [see Clinical Pharmacology (12.2)].
+Clinical Resistance: Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc, through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism), through resistance to background therapy drugs (Table 15), or due to low exposure to maraviroc [see Clinical Pharmacology (12.2)].
 
 Antiretroviral Treatment-Experienced Adult Subjects (Trials A4001027 and A4001028): Week 48 data from treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n = 58) have identified 22 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration-response curves that did not reach 100% inhibition.
 Additionally, CCR5-tropic virus from 2 of these treatment-failure subjects had greater than or equal to 3-fold shifts in EC50 values for maraviroc at the time of failure.

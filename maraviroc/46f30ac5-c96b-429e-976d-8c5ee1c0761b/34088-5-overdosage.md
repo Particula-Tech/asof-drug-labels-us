@@ -8,7 +8,7 @@ Prolongation of the QT interval was seen in dogs and monkeys at plasma concentra
 However, no significant QT prolongation was seen in the trials in treatment-experienced subjects with HIV using the recommended doses of maraviroc, or in a specific pharmacokinetic trial to evaluate the potential of maraviroc to prolong the QT interval [see Clinical Pharmacology (12.2)].
 
 There is no specific antidote for overdose with maraviroc.
-Treatment of overdose should consist of general supportive measures including keeping the patient in a supine position, careful assessment of patient vital signs, blood pressure, and ECG.
+Treatment of overdose should consist of general supportive measures including keeping the patient in a supine position, careful assessment of patient vital signs, blood pressure, and electrocardiogram.
 
 Administration of activated charcoal may also be used to aid in removal of unabsorbed drug.
 Hemodialysis had a minimal effect on maraviroc clearance and exposure in a trial in subjects with ESRD [see Clinical Pharmacology (12.3)].
