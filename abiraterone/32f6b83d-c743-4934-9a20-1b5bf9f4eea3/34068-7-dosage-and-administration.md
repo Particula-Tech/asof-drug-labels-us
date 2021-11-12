@@ -11,8 +11,11 @@ The recommended dose of abiraterone acetate tablets are 1,000 mg (four 250 mg ta
 ## 2.3 Important Administration Instructions
 
 Patients receiving abiraterone acetate tablets should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
-Abiraterone acetate tablets must be taken on an empty stomach, at least one hour before or at least two hours after a meal [see Clinical Pharmacology (12.3)].
-The tablets should be swallowed whole with water.
+
+Abiraterone acetate tablets must be taken as a single dose once daily on an empty stomach.
+
+Do not eat food 2 hours before and 1 hour after taking abiraterone acetate tablets.
+The tablets must be swallowed whole with water.
 Do not crush or chew tablets.
 
 ## 2.4 Dose Modification Guidelines in Hepatic Impairment and Hepatotoxicity

@@ -25,8 +25,9 @@ How should I take abiraterone acetate tablets?
 - Take your prescribed dose of abiraterone acetate tablets 1 time a day.
 - Your healthcare provider may change your dose if needed.
 - Do not change or stop taking your prescribed dose of abiraterone acetate tablets or prednisone without talking with your healthcare provider first.
-- Take abiraterone acetate tablets on an empty stomach, at least one hour before or at least two hours after a meal.
-  Do not take abiraterone acetate tablets with food.
+- Take abiraterone tablets as a single dose one time a day on an empty stomach.
+  Do not eat food 2 hours before and 1 hour after taking abiraterone tablets.
+- Do not take abiraterone acetate tablets with food.
   Taking abiraterone acetate tablets with food may cause more of the medicine to be absorbed by the body than is needed and this may cause side effects.
 - Swallow abiraterone acetate tablets whole.
   Do not crush or chew tablets.
@@ -46,7 +47,7 @@ Tell your healthcare provider if you get any of the following symptoms:
 o dizziness o confusion o fast or irregular heartbeats o muscle weakness o feet faint or lightheaded o pain in your legs o headache o swelling in your legs or feet
 
 • Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress. • Severe l iver problems.
-You may develop changes in liver function blood test.
+You may develop changes in liver function blood tests.
 Your healthcare provider will do blood tests to check your liver before treatment with abiraterone acetate tablets and during treatment with abiraterone acetate tablets.
 Liver failure may occur, which can lead to death.
 Tell your healthcare provider right away if you notice any of the following changes: o yellowing of the skin or eyes o darkening of the urine o severe nausea or vomiting
@@ -54,11 +55,11 @@ Tell your healthcare provider right away if you notice any of the following chan
 • Increased risk of bone fracture and death when abiraterone acetate tablets and prednisone or prednisolone, is used in combination with a type of radiation called radium Ra 223 dichloride.
 Tell your healthcare provider about any other treatments you are taking for prostate cancer.
 
-• Severe low blood sugar (hypoglycemia).
+� Severe low blood sugar (hypoglycemia).
 Severe low blood sugar with abiraterone acetate tablets can happen in people who have diabetes and take certain antidiabetic medicines.
-You and/or your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate tablets and after you stop treatment.
+You and your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate tablets and after you stop treatment.
 Your healthcare provider may also need to change the dose of your antidiabetic medicines.
-Signs and symptoms of low blood sugar may include:
+Signs and symptoms of low blood sugar may include.
 
 | headache | irritability |
 | --- | --- |
@@ -90,4 +91,4 @@ For more information, go to www.novadozpharma.com or call 1-855-668-2369.
 What are the ingredients of abiraterone acetate tablets?
 Active ingredient: abiraterone acetate Inactive ingredients: 250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Revised: 07/2021
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Rev: 10/2021

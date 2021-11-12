@@ -9,12 +9,13 @@ Hepatotoxicity • Inform patients that abiraterone acetate is associated with s
 Inform patients that their liver function will be monitored using blood tests.
 Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
 
-Hypoglycemia • Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
+Hypoglycemia • Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide, antidiabetic drugs.
 Advise patients with diabetes to monitor glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6)and Drug Interactions (7.2)].
 Use in Combination with Radium Ra 223 Dichloride • Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus prednisone/prednisolone.
 Inform patients to speak with their healthcare provider about any other medications or treatment they are currently taking for prostate cancer [see Warnings and Precautions (5.4)].
-Dosing and Administration • Inform patients that abiraterone acetate is taken once daily with prednisone (once or twice daily according to their healthcare provider's instructions) and to not interrupt or stop either of these medications without consulting their healthcare provider. • Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with abiraterone acetate. • Instruct patients to take abiraterone acetate on an empty stomach, at least one hour before or at least two hours after a meal.
-Abiraterone acetate taken with food causes increased exposure and may result in adverse reactions.
+Dosing and Administration • Inform patients that abiraterone acetate is taken once daily with prednisone (once or twice daily according to their healthcare provider's instructions) and to not interrupt or stop either of these medications without consulting their healthcare provider. • Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with abiraterone acetate. • Instruct patients to take abiraterone acetate tablets as a single dose once daily on an empty stomach.
+Instruct patients to not eat food 2 hours before and 1 hour after taking abiraterone tablets.
+Abiraterone tablets taken with food causes increased exposure and may result in adverse reactions.
 Instruct patients to swallow tablets whole with water and not to crush or chew the tablets [see Dosage and Administration (2.3)]. • Inform patients that if they miss a dose of abiraterone acetate or prednisone, they should take their normal dose the following day.
 If more than one daily dose is skipped, inform patients to contact their healthcare provider [see Dosage and Administration (2.3)].
 
@@ -25,4 +26,4 @@ Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
 For BluePoint Laboratories
 
-Revised: 07/2021
+Rev: 10/2021

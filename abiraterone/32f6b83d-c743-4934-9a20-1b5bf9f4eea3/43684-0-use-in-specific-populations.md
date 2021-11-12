@@ -14,7 +14,7 @@ The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03
 ## 8.2 Lactation
 
 Risk Summary The safety and efficacy of abiraterone acetate have not been established in females.
-There is no information available on the presence of abiraterone acetate in human milk, or on the effects on the breastfed child or milk production.
+There is no information available on the presence of abiraterone in human milk, or on the effects on the breastfed child or milk production.
 
 ## 8.3 Females and Males of Reproductive Potential
 
