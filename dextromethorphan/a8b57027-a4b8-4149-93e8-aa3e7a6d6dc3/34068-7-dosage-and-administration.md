@@ -1,6 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-Promethazine hydrochloride and dextromethorphan hydrobromide syrup is contraindicated for children under 2 years of age (seeWARNINGS Black Box Warning and Use in Pediatric Patients).
+It is important that Promethazine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution is measured with an accurate measuring device (see PRECAUTIONS-Information for Patients).
+A household teaspoon is not an accurate measuring device and could lead to overdosage, especially when half a teaspoon is to be measured.
+It is strongly recommended that an accurate measuring device be used.
+A pharmacist can provide an appropriate device and can provide instructions for measuring the correct dose.
+
+Promethazine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution is contraindicated for children under 2 years of age (see WARNINGS Black Box Warning and Use in Pediatric Patients).
 
 The average effective dose is given in the following table:
 

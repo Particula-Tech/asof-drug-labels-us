@@ -1,13 +1,14 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
+NDC 27808-057-01
+
+Promethazine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution
+
 6.25 mg and 15 mg per 5 mL
 
-Manufactured By: Tris Pharma Inc. Monmouth Junction, NJ 08852
+Alcohol 8% (v/v)
 
-www.trispharma.com
+Rx only
 
-LB8077
-
-Rev 00
-
-03/12
+16 fl. oz.
+(473 mL)

@@ -16,13 +16,16 @@ Atropine-like signs and symptoms–dry mouth, fixed dilated pupils, flushing, as
 Treatment: The treatment of overdosage with promethazine and dextromethorphan is essentially symptomatic and supportive.
 Only in cases of extreme overdosage or individual sensitivity do vital signs including respiration, pulse, blood pressure, temperature, and EKG need to be monitored.
 Activated charcoal orally or by lavage may be given, or sodium or magnesium sulfate orally as a cathartic.
-Attention should be given to the reestablishment of adequate respiratory exchange through provision of a patient airway and institution of assisted or controlled ventilation.
+Attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
 Diazepam may be used to control convulsions.
 Acidosis and electrolyte losses should be corrected.
 The antidotal efficacy of narcotic antagonists to dextromethorphan has not been established; note that any of the depressant effects of promethazine are not reversed by naloxone.
 Avoid analeptics, which may cause convulsions.
 
-Severe hypotension usually responds to the administration of norepinephrine or phenylephrine.
-EPINEPHRINE SHOULD NOT BE USED, since its use in a patient with partial adrenergic blockage may further lower the blood pressure.
+The treatment of choice for resulting hypotension is administration of intravenous fluids, accompanied by repositioning if indicated.
+In the event that vasopressors are considered for the management of severe hypotension which does not respond to intravenous fluids and repositioning, the administration of norepinephrine or phenylephrine should be considered.
+EPINEPHRINE SHOULD NOT BE USED, since its use in a patient with partial adrenergic blockade may further lower the blood pressure.
+Extrapyramidal reactions may be treated with anticholinergic antiparkinson agents, diphenhydramine, or barbiturates.
+Oxygen may also be administered.
 
 Limited experience with dialysis indicates that it is not helpful.
