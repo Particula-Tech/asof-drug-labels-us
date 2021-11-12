@@ -9,4 +9,4 @@ Risk of Driving and Operating Machinery Inform patients that tranexamic acid may
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.auromedics.com.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
