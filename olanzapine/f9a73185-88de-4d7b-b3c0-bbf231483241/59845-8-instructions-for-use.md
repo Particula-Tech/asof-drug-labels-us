@@ -1,4 +1,4 @@
-| Instructions to Reconstitute and Administer Zyprexa® Relprevv™ |  |  |  |  |  |  |  |  |
+| Instructions to Reconstitute and Administer Single-Dose vial of Zyprexa® Relprevv® |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FOR DEEP INTRAMUSCULAR GLUTEAL INJECTION ONLY. |  |  |  |  |  |  |  |  |
 | NOT TO BE INJECTED INTRAVENOUSLY OR SUBCUTANEOUSLY. |  |  |  |  |  |  |  |  |
@@ -6,7 +6,7 @@
 | PREPARING MATERIALS |  |  |  |  |  |  |  |  |
 | Convenience kit includes: |  |  |  |  |  |  |  |  |
 | (see Figure 1 on right) |  |  |  |  |  |  |  |  |
-| Vial of Zyprexa Relprevv powder |  |  |  |  |  |  |  |  |
+| Single-dose vial of Zyprexa Relprevv powder |  |  |  |  |  |  |  |  |
 | 3-mL vial of diluent |  |  |  |  |  |  |  |  |
 | One 3-mL syringe with pre-attached 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro® needle with needle protection device |  |  |  |  |  |  |  |  |
 | Two 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needles with needle protection device |  |  |  |  |  |  |  |  |
@@ -49,11 +49,11 @@
 | 4.7 | After insertion of the needle into the muscle, aspirate for several seconds to ensure that no blood appears. If any blood is drawn into the syringe, discard the syringe and the dose and begin with a new convenience kit. The injection should be performed with steady, continuous pressure. |  |  |  |  |  |  |  |
 |  | DO NOT MASSAGE THE INJECTION SITE. |  |  |  |  |  |  |  |
 | 4.8 | Engage the needle safety device. |  |  |  |  |  |  |  |
-| 4.9 | Dispose of the vials, needles, and syringe appropriately after injection. The vial is for single-use only. |  |  |  |  |  |  |  |
-| Zyprexa® Relprevv™ is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |
-| Copyright © 2009, 2019, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
-| Literature revised: June 20, 2019 |  |  |  |  |  |  |  |  |
-| ZYPR-0002-IFU-20190620 |  |  |  |  |  |  |  |  |
+| 4.9 | Dispose of the vials, needles, and syringe appropriately after injection. The vial is for single-dose only. |  |  |  |  |  |  |  |
+| Zyprexa® Relprevv® is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |
+| Copyright © 2009, 2021, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
+| Literature revised: Feb 26, 2021 |  |  |  |  |  |  |  |  |
+| ZYPR-0003-IFU-20210226 |  |  |  |  |  |  |  |  |
 | Smiths Medical Jelco® Hypodermic Needle-Pro® Needle With Needle Protection Device |  |  |  |  |  |  |  |  |
 | 1. | DESCRIPTION: |  |  |  |  |  |  |  |
 |  | The Hypodermic Needle-Pro® device is a sterile, single use device. It includes a needle and needle safety sheath. The Needle-Pro® device can be used with a Luer slip or Luer lock syringe. |  |  |  |  |  |  |  |

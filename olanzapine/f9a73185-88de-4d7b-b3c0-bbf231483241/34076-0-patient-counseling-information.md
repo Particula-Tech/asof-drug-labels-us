@@ -85,7 +85,7 @@ Pediatric Use — Safety and effectiveness of ZYPREXA RELPREVV in patients under
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2020, Eli Lilly and Company.
+Copyright © 2009, 2021, Eli Lilly and Company.
 All rights reserved.
 
-ZYPR-0011-USPI-20200723
+ZYPR-0012-USPI-20210222

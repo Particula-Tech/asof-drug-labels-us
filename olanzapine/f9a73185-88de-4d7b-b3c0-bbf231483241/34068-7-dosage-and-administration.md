@@ -66,7 +66,7 @@ Step 1: Preparing Materials
 
 Convenience kit includes:
 
-- Vial of ZYPREXA RELPREVV powder
+- Single-dose vial of ZYPREXA RELPREVV powder
 - 3-mL vial of diluent
 - One 3-mL syringe with pre-attached 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro® needle with needle protection device
 - Two 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needles with needle protection device
@@ -179,4 +179,4 @@ Do not massage the injection site.
 Engage the needle safety device.
 
 Dispose of the vials, needles, and syringe appropriately after injection.
-The vial is for single-use only.
+The vial is for single-dose only.

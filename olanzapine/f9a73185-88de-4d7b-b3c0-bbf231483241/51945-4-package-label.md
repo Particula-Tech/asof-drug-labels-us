@@ -8,7 +8,7 @@ ZYPREXA® Relprevv™
 
 For Extended Release Injectable Suspension
 
-210 mg/vial Convenience kit
+210 mg/vial Single-Dose Vial Convenience Kit
 
 Medication Guide is to be dispensed to patients.
 
@@ -16,7 +16,7 @@ VL7635/VL7622
 
 Convenience kit includes:
 
-One vial of Zyprexa® Relprevv™ 210 mg/vial
+Single-Dose vial of Zyprexa® Relprevv™ 210 mg/vial
 
 One 3-mL vial of diluent
 
@@ -49,7 +49,7 @@ ZYPREXA® Relprevv™
 
 For Extended Release Injectable Suspension
 
-300 mg/vial Convenience kit
+300 mg/vial Single-Dose Vial Convenience Kit
 
 Medication Guide is to be dispensed to patients.
 
@@ -57,7 +57,7 @@ VL7636/VL7622
 
 Convenience kit includes:
 
-One vial of Zyprexa® Relprevv™ 300 mg/vial
+Single-Dose vial of Zyprexa® Relprevv™ 300 mg/vial
 
 One 3-mL vial of diluent
 
@@ -90,7 +90,7 @@ ZYPREXA® Relprevv™
 
 For Extended Release Injectable Suspension
 
-405 mg/vial Convenience kit
+405 mg/vial Single-Dose Vial Convenience Kit
 
 Medication Guide is to be dispensed to patients.
 
@@ -98,7 +98,7 @@ VL7637/VL7622
 
 Convenience kit includes:
 
-One vial of Zyprexa® Relprevv™ 405 mg/vial
+Single-Dose vial of Zyprexa® Relprevv™ 405 mg/vial
 
 One 3-mL vial of diluent
 
