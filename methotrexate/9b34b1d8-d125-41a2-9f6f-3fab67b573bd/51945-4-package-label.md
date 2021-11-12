@@ -13,5 +13,3 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 Rx only
 
 36 Tablets
-
-TEVA
