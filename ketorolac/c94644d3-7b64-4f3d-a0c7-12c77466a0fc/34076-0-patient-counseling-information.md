@@ -18,18 +18,12 @@ Patients should be advised that ACULAR® solution should not be administered whi
 
 ## 17.4 Intercurrent Ocular Conditions
 
-Patients should be advised that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of ACULAR®.
+Patients should be advised that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician’s advice concerning the continued use of ACULAR®.
 
 ## 17.5 Concomitant Topical Ocular Therapy
 
 Patients should be advised that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-© 2012 Allergan, Inc., Irvine, CA 92612, U.S.A.
-
-ACULAR® is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A.
-
-® marks owned by Allergan, Inc.
-
-Made in the U.S.A.
+© 2012 Allergan, Inc., Irvine, CA 92612, U.S.A. ACULAR® is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
 72379US10
