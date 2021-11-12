@@ -6,8 +6,9 @@ The following serious or clinically significant adverse reactions are described 
 - Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Failure [see Warnings and Precautions (5.4)]
-- Photosensitivity [see Warnings and Precautions (5.5)]
-- Nephrolithiasis [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
 ## 6.1Clinical Trials Experience
 
@@ -45,7 +46,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hepatic Disorders: cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
 - Hematologic Disorders: agranulocytosis, aplastic anemia, thrombocytopenia
 - Neurological/Psychiatric Disorders: Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis, intracranial hypertension
-- Renal Disorders: interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)]
-- Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis)
-- Skin and Subcutaneous Tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria
+- Renal Disorders: interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
+- Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis), pleuritis/pleurisy
+- Skin and Subcutaneous Tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria, SJS/TEN, DRESS and AGEP [see Warnings and Precautions (5.5)]
 - Urogenital: reversible oligospermia

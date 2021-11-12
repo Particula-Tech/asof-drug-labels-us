@@ -13,4 +13,4 @@ If concomitant use of CANASA and azathioprine or 6-mercaptopurine cannot be avoi
 ## 7.3Interference With Urinary Normetanephrine Measurements
 
 Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection, because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid.
-Consider an alternative, selective assay for normetanephrine [see Warnings and Precautions (5.7)].
+Consider an alternative, selective assay for normetanephrine [see Warnings and Precautions (5.8)].

@@ -15,8 +15,10 @@
 | ○ yellowing of your eyes | ○ flu-like symptoms |
 | ○ itchy skin | ○ nausea or vomiting |
 | ○ feeling very tired |  |
+| serious skin reactions. Some people who use CANASA can have severe skin reactions. Stop using CANASA and tell your doctor right away if you develop any of the following signs or symptoms of a severe skin reaction, including: |  |
+| ○ blisters or peeling of your skin ○ mouth sores ○ blisters on your lips, or around your mouth or eyes | ○ high fever or flu-like symptoms ○ enlarged lymph nodes ○ skin rash |
 | sun sensitivity. CANASA can make your skin sensitive to the sun if you have skin conditions such as atopic dermatitis and atopic eczema. Try to limit your time in the sun. You should use sunscreen and wear a hat and clothes that cover your skin if you have to be in the sunlight. kidney stones. Drink plenty of fluids when using CANASA to decrease your chance of getting kidney stones. Call your doctor right away if you get any of these symptoms: |  |
-| severe pain in your side severe pain in your back | blood in your urine |
+| ○ severe pain in your side ○ severe pain in your back | ○ blood in your urine |
 | The most common side effects of CANASA include: |  |
 | ○ dizziness | ○ rectal pain |
 | ○ acne | ○ fever |
@@ -24,9 +26,9 @@
 | These are not all of the possible side effects of CANASA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store CANASA? Store CANASA at room temperature between 68°F to 77°F (20°C to 25°C). CANASA may be refrigerated. Keep CANASA away from direct heat, light, or humidity. Keep CANASA and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of CANASA. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use CANASA for a condition for which it was not prescribed. Do not give CANASA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about CANASA that is written for health professionals. |  |
-| What are the ingredients in CANASA? Active ingredients: mesalamine Inactive ingredients: hard fat base Distributed by: Allergan USA, Inc. Madison, NJ 07940 CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate. © 2020 Allergan. All rights reserved. Patented. See www.allergan.com/patents For more information, go to www.canasa.com or call 1-800- 678-1605. |  |
+| What are the ingredients in CANASA? Active ingredients: mesalamine Inactive ingredients: hard fat base Distributed by: Allergan USA, Inc. Madison, NJ 07940 CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate. © 2021 Allergan. All rights reserved. Patented. See www.allergan.com/patents For more information, go to www.canasa.com or call 1-800- 678-1605. |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: October 2020
+Revised: November 2021
 
-v2.0PPI501
+v3.0PPI501

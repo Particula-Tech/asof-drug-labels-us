@@ -28,26 +28,27 @@ Hepatic Failure
 
 - Inform patients with known liver disease of the signs and symptoms of worsening liver function and advise them to report to their healthcare provider if they experience such signs or symptoms [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+- Inform patients of the signs and symptoms of severe cutaneous adverse reactions.
+  Instruct patients to stop taking CANASA and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or any other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Photosensitivity
 
-- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.5)].
+- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
 
 Nephrolithiasis
 
-- Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.6)].
+- Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Blood Disorders
 
 - Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
   Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
 
-Distributed by:
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-Allergan USA, Inc.
-
-Madison, NJ 07940
-
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
 Patented.
@@ -57,4 +58,4 @@ CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan aff
 
 For more information, go to www.canasa.com or call 1-800-678-1605.
 
-v2.0USPI0501
+v3.0USPI0501
