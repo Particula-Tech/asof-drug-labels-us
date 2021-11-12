@@ -226,7 +226,7 @@ ZYPREXA® IntraMuscular
 
 Olanzapine for Injection
 
-Sterile Single Use Vial
+Sterile Single-Dose Vial
 
 Rx only
 

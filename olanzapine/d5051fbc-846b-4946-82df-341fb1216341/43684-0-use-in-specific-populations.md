@@ -15,7 +15,7 @@ Neonates exposed to antipsychotic drugs, including ZYPREXA, during the third tri
 Overall available data from published epidemiologic studies of pregnant women exposed to olanzapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ZYPREXA, during pregnancy (see Clinical Considerations).
 
-Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9- and 30 times the daily oral maximum recommended human dose (MRHD), based on mg/m2 body surface area; some fetal toxicities were observed at these doses (see Data).
+Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9- and 30-times the daily oral maximum recommended human dose (MRHD), based on mg/m2 body surface area; some fetal toxicities were observed at these doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.

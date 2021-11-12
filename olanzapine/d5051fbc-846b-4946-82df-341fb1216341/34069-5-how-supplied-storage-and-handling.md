@@ -32,7 +32,7 @@ The tablets are available as follows:
 ZYPREXA IntraMuscular is available in:
 
 - NDC 0002-7597-01 (No.
-  VL7597) – 10 mg vial (1s)
+  VL7597) – 10 mg single-dose vial (1s)
 
 ## 16.2 Storage and Handling
 

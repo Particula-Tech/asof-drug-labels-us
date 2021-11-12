@@ -23,4 +23,4 @@ The tablets are available as follows:
 | Tablet No. | 4453 | 4454 | 4455 | 4456 |
 | Debossed | 5 | 10 | 15 | 20 |
 
-ZYPREXA IntraMuscular is available in 10 mg vial (1s).
+ZYPREXA IntraMuscular is available as single-dose 10 mg vial (1s).
