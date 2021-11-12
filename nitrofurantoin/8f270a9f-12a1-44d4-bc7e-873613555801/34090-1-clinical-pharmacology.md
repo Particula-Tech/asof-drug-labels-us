@@ -3,7 +3,7 @@
 Each Macrobid capsule contains two forms of nitrofurantoin.
 Twenty-five percent is macrocrystalline nitrofurantoin, which has slower dissolution and absorption than nitrofurantoin monohydrate.
 The remaining 75% is nitrofurantoin monohydrate contained in a powder blend which, upon exposure to gastric and intestinal fluids, forms a gel matrix that releases nitrofurantoin over time.
-Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg Macrobid capsule are similar to those of the 50 mg or 100 mg Macrodantin®(nitrofurantoin macrocrystals) capsule.
+Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg Macrobid capsule are similar to those of 50 mg or 100 mg Macrodantin®(nitrofurantoin macrocrystals) capsule.
 Approximately 20% to 25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours.
 
 Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg Macrobid capsule are low, with peak levels usually less than 1 mcg/mL.
@@ -32,7 +32,7 @@ The clinical significance of this finding is unknown.
 Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
 Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin has been shown to be active against most strains of the following bacteria both in-vitro and in clinical infections (see INDICATIONS AND USAGE).
+Nitrofurantoin has been shown to be active against most strains of the following bacteria both in-vitro and in clinical infections (see INDICATIONS AND USAGE):
 
 ## Aerobic and facultative Gram-positive microorganisms:
 

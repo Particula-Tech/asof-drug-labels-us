@@ -1,6 +1,6 @@
 NDC 52427-285-01 Rx Only 100 mg
 
-Macrobid® (nitrofurantoin monohydrate/macrocrystals)
+Macrobid® (Nitrofurantoin Capsules, USP) (monohydrate/macrocrystals)
 
 URINARY TRACT ANTIBACTERIAL
 

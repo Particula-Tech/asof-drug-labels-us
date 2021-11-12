@@ -49,7 +49,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 # PRECAUTIONS
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be advised to take Macrobid with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption.
 Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms occur during therapy.
@@ -65,11 +65,11 @@ Diarrhea is a common problem caused by antibiotics which usually ends when the a
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
-## General
+## General:
 
 Prescribing Macrobid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Drug Interactions
+## Drug Interactions:
 
 Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption.
 The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate.
@@ -77,12 +77,12 @@ The mechanism for this interaction probably is adsorption of nitrofurantoin onto
 Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin.
 The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.
 
-## Drug/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions:
 
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks.
 Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF1 mice revealed no evidence of carcinogenicity.
@@ -101,9 +101,9 @@ The significance of the carcinogenicity and mutagenicity findings relative to th
 The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug.
 Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredictable instances, produce a slight to moderate spermatogenic arrest with a decrease in sperm count.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
 Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
@@ -111,29 +111,29 @@ However, at 25 times the human dose, fetal malformations were not observed; the 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Non-teratogenic effects
+### Non-teratogenic effects:
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.
 Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 See CONTRAINDICATIONS.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Nitrofurantoin has been detected in human breast milk in trace amounts.
 Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 (See CONTRAINDICATIONS.)
 
-## Pediatric Use
+## Pediatric Use:
 
 Macrobid is contraindicated in infants below the age of one month.
 (See CONTRAINDICATIONS.)
 Safety and effectiveness in pediatric patients below the age of twelve years have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies of Macrobid did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

@@ -1,7 +1,8 @@
 # DESCRIPTION
 
 Nitrofurantoin is an antibacterial agent specific for urinary tract infections.
-The Macrobid® brand of nitrofurantoin is a hard gelatin capsule shell containing the equivalent of 100 mg of nitrofurantoin in the form of 25 mg of nitrofurantoin macrocrystals and 75 mg of nitrofurantoin monohydrate.
+Macrobid® (Nitrofurantoin Capsules, USP) (monohydrate/macrocrystals) is a hard gelatin capsule.
+Each capsule contains 100 mg of nitrofurantoin in the form of 25 mg of nitrofurantoin macrocrystals and 75 mg of nitrofurantoin monohydrate.
 
 The chemical name of nitrofurantoin macrocrystals is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4-imidazolidinedione.
 The chemical structure is the following:
