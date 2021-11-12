@@ -17,7 +17,7 @@
 | Tell your healthcare provider about all of the medicines you take, including prescription or over-the- counter medicines, vitamins or herbal supplements. NSAIDs and some other medicines can interact with each other and cause serious side effects. Do not start taking any new medicine without talking to your healthcare provider first. |  |  |
 | What are the possible side effects of NSAIDs? |  |  |
 | NSAIDs can cause serious side effects, including: |  |  |
-| See "What is the most important information I should know about medicines called Nonsteroidal Anti- inflammatory Drugs (NSAIDs)?" |  |  |
+| See " What is the most important information I should know about medicines called Nonsteroidal Anti- inflammatory Drugs (NSAIDs)?" |  |  |
 | new or worse high blood pressureheart failureliver problems including liver failurekidney problems including kidney failurelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsOther side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness. |  |  |
 | Get emergency help right away if you get any of the following symptoms: |  |  |
 | shortness of breath or trouble breathingchest painweakness in one part or side of your body |  | slurred speechswelling of the face or throat |

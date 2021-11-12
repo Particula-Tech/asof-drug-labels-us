@@ -32,14 +32,14 @@ Table 1 lists all adverse reactions occurring in ≥ 1% of patients in nine stud
 A majority of patients treated with LICART experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
 Table 1.
-Common Adverse Reactions (by System Organ Class) in ≥ 1% of Patients Treated with LICART or PlaceboThe placebo was comprised of the same ingredients as LICART except for diclofenac and may inform adverse reactions associated with the non-active ingredients contained in LICART. based on Data Pooled from Single-Dose and Multiple-Dose Studies
+Common Adverse Reactions (by System Organ Class) in ≥ 1% of Patients Treated with LICART or Placebo The placebo was comprised of the same ingredients as LICART except for diclofenac and may inform adverse reactions associated with the non-active ingredients contained in LICART. based on Data Pooled from Single-Dose and Multiple-Dose Studies
 
 | N | Percent | N | Percent |  |
 | --- | --- | --- | --- | --- |
 |  | LICART N=573 |  | Placebo N=492 |  |
 | General Disorders and Administration Site Conditions | 8 | 1.4 | 19 | 3.9 |
 | Application Site Pruritus | 5 | 0.9 | 11 | 2.2 |
-| Other Application Site ReactionsIncludes application site irritation (6 subjects), application site erythema (3 subjects), application site reaction (4 subjects), application site rash (1 subject), application site inflammation (1 subject), blister (1 subject). | 5 | 0.9 | 11 | 2.2 |
+| Other Application Site Reactions Includes application site irritation (6 subjects), application site erythema (3 subjects), application site reaction (4 subjects), application site rash (1 subject), application site inflammation (1 subject), blister (1 subject). | 5 | 0.9 | 11 | 2.2 |
 
 ## 6.2 Post-Marketing Experience
 

@@ -35,11 +35,11 @@ Table 3: Diclofenac pharmacokinetics behavior following various LICART applicati
 
 | Parameter | Normal | Moderate Exercise | Under Occlusion | Moderate Heat |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 1.01±0.64 | 1.22±0.76 | 1.14±0.74 | 1.23±0.73 |
-| Tmax (h) | 6 (4–20) | 12 (0-24) | 6 (0-24) | 6 (0-20) |
+| C max (ng/mL) | 1.01±0.64 | 1.22±0.76 | 1.14±0.74 | 1.23±0.73 |
+| T max (h) | 6 (4–20) | 12 (0-24) | 6 (0-24) | 6 (0-20) |
 | AUCτ (ng/mL×h) | 18.58±11.63 | 22.77±14.39 | 21.94±14.25 | 23.07±14.29 |
-| Cmin (ng/mL) | 0.49±0.31 | 0.62±0.42 | 0.63±0.47 | 0.69±0.46 |
-| Values are arithmetic means ± SD, except for Tmax: median (min - max). |  |  |  |  |
+| C min (ng/mL) | 0.49±0.31 | 0.62±0.42 | 0.63±0.47 | 0.69±0.46 |
+| Values are arithmetic means ± SD, except for T max: median (min - max). |  |  |  |  |
 
 Distribution
 

@@ -28,7 +28,7 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions, including DRESS
 
-Advise patients to stop using LICART immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9,5.10)].
+Advise patients to stop using LICART immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility
 
@@ -57,7 +57,7 @@ Special Application Instructions
 
 - Instruct patients that, if LICART begins to peel-off, the edges of the topical system may be taped down.
   If problems with adhesion persist, patients may overlay the topical system with a mesh netting sleeve, where appropriate (e.g., to secure topical systems applied to ankles, knees, or elbows).
-  The mesh netting sleeve (e.g., Curad® Hold Tite™, Surgilast® Tubular Elastic Dressing) must allow air to pass through and not be occlusive (non-breathable)Curad® Hold Tite™ is a trademark of Medline Industries, Inc., and Surgilast® Tubular Elastic Dressing is a trademark of Derma Sciences, Inc..
+  The mesh netting sleeve (e.g., Curad® Hold Tite™, Surgilast® Tubular Elastic Dressing) must allow air to pass through and not be occlusive (non-breathable) Curad ® Hold Tite™ is a trademark of Medline Industries, Inc., and Surgilast ® Tubular Elastic Dressing is a trademark of Derma Sciences, Inc..
 - Instruct patients that LICART may not be applied to non-intact or damaged skin resulting from any etiology, e.g., exudative dermatitis, eczema, infected lesion, burns or wounds.
 - Instruct patients not to wear LICART when bathing or showering.
 - Instruct patients to avoid contact with eyes.
