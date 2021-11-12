@@ -64,7 +64,7 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Ejaculation failure Denominator used was for male patients only (n=1316 ZOLOFT; n=973 placebo). | 8% | 1% |
 | Erectile dysfunction | 4% | 1% |
 | Ejaculation disorder | 3% | 0% |
-| Male sexual dysfunction [See Warnings and Precautions (5.11)] | 2% | 0% |
+| Male sexual dysfunction | 2% | 0% |
 | Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 

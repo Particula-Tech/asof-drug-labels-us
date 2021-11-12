@@ -29,4 +29,4 @@ ZOLOFT oral solution: clear, colorless solution with a menthol scent containing 
 |  | NDC 0049-0050-01 | Bottles containing 60 mL, each with an accompanying calibrated dropper that has 25 mg and 50 mg graduation marks. |
 | --- | --- | --- |
 
-Store ZOLOFT at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
