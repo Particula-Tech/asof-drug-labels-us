@@ -7,5 +7,3 @@ Oxybutynin Chloride Tablets USP 5 mg
 Rx only
 
 100 TABLETS
-
-TEVA
