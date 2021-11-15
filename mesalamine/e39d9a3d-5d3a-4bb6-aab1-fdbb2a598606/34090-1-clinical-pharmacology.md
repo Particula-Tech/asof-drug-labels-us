@@ -5,7 +5,7 @@ The usual oral dose of sulfasalazine for active ulcerative colitis in adults is 
 Four grams of sulfasalazine provide 1.6 g of free mesalamine to the colon.
 
 The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but it appears to be a topical anti-inflammatory effect on colonic epithelial cells.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways (i.e., prostanoids) and through the lipoxygenase pathways (i.e., leukotrienes (LTs)) and hydroxyeicosatetraenoic acids (HETEs), is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
+Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways (i.e., prostanoids) and through the lipoxygenase pathways (i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs), is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
 
 ## Human Pharmacokinetics and Metabolism
 
