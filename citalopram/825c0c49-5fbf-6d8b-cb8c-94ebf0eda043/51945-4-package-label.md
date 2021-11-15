@@ -8,7 +8,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 10 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 10 mg citalopram.
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -21,7 +21,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6231A6
+RMX6231A7
 
 Mylan.com
 
@@ -41,7 +41,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 20 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 20 mg citalopram.
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -54,7 +54,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6232A6
+RMX6232A7
 
 Mylan.com
 
@@ -74,7 +74,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 40 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 40 mg citalopram.
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -87,7 +87,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6233A6
+RMX6233A7
 
 Mylan.com
 

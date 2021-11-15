@@ -24,8 +24,7 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 
 |  | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | --- | --- | --- |
-|  | Citalopram (N = 1063) | Placebo (N = 446) |
-| Body System/Adverse Event |  |  |
+| Body System/Adverse Event | Citalopram (N = 1063) | Placebo (N = 446) |
 | General |  |  |
 | Asthenia | 1% | < 1% |
 | Gastrointestinal Disorders |  |  |
@@ -185,7 +184,7 @@ Rare: catatonic reaction, melancholia.
 Reproductive Disorders/Female*: Frequent: amenorrhea.
 Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage.
 
-* %based on female subjects only: 2955
+* % based on female subjects only: 2955
 
 Respiratory System Disorders: Frequent: coughing.
 Infrequent: bronchitis, dyspnea, pneumonia.
@@ -206,4 +205,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram Tablets (Citalopram)
 
 It is estimated that over 30 million patients have been treated with citalopram tablets since market introduction.
-Although no causal relationship to citalopram tablets treatment has been found, the following adverse events have been reported to be temporally associated with citalopram tablets treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, angle-closure glaucoma, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, Torsade de Pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram tablets treatment has been found, the following adverse events have been reported to be temporally associated with citalopram tablets treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, angle closure glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, Torsade de Pointes, and withdrawal syndrome.

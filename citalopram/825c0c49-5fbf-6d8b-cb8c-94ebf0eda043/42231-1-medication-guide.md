@@ -15,20 +15,19 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
 2. •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 3. •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 4. •Watch for these changes and call your healthcare provider right away if you notice:
-5. •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-6. •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+5. oNew or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+6. oPay particular attention to such changes when citalopram tablets are started or when the dose is changed.
 7. Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 8. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
    1. •attempts to commit suicide
    2. •acting on dangerous impulses
-   3. •acting aggressive or violent
-   4. •thoughts about suicide or dying
-   5. •new or worse depression
-   6. •new or worse anxiety or panic attacks
-   7. •feeling agitated, restless, angry or irritable
-   8. •trouble sleeping
-   9. •an increase in activity or talking more than what is normal for you
-   10. •other unusual changes in behavior or mood
+   3. •acting aggressive or violent thoughts about suicide or dying
+   4. •new or worse depression
+   5. •new or worse anxiety or panic attacks
+   6. •feeling agitated, restless, angry or irritable
+   7. •trouble sleeping
+   8. •an increase in activity or talking more than what is normal for you
+   9. •other unusual changes in behavior or mood
 9. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
    Citalopram tablets may be associated with these serious side effects:
 10. 2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
@@ -55,9 +54,11 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
 15. 7.Manic episodes:
     1. •greatly increased energy
     2. •severe trouble sleeping
-    3. •racing thoughts, reckless behavior
-    4. •unusually grand ideas
-    5. •excessive happiness or irritability, talking more or faster than usual
+    3. •racing thoughts
+    4. •reckless behavior
+    5. •unusually grand ideas
+    6. •excessive happiness or irritability
+    7. •talking more or faster than usual
 16. 8.Changes in appetite or weight.
     Children and adolescents should have height and weight monitored during treatment.
 17. 9.Low salt (sodium) levels in the blood.
@@ -72,6 +73,18 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
     3. •swelling or redness in or around the eye
 19. Only some people are at risk for these problems.
     You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+20. 11.Sexual problems (dysfunction).
+    Taking selective serotonin reuptake inhibitors (SSRIs), including citalopram tablets, may cause sexual problems.
+21. •Symptoms in males may include:
+    - oDelayed ejaculation or inability to have an ejaculation
+    - oDecreased sex drive
+    - oProblems getting or keeping an erection
+22. •Symptoms in females may include:
+    - oDecreased sex drive
+    - oDelayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram tablets.
+There may be treatments your healthcare provider can suggest.
 
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
@@ -118,14 +131,14 @@ Ask if you are not sure.
 
 Before starting citalopram tablets, tell your healthcare provider if you:
 
-- •are taking certain drugs such as:
-- •medicines for heart problems
-- •medicines that lower your potassium or magnesium levels in your body
-- •cimetidine
-- •triptans used to treat migraine headache
-- •medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-- •tramadol
-- •over-the-counter supplements such as tryptophan or St. John’s Wort
+- •Are taking certain drugs such as:
+  - oMedicines for heart problems
+  - oMedicines that lower your potassium or magnesium levels in your body
+  - oCimetidine
+  - oTriptans used to treat migraine headache
+  - oMedicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+  - oTramadol
+  - oOver-the-counter supplements such as tryptophan or St. John’s Wort
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -193,12 +206,12 @@ Common possible side effects in people who take citalopram tablets include:
 
 Other side effects in children and adolescents include:
 
-- •increased thirst
-- •abnormal increase in muscle movement or agitation
-- •nose bleed
-- •urinating more often
-- •heavy menstrual periods
-- •possible slowed growth rate and weight change.
+- •Increased thirst
+- •Abnormal increase in muscle movement or agitation
+- •Nose bleed
+- •Urinating more often
+- •Heavy menstrual periods
+- •Possible slowed growth rate and weight change.
   Your child’s height and weight should be monitored during treatment with citalopram tablets.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -226,7 +239,7 @@ This Medication Guide summarizes the most important information about citalopram
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
 
-For more information about citalopram tablets, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information about citalopram tablets call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in citalopram tablets?
 
@@ -234,9 +247,9 @@ Active ingredient: citalopram hydrobromide
 
 Inactive ingredients:
 
-Tablets: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
-The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
-The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
+- •Tablets: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
+  The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
+  The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -246,6 +259,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75067336
+75082975
 
-Revised: 1/2019 MX:CTLP:R9mmh/MX:MG:CTLP:R5m/MX:MG:CTLP:R5mh
+Revised: 9/2021 MX:CTLP:R10mmh/MX:MG:CTLP:R6m/MX:MG:CTLP:R6mh

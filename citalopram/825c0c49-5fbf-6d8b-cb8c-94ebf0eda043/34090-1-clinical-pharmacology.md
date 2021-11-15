@@ -74,6 +74,7 @@ No information is available about the pharmacokinetics of citalopram in patients
 ### Drug-Drug Interactions
 
 In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, -2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
+
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
 However, in vivo data to address this question are limited.
 
