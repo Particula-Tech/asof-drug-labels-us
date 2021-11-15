@@ -6,8 +6,9 @@ The following serious or clinically significant adverse described elsewhere in l
 - Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Failure [see Warnings and Precautions (5.4)]
-- Photosensitivity [see Warnings and Precautions (5.5)]
-- Nephrolithiasis [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,11 +27,9 @@ The most common cause for discontinuation was gastrointestinal symptoms associat
 Serious adverse reactions occurred in 0.8% of patients in the Asacol HD group and in 1.8% of patients in the mesalamine delayed-release tablet comparator group.
 The majority involved the gastrointestinal system.
 
-Table 1.
-Adverse Reactions Occurring in ≥1% of All Treated Patients (Three studies combined)
-
-|  | Mesalamine delayed-release 2.4 grams per day | Asacol HD 4.8 grams per day |
+| Table 1. Adverse Reactions Occurring in ≥1% of All Treated Patients (Three studies combined) |  |  |
 | --- | --- | --- |
+|  | Mesalamine delayed-release 2.4 grams per day | Asacol HD 4.8 grams per day |
 |  | (400 mg Tablet) | (800 mg Tablet) |
 | Adverse Reaction | (N = 732) | (N = 727) |
 | Headache | 4.9 % | 4.7 % |
@@ -71,12 +70,12 @@ Musculoskeletal: Gout, rheumatoid arthritis, arthritis, arthralgia, joint disord
 
 Neurological/Psychiatric: Anxiety, depression, somnolence, insomnia, nervousness, confusion, emotional lability, dizziness, vertigo, tremor, paresthesia, hyperesthesia, peripheral neuropathy (rare), Guillain-Barré syndrome (rare), transverse myelitis (rare), and intracranial hypertension.
 
-Respiratory/Pulmonary: Sinusitis, rhinitis, pharyngitis, asthma exacerbation, pleuritis, bronchitis, eosinophilic pneumonia, interstitial pneumonitis.
+Respiratory/Pulmonary: Sinusitis, rhinitis, pharyngitis, asthma exacerbation, pleuritis/pleurisy, bronchitis, eosinophilic pneumonia, interstitial pneumonitis.
 
-Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), erythema nodosum, acne, dry skin, sweating, pruritus, urticaria, rash.
+Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), erythema nodosum, acne, dry skin, sweating, pruritus, urticaria, rash, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)].
 
 Special Senses: Ear pain, tinnitus, ear congestion, ear disorder, conjunctivitis, eye pain, blurred vision, vision abnormality, taste perversion.
 
-Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
+Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
 
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.

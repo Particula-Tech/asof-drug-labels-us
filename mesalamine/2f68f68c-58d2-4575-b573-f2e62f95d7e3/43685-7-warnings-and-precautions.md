@@ -31,25 +31,30 @@ Discontinue Asacol HD if an alternative etiology for the signs or symptoms canno
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Evaluate the risks and benefits of using Asacol HD in patients with known liver impairment.
 
-## 5.5 Photosensitivity
+## 5.5 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with use of mesalamine [see Adverse Reactions (6.2)].
+Discontinue Asacol HD at the first appearance of signs or symptoms of severe cutaneous adverse reactions, or other signs of hypersensitivity and consider further evaluation.
+
+## 5.6 Photosensitivity
 
 Patients treated with mesalamine or sulfasalazine who have pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
 Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-## 5.6 Nephrolithiasis
+## 5.7 Nephrolithiasis
 
 Cases of nephrolithiasis have been reported with the use of mesalamine, including stones of 100% mesalamine content.
 Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
 Ensure adequate fluid intake during treatment with Asacol HD.
 
-## 5.7Iron Content of Asacol HD
+## 5.8Iron Content of Asacol HD
 
 Asacol HD contains iron oxide as a colorant in the coating of the delayed-release tablets.
 Each 800 mg delayed-release tablet contains 4.9 mg of iron.
 The total content of iron is 29.2 mg at the recommended daily dosage [see Dosage and Administration (2.2)].
 Before prescribing Asacol HD to patients receiving iron supplementation or those at risk for developing iron overload, consider the combined daily amount of iron from all sources, including Asacol HD.
 
-## 5.8 Interference with Laboratory Tests
+## 5.9Interference with Laboratory Tests
 
 Use of Asacol HD may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
 Consider an alternative, selective assay for normetanephrine.

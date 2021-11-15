@@ -25,17 +25,22 @@ Hepatic Failure
 
 - Inform patients with known liver disease of the signs and symptoms of worsening liver function and advise them to report to their healthcare provider if they experience such signs or symptoms [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+- Inform patients of the signs and symptoms of severe cutaneous adverse reactions.
+  Instruct patients to stop taking Asacol HD and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Photosensitivity
 
-- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.5)].
+- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
 
 Nephrolithiasis
 
-- Instruct patients to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.6)].
+- Instruct patients to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Iron Content of Asacol HD
 
-- Advise patients to inform their healthcare provider if they take iron-containing supplements [see Warnings and Precautions (5.7)].
+- Advise patients to inform their healthcare provider if they take iron-containing supplements [see Warnings and Precautions (5.8)].
 
 Blood Disorders
 
@@ -44,7 +49,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
 Allergan® and its design are trademarks of Allergan, Inc.
@@ -54,4 +59,4 @@ See www.allergan.com/patents
 
 Asacol® is a registered trademark of Medeva Pharma Suisse AG, licensed to Allergan Pharmaceuticals International Limited.
 
-v3.0USPI5901
+v4.0USPI5901

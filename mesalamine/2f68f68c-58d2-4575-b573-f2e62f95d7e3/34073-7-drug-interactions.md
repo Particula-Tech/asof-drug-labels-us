@@ -2,7 +2,7 @@
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 
-The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti- inflammatory drugs (NSAIDs) may increase the risk of nephrotoxicity.
+The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti-inflammatory drugs (NSAIDs) may increase the risk of nephrotoxicity.
 Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1)].
 
 ## 7.2 Azathioprine or 6-Mercaptopurine
@@ -12,5 +12,5 @@ If concomitant use of Asacol HD and azathioprine or 6-mercaptopurine cannot be a
 
 ## 7.3Interference With Urinary Normetanephrine Measurements
 
-Use of Asacol HD may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.8)].
+Use of Asacol HD may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.9)].
 Consider an alternative, selective assay for normetanephrine.

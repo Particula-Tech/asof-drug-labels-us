@@ -9,7 +9,7 @@ Mucosal production of arachidonic acid metabolites, both through the cyclooxygen
 
 Absorption
 
-Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5- aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of Asacol HD tablets.
+Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of Asacol HD tablets.
 Following single dose oral administration of Asacol HD 800 mg tablet in healthy subjects (N = 139) under fasted conditions, the mean Cmax, AUC8-48h and AUC0-tldc values were 208 ng/mL, 2296 ng.h/mL, and 2533 ng.h/mL, respectively.
 The median [range] Tmax for mesalamine following administration of Asacol HD 800 mg tablet was approximately 24 hours [4 to 72 hours], reflecting the delayed-release characteristics of the formulation.
 
