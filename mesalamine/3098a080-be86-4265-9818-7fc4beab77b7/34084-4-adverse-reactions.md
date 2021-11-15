@@ -6,9 +6,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.3)]
 - Hepatic failure [see Warnings and Precautions (5.4)]
-- Upper gastrointestinal tract obstruction [see Warnings and Precautions (5.5)]
-- Photosensitivity [see Warnings and Precautions (5.6)]
-- Nephrolithiasis [see Warnings and Precautions (5.7)]
+- Severe cutaneous adverse reactions [see Warnings and Precautions (5.5)]
+- Upper gastrointestinal tract obstruction [see Warnings and Precautions (5.6)]
+- Photosensitivity [see Warnings and Precautions (5.7)]
+- Nephrolithiasis [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -100,16 +101,16 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN)
+Immune System Disorders: anaphylactic reaction, angioedema
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
+Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.8)]
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), pleurisy/pleuritis
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)]
 
 Urogenital: reversible oligospermia
