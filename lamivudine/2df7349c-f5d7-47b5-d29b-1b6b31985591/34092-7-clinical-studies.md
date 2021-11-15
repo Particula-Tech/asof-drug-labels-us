@@ -44,5 +44,5 @@ The safety and efficacy of EPIVIR-HBV were evaluated in a double-blind clinical 
 All subjects had compensated chronic hepatitis B accompanied by evidence of hepatitis B virus replication (positive serum HBeAg and positive for serum HBV DNA by a research branched-chain DNA assay) and persistently elevated serum ALT levels.
 The combination of loss of HBeAg and reduction of HBV DNA to below the assay limit of the research assay, evaluated at Week 52, was observed in 23% of subjects treated with EPIVIR-HBV and 13% of placebo-treated subjects.
 Normalization of serum ALT was achieved and maintained to Week 52 more frequently in subjects treated with EPIVIR-HBV compared with placebo (55% versus 13%).
-As in the adult controlled trials, most subjects treated with EPIVIR-HBV had decreases in HBV DNA below the assay limit early in treatment, but about one third of subjects with this initial response had reappearance of assay-detectable HBV DNA during treatment.
+As in the adult controlled trials, most subjects treated with EPIVIR-HBV had decreases in HBV DNA below the assay limit early in treatment, but about one-third of subjects with this initial response had reappearance of assay-detectable HBV DNA during treatment.
 Adolescents (aged 13 to 17 years) showed less evidence of treatment effect than younger pediatric subjects.
