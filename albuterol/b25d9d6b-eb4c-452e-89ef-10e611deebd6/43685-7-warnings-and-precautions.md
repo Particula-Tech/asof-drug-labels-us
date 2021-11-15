@@ -29,7 +29,7 @@ Therefore, Albuterol Sulfate HFA, like all other sympathomimetic amines, should 
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma.
 The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected.
 
-## 5.6 Immediate Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions, including Anaphylaxis
 
 Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of Albuterol Sulfate HFA [see Contraindications (4)].
 

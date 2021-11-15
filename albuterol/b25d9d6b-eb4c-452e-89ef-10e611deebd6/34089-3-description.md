@@ -16,3 +16,4 @@ After priming, each actuation of the inhaler delivers 120 mcg of albuterol sulfa
 
 Prime Albuterol Sulfate HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
 To prime Albuterol Sulfate HFA, release 4 sprays into the air away from the face, shaking well before each spray.
+Avoid spraying in eyes.

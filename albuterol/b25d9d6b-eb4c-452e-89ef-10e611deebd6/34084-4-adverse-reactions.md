@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-Use of Albuterol Sulfate HFA may be associated with the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - •Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
 - •Cardiovascular effects [see Warnings and Precautions (5.4)]
-- •Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
+- •Hypersensitivity reactions, including anaphylaxis [see Warnings and Precautions (5.6)]
 - •Hypokalemia [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
