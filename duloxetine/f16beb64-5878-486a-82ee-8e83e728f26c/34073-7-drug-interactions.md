@@ -70,11 +70,11 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.14 Serotonergic Drugs
 
-[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.15 Alcohol
 

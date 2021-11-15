@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Duloxetine
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products Duloxetine
 
 (doo-LOX-e-teen)
 
@@ -246,6 +246,21 @@ Symptoms may include:
 - decreased urine flow
 - unable to pass any urine
 
+12. sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including duloxetine, may cause sexual problems.
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with duloxetine delayed-release capsules.
+There may be treatments your healthcare provider can suggest.
 The most common side effects of duloxetine delayed-release capsules include:
 
 - nausea
@@ -310,6 +325,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *All trademarks are the properties of their respective owners.
 
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
@@ -325,6 +342,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-04/2020
+11/2021
 
-PJPI0217I
+PJPI0217J
