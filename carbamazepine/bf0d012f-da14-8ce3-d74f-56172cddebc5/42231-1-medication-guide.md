@@ -4,6 +4,8 @@ Carbamazepine Tablets, USP
 
 (kar" ba maz’ e peen)
 
+Medication Guide available at www1.apotex.com/products/us
+
 Read this Medication Guide before you start taking carbamazepine tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -243,7 +245,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-March 2018
+September 2021
 
 Rev.
-5
+6

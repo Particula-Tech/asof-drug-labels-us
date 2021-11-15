@@ -5,19 +5,19 @@ They are supplied as follows:
 
 Bottles of 100 NDC 60505-0183-0
 
-Bottles of 500 NDC 60505-0183-5
-
 Bottles of 1,000 NDC 60505-0183-1
 
 Do not store above 30˚C (86˚F).
 Protect from moisture.
 Dispense in tight container (USP).
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. CARBAMAZEPINE TABLETS, USP 200 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-March 2018
+September 2021
 
 Rev.
-14
+15
