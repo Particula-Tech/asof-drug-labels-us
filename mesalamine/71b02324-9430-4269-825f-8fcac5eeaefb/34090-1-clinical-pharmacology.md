@@ -1,11 +1,11 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The mechanism of action of mesalamine is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
 Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Absorption
 

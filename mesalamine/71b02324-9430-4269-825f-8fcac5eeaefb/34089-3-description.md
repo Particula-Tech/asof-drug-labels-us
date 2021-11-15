@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Each DELZICOL (mesalamine) delayed-release capsule for oral administration contains four 100 mg tablets of mesalamine, an aminosalicylate.
 DELZICOL (mesalamine) delayed-release capsules contain acrylic based resin, methacrylic acid and methyl methacrylate copolymer (Eudragit S), which dissolves at pH 7 or greater and releases mesalamine in the terminal ileum and beyond for topical anti-inflammatory action in the colon.

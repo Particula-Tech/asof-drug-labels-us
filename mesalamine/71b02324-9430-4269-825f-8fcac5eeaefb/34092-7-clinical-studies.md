@@ -1,9 +1,9 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 The safety and efficacy of DELZICOL has been established based on adequate and well-controlled studies of mesalamine delayed-release tablets.
 Below is a description of the results of the adequate and well-controlled studies of mesalamine delayed-release tablets for the treatment of mildly to moderately active ulcerative colitis in adults and pediatric patients 5 to 17 years of age and the maintenance of remission of ulcerative colitis in adults.
 
-## 14.1 Treatment of Mildly to Moderately Active Ulcerative Colitis
+## 14.1Treatment of Mildly to Moderately Active Ulcerative Colitis
 
 Adults
 
@@ -40,7 +40,7 @@ At Week 6, 56% of the patients in the low dosage group, and 55% of the patients 
 
 The high dosage regimen is not recommended because it was not more effective than the low dosage regimen [see Dosage and Administration (2.2)].
 
-## 14.2 Maintenance of Remission of Ulcerative Colitis
+## 14.2Maintenance of Remission of Ulcerative Colitis
 
 Adults
 

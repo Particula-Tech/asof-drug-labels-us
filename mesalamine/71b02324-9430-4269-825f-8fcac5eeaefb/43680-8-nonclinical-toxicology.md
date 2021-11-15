@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -14,7 +14,7 @@ Impairment of Fertility
 
 Mesalamine, at oral doses up to 480 mg/kg/day (about 1.9 times the recommended human treatment dose on a body surface area basis), was found to have no effect on fertility or reproductive performance of male and female rats.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2Animal Toxicology and/or Pharmacology
 
 In animal studies (rats, mice, dogs), the kidney was the principal organ for toxicity.
 (In the following, comparisons of animal dosing to recommended human dosing are based on body surface area and a 2.4 grams per day dose for a 60 kg person.)

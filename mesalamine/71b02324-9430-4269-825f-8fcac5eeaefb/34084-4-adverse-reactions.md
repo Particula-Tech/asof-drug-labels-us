@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The most serious adverse reactions seen in DELZICOL clinical trials or with other products that contain or are metabolized to mesalamine are:
 
@@ -6,10 +6,11 @@ The most serious adverse reactions seen in DELZICOL clinical trials or with othe
 - Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Failure [see Warnings and Precautions (5.4)]
-- Photosensitivity [see Warnings and Precautions (5.5)]
-- Nephrolithiasis [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -102,7 +103,7 @@ Adverse reactions leading to study withdrawal in patients using mesalamine delay
 
 In addition to the adverse reactions listed in Table 2, the following occurred at a frequency of 2% or greater in patients who received mesalamine delayed-release tablets in Study 4: abdominal enlargement, gastroenteritis, gastrointestinal hemorrhage, infection, joint disorder, nervousness, paresthesia, hemorrhoids, tenesmus, urinary frequency and vision abnormalities.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of DELZICOL or other mesalamine-containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -121,11 +122,11 @@ Musculoskeletal: Gout.
 
 Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy, transverse myelitis, Guillain-Barré syndrome, intracranial hypertension.
 
-Renal: Renal failure, interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)].
+Renal: Renal failure, interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)].
 
-Respiratory/Pulmonary: Eosinophilic pneumonia, interstitial pneumonitis, asthma exacerbation, pleuritis.
+Respiratory/Pulmonary: Eosinophilic pneumonia, interstitial pneumonitis, asthma exacerbation, pleurisy/pleuritis.
 
-Skin: Alopecia, psoriasis, pyoderma gangrenosum, dry skin, erythema nodosum, urticaria.
+Skin: Alopecia, psoriasis, pyoderma gangrenosum, dry skin, erythema nodosum, urticaria, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)].
 
 Special Senses: Eye pain, taste perversion, blurred vision, tinnitus.
 

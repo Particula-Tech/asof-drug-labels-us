@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 DELZICOL is an aminosalicylate, and symptoms of salicylate toxicity include nausea, vomiting and abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures).
 Severe salicylate intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ (e.g., renal and liver) involvement.

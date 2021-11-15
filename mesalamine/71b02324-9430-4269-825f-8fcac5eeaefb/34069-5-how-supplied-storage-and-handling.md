@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 DELZICOL (mesalamine) delayed-release capsules are available as clear capsules and imprinted with “WC 400mg” in black ink.
 Each capsule contains four reddish-brown coated 100 mg mesalamine tablets.

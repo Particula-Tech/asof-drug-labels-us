@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -33,7 +33,7 @@ Based on these concentrations, estimated infant daily doses for an exclusively b
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for DELZICOL and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 Caution should be exercised when DELZICOL is administered to a nursing woman.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 The safety and effectiveness of DELZICOL for the treatment of mildly to moderately active ulcerative colitis in pediatric patients 5 to 17 years of age has been established based on adequate and well-controlled studies using mesalamine delayed-release 400 mg tablets.
 Use of DELZICOL in these pediatric age groups is supported by evidence from adequate and well controlled studies of mesalamine delayed-release 400 mg tablets in adults and a single 6-week study in 82 pediatric patients 5 to 17 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
@@ -41,7 +41,7 @@ Use of DELZICOL in these pediatric age groups is supported by evidence from adeq
 The safety and effectiveness of DELZICOL for the treatment of mildly to moderately active ulcerative colitis in pediatric patients below the age of 5 years have not been established.
 The safety and effectiveness of DELZICOL in the maintenance of remission of ulcerative colitis in pediatric patients have not been established.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Clinical studies of mesalamine delayed-release tablets did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients.
 Reports from uncontrolled clinical studies and postmarketing experience suggest a higher incidence of blood dyscrasias (agranulocytosis, neutropenia, pancytopenia) in subjects receiving mesalamine delayed-release tablets who are 65 years or older compared to younger patients taking mesalamine-containing products such as DELZICOL.
@@ -49,7 +49,7 @@ Monitor complete blood cell counts and platelet counts in elderly patients durin
 
 In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing DELZICOL [see Use in Specific Populations (8.6)].
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on DELZICOL therapy.

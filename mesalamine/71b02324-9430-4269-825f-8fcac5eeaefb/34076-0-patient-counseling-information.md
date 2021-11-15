@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Administration
 
@@ -7,8 +7,8 @@ Administration
 - Inform patients that DELZICOL capsules can be taken with or without food.
 - Instruct patients to swallow the DELZICOL capsules whole.
   Do not cut, break, crush or chew the capsules.
-- For patients who are unable to swallow the capsules whole, carefully open the capsules and swallow the contents (four 100 mg tablets). ° Open the number of capsules required to make up a complete dose. ° There are 4 tablets per capsule.
-  Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth. ° Swallow the tablets whole; do not cut, break, crush or chew the tablets.
+- For patients who are unable to swallow the capsules whole, carefully open the capsules and swallow the contents (four 100 mg tablets). ○ Open the number of capsules required to make up a complete dose. ○ There are 4 tablets per capsule.
+  Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth. ○ Swallow the tablets whole; do not cut, break, crush or chew the tablets.
 - Drink an adequate amount of fluids.
 - Inform patients that intact, partially intact, and/or tablet shells have been reported in the stool.
   Instruct patients to contact their healthcare provider if this occurs repeatedly.
@@ -29,17 +29,22 @@ Hepatic Failure
 
 - Inform patients with known liver disease of the signs and symptoms of worsening liver function and advise them to report to their healthcare provider if they experience such signs or symptoms [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+- Inform patients of the signs and symptoms of severe cutaneous adverse reactions.
+  Instruct patients to stop taking DELZICOL and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Photosensitivity
 
-- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.5)].
+- Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
 
 Nephrolithiasis
 
-- Instruct patients to maintain an adequate fluid intake during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.6)].
+- Instruct patients to maintain an adequate fluid intake during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Iron Content of DELZICOL
 
-- Advise patients to inform their healthcare provider if they take iron-containing supplements [see Warnings and Precaution (5.7)].
+- Advise patients to inform their healthcare provider if they take iron-containing supplements [see Warnings and Precaution (5.8)].
 
 Blood Disorders
 
@@ -48,7 +53,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
 Patented.
@@ -56,4 +61,4 @@ See www.allergan.com/patents
 
 Delzicol® is a registered trademark of Allergan Pharmaceuticals International Limited.
 
-v3.0USPI5853
+v4.0USPI5853
