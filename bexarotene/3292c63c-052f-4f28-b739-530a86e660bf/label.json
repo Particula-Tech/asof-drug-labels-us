@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209931"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2832-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "bexarotene",
+      "name": "bexarotene"
+    }
+  ],
+  "setid": "3292c63c-052f-4f28-b739-530a86e660bf",
+  "source": "dailymed"
+}
