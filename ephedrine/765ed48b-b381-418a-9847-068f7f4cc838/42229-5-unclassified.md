@@ -7,7 +7,7 @@ Risk Summary
 Available data from randomized studies, case series, and reports of ephedrine sulfate use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 However, there are clinical considerations due to underlying conditions (see Clinical Considerations).
 In animal reproduction studies, decreased fetal survival and fetal body weights were observed in the presence of maternal toxicity after normotensive pregnant rats were administered 60 mg/kg intravenous ephedrine sulfate (12 times the maximum recommended human dose (MRHD) of 50 mg/day).
-No malformations or embryofetal adverse effects were observed when pregnant rats or rabbits were treated with intravenous bolus doses of ephedrine sulfate during organogenesis at doses 1.9 and 7.7 times the MRHD, respectively [See data].
+No malformations or embryofetal adverse effects were observed when pregnant rats or rabbits were treated with intravenous bolus doses of ephedrine sulfate during organogenesis at doses 1.9 and 7.7 times the MRHD, respectively [see data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.

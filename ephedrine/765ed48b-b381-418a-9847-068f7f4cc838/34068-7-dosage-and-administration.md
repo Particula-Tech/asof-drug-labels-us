@@ -10,6 +10,8 @@ Discard unused portion.
 
 ## 2.2 Dosing for the Treatment of Clinically Important Hypotension in the Setting of Anesthesia
 
+Ephedrine sulfate injection should be administered by trained healthcare providers.
+
 The recommended dosages for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 mg to 10 mg administered by intravenous bolus.
 Administer additional boluses as needed, not to exceed a total dosage of 50 mg.
 
