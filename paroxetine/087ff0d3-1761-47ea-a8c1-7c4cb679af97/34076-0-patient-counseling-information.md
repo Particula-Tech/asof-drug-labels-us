@@ -8,11 +8,11 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 
 Important Administration Instructions
 
-Instruct patients to swallow paroxetine CR whole and to not chew or crush the tablets [see Dosage and Administration (2.1)].
+Instruct patients to swallow Paroxetine HCL CR whole and to not chew or crush the tablets [see Dosage and Administration (2.1)].
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of paroxetine CR with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of Paroxetine HCL CR with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Concomitant Medications
@@ -21,7 +21,7 @@ Advise patients to inform their physician if they are taking, or plan to take, a
 
 Increased Risk of Bleeding
 
-Inform patients about the concomitant use of paroxetine CR with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use has been associated with an increased risk of bleeding.
+Inform patients about the concomitant use of Paroxetine HCL CR with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use has been associated with an increased risk of bleeding.
 Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the counter medications that increase the risk of bleeding [see Warnings and Precautions (5.5)].
 
 Activation of Mania/Hypomania
@@ -30,8 +30,13 @@ Advise patients and their caregivers to observe for signs of activation of mania
 
 Discontinuation Syndrome
 
-Advise patients not to abruptly discontinue paroxetine CR and to discuss any tapering regimen with their healthcare provider.
-Inform patients that adverse reactions can occur when paroxetine CR is discontinued [See Warnings and Precautions (5.7)].
+Advise patients not to abruptly discontinue Paroxetine HCL CR and to discuss any tapering regimen with their healthcare provider.
+Inform patients that adverse reactions can occur when Paroxetine HCL CR is discontinued [see Warnings and Precautions (5.7)].
+
+Sexual Dysfunction
+
+Advise patients that use of Paroxetine HCL CR may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
 
 Allergic Reactions
 
@@ -44,26 +49,16 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Nursing
 
-Advise women to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
 
-Paroxetine hydrochloride controlled-release tablets is a registered trademark of GlaxoSmithKline.
-
-Manufactured by:
-
-Apotex Inc.
-
-Toronto, Ontario
-
-M9L 1T9
-
-Manufactured by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+Manufactured by: Apotex Inc. Toronto, Ontario M9L 1T9
 
 Manufactured for:
 
 Apotex Corp.
 
-Weston FL 33326
+Weston, FL 33326
+
+October 2021
+
+All registered trademarks in this document are the property of their respective owners.

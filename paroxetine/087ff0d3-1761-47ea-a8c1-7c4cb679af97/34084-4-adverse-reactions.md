@@ -13,20 +13,21 @@ The following adverse reactions are included in more detail in other sections of
 - Angle-closure Glaucoma [see Warnings and Precautions (5.9)]
 - Hyponatremia [see Warnings and Precautions (5.10)]
 - Bone Fracture [see Warnings and Precautions (5.12)]
+- Sexual Dysfunction [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Safety data for paroxetine CR is from 11 short-term, placebo‑controlled clinical trials including 3 studies in patients with major depressive disorder (MDD) (Studies 1, 2, and 3), 3 studies in patients with panic disorder (PD) (Studies 4, 5, and 6), 1 study in patients with social anxiety disorder (SAD) (Study 7), and 4 studies in female patients with premenstrual dysphoric disorder (PMDD) (Studies 8, 9, 10, and 11) [see Clinical Studies (14)].
-These 11 trials included 1627 We acknowledge the Agency’s comment.patients treated with paroxetine CR.
+Safety data for Paroxetine HCL CR is from 11 short-term, placebo‑controlled clinical trials including 3 studies in patients with major depressive disorder (MDD) (Studies 1, 2, and 3), 3 studies in patients with panic disorder (PD) (Studies 4, 5, and 6), 1 study in patients with social anxiety disorder (SAD) (Study 7), and 4 studies in female patients with premenstrual dysphoric disorder (PMDD) (Studies 8, 9, 10, and 11) [see Clinical Studies (14)].
+These 11 trials included 1627 patients treated with Paroxetine HCL CR.
 
-- Studies 1 and 2 were 12-week studies that enrolled patients 18 to 65 years old who received paroxetine CR at doses ranging from 25 mg to 62.5 mg once daily.
-  Study 3 was a 12-week study in patients 60 to 88 years old who received paroxetine CR at doses ranging from 12.5 mg to 50 mg once daily.
-- Studies 4, 5, and 6 were 10-week studies in patients 19 to 72 years old who received paroxetine CR at doses ranging from 12.5 mg to 75 mg once daily.
-- Study 7 was a 12-week study that enrolled adult patients who received paroxetine CR at doses ranging from 12.5 mg to 37.5 mg once daily.
-- Studies 8, 9, and 10 were 12‑week, placebo‑controlled trials in female patients 18 to 46 years old who received paroxetine CR at doses of 12.5 mg or 25 mg once daily.
-  Study 11 was a 12-week placebo‑controlled trial in patients 18 to 46 years old who received paroxetine CR 2 weeks prior to the onset of menses (luteal phase dosing) at doses of 12.5 mg or 25 mg once daily.
+- Studies 1 and 2 were 12-week studies that enrolled patients 18 to 65 years old who received Paroxetine HCL CR at doses ranging from 25 mg to 62.5 mg once daily.
+  Study 3 was a 12-week study in patients 60 to 88 years old who received Paroxetine HCL CR at doses ranging from 12.5 mg to 50 mg once daily.
+- Studies 4, 5, and 6 were 10-week studies in patients 19 to 72 years old who received Paroxetine HCL CR at doses ranging from 12.5 mg to 75 mg once daily.
+- Study 7 was a 12-week study that enrolled adult patients who received Paroxetine HCL CR at doses ranging from 12.5 mg to 37.5 mg once daily.
+- Studies 8, 9, and 10 were 12‑week, placebo‑controlled trials in female patients 18 to 46 years old who received Paroxetine HCL CR at doses of 12.5 mg or 25 mg once daily.
+  Study 11 was a 12-week placebo‑controlled trial in patients 18 to 46 years old who received Paroxetine HCL CR 2 weeks prior to the onset of menses (luteal phase dosing) at doses of 12.5 mg or 25 mg once daily.
 
 Adverse Reactions Leading to Discontinuation in Patients with MDD, PD, SAD, and PMDD
 
@@ -36,14 +37,14 @@ In pooled studies for PMDD, the most common adverse reactions leading to study w
 
 Adverse Reactions in MDD, PD, and SAD
 
-Table 3 presents the most common adverse reactions in paroxetine CR-treated patients (incidence ≥5% and greater than placebo within at least 1 of the indications) in controlled trials in patients with MDD, PD, and SAD
+Table 3 presents the most common adverse reactions in Paroxetine HCL CR-treated patients (incidence ≥5% and greater than placebo within at least 1 of the indications) in controlled trials in patients with MDD, PD, and SAD
 
 Table 3.
-Adverse Reactions (³5% of Patients Treated with Paroxetine CR and Greater than Placebo) in 10 to 12 Week Studies of MDD, PD, and SAD
+Adverse Reactions (≥5% of Patients Treated with Paroxetine HCL CR and Greater than Placebo) in 10 to 12 Week Studies of MDD, PD, and SAD
 
 |  | MDD 18 to 65 year olds |  | MDD ≥60 years old |  | Panic Disorder |  | Social Anxiety Disorder |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System/ Adverse Reaction | Paroxetine CR (N=212) % | Placebo (N=211) % | Paroxetine CR (N=104) % | Placebo (N=109) % | Paroxetine CR (N=444) % | Placebo (N=445) % | Paroxetine CR (N=186) % | Placebo (N=184) % |
+| Body System/ Adverse Reaction | Paroxetine HCL CR (N=212) % | Placebo (N=211) % | Paroxetine HCL CR (N=104) % | Placebo (N=109) % | Paroxetine HCL CR (N=444) % | Placebo (N=445) % | Paroxetine HCL CR (N=186) % | Placebo (N=184) % |
 | Body as a Whole |  |  |  |  |  |  |  |  |
 | Headache | 27 | 20 | 17 | 13 | NA | NA | 23 | 17 |
 | Asthenia | 14 | 9 | 15 | 14 | 15 | 10 | 18 | 7 |
@@ -79,7 +80,7 @@ Adverse Reactions (³5% of Patients Treated with Paroxetine CR and Greater than 
 | Female Genital Disorderb,d | 10 | <1 | - | - | 7 | 1 | 3 | 0 |
 | Impotenceb | 5 | 3 | 9 | 3 | 10 | 1 | 9 | 0 |
 
-Hyphen = the reaction listed occurred in <5% of patients treated with paroxetine CR
+Hyphen = the reaction listed occurred in <5% of patients treated with Paroxetine HCL CR
 
 NA = the adverse reaction listed did not occur in this group of patients
 
@@ -91,21 +92,21 @@ c Mostly anorgasmia or delayed ejaculation
 
 d Mostly anorgasmia or delayed orgasm
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Paroxetine CR
+Other Adverse Reactions Observed During the Premarketing Evaluation of Paroxetine HCL CR
 
-Adverse reactions from studies in MDD (not including Study 3 in elderly patients), PD, and SAD that occurred between 1% and 5% of patients treated with paroxetine CR and at a rate greater than in placebo-treated patients include:, allergic reaction, tachycardia, vasodilatation, hypertension, migraine, vomiting, weight loss, weight gain, hypertonia, paresthesia, agitation, confusion, myoclonus, concentration impaired, depression, rhinitis, cough increased, bronchitis, photosensitivity, eczema, taste perversion, UTI, menstrual disorder, urinary frequency, urination impaired, and vaginitis.
+Adverse reactions from studies in MDD (not including Study 3 in elderly patients), PD, and SAD that occurred between 1% and 5% of patients treated with Paroxetine HCL CR and at a rate greater than in placebo-treated patients include:, allergic reaction, tachycardia, vasodilatation, hypertension, migraine, vomiting, weight loss, weight gain, hypertonia, paresthesia, agitation, confusion, myoclonus, concentration impaired, depression, rhinitis, cough increased, bronchitis, photosensitivity, eczema, taste perversion, UTI, menstrual disorder, urinary frequency, urination impaired, and vaginitis.
 
 Adverse Reactions in Patients with PMDD
 
-Table 4 displays adverse reactions that occurred (incidence of 5% or more and greater than placebo within at least 1 of the studies) in patients treated with paroxetine CR in Studies 8, 9, 10, and 11.
+Table 4 displays adverse reactions that occurred (incidence of 5% or more and greater than placebo within at least 1 of the studies) in patients treated with Paroxetine HCL CR in Studies 8, 9, 10, and 11.
 
 Table 4.
-Adverse Reactions (≥5% of Patients Treated with Paroxetine CR and Greater than Placebo) in Pooled Studies PMDD (Studies 8, 9, 11), and in Study 10a,b,c
+Adverse Reactions (≥5% of Patients Treated with Paroxetine HCL CR and Greater than Placebo) in Pooled Studies PMDD (Studies 8, 9, 11), and in Study 10a,b,c
 
 | Body System/ Adverse Reaction | % Reporting Adverse Reaction |  |  |  |
 | --- | --- | --- | --- | --- |
 | Continuous Dosing |  | Luteal Phase Dosing |  |  |
-| Paroxetine CR (n = 681) % | Placebo (n = 349)% | Paroxetine CR (n = 246)% | Placebo (n = 120)%% |  |
+| Paroxetine HCL CR (n = 681) % | Placebo (n = 349)% | Paroxetine HCL CR (n = 246)% | Placebo (n = 120)%% |  |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 17 | 6 | 15 | 4 |
 | Headache | 15 | 12 | NA | NA |
@@ -130,13 +131,12 @@ NA= the adverse reaction information is not available in this population.
 a <1% means greater than zero and less than 1%.
 
 b The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
-Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 3 should be avoided.
 
 c Mostly anorgasmia or difficulty achieving orgasm.
 
-Dose Dependency of Adverse Reactions
+Dose Dependent Adverse Reactions
 
-Comparison of the incidence of adverse reactions (placebo vs. 12.5 mg paroxetine CR vs. 25 mg paroxetine CR) from studies 8, 9, 10 showed the following adverse reactions to be dose-related: Nausea, somnolence, sweating, dry mouth, dizziness, decreased appetite, tremor, impaired concentration, yawn, paresthesia, hyperkinesia, and vaginitis.
+Comparison of the incidence of adverse reactions (placebo vs. 12.5 mg Paroxetine HCL CR vs. 25 mg Paroxetine HCL CR) from studies 8, 9, 10 showed the following adverse reactions to be dose-related: Nausea, somnolence, sweating, dry mouth, dizziness, decreased appetite, tremor, impaired concentration, yawn, paresthesia, hyperkinesia, and vaginitis.
 
 Male and Female Sexual Dysfunction
 
@@ -147,11 +147,11 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 The percentage of patients reporting symptoms of sexual dysfunction in the Studies 1 and 2 (nonelderly patients with MDD), 4, 5, 6, 7, 8, 9, 10, and 11 are presented in Table 5:
 
 Table 5.
-Adverse Reactions Related To Sexual Dysfunction In Patients Treated With Paroxetine CR in Pooled 10-12 Week Studies of MDD, PD, SAD, and PMDD
+Adverse Reactions Related To Sexual Dysfunction In Patients Treated With Paroxetine HCL CR in Pooled 10-12 Week Studies of MDD, PD, SAD, and PMDD
 
 |  | Studies 1 and 2 % |  | Studies 4, 5 and 6 % |  | Study 7 % |  | Studies 8, 9 and 11 (continuous Dosing) % |  | Study 10 (Luteal Phase Dosing) % |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Paroxetine CR | Placebo | Paroxetine CR | Placebo | Paroxetine CR | Placebo | Paroxetine CR | Placebo | Paroxetine CR | Placebo |
+|  | Paroxetine HCL CR | Placebo | Paroxetine HCL CR | Placebo | Paroxetine HCL CR | Placebo | Paroxetine HCL CR | Placebo | Paroxetine HCL CR | Placebo |
 | n (males) | 78 | 78 | 162 | 194 | 88 | 97 | NA | NA | NA | NA |
 | Decreased Libido | 10 | 5 | 9 | 6 | 13 | 1 | NA | NA | NA | NA |
 | Abnormal ejaculation | 26 | 1 | 27 | 3 | 15 | 1 | NA | NA | NA | NA |
@@ -167,7 +167,7 @@ In those cases with a known outcome, patients recovered without sequelae.
 
 Less Common Adverse Reactions
 
-The following adverse reactions occurred during the clinical studies of paroxetine CR and are not included elsewhere in the labeling.
+The following adverse reactions occurred during the clinical studies of Paroxetine HCL CR and are not included elsewhere in the labeling.
 
 Reactions are categorized by body system and listed in order of decreasing frequency according to the following definitions: Frequent adverse reactions are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
 

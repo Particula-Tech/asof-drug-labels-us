@@ -13,14 +13,14 @@ In vitro studies in animals also suggest that paroxetine is a potent and highly 
 
 Absorption
 
-Tablets of paroxetine CR contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
-In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until tablets of paroxetine CR have left the stomach.
+Tablets of Paroxetine HCL CR contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
+In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until tablets of Paroxetine HCL CR have left the stomach.
 
 Paroxetine extended-release tablets are completely absorbed after oral dosing of a solution of the hydrochloride salt.
-In a study in which normal male and female subjects (n = 23) received single oral doses of paroxetine CR at 4 dosage strengths (12.5 mg, 25 mg, 37.5 mg, and 50 mg), paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate‑release formulations).
-Mean Cmax and AUC0-inf values at these doses were 2.0, 5.5, 9.0, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively.
+In a study in which normal male and female subjects (n = 23) received single oral doses of Paroxetine HCL CR at 4 dosage strengths (12.5 mg, 25 mg, 37.5 mg, and 50 mg), paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate‑release formulations).
+Mean Cmax and AUC0-inf values at these doses were 2, 5.5, 9, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively.
 Tmax was observed typically between 6 and 10 hours post‑dose, reflecting a reduction in absorption rate compared with immediate‑release formulations.
-The bioavailability of 25 mg paroxetine CR is not affected by food.
+The bioavailability of 25 mg Paroxetine HCL CR is not affected by food.
 
 Distribution
 
@@ -34,9 +34,9 @@ Elimination
 
 Metabolism
 
-The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of paroxetine CR (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
-During repeated administration of paroxetine CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release formulations).
-In a repeat‑dose study in which normal male and female subjects (n = 23) received paroxetine CR (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively.
+The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of Paroxetine HCL CR (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
+During repeated administration of Paroxetine HCL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release formulations).
+In a repeat‑dose study in which normal male and female subjects (n = 23) received Paroxetine HCL CR (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively.
 
 Based on studies using immediate‑release formulations, steady‑state drug exposure based on AUC0-24 was several‑fold greater than would have been predicted from single‑dose data.
 The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
@@ -56,7 +56,7 @@ Excretion
 Approximately 64% of a 30‑mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period.
 
-The elimination half-life is approximately 15 to 20 hours after a single dose of paroxetine CR.
+The elimination half-life is approximately 15 to 20 hours after a single dose of Paroxetine HCL CR.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
@@ -82,3 +82,6 @@ Paroxetine’s extent of inhibition of CYP3A4 activity is not expected to be of 
 Specific Populations
 
 The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3
+
+Figure 3.
+Impact of Specific Population on the Pharmacokinetics of Paroxetine (log scale)

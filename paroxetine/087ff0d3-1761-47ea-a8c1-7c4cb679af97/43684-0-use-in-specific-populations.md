@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D. [See Warnings and Precautions (5.14).]
+Pregnancy Category D [see Warnings and Precautions (5.14).]
 
 Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 If paroxetine is used during pregnancy, or if the patient becomes pregnant while taking paroxetine, advise the patient of the potential hazard to the fetus.
@@ -16,7 +16,7 @@ If paroxetine is used during pregnancy, or if the patient becomes pregnant while
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
 - Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
-  In one study the OR was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
+  In one study the OR was 2.5 (95% confidence interval, 1 to 6, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
 Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
 A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
@@ -26,7 +26,7 @@ It was not possible in this meta-analysis to determine the extent to which the o
 Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant [see Warnings and Precautions (5.7)].
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options [see Warnings and Precautions (5.4)].
 
-Treatment of Pregnant Women During Their Third Trimester: Neonates exposed to SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), including paroxetine CR, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Treatment of Pregnant Women During Their Third Trimester: Neonates exposed to SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), including Paroxetine HCL CR, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -53,11 +53,11 @@ The cause of these deaths is not known.
 ## 8.3 Nursing Mothers
 
 Like many other drugs, paroxetine is secreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from paroxetine CR, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from Paroxetine HCL CR, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of paroxetine CR in pediatric patients have not been established [see Boxed Warning, Warnings and Precautions (5.1)].
+The safety and effectiveness of Paroxetine HCL CR in pediatric patients have not been established [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with immediate-release paroxetine, and effectiveness was not established in pediatric patients.
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.
@@ -68,10 +68,10 @@ Adverse reactions upon discontinuation of treatment with immediate-release parox
 
 ## 8.5 Geriatric Use
 
-SSRIs and SNRIs, including paroxetine CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
+SSRIs and SNRIs, including Paroxetine HCL CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
 
 In premarketing clinical trials with immediate‑release paroxetine hydrochloride, 17% of paroxetine treated patients (approximately 700) were 65 years or older.
-Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; however, no overall differences in safety or effectiveness were observed between these subjects and younger subjects [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; however, no overall differences in safety or effectiveness were observed between these subjects and younger subjects [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal and/or Hepatic Impairment
 

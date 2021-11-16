@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Paroxetine CR is indicated in adults for the treatment of:
+Paroxetine HCL CR is indicated in adults for the treatment of:
 
 - Major depressive disorder (MDD)
 - Panic disorder (PD)
