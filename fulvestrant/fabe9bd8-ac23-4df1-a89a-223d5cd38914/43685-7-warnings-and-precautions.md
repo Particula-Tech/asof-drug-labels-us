@@ -7,13 +7,14 @@ Because Fulvestrant Injection is administered intramuscularly, it should be used
 ## 5.2 Increased Exposure in Patients with Hepatic Impairment
 
 The safety and pharmacokinetics of fulvestrant were evaluated in a study in seven subjects with moderate hepatic impairment (Child-Pugh class B) and seven subjects with normal hepatic function.
+
 Exposure was increased in patients with moderate hepatic impairment, therefore, a dose of 250 mg is recommended [see Dosage and Administration (2.2)].
 
 Fulvestrant has not been studied in patients with severe hepatic impairment (Child-Pugh class C) [see Use in Specific Populations (8.6)].
 
 ## 5.3 Injection Site Reaction
 
-Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with fulvestrant.
+Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with fulvestrant injection.
 Caution should be taken while administering Fulvestrant Injection at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
 
 ## 5.4 Embryo-Fetal Toxicity

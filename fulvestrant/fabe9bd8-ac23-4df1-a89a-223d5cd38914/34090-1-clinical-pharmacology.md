@@ -9,7 +9,7 @@ In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the 
 In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice.
 Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts.
 
-Fulvestrant showed no agonist-type effects in in vivo uterotropic assays in immature or ovariectomized mice and rats.
+Fulvestrant showed no agonist-type effects in in vivo uterotrophic assays in immature or ovariectomized mice and rats.
 In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
 In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.
 
@@ -39,13 +39,13 @@ Distribution:
 
 The apparent volume of distribution at steady state is approximately 3 to 5 L/kg.
 This suggests that distribution is largely extravascular.
-Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL and HDL lipoprotein fractions appear to be the major binding components.
-The role of sex hormone-binding globulin, if any, could not be determined.
+Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL, and HDL lipoprotein fractions appear to be the major binding components.
+The role of sex hormone- binding globulin, if any, could not be determined.
 
 Metabolism:
 
 Biotransformation and disposition of fulvestrant in humans have been determined following intramuscular and intravenous administration of 14C-labeled fulvestrant.
-Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
+Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3, and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
 Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models.
 
 Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.
@@ -76,7 +76,7 @@ In a separate trial, pharmacokinetic data from postmenopausal ethnic Japanese wo
 Drug-Drug Interactions:
 
 There are no known drug-drug interactions.
-Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro, and studies of co-administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme.
+Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro, and studies of co- administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme.
 Although fulvestrant is partly metabolized by CYP 3A4, a clinical study with rifampin, an inducer of CYP 3A4, showed no effect on the pharmacokinetics of fulvestrant.
-Also results from a healthy volunteer study with ketoconazole, a potent inhibitor of CYP 3A4, indicated that ketoconazole had no effect on the pharmacokinetics of fulvestrant and dosage adjustment is not necessary in patients co-prescribed CYP 3A4 inhibitors or inducers [see Drug Interactions (7)].
+Also, results from a healthy volunteer study with ketoconazole, a potent inhibitor of CYP 3A4, indicated that ketoconazole had no effect on the pharmacokinetics of fulvestrant and dosage adjustment is not necessary in patients co-prescribed CYP 3A4 inhibitors or inducers [see Drug Interactions (7)].
 Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction when fulvestrant is co-administered with palbociclib, abemaciclib, or ribociclib.

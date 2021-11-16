@@ -4,11 +4,11 @@
 
 Monotherapy
 
-The recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
+The recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter [see Clinical Studies (14)].
 
 Combination Therapy
 
-When Fulvestrant Injection is used in combination with palbociclib, abemaciclib, or ribociclib the recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter.
+When Fulvestrant Injection is used in combination with palbociclib, abemaciclib, or ribociclib, the recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter.
 
 When Fulvestrant Injection is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
 Palbociclib should be taken with food.
@@ -30,7 +30,7 @@ Monotherapy
 
 Hepatic Impairment:
 
-A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29 and once monthly thereafter.
+A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29, and once monthly thereafter.
 
 Fulvestrant Injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
@@ -48,7 +48,7 @@ NOTE: Due to the proximity of the underlying sciatic nerve, caution should be ta
 
 The proper method of administration of Fulvestrant Injection for intramuscular use is described in the following instructions.
 
-For each syringe:
+For each single-dose prefilled syringe:
 
 1. Remove glass syringe barrel from tray and check that it is not damaged.
 2. Inspect drug product in glass syringe for any visible particulate matter or discoloration prior to use.
@@ -67,7 +67,7 @@ For each syringe:
 9. Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
    For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 3.
    Figure 3
-10. After injection, immediately activate the lever arm to deploy the safety shield by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
+10. After injection, immediately activate the lever arm to deploy the safety shield by applying a single finger stroke to the activation assisted lever arm to push the lever arm completely forward.
     Listen for a click.
     Confirm that the safety shield has completely covered the needle (see Figure 4).
     NOTE: Activate away from self and others.
@@ -90,4 +90,4 @@ Hands must remain behind the needle at all times during use and disposal.
 
 Do not autoclave SafetyGlideTM Needle before use.
 
-Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic and non-pyrogenic.
+Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic, and non-pyrogenic.

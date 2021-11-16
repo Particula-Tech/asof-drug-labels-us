@@ -16,7 +16,7 @@ Monotherapy
 Comparison of Fulvestrant Injection 500 mg and Fulvestrant Injection 250 mg (CONFIRM)
 
 The following adverse reactions (ARs) were calculated based on the safety analysis of CONFIRM comparing the administration of fulvestrant 500 mg intramuscularly once a month with fulvestrant 250 mg intramuscularly once a month.
-The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients) and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients) and injection site pain (9.1% of patients).
+The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients), and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients), and injection site pain (9.1% of patients).
 
 Table 1 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from CONFIRM.
 
@@ -57,17 +57,17 @@ The safety of fulvestrant 500 mg versus anastrozole 1 mg was evaluated in FALCON
 The data described below reflect exposure to fulvestrant in 228 out of 460 patients with HR-positive advanced breast cancer in postmenopausal women not previously treated with endocrine therapy who received at least one (1) dose of treatment in FALCON.
 
 Permanent discontinuation associated with an adverse reaction occurred in 4 of 228 (1.8%) patients receiving fulvestrant, and in 3 of 232 (1.3%) patients receiving anastrozole.
-Adverse reactions leading to discontinuation for those patients receiving fulvestrant included drug hypersensitivity (0.9%), injection site hypersensitivity (0.4%) and elevated liver enzymes (0.4%).
+Adverse reactions leading to discontinuation for those patients receiving fulvestrant included drug hypersensitivity (0.9%), injection site hypersensitivity (0.4%), and elevated liver enzymes (0.4%).
 
-The most common adverse reactions (≥10%) of any grade reported in patients in the fulvestrant arm were arthralgia, hot flash, fatigue and nausea.
+The most common adverse reactions (≥10%) of any grade reported in patients in the fulvestrant arm were arthralgia, hot flash, fatigue, and nausea.
 
 Adverse reactions reported in patients who received fulvestrant in FALCON at an incidence of ≥5% in either treatment arm are listed in Table 2, and laboratory abnormalities are listed in Table 3.
 
 Table 2: Adverse Reactions in FALCON
 
-| Adverse Reactions | All Grades % | Grade 3 or 4 % | All Grades % | Grade 3 or 4 % |
+| Adverse Reactions | Fulvestrant 500 mg N=228 |  | Anastrozole 1 mg N=232 |  |
 | --- | --- | --- | --- | --- |
-|  | Fulvestrant 500 mg N=228 |  | Anastrozole 1 mg N=232 |  |
+| All Grades % | Grade 3 or 4 % | All Grades % | Grade 3 or 4 % |  |
 | Vascular Disorders |  |  |  |  |
 | Hot flash | 11 | 0 | 10 | 0 |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -83,16 +83,16 @@ Table 2: Adverse Reactions in FALCON
 
 Table 3: Laboratory Abnormalities in FALCON1
 
-|  | Fulvestrant 500 mg N=228 |  | Anastrozole 1 mg N=232 |  |
+| Laboratory Parameters | Fulvestrant 500 mg N=228 |  | Anastrozole 1 mg N=232 |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Parameters | All Grades % | Grade 3 or 4 % | All Grades % | Grade 3 or 4 % |
+| All Grades % | Grade 3 or 4 % | All Grades % | Grade 3 or 4 % |  |
 | Alanine aminotransferase increased (ALT) | 7 | 1 | 3 | 0 |
 | Aspartate aminotransferase increased (AST) | 5 | 1 | 3 | <1 |
 | 1. In FALCON, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >10% of patients receiving fulvestrant. Grade 3-4 increases were observed in 1%-3% of patients. |  |  |  |  |
 
 Comparison of Fulvestrant Injection 250 mg and Anastrozole 1 mg in Combined Trials (Studies 0020 and 0021)
 
-The most commonly reported adverse reactions in the fulvestrant and anastrozole treatment groups were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
+The most commonly reported adverse reactions in the fulvestrant and anastrozole treatment groups were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea, and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
 
 Injection site reactions with mild transient pain and inflammation were seen with fulvestrant and occurred in 7% of patients given the single 5 mL injection (Study 0020) and in 27% of patients given the 2 x 2.5 mL injections (Study 0021) in the two clinical trials that compared fulvestrant 250 mg and anastrozole 1 mg.
 
@@ -146,6 +146,8 @@ Table 4: Adverse Reactions in Studies 0020 and 0021 (≥ 5% from Combined Data)
 | Urinary Tract Infection | 6 | 4 |
 | 1. Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. All patients on fulvestrant received injections, but only those anastrozole patients who were in Study 0021 received placebo injections. |  |  |
 
+Combination Therapy
+
 Combination Therapy with Palbociclib (PALOMA-3)
 
 The safety of fulvestrant 500 mg plus palbociclib 125 mg/day versus fulvestrant plus placebo was evaluated in PALOMA-3.
@@ -166,7 +168,7 @@ Adverse reactions (≥10%) reported in patients who received fulvestrant plus pa
 
 Table 5: Adverse Reactions (≥10%) in PALOMA-3
 
-| Adverse Reactions | Fulvestrant plus Palbociclib N=345 |  |  | Fulvestrant plus Placebo N=172 |  |  |
+| Adverse Reaction | Fulvestrant plus Palbociclib N=345 |  |  | Fulvestrant plus Placebo N=172 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
@@ -191,12 +193,11 @@ Table 5: Adverse Reactions (≥10%) in PALOMA-3
 | Pyrexia | 13 | <1 | 0 | 5 | 0 | 0 |
 | Grading according to CTCAE v.4.0. |  |  |  |  |  |  |
 | CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable. |  |  |  |  |  |  |
-| 1. Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and |  |  |  |  |  |  |
-| infestations |  |  |  |  |  |  |
+| 1. Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations. |  |  |  |  |  |  |
 | 2. Most common infections (≥1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, influenza, bronchitis, rhinitis, conjunctivitis, pneumonia, sinusitis, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia. |  |  |  |  |  |  |
 | 3. Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. |  |  |  |  |  |  |
-| 4. Grade 1 events – 17%; Grade 2 events – 1%. |  |  |  |  |  |  |
-| 5. Grade 1 events – 6%. |  |  |  |  |  |  |
+| 4. Grade 1 events - 17%; Grade 2 events - 1%. |  |  |  |  |  |  |
+| 5. Grade 1 events - 6%. |  |  |  |  |  |  |
 | 6. Rash includes: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption. |  |  |  |  |  |  |
 
 Additional adverse reactions occurring at an overall incidence of <10.0% of patients receiving fulvestrant plus palbociclib in PALOMA-3 included asthenia (7.5%), aspartate aminotransferase increased (7.5%), dysgeusia (6.7%), epistaxis (6.7%), lacrimation increased (6.4%), dry skin (6.1%), alanine aminotransferase increased (5.8%), vision blurred (5.8%), dry eye (3.8%), and febrile neutropenia (0.9%).
@@ -212,7 +213,7 @@ Table 6: Laboratory Abnormalities in PALOMA-3
 | Platelets decreased | 62 | 2 | 1 | 10 | 0 | 0 |
 | Aspartate aminotransferase increased | 43 | 4 | 0 | 48 | 4 | 0 |
 | Alanine aminotransferase increased | 36 | 2 | 0 | 34 | 0 | 0 |
-| N=number of patients; WBC=white blood cells. |  |  |  |  |  |  |
+| N=number of patients; WBC=white blood cells |  |  |  |  |  |  |
 
 Combination Therapy with Abemaciclib (MONARCH 2)
 
@@ -230,16 +231,18 @@ Permanent study treatment discontinuation due to an adverse event was reported i
 Adverse reactions leading to permanent discontinuation for patients receiving fulvestrant plus abemaciclib were infection (2%), diarrhea (1%), hepatotoxicity (1%), fatigue (0.7%), nausea (0.2%), abdominal pain (0.2%), acute kidney injury (0.2%), and cerebral infarction (0.2%).
 
 Deaths during treatment or during the 30-day follow up, regardless of causality, were reported in 18 cases (4%) of fulvestrant plus abemaciclib treated patients versus 10 cases (5%) of fulvestrant plus placebo treated patients.
-Causes of death for patients receiving fulvestrant plus abemaciclib included: 7 (2%) patient deaths due to underlying disease, 4 (0.9%) due to sepsis, 2 (0.5%) due to pneumonitis, 2 (0.5%) due to hepatotoxicity, and one (0.2%) due to cerebral infarction.
+Causes of death for patients receiving fulvestrant plus abemaciclib included:
+
+7 (2%) patient deaths due to underlying disease, 4 (0.9%) due to sepsis, 2 (0.5%) due to pneumonitis, 2 (0.5%) due to hepatotoxicity, and one (0.2%) due to cerebral infarction.
 
 The most common adverse reactions reported (≥20%) in the fulvestrant plus abemaciclib arm were diarrhea, fatigue, neutropenia, nausea, infections, abdominal pain, anemia, leukopenia, decreased appetite, vomiting, and headache (Table 7).
 The most frequently reported (≥5%) Grade 3 or 4 adverse reactions were neutropenia, diarrhea, leukopenia, anemia, and infections.
 
 Table 7: Adverse Reactions ≥10% of Patients Receiving Fulvestrant Plus Abemaciclib and ≥2% Higher Than Fulvestrant Plus Placebo in MONARCH 2
 
-| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | Fulvestrant plus Abemaciclib N=441 |  |  | Fulvestrant plus Placebo N=223 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
 | Diarrhea | 86 | 13 | 0 | 25 | <1 | 0 |
 | Nausea | 45 | 3 | 0 | 23 | 1 | 0 |
@@ -274,13 +277,12 @@ Table 7: Adverse Reactions ≥10% of Patients Receiving Fulvestrant Plus Abemaci
 | Aspartate aminotransferase increased | 12 | 2 | 0 | 7 | 3 | 0 |
 | Creatinine increased | 12 | <1 | 0 | <1 | 0 | 0 |
 | Weight decreased | 10 | <1 | 0 | 2 | <1 | 0 |
-| 1. Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
-| 2. Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
-| 3. Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
-| 4. Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
-| 5. Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
-| 6. Includes platelet count decreased, thrombocytopenia. |  |  |  |  |  |  |
-| 7. Includes asthenia, fatigue. |  |  |  |  |  |  |
+| 1 Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
+| 2 Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
+| 3 Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
+| 4 Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
+| 5 Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
+| 6 Includes platelet count decreased, thrombocytopenia. 7. Includes asthenia, fatigue. |  |  |  |  |  |  |
 
 Additional adverse reactions in MONARCH 2 include venous thromboembolic events (deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, subclavian vein thrombosis, axillary vein thrombosis, and DVT inferior vena cava), which were reported in 5% of patients treated with fulvestrant plus abemaciclib as compared to 0.9% of patients treated with fulvestrant plus placebo.
 
@@ -302,7 +304,7 @@ Combination Therapy with Ribociclib (MONALEESA-3)
 
 The safety of fulvestrant 500 mg plus ribociclib 600 mg versus fulvestrant plus placebo was evaluated in MONALEESA-3.
 The data described below reflect exposure to fulvestrant plus ribociclib in 483 out of 724 postmenopausal patients with HR-positive, HER2-negative advanced or metastatic breast cancer for initial endocrine based therapy or after disease progression on endocrine therapy who received at least one dose of fulvestrant plus ribociclib or placebo in MONALEESA-3.
-Median duration of treatment was 15.8 months for fulvestrant plus ribociclib and 12 months for Fulvestrant Injection plus placebo.
+Median duration of treatment was 15.8 months for fulvestrant plus ribociclib and 12 months for Fulvestrant plus placebo.
 
 Dose reductions due to adverse reactions occurred in 32% of patients receiving fulvestrant plus ribociclib and in 3% of patients receiving fulvestrant plus placebo.
 Among patients receiving fulvestrant plus ribociclib, 8% were reported to have permanently discontinued both fulvestrant plus ribociclib, and 9% were reported to have discontinued ribociclib alone due to ARs.
@@ -321,7 +323,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than Fulvestrant
 | --- | --- | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
-| Infections1 | 42 | 5 | 0 | 30 | 2 | 0 |
+| Infections1 | 42 | 5 | o | 30 | 2 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 69 | 46 | 7 | 2 | 0 | 0 |
 | Leukopenia | 27 | 12 | <1 | <1 | 0 | 0 |
@@ -352,8 +354,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than Fulvestrant
 | Grading according to CTCAE 4.03. |  |  |  |  |  |  |
 | CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients |  |  |  |  |  |  |
 | 1. Infections; urinary tract infections; respiratory tract infections; gastroenteritis; sepsis (<1%). |  |  |  |  |  |  |
-
-Additional adverse reactions in MONALEESA-3 for patients receiving fulvestrant plus ribociclib included asthenia (14%), dyspepsia (10%), thrombocytopenia (9%), dry skin (8%), dysgeusia (7%), electrocardiogram QT prolonged (6%), dry mouth (5%), vertigo (5%), dry eye (5%), lacrimation increased (4%), erythema (4%), hypocalcemia (4%), blood bilirubin increased (1%), and syncope (1%).
+| Additional adverse reactions in MONALEESA-3 for patients receiving fulvestrant plus ribociclib included asthenia (14%), dyspepsia (10%), thrombocytopenia (9%), dry skin (8%), dysgeusia (7%), electrocardiogram QT prolonged (6%), dry mouth (5%), vertigo (5%), dry eye (5%), lacrimation increased (4%), erythema (4%), hypocalcemia (4%), blood bilirubin increased (1%), and syncope (1%). |  |  |  |  |  |  |
 
 Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-3
 
