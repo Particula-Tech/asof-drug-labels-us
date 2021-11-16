@@ -15,7 +15,7 @@ Data
 
 Human Data
 
-The majority of published observational studies reporting on pregnancies exposed to interferon beta products did not identify an association between the use of interferon beta products during early pregnancy and an increased risk of major birth defects.
+The majority of observational studies reporting on pregnancies exposed to interferon beta products did not identify an association between the use of interferon beta products during early pregnancy and an increased risk of major birth defects.
 
 In a population-based cohort study conducted in Finland and Sweden, data were collected from 1996--2014 in Finland and 2005--2014 in Sweden on 2,831 pregnancy outcomes from women with MS. 797 pregnancies were in women exposed to interferon beta only.
 No evidence was found of an increased risk of major birth defects among women with MS exposed to interferon beta products compared to women with MS that were unexposed to any non-steroid therapy for MS (n=1,647) within the study.
@@ -23,7 +23,7 @@ No increased risks were observed for miscarriages and ectopic pregnancies, thoug
 
 Two small cohort studies that examined pregnancies exposed to interferon beta products (without differentiating between subtypes of interferon beta products) suggested that a decrease in mean birth weight may be associated with interferon beta exposure during pregnancy, but this finding was not confirmed in larger observational studies.
 Two small studies observed an increased prevalence of miscarriage, although the finding was only statistically significant in one study.
-Most studies enrolled patients later in pregnancy, which made it difficult to ascertain the true percentage of miscarriages.
+Most studies enrolled patients later in pregnancy which made it difficult to ascertain the true percentage of miscarriages.
 In one small cohort study, a significantly increased risk of preterm birth following interferon beta exposure during pregnancy was observed.
 
 Animal Data

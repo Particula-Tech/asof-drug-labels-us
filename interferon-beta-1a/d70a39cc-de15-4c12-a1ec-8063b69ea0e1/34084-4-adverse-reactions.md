@@ -5,12 +5,13 @@ The following serious adverse reactions are discussed in more detail in other se
 - Depression, Suicide, and Psychotic Disorders [see Warnings and Precautions (5.1)]
 - Hepatic Injury [see Warnings and Precautions (5.2)]
 - Anaphylaxis and Other Allergic-Reactions [see Warnings and Precautions (5.3)]
-- Congestive Heart Failure [see Warnings and Precautions (5.4)]
-- Decreased Peripheral Blood Counts [see Warnings and Precautions (5.5)]
-- Thrombotic Microangiopathy [see Warnings and Precautions (5.6)]
-- Seizures [see Warnings and Precautions (5.7)]
-- Autoimmune Disorders [see Warnings and Precautions (5.8)]
-- Laboratory Tests [see Warnings and Precautions (5.9)]
+- Injection Site Reactions Including Necrosis [see Warnings and Precautions (5.4)]
+- Congestive Heart Failure [see Warnings and Precautions (5.5)]
+- Decreased Peripheral Blood Counts [see Warnings and Precautions (5.6)]
+- Thrombotic Microangiopathy [see Warnings and Precautions (5.7)]
+- Seizures [see Warnings and Precautions (5.8)]
+- Autoimmune Disorders [see Warnings and Precautions (5.9)]
+- Laboratory Tests [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -85,7 +86,7 @@ For these reasons, comparison of the incidence of antibodies to AVONEX with the 
 The following additional adverse reactions have been identified during post-approval use of AVONEX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hemolytic Anemia
+- Hemolytic anemia
 - Menorrhagia and metrorrhagia
 - Rash (including vesicular rash)
 - Rare cases of injection site abscess or cellulitis requiring surgical intervention

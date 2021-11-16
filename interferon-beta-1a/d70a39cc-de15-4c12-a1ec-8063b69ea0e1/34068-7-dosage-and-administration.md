@@ -28,7 +28,7 @@ If patients or caregivers are to administer AVONEX, train them in the proper int
 
 Advise patients and caregivers to:
 
-- Rotate sites for intramuscular injections with each injection to minimize the likelihood of injection site reactions
+- Rotate injection sites with each administration to minimize the likelihood of injection site reactions, including necrosis or localized infection [see Warnings and Precautions (5.4)]
 - NOT inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way
 - Check the injection site after 2 hours for redness, swelling, or tenderness
 - Contact their healthcare provider if they have a skin reaction and it does not clear up in a few days

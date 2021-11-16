@@ -19,7 +19,7 @@ Inform patients to dispose of used needles and syringes in a puncture-resistant 
 Advise patients:
 
 - of the importance of rotating areas of injection with each dose to minimize the likelihood of injection site reactions.
-  [see Choose an Injection Site section of the Medication Guide].
+  [see Warnings and Precautions (5.4) and Choose an Injection Site section of the Medication Guide].
 - NOT to inject area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way
 - to check the injection site after 2 hours for redness, swelling, or tenderness
 - contact their healthcare provider if they have a skin reaction and it does not clear up in a few days
@@ -41,6 +41,11 @@ Allergic Reactions and Anaphylaxis
 
 Advise patients of the symptoms of allergic reactions and anaphylaxis, and instruct patients to seek immediate medical attention if these symptoms occur [see Warnings and Precautions (5.3)].
 
+Injection Site Reactions Including Necrosis
+
+Advise patients that injection site reactions can occur and that the reactions can include injection site necrosis.
+Instruct patients to report promptly any break in the skin that is associated with blue-black discoloration, swelling, or drainage of fluid from the injection site [see Warnings and Precautions (5.4)].
+
 Congestive Heart Failure
 
 Advise patients that worsening of pre-existing congestive heart failure has been reported in patients using AVONEX.
@@ -56,7 +61,7 @@ Flu-like Symptoms
 Inform patients that flu-like symptoms are common following initiation of therapy with AVONEX [see Dosage and Administration (2.3) and Adverse Reactions (6)].
 Advise patients that starting with a lower dose than 30 micrograms and increasing the dose over 3 weeks reduces the incidence and severity of flu-like symptoms.
 
-41613-05
+41613-6
 
 Manufactured by:
 
@@ -70,5 +75,5 @@ U.S. License #1697
 
 AVONEX is a registered trademark of Biogen.
 
-© Biogen 1996-2020.
+© Biogen 1996-2021.
 All rights reserved.

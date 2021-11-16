@@ -13,7 +13,7 @@ AVONEX (interferon beta-1a) injection is a clear, colorless solution in a single
 
 ## 16.2 Storage and Handling
 
-Refrigerate AVONEX prefilled syringes and autoinjectors at 2°C to 8°C (36°F to 46°F) in the original container to protect from light.
+Refrigerate AVONEX prefilled syringes and autoinjectors at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
 DO NOT FREEZE.
 Once removed from the refrigerator, allow prefilled syringes and autoinjectors to warm to room temperature (about 30 minutes).
 Do not use external heat sources such as hot water to warm AVONEX.
@@ -25,4 +25,4 @@ If the product has been exposed to conditions other than those recommended, DISC
 
 Do not use beyond the expiration date.
 
-AVONEX prefilled syringe and AVONEX PEN contain natural rubber latex which may cause allergic reactions.
+AVONEX Prefilled Syringe and AVONEX PEN contain natural rubber latex which may cause allergic reactions.

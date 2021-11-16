@@ -11,7 +11,7 @@ Three major types of interferons have been defined: type I (IFN-alpha, beta, eps
 Interferon-beta is a member of the type I subset of interferons.
 The type I interferons have considerably overlapping but also distinct biologic activities.
 The bioactivities of all IFNs, including IFN-beta, are induced via their binding to specific receptors on the membranes of human cells.
-Differences in the bioactivites induced by the three major subtypes of IFNs likely reflect differences in the signal transduction pathways induced by signaling through their cognate receptors.
+Differences in the bioactivities induced by the three major subtypes of IFNs likely reflect differences in the signal transduction pathways induced by signaling through their cognate receptors.
 
 Interferon beta exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
