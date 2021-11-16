@@ -42,6 +42,11 @@ Discontinuation Syndrome
 Advise patients not to abruptly discontinue sertraline hydrochloride and to discuss any tapering regimen with their healthcare provider.
 Adverse reactions can occur when sertraline hydrochloride is discontinued [See Warnings and Precautions (5.5)].
 
+Sexual Dysfunction
+
+Advise patients that use of sertraline hydrochloride may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
 Allergic Reactions
 
 Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [See Adverse Reactions (6.2)].
