@@ -149,12 +149,12 @@ Inactive Ingredients: lactose monohydrate, starch, hydroxypropyl cellulose, magn
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc.
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-Lexington, MA 02421ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-©2005-2020 Takeda Pharmaceuticals America, Inc.
+©2005-2021 Takeda Pharmaceuticals America, Inc.
 
-ROZ014 R10 December 2018
+ROZ014 R11 Dec 2018
