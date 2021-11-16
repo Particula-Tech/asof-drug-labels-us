@@ -8,6 +8,12 @@ The molecular formula is C21H27N5O4S; the molecular weight is 445.55; the struct
 Glipizide is a whitish, odorless powder with a pKa of 5.9.
 It is insoluble in water and alcohols, but soluble in 0.1 N NaOH; it is freely soluble in dimethylformamide.
 
+Each tablet contains 2.75 mg glipizide to provide a 2.5 mg dose.
+
+Each tablet contains 5.49 mg glipizide to provide a 5 mg dose.
+
+Each tablet contains 10.98 mg glipizide to provide a 10 mg dose.
+
 Inert ingredients in the 2.5 mg, 5 mg and 10 mg formulations are: polyethylene oxide, hypromellose, magnesium stearate, sodium chloride, red ferric oxide, cellulose acetate, polyethylene glycol, Opadry® blue (OY-LS-20921)(2.5 mg tablets), Opadry® white (YS-2-7063)(5 mg and 10 mg tablet) and Opacode® Black Ink (S-1-17823).
 
 System Components and Performance
