@@ -66,7 +66,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking venlafaxine tablets, USP.
 Venlafaxine tablets, USP should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of venlafaxine tablets, USP with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of venlafaxine tablets, USP with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with venlafaxine tablets, USP and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -513,8 +513,6 @@ This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associate
 ## Pregnancy
 
 Teratogenic Effects
-
-Pregnancy Category C
 
 Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 11 times (rat) or 12 times (rabbit) the maximum recommended human daily dose on a mg/kg basis, or 2.5 times (rat) and 4 times (rabbit) the human daily dose on a mg/m2 basis.
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.

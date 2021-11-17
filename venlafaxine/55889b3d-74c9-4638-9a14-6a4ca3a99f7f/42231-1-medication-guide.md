@@ -66,14 +66,14 @@ Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including venla
 
 Symptoms in males may include:
 
-- oDelayed ejaculation or inability to have an ejaculation
-- oDecreased sex drive
-- oProblems getting or keeping an erection
+- •Delayed ejaculation or inability to have an ejaculation
+- •Decreased sex drive
+- •Problems getting or keeping an erection
 
 Symptoms in females may include:
 
-- oDecreased sex drive
-- oDelayed orgasm or inability to have an orgasm
+- •Decreased sex drive
+- •Delayed orgasm or inability to have an orgasm
 
 Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with venlafaxine tablets, USP.
 There may be treatments your healthcare provider can suggest.
