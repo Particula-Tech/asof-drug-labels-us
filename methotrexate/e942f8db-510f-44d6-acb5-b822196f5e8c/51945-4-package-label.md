@@ -16,8 +16,6 @@ Rx only
 
 30 Tablets
 
-teva
-
 # Principal Display Panel
 
 NDC 51285-367-01
@@ -35,8 +33,6 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 Rx only
 
 30 Tablets
-
-teva
 
 # Principal Display Panel
 
@@ -56,8 +52,6 @@ Rx only
 
 30 Tablets
 
-teva
-
 # Principal Display Panel
 
 NDC 51285-369-01
@@ -75,5 +69,3 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 Rx only
 
 30 Tablets
-
-teva
