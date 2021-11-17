@@ -21,4 +21,4 @@ Manufactured by: Granules India Limited Survey No. 160/A, 161/E, 162, 174/A, Gag
 
 AP/DRUGS/37/2003
 
-Revised: 9/2020 GR:BROMC:R2
+Revised: 10/2021 GR:BROMC:R3

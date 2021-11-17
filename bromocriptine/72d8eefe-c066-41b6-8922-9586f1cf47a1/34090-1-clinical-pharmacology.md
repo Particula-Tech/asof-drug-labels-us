@@ -24,7 +24,7 @@ Following bromocriptine 5 mg administered twice daily for 14 days, the bromocrip
 
 ### Distribution
 
-In vitro experiments showed that bromocriptine was 90% to 96% bound to serum albumin.
+In vitro experiments showed that bromocriptine was 90% - 96% bound to serum albumin.
 
 ### Metabolism
 
@@ -71,7 +71,7 @@ Eur J Biochem 223:947-56.
 Assessment of potential interactions between dopamine receptor agonists and various human cytochrome P450 enzymes using a simple in vitro inhibition screen.
 Drug Metab Dispos; 25:1211-14.
 
-## Special Populations
+## Specific Populations
 
 ### Effect of Renal Impairment
 

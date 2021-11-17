@@ -21,7 +21,7 @@ On occasion, the drop in supine systolic pressure was as much as 50-59 mm of Hg.
 Since, especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
 While hypotension during the start of therapy with bromocriptine occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in postpartum women treated with bromocriptine for the inhibition of lactation.
-Hypertension has been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported, both with and without the prior development of hypertension; stroke has been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
+Hypertension has been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported both with and without the prior development of hypertension; stroke has been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
 Many of these patients experiencing seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
 Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
 Cases of acute myocardial infarction have also been reported.
@@ -76,7 +76,7 @@ Patients with rapidly progressive visual field loss should be evaluated by a neu
 Since pregnancy is often the therapeutic objective in many hyperprolactinemic patients presenting with amenorrhea/galactorrhea and hypogonadism (infertility), a careful assessment of the pituitary is essential to detect the presence of a prolactin-secreting adenoma.
 Patients not seeking pregnancy, or those harboring large adenomas, should be advised to use contraceptive measures, other than oral contraceptives, during treatment with bromocriptine.
 Since pregnancy may occur prior to reinitiation of menses, a pregnancy test is recommended at least every 4 weeks during the amenorrheic period, and, once menses are reinitiated, every time a patient misses a menstrual period.
-Treatment with bromocriptine tablets or capsules should be discontinued as soon as pregnancy has been established.
+Treatment with bromocriptine mesylate tablets or capsules should be discontinued as soon as pregnancy has been established.
 Patients must be monitored closely throughout pregnancy for signs and symptoms that may signal the enlargement of a previously undetected or existing prolactin-secreting tumor.
 Discontinuation of bromocriptine treatment in patients with known macroadenomas has been associated with rapid regrowth of tumor and increase in serum prolactin in most cases.
 
@@ -109,15 +109,20 @@ Rarely, after high doses, hallucinations have persisted for several weeks follow
 
 As with levodopa, caution should be exercised when administering bromocriptine to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
-Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2-10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
+Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2 to 10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
 
 Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
-Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on l-dopa.
+Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
 A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine.
+These symptoms generally do not respond to levodopa.
+Prior to discontinuation of bromocriptine, patients should be informed about potential withdrawal symptoms and closely monitored during and after discontinuation of bromocriptine.
+In case of severe withdrawal symptoms, re-administration of a dopamine agonist at the lowest effective dose may be considered.
 
 ## Information for Patients
 
@@ -135,12 +140,14 @@ Advise patients and their caregivers to inform their healthcare provider if they
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
+Advise patients to contact their healthcare provider if they wish to discontinue bromocriptine or decrease the dose of bromocriptine.
+Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as fever, muscular rigidity, altered consciousness, apathy, anxiety, depression, fatigue, insomnia, sweating, or pain (see PRECAUTIONS).
+
 ## Drug Interactions
 
 The risk of using bromocriptine in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of bromocriptine.
 Bromocriptine may interact with dopamine antagonists, butyrophenones, and certain other agents.
 Compounds in these categories result in a decreased efficacy of bromocriptine: phenothiazines, haloperidol, metoclopramide, and pimozide.
-
 Bromocriptine is a substrate of CYP3A4.
 Caution should therefore be used when co-administering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
 The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).1 The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine (bromocriptine AUC increased about 38%).4 Concomitant use of bromocriptine with other ergot alkaloids is not recommended.
@@ -190,11 +197,11 @@ The mean daily dose for all patients was 5.8 mg (range 1-40 mg).
 
 Of these 1276 pregnancies, there were 1088 full-term deliveries (4 stillborn), 145 spontaneous abortions (11.4%), and 28 induced abortions (2.2%).
 Moreover, 12 extrauterine gravidities and 3 hydatidiform moles (twice in the same patient) caused early termination of pregnancy.
-These data compare favorably with the abortion rate (11%-25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
+These data compare favorably with the abortion rate (11% - 25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
 
 Although spontaneous abortions often go unreported, especially prior to 20 weeks of gestation, their frequency has been estimated to be 15%.
 
-The incidence of birth defects in the population at large ranges from 2%-4.5%.
+The incidence of birth defects in the population at large ranges from 2% - 4.5%.
 The incidence in 1109 live births from patients receiving bromocriptine is 3.3%.
 
 There is no suggestion that bromocriptine contributed to the type or incidence of birth defects in this group of infants.
