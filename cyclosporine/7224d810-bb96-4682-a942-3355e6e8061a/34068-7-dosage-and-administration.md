@@ -1,13 +1,14 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
-Instill one drop of RESTASIS MULTIDOSE™ ophthalmic emulsion twice a day in each eye approximately 12 hours apart.
-RESTASIS MULTIDOSE™ can be used concomitantly with lubricant eye drops, allowing a 15-minute interval between products.
+Instill one drop of RESTASIS MULTIDOSETM ophthalmic emulsion twice a day in each eye approximately 12 hours apart.
+RESTASIS MULTIDOSETM can be used concomitantly with lubricant eye drops, allowing a 15-minute interval between products.
+Contact lenses should be removed prior to the administration of RESTASIS® MULTIDOSETM and may be reinserted 15 minutes following administration.
 
-## 2.1 Preparation for First-Time Use
+## 2.1Preparation for First-Time Use
 
 Step 1: Pull off the clear shipping cover by pulling straight up.
 Throw the shipping cover away.
-Do not use RESTASIS MULTIDOSE™ if shipping cover or pull tab are damaged or missing.
+Do not use RESTASIS MULTIDOSETM if shipping cover or pull tab are damaged or missing.
 
 Step 2: Remove the pull tab on the olive green colored protective cap by pulling the end of the pull tab away from the bottle then winding it counterclockwise.
 Throw away the pull tab.
@@ -21,7 +22,7 @@ Do not let the bottle tip touch the tissue.
 Step 5: The bottle is now ready for use.
 After use, recap the bottle with the olive green colored protective cap by pushing it straight down onto the bottle.
 
-## 2.2 Preparation for Use
+## 2.2Preparation for Use
 
 Step 6: Turn the bottle upside down a few times before giving your dose to make sure the medicine is mixed well.
 

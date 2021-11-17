@@ -1,10 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Potential for Eye Injury and Contamination
+## 5.1Potential for Eye Injury and Contamination
 
 Be careful not to touch the bottle tip to your eye or other surfaces to avoid potential for eye injury and contamination.
 
-## 5.2 Use with Contact Lenses
+## 5.2Use with Contact Lenses
 
 RESTASIS MULTIDOSE™ should not be administered while wearing contact lenses.
 Patients with decreased tear production typically should not wear contact lenses.

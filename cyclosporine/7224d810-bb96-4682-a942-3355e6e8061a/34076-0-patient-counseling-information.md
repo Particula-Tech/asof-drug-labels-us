@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Handling the Container
 
@@ -18,10 +18,13 @@ Advise patients to read the “Instructions for Use” for detailed first-time u
 
 © 2016 Allergan.
 All rights reserved.
-Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
 
-Patented: See: www.allergan.com/products/patents Made in Ireland.
+Irvine, CA 92612, U.S.A.
+
+All trademarks are the property of their respective owners.
+
+Patented: See: www.allergan.com/products/patents
+
+Made in Ireland.
 
 72843US12
-
--------Cut Here ✂-----------------------------------------------------------------------------------------------
