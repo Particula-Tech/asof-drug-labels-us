@@ -8,17 +8,23 @@ NDC 29300-419-01 bottles of 100
 
 NDC 29300-419-05 bottles of 500
 
+NDC 29300-419-10 bottles of 1000
+
 25 mg: Yellow colored, round shaped, film-coated tablets, debossed with "420" on one side and "U" on the other side, and supplied as:
 
 NDC 29300-420-01 bottles of 100
 
 NDC 29300-420-05 bottles of 500
 
+NDC 29300-420-10 bottles of 1000
+
 50 mg: Brown colored, round shaped, film-coated tablets, debossed with "421" on one side and "U" on the other side, and supplied as:
 
 NDC 29300-421-01 bottles of 100
 
 NDC 29300-421-05 bottles of 500
+
+NDC 29300-421-10 bottles of 1000
 
 75 mg: Yellow colored, round shaped, film-coated tablets, debossed with "422" on one side and "U" on the other side, and supplied as:
 

@@ -37,6 +37,6 @@ Slovis T, Ott J, Teitelbaum D, et al: Physostigmine therapy in acute tricyclic a
 Symposium on depression with special studies of a new antidepressant, amitriptyline.
 Dis Nerv Syst,(Sect 2) May 1961, pp 5-56.
 
-01-R-08/2020
+02-R-09/2021
 
-13012585
+13013554
