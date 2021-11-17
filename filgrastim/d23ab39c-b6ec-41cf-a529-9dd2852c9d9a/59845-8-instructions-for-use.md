@@ -161,9 +161,13 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Hospira, Inc., a Pfizer Company Lake Forest, IL 60045 USA US License No. 1974
 
-LAB-0938-2.0 For more information go to www.pfizer.com or call 1-800-438-1985.
+Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10017 USA
 
-Issued: October 2021
+LAB-0938-3.0
+
+For more information go to www.pfizer.com or call 1-800-438-1985.
+
+Revised: November 2021
 
 Instructions for Use NIVESTYM (Neye-ves-tim) (filgrastim-aafi) injection Single-Dose Vial
 
@@ -312,6 +316,8 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Hospira, Inc., a Pfizer Company Lake Forest, IL 60045 USA US License No. 1974
 
-LAB-0937-2.0 For more information go to www.pfizer.com or call 1-800-438-1985.
+Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10017 USA
 
-Issued: October 2021
+LAB-0937-3.0 For more information go to www.pfizer.com or call 1-800-438-1985.
+
+Revised: November 2021

@@ -76,7 +76,7 @@ Adverse events with ≥ 2% higher incidence in filgrastim patients compared to p
 
 Adverse Reactions in Patients with Cancer Undergoing Bone Marrow Transplantation
 
-The following adverse reaction data are from one randomized, no treatment-controlled study in patients with acute lymphoblastic leukemia or lymphoblastic lymphoma receiving high-dose chemotherapy (cyclophosphamide or cytarabine, and melphalan) and total body irradiation (Study 5) and one randomized, no treatment controlled study in patients with Hodgkin's disease (HD) and NHL undergoing high-dose chemotherapy and autologous bone marrow transplantation (Study 6).
+The following adverse reaction data are from one randomized, no treatment-controlled study in patients with acute lymphoblastic leukemia or lymphoblastic lymphoma receiving high-dose chemotherapy (cyclophosphamide or cytarabine, and melphalan) and total body irradiation (Study 5) and one randomized, no treatment-controlled study in patients with Hodgkin's disease (HD) and NHL undergoing high-dose chemotherapy and autologous bone marrow transplantation (Study 6).
 Patients receiving autologous bone marrow transplantation only were included in the analysis.
 A total of 100 patients received either 30 mcg/kg/day as a 4 hour infusion (Study 5) or 10 mcg/kg/day or 30 mcg/kg/day as a 24 hour infusion (Study 6) filgrastim (n = 72), no treatment control or placebo (n = 28).
 The median age was 30 (range 15 to 57) years, 57% were male.
