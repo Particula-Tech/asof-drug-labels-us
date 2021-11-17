@@ -312,7 +312,11 @@ In vitro studies indicate that netupitant and its three major metabolites are un
 In vitro studies indicated that fosnetupitant is an inhibitor of OATP1B1 and OATP1B3 transporters.
 However, an in vivo interaction between AKYNZEO for injection and OATP1B1, OATP1B3, and P-gp substrates is considered unlikely.
 
+In vitro studies indicated that fosnetupitant is not an inhibitor of MATE2-K transporter.
+
 Effects of Other Drugs on Netupitant/Fosnetupitant and/or Palonosetron
+
+Based on in vitro studies, fosnetupitant is not a substrate of BCRP, BSEP, MDR1 and MATE1, MATE2-K, OAT1, OAT3, OATP2B1, OCT1 and OCT2.
 
 Netupitant is not a substrate for P-gp.
 However, metabolite M2 is a substrate for P-gp.
