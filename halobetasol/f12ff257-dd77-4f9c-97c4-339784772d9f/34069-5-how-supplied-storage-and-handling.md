@@ -8,7 +8,7 @@ Halobetasol Propionate Ointment, 0.05% is supplied in the following tube sizes:
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
-Manufactured for: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-GW7321 Iss.
-08/2019 8-0339CPLNC1
+VC7554 Rev.
+05/2021 8-0339CPLNC2
