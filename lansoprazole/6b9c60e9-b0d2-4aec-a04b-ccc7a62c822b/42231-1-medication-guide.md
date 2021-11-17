@@ -153,11 +153,13 @@ The imprinting ink contains shellac, propylene glycol, strong ammonia solution, 
 
 Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Made in India All other trademark names are the property of their respective owners.
+Made in India
+
+All other trademark names are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2020
+Revised: 11/2021
 
 INSTRUCTIONS FOR USE
 
@@ -222,6 +224,6 @@ Bridgewater, NJ 08807.
 
 Made in India
 
-Revised: 12/2020
+Revised: November 2021
 
 All other trademark names are the property of their respective owners.
