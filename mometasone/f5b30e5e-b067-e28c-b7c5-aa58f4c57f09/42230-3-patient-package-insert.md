@@ -33,7 +33,7 @@ These are not all the possible side effects of mometasone furoate, USP ointment 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store mometasone furoate, USP ointment 0.1%? • Store mometasone furoate, USP ointment 0.1% at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature]. • Keep mometasone furoate, USP ointment 0.1% and all medicines out of the reach of children.
+How should I store mometasone furoate, USP ointment 0.1%? • Store mometasone furoate, USP ointment 0.1% at 25 °C (77 °F); excursions permitted to 15-30 °C (59-86 °F) [see USP Controlled Room Temperature]. • Keep mometasone furoate, USP ointment 0.1% and all medicines out of the reach of children.
 
 General information about the safe and effective use of mometasone furoate, USP ointment 0.1%.
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
@@ -43,7 +43,7 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about mometasone furoate, USP ointment 0.1% that is written for health professionals.
 
 What are the ingredients in mometasone furoate, USP ointment 0.1%?
-Active ingredient: mometasone furoate Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate, purified water, white wax, and white petrolatum Manufactured for: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Active ingredient: mometasone furoate Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate, purified water, white wax, and white petrolatum Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0635CPLNC1 Iss.
-08/2019 GW 7308 This Patient Information has been approved by the U.S. Food and Drug Administration.
+8-0635CPLNC2 Rev.
+08/2021 VC7576 This Patient Information has been approved by the U.S. Food and Drug Administration.

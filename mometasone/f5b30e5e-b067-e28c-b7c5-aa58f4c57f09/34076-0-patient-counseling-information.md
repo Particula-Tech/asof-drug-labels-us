@@ -6,5 +6,9 @@ It is for external use only. • Avoid contact with the eyes. • Advise patient
 Do not apply mometasone furoate, USP ointment 0.1% in the diaper area, as diapers or plastic pants may constitute occlusive dressing. • Discontinue therapy when control is achieved.
 If no improvement is seen within 2 weeks, contact the physician. • Do not use other corticosteroid-containing products with mometasone furoate, USP ointment 0.1% without first consulting with the physician.
 
-Manufactured for: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080 8-0635CPLNC1 Iss.
-08/2019 GW 7308
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
+
+8-0635CPLNC2 Rev.
+08/2021
+
+VC7576
