@@ -2,13 +2,11 @@
 
 2 g Single-dose Vial NDC 0409-0187-01
 
-Sterile
+Sterile Rx only
 
 Gemcitabine for Injection, USP
 
-2 g
-
-Rx only
+2 g/vial
 
 (lyophilized) For Intravenous Use Only Caution: Cytotoxic Agent
 
@@ -20,16 +18,18 @@ Hospira
 
 1 x 2 g Vial NDC 0409-0187-01
 
-Sterile
+Sterile Rx only
 
 Gemcitabine for Injection, USP
 
-2 g
+2 g/vial
 
 (lyophilized)
 
-Rx only
+For Intravenous Use Only
 
-For Intravenous Use Only DO NOT REFRIGERATE Single-dose Vial
+DO NOT REFRIGERATE
+
+Single-dose Vial
 
 Caution: Cytotoxic Agent
