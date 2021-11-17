@@ -2,31 +2,31 @@
 
 Psychiatric Disorders
 
-Isotretinoin may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide and aggressive and/or violent behaviors.
+Isotretinoinmay cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
 No mechanism of action has been established for these events (see ADVERSE REACTIONS, Psychiatric).
 Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
 Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
-Therefore, prior to initiation of isotretinoin therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
-Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses and persistent physical symptoms unresponsive to treatment.
-Patients should stop isotretinoin and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
-Discontinuation of isotretinoin therapy may be insufficient; further evaluation may be necessary.
+Therefore, prior to initiation of isotretinointherapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
+Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
+Patients should stop isotretinoinand the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
+Discontinuation of isotretinointherapy may be insufficient; further evaluation may be necessary.
 While such monitoring may be helpful, it may not detect all patients at risk.
 Patients may report mental health problems or family history of psychiatric disorders.
 These reports should be discussed with the patient and/or the patient’s family.
 A referral to a mental health professional may be necessary.
-The physician should consider whether isotretinoin therapy is appropriate in this setting; for some patients the risks may outweigh the benefits of isotretinoin therapy.
+The physician should consider whether isotretinointherapy is appropriate in this setting; for some patients the risks may outweigh the benefits of isotretinoin therapy.
 
 Pseudotumor Cerebri
 
-Isotretinoin use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
+Isotretinoinuse has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
 Concomitant treatment with tetracyclines should therefore be avoided.
-Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting and visual disturbances.
-Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue isotretinoin immediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS, Neurological).
+Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
+Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue isotretinoinimmediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS, Neurological).
 
 Serious Skin Reactions
 
 There have been postmarketing reports of erythema multiforme and severe skin reactions [e.g., Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
-These events may be serious and result in death, life-threatening events, hospitalization or disability.
+These events may be serious and result in death, life-threatening events, hospitalization, or disability.
 Patients should be monitored closely for severe skin reactions, and discontinuation of isotretinoin should be considered if warranted.
 
 Pancreatitis
@@ -37,10 +37,12 @@ Isotretinoin should be stopped if hypertriglyceridemia cannot be controlled at a
 
 ## Lipids
 
+Lipids
+
 Elevations of serum triglycerides in excess of 800 mg/dL have been reported in patients treated with isotretinoin.
 Marked elevations of serum triglycerides were reported in approximately 25% of patients receiving isotretinoin in clinical trials.
 In addition, approximately 15% developed a decrease in high-density lipoproteins and about 7% showed an increase in cholesterol levels.
-In clinical trials, the effects on triglycerides, HDL and cholesterol were reversible upon cessation of isotretinoin therapy.
+In clinical trials, the effects on triglycerides, HDL, and cholesterol were reversible upon cessation of isotretinoin therapy.
 Some patients have been able to reverse triglyceride elevation by reduction in weight, restriction of dietary fat and alcohol, and reduction in dose while continuing isotretinoin.5
 
 Blood lipid determinations should be performed before isotretinoin is given and then at intervals until the lipid response to isotretinoin is established, which usually occurs within 4 weeks.
@@ -48,17 +50,14 @@ Especially careful consideration must be given to risk/benefit for patients who 
 If isotretinoin therapy is instituted, more frequent checks of serum values for lipids and/or blood sugar are recommended (see PRECAUTIONS, Laboratory Tests).
 
 The cardiovascular consequences of hypertriglyceridemia associated with isotretinoin are unknown.
-
-Animal Studies
-
-In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
+Animal Studies: In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries, and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
 Focal endocardial and myocardial calcifications associated with calcification of the coronary arteries were observed in two dogs after approximately 6 to 7 months of treatment with isotretinoin at a dosage of 60 to 120 mg/kg/day (30 to 60 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
 
 Hearing Impairment
 
 Impaired hearing has been reported in patients taking isotretinoin; in some cases, the hearing impairment has been reported to persist after therapy has been discontinued.
 Mechanism(s) and causality for this event have not been established.
-Patients who experience tinnitus or hearing impairment should discontinue isotretinoin treatment and be referred for specialized care for further evaluation (see ADVERSE REACTIONS, Special Senses).
+Patients who experience tinnitus or hearing impairment should discontinue isotretinointreatment and be referred for specialized care for further evaluation (see ADVERSE REACTIONS, Special Senses).
 
 ## Hepatotoxicity
 
@@ -77,23 +76,25 @@ Skeletal
 Bone Mineral Density
 
 Effects of multiple courses of isotretinoin on the developing musculoskeletal system are unknown.
-There is some evidence that long-term, high dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
+There is some evidence that long-term, high-dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
 In an open-label clinical trial (N = 217) of a single course of therapy with isotretinoin for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change > -4% and total hip change > -5%) or were increased in the majority of patients.
 One patient had a decrease in lumbar spine bone mineral density >4% based on unadjusted data.
 Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density > 4%, and all the other patients (92%) did not have significant decreases or had increases (adjusted for body mass index).
 Nine patients (4.5%) had a decrease in total hip bone mineral density > 5% based on unadjusted data.
-Twenty one (10.6%) patients had decreases in total hip bone mineral density > 5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
+Twenty-one (10.6%) patients had decreases in total hip bone mineral density > 5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
 Follow-up studies performed in eight of the patients with decreased bone mineral density for up to 11 months thereafter demonstrated increasing bone density in five patients at the lumbar spine, while the other three patients had lumbar spine bone density measurements below baseline values.
 Total hip bone mineral densities remained below baseline (range –1.6% to –7.6%) in five of eight patients (62.5%).
 
 In a separate open-label extension study of ten patients, ages 13 to 18 years, who started a second course of isotretinoin 4 months after the first course, two patients showed a decrease in mean lumbar spine bone mineral density up to 3.25% (see PRECAUTIONS, Pediatric Use).
 
-Spontaneous reports of osteoporosis, osteopenia, bone fractures and delayed healing of bone fractures have been seen in the isotretinoin population.
+Spontaneous reports of osteoporosis, osteopenia, bone fractures, and delayed healing of bone fractures have been seen in the isotretinoin population.
 While causality to isotretinoin has not been established, an effect cannot be ruled out.
 Longer term effects have not been studied.
 It is important that isotretinoin be given at the recommended doses for no longer than the recommended duration.
 
-Hyperostosis A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day.
+Hyperostosis
+
+A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day.
 Additionally, skeletal hyperostosis was noted in six of eight patients in a prospective study of disorders of keratinization.6 Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective studies of nodular acne patients treated with a single course of therapy at recommended doses.
 The skeletal effects of multiple isotretinoin treatment courses for acne are unknown.
 
@@ -127,12 +128,12 @@ Isotretinoin must only be prescribed by prescribers who are registered and activ
 Isotretinoin must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
 Registered and activated pharmacies must receive isotretinoin only from wholesalers registered with iPLEDGE.
 
-iPLEDGE Program requirements for wholesalers, prescribers and pharmacists are described below:
+iPLEDGE Program requirements for wholesalers, prescribers, and pharmacists are described below:
 
-Wholesalers
+Wholesalers:
 
-For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor and/or chain pharmacy distributor.
-To distribute isotretinoin, wholesalers must be registered with iPLEDGE and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
+For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
+To distribute isotretinoin, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
 Wholesalers must register with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
 These include:
 
@@ -143,7 +144,7 @@ These include:
 - Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
 - Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
 
-Prescribers
+Prescribers:
 
 To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
 Prescribers can register by signing and returning the completed registration form.
@@ -152,22 +153,19 @@ Prescribers can only activate their registration by affirming that they meet req
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer the patient to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program and Prescriber Contraception Counseling Guide.
-- Before beginning treatment of patients who can become pregnant with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence from any sexual contact with a partner which could result in pregnancy.
+- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program.
+- Before beginning treatment of patients who can become pregnant with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence, not having any sexual contact with a partner that could result in pregnancy.
 - I will not prescribe isotretinoin to any patient who can become pregnant until verifying the patient has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
 - I will report any pregnancy case that I become aware of while the patient who can become pregnant is on isotretinoin or one month after the last dose to the pregnancy registry.
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
-1.
-Register each patient in the iPLEDGE Program.
+1) Register each patient in the iPLEDGE Program.
 
-2.
-Confirm monthly that each patient has received counseling and education.
+2) Confirm monthly that each patient has received counseling and education.
 
-3.
-For patients who can become pregnant:
+3) For patients who can become pregnant:
 
 - Enter patient’s two chosen forms of contraception each month.
 - Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
@@ -177,22 +175,22 @@ Isotretinoin must only be prescribed to patients who are known not to be pregnan
 Isotretinoin must only be dispensed by a pharmacy registered and activated with the pregnancy risk management program iPLEDGE and only when the registered patient meets all the requirements of the iPLEDGE Program.
 Meeting the requirements for a patient who can become pregnant signifies that the patient:
 
-- Has been counseled and has signed a Patient Information/Informed Consent About Birth Defects (for patients who can become pregnant) form that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
+- Has been counseled and has signed a Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
   The patient must sign the informed consent form before starting treatment and patient counseling must also be done at that time and on a monthly basis thereafter.
 - Has had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial isotretinoin prescription.
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for isotretinoin.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
-  The interval between the two tests should be at least 19 days.- For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.
+  The interval between the two tests should be at least 19 days.- For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.- For patients with amenorrhea, irregular cycles, or using a contraceptive form that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
-- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary method, unless the patient commits to continuous abstinence from any sexual contact with a partner which could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
+- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
   Patients must use two forms of effective contraception for at least one month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for one month after discontinuing isotretinoin therapy.
   Counseling about contraception and behaviors associated with an increased risk of pregnancy must be repeated on a monthly basis.
 
 If the patient has unprotected sexual contact with a partner that could result in pregnancy at any time one month before, during, or one month after therapy, the patient must:
 
 1. Stop taking isotretinoin immediately, if on therapy
-2. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner which could result in pregnancy
+2. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
 3. Start using two forms of effective contraception simultaneously again for one month before resuming isotretinoin therapy
 4. Have a second pregnancy test after using two forms of effective contraception for one month as described above depending on whether the patient has regular menses or not.
 
@@ -215,30 +213,17 @@ Barrier:
 
 Other:
 
-- vaginal sponge (contains spermicide)
-
-Any birth control method can fail.
-There have been reports of pregnancy from patients who can become pregnant who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking isotretinoin.
-These reports are more frequent for patients who use only a single form of contraception.
-Therefore, it is critically important that patients who can become pregnant use two effective forms of contraception simultaneously.
-Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
-
-Using two forms of contraception simultaneously substantially reduces the chances that a patient will become pregnant over the risk of pregnancy with either form alone.
-A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for isotretinoin (see PRECAUTIONS, Drug Interactions).
-Although hormonal contraceptives are highly effective, prescribers are advised to consult the package insert of any medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
-
-Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
-Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.
-
-If a pregnancy does occur during isotretinoin treatment, isotretinoin must be discontinued immediately.
-The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
-
-All Patients
-
-Isotretinoin is contraindicated in patients who are pregnant.
-To receive isotretinoin all patients must meet all of the following conditions:
-
+- vaginal sponge (contains spermicide)Any birth control method can fail.
+  There have been reports of pregnancy from patients who can become pregnant who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking isotretinoin.
+  These reports are more frequent for patients who use only a single form of contraception.
+  Therefore, it is critically important that patients who can become pregnant use two effective forms of contraception simultaneously.
+  Patients must receive warnings about the rates of possible contraception failure, importance of choosing one primary form and a secondary form of contraception and that the patient must be compliant in use as outlined in the Birth Control Information Sheet.Using two forms of contraception simultaneously substantially reduces the chances that a patient will become pregnant over the risk of pregnancy with either form alone.
+  A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for isotretinoin (see PRECAUTIONS, Drug Interactions).
+  Although hormonal contraceptives are highly effective, prescribers are advised to consult the package insert of any medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
+  Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.If a pregnancy does occur during isotretinoin treatment, isotretinoin must be discontinued immediately.
+  The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+  Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).All PatientsIsotretinoin is contraindicated in patients who are pregnant.
+  To receive isotretinoin all patients must meet all of the following conditions:
 - Must be registered with the iPLEDGE Program by the prescriber
 - Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - Must be reliable in understanding and carrying out instructions
@@ -256,13 +241,13 @@ In addition to the requirements for all patients described above, patients who c
 - Must NOT be pregnant or breast-feeding
 - Must comply with the required pregnancy testing at a CLIA-certified laboratory
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test
-- Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence from any sexual contact with a partner which could result in pregnancy, and understand behaviors associated with an increased risk of pregnancy
-- Must understand that it is the patient who can become pregnant’s responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
-- Must have signed an additional Patient Information/Informed Consent About Birth Defects (for patients who can become pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
-- Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
+- Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, and understand behaviors associated with an increased risk of pregnancy
+- Must understand that it is the patient who can become pregnant responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
+- Must have signed an additional Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
+- Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
 - Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should the patient become pregnant while taking isotretinoin or within one month of the last dose
 
-Pharmacists
+Pharmacists:
 
 To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
 
@@ -281,13 +266,13 @@ After registration, the Responsible Site Pharmacist can only activate the pharma
 To dispense isotretinoin, the pharmacist must:
 
 1. be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
-2. obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com), telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) for every isotretinoin prescription.
+2. obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) for every isotretinoin prescription.
    Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
 3. write the Risk Management Authorization (RMA) number on the prescription.
 
 Isotretinoin capsules must only be dispensed:
 
-- in no more than a 30 day supply
+- in no more than a 30-day supply
 - with an Isotretinoin Capsules Medication Guide
 - after authorization from the iPLEDGE Program
 - prior to the “do not dispense to patient after” date provided by the iPLEDGE system (within 30 days of the office visit for patients who cannot become pregnant and within 7 days of the date of specimen collection for patients who can become pregnant)
@@ -297,23 +282,22 @@ An isotretinoin capsules Medication Guide must be given to the patient each time
 This isotretinoin capsules Medication Guide is an important part of the risk management program for the patients.
 
 Isotretinoin capsules must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
-Only FDA-approved isotretinoin products must be distributed, prescribed, dispensed and used.
+Only FDA-approved isotretinoin products must be distributed, prescribed, dispensed, and used.
 Patients must obtain isotretinoin prescriptions only at US licensed pharmacies.
 
 A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
 
-1. Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing and the method to complete a qualified isotretinoin prescription.
-2. Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive forms, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
-3. Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
-4. The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
+1. Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
+2. Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
+3. The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
    The iPLEDGE Program includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
-5. Patients who cannot become pregnant, and patients who can become pregnant, are provided with separate booklets.
-   Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in two languages.
-6. The booklet for patients who cannot become pregnant, Guide to Isotretinoin for Patients Who Cannot Become Pregnant, also includes information about patient reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin
-7. The booklet for patients who can become pregnant, Guide to Isotretinoin for Patients Who Can Become Pregnant, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for patients who can become pregnant) form concerning birth defects
-8. The booklet, Birth Control Workbook includes information on the types of contraceptive forms, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
-9. In addition to the booklets, patient educational materials also include the iPLEDGE Program Birth Control Information Sheet and the following — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
+4. The Fact Sheet for the iPLEDGE Program includes information on the iPLEDGE Program, the product indications and safety information.
+   It also includes a Program Checklist for patients who can become pregnant and patients who cannot become pregnant.
+   The Patient Information/Informed Consent form (for all patients) is also provided to all patients.
+5. Patients who can become pregnant are provided with a Guide to Isotretinoin for Patients Who Can Get Pregnant, which contains information on isotretinoin therapy including precautions and warnings, and a second Patient Information/Informed Consent About Birth Defects (for patients who can become pregnant) form concerning birth defects, and a toll-free line which provides isotretinoin information in two languages.
+6. The booklet for patients who can become pregnant, Contraception Counseling Guide, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form concerning birth defects.
+7. The iPLEDGE Program Birth Control Information Sheet outlines the effectiveness of the approved contraception options (see Information for Patients).
 
 ## General
 
@@ -332,16 +316,14 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
   The complete text of the Medication Guide is reprinted at the end of this document.
   For additional information, patients must also be instructed to read the iPLEDGE Program patient educational materials.
   All patients must sign the Patient Information/Informed Consent (for all patients) form.
-- Patients who can become pregnant must be instructed that they must not be pregnant when isotretinoin capsules therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting isotretinoin capsules, while taking isotretinoin capsules, and for one month after isotretinoin capsules have been stopped, unless they commit to continuous abstinence from any sexual contact with a partner which could result in pregnancy.
-  They should also sign a second Patient Information/Informed Consent About Birth Defects (for patients who can become pregnant) form prior to beginning isotretinoin capsules therapy.
-  They should be given an opportunity to view the patient video and/or videos provided by the manufacturer to the prescriber.
-  The video and/or videos include information about contraception, the most common reasons that contraception fails, and the importance of using two forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a patient who is pregnant takes isotretinoin capsules at any time during pregnancy.
+- Patients who can become pregnant must be instructed that they must not be pregnant when isotretinoin capsules therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting isotretinoin capsules, while taking isotretinoin capsules, and for one month after isotretinoin capsules have been stopped, unless they commit to continuous abstinence not having any sexual contact with a partner that could result in pregnancy.
+  They should also sign a second Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form prior to beginning isotretinoin capsules therapy.
   Patients who can become pregnant should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another isotretinoin capsules prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS and PRECAUTIONS).
 - Isotretinoin is found in the semen of male patients taking isotretinoin capsules, but the amount delivered to a patient who can become pregnant would be about one million times lower than an oral dose of 40 mg.
-  While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete and two had other possible explanations for the defects observed.
+  While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete, and two had other possible explanations for the defects observed.
 - Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
   Therefore, prior to initiation of isotretinoin treatment, patients and family members should be asked about any history of psychiatric disorder, and at each visit during treatment patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
-  Signs and symptoms of depression include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses and persistent physical symptoms unresponsive to treatment.
+  Signs and symptoms of depression include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
   Patients should stop isotretinoin and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
   Discontinuation of isotretinoin treatment may be insufficient; further evaluation may be necessary.
   While such monitoring may be helpful, it may not detect all patients at risk.
@@ -392,14 +374,13 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 
 - Vitamin A: Because of the relationship of isotretinoin to vitamin A, patients should be advised against taking vitamin supplements containing vitamin A to avoid additive toxic effects.
 - Tetracyclines: Concomitant treatment with isotretinoin and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
-- Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) may be an inadequate method of contraception during isotretinoin therapy.
-  Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from patients who can become pregnant who have used combined oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products.
+- Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) may be an inadequate method of contraception during isotretinoin therapy.Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from patients who can become pregnant who have used combined oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products.
   These reports are more frequent for patients who can become pregnant who use only a single form of contraception.
   It is not known if hormonal contraceptives differ in their effectiveness when used with isotretinoin.
   Therefore, it is critically important for patients who can become pregnant to select and commit to use two forms of effective contraception simultaneously, at least one of which must be a primary form (see PRECAUTIONS).
 - Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving Ortho-Novum® 7/7/7 Tablets as an oral contraceptive agent, isotretinoin at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
-- St. John’s Wort:Isotretinoin use is associated with depression in some patients (see WARNINGS, Psychiatric Disorders and ADVERSE REACTIONS, Psychiatric).
+- St. John’s Wort: Isotretinoin use is associated with depression in some patients (see WARNINGS, Psychiatric Disorders and ADVERSE REACTIONS, Psychiatric).
   Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John’s Wort.
   Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John’s Wort.
 - Phenytoin: Isotretinoin has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
@@ -420,9 +401,9 @@ The first test (a screening test) is obtained by the prescriber when the decisio
 The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
 The interval between the two tests must be at least 19 days.
 
-- For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for 1 month.
+- For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month.
 
-- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for 1 month.
+- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month.
 
 - Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
 A pregnancy test must be repeated each month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
@@ -459,7 +440,7 @@ The relatively high level of spontaneous pheochromocytomas occurring in the male
 
 The Ames test was conducted with isotretinoin in two laboratories.
 The results of the tests in one laboratory were negative while in the second laboratory a weakly positive response (less than 1.6 x background) was noted in S. typhimurium TA100 when the assay was conducted with metabolic activation.
-No dose-response effect was seen and all other strains were negative.
+No dose response effect was seen and all other strains were negative.
 Additionally, other tests designed to assess genotoxicity (Chinese hamster cell assay, mouse micronucleus test, S. cerevisiae D7 assay, in vitro clastogenesis assay with human-derived lymphocytes, and unscheduled DNA synthesis assay) were all negative.
 
 In rats, no adverse effects on gonadal function, fertility, conception rate, gestation or parturition were observed at oral dosages of isotretinoin of 2, 8, or 32 mg/kg/day (0.3, 1.3, or 5.3 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
@@ -470,8 +451,6 @@ In studies of 66 men, 30 of whom were patients with nodular acne under treatment
 In a study of 50 men (ages 17 to 32 years) receiving isotretinoin therapy for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.
 
 ## Pregnancy
-
-Teratogenic Effects
 
 Category X
 

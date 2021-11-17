@@ -4,12 +4,12 @@ Clinical Trials and Postmarketing Surveillance
 
 The adverse reactions listed below reflect the experience from investigational studies of isotretinoin, and the postmarketing experience.
 The relationship of some of these events to isotretinoin therapy is unknown.
-Many of the side effects and adverse reactions seen in patients receiving isotretinoin are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage and eyes).
+Many of the side effects and adverse reactions seen in patients receiving isotretinoin are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
 
 Dose Relationship
 
 Cheilitis and hypertriglyceridemia are usually dose related.
-Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGS and ADVERSE REACTIONS).
+Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGSandADVERSE REACTIONS).
 
 Body as a Whole
 
@@ -34,7 +34,7 @@ See PRECAUTIONS, Laboratory Tests for other hematological parameters.
 
 Musculoskeletal
 
-Skeletal hyperostosis, calcification of tendons and ligaments, premature epiphyseal closure, decreases in bone mineral density (see WARNINGS, Skeletal), musculoskeletal symptoms (sometimes severe) including back pain, myalgia and arthralgia (see PRECAUTIONS, Information for Patients), transient pain in the chest (see PRECAUTIONS, Information for Patients), arthritis, tendonitis, other types of bone abnormalities, elevations of CPK/rare reports of rhabdomyolysis (see PRECAUTIONS, Laboratory Tests).
+Skeletal hyperostosis, calcification of tendons and ligaments, premature epiphyseal closure, decreases in bone mineral density (see WARNINGS, Skeletal), musculoskeletal symptoms (sometimes severe) including back pain, myalgia, and arthralgia (see PRECAUTIONS, Information for Patients), transient pain in the chest (see PRECAUTIONS, Information for Patients), arthritis, tendonitis, other types of bone abnormalities, elevations of CPK/rare reports of rhabdomyolysis (see PRECAUTIONS, Laboratory Tests).
 
 Neurological
 
@@ -55,9 +55,9 @@ Bronchospasms (with or without a history of asthma), respiratory infection, voic
 
 Skin and Appendages
 
-Acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS, Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS, Information for Patients).
+Acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS, Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS, Information for Patients).
 
-Special Senses: Hearing: hearing impairment (see WARNINGS, Hearing Impairment), tinnitus.
+Special Senses:Hearing: hearing impairment (see WARNINGS, Hearing Impairment), tinnitus.
 
 Vision: corneal opacities (see WARNINGS, Corneal Opacities), decreased night vision which may persist (see WARNINGS, Decreased Night Vision), cataracts, color vision disorder, conjunctivitis, dry eyes, eyelid inflammation, keratitis, optic neuritis, photophobia, visual disturbances.
 
@@ -71,6 +71,6 @@ Increased alkaline phosphatase, SGOT (AST), SGPT (ALT), GGTP or LDH (see WARNING
 
 Elevation of fasting blood sugar, elevations of CPK (see PRECAUTIONS, Laboratory Tests), hyperuricemia.
 
-Decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis; (see PRECAUTIONS, Information for Patients), elevated sedimentation rates, elevated platelet counts, thrombocytopenia.
+Decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis; (seePRECAUTIONS, Information for Patients), elevated sedimentation rates, elevated platelet counts, thrombocytopenia.
 
 White cells in the urine, proteinuria, microscopic or gross hematuria.

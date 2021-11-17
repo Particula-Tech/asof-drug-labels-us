@@ -12,9 +12,9 @@ The decrease in sebum secretion is temporary and is related to the dose and dura
 
 Absorption
 
-Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high fat meal.
+Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
 In a crossover study, 74 healthy adult subjects received a single 80 mg oral dose (2 x 40 mg capsules) of isotretinoin under fasted and fed conditions.
-Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high fat meal when compared with isotretinoin given under fasted conditions (see Table 2).
+Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high-fat meal when compared with isotretinoin given under fasted conditions (see Table 2).
 The observed elimination half-life was unchanged.
 This lack of change in half-life suggests that food increases the bioavailability of isotretinoin without altering its disposition.
 The time to peak concentration (Tmax) was also increased with food and may be related to a longer absorption phase.
@@ -24,12 +24,12 @@ Clinical studies have shown that there is no difference in the pharmacokinetics 
 Table 2.
 Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N = 74
 
-| Isotretinoin 2 x 40 mg Capsules | AUCo-∞(ng•hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
+| Isotretinoin 2 x 40 mg Capsules | AUC0-∞(ng•hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
 | --- | --- | --- | --- | --- |
 | Fed* | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
 
-* Eating a standardized high fat meal
+* Eating a standardized high-fat meal
 
 Distribution
 
@@ -48,7 +48,7 @@ All of these metabolites possess retinoid activity that is in some in vitro mode
 However, the clinical significance of these models is unknown.
 After multiple oral dose administration of isotretinoin to adult cystic acne patients (≥18 years), the exposure of patients to 4-oxo-isotretinoin at steady-state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
 
-In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4 and 2B6.
+In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
 Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
 
 Elimination
@@ -73,8 +73,8 @@ Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Ad
 | Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady-State) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 573.25 (278.79) | 731.98 (361.86) |
-| AUC(0 to 12) (ng·hr/mL) | 3033.37 (1394.17) | 5082 (2184.23) |
-| AUC(0 to 24) (ng·hr/mL) | 6003.81 (2885.67) | -- |
+| AUC(0-12) (ng·hr/mL) | 3033.37 (1394.17) | 5082 (2184.23) |
+| AUC(0-24) (ng·hr/mL) | 6003.81 (2885.67) | -- |
 | Tmax (hr)† | 6 (1 to 24.6) | 4 (0 to 12) |
 | Cssmin (ng/mL) | -- | 352.32 (184.44) |
 | T½ (hr) | -- | 15.69 (5.12) |
@@ -82,7 +82,7 @@ Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Ad
 
 *The single and multiple dose data in this table were obtained following a non-standardized meal that is not
 
-comparable to the high fat meal that was used in the study in Table 2.
+comparable to the high-fat meal that was used in the study in Table 2.
 
 †Median (range)
 

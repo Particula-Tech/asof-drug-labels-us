@@ -17,7 +17,7 @@ After a period of 2 months or more off therapy, and if warranted by persistent o
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.
 Long-term use of isotretinoin capsules, even in low doses, has not been studied, and is not recommended.
 It is important that isotretinoin capsules be given at the recommended doses for no longer than the recommended duration.
-The effect of long-term use of isotretinoin capsules on bone loss is unknown (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis and Premature Epiphyseal Closure).
+The effect of long-term use of isotretinoin capsules on bone loss is unknown (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis, and Premature Epiphyseal Closure).
 
 Contraceptive measures must be followed for any subsequent course of therapy (see PRECAUTIONS).
 
@@ -37,5 +37,5 @@ Isotretinoin Capsules Dosing by Body Weight (Based on Administration With Food)
 
 * See DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day.
 
-| INFORMATION FOR PHARMACISTSAccess the iPLEDGE Program system via the internet (www.ipledgeprogram.com), telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) to obtain an authorization and the “do not dispense to patient after” date. Isotretinoin capsules must only be dispensed in no more than a 30 day supply. REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. An Isotretinoin Capsules Medication Guide must be given to the patient each time isotretinoin capsules are dispensed, as required by law. This Isotretinoin Capsules Medication Guide is an important part of the risk management program for the patient. |
+| INFORMATION FOR PHARMACISTSAccess the iPLEDGE Program system via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date. Isotretinoin capsules must only be dispensed in no more than a 30-day supply.REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.An Isotretinoin Capsules Medication Guide must be given to the patient each time isotretinoin capsules are dispensed, as required by law. This Isotretinoin Capsules Medication Guide is an important part of the risk management program for the patient. |
 | --- |
