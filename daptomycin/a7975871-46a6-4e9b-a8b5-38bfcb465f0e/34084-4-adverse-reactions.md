@@ -2,13 +2,13 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-- Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
-- Tubulointerstitial nephritis [see Warnings and Precautions (5.5)]
-- Peripheral neuropathy [see Warnings and Precautions (5.6)]
-- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+- Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
+- Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
+- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -249,7 +249,7 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia,
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] or toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 
