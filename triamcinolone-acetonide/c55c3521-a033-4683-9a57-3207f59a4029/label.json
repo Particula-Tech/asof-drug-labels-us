@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211950"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Clearside Biomedical, Inc.",
+  "package_ndcs": [
+    "71565-040-01",
+    "71565-040-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "Xipere"
+    }
+  ],
+  "setid": "c55c3521-a033-4683-9a57-3207f59a4029",
+  "source": "dailymed"
+}
