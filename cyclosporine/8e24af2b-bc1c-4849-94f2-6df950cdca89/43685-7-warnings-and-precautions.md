@@ -4,7 +4,7 @@
 
 Be careful not to touch the vial tip to your eye or other surfaces to avoid potential for eye injury and contamination.
 
-## 5.2 Use with Contact Lenses
+## 5.2Use with Contact Lenses
 
 RESTASIS® should not be administered while wearing contact lenses.
 Patients with decreased tear production typically should not wear contact lenses.

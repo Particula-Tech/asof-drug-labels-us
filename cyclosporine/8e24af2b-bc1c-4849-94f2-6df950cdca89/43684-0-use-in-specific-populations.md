@@ -20,7 +20,7 @@ An oral dose of 45 mg/kg/day cyclosporine administered to rats from Day 15 of pr
 This dose is 7,000 times greater than the daily recommended human dose.
 No adverse effects in dams or offspring were observed at oral doses up to 15 mg/kg/day (2,000 times greater than the daily recommended human dose).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
