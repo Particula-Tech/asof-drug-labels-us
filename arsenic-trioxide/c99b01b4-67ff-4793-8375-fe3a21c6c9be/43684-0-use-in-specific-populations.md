@@ -5,14 +5,14 @@
 Risk Summary
 
 Based on the mechanism of action [see Clinical Pharmacology (12.1)] and findings in animal studies, arsenic trioxide injection can cause fetal harm when administered to a pregnant woman.
-Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m2 basis (see Data).
-A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m2 basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m2 basis.
+Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m basis (see Data).
+A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m2 basis.
 There are no studies with the use of arsenic trioxide injection in pregnant women, and limited published data on arsenic trioxide use during pregnancy are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -27,7 +27,7 @@ Animal Data
 
 Studies in pregnant mice, rats, hamsters, and primates have shown that inorganic arsenicals cross the placental barrier when given orally or by injection.
 An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m2 basis).
-Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite (approximately 5 times the projected human dose on a mg/m2 basis), on gestation days 6, 7, 8 or 9.
+Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite (approximately 5 times the projected human dose on a mg/m2 basis), on gestation days 6, 7, 8, or 9.
 Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to the projected human daily dose on a mg/m2 basis) on gestation day 7 (the lowest dose tested) resulted in neural-tube defects in hamsters.
 
 ## 8.2 Lactation
@@ -35,25 +35,26 @@ Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to th
 Risk Summary
 
 Arsenic trioxide is excreted in human milk.
-There is no information on the effects of arsenic trioxide on the breastfed child or on milk production.
-Because of the potential for serious adverse reactions in a breastfed child from arsenic trioxide injection, discontinue breastfeeding during treatment with arsenic trioxide injection and for two weeks after the final dose.
+There are no data on the effects of arsenic trioxide on the breastfed child or on milk production.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with arsenic trioxide injection and for 2 weeks after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Arsenic trioxide injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Arsenic trioxide injection can cause fetal harm when administered to a pregnant woman.
-Conduct pregnancy testing in females of reproductive potential prior to initiation of treatment with arsenic trioxide injection [see Use in Specific Populations (8.1)].
+Conduct pregnancy testing in females of reproductive potential prior to initiation of arsenic trioxide injection.
 
 Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during and after treatment with arsenic trioxide injection and for six months after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with arsenic trioxide injection and for 6 months after the final dose.
 
 Males
 
-Advise males with female sexual partners of reproductive potential to use effective contraception during and after treatment with arsenic trioxide injection and for three months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with arsenic trioxide injection and for 3 months after the final dose.
 
 Infertility
 
@@ -70,19 +71,18 @@ No differences in efficacy and safety were observed by age.
 
 ## 8.5 Geriatric Use
 
-The safety and efficacy of arsenic trioxide injection as a single agent in older patients with relapsed or refractory APL is supported by the pivotal phase 2 study in 40 patients with relapsed or refractory APL.
-Six patients age 65 and above (age range: 65 to 73 years) were treated with arsenic trioxide injection at the recommended dose.
-A literature review included an additional 4 patients treated with arsenic trioxide for relapsed or refractory APL with ages ranging from 69 to 72 years.
-No differences in efficacy and safety were observed by age.
+Use of arsenic trioxide injection as monotherapy in patients with relapsed or refractory APL is supported by the open-label, single-arm trial that included 6 patients aged 65 and older (range: 65 to 73 years).
+A literature review included an additional 4 patients aged 69 to 72 years who were treated with arsenic trioxide for relapsed or refractory APL.
+No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 Exposure of arsenic trioxide may be higher in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
-Patients with severe renal impairment (creatinine clearance less than 30 mL/min) should be monitored for toxicity when these patients are treated with arsenic trioxide injection, and a dose reduction may be warranted.
+Monitor patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min) frequently for toxicity; a dose reduction may be warranted.
 
 The use of arsenic trioxide injection in patients on dialysis has not been studied.
 
-## 8.7 Patients with Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Since limited data are available across all hepatic impairment groups, caution is advised in the use of arsenic trioxide injection in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-Monitor patients with severe hepatic impairment (Child-Pugh Class C) who are treated with arsenic trioxide injection for toxicity.
+Monitor patients with severe hepatic impairment (Child-Pugh Class C) frequently for toxicity.
