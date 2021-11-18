@@ -14,7 +14,7 @@ NDC 0071-0157-23 bottles of 90 NDC 0071-0157-40 10 × 10 unit dose blisters
 
 80 mg tablets (80 mg of atorvastatin): coded "PD 158" on one side and "80" on the other.
 
-NDC 0071-0158-23 bottles of 90 NDC 0071-0158-73 bottles of 500 NDC 0071-0158-92 8 × 8 unit dose blisters
+NDC 0071-0158-23 bottles of 90 NDC 0071-0158-92 8 × 8 unit dose blisters
 
 Storage
 
