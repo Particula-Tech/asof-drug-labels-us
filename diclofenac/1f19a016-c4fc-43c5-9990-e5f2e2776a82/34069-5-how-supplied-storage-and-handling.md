@@ -5,7 +5,7 @@
 - The product is intended for topical use only.
 - Keep out of reach of children and pets.
 - Envelopes should be sealed at all times when not in use.
-- Curad® Hold Tite™ is a trademark of Medline Industries, Inc., and Surgilast® Tubular Elastic Dressing is a trademark of Derma Sciences, Inc.
+- Curad ® Hold Tite™ is a trademark of Medline Industries, Inc., and Surgilast ® Tubular Elastic Dressing is a trademark of Derma Sciences, Inc.
 
 ## Storage
 

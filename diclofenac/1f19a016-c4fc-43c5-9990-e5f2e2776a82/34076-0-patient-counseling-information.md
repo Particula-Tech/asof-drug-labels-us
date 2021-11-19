@@ -58,7 +58,7 @@ Special Application Instructions
 - Instruct patients that, if FLECTOR begins to peel-off, the edges of the topical system may be taped down.
   If problems with adhesion persist, patients may overlay the topical system with a mesh netting sleeve, where appropriate (e.g. to secure topical system applied to ankles, knees, or elbows).
   The mesh netting sleeve (e.g.
-  Curad® Hold Tite™, Surgilast® Tubular Elastic Dressing) must allow air to pass through and not be occlusive (non-breathable).
+  Curad ® Hold Tite™, Surgilast ® Tubular Elastic Dressing) must allow air to pass through and not be occlusive (non-breathable).
   Instruct patients not to apply FLECTOR to non-intact or damaged skin resulting from any etiology e.g. exudative dermatitis, eczema, infected lesion, burns or wounds.
 - Instruct patients not to wear a FLECTOR when bathing or showering.
 - Instruct patients to wash hands after applying, handling or removing FLECTOR.

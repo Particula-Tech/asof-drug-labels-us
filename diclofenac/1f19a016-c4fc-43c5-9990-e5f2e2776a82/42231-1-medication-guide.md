@@ -5,31 +5,31 @@ What is the most important information I should know about medicines called Nons
 NSAIDs can cause serious side effects, including:
 
 - Increased risk of a heart attack or stroke that can lead to death.
-  This risk may happen early in treatment and may increase:Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
+  This risk may happen early in treatment and may increase: Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
   Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
   You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
-  - ▫with increasing doses of NSAIDs
-  - ▫with longer use of NSAIDs
+  - with increasing doses of NSAIDs
+  - with longer use of NSAIDs
 - Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:The risk of getting an ulcer or bleeding increases with:
-  - ▫anytime during use
-  - ▫without warning symptoms
-  - ▫that may cause death
-  - ▫past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-  - ▫taking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs"
-  - ▫increasing doses of NSAIDs
-  - ▫longer use of NSAIDs
-  - ▫smoking
-  - ▫drinking alcohol
-  - ▫older age
-  - ▫poor health
-  - ▫advanced liver disease
-  - ▫bleeding problems
+  - anytime during use
+  - without warning symptoms
+  - that may cause death
+  - past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+  - taking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs"
+  - increasing doses of NSAIDs
+  - longer use of NSAIDs
+  - smoking
+  - drinking alcohol
+  - older age
+  - poor health
+  - advanced liver disease
+  - bleeding problems
 
 NSAIDs should only be used:
 
-- ▫exactly as prescribed
-- ▫at the lowest dose possible for your treatment
-- ▫for the shortest time needed
+- exactly as prescribed
+- at the lowest dose possible for your treatment
+- for the shortest time needed
 
 What are NSAIDs?
 
@@ -59,7 +59,7 @@ Do not start taking any new medicine without talking to your healthcare provider
 What are the possible side effects of NSAIDs?
 NSAIDs can cause serious side effects, including:
 
-See "What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
+See " What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 
 - new or worse high blood pressure
 - heart failure
