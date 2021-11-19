@@ -12,8 +12,6 @@ Rx only
 
 100 Tablets
 
-TEVA
-
 # Package/Label Display Panel
 
 NDC 0555-0953-02
@@ -27,5 +25,3 @@ PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
 Rx only
 
 100 Tablets
-
-TEVA
