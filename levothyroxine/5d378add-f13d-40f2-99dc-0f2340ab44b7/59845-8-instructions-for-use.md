@@ -1,4 +1,4 @@
-Instructions for Use TIROSINT®-SOL (tee-row-sent-sōl) (levothyroxine sodium) oral solution
+Instructions for Use TIROSINT ®-SOL (tee-row-sent-sōl) (levothyroxine sodium) oral solution
 
 Read this Instructions for Use before you start taking TIROSINT-SOL and each time you get a refill.
 There may be new information.

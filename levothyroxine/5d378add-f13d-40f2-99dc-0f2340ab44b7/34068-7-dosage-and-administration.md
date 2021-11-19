@@ -59,7 +59,7 @@ Monitor for clinical and laboratory response [see Dosage and Administration (2.4
 
 Table 1: TIROSINT-SOL Dosing Guidelines for Pediatric Hypothyroidism
 
-| AGE | Daily Dose Per Kg Body WeightThe dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |
+| AGE | Daily Dose Per Kg Body Weight The dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |
 | --- | --- |
 | 0-3 months | 10-15 mcg/kg/day |
 | 3-6 months | 8-10 mcg/kg/day |

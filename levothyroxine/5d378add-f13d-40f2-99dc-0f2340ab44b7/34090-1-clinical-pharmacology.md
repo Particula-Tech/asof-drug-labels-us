@@ -54,7 +54,7 @@ Urinary excretion of T4 decreases with age.
 
 Table 6: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%)Includes TBG, TBPA and TBA. |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%) Includes TBG, TBPA and TBA. |
 | --- | --- | --- | --- | --- |
-| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 73 – 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism. | 99.96 |
+| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 7 3 – 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism. | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |

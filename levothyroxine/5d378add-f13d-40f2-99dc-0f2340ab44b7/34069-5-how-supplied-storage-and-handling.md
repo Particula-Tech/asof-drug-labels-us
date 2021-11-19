@@ -8,7 +8,7 @@ Each ampule bears a colored label with the dosage strength and the product name 
 
 Table 7: TIROSINT-SOL Packaging Description
 
-| Strength (mcg/mL) | ColorShown on box, pouch and ampule. | Box NDC (30 Unit-Dose Ampules) | Pouch NDC (5 Unit-Dose Ampules) |
+| Strength (mcg/mL) | Color Shown on box, pouch and ampule. | Box NDC (30 Unit-Dose Ampules) | Pouch NDC (5 Unit-Dose Ampules) |
 | --- | --- | --- | --- |
 | 13 | Green | 71858-0105-5 | 71858-0105-4 |
 | 25 | Orange | 71858-0110-5 | 71858-0110-4 |
