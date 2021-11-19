@@ -7,7 +7,7 @@ They are supplied as follows:
 
 Table 7: TIROSINT Packaging Description - Boxes of 30 capsules, consisting of 3 blisters with 10 capsules each
 
-| Strength (mcg) | ColorShown on box and blister packing, not on individual capsules. | Imprint Code | NDC |
+| Strength (mcg) | Color Shown on box and blister packing, not on individual capsules. | Imprint Code | NDC |
 | --- | --- | --- | --- |
 | 13 | Green | A | 71858-0005-4 |
 | 25 | Orange | E | 71858-0010-4 |

@@ -16,7 +16,7 @@ Oral levothyroxine sodium is a synthetic T4 hormone that exerts the same physiol
 
 Absorption
 
-Absorption of orally administered T4 from the gastrointestinal (GI) tract ranges from 40% to 80%.
+Absorption of orally administered T 4 from the gastrointestinal (GI) tract ranges from 40% to 80%.
 The majority of the levothyroxine dose is absorbed from the jejunum and upper ileum.
 T4 absorption is increased by fasting, and decreased in malabsorption syndromes and by certain foods such as soybeans.
 Dietary fiber decreases the bioavailability of T4.
@@ -54,7 +54,7 @@ Urinary excretion of T4 decreases with age.
 
 Table 6: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%)Includes TBG, TBPA and TBA. |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%) Includes TBG, TBPA and TBA. |
 | --- | --- | --- | --- | --- |
-| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 73 – 4 days in hyperthyroidism, 9 – 10 days in hypothyroidism. | 99.96 |
+| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 7 3 – 4 days in hyperthyroidism, 9 – 10 days in hypothyroidism. | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |

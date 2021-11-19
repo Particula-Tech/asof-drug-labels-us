@@ -24,7 +24,7 @@ Dose Adjustments During Pregnancy and the Postpartum Period
 
 Pregnancy may increase TIROSINT requirements.
 Serum TSH level should be monitored and the TIROSINT dosage adjusted during pregnancy.
-Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre-pregnancy dose immediately after delivery[see Dosage and Administration (2.3)].
+Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre-pregnancy dose immediately after delivery [see Dosage and Administration (2.3)].
 
 Data
 
