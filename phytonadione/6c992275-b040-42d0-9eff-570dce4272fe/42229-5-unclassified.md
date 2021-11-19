@@ -1,8 +1,10 @@
+# SPL UNCLASSIFIED
+
 Manufactured by:
 
 Cadila Healthcare Limited
 
-Matoda, Ahmedabad, India.
+Ahmedabad, India
 
 Distributed by:
 
@@ -10,4 +12,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 05/20
+Rev.: 10/21

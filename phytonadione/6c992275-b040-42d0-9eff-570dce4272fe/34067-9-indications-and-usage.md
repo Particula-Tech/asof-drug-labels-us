@@ -1,10 +1,8 @@
-# INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
-Phytonadione tablets, USP are indicated in the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity.
+Phytonadione is indicated for the treatment of adults with the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity.
 
-Phytonadione tablets, USP are indicated in:
-
-- anticoagulant-induced prothrombin deficiency caused by coumarin or indanedione derivatives;
+- anticoagulant-induced hypoprothrombinemia caused by coumarin or indanedione derivatives;
 - hypoprothrombinemia secondary to antibacterial therapy;
-- hypoprothrombinemia secondary to administration of salicylates;
-- hypoprothrombinemia secondary to obstructive jaundice or biliary fistulas but only if bile salts are administered concurrently, since otherwise the oral vitamin K will not be absorbed.
+- hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancrease, and regional enteritis;
+- Other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates.
