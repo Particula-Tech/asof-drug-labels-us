@@ -20,4 +20,4 @@ Dispense with Medication Guide is also available at: http://www.granulesindia.co
 Manufactured by: Granules Pharmaceuticals Inc. Chantilly, VA 20151
 
 Rev.
-03/2021
+11/2021
