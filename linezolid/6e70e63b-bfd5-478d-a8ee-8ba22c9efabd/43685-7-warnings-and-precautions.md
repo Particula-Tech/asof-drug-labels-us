@@ -77,7 +77,14 @@ While a causal relationship between linezolid and hypoglycemia has not been esta
 
 If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic agent, or discontinuation of oral hypoglycemic agent, insulin, or linezolid may be required.
 
-## 5.10 Risks in Patients with Phenylketonuria
+## 5.10 Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+
+Postmarketing cases of hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) have been observed in patients treated with linezolid.
+In reported cases, the signs and symptoms included confusion, somnolence, generalized weakness, and in severe cases led to respiratory failure and even death.
+Monitor serum sodium levels regularly in the elderly, in patients taking diuretics, and in other patients at risk of hyponatremia and/or SIADH while taking ZYVOX.
+If signs and symptoms of hyponatremia and/or SIADH occur, discontinue ZYVOX, and institute appropriate supportive measures.
+
+## 5.11 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 ZYVOX for Oral Suspension contains phenylalanine, a component of aspartame.
@@ -86,6 +93,6 @@ Before prescribing ZYVOX for Oral Suspension to a patient with PKU, consider the
 
 The other ZYVOX formulations do not contain phenylalanine.
 
-## 5.11 Development of Drug-Resistant Bacteria
+## 5.12 Development of Drug-Resistant Bacteria
 
 Prescribing ZYVOX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
