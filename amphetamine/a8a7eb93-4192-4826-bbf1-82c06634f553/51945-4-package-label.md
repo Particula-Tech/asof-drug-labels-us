@@ -9,3 +9,67 @@ Dyanavel® XR CII (amphetamine) extended-release oral suspension
 Shake Well Before Use
 
 464 mL Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 27808-106-01
+
+Dyanavel®XR CII
+
+(amphetamine) extended-release Tablets
+
+5 mg
+
+May be chewed or swallowed whole.
+
+30 Tablets
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 27808-108-01
+
+Dyanavel®XR CII
+
+(amphetamine) extended-release Tablets
+
+10 mg
+
+May be chewed or swallowed whole.
+
+30 Tablets
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 27808-109-01
+
+Dyanavel®XR CII
+
+(amphetamine) extended-release Tablets
+
+15 mg
+
+May be chewed or swallowed whole.
+
+30 Tablets
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 27808-110-01
+
+Dyanavel® XR CII
+
+(amphetamine) extended-release Tablets
+
+20 mg
+
+May be chewed or swallowed whole.
+
+30 Tablets
+
+Rx only

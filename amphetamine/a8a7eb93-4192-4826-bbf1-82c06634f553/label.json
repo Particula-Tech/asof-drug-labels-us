@@ -1,13 +1,23 @@
 {
   "application_numbers": [
-    "NDA208147"
+    "NDA208147",
+    "NDA210526"
   ],
   "inn": "amphetamine",
   "labeler": "Tris Pharma Inc",
   "package_ndcs": [
-    "27808-102-01"
+    "27808-102-01",
+    "27808-106-01",
+    "27808-108-01",
+    "27808-109-01",
+    "27808-110-01"
   ],
   "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "amphetamine",
+      "name": "DYANAVEL XR"
+    },
     {
       "form": "SUSPENSION, EXTENDED RELEASE",
       "generic": "amphetamine",

@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Consult with a Certified Poison Control Center (1-800-222-1222) for up-to-date guidance and advice for treatment of overdosage.
 Individual patient response to amphetamines varies widely.
