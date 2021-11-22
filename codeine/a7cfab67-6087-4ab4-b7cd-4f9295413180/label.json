@@ -5,7 +5,8 @@
   "inn": "codeine",
   "labeler": "Mainpointe Pharmaceuticals",
   "package_ndcs": [
-    "71269-040-10"
+    "71269-040-10",
+    "71269-040-30"
   ],
   "products": [
     {
