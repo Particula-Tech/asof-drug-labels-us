@@ -8,11 +8,9 @@ Diclofenac Sodium Delayed-Release Tablets, USP
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Actavis
+Rx only
 
 60 Enteric-Coated Tablets
-
-Rx Only
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -24,8 +22,6 @@ Diclofenac Sodium Delayed-Release Tablets, USP
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Actavis
+Rx only
 
 60 Enteric-Coated Tablets
-
-Rx Only

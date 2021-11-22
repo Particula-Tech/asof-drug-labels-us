@@ -9,6 +9,6 @@ For the relief of osteoarthritis, the recommended dosage is 100 mg/day to 150 mg
 
 For the relief of rheumatoid arthritis, the recommended dosage is 150 mg/day to 200 mg/day in divided doses (50 mg three times a day. or four times a day, or 75 mg twice a day).
 
-For the relief of ankylosing spondylitis, the recommended dosage is 100 mg/day to 125 mg/day, administered as 25 mg four times a day, with an extra 25 mg dose at bedtime if necessary.
+For the relief of ankylosing spondylitis, the recommended dosage is 100 mg/day to 125 mg/day, administered as 25 mg four times a day, with an extra 25-mg dose at bedtime if necessary.
 
-Different formulations of diclofenac (diclofenac sodium delayed-release tablets; diclofenac sodium extended-release tablets, USP; diclofenac potassium immediate-release tablets) are not necessarily bioequivalent even if the milligram strength is the same.
+Different formulations of diclofenac (diclofenac sodium delayed-release tablets, USP; diclofenac sodium extended-release tablets, USP; diclofenac potassium immediate-release tablets) are not necessarily bioequivalent even if the milligram strength is the same.

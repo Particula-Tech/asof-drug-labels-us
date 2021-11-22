@@ -18,9 +18,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In patients taking diclofenac sodium delayed-release tablets, or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
-Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
+Gastrointestinal experiences, including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), and vomiting.
 
-Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
+Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 
 Additional adverse experiences reported occasionally include:
 
@@ -42,7 +42,7 @@ Skin and Appendages: alopecia, photosensitivity, sweating increased
 
 Special Senses: blurred vision
 
-Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuriarenal failure
+Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure
 
 Other adverse reactions, which occur rarely are:
 
@@ -64,4 +64,4 @@ Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme
 
 Special Senses: conjunctivitis, hearing impairment
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-432-8534 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.

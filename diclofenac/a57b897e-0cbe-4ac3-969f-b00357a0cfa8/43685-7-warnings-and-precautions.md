@@ -2,7 +2,7 @@
 
 ## Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI), and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to 3 years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI), and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
@@ -23,7 +23,7 @@ NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
 
 Post-MI Patients
 
-Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all- cause mortality beginning in the first week of treatment.
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
@@ -32,7 +32,7 @@ If diclofenac sodium delayed-release is used in patients with a recent MI, monit
 
 ## Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events, including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
@@ -41,11 +41,11 @@ However, even short-term therapy is not without risk.
 Risk Factors for GI Bleeding, Ulceration, and Perforation
 
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who use NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
-Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy, concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs);, smoking, use of alcohol, older age, and poor general health status.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy, concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking, use of alcohol, older age, and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-Strategies to Minimize the GI Risks in NSAID-treated Patients
+Strategies to Minimize the GI Risks in NSAID-treated patients
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time
@@ -57,7 +57,7 @@ Strategies to Minimize the GI Risks in NSAID-treated Patients
 
 ## Hepatotoxicity
 
-In clinical trials of diclofenac- containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the upper limit of normal [ULN]) of aspartate aminotransferase (AST) (also known as SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (alanine aminotransferase [ALT] was not measured in all studies).
 
 In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients.
@@ -96,7 +96,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 ## Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalization for heart failure in COX-2 selective- treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately 2-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -116,7 +116,7 @@ Patients at greatest risk of this reaction are those with impaired renal functio
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of diclofenac sodium delayed-release in patients with advanced renal disease.
-The renal effects of diclofenac sodium delayed-release may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
+The renal effects of diclofenac sodium delayed-release may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating diclofenac sodium delayed-release.
 Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of diclofenac sodium delayed-release (see PRECAUTIONS; Drug Interactions).
@@ -134,20 +134,20 @@ Diclofenac has been associated with anaphylactic reactions in patients with and 
 
 ## Exacerbation of Asthma Related to Aspirin Sensitivity
 
-A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+A subpopulation of patients with asthma may have aspirin-sensitive asthma, which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, diclofenac sodium delayed-release is contraindicated in patients with this form of aspirin sensitivity (see CONTRAINDICATIONS).
 When diclofenac sodium delayed-release is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## Serious Skin Reactions
 
-NSAIDs, including diclofenac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including diclofenac, can cause serious skin adverse reactions, such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of diclofenac sodium delayed-release at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac sodium delayed-release is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac sodium delayed-release tablets.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs, such as diclofenac sodium delayed-release tablets.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
 Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
@@ -159,20 +159,20 @@ If such signs or symptoms are present, discontinue diclofenac sodium delayed-rel
 
 ## Fetal Toxicity
 
-Premature Closure of Fetal Ductus Arteriosus:
+Premature Closure of Fetal Ductus Arteriosus
 
-Avoid use of NSAIDs, including diclofenac sodium delayed-release tablets, in pregnant women at about 30 weeks of gestation and later.
-NSAIDs including diclofenac sodium delayed-release tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+Avoid use of NSAIDs, including diclofenac sodium delayed-release tablets, in pregnant women at about 30-weeks’ gestation and later.
+NSAIDs, including diclofenac sodium delayed-release tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
-Oligohydramnios/Neonatal Renal Impairment:
+Oligohydramnios/Neonatal Renal Impairment
 
-Use of NSAIDs, including diclofenac sodium delayed-release tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Use of NSAIDs, including diclofenac sodium delayed-release tablets, at about 20-weeks’ gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
 Oligohydramnios is often, but not always, reversible with treatment discontinuation.
 Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
-In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures, such as exchange transfusion or dialysis were required.
 
-If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit diclofenac sodium delayed-release tablets use to the lowest effective dose and shortest duration possible.
+If NSAID treatment is necessary between about 20 weeks and 30-weeks’ gestation, limit diclofenac sodium delayed-release tablets use to the lowest effective dose and shortest duration possible.
 Consider ultrasound monitoring of amniotic fluid if diclofenac sodium delayed-release tablets treatment extends beyond 48 hours.
 Discontinue diclofenac sodium delayed-release tablets if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS; Pregnancy).
 
@@ -183,7 +183,7 @@ This may be due to occult or gross blood loss, fluid retention, or an incomplete
 If a patient treated with diclofenac sodium delayed-release, has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including diclofenac sodium delayed-release, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Co-morbid conditions, such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding (see PRECAUTIONS; Drug Interactions).
 
 # PRECAUTIONS
@@ -217,16 +217,16 @@ If these occur, instruct patients to stop diclofenac sodium delayed-release and 
 
 Heart Failure and Edema
 
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
+Advise patients to be alert for the symptoms of congestive heart failure, including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
 
 Anaphylactic Reactions
 
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur (see WARNINGS; Anaphylactic Reactions).
 
-Serious Skin Reactions, including DRESS
+Serious Skin Reactions, Including DRESS
 
-Advise patients to stop taking diclofenac sodium delayed-release tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
+Advise patients to stop diclofenac sodium delayed-release tablets immediately if they develop any type of rash or fever and contact their healthcare provider as soon as possible (see WARNINGS; Serious Skin Reactions).
 
 Female Fertility
 
@@ -234,7 +234,7 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of diclofenac sodium delayed-release tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+Inform pregnant women to avoid use of diclofenac sodium delayed-release tablets and other NSAIDs, starting at 30 weeks gestation because of the risk of the premature closure of the fetal ductus arteriosus.
 If treatment with diclofenac sodium delayed-release tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
 Avoid Concomitant Use of NSAIDs
@@ -258,21 +258,22 @@ Because serious GI bleeding, hepatotoxicity, and renal injury can occur without 
 
 See Table 2 for clinically significant drug interactions with diclofenac.
 
-Table 2: Clinically Significant Drug Interactions with Diclofenac
+Table 2.
+Clinically Significant Drug Interactions with Diclofenac
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
-| Clinical Impact: | Diclofenac and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Clinical Impact: | Diclofenac and anticoagulants, such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
 | Intervention: | Monitor patients with concomitant use of diclofenac sodium delayed-release with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding (see PRECAUTIONS; Hematological Toxicity). |
 | Aspirin |  |
 | Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation). |
 | Intervention: | Concomitant use of diclofenac sodium delayed-release and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding (see PRECAUTIONS; Hematological Toxicity).Diclofenac sodium delayed-release is not a substitute for low dose aspirin for cardiovascular protection. |
 | ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers |  |
-| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
 | Intervention: | During concomitant use of diclofenac sodium delayed-release and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of diclofenac sodium delayed-release and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function (see WARNINGS; Renal Toxicity and Hyperkalemia).When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
 | Diuretics |  |
 | Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
-| Intervention: | During concomitant use of diclofenac sodium delayed-release with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS; Renal Toxicity and Hyperkalemia). |
+| Intervention: | During concomitant use of diclofenac sodium delayed-release with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy, including antihypertensive effects (see WARNINGS; Renal Toxicity and Hyperkalemia). |
 | Digoxin |  |
 | Clinical Impact: | The concomitant use of diclofenac with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
 | Intervention: | During concomitant use of diclofenac sodium delayed-release and digoxin, monitor serum digoxin levels. |
@@ -290,9 +291,9 @@ Table 2: Clinically Significant Drug Interactions with Diclofenac
 | Intervention: | The concomitant use of diclofenac with other NSAIDs or salicylates is not recommended. |
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of diclofenac sodium delayed-release and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
-| Intervention: | During concomitant use of diclofenac sodium delayed-release and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity.NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed.In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
+| Intervention: | During concomitant use of diclofenac sodium delayed-release and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal, and GI toxicity.NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of 2 days before, the day of, and 2 days following administration of pemetrexed.In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following pemetrexed administration. |
 | CYP2C9 Inhibitors or Inducers: |  |
-| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas coadministration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of diclofenac. |
+| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Coadministration of diclofenac with CYP2C9 inhibitors (e.g., voriconazole) may enhance the exposure and toxicity of diclofenac whereas coadministration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of diclofenac. |
 | Intervention: | A dosage adjustment may be warranted when diclofenac is administered with CYP2C9 inhibitors or inducers (see CLINICAL PHARMACOLOGY; Pharmacokinetics). |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -330,12 +331,17 @@ Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
-Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+There are no adequate and well-controlled studies of diclofenac sodium delayed-release in pregnant women.
+
+Data from observational studies regarding potential embryo-fetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+
 In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac sodium delayed-release, 200 mg/day, despite the presence of maternal and fetal toxicity at these doses (see Data).
-Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac sodium, resulted in increased pre- and post-implantation loss.
+
+Based on published animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors, such as diclofenac, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -348,7 +354,7 @@ Premature Closure of Fetal Ductus Arteriosus:
 
 Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including diclofenac sodium delayed-release tablets, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity).
 
-Oligohydramnios/Neonatal Renal Impairment
+Oligohydramnios/Neonatal Renal Impairment:
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If diclofenac sodium delayed-release tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
@@ -364,7 +370,7 @@ Published literature reports that the use of NSAIDs at about 30 weeks of gestati
 
 Oligohydramnios/Neonatal Renal Impairment:
 
-Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+Published studies and post-marketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
 In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
 There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
@@ -381,7 +387,7 @@ In a study in which pregnant rats were orally administered 2 or 4 mg/kg diclofen
 These maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
 Diclofenac has been shown to cross the placental barrier in mice, rats, and humans.
 
-## Labor and Delivery
+## Labor or Delivery
 
 There are no studies on the effects of diclofenac sodium delayed-release during labor or delivery.
 In animal studies, NSAIDS, including diclofenac, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
