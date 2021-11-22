@@ -21,9 +21,7 @@ Serious adverse reactions associated with hydromorphone hydrochloride tablets in
 The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
 
-Less Frequently Observed Adverse Reactions
-
-Cardiac disorders: tachycardia, bradycardia, palpitations
+Less Frequently Observed Adverse Reactions Cardiac disorders: tachycardia, bradycardia, palpitations
 
 Eye disorders: vision blurred, diplopia, miosis, visual impairment
 

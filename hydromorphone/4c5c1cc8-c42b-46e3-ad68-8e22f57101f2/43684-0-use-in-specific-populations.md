@@ -14,11 +14,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
-Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
-
-Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
@@ -29,9 +27,7 @@ Opioid analgesics, including hydromorphone hydrochloride tablets, can prolong la
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
-
-Animal Data Pregnant rats were treated with hydromorphone hydrochloride from Gestation Day 6 to 17 via oral gavage doses of 1, 5, or 10 mg/kg/day (0.4, 2, or 4 times the HDD of 24 mg based on body surface area, respectively).
+Data Animal Data Pregnant rats were treated with hydromorphone hydrochloride from Gestation Day 6 to 17 via oral gavage doses of 1, 5, or 10 mg/kg/day (0.4, 2, or 4 times the HDD of 24 mg based on body surface area, respectively).
 Maternal toxicity was noted in all treatment groups (reduced food consumption and body weights in the two highest dose groups).
 There was no evidence of malformations or embryotoxicity reported.
 
@@ -53,10 +49,10 @@ Maternal toxicity (decreased food consumption and body weight gain) was also not
 ## 8.2 Lactation
 
 Risk Summary Low levels of opioid analgesics have been detected in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for hydromorphone hydrochloride tablets and any potential adverse effects on the breastfed infant from hydromorphone hydrochloride tablets or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for hydromorphone hydrochloride tablets and any potential adverse effects on the breastfed infant from hydromorphone hydrochloride tablets or from the underlying maternal condition.
 
 Clinical Considerations Monitor infants exposed to hydromorphone hydrochloride tablets through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
