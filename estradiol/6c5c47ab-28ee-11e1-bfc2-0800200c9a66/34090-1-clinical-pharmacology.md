@@ -18,12 +18,10 @@ Estrogens act to reduce the elevated concentrations of these hormones seen in po
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for MINIVELLE.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to MINIVELLE nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
-
-Systemic estrogen exposures across different estrogen products should not be compared.
-These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
 
 Absorption
 
@@ -50,7 +48,6 @@ Figure 1: Mean Baseline-Uncorrected Estradiol Serum Concentration-Time Profiles 
 
 Distribution
 
-No specific investigation of the tissue distribution of estradiol absorbed from Minivelle in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
@@ -73,9 +70,9 @@ After removal of the transdermal systems, serum concentrations of estradiol and 
 Adhesion and Adhesive Residue
 
 Based on combined data from bioequivalence and dose proportionality studies consisting of 208 MINIVELLE observations, approximately 98 percent of the observations had an adhesion score of 0 (i.e., the skin adhesion rate was greater than or equal to 90 percent) over the 84-hour wear period.
-One subject had a complete detachment during the wear period.
+One woman had a complete detachment during the wear period.
 Approximately 65 percent of the transdermal systems evaluated in these studies were with MINIVELLE 0.1 mg per day (6.6 cm 2 active surface area).
 
 After removal of MINIVELLE, subjects had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
-There were no subjects who had medium adhesive residue.
+No woman had medium adhesive residue.
 Of the 208 MINIVELLE observations, 54 percent had light adhesive residue and 46 percent had no adhesive residue.

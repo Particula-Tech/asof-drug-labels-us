@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed elsewhere in labeling:
 
 - Cardiovascular Disorders [see Boxed Warning, Warning and Precaution, (5.1)]
-- Endometrial Cancer [see Boxed Warning, Warnings and Precautions (5.2)]
+- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 

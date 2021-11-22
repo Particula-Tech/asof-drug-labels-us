@@ -4,21 +4,21 @@ MINIVELLE (MIN-ee-vell)
 
 (estradiol transdermal system)
 
-Read this patient information before you start using MINIVELLE and each time you get a refill.
+Read this Patient Information before you start using MINIVELLE and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about MINIVELLE (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using MINIVELLE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the causeDo not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or olderDo not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementiaUsing estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or olderYou and your healthcare provider should talk regularly about whether you still need treatment with MINIVELLE |
+| What is the most important information I should know about MINIVELLE (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using MINIVELLE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the causeDo not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or olderDo not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementiaUsing estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or olderOnly one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of MINIVELLE will affect your chances of developing these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with MINIVELLE. |
 | --- |
 
 What is MINIVELLE?
 
-MINIVELLE is a prescription medicine patch (Transdermal System) that contains estradiol (an estrogen hormone).
-When applied to the skin as directed below, Minivelle releases estrogen through the skin into the bloodstream.
+MINIVELLE is a prescription medicine patch (transdermal system) that contains the estrogen hormone estradiol.
+When applied to the skin, estradiol is absorbed through the skin into the bloodstream.
 
 What is MINIVELLE ® used for?
 
-THE MINIVELLE patch is used after menopause to:
+MINIVELLE is used after menopause to:
 
 - Reduce moderate to severe hot flashes Estrogens are hormones made by a woman’s ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
@@ -28,37 +28,34 @@ THE MINIVELLE patch is used after menopause to:
   When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
   In some women, the symptoms are mild and they will not need treatment with estrogen therapy.
   In other women, symptoms can be more severe.
-  You and your healthcare provider should talk regularly about whether or not you still need treatment with MINIVELLE.
 - Help reduce your chances of getting osteoporosis (thin weak bones) Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
-  If you use MINIVELLE only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
+  If you use MINIVELLE only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
   You and your healthcare provider should talk regularly about whether you should continue treatment with MINIVELLE.
 
 Who should not use MINIVELLE?
-
 Do not start using MINIVELLE if you:
 
 - have unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- have been diagnosed with a bleeding disorder
 - currently have or have had certain cancers Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should use MINIVELLE.
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- have been diagnosed with a bleeding disorder
-- are allergic to MINIVELLE or any of its ingredients See the list of ingredients in MINIVELLE at the end of this leaflet.
-- think you may be pregnant MINIVELLE is not for pregnant women.
-  If you think you may be pregnant, you should have a pregnancy test and know the results.
-  Do not take MINIVELLE if the test is positive and talk to your healthcare provider.
+- are allergic to MINIVELLE or the ingredients in it.
+  See the list of ingredients in MINIVELLE at the end of this leaflet.
 
-What should I tell my healthcare provider before I use MINIVELLE?
-
-Before you use MINIVELLE, tell your healthcare provider if you:
+Before you use MINIVELLE, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- have any other medical conditions Your healthcare provider may need to check you more carefully if you have certain conditions such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of the face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- have any other medical conditions that may become worse while you are using MINIVELLE Your healthcare provider may need to check you more carefully if you have certain conditions such as asthma (wheezing), diabetes, epilepsy (seizures), migraine, endometriosis, lupus, angioedema (swelling of the face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - are going to have surgery or will be on bed rest.
   Your healthcare provider will let you know if you need to stop using MINIVELLE.
+- are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop using MINIVELLE
+- are pregnant or think you may be pregnant.
+  MINIVELLE is not for pregnant women.
 - are breast feeding The hormone in MINIVELLE can pass into your breast milk.
 
 Tell your healthcare provider about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.

@@ -14,7 +14,7 @@ Figure 2: Mean (SD) change from baseline in mean daily number of hot flushes for
 
 The 0.0375 mg dose was superior to placebo in reducing both the frequency and severity of vasomotor symptoms at Weeks 4, 8 and 12 of treatment.
 
-## 14.2 Effects on Bone Mineral Density
+## 14.2 Effects on Bone Mineral Density in Postmenopausal Women
 
 There have been no bone efficacy and safety trials conducted with MINIVELLE.
 In a pharmacokinetic study, MINIVELLE was shown to be bioequivalent to Vivelle.
@@ -106,7 +106,7 @@ The absolute excess risk of events included in the “global index” was 19 per
 
 For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
-Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 4.
+Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 4..
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 4: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years a,b
