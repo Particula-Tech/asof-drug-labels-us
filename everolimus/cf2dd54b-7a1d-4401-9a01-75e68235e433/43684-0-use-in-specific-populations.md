@@ -31,7 +31,7 @@ Risk Summary:
 
 There is no data regarding the presence of everolimus in human milk, the effects on breastfed infants, or the effects on milk production.
 Everolimus and/or its metabolites are readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal rat serum.
-In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Pregnancy (8.1) and Nonclinical Toxicology (13.2)].
+In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.2)].
 Advise lactating women not to breastfeed because of the potential for serious adverse reactions in infants exposed to everolimus.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -39,13 +39,13 @@ Advise lactating women not to breastfeed because of the potential for serious ad
 Contraception:
 
 Females should not be pregnant or become pregnant while receiving everolimus.
-Advise females of reproductive potential that animal studies have been performed showing everolimus to be harmful to the mother and developing fetus [see Pregnancy (8.1)].
+Advise females of reproductive potential that animal studies have been performed showing everolimus to be harmful to the mother and developing fetus [see Use in Specific Populations (8.1)].
 Females of reproductive potential are recommended to use highly effective contraception methods while receiving everolimus and up to 8 weeks after treatment has been stopped.
 
 Infertility:
 
 Females: Amenorrhea occurred in female patients taking everolimus [see Adverse Reactions (6.2)].
-Everolimus may cause preimplantation loss in females based on animal data [see Nonclinical Toxicology(13.1)].
+Everolimus may cause pre-implantation loss in females based on animal data [see Nonclinical Toxicology(13.1)].
 
 Female fertility may be compromised by treatment with everolimus.
 

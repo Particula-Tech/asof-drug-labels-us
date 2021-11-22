@@ -18,7 +18,7 @@ As usual for patients with increased risk for skin cancer, exposure to sunlight 
 
 Patients receiving immunosuppressants, including everolimus, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Warnings and Precautions (5.13) and Adverse Reactions (6.1, 6.2)].
 These infections may lead to serious, including fatal, outcomes.
-Because of the danger of over immunosuppression, which can cause increased susceptibility to infection, combination immunosuppressant therapy should be used with caution.
+Because of the danger of over-immunosuppression, which can cause increased susceptibility to infection, combination immunosuppressant therapy should be used with caution.
 
 Antimicrobial prophylaxis for Pneumocystis jiroveci (carinii) pneumonia and prophylaxis for cytomegalovirus (CMV) is recommended in transplant recipients.
 
@@ -60,9 +60,9 @@ Everolimus increases the risk of delayed wound healing and increases the occurre
 These wound-related complications may require more surgical intervention.
 Generalized fluid accumulation, including peripheral edema (e.g., lymphoedema) and other types of localized fluid collection, such as pericardial and pleural effusions and ascites have also been reported.
 
-## 5.10 Interstitial Lung Disease/Non-Infectious Pneumonitis
+## 5.10 Interstitial Lung Disease (ILD)/Non-Infectious Pneumonitis
 
-A diagnosis of interstitial lung disease (ILD) should be considered in patients presenting with symptoms consistent with infectious pneumonia but not responding to antibiotic therapy and in whom infectious, neoplastic and other non-drug causes have been ruled-out through appropriate investigations.
+A diagnosis of interstitial lung disease (ILD) should be considered in patients presenting with symptoms consistent with infectious pneumonia but not responding to antibiotic therapy and in whom infectious, neoplastic and other non-drug causes have been ruled out through appropriate investigations.
 Cases of ILD, implying lung intraparenchymal inflammation (pneumonitis) and/or fibrosis of non-infectious etiology, some reported with pulmonary hypertension (including pulmonary arterial hypertension (PAH)) as a secondary event, have occurred in patients receiving rapamycins and their derivatives, including everolimus.
 Most cases generally resolve on drug interruption with or without glucocorticoid therapy.
 However, fatal cases have also occurred.
@@ -112,7 +112,7 @@ Monitor hematologic parameters [see Adverse Reactions (6.2)].
 Everolimus has been shown to increase the risk of new onset diabetes mellitus after transplant.
 Blood glucose concentrations should be monitored closely in patients using everolimus.
 
-## 5.17 Embryo-fetal Toxicity
+## 5.17 Embryo-Fetal Toxicity
 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], everolimus may cause fetal harm when administered to a pregnant woman.
 In animal studies, everolimus caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.

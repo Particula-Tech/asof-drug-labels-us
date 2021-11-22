@@ -25,9 +25,9 @@ Everolimuscan cause serious side effects, including:
   - ohave fever, nausea, or vomiting
 - •Serious problems with your transplanted kidney (nephrotoxicity).
   You will need to start with a lower dose of cyclosporine when you take it with everolimus.
-  Your Doctor should do regular blood tests to check your levels of both everolimus and cyclosporine.
+  Your doctor should do regular blood tests to check your levels of both everolimus and cyclosporine.
 - •Increased risk of death that can be related to infection, in people who have had a heart transplant.
-  You should not take everolimus if you have had a heart transplant without talking to your doctor.
+  You should not take everolimus without talking to your doctor if you have had a heart transplant.
 
 See the section “What are the possible side effects of everolimus?” for information about other serious side effects.
 
@@ -48,9 +48,7 @@ Do not take everolimus if you are allergic to:
 - •everolimus or any of the ingredients in everolimus tablets.
   See the end of this Medication Guide for a complete list of ingredients in everolimus tablets.
 - •sirolimus (Rapamune®)
-
-Before taking everolimus, tell your doctor about all of your medical conditions, including if you:
-
+- •Before taking everolimus, tell your doctor about all of your medical conditions, including if you:
 - •have liver problems
 - •have skin cancer or it runs in your family
 - •have high cholesterol or triglycerides (fat in your blood)
@@ -65,7 +63,7 @@ Before taking everolimus, tell your doctor about all of your medical conditions,
 - •are breastfeeding or plan to breastfeed.
   It is not known if everolimus passes into your breast milk.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Especially tell your doctor if you take:
 
@@ -83,7 +81,7 @@ Especially tell your doctor if you take:
 
 How should I take everolimus?
 
-- •Take everolimus exactly as your doctor tells you.
+- •Take everolimus exactly as your doctor tells you to.
 - •Do not stop taking everolimus or change your dose unless your doctor tells you to.
 - •Take everolimus at the same time as your dose of cyclosporine medicine.
 - •Do not stop taking or change your dose of cyclosporine or tacrolimus medicine unless your doctor tells you to.
@@ -219,10 +217,12 @@ Rapamune® is a registered trademark of Pfizer Inc.
 
 Gengraf® is a registered trademark of Abbott Laboratories.
 
-Distr. by: Hikma Pharmaceuticals USA Inc.
+Distributed by:
 
-Eatontown, NJ 07724
+Hikma Pharmaceuticals USA Inc.
 
-C50000552/01
+Berkeley Heights, NJ 07922
 
-Revised August 2019
+C50001129/01
+
+Revised May 2021

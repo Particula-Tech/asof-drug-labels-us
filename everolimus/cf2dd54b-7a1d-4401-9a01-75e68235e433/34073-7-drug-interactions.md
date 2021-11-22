@@ -15,7 +15,7 @@ Drug interaction studies have not been conducted with drugs other than those des
 
 ## 7.2 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
 
-The steady-state Cmax and area under the curve (AUC) estimates of everolimus were significantly increased by co-administration of single dose cyclosporine [see Clinical Pharmacology (12.5)].
+The steady-state Cmax and area under the curve (AUC) estimates of everolimus were significantly increased by coadministration of single dose cyclosporine [see Clinical Pharmacology (12.5)].
 Dose adjustment of everolimus might be needed if the cyclosporine dose is altered [see Dosage and Administration (2.3)].
 Everolimus had a clinically minor influence on cyclosporine pharmacokinetics in transplant patients receiving cyclosporine (Neoral).
 
@@ -27,13 +27,13 @@ It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itracona
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
 Multiple-dose erythromycin administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-If erythromycin is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see ClinicalPharmacology (12.5)].
+If erythromycin is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see ClinicalPharmacology (12.5)].
 
 ## 7.5 Verapamil (CYP3A4 and P-gp Substrate)
 
 Multiple-dose verapamil administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax and AUC.
 Everolimus half-life was not changed.
-If verapamil is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
+If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
 
 ## 7.6 Atorvastatin (CYP3A4 Substrate) and Pravastatin (P-gp Substrate)
 
@@ -53,7 +53,7 @@ Combination with rifampin is not recommended [see Warnings and Precautions (5.14
 ## 7.9 Midazolam (CYP3A4/5 Substrate)
 
 Single-dose administration of midazolam to healthy volunteers following administration of multiple-dose everolimus indicated that everolimus is a weak inhibitor of CYP3A4/5.
-Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when everolimus is co-administered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].
+Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when everolimus is coadministered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].
 
 ## 7.10 Other Possible Interactions
 
@@ -62,8 +62,8 @@ Inducers of CYP3A4 may increase the metabolism of everolimus and decrease everol
 
 ## 7.11 Octreotide
 
-Co-administration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
+Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
 
 ## 7.12 Tacrolimus
 
-There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of everolimus is not necessary when everolimus is co-administered with tacrolimus.
+There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of everolimus is not necessary when everolimus is coadministered with tacrolimus.

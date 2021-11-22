@@ -14,7 +14,7 @@ Kidney Graft Thrombosis
 Nephrotoxicity
 
 - •Increased nephrotoxicity can occur with use of standard doses of cyclosporine in combination with everolimus.
-  Therefore reduced doses of cyclosporine should be used in combination with everolimus in order to reduce renal dysfunction.
+  Therefore, reduced doses of cyclosporine should be used in combination with everolimus in order to reduce renal dysfunction.
   It is important to monitor the cyclosporine and everolimus whole blood trough concentrations [see Dosage and Administration (2.4 and 2.5) and Warnings and Precautions (5.6) and Clinical Pharmacology (12.7 and 12.8)]
 
 Mortality in Heart Transplantation

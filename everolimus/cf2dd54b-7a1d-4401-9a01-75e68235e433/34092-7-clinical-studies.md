@@ -7,8 +7,8 @@ The mean cyclosporine starting dose was 5.2, 5.0 and 5.7 mg/kg body weight/day i
 The cyclosporine dose in the everolimus group was then adjusted to the blood trough concentration ranges indicated in Table 5, whereas in the mycophenolic acid group the target ranges were 200 to 300 ng/mL starting Day 5: 200 to 300 ng/mL, and 100 to 250 ng/mL from Month 2 to Month 12.
 
 All patients received basiliximab induction therapy.
-The study population consisted of 18 to 70 year old male and female low to moderate risk renal transplant recipients undergoing their first transplant.
-Low to moderate immunologic risk was defined in the study as an ABO blood type compatible first organ or tissue transplant recipient with anti-HLA Class I PRA less than 20% by a complement dependent cytotoxicity-based assay, or less than 50% by a flow cytometry or ELISA-based assay, and with a negative T-cell cross match.
+The study population consisted of 18 to 70 year old male and female low-to-moderate risk renal transplant recipients undergoing their first transplant.
+Low to moderate immunologic risk was defined in the study as an ABO blood type compatible first organ or tissue transplant recipient with anti-human leukocyte antigen (HLA) Class I panel reactive antibody (PRA) less than 20% by a complement dependent cytotoxicity-based assay, or less than 50% by a flow cytometry or ELISA-based assay, and with a negative T-cell cross match.
 Eight hundred thirty-three (833) patients were randomized after transplantation; 277 randomized to the everolimus 1.5 mg per day group, 279 to the everolimus 3.0 mg per day group and 277 to the mycophenolic acid 1.44 g per day group.
 The study was conducted at 79 renal transplant centers across Europe, South Africa, North and South America, and Asia-Pacific.
 There were no major baseline differences between treatment groups with regard to recipient or donor disease characteristics.
@@ -22,16 +22,23 @@ Efficacy Failure by Treatment Group (ITT Population) at 12 Months after Kidney T
 
 |  | Everolimus 1.5 mg Per Day with Reduced Exposure CsA N=277 n (%) | Mycophenolic Acid 1.44 g Per Day with Standard Exposure CsA N=277 n (%) |
 | --- | --- | --- |
-| Efficacy EndpointsThe difference in rates (everolimus – mycophenolic acid) with 95% CI for primary efficacy failure endpoint is 1.1% (-6.1%, 8.3%); and for the graft loss, death or loss to follow-up endpoint is 2.2% (-2.9%, 7.3%). |  |  |
-| Efficacy Failure EndpointsIncludes treated BPAR, graft loss, death or loss to follow-up by Month 12 where loss to follow-up represents patient who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12 month visit. | 70 (25.3) | 67 (24.2) |
+| Efficacy Endpoints1 |  |  |
+| Efficacy Failure Endpoints2 | 70 (25.3) | 67 (24.2) |
 | Treated Biopsy Proven Acute Rejection | 45 (16.2) | 47 (17.0) |
 | Death | 7 (2.5) | 6 (2.2) |
 | Graft Loss | 12 (4.3) | 9 (3.2) |
 | Loss to Follow-Up | 12 (4.3) | 9 (3.2) |
-| Graft Loss or Death of Loss to Follow-UpLoss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patient who did not experience death or graft loss and whose last contact date is prior to 12 month visit. | 32 (11.6) | 26 (9.4) |
+| Graft Loss or Death of Loss to Follow-Up3 | 32 (11.6) | 26 (9.4) |
 | Graft Loss or Death | 18 (6.5) | 15 (5.4) |
-| Loss to Follow-Up | 14 (5.1) | 11 (4.0) |
-| + Treated biopsy- proven acute rejection (tBPAR) was defined as a histologically confirmed acute rejection with a biopsy graded as IA, IB, IIA, IIB, or III according to 1997 Banff criteria that was treated with anti-rejection medication. |  |  |
+| Loss to Follow-Up3 | 14 (5.1) | 11 (4.0) |
+
+* Treated biopsy- proven acute rejection (tBPAR) was defined as a histologically confirmed acute rejection with a biopsy graded as IA, IB, IIA, IIB, or III according to 1997 Banff criteria that was treated with anti-rejection medication.
+
+1The difference in rates (everolimus – mycophenolic acid) with 95% CI for primary efficacy failure endpoint is 1.1% (-6.1%, 8.3%); and for the graft loss, death or loss to follow-up endpoint is 2.2% (-2.9%, 7.3%).
+
+2Includes treated BPAR, graft loss, death or loss to follow-up by Month 12 where loss to follow-up represents patient who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12 month visit.
+
+3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patient who did not experience death or graft loss and whose last contact date is prior to 12 month visit.
 
 The estimated mean glomerular filtration rate (using the MDRD equation) for everolimus 1.5 mg (target trough concentrations 3 to 8 ng/mL) and mycophenolic acid groups were comparable at Month 12 in the ITT population (Table 8).
 
@@ -53,7 +60,7 @@ Therefore, reduced exposure cyclosporine should be used in combination with ever
 ## 14.2 Prevention of Organ Rejection after Liver Transplantation
 
 A 24-month, multinational, open-label, randomized (1:1:1) trial was conducted in liver transplant patients starting 30 days post-transplant.
-During the first 30 days, after transplant and prior to randomization, patients received tacrolimus and corticosteriods, with or without mycophenolate mofetil.
+During the first 30 days, after transplant and prior to randomization, patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil.
 No induction antibody was administered.
 Approximately 70% to 80% of patients received at least one dose of mycophenolate mofetil at a median total daily dose of 1.5 g during the first 30 days.
 For eligibility, patients had to have a tacrolimus trough concentration of at least 8 ng/mL in the week prior to randomization.
@@ -90,27 +97,27 @@ Efficacy Failure by Treatment Group (ITT Population) at 12 and 24 Months after L
 
 |  | Everolimus with Reduced Exposure Tacrolimus N=245 n (%) | Tacrolimus (Standard Exposure) N=243 n (%) |
 | --- | --- | --- |
-| Efficacy EndpointsThe difference in rates (everolimus – control) at 12 months with 97.5% CI for efficacy failure endpoint based on normal approximation with Yates continuity correction is -4.6% (-11.4%, 2.2%): and for the graft loss, death or loss to follow-up endpoint is -0.1% (-5.4%, 5.3%).at 12 Months |  |  |
-| Composite Efficacy Failure EndpointLoss to follow-up (for treated BPAR, graft loss, death or loss to follow-up) represents patients who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12- or 24-month visit. | 22 (9.0) | 33 (13.6) |
-| Treated Biopsy-Proven Acute Rejection+ | 7 (2.9) | 17 (7.0) |
+| Efficacy Endpoints1at 12 Months |  |  |
+| Composite Efficacy Failure Endpoint1, 2 | 22 (9.0) | 33 (13.6) |
+| Treated Biopsy-Proven Acute Rejection* | 7 (2.9) | 17 (7.0) |
 | Death | 13 (5.3) | 7 (2.9) |
 | Graft Loss | 6 (2.4) | 3 (1.2) |
-| Loss to Follow-Up | 4 (1.6) | 9 (3.7) |
-| Graft Loss or Death or Loss to Follow-UpLoss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patients who did not experience death or graft loss and whose last contact date is prior to 12- or 24-month visit. | 18 (7.3) | 18 (7.4) |
+| Loss to Follow-Up2 | 4 (1.6) | 9 (3.7) |
+| Graft Loss or Death or Loss to Follow-Up3 | 18 (7.3) | 18 (7.4) |
 | Graft Loss or Death | 14 (5.7) | 8 (3.3) |
-| Loss to Follow-Up | 4 (1.6) | 10 (4.1) |
+| Loss to Follow-Up3 | 4 (1.6) | 10 (4.1) |
 | Efficacy Endpoints at 24 Months |  |  |
-| Composite Efficacy Failure Endpoint | 45 (18.4) | 53 (21.8) |
+| Composite Efficacy Failure Endpoint2 | 45 (18.4) | 53 (21.8) |
 | Treated Biopsy Proven Acute Rejection | 11 (4.5) | 18 (7.4) |
 | Death | 17 (6.9) | 11 (4.5) |
 | Graft loss | 9 (3.7) | 7 (2.9) |
-| Loss to follow-up | 18 (7.3) | 23 (9.5) |
-| Graft loss or Death or Loss to follow-up | 38 (15.5) | 39 (16.0) |
+| Loss to follow-up2 | 18 (7.3) | 23 (9.5) |
+| Graft loss or Death or Loss to follow-up3 | 38 (15.5) | 39 (16.0) |
 | Graft loss or Death | 20 (8.2) | 15 (6.2) |
-| Loss to follow-up | 18 (7.3) | 24 (9.9) |
-| + Treated biopsy-proven acute rejection (tBPAR) was defined as histologically confirmed acute rejection with a rejection activity index (RAI) ≥ RAI score 3 that received anti-rejection treatment. |  |  |
+| Loss to follow-up3 | 18 (7.3) | 24 (9.9) |
+| * Treated biopsy-proven acute rejection (tBPAR) was defined as histologically confirmed acute rejection with a rejection activity index (RAI) greater than or equal to RAI score 3 that received anti-rejection treatment. 1The difference in rates (everolimus – control) at 12 months with 97.5% CI for efficacy failure endpoint based on normal approximation with Yates continuity correction is -4.6% (-11.4%, 2.2%): and for the graft loss, death or loss to follow-up endpoint is -0.1% (-5.4%, 5.3%). 2Loss to follow-up (for treated BPAR, graft loss, death or loss to follow-up) represents patients who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12- or 24-month visit. 3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patients who did not experience death or graft loss and whose last contact date is prior to 12- or 24-month visit. |  |  |
 
-At 12 months, the estimated mean glomerular filtration rate (eGFR) using the MDRD equation for the everolimus group was 80.9 mL/min/1.73m2 and the tacrolimus control was 70.3 mL/min/1.73 m2 in the ITT population.
+At Month12, the estimated mean glomerular filtration rate (eGFR) using the MDRD equation for the everolimus group was 80.9 mL/min/1.73m2 and the tacrolimus control was 70.3 mL/min/1.73 m2 in the ITT population.
 At Month 24, the eGFR using the MDRD equation for the everolimus group was 74.7 mL/min/1.73m2 and the tacrolimus control was 67.8 mL/min/1.73 m2 (Table 10).
 
 Table 10.
