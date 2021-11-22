@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA202543"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-500-01",
+    "44567-500-10",
+    "44567-501-01",
+    "44567-501-10",
+    "44567-502-01",
+    "44567-502-10",
+    "44567-503-01",
+    "44567-503-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926",
+  "source": "dailymed"
+}
