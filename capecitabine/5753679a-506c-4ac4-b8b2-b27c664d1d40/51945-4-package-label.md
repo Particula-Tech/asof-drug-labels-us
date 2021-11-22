@@ -18,7 +18,7 @@ Rx only
 
 NDC 0093-7474-89
 
-Capecitabine TABLETS USP
+Capecitabine Tablets USP
 
 500 mg
 
@@ -29,5 +29,3 @@ PHARMACIST: Please dispense with accompanying Patient Information leaflet.
 Rx only
 
 120 TABLETS
-
-TEVA
