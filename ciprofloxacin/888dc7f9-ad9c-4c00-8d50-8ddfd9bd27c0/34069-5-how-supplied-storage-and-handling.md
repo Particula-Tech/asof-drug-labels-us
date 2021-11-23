@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 CIPRO (ciprofloxacin hydrochloride) Tablets are available as round, slightly yellowish film-coated tablets containing 250 mg ciprofloxacin.
-The 250 mg tablet is coded with the word “BAYER” on one side and “CIP 250” on the reverse side.
+The 250 mg tablet is coded with the word “BAYER” on one side and functionally scored and engraved with “CIP 250” on the reverse side.
 CIPRO is also available as capsule shaped, slightly yellowish film-coated tablets containing 500 mg ciprofloxacin.
-The 500 mg tablet is coded with the word “BAYER” on one side and “CIP 500” on the reverse side.
+The 500 mg tablet is coded with the word “BAYER” on one side and functionally scored and engraved with “CIP 500” on the reverse side.
 CIPRO 250 mg and 500 mg are available in bottles of 100.
 
 |  | Strength | NDC Code | Tablet Identification |

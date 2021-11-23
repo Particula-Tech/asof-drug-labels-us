@@ -5,7 +5,7 @@ CIPRO Tablets and Oral Suspension should be administered orally as described in 
 ## 2.1 Dosage in Adults
 
 The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
-CIPRO Tablets or Oral Suspension may be administered to adult patients when clinically indicated at the discretion of the physician.
+CIPRO Tablets or CIPRO for Oral Suspension may be administered to adult patients when clinically indicated at the discretion of the physician.
 Administer CIPRO for Oral Suspension using the co-packaged graduated spoon [see Dosage and Administration (2.7)].
 
 Table 1: Adult Dosage Guidelines
@@ -106,6 +106,10 @@ If a dose is missed, it should be taken anytime but not later than 6 hours prior
 If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
 Double doses should not be taken to compensate for a missed dose.
 
+### Splitting CIPRO Tablets
+
+CIPRO Tablets, 250 mg and 500 mg are functionally scored tablets which can be split into one-half at the scored line to provide a 125 mg and 250 mg strength, respectively.
+
 ## 2.5 Directions for Reconstitution of the CIPRO Microcapsules for Oral Suspension
 
 CIPRO Oral Suspension is supplied in 5% (5 g ciprofloxacin in 100 mL) and 10% (10 g ciprofloxacin in 100 mL) strengths.
@@ -123,7 +127,7 @@ Preparation of the suspension:
 
 | Step1 | The small bottle contains the microcapsules, the large bottle contains the diluent. | Step 2 | Open both bottles. Child-proof cap: Press down according to instructions on the cap while turning to the left. |
 | --- | --- | --- | --- |
-| Step 3 | Pour the microcapsules completely into the larger bottle of diluent. Do not add water to the suspension. | Step 4 | 1.Remove the top layer of the diluent bottle label (to reveal the CIPRO Oral Suspension label). Close the large bottle completely according to the directions on the cap and shake vigorously for about 15 seconds. The suspension is ready for use. |
+| Step 3 | Pour the microcapsules completely into the larger bottle of diluent. Do not add water to the suspension. | Step 4 | Remove the top layer of the diluent bottle label (to reveal the CIPRO Oral Suspension label). Close the large bottle completely according to the directions on the cap and shake vigorously for about 15 seconds. The suspension is ready for use. |
 
 Step 5: Write the expiration date of the re-constituted oral suspension on the bottle label.
 

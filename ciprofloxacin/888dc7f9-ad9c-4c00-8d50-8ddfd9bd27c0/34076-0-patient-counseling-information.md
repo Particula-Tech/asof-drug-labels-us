@@ -77,6 +77,8 @@ Advise patients that if a dose is missed, it should be taken anytime but not lat
 If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
 Double doses should not be taken to compensate for a missed dose.
 
+Advise patients that CIPRO Tablets (250 mg and 500 mg) are scored and can be split into one-half at the scored line to provide a 125 mg or 250 mg strength, respectively.
+
 Drug Interactions Oral Antidiabetic Agents
 
 Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with CIPRO, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
