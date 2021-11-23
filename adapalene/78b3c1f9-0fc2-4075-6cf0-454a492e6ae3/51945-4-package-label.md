@@ -1,5 +1,7 @@
 # PACKAGE LABEL - 2 FL OZ CARTON
 
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
 Rx Only NDC 0299-5912-02 Differin® (adapalene) Lotion 0.1% For External Use Only 2 FL OZ (59 mL) GALDERMA For external use only.
 Not for ophthalmic, oral or intravaginal use.
 Usual dosage: Apply a thin film on the entire face and other affected areas of the skin once daily.
@@ -10,4 +12,4 @@ Do not freeze or refrigerate.
 Marketed by: GALDERMA LABORATORIES, L.P.
 14501 North Freeway Fort Worth, Texas 76177 USA Made in Canada.
 All trademarks are the property of their respective owners.
-P51638-3
+P51638-4
