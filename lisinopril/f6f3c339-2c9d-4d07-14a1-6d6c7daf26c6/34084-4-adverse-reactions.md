@@ -43,7 +43,7 @@ Endocrine: Diabetes mellitus, inappropriate antidiuretic hormone secretion.
 
 Metabolic: Gout
 
-Skin: Urticaria, alopecia, photosensitivity, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, toxic epidermal necrolysis, Stevens – Johnson syndrome, and pruritus.
+Skin: Urticaria, alopecia, photosensitivity, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, toxic epidermal necrolysis, Stevens–Johnson syndrome, and pruritus.
 
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances, olfactory disturbances.
 
