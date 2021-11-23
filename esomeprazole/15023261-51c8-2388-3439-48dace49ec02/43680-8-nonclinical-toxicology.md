@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The carcinogenic potential of esomeprazole magnesium was assessed using studies of omeprazole, of which esomeprazole is an enantiomer.
 In two 24-month oral carcinogenicity studies in rats, omeprazole at daily doses of 1.7, 3.4, 13.8, 44, and 140.8 mg/kg/day (about 0.4 to 34 times the human dose of 40 mg/day expressed on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
@@ -22,7 +22,7 @@ Omeprazole was positive in the in vitro human lymphocyte chromosome aberration t
 The potential effects of esomeprazole on fertility and reproductive performance were assessed using omeprazole studies.
 Omeprazole at oral doses up to 138 mg/kg/day in rats (about 34 times the human dose of 40 mg/day on a body surface area basis) was found to have no effect on reproductive performance of parental animals.
 
-## 13.2 Animal Pharmacology and/or Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Reproduction Studies
 

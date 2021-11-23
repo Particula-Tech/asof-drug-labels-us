@@ -18,5 +18,5 @@ Bottles of 1000 NDC 43598-510-10
 
 Store at 20°-25°C (68°-77°F).
 [See USP Controlled Room Temperature].
-Keep esomeprazole magnesium delayed-release capsules USP container tightly closed.
-Dispense in a tight container if the esomeprazole magnesium delayed-release capsules USP product package is subdivided.
+Keep esomeprazole magnesium delayed-release capsules container tightly closed.
+Dispense in a tight container if the esomeprazole magnesium delayed-release capsules product package is subdivided.
