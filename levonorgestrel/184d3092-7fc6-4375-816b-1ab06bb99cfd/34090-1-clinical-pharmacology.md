@@ -22,12 +22,10 @@ Studies to assess the potency of progestins using estrogen-primed postmenopausal
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for Climara Pro.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Climara nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
-
-Systemic estrogen exposures across different estrogen products should not be compared.
-These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
 
 ### Absorption
 

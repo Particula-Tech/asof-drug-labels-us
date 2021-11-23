@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Metabolic Interactions
-
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
 Inducers of CYP3A4 such as St. John's wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
@@ -9,4 +7,4 @@ Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itracon
 
 Hydroxylation of levonorgestrel is a conversion step, which is mediated by cytochrome P450 enzymes.
 Based on in-vitro and in-vivo studies, it can be assumed that CYP3A, CYP2E and CYP2C are involved in the metabolism of levonorgestrel.
-Likewise, inducers or inhibitors of these enzymes may either, respectively, decrease the therapeutic effects or result in side effects.
+Likewise, inducers or inhibitors of these enzymes may either, respectively, decrease the therapeutic effects or result in adverse reactions.

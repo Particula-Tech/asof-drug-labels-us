@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 The efficacy of 0.045 mg estradiol/0.03 mg levonorgestrel administered weekly versus placebo in the relief of moderate to severe vasomotor symptoms in postmenopausal women was studied in one 12-week clinical trial (n=183, average age 52.1 ± 4.93, 82 percent Caucasian).
 The 0.045 mg estradiol/0.03 mg levonorgestrel dosage strength was shown to be statistically better than placebo at weeks 4 and 12 for relief of both the number and severity of moderate to severe hot flushes.
@@ -9,9 +9,9 @@ Climara Pro and the 0.045 mg estradiol/0.03 mg levonorgestrel dosage strength ar
 
 Table 3: Summary of Mean Daily Number of Moderate to Severe Hot Flushes-ITTIntent-to-Treat population
 
-|  |  | BaselineA subject was included at baseline only if the subject had a post-baseline mean score. The post-baseline mean score required 3 days in one week. | Week 4 | Week 8 | Week 12 |
+|  |  | BaselineA participating woman was included at baseline only if she had a post-baseline mean score. The post-baseline mean score required 3 days in one week. | Week 4 | Week 8 | Week 12 |
 | --- | --- | --- | --- | --- | --- |
-| Placebo | nn = Number of subjects in a treatment group in a cycle; number of subjects varied from cycle to cycle due to missing data. | 88 | 82 | 73 | 69 |
+| Placebo | nn = Number of participating women in a treatment group in a cycle; number of women varied from cycle to cycle due to missing data. | 88 | 82 | 73 | 69 |
 |  | Mean (SD)SD = standard deviation | 10.8(5.803) | 6.13(4.311) | 5.35(4.095) | 5.59(4.93) |
 |  | Mean Changefrom baseline (SD) | NA | -4.23(4.374) | -4.8(4.448) | -4.55(5.407) |
 | 0.045/.03 | n | 92 | 88 | 80 | 73 |
@@ -21,7 +21,7 @@ Table 3: Summary of Mean Daily Number of Moderate to Severe Hot Flushes-ITTInten
 
 Table 4: Summary of Mean Severity of Moderate to Severe Hot Flushes-ITTITT= Intent-to-Treat population
 
-|  |  | BaselineA subject was included at baseline only if the subject had at least 1 post-baseline value. | Week 4(day 7) | Week 8(day 7) | Week 12(day 7) |
+|  |  | BaselineA participating woman was included at baseline only if she had at least 1 post-baseline value. | Week 4(day 7) | Week 8(day 7) | Week 12(day 7) |
 | --- | --- | --- | --- | --- | --- |
 | Placebo | n | 89 | 76 | 68 | 57 |
 |  | Mean (SD)d | 2.42(0.282) | 1.99(0.875) | 1.93(0.955) | 1.8(1.034) |
@@ -31,7 +31,7 @@ Table 4: Summary of Mean Severity of Moderate to Severe Hot Flushes-ITTITT= Inte
 |  | Mean Changefrom baseline(SD) | NA | -1.4(1.164) | -1.67(1.245) | -2.06(1.005) |
 | p-value p-value for comparison to placebo, adjusted by the method of Bonferroni |  | NA | <0.001 p <0.025 | NA | <0.001 |
 
-## 14.2 Effects on the Endometrium
+## 14.2 Effects on the Endometrium in Postmenopausal Women
 
 In a 1-year clinical trial of 412 postmenopausal women (with intact uteri) treated with a continuous regimen of Climara Pro or with an continuous estradiol-only transdermal system, results of evaluable endometrial biopsies show that no hyperplasia was seen with Climara Pro.
 Table 5 below summarizes these results (Intent-to-Treat populations).
@@ -40,31 +40,31 @@ Table 5: Incidence of Endometrial Hyperplasia during Continuous Combined Treatme
 
 |  | Climara ProE2 0.045 mg / LNG 0.015 mg | EstradiolE2 0.045 mg |
 | --- | --- | --- |
-| nn = number of intent-to-treat subjects. = 210 | na = 202 |  |
+| nn = number of intent-to-treat in women. = 210 | na = 202 |  |
 | No. of Patients with Biopsies at >6 monthsDefined as at least 180 days of treatment. | 124 | 139 |
 | No. of Patients with Biopsies at 1 yearDefined as ≥ 323 days of treatment. | 102 | 110 |
 | No. (%) of Patients with HyperplasiaIncludes hyperplasia occurring at any time after initiation of treatment as a proportion of patients with biopsies at 1 year. | 0 (0%)p < 0.0167 p-value for comparison to unopposed estradiol dose using the Fisher Exact test. P-values were adjusted by the method of Bonferroni. | 19 (17.3%) |
 | 95% Confidence Interval | 0-3.55% | 9.75–24.79% |
 
-## 14.3 Effects on Uterine Bleeding or Spotting
+## 14.3 Effects on Uterine Bleeding or Spotting in Postmenopausal Women
 
 The effects of Climara Pro on uterine bleeding or spotting, as recorded using an interactive voice response system, were evaluated in one 12-month clinical trial.
 Results are shown in Figure 3.
 
 Figure 3: Cumulative Proportion of Subjects at Each Cycle with No Bleeding/Spotting Through the End of Cycle 13 Last Observation Carried Forward
 
-- •Percent based upon the number of subjects with data
+- •Percent based upon the number of participating women with data
 - •Last non-missing cycle carried forward through cycle 13
 - •Bleeding associated with endometrial biopsies not included
 
-## 14.4 Effects on Bone Mineral Density
+## 14.4 Effects on Bone Mineral Density in Postmenopausal Women
 
 The effects on bone mineral density (BMD) were studied in a randomized, double-blind, placebo-controlled clinical trial of transdermal systems (patches) containing only estradiol (E2).
-The patients were postmenopausal women with hysterectomies, 40–83 years of age (mean=51.4 years), and 77.3 percent Caucasian.
-Patients received calcium supplements if they appeared deficient on a questionnaire.
+Participants were postmenopausal women with hysterectomies, 40–83 years of age (mean=51.4 years), and 77.3 percent Caucasian.
+Women received calcium supplements if they appeared deficient on a questionnaire.
 Vitamin D supplements were not given.
 
-A total of 154 patients were randomized in a 2:2:3 ratio to weekly application of 22 cm2 patches containing 2.2 mg E2, 4.4 mg E2, or placebo, for 728 days of continuous treatment (26 28-day cycles).
+A total of 154 women were randomized in a 2:2:3 ratio to weekly application of 22 cm2 patches containing 2.2 mg E2, 4.4 mg E2, or placebo, for 728 days of continuous treatment (26 28-day cycles).
 Only the results for the estradiol dose in Climara Pro (4.4 mg E2) and for placebo are presented.
 
 Statistically significant increases in the primary efficacy variable, BMD of the lumbar spine (A-P view, L2-L4), were seen for 4.4 mg E2 compared to placebo (see Table 5 and Figure 4).
@@ -128,7 +128,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.Results are based on cen
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [hazard ratio (HR) 0.69 (95 percent CI, 0.44–1.07)].
+The WHI estrogen plus progestin substudy, stratified by age, showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [hazard ratio (HR) 0.69 (95 percent CI, 0.44–1.07)].
 
 ### WHI Estrogen-Alone Substudy
 
@@ -171,7 +171,7 @@ The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years
 
 ## 14.6 Women's Health Initiative Memory Study
 
-The WHIMS estrogen plus progestin ancillary study of WHI enrolled 4,532 predominantly healthy postmenopausal women 65 to 79 years of age (47 percent were 65 to 69 years of age, 35 percent were 70 to 74 years of age, and 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
+The WHIMS estrogen plus progestin ancillary study of WHI enrolled 4,532 predominantly healthy postmenopausal women 65 to 79 years of age and older (47 percent were 65 to 69 years of age, 35 percent were 70 to 74 years of age, and 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
 After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
 The absolute risk of probable dementia for CE plus MPA was 45 versus 22 cases per 10,000 women-years.

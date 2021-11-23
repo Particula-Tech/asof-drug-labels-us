@@ -55,14 +55,14 @@ The study compared the irritation of a Climara Pro placebo patch (22 cm2) to a p
 Visual assessments of irritation were made on Day 7 of each wear period, approximately 30 minutes after patch removal using a 7-point scale (0 = no evidence of irritation; 1 = minimal erythema, barely perceptible; 2 = definite erythema, readily visible, or minimal edema, or minimal papular response; 3–7 = erythema and papules, edema, vesicles, strong extensive reaction).
 
 The mean irritation scores were 0.13 (week 1), 0.12 (week 2), and 0.06 (week 3) for the Climara Pro placebo.
-The mean scores for the Climara placebo were 0.2 (week 1), 0.26 (week 2), 0.12 (week 3).
-There were no irritation scores greater than 2 at any timepoint in any subject.
+The mean scores for the placebo group were 0.2 (week 1), 0.26 (week 2), 0.12 (week 3).
+There were no irritation scores greater than 2 at any timepoint in any woman.
 
-In controlled clinical trials, withdrawals due to application site reactions occurred in 6 (2.1 percent) of subjects in the 12-week symptom study and in 71 (8.5 percent) of subjects in the 1-year endometrial protection study.
+In controlled clinical trials, withdrawals due to application site reactions occurred in 6 (2.1 percent) of women in the 12-week symptom study and in 71 (8.5 percent) of subjects in the 1-year endometrial protection study.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of the Climara Pro transdermal system.
+The following adverse reactions have been identified during post-approval use of Climara Pro.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 ### Genitourinary System
