@@ -38,9 +38,9 @@ Animal studies of Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dex
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-### Pregnancy Category C
+Pregnancy Category C
 
 Animal reproduction studies have not been conducted with Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Syrup.
 It is also not known whether Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Syrup can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
