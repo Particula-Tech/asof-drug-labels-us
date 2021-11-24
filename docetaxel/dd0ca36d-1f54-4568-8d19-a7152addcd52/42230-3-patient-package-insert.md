@@ -32,9 +32,9 @@
 | Medicines are sometimes prescribed for purposes other than those listed in this Patient Information. You can ask your pharmacist or healthcare provider for information about docetaxel that is written for health professionals. |  |  |
 | What are the ingredients in Docetaxel injection? |  |  |
 | Active ingredient: docetaxel |  |  |
-| Inactive ingredients: polysorbate 80 and dehydrated alcohol solution |  |  |
-| Winthrop U.S., a business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY ©2020 sanofi-aventis U.S. LLC |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: May 2020 |
+| Inactive ingredients: polysorbate 80 and dehydrated alcohol solution, with citric acid for pH adjustment |  |  |
+| Winthrop U.S., a business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY ©2021 sanofi-aventis U.S. LLC |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: November 2021 |
 
 | Every three-week injection of docetaxel for breast, non-small cell lung and stomach, and head and neck cancers |
 | --- |

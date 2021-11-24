@@ -19,12 +19,12 @@ Administer in a facility equipped to manage possible complications (e.g., anaphy
 
 ## 2.3 Prostate Cancer
 
-- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m2 every 3 weeks as a 1-hour intravenous infusion.
+- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
 
-- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
+- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
   Treatment is repeated every three weeks.
   Patients must receive premedication with antiemetics and appropriate hydration for cisplatin administration [see Dosage and Administration (2.7)].
 
@@ -36,13 +36,13 @@ All patients treated on the docetaxel containing arms of the TAX323 and TAX324 s
 
 Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
-For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
-For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -99,7 +99,8 @@ Patients treated with docetaxel in combination with cisplatin and fluorouracil m
 In both studies, G-CSF was recommended during the second and/or subsequent cycles in case of febrile neutropenia, or documented infection with neutropenia, or neutropenia lasting more than 7 days.
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the docetaxel dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the docetaxel dose should be reduced from 60 mg/m2 to 45 mg/m2.
-In case of grade 4 thrombocytopenia the docetaxel dose should be reduced from 75 mg/m2 to 60 mg/m2.Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
+In case of grade 4 thrombocytopenia the docetaxel dose should be reduced from 75 mg/m2 to 60 mg/m2.
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
 Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
@@ -203,6 +204,6 @@ The docetaxel dilution for infusion should be administered intravenously as a 1-
 ## 2.10 Stability
 
 Docetaxel final dilution for infusion, if stored between 2°C and 25°C (36°F and 77°F) is stable for 6 hours.
-Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1-hour intravenous administration).
+Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1 hour intravenous administration).
 
 In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2°C and 8°C (36°F and 46°F).

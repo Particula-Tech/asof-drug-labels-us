@@ -88,7 +88,7 @@ The following table describes the results of subgroup analyses for DFS and OS (s
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
-| Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
+| Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Disease-Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
@@ -142,7 +142,7 @@ Patients treated with docetaxel at a dose of 75 mg/m2 experienced no deteriorati
 
 Combination Therapy with Docetaxel for Chemotherapy-Naive NSCLC
 
-In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1-hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6–10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel and carboplatin.
+In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6–10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel and carboplatin.
 
 The primary efficacy endpoint was overall survival.
 Treatment with docetaxel+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
@@ -279,7 +279,7 @@ The cycles were repeated every 3 weeks for 3 cycles.
 All patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70–72 Gy).
-Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
+Surgery on the primary site of disease and/or neck could be considered at any time following completion of CRT.
 
 The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel-containing regimen compared to PF (median OS: 70.6 vs 30.1 months, respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]=0.54–0.90).
 Overall survival results are presented in Table 21 and Figure 10.
