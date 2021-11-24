@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215037"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1685-1",
+    "70771-1685-8"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Nelarabine"
+    }
+  ],
+  "setid": "877b69a0-0899-455d-926e-f5a7478c31f8",
+  "source": "dailymed"
+}
