@@ -88,7 +88,9 @@ There were no significant differences in the rates of these endpoints between th
 For the primary endpoint and stroke, the effects of losartan potassium tablets in patient subgroups defined by age, gender, race and presence or absence of isolated systolic hypertension (ISH), diabetes, and history of cardiovascular disease (CVD) are shown in Figure 3 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 Figure 3.
-Primary Endpoint Events† within Demographic Subgroups Symbols are proportional to sample size. #Other includes Asian, Hispanic, Asiatic, Multi-race, Indian, Native American, European. †Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
+Primary Endpoint Events† within Demographic Subgroups
+
+Symbols are proportional to sample size. #Other includes Asian, Hispanic, Asiatic, Multi-race, Indian, Native American, European. †Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 
 ## 14.3 Nephropathy in Type 2 Diabetic Patients
 

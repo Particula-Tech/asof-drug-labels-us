@@ -57,5 +57,5 @@ Hypersensitivity: Angioedema, including swelling of the larynx and glottis, caus
 Vasculitis, including Henoch-Schönlein purpura, has been reported.Anaphylactic reactions have been reported.
 Metabolic and Nutrition: Hyponatremia.
 Musculoskeletal: Rhabdomyolysis.
-Nervous system disorders: Dysgeusia.
+Nervous System Disorders: Dysgeusia.
 Skin: Erythroderma.
