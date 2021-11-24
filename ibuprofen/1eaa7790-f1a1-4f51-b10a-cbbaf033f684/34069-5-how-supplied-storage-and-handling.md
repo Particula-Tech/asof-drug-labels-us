@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CALDOLOR (ibuprofen) Injection is a clear, colorless, non-pyrogenic, aqueous solution supplied as follows:
+CALDOLOR (ibuprofen injection) is a clear, colorless, non-pyrogenic, aqueous solution supplied as follows:
 
 - 800 mg/8 mL (100 mg/mL) single dose vial.
   Carton of 25 vials, NDC 66220-287-08

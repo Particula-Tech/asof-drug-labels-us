@@ -2,7 +2,7 @@
 
 ## 14.1 Analgesia (Pain)
 
-The effect of CALDOLOR on acute pain was evaluated in two multi-center, randomized, double-blind, placebo-controlled studies.
+The effect of CALDOLOR on acute pain was evaluated in three multi-center, randomized, double-blind, placebo-controlled studies.
 
 In a study of women who had undergone an elective abdominal hysterectomy, 319 patients were randomized and treated with CALDOLOR 800 mg or placebo administered every 6 hours (started intra-operatively) and morphine administered on an as needed basis.
 Efficacy was demonstrated as a statistically significant greater reduction in the mean morphine consumption through 24 hours in patients who received CALDOLOR as compared to those receiving placebo (47 mg and 56 mg, respectively).
@@ -10,6 +10,10 @@ The clinical relevance of this finding is supported by a greater reduction in pa
 
 In a study of patients who had undergone an elective abdominal or orthopedic surgery, 406 patients (87 men, 319 women) were randomized to receive CALDOLOR 400 mg, CALDOLOR 800 mg, or placebo administered every 6 hours (started intra-operatively), and morphine on an as needed basis.
 This study failed to demonstrate a statistically significant difference in outcome between patients receiving CALDOLOR 800 mg or 400 mg and placebo, although there were trends favoring the active treatments.
+
+An additional study of orthopedic surgical pain confirmed the findings of the study of abdominal surgical pain.
+A total of 185 patients were randomized and treated with CALDOLOR 800 mg or placebo administered every 6 hours (started pre-operatively) and morphine administered on an as-needed basis.
+Efficacy was demonstrated as a statistically significant greater reduction in pain intensity over 24 hours post-operatively for patients treated with CALDOLOR as compared to those receiving placebo.
 
 ## 14.2 Antipyretic (Fever)
 
