@@ -62,9 +62,9 @@ Drug Interactions
 
 In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but not an inhibitor of CYP1A2, CYP2C9, CYP2C19, and CYP3A4.
 In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes.
-Tables 4 and 5 list the findings from in vivo drug-drug interaction studies.
+Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 
-Table 4.
+Table 5.
 Effect of co-administered drugs on cinacalcet
 
 | Co-administered drug and dosing regimen | Cinacalcet |  |  |
@@ -75,7 +75,7 @@ Effect of co-administered drugs on cinacalcet
 | 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
 | 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |
 
-Table 5.
+Table 6.
 Effect of cinacalcet co-administration on other drugs
 
 | Cinacalcet dosing regimen | Co-administered drug |  |  |

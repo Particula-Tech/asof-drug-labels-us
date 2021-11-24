@@ -107,6 +107,19 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 | n=Number of subjects receiving at least one dose of study drug. |  |  |  |
 | pHPT=primary hyperparathyroidism |  |  |  |
 
+In a randomized double-blind, placebo-controlled study of 67 patients with primary hyperparathyroidism for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
+
+Table 4.
+Adverse Reactions Occurring in ≥ 10% of Subjects in a Double-Blind, Placebo-Controlled Study in Patients with Primary Hyperparathyroidism
+
+| Adverse Reaction | Placebo (n = 34) n (%) | Cinacalcet (n = 33) n (%) |
+| --- | --- | --- |
+| Nausea | 6 (18) | 10 (30) |
+| Muscle spasms | 0 (0) | 6 (18) |
+| Headache | 2 (6) | 4 (12) |
+| Back pain | 2 (6) | 4 (12) |
+| n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0. |  |  |
+
 Hypocalcemia
 
 In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet hydrochloride tablets compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29 % of patients receiving cinacalcet hydrochloride tablets compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
@@ -115,6 +128,8 @@ Less than 1% of patients in each group permanently discontinued study drug due t
 In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving cinacalcet hydrochloride tablets compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
 Most of the cases of severe hypocalcemia less than 7.5mg/dL (21/33=64%) occurred during the first 6 months.
 In this trial, 1.1% of patients receiving cinacalcet hydrochloride tablets and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
+
+During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of cinacalcet -treated patients and 0% (0/34) of placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
 

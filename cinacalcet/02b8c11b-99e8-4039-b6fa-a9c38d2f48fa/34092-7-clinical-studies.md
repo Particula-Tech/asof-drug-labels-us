@@ -15,14 +15,14 @@ The dose was not increased if a patient had any of the following: iPTH ≤ 200 p
 If a patient experienced symptoms of hypocalcemia or had a serum calcium < 8.4 mg/dL, calcium supplements and/or calcium-based phosphate binders could be increased.
 If these measures were insufficient, the vitamin D dose could be increased.
 Approximately 70% of patients in the cinacalcet hydrochloride arm and 80% of the patients in the placebo arm completed the 6-month studies.
-In the primary efficacy analysis, 40% of the patients on cinacalcet hydrochloride tablets and 5% of placebo-treated patients achieved an iPTH ≤ 250 pg/mL (p < 0.001) (Table 6, Figure 1).
-These studies showed that cinacalcet hydrochloride tablets reduced iPTH while lowering Ca x P, calcium, and phosphorus levels (Table 6, Figure 2).
+In the primary efficacy analysis, 40% of the patients on cinacalcet hydrochloride tablets and 5% of placebo-treated patients achieved an iPTH ≤ 250 pg/mL (p < 0.001) (Table 7, Figure 1).
+These studies showed that cinacalcet hydrochloride tablets reduced iPTH while lowering Ca x P, calcium, and phosphorus levels (Table 7, Figure 2).
 The median dose of cinacalcet hydrochloride tablets at the completion of the studies was 90 mg.
 Patients with milder disease typically required lower doses.
 
 Similar results were observed when either the iPTH or biointact PTH (biPTH) assay was used to measure PTH levels in CKD patients on dialysis; treatment with cinacalcet did not alter the relationship between iPTH and biPTH.
 
-Table 6.
+Table 7.
 Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
 |  | Study 1 |  | Study 2 |  | Study 3 |  |
@@ -94,9 +94,17 @@ At the end of the titration phase the mean (SE) serum calcium was 10.4 (0.3) mg/
 Figure 4 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
 Daily dose during the study ranged from 30 mg twice a day to 90 mg four times a day.
 
-Figure 4.Mean SerumCalcium(SE) at Baseline, End of Titration, and Scheduled Maintenance Visits (Patients with Severe intractable primary HPT)
+Figure 4.Mean Serum Calcium(SE) at Baseline, End of Titration, and Scheduled Maintenance Visits (Patients with Severe intractable primary HPT)
 
 n = Number of patients with non-missing values at the timepoint.
 
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.
 Patients at EOT are those who completed titration.
+
+Sixty-seven patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), but who were unable to undergo parathyroidectomy participated in a randomized, double-blind, placebo-controlled study.
+A total of 33 patients were randomized to cinacalcet and 34 patients randomized to placebo.
+The mean age of the patients was 72 years, 52% were female, 61% were Caucasian, and 5% were Blacks.
+The study started with a 12-week titration phase, followed by a 16-week efficacy-assessment phase.
+Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range.
+During the efficacy period a significantly higher percentage of cinacalcet-treated patients compared with the placebo-treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
+The median dose of cinacalcet at the completion of the study was 60 mg/day.
