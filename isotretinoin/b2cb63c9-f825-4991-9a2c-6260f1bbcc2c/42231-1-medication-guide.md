@@ -11,38 +11,37 @@ What is the most important information I should know about Amnesteem?
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Amnesteem may cause serious mental health problems.
-
-1. 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-   Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
-   Female patients must not get pregnant:
-   1. •for one month before starting Amnesteem
-   2. •while taking Amnesteem
-   3. •for one month after stopping Amnesteem.
-2. If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
-   Doctors and patients should report all cases of pregnancy to:
-   1. •FDA MedWatch at 1-800-FDA-1088, and
-   2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
-3. 2.Serious mental health problems.
-   Amnesteem may cause:
-   1. •depression
-   2. •psychosis (seeing or hearing things that are not real)
-   3. •suicide.
-      Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-      Some people tried to end their own lives.
-      And some people have ended their own lives.
-4. Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
-   1. •start to feel sad or have crying spells
-   2. •lose interest in activities you once enjoyed
-   3. •sleep too much or have trouble sleeping
-   4. •become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-   5. •have a change in your appetite or body weight
-   6. •have trouble concentrating
-   7. •withdraw from your friends or family
-   8. •feel like you have no energy
-   9. •have feelings of worthlessness or guilt
-   10. •start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
-   11. •start acting on dangerous impulses
-   12. •start seeing or hearing things that are not real
+- 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+  Patients who are pregnant or who plan to become pregnant must not take Amnesteem.
+  Patients must not get pregnant:
+  1. •for one month before starting Amnesteem
+  2. •while taking Amnesteem
+  3. •for one month after stopping Amnesteem.
+- If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
+  Doctors and patients should report all cases of pregnancy to:
+  1. •FDA MedWatch at 1-800-FDA-1088, and
+  2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
+- 2.Serious mental health problems.
+  Amnesteem may cause:
+  1. •depression
+  2. •psychosis (seeing or hearing things that are not real)
+  3. •suicide.
+     Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+     Some people tried to end their own lives.
+     And some people have ended their own lives.
+- Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
+  1. •start to feel sad or have crying spells
+  2. •lose interest in activities you once enjoyed
+  3. •sleep too much or have trouble sleeping
+  4. •become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
+  5. •have a change in your appetite or body weight
+  6. •have trouble concentrating
+  7. •withdraw from your friends or family
+  8. •feel like you have no energy
+  9. •have feelings of worthlessness or guilt
+  10. •start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
+  11. •start acting on dangerous impulses
+  12. •start seeing or hearing things that are not real
 
 After stopping Amnesteem, you may also need follow-up mental health care if you had any of these symptoms.
 
@@ -84,7 +83,7 @@ Tell your doctor if you or a family member has any of the following health condi
 - •food or medicine allergies
 
 Tell your doctor if you are pregnant or breast-feeding.
-Amnesteem must not be used by women who are pregnant or breast-feeding.
+Amnesteem must not be used by patients who are pregnant or breast-feeding.
 
 Tell your doctor about all of the medicines you take including prescription and non-prescription medicines, vitamins and herbal supplements.
 Amnesteem and certain other medicines can interact with each other, sometimes causing serious side effects.
@@ -118,8 +117,8 @@ How should I take Amnesteem?
   You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing Amnesteem, your doctor will:
   - •explain the iPLEDGE Program to you
-  - •have you sign the Patient Information/Informed Consent (for all patients).
-    Female patients who can get pregnant must also sign another consent form.
+  - •have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
+    Patients who can get pregnant must also sign another enrollment form.
 - You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 - •You will get no more than a 30-day supply of Amnesteem at a time.
   This is to make sure you are following the Amnesteem iPLEDGE Program.
@@ -138,8 +137,8 @@ How should I take Amnesteem?
   Talk with your doctor if this is a problem for you.
 - •You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from Amnesteem.
-  Female patients who can get pregnant will get a pregnancy test each month.
-- •Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Amnesteem.
+  Patients who can get pregnant will get a pregnancy test each month.
+- •Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Amnesteem.
   You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
   To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
@@ -155,7 +154,7 @@ What should I avoid while taking Amnesteem?
 - •Do not breast-feed while taking Amnesteem and for one month after stopping Amnesteem.
   We do not know if Amnesteem can pass through your milk and harm the baby.
 - •Do not give blood while you take Amnesteem and for one month after stopping Amnesteem.
-  If someone who is pregnant gets your donated blood, her baby may be exposed to Amnesteem and may be born with birth defects.
+  If someone who is pregnant gets your donated blood, their baby may be exposed to Amnesteem and may be born with birth defects.
 - •Do not take other medicines or herbal products with Amnesteem unless you talk to your doctor.
   See “What should I tell my doctor before taking Amnesteem?”
 - •Do not drive at night until you know if Amnesteem has affected your vision.
@@ -277,4 +276,6 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 4/2018 CAT:ISOTFR:R5
+Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
+
+Revised: 11/2021 CAT:ISOTFR:R6
