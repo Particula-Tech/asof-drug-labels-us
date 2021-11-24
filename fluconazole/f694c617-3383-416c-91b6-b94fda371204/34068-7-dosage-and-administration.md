@@ -108,18 +108,18 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-| Males: | Weight (kg) × (140 – age) |
-| --- | --- |
-|  | 72 × serum creatinine (mg/100 mL) |
+| Males: | Weight (kg) × (140 – age) |  |
+| --- | --- | --- |
+|  | 72 × serum creatinine (mg/100 mL) |  |
 
 Females: 0.85 × above value
 
 Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
 
-| K × | linear length or height (cm) |
-| --- | --- |
-|  | serum creatinine (mg/100 mL) |
+| K × | linear length or height (cm) |  |
+| --- | --- | --- |
+|  | serum creatinine (mg/100 mL) |  |
 
 (Where K=0.55 for children older than 1 year and 0.45 for infants.)
 

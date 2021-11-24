@@ -86,12 +86,6 @@ Dosage of amitriptyline/nortriptyline should be adjusted, if necessary.
 Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with Candida albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
 The clinical significance of results obtained in these studies is unknown.
 
-### Astemizole
-
-Concomitant administration of fluconazole with astemizole may decrease the clearance of astemizole.
-Resulting increased plasma concentrations of astemizole can lead to QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of fluconazole and astemizole is contraindicated.
-
 ### Azithromycin
 
 An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 1200 mg oral dose of azithromycin on the pharmacokinetics of a single 800 mg oral dose of fluconazole as well as the effects of fluconazole on the pharmacokinetics of azithromycin.
@@ -113,13 +107,6 @@ Dosage adjustment of carbamazepine may be necessary depending on concentration m
 
 During concomitant treatment with fluconazole (200 mg daily) and celecoxib (200 mg), the celecoxib Cmax and AUC increased by 68% and 134%, respectively.
 Half of the celecoxib dose may be necessary when combined with fluconazole.
-
-### Cisapride
-
-There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
-A controlled study found that concomitant treatment with fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
-The combined use of fluconazole with cisapride is contraindicated.
-(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Coumarin-type anticoagulants
 
@@ -148,10 +135,6 @@ The author judged that the patient died from fentanyl intoxication.
 Furthermore, in a randomized crossover study with 12 healthy volunteers, it was shown that fluconazole delayed the elimination of fentanyl significantly.
 Elevated fentanyl concentration may lead to respiratory depression.
 
-### Halofantrine
-
-Fluconazole can increase halofantrine plasma concentration due to an inhibitory effect on CYP3A4.
-
 ### HMG-CoA reductase inhibitors
 
 The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin.
@@ -167,6 +150,11 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 
 Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
 If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
+
+### Lemborexant
+
+Concomitant administration of fluconazole increased lemborexant Cmax and AUC by approximately 1.6- and 4.2-fold, respectively which is expected to increase risk of adverse reactions, such as somnolence.
+Avoid concomitant use of DIFLUCAN with lemborexant.
 
 ### Losartan
 
@@ -268,15 +256,6 @@ Increased tacrolimus levels have been associated with nephrotoxicity.
 Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-### Terfenadine
-
-Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
-One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
-The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
-(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
-
 ### Theophylline
 
 DIFLUCAN increases the serum concentrations of theophylline.
@@ -291,8 +270,8 @@ Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., 
 
 ### Tolvaptan
 
-Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is co-administered with fluconazole, a moderate CYP3A4 inhibitor.
-This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration and acute renal failure.
+Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is coadministered with fluconazole, a moderate CYP3A4 inhibitor.
+This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration, and acute renal failure.
 If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
 ### Triazolam
