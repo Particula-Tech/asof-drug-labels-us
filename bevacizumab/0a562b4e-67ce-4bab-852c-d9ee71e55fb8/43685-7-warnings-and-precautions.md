@@ -12,6 +12,7 @@ The incidence ranged from < 1% to 1.8% across clinical studies, with the highest
 The majority of fistulae occurred within 6 months of the first dose.
 Patients who develop a gastrointestinal vaginal fistula may also have a bowel obstruction and require surgical intervention, as well as a diverting ostomy.
 
+Avoid MVASI in patients with ovarian cancer who have evidence of recto-sigmoid involvement by pelvic examination or bowel involvement on CT scan or clinical symptoms of bowel obstruction.
 Discontinue in patients who develop gastrointestinal perforation, tracheoesophageal fistula or any Grade 4 fistula.
 Discontinue in patients with fistula formation involving any internal organ.
 
