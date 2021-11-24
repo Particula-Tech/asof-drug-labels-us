@@ -35,7 +35,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to starting Everolimus [see Use in Specific Population (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to starting Everolimus [see Use in Specific Populations (8.1)].
 
 Contraception
 

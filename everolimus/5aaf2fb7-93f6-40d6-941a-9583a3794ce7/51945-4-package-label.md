@@ -1,8 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Everolimus Tablets 2.5 mg ND
-
-C 0054-0480-22, Rx only
+Everolimus Tablets 2.5 mg NDC 0054-0480-22, Rx only
 
 # Package/Label Display Panel
 
@@ -23,3 +21,15 @@ Everolimus Tablets 7.5 mg NDC 0054-0497-22, Rx only
 # Package/Label Display Panel
 
 Everolimus Tablets 7.5 mg NDC 0054-0497-14, Rx only
+
+# Package/Label Display Panel
+
+Everolimus Tablets, 10 mg
+
+NDC 0054-0482-22, Rx only
+
+# Package/Label Display Panel
+
+Everolimus Tablets, 10 mg
+
+NDC 0054-0482-14, Rx only

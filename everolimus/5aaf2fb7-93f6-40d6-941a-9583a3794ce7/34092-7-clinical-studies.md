@@ -55,7 +55,7 @@ Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in
 |  | EverolimusN = 79 | PlaceboN = 39 | p-value |
 | --- | --- | --- | --- |
 | Primary analysis |  |  |  |
-| Angiomyolipoma response ratePer independent central radiology review. – % 95% CI | 41.8(30.8,53.4) | 0(0.0,9.0) | <0.0001 |
+| Angiomyolipoma response ratePer independent central radiology review. – % 95% CI | 41.8(30.8, 53.4) | 0(0.0, 9.0) | <0.0001 |
 
 Skin lesion response rates were assessed by local investigators for 77 patients in the Everolimus arm and 37 patients in the placebo arm who presented with skin lesions at study entry.
 The skin lesion response rate was statistically significantly higher in the Everolimus arm (26% vs. 0, p = 0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50% to 99% of all skin lesions durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).

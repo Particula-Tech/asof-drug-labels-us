@@ -171,8 +171,8 @@ Table 15: Selected Laboratory Abnormalities Reported in Everolimus -Treated Pati
 | Hypercholesterolemia | 85 | 1 | 46 | 0 |
 | Hypertriglyceridemia | 52 | 0 | 10 | 0 |
 | Hypophosphatemia | 49 | 5 | 15 | 0 |
-| Increased alkaline | 32 | 1 | 10 | 0 |
-| phosphatase Increased AST | 23 | 1 | 8 | 0 |
+| Increased alkaline phosphatase | 32 | 1 | 10 | 0 |
+| Increased AST | 23 | 1 | 8 | 0 |
 | Increased ALT | 20 | 1 | 15 | 0 |
 | Hyperglycemia (fasting) | 14 | 0 | 8 | 0 |
 | Grading according to NCI CTCAE Version 3.0 |  |  |  |  |

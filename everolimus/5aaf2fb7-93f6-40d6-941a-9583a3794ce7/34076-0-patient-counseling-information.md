@@ -48,7 +48,7 @@ Embryo-Fetal Toxicity
 Advise females of reproductive potential of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
-Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [seeWarnings and Precautions (5.12)and Use in Specific Populations(8.1,8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [seeWarnings and Precautions (5.13)and Use in Specific Populations(8.1,8.3)].
 
 Radiation Sensitization and Radiation Recall
 
@@ -63,12 +63,10 @@ Infertility
 
 Advise males and females of reproductive potential of the potential risk for impaired fertility [seeUse in Specific Populations (8.3)].
 
-Distributed by:
-
-Hikma Pharmaceuticals USA Inc.
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000034/02
+C50001080/01
 
-Revised April 2021
+Revised May 2021

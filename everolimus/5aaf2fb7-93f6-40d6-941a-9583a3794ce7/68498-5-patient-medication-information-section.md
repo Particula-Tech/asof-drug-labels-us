@@ -8,11 +8,10 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about Everolimus Tablets?
 
-Everolimus Tablets can cause serious side effects.
-These serious side effects include:
+Everolimus Tablets can cause serious side effects, including:
 
 1. 1.You may develop lung or breathing problems.
-   In some people lung or breathing problems may be severe, and can even lead to death.
+   In some people lung or breathing problems may be severe and can lead to death.
    Tell your healthcare provider right away if you have any of these symptoms:
 2. •New or worsening cough
 3. •Shortness of breath
@@ -20,7 +19,7 @@ These serious side effects include:
 5. •Difficulty breathing or wheezing
 6. 2.You may be more likely to develop an infection, such as pneumonia, or a bacterial, fungal or viral infection.
    Viral infections may include active hepatitis B in people who have had hepatitis B in the past (reactivation).
-   In some people (including adults and children) these infections may be severe, and can even lead to death.
+   In some people (including adults and children) these infections may be severe and can lead to death.
    You may need to be treated as soon as possible.
 
 Tell your healthcare provider right away if you have a temperature of 100.5°F or above, chills, or do not feel well.
@@ -30,7 +29,7 @@ Symptoms of hepatitis B or infection may include the following:
 - •Fever
 - •Chills
 - •Skin rash
-- •Joint pain and inflammation
+- •Joint pain and swelling
 - •Tiredness
 - •Loss of appetite
 - •Nausea
@@ -38,7 +37,6 @@ Symptoms of hepatitis B or infection may include the following:
 - •Yellowing of the skin
 - •Pain in the upper right side of the stomach
 - 3.Severe allergic reactions.
-  Severe allergic reactions can happen in people who take Everolimus Tablets.
   Call your healthcare provider or get medical help right away if you get signs and symptoms of a severe allergic reaction including: rash, itching, hives, flushing, trouble breathing or swallowing, chest pain or dizziness.
 - 4.Possible increased risk for a type of allergic reaction called angioedema, in people who take an Angiotensin-Converting Enzyme (ACE) inhibitor medicine during treatment with Everolimus Tablets.
   Talk with your healthcare provider before taking Everolimus Tablets if you are not sure if you take an ACE inhibitor medicine.
@@ -50,7 +48,7 @@ Symptoms of hepatitis B or infection may include the following:
   If you develop pain, discomfort, or open sores in your mouth, tell your healthcare provider.
   Your healthcare provider may tell you to re-start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
 - 6.You may develop kidney failure.
-  In some people this may be severe and can even lead to death.
+  In some people this may be severe and can lead to death.
   Your healthcare provider should do tests to check your kidney function before and during your treatment with Everolimus Tablets.
 
 If you have any of the serious side effects listed above, you may need to stop taking Everolimus Tablets for a while or use a lower dose.
@@ -69,8 +67,6 @@ It is not known if Everolimus Tablets are safe and effective in children to trea
 - •kidney cancer (renal cell carcinoma)
 - •a kidney tumor called angiomyolipoma, that can happen in children with a genetic condition called tuberous sclerosis complex (TSC).
 
-Who should not take Everolimus Tablets?
-
 Do not take Everolimus Tablets if you have had a severe allergic reaction to everolimus.
 
 Talk to your healthcare provider before taking this medicine if you are allergic to:
@@ -80,9 +76,7 @@ Talk to your healthcare provider before taking this medicine if you are allergic
 
 Ask your healthcare provider if you do not know.
 
-What should I tell my healthcare provider before taking Everolimus Tablets?
-
-Before taking Everolimus Tablets, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking Everolimus Tablets,tell your healthcare provider about all of your medical conditions, including if you:
 
 - •Have or have had kidney problems
 - •Have or have had liver problems
@@ -97,7 +91,10 @@ Before taking Everolimus Tablets, tell your healthcare provider about all of you
   Everolimus Tablets can cause harm to your unborn baby.
   Females who are able to become pregnant:
 - o Your healthcare provider will give you a pregnancy test before you start treatment with Everolimus Tablets.
-- o You should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.Males with a female partner, you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets.
+- o You should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.
+- Males with a female partner, you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets.
+- Talk to your healthcare provider about birth control methods that may be right for you during this time.
+  If you become pregnant or think you are pregnant, tell your healthcare provider right away.
 - •Are breastfeeding or plan to breastfeed.
   It is not known if Everolimus passes into your breast milk.
   Do not breastfeed during treatment and for 2 weeks after your last dose of Everolimus Tablets.
@@ -135,22 +132,19 @@ How should I take Everolimus Tablets?
 
 - •Your healthcare provider will prescribe the dose of Everolimus Tablets that is right for you.
 - •Take Everolimus Tablets exactly as your healthcare provider tells you to.
-- •When you start treatment with Everolimus Tablets, your healthcare provider may also prescribe a mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity.
-  Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
 - •Your healthcare provider may change your dose of Everolimus Tablets or tell you to temporarily interrupt dosing, if needed.
 - •Use scissors to open the blister pack.
 - •Take Everolimus Tablets 1 time each day at about the same time.
 - •Take Everolimus Tablets the same way each time, either with food or without food.
-- •If you take too many Everolimus Tablets, contact your healthcare provider or go to the nearest hospital emergency room right away.
-  Take the pack of Everolimus Tablets with you.
+- •If you take too much Everolimus Tablets contact your healthcare provider or go to the nearest hospital emergency room right away.
+  Take the bottle or blister pack of Everolimus Tablets with you.
 - •If you miss a dose of Everolimus Tablets, you may take it if it is less than 6 hours after the time you normally take it.
   If it is more than 6 hours after you normally take your Everolimus Tablets, skip the dose for that day.
   The next day, take Everolimus Tablets at your usual time.
   Do not take 2 doses to make up for a missed dose.
   If you are not sure about what to do, call your healthcare provider.
-
-Everolimus Tablets:
-
+- •You should have blood tests before you start Everolimus Tablets and as needed during your treatment.
+  These will include tests to check your blood cell count, kidney and liver function, cholesterol, and blood sugar levels.
 - •Swallow Everolimus Tablets whole with a glass of water.
   Do not take any tablet that is broken or crushed.
 
@@ -221,7 +215,7 @@ How should I store Everolimus Tablets?
 
 Keep Everolimus Tablets and all medicines out of the reach of children.
 
-General information about Everolimus Tablets
+General information about the safe and effective use of Everolimus Tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use Everolimus Tablets for a condition for which it was not prescribed.
@@ -242,10 +236,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc.
 
-Distributed by:
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
+Berkeley Heights, NJ 07922
 
-C50000034/02
+C50001080/01
 
-Revised April 2021
+Revised May 2021

@@ -24,6 +24,14 @@ NDC 0054-0497-13: Bottle of 30 Tablets NDC 0054-0497-22: Bottle of 90 Tablets
 
 NDC 0054-0497-14: Blister Pack of 28 Tablets
 
+10 mg tablets are supplied as a white to off white, uniform to lightly speckled, capsule-shaped, flat-face, beveled edge tablet with “54 [space] 701” debossed on one side and plain on the other side.
+
+NDC 0054-0482-13: Bottle of 30 Tablets
+
+NDC 0054-0482-22: Bottle of 90 Tablets
+
+NDC 0054-0482-14: Blister Pack of 28 Tablets
+
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
 
