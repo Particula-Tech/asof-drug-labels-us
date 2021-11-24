@@ -42,7 +42,7 @@ Peripheral lymphocyte count increases are evident within days of stopping fingol
 
 Effect on Antibody Response
 
-fingolimod reduces the immune response to vaccination, as evaluated in 2 studies.
+Fingolimod reduces the immune response to vaccination, as evaluated in 2 studies.
 
 In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pneumococcal polysaccharide vaccine (PPV-23) immunization were assessed by IgM and IgG titers in a steady-state, randomized, placebo-controlled study in healthy adult volunteers.
 Compared to placebo, antigen-specific IgM titers were decreased by 91% and 25% in response to KLH and PPV-23, respectively, in subjects on fingolimod 0.5 mg.

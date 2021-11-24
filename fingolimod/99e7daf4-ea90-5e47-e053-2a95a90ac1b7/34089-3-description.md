@@ -14,5 +14,3 @@ Each capsule contains 0.56 mg of fingolimod hydrochloride, equivalent to 0.5 mg 
 
 Each capsule contains the following inactive ingredients: corn starch, magnesium stearate, pregelatinized starch.
 The capsule shells have the following inactive ingredients: black iron oxide, gelatin, potassium hydroxide, shellac and titanium dioxide.
-
-.

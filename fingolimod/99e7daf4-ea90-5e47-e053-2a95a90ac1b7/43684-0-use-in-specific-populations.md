@@ -10,7 +10,7 @@ Data from prospective reports to the fingolimod Pregnancy Registry (GPR) are cur
 In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
 In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m 2) basis.
 The most common fetal visceral malformations in rats were persistent truncus arteriosus and ventricular septal defect.
-The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see data).
+The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
@@ -74,7 +74,8 @@ However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rig
 
 ## 8.5 Geriatric Use
 
-Clinical MS studies of fingolimod did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients. fingolimod should be used with caution in patients aged 65 years and over, reflecting the greater frequency of decreased hepatic, or renal, function and of concomitant disease or other drug therapy.
+Clinical MS studies of fingolimod did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients.
+Fingolimod should be used with caution in patients aged 65 years and over, reflecting the greater frequency of decreased hepatic, or renal, function and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 

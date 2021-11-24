@@ -42,7 +42,7 @@ However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rig
 
 ## 2.3 Recommended Dosage
 
-In adults, the recommended dosage of fingolimod is 0.5 mg orally once-daily.
+In adults, the recommended dosage of fingolimod capsule is 0.5 mg orally once-daily.
 
 Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
 

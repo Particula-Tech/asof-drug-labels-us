@@ -2,7 +2,7 @@
 
 ## 7.1 QT Prolonging Drugs
 
-fingolimod has not been studied in patients treated with drugs that prolong the QT interval.
+Fingolimod has not been studied in patients treated with drugs that prolong the QT interval.
 Drugs that prolong the QT interval have been associated with cases of torsades de pointes in patients with bradycardia.
 Since initiation of fingolimod treatment results in decreased heart rate and may prolong the QT interval, patients on QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
