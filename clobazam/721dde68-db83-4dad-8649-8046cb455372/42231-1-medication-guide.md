@@ -5,7 +5,7 @@ Clobazam (KLOE-ba-zam) Tablets, CIV
 What is the most important information I should know about clobazam tablets?
 
 - Clobazam tablet is a benzodiazepine medicine.
-  Taking benzodiazepines with opioid medicines, alcohol, or other centralnervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathingproblems (respiratory depression), coma, and death.
+  Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
   Get emergency help right away if any of the following happens:
 
 - shallow or slowed breathing
@@ -87,7 +87,7 @@ Do not take clobazam tablet if you:
 - are allergic to clobazam or any of the ingredients in clobazam tablets.
   See the end of this Medication Guide for a complete list of ingredients in clobazam tablets.
 
-Before you takeclobazam tablets, tell your healthcare provider about all your medical conditions, including if you:
+Before you take clobazam tablets, tell your healthcare provider about all your medical conditions, including if you:
 
 - have liver or kidney problems
 - have lung problems (respiratory disease)
@@ -133,14 +133,14 @@ See “What is the most important information I should know about clobazam table
 
 What are the possible side effects of clobazam tablets?
 
-Clobazam tablets may cause serious side effects, including: See “What is the most important information I should knowabout clobazam tablets?”
+Clobazam tablets may cause serious side effects, including: See “What is the most important information I should know about clobazam tablets?”
 
 The most common side effects of clobazam tablets include:
 
 | sleepiness | drooling | constipation |
 | --- | --- | --- |
 | cough | pain with urination | fever |
-| acting aggressive, being angry, or violent | difficulty sleeping | slurred speech |
+| acting aggressive, being angry or violent | difficulty sleeping | slurred speech |
 | tiredness | problems with breathing |  |
 
 These are not all the possible side effects of clobazam tablets.
@@ -183,8 +183,8 @@ Goa- 403 722, INDIA.
 
 Manufactured for:
 
-Micro Labs USA Inc.
+Micro Labs USA, Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
 
-Revised: February 2021
+Rev.11/2021

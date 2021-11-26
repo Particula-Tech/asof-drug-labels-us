@@ -11,27 +11,27 @@ Advise both patients and caregivers about the risks of respiratory depression an
 
 ## 5.2 Abuse, Misuse, and Addiction
 
-The use The use of benzodiazepines, including clobazam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+The use of benzodiazepines, including clobazam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
 
-Before Before prescribing clobazam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
-Use of clobazam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of clobazam long with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Before prescribing clobazam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of clobazam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of clobazam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
 Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
 ## 5.3 Dependence and Withdrawal Reactions
 
-To reduce To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2)].
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2)].
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
 Acute Withdrawal Reactions
 
-The continued The continued use of benzodiazepines, including clobazam, may lead to clinically significant physical dependence.
+The continued use of benzodiazepines, including clobazam, may lead to clinically significant physical dependence.
 Abrupt discontinuation or rapid dosage reduction of clobazam after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
 
 Protracted Withdrawal Syndrome
 
-In some In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)].
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)].
 
 ## 5.4 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
 
@@ -73,7 +73,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 2.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |

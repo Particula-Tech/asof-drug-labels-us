@@ -8,7 +8,7 @@ The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully u
 
 Effects on Electrocardiogram
 
-The effect ofclobazam20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
+The effect of clobazam 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
 In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
 Thus, at a dose two times the maximum recommended dose, clobazam did not prolong the QTc interval to any clinically relevant extent.
 
@@ -73,7 +73,7 @@ Hepatic Impairment
 
 There are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
 In a small study, the pharmacokinetics of a 20 mg single oral dose of clobazam in 9 patients with liver impairment were compared to healthy controls (N=6).
-The Cmax and the mean plasma clearance of clobazam, as well as the C max of N-desmethylclobazam, showed no significant change compared to the healthy controls.
+The C max and the mean plasma clearance of clobazam, as well as the C max of N-desmethylclobazam, showed no significant change compared to the healthy controls.
 The AUC values of N-desmethylclobazam in these patients were not available.
 Adjust dosage in patients with hepatic impairment [see Dosage and Administration (2.7)].
 
@@ -122,7 +122,7 @@ Alcohol may have additive CNS depressant effects when taken with clobazam [see W
 ## 12.5 Pharmacogenomics
 
 The polymorphic CYP2C19 is the main enzyme that metabolizes the pharmacologically active N-desmethylclobazam.
-Compared to CYP2C19 extensive metabolizers, N-desmethylclobazam AUC and Cmax are approximately 3 to 5 times higher in poor metabolizers (e.g., subjects with *2/*2 genotype) and 2 times higher in intermediate metabolizers (e.g., subjects with *1/*2 genotype).
+Compared to CYP2C19 extensive metabolizers, N-desmethylclobazam AUC and C max are approximately 3 to 5 times higher in poor metabolizers (e.g., subjects with *2/*2 genotype) and 2 times higher in intermediate metabolizers (e.g., subjects with *1/*2 genotype).
 The prevalence of CYP2C19 poor metabolism differs depending on racial/ethnic background.
 Dosage in patients who are known CYP2C19 poor metabolizers may need to be adjusted [see Dosage and Administration (2.5)].
 

@@ -20,7 +20,7 @@ Instruct patients that discontinuation or dosage reduction of clobazam may requi
 
 Somnolence or Sedation
 
-Advise patients or caregivers to check with their healthcare provider before clobazam is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4,5.5)].
+Advise patients or caregivers to check with their healthcare provider before clobazam is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4, 5.5)].
 
 If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clobazam does not affect them adversely (e.g., impair judgment, thinking or motor skills).
 
@@ -64,8 +64,8 @@ Goa- 403 722, INDIA.
 
 Manufactured for:
 
-Micro Labs USA Inc.
+Micro Labs USA, Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
 
-Revised: February 2021
+Rev.11/2021

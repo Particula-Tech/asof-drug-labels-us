@@ -26,5 +26,4 @@ Carton of (Alu-Alu blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-316-11
 
 Carton of (Alu-PVC/ACLAR blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-316-91
 
-Store tablets at 20°C to 25°C (68°F to 77°F).
-[See USP Controlled Room Temperature].
+Store tablets at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].

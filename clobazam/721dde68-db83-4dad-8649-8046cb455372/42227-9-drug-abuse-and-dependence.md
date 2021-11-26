@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Clobazam tablet contains clobazam which is a Schedule IV controlled substance.
+Clobazam tablet contains clobazam, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 

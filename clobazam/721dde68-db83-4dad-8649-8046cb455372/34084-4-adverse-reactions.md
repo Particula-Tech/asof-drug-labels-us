@@ -29,7 +29,7 @@ Table 3 lists the adverse reactions that occurred in ≥5% of clobazam-treated p
 Table 3.
 Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group
 
-|  | Placebo N=59% | Clobazam Dose Level |  |  | All clobazam N=179% |
+|  | Placebo N=59% | Clobazam Dose Level |  |  | All Clobazam N=179% |
 | --- | --- | --- | --- | --- | --- |
 | Low a N=58% | Medium b N=62% | High c N=59% |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |
