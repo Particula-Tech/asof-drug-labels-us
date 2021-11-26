@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA215078"
+  ],
+  "inn": "formoterol",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-655-01",
+    "62332-655-30",
+    "62332-655-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate",
+      "name": "Formoterol Fumarate"
+    }
+  ],
+  "setid": "07afdf7e-c480-4806-b469-a6a460522bc0",
+  "source": "dailymed"
+}
