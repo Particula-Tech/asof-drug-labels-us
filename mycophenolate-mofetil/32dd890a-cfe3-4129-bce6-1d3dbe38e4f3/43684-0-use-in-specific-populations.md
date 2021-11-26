@@ -83,8 +83,7 @@ Table 7 Acceptable Contraception Methods For Females Of Reproductive Potential P
 | Methods to Use Alone |  |  |  |
 | OR |  |  |  |
 | Option 2 | Hormone Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Hormone MethodAND One Barrier Method | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ring | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge |
-| Progesterone-only InjectionImplant | Male condomFemale condom |  |  |
+| Choose One Hormone MethodAND One Barrier Method | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ring Progesterone-only InjectionImplant | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive spongeMale condomFemale condom |
 | OR |  |  |  |
 | Option 3 | Barrier Methods choose 1 |  | Barrier Methods choose 1 |
 | Choose One Barrier Method from each column (must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
@@ -106,15 +105,15 @@ Safety and effectiveness in pediatric patients receiving allogeneic heart or liv
 ## 8.5 Geriatric Use
 
 Clinical studies of mycophenolate mofetil did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies.
+Other reported clinical experience has not identified differences in responses between geriatric and younger patients.
+In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies.
 [see Adverse Reactions (6.1), Drug Interactions (7)].
 
 ## 8.6 Patients with Renal Impairment
 
 Patients with Kidney Transplant
 
-No dose adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
+No dosage adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
 
 Patients with Heart and Liver Transplant
@@ -126,8 +125,8 @@ Mycophenolate mofetil may be used for heart or liver transplant patients with se
 
 Patients with Kidney Transplant
 
-No dose adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
-However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
+No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
+However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
 
 Patients with Heart Transplant
 

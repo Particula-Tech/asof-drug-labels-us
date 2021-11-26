@@ -12,6 +12,9 @@ It is freely soluble in acetone, soluble in methanol, and sparingly soluble in e
 The apparent partition coefficient in 1-octanol/water (pH 7.4) buffer solution is 238.
 The pKa values for MMF are 5.6 for the morpholino group and 8.5 for the phenolic group.
 
+MMF hydrochloride has a solubility of 65.8 mg/mL in 5% Dextrose Injection USP (D5W).
+The pH of the reconstituted solution is 2.4 to 4.1.
+
 Mycophenolate mofetil is available for oral administration as capsules containing 250 mg of MMF, tablets containing 500 mg of MMF.
 
 Inactive ingredients in mycophenolate mofetil capsules, USP 250 mg include croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone (K-30).

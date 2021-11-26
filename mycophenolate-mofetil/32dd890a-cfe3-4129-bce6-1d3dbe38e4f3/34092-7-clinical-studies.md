@@ -97,4 +97,4 @@ De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplanta
 |  | AZA N = 287 | Mycophenolate Mofetil N = 278 |
 | --- | --- | --- |
 | Biopsy-proven, treated rejection at 6 months (includes death or re- transplantation) | 137 (47.7%) | 107 (38.5%) |
-| Death or re-transplantation at 1 year | 42 (14.6%) | 41 14.7%) |
+| Death or re-transplantation at 1 year | 42 (14.6%) | 41 (14.7%) |

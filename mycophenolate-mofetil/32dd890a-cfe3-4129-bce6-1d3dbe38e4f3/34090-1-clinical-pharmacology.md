@@ -83,7 +83,7 @@ In vivo, MPAG is converted to MPA during enterohepatic recirculation.
 The following metabolites of the 2-hydroxyethyl-morpholino moiety are also recovered in the urine following oral administration of MMF to healthy subjects: N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide of N-(2-hydroxyethyl)-morpholine.
 
 Due to the enterohepatic recirculation of MPAG/MPA, secondary peaks in the plasma MPA concentration-time profile are usually observed 6 to 12 hours post-dose.
-Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdose (10) and Drug Interaction Studies below].
+Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdosage (10) and Drug Interaction Studies below].
 
 Excretion
 
@@ -150,7 +150,7 @@ The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatr
 The pharmacokinetic data for MPA is provided in Table 10.
 
 Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
+Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group | (n) | Time | T max (h) |  | Dose Adjusteda C max (mcg/mL) |  | Dose Adjusteda AUC 0-12 (mcg•h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -248,7 +248,7 @@ Antimicrobials eliminating beta-glucuronidase-producing bacteria in the intestin
 Information concerning antibiotics is as follows:
 
 - Trimethoprim/Sulfamethoxazole: Following single-dose administration of MMF (1.5 g) to 12 healthy male volunteers on day 8 of a 10-day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered twice daily, no effect on the bioavailability of MPA was observed.
-  The mean (±SD) AUC and Cmaxof MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
+  The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of MMF alone.
 - Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil -treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
