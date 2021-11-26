@@ -104,6 +104,8 @@ KEYTRUDA, in combination with axitinib, is indicated for the first-line treatmen
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of adult patients with advanced RCC.
 
+KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions [see Clinical Studies (14.14)].
+
 ## 1.15 Endometrial Carcinoma
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation.
