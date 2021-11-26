@@ -151,3 +151,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
 - •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
+- •Hyponatremia and or/Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings andPrecautions (5.10)].

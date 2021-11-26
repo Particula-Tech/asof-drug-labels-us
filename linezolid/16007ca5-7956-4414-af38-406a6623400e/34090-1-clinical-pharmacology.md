@@ -153,6 +153,7 @@ Concurrent administration of linezolid does not substantially alter the pharmaco
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
 Antibacterial Drugs: Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
+
 Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when administered together.
 
 Antioxidants: The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
@@ -217,7 +218,7 @@ In vitro studies have demonstrated additivity or indifference between linezolid 
 
 Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-positive Bacteria
+Gram-positive bacteria
 
 1. Enterococcus faecium (vancomycin-resistant isolates only)
 2. Staphylococcus aureus (including methicillin-resistant isolates)
@@ -229,7 +230,7 @@ The following in vitro data are available, but their clinical significance is un
 Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-Gram-positive Bacteria
+Gram-positive bacteria
 
 1. Enterococcus faecalis (including vancomycin-resistant isolates)
 2. Enterococcus faecium (vancomycin-susceptible isolates)
@@ -237,7 +238,7 @@ Gram-positive Bacteria
 4. Staphylococcus haemolyticus
 5. Viridans group streptococci
 
-Gram-negative Bacteria
+Gram-negative bacteria
 
 1. Pasteurella multocida
 
