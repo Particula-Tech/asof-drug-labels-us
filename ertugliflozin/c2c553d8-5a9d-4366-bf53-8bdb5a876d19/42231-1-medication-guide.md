@@ -10,7 +10,7 @@
 | Ketoacidosis (increased ketones in your blood or urine). Ketoacidosis has happened in people who have type 1 diabetes or type 2 diabetes during treatment with STEGLUJAN. Ketoacidosis has also happened in people with diabetes who were sick or who had surgery during treatment with STEGLUJAN. Ketoacidosis is a serious condition, which may need to be treated in a hospital. Ketoacidosis may lead to death. Ketoacidosis can happen even if your blood sugar is less than 250 mg/dL. Stop taking STEGLUJAN and call your doctor right away if you get any of the following symptoms: |  |  |  |
 |  | nauseavomitingstomach-area (abdominal) pain |  | tirednesstrouble breathing |
 | If you get any of these symptoms during treatment with STEGLUJAN, if possible check for ketones in your urine, even if your blood sugar is less than 250 mg/dL. |  |  |  |
-| Amputations. STEGLUJAN may increase your risk of lower limb amputations. Amputations mainly involve removal of the toe. You may be at a higher risk of lower limb amputation if you: have a history of amputationhave had blocked or narrowed blood vessels, usually in your leghave damage to the nerves (neuropathy) in your leghave had diabetic foot ulcers or sores |  |  |  |
+| Amputations. STEGLUJAN may increase your risk of lower limb amputations. You may be at a higher risk of lower limb amputation if you: have a history of amputationhave had blocked or narrowed blood vessels, usually in your leghave damage to the nerves (neuropathy) in your leghave had diabetic foot ulcers or sores |  |  |  |
 | Call your doctor right away if you have new pain or tenderness, any sores, ulcers, or infections in your leg or foot. Your doctor may decide to stop your STEGLUJAN for a while if you have any of these signs or symptoms. Talk to your doctor about proper foot care. |  |  |  |
 | Dehydration. STEGLUJAN can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, lightheaded, or weak, especially when you stand up (orthostatic hypotension). There have been reports of sudden worsening of kidney function in people who are taking STEGLUJAN. |  |  |  |
 | You may be at risk of dehydration if you: |  |  |  |
@@ -63,5 +63,5 @@
 | The tablet film coating contains the following inactive ingredients: hypromellose, hydroxypropyl cellulose, titanium dioxide, iron oxide red, iron oxide yellow, ferrosoferric oxide/black iron oxide, and carnauba wax. |  |  |  |
 | Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA |  |  |  |
 | For patent information, go to: www.merck.com/product/patent/home.html Copyright © 2017-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. |  |  |  |
-| usmg-mk8835a-t-2109r003 |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 09/2021 |
+| usmg-mk8835a-t-2111r004 |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 11/2021 |
