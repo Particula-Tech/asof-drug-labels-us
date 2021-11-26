@@ -11,5 +11,4 @@ Sotalol hydrochloride tablets are contraindicated in patients with:
 
 For the treatment of AFIB/AFL, sotalol hydrochloride tablets are also contraindicated in patients with:
 
-- Baseline QT interval >450 ms
-- Creatinine clearance <40 mL/min
+- Baseline QT interval >450 msec
