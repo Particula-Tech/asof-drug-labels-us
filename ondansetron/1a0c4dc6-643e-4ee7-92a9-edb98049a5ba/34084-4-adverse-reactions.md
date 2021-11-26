@@ -2,10 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- •QT prolongation [see Warnings and Precautions (5.2)]
-- •Serotonin syndrome [see Warnings and Precautions (5.3)]
-- •Masking of progressive ileus and gastric distention [see Warnings and Precautions (5.4)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •QT Prolongation [see Warnings and Precautions (5.2)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.3)]
+- •Myocardial Ischemia [see Warnings and Precautions (5.4)]
+- •Masking of Progressive Ileus and Gastric Distension [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -14,13 +15,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The following adverse reactions have been reported in clinical trials of patients treated with ondansetron, the active ingredient of ondansetron.
 A causal relationship to therapy with ondansetron was unclear in many cases.
 
-Prevention of Chemotherapy-induced Nausea and Vomiting
+Prevention of Chemotherapy-Induced Nausea and Vomiting:
 
 The most common adverse reactions reported in greater than or equal to 4% of 300 adults receiving a single 24-mg dose of ondansetron orally in 2 trials for the prevention of nausea and vomiting associated with highly emetogenic chemotherapy (cisplatin greater than or equal to 50 mg/m2) were: headache (11%) and diarrhea (4%).
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
-Table 3: Most Common Adverse Reactions in Adults1 for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in AdultsReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo. for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 | Adverse Reaction | Ondansetron 8 mg Twice Daily(n=242) | Placebo(n=262) |
 | --- | --- | --- |
@@ -29,9 +30,7 @@ Table 3: Most Common Adverse Reactions in Adults1 for the Prevention of Nausea a
 | Constipation | 22 (9%) | 1 (< 1%) |
 | Diarrhea | 15 (6%) | 10 (4%) |
 
-1 Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
-
-Less Common Adverse Reactions:Central Nervous System:Extrapyramidal reactions (less than 1% of patients).
+Less Common Adverse Reactions: Central Nervous System: Extrapyramidal reactions (less than 1% of patients).
 
 Hepatic: Aspartate transaminase (AST) and/or alanine transaminase (ALT) values exceeded twice the upper limit of normal in approximately 1% to 2% of 723 patients receiving ondansetron and cyclophosphamide-based chemotherapy in US clinical trials.
 The increases were transient and did not appear to be related to dose or duration of therapy.
@@ -43,19 +42,19 @@ The etiology of the liver failure is unclear.
 
 Integumentary: Rash (approximately 1% of patients).
 
-Other (Less Than 2%): Anaphylaxis, bronchospasm, tachycardia, angina, hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures.
+Other (less than 2%): Anaphylaxis, bronchospasm, tachycardia, angina, hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures.
 Except for bronchospasm and anaphylaxis, the relationship to ondansetron is unclear.
 
-Prevention of Radiation-induced Nausea and Vomiting
+Prevention of Radiation-Induced Nausea and Vomiting:
 
 The most common adverse reactions (greater than or equal to 2%) reported in patients receiving ondansetron and concurrent radiotherapy were similar to those reported in patients receiving ondansetron and concurrent chemotherapy and were headache, constipation, and diarrhea.
 
-Prevention of Postoperative Nausea and Vomiting
+Prevention of Postoperative Nausea and/or Vomiting:
 
 The most common adverse reactions reported in adults in trial(s) of prevention of postoperative nausea and vomiting are shown in Table 4.
 In these trial(s), patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
 
-Table 4: Most Common Adverse Reactions in Adults1 for the Prevention of Postoperative Nausea and Vomiting
+Table 4: Most Common Adverse Reactions in AdultsReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo. for the Prevention of Postoperative Nausea and Vomiting
 
 | Adverse Reaction | Ondansetron 16 mg as a Single Dose(n=550) | Placebo(n=531) |
 | --- | --- | --- |
@@ -63,47 +62,33 @@ Table 4: Most Common Adverse Reactions in Adults1 for the Prevention of Postoper
 | Hypoxia | 49 (9%) | 35 (7%) |
 | Pyrexia | 45 (8%) | 34 (6%) |
 | Dizziness | 36 (7%) | 34 (6%) |
-| Gynecological Disorder | 36 (7%) | 33 (6%) |
+| Gynecological disorder | 36 (7%) | 33 (6%) |
 | Anxiety/Agitation | 33 (6%) | 29 (5%) |
 | Urinary retention | 28 (5%) | 18 (3%) |
 | Pruritus | 27 (5%) | 20 (4%) |
 
-1 Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
-
-In a crossover study with 25 subjects, headache was reported in 6 subjects administered ondansetron orally dissolving tablets with water (24%) as compared with 2 subjects administered ondansetron orally dissolving tablets without water (8%).
+In a crossover study with 25 subjects, headache was reported in 6 subjects administered ondansetron orally disintegrating tablets with water (24%) as compared with 2 subjects administered ondansetron orally disintegrating tablets without water (8%).
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of ondansetron.
+The following adverse reactions have been identified during postapproval use of ondansetron.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular
-
-Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT/QTc interval prolongation, and ST segment depression), palpitations, and syncope.
+Cardiovascular: Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT/QTc interval prolongation, and ST segment depression), palpitations, and syncope.
 Rarely and predominantly with intravenous ondansetron, transient ECG changes, including QT interval prolongation have been reported.
 
-General
+Myocardial ischemia was reported predominately with intravenous administration [see Warnings and Precautions (5.4)].
 
-Flushing: Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
+General: Flushing: Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
 Laryngospasm, shock, and cardiopulmonary arrest have occurred during allergic reactions in patients receiving injectable ondansetron.
 
-Hepatobiliary
+Hepatobiliary: Liver enzyme abnormalities.
 
-Liver enzyme abnormalities.
+Lower Respiratory: Hiccups.
 
-Lower Respiratory
+Neurology: Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
 
-Hiccups.
+Skin: Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
 
-Neurology
-
-Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
-
-Skin
-
-Urticaria, Stevens-Johnson Syndrome, and toxic epidermal necrolysis.
-
-Eye Disorders
-
-Cases of transient blindness, predominantly during intravenous administration, have been reported.
+Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

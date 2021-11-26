@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ondansetron Oral Solution USP
+Ondansetron Oral Solution, USP
 
 4 mg/5 mL oral solution is supplied as a (strawberry-flavored) clear, colorless solution.
 

@@ -4,7 +4,7 @@
 
 Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including SSRIs and SNRIs.
 Monitor for the emergence of serotonin syndrome.
-If symptoms occur, discontinue ondansetron and initiate supportive treatment [see Warnings and Precautions (5.3)]
+If symptoms occur, discontinue ondansetron and initiate supportive treatment [see Warnings and Precautions (5.3)].
 
 ## 7.2 Drugs Affecting Cytochrome P-450 Enzymes
 

@@ -16,7 +16,7 @@ In healthy subjects, single intravenous doses of 0.15 mg/kg of ondansetron had n
 Multiday administration of ondansetron has been shown to slow colonic transit in healthy subjects.
 Ondansetron has no effect on plasma-prolactin concentrations.
 
-Cardiac Electrophysiology
+Cardiac Electrophysiology:
 
 QTc interval prolongation was studied in a double-blind, single intravenous dose, placebo- and positive-controlled, crossover trial in 58 healthy subjects.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 19.5 (21.8) milliseconds and 5.6 (7.4) milliseconds after 15-minute intravenous infusions of 32 mg and 8 mg of ondansetron injection, respectively.
@@ -27,27 +27,19 @@ In this study, the 8-mg dose infused over 15 minutes did not prolong the QT inte
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-Ondansetron is absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
+Absorption: Ondansetron is absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
 Mean bioavailability in healthy subjects, following administration of a single 8-mg tablet, is approximately 56%.
 
 Ondansetron systemic exposure does not increase proportionately to dose.
 The area under curve (AUC) from a 16-mg tablet was 24% greater than predicted from an 8-mg tablet dose.
 This may reflect some reduction of first-pass metabolism at higher oral doses.
 
-Food Effects
+Food Effects: Bioavailability is also slightly enhanced by the presence of food.
 
-Bioavailability is also slightly enhanced by the presence of food.
-
-Distribution
-
-Plasma protein binding of ondansetron as measured in vitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
+Distribution: Plasma protein binding of ondansetron as measured in vitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
 Circulating drug also distributes into erythrocytes.
 
-Elimination
-
-Metabolism and Excretion: Ondansetron is extensively metabolized in humans, with approximately 5% of a radiolabeled dose recovered as the parent compound from the urine.
+Elimination: Metabolism and Excretion: Ondansetron is extensively metabolized in humans, with approximately 5% of a radiolabeled dose recovered as the parent compound from the urine.
 The metabolites are observed in the urine.
 The primary metabolic pathway is hydroxylation on the indole ring followed by subsequent glucuronide or sulfate conjugation.
 
@@ -57,9 +49,7 @@ Because of the multiplicity of metabolic enzymes capable of metabolizing ondanse
 
 Although some nonconjugated metabolites have pharmacologic activity, these are not found in plasma at concentrations likely to significantly contribute to the biological activity of ondansetron.
 
-Specific Populations
-
-Age: Geriatric Population: A reduction in clearance and increase in elimination half-life are seen in patients older than 75 years compared to younger subjects [see Use in Specific Populations (8.5)].
+Specific Populations: Age: Geriatric Population: A reduction in clearance and increase in elimination half-life are seen in patients older than 75 years compared to younger subjects [see Use in Specific Populations (8.5)].
 
 Sex: Gender differences were shown in the disposition of ondansetron given as a single dose.
 The extent and rate of absorption are greater in women than men.
@@ -68,7 +58,7 @@ These higher plasma concentrations may in part be explained by differences in bo
 It is not known whether these sex-related differences were clinically important.
 More detailed pharmacokinetic information is contained in Tables 5 and 6.
 
-Table: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 8-mg Tablet
+Table 5: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 8-mg Tablet
 
 | Age-group (years) Sex (M/F) |  |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -76,10 +66,10 @@ Table: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose 
 | F |  | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |  |
 | 61 to 74 | M |  | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
 | F |  | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |  |
-| ≥75 |  | M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
+| ≥ 75 |  | M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |  |  |
 
-Table: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 24-mg Tablet
+Table 6: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 24-mg Tablet
 
 | Age-group (years) Sex (M/F) |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -93,7 +83,7 @@ The reduction in clearance was variable and not consistent with an increase in h
 Hepatic Impairment: In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared with 5.7 hours in healthy subjects.
 In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
-Drug Interaction Studies
+Drug Interaction Studies:
 
 CYP 3A4 Inducers: Ondansetron elimination may be affected by cytochrome P-450 inducers.
 In a pharmacokinetic trial of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, a reduction in AUC, Cmax, and t½ of ondansetron was observed.

@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Ondansetronis indicated for the prevention of nausea and vomiting associated with:
+Ondansetron is indicated for the prevention of nausea and vomiting associated with:
 
 - •highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2.
 - •initial and repeat courses of moderately emetogenic cancer chemotherapy.

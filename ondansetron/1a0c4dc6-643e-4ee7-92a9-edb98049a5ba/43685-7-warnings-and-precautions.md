@@ -14,18 +14,25 @@ ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., 
 
 ## 5.3 Serotonin Syndrome
 
-The development of serotonin syndrome has been reported with 5- HT3 receptor antagonists alone.
+The development of serotonin syndrome has been reported with 5-HT3 receptor antagonists alone.
 Most reports have been associated with concomitant use of serotonergic drugs (e.g., selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), monoamine oxidase inhibitors, mirtazapine, fentanyl, lithium, tramadol, and intravenous methylene blue).
 Some of the reported cases were fatal.
 Serotonin syndrome occurring with overdose of ondansetron alone has also been reported.
-The majority of reports of serotonin syndrome related to 5- HT3 receptor antagonist use occurred in a post-anesthesia care unit or an infusion center.
+The majority of reports of serotonin syndrome related to 5-HT3 receptor antagonist use occurred in a post-anesthesia care unit or an infusion center.
 
 Symptoms associated with serotonin syndrome may include the following combination of signs and symptoms: mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, with or without gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of ondansetron and other serotonergic drugs.
 If symptoms of serotonin syndrome occur, discontinue ondansetron and initiate supportive treatment.
 Patients should be informed of the increased risk of serotonin syndrome, especially if ondansetron is used concomitantly with other serotonergic drugs [see Drug Interactions (7.1), Overdosage (10)].
 
-## 5.4 Masking of Progressive Ileus and Gastric Distension
+## 5.4 Myocardial Ischemia
+
+Myocardial ischemia has been reported in patients treated with ondansetron.
+In some cases, predominantly during intravenous administration, the symptoms appeared immediately after administration but resolved with prompt treatment.
+Coronary artery spasm appears to be the most common underlying cause.
+Therefore, monitor or advise patients for signs or symptoms of myocardial ischemia after oral administration of ondansetron [see Adverse Reactions (6.2)].
+
+## 5.5 Masking of Progressive Ileus and Gastric Distension
 
 The use of ondansetron in patients following abdominal surgery or in patients with chemotherapy-induced nausea and vomiting may mask a progressive ileus and/or gastric distension.
 Monitor for decreased bowel activity, particularly in patients with risk factors for gastrointestinal obstruction.

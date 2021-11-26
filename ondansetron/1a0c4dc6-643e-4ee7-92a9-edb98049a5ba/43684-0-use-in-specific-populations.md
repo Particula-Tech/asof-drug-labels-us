@@ -2,17 +2,17 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 Published epidemiological studies on the association between ondansetron use and major birth defects have reported inconsistent findings and have important methodological limitations that preclude conclusions about the safety of ondansetron use in pregnancy [see Data].
 Available postmarketing data have not identified a drug-associated risk of miscarriage or adverse maternal outcomes.
-Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered during organogenesis at approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, based on body surface area, respectively [see Data].
+Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered during organogenesis at approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, based on body surface area (BSA), respectively [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, miscarriages, or other adverse outcomes.
 In the US general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Data
+Data:
 
 Human Data: Available data on ondansetron use in pregnant women from several published epidemiological studies preclude an assessment of a drug-associated risk of adverse fetal outcomes due to important methodological limitations, including the uncertainty of whether women who filled a prescription actually took the medication, the concomitant use of other medications or treatments, recall bias, and other unadjusted confounders.
 
@@ -31,15 +31,15 @@ It is unknown whether ondansetron exposure in utero in the cases of cleft palate
 
 Animal Data: In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of ondansetron up to 15 mg/kg/day and 30 mg/kg/day, respectively, during the period of organogenesis.
 With the exception of a slight decrease in maternal body weight gain in the rabbits, there were no significant effects of ondansetron on the maternal animals or the development of the offspring.
-At doses of 15 mg/kg/day in rats and 30 mg/kg/day in rabbits, the maternal exposure margin was approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, respectively, based on body surface area.
+At doses of 15 mg/kg/day in rats and 30 mg/kg/day in rabbits, the maternal exposure margin was approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, respectively, based on BSA.
 
-In a pre-and postnatal developmental toxicity study, pregnant rats received oral doses of ondansetron up to 15 mg/kg/day from Day 17 of pregnancy to litter Day 21.
-With the exception of a slight reduction in maternal body weight gain, there were no effects upon the pregnant rats and the pre-and postnatal development of their offspring, including reproductive performance of the mated F1 generation.
-At a dose of 15 mg/kg/day in rats, the maternal exposure margin was approximately 6 times the maximum recommended human oral dose of 24 mg/day, based on body surface area.
+In a pre- and postnatal developmental toxicity study, pregnant rats received oral doses of ondansetron up to 15 mg/kg/day from Day 17 of pregnancy to litter Day 21.
+With the exception of a slight reduction in maternal body weight gain, there were no effects upon the pregnant rats and the pre- and postnatal development of their offspring, including reproductive performance of the mated F1 generation.
+At a dose of 15 mg/kg/day in rats, the maternal exposure margin was approximately 6 times the maximum recommended human oral dose of 24 mg/day, based on BSA.
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 It is not known whether ondansetron is present in human milk.
 There are no data on the effects of ondansetron on the breastfed infant or the effects on milk production.

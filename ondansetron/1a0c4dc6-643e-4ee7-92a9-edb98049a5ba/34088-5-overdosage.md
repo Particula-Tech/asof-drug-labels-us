@@ -3,7 +3,7 @@
 There is no specific antidote for ondansetron overdose.
 Patients should be managed with appropriate supportive therapy.
 
-In addition to the adverse reactions listed above, the following adverse reactions have been described in the setting of ondansetron overdose: “Sudden blindness” (amaurosis) of 2 to 3 minutes’ duration plus severe constipation occurred in 1 patient that was administered 72 mg of ondansetron intravenously as a single dose.
+In addition to the adverse reactions listed above, the following adverse reactions have been described in the setting of ondansetron overdose: “Sudden blindness” (amaurosis) of 2 to 3 minutes’ duration plus severe constipation occurred in one patient that was administered 72 mg of ondansetron intravenously as a single dose.
 Hypotension (and faintness) occurred in a patient that took 48 mg of ondansetron tablets.
 Following infusion of 32 mg over only a 4-minute period, a vasovagal episode with transient second-degree heart block was observed.
 In all instances, the adverse reactions resolved completely.
