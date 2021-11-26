@@ -25,7 +25,7 @@ Clearance does not appear to be dose dependent.
 
 Distribution
 
-In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the volume of distribution was165 (108-219) mL/kg.
+In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the volume of distribution was 165 (108-219) mL/kg.
 
 Elimination
 
