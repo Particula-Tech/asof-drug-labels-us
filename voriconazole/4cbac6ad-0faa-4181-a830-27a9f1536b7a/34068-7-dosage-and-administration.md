@@ -35,19 +35,19 @@ Table 1: Recommended Dosing Regimen (Adults)
 | Esophageal Candidiasis | Not Evaluatedf | Not Evaluatedf | 200 mg every 12 hours |
 | Scedosporiosis and Fusariosis | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
 
-aIncrease dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
+a Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
 
-bIn healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
+b In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
 
-cAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
+c Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
 
-dIn a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
+d In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
 The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) (14.1).
 
-eIn clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
+e In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
 Appropriate dose should be based on the severity and nature of the infection.
 
-fNot evaluated in patients with EC.
+f Not evaluated in patients with EC.
 
 Method for Adjusting the Dosing Regimen in Adults If patient’s response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg intravenously every 12 hours) to 300 mg every 12 hours (similar to 4 mg/kg intravenously every 12 hours).
 For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
@@ -104,13 +104,12 @@ In patients with moderate or severe renal impairment (creatinine clearance <50 m
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral voriconazole therapy [see Warnings and Precautions (5.7)].
 
-Voriconazole is hemodialyzed with clearance of 121 mL/min.
-The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
+Voriconazole and the intravenous vehicle, SBECD, are dialyzable.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment [see Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 
-Dosage adjustment of Voriconazole in pediatric patients with renal impairment has not been established [see Use in Specific Populations (8.4)].
+Dosage adjustment of voriconazole in pediatric patients with renal impairment has not been established [see Use in Specific Populations (8.4)].
 
 ## 2.7 Dosage Adjustment When Co-Administered With Phenytoin or Efavirenz
 

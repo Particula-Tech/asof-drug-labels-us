@@ -21,12 +21,12 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
 
-| •cisapride | •pimozide | •quinidine |
+| ocisapride | opimozide | oquinidine |
 | --- | --- | --- |
-| •sirolimus | •rifampin | •carbamazepine |
-| •long-acting barbiturates like phenobarbital | •efavirenz | •ritonavir |
-| •rifabutin | •ergotamine, dihydroergotamine (ergot alkaloids) | •St. John’s Wort (herbal supplement) |
-| •naloxegol | •tolvaptan | •Ivabradine•venetoclax |
+| osirolimus | orifampin | ocarbamazepine |
+| olong-acting barbiturates like phenobarbital | oefavirenz | oritonavir |
+| orifabutin | oergotamine, dihydroergotamine (ergot alkaloids) | oSt. John’s Wort (herbal supplement) |
+| onaloxegoloivabradineovenetoclax | otolvaptan | olurasidone |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
@@ -51,7 +51,7 @@ Before you take voriconazole tablets, tell your healthcare provider about all of
   It is not known if voriconazole passes into breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the -counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
 Voriconazole tablets may affect the way other medicines work, and other medicines may affect how voriconazole tablets work.
 
@@ -84,24 +84,24 @@ Voriconazole tablets may cause serious side effects including:
 - •liver problems.
   Symptoms of liver problems may include:
 
-| •itchy skin | •yellowing of your eyes | •feeling very tired |
+| oitchy skin | oyellowing of your eyes | ofeeling very tired |
 | --- | --- | --- |
-| •flu-like symptoms | •nausea or vomiting |  |
+| oflu-like symptoms | onausea or vomiting |  |
 
 - •vision changes.
   Symptoms of vision changes may include:
-- •blurred vision
-- •changes in the way you see colors
-- •sensitivity to light (photophobia)
+- oblurred vision
+- ochanges in the way you see colors
+- osensitivity to light (photophobia)
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
   Symptoms of an allergic reaction may include:
 
-| •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
+| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
 | --- | --- | --- |
-| •chest tightness | •trouble breathing | •feel faint |
-| •nausea | •itching | •skin rash |
+| ochest tightness | otrouble breathing | ofeel faint |
+| onausea | oitching | oskin rash |
 
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
@@ -118,17 +118,17 @@ Voriconazole tablets may cause serious side effects including:
   - •Voriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
 - Symptoms of adrenal insufficiency include:
 
-| •feeling tired | • lack of energy | •weakness |
+| ofeeling tired | o lack of energy | oweakness |
 | --- | --- | --- |
-| • nausea and vomiting | • feeling dizzy or lightheaded | •weight loss |
-| • abdominal pain |  |  |
+| o nausea and vomiting | o feeling dizzy or lightheaded | oweight loss |
+| o abdominal pain |  |  |
 
 Symptoms of Cushing’s syndrome include:
 
-| •weight gain | •fatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | •darkening of the skin on the •stomach, thighs, breasts, and arms |
+| oweight gain | ofatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | odarkening of the skin on the ostomach, thighs, breasts, and arms |
 | --- | --- | --- |
-| •thinning skin | •bruising easily | •high blood sugar |
-| •excessive hair growth | •excessive sweating |  |
+| othinning skin | obruising easily | ohigh blood sugar |
+| oexcessive hair growth | oexcessive sweating |  |
 
 - •bone problems.
   Voriconazole may cause weakening of bones and bone pain.
@@ -140,10 +140,10 @@ listed above.
 
 The most common side effects of voriconazole tablets in adults include:
 
-| •vision changes | •rash | •vomiting |
+| ovision changes | orash | ovomiting |
 | --- | --- | --- |
-| •nausea | •headache | •fast heart beat (tachycardia) |
-| •hallucinations (seeing or hearing things that are not there) | •abnormal liver function tests•chills | •fever |
+| onausea | oheadache | ofast heart beat (tachycardia) |
+| ohallucinations (seeing or hearing things that are not there) | oabnormal liver function testsochills | ofever |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -159,7 +159,7 @@ How should I store voriconazole tablets?
 - •Safely throw away medicine that is out of date or no longer needed.
 - •Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
 
-General information about the safe and effective use of voriconazole tablets
+General information about the safe and effective use of voriconazole tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use voriconazole tablets for a condition for which it was not prescribed.
@@ -170,7 +170,7 @@ You can ask your healthcare provider or pharmacist for information about voricon
 
 What are the ingredients of voriconazole tablets?
 
-Active ingredient: voriconazole
+Active ingredient: voriconazole.
 
 Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, pregelatinized starch, povidone, talc, and coating material containing hypromellose, lactose monohydrate, titanium dioxide, and triacetin.
 
@@ -189,6 +189,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-May 2021
+November 2021
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

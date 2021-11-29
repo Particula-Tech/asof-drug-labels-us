@@ -1,6 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling: Hepatic Toxicity [see Warnings and Precautions (5.1)] Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)] Visual Disturbances [see Warnings and Precautions (5.4)] Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)] Photosensitivity [see Warnings and Precautions (5.6)] Renal Toxicity [see Warnings and Precautions (5.7)]
+The following serious adverse reactions are described elsewhere in the labeling:
+
+Hepatic Toxicity [see Warnings and Precautions (5.1)] Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)] Visual Disturbances [see Warnings and Precautions (5.4)] Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)] Photosensitivity [see Warnings and Precautions (5.6)] Renal Toxicity [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,14 +23,14 @@ Five hundred sixty one patients had a duration of voriconazole therapy of greate
 Table 4 includes all adverse reactions which were reported at an incidence of ≥2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of <2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy (OLAT) in the primary treatment of patients with acute IA.
-The rate of discontinuation from voriconazole study medication due to adverse events was 21.4% (42/196 patients).
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 21.4% (42/196 patients).
 In study 608, 403 patients with candidemia were treated to compare voriconazole (272 patients) to the regimen of amphotericin B followed by fluconazole (131 patients).
-The rate of discontinuation from voriconazole study medication due to adverse events was 19.5% out of 272 patients.
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 19.5% out of 272 patients.
 Study 305 evaluated the effects of oral voriconazole (200 patients) and oral fluconazole (191 patients) in the treatment of EC.
-The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
+The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown†
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -84,7 +86,7 @@ The ERG measures electrical currents in the retina.
 These effects were noted early in administration of voriconazole and continued through the course of study drug treatment.
 Fourteen days after the end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.4)].
 Dermatological Reactions Dermatological reactions were common in patients treated with voriconazole.
-The mechanism underlying these dermatologic adverse events remains unknown.
+The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
@@ -140,15 +142,15 @@ Table 5: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 | T. Bilirubin | >1.5x ULN | 8/185 (4.3) | 7/186 (3.8) |
 | AST | >3x ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3x ULN | 20/187 (10.7) | 12/186 (6.5) |
-| Alkaline phosphatase | >3x ULN | 19/187 (10.2) | 14/186 (7.5) |
+| Alkaline Phosphatase | >3x ULN | 19/187 (10.2) | 14/186 (7.5) |
 
 *Without regard to baseline value
 
-n=number of patients with a clinically significant abnormality while on study therapy
+n = number of patients with a clinically significant abnormality while on study therapy
 
-N=total number of patients with at least one observation of the given lab test while on study therapy
+N = total number of patients with at least one observation of the given lab test while on study therapy
 
-AST=Aspartate aminotransferase; ALT= alanine aminotransferase ULN=upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -156,7 +158,7 @@ AST=Aspartate aminotransferase; ALT= alanine aminotransferase ULN=upper limit of
 | T. Bilirubin | >1.5x ULN | 35/180 (19.4) | 46/173 (26.6) |
 | AST | >3x ULN | 21/180 (11.7) | 18/174 (10.3) |
 | ALT | >3x ULN | 34/180 (18.9) | 40/173 (23.1) |
-| Alkaline phosphatase | >3x ULN | 29/181 (16) | 38/173 (22) |
+| Alkaline Phosphatase | >3x ULN | 29/181 (16) | 38/173 (22) |
 | Creatinine | >1.3x ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9x LLN | 30/181 (16.6) | 70/178 (39.3) |
 
@@ -164,15 +166,15 @@ AST=Aspartate aminotransferase; ALT= alanine aminotransferase ULN=upper limit of
 
 ** Amphotericin B followed by other licensed antifungal therapy
 
-n=number of patients with a clinically significant abnormality while on study therapy
+n = number of patients with a clinically significant abnormality while on study therapy
 
-N=total number of patients with at least one observation of the given lab test while on study therapy
+N = total number of patients with at least one observation of the given lab test while on study therapy
 
-AST = Aspartate aminotransferase; ALT= alanine aminotransferase
+AST = Aspartate aminotransferase; ALT = alanine aminotransferase
 
-ULN=upper limit of normal
+ULN = upper limit of normal
 
-LLN=lower limit of normal
+LLN = lower limit of normal
 
 Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
@@ -182,7 +184,7 @@ Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laborat
 | T. Bilirubin | >1.5x ULN | 50/261 (19.2) | 31/115 (27) |
 | AST | >3x ULN | 40/261 (15.3) | 16/116 (13.8) |
 | ALT | >3x ULN | 22/261 (8.4) | 15/116 (12.9) |
-| Alkaline phosphate | >3x ULN | 59/261 (22.6) | 26/115 (22.6) |
+| Alkaline Phosphatase | >3x ULN | 59/261 (22.6) | 26/115 (22.6) |
 | Creatinine | >1.3x ULN | 39/260 (15) | 32/118 (27.1) |
 | Potassium | <0.9x LLN | 43/258 (16.7) | 35/118 (29.7) |
 
@@ -202,8 +204,8 @@ Clinical Trials Experience in Pediatric Patients The safety of voriconazole was 
 Hepatic-Related Adverse Reactions in Pediatric Patients The frequency of hepatic-related adverse reactions in pediatric patients exposed to voriconazole in therapeutic studies was numerically higher than that of adults (28.6% compared to 24.1%, respectively).
 The higher frequency of hepatic adverse reactions in the pediatric population was mainly due to an increased frequency of liver enzyme elevations (21.9% in pediatric patients compared to 16.1% in adults), including transaminase elevations (ALT and AST combined) 7.6% in the pediatric patients compared to 5.1% in adults.
 
-- Additional pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 

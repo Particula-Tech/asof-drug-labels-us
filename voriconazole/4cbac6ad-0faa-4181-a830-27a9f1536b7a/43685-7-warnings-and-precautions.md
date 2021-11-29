@@ -12,7 +12,7 @@ Hepatic function should be monitored in both adult and pediatric patients.
 
 Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
-If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
+If liver function tests become markedly elevated compared to baseline, voriconazole should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
 ## 5.2 Arrhythmias and QT Prolongation
 
@@ -22,7 +22,7 @@ These cases usually involved seriously ill patients with multiple confounding ri
 
 Voriconazole should be administered with caution to patients with potentially proarrhythmic conditions, such as:
 
-- •Congenital or acquired QT-prolongation
+- •Congenital or acquired QT prolongation
 - •Cardiomyopathy, in particular when heart failure is present
 - •Sinus bradycardia
 - •Existing symptomatic arrhythmias
@@ -33,13 +33,13 @@ Rigorous attempts to correct potassium, magnesium and calcium should be made bef
 ## 5.4 Visual Disturbances
 
 The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.
-There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
+There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.5 Severe Cutaneous Adverse Reactions
 
 Severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported during treatment with voriconazole.
-If a patient develops a severe cutaneous adverse reaction, voriconazole tablets should be discontinued [see Adverse Reactions (6.1, 6.2)].
+If a patient develops a severe cutaneous adverse reaction, voriconazole should be discontinued [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.6 Photosensitivity
 
@@ -80,6 +80,7 @@ Patients should be instructed to seek immediate medical care if they develop sig
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
 In animals, voriconazole administration was associated with fetal malformations, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
+
 If voriconazole is used during pregnancy, or if the patient becomes pregnant while taking voriconazole, inform the patient of the potential hazard to the fetus.
 Advise females of reproductive potential to use effective contraception during treatment with voriconazole [see Use in Specific Populations (8.3)].
 
