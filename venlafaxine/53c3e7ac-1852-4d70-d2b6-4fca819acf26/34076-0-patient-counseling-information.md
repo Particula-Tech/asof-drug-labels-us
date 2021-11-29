@@ -52,7 +52,7 @@ Serum Cholesterol and Triglyceride Elevation
 
 Advise patients that elevations in total cholesterol, LDL and triglycerides may occur and that measurement of serum lipids may be considered [see Warnings and Precautions (6.3)].
 
-Discontinuation [Symptoms]
+Discontinuation Syndrome
 
 Advise patients not to stop taking Effexor XR without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping Effexor XR [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].

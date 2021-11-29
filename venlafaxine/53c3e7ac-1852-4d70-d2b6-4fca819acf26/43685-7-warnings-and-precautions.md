@@ -117,7 +117,7 @@ Table 2: Incidence (%) of Mania or Hypomania Reported in Effexor XR Treated Pati
 Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, including prospective analyses of clinical studies in GAD and retrospective surveys of studies in MDD and SAD.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
 Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock-like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
-These events are generally self-limited.
+
 There have been postmarketing reports of serious discontinuation symptoms which can be protracted and severe.
 Completed suicide, suicidal thoughts, aggression and violent behavior have been observed in patients during reduction in Effexor XR dosage, including during discontinuation.
 Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of Effexor XR.

@@ -124,7 +124,8 @@ Talk to your healthcare provider if you develop any changes in your sexual funct
 There may be treatments your healthcare provider can suggest.
 
 Do not stop EFFEXOR XR without first talking to your healthcare provider.
-Stopping EFFEXOR XR too quickly or changing from another antidepressant too quickly may cause serious symptoms including (in some patients these symptoms can be severe and last for long time):
+Stopping EFFEXOR XR too quickly or changing from another antidepressant too quickly may cause serious symptoms.
+Symptoms may include the following (some of which can be severe and last for a long time):
 
 - anxiety, irritability, aggressiveness, violent behavior
 - feeling tired, restless or problems sleeping
@@ -305,6 +306,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-9.0
+LAB-0542-10
 
-Revised: July 2021
+Revised: November 2021
