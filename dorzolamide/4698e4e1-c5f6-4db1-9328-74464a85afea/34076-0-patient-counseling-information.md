@@ -37,10 +37,12 @@ Manufactured by:
 
 Micro Labs Limited
 
-Bangalore – 560 099, India.
+Bangalore – 560 099, INDIA.
 
 Manufactured for:
 
 Micro Labs USA Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
+
+Rev.10/2021

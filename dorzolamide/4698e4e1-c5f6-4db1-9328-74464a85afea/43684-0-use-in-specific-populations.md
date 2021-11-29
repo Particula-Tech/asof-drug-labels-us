@@ -47,7 +47,7 @@ Lactating rats were dosed orally with 7.5 mg/kg/day of dorzolamide hydrochloride
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of dorzolamide hydrochloride ophthalmic solution h ave been demonstrated in pediatric patients in a 3- m onth, m ulticenter, doubl e- m asked, activ e-treatment-controlled trial.
+Safety and effectiveness of dorzolamide hydrochloride ophthalmic solution have been demonstrated in pediatric patients in a 3-month, multicenter, double-masked, active-treatment-controlled trial.
 
 ## 8.5 Geriatric Use
 
@@ -55,7 +55,7 @@ No overall differences in safety or effectiveness have been observed between eld
 
 ## 8.6 Renal and Hepatic Impairment
 
-Dorzolamide has not been studied in patients with severe renal impairment (CrCl < 30 m L / m in).
+Dorzolamide has not been studied in patients with severe renal impairment (CrCl < 30 mL/min).
 Because dorzolamide and its metabolite are excreted predominantly by the kidney, dorzolamide hydrochloride ophthalmic solution is not recommended in such patients.
 
-Dorzolamide has not been studied in patients with hepatic impairment and should therefore be used with caution in such patient s.
+Dorzolamide has not been studied in patients with hepatic impairment and should therefore be used with caution in such patients.

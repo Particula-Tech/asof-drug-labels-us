@@ -2,8 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a tw o - y ear study of dorzolamide hydrochloride administered orally to male and female Spragu e- Dawley rats, urinary bladder papillomas were seen in male rats in the highest dosage group of 20 m g / kg/day.
-Papillomas were not seen in rats g iven oral doses of 1 m g / k g/da y. These doses represent estimated plasma C max levels in rats, 138 and 7 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
+In a two-year study of dorzolamide hydrochloride administered orally to male and female Sprague- Dawley rats, urinary bladder papillomas were seen in male rats in the highest dosage group of 20 mg/kg/day.
+Papillomas were not seen in rats given oral doses of 1 mg/kg/day.
+These doses represent estimated plasma C max levels in rats, 138 and 7 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
 
 No treatment-related tumors were seen in a 21-month study in female and male mice given oral doses up to 75 mg/kg/day.
 This dose represents an estimated plasma C max level in mice, 582 times higher than the lower limit of detection in human plasma following ocular administration.

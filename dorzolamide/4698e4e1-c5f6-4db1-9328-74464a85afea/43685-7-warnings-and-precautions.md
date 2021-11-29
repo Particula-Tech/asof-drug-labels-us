@@ -15,15 +15,15 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 ## 5.3 Corneal Endothelium
 
-Carbonic anhydrase activity has been observed in both the cytoplasm and around the plasma m e m branes of the corneal endothelium.
-There is an increased potential for developing corneal ede ma in patients with low endothelial cell counts.
+Carbonic anhydrase activity has been observed in both the cytoplasm and around the plasma membranes of the corneal endothelium.
+There is an increased potential for developing corneal edema in patients with low endothelial cell counts.
 Caution should be used when prescribing dorzolamide hydrochloride ophthalmic solution to this group of patients.
 
 ## 5.4 Allergic Reactions
 
 In clinical studies, local ocular adverse effects, primarily conjunctivitis and lid reactions, were reported with chronic administration of dorzolamide hydrochloride ophthalmic solution.
-Many of these reactions had the clinical appearance and course of an allergi c- t ype reaction that resolved upon discontinuation of drug therapy.
-If such reactions are observed, dorzolamide hydrochloride ophthalmic solution should be discontinued and the patient evaluated before consider ing restarting the drug [see Adverse Reactions (6)].
+Many of these reactions had the clinical appearance and course of an allergic-type reaction that resolved upon discontinuation of drug therapy.
+If such reactions are observed, dorzolamide hydrochloride ophthalmic solution should be discontinued and the patient evaluated before considering restarting the drug [see Adverse Reactions (6)].
 
 ## 5.5 Acute Angle-Closure Glaucoma
 
