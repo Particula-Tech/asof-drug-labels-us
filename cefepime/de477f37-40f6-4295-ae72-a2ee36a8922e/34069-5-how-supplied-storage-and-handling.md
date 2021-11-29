@@ -5,7 +5,7 @@ How Supplied
 Cefepime for Injection, USP is supplied as follows:
 
 Cefepime for Injection, USP in the dry state, is a white to pale yellow powder.
-Constituted solutions of Cefepime for Injection, USP can range in color from pale yellow to amber.
+Constituted solution of Cefepime for Injection, USP can range in color from pale yellow to amber.
 
 | NDC | Cefepime for Injection, USP | Package Factor |
 | --- | --- | --- |
