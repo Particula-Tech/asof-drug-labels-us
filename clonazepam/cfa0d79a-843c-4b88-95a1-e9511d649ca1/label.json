@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017533"
+  ],
+  "inn": "clonazepam",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-605-10",
+    "61269-610-10",
+    "61269-620-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Klonopin"
+    }
+  ],
+  "setid": "cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+  "source": "dailymed"
+}
