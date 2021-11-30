@@ -103,14 +103,16 @@ As with all antidepressants, PRISTIQ should be used cautiously in patients with 
 
 ## 5.7 Discontinuation Syndrome
 
-Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended [see Dosage and Administration (2.5), Adverse Reactions (6.1)].
-While these events are generally self-limited, there have been postmarketing reports of serious discontinuation symptoms, which can be protracted and severe.
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures [see Adverse Reactions (6.1)].
+
+There have been postmarketing reports of serious discontinuation symptoms with PRISTIQ, which can be protracted and severe.
 Completed suicide, suicidal thoughts, and severe aggression (including hostility, rage, and homicidal ideation) have been observed in patients during reduction in PRISTIQ dosage, including during discontinuation.
 Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of PRISTIQ.
 
 Patients should be monitored when discontinuing treatment with PRISTIQ.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
+Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
 In some patients, discontinuation may need to occur over a period of several months [see Dosage and Administration (2.5)].
 
 ## 5.8 Seizure

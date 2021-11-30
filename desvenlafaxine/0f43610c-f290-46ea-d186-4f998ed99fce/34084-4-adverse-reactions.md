@@ -86,7 +86,7 @@ Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the 
 
 Sexual Function Adverse Reactions
 
-Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies).
+Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies) [see Warnings and Precautions (5.11)].
 
 Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any PRISTIQ Group) During the On-Therapy Period
 

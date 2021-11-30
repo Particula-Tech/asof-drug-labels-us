@@ -28,7 +28,7 @@ Activation of Mania/Hypomania
 
 Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
-Discontinuation
+Discontinuation Syndrome
 
 Advise patients not to abruptly stop taking PRISTIQ without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping PRISTIQ, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
