@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215624"
+  ],
+  "inn": "atropine",
+  "labeler": "Apotrex Corp.",
+  "package_ndcs": [
+    "60505-6226-0",
+    "60505-6226-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "atropine sulfate",
+      "name": "Atropine"
+    }
+  ],
+  "setid": "127a7e32-a150-01d6-a66a-b7708d85809f",
+  "source": "dailymed"
+}
