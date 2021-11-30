@@ -38,20 +38,6 @@ Preparation Instructions for Bolus Injection and Continuous Infusion
 
 • Adjust the dose to be administered according to the patient’s weight (see Table 1).
 
-Preparation Instructions for Low-Rate Infusion
-
-If the low-rate infusion is used after the initial infusion, a lower concentration bag should beprepared.
-
-• Reconstitute the 250 mg vial with 5 mL of Sterile Water for Injection, USP.
-
-• Gently swirl until all material is dissolved.
-
-• Withdraw and discard 5 mL from a 500 mL infusion bag containing 5% Dextrose inWater or 0.9% Sodium Chloride for Injection.
-
-• Add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose inWater or 0.9% Sodium Chloride for Injection to yield a final concentration of 0.5 mg/mL.
-
-• Select the infusion rate to be administered from the right-hand column in Table 1.
-
 Table 1.
 Dosing Table
 

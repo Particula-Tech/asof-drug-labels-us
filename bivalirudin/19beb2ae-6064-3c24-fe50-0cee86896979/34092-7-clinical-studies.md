@@ -3,7 +3,7 @@
 Bivalirudin Angioplasty Trial (BAT)
 
 In the BAT studies, patients with unstable angina undergoing PCI were randomized 1:1 to a 1 mg/kg bolus of bivalirudin for injection and then 2.5 mg/kg/h for four hours and then 0.2 mg/kg/h for 14 to 20 hours or to 175 IU/kg bolus of heparin followed by an 18 to 24 hour infusion of 15 IU/kg/h infusion.
-Additional heparin but not bivalirudin for injection for injection could be administered for ACT <350 seconds.
+Additional heparin but not bivalirudin for injection could be administered for ACT <350 seconds.
 The studies were designed to demonstrate the superiority of bivalirudin for injection to heparin on the occurrence of any of the following during hospitalization up to seven days of death, MI, abrupt closure of dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump.
 
 The 4,312 subjects ranged in age from 29 to 90 (median 63) years.
@@ -32,11 +32,11 @@ This was a single-arm open-label study in which 51 patients with heparin-induced
 The majority of patients achieved adequate ACT at the time of device activation and no major bleeding was reported.
 Evidence for the diagnosis of HIT/HITTS was based on a clinical history of a decrease of platelets in patients after heparin administration [new diagnosis or history of clinically suspected or objectively documented HIT/HITTS defined as either: 1) HIT: positive heparin-induced platelet aggregation (HIPA) or other functional assay where the platelet count has decreased to <100,000/mL (minimum 30% from prior to heparin), or has decreased to <150,000/mL (minimum 40% from prior to heparin), or has decreased as above within hours of receiving heparin in a patient with a recent, previous exposure to heparin; 2) HITTS: thrombocytopenia as above plus arterial or venous thrombosis diagnosed by physician examination/laboratory and/or appropriate imaging studies].
 Patients ranged in age from 48 to 89 years (median 70); weight ranged from 42 to 123 kg (median 76); 50% were male and 50% were female.
-Bivalirudin was administered as either 1 mg/kg bolus followed by 2.5 mg/kg/h (high dose in 28 patients) or 0.75 mg/kg bolus followed by a 1.75 mg/kg/h infusion (lower dose in 25 patients) for up to 4 hours.
+Bivalirudin for injection was administered as either 1 mg/kg bolus followed by 2.5 mg/kg/h (high dose in 28 patients) or 0.75 mg/kg bolus followed by a 1.75 mg/kg/h infusion (lower dose in 25 patients) for up to 4 hours.
 Ninety-eight percent of patients received aspirin, 86% received clopidogrel and 19% received GPIs.
 
 The median ACT values at the time of device activation were 379 sec (high dose) and 317 sec (lower dose).
 Following the procedure, 48 of the 51 patients (94%) had TIMI grade 3 flow and stenosis <50%.
 One patient died during a bradycardic episode 46 hours after successful PCI, another patient required surgical revascularization, and one patient experienced no flow requiring a temporary intra-aortic balloon.
 
-Two of the fifty-one patients with the diagnosis of HIT/HITTS developed thrombocytopenia after receiving bivalirudin and GPIs.
+Two of the fifty-one patients with the diagnosis of HIT/HITTS developed thrombocytopenia after receiving bivalirudin for injection and GPIs.

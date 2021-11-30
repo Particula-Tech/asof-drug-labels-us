@@ -38,7 +38,7 @@ Data
 
 Animal Data
 
-Reproduction studies conducted in lactating female rats dosed subcutaneously daily with bivalirudin for injection at doses up to 150 mg/kg/day (1.6 times the maximum recommended human dose,based on body surface area) from day 2 through day 20 of lactation revealed no adversedevelopmental outcomes to the pups.
+Reproduction studies conducted in lactating female rats dosed subcutaneously daily with bivalirudin at doses up to 150 mg/kg/day (1.6 times the maximum recommended human dose,based on body surface area) from day 2 through day 20 of lactation revealed no adversedevelopmental outcomes to the pups.
 
 ## 8.4 Pediatric Use
 
@@ -54,4 +54,4 @@ Elderly patients experienced more bleeding events than younger patients.
 The disposition of bivalirudin for injection was studied in PTCA patients with mild, moderateand severe renal impairment.
 The clearance of bivalirudin for injection was reduced approximately 21% in patients with moderate and severe renal impairment and was reduced approximately 70% in dialysis-dependent patients.
 [see Clinical Pharmacology (12.3)].
-Reduce the infusion dose of bivalirudin for injection and monitor the anticoagulant status morefrequently in patients with renal impairment impairment creatinine clearance less than 30mL/min (by Cockcroft Gault equation) [see Dosage and Administration (2.2)].
+Reduce the infusion dose of bivalirudin for injection and monitor the anticoagulant status morefrequently in patients with renal impairment creatinine clearance less than 30mL/min (by Cockcroft Gault equation) [see Dosage and Administration (2.2)].
