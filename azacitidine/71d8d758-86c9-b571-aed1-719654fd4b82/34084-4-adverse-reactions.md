@@ -15,7 +15,7 @@ The following adverse reactions are described in other labeling sections:
 Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
 The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
 
-Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (SC or IV Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
 Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
 Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 
@@ -184,7 +184,7 @@ In clinical studies of either subcutaneous or intravenous azacitidine for inject
 
 Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia splenomegaly.
 
-Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio­respiratory arrest, congestive cardiomyopathy.
+Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio­-respiratory arrest, congestive cardiomyopathy.
 
 Eye disorders: eye hemorrhage
 
