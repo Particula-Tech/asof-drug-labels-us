@@ -7,6 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Serious Infections [see Warnings and Precautions (5.3)]
 - •Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - •Gastrointestinal Complications [see Warnings and Precautions (5.5)]
+- •Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -16,7 +17,7 @@ An estimated total of 1557 patients received mycophenolate mofetil during pivota
 Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
 Patients in all study arms also received cyclosporine and corticosteroids.
 
-The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2 and 14.3)].
+The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2,14.3)].
 
 Mycophenolate Mofetil Oral:
 
@@ -31,14 +32,15 @@ In the de novo liver transplantation study with 12-month duration, patients rece
 The total number of patients enrolled was 565.
 
 Approximately 53% of the kidney transplant patients, 65% of the heart transplant patients, and 48% of the liver transplant patients were treated for more than 1 year.
-Adverse reactions reported in ≥ 20% of patients in the mycophenolate mofetil treatment groups are presented below.
+Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-1. Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥ 20% of Patients in the Mycophenolate Mofetil Group
+Table 3.
+Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
 | Adverse drug reaction (MedDRA)System Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mycophenolate Mofetil2g/day (n=501)or 3g/day(n=490) | AZA1 to 2 mg/kg/day or 100 to150mg/day | Placebo | Mycophenolate Mofetil3g/day | AZA1.5 to 3 mg/kg/day | Mycophenolate Mofetil3g/day |  | AZA1 to 2 mg/kg/day |  |
+| Mycophenolate Mofetil2 g/day (n=501)or 3 g/day(n=490) | AZA1 to 2 mg/kg/day or 100 to150mg/day | Placebo | Mycophenolate Mofetil3 g/day | AZA1.5 to 3 mg/kg/day | Mycophenolate Mofetil3 g/day |  | AZA1 to 2 mg/kg/day |  |
 | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |  |  |
 | % | % | % | % | % | % | % |  |  |
 | Infections and infestations |  |  |  |  |  |  |  |  |
@@ -115,7 +117,8 @@ Endoscopic investigation of patients with mycophenolate mofetil-related diarrhea
 
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-1. Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
+Table 4.
+Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -126,7 +129,7 @@ The following adverse reactions were reported with 3% to <20% incidence in kidne
 | Cardiovascular | hypotension |
 | Metabolic and Nutritional | acidosis, alkaline phosphatase increased, hyperlipemia, hypophosphatemia, weight loss |
 | Digestive | esophagitis, flatulence, gastritis, gastrointestinal hemorrhage, hepatitis, ileus, nausea and vomiting, stomach ulcer, stomatitis |
-| Neoplasm benign, malignant and unspecified | Neoplasm |
+| Neoplasm benign, malignant and unspecified | neoplasm |
 | Skin and Appendages | skin benign neoplasm, skin carcinoma |
 | Psychiatric | confusional state |
 | Nervous | hypertonia, paresthesia, somnolence |
@@ -134,7 +137,7 @@ The following adverse reactions were reported with 3% to <20% incidence in kidne
 
 Pediatric Study: The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
-Geriatrics: Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+Geriatrics: Geriatric patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 Mycophenolate Mofetil Intravenous:
 

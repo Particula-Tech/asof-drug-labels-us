@@ -2,7 +2,8 @@
 
 ## 7.1 Effect of Other Drugs on Mycophenolate Mofetil
 
-1. Table 5 Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
+Table 5.
+Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
@@ -10,7 +11,7 @@
 | Prevention or Management | Administer magnesium or aluminum hydroxide containing antacids at least 2h after mycophenolate mofetil administration. |
 | Proton Pump Inhibitors (PPIs) |  |
 | Clinical Impact | Concomitant use with PPIs decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
-| Prevention or Management | Monitor patients for alterations in efficacy when PPIs are co- administered with mycophenolate mofetil. |
+| Prevention or Management | Monitor patients for alterations in efficacy when PPIs are co-administered with mycophenolate mofetil. |
 | Examples | Lansoprazole, pantoprazole |
 | Drugs that Interfere with Enterohepatic Recirculation |  |
 | Clinical Impact | Concomitant use with drugs that directly interfere with enterohepatic recirculation, or indirectly interfere with enterohepatic recirculation by altering the gastrointestinal flora, can decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
@@ -27,7 +28,8 @@
 
 ## 7.2 Effect of Mycophenolate Mofetil on Other Drugs
 
-1. Table 6 Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
+Table 6.
+Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |

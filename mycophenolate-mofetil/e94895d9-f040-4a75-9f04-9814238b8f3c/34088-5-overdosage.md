@@ -11,5 +11,5 @@ At doses of 4 g/day or 5 g/day, there appears to be a higher rate, compared to t
 Treatment and Management:
 
 MPA and the phenolic glucuronide metabolite of MPA (MPAG) are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (>100 µg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (>100 mcg/mL), small amounts of MPAG are removed.
 By increasing excretion of the drug, MPA can be removed by bile acid sequestrants, such as cholestyramine [see Clinical Pharmacology(12.3)].

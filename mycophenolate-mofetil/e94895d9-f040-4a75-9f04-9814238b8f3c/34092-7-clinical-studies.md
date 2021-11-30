@@ -15,7 +15,8 @@ Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, red
 Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12.
 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
-1. Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
+Table 11.
+Treatment Failure in De Novo Kidney Transplantation Studies
 
 | USA Study (N=499 Patients) | Mycophenolate Mofetil2 g/day(n=167 Patients) | Mycophenolate Mofetil 3 g/day(n=166 Patients) | AZA1 to 2 mg/kg/day(n=166 Patients) |
 | --- | --- | --- | --- |
@@ -40,7 +41,8 @@ No advantage of mycophenolate mofetil at 12 months with respect to graft loss or
 Numerically, patients receiving mycophenolate mofetil 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving mycophenolate mofetil 2 g/day experienced a better outcome than mycophenolate mofetil 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-1. Table 12 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+Table 12.
+De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
 | Study | Mycophenolate Mofetil2 g/day | Mycophenolate Mofetil3 g/day | Control(AZA or Placebo) |
 | --- | --- | --- | --- |
@@ -54,7 +56,7 @@ One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral s
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily mycophenolate mofetil capsules [see Clinical Pharmacology (12.3)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
-The combined incidence of graft loss (5%) and patient death (2%) at 12 months post- transplant was similar to that observed in adult kidney transplant patients.
+The combined incidence of graft loss (5%) and patient death (2%) at 12 months post-transplant was similar to that observed in adult kidney transplant patients.
 
 ## 14.2 Heart Transplantation
 
@@ -68,7 +70,9 @@ The analyses of the endpoints showed:
 
 - •Rejection: No difference was established between mycophenolate mofetil and AZA with respect to biopsy-proven rejection with hemodynamic compromise.
 - •Survival: Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 13).
-- Table 13De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
+
+Table 13.
+De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
 |  | All Patients (ITT) |  | Treated Patients |  |
 | --- | --- | --- | --- | --- |
@@ -87,7 +91,8 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 
 In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14).
 
-1. Table 14De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
+Table 14.
+De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
 |  | AZAN = 287 | Mycophenolate MofetilN = 278 |
 | --- | --- | --- |
