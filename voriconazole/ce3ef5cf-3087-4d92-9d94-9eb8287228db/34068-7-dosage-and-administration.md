@@ -4,9 +4,9 @@
 
 Administer VFEND Tablets or Oral Suspension at least one hour before or after a meal.
 
-VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
+VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
-Administer diluted VFEND I.V. by intravenous infusion over 1 to 2 hours only.
+Administer diluted VFEND I.V. by intravenous infusion over 1 to 3 hours only.
 Do not administer as an IV bolus injection.
 
 ## 2.2 Use of VFEND I.V. With Other Parenteral Drug Products
@@ -135,9 +135,8 @@ In patients with moderate or severe renal impairment (creatinine clearance <50 m
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous VFEND.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral VFEND therapy [see Warnings and Precautions (5.7)].
 
-Voriconazole is hemodialyzed with clearance of 121 mL/min.
-The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
+Voriconazole and the intravenous vehicle, SBECD, are dialyzable.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment [see Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 

@@ -2,7 +2,7 @@
 
 In clinical trials, there were three cases of accidental overdose.
 All occurred in pediatric patients who received up to five times the recommended intravenous dose of voriconazole.
-A single adverse event of photophobia of 10 minutes duration was reported.
+A single adverse reaction of photophobia of 10 minutes duration was reported.
 
 There is no known antidote to voriconazole.
 

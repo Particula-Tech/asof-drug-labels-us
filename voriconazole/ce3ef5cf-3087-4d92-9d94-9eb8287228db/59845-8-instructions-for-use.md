@@ -19,10 +19,16 @@ Each pack contains:
 
 How to prepare the bottle and take VFEND:
 
-| 1. | Remove the child-resistant bottle cap by pushing down while twisting the cap to the left (counter-clockwise). | 2. | Push the bottle adapter firmly into the bottle (if your pharmacist has not already inserted the bottle adapter). If the bottle adapter is missing, contact your pharmacist. Do not remove the bottle adapter after it is inserted. | 3. | Important: Bottle adapter must be fully inserted before use. |
+| 1. |  | 2. |  | 3. |  |
 | --- | --- | --- | --- | --- | --- |
-| 4. | Pull back on the oral dispenser plunger to your prescribed dose. | 5. | Insert the tip of the oral dispenser into the bottle adapter. | 6. | While holding the bottle with 1 hand, push down on the oral dispenser plunger with your other hand to push air into the bottle. |
-| 7. | Turn the bottle upside down and slowly pull back on the oral dispenser plunger to withdraw your prescribed dose of medicine. | 8. | Turn the bottle back upright with the oral dispenser still in place. Remove the tip of the oral dispenser from the bottle adapter. Place the tip of the oral dispenser in your mouth and point the tip of the oral dispenser towards the inside of the cheek. Slowly push the plunger until all the medicine is given. Do not squirt the medicine out quickly. This may cause you to choke. If the medicine is to be given to a child, keep your child in an upright position while giving the medicine. | 9. | Screw the bottle cap back on the bottle tightly by turning the cap to the right (clockwise). Do not remove the bottle adapter. The bottle cap will fit over it. |
+|  | Remove the child-resistant bottle cap by pushing down while twisting the cap to the left (counter-clockwise). |  | Push the bottle adapter firmly into the bottle (if your pharmacist has not already inserted the bottle adapter). If the bottle adapter is missing, contact your pharmacist. |  | Important: Bottle adapter must be fully inserted before use. |
+|  |  |  | Do not remove the bottle adapter after it is inserted. |  |  |
+| 4. |  | 5. |  | 6. |  |
+|  | Pull back on the oral dispenser plunger to your prescribed dose. |  | Insert the tip of the oral dispenser into the bottle adapter. |  | While holding the bottle with 1 hand, push down on the oral dispenser plunger with your other hand to push air into the bottle. |
+| 7. |  | 8. |  | 9. |  |
+|  | Turn the bottle upside down and slowly pull back on the oral dispenser plunger to withdraw your prescribed dose of medicine. |  | Turn the bottle back upright with the oral dispenser still in place. Remove the tip of the oral dispenser from the bottle adapter. |  | Screw the bottle cap back on the bottle tightly by turning the cap to the right (clockwise). |
+|  |  |  | Place the tip of the oral dispenser in your mouth and point the tip of the oral dispenser towards the inside of the cheek. Slowly push the plunger until all the medicine is given. Do not squirt the medicine out quickly. This may cause you to choke. |  | Do not remove the bottle adapter. The bottle cap will fit over it. |
+|  |  |  | If the medicine is to be given to a child, keep your child in an upright position while giving the medicine. |  |  |
 
 Rinse the oral dispenser after each use.
 
@@ -46,4 +52,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-1348-2.0 Revised: 01/2021
+LAB-1348-3.0 Revised: 10/2021
