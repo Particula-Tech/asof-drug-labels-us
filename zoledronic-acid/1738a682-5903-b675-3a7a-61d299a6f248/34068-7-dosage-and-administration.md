@@ -67,7 +67,7 @@ To prepare reduced doses for patients with baseline CrCl less than or equal to 6
 
 Table 3: Preparation of Reduced Doses Zoledronic Acid Injection 4mg/5mL Single-Dose Vial for Dilution
 
-| Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
+| Remove and use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
 | 4.4 | 3.5 |
 | 4.1 | 3.3 |

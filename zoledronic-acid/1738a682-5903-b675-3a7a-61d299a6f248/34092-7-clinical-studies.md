@@ -74,9 +74,9 @@ Table 13: Zoledronic Acid Injection Compared to Placebo in Patients With Bone Me
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study | Study Arm & Patient Number | Proportion | Difference2 & 95% CI | P-value | Median (Days) | Hazard Ratio3 & 95% CI | P-value |
-| Prostate Cancer | Zoledronic acid injection 4 mg (n=214) | 33% | -11% (-20%, -1%) | 0.02 | Not Reached | 0.67 (0.49, 0.91) | 0.011 |
+| Prostate Cancer | Zoledronic Acid Injection 4 mg (n=214) | 33% | -11% (-20%, -1%) | 0.02 | Not Reached | 0.67 (0.49, 0.91) | 0.011 |
 |  | Placebo (n=208) | 44% |  |  | 321 |  |  |
-| Solid Tumors | Zoledronic acid injection 4 mg (n=257) | 38% | -7% (-15%, 2%) | 0.13 | 230 | 0.73 (0.55, 0.96) | 0.023 |
+| Solid Tumors | Zoledronic Acid Injection 4 mg (n=257) | 38% | -7% (-15%, 2%) | 0.13 | 230 | 0.73 (0.55, 0.96) | 0.023 |
 |  | Placebo (n=250) | 44% |  |  | 163 |  |  |
 | 1SRE=Skeletal-Related Event. 2Difference for the proportion of patients with a SRE of zoledronic acid injection 4 mg versus placebo. 3Hazard ratio for the first occurrence of a SRE of zoledronic acid injection 4 mg versus placebo. |  |  |  |  |  |  |  |
 
@@ -85,10 +85,10 @@ This analysis required an estimation of pamidronate efficacy.
 Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
 Results of the comparison of treatment with zoledronic acid injection compared to pamidronate are given in Table 14.
 
-Table 14: Zoledronic Acid Injection Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
+Table 14: Zoledronic Acid Injection Compared to Pamidronate in Patients With Multiple Myeloma or Bone Metastases from Breast Cancer
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study | Study Arm & Patient Number | Proportion | Difference2 & 95% CI | P-value | Median (Days) | Hazard Ratio3 & 95% CI | P-value |
-| Multiple Myeloma & Breast Cancer | Zoledronic acid injection 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77, 1.09) | 0.32 |
+| Multiple Myeloma & Breast Cancer | Zoledronic Acid Injection 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77, 1.09) | 0.32 |
 | 1SRE=Skeletal-Related Event. 2Difference for the proportion of patients with a SRE of zoledronic acid injection 4 mg versus pamidronate 90 mg. 3Hazard ratio for the first occurrence of a SRE of zoledronic acid injection 4 mg versus pamidronate 90 mg. |  |  |  |  |  |  |  |
