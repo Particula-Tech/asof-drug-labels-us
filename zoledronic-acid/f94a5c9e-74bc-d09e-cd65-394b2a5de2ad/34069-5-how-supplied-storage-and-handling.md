@@ -9,6 +9,6 @@ If refrigerated, allow the refrigerated solution to reach room temperature befor
 
 Storage
 
-Store at 20°C to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature].
 
 Single dose vial.

@@ -138,6 +138,6 @@ Your risk of kidney problems is higher if you:
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
   This Medication Guide has been approved by the U.S. Food and Drug Administration.
   Zometa is a registered trademark of Novartis Pharmaceuticals Corporation.
-  Rx Only Mfd.
+  This Patient Information has been approved by the U.S. Food and Drug Administration.Rx Only Mfd.
   By: Dr. Reddy’s Laboratories Ltd. At D.P.
   Pally - 500 043 INDIA Revised: 0920

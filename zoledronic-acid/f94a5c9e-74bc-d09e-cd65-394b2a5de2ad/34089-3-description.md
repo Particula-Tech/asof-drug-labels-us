@@ -3,7 +3,7 @@
 Zoledronic acid injection contains zoledronic acid, a bisphosphonic acid which is an inhibitor of osteoclastic bone resorption.
 Zoledronic acid is designated chemically as (1-Hydroxy-2-imidazol-1-yl-phosphonoethyl) phosphonic acid monohydrate and its structural formula is:
 
-Zoledronic acid monohydrate is a white crystalline powder.
+Zoledronic acid monohydrate is white to almost white crystalline solid.
 Its molecular formula is C5H10N2O7P2.H2O and a molar mass of 290.1 g/Mol.
 Zoledronic acid monohydrate is sparingly soluble in 0.1N sodium hydroxide solution.
 The pH of the zoledronic acid injection solution for infusion is approximately 6 to 7.
