@@ -12,9 +12,11 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] in 
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
+Manufactured For:
+
 Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-D 8/2016
+J 2/2021

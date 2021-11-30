@@ -5,7 +5,7 @@ The precise mechanism of action is not known.
 The drug blocks EEG arousal from stimulation of the brain stem reticular formation.
 It takes several hours for peak blood levels to be reached and the half-life of the drug is between 24 and 48 hours.
 After the drug is discontinued plasma levels decline slowly over a period of several days.
-Chlordiazepoxide is excreted in the urine, with 1% to 2% unchanged and 3% to 6% as conjugate.
+Chlordiazepoxide is excreted in the urine, with 1% to 2% unchanged and 3% to 6% as a conjugate.
 
 ## Animal Pharmacology
 
@@ -21,6 +21,6 @@ The LD50 of parenterally administered chlordiazepoxide HCl was determined in mic
 ## Effects on Reproduction
 
 Reproduction studies in rats fed 10, 20 and 80 mg/kg daily and bred through one or two matings showed no congenital anomalies, nor were there adverse effects on lactation of the dams or growth of the newborn.
-However, in another study at 100 mg/kg daily there was noted a significant decrease in the fertilization rate and a marked decrease in the viability and body weight of off-spring which may be attributable to sedative activity, thus resulting in lack of interest in mating and lessened maternal nursing and care of the young.
+However, in another study at 100 mg/kg daily there was noted a significant decrease in the fertilization rate and a marked decrease in the viability and body weight of offspring which may be attributable to sedative activity, thus resulting in lack of interest in mating and lessened maternal nursing and care of the young.
 One neonate in each of the first and second matings in the rat reproduction study at the 100 mg/kg dose exhibited major skeletal defects.
 Further studies are in progress to determine the significance of these findings.
