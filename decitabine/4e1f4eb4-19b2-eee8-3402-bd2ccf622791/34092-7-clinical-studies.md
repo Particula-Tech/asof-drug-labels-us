@@ -95,7 +95,7 @@ Three open-label, single-arm, multicenter studies were conducted to evaluate the
 In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine for injection 20 mg/m2 as an intravenous infusion over 1-hour daily, on days 1 to 5 of week 1 every 4 weeks (1 cycle).
 The results were consistent with the results of the controlled trial and are summarized in Table 8.
 
-Table 7 Baseline Demographics and Other Patient
+Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
 
 | Demographic or Other Patient Characteristic | Decitabine For Injection N = 99 |
 | --- | --- |
