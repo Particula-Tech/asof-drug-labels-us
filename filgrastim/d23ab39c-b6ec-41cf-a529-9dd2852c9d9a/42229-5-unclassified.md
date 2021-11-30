@@ -5,4 +5,6 @@ Manufactured by: Hospira, Inc., a Pfizer Company Lake Forest, IL 60045 USA US Li
 
 Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10017 USA
 
-LAB-0933-5.0
+BD UltraSafe Plus is a trademark of Becton Dickinson and Company.
+
+LAB-0933-6.0
