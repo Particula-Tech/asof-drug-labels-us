@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214869"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Avion Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "75854-701-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa levodopa",
+      "name": "Dhivy"
+    }
+  ],
+  "setid": "39d79ade-8ee0-40ba-9fdd-13045b8ddbdf",
+  "source": "dailymed"
+}
