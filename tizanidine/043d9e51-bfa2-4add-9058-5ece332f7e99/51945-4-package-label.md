@@ -16,7 +16,8 @@ Each capsule contains 2.29 mg tizanidine hydrochloride, equivalent to 2 mg tizan
 
 COVIS Manufactured for: Covis Pharma Zug, 6300 Switzerland
 
-GTIN00370515602151
+100337 Rev.
+5/18
 
 Refer to package insert for prescribing information.
 
@@ -26,8 +27,11 @@ Dispense in containers with child resistant closure.
 
 KEEP THIS AND ALL MEDICATION OUT OF REACH OF CHILDREN.
 
-100314 Rev.
-5/18
+020602
+
+LOT 123ABC2D EXP MMMYYYY
+
+SN12345678901234 GTIN 00370515602151
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Capsule Bottle
 
@@ -47,7 +51,8 @@ Each capsule contains 4.58 mg tizanidine hydrochloride, equivalent to 4 mg tizan
 
 COVIS Manufactured for: Covis Pharma Zug, 6300 Switzerland
 
-GTIN00370515604155
+100338 Rev.
+5/18
 
 Refer to package insert for prescribing information.
 
@@ -57,8 +62,11 @@ Dispense in containers with child resistant closure.
 
 KEEP THIS AND ALL MEDICATION OUT OF REACH OF CHILDREN.
 
-100315 Rev.
-5/18
+020601
+
+LOT 123ABC2D EXP MMMYYYY
+
+SN 12345678901234 GTIN 00370515604155
 
 # PRINCIPAL DISPLAY PANEL - 6 mg Capsule Bottle
 
@@ -78,7 +86,8 @@ Each capsule contains 6.87 mg tizanidine hydrochloride, equivalent to 6 mg tizan
 
 COVIS Manufactured for: Covis Pharma Zug, 6300 Switzerland
 
-GTIN00370515606159
+100339 Rev.
+5/18
 
 Refer to package insert for prescribing information.
 
@@ -88,8 +97,11 @@ Dispense in containers with child resistant closure.
 
 KEEP THIS AND ALL MEDICATION OUT OF REACH OF CHILDREN.
 
-100316 Rev.
-5/18
+020600
+
+LOT 123ABC2D EXP MMMYYYY
+
+SN 12345678901234 GTIN 00370515606159
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle
 
