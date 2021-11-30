@@ -20,7 +20,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 - Before initiating INVOKAMET/INVOKAMET XR, obtain an estimated glomerular filtration rate (eGFR).
-- INVOKAMET/INVOKAMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
+- INVOKAMET/INVOKAMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m 2 [see Contraindications (4)].
 - Obtain an eGFR at least annually in all patients taking INVOKAMET/INVOKAMET XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
@@ -31,7 +31,7 @@ Age 65 or Greater: The risk of metformin-associated lactic acidosis increases wi
 Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
 
 Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
-Stop INVOKAMET/INVOKAMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Stop INVOKAMET/INVOKAMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m 2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure, and restart INVOKAMET/INVOKAMET XR if renal function is stable.
 
 Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
@@ -69,7 +69,7 @@ Monitor patients receiving INVOKAMET/INVOKAMET XR for signs and symptoms of infe
 
 Canagliflozin can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
 There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including canagliflozin.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m 2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
 Before initiating INVOKAMET/INVOKAMET XR in patients with one or more of these characteristics, assess and correct volume status.
 Monitor for signs and symptoms of volume depletion after initiating therapy.
 
@@ -137,9 +137,9 @@ If hypersensitivity reactions occur, discontinue use of INVOKAMET/INVOKAMET XR; 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin in the CANVAS trial [see Clinical Studies (14.2)].
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET/INVOKAMET XR [see Adverse Reactions (6.1)].
 
-## 5.11 Vitamin B12 Levels
+## 5.11 Vitamin B 12 Levels
 
-In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin HCl or vitamin B12 supplementation.
-Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-Measure hematologic parameters on an annual basis and vitamin B12 at 2- to 3-year intervals in patients on INVOKAMET/INVOKAMET XR and manage any abnormalities [see Adverse Reactions (6.1)].
+In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B 12 levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B 12 absorption from the B 12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin HCl or vitamin B 12 supplementation.
+Certain individuals (those with inadequate vitamin B 12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B 12 levels.
+Measure hematologic parameters on an annual basis and vitamin B 12 at 2- to 3-year intervals in patients on INVOKAMET/INVOKAMET XR and manage any abnormalities [see Adverse Reactions (6.1)].

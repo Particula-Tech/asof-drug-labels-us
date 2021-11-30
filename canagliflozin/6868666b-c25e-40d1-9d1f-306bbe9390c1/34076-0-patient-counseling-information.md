@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 
-Lactic Acidosis:
+Lactic Acidosis
 
 Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development, as noted in Warnings and Precautions (5.1).
 Advise patients to discontinue INVOKAMET/INVOKAMET XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
@@ -15,71 +15,71 @@ Inform patients about importance of regular testing of renal function and hemato
 
 Instruct patients to inform their doctor that they are taking INVOKAMET/INVOKAMET XR prior to any surgical or radiological procedure, as temporary discontinuation of INVOKAMET/INVOKAMET XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Lower Limb Amputation:
+Lower Limb Amputation
 
 Inform patients that INVOKAMET/INVOKAMET XR is associated with an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
 Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.2)].
 
-Volume Depletion:
+Volume Depletion
 
 Inform patients that symptomatic hypotension may occur with INVOKAMET/INVOKAMET XR and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
 
-Ketoacidosis:
+Ketoacidosis
 
 Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of canagliflozin, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical attention immediately [see Warnings and Precautions (5.4)].
 
-Serious Urinary Tract Infections:
+Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
 
-Necrotizing Fasciitis of the Perineum (Fournier's Gangrene):
+Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
 Inform patients that necrotizing infections of the perineum (Fournier's gangrene) have occurred with INVOKAMET/INVOKAMET XR.
 Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
 
-Genital Mycotic Infections in Females (e.g., Vulvovaginitis):
+Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infection (e.g., vulvovaginitis) may occur and provide them with information on the signs and symptoms of a vaginal yeast infection.
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
-Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis):
+Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
 Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
-Hypersensitivity Reactions:
+Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria, rash, anaphylaxis, and angioedema, have been reported with canagliflozin.
 Advise patients to report immediately any signs or symptoms suggesting allergic reaction and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
 
-Bone Fracture:
+Bone Fracture
 
 Inform patients that bone fractures have been reported in patients taking canagliflozin.
 Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.10)].
 
-Laboratory Tests:
+Laboratory Tests
 
 Inform patients that they will test positive for glucose in their urine while on INVOKAMET/INVOKAMET XR [see Drug Interactions (7.2)].
 
-Females of Reproductive Age:
+Females of Reproductive Age
 
 Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with INVOKAMET/INVOKAMET XR [see Use in Specific Populations (8.1)].
 Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
 
 Inform females that treatment with INVOKAMET/INVOKAMET XR may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
-Lactation:
+Lactation
 
 Advise women that breastfeeding is not recommended during treatment with INVOKAMET/INVOKAMET XR [see Use in Specific Populations (8.2)].
 
-Administration:
+Administration
 
 Instruct patients to keep INVOKAMET/INVOKAMET XR in the original bottle to protect from moisture.
 Advise patients that storage in a pill box or pill organizer is allowed for up to 30 days.
