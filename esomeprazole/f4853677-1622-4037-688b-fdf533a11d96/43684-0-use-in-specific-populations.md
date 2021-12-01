@@ -83,7 +83,7 @@ Pediatric Patients 1 Year to 17 Years of Age
 The safety and effectiveness of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension have been established in pediatric patients 12 years to 17 years for short-term treatment (4 to 8 weeks) for healing of EE.
 The safety and effectiveness of NEXIUM for delayed-release oral suspension have been established in pediatric patients 1 year to 11 years for short-term treatment (up to 8 weeks) for healing of EE.
 Use of NEXIUM for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
-The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4).
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 Pediatric Patients 1 Month to Less Than 1 Year of Age
 

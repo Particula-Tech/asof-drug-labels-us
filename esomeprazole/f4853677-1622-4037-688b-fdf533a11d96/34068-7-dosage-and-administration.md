@@ -11,14 +11,14 @@ Table 1: Recommended Dosage of NEXIUM in Adults by Indication
 
 | Adult Indication | Recommended Dosage of NEXIUMdelayed-release capsules and NEXIUM for delayed-release oral suspension | Treatment Duration |
 | --- | --- | --- |
-| Healing of EE | 20 mg or 40 mg once daily | 4 to 8 weeks |
+| Healing of EE | 20 mg or 40 mgA maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. once daily | 4 to 8 weeksMost patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)]. |
 | Maintenance of Healing of EE | 20 mg once daily | Controlled studies do not extend beyond 6 months |
 | Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
 | Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg once daily | Controlled studies do not extend beyond 6 months |
 | H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | NEXIUM 40 mg once daily | 10 days |
-| Amoxicillin 1000 mg twice daily | 10 days |  |
+| Amoxicillin 1000 mg twice dailyRefer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients. | 10 days |  |
 | Clarithromycin 500 mg twice daily | 10 days |  |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily; individualize the regimen to patient needs.Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice dailyA starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].; individualize the regimen to patient needs.Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
 
 ## 2.2 Recommended Dosage in Pediatric Patients by Indication
 

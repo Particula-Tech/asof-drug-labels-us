@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in Table 11:
 
 Table 11: EE Healing Rate (Life-Table Analysis) in Adults with EE Treated with NEXIUM Delayed-Release Capsules or Omeprazole Delayed-Release Capsules Once Daily in Four Clinical Studies
 
-| Study | No. of Patients | Treatment Groups | EE healing rates |  | Significance Level log-rank test vs. omeprazole 20 mg. |
+| Study | No. of Patients | Treatment Group | EE Healing Rates |  | Significance Level log-rank test vs. omeprazole 20 mg. |
 | --- | --- | --- | --- | --- | --- |
 | Week 4 | Week 8 |  |  |  |  |
 | 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S. |
@@ -27,7 +27,7 @@ Table 12: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 
 |  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution. with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Levellog-rank test vs. omeprazole 20 mg. |
+| Study | No. of Patients | Treatment Group | Day 14 | Day 28 | Significance Levellog-rank test vs. omeprazole 20 mg. |
 | 1 | 573 | NEXIUM 20 mg | 64.3% | 72.7% | N.S. |
 |  | 555 | Omeprazole 20 mg | 64.1% | 70.9% |  |
 | 2 | 621 | NEXIUM 40 mg | 64.8% | 74.2% | p <0.001 |
@@ -87,7 +87,7 @@ No significant treatment related differences were seen.
 
 ## 14.4 Pediatric GERD
 
-1 to 11 Years of Age
+1 year to 11 Years of Age
 
 In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically-proven GERD (1 year to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with NEXIUM for delayed-release oral suspension once daily for up to 8 weeks to evaluate safety and tolerability.
 Dosing by patient weight was as follows:
@@ -95,13 +95,15 @@ Dosing by patient weight was as follows:
 - •weight < 20 kg: once daily treatment with NEXIUM for delayed-release oral suspension 5 mg or 10 mg
 - •weight ≥ 20 kg: once daily treatment with NEXIUM for delayed-release oral suspension 10 mg or 20 mg
 
+Patients were endoscopically characterized as to the presence or absence of EE.
+
 Of the 109 patients, 53 had EE at baseline (51 had mild, 1 moderate, and 1 severe esophagitis).
 Although most of the patients who had a follow up endoscopy at the end of 8 weeks of treatment healed, spontaneous healing cannot be ruled out because these patients had low grade EE prior to treatment, and the trial did not include a concomitant control.
 
 12 Years to 17 Years of Age
 
 In a multicenter, randomized, double-blind, parallel-group study, 149 adolescent patients (12 to 17 years of age; 89 female; 124 Caucasian, 15 Black, 10 Other) with clinically diagnosed GERD were treated with NEXIUM delayed-release capsules 20 mg or 40 mg once daily for up to 8 weeks to evaluate safety and tolerability.
-Patients were not endoscopically characterized as to the presence or absence of EE..
+Patients were not endoscopically characterized as to the presence or absence of EE.
 
 ## 14.5 Risk Reduction of NSAID-Associated Gastric Ulcer
 
@@ -130,18 +132,18 @@ The second study (193) compared NEXIUM delayed-release capsules 40 mg once daily
 H. pylori eradication rates, defined as at least two negative tests and no positive tests from CLOtest®, histology and/or culture, at 4 weeks post-therapy were significantly higher in the NEXIUM, amoxicillin and clarithromycin group than in the NEXIUM and clarithromycin group or the NEXIUM alone group.
 The results are shown in Table 14:
 
-Table 14:H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen % of Adult Patients Cured [95% Confidence Interval] (Number of Patients)
+Table 14: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen % of Adult Patients Cured [95% Confidence Interval] (Number of Patients)
 
 | Study | Treatment Group | Per-ProtocolPatients were included in the analysis if they had H. pylori infection documented at baseline, had at least one endoscopically verified duodenal ulcer ≥ 0.5 cm in diameter at baseline or had a documented history of duodenal ulcer disease within the past 5 years, and were not protocol violators. Patients who dropped out of the study due to an adverse reaction related to the study drug were included in the analysis as not H. pylori eradicated. | Intent-to-TreatPatients were included in the analysis if they had documented H. pylori infection at baseline, had at least one documented duodenal ulcer at baseline, or had a documented history of duodenal ulcer disease, and took at least one dose of study medication. All dropouts were included as not H. pylori eradicated. |
 | --- | --- | --- | --- |
-| 191 | NEXIUM plus amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin.[78, 89](n=196) | 77%[71, 82](n=233) |
-|  | NEXIUM plus clarithromycin | 55%[48, 62](n=187) | 52%[45, 59](n=215) |
-| 193 | NEXIUM plus amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone.[74, 93](n=67) | 78%[67, 87](n=74) |
+| 191 | NEXIUM, amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin.[78, 89](n=196) | 77%[71, 82](n=233) |
+|  | NEXIUM and clarithromycin | 55%[48, 62](n=187) | 52%[45, 59](n=215) |
+| 193 | NEXIUM, amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone.[74, 93](n=67) | 78%[67, 87](n=74) |
 |  | NEXIUM | 5%[0, 23](n=22) | 4%[0, 21](n=24) |
 
 The percentage of patients with a healed baseline duodenal ulcer by 4 weeks after the 10-day treatment regimen in the NEXIUM, amoxicillin and clarithromycin group was 75% (n=156) and 57% (n=60) respectively, in the 191 and 193 studies (per-protocol analysis).
 
-## 14.7 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
+## 14.7 Pathological Hypersecretory Conditions, Including Zollinger-Ellison Syndrome, in Adults
 
 In a multicenter, open-label dose-escalation study of 21 adult patients (15 males and 6 females, 18 Caucasian and 3 Black, mean age of 56 years) with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, NEXIUM significantly inhibited gastric acid secretion.
 The initial dosage of NEXIUM delayed-release capsules was 40 mg twice daily in 19 patients and 80 mg twice daily in 2 patients.
@@ -150,7 +152,7 @@ At the Month 12 final visit, 18/20 (90%) patients had Basal Acid Output (BAO) un
 Of the 18 patients evaluated with a starting dose of NEXIUM 40 mg twice daily, 13 (72%) had their BAO controlled with the original dosing regimen at the final visit.
 See Table 15.
 
-Table 15: Adequate Acid Suppression at Final Visit by Dose Regimen in Adult Patients with Pathological Hypersecretory Conditions
+Table 15: Adequate Acid Suppression at Final Visit by Dosage Regimen in Adult Patients with Pathological Hypersecretory Conditions
 
 | NEXIUM dose at the Month 12 visit | BAO under adequate control at the Month 12 visit (N=20)One patient was not evaluated. |
 | --- | --- |

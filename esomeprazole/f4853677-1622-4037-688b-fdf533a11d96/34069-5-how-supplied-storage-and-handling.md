@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NEXIUM Delayed-Release Capsules, 20 mg, are opaque, hard gelatin, amethyst colored capsules with two radial bars in yellow on the cap and NEXIUM 20 mg in yellow on the body.
+NEXIUM Delayed-Release Capsules, 20 mg esomeprazole, are opaque, hard gelatin, amethyst colored capsules with two radial bars in yellow on the cap and NEXIUM 20 mg in yellow on the body.
 They are supplied as follows:
 
 NDC 0186-5020-31 unit of use bottles of 30

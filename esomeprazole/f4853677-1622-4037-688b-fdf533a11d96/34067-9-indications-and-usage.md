@@ -40,7 +40,13 @@ NEXIUM for delayed-release oral suspension is indicated for short-term treatment
 
 ## 1.4 Risk Reduction of Nonsteroidal Anti-Inflammatory Drugs (NSAID)-Associated Gastric Ulcer
 
-NEXIUM is indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison Syndrome.
+NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension are indicated for the reduction in
+
+the occurrence of gastric ulcers associated with continuous NSAID therapy in adult patients at risk for developing gastric ulcers.
+Patients are considered to be at risk due to their age (60 years and older) and/or documented history of gastric
+
+ulcers.
+Controlled studies do not extend beyond 6 months.
 
 ## 1.5 Helicobacter pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 

@@ -20,7 +20,7 @@ Table 5: Effect of Esomeprazole on Intragastric pH on Day 5 (N=36) Following Onc
 
 | Parameter | NEXIUM Delayed-Release Capsules |  |
 | --- | --- | --- |
-| 40 mg | 20 mg |  |
+| 40 mg once daily | 20 mg once daily |  |
 | % Time Gastric pH >4Gastric pH was measured over a 24-hour period (Hours) | 70%p< 0.01 NEXIUM 40 mg vs. NEXIUM 20 mg(16.8 h) | 53%(12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
@@ -73,8 +73,8 @@ Table 6: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole on D
 |  | NEXIUM delayed-release capsules |  |
 | --- | --- | --- |
 | ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | 40 mg once daily(n=36) | 20 mg once daily(n=36) |
-| AUC (μmol·h/L) | 12.6 (42%) | 4.2 (59%) |
-| Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
+| AUC (micromol·h/L) | 12.6 (42%) | 4.2 (59%) |
+| Cmax (micromol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (h) | 1.6 | 1.6 |
 | t1/2 (h) | 1.5 | 1.2 |
 
@@ -130,10 +130,10 @@ Table 7: Summary of Esomeprazole Pharmacokinetic Parameters Following Once Daily
 
 | Parameter | Esomeprazole Magnesium 1 mg/kg Orally Once Daily |
 | --- | --- |
-| AUC (μmol·h/L) (n=7)Geometric mean | 3.51 |
-| Css,,max (μmol/L) (n=15) | 0.87 |
-| t½ (hours) (n=8) | 0.93 |
-| tmax (hours) (n=15)Median | 3.0 |
+| AUC (micromol·h/L) (n=7)Geometric mean | 3.51 |
+| Css,,max (micromol/L) (n=15) | 0.87 |
+| t½ (h) (n=8) | 0.93 |
+| tmax (h) (n=15)Median | 3.0 |
 
 Subsequent pharmacokinetic simulation analyses showed that for pediatric patients 1 month to 11 months of age, a dosage regimen of 2.5 mg once daily (body weight 3 to 5 kg), 5 mg once daily (body weight more than 5 to 7.5 kg) and 10 mg once daily for (body weight more than 7.5 to 12 kg) would achieve comparable steady-state plasma exposures (AUC) to that observed with 10 mg once daily in patients 1 year to 11 year of age and 20 mg once daily in patients 12 years to 18 years of age, as well as adults.
 
@@ -147,14 +147,14 @@ The total exposure for the 10 mg dosage in patients aged 1 year to 5 years was a
 The total exposure for the 20 mg dosage in patients aged 6 years to 11 years was higher than that observed with the 20 mg dosage in patients aged 12 years to 17 years and adults, but lower than that observed with the 40 mg dosage in 12 to 17 year-olds and adults.
 See Table 8.
 
-Table 8: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Days of Once-Daily Oral Esomeprazole Treatment
+Table 8: Summary of Esomeprazole Pharmacokinetic Parameters Following Once Daily Dosing of NEXIUM for Delayed-Release Oral Suspension for 5 Days in 1 Year to 11 Year Old Patients with GERD
 
 | Parameter | NEXIUM For Delayed-Release Oral Suspension |  |  |
 | --- | --- | --- | --- |
 | 1 Year to 5 Years | 6 Years to 11 Years |  |  |
 | 10 mg once daily (N=8) | 10 mg once daily (N=7) | 20 mg once daily (N=6) |  |
-| AUC (μmol·h/L)Geometric mean | 4.83 | 3.70 | 6.28 |
-| Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
+| AUC (micromole h/L)Geometric mean | 4.83 | 3.70 | 6.28 |
+| Cmax (micromole/L) | 2.98 | 1.77 | 3.73 |
 | tmax (h)Arithmetic mean | 1.44 | 1.79 | 1.75 |
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
 | Cl/F (L/h) | 5.99 | 7.84 | 9.22 |
@@ -171,10 +171,10 @@ Table 9: Comparison of Esomeprazole Pharmacokinetic Parameters Following Once Da
 
 | Parameter | NEXIUM Delayed-Release Capsules |  |  |  |
 | --- | --- | --- | --- | --- |
-| 12 to 17 Years (N=28) |  | Adults (N=36) |  |  |
+| 12 Years to 17 Years (N=28) |  | Adults (N=36) |  |  |
 | 20 mg once dailyfor 8 days | 40 mg once dailyfor 8 days | 20 mg once dailyfor 5 days | 40 mg once dailyfor 5 days |  |
-| AUC (μmol·h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
-| Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
+| AUC (micromol h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| Cmax (micromol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
 | Data presented are geometric means for AUC, Cmax and t½λz, and median value for tmax. |  |  |  |  |

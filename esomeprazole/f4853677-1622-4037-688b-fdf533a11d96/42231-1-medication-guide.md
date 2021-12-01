@@ -19,7 +19,7 @@ NEXIUM can cause serious side effects, including:
 - •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
   You may or may not have a fever.
-- •Bone fractures(hip, wrist, or spine).
+- •Bone fractures (hip, wrist, or spine).
   Bone fractures in the hip, wrist, or spine may happen in people who take multiple daily doses of PPI medicines and for a long period of time (a year or longer).
   Tell your doctor if you have a bone fracture, especially in the hip, wrist, or spine.
 - •Certain types of lupus erythematosus.
@@ -70,15 +70,16 @@ Do not take NEXIUM if you are:
 - •allergic to esomeprazole magnesium, any other PPI medicine, or any of the ingredients in NEXIUM.
   See the end of this Medication Guide for a complete list of ingredients in NEXIUM.
 
-Tell your doctor right away or get emergency medical help if you get any of the following symptoms of an allergic
+Tell your doctor right away or get emergency medical help if you get any of the following symptoms of an allergic reaction with NEXIUM:
 
-reaction with NEXIUM:
+- 
+  - orash
+  - oface swelling
+  - othroat tightness
+  - odifficulty breathing
+- •taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
 
-1. o rash o throat tightness
-2. o face swelling o difficulty breathing
-3. •taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
-
-Before you take NEXIUM, tell your doctor if you:
+Before taking NEXIUM, tell your doctor about all of your medical conditions, including if you:
 
 - •have low magnesium levels in your blood.
 - •have liver problems.
@@ -100,9 +101,13 @@ How should I take NEXIUM?
 - •Antacids may be taken with NEXIUM.
 - •Swallow NEXIUM capsules whole.
   Never chew or crush NEXIUM.
-- •If you have difficulty swallowing NEXIUM capsules you may open the capsule and empty the granules into 1 tablespoon of applesauce.
+- •If you have difficulty swallowing NEXIUM capsules, you may open the capsule and empty the granules into 1 tablespoon of applesauce.
   The applesauce used should not be hot and should be soft enough to swallow without chewing.
-  Do not mix the NEXIUM granules with any other food
+  Do not mix the NEXIUM granules with any other food.
+- •Do not crush or chew the granules.
+  Be sure to swallow the applesauce right away.
+  Throw away any remaining mixture.
+  Do not store it for later use.
 - •If you forget to take a dose of NEXIUM, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
@@ -117,16 +122,10 @@ NEXIUM can cause serious side effects, including:
 - •See “What is the most important information I should know about NEXIUM?”
 - •Vitamin B-12 levels in your body can happen in people who have taken NEXIUM for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
-- •Low magnesium levels in your body.
-  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
-  If low magnesium levels happen, it is usually after a year of treatment.
+- •Low magnesium levels in your body. can happen in people who have taken NEXIUM for at least 3 months.
+- Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
-
-Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
-
-1. • Stomach growths (fundic gland polyps).
-   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 The most common side effects with NEXIUM may include:
 

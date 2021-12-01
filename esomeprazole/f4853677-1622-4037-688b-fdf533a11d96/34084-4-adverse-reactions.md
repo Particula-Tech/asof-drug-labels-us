@@ -16,15 +16,24 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-The safety of NEXIUM was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
-Over 2,900 patients were treated in long-term studies for up to 6-12 months.
-In general, NEXIUM was well tolerated in both short and long-term clinical trials.
+The safety of NEXIUM delayed-release capsules was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
+Over 2,900 patients were treated in long-term studies for up to 6 to 12 months.
 
-The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on NEXIUM 20 mg, 2,434 patients on NEXIUM 40 mg, and 3,008 patients on omeprazole 20 mg daily.
-The most frequently occurring adverse reactions (≥1%) in all three groups were headache (5.5, 5, and 3.8, respectively) and diarrhea (no difference among the three groups).
-Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
+The safety in the treatment of healing of EE in adults was assessed in four randomized comparative clinical trials, which
 
-Additional adverse reactions that were reported as possibly or probably related to NEXIUM with an incidence <1% are listed below by body system:
+included 1,240 patients who received NEXIUM 20 mg once daily, 2,434 patients on NEXIUM 40 mg once daily, and
+
+3,008 patients on omeprazole 20 mg once daily.
+The most frequently occurring adverse reactions (at least 1%) in all three
+
+groups were headache (5.5%, 5%, and 3.8%, respectively) and diarrhea (no difference among the three groups).
+Nausea,
+
+flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or
+
+omeprazole.
+
+Less common adverse reactions with an incidence of less than 1% are listed below by body system:
 
 Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, substernal chest pain, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors;
 
@@ -58,47 +67,84 @@ Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, he
 
 Visual: conjunctivitis, vision abnormal.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in 1% or less of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12.2)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
 
-The incidence of treatment-related adverse reactions during 6-month maintenance treatment was similar to placebo.
-There were no differences in types of related adverse reactions seen during maintenance treatment up to 12 months compared to short-term treatment.
+The incidence of adverse reactions during 6-month trials for the maintenance of healing of EE with NEXIUM 20 mg once
 
-Two placebo-controlled studies were conducted in 710 patients for the treatment of symptomatic gastroesophageal reflux disease.
-The most common adverse reactions that were reported as possibly or probably related to NEXIUM were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
+daily was similar to placebo.
+There were no differences in types of adverse reactions seen during maintenance treatment
+
+up to 12 months compared to short-term treatment.
+
+Two placebo-controlled studies were conducted in 710 adult patients for the treatment of symptomatic GERD.
+The most
+
+common adverse reactions that were reported were: diarrhea (4%), headache (4%), and abdominal pain (4%).
+
+Combination Treatment with NEXIUM, Amoxicillin and Clarithromycin
+
+In clinical trials of H. pylori eradication of to reduce duodenal ulcer recurrence, no additional adverse reactions specific to
+
+the combination of NEXIUM delayed-release capsules, amoxicillin and clarithromycin were observed and were similar to
+
+those observed with NEXIUM, amoxicillin, or clarithromycin alone.
+The most frequently reported adverse reactions for
+
+patients who received NEXIUM, amoxicillin and clarithromycin for 10 days were diarrhea (9%), taste perversion (4%),
+
+and abdominal pain (4%).
+No adverse reactions were observed at higher rates with NEXIUM, amoxicillin and
+
+clarithromycin than were observed with NEXIUM alone.
+
+In clinical trials using of NEXIUM, amoxicillin and clarithromycin, no additional increased laboratory abnormalities
+
+particular to these drug combinations were observed.
+
+For more information on adverse reactions and laboratory changes with amoxicillin or clarithromycin, refer to Adverse
+
+Reactions section of the respective prescribing information.
 
 Pediatrics
 
-The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
-In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
-In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
+1 Year to 17 Years of Age
 
-The safety of NEXIUM was evaluated in 167 pediatric patients from birth to <1 year of age in three clinical trials [see Clinical Studies (14.3)].
-In a study that included 26 pediatric patients aged birth to 1 month there were no treatment related adverse reactions.
-In a study that included 43 pediatric patients age 1 to 11 months, inclusive the most frequently reported (at least 5%) adverse reactions, irrespective of causality, were irritability and vomiting.
-In a study that included 98 pediatric patients, age 1 to 11 months, inclusive exposed to esomeprazole for up to 6 weeks (including 39 patients randomized to the withdrawal phase), there were 4 treatment-related adverse reactions: abdominal pain (1%), regurgitation (1%), tachypnea (1%), and increased ALT (1%).
+The safety of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension was evaluated in 316
 
-No new safety concerns were identified in pediatric patients.
+pediatric and adolescent patients aged 1 year to 17 years in four clinical trials for the treatment of symptomatic GERD
 
-Combination Treatment with Amoxicillin and Clarithromycin
+[see Clinical Studies (14.3)].
+In 109 pediatric patients aged 1 year to 11 years, the most frequently reported (at least 1%)
 
-In clinical trials using combination therapy with NEXIUM plus amoxicillin and clarithromycin, no additional adverse reactions specific to these drug combinations were observed.
-Adverse reactions that occurred were limited to those observed when using NEXIUM, amoxicillin, or clarithromycin alone.
+treatment-related adverse reactions in these patients were diarrhea (3%), headache (2%) and somnolence (2%).
+In 149
 
-The most frequently reported drug-related adverse reactions for patients who received triple therapy for 10 days were diarrhea (9.2%), taste perversion (6.6%), and abdominal pain (3.7%).
-No treatment-emergent adverse reactions were observed at higher rates with triple therapy than were observed with NEXIUM alone.
+pediatric patients aged 12 years to 17 years the most frequently reported adverse reactions (at least 2%) were headache
 
-For more information on adverse reactions with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions sections.
+(8%), abdominal pain (3%), diarrhea (2%), and nausea (2%).
 
-In clinical trials using combination therapy with NEXIUM plus amoxicillin and clarithromycin, no additional increased laboratory abnormalities particular to these drug combinations were observed.
+1 Month to Less Than 1 Year of Age
 
-For more information on laboratory changes with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions section.
+The safety of esomeprazole magnesium was evaluated in 167 infants from 1 month to less than 1 year of age with GERD
+
+in three clinical trials [see Use in Specific Populations (8.4)].
+In a study that included 43 pediatric patients, the most
+
+frequently reported adverse reactions (at least 5%) with esomeprazole magnesium were irritability and vomiting.
+In a
+
+study that included 98 pediatric patients, administered esomeprazole magnesium for up to 6 weeks (including 39 patients
+
+randomized to the withdrawal phase), reported adverse reactions were: abdominal pain (1%), regurgitation (1%),
+
+tachypnea (1%), and increased ALT (1%).
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of NEXIUM.
+The following adverse reactions have been identified during post-approval use of esomeprazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reports are listed below by body system:
 
@@ -128,4 +174,7 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), acute generalized exanthematous pustulosis (AGEP), drug rash with eosinophilia and systemic symptoms (DRESS), cutaneous lupus erythematosus.
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.
+
+Adverse reactions associated with omeprazole may also be expected to occur with esomeprazole.
+See the full prescribing information for omeprazole for complete safety information.
