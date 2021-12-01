@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 DEPAKOTE ER (dep-a-kOte) (divalproex sodium) Extended-Release Tablets
 
@@ -55,6 +55,7 @@ Depakote may harm your unborn baby.
 
 3.
 Inflammation of your pancreas that can cause death.
+
 Call your healthcare provider right away if you have any of these symptoms:
 
 - severe stomach pain that you may also feel in your back
@@ -247,6 +248,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©1983-2021 AbbVie Inc.
 
-Revised: June 2021
+Revised: October 2021
 
-20068449
+20070100

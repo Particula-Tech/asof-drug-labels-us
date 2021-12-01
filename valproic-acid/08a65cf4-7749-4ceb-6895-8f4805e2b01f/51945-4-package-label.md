@@ -12,6 +12,20 @@ Dispense the accompanying Medication Guide to each patient.
 
 Rx only abbvie
 
+NDC 0074-7325-13
+
+100 Tablets
+
+DEPAKOTE®
+
+DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
+
+125 mg Valproic Acid Activity
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
+
 NDC 0074-6214-53
 
 No image available
@@ -33,6 +47,20 @@ Dispense the accompanying Medication Guide to each patient.
 Rx only abbvie
 
 NDC 0074-6215-13
+
+100 Tablets
+
+DEPAKOTE®
+
+DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
+
+500 mg Valproic Acid Activity
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
+
+NDC 0074-7327-13
 
 100 Tablets
 
