@@ -9,7 +9,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Use Vial; Discard unused portion
+Single-Dose Vial; Discard unused portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -19,7 +19,7 @@ Rx only
 
 Genentech
 
-10232648
+10241776
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
@@ -32,7 +32,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Use Vial; Discard unused portion
+Single-Dose Vial; Discard unused portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -42,7 +42,7 @@ Rx only
 
 Genentech
 
-10232646
+10241771
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Box
 
@@ -55,7 +55,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Use Vial; Discard unused portion
+Single-Dose Vial; Discard unused portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -65,9 +65,9 @@ Rx only
 
 Genentech
 
-10232649
+10241779
 
-# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
+# PRINCIPAL DISPLAY PANEL - 0.9 mL Prefilled Syringe Box
 
 NDC 50242-138-01
 
@@ -95,7 +95,7 @@ Genentech
 
 10223154
 
-# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box - 143
+# PRINCIPAL DISPLAY PANEL - 0.9 mL Autoinjector Box
 
 NDC 50242-143-01
 
