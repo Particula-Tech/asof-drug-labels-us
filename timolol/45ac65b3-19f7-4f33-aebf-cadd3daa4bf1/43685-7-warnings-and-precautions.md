@@ -139,7 +139,7 @@ Reproduction and fertility studies in rats demonstrated no adverse effect on mal
 
 Teratogenic Effects -Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
-Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
+Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
 
 There are no adequate and well-controlled studies in pregnant women.

@@ -12,18 +12,25 @@ NDC 24208-813-05: 5 mL in a 7.5 mL capacity bottle NDC 24208-813-10: 10 mL in a 
 
 Storage
 
-Store at 15° to 25°C (59° to 77°F).
+Store at 15°C to 25°C (59°F to 77°F).
 Protect from freezing.
 Protect from light.
+After opening, TIMOPTIC can be used until the expiration date on the bottle.
 
 Distributed by:
 
-Bausch + Lomb, a division of Bausch Health US, LLC
+Bausch + Lomb, a division of
+
+Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
 TIMOPTIC is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-© 2020 Bausch & Lomb Incorporated or its affiliates
+© 2021 Bausch & Lomb Incorporated or its affiliates
 
-Revised: 02/2020
+Revised: 11/2021
+
+9667802 (FOLDED)
+
+9667902 (FLAT)

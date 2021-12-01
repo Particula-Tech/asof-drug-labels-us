@@ -14,7 +14,7 @@ The optical rotation of timolol maleate is:
 Its molecular formula is C13H24N4O3S•C4H4O4 and its structural formula is:
 
 Timolol maleate has a molecular weight of 432.50.
-It is a white, odorless, crystalline powder which is soluble in water;sparingly soluble in ethanol;slightly soluble in chloroform; practically insoluble in ether.
+It is a white, odorless, crystalline powder which is soluble in water; sparingly soluble in ethanol; slightly soluble in chloroform; practically insoluble in ether.
 TIMOPTIC is stable at room temperature.
 
 TIMOPTIC Ophthalmic Solution is supplied as a sterile, isotonic, buffered, aqueous solution of timolol maleate in two dosage strengths.
