@@ -1,12 +1,12 @@
 # DESCRIPTION
 
-Lisinopril is an oral long-acting angiotensin converting enzyme inhibitor.
-Lisinopril, a synthetic peptide derivative, is chemically described as 1-[N2-[(S)-1-Carboxy-3-phenylpropyl)-L-lysyl]-L-proline dihydrate.
-Its chemical formula is C21H31N3O5• 2H2O and its structural formula is:
+Isosorbide dinitrate (ISDN) is 1,4:3,6-dianhydro-D-glucitol 2,5-dinitrate, an organic nitrate whose structural formula is
 
-Lisinopril is a white to off-white, crystalline powder, with a molecular weight of 441.53.
-It is soluble in water and sparingly soluble in methanol and practically insoluble in ethanol.
+and whose molecular weight is 236.14.
+The organic nitrates are vasodilators, active on both arteries and veins.
 
-Lisinopril is supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration.
+Isosorbide dinitrate is a white, crystalline powder which is stable in air and in solution, has a melting point of 69° to 72°C and has an optical rotation of +140° (c=1.0, alcohol, 20°C).
+Isosorbide dinitrate is very slightly soluble in water, very soluble in acetone, sparingly soluble in alcohol.
 
-Lisinopril Tablets 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg contain the following inactive ingredients: dibasic calcium phosphate, magnesium stearate, mannitol, starch and talc.
+Each Isosorbide Dinitrate Tablet, USP contains 40 mg of isosorbide dinitrate.
+The inactive ingredients in each tablet are anhydrous lactose, D&C yellow #10 aluminum lake, FD&C blue #1/brilliant blue FCF aluminum lake, FD&C yellow #6/sunset yellow FCF aluminum lake, magnesium stearate, microcrystalline cellulose.

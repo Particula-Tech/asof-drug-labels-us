@@ -1,114 +1,51 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of Action: Lisinopril inhibits angiotensin converting enzyme (ACE) in human subjects and animals.
-ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II.
-Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
-The beneficial effects of lisinopril in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system.
-Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
-The latter decrease may result in a small increase of serum potassium.
-In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L; and approximately 6% had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L.
-(See PRECAUTIONS.)
-Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
+The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
+Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).
+Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload).
+Dilatation of the coronary arteries also occurs.
+The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined.
 
-ACE is identical to kininase, an enzyme that degrades bradykinin.
-Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of lisinopril remains to be elucidated.
+Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration.
+This strategy is inappropriate for organic nitrates.
+Several well-controlled clinical trials have used exercise testing to assess the anti-anginal efficacy of continuously-delivered nitrates.
+In the large majority of these trials, active agents were no more effective than placebo after 24 hours (or less) of continuous therapy.
+Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed.
 
-While the mechanism through which lisinopril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, lisinopril is antihypertensive even in patients with low-renin hypertension.
-Although lisinopril was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to monotherapy than non-Black patients.
+Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored.
 
-Concomitant administration of lisinopril and hydrochlorothiazide further reduced blood pressure in Black and non-Black patients and any racial differences in blood pressure response were no longer evident.
+## Pharmacokinetics
 
-## Pharmacokinetics and Metabolism
+Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bioavailability is highly variable (10% to 90%), with extensive first-pass metabolism in the liver.
+Serum levels reach their maxima about an hour after ingestion.
+The average bioavailability of isosorbide dinitrate is about 25%; most studies have observed progressive increases in bioavailability during chronic therapy.
 
-Adult Patients: Following oral administration of lisinopril, peak serum concentrations of lisinopril occur within about 7 hours, although there was a trend to a small delay in time taken to reach peak serum concentrations in acute myocardial infarction patients.
-Declining serum concentrations exhibit a prolonged terminal phase which does not contribute to drug accumulation.
-This terminal phase probably represents saturable binding to ACE and is not proportional to dose.
+Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so isosorbide dinitrate’s half-life in serum is about an hour.
+Since the clearance exceeds hepatic blood flow, considerable extra hepatic metabolism must also occur.
+Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 
-Lisinopril does not appear to be bound to other serum proteins.
-Lisinopril does not undergo metabolism and is excreted unchanged entirely in the urine.
-Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large intersubject variability (6%-60%) at all doses tested (5-80 mg).
-Lisinopril absorption is not influenced by the presence of food in the gastrointestinal tract.
-The absolute bioavailability of lisinopril is reduced to 16% in patients with stable NYHA Class II-IV congestive heart failure, and the volume of distribution appears to be slightly smaller than that in normal subjects.
-The oral bioavailability of lisinopril in patients with acute myocardial infarction is similar to that in healthy volunteers.
+Both metabolites have biological activity, especially the 5-mononitrate.
+With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronide, and denitration/hydration to sorbitol.
+The 2-mononitrate has been less well studied, but it appears to participate in the same metabolic pathways, with a half-life of about 2 hours.
 
-Upon multiple dosing, lisinopril exhibits an effective half-life of accumulation of 12 hours.
+The daily dose-free interval sufficient to avoid tolerance to organic nitrates has not been well defined.
+Studies of nitroglycerin (an organic nitrate with a very short half-life) have shown that daily dose-free intervals of 10 to 12 hours are usually sufficient to minimize tolerance.
+Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release isosorbide dinitrate have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of isosorbide dinitrate and its active metabolites.
 
-Impaired renal function decreases elimination of lisinopril, which is excreted principally through the kidneys, but this decrease becomes clinically important only when the glomerular filtration rate is below 30 mL/min.
-Above this glomerular filtration rate, the elimination half-life is little changed.
-With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged.
-Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients.
-(See DOSAGE AND ADMINISTRATION.)
-Lisinopril can be removed by hemodialysis.
+Few well-controlled clinical trials of organic nitrates have been designed to detect rebound or withdrawal effects.
+In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
+The incidence, magnitude, and clinical significance of similar phenomena in patients receiving isosorbide dinitrate have not been studied.
 
-Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly.
-Multiple doses of lisinopril in rats do not result in accumulation in any tissues.
-Milk of lactating rats contains radioactivity following administration 14C lisinopril.
-By whole body autoradiography, radioactivity was found in the placenta following administration of labeled drug to pregnant rats, but none was found in the fetuses.
+## Clinical Trials
 
-Pediatric patients: Pharmacokinetics information for pediatric patients > 6 years of age is approved for AstraZeneca Company's lisinopril drug products.
-However, due to AstraZeneca's marketing exclusivity rights, this drug product is not labeled for pediatric use.
+In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg.
+Controlled trials of single oral doses of isosorbide dinitrate have demonstrated effective reductions in exercise-related angina for up to 8 hours.
+Anti-anginal activity is present about 1 hour after dosing.
 
-## Pharmacodynamics and Clinical Effects
+Most controlled trials of multiple-dose oral isosorbide dinitrate taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing.
+Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 0800, 1400, and 1800 hours), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above.
+The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first.
 
-Hypertension
-
-Adult Patients: Administration of lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt- depleted patients.
-(See WARNINGS.)
-When given together with thiazide-type diuretics, the blood pressure lowering effects of the two drugs are approximately additive.
-
-In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of lisinopril, with peak reduction of blood pressure achieved by 6 hours.
-Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses.
-However, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
-
-In some patients achievement of optimal blood pressure reduction may require two to four weeks of therapy.
-
-The antihypertensive effects of lisinopril are maintained during long-term therapy.
-Abrupt withdrawal of lisinopril has not been associated with a rapid increase in blood pressure, or a significant increase in blood pressure compared to pretreatment levels.
-
-Two dose-response studies utilizing a once-daily regimen were conducted in 438 mild to moderate hypertensive patients not on a diuretic.
-Blood pressure was measured 24 hours after dosing.
-An antihypertensive effect of lisinopril was seen with 5 mg in some patients.
-However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20, or 80 mg of lisinopril.
-In controlled clinical studies, lisinopril 20-80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5-50 mg and with atenolol 50-200 mg; and in patients with moderate to severe hypertension to metoprolol 100-200 mg.
-It was superior to hydrochlorothiazide in effects on systolic and diastolic pressure in a population that was 3/4 Caucasian.
-Lisinopril was approximately equivalent to atenolol and metoprolol in effects on diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
-
-Lisinopril had similar effectiveness and adverse effects in younger and older (> 65 years) patients.
-It was less effective in Blacks than in Caucasians.
-
-In hemodynamic studies in patients with essential hypertension, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance with little or no change in cardiac output and in heart rate.
-In a study in nine hypertensive patients, following administration of lisinopril, there was an increase in mean renal blood flow that was not significant.
-Data from several small studies are inconsistent with respect to the effect of lisinopril on glomerular filtration rate in hypertensive patients with normal renal function, but suggest that changes, if any, are not large.
-
-In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure.
-(See PRECAUTIONS.)
-
-Pediatric Patients: Clinical study information for pediatric patients > 6 years of age is approved for AstraZeneca Company's lisinopril drug products.
-However, due to AstraZeneca's marketing exclusivity rights, this drug product is not labeled for pediatric use.
-
-Heart Failure: During baseline-controlled clinical trials, in patients receiving digitalis and diuretics, single doses of lisinopril resulted in decreases in pulmonary capillary wedge pressure, systemic vascular resistance and blood pressure accompanied by an increase in cardiac output and no change in heart rate.
-
-In two placebo controlled, 12-week clinical studies, using doses of lisinopril up to 20 mg, lisinopril as adjunctive therapy to digitalis and diuretics improved the following signs and symptoms due to congestive heart failure: edema, rales, paroxysmal nocturnal dyspnea and jugular venous distention.
-In one of the studies, beneficial response was also noted for orthopnea, presence of third heart sound and the number of patients classified as NYHA Class III and IV.
-Exercise tolerance was also improved in this study.
-The once-daily dosing for the treatment of congestive heart failure was the only dosage regimen used during clinical trial development and was determined by the measurement of hemodynamic response.
-A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 and 35 mg of lisinopril in patients with heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
-
-Acute Myocardial Infarction: The Gruppo Italiano per lo Studio della Sopravvienza nell’Infarto Miocardico (GISSI-3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction admitted to a coronary care unit.
-It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long-term death and markedly impaired cardiac function.
-Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either 1) lisinopril alone (n=4841), 2) nitrates alone (n=4869), 3) lisinopril plus nitrates (n=4841), or 4) open control (n=4843).
-All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
-
-The protocol excluded patients with hypotension (systolic blood pressure < 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine > 2 mg/dL and/or proteinuria > 500 mg/24hr).
-Doses of lisinopril were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION).
-
-Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
-
-The primary outcomes of the trial were the overall mortality at 6 weeks and a combined endpoint at 6 months after the myocardial infarction, consisting of the number of patients who died, had late (day 4) clinical congestive heart failure, or had extensive left ventricular damage defined as ejection fraction < 35% or an akinetic-dyskinetic [A-D] score > 45%.
-Patients receiving lisinopril (n=9646), alone or with nitrates, had an 11% lower risk of death (2p [two-tailed]=0.04) compared to patients receiving no lisinopril (n=9672) (6.4% vs. 7.2%, respectively) at six weeks.
-Although patients randomized to receive lisinopril for up to six weeks also fared numerically better on the combined end-point at 6 months, the open nature of the assessment of heart failure, substantial loss to follow-up echocardiography, and substantial excess use of lisinopril between 6 weeks and 6 months in the group randomized to 6 weeks of lisinopril, preclude any conclusion about this endpoint.
-
-Patients with acute myocardial infarction, treated with lisinopril, had a higher (9.0% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) and renal dysfunction (2.4% versus 1.1%) in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).
-See ADVERSE REACTIONS - Acute Myocardial Infarction.
+From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours.
+No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect.
+One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release isosorbide dinitrate at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.

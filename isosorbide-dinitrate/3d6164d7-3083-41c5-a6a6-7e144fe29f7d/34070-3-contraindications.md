@@ -1,3 +1,9 @@
 # CONTRAINDICATIONS
 
-Lisinopril tablet is contraindicated in patients who are hypersensitive to this product and in patients with a history of angioedema related to previous treatment with an angiotensin converting enzyme inhibitor and in patients with hereditary or idiopathic angioedema.
+Isosorbide dinitrate tablets are contraindicated in patients who are allergic to isosorbide dinitrate or any of its ingredients.
+
+Do not use isosorbide dinitrate tablets in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors), such as sildenafil, tadalafil, or vardenafil.
+Concomitant use can cause severe hypotension, syncope, or myocardial ischemia.
+
+Do not use isosorbide dinitrate tablets in patients who are taking the soluble guanylate cyclase stimulator riociguat.
+Concomitant use can cause hypotension.
