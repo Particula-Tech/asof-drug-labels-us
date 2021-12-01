@@ -1,3 +1,89 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Bimatoprost Ophthalmic Solution, 0.03% 2.5 mL fill in 5 mL container NDC: 68083-295-01 Bottle Label Carton Label Bimatoprost Ophthalmic Solution, 0.03% 5 mL fill in 10 mL container NDC: 68083-296-01 Bottle Label Carton Label
+Bottle Label - 2.5 mL:
+
+NDC 68083-295-01 2.5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the Eyes Only
+
+Rx Only sterile Carton Label - 2.5 mL:
+
+NDC 68083-295-01 2.5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the
+
+Eyes Only
+
+Rx Only sterile
+
+Bottle Label - 5 mL:
+
+NDC 68083-296-01 5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the Eyes Only
+
+Rx Only sterile
+
+Carton Label - 5 mL:
+
+NDC 68083-296-01 5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the
+
+Eyes Only
+
+Rx Only sterile
+
+Bottle Label - 7.5 mL:
+
+NDC 68083-439-01 7.5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the Eyes Only
+
+Rx Only Sterile
+
+Carton Label - 7.5 mL:
+
+NDC 68083-439-01 7.5 mL
+
+Bimatoprost
+
+Ophthalmic
+
+Solution
+
+0.03% For Use in the
+
+Eyes Only
+
+Rx Only sterile

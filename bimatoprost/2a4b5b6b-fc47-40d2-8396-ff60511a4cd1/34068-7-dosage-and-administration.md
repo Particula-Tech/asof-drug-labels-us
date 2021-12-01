@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The recommended dosage is one drop in the affected eye(s) once daily in the evening.
 Bimatoprost ophthalmic solution, 0.03% should not be administered more than once daily since it has been shown that more frequent administration of prostaglandin analogs may decrease the intraocular pressure lowering effect.
