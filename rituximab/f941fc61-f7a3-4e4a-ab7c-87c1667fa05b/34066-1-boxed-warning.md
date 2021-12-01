@@ -4,7 +4,7 @@ Infusion-Related Reactions
 
 Administration of rituximab products can result in serious, including fatal, infusion-related reactions.
 Deaths within 24 hours of rituximab infusion have occurred.
-Approximately 80% of fatal infusion reactions occurred in association with the first infusion.
+Approximately 80% of fatal infusion-related reactions occurred in association with the first infusion.
 Monitor patients closely.
 Discontinue RUXIENCE infusion for severe reactions and provide medical treatment for Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 
@@ -20,4 +20,4 @@ Discontinue RUXIENCE and concomitant medications in the event of HBV reactivatio
 
 Progressive Multifocal Leukoencephalopathy (PML)
 
-Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving rituximab products [see Warnings and Precautions (5.4), Adverse Reactions (6.2)].
+Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving rituximab products [see Warnings and Precautions (5.4), Adverse Reactions (6.3)].

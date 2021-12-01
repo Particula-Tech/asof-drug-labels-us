@@ -7,7 +7,7 @@ Severe reactions typically occurred during the first infusion with time to onset
 Rituximab product-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-For patients with GPA and MPA, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RUXIENCE.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
@@ -93,14 +93,30 @@ The safety of immunization with live viral vaccines following rituximab product 
 
 For patients treated with RUXIENCE, physicians should review the patient's vaccination status and patients should, if possible, be brought up-to-date with all immunizations in agreement with current immunization guidelines prior to initiating RUXIENCE and administer non live vaccines at least 4 weeks prior to a course of RUXIENCE.
 
+The effect of rituximab on immune responses was assessed in a randomized, controlled study in patients with RA treated with rituximab and methotrexate (MTX) compared to patients treated with MTX alone.
+
+A response to pneumococcal vaccination (a T-cell independent antigen) as measured by an increase in antibody titers to at least 6 of 12 serotypes was lower in patients treated with rituximab plus MTX as compared to patients treated with MTX alone (19% vs. 61%).
+A lower proportion of patients in the rituximab plus MTX group developed detectable levels of anti-keyhole limpet hemocyanin antibodies (a novel protein antigen) after vaccination compared to patients on MTX alone (47% vs. 93%).
+
+A positive response to tetanus toxoid vaccine (a T-cell dependent antigen with existing immunity) was similar in patients treated with rituximab plus MTX compared to patients on MTX alone (39% vs. 42%).
+The proportion of patients maintaining a positive Candida skin test (to evaluate delayed type hypersensitivity) was also similar (77% of patients on rituximab plus MTX vs. 70% of patients on MTX alone).
+
+Most patients in the rituximab-treated group had B-cell counts below the lower limit of normal at the time of immunization.
+The clinical implications of these findings are not known.
+
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on human data, rituximab products can cause fetal harm due to B-cell lymphocytopenia in infants exposed in-utero.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception while receiving RUXIENCE and for at least 12 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception while receiving RUXIENCE and for 12 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
-## 5.12 Concomitant Use with Other Biologic Agents and DMARDS in GPA and MPA
+## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
 
-Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs).
+Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
 Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with rituximab products.
+
+## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
+
+While the efficacy of rituximab was supported in four controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, and in a controlled trial in MTX-naïve patients, a favorable risk-benefit relationship has not been established in these populations.
+The use of RUXIENCE in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.6)].

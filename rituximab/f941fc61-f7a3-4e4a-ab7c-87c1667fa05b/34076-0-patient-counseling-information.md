@@ -46,8 +46,8 @@ Embryo-Fetal Toxicity
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
 
-Advise females of reproductive potential to use effective contraception during treatment with RUXIENCE and for at least 12 months after the last dose [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with RUXIENCE and for 12 months after the last dose [see Use in Specific Populations (8.3)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with RUXIENCE and for at least 6 months after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with RUXIENCE and for 6 months after the last dose [see Use in Specific Populations (8.2)].

@@ -12,7 +12,9 @@ The following clinically significant adverse reactions are discussed in greater 
 - Renal toxicity [see Warnings and Precautions (5.8)]
 - Bowel obstruction and perforation [see Warnings and Precautions (5.9)]
 
-## 6.1 Clinical Trials Experience in Lymphoid Malignancies
+## 6.1 Clinical Trials Experience
+
+Summary of Clinical Trials Experience in Lymphoid Malignancies
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -157,23 +159,113 @@ In CLL Study 1, the following Grade 3 and 4 adverse reactions occurred more freq
 In CLL Study 2, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. <1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion-related reaction of any severity.
 
-## 6.2 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+Summary of Clinical Trials Experience in Rheumatoid Arthritis
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The data presented below reflect the experience in 2,578 RA patients treated with rituximab in controlled and long-term studiesPooled studies: NCT00074438, NCT00422383, NCT00468546, NCT00299130, NCT00282308, NCT00266227, NCT02693210, NCT02093026 and NCT02097745. with a total exposure of 5,014 patient years.
+
+Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion-related reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
+
+In placebo-controlled studies, patients received 2 × 500 mg or 2 × 1,000 mg intravenous infusions of rituximab or placebo, in combination with methotrexate, during a 24-week period.
+From these studies, 938 patients treated with rituximab (2 × 1,000 mg) or placebo have been pooled (see Table 2).
+Adverse reactions reported in ≥5% of patients were hypertension, nausea, upper respiratory tract infection, arthralgia, pyrexia and pruritus (see Table 2).
+The rates and types of adverse reactions in patients who received rituximab 2 × 500 mg were similar to those observed in patients who received rituximab 2 × 1,000 mg.
+
+Table 2These data are based on 938 patients treated in Phase 2 and 3 studies of rituximab (2 × 1,000 mg) or placebo administered in combination with methotrexate.
+Incidence of All Adverse ReactionsCoded using MedDRA.
+Occurring in ≥2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
+
+| Adverse Reaction | Placebo + MTX N=398 n (%) | Rituximab + MTX N=540 n (%) |
+| --- | --- | --- |
+| Hypertension | 21 (5) | 43 (8) |
+| Nausea | 19 (5) | 41 (8) |
+| Upper Respiratory Tract Infection | 23 (6) | 37 (7) |
+| Arthralgia | 14 (4) | 31 (6) |
+| Pyrexia | 8 (2) | 27 (5) |
+| Pruritus | 5 (1) | 26 (5) |
+| Chills | 9 (2) | 16 (3) |
+| Dyspepsia | 3 (<1) | 16 (3) |
+| Rhinitis | 6 (2) | 14 (3) |
+| Paresthesia | 3 (<1) | 12 (2) |
+| Urticaria | 3 (<1) | 12 (2) |
+| Abdominal Pain Upper | 4 (1) | 11 (2) |
+| Throat Irritation | 0 (0) | 11 (2) |
+| Anxiety | 5 (1) | 9 (2) |
+| Migraine | 2 (<1) | 9 (2) |
+| Asthenia | 1 (<1) | 9 (2) |
+
+Infusion-Related Reactions
+
+In the rituximab RA pooled placebo-controlled studies, 32% of rituximab-treated patients experienced an adverse reaction during or within 24 hours following their first infusion, compared to 23% of placebo-treated patients receiving their first infusion.
+The incidence of adverse reactions during the 24-hour period following the second infusion, rituximab or placebo, decreased to 11% and 13%, respectively.
+Acute infusion-related reactions (manifested by fever, chills, rigors, pruritus, urticaria/rash, angioedema, sneezing, throat irritation, cough, and/or bronchospasm, with or without associated hypotension or hypertension) were experienced by 27% of rituximab-treated patients following their first infusion, compared to 19% of placebo-treated patients receiving their first placebo infusion.
+The incidence of these acute infusion-related reactions following the second infusion of rituximab or placebo decreased to 9% and 11%, respectively.
+Serious acute infusion-related reactions were experienced by <1% of patients in either treatment group.
+Acute infusion-related reactions required dose modification (stopping, slowing, or interruption of the infusion) in 10% and 2% of patients receiving rituximab or placebo, respectively, after the first course.
+The proportion of patients experiencing acute infusion-related reactions decreased with subsequent courses of rituximab.
+The administration of intravenous glucocorticoids prior to rituximab infusions reduced the incidence and severity of such reactions, however, there was no clear benefit from the administration of oral glucocorticoids for the prevention of acute infusion-related reactions.
+Patients in clinical studies also received antihistamines and acetaminophen prior to rituximab infusions.
+
+Infections
+
+In the pooled, placebo-controlled studies, 39% of patients in the rituximab group experienced an infection of any type compared to 34% of patients in the placebo group.
+The most common infections were nasopharyngitis, upper respiratory tract infections, urinary tract infections, bronchitis, and sinusitis.
+
+The incidence of serious infections was 2% in the rituximab-treated patients and 1% in the placebo group.
+
+In the experience with rituximab in 2,578 RA patients, the rate of serious infections was 4.31 per 100 patient years.
+The most common serious infections (≥ 0.5%) were pneumonia or lower respiratory tract infections, cellulitis and urinary tract infections.
+Fatal serious infections included pneumonia, sepsis and colitis.
+Rates of serious infection remained stable in patients receiving subsequent courses.
+In 185 rituximab-treated RA patients with active disease, subsequent treatment with a biologic DMARD, the majority of which were TNF antagonists, did not appear to increase the rate of serious infection.
+Thirteen serious infections were observed in 186.1 patient years (6.99 per 100 patient years) prior to exposure and 10 were observed in 182.3 patient years (5.49 per 100 patient years) after exposure.
+
+Cardiovascular Adverse Reactions
+
+In the pooled, placebo-controlled studies, the proportion of patients with serious cardiovascular reactions was 1.7% and 1.3% in the rituximab and placebo treatment groups, respectively.
+Three cardiovascular deaths occurred during the double-blind period of the RA studies including all rituximab regimens (3/769=0.4%) as compared to none in the placebo treatment group (0/389).
+
+In the experience with rituximab in 2,578 RA patients, the rate of serious cardiac reactions was 1.93 per 100 patient years.
+The rate of myocardial infarction (MI) was 0.56 per 100 patient years (28 events in 26 patients), which is consistent with MI rates in the general RA population.
+These rates did not increase over three courses of rituximab.
+
+Since patients with RA are at increased risk for cardiovascular events compared with the general population, patients with RA should be monitored throughout the infusion and RUXIENCE should be discontinued in the event of a serious or life-threatening cardiac event.
+
+Hypophosphatemia and Hyperuricemia
+
+In the pooled, placebo-controlled studies, newly-occurring hypophosphatemia (<2.0 mg/dL was observed in 12% (67/540) of patients on rituximab versus 10% (39/398) of patients on placebo.
+Hypophosphatemia was more common in patients who received corticosteroids.
+Newly-occurring hyperuricemia (>10 mg/dL) was observed in 1.5% (8/540) of patients on rituximab versus 0.3% (1/398) of patients on placebo.
+
+In the experience with rituximab in RA patients, newly-occurring hypophosphatemia was observed in 21% (528/2570) of patients and newly-occurring hyperuricemia was observed in 2% (56/2570) of patients.
+The majority of the observed hypophosphatemia occurred at the time of the infusions and was transient.
+
+Retreatment in Patients with RA
+
+In the experience with rituximab in RA patients, 2,578 patients have been exposed to rituximab and have received up to 10 courses of rituximab in RA clinical trials, with 1,890, 1,043, and 425 patients having received at least two, three, and four courses, respectively.
+Most of the patients who received additional courses did so 24 weeks or more after the previous course and none were retreated sooner than 16 weeks.
+The rates and types of adverse reactions reported for subsequent courses of rituximab were similar to rates and types seen for a single course of rituximab.
+
+In RA Study 2, where all patients initially received rituximab, the safety profile of patients who were retreated with rituximab was similar to those who were retreated with placebo [see Clinical Studies (14.6), and Dosage and Administration (2.5)].
+
+Summary of Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Induction Treatment of Adult Patients with Active GPA/MPA (GPA/MPA Study 1)
 
-The data presented below from GPA/MPA Study 1 (NCT00104299) reflect the experience in 197 adult patients with active GPA and MPA treated with rituximab or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase [see Clinical Studies (14.6)].
+The data presented below from GPA/MPA Study 1 (NCT00104299) reflect the experience in 197 adult patients with active GPA and MPA treated with rituximab or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase [see Clinical Studies (14.7)].
 In the 6-month remission induction phase, 197 patients with GPA and MPA were randomized to either rituximab 375 mg/m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The rituximab group did not receive additional therapy to maintain remission.
 The primary analysis was at the end of the 6 month remission induction period and the safety results for this period are described below.
 
-Adverse reactions presented below in Table 2 were adverse events which occurred at a rate of greater than or equal to 10% in the rituximab group.
-This table reflects experience in 99 GPA and MPA patients treated with rituximab, with a total of 47.6 patient-years of observation and 98 GPA and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
+Adverse reactions presented below in Table 3 were adverse events which occurred at a rate of greater than or equal to 10% in the rituximab group.
+This table reflects experience in 99 GPA and MPA patients treated with rituximab, with a total of 47.6 patient years of observation and 98 GPA and MPA patients treated with cyclophosphamide, with a total of 47.0 patient years of observation.
 Infection was the most common category of adverse events reported (47–62%) and is discussed below.
 
-Table 2 Incidence of All Adverse Reactions Occurring in ≥10% of Rituximab-treated Patients with active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
+Table 3 Incidence of All Adverse Reactions Occurring in ≥10% of Rituximab-treated Patients with active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
 | Adverse Reaction | Rituximab N=99 n (%) | Cyclophosphamide N=98 n (%) |
 | --- | --- | --- |
@@ -207,7 +299,7 @@ Infections
 In GPA/MPA Study 1, 62% (61/99) of patients in the rituximab group experienced an infection of any type compared to 47% (46/98) patients in the cyclophosphamide group by Month 6.
 The most common infections in the rituximab group were upper respiratory tract infections, urinary tract infections, and herpes zoster.
 
-The incidence of serious infections was 11% in the rituximab-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively.
+The incidence of serious infections was 11% in the rituximab-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient years, respectively.
 The most common serious infection was pneumonia.
 
 Hypogammaglobulinemia
@@ -217,9 +309,9 @@ At 6 months, in the rituximab group, 27%, 58% and 51% of patients with normal im
 
 Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment (GPA/MPA Study 2)
 
-In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [see Clinical Studies (14.6)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in adult patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
+In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [see Clinical Studies (14.7)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in adult patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
 
-The safety profile was consistent with the safety profile for rituximab in GPA and MPA.
+The safety profile was consistent with the safety profile for rituximab in RA, GPA and MPA.
 
 Infusion-Related Reactions
 
@@ -238,9 +330,9 @@ Long-term, Observational Study with Rituximab in Patients with GPA/MPA (GPA/MPA 
 
 In a long-term observational safety study (NCT01613599), 97 patients with GPA or MPA received treatment with rituximab (mean of 8 infusions [range 1–28]) for up to 4 years, according to physician standard practice and discretion.
 Majority of patients received doses ranging from 500 mg to 1,000 mg, approximately every 6 months.
-The safety profile was consistent with the safety profile for rituximab in GPA and MPA.
+The safety profile was consistent with the safety profile for rituximab in RA and GPA and MPA.
 
-## 6.3 Immunogenicity
+## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
@@ -250,10 +342,15 @@ For these reasons, comparison of the incidence of antibodies in the studies desc
 Using an ELISA assay, anti-rituximab antibody was detected in 4 of 356 (1.1%) patients with low-grade or follicular NHL receiving single-agent rituximab.
 Three of the four patients had an objective clinical response.
 
+A total of 273/2578 (11%) patients with RA tested positive for anti-rituximab antibodies at any time after receiving rituximab.
+Anti-rituximab antibody positivity was not associated with increased rates of infusion-related reactions or other adverse events.
+Upon further treatment, the proportions of patients with infusion-related reactions were similar between anti-rituximab antibody positive and negative patients, and most reactions were mild to moderate.
+Four anti-rituximab antibody positive patients had serious infusion-related reactions, and the temporal relationship between anti-rituximab antibody positivity and infusion-related reaction was variable.
+
 A total of 23/99 (23%) rituximab-treated adult patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in rituximab-treated adult patients is unclear.
 
-## 6.4 Postmarketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of rituximab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

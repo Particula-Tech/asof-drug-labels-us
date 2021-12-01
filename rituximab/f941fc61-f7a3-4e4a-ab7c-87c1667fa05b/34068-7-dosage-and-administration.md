@@ -2,19 +2,19 @@
 
 ## 2.1 Important Dosing Information
 
-Administer only as an intravenous infusion [see Dosage and Administration (2.7)].
-
+Administer only as an intravenous infusion [see Dosage and Administration (2.8)].
 Do not administer as an intravenous push or bolus.
+
 RUXIENCE should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
-Premedicate before each infusion [see Dosage and Administration (2.6)].
+Premedicate before each infusion [see Dosage and Administration (2.7)].
 
 Prior to First Infusion: Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with RUXIENCE [see Warnings and Precautions (5.3)].
 Obtain complete blood counts (CBC) including platelets prior to the first dose.
 
 During RUXIENCE Therapy: In patients with lymphoid malignancies, during treatment with RUXIENCE monotherapy, obtain complete blood counts (CBC) with differential and platelet counts prior to each RUXIENCE course.
 During treatment with RUXIENCE and chemotherapy, obtain CBC with differential and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
-In patients with GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RUXIENCE therapy.
+In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RUXIENCE therapy.
 Continue to monitor for cytopenias after final dose and until resolution.
 
 - First Infusion: Initiate infusion at a rate of 50 mg/hour.
@@ -49,7 +49,14 @@ The recommended dose is 375 mg/m2 the day prior to the initiation of FC chemothe
 When used as part of the Zevalin therapeutic regimen, infuse 250 mg/m2 in accordance with the Zevalin package insert.
 Refer to the Zevalin package insert for full prescribing information regarding the Zevalin therapeutic regimen.
 
-## 2.5 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+## 2.5 Recommended Dose for Rheumatoid Arthritis (RA)
+
+- Administer RUXIENCE as two-1,000 mg intravenous infusions separated by 2 weeks.
+- Glucocorticoids administered as methylprednisolone 100 mg intravenous or its equivalent 30 minutes prior to each infusion are recommended to reduce the incidence and severity of infusion-related reactions.
+- Subsequent courses should be administered every 24 weeks or based on clinical evaluation, but not sooner than every 16 weeks.
+- RUXIENCE is given in combination with methotrexate.
+
+## 2.6 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Induction Treatment of Adult Patients with Active GPA/MPA
 
@@ -63,18 +70,18 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 - If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RUXIENCE within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
 - If induction treatment of active disease was with other standard of care immunosuppressants, initiate RUXIENCE follow up treatment within the 4 week period that follows achievement of disease control.
 
-## 2.6 Recommended Dose for Premedication and Prophylactic Medications
+## 2.7 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RUXIENCE.
 For patients administered RUXIENCE according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
 
-For GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
 Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
 PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RUXIENCE infusion.
 
-## 2.7 Administration and Storage
+## 2.8 Administration and Storage
 
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
@@ -83,6 +90,7 @@ Do not use vial if particulates or discoloration is present.
 
 Administration
 
+Use a sterile needle and syringe to prepare RUXIENCE.
 Withdraw the necessary amount of RUXIENCE and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
@@ -90,6 +98,6 @@ Discard any unused portion left in the vial.
 
 Storage
 
-Diluted RUXIENCE solutions for infusion may be stored at 2°C to 8°C (36°F to 46°F) for 24 hours.
+Diluted RUXIENCE solutions for infusion may be stored refrigerated at 2°C to 8°C (36°F to 46°F) for 24 hours.
 Complete administration within 8 hours from removal from refrigeration.
 No incompatibilities between RUXIENCE and polyvinylchloride bags have been observed.

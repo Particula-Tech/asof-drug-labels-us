@@ -13,6 +13,10 @@ RUXIENCE (rituximab-pvvr) is indicated for the treatment of adult patients with:
 
 RUXIENCE, in combination with fludarabine and cyclophosphamide (FC), is indicated for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.
 
-## 1.3 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+## 1.3 Rheumatoid Arthritis (RA)
+
+RUXIENCE, in combination with methotrexate, is indicated for the treatment of adult patients with moderately-to severely-active rheumatoid arthritis who have had an inadequate response to one or more Tumor Necrosis Factor (TNF) antagonist therapies.
+
+## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 RUXIENCE, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
