@@ -2,13 +2,13 @@
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-0837-20
+Pfizer NDC 0008-0837-21
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
 37.5 mg*
 
-15 Capsules Rx only
+30 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 37.5 mg Capsule Blister Pack
 
@@ -35,7 +35,7 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0008-0833-20
+NDC 0008-0833-21
 
 Pfizer
 
@@ -43,9 +43,7 @@ Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
 75 mg*
 
-15 Capsules
-
-Rx only
+30 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack
 
@@ -72,7 +70,7 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0008-0836-20
+NDC 0008-0836-21
 
 Pfizer
 
@@ -80,9 +78,7 @@ Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
 150 mg*
 
-15 Capsules
-
-Rx only
+30 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Capsule Blister Pack
 
