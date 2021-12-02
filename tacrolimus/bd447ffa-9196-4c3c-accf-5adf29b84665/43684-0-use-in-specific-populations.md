@@ -70,12 +70,13 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 
 |  | Kidney | Liver |
 | --- | --- | --- |
-| Pregnancy OutcomesIncludes multiple births and terminations. | 462 | 253 |
+| Pregnancy Outcomes 1 | 462 | 253 |
 | Miscarriage | 24.5% | 25% |
 | Live births | 331 | 180 |
 | Pre-term delivery (< 37 weeks) | 49% | 42% |
 | Low birth weight (< 2500 g) | 42% | 30% |
-| Birth defects | 8% Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. | 5% |
+| Birth defects | 8% 2 | 5% |
+| Includes multiple births and terminations.Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. |  |  |
 
 Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients, and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
@@ -98,9 +99,9 @@ Effects on parturition (incomplete delivery of nonviable pups) were observed at 
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
-The developmental and health benefits of breastfeeding should be considered along with the mother�s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -115,13 +116,21 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver transplant patients.
+Safety and effectiveness have been established in pediatric liver and lung transplant patients.
 
-### Liver transplant
+### Liver Transplantation
 
 Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness have been established in pediatric liver and lung transplant patients.
+
+### Lung Transplantation
+
+The use of tacrolimus capsules in pediatric lung transplantation is supported by the experience in the U.S. Scientific Registry of Transplant Recipients (SRTR) including 450 pediatric patients receiving tacrolimus immediate-release products in combination with mycophenolate mofetil and 72 pediatric patients receiving tacrolimus immediate-release products in combination with azathioprine between 1999 to 2017.
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

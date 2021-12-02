@@ -16,11 +16,11 @@ Advise the patient or caregiver to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Boxed Warning and Warnings and Precautions (5.2)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions (5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 
@@ -68,7 +68,8 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 
 ## 17.12 Immunizations
 
-Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
+Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines.
+[see Warnings and Precautions (5.14)].
 
 Rx only
 
@@ -77,6 +78,6 @@ Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham
 Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382210.
 India.
 
-10 0108 5 6003783
+10 0108 6 6010169
 
-Issued August 2020
+Issued September 2021
