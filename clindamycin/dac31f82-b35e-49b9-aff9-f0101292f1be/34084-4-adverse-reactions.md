@@ -18,7 +18,7 @@ Adverse reactions occurring in ≥2% of patients receiving Clindesse in the plac
 Table 1.
 Adverse Reactions Occurring in ≥2% of Clindesse-Treated Patients and at a Higher Rate than Placebo-Treated Patients
 
-| Adverse Event | ClindesseN=85n (%) | PlaceboN=85n (%) |
+| Adverse Event | Clindesse N=85 n (%) | Placebo N=85 n (%) |
 | --- | --- | --- |
 | Vaginosis fungal NOS* | 12 (14) | 7 (8) |
 | Headache NOS | 6 (7) | 2 (2) |

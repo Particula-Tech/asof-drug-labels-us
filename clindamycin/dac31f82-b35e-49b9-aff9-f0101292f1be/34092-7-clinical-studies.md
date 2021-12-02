@@ -16,7 +16,7 @@ Efficacy of Clindesse for Treatment of Bacterial Vaginosis in a Randomized, Doub
 
 |  | % Cure | % Cure |  |
 | --- | --- | --- | --- |
-| Outcome | ClindesseN=78 | PlaceboN=66 | Treatment Difference† (%)[97.5% Confidence Interval] |
+| Outcome | Clindesse N=78 | Placebo N=66 | Treatment Difference† (%) [97.5% Confidence Interval] |
 | Therapeutic Cure | 29.5 | 3.0 | 26.5 [14.0, 39.0] |
 | Clinical Cure | 41.0 | 19.7 | 21.3 [4.7, 38.0] |
 | Nugent Score Cure | 44.9 | 6.1 | 38.8 [24.6, 53.1] |
@@ -32,21 +32,21 @@ The cure rates reported in the clinical studies with Clindesse were based on res
 Table 3.
 Efficacy of Clindesse in Treatment of Bacterial Vaginosis in a Randomized, Investigator-Blind, Active-Controlled Comparative Study – Modified-Intent-to-Treat
 
-|  | % Cure | % Cure |  |
-| --- | --- | --- | --- |
-| Outcome | ClindesseSingle DoseN=221 | Clindamycin Vaginal Cream (7 doses)N=211 | Treatment Difference† (%)[95% Confidence Interval] |
-| Therapeutic Cure | 33.0 | 37.0 | -3.9 [-12.9, 5.1] |
-| Clinical Cure | 53.4 | 54.0 | -0.6 [-10.0, 8.8] |
-| Nugent Score Cure | 45.7 | 49.3 | -3.6 [-13.1, 5.8] |
-| †Treatment difference = Clindesse minus clindamycin vaginal cream cure rates N = number of patients in treatment group (modified intent-to-treat population defined as all subjects randomized who received at least one dose of study medication, and who had a baseline Nugent score of at least 4) |  |  |  |
+|  | % Cure | % Cure |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Outcome | Clindesse Single Dose N=221 | Clindamycin Vaginal Cream (7 doses) N=211 | Treatment Difference† (%) [95% Confidence Interval] |  |  |  |  |
+| Therapeutic Cure | 33.0 | 37.0 | -3.9 [-12.9, 5.1] |  |  |  |  |
+| Clinical Cure | 53.4 | 54.0 | -0.6 [-10.0, 8.8] |  |  |  |  |
+| Nugent Score Cure | 45.7 | 49.3 | -3.6 [-13.1, 5.8] |  |  |  |  |
+| †Treatment difference = Clindesse minus clindamycin vaginal cream cure rates N = number of patients in treatment group (modified intent-to-treat population defined as all subjects randomized who received at least one dose of study medication, and who had a baseline Nugent score of at least 4) |  |  |  |  |  |  |  |
 
 Table 4.
 Efficacy of Clindesse in Treatment of Bacterial Vaginosis in a Randomized, Investigator-Blind, Active-Controlled Comparative Study – Per Protocol
 
-|  | % Cure | % Cure |  |
-| --- | --- | --- | --- |
-| Outcome | ClindesseSingle DoseN=126 | Clindamycin Vaginal Cream (7 doses)N=125 | Treatment Difference† (%) [95% Confidence Interval] |
-| Therapeutic Cure | 42.1 | 45.6 | -3.5 [-15.8, 8.7] |
-| Clinical Cure | 64.3 | 63.2 | 1.1 [-10.8, 13.0] |
-| Nugent Score Cure | 56.5‡ | 57.7‡ | -1.3 [-13.6, 11.1] |
-| † Treatment difference = Clindesse minus clindamycin vaginal cream cure rates N = number of patients in treatment group (per protocol population defined as all subjects included in the modified intent-to-treat population who completed the study without significant protocol violation) ‡ Four subjects (2 from each treatment group) did not have complete Nugent scores and were not included in the Nugent Score cure analysis |  |  |  |
+|  | % Cure | % Cure |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Outcome | Clindesse Single Dose N=126 | Clindamycin Vaginal Cream (7 doses) N=125 | Treatment Difference† (%) [95% Confidence Interval] |  |  |  |  |  |  |  |  |
+| Therapeutic Cure | 42.1 | 45.6 | -3.5 [-15.8, 8.7] |  |  |  |  |  |  |  |  |
+| Clinical Cure | 64.3 | 63.2 | 1.1 [-10.8, 13.0] |  |  |  |  |  |  |  |  |
+| Nugent Score Cure | 56.5‡ | 57.7‡ | -1.3 [-13.6, 11.1] |  |  |  |  |  |  |  |  |
+| † Treatment difference = Clindesse minus clindamycin vaginal cream cure rates N = number of patients in treatment group (per protocol population defined as all subjects included in the modified intent-to-treat population who completed the study without significant protocol violation) ‡ Four subjects (2 from each treatment group) did not have complete Nugent scores and were not included in the Nugent Score cure analysis |  |  |  |  |  |  |  |  |  |  |  |
