@@ -14,8 +14,8 @@ The relative incidences in clinical studies are summarized below:
 | Neoplasia |  | * |
 | Lymphoma | 0.5% |  |
 | Others | 2.8% |  |
-| * Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. |  |  |
 
+* Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited.
 The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population.
 In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1,000 patient-years of follow-up, compared with 0.8 cases per 1,000 patient-years of follow-up in those not receiving azathioprine.
 However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined.
@@ -25,7 +25,7 @@ Dose reduction or temporary withdrawal may result in reversal of these toxicitie
 Infection may occur as a secondary manifestation of bone marrow suppression or leukopenia, but the incidence of infection in renal homotransplantation is 30 to 60 times that in rheumatoid arthritis.
 Anemias, including macrocytic anemia, and/or bleeding have been reported.
 
-Patients with low or absent TPMT or NUDT15 activity are at increased risk for severe, life-threatening myelosuppression from azathioprine (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias and PRECAUTIONS: Laboratory Tests, DOSAGE AND ADMINISTRATION).
+Patients with low or absent TPMT or NUDT15 activity are at increased risk for severe, life-threatening myelosuppression from azathioprine (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 Gastrointestinal: Nausea and vomiting may occur within the first few months of therapy with azathioprine, and occurred in approximately 12% of 676 rheumatoid arthritis patients.
 The frequency of gastric disturbance often can be reduced by administration of the drug in divided doses and/or after meals.

@@ -39,7 +39,7 @@ Leukopenia does not correlate with therapeutic effect; therefore, the dose shoul
 
 TPMT or NUDT15 Deficiency
 
-Patients with thiopurine S-methyl transferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency may be at an increased risk of severe and life-threatening myelotoxicity if receiving conventional doses of azathioprine (see CLINCIAL PHARMACOLOGY).
+Patients with thiopurine S-methyl transferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency may be at an increased risk of severe and life-threatening myelotoxicity if receiving conventional doses of azathioprine (see CLINICAL PHARMACOLOGY).
 Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.
 In patients with severe myelosuppression, consider evaluation for TPMT and NUDT15 deficiency (see PRECAUTIONS: Laboratory Tests).
 Consider alternative therapy in patients with homozygous TPMT or NUDT15 deficiency and reduced dosages in patients with heterozygous deficiency (see DOSAGE AND ADMINISTRATION).
@@ -61,7 +61,7 @@ Effect on Sperm in Animals
 
 Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose1; a reduced percentage of fertile matings occurred when animals received 5 mg/kg2.
 
-Pregnancy: Pregnancy Category D. Azathioprine can cause fetal harm when administered to a pregnant woman.
+Pregnancy: Azathioprine can cause fetal harm when administered to a pregnant woman.
 Azathioprine should not be given during pregnancy without careful weighing of risk versus benefit.
 Whenever possible, use of azathioprine in pregnant patients should be avoided.
 This drug should not be used for treating rheumatoid arthritis in pregnant women3.
@@ -132,7 +132,7 @@ see WARNINGS section.
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category D. see WARNINGS section.
+Teratogenic Effects: see WARNINGS section.
 
 ## Nursing Mothers
 

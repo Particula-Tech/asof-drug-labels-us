@@ -8,7 +8,7 @@ The dose of azathioprine should not be increased to toxic levels because of thre
 Discontinuation may be necessary for severe hematologic or other toxicity, even if rejection of the homograft may be a consequence of drug withdrawal.
 
 Rheumatoid Arthritis: Azathioprine is usually given on a daily basis.
-The initial dose should be approximately 1.0 mg/kg (50 to 100 mg) given as a single dose or on a twice-daily schedule.
+The initial dose should be approximately 1 mg/kg (50 to 100 mg) given as a single dose or on a twice-daily schedule.
 The dose may be increased, beginning at 6 to 8 weeks and thereafter by steps at 4-week intervals, if there are no serious toxicities and if initial response is unsatisfactory.
 Dose increments should be 0.5 mg/kg daily, up to a maximum dose of 2.5 mg/kg per day.
 Therapeutic response occurs after several weeks of treatment, usually 6 to 8; an adequate trial should be a minimum of 12 weeks.
@@ -36,5 +36,5 @@ Patients who are heterozygous for both TPMT and NUDT15 deficiency may require mo
 Use in Renal Dysfunction: Relatively oliguric patients, especially those with tubular necrosis in the immediate postcadaveric transplant period, may have delayed clearance of azathioprine or its metabolites, may be particularly sensitive to this drug, and are usually given lower doses.
 
 Procedures for proper handling and disposal of this immunosuppressive antimetabolite drug should be considered.
-Several guidelines on this subject have been published15-21.
+Several guidelines on this subject have been published15 to 21.
 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.

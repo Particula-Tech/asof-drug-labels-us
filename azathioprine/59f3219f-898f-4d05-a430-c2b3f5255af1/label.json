@@ -5,7 +5,9 @@
   "inn": "azathioprine",
   "labeler": "Amneal Pharmaceuticals NY LLC",
   "package_ndcs": [
-    "60219-1076-1"
+    "60219-1076-1",
+    "60219-2036-1",
+    "60219-2037-1"
   ],
   "products": [
     {
