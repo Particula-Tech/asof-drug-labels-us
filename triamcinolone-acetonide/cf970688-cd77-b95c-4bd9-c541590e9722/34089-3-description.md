@@ -1,8 +1,8 @@
 # DESCRIPTION
 
 Kenalog®-40 Injection and Kenalog®-80 Injection (triamcinolone acetonide injectable suspension, USP) are a synthetic glucocorticoid corticosteroid with anti-inflammatory action.
-THESE FORMULATIONS ARE SUITABLE FOR INTRAMUSCULAR AND INTRA-ARTICULAR USE ONLY.
-THESE FORMULATIONS ARE NOT FOR INTRADERMAL INJECTION.
+THESE FORMULATION ARE SUITABLE FOR INTRAMUSCULAR AND INTRA-ARTICULAR USE ONLY.
+THESE FORMULATION ARE NOT FOR INTRADERMAL INJECTION.
 
 Kenalog®-40 Injection: Each mL of the sterile aqueous suspension provides 40 mg triamcinolone acetonide, with 0.66% sodium chloride for isotonicity, 0.99% (w/v) benzyl alcohol as a preservative, 0.63% carboxymethylcellulose sodium, and 0.04% polysorbate 80.
 Sodium hydroxide or hydrochloric acid may be present to adjust pH to 5.0 to 7.5.

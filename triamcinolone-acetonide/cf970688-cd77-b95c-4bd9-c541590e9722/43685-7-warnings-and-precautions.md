@@ -27,7 +27,7 @@ Due to the significantly higher incidence of local atrophy when the material is 
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 Kenalog-40 Injection and Kenalog-80 Injection are long-acting preparations, and are not suitable for use in acute stress situations.
-To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with Kenalog-40 Injection or Kenalog-80 Injection and for a year afterwards.
+To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with Kenalog-40 Injection and Kenalog-80 Injection and for a year afterwards.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including Kenalog-40 Injection and Kenalog-80 Injection, should not be used for the treatment of traumatic brain injury.
