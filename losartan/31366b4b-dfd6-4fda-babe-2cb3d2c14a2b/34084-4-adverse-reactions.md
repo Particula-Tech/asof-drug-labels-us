@@ -45,7 +45,7 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown in Table 1 below.
 
-Table 1:
+Table 1
 
 | Study 1* | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
@@ -79,5 +79,5 @@ Vasculitis, including Henoch-Schönlein purpura, has been reported.
 Anaphylactic reactions have been reported.
 Metabolic and Nutrition: Hyponatremia.
 Musculoskeletal: Rhabdomyolysis.
-Nervous system disorders: Dysgeusia.
+Nervous System Disorders: Dysgeusia.
 Skin: Erythroderma.
