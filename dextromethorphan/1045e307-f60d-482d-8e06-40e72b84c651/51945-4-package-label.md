@@ -25,3 +25,15 @@ DO NOT USE IF INNER FOIL SEAL IS BROKEN OR MISSING.
 Rx Only
 
 NET: 16 fl oz (473 mL)
+
+# PRINCIPAL DISPLAY PANEL
+
+ACELLA Pharmaceuticals LLC
+
+NDC 42192-607-05
+
+Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide Syrup
+
+Rx Only
+
+NET: 16 fl oz (473 mL)
