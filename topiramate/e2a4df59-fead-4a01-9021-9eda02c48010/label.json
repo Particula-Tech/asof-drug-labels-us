@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214679"
+  ],
+  "inn": "topiramate",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-9001-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "topiramate",
+      "name": "Eprontia"
+    }
+  ],
+  "setid": "e2a4df59-fead-4a01-9021-9eda02c48010",
+  "source": "dailymed"
+}
