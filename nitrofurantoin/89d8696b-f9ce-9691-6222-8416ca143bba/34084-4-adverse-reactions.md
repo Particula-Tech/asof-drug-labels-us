@@ -58,4 +58,4 @@ Laboratory Adverse Events: The following laboratory adverse events have been rep
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, Inc. at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma LLC at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

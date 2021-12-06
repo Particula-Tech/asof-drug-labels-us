@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Macrodantin is available as follows:
+Macrodantin (Nitrofurantoin Capsules, USP) (macrocrystals) is available as follows:
 
 25 mg opaque, white capsule imprinted with "MACRODANTIN 25 mg" and "52427-286".
 

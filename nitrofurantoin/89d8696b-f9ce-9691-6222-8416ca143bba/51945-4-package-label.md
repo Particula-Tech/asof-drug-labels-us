@@ -2,7 +2,7 @@ NDC 52427-286-01 Rx Only
 
 25 mg
 
-Macrodantin® (nitrofurantoin macrocrystals)
+Macrodantin® (Nitrofurantoin Capsules, USP) (macrocrystals)
 
 URINARY TRACT ANTIBACTERIAL
 
@@ -14,7 +14,7 @@ NDC 52427-287-01 Rx Only
 
 50 mg
 
-Macrodantin® (nitrofurantoin macrocrystals)
+Macrodantin® (Nitrofurantoin Capsules, USP) (macrocrystals)
 
 URINARY TRACT ANTIBACTERIAL
 
@@ -26,7 +26,7 @@ NDC 52427-288-01 Rx Only
 
 100 mg
 
-Macrodantin® (nitrofurantoin macrocrystals)
+Macrodantin® (Nitrofurantoin Capsules, USP) (macrocrystals)
 
 URINARY TRACT ANTIBACTERIAL
 

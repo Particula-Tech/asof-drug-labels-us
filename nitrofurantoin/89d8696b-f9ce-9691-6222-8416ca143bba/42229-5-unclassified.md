@@ -2,9 +2,9 @@ Rx Only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Macrodantin and other antibacterial drugs, Macrodantin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-Distributed by: Almatica Pharma, Inc. Morristown, NJ 07960 USA
+Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
 Rev.
-07/2019
+06/2020
 
-PI286-07
+PI286-08
