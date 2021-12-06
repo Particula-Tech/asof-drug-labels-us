@@ -168,7 +168,7 @@ In an independent published study in healthy volunteers who were given multiple 
 In contrast, coadministration of single oral doses of St. John’s Wort and voriconazole had no appreciable effect on voriconazole AUC0-∞.
 Long-term use of St. John’s Wort could lead to reduced voriconazole exposure [see Contraindications (4)].
 
-Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
+Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
 ##### Fluconazole (CYP2C9, CYP2C19 and CYP3A4 Inhibitor)
 
@@ -271,7 +271,7 @@ Rifabutin (300 mg once daily) decreased the Cmax and AUCτ of voriconazole at 20
 During coadministration with rifabutin (300 mg once daily), the steady state Cmax and AUCτ of voriconazole following an increased dose of 400 mg twice daily were on average approximately 2 times higher, compared with voriconazole alone at 200 mg twice daily.
 Coadministration of voriconazole at 400 mg twice daily with rifabutin 300 mg twice daily increased the Cmax and AUCτ of rifabutin by an average of 3-times (90% CI: 2.2, 4.0) and 4 times (90% CI: 3.5, 5.4), respectively, compared to rifabutin given alone [see Contraindications (4)].
 
-Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse events/toxicity:
+Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity:
 
 ##### Efavirenz, a Non-Nucleoside Reverse Transcriptase Inhibitor (CYP450 Inducer; CYP3A4 Inhibitor and Substrate)
 

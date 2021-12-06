@@ -1,11 +1,11 @@
 # Patient Information
 
-| Voriconazole Tablets(vor" i kon' a zole) |  |  |  |  |  |  |  |  |
+| Voriconazole Tablets, for oral use(vor" i kon' a zole) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Read the Patient Information that comes with voriconazole tablets before you start taking them and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your condition or treatment. |  |  |  |  |  |  |  |  |
 | What are voriconazole tablets?Voriconazole tablets are a prescription medicine used to treat certain serious fungal infections in your blood and body. These infections are called “aspergillosis,” “esophageal candidiasis,” “Scedosporium,” “Fusarium,” and “candidemia”.It is not known if voriconazole is safe and effective in children younger than 2 years old. |  |  |  |  |  |  |  |  |
 | Do not take voriconazole tablets if you: •are allergic to voriconazole or any of the ingredients in voriconazole tablets. See the end of this leaflet for a complete list of ingredients in voriconazole tablets.•are taking any of the following medicines: |  |  |  |  |  |  |  |  |
-| ocisaprideosirolimusolong-acting barbiturates like phenobarbitalorifabutinonaloxegoloivabradineovenetoclax |  | opimozideorifampinoefavirenzoergotamine, dihydroergotamine (ergot alkaloids)otolvaptan |  |  | oquinidineocarbamazepineoritonaviroSt. John’s Wort (herbal supplement) |  |  |  |
+| ocisaprideosirolimusolong-acting barbiturates like phenobarbitalorifabutinonaloxegoloivabradineovenetoclax |  | opimozideorifampinoefavirenzoergotamine, dihydroergotamine (ergot alkaloids)otolvaptan |  |  | oquinidineocarbamazepineoritonaviroSt. John’s Wort (herbal supplement)olurasidone |  |  |  |
 | Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.Do not start taking a new medicine without talking to your healthcare provider or pharmacist. |  |  |  |  |  |  |  |  |
 | Before you take voriconazole tablets, tell your healthcare provider about all of your medical conditions, including if you: •have or ever had heart disease, or an abnormal heart rate or rhythm. Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole tablets.•have low potassium levels, low magnesium levels, and low calcium levels. Your healthcare provider may do blood tests before starting and during treatment with voriconazole tablets.•have liver or kidney problems. Your healthcare provider may do blood tests to make sure you can take voriconazole tablets.•have trouble digesting dairy products, lactose (milk sugar), or regular table sugar. Voriconazole tablets contain lactose. •are pregnant or plan to become pregnant. Voriconazole can harm your unborn baby. Talk to your healthcare provider if you are pregnant or plan to become pregnant. Women who can become pregnant should use effective birth control while taking voriconazole tablets. Talk to your healthcare provider about birth control methods that may be right for you. •are breastfeeding or plan to breastfeed. It is not known if voriconazole passes into breast milk. Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.Voriconazole tablets may affect the way other medicines work, and other medicines may affect how voriconazole tablets work.Know what medicines you take. Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine. |  |  |  |  |  |  |  |  |
 | How should I take voriconazole tablets? •Voriconazole may be prescribed to you as: oVoriconazole tablets •Take voriconazole tablets exactly as your healthcare provider tells you to.•Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.•If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room. |  |  |  |  |  |  |  |  |
@@ -18,7 +18,8 @@
 | ofeeling tiredonausea and vomitingoabdominal pain |  |  | olack of energyofeeling dizzy or lightheaded |  |  |  | oweaknessoweight loss |  |
 | Symptoms of Cushing’s syndrome include: |  |  |  |  |  |  |  |  |
 | oweight gainothinning skinoexcessive hair growth |  |  |  | ofatty hump between the shoulders (buffalo hump) and a rounded face (moon face)obruising easilyoexcessive sweating |  |  |  | odarkening of the skin on the stomach, thighs, breasts, and armsohigh blood sugar |
-| •bone problems. Voriconazole tablets may cause weakening of bones and bone pain. Tell your healthcare provider if you have bone pain. Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above.The most common side effects of voriconazole tablets include: |  |  |  |  |  |  |  |  |
+| •bone problems. Voriconazole tablets may cause weakening of bones and bone pain. Tell your healthcare provider if you have bone pain. Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above. |  |  |  |  |  |  |  |  |
+| The most common side effects of voriconazole tablets include: |  |  |  |  |  |  |  |  |
 | ovision changesonauseaohallucinations (seeing or hearing things that are not there) | orashoheadacheoabnormal liver function testsochills |  |  |  |  | ovomitingofast heart beat (tachycardia)ofever |  |  |
 | Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of voriconazole tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |  |  |  |  |
 | How should I store voriconazole tablets? •Store voriconazole tablets at room temperature, 20° to 25°C (68° to 77°F). •Keep voriconazole tablets in a tightly closed container.•Safely throw away medicine that is out of date or no longer needed.•Keep voriconazole tablets, as well as all other medicines, out of the reach of children. |  |  |  |  |  |  |  |  |
@@ -31,6 +32,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad – 500 096, India
 
-75079724
+75083195
 
-Revised: 4/2021 MX:VORIC:R13
+Revised: 10/2021 MX:VORIC:R14

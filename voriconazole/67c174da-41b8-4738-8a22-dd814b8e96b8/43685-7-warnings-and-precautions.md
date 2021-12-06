@@ -31,7 +31,7 @@ Rigorous attempts to correct potassium, magnesium and calcium should be made bef
 
 ## 5.4 Visual Disturbances
 
-The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
+The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.5 Severe Cutaneous Adverse Reactions
