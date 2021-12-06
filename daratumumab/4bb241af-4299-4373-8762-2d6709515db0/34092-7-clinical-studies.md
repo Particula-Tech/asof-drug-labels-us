@@ -10,11 +10,12 @@ Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneou
 The major efficacy outcome measure was overall response rate (ORR).
 
 A total of 67 patients received DARZALEX FASPRO with VMP.
-The median age was 75 years (range: 66 to 86); 46% were male; 69% were White, 8% Asian, and 2% Black or African American; and 33% had ISS Stage I, 45% had ISS Stage II, and 22% had ISS Stage III disease.
+The median age was 75 years (range: 66 to 86 years); 46% were male; 69% were White, 8% Asian, and 2% Black or African American; and 33% had ISS Stage I, 45% had ISS Stage II, and 22% had ISS Stage III disease.
 
-Efficacy results are summarized in Table 17.
+Efficacy results are summarized in Table 19.
+The median duration of follow-up for patients was 6.9 months.
 
-Table 17: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
+Table 19: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
 
 |  | DARZALEX FASPRO-VMP (N=67) |
 | --- | --- |
@@ -39,9 +40,10 @@ The median age was 69 years (range: 33 to 82 years); 69% were male; 69% were Whi
 Patients had received a median of 1 prior line of therapy.
 A total of 52% of patients had a prior ASCT; 95% of patients received a prior PI; 59% received a prior immunomodulatory agent, including 22% who received prior lenalidomide; and 54% of patients received both a prior PI and immunomodulatory agent.
 
-Efficacy results are summarized in Table 18.
+Efficacy results are summarized in Table 20.
+The median duration of follow-up for patients was 7.1 months.
 
-Table 18: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
+Table 20: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
 
 |  | DARZALEX FASPRO-Rd (N=65) |
 | --- | --- |
@@ -69,9 +71,9 @@ APOLLO demonstrated an improvement in PFS in the DARZALEX FASPRO-Pd treatment gr
 
 Figure 1: Kaplan-Meier Curve of PFS in APOLLO
 
-Additional efficacy results from APOLLO are presented in Table 19.
+Additional efficacy results from APOLLO are presented in Table 21.
 
-Table 19: Efficacy results from APOLLOBased on intent-to-treat population
+Table 21: Efficacy results from APOLLOBased on intent-to-treat population
 
 |  | DARZALEX FASPRO-Pd (n=151) | Pd (n=153) |
 | --- | --- | --- |
@@ -96,6 +98,33 @@ The median duration of response had not been reached in the DARZALEX FASPRO-Pd g
 With a median follow-up of 16.9 months, 99 deaths were observed; 48 in the DARZALEX FASPRO-Pd group and 51 in the Pd group.
 Median OS was not reached for either treatment group.
 
+In Combination with Carfilzomib and Dexamethasone
+
+The efficacy of DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) was evaluated in a single-arm cohort of PLEIADES (NCT03412565), a multi-cohort, open-label trial.
+This cohort enrolled patients with relapsed or refractory multiple myeloma excluding patients with left ventricular ejection fraction (LVEF) less than 40%, myocardial infarction within 6 months, uncontrolled cardiac arrhythmia, or uncontrolled hypertension (systolic blood pressure >159 mmHg or diastolic >99 mmHg despite optimal treatment).
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from Weeks 1 to 8, once every 2 weeks from Weeks 9 to 24 and once every 4 weeks starting with Week 25 until disease progression or unacceptable toxicity with carfilzomib administered by IV infusion at a dose of 20 mg/m2 on Cycle 1 Day 1 and if a dose of 20 mg/m2 was tolerated, carfilzomib was administered at a dose of 70 mg/m2 as a 30-minute IV infusion, on Cycle 1 Day 8 and Day 15, and then Day 1, 8 and 15 of each cycle and dexamethasone 40 mg per week (or a reduced dose of 20 mg per week for patients ≥75 years or BMI <18.5).
+The major efficacy outcome measure was ORR.
+
+A total of 66 patients received DARZALEX FASPRO with Kd.
+The median age was 61 years (range: 42 to 84); 52% were male; 73% were White and 3% Black or African American; and 68% had ISS Stage I, 18% had ISS Stage II, and 14% had ISS Stage III disease.
+A total of 79% of patients had a prior ASCT; 91% of patients received a prior PI.
+All patients received 1 prior line of therapy with exposure to lenalidomide and 62% of patients were refractory to lenalidomide.
+
+Efficacy results are summarized in Table 22.
+At a median follow-up of 9.2 months, the median duration of response had not been reached and an estimated 85.2% (95% CI: 72.5, 92.3) maintained response for at least 6 months and 82.5% (95% CI: 68.9, 90.6) maintained response for at least 9 months.
+
+Table 22: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Kd
+
+|  | DARZALEX FASPRO-Kd (N=66) |
+| --- | --- |
+| Overall response rate (sCR+CR+VGPR+PR), n (%)Based on treated patients | 56 (84.8%) |
+| 95% CI (%) | (73.9%, 92.5%) |
+| Stringent complete response (sCR) | 11 (16.7%) |
+| Complete response (CR) | 14 (21.2%) |
+| Very good partial response (VGPR) | 26 (39.4%) |
+| Partial response (PR) | 5 (7.6%) |
+| CI=confidence interval |  |
+
 Monotherapy
 
 The efficacy of DARZALEX FASPRO as monotherapy was evaluated in COLUMBA (NCT03277105), an open-label, randomized, non-inferiority study.
@@ -114,9 +143,9 @@ Eighty-two percent of patients were refractory to their last line of prior syste
 
 The results show that DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously is non-inferior to daratumumab 16 mg/kg administered intravenously in terms of ORR and maximum trough concentration [see Clinical Pharmacology (12.3)].
 Median progression-free survival was 5.6 months in the DARZALEX FASPRO arm and 6.1 months in the intravenous daratumumab arm.
-ORR results are provided in Table 20.
+ORR results are provided in Table 23.
 
-Table 20: Efficacy Results from COLUMBA
+Table 23: Efficacy Results from COLUMBA
 
 |  | DARZALEX FASPRO (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
@@ -145,9 +174,9 @@ The median number of organs involved was 2 (range: 1–6) and 66% of patients ha
 Vital organ involvement was: cardiac 71%, renal 59% and hepatic 8%.
 The majority (79%) of patients had lambda free light chain disease.
 
-Efficacy results are summarized in Table 21.
+Efficacy results are summarized in Table 24.
 
-Table 21: Efficacy results from ANDROMEDABased on intent-to-treat population
+Table 24: Efficacy results from ANDROMEDABased on intent-to-treat population
 
 |  | DARZALEX FASPRO-VCd (n=195) | VCd (n=193) |
 | --- | --- | --- |

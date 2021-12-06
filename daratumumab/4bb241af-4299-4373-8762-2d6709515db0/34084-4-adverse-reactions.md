@@ -2,10 +2,10 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypersensitivity and Other Administration Reactions [see Warning and Precautions (5.1)].
-- Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis [see Warning and Precautions (5.2)].
-- Neutropenia [see Warning and Precautions (5.3)].
-- Thrombocytopenia [see Warning and Precautions (5.4)].
+- Hypersensitivity and Other Administration Reactions [see Warnings and Precautions (5.1)].
+- Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis [see Warnings and Precautions (5.2)].
+- Neutropenia [see Warnings and Precautions (5.3)].
+- Thrombocytopenia [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -185,7 +185,6 @@ The most frequent serious adverse reactions in >5% of patients who received DARZ
 Fatal adverse reactions occurred in 7% of patients who received DARZALEX FASPRO-Pd.
 
 Permanent treatment discontinuation due to an adverse reaction occurred in 2% of patients who received DARZALEX FASPRO-Pd.
-No adverse reactions resulting in permanent discontinuation occurred in more than 1 patient.
 
 The most common adverse reactions (≥20%) were fatigue, pneumonia, upper respiratory tract infection, and diarrhea.
 
@@ -236,6 +235,80 @@ Table 11: Select Hematology Laboratory Abnormalities Worsening from Baseline in 
 | Decreased hemoglobin | 51 | 16 | 57 | 15 |
 | Key: Pd=pomalidomide-dexamethasone |  |  |  |  |
 
+In Combination with Carfilzomib and Dexamethasone
+
+The safety of DARZALEX FASPRO with carfilzomib and dexamethasone was evaluated in a single-arm cohort of PLEIADES [see Clinical Studies (14.2)].
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from Weeks 1 to 8, once every 2 weeks from Weeks 9 to 24 and once every 4 weeks starting with Week 25 until disease progression or unacceptable toxicity (N=66) in combination with carfilzomib and dexamethasone.
+Among these patients, 77% were exposed for 6 months or longer and 27% were exposed for greater than one year.
+
+Serious adverse reactions occurred in 27% of patients who received DARZALEX FASPRO in combination with carfilzomib and dexamethasone.
+Fatal adverse reactions occurred in 3% of patients who received DARZALEX FASPRO in combination with carfilzomib and dexamethasone.
+
+Permanent discontinuation of DARZALEX FASPRO due to an adverse reaction occurred in 6% of patients who received DARZALEX FASPRO.
+
+Dosage interruptions due to an adverse reaction occurred in 46% of patients who received DARZALEX FASPRO.
+
+The most common adverse reactions (≥20%) were upper respiratory tract infection, fatigue, insomnia, hypertension, diarrhea, cough, dyspnea, headache, pyrexia, nausea and edema peripheral.
+
+Table 12 summarizes the adverse reactions in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES.
+
+Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES
+
+| All Grades (%) | Grade ≥3 (%) |  |
+| --- | --- | --- |
+| Adverse Reaction | DARZALEX FASPRO-Kd (N=66) |  |
+| Infections and infestations |  |  |
+| Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, viral pharyngitis, and viral upper respiratory tract infection. | 52 | 0 |
+| BronchitisBronchitis includes bronchitis, and bronchitis viral. |  |  |
+| General disorders and administration site conditions |  |  |
+| FatigueFatigue includes asthenia, and fatigue. | 39 | 2Only Grade 3 adverse reactions occurred. |
+| Pyrexia | 21 | 2 |
+| Edema peripheralEdema peripheral includes generalized edema, edema peripheral, and peripheral swelling. | 20 | 0 |
+| Psychiatric disorders |  |  |
+| Insomnia | 33 | 6 |
+| Vascular disorders |  |  |
+| HypertensionHypertension includes blood pressure increased, and hypertension. | 32 | 21 |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 29 | 0 |
+| Nausea | 21 | 0 |
+| Vomiting | 15 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| CoughCough includes cough, and productive cough. | 24 | 0 |
+| DyspneaDyspnea includes dyspnea, and dyspnea exertional. | 23 | 2 |
+| Nervous system disorders |  |  |
+| Headache | 23 | 0 |
+| Peripheral sensory neuropathy | 11 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 17 | 2 |
+| Musculoskeletal chest pain | 11 | 0 |
+
+Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with carfilzomib and dexamethasone include:
+
+- Gastrointestinal disorders: abdominal pain, constipation, pancreatitis
+- Infection and infestations: pneumonia, influenza, urinary tract infection, herpes zoster, sepsis
+- Metabolism and nutrition disorders: hyperglycemia, decreased appetite, hypocalcemia
+- Musculoskeletal and connective tissue disorders: muscle spasms, arthralgia
+- Nervous system disorders: paresthesia, dizziness, syncope
+- General disorders and administration site conditions: injection site reaction, infusion reactions, chills
+- Skin and subcutaneous tissue disorders: rash, pruritus
+- Cardiac disorders: cardiac failure
+- Vascular disorders: hypotension
+
+Table 13 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone in PLEIADES.
+
+Table 13: Select Laboratory Abnormalities (≥30%) Worsening from Baseline in Patients Who Received DARZALEX FASPRO-Kd in PLEIADES
+
+| All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- |
+| Laboratory Abnormality | DARZALEX FASPRO-KdDenominator is based on the safety population treated with DARZALEX FASPRO-Kd (N=66). |  |
+| Decreased platelets | 88 | 18 |
+| Decreased lymphocytes | 83 | 50 |
+| Decreased leukocytes | 68 | 18 |
+| Decreased neutrophils | 55 | 15 |
+| Decreased hemoglobin | 47 | 6 |
+| Decreased corrected calcium | 45 | 2 |
+| Increased alanine aminotransferase (ALT) | 35 | 5 |
+
 Monotherapy
 
 The safety of DARZALEX FASPRO as monotherapy was evaluated in COLUMBA [see Clinical Trials (14.2)].
@@ -254,9 +327,9 @@ Adverse reactions requiring dosage interruption in >5% of patients included thro
 
 The most common adverse reaction (≥20%) was upper respiratory tract infection.
 
-Table 12 summarizes the adverse reactions in COLUMBA.
+Table 14 summarizes the adverse reactions in COLUMBA.
 
-Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 14: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grade ≥3 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -292,9 +365,9 @@ Clinically relevant adverse reactions in <10% of patients who received DARZALEX 
 - Cardiac disorders: atrial fibrillation
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
 
-Table 13 summarizes the laboratory abnormalities in COLUMBA.
+Table 15 summarizes the laboratory abnormalities in COLUMBA.
 
-Table 13: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 15: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -309,7 +382,7 @@ Light Chain Amyloidosis
 
 In Combination with Bortezomib, Cyclophosphamide and Dexamethasone
 
-The safety of DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone (DARZALEX FASPRO-VCd) was evaluated in ANDROMEDA [see Clinical Studies (14.2)].
+The safety of DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone (DARZALEX FASPRO-VCd) was evaluated in ANDROMEDA [see Clinical Studies (14.3)].
 Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 8, once every 2 weeks from weeks 9 to 24 and once every 4 weeks starting with week 25 until disease progression or unacceptable toxicity or a maximum of 2 years.
 Among patients who received DARZALEX FASPRO-VCd, 74% were exposed for 6 months or longer and 32% were exposed for greater than one year.
 
@@ -326,9 +399,9 @@ Adverse reactions which required a dosage interruption in ≥3% of patients incl
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, diarrhea, peripheral edema, constipation, fatigue, peripheral sensory neuropathy, nausea, insomnia, dyspnea, and cough.
 
-Table 14 below summarizes the adverse reactions in patients who received DARZALEX FASPRO in ANDROMEDA.
+Table 16 below summarizes the adverse reactions in patients who received DARZALEX FASPRO in ANDROMEDA.
 
-Table 14: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) with a Difference Between Arms of >5% Compared to VCd in ANDROMEDA
+Table 16: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) with a Difference Between Arms of >5% Compared to VCd in ANDROMEDA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -353,7 +426,7 @@ Table 14: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Receive
 | General disorders and administration site conditions |  |  |  |  |
 | Injection site reactionsInjection site reactions includes terms determined by investigators to be related to daratumumab injection. | 11 | 0 | 0 | 0 |
 
-Clinically relevant adverse reactions not included in Table 14 and occurred in patients who received DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone included:
+Clinically relevant adverse reactions not included in Table 16 and occurred in patients who received DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone included:
 
 - Skin and subcutaneous tissue disorders: rash, pruritus
 - Nervous system disorders: paresthesia
@@ -366,9 +439,9 @@ Clinically relevant adverse reactions not included in Table 14 and occurred in p
 - Gastrointestinal disorders: pancreatitis
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
 
-Table 15 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in ANDROMEDA.
+Table 17 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in ANDROMEDA.
 
-Table 15: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) in ANDROMEDA
+Table 17: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) in ANDROMEDA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -395,9 +468,9 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other daratumumab products or other hyaluronidase products may be misleading.
 
-In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, less than 1% of 756 patients developed treatment-emergent anti-daratumumab antibodies.
+In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, less than 1% of 819 patients developed treatment-emergent anti-daratumumab antibodies.
 
-In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 7% of 750 patients developed treatment-emergent anti-rHuPH20 antibodies.
+In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 7% of 812 patients developed treatment-emergent anti-rHuPH20 antibodies.
 The anti-rHuPH20 antibodies did not appear to affect daratumumab exposure.
 None of the patients who tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies.
 
@@ -406,7 +479,7 @@ None of the patients who tested positive for anti-rHuPH20 antibodies tested posi
 The following adverse reactions have been identified with post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System: Anaphylactic reaction; systemic administration reactions (including death)
+Immune System: Anaphylactic reaction, Systemic administration reactions (including death)
 
 Gastrointestinal: Pancreatitis
 

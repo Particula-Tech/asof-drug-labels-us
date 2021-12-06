@@ -11,15 +11,16 @@
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
 Tables 1, 2, 3, and 4 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
 
-Monotherapy and In Combination with Lenalidomide (DARZALEX FASPRO-Rd) or Pomalidomide (DARZALEX FASPRO-Pd) and Dexamethasone
+Monotherapy and In Combination with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd), Pomalidomide and Dexamethasone (DARZALEX FASPRO-Pd) or Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd)
 
 Use the dosing schedule provided in Table 1 when DARZALEX FASPRO is administered:
 
 - in combination with lenalidomide and dexamethasone (4-week cycle) OR
 - in combination with pomalidomide and dexamethasone (4-week cycle) OR
+- in combination with carfilzomib and dexamethasone (4-week cycle) OR
 - as monotherapy.
 
-Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide or pomalidomide and dexamethasone (4-week cycle) and for monotherapy
+Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide, pomalidomide or carfilzomib and dexamethasone (4-week cycle) and for monotherapy
 
 | Weeks | Schedule |
 | --- | --- |

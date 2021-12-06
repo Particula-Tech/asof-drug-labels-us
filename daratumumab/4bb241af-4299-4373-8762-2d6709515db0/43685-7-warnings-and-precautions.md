@@ -7,10 +7,10 @@ Fatal reactions have been reported with daratumumab-containing products, includi
 
 Systemic Reactions
 
-In a pooled safety population of 832 patients with multiple myeloma (N=639) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 9% of patients experienced a systemic administration-related reaction (Grade 2: 3.5%, Grade 3: 0.8%).
-Systemic administration-related reactions occurred in 8% of patients with the first injection, 0.4% with the second injection, and cumulatively 1% with subsequent injections.
-The median time to onset was 3.2 hours (range: 9 minutes to 3.5 days).
-Of the 129 systemic administration-related reactions that occurred in 74 patients, 110 (85%) occurred on the day of DARZALEX FASPRO administration.
+In a pooled safety population of 898 patients with multiple myeloma (N=705) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 9% of patients experienced a systemic administration-related reaction (Grade 2: 3.2%, Grade 3: 1%).
+Systemic administration-related reactions occurred in 8% of patients with the first injection, 0.3% with the second injection, and cumulatively 1% with subsequent injections.
+The median time to onset was 3.2 hours (range: 4 minutes to 3.5 days).
+Of the 140 systemic administration-related reactions that occurred in 77 patients, 121 (86%) occurred on the day of DARZALEX FASPRO administration.
 Delayed systemic administration-related reactions have occurred in 1% of the patients.
 
 Severe reactions included hypoxia, dyspnea, hypertension and tachycardia.
@@ -23,9 +23,9 @@ Consider administering corticosteroids and other medications after the administr
 
 Local Reactions
 
-In this pooled safety population, injection-site reactions occurred in 8% of patients, including Grade 2 reactions in 0.6%.
+In this pooled safety population, injection-site reactions occurred in 8% of patients, including Grade 2 reactions in 0.7%.
 The most frequent (>1%) injection-site reaction was injection site erythema.
-These local reactions occurred a median of 5.5 minutes (range: 0 minutes to 6.5 days) after starting administration of DARZALEX FASPRO.
+These local reactions occurred a median of 5 minutes (range: 0 minutes to 6.5 days) after starting administration of DARZALEX FASPRO.
 Monitor for local reactions and consider symptomatic management.
 
 ## 5.2 Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis
