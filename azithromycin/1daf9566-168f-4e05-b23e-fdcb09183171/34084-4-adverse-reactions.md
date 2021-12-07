@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in labeling:
+
+- Hypersensitivity [see Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
+- QT Prolongation [see Warnings and Precautions (5.4)]
+- Cardiovascular Death [see Warnings and Precautions (5.5)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -46,13 +56,14 @@ Body as a whole: Chills, fever, flu syndrome, headache; Digestive: Abnormal stoo
 
 ## 6.2 Postmarketing Experience with Other Azithromycin Products
 
-Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+The following adverse reactions have been identified during post-approval use of azithromycin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse events reported with azithromycin immediate release formulations during the postmarketing period for which a causal relationship may not be established include:
+Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
 Allergic: Arthralgia, edema, urticaria and angioedema.
 Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension.
-There have been reports of QT prolongation and torsades de pointes.
+There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis.
 Genitourinary: Interstitial nephritis, acute renal failure and vaginitis.

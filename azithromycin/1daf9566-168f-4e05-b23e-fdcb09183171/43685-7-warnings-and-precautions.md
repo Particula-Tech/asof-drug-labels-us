@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Allergic and Skin Reactions
+## 5.1 Hypersensitivity
 
 Serious allergic reactions, including angioedema, anaphylaxis, Acute Generalized Exanthematous Pustulosis (AGEP), Stevens Johnson syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy using other formulations.
 Fatalities have been reported.
@@ -34,9 +34,17 @@ Providers should consider the risk of QT prolongation which can be fatal when we
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.5 Clostridium difficile-Associated Diarrhea (CDAD)
+## 5.5 Cardiovascular Death
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Zmax, and may range in severity from mild diarrhea to fatal colitis.
+Some observational studies have shown an approximately two-fold increased short-term potential risk of acute cardiovascular death in adults exposed to azithromycin relative to other antibacterial drugs, including amoxicillin.
+The five-day cardiovascular mortality observed in these studies ranged from 20 to 400 per million azithromycin treatment courses.
+This potential risk was noted to be greater during the first five days of azithromycin use and does not appear to be limited to those patients with preexisting cardiovascular diseases.
+The data in these observational studies are insufficient to establish or exclude a causal relationship between acute cardiovascular death and azithromycin use.
+Consider balancing this potential risk with treatment benefits when prescribing Zmax.
+
+## 5.6 Clostridioides difficile-Associated Diarrhea (CDAD)
+
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Zmax, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -47,15 +55,15 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.6 Exacerbation of Myasthenia Gravis
+## 5.7 Exacerbation of Myasthenia Gravis
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.7 Gastrointestinal Disturbances
+## 5.8 Gastrointestinal Disturbances
 
 A higher incidence of gastrointestinal adverse events (8 of 19 subjects) was observed when Zmax was administered to a limited number of subjects with GFR<10 mL/min.
 [See Use in Specific Populations (8.6)]
 
-## 5.8 Development of Drug Resistant Bacteria
+## 5.9 Development of Drug Resistant Bacteria
 
 Prescribing Zmax in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

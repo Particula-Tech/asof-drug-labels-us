@@ -7,7 +7,7 @@ General Patient Counseling
 - Patients should be instructed to take Zmax on an empty stomach (at least 1 hr before or 2 hr following a meal).
 - To ensure accurate dosing for children, use of a dosing spoon, medicine syringe, or cup is recommended.
 - Patients should be told that Zmax needs time to work, so the patient may not feel better right away.
-  If the patient's symptoms do not improve in a few days, the patient or their guardian should call their doctor.
+  If the patient's symptoms do not improve in a few days, the patient or their guardian should call their healthcare provider.
 - Patients should be instructed to immediately contact a physician if any signs of an allergic reaction occur.
 - Direct parents or caregivers to contact their physician if vomiting and irritability with feeding occurs in the infant.
 - Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
