@@ -1,6 +1,6 @@
 # WARNINGS
 
-(See also Boxed WARNING.)
+(see also Boxed WARNING)
 
 The total combined duration of use of oral ketorolac tromethamine and intravenous or intramuscular dosing of ketorolac tromethamine is not to exceed 5 days in adults.
 Ketorolac tromethamine is not indicated for use in pediatric patients.
@@ -32,7 +32,7 @@ Hemorrhage
 
 Because prostaglandins play an important role in hemostasis and NSAIDs affect platelet aggregation as well, use of ketorolac tromethamine in patients who have coagulation disorders should be undertaken very cautiously, and those patients should be carefully monitored.
 Patients on therapeutic doses of anticoagulants (e.g., heparin or dicumarol derivatives) have an increased risk of bleeding complications if given ketorolac tromethamine concurrently; therefore, physicians should administer such concomitant therapy only extremely cautiously.
-The concurrent use of ketorolac tromethamine and therapy that affects hemostasis, including prophylactic low-dose heparin (2500-5000 units q12h), warfarin and dextrans have not been studied extensively, but may also be associated with an increased risk of bleeding.
+The concurrent use of ketorolac tromethamine and therapy that affects hemostasis, including prophylactic low-dose heparin (2500 to 5000 units every 12 hours), warfarin and dextrans have not been studied extensively, but may also be associated with an increased risk of bleeding.
 Until data from such studies are available, physicians should carefully weigh the benefits against the risks, and use such concomitant therapy in these patients only extremely cautiously.
 Patients receiving therapy that affects hemostasis should be monitored closely.
 
@@ -109,7 +109,7 @@ The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of random
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
-Use of ketorolac tromethamine may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs) (see DRUG INTERACTIONS).
+Use of ketorolac tromethamine may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs) (see PRECAUTIONS – Drug Interactions).
 
 Avoid the use of ketorolac tromethamine in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If ketorolac tromethamine is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
@@ -225,7 +225,7 @@ Warfarin, Digoxin, Salicylate, and Heparin
 
 The in vitro binding of warfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to 10 mcg/mL.
 Ketorolac does not alter digoxin protein binding.
-In vitro studies indicate that, at therapeutic concentrations of salicylate (300 mcg/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential twofold increase in unbound ketorolac plasma levels.
+In vitro studies indicate that, at therapeutic concentrations of salicylate (300 mcg/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential two-fold increase in unbound ketorolac plasma levels.
 Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin and tolbutamide did not alter ketorolac tromethamine protein binding.
 
 In a study involving 12 adult volunteers, oral ketorolac tromethamine was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
@@ -247,7 +247,7 @@ During concomitant therapy with NSAIDs, the patient should be observed closely f
 
 Probenecid
 
-Concomitant administration of oral ketorolac tromethamine and probenecid resulted in decreased clearance and volume of distribution of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 mcg/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.
+Concomitant administration of oral ketorolac tromethamine and probenecid resulted in decreased clearance and volume of distribution of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately three-fold from 5.4 to 17.8 mcg/h/mL) and terminal half-life increased approximately two-fold from 6.6 to 15.1 hours.
 Therefore, concomitant use of ketorolac tromethamine and probenecid is contraindicated.
 
 Lithium
@@ -323,7 +323,7 @@ Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
 Oral doses of ketorolac tromethamine at 1.5 mg/kg (0.14 times the human AUC), administered after gestation Day 17, caused dystocia and higher pup mortality in rats.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac, resulted in increased pre- and post-implantation loss.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
@@ -380,7 +380,7 @@ In women who have difficulty conceiving or are undergoing investigation of infer
 Nursing Mothers
 
 Limited data from one published study that included 10 breastfeeding women 2-6 days postpartum showed low levels of ketorolac in breast milk and were undetectable (less than 5 ng/mL) in 4 of the patients.
-After a single administration of 10 mg of ketorolac tromethamin, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
+After a single administration of 10 mg of ketorolac tromethamine, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
 After 1 day of dosing (10 mg every 6 hours), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
 Assuming a daily intake of 400-1,000 mL of human milk per day and a maternal body weight of 60 kg, the calculated maximum daily infant exposure was 0.00263 mg/kg/day, which is 0.4% of the maternal weight-adjusted dose.
 
@@ -390,7 +390,7 @@ Available information has not shown any specific adverse events in nursing infan
 Pediatric Use
 
 Ketorolac tromethamine is not indicated for use in pediatric patients.
-The safety and effectiveness of ketorolac tromethamine in pediatric patients below the age of 17 have not been established.
+The safety and effectiveness of ketorolac tromethamine in pediatric patients below the age of 17 years have not been established.
 
 Geriatric Use (≥65 Years of Age)
 

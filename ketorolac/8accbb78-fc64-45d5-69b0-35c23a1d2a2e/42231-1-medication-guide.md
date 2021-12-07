@@ -84,7 +84,7 @@ Stop taking your NSAID and call your healthcare provider right away if you get a
 If you take too much of your NSAID, call your healthcare provider or get medical help right away.
 
 These are not all the possible side effects of NSAIDs.
-For more information, ask your pharmacist about NSAIDs.
+For more information, ask your healthcare provider or pharmacist about NSAIDs.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -113,6 +113,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0895-2.0
+LAB-0895-3.0
 
-Revised: 11/2020
+Revised: 11/2021

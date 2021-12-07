@@ -17,7 +17,7 @@ Ketorolac tromethamine is a racemic mixture of [-]S- and [+]R-enantiomeric forms
 
 Comparison of Intravenous, Intramuscular and Oral Pharmacokinetics
 
-The pharmacokinetics of ketorolac tromethamine, following intravenous, intramuscular and oral doses of ketorolac tromethamine are compared in Table 1.
+The pharmacokinetics of ketorolac tromethamine, following intravenous, intramuscular, and oral doses of ketorolac tromethamine are compared in Table 1.
 In adults, the extent of bioavailability following administration of the oral and intramuscular forms of ketorolac tromethamine was equal to that following an intravenous bolus.
 
 Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean±SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
@@ -33,12 +33,12 @@ Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean±SD) Foll
 | Cavg4 (mcg/mL) [steady state qid] |  | 0.59±0.2** |  | 0.94±0.29** | 1.88±0.59** | N/A |  | 1.09±0.3** | 2.17±0.59 |
 | Vβ5 (L/kg) |  | ———— 0.175±0.039 ———— |  |  |  |  |  | 0.210±0.044 |  |
 | % Dose metabolized = <50% Dose excreted in urine = 91 |  |  | % Dose excreted in feces = 6 % Plasma protein binding = 99 |  |  |  | 1 Time-to-peak plasma concentration2 Peak plasma concentration3 Trough plasma concentration4 Average plasma concentration5 Volume of distribution |  |  |
-| † Derived from PO pharmacokinetic studies in 77 normal fasted volunteers* Derived from intramuscular pharmacokinetic studies in 54 normal volunteers‡ Derived from intravenous pharmacokinetic studies in 24 normal volunteers†† Not applicable because 60 mg is only recommended as a single dose** Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |  |  |  |
+| † Derived from oral pharmacokinetic studies in 77 normal fasted volunteers* Derived from intramuscular pharmacokinetic studies in 54 normal volunteers‡ Derived from intravenous pharmacokinetic studies in 24 normal volunteers†† Not applicable because 60 mg is only recommended as a single dose** Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |  |  |  |
 
 Linear Kinetics
 
 In adults, following administration of single oral, intramuscular or intravenous doses of ketorolac tromethamine in the recommended dosage ranges, the clearance of the racemate does not change.
-This implies that the pharmacokinetics of ketorolac tromethamine in adults, following single or multiple intramuscular, intravenous or recommended oral doses of ketorolac tromethamine, are linear.
+This implies that the pharmacokinetics of ketorolac tromethamine in adults, following single or multiple intramuscular, intravenous, or recommended oral doses of ketorolac tromethamine, are linear.
 At the higher recommended doses, there is a proportional increase in the concentrations of free and bound racemate.
 
 Distribution
@@ -95,7 +95,7 @@ There are no pharmacokinetic data available for administration of ketorolac trom
 
 Renal Insufficiency
 
-Based on single-dose data only, the mean half-life of ketorolac tromethamine in renally impaired patients is between 6 and 19 hours, and is dependent on the extent of the impairment.
+Based on single-dose data only, the mean half-life of ketorolac tromethamine in renally impaired patients is between 6 and 19 hours and is dependent on the extent of the impairment.
 There is poor correlation between creatinine clearance and total ketorolac tromethamine clearance in the elderly and populations with renal impairment (r = 0.5).
 
 In patients with renal disease, the AUC∞ of each enantiomer increased by approximately 100% compared with healthy volunteers.
@@ -124,8 +124,8 @@ Table 2: The Influence of Age, Liver and Kidney Function, on the Clearance and T
 | Renal Dialysis Patients Intramuscular and Oral (n = 9) mean age = 40, range = 27-63 | 0.016 (0.003-0.036) | – | 13.6 (8.0-39.1) | – |  |  |  |  |  |  |  |  |  |  |
 | 1 Estimated from 30 mg single intramuscular doses of ketorolac tromethamine 2 Estimated from 10 mg single oral doses of ketorolac tromethamine 3 Liters/hour/kilogram |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Intravenous-Administration
+Intravenous-Administration:
 
-In normal subjects (n=37), the total clearance of 30 mg intravenous-administered Ketorolac Tromethamine was 0.030 (0.017-0.051) L/h/kg.
+In normal subjects (n=37), the total clearance of 30 mg intravenous-administered ketorolac tromethamine was 0.030 (0.017-0.051) L/h/kg.
 The terminal half-life was 5.6 (4.0-7.9) hours.
-(See Kinetics in Special Populations for use of intravenous dosing of ketorolac tromethamine in pediatric patients.)
+(see Kinetics in Special Populations for use of intravenous dosing of ketorolac tromethamine in pediatric patients.)
