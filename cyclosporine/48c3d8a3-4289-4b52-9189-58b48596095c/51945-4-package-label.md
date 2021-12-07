@@ -4,7 +4,7 @@ NDC 47355-506-96
 
 For topical use in the eye sterile, Preservative-Free
 
-CequaTM (cyclosporine ophthalmic solution) 0.09%
+Cequa® (cyclosporine ophthalmic solution) 0.09%
 
 60 SINGLE-USE VIALS
 
@@ -23,7 +23,7 @@ NDC 47355-507-97
 
 For topical use in the eye sterile, Preservative-Free
 
-CequaTM (cyclosporine ophthalmic solution) 0.09%
+Cequa® (cyclosporine ophthalmic solution) 0.09%
 
 10 SINGLE-USE SAMPLE VIALS
 

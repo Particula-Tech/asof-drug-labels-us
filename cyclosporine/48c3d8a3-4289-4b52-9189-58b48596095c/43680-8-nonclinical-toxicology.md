@@ -18,4 +18,4 @@ Cyclosporine was positive in an in vitro sister chromatid exchange (SCE) assay u
 
 Impairment of Fertility
 
-Oral administration of cyclosporine to rats for 12 weeks (male) and 2 weeks (female) prior to mating produced no adverse effects on fertility at doses up to 15 mg/kg/day (1620 times higher than the maximum recommended human ophthalmic dose
+Oral administration of cyclosporine to rats for 12 weeks (male) and 2 weeks (female) prior to mating produced no adverse effects on fertility at doses up to 15 mg/kg/day (1620 times higher than the maximum recommended human ophthalmic dose).

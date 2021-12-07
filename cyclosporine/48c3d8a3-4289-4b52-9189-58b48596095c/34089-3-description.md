@@ -13,5 +13,5 @@ CEQUA is supplied as a sterile, clear, colorless ophthalmic solution for topical
 It has an osmolality of 160 to 190 mOsmol/kg and a pH of 6.5-7.2.
 Each mL of CEQUA contains:
 
-- •Active: cyclosporine 0.09%
-- •Inactives: Polyoxyl 40 Hydrogenated Castor Oil, Octoxynol-40, polyvinylpyrrolidone, sodium phosphate monobasic dihydrate, sodium phosphate dibasic anhydrous, sodium chloride, water for injection, and sodium hydroxide or hydrochloric acid to adjust pH.
+- Active: cyclosporine 0.09%
+- Inactives: Polyoxyl 40 Hydrogenated Castor Oil, Octoxynol-40, polyvinylpyrrolidone, sodium phosphate monobasic dihydrate, sodium phosphate dibasic anhydrous, sodium chloride, water for injection, and sodium hydroxide or hydrochloric acid to adjust pH.
