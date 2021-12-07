@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA213328"
+  ],
+  "inn": "temozolomide",
+  "labeler": "Nivagen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "75834-132-05",
+    "75834-132-14",
+    "75834-142-05",
+    "75834-142-14",
+    "75834-143-05",
+    "75834-143-14",
+    "75834-144-05",
+    "75834-144-14",
+    "75834-145-05",
+    "75834-145-14",
+    "75834-146-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "temozolomide",
+      "name": "temozolomide"
+    }
+  ],
+  "setid": "27e5a781-e4f2-4489-9def-7971d0b86d9c",
+  "source": "dailymed"
+}

@@ -1,0 +1,8 @@
+# 4 CONTRAINDICATIONS
+
+Temozolomide capsules, USP is contraindicated in patients with a history of hypersensitivity reactions to:
+
+- temozolomide or any other ingredients in Temozolomide capsules, USP; and
+- dacarbazine, since both temozolomide and dacarbazine are metabolized to the same active metabolite 5-(3­-methyltriazen-1-yl)-imidazole-4-carboxamide.
+
+Reactions to Temozolomide have included anaphylaxis [see Adverse Reactions (6.2)].
