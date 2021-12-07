@@ -1,5 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 42571-220-30 Rasagiline Tablets 0.5 mg Rx Only 30 Tablets MICRO LABS
+NDC 42571-220-30 Rasagiline Tablets 0.5 mg Rx Only 30 Tablets MICRO LABS LIMITED
 
-NDC 42571-221-30 Rasagiline Tablets 1 mg Rx Only 30 Tablets MICRO LABS
+NDC 42571-221-30 Rasagiline Tablets 1 mg Rx Only 30 Tablets MICRO LABS LIMITED

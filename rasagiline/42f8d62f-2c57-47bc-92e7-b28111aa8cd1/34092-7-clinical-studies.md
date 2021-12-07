@@ -1,6 +1,6 @@
 # 14. CLINICAL STUDIES
 
-The effectiveness of rasagiline for the treatment of Parkinson's disease was established in four 18- to 26-week, randomized, placebo-controlled trials, as initial monotherapy or adjunctive therapy.
+The effectiveness of rasagiline for the treatment of Parkinson's disease was established in four 18- to 26-week, randomized, placebo-controlled trials, as initial monotherapy or adjunct therapy.
 
 ## 14.1 Monotherapy Use of Rasagiline
 
@@ -97,8 +97,8 @@ Table 7: Change in mean total daily “OFF” time in Study 3
 
 |  | Baseline (hours) | Change from baseline to treatment period (hours) | p-value vs. placebo |
 | --- | --- | --- | --- |
-| Placebo | 6.0 | -0.9 | --­ |
-| Rasagiline tablet 0.5 mg | 6.0 | -1.4 | 0.0199 |
+| Placebo | 6 | -0.9 | --­ |
+| Rasagiline tablet 0.5 mg | 6 | -1.4 | 0.0199 |
 | Rasagiline tablet 1.0 mg | 6.3 | -1.9 | < 0.0001 |
 
 Table 8: Change in mean total daily “OFF” time in Study 4
@@ -140,7 +140,7 @@ Table 10: Secondary Measures of Effectiveness in Study 4
 | --- | --- | --- |
 | UPDRS ADL (Activities of Daily Living) subscale score while “OFF” |  |  |
 | Placebo | 18.7 | -0.89 |
-| Rasagiline tablet 1 mg | 19.0 | -2.61 |
+| Rasagiline tablet 1 mg | 19 | -2.61 |
 | UPDRS Motor subscale score while “ON” |  |  |
 | Placebo | 23.5 | -0.82 |
 | Rasagiline tablet 1 mg | 23.8 | -3.87 |

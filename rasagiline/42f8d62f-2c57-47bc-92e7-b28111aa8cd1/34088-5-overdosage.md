@@ -12,7 +12,7 @@ Death has been reported following overdose; therefore, immediate hospitalization
 The severity of the clinical signs and symptoms of MAOI overdose varies and may be related to the amount of drug consumed.
 The central nervous and cardiovascular systems are prominently involved.
 
-Signs and symptoms of MAOI overdosage may include: drowsiness, dizziness, faintness, irritability, hyperactivity, agitation, severe headache, hallucinations, trismus, opisthotonos, convulsions, and coma; rapid and irregular pulse, hypertension, hypotension and vascular collapse; precordial pain, respiratory depression and failure, hyperpyrexia, diaphoresis, and cool, clammy skin.
+Signs and symptoms of MAOI overdose may include: drowsiness, dizziness, faintness, irritability, hyperactivity, agitation, severe headache, hallucinations, trismus, opisthotonos, convulsions, and coma; rapid and irregular pulse, hypertension, hypotension and vascular collapse; precordial pain, respiratory depression and failure, hyperpyrexia, diaphoresis, and cool, clammy skin.
 
 There is no specific antidote for rasagiline overdose.
 The following suggestions are offered based upon the assumption that rasagiline overdose may be modeled after nonselective MAO inhibitor poisoning.
@@ -26,5 +26,5 @@ For this reason, in cases of overdose with rasagiline, dietary tyramine restrict
 A poison control center should be called for the most current treatment guidelines.
 
 A postmarketing report described a single patient who developed a nonfatal serotonin syndrome after ingesting 100 mg of rasagiline in a suicide attempt.
-Another patient who was treated in error with 4 mg rasagiline daily and tramadol also developed a serotonin syndrome.
-One patient who was treated in error with 3 mg rasagiline daily experienced alternating episodes of vascular fluctuations consisting of hypertension and orthostatic hypotension.
+Another patient who was treated in error with 4 mg rasagiline tablet daily and tramadol also developed a serotonin syndrome.
+One patient who was treated in error with 3 mg rasagiline tablet daily experienced alternating episodes of vascular fluctuations consisting of hypertension and orthostatic hypotension.

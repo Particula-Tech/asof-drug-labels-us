@@ -8,7 +8,7 @@ Serious, sometimes fatal reactions have been precipitated with concomitant use o
 
 The concomitant use of rasagiline and dextromethorphan was not allowed in clinical studies.
 The combination of MAO inhibitors and dextromethorphan has been reported to cause brief episodes of psychosis or bizarre behavior.
-Therefore, in view of rasagiline MAO inhibitory activity, dextromethorphan is contraindicated for use with rasagiline [see Contraindications (4)].
+Therefore, in view of rasagiline's MAO inhibitory activity, dextromethorphan is contraindicated for use with rasagiline [see Contraindications (4)].
 
 ## 7.3 MAO Inhibitors
 
@@ -18,7 +18,7 @@ Rasagiline is contraindicated for use with other MAO inhibitors because of the i
 
 The concomitant use of rasagiline and sympathomimetic medications was not allowed in clinical studies.
 Severe hypertensive reactions have followed the administration of sympathomimetics and nonselective MAO inhibitors.
-Hypertensive crisis has been reported in patients taking the recommended dose of rasagilineand sympathomimetic medications.
+Hypertensive crisis has been reported in patients taking the recommended dose of rasagiline and sympathomimetic medications.
 Severe hypertension has been reported in patients taking the recommended dose of rasagiline and ophthalmic drops containing sympathomimetic medications.
 
 Because rasagiline is a selective MAOI, hypertensive reactions are not ordinarily expected with the concomitant use of sympathomimetic medications.
@@ -33,7 +33,7 @@ Concomitant use of rasagiline and MAO inhibitors is contraindicated [see Contrai
 
 Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
 This could result in increased adverse events.
-Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of rasagiline 0.5 mg once daily [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of rasagiline tablet 0.5 mg once daily [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.7 Tyramine/Rasagiline Interaction
 

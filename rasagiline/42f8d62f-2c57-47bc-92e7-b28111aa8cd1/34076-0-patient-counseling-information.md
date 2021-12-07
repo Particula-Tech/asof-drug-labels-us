@@ -74,12 +74,12 @@ Manufactured by:
 
 Micro Labs Limited
 
-Goa-403 722, India.
+Goa-403 722, INDIA.
 
 Manufactured for:
 
-Micro Labs USA Inc.
+Micro Labs USA, Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
 
-Revised: July 2020
+Rev.10/2021

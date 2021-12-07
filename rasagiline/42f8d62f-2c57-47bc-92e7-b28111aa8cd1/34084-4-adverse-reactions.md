@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 During the clinical development of rasagiline, Parkinson’s disease patients received rasagiline as initial monotherapy (Study 1) and as adjunct therapy (Study 2, Study 3, Study 4).
 As the populations in these studies differ, not only in the adjunct use of dopamine agonists or levodopa during rasagiline treatment, but also in the severity and duration of their disease, the adverse reactions are presented separately for each study.
 
-Monotherapy Use of rasagiline
+Monotherapy Use of Rasagiline
 
 In Study 1, approximately 5% of the 149 patients treated with rasagiline discontinued treatment due to adverse reactions compared to 2% of the 151 patients who received placebo.
 
@@ -52,7 +52,8 @@ Table 1: Adverse Reactions* in Study 1
 *Incidence 2% or greater in rasagiline tablet 1 mg group and numerically more frequent than in placebo group
 
 There were no significant differences in the safety profile based on age or gender.
-Adjunct Use of rasagiline
+
+Adjunct Use of Rasagiline
 
 Rasagiline was studied as an adjunct therapy without levodopa (Study 2), or as an adjunct therapy to levodopa, with some patients also taking dopamine agonists, COMT inhibitors, anticholinergics, or amantadine (Study 3 and Study 4).
 
