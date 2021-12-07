@@ -70,7 +70,7 @@ Table 1:Adverse Reactions due to Abiraterone Acetate in Study 1
 Table 2 shows laboratory abnormalities of interest from Study 1.
 Grade 3-4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the abiraterone acetate with a corticosteroid arm.
 
-Table 2: Laboratory Abnormalities of Interest in Study 1
+Table 2 Laboratory Abnormalities of Interest in Study 1
 
 |  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid(N=394) |  |
 | --- | --- | --- | --- | --- |

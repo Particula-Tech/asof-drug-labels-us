@@ -65,6 +65,6 @@ YONSA is a registered trademark of Sun Pharma Global FZE
 
 All rights reserved.
 
-Revised: September 2021
+Revised: March 2021
 
-uspi-YONSA-tab-00004
+uspi-YONSA-tab-00003
