@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213312"
+  ],
+  "inn": "sirolimus",
+  "labeler": "Aadi Bioscience",
+  "package_ndcs": [
+    "80803-153-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "sirolimus",
+      "name": "FYARRO"
+    }
+  ],
+  "setid": "0f9bb784-53e2-46f9-a65d-1c6c2a230eaf",
+  "source": "dailymed"
+}
