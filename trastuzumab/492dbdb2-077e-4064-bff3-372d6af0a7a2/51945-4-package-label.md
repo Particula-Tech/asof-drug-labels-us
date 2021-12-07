@@ -1,18 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 440 mg Kit Carton
-
-NDC 50242-134-68 Multi-dose Vial
-
-Herceptin® trastuzumab
-
-440 mg
-
-KEEP REFRIGERATED Rx only
-
-Genentech
-
-10167609
-
-# PRINCIPAL DISPLAY PANEL - 150 mg Vial Label
+# PRINCIPAL DISPLAY PANEL - 150 mg Vial Carton
 
 NDC 50242-132-01
 
