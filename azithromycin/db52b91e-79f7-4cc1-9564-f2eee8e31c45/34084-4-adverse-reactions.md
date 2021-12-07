@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in labeling:
+
+- Hypersensitivity [see Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
+- QT Prolongation [see Warnings and Precautions (5.4)]
+- Cardiovascular Death [see Warnings and Precautions (5.5)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -105,7 +115,7 @@ Adverse reactions reported with azithromycin during the postmarketing period in 
 Allergic: Arthralgia, edema, urticaria, and angioedema.
 
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
-There have been reports of QT prolongation and torsades de pointes.
+There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
@@ -122,7 +132,7 @@ Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactiv
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritusserious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/Appendages: Pruritus serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 

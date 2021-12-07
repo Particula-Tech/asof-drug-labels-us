@@ -118,8 +118,8 @@ ZITHROMAX can cause serious side effects, including:
   Hepatotoxicity can happen in people who take ZITHROMAX.
   Call your healthcare provider right away if you have unexplained symptoms such as: nausea or vomitingstomach painfeverweaknessabdominal pain or tendernessitchingunusual tiredness loss of appetitechange in the color of your bowel movementsdark colored urineyellowing of your skin or of the whites of your eyes Stop taking ZITHROMAX and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to ZITHROMAX (a liver problem).
-- Serious heart rhythm changes (QT prolongation and torsades de pointes).
-  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+- Serious heart rhythm changes that can be life-threatening, including heart stopping (cardiac arrest), QT prolongation, torsades de pointes, feeling that your heart is pounding or racing (palpitations), chest discomfort, or irregular heartbeat.
+  Tell your healthcare provider right away if you or your child feel a fast or irregular heartbeat, get dizzy or faint.
   ZITHROMAX may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
@@ -185,4 +185,4 @@ Inactive ingredients: sucrose; sodium phosphate, tribasic, anhydrous; hydroxypro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0372-6.0 Revised April 2019
+LAB-0372-7.0 Revised November 2021
