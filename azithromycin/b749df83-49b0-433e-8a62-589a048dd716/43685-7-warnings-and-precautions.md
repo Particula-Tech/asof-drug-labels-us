@@ -36,7 +36,15 @@ Providers should consider the risk of QT prolongation which can be fatal when we
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.5 Clostridium difficile-Associated Diarrhea (CDAD)
+## 5.5 Cardiovascular Death
+
+Some observational studies have shown an approximately two-fold increased short-term potential risk of acute cardiovascular death in adults exposed to azithromycin relative to other antibacterial drugs, including amoxicillin.
+The five-day cardiovascular mortality observed in these studies ranged from 20 to 400 per million azithromycin treatment courses.
+This potential risk was noted to be greater during the first five days of azithromycin use and does not appear to be limited to those patients with preexisting cardiovascular diseases.
+The data in these observational studies are insufficient to establish or exclude a causal relationship between acute cardiovascular death and azithromycin use.
+Consider balancing this potential risk with treatment benefits when prescribing ZITHROMAX.
+
+## 5.6 Clostridioides difficile-Associated Diarrhea (CDAD)
 
 CDAD has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
@@ -49,17 +57,17 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.6 Exacerbation of Myasthenia Gravis
+## 5.7 Exacerbation of Myasthenia Gravis
 
 Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.7 Use in Sexually Transmitted Infections
+## 5.8 Use in Sexually Transmitted Infections
 
 ZITHROMAX, (single dose 1 g packet) at the recommended dose, should not be relied upon to treat gonorrhea or syphilis.
 Antibacterial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating gonorrhea or syphilis.
 All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
 Appropriate antibacterial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
 
-## 5.8 Development of Drug-Resistant Bacteria
+## 5.9 Development of Drug-Resistant Bacteria
 
 Prescribing ZITHROMAX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
