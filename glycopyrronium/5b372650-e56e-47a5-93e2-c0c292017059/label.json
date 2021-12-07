@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210361"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Journey Medical Corporation",
+  "package_ndcs": [
+    "69489-411-01",
+    "69489-411-30"
+  ],
+  "products": [
+    {
+      "form": "CLOTH",
+      "generic": "glycopyrronium",
+      "name": "Qbrexza"
+    }
+  ],
+  "setid": "5b372650-e56e-47a5-93e2-c0c292017059",
+  "source": "dailymed"
+}
