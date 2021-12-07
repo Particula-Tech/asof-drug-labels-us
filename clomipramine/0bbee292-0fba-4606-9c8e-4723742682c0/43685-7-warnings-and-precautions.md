@@ -13,16 +13,18 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in
 
-Table 1
+Table-1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
-| <18 18 to 24 | 14 additional cases 5 additional cases |
+| <18 | 14 additional cases |
+| 18 to 24 | 5 additional cases |
 | Decreases Compared to Placebo |  |
-| 25 to 64 ≥65 | 1 fewer case 6 fewer cases |
+| 25 to 64 | 1 fewer case |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -49,7 +51,7 @@ It should be noted that clomipramine hydrochloride is not approved for use in tr
 
 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including clomipramine hydrochloride capsules, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including clomipramine hydrochloride capsules, USP alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -58,16 +60,16 @@ The concomitant use of clomipramine hydrochloride capsules, USP with MAOIs inten
 Clomipramine hydrochloride capsules, USP should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking clomipramine hydrochloride capsules.
-Clomipramine hydrochloride capsules, USP should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONSand DOSAGE AND ADMINISTRATION).
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking clomipramine hydrochloride capsules, USP.
+Clomipramine hydrochloride capsules, USP should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of clomipramine hydrochloride capsules with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of clomipramine hydrochloride capsules, USP with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with clomipramine hydrochloride capsules, USP and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 Angle-Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs including clomipramine hydrochloride capsules may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including clomipramine hydrochloride capsules, USP may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 Seizures
 
@@ -83,8 +85,8 @@ Nevertheless, prescribers are advised to limit the daily dose to a maximum of 25
 Caution should be used in administering clomipramine hydrochloride capsules, USP to patients with a history of seizures or other predisposing factors, e.g., brain damage of varying etiology, alcoholism, and concomitant use with other drugs that lower the seizure threshold.
 
 Rare reports of fatalities in association with seizures have been reported by foreign postmarketing surveillance, but not in U.S. clinical trials.
-In some of these cases, clomipramine hydrochloride capsules had been administered with other epileptogenic agents; in others, the patients involved had possibly predisposing medical conditions.
-Thus a causal association between clomipramine hydrochloride capsules treatment and these fatalities has not been established.
+In some of these cases, clomipramine hydrochloride capsules, USP had been administered with other epileptogenic agents; in others, the patients involved had possibly predisposing medical conditions.
+Thus a causal association between clomipramine hydrochloride capsules, USP treatment and these fatalities has not been established.
 
 Physicians should discuss with patients the risk of taking clomipramine hydrochloride capsules, USP while engaging in activities in which sudden loss of consciousness could result in serious injury to the patient or others, e.g., the operation of complex machinery, driving, swimming, climbing.
 
@@ -118,8 +120,8 @@ In the vast majority of instances, these enzyme increases were not associated wi
 Rare reports of more severe liver injury, some fatal, have been recorded in foreign postmarketing experience.
 Caution is indicated in treating patients with known liver disease, and periodic monitoring of hepatic enzyme levels is recommended in such patients.
 
-Hematologic Changes – Although no instances of severe hematologic toxicity were seen in the premarketing experience with clomipramine hydrochloride capsules, there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with clomipramine hydrochloride capsules use.
-As is the case with tricyclic antidepressants to which clomipramine hydrochloride capsule is closely related, leukocyte and differential blood counts should be obtained in patients who develop fever and sore throat during treatment with clomipramine hydrochloride capsules.
+Hematologic Changes – Although no instances of severe hematologic toxicity were seen in the premarketing experience with clomipramine hydrochloride capsules, USP there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with clomipramine hydrochloride capsules, USP use.
+As is the case with tricyclic antidepressants to which clomipramine hydrochloride capsule is closely related, leukocyte and differential blood counts should be obtained in patients who develop fever and sore throat during treatment with clomipramine hydrochloride capsules, USP.
 
 Central Nervous System – More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
 Most cases occurred when clomipramine hydrochloride capsules, USP was used in combination with other drugs.
@@ -136,10 +138,10 @@ Discontinuation of clomipramine hydrochloride capsules, USP in patients with sym
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-Weight Changes – In controlled studies of OCD, weight gain was reported in 18% of patients receiving clomipramine hydrochloride capsules, compared with 1% of patients receiving placebo.
-In these studies, 28% of patients receiving clomipramine hydrochloride capsules had a weight gain of at least 7% of their initial body weight, compared with 4% of patients receiving placebo.
+Weight Changes – In controlled studies of OCD, weight gain was reported in 18% of patients receiving clomipramine hydrochloride capsules, USP compared with 1% of patients receiving placebo.
+In these studies, 28% of patients receiving clomipramine hydrochloride capsules, USP had a weight gain of at least 7% of their initial body weight, compared with 4% of patients receiving placebo.
 Several patients had weight gains in excess of 25% of their initial body weight.
-Conversely, 5% of patients receiving clomipramine hydrochloride capsules and 1% receiving placebo had weight losses of at least 7% of their initial body weight.
+Conversely, 5% of patients receiving clomipramine hydrochloride capsules, USP and 1% receiving placebo had weight losses of at least 7% of their initial body weight.
 
 Electroconvulsive Therapy – As with closely related tricyclic antidepressants, concurrent administration of clomipramine hydrochloride capsules, USP with electroconvulsive therapy may increase the risks; such treatment should be limited to those patients for whom it is essential, since there is limited clinical experience.
 
@@ -199,7 +201,7 @@ The risks of using clomipramine hydrochloride capsules, USP in combination with 
 Given the primary CNS effects of clomipramine hydrochloride capsules, USP caution is advised in using it concomitantly with other CNS-active drugs (see Information for Patients).
 Clomipramine hydrochloride capsules, USP should not be used with MAO inhibitors (see CONTRAINDICATIONS).
 
-Close supervision and careful adjustment of dosage are required when clomipramine hydrochloride capsule, USP is administered with anticholinergic or sympathomimetic drugs.
+Close supervision and careful adjustment of dosage are required when clomipramine hydrochloride capsule is administered with anticholinergic or sympathomimetic drugs.
 
 Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.
 
@@ -217,11 +219,11 @@ Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in
 The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.
 Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.
 Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).
-Concomitant use of agents in the tricyclic antidepressant class (which includes clomipramine hydrochloride capsules) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.
+Concomitant use of agents in the tricyclic antidepressant class (which includes clomipramine hydrochloride capsules, USP) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.
 Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant agent may be required.
-It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine hydrochloride capsule is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).
+It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine hydrochloride capsule, USP is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).
 
-Because clomipramine hydrochloride capsule is highly bound to serum protein, the administration of clomipramine hydrochloride capsules, USP to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.
+Because clomipramine hydrochloride capsule, USP is highly bound to serum protein, the administration of clomipramine hydrochloride capsules, USP to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.
 Conversely, adverse effects may result from displacement of protein-bound clomipramine hydrochloride capsules, USP by other highly bound drugs (see CLINICAL PHARMACOLOGY, Distribution).
 
 Monoamine Oxidase Inhibitors (MAOIs)
@@ -236,7 +238,7 @@ Serotonergic Drugs
 
 No evidence of carcinogenicity was found in two 2-year bioassays in rats at doses up to 100 mg/kg, which is 24 and 4 times the maximum recommended human daily dose (MRHD) on a mg/kg and mg/m2 basis, respectively, or in a 2-year bioassay in mice at doses up to 80 mg/kg, which is 20 and 1.5 times the MRHD on a mg/kg and mg/m2 basis, respectively.
 
-In reproduction studies, no effects on fertility were found in rats given up to 24 mg/kg, which is 6 times, and approximately equal to, the MRHD on a mg/kg and mg/m2 basis, respectively.
+In reproduction studies, no effects on fertility were found in rats given up to 24 mg/kg, which is 6 times, and approximately equal to, the MRHD on a mg/kg and mg/m 2 basis, respectively.
 
 ## Pregnancy
 
@@ -254,7 +256,7 @@ Because of the potential for adverse reactions, a decision should be made whethe
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNINGand WARNINGS, Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of clomipramine hydrochloride capsules, USP in a child or adolescent must balance the potential risks with the clinical need.
 
 In a controlled clinical trial in children and adolescents (10 to 17 years of age), 46 outpatients received clomipramine hydrochloride capsules, USP for up to 8 weeks.
@@ -264,7 +266,7 @@ The adverse reaction profile in this age group (see ADVERSE REACTIONS) is simila
 
 The risks, if any, that may be associated with clomipramine hydrochloride capsule’s extended use in children and adolescents with OCD have not been systematically assessed.
 The evidence supporting the conclusion that clomipramine hydrochloride capsules, USP is safe for use in children and adolescents is derived from relatively short term clinical studies and from extrapolation of experience gained with adult patients.
-In particular, there are no studies that directly evaluate the effects of long term clomipramine hydrochloride capsules use on the growth, development, and maturation of children and adolescents.
+In particular, there are no studies that directly evaluate the effects of long term clomipramine hydrochloride capsules, USP use on the growth, development, and maturation of children and adolescents.
 Although there is no evidence to suggest that clomipramine hydrochloride capsules, USP adversely affects growth, development or maturation, the absence of such findings is not adequate to rule out a potential for such effects in chronic use.
 
 The safety and effectiveness in pediatric patients below the age of 10 have not been established.

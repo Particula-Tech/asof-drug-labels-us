@@ -21,7 +21,8 @@ Depression and other serious mental illnesses are the most important causes of s
 Some people may have a particularly high risk of having suicidal thoughts or actions.
 These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
-3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+3.
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -97,16 +98,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: Micro Labs Limited Goa- 403 722, INDIA.
 
-Micro Labs Limited
-
-Goa- 403 722, INDIA.
-
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Basking Ridge, NJ 07920
-
-Revised: May 2020
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873 Rev.11/2021

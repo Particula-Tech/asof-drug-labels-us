@@ -12,8 +12,8 @@ Goa- 403 722, INDIA.
 
 Manufactured for:
 
-Micro Labs USA Inc.
+Micro Labs USA, Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
 
-Revised: May 2020
+Rev.11/ 2021

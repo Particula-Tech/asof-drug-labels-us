@@ -211,9 +211,9 @@ Postmarketing Experience
 The following adverse drug reaction has been reported during post-approval use of clomipramine hydrochloride capsules, USP.
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
 
-Eye Disorders – angle-closure glaucoma.
+Eye Disorders – Angle-closure glaucoma.
 
-Immune System Disorders – Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+Immune System Disorders – Drug Rash with Eosinophilia and Systemic Symptoms (DRESS).
 
 Metabolism and Nutrition Disorders – Hyponatremia.
 

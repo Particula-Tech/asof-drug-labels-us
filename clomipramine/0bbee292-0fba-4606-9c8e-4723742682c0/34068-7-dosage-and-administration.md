@@ -32,7 +32,7 @@ Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with clomipramine hydrochloride capsules, USP.
 Conversely, at least 14 days should be allowed after stopping clomipramine hydrochloride capsules, USP before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-Use of Clomipramine HydrochlorideWith Other MAOIs, Such as Linezolid or Methylene Blue
+Use of Clomipramine Hydrochloride With Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start clomipramine hydrochloride capsules, USP in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).

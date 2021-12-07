@@ -7,12 +7,12 @@ The actual neurochemical mechanism is unknown, but CMI’s capacity to inhibit t
 
 Pharmacokinetics
 
-Absorption/Bioavailability – CMI from clomipramine hydrochloride capsule is as bioavailable as CMI from a solution.
+Absorption/Bioavailability – CMI from clomipramine hydrochloride capsule, USP is as bioavailable as CMI from a solution.
 The bioavailability of CMI from capsules is not significantly affected by food.
 
 In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (Css) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI’s major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although Css and AUC are approximately linearly related to dose between 100 to 150 mg/day.
 The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher Css and AUC even for patients dosed within the recommended range.
-This may pose a potential risk to some patients (see WARNINGSand PRECAUTIONS, Drug Interactions).
+This may pose a potential risk to some patients (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).
 After multiple daily doses of 150 mg of clomipramine hydrochloride capsules, USP steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI.
@@ -40,7 +40,7 @@ After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean
 Plasma concentrations of the metabolite exceed the parent drug on multiple dosing.
 After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6.
 Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI (see DOSAGE AND ADMINISTRATION).
-The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride capsules have not been determined.
+The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride capsules, USP have not been determined.
 
 Interactions – Co-administration of haloperidol with CMI increases plasma concentrations of CMI.
 Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital (see PRECAUTIONS, Drug Interactions).
