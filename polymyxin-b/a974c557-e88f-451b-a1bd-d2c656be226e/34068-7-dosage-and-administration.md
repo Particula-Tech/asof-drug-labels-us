@@ -18,7 +18,7 @@ Adults and children over 2 years of age Dosage is 50,000 units once daily intrat
 Children under 2 years of age 20,000 units once daily, intrathecally for 3 to 4 days or 25,000 units once every other day.
 Continue with a dose of 25,000 units once every other day for at least 2 weeks after cultures of the cerebrospinal fluid are negative and sugar content has returned to normal.
 IN THE INTEREST OF SAFETY, SOLUTIONS OF PARENTERAL USE SHOULD BE STORED UNDER REFRIGERATION, AND ANY UNUSED PORTIONS SHOULD BE DISCARDED AFTER 72 HOURS.
-TOPICAL: Ophthalmic Dissolve 500,000 polymyxin B units in 20 to 50 mL sterile water for injection or sodium chloride injection USP for a 10,000 to 25,000 units per mL concentration.
+TOPICAL: Ophthalmic Dissolve 500,000 polymyxin B units in 20 to 50 mL sterile water for injection or sodium chloride injection, USP for a 10,000 to 25,000 units per mL concentration.
 For the treatment of Ps aeruginosa infections of the eye, a concentration of 0.1 percent to 0.25 percent (10,000 units to 25,000 units per mL) is administered 1 to 3 drops every hour, increasing the intervals as response indicates.
 Subconjunctival injection of up to 100,000 units/day may be used for the treatment of Ps aeruginosa infections of the cornea and conjunctiva.
 Note: Avoid total systemic and ophthalmic instillation over 25,000 units/kg/day.
