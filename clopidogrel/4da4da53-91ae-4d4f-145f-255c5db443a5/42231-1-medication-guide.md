@@ -13,14 +13,14 @@ What is the most important information I should know about clopidogrel tablets?
 1.
 Clopidogrel tablets may not work as well in people who:
 
-- have certain genetic factors that affect how the body breaks down clopidogrel tablets.
+- have certain genetic factors that affect how the body breaks down clopidogrel.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
 - take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tablets tan cause bleeding which can be serious and can some times lead to death.
-Clopidogrel tablets are a blood thinner medicine that lowers the chance of blood clots forming in your body.
+Clopidogrel tablets can cause bleeding which can be serious and can some times lead to death.
+Clopidogrel tablets are blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
 - you may bruise and bleed more easily
@@ -61,7 +61,7 @@ Who should not take clopidogrel tablets?
 Do not take clopidogrel tablets if you:
 
 - currently have a condition that causes bleeding, such as a stomach ulcer
-- are allergic to clopidogrel tablets or other ingredients in clopidogrel tablets.
+- are allergic to clopidogrel or other ingredients in clopidogrel tablets.
   See the end of this leaflet for a complete list of ingredients in clopidogrel tablets.
 
 What should I tell my doctor before taking clopidogrel tablets?

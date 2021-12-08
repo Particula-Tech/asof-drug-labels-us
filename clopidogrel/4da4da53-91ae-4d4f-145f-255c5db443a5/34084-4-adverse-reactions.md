@@ -87,7 +87,7 @@ Because these reactions are reported voluntarily from a population of an unknown
 
 Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel.
 
-- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP)), acquired hemophilia A
+- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis,gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test

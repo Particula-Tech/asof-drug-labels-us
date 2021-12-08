@@ -51,12 +51,12 @@ Patients were randomized to receive clopidogrel (75 mg once daily) or placebo, i
 
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 
-The patient population included 28% women, 58% age ≥60 years (26% age ≥70 years).
+The patient population was 28% women and 58% age ≥60 years (26% age ≥70 years).
 Fifty-five percent (55%) of patients received thrombolytics and only 3% underwent PCI.
 
 As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
 
-Table 5: Outcome Events in the COMMIT
+Table 5: Outcome Events in COMMIT
 
 | Event | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke
 * All treated patients received aspirin
 
 The effect of clopidogrel did not differ significantly in various pre-specified subgroups as shown in Figure 6.
-The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history (see Figure 7).
+The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
 Figure 6: Effects of Adding Clopidogrel to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study
@@ -88,7 +88,7 @@ Figure 6: Effects of Adding Clopidogrel to Aspirin on the Combined Primary Endpo
 CAPRIE
 
 The CAPRIE trial was a 19,185-patient, 304-center, international, randomized, double-blind, parallel-group study comparing clopidogrel (75 mg daily) to aspirin (325 mg daily).
-The patients randomized had: 1) recent histories of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; or 3) established peripheral arterial disease.
+To be eligible to enroll, patients had to have: 1) recent history of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; and/or 3) established peripheral arterial disease (PAD).
 Patients received randomized treatment for an average of 1.6 years (maximum of 3 years).
 
 The trial's primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death.

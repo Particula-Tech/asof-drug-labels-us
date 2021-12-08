@@ -10,7 +10,8 @@ As a precaution, avoid concomitant use of strong CYP2C19 inducers [see Warnings 
 ## 7.2 CYP2C19 Inhibitors
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition [see Warnings and Precautions(5.1)].
+Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+[see Warnings and Precautions(5.1)].
 
 Omeprazole or Esomeprazole
 
