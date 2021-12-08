@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213561"
+  ],
+  "inn": "atropine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6251-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "atropine sulfate",
+      "name": "Atropine Sulfate"
+    }
+  ],
+  "setid": "4c15d3cc-7888-4c82-b3f8-a5d93c5523df",
+  "source": "dailymed"
+}
