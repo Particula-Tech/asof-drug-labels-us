@@ -11,11 +11,11 @@ The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 The chemical structure of tazobactam sodium is: Piperacillin and tazobactam for injection, USP contains a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
 Piperacillin and tazobactam for injection, USP is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass vials.
 
-- Each piperacillin and tazobactam for injection, USP 2.25 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 2 g of piperacillin USP and tazobactam sodium equivalent to 0.25 g of tazobactam USP.
+- Each piperacillin and tazobactam for injection, USP 2.25 g single-dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 2 g of piperacillin USP and tazobactam sodium equivalent to 0.25 g of tazobactam USP.
   Each vial contains 4.7 mEq (108 mg) of sodium.
-- Each piperacillin and tazobactam for injection, USP 3.375 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 3 g of piperacillin USP and tazobactam sodium equivalent to 0.375 g of tazobactam USP.
+- Each piperacillin and tazobactam for injection, USP 3.375 g single-dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 3 g of piperacillin USP and tazobactam sodium equivalent to 0.375 g of tazobactam USP.
   Each vial contains 7.05 mEq (162 mg) of sodium.
-- Each piperacillin and tazobactam for injection, USP 4.5 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 4 g of piperacillin USP and tazobactam sodium equivalent to 0.5 g of tazobactam USP.
+- Each piperacillin and tazobactam for injection, USP 4.5 g single-dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 4 g of piperacillin USP and tazobactam sodium equivalent to 0.5 g of tazobactam USP.
   Each vial contains 9.4 mEq (216 mg) of sodium.
 
 Meets the USP Organic Impurities Test 4.
