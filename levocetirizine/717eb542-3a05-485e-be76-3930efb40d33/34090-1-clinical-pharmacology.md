@@ -73,7 +73,7 @@ Data generated from this analysis indicated that administration of 1.25 mg once 
 Geriatric patients
 
 Limited pharmacokinetic data are available in elderly subjects.
-Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65–74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
+Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65 to 74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
 The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
 This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
 Therefore, the levocetirizine dihydrochloride dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].

@@ -16,10 +16,9 @@ Advise patients to not ingest more than the recommended dose of levocetirizine d
 
 The brands listed are trademarks of their respective owners and are not trademarks of Micro Labs Ltd. The makers of these brands are not affiliated with and do not endorse Micro Labs Ltd., or its products.
 
-Manufactured for:
+Manufactured by: Micro Labs Limited Goa-403 722, INDIA.
 
-Micro Labs USA Inc.
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Basking Ridge, NJ 07920
-
-Revised: 0142019
+Rev.
+10/2021

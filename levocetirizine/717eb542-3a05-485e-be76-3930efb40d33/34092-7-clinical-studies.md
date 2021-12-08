@@ -9,7 +9,7 @@ The four clinical trials include two dose-ranging trials of 4 weeks duration and
 
 These trials included a total of 1729 patients (752 males and 977 females) of whom 227 were adolescents 12 to 17 years of age.
 Efficacy was assessed using a total symptom score from patient recording of 4 symptoms (sneezing, rhinorrhea, nasal pruritus, and ocular pruritus) in three studies and 5 symptoms (sneezing, rhinorrhea, nasal pruritus, ocular pruritus, and nasal congestion) in one study.
-Patients recorded symptoms using a 0-3 categorical severity scale (0 = absent, 1 = mild, 2 = moderate, 3 = severe) once daily in the evening reflective of the 24 hour treatment period.
+Patients recorded symptoms using a 0 to 3 categorical severity scale (0 = absent, 1 = mild, 2 = moderate, 3 = severe) once daily in the evening reflective of the 24 hour treatment period.
 The primary endpoint was the mean total symptom score averaged over the first week and over 4 weeks for perennial allergic rhinitis trials.
 
 The two dose-ranging trials were conducted to evaluate the efficacy of levocetirizine dihydrochloride 2.5, 5, and 10 mg once daily in the evening.
@@ -65,7 +65,7 @@ The two trials included one 4-week dose-ranging trial and one 4-week single-dose
 These trials included 423 patients (139 males and 284 females).
 Most patients (>90%) were Caucasian and the mean age was 41.
 Of these patients, 146 received levocetirizine dihydrochloride 5 mg once daily in the evening.
-Efficacy was assessed based on patient recording of pruritus severity on a severity score of 0–3 (0 = none to 3 = severe).
+Efficacy was assessed based on patient recording of pruritus severity on a severity score of 0 to 3 (0 = none to 3 = severe).
 The primary efficacy endpoint was the mean reflective pruritus severity score over the first week and over the entire treatment period.
 Additional efficacy variables were the instantaneous pruritus severity score, the number and size of wheals, and duration of pruritus.
 

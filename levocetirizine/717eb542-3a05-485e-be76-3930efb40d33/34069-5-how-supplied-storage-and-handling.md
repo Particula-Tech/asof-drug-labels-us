@@ -11,6 +11,6 @@ They are supplied in
 
 4) Carton of 10x10 Unit-dose Tablets NDC 42571-122-32
 
-Storage
+Storage:
 
 Store at 20ºC to 25ºC (68ºF to 77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86°F) [see USP Controlled Room Temperature].
