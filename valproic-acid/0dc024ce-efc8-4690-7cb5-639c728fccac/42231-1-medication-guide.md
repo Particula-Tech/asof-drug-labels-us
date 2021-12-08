@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 DEPAKOTE ER (dep-a-kOte) (divalproex sodium) Extended-Release Tablets
 
@@ -235,6 +235,7 @@ Inactive ingredients:
 - Depakote Extended-Release Tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
   The 500 mg tablets also contain iron oxide and polydextrose.
 - Depakote Tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin. ○ Individual tablets also contain: 125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40, 250 mg tablets: FD&C Yellow No. 6 and iron oxide, 500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
+
 - Depakote Sprinkle Capsules: cellulosic polymers, D&C Red No. 28, FD&C Blue No. 1 gelatin, iron oxide, magnesium stearate, silica gel, titanium dioxide, and triethyl citrate.
 
 Depakote ER: 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
@@ -247,6 +248,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©2000-2021 AbbVie Inc.
 
-Revised: June 2021
+Revised: November 2021
 
-20068448
+20070544
