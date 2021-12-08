@@ -84,6 +84,8 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 The following adverse reactions have been identified during postapproval use of clopidogrel.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel.
+
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP)), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis,gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
@@ -94,5 +96,5 @@ Because these reactions are reported voluntarily from a population of an unknown
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension

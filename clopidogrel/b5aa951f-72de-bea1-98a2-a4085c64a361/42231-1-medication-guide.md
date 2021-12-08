@@ -61,7 +61,7 @@ Who should not take clopidogrel tablets?
 Do not take clopidogrel tablets if you:
 
 - currently have a condition that causes bleeding, such as a stomach ulcer
-- are allergic to clopidogrel tablets or other ingredients in clopidogrel tablets.
+- are allergic to clopidogrel or other ingredients in clopidogrel tablets.
   See the end of this leaflet for a complete list of ingredients in clopidogrel tablets.
 
 What should I tell my doctor before taking clopidogrel tablets?
@@ -144,7 +144,7 @@ Clopidogrel tablets can cause serious side effects including:
 - stomach area (abdominal) pain
 - nausea, vomiting, or diarrhea
 - vision changes
-- Persistent low blood sugar symptoms
+- persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
