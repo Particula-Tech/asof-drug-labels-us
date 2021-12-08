@@ -100,6 +100,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
+Manufactured for: Alembic Pharmaceuticals, Inc.
 
-Revised: 06/2020
+Bedminster, NJ 07921, USA
+
+Revised: 10/2021

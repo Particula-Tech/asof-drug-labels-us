@@ -56,7 +56,7 @@ Table 5: Mean Changes from Baseline to Week 12 in Efficacy Endpoints in Study 3
 
 1 Primary endpoint 2 Secondary endpoint
 
-Table 6: Mean Change from Baseline to Endpoint for Solifenacin Succinate Tablets (10 mg daily) and Placebo: Study 4
+Table 6: Mean Changes from Baseline to Week 12 in Efficacy Endpoints in Study 4
 
 | Parameter | Placebo (N=295) Mean (SE) | Solifenacin Succinate Tablets 10 mg (N=298) Mean (SE) |
 | --- | --- | --- |
