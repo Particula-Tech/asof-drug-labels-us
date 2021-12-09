@@ -22,7 +22,7 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
 To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-© 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
-Rev 08/2020
+© 2021 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+Rev 12/2021
 
 CARBATROL® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
