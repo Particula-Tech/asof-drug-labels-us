@@ -27,7 +27,7 @@ No maternal toxicity was detectable at 250 mcg/kg/day.
 Prenatal and postnatal development was assessed in rats.
 Pregnant rats were administered latanoprost daily by IV injection from gestation Day 15, through delivery, until weaning (lactation Day 21).
 No adverse effects on rat offspring were observed at doses up to 10 mcg/kg/day (32 times the maximum RHOD, on a mg/m2 basis, assuming 100% absorption).
-At 100/mcg/kg/day (324 times the maximum RHOD), maternal deaths and pup mortality occurred.
+At 100 mcg/kg/day (324 times the maximum RHOD), maternal deaths and pup mortality occurred.
 
 ## 8.2 Lactation
 
