@@ -33,15 +33,15 @@ For bolus intravenous administration, prepare a solution containing a final conc
 1.
 Perform visual inspection on the syringe by verifying:
 
-- -Absence of syringe damage
-- -Absence of external particles
-- -Absence of internal particles
-- -Proper drug color
-- -Drug name
-- -Drug strength
-- -Fill volume
-- -Route of administration
-- -Expiration date to be sure the drug has not expired
+- •Absence of syringe damage
+- •Absence of external particles
+- •Absence of internal particles
+- •Proper drug color
+- •Drug name
+- •Drug strength
+- •Fill volume
+- •Route of administration
+- •Expiration date to be sure the drug has not expired
 
 2.
 Do not remove tamper evident seal.
@@ -65,7 +65,7 @@ Adjust dose into sterile material (if applicable).
 7.
 Connect the syringe to an appropriate intravenous connection.
 
-- -Before injection, ensure that the syringe is securely attached to the needle or needleless luer access device (NLAD).
+- •Before injection, ensure that the syringe is securely attached to the needle or needleless luer access device (NLAD).
 
 8.
 Depress plunger rod to deliver medication.
@@ -74,11 +74,11 @@ Ensure that pressure is maintained on the plunger rod during the entire administ
 9.
 Remove syringe from NLAD (if applicable) and discard into appropriate receptacle.
 
-- -To prevent needle stick injuries, do not recap needle when needle is connected to syringe.
+- •To prevent needle stick injuries, do not recap needle when needle is connected to syringe.
 
 NOTE: All steps must be done sequentially
 
-- -Do not re-sterilize syringe
-- -Do not use this product on a sterile field
-- -Do not introduce any other fluid into the syringe at any time
-- -This product is for single dose only
+- •Do not re-sterilize syringe
+- •Do not use this product on a sterile field
+- •Do not introduce any other fluid into the syringe at any time
+- •This product is for single dose only
