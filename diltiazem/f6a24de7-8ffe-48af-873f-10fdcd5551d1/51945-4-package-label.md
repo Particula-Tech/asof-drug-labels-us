@@ -7,7 +7,6 @@ Rx only
 DILTIAZEM HYDROCHLORIDE TABLETS 30 mg
 
 Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.
-Do not split Diltiazem Hydrochloride tablets.
 
 100 Tablets
 
@@ -24,7 +23,6 @@ Rx only
 DILTIAZEM HYDROCHLORIDE TABLETS 60 mg
 
 Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.
-Do not split Diltiazem Hydrochloride tablets.
 
 100 Tablets
 
@@ -41,7 +39,6 @@ Rx only
 DILTIAZEM HYDROCHLORIDE TABLETS 90 mg
 
 Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.
-Do not split Diltiazem Hydrochloride tablets.
 
 100 Tablets
 
@@ -58,7 +55,6 @@ Rx only
 DILTIAZEM HYDROCHLORIDE TABLETS 120 mg
 
 Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.
-Do not split Diltiazem Hydrochloride tablets.
 
 100 Tablets
 
