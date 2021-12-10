@@ -6,7 +6,7 @@ NDC Azithromycin for Injection, USP Package Factor
 
 68083-199-10 500 mg Single-Dose Vial 10 vials per carton
 
-Azithromycin for Injection, USP is supplied in lyophilized form under a vacuum in a 10 mL vial equivalent to 500 mg of azithromycin for intravenous administration.
+Azithromycin for Injection, USP is supplied in lyophilized form under a vacuum in a 10 mL single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
 Each vial also contains sodium hydroxide and 384.5 mg citric acid.
 
 Storage Conditions

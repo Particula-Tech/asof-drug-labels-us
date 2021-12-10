@@ -1,5 +1,25 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL - 500 mg*/vial Gland Pharma Limited, NDC 68083-199-10 AZITHROMYCIN for Injection, USP Equivalent to 500 mg*/vial Sterile, Rx only 10 Single Dose Vials For Intravenous Infusion Only Carton Label
+Carton Label: NDC 68083-199-10 10 Single Dose Vials AZITHROMYCIN
 
-PRINCIPAL DISPLAY PANEL - 500 mg*/vial Gland Pharma Limited, NDC 68083-199-01 AZITHROMYCIN for Injection, USP Equivalent to 500 mg*/vial Sterile, Rx only Single Dose Vial For Intravenous Infusion Only Vial Label
+for Injection, USP Equivalent to
+
+500 mg*/vial
+
+azithromycin
+
+FOR INTRAVENOUS INFUSION ONLY
+
+Sterile, Rx Only Vial Label: NDC 68083-199-01
+
+Single Dose Vial AZITHROMYCIN
+
+for Injection, USP Equivalent to
+
+500 mg*/vial
+
+azithromycin
+
+FOR IV INFUSION ONLY
+
+Sterile Rx Only

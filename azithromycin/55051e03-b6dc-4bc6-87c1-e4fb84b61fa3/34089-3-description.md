@@ -6,8 +6,8 @@ Azithromycin is derived from erythromycin; however, it differs chemically from e
 Its molecular formula is C38H72N2O12, and its molecular weight is 749.00.
 Azithromycin has the following structural formula:
 
-Azithromycin, as the monohydrate, is a white crystalline powder with a molecular formula of C38H72N2O12· H2O and a molecular weight of 767.0.
+Azithromycin, as the monohydrate, is a white crystalline powder with a molecular formula of C38H72N2O12·H2O and a molecular weight of 767.0.
 
 Azithromycin for Injection, USP consists of azithromycin monohydrate and the following inactive ingredients: citric acid and sodium hydroxide.
-Azithromycin for Injection, USP is supplied in lyophilized form in a 10 mL vial equivalent to 500 mg of azithromycin for intravenous administration.
+Azithromycin for Injection, USP is supplied in lyophilized form in a 10 mL single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
 Reconstitution, according to label directions, results in approximately 5 mL of azithromycin for intravenous injection with each mL containing azithromycin monohydrate equivalent to 100 mg of azithromycin.

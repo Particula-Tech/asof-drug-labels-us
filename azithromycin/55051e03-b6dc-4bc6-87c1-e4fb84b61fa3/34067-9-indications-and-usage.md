@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Azithromycin for Injection is a macrolide antibacterial drug indicated for the treatment of patients with infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
+Azithromycin for injection is a macrolide antibacterial drug indicated for the treatment of patients with infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
 
 ## 1.1 Community-Acquired Pneumonia
 
