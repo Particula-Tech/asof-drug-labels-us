@@ -27,7 +27,7 @@ The most common adverse reactions (≥6%) reported during clinical trials were n
 
 The table below lists the adverse drug reactions that occurred in at least 1% of patients treated with FERRIPROX in clinical trials in patients with thalassemia syndromes.
 
-Table 2: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients with thalassemia syndromes
+Table 3: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients with thalassemia syndromes
 
 | Body System Adverse Reaction | (N=642) % Patients |
 | --- | --- |
@@ -71,7 +71,7 @@ The most common adverse reactions (≥6%) reported during clinical trials in pat
 
 The table below lists the adverse reactions (irrespective of a causal assessment; adverse events) of interest that occurred in patients treated with FERRIPROX in clinical trials in subjects with sickle cell disease or other anemias.
 
-Table 3: Adverse reactions occurring in ≥5% of FERRIPROX-treated patients with sickle cell disease or other anemias
+Table 4: Adverse reactions occurring in ≥5% of FERRIPROX-treated patients with sickle cell disease or other anemias
 
 | Body System Adverse Reaction | FERRIPROX (N=152) % Patients | DEFEROXAMINE (N=76) % Patients |
 | --- | --- | --- |

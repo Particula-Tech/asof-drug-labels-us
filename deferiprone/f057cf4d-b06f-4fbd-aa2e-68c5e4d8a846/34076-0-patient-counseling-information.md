@@ -11,7 +11,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
   Clinical experience suggests that taking FERRIPROX Oral Solution with meals may reduce nausea.If a dose of this medicine has been missed, take it as soon as possible.
   However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
   Do not catch-up or double doses.
-- Inform patients of the risks of developing agranulocytosis and instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms.
+- Inform patients of the risks of developing agranulocytosis and the need for regular blood testing before and during their treatment to monitor for decreases in their ANC.
+  Instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)] in order to check their ANC within 24 hours.
+  Advise them if they are unable to reach their physician, seek care from another provider so as not to delay medical care.
+- Inform patients of the risk of abnormal liver transaminases and the need for regular blood testing before and during their treatment to monitor for increases in ALT [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
+- Inform patients of the risk of zinc deficiency and the need for regular blood testing before and during their treatment to monitor for reductions in zinc [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 - Advise patients to contact their physician in the event of overdose.
 - Inform patients that their urine might show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
   This is a very common sign of the desired effect, and it is not harmful.
@@ -30,4 +34,4 @@ Advise females not to breastfeed during treatment with FERRIPROX and for at leas
 Distributed by Chiesi USA, Inc., Cary, NC 27518.
 Manufactured by Apotex Inc., Toronto, Ontario, Canada, M9L 1T9.
 
-CTFD-015-0620-01-SPL
+CTFD-015-0521-02-SPL
