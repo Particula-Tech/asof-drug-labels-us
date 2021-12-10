@@ -1,3 +1,3 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Bimatoprost Ophthalmic Solution, 0.03% - 2.5 mL Bottle label: Bimatoprost Ophthalmic Solution, 0.03% - 2.5 mL Carton label: Bimatoprost Ophthalmic Solution, 0.03% - 5 mL Bottle label: Bimatoprost Ophthalmic Solution, 0.03% - 5 mL Carton label: Revised 04/2019
+Bimatoprost Ophthalmic Solution, 0.03% - 2.5 mL Bottle label: Bimatoprost Ophthalmic Solution, 0.03% - 2.5 mL Carton label: Bimatoprost Ophthalmic Solution, 0.03% - 5 mL Bottle label: Bimatoprost Ophthalmic Solution, 0.03% - 5 mL Carton label:

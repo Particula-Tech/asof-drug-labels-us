@@ -4,7 +4,7 @@
 
 Risk Summary There are no adequate and well-controlled studies of bimatoprost ophthalmic solution, 0.03% administration in pregnant women.
 There is no increase in the risk of major birth defects or miscarriages based on bimatoprost postmarketing experience.
-In embryofetal developmental studies, administration of bimatoprost in pregnant mice and rats during organogenesis, results in abortion and early delivery at oral doses at least 33 times (mice) or 94 times (rats) the human exposure at the recommended clinical dose (based on blood area under the curve [AUC] levels).
+In embryofetal developmental studies, administration of bimatoprost in pregnant mice and rats during organogenesis, resulted in abortion and early delivery at oral doses at least 33 times (mice) or 94 times (rats) the human exposure at the recommended clinical dose (based on blood area under the curve [AUC] levels).
 These adverse effects were not observed at 2.6 times (mice) and 47 times (rats) the human exposure at the recommended clinical dose.
 In pre/postnatal development studies, administration of bimatoprost to pregnant rats from organogenesis to the end of lactation resulted in reduced gestation length and fetal body weight, and increased fetal and pup mortality at oral doses at least 41 times the human systemic exposure at the recommended clinical dose (based on blood AUC levels).
 No adverse effects were observed in rat offspring at exposures estimated at 14 times the human exposure at the recommended clinical dose (based on blood AUC levels).
@@ -21,10 +21,10 @@ The NOAEL for postnatal development and mating performance of the offspring was 
 
 ## 8.2 Lactation
 
-Risk Summary It is not known whether topical ocular treatment with bimatoprost ophthalmic solution 0.03% could result in sufficient systemic absorption to produce detectable quantities in human milk.
+Risk Summary It is not known whether topical ocular treatment with bimatoprost ophthalmic solution, 0.03% could result in sufficient systemic absorption to produce detectable quantities in human milk.
 In animal studies, bimatoprost has been shown to be present in breast milk of lactating rats at an intravenous dose (i.e., 1 mg/kg) 324 times the RHOD (on a mg/m2 basis), however no animal data is available at clinically relevant doses.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for bimatoprost ophthalmic solution 0.03% and any potential adverse effects on the breastfed child from bimatoprost ophthalmic solution 0.03%.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for bimatoprost ophthalmic solution, 0.03% and any potential adverse effects on the breastfed child from bimatoprost ophthalmic solution, 0.03%.
 
 ## 8.4 Pediatric Use
 

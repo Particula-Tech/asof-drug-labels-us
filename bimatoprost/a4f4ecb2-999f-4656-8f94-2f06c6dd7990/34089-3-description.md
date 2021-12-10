@@ -5,7 +5,7 @@ Its chemical name is (Z)-7-[(1R,2R,3R,5S)-3,5-Dihydroxy-2-[(1E,3S)-3-hydroxy-5-p
 Its molecular formula is C25H37NO4.
 Its chemical structure is:
 
-Bimatoprost is a powder, which is soluble in methanol and alcohol.
+Bimatoprost is a powder, soluble in methanol and alcohol.
 Bimatoprost ophthalmic solution, 0.03% is a clear, isotonic, colorless, sterile ophthalmic solution with an osmolality of approximately 290 mOsmol/kg.
 
 Bimatoprost ophthalmic solution, 0.03% contains Active: bimatoprost 0.3 mg/mL; Inactives:benzalkonium chloride 0.05 mg/mL; disodium hydrogen phosphate heptahydrate, citric acid monohydrate, sodium chloride and water for injection.
