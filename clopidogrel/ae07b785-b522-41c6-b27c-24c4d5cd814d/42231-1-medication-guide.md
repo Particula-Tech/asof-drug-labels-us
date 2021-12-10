@@ -11,7 +11,7 @@ This Medication Guide does not take the place of talking with your doctor about 
 What is the most important information I should know about clopidogrel tablets?
 
 1.
-Clopidogrel tabletsmay not work as well in people who:
+Clopidogrel tablets may not work as well in people who:
 
 - have certain genetic factors that affect how the body breaks down clopidogrel tablets.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
@@ -19,7 +19,7 @@ Clopidogrel tabletsmay not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tabletscan cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
 Clopidogrel tablets are blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
@@ -198,6 +198,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057.
 
-8081784 Revised March 2021
+8083249 Revised August 2021
