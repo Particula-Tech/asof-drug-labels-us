@@ -6,91 +6,60 @@ Read this Patient Information before you start using estradiol transdermal syste
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about estradiol transdermal system continuous delivery (once-weekly) (an estrogen hormone)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using estradiol transdermal system continuous delivery (once-weekly). Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age or older.•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia.•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly). |
+| What is the most important information I should know about estradiol transdermal system continuous delivery (once-weekly) (an estrogen hormone)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). •Report any unusual vaginal bleeding right away while you are using estradiol transdermal system continuous delivery (once-weekly). Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. •Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age and older.•Do not use estrogens with progestogens to prevent heart disease, heart attacks, strokes or dementia.•Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Using estrogens with progestogens may increase your chance of getting dementia, based on a study of women age 65 years of age and older.•Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of estradiol transdermal system continuous delivery (once-weekly) will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly). |
 | --- |
 
 What is estradiol transdermal system continuous delivery (once-weekly)?
 
-Estradiol transdermal system continuous delivery (once-weekly) is a prescription medicine patch (Transdermal System) that contains estradiol (an estrogen hormone).
+Estradiol transdermal system continuous delivery (once-weekly) is a prescription medicine patch (transdermal system) that contains estradiol (an estrogen hormone).
 
 What is estradiol transdermal system continuous delivery (once-weekly) used for?
 
 The estradiol transdermal system continuous delivery (once-weekly) is used after menopause to:
 
-- •Reduce moderate to severe hot flashes
-
-Estrogens are hormones made by a woman’s ovaries.
-The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
-This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
-Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-The sudden drop in estrogen levels causes “surgical menopause.”
-
-When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
-In some women, the symptoms are mild, and they will not need to use estrogens.
-In other women, symptoms can be more severe.
-You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly).
-
-- •Treat moderate to severe menopausal changes in and around the vagina
-
-You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly) to control these problems.
-If you use estradiol transdermal system continuous delivery (once-weekly) only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
-
+- •Reduce moderate to severe hot flashes Estrogens are hormones made by a woman’s ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
+  This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
+  Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+  The sudden drop in estrogen levels causes “surgical menopause.”
+  When estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  In some women, the symptoms are mild, and they will not need to use estrogens.
+  In other women, symptoms can be more severe.
+- •Treat moderate to severe menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly) to control these problems.
+  If you use estradiol transdermal system continuous delivery (once-weekly) only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 - •Treat certain conditions in women before menopause if their ovaries do not produce enough estrogens naturally
-- •Help reduce your chances of getting osteoporosis (thin weak bones)
+- •Help reduce your chances of getting osteoporosis (thin weak bones) Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
+  If you use estradiol transdermal system continuous delivery (once-weekly) only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
 
-If you use estradiol transdermal system continuous delivery (once-weekly) only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
 You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly).
 
 Who should not use estradiol transdermal system continuous delivery (once-weekly)?
 
 Do not start using estradiol transdermal system continuous delivery (once-weekly) if you:
 
-- •have unusual vaginal bleeding
-
-Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
-- •currently have or have had certain cancers
-
-Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
-If you have or have had cancer, talk with your healthcare provider about whether you should use estradiol transdermal system continuous delivery (once-weekly).
-
+- •have unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •have been diagnosed with a bleeding disorder
+- •currently have or have had certain cancers Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus (womb).
+  If you have or have had cancer, talk with your healthcare provider about whether you should use estradiol transdermal system continuous delivery (once-weekly).
 - •had a stroke or heart attack
 - •currently have or have had blood clots
 - •currently have or have had liver problems
-- •have been diagnosed with a bleeding disorder
-- •are allergic to estradiol transdermal system continuous delivery (once-weekly) or any of its ingredients
+- •are allergic to estradiol transdermal system continuous delivery (once-weekly) or any of the ingredients in it.
+  See the list of ingredients in estradiol transdermal system continuous delivery (once-weekly) at the end of this leaflet.
 
-See the list of ingredients in estradiol transdermal system continuous delivery (once-weekly) at the end of this leaflet.
+Before you use estradiol transdermal system continuous delivery (once-weekly), tell your healthcare provider about all of your medical conditions, including if you:
 
-- •think you may be pregnant
-
-Estradiol transdermal system continuous delivery (once-weekly) is not for pregnant women.
-If you think you may be pregnant, you should have a pregnancy test and know the results.
-Do not use estradiol transdermal system continuous delivery (once-weekly) if the test is positive and talk to your healthcare provider.
-
-What should I tell my healthcare provider before I use estradiol transdermal system continuous delivery (once-weekly)?
-
-Before you use estradiol transdermal system continuous delivery (once-weekly), tell your healthcare provider if you:
-
-- •have any unusual vaginal bleeding
-
-Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
-- •have any other medical conditions
-
-Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-
+- •have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •have any other medical conditions that may become worse while you are using estradiol transdermal system continuous delivery (once-weekly) Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - •are going to have surgery or will be on bed rest.
+  Your healthcare provider will let you know if you need to stop using estradiol transdermal system continuous delivery (once-weekly).
+- •are pregnant or think you may be pregnant.
+  Estradiol transdermal system continuous delivery (once-weekly) is not for pregnant women.
+- •are breastfeeding The hormone in estradiol transdermal system continuous delivery (once-weekly) can pass into your breast milk.
 
-Your healthcare provider will let you know if you need to stop using estradiol transdermal system continuous delivery (once-weekly).
-
-- •are breastfeeding
-
-The hormone in estradiol transdermal system continuous delivery (once-weekly) can pass into your breast milk.
-
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some medicines may affect how estradiol transdermal system continuous delivery (once-weekly) works.
 Estradiol transdermal system continuous delivery (once-weekly) may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
@@ -106,18 +75,17 @@ For detailed instructions, see the step-by-step instructions for using estradiol
 - •Apply your estradiol transdermal system continuous delivery (once-weekly) patch to a different area of your abdomen or your buttocks each time.
   Do not use the same application site 2 times in the same week.
 - •Do not apply estradiol transdermal system continuous delivery (once-weekly) to your breasts.
-- •If you forget to apply a new estradiol transdermal system continuous delivery (once-weekly) patch, you should apply a new patch as soon as possible.
+- •If you forget to apply a new estradiol transdermal system continuous delivery (once-weekly) patch, apply a new patch as soon as possible.
 - •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are using and whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly).
 
 How to Change estradiol transdermal system continuous delivery (once-weekly)
 
 - •When changing estradiol transdermal system continuous delivery (once-weekly), peel off the used patch slowly from the skin.
-- •After removal of estradiol transdermal system continuous delivery (once-weekly), people usually have either no adhesive residue or light adhesive residue.
-  If any adhesive residue remains on your skin after removing the patch, allow the area to dry for 15 minutes.
+- •After removal of estradiol transdermal system continuous delivery (once-weekly) if any adhesive residue remains on your skin, allow the area to dry for 15 minutes.
   Then, gently rub the area with an oil-based cream or lotion to remove the adhesive from your skin.
-- •Keep in mind, the new patch must be applied to a different skin area of your abdomen or buttocks.
+- •Apply the new patch to a different area of your abdomen or buttocks.
   This area must be clean, dry, and free of powder, oil or lotion.
-  The same site should not be used again for at least 1 week after removal of the patch.
+  Do not use the same site again for at least 1 week after removal of an old patch.
 
 What are the possible side effects of estradiol transdermal system continuous delivery (once-weekly)?
 
@@ -125,19 +93,8 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-- •heart attack
-- •stroke
-- •blood clots
-- •dementia
-- •breast cancer
-- •cancer of the lining of the uterus (womb)
-- •cancer of the ovary
-- •high blood pressure
-- •high blood sugar
-- •gallbladder disease
-- •liver problems
-- •changes in your thyroid hormone levels
-- •enlargement of benign tumors of the uterus (“fibroids”)
+| •heart attack•stroke•blood clots•breast cancer•cancer of the lining of the uterus (womb)•cancer of the ovary•dementia•high or low blood calcium•gallbladder disease•visual abnormalities•high blood pressure | •high levels of fat (triglyceride) in your blood•liver problems•changes in your thyroid hormone levels•fluid retention•cancer changes of endometriosis•enlargement of benign tumors of the uterus (“fibroids”)•worsening of swelling of face and tongue (angioedema) in women with a history of angioedema |
+| --- | --- |
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -147,39 +104,32 @@ Call your healthcare provider right away if you get any of the following warning
 - •sudden new severe headaches
 - •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
-Less serious, but common side effects include:
+Common side effects of estradiol transdermal system continuous delivery (once-weekly) include:
 
-- •headache
-- •breast tenderness or pain
-- •irregular vaginal bleeding or spotting
-- •stomach or abdominal cramps, bloating
-- •nausea and vomiting
-- •hair loss
-- •fluid retention
-- •vaginal yeast infection
-- •redness or irritation at the patch placement site
+| •headache•breast tenderness or pain•irregular vaginal bleeding or spotting•stomach or abdominal cramps, bloating•nausea and vomiting | •hair loss•fluid retention•vaginal yeast infection•redness and/or irritation at the patch placement site |
+| --- | --- |
 
 These are not all the possible side effects of estradiol transdermal system continuous delivery (once-weekly).
 For more information, ask your healthcare provider or pharmacist.
-Tell your healthcare provider if you have any side effects that bother you or does not go away.
+Tell your healthcare provider if you have any side effects that bother you or do not go away.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX) or to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What can I do to lower my chances of a serious side effect with estradiol transdermal system continuous delivery (once-weekly)?
 
 - •Talk with your healthcare provider regularly about whether you should continue using estradiol transdermal system continuous delivery (once-weekly).
-- •If you have a uterus, talk with your healthcare provider about whether the addition of a progestin is right for you.
-- •The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus (womb).
+- •If you have a uterus, talk with your healthcare provider about whether the addition of a progestogen is right for you.
+  In general, the addition of a progestogen is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
 - •See your healthcare provider right away if you get vaginal bleeding while using estradiol transdermal system continuous delivery (once-weekly).
 - •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
-- •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-- •Ask your healthcare provider for ways to lower your chances of getting heart disease.
+  Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
 How should I store and throw away used estradiol transdermal system continuous delivery (once-weekly)?
 
-- •Store estradiol transdermal system continuous delivery (once-weekly) at 20° to 25°C (68° to 77°F).
+- •Store estradiol transdermal system continuous delivery (once-weekly) at room temperature 20° to 25°C (68° to 77°F).
 - •Do not store estradiol transdermal system continuous delivery (once-weekly) patches outside of their pouches.
   Apply immediately upon removal from the protective pouch.
 - •Used patches still contain estrogen.
@@ -190,16 +140,13 @@ Keep estradiol transdermal system continuous delivery (once-weekly) and all medi
 
 General information about the safe and effective use of estradiol transdermal system continuous delivery (once-weekly).
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
 Do not use estradiol transdermal system continuous delivery (once-weekly) for conditions for which it was not prescribed.
-Do not give the estradiol transdermal system continuous delivery (once-weekly) patch to other people, even if they have the same symptoms you have.
+Do not give estradiol transdermal system continuous delivery (once-weekly) to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This leaflet summarizes the most important information about estradiol transdermal system continuous delivery (once-weekly).
-If you would like more information, talk with your healthcare provider or pharmacist.
-You can ask for information about estradiol transdermal system continuous delivery (once-weekly) that is written for health professionals.
-
-For more information, contact Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+You can ask your healthcare provider or pharmacist for information about estradiol transdermal system continuous delivery (once-weekly) that is written for health professionals.
+For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in estradiol transdermal system continuous delivery (once-weekly)?
 
@@ -246,14 +193,14 @@ Placing the patch on your skin.
 
 - •Apply the sticky side of the patch to 1 of the areas of skin shown below.
   See Figure F and Figure G
-- •Avoid touching the sticky side of the patch with your fingers.
+- •Do not touch the sticky side of the patch with your fingers.
 
 Note:
 
 - •Avoid the waistline, since clothing and belts may cause the patch to be rubbed off.
 - •Do not apply estradiol transdermal system continuous delivery (once-weekly) to your breasts.
 - •Only apply estradiol transdermal system continuous delivery (once-weekly) to skin that is clean, dry, and free of any powder, oil, or lotion.
-- •You should not apply the patch to injured, burned, or irritated skin, or areas with skin conditions (such as birth marks, tattoos, or that is very hairy).
+- •Do not apply the patch to injured, burned, or irritated skin, or areas with skin conditions (such as birth marks, tattoos, or that is very hairy).
 
 Step 5.
 Press the patch firmly onto your skin.
@@ -273,10 +220,10 @@ Step 6: Throwing away your used patch.
 
 - •When it is time to change your patch, remove the old patch before you apply a new patch.
 - •To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
-  Used patches should not be flushed in the toilet.
+  Do not flush used patches in the toilet.
 
 This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2017 ETS:R25/PL:ETS:R20
+Revised: 11/2021 ETS:R26/PL:ETS:R21

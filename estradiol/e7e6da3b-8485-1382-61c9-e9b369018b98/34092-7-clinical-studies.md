@@ -1,15 +1,15 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 A study of 214 women 25 to 74 years of age met the qualification criteria and were randomly assigned to one of the three treatment groups: 72 to the 0.05 mg estradiol patch, 70 to the 0.1 mg estradiol patch, and 72 to placebo.
-Potential subjects were postmenopausal women in good general health who experienced vasomotor symptoms.
+Potential participants were postmenopausal women in good general health who experienced vasomotor symptoms.
 Natural menopause patients had not menstruated for at least 12 months and surgical menopause patients had undergone bilateral oophorectomy at least 4 weeks before evaluation for study entry.
-In order to enter the 11-week treatment phase of the study, potential subjects must have experienced a minimum of five moderate to severe hot flushes per week, or a minimum of 15 hot flushes of any severity per week, for 2 consecutive weeks.
+In order to enter the 11-week treatment phase of the study, potential participants must have experienced a minimum of five moderate to severe hot flushes per week, or a minimum of 15 hot flushes of any severity per week, for 2 consecutive weeks.
 Women wore the patches in a cyclical fashion (three weeks on and one week off).
 
-During treatment, all subjects used diaries to record the number and severity of hot flushes.
-Subjects were monitored by clinic visits at the end of weeks 1, 3, 7, and 11 and by telephone at the end of weeks 4, 5, 8, and 9.
+During treatment, all women used diaries to record the number and severity of hot flushes.
+Women were monitored by clinic visits at the end of weeks 1, 3, 7, and 11 and by telephone at the end of weeks 4, 5, 8, and 9.
 
 Adequate data for the analysis of efficacy was available from 191 subjects.
 The results are presented as the mean ± SD number of flushes in each of the 3 treatment weeks of each 4-week cycle.
@@ -21,7 +21,7 @@ When the response to treatment was analyzed for each of the three cycles of ther
 
 In a double-blind, placebo-controlled, randomized study of 187 women receiving estradiol transdermal system continuous delivery (once-weekly) 0.025 mg per day or placebo continuously for up to three 28-day cycles, the estradiol transdermal system continuous delivery (once-weekly) 0.025 mg per day dosage was shown to be statistically better than placebo at weeks 4 and 12 for relief of both the frequency and severity of moderate to severe vasomotor symptoms.
 
-Table 3 Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms Intent to Treat (ITT)
+Table 3: Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms Intent to Treat (ITT)
 
 | Treatment Group | Statistics | Week 4 | Week 8 | Week 12 |
 | --- | --- | --- | --- | --- |
@@ -33,17 +33,17 @@ Table 3 Mean Change from Baseline in the Number of Moderate to Severe Vasomotor 
 | SD | 7.43 | 8.63 | 9.69 |  |
 | p-value | < 0.002 |  | < 0.003 |  |
 
-A second active-control trial of 193 randomized subjects was supportive of the placebo-controlled trial.
+A second active-control trial of 193 randomized women was supportive of the placebo-controlled trial.
 
-## 14.2 Effects on Bone Mineral Density
+## 14.2 Effects on Bone Mineral Density in Postmenopausal Women
 
 A two-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density > 0.9 gm/ cm2) women at 10 study centers in the United States.
-A total of 129 subjects were allocated to receive active treatment with 4 different doses of estradiol patches (7.75, 15.5, 18.6, 31 cm2) and 46 subjects were allocated to receive placebo patches.
-Seventy-seven percent of the randomized subjects (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
+A total of 129 participating women were allocated to receive active treatment with 4 different doses of estradiol patches (7.75, 15.5, 18.6, 31 cm2) and 46 participating women were allocated to receive placebo patches.
+Seventy-seven percent of the randomized women (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
 A statistically significant overall treatment effect at each timepoint was noted, implying bone preservation for all active treatment groups at all timepoints, as opposed to bone loss for placebo at all timepoints.
 
 Percent change in BMD of the total hip (see Figure 4) was also statistically significantly different from placebo for all active treatment groups.
-This figure is based on 74 percent of the randomized subjects (95 on active drug and 34 on placebo).
+This figure is based on 74 percent of the randomized women (95 on active drug and 34 on placebo).
 
 ## 14.3 Women’s Health Initiative Studies
 
@@ -58,7 +58,7 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79: 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 4.
 
-Table 4 Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
+Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
 | Event | Relative RiskCE vs. Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CEn = 5,310 | Placebon = 5,429 |
@@ -91,7 +91,7 @@ Centrally adjudicated results for stroke events from the estrogen-alone substudy
 Estrogen-alone increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10 See Table 4.
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk-benefit profile.
-The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36 to 1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46 to 1.11)].
+The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
 
 ### WHI Estrogen Plus Progestin Substudy
 
@@ -104,7 +104,7 @@ For those outcomes included in the WHI “global index” that reached statistic
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.5 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-Table 5 Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
+Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
 | Event | Relative RiskCE/MPA vs. Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPAn = 8,506 | Placebon = 8,102 |
@@ -129,13 +129,13 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on ce
 | Global IndexA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
 
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44 to 1.07)].
+The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
 
 ## 14.4 Women’s Health Initiative Memory Study
 
-The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
+The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age and older (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 
-After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83 to 2.66).
+After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in the study included Alzheimer’s disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
@@ -143,12 +143,12 @@ Since the ancillary study was conducted in women 65 to 79 years of age, it is un
 
 The WHIMS estrogen plus progestin ancillary study enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age; 35 percent were 70 to 74 years of age; and 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
-After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21 to 3.48).
+After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
 Probable dementia as defined in the study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
-When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19 to 2.60).
+When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
 It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].

@@ -18,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for estradiol transdermal system continuous delivery (once-weekly).
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to estradiol transdermal system continuous delivery (once-weekly) nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -51,7 +52,7 @@ Values of Cmax and Cavg were, respectively, 25 percent and 17 percent higher wit
 
 Table 2 provides a summary of estradiol pharmacokinetic parameters determined during evaluation of the estradiol transdermal system continuous delivery (once-weekly).
 
-Table 2 Pharmacokinetic Summary (Mean Estradiol Values)
+Table 2: Pharmacokinetic Summary (Mean Estradiol Values)
 
 | Estradiol Delivery Rate | Surface Area (cm2) | Application Site | No. of Subjects | Dosing | Cmax (pg/mL) | Cmin (pg/mL) | Cave (pg/mL) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
