@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed elsewhere in the labeling:
 
-• Hypersensitivity [see Contraindications (4.1)]
+• Hypersensitivity [see Contraindications (4.1)].
 
-• Allergy [see Contraindications (4.2)]
+• Allergy [see Contraindications (4.2)].
 
-• Risk of Bleeding [see Warnings and Precautions (5.1)]
+• Risk of Bleeding [see Warnings and Precautions (5.1)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -55,7 +55,7 @@ Table 2 Incidence of Adverse Events that Led to the Discontinuation of Treatment
 
 |  | Treatment Groups |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Aspirin and Extended-Release Dipyridamole Capsules n (%/year)b | ER-DP (%/year)b | ASA n(%/year)b | Placebo n(%/year)b |
+|  | Aspirin and Extended-Release Dipyridamole Capsules n (%/year)b | ER-DP n(%/year)b | ASA n(%/year)b | Placebo n(%/year)b |
 | Total Number of Patients | 1650 | 1654 | 1649 | 1649 |
 | Patients with at least one Adverse Event that led to treatment discontinuation | 417 (18.21) | 419 (18.44) | 318 (12.59) | 352 (14.45) |
 | Headache | 165 (7.20) | 166 (7.31) | 57 (2.26) | 69 (2.83) |

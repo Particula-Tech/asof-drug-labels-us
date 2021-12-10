@@ -43,7 +43,7 @@ Effect of Food
 
 Dipyridamole
 
-When aspirin and dipyridamole extended-release capsules were taken with a high fat meal, dipyridamole peak plasma levels (Cmax) and total absorption (AUC) were decreased at steady-state by 20 to 30% compared to fasting.
+When aspirin and extended-release dipyridamole capsules were taken with a high fat meal, dipyridamole peak plasma levels (Cmax) and total absorption (AUC) were decreased at steady-state by 20 to 30% compared to fasting.
 Due to the similar degree of inhibition of adenosine uptake at these plasma concentrations, this food effect is not considered clinically relevant.
 
 Aspirin

@@ -13,7 +13,7 @@ What is aspirin and extended-release dipyridamole capsules?
 Aspirin and extended-release dipyridamole capsule is a prescription medicine that contains aspirin and a medicine that is slowly released in your body, called dipyridamole.
 Aspirin and extended-release dipyridamole capsules are used to lower the risk of stroke in people who have had a “mini-stroke” (transient ischemic attack or TIA) or stroke due to a blood clot.
 
-It is not known if aspirin and extended-release dipyridamole capsules is safe and effective in children.
+It is not known if aspirin and extended-release dipyridamole capsules are safe and effective in children.
 See “Who should not take aspirin and extended-release dipyridamole capsules?”
 
 Who should not take aspirin and extended-release dipyridamole capsules?
@@ -200,9 +200,9 @@ You may report side effects to FDA at 1-800-FDA­1088.
 
 How should I store aspirin and extended-release dipyridamole capsules?
 
-• Store aspirin and dipyridamole extended-release capsules at 20ºC to 25ºC (68ºF to 77ºF).
+• Store aspirin and extended-release dipyridamole capsules at 20ºC to 25ºC (68ºF to 77ºF).
 
-• Keep aspirin and dipyridamole extended-release capsules dry.
+• Keep aspirin and extended-release dipyridamole capsules dry.
 
 Keep aspirin and extended-release dipyridamole capsules and all medicines out of the reach of children.
 
