@@ -14,4 +14,4 @@ Paramus, NJ 07652
 
 Made in Switzerland
 
-Revised: January 2018
+U.S. Patent Numbers 8,829,054 and 8,835,505
