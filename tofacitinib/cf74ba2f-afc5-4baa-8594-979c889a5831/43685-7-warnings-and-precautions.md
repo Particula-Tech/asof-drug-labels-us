@@ -52,26 +52,28 @@ The risk of herpes zoster is increased in patients treated with XELJANZ/XELJANZ 
 
 ## 5.2 Mortality
 
-Rheumatoid arthritis patients 50 years of age and older with at least one cardiovascular (CV) risk factor treated with XELJANZ 10 mg twice a day had a higher rate of all-cause mortality, including sudden CV death, compared to those treated with XELJANZ 5 mg given twice daily or TNF blockers in a large, ongoing, postmarketing safety study.
+Rheumatoid arthritis patients 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ 5 mg twice a day or XELJANZ 10 mg twice a day had a higher observed rate of all-cause mortality, including sudden cardiovascular death, compared to those treated with TNF blockers in a large, randomized, postmarketing safety study (RA Safety Study 1).
+The incidence rate of all-cause mortality per 100 patient-years was 0.88 for XELJANZ 5 mg twice a day, 1.23 for XELJANZ 10 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.5)].
+Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 
-A dosage of XELJANZ/XELJANZ Oral Solution 10 mg twice daily or weight-based equivalent twice daily, or XELJANZ XR 22 mg once daily, is not recommended for the treatment of RA, PsA, or pcJIA [see Dosage and Administration (2.2)].
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
 
-For the treatment of UC, use XELJANZ at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
+For the treatment of UC, use XELJANZ/XELJANZ XR at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
 
 ## 5.3 Malignancy and Lymphoproliferative Disorders
 
-Consider the risks and benefits of XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients who develop a malignancy.
-Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions (6.1)].
+Malignancies, including lymphomas and solid cancers, were observed in clinical studies of XELJANZ [see Adverse Reactions (6.1)].
 
-In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.
-Lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with XELJANZ.
+In RA Safety Study 1, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with XELJANZ 5 mg twice a day or XELJANZ 10 mg twice a day as compared with TNF blockers.
+The incidence rate of malignancies (excluding NMSC) per 100 patient-years was 1.13 for XELJANZ 5 mg twice a day, 1.13 for XELJANZ 10 mg twice a day, and 0.77 for TNF blockers.
+Patients who are current or past smokers are at additional increased risk [see Clinical Studies (14.5)].
 
-During the 2 PsA controlled clinical studies there were 3 malignancies (excluding NMSC) in 474 patients receiving XELJANZ plus nonbiologic DMARD (6 to 12 months exposure) compared with 0 malignancies in 236 patients in the placebo plus nonbiologic DMARD group (3 months exposure) and 0 malignancies in 106 patients in the adalimumab plus nonbiologic DMARD group (12 months exposure).
-No lymphomas were reported.
-Malignancies have also been observed in the long-term extension study in psoriatic arthritis patients treated with XELJANZ.
+Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ 5 mg twice a day and XELJANZ 10 mg twice a day compared to those treated with TNF blockers.
+The incidence rate of lymphomas per 100 patient-years was 0.07 for XELJANZ 5 mg twice a day, 0.11 for XELJANZ 10 mg twice a day, and 0.02 for TNF blockers.
+The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.48 for XELJANZ 5 mg twice a day, 0.59 for XELJANZ 10 mg twice a day, and 0.27 for TNF blockers [see Clinical Studies (14.5)].
 
-During the UC controlled clinical studies (8-week induction and 52-week maintenance studies), which included 1220 patients, 0 cases of solid cancer or lymphoma were observed in XELJANZ-treated patients.
-In the long-term extension study, malignancies (including solid cancers and lymphomas) were observed more often in patients treated with XELJANZ 10 mg twice daily.
+Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, particularly in patients with a known malignancy (other than a successfully treated NMSC), patients who develop a malignancy while on treatment, and patients who are current or past smokers.
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
 
 In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
 
@@ -83,22 +85,37 @@ Non-melanoma skin cancers (NMSCs) have been reported in patients treated with XE
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer.
 In the UC population, treatment with XELJANZ 10 mg twice daily was associated with greater risk of NMSC.
 
-## 5.4 Thrombosis
+## 5.4 Major Adverse Cardiovascular Events
 
-Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
-Patients with rheumatoid arthritis 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing study had an observed increase in incidence of these events.
+In RA Safety Study 1, RA patients who were 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily had a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke, compared to those treated with TNF blockers.
+The incidence rate of MACE per 100 patient-years was 0.91 for XELJANZ 5 mg twice a day, 1.11 for XELJANZ 10 mg twice a day, and 0.79 for TNF blockers.
+The incidence rate of fatal or non-fatal myocardial infarction per 100 patient-years was 0.36 for XELJANZ 5 mg twice a day, 0.39 for XELJANZ 10 mg twice a day, and 0.20 for TNF blockers [see Clinical Studies (14.5)].
+Patients who are current or past smokers are at additional increased risk.
+
+Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
+Patients should be informed about the symptoms of serious cardiovascular events and the steps to take if they occur.
+Discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that have experienced a myocardial infarction or stroke.
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+
+## 5.5 Thrombosis
+
+Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
 
-A dosage of XELJANZ/XELJANZ Oral Solution 10 mg twice daily or weight-based equivalent twice daily, or XELJANZ XR 22 mg once daily is not recommended for the treatment of RA, PsA, or pcJIA [see Dosage and Administration (2.2)].
+Patients with rheumatoid arthritis 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ at both 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these events.
+The incidence rate of DVT per 100 patient-years was 0.22 for XELJANZ 5 mg twice a day, 0.28 for XELJANZ 10 mg twice a day, and 0.16 for TNF blockers.
+The incidence rate of PE per 100 patient-years was 0.18 for XELJANZ 5 mg twice a day, 0.49 for XELJANZ 10 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.5)].
 
-In a long-term extension study in patients with UC, four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+
+In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.
 
 Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with symptoms of thrombosis.
 
 Avoid XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that may be at increased risk of thrombosis.
-For the treatment of UC, use XELJANZ at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
+For the treatment of UC, use XELJANZ/XELJANZ XR at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
 
-## 5.5 Gastrointestinal Perforations
+## 5.6 Gastrointestinal Perforations
 
 Events of gastrointestinal perforation have been reported in clinical studies with XELJANZ, although the role of JAK inhibition in these events is not known.
 In these studies, many patients with rheumatoid arthritis were receiving background therapy with Nonsteroidal Anti-Inflammatory Drugs (NSAIDs).
@@ -108,13 +125,13 @@ There was no discernable difference in frequency of gastrointestinal perforation
 XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
-## 5.6 Hypersensitivity
+## 5.7 Hypersensitivity
 
 Reactions such as angioedema and urticaria that may reflect drug hypersensitivity have been observed in patients receiving XELJANZ/XELJANZ XR.
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.7 Laboratory Abnormalities
+## 5.8 Laboratory Abnormalities
 
 Lymphocyte Abnormalities
 
@@ -165,7 +182,7 @@ Assessment of lipid parameters should be performed approximately 4–8 weeks fol
 
 Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.8 Vaccinations
+## 5.9 Vaccinations
 
 Avoid use of live vaccines concurrently with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 The interval between live vaccinations and initiation of tofacitinib therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
@@ -176,7 +193,7 @@ Tofacitinib was discontinued and the patient recovered after treatment with stan
 
 Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ/XELJANZ XR/XELJANZ Oral Solution therapy.
 
-## 5.9 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
+## 5.10 Risk of Gastrointestinal Obstruction with a Non-Deformable Extended-Release Formulation such as XELJANZ XR
 
 As with any other non-deformable material, caution should be used when administering XELJANZ XR to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other drugs utilizing a non-deformable extended-release formulation.

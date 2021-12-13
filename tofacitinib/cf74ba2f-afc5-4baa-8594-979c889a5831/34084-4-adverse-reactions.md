@@ -5,10 +5,11 @@ The following clinically significant adverse reactions are described elsewhere i
 - Serious Infections [see Warnings and Precautions (5.1)]
 - Mortality [see Warnings and Precautions (5.2)]
 - Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.3)]
-- Thrombosis [see Warnings and Precautions (5.4)]
-- Gastrointestinal Perforations [see Warnings and Precautions (5.5)]
-- Hypersensitivity [see Warnings and Precautions (5.6)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.7)]
+- Major Adverse Cardiovascular Events [see Warnings and Precautions (5.4)]
+- Thrombosis [see Warnings and Precautions (5.5)]
+- Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
+- Hypersensitivity [see Warnings and Precautions (5.7)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,6 +21,7 @@ The clinical studies described in the following sections were conducted using XE
 Although other doses of XELJANZ have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 The recommended dose for XELJANZ XR is 11 mg once daily.
 A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not a recommended regimen for the treatment of rheumatoid arthritis [see Dosage and Administration (2.2)].
+In RA Safety Study 1, 1455 patients were treated with XELJANZ 5 mg twice daily, 1456 patients were treated with 10 mg twice daily, and 1451 patients were treated with a TNF blocker for a median of 4.0 years [see Clinical Studies (14.5)].
 
 The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials.
 In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients).
@@ -87,7 +89,7 @@ Lymphopenia
 
 In the controlled clinical trials, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
 
-Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.7)].
+Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.8)].
 
 Neutropenia
 
@@ -97,7 +99,7 @@ There were no confirmed decreases in ANC below 500 cells/mm3 observed in any tre
 
 There was no clear relationship between neutropenia and the occurrence of serious infections.
 
-In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials [see Warnings and Precautions (5.7)].
+In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials [see Warnings and Precautions (5.8)].
 
 Liver Enzyme Elevations
 
@@ -195,6 +197,10 @@ In these combined Phase 3 clinical trials, 238 patients were randomized and trea
 All patients in the clinical trials were required to receive treatment with a stable dose of a nonbiologic DMARD [the majority (79%) received methotrexate].
 The study population randomized and treated with XELJANZ (474 patients) included 45 (9.5%) patients aged 65 years or older and 66 (13.9%) patients with diabetes at baseline.
 
+During the 2 PsA controlled clinical trials, there were 3 malignancies (excluding NMSC) in 474 patients receiving XELJANZ plus non-biologic DMARD (6 to 12 months exposure) compared with 0 malignancies in 236 patients in the placebo plus non-biologic DMARD group (3 months exposure) and 0 malignancies in 106 patients in the adalimumab plus non-biologic DMARD group (12 months exposure).
+No lymphomas were reported.
+Malignancies have also been observed in the long-term extension study in psoriatic arthritis patients treated with XELJANZ.
+
 The safety profile observed in patients with active psoriatic arthritis treated with XELJANZ was consistent with the safety profile observed in rheumatoid arthritis patients.
 
 Ulcerative Colitis
@@ -228,10 +234,12 @@ Table 5: Common Adverse Reactionsreported in ≥4% of patients treated with eith
 | Anemia | 4 | 2 | 2 |
 | Nausea | 1 | 4 | 3 |
 
-In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed more often in patients treated with XELJANZ 10 mg twice daily [see Warnings and Precautions (5.3)].
-Four cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one fatality in a patient with advanced cancer [see Warnings and Precautions (5.4)].
-
 Dose-dependent adverse reactions seen in patients treated with XELJANZ 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC [see Warnings and Precautions (5.1, 5.3)].
+
+During the UC controlled clinical studies (8-week induction and 52-week maintenance studies), which included 1220 patients, 0 cases of solid cancer or lymphoma were observed in XELJANZ-treated patients.
+
+In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed in patients treated with XELJANZ 5 mg and 10 mg twice daily [see Warnings and Precautions (5.3)].
+Five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one fatality in a patient with advanced cancer [see Warnings and Precautions (5.5)].
 
 Polyarticular Course Juvenile Idiopathic Arthritis
 

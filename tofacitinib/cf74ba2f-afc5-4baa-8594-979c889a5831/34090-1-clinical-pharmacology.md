@@ -99,10 +99,10 @@ No additional dose adjustment is needed based on age, gender, race, or disease s
 
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of tofacitinib is shown in Figure 1.
 
-| Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics |
+Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
+
+| Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. a Refer to Dosage and Administration (2.2, 2.3, 2.4) for dosage adjustment in RA, PsA, UC, and pcJIA patients. |
 | --- |
-| Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. |
-| a Refer to Dosage and Administration (2.2, 2.3, 2.4) for dosage adjustment in RA, PsA, UC, and pcJIA patients. |
 
 In subjects with ESRD maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib.
 Dose adjustment is recommended in RA, PsA, UC, and pcJIA patients with ESRD maintained on hemodialysis [see Dosage and Administration (2.2, 2.3, 2.4)].
@@ -123,16 +123,17 @@ In vitro data indicate that the potential for tofacitinib to inhibit transporter
 
 Dosing recommendations for coadministered drugs following administration with XELJANZ/XELJANZ XR/XELJANZ Oral Solution are shown in Figure 2.
 
-| Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs |
-| --- |
+Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs
+
 | Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion. |
+| --- |
 
 Potential for Other Drugs to Influence the Pharmacokinetics of Tofacitinib
 
 Since tofacitinib is metabolized by CYP3A4, interaction with drugs that inhibit or induce CYP3A4 is likely.
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the pharmacokinetics of tofacitinib (see Figure 3).
 
-| Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib |
+Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib
+
+| Note: Reference group is administration of tofacitinib alone. a [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)]. |
 | --- |
-| Note: Reference group is administration of tofacitinib alone. |
-| a [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)]. |

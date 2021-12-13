@@ -15,17 +15,22 @@ Malignancies and Lymphoproliferative Disorders
 Inform patients that XELJANZ/XELJANZ XR/XELJANZ Oral Solution may increase their risk of certain cancers, and that lymphoma and other cancers have been observed in patients taking XELJANZ.
 Instruct patients to inform their healthcare provider if they have ever had any type of cancer [see Warnings and Precautions (5.3)].
 
+Major Adverse Cardiovascular Events
+
+Inform patients that XELJANZ/XELJANZ XR/XELJANZ Oral Solution may increase their risk of major adverse cardiovascular events (MACE) defined as myocardial infarction, stroke, and cardiovascular death.
+Instruct all patients, especially current or past smokers or patients with other cardiovascular risk factors, to be alert for the development of signs and symptoms of cardiovascular events [see Warnings and Precautions (5.4)].
+
 Thrombosis
 
-Advise patients to stop taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm) [see Warnings and Precautions (5.4)].
+Advise patients to stop taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm) [see Warnings and Precautions (5.5)].
 
 Hypersensitivity
 
-Advise patients to stop taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution [see Warnings and Precautions (5.6)].
+Advise patients to stop taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking XELJANZ/XELJANZ XR/XELJANZ Oral Solution [see Warnings and Precautions (5.7)].
 
 Important Information on Laboratory Abnormalities
 
-Inform patients that XELJANZ/XELJANZ XR/XELJANZ Oral Solution may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment [see Warnings and Precautions (5.7)].
+Inform patients that XELJANZ/XELJANZ XR/XELJANZ Oral Solution may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR/XELJANZ Oral Solution treatment [see Warnings and Precautions (5.8)].
 
 Pregnancy
 
