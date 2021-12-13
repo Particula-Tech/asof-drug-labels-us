@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Bimatoprost is a structural prostaglandin analog.
-Although the precise mechanism of action is unknown the growth of eyelashes is believed to occur by increasing the percent of hairs in, and the duration of the anagen or growth phase.
+Although the precise mechanism of action is unknown, the growth of eyelashes is believed to occur by increasing the percent of hairs in, and the duration of the anagen or growth phase.
 
 ## 12.3 Pharmacokinetics
 
@@ -14,9 +14,9 @@ There was no significant systemic drug accumulation over time.
 Distribution Bimatoprost is moderately distributed into body tissues with a steady-state volume of distribution of 0.67 L/kg.
 In human blood, bimatoprost resides mainly in the plasma.
 Approximately 12% of bimatoprost remains unbound in human plasma.
-Metabolism Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation.
+Elimination Metabolism Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation.
 Bimatoprost then undergoes oxidation, N-deethylation, and glucuronidation to form a diverse variety of metabolites.
 
-Elimination Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
+Excretion Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
 The total blood clearance of bimatoprost was 1.5 L/hr/kg.
 Up to 67% of the administered dose was excreted in the urine while 25% of the dose was recovered in the feces.

@@ -8,10 +8,11 @@ The following adverse reactions are described elsewhere in the labeling:
 - Hair Growth Outside the Treatment Area [see Warnings and Precautions (5.4)]
 - Intraocular Inflammation [see Warnings and Precautions (5.5)]
 - Macular Edema [see Warnings and Precautions (5.6)]
-- Hypersensitivity [see Warnings and Precautions (5.7)]
+- Hypersensitivity [see Contraindications (4)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trial Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The following information is based on clinical trial results from a multicenter, double-masked, randomized, vehicle-controlled, parallel study including 278 adult patients for four months of treatment.
 
 The most frequently reported adverse reactions were eye pruritus, conjunctival hyperemia, skin hyperpigmentation, ocular irritation, dry eye symptoms, and periorbital erythema.
@@ -21,6 +22,6 @@ Additional adverse reactions reported with bimatoprost ophthalmic solution (LUMI
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of bimatoprost ophthalmic solution 0.03%.
+The following adverse reactions have been identified during postapproval use of bimatoprost ophthalmic solution 0.03%.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The reactions include; dry skin of the eyelid and/or periocular area, eye swelling, eyelid edema, hypersensitivity (local allergic reactions), lacrimation increased, madarosis and trichorrhexis (temporary loss of a few lashes to loss of sections of eyelashes, and temporary eyelash breakage, respectively), periorbital and lid changes associated with a deepening of the eyelid sulcus, rash (including macular, erythematous), skin discoloration (periorbital), and vision blurred.
+The reactions include dry skin of the eyelid and/or periocular area, eye swelling, eyelid edema, hordeolum, hypersensitivity (local allergic reactions), lacrimation increased, madarosis and trichorrhexis (temporary loss of a few lashes to loss of sections of eyelashes, and temporary eyelash breakage, respectively), periorbital and lid changes associated with periorbital fat atrophy and skin tightness resulting in deepening of eyelid sulcus and eyelid ptosis, rash (including macular and erythematous), skin discoloration (periorbital), skin exfoliation of the eyelid and/or periorbital area, trichiasis, and vision blurred.

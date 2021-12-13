@@ -36,12 +36,11 @@ Eyelash changes are likely reversible upon discontinuation of treatment.
 When to Seek Physician Advice Advise patients that if they develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of bimatoprost ophthalmic solution, 0.03%.
 Patients on IOP-lowering medications should not use bimatoprost ophthalmic solution, 0.03% without prior consultation with their physician.
 
-Use with Contact Lenses Advise patients that bimatoprost ophthalmic solution, 0.03% contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
+Contact Lens Use Advise patients that bimatoprost ophthalmic solution, 0.03% contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of bimatoprost ophthalmic solution, 0.03% and may be reinserted 15 minutes following its administration.
 
-Manufactured for: Alembic Pharmaceutical, Inc. 750 Route 202, Bridgewater, NJ 08807 USA Made in India.
-Manufactured by: Gland Pharma Limited Survey No. 143-148, 150 & 151, Near Gandimaisamma Cross Roads, D.P.
-Pally, Quthubullapur Mandal, Ranga Reddy District, Dundigal (Post), Hyderabad-500 043, Telangana, India (IND)
+Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
+Manufactured by: Gland Pharma Limited Hyderabad-500 043, Telangana, India (IND)
 
 LUMIGAN® is registered trademark of Allergan, Inc.
 
@@ -95,7 +94,6 @@ Bimatoprost ophthalmic solution 0.03% solution may cause other less common side 
 These include skin darkening, eye irritation, dryness of the eyes, and redness of the eyelids.
 
 If you develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, you should immediately seek your physician’s advice concerning the continued use of bimatoprost ophthalmic solution 0.03% solution.
-
 What happens if I stop using bimatoprost ophthalmic solution 0.03%?
 
 If you stop using bimatoprost ophthalmic solution 0.03%, your eyelashes are expected to return to their previous appearance over several weeks to months.
@@ -130,7 +128,7 @@ Contact lenses should be removed prior to application of bimatoprost ophthalmic 
 
 Use of bimatoprost ophthalmic solution 0.03% more than once a day will not increase the growth of eyelashes more than use once a day.
 
-Store bimatoprost ophthalmic solution 0.03% at 2 to 25 °C (36 to 77 °F).
+Store bimatoprost ophthalmic solution 0.03% at 2° to 25 °C (36° to 77 °F).
 
 General Information about bimatoprost ophthalmic solution 0.03%.
 Prescription treatments are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
@@ -150,9 +148,8 @@ Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodi
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 to 7.8.
 
-Manufactured for: Alembic Pharmaceutical, Inc. 750 Route 202, Bridgewater, NJ 08807 USA Made in India.
-Manufactured by: Gland Pharma Limited Survey No. 143-148, 150 & 151, Near Gandimaisamma Cross Roads, D.P.
-Pally, Quthubullapur Mandal, Ranga Reddy District, Dundigal (Post), Hyderabad-500 043, Telangana, India (IND)
+Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
+Manufactured by: Gland Pharma Limited Hyderabad-500 043, Telangana, India (IND)
 
 LUMIGAN® is registered trademark of Allergan, Inc.
 
