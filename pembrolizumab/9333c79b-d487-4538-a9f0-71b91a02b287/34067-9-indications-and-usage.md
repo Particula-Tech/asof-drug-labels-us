@@ -4,7 +4,7 @@
 
 KEYTRUDA® is indicated for the treatment of patients with unresectable or metastatic melanoma.
 
-KEYTRUDA is indicated for the adjuvant treatment of patients with melanoma with involvement of lymph node(s) following complete resection.
+KEYTRUDA is indicated for the adjuvant treatment of adult and pediatric (12 years and older) patients with Stage IIB, IIC, or III melanoma following complete resection.
 
 ## 1.2 Non-Small Cell Lung Cancer
 

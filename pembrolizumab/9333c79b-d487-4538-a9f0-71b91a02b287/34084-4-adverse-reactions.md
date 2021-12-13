@@ -134,7 +134,13 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Melanoma 
 
 Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were anemia (44% all Grades; 10% Grades 3-4) and lymphopenia (40% all Grades; 9% Grades 3-4).
 
-Adjuvant Treatment of Resected Melanoma
+Adjuvant Treatment of Resected Stage IIB or IIC Melanoma
+
+Among the 969 patients with stage IIB or IIC melanoma enrolled in KEYNOTE-716 [see Clinical Studies (14.1)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 9.9 months (range: 0 to 15.4 months).
+Patients with autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
+Adverse reactions occurring in patients with stage IIB or IIC melanoma were similar to those occurring in 1011 patients with stage III melanoma from KEYNOTE-054 or the 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
+
+Adjuvant Treatment of Stage III Resected Melanoma
 
 The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-054, a randomized (1:1) double-blind trial in which 1019 patients with completely resected stage IIIA (>1 mm lymph node metastasis), IIIB or IIIC melanoma received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=509) or placebo (n=502) for up to one year [see Clinical Studies (14.1)].
 Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
@@ -1210,7 +1216,7 @@ The most common adverse reactions (≥2%) resulting in permanent discontinuation
 
 Dose interruptions of KEYTRUDA, lenvatinib, or both due to an adverse reaction occurred in 78% of patients receiving KEYTRUDA in combination with lenvatinib.
 KEYTRUDA was interrupted in 55% of patients and both drugs were interrupted in 39% of patients.
-The most common adverse reactions (≥3%) resulting in interruption of KEYTRUDA were diarrhea (10%), hepatotoxicity (8%), fatigue (7%), lipase increased (5%), amylase increased (4%),musculoskeletal pain (3%), hypertension (3%), rash (3%), acute kidney injury (3%), and decreased appetite (3%).
+The most common adverse reactions (≥3%) resulting in interruption of KEYTRUDA were diarrhea (10%), hepatotoxicity (8%), fatigue (7%), lipase increased (5%), amylase increased (4%), musculoskeletal pain (3%), hypertension (3%), rash (3%), acute kidney injury (3%), and decreased appetite (3%).
 
 Fifteen percent (15%) of patients treated with KEYTRUDA in combination with lenvatinib received an oral prednisone equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
@@ -1294,7 +1300,7 @@ Recurrence of Grade ≥2 increased ALT or AST was observed on rechallenge in 10 
 
 Adjuvant treatment of RCC
 
-The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.1)].
+The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.14)].
 The median duration of exposure to KEYTRUDA was 11.1 months (range: 1 day to 14.3 months).
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
