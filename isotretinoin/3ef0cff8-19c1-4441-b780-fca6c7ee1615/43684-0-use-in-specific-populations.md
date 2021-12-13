@@ -77,10 +77,10 @@ Pregnancies have been reported by users of combined hormonal contraceptives who 
 
 If the patient has unprotected sexual contact with a partner that could result in pregnancy at any time 1 month before, during, or 1 month after therapy, the patient must:
 
-1. a.Stop taking ABSORICA/ABSORICA LD immediately, if on therapy
-2. b.Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
-3. c.Start using 2 forms of contraception simultaneously again for 1 month before resuming ABSORICA/ABSORICA LD therapy
-4. d.Have a second pregnancy test after using 2 forms of contraception for 1 month.
+1. 1.Stop taking ABSORICA/ABSORICA LD immediately, if on therapy
+2. 2.Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
+3. 3.Start using 2 forms of contraception simultaneously again for 1 month before resuming ABSORICA/ABSORICA LD therapy
+4. 4.Have a second pregnancy test after using 2 forms of contraception for 1 month.
 
 Infertility
 
