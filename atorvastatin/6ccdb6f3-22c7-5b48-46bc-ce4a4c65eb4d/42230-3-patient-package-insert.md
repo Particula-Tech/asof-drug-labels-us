@@ -83,7 +83,8 @@ How should I take atorvastatin calcium tablets?
   Do not change your dose or stop atorvastatin calcium tablets without talking to your doctor.
   Your doctor may do blood tests to check your cholesterol levels during your treatment with atorvastatin calcium tablets.
   Your dose of atorvastatin calcium tablets may be changed based on these blood test results.
-- Take atorvastatin calcium tablets each day at any time of day at about the same time each day. atorvastatin calcium tablets can be taken with or without food.
+- Take atorvastatin calcium tablets each day at any time of day at about the same time each day.
+  Atorvastatin calcium tablets can be taken with or without food.
   Don't break atorvastatin calcium tablets before taking.
 - Your doctor should start you on a low-fat diet before giving you atorvastatin calcium tablets.
   Stay on this low-fat diet when you take atorvastatin calcium tablets.

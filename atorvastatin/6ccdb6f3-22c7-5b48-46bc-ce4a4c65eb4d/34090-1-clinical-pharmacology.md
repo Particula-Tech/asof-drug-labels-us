@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Atorvastatin calcium is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.
-In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; atorvastatin calcium also reduces LDL production and the number of LDL particles.
+In animal models, atorvastatin calcium lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; atorvastatin calcium also reduces LDL production and the number of LDL particles.
 
 ## 12.2 Pharmacodynamics
 
@@ -25,7 +25,7 @@ However, LDL-C reduction is the same regardless of the time of day of drug admin
 Distribution:Mean volume of distribution of atorvastatin calcium is approximately 381 liters.
 Atorvastatin calcium is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications, Nursing Mothers (4) and Use in Specific Populations(8.2)].
+Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations(8.2)].
 
 Metabolism:Atorvastatin calcium is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of atorvastatin calcium.
