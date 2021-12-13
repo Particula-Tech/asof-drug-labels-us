@@ -61,8 +61,7 @@ If clinically feasible, it is suggested that all antipsychotic agents be discont
 Should it be necessary to reinstitute treatment, or increase the dosage of the agent, or switch to a different antipsychotic agent, the syndrome may be masked.
 It has been reported that fine vermicular movements of the tongue may be an early sign of the syndrome and if the medication is stopped at that time the syndrome may not develop.
 ADVERSE BEHAVIORAL EFFECTS Psychotic symptoms and catatonic-like states have been reported rarely.
-OTHER CNS EFFECTS Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
-(See WARNINGS.)
+OTHER CNS EFFECTS Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs (see WARNINGS).
 Cerebral edema has been reported.
 Convulsive seizures (petit mal and grand mal) have been reported, particularly in patients with EEG abnormalities or history of such disorders.
 Abnormality of the cerebrospinal fluid proteins has also been reported.
