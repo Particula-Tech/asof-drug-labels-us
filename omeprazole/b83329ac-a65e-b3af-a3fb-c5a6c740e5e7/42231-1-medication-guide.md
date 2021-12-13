@@ -4,7 +4,7 @@ Omeprazole Delayed-Release Capsules, USP
 
 (oh mep’ ra zole)
 
-Dispense with Medication Guide available at www1.apotex.com/products/us
+Medication Guide available at www1.apotex.com/products/us
 
 Read this Medication Guide before you start taking omeprazole delayed-release capsules and each time you get a refill.
 There may be new information.

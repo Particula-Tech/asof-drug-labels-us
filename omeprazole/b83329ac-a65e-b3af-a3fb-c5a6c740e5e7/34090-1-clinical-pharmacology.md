@@ -38,7 +38,7 @@ No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6-fold vs. 1.1 to 1.8-fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 Enterochromaffin-like (ECL) Cell Effects
 
