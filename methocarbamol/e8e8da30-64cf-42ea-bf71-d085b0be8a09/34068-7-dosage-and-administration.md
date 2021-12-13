@@ -8,7 +8,7 @@ For the relief of symptoms of moderate degree, one dose of 1 gram (one 10 mL via
 Ordinarily this injection need not be repeated, as the administration of the oral form will usually sustain the relief initiated by the injection.
 For the severest cases or in postoperative conditions in which oral administration is not feasible, additional doses of 1 gram may be repeated every 8 hours up to a maximum of 3 g/day for no more than 3 consecutive days.
 Directions for Intravenous Use Methocarbamol injection may be administered undiluted directly into the vein at a maximum rate of three mL per minute.
-It may also be added to an intravenous drip of Sodium Chloride Injection (Sterile Isotonic Sodium Chloride Solution for Parenteral Use) or five percent Dextrose Injection (Sterile 5 percent Dextrose Solution); one vial given as a single dose should not be diluted to more than 250 mL for I.V. infusion.
+It may also be added to an intravenous drip of Sodium Chloride Injection (Sterile Isotonic Sodium Chloride Solution for Parenteral Use) or five percent Dextrose Injection (Sterile 5 percent Dextrose Solution); one vial given as a single-dose should not be diluted to more than 250 mL for I.V. infusion.
 AFTER MIXING WITH I.V.
 INFUSION FLUIDS, DO NOT REFRIGERATE.
 Care should be exercised to avoid vascular extravasation of this hypertonic solution, which may result in thrombophlebitis.

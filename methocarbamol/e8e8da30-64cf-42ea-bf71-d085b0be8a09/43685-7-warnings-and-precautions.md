@@ -43,7 +43,7 @@ No studies have been conducted to assess the effect of methocarbamol on mutagene
 
 ## Pregnancy
 
-Teratogenic Effects Pregnancy Category C Animal reproduction studies have not been conducted with methocarbamol.
+Teratogenic Effects Animal reproduction studies have not been conducted with methocarbamol.
 It is also not known whether methocarbamol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Methocarbamol injection should be given to a pregnant woman only if clearly needed.
 Safe use of methocarbamol injection has not been established with regard to possible adverse effects upon fetal development.
