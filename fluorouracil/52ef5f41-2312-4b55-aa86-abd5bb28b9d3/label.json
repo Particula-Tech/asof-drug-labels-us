@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090368"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "NORTHSTAR RX LLC",
+  "package_ndcs": [
+    "16714-178-01"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Fluorouracil"
+    }
+  ],
+  "setid": "52ef5f41-2312-4b55-aa86-abd5bb28b9d3",
+  "source": "dailymed"
+}
