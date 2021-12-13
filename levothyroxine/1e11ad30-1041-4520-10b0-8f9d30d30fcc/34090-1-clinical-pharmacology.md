@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis.
-Triiodothyronine(T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA.
+Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA.
 This hormone nuclear receptor complex activates gene transcription and synthesis of messenger RNA and cytoplasmic proteins.
 
 The physiological actions of thyroid hormones are produced predominantly by T3, the majority of which (approximately 80%) is derived from T4 by deiodination in peripheral tissues.
@@ -57,4 +57,4 @@ Urinary excretion of T4 decreases with age.
 | Hormone | Ratio in Thyroglobulin | Biologic Potency | t1/2 (days) | Protein Binding (%)a |
 | Levothyroxine (T4) | 10 - 20 | 1 | 6-7b | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |
-| Includes TBG, TBPA, and TBA3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |
+| a. Includes TBG, TBPA, and TBA b. 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |

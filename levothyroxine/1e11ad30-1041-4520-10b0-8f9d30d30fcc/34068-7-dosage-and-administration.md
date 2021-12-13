@@ -21,7 +21,7 @@ The peak therapeutic effect of a given dose of SYNTHROID may not be attained for
 
 ## 2.3 Dosing in Specific Patient Populations
 
-### Primary Hypothyroidism in Adults and in Adolescents in Whom Growth and Puberty are Complete
+Primary Hypothyroidism in Adults and in Adolescents in Whom Growth and Puberty are Complete
 
 Start SYNTHROID at the full replacement dose in otherwise healthy, non-elderly individuals who have been hypothyroid for only a short time (such as a few months).
 The average full replacement dose of SYNTHROID is approximately 1.6 mcg per kg per day (for example: 100 to 125 mcg per day for a 70 kg adult).
@@ -37,7 +37,7 @@ The full replacement dose of SYNTHROID may be less than 1 mcg per kg per day in 
 In patients with severe longstanding hypothyroidism, start with a dose of 12.5 to 25 mcg per day.
 Adjust the dose in 12.5 to 25 mcg increments every 2 to 4 weeks until the patient is clinically euthyroid and the serum TSH level is normalized.
 
-### Secondary or Tertiary Hypothyroidism
+Secondary or Tertiary Hypothyroidism
 
 Start SYNTHROID at the full replacement dose in otherwise healthy, non-elderly individuals.
 Start with a lower dose in elderly patients, patients with underlying cardiovascular disease or patients with severe longstanding hypothyroidism as described above.
@@ -45,7 +45,7 @@ Serum TSH is not a reliable measure of SYNTHROID dose adequacy in patients with 
 Use the serum free-T4 level to monitor adequacy of therapy in this patient population.
 Titrate SYNTHROID dosing per above instructions until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range.
 
-### Pediatric Dosage - Congenital or Acquired Hypothyroidism
+Pediatric Dosage - Congenital or Acquired Hypothyroidism
 
 The recommended daily dose of SYNTHROID in pediatric patients with hypothyroidism is based on body weight and changes with age as described in Table 1.
 Start SYNTHROID at the full daily dose in most pediatric patients.
@@ -72,7 +72,7 @@ Increase the dose every 4 to 6 weeks as needed based on clinical and laboratory 
 
 Children at risk for hyperactivity: To minimize the risk of hyperactivity in children, start at one-fourth the recommended full replacement dose, and increase on a weekly basis by one-fourth the full recommended replacement dose until the full recommended replacement dose is reached.
 
-### Pregnancy
+Pregnancy
 
 Pre-existing Hypothyroidism: SYNTHROID dose requirements may increase during pregnancy.
 Measure serum TSH and free-T4 as soon as pregnancy is confirmed and, at minimum, during each trimester of pregnancy.
@@ -85,7 +85,7 @@ In patients with moderate to severe signs and symptoms of hypothyroidism, start 
 In patients with mild hypothyroidism (TSH < 10 IU per liter) start SYNTHROID at 1.0 mcg per kg body weight per day.
 Evaluate serum TSH every 4 weeks and adjust SYNTHROID dosage until a serum TSH is within the normal trimester specific range [see Use in Specific Populations (8.1)].
 
-### TSH Suppression in Well-differentiated Thyroid Cancer
+TSH Suppression in Well-differentiated Thyroid Cancer
 
 Generally, TSH is suppressed to below 0.1 IU per liter, and this usually requires a SYNTHROID dose of greater than 2 mcg per kg per day.
 However, in patients with high-risk tumors, the target level for TSH suppression may be lower.
@@ -95,12 +95,12 @@ However, in patients with high-risk tumors, the target level for TSH suppression
 Assess the adequacy of therapy by periodic assessment of laboratory tests and clinical evaluation.
 Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of SYNTHROID may be evidence of inadequate absorption, poor compliance, drug interactions, or a combination of these factors.
 
-### Adults
+Adults
 
 In adult patients with primary hypothyroidism, monitor serum TSH levels after an interval of 6 to 8 weeks after any change in dose.
 In patients on a stable and appropriate replacement dose, evaluate clinical and biochemical response every 6 to 12 months and whenever there is a change in the patient’s clinical status.
 
-### Pediatrics
+Pediatrics
 
 In patients with congenital hypothyroidism, assess the adequacy of replacement therapy by measuring both serum TSH and total or free-T4.
 Monitor TSH and total or free-T4 in children as follows: 2 and 4 weeks after the initiation of treatment, 2 weeks after any change in dosage, and then every 3 to 12 months thereafter following dose stabilization until growth is completed.
@@ -111,6 +111,6 @@ While the general aim of therapy is to normalize the serum TSH level, TSH may no
 Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of SYNTHROID therapy and/or of the serum TSH to decrease below 20 IU per liter within 4 weeks may indicate the child is not receiving adequate therapy.
 Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of SYNTHROID [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
-### Secondary and Tertiary Hypothyroidism
+Secondary and Tertiary Hypothyroidism
 
 Monitor serum free-T4 levels and maintain in the upper half of the normal range in these patients.

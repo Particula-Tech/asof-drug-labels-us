@@ -17,7 +17,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre‑eclampsia, stillbirth, and premature delivery.
+Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery.
 Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development.
 
 Dose Adjustments During Pregnancy and the Postpartum Period
@@ -50,7 +50,7 @@ Dosing adjustments are based on an assessment of the individual patient's clinic
 In children in whom a diagnosis of permanent hypothyroidism has not been established, discontinue SYNTHROID administration for a trial period, but only after the child is at least 3 years of age.
 Obtain serum T4 and TSH levels at the end of the trial period, and use laboratory test results and clinical assessment to guide diagnosis and treatment, if warranted.
 
-Congenital Hypothyroidism[See Dosage and Administration (2.3, 2.4)]
+Congenital Hypothyroidism [See Dosage and Administration (2.3, 2.4)]
 
 Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
 Therefore, initiate SYNTHROID therapy immediately upon diagnosis.
