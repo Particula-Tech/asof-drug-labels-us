@@ -9,7 +9,7 @@ Each vial contains 250 mg of bivalirudin equivalent to an average of 275 mg of b
 
 250 mg per vial:
 
-Single Dose Vials
+Single-Dose Vials
 
 in a carton of 10 NDC 55150-210-10
 
