@@ -42,14 +42,10 @@ Laboratory testing to determine liver enzyme levels should be done upon the firs
 
 ### Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
-#### Children and Adolescents
-
-Sudden death has been reported in association with atomoxetine treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
+Children and Adolescents - Sudden death has been reported in association with atomoxetine treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, atomoxetine generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the noradrenergic effects of atomoxetine.
 
-#### Adults
-
-Sudden deaths, stroke, and myocardial infarction have been reported in adults taking atomoxetine at usual doses for ADHD.
+Adults - Sudden deaths, stroke, and myocardial infarction have been reported in adults taking atomoxetine at usual doses for ADHD.
 Although the role of atomoxetine in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Consideration should be given to not treating adults with clinically significant cardiac abnormalities.
 
@@ -118,12 +114,11 @@ In pediatric short-term controlled clinical trials, 21/1,308 (1.6%) of atomoxeti
 0.67 to 2.64 – not statistically significant]).
 In adult placebo-controlled clinical trials, 6/1,697 (0.35%) of atomoxetine patients versus 4/1,560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
 0.39 to 4.88 – not statistically significant]).
-Although this is not conclusive evidence that atomoxetine hydrochloride causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with atomoxetine hydrochloride compared to placebo (overall risk ratio of 1.33 [95% C.I.
-0.67-2.64 - not statistically significant]).
+Although this is not conclusive evidence that atomoxetine hydrochloride causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with atomoxetine hydrochloride compared to placebo.
 
 ## 5.8 Allergic Events
 
-Although uncommon, allergic reactions, including angioneurotic edema, urticaria, and rash, have been reported in patients taking atomoxetine hydrochloride.
+Although uncommon, allergic reactions, including analycial reactions, angioneurotic edema, urticaria, and rash, have been reported in patients taking atomoxetine hydrochloride.
 
 ## 5.9 Effects on Urine Outflow from the Bladder
 
@@ -140,7 +135,7 @@ Prompt medical attention is required in the event of suspected priapism.
 ## 5.11 Effects on Growth
 
 Data on the long-term effects of atomoxetine hydrochloride on growth come from open-label studies, and weight and height changes are compared to normative population data.
-In general, the weight and height gain of pediatric patients treated with atomoxetine hydrochloride lags behind that predicted by normative population data for about the first 9-12 months of treatment.
+In general, the weight and height gain of pediatric patients treated with atomoxetine hydrochloride lags behind that predicted by normative population data for about the first 9 to 12 months of treatment.
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine hydrochloride have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
 After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine hydrochloride have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
 
@@ -162,9 +157,7 @@ Growth should be monitored during treatment with atomoxetine hydrochloride.
 
 Routine laboratory tests are not required.
 
-### CYP2D6 Metabolism
-
-Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
+CYP2D6 Metabolism - Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
 Approximately 7% of a Caucasian population are PMs.
 Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.

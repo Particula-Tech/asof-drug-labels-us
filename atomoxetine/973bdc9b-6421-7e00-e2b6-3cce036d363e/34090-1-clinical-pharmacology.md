@@ -29,9 +29,7 @@ Single-dose and steady-state individual pharmacokinetic data were also obtained 
 When doses were normalized to a mg/kg basis, similar half-life, Cmax, and AUC values were observed in children, adolescents, and adults.
 Clearance and volume of distribution after adjustment for body weight were also similar.
 
-### Absorption and Distribution
-
-Atomoxetine is rapidly absorbed after oral administration, with absolute bioavailability of about 63% in Ems and 94% in PMs.
+Absorption and Distribution - Atomoxetine is rapidly absorbed after oral administration, with absolute bioavailability of about 63% in Ems and 94% in PMs.
 Maximal plasma concentrations (Cmax) are reached approximately 1 to 2 hours after dosing.
 
 Atomoxetine hydrochloride can be administered with or without food.
@@ -43,9 +41,7 @@ Volume of distribution is similar across the patient weight range after normaliz
 
 At therapeutic concentrations, 98% of atomoxetine in plasma is bound to protein, primarily albumin.
 
-### Metabolism and Elimination
-
-Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
+Metabolism and Elimination - Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
 People with reduced activity in this pathway (PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (Ems).
 For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than Ems.
 Laboratory tests are available to identify CYP2D6 PMs.

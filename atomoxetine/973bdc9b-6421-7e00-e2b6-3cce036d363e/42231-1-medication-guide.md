@@ -99,7 +99,7 @@ Atomoxetine capsules should not be taken if you or your child:
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
   Some names of MAOI medicines are Nardil® (phenelzine sulfate), Parnate® (tranylcypromine sulfate) and Emsam® (selegiline transdermal system).
 - have an eye problem called narrow angle glaucoma
-- are allergic to anything in atomoxetine hydrochloride.
+- are allergic to anything in atomoxetine capsules.
   See the end of this Medication Guide for a complete list of ingredients.
 - have or have had a rare tumor called pheochromocytoma
 
@@ -227,9 +227,9 @@ What are the ingredients in atomoxetine capsules?
 
 Active ingredient: atomoxetine hydrochloride
 
-Inactive ingredients: pregelatinized starch, dimethicone, FD&C Blue No. 2, gelatin, iron oxide red, iron oxide yellow and titanium dioxide.
+Inactive ingredients: pregelatinized starch, dimethicone, FD&C Blue No. 2, gelatin, iron oxide red, iron oxide yellow, sodium lauryl sulfate and titanium dioxide.
 The capsules are imprinted with edible black ink.
-The edible black ink contains black iron oxide E172, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate and strong ammonia solution.
+The edible black ink contains black iron oxide E172, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
 Nardil® is a registered trademark of Pfizer Inc.
 
