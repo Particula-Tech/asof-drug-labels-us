@@ -151,9 +151,9 @@ What can I do to lower my chances of getting a serious side effect with CombiPat
 
 How should I store and throw away used CombiPatch?
 
-- Store CombiPatch at room temperature between 68°F to 77°F (20°C to 25°C) for up to 6 months.
+- Store CombiPatch in the refrigerator at 36℃ to 46℃ (2℉ to 8℉).
+  Allow patch to reach room temperature before application.
 - Do not store CombiPatch outside of its pouch.
-- Apply immediately upon removal from the protective pouch.
 - Used patches still contain estrogen and progestin.
   To throw away the patch, fold the sticky side of the patch together, place in a sturdy child-proof container, and place this container in the trash.
   Used patches should not be flushed in the toilet.
@@ -178,4 +178,4 @@ Active Ingredients: estradiol and norethindrone acetate
 
 Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
-102538
+102538-4 12/2021

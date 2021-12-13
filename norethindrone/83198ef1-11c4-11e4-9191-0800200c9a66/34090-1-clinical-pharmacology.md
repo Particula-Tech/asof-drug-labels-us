@@ -16,9 +16,6 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## Pharmacokinetics
 
-Systemic estrogen exposures across different estrogen products should not be compared.
-These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
-
 Absorption
 
 Estradiol: Estrogens used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.

@@ -19,10 +19,7 @@ Breast Cancer
 The WHI estrogen plus progestin substudy demonstrated an increased risk of invasive breast cancer.
 (See CLINICAL STUDIES and WARNINGS, Malignant Neoplasms, Breast Cancer).
 
-Only daily oral 0.625 mg CE and 2.5 mg MPA were studied in the estrogen plus progestin substudy of the WHI.
-Therefore, the relevance of the WHI findings regarding adverse cardiovascular events, dementia and breast cancer to lower CE plus other MPA doses, other routes of administration, or other estrogen plus progestin products is not known.
-Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
-Discuss with your patient the benefits and risks of estrogen plus progestin therapy, taking into account her individual risk profile.
+In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.
 
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
 
@@ -46,9 +43,6 @@ The WHIMS estrogen-alone ancillary study of the WHI reported an increased risk o
 It is unknown whether this finding applies to younger postmenopausal women.
 (See CLINICAL STUDIES and WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use).
 
-Only daily oral 0.625 mg CE was studied in the estrogen-alone substudy of the WHI.
-Therefore, the relevance of the WHI findings regarding adverse cardiovascular events and dementia to lower CE doses, other routes of administration, or other estrogen-alone products is not known.
-Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
-Discuss with your patient the benefits and risks of estrogen-alone therapy, taking into account her individual risk profile.
+In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.
 
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
