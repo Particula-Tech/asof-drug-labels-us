@@ -99,7 +99,7 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | --- | --- | --- | --- | --- | --- |
 | Neonatal Patients Pre-termIn this data set, "pre-term" is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) < 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-termIn this data set, "full-term" is defined as ≥34 weeks gestational age < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
-| Full-term≥ 1 week to ≤ 28 days (N=10) | 12.9 (28%) [7.7, 21.6] | 0.66 (29%) [0.35, 1.06] | 34 (21%) [23, 50] | 1.5 (17%) [1.2, 1.9] | 5.1 (22%) [3.3, 7.2] |
+| Full-term ≥ 1 week to ≤ 28 days (N=10) | 12.9 (28%) [7.7, 21.6] | 0.66 (29%) [0.35, 1.06] | 34 (21%) [23, 50] | 1.5 (17%) [1.2, 1.9] | 5.1 (22%) [3.3, 7.2] |
 | Infant Patients > 28 days to < 3 Months (N=12) | 11.0 (27%) [7.2, 18.0] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
 | Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8.0] | 3.8 (53%) [1.0, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg (N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
