@@ -13,17 +13,22 @@ Hepatic Failure
 
 Advise patients with known liver disease to contact their healthcare provider if they experience signs or symptoms of worsening liver function [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients of the signs and symptoms of severe cutaneous adverse reactions.
+Instruct patients to stop taking mesalamine delayed-release tablets and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Upper Gastrointestinal Tract Obstruction
 
-Advise patients to contact their healthcare provider if they experience signs and symptoms of upper gastrointestinal tract obstruction [see Warnings and Precautions (5.5)].
+Advise patients to contact their healthcare provider if they experience signs and symptoms of upper gastrointestinal tract obstruction [see Warnings and Precautions (5.6)].
 
 Photosensitivity
 
-Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
+Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.7)].
 
 Nephrolithiasis
 
-Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
+Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.8)].
 
 Blood Disorders
 
@@ -36,7 +41,7 @@ Instruct patients:
 
 - Swallow mesalamine delayed-release tablets whole; do not split or crush.
 - Take mesalamine delayed-release tablets with food [see Clinical Pharmacology (12.3)].
-- Drink an adequate amount of fluids [see Warnings and Precautions (5.7)].
+- Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
 
 Manufactured by:
 
@@ -51,4 +56,4 @@ Actavis Pharma, Inc.
 Parsippany, NJ 07054 USA
 
 Rev.
-D 6/2021
+E 11/2021

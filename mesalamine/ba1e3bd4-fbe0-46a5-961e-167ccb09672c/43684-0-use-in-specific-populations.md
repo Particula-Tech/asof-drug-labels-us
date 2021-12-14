@@ -30,7 +30,7 @@ Published epidemiologic studies have important methodological limitations which 
 
 Animal Data
 
-Reproduction studies with mesalamine during organogenesis have been performed in rats at doses up to 1000 mg/kg/day (1.8 times the maximum recommended human dose based on a body surface area comparison) and rabbits at doses up to 800 mg/kg/day (2.9 times the maximum recommended human dose based on a body surface area comparison) and have revealed no evidence of harm to the fetus due to mesalamine.
+Reproduction studies with mesalamine during organogenesis have been performed in rats at doses up to 1,000 mg/kg/day (1.8 times the maximum recommended human dose based on a body surface area comparison) and rabbits at doses up to 800 mg/kg/day (2.9 times the maximum recommended human dose based on a body surface area comparison) and have revealed no evidence of harm to the fetus due to mesalamine.
 
 ## 8.2 Lactation
 
@@ -49,8 +49,8 @@ Data
 
 In published lactation studies, maternal mesalamine doses from various oral and rectal formulations and products ranged from 500 mg to 4.8 g daily.
 The average concentration of mesalamine in milk ranged from non-detectable to 0.5 mg/L.
-The average concentration of N-acetyl-5-aminosalicylic acid in milk ranged from 0.2 to 9.3 mg/L.
-Based on these concentrations, estimated infant daily dosages for an exclusively breastfed infant are 0 to 0.075 mg/kg/day (RID 0% to 0.1%) of mesalamine and 0.03 to 1.4 mg/kg/day of N-acetyl-5-aminosalicylic acid.
+The average concentration of N-acetyl-5-aminosalicylic acid in milk ranged from 0.2 mg/L to 9.3 mg/L.
+Based on these concentrations, estimated infant daily dosages for an exclusively breastfed infant are 0 mg/kg/day to 0.075 mg/kg/day (RID 0% to 0.1%) of mesalamine and 0.03 mg/kg/day to 1.4 mg/kg/day of N-acetyl-5-aminosalicylic acid.
 
 ## 8.4 Pediatric Use
 

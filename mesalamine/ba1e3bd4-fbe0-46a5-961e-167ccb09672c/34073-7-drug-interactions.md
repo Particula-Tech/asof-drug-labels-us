@@ -12,5 +12,5 @@ If concomitant use of mesalamine and azathioprine or 6-mercaptopurine cannot be 
 
 ## 7.3 Interference with Urinary Normetanephrine Measurements
 
-Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.8)].
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.9)].
 Consider an alternative, selective assay for normetanephrine.
