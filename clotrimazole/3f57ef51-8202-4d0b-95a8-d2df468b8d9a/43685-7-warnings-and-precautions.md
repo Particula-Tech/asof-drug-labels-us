@@ -16,7 +16,7 @@ An 18 month dosing study with clotrimazole in rats has not revealed any carcinog
 
 ## Usage in Pregnancy:
 
-### Pregnancy Category C:
+Pregnancy Category C:
 
 Clotrimazole has been shown to be embryotoxic in rats and mice when given in doses 100 times the adult human dose (in mg/kg), possibly secondary to maternal toxicity.
 The drug was not teratogenic in mice, rabbits, and rats when given in doses up to 200, 180, and 100 times the human dose.
