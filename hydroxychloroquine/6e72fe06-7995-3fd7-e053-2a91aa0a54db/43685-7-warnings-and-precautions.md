@@ -1,83 +1,83 @@
-# PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-General
+## 5.1 Cardiomyopathy and Ventricular Arrhythmias
 
-Use with caution in patients with gastrointestinal, neurological, or blood disorders, and in those with a sensitivity to quinine.
+Fatal and life-threatening cases of cardiotoxicity, including cardiomyopathy, have been reported in patients treated with hydroxychloroquine sulfate tablets.
+Signs and symptoms of cardiac compromise have occurred during acute and chronic hydroxychloroquine sulfate tablets treatment.
+Patients may present with ventricular hypertrophy, pulmonary hypertension and conduction disorders including sick sinus syndrome.
 
-Hepatic/Renal Disease: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
-A reduction in dosage may be necessary in patients with hepatic or renal disease, as well as in those taking medicines known to affect these organs.
+ECG findings include atrioventricular, right or left bundle branch block.
 
-Hematologic Effects/Laboratory Tests: Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
-Periodic blood cell counts should be performed if patients are given prolonged therapy.
-If any severe blood disorder such as aplastic anemia, agranulocytosis, leukopenia, or thrombocytopenia, appears which is not attributable to the disease under treatment, consider discontinuation of hydroxychloroquine sulfate tablets.
+Hydroxychloroquine sulfate tablets have a potential to prolong the QT interval.
+Ventricular arrhythmias (including torsades de pointes) have been reported in hydroxychloroquine sulfate tablets-treated patients.
+The magnitude of QT prolongation may increase with increasing concentrations of the drug.
+Therefore, the recommended dose should not be exceeded [see Adverse Reactions (6), Overdosage (10)].
+Avoid hydroxychloroquine sulfate tablets administration in patients with congenital or documented acquired QT prolongation and/or known risk factors for prolongation of the QT interval such as:
 
-Hydroxychloroquine sulfate tablets should be administered with caution in patients having glucose-6- phosphate dehydrogenase (G-6-PD) deficiency.
+- •Cardiac disease, e.g., heart failure, myocardial infarction.
+- •Proarrhythmic conditions, e.g., bradycardia (< 50 bpm).
+- •History of ventricular dysrhythmias.
+- •Uncorrected hypokalemia and/or hypomagnesemia.
+- •Concomitant administration with QT interval prolonging agents [see Drug Interactions (7.1)] as this may lead to an increased risk for ventricular arrhythmias.
 
-Dermatologic Effects: Dermatologic reactions to hydroxychloroquine sulfate tablets may occur and, therefore, proper care should be exercised when it is administered to any patient receiving a drug with a significant tendency to produce dermatitis.
+Therefore, hydroxychloroquine sulfate tablets are not recommended in patients taking other drugs that have the potential to prolong the QT interval.
+Monitor cardiac function as clinically indicated during hydroxychloroquine sulfate tablets therapy.
+Correct electrolyte imbalances prior to use.
+Discontinue hydroxychloroquine sulfate tablets if cardiotoxicity is suspected.
 
-Information for Patients
+## 5.2 Retinal Toxicity
 
-Patients should be informed of the early signs and symptoms of toxicity such as rash or visual changes.
-Patients must see their physicians promptly in case of the appearance of these or of any unusual effects.
-Periodic laboratory tests may be recommended in some patients.
-Patients should be fully informed of the potential risks of the use of hydroxychloroquine sulfate tablets, especially in pregnancy and in children.
+Irreversible retinal damage was observed in some patients treated with hydroxychloroquine sulfate and it is related to cumulative dosage and treatment duration.
+In patients of Asian descent, retinal toxicity may first be noticed outside the macula.
 
-Drug Interactions
+Risk factors for retinal damage include daily hydroxychloroquine sulfate dosages ≥5 mg/kg of actual body weight, durations of use greater than five years, renal impairment, use of concomitant drug products such as tamoxifen citrate, and concurrent macular disease.
 
-Digoxin: Concomitant hydroxychloroquine sulfate tablets and digoxin therapy may result in increased serum digoxin levels: serum digoxin levels should be closely monitored in patients receiving combined therapy.
+Within the first year of starting hydroxychloroquine sulfate tablets, a baseline ocular examination is recommended including best corrected distance visual acuity (BCVA), an automated threshold visual field (VF) of the central 10 degrees (with retesting if an abnormality is noted), and spectral domain ocular coherence tomography (SD-OCT).
+For patients at higher risk of retinal damage, monitoring should include annual examinations which include BCVA, VF and SD-OCT.
+For patients without significant risk factors, annual retinal exams can usually be deferred until five years of treatment.
+In patients of Asian descent, it is recommended that visual field testing be performed in the central 24 degrees instead of the central 10 degrees.
+If ocular toxicity is suspected, discontinue hydroxychloroquine sulfate tablets and monitor the patient closely given that retinal changes and visual disturbances may progress even after cessation of therapy.
 
-Insulin or antidiabetic drugs: As hydroxychloroquine sulfate tablets may enhance the effects of a hypoglycemic treatment, a decrease in doses of insulin or antidiabetic drugs may be required.
+## 5.3 Serious Skin Reactions
 
-Drugs that prolong QT interval and other arrhythmogenic drugs: hydroxychloroquine sulfate tablets prolong the QT interval and should not be administered with other drugs that have the potential to induce cardiac arrhythmias.
-Also, there may be an increased risk of inducing ventricular arrhythmias if hydroxychloroquine sulfate tablets are used concomitantly with other arrhythmogenic drugs.
+Serious adverse reactions have been reported with the use of hydroxychloroquine sulfate tablets including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS syndrome), acute generalized exanthematous pustulosis (AGEP).
+Monitor for serious skin reactions, especially in patients receiving a drug that may also induce dermatitis.
+Advise patients to seek medical attention promptly if they experience signs and symptoms of serious skin reactions such as blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.4), Adverse Reactions (6)].
+Discontinue hydroxychloroquine sulfate tablets if these severe reactions occur.
 
-Mefloquine and other drugs known to lower the convulsive threshold: hydroxychloroquine sulfate tablets can lower the convulsive threshold.
-Coadministration of hydroxychloroquine sulfate tablets with other antimalarials known to lower the convulsion threshold (e.g., mefloquine) may increase the risk of convulsions.
+## 5.4 Worsening of Psoriasis and Porphyria
 
-Antiepileptics: The activity of antiepileptic drugs might be impaired if co-administered with hydroxychloroquine sulfate tablets.
+Administration of hydroxychloroquine sulfate tablets in patients with psoriasis may precipitate a severe flare-up of psoriasis.
+Administration of hydroxychloroquine sulfate tablets in patients with porphyria may exacerbate porphyria.
+Avoid hydroxychloroquine sulfate tablets in patients with psoriasis or porphyria, unless the benefit to the patient outweighs the possible risk.
 
-Methotrexate: Combined use of methotrexate with hydroxychloroquine sulfate tablets have not been studied and may increase the incidence of adverse effects.
+## 5.5 Hematologic Toxicity
 
-Cyclosporin: An increased plasma cyclosporin level was reported when cyclosporin and hydroxychloroquine sulfate tablets were co-administered.
+Hydroxychloroquine sulfate tablets may cause myelosuppression including aplastic anemia, agranulocytosis, leukopenia, or thrombocytopenia.
+Monitor blood cell counts periodically in patients on prolonged hydroxychloroquine sulfate tablets therapy.
+If the patient develops myelosuppression which cannot be attributable to the disease, discontinue the drug.
 
-The following interactions have been observed on treatment with the structurally related substance chloroquine phosphate, and therefore cannot be ruled out for hydroxychloroquine.
+## 5.6 Hemolytic Anemia Associated with G6PD Deficiency
 
-Praziquantel: Chloroquine has been reported to reduce the bioavailability of praziquantel.
+Hemolysis has been reported in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+Monitor for hemolytic anemia as this can occur, particularly in association with other drugs that cause hemolysis.
 
-Antacids and kaolin: Antacids and kaolin can reduce absorption of chloroquine; an interval of at least 4 hours between intake of these agents and chloroquine should be observed.
+## 5.7 Skeletal Muscle Myopathy or Neuropathy
 
-Cimetidine: Cimetidine can inhibit the metabolism of chloroquine, increasing its plasma level.
-Concomitant use of cimetidine should be avoided.
+Skeletal muscle myopathy or neuropathy leading to progressive weakness and atrophy of proximal muscle groups, depressed tendon reflexes, and abnormal nerve conduction, have been reported.
+Muscle and nerve biopsies have demonstrated bodies and muscle fiber atrophy with vacuolar changes.
+Assess muscle strength and deep tendon reflexes periodically in patients on long-term therapy with hydroxychloroquine sulfate tablets.
+If weakness occurs, discontinue the drug.
 
-Ampicillin: In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin.
+## 5.8 Neuropsychiatric Reactions Including Suicidality
 
-Carcinogenesis, mutagenesis, impairment of fertility
+Suicidal behavior has been reported in patients treated with hydroxychloroquine sulfate tablets [see Adverse Reactions (6)].
+Alert patients to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts or behavior, or mood changes.
+The risk and benefit of continued treatment with hydroxychloroquine sulfate tablets should be assessed for patients who develop these symptoms.
 
-Long-term studies in animals have not been conducted to evaluate the carcinogenic potential of hydroxychloroquine sulfate tablets.
+## 5.9 Hypoglycemia
 
-The mutagenic potential of hydroxychloroquine was not evaluated.
-However, chloroquine has been shown to be a catalytic inhibitor of DNA repair enzymes (topoisomerase II) and to produce weak genotoxic effects through this mode of action.
-
-Pregnancy
-
-Teratogenic Effects: Human pregnancies resulting in live births have been reported in the literature and no increase in the rate of birth defects has been demonstrated.
-Embryonic deaths and malformations of anophthalmia and microphthalmia in the offspring have been reported when pregnant rats received large doses of chloroquine.
-
-Nursing Mothers
-
-Caution should be exercised when administering hydroxychloroquine sulfate tablets to nursing women.
-It has been demonstrated that hydroxychloroquine administered to nursing women is excreted in human milk and it is known that infants are extremely sensitive to the toxic effects of 4-aminoquinolines.
-
-Pediatric Use
-
-Safety and efficacy have not been established in the chronic use of hydroxychloroquine sulfate tablets for systemic lupus erythematosus and juvenile idiopathic arthritis in children.
-Children are especially sensitive to the 4-aminoquinoline compounds.
-Most reported fatalities followed the accidental ingestion of chloroquine, sometimes in small doses (0.75 g or 1 g in one 3-year-old child).
-Patients should be strongly warned to keep these drugs out of the reach of children (see OVERDOSAGE).
-
-Geriatric Use
-
-Clinical studies of hydroxychloroquine sulfate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-However, this drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
+Hydroxychloroquine sulfate tablets can cause severe and potentially life-threatening hypoglycemia, in the presence or absence of antidiabetic agents [see Drug Interactions (7)].
+Measure blood glucose in patients presenting with clinical symptoms suggestive of hypoglycemia and as adjust the antidiabetic treatment as necessary.
+Warn hydroxychloroquine sulfate tablets-treated patients about the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia; diabetic patients should monitor their blood sugar levels.
+Advise patients to seek medical attention if they develop any signs and symptoms of hypoglycemia.

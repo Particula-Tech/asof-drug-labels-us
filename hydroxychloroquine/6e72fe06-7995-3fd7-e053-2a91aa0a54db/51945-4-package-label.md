@@ -1,3 +1,5 @@
-# PRINCIPAL DISPLAY PANEL-100 count
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# PRINCIPAL DISPLAY PANEL-500 count
+Hydroxychloroquine Sulfate Tablets USP 200 mg; 100 Tablets
+
+Hydroxychloroquine Sulfate Tablets USP 200 mg; 500 Tablets

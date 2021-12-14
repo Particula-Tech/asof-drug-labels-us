@@ -1,33 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
+Hydroxychloroquine sulfate tablets, USP contain 200 mg hydroxychloroquine sulfate, USP (equivalent to 155 mg base).
 Hydroxychloroquine sulfate tablets are white, to off-white, circular biconvex film coated tablets debossed with “347” on one side.
-Each tablet contains 200 mg hydroxychloroquine sulfate (equivalent to 155 mg base).
+The tablets are available in:
 
-Bottles of 100 tablets with Child resistant closure NDC 57664-761-88
+- •Bottle of CRC, 100 tablets - NDC 57664-761-88
+- •Bottle of NCRC, 500 tablets - NDC 57664-761-13
 
-Bottles of 500 tablets with Non-Child resistant closure NDC 57664-761-13
-
-Do not crush or divide hydroxychloroquine sulfate filmcoated tablets (see DOSAGE AND ADMINISTRATION).
+## 16.2 Storage
 
 Dispense in a tight, light-resistant container as defined in the USP.
-Keep out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F) [See USP for Controlled Room Temperature].
-
-Manufactured By:
-
-ALKALOIDA Chemical Company Zrt.
-
-4440 Tiszavasvári
-
-Kabay János u. 29.
-
-Hungary
-
-Distributed By:
-
-Sun Pharmaceutical Industries, Inc.,
-
-Cranbury, NJ 08512
-
-Revised: 12/2017
