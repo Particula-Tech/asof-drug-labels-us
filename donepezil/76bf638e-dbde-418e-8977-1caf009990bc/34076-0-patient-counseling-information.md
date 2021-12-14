@@ -10,26 +10,13 @@ Advise patients and caregivers that donepezil hydrochloride tablets may cause na
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8057807 Revised November 2015
-
-or
-
-Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
-
-Manufactured for:
-
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-
-8060564 Revised May 2016
+8083235 Revised August 2021
 
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
@@ -65,8 +52,8 @@ Donepezil hydrochloride tablets have not been approved as a treatment for any me
 
 Who should not take donepezil hydrochloride tablets?
 
-The patient should not take donepezil hydrochloride tablets if allergic to any of the ingredients in donepezil hydrochloride tablets or to medicines that contain piperidines.
-Ask the patient’s doctor if you are not sure.
+Do not take donepezil hydrochloride tablets if you are allergic to any of the ingredients in donepezil hydrochloride tablets or to medicines that contain piperidines.
+Ask your doctor if you are not sure.
 See the end of this leaflet for a list of ingredients in donepezil hydrochloride tablets.
 
 What should I tell the doctor before the patient takes donepezil hydrochloride tablets?
@@ -85,7 +72,7 @@ Include:
   It is not known if donepezil hydrochloride tablets can harm an unborn baby.
 - Present breast-feeding.
   It is not known if donepezil hydrochloride passes into breast milk.
-  Donepezil hydrochloride tablets are not for women who are breast-feeding.
+  Talk to your doctor about the best way to feed your baby if you take Donepezil hydrochloride tablets.
 
 Tell the doctor about all the medicines the patient takes, including prescription and non-prescription medicines, vitamins, and herbal products.
 Donepezil hydrochloride tablets and other medicines may affect each other.
@@ -108,16 +95,16 @@ Show it to the doctor or pharmacist before the patient starts a new medicine.
 
 How should the patient take donepezil hydrochloride tablets?
 
-- Give donepezil hydrochloride tablets exactly as prescribed by the doctor.
+- Take donepezil hydrochloride tablets exactly as prescribed by the doctor.
   Do not stop donepezil hydrochloride tablets or change the dose yourself.
-  Talk with the doctor first.
-- Give donepezil hydrochloride tablets one time each day.
+  Talk with your doctor first.
+- Take donepezil hydrochloride tablets one time each day.
   Donepezil hydrochloride tablets can be taken with or without food.
 - If you miss giving the patient a dose of donepezil hydrochloride tablets, just wait.
-  Give only the next dose at the usual time.
+  Take only the next dose at the usual time.
   Do not give 2 doses at the same time.
 - If donepezil hydrochloride tablets are missed for 7 days or more, talk with the doctor before starting again.
-- If the patient takes too much donepezil hydrochloride tablets at one time, call the doctor or poison control center, or go to the emergency room right away.
+- If you take too much donepezil hydrochloride tablets at one time, call your doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of donepezil hydrochloride tablets?
 
@@ -176,7 +163,7 @@ Do not give donepezil hydrochloride tablets to people other than the patient, ev
 This leaflet summarizes the most important information about donepezil hydrochloride tablets.
 If you would like more information talk with the patient’s doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride tablets that is written for health professionals.
-For more information, call 1-269-544-2299.
+For more information, call 1-800-912-9561.
 
 What are the ingredients in donepezil hydrochloride tablets?
 
@@ -192,23 +179,10 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 For
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8057808 Revised November 2015
-
-or
-
-Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
-
-Manufactured For:
-
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-
-8060563 Revised May 2016
+8083234 Revised August 2021

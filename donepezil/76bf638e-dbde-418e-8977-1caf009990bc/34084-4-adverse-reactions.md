@@ -14,7 +14,7 @@ The following serious adverse reactions are described below and elsewhere in the
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Donepezil hydrochloride tablets have been administered to over 1,700 individuals during clinical trials worldwide.
-Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
+Approximately 1,200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1,214 days
@@ -30,7 +30,7 @@ The most common adverse reactions leading to discontinuation, defined as those o
 
 | Table 1. Most Common Adverse Reactions Leading to Discontinuation in Patients with Mild to Moderate Alzheimer’s Disease |  |  |  |
 | --- | --- | --- | --- |
-| Adverse Reaction | Placebo (n=355) % | 5 mg/day Donepezil Hydrochloride Tablets (n=350) % | 10 mg/day Donepezil Hydrochloride Tablets (n=315) % |
+| Adverse Reaction | Placebo(n=355)% | 5 mg/dayDonepezil Hydrochloride Tablets(n=350)% | 10 mg/day Donepezil Hydrochloride Tablets(n=315)% |
 | Nausea | 1 | 1 | 3 |
 | Diarrhea | 0 | <1 | 3 |
 | Vomiting | <1 | <1 | 2 |
@@ -39,7 +39,7 @@ Most Common Adverse Reactions
 
 The most common adverse reactions, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by donepezil hydrochloride tablet's cholinomimetic effects.
 These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
-These adverse events were often of mild intensity and transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
+These adverse events were often transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
 
 There is evidence to suggest that the frequency of these common adverse reactions may be affected by the rate of titration.
 An open-label study was conducted with 269 patients who received placebo in the 15- and 30-week studies.
@@ -51,7 +51,7 @@ See Table 2 for a comparison of the most common adverse reactions following one 
 | Table 2. Comparison of Rates of Adverse Reactions in Mild to Moderate Patients Titrated to 10 mg/day over 1 and 6 Weeks |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | No titration |  | One week titration | Six week titration |
-| Adverse Reaction | Placebo (n=315) % | 5 mg/day (n=311) % | 10 mg/day (n=315) % | 10 mg/day (n=269) % |
+| Adverse Reaction | Placebo (n=315) % | 5 mg/day(n=311)% | 10 mg/day (n=315)% | 10 mg/day (n=269)% |
 | Nausea | 6 | 5 | 19 | 6 |
 | Diarrhea | 5 | 8 | 15 | 9 |
 | Insomnia | 6 | 6 | 14 | 6 |
@@ -65,7 +65,7 @@ In general, adverse reactions occurred more frequently in female patients and wi
 
 | Table 3. Adverse Reactions in Pooled Placebo-Controlled Clinical Trials in Mild to Moderate Alzheimer’s Disease |  |  |
 | --- | --- | --- |
-| Adverse Reaction | Placebo (n=355) % | Donepezil Hydrochloride Tablets (n=747) % |
+| Adverse Reaction | Placebo(n=355)% | Donepezil Hydrochloride Tablets(n=747)% |
 | Percent of Patients with any Adverse Reaction | 72 | 74 |
 | Nausea | 6 | 11 |
 | Diarrhea | 5 | 10 |
@@ -106,7 +106,7 @@ Table 4 lists adverse reactions that occurred in at least 2% of patients in pool
 
 | Table 4. Adverse Reactions in Pooled Controlled Clinical Trials in Severe Alzheimer’s Disease |  |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction | Placebo (n=392) % | Donepezil Hydrochloride Tablets (n=501) % |
+| Body System/Adverse Reaction | Placebo(n=392)% | Donepezil Hydrochloride Tablets(n=501)% |
 | Percent of Patients with any Adverse Reaction | 73 | 81 |
 | Accident | 12 | 13 |
 | Infection | 9 | 11 |

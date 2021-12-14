@@ -2,7 +2,7 @@
 
 ## 14.1 Mild to Moderate Alzheimer’s Disease
 
-The effectiveness of donepezil hydrochloride tablets as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
+The effectiveness of donepezil hydrochloride tablets as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥10 and ≤26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in donepezil hydrochloride tablets trials was 73 years with a range of 50 to 94.
 Approximately 62% of patients were women and 38% were men.
 The racial distribution was white 95%, black 3% and other races 2%.

@@ -33,7 +33,7 @@ In a study of 10 patients with stable alcoholic cirrhosis, the clearance of done
 
 Renal Disease
 
-In a study of 11 patients with moderate to severe renal impairment (Cl C < 18 mL/min/1.73 m 2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
+In a study of 11 patients with moderate to severe renal impairment (Cl C <18 mL/min/1.73 m 2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
 
 Age
 
