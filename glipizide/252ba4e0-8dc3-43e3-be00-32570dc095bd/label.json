@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074497"
+  ],
+  "inn": "glipizide",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-316-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glipizide",
+      "name": "Glipizide"
+    }
+  ],
+  "setid": "252ba4e0-8dc3-43e3-be00-32570dc095bd",
+  "source": "dailymed"
+}
