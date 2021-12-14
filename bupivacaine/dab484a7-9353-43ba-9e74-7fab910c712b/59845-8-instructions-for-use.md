@@ -1,13 +1,13 @@
 # Instructions For Use
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
 
 | 400 mg bupivacaine and 12 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam |
 | --- |
 
 Intended Use
 
-ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after bunionectomy, open inguinal herniorrhaphy, and total knee arthroplasty.
+ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.
 
 Dose Information
 
@@ -102,14 +102,14 @@ HERON THERAPEUTICS
 
 # Instructions For Use
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
 
 | 300 mg bupivacaine and 9 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam |
 | --- |
 
 Intended Use
 
-ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after bunionectomy, open inguinal herniorrhaphy, and total knee arthroplasty.
+ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.
 
 Dose Information
 
@@ -204,14 +204,14 @@ HERON THERAPEUTICS
 
 # Instructions For Use
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
 
 | 200 mg bupivacaine and 6 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam |
 | --- |
 
 Intended Use
 
-ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after bunionectomy, open inguinal herniorrhaphy, and total knee arthroplasty.
+ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.
 
 Dose Information
 
@@ -306,14 +306,14 @@ HERON THERAPEUTICS
 
 # Instructions For Use
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution, for soft tissue or periarticular instillation use
 
 | 60 mg bupivacaine and 1.8 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam |
 | --- |
 
 Intended Use
 
-ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after bunionectomy, open inguinal herniorrhaphy, and total knee arthroplasty.
+ZYNRELEF is indicated in adults for soft tissue or periarticular instillation to produce postsurgical analgesia for up to 72 hours after foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.
 
 Dose Information
 

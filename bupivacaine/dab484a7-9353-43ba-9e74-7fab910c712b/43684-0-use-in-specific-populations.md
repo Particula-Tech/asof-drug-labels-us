@@ -114,7 +114,7 @@ The high dose is comparable to the daily MRHD of 400 mg on a BSA basis.
 Meloxicam
 
 Meloxicam did not cause malformations when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (3.2 times the meloxicam dose level of 12 mg at the MRHD of ZYNRELEF based on BSA comparison).
-Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day 97 times the MRHD based on BSA comparison).
+Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day (97 times the MRHD based on BSA comparison).
 The no effect level was 20 mg/kg/day (32 times the MRHD based on BSA comparison).
 In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.8 and 8 times the MRHD, respectively, based on BSA comparison) when administered throughout organogenesis.
 

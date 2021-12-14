@@ -10,11 +10,11 @@ The following serious adverse reactions are discussed in greater detail in other
 - Heart Failure and Edema [see Warnings and Precautions (5.7)]
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.8)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.9)]
-- Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.10)]
+- Chondrolysis [see Warnings and Precautions (5.10)]
 - Methemoglobinemia [see Warnings and Precautions (5.11)]
 - Exacerbation of Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.12)]
 - Serious Skin Reactions [see Warnings and Precautions (5.13)]
-- Drug Reaction with Eosinophilia and Systemic Toxicity (DRESS) [see Warnings and Precautions 5.14)]
+- Drug Reaction with Eosinophilia and Systemic Toxicity (DRESS) [see Warnings and Precautions (5.14)]
 - Fetal Toxicity [see Warnings and Precautions (5.15)]
 - Hematologic Toxicity [see Warnings and Precautions (5.16)]
 

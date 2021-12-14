@@ -21,7 +21,7 @@ Examples of Drugs Associated with Methemoglobinemia
 | Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
 | Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
 | Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
 | Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## 7.2 Meloxicam Drug Interactions
@@ -39,11 +39,11 @@ Clinically Significant Drug Interactions with Meloxicam
 | Clinical Impact: | In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. |
 | Intervention: | If aspirin is indicated in the postoperative period, monitor patients for signs and symptoms of GI bleeding [see Clinical Pharmacology (12.3)]. |
 | ACE Inhibitors, Angiotensin Receptor Blockers, or Beta-Blockers |  |
-| Clinical Impact | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, coadministration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
 | Intervention: | During concomitant use of ZYNRELEF and ACE inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. During concomitant use of ZYNRELEF and ACE inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)]. When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
 | Diuretics |  |
 | Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs have reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. However, studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect. Furosemide single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam. |
-| Intervention: | During concomitant use of ZYNRELEF with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects |
+| Intervention: | During concomitant use of ZYNRELEF with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects. |
 | Digoxin |  |
 | Clinical Impact: | The concomitant use of NSAIDS with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
 | Intervention: | During concomitant use of ZYNRELEF and digoxin, monitor serum digoxin levels. |
@@ -54,11 +54,11 @@ Clinically Significant Drug Interactions with Meloxicam
 | Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
 | Intervention: | During concomitant use of ZYNRELEF and methotrexate, monitor patients for methotrexate toxicity. |
 | Cyclosporine |  |
-| Clinical Impact: | Concomitant use of ZYNRELEF and cyclosporine may increase cyclosporine's nephrotoxicity. |
+| Clinical Impact: | Concomitant use of NSAIDs and cyclosporine may increase cyclosporine's nephrotoxicity. |
 | Intervention: | During concomitant use of ZYNRELEF and cyclosporine, monitor patients for signs of worsening renal function. |
 | NSAIDs and Salicylates |  |
 | Clinical Impact: | Concomitant use of meloxicam with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity [see Warnings and Precautions (5.2)]. |
 | Intervention: | If additional NSAID or salicylate medication is indicated in the post-operative period, monitor patients for signs and symptoms of GI toxicity [see Clinical Pharmacology (12.3)]. |
 | Pemetrexed |  |
-| Clinical Impact: | Concomitant use of MOBIC and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Clinical Impact: | Concomitant use of NSAIDs and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of ZYNRELEF and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. Patients taking meloxicam should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. In patients with creatinine clearance below 45 mL/min, the concomitant administration of meloxicam with pemetrexed is not recommended. |

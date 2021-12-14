@@ -17,6 +17,8 @@ A significant proportion of patients treated with ZYNRELEF did not receive opioi
 Figure 1.
 Mean Pain Intensity with Activity Over 72 Hours for STUDY 1 (Bunionectomy)
 
+Based on similarities in surgical site characteristics, such as anatomic location, tissue type, length and depth of surgical area, and vascularity, between bunionectomy and other foot and ankle surgical procedures, the pharmacokinetic profile and effectiveness of ZYNRELEF are not expected to be clinically significantly different when ZYNRELEF is administered at the same dose.
+
 ## 14.2 Study 2
 
 In this multicenter, double-blind, parallel-group, active- and placebo-controlled clinical trial (NCT03237481), 418 patients undergoing unilateral open inguinal herniorrhaphy with mesh under general anesthesia were randomized to 1 of the following 3 treatment groups in a 2:2:1 ratio (respectively): ZYNRELEF 300 mg/9 mg, bupivacaine HCl 75 mg, or saline placebo.
@@ -35,9 +37,11 @@ A significant reduction in total opioid consumption over 72 hours was also obser
 Figure 2.
 Mean Pain Intensity with Activity Over 72 Hours for STUDY 2 (Herniorrhaphy)
 
+Based on similarities in surgical site characteristics, such as anatomic location, tissue type, length and depth of surgical area, and vascularity, between open inguinal herniorrhaphy and other small-to-medium open abdominal surgical procedures, the pharmacokinetic profile and effectiveness of ZYNRELEF are not expected to be clinically significantly different when ZYNRELEF is administered at the same dose.
+
 ## 14.3 Study 3
 
-In this multicenter, double-blind, parallel-group, active- and placebo-controlled clinical study (NCT03015532), 222 patients undergoing primary unilateral total knee arthroplasty under general anesthesia were randomized to one of the following treatment groups in a 1:1:1:1 ratio: ZYNRELEF 400 mg/12 mg, ZYNRELEF 400 mg/12 mg plus ropivacaine 50 mg (injected into the posterior capsule), bupivacaine HCl 125 mg, or saline placebo.
+In this multicenter, double-blind, parallel-group, active- and placebo-controlled clinical study (NCT03015532), 222 patients undergoing primary unilateral total knee arthroplasty under general anesthesia were randomized to one of the following treatment groups in a 1:1:1:1 ratio; ZYNRELEF 400 mg/12 mg, ZYNRELEF 400 mg/12 mg plus ropivacaine 50 mg (injected into the posterior capsule), bupivacaine HCl 125 mg, or saline placebo.
 The mean age was 62 years (range 33 to 85) and 51% of patients were female.
 
 ZYNRELEF was administered, using the cone-shaped applicator, onto the posterior capsule, the anteromedial tissues and periosteum, and the anterolateral tissues and periosteum after cementation of the components.
@@ -51,3 +55,5 @@ There were two patients who did not receive opioid analgesia over 72 hours; one 
 
 Figure 3.
 Mean Pain Intensity at Rest Over 72 Hours for STUDY 3 (Total Knee Arthroplasty)
+
+Based on similarities in surgical site characteristics, such as anatomic location, tissue type, length and depth of surgical area, and vascularity, between total knee arthroplasty and other lower extremity total joint arthroplasty surgical procedures, the pharmacokinetic profile and effectiveness of ZYNRELEF are not expected to be clinically significantly different when ZYNRELEF is administered at the same dose.

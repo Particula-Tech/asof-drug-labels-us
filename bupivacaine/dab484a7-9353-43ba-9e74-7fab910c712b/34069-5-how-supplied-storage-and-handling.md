@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZYNRELEF (bupivacaine and meloxicam) extended-release solution is a clear, pale-yellow to yellow viscous liquid available in 4 presentations.
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution is a clear, pale-yellow to yellow viscous liquid available in 4 presentations.
 Each single-dose glass vial is filled with a solution of 29.25 mg/mL bupivacaine and 0.88 mg/mL meloxicam.
 Each presentation described below is supplied in the ZYNRELEF kit containing a vial (packaged in an individual carton) along with sterile, individually packaged components for administration.
 

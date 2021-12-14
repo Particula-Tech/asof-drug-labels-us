@@ -8,6 +8,7 @@
   Avoid additional use of local anesthetics within 96 hours following administration of ZYNRELEF.
 - Avoid intravascular administration of ZYNRELEF.
   Convulsions and cardiac arrest have occurred following accidental intravascular injection of bupivacaine and other amide-containing products.
+- Limit exposure to articular cartilage due to the potential risk of chondrolysis [see Warnings and Precautions (5.10)].
 - The safety of concomitant administration of ZYNRELEF and other NSAID medications has not been evaluated.
   If additional NSAID medication is indicated in the post-operative period, monitor patients for signs and symptoms of NSAID toxicity [see Clinical Pharmacology (12.3)].
 - ZYNRELEF is a viscous solution supplied as a kit consisting of a single-dose glass vial, and the following sterile components: Luer Lock syringe(s), a vented vial spike, Luer Lock cone-shaped applicator(s), and syringe tip cap(s).
@@ -21,7 +22,7 @@
 - When ZYNRELEF comes in contact with moisture in the tissues, it becomes more viscous, allowing it to stay in place.
 - ZYNRELEF does not degrade sutures.
   When using monofilament sutures, 3 or more knots are recommended, as contact with ZYNRELEF may cause a single knot to loosen or untie.
-- ZYNRELEF is not indicated for the following routes of administration.
+- ZYNRELEF should not be administered via the following routes.
   - –Epidural
   - –Intrathecal
   - –Intravascular or intra-articular
@@ -47,19 +48,19 @@
 Before administration, remove the syringe tip cap and attach the Luer lock cone-shaped applicator to the syringe.
 
 1. Using the Luer lock cone-shaped applicator attached to the syringe, apply ZYNRELEF to the tissues within the surgical site as follows:
-   1. For bunionectomy, apply ZYNRELEF to the proximal and distal ends (i.e., beyond the boney repair) of the wound.
-   2. For open inguinal herniorrhaphy, apply ZYNRELEF above and below the fascial repair.
-   3. For total knee arthroplasty, apply ZYNRELEF directly to the posterior capsule, the anteromedial tissues and periosteum, and the anterolateral tissues and periosteum after cementation of the components.
+   1. a.For foot and ankle surgical procedures, apply ZYNRELEF to the proximal and distal ends (i.e., beyond the boney repair) of the wound.
+   2. b.For small-to-medium open abdominal surgical procedures, close the peritoneum (if applicable), then apply ZYNRELEF above and below the fascial repair.
+   3. c.For lower extremity total joint arthroplasty surgical procedures, apply ZYNRELEF directly to the joint capsule, the anteromedial tissues and periosteum, and the anterolateral tissues and periosteum after placement of the components.
 2. Only apply ZYNRELEF to the tissue layers below the skin incision and not directly onto the subdermal layer or the skin.
 3. Use only the amount necessary to coat the tissues, such that ZYNRELEF does not leak from the surgical wound after closure.
 
 ## 2.4 Dosing Instructions
 
-The recommended dose of ZYNRELEF is as follows:
+As a general guidance in selecting the proper dosing of ZYNRELEF, the following examples of dosing are provided:
 
-- For bunionectomy: up to 2.3 mL to deliver 60 mg of bupivacaine and 1.8 mg of meloxicam.
-- For open inguinal herniorrhaphy: up to 10.5 mL to deliver 300 mg of bupivacaine and 9 mg of meloxicam.
-- For total knee arthroplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam.
+- For foot and ankle surgical procedures, such as bunionectomy: up to 2.3 mL to deliver 60 mg of bupivacaine and 1.8 mg of meloxicam [see Clinical Studies (14.1)].
+- For small-to-medium open abdominal surgical procedures, such as open inguinal herniorrhaphy: up to 10.5 mL to deliver 300 mg of bupivacaine and 9 mg of meloxicam [see Clinical Studies (14.2)].
+- For lower extremity total joint arthroplasty surgical procedures, such as total knee arthroplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14.3)].
 
 ## 2.5 Compatibility Considerations
 

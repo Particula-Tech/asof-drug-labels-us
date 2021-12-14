@@ -144,10 +144,12 @@ Meloxicam, contained in ZYNRELEF, has been associated with anaphylactic reaction
 
 Seek emergency help if an anaphylactic reaction occurs.
 
-## 5.10 Chondrolysis with Intra-Articular Infusion
+## 5.10 Chondrolysis
+
+Limit exposure to articular cartilage due to the potential risk of chondrolysis.
 
 Intra-articular infusions of local anesthetics, following arthroscopic and other surgical procedures is an unapproved use, and there have been post marketing reports of chondrolysis in patients receiving such infusions.
-The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humerol chondrolysis have been described in pediatric patients and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of glenohumeral chondrolysis have been described in pediatric patients and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are associated with chondrolysis.
 The time of onset of symptoms, such as joint pain, stiffness, and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who have experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.

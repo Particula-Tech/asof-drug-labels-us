@@ -65,7 +65,7 @@ Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single
 | C72h (ng/mL) | 5.0 (5.3) | 96 (75) | 227 (283) |  |
 | C96h (ng/mL) | 1.7 (2.9) N=16; | 37 (43) | NS |  |
 | C144h (ng/mL) | NS | NS | 5.3 (21) N=32; |  |
-| Meloxicam | Cmax (ng/mL) | 26 (14) | 225 (96) | 275 (134) |
+| Meloxicam | Cmax (ng/mL) | 26 (14) e | 225 (96) | 275 (134) |
 | Tmax (h) | 18 (8, 60) | 54 (24, 96) | 36 (12, 72) |  |
 | AUC(0-t) (h×ng/mL) | 1621 (927) | 18721 (7923) | 19525 (12259) |  |
 | AUC(inf) (h×ng/mL) | 2079 (1631) | NR | 25673 (17666) N=35; |  |
@@ -73,7 +73,8 @@ Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single
 | C72h (ng/mL) | 13 (9) | 197 (95) | 202 (120) |  |
 | C96h (ng/mL) | 7.7 (5.8) N=15; | 146 (86) | NS |  |
 | C144h (ng/mL) | NS | NS | 28 (37) N=28 |  |
-| Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). NS = not sampled; NR= not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |  |
+| Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). |  |  |  |  |
+| NS = not sampled; NR= not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |  |
 
 Distribution
 
@@ -116,7 +117,7 @@ The elimination of drug from tissue distribution depends largely upon the abilit
 Meloxicam
 
 Meloxicam is extensively metabolized in the liver.
-Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P450 mediated metabolism formed by oxidation of an intermediate metabolite 5'-hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
+Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P450 mediated metabolism formed by oxidation of an intermediate metabolite 5'‑hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
 In vitro studies indicate that CYP2C9 (cytochrome P450 metabolizing enzyme) plays an important role in this metabolic pathway with a minor contribution of the CYP3A4 isozyme.
 Patients' peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
 The four metabolites are not known to have any in vivo pharmacological activity.
