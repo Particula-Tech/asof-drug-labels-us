@@ -9,7 +9,7 @@ In animal reproductive studies, epinephrine administered by the subcutaneous rou
 Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans.
 Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients.
 
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and of miscarriage is 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and of miscarriage is 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -42,7 +42,7 @@ Epinephrine is the first-line medication of choice for treatment of anaphylaxis;
 
 ## 8.4 Pediatric Use
 
-SYMJEPI may be given safely to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2)].
+SYMJEPI may be given safely to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2.1)].
 Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
 Since the dose of epinephrine delivered from SYMJEPI is fixed, consider using other forms of injectable epinephrine if a dose lower than 0.15mg is deemed necessary.
 

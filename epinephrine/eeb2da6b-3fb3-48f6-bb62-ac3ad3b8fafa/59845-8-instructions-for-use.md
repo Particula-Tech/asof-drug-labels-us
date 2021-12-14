@@ -61,7 +61,7 @@ For more information see Patient Information sheet or ask your healthcare provid
 
 How to Store - Keep SYMJEPI in its plastic case nearby and ready for use at all times.
 
-- Store at room temperature, between 68°F to 77°F (20°C to 25°C).
+- Store at room temperature between 68°F to 77°F (20°C to 25°C).
   Do not expose to extreme cold or heat.
   For example, do not store in your vehicle's glove box and do not store in the refrigerator or freezer.
 - Store the SYMJEPI syringe in its closed plastic case to protect from light.
@@ -77,11 +77,12 @@ For more information about SYMJEPI pre-filled syringe and proper use of the prod
 
 SYMJEPI is a registered trademark of Adamis Pharmaceuticals Corporation.
 
-Manufactured for Adamis Pharmaceuticals Corp. San Diego, CA 92130 Distributed by USWM, LLC, Louisville, KY 40241.
+Manufactured for Adamis Pharmaceuticals Corporation.
+San Diego, CA 92130 Distributed by USWM, LLC, Louisville, KY 40241.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2020
+Revised: July 2021
 
 SYMJEPI
 

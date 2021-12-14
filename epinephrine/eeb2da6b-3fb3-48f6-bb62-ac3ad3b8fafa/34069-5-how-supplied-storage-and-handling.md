@@ -1,20 +1,20 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-SYMJEPI (epinephrine injection, USP) 0.3 mg single-dose, pre-filled syringes are available as:
+SYMJEPI (epinephrine injection, USP) 0.3 mg single-dose, pre-filled syringes:
 
 - One-pack carton (NDC 78670-130-11) that contains one 0.3 mg pre-filled syringe (NDC 78670-130-11).
 
-- Two-pack⍪ carton (NDC 78670-130-02)⍪ that contains two 0.3 mg pre-filled syringes (NDC 78670-130-11)
+- Two-pack carton (NDC 78670-130-02) that contains two 0.3 mg pre-filled syringes (NDC 78670-130-11)
 
-SYMJEPI (epinephrine injection, USP) 0.15 mg single-dose, pre-filled syringes are available as:
+SYMJEPI (epinephrine injection, USP) 0.15 mg single-dose, pre-filled syringes:
 
 - One-pack carton (NDC 78670-131-11) that contains one 0.15 mg pre-filled syringe (NDC 78670-131-11).
 
 - Two-pack carton (NDC 78670-131-02) that contains two 0.15 mg pre-filled syringes (NDC 78670-131-11).
 
-## 16.2 Storage and Handling
+Storage and Handling
 
 Protect from light.
 Epinephrine is light sensitive and should be stored in the case provided to protect it from light.
