@@ -110,12 +110,12 @@ Premarin Intravenous for injection contains a mixture of conjugated estrogens, w
 Premarin Intravenous for injection also contains lactose, sodium citrate, simethicone, and sodium hydroxide or hydrochloric acid in dry form.
 The reconstituted solution is suitable for intravenous or intramuscular injection.
 
-Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
+Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg/vial of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
 
 |  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
-LAB-0505-4.0 Rev 09/2018
+LAB-0505-5.0 Rev 12/2021
 
 # PATIENT INFORMATION
 
@@ -231,9 +231,9 @@ Premarin Intravenous for injection contains a mixture of conjugated estrogens, w
 Premarin Intravenous for injection also contains lactose, sodium citrate, simethicone, and sodium hydroxide or hydrochloric acid in dry form.
 The reconstituted solution is suitable for intravenous or intramuscular injection.
 
-Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
+Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg/vial of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
 
 |  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
-LAB-0518-3.0 Rev 09/2018
+LAB-0518-4.0 Rev 12/2021

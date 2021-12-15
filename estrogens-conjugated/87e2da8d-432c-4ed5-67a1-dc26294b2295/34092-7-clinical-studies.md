@@ -55,7 +55,7 @@ The WHI estrogen plus progestin substudy was stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index."
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 
-For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
+For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 2.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
