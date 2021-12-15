@@ -174,7 +174,7 @@ The proportions of patients who discontinued study drug were 19.2% for the SAXEN
 
 The primary endpoint was change in BMI SDS.
 At baseline, mean BMI SDS was 3.14 in the SAXENDA group and 3.20 in the placebo group.
-At week 56, treatment with SAXENDA resulted in statistically significant reduction in in BMI SDS from baseline compared to placebo.
+At week 56, treatment with SAXENDA resulted in statistically significant reduction in BMI SDS from baseline compared to placebo.
 The observed mean change in BMI SDS from baseline to week 56 was -0.23 in the SAXENDA group and -0.00 in the placebo group.
 The estimated treatment difference in BMI SDS reduction from baseline between SAXENDA and placebo was -0.22 with a 95% confidence interval of -0.37, -0.08; p=0.0022.
 

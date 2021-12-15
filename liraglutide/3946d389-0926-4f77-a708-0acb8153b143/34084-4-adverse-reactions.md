@@ -63,7 +63,7 @@ Adverse reactions reported in greater than or equal to 3% of SAXENDA-treated ped
 
 2 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes
 
-not on concomitant insulin (Study 2, Saxenda N=423, Placebo N=212).
+not on concomitant insulin (Study 2, SAXENDA N=423, Placebo N=212).
 See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
 T2DM = type 2 diabetes mellitus
 
@@ -239,4 +239,4 @@ Immune System Disorders
 
 Hepatobiliary Disorders
 
-- Hyperbilirubinemia, cholestasis and hepatitis
+- Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
