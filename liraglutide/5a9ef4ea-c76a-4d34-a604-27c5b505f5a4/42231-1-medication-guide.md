@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 | VICTOZA® (VIC-tow-za) (liraglutide) injection, for subcutaneous use |
 | --- |

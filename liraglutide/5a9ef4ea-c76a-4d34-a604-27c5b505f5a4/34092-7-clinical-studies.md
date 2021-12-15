@@ -30,16 +30,19 @@ Table 3 Results of a 52-week monotherapy triala
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.2 | 8.2 | 8.2 |
 | Change from baseline (adjusted mean) b | -1.1 | -0.8 | -0.5 |
-| Difference from glimepiride arm (adjusted mean) b 95% Confidence Interval | -0.6**(-0.8, -0.4) | -0.3*(-0.5, -0.1) |  |
+| Difference from glimepiride arm (adjusted mean) b | -0.6** | -0.3* |  |
+| 95% Confidence Interval | (-0.8, -0.4) | (-0.5, -0.1) |  |
 | Percentage of patients achieving HbA1c <7% | 51 | 43 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 172 | 168 | 172 |
 | Change from baseline (adjusted mean) b | -26 | -15 | -5 |
-| Difference from glimepiride arm (adjusted mean) b 95% Confidence Interval | -20**(-29, -12) | -10*(-19, -1) |  |
+| Difference from glimepiride arm (adjusted mean) b | -20** | -10* |  |
+| 95% Confidence Interval | (-29, -12) | (-19, -1) |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 92.6 | 92.1 | 93.3 |
 | Change from baseline (adjusted mean) b | -2.5 | -2.1 | +1.1 |
-| Difference from glimepiride arm (adjusted mean) b 95% Confidence Interval | -3.6**(-4.3, -2.9) | -3.2**(-3.9, -2.5) |  |
+| Difference from glimepiride arm (adjusted mean) b | -3.6** | -3.2** |  |
+| 95% Confidence Interval | (-4.3, -2.9) | (-3.9, -2.5) |  |
 
 aIntent-to-treat population using last observation on study
 
@@ -67,25 +70,30 @@ The mean BMI was 31.0 kg/m2.
 
 Table 4 Results of a 26-week trial of VICTOZA as add-on to metformina
 
-|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mg†+ Metformin |
+|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mg† + Metformin |
 | --- | --- | --- | --- | --- |
 | Intent-to-Treat Population (N) | 242 | 240 | 121 | 242 |
 | HbA1c (%) (Mean) |  |  |  |  |
 | Baseline | 8.4 | 8.3 | 8.4 | 8.4 |
 | Change from baseline (adjusted mean) b | -1.0 | -1.0 | +0.1 | -1.0 |
-| Difference from placebo + metformin arm (adjusted mean) b 95% Confidence Interval | -1.1**(-1.3, -0.9) | -1.1**(-1.3, -0.9) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b 95% Confidence Interval | 0.0(-0.2, 0.2) | 0.0(-0.2, 0.2) |  |  |
+| Difference from placebo + metformin arm (adjusted mean) b | -1.1** | -1.1** |  |  |
+| 95% Confidence Interval | (-1.3, -0.9) | (-1.3, -0.9) |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean) b | 0.0 | 0.0 |  |  |
+| 95% Confidence Interval | (-0.2, 0.2) | (-0.2, 0.2) |  |  |
 | Percentage of patients achieving HbA1c <7% | 42 | 35 | 11 | 36 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 181 | 179 | 182 | 180 |
 | Change from baseline (adjusted mean) b | -30 | -30 | +7 | -24 |
-| Difference from placebo + metformin arm (adjusted mean) b 95% Confidence Interval | -38**(-48, -27) | -37**(-47, -26) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b 95% Confidence Interval | -7(-16, 2) | -6(-15, 3) |  |  |
+| Difference from placebo + metformin arm (adjusted mean) b | -38** | -37** |  |  |
+| 95% Confidence Interval | (-48, -27) | (-47, -26) |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean) b | -7 | -6 |  |  |
+| 95% Confidence Interval | (-16, 2) | (-15, 3) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |  |
 | Baseline | 88.0 | 88.5 | 91.0 | 89.0 |
 | Change from baseline (adjusted mean) b | -2.8 | -2.6 | -1.5 | +1.0 |
 | Difference from placebo + metformin arm (adjusted mean) b 95% Confidence Interval | -1.3*(-2.2, -0.4) | -1.1*(-2.0, -0.2) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b 95% Confidence Interval | -3.8**(-4.5, -3.0) | -3.5**(-4.3, -2.8) |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean) b | -3.8** | -3.5** |  |  |
+| 95% Confidence Interval | (-4.5, -3.0) | (-4.3, -2.8) |  |  |
 | aIntent-to-treat population using last observation on study bLeast squares mean adjusted for baseline value† For glimepiride, one-half of the maximal approved United States dose.*p-value <0.05 **p-value <0.0001 |  |  |  |  |
 
 VICTOZA Compared to Sitagliptin, Both as Add-on to Metformin
@@ -104,7 +112,7 @@ From a mean baseline body weight of 94 kg, there was a mean reduction of 2.7 kg 
 
 Table 5 Results of a 26-week open-label trial of VICTOZA Compared to Sitagliptin (both in combination with metformin)a
 
-|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Sitagliptin 100 mg+Metformin |
+|  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Sitagliptin 100 mg +Metformin |
 | --- | --- | --- | --- |
 | Intent-to-Treat Population (N) | 218 | 221 | 219 |
 | HbA1c (%) (Mean) |  |  |  |
@@ -150,12 +158,14 @@ Table 6 Results of a 26-week open label trial of Insulin detemir as add on to VI
 | HbA1c (%) (Mean) |  |  |
 | Baseline (week 0) | 7.6 | 7.6 |
 | Change from baseline (adjusted mean) | -0.5 | 0 |
-| Difference from VICTOZA + metformin arm (LS mean) b 95% Confidence Interval | -0.5**(-0.7, -0.4) |  |
+| Difference from VICTOZA + metformin arm (LS mean) b | -0.5** |  |
+| 95% Confidence Interval | (-0.7, -0.4) |  |
 | Percentage of patients achieving HbA1c <7% | 43 | 17 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |
 | Baseline (week 0) | 166 | 159 |
 | Change from baseline (adjusted mean) | -39 | -7 |
-| Difference from VICTOZA + metformin arm (LS mean) b 95% Confidence Interval | -31** (-39, -23) |  |
+| Difference from VICTOZA + metformin arm (LS mean) b | -31** |  |
+| 95% Confidence Interval | (-39, -23) |  |
 
 aIntent-to-treat population using last observation on study
 
@@ -185,16 +195,19 @@ Table 7 Results of a 26-week trial of VICTOZA as add-on to sulfonylureaa
 | HbA1c (%) (Mean) |  |  |  |  |
 | Baseline | 8.5 | 8.5 | 8.4 | 8.4 |
 | Change from baseline (adjusted mean) b | -1.1 | -1.1 | +0.2 | -0.4 |
-| Difference from placebo + glimepiride arm (adjusted mean) b 95% Confidence Interval | -1.4**(-1.6, -1.1) | -1.3**(-1.5, -1.1) |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean) b | -1.4** | -1.3** |  |  |
+| 95% Confidence Interval | (-1.6, -1.1) | (-1.5, -1.1) |  |  |
 | Percentage of patients achieving HbA1c <7% | 42 | 35 | 7 | 22 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 174 | 177 | 171 | 179 |
 | Change from baseline (adjusted mean) b | -29 | -28 | +18 | -16 |
-| Difference from placebo + glimepiride arm (adjusted mean) b 95% Confidence Interval | -47**(-58, -35) | -46**(-58, -35) |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean) b | -47** | -46** |  |  |
+| 95% Confidence Interval | (-58, -35) | (-58, -35) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |  |
 | Baseline | 83.0 | 80.0 | 81.9 | 80.6 |
 | Change from baseline (adjusted mean) b | -0.2 | +0.3 | -0.1 | +2.1 |
-| Difference from placebo + glimepiride arm (adjusted mean) b 95% Confidence Interval | -0.1(-0.9, 0.6) | 0.4(-0.4, 1.2) |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean) b | -0.1 | 0.4 |  |  |
+| 95% Confidence Interval | (-0.9, 0.6) | (-0.4, 1.2) |  |  |
 
 aIntent-to-treat population using last observation on study
 
@@ -231,16 +244,19 @@ Table 8 Results of a 26-week trial of VICTOZA as add-on to metformin and sulfony
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.3 | 8.3 | 8.1 |
 | Change from baseline (adjusted mean) b | -1.3 | -0.2 | -1.1 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b 95% Confidence Interval | -1.1**(-1.3, -0.9) |  |  |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -1.1** |  |  |
+| 95% Confidence Interval | (-1.3, -0.9) |  |  |
 | Percentage of patients achieving HbA1c <7% | 53 | 15 | 46 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 165 | 170 | 164 |
 | Change from baseline (adjusted mean) b | -28 | +10 | -32 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b 95% Confidence Interval | -38**(-46, -30) |  |  |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -38** |  |  |
+| 95% Confidence Interval | (-46, -30) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 85.8 | 85.4 | 85.2 |
 | Change from baseline (adjusted mean) b | -1.8 | -0.4 | 1.6 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b 95% Confidence Interval | -1.4*(-2.1, -0.7) |  |  |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -1.4* |  |  |
+| 95% Confidence Interval | (-2.1, -0.7) |  |  |
 
 aIntent-to-treat population using last observation on study
 
@@ -308,16 +324,19 @@ Table 10 Results of a 26-week trial of VICTOZA as add-on to metformin and thiazo
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.6 | 8.5 | 8.4 |
 | Change from baseline (adjusted mean) b | -1.5 | -1.5 | -0.5 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b 95% Confidence Interval | -0.9**(-1.1, -0.8) | -0.9**(-1.1, -0.8) |  |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -0.9** | -0.9** |  |
+| 95% Confidence Interval | (-1.1, -0.8) | (-1.1, -0.8) |  |
 | Percentage of patients achieving HbA1c <7% | 54 | 57 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 185 | 181 | 179 |
 | Change from baseline (adjusted mean) b | -44 | -40 | -8 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b 95% Confidence Interval | -36**(-44, -27) | -32**(-41, -23) |  |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -36** | -32** |  |
+| 95% Confidence Interval | (-44, -27) | (-41, -23) |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 94.9 | 95.3 | 98.5 |
 | Change from baseline (adjusted mean) b | -2.0 | -1.0 | +0.6 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b 95% Confidence Interval | -2.6**(-3.4, -1.8) | -1.6**(-2.4, -1.0) |  |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -2.6** | -1.6** |  |
+| 95% Confidence Interval | (-3.4, -1.8) | (-2.4, -1.0) |  |
 
 aIntent-to-treat population using last observation on study
 

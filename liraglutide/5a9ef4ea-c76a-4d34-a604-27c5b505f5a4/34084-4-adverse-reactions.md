@@ -168,4 +168,4 @@ Because these events are reported voluntarily from a population of uncertain siz
 - •Angioedema and anaphylactic reactions.
 - •Allergic reactions: rash and pruritus
 - •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death
-- •Hepatobiliary disorders: elevations of liver enzymes, hepatitis
+- •Hepatobiliary disorders: hyperbilirubinemia, elevations of liver enzymes, cholestasis, hepatitis
