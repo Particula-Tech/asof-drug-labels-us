@@ -17,6 +17,9 @@ Each vial contains vasopressin 100 mL at 40 units/100 mL (0.4 units/mL).
 NDC 42023-220-10: A carton of 10 single dose vials.
 Each vial contains vasopressin 100 mL at 60 units/100 mL (0.6 units/mL).
 
+NDC 42023-237-10: A carton of 10 single dose vials.
+Each vial contains vasopressin 100 mL at 20 units/100 mL (0.2 units/mL).
+
 Store between 2°C and 8°C (36°F and 46°F).
 Do not freeze.
 

@@ -69,3 +69,15 @@ Vasostrict® (Vasopressin Injection, USP)
 For Intravenous Infusion
 
 Ready to Use 100 mL x 10 Single Dose Vials
+
+# PRINCIPAL DISPLAY PANEL - 20 units/100 mL x 10 Vial Carton
+
+NDC 42023-237-10 Rx Only
+
+Vasostrict® (Vasopressin Injection, USP)
+
+20 Units per 100 mL (0.2 units per mL)
+
+For Intravenous Infusion
+
+Ready to Use 100 mL x 10 Single Dose Vials
