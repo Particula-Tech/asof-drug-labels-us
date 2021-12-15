@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017854"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-295-01",
+    "62559-296-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoclopramide",
+      "name": "Metoclopramide"
+    }
+  ],
+  "setid": "797aad80-0597-42f8-99d5-39de180c3b5a",
+  "source": "dailymed"
+}
