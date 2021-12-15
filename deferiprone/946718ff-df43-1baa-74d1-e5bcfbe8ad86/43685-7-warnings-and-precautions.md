@@ -4,7 +4,9 @@
 
 Fatal agranulocytosis can occur with FERRIPROX use.
 FERRIPROX can also cause neutropenia, which may foreshadow agranulocytosis.
-Measure the absolute neutrophil count (ANC) before starting FERRIPROX therapy and monitor it weekly while on therapy.
+Measure the absolute neutrophil count (ANC) before starting FERRIPROX therapy and monitor it regularly while on therapy [see Dosage and Administration (2.1)].
+
+Reduction in the frequency of ANC monitoring should be considered on an individual patient basis, according to the health care provider's assessment of the patient's understanding of the risk minimization measures required during therapy.
 
 Interrupt FERRIPROX therapy if neutropenia develops (ANC < 1.5 x 109/L).
 
@@ -37,12 +39,12 @@ In pooled clinical trials, 7.5% of 642 patients with thalassemia syndromes treat
 Four (0.62%) FERRIPROX-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
 In pooled clinical trials, 7.7% of 196 patients with sickle cell disease or other anemias treated with FERRIPROX developed increased ALT values.
 
-Monitor serum ALT values monthly during therapy with FERRIPROX and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
+Monitor serum ALT values monthly during therapy with FERRIPROX and consider interruption of therapy if there is a persistent increase in the serum transaminase levels [see Dosage and Administration (2.1)].
 
 ## 5.3 Zinc Deficiency
 
 Decreased plasma zinc concentrations have been observed on FERRIPROX therapy.
-Monitor plasma zinc, and supplement in the event of a deficiency.
+Monitor plasma zinc annually, and supplement in the event of a deficiency [see Dosage and Administration (2.1)].
 
 ## 5.4 Embryo-Fetal Toxicity
 

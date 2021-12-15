@@ -6,6 +6,7 @@
   "inn": "deferiprone",
   "labeler": "Chiesi USA, Inc.",
   "package_ndcs": [
+    "10122-100-10",
     "10122-103-05",
     "10122-104-01",
     "10122-104-05"
@@ -13,6 +14,11 @@
   "products": [
     {
       "form": "TABLET",
+      "generic": "deferiprone",
+      "name": "FERRIPROX"
+    },
+    {
+      "form": "TABLET, FILM COATED",
       "generic": "deferiprone",
       "name": "FERRIPROX"
     }

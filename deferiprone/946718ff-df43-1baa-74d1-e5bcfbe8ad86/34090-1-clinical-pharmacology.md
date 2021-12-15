@@ -15,34 +15,7 @@ At the maximum approved recommended dose, deferiprone does not prolong the QT in
 
 ## 12.3 Pharmacokinetics
 
-FERRIPROX Tablets (three times a day)
-
-The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
-The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
-
-Absorption
-
-Deferiprone appeared in the blood within 5 to 10 minutes after oral administration.
-Peak serum concentration of deferiprone was reached approximately 1 to 2 hours after a single dose.
-
-Effect of Food
-
-No clinically significant differences in the pharmacokinetics of deferiprone were observed following administration with food.
-
-Elimination
-
-The elimination half-life of deferiprone is approximately 2 hours.
-
-Metabolism
-
-Deferiprone is metabolized primarily by UGT1A6.
-The major metabolite of deferiprone is the 3-O-glucuronide, which lacks iron binding capability.
-
-Excretion
-
-Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
-
-FERRIPROX Tablets (twice a day)
+FERRIPROX Tablets (twice a day), 1,000 mg
 
 In healthy subjects, the mean ± SD Cmax of deferiprone in serum was 6 ± 2 mcg/mL, and the mean ± SD AUC was 28 ± 7 mcg∙h/mL following oral administration of a 1,000 mg dose of FERRIPROX Tablets (twice a day) with food.
 
@@ -70,6 +43,33 @@ Metabolism
 
 Deferiprone is metabolized primarily by UGT1A6.
 The major metabolite of deferiprone is the 3-O-glucuronide, which lacks iron- binding capability.
+
+Excretion
+
+Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
+
+FERRIPROX Tablets (three times a day), 1,000 mg and 500 mg
+
+The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
+The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
+
+Absorption
+
+Deferiprone appeared in the blood within 5 to 10 minutes after oral administration.
+Peak serum concentration of deferiprone was reached approximately 1 to 2 hours after a single dose.
+
+Effect of Food
+
+No clinically significant differences in the pharmacokinetics of deferiprone were observed following administration with food.
+
+Elimination
+
+The elimination half-life of deferiprone is approximately 2 hours.
+
+Metabolism
+
+Deferiprone is metabolized primarily by UGT1A6.
+The major metabolite of deferiprone is the 3-O-glucuronide, which lacks iron binding capability.
 
 Excretion
 
