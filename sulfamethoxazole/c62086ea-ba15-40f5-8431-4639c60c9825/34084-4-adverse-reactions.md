@@ -47,6 +47,10 @@ Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and tr
 
 Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
 
+## Cardiovascular
+
+Circulatory shock (see WARNINGS), QT prolongation resulting in ventricular tachycardia and torsades de pointes.
+
 ## Miscellaneous
 
 Weakness, fatigue, insomnia.
