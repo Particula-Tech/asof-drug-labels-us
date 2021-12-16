@@ -2,12 +2,16 @@
 
 ## 1.1 Non–Hodgkin's Lymphoma (NHL)
 
-RITUXAN (rituximab) is indicated for the treatment of adult patients with:
+RITUXAN is indicated for the treatment of adult patients with:
 
 - Relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL as a single agent.
 - Previously untreated follicular, CD20-positive, B-cell NHL in combination with first line chemotherapy and, in patients achieving a complete or partial response to a rituximab product in combination with chemotherapy, as single-agent maintenance therapy.
 - Non-progressing (including stable disease), low-grade, CD20-positive, B-cell NHL as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.
 - Previously untreated diffuse large B-cell, CD20-positive NHL in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
+
+RITUXAN is indicated for the treatment of pediatric patients aged 6 months and older with:
+
+- Previously untreated, advanced stage, CD20-positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL), Burkitt-like lymphoma (BLL) or mature B-cell acute leukemia (B-AL) in combination with chemotherapy.
 
 ## 1.2 Chronic Lymphocytic Leukemia (CLL)
 

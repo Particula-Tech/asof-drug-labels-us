@@ -34,8 +34,8 @@ Treatment with rituximab in patients with RA was associated with reduction of ce
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
 In GPA and MPA patients in GPA/MPA Study 1, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
-By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/µL.
-By Month 18, most patients (87%) had counts >10 cells/µL.
+By Month 12, the majority of patients (81%) showed signs of B-cell return with counts greater than 10 cells/µL.
+By Month 18, most patients (87%) had counts greater than 10 cells/µL.
 
 In GPA/MPA Study 2 where patients received non-U.S.-licensed rituximab as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion at Month 6, 12, and 18, 70% (30 out of 43) of the rituximab-treated patients with CD19+ peripheral B cells evaluated post-baseline had undetectable CD19+ peripheral B cells at Month 24.
 At Month 24, all 37 patients with evaluable baseline CD19+ peripheral B cells and Month 24 measurements had lower CD19+ B cells relative to baseline.
@@ -66,9 +66,9 @@ Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA 
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-The PK parameters in adult and pediatric patients 6 years to 17 years of age with GPA/MPA receiving 375 mg/m2 intravenous RITUXAN or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 6.
+The PK parameters in adult and pediatric patients 6 years to 17 years of age with GPA/MPA receiving 375 mg/m2 intravenous RITUXAN or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 8.
 
-Table 6 Population PK in pediatric patients (GPA/MPA Study 4) and adult patients (GPA/MPA Study 1) with GPA/MPA
+Table 8 Population PK in pediatric patients (GPA/MPA Study 4) and adult patients (GPA/MPA Study 1) with GPA/MPA
 
 | Pediatric GPA/MPA (GPA/MPA Study 4) | Adult GPA/MPA (GPA/MPA Study 1) |  |  |
 | --- | --- | --- | --- |
@@ -85,9 +85,9 @@ However, further dose adjustment based on gender or anti-rituximab antibody stat
 
 Pemphigus Vulgaris
 
-The PK parameters in adult PV patients receiving 1,000 mg IV infusion of RITUXAN at Days 1, 15, 168, and 182 are summarized in Table 7.
+The PK parameters in adult PV patients receiving 1,000 mg IV infusion of RITUXAN at Days 1, 15, 168, and 182 are summarized in Table 9.
 
-Table 7 Population PK in adult PV patients from PV Study 2
+Table 9 Population PK in adult PV patients from PV Study 2
 
 |  | 1st cycle of 1,000 mg Day 1 and Day 15 N=67 | 2nd cycle of 1,000 mg Day 168 and Day 182 N=67 |
 | --- | --- | --- |
@@ -108,13 +108,34 @@ The presence of anti-rituximab antibodies was associated with a higher clearance
 
 Specific Populations
 
+The clearance and volume of distribution of rituximab increased with increasing body surface area (BSA).
+
+No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab.
+
+Pediatric patients
+
 The pharmacokinetics of rituximab have been studied in pediatric patients 6 years of age and older with active GPA and MPA (GPA/MPA Study 4).
 The effect of body surface area on the pharmacokinetics of rituximab was assessed in a population pharmacokinetic analysis which included 6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age with GPA and MPA.
 BSA was a significant covariate on rituximab pharmacokinetics.
 The median AUC0-180d in patients 2 years to 5 years of age (BSA of 0.5 m2) was estimated to be 10100 (µg/mL*day) and is comparable to that in adults.
 For follow up treatment of pediatric patients with GPA/MPA, the 250 mg/m2 dose is estimated to provide pediatric GPA and MPA patients with exposure comparable to that observed in adults [see Use in Special Populations (8.4) and Clinical Studies (14.7)].
 
-No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab.
+In the clinical trial studying pediatric patients with DLBCL/BL/BLL/B-AL (NHL Study 11), the PK of rituximab was studied in a subset of 35 patients aged 3 years and older.
+The PK was comparable between the two age groups (greater than or equal to 3 to less than 12 years vs. greater than or equal to 12 to less than 18 years) (Table 10).
+After two RITUXAN IV infusions of 375 mg/m2 in each of the two induction cycles (cycle 1 and 2) followed by one RITUXAN IV infusion of 375 mg/m2 in each of the consolidation cycles (cycle 3 and 4), the maximum concentration was highest after the fourth infusion (cycle 2).
+With this dosing regimen, trough concentrations were sustained.
+The PK characteristics of RITUXAN IV in pediatric patients aged 3 years and older with DLBCL/BL/BLL/B-AL were similar to what has been observed in adult NHL patients.
+No PK data are available in the greater than or equal to 6 months to less than 3 years age group [see Use in Special Populations (8.4) and Clinical Studies (14.2)].
+
+Table 10: Observed PK Parameters following the RITUXAN IV Dosing Regimen in Pediatric DLBCL/BL/BLL/B-AL
+
+| Age group | Greater than or equal to 3 to less than 12 years | Greater than or equal to 12 to less than 18 years |
+| --- | --- | --- |
+| Cmax (µg/mL) | 374 (292, 446) | 297 (242, 394) |
+| Ctrough (µg/mL) | 61.4 (34.9, 126) | 39.5 (19.2, 93.2) |
+| AUC0-inf (µg*day/mL) | 5040 (3380, 10400) | 5040 (2740, 6970) |
+| T1/2 (days) | 25.7 (18.0, 31.0) | 26.3 (16.9, 31.9) |
+| Results are presented as median (min – max); Cmax is at Cycle 2 after 4th infusion; Ctrough is at pre-dose Cycle 4; AUC 0-inf and T1/2 are at Cycle 4. |  |  |
 
 Drug Interaction Studies
 

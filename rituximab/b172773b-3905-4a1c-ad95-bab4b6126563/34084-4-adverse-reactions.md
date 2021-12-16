@@ -14,20 +14,21 @@ The following clinically significant adverse reactions are discussed in greater 
 
 ## 6.1 Clinical Trials Experience
 
-Summary of Clinical Trials Experience in Lymphoid Malignancies
-
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The data described below reflect exposure to RITUXAN in 2783 patients, with exposures ranging from a single infusion up to 2 years.
+B-Cell Malignancies
+
+The data described below reflect exposure to RITUXAN in 3092 patients, with exposures ranging from a single infusion up to 2 years.
 RITUXAN was studied in both single-arm and controlled trials (n=356 and n=2427).
-The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
+The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, 676 patients with CLL, and 309 pediatric patients with mature B-cell NHL/B-AL.
 Most NHL patients received RITUXAN as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
+Pediatric patients received 6 total doses of RITUXAN or a non-U.S. licensed rituximab in combination with chemotherapy.
 CLL patients received RITUXAN 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
 Seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of RITUXAN-based therapy.
 
-The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with NHL were infusion-related reactions, fever, lymphopenia, chills, infection, and asthenia.
+The most common adverse reactions of RITUXAN (incidence greater than or equal to 25%) observed in clinical trials of patients with NHL were infusion-related reactions, fever, lymphopenia, chills, infection, and asthenia.
 
-The most common adverse reactions of RITUXAN (incidence ≥ 25%) observed in clinical trials of patients with CLL were: infusion-related reactions and neutropenia.
+The most common adverse reactions of RITUXAN (incidence greater than or equal to 25%) observed in clinical trials of patients with CLL were: infusion-related reactions and neutropenia.
 
 Infusion-Related Reactions
 
@@ -35,8 +36,10 @@ In the majority of patients with NHL, infusion-related reactions consisting of f
 Infusion-related reactions typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the RITUXAN infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline).
 The incidence of infusion-related reactions was highest during the first infusion (77%) and decreased with each subsequent infusion.
 [see Warnings and Precautions (5.1)].
-In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of RITUXAN at Cycle 2, the incidence of Grade 3-4 infusion reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
+In adult patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of RITUXAN at Cycle 2, the incidence of Grade 3-4 infusion reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
 For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]).
+In pediatric patients, the incidence of grade 3 infusion reactions was 3.4% with the first infusion and 1% for subsequent infusions.
+One patient experienced a grade 4 infusion reaction with the fifth infusion.
 [see Warnings and Precautions (5.1), Clinical Studies (14.4)].
 
 Infections
@@ -47,6 +50,7 @@ The overall incidence of infections was 31% (bacterial 19%, viral 10%, unknown 6
 
 In randomized, controlled studies where RITUXAN was administered following chemotherapy for the treatment of follicular or low-grade NHL, the rate of infection was higher among patients who received RITUXAN.
 In diffuse large B-cell lymphoma patients, viral infections occurred more frequently in those who received RITUXAN.
+In pediatric patients with mature B-cell NHL/B-AL, the rate of serious infections was higher, with an incidence of 32%, in those receiving RITUXAN or a non-U.S. licensed rituximab with chemotherapy.
 
 Cytopenias and hypogammaglobulinemia
 
@@ -70,10 +74,10 @@ In patients who did not have prolonged neutropenia, the frequency of late-onset 
 
 Relapsed or Refractory, Low-Grade NHL
 
-Adverse reactions presented in Table 1 occurred in 356 patients with relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL treated in single-arm studies of RITUXAN administered as a single agent [see Clinical Studies (14.1)].
+Adverse reactions presented in Table 2 occurred in 356 patients with relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL treated in single-arm studies of RITUXAN administered as a single agent [see Clinical Studies (14.1)].
 Most patients received RITUXAN 375 mg/m2 weekly for 4 doses.
 
-Table 1 Incidence of Adverse Reactions in ≥ 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent RITUXAN (N=356)Adverse reactions observed up to 12 months following RITUXAN.,Adverse reactions graded for severity by NCI-CTC criteria.
+Table 2 Incidence of Adverse Reactions in greater than or equal to 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent RITUXAN (N=356)Adverse reactions observed up to 12 months following RITUXAN.,Adverse reactions graded for severity by NCI-CTC criteria.
 
 |  | All Grades (%) | Grade 3 and 4 (%) |
 | --- | --- | --- |
@@ -130,26 +134,63 @@ In these single-arm RITUXAN studies, bronchiolitis obliterans occurred during an
 Previously Untreated, Low-Grade or Follicular, NHL
 
 In NHL Study 4, patients in the R-CVP arm experienced a higher incidence of infusional toxicity and neutropenia compared to patients in the CVP arm.
-The following adverse reactions occurred more frequently (≥ 5%) in patients receiving R-CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritus (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
+The following adverse reactions occurred more frequently (greater than or equal to 5%) in patients receiving R-CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritus (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
 [see Clinical Studies (14.2)].
 
-In NHL Study 5, detailed safety data collection was limited to serious adverse reactions, Grade ≥ 2 infections, and Grade ≥ 3 adverse reactions.
+In NHL Study 5, detailed safety data collection was limited to serious adverse reactions, Grade greater than or equal to 2 infections, and Grade greater than or equal to 3 adverse reactions.
 In patients receiving RITUXAN as single-agent maintenance therapy following RITUXAN plus chemotherapy, infections were reported more frequently compared to the observation arm (37% vs. 22%).
-Grade 3-4 adverse reactions occurring at a higher incidence (≥ 2%) in the RITUXAN group were infections (4% vs. 1%) and neutropenia (4% vs. <1%).
+Grade 3-4 adverse reactions occurring at a higher incidence (greater than or equal to 2%) in the RITUXAN group were infections (4% vs. 1%) and neutropenia (4% vs. less than 1%).
 
-In NHL Study 6, the following adverse reactions were reported more frequently (≥ 5%) in patients receiving RITUXAN following CVP compared to patients who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato-biliary toxicity (17% vs. 7%), rash and/or pruritus (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
-Neutropenia was the only Grade 3 or 4 adverse reaction that occurred more frequently (≥ 2%) in the RITUXAN arm compared with those who received no further therapy (4% vs. 1%).
+In NHL Study 6, the following adverse reactions were reported more frequently (greater than or equal to 5%) in patients receiving RITUXAN following CVP compared to patients who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato-biliary toxicity (17% vs. 7%), rash and/or pruritus (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
+Neutropenia was the only Grade 3 or 4 adverse reaction that occurred more frequently (greater than or equal to 2%) in the RITUXAN arm compared with those who received no further therapy (4% vs. 1%).
 [see Clinical Studies (14.3)].
 
 DLBCL
 
-In NHL Studies 7 (NCT00003150) and 8, [see Clinical Studies (14.3)], the following adverse reactions, regardless of severity, were reported more frequently (≥ 5%) in patients age ≥ 60 years receiving R-CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
+In NHL Studies 7 (NCT00003150) and 8, [see Clinical Studies (14.3)], the following adverse reactions, regardless of severity, were reported more frequently (greater than or equal to 5%) in patients age greater than or equal to 60 years receiving R-CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
 Detailed safety data collection in these studies was primarily limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 In NHL Study 8, a review of cardiac toxicity determined that supraventricular arrhythmias or tachycardia accounted for most of the difference in cardiac disorders (4.5% for R-CHOP vs. 1.0% for CHOP).
 
 The following Grade 3 or 4 adverse reactions occurred more frequently among patients in the R-CHOP arm compared with those in the CHOP arm: thrombocytopenia (9% vs. 7%) and lung disorder (6% vs. 3%).
 Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were viral infection (NHL Study 8), neutropenia (NHL Studies 8 and 9 (NCT00064116)), and anemia (NHL Study 9).
+
+Pediatric Patients with DLBCL/BL/BLL/B-AL
+
+The safety of RITUXAN administered in combination with LMB chemotherapy in pediatric patients was evaluated in NHL Study 11 [see Clinical Studies (14.2)], which included 309 patients treated with RITUXAN or non-U.S. licensed rituximab with chemotherapy and 164 patients treated with chemotherapy alone.
+Pediatric patients randomized to the LMB chemotherapy arm with RITUXAN or non-U.S.-licensed rituximab, or enrolled in the single arm part of the study, were administered RITUXAN or non-U.S. licensed rituximab intravenous at a dose of 375 mg/m2 BSA and received a total of six infusions of RITUXAN (two during each of the two induction courses and one during each of the two consolidation courses of the LMB scheme).
+
+In NHL Study 11, serious adverse reactions occurred in 55% of patients who received RITUXAN or non-US licensed rituximab with LMB chemotherapy.
+Serious adverse reactions in more than or equal to 5% included febrile neutropenia (15%), stomatitis (11%), sepsis (8%), and device-related infections (5%).
+Fatal adverse reactions occurred in 3% of patients, most often due to sepsis (2%), and included one case of second primary malignancy.
+Permanent discontinuation of RITUXAN or non- U.S. licensed rituximab occurred in 2% of patients.
+Adverse reactions which resulted in permanent discontinuation of RITUXAN or non-U.S. licensed rituximab included infection, anaphylaxis, hypotension, and leukoencephalopathy.
+Detailed safety data collection in this study was primarily limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+
+Table 3 shows Grade 3 and higher adverse reactions (greater than or equal to 10%) in the RITUXAN or non-U.S.-licensed rituximab with chemotherapy or chemotherapy alone arms in patients with untreated mature B-cell NHL/B-AL.
+
+The most common (greater than or equal to 15%) Grade 3 and higher adverse reactions were febrile neutropenia, stomatitis, enteritis, sepsis, alanine aminotransferase increased, and hypokalemia.
+
+Table 3 Grade 3 or Higher Adverse Reactions Occurring (greater than or equal to 10%) in Pediatric Patients treated with RITUXAN with Chemotherapy or Chemotherapy Alone
+
+| Adverse Reaction | RITUXAN + Chemotherapy N=162 (%) | Chemotherapy N=153 (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Febrile Neutropenia | 93 | 91 |
+| Gastrointestinal disorders |  |  |
+| Stomatitis | 80 | 75 |
+| Enteritis | 24 | 16 |
+| Investigations |  |  |
+| Alanine aminotransferase increased | 19 | 14 |
+| Aspartate aminotransferase increased | 11 | 7 |
+| Infections and infestations |  |  |
+| Sepsis | 18Includes fatal adverse reaction | 13 |
+| Device Related infection | 13 | 12 |
+| Lung Infection | 12 | 9 |
+| Enterocolitis infections | 9 | 12 |
+| Metabolism and nutrition disorders |  |  |
+| Hypokalemia | 16 | 13 |
+| Decreased appetite | 11 | 5 |
 
 CLL
 
@@ -164,22 +205,19 @@ In CLL Study 1, the following Grade 3 and 4 adverse reactions occurred more freq
 In CLL Study 2, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion-related reaction of any severity.
 
-Summary of Clinical Trials Experience in Rheumatoid Arthritis
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Rheumatoid Arthritis
 
 The data presented below reflect the experience in 2578 RA patients treated with RITUXAN in controlled and long-term studiesPooled studies: NCT00074438, NCT00422383, NCT00468546, NCT00299130, NCT00282308, NCT00266227, NCT02693210, NCT02093026 and NCT02097745. with a total exposure of 5014 patient-years.
 
 Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion-related reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
 
 In placebo-controlled studies, patients received 2 × 500 mg or 2 × 1,000 mg intravenous infusions of RITUXAN or placebo, in combination with methotrexate, during a 24-week period.
-From these studies, 938 patients treated with RITUXAN (2 × 1,000 mg) or placebo have been pooled (see Table 2).
-Adverse reactions reported in ≥ 5% of patients were hypertension, nausea, upper respiratory tract infection, arthralgia, pyrexia and pruritus (see Table 2).
+From these studies, 938 patients treated with RITUXAN (2 × 1,000 mg) or placebo have been pooled (see Table 4).
+Adverse reactions reported in greater than or equal to 5% of patients were hypertension, nausea, upper respiratory tract infection, arthralgia, pyrexia and pruritus (see Table 4).
 The rates and types of adverse reactions in patients who received RITUXAN 2 × 500 mg were similar to those observed in patients who received RITUXAN 2 × 1,000 mg.
 
-Table 2These data are based on 938 patients treated in Phase 2 and 3 studies of RITUXAN (2 × 1,000 mg) or placebo administered in combination with methotrexate.
-Incidence of All Adverse ReactionsCoded using MedDRA.
-Occurring in ≥ 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
+Table 4These data are based on 938 patients treated in Phase 2 and 3 studies of RITUXAN (2 × 1,000 mg) or placebo administered in combination with methotrexate.Incidence of All Adverse ReactionsCoded using MedDRA.
+Occurring in greater than or equal to 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
 
 | Adverse Reactions | Placebo + MTX N=398 n (%) | RITUXAN + MTX N=540 n (%) |
 | --- | --- | --- |
@@ -206,7 +244,7 @@ In the RITUXAN RA pooled placebo-controlled studies, 32% of RITUXAN-treated pati
 The incidence of adverse reactions during the 24-hour period following the second infusion, RITUXAN or placebo, decreased to 11% and 13%, respectively.
 Acute infusion-related reactions (manifested by fever, chills, rigors, pruritus, urticaria/rash, angioedema, sneezing, throat irritation, cough, and/or bronchospasm, with or without associated hypotension or hypertension) were experienced by 27% of RITUXAN-treated patients following their first infusion, compared to 19% of placebo-treated patients receiving their first placebo infusion.
 The incidence of these acute infusion-related reactions following the second infusion of RITUXAN or placebo decreased to 9% and 11%, respectively.
-Serious acute infusion-related reactions were experienced by < 1% of patients in either treatment group.
+Serious acute infusion-related reactions were experienced by less than 1% of patients in either treatment group.
 Acute infusion-related reactions required dose modification (stopping, slowing, or interruption of the infusion) in 10% and 2% of patients receiving rituximab or placebo, respectively, after the first course.
 The proportion of patients experiencing acute infusion-related reactions decreased with subsequent courses of RITUXAN.
 The administration of intravenous glucocorticoids prior to RITUXAN infusions reduced the incidence and severity of such reactions, however, there was no clear benefit from the administration of oral glucocorticoids for the prevention of acute infusion-related reactions.
@@ -220,7 +258,7 @@ The most common infections were nasopharyngitis, upper respiratory tract infecti
 The incidence of serious infections was 2% in the RITUXAN-treated patients and 1% in the placebo group.
 
 In the experience with RITUXAN in 2578 RA patients, the rate of serious infections was 4.31 per 100 patient years.
-The most common serious infections (≥ 0.5%) were pneumonia or lower respiratory tract infections, cellulitis and urinary tract infections.
+The most common serious infections (greater than or equal to 0.5%) were pneumonia or lower respiratory tract infections, cellulitis and urinary tract infections.
 Fatal serious infections included pneumonia, sepsis and colitis.
 Rates of serious infection remained stable in patients receiving subsequent courses.
 In 185 RITUXAN-treated RA patients with active disease, subsequent treatment with a biologic DMARD, the majority of which were TNF antagonists, did not appear to increase the rate of serious infection.
@@ -239,9 +277,9 @@ Since patients with RA are at increased risk for cardiovascular events compared 
 
 Hypophosphatemia and hyperuricemia
 
-In the pooled, placebo-controlled studies, newly-occurring hypophosphatemia (< 2.0 mg/dl) was observed in 12% (67/540) of patients on RITUXAN versus 10% (39/398) of patients on placebo.
+In the pooled, placebo-controlled studies, newly-occurring hypophosphatemia (less than 2.0 mg/dl) was observed in 12% (67/540) of patients on RITUXAN versus 10% (39/398) of patients on placebo.
 Hypophosphatemia was more common in patients who received corticosteroids.
-Newly-occurring hyperuricemia (>10 mg/dl) was observed in 1.5% (8/540) of patients on RITUXAN versus 0.3% (1/398) of patients on placebo.
+Newly-occurring hyperuricemia (greater than 10 mg/dl) was observed in 1.5% (8/540) of patients on RITUXAN versus 0.3% (1/398) of patients on placebo.
 
 In the experience with RITUXAN in RA patients, newly-occurring hypophosphatemia was observed in 21% (528/2570) of patients and newly-occurring hyperuricemia was observed in 2% (56/2570) of patients.
 The majority of the observed hypophosphatemia occurred at the time of the infusions and was transient.
@@ -254,9 +292,7 @@ The rates and types of adverse reactions reported for subsequent courses of RITU
 
 In RA Study 2, where all patients initially received RITUXAN, the safety profile of patients who were retreated with RITUXAN was similar to those who were retreated with placebo [see Clinical Studies (14.6), and Dosage and Administration (2.5)].
 
-Summary of Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Induction Treatment of Adult Patients with Active GPA/MPA (GPA/MPA Study 1)
 
@@ -266,11 +302,11 @@ Once remission was achieved or at the end of the 6 month remission induction per
 The RITUXAN group did not receive additional therapy to maintain remission.
 The primary analysis was at the end of the 6 month remission induction period and the safety results for this period are described below.
 
-Adverse reactions presented below in Table 3 were adverse events which occurred at a rate of greater than or equal to 10% in the RITUXAN group.
+Adverse reactions presented below in Table 5 were adverse events which occurred at a rate of greater than or equal to 10% in the RITUXAN group.
 This table reflects experience in 99 GPA and MPA patients treated with RITUXAN, with a total of 47.6 patient-years of observation and 98 GPA and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
 Infection was the most common category of adverse events reported (47-62%) and is discussed below.
 
-Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of RITUXAN-treated Patients with active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
+Table 5 Incidence of All Adverse Reactions Occurring in greater than or equal to 10% of RITUXAN-treated Patients with active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
 | Adverse Reaction | RITUXAN N=99 n (%) | Cyclophosphamide N=98 n (%) |
 | --- | --- | --- |
@@ -321,7 +357,7 @@ The safety profile was consistent with the safety profile for RITUXAN in RA and 
 Infusion-Related Reactions
 
 In GPA/MPA Study 2, 7/57 (12%) patients in the non-U.S.-licensed rituximab arm reported infusion-related reactions.
-The incidence of IRR symptoms was highest during or after the first infusion (9%) and decreased with subsequent infusions (<4%).
+The incidence of IRR symptoms was highest during or after the first infusion (9%) and decreased with subsequent infusions (less than 4%).
 One patient had two serious IRRs, two IRRs led to a dose modification, and no IRRs were severe, fatal, or led to withdrawal from the study.
 
 Infections
@@ -363,9 +399,7 @@ Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including pr
 During the overall study period, 18/25 patients (72%) had prolonged low IgG levels, including 15 patients who also had prolonged low IgM.
 Three patients received treatment with intravenous immunoglobulin.
 
-Summary of Clinical Trials Experience in Pemphigus Vulgaris (PV)
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Pemphigus Vulgaris (PV)
 
 PV Study 1
 
@@ -374,11 +408,11 @@ Safety results for the PV patient population during the 24-month treatment perio
 
 The safety profile of the non-U.S.-licensed rituximab in patients with PV was consistent with that observed in patients with RITUXAN-treated RA and GPA and MPA [see Adverse Reactions (6.1)].
 
-Adverse reactions from PV Study 1 are presented below in Table 4 and were adverse events which occurred at a rate ≥5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
+Adverse reactions from PV Study 1 are presented below in Table 6 and were adverse events which occurred at a rate greater than or equal to 5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
 No patients in the group treated with non-U.S.-licensed rituximab withdrew due to adverse reactions.
 The clinical study did not include sufficient number of patients to allow for direct comparison of adverse reaction rates between treatment groups.
 
-Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients Treated with Non-U.S.-licensed Rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed Rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in PV Study 1 (Up to Month 24)
+Table 6 Incidence of All Adverse Reactions Occurring in greater than or equal to 5% Among PV Patients Treated with Non-U.S.-licensed Rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed Rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in PV Study 1 (Up to Month 24)
 
 | Adverse Reaction | Non-U.S.-licensed rituximab + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
 | --- | --- | --- |
@@ -420,9 +454,9 @@ PV Study 2
 
 In PV Study 2 (NCT02383589), a randomized, double-blind, double-dummy, active-comparator, multicenter study evaluating the efficacy and safety of RITUXAN compared to mycophenolate mofetil (MMF) in patients with moderate-to-severe PV requiring oral corticosteroids, 67 PV patients received treatment with RITUXAN (initial 1,000 mg IV on Study Day 1 and a second 1,000 mg IV on Study Day 15 repeated at Weeks 24 and 26) for up to 52 weeks [see Clinical Studies (14.8)].
 
-In PV Study 2, ADR defined as adverse events occurring in ≥5% of patients in the RITUXAN arms and assessed as related are shown in Table 5,
+In PV Study 2, ADR defined as adverse events occurring in greater than or equal to 5% of patients in the RITUXAN arms and assessed as related are shown in Table 7.
 
-Table 5 Incidence of All Adverse Reactions occurring in ≥ 5% of RITUXAN-treated Pemphigus Vulgaris Patients (N=67) from PV Study 2 (up to Week 52)
+Table 7 Incidence of All Adverse Reactions occurring in greater than or equal to 5% of RITUXAN-treated Pemphigus Vulgaris Patients (N=67) from PV Study 2 (up to Week 52)
 
 | Adverse Reactions | RITUXAN (N=67) |
 | --- | --- |
@@ -440,7 +474,7 @@ Infusion-Related Reactions
 
 In PV Study 2, IRRs occurred primarily at the first infusion and the frequency of IRRs decreased with subsequent infusions: 17.9%, 4.7%, 3.5% and 3.5% of patients experienced IRRs at the first, second, third, and fourth infusions, respectively.
 In 11/15 patients who experienced at least one IRR, the IRRs were Grade 1 or 2.
-In 4/15 patients, Grade ≥3 IRRs were reported and led to discontinuation of RITUXAN treatment; three of the four patients experienced serious [life-threatening] IRRs.
+In 4/15 patients, Grade greater than or equal to 3 IRRs were reported and led to discontinuation of RITUXAN treatment; three of the four patients experienced serious [life-threatening] IRRs.
 Serious IRRs occurred at the first (2 patients) or second (1 patient) infusion and resolved with symptomatic treatment.
 
 Infections
@@ -455,7 +489,7 @@ In PV Study 2, in the RITUXAN arm, transient decreases in T-cell lymphocytes and
 In some cases, treatment of hypophosphatemia was required.
 
 Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including prolonged hypogammaglobulinemia (defined as Ig levels below lower limit of normal for at least 4 months) was observed in PV Study 2.
-Based on levels < LLN measured at Week 16, Week 24, Week 40, and Week 52, 16.4% (11/67) of patients with normal baseline immunoglobulins had prolonged hypogammaglobulinemia (10 patients – IgM, 1 patient – both IgG and IgM) after treatment with RITUXAN.
+Based on levels less than LLN measured at Week 16, Week 24, Week 40, and Week 52, 16.4% (11/67) of patients with normal baseline immunoglobulins had prolonged hypogammaglobulinemia (10 patients – IgM, 1 patient – both IgG and IgM) after treatment with RITUXAN.
 
 ## 6.2 Immunogenicity
 

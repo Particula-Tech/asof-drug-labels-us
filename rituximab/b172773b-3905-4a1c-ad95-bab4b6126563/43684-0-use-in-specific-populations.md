@@ -63,6 +63,8 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+
 RITUXAN is indicated for the treatment of GPA and MPA in pediatric patients 2 years of age and older with GPA and MPA.
 RITUXAN is not indicated in pediatric patients less than 2 years of age with GPA or MPA.
 
@@ -71,9 +73,21 @@ The use of RITUXAN for the treatment of pediatric patients with GPA and MPA ages
 
 The pediatric trial was a multicenter, open-label, single arm study (GPA/MPA Study 4) to evaluate the safety, PK and exploratory efficacy of RITUXAN or non-U.S.-licensed rituximab in 25 pediatric patients (6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age) with active GPA and MPA over a 6-month remission induction phase and minimum 12-month follow-up phase, up to 54 months [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
-The safety and effectiveness of RITUXAN have not been established in pediatric patients with NHL, CLL, PV, or RA.
+Mature B-Cell NHL/B-AL
 
-Rituxan was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
+The safety and effectiveness of RITUXAN in combination with chemotherapy for the treatment of previously untreated, advanced stage, CD20-positive DLBCL/BL/BLL/B-AL have been established in pediatric patients aged 6 months and older.
+Use of RITUXAN for this indication is supported by evidence from an adequate and well-controlled study in pediatric patients aged 1 year and older on the basis that the course of advanced disease is expected to be similar between pediatric patients aged 6 months to less than 1 year to that of pediatric patients aged 1 year and older to allow extrapolation of data to younger pediatric patients and use pharmacokinetic modeling [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Patients younger than 3 years had a higher incidence of infections compared to patients 3 years and older [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of RITUXAN in combination with chemotherapy for previously untreated, advanced stage, CD20-positive DLBCL/BL/BLL/B-AL have not been established in pediatric patients less than 6 months of age.
+
+The safety and effectiveness of RITUXAN have not been established in pediatric patients with CLL.
+
+Rheumatoid Arthritis and Pemphigus Vulgaris
+
+The safety and effectiveness of RITUXAN have not been established in pediatric patients with PV or RA.
+
+RITUXAN was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
 ## 8.5 Geriatric Use
 

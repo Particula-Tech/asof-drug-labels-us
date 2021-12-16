@@ -8,10 +8,11 @@ RITUXAN-induced infusion-related reactions and sequelae include urticaria, hypot
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
 For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
-Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
+For pediatric patients with mature B-cell NHL/B-AL, administer prednisone as part of chemotherapy regimen prior to RITUXAN during induction and as needed for subsequent cycles [see Dosage and Administration (2.2 and 2.8)].
+Institute medical management (e.g., glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RITUXAN.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
-Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
+Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (greater than or equal to 25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 ## 5.2 Severe Mucocutaneous Reactions
 
@@ -56,7 +57,7 @@ Discontinue RITUXAN and consider discontinuation or reduction of any concomitant
 ## 5.5 Tumor Lysis Syndrome (TLS)
 
 Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatemia from tumor lysis, sometimes fatal, can occur within 12–24 hours after the first infusion of RITUXAN in patients with NHL.
-A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burden, confers a greater risk of TLS.
+A high number of circulating malignant cells (greater than or equal to 25,000/mm3) or high tumor burden, confers a greater risk of TLS.
 
 Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
 Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
@@ -65,8 +66,8 @@ Correct electrolyte abnormalities, monitor renal function and fluid balance, and
 ## 5.6 Infections
 
 Serious, including fatal, bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of RITUXAN-based therapy.
-Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia >11 months after rituximab exposure).
-New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RITUXAN for serious infections and institute appropriate anti-infective therapy [see Adverse Reactions (6.1, 6.2)].
+Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia greater than 11 months after rituximab exposure).
+New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RITUXAN for serious infections and institute appropriate anti-infective therapy [see Adverse Reactions (6.1, 6.3)].
 RITUXAN is not recommended for use in patients with severe, active infections.
 
 ## 5.7 Cardiovascular Adverse Reactions

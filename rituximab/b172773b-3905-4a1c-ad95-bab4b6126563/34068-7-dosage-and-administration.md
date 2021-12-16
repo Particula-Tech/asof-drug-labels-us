@@ -3,7 +3,6 @@
 ## 2.1 Important Dosing Information
 
 Administer only as an Intravenous Infusion [see Dosage and Administration (2.8)].
-
 Do not administer as an intravenous push or bolus.
 
 RITUXAN should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
@@ -18,14 +17,18 @@ During treatment with RITUXAN and chemotherapy, obtain CBC with differential and
 In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RITUXAN therapy.
 Continue to monitor for cytopenias after final dose and until resolution.
 
-- First Infusion: Initiate infusion at a rate of 50 mg/hr.
+- First Infusion: Standard Infusion: Initiate infusion at a rate of 50 mg/hr.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
+  For Pediatric Patients with mature B-cell NHL/B-AL: Initiate infusion at a rate of 0.5 mg/kg/hr (maximum 50 mg/hr).
+  In the absence of infusion toxicity, increase infusion rate by 0.5 mg/kg/hr every 30 minutes, to a maximum of 400 mg/hr.
 - Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hr.
   In the absence of infusion toxicity, increase rate by 100 mg/hr increments at 30-minute intervals, to a maximum of 400 mg/hr.
-  For Previously Untreated Follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  For Previously Untreated Follicular NHL and DLBCL adult patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
   Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
   If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
-  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5,000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
+  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count greater than or equal to 5,000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
+  For Pediatric Patients with mature B-cell NHL/B-AL: Initiate infusion rate of 1 mg/kg/hr (maximum 50 mg/hr).
+  In the absence of infusion toxicity, increase rate by 1 mg/kg/hr every 30 minutes, to a maximum of 400 mg/hr.
 - Interrupt the infusion or slow the infusion rate for infusion-related reactions [see Boxed Warning, Warnings and Precautions (5.1)].
   Continue the infusion at one-half the previous rate upon improvement of symptoms.
 
@@ -40,6 +43,18 @@ The recommended dose is 375 mg/m2 as an intravenous infusion according to the fo
   Administer RITUXAN as a single-agent every 8 weeks for 12 doses.
 - Non-progressing, Low-Grade, CD20-Positive, B-Cell NHL, after first-line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy, administer once weekly for 4 doses at 6-month intervals to a maximum of 16 doses.
 - Diffuse Large B-Cell NHL Administer on Day 1 of each cycle of chemotherapy for up to 8 infusions.
+- Pediatric patients aged 6 months and older with previously untreated mature B-cell NHL/B-AL RITUXAN is given in combination with systemic Lymphome Malin B (LMB) chemotherapy.
+  In total, six infusions of RITUXAN are given, two doses during each of the induction courses, COPDAM1 and COPDAM2, and one dose during each of the two consolidation courses of CYM/CYVE (for details see Table 1).
+
+Table 1: Posology of RITUXAN Administration for Pediatric Mature B-cell NHL/B-AL
+
+| Cycle | Day of treatment | Administration details |
+| --- | --- | --- |
+| Prephase (COP) | No RITUXAN given | - |
+| Induction courses 1 and 2 (COPDAM1 and COPDAM2) | Day -2 1st and 3rd RITUXAN infusions | During the 1st induction course, prednisone is given as part of the chemotherapy course, and should be administered prior to RITUXAN. |
+|  | Day 1 2nd and 4th RITUXAN infusions | RITUXAN will be given 48 hours after the first infusion of RITUXAN. |
+| Consolidation courses 1 and 2 (CYM/CYVE) | Day 1 5th and 6th RITUXAN infusions | - |
+| COP = Cyclophosphamide, Oncovin (vincristine), Prednisone; COPDAM = Cyclophosphamide, Oncovin (vincristine), Prednisolone, Adriamycin (doxorubicin), Methotrexate; CYM = CYtarabine (Aracytine, Ara-C), Methotrexate; CYVE = CYtarabine (Aracytine, Ara-C), VEposide (VP16) |  |  |
 
 ## 2.3 Recommended Dose for Chronic Lymphocytic Leukemia (CLL)
 
@@ -94,7 +109,9 @@ Subsequent infusions of RITUXAN may be administered no sooner than 16 weeks foll
 ## 2.8 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RITUXAN.
-For patients administered RITUXAN according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
+For adult patients administered RITUXAN according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
+
+For pediatric patients with mature B-cell NHL/B-AL, premedication with acetaminophen and H1 antihistamine (diphenhydramine or equivalent) should be administered 30 to 60 minutes before the start of each RITUXAN intravenous infusion.
 
 For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
