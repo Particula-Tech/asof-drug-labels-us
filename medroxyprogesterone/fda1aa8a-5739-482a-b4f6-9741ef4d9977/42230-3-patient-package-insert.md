@@ -25,8 +25,7 @@ Each box on the chart contains a list of birth control methods that are similar 
 The most effective methods are at the top of the chart.
 The box on the bottom of the chart shows the chance of getting pregnant for women who do not use birth control and are trying to get pregnant.
 
-How should I take Medroxyprogesterone acetate?
-Medroxyprogesterone acetate is given by your healthcare provider as a shot into your muscle (intramuscular injection).
+How should I take Medroxyprogesterone acetate?Medroxyprogesterone acetate is given by your healthcare provider as a shot into your muscle (intramuscular injection).
 The shot is given in your buttock or upper arm 1 time every 3 months.
 At the end of the 3 months, you will need to return to your healthcare provider for your next injection in order to continue your protection against pregnancy.
 

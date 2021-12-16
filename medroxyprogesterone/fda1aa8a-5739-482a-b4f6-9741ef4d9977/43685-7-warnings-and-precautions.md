@@ -37,11 +37,7 @@ The results of five large case-control studies1, 2, 3, 4, 5 assessing the associ
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
 One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study4.
 
-Odds ratio estimates were adjusted for the following covariates: Lee et al. (1987): age, parity, and socioeconomic status.
-Paul et al. (1989): age, parity, ethnic group, and year of interview.
-WHO (1991): age, center, and age at first live birth.
-Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use.
-Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography.
+Odds ratio estimates were adjusted for the following covariates:Lee et al. (1987): age, parity, and socioeconomic status.Paul et al. (1989): age, parity, ethnic group, and year of interview.WHO (1991): age, center, and age at first live birth.Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use.Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography.
 
 Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49 years6, a doubling of risk would increase the incidence of breast cancer in women who use Medroxyprogesterone acetate from about 72 to about 144 cases per 100,000 women.
 

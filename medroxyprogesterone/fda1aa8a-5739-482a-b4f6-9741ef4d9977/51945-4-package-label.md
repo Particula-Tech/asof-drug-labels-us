@@ -44,36 +44,4 @@ MedroxyPROGESTERone ACETATE INJECTABLE SUSPENSION, USP
 
 Rx Only
 
-For Intramuscular Use Only Single Use Syringe
-
-# Container Label - Stock No. 5400 and 5401
-
-PRINCIPAL DISPLAY PANEL TEXT:
-
-MedroxyPROGESTERone ACETATE INJECTABLE SUSPENSION, USP
-
-150 mg (150 mg/mL)
-
-1 mL Single-Dose Vial
-
-Intramuscular Use Only
-
-NDC 0548-5400-00
-
-Rx Only
-
-Shake vigorously immediately before use
-
-Amphastar Pharmaceuticals, Inc. Rancho Cucamonga, CA 91730, U.S.A. 7354006F/5-11
-
-# Container Label - Stock 5701
-
-PRINCIPAL DISPLAY PANEL TEXT:
-
-MedroxyPROGESTERone ACETATE INJECTABLESUSPENSION, USP
-
-150 mg (150 mg/mL) Rx Only Intramuscular Use Only Shake vigorously before use 1mL Single Dose Syringe
-
-NDC 0548-5701-00 7657016F 5-11
-
-AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+For Intramuscular Use Only Single Dose Syringe
