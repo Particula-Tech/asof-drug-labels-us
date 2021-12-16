@@ -21,7 +21,7 @@ NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
 
 Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
-Although the absolute rate of death declined somewhat after the first-year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
 Avoid the use of etodolac in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
 If etodolac is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
@@ -157,11 +157,11 @@ Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of
 
 2.
 Etodolac, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
 Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects, Risk of Ulceration, Bleeding, and Perforation).
 
 3.
-Serious Skin Reactions, including DRESS: Advise patients to stop taking etodolac capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
+Serious Skin Reactions, including DRESS: Advise patients to stop taking etodolac tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
 
 4.
 Heart Failure And Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
@@ -250,7 +250,7 @@ However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 Risk Summary
 
 Use of NSAIDs, including etodolac, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-Because of these risks, limit dose and duration of etodolac use between about 20 and 30 weeks of gestation, and avoid etodolac use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
+Because of these risks, limit dose and duration of etodolac use between about 20 and 30 weeks of gestation and avoid etodolac use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
 
 Premature Closure of Fetal Ductus Arteriosus
 
