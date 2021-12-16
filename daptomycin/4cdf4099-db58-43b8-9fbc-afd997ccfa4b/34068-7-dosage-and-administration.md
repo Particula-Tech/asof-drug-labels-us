@@ -13,6 +13,7 @@ Administer daptomycin for injection 4 mg/kg to adult patients intravenously in 0
 
 The recommended dosage regimens based on age for pediatric patients with cSSSI are shown in Table 1.
 Administer daptomycin for injection intravenously in 0.9% sodium chloride injection once every 24 hours for up to 14 days.
+
 Table 1: Recommended Dosage of Daptomycin for Injection in Pediatric Patients (1 to 17 Years of Age) with cSSSI, Based on Age
 
 | Age Range | Dosage Regimen* | Duration of therapy |
@@ -61,8 +62,8 @@ Pediatric Patients: The dosage regimen for daptomycin for injection in pediatric
 
 ## 2.7 Preparation and Administration of Daptomycin for Injection
 
-There are two formulations of daptomycin that have differences concerning storage and reconstitution.
-Carefully follow the reconstitution and storage procedures in labeling.
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
+Carefully follow the reconstitution and storage procedures described in this labeling.
 Reconstitution of Daptomycin for Injection Vial Daptomycin for injection is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized cake or powder.
 The contents of a daptomycin for injection vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows: 1.
 To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
@@ -80,10 +81,14 @@ Ensure that all of the daptomycin for injection cake or powder is wetted by gent
 Allow the wetted product to stand undisturbed for 10 minutes.
 2.
 Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
+
 Administration Instructions Parenteral drug products should be inspected visually for particulate matter prior to administration.
 Slowly remove reconstituted liquid (50 mg daptomycin/mL) from the vial using a beveled sterile needle that is 21 gauge or smaller in diameter.
-Administer as an intravenous injection or infusion as described below: Adults Intravenous Injection over a period of 2 minutes • For intravenous (IV) injection over a period of 2 minutes in adult patients only: Administer the appropriate volume of the reconstituted daptomycin for injection (concentration of 50 mg/mL).
+Administer as an intravenous injection or infusion as described below:
+
+Adults Intravenous Injection over a period of 2 minutes • For intravenous (IV) injection over a period of 2 minutes in adult patients only: Administer the appropriate volume of the reconstituted daptomycin for injection (concentration of 50 mg/mL).
 Intravenous Infusion over a period of 30 minutes • For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted daptomycin for injection (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+
 Pediatric Patients (1 to 17 Years of Age) Intravenous Infusion over a period of 30 or 60 minutes • Unlike in Adults, do NOT administer daptomycin by injection over a two (2) minute period to pediatric patients[see Dosage and Administration (2.1)]. • For Intravenous infusion over a period of 60 minutes in pediatric patients 1 to 6 years of age: The appropriate volume of the reconstituted daptomycin for injection (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into an intravenous infusion bag containing 25 mL of 0.9% sodium chloride injection.
 The infusion rate should be maintained at 0.42 mL/minute over the 60-minute period. • For Intravenous infusion over a period of 30 minutes in pediatric patients 7 to 17 years of age: The appropriate volume of the reconstituted daptomycin for injection (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
 The infusion rate should be maintained at 1.67 mL/minute over the 30-minute period.
@@ -91,13 +96,15 @@ No preservative or bacteriostatic agent is present in this product.
 Aseptic technique must be used in the preparation of final IV solution.
 Do not exceed the In-Use storage conditions of the reconstituted and diluted solutions of daptomycin for injection described below.
 Discard unused portions of daptomycin for injection.
-In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acceptable Intravenous Diluents Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2 to 8°C (36 to 46°F).
+
+In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acceptable Intravenous Diluents Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2°C to 8°C (36 to 46°F).
+
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
 ## 2.8 Compatible Intravenous Solutions
 
-Daptomycin for injection is compatible with 0.9% sodium chloride injection and lactated Ringer’s injection.
+Daptomycin for injection is compatible with 0.9% sodium chloride injection and Lactated Ringer’s injection.
 
 ## 2.9 Incompatibilities
 

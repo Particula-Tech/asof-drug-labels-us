@@ -11,7 +11,7 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 ## 12.3 Pharmacokinetics
 
-Daptomycin for Injection Administered over a 30-Minute Period in Adults The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of daptomycin for injection over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 11.
+Daptomycin for Injection Administered over a 30-Minute Period in Adults The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of daptomycin for injection over a 30-minute period at 4 to 12 mg/kg every 24h to healthy young adults are summarized in Table 11.
 Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
 
 | Dose*† (mg/kg) | Pharmacokinetic Parameters‡ |  |  |  |  |
@@ -24,9 +24,9 @@ Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volun
 | 12 (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
 
 *Daptomycin for injection was administered by IV infusion over a 30-minute period. †Doses of daptomycin for injection in excess of 6 mg/kg have not been approved. ‡AUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration.
-Daptomycin pharmacokinetics were generally linear and time-independent at daptomycin for injection doses of 4 to 12 mg/kg q24h administered by IV infusion over a 30-minute period for up to 14 days.
+Daptomycin pharmacokinetics were generally linear and time-independent at daptomycin for injection doses of 4 to 12 mg/kg every 24h administered by IV infusion over a 30-minute period for up to 14 days.
 Steady-state trough concentrations were achieved by the third daily dose.
-The mean (SD) steady-state trough concentrations attained following the administration of 4, 6, 8, 10, and 12 mg/kg q24h were 5.9 (1.6), 6.7 (1.6), 10.3 (5.5), 12.9 (2.9), and 13.7 (5.2) mcg/mL, respectively.
+The mean (SD) steady-state trough concentrations attained following the administration of 4, 6, 8, 10, and 12 mg/kg every 24h were 5.9 (1.6), 6.7 (1.6), 10.3 (5.5), 12.9 (2.9), and 13.7 (5.2) mcg/mL, respectively.
 Daptomycin for Injection Administered over a 2-Minute Period in Adults Following IV administration of daptomycin for injection over a 2-minute period to healthy adult volunteers at doses of 4 mg/kg (N=8) and 6 mg/kg (N=12), the mean (SD) steady-state systemic exposure (AUC) values were 475 (71) and 701 (82) mcg•h/mL, respectively.
 Values for maximum plasma concentration (Cmax) at the end of the 2-minute period could not be determined adequately in this study.
 However, using pharmacokinetic parameters from 14 healthy adult volunteers who received a single dose of daptomycin for injection 6 mg/kg IV administered over a 30-minute period in a separate study, steady-state Cmax values were simulated for daptomycin for injection 4 and 6 mg/kg IV administered over a 2-minute period.
@@ -45,13 +45,13 @@ Minor amounts of three oxidative metabolites and one unidentified compound were 
 The site of metabolism has not been identified.
 Excretion Daptomycin is excreted primarily by the kidneys.
 In a mass balance study of 5 healthy adult subjects using radiolabeled daptomycin, approximately 78% of the administered dose was recovered from urine based on total radioactivity (approximately 52% of the dose based on microbiologically active concentrations), and 5.7% of the administered dose was recovered from feces (collected for up to 9 days) based on total radioactivity.
-Specific Populations Renal Impairment Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 12).
+Specific Populations Patients with Renal Impairment Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 12).
 Total plasma clearance (CLT), elimination half-life (t1/2), and volume of distribution at steady-state (Vss) in patients with cSSSI were similar to those in patients with S. aureus bacteremia.
-Following administration of daptomycin for injection 4 mg/kg q24h by IV infusion over a 30-minute period, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50 to 80 mL/min), moderate (CLCR 30 to <50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
+Following administration of daptomycin for injection 4 mg/kg every 24h by IV infusion over a 30-minute period, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50 to 80 mL/min), moderate (CLCR 30 to <50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
 The mean steady-state systemic exposure (AUC), t1/2, and Vss increased with decreasing renal function, although the mean AUC for patients with CLCR 30 to 80 mL/min was not markedly different from the mean AUC for patients with normal renal function.
 The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAPD and hemodialysis dosed post-dialysis) was approximately 2 and 3 times higher, respectively, than for patients with normal renal function.
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
-After administration of daptomycin for injection 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
+After administration of daptomycin for injection 6 mg/kg every 24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of Daptomycin for Injection 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
 
 | Renal Function | Pharmacokinetic Parameters* |  |  |  |  |  |
@@ -65,22 +65,28 @@ Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following I
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 
 Note: Daptomycin for injection was administered over a 30-minute period. *CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. †Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. ‡Parameters obtained at steady-state from patients with S. aureus bacteremia.
-Because renal excretion is the primary route of elimination, adjustment of daptomycin for injection dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
-Hepatic Impairment The pharmacokinetics of daptomycin were evaluated in 10 adult subjects with moderate hepatic impairment (Child-Pugh Class B) and compared with those in healthy adult volunteers (N=9) matched for gender, age, and weight.
+
+Because renal excretion is the primary route of elimination, adjustment of daptomycin for injection dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.6)].
+
+Patients with Hepatic Impairment The pharmacokinetics of daptomycin were evaluated in 10 adult subjects with moderate hepatic impairment (Child-Pugh Class B) and compared with those in healthy adult volunteers (N=9) matched for gender, age, and weight.
 The pharmacokinetics of daptomycin were not altered in subjects with moderate hepatic impairment.
 No dosage adjustment is warranted when daptomycin for injection is administered to patients with mild to moderate hepatic impairment.
 The pharmacokinetics of daptomycin in patients with severe hepatic impairment (Child-Pugh Class C) have not been evaluated.
+
 Gender No clinically significant gender-related differences in daptomycin pharmacokinetics have been observed.
 No dosage adjustment is warranted based on gender when daptomycin for injection is administered.
-Geriatric The pharmacokinetics of daptomycin were evaluated in 12 healthy elderly subjects (≥75 years of age) and 11 healthy young adult controls (18 to 30 years of age).
+
+Geriatric Patients The pharmacokinetics of daptomycin were evaluated in 12 healthy elderly subjects (≥75 years of age) and 11 healthy young adult controls (18 to 30 years of age).
 Following administration of a single 4 mg/kg dose of daptomycin for injection by IV infusion over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects than in healthy young adult subjects.
 There were no differences in Cmax[see Use in Specific Populations (8.5)].
-Obesity The pharmacokinetics of daptomycin were evaluated in 6 moderately obese (Body Mass Index [BMI] 25 to 39.9 kg/m2) and 6 extremely obese (BMI ≥40 kg/m2) adult subjects and controls matched for age, gender, and renal function.
+
+Obese Patients The pharmacokinetics of daptomycin were evaluated in 6 moderately obese (Body Mass Index [BMI] 25 to 39.9 kg/m2) and 6 extremely obese (BMI ≥40 kg/m2) adult subjects and controls matched for age, gender, and renal function.
 Following administration of daptomycin for injection by IV infusion over a 30-minute period as a single 4 mg/kg dose based on total body weight, the total plasma clearance of daptomycin normalized to total body weight was approximately 15% lower in moderately obese subjects and 23% lower in extremely obese subjects than in nonobese controls.
 The AUC0-∞ of daptomycin was approximately 30% higher in moderately obese subjects and 31% higher in extremely obese subjects than in nonobese controls.
 The differences were most likely due to differences in the renal clearance of daptomycin.
 No adjustment of daptomycin for injection dosage is warranted in obese patients.
-Pediatric The pharmacokinetics of daptomycin in pediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
+
+Pediatric Patients The pharmacokinetics of daptomycin in pediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
 In general, body weight-normalized total body clearance in pediatric patients was higher than in adults and increased with a decrease of age, whereas elimination half-life tends to decrease with a decrease of age.
 Body weight-normalized total body clearance and elimination half-life of daptomycin in children 2 to 6 years of age were similar at different doses.
 A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients (1 to 17 years old, inclusive) with cSSSI caused by Gram-positive pathogens.
@@ -111,15 +117,15 @@ Table 14: Mean (SD) of Daptomycin Pharmacokinetics in Bacteremia Pediatric Patie
 
 AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life No patients 1 to <2 years of age were enrolled in the study.
 Simulation using a population pharmacokinetic model demonstrated that the AUCss of daptomycin in pediatric patients 1 to <2 years of age receiving 12 mg/kg once daily would be comparable to that in adult patients receiving 6 mg/kg once daily.
-Drug-Drug Interactions In Vitro Studies In vitro studies with human hepatocytes indicate that daptomycin does not inhibit or induce the activities of the following human cytochrome P450 isoforms: 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4.
+Drug Interaction Studies In Vitro Studies In vitro studies with human hepatocytes indicate that daptomycin does not inhibit or induce the activities of the following human cytochrome P450 isoforms: 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4.
 It is unlikely that daptomycin will inhibit or induce the metabolism of drugs metabolized by the P450 system.
 Aztreonam In a study in which 15 healthy adult subjects received a single dose of daptomycin for injection 6 mg/kg IV and a combination dose of daptomycin for injection 6 mg/kg IV and aztreonam 1 g IV, administered over a 30-minute period, the Cmax and AUC0-∞ of daptomycin were not significantly altered by aztreonam.
 Tobramycin In a study in which 6 healthy adult males received a single dose of daptomycin for injection 2 mg/kg IV, tobramycin 1 mg/kg IV, and both in combination, administered over a 30-minute period, the mean Cmax and AUC0-∞ of daptomycin were 12.7% and 8.7% higher, respectively, when daptomycin for injection was coadministered with tobramycin.
 The mean Cmax and AUC0-∞ of tobramycin were 10.7% and 6.6% lower, respectively, when tobramycin was coadministered with daptomycin for injection.
 These differences were not statistically significant.
 The interaction between daptomycin and tobramycin with a clinical dose of daptomycin for injection is unknown.
-Warfarin In 16 healthy adult subjects, administration of daptomycin for injection 6 mg/kg q24h by IV infusion over a 30-minute period for 5 days, with coadministration of a single oral dose of warfarin (25 mg) on the 5th day, had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio).
-Simvastatin In 20 healthy adult subjects on a stable daily dose of simvastatin 40 mg, administration of daptomycin for injection 4 mg/kg q24h by IV infusion over a 30-minute period for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Warfarin In 16 healthy adult subjects, administration of daptomycin for injection 6 mg/kg every 24h by IV infusion over a 30-minute period for 5 days, with coadministration of a single oral dose of warfarin (25 mg) on the 5th day, had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio).
+Simvastatin In 20 healthy adult subjects on a stable daily dose of simvastatin 40 mg, administration of daptomycin for injection 4 mg/kg every 24h by IV infusion over a 30-minute period for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 Probenecid Concomitant administration of probenecid (500 mg 4 times daily) and a single dose of daptomycin for injection 4 mg/kg by IV infusion over a 30-minute period in adults did not significantly alter the Cmax or AUC0-∞ of daptomycin.
 
 ## 12.4 Microbiology
@@ -146,6 +152,6 @@ S. aureus was isolated from a patient in a compassionate-use trial and from 7 pa
 An E. faecium was isolated from a patient in a vancomycin-resistant enterococci trial.
 Antimicrobial Activity Daptomycin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections[see Indications and Usage (1)].
 Gram-Positive Bacteria Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (including methicillin-resistant isolates) Streptococcus agalactiae Streptococcus dysgalactiae subsp. equisimilis Streptococcus pyogenes The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of genus or organism group.
-However, the efficacy of daptomycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of similar genus or organism group.
+However, the efficacy of daptomycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 Gram-Positive Bacteria Corynebacterium jeikeium Enterococcus faecalis (vancomycin-resistant isolates) Enterococcus faecium (including vancomycin-resistant isolates) Staphylococcus epidermidis (including methicillin-resistant isolates) Staphylococcus haemolyticus Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for daptomycin, please see: https://www.fda.gov/STIC.

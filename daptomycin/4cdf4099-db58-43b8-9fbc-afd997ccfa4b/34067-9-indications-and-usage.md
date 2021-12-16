@@ -25,7 +25,7 @@ Daptomycin for injection is not recommended in pediatric patients younger than 1
 ## 1.5 Usage
 
 Appropriate specimens for microbiological examination should be obtained in order to isolate and identify the causative pathogens and to determine their susceptibility to daptomycin.
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of daptomycin for injection and other antibacterial drugs, daptomycin for injection should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of daptomycin for injection and other antibacterial drugs, daptomycin for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information is available, it should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 Empiric therapy may be initiated while awaiting test results.
