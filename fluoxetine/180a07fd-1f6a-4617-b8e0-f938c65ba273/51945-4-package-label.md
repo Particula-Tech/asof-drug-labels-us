@@ -26,6 +26,6 @@ Rx ONLY
 
 120 mL
 
-FOR INSTITUTIONAL USE ONLY
+Package Not Child-Resistant
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605
