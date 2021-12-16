@@ -18,7 +18,8 @@ NEONATAL CONCENTRATION
 
 1 mg per 0.5 mL
 
-Single use, do not reuse or resterilize.
+Single dose.
+Discard unused portion.
 
 FOR INTRAMUSCULAR OR SUBCUTANEOUS USE
 
