@@ -14,17 +14,15 @@ The use of the same bottle of topical eye drops for both eyes following bilatera
 
 ## 17.3 Contact Lens Wear
 
-Patients should be advised that Ketorolac tromethamine ophthalmic solution should not be administered while wearing contact lenses.
+Patients should be advised that ketorolac tromethamine ophthalmic solution should not be administered while wearing contact lenses.
 
 ## 17.4 Intercurrent Ocular Conditions
 
-Patients should be advised that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use Ketorolac tromethamine ophthalmic solution.
+Patients should be advised that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of ketorolac tromethamine ophthalmic solution.
 
 ## 17.5 Concomitant Topical Ocular Therapy
 
 Patients should be advised that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
-
-*DROP-TAINER is a registered trademark of Alcon Research, Ltd.
 
 Manufactured by
 
@@ -38,6 +36,6 @@ Princeton, NJ 08540
 
 Printed in USA
 
-Revised: October 2017
+Revised: May 2021
 
-9015455-1017
+300042904-0521

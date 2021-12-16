@@ -2,11 +2,15 @@
 
 NDC 61314-126-05
 
-Ketorolac Tromethamine Ophthalmic Solution
+Ketorolac
+
+Tromethamine
+
+Ophthalmic
+
+Solution
 
 0.5%
-
-FOR TOPICAL OPHTHALMIC USE ONLY
 
 Rx Only
 

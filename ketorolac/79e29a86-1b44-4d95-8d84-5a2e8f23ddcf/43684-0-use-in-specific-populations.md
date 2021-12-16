@@ -10,11 +10,13 @@ Additionally, when administered to rats after Day 17 of gestation at oral doses 
 There are no adequate and well-controlled studies in pregnant women.
 Ketorolac tromethamine ophthalmic solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects: Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of Ketorolac tromethamine ophthalmic solution during late pregnancy should be avoided.
+Nonteratogenic Effects
+
+Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ketorolac tromethamine ophthalmic solution during late pregnancy should be avoided.
 
 ## 8.3 Nursing Mothers
 
-Because many drugs are excreted in human milk, caution should be exercised when Ketorolac tromethamine ophthalmic solution is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when ketorolac tromethamine ophthalmic solution is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

@@ -17,7 +17,7 @@ Therefore, caution should be used when treating individuals who have previously 
 With some NSAIDs, there exists the potential for increased bleeding time due to interference with thrombocyte aggregation.
 There have been reports that ocularly applied nonsteroidal anti-inflammatory drugs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.
 
-It is recommended that Ketorolac tromethamine ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
+It is recommended that ketorolac tromethamine ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
 
 ## 5.4 Corneal Effects
 
