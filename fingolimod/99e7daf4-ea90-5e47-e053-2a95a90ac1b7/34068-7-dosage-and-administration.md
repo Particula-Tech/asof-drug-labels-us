@@ -4,15 +4,12 @@
 
 Cardiac Evaluation
 
-Obtain a cardiac evaluation in patients with certain preexisting conditions.
 Obtain a cardiac evaluation in patients with certain preexisting conditions [see Warnings and Precautions (5.1)].
 
-Prior to starting treatment, determine whether patients are taking drugs that could slow heart rate or atrioventricular (AV) conduction.
 Prior to starting treatment, determine whether patients are taking drugs that could slow heart rate or atrioventricular (AV) conduction [see Dosage and Administration (2.4), Drug Interactions (7.5)].
 
 Complete Blood Count (CBC)
 
-Review results of a recent CBC.
 Review results of a recent CBC [see Warnings and Precautions (5.2), Drug Interactions (7.6)].
 
 Serum transaminases (ALT and AST) and Total Bilirubin Levels
@@ -21,13 +18,10 @@ Prior to starting treatment with fingolimod (i.e., within 6 months), obtain seru
 
 Prior Medications
 
-If patients are taking antineoplastic, immunosuppressive, or immune-modulating therapies, or if there is a history of prior use of these drugs, consider possible unintended additive immunosuppressive effects before initiating treatment with fingolimod.
 If patients are taking antineoplastic, immunosuppressive, or immune-modulating therapies, or if there is a history of prior use of these drugs, consider possible unintended additive immunosuppressive effects before initiating treatment with fingolimod [see Warnings and Precautions (5.2), Drug Interactions (7.4)].
 
 Vaccinations
 
-Test patients for antibodies to varicella zoster virus (VZV) before initiating fingolimod; VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with fingolimod.
-It is recommended that pediatric patients if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating fingolimod therapy.
 Test patients for antibodies to varicella zoster virus (VZV) before initiating fingolimod; VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with fingolimod [see Warnings and Precautions (5.2)].
 It is recommended that pediatric patients if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating fingolimod therapy.
 

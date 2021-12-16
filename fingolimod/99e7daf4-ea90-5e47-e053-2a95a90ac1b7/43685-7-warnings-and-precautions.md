@@ -168,7 +168,6 @@ Measure liver transaminase and bilirubin levels promptly in patients who report 
 In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with fingolimod treatment should be interrupted.
 Treatment should not be resumed if a plausible alternative etiology for the signs and symptoms cannot be established, because these patients are at risk for severe drug-induced liver injury.
 
-Because fingolimod exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater.
 Because fingolimod exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 5.6 Posterior Reversible Encephalopathy Syndrome
