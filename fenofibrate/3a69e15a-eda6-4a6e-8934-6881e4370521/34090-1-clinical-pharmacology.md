@@ -70,7 +70,7 @@ Gender: No pharmacokinetic difference between males and females has been observe
 Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied, however fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate and severe renal impairment.
-Patients with mild (estimated glomerular filtration rate eGFR 60-89 ml/min/1.73m2) to moderate (eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid was observed as compared to that of healthy subjects.
+Patients with mild (estimated glomerular filtration rate eGFR 60-89 mL/min/1.73m2) to moderate (eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid was observed as compared to that of healthy subjects.
 Patients with severe renal impairment (eGFR <30 mL/min/1.73m2) showed a 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
 In patients with mild to moderate renal impairment, treatment with fenofibrate should be initiated at a dose of 50 mg per day and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 Based on these findings, the use of fenofibrate should be avoided in patients who have severe renal impairment.
