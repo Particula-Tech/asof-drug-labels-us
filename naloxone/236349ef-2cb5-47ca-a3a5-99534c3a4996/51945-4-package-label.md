@@ -1,28 +1,3 @@
-# PRINCIPLE DISPLAY PANEL: Vial Label (Stock No. 1469)
-
-IMS, LIMITED
-
-So.
-El Monte, CA 91733, U.S.A.
-
-7614690K 1-15
-
-2 mL 2 mg 1 mg / mL
-
-NALOXONE HYDROCHLORIDE INJECTION, USP
-
-FOR I.M., I.V.
-OR
-
-S.C.
-USE / SINGLE DOSE
-
-SEE INSERT
-
-Rx Only
-
-Approx. 0 0.5 1 1.5 mg mL 0 0.5 1 1.5
-
 # PRINCIPLE DISPLAY PANEL: Carton (Stock No. 1469)
 
 MIN-I-JET®
@@ -53,31 +28,6 @@ MIN-I-JET®
 
 Single use, do not reuse or resterilize.
 
-# PRINCIPLE DISPLAY PANEL: Vial Label (Stock No. 3369)
-
-IMS, LIMITED
-
-So.
-El Monte, CA 91733, U.S.A.
-
-7633690B 8-11
-
-2 mL 2 mg 1 mg / mL
-
-NALOXONE HYDROCHLORIDE INJECTION, USP
-
-FOR I.M., I.V.
-OR
-
-S.C.
-USE / SINGLE DOSE
-
-SEE INSERT
-
-Rx Only
-
-Approx. 0 0.5 1 1.5 mg mL 0 0.5 1 1.5
-
 # PRINCIPLE DISPLAY PANEL: Carton (Stock No. 3369)
 
 Luer-Lock Prefilled Syringe
@@ -104,4 +54,4 @@ LUER-JETTM LUER-LOCK PREFILLED SYRINGE
 
 2 mL single dose disposable prefilled syringe
 
-Single use, do not reuse or resterilize.
+Discard unused portion.

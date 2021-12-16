@@ -7,9 +7,10 @@ Store at 25˚C (77˚F); excursions permitted to 15˚-30˚C (59˚-86˚F).
 Protect from light.
 Store in carton until contents have been used.
 
+6914660X/11-13
+
 INTERNATIONAL MEDICATION SYSTEMS, LIMITED SO.
-EL MONTE, CA 91733, U.S.A. REV.
-11-13
+EL MONTE, CA 91733, U.S.A.
 
 An Amphastar Pharmaceuticals Company
 
