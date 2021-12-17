@@ -13,4 +13,4 @@
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-07-2020-07
+10-2021-08 Dispense with Medication Guide available at: documents.amneal.com/mg/hydro-apap-10-325.pdf
