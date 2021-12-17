@@ -10,9 +10,9 @@ GASTROINTESTINAL: Nausea, anorexia, vomiting, abdominal discomfort, diarrhea, an
 MOUTH: A sharp metallic taste.
 Furry tongue, glossitis, and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during therapy with metronidazole.
 
-HEMATOPOIETIC: Reversible neutropenia (leukopenia); thrombocytopenia,eosinophilia.
+HEMATOPOIETIC: Reversible neutropenia (leukopenia); thrombocytopenia, eosinophilia.
 
-HEPATOBILIARY DISORDERS: Hepatotoxicity and liver failure especially in patients with Cockayne syndrome (see WARNINGS), jaundice.
+HEPATOBILIARY DISORDERS: Hepatotoxicity and liver failure especially in patients with Cockayne syndrome (see CONTRAINDICATIONS), jaundice.
 
 CARDIOVASCULAR: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings.
@@ -26,6 +26,8 @@ LABORATORY INVESTIGATIONS: Hepatic enzymes increased.
 HYPERSENSITIVITY: Anaphylaxis, angioedema, hypotension, flushing, nasal congestion, and dryness of mouth (or vagina or vulva).
 
 RENAL: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, and darkened urine.
+
+HEPATIC: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) (see CONTRAINDICATIONS).
 
 LOCAL REACTIONS: Thrombophlebitis after intravenous infusion.
 This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.

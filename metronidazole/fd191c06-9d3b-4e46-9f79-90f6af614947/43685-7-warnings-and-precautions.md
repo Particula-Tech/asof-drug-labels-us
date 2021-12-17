@@ -6,15 +6,6 @@ Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral ne
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully.
 The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
 
-## RISK OF HEPATOTOXICITY AND DEATH IN PATIENTS WITH COCKAYNE SYNDROME:
-
-Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
-In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
-Obtain liver function tests prior to the start of therapy, within the first 2-3 days after initiation of therapy, frequently during therapy and after end of treatment.
-Discontinue metronidazole if elevation of liver function occurs, and monitor liver function tests until the baseline values are reached.
-
-Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.
-
 # PRECAUTIONS
 
 ## GENERAL:
