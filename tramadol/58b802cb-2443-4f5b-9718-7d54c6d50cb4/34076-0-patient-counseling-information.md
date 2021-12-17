@@ -143,4 +143,4 @@ Amneal Pharmaceuticals LLC
 Glasgow, KY 42141
 
 Rev.
-09-2021-11
+10-2021-12 Dispense with Medication Guide available at: documents.amneal.com/mg/tramadol-tablets.pdf
