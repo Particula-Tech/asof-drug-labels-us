@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake.
-Non-clinical studies have shown that desvenlafaxine is a potent and selective serotonin and norepinephrine reuptake inhibitor (SNRI).
+Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI.
 
 ## 12.2 Pharmacodynamics
 
@@ -70,7 +70,7 @@ The effect of ketoconazole on the exposures of desvenlafaxine is summarized in F
 Figure 2.
 Effect of Other Drugs on Desvenlafaxine Pharmacokinetics
 
-Desvenlafaxineon Other Drugs
+Desvenlafaxine on Other Drugs
 
 The effects of desvenlafaxine on the exposures of other drugs are summarized in Figure 3.
 
@@ -81,7 +81,7 @@ In Vitro Studies
 
 Based on in vitro data, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of desvenlafaxine.
 
-Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19, CYP2D6, or CYP3A4 isozymes.
+Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19 CYP2D6, or CYP3A4 isozymes.
 Desvenlafaxine does not induce CYP3A4 either.
 
 Desvenlafaxine is not a substrate or an inhibitor for the P-glycoprotein (P-gp) transporter.

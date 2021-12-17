@@ -8,12 +8,12 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 
 Concomitant Medication
 
-Advise patients taking desvenlafaxine not to use concomitantly other products containing desvenlafaxine or venlafaxine.
+Advise patients taking desvenlafaxine extended-release tablets not to use concomitantly other products containing desvenlafaxine or venlafaxine.
 Healthcare professionals should instruct patients not to take desvenlafaxine with an MAOI or within 14 days of stopping an MAOI and to allow 7 days after stopping desvenlafaxine before starting an MAOI [see Contraindications (4)].
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John’s Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -22,18 +22,23 @@ Advise patients that they should have regular monitoring of blood pressure when 
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of desvenlafaxine with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
+Advise patients to inform their healthcare providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 
-Advise patients, their families, and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
+Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
 Discontinuation
 
 Advise patients not to abruptly stop taking desvenlafaxine without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Switching Patients From Other Antidepressants to Desvenlafaxine
+Sexual Dysfunction
+
+Advise patients that use of desvenlafaxine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
+Switching Patients from Other Antidepressants to Desvenlafaxine
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
@@ -59,4 +64,3 @@ Residual Inert Matrix Tablet
 
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
-Trademarks are the property of their respective owners.

@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Desvenlafaxine Extended-Release Tablets (des VEN la FAX een) What is the most important information I should know about desvenlafaxine?
 
@@ -22,8 +22,8 @@ Call your healthcare provider right away if you have any of the following sympto
 
 | o thoughts about suicide or dying | o trouble sleeping (insomnia) |
 | --- | --- |
-| o attempts to commit suicide | onew or worse irritability |
-| onew or worse depression | o acting aggressive, being angry, or violent |
+| o attempts to commit suicide | o new or worse irritability |
+| o new or worse depression | o acting aggressive, being angry, or violent |
 | o new or worse anxiety | o acting on dangerous impulses |
 | o feeling very agitated or restless | o an extreme increase in activity and talking (mania) |
 | o panic attacks | o other unusual changes in behavior or mood |
@@ -37,10 +37,10 @@ Do not take desvenlafaxine if you:
 
 - are allergic to desvenlafaxine succinate, venlafaxine hydrochloride, or any of the ingredients in desvenlafaxine extended-release tablets.
   See the end of this Medication Guide for a complete list of ingredients in desvenlafaxine extended-release tablets.
-- take a monoamine oxidase inhibitor (MAOI)
+- take a monoamine oxidase inhibitor (MAOI).
 - have stopped taking an MAOI in the last 14 days.
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-- are being treated with the antibiotic linezolid or the intravenous methylene blue
+- are being treated with the antibiotic linezolid or the intravenous methylene blue.
 
 Do not start taking an MAOI for at least 7 days after you stop treatment with desvenlafaxine.
 
@@ -120,9 +120,8 @@ Desvenlafaxine can cause serious side effects, including:
 
 - See, "What is the most important information I should know about desvenlafaxine?”
 - Serotonin syndrome.
-  Apotentially life-threatening problem called serotonin syndrome can happen when you take desvenlafaxine with certain other medicines.
-  See, “Who should not take desvenlafaxine?”
-  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: o agitation o seeing or hearing things that are not real (hallucinations) o confusion o coma o fast heart beat o changes in blood pressure o dizziness o sweating o flushing o high body temperature (hyperthermia) o tremors, stiff muscles, or muscle twitching o loss of coordination o seizures o nausea, vomiting, diarrhea • New or worsened high blood pressure (hypertension).
+  A potentially life-threatening problem called serotonin syndrome can happen when you take desvenlafaxine with certain other medicines.
+  See, “Do not take desvenlafaxine if you:” Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: o agitation o seeing or hearing things that are not real (hallucinations) o confusion o coma o fast heart beat o changes in blood pressure o dizziness o sweating o flushing o high body temperature (hyperthermia) o tremors, stiff muscles, or muscle twitching o loss of coordination o seizures o nausea, vomiting, diarrhea • New or worsened high blood pressure (hypertension).
   Your healthcare provider should check your blood pressure before and during treatment with desvenlafaxine.
   If you have high blood pressure, it should be controlled before you start treatment with desvenlafaxine. • Increased chance of bleeding or bruising.
   Taking desvenlafaxine with aspirin, NSAIDs, or blood thinners may add to this risk.
@@ -154,14 +153,18 @@ In severe or more sudden cases, signs and symptoms include:
   Some people who have taken the medicine venlafaxine which is the same kind of medicine as the medicine in desvenlafaxine have had lung problems.
   Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
   Tell your healthcare provider right away if you have any of these symptoms.
+- Sexual Problems (dysfunction).
+  Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including desvenlafaxine, may cause sexual problems.
+  Symptoms in males may include: o Delayed ejaculation or inability to have an ejaculation o Decreased sex drive o Problems getting or keeping an erection Symptoms in females may include: o Decreased sex drive o Delayed orgasm or inability to have an orgasm Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with desvenlafaxine.
+  There may be treatments your healthcare provider can suggest.
 
 The most common side effects of desvenlafaxine include:
 
-| • nausea | •dizziness |
+| • nausea | • dizziness |
 | --- | --- |
-| •problems sleeping | •sweating |
-| •constipation | •feeling sleepy |
-| • decreased appetite | •anxiety |
+| • problems sleeping | • sweating |
+| • constipation | • feeling sleepy |
+| • decreased appetite | • anxiety |
 | • sexual function problems |  |
 
 These are not all the possible side effects of desvenlafaxine.
@@ -184,14 +187,16 @@ You can ask your pharmacist or healthcare provider for information about desvenl
 
 For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.bpirx.com.
 
-What are the ingredients in desvenlafaxine extended-release tablets?
+What are the ingredients in desvenlafaxine?
 
 Active ingredient: desvenlafaxine
 
-Inactive ingredients: For the 25 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethylene glycol, talc, and titanium dioxide.
-For the 50 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+Inactive ingredients:
 
-For the 100 mg tablet, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide black, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+25 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethylene glycol, talc, and titanium dioxide.
+50 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+
+100 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide black, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -207,4 +212,4 @@ Village Panelav, P. O. Tajpura, Near Baska,
 
 Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 05/2019
+Revised: 10/2021
