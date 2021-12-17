@@ -18,13 +18,7 @@ Patients taking Carvedilol Tablet should be advised of the following:
 
 ## 17.2 FDA-Approved Patient Labeling is provided as a tear off leaflet with this full prescribing information.
 
-Manufactured By: Beximco Pharmaceuticals Limited, 126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh
-
-Mfg.
+Manufactured By: Beximco Pharmaceuticals Limited 126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh Mfg.
 Lic.
-No. 379 & 119
-
-Manufactured for: Beximco Pharmaceuticals USA Inc. 4110 Regal Oaks Drive, P.O.
-Box 1060, Suwanee, GA 30024, USA
-
-Distributed by: Bayshore Pharmaceuticals LLC Short Hills, NJ 07078 Revised - 02/2016
+No. 379 & 119 Manufactured for: Beximco Pharmaceuticals USA Inc. 4110 Regal Oaks Drive, P.O.
+Box 1060, Suwanee, GA 30024, USA Distributed by: Bayshore Pharmaceuticals LLC Short Hills, NJ 07078 code: 5001114 Revised - 04/2016

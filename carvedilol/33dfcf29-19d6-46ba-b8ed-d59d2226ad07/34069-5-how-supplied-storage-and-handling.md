@@ -30,7 +30,6 @@ NDC 76385-113-01 in bottles of 100 bottles
 
 NDC 76385-113-50 in bottles of 500 tablets
 
-Store below 30°C (86°F).
+Store at 25°C (77°F); Excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
-
 Dispense in a tight, light-resistant container.

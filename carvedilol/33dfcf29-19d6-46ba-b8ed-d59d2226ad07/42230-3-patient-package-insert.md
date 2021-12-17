@@ -135,9 +135,11 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Carvedilol Tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-Manufactured By: Beximco Pharmaceuticals Limited, 126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh Mfg.
+Manufactured By: Beximco Pharmaceuticals Limited 126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh Mfg.
 Lic.
-No. 379 & 119 Manufactured for: Beximco Pharmaceuticals USA Inc. 4110 Regal Oaks Drive, P.O.
-Box 1060, Suwanee, GA 30024, USA Distributed by: Bayshore Pharmaceuticals LLC Short Hills, NJ 07078
+No. 379 & 119
 
-Revised - 02/2016
+Manufactured for: Beximco Pharmaceuticals USA Inc. 4110 Regal Oaks Drive, P.O.
+Box 1060, Suwanee, GA 30024, USA
+
+Distributed by: Bayshore Pharmaceuticals LLC Short Hills, NJ 07078 code: 5001114 Revised - 04/2016
