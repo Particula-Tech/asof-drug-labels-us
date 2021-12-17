@@ -4,12 +4,20 @@
 
 Risk Summary
 
-There are no adequate data on the developmental risk associated with the use of TYSABRI in pregnant women.
+There are no adequate data on the risk of major birth defects, miscarriage, or other adverse maternal outcomes associated with the use of TYSABRI in pregnant women.
+Adverse fetal outcomes of neonatal thrombocytopenia, at times associated with anemia, have been reported (see Clinical Considerations).
 In animal studies, administration of natalizumab during pregnancy produced fetal immunologic and hematologic effects in monkeys at doses similar to the human dose and reduced offspring survival in guinea pigs at doses greater than the human dose.
 These doses were not maternally toxic but produced the expected pharmacological effects in maternal animals [see Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Cases of neonatal thrombocytopenia, at times associated with anemia, in infants born to women exposed to TYSABRI during pregnancy were reported in the post-marketing setting [see Warnings and Precautions (5.8)].
+Therefore, a CBC should be obtained in neonates who were exposed to TYSABRI in utero.
 
 Data
 

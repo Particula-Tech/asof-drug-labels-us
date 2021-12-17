@@ -41,7 +41,9 @@ Other than the initial six-month taper, prescribers should consider discontinuin
 - Infuse TYSABRI 300 mg in 100 mL 0.9% Sodium Chloride Injection, USP, over approximately one hour (infusion rate approximately 5 mg per minute).
   Do not administer TYSABRI as an intravenous push or bolus injection.
   After the infusion is complete, flush with 0.9% Sodium Chloride Injection, USP.
-- Observe patients during the infusion and for one hour after the infusion is complete.
+- Observe patients during all infusions.
   Promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity-type reaction [see Warnings and Precautions (5.5)].
+- Post-infusion, for the first 12 infusions, observe patients for one hour after the infusion is complete.
+  For patients who have received 12 infusions without evidence of a hypersensitivity reaction, observe patients post-infusion for the 13th and subsequent infusions according to clinical judgment.
 - Use of filtration devices during administration has not been evaluated.
   Other medications should not be injected into infusion set side ports or mixed with TYSABRI.

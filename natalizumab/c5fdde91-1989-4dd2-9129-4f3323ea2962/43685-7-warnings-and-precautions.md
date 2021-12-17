@@ -196,6 +196,9 @@ Symptoms of thrombocytopenia may include easy bruising, abnormal bleeding, and p
 Delay in the diagnosis and treatment of thrombocytopenia may lead to serious and life-threatening sequelae.
 If thrombocytopenia is suspected, TYSABRI should be discontinued.
 
+Cases of neonatal thrombocytopenia, at times associated with anemia, have been reported in newborns with in utero exposure to TYSABRI [see Use in Specific Populations (8.1)].
+A CBC should be obtained in neonates with in utero exposure to TYSABRI.
+
 ## 5.9 Immunizations
 
 No data are available on the effects of vaccination in patients receiving TYSABRI.

@@ -54,9 +54,13 @@ Thrombocytopenia
 Inform patients that TYSABRI may cause a low platelet count, which can cause severe bleeding that may be life-threatening.
 Instruct patients to report any symptoms that may indicate thrombocytopenia, such as easy bruising, prolonged bleeding from cuts, petechiae, abnormally heavy menstrual periods, or bleeding from the nose or gums that is new [see Warnings and Precuations (5.8)].
 
-I61061-27
+Pregnancy
+
+Instruct patients that if they become pregnant or plan to become pregnant while taking TYSABRI they should inform their healthcare provider [see Use in Specific Populations (8.1)].
+
+I61061-28
 
 TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA US License No. 1697
 
-© 2015-2020 Biogen Inc. All rights reserved.
+© 2015-2021 Biogen Inc. All rights reserved.
 U.S. Patent Numbers: 5,840,299; 6,602,503
