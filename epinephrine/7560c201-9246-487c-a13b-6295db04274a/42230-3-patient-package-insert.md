@@ -19,28 +19,28 @@ What is the most important information I should know about the EpiPen and EpiPen
 1. 1.EpiPen and EpiPen Jr are single-dose automatic injection devices (auto-injectors) that contain epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
    Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
 2. Symptoms of anaphylaxis may include:
-   1. •trouble breathing
-   2. •wheezing
-   3. •hoarseness (changes in the way your voice sounds)
-   4. •hives (raised reddened rash that may itch)
-   5. •severe itching
-   6. •swelling of your face, lips, mouth, or tongue
-   7. •skin rash, redness, or swelling
-   8. •fast heartbeat
-   9. •weak pulse
-   10. •feeling very anxious
-   11. •confusion
-   12. •stomach pain
-   13. •losing control of urine or bowel movements (incontinence)
-   14. •diarrhea or stomach cramps
-   15. •dizziness, fainting, or “passing out” (unconsciousness)
+   1. 1.trouble breathing
+   2. 2.wheezing
+   3. 3.hoarseness (changes in the way your voice sounds)
+   4. 4.hives (raised reddened rash that may itch)
+   5. 5.severe itching
+   6. 6.swelling of your face, lips, mouth, or tongue
+   7. 7.skin rash, redness, or swelling
+   8. 8.fast heartbeat
+   9. 9.weak pulse
+   10. 10.feeling very anxious
+   11. 11.confusion
+   12. 12.stomach pain
+   13. 13.losing control of urine or bowel movements (incontinence)
+   14. 14.diarrhea or stomach cramps
+   15. 15.dizziness, fainting, or “passing out” (unconsciousness)
 3. 2.Always carry your EpiPen or EpiPen Jr with you because you may not know when anaphylaxis may happen.
 4. Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
    Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
    You may be unable to speak in an allergic emergency.
 5. 3.When you have an allergic emergency (anaphylaxis)
-   1. •Use EpiPen or EpiPen Jr right away.
-   2. •Get emergency medical help right away.
+   1. 16.Use EpiPen or EpiPen Jr right away.
+   2. 17.Get emergency medical help right away.
       You may need further medical attention.
       You may need to use a second EpiPen or EpiPen Jr if symptoms continue or recur.
       Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
@@ -144,9 +144,9 @@ EpiPen and EpiPen Jr may cause serious side effects.
 - •Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
   If you inject a young child with EpiPen or EpiPen Jr, hold their leg firmly in place before and during the injection to prevent injuries.
   Ask your healthcare provider to show you how to:
-  - 1.Hold the young child firmly in place (restrain).
-  - 2.With 1 hand, grip the auto-injector with the orange tip pointing down.
-  - 3.With the other hand, pull the blue safety release straight up and away from the auto-injector.
+  - •Hold the young child firmly in place (restrain).
+  - •With 1 hand, grip the auto-injector with the orange tip pointing down.
+  - •With the other hand, pull the blue safety release straight up and away from the auto-injector.
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -190,11 +190,11 @@ How should I store EpiPen and EpiPen Jr?
   Throw away (dispose of) expired, unwanted, or unused EpiPen and EpiPen Jr in an FDA-cleared sharps disposal container.
   Do not throw away the EpiPen or EpiPen Jr in your household trash.
   If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - oMade of heavy-duty plastic,
-  - oCan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oUpright and stable during use,
-  - oLeak-resistant, and
-  - oProperly labeled to warn of hazardous waste inside the container.
+  - •Made of heavy-duty plastic,
+  - •Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •Upright and stable during use,
+  - •Leak-resistant, and
+  - •Properly labeled to warn of hazardous waste inside the container.
 - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal
