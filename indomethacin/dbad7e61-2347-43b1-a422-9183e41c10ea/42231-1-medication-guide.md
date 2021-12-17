@@ -13,4 +13,4 @@
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-11-2020-03
+10-2021-04 Dispense with Medication Guide available at: documents.amneal.com/mg/indomethacin-er-caps.pdf

@@ -51,4 +51,4 @@ Inform patients not to use low-dose aspirin concomitantly with indomethacin imme
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2021-06
+10-2021-07 Dispense with Medication Guide available at: documents.amneal.com/mg/indomethacin-er-caps.pdf
