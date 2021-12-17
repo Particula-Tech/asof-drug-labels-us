@@ -69,7 +69,7 @@ Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
-### Effectiveness in Partial-Onset Seizures in Pediatric Patients 4 Years to 16 Years with Epilepsy
+### Effectiveness in Partial-Onset Seizures in Pediatric Patients 4 Years to 16 Years of Age
 
 The effectiveness of levetiracetam tablets for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who still experienced at least 4 partial-onset seizures during the 4 weeks prior to screening, as well as at least 4 partial-onset seizures in each of the two 4-week baseline periods, were randomized to receive either levetiracetam tablets or placebo.
@@ -89,7 +89,7 @@ Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
-### Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to < 4 Years with Epilepsy
+### Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to < 4 Years of Age
 
 The effectiveness of levetiracetam tablets for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who experienced at least 2 partial-onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam tablets or placebo.
@@ -105,12 +105,12 @@ The treatment effect associated with levetiracetam tablets was consistent across
 ## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 The effectiveness of levetiracetam tablets as adjunctive therapy in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study (Study 6), conducted at 37 sites in 14 countries.
-Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
 Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either levetiracetam tablets or placebo (levetiracetam tablets N = 60, placebo N = 60).
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day and treated at a stable dose of 3000 mg/day over 12 weeks (evaluation period).
 Study drug was given in 2 divided doses.
 
 The primary measure of effectiveness was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline.
+Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
 Table 14 displays the results for the 113 patients with JME in this study.
 
 Table 14: Responder Rate (≥ 50% Reduction from Baseline) in Myoclonic Seizure Days per Week for Patients with JME in Study 6
