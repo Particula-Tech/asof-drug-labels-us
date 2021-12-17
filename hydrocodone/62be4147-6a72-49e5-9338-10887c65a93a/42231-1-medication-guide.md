@@ -1,5 +1,7 @@
 # Medication Guide
 
+Dispense with Medication Guide available at: documents.amneal.com/mg/hydro-apap-5-325.pdf
+
 | Hydrocodone Bitartrate (hye” droe koe’ done bye tar’ trate) and Acetaminophen (a seet” a min’ oh fen) Tablets CII |
 | --- |
 | Hydrocodone Bitartrate and Acetaminophen Tablets are: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require an opioid pain medicine, when other pain treatments such as non-opioid pain medicines do not treat your pain well enough or you cannot tolerate them.An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death. |
@@ -11,5 +13,6 @@
 | The possible side effects of Hydrocodone Bitartrate and Acetaminophen Tablets: Constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your healthcare provider if you have any of these symptoms and they are severe. Get emergency medical help or call 911 right away if you have: Trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. These are not all the possible side effects of Hydrocodone Bitartrate and Acetaminophen Tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.govManufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719 |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Rev.
-07-2020-07
+09-2021-08
