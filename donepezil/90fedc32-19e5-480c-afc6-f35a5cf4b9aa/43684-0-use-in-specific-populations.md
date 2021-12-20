@@ -45,15 +45,13 @@ Risk Summary
 
 There are no data on the presence of memantine or donepezil in human milk, the effects on the breastfed infant, or the effects of NAMZARIC or its metabolites on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NAMZARIC and any potential adverse effects on the breastfed infant from NAMZARIC or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NAMZARIC and any potential adverse effects on the breastfed infant from NAMZARIC or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of NAMZARIC in pediatric patients have not been established.
 
-Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of
-
-578 pediatric patients aged 6-12 years with autism spectrum disorders (ASD), including autism, Asperger's disorder and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
+Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of 578 pediatric patients aged 6-12 years with autism spectrum disorders (ASD), including autism, Asperger’s disorder and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
 Memantine has not been studied in pediatric patients under 6 years of age or over 12 years of age.
 Memantine treatment was initiated at 3 mg/day and the dose was escalated to the target dose (weight-based) by week 6.
 Oral doses of memantine 3, 6, 9, or 15 mg extended-release capsules were administered once daily to patients with weights < 20 kg, 20-39 kg, 40-59 kg and ≥ 60 kg, respectively.
@@ -95,9 +93,7 @@ Table 4: 12-48 Week Open Label Lead-In study to Study B Commonly Reported Advers
 
 In the randomized withdrawal study (Study B), the adverse reaction in patients randomized to placebo (n=160) and reported in at least 5% of patients and at twice the frequency of the full-dose memantine treatment group (n=157) was irritability (5.0% vs 2.5%).
 
-In a juvenile animal study, male and female juvenile rats were administered memantine
-
-(15, 30, and 45 mg/kg/day) starting on postnatal day (PND) 14 through PND 70.
+In a juvenile animal study, male and female juvenile rats were administered memantine (15, 30, and 45 mg/kg/day) starting on postnatal day (PND) 14 through PND 70.
 Body weights were reduced at 45 mg/kg/day.
 Delays in sexual maturation were noted in male and female rats at doses ≥ 30 mg/kg/day.
 Memantine induced neuronal lesions in several areas of the brain on PND 15 and 17 at doses ≥ 30 mg/kg/day.
@@ -115,7 +111,7 @@ Therefore, the 1 mg/kg/day dose was considered the NOAEL for the neurobehavioral
 
 Memantine Hydrochloride
 
-The majority of people with Alzheimer's disease are 65 years and older.
+The majority of people with Alzheimer’s disease are 65 years and older.
 In the clinical study of memantine hydrochloride extended-release, the mean age of patients was approximately 77 years; over 91% of patients were 65 years of age and older, 67% were 75 years of age and older, and 14% were 85 years of age and older.
 The efficacy and safety data presented in the clinical trials section were obtained from these patients.
 There were no clinically meaningful differences in most adverse events reported by patients ≥ 65 years old and < 65 years old.

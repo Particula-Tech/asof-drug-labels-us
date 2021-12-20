@@ -21,7 +21,6 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
 
 NAMZARIC® and its design are trademarks of Merz Pharma GmbH & Co. KGaA.
-
 Allergan® and its design are trademarks of Allergan, Inc.
 
 © 2019 Allergan.

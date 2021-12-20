@@ -30,7 +30,7 @@ Conditions that raise urine pH may decrease the urinary elimination of memantine
 ## 5.6 Seizures
 
 Cholinomimetics, including donepezil hydrochloride, an active ingredient in NAMZARIC, are believed to have some potential to cause generalized convulsions.
-However, seizure activity also may be a manifestation of Alzheimer's disease.
+However, seizure activity also may be a manifestation of Alzheimer’s disease.
 
 ## 5.7 Pulmonary Conditions
 

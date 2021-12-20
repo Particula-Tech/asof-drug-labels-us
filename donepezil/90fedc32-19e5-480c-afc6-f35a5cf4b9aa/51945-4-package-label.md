@@ -1,4 +1,4 @@
-# Principal Display Panel - 7/10 mg bottle
+Principal Display Panel - 7/10 mg bottle
 
 Rx Only NDC 0456-1207-30
 
@@ -10,7 +10,7 @@ Namzaric® (memantine and donepezil hydrochlorides) extended- release capsules
 
 AllerganTM
 
-# Principal Display Panel – 14/10 mg bottle
+Principal Display Panel – 14/10 mg bottle
 
 Rx only NDC 0456-1214-30
 
@@ -24,7 +24,7 @@ Namzaric®
 
 AllerganTM
 
-# Principal Display Panel – 21/10 mg bottle
+Principal Display Panel – 21/10 mg bottle
 
 Rx only NDC 0456-1221-30
 
@@ -36,7 +36,7 @@ Namzaric® (memantine and donepezil hydrochlorides) extended- release capsules
 
 AllerganTM
 
-# Principal Display Panel – 28/10 mg bottle
+Principal Display Panel – 28/10 mg bottle
 
 Rx only NDC 0456-1228-30
 

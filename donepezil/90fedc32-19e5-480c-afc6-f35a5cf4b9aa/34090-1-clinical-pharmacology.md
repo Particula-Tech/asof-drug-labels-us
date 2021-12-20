@@ -3,20 +3,20 @@
 ## 12.1 Mechanism of Action
 
 NAMZARIC capsules contain two approved medications: memantine hydrochloride and donepezil hydrochloride.
-Each of those medications is postulated to have a different mechanism in Alzheimer's disease.
+Each of those medications is postulated to have a different mechanism in Alzheimer’s disease.
 
 Memantine
 
-Persistent activation of central nervous system NMDA receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer's disease.
+Persistent activation of central nervous system NMDA receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease.
 Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels.
-There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer's disease.
+There is no evidence that memantine prevents or slows neurodegeneration in patients with Alzheimer’s disease.
 
 Donepezil
 
-Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer's disease attribute some of them to a deficiency of cholinergic neurotransmission.
+Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission.
 Donepezil is postulated to exert its therapeutic effect by enhancing cholinergic function.
 This is accomplished by increasing the concentration of acetylcholine in the central nervous system through reversible inhibition of its hydrolysis by acetylcholinesterase.
-There is no evidence that donepezil prevents or slows neurodegeneration in patients with Alzheimer's disease.
+There is no evidence that donepezil prevents or slows neurodegeneration in patients with Alzheimer’s disease.
 
 ## 12.3 Pharmacokinetics
 
@@ -68,6 +68,7 @@ The terminal elimination half-life increased by 18%, 41%, and 95% in subjects wi
 Hepatic Impairment
 
 Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B, score 7-9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
+
 There was no change in memantine exposure (based on Cmax and AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
 However, terminal elimination half-life increased by about 16% in subjects with moderate hepatic impairment as compared with healthy subjects.
 The pharmacokinetics of memantine has not been evaluated in patients with severe hepatic impairment.
@@ -86,7 +87,7 @@ Use with Cholinesterase Inhibitors
 
 Coadministration of memantine with the AChE inhibitor donepezil hydrochloride did not affect the pharmacokinetics of either compound.
 Furthermore, memantine did not affect AChE inhibition by donepezil.
-In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse event profile observed with a combination of memantine immediate-release and donepezil was similar to that of donepezil alone.
+In a 24-week controlled clinical study in patients with moderate to severe Alzheimer’s disease, the adverse event profile observed with a combination of memantine immediate-release and donepezil was similar to that of donepezil alone.
 
 Effect of Memantine on the Metabolism of Other Drugs
 
@@ -130,7 +131,7 @@ Donepezil is both excreted in the urine intact and extensively metabolized to fo
 Donepezil is metabolized by CYP 450 isoenzymes 2D6 and 3A4 and undergoes glucuronidation.
 Following administration of 14C-labeled donepezil, plasma radioactivity, expressed as a percent of the administered dose, was present primarily as intact donepezil (53%) and as 6-O-desmethyl donepezil (11%), which has been reported to inhibit AChE to the same extent as donepezil in vitro and was found in plasma at concentrations equal to about 20% of donepezil.
 Approximately 57% and 15% of the total radioactivity was recovered in urine and feces, respectively, over a period of 10 days, while 28% remained unrecovered, with about 17% of the donepezil dose recovered in the urine as unchanged drug.
-Examination of the effect of CYP2D6 genotype in Alzheimer's patients showed differences in clearance values among CYP2D6 genotype subgroups.
+Examination of the effect of CYP2D6 genotype in Alzheimer’s patients showed differences in clearance values among CYP2D6 genotype subgroups.
 When compared to the extensive metabolizers, poor metabolizers had a 31.5% slower clearance and ultra-rapid metabolizers had a 24% faster clearance.
 These results suggest CYP2D6 has a minor role in the metabolism of donepezil.
 
@@ -152,7 +153,7 @@ The effect of age on donepezil clearance may not be clinically significant.
 Gender and Race
 
 No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
-However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer's disease indicate that gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.
+However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease indicate that gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.
 
 Body weight
 
@@ -164,7 +165,7 @@ Drug-Drug Interactions
 Effect of Donepezil hydrochloride on the Metabolism of Other Drugs
 
 No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP3A4 (e.g., cisapride, terfenadine) or by CYP2D6 (e.g., imipramine).
-However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 μM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
+However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 µM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
 Based on in vitro studies, donepezil shows little or no evidence of direct inhibition of CYP2B6, CYP2C8, and CYP2C19 at clinically relevant concentrations.
 
 Whether donepezil hydrochloride has any potential for enzyme induction is not known.
@@ -173,7 +174,7 @@ No effects of donepezil hydrochloride on the pharmacokinetics of these drugs wer
 
 Effect of Other Drugs on the Metabolism of Donepezil hydrochloride
 
-A small effect of CYP2D6 inhibitors was identified in a population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer's disease.
+A small effect of CYP2D6 inhibitors was identified in a population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease.
 Donepezil clearance was reduced by approximately 17% in patients taking 10 or 23 mg in combination with a known CYP2D6 inhibitor.
 This result is consistent with the conclusion that CYP2D6 is a minor metabolic pathway of donepezil.
 

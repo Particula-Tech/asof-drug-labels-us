@@ -15,21 +15,21 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Memantine Hydrochloride
 
-Memantine hydrochloride extended-release was evaluated in a double-blind, placebo-controlled trial in 676 patients with moderate to severe dementia of the Alzheimer's type (341 patients treated with memantine 28 mg/day dose and 335 patients treated with placebo) for a treatment period up to 24 weeks.
+Memantine hydrochloride extended-release was evaluated in a double-blind, placebo-controlled trial in 676 patients with moderate to severe dementia of the Alzheimer’s type (341 patients treated with memantine 28 mg/day dose and 335 patients treated with placebo) for a treatment period up to 24 weeks.
 Of the patients randomized, 236 treated with memantine 28 mg/day and 227 treated with placebo were on a stable dose of donepezil for 3 months prior to screening.
 
 Adverse Reactions Leading to Discontinuation with Memantine Hydrochloride
 
 In the placebo-controlled clinical trial of memantine hydrochloride extended-release, the proportion of patients in the memantine hydrochloride extended-release 28 mg/day dose group and in the placebo group who discontinued treatment due to adverse reactions was 10% and 6%, respectively.
-The most common adverse reaction in the memantine hydrochloride extended-release treated group that led to treatment discontinuation was dizziness, at a rate of 1.5%.
+The most common adverse reaction in the memantine hydrochloride extended- release treated group that led to treatment discontinuation was dizziness, at a rate of 1.5%.
 
 Most Common Adverse Reactions with Memantine Hydrochloride
 
-The most common adverse reactions with memantine hydrochloride extended-release in patients with moderate to severe Alzheimer's disease, defined as those occurring at a frequency of at least 5% in the memantine hydrochloride extended-release group and at a higher frequency than placebo, were headache, diarrhea, and dizziness.
+The most common adverse reactions with memantine hydrochloride extended-release in patients with moderate to severe Alzheimer’s disease, defined as those occurring at a frequency of at least 5% in the memantine hydrochloride extended-release group and at a higher frequency than placebo, were headache, diarrhea, and dizziness.
 
 Table 1 lists adverse reactions that occurred at an incidence of ≥ 2% in the memantine hydrochloride extended-release treated group and occurred at a rate greater than placebo.
 
-Table 1: Adverse reactions with memantine hydrochloride extended-release in patients with moderate to severe Alzheimer's disease
+Table 1: Adverse reactions with memantine hydrochloride extended-release in patients with moderate to severe Alzheimer’s disease
 
 | Adverse Reaction | Placebo (n = 335) % | Memantine hydrochloride extended-release 28 mg (n = 341) % |
 | --- | --- | --- |
@@ -67,15 +67,14 @@ The most common adverse reactions leading to discontinuation, defined as those o
 
 Most Common Adverse Reactions with Donepezil Hydrochloride
 
-The most common adverse reactions reported with donepezil hydrochloride in controlled clinical trials in patients with severe Alzheimer's disease, defined as those occurring at a frequency of at least 5% in the donepezil hydrochloride group and at twice or more the placebo rate, were diarrhea, anorexia, vomiting, nausea, and ecchymosis.
-The most common adverse reactions reported with donepezil hydrochloride in controlled clinical trials in patients with mild to moderate Alzheimer's disease were insomnia, muscle cramp, and fatigue.
+The most common adverse reactions reported with donepezil hydrochloride in controlled clinical trials in patients with severe Alzheimer’s disease, defined as those occurring at a frequency of at least 5% in the donepezil hydrochloride group and at twice or more the placebo rate, were diarrhea, anorexia, vomiting, nausea, and ecchymosis.
+The most common adverse reactions reported with donepezil hydrochloride in controlled clinical trials in patients with mild to moderate Alzheimer’s disease were insomnia, muscle cramp, and fatigue.
 
-Table 2 lists adverse reactions that occurred at an incidence of ≥ 2% in the donepezil hydrochloride group and at a rate greater than placebo in controlled trials in patients with severe Alzheimer's disease.
+Table 2 lists adverse reactions that occurred at an incidence of ≥ 2% in the donepezil hydrochloride group and at a rate greater than placebo in controlled trials in patients with severe Alzheimer’s disease.
 
-Table 2: Adverse reactions with donepezil hydrochloride in patients with severe Alzheimer's disease
-
-| Body System/Adverse Event | Placebo (n = 392) % | Donepezil hydrochloride 10 mg/day (n = 501) % |
+| Table 2: Adverse reactions with donepezil hydrochloride in patients with severe Alzheimer’s disease |  |  |
 | --- | --- | --- |
+| Body System/Adverse Event | Placebo (n = 392) % | Donepezil hydrochloride 10 mg/day (n = 501) % |
 | Percent of Patients with any Adverse Event | 73 | 81 |
 | Body as a Whole |  |  |
 | Accident | 12 | 13 |
