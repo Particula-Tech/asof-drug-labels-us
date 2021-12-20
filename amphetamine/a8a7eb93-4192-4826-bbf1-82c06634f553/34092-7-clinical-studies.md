@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of DYANAVEL XR extended-release oral suspension was evaluated in a laboratory classroom study conducted in 108 pediatric patients (aged 6 to 12 years) with ADHD.
-The study began with an open-label dose optimization period (5 weeks) with an initial DYANAVEL XRdose of 2.5 or 5 mg once daily in the morning.
+The study began with an open-label dose optimization period (5 weeks) with an initial DYANAVEL XR dose of 2.5 or 5 mg once daily in the morning.
 The dose could be titrated weekly in increments of 2.5 to 10 mg until an optimal dose or the maximum dose of 20 mg/day was reached.
 Subjects then entered a 1-week randomized, double-blind treatment with the individually optimized dose of DYANAVEL XR or placebo.
 At the end of the week, school teachers and raters evaluated the attention and behavior of the subjects in a laboratory classroom using the Swanson, Kotkin, Agler, M-Flynn, and Pelham (SKAMP) rating scale.

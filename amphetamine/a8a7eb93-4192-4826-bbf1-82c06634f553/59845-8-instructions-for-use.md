@@ -67,5 +67,9 @@ Manufactured by:
 
 Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-LB8635 Rev.
-00 11/2021
+LB8635
+
+Rev.
+00
+
+December 2021

@@ -36,9 +36,9 @@ Skin: Alopecia.
 
 Clinical Trials Experience with DYANAVEL XR in Pediatric Patients with ADHD
 
-There is limited experience with DYANAVELXR in controlled trials.
-Based on this limited experience, the adverse reaction profile of DYANAVELXR appears similar to other amphetamine extended-release products.
-The most common (≥2% in the DYANAVELXR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted with DYANAVEL XR extended-release oral suspension in 108 patients with ADHD (aged 6 to 12 years) were: epistaxis, allergic rhinitis, and upper abdominal pain.
+There is limited experience with DYANAVEL XR in controlled trials.
+Based on this limited experience, the adverse reaction profile of DYANAVEL XR appears similar to other amphetamine extended-release products.
+The most common (≥2% in the DYANAVEL XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted with DYANAVEL XR extended-release oral suspension in 108 patients with ADHD (aged 6 to 12 years) were: epistaxis, allergic rhinitis, and upper abdominal pain.
 
 Table 1.
 Common Adverse Reactions Occurring in ≥2% of Patients on DYANAVEL XR Extended-Release Oral Suspension and Greater than Placebo During the Double Blind Phase.

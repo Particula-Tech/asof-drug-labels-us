@@ -20,7 +20,7 @@ DYANAVEL XR extended-release oral suspension
   Do not remove the bottle adapter once it has been inserted into the bottle.
 - Shake the bottle before each dose.
 
-DYANAVEL-XR extended-release tablets
+DYANAVEL XR extended-release tablets
 
 - Tablets may be chewed or swallowed whole.
 
@@ -66,7 +66,8 @@ Advise patients and their caregivers that there is a pregnancy exposure registry
 
 Pregnancy
 
-Advise patients and their caregivers to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DYANAVEL XR Advise patients of the potential fetal effects from the use of DYANAVEL XR during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients and their caregivers to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DYANAVEL XR.
+Advise patients of the potential fetal effects from the use of DYANAVEL XR during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 

@@ -35,7 +35,7 @@ DYANAVEL XR Extended-Release Tablets
 
 ## 2.4 Switching from Other Amphetamine Products
 
-DYANAVEL XR extended-release oral suspension can be substituted with DYANAVEL XR extended-release tablets on a milligram per milligram basis [see Clinical Pharmacology (12.3)].
+DYANAVEL XR extended-release oral suspension can be substituted with DYANAVEL XR extended-release tablets on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)].
 
 If switching from other amphetamine products, discontinue that treatment, and titrate with DYANAVEL XR using the above titration schedule.
 Do not substitute for other amphetamine products on a milligram-per-milligram basis, because of different amphetamine salt compositions and differing pharmacokinetic profiles [see Description (11), Clinical Pharmacology (12.3)].

@@ -90,7 +90,7 @@ However, because of the probability of auto-inhibition and the lack of informati
 Urine pH Modulators
 
 Because amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly dependent on pH and urine flow rates.
-Alkaline urine pHs results in less ionization and reduced renal elimination; acidic pH and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
+Alkaline urine pH results in less ionization and reduced renal elimination; acidic pH and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 In addition, any decrease in amphetamine’s metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see Drug Interactions (7.1)].
 
 Alcohol Effect

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Having Clinically Important Interactions With Amphetamines
+## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
 Table 2.
 Drugs having clinically important interactions with amphetamines.

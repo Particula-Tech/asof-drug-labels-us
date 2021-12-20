@@ -56,7 +56,7 @@ Safety and efficacy in pediatric patients younger than 6 years with ADHD have no
 
 Long-Term Growth Suppression
 
-Growth should be monitored during treatment with stimulants, including DYANAVELXR, and pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5)].
+Growth should be monitored during treatment with stimulants, including DYANAVEL XR, and pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5)].
 
 ## 8.5 Geriatric Use
 
