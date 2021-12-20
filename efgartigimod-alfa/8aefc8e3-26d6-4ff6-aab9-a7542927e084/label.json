@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761195"
+  ],
+  "inn": "efgartigimod-alfa",
+  "labeler": "argenx US",
+  "package_ndcs": [
+    "73475-3041-5"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "efgartigimod alfa",
+      "name": "VYVGART"
+    }
+  ],
+  "setid": "8aefc8e3-26d6-4ff6-aab9-a7542927e084",
+  "source": "dailymed"
+}
