@@ -154,14 +154,20 @@ Administration of CHCs should not be used as a test for pregnancy [see Use in Sp
 
 Carefully observe women with a history of depression and discontinue Xulane if depression recurs to a serious degree.
 
-## 5.12 Carcinoma of Breasts and Cervix
+## 5.12 Malignant Neoplasms
 
-Xulane is contraindicated in women who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
+### Breast Cancer
 
-There is substantial evidence that CHCs do not increase the incidence of breast cancer.
-Although some past studies have suggested that CHCs might increase the incidence of breast cancer, more recent studies have not confirmed such findings.
+Xulane is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
 
-Some studies suggest that combination oral contraceptive use has been associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (< 6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience (6.2)].
+
+### Cervical Cancer
+
+A causal relationship between the use of CHCs and the development of cervical cancer and intraepithelial neoplasia has not been clearly established.
+Some observational studies suggest that COC use has been associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
 ## 5.13 Effect on Binding Globulins

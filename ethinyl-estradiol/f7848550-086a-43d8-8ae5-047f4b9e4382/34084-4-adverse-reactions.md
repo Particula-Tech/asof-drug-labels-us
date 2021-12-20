@@ -72,6 +72,16 @@ Additional adverse drug reactions that occurred in < 2.5% of norelgestromin and 
 
 ## 6.2 Postmarketing Experience
 
+Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no associated between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 - 1.12 (Figure 2).
+
+Three studies compared breast cancer risk between current or recent COC users (< 6 months since last use) and never users of COCs (Figure 2).
+One of these studies reported no association between breast cancer risk and COC use.
+The other two studies found an increased relative risk of 1.19 - 1.33 with current or recent use.
+Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.
+
+RR = relative risk; OR = odds ration; HR = hazard ration.
+“ever COC” are females with current or past COC use; “never COC use” are fmales that never used COCs.
+
 The following adverse reactions (Table 4) have been identified during postapproval use of norelgestromin and ethinyl estradiol transdermal system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 

@@ -27,7 +27,7 @@ While absorption from the abdomen was slightly lower than from other sites, abso
 The mean (%CV) PK parameters Css and AUC0-168 for NGMN and EE following a single buttock application of norelgestromin and ethinyl estradiol transdermal system are summarized in Table 5.
 
 In multiple dose studies, AUC0-168 for NGMN and EE was found to increase over time (Table 5).
-In a three-cycle study, these PK parameters reached steady state conditions during Cycle 3 (Figures 2 and 3).
+In a three-cycle study, these PK parameters reached steady state conditions during Cycle 3 (Figures 3 and 4).
 Upon removal of the patch, serum levels of EE and NGMN reach very low or non-measurable levels within 3 days.
 
 Table 5: Mean (%CV*) PK Parameters of NGMN and EE Following Three Consecutive Cycles of Norelgestromin and Ethinyl Estradiol Transdermal System Wear on the Buttock
@@ -61,7 +61,7 @@ EE is also metabolized to various hydroxylated products and their glucuronide an
 
 NGMN and norgestrel (a serum metabolite of NGMN) are highly bound (> 97%) to serum proteins.
 NGMN is bound to albumin and not to SHBG, while norgestrel is bound primarily to SHBG, which limits its biological activity.
-EE is extensively bound to serum albumin and induces an increase in the serum concentrations of SHBG (see Table 5).
+EE is extensively bound to serum albumin and induces an increase in the serum concentrations of SHBG (see Table 6).
 
 ### Elimination
 
@@ -71,7 +71,7 @@ The metabolites of NGMN and EE are eliminated by renal and fecal pathways.
 ### Transdermal versus Oral Contraceptives
 
 The norelgestromin and ethinyl estradiol transdermal system delivers EE and NGMN over a 7-day period while oral contraceptives (containing NGM 250 mcg / EE 35 mcg) are administered on a daily basis.
-Figures 4 and 5 present mean PK profiles for EE and NGMN following administration of an oral contraceptive (containing NGM 250 mcg / EE 35 mcg) compared to the 7-day norelgestromin and ethinyl estradiol transdermal system (containing NGMN 4.86 mg / EE 0.53 mg) during Cycle 2 in 32 healthy female volunteers.
+Figures 5 and 6 present mean PK profiles for EE and NGMN following administration of an oral contraceptive (containing NGM 250 mcg / EE 35 mcg) compared to the 7-day norelgestromin and ethinyl estradiol transdermal system (containing NGMN 4.86 mg / EE 0.53 mg) during Cycle 2 in 32 healthy female volunteers.
 
 Table 6 provides the mean (%CV) for NGMN and EE pharmacokinetic (PK) parameters.
 

@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Xulane is contraindicated in women with the following conditions:
+Xulane is contraindicated in females who are known to have or develop the following conditions:
 
 - •At high risk of arterial or venous thromboembolic events.
   Examples include women who:
@@ -18,5 +18,5 @@ Xulane is contraindicated in women with the following conditions:
 - •Liver tumors, benign or malignant, or liver disease [see Warnings and Precautions (5.3), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)]
 - •Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.9)]
 - •Pregnancy, because there is no reason to use hormonal contraceptives during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)]
-- •Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past [see Warnings and Precautions (5.12)]
+- •Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive [See Warnings and Precautions (5.12)]
 - •Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to the potential for alanine aminotransferase (ALT) elevations [see Warnings and Precautions (5.4)]
