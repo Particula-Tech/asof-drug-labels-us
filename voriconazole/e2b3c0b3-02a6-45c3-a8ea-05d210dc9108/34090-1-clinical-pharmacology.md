@@ -32,7 +32,7 @@ The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg every 12 hours to 300 mg every 12 hours leads to an approximately 2.5-fold increase in exposure (AUCτ); similarly, increasing the intravenous dose from 3 mg/kg every 12 hours to 4 mg/kg every 12 hours produces an approximately 2.5-fold increase in exposure (Table 12).
 
-Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
+1. Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
 
 |  | 6 mg/kg IV (loading dose) | 3 mg/kg IV every 12 hours | 4 mg/kg IV every 12 hours | 400 mg Oral (loading dose) | 200 mg Oral every 12 hours | 300 mg Oral every 12 hours |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ In an independent published study in healthy volunteers who were given multiple 
 In contrast, coadministration of single oral doses of St. John's Wort and voriconazole had no appreciable effect on voriconazole AUC0–∞.
 Long-term use of St. John's Wort could lead to reduced voriconazole exposure [see Contraindications (4)].
 
-Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
+Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor)
 
@@ -234,7 +234,7 @@ The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (
 
 Tacrolimus (CYP3A4 substrate)
 
-Repeat oral dose administration of voriconazole (400 mg every 12 hours × 1 day, then 200 mg every 12 hours × 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7)_5.13_Clinically_Significant].
+Repeat oral dose administration of voriconazole (400 mg every 12 hours × 1 day, then 200 mg every 12 hours × 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7)].
 
 Warfarin (CYP2C9 substrate)
 
@@ -251,7 +251,7 @@ Therefore, no dosage adjustment for these agents is recommended:
 
 Prednisolone (CYP3A4 substrate)
 
-Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings andPrecautions (5.8)].
+Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings and Precautions (5.8)].
 
 Digoxin (P-glycoprotein mediated transport)
 
@@ -271,7 +271,7 @@ Rifabutin (300 mg once daily) decreased the Cmax and AUCτ of voriconazole at 20
 During coadministration with rifabutin (300 mg once daily), the steady state Cmax and AUCτ of voriconazole following an increased dose of 400 mg twice daily were on average approximately 2 times higher, compared with voriconazole alone at 200 mg twice daily.
 Coadministration of voriconazole at 400 mg twice daily with rifabutin 300 mg twice daily increased the Cmax and AUCτ of rifabutin by an average of 3-times (90% CI: 2.2, 4) and 4 times (90% CI: 3.5, 5.4), respectively, compared to rifabutin given alone [see Contraindications (4)].
 
-Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse events/toxicity:
+Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity:
 
 Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)
 
@@ -288,7 +288,7 @@ Repeat dose administration of phenytoin (300 mg once daily) decreased the steady
 Administration of a higher voriconazole dose (400 mg every 12 hours × 7 days) with phenytoin (300 mg once daily) resulted in comparable steady state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg every 12 hours without phenytoin [see Dosage and Administration (2.7) and Drug Interactions (7)].
 
 Repeat dose administration of voriconazole (400 mg every 12 hours × 10 days) increased the steady state Cmax and AUCτ of phenytoin (300 mg once daily) by an average of 70% and 80%, respectively, in healthy subjects.
-The increase in phenytoin Cmax and AUC when coadministered with voriconazole may be expected to be as high as 2 times the Cmax and AUC estimates when phenytoin is given without voriconazole [see Drug Interactions (7)_5.13_Clinically_Significant].
+The increase in phenytoin Cmax and AUC when coadministered with voriconazole may be expected to be as high as 2 times the Cmax and AUC estimates when phenytoin is given without voriconazole [see Drug Interactions (7)].
 
 Omeprazole (CYP2C19 inhibitor; CYP2C19 and CYP3A4 substrate)
 
