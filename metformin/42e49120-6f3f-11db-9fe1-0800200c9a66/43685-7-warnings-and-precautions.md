@@ -34,12 +34,12 @@ The postmarketing metformin-associated lactic acidosis cases primarily occurred 
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
 Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
-- Before initiating ACTOPLUS MET, obtain an eGFR.
-- ACTOPLUS MET is contraindicated in patients with an eGFR less than 30mL/min /1.73 m2.
+- •Before initiating ACTOPLUS MET, obtain an eGFR.
+- •ACTOPLUS MET is contraindicated in patients with an eGFR less than 30mL/min /1.73 m2.
   Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2 [see Contraindications (4)].
-- Obtain an eGFR at least annually in all patients taking ACTOPLUS MET.
+- •Obtain an eGFR at least annually in all patients taking ACTOPLUS MET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+- •In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
 Drug Interactions
 
