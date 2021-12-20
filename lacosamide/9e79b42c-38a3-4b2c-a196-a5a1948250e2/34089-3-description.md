@@ -20,9 +20,9 @@ VIMPAT tablets are supplied as debossed tablets and contain the following colori
 
 VIMPAT injection is a clear, colorless, sterile solution containing 10 mg lacosamide per mL for intravenous infusion.
 One 20-mL vial contains 200 mg of lacosamide drug substance.
-The inactive ingredients are sodium chloride and water for injection.
+The inactive ingredients are sodium chloride (7.62 mg/mL) and water for injection.
 Hydrochloric acid is used for pH adjustment.
-VIMPAT injection has a pH of 3.5 to 5.0.
+VIMPAT injection has a pH of 3.8 to 5.0.
 
 ## 11.3 VIMPAT Oral Solution
 
