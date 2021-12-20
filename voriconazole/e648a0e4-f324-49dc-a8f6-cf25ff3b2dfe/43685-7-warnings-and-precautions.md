@@ -39,7 +39,7 @@ Consideration should be given to stopping the infusion should these reactions oc
 ## 5.4 Visual Disturbances
 
 The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.
-There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
+There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.5 Severe Cutaneous Adverse Reactions
@@ -78,7 +78,7 @@ In patients receiving azoles without corticosteroids adrenal insufficiency is re
 In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 Cushing’s syndrome with and without subsequent adrenal insufficiency has also been reported in patients receiving voriconazole concomitantly with corticosteroids.
 
-Patients receiving voriconazole and corticosteroids (via all routes of administration) should be carefully monitored for adrenal dysfunction both during and after voriconazole treatment.
+Patients receiving voriconazole and corticosteroids should be carefully monitored for adrenal dysfunction both during and after voriconazole treatment.
 Patients should be instructed to seek immediate medical care if they develop signs and symptoms of Cushing’s syndrome or adrenal insufficiency.
 
 ## 5.9 Embryo-Fetal Toxicity

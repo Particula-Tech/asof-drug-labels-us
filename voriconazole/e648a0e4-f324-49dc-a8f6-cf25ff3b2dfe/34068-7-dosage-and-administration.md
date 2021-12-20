@@ -125,9 +125,8 @@ In patients with moderate or severe renal impairment (creatinine clearance <50 m
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral voriconazole therapy [see Warnings and Precautions (5.7)].
 
-Voriconazole is hemodialyzed with clearance of 121 mL/min.
-The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
+Voriconazole and the intravenous vehicle, SBECD, are dialyzable.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment [see Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 

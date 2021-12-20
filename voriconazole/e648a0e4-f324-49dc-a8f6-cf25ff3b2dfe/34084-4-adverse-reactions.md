@@ -35,14 +35,17 @@ Five hundred sixty one patients had a duration of voriconazole therapy of greate
 Table 4 includes all adverse reactions which were reported at an incidence of ≥2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of <2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy (OLAT) in the primary treatment of patients with acute IA.
-The rate of discontinuation from voriconazole study medication due to adverse events was 21.4% (42/196 patients).
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 21.4% (42/196 patients).
 In study 608, 403 patients with candidemia were treated to compare voriconazole (272 patients) to the regimen of amphotericin B followed by fluconazole (131 patients).
-The rate of discontinuation from voriconazole study medication due to adverse events was 19.5% out of 272 patients.
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 19.5% out of 272 patients.
 Study 305 evaluated the effects of oral voriconazole (200 patients) and oral fluconazole (191 patients) in the treatment of EC.
-The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
+The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+- Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+  Possibly Related to Therapy or Causality Unknown*
+
+Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown*
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -103,7 +106,7 @@ Fourteen days after the end of dosing, ERG, visual fields and color perception r
 Dermatological Reactions
 
 Dermatological reactions were common in patients treated with voriconazole.
-The mechanism underlying these dermatologic adverse events remains unknown.
+The mechanism underlying these dermatologic adverse reactions remains unknown.
 
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
