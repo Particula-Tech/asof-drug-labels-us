@@ -23,9 +23,11 @@ Usual Adult Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0211A13
+Made in Australia
+
+RALP0211A
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
 
@@ -52,6 +54,8 @@ Usual Adult Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0277A13
+Made in Australia
+
+RALP0277A

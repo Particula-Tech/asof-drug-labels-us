@@ -19,6 +19,20 @@ The brands listed are trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for:
 
-Revised: 2/2021 CDAM:R21mmh/MG:CDAM:R5m/MG:CDAM:R5mh
+Mylan Pharmaceuticals Inc.
+
+Morgantown, WV 26505 U.S.A.
+
+Manufactured by:
+
+ALPHAPHARM PTY LTD
+
+15 Garnet Street
+
+Carole Park QLD 4300
+
+Australia.
+
+Revised: 3/2021 ALP:CDAM:R3mmh/ALP:MG:CDAM:R3m/ALP:MG:CDAM:R3mh
