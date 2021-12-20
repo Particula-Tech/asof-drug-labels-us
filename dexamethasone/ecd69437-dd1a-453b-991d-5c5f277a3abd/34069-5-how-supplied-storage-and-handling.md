@@ -12,6 +12,6 @@ After opening, MAXIDEX can be used until the expiration date on the bottle.
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised: May 2021
+Revised: December 2021
 
-T2021-58
+T2021-159
