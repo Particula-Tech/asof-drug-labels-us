@@ -10,13 +10,13 @@ Advise patients to report to their healthcare provider if they experience any si
 - Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)].
 - Bone Fracture [see Warnings and Precautions (5.4)].
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)].
-- Hypomagnesemia [see Warnings and Precautions (5.8)].
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)].
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)].
+- Hypomagnesemia [see Warnings and Precautions (5.9)].
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Warnings and Precautions (5.6, 5.9, 5.11)].
+Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Warnings and Precautions (5.7, 5.10, 5.12)].
 
 Administration
 
@@ -35,5 +35,5 @@ Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/omeprazole
 
-CIA74312T Rev.
-11/2020
+CIA74312U Rev.
+11/2021
