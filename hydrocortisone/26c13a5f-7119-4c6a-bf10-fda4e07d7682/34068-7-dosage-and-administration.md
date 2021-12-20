@@ -3,7 +3,7 @@
 ## 2.1 Dosage Information
 
 - Individualize the dose for each patient, using the lowest possible dosage.
-- The recommended starting replacement dosage is 8 to 10 mg/m2/day daily.
+- The recommended starting replacement dosage is 8 to 10 mg/m 2/day daily.
   Higher doses may be needed based on patient’s age and symptoms of the disease.
   Use of lower starting doses may be sufficient in patients with residual but decreased endogenous cortisol production.
 - Round the dose to the nearest 0.5 mg or 1 mg.

@@ -15,9 +15,9 @@ Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also h
 Absorption
 
 Following oral administration, a dose of ALKINDI SPRINKLE 4x5 mg was approximately 87% bioavailable when compared to intravenous hydrocortisone in dexamethasone-suppressed healthy adult male volunteers.
-The median time to peak serum concentration (Tmax) was 0.75 hour post-dose following oral administration.
+The median time to peak serum concentration (T max) was 0.75 hour post-dose following oral administration.
 
-In an open label, single dose study in 24 pediatric patients with adrenocortical insufficiency, ALKINDI SPRINKLE (1-4 mg based on body surface area) increased cortisol levels from baseline to median cortisol level 19.4 mcg/dL (range 12.5 – 52.4 mcg/dL) at Cmax (60 minutes post-dose).
+In an open label, single dose study in 24 pediatric patients with adrenocortical insufficiency, ALKINDI SPRINKLE (1-4 mg based on body surface area) increased cortisol levels from baseline to median cortisol level 19.4 mcg/dL (range 12.5 – 52.4 mcg/dL) at C max (60 minutes post-dose).
 
 Effect of Food
 
