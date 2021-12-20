@@ -24,7 +24,7 @@ Table 2: Mean (SD) Serum Etonogestrel and Ethinyl Estradiol Concentrations (n=16
 | etonogestrel (pg/mL) | 1578 (408) | 1476 (362) | 1374 (328) |
 | ethinyl estradiol (pg/mL) | 19.1 (4.5) | 18.3 (4.3) | 17.6 (4.3) |
 
-The pharmacokinetic profile of etonogestrel and ethinyl estradiol during use of NuvaRing is shown in Figure 2.
+The pharmacokinetic profile of etonogestrel and ethinyl estradiol during use of NuvaRing is shown in Figure 3.
 
 The pharmacokinetic parameters of etonogestrel and ethinyl estradiol were determined during one cycle of NuvaRing use in 16 healthy female subjects and are summarized in Table 3.
 

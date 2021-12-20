@@ -5,9 +5,10 @@ Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2021 Organon group of companies.
+All rights reserved.
 
-uspi-og8342a-rng-2106r000
+uspi-og8342a-rng-2112r001
 
 | Instructions for UseNuvaRing (NEW-vah-ring) (etonogestrel/ethinyl estradiol vaginal ring) |
 | --- |
@@ -170,8 +171,9 @@ Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2021 Organon group of companies.
+All rights reserved.
 
-Revised: 6/2021
+Revised: 12/2021
 
-usppi-og8342a-rng-2106r000
+usppi-og8342a-rng-2112r001

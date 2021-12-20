@@ -171,12 +171,17 @@ Assess for ring insertion into the urinary bladder in NuvaRing users who present
 
 Carefully observe women with a history of depression and discontinue NuvaRing use if depression recurs to a serious degree.
 
-## 5.14 Carcinoma of the Breasts and Cervix
+## 5.14 Malignant Neoplasms
 
-NuvaRing is contraindicated in women who currently have or have had breast cancer because breast cancer is a hormonally-sensitive tumor [see Contraindications (4)].
+Breast Cancer
 
-There is substantial evidence that CHCs do not increase the incidence of breast cancer.
-Although some past studies have suggested that CHCs might increase the incidence of breast cancer, more recent studies have not confirmed such findings.
+NuvaRing is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
+
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience (6.2)].
+
+Cervical Cancer
 
 Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there is controversy about the extent to which these findings may be due to differences in sexual behavior and other factors.
