@@ -2,7 +2,7 @@
 
 ## 14.1 Rheumatoid Arthritis
 
-The XELJANZ clinical development program included five confirmatory trials.
+The XELJANZ clinical development program included six confirmatory trials.
 Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 XELJANZ 10 mg twice daily is not recommended for the treatment of rheumatoid arthritis [see Dosage and Administration (2.2)].
 
@@ -256,13 +256,72 @@ Other Health-Related Outcomes
 
 General health status was assessed by the Short Form health survey (SF-36).
 In Studies PsA-I and PsA-II, patients receiving XELJANZ 5 mg twice daily had greater improvement from baseline compared to placebo in Physical Component Summary (PCS) score, but not in Mental Component Summary (MCS) score at Month 3.
-Patients receiving XELJANZ 5 mg twice daily reported consistently greater improvement relative to placebo in the domains of Physical Functioning, Bodily Pain, Vitality, and Social Functioning, but not in Role Physical, General Health, Role Emotional, or Mental Health.
+Patients receiving XELJANZ 5 mg twice daily reported consistently greater improvement relative to placebo in the domains of Physical Functioning, Bodily Pain, Vitality, and Social Functioning, but not in Role-Physical, General Health, Role-Emotional, or Mental Health.
 
 Radiographic Response
 
 Treatment effect on inhibition of radiographic progression in psoriatic arthritis could not be established from the results of Study PsA-I.
 
-## 14.3 Ulcerative Colitis
+## 14.3 Ankylosing Spondylitis
+
+The XELJANZ clinical development program to assess the efficacy and safety included one placebo-controlled confirmatory trial (Study AS-I).
+Patients had active disease as defined by both Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) and back pain score (BASDAI question 2) of greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
+
+Confirmatory Trial (Study AS-I)
+
+Study AS-I was a randomized, double-blind, placebo-controlled, 48-week clinical trial in 269 adult patients who had an inadequate response (inadequate clinical response or intolerance) to at least 2 NSAIDs.
+Patients were randomized and treated with XELJANZ 5 mg twice daily or placebo for 16 weeks of blinded treatment and then all received treatment of XELJANZ 5 mg twice daily for additional 32 weeks.
+The primary endpoint was to evaluate the proportion of patients who achieved an ASAS20 response at Week 16.
+
+Approximately 7% and 21% of patients used concomitant methotrexate or sulfasalazine, respectively from baseline to Week 16.
+Twenty-two percent of patients had an inadequate response to 1 or 2 TNF blockers.
+
+Clinical Response
+
+Patients treated with XELJANZ 5 mg twice daily achieved greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 17).
+Consistent results were observed in the subgroup of patients who had an inadequate response to TNF blockers for both the ASAS20 (primary endpoint) and ASAS40 (secondary endpoint) at Week 16 (Table 17).
+
+Table 17: ASAS20 and ASAS40 Responses at Week 16, Study AS-I
+
+|  | Placebo | XELJANZ 5 mg Twice Daily | Difference from Placebo (95% CI) |
+| --- | --- | --- | --- |
+| All patients (N) | N=136 | N=133 |  |
+| ASAS20 responsetype I error-controlled., % | 29 | 56 | 27 (16, 38)p-value <0.0001. |
+| ASAS40 response, % | 13 | 41 | 28 (18, 38) |
+| TNFi-IR patients (N) | N=30 | N=29 |  |
+| ASAS20 response, % | 17 | 41 | 25 (2, 47) |
+| ASAS40 response, % | 7 | 28 | 21 (2, 39) |
+| Abbreviations: CI = confidence interval; TNFi-IR = tumor necrosis factor inhibitor inadequate response. |  |  |  |
+
+The improvements in the components of the ASAS response and other measures of disease activity were higher in XELJANZ 5 mg twice daily compared to placebo as shown in Table 18.
+
+Table 18: ASAS Components and Other Measures of Disease Activity at Week 16, Study AS-I
+
+|  | Baseline (mean) | Week 16 (LSM change from Baseline)Estimates are generated based on a mixed model for repeated measures using both on-treatment and off-treatment data. | Baseline (mean) | Week 16 (LSM change from Baseline) | Difference from Placebo (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo (N=136) |  | XELJANZ 5 mg Twice Daily (N=133) |  |  |
+| ASAS Components |  |  |  |  |  |
+| –Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p < 0.0001. |
+| –Total spinal pain (0–10), | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
+| –BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible., | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
+| –Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI., | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
+| BASDAI ScoreBath Ankylosing Spondylitis Disease Activity Index total score. | 6.5 | -1.2 | 6.4 | -2.6 | -1.4 (-1.86, -0.98) |
+| BASMIBath Ankylosing Spondylitis Metrology Index., | 4.4 | -0.1 | 4.5 | -0.6 | -0.5 (-0.66, -0.36) |
+| hsCRPHigh sensitivity C-reactive protein., (mg/dL) | 1.8 | -0.1 | 1.6 | -1.1 | -0.9 (-1.17, -0.69) |
+| LSM = least squares mean. |  |  |  |  |  |
+
+The percentage of patients achieving ASAS20 response by visit is shown in Figure 6.
+
+Figure 6: ASAS20 Response Over Time Up to Week 16, Study AS-I
+
+SE=standard error.
+Patients with missing data were treated as non-responders.
+
+Other Health-Related Outcomes
+
+Patients treated with XELJANZ 5 mg twice daily achieved greater improvements from baseline in Ankylosing Spondylitis Quality of Life (ASQoL) (-4.0 vs -2.0) compared to placebo-treated patients at Week 16.
+
+## 14.4 Ulcerative Colitis
 
 Induction Trials (Study UC-I [NCT01465763] and Study UC-II [NCT01458951])
 
@@ -283,9 +342,9 @@ The baseline clinical characteristics were generally similar between the XELJANZ
 
 The primary endpoint of Study UC-I and Study UC-II was the proportion of patients in remission at Week 8, and the key secondary endpoint was the proportion of patients with improvement of endoscopic appearance of the mucosa at Week 8.
 
-The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 17.
+The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 19.
 
-Table 17: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
+Table 19: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
 
 | Study UC-I |  |  |  |
 | --- | --- | --- | --- |
@@ -352,9 +411,9 @@ At baseline of Study UC-III:
 The primary endpoint was the proportion of patients in remission at Week 52.
 There were 2 key secondary endpoints: the proportion of patients with improvement of endoscopic appearance at Week 52, and the proportion of patients with sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baseline of Study UC-III.
 
-The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 18.
+The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 20.
 
-Table 18: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
+Table 20: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
 
 | Endpoint | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- |
@@ -405,7 +464,7 @@ Of these 322 patients, 291 continued to receive XELJANZ 10 mg twice daily (unbli
 After 8 additional weeks (a total of 16 weeks treatment), 148 patients achieved clinical response, and 25 patients achieved remission (based on central endoscopy read).
 Among those 143 patients who achieved clinical response by 16 weeks and had available data at Week 52, 66 patients achieved remission (based on local endoscopy read) after continued treatment with XELJANZ 10 mg twice daily for 52 weeks.
 
-## 14.4 Polyarticular Course Juvenile Idiopathic Arthritis
+## 14.5 Polyarticular Course Juvenile Idiopathic Arthritis
 
 The efficacy of XELJANZ/XELJANZ Oral Solution for pcJIA was assessed in Study pcJIA-I (NCT02592434), a 44-week, two-part study (consisting of an 18-week, open-label, run-in phase, followed by a 26-week double-blind, placebo-controlled, randomized withdrawal phase) in patients 2 years to 17 years of age with active RF negative polyarthritis, RF positive polyarthritis, extended oligoarthritis, and systemic JIA without systemic manifestations who had an inadequate response or intolerance to at least one DMARD which could have included MTX or biologic agents; the study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (JPsA) and enthesitis-related arthritis (ERA) who had an inadequate response to NSAIDs.
 
@@ -426,14 +485,14 @@ The primary endpoint was the occurrence of disease flare at Week 44 relative to 
 Disease flare was defined (according to Pediatric Rheumatology Collaborative Study Group (PRCSG)/Pediatric Rheumatology International Trials Organization (PRINTO) Disease Flare criteria) as worsening of ≥30% in 3 or more of the 6 JIA core response variables with no more than 1 of the remaining JIA core response variables improving by ≥30%.
 
 XELJANZ/XELJANZ Oral Solution treated patients experienced significantly fewer disease flares at Week 44 compared to placebo-treated patients (31% [27/88] vs. 55% [47/85]; difference in proportions -25% [95% CI: -39%, -10%]; p=0.0007).
-The occurrence of disease flare by visit in Study pcJIA-I is shown in Figure 6.
+The occurrence of disease flare by visit in Study pcJIA-I is shown in Figure 7.
 
-Figure 6: Occurrence of Disease Flare by Visit in the Double-Blind Phase in Study pcJIA-I
+Figure 7: Occurrence of Disease Flare by Visit in the Double-Blind Phase in Study pcJIA-I
 
 | BID = twice daily; SE = standard error; N = total number of subjects. The 26-week double-blind phase is from Week 18 through Week 44 on and after randomization day. |
 | --- |
 
-## 14.5 Safety Study
+## 14.6 Safety Study
 
 A randomized open-label trial (RA Safety Study 1; NCT02092467) was conducted to evaluate safety with XELJANZ at two doses, 5 mg twice daily (N=1455) and 10 mg twice daily (N=1456), versus the TNF-blocker control (N=1451) in RA patients 50 years of age and older with at least one cardiovascular risk factor.
 The co-primary endpoints were adjudicated MACE (defined as cardiovascular death, non-fatal MI, and non-fatal stroke) and adjudicated malignancy (excluding non-melanoma skin cancer); the study was designed to exclude a prespecified risk margin of 1.8 for the hazard ratio of combined XELJANZ regimens versus the TNF-blocker control for each co-primary endpoint.
@@ -449,10 +508,10 @@ Cardiovascular risk factors included cigarette smoking (current or past) (48%), 
 
 The non-inferiority criterion was not met for the primary comparison of the combined tofacitinib doses to TNF blockers since the upper limit of the 95% CI exceeded the pre-specified non-inferiority criterion of 1.8 (for MACE, the upper limit of the 95% CI was 1.94; for malignancies excluding NMSC, the upper limit of the 95% CI was 2.09).
 
-Table 19 shows the study results for each of the co-primary endpoints, and other endpoints.
+Table 21 shows the study results for each of the co-primary endpoints, and other endpoints.
 There was an increased risk of death, MACE, malignancies, serious infections, and thromboembolic events associated with both doses of XELJANZ.
 
-Table 19: Results of RA Safety Study 1
+Table 21: Results of RA Safety Study 1
 
 | Endpoint | XELJANZ 5 mg Twice Daily N=1455 PY=5490 | XELJANZ 10 mg Twice Daily N=1456 PY=5298 | TNF Blocker N=1451 PY=5468 |
 | --- | --- | --- | --- |

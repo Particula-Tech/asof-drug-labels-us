@@ -2,7 +2,7 @@
 
 Table 6 includes drugs with clinically important drug interactions when administered concomitantly with XELJANZ/XELJANZ XR/XELJANZ Oral Solution and instructions for preventing or managing them.
 
-Table 6: Clinical Relevant Interactions Affecting XELJANZ/XELJANZ XR/XELJANZ Oral Solution When Coadministered with Other Drugs
+Table 6: Clinically Relevant Interactions Affecting XELJANZ/XELJANZ XR/XELJANZ Oral Solution When Coadministered with Other Drugs
 
 | Strong CP3A4 Inhibitors (e.g., ketoconazole) |  |
 | --- | --- |
@@ -15,5 +15,5 @@ Table 6: Clinical Relevant Interactions Affecting XELJANZ/XELJANZ XR/XELJANZ Ora
 | Clinical Impact | Decreased exposure to tofacitinib and may result in loss of or reduced clinical response |
 | Intervention | Coadministration with XELJANZ/XELJANZ XR/XELJANZ Oral Solution is not recommended [see Clinical Pharmacology, Figure 3 (12.3)] |
 | Immunosuppressive Drugs (e.g., azathioprine, tacrolimus, cyclosporine) |  |
-| Clinical Impact | Risk of added immunosuppression; coadministration with biologic DMARDs or potent immunosuppressants has not been studied in patients with rheumatoid arthritis, psoriatic arthritis, UC, or pcJIA. |
+| Clinical Impact | Risk of added immunosuppression; coadministration with biologic DMARDs or potent immunosuppressants has not been studied in patients with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, UC, or pcJIA. |
 | Intervention | Coadministration with XELJANZ/XELJANZ XR/XELJANZ Oral Solution is not recommended [see Indications and Usage (1), Clinical Pharmacology, Figure 3 (12.3)] |

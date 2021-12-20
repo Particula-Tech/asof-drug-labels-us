@@ -53,10 +53,10 @@ The risk of herpes zoster is increased in patients treated with XELJANZ/XELJANZ 
 ## 5.2 Mortality
 
 Rheumatoid arthritis patients 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ 5 mg twice a day or XELJANZ 10 mg twice a day had a higher observed rate of all-cause mortality, including sudden cardiovascular death, compared to those treated with TNF blockers in a large, randomized, postmarketing safety study (RA Safety Study 1).
-The incidence rate of all-cause mortality per 100 patient-years was 0.88 for XELJANZ 5 mg twice a day, 1.23 for XELJANZ 10 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.5)].
+The incidence rate of all-cause mortality per 100 patient-years was 0.88 for XELJANZ 5 mg twice a day, 1.23 for XELJANZ 10 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.6)].
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 
-A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.2)].
 
 For the treatment of UC, use XELJANZ/XELJANZ XR at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.3)].
 
@@ -66,11 +66,11 @@ Malignancies, including lymphomas and solid cancers, were observed in clinical s
 
 In RA Safety Study 1, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with XELJANZ 5 mg twice a day or XELJANZ 10 mg twice a day as compared with TNF blockers.
 The incidence rate of malignancies (excluding NMSC) per 100 patient-years was 1.13 for XELJANZ 5 mg twice a day, 1.13 for XELJANZ 10 mg twice a day, and 0.77 for TNF blockers.
-Patients who are current or past smokers are at additional increased risk [see Clinical Studies (14.5)].
+Patients who are current or past smokers are at additional increased risk [see Clinical Studies (14.6)].
 
 Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ 5 mg twice a day and XELJANZ 10 mg twice a day compared to those treated with TNF blockers.
 The incidence rate of lymphomas per 100 patient-years was 0.07 for XELJANZ 5 mg twice a day, 0.11 for XELJANZ 10 mg twice a day, and 0.02 for TNF blockers.
-The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.48 for XELJANZ 5 mg twice a day, 0.59 for XELJANZ 10 mg twice a day, and 0.27 for TNF blockers [see Clinical Studies (14.5)].
+The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.48 for XELJANZ 5 mg twice a day, 0.59 for XELJANZ 10 mg twice a day, and 0.27 for TNF blockers [see Clinical Studies (14.6)].
 
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, particularly in patients with a known malignancy (other than a successfully treated NMSC), patients who develop a malignancy while on treatment, and patients who are current or past smokers.
 A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
@@ -89,7 +89,7 @@ In the UC population, treatment with XELJANZ 10 mg twice daily was associated wi
 
 In RA Safety Study 1, RA patients who were 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily had a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke, compared to those treated with TNF blockers.
 The incidence rate of MACE per 100 patient-years was 0.91 for XELJANZ 5 mg twice a day, 1.11 for XELJANZ 10 mg twice a day, and 0.79 for TNF blockers.
-The incidence rate of fatal or non-fatal myocardial infarction per 100 patient-years was 0.36 for XELJANZ 5 mg twice a day, 0.39 for XELJANZ 10 mg twice a day, and 0.20 for TNF blockers [see Clinical Studies (14.5)].
+The incidence rate of fatal or non-fatal myocardial infarction per 100 patient-years was 0.36 for XELJANZ 5 mg twice a day, 0.39 for XELJANZ 10 mg twice a day, and 0.20 for TNF blockers [see Clinical Studies (14.6)].
 Patients who are current or past smokers are at additional increased risk.
 
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
@@ -104,9 +104,9 @@ Many of these events were serious and some resulted in death [see Warnings and P
 
 Patients with rheumatoid arthritis 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ at both 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these events.
 The incidence rate of DVT per 100 patient-years was 0.22 for XELJANZ 5 mg twice a day, 0.28 for XELJANZ 10 mg twice a day, and 0.16 for TNF blockers.
-The incidence rate of PE per 100 patient-years was 0.18 for XELJANZ 5 mg twice a day, 0.49 for XELJANZ 10 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.5)].
+The incidence rate of PE per 100 patient-years was 0.18 for XELJANZ 5 mg twice a day, 0.49 for XELJANZ 10 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
 
-A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.2)].
 
 In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.
 

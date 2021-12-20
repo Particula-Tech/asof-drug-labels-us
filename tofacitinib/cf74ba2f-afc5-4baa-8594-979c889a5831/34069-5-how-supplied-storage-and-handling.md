@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How supplied information for XELJANZ/XELJANZ XR is shown in Table 20.
+How supplied information for XELJANZ/XELJANZ XR is shown in Table 22.
 
-Table 20: How Supplied Information for XELJANZ/XELJANZ XR
+Table 22: How Supplied Information for XELJANZ/XELJANZ XR
 
 |  | Bottle Size (number of tablets) | NDC Number |
 | --- | --- | --- |
@@ -15,9 +15,9 @@ Table 20: How Supplied Information for XELJANZ/XELJANZ XR
 | 30 | NDC 0069-0501-30 |  |
 | XELJANZ XR 22 mg tofacitinib tablets Beige, oval, extended-release film-coated tablets with a drilled hole at one end of the tablet band and "JKI 22" printed on one side of the tablet | 30 | NDC 0069-0502-30 |
 
-How supplied information for XELJANZ Oral Solution is shown in Table 21.
+How supplied information for XELJANZ Oral Solution is shown in Table 23.
 
-Table 21: How Supplied Information for XELJANZ Oral Solution
+Table 23: How Supplied Information for XELJANZ Oral Solution
 
 |  | Bottle Fill (volume mL) | NDC Number |
 | --- | --- | --- |

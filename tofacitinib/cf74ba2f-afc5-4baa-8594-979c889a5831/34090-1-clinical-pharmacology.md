@@ -77,16 +77,16 @@ The pharmacologic activity of tofacitinib is attributed to the parent molecule.
 
 Pharmacokinetics in Patient Populations
 
-Population pharmacokinetic analyses indicated that pharmacokinetic characteristics were similar between patients with rheumatoid arthritis, psoriatic arthritis, and UC.
+Population pharmacokinetic analyses indicated that pharmacokinetic characteristics were similar between patients with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, and UC.
 The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 8).
 
 Table 8: XELJANZ Exposure in Patient Populations at 5 mg Twice Daily and 10 mg Twice Daily Doses
 
-| Rheumatoid Arthritis | Psoriatic Arthritis | Ulcerative Colitis | Ulcerative Colitis |  |
-| --- | --- | --- | --- | --- |
-| Pharmacokinetic ParametersPharmacokinetic parameters estimated based on population pharmacokinetic analysis. Geometric Mean (CV%) | XELJANZ 5 mg Twice Daily |  |  | XELJANZ 10 mg Twice Daily |
-| AUC0–24,ss (ng∙h/mL) | 504 (22.0%) | 419 (34.1%) | 423 (22.6%) | 807 (24.6%) |
-| Abbreviations: AUC0–24,ss=area under the plasma concentration-time curve over 24 hours at steady state; CV=coefficient of variation. |  |  |  |  |
+| Rheumatoid Arthritis | Psoriatic Arthritis | Ankylosing Spondylitis | Ulcerative Colitis | Ulcerative Colitis |  |
+| --- | --- | --- | --- | --- | --- |
+| Pharmacokinetic ParametersPharmacokinetic parameters estimated based on population pharmacokinetic analysis. Geometric Mean (CV%) | XELJANZ 5 mg Twice Daily |  |  |  | XELJANZ 10 mg Twice Daily |
+| AUC0–24,ss (ng∙h/mL) | 504 (22.0%) | 419 (34.1%) | 381 (25.4%) | 423 (22.6%) | 807 (24.6%) |
+| Abbreviations: AUC0–24,ss=area under the plasma concentration-time curve over 24 hours at steady state; CV=coefficient of variation. |  |  |  |  |  |
 
 Specific Populations
 
@@ -101,11 +101,11 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 
 Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
 
-| Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. a Refer to Dosage and Administration (2.2, 2.3, 2.4) for dosage adjustment in RA, PsA, UC, and pcJIA patients. |
+| Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. a Refer to Dosage and Administration (2.2, 2.3, 2.4) for dosage adjustment in RA, PsA, AS, UC, and pcJIA patients. |
 | --- |
 
 In subjects with ESRD maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib.
-Dose adjustment is recommended in RA, PsA, UC, and pcJIA patients with ESRD maintained on hemodialysis [see Dosage and Administration (2.2, 2.3, 2.4)].
+Dose adjustment is recommended in RA, PsA, AS, UC, and pcJIA patients with ESRD maintained on hemodialysis [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Drug Interaction Studies
 

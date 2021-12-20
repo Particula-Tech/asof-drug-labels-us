@@ -79,7 +79,7 @@ It is not known if this effect is reversible [see Nonclinical Toxicology (13.1)]
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of XELJANZ/XELJANZ Oral Solution for the treatment of active pcJIA have been established in patients 2 years to 17 years of age.
-Use of XELJANZ/XELJANZ Oral Solution for the treatment of pediatric patients with active pcJIA in this age group is supported by evidence from adequate and well-controlled studies of XELJANZ in adult RA patients with additional data from a clinical trial of XELJANZ/XELJANZ Oral Solution in pediatric patients (2 years to 17 years of age) with active pcJIA consisting of an 18-week, open label, run-in period followed by a 26-week placebo-controlled, randomized withdrawal period [see Clinical Studies (14.4)].
+Use of XELJANZ/XELJANZ Oral Solution for the treatment of pediatric patients with active pcJIA in this age group is supported by evidence from adequate and well-controlled studies of XELJANZ in adult RA patients with additional data from a clinical trial of XELJANZ/XELJANZ Oral Solution in pediatric patients (2 years to 17 years of age) with active pcJIA consisting of an 18-week, open label, run-in period followed by a 26-week placebo-controlled, randomized withdrawal period [see Clinical Studies (14.5)].
 The safety and effectiveness of XELJANZ/XELJANZ Oral Solution have not been established in pcJIA patients less than 2 years of age.
 
 Adverse reactions observed in pediatric patients receiving XELJANZ/XELJANZ Oral Solution were consistent with those reported in RA patients [see Adverse Reactions (6.1)].
