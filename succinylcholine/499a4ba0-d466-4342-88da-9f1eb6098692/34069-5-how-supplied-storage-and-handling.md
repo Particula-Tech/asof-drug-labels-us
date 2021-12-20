@@ -1,30 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Succinylcholine Chloride Injection, USP is supplied as a clear, colorless solution in the following concentrations and packages:
 
-| NDC No. | Container | Size (mL) | mg/mL | Mg (total) | mOsmol/mL (calc.) |
-| --- | --- | --- | --- | --- | --- |
-| Multiple-dose 70069- 301 -25 | Fliptop vial | 10 | 20 | 200 | 0.338 |
-| Multiple-dose 70069- 301 -10 | Fliptop vial | 10 | 20 | 200 | 0.338 |
+| Unit of Sale | Concentration |
+| --- | --- |
+| 70069-301- 10 Carton containing 10 Multiple-dose Fliptop Vials | 200 mg/10 mL (20 mg/mL) |
+| 70069-301- 25 Carton containing 25 Multiple-dose Fliptop Vials | 200 mg/10 mL (20 mg/mL) |
 
-Refrigeration of the undiluted agent will assure full potency until expiration date.
-All units carry a date of expiration.
+Refrigeration of undiluted succinylcholine chloride injection will assure full potency until expiration date.
 
-Store in refrigerator 2° to 8°C (36° to 46°F).
-The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
-
-Manufactured for:
-
-Somerset Therapeutics, LLC
-
-Hollywood, FL 33024
-
-Customer Care # 1-800-417-9175
-
-Made in India
-
-Code No.:KR/DRUGS/KTK/28/289/97
-
-Issued: March, 2020
-
-ST-SUC11/P/01
+Store in refrigerator 2 °C to 8 °C (36 °F to 46 °F).
+The multiple-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
