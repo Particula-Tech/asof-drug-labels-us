@@ -4,7 +4,7 @@ When oral therapy is not feasible, and the strength, dosage form, and route of a
 
 ## Allergic states
 
-Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, serum sickness, transfusion reactions.
+Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, serum sickness, transfusion reactions.
 
 ## Dermatologic diseases
 
