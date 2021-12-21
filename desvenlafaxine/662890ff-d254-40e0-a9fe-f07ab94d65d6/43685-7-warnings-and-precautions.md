@@ -60,7 +60,7 @@ Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reu
 The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia),neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
 The concomitant use of desvenlafaxine with MAOIs is contraindicated.
 In addition, do not initiate desvenlafaxine in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
@@ -103,8 +103,17 @@ As with all antidepressants, desvenlafaxine should be used cautiously in patient
 
 ## 5.7 Discontinuation Syndrome
 
-Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (2.5), Adverse Reactions (6.1)].
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures [seeAdverse Reactions (6.1)].
+
+There have been postmarketing reports of serious discontinuation symptoms with desvenlafaxine extended-release tablets, which can be protracted and severe.
+Completed suicide, suicidal thoughts, and severe aggression (including hostility, rage, and homicidal ideation) have been observed in patients during reduction in desvenlafaxine extended-release tablets dosage, including during discontinuation.
+Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of desvenlafaxine extended-release tablets.
+
+Patients should be monitored when discontinuing treatment with desvenlafaxine extended-release tablets.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended.
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
+Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
+In some patients, discontinuation may need to occur over a period of several months [see Dosage and Administration (2.5)].
 
 ## 5.8 Seizure
 

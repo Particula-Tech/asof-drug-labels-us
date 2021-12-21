@@ -2,7 +2,7 @@
 
 ## 2.1 General Instructions for Use
 
-The recommended dose for desvenlafaxine extended release tablets is 50 mg once daily, with or without food.
+The recommended dose for desvenlafaxine extended-release tablets is 50 mg once daily, with or without food.
 The 50 mg dose is both a starting dose and the therapeutic dose.
 Desvenlafaxine should be taken at approximately the same time each day.
 Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or dissolved.
@@ -16,7 +16,7 @@ When discontinuing therapy, gradual dose reduction is recommended whenever possi
 ## 2.2 Dosage Recommendations for Patients with Renal Impairment
 
 The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [ClCr] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
-The maximum recommended dose in patients with severe renal impairment (ClCr15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, ClCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
+The maximum recommended dose in patients with severe renal impairment (ClCr 15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, ClCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) andClinical Pharmacology (12.3)].
 
 ## 2.3 Dosage Recommendations for Patients with Hepatic Impairment
@@ -32,7 +32,8 @@ Longer-term efficacy of desvenlafaxine (50 mg to 400 mg) was established in two 
 ## 2.5 Discontinuing Desvenlafaxine Extended-Release Tablets
 
 Adverse reactions may occur upon discontinuation of desvenlafaxine [see Warnings and Precautions (5.7)].
-Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly whenever possible.
+Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly when discontinuing therapy with desvenlafaxine extended-release tablets.
+In some patients, discontinuation may need to occur over a period of several months.
 
 ## 2.6 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 

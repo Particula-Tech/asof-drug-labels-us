@@ -28,7 +28,7 @@ Activation of Mania/Hypomania
 
 Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
-Discontinuation
+Discontinuation Syndrome
 
 Advise patients not to abruptly stop taking desvenlafaxine without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7)andAdverse Reactions (6.1)].
@@ -69,6 +69,6 @@ Distributed by:
 
 Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000467/01
+C50000467/02
 
-Revised October 2021
+Revised December 2021

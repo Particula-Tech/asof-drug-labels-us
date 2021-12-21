@@ -86,7 +86,7 @@ Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the 
 
 Sexual Function Adverse Reactions
 
-Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose, clinical studies).
+Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose, clinical studies) [see Warnings and Precautions (5.11)].
 
 Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Group) During the On-Therapy Period
 
@@ -100,7 +100,7 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 | Ejaculation delayed | < 1 | 1 | 5 | 7 | 6 |
 | Erectile dysfunction | 1 | 3 | 6 | 8 | 11 |
 | Ejaculation disorder | 0 | 0 | 1 | 2 | 5 |
-| Ejaculation Failure | 0 | 1 | 0 | 2 | 2 |
+| Ejaculation failure | 0 | 1 | 0 | 2 | 2 |
 | Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
 
 |  | Desvenlafaxine |  |  |  |  |
