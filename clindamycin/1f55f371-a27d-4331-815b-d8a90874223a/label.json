@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215650"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Daré Bioscience, Inc.",
+  "package_ndcs": [
+    "81505-100-25"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "XACIATO"
+    }
+  ],
+  "setid": "1f55f371-a27d-4331-815b-d8a90874223a",
+  "source": "dailymed"
+}
