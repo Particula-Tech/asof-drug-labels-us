@@ -17,7 +17,7 @@ Table 1: Ocular Adverse Reactions Reported in ≥ 1% of Subject Eyes and Non-Ocu
 | ADVERSE REACTIONS | YUTIQ (N=226 Eyes) n (%) | Sham Injection (N=94 Eyes) n (%) |
 | --- | --- | --- |
 | Ocular |  |  |
-| Cataract1 | 63/113 (56%) | 13/56 (23%) |
+| Cataract 1 | 63/113 (56%) | 13/56 (23%) |
 | Visual Acuity Reduced | 33 (15%) | 11 (12%) |
 | Macular Edema | 25 (11%) | 33 (35%) |
 | Uveitis | 22 (10%) | 33 (35%) |

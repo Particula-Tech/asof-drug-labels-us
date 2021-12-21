@@ -8,7 +8,7 @@ The drug substance is a synthetic corticosteroid, fluocinolone acetonide.
 The chemical name for fluocinolone acetonide is (6α,11β, 16α)-6,9-difluoro-11,21-dihydroxy-16,17-[(1-methylethylidene)bis-(oxy)]-pregna-1,4-diene-3,20-dione.
 Its chemical structure is:
 
-MW 452.50; molecular formula C24H30F206
+MW 452.50; molecular formula C 24H 30F 20 6
 
 Fluocinolone acetonide is a white or almost white, microcrystalline powder, practically insoluble in water, soluble in methanol, ethanol, chloroform and acetone, and sparingly soluble in ether.
 
