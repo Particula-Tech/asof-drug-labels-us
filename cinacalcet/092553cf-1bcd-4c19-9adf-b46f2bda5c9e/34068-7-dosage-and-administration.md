@@ -25,9 +25,9 @@ Serum calcium should be measured within 1 week after initiation or dose adjustme
 
 ## 2.4 Switching from Parsabiv (etelcalcetide) to Cinacalcet Tablets
 
-Discontinue etelcalcetide for at least 4 weeks prior to starting cinacalcet tablet.
-Ensure corrected serum calcium is at or above the lower limit of normal prior to cinacalcet tablet initiation [see Warnings and Precautions (5.1)].
-Initiate cinacalcet tablet treatment at a starting dose of 30 mg once daily.
+Discontinue etelcalcetide for at least 4 weeks prior to starting cinacalcet tablets.
+Ensure corrected serum calcium is at or above the lower limit of normal prior to cinacalcet tablets initiation [see Warnings and Precautions (5.1)].
+Initiate cinacalcet tablets treatment at a starting dose of 30 mg once daily.
 
 ## 2.5 Monitoring for Hypocalcemia
 

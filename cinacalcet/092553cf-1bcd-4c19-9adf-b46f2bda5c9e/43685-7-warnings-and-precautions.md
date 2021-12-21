@@ -57,4 +57,4 @@ One clinical study evaluated bone histomorphometry in patients treated with cina
 Three patients with mild hyperparathyroid bone disease at the beginning of the study developed adynamic bone disease during treatment with cinacalcet.
 Two of these patients had iPTH levels below 100 pg/mL at multiple time points during the study.
 In three 6-month, phase 3 studies conducted in patients with CKD on dialysis, 11% of patients treated with cinacalcet had mean iPTH values below 100 pg/mL during the efficacy-assessment phase.
-If iPTH levels decrease below 150 pg/mL in patients treated with cinacalcet, the dose of cinacalcet and/or vitamin D sterols should be reduced or therapy discontinued
+If iPTH levels decrease below 150 pg/mL in patients treated with cinacalcet, the dose of cinacalcet and/or vitamin D sterols should be reduced or therapy discontinued.

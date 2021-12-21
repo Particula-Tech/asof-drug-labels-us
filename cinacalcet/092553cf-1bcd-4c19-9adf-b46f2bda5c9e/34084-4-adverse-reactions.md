@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 
-In three double-blind, placebo-controlled clinical trials, 1126 patients with CKD on dialysis received study drug (656 cinacalcet, 470 placebo) for up to 6 months.
+In three double-blind, placebo-controlled clinical trials, 1,126 patients with CKD on dialysis received study drug (656 cinacalcet, 470 placebo) for up to 6 months.
 The most frequently reported adverse reactions are listed in Table 1.
 
 Seizures were observed in 1.4% (13/910) of cinacalcet-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo-controlled trials.
@@ -34,14 +34,14 @@ Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term St
 | Pain Chest, Non-Cardiac | 4 | 6 |
 | Dialysis Access Site Infection | 4 | 5 |
 
-In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), the most frequently reported adverse reactions (incidence of ≥ 5% in the cinacalcet group and a difference ≥ 1% compared to placebo) are listed in Table 2.
+In a randomized, double-blind placebo-controlled study of 3,883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), the most frequently reported adverse reactions (incidence of ≥ 5% in the cinacalcet group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
 Table 2.
 Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term StudyAdverse reactions that occurred in ≥ 5% Frequency in the cinacalcet group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set)
 
-|  | Placebo (N = 1923) | Cinacalcet (N = 1938) |
+|  | Placebo (n = 1,923) | Cinacalcet (n = 1,938) |
 | --- | --- | --- |
-|  | 3699 subject-years | 4044 subject-years |
+|  | 3,699 subject-years | 4,044 subject-years |
 | Percent of subjects reporting Adverse Reactions (%) | 90.9 | 93.2 |
 | Nausea | 15.5 | 29.1 |
 | Vomiting | 13.7 | 25.6 |
@@ -50,7 +50,7 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Cough | 9.8 | 11.7 |
 | Hypotension | 10.5 | 11.6 |
 | Headache | 9.6 | 11.5 |
-| Hypocalcaemia | 1.4 | 11.2 |
+| Hypocalcemia | 1.4 | 11.2 |
 | Muscle spasms | 9.2 | 11.1 |
 | Abdominal pain | 9.6 | 10.9 |
 | Abdominal pain upper | 6.3 | 8.2 |
@@ -62,9 +62,11 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
 
-Crude incidence rate = 100 * Total number of subjects with event/ N
+Crude incidence rate = 100 * Total number of subjects with event/ n
 
-N=Number of subjects receiving at least one dose of study drug Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for cinacalcet versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
+n= Number of subjects receiving at least one dose of study drug.
+
+Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for cinacalcet versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
@@ -85,7 +87,7 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 
 |  | Cinacalcet |  |  |
 | --- | --- | --- | --- |
-|  | Parathyroid Carcinoma (N=29) n (%) | Intractable pHPT (N=17) n (%) | Total (N=46) n (%) |
+|  | Parathyroid Carcinoma (n= 29) n (%) | Intractable pHPT (n= 17) n (%) | Total (n= 46) n (%) |
 | Number of Subjects Reporting Adverse Events | 28 (97) | 17 (100) | 45 (98) |
 | Nausea | 19 (66) | 10 (59) | 29 (63) |
 | Vomiting | 15 (52) | 6 (35) | 21 (46) |
@@ -104,14 +106,29 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 | Infection Upper Respiratory | 3 (10) | 2 (12) | 5 (11) |
 | Pain Limb | 3 (10) | 2 (12) | 5 (11) |
 
-N=Number of subjects receiving at least one dose of study drug. pHPT = primary hyperparathyroidism Hypocalcemia
+n= Number of subjects receiving at least one dose of study drug. pHPT = primary hyperparathyroidism.
+In a randomized double-blind, placebo-controlled study of 67 patients with primary hyperparathyroidism for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
+Table 4.
+Adverse Reactions Occurring in ≥ 10% of Subjects in a Double-Blind, Placebo-Controlled Study in Patients with Primary Hyperparathyroidism
 
-In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29 % of patients receiving cinacalcet compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
+| Adverse Reaction | Placebo (n = 34) n (%) | Cinacalcet (n = 33) n (%) |
+| --- | --- | --- |
+| Nausea | 6 (18) | 10 (30) |
+| Muscle spasms | 0 (0) | 6 (18) |
+| Headache | 2 (6) | 4 (12) |
+| Back pain | 2 (6) | 4 (12) |
+
+n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0.
+
+Hypocalcemia
+
+In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29% of patients receiving cinacalcet compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 
 In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving cinacalcet compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
 Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months.
 In this trial, 1.1% of patients receiving cinacalcet and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
+During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of cinacalcet-treated patients and 0.0% (0/34) of placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
 

@@ -18,9 +18,7 @@ In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalce
 Decreased fetal body weights were observed at all doses (less than 1 to 4 times a human oral dose of 180 mg/day based on AUC comparison) in conjunction with maternal toxicity (decreased food consumption and body weight gain).
 
 In pregnant female rabbits given oral gavage doses of 2, 12, 25 mg/kg/day cinacalcet during gestation, no adverse fetal effects were observed (exposures less than with a human oral dose of 180 mg/day based on AUC comparisons).
-Reductions in maternal food consumption and body weight gain were seen at doses of
-
-12 and 25 mg/kg/day.
+Reductions in maternal food consumption and body weight gain were seen at doses of 12 and 25 mg/kg/day.
 Cinacalcet has been shown to cross the placental barrier in rabbits.
 
 In pregnant rats given oral gavage doses of 5, 15, 25 mg/kg/day cinacalcet during gestation through lactation, no adverse fetal or pup (post-weaning) effects were observed at 5 mg/kg/day (exposures less than with a human therapeutic dose of 180 mg/day based on AUC comparisons).
@@ -48,7 +46,7 @@ In aggregate, the pediatric studies did not establish a safe and effective cinac
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (n=1136) in clinical studies of cinacalcet, 26 percent were 65 and over, and 9 percent were 75 and over.
+Of the total number of subjects (n= 1,136) in clinical studies of cinacalcet, 26 percent were 65 and over, and 9 percent were 75 and over.
 No overall differences in the safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Studies (14) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
