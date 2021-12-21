@@ -6,7 +6,6 @@ Risk Summary
 
 Bexarotene, a retinoid, can cause fetal harm based on findings from animal studies when administered to a pregnant female and is contraindicated during pregnancy.
 Bexarotene was teratogenic and caused developmental mortality in rats following oral administration during organogenesis [see Data].
-
 Bexarotene capsules must not be given to a pregnant female or a female who intends to become pregnant.
 If pregnancy does occur during treatment with bexarotene capsules, immediately discontinue the drug and advise the pregnant female of the potential risk to a fetus.
 

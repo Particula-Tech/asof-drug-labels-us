@@ -7,7 +7,7 @@ RXRs can form heterodimers with various receptor partners such as retinoic acid 
 Once activated, these receptors function as transcription factors that regulate the expression of genes that control cellular differentiation and proliferation.
 Bexarotene inhibits the growth in vitro of some tumor cell lines of hematopoietic and squamous cell origin.
 It also induces tumor regression in vivo in some animal models.
-The exact mechanism of action of bexarotene capsules in the treatment of cutaneous T-cell lymphoma (CTCL) is unknown.
+The exact mechanism of action of bexarotene in the treatment of cutaneous T-cell lymphoma (CTCL) is unknown.
 
 ## 12.3 Pharmacokinetics
 

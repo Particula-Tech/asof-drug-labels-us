@@ -1,6 +1,4 @@
-# PATIENT PACKAGE INSERT
-
-Patient Information
+# Patient Information
 
 Bexarotene Capsules (beks-AIR-o-teen capsules)
 
@@ -82,22 +80,22 @@ Bexarotene capsules can cause serious side effects, including:
 
 - •See “What is the most important information I should know about bexarotene capsules?”
 - •Increased levels of fats (lipids) called cholesterol or triglycerides, in your blood are common with bexarotene, but can also be serious.
-  Your healthcare provider may prescribe you medicines to treat high cholesterol or triglycerides levels, reduce your dose, temporarily stop treatment or completely stop treatment with bexarotene capsules.
-  If you have this problem.
+  Your healthcare provider may prescribe you medicines to treat high cholesterol or triglycerides levels, reduce your dose, temporarily stop treatment or completely stop treatment with bexarotene capsules if you have this problem.
 - •Inflammation of the pancreas (acute pancreatitis).
   Bexarotene can sometimes cause pancreatitis that comes on suddenly (acute), and that can lead to death.
   Your risk of developing acute pancreatitis may greater if you:
-- •have had pancreatitis in the past
-- •high levels of fats in your blood that are not controlled
-- •drink large amounts of alcohol
-- •have gallbladder problems
-- •have diabetes that is not controlled
-- •take certain medicines that can increase the amount of triglycerides in your blood
-- •take medicines that can harm your pancreas
+  - ohave had pancreatitis in the past
+  - ohigh levels of fats in your blood that are not controlled
+  - odrink large amounts of alcohol
+  - ohave gallbladder problems
+  - ohave diabetes that is not controlled
+  - otake certain medicines that can increase the amount of triglycerides in your blood
+  - otake medicines that can harm your pancreas
 - Tell your healthcare provider right away if you develop signs or symptoms of pancreatitis during treatment with bexarotene capsules, including:
-- •nausea that will not go away
-- •vomiting
-- •stomach-area (abdominal) or back pain
+  1. onausea that will not go away
+  2. ovomiting
+  3. ostomach-area (abdominal) or back pain
+- 
 - •Liver problems, including liver failure.
   Bexarotene can cause increased liver function blood test results, or liver problems that can lead to death.
 - •Thyroid problems (hypothyroidism) are common with bexarotene.
@@ -147,10 +145,10 @@ Active ingredient: bexarotene
 
 Inactive ingredients: gelatin, nitrogen, butylated hydroxyanisole, glycerin, hydrolyzed gelatin, medium chain triglyceride, Shellac glaze, FD&C red #40, FD&C blue #1, FD&C yellow #6, propylene glycol, simethicone, polyethylene glycol 400, polysorbate 20, povidone, sorbitol, 1,4-sorbitan, mannitol, soy lecithin and titanium dioxide.
 
-Manufactured for: Amerigen Pharmaceuticals, Inc. Lyndhurst, NJ 07071 USA
+Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-For more information, call 1-877-220-3784.
+For more information, call 1-800-308-6755.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1. MG1029/01 Revised 09/2018
+026597 Rev 09/20

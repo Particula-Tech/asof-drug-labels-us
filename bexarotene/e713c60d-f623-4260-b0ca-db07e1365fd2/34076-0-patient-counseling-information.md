@@ -54,8 +54,8 @@ If applicable, advise patients of monthly pregnancy testing [see Use in Specific
 
 Administration Instructions
 
-Advise patients to take bexarotene capsules with a meal [see DOSAGE AND ADMINISTRATION].
+Advise patients to take bexarotene capsules with a meal [see Dosage and Administration (2)].
 
-Manufactured for: Amerigen Pharmaceuticals, Inc. Lyndhurst, NJ 07071 USA 1-877-220-3784
+Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-OS1036/01 Revised 09/2018
+026597 Rev 09/20

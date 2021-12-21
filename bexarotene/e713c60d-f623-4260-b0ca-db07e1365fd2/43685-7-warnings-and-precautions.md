@@ -41,7 +41,7 @@ The incidence of decreases in TSH and total T4 were about 60% and 45%, respectiv
 Hypothyroidism was reported as an adverse event in 29% of patients.
 Consider treatment with thyroid hormone supplementation in patients with hypothyroidism.
 In the 300 mg/m2/day initial dose group, 37% of patients were treated with thyroid hormone replacement.
-Obtain baseline thyroid function tests and patients monitor during treatment.
+Obtain baseline thyroid function tests and monitor patients during treatment.
 
 ## 5.5 Neutropenia
 
