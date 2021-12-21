@@ -26,12 +26,10 @@ Valcyte® (valganciclovir) for oral solution
 
 Each mL of constituted oral solution contains 50 mg valganciclovir free base.
 
-New Oral Dispensers
-
 100 mL (3.4 fl oz)
 
 Rx only
 
 Genentech
 
-10225110
+10236162
