@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215935"
+  ],
+  "inn": "budesonide",
+  "labeler": "Calliditas Therapeutics AB",
+  "package_ndcs": [
+    "81749-004-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "budesonide",
+      "name": "Tarpeyo"
+    }
+  ],
+  "setid": "938cada4-d6bf-4252-836f-dd40f9eadb4d",
+  "source": "dailymed"
+}
