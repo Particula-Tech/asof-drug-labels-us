@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Gabapentin capsules USP are supplied as follows: 100 mg capsules:
+Gabapentin Capsules USP are supplied as follows: 100 mg capsules:
 
 White hard gelatin capsules imprinted “216” on body with blue ink, available in:
 

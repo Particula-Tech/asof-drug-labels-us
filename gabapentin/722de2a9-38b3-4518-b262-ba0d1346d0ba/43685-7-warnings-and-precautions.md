@@ -21,22 +21,22 @@ Patients should be instructed to discontinue gabapentin and seek immediate medic
 ## 5.3 Effects on Driving and Operating Heavy Machinery
 
 Patients taking gabapentin should not drive until they have gained sufficient experience to assess whether gabapentin impairs their ability to drive.
-Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended release) indicate that gabapentin may cause significant driving impairment.
+Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended-release) indicate that gabapentin may cause significant driving impairment.
 Prescribers and patients should be aware that patients’ ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
 The duration of driving impairment after starting therapy with gabapentin is unknown.
 Whether the impairment is related to somnolence [see Warnings and Precautions (5.4)] or other effects of gabapentin is unknown.
-Moreover, because gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.4)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks
+Moreover, because gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.4)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks.
 
 ## 5.4 Somnolence/Sedation and Dizziness
 
 During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin up to 1800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin compared to placebo: i.e., 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia.
 In these trials somnolence, ataxia and fatigue were common adverse reactions leading to discontinuation of gabapentin in patients older than 12 years of age, with 1.2%, 0.8% and 0.6% discontinuing for these events, respectively.
 
-During the controlled trials in patients with post-herpetic neuralgia, somnolence and dizziness were reported at a greater rate compared to placebo in patients receiving Gabapentin, in dosages up to 3600 mg per day: i.e., 21% in Gabapentin -treated patients versus 5% in placebo-treated patients for somnolence and 28% in Gabapentin -treated patients versus 8% in placebo-treated patients for dizziness.
+During the controlled trials in patients with post-herpetic neuralgia, somnolence, and dizziness were reported at a greater rate compared to placebo in patients receiving Gabapentin, in dosages up to 3600 mg per day: i.e., 21% in Gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in Gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
 Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
-In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment.[see Drug Interactions (7.2)].
+In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.1)].
 
 ## 5.5 Withdrawal Precipitated Seizure, Status Epilepticus
 
@@ -84,13 +84,13 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.7 Respiratory Depression
 
-There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
+There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when coadministered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe gabapentin with another CNS depressant, particularly an opioid, or to prescribe gabapentin to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating gabapentin at a low dose.
 The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including gabapentin).
 
 ## 5.8 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
 
-Gabapentin use in pediatric patients with epilepsy 3 to12 years of age is associated with the occurrence of CNS related adverse reactions.
+Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is associated with the occurrence of CNS related adverse reactions.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the reactions were mild to moderate in intensity.
 

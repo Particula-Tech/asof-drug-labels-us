@@ -12,7 +12,7 @@ Risk Summary
 There are no adequate data on the developmental risks associated with the use of gabapentin in pregnant women.
 In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to or lower than those used clinically [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data
@@ -44,9 +44,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
-Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established
-
-[see Clinical Studies (14.2)]
+Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established [see Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

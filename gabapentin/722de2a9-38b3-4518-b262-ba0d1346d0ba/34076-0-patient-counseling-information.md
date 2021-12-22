@@ -2,6 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Administration Information
+
+Inform patients that gabapentin is taken orally with or without food.
+
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
 Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately [see Warnings and Precautions (5.1)].
@@ -27,7 +31,7 @@ Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
-Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs.
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.7)].
 
 Use in Pregnancy
 
@@ -37,8 +41,8 @@ Encourage patients to enroll in the NAAED Pregnancy Registry if they become preg
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-This product’s label may have been updated.
-For full prescribing information, please visit www.dailymed.nlm.nih.gov.
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.dailymed.nlm.nih.gov.
 
 Trademarks are the property of their respective owners.
 
@@ -54,6 +58,6 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: July, 2020
+Parsippany, NJ 07054 Revised: February, 2021
 
-PT 3365-02/ PT 1702-09
+PT 1702-10

@@ -36,7 +36,7 @@ Specific Populations
 
 Age
 
-The effect of age was studied in subjects 20-80 years of age.
+The effect of age was studied in subjects 20 to 80 years of age.
 Apparent oral clearance (CL/F) of gabapentin decreased as age increased, from about 225 mL/min in those under 30 years of age to about 125 mL/min in those over 70 years of age.
 Renal clearance (CLr) and CLr adjusted for body surface area also declined with age; however, the decline in the renal clearance of gabapentin with age can largely be explained by the decline in renal function.
 [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
@@ -71,7 +71,7 @@ These pharmacokinetic data indicate that the effective daily dose in pediatric p
 
 Adult Patients with Renal Impairment
 
-Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13-114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
@@ -87,7 +87,7 @@ Because gabapentin is not metabolized, no study was performed in patients with h
 
 Drug Interactions
 
-In Vitro Studies
+- In Vitro Studies
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
 Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
@@ -136,7 +136,7 @@ The magnitude of interaction at other doses is not known.
 
 Cimetidine
 
-In the presence of cimetidine at 300 mg four times a day(N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
