@@ -55,9 +55,9 @@ Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
 
 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
 
-R6-12/17 Active ingredient: L-carnitine 1 g/10mL Usual Dosage: See package insert.
+R8-07/21 Active ingredient: L-carnitine 1 g/10mL Usual Dosage: See package insert.
 Avoid excess heat.
 Protect from freezing.
 Store at 20°- 25°C (68°-77°F) excursion permitted to 15°-30°C (59°- 86°F).
 [See USP Controlled Room Temperature].
-Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301 R6-12/17
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301 R8-07/21
