@@ -8,7 +8,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 · Hypersensitivity Reactions [see Contraindications (4)]
 
-· Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+· Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 
 · Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 
@@ -52,4 +52,4 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: June, 2018 PT 2444-02
+Parsippany, NJ 07054 Revised: March, 2021

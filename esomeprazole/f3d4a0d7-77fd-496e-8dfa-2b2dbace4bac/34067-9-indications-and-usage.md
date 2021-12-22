@@ -1,4 +1,4 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Treatment of Gastroesophageal Reflux Disease (GERD)
 
@@ -20,7 +20,7 @@ Triple Therapy (esomeprazole magnesium plus amoxicillin and clarithromycin): eso
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Dosage and Administration (2) and Clinical Studies (14)].
 
 In patients who fail therapy, susceptibility testing should be done.
-If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Clinical Pharmacology (12.4) and the prescribing information for clarithromycin].
+If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [seeClinical Pharmacology (12.4) and the prescribing information for clarithromycin].
 
 ## 1.4 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 

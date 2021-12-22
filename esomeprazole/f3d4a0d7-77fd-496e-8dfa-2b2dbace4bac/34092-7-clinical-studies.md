@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| S t u dy | No. of P ati e n ts | T r e atm e nt G ro ups | W eek 4 | W eek 8 | S i g ni fi c a nce Le vel * |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level * |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | Esomeprazole 20 mg | 68.7% | 90.6% | N.S. |
 | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |  |
@@ -21,7 +21,7 @@ Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
 *log-rank test vs. omeprazole 20 mg
 
-N.S. = not significant (p > 0.05).
+N.S. = not significant (p > 0.05)
 
 In these same studies of patients with erosive esophagitis, sustained heartburn resolution and time to sustained heartburn resolution were evaluated and are shown in the Table 10:
 
@@ -29,7 +29,7 @@ Table 10: Sustained Resolution‡ of Heartburn (Erosive Esophagitis Patients)
 
 |  |  |  | Cumulative Percent# with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
-| S t u dy | No. of P ati e n ts | T r e atm e nt G ro ups | Day 14 | Day 28 | S i g ni fi c a nce Le vel * |
+| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Level * |
 | 1 | 573 | Esomeprazole 20 mg | 64.3% | 72.7% | N.S. |
 | 555 | Omeprazole 20 mg | 64.1% | 70.9% |  |  |
 | 2 | 621 | Esomeprazole 40 mg | 64.8% | 74.2% | p < 0.001 |
@@ -42,11 +42,11 @@ Table 10: Sustained Resolution‡ of Heartburn (Erosive Esophagitis Patients)
 
 ‡Defined as 7 consecutive days with no heartburn reported in daily patient diary.
 
-#Defined as the cumulative proportion of patients who have reached the start of sustained resolution
+#Defined as the cumulative proportion of patients who have reached the start of sustained resolution.
 
-*log-rank test vs. omeprazole 20 mg
+*log-rank test vs. omeprazole 20 mg.
 
-N.S. = not significant (p > 0.05).
+N.S. = not significant (p > 0.05)
 
 In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for esomeprazole 40 mg, 7 to 8 days for esomeprazole 20 mg and 7 to 9 days for omeprazole 20 mg.
 
@@ -86,7 +86,7 @@ No significant treatment related differences were seen.
 
 1 to 11 Years of Age
 
-In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically proven GERD (1 to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with esomeprazole magnesium once daily for up to 8 weeks to evaluate safety and tolerability.
+In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically-proven GERD (1 to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with esomeprazole magnesium once daily for up to 8 weeks to evaluate safety and tolerability.
 Dosing by patient weight was as follows:
 
 weight < 20 kg: once daily treatment with esomeprazole 5 mg or 10 mg
@@ -114,17 +114,17 @@ See Table 11.
 No additional benefit was seen with esomeprazole 40 mg over esomeprazole 20 mg.
 These studies did not demonstrate significant reduction in the development of NSAID-associated duodenal ulcer due to the low incidence.
 
-Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks:
+Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks
 
 | Study | No. of Patients | Treatment Group | % of Patients Remaining Gastric Ulcer Free1 |
 | --- | --- | --- | --- |
 | 1 | 191 194 184 | Esomeprazole 20 mg Esomeprazole 40 mg Placebo | 95.4 96.7 88.2 |
 | 2 | 267 271 257 | Esomeprazole 20 mg Esomeprazole 40 mg Placebo | 94.7 95.3 83.3 |
 
-1 %= Life Table Estimate.
+1. %= Life Table Estimate.
 Significant difference from placebo (p<0.01).
 
-## 14.5 Helicobacter pylori (H. Pylori) Eradication in Patients with Duodenal Ulcer Disease
+## 14.5 Helicobacter pylori (H. pylori) Eradication in Patients with Duodenal Ulcer Disease
 
 Triple Therapy (esomeprazole magnesium /amoxicillin/clarithromycin): Two multicenter, randomized, double-blind studies were conducted using a 10 day treatment regimen.
 The first study (191) compared esomeprazole 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to esomeprazole 40 mg once daily plus clarithromycin 500 mg twice daily.
@@ -153,9 +153,9 @@ Patients who dropped out of the study due to an adverse reaction related to the 
 ‡ Patients were included in the analysis if they had documented H. pylori infection at baseline, had at least one documented duodenal ulcer at baseline, or had a documented history of duodenal ulcer disease, and took at least one dose of study medication.
 All dropouts were included as not H. pylori eradicated.
 
-*p < 0.05 compared to esomeprazole plus clarithromycin
+*p < 0.05 compared to esomeprazole plus clarithromycin.
 
-**p < 0.05 compared to esomeprazole alone
+**p < 0.05 compared to esomeprazole alone.
 
 The percentage of patients with a healed baseline duodenal ulcer by 4 weeks after the 10 day treatment regimen in the esomeprazole plus amoxicillin and clarithromycin group was 75% (n=156) and 57% (n=60) respectively, in the 191 and 193 studies (per-protocol analysis).
 

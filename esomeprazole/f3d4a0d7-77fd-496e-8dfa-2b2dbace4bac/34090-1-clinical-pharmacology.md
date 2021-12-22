@@ -17,8 +17,8 @@ The results are shown in the Table 3: Table 3: Effect on Intragastric pH on Day 
 
 | Parameter | Esomeprazole 40 mg | Esomeprazole 20 mg |
 | --- | --- | --- |
-| % Time Gastric pH >41(Hours) Coefficient of variation Median 24 Hour pH Coefficient of variation | 70%2 (16.8 h) 26% 4.92 16% | 53% (12.7) 37% 4.1 27% |
-| 1.Gastric pH was measured over a 24-hour period 2.p< 0.01 esomeprazole 40 mg vs. esomeprazole 20 mg |  |  |
+| % Time Gastric pH >41(Hours) Coefficient of variation Median 24 Hour pH Coefficient of variation | 70%2 (16.8 h) 26% 4.92 16% | 53% (12.7 h) 37% 4.1 27% |
+| 1. Gastric pH was measured over a 24-hour period 2. p< 0.01 esomeprazole 40 mg vs. esomeprazole 20 mg |  |  |
 
 In a second study, the effect on intragastric pH of esomeprazole 40 mg administered once daily over a five day period was similar to the first study, (% time with pH > 4 was 68% or 16.3 hours).
 
@@ -55,7 +55,7 @@ Absorption
 
 Esomeprazole magnesium delayed-release capsules, USP contain a bioequivalent enteric-coated granule formulation of esomeprazole magnesium.
 Bioequivalency is based on a single dose (40 mg) study in 94 healthy male and female volunteers under fasting condition.
-After oral administration peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
+After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
 The Cmaxincreases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 µmol*hr/L on Day 1 to 11.2 µmol*hr/L on Day 5 after 40 mg once daily dosing.
@@ -84,9 +84,9 @@ Metabolism
 
 Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
 The metabolites of esomeprazole lack antisecretory activity.
-The major part of esomeprazole’s metabolism is dependent upon the CYP 2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
-The remaining amount is dependent on CYP 3A4 which forms the sulphone metabolite.
-CYP 2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP 2C19 and are termed Poor Metabolizers.
+The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
+The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
+CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
 At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive Metabolizers) is approximately 2.
 
 Following administration of equimolar doses, the S-and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S-than of the R-isomer.
@@ -115,7 +115,7 @@ Pharmacodynamic parameters were also measured and demonstrated that the change i
 
 Concomitant Use with Mycophenolate Mofetil
 
-Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the C max and 23% reduction in the AUC of MPA.
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
 Specific Populations
 
@@ -139,12 +139,12 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |
 | AUC (µmol.h/L)* | 4.83 | 3.70 | 6.28 |
-| Cmax (µmol/L) | 2.98 | 1.77 | 3.73 |
+| Cmax (µmol/L)* | 2.98 | 1.77 | 3.73 |
 | tmax (h)† | 1.44 | 1.79 | 1.75 |
 | t½λz (h)* | 0.74 | 0.88 | 0.73 |
 | Cl/F (L/h)* | 5.99 | 7.84 | 9.22 |
 
-*Geometric mean; †arithmetic mean
+*Geometric mean †Arithmetic mean
 
 12 to 17 Years of Age
 
@@ -159,7 +159,7 @@ Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults 
 | 12 to 17 Year Olds (N=28) |  |  | Adults (N=36) |  |
 | --- | --- | --- | --- | --- |
 |  | 20 mg | 40 mg | 20 mg | 40 mg |
-| AUC(μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| AUC(μmol.h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax(μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
@@ -189,7 +189,7 @@ Other pharmacokinetic observations
 
 Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
 
-Studies evaluating concomitant administration of esomeprazole and either naproxen (non selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAID
+Studies evaluating concomitant administration of esomeprazole and either naproxen (nonselective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 
 ## 12.4 Microbiology
 
@@ -214,9 +214,9 @@ Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 | Intermediateb 1 | 1 | 0 | 0 | 0 | 0 |
 | Resistantb 29 | 13 | 1 | 0 | 13 | 2 |
 
-aIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results
+a. Includes only patients with pretreatment and post-treatment clarithromycin susceptibility test results
 
-bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL
+b. Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL
 
 Patients not eradicated of H. pylori following esomeprazole magnesium /amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, when possible.

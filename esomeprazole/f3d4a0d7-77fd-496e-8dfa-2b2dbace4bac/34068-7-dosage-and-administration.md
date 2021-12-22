@@ -1,12 +1,13 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Esomeprazole magnesium is supplied as delayed-release capsules, USP for oral administration.
-The recommended dosages are outlined in Table 1. esomeprazole magnesium should be taken at least one hour before meals.
+The recommended dosages are outlined in Table 1.
+Esomeprazole magnesium should be taken at least one hour before meals.
 
 The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
 Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
 
-Table 1: Recommended Dosage Schedule of esomeprazole magnesium
+Table 1: Recommended Dosage Schedule for esomeprazole magnesium
 
 | Indication | Dose | Frequency |
 | --- | --- | --- |
@@ -30,9 +31,7 @@ Table 1: Recommended Dosage Schedule of esomeprazole magnesium
 | Pathological Hypersecretory Conditions Including Zollinger- Ellison Syndrome | 40 mg6 | Twice Daily7 |
 
 1.
-[See Clinical Studies.
-(14.1).]
-The majority of patients are healed within 4 to 8 weeks.
+[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks.
 For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered.
 
 2.
@@ -68,7 +67,7 @@ Table 2: Administration Options
 | --- | --- | --- |
 | Dosage Form | Route | Options |
 | Delayed-Release Capsules | Oral | Capsule can be swallowed whole. -or- Capsule can be opened and mixed with applesauce. |
-| Delayed-Release Capsules | Nasogastric Tube | Capsule can be opened and the intact granules emptied into a syringe and delivered through the nasogastric tube |
+| Delayed-Release Capsules | Nasogastric Tube | Capsule can be opened and the intact granules emptied into a syringe and delivered through the nasogastric tube. |
 
 Esomeprazole magnesium delayed-release capsules, USP
 

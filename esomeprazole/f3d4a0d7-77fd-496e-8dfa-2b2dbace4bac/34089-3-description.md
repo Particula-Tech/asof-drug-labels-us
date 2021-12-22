@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in the proton pump inhibitor esomeprazole magnesium delayed-release capsules for oral administration is bis (5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2­ pyridinyl) methyl] sulfinyl] benzimidazole, magnesium salt dihydrate.
+The active ingredient in the proton pump inhibitor esomeprazole magnesium delayed-release capsules, for oral administration is bis (5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2­ pyridinyl) methyl] sulfinyl] benzimidazole, magnesium salt dihydrate.
 Esomeprazole is the S-isomer of omeprazole, which is a mixture of the S- and R- isomers.
 (Initial U.S. approval of esomeprazole magnesium: 2001).
 Its molecular formula is C34H36MgN6O6S2.2H2O with molecular weight of 749.15 as a dihydrate and 713.1 on an anhydrous basis.

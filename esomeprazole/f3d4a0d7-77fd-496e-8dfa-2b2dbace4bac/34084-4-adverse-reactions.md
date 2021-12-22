@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
@@ -28,7 +28,7 @@ Endocrine: goiter;
 Gastrointestinal: bowel irregularity, constipation aggravated, dyspepsia, dysphagia, dysplasia GI, epigastric pain, eructation, esophageal disorder, frequent stools, gastroenteritis, GI hemorrhage, GI symptoms not otherwise specified, hiccup, melena, mouth disorder, pharynx disorder, rectal disorder, serum gastrin increased, tongue disorder, tongue edema, ulcerative stomatitis, vomiting; Hearing: earache, tinnitus;
 
 Hematologic: anemia, anemia hypochromic, cervical lymphadenopathy, epistaxis, leukocytosis, leukopenia, thrombocytopenia; Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased; Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease; Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica; Nervous System/Psychiatric: anorexia, apathy, appetite increased, confusion, depression aggravated, dizziness, hypertonia, nervousness, hypoesthesia, impotence, insomnia, migraine, migraine aggravated, paresthesia, sleep disorder, somnolence, tremor, vertigo, visual field defect; Reproductive: dysmenorrhea, menstrual disorder, vaginitis; Respiratory: asthma aggravated, coughing, dyspnea, larynx edema, pharyngitis, rhinitis, sinusitis; Skin and Appendages: acne, angioedema, dermatitis, pruritus, pruritus ani, rash, rash erythematous, rash maculo-papular, skin inflammation, sweating increased, urticaria; Special Senses: otitis media, parosmia, taste loss, taste perversion; Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, hematuria, micturition frequency, moniliasis, genital moniliasis, polyuria; Visual: conjunctivitis, vision abnormal.
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to esomeprazole magnesium, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to esomeprazole magnesium, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone[see Clinical Pharmacology (12)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
 The incidence of treatment-related adverse reactions during 6-month maintenance treatment was similar to placebo.
@@ -43,7 +43,8 @@ No new safety concerns were identified in pediatric patients.
 Combination Treatment with Amoxicillin and Clarithromycin In clinical trials using combination therapy with esomeprazole magnesium plus amoxicillin and clarithromycin, no additional adverse reactions specific to these drug combinations were observed.
 Adverse reactions that occurred were limited to those observed when using esomeprazole magnesium, amoxicillin, or clarithromycin alone.
 The most frequently reported drug-related adverse reactions for patients who received triple therapy for 10 days were diarrhea (9.2%), taste perversion (6.6%), and abdominal pain (3.7%).
-No treatment-emergent adverse reactions were observed at higher rates with triple therapy than were observed with esomeprazole magnesium alone.For more information on adverse reactions with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions sections.
+No treatment-emergent adverse reactions were observed at higher rates with triple therapy than were observed with esomeprazole magnesium alone.
+For more information on adverse reactions with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions sections.
 In clinical trials using combination therapy with esomeprazole magnesium plus amoxicillin and clarithromycin, no additional increased laboratory abnormalities particular to these drug combinations were observed.
 For more information on laboratory changes with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions section.
 
@@ -51,13 +52,13 @@ For more information on laboratory changes with amoxicillin or clarithromycin, r
 
 The following adverse reactions have been identified during post-approval use of esomeprazole magnesium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reports are listed below by body system: Blood And Lymphatic: agranulocytosis, pancytopenia; Eye: blurred vision;
+These reports are listed below by body system: Blood and Lymphatic: agranulocytosis, pancytopenia; Eye: blurred vision;
 
-Gastrointestinal: pancreatitis; stomatitis; microscopic colitis, fundic glands polyps; Hepatobiliary: hepatic failure, hepatitis with or without jaundice; Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
+Gastrointestinal: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps; Hepatobiliary: hepatic failure, hepatitis with or without jaundice; Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 
-Infections and Infestations: GI candidiasis; Clostridium difficile associated diarrhea;
+Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
 
-Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia
+Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia;
 
 Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 

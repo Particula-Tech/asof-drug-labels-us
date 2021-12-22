@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Esomeprazole magnesium delayed-release capsules, USP
+Esomeprazole Magnesium Delayed-Release Capsules, USP
 
 (es ″ oh mep′ ra zole mag nee′ zee um)
 
@@ -15,8 +15,8 @@ Talk with your doctor.
 
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
-· A type of kidney problem (acute interstitial nephritis).
-Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole magnesium, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with Esomeprazole magnesium.
+· A type of kidney problem (acute tubulointerstitial nephritis).
+Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole magnesium, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with Esomeprazole magnesium.
 Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 
 - Diarrhea.
@@ -26,7 +26,7 @@ Call your doctor if you have a decrease in the amount that you urinate or if you
 Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 
 - Bone fractures.
-  People who take multiple daily doses of Proton Pump Inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take esomeprazole magnesium delayed-release capsules.
 
@@ -64,16 +64,16 @@ Do not take esomeprazole magnesium delayed-release capsules, USP if you:
 
 - are allergic to esomeprazole magnesium or any of the ingredients in esomeprazole magnesium delayed-release capsules, USP.
   See the end of this Medication Guide for a complete list of ingredients in esomeprazole magnesium delayed-release capsules, USP.
-- are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- are allergic to any other PPI medicine.
 
 What should I tell my doctor before taking esomeprazole magnesium delayed-release capsules?
 
 Before you take esomeprazole magnesium delayed-release capsules, tell your doctor if you:
 
-- have been told that you have low magnesium levels in your blood
-- have liver problems
+- have been told that you have low magnesium levels in your blood.
+- have liver problems.
 - are pregnant or plan to become pregnant.
-  It is not known if esomeprazole magnesium can harm your unborn baby
+  It is not known if esomeprazole magnesium can harm your unborn baby.
 - are breastfeeding or planning to breastfeed.
   Esomeprazole magnesium may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take esomeprazole magnesium delayed-release capsules.
@@ -118,7 +118,7 @@ How should I take esomeprazole magnesium delayed-release capsules, USP?
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
 - If you take too much esomeprazole magnesium delayed-release capsules, USP, call your doctor or local poison control center right away, or go to the nearest hospital emergency room.
-- See the “Instructions for Use” at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules USP through a nasogastric tube.
+- See the “Instructions for Use” at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules, USP through a nasogastric tube.
 
 What are the possible side effects of esomeprazole magnesium delayed-release capsules?
 
@@ -130,7 +130,7 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Stomach acid is needed to absorb vitamin B-12 properly.
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on esomeprazole magnesium delayed-release capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
 
 You may or may not have symptoms of low magnesium.
@@ -147,12 +147,13 @@ Tell your doctor right away if you have any of these symptoms:
 - cramps or muscle aches
 - spasm of the voice box
 
-Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release, capsules USP or during treatment if you will be taking esomeprazole magnesium delayed-release, capsules USP for a long period of time.
+Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules, USP or during treatment if you will be taking esomeprazole magnesium delayed-release capsules, USP for a long period of time.
 
-Stomach growths (fundic gland polyps).
-People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
-- The most common side effects with esomeprazole magnesium delayed-release capsules may include:
+The most common side effects with esomeprazole magnesium delayed-release capsules may include:
+
 - headache
 - diarrhea
 - nausea
@@ -191,6 +192,8 @@ It may harm them.
 This Medication Guide summarizes the most important information about esomeprazole magnesium delayed-release capsules, USP.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about esomeprazole magnesium delayed-release capsules, USP that is written for health professionals.
+
+For more information, call at 1-877-ASC-RX01 (877-272-7901).
 
 What are the ingredients in esomeprazole magnesium delayed-release capsules, USP?
 
@@ -238,6 +241,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: June, 2018
+Revised: March, 2021
 
-PT 2444-02
+PT 2444-03

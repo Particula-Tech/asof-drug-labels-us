@@ -12,7 +12,7 @@ Other possible interaction mechanisms are via CYP2C19.
 
 Reduced concentrations of atazanavir and nelfinavir For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
 Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmaxby 37% and 89% and Cminby 39% and 75% respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hour before atazanavir), AUC was decreased by 94%, Cmaxby 96%, and Cminby 95%.
+Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmaxby 96%, and Cminby 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 Increased concentrations of saquinavir For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmaxby 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole magnesium.
@@ -48,7 +48,7 @@ Clopidogrel
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of esomeprazole magnesium with clopidogrel.
-When using esomeprazole magnesium, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+When using esomeprazole magnesium, consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
 
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmaxand AUC of cilostazol by 18% and 26% respectively.
@@ -61,11 +61,11 @@ Dose adjustment of esomeprazole is not normally required.
 However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 
 Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort an inducer of CYP3A4.
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
 In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium.
 
-## 7.4 Interactions With Investigations of Neuroendocrine Tumors
+## 7.4 Interactions with Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10) and Clinical Pharmacology (12.2)].
 
