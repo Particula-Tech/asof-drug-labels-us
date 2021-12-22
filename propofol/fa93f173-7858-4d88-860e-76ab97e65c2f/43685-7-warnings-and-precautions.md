@@ -181,7 +181,7 @@ Long-term studies in animals have not been performed to evaluate the carcinogeni
 
 Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538.
 Propofol was not mutagenic in either the gene mutation/gene conversion test using Saccharomyces cerevisiae, or in vitro cytogenetic studies in Chinese hamsters.
-In the in vivo mouse micronucleus assay with Chinese Hamsters propofol administration did not produce chromosome aberrations.
+In the in vivo mouse micronucleus assay with Chinese hamsters propofol administration did not produce chromosome aberrations.
 
 ### Impairment of Fertility
 

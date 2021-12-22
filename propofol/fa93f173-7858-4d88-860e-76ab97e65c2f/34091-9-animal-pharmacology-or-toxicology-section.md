@@ -9,8 +9,8 @@ The clinical significance of these nonclinical findings is not known, and health
 
 SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2017 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2021 Sagent Pharmaceuticals, Inc.
 
-Revised: June 2017
+Revised: September 2021
 
 SAGENT Pharmaceuticals®
