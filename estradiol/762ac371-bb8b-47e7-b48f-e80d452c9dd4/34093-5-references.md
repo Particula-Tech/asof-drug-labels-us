@@ -27,9 +27,6 @@
 9. Jackson RD, et al. Effects of Conjugated Equine Estrogen on Risk of Fractures and BMD in Postmenopausal Women With Hysterectomy: Results From the Women's Health Initiative Randomized Trial.
    J Bone Miner Res.
    2006;21:817-828.
-   Hendrix SL, et al. Effects of Conjugated Equine Estrogen on Stroke in the Women's Health Initiative.
-   Circulation.
-   2006;113:2425-2434.
 10. Hendrix SL, et al. Effects of Conjugated Equine Estrogen on Stroke in the Women's Health Initiative.
     Circulation.
     2006;113:2425-2434.

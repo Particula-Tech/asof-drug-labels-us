@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 In a placebo-controlled study, 145 postmenopausal women between 29 and 67 years of age (81.4 percent were White) were randomly assigned to receive 1.25 g of EstroGel (containing 0.75 mg of estradiol) or placebo gel for 12 weeks.
 Efficacy was assessed at 4 and 12 weeks of treatment.
@@ -16,7 +16,7 @@ Table 2 Mean Change from Baseline in the Number and Severity of Hot Flushes per 
 | Week 4Primary timepoint.Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value P values from Elteren’s nonparametric test. | 5.95 (5.17) -5.06 (4.91) | 4.43 (4.13) -5.91 (3.68)0.850.019 Statistically significantly different from placebo. | 2.00 (0.63) -0.31 (0.62) | 1.73 (0.73) -0.63 (0.71)0.320.005 |
 | Week 12Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value | 5.17 (6.52) -5.84 (4.52) | 2.79 (3.70) -7.55 (3.52)1.710.043 | 1.76 (0.84) -0.54 (0.84) | 1.33 (0.97) -1.03 (0.94)0.49<0.001 |
 
-## 14.2 Effects on Vulvar and Vaginal Atrophy
+## 14.2 Effects on Vulvar and Vaginal Atrophy in Postmenopausal Women
 
 Results of the vaginal wall cytology showed a significant (P≤0.001) increase from baseline in the percent of superficial epithelial cells at Week 12 for 1.25 g EstroGel.
 In contrast, no significant change from baseline was observed in the placebo group.
@@ -41,7 +41,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | CHD events Results are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78-1.16) | 54 | 57 |
 | Non-fatal MI | 0.91 (0.73-1.14) | 40 | 43 |
 | CHD death | 1.01 (0.71-1.43) | 16 | 16 |
-| All strokes Ischemic stroke | 1.33 (1.05-1.68) 1.55 (1.19-2.01) | 4538 | 3325 |
+| All strokes Ischemic stroke | 1.33 (1.05-1.68)1.55 (1.19-2.01) | 4538 | 3325 |
 | Deep vein thrombosis Not included in “global index”. | 1.47 (1.06-2.06) | 23 | 15 |
 | Pulmonary embolism | 1.37 (0.90-2.07) | 14 | 10 |
 | Invasive breast cancer | 0.80 (0.62-1.04) | 28 | 34 |
@@ -54,16 +54,14 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Overall mortality | 1.04 (0.88-1.22) | 79 | 75 |
 | Global index A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.
-9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 See Table 3.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving estrogen-alone compared to placebo.
-Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.
-10 See Table 3.
+Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10 See Table 3.
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
@@ -79,8 +77,7 @@ Results of the CE plus MPA substudy, which included 16,608 women (average 63 yea
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 4 Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years Adapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi.
-Results are based on centrally adjudicated data.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.Results are based on centrally adjudicated data.
 
 | Event | Relative Risk CE/MPA vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebo n = 8,102 |
 | --- | --- | --- | --- |

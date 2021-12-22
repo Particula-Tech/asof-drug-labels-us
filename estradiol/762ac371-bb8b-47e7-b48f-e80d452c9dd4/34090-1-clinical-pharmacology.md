@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-EstroGel provides systemic estrogen therapy by releasing estradiol, the major estrogenic hormone secreted by the human ovary.
-
 ## 12.1 Mechanism of Action
 
 Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
@@ -20,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for EstroGel.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to EstroGel nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -57,9 +56,7 @@ Excretion
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
 The apparent terminal exponential half-life for estradiol was about 36 hours following administration of 1.25 g EstroGel.
-Use in Specific Populations
 
-No pharmacokinetic studies were conducted in special populations, including patients with renal or hepatic impairment.
 Effect of Application Site Washing
 
 The effect of application site washing on the serum concentrations of estradiol was determined in 24 healthy postmenopausal women who applied 1.25 g of EstroGel once daily for 14 consecutive days.
@@ -72,7 +69,7 @@ No change in endogenous mean serum concentrations of estradiol was observed in t
 Effect of Moisturizer Lotion/Sunscreen on Estradiol Absorption
 
 The effect of sunscreen and moisturizer lotion on estradiol absorption from 0.06% estradiol topical gel was evaluated in a randomized, open-label, three-period crossover study in 42 healthy postmenopausal women.
-The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC 0-24h and C max of estradiol by 16%.
-Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC 0-24h and C max of estradiol by 38% and 73%, respectively.
+The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC0-24h and Cmax of estradiol by 16%.
+Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC0-24h and Cmax of estradiol by 38% and 73%, respectively.
 
 The effect of daily application of sunscreen/moisturizer lotion on estradiol absorption, when sunscreen/moisturizer lotion is applied before administration of 0.06% estradiol topical gel, was not studied.

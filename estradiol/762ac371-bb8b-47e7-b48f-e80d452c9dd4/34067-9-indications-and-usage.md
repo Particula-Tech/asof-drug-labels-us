@@ -6,4 +6,4 @@
 
 Limitation of Use
 
-When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, topical vaginal products should be considered.
+When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, first consider the use of topical vaginal products.
