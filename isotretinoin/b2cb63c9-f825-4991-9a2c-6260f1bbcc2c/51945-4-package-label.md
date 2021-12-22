@@ -12,7 +12,7 @@ Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
-- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Only fill Amnesteem after authorization for the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Dispense no more than a 30-day supply.
 - •An Amnesteem Medication Guide is included in each Prescription Pack.
 - •Dispense Prescription Packs intact.
@@ -20,7 +20,7 @@ Special Instructions to Pharmacists:
 
 Reminders for Pharmacists:
 
-- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
@@ -49,7 +49,7 @@ AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Via
 
 Mylan.com
 
-MCAT:6611:93:30C:R3
+MCAT:6611:93:30C:R4
 
 # PRINCIPAL DISPLAY PANEL – 20 mg
 
@@ -65,7 +65,7 @@ Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
-- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Only fill Amnesteem after authorization for the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Dispense no more than a 30-day supply.
 - •An Amnesteem Medication Guide is included in each Prescription Pack.
 - •Dispense Prescription Packs intact.
@@ -73,7 +73,7 @@ Special Instructions to Pharmacists:
 
 Reminders for Pharmacists:
 
-- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
@@ -102,7 +102,7 @@ AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Via
 
 Mylan.com
 
-MCAT:6612:93:30C:R3
+MCAT:6612:93:30C:R4
 
 # PRINCIPAL DISPLAY PANEL – 40 mg
 
@@ -118,7 +118,7 @@ Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
-- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Only fill Amnesteem after authorization for the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Dispense no more than a 30-day supply.
 - •An Amnesteem Medication Guide is included in each Prescription Pack.
 - •Dispense Prescription Packs intact.
@@ -126,7 +126,7 @@ Special Instructions to Pharmacists:
 
 Reminders for Pharmacists:
 
-- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
 - •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
@@ -155,4 +155,4 @@ AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Via
 
 Mylan.com
 
-MCAT:6614:93:30C:R3
+MCAT:6614:93:30C:R4
