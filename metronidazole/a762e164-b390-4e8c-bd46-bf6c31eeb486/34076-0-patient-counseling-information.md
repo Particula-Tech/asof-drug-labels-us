@@ -6,11 +6,11 @@ Advise the lactating women to pump and discard their milk during treatment with 
 
 Hypersensitivity
 
-Inform patients that PYLERA may cause allergic reactions and to discontinue PYLERA at the first sign of urticaria, erythematous rash, flushing, and fever or other symptoms of an allergic reaction [see Contraindications (4.5)].
+Inform patients that PYLERA may cause allergic reactions and to discontinue PYLERA at the first sign of urticaria, erythematous rash, flushing, and fever or other symptoms of an allergic reaction [see Contraindications (4.7)].
 
 Central Nervous System Effects
 
-Inform patients of the risk of central and peripheral nervous system effects with PYELRA and to discontinue PYLERA and report immediately to their health-care provider if any neurologic symptoms occur [see Warnings and Precautions (5.5)].
+Inform patients of the risk of central and peripheral nervous system effects with PYLERA and to discontinue PYLERA and report immediately to their health-care provider if any neurologic symptoms occur [see Warnings and Precautions (5.5)].
 
 Photosensitivity
 
@@ -66,6 +66,4 @@ All rights reserved.
 
 Pylera® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
 
-v1.0USPI601
-
-Component Number: 73205US11
+v2.0USPI601

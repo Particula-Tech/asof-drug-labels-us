@@ -11,12 +11,12 @@ It is unknown whether metronidazole is associated with carcinogenicity in humans
 Tetracycline can cause fetal harm when administered to a pregnant woman.
 Based on animal data, use of drugs of the tetracycline class during the second and third trimester of pregnancy can cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.4)].
 Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
-If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Contraindications (4.5) and Use in Specific Populations (8.1)].
+If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Contraindications (4.6) and Use in Specific Populations (8.1)].
 
 ## 5.3 Maternal Toxicity
 
 Tetracycline, a component of PYLERA, administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
-This syndrome may result in stillborn or premature birth due to maternal pathology [see Contraindications (4.5) and Use in Specific Populations (8.1)].
+This syndrome may result in stillborn or premature birth due to maternal pathology [see Contraindications (4.6) and Use in Specific Populations (8.1)].
 
 ## 5.4 Tooth Enamel Discoloration and Hypoplasia
 
@@ -130,11 +130,3 @@ If no therapeutic alternatives to PYLERA are available, and concomitant administ
 Drugs that Prolong the QT interval
 
 QT prolongation has been reported with metronidazole, a component of PYLERA, particularly when administered with drugs with the potential for prolonging the QT interval.
-
-## 5.15 Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
-
-Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
-In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
-Obtain liver function tests prior to the start of therapy, within the first 2-3 days after initiation of therapy, frequently during therapy and after end of treatment.
-Discontinue metronidazole if elevation of liver function occurs, and monitor liver function tests until the baseline values are reached.
-Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.

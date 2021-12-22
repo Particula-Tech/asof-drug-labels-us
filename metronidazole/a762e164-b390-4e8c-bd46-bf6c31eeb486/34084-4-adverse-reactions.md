@@ -79,7 +79,7 @@ Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain, constipation, anorexia, metallic taste, furry tongue, glossitis, stomatitis and candida overgrowth.
 
-Hypersensitivity/Immune system disorders: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever [see Contraindications (4.5)].
+Hypersensitivity/Immune system disorders: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever [see Contraindications (4.6)].
 
 Metabolism and nutrition disorders: Pancreatitis.
 
@@ -88,6 +88,8 @@ Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningiti
 Dermatologic disorders: Erythematous rash and pruritus.
 
 Renal and urinary disorders: Dysuria, cystitis, polyuria, incontinence, darkened urine, and a sense of pelvic pressure.
+
+Hepatic: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) [see Contraindications (4.4)].
 
 Other: Dyspareunia, decrease of libido, proctitis, joint pains.
 

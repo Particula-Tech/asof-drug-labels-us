@@ -7,7 +7,6 @@ An open-label, parallel group, active-controlled, multicenter study in Helicobac
 Patients were randomized to one of the following 10-day treatment regimens:
 
 - Three (3) PYLERA capsules four times daily, after meals and at bedtime plus 20 mg omeprazole twice a day after the morning and evening meals (OBMT).
-
 - Clarithromycin 500 mg plus 1000 mg amoxicillin plus 20 mg omeprazole twice a day before the morning and evening meals (OAC).
 
 H. pylori eradication rates, defined as two negative 13C-urea breath tests performed at 4 and 8 weeks post-therapy are shown in Table 6 for OBMT and OAC.

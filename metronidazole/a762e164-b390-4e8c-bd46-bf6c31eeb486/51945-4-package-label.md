@@ -1,23 +1,39 @@
-PRINCIPAL DISPLAY PANEL Pylera 120 count label NDC 58914-601-21 Rx Only
+PRINCIPAL DISPLAY PANEL
+
+120 Capsules
+
+NDC 58914-601-21
+
+Pylera Capsules
+
+(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) Rx Only
+
+Combination therapy indicated for the eradication of Helicobacter pylori
 
 Pylera 120 count carton
 
-PRINCIPAL DISPLAY PANEL Pylera Blister 10 Day Therapy Pak 120 Capsules in 10 blister cards NDC 58914-601-20 Rx Only
+PRINCIPAL DISPLAY PANEL
+
+120 Capsules
+
+NDC 58914-601-21
+
+Pylera Capsules
+
+(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) Rx Only
+
+Combination therapy indicated for the eradication of Helicobacter pylori
+
+Daily Dosing Dispenser included
+
+PRINCIPAL DISPLAY PANEL NDC 58914-601-20
+
+120 Capsules in 10 blister cards Each card contains 4 blisters Each blister contains 3 capsules Pylera Capsules
+
+(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) 10-Day Therapy Pak Rx Only
+
+Combination therapy indicated for the eradication of Helicobacter pylori
+
+One blister card – one day of therapy
 
 Pylera Blister 10 Day Therapy Printmat
-
-| PYLERA bismuth subcitrate potassium, metronidazole, tetracycline hydrochloride capsule |
-| --- |
-
-| Labeler - Allergan, Inc. (144796497) |
-| --- |
-
-| Establishment |  |  |  |
-| --- | --- | --- | --- |
-| Name | Address | ID/FEI | Business Operations |
-| Confab Laboratories Inc |  | 241754217 | MANUFACTURE(58914-601), PACK(58914-601) |
-
-| Establishment |  |  |  |
-| --- | --- | --- | --- |
-| Name | Address | ID/FEI | Business Operations |
-| Neopharm Labs Inc |  | 243379372 | ANALYSIS(58914-601) |
