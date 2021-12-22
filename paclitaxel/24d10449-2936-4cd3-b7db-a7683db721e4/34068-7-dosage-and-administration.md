@@ -37,10 +37,7 @@ Table 1: Recommendations for Starting Dose in Patients with Moderate and Severe 
 | Moderate | < 10 x ULN | AND | > 1.5 to ≤ 3 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
 | Severe | < 10 x ULN | AND | > 3 to ≤ 5 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
 |  | > 10 x ULN | OR | > 5 x ULN | not recommended | not recommended | not recommended |
-| AST = Aspartate Aminotransferase; MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer; ULN = Upper limit of normal. |  |  |  |  |  |  |
-| a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |  |
-| b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. |  |  |  |  |  |  |
-| c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
+| AST = Aspartate Aminotransferase; MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer; ULN = Upper limit of normal. a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
 
 ## 2.6 Dosage Modifications for Adverse Reactions
 
@@ -50,10 +47,10 @@ For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, 
 
 Non-Small Cell Lung Cancer
 
-- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
-- In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
+- •Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+- •In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
   Upon resumption of dosing, permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2.
-- Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.
+- •Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.
   Resume ABRAXANE and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Reactions in NSCLC
@@ -84,30 +81,30 @@ Recommended dose modifications for neutropenia and thrombocytopenia for patients
 
 Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocytopenia at the Start of a Cycle or within a Cycle for Patients with Adenocarcinoma of the Pancreas
 
-| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | ABRAXANE / Gemcitabine |
-| --- | --- | --- | --- | --- |
-| Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |
-| Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |
-|  | < 500 | OR | < 50,000 | Withhold doses |
-| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |
-|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |
-|  | < 500 | OR | < 50,000 | Withhold doses |
-| Day 15: If Day 8 doses were withheld: |  |  |  |  |
-|  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |
-|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |
-|  | < 500 | OR | < 50,000 | Withhold doses |
-| ANC = Absolute Neutrophil Count |  |  |  |  |
+| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | ABRAXANE / Gemcitabine |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |  |  |  |  |  |  |  |
+| Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |  |  |  |  |  |  |  |
+|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
+| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |  |  |  |  |  |  |  |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |  |  |  |  |  |  |  |
+|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
+| Day 15: If Day 8 doses were withheld: |  |  |  |  |  |  |  |  |  |  |  |
+|  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |  |  |  |  |  |  |  |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |  |  |  |  |  |  |  |
+|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
+| ANC = Absolute Neutrophil Count |  |  |  |  |  |  |  |  |  |  |  |
 
 Recommended dose modifications for other adverse reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
 
 Table 5: Dose Modifications for Other Adverse Reactions in Patients with Adenocarcinoma of the Pancreas
 
-| Adverse Reaction | ABRAXANE | Gemcitabine |  |
-| --- | --- | --- | --- |
-| Febrile Neutropenia: Grade 3 or 4 | Withhold until fever resolves and ANC ≥ 1500; resume at next lower dose level |  |  |
-| Peripheral Neuropathy: Grade 3 or 4 | Withhold until improves to ≤ Grade 1; resume at next lower dose level | No dose reduction |  |
-| Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose level; discontinue treatment if toxicity persists |  |  |
-| Gastrointestinal Toxicity: Grade 3 mucositis or diarrhea | Withhold until improves to ≤ Grade 1; resume at next lower dose level |  |  |
+| Adverse Reaction | ABRAXANE | Gemcitabine |
+| --- | --- | --- |
+| Febrile Neutropenia: Grade 3 or 4 | Withhold until fever resolves and ANC ≥ 1500; resume at next lower dose level |  |
+| Peripheral Neuropathy: Grade 3 or 4 | Withhold until improves to ≤ Grade 1; resume at next lower dose level | No dose reduction |
+| Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose level; discontinue treatment if toxicity persists |  |
+| Gastrointestinal Toxicity: Grade 3 mucositis or diarrhea | Withhold until improves to ≤ Grade 1; resume at next lower dose level |  |
 
 ## 2.7 Preparation for Intravenous Administration
 
@@ -121,7 +118,7 @@ ABRAXANE is supplied as a sterile lyophilized powder for reconstitution before u
 
 Read the entire preparation instructions prior to reconstitution.
 
-| Aseptically, reconstitute each vial by injecting 20 mL of 0.9% Sodium Chloride Injection, USP.Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, USP, over a minimum of 1 minute, using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL. DO NOT INJECT the 0.9% Sodium Chloride Injection, USP, directly onto the lyophilized cake as this will result in foaming. Once the injection is complete, allow the vial to sit for a minimum of 5 minutes to ensure proper wetting of the lyophilized cake/powder.Gently swirl and/or invert the vial slowly for at least 2 minutes until complete dissolution of any cake/powder occurs. Avoid generation of foam.If foaming or clumping occurs, stand solution for at least 15 minutes until foam subsides. |
+| 1.Aseptically, reconstitute each vial by injecting 20 mL of 0.9% Sodium Chloride Injection, USP.2.Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, USP, over a minimum of 1 minute, using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL. 3.DO NOT INJECT the 0.9% Sodium Chloride Injection, USP, directly onto the lyophilized cake as this will result in foaming. 4.Once the injection is complete, allow the vial to sit for a minimum of 5 minutes to ensure proper wetting of the lyophilized cake/powder.5.Gently swirl and/or invert the vial slowly for at least 2 minutes until complete dissolution of any cake/powder occurs. Avoid generation of foam.6.If foaming or clumping occurs, stand solution for at least 15 minutes until foam subsides. |
 | --- |
 
 Each mL of the reconstituted formulation will contain 5 mg/mL paclitaxel.

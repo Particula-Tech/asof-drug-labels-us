@@ -28,9 +28,7 @@ Table 11: Efficacy Results from Randomized Metastatic Breast Cancer Trial
 | All randomized patients | Response Rate [95% CI] | 50/233 (21.5%) [16.19% – 26.73%] | 25/227 (11.1%) [6.94% – 15.09%] |
 | p-valueb | 0.003 |  |  |
 | Patients who had failed combination chemotherapy or relapsed within 6 months of adjuvant chemotherapyc | Response Rate [95% CI] | 20/129 (15.5%) [9.26% – 21.75%] | 12/143 (8.4%) [3.85% – 12.94%] |
-| a Reconciled Target Lesion Response Rate (TLRR) was the prospectively defined protocol specific endpoint, based on independent radiologic assessment of tumor responses reconciled with investigator responses (which also included clinical information) for the first 6 cycles of therapy. The reconciled TLRR was lower than the investigator Reported Response Rates, which are based on all cycles of therapy. |  |  |  |
-| b From Cochran-Mantel-Haenszel test stratified by 1st line vs. > 1st line therapy. |  |  |  |
-| c Prior therapy included an anthracycline unless clinically contraindicated. |  |  |  |
+| a Reconciled Target Lesion Response Rate (TLRR) was the prospectively defined protocol specific endpoint, based on independent radiologic assessment of tumor responses reconciled with investigator responses (which also included clinical information) for the first 6 cycles of therapy. The reconciled TLRR was lower than the investigator Reported Response Rates, which are based on all cycles of therapy. b From Cochran-Mantel-Haenszel test stratified by 1st line vs. > 1st line therapy. c Prior therapy included an anthracycline unless clinically contraindicated. |  |  |  |
 
 ## 14.2 Non-Small Cell Lung Cancer
 
@@ -102,11 +100,7 @@ Table 13: Efficacy Results from Randomized Study in Patients with Adenocarcinoma
 | Confirmed complete or partial overall response, n (%) | 99 (23) | 31 (7) |
 | 95% CI | 19.1, 27.2 | 5.0, 10.1 |
 | P-value d | <0.0001 |  |
-| CI = confidence interval, HR = hazard ratio of ABRAXANE plus gemcitabine / gemcitabine, ITT = intent-to-treat population. |  |  |
-| a Stratified Cox proportional hazard model. |  |  |
-| b Stratified log-rank test stratified by geographic region (North America versus Others), Karnofsky performance score (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no). |  |  |
-| c Based on Independent Radiological Reviewer Assessment. |  |  |
-| d Chi-square test. |  |  |
+| CI = confidence interval, HR = hazard ratio of ABRAXANE plus gemcitabine / gemcitabine, ITT = intent-to-treat population. a Stratified Cox proportional hazard model. b Stratified log-rank test stratified by geographic region (North America versus Others), Karnofsky performance score (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no). c Based on Independent Radiological Reviewer Assessment. d Chi-square test. |  |  |
 
 In exploratory analyses conducted in clinically relevant subgroups with a sufficient number of subjects, the treatment effects on overall survival were similar to that observed in the overall study population.
 
