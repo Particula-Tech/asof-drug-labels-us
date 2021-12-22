@@ -44,7 +44,7 @@ Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and pl
 
 Increases in Liver Enzymes
 
-In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking fenofibrate at doses equivalent to 90 mg fenofibrate daily versus 1.1% of patients treated with placebo.
+In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking fenofibrate at doses equivalent to 130 mg fenofibrate daily versus 1.1% of patients treated with placebo.
 
 ## 6.2 Postmarketing Experience
 

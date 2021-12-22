@@ -6,7 +6,7 @@ The effects of fenofibrate on coronary heart disease morbidity and mortality and
 
 The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) trial was a randomized placebo-controlled study of 5518 patients with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
 The mean duration of follow-up was 4.7 years.
-Fenofibrate plus statin combination therapy showed a nonsignificant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, nonfatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p=0.32) as compared to statin monotherapy.
+Fenofibrate plus statin combination therapy showed a non-significant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, nonfatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p=0.32) as compared to statin monotherapy.
 In a gender subgroup analysis, the hazard ratio for MACE in men receiving combination therapy versus statin monotherapy was 0.82 (95% CI 0.69 to 0.99), and the hazard ratio for MACE in women receiving combination therapy versus statin monotherapy was 1.38 (95% CI 0.98 to 1.94) (interaction p=0.01).
 The clinical significance of this subgroup finding is unclear.
 
@@ -42,7 +42,7 @@ Patients with DILI have experienced signs and symptoms including dark urine, abn
 Many patients had concurrent elevations of total bilirubin, serum alanine transaminase (ALT), and aspartate transaminase (AST).
 DILI has been characterized as hepatocellular, chronic active, and cholestatic hepatitis, and cirrhosis has occurred in association with chronic active hepatitis.
 
-In clinical trials, fenofibrate at doses equivalent to 90 mg fenofibrate daily has been associated with increases in serum AST or ALT.
+In clinical trials, fenofibrate at doses equivalent to 130 mg fenofibrate daily has been associated with increases in serum AST or ALT.
 The incidence of increases in transaminases may be dose related [see Adverse Reactions (6.1)].
 
 Fenofibrate is contraindicated in patients with active liver disease, including those with primary biliary cirrhosis and unexplained persistent liver function abnormalities [see Contraindications (4)].
