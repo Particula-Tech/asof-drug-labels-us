@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed elsewhere in labeling:
 
 - Cardiovascular Disorders [see Boxed Warnings and Warnings and Precautions (5.1)]
-- Endometrial Cancer [see Boxed Warnings and Warnings and Precautions (5.2)]
+- Malignant Neoplasms [see Boxed Warnings and Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -60,7 +60,7 @@ Three subjects (2.2 percent) reported mild discomfort while wearing ESTRADIOL TR
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post-approval use of ESTRADIOL TRANSDERMAL SYSTEM.
+The following adverse reactions have been identified during post-approval use of ESTRADIOL TRANSDERMAL SYSTEM.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Breast

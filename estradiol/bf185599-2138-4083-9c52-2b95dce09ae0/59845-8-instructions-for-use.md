@@ -1,4 +1,4 @@
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 ESTRADIOL TRANSDERMAL SYSTEM
 
@@ -13,7 +13,7 @@ Figure A
 Step 1: Pick the days you will change your patch.
 
 - You will need to change your patch 2 times a week or every 3 to 4 days.
-  Use the calendar printed inside your carton to choose the 2 days you will change your patch (See Figure B)
+  Use the calendar printed inside your carton to choose the 2 days you will change your patch (See Figure B).
 - Remember to change your patch on the same 2 days you marked on your calendar.
   If you forget to change your patch on the correct date, apply a new patch as soon as you remember, and continue to follow your original schedule
 
@@ -22,13 +22,13 @@ Figure B
 Step 2.
 Remove the ESTRADIOL TRANSDERMAL SYSTEM patch from the pouch.
 
-- Remove the patch from its protective pouch by tearing at the notch (do not use scissors, See Figure C)
+- Remove the patch from its protective pouch by tearing at the notch (do not use scissors, See Figure C).
 - Do not remove your patch from the protective pouch until you are ready to apply it
 
 Figure C
 
 Step 3.
-Remove half of the adhesive liner (See Figure D)
+Remove half of the adhesive liner (See Figure D).
 
 Figure D
 
@@ -70,8 +70,8 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Distributed by: Grove Pharmaceuticals Miami, FL 33186
 
-Approved 03/2019
+Approved 10/2021
 
 Vivelle® is a registered trademark of Novartis Corporation.
 
-102631-1
+102631-2

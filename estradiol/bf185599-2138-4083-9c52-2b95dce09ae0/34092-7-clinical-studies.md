@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 There have been no efficacy and safety trials conducted with ESTRADIOL TRANSDERMAL SYSTEM.
 In a pharmacokinetic study, ESTRADIOL TRANSDERMAL SYSTEM was shown to be bioequivalent to Vivelle.
@@ -14,7 +14,7 @@ Figure 2: Mean (SD) change from baseline in mean daily number of hot flushes for
 
 The 0.0375 mg dose was superior to placebo in reducing both the frequency and severity of vasomotor symptoms at Weeks 4, 8 and 12 of treatment.
 
-## 14.2 Effects on Bone Mineral Density
+## 14.2 Effects on Bone Mineral Density in Postmenopausal Women
 
 There have been no bone efficacy and safety trials conducted with ESTRADIOL TRANSDERMAL SYSTEM.
 In a pharmacokinetic study, ESTRADIOL TRANSDERMAL SYSTEM was shown to be bioequivalent to Vivelle.

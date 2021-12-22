@@ -1,40 +1,36 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should be considered to reduce the risk of endometrial cancer.
-A woman without a uterus does not need a progestin.
-In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.2, 5.14)].
+Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, consider addition of a progestogen to reduce the risk of endometrial cancer.
+Generally, a woman without a uterus, does not need a progestogen in addition to her estrogen therapy.
+In some cases, however, hysterectomized women who have a history of endometriosis may need a progestogen [see Warnings and Precautions (5.2, 5.14)].
 
-Use of estrogen-alone, or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Postmenopausal women should be re-evaluated periodically as clinically appropriate to determine if treatment is still necessary.
+Use of estrogen-alone, or in combination with a progestogen, at the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Reevaluate postmenopausal women periodically as clinically appropriate to determine if treatment is still necessary.
 
-## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms
+## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
 Start therapy with ESTRADIOL TRANSDERMAL SYSTEM 0.0375 mg per day applied to the skin twice weekly.
-Dosage adjustment should be guided by the clinical response.
+Make dosage adjustments based on clinical response.
 
 Therapy should be started at the lowest effective dose and the shortest duration consistent with the treatment goals.
-Attempts to taper or discontinue the medication should be made at 3 to 6 month intervals.
+Attempts to taper or discontinue the medication at 3 to 6 month intervals.
 
-## 2.2 Prevention of Postmenopausal Osteoporosis
+## 2.2 Prevention of Postmenopausal Osteoporosis due to Menopause
 
-Start therapy with ESTRADIOL TRANSDERMAL SYSTEM 0.025 mg per day applied to the skin twice weekly.
-The dose may be adjusted as necessary.
+## 2.3 Application Instructions
 
-## 2.3 Patch Application Instructions
+Place the adhesive side of ESTRADIOL TRANSDERMAL SYSTEM on a clean, dry area on the lower abdomen (below the umbilicus) or buttocks.
+Do not apply ESTRADIOL TRANSDERMAL SYSTEM to the breasts.
 
-The adhesive side of ESTRADIOL TRANSDERMAL SYSTEM should be placed on a clean, dry area on the lower abdomen (below the umbilicus) or buttocks.
-ESTRADIOL TRANSDERMAL SYSTEM should not be applied to the breasts.
+Replace ESTRADIOL TRANSDERMAL SYSTEM twice weekly (every 3-4 days).
 
-ESTRADIOL TRANSDERMAL SYSTEM should be replaced twice weekly (every 3-4 days).
+Rotate the sites of application, with an interval of at least 1 week allowed between applications to a particular site.
 
-The sites of application must be rotated, with an interval of at least 1 week allowed between applications to a particular site.
-
-The area selected should not be oily, damaged, or irritated.
-The waistline should be avoided, since tight clothing may rub the system off.
-The system should be applied immediately after opening the pouch and removing the protective liner.
-The system should be pressed firmly in place with the palm of the hand for about 10 seconds, making sure there is good contact with the skin, especially around the edges.
-In the event that a system should fall off, the same system may be reapplied.
-If the same system cannot be reapplied, a new system should be applied to another location.
-If a woman has forgotten to apply a patch, she should apply a new patch as soon as possible.
-In either case, the original treatment schedule should be continued.
+Select an area for application that is not oily, damaged, or irritated.
+Avoid the waistline, since tight clothing may rub the system off.
+Apply the system immediately after opening the pouch and removing the protective liner.
+Press the system firmly in place with the palm of the hand for about 10 seconds, making sure there is good contact with the skin, especially around the edges.
+In the event that a system falls off, reapply the same system or apply a new system to another location.
+If a woman has forgotten to apply ESTRADIOL TRANSDERMAL SYSTEM, have her apply a new system as soon as possible.
+Apply the new system on the original treatment schedule.
 The interruption of treatment in women taking ESTRADIOL TRANSDERMAL SYSTEM might increase the likelihood of breakthrough bleeding, spotting and recurrence of symptoms.

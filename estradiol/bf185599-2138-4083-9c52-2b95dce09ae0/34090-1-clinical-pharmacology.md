@@ -18,7 +18,8 @@ Estrogens act to reduce the elevated concentrations of these hormones seen in po
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for ESTRADIOL TRANSDERMAL SYSTEM.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to ESTRADIOL TRANSDERMAL SYSTEM nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -27,7 +28,7 @@ Absorption
 In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, ESTRADIOL TRANSDERMAL SYSTEM (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC0-84) and estradiol peak concentration (Cmax) following a single-dose on the lower abdomen for 84 hours.
 
 Estradiol pharmacokinetics were characterized in a separate open-label, single-center, randomized, single-dose, three-way crossover study conducted in 36 healthy, non-smoking postmenopausal women (aged 40 to 65 years).
-ESTRADIOL TRANSDERMAL SYSTEM transdermal systems delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
+ESTRADIOL TRANSDERMAL SYSTEM delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
 The mean estradiol pharmacokinetics parameters are summarized in Table 2.
 AUC and Cmax are dose proportional from 0.025 mg to 0.1 mg per day.
 
@@ -70,9 +71,9 @@ After removal of the transdermal systems, serum concentrations of estradiol and 
 Adhesion and Adhesive Residue
 
 Based on combined data from bioequivalence and dose proportionality studies consisting of 208 ESTRADIOL TRANSDERMAL SYSTEM observations, approximately 98 percent of the observations had an adhesion score of 0 (i.e., the skin adhesion rate was greater than or equal to 90 percent) over the 84-hour wear period.
-One subject had a complete detachment during the wear period.
+One woman had a complete detachment during the wear period.
 Approximately 65 percent of the transdermal systems evaluated in these studies were with ESTRADIOL TRANSDERMAL SYSTEM 0.1 mg per day (6.6 cm2 active surface area).
 
-After removal of ESTRADIOL TRANSDERMAL SYSTEM, subjects had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
-There were no subjects who had medium adhesive residue.
+After removal of ESTRADIOL TRANSDERMAL SYSTEM, women had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
+No woman had medium adhesive residue.
 Of the 208 ESTRADIOL TRANSDERMAL SYSTEM observations, 54 percent had light adhesive residue and 46 percent had no adhesive residue.

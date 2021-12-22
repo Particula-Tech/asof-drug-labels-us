@@ -27,6 +27,7 @@ Patient Calendar Pack of 8 Systems………………………………….NDC 68
 ## 16.2 Storage and Handling
 
 Store at room temperature 68°F to 77°F (20°C to 25°C); excursions permitted between 15°C and 30°C (59°F and 86°F).
+[See USP Controlled Room Temperature]
 
 Do not store unpouched.
 Apply immediately upon removal from the protective pouch.
