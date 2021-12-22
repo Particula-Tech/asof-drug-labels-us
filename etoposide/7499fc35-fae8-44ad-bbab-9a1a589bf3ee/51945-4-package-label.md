@@ -6,8 +6,14 @@ NDC 61269-410-20
 
 Single-Dose Vial
 
-ETOPOPHOS® (etoposide phosphate) for Injection For IV use
+ETOPOPHOS®
 
-Etoposide phosphate equivalent to 100 mg etoposide
+(etoposide phosphate) for Injection
+
+For IV use
+
+Etoposide phosphate equivalent to
+
+100 mg etoposide
 
 Rx only
