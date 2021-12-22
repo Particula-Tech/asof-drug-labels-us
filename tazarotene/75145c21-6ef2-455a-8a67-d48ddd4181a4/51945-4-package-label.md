@@ -1,7 +1,9 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0023-8335-10 TAZORAC (tazarotene)gel, 0.05% 100 grams Rx Only
+NDC 0023-8335-10 Rx only TAZORAC (tazarotene)gel, 0.05% 100 grams For Dermatologic Use Only Not for Ophthalmic Use Allergan
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0023-0042-10 TAZORAC (tazarotene)gel, 0.1% 100 grams Rx Only
+NDC 0023-0042-10 Rx only TAZORAC (tazarotene)gel, 0.1% 100 grams For Dermatologic Use Only
+
+Not for Ophthalmic Use Allergan

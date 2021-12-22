@@ -22,7 +22,7 @@ For the patient with psoriasis, apply TAZORAC Gel only to psoriasis skin lesions
 
 2.
 If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.
-Treatment may be resumed once irritation subsides [see Dosage and Adminstration (2.1)].
+Treatment may be resumed once irritation subsides [see Dosage and Administration (2.1)].
 
 3.
 Moisturizers may be used as frequently as desired.

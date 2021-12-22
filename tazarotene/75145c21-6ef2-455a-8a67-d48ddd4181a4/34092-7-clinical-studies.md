@@ -30,8 +30,8 @@ Global Improvement over Baseline after Twelve Weeks of Treatment in Two Controll
 | --- | --- | --- | --- | --- | --- | --- |
 |  | N=81 | N=93 | N=79 | N=69 | N=84 | N=91 |
 | 100% improvement | 2 (2%) | 1 (1%) | 0 | 0 | 1 (1%) | 0 |
-| 75% improvement | 23 (28%) | 17 (18%) | 30 (38%) | 17 (25%) | 10 (12%) | 9 (10%) |
-| 50% improvement | 42 (52%) | 39 (42%) | 51 (65%) | 36 (52%) | 28 (33%) | 21 (23%) |
+| ≥75% improvement | 23 (28%) | 17 (18%) | 30 (38%) | 17 (25%) | 10 (12%) | 9 (10%) |
+| ≥50% improvement | 42 (52%) | 39 (42%) | 51 (65%) | 36 (52%) | 28 (33%) | 21 (23%) |
 | 1-49% improvement | 21 (26%) | 32 (34%) | 18 (23%) | 23 (33%) | 27 (32%) | 32 (35%) |
 | No change or worse | 18 (22%) | 22 (24%) | 10 (13%) | 10 (14%) | 29 (35%) | 38 (42%) |
 
@@ -59,7 +59,7 @@ Global Improvement over Baseline after Twelve Weeks of Treatment in Two Controll
 | --- | --- | --- | --- | --- |
 |  | N=105 | N=117 | N=117 | N=110 |
 | 100% improvement | 1 (1%) | 0 | 0 | 0 |
-| 75% improvement | 40 (38%) | 21 (18%) | 23 (20%) | 11 (10%) |
-| 50% improvement | 71 (68%) | 56 (48%) | 47 (40%) | 32 (29%) |
+| ≥75% improvement | 40 (38%) | 21 (18%) | 23 (20%) | 11 (10%) |
+| ≥50% improvement | 71 (68%) | 56 (48%) | 47 (40%) | 32 (29%) |
 | 1-49% improvement | 23 (22%) | 49 (42%) | 48 (41%) | 46 (42%) |
 | No change or worse | 11 (10%) | 12 (10%) | 22 (19%) | 32 (29%) |
