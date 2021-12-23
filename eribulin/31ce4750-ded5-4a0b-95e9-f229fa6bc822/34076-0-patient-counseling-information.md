@@ -20,6 +20,6 @@ Lactation
 
 Advise women not to breastfeed during treatment with HALAVEN and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
 
-Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
+Distributed by: Eisai Inc. Nutley, NJ 07110
 
-© 2021 Eisai Inc.
+© 2010-2021 Eisai Inc.
