@@ -1,6 +1,6 @@
 # Manufactured by
 
-Jiangsu Hengrui Medicine Co., Ltd.
+Jiangsu Hengrui Pharmaceuticals Co., Ltd.
 
 Lianyungang, Jiangsu 222047 China
 
@@ -8,6 +8,6 @@ for
 
 Sandoz Inc., Princeton, NJ 08540
 
-08UF03
+08UF04
 
-Revised February 2015
+Revised August 2021
