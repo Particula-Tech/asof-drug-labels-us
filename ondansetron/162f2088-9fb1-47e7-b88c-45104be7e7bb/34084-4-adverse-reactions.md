@@ -2,10 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- QT prolongation [see Warnings and Precautions (5.2)]
-- Serotonin syndrome [see Warnings and Precautions (5.3)]
-- Masking of progressive ileus and gastric distention [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- QT Prolongation [see Warnings and Precautions (5.2)]
+- Serotonin Syndrome [see Warnings and Precautions (5.3)]
+- Myocardial Ischemia [see Warnings and Precautions (5.4)]
+- Masking of Progressive Ileus and Gastric Distension [see Warnings and Precautions [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -51,7 +52,7 @@ Prevention of Radiation-Induced Nausea and Vomiting
 
 The most common adverse reactions (greater than or equal to 2%) reported in patients receiving ondansetron and concurrent radiotherapy were similar to those reported in patients receiving ondansetron and concurrent chemotherapy and were headache, constipation, and diarrhea.
 
-Prevention of Postoperative Nausea and Vomiting The most common adverse reactions reported in adults in trial(s), of prevention of postoperative nausea and vomiting are shown in Table 4.
+Prevention of Postoperative Nausea and/or Vomiting The most common adverse reactions reported in adults in trial(s), of prevention of postoperative nausea and vomiting are shown in Table 4.
 In these trial(s) patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
 
 Table 4: Most Common Adverse Reactions in Adultsa for the Prevention of Postoperative Nausea and Vomiting
@@ -71,13 +72,15 @@ a Reported in greater than or equal to 5% of patients treated with ondansetron a
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of ondansetron.
+The following adverse reactions have been identified during postapproval use of ondansetron.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular
 
 Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT/QTc interval prolongation, and ST segment depression), palpitations, and syncope.
 Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT interval prolongation have been reported.
+
+Myocardial ischemia was reported predominately with intravenous administration [see Warnings and Precautions (5.4)].
 
 General
 
@@ -93,9 +96,15 @@ Lower Respiratory
 
 Hiccups.
 
-Neurology Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
+Neurology
 
-Skin Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
 
-Eye Disorders Cases of transient blindness, predominantly during intravenous administration, have been reported.
+Skin
+
+Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+
+Eye Disorders
+
+Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

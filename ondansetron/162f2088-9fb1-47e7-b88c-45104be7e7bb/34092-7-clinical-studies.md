@@ -44,7 +44,7 @@ In a double-blind, US trial in 336 patients receiving a cyclophosphamide-based c
 Treatment response was based on the total number of emetic episodes over the 3 day trial period.
 See Table 8 for the details of the dosage regimens studied and results of this trial.
 
-Table 8: Emetic Episodes-Treatment Response after Ondansetron Tablets Administered Twice a Day and Three Times a Day
+Table 8: Emetic Episodes-Treatment Response After Ondansetron Tablets Administered Twice a Day and Three Times a Day
 
 |  | Ondansetron Tablets |  |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ Daily Fractionated Radiotherapy
 In an active-controlled, double-blind trial in 135 patients receiving a 1-to 4-week course of fractionated radiotherapy (180 cGy doses) over a field size of greater than or equal to 100 cm2 to the abdomen, ondansetron was significantly more effective than prochlorperazine with respect to complete control of emesis (0 emetic episodes).
 Patients received the first dose of ondansetron (8 mg) or prochlorperazine (10 mg) 1 to 2 hours before the first daily radiotherapy fraction, with subsequent 8 mg doses approximately every 8 hours on each day of radiotherapy.
 
-## 14.3 Postoperative Nausea and Vomiting
+## 14.3 Postoperative Nausea and/or Vomiting
 
 In 2 placebo-controlled, double-blind trials (one conducted in the US and the other outside the US) in 865 females undergoing inpatient surgical procedures, ondansetron 16 mg as a single dose or placebo was administered one hour before the induction of general balanced anesthesia (barbiturate, opioid, nitrous oxide, neuromuscular blockade, and supplemental isoflurane or enflurane), ondansetron tablets was significantly more effective than placebo in preventing postoperative nausea and vomiting.
 

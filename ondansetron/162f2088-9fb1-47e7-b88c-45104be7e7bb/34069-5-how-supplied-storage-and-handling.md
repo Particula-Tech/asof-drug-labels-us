@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Ondansetron Tablets
+
 Ondansetron Tablets Ondansetron tablets USP, 4 mg (ondansetron hydrochloride USP, equivalent to 4 mg of ondansetron) are white, round, biconvex, film coated tablets debossed “R” on one side and “153” on other side and are supplied in bottles of 30, 100, 500, unit-dose packages of 100 (10 x 10) and unit-dose packages of 3 (1 x 3).
 
 Bottles of 30 NDC 55111-153-30
