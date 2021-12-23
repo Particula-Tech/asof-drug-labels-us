@@ -6,7 +6,9 @@
   "labeler": "Clearside Biomedical, Inc.",
   "package_ndcs": [
     "71565-040-01",
-    "71565-040-25"
+    "71565-040-25",
+    "71565-040-95",
+    "71565-040-99"
   ],
   "products": [
     {
