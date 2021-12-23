@@ -7,6 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Serious Infections [see Warnings and Precautions (5.3)]
 - •Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - •Gastrointestinal Complications [see Warnings and Precautions (5.5)]
+- •Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -146,7 +147,7 @@ The type and frequency of adverse events in a clinical study for prevention of k
 
 Geriatrics
 
-Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+Geriatric patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 ## 6.2 Postmarketing Experience
 

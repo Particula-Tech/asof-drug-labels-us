@@ -23,7 +23,7 @@ Patients should be instructed to take a missed dose as soon as they remember, ex
 
 Adults
 
-The recommended dose for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
+The recommended dosage for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
 
 Pediatrics (3 months and older)
 
@@ -40,11 +40,11 @@ Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
 ## 2.3 Dosing for Heart Transplant Patients: Adults
 
-The recommended dose of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally or intravenously infused over no less than 2 hours administered twice daily (daily dose of 3 g).
+The recommended dosage of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally or intravenously infused over no less than 2 hours administered twice daily (daily dose of 3 g).
 
 ## 2.4 Dosing for Liver Transplant Patients: Adults
 
-The recommended dose of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g) or 1 g infused intravenously over no less than 2 hours, twice daily (daily dose of 2 g).
+The recommended dosage of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g) or 1 g infused intravenously over no less than 2 hours, twice daily (daily dose of 2 g).
 
 ## 2.5 Dosing Adjustments: Patients with Renal Impairment, Neutropenia
 
