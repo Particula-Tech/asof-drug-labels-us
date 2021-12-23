@@ -820,8 +820,9 @@ Among 154 patients randomized to receive chemotherapy,143 received chemotherapy 
 Of the 143 patients, 56% received mFOLFOX6, 44% received FOLFIRI, 70% received bevacizumab plus mFOLFOX6 or FOLFIRI, and 11% received cetuximab plus mFOLFOX6 or FOLFIRI.
 
 The trial demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA compared with chemotherapy.
-At the time of the PFS analysis, the overall survival data were not mature (66% of the required number of events for the OS final analysis).
-The median follow-up time was 27.6 months (range: 0.2 to 48.3 months).
+There was no statistically significant difference between KEYTRUDA and chemotherapy in the final OS analysis.
+Sixty percent of the patients who had been randomized to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including KEYTRUDA.
+The median follow-up time at the final analysis was 38.1 months (range: 0.2 to 58.7 months).
 Table 68 and Figure 14 summarize the key efficacy measures for KEYNOTE-177.
 
 Table 68: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
@@ -832,7 +833,12 @@ Table 68: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 | Number (%) of patients with event | 82 (54%) | 113 (73%) |
 | Median in months (95% CI) | 16.5 (5.4, 32.4) | 8.2 (6.1, 10.2) |
 | Hazard ratioBased on Cox regression model (95% CI) | 0.60 (0.45, 0.80) |  |
-| p-ValueTwo-sided p-value based on log-rank test (compared to a significance level of 0.0234) | 0.0004 |  |
+| p-ValueTwo-sided p-Value based on log-rank test (compared to a significance level of 0.0234) | 0.0004 |  |
+| OSFinal OS analysis |  |  |
+| Number (%) of patients with event | 62 (41%) | 78 (51%) |
+| Median in months (95% CI) | NR (49.2, NR) | 36.7 (27.6, NR) |
+| Hazard ratio (95% CI) | 0.74 (0.53, 1.03) |  |
+| p-ValueTwo-sided p-Value based on log-rank test (compared to a significance level of 0.0492) | 0.0718 |  |
 | Objective Response RateBased on confirmed response by BICR review |  |  |
 | ORR (95% CI) | 44% (35.8, 52.0) | 33% (25.8, 41.1) |
 | Complete response rate | 11% | 4% |

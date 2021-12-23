@@ -1323,10 +1323,10 @@ Table 39: SelectedAdverse reactions occurring at same or higher incidence than i
 | General |  |  |  |  |
 | FatigueIncludes asthenia, fatigue | 40 | 1.2 | 31 | 0.2 |
 | Skin and Subcutaneous Tissue |  |  |  |  |
-| RashIncludes rash, rash maculo-papular, rash papular, skin exfoliation, lichen planus, rash erythematous, eczema, rash macular, dermatitis acneiform, dermatitis, rash pruritic, stevens-johnson syndrome, eczema asteatotic, palmar-plantar erythrodysaesthesia syndrome | 30 | 1.4 | 15 | 0.4 |
+| RashIncludes rash, rash maculo-papular, rash papular, skin exfoliation, lichen planus, rash erythematous, eczema, rash macular, dermatitis acneiform, dermatitis, rash pruritic, Stevens-Johnson Syndrome, eczema asteatotic, palmar-plantar erythrodysesthesia syndrome | 30 | 1.4 | 15 | 0.4 |
 | Pruritus | 23 | 0.2 | 13 | 0 |
 | Gastrointestinal |  |  |  |  |
-| DiarrheaIncludes diarrhoea, colitis, enterocolitis, frequent bowel movements, enteritis | 27 | 2.7 | 23 | 0.2 |
+| DiarrheaIncludes diarrhea, colitis, enterocolitis, frequent bowel movements, enteritis | 27 | 2.7 | 23 | 0.2 |
 | Nausea | 16 | 0.4 | 10 | 0 |
 | Abdominal painIncludes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort, gastrointestinal pain | 11 | 0.4 | 13 | 0.2 |
 | Endocrine |  |  |  |  |
