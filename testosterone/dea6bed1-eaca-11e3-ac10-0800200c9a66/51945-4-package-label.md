@@ -1,39 +1,28 @@
-Principal Display Panel - Natesto Nasal Gel Carton
+# PRINCIPAL DISPLAY PANEL - 11 g Dispenser Box
 
 www.natesto.com
 
-NDC 42667-5511-1
+NDC 42667-5511-1 CIII
 
-CIII
+natesto ® (testosterone) nasal gel CIII
 
-Natesto® (testosterone) nasal gel
-
-5.5 mg of testosterone per actuation*
+5.5mg of testosterone per actuation*
 
 *Each actuation delivers 0.122 g of gel.
-
 Multi-dose pump capable of dispensing 60 metered pump actuations.
 
 For intranasal use only.
 
 Warning: This package is not child resistant.
-Keep out of reach of children.
+Keep out of reach of children
 
 Total Contents: 11 g / dispenser.
 
-Marketed by:
+Marketed by: Acerus Pharmaceuticals Corporation Mississauga, ON, L5N 0E8, Canada
 
-Acerus Pharmaceuticals Corporation.
+ACERUS PHARMA
 
-Mississauga, ON Canada
-
-Manufactured by:
-
-Haupt Pharma Amareg GmbH
-
-Donaustaufer Sir.
-378
-
-Regensburg, Bavaria D93055, Germany
+Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Str.
+378 Regensburg, Bavaria D93055, Germany
 
 Rx ONLY

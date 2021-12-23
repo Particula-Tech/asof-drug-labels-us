@@ -45,7 +45,7 @@ This will make sure that Natesto is given in the correct place (See Figure D).
 | (Figure D) |
 | --- |
 
-Step 5: With the actuator in place, slowly push the pump down until it stops and remove the actuator from your nose.
+Step 5: With the actuator in place, slowly and firmly push the pump down until it fully stops and remove the actuator from your nose.
 
 Step 6: While looking in the mirror, put your left first (index) finger on the pump of your Natesto actuator and slowly slide the tip of the actuator up into your right nostril until your finger on the pump touches the bottom of your nose (See Figure E).
 
@@ -58,7 +58,7 @@ This will make sure that Natesto is given in the correct place (See Figure F).
 | (Figure F) |
 | --- |
 
-Step 8: Slowly push down on the pump until it stops and remove the actuator from your nose.
+Step 8: Slowly and firmly push down on the pump until it fully stops and remove the actuator from your nose.
 
 Step 9: Wipe the tip of the actuator with a clean, dry tissue.
 
@@ -81,9 +81,9 @@ How to throw away your empty Natesto dispenser:
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Acerus Pharmaceuticals Corporation
+Marketed by: Acerus Pharmaceuticals Corporation, Mississauga, ON L5N 0E8, Canada
 
 Manufactured by: Haupt Pharma Amareg GmbH, Donaustaufer Str.
 378, Regensburg, Bavaria D-93055, Germany
 
-Approved: 10/2016
+Revised: 12/2021

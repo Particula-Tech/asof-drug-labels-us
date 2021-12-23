@@ -31,7 +31,7 @@ To administer the dose, patients should be instructed to perform the following s
 - Remove the cap from the dispenser.
 - Place the right index finger on the pump of the actuator and while in front of a mirror, slowly advance the tip of the actuator into the left nostril upwards until their finger on the pump reaches the base of the nose.
 - Tilt the actuator so that the opening on the tip of the actuator is in contact with the lateral wall of the nostril to ensure that the gel is applied to the nasal wall.
-- Slowly depress the pump until it stops.
+- Slowly and firmly depress the pump until it fully stops.
 - Remove the actuator from the nose while wiping the tip along the inside of the lateral nostril wall to fully transfer the gel.
 - Using your left index finger, repeat the steps outlined in bullets 3 through 6 for the right nostril.
 - Use a clean, dry tissue to wipe the tip of the actuator.
