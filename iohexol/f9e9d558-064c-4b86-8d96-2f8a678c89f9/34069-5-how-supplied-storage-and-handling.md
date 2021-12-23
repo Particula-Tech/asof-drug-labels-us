@@ -6,28 +6,15 @@
 | --- | --- | --- |
 | OMNIPAQUE 240 (240 mg iodine/mL) – Boxes of 10 |  |  |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-38 |
-| 100 mL fill in 100 mL | bottle with hanger | 0407-1412-84 |
-| 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-39 |
-| 150 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-40 |
 | OMNIPAQUE 300 (300 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | Glass Vial | 0407-1413-41 |
-| 50 mL | bottle with hanger | 0407-1413-42 |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-86 |
-| 100 mL fill in 100 mL | bottle with hanger | 0407-1413-43 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-87 |
-| 125 mL in 200 mL | bottle with hanger | 0407-1413-47 |
-| 150 mL fill in 200 mL | bottle with hanger | 0407-1413-46 |
 | 150 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-88 |
 | OMNIPAQUE 350 (350 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | Glass Vial | 0407-1414-43 |
-| 50 mL | bottle with hanger | 0407-1414-44 |
 | 50 mL | +PLUSPAK™ (polymer bottle), | 0407-1414-82 |
-| 100 mL fill in 100 mL | bottle with hanger | 0407-1414-45 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-84 |
 | 125 mL fill in 200 mL | bottle with hanger | 0407-1414-85 |
-| 150 mL fill in 200 mL | bottle with hanger | 0407-1414-41 |
 | 150 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-86 |
-| 200 mL fill in 200 mL | bottle with hanger | 0407-1414-42 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-87 |
 
 The container closure system components (bottle, vial, stopper and cap) of OMNIPAQUE injection and OMNIPAQUE oral solution are not made with natural rubber latex.

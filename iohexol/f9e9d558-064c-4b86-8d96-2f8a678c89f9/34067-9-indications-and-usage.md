@@ -22,12 +22,12 @@ Adults
 
 OMNIPAQUE 140
 
-- Intra-arterial digital subtraction angiography of the head, neck, abdominal, renal and peripheral vessels.
+- Intra-arterial digital subtraction angiography of the head, neck, abdominal, renal and peripheral vessels
 
 OMNIPAQUE 240
 
 - CT head imaging
-- Peripheral venography (phlebography).
+- Peripheral venography (phlebography)
 
 OMNIPAQUE 300
 
@@ -36,7 +36,7 @@ OMNIPAQUE 300
 - Cerebral arteriography
 - Peripheral venography (phlebography)
 - Peripheral arteriography
-- Excretory urography.
+- Excretory urography
 
 OMNIPAQUE 350
 
@@ -45,24 +45,24 @@ OMNIPAQUE 350
 - CT head and body imaging
 - Intravenous digital subtraction angiography of the head, neck, abdominal, renal and peripheral vessels
 - Peripheral arteriography
-- Excretory urography.
+- Excretory urography
 
 Pediatrics
 
 OMNIPAQUE 240
 
-- CT head and body imaging.
+- CT head and body imaging
 
 OMNIPAQUE 300
 
 - Angiocardiography (ventriculography)
 - Excretory urography
-- CT head and body imaging.
+- CT head and body imaging
 
 OMNIPAQUE 350
 
 - Angiocardiography (ventriculography, pulmonary arteriography, venography, and studies of the collateral arteries)
-- Aortography including the aortic root, aortic arch, ascending and descending aorta.
+- Aortography including the aortic root, aortic arch, ascending and descending aorta
 
 ## 1.3 Oral or Rectal Administration
 
@@ -70,13 +70,13 @@ Adults
 
 OMNIPAQUE 350
 
-- Oral radiographic examination of the gastrointestinal tract.
+- Oral radiographic examination of the gastrointestinal tract
 
 Pediatrics
 
 OMNIPAQUE 180, 240 and 300
 
-- Oral and rectal radiographic examination of the gastrointestinal tract.
+- Oral and rectal radiographic examination of the gastrointestinal tract
 
 ## 1.4 Oral Administration in Conjunction with Intravenous Administration
 
@@ -86,13 +86,13 @@ Adults
 
 OMNIPAQUE 240, 300 and 350 diluted and administered orally in conjunction with OMNIPAQUE 300 administered intravenously
 
-- CT of the abdomen.
+- CT of the abdomen
 
 Pediatrics
 
 OMNIPAQUE 240, 300 and 350 diluted and administered orally in conjunction with OMNIPAQUE 240 or OMNIPAQUE 300 administered intravenously
 
-- CT of the abdomen.
+- CT of the abdomen
 
 OMNIPAQUE Oral Solution
 
@@ -100,13 +100,13 @@ Adults
 
 OMNIPAQUE oral solution 9 and 12 administered orally in conjunction with OMNIPAQUE 300 administered intravenously
 
-- CT of the abdomen.
+- CT of the abdomen
 
 Pediatrics
 
 OMNIPAQUE oral solution 9 and 12 administered orally in conjunction with OMNIPAQUE 240 or OMNIPAQUE 300 administered intravenously
 
-- CT of the abdomen.
+- CT of the abdomen
 
 ## 1.5 Intraarticular Administration
 
@@ -114,7 +114,7 @@ Adults
 
 OMNIPAQUE 240, 300, and 350
 
-- Arthrography.
+- Arthrography
 
 ## 1.6 Body Cavity Administration
 
@@ -124,14 +124,14 @@ OMNIPAQUE 240
 
 - Endoscopic retrograde pancreatography (ERP) and cholangiopancreatography (ERCP)
 - Herniography
-- Hysterosalpingography.
+- Hysterosalpingography
 
 OMNIPAQUE 300
 
-- Hysterosalpingography.
+- Hysterosalpingography
 
 Pediatrics
 
 OMNIPAQUE 240, 300 and 350 diluted
 
-- Voiding cystourethrography (VCU).
+- Voiding cystourethrography (VCU)

@@ -53,7 +53,7 @@ Warmth is less frequent with OMNIPAQUE than with ionic contrast media.
 
 Adults
 
-In controlled clinical studies involving 1485 patients, the following adverse reactions occurred (Table 25):
+In controlled clinical studies involving 1485 patients, the following adverse reactions occurred (Table 25).
 
 TABLE 25 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
@@ -78,7 +78,7 @@ TABLE 25 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
 Pediatric Patients
 
-In controlled clinical studies involving 391 patients for pediatric angiocardiography, urography, and CT head imaging, adverse reactions following the use of OMNIPAQUE 240, 300, and 350 were generally similar in quality and frequency to those reported in adults (Table 26):
+In controlled clinical studies involving 391 patients for pediatric angiocardiography, urography, and CT head imaging, adverse reactions following the use of OMNIPAQUE 240, 300, and 350 were generally similar in quality and frequency to those reported in adults (Table 26).
 
 TABLE 26 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
@@ -104,7 +104,7 @@ Oral Administration for Examination of the Gastrointestinal Tract
 Adults
 
 Nausea, vomiting, and diarrhea have been most frequently reported following orally administered undiluted OMNIPAQUE for radiographic examination of the gastrointestinal tract.
-In controlled clinical studies involving 54 adult patients for oral radiographic examination of the gastrointestinal tract using undiluted OMNIPAQUE 350 the following adverse reactions were reported (Table 27):
+In controlled clinical studies involving 54 adult patients for oral radiographic examination of the gastrointestinal tract using undiluted OMNIPAQUE 350 the following adverse reactions were reported (Table 27).
 
 TABLE 27 ADVERSE REACTIONS – ORAL ADMINISTRATION OF UNDILUTED OMNIPAQUE 350
 
