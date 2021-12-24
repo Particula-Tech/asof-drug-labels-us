@@ -4,23 +4,21 @@ Sterile Lyophilized Powder NDC 0409-6509-01 Rx only
 
 Vancomycin Hydrochloride for Injection, USP
 
-Equivalent to 5 g Vancomycin
+Equivalent to 5 g/vial Vancomycin
 
 PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION.
 
 For Intravenous Use.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Hospira
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 5 g Vial Carton
 
-Sterile lyophilized powder NDC 0409-6509-01 Rx only
+Sterile Lyophilized Powder NDC 0409-6509-01 Rx only
 
 Vancomycin Hydrochloride for Injection, USP
 
-Equivalent to 5 g Vancomycin
+Equivalent to 5 g/vial Vancomycin
 
 PHARMACY BULK PACKAGE– NOT FOR DIRECT INFUSION.
 
@@ -36,9 +34,10 @@ Vancomycin Hydrochloride for Injection, USP
 
 PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
 
-10 grams* per Pharmacy Bulk Package
+Equivalent to 10 g/vial Vancomycin.
 
 For Intravenous Use.
+
 AFTER RECONSTITUTION MUST BE FURTHER DILUTED BEFORE INFUSION.
 
 Hospira
@@ -51,12 +50,13 @@ Vancomycin Hydrochloride for Injection, USP
 
 PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
 
-10 grams* per Pharmacy Bulk Package
+Equivalent to 10 g/vial Vancomycin.
 
 For Intravenous Use.
+
 AFTER RECONSTITUTION MUST BE FURTHER DILUTED BEFORE INFUSION.
 
-* Each Pharmacy Bulk Package contains: Vancomycin hydrochloride equivalent to 10 g vancomycin.
+Each vial contains the equivalent of 10 g vancomycin.
 May contain HCl and/or NaOH for pH adjustment.
 
 Hospira
