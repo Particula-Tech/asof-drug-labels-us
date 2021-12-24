@@ -6,7 +6,7 @@ NDC 0781-2074-01 bottles of 100
 
 NDC 0781-2074-10 bottles of 1000
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Protect from light.
 
@@ -21,8 +21,8 @@ Sandoz Inc.
 Princeton, NJ 08540
 
 Rev.
-February 2021
+November 2021
 
-46225003
+46299670
 
-MF2074REV02/21
+MF42029358REV11/21

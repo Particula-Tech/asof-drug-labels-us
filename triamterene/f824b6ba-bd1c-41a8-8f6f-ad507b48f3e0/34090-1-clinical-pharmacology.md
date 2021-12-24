@@ -4,14 +4,14 @@ Triamterene and hydrochlorothiazide is a diuretic/antihypertensive drug product 
 Each component complements the action of the other.
 The hydrochlorothiazide component blocks the reabsorption of sodium and chloride ions, and thereby increases the quantity of sodium traversing the distal tubule and the volume of water excreted.
 A portion of the additional sodium presented to the distal tubule is exchanged there for potassium and hydrogen ions.
-With continued use of hydrochlorothiazide and depletion of sodium, compensatory mechanisms tend to increase this exchange and may produce excessive loss of potassium, hydrogen and chloride ions.
+With continued use of hydrochlorothiazide and depletion of sodium, compensatory mechanisms tend to increase this exchange and may produce excessive loss of potassium, hydrogen, and chloride ions.
 Hydrochlorothiazide also decreases the excretion of calcium and uric acid, may increase the excretion of iodide, and may reduce glomerular filtration rate.
 The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
 
 The triamterene component of triamterene and hydrochlorothiazide capsule exerts its diuretic effect on the distal renal tubule to inhibit the reabsorption of sodium in exchange for potassium and hydrogen ions.
 Its natriuretic activity is limited by the amount of sodium reaching its site of action.
 Although it blocks the increase in this exchange that is stimulated by mineralocorticoids (chiefly aldosterone), it is not a competitive antagonist of aldosterone and its activity can be demonstrated in adrenalectomized rats and patients with Addison’s disease.
-As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity but is dictated by the response of the individual patients, and the kaliuretic effect of concomitantly administered drugs.
+As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity but is dictated by the response of the individual patients and the kaliuretic effect of concomitantly administered drugs.
 By inhibiting the distal tubular exchange mechanism, triamterene maintains or increases the sodium excretion and reduces the excess loss of potassium, hydrogen, and chloride ions induced by hydrochlorothiazide.
 As with hydrochlorothiazide, triamterene may reduce glomerular filtration and renal plasma flow.
 Via this mechanism, it may reduce uric acid excretion although it has no tubular effect on uric acid reabsorption or secretion.
