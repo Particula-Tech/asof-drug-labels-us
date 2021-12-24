@@ -16,6 +16,8 @@ Sandoz Inc.
 Princeton, NJ 08540
 
 Rev.
-August 2018
+November 2021
 
-MF1486REV08/18
+46299644
+
+MF42029394REV11/21
