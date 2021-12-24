@@ -62,7 +62,14 @@ During postmarketing use of mirtazapine, cases of QT prolongation, Torsades de P
 The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines [see Drug Interactions (7) and Overdosage (10)].
 Exercise caution when mirtazapine orally disintegrating tablets are prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other drugs thought to prolong the QTc interval.
 
-## 5.6 Increased Appetite and Weight Gain
+## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with postmarketing use of mirtazapine.
+DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
+DRESS is sometimes fatal.
+Discontinue mirtazapine orally disintegrating tablets immediately if DRESS is suspected and institute appropriate treatment [see Contraindications (4), Adverse Reactions (6.2)].
+
+## 5.7 Increased Appetite and Weight Gain
 
 In U.S. controlled clinical studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo.
 In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo.
@@ -71,7 +78,7 @@ In a pool of premarketing U.S. clinical studies, including many patients for lon
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated pediatric patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
 The safety and effectiveness of mirtazapine orally disintegrating tablets in pediatric patients with MDD have not been established [see Use in Specific Populations (8.4)].
 
-## 5.7 Somnolence
+## 5.8 Somnolence
 
 In U.S. controlled studies, somnolence was reported in 54% of patients treated with mirtazapine, compared to 18% for placebo.
 In these studies, somnolence resulted in discontinuation for 10.4% of mirtazapine-treated patients, compared to 2.2% for placebo.
@@ -79,24 +86,24 @@ It is unclear whether tolerance develops to the somnolent effect of mirtazapine 
 Because of the potentially significant effect of mirtazapine orally disintegrating tablets on impairment of performance, caution patients about engaging in activities that require alertness, including operating hazardous machinery and motor vehicles, until they are reasonably certain that mirtazapine orally disintegrating tablets do not affect them adversely.
 The concomitant use of benzodiazepines and alcohol with mirtazapine orally disintegrating tablets should be avoided [see Drug Interactions (7)].
 
-## 5.8 Activation of Mania or Hypomania
+## 5.9 Activation of Mania or Hypomania
 
 In patients with bipolar disorder, treating a depressive episode with mirtazapine orally disintegrating tablets or another antidepressant may precipitate a mixed/manic episode.
 In controlled clinical trials, patients with bipolar disorder were generally excluded; however, symptoms of mania or hypomania were reported in 0.2% of patients treated with mirtazapine.
 Prior to initiating treatment with mirtazapine orally disintegrating tablets, screen patients for any personal or family history of bipolar disorder, mania, or hypomania.
 
-## 5.9 Seizures
+## 5.10 Seizures
 
 Mirtazapine orally disintegrating tablets have not been systematically evaluated in patients with seizure disorders.
 In premarketing clinical trials, 1 seizure was reported among the 2796 U.S. and non-U.S. patients treated with mirtazapine.
 Mirtazapine orally disintegrating tablets should be prescribed with caution in patients with a seizure disorder.
 
-## 5.10 Elevated Cholesterol and Triglycerides
+## 5.11 Elevated Cholesterol and Triglycerides
 
 In U.S. controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine, compared to 7% for placebo.
 In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo.
 
-## 5.11 Hyponatremia
+## 5.12 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with serotonergic antidepressants, including mirtazapine orally disintegrating tablets.
 Cases with serum sodium lower than 110 mmol/L have been reported.
@@ -108,26 +115,26 @@ In many cases, this hyponatremia appears to be the result of the syndrome of ina
 In patients with symptomatic hyponatremia, discontinue mirtazapine orally disintegrating tablets and institute appropriate medical intervention.
 Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia [see Use in Specific Populations (8.5)].
 
-## 5.12 Transaminase Elevations
+## 5.13 Transaminase Elevations
 
 Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients treated with mirtazapine in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients.
 While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
 Mirtazapine orally disintegrating tablets should be used with caution in patients with impaired hepatic function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 5.13 Discontinuation Syndrome
+## 5.14 Discontinuation Syndrome
 
 There have been reports of adverse reactions upon the discontinuation of mirtazapine orally disintegrating tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
 
 A gradual reduction in the dosage, rather than an abrupt cessation, is recommended [see Dosage and Administration (2.6)].
 
-## 5.14 Use in Patients with Concomitant Illness
+## 5.15 Use in Patients with Concomitant Illness
 
 Mirtazapine orally disintegrating tablets have not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease.
 Mirtazapine was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients [see Adverse Reactions (6.1)].
 Mirtazapine orally disintegrating tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-## 5.15 Risks in Patients with Phenylketonuria
+## 5.16 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 Mirtazapine orally disintegrating tablets contain phenylalanine, a component of aspartame.

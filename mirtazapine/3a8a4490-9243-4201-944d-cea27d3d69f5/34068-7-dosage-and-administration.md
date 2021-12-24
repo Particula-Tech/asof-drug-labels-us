@@ -18,7 +18,7 @@ Dose changes should not be made in intervals of less than 1 to 2 weeks to allow 
 
 ## 2.3 Screen for Bipolar Disorder Prior to Starting Mirtazapine Orally Disintegrating Tablets
 
-Prior to initiating treatment with mirtazapine orally disintegrating tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.8)].
+Prior to initiating treatment with mirtazapine orally disintegrating tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.9)].
 
 ## 2.4 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
@@ -44,5 +44,5 @@ Conversely, an increase in dosage of mirtazapine orally disintegrating tablets m
 
 ## 2.6 Discontinuation of Mirtazapine Orally Disintegrating Tablets Treatment
 
-Adverse reactions may occur upon discontinuation or dose reduction of mirtazapine orally disintegrating tablets [see Warnings and Precautions (5.13)].
+Adverse reactions may occur upon discontinuation or dose reduction of mirtazapine orally disintegrating tablets [see Warnings and Precautions (5.14)].
 Gradually reduce the dosage of mirtazapine orally disintegrating tablets rather than stopping abruptly whenever possible.
