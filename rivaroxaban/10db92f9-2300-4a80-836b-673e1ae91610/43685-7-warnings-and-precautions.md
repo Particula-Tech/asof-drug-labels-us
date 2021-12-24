@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.2, 2.3) and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -22,7 +22,7 @@ Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitor
 
 Risk of Hemorrhage in Acutely Ill Medical Patients at High Risk of Bleeding
 
-Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of XARELTO for primary VTE prophylaxis: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e. undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
+Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of XARELTO for primary VTE prophylaxis: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e., undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
 XARELTO is not for use for primary VTE prophylaxis in these hospitalized, acutely ill medical patients at high risk of bleeding.
 
 Reversal of Anticoagulant Effect
@@ -79,11 +79,19 @@ There are no clinical data in patients with CrCl <15 mL/min (including patients 
 
 Discontinue XARELTO in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
 
+Pediatric Patients
+
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
+
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
 ## 5.5 Use in Patients with Hepatic Impairment
 
-No clinical data are available for patients with severe hepatic impairment.
+No clinical data are available for adult patients with severe hepatic impairment.
 
 Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
+
+No clinical data are available in pediatric patients with hepatic impairment.
 
 ## 5.6 Use with P-gp and Strong CYP3A Inhibitors or Inducers
 

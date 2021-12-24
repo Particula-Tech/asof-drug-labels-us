@@ -1,17 +1,34 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+For the tablets, advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide).
+
+For the suspension, advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Instructions for Patient Use
 
 - Advise patients to take XARELTO only as directed.
 - Remind patients to not discontinue XARELTO without first talking to their healthcare professional.
+
+Adults
+
 - Advise patients with atrial fibrillation to take XARELTO once daily with the evening meal.
 - Advise patients for initial treatment of DVT and/or PE to take XARELTO 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.1)].
 - Advise patients who are at a continued risk of recurrent DVT and/or PE after at least 6 months of initial treatment, to take XARELTO 10 mg once daily with or without food [see Dosage and Administration (2.1)].
-- Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.5)].
-- For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.5)].
-- If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen [see Dosage and Administration (2.4)].
+- Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.6)].
+- For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.6)].
+- If a dose is missed, advise the patient according to the instructions in the Full Prescribing Information based on their dosing schedule [see Dosage and Administration (2.5)].
+
+Pediatric Patients
+
+- The adult caregiver should administer the dose.
+  Advise caregivers to use the syringes provided in the original carton.
+- Advise the caregiver whether the dose needs to be taken with food or not [see Dosage and Administration (2.2)].
+- Advise the caregiver the tablet must not be split in an attempt to provide a fraction of a tablet dose [see Dosage and Administration (2.2)].
+- If a child vomits or spits up the dose within 30 minutes after receiving the dose, a new dose should be given.
+  However, if the child vomits more than 30 minutes after the dose is taken, the dose should not be re-administered and the next dose should be taken as scheduled.
+  If a child vomits or spits up the dose repeatedly, the caregiver should contact the child's doctor right away [see Dosage and Administration (2.2)].
+- For children who are unable to swallow whole tablets, XARELTO oral suspension may be used.
+- If a dose is missed, advise the patient according to the instructions in the Full Prescribing Information based on their dosing schedule [see Dosage and Administration (2.5)].
 
 Bleeding Risks
 

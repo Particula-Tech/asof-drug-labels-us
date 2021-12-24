@@ -10,17 +10,19 @@ By inhibiting FXa, rivaroxaban decreases thrombin generation.
 
 ## 12.2 Pharmacodynamics
 
-Dose-dependent inhibition of FXa activity was observed in humans.
-Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are also prolonged dose-dependently.
-Anti-factor Xa activity is also influenced by rivaroxaban.
+Rivaroxaban produces dose-dependent inhibition of FXa activity.
+Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest®, are also prolonged dose-dependently.
+In children treated with rivaroxaban, the correlation between anti-factor Xa to plasma concentrations is linear with a slope close to 1.
+
+Monitoring for anticoagulation effect of rivaroxaban using anti-FXa activity or a clotting test is not recommended.
 
 Specific Populations
 
 Renal Impairment
 
-The relationship between systemic exposure and pharmacodynamic activity of rivaroxaban was altered in subjects with renal impairment relative to healthy control subjects [see Use in Specific Populations (8.6)].
+The relationship between systemic exposure and pharmacodynamic activity of rivaroxaban was altered in adult subjects with renal impairment relative to healthy control subjects [see Use in Specific Populations (8.6)].
 
-Table 11: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
+Table 18: Percentage Increase in Rivaroxaban PK and PD Measures in Adult Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
 
 | 50–79 | 30–49 | 15–29 | ESRD (on dialysis)Separate stand-alone study. | ESRD (post-dialysis) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +34,7 @@ Table 11: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with
 
 Hepatic Impairment
 
-Anti-Factor Xa activity was similar in subjects with normal hepatic function and in mild hepatic impairment (Child-Pugh A class).
+Anti-Factor Xa activity was similar in adult subjects with normal hepatic function and in mild hepatic impairment (Child-Pugh A class).
 There is no clear understanding of the impact of hepatic impairment beyond this degree on the coagulation cascade and its relationship to efficacy and safety.
 
 ## 12.3 Pharmacokinetics
@@ -42,7 +44,7 @@ Absorption
 The absolute bioavailability of rivaroxaban is dose-dependent.
 For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
 XARELTO 2.5 mg and 10 mg tablets can be taken with or without food.
-For the 20 mg dose in the fasted state, the absolute bioavailability is approximately 66%.
+XARELTO 20 mg administered in the fasted state has an absolute bioavailability of approximately 66%.
 Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
 XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
 
@@ -60,7 +62,7 @@ However, for the crushed tablet suspended in water and administered via an NG tu
 
 Distribution
 
-Plasma protein binding of rivaroxaban in human plasma is approximately 92% to 95%, with albumin being the main binding component.
+Protein binding of rivaroxaban in human plasma is approximately 92% to 95%, with albumin being the main binding component.
 The steady-state volume of distribution in healthy subjects is approximately 50 L.
 
 Metabolism
@@ -73,7 +75,7 @@ Excretion
 
 In a Phase 1 study, following the administration of [14C]-rivaroxaban, approximately one-third (36%) was recovered as unchanged drug in the urine and 7% was recovered as unchanged drug in feces.
 Unchanged drug is excreted into urine, mainly via active tubular secretion and to a lesser extent via glomerular filtration (approximate 5:1 ratio).
-Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated Bcrp).
+Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated BCRP).
 Rivaroxaban's affinity for influx transporter proteins is unknown.
 
 Rivaroxaban is a low-clearance drug, with a systemic clearance of approximately 10 L/hr in healthy volunteers following intravenous administration.
@@ -83,7 +85,7 @@ Specific Populations
 
 The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of rivaroxaban are summarized in Figure 2.
 
-Figure 2: Effect of Specific Populations on the Pharmacokinetics of Rivaroxaban
+Figure 2: Effect of Specific Adult Populations on the Pharmacokinetics of Rivaroxaban
 
 [See Dosage and Administration (2.1)]
 
@@ -100,24 +102,40 @@ Elderly
 
 The terminal elimination half-life is 11 to 13 hours in the elderly subjects aged 60 to 76 years [see Use in Specific Populations (8.5)].
 
+Pediatric Patients
+
+The rate and extent of absorption were similar between the tablet and suspension.
+After repeated administration of rivaroxaban for the treatment of VTE, the Cmax of rivaroxaban in plasma was observed at median times of 1.5 to 2.2 hours in subjects who ranged from birth to less than 18 years of age.
+
+In children who were 6 months to 9 years of age, in vitro plasma protein binding of rivaroxaban is approximately 90%.
+
+The half-life of rivaroxaban in plasma of pediatric patients treated for VTE decreased with decreasing age.
+Mean half-life values were 4.2 hours in adolescents, 3 hours in children 2 to 12 years of age, 1.9 hours in children 0.5 to <2 years of age, and 1.6 hours in children <0.5 years of age.
+
+An exploratory analysis in pediatric patients treated for VTE did not reveal relevant differences in rivaroxaban exposure based on gender or race.
+
 Renal Impairment
 
 The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 2).
 Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
 Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.6)].
 
-Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 11).
+Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 18).
 The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 600 mL/min and a blood flow rate in the range of 320 to 400 mL/min is 47% higher compared to those with normal renal function.
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking XARELTO 15 mg.
 Hemodialysis had no significant impact on rivaroxaban exposure.
 Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects in this study.
 
+Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
 Hepatic Impairment
 
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects (n=16) and subjects with varying degrees of hepatic impairment (see Figure 2).
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy adult subjects (n=16) and adult subjects with varying degrees of hepatic impairment (see Figure 2).
 No patients with severe hepatic impairment (Child-Pugh C) were studied.
 Compared to healthy subjects with normal liver function, significant increases in rivaroxaban exposure were observed in subjects with moderate hepatic impairment (Child-Pugh B) (see Figure 2).
 Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.7)].
+
+No clinical data are available in pediatric patients with hepatic impairment.
 
 Drug Interactions
 
@@ -126,7 +144,7 @@ In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and
 
 The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7)].
 
-Figure 3: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban
+Figure 3: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban in Adults
 
 Anticoagulants
 

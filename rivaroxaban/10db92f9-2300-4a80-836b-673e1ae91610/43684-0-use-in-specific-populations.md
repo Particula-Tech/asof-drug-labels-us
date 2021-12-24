@@ -71,7 +71,18 @@ The risk of clinically significant uterine bleeding, potentially requiring gynec
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of XARELTO have been established in pediatric patients from birth to less than 18 years for the treatment of VTE and the reduction in risk of recurrent VTE.
+Use of XARELTO is supported in these age groups by evidence from adequate and well-controlled studies of XARELTO in adults with additional pharmacokinetic, safety and efficacy data from a multicenter, prospective, open-label, active-controlled randomized study in 500 pediatric patients from birth to less than 18 years of age.
+XARELTO was not studied and therefore dosing cannot be reliably determined or recommended in children less than 6 months who were less than 37 weeks of gestation at birth; had less than 10 days of oral feeding, or had a body weight of less than 2.6 kg [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.7)].
+
+The safety and effectiveness of XARELTO have been established for use in pediatric patients aged 2 years and older with congenital heart disease who have undergone the Fontan procedure.
+Use of XARELTO is supported in these age groups by evidence from adequate and well-controlled studies of XARELTO in adults with additional data from a multicenter, prospective, open-label, active controlled study in 112 pediatric patients to evaluate the single- and multiple-dose pharmacokinetic properties of XARELTO and the safety and efficacy of XARELTO when used for thromboprophylaxis for 12 months in children with single ventricle physiology who had the Fontan procedure [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.7)].
+
+Clinical studies that evaluated safety, efficacy, pharmacokinetic and pharmacodynamic data support the use of XARELTO 10 mg, 15 mg, and 20 mg tablets in pediatric patients.
+For the XARELTO 2.5 mg tablets, there are no safety, efficacy, pharmacokinetic and pharmacodynamic data to support the use in pediatric patients.
+Therefore, XARELTO 2.5 mg tablets are not recommended for use in pediatric patients.
+
+Although not all adverse reactions identified in the adult population have been observed in clinical trials of children and adolescent patients, the same warnings and precautions for adults should be considered for children and adolescents.
 
 ## 8.5 Geriatric Use
 
@@ -81,7 +92,7 @@ Both thrombotic and bleeding event rates were higher in these older patients [se
 
 ## 8.6 Renal Impairment
 
-In pharmacokinetic studies, compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44 to 64% in subjects with renal impairment.
+In pharmacokinetic studies, compared to healthy adult subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44 to 64% in adult subjects with renal impairment.
 Increases in pharmacodynamic effects were also observed [see Clinical Pharmacology (12.3)].
 
 Nonvalvular Atrial Fibrillation
@@ -130,10 +141,19 @@ No clinical outcome data is available for the use of XARELTO with aspirin in pat
 In patients with ESRD maintained on intermittent hemodialysis, administration of XARELTO 2.5 mg twice daily will result in concentrations of rivaroxaban and pharmacodynamic activity similar to those observed in moderate renal impaired patients in the COMPASS study [see Clinical Pharmacology (12.2, 12.3)].
 It is not known whether these concentrations will lead to similar CV risk reduction and bleeding risk in patients with ESRD on dialysis as was seen in COMPASS.
 
+Pediatric Use
+
+No dosage adjustment is required in patients 1 year of age or older with mild renal impairment (eGFR 50 to ≤ 80 mL/min/1.73 m2).
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
+
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)].
+
 ## 8.7 Hepatic Impairment
 
-In a pharmacokinetic study, compared to healthy subjects with normal liver function, AUC increases of 127% were observed in subjects with moderate hepatic impairment (Child-Pugh B).
+In a pharmacokinetic study, compared to healthy adult subjects with normal liver function, AUC increases of 127% were observed in adult subjects with moderate hepatic impairment (Child-Pugh B).
 
 The safety or PK of XARELTO in patients with severe hepatic impairment (Child-Pugh C) has not been evaluated [see Clinical Pharmacology (12.3)].
 
 Avoid the use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy.
+
+No clinical data are available in pediatric patients with hepatic impairment.

@@ -1,11 +1,13 @@
 {
   "application_numbers": [
     "NDA022406",
-    "NDA202439"
+    "NDA202439",
+    "NDA215859"
   ],
   "inn": "rivaroxaban",
   "labeler": "Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "50458-575-01",
     "50458-577-01",
     "50458-577-10",
     "50458-577-14",
@@ -42,6 +44,11 @@
       "form": "TABLET, FILM COATED",
       "generic": "rivaroxaban",
       "name": "XARELTO"
+    },
+    {
+      "form": "GRANULE, FOR SUSPENSION",
+      "generic": "rivaroxaban",
+      "name": "Xarelto"
     },
     {
       "form": "TABLET, FILM COATED",

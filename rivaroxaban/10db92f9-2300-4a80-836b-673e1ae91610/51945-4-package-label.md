@@ -63,3 +63,22 @@ Days 22-30 20 mg per tablet, once daily 9 tablets
 First 30-day supply
 
 LIFT HERE TO OPEN
+
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Bottle Carton
+
+NDC 50458-575-01
+
+Xarelto® (rivaroxaban) for Oral Suspension
+
+1 mg/mL (when reconstituted)
+
+Pharmacist:
+
+- Must reconstitute before dispensing.
+- Counsel caregiver on proper use.
+
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
+
+For Oral Use Only
+
+Rx only janssen

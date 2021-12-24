@@ -10,7 +10,7 @@ The following clinically significant adverse reactions are also discussed in oth
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During clinical development for the approved indications, 34,947 patients were exposed to XARELTO.
+During clinical development for the approved indications, 34,947 adult patients were exposed to XARELTO.
 
 Hemorrhage
 
@@ -21,9 +21,9 @@ Nonvalvular Atrial Fibrillation
 In the ROCKET AF trial, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 4.3% for XARELTO vs. 3.1% for warfarin.
 The incidence of discontinuations for non-bleeding adverse events was similar in both treatment groups.
 
-Table 2 shows the number of patients experiencing various types of bleeding events in the ROCKET AF trial.
+Table 5 shows the number of patients experiencing various types of bleeding events in the ROCKET AF trial.
 
-Table 2: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+Table 5: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment.- On Treatment Plus 2 Days
 
 | Parameter | XARELTO N=7111 n (%/year) | Warfarin N=7125 n (%/year) | XARELTO vs. Warfarin HR (95% CI) |
@@ -51,9 +51,9 @@ EINSTEIN DVT and EINSTEIN PE Studies
 In the pooled analysis of the EINSTEIN DVT and EINSTEIN PE clinical studies, the most frequent adverse reactions leading to permanent drug discontinuation were bleeding events, with XARELTO vs. enoxaparin/Vitamin K antagonist (VKA) incidence rates of 1.7% vs. 1.5%, respectively.
 The mean duration of treatment was 208 days for XARELTO-treated patients and 204 days for enoxaparin/VKA-treated patients.
 
-Table 3 shows the number of patients experiencing major bleeding events in the pooled analysis of the EINSTEIN DVT and EINSTEIN PE studies.
+Table 6 shows the number of patients experiencing major bleeding events in the pooled analysis of the EINSTEIN DVT and EINSTEIN PE studies.
 
-Table 3: Bleeding EventsBleeding event occurred after randomization and up to 2 days after the last dose of study drug.
+Table 6: Bleeding EventsBleeding event occurred after randomization and up to 2 days after the last dose of study drug.
 Although a patient may have had 2 or more events, the patient is counted only once in a category. in the Pooled Analysis of EINSTEIN DVT and EINSTEIN PE Studies
 
 | Parameter | XARELTOTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] N=4130 n (%) | Enoxaparin/VKA N=4116 n (%) |
@@ -79,9 +79,9 @@ EINSTEIN CHOICE Study
 In the EINSTEIN CHOICE clinical study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 1% for XARELTO 10 mg, 2% for XARELTO 20 mg, and 1% for acetylsalicylic acid (aspirin) 100 mg.
 The mean duration of treatment was 293 days for XARELTO 10 mg-treated patients and 286 days for aspirin 100 mg-treated patients.
 
-Table 4 shows the number of patients experiencing bleeding events in the EINSTEIN CHOICE study.
+Table 7 shows the number of patients experiencing bleeding events in the EINSTEIN CHOICE study.
 
-Table 4: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
+Table 7: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
 Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN CHOICE
 
 | Parameter | XARELTOTreatment schedule: XARELTO 10 mg once daily or aspirin 100 mg once daily. 10 mg N=1127 n (%) | Acetylsalicylic Acid (aspirin) 100 mg N=1131 n (%) |
@@ -99,9 +99,9 @@ Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 In the RECORD clinical trials, the overall incidence rate of adverse reactions leading to permanent treatment discontinuation was 3.7% with XARELTO.
 
-The rates of major bleeding events and any bleeding events observed in patients in the RECORD clinical trials are shown in Table 5.
+The rates of major bleeding events and any bleeding events observed in patients in the RECORD clinical trials are shown in Table 8.
 
-Table 5: Bleeding EventsBleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication.
+Table 8: Bleeding EventsBleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication.
 Patients may have more than one event. in Patients Undergoing Hip or Knee Replacement Surgeries (RECORD 1–3)
 
 |  | XARELTO 10 mg | EnoxaparinIncludes the placebo-controlled period for RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) |
@@ -134,12 +134,12 @@ Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk fo
 
 In the MAGELLAN study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events.
 Cases of pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis were observed.
-Patients with bronchiectasis/pulmonary cavitation, active cancer (i.e., undergoing acute, in-hospital cancer treatment), dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months all had an excess of bleeding with XARELTO compared with enoxaparin/placebo and are excluded from all MAGELLAN data presented in Table 6.
+Patients with bronchiectasis/pulmonary cavitation, active cancer (i.e., undergoing acute, in-hospital cancer treatment), dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months all had an excess of bleeding with XARELTO compared with enoxaparin/placebo and are excluded from all MAGELLAN data presented in Table 9.
 The incidence of bleeding leading to drug discontinuation was 2.5% for XARELTO vs. 1.4% for enoxaparin/placebo.
 
-Table 6 shows the number of patients experiencing various types of bleeding events in the MAGELLAN study.
+Table 9 shows the number of patients experiencing various types of bleeding events in the MAGELLAN study.
 
-Table 6: Bleeding Events in MAGELLANPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
+Table 9: Bleeding Events in MAGELLANPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
 Study–Safety Analysis Set - On Treatment Plus 2 Days
 
 | MAGELLAN StudyPatients received either XARELTO or placebo once daily for 35 ±4 days starting in hospital and continuing post hospital discharge or received enoxaparin or placebo once daily for 10 ±4 days in the hospital. | XARELTO 10 mg N=3218 n (%) | Enoxaparin 40 mg /placebo N=3229 n (%) |
@@ -154,9 +154,9 @@ Reduction of Risk of Major Cardiovascular Events in Patients with CAD
 In the COMPASS trial overall, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 2.7% for XARELTO 2.5 mg twice daily vs. 1.2% for placebo on background therapy for all patients with aspirin 100 mg once daily.
 The incidences of important bleeding events in the CAD and PAD populations in COMPASS were similar.
 
-Table 7 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
+Table 10 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
 
-Table 7: Major Bleeding Events in COMPASS - On Treatment Plus 2 daysMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+Table 10: Major Bleeding Events in COMPASS - On Treatment Plus 2 DaysMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients.
 
 | Parameter | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=9134 n (%/year) | Placebo N=9107 n (%/year) | XARELTO vs. Placebo HR (95 % CI) |
@@ -173,10 +173,10 @@ Reduction of Risk of Major Thrombotic Vascular Events in Patients with Periphera
 
 The incidence of premature permanent discontinuation due to bleeding events for XARELTO 2.5 mg twice daily vs. placebo on background therapy with aspirin 100 mg once daily in VOYAGER was 4.1% vs. 1.6% and in COMPASS PAD was 2.7% vs. 1.3%, respectively.
 
-Table 8 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
+Table 11 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
 The most common site of bleeding was gastrointestinal.
 
-Table 8: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. in VOYAGER- On Treatment Plus 2 days
+Table 11: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. in VOYAGER- On Treatment Plus 2 Days
 
 | Parameter | n (%) | Event rate %/year | n (%) | Event rate %/year |  |
 | --- | --- | --- | --- | --- | --- |
@@ -189,9 +189,9 @@ Table 8: Major Bleeding EventsMajor bleeding events within each subcategory were
 
 Other Adverse Reactions
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 9.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 12.
 
-Table 9: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
+Table 12: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
 
 | Body System Adverse Reaction |  |  |
 | --- | --- | --- |
@@ -213,9 +213,9 @@ Table 9: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XAR
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritus | 53 (2.2) | 27 (1.1) |
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 10.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 13.
 
-Table 10: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
+Table 13: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
 | Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |
@@ -229,6 +229,71 @@ Table 10: Other Adverse Drug ReactionsAdverse reaction occurring any time follow
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritus | 96 (2.1) | 79 (1.8) |
 | Blister | 63 (1.4) | 40 (0.9) |
+
+Pediatric Patients
+
+Treatment of Venous Thromboembolism and Reduction in Risk of Recurrent Venous Thromboembolism in Pediatric Patients
+
+The safety assessment is based on data from the EINSTEIN Junior Phase 3 study in 491 patients from birth to less than 18 years of age.
+Patients were randomized 2:1 to receive body weight-adjusted doses of XARELTO or comparator (unfractionated heparin, low molecular weight heparin, fondaparinux or VKA).
+
+Discontinuation due to bleeding events occurred in 6 (1.8%) patients in the XARELTO group and 3 (1.9%) patients in the comparator group.
+
+Table 14 shows the number of patients experiencing bleeding events in the EINSTEIN Junior study.
+In female patients who had experienced menarche, ages 12 to <18 years of age, menorrhagia occurred in 23 (27%) female patients in the XARELTO group and 5 (10%) female patients in the comparator group.
+
+Table 14: Bleeding Events in EINSTEIN Junior Study – Safety Analysis Set - Main Treatment PeriodThese events occurred after randomization until 3 months of treatment (1 month for patients <2 years with central venous catheter-related VTE (CVC-VTE).
+Patients may have more than one event.
+
+| Parameter | XARELTOTreatment schedule: body weight-adjusted doses of XARELTO; randomized 2:1 (XARELTO: Comparator). N=329 n (%) | Comparator GroupUnfractionated heparin (UFH), low molecular weight heparin (LMWH), fondaparinux or VKA. N=162 n (%) |
+| --- | --- | --- |
+| Major bleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 0 | 2 (1.2) |
+| Clinically relevant non-major bleedingDefined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 10 (3.0) | 1 (0.6) |
+| Trivial bleeding | 113 (34.3) | 44 (27.2) |
+| Any bleeding | 119 (36.2) | 45 (27.8) |
+
+Non-bleeding adverse reactions reported in ≥5% of XARELTO-treated patients are shown in Table 15.
+
+Table 15: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator.
+Reported in XARELTO-Treated Patients by ≥5% in EINSTEIN Junior Study
+
+| Adverse Reaction | XARELTO N=329 n (%) | Comparator Group N=162 n (%) |
+| --- | --- | --- |
+| Pain in extremity | 23 (7) | 7 (4.3) |
+| FatigueThe following terms were combined: fatigue, asthenia. | 23 (7) | 7 (4.3) |
+
+A clinically relevant adverse reaction in XARELTO-treated patients was vomiting (10.6% in the XARELTO group vs 8% in the comparator group).
+
+Thromboprophylaxis in Pediatric Patients with Congenital Heart Disease (CHD) after the Fontan Procedure
+
+The data below are based on Part B of the UNIVERSE study which was designed to evaluate the safety and efficacy of XARELTO for thromboprophylaxis in 98 children with CHD after the Fontan procedure who took at least one dose of study drug.
+Patients in Part B were randomized 2:1 to receive either body weight-adjusted doses of XARELTO or aspirin (approximately 5 mg/kg).
+
+Discontinuation due to bleeding events occurred in 1 (1.6%) patient in the XARELTO group and no patients in the aspirin group.
+
+Table 16 shows the number of patients experiencing bleeding events in the UNIVERSE study.
+
+Table 16: Bleeding Events in UNIVERSE Study - Safety Analysis Set - On Treatment Plus 2 Days
+
+| Parameter | XARELTOTreatment schedule: body weight-adjusted doses of XARELTO or aspirin (approximately 5 mg/kg); randomized 2:1 (XARELTO: Aspirin). N=64 n (%) | Aspirin N=34 n (%) |
+| --- | --- | --- |
+| Major BleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of the equivalent of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 1 (1.6) | 0 |
+| Epistaxis leading to transfusion | 1 (1.6) | 0 |
+| Clinically relevant non-major (CRNM) bleedingDefined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 4 (6.3) | 3 (8.8) |
+| Trivial bleeding | 21 (32.8) | 12 (35.3) |
+| Any bleeding | 23 (35.9) | 14 (41.2) |
+
+Non-bleeding adverse reactions reported in ≥5% of XARELTO-treated patients are shown in Table 17.
+
+Table 17: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus aspirin.
+Reported by ≥5% of XARELTO-Treated Patients in UNIVERSE Study (Part B)
+
+| Adverse Reaction | XARELTO N=64 n (%) | Aspirin N=34 n (%) |
+| --- | --- | --- |
+| Cough | 10 (15.6) | 3 (8.8) |
+| Vomiting | 9 (14.1) | 3 (8.8) |
+| GastroenteritisThe following terms were combined: Gastroenteritis: gastroenteritis, gastroenteritis viral Rash: rash, rash maculo-papular, viral rash | 8 (12.5) | 1 (2.9) |
+| Rash | 6 (9.4) | 2 (5.9) |
 
 ## 6.2 Postmarketing Experience
 
