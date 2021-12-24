@@ -10,7 +10,7 @@ The mechanism of the rise in blood pressure is 3-fold: a direct myocardial stimu
 Intravenous use for hypotension associated with septic shock:
 
 Following intravenous administration of epinephrine, increases in systolic blood pressure and heart rate are observed.
-Decreases in systemic vascular resistance and diastolic blood pressure are observed at low doses of epinephrine because of β2-mediated vasodilation, but are overtaken by α1-mediated peripheral vasoconstriction at higher doses leading to increase in diastolic blood pressure.
+Decreases in systemic vascular resistance and diastolic blood pressure are observed at low doses of epinephrine because of β 2-mediated vasodilation, but are overtaken by α 1-mediated peripheral vasoconstriction at higher doses leading to increase in diastolic blood pressure.
 The onset of blood pressure increase following an intravenous dose of epinephrine is < 5 minutes and the time to offset blood pressure response occurs within 20 min. Most vascular beds are constricted including renal, splanchnic, mucosal and skin.
 
 Intramuscular and subcutaneous use for anaphylaxis
