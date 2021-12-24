@@ -2,7 +2,7 @@
 
 ## 2.1 HIV Counseling and Testing
 
-HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment because of the risk of emergence of resistant-HIV-1 and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.2)].
+HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment because of the risk of emergence of resistant human immunodeficiency virus type 1 (HIV-1) and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage for Adult Patients
 
@@ -41,7 +41,7 @@ There are insufficient data to recommend a specific dosage of EPIVIR-HBV in pedi
 
 ## 2.6 Assessing Patients during Treatment
 
-Patients should be monitored regularly during treatment by a physician experienced in the management of chronic hepatitis B. During treatment, combinations of events such as return of persistently elevated ALT, increasing levels of HBV DNA over time after an initial decline below assay limit, progression of clinical signs or symptoms of hepatic disease, and/or worsening of hepatic necroinflammatory findings may be considered as potentially reflecting loss of therapeutic response.
+Patients should be monitored regularly during treatment by a physician experienced in the management of chronic hepatitis B. During treatment, combinations of events such as return of persistently elevated alanine aminotransferase (ALT), increasing levels of HBV DNA over time after an initial decline below assay limit, progression of clinical signs or symptoms of hepatic disease, and/or worsening of hepatic necroinflammatory findings may be considered as potentially reflecting loss of therapeutic response.
 Such observations should be taken into consideration when determining the advisability of continuing therapy with EPIVIR-HBV.
 
-The optimal duration of treatment, the durability of HBeAg seroconversions occurring during treatment, and the relationship between treatment response and long‑term outcomes such as hepatocellular carcinoma or decompensated cirrhosis are not known.
+The optimal duration of treatment, the durability of Hepatitis B e Antigen (HBeAg) seroconversions occurring during treatment, and the relationship between treatment response and long‑term outcomes such as hepatocellular carcinoma or decompensated cirrhosis are not known.

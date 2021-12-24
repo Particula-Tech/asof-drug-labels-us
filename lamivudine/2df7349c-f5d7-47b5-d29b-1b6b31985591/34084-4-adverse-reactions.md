@@ -36,7 +36,7 @@ Frequencies of Specified Laboratory Abnormalities Reported during Treatment at a
 | --- | --- | --- | --- | --- | --- |
 | EPIVIR-HBV | Placebo |  |  |  |  |
 | Serum Lipase ≥2.5 x ULNb | 10% | 7% |  |  |  |
-| CPK ≥7 x baseline | 9% | 5% |  |  |  |
+| Creatine Phosphokinase (CPK) ≥7 x baseline | 9% | 5% |  |  |  |
 | Platelets <50,000/mm3 | 4% | 3% |  |  |  |
 | a Includes subjects treated for 52 to 68 weeks. b Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information. ULN = Upper limit of normal. |  |  |  |  |  |
 

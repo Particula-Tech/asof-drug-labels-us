@@ -39,7 +39,7 @@ Elimination: The majority of lamivudine is eliminated unchanged in urine by acti
 In 9 healthy subjects given a single 300-mg oral dose of lamivudine, renal clearance was 199.7 ± 56.9 mL per min (mean ± SD).
 In 20 HIV-1-infected subjects given a single IV dose, renal clearance was 280.4 ± 75.2 mL per min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
 
-In most single-dose trials in HIV-1-infected subjects, HBV-infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t½) ranged from 5 to 7 hours.
+In most single-dose trials with plasma sampling for up to 48 or 72 hours after dosing, the observed mean elimination half-life (t½) ranged from 13 to 19 hours.
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
 
@@ -146,7 +146,7 @@ The principal mode of action of 3TC-TP is inhibition of the RNA- and DNA-depende
 Antiviral Activity
 
 Activity of lamivudine against HBV in cell culture was assessed in HBV DNA‑transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
-EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 microM (2.3 ng per mL) to 5.6 microM (1.3 mcg per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
+EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 microM (2.3 ng per mL) to 5.6 microM (1,288 ng per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
 See the prescribing information for EPIVIR regarding activity of lamivudine against HIV.
 The anti-HBV activity of lamivudine in combination with adefovir or tenofovir in cell culture was not antagonistic.
 
