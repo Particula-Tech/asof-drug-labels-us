@@ -1,4 +1,4 @@
-# DESCRIPTION
+# Rx Only DESCRIPTION
 
 Isosorbide dinitrate (ISDN) is 1,4:3,6-dianhydro-D-glucitol 2,5-dinitrate, an organic nitrate whose structural formula is:
 
