@@ -1,20 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
-Sulfasalazine is split by bacterial action in the colon into sulfapyridine (SP) and mesalamine (5-ASA).
-It is thought that the mesalamine component is therapeutically active in ulcerative colitis [A.K.
-Azad Khan et al, Lancet 2:892-895 (1977)].
-The usual oral dose of sulfasalazine for active ulcerative colitis in adults is two to four grams per day in divided doses.
-Four grams of sulfasalazine provide 1.6 g of free mesalamine to the colon.
 Each Mesalamine Rectal Suspension Enema delivers up to 4 g of mesalamine to the left side of the colon.
 
-The mechanism of action of mesalamine (and sulfasalazine) is unknown, but appears to be topical rather than systemic.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
+The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
+Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
 
 ## Preclinical Toxicology
 
 Preclinical studies have shown the kidney to be the major target organ for mesalamine toxicity.
 Adverse renal function changes were observed in rats after a single 600 mg/kg oral dose, but not after a 200 mg/kg dose.
-Gross kidney lesions, including papillary necrosis, were observed after a single oral >900 mg/kg dose, and after I.V. doses of >214 mg/kg.
+Gross kidney lesions, including papillary necrosis, were observed after a single oral > 900 mg/kg dose, and after I.V. doses of > 214 mg/kg.
 Mice responded similarly.
 In a 13-week oral (gavage) dose study in rats, the high dose of 640 mg/kg/day mesalamine caused deaths, probably due to renal failure, and dose-related renal lesions (papillary necrosis and/or multifocal tubular injury) were seen in most rats given the high dose (males and females) as well as in males receiving lower doses 160 mg/kg/day.
 Renal lesions were not observed in the 160 mg/kg/day female rats.
@@ -47,9 +42,9 @@ In addition, steady state plasma levels demonstrated a lack of accumulation of e
 
 In a placebo-controlled, international, multicenter trial of 153 patients with active distal ulcerative colitis, proctosigmoiditis or proctitis, Mesalamine Rectal Suspension Enema reduced the overall disease activity index (DAI) and individual components as follows:
 
-|  |  | N | Baseline | Day 22 | End Point | Change Baseline to End point* |
+|  |  | N | Baseline | Day 22 | End Point | Change Baseline to End Point* |
 | --- | --- | --- | --- | --- | --- | --- |
-| EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, Mean |  |  |  |  |  |  |
+| EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, mean |  |  |  |  |  |  |
 | Overall DAI | Mesalamine Rectal Suspension Enema | 76 | 7.42 | 4.05† | 3.37‡ | -55.07%‡ |
 | Placebo | 77 | 7.40 | 6.03 | 5.83 | -21.58% |  |
 | Stool Frequency | Mesalamine Rectal Suspension Enema |  | 1.58 | 1.11§ | 1.01† | -0.57§ |
@@ -58,8 +53,8 @@ In a placebo-controlled, international, multicenter trial of 153 patients with a
 | Placebo |  | 1.73 | 1.21 | 1.11 | -0.61 |  |
 | Mucosal Inflammation | Mesalamine Rectal Suspension Enema |  | 2.17 | 1.22† | 0.96‡ | -1.21† |
 | Placebo |  | 2.18 | 1.74 | 1.61 | -0.56 |  |
-| Physician's Assessment of | Mesalamine Rectal Suspension Enema |  | 1.86 | 1.13‡ | 0.88‡ | -0.97‡ |
-| Disease Severity | Placebo |  | 1.87 | 1.62 | 1.55 | -0.30 |
+| Physician's Assessment of Disease Severity | Mesalamine Rectal Suspension Enema |  | 1.86 | 1.13‡ | 0.88‡ | -0.97‡ |
+| Placebo |  | 1.87 | 1.62 | 1.55 | -0.30 |  |
 
 Each parameter has a 4-point scale with a numerical rating: 0 = normal, 1 = mild, 2 = moderate, 3 = severe.
 The four parameters are added together to produce a maximum overall DAI of 12.
