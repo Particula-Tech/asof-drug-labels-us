@@ -5,7 +5,7 @@
 COSENTYX may increase the risk of infections.
 In clinical trials, a higher rate of infections was observed in COSENTYX treated subjects compared to placebo-treated subjects.
 In placebo-controlled clinical trials in subjects with moderate to severe plaque psoriasis, higher rates of common infections, such as nasopharyngitis (11.4% versus 8.6%), upper respiratory tract infection (2.5% versus 0.7%) and mucocutaneous infections with candida (1.2% versus 0.3%) were observed with COSENTYX compared with placebo.
-A similar increase in risk of infection was seen in placebo-controlled trials in subjects with psoriatic arthritis, ankylosing spondylitis and non-radiographic axial spondyloarthritis.
+A similar increase in risk of infection was seen in placebo-controlled trials in subjects with PsA, AS and nr-axSpA.
 The incidence of some types of infections appeared to be dose-dependent in clinical studies [see Adverse Reactions (6.1)].
 In the postmarketing setting, serious and some fatal infections have been reported in patients receiving COSENTYX.
 
@@ -25,7 +25,7 @@ Monitor patients closely for signs and symptoms of active TB during and after tr
 ## 5.3 Inflammatory Bowel Disease
 
 Caution should be used when prescribing COSENTYX to patients with inflammatory bowel disease.
-Exacerbations, in some cases serious, occurred in COSENTYX treated subjects during clinical trials in plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and non-radiographic axial spondyloarthritis.
+Exacerbations, in some cases serious, occurred in COSENTYX treated subjects during clinical trials in plaque psoriasis, PsA, AS and nr-axSpA.
 In addition, new onset inflammatory bowel disease cases occurred in clinical trials with COSENTYX.
 In an exploratory trial in 59 subjects with active Crohn’s disease, there were trends toward greater disease activity and increased adverse events in the secukinumab group as compared to the placebo group.
 Patients who are treated with COSENTYX should be monitored for signs and symptoms of inflammatory bowel disease [see Adverse Reactions (6.1)].
@@ -43,5 +43,5 @@ The safe use of COSENTYX Sensoready pen or prefilled syringe in latex-sensitive 
 ## 5.6 Immunizations
 
 Prior to initiating therapy with COSENTYX, consider completion of all age appropriate immunizations according to current immunization guidelines.
-COSENTYX may alter a patient`s immune response to live vaccines.
-Avoid use of live vaccines in patients treated with COSENTYX.
+COSENTYX may alter a patient's immune response to live vaccines.
+Avoid use of live vaccines in patients treated with COSENTYX [see Clinical Pharmacology (12.2)].

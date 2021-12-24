@@ -44,9 +44,9 @@ Instructions for reconstitution of COSENTYX 150 mg for injection:
 | When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. |  |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
-| Revised: May 2021 |  |
+| Issued: December 2021 |  |
 | © Novartis |  |
-| T2021-68 |  |
+| T2021-164 |  |
 
 INSTRUCTIONS FOR USE
 
@@ -120,10 +120,10 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 14. Slowly release the plunger and allow the syringe guard to automatically cover the exposed needle (see Figure I). Step 15. There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. | Figure I |
 | If your prescribed dose of COSENTYX is 300 mg, repeat steps 4 through 15 with a new COSENTYX prefilled syringe. How should I dispose of used COSENTYX prefilled syringes? |  |
 | Step 16. Put your used prefilled syringes in a FDA-cleared sharps disposal container right away after use (see Figure J). Do not throw away (dispose of) prefilled syringes in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: a. made of a heavy-duty plastic, b. can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, c. upright and stable during use, d. leak-resistant, and e. properly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure J |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: May 2021 |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Issued: December 2021 |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
 | © Novartis |  |
-| T2021-69 |  |
+| T2021-165 |  |
 
 INSTRUCTIONS FOR USE
 
@@ -193,10 +193,10 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 13. Keep the plunger fully depressed while you carefully pull the needle straight out from the injection site (see Figure H). | Figure H |
 | Step 14. Slowly release the plunger and allow the syringe guard to automatically cover the exposed needle (see Figure I). Step 15. There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. | Figure I |
 | How should I dispose of used COSENTYX prefilled syringe? Step 16. Put your used prefilled syringe in a FDA-cleared sharps disposal container right away after use (see Figure J). Do not throw away (dispose of) prefilled syringes in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure J |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Issued: May 2021 |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Issued: December 2021 |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
 | © Novartis |  |
-| T2021-70 |  |
+| T2021-166 |  |
 
 INSTRUCTIONS FOR USE
 
@@ -261,7 +261,7 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 8. Check the green indicator fills the window (see Figure L): This means the medicine has been delivered. Contact your healthcare provider if the green indicator is not visible.There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. If your prescribed dose of COSENTYX is 300 mg, repeat steps 1 through 8 with a new COSENTYX Sensoready Pen. | Figure L |
 | How should I dispose of used COSENTYX Sensoready Pens? |  |
 | Step 9. Put your used Sensoready Pens in a FDA-cleared sharps disposal container right away after use (see Figure M). Do not throw away (dispose of) Sensoready Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes, and Sensoready Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure M |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: May 2021 |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Issued: December 2021 |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
 | © Novartis |  |
-| T2021-71 |  |
+| T2021-167 |  |

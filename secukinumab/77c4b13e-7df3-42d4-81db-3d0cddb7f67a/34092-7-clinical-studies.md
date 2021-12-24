@@ -90,7 +90,7 @@ Overall, 60% of the subjects were female, 83% were Caucasian, the median body we
 At baseline, the median PASI score was 26 (ranged from 17 to 60), and 99% of the subjects had an IGA modified 2011 score of 4 (‘severe’).
 Approximately 43% of the subjects had prior exposure to phototherapy, 53% to conventional systemic therapy, 3% to biologics, and 9% had concomitant psoriatic arthritis.
 
-The co-primary endpoints were the proportion of subjects who achieved a reduction in PASI score of at least 75% (PASI 75) from baseline to Week 12 and the proportion of subjects who achieved an IGA modified 2011 score of ‘clear’ or ‘almost clear’ (0 or 1) with at least a 2 point improvement from baseline to Week 12.
+The co-primary endpoints were the proportion of subjects who achieved a reduction in PASI score of at least 75% (PASI 75) from baseline to Week 12 and the proportion of subjects who achieved an IGA modified 2011 score of ‘clear’ or ‘almost clear’ (0 or 1) with at least a 2-point improvement from baseline to Week 12.
 The key secondary endpoint was the proportion of subjects who achieved a reduction in PASI score of at least 90% (PASI 90) from baseline to Week 12.
 
 Clinical Response
@@ -107,7 +107,7 @@ Table 5: Clinical Outcomes at Week 12 in Pediatric Subjects with Severe Plaque P
 | PASI 90 response | 9 (41) | 1 (5) | 17 (81) | 0 (0) | 26 (60) | 1 (2) |
 | Non-responder imputation was used to handle missing values. aCOSENTYX treated subjects received 75 mg for subjects < 50 kg and 150 mg for subjects ≥ 50 kg body weight. |  |  |  |  |  |  |
 
-## 14.3 Psoriatic Arthritis
+## 14.3 Adult Psoriatic Arthritis
 
 The safety and efficacy of COSENTYX were assessed in 1999 patients, in 3 randomized, double-blind, placebo-controlled studies (PsA1, PsA2 and PsA3) in adult patients, age 18 years and older with active psoriatic arthritis (greater than or equal to 3 swollen and greater than or equal to 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
 Patients in these studies had a diagnosis of PsA of at least 5 years across all studies.
@@ -160,7 +160,7 @@ aPatients who met escape criteria (less than 20% improvement in tender or swolle
 
 The improvements in the components of the ACR response criteria are shown in Table 7.
 
-Table 7: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
+Table 7: Mean Change From Baseline in ACR Components at Week 16a (PsA1 Study)
 
 |  | COSENTYX 150 mg (N = 100) | COSENTYX 300 mg (N = 100) | Placebo (N = 98) |
 | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ At Week 16 in PsA1 study, estimated mean change from baseline was -0.23 in the p
 
 ## 14.4 Ankylosing Spondylitis
 
-The safety and efficacy of COSENTYX were assessed in 816 patients in three randomized, double-blind, placebo-controlled studies (AS1, AS2 and AS3) in adult patients 18 years of age and older with active ankylosing spondylitis.
+The safety and efficacy of COSENTYX were assessed in 816 patients in three randomized, double-blind, placebo-controlled studies (AS1, AS2, and AS3) in adult patients 18 years of age and older with active ankylosing spondylitis.
 Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
 At baseline, approximately 13% and 25% used concomitant methotrexate or sulfasalazine, respectively.
 Overall, 29% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
@@ -262,13 +262,13 @@ Table 10: ASAS20 Components and Other Measures of Disease Activity at Week 16 (A
 The percent of patients achieving ASAS20 responses by visit is shown in Figure 2.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).
 
-Figure 2: ASAS20 Responses in all AS1 Study Patients Over Time Up to Week 16
+Figure 2: ASAS20 Responses in All AS1 Study Patients Over Time Up to Week 16
 
 In AS3 Study, patients treated with COSENTYX (150 mg and 300 mg) demonstrated improved signs and symptoms, and had comparable efficacy responses, regardless of dose, that were superior to placebo at Week 16 for the primary and most secondary endpoints.
 At Week 16, the ASAS20 and ASAS40 responses were 58.1% and 40.5% for 150 mg and 60.5% and 42.1% for 300 mg, respectively.
 The percent of patients achieving ASAS20 responses by visit is shown in Figure 3.
 
-Figure 3: ASAS20 Responses in all AS3 Study Patients Over Time Up to Week 16
+Figure 3: ASAS20 Responses in All AS3 Study Patients Over Time Up to Week 16
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.
 
@@ -324,3 +324,41 @@ Figure 4: ASAS40 Responses in nr-axSpA1 Study Over Time up to Week 16
 Health Related Quality of Life
 
 COSENTYX treated patients showed improvement in both load and without load arms compared to placebo-treated patients at Week 16 in health-related quality of life as measured by ASQoL (LS mean change: Week 16: -3.5 and -3.6 vs -1.8, respectively).
+
+## 14.6 Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
+
+The efficacy and safety of secukinumab were assessed in 86 patients in a two year, 3-part, double-blind, placebo-controlled, event-driven, randomized, Phase 3 study (NCT03031782) in patients 2 to < 18 years of age with active ERA or JPsA as diagnosed based on a modified International League of Associations for Rheumatology (ILAR) Juvenile Idiopathic Arthritis (JIA) classification criteria.
+The study consisted of an open-label portion (Part 1) followed by randomized withdrawal (Part 2) followed by open-label treatment (Part 3).
+The JIA patient subtypes at study entry were: 60.5% ERA and 39.5% JPsA.
+In the study 67.6% of patients with JPsA, and 63.5% of patients with ERA, were treated concomitantly with MTX.
+Patients were given a dose of 75 mg if weighing < 50 kg, or 150 mg if weighing ≥ 50 kg.
+
+The primary endpoint was time to flare in Part 2.
+Disease flare was defined as a ≥ 30% worsening in at least three of the six JIA ACR response criteria and ≥ 30% improvement in not more than one of the six JIA ACR response criteria and a minimum of two active joints.
+
+In open-label Part 1, all patients received secukinumab until Week 12.
+Patients classified as responders (achieving JIA ACR30 response) at Week 12 entered into the Part 2 double-blind phase and were randomized 1:1 to continue treatment with secukinumab or begin treatment with placebo.
+Similar responses were seen in each JIA subtype (JPsA and ERA).
+The JIA ACR 30, 50, 70 and 90 responses for patients with JPsA and ERA at Week 12 are presented below in Table 13.
+
+Table 13: JIA ACR 30, 50, 70 and 90 Responses at Week 12
+
+| Number of subjects with response (%) | JIA ACR 30 | JIA ACR 50 | JIA ACR 70 | JIA ACR 90 |
+| --- | --- | --- | --- | --- |
+| JPsA (N = 34) | 31 (91) | 31 (91) | 24 (71) | 16 (47) |
+| ERA (N = 52) | 44 (85) | 41 (79) | 34 (65) | 17 (33) |
+
+Juvenile Psoriatic Arthritis
+
+During Part 2, a total of 11 JPsA patients in the placebo group experienced a flare event compared with 4 JPsA patients in the secukinumab group.
+The risk of flare was reduced by 85% for patients on secukinumab compared with patients on placebo (Hazard Ratio = 0.15, 95% CI: 0.04 to 0.56) (Figure 5).
+
+Figure 5: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for JPsA Patients
+
+Enthesitis-Related Arthritis
+
+During Part 2, a total of 10 ERA patients in the placebo group experienced a flare event compared with 6 ERA patients in the secukinumab group.
+The risk of flare was reduced by 53% for patients on secukinumab compared with patients on placebo (Hazard Ratio = 0.47, 95% CI: 0.17 to 1.32) (Figure 6).
+Supplementary analyses provided confirmatory evidence of the treatment effect in ERA.
+
+Figure 6: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for ERA Patients

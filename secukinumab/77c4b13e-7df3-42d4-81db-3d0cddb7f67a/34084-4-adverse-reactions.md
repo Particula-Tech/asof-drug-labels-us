@@ -21,7 +21,7 @@ Subjects randomized to COSENTYX received 300 mg or 150 mg doses subcutaneously a
 
 Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the COSENTYX groups than the placebo group during the 12-week placebo-controlled period of the placebo-controlled trials.
 
-Table 2: Adverse Reactions Reported by Greater Than 1% of Subjects with Plaque Psoriasis Through Week 12 in Trials PsO1, PsO2, PsO3, and PsO4
+Table 2: Adverse Reactions Reported by Greater Than 1% of Subjects With Plaque Psoriasis Through Week 12 in Trials PsO1, PsO2, PsO3, and PsO4
 
 |  | COSENTYX |  |  |
 | --- | --- | --- | --- |
@@ -91,13 +91,13 @@ In the pediatric safety pool, which includes all subjects who took at least one 
 During the placebo-controlled period which included a total of 80 subjects treated with secukinumab and 41 subjects treated with placebo up to 12 weeks, ≥ CTCAE Grade 2 neutropenia was reported in 3 (4%) of the subjects treated with secukinumab compared with no subjects treated with placebo.
 No serious infections were associated with cases of neutropenia.
 
-Psoriatic Arthritis
+Adult Psoriatic Arthritis
 
-COSENTYX was studied in two placebo-controlled psoriatic arthritis trials with 1003 patients (703 patients on COSENTYX and 300 patients on placebo).
+COSENTYX was studied in two placebo-controlled PsA trials with 1003 patients (703 patients on COSENTYX and 300 patients on placebo).
 Of the 703 patients who received COSENTYX, 299 patients received a subcutaneous loading dose of COSENTYX (PsA1) and 404 patients received an intravenous loading dose of secukinumab (PsA2) followed by COSENTYX administered by subcutaneous injection every four weeks.
-During the 16-week placebo-controlled period of the trials in patients with psoriatic arthritis, the overall proportion of patients with adverse events was similar in the secukinumab and placebo-treatment groups (59% and 58%, respectively).
+During the 16-week placebo-controlled period of the trials in patients with PsA, the overall proportion of patients with adverse events was similar in the secukinumab and placebo-treatment groups (59% and 58%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, upper respiratory tract infection, headache, nausea, and hypercholesterolemia.
-The safety profile observed in patients with psoriatic arthritis treated with COSENTYX is consistent with the safety profile in psoriasis.
+The safety profile observed in patients with PsA treated with COSENTYX is consistent with the safety profile in psoriasis.
 
 Similar to the clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (29%) compared to placebo group (26%).
 
@@ -106,24 +106,29 @@ There were three cases of inflammatory bowel disease, of which two patients rece
 
 Ankylosing Spondylitis
 
-COSENTYX was studied in two placebo-controlled ankylosing spondylitis trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
+COSENTYX was studied in two placebo-controlled AS trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
 Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1), and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
-During the 16-week placebo-controlled period of the trials in patients with ankylosing spondylitis, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
+During the 16-week placebo-controlled period of the trials in patients with AS, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, nausea, and upper respiratory tract infection.
 The safety profile observed in patients with ankylosing spondylitis treated with COSENTYX is consistent with the safety profile in psoriasis.
 In a third controlled study of AS (study AS3), the safety profile of the 300 mg dose of COSENTYX was consistent with the safety profile of the 150 mg dose of COSENTYX.
 
 Similar to clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (31%) compared to the placebo group (18%).
 
-In the original ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period [5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)].
+In the original AS program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period [5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)].
 During the placebo-controlled 16-week period, there were 2 Crohn’s disease exacerbations and 1 new onset ulcerative colitis case that was a serious adverse event in patients treated with COSENTYX compared to none of the patients treated with placebo.
 During the remainder of the study when all patients received COSENTYX, 1 patient developed Crohn’s disease, 2 patients had Crohn’s exacerbations, 1 patient developed ulcerative colitis, and 1 patient had an ulcerative colitis exacerbation.
 
 Non-Radiographic Axial Spondyloarthritis
 
-COSENTYX was studied in one randomized, double-blind, placebo-controlled non-radiographic axial spondyloarthritis trial with 555 patients (185 patients on with load COSENTYX, 184 patients on without load COSENTYX and 186 patients on placebo).
+COSENTYX was studied in one randomized, double-blind, placebo-controlled nr-axSpA trial with 555 patients (185 patients on with load COSENTYX, 184 patients on without load COSENTYX and 186 patients on placebo).
 The safety profile for patients with nr-axSpA treated with COSENTYX was overall similar to the safety profile seen in patients with AS and other previous experience with COSENTYX.
 Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years vs 72 per 100 patient years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years vs 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
+
+Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
+
+COSENTYX was studied in one double-blind, placebo-controlled, event-driven, randomized trial in 86 pediatric patients aged 2 to < 18 years old with Juvenile Psoriatic Arthritis (JPsA) and ERA.
+The safety profile reported in this study was consistent with the safety profile of secukinumab.
 
 ## 6.2 Immunogenicity
 

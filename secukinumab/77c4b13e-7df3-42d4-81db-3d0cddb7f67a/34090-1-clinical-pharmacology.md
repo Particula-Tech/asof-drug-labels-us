@@ -14,8 +14,8 @@ Serum levels of total IL-17A (free and secukinumab-bound IL-17A) measured at Wee
 These pharmacodynamic activities are based on small exploratory studies.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which secukinumab exerts its clinical effects is unknown.
 
-Increased numbers of IL-17A producing lymphocytes and innate immune cells and increased levels of IL-17A have been found in the blood of patients with psoriatic arthritis and ankylosing spondylitis.
-Increased numbers of IL-17A producing lymphocytes have also been found in patients with non-radiographic axial spondyloarthritis.
+Increased numbers of IL-17A producing lymphocytes and innate immune cells and increased levels of IL-17A have been found in the blood of patients with PsA and AS.
+Increased numbers of IL-17A producing lymphocytes have also been found in patients with nr-axSpA.
 
 Immune Response to Non-Live Vaccines During Treatment
 
@@ -24,7 +24,7 @@ The clinical effectiveness of meningococcal and influenza vaccines has not been 
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic (PK) properties of secukinumab observed in psoriatic arthritis, ankylosing spondylitis and non-radiographic axial spondyloarthritis patients were similar to the PK properties displayed in plaque psoriasis patients.
+The pharmacokinetic (PK) properties of secukinumab observed in PsA, AS and nr-axSpA patients were similar to the PK properties displayed in plaque psoriasis patients.
 
 Absorption
 
@@ -73,13 +73,16 @@ No formal trial of the effect of hepatic or renal impairment on the pharmacokine
 
 Geriatric Patients
 
-Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis.
+Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, PsA and AS.
 Subjects who are 65 years or older had apparent clearance of secukinumab similar to subjects less than 65 years old.
 
 Pediatric Patients
 
 In a pool of the two pediatric trials, subjects with moderate to severe plaque psoriasis (6 years of age and older) were administered secukinumab at the recommended pediatric dosing regimen.
 At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects weighing < 25 kg and receiving 75 mg of secukinumab, subjects weighing ≥ 25 and < 50 kg and receiving 75 mg of secukinumab, and subjects weighing ≥ 50 kg and receiving 150 mg of secukinumab, respectively.
+
+In a pediatric study, JPsA and ERA patients (2 to less than 18 years of age) were administered secukinumab at the recommended pediatric dosing regimen.
+At Week 24, patients weighing ≥15 kg and < 50 kg, and patients weighing ≥ 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
 
 Drug Interactions
 
