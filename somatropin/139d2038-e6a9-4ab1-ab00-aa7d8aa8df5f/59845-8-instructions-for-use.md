@@ -1,6 +1,6 @@
 Nutropin AQ® NuSpin® 5 (somatropin) injection, for subcutaneous use
 
-Genentech
+Genentech Rx only
 
 INSTRUCTIONS FOR USE
 
@@ -36,7 +36,7 @@ The device can be used in any setting, including the home, and is disposable.
 
 Nutropin AQ® NuSpin® 10 (somatropin) injection, for subcutaneous use
 
-Genentech
+Genentech Rx only
 
 INSTRUCTIONS FOR USE
 
@@ -72,7 +72,7 @@ The device can be used in any setting, including the home, and is disposable.
 
 Nutropin AQ® NuSpin® 20 (somatropin) injection, for subcutaneous use
 
-Genentech
+Genentech Rx only
 
 INSTRUCTIONS FOR USE
 
