@@ -49,4 +49,4 @@ Manufactured by: Catalent Pharma Solutions 1100 Enterprise Drive Winchester, KY 
 Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07-2021-02
+12-2021-03
