@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020816"
+  ],
+  "inn": "brinzolamide",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0722-10",
+    "0078-0722-15"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide",
+      "name": "Azopt"
+    }
+  ],
+  "setid": "acc89925-3ee3-4632-98ae-38a546848346",
+  "source": "dailymed"
+}
