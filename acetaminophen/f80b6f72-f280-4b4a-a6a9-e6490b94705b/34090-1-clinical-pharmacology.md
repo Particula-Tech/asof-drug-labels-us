@@ -8,7 +8,7 @@ The precise mechanism of the analgesic and antipyretic properties of acetaminoph
 
 Acetaminophen has been shown to have analgesic and antipyretic activities in animal and human studies.
 
-Single doses of acetaminophen up to 3,000 mg and repeated doses of 1,000 mg every 6 hours for 48 hours have not been shown to cause a significant effect on platelet aggregation.
+Single-doses of acetaminophen up to 3,000 mg and repeated doses of 1,000 mg every 6 hours for 48 hours have not been shown to cause a significant effect on platelet aggregation.
 Acetaminophen does not have any immediate or delayed effects on small-vessel hemostasis.
 Clinical studies of both healthy subjects and patients with hemophilia showed no significant changes in bleeding time after receiving multiple doses of oral acetaminophen.
 
@@ -17,7 +17,7 @@ Clinical studies of both healthy subjects and patients with hemophilia showed no
 Distribution
 
 The pharmacokinetics of acetaminophen have been studied in patients and healthy subjects up to 60 years old.
-The pharmacokinetic profile of acetaminophen has been demonstrated to be dose proportional in adults following administration of single doses of 500, 650, and 1,000 mg.
+The pharmacokinetic profile of acetaminophen has been demonstrated to be dose proportional in adults following administration of single-doses of 500, 650, and 1,000 mg.
 
 The maximum concentration (Cmax) occurs at the end of the 15 minute intravenous infusion of acetaminophen.
 Compared to the same dose of oral acetaminophen, the Cmax following administration of acetaminophen is up to 70% higher, while overall exposure (area under the concentration time curve [AUC]) is very similar.
@@ -29,7 +29,7 @@ Acetaminophen Pharmacokinetic Parameters
 
 | Subpopulations | Mean (SD) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| AUC 0-6h (mcg× h/mL) | C max (mcg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
+| AUC 0-6h (mcg× h/mL) | C max mcg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |
 | Adolescents | 41 (7) | 31 (9) | 2.9 (0.7) | 0.29 (0.08) | 1.1 (0.3) |
 | Adults | 43 (11) | 28 (21) | 2.4 (0.6) | 0.27 (0.08) | 0.8 (0.2) |

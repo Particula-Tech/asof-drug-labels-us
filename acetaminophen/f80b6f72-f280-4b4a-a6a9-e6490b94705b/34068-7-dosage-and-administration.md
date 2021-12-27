@@ -10,25 +10,25 @@ To avoid the risk of overdose, ensure that the total amount of acetaminophen fro
 
 ## 2.2 Recommended Dosage: Adults and Adolescents
 
-Adults and adolescents weighing 50 kg and over: the recommended dosage of Acetaminophen Injection is 1,000 mg every 6 hours or 650 mg every 4 hours, with a maximum single dose of Acetaminophen Injection of 1,000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4,000 mg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
-Adults and adolescents weighing under 50 kg: the recommended dosage of Acetaminophen Injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of Acetaminophen Injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
+Adults and adolescents weighing 50 kg and over: the recommended dosage of Acetaminophen Injection is 1,000 mg every 6 hours or 650 mg every 4 hours, with a maximum single-dose of Acetaminophen Injection of 1,000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4,000 mg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
+Adults and adolescents weighing under 50 kg: the recommended dosage of Acetaminophen Injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single-dose of Acetaminophen Injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
 
 Table 1.
 Dosing for Adults and Adolescents
 
-| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single- dose | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- | --- | --- |
 | Adults and adolescents (13 years and older) weighing ≥ 50 kg | 650 mg | 1,000 mg | 1,000 mg | 4,000 mg in 24 hours |
 | Adults and adolescents (13 years and older) weighing < 50 kg | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3,750 mg) |
 
 ## 2.3 Recommended Dosage: Children
 
-Children 2 to 12 years of age: the recommended dosage of Acetaminophen Injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of Acetaminophen Injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
+Children 2 to 12 years of age: the recommended dosage of Acetaminophen Injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single-dose of Acetaminophen Injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
 
 Table 2.
 Dosing for Children
 
-| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single- dose | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- | --- | --- |
 | Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3,750 mg) |
 
