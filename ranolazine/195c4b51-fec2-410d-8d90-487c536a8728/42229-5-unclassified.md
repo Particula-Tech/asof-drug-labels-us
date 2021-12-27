@@ -8,19 +8,15 @@ Metformin exposure was not significantly increased when given with ranolazine ex
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
+Lifestar Pharma LLC
 
 1200 MacArthur Blvd
 
 Mahwah, NJ 07430 USA
 
-Manufactured by:
+Made in India
 
-Mankind Pharma Ltd.
-
-New Delhi, INDIA
-
-Revised: 11/2019, V-03
+Revised: 05/2021, V-04
 
 Patient Information
 

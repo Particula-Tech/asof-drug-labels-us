@@ -147,16 +147,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
+Lifestar Pharma LLC
 
 1200 MacArthur Blvd
 
 Mahwah, NJ 07430 USA
 
-Manufactured by:
+Made in India
 
-Mankind Pharma Ltd.
-
-New Delhi, INDIA
-
-Revised: 02/2019, V-02
+Revised: 05/2021, V-03
