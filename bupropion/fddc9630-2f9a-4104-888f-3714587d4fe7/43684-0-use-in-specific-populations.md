@@ -80,8 +80,8 @@ When considering the use of bupropion hydrochloride extended-release tablets (XL
 
 ## 8.5 Geriatric Use
 
-Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥ 65 years old and 47 were ≥ 75 years old.
-In addition, several hundred patients ≥ 65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
+Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
+In addition, several hundred patients ≥65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

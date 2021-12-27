@@ -21,16 +21,16 @@ Table 1: Risk Differences in the Number of Suicidality Cases by Age Group in the
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
-| < 18 years | 14 additional cases |
+| <18 years | 14 additional cases |
 | 18 to 24 years | 5 additional cases |
 | Decreases Compared to Placebo |  |
 | 25 to 64 years | 1 fewer case |
-| ≥ 65 years | 6 fewer cases |
+| ≥65 years | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e. beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning and Use in Specific Populations (8.4)].

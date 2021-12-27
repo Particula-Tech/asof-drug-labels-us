@@ -131,11 +131,11 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Nausea | 8% | 13% |
 | Constipation | 2% | 9% |
 | Flatulence | 3% | 6% |
-| Abdominal pain | < 1% | 2% |
+| Abdominal pain | <1% | 2% |
 | Nervous System Disorders |  |  |
 | Headache | 26% | 34% |
 | Dizziness | 5% | 6% |
-| Tremor | < 1% | 3% |
+| Tremor | <1% | 3% |
 | Infections and Infestations |  |  |
 | Nasopharyngitis | 12% | 13% |
 | Upper respiratory tract infection | 8% | 9% |
@@ -144,7 +144,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Insomnia | 13% | 20% |
 | Anxiety | 5% | 7% |
 | Abnormal dreams | 2% | 3% |
-| Agitation | < 1% | 2% |
+| Agitation | <1% | 2% |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Myalgia | 2% | 3% |
 | Pain in extremity | 2% | 3% |
@@ -157,34 +157,34 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 1% | 4% |
 | Reproductive System and Breast Disorders |  |  |
-| Dysmenorrhea | < 1% | 2% |
+| Dysmenorrhea | <1% | 2% |
 | Ear and Labyrinth Disorders |  |  |
-| Tinnitus | < 1% | 3% |
+| Tinnitus | <1% | 3% |
 | Vascular Disorders |  |  |
 | Hypertension | 0% | 2% |
 
 Changes in Body Weight
 
-Table 5 presents the incidence of body weight changes (≥ 5 lbs) in the short-term MDD trials using bupropion hydrochloride sustained-release.
+Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion hydrochloride sustained-release.
 There was a dose-related decrease in body weight.
 
-Table 5: Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in MDD Trials Using Bupropion Hydrochloride Sustained-Release
+Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion Hydrochloride Sustained-Release
 
 | Weight Change | Bupropion Hydrochloride Sustained-Release 300 mg/day(n=339) | Bupropion Hydrochloride Sustained-Release 400 mg/day(n=112) | Placebo(n=347) |
 | --- | --- | --- | --- |
-| Gained > 5 lbs | 3% | 2% | 4% |
-| Lost > 5 lbs | 14% | 19% | 6% |
+| Gained >5 lbs | 3% | 2% | 4% |
+| Lost >5 lbs | 14% | 19% | 6% |
 
-Table 6 presents the incidence of body weight changes (≥ 5 lbs) in the 3 SAD trials using bupropion hydrochloride extended-release.
-A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥ 5 lbs, compared to the placebo group (11%).
+Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion hydrochloride extended-release.
+A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs, compared to the placebo group (11%).
 These were relatively long-term trials (up to 6 months).
 
-Table 6: Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in SAD Trials Using Bupropion Hydrochloride Extended-Release
+Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using Bupropion Hydrochloride Extended-Release
 
 | Weight Change | Bupropion Hydrochloride Extended-Release 150 mg/day to 300 mg/day (n=537) | Placebo(n=511) |
 | --- | --- | --- |
-| Gained > 5 lbs | 11% | 21% |
-| Lost > 5 lbs | 23% | 11% |
+| Gained >5 lbs | 11% | 21% |
+| Lost >5 lbs | 23% | 11% |
 
 ## 6.2 Postmarketing Experience
 

@@ -29,13 +29,13 @@ Patients were randomized to treatment with bupropion hydrochloride extended-rele
 The initial bupropion dose was 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
 The mean bupropion doses in the 3 trials ranged from 257 mg to 280 mg per day.
-Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for < 3 months, 15% continued for > 6 months.
+Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for <3 months, 15% continued for >6 months.
 
-To enter the trials, patients must have had a low level of depressive symptoms, as demonstrated by a score of < 7 on the Hamilton Depression Rating Scale-17 (HAMD17) and a HAMD24 score of < 14.
+To enter the trials, patients must have had a low level of depressive symptoms, as demonstrated by a score of <7 on the Hamilton Depression Rating Scale-17 (HAMD17) and a HAMD24 score of <14.
 The primary efficacy measure was the Structured Interview Guide for the Hamilton Depression Rating Scale, Seasonal Affective Disorders (SIGH-SAD), which is identical to the HAMD24.
 The SIGH-SAD consists of the HAMD17 plus 7 items specifically assessing core symptoms of seasonal affective disorder: social withdrawal, weight gain, increased appetite, increased eating, carbohydrate craving, hypersomnia, and fatigability.
 The primary efficacy endpoint was the onset of a seasonal major depressive episode.
-The criteria for defining an episode included: 1) the investigator's judgment that a major depressive episode had occurred or that the patient required intervention for depressive symptoms, or 2) a SIGH-SAD score of > 20 on 2 consecutive weeks.
+The criteria for defining an episode included: 1) the investigator's judgment that a major depressive episode had occurred or that the patient required intervention for depressive symptoms, or 2) a SIGH-SAD score of >20 on 2 consecutive weeks.
 The primary analysis was a comparison of depression-free rates between the bupropion and placebo groups.
 
 In these 3 trials, the percentage of patients who were depression-free (did not have an episode of MDD) at the end of treatment was significantly higher in the bupropion group than in the placebo group: 81.4% vs. 69.7%, 87.2% vs. 78.7%, and 84.0% vs. 69.0% for Trials 1, 2 and 3, respectively.

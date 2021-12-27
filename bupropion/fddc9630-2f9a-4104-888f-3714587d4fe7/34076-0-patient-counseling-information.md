@@ -43,7 +43,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient (bupropion) found in ZYBAN (bupropion hydrochloride sustained-release tablets), which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN (bupropion hydrochloride sustained-release tablets) or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR (bupropion hydrochloride extended-release tablets (SR)), the sustained-release formulation; WELLBUTRIN (bupropion hydrochloride tablets), the immediate-release formulation, and APLENZIN (bupropion hydrobromide extended-release tablets), a bupropion hydrobromide formulation).
+Educate patients that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient (bupropion) found in ZYBAN® (bupropion hydrochloride sustained-release tablets), which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN® (bupropion hydrochloride sustained-release tablets) or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR® (bupropion hydrochloride sustained-release tablets (SR)), the sustained-release formulation; WELLBUTRIN® (bupropion hydrochloride tablets), the immediate-release formulation, and APLENZIN® (bupropion hydrobromide extended-release tablets), a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion hydrochloride products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -74,5 +74,4 @@ All other product/brand names are the trademarks of their respective owners.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Rev.
-01-2020-01
+Rev.12-2021-03
