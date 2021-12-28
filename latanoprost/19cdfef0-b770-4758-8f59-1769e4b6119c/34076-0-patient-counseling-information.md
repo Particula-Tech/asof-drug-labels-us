@@ -23,4 +23,4 @@ Advise patients that if one dose is missed, treatment should continue with the n
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.aurobindousa.com.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
