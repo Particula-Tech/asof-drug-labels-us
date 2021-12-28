@@ -21,6 +21,8 @@ Table 2: Dosing schedule for RYBREVANT
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 4 | Weekly (total of 4 doses) |
+|  | Week 1 - split infusion on Day 1 and Day 2 |
+|  | Weeks 2 to 4 - infusion on Day 1 |
 | Week 5 onwards | Every 2 weeks starting at Week 5 |
 
 Administer premedications before each RYBREVANT infusion as recommended [see Dosage and Administration (2.3)].
