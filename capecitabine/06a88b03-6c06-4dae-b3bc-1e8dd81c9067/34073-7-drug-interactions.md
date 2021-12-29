@@ -28,9 +28,9 @@ Care should be exercised when capecitabine is coadministered with CYP2C9 substra
 Allopurinol
 
 Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites [see Clinical Pharmacology (12.3)], which may decrease capecitabine efficacy.
-Avoid the use of allopurinol during treatment with cpecitabine.
+Avoid the use of allopurinol during treatment with capecitabine.
 
 ## 7.2 Drug-Food Interaction
 
 Food was shown to reduce both the rate and extent of absorption of capecitabine [see Clinical Pharmacology (12.3)].In all clinical trials, patients were instructed to administer capecitabine within 30 minutes after a meal.
-It is recommended capecitabine be administered with food [see Dosage and Administration (2)]
+It is recommended that capecitabine be administered with food [see Dosage and Administration (2)].
