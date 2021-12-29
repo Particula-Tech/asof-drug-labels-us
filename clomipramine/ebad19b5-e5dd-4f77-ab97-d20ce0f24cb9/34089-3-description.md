@@ -11,3 +11,5 @@ Clomipramine hydrochloride USP is a white or slightly yellow, crystalline powder
 It is freely soluble in water, and in methylene chloride, soluble in alcohol.
 
 Inactive Ingredients. colloidal silicon dioxide, crospovidone, FD & C Blue 2 (only for 50 mg), FD & C Yellow 6 (only for 25 mg and 75 mg), gelatin, iron oxide black, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, potassium hydroxide, propylene glycol, shellac, titanium dioxide.
+
+FDA approved dissolution specification differs from the USP dissolution specification
