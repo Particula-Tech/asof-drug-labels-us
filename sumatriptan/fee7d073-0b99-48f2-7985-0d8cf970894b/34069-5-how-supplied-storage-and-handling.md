@@ -13,9 +13,5 @@ Each pack contains a Patient Information and Instructions for Use leaflet.
 - •Two 4-mg single-dose prefilled syringe cartridges for use with IMITREX STATdose System (NDC 0173-0739-02).
 - •Two 6-mg single-dose prefilled syringe cartridges for use with IMITREX STATdose System (NDC 0173-0478-00).
 
-Single-Dose Vial:
-
-- •IMITREX injection single-dose vial (6 mg/0.5 mL) in cartons containing 5 vials (NDC 0173-0449-02).
-
 Store between 2° and 30°C (36° and 86°F).
 Protect from light.

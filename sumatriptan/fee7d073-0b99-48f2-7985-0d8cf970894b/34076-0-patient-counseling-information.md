@@ -49,12 +49,12 @@ Inform patients that the needle in the IMITREX STATdose Pen penetrates approxima
 Inform patients that the injection is intended to be given subcutaneously and intramuscular or intravascular delivery should be avoided.
 Instruct patients to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
 
-Trademarks are owned by or licensed to the GSK group of companies.
+IMITREX, IMITREX STATdose System and IMITREX STATdose Pen are trademarks owned by or licensed to the GSK group of companies.
+The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
-GlaxoSmithKline
+GlaxoSmithKline Research Triangle Park, NC 27709
 
-Research Triangle Park, NC 27709
+©2021 GSK group of companies or its licensor.
 
-©2020 GSK group of companies or its licensor.
-
-IMJ:10PI
+IMJ:11PI

@@ -3,7 +3,7 @@
 ## 2.1 Dosing Information
 
 The maximum single recommended adult dose of IMITREX injection for the acute treatment of migraine or cluster headache is 6 mg injected subcutaneously.
-For the treatment of migraine, if side effects are dose limiting, lower doses (1 mg to 5 mg) may be used [see Clinical Studies (14.1)].
+For the treatment of migraine, if side effects are dose limiting, the lower dose of 4 mg may be used [see Clinical Studies (14.1)].
 For the treatment of cluster headache, the efficacy of lower doses has not been established.
 
 The maximum cumulative dose that may be given in 24 hours is 12 mg, two 6-mg injections separated by at least 1 hour.
@@ -17,9 +17,3 @@ The injection is intended to be given subcutaneously, and intramuscular or intra
 Instruct patients on the proper use of IMITREX STATdose Pen and direct them to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
 
 The needle shield of the prefilled syringe contains dry natural rubber (a latex derivative) [see Warnings and Precautions (5.9)].
-
-## 2.3 Administration of Doses of IMITREX Other than 4 or 6 mg
-
-In patients receiving doses other than 4 mg or 6 mg, use the 6-mg single-dose vial; do not use the IMITREX STATdose Pen.
-Visually inspect the vial for particulate matter and discoloration before administration.
-Do not use if particulates and discolorations are noted.

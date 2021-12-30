@@ -20,7 +20,6 @@ Rx only
 
 1. 62000000052698 Rev.
    8/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -44,38 +43,6 @@ Rx only
 
 1. 62000000052700 Rev.
    8/20
-2. 
-
-PRINCIPAL DISPLAY PANEL
-
-NDC 0173-0449-02
-
-IMITREX
-
-(SUMATRIPTAN)
-
-INJECTION
-
-6 mg
-
-0.5 mL
-
-For subcutaneous injection only.
-
-Single-dose vial.
-Discard unused portion.
-
-Rx only
-
-5 Single-Dose Vials
-
-Made in India
-
-©2020 the GSK group of companies
-
-1. 62000000052741 Rev.
-   9/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -112,4 +79,3 @@ Made in India
 
 1. 62000000052692 Rev.
    08/20
-2. 
