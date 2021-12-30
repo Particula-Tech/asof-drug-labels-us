@@ -1,10 +1,10 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance Class
+## Controlled Substance Class
 
 Buspirone hydrochloride is not a controlled substance.
 
-Physical and Psychological Dependence
+## Physical and Psychological Dependence
 
 In human and animal studies, buspirone has shown no potential for abuse or diversion and there is no evidence that it causes tolerance, or either physical or psychological dependence.
 Human volunteers with a history of recreational drug or alcohol usage were studied in two double-blind clinical investigations.

@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and Symptoms
+## Signs and Symptoms
 
 In clinical pharmacology trials, doses as high as 375 mg/day were administered to healthy male volunteers.
 As this dose was approached, the following symptoms were observed: nausea, vomiting, dizziness, drowsiness, miosis, and gastric distress.
@@ -10,7 +10,7 @@ Rare cases of intentional overdosage with a fatal outcome were invariably associ
 Toxicology studies of buspirone yielded the following LD50 values: mice, 655 mg/kg; rats, 196 mg/kg; dogs, 586 mg/kg; and monkeys, 356 mg/kg.
 These dosages are 160 to 550 times the recommended human daily dose.
 
-Recommended Overdose Treatment
+## Recommended Overdose Treatment
 
 General symptomatic and supportive measures should be used along with immediate gastric lavage.
 Respiration, pulse, and blood pressure should be monitored as in all cases of drug overdosage.

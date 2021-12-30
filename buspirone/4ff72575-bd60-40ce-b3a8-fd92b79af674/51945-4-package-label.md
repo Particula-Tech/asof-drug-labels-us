@@ -1,4 +1,4 @@
-# Package label principal display panel - 5 mg label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 23155-023-01
 
@@ -12,21 +12,7 @@ Rx only
 
 100 Tablets
 
-# Package label principal display panel - 15 mg label
-
-NDC 23155-025-06
-
-BusPIRone Hydrochloride Tablets, USP
-
-15 mg
-
-PHARMACIST: PLEASE DISPENSE WITH PATIENT INFORMATION LEAFLET
-
-Rx only
-
-60 Tablets
-
-# Package label principal display panel -10 mg label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 23155-024-01
 
@@ -40,7 +26,21 @@ Rx only
 
 100 Tablets
 
-# Package label principal display panel -30 mg label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 15 mg
+
+NDC 23155-025-06
+
+BusPIRone Hydrochloride Tablets, USP
+
+15 mg
+
+PHARMACIST: PLEASE DISPENSE WITH PATIENT INFORMATION LEAFLET
+
+Rx only
+
+60 Tablets
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 30 mg
 
 NDC 23155-097-06
 

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Buspirone Hydrochloride Tablets USP, 5 mg are available as round, white to off white tablet, scored, debossed "HP" above and "23" below the score on one side and plain on the reverse side.
+Buspirone Hydrochloride Tablets USP, 5 mg are available as round, white to off white tablet, scored, debossed “HP” above and “23” below the score on one side and plain on the reverse side.
 They are available as follows:
 
 Bottles of 100: NDC 23155-023-01
@@ -9,7 +9,7 @@ Bottles of 500: NDC 23155-023-05
 
 Bottles of 1000: NDC 23155-023-10
 
-Buspirone Hydrochloride Tablets USP, 10 mg are available as round, white to off white tablet, scored, debossed "HP" above and "24" below the score on one side and plain on the reverse side.
+Buspirone Hydrochloride Tablets USP, 10 mg are available as round, white to off white tablet, scored, debossed “HP” above and “24” below the score on one side and plain on the reverse side.
 They are available as follows:
 
 Bottles of 100: NDC 23155-024-01
@@ -18,7 +18,7 @@ Bottles of 500: NDC 23155-024-05
 
 Bottles of 1000: NDC 23155-024-10
 
-Buspirone Hydrochloride Tablets USP, 15 mg are available as capsule shaped, white to off white tablet, Debossed "HP" on one bisect and "25" on bisect segment and Debossed "5" on each trisect segment on the other side.
+Buspirone Hydrochloride Tablets USP, 15 mg are available as capsule shaped, white to off white tablet, Debossed “HP” on one bisect and “25” on bisect segment and Debossed “5” on each trisect segment on the other side.
 They are available as follows:
 
 Bottles of 60: NDC 23155-025-06
@@ -29,7 +29,7 @@ Bottles of 180: NDC 23155-025-08
 
 Bottles of 500: NDC 23155-025-05
 
-Buspirone Hydrochloride tablets USP, 30 mg are available as capsule shaped, peach color tablet, Debossed "HP" on one bisect and "97" on other bisect segment and, Debossed "10" on each trisect segment on other side.
+Buspirone Hydrochloride tablets USP, 30 mg are available as capsule shaped, peach color tablet, Debossed “HP” on one bisect and “97” on other bisect segment and, Debossed “10” on each trisect segment on other side.
 They are available as follows:
 
 Bottles of 60: NDC 23155-097-06

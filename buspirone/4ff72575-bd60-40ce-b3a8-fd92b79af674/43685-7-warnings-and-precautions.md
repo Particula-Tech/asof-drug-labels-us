@@ -4,7 +4,7 @@ The administration of buspirone hydrochloride tablets to a patient taking a mono
 There have been reports of the occurrence of elevated blood pressure when buspirone hydrochloride has been added to a regimen including an MAOI.
 Therefore, it is recommended that buspirone hydrochloride tablets not be used concomitantly with an MAOI.
 
-Serotonin Syndrome
+## Serotonin Syndrome
 
 The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs SSRIs, and other serotonergic drugs, including buspirone, alone but particularly with concomitant use of other serotonergic drugs (including triptans), with drugs that impair metabolism of serotonin (in particular, MAOIs, including reversible MAOIs such as linezolid and intravenous methylene blue), or with antipsychotics or other dopamine antagonists.
 
@@ -30,7 +30,7 @@ Because buspirone hydrochloride tablets have no established antipsychotic activi
 
 ## General
 
-Interference with Cognitive and Motor Performance
+### Interference with Cognitive and Motor Performance
 
 Studies indicate that buspirone hydrochloride tablets are less sedating than other anxiolytics and that it does not produce significant functional impairment.
 However, its CNS effects in any individual patient may not be predictable.
@@ -38,7 +38,7 @@ Therefore, patients should be cautioned about operating an automobile or using c
 
 While formal studies of the interaction of buspirone hydrochloride with alcohol indicate that buspirone does not increase alcohol-induced impairment in motor and mental performance, it is prudent to avoid concomitant use of alcohol and buspirone.
 
-Potential for Withdrawal Reactions in Sedative/Hypnotic/Anxiolytic Drug-Dependent Patients
+### Potential for Withdrawal Reactions in Sedative/Hypnotic/Anxiolytic Drug-Dependent Patients
 
 Because buspirone hydrochloride tablets do not exhibit cross-tolerance with benzodiazepines and other common sedative/hypnotic drugs, it will not block the withdrawal syndrome often seen with cessation of therapy with these drugs.
 Therefore, before starting therapy with buspirone hydrochloride tablets, it is advisable to withdraw patients gradually, especially patients who have been using a CNS-depressant drug chronically, from their prior treatment.
@@ -46,13 +46,13 @@ Rebound or withdrawal symptoms may occur over varying time periods, depending in
 
 The syndrome of withdrawal from sedative/hypnotic/anxiolytic drugs can appear as any combination of irritability, anxiety, agitation, insomnia, tremor, abdominal cramps, muscle cramps, vomiting, sweating, flu-like symptoms without fever, and occasionally, even as seizures.
 
-Possible Concerns Related to Buspirone's Binding to Dopamine Receptors
+### Possible Concerns Related to Buspirone’s Binding to Dopamine Receptors
 
 Because buspirone can bind to central dopamine receptors, a question has been raised about its potential to cause acute and chronic changes in dopamine-mediated neurological function (e.g., dystonia, pseudo-parkinsonism, akathisia, and tardive dyskinesia).
 Clinical experience in controlled trials has failed to identify any significant neuroleptic-like activity; however, a syndrome of restlessness, appearing shortly after initiation of treatment, has been reported in some small fraction of buspirone-treated patients.
 The syndrome may be explained in several ways.
 For example, buspirone may increase central noradrenergic activity; alternatively, the effect may be attributable to dopaminergic effects (i.e., represent akathisia).
-See ADVERSE REACTIONS:Postmarketing Experience.
+See ADVERSE REACTIONS: Postmarketing Experience.
 
 ## Information for Patients
 
@@ -75,77 +75,76 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Psychotropic Agents
+### Psychotropic Agents
 
-MAO inhibitors
+#### MAO inhibitors
 
 The use of monoamine oxidase inhibitors (MAOIs) intended to treat depression with buspirone or within 14 days of stopping treatment with buspirone is contraindicated because of an increased risk of serotonin syndrome and/or elevated blood pressure.
 The use of buspirone within 14 days of stopping an MAOI intended to treat depression is also contraindicated.
-
 Starting buspirone in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome.
 (see WARNINGS, DOSAGE AND ADMINISTRATION and CONCOMITANT DRUG).
 
-Amitriptyline
+#### Amitriptyline
 
 After addition of buspirone to the amitriptyline dose regimen, no statistically significant differences in the steady-state pharmacokinetic parameters (Cmax, AUC, and Cmin) of amitriptyline or its metabolite nortriptyline were observed.
 
-Diazepam
+#### Diazepam
 
 After addition of buspirone to the diazepam dose regimen, no statistically significant differences in the steady-state pharmacokinetic parameters (Cmax, AUC, and Cmin) were observed for diazepam, but increases of about 15% were seen for nordiazepam, and minor adverse clinical effects (dizziness, headache, and nausea) were observed.
 
-Haloperidol
+#### Haloperidol
 
 In a study in normal volunteers, concomitant administration of buspirone and haloperidol resulted in increased serum haloperidol concentrations.
 The clinical significance of this finding is not clear.
 
-Nefazodone
+#### Nefazodone
 
 [See Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4)].
 
-Trazodone
+#### Trazodone
 
 There is one report suggesting that the concomitant use of trazodone hydrochloride and buspirone may have caused 3- to 6-fold elevations on SGPT (ALT) in a few patients.
 In a similar study attempting to replicate this finding, no interactive effect on hepatic transaminases was identified.
 
-Triazolam/flurazepam
+#### Triazolam/flurazepam
 
 Coadministration of buspirone with either triazolam or flurazepam did not appear to prolong or intensify the sedative effects of either benzodiazepine.
 
-Other psychotropics
+#### Other psychotropics
 
 Because the effects of concomitant administration of buspirone with most other psychotropic drugs have not been studied, the concomitant use of buspirone with other CNS-active drugs should be approached with caution.
 
-Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4)
+### Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4)
 
 Buspirone has been shown in vitro to be metabolized by CYP3A4.
 This finding is consistent with the in vivo interactions observed between buspirone and the following:
 
-Diltiazem and Verapamil
+#### Diltiazem and Verapamil
 
 In a study of nine healthy volunteers, coadministration of buspirone (10 mg as a single dose) with verapamil (80 mg t.i.d.) or diltiazem (60 mg t.i.d.) increased plasma buspirone concentrations (verapamil increased AUC and Cmax of buspirone 3.4-fold while diltiazem increased AUC and Cmax 5.5-fold and 4-fold, respectively).
 Adverse events attributable to buspirone may be more likely during concomitant administration with either diltiazem or verapamil.
 Subsequent dose adjustment may be necessary and should be based on clinical assessment.
 
-Erythromycin
+#### Erythromycin
 
 In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with erythromycin (1.5 g/day for 4 days) increased plasma buspirone concentrations (5-fold increase in Cmax and 6-fold increase in AUC).
 These pharmacokinetic interactions were accompanied by an increased incidence of side effects attributable to buspirone.
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg b.i.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 
-Grapefruit juice
+#### Grapefruit juice
 
 In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with grapefruit juice (200 mL double-strength t.i.d. for 2 days) increased plasma buspirone concentrations (4.3-fold increase in Cmax; 9.2-fold increase in AUC).
 Patients receiving buspirone should be advised to avoid drinking such large amounts of grapefruit juice.
 
-Itraconazole
+#### Itraconazole
 
 In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with itraconazole (200 mg/day for 4 days) increased plasma buspirone concentrations (13-fold increase in Cmax and 19-fold increase in AUC).
 These pharmacokinetic interactions were accompanied by an increased incidence of side effects attributable to buspirone.
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg q.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 
-Nefazodone
+#### Nefazodone
 
 In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in Cmax and up to 50-fold in AUC) and statistically significant decreases (about 50%) in plasma concentrations of the buspirone metabolite 1-PP.
 With 5 mg b.i.d. doses of buspirone, slight increases in AUC were observed for nefazodone (23%) and its metabolites hydroxynefazodone (HO-NEF) (17%) and meta-chlorophenylpiperazine (9%).
@@ -154,25 +153,25 @@ Subjects receiving buspirone 5 mg b.i.d. and nefazodone 250 mg b.i.d. experience
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg q.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 
-Rifampin
+#### Rifampin
 
 In a study in healthy volunteers, coadministration of buspirone (30 mg as a single dose) with rifampin (600 mg/day for 5 days) decreased the plasma concentrations (83.7% decrease in Cmax; 89.6% decrease in AUC) and pharmacodynamic effects of buspirone.
 If the two drugs are to be used in combination, the dosage of buspirone may need adjusting to maintain anxiolytic effect.
 
-Other inhibitors and inducers of CYP3A4
+#### Other inhibitors and inducers of CYP3A4
 
 Substances that inhibit CYP3A4, such as ketoconazole or ritonavir, may inhibit buspirone metabolism and increase plasma concentrations of buspirone while substances that induce CYP3A4, such as dexamethasone or certain anticonvulsants (phenytoin, phenobarbital, carbamazepine), may increase the rate of buspirone metabolism.
 If a patient has been titrated to a stable dosage on buspirone, a dose adjustment of buspirone may be necessary to avoid adverse events attributable to buspirone or diminished anxiolytic activity.
 Consequently, when administered with a potent inhibitor of CYP3A4, a low dose of buspirone used cautiously is recommended.
 When used in combination with a potent inducer of CYP3A4 the dosage of buspirone may need adjusting to maintain anxiolytic effect.
 
-Other Drugs
+### Other Drugs
 
-Cimetidine
+#### Cimetidine
 
 Coadministration of buspirone with cimetidine was found to increase Cmax (40%) and Tmax (2-fold), but had minimal effects on the AUC of buspirone.
 
-Protein Binding
+### Protein Binding
 
 In vitro, buspirone does not displace tightly bound drugs like phenytoin, propranolol, and warfarin from serum proteins.
 However, there has been one report of prolonged prothrombin time when buspirone was added to the regimen of a patient treated with warfarin.
@@ -231,10 +230,8 @@ Review of spontaneously reported adverse clinical events has not identified diff
 
 There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY: Special Populations).
 
-Use in Patients With Impaired Hepatic or Renal Function
+## Use in Patients With Impaired Hepatic or Renal Function
 
 Buspirone is metabolized by the liver and excreted by the kidneys.
 A pharmacokinetic study in patients with impaired hepatic or renal function demonstrated increased plasma levels and a lengthened half-life of buspirone.
 Therefore, the administration of buspirone hydrochloride tablets to patients with severe hepatic or renal impairment cannot be recommended (see CLINICAL PHARMACOLOGY).
-
-ADVERSE REACTIONS (See also PRECAUTIONS)
