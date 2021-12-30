@@ -15,6 +15,8 @@ At the maximum approved recommended dose, deferiprone does not prolong the QT in
 
 ## 12.3 Pharmacokinetics
 
+Deferiprone Tablets, 500 mg:
+
 The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
 The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
 

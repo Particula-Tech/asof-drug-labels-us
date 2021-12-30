@@ -27,7 +27,7 @@ The most common adverse reactions (≥6%) reported during clinical trials were n
 
 The table below lists the adverse drug reactions that occurred in at least 1% of patients treated with deferiprone tablets in clinical trials in patients with thalassemia syndromes.
 
-Table 2: Adverse reactions occurring in ≥ 1% of deferiprone tablets-treated patients with thalassemia syndromes
+Table 7: Adverse reactions occurring in ≥ 1% of deferiprone tablets-treated patients with thalassemia syndromes
 
 | Body System Adverse Reaction | (N=642)% Patients |
 | --- | --- |
@@ -41,9 +41,9 @@ Table 2: Adverse reactions occurring in ≥ 1% of deferiprone tablets-treated pa
 | Diarrhea | 3 |
 | Dyspepsia | 2 |
 | INVESTIGATIONS |  |
-| Alanine Aminotransferase increased | 7 |
+| Alanine aminotransferase increased | 7 |
 | Weight increased | 2 |
-| Aspartate Aminotransferase increased | 1 |
+| Aspartate aminotransferase increased | 1 |
 | METABOLISM AND NUTRITION DISORDERS |  |
 | Increased appetite | 4 |
 | Decreased appetite | 1 |

@@ -4,7 +4,9 @@
 
 Fatal agranulocytosis can occur with deferiprone tablets use.
 Deferiprone tablets can also cause neutropenia, which may foreshadow agranulocytosis.
-Measure the absolute neutrophil count (ANC) before starting deferiprone tablets therapy and monitor it weekly while on therapy.
+Measure the absolute neutrophil count (ANC) before starting deferiprone tablets therapy and monitor it regularly while on therapy [see Dosage and Administration (2.1)].
+
+Reduction in the frequency of ANC monitoring should be considered on an individual patient basis, according to the health care provider’s assessment of the patient’s understanding of the risk minimization measures required during therapy.
 
 Interrupt deferiprone tablets therapy if neutropenia develops (ANC < 1.5 x 109/L).
 
@@ -34,14 +36,14 @@ Obtain a complete blood cell (CBC) count, including a white blood cell (WBC) cou
 ## 5.2 Liver Enzyme Elevations
 
 In pooled clinical trials, 7.5% of 642 patients with thalassemia syndromes treated with deferiprone tablets developed increased ALT values.
-Four (0.62%) deferiprone-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
+Four (0.62%) deferiprone tablet-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
 
-Monitor serum ALT values monthly during therapy with deferiprone tablets and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
+Monitor serum ALT values monthly during therapy with deferiprone tablets and consider interruption of therapy if there is a persistent increase in the serum transaminase levels [see Dosage and Administration (2.1)].
 
 ## 5.3 Zinc Deficiency
 
 Decreased plasma zinc concentrations have been observed on deferiprone tablets therapy.
-Monitor plasma zinc, and supplement in the event of a deficiency.
+Monitor plasma zinc annually, and supplement in the event of a deficiency [see Dosage and Administration (2.1)].
 
 ## 5.4 Embryo-Fetal Toxicity
 

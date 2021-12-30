@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+The following information is based on studies with deferiprone tablets (three times a day).
+
 ## 14.1 Transfusional Iron Overload in Patients with Thalassemia Syndromes
 
 In a prospective, planned, pooled analysis of patients with thalassemia syndromes from several studies, the efficacy of deferiprone was assessed in transfusion-dependent iron overload patients in whom previous iron chelation therapy had failed or was considered inadequate due to poor tolerance.

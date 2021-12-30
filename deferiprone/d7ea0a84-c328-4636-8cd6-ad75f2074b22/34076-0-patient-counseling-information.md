@@ -3,16 +3,8 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 - •Instruct patients and their caregivers to store deferiprone tablets at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
-  Instruct patients and their caregivers to store deferiprone tablets out of the reach and sight of children.
-- •Advise patients to take the first dose of deferiprone in the morning, the second dose at midday, and the third dose in the evening.
+- •Deferiprone Tablets, 500 mg:Store in the originally supplied bottle, closed tightly to protect from moisture.Advise patients to take the first dose of deferiprone in the morning, the second dose at midday, and the third dose in the evening.
   Clinical experience suggests that taking deferiprone tablets with meals may reduce nausea.
-- •If a dose of this medicine has been missed, take it as soon as possible.
-  However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
-  Do not catch-up or double doses.
-- •Inform patients of the risks of developing agranulocytosis and instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms.
-- •Advise patients to contact their physician in the event of overdose.
-- •Inform patients that their urine might show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
-  This is a very common sign of the desired effect, and it is not harmful.
 
 Embryo-Fetal toxicity:
 
@@ -29,6 +21,6 @@ Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000816/03
+C50000816/04
 
-Revised May 2021
+Revised December 2021
