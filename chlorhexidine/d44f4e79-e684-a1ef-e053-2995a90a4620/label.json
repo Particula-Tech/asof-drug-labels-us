@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075561"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Bajaj Medical, LLC",
+  "package_ndcs": [
+    "61037-469-02",
+    "61037-469-03",
+    "61037-469-05",
+    "61037-469-07"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "chlorhexidine gluconate, 0.12% oral rinse solution",
+      "name": "Chlorhexidine Gluconate, 0.12% Oral Rinse Solution"
+    }
+  ],
+  "setid": "d44f4e79-e684-a1ef-e053-2995a90a4620",
+  "source": "dailymed"
+}
