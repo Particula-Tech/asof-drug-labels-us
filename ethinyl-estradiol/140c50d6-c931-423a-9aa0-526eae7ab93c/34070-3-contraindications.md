@@ -1,6 +1,6 @@
 # CONTRAINDICTIONS
 
-Oral contraceptives should not be used in women who currently have the following conditions:
+Nortrel 0.5/35 and 1/35 is contraindicated in females who are known to have or develop the following conditions:
 
 - Thrombophlebitis or thromboembolic disorders
 - A past history of deep vein thrombophlebitis or thromboembolic disorders
@@ -11,7 +11,7 @@ Oral contraceptives should not be used in women who currently have the following
 - Diabetes with vascular involvement
 - Headaches with focal neurological symptoms
 - Major surgery with prolonged immobilization
-- Known or suspected carcinoma of the breast
+- Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive
 - Carcinoma of the endometrium or other known or suspected estrogen-dependent neoplasia
 - Undiagnosed abnormal genital bleeding
 - Cholestatic jaundice of pregnancy or jaundice with prior pill use

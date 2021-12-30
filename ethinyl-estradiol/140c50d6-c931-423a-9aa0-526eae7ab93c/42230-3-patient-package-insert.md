@@ -42,12 +42,7 @@ In addition, drugs such as rifampin, bosentan, as well as some seizure medicines
 Oral contraceptives may interact with lamotrigine (LAMICTAL®), a seizure medicine used for epilepsy.
 This may increase the risk of seizures so your healthcare professional may need to adjust the dose of lamotrigine.
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly after using hormonal contraceptives at a younger age.
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go back down.
-You should have regular breast examinations by a healthcare professional and examine your own breasts monthly.
-Tell your healthcare professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
+There may be slight increases in the risk of breast cancer among current users of hormonal birth control pills with longer duration of use of 8 years or more.
 
 Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
@@ -107,7 +102,7 @@ BEFORE YOU START TAKING YOUR PILLS
 WHEN TO START THE FIRST PACK OF PILLS
 
 You have a choice of which day to start taking your first pack of pills.
-Nortrel 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets)are available in the Blister Pack Tablet Dispenser which is preset for a Sunday Start.
+Nortrel 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets) are available in the Blister Pack Tablet Dispenser which is preset for a Sunday Start.
 Day 1 Start is also provided.
 Decide with your healthcare professional which is the best day for you.
 Pick a time of day which will be easy to remember.
@@ -135,10 +130,10 @@ WHAT TO DO DURING THE MONTH
 1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
    Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
    Do not skip pills even if you do not have sex very often.
-2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills:Wait 7 days to start the next pack.
+2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
    You will probably have your period during that week.
    Be sure that no more than 7 days pass between 21-day packs.
-   28 pills:Start the next pack on the day after your last white “reminder” pill.
+   28 pills: Start the next pack on the day after your last white “reminder” pill.
    Do not wait any days between packs.
 
 WHAT TO DO IF YOU MISS PILLS
@@ -420,7 +415,7 @@ You should consult your healthcare professional about stopping oral contraceptiv
 You should also not take oral contraceptives soon after delivery of a baby.
 It is advisable to wait for at least four weeks after delivery if you are not breastfeeding or four weeks after a second trimester abortion.
 If you are breastfeeding, you should wait until you have weaned your child before using the pill.
-(See also the section on Breastfeedingin General Precautions.)
+(See also the section on Breastfeeding in General Precautions.)
 
 The risk of circulatory disease in oral contraceptive users may be higher in users of high-dose pills and may be greater with longer duration of oral contraceptive use.
 In addition, some of these increased risks may continue for a number of years after stopping oral contraceptives.
@@ -453,14 +448,12 @@ In addition, some studies report an increased risk of developing liver cancer.
 However, liver cancers are rare.
 
 5.
-Cancer of the reproductive organs and breasts
+Risk of Cancer
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly after using hormonal contraceptives at a younger age.
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go back down.
-You should have regular breast examinations by a healthcare professional and examine your own breasts monthly.
-Tell your healthcare professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
+It is not known if hormonal birth control pills causes breast cancer.
+Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
+
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
@@ -475,13 +468,14 @@ ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL 
 
 | Method of control and outcome | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 | 40-44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methods | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
-| Oral contraceptives non-smokerDeaths are method-related | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
-| Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
-| Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
-| Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
-| Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| No fertility control methods1 | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| Oral contraceptives non-smoker2 | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
+| Oral contraceptives smoker2 | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
+| IUD2 | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| Condom1 | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
+| Diaphragm/spermicide1 | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
+| Periodic abstinence1 | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| 1. Deaths are birth-related2. Deaths are method-related |  |  |  |  |  |  |
 
 In the above table, the risk of death from any birth control method is less than the risk of childbirth, except for oral contraceptive users over the age of 35 who smoke and pill users over the age of 40 even if they do not smoke.
 It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7-26 deaths per 100,000 women, depending on age).
@@ -655,7 +649,8 @@ BEFORE YOU START TAKING YOUR PILLS
    Nortrel 0.5/35 (norethindrone and ethinyl estradiol tablets): There are 21 light yellow “active” pills.
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    CHECK ADDITIONAL INSTRUCTIONS FOR USING THIS PACKAGE IN THE BRIEF SUMMARY PATIENT PACKAGE INSERT.
-4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
+4. BE SURE YOU HAVE READY AT ALL TIMES:
+5. ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF PILLS
@@ -869,4 +864,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 8/2017
+G 12/2021

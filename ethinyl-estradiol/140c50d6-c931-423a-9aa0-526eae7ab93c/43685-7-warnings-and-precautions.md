@@ -82,27 +82,26 @@ TABLE 2: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH
 
 | Method of control and outcome | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 | 40-44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth-related | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
-| Oral contraceptives non-smokerDeaths are method-related | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
-| Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
-| Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
-| Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
-| Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
-| Adapted from H.W. Ory, ref. #35. |  |  |  |  |  |  |
+| No fertility control methods1 | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| Oral contraceptives non-smoker2 | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
+| Oral contraceptives smoker2 | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
+| IUD2 | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| Condom1 | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
+| Diaphragm/spermicide1 | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
+| Periodic abstinence1 | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| Adapted from H.W. Ory, ref. #35.1. Deaths are birth-related2. Deaths are method-related |  |  |  |  |  |  |
 
-## 3. Carcinoma of the Reproductive Organs and Breasts
+## 3. Malignant Neoplasms
 
-Numerous epidemiological studies have been performed on the incidence of breast, endometrial, ovarian and cervical cancer in women using oral contraceptives.
-The risk of having breast cancer diagnosed may be slightly increased among current and recent users of COCs.
-However, this excess risk appears to decrease over time after COC discontinuation and by 10 years after cessation the increased risk disappears.
-Some studies report an increased risk with duration of use while other studies do not and no consistent relationships have been found with dose or type of steroid.
-Some studies have found a small increase in risk for women who first use COCs before age 20.
-Most studies show a similar pattern of risk with COC use regardless of a woman’s reproductive history or her family breast cancer history.
+Breast Cancer
 
-Breast cancers diagnosed in current or previous OC users tend to be less clinically advanced than in nonusers.
+Nortrel 0.5/35 and 1/35 is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive (see CONTRAINDICATIONS).
 
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormonally-sensitive tumor.
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use (see Postmarketing Experience).
+
+Cervical Cancer
 
 Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women.45-48 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
