@@ -13,7 +13,7 @@ Both abuse and misuse may lead to addiction, and some individuals may develop ad
 
 Signs and symptoms of CNS stimulant abuse include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
 Anxiety, psychosis, hostility, aggression, suicidal or homicidal ideation have also been observed.
-Individuals who abuse CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which can result in overdose and death[see Overdosage (10)].
+Individuals who abuse CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which can result in overdose and death [see Overdosage (10)].
 
 To reduce the abuse of AZSTARYS, assess the risk of abuse prior to prescribing.
 After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants, monitor for signs of abuse while on therapy, and re-evaluate the need for AZSTARYS use.

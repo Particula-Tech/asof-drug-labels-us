@@ -34,20 +34,20 @@ Figure 1: Mean Dexmethylphenidate Plasma Concentration-Time Profiles After A Sin
 
 Approximate linear PK was demonstrated for dexmethylphenidate following single dose administration of AZSTARYS in the dose range of 26.1 mg/5.2 mg to 52.3 mg/10.4 mg.
 Steady state of dexmethylphenidate was approached after the third once-daily dose.
-At steady-state, dexmethylphenidate mean exposures (Cmax and AUC0-24h) were approximately 37% higher relative to a single-dose administration of AZSTARYS.
+At steady-state, dexmethylphenidate mean exposures (C max and AUC 0-24h) were approximately 37% higher relative to a single-dose administration of AZSTARYS.
 No accumulation of serdexmethylphenidate was observed after once-daily administration of AZSTARYS.
 The mean relative exposure of serdexmethylphenidate to dexmethylphenidate based on molar concentrations for Cmax, Cmin, and AUC0-24hr was about 101%, 8.5%, and 55.7%, respectively, following multiple once-daily oral dosing under fasted conditions.
 
 Absorption
 
 Cross-study calculation estimated an absolute oral bioavailability for serdexmethylphenidate of less than 3%.
-The median time to reach Cmax of serdexmethylphenidate and dexmethylphenidate (Tmax) is about 2 hours following a single dose administration of AZSTARYS under fasted conditions.
-Following oral administration of serdexmethylphenidate single moiety alone, dexmethylphenidate Tmax is reached at about 8 hours post dose.
+The median time to reach Cmax of serdexmethylphenidate and dexmethylphenidate (T max) is about 2 hours following a single dose administration of AZSTARYS under fasted conditions.
+Following oral administration of serdexmethylphenidate single moiety alone, dexmethylphenidate T max is reached at about 8 hours post dose.
 
 Effect of Food
 
 No clinically meaningful differences in the exposure of dexmethylphenidate were observed when administered after an overnight fast, with a high-fat, high-caloric meal, or sprinkled onto applesauce or water.
-The median time to peak plasma concentration (Tmax) was lengthened from 2 to 4-4.5 hours in the presence of food.
+The median time to peak plasma concentration (T max) was lengthened from 2 to 4-4.5 hours in the presence of food.
 
 Distribution
 
