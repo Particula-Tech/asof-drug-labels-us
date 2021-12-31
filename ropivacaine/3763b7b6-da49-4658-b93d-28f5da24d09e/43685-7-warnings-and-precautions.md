@@ -125,9 +125,6 @@ Long-term studies in animals of most local anesthetics, including ropivacaine, t
 Weak mutagenic activity was seen in the mouse lymphoma test.
 Mutagenicity was not noted in the other assays, demonstrating that the weak signs of in vitro activity in the mouse lymphoma test were not manifest under diverse in vivo conditions.
 Studies performed with ropivacaine in rats did not demonstrate an effect on fertility or general reproductive performance over 2 generations.
-
-## Pregnancy Category B
-
 Reproduction toxicity studies have been performed in pregnant New Zealand white rabbits and Sprague-Dawley rats.
 During gestation days 6 to 18, rabbits received 1.3, 4.2, or 13 mg/kg/day subcutaneously.
 In rats, subcutaneous doses of 5.3, 11 and 26 mg/kg/day were administered during gestation days 6 to 15.

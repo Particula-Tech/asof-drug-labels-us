@@ -23,9 +23,7 @@ The reported adverse events are derived from controlled clinical studies with ro
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of ropivacaine hydrochloride-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with ropivacaine hydrochloride.
 
-Table 3A
-
-Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
+Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
 | Adverse Reaction | Ropivacaine Hydrochloride total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
@@ -50,9 +48,7 @@ Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local A
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B
-
-Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
 | Adverse Reaction | Ropivacaine Hydrochloride total N=639 |  | Bupivacaine total N=573 |  |
 | --- | --- | --- | --- | --- |
@@ -112,9 +108,7 @@ Vision – vision abnormalities
 For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of ropivacaine hydrochloride and bupivacaine.
 Table 4 is based on data from trials in the U.S. and other countries where ropivacaine hydrochloride was administered as an epidural anesthetic for surgery.
 
-Table 4
-
-Common Events (Epidural Administration)
+Table 4 Common Events (Epidural Administration)
 
 | Adverse Reaction | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -135,9 +129,7 @@ Common Events (Epidural Administration)
 Using data from the same studies, the number (%) of patients experiencing hypotension is displayed by patient age, drug and concentration in Table 5.
 In Table 6, the adverse events for ropivacaine hydrochloride are broken down by gender.
 
-Table 5
-
-Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine Hydrochloride = 760, Bupivacaine = 410
+Table 5 Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine Hydrochloride = 760, Bupivacaine = 410
 
 | AGE | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -146,9 +138,7 @@ Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine Hyd
 | <65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
 | ≥65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
-Table 6
-
-Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
+Table 6 Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
 
 | Adverse Reaction | Female |  | Male |  |
 | --- | --- | --- | --- | --- |
