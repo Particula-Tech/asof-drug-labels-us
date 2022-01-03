@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021924"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "YARAL Pharma Inc.",
+  "package_ndcs": [
+    "82347-0005-4",
+    "82347-0010-4",
+    "82347-0015-4",
+    "82347-0020-4",
+    "82347-0025-4",
+    "82347-0030-4",
+    "82347-0035-4",
+    "82347-0040-4",
+    "82347-0045-4",
+    "82347-0050-4",
+    "82347-0055-4",
+    "82347-0060-4"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "levothyroxine sodium",
+      "name": "Levothyroxine Sodium"
+    }
+  ],
+  "setid": "d28d7202-1278-0486-e053-2995a90af286",
+  "source": "dailymed"
+}

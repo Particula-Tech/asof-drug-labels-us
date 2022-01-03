@@ -1,0 +1,9 @@
+# 11 DESCRIPTION
+
+Levothyroxine Sodium capsules for oral use contain synthetic L-3,3',5,5'-tetraiodothyronine sodium salt [levothyroxine (T 4) sodium].
+Synthetic T4 is chemically identical to that produced in the human thyroid gland.
+Levothyroxine (T4) sodium has an empirical formula of C 15H 10I 4NNaO 4 ∙ x H 2O (where x = 5), molecular weight of 798.86 g/mol (anhydrous), and structural formula as shown:
+
+Levothyroxine Sodium capsules are amber-colored, round/biconvex capsules containing a viscous amber-colored liquid.
+
+The inactive ingredients in Levothyroxine Sodium capsules are gelatin, glycerin and water.

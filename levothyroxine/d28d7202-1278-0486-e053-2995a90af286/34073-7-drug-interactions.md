@@ -1,0 +1,93 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Drugs Known to Affect Thyroid Hormone Pharmacokinetics
+
+Many drugs can exert effects thyroid hormone pharmacokinetics (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to levothyroxine sodium capsules (see Tables 2 to 5 below).
+
+Table 2: Drugs That May Decrease T4 Absorption (Hypothyroidism)
+
+| Potential impact: Concurrent use may reduce the efficacy of levothyroxine sodium capsules by binding and delaying or preventing absorption, potentially resulting in hypothyroidism |  |
+| --- | --- |
+| Drug or Drug Class | Effect |
+| Calcium Carbonate Ferrous Sulfate | Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine sodium capsules at least 4 hours apart from these agents. |
+| Orlistat | Monitor patients treated concomitantly with orlistat and levothyroxine sodium capsules for changes in thyroid function. |
+| Bile Acid Sequestrants -Colesevelam -Cholestyramine -Colestipol Ion Exchange Resins -Kayexalate -Sevelamer | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer levothyroxine sodium capsules at least 4 hours prior to these drugs or monitor thyrotropin (TSH) levels. |
+| Other drugs: Proton Pump Inhibitors Sucralfate Antacids - Aluminum & Magnesium Hydroxides - Simethicone | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately |
+
+Table 3: Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)
+
+| Drug or Drug Class | Effect |
+| --- | --- |
+| Clofibrate Estrogen-containing oral contraceptives Estrogens (oral) Heroin / Methadone 5-Fluorouracil Mitotane Tamoxifen | These drugs may increase serum thyroxine-binding globulin (TBG) concentration. |
+| Androgens / Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid | These drugs may decrease serum TBG concentration. |
+| Potential impact (below): Administration of these agents with levothyroxine sodium capsules results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations. |  |
+| Salicylates (> 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. |
+| Other drugs: Carbamazepine Furosemide (> 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs - Fenamates | These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increased free-T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free-T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters. |
+
+Table 4: Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
+
+| Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine sodium capsules requirements. |  |
+| --- | --- |
+| Drug or Drug Class | Effect |
+| Phenobarbital Rifampin | Phenobarbital has been shown to reduce the response to thyroxine. Phenobarbital increases L-thyroxine metabolism by inducing uridine 5'-diphospho-glucuronosyltransferase (UGT) and leads to a lower T4 serum levels. Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism. Rifampin has been shown to accelerate the metabolism of levothyroxine. |
+
+Table 5: Drugs That May Decrease Conversion of T4 to T3
+
+| Potential impact: Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. |  |
+| --- | --- |
+| Drug or Drug Class | Effect |
+| Beta-adrenergic antagonists (e.g., Propranolol > 160 mg/day) | In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid. Actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. |
+| Glucocorticoids (e.g., Dexamethasone ≥ 4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see Table 3 above). |
+| Other: Amiodarone | Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decrease or normal free-T3) in clinically euthyroid patients. |
+
+## 7.2 Antidiabetic Therapy
+
+Addition of levothyroxine sodium capsules therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements.
+Careful monitor glycemic control, especially when thyroid therapy is started, changed, or discontinued [see Warnings and Precautions (5.5)].
+
+## 7.3 Oral Anticoagulants
+
+Levothyroxine sodium capsules increase the response to oral anticoagulant therapy.
+Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the levothyroxine sodium capsules dose is increased.
+Closely monitor coagulation tests to permit appropriate and timely dosage adjustments.
+
+## 7.4 Digitalis Glycosides
+
+Levothyroxine sodium capsules may reduce the therapeutic effects of digitalis glycosides.
+Serum digitalis glycoside levels may decrease when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides.
+
+## 7.5 Antidepressant Therapy
+
+Concurrent use of tricyclic (e.g., Amitriptyline) or tetracyclic (e.g., Maprotiline) antidepressants and levothyroxine sodium capsules may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines.
+Toxic effects may include increased risk of cardiac arrhythmias and central nervous system stimulation.
+Levothyroxine sodium capsules may accelerate the onset of action of tricyclics.
+Administration of sertraline in patients stabilized on levothyroxine sodium capsules may result in increased levothyroxine sodium capsules requirements.
+
+## 7.6 Ketamine
+
+Concurrent use of ketamine and levothyroxine sodium capsules may produce marked hypertension and tachycardia.
+Closely monitor blood pressure and heart rate in these patients.
+
+## 7.7 Sympathomimetics
+
+Concurrent use of sympathomimetics and levothyroxine sodium capsules may increase the effects of sympathomimetics or thyroid hormone.
+Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease.
+
+## 7.8 Tyrosine-Kinase Inhibitors
+
+Concurrent use of tyrosine-kinase inhibitors such as imatinib may cause hypothyroidism.
+Closely monitor TSH levels in such patients.
+
+## 7.9 Drug-Food Interactions
+
+Consumption of certain foods may affect levothyroxine sodium capsules absorption thereby necessitating adjustments in dosing [see Dosage and Administration (2.1)].
+Soybean flour (infant formula), cottonseed meal, walnuts, and dietary fiber may bind and decrease the absorption of levothyroxine sodium capsules from the GI tract.
+Grapefruit juice may delay the absorption of levothyroxine and reduce its bioavailability.
+
+## 7.10 Drug-Laboratory Test Interactions
+
+Consider changes in TBG concentration when interpreting T4 and T3 values.
+Measure and evaluate unbound (free) hormone and/or determine the free T4 index (FT4I) in this circumstance.
+Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
+Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens and corticosteroids decrease TBG concentration.
+Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
