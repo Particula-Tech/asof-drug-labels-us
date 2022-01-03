@@ -33,9 +33,9 @@ In embryo-fetal development studies, montelukast administered to pregnant rats a
 Risk Summary
 
 A published clinical lactation study reports the presence of montelukast in human milk.
-Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse events from exposure to montelukast sodium.
+Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse reactions from exposure to montelukast sodium.
 The effects of the drug on milk production are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for montelukast sodium and any potential adverse effects on the breastfed infant from montelukast sodium or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for montelukast sodium and any potential adverse reactions on the breastfed infant from montelukast sodium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -49,10 +49,10 @@ The pharmacokinetic profile and the oral bioavailability of a single 10-mg oral 
 The plasma half-life of montelukast is slightly longer in the elderly.
 No dosage adjustment in the elderly is required.
 
-## 8.6 Hepatic Insufficiency
+## 8.6 Hepatic Impairment
 
-No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Insufficiency
+## 8.7 Renal Impairment
 
 No dosage adjustment is recommended in patients with renal insufficiency [see Clinical Pharmacology (12.3)].
