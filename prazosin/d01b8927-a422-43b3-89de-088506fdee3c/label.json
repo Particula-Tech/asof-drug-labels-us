@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA214608"
+  ],
+  "inn": "prazosin",
+  "labeler": "Granules Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "70010-084-01",
+    "70010-084-10",
+    "70010-085-01",
+    "70010-085-10",
+    "70010-086-01",
+    "70010-086-25"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "prazosin hydrochloride",
+      "name": "Prazosin Hydrochloride"
+    }
+  ],
+  "setid": "d01b8927-a422-43b3-89de-088506fdee3c",
+  "source": "dailymed"
+}
