@@ -55,7 +55,7 @@ TABLE 2: Temozolomide Dosage Modifications During Maintenance Treatment
 The recommended initial dosage of temozolomide is 150 mg/m 2 once daily on Days 1 to 5 of each 28-day cycle.
 Increase the temozolomide dose to 200 mg/m 2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle:
 
-- ANC is greater than or equal to 1.5 x 10 9/L and
+- ANC is greater than or equal 1.5 x 10 9/L an
 - Platelet count is greater than or equal to 100 x 10 9/L.
 
 Continue temozolomide until disease progression or unacceptable toxicity.

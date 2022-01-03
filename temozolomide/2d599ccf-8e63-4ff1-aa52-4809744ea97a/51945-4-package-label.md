@@ -6,7 +6,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 048-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 5 mg
 
@@ -20,7 +20,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 049-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 20 mg
 
@@ -34,7 +34,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 050-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 100 mg
 
@@ -48,7 +48,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 129-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 140 mg
 
@@ -62,7 +62,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 130-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 180 mg
 
@@ -76,7 +76,7 @@ Amber Glass Bottle Carton
 
 NDC 16729- 051-53
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 250 mg
 
@@ -90,7 +90,7 @@ Sachet Pack Carton
 
 NDC 16729- 048-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 5 mg
 
@@ -106,7 +106,7 @@ Sachet Pack Carton
 
 NDC 16729- 049-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 20 mg
 
@@ -122,7 +122,7 @@ Sachet Pack Carton
 
 NDC 16729- 050-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 100 mg
 
@@ -138,7 +138,7 @@ Sachet Pack Carton
 
 NDC 16729- 129-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 140 mg
 
@@ -154,7 +154,7 @@ Sachet Pack Carton
 
 NDC 16729- 130-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 180 mg
 
@@ -170,7 +170,7 @@ Sachet Pack Carton
 
 NDC 16729- 051-31
 
-Temozolamide Capsules
+Temozolomide Capsules
 
 250 mg
 
