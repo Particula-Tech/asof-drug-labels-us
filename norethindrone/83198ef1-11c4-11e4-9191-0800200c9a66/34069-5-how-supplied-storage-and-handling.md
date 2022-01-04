@@ -11,7 +11,7 @@ CombiPatch estradiol/NETA transdermal delivery system is available in:
 
 Storage Conditions
 
-CombiPatch should be stored in refrigerator at 2℃ to 8℃ (36℉ to 46℉).
+Store CombiPatch in the refrigerator at 36℉ to 46℉ (2℃ to 8℃).
 
 Store the systems in the sealed foil pouch.
 

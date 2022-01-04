@@ -151,7 +151,7 @@ What can I do to lower my chances of getting a serious side effect with CombiPat
 
 How should I store and throw away used CombiPatch?
 
-- Store CombiPatch in the refrigerator at 36℃ to 46℃ (2℉ to 8℉).
+- Store CombiPatch in the refrigerator at 36℉ to 46℉ (2℃ to 8℃).
   Allow patch to reach room temperature before application.
 - Do not store CombiPatch outside of its pouch.
 - Used patches still contain estrogen and progestin.

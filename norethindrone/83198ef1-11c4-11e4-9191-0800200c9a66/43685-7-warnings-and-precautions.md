@@ -56,8 +56,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 ## 2. Malignant Neoplasms
 
-a. Breast Cancera.
-Breast Cancer
+a. Breast Cancer
 
 The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
@@ -99,8 +98,7 @@ All women should receive yearly breast examinations by a healthcare provider and
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
-b. Endometrial Cancerb.
-Endometrial Cancer
+b. Endometrial Cancer
 
 An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus.
 The reported endometrial cancer risk among users of unopposed estrogen is about 2 to 12 times greater than in nonusers, and appears dependent on duration of treatment and on estrogen dose.
@@ -119,8 +117,7 @@ Adequate diagnostic measures, including directed or random endometrial sampling 
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-c. Ovarian Cancerc.
-Ovarian Cancer
+c. Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically nonsignificant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI 0.77 to 3.24).
