@@ -6,7 +6,7 @@ Piperacillin and Tazobactam for Injection, USP
 
 2.25 grams/vial*
 
-For Intravenous Use only
+For Intravenous Use Only
 
 Single-Dose Vial
 
@@ -38,7 +38,7 @@ Piperacillin and Tazobactam for Injection, USP
 
 3.375 grams/vial*
 
-For Intravenous Use Only Single-Dose Vial
+For Intravenous Use Only Single-dose Vial
 
 Rx Only
 
@@ -68,7 +68,7 @@ Piperacillin and Tazobactam for Injection, USP
 
 4.5 grams/vial*
 
-For Intravenous Use Only Single-Dose Vial
+For Intravenous Use Only Single-dose Vial
 
 Rx Only
 

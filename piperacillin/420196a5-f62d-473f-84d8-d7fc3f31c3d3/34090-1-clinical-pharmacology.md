@@ -10,9 +10,9 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 7.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 9.
 
-Table 7: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+Table 9: Mean (CV%) Piperacillin and Tazobactam PK Parameters
 
 | Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,9 +39,9 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 8).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 10).
 
-Table 8: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
+Table 10: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
 
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Tazobactam does not induce chromosomally-mediated beta-lactamases at tazobactam 
 
 Antimicrobial Activity
 
-Piperacillin and tazobactam for injection has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
+Piperacillin and tazobactam for injection has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 Aerobic bacteria
 
@@ -136,7 +136,7 @@ Gram-negative bacteria
 
 Acinetobacter baumannii Escherichia coli Haemophilus influenzae (excluding beta-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
 
-Anaerobic bacteria:
+Anaerobic bacteria
 
 Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, and B. vulgatus)
 
