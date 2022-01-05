@@ -31,13 +31,22 @@ Inform patients to seek medical advice if their asthma remains uncontrolled or w
 
 Reduction in Corticosteroid Dosage
 
-Inform patients to not discontinue systemic or inhaled corticosteroids except under the direct supervision of a physician.
+Inform patients to not discontinue systemic or inhaled corticosteroids except under the direct supervision of a healthcare provider.
 Inform patients that reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy [see Warnings and Precautions (5.5)].
 
 Patients with Co-morbid Asthma
 
-Advise patients with atopic dermatitis or CRSwNP who have co-morbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.6)].
+Advise patients with atopic dermatitis or CRSwNP who have co-morbid asthma not to adjust or stop their asthma treatment without talking to their healthcare providers [see Warnings and Precautions (5.6)].
+
+Arthralgia
+
+Advise patients to report new onset or worsening joint symptoms to their healthcare provider [see Warnings and Precautions (5.7)].
 
 Parasitic (Helminth) Infections
 
-Advise patients to notify their healthcare provider if they present with clinical features consistent with helminthic infection [see Warnings and Precautions (5.7)].
+Advise patients to notify their healthcare provider if they present with clinical features consistent with helminthic infection [see Warnings and Precautions (5.8)].
+
+Vaccinations
+
+Advise patients that vaccination with live vaccines is not recommended immediately prior to and while they are receiving DUPIXENT.
+Instruct patients to inform their healthcare provider that they are taking DUPIXENT prior to a potential vaccination [see Warnings and Precautions (5.9)].

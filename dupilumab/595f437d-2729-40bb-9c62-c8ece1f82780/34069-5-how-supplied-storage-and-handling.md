@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 DUPIXENT (dupilumab) Injection is a clear to slightly opalescent, colorless to pale yellow solution, supplied in single-dose pre-filled syringes with needle shield or pre-filled pens.
 
@@ -25,15 +25,15 @@ DUPIXENT is available in cartons containing 2 pre-filled syringes with needle sh
 | --- | --- | --- |
 | Pack of 2 pens | NDC 0024-5915-02 | NDC 0024-5919-02 |
 
-## 16.2 Storage and Handling
+Storage and Handling
 
 DUPIXENT is sterile and preservative-free.
 Discard any unused portion.
 
-Store refrigerated at 36°F to 46°F (2°C to 8°C) in the original carton to protect from light.
+Store refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
 
-If necessary, DUPIXENT may be kept at room temperature up to 77°F (25°C) for a maximum of 14 days.
-Do not store above 77°F (25°C).
+If necessary, DUPIXENT may be kept at room temperature up to 25°C (77°F) for a maximum of 14 days.
+Do not store above 25°C (77°F).
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
 
 Do not expose DUPIXENT to heat or direct sunlight.

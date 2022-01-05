@@ -1,19 +1,52 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-DUPIXENT is administered by subcutaneous injection, either by pre-filled syringe or pre-filled pen.
-The DUPIXENT pre-filled pen is only for use in adults and adolescents aged 12 years and older.
+## 2.1 Important Administration Instructions
 
-## 2.1 Atopic Dermatitis
+DUPIXENT is administered by subcutaneous injection.
+
+DUPIXENT is intended for use under the guidance of a healthcare provider.
+Provide proper training to patients and/or caregivers on the preparation and administration of DUPIXENT prior to use according to the "Instructions for Use".
+
+Use of Pre-filled Pen or Pre-filled Syringe
+
+The DUPIXENT pre-filled pen is for use in adult and pediatric patients aged 12 years and older.
+
+The DUPIXENT pre-filled syringe is for use in adult and pediatric patients aged 6 years and older.
+
+A caregiver or patient 12 years of age and older may inject DUPIXENT using the pre-filled syringe or prefilled pen.
+In pediatric patients 12 to 17 years of age, administer DUPIXENT under the supervision of an adult.
+
+In pediatric patients 6 to 11 years of age, administer DUPIXENT pre-filled syringe by a caregiver.
+
+Administration Instructions
+
+For atopic dermatitis and asthma patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
+
+For atopic dermatitis and asthma patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
+
+Administer subcutaneous injection into the thigh or abdomen, except for the 2 inches (5 cm) around the navel.
+The upper arm can also be used if a caregiver administers the injection.
+
+Rotate the injection site with each injection.
+DO NOT inject DUPIXENT into skin that is tender, damaged, bruised, or scarred.
+
+The DUPIXENT "Instructions for Use" contains more detailed instructions on the preparation and administration of DUPIXENT [see Instructions for Use].
+
+## 2.2 Vaccination Prior to Treatment
+
+Consider completing all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with DUPIXENT [see Warnings and Precautions (5.9)].
+
+## 2.3 Recommended Dosage for Atopic Dermatitis
 
 Dosage in Adults
 
 The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every other week (Q2W).
 
-Dosage in Pediatric Patients (6 to 17 Years of Age)
+Dosage in Pediatric Patients 6 to 17 Years of Age
 
-The recommended dosage of DUPIXENT for patients 6 to 17 years of age is specified in Table 1.
+The recommended dosage of DUPIXENT for pediatric patients 6 to 17 years of age is specified in Table 1.
 
-Table 1: Dosage of DUPIXENT for Subcutaneous Administration in Pediatric Patients (6 to 17 Years of Age) with Atopic Dermatitis
+Table 1: Dosage of DUPIXENT in Pediatric Patients 6 to 17 Years of Age with Atopic Dermatitis
 
 | Body Weight | Initial Loading Dose | Subsequent Doses |
 | --- | --- | --- |
@@ -26,13 +59,13 @@ Concomitant Topical Therapies
 DUPIXENT can be used with or without topical corticosteroids.
 Topical calcineurin inhibitors may be used, but should be reserved for problem areas only, such as the face, neck, intertriginous and genital areas.
 
-## 2.2 Asthma
+## 2.4 Recommended Dosage for Asthma
 
-Dosage in Adults and Adolescents (12 Years and Older)
+Dosage in Adult and Pediatric Patients 12 Years and Older
 
-The recommended dosage of DUPIXENT for adults and adolescents (12 years of age and older) is specified in Table 2.
+The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is specified in Table 2.
 
-Table 2: Dosage of DUPIXENT for Subcutaneous Administration in Adults and Adolescents 12 Years and Older with Asthma
+Table 2: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older with Asthma
 
 | Initial Loading Dose | Subsequent Dose |
 | --- | --- |
@@ -42,55 +75,35 @@ Table 2: Dosage of DUPIXENT for Subcutaneous Administration in Adults and Adoles
 | Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid chronic rhinosinusitis with nasal polyposis |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
-Dosage in Pediatric Patients (6 to 11 Years of Age)
+Dosage in Pediatric Patients 6 to 11 Years of Age
 
-The recommended dosage of DUPIXENT for patients 6 to 11 years of age is specified in Table 3.
+The recommended dosage of DUPIXENT for pediatric patients 6 to 11 years of age is specified in Table 3.
 
-Table 3: Dosage of DUPIXENT for Subcutaneous Administration in Pediatric Patients 6 to 11 Years of Age with Asthma
+Table 3: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asthma
 
-| Body Weight | InitialFor pediatric patients (6 to 11 years old) with asthma, no initial loading dose is recommended. and Subsequent Doses |
+| Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Doses |
 | --- | --- |
 | 15 to less than 30 kg | 100 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
 | ≥30 kg | 200 mg every other week (Q2W) |
 
-For pediatric patients (6 to 11 years old) with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dosage as per Table 1 which includes an initial loading dose [see Dosage and Administration (2.1)].
+For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dosage as per Table 1 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
-## 2.3 Chronic Rhinosinusitis with Nasal Polyposis
+## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyposis
 
-The recommended dosage of DUPIXENT for adult patients is 300 mg given every other week by subcutaneous injection.
+The recommended dosage of DUPIXENT for adult patients is 300 mg given every other week.
 
-## 2.4 Important Administration Instructions
+## 2.6 Missed Doses
 
-DUPIXENT is intended for use under the guidance of a healthcare provider.
-A patient may self-inject DUPIXENT after training in subcutaneous injection technique using the pre-filled syringe or pre-filled pen.
-The DUPIXENT pre-filled pen is only for use in adults and adolescents aged 12 years and older.
-In adolescents 12 years of age and older, it is recommended that DUPIXENT be given by or under the supervision of an adult.
-DUPIXENT pre-filled syringe should be administered by a caregiver in pediatric patients 6 to 11 years of age.
-Provide proper training to patients and/or caregivers on the preparation and administration of DUPIXENT prior to use according to the "Instructions for Use".
+If an every other week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
+If the missed dose is not administered within 7 days, wait until the next dose on the original schedule.
 
-For atopic dermatitis and asthma patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
+If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
+If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-For atopic dermatitis and asthma patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
-
-Administer subcutaneous injection into the thigh or abdomen, except for the 2 inches (5 cm) around the navel.
-The upper arm can also be used if a caregiver administers the injection.
-
-Rotate the injection site with each injection.
-DO NOT inject DUPIXENT into skin that is tender, damaged, bruised, or scarred.
-
-Missed Dose Information
-
-If an every other week dose is missed, instruct the patient to administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
-If the missed dose is not administered within 7 days, instruct the patient to wait until the next dose on the original schedule.
-
-If an every 4 week dose is missed, instruct the patient to administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
-If the missed dose is not administered within 7 days, instruct the patient to administer the dose, starting a new schedule based on this date.
-
-The DUPIXENT "Instructions for Use" contains more detailed instructions on the preparation and administration of DUPIXENT [see Instructions for Use].
-
-## 2.5 Preparation for Use of DUPIXENT
+## 2.7 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen, and 100 mg/0.67 mL pre-filled syringe) without removing the needle cap.
+After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
 
 Inspect DUPIXENT visually for particulate matter and discoloration prior to administration.
 DUPIXENT is a clear to slightly opalescent, colorless to pale yellow solution.

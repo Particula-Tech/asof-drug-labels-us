@@ -17,8 +17,17 @@ In asthma subjects, fractional exhaled nitric oxide (FeNO) and circulating conce
 Reductions in these biomarkers were comparable for the 300 mg Q2W and 200 mg Q2W regimens.
 These markers were near maximal suppression after 2 weeks of treatment, except for IgE which declined more slowly.
 These effects were sustained throughout treatment.
-The median percent reduction from baseline in total IgE concentrations with dupilumab treatments was 52% at Week 24 (AS Trial 1) and 70% at Week 52 (AS Trial 2).
-For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in AS Trials 1 and 2, respectively, and in the overall safety population, the mean FeNO level decreased to 20 ppb.
+The median percent reduction from baseline in total IgE concentrations with dupilumab treatments was 52% at Week 24 (DRI12544) and 70% at Week 52 (QUEST).
+For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in DRI12544 and QUEST, respectively, and in the overall safety population, the mean FeNO level decreased to 20 ppb.
+
+Antibody Response to Non-Live Vaccines During DUPIXENT Treatment
+
+In a clinical study, adult subjects with atopic dermatitis were treated once weekly for 16 weeks with 300 mg of DUPIXENT (twice the recommended dosing frequency).
+After 12 weeks of administration, subjects received a Tdap vaccine and a meningococcal polysaccharide vaccine.
+Antibody responses to tetanus toxoid and serogroup C meningococcal polysaccharide were assessed 4 weeks later.
+Antibody responses to both tetanus toxoid and serogroup C meningococcal polysaccharide were similar in DUPIXENT-treated and placebo-treated subjects.
+Antibody responses to the other active components of both vaccines were not assessed.
+Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
@@ -30,7 +39,7 @@ Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilu
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly (twice the recommended dosing frequency) or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
 Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 193±77.0 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP patients, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP subjects, ranging between 61% and 64%.
 
 Distribution
 
@@ -70,27 +79,23 @@ Pediatric Patients
 
 Atopic Dermatitis
 
-For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+For pediatric subjects 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
-For children 6 to 11 years of age with atopic dermatitis receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
+For pediatric subjects 6 to 11 years of age with atopic dermatitis receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
 
 Asthma
 
-A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in AS Trial 2.
+A total of 107 pediatric subjects 12 to 17 years of age with asthma were enrolled in QUEST.
 The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered Q2W.
 
-In AS Trial 4, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing <30 kg) or 200 mg Q2W (for 179 children weighing ≥30 kg).
+In VOYAGE, dupilumab pharmacokinetics was investigated in 270 subjects with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 pediatric subjects weighing <30 kg) or 200 mg Q2W (for 179 pediatric subjects weighing ≥30 kg).
 The mean ± SD steady-state trough concentration was 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively.
-Simulation of a 300 mg Q4W subcutaneous dose in children aged 6 to 11 years with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
-
-Renal or Hepatic Impairment
-
-No formal trial of the effect of hepatic or renal impairment on the pharmacokinetics of dupilumab was conducted.
+Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
 
 Drug Interaction Studies
 
 An effect of dupilumab on the PK of co-administered medications is not expected.
-Based on the population analysis, commonly co-administered medications had no effect on DUPIXENT pharmacokinetics in patients with moderate-to-severe asthma.
+Based on the population analysis, commonly co-administered medications had no effect on DUPIXENT pharmacokinetics in subjects with moderate-to-severe asthma.
 
 Cytochrome P450 Substrates
 

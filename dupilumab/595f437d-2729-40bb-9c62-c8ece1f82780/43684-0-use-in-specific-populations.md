@@ -14,7 +14,8 @@ Available data from case reports and case series with DUPIXENT use in pregnant w
 Human IgG antibodies are known to cross the placental barrier; therefore, DUPIXENT may be transmitted from the mother to the developing fetus.
 There are adverse effects on maternal and fetal outcomes associated with asthma in pregnancy (see Clinical Considerations).
 In an enhanced pre- and post-natal developmental study, no adverse developmental effects were observed in offspring born to pregnant monkeys after subcutaneous administration of a homologous antibody against interleukin-4-receptor alpha (IL-4Rα) during organogenesis through parturition at doses up to 10-times the maximum recommended human dose (MRHD) (see Data).
-The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+
+The background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -47,50 +48,51 @@ Atopic Dermatitis
 
 The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 years of age and older with moderate-to-severe atopic dermatitis.
 
-Use of DUPIXENT in this age group is supported by Trial 6 which included 251 adolescents ages 12 to 17 years old with moderate-to-severe atopic dermatitis and Trial 8 which included 367 children ages 6 to 11 years old with severe atopic dermatitis.
+Use of DUPIXENT in this age group is supported by AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe atopic dermatitis and AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe atopic dermatitis.
 The safety and effectiveness were generally consistent between pediatric and adult patients [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
-Use is also supported by Trial 7, an open-label extension study that enrolled subjects who completed Trials 6 and 8.
-Trial 7 included 136 adolescents from Trial 6 and 110 children from Trial 8 with moderate atopic dermatitis at enrollment into the extension study.
-Trial 7 included 64 adolescents from Trial 6 and 72 children from Trial 8 with severe atopic dermatitis at enrollment.
-No new safety signals were identified in Trial 7 [see Adverse Reactions (6.1)].
+Use is also supported by AD-1434, an open-label extension study that enrolled subjects who completed AD-1526 and AD-1652.
+AD-1434 included 136 pediatric subjects 12 to 17 years of age from AD-1526 and 110 pediatric subjects 6 to 11 years of age from AD-1652 with moderate atopic dermatitis at enrollment into the extension study.
+AD-1434 included 64 pediatric subjects 12 to 17 years of age from AD-1526 and 72 pediatric subjects 6 to 11 years of age from AD-1652 with severe atopic dermatitis at enrollment.
+No new safety signals were identified in AD-1434 [see Adverse Reactions (6.1)].
 
-Safety and effectiveness in pediatric patients <6 years of age with atopic dermatitis have not been established.
+Safety and effectiveness in pediatric patients younger than 6 years of age with atopic dermatitis have not been established.
 
 Asthma
 
 The safety and effectiveness of DUPIXENT for an add-on maintenance treatment in patients with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma have been established in pediatric patients 6 years of age and older.
 Use of DUPIXENT for this indication is supported by evidence from adequate and well-controlled studies in adult and pediatric patients 6 years and older [see Clinical Studies (14.2)].
 
-Adolescent patients aged 12 to 17 years:
+Pediatric Subjects 12 to 17 Years of Age:
 
-A total of 107 adolescents aged 12 to 17 years with moderate-to-severe asthma were enrolled in AS Trial 2 and received either 200 mg (N=21) or 300 mg (N=18) DUPIXENT (or matching placebo either 200 mg [N=34] or 300 mg [N=34]) Q2W.
-Asthma exacerbations and lung function were assessed in both adolescents and adults.
+A total of 107 pediatric subjects 12 to 17 years of age with moderate-to-severe asthma were enrolled in QUEST and received either 200 mg (N=21) or 300 mg (N=18) DUPIXENT (or matching placebo either 200 mg [N=34] or 300 mg [N=34]) Q2W.
+Asthma exacerbations and lung function were assessed in both pediatric subjects 12 to 17 years of age and adults.
 For both the 200 mg and 300 mg Q2W doses, improvements in FEV1 (LS mean change from baseline at Week 12) were observed (0.36 L and 0.27 L, respectively).
 For the 200 mg Q2W dose, subjects had a reduction in the rate of severe exacerbations that was consistent with adults.
-Dupilumab exposure was higher in adolescent patients than that in adults at the respective dose level which was mainly accounted for by difference in body weight [see Clinical Pharmacology (12.3)].
-The adverse event profile in adolescents was generally similar to the adults [see Adverse Reactions (6.1)].
+Dupilumab exposure was higher in pediatric subjects 12 to 17 years of age than that in adults at the respective dose level which was mainly accounted for by difference in body weight [see Clinical Pharmacology (12.3)].
 
-Pediatric Patients aged 6 to 11 years:
+The adverse event profile in pediatric subjects 12 to 17 years of age was generally similar to the adults [see Adverse Reactions (6.1)].
 
-A total of 408 pediatric patients aged 6 to 11 years with moderate-to-severe asthma were enrolled in AS Trial 4, which evaluated doses of 100 mg Q2W or 200 mg Q2W.
+Pediatric Subjects 6 to 11 Years of Age:
+
+A total of 408 pediatric subjects 6 to 11 years of age with moderate-to-severe asthma were enrolled in VOYAGE, which evaluated doses of 100 mg Q2W or 200 mg Q2W.
 Improvement in asthma exacerbations and lung function were demonstrated [see Clinical Studies (14.2)].
-The effectiveness of DUPIXENT 300 mg Q4W in patients aged 6 to 11 years old with body weight 15 to <30 kg was extrapolated from efficacy of 100 mg Q2W in AS Trial 4 with support from population pharmacokinetic analyses showing higher drug exposure levels with 300 mg Q4W [see Clinical Pharmacology (12.3)].
-Patients who completed the treatment period of the AS Trial 4 study could participate in the open-label extension study (AS Trial 5).
-Eighteen patients (≥15 to <30 kg) out of 365 patients were exposed to 300 mg Q4W in this study, and the safety profile in these eighteen patients was consistent with that seen in AS Trial 4.
+The effectiveness of DUPIXENT 300 mg Q4W in subjects 6 to 11 years of age with body weight 15 to <30 kg was extrapolated from efficacy of 100 mg Q2W in VOYAGE with support from population pharmacokinetic analyses showing higher drug exposure levels with 300 mg Q4W [see Clinical Pharmacology (12.3)].
+Subjects who completed the treatment period of the VOYAGE study could participate in the open-label extension study (LTS14424).
+Eighteen subjects (≥15 to <30 kg) out of 365 subjects were exposed to 300 mg Q4W in this study, and the safety profile in these eighteen subjects was consistent with that seen in VOYAGE.
 Additional safety for DUPIXENT 300 mg Q4W is based upon available safety information from the pediatric atopic dermatitis indication [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
-Safety and effectiveness in pediatric patients <6 years of age with asthma have not been established.
+Safety and effectiveness in pediatric patients younger than 6 years of age with asthma have not been established.
 
 CRSwNP
 
 CRSwNP does not normally occur in pediatric patients.
-Safety and effectiveness in pediatric patients (<18 years of age) with CRSwNP have not been established.
+Safety and effectiveness in pediatric patients younger than 18 years of age with CRSwNP have not been established.
 
 ## 8.5 Geriatric Use
 
 Of the 1472 subjects with atopic dermatitis exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 67 subjects were 65 years or older.
-Although no differences in safety or efficacy were observed between older and younger subjects, the number of subjects aged 65 and over is not sufficient to determine whether they respond differently from younger subjects [see Clinical Pharmacology (12.3)].
+Clinical studies of DUPIXENT in atopic dermatitis did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects [see Clinical Pharmacology (12.3)].
 
 Of the 1977 subjects with asthma exposed to DUPIXENT, a total of 240 subjects were 65 years or older.
 Efficacy and safety in this age group was similar to the overall study population.

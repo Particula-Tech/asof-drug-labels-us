@@ -6,7 +6,7 @@ Dupilumab has an approximate molecular weight of 147 kDa.
 Dupilumab is produced by recombinant DNA technology in Chinese Hamster Ovary cell suspension culture.
 
 DUPIXENT (dupilumab) Injection is supplied as a sterile, preservative-free, clear to slightly opalescent, colorless to pale yellow solution for subcutaneous injection.
-DUPIXENT is provided as either a single-dose pre-filled syringe with needle shield or a single dose pre-filled pen in a siliconized Type-1 clear glass syringe.
+DUPIXENT is provided as either a single-dose pre-filled syringe with needle shield or a single-dose pre-filled pen in a siliconized Type-1 clear glass syringe.
 The needle cap is not made with natural rubber latex.
 
 Each 300 mg pre-filled syringe or pre-filled pen delivers 300 mg dupilumab in 2 mL which also contains L-arginine hydrochloride (10.5 mg), L-histidine (6.2 mg), polysorbate 80 (4 mg), sodium acetate (2 mg), sucrose (100 mg), and water for injection, pH 5.9.
