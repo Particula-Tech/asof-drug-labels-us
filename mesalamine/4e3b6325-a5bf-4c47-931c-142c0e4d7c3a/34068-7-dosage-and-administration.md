@@ -5,7 +5,7 @@ Administration Instructions
 - Evaluate renal function prior to initiation of mesalamine delayed-release tablets and periodically while on therapy.
 - Swallow mesalamine delayed-release tablets whole; do not split or crush.
 - Administer mesalamine delayed-release tablets with food [see Clinical Pharmacology (12.3)].
-- Drink an adequate amount of fluids [see Warnings and Precautions (5.7)].
+- Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
 
 Adults
 

@@ -12,5 +12,5 @@ If concomitant use of mesalamine delayed-release tablets and azathioprine or 6-m
 
 ## 7.3 Interference with Urinary Normetanephrine Measurements
 
-Use of mesalamine delayed-release tablets may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.8)].
+Use of mesalamine delayed-release tablets may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.9)].
 Consider an alternative, selective assay for normetanephrine.

@@ -30,23 +30,28 @@ Discontinue mesalamine delayed-release tablets if an alternative etiology for th
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Evaluate the risks and benefits of using mesalamine delayed-release tablets in patients with known liver impairment.
 
-## 5.5 Upper Gastrointestinal Tract Obstruction
+## 5.5 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of mesalamine [see Adverse Reactions (6.2)].
+Discontinue mesalamine delayed-release tablets at the first appearance of signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
+
+## 5.6 Upper Gastrointestinal Tract Obstruction
 
 Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of mesalamine delayed-release tablets, which would delay mesalamine release in the colon.
 Avoid mesalamine delayed-release tablets in patients at risk of upper gastrointestinal tract obstruction.
 
-## 5.6 Photosensitivity
+## 5.7 Photosensitivity
 
 Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
 Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-## 5.7 Nephrolithiasis
+## 5.8 Nephrolithiasis
 
 Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with a 100% mesalamine content.
 Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
 Ensure adequate hydration during treatment with mesalamine delayed-release tablets.
 
-## 5.8 Interference with Laboratory Tests
+## 5.9 Interference with Laboratory Tests
 
 Use of mesalamine delayed-release tablets may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
 Consider an alternative, selective assay for normetanephrine.
