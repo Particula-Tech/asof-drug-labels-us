@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Do not prescribe Etonogestrel/Ethinyl Estradiol Vaginal Ring to women who are known to have or use the following:
+Etonogestrel/Ethinyl Estradiol Vaginal Ring is contraindicated in females who are known to have or develop the following conditions:
 
 - A high risk of arterial or venous thrombotic diseases.
   Examples include women who are known to:
@@ -17,6 +17,6 @@ Do not prescribe Etonogestrel/Ethinyl Estradiol Vaginal Ring to women who are kn
 - Liver tumors, benign or malignant or liver disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)]
 - Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.11)]
 - Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
-- Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past [see Warnings and Precautions (5.14)]
+- Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive [see Warnings and Precautions (5.14)]
 - Hypersensitivity reactions, including anaphylaxis and angioedema, to any of the components of Etonogestrel/Ethinyl Estradiol Vaginal Ring [see Warnings and Precautions (5.6) and Adverse Reactions (6)]
 - Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)]
