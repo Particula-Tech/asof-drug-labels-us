@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761215"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-8980-01",
+    "0002-8980-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine-aglr",
+      "name": "Rezvoglar"
+    }
+  ],
+  "setid": "f6af8706-2058-4fe1-99c8-43684c20bfa2",
+  "source": "dailymed"
+}
