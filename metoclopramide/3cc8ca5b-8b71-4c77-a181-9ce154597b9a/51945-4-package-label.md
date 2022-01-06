@@ -18,10 +18,22 @@ Pharmaceutical Associates, Inc. Greenville, SC 29605
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
 
-Delivers 10 mL NDC 0121-1576-10
+D elivers 10 mL NDC 0121-1576-10
 
-M ETOCLOPRAMIDE O RAL S OLUTION USP 10 mg/10 mL (present as the hydrochloride)
+Delivers 10 mL
 
-FOR INSTITUTIONAL USE ONLY Rx ONLY PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605 SEE INSERT
+NDC 0121-1576-10
 
-A15761001
+Metoclopramide Oral Solution USP
+
+10 mg/10 mL
+
+(present as the hydrochloride)
+
+Package Not Child-Resistant
+
+PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+
+Rx ONLY
+
+F1576101021
