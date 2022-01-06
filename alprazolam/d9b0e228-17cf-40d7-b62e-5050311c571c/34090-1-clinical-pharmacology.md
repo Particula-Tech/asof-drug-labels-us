@@ -9,19 +9,19 @@ Alprazolam exerts its effect for the acute treatment of generalized anxiety diso
 
 Plasma levels of alprazolam increase proportionally to the dose over the range of 0.5 to 3.0 mg.
 
-## Absorption
+### Absorption
 
 Following oral administration, peak plasma concentration of alprazolam (Cmax) occurs in 1 to 2 hours post dose.
 
-## Distribution
+### Distribution
 
 Alprazolam is 80% bound to human serum protein, and albumin accounts for the majority of the binding.
 
-## Elimination
+### Elimination
 
 The mean plasma elimination half-life (T1/2) of alprazolam is approximately 11.2 hours (range: 6.3 to 26.9 hours) in healthy adults.
 
-## Metabolism
+### Metabolism
 
 Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to 2 major active metabolites in the plasma: 4-hydroxyalprazolam and α -hydroxyalprazolam.
 The plasma circulation levels of the two active metabolites are less than 4% of the parent.
@@ -30,11 +30,11 @@ The low concentrations and low potencies of 4-hydroxyalprazolam and α-hydroxyal
 A benzophenone derived from alprazolam is also found in humans.
 Their half-lives appear to be similar to that of alprazolam.
 
-## Excretion
+### Excretion
 
 Alprazolam and its metabolites are excreted primarily in the urine.
 
-## Specific Populations
+### Specific Populations
 
 Geriatric Patients
 

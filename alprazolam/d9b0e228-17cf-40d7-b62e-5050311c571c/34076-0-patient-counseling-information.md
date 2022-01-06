@@ -35,7 +35,7 @@ Pregnancy
 
 Benzodiazepines cross the placenta and may produce respiratory depression and sedation in neonates.
 Advise mothers using alprazolam to monitor neonates for signs of sedation, respiratory depression, withdrawal symptoms, and feeding problems.
-Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with alprazolam [see Warnings and Precautions (5.4).
+Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with alprazolam [see Warnings and Precautions (5.4)].
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to alprazolam during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
@@ -44,14 +44,3 @@ Advise women not to breastfeed during treatment with alprazolam [see Use in Spec
 
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.sandoz.com.
-
-Manufactured by
-
-Sandoz Inc.
-
-Princeton, NJ 08540
-
-46225044
-
-Rev.
-03/2021

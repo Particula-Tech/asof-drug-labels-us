@@ -54,7 +54,7 @@ Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazo
 | Cardiovascular disorders Tachycardia | 12.2% |
 | Special Senses Blurred vision | 10.0% |
 
-n=number of patients
+n = number of patients
 
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam [see Warning and Precautions (5.2) and Drug Abuse and Dependence (9.3)].
 
