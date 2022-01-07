@@ -32,8 +32,8 @@ Most changes either returned to baseline condition or improved over baseline sev
 The percentages of patients with worsening of the following conditions at day 3, month 3 and 6, respectively, were: limbitis: 5.5%, 4.8%, and 3.5% and punctate opacity: 1.8%, 1.8%, and 1.4%.
 The corresponding percentages for patients treated with placebo were: limbitis: 6.2%, 9.9%, and 9.4% and punctate opacity: 2.0%, 6.4%, and 7.2% (See WARNINGS).
 
-In clinical trials involving 963 adult patients who received 100 to 200 mcg/kg ivermectin, the following clinical adverse reactions were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: facial edema (1.2%), peripheral edema (3.2%), orthostatic hypotension (1.1%), and tachycardia (3.5%).
-Drug-related headache and myalgia occurred in <1% of patients (0.2% and 0.4%, respectively).
+In clinical trials involving 963 adult patients who received 100 to 200 mcg/kg ivermectin, the following clinical adverse reactions were reported as possibly, probably, or definitely related to the drug in greater than or equal to 1% of the patients: facial edema (1.2%), peripheral edema (3.2%), orthostatic hypotension (1.1%), and tachycardia (3.5%).
+Drug-related headache and myalgia occurred in less than 1% of patients (0.2% and 0.4%, respectively).
 However, these were the most common adverse experiences reported overall during these trials regardless of causality (22.3% and 19.7%, respectively).
 
 A similar safety profile was observed in an open study in pediatric patients ages 6 to 13.
@@ -43,7 +43,7 @@ These have rarely been severe or associated with loss of vision and have general
 
 ### Laboratory Test Findings
 
-In controlled clinical trials, the following laboratory adverse experiences were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: eosinophilia (3%) and hemoglobin increase (1%).
+In controlled clinical trials, the following laboratory adverse experiences were reported as possibly, probably, or definitely related to the drug in greater than or equal to 1% of the patients: eosinophilia (3%) and hemoglobin increase (1%).
 
 ## Post-Marketing Experience
 

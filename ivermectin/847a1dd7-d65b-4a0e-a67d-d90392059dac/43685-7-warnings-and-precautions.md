@@ -17,7 +17,7 @@ After treatment with microfilaricidal drugs, patients with hyperreactive onchode
 Rarely, patients with onchocerciasis who are also heavily infected with Loa loa may develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide.
 In these patients, the following adverse experiences have also been reported: pain (including neck and back pain), red eye, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma.
 This syndrome has been seen very rarely following the use of ivermectin.
-In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa-endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful posttreatment follow-up should be implemented.
+In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa-endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented.
 
 ## Information for Patients
 
@@ -33,7 +33,7 @@ The patient should be reminded that treatment with ivermectin does not kill the 
 
 ## Drug Interactions
 
-Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was coadministered with warfarin.
+Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with warfarin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -46,8 +46,6 @@ Ivermectin had no adverse effects on the fertility in rats in studies at repeate
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m2/day basis).
 Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits.

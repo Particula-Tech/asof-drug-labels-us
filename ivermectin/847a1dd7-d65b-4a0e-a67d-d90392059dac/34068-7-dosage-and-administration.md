@@ -17,7 +17,7 @@ Table 1: Dosage Guidelines for Ivermectin Tablets for Strongyloidiasis
 | 36 to 50 | 3 tablets |
 | 51 to 65 | 4 tablets |
 | 66 to 79 | 5 tablets |
-| ≥80 | 200 mcg/kg |
+| greater than or equal to 80 | 200 mcg/kg |
 
 ## Onchocerciasis
 
@@ -35,4 +35,4 @@ Table 2: Dosage Guidelines for Ivermectin Tablets for Onchocerciasis
 | 26 to 44 | 2 tablets |
 | 45 to 64 | 3 tablets |
 | 65 to 84 | 4 tablets |
-| ≥85 | 150 mcg/kg |
+| greater than or equal to 85 | 150 mcg/kg |

@@ -36,21 +36,7 @@ Its activity against Strongyloides stercoralis is limited to the intestinal stag
 Two controlled clinical studies using albendazole as the comparative agent were carried out in international sites where albendazole is approved for the treatment of strongyloidiasis of the gastrointestinal tract, and three controlled studies were carried out in the U.S. and internationally using thiabendazole as the comparative agent.
 Efficacy, as measured by cure rate, was defined as the absence of larvae in at least two follow-up stool examinations 3 to 4 weeks post-therapy.
 Based on this criterion, efficacy was significantly greater for ivermectin (a single dose of 170 to 200 mcg/kg) than for albendazole (200 mg b.i.d. for 3 days).
-Ivermectin administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days.
-
-Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis
-
-|  | Ivermectin170 to 200 mcg/kg | Comparative Agent |
-| --- | --- | --- |
-|  | Cure RateNumber and % of evaluable patients (%) |  |
-| Albendazole200 mg b.i.d. for 3 days Comparative |  |  |
-| International Study | 24/26 (92) | 12/22 (55) |
-| WHO Study | 126/152 (83) | 67/149 (45) |
-| Thiabendazole25 mg/kg b.i.d. for 3 days Comparative |  |  |
-| International Study | 9/14 (64) | 13/15 (87) |
-| US Studies | 14/14 (100) | 16/17 (94) |
-
-In one study conducted in France, a non-endemic area where there was no possibility of reinfection, several patients were observed to have recrudescence of Strongyloides larvae in their stool as long as 106 days following ivermectin therapy.
+Ivermectin administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days.Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of StrongyloidiasisCure RateNumber and % of evaluable patients (%)Ivermectin170 to 200 mcg/kgComparative AgentAlbendazole200 mg b.i.d. for 3 days Comparative International Study24/26 (92)12/22 (55) WHO Study126/152 (83)67/149 (45)Thiabendazole25 mg/kg b.i.d. for 3 days Comparative International Study9/14 (64)13/15 (87) US Studies14/14 (100)16/17 (94)In one study conducted in France, a non-endemic area where there was no possibility of reinfection, several patients were observed to have recrudescence of Strongyloides larvae in their stool as long as 106 days following ivermectin therapy.
 Therefore, at least three stool examinations should be conducted over the three months following treatment to ensure eradication.
 If recrudescence of larvae is observed, retreatment with ivermectin is indicated.
 Concentration techniques (such as using a Baermann apparatus) should be employed when performing these stool examinations, as the number of Strongyloides larvae per gram of feces may be very low.
@@ -59,7 +45,7 @@ Concentration techniques (such as using a Baermann apparatus) should be employed
 
 The evaluation of ivermectin in the treatment of onchocerciasis is based on the results of clinical studies involving 1278 patients.
 In a double-blind, placebo-controlled study involving adult patients with moderate to severe onchocercal infection, patients who received a single dose of 150 mcg/kg ivermectin experienced an 83.2% and 99.5% decrease in skin microfilariae count (geometric mean) 3 days and 3 months after the dose, respectively.
-A marked reduction of >90% was maintained for up to 12 months after the single dose.
+A marked reduction of greater than 90% was maintained for up to 12 months after the single dose.
 As with other microfilaricidal drugs, there was an increase in the microfilariae count in the anterior chamber of the eye at day 3 after treatment in some patients.
 However, at 3 and 6 months after the dose, a significantly greater percentage of patients treated with ivermectin had decreases in microfilariae count in the anterior chamber than patients treated with placebo.
 
