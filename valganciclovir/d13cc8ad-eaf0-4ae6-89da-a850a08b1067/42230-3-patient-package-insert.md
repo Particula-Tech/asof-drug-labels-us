@@ -150,6 +150,6 @@ Bridgewater, NJ 08807.
 
 Made in India.
 
-Revised: 12/2020
+Revised: 01/2022
 
 For more information, call Ajanta Pharma USA Inc. at 855-664-7744.
