@@ -31,4 +31,4 @@ Other: Bulging fontanels in infants and intracranial hypertension in adults.
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 No abnormalities of thyroid function studies are known to occur.
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.

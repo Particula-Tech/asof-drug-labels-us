@@ -1,4 +1,4 @@
-Doxycycline Hyclate Capsules USP Doxycycline Hyclate Tablets USP
+Doxycycline Hyclate Tablets, USP
 
 Rx Only
 

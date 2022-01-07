@@ -12,12 +12,6 @@ Doxycycline has a high degree of lipoid solubility and a low affinity for calciu
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
 
-Each capsule, for oral administration, contains doxycycline hyclate, USP equivalent to 50 mg or 100 mg of doxycycline.
-
 Each tablet, for oral administration, contains doxycycline hyclate, USP equivalent to 100 mg of doxycycline.
 
-Doxycycline Hyclate Capsules USP 50 mg and 100 mg contain the following inactive ingredients: magnesium stearate and microcrystalline cellulose.
-
-The capsule shells contain: FD&C Blue No. 1, gelatin and titanium dioxide.
-
-Doxycycline Hyclate Tablets USP 100 mg contain the following inactive ingredients: croscarmellose sodium, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium lauryl sulfate and titanium dioxide.
+Doxycycline Hyclate Tablets USP, 100 mg contain the following inactive ingredients: croscarmellose sodium, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium lauryl sulfate and titanium dioxide.

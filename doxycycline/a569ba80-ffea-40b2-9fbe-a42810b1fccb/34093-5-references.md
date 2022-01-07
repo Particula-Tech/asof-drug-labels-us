@@ -13,9 +13,6 @@
    9th edition.
    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.actavis.com.
-
 Brands listed are the trademarks of their respective owners.
 
 Manufactured In India By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
@@ -23,4 +20,4 @@ Manufactured In India By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-C 1/2020
+D 10/2021
