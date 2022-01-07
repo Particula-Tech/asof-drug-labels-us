@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212569"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1642-7"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pirfenidone",
+      "name": "Pirfenidone"
+    }
+  ],
+  "setid": "1d4d7aa2-1248-4639-baf5-5e2ae72cbcd8",
+  "source": "dailymed"
+}
