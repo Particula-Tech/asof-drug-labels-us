@@ -60,7 +60,7 @@ Made in Ireland
 
 Mylan.com
 
-MDR:9320:1C:R11
+MDR:9320:1C:R12
 
 © 2021 Viatris Inc.
 
