@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018938"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Amring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "69918-899-11",
+    "69918-901-11"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "desmopressin acetate",
+      "name": "Desmopressin Acetate"
+    }
+  ],
+  "setid": "10b29aa2-274e-4c29-bccd-424bd3761758",
+  "source": "dailymed"
+}
