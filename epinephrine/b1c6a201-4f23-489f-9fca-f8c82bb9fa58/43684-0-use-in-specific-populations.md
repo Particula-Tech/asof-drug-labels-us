@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no adequate and well controlled studies of the acute effect of epinephrine in pregnant women.
-In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m2 basis.
+In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m 2 basis.
 Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans.
 Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients.
 
@@ -26,12 +26,12 @@ Data
 
 Animal Data
 
-In an embryofetal development study with rabbits dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including gastroschisis and embryonic lethality) at doses approximately 40 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days).
+In an embryofetal development study with rabbits dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including gastroschisis and embryonic lethality) at doses approximately 40 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days).
 
-In an embryofetal development study with mice dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including embryonic lethality) at doses approximately 8 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days).
-These effects were not seen in mice at approximately 4 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
+In an embryofetal development study with mice dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including embryonic lethality) at doses approximately 8 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days).
+These effects were not seen in mice at approximately 4 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
 
-In an embryofetal development study with hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine was shown to be teratogenic at doses approximately 7 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day).
+In an embryofetal development study with hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine was shown to be teratogenic at doses approximately 7 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day).
 
 ## 8.2 Lactation
 
