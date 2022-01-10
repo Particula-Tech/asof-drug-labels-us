@@ -52,17 +52,19 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 500 mg/50 mL Carton Label
 
+One 50 mL fill PAB® Container
+
 Acetaminophen Injection
 
 500 mg/50 mL (10 mg/mL)
 
-NDC 0264-4050-85
+NDC 0264-4050-80
 
 REF DA4050
 
-Four 50 mL fill PAB® Containers
-
 For Intravenous Use Only
+
+Protect from light until use.
 
 CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
 
@@ -73,8 +75,6 @@ pH is adjusted with glacial acetic acid.
 Single Dose Container.
 Doses less than 500 mg require aseptic transfer to a separate container prior to dispensing.
 Discard unused portion.
-
-Protect from light until use.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
@@ -92,7 +92,7 @@ Rx only
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
 API from USA or China.
 
-X12-002-500 LD-553-3
+X12-002-504 LD-553-4
 
 LOT
 
@@ -152,17 +152,19 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 1,000 mg/100 mL Carton Label
 
+One 100 mL fill PAB® Container
+
 Acetaminophen Injection
 
 1,000 mg/100 mL (10 mg/mL)
 
-NDC 0264-4100-95
+NDC 0264-4100-90
 
 REF DA4100
 
-Four 100 mL fill PAB® Containers
-
 For Intravenous Use Only
+
+Protect from light until use.
 
 CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
 
@@ -173,8 +175,6 @@ pH is adjusted with glacial acetic acid.
 Single Dose Container.
 Doses less than 1,000 mg require aseptic transfer to a separate container prior to dispensing.
 Discard unused portion.
-
-Protect from light until use.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
@@ -192,7 +192,7 @@ Rx only
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
 API from USA or China.
 
-X12-002-501 LD-554-4
+X12-002-505 LD-554-5
 
 LOT
 
