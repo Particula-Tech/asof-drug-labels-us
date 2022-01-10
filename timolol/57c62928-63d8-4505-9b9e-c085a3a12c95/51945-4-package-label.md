@@ -8,9 +8,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 5 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -19,13 +17,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0055A11
+RMXI0055A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MP/DRUGS/25/1/2014
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -37,9 +41,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 10 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -48,13 +50,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0221A11
+RMXI0221A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MP/DRUGS/25/1/2014
 
 # PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -66,9 +74,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 20 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -77,10 +83,16 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0715A10
+RMXI0715A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MP/DRUGS/25/1/2014
