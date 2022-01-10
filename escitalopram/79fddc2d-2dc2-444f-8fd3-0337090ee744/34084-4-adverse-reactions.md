@@ -156,7 +156,7 @@ ECG Changes Electrocardiograms from escitalopram oral solution (N=625) and place
 None of the patients in the escitalopram oral solution group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the escitalopram oral solution and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the escitalopram oral solution group and 0.2% in the placebo group.
-QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multipledose study in 113 healthy subjects.
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple dose study in 113 healthy subjects.
 The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
 Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).

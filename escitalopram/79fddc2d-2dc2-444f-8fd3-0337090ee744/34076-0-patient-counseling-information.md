@@ -24,7 +24,8 @@ Patients should be advised that taking escitalopram oral solution can cause mild
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
-
+Sexual Dysfunction Advise patients that use of escitalopram oral solution may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
 Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
@@ -37,8 +38,6 @@ While patients may notice improvement with escitalopram oral solution therapy in
 Interference with Psychomotor Performance
 
 Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram oral solution therapy does not affect their ability to engage in such activities.
-Sexual Dysfunction Advise patients that use of escitalopram oral solution may cause symptoms of sexual dysfunction in both male and female patients.
-Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
 Alcohol
 
 Patients should be told that, although escitalopram oral solution has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram oral solution and alcohol in depressed patients is not advised.
@@ -66,4 +65,4 @@ When remedial measures alone are insufficient, the decision to prescribe antidep
 
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 11/2021

@@ -94,22 +94,18 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 10.
-Sexual problems (dysfunction).
+Sexual Dysfunction.
 Taking selective serotonin reuptake inhibitors (SSRIs), including escitalopram oral solution, may cause sexual problems.
-
 Symptoms in males may include:
 
-o Delayed ejaculation or inability to have an ejaculation
-
-o Decreased sex drive
-
-o Problems getting or keeping an erection
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
 
 Symptoms in females may include:
 
-o Decreased sex drive
-
-o Delayed orgasm or inability to have an orgasm
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
 
 Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with escitalopram oral solution.
 There may be treatments your healthcare provider can suggest.
@@ -145,14 +141,9 @@ Do not take escitalopram oral solution if you:
 People who take escitalopram oral solution close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
-- high fever
-- uncontrolled muscle spasms
-- stiff muscles
-- rapid changes in heart rate or blood pressure
-- confusion
-- loss of consciousness (pass out)
+º high fever º uncontrolled muscle spasms º stiff muscles º rapid changes in heart rate or blood pressure º confusion º loss of consciousness (pass out)
 
-• Do not take escitalopram oral solution with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
+- Do not take escitalopram oral solution with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking escitalopram oral solution?
 Ask if you are not sure.
@@ -266,4 +257,4 @@ What are the ingredients in escitalopram oral solution?
 Active ingredient: escitalopram oxalate Inactive ingredients: anhydrous citric acid, DL – malic acid, glycerin, methylparaben, natural peppermint flavor, noncrystalizing sorbitol solution, propylene glycol, propylparaben, purified water, and sodium citrate.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Orap® is a registered trademark of Teva Pharmaceuticals USA.
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 11/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
