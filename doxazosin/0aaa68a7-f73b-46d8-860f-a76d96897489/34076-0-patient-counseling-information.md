@@ -11,13 +11,12 @@ Priapism
 
 Advise patients of the possibility of priapism and to seek immediate medical attention if symptoms occur.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Manufactured In India For:
+Manufactured In India By: Piramal Pharma Limited Plot No. 67-70, Sector 2 Pithampur 454 775, Dist.
+Dhar, Madhya Pradesh, India
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-R 6/2016
+S 11/2021

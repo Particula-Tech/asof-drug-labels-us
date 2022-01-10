@@ -36,15 +36,13 @@ Peak blood pressure effects (1 to 6 hours) were larger by about 50 to 75% (i.e.,
 There was no apparent difference in the blood pressure response of Caucasians and blacks or of patients above and below age 65.
 In the same patient population, patients receiving doxazosin mesylate gained a mean of 0.6 kg compared to a mean loss of 0.1 kg for placebo patients.
 
-TABLE 4
-
-Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with Doxazosin Mesylate 1 to 8 mg once daily.
-
-|  | PLACEBO (N=85) |  | Doxazosin Mesylate (N=183) |  |
+| TABLE 4Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with Doxazosin Mesylate 1 to 8 mg once daily. |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | PLACEBO (N=85) |  | Doxazosin Mesylate (N=183) |  |
 | Sitting BP (mmHg) | Baseline | Change | Baseline | Change |
-| Systolic | 128.4 | -1.4 | 128.8 | -4.9p≤0.05 compared to placebo |
-| Diastolic | 79.2 | -1.2 | 79.6 | -2.4 |
+| Systolic | 128.4 | -1.4 | 128.8 | -4.9* |
+| Diastolic | 79.2 | -1.2 | 79.6 | -2.4* |
 | Standing BP (mmHg) | Baseline | Change | Baseline | Change |
-| Systolic | 128.5 | -0.6 | 128.5 | -5.3 |
-| Diastolic | 80.5 | -0.7 | 80.4 | -2.6 |
+| Systolic | 128.5 | -0.6 | 128.5 | -5.3* |
+| Diastolic | 80.5 | -0.7 | 80.4 | -2.6* |
+| * p≤0.05 compared to placebo |  |  |  |  |

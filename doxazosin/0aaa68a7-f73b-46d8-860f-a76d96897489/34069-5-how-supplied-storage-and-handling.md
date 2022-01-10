@@ -1,17 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Doxazosin Tablets USP are supplied as follows:
+Doxazosin Tablets, USP are supplied as follows:
 
-1 mg (doxazosin as free base): White to off-white, scored, round, biconvex compressed tablet, engraved with 590 over bisect on one side and TV on the other side.
+1 mg: Each white to off-white, scored, round, biconvex compressed tablet, engraved with 590 over bisect on one side and TV on the other side, contains doxazosin mesylate equivalent to 1 mg doxazosin (free base).
 They are available in bottles of 100 tablets (NDC 0093-2070-01).
 
-2 mg (doxazosin as free base): White to off-white, scored, capsule-shaped, biconvex compressed tablet, engraved with 593 left of bisect on one side and TV on the other side.
+2 mg: Each white to off-white, scored, capsule-shaped, biconvex compressed tablet, engraved with 593 left of bisect on one side and TV on the other side, contains doxazosin mesylate equivalent to 2 mg doxazosin (free base).
 They are available in bottles of 100 tablets (NDC 0093-2069-01).
 
-4 mg (doxazosin as free base): White to off-white, scored, modified diamond-shaped, biconvex compressed tablet, engraved with 596 over bisect on one side and TV on the other side.
+4 mg: Each white to off-white, scored, modified diamond-shaped, biconvex compressed tablet, engraved with 596 over bisect on one side and TV on the other side, contains doxazosin mesylate equivalent to 4 mg doxazosin (free base).
 They are available in bottles of 100 tablets (NDC 0093-2068-01).
 
-8 mg (doxazosin as free base): White to off-white, scored, round, biconvex compressed tablet, engraved TV over bisect 598 (TV/598) on one side and 8 on the other side.
+8 mg: Each white to off-white, scored, round, biconvex compressed tablet, engraved TV over bisect 598 (TV/598) on one side and 8 on the other side, contains doxazosin mesylate equivalent to 8 mg doxazosin (free base).
 They are available in bottles of 100 tablets (NDC 0093-2067-01).
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

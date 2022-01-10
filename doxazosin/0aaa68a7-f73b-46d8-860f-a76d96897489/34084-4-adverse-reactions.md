@@ -14,7 +14,7 @@ Adverse reactions occurring more than 1% more frequently in BPH patients treated
 | --- | --- | --- |
 | BODY SYSTEM | Doxazosin Mesylate N=665 | PlaceboN=300 |
 | NERVOUS SYSTEM DISORDERS |  |  |
-| DizzinessIncludes vertigo | 15.6% | 9.0% |
+| Dizziness † | 15.6% | 9.0% |
 | Somnolence | 3.0% | 1.0% |
 | CARDIAC DISORDERS |  |  |
 | Hypotension | 1.7% | 0% |
@@ -25,6 +25,7 @@ Adverse reactions occurring more than 1% more frequently in BPH patients treated
 | GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Fatigue | 8.0% | 1.7% |
 | Oedema | 2.7% | 0.7% |
+| † Includes vertigo |  |  |
 
 Other adverse reactions occurring less than 1% more frequently in BPH patients treated with doxazosin mesylate vs placebo but plausibly related to doxazosin mesylate include: palpitations.
 
