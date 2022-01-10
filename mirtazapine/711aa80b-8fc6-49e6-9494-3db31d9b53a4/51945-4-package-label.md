@@ -23,11 +23,15 @@ Protect from light and moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM3515H10
+RALP3515H2
+
+2827/2
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -54,11 +58,15 @@ Protect from light and moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM3530H10
+RALP3530H2
+
+2829/2
 
 # PRINCIPAL DISPLAY PANEL - 45 mg
 
@@ -85,8 +93,12 @@ Protect from light and moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM3545H10
+RALP3545H10
+
+2831/2
