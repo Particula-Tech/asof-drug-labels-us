@@ -19,7 +19,7 @@ Hemorrhage
 
 The following rates of major bleeding events have been reported during clinical trials with Lovenox (see Tables 2 to 7).
 
-Table 2: Major Bleeding Episodes Following Abdominal and Colorectal SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 2: Major Bleeding Episodes following Abdominal and Colorectal SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major.
 
 | Indications | Lovenox 40 mg daily subcutaneously | Heparin 5000 U q8h subcutaneously |
@@ -28,29 +28,29 @@ Retroperitoneal, intraocular, and intracranial hemorrhages were always considere
 | Abdominal Surgery | n=555 23 (4%) | n=560 16 (3%) |
 | Colorectal Surgery | n=673 28 (4%) | n=674 21 (3%) |
 
-Table 3: Major Bleeding Episodes Following Hip or Knee Replacement SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 3: Major Bleeding Episodes following Hip or Knee Replacement SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major.
 In the knee replacement surgery trials, intraocular hemorrhages were also considered major hemorrhages.
 
 | Indications | Lovenox 40 mg daily subcutaneously | Lovenox 30 mg q12h subcutaneously | Heparin 15,000 U/24h subcutaneously |
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
-| Hip Replacement Surgery without Extended ProphylaxisLovenox 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery |  | n=786 31 (4%) | n=541 32 (6%) |
-| Hip Replacement Surgery with Extended Prophylaxis |  |  |  |
-| Peri-operative PeriodLovenox 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery | n=288 4 (2%) |  |  |
-| Extended Prophylaxis PeriodLovenox 40 mg subcutaneously once a day for up to 21 days after discharge | n=221 0 (0%) |  |  |
-| Knee Replacement Surgery without Extended Prophylaxis |  | n=294 3 (1%) | n=225 3 (1%) |
+| Hip Replacement Surgery without Extended ProphylaxisLovenox 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery | – | n=786 31 (4%) | n=541 32 (6%) |
+| Hip Replacement Surgery with Extended Prophylaxis | – | – | – |
+| Peri-operative PeriodLovenox 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery | n=288 4 (2%) | – | – |
+| Extended Prophylaxis PeriodLovenox 40 mg subcutaneously once a day for up to 21 days after discharge | n=221 0 (0%) | – | – |
+| Knee Replacement Surgery without Extended Prophylaxis | – | n=294 3 (1%) | n=225 3 (1%) |
 
 NOTE: At no time point were the 40 mg once a day pre-operative and the 30 mg every 12 hours postoperative hip replacement surgery prophylactic regimens compared in clinical trials.
 Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the Lovenox patients versus 1.8% of the placebo patients.
 
-Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility During Acute IllnessBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility during Acute IllnessBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major although none were reported during the trial.
 
 | Indication | LovenoxThe rates represent major bleeding on study medication up to 24 hours after last dose. 20 mg daily subcutaneously | Lovenox 40 mg daily subcutaneously | Placebo |
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
-| Medical Patients During Acute Illness | n=351 1 (<1%) | n=360 3 (<1%) | n=362 2 (<1%) |
+| Medical Patients during Acute Illness | n=351 1 (<1%) | n=360 3 (<1%) | n=362 2 (<1%) |
 
 Table 5: Major Bleeding Episodes in Deep Vein Thrombosis with or without Pulmonary Embolism TreatmentBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major.
@@ -69,7 +69,7 @@ Table 6: Major Bleeding Episodes in Unstable Angina and Non–Q-Wave Myocardial 
 
 Table 7: Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarction
 
-| Indication | LovenoxThe rates represent major bleeding (including ICH) up to 30 days Initial 30 mg intravenous bolus followed by 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |
+| Indication | LovenoxThe rates represent major bleeding (including ICH) up to 30 days. Initial 30 mg intravenous bolus followed by 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
 | Acute ST-Segment Elevation Myocardial Infarction | n=10176 n (%) | n=10151 n (%) |
@@ -110,12 +110,12 @@ Table 9: Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Patie
 |  | n=288Data represent Lovenox 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery in 288 hip replacement surgery patients who received Lovenox peri-operatively in an unblinded fashion in one clinical trial. % |  | n=131Data represent Lovenox 40 mg subcutaneously once a day given in a blinded fashion as extended prophylaxis at the end of the peri-operative period in 131 of the original 288 hip replacement surgery patients for up to 21 days in one clinical trial. % |  | n=1080 % |  | n=766 % |  | n=115 % |  |
 | Fever | 0 | 8 | 0 | 0 | <1 | 5 | <1 | 4 | 0 | 3 |
 | Hemorrhage | <1 | 13 | 0 | 5 | <1 | 4 | 1 | 4 | 0 | 3 |
-| Nausea |  |  |  |  | <1 | 3 | <1 | 2 | 0 | 2 |
+| Nausea | - | - | - |  | <1 | 3 | <1 | 2 | 0 | 2 |
 | Anemia | 0 | 16 | 0 | <2 | <1 | 2 | 2 | 5 | <1 | 7 |
-| Edema |  |  |  |  | <1 | 2 | <1 | 2 | 0 | 2 |
+| Edema | - | - | - | - | <1 | 2 | <1 | 2 | 0 | 2 |
 | Peripheral edema | 0 | 6 | 0 | 0 | <1 | 3 | <1 | 4 | 0 | 3 |
 
-Table 10: Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Medical Patients with Severely Restricted Mobility During Acute Illness
+Table 10: Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Medical Patients with Severely Restricted Mobility during Acute Illness
 
 | Adverse Reaction | Lovenox 40 mg daily subcutaneously n=360 % | Placebo daily subcutaneously n=362 % |
 | --- | --- | --- |

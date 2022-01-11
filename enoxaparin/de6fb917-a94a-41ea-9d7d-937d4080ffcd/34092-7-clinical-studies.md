@@ -10,7 +10,7 @@ Patients were 98% Caucasian, 1.1% Black, 0.4% Asian and 0.4% others.
 Lovenox 40 mg subcutaneously, administered once a day, beginning 2 hours prior to surgery and continuing for a maximum of 12 days after surgery, was comparable to heparin 5000 U every 8 hours subcutaneously in reducing the risk of DVT.
 The efficacy data are provided below (see Table 14).
 
-Table 14: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Abdominal Surgery
+Table 14: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis following Abdominal Surgery
 
 | Indication | Lovenox 40 mg daily subcutaneously n (%) | Heparin 5000 U q8h subcutaneously n (%) |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Patients ranged in age from 18 to 92 years (mean age 50.1 years) with 54.2% men 
 Treatment was initiated approximately 2 hours prior to surgery and continued for approximately 7 to 10 days after surgery.
 The efficacy data are provided below (see Table 15).
 
-Table 15: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Colorectal Surgery
+Table 15: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis following Colorectal Surgery
 
 | Indication | Lovenox 40 mg daily subcutaneously n (%) | Heparin 5000 U q8h subcutaneously n (%) |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Patients ranged in age from 41 to 84 years (mean age 67.1 years) with 45% men an
 After hemostasis was established, treatment was initiated 12 to 24 hours after surgery and was continued for 10 to 14 days after surgery.
 The efficacy data are provided below (see Table 16).
 
-Table 16: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 16: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 | Indication | Lovenox 30 mg q12h subcutaneously n (%) | Placebo q12h subcutaneously n (%) |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Patients were 93% Caucasian, 6% Black, <1% Asian, and 1% others.
 Treatment was initiated within two days after surgery and was continued for 7 to 11 days after surgery.
 The efficacy data are provided below (see Table 17).
 
-Table 17: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 17: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 | Indication | 10 mg daily subcutaneously n (%) | 30 mg q12h subcutaneously n (%) | 40 mg daily subcutaneously n (%) |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ After hemostasis was established, treatment was initiated 12 to 24 hours after s
 The incidence of proximal and total DVT after surgery was significantly lower for Lovenox compared to placebo.
 The efficacy data are provided below (see Table 18).
 
-Table 18: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Total Knee Replacement Surgery
+Table 18: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis following Total Knee Replacement Surgery
 
 | Indication | Lovenox 30 mg q12h subcutaneously n (%) | Placebo q12h subcutaneously n (%) |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Patients were 92.5% Caucasian, 5.3% Black, and 0.6% others.
 Treatment was initiated after surgery and continued up to 14 days.
 The incidence of deep vein thrombosis was lower for Lovenox compared to heparin.
 
-Extended Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery: In a study of extended prophylaxis for patients undergoing hip replacement surgery, patients were treated, while hospitalized, with Lovenox 40 mg subcutaneously, initiated up to 12 hours prior to surgery for the prophylaxis of postoperative DVT.
+Extended Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery: In a study of extended prophylaxis for patients undergoing hip replacement surgery, patients were treated, while hospitalized, with Lovenox 40 mg subcutaneously, initiated up to 12 hours prior to surgery for the prophylaxis of postoperative DVT.
 At the end of the peri-operative period, all patients underwent bilateral venography.
 In a double-blind design, those patients with no venous thromboembolic disease were randomized to a post-discharge regimen of either Lovenox 40 mg (n=90) once a day subcutaneously or to placebo (n=89) for 3 weeks.
 A total of 179 patients were randomized in the double-blind phase of the study and all patients were treated.
@@ -106,7 +106,7 @@ Patients ranged in age from 47 to 87 years (mean age 69.4 years) with 57% men an
 In this population of patients, the incidence of DVT during extended prophylaxis was significantly lower for Lovenox compared to placebo.
 The efficacy data are provided below (see Table 19).
 
-Table 19: Efficacy of Lovenox in the Extended Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 19: Efficacy of Lovenox in the Extended Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 | Indication (Post Discharge) | Lovenox 40 mg daily subcutaneously n (%) | Placebo daily subcutaneously n (%) |
 | --- | --- | --- |
@@ -139,10 +139,10 @@ Table 20: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis in Medi
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
 |  | Lovenox 20 mg daily subcutaneously | Lovenox 40 mg daily subcutaneously | Placebo |
-| All Treated Medical Patients During Acute Illness | 351 (100) | 360 (100) | 362 (100) |
+| All Treated Medical Patients during Acute Illness | 351 (100) | 360 (100) | 362 (100) |
 | Treatment FailureTreatment failures during therapy, between Days 1 and 14 |  |  |  |
 | Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
-| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI 2.3 to 6.6) | 41 (11.3) (95% CI 8.1 to 14.6) |
+| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval: 8.8 to 15.7) | 16 (4.4) (95% CI: 2.3 to 6.6) | 41 (11.3) (95% CI: 8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
 At approximately 3 months following enrollment, the incidence of venous thromboembolism remained lower in the Lovenox 40 mg treatment group versus the placebo treatment group.
@@ -213,8 +213,8 @@ Table 23: Efficacy of Lovenox in the Prophylaxis of Ischemic Complications in Un
 | Indication | n (%) | n (%) |  |  |
 | --- | --- | --- | --- | --- |
 |  | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
-|  | Lovenox 1 mg/kg q12h subcutaneous | Heparin aPTT Adjusted Intravenous Therapy | Reduction (%) | p Value |
-| All Treated Unstable Angina and Non–Q-Wave MI Patients | 1578 (100) | 1529 (100) |  |  |
+|  | Lovenox 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy | Reduction (%) | p Value |
+| All Treated Unstable Angina and Non–Q-Wave MI Patients | 1578 (100) | 1529 (100) | - | - |
 | Time pointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). |  |  |  |  |
 | 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
 | 14 Days | 261 (16.5) | 303 (19.8) | 3.3 | 0.017 |
@@ -297,7 +297,7 @@ Table 25: Efficacy of Lovenox in the Treatment of Acute ST-Segment Elevation Myo
 
 The beneficial effect of Lovenox on the primary endpoint was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, fibrinolytic agent administered, and time to treatment with study drug (see Figure 1); however, it is necessary to interpret such subgroup analyses with caution.
 
-| Figure 1: Relative Risks of and Absolute Event Rates for the Primary Endpoint at 30 Days in Various SubgroupsThe primary efficacy endpoint was the composite of death from any cause or myocardial re-infarction in the first 30 days. The overall treatment effect of Lovenox as compared to the unfractionated heparin is shown at the bottom of the figure. For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95% confidence intervals. Fibrin-specific fibrinolytic agents included alteplase, tenecteplase, and reteplase. Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median: 3.2 hours). |
+| Figure 1: Relative Risks of and Absolute Event Rates for the Primary Endpoint at 30 Days in Various SubgroupsThe primary efficacy endpoint was the composite of death from any cause or myocardial re-infarction in the first 30 days. The overall treatment effect of Lovenox as compared to the unfractionated heparin (UFH) is shown at the bottom of the figure. For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95% confidence intervals. Fibrin-specific fibrinolytic agents included alteplase, tenecteplase, and reteplase. Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median: 3.2 hours). |
 | --- |
 
 The beneficial effect of Lovenox on the primary endpoint observed during the first 30 days was maintained over a 12 month follow-up period (see Figure 2).

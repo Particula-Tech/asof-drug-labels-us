@@ -25,5 +25,6 @@ Table 27: 150 mg/mL Concentration
 | 150 mg/1 mL | 15,000 IU | 10 syringes | Navy Blue | 8025-10 |
 
 Store at 25°C (77°F); excursions permitted to 15°C–30°C (59°F–86°F) [see USP Controlled Room Temperature].
+Store in the original carton or packaging until ready to use.
 
 Do not store the multiple-dose vials for more than 28 days after the first use.
