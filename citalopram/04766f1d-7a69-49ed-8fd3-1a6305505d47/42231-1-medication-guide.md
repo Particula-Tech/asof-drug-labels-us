@@ -114,6 +114,25 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+11.
+Sexual problems (dysfunction).
+Take selective serotonin reuptake inhibitors (SSRIs), including
+
+Citalopram, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+- Symptoms in females may include:
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns abut sexual problems during treatment with citalopram.
+There may be treatments your healthcare provider can suggest.
+
 What are Citalopram Tablets?
 
 Citalopram tablets are a prescription medicine used to treat depression.
@@ -270,7 +289,7 @@ This Medication Guide summarizes the most important information about citalopram
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
 
-For more information about citalopram tablets call 1-269-544-2299.
+For more information about citalopram tablets call 1-800-912-9561.
 
 What are the ingredients in citalopram tablets?
 
@@ -288,6 +307,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8075293 Revised May 2019
+8085895 Revised January 2022

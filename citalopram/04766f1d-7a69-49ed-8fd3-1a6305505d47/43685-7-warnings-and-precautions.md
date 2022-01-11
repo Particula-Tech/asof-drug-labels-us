@@ -100,6 +100,16 @@ Angle Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including citalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
+Sexual Dysfunction
+
+Use of SSRIs, including citalopram, may cause syptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of citalopram and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -179,13 +189,16 @@ Pre-existing glaucoma is almost always open-angle glaucoma because angle closure
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
-Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
+Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 
-Patients should be told that, although citalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram and alcohol in depressed patients is not advised.
+Sexual Dysfunction: Advise patients that use of citalopram may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
+
+Patients should be told that, although citalopram has not been shown in experients with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citaloporam and alcohol in depressed patients is not advised.
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 
-Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, warfarin, or other drtuga that affect cogaulation since the combined use of psychotropic drugs that interdere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
@@ -193,15 +206,15 @@ Patients should be advised to notify their physician if they are breastfeeding a
 
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with citalopram and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for citalopram.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Prescribers or other health professionals should inform patients, and their caregivers about the benefits and risks associated with treatment with citalopram and should counsel them in its appropriate use.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for citalopram.
+The prescriber or health professional should instruct patients, their familites, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking citalopram.
 
-Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Clinical Worsening and Suicide Risk: Patients, their families, and caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irribility, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
@@ -295,8 +308,6 @@ When citalopram was administered orally to 16 male and 24 female rats prior to a
 Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD.
 
 ## Pregnancy
-
-Pregnancy Category C
 
 In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 

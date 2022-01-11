@@ -12,8 +12,6 @@ Bottle of 500 NDC 13668-009-05
 
 Bottle of 9990 NDC 13668-009-09
 
-10 x 10 Unit Dose NDC 13668-009-74
-
 Tan coloured, round shaped, bic onvex film coated tablets with '10' debossed on one side and plain on the other side.
 
 Citalopram Tablets, USP 20 mg
@@ -26,8 +24,6 @@ Bottle of 500 NDC 13668-010-05
 
 Bottle of 5600 NDC 13668-010-06
 
-10 x 10 Unit Dose NDC 13668-010-74
-
 Tan coloured, oval shaped, biconvex film coated tablets with '2|0' debossed ('2' on left side and '0' on right side of the break line) on one side and '1010' on the other side.
 
 Citalopram Tablets, USP 40 mg
@@ -39,8 +35,6 @@ Bottle of 100 NDC 13668-011-01
 Bottle of 500 NDC 13668-011-05
 
 Bottle of 2800 NDC 13668-011-08
-
-10 x 10 Unit Dose NDC 13668-011-74
 
 Tan coloured, oval shaped, biconvex film coated tablets with '4|0' debossed ('4' on left side and '0' on right side of the break line) on one side and '1011' on the other side.
 

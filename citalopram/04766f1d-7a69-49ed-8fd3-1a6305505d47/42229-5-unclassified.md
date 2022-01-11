@@ -1,11 +1,9 @@
 Rx Only
 
-Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Manufactured by:TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8075292 Revised May 2019
+8085894 Revised January 2022
