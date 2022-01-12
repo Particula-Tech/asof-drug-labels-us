@@ -93,25 +93,21 @@ STRATTERA should be used with caution in any condition that may predispose patie
 
 ## 5.5 Emergence of New Psychotic or Manic Symptoms
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1056 placebo-treated patients.
+Psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania can be caused by STRATTERA at usual doses.
+If such symptoms occur, consider discontinuing STRATTERA.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
-In general, particular care should be taken in treating ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with STRATTERA, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+Patients with bipolar disorder or risk factors for bipolar disorder may be at increased risk of developing mania or mixed episodes during treatment with STRATTERA.
+It may not be possible to determine whether a manic or mixed episode that appears during treatment with STRATTERA is due to an adverse reaction to STRATTERA or a patient’s underlying bipolar disorder.
+Before initiating treatment with STRATTERA, patients should be adequately screened for risk factors for bipolar disorder such as a personal or family history of mania and depression.
 
 ## 5.7 Aggressive Behavior or Hostility
 
-Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In pediatric short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
-0.67-2.64 – not statistically significant]).
-In adult placebo-controlled clinical trials, 6/1697 (0.35%) of atomoxetine patients versus 4/1560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
-0.39-4.88 – not statistically significant]).
-Although this is not conclusive evidence that STRATTERA causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with STRATTERA compared to placebo.
+Patients beginning treatment with STRATTERA should be monitored for the appearance or worsening of aggressive behavior or hostility.
+There is evidence that STRATTERA may cause the emergence or worsening of aggressive behavior or hostility.
+ADHD and other mental illnesses can be associated with irritability, which can make it difficult to determine if the drug or the underlying psychiatric condition is causing the emergence or worsening of aggressive behavior or hostility in specific patients.
+If such symptoms occur during treatment, consider a possible causal role of STRATTERA.
 
 ## 5.8 Allergic Events
 
@@ -161,4 +157,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 ## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.5) and Drug Interactions (7.2)].

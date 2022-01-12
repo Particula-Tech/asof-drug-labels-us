@@ -82,7 +82,7 @@ Seizures — STRATTERA has not been systematically evaluated in adult patients w
 In the clinical development program, seizures were reported on 0.1% (1/748) of adult patients.
 In these clinical trials, no poor metabolizers (0/43) reported seizures compared to 0.1% (1/705) for extensive metabolizers.
 
-Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 4.
+Commonly observed adverse reactions in acute adult placebo-controlled trials— Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 4.
 The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, decreased appetite, dizziness, erectile dysfunction, and urinary hesitation (see Table 4).
 
 Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
