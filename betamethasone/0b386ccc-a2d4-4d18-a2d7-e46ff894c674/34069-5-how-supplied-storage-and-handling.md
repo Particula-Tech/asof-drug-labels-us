@@ -11,4 +11,4 @@ Store at room temperature 15° - 30°C (59° - 86°F) [see USP Controlled Room T
 
 E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, NY 11747
 
-I240F R07/13 #57
+46289058A R06/2021 #57

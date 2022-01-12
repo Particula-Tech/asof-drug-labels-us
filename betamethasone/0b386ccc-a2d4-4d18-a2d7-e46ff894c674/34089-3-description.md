@@ -7,7 +7,7 @@ Betamethasone valerate is a white to practically white odorless crystalline powd
 Chemically, it is 9-fluoro-11β,17,21-trihydroxy-16β-methylpregna-1, 4-diene-3,20-dione 17-valerate.
 The structural formula is:
 
-Each gram of the 0.1% Cream contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in a soft, white, hydrophilic cream of purified water, mineral oil, white petrolatum, polyethylene glycol 1000 monocetyl ether, cetostearyl alcohol, monobasic sodium phosphate and phosphoric acid or sodium hydroxide (to adjust pH, if required); chlorocresol is present as a preservative.
+Each gram of the 0.1% Cream contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in a soft, white, hydrophilic cream of purified water, mineral oil, white petrolatum, polyoxyl 20 cetostearyl ether, cetostearyl alcohol, monobasic sodium phosphate and phosphoric acid or sodium hydroxide (to adjust pH, if required); chlorocresol is present as a preservative.
 
 Each gram of the 0.1% Ointment contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in an ointment base of white petrolatum and mineral oil.
 
