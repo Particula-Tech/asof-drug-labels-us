@@ -94,7 +94,7 @@ How should you take ARICEPT?
 - If you miss a dose of ARICEPT, just wait.
   Take only the next dose at the usual time.
   Do not take 2 doses at the same time.
-- If ARICEPT is missed for 7 days or more, talk with your before starting again.
+- If ARICEPT is missed for 7 days or more, talk with your doctor before starting again.
 - If you take too much ARICEPT at one time, call your doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of ARICEPT?
@@ -169,8 +169,10 @@ Inactive ingredients:
 
 ARICEPT® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd.
 
-Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
+Distributed by Eisai Inc., Nutley, NJ 07110
 
 Rx Only
 
-© 2018 Eisai Inc.
+© 1996-2021 Eisai Inc.
+
+Revised: 12/2021
