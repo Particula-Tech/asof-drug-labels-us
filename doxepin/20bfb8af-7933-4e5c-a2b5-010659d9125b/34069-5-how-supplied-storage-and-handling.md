@@ -45,7 +45,7 @@ Bottle of 90 Capsules: NDC 69238-1173-9
 
 Bottle of 1000 Capsules: NDC 69238-1173-1
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 
@@ -59,4 +59,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2021-02
+10-2021-03

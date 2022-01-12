@@ -57,4 +57,6 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2017-01
+10-2021-02
+
+Dispense with Medication Guide available at: documents.amneal.com/mg/doxepin-hcl-capsules.pdf
