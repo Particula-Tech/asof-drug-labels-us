@@ -2,13 +2,13 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-- Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
-- Tubulointerstitial nephritis [see Warnings and Precautions (5.5)]
-- Peripheral neuropathy [see Warnings and Precautions (5.6)]
-- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+- Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
+- Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
+- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -170,7 +170,7 @@ Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 
 The safety of CUBICIN was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous CUBICIN and 133 patients treated with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
-The doses given by age group were as follows: 10mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+The doses given by age group were as follows: 10 mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
 Patients treated with CUBICIN were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
 
 Adverse Reactions Leading to Discontinuation
@@ -249,7 +249,7 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia,
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] or toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 

@@ -72,8 +72,8 @@ The dosage regimen for CUBICIN RF in pediatric patients with renal impairment ha
 
 ## 2.7 Preparation and Administration of CUBICIN RF
 
-There are two formulations of daptomycin that have differences concerning storage and reconstitution.
-Carefully follow the reconstitution and storage procedures in labeling.
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
+Carefully follow the reconstitution and storage procedures described in this labeling.
 
 Reconstitution of CUBICIN RF Vial
 
@@ -133,8 +133,8 @@ Table 4: In-Use Storage Conditions for CUBICIN RF Once Reconstituted in Acceptab
 | Bacteriostatic Water for Injection | 2 Days | 3 Days |  |
 | SyringePolypropylene syringe with elastomeric plunger stopper. | Sterile Water for Injection | 1 Day | 3 Days |
 | Bacteriostatic Water for Injection | 2 Days | 5 Days |  |
-| Intravenous Bag | Reconstitution: Sterile Water for Injection for immediate dilution with 0.9% sodium chloride injection | 19 Hours | 3 Days |
-| Reconstitution: Bacteriostatic Water for Injection for immediate dilution with 0.9% sodium chloride injection | 2 Days | 5 Days |  |
+| Intravenous Bag | Vial reconstituted with Sterile Water for Injection and immediately diluted with 0.9% sodium chloride injection | 19 Hours | 3 Days |
+| Vial reconstituted with Bacteriostatic Water for Injection and immediately diluted with 0.9% sodium chloride injection | 2 Days | 5 Days |  |
 
 ## 2.8 Compatible Intravenous Solutions
 
@@ -148,5 +148,5 @@ CUBICIN RF is not compatible with dextrose-containing diluents.
 CUBICIN RF should not be used in conjunction with ReadyMED® elastomeric infusion pumps.
 Stability studies of CUBICIN solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the CUBICIN solution.
 
-Because only limited data are available on the compatibility of CUBICIN RF with other IV substances, additives and other medications should not be added to CUBICIN RF single-dose vials or infusion bags, or infused simultaneously with CUBICIN RF through the same IV line.
+Because only limited data are available on the compatibility of CUBICIN RF with other IV substances, additives and other medications should not be added to CUBICIN RF single-dose vials or infusion bags or infused simultaneously with CUBICIN RF through the same IV line.
 If the same IV line is used for sequential infusion of different drugs, the line should be flushed with a compatible intravenous solution before and after infusion with CUBICIN RF.
