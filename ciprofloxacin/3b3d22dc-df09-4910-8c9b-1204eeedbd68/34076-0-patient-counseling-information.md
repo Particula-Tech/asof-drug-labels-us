@@ -11,7 +11,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of ciprofloxacin tablets and may occur together in the same patient.
   Inform patients to stop taking ciprofloxacin tablets immediately if they experience an adverse reaction and to call their healthcare provider.
 
-- Tendinitisand tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
+- Tendinitis and tendon rupture:Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 
@@ -23,17 +23,17 @@ Inform patients of the following serious adverse reactions that have been associ
   Inform patients that they should know how they react to ciprofloxacin tablets before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
   Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
 
-- Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
+- Exacerbation of Myasthenia Gravis:Instruct patients to inform their physician of any history of myasthenia gravis.
   Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 
-- Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
+- Hypersensitivity Reactions:Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 
-- Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
+- Hepatotoxicity:Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 
 - Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 
-- Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+- Diarrhea:Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
 
@@ -58,7 +58,7 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 
-- Blood Glucose Distrubances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin tablets and consult a physician.
+- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin tablets and consult a physician.
 
 - Lactation: For indications other than inhalational anthrax (post exposure), advise a woman that breastfeeding is not recommended during treatment with ciprofloxacin tablets and for an additional 2 days after the last dose.
   Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
@@ -87,14 +87,16 @@ Drug Interactions Oral Antidiabetic Agents
 
 Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
 
-Anthrax and Plague Studies
+Anthrax and PlagueStudies
 
 Inform patients given ciprofloxacin tablets for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 
-Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-May 2020
+2INCPXN-E
+
+Revised November 2021

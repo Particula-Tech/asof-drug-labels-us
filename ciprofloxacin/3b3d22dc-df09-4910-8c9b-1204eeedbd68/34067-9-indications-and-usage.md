@@ -2,7 +2,7 @@
 
 ## 1.1 Skin and Skin Structure Infections
 
-Ciprofloxacin tablets are indicated in adult patients for treatment of skin and skin structure infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin­ susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+Ciprofloxacin tablets are indicated in adult patients for treatment of skin and skin structure infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
 
 ## 1.2 Bone and Joint Infections
 

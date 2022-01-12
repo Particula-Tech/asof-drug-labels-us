@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below:
+Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
 
 - Salmonella/Microsome Test (Negative)
 - E. coli DNA Repair Assay (Negative)

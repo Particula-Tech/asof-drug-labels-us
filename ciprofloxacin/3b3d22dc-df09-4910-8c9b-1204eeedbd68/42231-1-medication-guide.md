@@ -1,4 +1,4 @@
-Medication Guide Ciprofloxacin Tablets USP (sip-roh-flok-suh-sin)
+MEDICATION GUIDE Ciprofloxacin Tablets USP (sip-roh-flok-suh-sin)
 
 Read this Medication Guide before you start taking ciprofloxacin tablets and each time you get a refill.
 There may be new information.
@@ -81,7 +81,7 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 
 - seizures
 - hear voices, see things, or sense things that are not there (hallucinations)
-- feel restless or agitated
+- feel agitated
 - tremors
 - feel anxious or nervous
 - confusion
@@ -89,14 +89,14 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 - reduced awareness of surroundings
 - trouble sleeping
 - nightmares
-- feel lightheaded or dizzy
+- feel light-headed or dizzy
 - feel more suspicious (paranoia)
 - suicidal thoughts or acts
 - headaches that will not go away, with or without blurred vision
 - memory problems
 - false or strange thoughts or beliefs (delusions)
 
-The CNS changes may be permanent.
+These changes may be permanent.
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
@@ -140,7 +140,7 @@ These bacterial infections include:
 
 • Studies of ciprofloxacin tablets for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
-• Ciprofloxacin tablets should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
+• Ciprofloxacin tablets should not be used in people with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
 
 • Ciprofloxacin tablets should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections caused by a certain type of bacterial called Streptococcus pneumoniae.
 
@@ -163,16 +163,16 @@ What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
 Before you take ciprofloxacin tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-• have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
+• have tendon problems; ciprofloxacin tablets should not be used in people who have a history of tendon problems
 
-• have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have history of myasthenia gravis
+• have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in people who have a known history of myasthenia gravis
 
 • have liver problems
 
 • have central nervous system problems (such as epilepsy)
 
 • have nerve problems.
-Ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy have or anyone in your family has an irregular heartbeat, or heart attack, especially a condition called “QT prolongation”.
+Ciprofloxacin tablets should not be used in people who have a history of a nerve problem called peripheral neuropathy have or anyone in your family has an irregular heartbeat, or heart attack, especially a condition called “QT prolongation”.
 
 • have low blood potassium (hypokalemia) or low magnesium (hypomagnesemia).
 
@@ -191,9 +191,9 @@ You may need a lower dose of ciprofloxacin tablets if your kidneys do not work w
 It is not known if ciprofloxacin tablets will harm your unborn baby.
 
 • are breastfeeding or plan to breastfeed.
-Ciprofloxacin tablets passes into your breast milk.
+Ciprofloxacin passes into your breast milk.
 
-o you should not breastfeed during treatment with ciprofloxacin tablets and for 2 days after taking your last dose of ciprofloxacin tablets.
+o You should not breastfeed during treatment with ciprofloxacin tablets and for 2 days after taking your last dose of ciprofloxacin tablets.
 You may pump your breast milk and throw it away during treatment with ciprofloxacin tablets and for 2 days after taking your last dose of ciprofloxacin tablets.
 
 o If you are taking ciprofloxacin tablets for inhalation anthrax, you and your healthcare provider should decide whether you can continue breastfeeding while taking ciprofloxacin tablets.
@@ -220,24 +220,12 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 
 How should I take ciprofloxacin tablets?
 
-- Take ciprofloxacin tablets exactly as your healthcare provider tells you to take it.
-- Your healthcare provider will tell you how much ciprofloxacin tablets to take and when to take it.
-- Take ciprofloxacin tablets in the morning and evening at about the same time each day.
-  Swallow the tablet whole.
-  Do not split, crush or chew the tablet.
-  Tell your healthcare provider if you cannot swallow the tablet whole.
+- Take ciprofloxacin tablets exactly as your healthcare provider tells you to take them.
+- Your healthcare provider will tell you how much ciprofloxacin tablets to take and when to take them.
 - Ciprofloxacin tablets can be taken with or without food.
-- If you miss a dose of Ciprofloxacin Tablets and it is:
-
-○ 6 hours or more until your next scheduled dose, take your missed dose right away.
-Then take the next dose at your regular time. ○ less than 6 hours until your next scheduled dose, do not take the missed dose.
-Take the next dose at your regular time.
-
-- Do not take 2 doses of Ciprofloxacin Tablets at one time to make up for a missed dose.
-  If you are not sure about when to take Ciprofloxacin Tablets after a missed dose, ask your doctor or pharmacist.
 - Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - Drink plenty of fluids while taking ciprofloxacin tablets.
-- Do not skip any doses of ciprofloxacin tablets, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless: ○ you have tendon problems.
+- Do not skip any doses of ciprofloxacin tablets, or stop taking them, even if you begin to feel better, until you finish your prescribed treatment unless: ○ you have tendon problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have nerve problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have central nervous system problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have a serious allergic reaction.
@@ -247,11 +235,23 @@ Taking all of your ciprofloxacin tablets doses will help make sure that all of t
 Taking all of your ciprofloxacin tablets doses will help lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
 If you become resistant to ciprofloxacin tablets, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
 
-• If you take too much ciprofloxacin tablets, call your healthcare provider or get medical help right away.
+- If you take too much ciprofloxacin tablets, call your healthcare provider or get medical help right away.
+- Take ciprofloxacin tablets in the morning and evening at about the same time each day.
+  Swallow the tablet whole.
+  Do not split, crush or chew the tablet.
+  Tell your healthcare provider if you cannot swallow the tablet whole.
+- If you miss a dose of ciprofloxacin tablets and it is:
+
+○ 6 hours or more until your next scheduled dose, take your missed dose right away.
+Then take the next dose at your regular time. ○ less than 6 hours until your next scheduled dose, do not take the missed dose.
+Take the next dose at your regular time.
+
+- Do not take 2 doses of Ciprofloxacin Tablets at 1 time to make up for a missed dose.
+  If you are not sure about when to take Ciprofloxacin Tablets after a missed dose, ask your healthcare provider or pharmacist.
 
 What should I avoid while taking ciprofloxacin tablets?
 
-- Ciprofloxacin tablets can make you feel dizzy and lightheaded.
+- Ciprofloxacin tablets can make you feel dizzy and light-headed.
   Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how ciprofloxacin tablets affects you.
 - Avoid sunlamps, tanning beds, and try to limit your time in the sun.
   Ciprofloxacin tablets can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
@@ -263,7 +263,7 @@ What are the possible side effects of ciprofloxacin tablets?
 
 Ciprofloxacin tablets may cause serious side effects, including:
 
-- See, “What is the most important information I should know about ciprofloxacin tablets?”
+- See “What is the most important information I should know about ciprofloxacin tablets?”
 - Serious allergic reactions.
   Serious allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin tablets, even after only 1 dose.
   Stop taking ciprofloxacin tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction: ○ hives ○ trouble breathing or swallowing ○ swelling of the lips, tongue, face ○ throat tightness, hoarseness ○ rapid heartbeat ○ faint ○ skin rash
@@ -284,7 +284,7 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
   Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 - Intestine infection (Clostridioides difficile – associated diarrhea).
-  Clostridiodes difficile-associated diarrhea (CDAD) can happen with many antibacterial medicines, including ciprofloxacin tablets.
+  Clostridioides difficile-associated diarrhea (CDAD) can happen with many antibacterial medicines, including ciprofloxacin tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   CDAD can happen 2 or more months after you have finished your antibacterial medicine
@@ -303,7 +303,7 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin tablets?”
 
-9.
+5.
 Changes in blood sugar People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
 Follow your healthcare provider's instructions for how often to check your blood sugar.
 If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
@@ -317,7 +317,7 @@ The most common side effects of ciprofloxacin tablets include:
 - vomiting
 - rash
 
-Tell your healthcare provider about any side effect that bothers you, or that does not go away.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of ciprofloxacin tablets.
 For more information, ask your healthcare provider or pharmacist.
@@ -340,7 +340,7 @@ It may harm them.
 
 This Medication Guide summarizes the most important information about ciprofloxacin tablets.
 If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for health professionals.
 
 For more Information contact Hikma Pharmaceuticals USA Inc. at 1-877-233-2001.
 
@@ -352,9 +352,9 @@ What are the ingredients in ciprofloxacin tablets?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-Revised June 2020
+Revised November 2021

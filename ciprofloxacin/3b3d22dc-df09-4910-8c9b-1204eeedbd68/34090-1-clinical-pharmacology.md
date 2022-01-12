@@ -34,7 +34,7 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 12 hours, intravenous |
+|  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
 | AUC0-24h,ss (μg•h/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
 | Cmax,ss (μg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
@@ -200,7 +200,7 @@ However, the efficacy of ciprofloxacin in treating clinical infections caused by
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 
-Gram-negative bacteria Acinetobacter Iwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholerae Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica
+Gram-negative bacteria Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholerae Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica
 
 Susceptibility Testing
 
