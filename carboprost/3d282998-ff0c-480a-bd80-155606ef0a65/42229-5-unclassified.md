@@ -3,4 +3,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0032-8.0 Revised November 2021
+LAB-0032-9.0 Revised January 2022

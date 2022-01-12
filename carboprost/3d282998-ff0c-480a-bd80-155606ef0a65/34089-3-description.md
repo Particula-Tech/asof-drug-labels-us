@@ -19,6 +19,6 @@ It generally melts between 95° and 105° C, depending on the rate of heating.
 
 Carboprost tromethamine dissolves readily in water at room temperature at a concentration greater than 75 mg/mL.
 
-HEMABATE Sterile Solution contains carboprost tromethamine equivalent to 250 mcg/mL of carboprost, and also contains sodium chloride, and benzyl alcohol added as preservative.
+HEMABATE Sterile Solution contains carboprost tromethamine equivalent to 250 mcg/mL of carboprost, and also contains tromethamine 83 mcg, sodium chloride 9 mg, and benzyl alcohol 9.45 mg added as preservative.
 When necessary, pH is adjusted with sodium hydroxide and/or hydrochloric acid.
 The solution is sterile.
