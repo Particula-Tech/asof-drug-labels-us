@@ -5,7 +5,7 @@ The pH of the injection is 5.5 to 7.5.
 
 Enoxaparin sodium is obtained by alkaline depolymerization of heparin benzyl ester derived from porcine intestinal mucosa.
 Its structure is characterized by a 2-O-sulfo-4-enepyranosuronic acid group at the non-reducing end and a 2-N,6-O-disulfo-D-glucosamine at the reducing end of the chain.
-About 20% (ranging between 15% and 25%) of the enoxaparin structure contains a 1,6 anhydro derivative on the reducing end of the polysaccharide chain.
+About 20% (ranging between 15% and 25%) of the enoxaparin structure contains a 1,6-anhydro derivative on the reducing end of the polysaccharide chain.
 The drug substance is the sodium salt.
 The average molecular weight is about 4500 daltons.
 The molecular weight distribution is:
@@ -17,7 +17,7 @@ The molecular weight distribution is:
 
 STRUCTURAL FORMULA
 
-| R | XX = Percent of polysaccharide chain containing 1,6 anhydro derivative on the reducing end=15 to 25% |  | n=0 to 20 |
+| R | XX = Percent of polysaccharide chain containing 1,6-anhydro derivative on the reducing end=15 to 25% |  | n=0 to 20 |
 | --- | --- | --- | --- |
 | 100-X | H | n=1 to 21 |  |
 
