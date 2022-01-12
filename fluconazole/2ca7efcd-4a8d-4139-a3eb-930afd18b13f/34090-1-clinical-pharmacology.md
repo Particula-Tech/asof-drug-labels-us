@@ -131,13 +131,6 @@ The Cmax increased 13% ± 17% (range: –13 to 40%).
 Theophylline clearance decreased 16% ± 11% (range: –32 to 5%).
 The half-life of theophylline increased from 6.6 ± 1.7 hours to 7.9 ± 1.5 hours.
 (See PRECAUTIONS.)
-Terfenadine: Six healthy volunteers received terfenadine 60 mg BID for 15 days.
-Fluconazole 200 mg was administered daily from days 9 through 15.
-Fluconazole did not affect terfenadine plasma concentrations.
-Terfenadine acid metabolite AUC increased 36% ± 36% (range: 7 to 102%) from Day 8 to Day 15 with the concomitant administration of fluconazole.
-There was no change in cardiac repolarization as measured by Holter QTc intervals.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg/day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
-(See CONTRAINDICATIONS and PRECAUTIONS.)
 Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
 Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and quinidine is contraindicated.
@@ -161,13 +154,6 @@ Rifabutin: There have been published reports that an interaction exists when flu
 (See PRECAUTIONS.)
 Tacrolimus: There have been published reports that an interaction exists when fluconazole is administered concomitantly with tacrolimus, leading to increased serum levels of tacrolimus.
 (See PRECAUTIONS.)
-Cisapride: A placebo-controlled, randomized, multiple-dose study examined the potential interaction of fluconazole with cisapride.
-Two groups of 10 normal subjects were administered fluconazole 200 mg daily or placebo.
-Cisapride 20 mg four times daily was started after 7 days of fluconazole or placebo dosing.
-Following a single dose of fluconazole, there was a 101% increase in the cisapride AUC and a 91% increase in the cisapride Cmax.
-Following multiple doses of fluconazole, there was a 192% increase in the cisapride AUC and a 154% increase in the cisapride Cmax.
-Fluconazole significantly increased the QTc interval in subjects receiving cisapride 20 mg four times daily for 5 days.
-(See CONTRAINDICATIONS and PRECAUTIONS.)
 Midazolam: The effect of fluconazole on the pharmacokinetics and pharmacodynamics of midazolam was examined in a randomized, cross-over study in 12 volunteers.
 In the study, subjects ingested placebo or 400 mg fluconazole on Day 1 followed by 200 mg daily from Day 2 to Day 6.
 In addition, a 7.5 mg dose of midazolam was orally ingested on the first day, 0.05 mg/kg was administered intravenously on the fourth day, and 7.5 mg orally on the sixth day.
