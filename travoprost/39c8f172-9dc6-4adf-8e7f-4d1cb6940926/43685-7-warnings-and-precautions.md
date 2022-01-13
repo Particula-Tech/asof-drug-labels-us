@@ -13,26 +13,28 @@ The long-term effects of increased pigmentation are not known.
 Iris color change may not be noticeable for several months to years.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish.
 Neither nevi nor freckles of the iris appear to be affected by treatment.
-While treatment with travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (17)].
+While treatment with travoprost ophthalmic solution 0.004% (ionic buffered solution) can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (17)].
 
 ## 5.2 Eyelash Changes
 
-Travoprost ophthalmic solution may gradually change eyelashes and vellus hair in the treated eye.
+Travoprost ophthalmic solution 0.004% (ionic buffered solution) may gradually change eyelashes and vellus hair in the treated eye.
 These changes include increased length, thickness, and number of lashes.
-Eyelash changes are usually reversible upon discontinuation of treatment.[see Patient Counseling Information (17)].
+Eyelash changes are usually reversible upon discontinuation of treatment [see Patient Counseling Information (17)].
 
 ## 5.3 Intraocular Inflammation
 
-Travoprost Ophthalmic Solution should be used with caution in patients with active intraocular inflammation (e.g., uveitis) because the inflammation may be exacerbated.
+Travoprost ophthalmic solution 0.004% (ionic buffered solution) should be used with caution in patients with active intraocular inflammation (e.g., uveitis) because the inflammation may be exacerbated.
 
 ## 5.4 Macular Edema
 
 Macular edema, including cystoid macular edema, has been reported during treatment with travoprost ophthalmic solution.
-Travoprost ophthalmic solution should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
+Travoprost ophthalmic solution 0.004% (ionic buffered solution) should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
 
-## 5.5 Angle-closure, Inflammatory, or Neovascular Glaucoma
+## 5.5 Angle-closure, Inflammatory or Neovascular Glaucoma
 
-Travoprost ophthalmic solution has not been evaluated for the treatment of angle-closure, inflammatory or neovascular glaucoma.
+Travoprost ophthalmic solution 0.004% (ionic buffered solution)
+
+has not been evaluated for the treatment of angle-closure, inflammatory or neovascular glaucoma.
 
 ## 5.6 Bacterial Keratitis
 
@@ -41,4 +43,4 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 ## 5.7 Use with Contact Lenses
 
-Contact lenses should be removed prior to instillation of travoprost ophthalmic solution and may be reinserted 15 minutes following its administration.
+Contact lenses should be removed prior to instillation of travoprost ophthalmic solution 0.004% (ionic buffered solution) and may be reinserted 15 minutes following its administration.

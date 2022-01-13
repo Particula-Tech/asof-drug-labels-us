@@ -3,11 +3,11 @@
 Potential for Pigmentation
 
 Advise the patient about the potential for increased brown pigmentation of the iris, which may be permanent.
-Inform the patient about the possibility of eyelid skin darkening, which may be reversible after discontinuation of travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) [see Warnings and Precautions (5.1)].
+Inform the patient about the possibility of eyelid skin darkening, which may be reversible after discontinuation of travoprost ophthalmic solution 0.004% (ionic buffered solution) [see Warnings and Precautions (5.1)].
 
 Potential for Eyelash Changes
 
-Inform the patient about the possibility of eyelash and vellus hair changes in the treated eye during treatment with travoprost ophthalmic solution 0.004% (Ionic Buffered Solution).
+Inform the patient about the possibility of eyelash and vellus hair changes in the treated eye during treatment with travoprost ophthalmic solution 0.004% (ionic buffered solution).
 These changes may result in a disparity between eyes in length, thickness, pigmentation, number of eyelashes or vellus hairs, and/or direction of eyelash growth.
 Eyelash changes are usually reversible upon discontinuation of treatment [see Warnings and Precautions (5.2)].
 
@@ -18,11 +18,11 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 When to Seek Physician Advice
 
-Advise the patient that if they develop an intercurrent ocular condition (e.g., trauma or infection), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) [see Warnings and Precautions(5.3, 5.4, 5.5)].
+Advise the patient that if they develop an intercurrent ocular condition (e.g., trauma or infection), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of travoprost ophthalmic solution 0.004% (ionic buffered solution) [see Warnings and Precautions (5.3, 5.4, 5.5)].
 
 Use with Contact Lenses
 
-Contact lenses should be removed prior to instillation of travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) and may be reinserted 15 minutes following its administration [see Warnings and Precautions (5.7)].
+Contact lenses should be removed prior to instillation of travoprost ophthalmic solution 0.004% (ionic buffered solution) and may be reinserted 15 minutes following its administration [see Warnings and Precautions (5.7)].
 
 Use with Other Ophthalmic Drugs
 

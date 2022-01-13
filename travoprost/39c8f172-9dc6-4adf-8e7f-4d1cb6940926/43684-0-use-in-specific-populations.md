@@ -9,7 +9,7 @@ There are no adequate and well-controlled studies in pregnant women to inform a 
 In animal reproduction studies, subcutaneous (SC) administration of travoprost to pregnant mice and rats throughout the period of organogenesis produced embryo-fetal lethality, spontaneous abortion, and premature delivery at potentially clinically relevant doses.
 
 Advise pregnant women of a potential risk to a fetus.
-Because animal reproductive studies are not always predictive of human response, travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) should be administered during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Because animal reproductive studies are not always predictive of human response, travoprost ophthalmic solution 0.004% (ionic buffered solution) should be administered during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
@@ -18,7 +18,7 @@ Data
 Animal Data
 
 An embryo-fetal study was conducted in pregnant rats administered travoprost once daily by SC injection from gestation day (GD) 6 to 18, to target the period of organogenesis.
-At 10 mcg/kg (60 times the maximum recommended human ocular dose [MRHOD], based on estimated plasma Cmax), travoprost was teratogenic in rats, evidenced by an increase in the incidence of skeletal malformations as well as external and visceral malformations, including fused sternebrae, domed head and hydrocephaly.
+At 10 mcg/kg (60 times the maximum recommended human ocular dose [MRHOD], based on estimated plasma C max), travoprost was teratogenic in rats, evidenced by an increase in the incidence of skeletal malformations as well as external and visceral malformations, including fused sternebrae, domed head and hydrocephaly.
 Travoprost caused post-implantation loss at 10 mcg/kg.
 The no observed adverse effect level (NOAEL) for post-implantation loss was 3 mcg/kg (18 times the MRHOD, based on estimated plasma C max). The maternal NOAEL was 10 mcg/kg.
 
@@ -38,7 +38,7 @@ There are no data on the effects of travoprost on the breastfed child or milk pr
 It is not known if travoprost is present in human milk following ophthalmic administration.
 A study in lactating rats demonstrated that radio-labeled travoprost and/or its metabolites were excreted in milk following subcutaneous administration.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for travoprost ophthalmic solution 0.004% (Ionic Buffered Solution) and any potential adverse effects on the breast-fed child from travoprost ophthalmic solution 0.004% (Ionic Buffered Solution).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for travoprost ophthalmic solution 0.004% (ionic buffered solution) and any potential adverse effects on the breast-fed child from travoprost ophthalmic solution 0.004% (ionic buffered solution).
 
 ## 8.4 Pediatric Use
 
