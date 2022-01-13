@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207917"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-662-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene and benzoyl peroxide",
+      "name": "adapalene and benzoyl peroxide"
+    }
+  ],
+  "setid": "56541736-c70e-4fcd-9614-6cfdc5044136",
+  "source": "dailymed"
+}
