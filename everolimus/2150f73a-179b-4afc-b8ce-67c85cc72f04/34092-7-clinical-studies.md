@@ -82,7 +82,7 @@ The median age was 63 years (22 to 86 years); 47% were male; 76% were White; 74%
 The most common primary sites of tumor were lung (30%), ileum (24%), and rectum (13%).
 
 The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 22 and Figure 3).
-There was no statistically significant difference in OS at the planned interim analysis.
+The final OS analysis did not show a statistically significant difference between those patients who received AFINITOR or placebo (HR = 0.90 [95% CI: 0.66, 1.24]).
 
 Table 22: Progression-Free Survival in Neuroendocrine Tumors of Gastrointestinal or Lung Origin in RADIANT-4
 
@@ -109,7 +109,7 @@ The study did not meet its major efficacy outcome measure of a statistically sig
 
 ## 14.3 Renal Cell Carcinoma (RCC)
 
-An international, multi-center, randomized, double-blind trial (RECORD-1, NCT00410124) comparing AFINITOR 10 mg once daily and placebo, both in conjunction with BSC, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
+An international, multicenter, randomized, double-blind trial (RECORD-1, NCT00410124) comparing AFINITOR 10 mg once daily and placebo, both in conjunction with BSC, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
 Prior therapy with bevacizumab, interleukin 2, or interferon-α was also permitted.
 Randomization was stratified according to prognostic score and prior anticancer therapy.
 The major efficacy outcome measure for the trial was PFS evaluated by RECIST, based on a blinded, independent, central radiologic review.

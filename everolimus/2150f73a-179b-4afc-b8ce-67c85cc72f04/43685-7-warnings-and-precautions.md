@@ -39,7 +39,7 @@ Hypersensitivity reactions to AFINITOR/AFINITOR DISPERZ have been observed and i
 The incidence of Grade 3 hypersensitivity reactions was up to 1%.
 Permanently discontinue AFINITOR/AFINITOR DISPERZ for the development of clinically significant hypersensitivity.
 
-## 5.4 Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+## 5.4 Angioedema With Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
 
 Patients taking concomitant ACE inhibitors with AFINITOR/AFINITOR DISPERZ may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment).
 In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking AFINITOR with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
@@ -96,7 +96,7 @@ The incidence of these Grade 3 and 4 laboratory abnormalities was up to 16% and 
 Monitor complete blood count (CBC) prior to starting AFINITOR/AFINITOR DISPERZ every 6 months for the first year of treatment and annually thereafter.
 Withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity [see Dosage and Administration (2.9)].
 
-## 5.11 Risk of Infection or Reduced Immune Response with Vaccination
+## 5.11 Risk of Infection or Reduced Immune Response With Vaccination
 
 The safety of immunization with live vaccines during AFINITOR/AFINITOR DISPERZ therapy has not been studied.
 Due to the potential increased risk of infection, avoid the use of live vaccines and close contact with individuals who have received live vaccines during treatment with AFINITOR/AFINITOR DISPERZ.

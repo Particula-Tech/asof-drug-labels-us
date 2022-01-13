@@ -197,33 +197,33 @@ Table 8: Adverse Reactions Reported in ≥ 10% of Patients with PNET in RADIANT-
 
 Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with PNET in RADIANT-3
 
-| Laboratory parameter | AFINITOR N = 204 |  | Placebo N = 203 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |  |  |
-|  | % | % | % | % |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |
-| Anemia | 86 | 15 | 63 | 1 |  |  |  |  |
-| Lymphopenia | 45 | 16 | 22 | 4 |  |  |  |  |
-| Thrombocytopenia | 45 | 3 | 11 | 0 |  |  |  |  |
-| Leukopenia | 43 | 2 | 13 | 0 |  |  |  |  |
-| Neutropenia | 30 | 4 | 17 | 2 |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |
-| Hyperglycemia (fasting) | 75 | 17 | 53 | 6 |  |  |  |  |
-| Increased alkaline phosphatase | 74 | 8 | 66 | 8 |  |  |  |  |
-| Hypercholesterolemia | 66 | 0.5 | 22 | 0 |  |  |  |  |
-| Bicarbonate decreased | 56 | 0 | 40 | 0 |  |  |  |  |
-| Increased AST | 56 | 4 | 41 | 4 |  |  |  |  |
-| Increased ALT | 48 | 2 | 35 | 2 |  |  |  |  |
-| Hypophosphatemia | 40 | 10 | 14 | 3 |  |  |  |  |
-| Hypertriglyceridemia | 39 | 0 | 10 | 0 |  |  |  |  |
-| Hypocalcemia | 37 | 0.5 | 12 | 0 |  |  |  |  |
-| Hypokalemia | 23 | 4 | 5 | 0 |  |  |  |  |
-| Increased creatinine | 19 | 2 | 14 | 0 |  |  |  |  |
-| Hyponatremia | 16 | 1 | 16 | 1 |  |  |  |  |
-| Hypoalbuminemia | 13 | 1 | 8 | 0 |  |  |  |  |
-| Hyperbilirubinemia | 10 | 1 | 14 | 2 |  |  |  |  |
-| Hyperkalemia | 7 | 0 | 10 | 0.5 |  |  |  |  |
-| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |  |  |  |  |
+| Laboratory parameter | AFINITOR N = 204 |  | Placebo N = 203 |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+|  | % | % | % | % |
+| Hematology |  |  |  |  |
+| Anemia | 86 | 15 | 63 | 1 |
+| Lymphopenia | 45 | 16 | 22 | 4 |
+| Thrombocytopenia | 45 | 3 | 11 | 0 |
+| Leukopenia | 43 | 2 | 13 | 0 |
+| Neutropenia | 30 | 4 | 17 | 2 |
+| Chemistry |  |  |  |  |
+| Hyperglycemia (fasting) | 75 | 17 | 53 | 6 |
+| Increased alkaline phosphatase | 74 | 8 | 66 | 8 |
+| Hypercholesterolemia | 66 | 0.5 | 22 | 0 |
+| Bicarbonate decreased | 56 | 0 | 40 | 0 |
+| Increased AST | 56 | 4 | 41 | 4 |
+| Increased ALT | 48 | 2 | 35 | 2 |
+| Hypophosphatemia | 40 | 10 | 14 | 3 |
+| Hypertriglyceridemia | 39 | 0 | 10 | 0 |
+| Hypocalcemia | 37 | 0.5 | 12 | 0 |
+| Hypokalemia | 23 | 4 | 5 | 0 |
+| Increased creatinine | 19 | 2 | 14 | 0 |
+| Hyponatremia | 16 | 1 | 16 | 1 |
+| Hypoalbuminemia | 13 | 1 | 8 | 0 |
+| Hyperbilirubinemia | 10 | 1 | 14 | 2 |
+| Hyperkalemia | 7 | 0 | 10 | 0.5 |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
 
 Neuroendocrine Tumors (NET) of Gastrointestinal (GI) or Lung Origin
 
@@ -271,26 +271,26 @@ Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Fun
 
 Table 11: Selected Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
 
-|  | AFINITOR N = 202 |  | Placebo N = 98 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |  |  |
-|  | % | % | % | % |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |
-| Anemia | 81 | 5a | 41 | 2a |  |  |  |  |
-| Lymphopenia | 66 | 16 | 32 | 2a |  |  |  |  |
-| Leukopenia | 49 | 2a | 17 | 0 |  |  |  |  |
-| Thrombocytopenia | 33 | 2 | 11 | 0 |  |  |  |  |
-| Neutropenia | 32 | 2a | 15 | 3a |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |
-| Hypercholesterolemia | 71 | 0 | 37 | 0 |  |  |  |  |
-| Increased AST | 57 | 2 | 34 | 2a |  |  |  |  |
-| Hyperglycemia (fasting) | 55 | 6a | 36 | 1a |  |  |  |  |
-| Increased ALT | 46 | 5 | 39 | 1a |  |  |  |  |
-| Hypophosphatemia | 43 | 4a | 15 | 2a |  |  |  |  |
-| Hypertriglyceridemia | 30 | 3 | 8 | 1a |  |  |  |  |
-| Hypokalemia | 27 | 6 | 12 | 3a |  |  |  |  |
-| Hypoalbuminemia | 18 | 0 | 8 | 0 |  |  |  |  |
-| Grading according to NCI CTCAE Version 4.03. aNo Grade 4 laboratory abnormalities were reported. |  |  |  |  |  |  |  |  |
+|  | AFINITOR N = 202 |  | Placebo N = 98 |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+|  | % | % | % | % |
+| Hematology |  |  |  |  |
+| Anemia | 81 | 5a | 41 | 2a |
+| Lymphopenia | 66 | 16 | 32 | 2a |
+| Leukopenia | 49 | 2a | 17 | 0 |
+| Thrombocytopenia | 33 | 2 | 11 | 0 |
+| Neutropenia | 32 | 2a | 15 | 3a |
+| Chemistry |  |  |  |  |
+| Hypercholesterolemia | 71 | 0 | 37 | 0 |
+| Increased AST | 57 | 2 | 34 | 2a |
+| Hyperglycemia (fasting) | 55 | 6a | 36 | 1a |
+| Increased ALT | 46 | 5 | 39 | 1a |
+| Hypophosphatemia | 43 | 4a | 15 | 2a |
+| Hypertriglyceridemia | 30 | 3 | 8 | 1a |
+| Hypokalemia | 27 | 6 | 12 | 3a |
+| Hypoalbuminemia | 18 | 0 | 8 | 0 |
+| Grading according to NCI CTCAE Version 4.03. aNo Grade 4 laboratory abnormalities were reported. |  |  |  |  |
 
 Renal Cell Carcinoma (RCC)
 
@@ -575,7 +575,7 @@ Table 18: Adverse Reactions Reported in ≥ 10% of AFINITOR DISPERZ-Treated Pati
 | Cough | 11 | 0 | 10 | 0 | 3 | 0 |
 | Skin and subcutaneous tissue |  |  |  |  |  |  |
 | Rash | 6 | 0 | 10 | 0 | 3 | 0 |
-| aIncludes stomatitis, mouth ulceration, aphthous ulcer, lip ulceration, tongue ulceration, mucosal inflammation, gingival pain. bNo Grade 4 adverse reactions were reported. |  |  |  |  |  |  |
+| Grading according to NCI CTCAE Version 4.03. aIncludes stomatitis, mouth ulceration, aphthous ulcer, lip ulceration, tongue ulceration, mucosal inflammation, gingival pain. bNo Grade 4 adverse reactions were reported. |  |  |  |  |  |  |
 
 The following additional adverse reactions occurred in < 10% of AFINITOR DISPERZ treated patients (% AFINITOR DISPERZ LT, % AFINITOR DISPERZ HT): decreased appetite (9%, 7%), pneumonia (2%, 4%), aggression (2%, 0.8%), proteinuria (0%, 2%), menorrhagia (0.9%, 0.8%), and pneumonitis (0%, 0.8%).
 

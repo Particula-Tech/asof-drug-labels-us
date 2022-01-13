@@ -83,7 +83,6 @@ Table 2: Recommended Dosage Modifications for AFINITOR/AFINITOR DISPERZ for Adve
 |  | Grade 4 | Withhold until improvement to Grade 0, 1, or 2. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
 | Febrile neutropenia [see Warnings and Precautions (5.10)] | Grade 3 | Withhold until improvement to Grade 0, 1, or 2, and no fever. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
 |  | Grade 4 | Permanently discontinue. |
-| Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |  |
 
 ## 2.10 Dosage Modifications for Hepatic Impairment
 
@@ -91,10 +90,11 @@ The recommended dosages of AFINITOR/AFINITOR DISPERZ for patients with hepatic i
 
 Table 3: Recommended Dosage Modifications for Patients with Hepatic Impairment
 
-| Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |
-| --- | --- |
-| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Mild hepatic impairment (Child-Pugh class A) – 7.5 mg orally once daily; decrease the dose to 5 mg orally once daily if a dose of 7.5 mg once daily is not tolerated.Moderate hepatic impairment (Child-Pugh class B) – 5 mg orally once daily; decrease the dose to 2.5 mg orally once daily if a dose of 5 mg once daily is not tolerated.Severe hepatic impairment (Child-Pugh class C) – 2.5 mg orally once daily if the desired benefit outweighs the risk; do not exceed a dose of 2.5 mg once daily. |
-| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |
+| Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |  |
+| --- | --- | --- |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Mild hepatic impairment (Child-Pugh class A) – 7.5 mg orally once daily; decrease the dose to 5 mg orally once daily if a dose of 7.5 mg once daily is not tolerated.Moderate hepatic impairment (Child-Pugh class B) – 5 mg orally once daily; decrease the dose to 2.5 mg orally once daily if a dose of 5 mg once daily is not tolerated.Severe hepatic impairment (Child-Pugh class C) – 2.5 mg orally once daily if the desired benefit outweighs the risk; do not exceed a dose of 2.5 mg once daily. |  |
+| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |  |
+| Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |  |
 
 ## 2.11 Dosage Modifications for P-gp and CYP3A4 Inhibitors
 

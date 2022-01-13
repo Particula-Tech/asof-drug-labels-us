@@ -101,7 +101,7 @@ The coadministration of an oral dose of midazolam (sensitive CYP3A4 substrate) w
 The coadministration of AFINITOR with exemestane increased exemestane Cmin by 45% and C2h by 64%; however, the corresponding estradiol levels at steady state (4 weeks) were not different between the 2 treatment arms.
 No increase in adverse reactions related to exemestane was observed in patients with hormone receptor-positive, HER2-negative advanced breast cancer receiving the combination.
 
-The coadministration of AFINITOR with long acting octreotide increased octreotide Cmin by approximately 50%.
+The coadministration of AFINITOR with long-acting octreotide increased octreotide Cmin by approximately 50%.
 
-Effect of Everolimus on Antiepileptic drugs (AEDs): Everolimus increased pre-dose concentrations of the carbamazepine, clobazam, oxcarbazepine, and clobazam’s metabolite N-desmethylclobazam by about 10%.
+Effect of Everolimus on Antiepileptic Drugs (AEDs): Everolimus increased pre-dose concentrations of the carbamazepine, clobazam, oxcarbazepine, and clobazam’s metabolite N-desmethylclobazam by about 10%.
 Everolimus had no impact on pre-dose concentrations of AEDs that are substrates of CYP3A4 (e.g., clonazepam and zonisamide) or other AEDs, including valproic acid, topiramate, phenobarbital, and phenytoin.

@@ -57,7 +57,7 @@ Advise males with female partners of reproductive potential to use effective con
 Radiation Sensitization and Radiation Recall
 
 Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to AFINITOR/AFINITOR DISPERZ treatment.
-Advise patients to inform their health care provider if they have had or are planning to receive radiation therapy [see Warnings and Precautions (5.12)].
+Advise patients to inform their healthcare provider if they have had or are planning to receive radiation therapy [see Warnings and Precautions (5.12)].
 
 Lactation
 
@@ -69,4 +69,4 @@ Advise males and females of reproductive potential of the potential risk for imp
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2021-36
+T2021-169
