@@ -8,8 +8,6 @@ Bottles of 90 NDC 13668-463-90
 
 Bottles of 500 NDC 13668-463-05
 
-28 Unit dose Capsules NDC 13668-463-37
-
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
 
 Protect from light and moisture.
@@ -22,6 +20,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8075371 Revised May 2019
+8080787 Revised August 2021
