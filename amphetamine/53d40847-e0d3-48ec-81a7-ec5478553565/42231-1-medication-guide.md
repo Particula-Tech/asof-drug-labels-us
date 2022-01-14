@@ -180,4 +180,8 @@ Amneal Pharmaceuticals of New York, LLC
 Brookhaven, NY 11719
 
 Rev.
-05-2018-00
+12-2021-01
+
+Dispense with Medication Guide available at:
+
+documents.amneal.com/mg/amphetamine-tab.pdf
