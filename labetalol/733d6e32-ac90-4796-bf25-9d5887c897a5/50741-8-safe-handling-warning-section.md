@@ -21,7 +21,7 @@ There is pharmacologic evidence that norepinephrine may be the drug of choice.
 
 Bronchospasm
 
-Administer epinephrine and/or an aerosolized beta2-agonist.
+Administer epinephrine and/or an aerosolized beta 2-agonist.
 
 Seizures
 
@@ -31,5 +31,5 @@ In severe beta-blocker overdose resulting in hypotension and/or bradycardia, glu
 
 Neither hemodialysis nor peritoneal dialysis removes a significant amount of labetalol hydrochloride from the general circulation (less than 1%).
 
-The oral LD50 value of labetalol hydrochloride in the mouse is approximately 600 mg/kg and in the rat is greater than 2 g/kg.
-The intravenous LD50 in these species is 50 mg/kg to 60 mg/kg.
+The oral LD 50 value of labetalol hydrochloride in the mouse is approximately 600 mg/kg and in the rat is greater than 2 g/kg.
+The intravenous LD 50 in these species is 50 mg/kg to 60 mg/kg.

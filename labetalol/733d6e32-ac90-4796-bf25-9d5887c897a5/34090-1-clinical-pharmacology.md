@@ -1,15 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
-Labetalol hydrochloride combines both selective, competitive, alpha1-adrenergic blocking and nonselective, competitive, beta-adrenergic blocking activity in a single substance.
+Labetalol hydrochloride combines both selective, competitive, alpha 1-adrenergic blocking and nonselective, competitive, beta-adrenergic blocking activity in a single substance.
 In man, the ratios of alpha- to beta-blockade have been estimated to be approximately 1:3 and 1:7 following oral and intravenous (IV) administration, respectively.
-Beta2-agonist activity has been demonstrated in animals with minimal beta1-agonist (ISA) activity detected.
+Beta 2-agonist activity has been demonstrated in animals with minimal beta 1-agonist (ISA) activity detected.
 In animals, at doses greater than those required for alpha- or beta-adrenergic blockade, a membrane-stabilizing effect has been demonstrated.
 
 ## Pharmacodynamics
 
 The capacity of labetalol hydrochloride to block alpha receptors in man has been demonstrated by attenuation of the pressor effect of phenylephrine and by a significant reduction of the pressor response caused by immersing the hand in ice-cold water (“cold pressor test”).
-Labetalol hydrochloride’s beta1-receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
-Beta2-receptor blockade was demonstrated by inhibition of the isoproterenol-induced fall in diastolic blood pressure.
+Labetalol hydrochloride’s beta 1-receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
+Beta 2-receptor blockade was demonstrated by inhibition of the isoproterenol-induced fall in diastolic blood pressure.
 Both the alpha- and beta-blocking actions of orally administered labetalol hydrochloride contribute to a decrease in blood pressure in hypertensive patients.
 Labetalol hydrochloride consistently, in dose-related fashion, blunted increases in exercise-induced blood pressure and heart rate, and in their double product.
 The pulmonary circulation during exercise was not affected by labetalol hydrochloride dosing.
@@ -25,7 +25,7 @@ Elevated plasma renins are reduced.
 
 Doses of labetalol hydrochloride that controlled hypertension did not affect renal function in mildly to severely hypertensive patients with normal renal function.
 
-Due to the alpha1-receptor blocking activity of labetalol hydrochloride, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (2%), including rare instances of syncope, can occur.
+Due to the alpha 1-receptor blocking activity of labetalol hydrochloride, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (2%), including rare instances of syncope, can occur.
 Following oral administration, when postural hypotension has occurred, it has been transient and is uncommon when the recommended starting dose and titration increments are closely followed [see Dosage and Administration].
 Symptomatic postural hypotension is most likely to occur 2 to 4 hours after a dose, especially following the use of large initial doses or upon large changes in dose.
 
@@ -47,7 +47,7 @@ Several mechanisms have been proposed to explain these phenomena, among them inc
 Although beta-adrenergic receptor blockade is useful in the treatment of angina and hypertension, there are also situations in which sympathetic stimulation is vital.
 For example, in patients with severely damaged hearts, adequate ventricular function may depend on sympathetic drive.
 Beta-adrenergic blockade may worsen A-V block by preventing the necessary facilitating effects of sympathetic activity on conduction.
-Beta2-adrenergic blockade results in passive bronchial constriction by interfering with endogenous adrenergic bronchodilator activity in patients subject to bronchospasm, and it may also interfere with exogenous bronchodilators in such patients.
+Beta 2-adrenergic blockade results in passive bronchial constriction by interfering with endogenous adrenergic bronchodilator activity in patients subject to bronchospasm, and it may also interfere with exogenous bronchodilators in such patients.
 
 ## Pharmacokinetics and Metabolism
 

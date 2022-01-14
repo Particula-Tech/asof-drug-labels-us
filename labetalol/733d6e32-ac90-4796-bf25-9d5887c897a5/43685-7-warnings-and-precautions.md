@@ -121,7 +121,7 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 The presence of labetalol metabolites in the urine may result in falsely elevated levels of urinary catecholamines, metanephrine, normetanephrine, and vanillylmandelic acid when measured by fluorimetric or photometric methods.
 In screening patients suspected of having a pheochromocytoma and being treated with labetalol hydrochloride, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr 385:241,1987) should be employed in determining levels of catecholamines.
 
-Labetalol hydrochloride has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods TOXI-LAB® A (thin-layer chromatographic assay) and EMIT-d.a.u.® (radioenzymatic assay).
+Labetalol hydrochloride has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods TOXI-LAB ® A (thin-layer chromatographic assay) and EMIT-d.a.u. ® (radioenzymatic assay).
 When patients being treated with labetalol have a positive urine test for amphetamine using these techniques, confirmation should be made by using more specific methods, such as a gas chromatographic-mass spectrometer technique.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
