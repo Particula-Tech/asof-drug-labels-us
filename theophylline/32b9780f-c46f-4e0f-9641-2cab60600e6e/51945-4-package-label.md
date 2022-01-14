@@ -24,7 +24,7 @@ Pharmacist: Dispense in a tight, light-resistant container with a child-resistan
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
 
-R04/15 L08201600
+R05/17 X0820160517
 
 # PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label
 
@@ -63,10 +63,8 @@ THEOPHYLLINE ORAL SOLUTION
 
 Alcohol 20%
 
-FOR INSTITUTIONAL USE ONLY Rx ONLY
+Package Not Child-Resistant Rx ONLY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605
 
 SEE INSERT
-
-A48201500
