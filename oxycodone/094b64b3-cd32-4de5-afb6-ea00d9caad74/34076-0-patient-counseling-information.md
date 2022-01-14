@@ -114,4 +114,4 @@ Advise patients of the potential for severe constipation, including management i
 Manufactured by: Amneal Pharmaceuticals of NY, LLC Brookhaven, NY 11719
 
 Rev.
-04-2021-07
+12-2021-08
