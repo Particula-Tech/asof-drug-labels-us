@@ -46,8 +46,8 @@ Table 4: Study 1 - Patient Status at 12 Months
 | --- | --- | --- | --- | --- |
 |  |  | 80 mg | 120 mg | 160 mg |
 | Randomized | 69 | 59 | 63 | 62 |
-| On treatment in NSR at 12 months without recurrence* | 23% | 22% | 29% | 23% |
-| Recurrence*,† | 67% | 58% | 49% | 42% |
+| On treatment in NSR at 12 months without recurrence * | 23% | 22% | 29% | 23% |
+| Recurrence *,† | 67% | 58% | 49% | 42% |
 | D/C for AEs | 6% | 12% | 18% | 29% |
 
 * Symptomatic AFIB/AFL † Efficacy endpoint of Study 1; study treatment stopped.
@@ -83,8 +83,8 @@ Table 6: Study 2 - Patient Status at 6 Months
 | Randomized | OralSotalol | Placebo |
 | --- | --- | --- |
 |  | 118 | 114 |
-| On treatment in NSR at 6 months without recurrence* | 45% | 29% |
-| Recurrence*,† | 49% | 67% |
+| On treatment in NSR at 6 months without recurrence * | 45% | 29% |
+| Recurrence *,† | 49% | 67% |
 | D/C for AEs | 6% | 3% |
 | Death |  | 1% |
 

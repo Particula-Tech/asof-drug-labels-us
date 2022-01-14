@@ -41,10 +41,10 @@ The intravenous loading dose depends on the target oral dose and creatinine clea
 
 Table 2: Recommended Loading Dosage
 
-| Creatinine ClearanceCalculated using Cockcroft Gault formula [mL/min] | Intravenous loading dose [mg] to be administered over 1 hour when the oral dose is going from |  |  |  | Minimum delay to first oral dose [hours] | Oral dosing interval [hours] |
+| Creatinine Clearance Calculated using Cockcroft Gault formula [mL/min] | Intravenous loading dose [mg] to be administered over 1 hour when the oral dose is going from |  |  |  | Minimum delay to first oral dose [hours] | Oral dosing interval [hours] |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sotalol Initiation |  | Sotalol Escalation |  |  |  |  |
-| 0 to 80 mgRecommended starting dose | 0 to 120 mg | 80 to 120 mg | 120 to 160 mg |  |  |  |
+| 0 to 80 mg Recommended starting dose | 0 to 120 mg | 80 to 120 mg | 120 to 160 mg |  |  |  |
 | >90 | 60 | 90 | 75 | 90 | 4 | 12 |
 | 60-90 | 82.5 | 125 | 82.5 | 105 | 4 | 12 |
 | 30-60 | 75 | 112.5 | 82.5 | 105 | 6 | 24 |
@@ -53,7 +53,7 @@ Table 2: Recommended Loading Dosage
 ## 2.4 Use in Children
 
 Intravenous sotalol has not been studied in children.
-Potency is thought to be similar in children, so a dose of 30 mg/m2 every 8 hours should give exposure similar to that with 160 mg daily in adults.
+Potency is thought to be similar in children, so a dose of 30 mg/m 2 every 8 hours should give exposure similar to that with 160 mg daily in adults.
 Table 3 shows suggested starting doses in children with normal renal function.
 With impaired renal function, start lower and titrate less frequently.
 
@@ -68,6 +68,6 @@ Suggesting starting doses [mg/kg] in children with normal renal function.
 | 12 days | 0.81 |
 | 2 weeks | 0.90 |
 | 3 weeks | 1.0 |
-| 1 month to 6 years | 1.2 |
+| 1 month to 6 years | �1.2 |
 | 6-12 years | 1.1 |
 | >12 years | 0.95 |

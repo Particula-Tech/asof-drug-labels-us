@@ -34,12 +34,12 @@ Data
 
 Animal Data
 
-Reproduction studies in rats and rabbits administered sotalol during organogenesis at 15 times and 2 times the MRHD as mg/m2, respectively, did not reveal any teratogenic potential associated with sotalol.
+Reproduction studies in rats and rabbits administered sotalol during organogenesis at 15 times and 2 times the MRHD as mg/m 2, respectively, did not reveal any teratogenic potential associated with sotalol.
 
-In pregnant rats, sotalol doses administered during organogenesis at approximately15 times the MRHD as mg/m2, increased the number of early resorptions, while no increase in early resorptions was noted at 2 times the MRHD as mg/m2.
+In pregnant rats, sotalol doses administered during organogenesis at approximately15 times the MRHD as mg/m 2, increased the number of early resorptions, while no increase in early resorptions was noted at 2 times the MRHD as mg/m 2.
 
-In reproductive studies in rabbits, a sotalol dose (160 mg/kg/day) at 5 times the MRHD as mg/m2 produced a slight increase in fetal death, and maternal toxicity.
-However, one study from published data reported an increase in fetal deaths in rabbits receiving a single dose (50 mg/kg) at 2 times the MRHD as mg/m2 as on gestation day 14.
+In reproductive studies in rabbits, a sotalol dose (160 mg/kg/day) at 5 times the MRHD as mg/m 2 produced a slight increase in fetal death, and maternal toxicity.
+However, one study from published data reported an increase in fetal deaths in rabbits receiving a single dose (50 mg/kg) at 2 times the MRHD as mg/m 2 as on gestation day 14.
 
 ## 8.2 Lactation
 

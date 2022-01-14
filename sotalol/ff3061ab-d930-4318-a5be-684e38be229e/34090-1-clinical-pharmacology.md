@@ -17,11 +17,11 @@ In man, the Class II (beta-blockade) electrophysiological effects of sotalol inc
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (when present) in both the anterograde and retrograde directions.
 With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40-100 ms in QT and 10-40 ms in QTc.
 
-Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
+Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m 2 with dosing every 8 hours for a total of 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval were 2, 14, and 29 ms at the 3 dose levels.
 The respective mean maximum increases in QTc above baseline were 23, 36, and 55 ms. The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA <0.33 m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval compared with children with BSA ≥0.33 m2.
-The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33 m2).
+The smallest children (BSA <0.33 m 2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval compared with children with BSA ≥0.33 m 2.
+The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33 m 2).
 
 Hemodynamics: In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of sotalol produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post-dosing at steady-state.
 Concurrently, systemic vascular resistance and stroke volume showed non-significant increases of 25% and 8%, respectively.
@@ -75,12 +75,12 @@ Since sotalol is not subject to first-pass metabolism, patients with hepatic imp
 Pediatric
 
 The combined analysis of two unblinded, multicenter trials (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
-A daily dose of 30 mg/ m2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/ m2 were administered q8h in the multi-dose study.
+A daily dose of 30 mg/ m 2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/ m 2 were administered q8h in the multi-dose study.
 After rapid absorption with peak levels occurring on average between 2-3 hours following administration, sotalol was eliminated with a mean half-life of 9.5 hours.
 Steady-state was reached after 1-2 days.
 The average peak to trough concentration ratio was 2.
 BSA was the most important covariate and more relevant than age for the pharmacokinetics of sotalol.
-The smallest children (BSA <0.33 m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
+The smallest children (BSA <0.33 m 2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
 The intersubject variation for oral clearance was 22%.
 
 Drug-Drug Interactions

@@ -6,7 +6,7 @@ Sotalol is an antiarrhythmic drug with Class II (beta-adrenoreceptor blocking) a
 Sotalol hydrochloride is a white, crystalline solid with a molecular weight of 308.8.
 It is hydrophilic, soluble in water, propylene glycol and ethanol, but is only slightly soluble in chloroform.
 Chemically, sotalol hydrochloride is d, l- N - [4-[1-hydroxy-2-[(1-methylethyl) amino] ethyl] phenyl] methane-sulfonamide monohydrochloride.
-The molecular formula is C12 H20 N2 O3S•HCl and is represented by the following structural formula:
+The molecular formula is C 12 H 20 N 2 O 3S•HCl and is represented by the following structural formula:
 
 Intravenous sotalol Injection is supplied as a sterile, clear solution in a 10 mL single-dose vial, for intravenous administration after dilution.
 Each vial contains 150 mg racemic sotalol hydrochloride (equivalent to 132.8 mg racemic sotalol) in sodium acetate buffer.
