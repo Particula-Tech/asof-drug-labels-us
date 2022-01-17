@@ -9,4 +9,4 @@ Store in a dry place.
 Dispense in tight container as defined in the USP.
 
 PURINETHOL is a cytotoxic drug.
-Follow special handling and disposal procedures1.
+Follow special handling and disposal procedures 1.

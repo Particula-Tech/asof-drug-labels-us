@@ -2,11 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Myelosuppression [see Warnings and Precautions (5.1)]
-- •Hepatotoxicity [see Warnings and Precautions (5.2)]
-- •Immunosuppression [see Warnings and Precautions (5.3)]
-- •Treatment related malignancies [see Warnings and Precautions (5.4)]
-- •Macrophage activation syndrome [see Warnings and Precautions (5.5)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Immunosuppression [see Warnings and Precautions (5.3)]
+- Treatment related malignancies [see Warnings and Precautions (5.4)]
+- Macrophage activation syndrome [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

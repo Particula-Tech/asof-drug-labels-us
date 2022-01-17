@@ -2,7 +2,7 @@
 
 NDC 60763-601-13
 
-PURINETHOL®
+PURINETHOL ®
 
 (Mercaptopurine) Tablets, USP 50 mg
 
@@ -29,4 +29,4 @@ Distributed by: Stason Pharmaceuticals
 Irvine, CA 92618
 
 Made in U.S.A. Rev.
-12/20
+5/21

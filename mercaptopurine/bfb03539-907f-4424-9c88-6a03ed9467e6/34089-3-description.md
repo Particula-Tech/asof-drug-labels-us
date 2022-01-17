@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
 Mercaptopurine is a nucleoside metabolic inhibitor.
-The chemical name is 6H-purine-6-thione, 1,7-dihydro-, monohydrate.
-The molecular formula is C5H4N4S•H2O and the molecular weight is 170.20.
+The chemical name is 6 H-purine-6-thione, 1,7-dihydro-, monohydrate.
+The molecular formula is C 5H 4N 4S•H 2O and the molecular weight is 170.20.
 Its structural formula is:
 
 Mercaptopurine is a yellow, crystalline powder.

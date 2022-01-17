@@ -16,7 +16,7 @@ Mercaptopurine exposure-response relationships and the time course of pharmacody
 
 ## 12.3 Pharmacokinetics
 
-Following a single oral dose of mercaptopurine 50 mg under fasted conditions to adult healthy subjects, the mean AUC0-INF was 129 h•ng/mL and Cmax was 69 ng/mL.
+Following a single oral dose of mercaptopurine 50 mg under fasted conditions to adult healthy subjects, the mean AUC 0-INF was 129 h•ng/mL and C max was 69 ng/mL.
 
 ### Absorption
 
@@ -52,7 +52,7 @@ Several published studies indicate that patients with reduced TPMT or NUDT15 act
 In a study of 1028 children with ALL, the approximate tolerated mercaptopurine dosage for patients with TPMT and/or NUDT15 deficiency on mercaptopurine maintenance therapy (as a percentage of the planned dosage) was as follows: heterozygous for either TPMT or NUDT15, 50-90%; heterozygous for both TPMT and NUDT15, 30-50%; homozygous for either TPMT or NUDT15, 5-10%.
 
 Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
-The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
+The TPMT *2, TPMT *3A, and TPMT *3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
 
 NUDT15 deficiency is detected in < 1% of patients of European or African ancestry.
 Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
