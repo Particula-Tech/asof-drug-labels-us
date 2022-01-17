@@ -2,7 +2,7 @@
 
 ## 14.1 Controlled Clinical Trials
 
-﻿Chronic Insomnia
+﻿ Chronic Insomnia
 
 Three randomized, double-blind trials in subjects with chronic insomnia employing polysomnography (PSG) were provided as objective support of Ramelteon's effectiveness in sleep initiation.
 
@@ -42,7 +42,7 @@ A human laboratory abuse potential study was performed in 14 subjects with a his
 Subjects received single oral doses of Ramelteon Tablets (16, 80, or 160 mg), triazolam (0.25, 0.50, or 0.75 mg) or placebo.
 All subjects received each of the seven treatments separated by a wash-out period and underwent multiple standard tests of abuse potential.
 No differences in subjective responses indicative of abuse potential were found between Ramelteon Tablets and placebo at doses up to 20 times the recommended therapeutic dose.
-The positive control drug, triazolam, consistently showed a dose-response effect on these subjective measures, as demonstrated by the differences from placebo in peak effect and overall 24hour effect.
+The positive control drug, triazolam, consistently showed a dose-response effect on these subjective measures, as demonstrated by the differences from placebo in peak effect and overall 24 hour effect.
 
 Residual Pharmacological Effect in Insomnia Trials
 

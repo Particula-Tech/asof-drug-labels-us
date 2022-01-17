@@ -152,6 +152,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured and Distributed by: i3 Pharmaceuticals, LLC 200 Park Avenue, Warminster, PA 18974
 
-OS005-02, Rev.12/19
+OS005-04, Rev.01/22
 
-Revised: 12/2019
+Revised: 01/2022
