@@ -25,7 +25,7 @@ RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS: Dyspnea
 
 GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomiting, Asthenia, Proctitis
 
-HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see WARNINGS), Jaundice
+HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see CONTRAINDICATIONS), Jaundice
 
 SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
