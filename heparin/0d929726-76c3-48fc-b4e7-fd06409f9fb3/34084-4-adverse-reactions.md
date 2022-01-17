@@ -2,11 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Hemorrhage [see Warnings and Precautions (5.1)].
+- •Hemorrhage [see Warnings and Precautions (5.1)]
 - •Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia with Thrombosis [see Warnings and Precautions (5.2)]
 - •Thrombocytopenia [see Warnings and Precautions (5.3)]
 - •Heparin Resistance [see Warnings and Precautions (5.4)]
 - •Hypersensitivity [see Warnings and Precautions (5.5)]
+- •Hyperkalemia [see Warnings and Precautions (5.6)]
+- •Elevations of Serum Aminotransferases [see Warnings and Precautions (5.7)]
 
 ## 6.1 Postmarketing Experience
 
@@ -24,7 +26,9 @@ Bleeding can occur at any site but certain specific hemorrhagic complications ma
 - •Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short or long-term anticoagulant therapy.
 - •Retroperitoneal hemorrhage
 
-HIT and HITT, including delayed onset cases [see Warnings and Precautions (5.2, 5.3)].
+Vascular Disorders: Contusion, Vasospastic reactions (including episodes of painful, ischemic, and cyanosed limbs).
+
+HIT and HITT, including delayed onset cases, Thrombocytopenia [see Warnings and Precautions (5.2, 5.3)].
 
 Histamine-like reactions: Such reactions have been observed at the site of injections.
 Necrosis of the skin has been reported at the site of subcutaneous injection of heparin, occasionally requiring skin grafting.
@@ -32,6 +36,12 @@ Necrosis of the skin has been reported at the site of subcutaneous injection of 
 Hypersensitivity: General hypersensitivity reactions have been reported, with chills, fever, and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar site of the feet, may occur [see Warnings and Precautions (5.5)].
 
+Musculoskeletal, Connective Tissue and Bone Disorders: Osteoporosis with long-term administration of heparin.
+
+Metabolism and Nutrition Disorders: Hyperkalemia.
+
+General Disorders and Administration Site Conditions: Erythema, mild pain, ulceration.
+
 Elevations of serum aminotransferases: Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred patients who have received heparin.
 
-Others: Cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
+Others: Cutaneous necrosis after systemic administration, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.

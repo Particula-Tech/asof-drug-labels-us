@@ -1,6 +1,9 @@
 # 10 OVERDOSAGE
 
+An overdose requires immediate medical attention and treatment.
 Bleeding is the chief sign of heparin overdosage.
+Easy bruising, petechial formations, nosebleeds, blood in urine or tarry stools may be the first signs or symptoms of a heparin overdose.
+In the event of symptomatic heparin overdose, consider stopping heparin infusion.
 
 Neutralization of heparin effect:
 
@@ -10,6 +13,10 @@ Each mg of protamine sulfate neutralizes approximately 100 USP heparin units.
 The amount of protamine required decreases over time as heparin is metabolized.
 Although the metabolism of heparin is complex, it may, for the purpose of choosing a protamine dose, be assumed to have a half-life of about 30 minutes after intravenous injection.
 
+Ideally, the dose required to neutralize the action of heparin should be guided by blood coagulation tests or calculated from a protamine neutralization test.
+
 Because fatal reactions often resembling anaphylaxis have been reported with protamine, it should be given only when resuscitation techniques and treatment of anaphylactoid shock are readily available.
 
 For additional information consult the labeling of Protamine Sulfate Injection.
+
+Blood or plasma transfusions may be necessary; these dilute but do not neutralize heparin.

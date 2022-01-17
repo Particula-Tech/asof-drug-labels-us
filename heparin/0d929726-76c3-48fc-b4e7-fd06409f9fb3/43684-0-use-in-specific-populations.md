@@ -40,5 +40,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-A higher incidence of bleeding has been reported in patients over 60 years of age, especially women [see Warnings and Precautions (5.7)].
+A higher incidence of bleeding has been reported in patients over 60 years of age, especially women [see Warnings and Precautions (5.1)].
 Clinical studies indicate that lower doses of heparin may be indicated in these patients [see Clinical Pharmacology (12.3)].

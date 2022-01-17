@@ -33,7 +33,9 @@ Heparin does not undergo enzymatic degradation.
 Excretion
 
 Heparin is mainly cleared from the circulation by liver and reticuloendothelial cells mediated uptake into extravascular space.
-Heparin undergoes biphasic clearance, a) rapid saturable clearance (zero order process due to binding to proteins, endothelial cells and macrophage) and b) slower first order elimination.
+Heparin undergoes biphasic clearance, a) rapid saturable clearance (zero order process due to binding to proteins, endothelial cells and macrophages) and b) slower first order elimination.
+Low doses of heparin are cleared mostly by a saturable, rapid, zero-order process.
+Slower first order elimination usually occurs with very high doses of heparin and is dependent on renal function.
 The plasma half-life is dose-dependent, and it ranges from 0.5 to 2 h.
 
 Specific Populations
@@ -41,3 +43,8 @@ Specific Populations
 Geriatric Patients
 
 Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (APTTs) compared with patients under 60 years of age [see Use in Specific Populations (8.5)].
+
+Renal and Hepatic Impairment
+
+The rate of clearance of unfractionated heparin may be decreased in patients with renal or hepatic impairment.
+Patients with renal or hepatic impairment, following similar doses of heparin may have higher plasma levels of heparin compared with patient with normal renal and hepatic function [see Warnings and Precautions (5.1)].

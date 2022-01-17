@@ -2,12 +2,9 @@
 
 ## 2.1 Preparation for Administration
 
-Do not administer unless solution is clear and seal is intact.
+Do not administer unless solution is clear, and seal is intact.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-Use of a final filter is recommended during administration of all parenteral solutions, where possible.
-
-Warning: Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
+Do not infuse this product under pressure.
 
 To Open:
 
@@ -29,6 +26,12 @@ Preparation for Administration:
    Refer to complete directions accompanying set.
 
 All injections in VIAFLEX PLUS plastic containers are intended for administration using sterile equipment.
+
+Single-dose container.
+
+Discard any unused portion.
+
+Do not reconnect partially used bags.
 
 Because dosages of this drug are titrated to response, no additives should be made to Heparin Sodium in Sodium Chloride Injection.
 
