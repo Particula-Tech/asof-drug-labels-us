@@ -18,12 +18,14 @@ Bottles of 30s (NDC 60505-2807-3) Bottles of 120s (NDC 60505-2807-7) Bottles of 
 Store at 20˚C to 25°C (68˚F to 77°F); excursions permitted to 15˚C to 30°C (59˚F to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container [see USP].
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. CARBAMAZEPINE EXTENDED-RELEASE CAPSULES 100 mg, 200 mg and 300 mg
 
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: September 2018
+Revised: January 2022
 
 Rev.
-7
+9

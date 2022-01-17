@@ -270,7 +270,7 @@ Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of carbamazepine extended-release capsules due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(3), nortriptyline, olanzapine, oral and other hormonal contraceptives(4), oxcarbazepine, phenytoin(5), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(6), valproate, warfarin(7), ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, apixaban(8), bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, dabigatran(8), delavirdine, desipramine, diazepam, dicumarol, doxycycline, edoxaban(8), ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(3), nortriptyline, olanzapine, oral and other hormonal contraceptives(4), oxcarbazepine, phenytoin(5), praziquantel, protease inhibitors, quetiapine, risperidone, rivaroxaban(8), theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(6), valproate, warfarin(7), ziprasidone, and zonisamide.
 
 (3)Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
 Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
@@ -286,6 +286,9 @@ Careful monitoring of phenytoin plasma levels following co-medication with carba
 
 (7) Warfarin’s anticoagulant effect can be reduced in the presence of carbamazepine.
 
+(8) Concomitant use of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban (direct acting oral anticoagulants) is expected to result in decreased plasma concentrations of these anticoagulants that may be insufficient to achieve the intended therapeutic effect.
+In general, coadministration of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban should be avoided.
+
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with carbamazepine extended-release capsules, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.
 
 Agents with Increased Levels in the Presence of Carbamazepine
@@ -294,7 +297,7 @@ Carbamazepine extended-release capsules increase the plasma levels of the follow
 
 Clomipramine HCl, phenytoin(8), and primidone
 
-(8)Phenytoin has also been reported to decrease in the presence of carbamazepine.
+(9)Phenytoin has also been reported to decrease in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of the treatment with carbamazepine extended-release capsules, it is reasonable to expect that a dose decrease for the concomitant agent may be necessary.
