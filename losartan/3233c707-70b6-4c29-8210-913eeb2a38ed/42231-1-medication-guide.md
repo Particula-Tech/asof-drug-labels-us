@@ -1,6 +1,6 @@
 Patient Information
 
-Losartan Potassium (loe-SAR-tan poe-TASS-ee-um) Tablets, USP
+Losartan Potassium (loe sar′ tan poe tas′ ee um) Tablets, USP
 
 Read the Patient Information that comes with losartan potassium tablets before you start taking it and each time you get a refill.
 There may be new information.
