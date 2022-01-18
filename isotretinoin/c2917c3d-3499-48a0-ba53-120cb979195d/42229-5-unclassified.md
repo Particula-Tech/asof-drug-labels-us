@@ -21,6 +21,8 @@ Monthly Required iPLEDGE Interactions
 
 Document Patient Identification Number __________________________________________
 
+Patient Enrollment Form for Patients who can get Pregnant
+
 To be completed by the patient (and their parent or guardian* if patient is under age 18) and signed by their doctor.
 
 Read each item below and initial in the space provided to show that you understand each item and agree to follow your doctor’s instructions.
@@ -69,7 +71,7 @@ ______________________________________________________________________________
 - at the end of treatment
 - and 1 month after stopping treatmentI must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.Initial:__________
 
-1. I have read and understand the materials my doctor has provided to me, including the Guide to Isotretinoin for Patients Who Can Get Pregnant, and the Fact Sheet on the iPLEDGE Program.I have received information on emergency birth control.Initial: __________
+1. I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant, and the Fact Sheet on the iPLEDGE Program.I have received information on emergency birth control.Initial: __________
 2. I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.Initial: __________
 3. My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE Program for the makers of isotretinoin, and government health regulatory authorities.Initial: __________
@@ -82,7 +84,7 @@ ______________________________________________________________________________
   At least one form must be a primary form of birth control, unless I have chosen never to have any sexual contact (penis-vaginal) with a partner who could get me pregnant (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
   I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
   I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
-- have signed a Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
+- have signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
 - have been informed of and understand the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within 1 month of the last dose.
 - have interacted with the iPLEDGE Program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
 
@@ -105,7 +107,7 @@ ______________________________ Telephone _______________________
 I have fully explained to the patient, __________________, the nature and purpose of the treatment described above and the risks to patients who can get pregnant.
 I have asked the patient if there are any questions regarding treatment with isotretinoin and have answered those questions to the best of my ability.
 
-Doctor Signature: __________________________________ Date: ______
+Doctor Signature: __________________________________ Date:
 
 PLACE THE ORIGINAL SIGNED DOCUMENTS IN THE PATIENT’S MEDICAL RECORD.
 
@@ -114,6 +116,8 @@ PLEASE PROVIDE A COPY TO THE PATIENT.
 # Patient Information/Informed Consent (for all patients)
 
 Document Patient Identification Number __________________________________________
+
+Patient Enrollment Form for Patients who cannot get Pregnant
 
 To be completed by patient (and parent or guardian if patient is under age 18) and signed by the doctor.
 
@@ -129,7 +133,7 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 3. I understand that there are serious side effects that may happen while I am taking isotretinoin.
    These have been explained to me.
    These side effects include serious birth defects in babies of pregnant patients.
-   [Note: There is a second Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant)].Initials: __________
+   [Note: There is a second Patient Enrollment Form for patients who can get Pregnant].Initials: __________
 4. I understand that some patients, while taking isotretinoin or soon after stopping isotretinoin, have become depressed or developed other serious mental problems.
    Symptoms of depression include sad, “anxious” or empty mood, irritability, acting on dangerous impulses, anger, loss of pleasure or interest in social or sports activities, sleeping too much or too little, changes in weight or appetite, school or work performance going down, or trouble concentrating.
    Some patients taking isotretinoin have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).

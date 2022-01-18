@@ -122,8 +122,8 @@ How should I takeisotretinoin capsules?
   You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing isotretinoin capsules, your doctor will:
 - explain the iPLEDGE Program to you
-- have you sign the Patient Information/Informed Consent (for all patients).
-  Patients who can get pregnant must also sign another consent form.
+- have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
+  Patients who can get pregnant must also sign another enrollment form.
 
 You will not be prescribed isotretinoin capsulesif you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
@@ -294,4 +294,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-03-2021-02
+12-2021-03
