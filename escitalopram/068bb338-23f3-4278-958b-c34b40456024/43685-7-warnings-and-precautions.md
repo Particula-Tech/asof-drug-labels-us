@@ -5,12 +5,9 @@
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
-There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
-There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 1.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table1.
 
-Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo- Controlled Trials of Antidepressants in Pediatric and Adult Patients
+Table 1: Risk Difference of the Numbers of Patients of Suicidal Thoughts and Behaviors in the Pooled-Placebo-Controlled Trials of ANtidepressants in Pediatric and Adult Patients
 
 | TABLE 1 |  |
 | --- | --- |
@@ -66,11 +63,11 @@ Like other drugs effective in the treatment of major depressive disorder, escita
 
 ## 5.5 Activation of Mania/Hypomania
 
-In patients with bipolar disorder, treating a depressive episode with escitalopram or another antidepressant may precipitate a mixed/manic episode.
-In placebo-controlled trials of escitalopram in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treated with escitalopram and in none of the 592 patients treated with placebo.
+In patients with bipolar disorder, treating a depressive episode with escitalopram or another antidepressant may precipate a mixed/manic episode.
+In placebo-controlled trials of escitalopram in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treateds with escitalopram and in none of the 592 patients treated with placebo.
 One additional case of hypomania has been reported in association with escitalopram treatment.
-Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
-Prior to initiating treatment with escitalopram, screen patients for any personal or family history of bipolar disorder, mania, or hypomania [see Dosage and Administration (2.3)].
+Activation of mania/hypomania has also been reported in small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
+Prior to initiating treatment with escitalopram screen patients for any personal or family history of bipolar disorder, mania, or hypomania [see Dosage and Administration (2.3)].
 
 ## 5.6 Hyponatremia
 
@@ -109,10 +106,18 @@ Caution is advisable in using escitalopram tablets in patients with diseases or 
 
 Escitalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
 
-Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
-
 In subjects with hepatic impairment, clearance of racemic citalopram was decreased and plasma concentrations were increased.
 The recommended dose of escitalopram tablets in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.3)].
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
 Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram tablets, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].
+
+## 5.11 Sexual Dysfunction
+
+Use of SSRIs, including escitalopram, may cause symptoms of sexual dysfunction [see Adverse Reaction (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of escitalopram and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

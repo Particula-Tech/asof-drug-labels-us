@@ -35,8 +35,15 @@ Maternal toxicity (clinical signs and decreased body weight gain and food consum
 The developmental no-effect dose of 56 mg/kg/day is approximately 27 times the MRHD of 20 mg on a mg/m2 basis.
 No malformations were observed at any of the doses tested (as high as 73 times the MRHD on a mg/m2 basis.
 
-In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a mg/m2 basis.
-In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
+When female rats were treated with escitalopram (6, 12, 24, 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were notes art 48 mg/kg/day which approximately 23 times the MRHD of 20 mg on a mg/m 2 ﻿basis.
+Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
+Slightly increased offspring mortality was also seen at 24 mg/kg/day.
+The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD of 20 mg on a mg/m 2 basis.
+
+In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a mg/m 2 basis.
+The dose was also associated with maternal toxicity (clincial signs, decreased bodey weight gain).
+The developmental no-effect dose was 56 mg/kg/day is approximately 9 times the MRHD on a mg/m 2 basis.
+In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m 2 basis.
 Thus, developmental effects of racemic citalopram were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 
 When female rats were treated with racemic citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD of 60 mg on a mg/m2 basis.

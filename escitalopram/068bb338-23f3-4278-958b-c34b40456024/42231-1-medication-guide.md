@@ -95,6 +95,24 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+10.
+Sexual Dysfunction.
+Taking selective serotonin reuptake inhibitors (SSRIs), including escitalopram, may cause sexual problems
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with escitalopram.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop escitalopram tablets without first talking to your healthcare provider.
 Stopping escitalopram tablets too quickly may cause serious symptoms including:
 
@@ -269,8 +287,8 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown PA 19057
 
-8079972 Revised September 2020
+8086067 Revised January 2022
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

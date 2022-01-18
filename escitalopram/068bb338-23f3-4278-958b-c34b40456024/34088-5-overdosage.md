@@ -2,20 +2,15 @@
 
 ## 10.1 Human Experience
 
-In clinical trials of escitalopram, there were reports of escitalopram overdose, including overdoses of up to 600 mg, with no associated fatalities.
-During the postmarketing evaluation of escitalopram, escitalopram overdoses involving overdoses of over 1,000 mg have been reported.
-As with other SSRIs, a fatal outcome in a patient who has taken an overdose of escitalopram has been rarely reported.
+The following have been reported with escitalopram tablet overdosage:
 
-Symptoms most often accompanying escitalopram overdose, alone or in combination with other drugs and/or alcohol, included convulsions, coma, dizziness, hypotension, insomnia, nausea, vomiting, sinus tachycardia, somnolence, and ECG changes (including QT prolongation and very rare cases of torsade de pointes).
-Acute renal failure has been very rarely reported accompanying overdose.
+- Seizures, which may be delayed, and altered mental status including coma.
+- Cardiovascular toxicity, which may be delayed, incuding QRS, and QTc interval prolongation, wide complex tachyarrhythmias, and torsade de pointes.
+  Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants incuding alcohol.
+- Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
-## 10.2 Management of Overdose
+Prolonged cardiac monitoring is recommended in escitalopram tablets overdosage ingestations due to the arrhythmia risk.
 
-Establish and maintain an airway to ensure adequate ventilation and oxygenation.
-Gastric evacuation by lavage and use of activated charcoal should be considered.
-Careful observation and cardiac and vital sign monitoring are recommended, along with general symptomatic and supportive care.
-Due to the large volume of distribution of escitalopram, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-There are no specific antidotes for escitalopram.
+Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a escitalopram overdose.
 
-In managing overdosage, consider the possibility of multiple-drug involvement.
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
+Consider contacting a poison center (1-800-221-2222) or a medical toxicologist for overdosage management recommendations.
