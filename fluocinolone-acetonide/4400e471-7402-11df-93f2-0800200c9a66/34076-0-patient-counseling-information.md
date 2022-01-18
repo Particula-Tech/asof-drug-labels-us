@@ -12,9 +12,9 @@ When to Seek Physician Advice Advise patients that if the eye becomes red, sensi
 Driving and Using Machines Inform patients that they may experience temporary visual blurring after receiving an intravitreal injection.
 Advise patients not to drive or use machines until this has been resolved.
 
-Manufactured for: Alimera Sciences, Inc. 6120 Windward Parkway Alpharetta, GA 30005
+Manufactured for: Alimera Sciences, Inc. 6310 Town Square, Suite 400 Alpharetta, GA 30005
 
 Patented.
 See: www.alimerasciences.com
 
-ALIMERA SCIENCES
+alimera
