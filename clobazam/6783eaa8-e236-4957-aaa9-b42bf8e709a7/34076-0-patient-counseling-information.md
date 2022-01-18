@@ -20,7 +20,7 @@ Instruct patients that discontinuation or dosage reduction of clobazam may requi
 
 Somnolence or Sedation
 
-Advise patients or caregivers to check with their healthcare provider before clobazam is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions(5.4, 5.5)].
+Advise patients or caregivers to check with their healthcare provider before clobazam is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4, 5.5)].
 
 If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clobazam does not affect them adversely (e.g., impair judgment, thinking or motor skills).
 
@@ -56,20 +56,10 @@ Nursing
 Counsel patients that clobazam is excreted in breast milk.
 Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Oral Solid Dosage Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2021-01
+10-2021-02
