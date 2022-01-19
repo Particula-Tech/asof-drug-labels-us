@@ -5,7 +5,6 @@ Store at 20 °C to 25 °C (68 °F to 77 °F); excursions permitted between 15 °
 
 MARCAINE—Solutions of MARCAINE that do not contain epinephrine may be autoclaved.
 Autoclave at 15-pound pressure, 121 °C (250 °F) for 15 minutes.
-Protect from light.
 This product is clear and colorless.
 Do not use the solution if it is discolored or if it contains a precipitate.
 

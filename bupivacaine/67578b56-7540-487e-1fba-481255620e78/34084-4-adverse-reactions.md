@@ -15,7 +15,7 @@ The following clinically significant adverse reactions have been reported and de
 The following adverse reactions from voluntary reports or clinical studies have been reported with bupivacaine or bupivacaine and epinephrine.
 Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions to MARCAINE / MARCAINE WITH EPINEPRHINE are characteristic of those associated with other amide-type local anesthetics.
+Adverse reactions to MARCAINE / MARCAINE WITH EPINEPHRINE are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, unintentional intravascular injection, or slow metabolic degradation.
 
 The most commonly encountered acute adverse reactions that demand immediate counter-measures were related to the CNS and the cardiovascular system.
