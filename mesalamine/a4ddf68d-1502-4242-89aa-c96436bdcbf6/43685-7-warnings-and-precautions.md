@@ -4,7 +4,7 @@
 
 Sulfite-Related Reactions
 
-Mesalamine Rectal Suspension Enema contains potassium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Mesalamine rectal suspension enema contains potassium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown but probably low.
 Sulfite sensitivity is seen more frequently in asthmatic or in atopic nonasthmatic persons.
 
@@ -15,20 +15,20 @@ The presence of a sulfite(s) in epinephrine injection should not deter the admin
 Sulfasalazine-Associated Reactions
 
 Hypersensitivity reactions have been reported in patients taking sulfasalazine.
-Some patients may have a similar reaction to Mesalamine Rectal Suspension Enema or to other compounds that contain or are converted to mesalamine.
+Some patients may have a similar reaction to mesalamine rectal suspension enema or to other compounds that contain or are converted to mesalamine.
 
 As with sulfasalazine, mesalamine-induced hypersensitivity reactions may present as internal organ involvement, including myocarditis, pericarditis, nephritis, hepatitis, pneumonitis and hematologic abnormalities.
 Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present.
-Discontinue Mesalamine Rectal Suspension Enema if an alternative etiology for the signs and symptoms cannot be established.
+Discontinue mesalamine rectal suspension enema if an alternative etiology for the signs and symptoms cannot be established.
 
 ## Renal Impairment
 
 Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and renal failure have been reported in patients given products that contain mesalamine or are converted to mesalamine.
 In animal studies, the kidney was the principal organ of mesalamine toxicity.
 
-Evaluate the risks and benefits of using Mesalamine Rectal Suspension Enema in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
+Evaluate the risks and benefits of using mesalamine rectal suspension enema in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
-Evaluate renal function in all patients prior to initiation and periodically while on Mesalamine Rectal Suspension Enema therapy.
+Evaluate renal function in all patients prior to initiation and periodically while on mesalamine rectal suspension enema therapy.
 
 ## Mesalamine-Induced Acute Intolerance Syndrome
 
@@ -36,14 +36,19 @@ Mesalamine has been associated with an acute intolerance syndrome that may be di
 Although the exact frequency of occurrence cannot be ascertained, it has occurred in 3% of patients in controlled clinical trials of mesalamine or sulfasalazine.
 Symptoms include cramping, acute abdominal pain and bloody diarrhea, sometimes fever, headache, and rash.
 Monitor patients for worsening of these symptoms while on treatment.
-If acute intolerance syndrome is suspected, promptly discontinue treatment with Mesalamine Rectal Suspension Enema.
+If acute intolerance syndrome is suspected, promptly discontinue treatment with mesalamine rectal suspension enema.
 
 # PRECAUTIONS
 
 ## Hepatic Failure
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
-Evaluate the risks and benefits of using Mesalamine Rectal Suspension Enema in patients with known liver impairment.
+Evaluate the risks and benefits of using mesalamine rectal suspension enema in patients with known liver impairment.
+
+## Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of mesalamine (see ADVERSE REACTIONS).
+Discontinue mesalamine rectal suspension enema at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
 
 ## Photosensitivity
 
@@ -71,11 +76,11 @@ Monitor patients taking nephrotoxic drugs for changes in renal function and mesa
 Azathioprine or 6-Mercaptopurine
 
 The concurrent use of mesalamine with azathioprine or 6-mercaptopurine and/or any other drugs known to cause myelotoxicity may increase the risk for blood disorders, bone marrow failure, and associated complications.
-If concomitant use of Mesalamine Rectal Suspension Enema and azathioprine or 6-mercaptopurine cannot be avoided, monitor blood tests, including complete blood cell counts and platelet counts.
+If concomitant use of mesalamine rectal suspension enema and azathioprine or 6-mercaptopurine cannot be avoided, monitor blood tests, including complete blood cell counts and platelet counts.
 
 ## Information for Patients -
 
-See patient information enclosed.
+See patient instructions enclosed.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility -
 
@@ -104,7 +109,7 @@ Safety and effectiveness in pediatric patients have not been established.
 ## Geriatric Use -
 
 Clinical trials of mesalamine rectal suspension enema did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
-Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia and pancytopenia) in patients receiving mesalamine-containing products such as mesalamine rectal suspension enema who were 65 years or older compared to younger patients.
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia and pancytopenia) in patients receiving mesalamine-containing products such as mesalamine rectal suspension enema who were 65 years or older compared to younger patients, which may also be associated with ulcerative colitis, use of interacting drugs, or reduced renal function.
 
-Consider monitor complete blood cell counts and platelet counts in elderly patients during treatment with mesalamine rectal suspension enema.
+Consider monitoring complete blood cell counts and platelet counts in elderly patients during treatment with mesalamine rectal suspension enema, especially if used concomitantly with anticoagulants.
 In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients when prescribing mesalamine rectal suspension enema.

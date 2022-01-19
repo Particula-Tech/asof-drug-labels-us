@@ -1,10 +1,10 @@
-# To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+# To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 # ADVERSE REACTIONS
 
 ## Clinical Adverse Experience -
 
-Mesalamine Rectal Suspension Enema is usually well tolerated.
+Mesalamine rectal suspension enema is usually well tolerated.
 Most adverse effects have been mild and transient.
 
 ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESALAMINE RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
@@ -40,8 +40,11 @@ ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESALAMINE RECTAL SUSPENSION EN
 
 In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis, elevated liver enzymes, nephrogenic diabetes insipidus, intracranial hypertension and nephrolithiasis.
 Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
+
 Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.
 Anemia, leukocytosis and thrombocytosis can be part of the clinical presentation of inflammatory bowel disease.
+
+Postmarketing cases of severe cutaneous adverse reactions (SJS/TEN, DRESS, and AGEP) and pleurisy/pleuritis have been reported.
 
 ## Hair Loss
 

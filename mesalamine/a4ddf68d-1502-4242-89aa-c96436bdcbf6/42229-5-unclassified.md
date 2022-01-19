@@ -8,12 +8,12 @@ How to Use this Medication
 
 Best results are achieved if the bowel is emptied immediately before the medication is given.
 
-NOTE: Mesalamine Rectal Suspension Enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
+NOTE: Mesalamine rectal suspension enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
 
 1. 1.Remove the Bottles
 2. a.Remove the bottles from the protective foil pouch by tearing or by using scissors as shown, being careful not to squeeze or puncture bottles.
-   Mesalamine Rectal Suspension Enema is an off-white to tan colored suspension.
+   Mesalamine rectal suspension enema is an off-white to tan colored suspension.
    Once the foil-wrapped unit of seven bottles is opened, all enemas should be used promptly as directed by your physician.
 3. Contents of enemas removed from the foil pouch may darken with time.
    Slight darkening will not affect potency, however, enemas with dark brown contents should be discarded.
@@ -41,14 +41,14 @@ Rx Only
 
 Made in Israel
 
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
-Distributed By Perrigo®
+Distributed By Padagis
 
-Allegan, MI 49010 • www.perrigorx.com
+Allegan, MI 49010 • www.padagis.com
 
-Rev 01-21
+Rev 11-21
 
-2N900 RC J9
+2N900 RC J11

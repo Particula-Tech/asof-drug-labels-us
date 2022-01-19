@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Each Mesalamine Rectal Suspension Enema delivers up to 4 g of mesalamine to the left side of the colon.
+Each mesalamine rectal suspension enema delivers up to 4 g of mesalamine to the left side of the colon.
 
 The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
 Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
@@ -23,7 +23,7 @@ Overt renal toxicity has not been observed (see ADVERSE REACTIONS and PRECAUTION
 
 ## Pharmacokinetics -
 
-Mesalamine administered rectally as Mesalamine Rectal Suspension Enema is poorly absorbed from the colon and is excreted principally in the feces during subsequent bowel movements.
+Mesalamine administered rectally as mesalamine rectal suspension enema is poorly absorbed from the colon and is excreted principally in the feces during subsequent bowel movements.
 The extent of absorption is dependent upon the retention time of the drug product, and there is considerable individual variation.
 At steady state, approximately 10 to 30% of the daily 4-gram dose can be recovered in cumulative 24-hour urine collections.
 Other than the kidney, the organ distribution and other bioavailability characteristics of absorbed mesalamine in man are not known.
@@ -66,11 +66,11 @@ The four parameters are added together to produce a maximum overall DAI of 12.
 
 *Percent change for overall DAI only (calculated by taking the average of the change for each individual patient).
 
-†Significant Mesalamine Rectal Suspension, USP /placebo difference. p<0.01
+†Significant mesalamine rectal suspension enema /placebo difference. p<0.01
 
-‡Significant Mesalamine Rectal Suspension, USP /placebo difference. p<0.001
+‡Significant mesalamine rectal suspension enema /placebo difference. p<0.001
 
-§Significant Mesalamine Rectal Suspension, USP /placebo difference. p<0.05
+§Significant mesalamine rectal suspension enema /placebo difference. p<0.05
 
 Differences between mesalamine rectal suspension enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
 Significant differences between mesalamine rectal suspension enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.
