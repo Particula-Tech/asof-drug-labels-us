@@ -56,13 +56,12 @@ The elimination of the major metabolites of bupropion may be affected by reduced
 
 Renal Impairment
 
-There is limited information on the pharmacokinetics of bupropion in subjects with renal impairment.
-An inter-trial comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3-and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
+There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
+An inter-trial comparison between normal patients and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.
-7) and Use in Specific Populations (8.6)].
+Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -79,7 +78,7 @@ For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupro
 
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5-and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Left Ventricular Dysfunction
 
@@ -89,7 +88,7 @@ Age
 
 The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that in younger subjects.
-These data suggest that there is no prominent effect of age on bupropion concentration; however, another single-and multiple-dose pharmacokinetic study suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
+These data suggest that there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetic study suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
 
 Gender
 
@@ -115,7 +114,7 @@ Inhibitors of CYP2B6
 Ticlopidine and Clopidogrel: In a study in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively.
 The exposures of hydroxybupropion were decreased.
 
-Prasugrel: In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion, by 32% and 24%, respectively.
+Prasugrel: In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion by 32% and 24%, respectively.
 
 Cimetidine: Following oral administration of bupropion 300 mg with and without cimetidine 800 mg in 24 healthy young male volunteers, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
@@ -126,7 +125,7 @@ Inducers of CYP2B6
 
 Ritonavir and Lopinavir: In a healthy volunteer study, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
-In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62% respectively.
+In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
 
 In another healthy volunteer study, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and Cmax by 57%.

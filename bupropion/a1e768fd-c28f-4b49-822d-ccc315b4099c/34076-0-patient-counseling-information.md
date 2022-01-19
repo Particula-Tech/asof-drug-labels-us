@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (XL) and counsel them in its appropriate use.
 
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions”, “Quitting smoking, Quit-smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What other important information should I know about bupropion hydrochloride extended-release tablets (XL)?” is available for bupropion hydrochloride extended-release tablets (XL).
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (XL)?” is available for bupropion hydrochloride extended-release tablets (XL).
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -20,7 +20,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
+Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
@@ -43,7 +43,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride extended-release tablets (XL) contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN, a bupropion hydrobromide formulation).
+Educate patients that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient (bupropion) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN® or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR®, the sustained-release formulation, WELLBUTRIN®, the immediate-release formulation, and APLENZIN®, a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion HCl products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -68,10 +68,11 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed.
 Bupropion hydrochloride extended-release tablets (XL) should be administered in the morning and may be taken with or without food.
 
-*The following are registered trademarks of their respective manufacturers: ZYBAN®/GlaxoSmithKline, WELLBUTRIN®/GlaxoSmithKline, WELLBUTRIN SR®/ GlaxoSmithKline.
+Brands listed are the trademarks of their respective owners.
 
 Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Rev.B 8/2020
+Rev.
+C 10/2021

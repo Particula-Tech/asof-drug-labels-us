@@ -11,4 +11,4 @@ The efficacy of the sustained-release formulation of bupropion in the maintenanc
 
 Bupropion hydrochloride extended-release tablets (XL) are indicated for the prevention of seasonal major depressive episodes in patients with a diagnosis of seasonal affective disorder (SAD).
 
-The efficacy of bupropion hydrochloride extended-release tablets in the prevention of seasonal major depressive episodes was established in 3 placebo-controlled trials in adult outpatients with a history of MDD with an autumn-winter seasonal pattern as defined in the DSM [see Clinical Studies (14.2)].
+The efficacy of bupropion hydrochloride extended-release tablets (XL) in the prevention of seasonal major depressive episodes was established in 3 placebo-controlled trials in adult outpatients with a history of MDD with an autumn-winter seasonal pattern as defined in the DSM [see Clinical Studies (14.2)].

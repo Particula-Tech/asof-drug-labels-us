@@ -8,7 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
-- Angle Closure Glaucoma [see Warnings and Precautions (5.7)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -23,8 +23,8 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 
 400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-Bupropion hydrochloride extended-release tablets (XL) has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
-The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended release formulations of bupropion hydrochloride.
+Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
+The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
 
@@ -52,59 +52,56 @@ These include reactions that occurred in either the 300 mg or 400 mg group at an
 
 Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 
-| Body System/ Adverse Reaction | Placebo (n=385) |  | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
-| --- | --- | --- | --- | --- |
-| Body (General) Headache | 23% |  | 26% | 25% |
-| Infection | 6% |  | 8% | 9% |
-| Abdominal pain | 2% |  | 3% | 9% |
-| Asthenia | 2% |  | 2% | 4% |
-| Chest pain | 1% |  | 3% | 4% |
-| Pain | 2% |  | 2% | 3% |
-| Fever | __ |  | 1% | 2% |
-| Cardiovascular Palpitation | 2% |  | 2% | 6% |
-| Flushing | __ |  | 1% | 4% |
-| Migraine | 1% |  | 1% | 4% |
-| Hot flashes | 1% |  | 1% | 3% |
-| Digestive Dry mouth | 7% |  | 17% | 24% |
-| Nausea | 8% |  | 13% | 18% |
-| Constipation | 7% |  | 10% | 5% |
-| Diarrhea | 6% |  | 5% | 7% |
-| Anorexia | 2% |  | 5% | 3% |
-| Vomiting | 2% |  | 4% | 2% |
-| Dysphagia | 0% |  | 0% | 2% |
-| Musculoskeletal Myalgia | 3% | 2% |  | 6% |
-| Arthralgia | 1% | 1% |  | 4% |
-| Arthritis | 0% | 0% |  | 2% |
-| Twitch | __ | 1% |  | 2% |
-| Nervous System Insomnia | 6% | 11% |  | 16% |
-| Dizziness | 5% | 7% |  | 11% |
-| Agitation | 2% | 3% |  | 9% |
-| Anxiety | 3% | 5% |  | 6% |
-| Tremor | 1% | 6% |  | 3% |
-| Nervousness | 3% | 5% |  | 3% |
-| Somnolence | 2% | 2% |  | 3% |
-| Irritability | 2% | 3% |  | 2% |
-| Memory decreased | 1% | __ |  | 3% |
-| Paresthesia | 1% | 1% |  | 2% |
-| Central nervous system stimulation | 1% | 2% |  | 1% |
-| Respiratory Pharyngitis | 2% | 3% |  | 11% |
-| Sinusitis | 2% | 3% |  | 1% |
-| Increased cough | 1% | 1% |  | 2% |
-| Skin Sweating | 2% | 6% |  | 5% |
-| Rash | 1% | 5% |  | 4% |
-| Pruritus | 2% | 2% |  | 4% |
-| Urticaria | 0% | 2% |  | 1% |
-| Special Senses Tinnitus | 2% | 6% |  | 6% |
-| Taste perversion | __ | 2% |  | 4% |
-| Blurred vision of diplopia | 2% | 3% |  | 2% |
-| Urogenital Urinary frequency | 2% | 2% |  | 5% |
-| Urinary urgency | 0% | __ |  | 2% |
-| Vaginal hemorrhage* | __ | 0% |  | 2% |
-| Urinary tract infection | __ † | 1% |  | 0% |
-
-* Incidence based on the number of female patients. † Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients
-
-The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
+| Body System/Adverse Reaction | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
+| --- | --- | --- | --- |
+| Body (General)Headache | 23% | 26% | 25% |
+| Infection | 6% | 8% | 9% |
+| Abdominal pain | 2% | 3% | 9% |
+| Asthenia | 2% | 2% | 4% |
+| Chest pain | 1% | 3% | 4% |
+| Pain | 2% | 2% | 3% |
+| Fever | — | 1% | 2% |
+| Cardiovascular Palpitation | 2% | 2% | 6% |
+| Flushing | — | 1% | 4% |
+| Migraine | 1% | 1% | 4% |
+| Hot flashes | 1% | 1% | 3% |
+| DigestiveDry mouth | 7% | 17% | 24% |
+| Nausea | 8% | 13% | 18% |
+| Constipation | 7% | 10% | 5% |
+| Diarrhea | 6% | 5% | 7% |
+| Anorexia | 2% | 5% | 3% |
+| Vomiting | 2% | 4% | 2% |
+| Dysphagia | 0% | 0% | 2% |
+| MusculoskeletalMyalgia | 3% | 2% | 6% |
+| Arthralgia | 1% | 1% | 4% |
+| Arthritis | 0% | 0% | 2% |
+| Twitch | — | 1% | 2% |
+| Nervous SystemInsomnia | 6% | 11% | 16% |
+| Dizziness | 5% | 7% | 11% |
+| Agitation | 2% | 3% | 9% |
+| Anxiety | 3% | 5% | 6% |
+| Tremor | 1% | 6% | 3% |
+| Nervousness | 3% | 5% | 3% |
+| Somnolence | 2% | 2% | 3% |
+| Irritability | 2% | 3% | 2% |
+| Memory decreased | 1% | — | 3% |
+| Paresthesia | 1% | 1% | 2% |
+| Central nervous system stimulation | 1% | 2% | 1% |
+| RespiratoryPharyngitis | 2% | 3% | 11% |
+| Sinusitis | 2% | 3% | 1% |
+| Increased cough | 1% | 1% | 2% |
+| SkinSweating | 2% | 6% | 5% |
+| Rash | 1% | 5% | 4% |
+| Pruritus | 2% | 2% | 4% |
+| Urticaria | 0% | 2% | 1% |
+| Special SensesTinnitus | 2% | 6% | 6% |
+| Taste perversion | — | 2% | 4% |
+| Blurred vision or diplopia | 2% | 3% | 2% |
+| UrogenitalUrinary frequency | 2% | 2% | 5% |
+| Urinary urgency | 0% | — | 2% |
+| Vaginal hemorrhage* | — | 0% | 2% |
+| Urinary tract infection | —† | 1% | 0% |
+| *Incidence based on the number of female patients.†Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
 
 Seasonal Affective Disorder
 
@@ -144,7 +141,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 
 Changes in Body Weight
 
-Table 5 presents the incidence of body weight changes (>5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
+Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
 There was a dose-related decrease in body weight.
 
 Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion HCl Sustained-Release
@@ -154,7 +151,7 @@ Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using 
 | Gained >5 lbs | 3% | 2% | 4% |
 | Lost >5 lbs | 14% | 19% | 6% |
 
-Table 6 presents the incidence of body weight changes (>5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
+Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
 A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs, compared to the placebo group (11%).
 These were relatively long-term trials (up to 6 months).
 

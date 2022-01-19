@@ -36,7 +36,7 @@ The primary efficacy measure was the Structured Interview Guide for the Hamilton
 The SIGH-SAD consists of the HAMD17 plus 7 items specifically assessing core symptoms of seasonal affective disorder: social withdrawal, weight gain, increased appetite, increased eating, carbohydrate craving, hypersomnia, and fatigability.
 The primary efficacy endpoint was the onset of a seasonal major depressive episode.
 The criteria for defining an episode included: 1) the investigator’s judgment that a major depressive episode had occurred or that the patient required intervention for depressive symptoms, or 2) a SIGH-SAD score of >20 on 2 consecutive weeks.
-The primary analysis was a comparison of depression-free-rates between the bupropion and placebo groups.
+The primary analysis was a comparison of depression-free rates between the bupropion and placebo groups.
 
 In these 3 trials, the percentage of patients who were depression-free (did not have an episode of MDD) at the end of treatment was significantly higher in the bupropion group than in the placebo group: 81.4% vs. 69.7%, 87.2% vs. 78.7%, and 84.0% vs. 69.0% for Trials 1, 2 and 3, respectively.
 For the 3 trials combined, the depression-free rate was 84.3% versus 72.0% in the bupropion and placebo group, respectively.

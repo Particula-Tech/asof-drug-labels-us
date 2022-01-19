@@ -21,7 +21,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants during pregnancy at the beginning of pregnancy.
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
@@ -39,7 +39,7 @@ The prospectively observed rate of cardiovascular malformations in pregnancies w
 Data from the United Healthcare database, which has a limited number of exposed cases with cardiovascular malformations, and a case-controlled study (6,853 infants with cardiovascular malformations and 5,753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
 
 Study findings on bupropion exposure during the first trimester and risk left ventricular outflow tract obstruction (LVOTO) are inconsistent and do not allow conclusions regarding possible association.
-The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted odds ratio (OR) = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
+The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted odds ratio (OR) = 2.6; 95% CI 1.2, 5.7), and the Slone Epidemiology case control study did not find increased risk for LVOTO.
 
 Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
 The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
@@ -91,7 +91,7 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (Glomerular Filtration Rate: <90 mL/min).
+Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (glomerular filtration rate: <90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
 Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
