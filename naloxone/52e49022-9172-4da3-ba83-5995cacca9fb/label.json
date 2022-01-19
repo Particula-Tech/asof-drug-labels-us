@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212854"
+  ],
+  "inn": "naloxone",
+  "labeler": "USWM, LLC",
+  "package_ndcs": [
+    "78670-140-02",
+    "78670-140-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Zimhi"
+    }
+  ],
+  "setid": "52e49022-9172-4da3-ba83-5995cacca9fb",
+  "source": "dailymed"
+}
