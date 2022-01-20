@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Pressor Effect with Concomitant Oxytocic Drugs
 
@@ -11,6 +11,6 @@ Carefully monitor the blood pressure of individuals who have received both EMERP
 Data indicate that repeated administration of ephedrine can result in tachyphylaxis.
 Be aware of this possibility when treating anesthesia-induced hypotension with EMERPHED and be prepared with an alternative pressor to mitigate unacceptable responsiveness.
 
-## 5.3 Risk of Hypertension When Us ed Prophylactically
+## 5.3 Risk of Hypertension When Used Prophylactically
 
 When used to prevent hypotension, ephedrine has been associated with an increased incidence of hypertension compared with when ephedrine is used to treat hypotension.

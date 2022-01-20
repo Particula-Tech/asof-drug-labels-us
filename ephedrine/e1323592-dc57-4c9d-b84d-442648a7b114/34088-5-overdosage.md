@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10. OVERDOSAGE
 
 Overdose of EMERPHED can cause a rapid rise in blood pressure.
 In the case of an overdose, careful monitoring of blood pressure is recommended.

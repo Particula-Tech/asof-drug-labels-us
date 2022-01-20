@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The following adverse reactions associated with the use of ephedrine sulfate were identified in the literature.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.

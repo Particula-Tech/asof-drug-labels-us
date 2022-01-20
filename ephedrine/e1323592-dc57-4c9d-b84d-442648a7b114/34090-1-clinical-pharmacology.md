@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -12,7 +12,7 @@ Ephedrine stimulates heart rate and cardiac output and variably increases periph
 Stimulation of the α-adrenergic receptors of smooth muscle cells in the bladder base may increase the resistance to the outflow of urine.
 Activation of β- adrenergic receptors in the lungs promotes bronchodilation.
 
-The overall cardiovascular effect from ephedrine is the result of a balance among α-1 adrenoceptor- mediated vasoconstriction, β-2 adrenoceptor-mediated vasoconstriction, and β-2 adrenoceptor-mediated vasodilatation.
+The overall cardiovascular effect from ephedrine is the result of a balance among α-1 adrenoceptor- mediated vasoconstriction, β-2 adrenoceptor- mediated vasoconstriction, and β-2 adrenoceptor-mediated vasodilatation.
 Stimulation of the β-1 adrenoceptors results in positive inotrope and chronotrope action.
 
 Tachyphylaxis to the pressor effects of ephedrine may occur with repeated administration [see Warnings and Precautions 5.2].

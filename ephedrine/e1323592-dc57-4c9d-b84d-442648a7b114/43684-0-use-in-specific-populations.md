@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -31,10 +31,10 @@ This dose was associated with evidence of maternal toxicity (decreased body weig
 No malformations or fetal deaths were noted at this dose.
 No effects on fetal body weight were noted at 10 mg/kg (1.9 times the MRHD of 50 mg).
 
-No evidence of malformations or embryo-fetal toxicity were noted in pregnant rabbits administered intravenous bolus doses up to 20 mg/kg ephedrine sulfate (7.7 times the maximum recommended human dose (MRHD) of 50 mg based on body surface area) from Gestation Day 620.
+No evidence of malformations or embryo-fetal toxicity were noted in pregnant rabbits administered intravenous bolus doses up to 20 mg/kg ephedrine sulfate (7.7 times the maximum recommended human dose (MRHD) of 50 mg based on body surface area) from Gestation Day 6-20.
 This dose was associated with expected pharmacological maternal effects (increased respiration rate, dilated pupils, piloerection).
 
-Decreased fetal survival and body weights in the presence of maternal toxicity (increased mortality) were noted when pregnant dams were administered intravenous bolus doses of 60 mg/kg epinephrine sulfate (approximately 12 times the MRHD based on body surface area) from GD 6 through Lactation Day 20.
+Decreased fetal survival and body weights in the presence of maternal toxicity (increased mortality) were noted when pregnant dams were administered intravenous bolus doses of 60 mg/ kg epinephrine sulfate (approximately 12 times the MRHD based on body surface area) from GD 6 through Lactation Day 20.
 No adverse effects were noted at 10 mg/kg (1.9 times the MRHD).
 
 ## 8.2 Lactation
@@ -52,7 +52,7 @@ Safety and effectiveness of EMERPHED in pediatric patients have not been establi
 Animal Toxicity Data
 
 In a study in which juvenile rats were administered intravenous bolus doses of 2, 10, or 60 mg/kg ephedrine sulfate daily from Postnatal Day 35 to 56, an increased incidence of mortality was noted at the high dose of 60 mg/kg.
-The no-adverse-effect level was 10 mg/kg (approximately 1.9 times a maximum daily dose of 50 mg in a 60 kg person based on body surface area).
+The no-adverse-effect level was 10 mg/kg (approximately 1.9 times a maximum daily dose of 50 mg in a 60 kg person based on body surface area)
 
 ## 8.5 Geriatric Use
 
