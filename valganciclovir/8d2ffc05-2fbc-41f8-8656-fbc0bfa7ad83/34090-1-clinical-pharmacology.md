@@ -151,7 +151,7 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C480F, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
 | pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 

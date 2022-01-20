@@ -91,7 +91,7 @@ Table 7 and Table 8 show selected laboratory abnormalities reported with valganc
 | Anemia: Hemoglobin g/dL < 6.5 6.5 to < 8.0 8.0 to < 9.5 | 1 5 31 | 2 7 25 |
 | Thrombocytopenia: Platelets/µL < 25000 25000 to < 50000 50000 to < 100000 | 0 1 18 | 2 3 21 |
 | Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 14 45 | 21 47 |
-| * Laboratory abnormalities are those reported by investigators. |  |  |
+| *Laboratory abnormalities are those reported by investigators. |  |  |
 
 | Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Transplant Patients* |  |  |
 | --- | --- | --- |
@@ -109,7 +109,7 @@ Table 7 and Table 8 show selected laboratory abnormalities reported with valganc
 | 25000 to < 50000 | 1 | 0 |
 | 50000 to < 100000 | 7 | 3 |
 | Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 17 50 | 14 48 |
-| * Laboratory abnormalities are those reported by investigators. |  |  |
+| *Laboratory abnormalities are those reported by investigators. |  |  |
 
 Other adverse drug reactions from valganciclovir hydrochloride in clinical trials in CMV retinitis and solid organ transplant patients
 
