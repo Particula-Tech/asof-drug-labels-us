@@ -13,7 +13,7 @@ As with "sleep-driving", patients usually do not remember these events.
 In addition, patients should be advised to report all concomitant medications to the prescriber.
 Patients should be instructed to report events such as "sleep-driving" and other complex behaviors immediately to the prescriber.
 
-Suicide risk and Worsening of Depression:
+Suicide risk and Worsening of Depression
 
 Patients, their families, and their caregivers should be encouraged to be alert to worsening of depression, including suicidal thoughts and actions.
 Such symptoms should be reported to the patient's prescriber or health professional.
@@ -21,7 +21,7 @@ Such symptoms should be reported to the patient's prescriber or health professio
 Administration Instructions
 
 Patients should be counseled to take Doxepin HCl Tablets within 30 minutes of bedtime and should confine their activities to those necessary to prepare for bed.
-Doxepin HCl Tablets should not be taken with or immediately after a meal [see Dosage and Administration (2.3)].
+Doxepin HCl Tablets tablets should not be taken with or immediately after a meal [see Dosage and Administration (2.3)].
 Advise patients NOT to take Doxepin HCl Tablets when drinking alcohol [see Warnings and Precautions (5.2, 5.4) and Drug Interactions (7.3)].
 
 Pregnancy

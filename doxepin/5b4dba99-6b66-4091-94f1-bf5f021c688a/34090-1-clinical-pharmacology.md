@@ -6,7 +6,7 @@ The mechanism of action of doxepin in sleep maintenance is unclear; however, dox
 
 ## 12.2. Pharmacodynamics
 
-Doxepin has high binding affinity to the H1 receptor (Ki < 1 nM).
+Doxepin has high binding affinity to the H1 receptor (Ki < 1 nM)
 
 Cardiac Electrophysiology
 
@@ -45,8 +45,7 @@ Excretion
 
 Doxepin is excreted in the urine mainly in the form of glucuronide conjugates.
 
-Less than 3% of a doxepin dose is excreted in the urine as parent compound or nordoxepin.
-The apparent terminal half-life (t ½) of doxepin was 15.3 hours and for nordoxepin was 31 hours.
+Less than 3% of a doxepin dose is excreted in the urine as parent compound or nordoxepin.The apparent terminal half-life (t ½) of doxepin was 15.3 hours and for nordoxepin was 31 hours.
 
 Drug Interactions
 

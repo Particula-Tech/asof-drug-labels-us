@@ -21,7 +21,7 @@ No reaction that resulted in discontinuation occurred at a rate greater than 0.5
 
 Adverse Reactions Observed at an Incidence of ≥ 2% in Controlled Trials
 
-Table 1 shows the incidence of treatment-emergent adverse reactions from three long-term (28 to 85 days) placebo-controlled studies of Doxepin HCl Tablets in adult (N=221) and elderly (N=494) subjects with chronic insomnia.
+Table 1 shows the incidence of treatment-emergent adverse reactions from three long-term (28 to 85 days) placebo-controlled studies of Doxepin HCl Tablets in adult (N = 221) and elderly (N = 494) subjects with chronic insomnia.
 
 Reactions reported by Investigators were classified using a modified MedDRA dictionary of preferred terms for purposes of establishing incidence.
 The table includes only reactions that occurred in 2% or more of subjects who received Doxepin HCl Tablets 3 mg or 6 mg in which the incidence in subjects treated with Doxepin HCl Tablets was greater than the incidence in placebo-treated subjects.
@@ -107,6 +107,7 @@ Skin and Subcutaneous Tissue Disorders: Infrequent: skin irritation; Rare: cold 
 Surgical and Medical Procedures: Rare: arthrodesis.
 
 Vascular Disorders: Infrequent: pallor; Rare: blood pressure inadequately controlled, hematoma, hot flush.
+
 In addition, the reactions below have been reported for other tricyclics and may be idiosyncratic (not related to dose).
 
 Allergic: photosensitization, skin rash.

@@ -37,7 +37,7 @@ The plasma exposures at the no-effect dose for embryo-fetal developmental toxici
 When doxepin (10, 30, and 60 mg/kg/day) was administered orally to pregnant rabbits during the period of organogenesis, fetal body weights were reduced at the highest dose in the absence of maternal toxicity, which produced plasma AUCs of doxepin and nordoxepin approximately 23 and 56 times, respectively, the plasma AUCs at the MRHD.
 The plasma exposures at the no-effect dose for developmental effects (30 mg/kg/day) are approximately 8 and 25 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
 Oral administration of doxepin (10, 30, and 100 mg/kg/day) to rats throughout pregnancy and lactation resulted in decreased pup survival and transient growth delay at the highest dose, which produced plasma AUCs of doxepin and nordoxepin approximately 60 and 39 times, respectively, the plasma AUCs at the MRHD.
-The plasma exposures at the no-effect dose for adverse effects on pre- and postnatal development in rats (30 mg/kg/day) are approximately 2 and 1 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD
+The plasma exposures at the no-effect dose for adverse effects on pre- and postnatal development in rats (30 mg/kg/day) are approximately 2 and 1 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
 
 ## 8.2. Lactation
 

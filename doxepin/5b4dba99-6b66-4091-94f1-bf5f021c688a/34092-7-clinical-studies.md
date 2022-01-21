@@ -2,7 +2,7 @@
 
 ## 14.1. Controlled Clinical Trials
 
-The efficacy of Doxepin HCl Tablets for improving sleep maintenance was supported by six randomized, double-blind studies up to 3 months in duration that included 1,423 subjects, 18 to 93 years of age, with chronic (N=858) or transient (N=565) insomnia.
+The efficacy of Doxepin HCl Tablets for improving sleep maintenance was supported by six randomized, double-blind studies up to 3 months in duration that included 1,423 subjects, 18 to 93 years of age, with chronic (N = 858) or transient (N = 565) insomnia.
 Doxepin HCl Tablets was evaluated at doses of 1 mg, 3 mg, and 6 mg relative to placebo in inpatient (sleep laboratory) and outpatient settings.
 
 The primary efficacy measures for assessment of sleep maintenance were the objective and subjective time spent awake after sleep onset (respectively, objective Wake After Sleep Onset [WASO] and subjective WASO).
@@ -14,7 +14,6 @@ Chronic Insomnia
 Adults
 
 A randomized, double-blind, parallel-group study was conducted in adults (N = 221) with chronic insomnia.
-
 Doxepin HCl Tablets 3 mg and 6 mg was compared to placebo out to 30 days.
 
 Doxepin HCl Tablets 3 mg and 6 mg were superior to placebo on objective WASO.
@@ -25,15 +24,15 @@ Elderly
 
 Elderly subjects with chronic insomnia were assessed in two parallel-group studies.
 
-The first randomized, double-blind study assessed Doxepin HCl Tablets 1 mg and 3 mg relative to placebo for 3 months in inpatient and outpatient settings in elderly subjects (N=240) with chronic insomnia.
+The first randomized, double-blind study assessed Doxepin HCl Tablets 1 mg and 3 mg relative to placebo for 3 months in inpatient and outpatient settings in elderly subjects (N = 240) with chronic insomnia.
 Doxepin HCl Tablets 3 mg was superior to placebo on objective WASO.
 
-The second randomized, double-blind study assessed Doxepin HCl Tablets 6 mg relative to placebo for 4 weeks in an outpatient setting in elderly subjects (N=254) with chronic insomnia.
+The second randomized, double-blind study assessed Doxepin HCl Tablets 6 mg relative to placebo for 4 weeks in an outpatient setting in elderly subjects (N = 254) with chronic insomnia.
 On subjective WASO, Doxepin HCl Tablets 6 mg was superior to placebo.
 
 Transient Insomnia
 
-Healthy adult subjects (N=565) experiencing transient insomnia during the first night in a sleep laboratory were evaluated in a randomized, double-blind, parallel-group, single-dose study of Doxepin HCl Tablets 6 mg relative to placebo.
+Healthy adult subjects (N = 565) experiencing transient insomnia during the first night in a sleep laboratory were evaluated in a randomized, double-blind, parallel-group, single-dose study of Doxepin HCl Tablets 6 mg relative to placebo.
 Doxepin HCl Tablets 6 mg was superior to placebo on objective WASO and subjective WASO.
 
 Withdrawal Effects

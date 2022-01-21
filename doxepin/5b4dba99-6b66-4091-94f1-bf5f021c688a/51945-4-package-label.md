@@ -8,7 +8,9 @@ Doxepin HCl Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
-Rx Only 30 TABLETS
+Rx Only
+
+30 TABLETS
 
 MACOVEN
 
@@ -22,6 +24,8 @@ Doxepin HCl Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
-Rx Only 30 TABLETS
+Rx Only
+
+30 TABLETS
 
 MACOVEN
