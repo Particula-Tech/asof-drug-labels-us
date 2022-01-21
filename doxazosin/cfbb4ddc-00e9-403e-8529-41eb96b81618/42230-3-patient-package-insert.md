@@ -1,4 +1,4 @@
-PATIENT INFORMATION CARDURA® XL (kar-DUR-a eks el) (doxazosin mesylate) Tablets
+PATIENT INFORMATION CARDURA® XL (kar-DUR-a eks el) (doxazosin) Tablets
 
 Read this Patient Information leaflet before you start taking CARDURA XL and each time you get a refill.
 There may be new information.
@@ -131,8 +131,8 @@ For more information, call 1-800-438-1985.
 
 What are the ingredients in CARDURA XL?
 
-Active Ingredient: doxazosin mesylate
+Active Ingredient: doxazosin
 
 Inactive Ingredients: polyethylene oxide, sodium chloride, hypromellose, red ferric oxide, titanium dioxide, magnesium stearate, cellulose acetate, Macrogol®, pharmaceutical glaze, and black iron oxide.
 
-LAB-0425-3.0 February 2017
+LAB-0425-4.0 Revised December 2020

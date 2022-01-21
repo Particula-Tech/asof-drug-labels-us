@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CARDURA XL (doxazosin mesylate extended release tablets) is available as 4 mg (white, imprinted with CXL 4) and 8 mg (white, imprinted with CXL 8) tablets.
+CARDURA XL (doxazosin) extended release tablets is available as 4 mg (white, imprinted with CXL 4) and 8 mg (white, imprinted with CXL 8) tablets.
 
-Bottle of 30: 4 mg (NDC 0049-2710-30)
+Bottle of 30: 4 mg (NDC 0049-2710-30, NDC 0049-2040-10)
 
-Bottle of 30: 8 mg (NDC 0049-2720-30)
+Bottle of 30: 8 mg (NDC 0049-2720-30, NDC 0049-2080-10)
 
 Storage
 
