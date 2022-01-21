@@ -2,7 +2,7 @@
 
 In the treatment of accidental overdosages of folic acid antagonists, intravenous leucovorin should be administered as promptly as possible.
 As the time interval between antifolate administration (e.g., methotrexate) and leucovorin rescue increases, leucovorin's effectiveness in counteracting toxicity decreases.
-In the treatment of accidental overdosages of intrathecally adminstered folic acid antagonists, do not adminster leucovorin intrathecally.
+In the treatment of accidental overdosages of intrathecally administered folic acid antagonists, do not adminster leucovorin intrathecally.
 LEUCOVORIN MAY BE HARMFUL OR FATAL IF GIVEN INTRATHECALLY.
 
 Monitoring of the serum methotrexate concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
@@ -68,13 +68,13 @@ Leucovorin may enhance the toxicity of 5-fluorouracil (see WARNINGS).
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+### Teratogenic Effects:
 
 Adequate animal reproduction studies have not been conducted with leucovorin.
 It is also not known whether leucovorin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Leucovorin should be given to a pregnant woman only if clearly needed.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when leucovorin is administered to a nursing mother.

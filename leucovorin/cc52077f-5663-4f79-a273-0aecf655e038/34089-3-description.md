@@ -8,17 +8,17 @@ The structural formula of leucovorin calcium is:
 
 C20H21CaN7O7 M.W.=511.51
 
-Leucovorin Calcium for Injection is a sterile product indicated for intramuscular (IM) or intravenous (IV) administration and is supplied in 50 mg, 100 mg, 200 mg, and 350 mg vials.
+Leucovorin Calcium for Injection, USP is a sterile product indicated for intramuscular (IM) or intravenous (IV) administration and is supplied in 50 mg, 100 mg, 200 mg, and 350 mg vials.
 
-Each 50 mg vial of Leucovorin Calcium for Injection, when reconstituted with 5 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
+Each 50 mg vial of Leucovorin Calcium for Injection, USP, when reconstituted with 5 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
 
-Each 100 mg vial of Leucovorin Calcium for Injection, when reconstituted with 10 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
+Each 100 mg vial of Leucovorin Calcium for Injection, USP, when reconstituted with 10 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
 
-Each 200 mg vial of Leucovorin Calcium for Injection, when reconstituted with 20 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
+Each 200 mg vial of Leucovorin Calcium for Injection, USP, when reconstituted with 20 mL of sterile diluent, contains leucovorin (as the calcium salt) 10 mg/mL.
 
-Each 350 mg vial of Leucovorin Calcium for Injection, when reconstituted with 17.5 mL of sterile diluent, contains leucovorin (as the calcium salt) 20 mg/mL.
+Each 350 mg vial of Leucovorin Calcium for Injection, USP, when reconstituted with 17.5 mL of sterile diluent, contains leucovorin (as the calcium salt) 20 mg/mL.
 
-In each dosage form, one milligram of leucovorin calcium contains 0.002 mmol of leucovorin and 0.002 mmol of calcium.
+In each dosage form, one milligram of leucovorin calcium, USP contains 0.002 mmol of leucovorin and 0.002 mmol of calcium.
 
 These lyophilized products contain no preservative.
 The inactive ingredient is Sodium Chloride, added to adjust tonicity.
