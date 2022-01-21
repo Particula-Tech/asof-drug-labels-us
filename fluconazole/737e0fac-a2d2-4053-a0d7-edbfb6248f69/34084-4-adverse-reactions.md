@@ -46,7 +46,7 @@ Immunologic: In rare cases, anaphylaxis (including angioedema, face edema, and p
 Body as a Whole: Asthenia, fatigue, fever, malaise.
 
 Cardiovascular: QT prolongation, torsade de pointes.
-(See PRECAUTIONS)
+(See PRECAUTIONS.)
 
 Central Nervous System: Seizures, dizziness.
 

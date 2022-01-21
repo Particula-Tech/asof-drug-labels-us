@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Fluconazole, the first of a new subclass of synthetic triazole antifungal agents, is available as tablets for oral administration and as a powder for oral suspension.
+Fluconazole, the first of a new subclass of synthetic triazole antifungal agents, is available as tablets for oral administration, as a powder for oral suspension.
 
 Fluconazole is designated chemically as 2,4-difluoro-α,α1-bis(1H-1,2,4-triazol-1-ylmethyl) benzyl alcohol with an empirical formula of C13H12F2N6O and molecular weight of 306.3.
 The structural formula is:
