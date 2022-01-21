@@ -1,7 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZITHROMAX for injection is supplied in lyophilized form under a vacuum in a 10-mL single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
-Each vial also contains sodium hydroxide and 413.6 mg citric acid.
+ZITHROMAX for injection is supplied as white to off-white lyophilized powder under a vacuum in a single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
 
 These are packaged as follows:
 
