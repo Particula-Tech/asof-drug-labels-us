@@ -183,6 +183,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8076677 Revised September 2019
+8082728 Revised October 2021
