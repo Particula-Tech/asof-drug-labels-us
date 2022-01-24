@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021366"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-7580-90",
+    "0310-7590-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin calcium",
+      "name": "Crestor"
+    }
+  ],
+  "setid": "325a5d0e-9a72-4015-9fcd-1655fb504cee",
+  "source": "dailymed"
+}
