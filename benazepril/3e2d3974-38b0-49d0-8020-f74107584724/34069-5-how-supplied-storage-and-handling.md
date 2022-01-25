@@ -26,11 +26,13 @@ Dispense in a tight, light‑resistant container (USP).
 
 Distributed by:
 
-Perrigo®
+Padagis
 
 Allegan, MI 49010
 
-37Y00 RC J3 Rev 10-20
+www.padagis.com
+
+37Y00 RC J4 Rev 09-21
 
 Manufactured for:
 
@@ -38,8 +40,8 @@ Validus Pharmaceuticals LLC
 
 Parsippany, NJ 07054
 
-© 2020 Validus Pharmaceuticals LLC
+© 2021 Validus Pharmaceuticals LLC
 
-60160-02
+60160-03
 
-October 2020
+September 2021

@@ -81,9 +81,9 @@ Skin: Erythema multiforme including Stevens-Johnson syndrome, and exfoliative de
 
 Clinical Laboratory Test Findings
 
-Serum Electrolytes:see PRECAUTIONS.
+Serum Electrolytes: see PRECAUTIONS.
 
 Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Benazepril HCl and Hydrochlorothiazide.
 Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
