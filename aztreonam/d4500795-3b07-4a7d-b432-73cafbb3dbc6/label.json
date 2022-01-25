@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206517"
+  ],
+  "inn": "aztreonam",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0829-01",
+    "0409-0829-11",
+    "0409-0830-01",
+    "0409-0830-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "aztreonam",
+      "name": "Aztreonam"
+    }
+  ],
+  "setid": "d4500795-3b07-4a7d-b432-73cafbb3dbc6",
+  "source": "dailymed"
+}
