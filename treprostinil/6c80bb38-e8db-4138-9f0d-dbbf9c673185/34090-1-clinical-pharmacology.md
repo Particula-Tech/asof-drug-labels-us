@@ -66,7 +66,7 @@ Co-administration of an oral formulation of treprostinil (treprostinil diolamine
 
 Effect of Treprostinil on Cytochrome P450 Enzymes
 
-In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
 Additionally, treprostinil does not induce CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A isoenzymes.
 
 Effect of Other Drugs on Treprostinil

@@ -46,6 +46,18 @@ For Subcutaneous or Intravenous Infusion Only
 
 United Therapeutics CORPORATION
 
+# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton
+
+REMODULIN® (treprostinil) Injection
+
+400 mg/20 mL (20 mg/mL)
+
+For Subcutaneous or Intravenous Infusion Only
+
+20 mL multidose vial
+
+United Therapeutics CORPORATION
+
 # PRINCIPAL DISPLAY PANEL - 50 mL Vial Carton
 
 NDC 66302-150-50

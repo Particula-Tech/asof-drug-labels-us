@@ -28,7 +28,7 @@ The initial dose of Remodulin should be the same as the current dose the patient
 
 ## 2.4 Dosage Adjustments
 
-The goal of chronic dosage adjustments is to establish a dose at which PAH symptoms are improved, while minimizing excessive pharmacologic effects of Remodulin (headache, nausea, emesis, restlessness, anxiety and infusion site pain or reaction).
+The goal of chronic dosage adjustments is to establish a dose at which PAH symptoms are improved, while minimizing excessive pharmacologic effects of Remodulin (headache, nausea, emesis, restlessness, anxiety, and infusion site pain or reaction).
 
 The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response.
 Dosage adjustments may be undertaken more often if tolerated.
@@ -48,7 +48,7 @@ If either particulate matter or discoloration is noted, do not use.
 
 Preparation
 
-Remodulin is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient's dose (ng/kg/min), weight (kg) and the Remodulin concentration (mg/mL).
+Remodulin is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient's dose (ng/kg/min), weight (kg), and the Remodulin concentration (mg/mL).
 
 For administration of Undiluted Remodulin the rate is calculated using the following formula:
 
@@ -56,7 +56,7 @@ For administration of Undiluted Remodulin the rate is calculated using the follo
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Remodulin Vial Strength (mg/mL) |  |  |  |  |  |  |
 
-For administration of Diluted Remodulin the rate and concentration is calculated using the following formulas:
+For administration of Diluted Remodulin, the concentration is calculated using the following formula:
 
 Step 1
 
@@ -89,11 +89,11 @@ External Intravenous Infusion Pump:
 Remodulin is administered intravenously by continuous infusion via a surgically placed indwelling central venous catheter using an external infusion pump designed for intravenous drug delivery.
 If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of Remodulin.
 Use of a peripheral intravenous infusion for more than a few hours increases the risk of thrombophlebitis.
-The infusion pump used to administer Remodulin should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better of the hourly dose, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump used to administer Remodulin should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with Remodulin.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets.
 
-Infusion sets with an in-line 0.22 or 0.2 micron pore size filter should be used.
+Infusion sets with an in-line 0.22- or 0.2-micron pore size filter should be used.
 
 Implantable Intravenous Infusion Pump:
 

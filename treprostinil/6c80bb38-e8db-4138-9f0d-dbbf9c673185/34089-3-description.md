@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Remodulin (treprostinil) Injection is a sterile solution of treprostinil formulated for subcutaneous or intravenous administration.
-Remodulin is supplied in 20 mL multidose vials in four strengths, containing 20 mg, 50 mg, 100 mg, or 200 mg (1 mg/mL, 2.5 mg/mL, 5 mg/mL or 10 mg/mL) of treprostinil.
-Each mL also contains 5.3 mg sodium chloride (except for the 10 mg/mL strength which contains 4.0 mg sodium chloride), 3 mg metacresol, 6.3 mg sodium citrate dihydrate, and water for injection.
+Remodulin (treprostinil) Injection is a sterile solution of treprostinil, a prostacyclin mimetic, formulated for subcutaneous or intravenous administration.
+Remodulin is supplied in 20-mL multidose vials in five strengths, containing 20 mg, 50 mg, 100 mg, 200 mg, or 400 mg (1 mg/mL, 2.5 mg/mL, 5 mg/mL, 10 mg/mL, or 20 mg/mL) of treprostinil.
+Each mL also contains 5.3 mg sodium chloride (except for the 10 mg/mL and 20 mg/mL strengths, which contain 4.0 mg sodium chloride), 3 mg metacresol, 6.3 mg sodium citrate dihydrate, and water for injection.
 Sodium hydroxide and hydrochloric acid may be added to adjust pH between 6.0 and 7.2.
 
 Treprostinil is chemically stable at room temperature and neutral pH.
@@ -12,5 +12,5 @@ Treprostinil has a molecular weight of 390.52 and a molecular formula of C23H34O
 
 The structural formula of treprostinil is:
 
-Sterile Diluent for Remodulin is a high-pH (pH~10.4) glycine diluent supplied in a 50 mL vial containing 50 mL of Sterile Diluent for Remodulin.
+Sterile Diluent for Remodulin is a high-pH (pH~10.4) glycine diluent supplied in a 50-mL vial containing 50 mL of Sterile Diluent for Remodulin.
 Each vial contains 94 mg glycine, 73.3 mg sodium chloride, sodium hydroxide (to adjust pH), and water for injection.

@@ -12,7 +12,7 @@ There were many assessments of symptoms related to heart failure, but local disc
 The 6-minute walking distance and an associated subjective measurement of shortness of breath during the walk (Borg dyspnea score) were administered by a person not participating in other aspects of the study.
 Remodulin was administered as a subcutaneous infusion, described in Section 2, DOSAGE AND ADMINISTRATION, and the dose averaged 9.3 ng/kg/min at Week 12.
 Few subjects received doses greater than 40 ng/kg/min.
-Background therapy, determined by the investigators, could include anticoagulants, oral vasodilators, diuretics, digoxin, and oxygen but not an endothelin receptor antagonist or epoprostenol.
+Background therapy, determined by the investigators, could include anticoagulants, oral vasodilators, diuretics, digoxin, and oxygen, but not an endothelin receptor antagonist or epoprostenol.
 The two studies were identical in design and conducted simultaneously, and the results were analyzed both pooled and individually.
 
 Hemodynamic Effects
@@ -39,7 +39,7 @@ Clinical Effects
 The effect of Remodulin on 6-minute walk, the primary endpoint of the 12-week studies, was small and did not achieve conventional levels of statistical significance.
 For the combined populations, the median change from baseline on Remodulin was 10 meters and the median change from baseline on placebo was 0 meters from a baseline of approximately 345 meters.
 Although it was not the primary endpoint of the study, the Borg dyspnea score was significantly improved by Remodulin during the 6-minute walk, and Remodulin also had a significant effect, compared with placebo, on an assessment that combined walking distance with the Borg dyspnea score.
-Remodulin also consistently improved indices of dyspnea, fatigue and signs and symptoms of pulmonary hypertension, but these indices were difficult to interpret in the context of incomplete blinding to treatment assignment resulting from infusion site symptoms.
+Remodulin also consistently improved indices of dyspnea, fatigue, and signs and symptoms of pulmonary hypertension, but these indices were difficult to interpret in the context of incomplete blinding to treatment assignment resulting from infusion site symptoms.
 
 ## 14.2 Flolan-To-Remodulin Transition Study
 
