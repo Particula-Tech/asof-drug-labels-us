@@ -120,7 +120,7 @@ How should I use epinephrine injection, USP auto-injectors?
   For young children, use of the epinephrine injection, USP auto-injector Trainer and the real epinephrine injection, USP auto-injector should be supervised by an adult.
   Periodically practice with your epinephrine injection, USP auto-injector Trainer before an allergic emergency happens to make sure you are able to safely use the real epinephrine injection, USP auto-injector in an emergency.
   Always carry your real epinephrine injection, USP auto-injector with you in case of an allergic emergency.
-  Additional training resources are available at MyGenericEAI.com.
+  Additional training resources are available at www.epipen.com.
 - •Do not drop the carrier tube or auto-injector.
   If the carrier tube or auto-injector is dropped, check for damage and leakage.
   Throw away (dispose of) the auto-injector and carrier tube and replace if damage or leakage is noticed or suspected.
@@ -214,7 +214,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about epinephrine injection, USP auto-injectors that is written for health professionals.
 
-For more information and video instructions on the use of epinephrine injection, USP auto-injectors, go to MyGenericEAI.com or call 1-800-395-3376.
+For more information and video instructions on the use of epinephrine injection, USP auto-injectors, go to www.epipen.com or call 1-800-395-3376.
 
 What are the ingredients in epinephrine injection, USP auto-injectors?
 
@@ -327,28 +327,18 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Manufactured for: Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
+
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 12/2020 MS:PIL:EPIG:R5 0002140
+Revised: 11/2021 MS:PIL:EPIG:R6 0002169
 
 Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
 Epinephrine Injection, USP Auto-Injector 0.15 mg one dose of 0.15 mg epinephrine, USP 0.15 mg/0.3 mL
 
-MyGenericEAI.com
-
-Register your epinephrine injection, USP auto-injector at MyGenericEAI.com and find out more about:
-
-- •Free epinephrine injection, USP auto-injector Refill Reminder Program.
-  It is important to keep your auto-injector up-to-date.
-
-Register up to 6 epinephrine injection, USP auto-injectors and receive automatic Refill Reminder Alerts.
-
-- •Receive periodic information related to allergies and allergens.
-- •Instructional Video
-
-For more information about epinephrine injection, USP auto-injectors and proper use of the product, call Mylan at 1-877-446-3679 or visit MyGenericEAI.com.
+For more information about epinephrine injection, USP auto-injectors and proper use of the product, call Mylan at 1-877-446-3679 or visit www.epipen.com.
 
 Epinephrine Injection, USP Auto-Injector Trainer Instructions for Use
 
@@ -414,7 +404,7 @@ Train others who could help you in an emergency:
   - •Practice activating the Trainer
   - •Read these Trainer Instructions and the “Patient Information”
 
-For more information about Epinephrine Injection, USP Auto-Injectors and the proper use of the products, go to MyGenericEAI.com.
+For more information about Epinephrine Injection, USP Auto-Injectors and the proper use of the products, go to www.epipen.com.
 
 Caution:
 
@@ -435,7 +425,11 @@ This Trainer Instructions for Use has been approved by the U.S. Food and Drug Ad
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
+
+Authorized generic for EpiPen® and EpiPen Jr® Auto-Injectors
+
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 12/2020 MS:EPITG:R5 0002142
+Revised: 11/2021 MS:EPITG:R6 0002170

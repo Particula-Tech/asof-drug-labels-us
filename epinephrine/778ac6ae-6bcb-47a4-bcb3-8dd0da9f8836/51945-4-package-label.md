@@ -12,7 +12,7 @@ The Epinephrine Injection, USP Auto-Injector and Trainer are not toys and should
 
 Authorized generic for EpiPen® Auto-Injector
 
-For more information about your Epinephrine Injection, USP Auto-Injectors visit MyGenericEAI.com
+For more information about your Epinephrine Injection, USP Auto-Injectors visit www.epipen.com
 
 See enclosed Patient Information Leaflet for complete instructions for use.
 
@@ -39,10 +39,12 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
 
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
+
 Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002135 MS:10202:2C:R5
+0002166 MS:10202:2C:R6
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -58,7 +60,7 @@ The Epinephrine Injection, USP Auto-Injector and Trainer are not toys and should
 
 Authorized generic for EpiPen Jr® Auto-Injector
 
-For more information about your Epinephrine Injection, USP Auto-Injectors visit MyGenericEAI.com
+For more information about your Epinephrine Injection, USP Auto-Injectors visit www.epipen.com
 
 See enclosed Patient Information Leaflet for complete instructions for use.
 
@@ -85,7 +87,9 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
 
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
+
 Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002136 MS:10102:2C:R5
+0002167 MS:10102:2C:R6
