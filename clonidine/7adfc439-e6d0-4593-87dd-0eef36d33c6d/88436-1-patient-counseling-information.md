@@ -73,4 +73,4 @@ For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 5/2020 CTS:R14/PL:CTS:R12
+Revised: 1/2022 CTS:R15/PL:CTS:R13
