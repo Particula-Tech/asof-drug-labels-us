@@ -41,12 +41,12 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company
 
-EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002096 MS:50002:2C:R5
+0002171 MS:50002:2C:R6
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -91,9 +91,9 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company
 
-EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company
 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002097 MS:50102:2C:R5
+0002172 MS:50102:2C:R6
