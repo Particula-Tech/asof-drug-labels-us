@@ -6,4 +6,4 @@ It is 2-chloro-5(1- hydroxy-3-oxo-1-isoindolinyl) benzenesulfonamide with the fo
 
 Chlorthalidone, USP is practically insoluble in water, in ether, and in chloroform; soluble in methanol; slightly soluble in ethanol.
 
-Chlorthalidone tablets are available containing either 25 mg or 50 mg of chlorthalidone USP and the following inactive ingredients: Colloidal silicon dioxide, Magnesium Stearate, Microcrystalline Cellulose, Pregelatinized Starch, Sodium Starch Glycolate Type-A, Talc.
+Chlorthalidone tablets are available containing either 25 mg or 50 mg of chlorthalidone USP and the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch, Sodium Starch glycolate type-A, talc.

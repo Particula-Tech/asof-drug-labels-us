@@ -30,7 +30,7 @@ Thiazide-like diuretics have been shown to increase the urinary excretion of mag
 
 The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
 
-If progressive renal impairment becomes evident, as indicated by a rising nonprotein nitrogen or blood urea nitrogen, a careful reappraisal of therapy is necessary with consideration given to withholding or discontinuing diuretic therapy.If progressive renal impairment becomes evident, as indicated by a rising nonprotein nitrogen or blood urea nitrogen, a careful reappraisal of therapy is necessary with consideration given to withholding or discontinuing diuretic therapy.
+If progressive renal impairment becomes evident, as indicated by a rising nonprotein nitrogen or blood urea nitrogen, a careful reappraisal of therapy is necessary with consideration given to withholding or discontinuing diuretic therapy.
 
 Calcium excretion is decreased by thiazide-like drugs.
 Pathological changes in the parathyroid gland with hypercalcemia and hypophosphatemia have been observed in few patients on thiazide therapy.
@@ -88,8 +88,6 @@ Because animal reproduction studies are not always predictive of human response,
 Nonteratogenic Effects
 
 Thiazides cross the placental barrier and appear in cord blood.
-The use of chlorthalidone and related drugs in pregnant women requires that the anticipated benefits of the drug be weighed against possible hazards to the fetus.
-These hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in the adult.Thiazides cross the placental barrier and appear in cord blood.
 The use of chlorthalidone and related drugs in pregnant women requires that the anticipated benefits of the drug be weighed against possible hazards to the fetus.
 These hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in the adult.
 
