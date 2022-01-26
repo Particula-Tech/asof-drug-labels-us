@@ -30,7 +30,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Based on animal data, TAGRISSO can cause malformations, embryo lethality, and postnatal death at doses resulting in exposures 1.5 times or less the human exposure at the clinical dose of 80 mg daily [see Use in Specific Populations (8.1)].
+Based on animal data, TAGRISSO can cause malformations, embryo lethality, and postnatal death at doses resulting in exposures 1.5 times or less the human exposure at the clinical dose of 80 mg daily[see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 

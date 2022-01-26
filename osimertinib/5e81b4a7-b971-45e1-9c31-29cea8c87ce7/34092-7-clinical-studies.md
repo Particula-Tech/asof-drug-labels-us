@@ -132,11 +132,11 @@ The major efficacy outcome measure was progression-free survival (PFS) according
 Additional efficacy outcome measures included overall response rate (ORR), duration of response (DoR), and overall survival (OS).
 Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and blinded independent central review (BICR) were permitted to cross over to receive treatment with TAGRISSO.
 
-The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20‑90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
+The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20-90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 11 and Figure 4).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 11 and Figure 4).
 No statistically significant difference was observed between the treatment arms at final OS analysis.
 At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
