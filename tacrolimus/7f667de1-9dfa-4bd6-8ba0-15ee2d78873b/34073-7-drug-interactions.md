@@ -9,7 +9,7 @@ Monitor for MPA-associated adverse reactions and reduce the dose of concomitantl
 
 Table 15 displays the effects of other drugs on PROGRAF.
 
-Table 15: Effects of Other Drugs/Substances on PROGRAFPROGRAF dosage adjustment recommendation based on observed effect of coadministered drug on tacrolimus exposures [see Clinical Pharmacology (12.3)], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status.
+Table 15: Effects of Other Drugs/Substances on PROGRAFPROGRAF dosage adjustment recommendation based on observed effect of coadministered drug on tacrolimus exposures [seeClinical Pharmacology (12.3)], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status.
 
 | Drug/Substance Class or Name | Drug Interaction Effect | Recommendations |
 | --- | --- | --- |

@@ -383,7 +383,7 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 
 The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-- •Nervous System: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
+- •Nervous System:Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 - •Special Senses: Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
 - •Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, esophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, stomatitis
 - •Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation
@@ -415,11 +415,10 @@ Other reactions include:
 - •Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
 - •Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
+
 - •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES), progressive multifocal leukoencephalopathy (PML), quadriplegia, speech disorder, syncope
 - •Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - •Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
-- Postmarketing Adverse Reactions in Lung Transplantation Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with PROGRAF is consistent with the safety profile in kidney, liver, and heart transplant patients treated with PROGRAF.
-  The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
-  As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.
+- Postmarketing Adverse Reactions in Lung Transplantation

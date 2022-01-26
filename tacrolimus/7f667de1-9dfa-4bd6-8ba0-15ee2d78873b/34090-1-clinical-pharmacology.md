@@ -132,9 +132,9 @@ Summary of Whole Blood PK Parameters of Tacrolimus after Administration of PROGR
 | Population | N(age range) |  | Parameters |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | AUCtau [hr*ng/mL]mean ± SD | Cmax [ng/mL]mean ± SD | Tmax [hr]mean ± SD | Ctrough [ng/mL]mean ± SD |  |  |  |
-| Heart Transplant Patients | 12 (0.58-13 years) | Day 1 Day 7 | 224.13 ± 114.30 165.17 ± 39.12 | 45.61 ± 19.55 32.69 ± 9.78 | 2.95 ± 4.33 0.84 ± 0.44 | 12.60 ± 13.40 7.57 ± 1.80 |
-| Liver Transplant Patients | 14 (0.33-12 years) | Day 1 Day 7 | 210.56 ± 84.01 195.08 ± 94.63 | 25.11 ± 10.78 30.52 ± 19.35 | 2.73 ± 1.84 1.71 ± 1.12 | 13.41 ± 7.11 9.71 ± 4.03 |
-| Kidney Transplant Patients | 12 (2.42-11 years) | Day 1 Day 7 | 97.40 ± 36.77 208.32 ± 68.75 | 18.04 ± 8.10 36.63 ± 13.97 | 1.78 ± 0.88 1.09 ± 0.61 | 3.54 ± 1.45 8.92 ± 3.59 |
+| Heart Transplant Patients | 12 (0.58-13 years) | Day 1Day 7 | 224.13 ± 114.30165.17 ± 39.12 | 45.61 ± 19.5532.69 ± 9.78 | 2.95 ± 4.330.84 ± 0.44 | 12.60 ± 13.407.57 ± 1.80 |
+| Liver Transplant Patients | 14 (0.33-12 years) | Day 1Day 7 | 210.56 ± 84.01195.08 ± 94.63 | 25.11 ± 10.7830.52 ± 19.35 | 2.73 ± 1.841.71 ± 1.12 | 13.41 ± 7.119.71 ± 4.03 |
+| Kidney Transplant Patients | 12 (2.42-11 years) | Day 1Day 7 | 97.40 ± 36.77208.32 ± 68.75 | 18.04 ± 8.1036.63 ± 13.97 | 1.78 ± 0.881.09 ± 0.61 | 3.54 ± 1.458.92 ± 3.59 |
 
 Renal and Hepatic Impaired Patients
 
@@ -149,7 +149,7 @@ Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 | Mild Hepatic Impairment (n = 6) | 0.02mg/kg/4 hrIV | 367 ± 107(t = 72 hr) | 60.6 ± 43.8Range: 27.8 – 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
 | 7.7 mgPO | 488 ± 320(t = 72 hr) | 66.1 ± 44.8Range: 29.5 – 138 | 3.7 ± 4.7Corrected for bioavailability | 0.034 ± 0.019 |  |
 | Severe Hepatic Impairment (n = 6, IV) | 0.02 mg/kg/4 hrIV (n = 2) 0.01 mg/kg/8 hrIV (n = 4) | 762 ± 204(t = 120 hr) 289 ± 117(t = 144 hr) | 198 ± 158Range: 81 – 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
-| (n = 5, PO)1 patient did not receive the PO dose | 8 mg PO(n = 1) 5 mg PO(n = 4)4 mg PO(n = 1) | 658(t = 120 hr) 533 ± 156(t = 144 hr) | 119 ± 35Range: 85 – 178 | 3.1 ± 3.4 | 0.016 ± 0.011 |
+| (n = 5, PO)1 patient did not receive the PO dose | 8 mg PO(n = 1) 5 mg PO(n = 4)4 mg PO(n = 1) | 658(t = 120 hr) 533 ± 156(t = 144 hr) | 119 ± 35Range: 85 – 178 |  | 0.016 ± 0.011 |
 
 Patients with Renal Impairment
 
@@ -166,7 +166,7 @@ The mean clearance was substantially lower in patients with severe hepatic dysfu
 
 Patients with Cystic Fibrosis
 
-Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2, 2.3)].
+Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2,2.3)].
 
 Racial or Ethnic Groups
 

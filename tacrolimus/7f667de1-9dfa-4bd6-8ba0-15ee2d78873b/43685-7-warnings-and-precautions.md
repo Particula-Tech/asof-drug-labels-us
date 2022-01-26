@@ -29,7 +29,7 @@ Monitor for the development of infection and adjust the immunosuppressive regime
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or overexposure to tacrolimus.
 PROGRAF is not interchangeable or substitutable for tacrolimus extended-release products.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
-Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
+Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [seeDosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
