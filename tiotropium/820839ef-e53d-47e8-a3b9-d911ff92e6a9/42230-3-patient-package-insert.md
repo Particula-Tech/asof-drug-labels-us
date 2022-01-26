@@ -171,7 +171,7 @@ It may harm them.
 For more information about SPIRIVA HANDIHALER, talk with your doctor.
 You can ask your doctor or pharmacist for information about SPIRIVA HANDIHALER that is written for health professionals.
 
-For more information about SPIRIVA HANDIHALER, go to www.SPIRIVA.com, or scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For current prescribing information for SPIRIVA HANDIHALER, scan the code or for additional information you may also call Boehringer Ingelheim Pharmaceuticals, Inc., at 1-800-542-6257.
 
 What are the ingredients in SPIRIVA HANDIHALER?
 
@@ -191,10 +191,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
+SPIRIVA® and HANDIHALER® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: February 2018
+Revised: November 2021
 
-IT5300LA312018
+COL10494AK082021

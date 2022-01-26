@@ -96,7 +96,7 @@ Cleaning your HANDIHALER device:
 | Helpful Hints to help ensure that you are properly taking your full daily dose of SPIRIVA HANDIHALER: Press the green piercing button 1 time; Breathe in 2 times; Breathe out completely before each of the 2 inhalations.Always use the new HANDIHALER device provided with your medicine.Keep your HANDIHALER device with the mouthpiece pointed up when pressing the green piercing button.Press the green piercing button 1 time to pierce the SPIRIVA capsule.Do not breathe out into your HANDIHALER device.Keep your HANDIHALER device in a horizontal position and keep your head upright, looking straight ahead, when breathing in.Check the center chamber of your HANDIHALER device for SPIRIVA capsule pieces or powder build-up. If pieces or powder are seen, tap out before use.Clean your HANDIHALER as needed and dry thoroughly. |
 | --- |
 
-For more information, ask your doctor or pharmacist, or go to www.spiriva.com, or scan the code below, or call 1-800-542-6257 or (TTY) 1-800-459-9906.
+For current prescribing information for SPIRIVA HANDIHALER, scan the code or for additional information you may also call Boehringer Ingelheim Pharmaceuticals, Inc., at 1-800-542-6257.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -104,10 +104,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
+SPIRIVA® and HANDIHALER® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: February 2018
+Revised: November 2021
 
-IT5300LA312018
+COL10494AK082021

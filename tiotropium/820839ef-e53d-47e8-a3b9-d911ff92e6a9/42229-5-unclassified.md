@@ -1,9 +1,11 @@
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
+Licensed from: Boehringer Ingelheim International GmbH
 
-SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
+Address medical inquiries to: (800) 542-6257.
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+SPIRIVA® and HANDIHALER® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH.
 
-IT5300LA312018
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+
+COL10494AK082021

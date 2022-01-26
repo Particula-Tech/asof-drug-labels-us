@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 SPIRIVA HANDIHALER consists of SPIRIVA capsules and the HANDIHALER device.
-SPIRIVA capsules contain 18 mcg of tiotropium and are light green, with the Boehringer Ingelheim company logo on the SPIRIVA capsule cap and TI 01 on the SPIRIVA capsule body, or vice versa.
+SPIRIVA capsules contain 18 mcg of tiotropium and are light green, with the Boehringer Ingelheim company logo on the SPIRIVA capsule cap and "TI 01" on the SPIRIVA capsule body, or vice versa.
 
 The HANDIHALER device is gray colored with a green piercing button.
 It is imprinted with SPIRIVA HANDIHALER (tiotropium bromide inhalation powder), the Boehringer Ingelheim company logo.
@@ -22,7 +22,7 @@ Do not get powder into eyes.
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 The SPIRIVA capsules should not be exposed to extreme temperature or moisture.
 Do not store SPIRIVA capsules in the HANDIHALER device.
