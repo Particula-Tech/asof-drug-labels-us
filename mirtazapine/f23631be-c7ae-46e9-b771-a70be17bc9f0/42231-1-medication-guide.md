@@ -74,7 +74,7 @@ Before taking mirtazapine tablets, tell your healthcare provider about all your 
   It is not known if mirtazapine tablets will harm your unborn baby.
 - •Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with mirtazapine tablets.
 - •If you become pregnant while taking mirtazapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-  You can register by calling 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/antidepressants/.
+  You can register by calling 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
   The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with mirtazapine tablets at any time during pregnancy.
 - •are breastfeeding or plan to breastfeed.
   Mirtazapine tablets may pass into your breast milk.
@@ -166,6 +166,10 @@ Mirtazapine tablets may cause serious side effects, including:
   Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Heart rhythm problems.
+- •Severe skin reaction.
+  Mirtazapine tablets may cause a severe skin reaction that may include rash, fever, swollen glands, and other organ involvement such as liver, kidney, lung and heart.
+  The reaction may sometimes be fatal.
+  Tell your healthcare provider right away if you experience any of these signs.
 - •Increased appetite and weight gain.
 - •Sleepiness.
   See, “What should I avoid while taking mirtazapine tablets?”
@@ -272,4 +276,4 @@ Cranbury, NJ 08512
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 05/2020
+Revised: 11/2021

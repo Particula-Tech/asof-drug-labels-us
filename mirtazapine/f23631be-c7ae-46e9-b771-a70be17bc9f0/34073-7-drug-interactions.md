@@ -26,7 +26,7 @@ Table 5: Clinically Important Drug Interactions with Mirtazapine Tablets
 | Intervention | Decrease the dose of mirtazapine tablets if needed with concomitant cimetidine use. Conversely, an increase in dosage of mirtazapine tablets may be needed if cimetidine is discontinued [see Dosage and Administration (2.5)]. |
 | Benzodiazepines and Alcohol |  |
 | Clinical Impact | The concomitant use of benzodiazepines or alcohol with mirtazapine tablets increases the impairment of cognitive and motor skills produced by mirtazapine tablets alone. |
-| Intervention | Avoid concomitant use of benzodiazepines and alcohol with mirtazapine tablets [see Warnings and Precautions (5.7),Clinical Pharmacology (12.3)]. |
+| Intervention | Avoid concomitant use of benzodiazepines and alcohol with mirtazapine tablets [see Warnings and Precautions (5.8),Clinical Pharmacology (12.3)]. |
 | Examples | diazepam, alprazolam, alcohol |
 | Drugs that Prolong QTc Interval |  |
 | Clinical Impact | The concomitant use of other drugs which prolong the QTc interval with mirtazapine tablets, increase the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). |

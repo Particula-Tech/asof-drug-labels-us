@@ -12,7 +12,7 @@ Risk Summary
 Prolonged experience with mirtazapine in pregnant women, based on published observational studies and postmarketing reports, has not reliably identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
-In animal reproduction studies, oral administration of mirtazpine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m2 body surface area.
+In animal reproduction studies, oral administration of mirtazapine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m2 body surface area.
 However, in rats, there was an increase in postimplantation loss at 20 times the MRHD based on mg/m2 body surface area.
 Oral administration of mirtazapine to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths and a decrease in pup birth weights at doses 20 times the MRHD based on mg/m2 body surface area (see Data).
 
@@ -61,20 +61,21 @@ Two placebo-controlled trials in 258 pediatric patients with MDD have been condu
 Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning and Warnings and Precautions (5.1)].
 
 In an 8-week-long clinical trial in pediatric patients receiving doses between 15 to 45 mg per day, 49% of mirtazapine tablets-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
-The mean increase in weight was 4 kg (2 kg SD) for mirtazapine tablets treated patients versus 1 kg (2 kg SD) for placebo-treated patients [see Warnings and Precautions (5.6)].
+The mean increase in weight was 4 kg (2 kg SD) for mirtazapine tablets-treated patients versus 1 kg (2 kg SD) for placebo-treated patients [see Warnings and Precautions (5.7)].
 
 ## 8.5 Geriatric Use
 
-Approximately 190 patients ≥65 years of age participated in clinical studies with mirtazapine tablets are known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
+Approximately 190 patients ≥65 years of age participated in clinical studies with mirtazapine tablets.
+Mirtazapine tablets are known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
 Pharmacokinetic studies revealed a decreased clearance of mirtazapine in the elderly [see Clinical Pharmacology (12.3)].
 
 Sedating drugs, including mirtazapine tablets, may cause confusion and over-sedation in the elderly.
 Elderly patients may be at greater risk of developing hyponatremia.
-Caution is indicated when administering mirtazapine tablets to elderly patients [see Warnings and Precautions (5.11),(5.14) and Clinical Pharmacology (12.3)].
+Caution is indicated when administering mirtazapine tablets to elderly patients [see Warnings and Precautions (5.12),(5.15) and Clinical Pharmacology (12.3)].
 In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Renal or Hepatic Impairment
 
 The clearance of mirtazapine is reduced in patients with moderate to severe renal or hepatic impairment.
 Consequently, plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in patients without renal or hepatic impairment.
-Dosage decrease may be necessary when administering mirtazapine tablets to patients with moderate to severe renal or hepatic impairment [see Warnings and Precautions (5.12),Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
+Dosage decrease may be necessary when administering mirtazapine tablets to patients with moderate to severe renal or hepatic impairment [see Warnings and Precautions (5.13),Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].

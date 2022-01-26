@@ -11,7 +11,7 @@ In rats, there was an increase in hepatocellular adenoma in females at the mid a
 
 Mutagenesis
 
-Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinesemhamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, invivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
+Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
 
 Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD), based on body surface area (mg/m2)].
 Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.
