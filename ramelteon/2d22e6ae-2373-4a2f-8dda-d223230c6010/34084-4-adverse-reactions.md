@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 Adverse Reactions Resulting in Discontinuation of Treatment
 
-The data described in this section reflects exposure to ramelteon in 5,373 subjects, including 722 exposed for six months or longer, and 448 subjects for one year.
+The data described in this section reflect exposure to ramelteon in 5,373 subjects, including 722 exposed for six months or longer, and 448 subjects for one year.
 
 Six percent of the 5,373 individual subjects exposed to ramelteon in clinical studies discontinued treatment owing to an adverse event, compared with 2% of the 2,279 subjects receiving placebo.
 The most frequent adverse events leading to discontinuation in subjects receiving ramelteon tablets were somnolence, dizziness, nausea, fatigue, headache, and insomnia; all of which occurred in 1% of the patients or less.

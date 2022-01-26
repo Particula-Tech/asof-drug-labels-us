@@ -19,7 +19,8 @@ Mutagenesis
 Ramelteon was not genotoxic in the in vitro bacterial reverse mutation (Ames) assay, the in vitro mouse lymphoma TK+/- assay, and in in vivo oral micronucleus assays in mouse and rat.
 Ramelteon was clastogenic in the in vitro chromosomal aberration assay in Chinese hamster lung cells.
 
-Separate studies indicated that the concentration of the M-II metabolite formed in the presence of metabolic activation exceeded the concentration of ramelteon; therefore, the genotoxic potential of the M-II metabolite was also assessed in the in vitro studies.
+The M-II metabolite was not tested for genotoxicity.
+However, it was present in the test medium of the parent drug at concentrations higher than those of the parent.
 
 Impairment of Fertility
 
