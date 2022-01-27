@@ -16,7 +16,17 @@ However, in patients other than neonates, Ceftriaxone for Injection and Dextrose
 In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium.
 [see Drug Interactions (7.2)]
 
-## 5.3 Clostridioides difficile-associated Diarrhea
+## 5.3 Neurological Adverse Reactions
+
+Serious neurological adverse reactions have been reported during postmarketing surveillance with ceftriaxone use.
+These reactions include encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and non-convulsive status epilepticus [see Adverse Reactions (6.2)].
+Some cases occurred in patients with severe renal impairment who did not receive appropriate dosage adjustment.
+However, in other cases, neurological adverse reactions occurred in patients receiving an appropriate dosage adjustment.
+The neurological adverse reactions were reversible and resolved after discontinuation.
+If neurological adverse reactions associated with Ceftriaxone for Injection and Dextrose Injection therapy occur, discontinue Ceftriaxone for Injection and Dextrose Injection and institute appropriate supportive measures.
+Make appropriate dosage adjustments in patients with severe renal impairment [see Dosage and Administration (2.1)].
+
+## 5.4 Clostridioides difficile-associated Diarrhea
 
 Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ceftriaxone, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -29,20 +39,20 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.4 Hemolytic Anemia
+## 5.5 Hemolytic Anemia
 
 An immune mediated hemolytic anemia has been observed in patients receiving cephalosporin class antibacterials including ceftriaxone.
 Severe cases of hemolytic anemia, including fatalities, have been reported during treatment in both adults and children.
 If a patient develops anemia while on Ceftriaxone for Injection and Dextrose Injection, the diagnosis of a cephalosporin associated anemia should be considered and Ceftriaxone for Injection and Dextrose Injection stopped until the etiology is determined.
 
-## 5.5 Hypersensitivity to Dextrose Products
+## 5.6 Hypersensitivity to Dextrose Products
 
 Hypersensitivity reactions, including anaphylaxis, have been reported with administration of dextrose products.
 These reactions have been reported in patients receiving high concentrations of dextrose (i.e.
 50% dextrose)1.
 The reactions have also been reported when corn-derived dextrose solutions were administered to patients with or without a history of hypersensitivity to corn products2.
 
-## 5.6 Gallbladder Pseudolithiasis
+## 5.7 Gallbladder Pseudolithiasis
 
 Ceftriaxone-calcium precipitates in the gallbladder have been observed in patients receiving ceftriaxone.
 These precipitates appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
@@ -51,7 +61,7 @@ Patients may be asymptomatic or may develop symptoms of gallbladder disease.
 The condition appears to be reversible upon discontinuation of ceftriaxone and institution of conservative management.
 Discontinue ceftriaxone in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
 
-## 5.7 Urolithiasis and Post-Renal Acute Renal Failure
+## 5.8 Urolithiasis and Post-Renal Acute Renal Failure
 
 Ceftriaxone-calcium precipitates in the urinary tract have been observed in patients receiving ceftriaxone and may be detected as sonographic abnormalities.
 The probability of such precipitates appears to be greatest in pediatric patients.
@@ -60,28 +70,28 @@ The condition appears to be reversible upon discontinuation of ceftriaxone and i
 Ensure adequate hydration in patients receiving ceftriaxone.
 Discontinue ceftriaxone in patients who develop signs and symptoms suggestive of urolithiasis, oliguria or renal failure and/or the sonographic findings described above.
 
-## 5.8 Patients with Hepatic and Renal Impairment
+## 5.9 Patients with Hepatic and Renal Impairment
 
 In patients with both hepatic impairment and significant renal disease, Ceftriaxone for Injection and Dextrose Injection dosage should not exceed 2 g daily.
 
-## 5.9 Pancreatitis
+## 5.10 Pancreatitis
 
 Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported in patients treated with ceftriaxone sodium.
 Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
 A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out.
 
-## 5.10 Development of Drug-resistant Bacteria
+## 5.11 Development of Drug-resistant Bacteria
 
 Prescribing Ceftriaxone for Injection and Dextrose Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 As with other antibacterial drugs, use of Ceftriaxone for Injection and Dextrose Injection may result in overgrowth of nonsusceptible organisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 
-## 5.11 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
+## 5.12 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
 
 As with other dextrose-containing solutions, Ceftriaxone for Injection and Dextrose Injection should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.
 
-## 5.12 Alterations in Prothrombin Time
+## 5.13 Alterations in Prothrombin Time
 
 Alterations in prothrombin times have occurred in patients treated with ceftriaxone sodium.
 Patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition) may require monitoring of prothrombin time during Ceftriaxone for Injection and Dextrose Injection treatment.

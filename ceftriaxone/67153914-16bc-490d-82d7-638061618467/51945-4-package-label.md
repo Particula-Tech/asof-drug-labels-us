@@ -6,7 +6,7 @@ CefTRIaxONE for Injection and Dextrose Injection
 
 REF 3153-11 NDC 0264-3153-11
 
-DUPLEX® CONTAINER
+DUPLEX®CONTAINER
 
 50 mL
 
@@ -68,7 +68,7 @@ CefTRIaxONE for Injection and Dextrose Injection
 
 REF 3155-11 NDC 0264-3155-11
 
-DUPLEX® CONTAINER
+DUPLEX®CONTAINER
 
 50 mL
 

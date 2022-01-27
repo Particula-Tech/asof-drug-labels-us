@@ -67,7 +67,7 @@ Average pharmacokinetic parameters of ceftriaxone in healthy subjects, elderly s
 Compared to healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal or hepatic impairment; therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 g per day.
 Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis.
 In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced, suggesting that plasma concentrations of ceftriaxone should be monitored in these patients to determine if dosage adjustments are necessary.
-[see Dosage and Administration (2.1) and Warnings and Precautions (5.6)]
+[see Dosage and Administration (2.1) and Warnings and Precautions (5.7)]
 
 TABLE 5: Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 
@@ -80,7 +80,7 @@ TABLE 5: Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 | Severe (5-15 mL/min) | 15.7 | 0.56 | 12.5 |
 | Moderate (16-30 mL/min) | 11.4 | 0.72 | 11.8 |
 | Mild (31-60 mL/min) | 12.4 | 0.70 | 13.3 |
-| Patients with Liver Disease | 8.8 | 1.1 | 13.6 |
+| Patients With Liver Disease | 8.8 | 1.1 | 13.6 |
 
 ### Drug Interactions
 

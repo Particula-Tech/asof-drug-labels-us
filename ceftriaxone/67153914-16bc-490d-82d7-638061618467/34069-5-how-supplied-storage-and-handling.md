@@ -13,7 +13,7 @@ Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyro
 | 0264-3155-11 | 3155-11 | 2 g | 50 mL |
 
 Store the unactivated unit at 20-25°C (68-77°F).
-Excursions permitted to 15 - 30°C (59-86°F).
+Excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature.]
 Do not freeze.
 

@@ -5,6 +5,11 @@ Serious Allergic Reactions
 Patients should be advised that allergic reactions, including serious allergic reactions could occur and that serious reactions require immediate treatment and discontinuation of ceftriaxone.
 Patients should report to their health care provider any previous allergic reactions to ceftriaxone, cephalosporins, penicillins, or other similar antibacterials.
 
+Neurological Adverse Reactions
+
+Advise patients that neurological adverse reactions could occur with Ceftriaxone for Injection and Dextrose Injection use.
+Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and non-convulsive status epilepticus, for immediate treatment, or discontinuation of Ceftriaxone for Injection and Dextrose Injection [see Warnings and Precautions (5.3)].
+
 Diarrhea
 
 Patients should be advised that diarrhea is a common problem caused by antibacterials, which usually ends when the antibacterial is discontinued.
