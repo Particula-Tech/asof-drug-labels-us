@@ -22,7 +22,7 @@ http://www.muserx.net
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
 CAT.
-NO. 06-10-01256D
+NO. 06-10-01256E
 
 UC-100100-04
 
@@ -52,7 +52,7 @@ http://www.muserx.net
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
 CAT.
-NO. 06-10-02506D
+NO. 06-10-02506E
 
 UC-100200-04
 
@@ -82,7 +82,7 @@ http://www.muserx.net
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
 CAT.
-NO. 06-10-05006D
+NO. 06-10-05006E
 
 UC-100300-04
 
@@ -112,7 +112,7 @@ http://www.muserx.net
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
 CAT.
-NO. 06-10-10006D
+NO. 06-10-10006E
 
 UC-100400-05
 
