@@ -30,7 +30,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Tray Lab
 
 For intravenous use.
 
-10 x10 mL
+10 x 10 mL
 
 Multiple Dose Vials
 

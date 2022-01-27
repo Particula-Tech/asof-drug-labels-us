@@ -5,6 +5,7 @@ Rocuronium Bromide Injection is available in the following:
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
 | 402605 | NDC 63323-426-05 Unit of 10 | 50 mg per 5 mL (10 mg per mL) | NDC 63323-426-02 5 mL Multiple Dose Vial |
+| RF402605 | NDC 65219-065-05 Unit of 10 | 50 mg per 5 mL (10 mg per mL) | NDC 65219-065-02 5 mL Multiple Dose Vial This product contains an RFID |
 | 402610 | NDC 63323-426-10 Unit of 10 | 100 mg per 10 mL (10 mg per mL) | NDC 63323-426-01 10 mL Multiple Dose Vial |
 
 The container closure is not made with natural rubber latex.
