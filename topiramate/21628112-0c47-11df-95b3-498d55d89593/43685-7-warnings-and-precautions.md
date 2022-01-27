@@ -39,12 +39,12 @@ Conditions or therapies that predispose patients to acidosis (such as renal dise
 
 Metabolic acidosis was commonly observed in adult and pediatric patients treated with TOPAMAX® in clinical trials.
 The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial-onset seizures was as high as 67% for TOPAMAX® (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.11)].
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
+A one-year, active-controlled study of pediatric patients treated with TOPAMAX® demonstrated that TOPAMAX® decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
-The effect of TOPAMAX® on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 TOPAMAX® treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
@@ -129,6 +129,7 @@ In pediatric migraine patients, the incidence of cognitive/neuropsychiatric adve
 
 The risk for cognitive/neuropsychiatric adverse reactions was dose-dependent, and was greatest at the highest dose (200 mg).
 This risk for cognitive/neuropsychiatric adverse reactions was also greater in younger patients (6 to 11 years of age) than in older patients (12 to 17 years of age).
+
 The most common cognitive/neuropsychiatric adverse reaction in these trials was difficulty with concentration/attention.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted for various durations after completion of titration.
 
@@ -150,14 +151,31 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including TOPAMAX®, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of TOPAMAX® is medically required, appropriate monitoring is recommended.
 
-## 5.9 Serious Skin Reactions
+## 5.9 Decrease in Bone Mineral Density
+
+Results of a one-year active-controlled study in pediatric patients (N=63) demonstrated negative effects of TOPAMAX® monotherapy on bone mineral acquisition via statistically significant decreases in bone mineral density (BMD) measured in lumbar spine and in total body less head [see Use in Specific Populations (8.4)].
+Twenty-one percent of TOPAMAX®-treated patients experienced clinically important reductions in BMD (Z score change from baseline of –0.5 or greater) compared to 0 patients in the control group.
+Although decreases in BMD occurred across all pediatric age subgroups, patients 6 to 9 years of age were most commonly affected.
+The sample size and study duration were too small to determine if fracture risk is increased.
+Decreased BMD in the lumbar spine was correlated with decreased serum bicarbonate, which commonly occurs with TOPAMAX treatment and reflects metabolic acidosis, a known cause of increased bone resorption [see Warnings and Precautions (5.4)].
+Although small decreases in some markers of bone metabolism (e.g., serum alkaline phosphatase, calcium, phosphorus, and 1,25-dihydroxyvitamin D) occurred in TOPAMAX®-treated patients, more significant decreases in serum parathyroid hormone and 25-hydroxyvitamin D, hormones involved in bone metabolism, were observed, along with an increased excretion of urinary calcium.
+
+## 5.10 Negative Effects on Growth (Height and Weight)
+
+Results of a one-year active-controlled study of pediatric patients (N=63) demonstrated negative effects of TOPAMAX® monotherapy on growth (i.e., height and weight) [see Use in Specific Populations (8.4)].
+Although continued growth was observed in both treatment groups, the TOPAMAX® group showed statistically significant reductions in mean annual change from baseline in body weight compared to the control group.
+A similar trend of attenuation in height velocity and height change from baseline was also observed in the TOPAMAX® group compared to the control group.
+Negative effects on weight and height were seen across all TOPAMAX® age subgroups.
+Growth (height and weight) of children receiving prolonged TOPAMAX® therapy should be carefully monitored.
+
+## 5.11 Serious Skin Reactions
 
 Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
 TOPAMAX should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 Inform patients about the signs of serious skin reactions.
 
-## 5.10 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
+## 5.12 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
 
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
@@ -181,7 +199,7 @@ Although not studied, topiramate treatment or an interaction of concomitant topi
 
 In patients who develop unexplained lethargy, vomiting or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.11 Kidney Stones
+## 5.13 Kidney Stones
 
 TOPAMAX® increases the risk of kidney stones.
 During adjunctive epilepsy trials, the risk for kidney stones in TOPAMAX®-treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
@@ -197,7 +215,10 @@ The concomitant use of TOPAMAX® with any other drug producing metabolic acidosi
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.12 Hypothermia with Concomitant Valproic Acid Use
+An increase in urinary calcium and a marked decrease in urinary citrate was observed in TOPAMAX-treated pediatric patients in a one-year active-controlled study [see Use in Specific Populations (8.4)].
+This increased ratio of urinary calcium/citrate increases the risk of kidney stones and/or nephrocalcinosis.
+
+## 5.14 Hypothermia with Concomitant Valproic Acid Use
 
 Hypothermia, defined as a drop in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid both in conjunction with hyperammonemia and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.1)].

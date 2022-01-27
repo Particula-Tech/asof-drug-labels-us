@@ -21,9 +21,6 @@ The primary efficacy assessment was a between-group comparison of time to first 
 Comparison of the Kaplan-Meier survival curves of time to first seizure favored the TOPAMAX® 400 mg/day group over the TOPAMAX® 50 mg/day group (Figure 1).
 The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
 
-| Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure in Study 1 |
-| --- |
-
 Pediatric Patients 2 to 9 Years of Age
 
 The conclusion that TOPAMAX® is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials described in labeling.
@@ -45,11 +42,11 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In the sixth study (Study 7), the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 11.
+The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 12.
 
 Pediatric Patients 2 to 16 Years of Age with Partial-Onset Seizures
 
-The effectiveness of TOPAMAX® as an adjunctive treatment for pediatric patients 2 to 16 years of age with partial-onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing TOPAMAX® and placebo in patients with a history of partial-onset seizures, with or without secondarily generalized seizures (see Table 12).
+The effectiveness of TOPAMAX® as an adjunctive treatment for pediatric patients 2 to 16 years of age with partial-onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing TOPAMAX® and placebo in patients with a history of partial-onset seizures, with or without secondarily generalized seizures (see Table 13).
 
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to TOPAMAX® tablets or placebo.
 In this study, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -61,7 +58,7 @@ After titration, patients entered an 8-week stabilization period.
 
 Patients With Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of TOPAMAX® as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of TOPAMAX® and placebo (see Table 12).
+The effectiveness of TOPAMAX® as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of TOPAMAX® and placebo (see Table 13).
 
 Patients in Study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to TOPAMAX® or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -73,7 +70,7 @@ After titration, patients entered a 12-week stabilization period.
 
 Patients With Lennox-Gastaut Syndrome
 
-The effectiveness of TOPAMAX® as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10) comparing a single dosage of TOPAMAX® with placebo in patients 2 years of age and older (see Table 12).
+The effectiveness of TOPAMAX® as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10) comparing a single dosage of TOPAMAX® with placebo in patients 2 years of age and older (see Table 13).
 
 Patients in Study 10 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to TOPAMAX® or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
@@ -83,7 +80,7 @@ After titration, patients entered an 8-week stabilization period.
 
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 11: TOPAMAX® Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures.
+Table 12: TOPAMAX® Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures.
 
 | Study | Stabilization Dose | PlaceboPlacebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol 3 4 tablets/day; Protocols 1 and 4, 6 tablets/day; Protocols 5 and 6, 8 tablets/day; Protocol 2, 10 tablets/day. | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,14 +105,14 @@ Table 11: TOPAMAX® Dose Summary During the Stabilization Periods of Each of Six
 |  | Median Dose | 8 | 200 | -- | -- | -- | -- |
 
 In all adjunctive trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 12.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 13.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/dayFor Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Target TOPAMAX Dosage (mg per day) |  |  |  |  |  |  |
+| Target TOPAMAX Dosage (mg per day) |  |  |  |  |  |  |  |  |
 | Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
 | 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
 | Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |  |
@@ -189,7 +186,9 @@ Because most patients were Caucasian, there were insufficient numbers of patient
 
 For patients withdrawing from TOPAMAX®, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
 
-| Figure 2: Reduction in 4-Week Migraine Headache Frequency (Studies 11 and 12 for Adults and Adolescents) |
+Figure 2: Reduction in 4-Week Migraine Headache Frequency
+
+| (Studies 11 and 12 for Adults and Adolescents) |
 | --- |
 
 Pediatric Patients 12 to 17 Years of Age
@@ -204,13 +203,13 @@ Approximately 80% or more patients in each treatment group completed the study.
 The median average daily dosages were 45 and 79 mg/day in the target dose groups of TOPAMAX® 50 and 100 mg/day, respectively.
 
 Effectiveness of treatment was assessed by comparing each TOPAMAX® treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
-The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 13.
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 14.
 The 100 mg TOPAMAX® dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg TOPAMAX® dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p = 0.0087).
 
-Table 13: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
+Table 14: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | (N=33) | (N=35) | (N=35) |
 | --- | --- | --- | --- |

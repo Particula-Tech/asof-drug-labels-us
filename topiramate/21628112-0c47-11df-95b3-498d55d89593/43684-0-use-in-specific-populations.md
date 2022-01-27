@@ -123,7 +123,7 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.12)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -137,6 +137,40 @@ It is not possible to know whether this mortality rate is related to topiramate 
 Monotherapy Treatment in Partial-Onset Epilepsy in Patients <2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
+
+Monotherapy Treatment in Patients 2 Years of Age and Older
+
+The safety and effectiveness for partial-onset seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+
+A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of TOPAMAX® (N=28, 6–15 years of age) versus levetiracetam (N=35, 4–15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
+Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
+Table 10 summarizes effects of TOPAMAX® at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+All Least Square Mean values for TOPAMAX® and the comparator were positive.
+Therefore, the Least Square Mean treatment differences shown reflect a TOPAMAX®-induced attenuation of the key safety outcomes.
+Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
+Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
+
+Table 10 Summary of TOPAMAX® Treatment Difference Results at 12 Months for Key Safety Outcomes
+
+| Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |  |  |
+| --- | --- | --- | --- |
+| Annual Change in BMD Lumbar Spine (g/cm2) | -0.036 |  | (-0.058, -0.014) |
+| Annual Change in BMD TBLHTBLH=total body less head (g/cm2) | -0.026 |  | (-0.039, -0.012) |
+| Annual Change in Height (cm) (4–9 years, Primary Analysis Population for Height) Whereas no patients were randomized to 2–5 year age subgroup for TOPAMAX®, 5 patients (4–5 years) were randomized to the active control group. | -0.84 |  | (-2.67, 0.99) |
+| Annual Change in Height (cm) (4–15 years) | -0.75 |  | (-2.21, 0.71) |
+| Annual Change in Height (cm) (10–15 years) | -1.01 |  | (-3.64, 1.61) |
+| Height Velocity (cm/year) (4–9 years) | -1.00 |  | (-2.76, 0.76) |
+| Height Velocity (cm/year) (4–15 years) | -0.98 |  | (-2.33, 0.37) |
+| Height Velocity (cm/Year) (10–15 years) | -0.96 |  | (-3.24, 1.32) |
+| Annual Change in Weight (kg) | -2.05 |  | (-3.66, -0.45) |
+
+Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all TOPAMAX®-treated patients at some time in the study [see Warnings and Precautions (5.4)].
+Over the whole study, 76% more TOPAMAX®-treated patients experienced persistent metabolic acidosis (i.e.
+2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam -treated patients.
+Over the whole study, 35% more TOPAMAX®-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam -treated patients.
+The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
+
+TOPAMAX®-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
 
 Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
 
@@ -154,7 +188,7 @@ The most common cognitive adverse reaction in pooled double-blind studies in ped
 Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated pediatric migraine patients [see Warnings and Precautions (5.4)].
 
 In topiramate-treated pediatric patients (12 to 17 years of age) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
-Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Clinical Trials Experience (6.1)].
+Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Adverse Reactions (6.1)].
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 

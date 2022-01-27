@@ -95,12 +95,12 @@ In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a m
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 10.
+The effects of these interactions on mean plasma AUCs are summarized in Table 11.
 
-In Table 10, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
+In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to TOPAMAX® given alone.
 
-Table 10: Summary of AED Interactions with TOPAMAX®
+Table 11: Summary of AED Interactions with TOPAMAX®
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
