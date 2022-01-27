@@ -15,14 +15,20 @@ This AUC 0-∞ is approximately 4% of the reported AUC of metronidazole followin
 
 ## 12.4 Microbiology
 
-Metronidazole is a nitroimidazole antimicrobial agent that acts primarily against anaerobic bacteria and selected protozoa.
+Mechanism of Action Metronidazole is a nitroimidazole antimicrobial agent that acts primarily against anaerobic bacteria and selected protozoa.
 The 5-nitro group on the metronidazole molecule is reduced by metabolically active anaerobes to its active state by the bacterial nitro-reductase enzyme after it diffuses into the bacterial cell.
 This results in the production of cytotoxic compounds that disrupt the helical structure of bacterial DNA thereby inhibiting bacterial nucleic acid synthesis which leads to cell death.
 
-Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies (14)].
+Resistance The mechanism of resistance, like for other nitroimidazoles, appears to be multifactorial that include decreased uptake of the drug, higher efflux activity, and/or altered nitroreductase activity.
 
-Metronidazole is active in vitro against most isolates of the following organisms that have been reported to be associated with bacterial vaginosis:
+Antibacterial Activity Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies (14)].
+The following in vitro data are available, but their clinical significance is unknown.
+Metronidazole is active in vitro against most isolates of the following organisms reported to be associated with bacterial vaginosis:
 
 Bacteroides spp.
-Gardnerella vaginalis Mobiluncus spp.
+
+Gardnerella vaginalis
+
+Mobiluncus spp.
+
 Peptostreptococcus spp.

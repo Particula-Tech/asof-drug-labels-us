@@ -17,7 +17,7 @@ Data
 Human Data
 
 Blood levels following NUVESSA vaginal administration are lower than those achieved with oral metronidazole.
-Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (C max) and total exposure (AUC0 -∞) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology (12.3)].
+Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (C max) and total exposure (AUC 0-∞) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology (12.3)].
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 
 There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
@@ -42,24 +42,25 @@ The relationship of these intraperitoneal findings in mice to the vaginal use of
 
 Risk Summary
 
-There is no information on the presence of metronidazole in human milk, or the effects on the breast-fed child, or the effects on milk production following intravaginal administration of NUVESSA.
-Metronidazole is present in human milk following oral metronidazole administration, at concentrations similar to plasma concentrations (see Data).
-Since some metronidazole is systemically absorbed following vaginal administration of NUVESSA, excretion in human milk following topical use is possible.
+There are no data on the presence of metronidazole in human milk following intravaginal administration.
+Metronidazole is present in human milk following oral metronidazole administration, at concentrations similar to those found in plasma (see Data).
+The metronidazole vaginal gel achieves 2% of the mean maximum serum concentration of a 500 mg oral metronidazole [see Clinical Pharmacology (12.3)].
+The published literature reports no adverse effects in infants exposed through breastmilk to maternal orally administered metronidazole.
+There are no data on the effects on milk production.
 
-Because of the potential risk for tumorigenicity shown in animal studies with metronidazole, breastfeeding is not recommended during treatment with NUVESSA and for 2 days (based on half-life) after NUVESSA therapy ends (see Clinical Considerations).
-
-Clinical Considerations
-
-A nursing mother may choose to pump and discard her milk during NUVESSA therapy and for 2 days after NUVESSA therapy ends, and feed her infant stored human milk or formula.
+Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice [see Nonclinical Toxicology (13.1)].
+The clinical relevance of these findings is unclear.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NUVESSA, and any potential adverse effects on the breastfed child from NUVESSA or from the underlying maternal condition.
+Alternatively, a lactating patient may interrupt breastfeeding and choose to pump and discard breastmilk during treatment with NUVESSA and for 48 hours after the last dose and feed her infant previously stored human milk or formula.
 
 Data
 
-In a study of nursing mothers receiving oral metronidazole 600 (n=11) or 1200 (n=4) mg daily, mean maternal plasma concentrations were 5.0 and 12.5 mcg/mL, respectively, within 2 hours following administration; the milk: maternal plasma ratio was approximately 1.
+In a study of lactating women receiving oral metronidazole 600 mg (n=11) or 1200 mg (n=4) daily, mean maternal plasma concentrations were 5.0 and 12.5 mcg/mL respectively, within 2 hours following administration; the milk: maternal plasma ratio was approximately 1.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of NUVESSA have been established in pediatric subjects between the ages of 12 and less than 18 years old.
-Use of NUVESSA in this age group is supported by evidence from a multicenter, open-label safety and tolerability study in 60 pediatric subjects with bacterial vaginosis [see Adverse Reactions (6.1)] and, evidence from adequate and well-controlled studies in adult women,
+Use of NUVESSA in this age group is supported by evidence from a multicenter, open-label safety and tolerability study in 60 pediatric patients with bacterial vaginosis [see Adverse Reactions (6.1)] and, evidence from adequate and well-controlled studies in adult women.
 
 The safety and effectiveness of NUVESSA in pediatric subjects below the age of 12 years have not been established.
 

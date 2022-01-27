@@ -6,7 +6,7 @@ NUVESSA is contraindicated in persons who have shown hypersensitivity to metroni
 
 ## 4.2 Use of Disulfiram
 
-Psychotic reactions have been reported with co-administration disulfiram and oral metronidazole.
+Psychotic reactions have been reported with co-administration of disulfiram and oral metronidazole.
 Do not administer concurrently with or within 2 weeks of disulfiram.
 
 ## 4.3 Concomitant Alcohol

@@ -44,8 +44,7 @@ The following adverse reactions and altered laboratory tests have been reported 
 Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Nervous System: The most serious adverse reactions reported in patients treated with oral metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
-In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
-[see Warnings and Precautions (5.1)]
+In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.1)].
 
 Gastrointestinal: Abdominal discomfort, nausea, vomiting, diarrhea, an unpleasant metallic taste, anorexia, epigastric distress, abdominal cramping, constipation, "furry" tongue, glossitis, stomatitis, pancreatitis, and modification of taste of alcoholic beverages.
 

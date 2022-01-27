@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-NUVESSA™ (metronidazole vaginal gel 1.3%)
+NUVESSA ® (metronidazole vaginal gel 1.3%)
 
 For vaginal use only.
 
@@ -56,19 +56,16 @@ Step 7: Remove the pre-filled applicator from your vagina and throw it away in y
 
 How should I store NUVESSA?
 
-- Store NUVESSA at room temperature between 68°F to 77°F.
+- Store NUVESSA at room temperature between 68°F to 77°F (20°-25°C).
 - Do not freeze.
 - Do not refrigerate.
 
 Keep NUVESSA and all medicines out of the reach of children.
 
-This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration.
-
 Rx only
 
 Distributed By: Exeltis USA, Inc.. 180 Park Ave., Florham Park, NJ 07932
 
-© 2018 Exeltis USA, Inc.. All rights reserved.
-NUVESSA™ is a trademark of Exeltis USA, Inc.
-
-Revised: 08/2018 4660501-02
+© 2022 Exeltis USA, Inc. All rights reserved.
+This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration.
+Revised: 01/2022
