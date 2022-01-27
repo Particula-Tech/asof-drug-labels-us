@@ -23,10 +23,7 @@ Physicians should advise patients of the reported signs and symptoms of secondar
 Strict adherence to the following precautions is advised to minimize the potential for secondary exposure to testosterone from AndroGel 1.62% in men [see Medication Guide]:
 
 - Children and women should avoid contact with unwashed or unclothed application site(s) of men using AndroGel 1.62%.
-- Patients using AndroGel 1.62% should apply the product as directed and strictly adhere to the following:
-  - Wash hands with soap and water immediately after application.
-  - Cover the application site(s) with clothing after the gel has dried.
-  - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
+- Patients using AndroGel 1.62% should apply the product as directed and strictly adhere to the following: ○ Wash hands with soap and water immediately after application. ○ Cover the application site(s) with clothing after the gel has dried. ○ Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
 - In the event that unwashed or unclothed skin to which AndroGel 1.62% has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens

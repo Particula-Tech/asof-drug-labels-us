@@ -27,7 +27,7 @@ Table 6: Mean (SD) Testosterone Concentrations (Cavg and Cmax) by final dose on 
 
 | Parameter | Final Dose on Day 112 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Placebo (n=27) | 20.25 mg (n=12) | 40.5 mg (n=34) | 60.75 mg (n=54) | 81 mg (n=79) | All Active (n=179) |  |
+|  | Placebo (n=27) | 20.25 mg (n=12) | 40.5 mg (n=34) | 60.75 mg (n=54) | 81 mg (n=79) | All Active (n=179) |
 | Cavg (ng/dL) | 303 (135) | 457 (275) | 524 (228) | 643 (285) | 537 (240) | 561 (259) |
 | Cmax (ng/dL) | 450 (349) | 663 (473) | 798 (439) | 958 (497) | 813 (479) | 845 (480) |
 |  | Final Dose on Day 364 |  |  |  |  |  |

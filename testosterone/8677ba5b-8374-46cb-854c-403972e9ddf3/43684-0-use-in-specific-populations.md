@@ -21,7 +21,7 @@ Structural impairments seen in male offspring included increased testicular weig
 Increased pituitary weight was seen in both sexes.
 
 Testosterone exposure in utero also resulted in hormonal and behavioral changes in offspring.
-Hypertension was observed in pregnant female rats and their offspring exposed to doses approximately twice those used fortestosterone replacement therapy.
+Hypertension was observed in pregnant female rats and their offspring exposed to doses approximately twice those used for testosterone replacement therapy.
 
 ## 8.2 Lactation
 
