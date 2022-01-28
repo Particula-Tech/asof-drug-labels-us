@@ -47,6 +47,8 @@ GENITOURINARY – oliguria.
 DERMATOLOGIC – exanthema, allergic dermatitis, urticaria, edema.
 As with many medications, isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
 
+NEUROLOGIC – Encephalopathy, seizures, myoclonus, and non-convulsive status epilepticus (see WARNINGS AND PRECAUTIONS).
+
 ## Cephalosporin Class Adverse Reactions
 
 In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics:

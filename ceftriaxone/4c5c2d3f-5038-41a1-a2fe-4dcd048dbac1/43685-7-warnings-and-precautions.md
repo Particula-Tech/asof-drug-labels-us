@@ -17,6 +17,16 @@ Ceftriaxone must not be administered simultaneously with calcium-containing IV s
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
 In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
+## Neurological Adverse Reactions
+
+Serious neurological adverse reactions have been reported during postmarketing surveillance with ceftriaxone use.
+These reactions include encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and non-convulsive status epilepticus (see ADVERSE REACTIONS).
+Some cases occurred in patients with severe renal impairment who did not receive appropriate dosage adjustment.
+However, in other cases, neurological adverse reactions occurred in patients receiving an appropriate dosage adjustment.
+The neurological adverse reactions were reversible and resolved after discontinuation.
+If neurological adverse reactions associated with Ceftriaxone Injection therapy occur, discontinue Ceftriaxone Injection and institute appropriate supportive measures.
+Make appropriate dosage adjustments in patients with severe renal impairment (see DOSAGE AND ADMINISTRATION).
+
 ## Clostridium difficile
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ceftriaxone Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
@@ -45,7 +55,7 @@ Prescribing Ceftriaxone Injection, USP in the absence of a proven or strongly su
 Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of Ceftriaxone Injection, USP is similar to that of other cephalosporins.
 
 Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
-Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered.
+Therefore, patients with mild to moderate renal impairment normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered.
 
 Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the Ceftriaxone Injection, USP dosage should not exceed 2 gm daily.
 
@@ -70,6 +80,9 @@ Most patients presented with risk factors for biliary stasis and biliary sludge 
 A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out.
 
 ## Information for Patients
+
+Advise patients that neurological adverse reactions could occur with Ceftriaxone Injection use.
+Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and nonconvulsive status epilepticus, for immediate treatment, or discontinuation of Ceftriaxone Injection (see WARNINGS AND PRECAUTIONS).
 
 Patients should be counseled that antibacterial drugs including Ceftriaxone Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).

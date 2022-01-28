@@ -43,4 +43,4 @@ The usual duration of therapy is 4 to 14 days; in complicated infections, longer
 
 When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.
 
-No dosage adjustment is necessary for patients with impairment of renal or hepatic function.
+No dosage adjustment is necessary for patients with impairment of hepatic impairment or mild to moderate renal impairment.
