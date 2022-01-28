@@ -9,7 +9,7 @@ Patients should be encouraged to enroll by calling 1-877-302-2161.
 
 Risk Summary
 
-Limited available data with SKYRIZI use in pregnant women are insufficient to evaluate a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcome.
+Available data with SKYRIZI use in pregnant women are insufficient to evaluate a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcome.
 Human IgG is known to cross the placental barrier; therefore, SKYRIZI may be transmitted from the mother to the developing fetus.
 
 In an enhanced pre- and post-natal developmental toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of 5 and 50 mg/kg risankizumab-rzaa once weekly during the period of organogenesis up to parturition.
@@ -26,13 +26,13 @@ Data
 Animal Data
 
 An enhanced pre- and post-natal developmental toxicity study was conducted in cynomolgus monkeys.
-Pregnant cynomolgus monkeys were administered weekly subcutaneous doses of risankizumab-rzaa of 5 or 50 mg/kg from gestation day 20 to parturition and the cynomolgus monkeys (mother and infants) were monitored for 6 months after delivery.
+Pregnant cynomolgus monkeys were administered weekly subcutaneous doses of risankizumab-rzaa of 5 or 50 mg/kg from gestation day 20 to parturition, and the cynomolgus monkeys (mother and infants) were monitored for 6 months after delivery.
 No maternal toxicity was noted in this study.
-There were no treatment-related effects on growth and development, malformations, developmental immunotoxicology or neurobehavioral development.
-However, a dose-dependent increase in fetal/infant loss was noted in the risankizumab-rzaa-treated groups (32% and 43% in the 5 mg/kg and 50 mg/kg groups, respectively) compared to the vehicle control group (19%).
+There were no treatment-related effects on growth and development, malformations, developmental immunotoxicology, or neurobehavioral development.
+However, a dose-dependent increase in fetal/infant loss was noted in the risankizumab-rzaa-treated groups (32% and 43% in the 5 mg/kg and 50 mg/kg groups, respectively) compared with the vehicle control group (19%).
 The increased fetal/infant loss in the 50 mg/kg group was considered to be related to risankizumab-rzaa treatment.
 The no observed adverse effect level (NOAEL) for maternal toxicity was identified as 50 mg/kg (20 times the MRHD, based on mg/kg comparison) and the NOAEL for developmental toxicity was identified as 5 mg/kg (2 times the MRHD, based on mg/kg comparison).
-In the infants, mean serum concentrations increased in a dose-dependent manner and were approximately 17-86% of the respective maternal concentrations.
+In the infants, mean serum concentrations increased in a dose-dependent manner and were approximately 17%-86% of the respective maternal concentrations.
 Following delivery, most adult female cynomolgus monkeys and all infants from the risankizumab-rzaa-treated groups had measurable serum concentrations of risankizumab-rzaa up to 91 days postpartum.
 Serum concentrations were below detectable levels at 180 days postpartum.
 
@@ -46,7 +46,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of SKYRIZI in pediatric patients less than 18 years of age have not yet been established.
+The safety and efficacy of SKYRIZI in pediatric patients younger than 18 years of age have not yet been established.
 
 ## 8.5 Geriatric Use
 

@@ -1,19 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Procedures Prior to Treatment Initiation
-
-● Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.2)].
-
-● Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.3)].
-
-## 2.2 Dosage
+## 2.1 Plaque Psoriasis
 
 The recommended dosage is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
 
-If a dose is missed, administer the dose as soon as possible.
-Thereafter, resume dosing at the regular scheduled time.
+## 2.2 Psoriatic Arthritis
 
-## 2.3 Preparation Instructions
+The recommended dosage is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+
+SKYRIZI may be administered alone or in combination with non-biologic disease-modifying antirheumatic drugs (DMARDs).
+
+## 2.3 Procedures Prior to Treatment Initiation
+
+● Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)].
+
+● Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.4)].
+
+## 2.4 Preparation Instructions
 
 ● Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe(s) from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe(s)).
 
@@ -25,11 +28,11 @@ SKYRIZI 75 mg/0.83 mL is a colorless to slightly yellow and clear to slightly op
 The solution may contain a few translucent to white particles.
 Do not use if the solution contains large particles or is cloudy or discolored.
 
-## 2.4 Administration Instructions
+## 2.5 Administration Instructions
 
 ● SKYRIZI is intended for use under the guidance and supervision of a healthcare professional.
 Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
-Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI according to the “Instructions for Use” [see Instructions for Use].
+Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI according to the “Instructions for Use”[see Instructions for Use].
 
 ● Administer SKYRIZI subcutaneously.
 Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
@@ -42,3 +45,6 @@ Inject one prefilled syringe after the other in different anatomic locations (su
 
 ● Discard prefilled pen or prefilled syringe(s) after use.
 Do not reuse.
+
+● If a dose is missed, administer the dose as soon as possible.
+Thereafter, resume dosing at the regular scheduled time.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Risankizumab-rzaa, an interleukin-23 antagonist, is a humanized immunoglobulin G1 (IgG1) monoclonal antibody.
+Risankizumab-rzaa, an interleukin-23 (IL-23) antagonist, is a humanized immunoglobulin G1 (IgG1) monoclonal antibody.
 Risankizumab-rzaa is produced by recombinant DNA technology in Chinese hamster ovary cells and has an approximate molecular weight of 149 kDa.
 
 SKYRIZI 150 mg/mL prefilled syringe and prefilled pen

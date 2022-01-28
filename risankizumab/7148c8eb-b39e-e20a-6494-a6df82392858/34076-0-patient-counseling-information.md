@@ -2,16 +2,20 @@
 
 Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
+Hypersensitivity Reactions
+
+Advise patients to discontinue SKYRIZI and seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.1)].
+
 Infections
 
 Inform patients that SKYRIZI may lower the ability of their immune system to fight infections.
-Instruct patients of the importance of communicating any history of infections to the healthcare provider and contacting their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.1)].
+Instruct patients of the importance of communicating any history of infections to the healthcare provider and contacting their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.2)].
 
 Administration of Vaccines
 
 Advise patients that vaccination with live vaccines is not recommended during SKYRIZI treatment and immediately prior to or after SKYRIZI treatment.
 Medications that interact with the immune system may increase the risk of infection following administration of live vaccines.
-Instruct patients to inform the healthcare practitioner that they are taking SKYRIZI prior to a potential vaccination [see Warnings and Precautions (5.3)].
+Instruct patients to inform the healthcare practitioner that they are taking SKYRIZI prior to a potential vaccination [see Warnings and Precautions (5.4)].
 
 Administration Instruction
 
@@ -27,4 +31,4 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2021 AbbVie Inc. 20067753-R2 04/2021
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2022 AbbVie Inc. 20070928 01/2022
