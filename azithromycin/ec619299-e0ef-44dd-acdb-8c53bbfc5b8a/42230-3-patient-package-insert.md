@@ -126,11 +126,11 @@ Azithromycin can cause serious side effects, including:
   - ounusual tiredness
 - Stop taking azithromycin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to azithromycin (a liver problem).
-- •Serious heart rhythm changes (QT prolongation and torsades de pointes).
-  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+- •Serious heart rhythm changes that can be life-threatening, including heart stopping (cardiac arrest), QT prolongation, torsades de pointes, feeling that your heart is pounding or racing (palpitations), chest discomfort, or irregular heartbeat.Tell your healthcare provider right away if you or your child feel a fast or irregular heartbeat, get dizzy or faint.
   Azithromycin may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
+- 
   - owho are elderly
   - owith a family history of prolonged QT interval
   - owith low blood potassium
@@ -187,4 +187,4 @@ Sandoz S.R.L. for
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2019
+January 2022
