@@ -129,16 +129,18 @@ Repeat Turn, Open, Press (TOP) 3 times after inserting the cartridge as shown in
 Is the dose indicator on the SPIRIVA RESPIMAT pointing to 0 (zero)?
 You have used up all your medicine and the inhaler is locked.
 
-For more information about SPIRIVA RESPIMAT, including current prescribing information, a video demonstration or a Quick Start Guide on how to use SPIRIVA RESPIMAT, go to www.spiriva.com, scan the code below, or call 1-800-542-6257 or (TTY) 1-800-459-9906.
+For more information about SPIRIVA RESPIMAT, including current prescribing information, a video demonstration or a Quick Start Guide on how to use SPIRIVA RESPIMAT, go to www.spiriva.com, scan the code, or call 1-800-542-6257.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
-SPIRIVA® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
+Licensed from: Boehringer Ingelheim International GmbH
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+SPIRIVA® and RESPIMAT® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH
 
-Revised: August 2020
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT8354BG232020
+Revised: November 2021
+
+COL10534AK082021
