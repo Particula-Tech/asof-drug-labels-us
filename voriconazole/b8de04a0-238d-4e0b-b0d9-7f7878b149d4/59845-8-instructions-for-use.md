@@ -46,4 +46,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.greenstonellc.com.
 
-LAB-1397-2.0 Revised: 01/2021
+LAB-1397-3.0 Revised: 10/2021

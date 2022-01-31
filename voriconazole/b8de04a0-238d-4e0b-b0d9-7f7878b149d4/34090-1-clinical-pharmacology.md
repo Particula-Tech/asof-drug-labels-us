@@ -172,7 +172,7 @@ St. John's Wort (CYP450 inducer; P-gp inducer)–In an independent published stu
 In contrast, coadministration of single oral doses of St. John's Wort and voriconazole had no appreciable effect on voriconazole AUC0–∞.
 Long-term use of St. John's Wort could lead to reduced voriconazole exposure [see Contraindications (4)].
 
-Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
+Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect [see Drug Interactions (7)].
@@ -239,7 +239,7 @@ Rifabutin (potent CYP450 inducer)–Rifabutin (300 mg once daily) decreased the 
 During coadministration with rifabutin (300 mg once daily), the steady state Cmax and AUCτ of voriconazole following an increased dose of 400 mg twice daily were on average approximately 2 times higher, compared with voriconazole alone at 200 mg twice daily.
 Coadministration of voriconazole at 400 mg twice daily with rifabutin 300 mg twice daily increased the Cmax and AUCτ of rifabutin by an average of 3-times (90% CI: 2.2, 4.0) and 4 times (90% CI: 3.5, 5.4), respectively, compared to rifabutin given alone [see Contraindications (4)].
 
-Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse events/toxicity:
+Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity:
 
 Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)–Standard doses of voriconazole and efavirenz (400 mg every 24 hours or higher) must not be coadministered [see Drug Interactions (7)].
 Steady state efavirenz (400 mg PO every 24 hours) decreased the steady state Cmax and AUCτ of voriconazole (400 mg PO every 12 hours for 1 day, then 200 mg PO every 12 hours for 8 days) by an average of 61% and 77%, respectively, in healthy male subjects.
