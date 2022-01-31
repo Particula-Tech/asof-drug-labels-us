@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Hypersensitivity and Other Administration Reactions
 
-Advise patients to seek immediate medical attention for any of the following signs and symptoms of systemic administration-related reactions: itchy, runny or blocked nose; chills, nausea, throat irritation, cough, headache, shortness of breath or difficulty breathing [see Warnings and Precautions (5.1)].
+Advise patients to seek immediate medical attention for any of the following signs and symptoms of systemic administration-related reactions: itchy, runny or blocked nose; chills, nausea, throat irritation, cough, headache, shortness of breath or difficulty breathing, and blurred vision [see Warnings and Precautions (5.1)].
 
 Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis
 

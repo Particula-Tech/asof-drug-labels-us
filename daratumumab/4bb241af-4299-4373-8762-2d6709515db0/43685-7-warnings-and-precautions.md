@@ -13,13 +13,16 @@ The median time to onset was 3.2 hours (range: 4 minutes to 3.5 days).
 Of the 140 systemic administration-related reactions that occurred in 77 patients, 121 (86%) occurred on the day of DARZALEX FASPRO administration.
 Delayed systemic administration-related reactions have occurred in 1% of the patients.
 
-Severe reactions included hypoxia, dyspnea, hypertension and tachycardia.
-Other signs and symptoms of systemic administration-related reactions may include respiratory symptoms, such as bronchospasm, nasal congestion, cough, throat irritation, allergic rhinitis, and wheezing, as well as anaphylactic reaction, pyrexia, chest pain, pruritus, chills, vomiting, nausea, and hypotension.
+Severe reactions include hypoxia, dyspnea, hypertension, and tachycardia, and ocular adverse reactions, including choroidal effusion, acute myopia, and acute angle closure glaucoma.
+Other signs and symptoms of systemic administration-related reactions may include respiratory symptoms, such as bronchospasm, nasal congestion, cough, throat irritation, allergic rhinitis, and wheezing, as well as anaphylactic reaction, pyrexia, chest pain, pruritus, chills, vomiting, nausea, hypotension, and blurred vision.
 
 Pre-medicate patients with histamine-1 receptor antagonist, acetaminophen and corticosteroids [see Dosage and Administration (2.5)].
 Monitor patients for systemic administration-related reactions, especially following the first and second injections.
 For anaphylactic reaction or life-threatening (Grade 4) administration-related reactions, immediately and permanently discontinue DARZALEX FASPRO.
 Consider administering corticosteroids and other medications after the administration of DARZALEX FASPRO depending on dosing regimen and medical history to minimize the risk of delayed (defined as occurring the day after administration) systemic administration-related reactions [see Dosage and Administration (2.5)].
+
+Ocular adverse reactions, including acute myopia and narrowing of the anterior chamber angle due to ciliochoroidal effusions with potential for increased intraocular pressure or glaucoma, have occurred with daratumumab-containing products.
+If ocular symptoms occur, interrupt DARZALEX FASPRO and seek immediate ophthalmologic evaluation prior to restarting DARZALEX FASPRO.
 
 Local Reactions
 

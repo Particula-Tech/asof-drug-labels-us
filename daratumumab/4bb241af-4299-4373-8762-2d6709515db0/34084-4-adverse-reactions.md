@@ -259,9 +259,9 @@ Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wi
 | Adverse Reaction | DARZALEX FASPRO-Kd (N=66) |  |
 | Infections and infestations |  |  |
 | Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, viral pharyngitis, and viral upper respiratory tract infection. | 52 | 0 |
-| BronchitisBronchitis includes bronchitis, and bronchitis viral. |  |  |
+| BronchitisBronchitis includes bronchitis, and bronchitis viral. | 12 | 2Only Grade 3 adverse reactions occurred. |
 | General disorders and administration site conditions |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 39 | 2Only Grade 3 adverse reactions occurred. |
+| FatigueFatigue includes asthenia, and fatigue. | 39 | 2 |
 | Pyrexia | 21 | 2 |
 | Edema peripheralEdema peripheral includes generalized edema, edema peripheral, and peripheral swelling. | 20 | 0 |
 | Psychiatric disorders |  |  |
