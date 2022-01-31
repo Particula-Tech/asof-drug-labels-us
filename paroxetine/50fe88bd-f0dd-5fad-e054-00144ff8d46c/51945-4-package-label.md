@@ -28,8 +28,6 @@ PEXEVA®
 
 (paroxetine mesylate)
 
-Delayed-Release Tablets
-
 Equivalent to 20 mg paroxetine base
 
 20 mg
@@ -48,8 +46,6 @@ PEXEVA®
 
 (paroxetine mesylate)
 
-Delayed-Release Tablets
-
 Equivalent to 30 mg paroxetine base
 
 30 mg
@@ -67,8 +63,6 @@ NDC 54766-204-01
 PEXEVA®
 
 (paroxetine mesylate)
-
-Delayed-Release Tablets
 
 Equivalent to 40 mg paroxetine base
 
