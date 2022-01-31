@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215337"
+  ],
+  "inn": "carboprost",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1680-1",
+    "70121-1680-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "carboprost tromethamine",
+      "name": "carboprost tromethamine"
+    }
+  ],
+  "setid": "eac3fd1c-ca4b-4aa3-9dc2-e7dbeb4c122a",
+  "source": "dailymed"
+}
