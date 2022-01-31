@@ -7,10 +7,10 @@ Prior to or when initiating GENVOYA, test patients for hepatitis B virus infecti
 Prior to or when initiating GENVOYA, and during treatment with GENVOYA on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.4)].
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage in Adults and Pediatric Patients Weighing at Least 25 kg
 
-GENVOYA is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (TAF).
-The recommended dosage of GENVOYA is one tablet taken orally once daily with food in:
+GENVOYA is a four-drug fixed dose combination product containing elvitegravir (EVG), cobicistat (COBI), emtricitabine (FTC), and tenofovir alafenamide (TAF).
+The recommended dosage of GENVOYA is one tablet containing 150 mg EVG,150 mg COBI, 200 mg FTC, and 10 mg TAF taken orally once daily with food in:
 
 - adults and pediatric patients with body weight at least 25 kg and creatinine clearance greater than or equal to 30 mL per minute; or
 - adults with creatinine clearance below 15 mL per minute who are receiving chronic hemodialysis.

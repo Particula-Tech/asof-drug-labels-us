@@ -123,13 +123,18 @@ Tenofovir was excreted into the milk of lactating rhesus monkeys, following a si
 
 The safety and effectiveness of GENVOYA for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
 
-Use of GENVOYA in pediatric patients between the ages of 12 to less than 18 years and weighing at least 35 kg is supported by studies in adults and by a study in antiretroviral treatment-naïve HIV-1 infected pediatric subjects ages 12 to less than 18 years and weighing at least 35 kg (cohort 1 of Study 106, N=50).
-The safety and efficacy of GENVOYA in these pediatric subjects was similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+Use of GENVOYA in pediatric patients less than 18 years of age and weighing at least 25 kg is supported by studies in adults and by an open-label study in antiretroviral treatment-naïve HIV-1 infected pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (cohort 1 of Study 106, N=50) and in virologically-suppressed pediatric subjects aged 6 to less than 12 years and weighing at least 25 kg (cohort 2 of Study 106, N=52).
+The safety and efficacy of GENVOYA in adolescent subjects was similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 
-Use of GENVOYA in pediatric patients weighing at least 25 kg is supported by studies in adults and by an open-label trial in virologically-suppressed pediatric subjects ages 6 to less than 12 years and weighing at least 25 kg, in which subjects were switched from their antiretroviral regimen to GENVOYA (cohort 2 of Study 106, N=23).
-The safety in these subjects through 24 weeks was similar to that in antiretroviral treatment-naïve adults with the exception of a decrease in mean change from baseline in CD4+ cell count [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+The safety and efficacy of GENVOYA in subjects 6 to 12 years of age weighing at least 25 kg was similar to that in antiretroviral treatment-naïve adults and adolescents with the exception of a decrease from baseline CD4+ cell count [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 
-Safety and effectiveness of GENVOYA in pediatric patients less than 25 kg have not been established.
+A pharmacokinetic evaluation of a reduced strength GENVOYA formulation containing 90 mg of EVG, 90 mg of COBI, 120 mg of FTC, and 6 mg TAF was performed in 27 virologically-suppressed pediatric patients at least 2 years of age and weighing at least 14 to less than 25 kg (cohort 3 of Study 106).
+Virologic, immunologic, and safety outcomes were similar to those observed in cohort 2 of Study 106.
+No clinically meaningful differences in drug exposures except EVG were identified between pediatric patients in cohort 3 receiving the reduced strength formulation and adults receiving the GENVOYA tablet containing 150 mg of EVG,150 mg of COBI, 200 mg of FTC, and 10 mg TAF.
+The median observed EVG Ctrough values in subjects in cohort 3 were significantly lower than the values correlated with efficacy in adults.
+Therefore, efficacy cannot be extrapolated from adults to pediatric patients weighing 14 to 25 kg.
+
+Safety and effectiveness of GENVOYA in pediatric patients weighing less than 25 kg have not been established.
 
 ## 8.5 Geriatric Use
 

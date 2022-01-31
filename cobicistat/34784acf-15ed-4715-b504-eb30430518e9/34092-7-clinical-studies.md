@@ -13,7 +13,7 @@ Table 15 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 | Study 112Open label trial. | Virologically-suppressed adults with renal impairmentEstimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 144 |
 | Study 1825 | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | GENVOYA (55) | 48 |
 | Study 106 (cohort 1) | Treatment-naïve adolescents between the ages of 12 to less than 18 years (at least 35 kg) | GENVOYA (50) | 48 |
-| Study 106 (cohort 2) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | GENVOYA (23) | 24 |
+| Study 106 (cohort 2) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | GENVOYA (52) | 48 |
 
 ## 14.2 Clinical Trial Results in HIV-1 Treatment-Naïve Subjects
 
@@ -40,7 +40,7 @@ Treatment outcomes were similar across subgroups by age, sex, race, baseline vir
 
 In Studies 104 and 111, the mean increase from baseline in CD4+ cell count at Week 144 was 326 cells per mm3 in GENVOYA-treated subjects and 305 cells per mm3 in STRIBILD-treated subjects.
 
-## 14.3 Clinical Trial Results in HIV-1 Virologically-Suppressed Subjects Who Switched to GENVOYA
+## 14.3 Clinical Trial Results in HIV-1 Virologically-Suppressed Adults Who Switched to GENVOYA
 
 In Study 109, the efficacy and safety of switching from ATRIPLA, TRUVADA plus atazanavir (given with either cobicistat or ritonavir), or STRIBILD to GENVOYA once daily were evaluated in a randomized, open-label trial of virologically-suppressed (HIV-1 RNA less than 50 copies per mL) HIV-1 infected adults (N=1436).
 Subjects must have been suppressed (HIV-1 RNA less than 50 copies per mL) on their baseline regimen for at least 6 months and had no known resistance-associated substitutions to any of the components of GENVOYA prior to study entry.
@@ -53,7 +53,7 @@ At screening, 42% of subjects were receiving TRUVADA plus atazanavir (given with
 
 Treatment outcomes of Study 109 through 96 weeks are presented in Table 17.
 
-Table 17 Virologic Outcomes of Study 109 at Week 96Week 96 window was between Day 630 and 713 (inclusive). in Virologically-Suppressed Subjects who Switched to GENVOYA
+Table 17 Virologic Outcomes of Study 109 at Week 96Week 96 window was between Day 630 and 713 (inclusive). in Virologically-Suppressed Adults who Switched to GENVOYA
 
 |  | GENVOYA (N=959) | ATRIPLA or TRUVADA+atazanavir +cobicistat or ritonavir or STRIBILD (N=477) |
 | --- | --- | --- |
@@ -93,14 +93,14 @@ Two subjects had HIV-1 RNA ≥ 50 copies per mL by Week 48.
 Seven subjects discontinued the study drug due to AE or other reasons while suppressed.
 One subject did not have an HIV-1 RNA measurement at Week 48.
 
-## 14.5 Clinical Trial Results in HIV-1 Infected Pediatric Subjects Between the Ages of 6 to Less than 18
+## 14.5 Clinical Trial Results in HIV-1 Infected Pediatric Subjects Between the Ages of 6 to Less than 18 Years
 
-In Study 106, an open-label, single arm trial the efficacy, safety, and pharmacokinetics of GENVOYA in HIV-1 infected pediatric subjects were evaluated in treatment-naïve adolescents between the ages of 12 to less than 18 years weighing at least 35 kg (N=50) and in virologically-suppressed children between the ages of 6 to less than 12 years weighing at least 25 kg (N=23).
+In Study 106, an open-label, single arm trial the efficacy, safety, and pharmacokinetics of GENVOYA in HIV-1 infected pediatric subjects were evaluated in treatment-naïve adolescents between the ages of 12 to less than 18 years weighing at least 35 kg (N=50) and in virologically-suppressed children between the ages of 6 to less than 12 years weighing at least 25 kg (N=52).
 
 Cohort 1: Treatment-naïve adolescents (12 to less than 18 years; at least 35 kg)
 
 Subjects in cohort 1 treated with GENVOYA once daily had a mean age of 15 years (range 12-17); 44% were male, 12% were Asian, and 88% were Black.
-At baseline, mean plasma HIV-1 RNA was 4.6 log10 copies per mL (22% had baseline plasma HIV-1 RNA greater than 100,000 copies per mL), median CD4+ cell count was 456 cells per mm3 (range: 95 to 1110), and median CD4+ percentage was 23% (range: 7% to 45%).
+At baseline, mean plasma HIV-1 RNA was 4.6 log10 copies per mL (22% had baseline plasma HIV-1 RNA greater than 100,000 copies per mL), mean (SD) CD4+ cell count was 471 (212.2) cells per mm3, and mean (SD) CD4+ percentage was 23.6% (8.8%).
 
 In subjects in cohort 1 treated with GENVOYA, 92% (46/50) achieved HIV-1 RNA less than 50 copies per mL at Week 48.
 The mean increase from baseline in CD4+ cell count at Week 48 was 224 cells per mm3.
@@ -108,9 +108,9 @@ Three of 50 subjects had virologic failure at Week 48; no emergent resistance to
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Subjects in cohort 2 treated with GENVOYA once daily had a mean age of 10 years (range: 8–11), a mean baseline weight of 31.6 kg, 39% were male, 13% were Asian, and 78% were Black.
-At baseline, median CD4+ cell count was 969 cells/mm3 (range: 603 to 1421), and median CD4% was 39% (range: 30% to 51%).
-
-After switching to GENVOYA, 100% (23/23) of subjects in cohort 2 remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 24.
-From a mean (SD) baseline CD4+ cell count of 966 (201.7), the mean change from baseline in CD4+ cell count was -150 cells/mm3 and the mean (SD) change in CD4% was -1.5% (3.7%) at Week 24.
+Subjects in cohort 2 treated with GENVOYA once daily had a mean age of 10 years (range: 7–11), a mean baseline weight of 31.7 kg, 42% were male, 25% were Asian, and 71% were Black.
+At baseline, the mean (SD) CD4+ cell count was 961 (275.5) cells per mm3 and the mean (SD) CD4 percentage was 38.2% (6.4%).
+After switching to GENVOYA, 98% (51/52) of subjects in cohort 2 remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 48.
+No subject qualified for resistance analysis through Week 48.
+The mean change from baseline in CD4+ cell count was -66 (203.6) cells per mm3 and the mean (SD) change in CD4 percentage was -0.6% (4.4%) at Week 48.
 All subjects maintained CD4+ cell counts above 400 cells/mm3 [see Adverse Reactions (6.1) and Pediatric Use (8.4)].

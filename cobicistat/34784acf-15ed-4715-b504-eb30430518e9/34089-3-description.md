@@ -1,13 +1,13 @@
 # 11 DESCRIPTION
 
-GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet containing elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide for oral administration.
+GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet containing elvitegravir (EVG), cobicistat (COBI), emtricitabine (FTC), and tenofovir alafenamide (TAF) for oral administration.
 
-- Elvitegravir is an HIV-1 integrase strand transfer inhibitor.
-- Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
-- Emtricitabine, a synthetic nucleoside analog of cytidine, is an HIV nucleoside analog reverse transcriptase inhibitor (HIV NRTI).
-- Tenofovir alafenamide, an HIV NRTI, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
+- EVG is an HIV-1 integrase strand transfer inhibitor.
+- COBI is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
+- FTC, a synthetic nucleoside analog of cytidine, is an HIV nucleoside analog reverse transcriptase inhibitor (HIV NRTI).
+- TAF, an HIV NRTI, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
 
-Each tablet contains 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (equivalent to 11.2 mg of tenofovir alafenamide fumarate).
+Each tablet contains 150 mg of EVG, 150 mg of COBI, 200 mg of FTC, and 10 mg of TAF (equivalent to 11.2 mg of tenofovir alafenamide fumarate).
 The tablets include the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, silicon dioxide, and sodium lauryl sulfate.
 The tablets are film-coated with a coating material containing FD&C Blue No. 2/indigo carmine aluminum lake, iron oxide yellow, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
 

@@ -126,7 +126,7 @@ Clinical Trials in Pediatric Subjects:
 
 Safety in Pediatric Patients
 
-The safety of GENVOYA in HIV-1 infected pediatric subjects was evaluated in treatment-naïve subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), and in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=23) through Week 24 (cohort 2) in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
+The safety of GENVOYA in HIV-1 infected pediatric subjects was evaluated in treatment-naïve subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), and in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=52) through Week 48 (cohort 2) in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
 With the exception of a decrease in the mean CD4+ cell count observed in cohort 2 of Study 106, the safety profile in pediatric subjects who received treatment with GENVOYA was similar to that in adults.
 One 13-year-old female subject developed unexplained uveitis while receiving GENVOYA that resolved and did not require discontinuation of GENVOYA.
 
@@ -140,26 +140,26 @@ One GENVOYA subject had significant (at least 4%) lumbar spine BMD loss at Week 
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Among the subjects in cohort 2 receiving GENVOYA, mean BMD increased from baseline to Week 24, +2.9% at the lumbar spine and +1.7% for TBLH.
-Mean changes from baseline BMD Z-scores were -0.06 for lumbar spine and -0.18 for TBLH at Week 24.
-Two GENVOYA subjects had significant (at least 4%) lumbar spine BMD loss at Week 24.
+Among the subjects in cohort 2 receiving GENVOYA, mean BMD increased from baseline to Week 48, +3.9% at the lumbar spine and +4.2% for TBLH.
+Mean changes from baseline BMD Z-scores were -0.24 for lumbar spine and -0.19 for TBLH at Week 48.
+Six GENVOYA subjects had significant (at least 4%) lumbar spine BMD loss at Week 48; 2 subjects also had at least 4% TBLH BMD loss at Week 48.
 
 Change from Baseline in CD4+ cell counts
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Cohort 2 of Study 106 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to GENVOYA.
-Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
-The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 4.
+Cohort 2 of Study 106 evaluated pediatric subjects (N=52) who were virologically-suppressed and who switched from their antiretroviral regimen to GENVOYA.
+Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Weeks 24 and 48.
+The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 48 are presented in Table 4.
 All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Pediatric Use (8.4) and Clinical Studies (14.5)].
 
-Table 4 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to GENVOYA
+Table 4 Mean Change in CD4+ Count and CD4 Percentage from Baseline to Week 48 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to GENVOYA
 
-| Week 2 | Week 4 | Week 12 | Week 24 |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Baseline | Mean Change from Baseline |  |  |  |
-| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
-| CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
+| Week 2 | Week 4 | Week 12 | Week 24 | Week 32 | Week 48 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Baseline | Mean Change from Baseline |  |  |  |  |  |
+| CD4+ Cell Count (cells/mm3) | 961 (275.5)Mean (SD) | -117 | -114 | -112 | -118 | -62 | -66 |
+| CD4% | 38 (6.4) | +0.3% | -0.1% | -0.8% | -0.8% | -1.0% | -0.6% |
 
 ## 6.2 Postmarketing Experience
 

@@ -73,7 +73,7 @@ Age does not have a clinically relevant effect on exposures of TAF up to 75 year
 
 Pediatric Patients
 
-Mean exposures of elvitegravir, cobicistat, and TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received GENVOYA in Study 106 were decreased compared to exposures achieved in treatment-naïve adults following administration of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; emtricitabine exposure in adolescents was similar to that in treatment-naïve adults (Table 8).
+Mean exposures of elvitegravir, cobicistat, and TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received thedose of GENVOYA containing 150 mg EVG, 150 mg COBI, 200 mg FTC, and 10 mg TAF in Study 106 were decreased compared to exposures achieved in treatment-naïve adults receiving the same dose of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; emtricitabine exposure in adolescents was similar to that in treatment-naïve adults (Table 8).
 
 Table 8 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection, cohort 1 of Study 106 (N=24).
 
@@ -84,7 +84,7 @@ Table 8 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Em
 | Ctrough (microgram per mL) | 0.30 (81.0) | 0.03N=15 (180.0) | 0.10 (38.9) | NA | 0.01 (21.4) |
 | CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
 
-Exposures of the components of GENVOYA achieved in 23 pediatric subjects between the ages of 6 to less than 12 years who received GENVOYA in Study 106 were higher (20 to 80% for AUC) than exposures achieved in adults following the administration of GENVOYA; however, the increase was not considered clinically significant (Table 9) [see Use in Specific Populations (8.4)].
+Exposures of the components of GENVOYA achieved in 23 pediatric subjects between the ages of 6 to less than 12 years who received the dose of GENVOYA containing 150 mg EVG, 150 mg COBI, 200 mg FTC, and 10 mg TAF in Study 106 were higher (20 to 80% for AUC) than exposures achieved in adults receiving the same dose of GENVOYA; the increase was not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Table 9) [see Use in Specific Populations (8.4)].
 
 Table 9 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection, cohort 2 of Study 106 (N=23).
 
@@ -257,8 +257,8 @@ Elvitegravir did not show inhibition of replication of HBV or HCV in cell cultur
 Cobicistat: Cobicistat has no detectable antiviral activity in cell culture against HIV-1, HBV, or HCV and does not antagonize the antiviral activity of elvitegravir, emtricitabine, or tenofovir.
 
 Emtricitabine: The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in T lymphoblastoid cell lines, the MAGI-CCR5 cell line, and primary peripheral blood mononuclear cells.
-The EC50 values for emtricitabine were in the range of 0.0013–0.64 microM.
-Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 microM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 microM).
+The EC50 values for emtricitabine were in the range of 1.3 – 640 nM.
+Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 7–75 nM) and showed strain specific activity against HIV-2 (EC50 values ranged from 7–1500 nM).
 
 Tenofovir Alafenamide (TAF): The antiviral activity of TAF against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells and CD4-T lymphocytes.
 The EC50 values for TAF ranged from 2.0 to 14.7 nM.
