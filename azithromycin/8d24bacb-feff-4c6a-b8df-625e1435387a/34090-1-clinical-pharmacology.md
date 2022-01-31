@@ -12,11 +12,11 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 Cardiac Electrophysiology
 
-QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
+QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1,000 mg) alone or in combination with oral azithromycin (500 mg, 1,000 mg, and 1,500 mg once daily).
 Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
-In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1,000 mg and 1,500 mg azithromycin, respectively.
 
-Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
+Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1,500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
 
 ## 12.3 Pharmacokinetics
 
@@ -35,7 +35,7 @@ Comparison of the plasma pharmacokinetic parameters following the 1st and 5th da
 
 Following single-oral doses of 500 mg azithromycin (two 250 mg capsules) to 12 healthy volunteers, Cmax, trough level, and AUC24 were reported to be 0.41 mcg/mL, 0.05 mcg/mL, and 2.6 mcg∙hr/mL, respectively.
 These oral values are approximately 38%, 83%, and 52% of the values observed following a single 500-mg I.V.
-3-hour infusion (Cmax: 1.08 mcg/mL, trough: 0.06 mcg/mL, and AUC24: 5.0 mcg∙hr/mL).
+3-hour infusion (Cmax: 1.08 mcg/mL, trough: 0.06 mcg/mL, and AUC24: 5 mcg∙hr/mL).
 Thus, plasma concentrations are higher following the intravenous regimen throughout the 24-hour interval.
 
 Distribution
@@ -105,23 +105,23 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
+| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
 | Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
 | Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
 | Didanosine | 200 mg orally twice a day for 21 days | 1,200 mg/day orally on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04 - 90% Confidence interval not reported | 0.95 |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
-| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
+| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.9 (0.81 to 1) |
 | Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
-| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
+| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.9 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
-| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
+| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.4) | 1.02 (0.86 to 1.22) |
 | Theophylline | 300 mg orally BID × 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
-| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
-| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.9 (0.78 to 1.03) | 0.87 (0.8 to 0.95/ 0.96 (0.88 to 1.03) |
+| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.7) |
+| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.3 (0.69 to 2.43) |
 
 Table 2.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs.
@@ -129,10 +129,10 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
+| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.92 - 90% Confidence interval not reported |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
-| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.50) |
+| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.5) |
 
 ## 12.4 Microbiology
 
