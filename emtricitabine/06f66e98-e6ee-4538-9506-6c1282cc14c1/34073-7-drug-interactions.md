@@ -17,11 +17,11 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 
 ## 7.3 Established and Other Potentially Significant Interactions
 
-Table 5 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
+Table 6 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
 The drug interactions described are based on studies conducted with either DESCOVY, the components of DESCOVY (emtricitabine and tenofovir alafenamide) as individual agents, or are predicted drug interactions that may occur with DESCOVY.
 For magnitude of interaction, see Clinical Pharmacology (12.3).
 
-Table 5 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 6 Established and Other Potentially SignificantThis table is not all inclusive.
 Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓=Decrease | Clinical Comment |

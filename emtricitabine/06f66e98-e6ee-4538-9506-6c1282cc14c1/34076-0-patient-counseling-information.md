@@ -42,7 +42,7 @@ Advise HIV-1 infected patients and uninfected individuals that they should stop 
 
 Dosage Recommendations for Treatment of HIV-1 Infection
 
-Inform HIV-1 infected patients that it is important to take DESCOVY with other antiretroviral drugs for the treatment of HIV-1 on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.3)].
+Inform HIV-1 infected patients that it is important to take DESCOVY with other antiretroviral drugs for the treatment of HIV-1 on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.3, 2.4)].
 
 Pregnancy Registry
 

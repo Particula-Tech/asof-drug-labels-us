@@ -5,8 +5,14 @@ DESCOVY (emtricitabine and tenofovir alafenamide) is a fixed dose combination ta
 - FTC, a synthetic nucleoside analog of cytidine, is an HIV nucleoside analog reverse transcriptase inhibitor (HIV NRTI).
 - TAF, an HIV NRTI, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 
-Each 200/25 mg tablet contains 200 mg of FTC and 25 mg of TAF (equivalent to 28 mg of tenofovir alafenamide fumarate) and the following inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
-The tablets are film-coated with a coating material containing indigo carmine aluminum lake, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
+DESCOVY tablets are available in two dose strengths:
+
+- 200 mg/25 mg tablets: 200 mg of FTC and 25 mg of TAF (equivalent to 28 mg of tenofovir alafenamide fumarate).
+- 120 mg/15 mg tablets: 120 mg of FTC and 15 mg of TAF (equivalent to 16.8 mg of tenofovir alafenamide fumarate).
+
+Both dose strengths of DESCOVY tablets include the following inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
+The 200 mg/ 25 mg tablets are film-coated with a coating material containing indigo carmine aluminum lake, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
+The 120 mg/15 mg tablets are film-coated with a coating material containing polyvinyl alcohol, titanium dioxide, polyethylene glycol, and talc.
 
 Emtricitabine: The chemical name of FTC is 4-amino-5-fluoro-1-(2R-hydroxymethyl-1,3-oxathiolan-5S-yl)-(1H)-pyrimidin-2-one.
 FTC is the (-)enantiomer of a thio analog of cytidine, which differs from other cytidine analogs in that it has a fluorine in the 5 position.

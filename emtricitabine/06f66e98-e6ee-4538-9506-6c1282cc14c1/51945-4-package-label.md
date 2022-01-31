@@ -21,3 +21,15 @@ Rx only
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Descovy
+
+# PRINCIPAL DISPLAY PANEL - 120 mg/15 mg Tablet Bottle Label
+
+NDC 61958-2005-1 30 tablets
+
+Descovy® (emtricitabine and tenofovir alafenamide) tablets
+
+120 mg/15 mg
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Descovy

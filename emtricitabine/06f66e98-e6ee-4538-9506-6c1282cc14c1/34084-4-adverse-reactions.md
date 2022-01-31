@@ -49,7 +49,11 @@ Overall 5% of subjects permanently discontinued treatment due to an adverse even
 
 Adverse Reactions in Clinical Trials in Pediatric Subjects with HIV-1 Infection
 
-In an open-label trial of antiretroviral treatment-naïve HIV-1 infected pediatric subjects between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; Cohort 1) and virologically-suppressed subjects between the ages of 6 to less than 12 years weighing at least 25 kg (N=23; Cohort 2) who received FTC+TAF with EVG+COBI through 24 weeks, with the exception of a decrease in the mean CD4+ cell count observed in cohort 2, the safety of this combination was similar to that of adults.
+Pediatric Subjects Weighing at Least 25 kg:
+
+The safety profile of FTC+TAF in pediatric subjects weighing at least 25 kg is informed by an open-label trial of antiretroviral treatment-naïve HIV-1 infected pediatric subjects between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; Cohort 1) and virologically-suppressed subjects between the ages of 6 to less than 12 years weighing at least 25 kg (N=52; Cohort 2).
+Subjects received FTC+TAF with EVG+COBI through 48 weeks.
+With the exception of a decrease in the mean CD4+ cell count observed in cohort 2, the safety of this combination was similar to that in adults.
 
 Bone Mineral Density Effects
 
@@ -61,36 +65,41 @@ One subject had significant (at least 4%) lumbar spine BMD loss at Week 48.
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Among the subjects in cohort 2 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 24, +2.9% at the lumbar spine and +1.7% for TBLH.
-Mean changes from baseline BMD Z-scores were -0.06 for lumbar spine and -0.18 for TBLH at Week 24.
-Two subjects had significant (at least 4%) lumbar spine BMD loss at Week 24.
+Among the subjects in cohort 2 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +3.9% at the lumbar spine and +4.2% for TBLH.
+Mean changes from baseline BMD Z-scores were -0.24 for lumbar spine and -0.19 for TBLH at Week 48.
+Six subjects had significant (at least 4%) lumbar spine BMD loss at Week 48 and 2 subjects also had at least 4% TBLH BMD loss at Week 48.
 
 Change from Baseline in CD4+ cell counts
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Cohort 2 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
-Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
-The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 1.
+Cohort 2 evaluated pediatric subjects (N=52) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
+Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Weeks 24 and 48.
+The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 48 are presented in Table 2.
 All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
 
-Table 1 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
+Table 2 Mean Change in CD4+ Count and CD4 Percentage from Baseline to Week 48 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
 
-|  | Baseline | Week 2 | Week 4 | Week 12 | Week 24 |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Mean Change from Baseline |  |  |  |
-| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
-| CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
+|  | Baseline | Week 2 | Week 4 | Week 12 | Week 24 | Week 32 | Week 48 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Mean Change from Baseline |  |  |  |  |  |
+| CD4+ Cell Count (cells/mm3) | 961 (275.5)Mean (SD) | -117 | -114 | -112 | -118 | -62 | -66 |
+| CD4% | 38 (6.4) | +0.3% | -0.1% | -0.8% | -0.8% | -1.0% | -0.6% |
+
+Pediatric Subjects Weighing at Least 14 to Less Than 25 kg:
+
+In a separate open-label trial of virologically-suppressed subjects at least 2 years of age and weighing at least 14 to less than 25 kg (N=22; Cohort 3) who received FTC+TAF with bictegravir through 24 weeks, no new adverse reactions or laboratory abnormalities were identified compared to those observed in adults.
+In this trial, the mean (SD) change from baseline to Week 24 in CD4+ cell count was −126 (264) cells per mm3 and the mean (SD) change in CD4% from baseline to Week 24 was 0.2% (4.4%).
 
 Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Individuals Taking DESCOVY for HIV-1 PrEP
 
 The safety profile of DESCOVY for HIV-1 PrEP was comparable to that observed in clinical trials of HIV-infected subjects based on a double-blind, randomized, active-controlled trial (DISCOVER) in which a total of 5,387 HIV-1 uninfected adult men and transgender women who have sex with men received DESCOVY (N=2,694) or TRUVADA (N=2,693) once daily for HIV-1 PrEP [see Clinical Studies (14.3)].
 Median duration of exposure was 86 and 87 weeks, respectively.
 The most common adverse reaction in participants who received DESCOVY (incidence greater than or equal to 5%, all grades) was diarrhea (5%).
-Table 2 provides a list of the most common adverse reactions that occurred in 2% or more of participants in either treatment group.
+Table 3 provides a list of the most common adverse reactions that occurred in 2% or more of participants in either treatment group.
 The proportion of participants who discontinued treatment with DESCOVY or TRUVADA due to adverse events, regardless of severity, was 1.3% and 1.8%, respectively.
 
-Table 2 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DISCOVER Trial of HIV-1 Uninfected Participants
+Table 3 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DISCOVER Trial of HIV-1 Uninfected Participants
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
@@ -102,10 +111,10 @@ Table 2 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DI
 
 Renal Laboratory Tests
 
-Changes from baseline to Week 48 in renal laboratory data are presented in Table 3.
+Changes from baseline to Week 48 in renal laboratory data are presented in Table 4.
 The long-term clinical significance of these renal laboratory changes on adverse reaction frequencies between DESCOVY and TRUVADA is not known.
 
-Table 3 Laboratory Assessments of Renal Function Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER Trial
+Table 4 Laboratory Assessments of Renal Function Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER Trial
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
@@ -125,9 +134,9 @@ The long-term clinical significance of these BMD changes is not known.
 
 Serum Lipids
 
-Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 4.
+Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 5.
 
-Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes subjects who received lipid lowering agents during the treatment period.
+Table 5 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes subjects who received lipid lowering agents during the treatment period.
 
 |  | mg/dL | ChangeThe baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |
 | --- | --- | --- | --- | --- |
