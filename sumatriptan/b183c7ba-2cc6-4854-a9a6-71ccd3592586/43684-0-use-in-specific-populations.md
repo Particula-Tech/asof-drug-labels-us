@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Data from a prospective pregnancy exposure registry and epidemiological studies of pregnant women have not detected an increased frequency of birth defects or a consistent pattern of birth defects among women exposed to Sumatriptan succinate injection compared with the general population (see Data).
+Data from a prospective pregnancy exposure registry and epidemiological studies of pregnant women have not detected an increased frequency of birth defects or a consistent pattern of birth defects among women exposed to sumatriptan compared with the general population (see Data).
 In developmental toxicity studies in rats and rabbits, oral administration of sumatriptan to pregnant animals was associated with embryolethality, fetal abnormalities, and pup mortality.
 When administered by the intravenous route to pregnant rabbits, sumatriptan was embryolethal (see Data).
 
@@ -20,7 +20,7 @@ Data
 Human Data: The Sumatriptan/Naratriptan/Treximet (sumatriptan and naproxen sodium) Pregnancy Registry, a population-based international prospective study, collected data for sumatriptan from January 1996 to September 2012.
 The Registry documented outcomes of 626 infants and fetuses exposed to sumatriptan during pregnancy (528 with earliest exposure during the first trimester, 78 during the second trimester, 16 during the third trimester, and 4 unknown).
 The occurrence of major birth defects (excluding fetal deaths and induced abortions without reported defects and all spontaneous pregnancy losses) during first-trimester exposure to sumatriptan was 4.2% (20/478 [95% CI: 2.6% to 6.5%]) and during any trimester of exposure was 4.2% (24/576 [95% CI: 2.7% to 6.2%]).
-The sample size in this study had 80% power to detect at least a 1.73-to 1.91-fold increase in the rate of major malformations.
+The sample size in this study had 80% power to detect at least a 1.73- to 1.91-fold increase in the rate of major malformations.
 The number of exposed pregnancy outcomes accumulated during the registry was insufficient to support definitive conclusions about overall malformation risk or for making comparisons of the frequencies of specific birth defects.
 Of the 20 infants with reported birth defects after exposure to sumatriptan in the first trimester, 4 infants had ventricular septal defects, including one infant who was exposed to both sumatriptan and naratriptan, and 3 infants had pyloric stenosis.
 No other birth defect was reported for more than 2 infants in this group.
@@ -52,39 +52,39 @@ Risk Summary
 Sumatriptan is excreted in human milk following subcutaneous administration (see Data).
 There are no data on the effects of sumatriptan on the breastfed infant or the effects of sumatriptan on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Sumatriptan succinate injection and any potential adverse effects on the breastfed infant from sumatriptan or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Sumatriptan injection and any potential adverse effects on the breastfed infant from sumatriptan or from the underlying maternal condition.
 
 Clinical Considerations
 
-Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with Sumatriptan succinate injection.
+Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with Sumatriptan injection.
 
 Data
 
-Following subcutaneous administration of a 6-mg dose of Sumatriptan succinate injection in 5 lactating volunteers, sumatriptan was present in milk.
+Following subcutaneous administration of a 6-mg dose of Sumatriptan injection in 5 lactating volunteers, sumatriptan was present in milk.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Sumatriptan succinate injection in pediatric patients have not been established.
-Sumatriptan succinate injection is not recommended for use in patients younger than 18 years of age.
+Safety and effectiveness in pediatric patients have not been established.
+Sumatriptan injection is not recommended for use in patients younger than 18 years of age.
 
-Two controlled clinical trials evaluated Sumatriptan succinate nasal spray (5 to 20 mg) in 1,248 pediatric migraineurs aged 12 to 17 years who treated a single attack.
-The trials did not establish the efficacy of Sumatriptan succinate nasal spray compared with placebo in the treatment of migraine in pediatric patients.
+Two controlled clinical trials evaluated Sumatriptan nasal spray (5 to 20 mg) in 1,248 pediatric migraineurs aged 12 to 17 years who treated a single attack.
+The trials did not establish the efficacy of Sumatriptan nasal spray compared with placebo in the treatment of migraine in pediatric patients.
 Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 
-Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral Sumatriptan succinate (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 pediatric migraineurs.
-These trials did not establish the efficacy of oral Sumatriptan succinate compared with placebo in the treatment of migraine in pediatric patients.
+Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral Sumatriptan (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 pediatric migraineurs.
+These trials did not establish the efficacy of oral Sumatriptan compared with placebo in the treatment of migraine in pediatric patients.
 Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 The frequency of all adverse reactions in these patients appeared to be both dose- and age-dependent, with younger patients reporting reactions more commonly than older pediatric patients.
 
-Postmarketing experience documents that serious adverse reactions have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal Sumatriptan succinate.
+Postmarketing experience documents that serious adverse reactions have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal Sumatriptan injection.
 These reports include reactions similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
-A myocardial infarction has been reported in a 14-year-old male following the use of oral Sumatriptan succinate; clinical signs occurred within 1 day of drug administration.
-Clinical data to determine the frequency of serious adverse reactions in pediatric patients who might receive subcutaneous, oral, or intranasal Sumatriptan succinate are not presently available.
+A myocardial infarction has been reported in a 14-year-old male following the use of oral Sumatriptan; clinical signs occurred within 1 day of drug administration.
+Clinical data to determine the frequency of serious adverse reactions in pediatric patients who might receive subcutaneous, oral, or intranasal Sumatriptan injection are not presently available.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of Sumatriptan succinate injection did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
+Clinical trials of Sumatriptan injection did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving Sumatriptan succinate injection [see Warnings and Precautions (5.1)].
+A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving Sumatriptan injection [see Warnings and Precautions (5.1)].

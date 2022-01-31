@@ -26,4 +26,4 @@ Corneal Opacities
 Dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium.
 Corneal opacities were seen at the lowest dose tested, 2 mg/kg/day, and were present after 1 month of treatment.
 Defects in the corneal epithelium were noted in a 60-week study.
-Earlier examinations for these toxicities were not conducted and no-effect doses were not established; however, the relative plasma exposure at the lowest dose tested was approximately 3 times the human exposure after a 6 mg subcutaneous dose.
+Earlier examinations for these toxicities were not conducted and no-effect doses were not established; however, the relative plasma exposure at the lowest dose tested was approximately 3 times the human exposure after a 6-mg subcutaneous dose.

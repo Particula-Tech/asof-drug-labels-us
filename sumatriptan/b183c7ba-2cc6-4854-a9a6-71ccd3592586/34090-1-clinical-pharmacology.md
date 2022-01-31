@@ -25,27 +25,27 @@ Absorption
 
 The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 
-After a single 6 mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
+After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
 In this trial, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
 The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
 
 Distribution
 
-Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
+Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
 
-Following a 6 mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half-life was 15 ± 2 minutes.
+Following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half-life was 15 ± 2 minutes.
 
-Metabolism:
+Metabolism
 
 In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
 Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 
 Elimination
 
-After a single 6 mg subcutaneous dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the IAA metabolite.
+After a single 6-mg subcutaneous dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the IAA metabolite.
 
-Following a 6 mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
+Following a 6-mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
 
 Specific Populations
 
@@ -54,7 +54,7 @@ Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 m
 Patients with Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
 There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
 The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
-The use of Sumatriptan succinate injection in this population is contraindicated [see Contraindications (4)].
+The use of Sumatriptan injection in this population is contraindicated [see Contraindications (4)].
 
 Racial Groups: The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
