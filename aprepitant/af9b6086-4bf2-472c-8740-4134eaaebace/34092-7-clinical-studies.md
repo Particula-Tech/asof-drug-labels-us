@@ -88,13 +88,13 @@ Multiple-Cycle Extension: In the same 2 clinical studies, patients continued int
 The proportion of patients with no emesis and no significant nausea by treatment group at each cycle is depicted in Figure 2.
 Antiemetic effectiveness for the patients receiving the aprepitant regimen was maintained throughout repeat cycles for those patients continuing in each of the multiple cycles.
 
-Figure 2: Proportion of Patients Receiving HEC with No Emesis and No SignificantNausea by Treatment Group and Cycle
+Figure 2: Proportion of Patients Receiving HEC with No Emesis and No Significant Nausea by Treatment Group and Cycle
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
 Aprepitant was studied in two randomized, double-blind, parallel-group studies (Studies 3 and 4) in adult patients receiving MEC.
 
-In Study 3, in breast cancer patients, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750 to 1500 mg/m 2; or cyclophosphamide 500 to 1500 mg/m 2 and doxorubicin (less than or equal to 60 mg/m 2) or epirubicin (less than or equal to 100 mg/m 2).
+In Study 3, in breast cancer patients, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750 to 1500 mg/m2; or cyclophosphamide 500 to 1,500 mg/m 2 and doxorubicin (less than or equal to 60 mg/m2) or epirubicin (less than or equal to 100 mg/m2).
 See Table 15.
 
 In this study, the most common combinations were cyclophosphamide + doxorubicin (61%); and cyclophosphamide + epirubicin + fluorouracil (22%).
@@ -117,7 +117,7 @@ Table 15: MEC Treatment Regimens – Studies 3 and 4*
 | * APREPITANT placebo and dexamethasone placebo were used to maintain blinding. |  |  |  |
 | †APREPITANT was administered 1 hour prior to chemotherapy treatment on Day 1 and in the mornings on Days 2 and 3. |  |  |  |
 | ‡Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the APREPITANT regimen [see Clinical Pharmacology (12.3)]. |  |  |  |
-| §The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose. |  |  |  |
+| §The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose wasadministered 8 hours after first ondansetron dose. |  |  |  |
 
 The antiemetic activity of aprepitant was evaluated based on the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
@@ -315,7 +315,7 @@ Table 20: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 | Aprepitant 40 mg | 238/292 (81.5) | 15.2% | 2.3 | P<0.001 § |
 | Ondansetron | 185/279 (66.3) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. |  |  |  |  |
-| ∆ Difference (%):Aprepitant 40 mg minus Ondansetron. |  |  |  |  |
+| ∆Difference (%):Aprepitant 40 mg minus Ondansetron. |  |  |  |  |
 | *Estimated odds ratio for aprepitant versus Ondansetron. A value of >1 favors aprepitant over Ondansetron. †P-value of two-sided test <0.05. |  |  |  |  |
 | ‡LB = lower bound of 1-sided 97.5% confidence interval for the odds ratio. |  |  |  |  |
 | §Based on the prespecified fixed sequence multiplicity strategy, aprepitant 40 mg was not superior to Ondansetron. |  |  |  |  |

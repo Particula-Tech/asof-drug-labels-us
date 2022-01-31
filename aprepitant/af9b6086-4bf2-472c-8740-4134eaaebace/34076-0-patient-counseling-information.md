@@ -24,6 +24,6 @@ PHARMATHEN INTERNATION S.A., Rodopi 69300, GREECE (GRC)
 
 Manufactured For
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-Revised September 2020
+Revised: January 2022

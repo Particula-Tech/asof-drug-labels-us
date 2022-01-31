@@ -14,7 +14,7 @@ Data
 
 Animal Data
 
-In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily in rats and up to the maximum tolerated dose of 25 mg/kg/day in rabbits.
+In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1,000 mg/kg twice daily in rats and up to the maximum tolerated dose of 25 mg/kg/day in rabbits.
 No embryofetal lethality or malformations were observed at any dose level in either species.
 The exposures (AUC) in pregnant rats at 1,000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125-mg/80mg/80-mg aprepitant regimen.
 Aprepitant crosses the placenta in rats and rabbits.
@@ -34,7 +34,7 @@ Contraception
 Upon administration of aprepitant, the efficacy of hormonal contraceptives may be reduced.
 Advise females of reproductive potential using hormonal contraceptives to use an effective alternative or back-up non-hormonal contraceptive (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-## 8.4 PEDIATRIC USE
+## 8.4 Pediatric Use
 
 Prevention of Nausea and Vomiting Associated with HEC or MEC
 
@@ -52,14 +52,14 @@ The safety and effectiveness of aprepitant have not been established for the pre
 Juvenile Animal Study
 
 A study was conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
-Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male rats lower than the exposure at the recommended pediatric human dose and exposure in female rats equivalent to the pediatric human exposure) from the early postnatal period (Postnatal Day 10) through Postnatal Day 58.
+Rats were treated at oral doses up to the maximum feasible dose of 1,000 mg/kg twice daily (providing exposure in male rats lower than the exposure at the recommended pediatric human dose and exposure in female rats equivalent to the pediatric human exposure) from the early postnatal period (Postnatal Day 10) through Postnatal Day 58.
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
 
-## 8.5 GERIATRIC USE
+## 8.5 Geriatric Use
 
 Of the 544 adult cancer patients treated with aprepitant in CINV clinical studies, 31% were aged 65 and over, while 5% were aged 75 and over.
-Of the 1120 adult cancer patients treated with aprepitant in PONV clinical studies, 7% were aged 65 and over, while 2% were aged 75 and over.
+Of the 1,120 adult cancer patients treated with aprepitant in PONV clinical studies, 7% were aged 65 and over, while 2% were aged 75 and over.
 Other reported clinical experience with aprepitant has not identified differences in responses between elderly and younger patients.
 In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
