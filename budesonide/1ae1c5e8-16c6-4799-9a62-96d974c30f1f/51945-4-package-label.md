@@ -4,7 +4,7 @@ Original Prescription Strength
 
 NDC 50580-646-02
 
-RHINOCORT® ALLERGY SPRAY
+RHINOCORT ® ALLERGY SPRAY
 
 Budesonide (glucocorticoid) Nasal spray, 32 mcg per spray Nasal Allergy Symptom Reliever
 
