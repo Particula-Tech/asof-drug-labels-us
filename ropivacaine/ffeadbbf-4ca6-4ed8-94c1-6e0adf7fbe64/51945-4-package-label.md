@@ -1,78 +1,33 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-20 mg/10 mL (2 mg/mL)
+Container label - 0.2% (2 mg/mL) – 10 mL Fill
 
-10 mL Fill Volume
+Carton label - 0.2% (2 mg/mL) – 10 mL Fill – Packages of 25
 
-For Infiltration, Nerve Block, and Epidural Administration Only.
-Not for Intravenous Administration.
+Container label - 0.2% (2 mg/mL) – 20 mL Fill
 
-Container label
+Carton label - 0.2% (2 mg/mL) – 20 mL Fill – Packages of 25
 
-Carton label
+Container label - 0.5% (5 mg/mL) – 20 mL Fill
 
-40 mg/20 mL (2 mg/mL)
+Carton label - 0.5% (5 mg/mL) – 20 mL fill - Packages of 25
 
-20 mL Fill Volume
+Container label – 0.5% (5 mg/mL) – 30 mL fill
 
-For Infiltration, Nerve Block, and Epidural Administration Only.
-Not for Intravenous Administration.
+Carton label – 0.5% (5 mg/mL) – 30 mL fill – Package of 1
 
-Container label
+Container label - 0.75% (7.5 mg/mL) – 20 mL fill
 
-Carton label
+Carton label - 0.75% (7.5 mg/mL) – 20 mL fill – Packages of 25
 
-100 mg/20 mL (5 mg/mL)
+Container label - 1% (10 mg/mL) – 10 mL fill
 
-20 mL Fill Volume
+Carton label - 1% (10 mg/mL) – 10 mL fill – Packages of 25
 
-For Infiltration, Nerve Block, and Epidural Administration Only.
-Not for Intravenous Administration.
+Container label - 1% (10 mg/mL) – 20 mL fill
 
-Container label
+Carton label - 1% (10 mg/mL) – 20 mL fill – Packages of 25
 
-Carton label
+Carton Label – 0.5% (5 mg/mL) - 30 mL fill – Packages of 10
 
-150 mg/30 mL (5 mg/mL)
-
-30 mL Fill Volume
-
-For Infiltration, Nerve Block, and Epidural Administration Only.
-Not for Intravenous Administration.
-
-Container label
-
-Carton label (Monocarton)
-
-150 mg/20 mL (7.5 mg/mL)
-
-20 mL Fill Volume
-
-For Nerve Block and Epidural Administration Only.
-Not for Intravenous Administration.
-
-Container label
-
-Carton label
-
-100 mg/10 mL (10 mg/mL)
-
-10 mL Fill Volume
-
-For Epidural Administration Only.
-Not for Intravenous Administration.
-
-Container label
-
-Carton label
-
-200 mg/20 mL (10 mg/mL)
-
-20 mL Fill Volume
-
-For Epidural Administration Only.
-Not for Intravenous Administration.
-
-Container label
-
-Carton label
+Carton Label – 0.5% (5 mg/mL) - 30 mL fill – Packages of 25

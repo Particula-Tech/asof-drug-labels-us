@@ -4,13 +4,15 @@ Ropivacaine Hydrochloride Injection, USP Single Dose Vials
 
 | NDC No. | Strength | Size |
 | --- | --- | --- |
-| 70069- 061 -25 | 0.2% (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 70069- 062 -25 | 0.2% (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 70069- 063 -25 | 0.5% (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 70069- 064 -01 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 1. |
-| 70069- 065 -25 | 0.75% (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 70069- 066 -25 | 1% (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 70069- 067 -25 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 70069-061-25 | 0.2% (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 70069-062-25 | 0.2% (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 70069-063-25 | 0.5% (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 70069-064-01 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 1. |
+| 70069-064-10 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, package of 10. |
+| 70069-064-25 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, package of 25. |
+| 70069-065-25 | 0.75% (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 70069-066-25 | 1% (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 70069-067-25 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if ropivacaine hydrochloride is mixed with alkaline solutions.
@@ -43,6 +45,8 @@ Made in India
 
 Code No.: KR/DRUGS/KTK/28/289/97
 
-ST-ROP/P/001
+ST-ROP/P/03
 
-Revised: December, 2019
+PSSO0403
+
+Revised: December, 2021

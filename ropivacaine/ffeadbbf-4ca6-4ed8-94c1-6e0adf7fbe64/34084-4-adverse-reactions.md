@@ -65,7 +65,7 @@ Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who 
 | Neonatal infection | 10 | (1.6) | 8 | (1.4) |
 | Neonatal hypoglycemia | 8 | (1.3) | 16 | (2.8) |
 
-## Incidence < 1%
+## Incidence 1%
 
 The following adverse events were reported during the ropivacaine hydrochloride clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant:
 
@@ -131,10 +131,10 @@ In Table 6, the adverse events for ropivacaine hydrochloride are broken down by 
 
 Table 5Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine Hydrochloride = 760, Bupivacaine = 410
 
-|  | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
+| AGE | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AGE | 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |
-|  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
+| 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |  |
+| N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
 | <65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
 | ≥65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
