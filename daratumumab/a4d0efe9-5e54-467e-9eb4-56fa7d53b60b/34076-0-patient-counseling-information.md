@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Infusion-Related Reactions
 
-Advise patients to seek immediate medical attention for any of the following signs and symptoms of infusion-related reactions: itchy, runny or blocked nose; fever, chills, nausea, vomiting, throat irritation, cough, headache, dizziness or lightheadedness, tachycardia, chest discomfort, wheezing, shortness of breath or difficulty breathing, itching [see Warnings and Precautions (5.1)].
+Advise patients to seek immediate medical attention for any of the following signs and symptoms of infusion-related reactions: itchy, runny or blocked nose; fever, chills, nausea, vomiting, throat irritation, cough, headache, dizziness or lightheadedness, tachycardia, chest discomfort, wheezing, shortness of breath or difficulty breathing, itching, and blurred vision [see Warnings and Precautions (5.1)].
 
 Neutropenia
 

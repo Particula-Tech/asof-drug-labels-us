@@ -304,7 +304,7 @@ Adverse Reactions Occurring at a Frequency of < 15%
 - Infections: influenza, urinary tract infection, sepsis, septic shock
 - Metabolism and nutrition disorders: decreased appetite, hyperglycemia, hypocalcemia, dehydration
 - Musculoskeletal and connective tissue disorders: muscle spasms, arthralgia, musculoskeletal chest pain
-- Nervous system disorders: headache, dizziness, peripheral sensory neuropathy, paraesthesia, posterior reversible encephalopathy syndrome
+- Nervous system disorders: headache, dizziness, peripheral sensory neuropathy, paresthesia, posterior reversible encephalopathy syndrome
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
 - Skin and subcutaneous tissue disorders: rash, pruritus
 
@@ -370,7 +370,7 @@ Adverse Reactions Occurring at a Frequency of < 15%
 - Infections: pneumonia, urinary tract infection, sepsis, septic shock
 - Metabolism and nutrition disorders: decreased appetite, hyperglycemia, dehydration, hypocalcemia
 - Musculoskeletal and connective tissue disorders: muscle spasms, musculoskeletal chest pain, arthralgia
-- Nervous system disorders: dizziness, paraesthesia, peripheral sensory neuropathy
+- Nervous system disorders: dizziness, paresthesia, peripheral sensory neuropathy
 - Skin and subcutaneous tissue disorders: pruritus, rash
 
 Combination Treatment with Pomalidomide and Dexamethasone
@@ -551,7 +551,7 @@ However, this assay has limitations in detecting anti-daratumumab antibodies in 
 The following adverse reactions have been identified during post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System disorders: Anaphylactic reaction; IRR (including deaths)
+Immune System disorders: Anaphylactic reaction, IRR (including deaths)
 
 Gastrointestinal disorders: Pancreatitis
 

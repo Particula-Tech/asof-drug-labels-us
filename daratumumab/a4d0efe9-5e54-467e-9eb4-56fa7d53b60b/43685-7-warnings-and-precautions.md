@@ -13,9 +13,9 @@ Median durations of 16 mg/kg infusions for the Week 1, Week 2, and subsequent in
 Nearly all reactions occurred during infusion or within 4 hours of completing DARZALEX.
 Prior to the introduction of post-infusion medication in clinical trials, infusion-related reactions occurred up to 48 hours after infusion.
 
-Severe reactions have occurred, including bronchospasm, hypoxia, dyspnea, hypertension, tachycardia, headache, laryngeal edema and pulmonary edema.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnea, hypertension, tachycardia, headache, laryngeal edema, pulmonary edema, and ocular adverse reactions, including choroidal effusion, acute myopia, and acute angle closure glaucoma.
 Signs and symptoms may include respiratory symptoms, such as nasal congestion, cough, throat irritation, as well as chills, vomiting and nausea.
-Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus, and hypotension [see Adverse Reactions (6.1)].
+Less common signs and symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus, hypotension, and blurred vision [see Adverse Reactions (6.1)].
 
 When DARZALEX dosing was interrupted in the setting of ASCT (CASSIOPEIA) for a median of 3.75 months (range: 2.4 to 6.9 months), upon re-initiation of DARZALEX, the incidence of infusion-related reactions was 11% for the first infusion following ASCT.
 Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption for ASCT.
@@ -36,6 +36,9 @@ For patients with Grade 1, 2, or 3 reactions, reduce the infusion rate when re-s
 To reduce the risk of delayed infusion-related reactions, administer oral corticosteroids to all patients following DARZALEX infusions [see Dosage and Administration (2.3)].
 Patients with a history of chronic obstructive pulmonary disease may require additional post-infusion medications to manage respiratory complications.
 Consider prescribing short- and long-acting bronchodilators and inhaled corticosteroids for patients with chronic obstructive pulmonary disease [see Dosage and Administration (2.3)].
+
+Ocular adverse reactions, including acute myopia and narrowing of the anterior chamber angle due to ciliochoroidal effusions with potential for increased intraocular pressure or glaucoma, have occurred with DARZALEX infusion.
+If ocular symptoms occur, interrupt DARZALEX infusion and seek immediate ophthalmologic evaluation prior to restarting DARZALEX.
 
 ## 5.2 Interference with Serological Testing
 
