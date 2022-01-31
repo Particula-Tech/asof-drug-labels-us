@@ -14,7 +14,8 @@ As defects related to closure of the neural tube occur from conception through t
 
 Advise individuals of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with use of DOVATO.
 Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester.
-A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precaution (5.4)].
+A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development.
+[See Warnings and Precaution (5.4)].
 
 There are insufficient human data on the use of DOVATO during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
 The background risk for major birth defects for the indicated population is unknown.

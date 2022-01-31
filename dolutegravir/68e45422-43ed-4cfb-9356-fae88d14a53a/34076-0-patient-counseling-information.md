@@ -70,9 +70,9 @@ by:
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2021 ViiV Healthcare group of companies or its licensor.
+©2022 ViiV Healthcare group of companies or its licensor.
 
-DVT:6PI
+DVT:7PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

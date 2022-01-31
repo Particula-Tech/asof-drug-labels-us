@@ -164,7 +164,7 @@ Dolutegravir demonstrated antiviral activity in cell culture against a panel of 
 Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
 
 Lamivudine: The antiviral activity of lamivudine against HIV‑1 was assessed in a number of cell lines including monocytes and PBMCs using standard susceptibility assays.
-EC50 values were in the range of 3 to 15,000 nM (1 nM = 230 ng/mL).
+EC50 values were in the range of 3 to 15,000 nM (1 nM = 0.23 ng/mL).
 The EC50 values of lamivudine against different HIV-1 clades (A-G) and group O viruses ranged from 1 to 120 nM, and against HIV-2 isolates from 3 to 120 nM in PBMCs.
 
 Antiviral Activity in Combination with Other Antiviral Agents
@@ -180,11 +180,11 @@ Lamivudine: HIV-1 resistance to lamivudine involves the development of a M184V o
 This variant arises both in cell culture and in HIV-1–infected patients treated with lamivudine-containing antiretroviral therapy.
 Substitutions M184V or I confer high-level resistance to lamivudine.
 
-Clinical Subjects: At Week 96, none of the 11 subjects in the dolutegravir plus lamivudine group or the 7 subjects in the dolutegravir plus TDF/FTC group who met the protocol-defined confirmed virologic withdrawal criteria across the pooled GEMINI-1 and GEMINI-2 trials had emergent INSTI- or NRTI-resistance substitutions.
+Clinical Subjects: At Week 144, none of the 12 subjects in the dolutegravir plus lamivudine group or the 9 subjects in the dolutegravir plus TDF/FTC group who met the protocol-defined confirmed virologic withdrawal criteria across the pooled GEMINI-1 and GEMINI-2 trials had emergent INSTI- or NRTI-resistance substitutions.
 
-No subject who received DOVATO in the TANGO trial met the protocol-defined confirmed virologic withdrawal criteria through Week 48.
+No subject who received DOVATO in the TANGO trial met the protocol-defined confirmed virologic withdrawal criteria through Week 96.
 No emergent INSTI- or NRTI-resistance was detected by genotypic or phenotypic analyses of the last on-treatment isolate from one subject who received DOVATO with HIV-1 RNA ≥400 copies/mL at withdrawal.
-No emergent resistance was detected by genotypic or phenotypic analyses of HIV-1 integrase, protease, or reverse transcriptase at the time of virologic failure in one subject in the TBR arm who met the confirmed virologic withdrawal criteria.
+No emergent resistance was detected by genotypic or phenotypic analyses of HIV-1 integrase, protease, or reverse transcriptase at the time of virologic failure in 3 subjects in the TBR arm who met the confirmed virologic withdrawal criteria.
 
 Cross-Resistance
 
