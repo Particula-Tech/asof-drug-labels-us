@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA211950"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-040-01",
+    "24208-040-02",
+    "24208-040-40",
+    "24208-040-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "Xipere"
+    }
+  ],
+  "setid": "ea6ad429-967f-4f75-a33d-e06f849bee80",
+  "source": "dailymed"
+}
