@@ -8,15 +8,16 @@ The following adverse reactions are described in more detail in other sections o
 - •Serotonin Syndrome [see Contraindications (4), Warnings and Precautions (5.3), Drug Interactions (7)]
 - •Angle-Closure Glaucoma [see Warnings and Precautions (5.4)]
 - •QT Prolongation and Torsades de Pointes [see Warnings and Precautions (5.5)]
-- •Increased Appetite and Weight Gain [see Warnings and Precautions (5.6)]
-- •Somnolence [see Warnings and Precautions (5.7)]
-- •Activation of Mania or Hypomania [see Warnings and Precautions (5.8)]
-- •Seizures [see Warnings and Precautions (5.9)]
-- •Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.10)]
-- •Hyponatremia [see Warnings and Precautions (5.11)]
-- •Transaminase Elevations [see Warnings and Precautions (5.12)]
-- •Discontinuation Syndrome [see Warnings and Precautions (5.13)]
-- •Use in Patients with Concomitant Illness [see Warnings and Precautions (5.14)]
+- •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
+- •Increased Appetite and Weight Gain [see Warnings and Precautions (5.7)]
+- •Somnolence [see Warnings and Precautions (5.8)]
+- •Activation of Mania or Hypomania [see Warnings and Precautions (5.9)]
+- •Seizures [see Warnings and Precautions (5.10)]
+- •Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.11)]
+- •Hyponatremia [see Warnings and Precautions (5.12)]
+- •Transaminase Elevations [see Warnings and Precautions (5.13)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.14)]
+- •Use in Patients with Concomitant Illness [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -134,4 +135,4 @@ Psychiatric Disorders: somnambulism (ambulation and other complex behaviors out 
 
 Reproductive System and Breast Disorders: priapism
 
-Skin and Subcutaneous Tissue Disorders: severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis
+Skin and Subcutaneous Tissue Disorders: severe skin reactions, including DRESS, Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis

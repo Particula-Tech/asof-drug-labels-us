@@ -9,4 +9,4 @@ The structural formula is the following and it is the racemic mixture:
 Mirtazapine, USP is a white to creamy white crystalline powder which is slightly soluble in water.
 
 Mirtazapine tablets are available for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine, and unscored film-coated tablets containing 45 mg of mirtazapine.
-Each tablet also contains anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, FD&C Blue No. 2 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, pregelatinized starch (corn), sodium lauryl sulfate, titanium dioxide and triacetin.
+Each tablet contains the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, FD&C Blue No. 2 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, pregelatinized starch (corn), sodium lauryl sulfate, titanium dioxide and triacetin.

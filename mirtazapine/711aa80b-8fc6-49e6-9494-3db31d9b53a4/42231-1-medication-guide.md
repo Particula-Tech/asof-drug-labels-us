@@ -14,7 +14,7 @@
 | ofeverosore throatoflu-like symptoms |  | ochillsomouth or nose soresoinfections |  |  |
 | •Serotonin syndrome. A potentially life-threatening problem called serotonin syndrome can happen when you take mirtazapine tablets with certain other medicines. See, “Who should not take mirtazapine tablets?” Stop taking mirtazapine tablets and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: |  |  |  |  |
 | oagitationoconfusionofast heart beatodizzinessoflushingotremors, stiff muscles, or muscle twitchingoseizures |  | oseeing or hearing things that are not real (hallucinations)ocomaoblood pressure changesosweatingohigh body temperature (hyperthermia)oloss of coordinationonausea, vomiting, diarrhea |  |  |
-| •Eye problems (angle-closure glaucoma). Mirtazapine tablets may cause a certain type of eye problem called angle-closure glaucoma. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye. Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. •Heart rhythm problems.•Increased appetite and weight gain.•Sleepiness. See, “What should I avoid while taking mirtazapine tablets?”•Mania or hypomania (manic episodes) in people who have a history of bipolar disorder. Symptoms may include: |  |  |  |  |
+| •Eye problems (angle-closure glaucoma). Mirtazapine tablets may cause a certain type of eye problem called angle-closure glaucoma. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye. Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. •Heart rhythm problems.•Severe skin reaction. Mirtazapine tablets may cause a severe skin reaction that may include rash, fever, swollen glands, and other organ involvement such as liver, kidney, lung and heart. The reaction may sometimes be fatal. Tell your healthcare provider right away if you experience any of these signs.•Increased appetite and weight gain.•Sleepiness. See, “What should I avoid while taking mirtazapine tablets?”•Mania or hypomania (manic episodes) in people who have a history of bipolar disorder. Symptoms may include: |  |  |  |  |
 | ogreatly increased energyoracing thoughtsounusually grand ideasotalking more or faster than usual |  | osevere trouble sleepingoreckless behavioroexcessive happiness or irritability |  |  |
 | •Seizures (convulsions).•Increased fat levels (cholesterol and triglycerides) in your blood.•Low sodium levels in your blood (hyponatremia). Low sodium levels in your blood may be serious and may cause death. Elderly people may be at greater risk for this. Signs and Symptoms of low sodium levels in your blood may include: |  |  |  |  |
 | oheadacheomemory changesoweakness and unsteadiness on your feet which can lead to falls |  | odifficulty concentratingoconfusion |  |  |
@@ -30,6 +30,8 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 6/2020 MTZP:R22mmh/MG:MTZP:R7m/MG:MTZP:R7mh
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+Revised: 1/2022 ALP:MTZP:R21mh/ALP:MG:MTZP:R6mh PM 2847/6
