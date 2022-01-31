@@ -48,7 +48,7 @@ Such monitoring should include daily observation by families and caregivers.
 
 Prescriptions for desvenlafaxine extended-release tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening patients for bipolar disorder
+Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled studies) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -106,7 +106,17 @@ As with all antidepressants, desvenlafaxine should be used cautiously in patient
 ## 5.7 Discontinuation Syndrome
 
 Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see DOSAGE AND ADMINISTRATION (2.5) and, ADVERSE REACTION (6.1)].
+[see ADVERSE REACTION (6.1)].
+
+There have been postmarketing reports of serious discontinuation symptoms with desvenlafaxine, which can be protracted and severe.
+Completed suicide, suicidal thoughts, and severe aggression (including hostility, rage, and homicidal ideation) have been observed in patients during reduction in desvelafaxine dosage, including during discontinuation.
+Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of desvenlafaxine.
+
+Patients should be monitored when discontinuing treatment with desvenlafaxine.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended.
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
+Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
+In some patients, discontinuation may need to occur over a period of several months [see DOSAGE AND ADMINISTRATION (2.5)].
 
 ## 5.8 Seizure
 
@@ -132,3 +142,13 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine (the parent drug of desvenlafaxine) therapy have been rarely reported.
 The possibility of these adverse events should be considered in patients treated with desvenlafaxine who present with progressive dyspnea, cough, or chest discomfort.
 Such patients should undergo a prompt medical evaluation, and discontinuation of desvenlafaxine should be considered.
+
+## 5.11 Sexual Dysfunction
+
+Use of SNRIs, including desvenlafaxine, may cause symptoms of sexual dysfunction [see ADVERSE REACTIONS (6.1)].
+In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of desvenlafaxine and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

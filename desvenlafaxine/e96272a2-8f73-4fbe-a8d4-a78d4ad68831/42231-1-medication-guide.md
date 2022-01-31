@@ -129,13 +129,10 @@ What are the possible side effects of desvenlafaxine extended-release tablets?
 
 Desvenlafaxine extended-release tablets can cause serious side effects, including:
 
-- See, What is the most important information I should know about desvenlafaxine extended-release tablets?"
+- See, "What is the most important information I should know about desvenlafaxine extended-release tablets?"
 - Serotonin syndrome.
   A potentially life-threatening problem called serotonin syndrome can happen when you take desvenlafaxine extended-release tablets with certain other medicines.
-  See, "Who should not take desvenlafaxine extended-release tablets?"
-  Call your healthcare provider
-
-or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
+  See, "Do not take Desvenlafaxine extended-release tablets if you:" Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
 
 - agitation
 - confusion
@@ -164,10 +161,12 @@ or go to the nearest hospital emergency room right away if you have any of the f
 - Discontinuation syndrome.
   Suddenly stopping desvenlafaxine extended-release tablets when you take higher doses may cause you to have serious side effects.
   Your healthcare provider may want to decrease your dose slowly.
-  Symptoms may include:
+  Symptoms may include the following, some of which can be severe and last for a long time include:
   - dizziness
   - irritability and agitation
   - anxiety
+  - aggressiveness (including hostility, rage)
+  - tremor
   - sweating
   - seizures
   - ringing in your ears (tinnitus)
@@ -181,6 +180,8 @@ or go to the nearest hospital emergency room right away if you have any of the f
   - abnormal dreams
   - changes in your mood
   - hypomania
+  - problems with eyesight (such as blurred vision and trouble focusing)
+  - increase in blood pressure
 
 - Seizures (convulsions).
 - Low sodium levels in your blood (hyponatremia).
@@ -204,6 +205,22 @@ In severe or more sudden cases, signs and symptoms include:
   Some people who have taken the medicine venlafaxine which is the same kind of medicine as the medicine in desvenlafaxine extended-release tablets have had lung problems.
   Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
   Tell your healthcare provider right away if you have any of these symptoms.
+- Sexual Problems (dysfunction).
+  Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including Desvenlafaxine extended-release tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Desvenlafaxine extended-release tablets.
+There may be treatments your healthcare provider can suggest.
 
 The most common side effects of desvenlafaxine extended-release tablets include:
 
@@ -263,4 +280,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: May 2018 ID#: 254999
+Revised: February 2022 ID#: 269559

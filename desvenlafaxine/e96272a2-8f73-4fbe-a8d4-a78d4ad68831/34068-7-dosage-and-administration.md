@@ -33,7 +33,8 @@ Patients should be periodically reassessed to determine the need for continued t
 ## 2.5 Discontinuing Desvenlafaxine
 
 Adverse reactions may occur upon discontinuation of desvenlafaxine [see WARNINGS AND PRECAUTIONS (5.7)].
-Gradually reduce the dosage rather than stopping desvenlafaxine abruptly whenever possible.
+Gradually reduce the dosage rather than stopping desvenlafaxine abruptly when discontinuing therapy with desvenlafaxine.
+In some patients, discontinuation may need to occur over a period of several months.
 
 ## 2.6 Switching Patients From Other Antidepressants to Desvenlafaxine
 
