@@ -72,6 +72,23 @@ Symptoms may include:
 
 • Headache • weakness or feeling unsteady • confusion, problems concentrating or thinking, memory problems
 
+9.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including Sertraline, may cause sexual problems.
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Sertraline.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop sertraline tablets without first talking to your healthcare provider.
 Stopping sertraline tablets too quickly may cause serious symptoms including:
 
@@ -222,4 +239,4 @@ Manufactured by: Ascent Pharmaceuticals, Inc. Central Islip, NY 11722
 
 Manufactured for: Cipla USA, Inc. 10 Independence Boulevard, Suite 300 Warren, NJ 07059
 
-Revised: 03/2020
+Revised: 01/2022

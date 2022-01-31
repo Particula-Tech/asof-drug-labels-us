@@ -99,3 +99,13 @@ During post-marketing use of sertraline, cases of QTc prolongation and Torsade d
 Most reports were confounded by other risk factors.
 In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
 Therefore, sertraline should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
+
+## 5.11 Sexual Dysfunction
+
+Use of SSRIs, including Sertraline, may cause symptoms of sexual dysfunction [See Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of Sertraline and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment

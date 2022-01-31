@@ -12,6 +12,7 @@ The following adverse reactions are described in more detail in other sections o
 - Seizures [See Warnings and Precautions (5.6)]
 - Angle-closure glaucoma [See Warnings and Precautions (5.7)]
 - Hyponatremia [See Warnings and Precautions (5.8)]
+- Sexual Dysfunction [See Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
