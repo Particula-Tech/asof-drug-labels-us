@@ -1,7 +1,7 @@
 DESCRIPTION: Azathioprine Tablets, an immunosuppressive antimetabolite, is available in tablet form for oral administration.
 Each scored tablet contains 50 mg azathioprine and the inactive ingredients lactose monohydrate, pregelatinized starch, povidone, corn starch, magnesium stearate, and stearic acid.
 
-Azathioprine is chemically 1H-purine, 6-[(1-methyl-4-nitro- 1H-imidazol-5-yl)thio]-1 H-purine.
+Azathioprine is chemically 6-[(1-methyl-4-nitro-1 H-imidazol-5-yl)thio]-1 H-purine.
 The structural formula of azathioprine is:
 
 It is an imidazolyl derivative of 6-mercaptopurine and many of its biological effects are similar to those of the parent compound.

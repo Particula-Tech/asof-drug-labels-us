@@ -1,6 +1,6 @@
 CLINICAL PHARMACOLOGY: Azathioprine is well absorbed following oral administration.
 Maximum serum radioactivity occurs at 1 to 2 hours after oral 35S-azathioprine and decays with a half-life of 5 hours.
-This is not an estimate of the half-life of azathioprine itself but is the decay rate for all 35S-containing metabolites of the drug.
+This is not an estimate of the half-life of azathioprine itself, but is the decay rate for all 35S-containing metabolites of the drug.
 Because of extensive metabolism, only a fraction of the radioactivity is present as azathioprine.
 Usual doses produce blood levels of azathioprine, and of mercaptopurine derived from it, which are low (<1 mcg/mL).
 Blood levels are of little predictive value for therapy since the magnitude and duration of clinical effects correlate with thiopurine nucleotide levels in tissues rather than with plasma drug levels.
@@ -17,15 +17,16 @@ One is thiol methylation, which is catalyzed by the enzyme thiopurine S-methyltr
 Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) to form 6-thiouric acid.
 The nucleotide diphosphatase (NUDT15) enzyme is involved in conversion of the 6-TGNs to inactive 6-TG monophosphates.
 TPMT activity correlates inversely with 6-TGN levels in erythrocytes and presumably other hematopoietic tissues, since these cells have negligible xanthine oxidase (involved in the other inactivation pathway) activities.
+
 Genetic polymorphisms influence TPMT and NUDT15 activity.
 Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of 6-MP or azathioprine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression.
 Because of the risk of toxicity, patients with TPMT or NUDT15 deficiency require alternative therapy or dose modification (see DOSAGE AND ADMINISTRATION).
+
 Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
 The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
 NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
 Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
 The p.R139C variant of NUDT15 (present on the *2 and *3 alleles) is the most commonly observed, but other less common loss-of-function NUDT15 alleles have been observed.
-Inhibition of xanthine oxidase (XO) may cause increased plasma concentrations of azathioprine or its metabolites leading to toxicity (see PRECAUTIONS: Drug Interactions).
 
 Inhibition of xanthine oxidase (XO) may cause increased plasma concentrations of azathioprine or its metabolites leading to toxicity (see PRECAUTIONS: Drug Interactions).
 Proportions of metabolites are different in individual patients, and this presumably accounts for variable magnitude and duration of drug effects.
