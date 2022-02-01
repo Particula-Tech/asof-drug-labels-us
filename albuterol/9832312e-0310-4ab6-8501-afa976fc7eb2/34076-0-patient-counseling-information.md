@@ -55,10 +55,12 @@ If not used for more than 21 days, patients are to actuate the inhaler until an 
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
+Licensed from: Boehringer Ingelheim International GmbH
+
 RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
+COMBIVENT® is a registered trademark of and used under license from Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT24008JI102020
+COL10574AL132021 SPL10595A

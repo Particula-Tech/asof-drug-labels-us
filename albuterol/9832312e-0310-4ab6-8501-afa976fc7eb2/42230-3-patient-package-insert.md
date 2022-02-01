@@ -120,23 +120,25 @@ If not, insert a cartridge.
 Did you repeat Turn, Open, Press (TOP) less than three times after inserting the cartridge?
 Repeat Turn, Open, Press (TOP) three times after inserting the cartridge as shown in steps 4 to 6 under “Prepare for first use”.
 
-Is the dose indicator on the COMBIVENT RESPIMAT pointing to 0?
+Is the dose indicator on the COMBIVENT RESPIMAT pointing to 0 (zero)?
 You have used up all your medicine and the inhaler is locked.
 
-For more information about COMBIVENT RESPIMAT including current prescribing information or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For more information about COMBIVENT RESPIMAT including current prescribing information or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, scan the code, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
+Licensed from: Boehringer Ingelheim International GmbH
+
 RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
+COMBIVENT® is a registered trademark of and used under license from Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2020 Boehringer Ingelheim International GmbH
+Copyright © 2021 Boehringer Ingelheim International GmbH
 
 ALL RIGHTS RESERVED
 
-Revised: September 2020
+Revised: December 2021
 
-OT24008JI102020
+COL10574AL132021

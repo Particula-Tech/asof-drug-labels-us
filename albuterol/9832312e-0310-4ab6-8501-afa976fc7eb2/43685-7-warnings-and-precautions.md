@@ -5,7 +5,7 @@
 COMBIVENT RESPIMAT can produce paradoxical bronchospasm that can be life-threatening.
 If it occurs, therapy with COMBIVENT RESPIMAT should be discontinued immediately and alternative therapy instituted.
 
-## 5.2 Cardiovascular Effect
+## 5.2 Cardiovascular Effects
 
 The albuterol sulfate contained in COMBIVENT RESPIMAT, like other beta‑adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, and/or symptoms.
 If these symptoms occur, COMBIVENT RESPIMAT may need to be discontinued.

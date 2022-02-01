@@ -4,7 +4,7 @@ Use of albuterol, a beta2-adrenergic agonist, may be associated with the followi
 
 - Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
 - Cardiovascular effects [see Warnings and Precautions (5.2)]
-- Hypersensitivity reactions, including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.6)]
+- Hypersensitivity reactions including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.6)]
 - Hypokalemia [see Warnings and Precautions (5.8)]
 
 Albuterol is a component of COMBIVENT RESPIMAT.
