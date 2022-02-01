@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA214358"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0425-78",
+    "0597-0430-18",
+    "0597-0435-96",
+    "0597-0440-53",
+    "0597-0445-87",
+    "0597-0450-16"
+  ],
+  "products": [
+    {
+      "form": "PELLET",
+      "generic": "dabigatran etexilate mesylate",
+      "name": "Pradaxa"
+    }
+  ],
+  "setid": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+  "source": "dailymed"
+}
