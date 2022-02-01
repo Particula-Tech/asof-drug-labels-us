@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209472"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Eagle Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "42367-531-33"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pemetrexed",
+      "name": "Pemfexy"
+    }
+  ],
+  "setid": "2308f4e8-21c8-49c1-a5b8-deb8610bac6a",
+  "source": "dailymed"
+}
