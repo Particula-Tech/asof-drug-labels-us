@@ -11,15 +11,15 @@ You will need the following supplies (See Figure A)
 
 Step 1: Remove the pre-filled applicator and plunger from the foil package (See Figure B)
 
-- Tear open the foil packet just before using
-- Remove the pre-filled applicator and plunger from the foil packaging
+- Tear open the foil packet just before using.
+- Remove the pre-filled applicator and plunger from the foil packaging.
 
 | Figure B |
 | --- |
 
 Step 2: Insert the plunger into the open end of the pre-filled applicator (See Figure C)
 
-- With the pink cap still on, push the tip of the plunger into the open end of the pre-filled applicator
+- With the pink cap still on, push the tip of the plunger into the open end of the pre-filled applicator.
 
 | Figure C |
 | --- |
@@ -40,14 +40,14 @@ Step 4: Prepare to insert the pre-filled applicator (See Figure E)
 
 Step 5: Insert the pre-filled applicator (See Figure F)
 
-- Hold the pre-filled applicator by the barrel and gently insert the rounded tip into your vagina as far as it will comfortably go, then pull back slightly
+- Hold the pre-filled applicator by the barrel and gently insert the rounded tip into your vagina as far as it will comfortably go, then pull back slightly.
 
 | Figure F |
 | --- |
 
 Step 6: Push the plunger (See Figure G)
 
-- While holding the barrel in place, slowly press the plunger until it stops to release the gel into your vagina
+- While holding the barrel in place, slowly press the plunger until it stops to release the gel into your vagina.
 
 | Figure G |
 | --- |
@@ -68,4 +68,4 @@ Distributed By: Exeltis USA, Inc.. 180 Park Ave., Florham Park, NJ 07932
 
 © 2022 Exeltis USA, Inc. All rights reserved.
 This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration.
-Revised: 01/2022
+Revised: 02/2022
