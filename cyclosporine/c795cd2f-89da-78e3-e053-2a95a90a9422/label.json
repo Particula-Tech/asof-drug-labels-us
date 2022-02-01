@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA214965"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Santen Incorporated",
+  "package_ndcs": [
+    "65086-001-05",
+    "65086-001-12",
+    "65086-001-30",
+    "65086-001-60"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "cyclosporine",
+      "name": "Verkazia"
+    }
+  ],
+  "setid": "c795cd2f-89da-78e3-e053-2a95a90a9422",
+  "source": "dailymed"
+}
