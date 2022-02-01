@@ -18,11 +18,11 @@ Cardiac Electrophysiology
 QTc interval prolongation was studied in a double-blind, single intravenous dose, placebo- and positive-controlled, crossover trial in 58 healthy subjects.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 19.5 (21.8) ms and 5.6 (7.4) ms after 15-minute intravenous infusions of 32 mg and 8 mg Ondansetron Injection, respectively.
 A significant exposure-response relationship was identified between ondansetron concentration and ΔΔQTcF.
-Using the established exposure-response relationship, 24 mg infused intravenously over 15 minutes had a mean predicted (95% upper prediction interval) ΔΔQTcF of 14.0 (16.3) ms. In contrast, 16 mg infused intravenously over 15 minutes using the same model had a mean predicted (95% upper prediction interval) ΔΔQTcF of 9.1 (11.2) ms. In this study, the 8-mg dose infused over 15 minutes did not prolong the QT interval to any clinically relevant extent.
+Using the established exposure-response relationship, 24 mg infused intravenously over 15 minutes had a mean predicted (95% upper prediction interval) ΔΔQTcF of 14.0 (16.3) ms. In contrast, 16 mg infused intravenously over 15 minutes using the same model had a mean predicted (95% upper prediction interval) ΔΔQTcF of 9.1 (11.2) ms. In this study, the 8 mg dose infused over 15 minutes did not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-In normal adult volunteers, the following mean pharmacokinetic data have been determined following a single 0.15-mg/kg intravenous dose.
+In normal adult volunteers, the following mean pharmacokinetic data have been determined following a single 0.15 mg/kg intravenous dose.
 
 Table 4.
 Pharmacokinetics in Normal Adult Volunteers
@@ -35,9 +35,9 @@ Pharmacokinetics in Normal Adult Volunteers
 
 Absorption
 
-A trial was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4-mg dose administered as a 5-minute infusion compared with a single intramuscular injection.
-Systemic exposure as measured by mean area under curve (AUC) were equivalent, with values of 156 [95% CI: 136, 180] and 161 [95% CI: 137, 190] ng∙h/mL for intravenous and intramuscular groups, respectively.
-Mean peak plasma concentrations were 42.9 [95% CI: 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI: 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
+A trial was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4 mg dose administered as a 5-minute infusion compared with a single intramuscular injection.
+Systemic exposure as measured by mean area under curve (AUC) were equivalent, with values of 156 [95% CI 136, 180] and 161 [95% CI 137, 190] ng∙h/mL for intravenous and intramuscular groups, respectively.
+Mean peak plasma concentrations were 42.9 [95% CI 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
 
 Distribution
 
@@ -59,7 +59,7 @@ The role of CYP2D6 in ondansetron in vivo metabolism is relatively minor.
 The pharmacokinetics of intravenous ondansetron did not differ between subjects who were poor metabolizers of CYP2D6 and those who were extensive metabolizers of CYP2D6, further supporting the limited role of CYP2D6 in ondansetron disposition in vivo.
 
 Excretion: In adult cancer patients, the mean ondansetron elimination half-life was 4.0 hours, and there was no difference in the multidose pharmacokinetics over a 4-day period.
-In a dose-proportionality trial, systemic exposure to 32 mg of ondansetron was not proportional to dose as measured by comparing dose-normalized AUC values with an 8-mg dose.
+In a dose-proportionality trial, systemic exposure to 32 mg of ondansetron was not proportional to dose as measured by comparing dose-normalized AUC values with an 8 mg dose.
 This is consistent with a small decrease in systemic clearance with increasing plasma concentrations.
 
 Specific Populations
