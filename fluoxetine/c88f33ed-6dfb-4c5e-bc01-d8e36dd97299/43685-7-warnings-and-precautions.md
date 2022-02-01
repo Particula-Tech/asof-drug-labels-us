@@ -186,12 +186,12 @@ Consider discontinuing PROZAC and obtaining a cardiac evaluation if patients dev
 Clinical experience with PROZAC in patients with concomitant systemic illness is limited.
 Caution is advisable in using PROZAC in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 
-Cardiovascular — Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Cardiovascular— Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were systematically excluded from clinical studies during the product's premarket testing.
 However, the electrocardiograms of 312 patients who received PROZAC in double-blind trials were retrospectively evaluated; no conduction abnormalities that resulted in heart block were observed.
 The mean heart rate was reduced by approximately 3 beats/min.
 
-Glycemic Control — In patients with diabetes, PROZAC may alter glycemic control.
+Glycemic Control— In patients with diabetes, PROZAC may alter glycemic control.
 Hypoglycemia has occurred during therapy with PROZAC, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with PROZAC is instituted or discontinued.
 

@@ -137,7 +137,7 @@ Get medical help right away if you have any of these symptoms:
 - confusion
 - loss of consciousness (pass out)
 
-- take Mellaril® (thioridazine).
+- take Mellaril®(thioridazine).
   Do not take Mellaril® within 5 weeks of stopping PROZAC because this can cause serious heart rhythm problems or sudden death.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 

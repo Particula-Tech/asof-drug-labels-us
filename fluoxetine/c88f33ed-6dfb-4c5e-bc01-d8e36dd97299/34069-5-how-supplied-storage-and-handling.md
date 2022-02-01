@@ -17,7 +17,6 @@ Pulvule are available in 10 mg, 20 mg and 40 mg capsule strengths and packages a
 | NDC Codes: |  |  |  |
 | Bottles of 30 |  | 0777-3105-30 | 0777-3107-30 |
 | Bottles 100 | 0777-3104-02 | 0777-3105-02 |  |
-| Bottles of 2000 |  | 0777-3105-07 |  |
 | 1 Fluoxetine base equivalent. |  |  |  |
 | 2 Protect from light. |  |  |  |
 

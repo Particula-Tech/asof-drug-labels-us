@@ -83,15 +83,15 @@ Inform patients that they should discuss any changes in sexual function and pote
 
 Use in Specific Populations
 
-Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PROZAC.
+Pregnancy— Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PROZAC.
 
 Advise patients that PROZAC use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Use in Specific Populations (8.1)].
 
 Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PROZAC during pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation —Advise breastfeeding women using PROZAC to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Lactation—Advise breastfeeding women using PROZAC to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
-Pediatric Use of PROZAC — PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Pediatric Use of PROZAC— PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
@@ -101,4 +101,4 @@ Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 Copyright © 1987, 2021, Eli Lilly and Company.
 All rights reserved.
-PRZ-0007-USPI-20211006
+PRZ-0008-USPI-20211223
