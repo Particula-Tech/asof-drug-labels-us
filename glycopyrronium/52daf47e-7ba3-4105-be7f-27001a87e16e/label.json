@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215019"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Edenbridge Pharmaceuticals LLC.",
+  "package_ndcs": [
+    "82111-518-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "glycopyrrolate orally disintegrating tablets",
+      "name": "DARTISLA ODT"
+    }
+  ],
+  "setid": "52daf47e-7ba3-4105-be7f-27001a87e16e",
+  "source": "dailymed"
+}
