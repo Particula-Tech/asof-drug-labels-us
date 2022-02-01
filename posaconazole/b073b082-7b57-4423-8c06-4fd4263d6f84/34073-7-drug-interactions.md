@@ -131,3 +131,8 @@ Although no dosage adjustment of glipizide is required, it is recommended to mon
 
 Posaconazole was found to release faster from Noxafil PowderMix for delayed-release oral suspension in the presence of alcohol in vitro, which may interfere with its delayed release characteristics.
 Administration of Noxafil PowderMix for delayed-release oral suspension with alcohol is not recommended [see Clinical Pharmacology (12.3)].
+
+## 7.16 Venetoclax
+
+Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.10)].
+Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.

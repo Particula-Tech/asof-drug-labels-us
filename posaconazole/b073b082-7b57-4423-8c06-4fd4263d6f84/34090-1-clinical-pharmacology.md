@@ -218,7 +218,7 @@ Table 28: Summary of the Effect of Noxafil on Coadministered Drugs in Healthy Ad
 | Cyclosporine | Stable maintenance dose in heart transplant recipients | 200 mg (tablets) once daily × 10 daysThe tablet refers to a non-commercial tablet formulation without polymer. | ↑ cyclosporine whole blood trough concentrations Cyclosporine dose reductions of up to 29% were required |  |
 | Tacrolimus | 0.05-mg/kg single oral dose | 400 mg (oral suspension) twice daily × 7 days | ↑ 121% (2.21; 2.01-2.42) | ↑ 358% (4.58; 4.03-5.19) |
 | Simvastatin | 40-mg single oral dose | 100 mg (oral suspension) once daily × 13 days | Simvastatin ↑ 841% (9.41, 7.13-12.44) Simvastatin Acid ↑ 817% (9.17, 7.36-11.43) | Simvastatin ↑ 931% (10.31, 8.40-12.67) Simvastatin Acid ↑634% (7.34, 5.82-9.25) |
-|  |  | 200 mg (oral suspension) once daily × 13 days | Simvastatin ↑ 1041% (11.41, 7.99-16.29) Simvastatin Acid ↑851% (9.51, 8.15-11.10) | Simvastatin ↑ 960% (10.60, 8.63-13.02) Simvastatin Acid ↑748% (8.48, 7.04-10.23) |
+|  |  | 200 mg (oral suspension) once daily × 13 days | Simvastatin ↑ 1041% (11.41, 7.99-16.29) Simvastatin Acid ↑851% (9.51, 8.15-11.10) | Simvastatin ↑ 960% (10.60, 8.63-13.02) Simvastatin Acid ↑ 748% (8.48, 7.04-10.23) |
 | Midazolam | 0.4-mg single intravenous doseThe mean terminal half-life of midazolam was increased from 3 hours to 7 to 11 hours during coadministration with Noxafil. | 200 mg (oral suspension) twice daily × 7 days | ↑ 30% (1.3; 1.13-1.48) | ↑ 362% (4.62; 4.02-5.3) |
 |  | 0.4-mg single intravenous dose | 400 mg (oral suspension) twice daily × 7 days | ↑62% (1.62; 1.41-1.86) | ↑524% (6.24; 5.43-7.16) |
 |  | 2-mg single oral dose | 200 mg (oral suspension) once daily × 7 days | ↑ 169% (2.69; 2.46-2.93) | ↑ 470% (5.70; 4.82-6.74) |

@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Calcineurin-Inhibitor Drug Interactions
+## 5.1 Calcineurin-Inhibitor Toxicity
 
 Concomitant administration of Noxafil with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Nephrotoxicity and leukoencephalopathy (including deaths) have been reported in clinical efficacy studies in patients with elevated cyclosporine or tacrolimus concentrations.
@@ -45,7 +45,7 @@ Noxafil injection should be avoided in patients with moderate or severe renal im
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
 
-## 5.6 Concomitant Use with Midazolam
+## 5.6 Midazolam Toxicity
 
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
@@ -64,3 +64,12 @@ Obtain careful history of HFI symptoms (nausea, vomiting, abdominal pain) with s
 ## 5.9 Breakthrough Fungal Infections
 
 Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving Noxafil delayed-release tablets, Noxafil oral suspension, or Noxafil PowderMix for delayed-release oral suspension.
+
+## 5.10 Venetoclax Toxicity
+
+Concomitant administration of Noxafil, a strong CYP3A4 inhibitor, with venetoclax may increase venetoclax toxicities, including the risk of tumor lysis syndrome (TLS), neutropenia, and serious infections.
+In patients with CLL/SLL, administration of Noxafil during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].
+Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients.
+
+For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering Noxafil with venetoclax [see Drug Interactions (7.16)].
+Refer to the venetoclax prescribing information for dosing instructions.
