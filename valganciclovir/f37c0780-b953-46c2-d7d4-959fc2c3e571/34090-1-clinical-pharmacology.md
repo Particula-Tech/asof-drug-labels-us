@@ -83,7 +83,7 @@ Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valg
 Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years, and in 16 pediatric heart transplant patients less than 4 months of age.
 In these studies, patients received oral doses of valganciclovir (either valganciclovir for oral solution or tablets) to produce exposure equivalent to an adult 900 mg dose [see Dosage and Administration (2.3), Adverse Reactions (6.1), Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
-In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
+In studies using the ped iatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
 Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered Valganciclovir Tablets
@@ -162,7 +162,7 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17: Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L,del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600- 601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C480F, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600- 601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
 | pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 
