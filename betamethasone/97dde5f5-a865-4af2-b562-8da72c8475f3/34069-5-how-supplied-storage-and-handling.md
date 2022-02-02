@@ -12,4 +12,4 @@ Protect from light and freezing.
 
 E. FOUGERA & CO. A division of fougera PHARMACETICALS INC. Melville, New York 11747
 
-I255J R07/12 #74
+46291737A R06/2021 #74

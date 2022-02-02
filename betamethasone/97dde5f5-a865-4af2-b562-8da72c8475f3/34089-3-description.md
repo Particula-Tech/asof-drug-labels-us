@@ -7,7 +7,7 @@ Betamethasone dipropionate is a white to cream white odorless crystalline powder
 Chemically, it is 9-fluoro-11β,17,21-trihydroxy-16β-methylpregna-1,4-diene-3,20-dione 17,21-dipropionate.
 The structural formula is:
 
-Each gram of the 0.05% Cream contains 0.64 mg betamethasone dipropionate (equivalent to 0.5 mg betamethasone) in a soft, white, hydrophilic cream of purified water, mineral oil, white petrolatum, polyethylene glycol 1000 monocetyl ether, cetostearyl alcohol, monobasic sodium phosphate (monohydrate); chlorocresol is present as a preservative.
+Each gram of the 0.05% Cream contains 0.64 mg betamethasone dipropionate (equivalent to 0.5 mg betamethasone) in a soft, white, hydrophilic cream of purified water, mineral oil, white petrolatum, polyoxyl 20 cetostearyl ether, cetostearyl alcohol, monobasic sodium phosphate (monohydrate); chlorocresol is present as a preservative.
 Sodium hydroxide or phosphoric acid solution to adjust pH, if required.
 
 Each gram of the 0.05% Ointment contains 0.64 mg betamethasone dipropionate (equivalent to 0.5 mg betamethasone) in an ointment base of mineral oil and white petrolatum.
