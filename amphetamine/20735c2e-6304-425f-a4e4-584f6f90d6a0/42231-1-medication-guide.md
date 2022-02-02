@@ -176,7 +176,7 @@ Inactive Ingredients: Crospovidone, Stearic Acid, Silicified Microcrystalline ce
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dispense with Medication Guide available at www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available atwww.aurobindousa.com/medication-guides
 
 Distributed by: Aurobindo Pharma USA, Inc.
 

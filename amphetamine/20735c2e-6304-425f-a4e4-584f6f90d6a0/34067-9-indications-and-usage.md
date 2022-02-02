@@ -1,4 +1,4 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
 Amphetamine Sulfate Tablets USP are indicated for:
 

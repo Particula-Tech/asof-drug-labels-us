@@ -97,7 +97,7 @@ The least amount feasible should be prescribed or dispensed at one time in order
 Information for Patients
 
 Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicle; the patient should therefore be cautioned accordingly.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon] • Instruct patients beginning treatment with Amphetamine Sulfate • Tablets about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. • Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes. • Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Amphetamine Sulfate Tablets. • Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon] • Instruct patients beginning treatment with Amphetamine Sulfate Tablets about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. • Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes. • Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Amphetamine Sulfate Tablets. • Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## DRUG INTERACTIONS
 
@@ -145,9 +145,9 @@ Antihistamines
 
 Amphetamines may counteract the sedative effect of antihistamines.
 
-Antihypertensive
+Antihypertensives
 
-Amphetamines may antagonize the hypotensive effects of Antihypertensive.
+Amphetamines may antagonize the hypotensive effects of Antihypertensivea.
 Chlorpromazine
 
 Chlorpromazine blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamine, and can be used to treat amphetamine poisoning.
@@ -190,17 +190,17 @@ Veratrum alkaloids
 
 Amphetamines inhibit the hypotensive effect of Veratrum alkaloids.
 
-## DRUG/ LABORATORY TEST INTERACTIONS
+## Drug/ Laboratory Test Interactions
 
 Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.
 Amphetamines may interfere with urinary steroid determinations.
 
-## CARCINOGENESIS/ MUTAGENESIS & IMPAIRMENT OF FERTILITY
+## Carcinogenesis/ Mutagenesis
 
 Mutagenicity studies and long term studies in animals to determine the carcinogenic potential of amphetamine sulfate have not been performed.
 
-## PREGNANCY
+## Pregnancy
 
 Teratogenic Effects Pregnancy Category C
 
@@ -214,12 +214,12 @@ Nonteratogenic Effects
 Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
 
-## NURSING MOTHERS
+## Nursing Mothers
 
 Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
 
-## PEDIATRIC USE
+## Pediatric Use
 
 Long-term effects of amphetamines in children have not been well established.
 

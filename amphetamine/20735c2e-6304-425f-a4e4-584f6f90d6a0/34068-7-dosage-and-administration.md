@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Regardless of indication, amphetamine should be administered at the lowest effective dosage and dosage should be individually adjusted.
 Late evening doses should be avoided because of resulting insomnia.
