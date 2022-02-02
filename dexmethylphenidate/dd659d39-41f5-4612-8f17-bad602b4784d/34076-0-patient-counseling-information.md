@@ -12,8 +12,8 @@ Advise patients to dispose of remaining, unused, or expired dexmethylphenidate h
 
 Serious Cardiovascular Risks
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with dexmethylphenidate hydrochloride extended-release capsules use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Advise patients that there is a potential serious cardiovascular risk, including sudden death, myocardial infarction, stroke, and hypertension with dexmethylphenidate hydrochloride extended-release capsules use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Blood Pressure and Heart Rate Increases
 
@@ -44,7 +44,9 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy [see Use in Specific Populations (8.1)].
 
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-K 12/2019
+L 1/2022

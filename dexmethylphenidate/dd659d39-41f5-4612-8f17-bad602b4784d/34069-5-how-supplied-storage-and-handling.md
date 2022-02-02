@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Dexmethylphenidate Hydrochloride Extended-Release Capsules are available as follows:
+Dexmethylphenidate hydrochloride extended-release capsules are available as follows:
 
 5 mg: Two-piece hard-gelatin capsule with aqua-blue-opaque cap and aqua-blue-opaque body, filled with white to off-white pellets.
 Imprinted in black ink with “TEVA” on cap and “5550” on body in bottles of 100 (NDC 0093-5550-01).
@@ -35,6 +35,6 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 Disposal
 
 Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired Dexmethylphenidate Hydrochloride Extended-Release Capsules by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix Dexmethylphenidate Hydrochloride Extended-Release Capsules with an undesirable, non-toxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard Dexmethylphenidate Hydrochloride Extended-Release Capsules in the household trash.
+Dispose of remaining, unused, or expired Dexmethylphenidate hydrochloride extended-release capsules by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
+If no take-back program or authorized collector is available, mix Dexmethylphenidate hydrochloride extended-release capsules with an undesirable, non-toxic substance to make it less appealing to children and pets.
+Place the mixture in a container, such as a sealed plastic bag and discard Dexmethylphenidate hydrochloride extended-release capsules in the household trash.
