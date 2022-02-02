@@ -11,8 +11,7 @@ Select patients with first-line metastatic non-small cell lung cancer for treatm
 Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
 
 Select patients with unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.5)].
-Information on FDA-approved tests for the detection of BRAF V600E and V600K mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
-An FDA-approved test for the detection of other BRAF V600 mutations for this use is not currently available.
+Information on FDA-approved tests for the detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage
 
