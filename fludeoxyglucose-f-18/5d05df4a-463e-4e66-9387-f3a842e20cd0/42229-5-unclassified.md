@@ -2,4 +2,4 @@ RX ONLY
 
 # Manufactured & Distributed by:
 
-Jubilant Radiopharma Orlando, Florida
+Jubilant Radiopharma Yardley, PA 19067
