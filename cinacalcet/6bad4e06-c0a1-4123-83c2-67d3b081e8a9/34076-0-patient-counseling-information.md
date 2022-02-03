@@ -7,10 +7,32 @@
 - Advise patients to take cinacalcet tablets with food or shortly after a meal and to take the tablets whole and not divide them [see Dosage and Administration (2.1)].
 - Inform patients of the importance of regular blood tests, in order to monitor the safety and efficacy of cinacalcet tablets therapy.
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For:
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
+Accord Healthcare, Inc.,
 
-10 2736 1 6000275
+1009 Slater Road,
 
-Issued January 2020
+Suite 210-B,
+
+Durham, NC 27703,
+
+USA.
+
+Manufactured By:
+
+Intas Pharmaceuticals Limited,
+
+Plot No.: 457, 458,
+
+Village – Matoda,
+
+Bavla Road, Ta.- Sanand,
+
+Dist.- Ahmedabad – 382 210,
+
+INDIA.
+
+10 2736 2 6014442
+
+Issued December 2021
