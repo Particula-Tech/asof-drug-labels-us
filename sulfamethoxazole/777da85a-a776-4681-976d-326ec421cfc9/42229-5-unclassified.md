@@ -4,4 +4,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Packaged by: Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-R07/18
+R10/21
