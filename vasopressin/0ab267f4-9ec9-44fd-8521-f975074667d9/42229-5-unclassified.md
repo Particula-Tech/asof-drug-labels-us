@@ -1,3 +1,3 @@
-Synthetic
+American Regent, Inc. Shirley, NY 11967
 
-Rx Only
+RQ1093-A

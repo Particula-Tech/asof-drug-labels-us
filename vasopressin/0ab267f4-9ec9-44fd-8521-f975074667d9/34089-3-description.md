@@ -1,8 +1,11 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Vasopressin Injection, USP is a sterile, aqueous solution of synthetic vasopressin (8-L-arginine vasopressin) of the posterior pituitary gland for intramuscular or subcutaneous use.
-It is substantially free from the oxytocic principle and is standardized to contain 20 pressor units/mL.
-Each mL contains: Vasopressin 20 units, Sodium Chloride 9 mg, Chlorobutanol 0.5% (as a preservative), Water for Injection q.s. pH (range 2.5 - 4.5) adjusted with Acetic Acid.
+Vasopressin is a polypeptide hormone.
+Vasopressin injection is a sterile, aqueous solution of synthetic arginine vasopressin for intravenous administration.
+The 1 mL solution contains vasopressin 20 units, chlorobutanol 5 mg, sodium chloride 9 mg, water for injection, and acetic acid to adjust pH to 3.5.
+
+The chemical name of vasopressin is Cyclo (1-6) L-Cysteinyl-L-Tyrosyl-L-Phenylalanyl-L- Glutaminyl-L-Asparaginyl-L-Cysteinyl-L-Prolyl-L-Arginyl-L-Glycinamide.
+It is a white to off-white amorphous powder, freely soluble in water.
 The structural formula is:
 
 Molecular Formula: C46H65N15O12S2 Molecular Weight: 1084.23

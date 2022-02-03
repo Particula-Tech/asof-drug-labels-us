@@ -1,15 +1,19 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Vasopressin Injection, USP 20 units/mL is supplied as follows:
+Vasopressin injection, USP is a clear, practically colorless solution for intravenous administration available as:
 
-For intramuscular or subcutaneous use:
+NDC 0517-1020-25: A carton of 25 single-dose vials each containing vasopressin 1 mL at 20 units/mL.
 
-NDC 0517-0510-25 10 units per 0.5 mL multiple dose vial Boxes of 25 NDC 0517-1020-25 20 units per 1 mL multiple dose vial Boxes of 25 NDC 0517-0410-10 200 units per 10 mL multiple dose vial Boxes of 10
-
-Store below 23°C (73°F).
+Store between 2°C and 8°C (36°F and 46°F).
 Do not freeze.
 
-AMERICAN REGENT, INC. SHIRLEY, NY 11967
+Storage is permitted for up to 12 months at controlled room temperature (USP) 20°C to 25°C (68°F to 77°F) within the expiry date.
+Once removed from refrigeration, mark the unopened vial with the revised 12-month expiration date.
+Do not return Vasopressin to the refrigerator after it has been stored at room temperature.
+Discard the product after 12 months at room temperature or at the expiry date, whichever is earlier.
 
-IN1020 Rev.
-5/11
+The storage conditions and expiration periods are summarized in the following table.
+
+| UnopenedRefrigerated2°C to 8°C (36°F to 46°F) | Unopened Room Temperature 20°C to 25°C (68°F to 77°F) |
+| --- | --- |
+| Until manufacturer expiration date | 12 months or until manufacturer expiration date, whichever is earlier |

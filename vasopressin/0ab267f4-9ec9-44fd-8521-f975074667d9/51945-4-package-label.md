@@ -1,55 +1,21 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – Container Label
 
-PRINCIPAL DISPLAY PANEL – 10 mL Label
+NDC 0517-1020-01 Rx Only
 
-NDC 0517-0410-10
+Vasospressin Injection, USP
 
-VASOPRESSIN INJECTION, USP Synthetic
+20 Units per mL
 
-20 Units/mL (200 Units/10 mL)
+For Intravenous Infusion Must be diluted prior to use 1 mL Single-Dose Vial - Discard Unused Portion
 
-10 mL
+# PRINCIPAL DISPLAY PANEL – Carton Labeling
 
-MULTIPLE DOSE VIAL
+NDC 0517-1020-25 Vasopressin Injection, USP
 
-FOR IM OR SC USE ONLY
+20 Units per mL
 
-Rx Only
+For Intravenous Infusion Must be diluted prior to use
 
-AMERICAN REGENT, INC.
+25 x 1 mL Single Dose Vials Discard Unused Portion Rx Only AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
-SHIRLEY, NY 11967
-
-PRINCIPAL DISPLAY PANEL – 0.5 mL Label
-
-NDC 0517-0510-25
-
-VASOPRESSIN INJECTION, USP Synthetic 10 Units/0.5 mL
-
-0.5 mL
-
-MULTIPLE DOSE VIAL FOR IM OR SC USE ONLY
-
-Rx Only
-
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
-
-PRINCIPAL DISPLAY PANEL – 1 mL Label
-
-NDC 0517-1020-25
-
-VASOPRESSIN INJECTION, USP
-
-Synthetic 20 Units/1 mL
-
-1 mL MULTIPLE DOSE VIAL
-
-FOR IM OR SC USE ONLY
-
-Rx Only
-
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+# Serialization Label

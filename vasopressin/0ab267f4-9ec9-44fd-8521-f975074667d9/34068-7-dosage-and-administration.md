@@ -1,38 +1,32 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Vasopressin may be administered intramuscularly or subcutaneously.
+## 2.1 Preparation of Diluted Solutions
 
-Ten units of vasopressin (0.5 mL) will usually elicit full physiologic response in adult patients; 5 units will be adequate in many cases.
-Vasopressin should be given intramuscularly at three- or four-hour intervals as needed.
-The dosage should be proportionately reduced for children.
-(For an additional discussion of dosage, consult the sections below.)
+Dilute vasopressin injection in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use for intravenous administration.
+Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration.
 
-When determining the dose of vasopressin for a given case, the following should be kept in mind.
+Table 1 Preparation of diluted solutions
 
-It is particularly desirable to give a dose not much larger than is just sufficient to elicit the desired physiologic response.
-Excessive doses may cause undesirable side effects - blanching of the skin, abdominal cramps, nausea - which, though not serious, may be alarming to the patient.
-Spontaneous recovery from such side effects occurs in a few minutes.
-It has been found that one or two glasses of water given at the time vasopressin is administered reduce such symptoms.
+| Fluid restriction? | Final concentration | Mix |  |
+| --- | --- | --- | --- |
+| Vasopressin Injection | Diluent |  |  |
+| No | 0.1 units/mL | 2.5 mL (50 units) | 500 mL |
+| Yes | 1 unit/mL | 5 mL (100 units) | 100 mL |
 
-## Abdominal Distention:
+Inspect parenteral drug products for particulate matter and discoloration prior to use, whenever solution and container permit.
 
-In the average postoperative adult patient, give 5 units (0.25 mL) initially, increase to 10 units (0.5 mL) at subsequent injections if necessary.
-It is recommended that vasopressin be given intramuscularly and that injections be repeated at three- or four-hour intervals as required.
-Dosage to be reduced proportionately for children.
+## 2.2 Administration
 
-Vasopressin used in this manner will frequently prevent or relieve postoperative distension.
-These recommendations apply also to distention complicating pneumonia or other acute toxemias.
+In general, titrate to the lowest dose compatible with a clinically acceptable response.
 
-## Abdominal Roentgenography:
+The recommended starting dose is:
 
-For the average case, two injections of 10 units each (0.5 mL) are suggested.
-These should be given two hours and one-half hour, respectively, before films are exposed.
-Many roentgenologists advise giving an enema prior to the first dose of vasopressin.
+Post-cardiotomy shock: 0.03 units/minute
 
-## Diabetes Insipidus:
+Septic Shock: 0.01 units/minute
 
-Vasopressin may be given by injection or administered intranasally on cotton pledgets, by nasal spray, or by dropper.
-The dose by injection is 5 to 10 units (0.25 to 0.5 mL) repeated two or three times daily as needed.
-When vasopressin is administered intranasally by spray or on pledgets, the dosage and interval between treatments must be determined for each patient.
+Titrate up by 0.005 units/minute at 10- to 15-minute intervals until the target blood pressure is reached.
+There are limited data for doses above 0.1 units/minute for post-cardiotomy shock and 0.07 units/minute for septic shock.
+Adverse reactions are expected to increase with higher doses.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use, whenever solution and container permit.
+After target blood pressure has been maintained for 8 hours without the use of catecholamines, taper vasopressin injection by 0.005 units/minute every hour as tolerated to maintain target blood pressure.

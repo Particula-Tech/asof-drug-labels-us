@@ -1,28 +1,24 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Local or systemic allergic reactions may occur in hypersensitive individuals.
-The following side effects have been reported following the administration of vasopressin.
+The following adverse reactions associated with the use of vasopressin were identified in the literature.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-## Body as a Whole:
+Bleeding/lymphatic system disorders: Hemorrhagic shock, decreased platelets, intractable bleeding
 
-anaphylaxis (cardiac arrest and/or shock) has been observed shortly after injection of vasopressin.
+Cardiac disorders: Right heart failure, atrial fibrillation, bradycardia, myocardial ischemia
 
-## Cardiovascular:
+Gastrointestinal disorders: Mesenteric ischemia
 
-cardiac arrest, circumoral pallor, arrhythmias, decreased cardiac output, angina, myocardial ischemia, peripheral vasoconstriction and gangrene.
+Hepatobiliary: Increased bilirubin levels
 
-## Gastrointestinal:
+Renal/urinary disorders: Acute renal insufficiency
 
-abdominal cramps, nausea, vomiting, passage of gas.
+Vascular disorders: Distal limb ischemia
 
-## Nervous System:
+Metabolic: Hyponatremia
 
-tremor, vertigo, “pounding” in head.
+Skin: Ischemic lesions
 
-## Respiratory:
+Postmarketing Experience
 
-bronchial constriction.
-
-## Skin and Appendages:
-
-sweating, urticaria, cutaneous gangrene.
+Reversible diabetes insipidus [see Warnings and Precautions (5.2)].

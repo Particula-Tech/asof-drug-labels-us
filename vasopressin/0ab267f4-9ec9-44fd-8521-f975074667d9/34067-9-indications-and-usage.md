@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Vasopressin is indicated for prevention and treatment of postoperative abdominal distention, in abdominal roentgenography to dispel interfering gas shadows, and in diabetes insipidus.
+Vasopressin injection is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines.

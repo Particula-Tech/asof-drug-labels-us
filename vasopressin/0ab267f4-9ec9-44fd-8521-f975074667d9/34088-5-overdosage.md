@@ -1,4 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Water intoxication may be treated with water restriction and temporary withdrawal of vasopressin until polyuria occurs.
-Severe water intoxication may require osmotic diuresis with mannitol, hypertonic dextrose, or urea alone or with furosemide.
+Overdosage with vasopressin injection can be expected to manifest as consequences of vasoconstriction of various vascular beds (peripheral, mesenteric, and coronary) and as hyponatremia.
+In addition, overdosage may lead less commonly to ventricular tachyarrhythmias (including Torsade de Pointes), rhabdomyolysis, and non-specific gastrointestinal symptoms.
+
+Direct effects will resolve within minutes of withdrawal of treatment.

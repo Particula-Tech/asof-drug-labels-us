@@ -1,10 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA212593"
+  ],
   "inn": "vasopressin",
   "labeler": "American Regent, Inc.",
   "package_ndcs": [
-    "0517-0410-10",
-    "0517-0510-25",
+    "0517-1020-01",
     "0517-1020-25"
   ],
   "products": [
