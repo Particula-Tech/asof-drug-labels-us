@@ -237,6 +237,24 @@ Symptoms may include:
 - decreased urine flow
 - unable to pass any urine
 
+12. sexual problems (dysfunction):
+
+Taking serotonin and norepinephrine reuptake inhibitors(SNRIs), including duloxetine delayed release capsules, may cause sexual problems.
+
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm.
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with duloxetine delayed release capsules.
+There may be treatments your healthcare provider can suggest.
+
 The most common side effects of duloxetine delayed-release capsules include:
 
 - nausea
@@ -313,4 +331,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2021 ID#: 266797
+Revised: February 2022 ID#: 269497

@@ -16,6 +16,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Clinically Important Drug Interactions [see Warnings And Precautions (5.12)]
 - Hyponatremia [see Warnings And Precautions (5.13)]
 - Urinary Hesitation and Retention [see Warnings And Precautions (5.15)]
+- Sexual Dysfunction [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 

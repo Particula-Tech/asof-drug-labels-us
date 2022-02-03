@@ -81,8 +81,15 @@ Advise patients of the signs and symptoms of hyponatremia [see Warnings and Prec
 
 • Advise patients to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.14)].
 
-• Duloxetine is in a class of medicines that may affect urination.
+•Urinary Hesitation and Retention
+
+Duloxetine is in a class of medicines that may affect urination.
 Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
+
+•Sexual Dysfunction
+
+Advise patients that use of Duloxetine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
 
 • Pregnancy
 
@@ -116,4 +123,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2021 ID#: 266796
+Revised: February 2022 ID#: 269217
