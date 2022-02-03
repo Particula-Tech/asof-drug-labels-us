@@ -24,7 +24,4 @@ Store at room temperature 15° to 30°C (59° to 86°F).
 
 Protect from freezing.
 Protect from light.
-
-Revised: August 2019
-
-9017833
+After opening, timolol maleate ophthalmic solution can be used until the expiration date on the bottle.
