@@ -41,11 +41,10 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 For:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8071271 Revision: November 2018
+8082844 Revision: July 2021

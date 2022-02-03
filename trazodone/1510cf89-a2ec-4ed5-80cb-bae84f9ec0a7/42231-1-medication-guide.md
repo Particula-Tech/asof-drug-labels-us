@@ -211,15 +211,14 @@ Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrysta
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 For:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
 For more information, go to www.torrentpharma.com or call 1-800-FDA-1088
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-8071272 Revised: 11/2018
+8082845 Revised: July 2021
