@@ -12,8 +12,27 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 Addiction, Abuse, and Misuse Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share methadone hydrochloride tablets with others and to take steps to protect methadone hydrochloride tablets from theft or misuse.
 
-Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting methadone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting methadone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 
@@ -36,7 +55,7 @@ Important Administration Instructions Instruct patients how to properly take met
 
 - Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Dosage and Administration (2), Warnings and Precautions (5.3)].
 
-Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue methadone hydrochloride tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue methadone hydrochloride tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
 Hypotension Inform patients that methadone hydrochloride tablets may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
@@ -48,11 +67,12 @@ Pregnancy Neonatal Opioid Withdrawal Syndrome: Advise women that if they are pre
 
 Embryo-Fetal Toxicity: Inform female patients of reproductive potential that methadone hydrochloride tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation Instruct nursing mothers using methadone hydrochloride tablets to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+Lactation Advise women who are breastfeeding to monitor the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
+Instruct nursing mothers using methadone hydrochloride tablets to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to the baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
 
-Infertility Inform patients that chronic use of opioids may cause reduced fertility.
+Infertility Advise patients that chronic use of opioids, such as methadone hydrochloride tablets, may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery Inform patients that methadone hydrochloride tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
@@ -62,11 +82,11 @@ Constipation Advise patients of the potential for severe constipation, including
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2019 Mallinckrodt.
+© 2021 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 10/2019
+Issued: 06/2021
 
 Mallinckrodt™ Pharmaceuticals
 
