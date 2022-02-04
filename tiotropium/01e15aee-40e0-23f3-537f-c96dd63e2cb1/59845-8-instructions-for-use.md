@@ -115,16 +115,16 @@ Repeat Turn, Open, Press (TOP) 3 times after inserting the cartridge as shown in
 Is the dose indicator on the STIOLTO RESPIMAT pointing to 0 (zero)?
 You have used up all your medicine and the inhaler is locked.
 
-For more information about STIOLTO RESPIMAT, including current prescribing information, a video demonstration or a Quick Start Guide on how to use STIOLTO RESPIMAT, go to www.STIOLTO.com, scan the code below, or call 1-800-542-6257 or (TTY) 1-800-459-9906.
+For more information about STIOLTO RESPIMAT, including current prescribing information, a video demonstration or a Quick Start Guide on how to use STIOLTO RESPIMAT, go to www.STIOLTO.com, scan the code, or call 1-800-542-6257.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
-SPIRIVA®, HANDIHALER®, STIOLTO® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
+SPIRIVA®, HANDIHALER®, STIOLTO® and RESPIMAT® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: August 2020
+Revised: November 2021
 
-IT6053OG232020
+COL10537AK082021
