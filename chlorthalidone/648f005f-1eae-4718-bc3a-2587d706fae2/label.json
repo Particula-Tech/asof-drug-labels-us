@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211063"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-505-30",
+    "62135-505-90",
+    "62135-506-30",
+    "62135-506-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "Chlorthalidone"
+    }
+  ],
+  "setid": "648f005f-1eae-4718-bc3a-2587d706fae2",
+  "source": "dailymed"
+}
