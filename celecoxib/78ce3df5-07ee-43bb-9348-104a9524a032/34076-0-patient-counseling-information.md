@@ -16,7 +16,7 @@ Fetal Toxicity Inform pregnant women to avoid use of celecoxib and other NSAIDs 
 Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of celecoxib with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see Drug Interactions (7)].
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 387810, District - Ahmedabad, Gujarat, INDIA Revised: September/2021
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 387810, District - Ahmedabad, Gujarat, INDIA Revised: January/2022
 
 Medication Guide for Non-Steroidal Anti-inflammatory Drugs (NSAIDs) What is the most important information I should know about medicines called Non-Steroidal Anti-inflammatory Drugs (NSAIDs)?
 
@@ -112,4 +112,4 @@ If you would like more information about NSAIDs, talk with your healthcare provi
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured by: Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad, Gujarat State, INDIA.
-Revised: September/2021
+Revised: January/2022
