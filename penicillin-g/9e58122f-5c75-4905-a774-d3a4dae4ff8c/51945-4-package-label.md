@@ -2,7 +2,7 @@
 
 Baxter Logo
 
-Penicillin G Potassium Injection, USP 1,000,000 units
+Penicillin G Potassium Injection, USP 1,000,000 units/ 50mL (20,000 units / mL)
 
 GALAXY Single-Dose Container
 
@@ -10,11 +10,10 @@ GALAXY Single-Dose Container
 
 NDC 0338-1021-41 Code 2G3542 Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 1,000,000 units Penicillin G with approx. 2 g Dextrose Hydrous, USP added to adjust osmolality and 100 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 1,000,000 units Penicillin G with approx. 2 g Dextrose Hydrous, USP added to adjust osmolality and 100 mg Sodium Citrate, USP (0.10 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.
-
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
@@ -30,16 +29,11 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-63-661
+PL 2040 Plastic 07-34-00-1033
 
-Baxter Logo
+*BAR CODE POSITION ONLY
 
-Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
-Do not refreeze.
-
-1,000,000 units
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+303381021412
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
@@ -48,8 +42,18 @@ Do not refreeze.
 
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
+Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic 07-04-65-188
+07-04-00-0361
+
+Baxter Logo
+
+Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
+Do not refreeze.
+
+1,000,000 units / 50mL (20,000 units / mL)
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 0338-1021-41 Code 2G3542
 
@@ -57,7 +61,7 @@ NDC 0338-1021-41 Code 2G3542
 
 GALAXY Container Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 1,000,000 units Penicillin G with approx. 2 g Dextrose Hydrous, USP added to adjust osmolality and 100 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 1,000,000 units Penicillin G with approx. 2 g Dextrose Hydrous, USP added to adjust osmolality and 100 mg Sodium Citrate, USP (0.10 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.
@@ -71,7 +75,7 @@ Rx only
 
 Baxter Logo
 
-Penicillin G Potassium Injection, USP 2,000,000 units
+Penicillin G Potassium Injection, USP 2,000,000 units / 50mL (40,000 units / mL)
 
 GALAXY Single-Dose Container
 
@@ -79,7 +83,7 @@ GALAXY Single-Dose Container
 
 NDC 0338-1023-41 Code 2G3543 Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 2,000,000 units Penicillin G with approx. 1.2 g Dextrose Hydrous, USP added to adjust osmolality and 200 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 2,000,000 units Penicillin G with approx. 1.2 g Dextrose Hydrous, USP added to adjust osmolality and 200 mg Sodium Citrate, USP (0.20 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.
@@ -87,9 +91,7 @@ See insert.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
-Rx only
-
-Store at or below -20°C/-4°F.
+Rx only Store at or below -20°C/-4°F.
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 14 days under refrigeration or 24 hours at room temperature.
@@ -99,16 +101,11 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-63-662
+PL 2040 Plastic 07-34-00-1034
 
-Baxter Logo
+*BAR CODE POSITION ONLY
 
-Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
-Do not refreeze.
-
-2,000,000 units
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+303381023416
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
@@ -117,8 +114,18 @@ Do not refreeze.
 
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
+Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic 07-04-65-189
+07-04-00-0362
+
+Baxter Logo
+
+Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
+Do not refreeze.
+
+2,000,000 units / 50mL (40,000 units / mL)
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 0338-1023-41 Code 2G3543
 
@@ -126,7 +133,9 @@ NDC 0338-1023-41 Code 2G3543
 
 GALAXY Container Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 2,000,000 units Penicillin G with approx. 1.2 g Dextrose Hydrous, USP added to adjust osmolality and 200 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 2,000,000 units Penicillin G with approx. 1.2 g Dextrose
+
+Hydrous, USP added to adjust osmolality and 200 mg Sodium Citrate, USP (0.20 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.
@@ -140,7 +149,7 @@ Rx only
 
 Baxter Logo
 
-Penicillin G Potassium Injection, USP 3,000,000 units
+Penicillin G Potassium Injection, USP 3,000,000 units / 50mL (60,000 units / mL)
 
 GALAXY Single-Dose Container
 
@@ -148,7 +157,7 @@ GALAXY Single-Dose Container
 
 NDC 0338-1025-41 Code 2G3544 Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 3,000,000 units Penicillin G with approx. 350 mg Dextrose Hydrous, USP added to adjust osmolality and 300 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 3,000,000 units Penicillin G with approx. 350 mg Dextrose Hydrous, USP added to adjust osmolality and 300 mg Sodium Citrate, USP (0.30 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.
@@ -168,16 +177,9 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-63-663
+PL 2040 Plastic 07-34-00-1035
 
-Baxter Logo
-
-Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
-Do not refreeze.
-
-3,000,000 units
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
+*BAR CODE POSITION ONLY 303381025410
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
@@ -186,8 +188,18 @@ Do not refreeze.
 
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
+Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040 Plastic 07-04-65-190
+07-04-00-0363
+
+Baxter Logo
+
+Penicillin G Potassium Injection, USP 12 - 50 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
+Do not refreeze.
+
+3,000,000 units / 50mL (60,000 units / mL)
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 0338-1025-41 Code 2G3544
 
@@ -195,7 +207,7 @@ NDC 0338-1025-41 Code 2G3544
 
 GALAXY Container Sterile Nonpyrogenic
 
-Each 50 mL contains: Penicillin G Potassium, USP equivalent to 3,000,000 units Penicillin G with approx. 350 mg Dextrose Hydrous, USP added to adjust osmolality and 300 mg Sodium Citrate Hydrous, USP added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
+Each 50 mL contains: Penicillin G Potassium, USP equivalent to 3,000,000 units Penicillin G with approx. 350 mg Dextrose Hydrous, USP added to adjust osmolality and 300 mg Sodium Citrate, USP (0.30 g as sodium citrate dihydrate) added as a buffer. pH adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide. pH 6.5 (5.5 to 8.0).
 
 Dosage: Intravenously as directed by a physician.
 See insert.

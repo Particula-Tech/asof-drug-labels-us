@@ -47,7 +47,7 @@ Clinistix is a registered trademark of Ascensia Diabetes Care Holdings AG
 
 Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-00-400
+07-19-03-154
 
 Rev.
-September 2018
+May 2021

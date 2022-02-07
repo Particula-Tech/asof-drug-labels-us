@@ -8,7 +8,7 @@ The structural formula is as shown below.
 
 Penicillin G Potassium Injection, USP (equivalent to 1, 2, or 3 million units of penicillin G) is a 50 mL premixed, iso-osmotic, sterile, nonpyrogenic, frozen solution for intravenous administration.
 Dextrose, USP has been added to the above dosages to adjust osmolality (approximately 2 g, 1.2 g, and 350 mg as dextrose hydrous, respectively).
-Sodium Citrate, USP has been added as a buffer.
+Sodium Citrate, USP has been added as a buffer (0.10 g, 0.20 g and 0.30 g as sodium citrate dihydrate, respectively).
 The pH has been adjusted with hydrochloric acid and may have been adjusted with sodium hydroxide.
 The pH is 6.5 (5.5 to 8.0).
 The solution is contained in a single dose GALAXY container (PL 2040 Plastic) and is intended for intravenous use after thawing to room temperature.
