@@ -57,7 +57,7 @@ Notable requirements of the Vigabatrin REMS Program include the following:
 
 - Prescribers must be certified by enrolling in the program, agreeing to counsel patients on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to Vigabatrin REMS Program.
 - Patients must enroll in the program.
-- Pharmacies must be certified and must only dispense to patients authorized to receive vigabatrin.
+- Pharmacies must be certified and must only dispense to patients authorized to receive vigabatrin for oral solution.
 
 Further information is available at www.vigabatrinREMS.com, or call 1-866-244-8175.
 
@@ -65,8 +65,8 @@ Further information is available at www.vigabatrinREMS.com, or call 1-866-244-81
 
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin.
 
-In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRIchanges was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
-In this study, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
+In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRI changes was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
+In this study, in postmarketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
@@ -77,7 +77,7 @@ The specific pattern of signal changes observed in patients 6 years and younger 
 In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory complex partial seizures (CPS) 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
 In the postmarketing setting, MRI changes have also been reported in patients 6 years of age and younger being treated for refractory CPS.
 
-For adults treated with vigabatrin, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population
+For adults treated with vigabatrin, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
 ## 5.4 Neurotoxicity
 
@@ -117,7 +117,7 @@ The increased risk of suicidal thoughts or behavior with AEDs was observed as ea
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
-The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used f or any indication.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 

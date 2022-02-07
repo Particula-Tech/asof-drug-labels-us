@@ -12,9 +12,9 @@ The duration of drug effect is presumed to be dependent on the rate of enzyme re
 
 Effects on Electrocardiogram
 
-There is no indication of a QT/QTc prolonging effect of vigabatrin in single doses up to 6.0 grams.
+There is no indication of a QT/QTc prolonging effect of vigabatrin in single doses up to 6 grams.
 In a randomized, placebo-controlled, crossover study, 58 healthy subjects were administered a single oral dose of vigabatrin (3 grams and 6 grams) and placebo.
-Peak concentrations for 6.0 grams vigabatrin were approximately 2-fold higher than the peak concentrations following the 3.0 grams single oral dose.
+Peak concentrations for 6 grams vigabatrin were approximately 2-fold higher than the peak concentrations following the 3 grams single oral dose.
 
 ## 12.3 Pharmacokinetics
 

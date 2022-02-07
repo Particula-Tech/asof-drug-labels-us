@@ -146,7 +146,7 @@ Vigabatrin for oral solution and other medicines may affect each other causing s
 
 How should I take vigabatrin for oral solution?
 
-- Vigabatrin comes as powder for oral solution.
+- Vigabatrin comes as packets containing powder for mixing with water to make an oral solution.
 - You or your child will receive vigabatrin for oral solution from a specialty pharmacy.
 - Take vigabatrin for oral solution exactly as your healthcare provider tells you to.
   Vigabatrin for oral solution is usually taken 2 times each day.
@@ -162,9 +162,9 @@ How should I take vigabatrin for oral solution?
   Before your child starts taking vigabatrin for oral solution, speak to your child’s healthcare provider about what to do if your baby misses a dose, vomits, spits up, or only takes part of the dose of vigabatrin for oral solution.
 - Do not stop taking vigabatrin for oral solution without talking to your healthcare provider.
   If vigabatrin for oral solution improves your (or your child’s) seizures, you and your healthcare provider should talk about whether the benefit of taking vigabatrin for oral solution is more important than the risk of vision loss, and decide if you (or your child) will continue to take vigabatrin for oral solution.
-- If you are giving vigabatrin powder for oral solution to your child, it can be given at the same time as their meal.
+- If you are giving vigabatrin for oral solution to your child, it can be given at the same time as their meal.
   Vigabatrin for oral solution powder should be mixed with water only.
-- See “Instructions for Use” for detailed information about how to mix and give vigabatrin powder for oral solution to your child the right way.
+- See “Instructions for Use” for detailed information about how to mix and give vigabatrin for oral solution to your child the right way.
 
 What should I avoid while taking vigabatrin for oral solution?
 
@@ -218,7 +218,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store vigabatrin for oral solution?
 
-- Store vigabatrin for oral solution packets at room temperature, between 68°F to 77°F (20°C to 25°C).
+- Store vigabatrin for oral solution packets at room temperature between 20°C to 25°C (68°F to 77°F).
 
 Keep vigabatrin for oral solution and all medicines out of the reach of children.
 
@@ -235,7 +235,7 @@ Active Ingredient: vigabatrin
 
 Inactive Ingredients:
 
-- Powder for oral solution: povidone
+- For oral solution: povidone
 
 For more information, call Dr. Reddy’s Laboratories Inc. at 1-888-375-3784.
 
@@ -251,7 +251,7 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised: 0220
+Revised: 1121
 
 Dispense with medication guide available at:
 

@@ -65,7 +65,7 @@ Median Monthly Frequency of Complex Partial Seizures
 *p<0.05 compared to placebo
 
 Figure 2 presents the percentage of patients (X-axis) with a percent reduction in seizure frequency (responder rate) from baseline to the maintenance phase at least as great as that represented on the Y-axis.
-A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from base line (i.e., an increase in complex partial seizure frequency).
+A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in complex partial seizure frequency).
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the vigabatrin 3 grams/day group compared to the placebo group.
 For example, 39% of patients randomized to vigabatrin (3 grams/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
@@ -123,7 +123,7 @@ Note: Primary criteria were evaluated based on caregiver assessment plus CCTV EE
 
 Study 2
 
-Study 2 (N=40) was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study consisting of a pre-treatment (baseline) period of 2 to 3 days, followed by a 5 day double-blind treatment phase during which patients were treated with vigabatrin (initial dose of 50 mg/kg/day with titration allowed to 150 mg/kg/day) or placebo.
+Study 2 (N=40) was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study consisting of a pre-treatment (baseline) period of 2 to 3 days, followed by a 5-day double-blind treatment phase during which patients were treated with vigabatrin (initial dose of 50 mg/kg/day with titration allowed to 150 mg/kg/day) or placebo.
 The primary efficacy endpoint in this study was the average percent change in daily spasm frequency, assessed during a pre-defined and consistent 2-hour window of evaluation, comparing baseline to the final 2 days of the 5-day double-blind treatment phase.
 No statistically significant differences were observed in the average frequency of spasms using the 2-hour evaluation window.
 However, a post-hoc alternative efficacy analysis, using a 24-hour clinical evaluation window found a statistically significant difference in the overall percentage of reductions in spasms between the vigabatrin group (68.9%) and the placebo group (17%) (p=0.030).

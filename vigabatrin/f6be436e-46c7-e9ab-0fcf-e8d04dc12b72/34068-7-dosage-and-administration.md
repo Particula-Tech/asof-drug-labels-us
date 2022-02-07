@@ -6,7 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to vigabatrin for oral solution consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The vigabatrin for oral solution dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
+The vigabatrin for oral solution dosing regimen depends on the indication, age group, weight, and dosage form (tablets or for oral solution) [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment[see Dosage and Administration (2.4)].
 
 Monitoring of vigabatrin plasma concentrations to optimize therapy is not helpful.
@@ -15,7 +15,7 @@ Administration
 
 Vigabatrin for oral solution is given orally with or without food.
 
-Vigabatrin powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
+Vigabatrin for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
@@ -49,7 +49,7 @@ CPS Dosing Recommendations for Pediatric Patients Weighing 10 kg up to 60 kg†�
 | Greater than 20 kg to 25 kg | 500 mg | 1,500 mg |
 | Greater than 25 kg to 60 kg | 500 mg | 2,000 mg |
 
-*Administered in two divided doses.
+*Administered in two divided doses
 
 †Maintenance dose is based on 3,000 mg/day adult-equivalent dose
 
@@ -69,7 +69,7 @@ Table 2 provides the volume of the 50 mg/mL dosing solution that should be admin
 Table 2.
 Infant Dosing Table
 
-| Weight [kg] | Starting Dose 50 mg/kg/day | Maximum Dose150 mg/kg/day |
+| Weight [kg] | Starting Dose 50 mg/kg/day | Maximum Dose 150 mg/kg/day |
 | --- | --- | --- |
 | 3 | 1.5 mL twice daily | 4.5 mL twice daily |
 | 4 | 2 mL twice daily | 6 mL twice daily |
@@ -115,7 +115,7 @@ K (proportionality constant): Female Child (<12 years): K=0.55;
 
 Male Child (<12 years): K=0.70
 
-- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (× 0.85 for female patients)
+- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140 - age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (× 0.85 for female patients)
 
 The effect of dialysis on vigabatrin clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 

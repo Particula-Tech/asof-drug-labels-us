@@ -68,8 +68,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex
 | Malaise | 0 | 5 | 0 |
 | Infections |  |  |  |
 | Nasopharyngitis | 14 | 9 | 10 |
-| Upper respiratory tract | 7 | 9 | 6 |
-| infection |  |  |  |
+| Upper respiratory tract infection | 7 | 9 | 6 |
 | Influenza | 5 | 7 | 4 |
 | Urinary tract infection | 4 | 5 | 0 |
 | Bronchitis | 0 | 5 | 1 |
@@ -160,7 +159,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Yea
 | Investigations |  |  |
 | Weight gain | 15 | 2 |
 | Nervous System Disorders |  |  |
-| Somnolence | 6 | 53 |
+| Somnolence | 6 | 5 |
 | Nystagmus | 4 | 3 |
 | Tremor | 4 | 2 |
 | Status epilepticus | 2 | 1 |
