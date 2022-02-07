@@ -13,6 +13,6 @@ The chemical structure of tobramycin is:
 
 MW=467.52
 
-Molecular Formula:C18H37N5O9
+Molecular Formula: C18H37N5O9
 
 Chemical Name: 0-{3-amino-3-deoxy-α-D-gluco-pyranosyl-(1→4)} -0- {2,6-diamino-2,3,6-trideoxy-α-D-ribohexopyranosyl-(1→6) }-2-deoxystreptamine.

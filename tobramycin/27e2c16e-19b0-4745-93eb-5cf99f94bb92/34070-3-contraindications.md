@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Tobramycin ophthalmic solution, USP 0.3% is contraindicated in patients with known hypersensitivity to any of its components.
+Tobramycin ophthalmic solution, 0.3% is contraindicated in patients with known hypersensitivity to any of its components.

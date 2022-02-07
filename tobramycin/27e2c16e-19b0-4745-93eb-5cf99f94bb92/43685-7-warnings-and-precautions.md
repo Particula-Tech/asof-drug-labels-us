@@ -4,7 +4,7 @@ FOR TOPICAL OPHTHALMIC USE.
 NOT FOR INJECTION INTO THE EYE.
 Sensitivity to topically applied aminoglycosides may occur in some patients.
 Severity of hypersensitivity reactions may vary from local effects to generalized reactions such as erythema, itching, urticaria, skin rash, anaphylaxis, anaphylactoid reactions, or bullous reactions.
-If a sensitivity reaction to tobramycin ophthalmic solution, USP 0.3% occurs, discontinue use.
+If a sensitivity reaction to tobramycin ophthalmic solution, 0.3% occurs, discontinue use.
 
 # PRECAUTIONS
 
@@ -13,7 +13,7 @@ If a sensitivity reaction to tobramycin ophthalmic solution, USP 0.3% occurs, di
 As with other antibiotic preparations, prolonged use may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, appropriate therapy should be initiated.
 Cross-sensitivity to other aminoglycoside antibiotics may occur; if hypersensitivity develops with this product, discontinue use and institute appropriate therapy.
-Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis.
+Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial ocular infection.
 
 ## Information for Patients
 
@@ -27,7 +27,7 @@ Because animal studies are not always predictive of human response, this drug sh
 
 ## Nursing Mothers
 
-Because of the potential for adverse reactions in nursing infants from tobramycin ophthalmic solution, USP 0.3%, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse reactions in nursing infants from tobramycin ophthalmic solution, 0.3%, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
@@ -35,4 +35,4 @@ Safety and effectiveness in pediatric patients below the age of 2 months has not
 
 ## Geriatric Use
 
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+No overall clinical differences in safety or effectiveness have been observed between elderly and younger patients.
