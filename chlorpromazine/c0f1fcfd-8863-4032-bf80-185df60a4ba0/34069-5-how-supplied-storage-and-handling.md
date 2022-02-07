@@ -23,10 +23,10 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by:
 
-Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised December 2019
+Revised March 2020
 
-462-637-03
+462-637-04
 
-PIN295-WES/4
+PIN295-WES/5
