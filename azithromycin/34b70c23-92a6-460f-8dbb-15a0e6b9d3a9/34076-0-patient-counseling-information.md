@@ -23,4 +23,4 @@ Sandoz S.R.L. for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised: May 2019
+Revised: November 2021
