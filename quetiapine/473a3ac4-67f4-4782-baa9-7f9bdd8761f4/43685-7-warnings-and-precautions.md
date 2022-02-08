@@ -470,7 +470,7 @@ Gradual dose reduction is advised [see Use in Specific Populations (8.1)].
 
 Norquetiapine, an active metabolite of quetiapine, has moderate to strong affinity for several muscarinic receptor subtypes.
 This contributes to anticholinergic adverse reactions when SEROQUEL XR is used at therapeutic doses, taken concomitantly with other anticholinergic medications, or taken in overdose.
-SEROQUEL XR should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Drug Interactions (7.1),Overdosage (10.1), and Clinical Pharmacology (12.1)].
+SEROQUEL XR should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Drug Interactions (7.1), Overdosage (10.1), and Clinical Pharmacology (12.1)].
 
 Constipation was a commonly reported adverse event in patients treated with quetiapine and represents a risk factor for intestinal obstruction.
 Intestinal obstruction has been reported with quetiapine, including fatal reports in patients who were receiving multiple concomitant medications that decrease intestinal motility.
