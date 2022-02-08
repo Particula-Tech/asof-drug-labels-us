@@ -17,8 +17,10 @@
   In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/293) compared to 0.2% (11/4741) for extensive metabolizers.
 
 - Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine incidence greater than placebo) are listed in Table 2.
-  Results were similar in the BID and the QD trial except as shown in Table 3, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
-  The most commonly observed adverse reactions in patients treated with atomoxetine (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and 3).
+  Results were similar in the BID and the QD trial except as shown in Error!
+  Hyperlink reference not valid., which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
+  The most commonly observed adverse reactions in patients treated with atomoxetine (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and Error!
+  Hyperlink reference not valid.).
 - Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
 Table 2: Common Treatment–Emergent Adverse Reactions Associated with the Use of Atomoxetine in Acute (up to 18 weeks) Child and Adolescent Trials

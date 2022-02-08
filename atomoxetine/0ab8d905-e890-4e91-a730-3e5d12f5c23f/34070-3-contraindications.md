@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity
 
-- Atomoxetine is contraindicated in patients known to be hypersensitive to atomoxetine or other constituents of the product [see Warnings and Precautions (5.8)].
+- Atomoxetine capsules are contraindicated in patients known to be hypersensitive to atomoxetine or other constituents of the product [see Warnings and Precautions (5.8)].
 
 ## 4.2 Monoamine Oxidase Inhibitors (MAOI)
 
