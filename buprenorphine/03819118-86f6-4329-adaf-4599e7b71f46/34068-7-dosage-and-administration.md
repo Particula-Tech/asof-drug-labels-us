@@ -75,6 +75,9 @@ To ensure consistency in bioavailability, patients should follow the same manner
 
 Proper administration technique should be demonstrated to the patient.
 
+Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
+Advise patients to wait for at least one hour after taking buprenorphine sublingual tablets before brushing teeth [see Warnings and Precautions (5.13), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
+
 ## 2.7 Clinical Supervision
 
 Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient’s clinical stability permits.
