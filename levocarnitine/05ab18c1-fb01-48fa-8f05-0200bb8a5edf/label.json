@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212533"
+  ],
+  "inn": "levocarnitine",
+  "labeler": "TRUPHARMA, LLC",
+  "package_ndcs": [
+    "52817-830-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levocarnitine",
+      "name": "Levocarnitine"
+    }
+  ],
+  "setid": "05ab18c1-fb01-48fa-8f05-0200bb8a5edf",
+  "source": "dailymed"
+}
