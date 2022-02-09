@@ -47,9 +47,9 @@ How should I store VFEND oral suspension?
   Throw away (discard) any unused VFEND after the expiration date.
 - Keep VFEND and all medicines out of the reach of children.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-1348-3.0 Revised: 10/2021
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+LAB-1348-4.0 Revised: 1/2022
