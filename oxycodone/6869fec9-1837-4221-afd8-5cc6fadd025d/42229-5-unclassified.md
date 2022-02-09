@@ -1,3 +1,3 @@
 Manufactured by and Distributed by: Genus Lifesciences Inc. 514 North 12th Street Allentown, PA 18102
 
-Revision: 07/2021
+Revision: 01/2022
