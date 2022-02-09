@@ -139,7 +139,7 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 ##### Quality Control
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 1.25/23.75 g sulfamethoxazole/ trimethoprim disk* should provide the following zone diameters in these laboratory test quality control strains:
+For the diffusion technique, the 1.25/23.75 µg sulfamethoxazole/ trimethoprim disk* should provide the following zone diameters in these laboratory test quality control strains:
 
 | Microorganism Zone |  | Zone Diameter Range (mm) |
 | --- | --- | --- |
