@@ -6,6 +6,8 @@ NDC 60505-6226-0 2 mL bottle
 
 NDC 60505-6226-1 5 mL bottle
 
+NDC 60505-6226-2 15 mL bottle
+
 - 
 - 
 
