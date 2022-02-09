@@ -80,8 +80,8 @@ The dosage regimen for daptomycin for injection in pediatric patients with renal
 
 ## 2.7 Preparation and Administration of Daptomycin for Injection
 
-There are two formulations of daptomycin that have differences concerning storage and reconstitution.
-Carefully follow the reconstitution and storage procedures in labeling.
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
+Carefully follow the reconstitution and storage procedures described in this labeling.
 
 Reconstitution of Daptomycin for Injection Vial
 
@@ -135,7 +135,7 @@ Discard unused portions of daptomycin for injection.
 
 In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acceptable Intravenous Diluents
 
-Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2 to 8°C (36 to 46°F).
+Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2ºC to 8ºC (36ºF to 46ºF).
 
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.

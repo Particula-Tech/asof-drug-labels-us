@@ -83,7 +83,7 @@ Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3
 
 | CLCR | Success Raten/N (%) |  |
 | --- | --- | --- |
-| Daptomycin4 mg/kg q24h | Comparator |  |
+| Daptomycin4 mg/kg every 24h | Comparator |  |
 | 50 to 70 mL/min | 25/38 (66%) | 30/48 (63%) |
 | 30 to <50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
@@ -94,7 +94,7 @@ Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 
 | Baseline CLCR | Success Raten/N (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Daptomycin6 mg/kg q24h |  | Comparator |  |  |
+| Daptomycin6 mg/kg every 24h |  | Comparator |  |  |
 | Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
 | 50 to 80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
@@ -102,13 +102,10 @@ Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 
-## 5.11 Drug-Laboratory Test Interactions
+## 5.11 Increased International Normalized Ratio (INR)/ Prolonged Prothrombin Time
 
 Clinically relevant plasma concentrations of daptomycin have been observed to cause a significant concentration-dependent false prolongation of prothrombin time (PT) and elevation of International Normalized Ratio (INR) when certain recombinant thromboplastin reagents are utilized for the assay [see Drug Interactions (7.2)].
 
-## 5.12 Non-Susceptible Microorganisms
+## 5.12 Development of Drug-Resistant Bacteria
 
-The use of antibacterials may promote the overgrowth of non-susceptible microorganisms.
-If these infections occur during therapy, appropriate measures should be taken.
-
-Prescribing daptomycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing daptomycin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
