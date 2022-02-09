@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA212278"
+  ],
+  "inn": "atazanavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-653-10",
+    "31722-653-31",
+    "31722-653-60",
+    "31722-654-10",
+    "31722-654-31",
+    "31722-654-60",
+    "31722-655-05",
+    "31722-655-30",
+    "31722-655-31"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atazanavir",
+      "name": "Atazanavir"
+    }
+  ],
+  "setid": "8a0c609f-e296-4925-a35c-e93a04467655",
+  "source": "dailymed"
+}

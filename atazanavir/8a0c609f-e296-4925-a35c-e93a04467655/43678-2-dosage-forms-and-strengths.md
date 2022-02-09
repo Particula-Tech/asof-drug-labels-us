@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Atazanavir Capsules: • 150 mg capsule with off white to pale yellow colored granular powder filled in size 1 hard gelatin capsules with Green opaque Cap imprinted with "H" in black color and Light Green opaque Body imprinted with "A6" in black color. • 200 mg capsule with off white to pale yellow colored granular powder filled in size 0 hard gelatin capsules with Green opaque Cap imprinted with "H" in black color and Light Green opaque Body imprinted with "A7'' in black color. • 300 mg capsule with off white to pale yellow colored granular powder filled in size 00 hard gelatin capsules with Orange opaque Cap imprinted with "H" in black color and Green opaque Body imprinted with "A8" in black color.
