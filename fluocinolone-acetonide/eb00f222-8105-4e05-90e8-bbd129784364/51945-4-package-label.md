@@ -2,16 +2,18 @@
 
 NDC 68791-103-20
 
-Rx only
+​Rx only
 
-DermOtic® Oil
+​DermOtic®
 
 (fluocinolone acetonide oil) 0.01%
 
 Ear Drops
 
-For Otic Use Only Not For Ophthalmic Use
+For Otic Use Only
 
-Net contents: 20 mL
+Not for Ophthalmic Use
 
-ROYAL PHARMACEUTICALS®
+​Net contents: 20 mL
+
+​ROYAL PHARMACEUTICALS®​
