@@ -9,7 +9,7 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about Amnesteem?
 
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
+- •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE REMS.
 - •Amnesteem may cause serious mental health problems.
 - 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
   Patients who are pregnant or who plan to become pregnant must not take Amnesteem.
@@ -51,9 +51,9 @@ Amnesteem is a medicine taken by mouth to treat the most severe form of acne (no
 Amnesteem can cause serious side effects (see “What is the most important information I should know about Amnesteem?”).
 Amnesteem can only be:
 
-- •prescribed by doctors that are registered in the iPLEDGE Program
-- •dispensed by a pharmacy that is registered with the iPLEDGE Program
-- •given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program.
+- •prescribed by doctors that are enrolled in the iPLEDGE REMS
+- •dispensed by a pharmacy that is enrolled with the iPLEDGE REMS
+- •given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program.
 
 What is severe nodular acne?
 
@@ -114,14 +114,14 @@ Do not take any new medicine without talking with your doctor.
 How should I take Amnesteem?
 
 - •You must take Amnesteem exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE Program.
+  You must also follow all the instructions of the iPLEDGE REMS.
   Before prescribing Amnesteem, your doctor will:
-  - •explain the iPLEDGE Program to you
+  - •explain the iPLEDGE REMS to you
   - •have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
     Patients who can get pregnant must also sign another enrollment form.
-- You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE Program.
+- You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
 - •You will get no more than a 30-day supply of Amnesteem at a time.
-  This is to make sure you are following the Amnesteem iPLEDGE Program.
+  This is to make sure you are following the Amnesteem iPLEDGE REMS.
   You should talk with your doctor each month about side effects.
 - •The amount of Amnesteem you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -139,8 +139,8 @@ How should I take Amnesteem?
   Your doctor may do blood tests to check for serious side effects from Amnesteem.
   Patients who can get pregnant will get a pregnancy test each month.
 - •Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Amnesteem.
-  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
+  You must access the iPLEDGE REMS system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
 You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
 Your doctor can arrange this free visit, which will be paid for by the company that makes Amnesteem.
@@ -259,7 +259,7 @@ This Medication Guide summarizes the most important information about Amnesteem.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Amnesteem that is written for healthcare professionals.
 
-You can also call Mylan at 1-877-446-3679 (1-877-4-INFO-RX), the iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call Mylan at 1-877-446-3679 (1-877-4-INFO-RX), the iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Amnesteem?
 
@@ -278,4 +278,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
 
-Revised: 11/2021 CAT:ISOTFR:R6
+Revised: 1/2022 CAT:ISOTFR:R7

@@ -13,7 +13,7 @@ Monthly Required iPLEDGE Interactions
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |
 
-PATIENT ENROLLMENT FORM for Patients who can get Pregnant
+Patient Enrollment Form for Patients who can get Pregnant
 
 To be completed by the patient (and their parent or guardian* if patient is under age 18) and signed by their doctor.
 
@@ -64,14 +64,14 @@ __________________________________________________________________________
 13. •and one month after stopping treatment
 14. I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
 15. Initial: ______
-16. 10.I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant and the Fact Sheet on the iPLEDGE Program.
+16. 10.I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant and the Fact Sheet on the iPLEDGE REMS.
 17. I have received information on emergency birth control.Initial: ______
 18. 11.I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.
     Initial: ______
-19. 12.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
-    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE Program for the makers of isotretinoin and government health regulatory authorities.
+19. 12.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
+    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE REMS for the makers of isotretinoin and government health regulatory authorities.
     Initial: ______
-20. 13.I understand that being qualified to receive isotretinoin in the iPLEDGE Program means that I:
+20. 13.I understand that being qualified to receive isotretinoin in the iPLEDGE REMS means that I:
 21. 
 22. •have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
     The second test must be done in a lab.
@@ -81,8 +81,8 @@ __________________________________________________________________________
     I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
     I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
 24. •have signed a Patient Enrollment Form for patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
-25. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
-26. •have interacted with the iPLEDGE Program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
+25. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
+26. •have interacted with the iPLEDGE REMS before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
 27. Initial: ______
 28. 
 
@@ -110,7 +110,7 @@ PLEASE PROVIDE A COPY TO THE PATIENT.
 
 Document Patient Identification Number:
 
-PATIENT ENROLLMENT FORM for Patients who cannot get Pregnant:
+Patient Enrollment Form for Patients who cannot get Pregnant:
 
 To be completed by patient (and parent or guardian if patient is under age 18) and signed by the doctor.
 
@@ -169,11 +169,11 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 21. 10.I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
     I understand that if someone who is pregnant gets my donated blood, their baby may be exposed to isotretinoin and may be born with serious birth defects.
 22. Initials: ______
-23. 11.I have read the Fact Sheet for the iPLEDGE Program and other materials my provider provided me containing important safety information about isotretinoin.
+23. 11.I have read the Fact Sheet for the iPLEDGE REMS and other materials my provider provided me containing important safety information about isotretinoin.
     I understand all the information I received.
 24. Initials: ______
 25. 12.My doctor and I have decided I should take isotretinoin.
-    I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
+    I understand that I must be qualified in the iPLEDGE REMS to have my prescription filled each month.
     I understand that I can stop taking isotretinoin at any time.
     I agree to tell my doctor if I stop taking isotretinoin.
 26. Initials: ______
@@ -191,7 +191,7 @@ Patient Address ________________________________ Telephone (_____._____._____)
 I have:
 
 - •fully explained to the patient, _____________________________________, the nature and purpose of isotretinoin treatment, including its benefits and risks
-- •provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE Program, and asked the patient if there are any questions regarding their treatment with isotretinoin
+- •provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE REMS, and asked the patient if there are any questions regarding their treatment with isotretinoin
 - •answered those questions to the best of my ability
 
 Doctor Signature: ________________________________________ Date: _____________

@@ -124,38 +124,38 @@ Because the onset in some patients was sudden, patients should be advised of thi
 
 # PRECAUTIONS
 
-Amnesteem must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Amnesteem must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
-Registered and activated pharmacies must receive Amnesteem only from wholesalers registered with iPLEDGE.
+Amnesteem must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Amnesteem must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE.
+Enrolled and activated pharmacies must receive Amnesteem only from wholesalers enrolled with iPLEDGE.
 
-iPLEDGE Program requirements for wholesalers, prescribers, and pharmacists are described below:
+iPLEDGE REMS requirements for wholesalers, prescribers, and pharmacists are described below:
 
 ## Wholesalers
 
-For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
-To distribute Amnesteem, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
-Wholesalers must register with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
+For the purpose of the iPLEDGE REMS, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
+To distribute Amnesteem, wholesalers must be enrolled with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
+Wholesalers must enroll with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
 These include:
 
-- •Registering prior to distributing isotretinoin and re-registering annually thereafter
+- •Enrolling prior to distributing isotretinoin and re-enrolling annually thereafter
 - •Distributing only FDA approved isotretinoin product
 - •Only shipping isotretinoin to
-  - -wholesalers registered in the iPLEDGE Program with prior written consent from the manufacturer or
-  - -pharmacies licensed in the US and registered and activated in the iPLEDGE Program
-- •Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
-- •Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
-- •Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
+  - -wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or
+  - -pharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
+- •Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
+- •Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- •Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 ## Prescribers
 
-To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
-Prescribers can register by signing and returning the completed enrollment form.
-Prescribers can only activate their registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+To prescribe isotretinoin, the prescriber must be enrolled and activated with the pregnancy risk management program iPLEDGE.
+Prescribers can enroll by signing and returning the completed enrollment form.
+Prescribers can only activate their enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - •I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - •I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - •I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer the patient to an expert for such counseling, reimbursed by the manufacturer.
-- •I will comply with the iPLEDGE Program requirements described in the booklet entitled Prescriber Guide.
+- •I will comply with the iPLEDGE REMS requirements described in the booklet entitled iPLEDGE REMS Prescriber Guide.
 - •Before beginning treatment of patients who can become pregnant with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence, not having any sexual contact with a partner that could result in pregnancy.
 - •I will not prescribe isotretinoin to any patient who can become pregnant until verifying the patient has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
@@ -163,7 +163,7 @@ Prescribers can only activate their registration by affirming that they meet req
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
-1. 1)Register each patient in the iPLEDGE Program.
+1. 1)Register each patient in the iPLEDGE REMS.
 2. 2)Confirm monthly that each patient has received counseling and education.
 3. 3)For patients who can become pregnant:
    1. •Enter patient’s two chosen forms of contraception each month.
@@ -171,7 +171,7 @@ To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the
 
 Isotretinoin must only be prescribed to patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
-Isotretinoin must only be dispensed by a pharmacy registered and activated with the pregnancy risk management program iPLEDGE and only when the registered patient meets all the requirements of the iPLEDGE Program.
+Isotretinoin must only be dispensed by a pharmacy enrolled and activated with the pregnancy risk management program iPLEDGE and only when the enrolled patient meets all the requirements of the iPLEDGE REMS.
 Meeting the requirements for a patient who can become pregnant signifies that the patient:
 
 - •Has been counseled and has signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
@@ -222,7 +222,7 @@ Any suspected fetal exposure during or one month after Amnesteem therapy must be
 Isotretinoin is contraindicated in patients who are pregnant.
 To receive isotretinoin all patients must meet all of the following conditions:
 
-- •Must be registered with the iPLEDGE Program by the prescriber
+- •Must be enrolled with the iPLEDGE REMS by the prescriber
 - •Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - •Must be reliable in understanding and carrying out instructions
 - •Must sign a Patient Enrollment Form for Patients who cannot get Pregnant that contains warnings about the potential risks associated with isotretinoin
@@ -243,30 +243,30 @@ In addition to the requirements for all patients described above, patients who c
 - •Must understand that it is the patient who can become pregnant responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
 - •Must have signed an additional Patient Enrollment Form for Patients who can get Pregnant, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
 - •Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
-- •Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should the patient become pregnant while taking isotretinoin or within one month of the last dose
+- •Must have been informed of the purpose and importance of providing information to the iPLEDGE REMS should the patient become pregnant while taking isotretinoin or within one month of the last dose
 
 ## Pharmacists
 
-To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
+To dispense isotretinoin, pharmacies must be enrolled and activated with the pregnancy risk management program iPLEDGE.
 
-The Responsible Site Pharmacist must register the pharmacy by signing and returning the completed Pharmacy Enrollment Form.
-After registration, the Responsible Site Pharmacist can only activate the pharmacy registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+The Responsible Site Pharmacist must enroll the pharmacy by signing and returning the completed Pharmacy Enrollment Form.
+After enrolling, the Responsible Site Pharmacist can only activate the pharmacy enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - •I know the risk and severity of fetal injury/birth defects from isotretinoin.
-- •I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions, on the iPLEDGE Program requirements.
-- •I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
-  - oPrescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
+- •I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions, on the iPLEDGE REMS requirements.
+- •I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE REMS requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
+  - oPrescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE REMS system and the product returned to inventory.
 - •I understand and will comply with the Non-Compliance Action Policy.
-- •I will obtain Amnesteem product only from iPLEDGE registered wholesalers.
+- •I will obtain Amnesteem product only from iPLEDGE enrolled wholesalers.
 - •I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
-- •I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE Program or if the pharmacy chooses to not reactivate annually.
+- •I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE REMS or if the pharmacy chooses to not reactivate annually.
 - •I will not fill isotretinoin for any party other than a qualified patient.
 - •I will comply with the audits by the iPLEDGE Sponsors or third party acting on behalf of the iPLEDGE Sponsors to ensure that all processes and procedures are in place and being followed for the iPLEDGE REMS.
 
 To dispense isotretinoin, the pharmacist must:
 
-1. 1)be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
-2. 2)obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) for every isotretinoin prescription.
+1. 1)be trained by the Responsible Site Pharmacist concerning the iPLEDGE REMS requirements.
+2. 2)obtain authorization from the iPLEDGE REMS via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) for every isotretinoin prescription.
    Authorization signifies that the patient has met all program requirements and is qualified to receive Amnesteem.
 3. 3)write the Risk Management Authorization (RMA) number on the prescription.
 
@@ -274,30 +274,30 @@ Amnesteem must only be dispensed:
 
 - •in no more than a 30-day supply
 - •with an Amnesteem Medication Guide
-- •after authorization from the iPLEDGE Program
+- •after authorization from the iPLEDGE REMS
 - •prior to the “do not dispense to patient after” date provided by the iPLEDGE system (within 30 days of the office visit for patients who cannot become pregnant and within 7 days of the date of specimen collection for patients who can become pregnant)
-- •with a new prescription for refills and another authorization from the iPLEDGE Program (No automatic refills are allowed)
+- •with a new prescription for refills and another authorization from the iPLEDGE REMS (No automatic refills are allowed)
 
 An Amnesteem Medication Guide must be given to the patient each time Amnesteem is dispensed, as required by law.
 This Amnesteem Medication Guide is an important part of the risk management program for the patients.
 
-Amnesteem must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
+Amnesteem must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE REMS.
 Only FDA-approved Amnesteem products must be distributed, prescribed, dispensed, and used.
 Patients must obtain Amnesteem prescriptions only at U.S. licensed pharmacies.
 
-A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
-The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
+A description of the iPLEDGE REMS educational materials available with iPLEDGE is provided below.
+The main goal of these educational materials is to explain the iPLEDGE REMS requirements and to reinforce the educational messages.
 
 1. 1)The Prescriber Guide includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified Amnesteem prescription.
 2. 2)Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
-3. 3)The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-   The iPLEDGE Program includes information on the risks and benefits of Amnesteem which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
-4. 4)The Fact Sheet for the iPLEDGE Program includes information on the iPLEDGE Program, the product indications and safety information.
+3. 3)The iPLEDGE REMS is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
+   The iPLEDGE REMS includes information on the risks and benefits of Amnesteem which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
+4. 4)The Fact Sheet for the iPLEDGE REMS includes information on the iPLEDGE REMS, the product indications and safety information.
    This handout is provided to both the patient who can become pregnant and the patient who cannot become pregnant.
    The Patient Enrollment Form for Patients who cannot get Pregnant is provided to all patients.
 5. 5)Patients who can become pregnant are provided with a Guide for Patients Who Can Get Pregnant, which contains information on isotretinoin therapy including precautions and warnings, and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects, and a toll-free line which provides Amnesteem information in two languages.
 6. 6)The booklet for patients who can become pregnant, Contraception Counseling Guide, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist, and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects.
-7. 7)The iPLEDGE Program Birth Control Information Sheet outlines the effectiveness of the approved contraception options (see Information for Patients).
+7. 7)The Guide for Patients Who Can Get Pregnant outlines the effectiveness of the approved contraception options (see Information for Patients).
 
 ## General
 
@@ -314,7 +314,7 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
 
 - •Patients must be instructed to read the Medication Guide supplied as required by law when Amnesteem is dispensed.
   The complete text of the Medication Guide is reprinted at the end of this document.
-  For additional information, patients must also be instructed to read the iPLEDGE Program patient educational materials.
+  For additional information, patients must also be instructed to read the iPLEDGE REMS patient educational materials.
   All patients must sign the Patient Enrollment Form for Patients who cannot get Pregnant.
 - •Patients who can become pregnant must be instructed that they must not be pregnant when Amnesteem therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting Amnesteem, while taking Amnesteem, and for one month after Amnesteem has been stopped, unless they commit to continuous abstinence from not having any sexual contact with a partner that could result in pregnancy.
   They should also sign a second Patient Enrollment Form for Patients who can get Pregnant prior to beginning Amnesteem therapy.
