@@ -78,6 +78,30 @@ Pfizer Injectables
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Label - 0049-3920-01
+
+NDC 0049-3920-01 Single Dose Vial
+
+Geodon® for Injection (ziprasidone mesylate) equivalent to 20 mg/mL* of ziprasidone
+
+PROTECT FROM LIGHT.
+
+Sterile For Intramuscular Use Only Rx only
+
+# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton - 0049-3920-10
+
+10 Single Dose Vials NDC 0049-3920-10 Contains 10 of NDC 0049-3920-01
+
+Geodon® for Injection (ziprasidone mesylate)
+
+equivalent to 20 mg/mL* of ziprasidone
+
+PROTECT FROM LIGHT.
+
+Sterile For Intramuscular Use Only
+
+Pfizer Injectables Rx only
+
 # PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label - 0052
 
 NDC 0049-0052-60
