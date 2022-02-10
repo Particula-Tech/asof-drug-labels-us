@@ -20,6 +20,8 @@ Fertility studies have not been conducted with PENNSAID.
 Diclofenac sodium administered to male and female rats at doses up to 4 mg/kg/day (approximately 3.4 times the MRHD of PENNSAID based on apparent bioavailability and body surface area comparison) did not affect fertility.
 Studies conducted in rats found no effect of dermally applied DMSO on fertility, reproductive performance, or offspring performance.
 
+However, published studies report that treatment of adult male rats with diclofenac by the oral route at 10 mg/kg (0.6 times the MRHD) for 14 days and at 0.25 mg/kg (0.01 times the MRHD) for 30 days produced adverse effects on male reproductive hormones and testes.
+
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Ocular Effects

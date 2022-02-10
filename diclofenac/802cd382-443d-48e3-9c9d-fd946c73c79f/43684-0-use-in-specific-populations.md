@@ -16,7 +16,7 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.6, 0.6, and 1.3 times, respectively, the maximum recommended human dose (MRHD) of PENNSAID, despite the presence of maternal and fetal toxicity at these doses [see Data].
+In animal reproduction studies, no evidence of malformations were observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.6, 0.6, and 1.3 times, respectively, the maximum recommended human dose (MRHD) of 162 mg diclofenac sodium via PENNSAID, despite the presence of maternal and fetal toxicity at these doses [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -36,7 +36,7 @@ Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy,
 
 Oligohydramnios/Neonatal Renal Impairment:
 
-If an NSAID is necessary at about 20 weeks gestation or later I pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If PENNSAID treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
 If oligohydramnios occurs, discontinue PENNSAID and follow up according to clinical practice (see Data).
 
@@ -67,9 +67,14 @@ Because the published safety data on neonatal outcomes involved mostly preterm i
 
 Animal data
 
-Reproductive and developmental studies in animals demonstrated that diclofenac sodium administration during organogenesis did not produce teratogenicity despite the induction of maternal toxicity and fetal toxicity in mice at oral doses up to 20 mg/kg/day (approximately 0.6 times the maximum recommended human dose [MRHD] of PENNSAID, 162 mg/day, based on body surface area (BSA) comparison), and in rats and rabbits at oral doses up to 10 mg/kg/day (approximately 0.6 and 1.3-times, respectively, the MRHD based on BSA comparison).
+Reproductive and developmental studies in animals demonstrated that diclofenac sodium administration during organogenesis did not produce malformations despite the induction of maternal toxicity and fetal toxicity in mice at oral doses up to 20 mg/kg/day (approximately 0.6 times the maximum recommended human dose [MRHD] of PENNSAID, 162 mg diclofenac sodium/day, based on body surface area (BSA) comparison), and in rats and rabbits at oral doses up to 10 mg/kg/day (approximately 0.6 and 1.3-times, respectively, the MRHD based on BSA comparison).
 Published reproductive and developmental studies of dimethyl sulfoxide (DMSO, the solvent used in PENNSAID) are equivocal as to potential teratogenicity.
-In rats, maternally toxic doses of diclofenac were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
+
+In a study in which pregnant rats were orally administered 2 or 4 mg/kg diclofenac (0.12 and 0.24 times the MRHD, respectively, based on BSA comparison) from Gestation Day 15 through Lactation Day 21, significant maternal toxicity (peritonitis, mortality) was noted.
+These maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
+Diclofenac has been shown to cross the placental barrier in mice and rats.
+
+In published studies, diclofenac administration to pregnant rats prolonged gestation and produced liver toxicity and neuronal loss in offspring (1 mg/kg, IP; 0.06 times the MRHD based on BSA comparison), impaired nephrogenesis in the kidney (3.6 mg/kg, IP; 0.2 times the MRHD based on BSA comparison), and caused adverse effects on the developing testes (6.1 mg/kg, oral; 0.4 times the MRHD based on BSA comparison).
 
 ## 8.2 Lactation
 
@@ -93,6 +98,11 @@ Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, incl
 Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
 Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
 Consider withdrawal of NSAIDs, including PENNSAID, in women who have difficulties conceiving or who are undergoing investigation of infertility.
+
+Males
+
+Published studies in adult male rodents report that diclofenac, at clinically relevant doses, can produce adverse effects on male reproductive tissues.
+The impact of these findings on male fertility is not clear [See Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

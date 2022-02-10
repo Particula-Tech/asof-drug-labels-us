@@ -36,7 +36,7 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of PENNSAID and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+Inform pregnant women to avoid use of PENNSAID and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.11)].
 If treatment with PENNSAID is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs

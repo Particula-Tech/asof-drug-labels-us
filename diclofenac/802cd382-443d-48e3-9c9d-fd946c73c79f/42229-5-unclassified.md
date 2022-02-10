@@ -1,9 +1,9 @@
 Distributed by: Horizon Medicines LLC Deerfield, IL 60015
 
-PEN-US-PI-001
+PEN-US-PI-002
 
 Distributed by: Horizon Medicines LLC Deerfield, IL 60015 USA
 
-Revised 4/2021
+Revised 01/2022
 
-PEN-US-IFU-001
+PEN-US-IFU-002

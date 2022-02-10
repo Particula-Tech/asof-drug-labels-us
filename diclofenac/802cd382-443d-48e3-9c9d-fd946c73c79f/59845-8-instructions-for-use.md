@@ -35,7 +35,7 @@ Steps for using PENNSAID pump bottle:
 
 | Step 1: | Wash your hands with soap and water before applying PENNSAID. |
 | --- | --- |
-| Step 2: | Remove the bottle cap and press the pump head down firmly and fully to dispense PENNSAID into the palm of your hand. Release th e pump head and then press the pump head down firmly and fully a second time. When you use your PENNSAID pump bottle, you can hold the bottle at an angle. Put 2 pumps of PENNSAID on your hand (See Figure C). |
+| Step 2: | Remove the bottle cap and press the pump head down firmly and fully to dispense PENNSAID into the palm of your hand. Release the pump head and then press the pump head down firmly and fully a second time. When you use your PENNSAID pump bottle, you can hold the bottle at an angle. Put 2 pumps of PENNSAID on your hand (See Figure C). |
 | Figure C. |  |
 | Step 3: | Apply PENNSAID evenly around the front, back, and sides of your knee. PENNSAID should be applied without massaging the knee (See Figures D and E). |
 | Figure D. |  |
