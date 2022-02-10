@@ -1,6 +1,6 @@
-# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
+What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
 
@@ -11,6 +11,7 @@ NSAIDs can cause serious side effects, including:
 - with longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+
 Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
@@ -18,17 +19,28 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
   - anytime during use
   - without warning symptoms
   - that may cause death
-- The risk of getting an ulcer or bleeding increases with:
-  - past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-  - taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
-  - increasing doses of NSAIDs
-  - longer use of NSAIDs
-  - smoking
-  - drinking alcohol
-  - older age
-  - poor health
-  - advanced liver disease
-  - bleeding problems
+
+The risk of getting an ulcer or bleeding increases with:
+
+- past history of stomach ulcers, or stomach or intestinal bleeding with the use of NSAIDs
+
+- taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
+
+- increasing doses of NSAIDs
+
+- longer use of NSAIDs
+
+- smoking
+
+- drinking alcohol
+
+- older age
+
+- poor health
+
+- advanced liver disease
+
+- bleeding problems
 
 NSAIDs should only be used:
 
@@ -44,7 +56,7 @@ Who should not take NSAIDs?
 
 Do not take NSAIDs:
 
-- if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
+- if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
 - right before or after heart bypass surgery.
 
 Before taking NSAIDs, tell your healthcare provider about all of your medical conditions, including if you:
@@ -56,7 +68,7 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
   Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
   If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
   You should not take NSAIDs afterabout 30 weeks of pregnancy.
-- are breastfeeding or plan to breast feed.
+- are breastfeeding or plan to breast feed
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
@@ -66,7 +78,7 @@ What are the possible side effects of NSAIDs?
 
 NSAIDs can cause serious side effects, including:
 
-See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
+See “What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?”
 
 - new or worse high blood pressure
 - heart failure
@@ -74,7 +86,7 @@ See “What is the most important information I should know about medicines call
 - kidney problems including kidney failure
 - low red blood cells (anemia)
 - life-threatening skin reactions
-- life threatening allergic reactions
+- life-threatening allergic reactions
 - Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
 
 Get emergency help right away if you get any of the following symptoms:
@@ -98,19 +110,19 @@ Stop taking your NSAID and call your healthcare provider right away if you get a
 - there is blood in your bowel movement or it is black and sticky like tar
 - unusual weight gain
 - skin rash or blisters with fever
-- swelling of the arms, legs, hands and feet
+- swelling of the arm and legs, hands and feet
 
 If you take too much of your NSAID, call your healthcare provider or get medical help right away.
 
 These are not all the possible side effects of NSAIDs.
-For more information, ask your healthcare provider or pharmacist about NSAIDs.
+For more information, ask your pharmacist about NSAIDs.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about NSAIDs
 
-- Aspirin is an NSAID but it does not increase the chance of a heart attack.
+- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
 - Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
@@ -128,8 +140,8 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-For Product Inquiry call 1-877-845-0689
+Revised October 2021 462-103-09
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised May 2021 462-103-08
+For Product Inquiry call 1-877-845-0689
