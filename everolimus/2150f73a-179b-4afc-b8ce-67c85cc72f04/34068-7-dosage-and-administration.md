@@ -88,7 +88,7 @@ Table 2: Recommended Dosage Modifications for AFINITOR/AFINITOR DISPERZ for Adve
 
 The recommended dosages of AFINITOR/AFINITOR DISPERZ for patients with hepatic impairment are described in Table 3 [see Use in Specific Populations (8.6)]:
 
-Table 3: Recommended Dosage Modifications for Patients with Hepatic Impairment
+Table 3: Recommended Dosage Modifications for Patients With Hepatic Impairment
 
 | Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |  |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Table 3: Recommended Dosage Modifications for Patients with Hepatic Impairment
 - Avoid ingesting grapefruit and grapefruit juice.
 - Reduce the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and moderate CYP3A4 inhibitor as recommended in Table 4 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-Table 4: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ with a P-gp and Moderate CYP3A4 Inhibitor
+Table 4: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ With a P-gp and Moderate CYP3A4 Inhibitor
 
 | Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |
 | --- | --- |
@@ -114,7 +114,7 @@ Table 4: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITO
 - Avoid concomitant use of St. John’s Wort (Hypericum perforatum).
 - Increase the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and strong CYP3A4 inducer as recommended in Table 5 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-Table 5: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ with P-gp and Strong CYP3A4 Inducers
+Table 5: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ With P-gp and Strong CYP3A4 Inducers
 
 | Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |
 | --- | --- |

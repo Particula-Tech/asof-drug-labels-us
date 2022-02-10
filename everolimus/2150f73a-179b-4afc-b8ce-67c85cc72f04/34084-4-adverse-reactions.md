@@ -20,7 +20,7 @@ Because clinical trials are conducted under widely varying conditions, the adver
 Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
 The safety of AFINITOR (10 mg orally once daily) in combination with exemestane (25 mg orally once daily) (n = 485) vs. placebo in combination with exemestane (n = 239) was evaluated in a randomized, controlled trial (BOLERO-2) in patients with advanced or metastatic hormone receptor-positive, HER2-negative breast cancer.
-The median age of patients was 61 years (28 to 93 years), and 75% were White.
+The median age of patients was 61 years (28 to 93 years), and 75% were white.
 The median follow-up was approximately 13 months.
 
 The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, rash, fatigue, diarrhea, and decreased appetite.
@@ -36,7 +36,7 @@ Adverse reactions reported with an incidence of ≥ 10% for patients receiving A
 Laboratory abnormalities are presented in Table 7.
 The median duration of treatment with AFINITOR was 23.9 weeks; 33% were exposed to AFINITOR for a period of ≥ 32 weeks.
 
-Table 6: Adverse Reactions Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
+Table 6: Adverse Reactions Reported in ≥ 10% of Patients With Hormone Receptor-Positive Breast Cancer in BOLERO-2
 
 |  | AFINITOR with Exemestane N = 482 |  | Placebo with Exemestane N = 238 |  |
 | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Table 6: Adverse Reactions Reported in ≥ 10% of Patients with Hormone Receptor
 | Hot flush | 6 | 0 | 14 | 0 |
 | Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration. bIncludes all reported infections, including but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
-Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
+Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients With Hormone Receptor-Positive Breast Cancer in BOLERO-2
 
 | Laboratory Parameter | AFINITOR with Exemestane N = 482 |  | Placebo with Exemestane N = 238 |  |
 | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ Coadministration of AFINITOR/AFINITOR DISPERZ and dexamethasone alcohol-free ora
 
 Pancreatic Neuroendocrine Tumors (PNET)
 
-In a randomized, controlled trial (RADIANT-3) of AFINITOR (n = 204) vs. placebo (n = 203) in patients with advanced PNET the median age of patients was 58 years (20 to 87 years), 79% were White, and 55% were male.
+In a randomized, controlled trial (RADIANT-3) of AFINITOR (n = 204) vs. placebo (n = 203) in patients with advanced PNET the median age of patients was 58 years (20 to 87 years), 79% were white, and 55% were male.
 Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
 
 The most common adverse reactions (incidence ≥ 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
@@ -142,7 +142,7 @@ The median duration of treatment in patients who received AFINITOR was 37 weeks.
 
 In female patients aged 18 to 55 years, irregular menstruation occurred in 5 of 46 (11%) AFINITOR-treated females.
 
-Table 8: Adverse Reactions Reported in ≥ 10% of Patients with PNET in RADIANT-3
+Table 8: Adverse Reactions Reported in ≥ 10% of Patients With PNET in RADIANT-3
 
 |  | AFINITOR N = 204 |  | Placebo N = 203 |  |
 | --- | --- | --- | --- | --- |
@@ -195,7 +195,7 @@ Table 8: Adverse Reactions Reported in ≥ 10% of Patients with PNET in RADIANT-
 | Hypertension | 13 | 1 | 6 | 1d |
 | Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, aphthous stomatitis, gingival pain/swelling/ulceration, glossitis, glossodynia, lip ulceration, mouth ulceration, tongue ulceration, and mucosal inflammation. bIncludes diarrhea, enteritis, enterocolitis, colitis, defecation urgency, and steatorrhea. cIncludes pneumonitis, interstitial lung disease, pulmonary fibrosis, and restrictive pulmonary disease. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
-Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with PNET in RADIANT-3
+Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients With PNET in RADIANT-3
 
 | Laboratory parameter | AFINITOR N = 204 |  | Placebo N = 203 |  |
 | --- | --- | --- | --- | --- |
@@ -227,7 +227,7 @@ Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with 
 
 Neuroendocrine Tumors (NET) of Gastrointestinal (GI) or Lung Origin
 
-In a randomized, controlled trial (RADIANT-4) of AFINITOR (n = 202 treated) vs. placebo (n = 98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (22-86 years), 76% were White, and 53% were female.
+In a randomized, controlled trial (RADIANT-4) of AFINITOR (n = 202 treated) vs. placebo (n = 98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (22-86 years), 76% were white, and 53% were female.
 The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for ≥ 6 months and 39% were treated for ≥ 12 months.
 AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
 
@@ -235,7 +235,7 @@ Serious adverse reactions occurred in 42% of AFINITOR-treated patients and inclu
 Adverse reactions occurring at an incidence of ≥ 10% and at ≥ 5% absolute incidence over placebo (all Grades) or ≥ 2% higher incidence over placebo (Grade 3 and 4) are presented in Table 10.
 Laboratory abnormalities are presented in Table 11.
 
-Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
+Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients With Non-Functional NET of GI or Lung Origin in RADIANT-4
 
 |  | AFINITOR N = 202 |  | Placebo N = 98 |  |
 | --- | --- | --- | --- | --- |
@@ -269,7 +269,7 @@ Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Fun
 | Pruritus | 17 | 1d | 9 | 0 |
 | Grading according to NCI CTCAE Version 4.03. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, gingival pain, glossitis, tongue ulceration, and mucosal inflammation. bUrinary tract infection, nasopharyngitis, upper respiratory tract infection, lower respiratory tract infection (pneumonia, bronchitis), abscess, pyelonephritis, septic shock and viral myocarditis. cIncludes pneumonitis and interstitial lung disease. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
-Table 11: Selected Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
+Table 11: Selected Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patients With Non-Functional NET of GI or Lung Origin in RADIANT-4
 
 |  | AFINITOR N = 202 |  | Placebo N = 98 |  |
 | --- | --- | --- | --- | --- |
@@ -295,7 +295,7 @@ Table 11: Selected Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patie
 Renal Cell Carcinoma (RCC)
 
 The data described below reflect exposure to AFINITOR (n = 274) and placebo (n = 137) in a randomized, controlled trial (RECORD-1) in patients with metastatic RCC who received prior treatment with sunitinib and/or sorafenib.
-The median age of patients was 61 years (27 to 85 years), 88% were White, and 78% were male.
+The median age of patients was 61 years (27 to 85 years), 88% were white, and 78% were male.
 The median duration of blinded study treatment was 141 days (19 to 451 days) for patients receiving AFINITOR.
 
 The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, asthenia, fatigue, cough, and diarrhea.
@@ -312,7 +312,7 @@ The most common medical interventions required during AFINITOR treatment were fo
 Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR vs. placebo are presented in Table 12.
 Laboratory abnormalities are presented in Table 13.
 
-Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm in RECORD-1
+Table 12: Adverse Reactions Reported in ≥ 10% of Patients With RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm in RECORD-1
 
 |  | AFINITOR N = 274 |  | Placebo N = 137 |  |
 | --- | --- | --- | --- | --- |
@@ -376,7 +376,7 @@ Musculoskeletal and connective tissue: Jaw pain (3%)
 
 Hematologic: Hemorrhage (3%)
 
-Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm Than the Placebo Arm in RECORD-1
+Table 13: Selected Laboratory Abnormalities Reported in Patients With RCC at a Higher Rate in the AFINITOR Arm Than the Placebo Arm in RECORD-1
 
 | Laboratory parameter | AFINITOR N = 274 |  | Placebo N = 137 |  |
 | --- | --- | --- | --- | --- |
@@ -401,7 +401,7 @@ Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a H
 Tuberous Sclerosis Complex (TSC)-Associated Renal Angiomyolipoma
 
 The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-2) of AFINITOR in 118 patients with renal angiomyolipoma as a feature of TSC (n = 113) or sporadic lymphangioleiomyomatosis (n = 5).
-The median age of patients was 31 years (18 to 61 years), 89% were White, and 34% were male.
+The median age of patients was 31 years (18 to 61 years), 89% were white, and 34% were male.
 The median duration of blinded study treatment was 48 weeks (2 to 115 weeks) for patients receiving AFINITOR.
 
 The most common adverse reaction reported for AFINITOR (incidence ≥ 30%) was stomatitis.
@@ -417,7 +417,7 @@ The most common adverse reaction leading to AFINITOR dose adjustment was stomati
 Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo are presented in Table 14.
 Laboratory abnormalities are presented in Table 15.
 
-Table 14: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 14: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients With TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | AFINITOR N = 79 |  | Placebo N = 39 |  |
 | --- | --- | --- | --- | --- |
@@ -444,7 +444,7 @@ Other adverse reactions involving the female reproductive system were menorrhagi
 
 The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
 
-Table 15: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 15: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patients With TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | AFINITOR N = 79 |  | Placebo N = 39 |  |
 | --- | --- | --- | --- | --- |
@@ -471,7 +471,7 @@ Updated safety information from 112 patients treated with AFINITOR for a median 
 TSC-Associated Subependymal Giant Cell Astrocytoma (SEGA)
 
 The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-1) of AFINITOR in 117 patients with SEGA and TSC.
-The median age of patients was 9.5 years (0.8 to 26 years), 93% were White, and 57% were male.
+The median age of patients was 9.5 years (0.8 to 26 years), 93% were white, and 57% were male.
 The median duration of blinded study treatment was 52 weeks (24 to 89 weeks) for patients receiving AFINITOR.
 
 The most common adverse reactions reported for AFINITOR (incidence ≥ 30%) were stomatitis and respiratory tract infection.
@@ -486,7 +486,7 @@ The most common adverse reaction leading to AFINITOR dose adjustment was stomati
 Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo are reported in Table 16.
 Laboratory abnormalities are presented in Table 17.
 
-Table 16: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients with TSC-Associated SEGA in EXIST-1
+Table 16: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients With TSC-Associated SEGA in EXIST-1
 
 |  | AFINITOR N = 78 |  | Placebo N = 39 |  |
 | --- | --- | --- | --- | --- |
@@ -516,7 +516,7 @@ For this same group of AFINITOR-treated females, the following menstrual abnorma
 
 The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: nausea (8%), pain in extremity (8%), insomnia (6%), pneumonia (6%), epistaxis (5%), hypersensitivity (3%), increased blood luteinizing hormone (LH) levels (1%), and pneumonitis (1%).
 
-Table 17: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patients with TSC-Associated SEGA in EXIST-1
+Table 17: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patients With TSC-Associated SEGA in EXIST-1
 
 |  | AFINITOR N = 78 |  | Placebo N = 39 |  |
 | --- | --- | --- | --- | --- |
@@ -540,7 +540,7 @@ TSC-Associated Partial-Onset Seizures
 
 The data described below are based on the 18-week Core phase of a randomized, double-blind, multicenter, three-arm trial (EXIST-3) comparing two everolimus trough levels (3-7 ng/mL and 9-15 ng/mL) to placebo as adjunctive antiepileptic therapy in patients with TSC-associated partial-onset seizures.
 A total of 366 patients were randomized to AFINITOR DISPERZ low trough (LT) (n = 117), AFINITOR DISPERZ high trough (HT) (n = 130), or placebo (n = 119).
-The median age of patients was 10 years (2.2 to 56 years; 28% were < 6 years, 31% were 6 to < 12 years, 22% were 12 to < 18 years, and 18% were ≥ 18 years), 65% were White, and 52% were male.
+The median age of patients was 10 years (2.2 to 56 years; 28% were < 6 years, 31% were 6 to < 12 years, 22% were 12 to < 18 years, and 18% were ≥ 18 years), 65% were white, and 52% were male.
 Patients received between one and three concomitant antiepileptic drugs.
 
 The most common adverse reaction reported for AFINITOR DISPERZ in both arms (incidence ≥ 30%) was stomatitis.
@@ -556,11 +556,11 @@ The most common adverse reactions (incidence ≥ 3%) leading to dose adjustments
 Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR DISPERZ are presented in Table 18.
 Laboratory abnormalities are presented in Table 19.
 
-Table 18: Adverse Reactions Reported in ≥ 10% of AFINITOR DISPERZ-Treated Patients with TSC-Associated Partial-Onset Seizures in EXIST-3
+Table 18: Adverse Reactions Reported in ≥ 10% of AFINITOR DISPERZ-Treated Patients With TSC-Associated Partial-Onset Seizures in EXIST-3
 
 |  | AFINITOR DISPERZ |  |  |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N=119 |  |
+|  | Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N = 119 |  |
 |  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
 | Gastrointestinal |  |  |  |  |  |  |
 | Stomatitisa | 55 | 3b | 64 | 4b | 9 | 0 |
@@ -579,11 +579,11 @@ Table 18: Adverse Reactions Reported in ≥ 10% of AFINITOR DISPERZ-Treated Pati
 
 The following additional adverse reactions occurred in < 10% of AFINITOR DISPERZ treated patients (% AFINITOR DISPERZ LT, % AFINITOR DISPERZ HT): decreased appetite (9%, 7%), pneumonia (2%, 4%), aggression (2%, 0.8%), proteinuria (0%, 2%), menorrhagia (0.9%, 0.8%), and pneumonitis (0%, 0.8%).
 
-Table 19: Selected Laboratory Abnormalities Reported in ≥ 10% AFINITOR DISPERZ-Treated Patients with TSC-Associated Partial-Onset Seizures
+Table 19: Selected Laboratory Abnormalities Reported in ≥ 10% AFINITOR DISPERZ-Treated Patients With TSC-Associated Partial-Onset Seizures
 
 |  | AFINITOR DISPERZ |  |  |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N=119 |  |
+|  | Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N = 119 |  |
 |  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
 | Hematology |  |  |  |  |  |  |
 | Neutropenia | 25 | 4a | 37 | 6 | 23 | 7a |
@@ -603,7 +603,7 @@ Updated safety information from 357 patients treated with AFINITOR DISPERZ for a
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of AFINITOR/AFINITOR DISPERZ.
+The following adverse reactions have been identified during postapproval use of AFINITOR/AFINITOR DISPERZ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
 
 - Blood and lymphatic disorders: Thrombotic microangiopathy
@@ -612,5 +612,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hepatobiliary: Cholecystitis and cholelithiasis
 - Infections: Sepsis and septic shock
 - Nervous system: Reflex sympathetic dystrophy
-- Vascular: Arterial thrombotic events
+- Vascular: Arterial thrombotic events, lymphedema
 - Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall
