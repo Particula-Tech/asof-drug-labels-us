@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213645"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "60977-145-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "DAPZURA RT"
+    }
+  ],
+  "setid": "cb1283e1-35b8-425c-b338-d9ac0c7161f8",
+  "source": "dailymed"
+}
