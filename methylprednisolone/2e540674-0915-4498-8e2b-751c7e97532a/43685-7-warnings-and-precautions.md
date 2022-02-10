@@ -37,15 +37,6 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between the use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
-## Endocrine
-
-Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
-Monitor patients for these conditions with chronic use.
-
-Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
-Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
-This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-
 ## Drug-Induced Liver Injury
 
 Rarely high doses of cyclically pulsed intravenous methylprednisolone (usually for the treatment of exacerbations of multiple sclerosis at doses of 1 gram/day) can induce a toxic form of acute hepatitis.
@@ -55,6 +46,15 @@ However, serious liver injury can occur, sometimes resulting in acute liver fail
 Discontinue intravenous methylprednisolone if toxic hepatitis occurs.
 
 Since recurrence has occurred after re-challenge, avoid use of high dose intravenous methylprednisolone in patients with a history of toxic hepatitis caused by methylprednisolone.
+
+## Endocrine
+
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
+Monitor patients for these conditions with chronic use.
+
+Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
+Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
+This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 
 ## Infections
 
