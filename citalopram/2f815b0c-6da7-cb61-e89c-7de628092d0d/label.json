@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215428"
+  ],
+  "inn": "citalopram",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-691-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "citalopram",
+      "name": "citalopram"
+    }
+  ],
+  "setid": "2f815b0c-6da7-cb61-e89c-7de628092d0d",
+  "source": "dailymed"
+}
