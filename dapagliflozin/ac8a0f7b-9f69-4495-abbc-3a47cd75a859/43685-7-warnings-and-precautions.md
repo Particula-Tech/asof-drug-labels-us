@@ -19,7 +19,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1, 2.3) and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1 and 2.4) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
 - •XIGDUO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
@@ -50,17 +50,17 @@ Hepatic Impairment: Patients with hepatic impairment have developed with cases o
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of XIGDUO XR in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.2 Hypotension
+## 5.2 Volume Depletion
 
-Dapagliflozin causes intravascular volume contraction.
-Symptomatic hypotension can occur after initiating dapagliflozin [see Adverse Reactions (6.1)], particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics.
-
-Before initiating XIGDUO XR in patients with one or more of these characteristics, volume status should be assessed and corrected.
-Monitor for signs and symptoms of hypotension after initiating therapy.
+Dapagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine.
+There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving sodium-glucose co-transporter 2 (SGLT2) inhibitors, including dapagliflozin.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating XIGDUO XR in patients with one or more of these characteristics, assess volume status and renal function.
+Monitor for signs and symptoms of hypotension and renal function after initiating therapy.
 
 ## 5.3 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus taking sodium-glucose co transporter 2 (SGLT2) inhibitors, including dapagliflozin [see Adverse Reactions (6.1)].
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus taking SGLT2 inhibitors, including dapagliflozin [see Adverse Reactions (6.1)].
 Fatal cases of ketoacidosis have been reported in patients taking dapagliflozin.
 XIGDUO XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
@@ -81,34 +81,19 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting XIGDUO XR.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue XIGDUO XR and seek medical attention immediately if signs and symptoms occur.
 
-## 5.4 Acute Kidney Injury
+## 5.4 Urosepsis and Pyelonephritis
 
-Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause acute kidney injury.
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving dapagliflozin.
-
-Increases in serum creatinine and decreases in estimated GFR may also be observed with initiation of dapagliflozin.
-Elderly patients and patients with impaired renal function may be more susceptible to these changes.
-Before initiating dapagliflozin, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing dapagliflozin in the setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue dapagliflozin promptly and institute treatment.
-
-Renal function should be evaluated prior to initiation of XIGDUO XR and monitored periodically thereafter.
-Use of XIGDUO XR is not recommended when the eGFR is less than 45 mL/min/1.73 m2.
-XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
-
-## 5.5 Urosepsis and Pyelonephritis
-
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including dapagliflozin.
+Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including dapagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.2)].
 
-## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
 XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7.6)].
+Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7)].
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
 Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
 Cases have been reported in both females and males.
@@ -118,14 +103,14 @@ Patients treated with XIGDUO XR presenting with pain or tenderness, erythema, or
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue XIGDUO XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.8 Vitamin B12 Concentrations
+## 5.7 Vitamin B12 Concentrations
 
 In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 Measure hematologic parameters on an annual basis and vitamin B12 at 2- to 3-year intervals in patients on XIGDUO XR and manage any abnormalities [see Adverse Reactions (6.1)].
 
-## 5.9 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
 Dapagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].

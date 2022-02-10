@@ -3,14 +3,13 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - •Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Hypotension [see Warnings and Precautions (5.2)]
+- •Volume Depletion [see Warnings and Precautions (5.2)]
 - •Ketoacidosis [see Warnings and Precautions (5.3)]
-- •Acute Kidney Injury [see Warnings and Precautions (5.4)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
-- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.6)]
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.7)]
-- •Vitamin B12 Concentrations [see Warnings and Precautions (5.8)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.9)]
+- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.5)]
+- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.6)]
+- •Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
+- •Genital Mycotic Infections [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ### Dapagliflozin and Metformin HCl
 
 Data from a prespecified pool of patients from 8 short-term, placebo-controlled studies of dapagliflozin coadministered with metformin immediate- or extended-release was used to evaluate safety.
-This pool included several add-on studies (metformin alone and in combination with a dipeptidyl peptidase-4 [DPP4] inhibitor and metformin, or insulin and metformin, 2 initial combination with metformin studies, and 2 studies of patients with CVD and type 2 diabetes who received their usual treatment [with metformin as background therapy]).
+This pool included several add-on studies (metformin alone and in combination with a dipeptidyl peptidase-4 [DPP4] inhibitor and metformin, or insulin and metformin, 2 initial combination with metformin studies, and 2 studies of patients with CVD and type 2 diabetes mellitus who received their usual treatment [with metformin as background therapy]).
 For studies that included background therapy with and without metformin, only patients who received metformin were included in the 8-study placebo-controlled pool.
 Across these 8 studies 983 patients were treated once daily with dapagliflozin 10 mg and metformin and 1185 were treated with placebo and metformin.
 These 8 studies provide a mean duration of exposure of 23 weeks.
@@ -36,10 +35,10 @@ These adverse reactions were not present at baseline, occurred more commonly on 
 
 Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Patients Treated with Dapagliflozin and Metformin
 
-| Placebo and Metformin N=1185 | Dapagliflozin 5 mg and Metformin N=410 | Dapagliflozin 10 mg and Metformin N=983 |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
+| --- | --- | --- | --- |
 | Pool of 8 Placebo-Controlled Studies |  |  |  |
+| Placebo and Metformin N=1185 | Dapagliflozin 5 mg and Metformin N=410 | Dapagliflozin 10 mg and Metformin N=983 |  |
 | Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, genital infection, vulvovaginitis, fungal genital infection, vulvovaginal candidiasis, vulval abscess, genital candidiasis, and vaginitis bacterial. (N for females: Placebo and metformin=534, dapagliflozin 5 mg and metformin=223, dapagliflozin 10 mg and metformin=430). | 1.5 | 9.4 | 9.3 |
 | Nasopharyngitis | 5.9 | 6.3 | 5.2 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, pyelonephritis, urethritis, and prostatitis. | 3.6 | 6.1 | 5.5 |
@@ -62,11 +61,17 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 In placebo-controlled monotherapy trials of metformin extended-release, diarrhea and nausea/vomiting were reported in >5% of metformin-treated patients and more commonly than in placebo-treated patients (9.6% versus 2.6% for diarrhea and 6.5% versus 1.5% for nausea/vomiting).
 Diarrhea led to discontinuation of study medication in 0.6% of the patients treated with metformin extended-release.
 
+### Dapagliflozin
+
+Dapagliflozin 10 mg has been evaluated in clinical trials in patients with type 2 diabetes mellitus and patients with heart failure.
+The overall safety profile of dapagliflozin was consistent across the studied indications.
+No new adverse reactions were identified in the DAPA-HF study.
+
 ### Pool of 12 Placebo-Controlled Studies for Dapagliflozin 5 and 10 mg for Glycemic Control
 
 Dapagliflozin
 
-The data in Table 2 are derived from 12 placebo-controlled studies ranging from 12 to 24 weeks.
+The data in Table 2 are derived from 12 glycemic control placebo-controlled studies ranging from 12 to 24 weeks.
 In 4 studies dapagliflozin was used as monotherapy, and in 8 studies dapagliflozin was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14.1)].
 
 These data reflect exposure of 2338 patients to dapagliflozin with a mean exposure duration of 21 weeks.
@@ -79,12 +84,12 @@ Baseline renal function was normal or mildly impaired in 92% of patients and mod
 Table 2 shows common adverse reactions associated with the use of dapagliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on dapagliflozin than on placebo, and occurred in at least 2% of patients treated with either dapagliflozin 5 mg or dapagliflozin 10 mg.
 
-Table 2: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Patients Treated with Dapagliflozin
+Table 2: Adverse Reactions in Placebo-Controlled Studies of Glycemic Control Reported in ≥2% of Patients Treated with Dapagliflozin
 
-| Placebo N=1393 | Dapagliflozin 5 mg N=1145 | Dapagliflozin 10 mg N=1193 |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
+| --- | --- | --- | --- |
 | Pool of 12 Placebo-Controlled Studies |  |  |  |
+| Placebo N=1393 | Dapagliflozin 5 mg N=1145 | Dapagliflozin 10 mg N=1193 |  |
 | Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, dapagliflozin 5 mg=581, dapagliflozin 10 mg=598). | 1.5 | 8.4 | 6.9 |
 | Nasopharyngitis | 6.2 | 6.6 | 6.3 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. | 3.7 | 5.7 | 4.3 |
@@ -100,7 +105,7 @@ Table 2: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 
 ### Pool of 13 Placebo-Controlled Studies for Dapagliflozin 10 mg for Glycemic Control
 
-Dapagliflozin 10 mg was also evaluated in a larger placebo-controlled study pool.
+Dapagliflozin 10 mg was also evaluated in a larger glycemic control placebo-controlled study pool.
 This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
 Across these 13 studies, 2360 patients were treated once daily with dapagliflozin 10 mg for a mean duration of exposure of 22 weeks.
 The mean age of the population was 59 years and 4% were older than 75 years.
@@ -110,10 +115,10 @@ Baseline renal function was normal or mildly impaired in 88% of patients and mod
 
 ### Volume Depletion
 
-Dapagliflozin causes an osmotic diuresis, which may lead to reductions in intravascular volume.
+Dapagliflozin causes an osmotic diuresis, which may lead to a reduction in intravascular volume.
 Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) for the 12-study and 13-study, short-term, placebo-controlled pools and for the DECLARE study are shown in Table 3 [see Warnings and Precautions (5.2)].
 
-Table 3: Adverse Reactions of Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies with Dapagliflozin
+Table 3: Adverse Reactions Related to Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies with Dapagliflozin
 
 |  | Pool of 12 Placebo-Controlled Studies |  |  | Pool of 13 Placebo-Controlled Studies |  | DECLARE Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -127,27 +132,27 @@ Table 3: Adverse Reactions of Volume DepletionVolume depletion includes reports 
 ### Hypoglycemia
 
 The frequency of hypoglycemia by study [see Clinical Studies (14.1)] is shown in Table 4.
-Hypoglycemia was more frequent when dapagliflozin was added to sulfonylurea or insulin [see Warnings and Precautions (5.6)].
+Hypoglycemia was more frequent when dapagliflozin was added to sulfonylurea or insulin [see Warnings and Precautions (5.5)].
 
-Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose <54 mg/dLEpisodes of hypoglycemia with glucose < 54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Clinical Studies
+Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose < 54 mg/dLEpisodes of hypoglycemia with glucose < 54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Glycemic Control Clinical Studies
 
-|  | Placebo | Dapagliflozin 5 mg | Dapagliflozin 10 mg |
+|  | Placebo | Dapagliflozin5 mg | Dapagliflozin10 mg |
 | --- | --- | --- | --- |
 | Add-on to Metformin (24 weeks) | N=137 | N=137 | N=135 |
 | Severe [n (%)] | 0 | 0 | 0 |
-| Glucose <54 mg/dL [n (%)] | 0 | 0 | 0 |
+| Glucose < 54 mg/dL [n (%)] | 0 | 0 | 0 |
 | Add-on to DPP4 inhibitor (with or without Metformin) (24 weeks) | N=226 | – | N=225 |
 | Severe [n (%)] | 0 | – | 1 (0.4) |
-| Glucose <54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
+| Glucose < 54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
 | Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
 | Severe [n (%)] | 1 (0.5) | 2 (0.9) | 2 (1.0) |
-| Glucose <54 mg/dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
+| Glucose < 54 mg/dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
 
 In the DECLARE study [see Clinical Studies (14.2)], severe events of hypoglycemia were reported in 58 (0.7%) out of 8574 patients treated with dapagliflozin 10 mg and 83 (1.0%) out of 8569 patients treated with placebo.
 
 ### Genital Mycotic Infections
 
-Genital mycotic infections were more frequent with dapagliflozin treatment.
+In the glycemic control studies, genital mycotic infections were more frequent with dapagliflozin treatment.
 Genital mycotic infections were reported in 0.9% of patients on placebo, 5.7% on dapagliflozin 5 mg, and 4.8% on dapagliflozin 10 mg, in the 12-study placebo-controlled pool.
 Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with dapagliflozin 10 mg.
 Infections were more frequently reported in females than in males (see Table 2).
@@ -159,7 +164,7 @@ Genital mycotic infections that caused study drug discontinuation were reported 
 ### Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., angioedema, urticaria, hypersensitivity) were reported with dapagliflozin treatment.
-Across the clinical program, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of dapagliflozin-treated patients.
+In glycemic control studies, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of dapagliflozin-treated patients.
 If hypersensitivity reactions occur, discontinue use of dapagliflozin; treat per standard of care and monitor until signs and symptoms resolve.
 
 ### Ketoacidosis
@@ -173,23 +178,24 @@ The events were evenly distributed over the study period.
 
 Dapagliflozin
 
-Initiation of dapagliflozin causes an increase in serum creatinine and decrease in eGFR.
-In patients with normal or mildly impaired renal function at baseline, the serum creatinine and and eGFR returned to baseline at Week 24.
-Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) [see Warnings and Precautions (5.4) and Mechanism of Action (12.1)].
+Initiation of SGLT2 inhibitors, including dapagliflozin, causes a small increase in serum creatinine and decrease in eGFR.
+In patients with normal or mildly impaired renal function at baseline, these changes in serum creatinine and eGFR generally occur within weeks of starting therapy and then stabilize.
+Increases that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury [see Warnings and Precautions (5.2)].
+The acute effect on eGFR reverses after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with dapagliflozin.
 
 #### Increase in Hematocrit
 
 Dapagliflozin
 
-In the pool of 13 placebo-controlled studies, increases from baseline in mean hematocrit values were observed in dapagliflozin-treated patients starting at Week 1 and continuing up to Week 16, when the maximum mean difference from baseline was observed.
+In the pool of 13 placebo-controlled studies of glycemic control, increases from baseline in mean hematocrit values were observed in dapagliflozin-treated patients starting at Week 1 and continuing up to Week 16, when the maximum mean difference from baseline was observed.
 At Week 24, the mean changes from baseline in hematocrit were -0.33% in the placebo group and 2.30% in the dapagliflozin 10 mg group.
 By Week 24, hematocrit values >55% were reported in 0.4% of placebo-treated patients and 1.3% of dapagliflozin 10 mg-treated patients.
 
-### Increase in Low-Density Lipoprotein Cholesterol Dapagliflozin
+### Increase in Low-Density Lipoprotein Cholesterol
 
 Dapagliflozin
 
-In the pool of 13 placebo-controlled studies, changes from baseline in mean lipid values were reported in dapagliflozin-treated patients compared to placebo-treated patients.
+In the pool of 13 placebo-controlled studies of glycemic control, changes from baseline in mean lipid values were reported in dapagliflozin-treated patients compared to placebo-treated patients.
 Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and dapagliflozin 10 mg groups, respectively.
 In the DECLARE study [see Clinical Studies (14.2)], mean changes from baseline after 4 years were 0.4 mg/dL versus -4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in dapagliflozin 10 mg-treated and the placebo groups, respectively.
 

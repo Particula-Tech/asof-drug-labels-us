@@ -2,10 +2,6 @@
 
 ## 12.1 Mechanism of Action
 
-XIGDUO XR
-
-XIGDUO XR combines two antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: dapagliflozin, a sodium-glucose cotransporter 2 (SGLT2) inhibitor, and metformin HCl, a biguanide.
-
 Dapagliflozin
 
 Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
@@ -112,10 +108,10 @@ In blood, the elimination half-life is approximately 17.6 hours, suggesting that
 
 Dapagliflozin
 
-At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
+At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes mellitus with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100% and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
-The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than patients with type 2 diabetes with normal renal function.
-The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.3), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
+The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes mellitus and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes mellitus with normal renal function.
+The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.4), Warnings and Precautions (5.2), and Use in Specific Populations (8.6)].
 
 Metformin HCl
 
@@ -131,39 +127,35 @@ In patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and A
 
 Metformin HCl
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment [see Warnings and Precautions (5.1)].
 
 #### Geriatric
 
 Dapagliflozin
 
-Based on a population pharmacokinetic analysis, age does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
+Based on a population pharmacokinetic analysis, age does not have a clinically meaningful effect on systemic exposures of dapagliflozin.
 
 Metformin HCl
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-#### Pediatric
-
-Pharmacokinetics of XIGDUO XR in the pediatric population has not been studied.
-
 #### Gender
 
 Dapagliflozin
 
-Based on a population pharmacokinetic analysis, gender does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
+Based on a population pharmacokinetic analysis, gender does not have a clinically meaningful effect on systemic exposures of dapagliflozin.
 
 Metformin HCl
 
-Metformin pharmacokinetic parameters did not differ significantly between healthy subjects and patients with type 2 diabetes when analyzed according to gender (males=19, females=16).
+Metformin pharmacokinetic parameters did not differ significantly between healthy subjects and patients with type 2 diabetes mellitus when analyzed according to gender (males=19, females=16).
 Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin was comparable in males and females.
 
 #### Race
 
 Dapagliflozin
 
-Based on a population pharmacokinetic analysis, race (White, Black, or Asian) does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
+Based on a population pharmacokinetic analysis, race (White, Black, or Asian) does not have a clinically meaningful effect on systemic exposures of dapagliflozin.
 
 Metformin HCl
 
@@ -174,7 +166,7 @@ In controlled clinical studies of metformin in patients with type 2 diabetes, th
 
 Dapagliflozin
 
-Based on a population pharmacokinetic analysis, body weight does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
+Based on a population pharmacokinetic analysis, body weight does not have a clinically meaningful effect on systemic exposures of dapagliflozin.
 
 ### Drug Interactions
 
@@ -191,11 +183,11 @@ Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrentl
 
 #### Effects of Other Drugs on Metformin
 
-Table 5 shows the effect of other coadministered drugs on metformin.
+Table 6 shows the effect of other coadministered drugs on metformin.
 
-Table 5: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 6: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug (Dose Regimen)All metformin and coadministered drugs were given as single doses. | Metformin(Dose Regimen) | Metformin |  |
+| Coadministered Drug(Dose Regimen)All metformin and coadministered drugs were given as single doses. | Metformin(Dose Regimen) | Metformin |  |
 | --- | --- | --- | --- |
 | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF). | Change in Cmax |  |  |
 | No dosing adjustments required for the following: |  |  |  |
@@ -204,14 +196,14 @@ Table 5: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine (10 mg) | 850 mg | ↑9% | ↑20% |
 | Propranolol (40 mg) | 850 mg | ↓10% | ↓6% |
 | Ibuprofen (400 mg) | 850 mg | ↑5% | ↑7% |
-| Drugs eliminated by renal tubular secretion may increase the accumulation of metformin [see Drug Interactions (7.4)]. |  |  |  |
+| Drugs eliminated by renal tubular secretion may increase the accumulation of metformin [see Drug Interactions (7)]. |  |  |  |
 | Cimetidine (400 mg) | 850 mg | ↑40% | ↑60% |
 
 #### Effects of Metformin on Other Drugs
 
-Table 6 shows the effect of metformin on other coadministered drugs.
+Table 7 shows the effect of metformin on other coadministered drugs.
 
-Table 6: Effect of Metformin on Coadministered Drug Systemic Exposure
+Table 7: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) unless otherwise noted. | Change in Cmax |  |  |
 | --- | --- | --- | --- |
@@ -226,12 +218,12 @@ Table 6: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 #### Effects of Other Drugs on Dapagliflozin
 
-Table 7 shows the effect of coadministered drugs on dapagliflozin.
+Table 8 shows the effect of coadministered drugs on dapagliflozin.
 No dose adjustments are recommended for dapagliflozin.
 
-Table 7: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Table 8: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Dapagliflozin |  |
+| Coadministered Drug(Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin(Dose Regimen) | Dapagliflozin |  |
 | --- | --- | --- | --- |
 | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
 | No dosing adjustments required for the following: |  |  |  |
@@ -253,12 +245,12 @@ Table 7: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
 #### Effects of Dapagliflozin on Other Drugs
 
-Table 8 shows the effect of dapagliflozin on other coadministered drugs.
+Table 9 shows the effect of dapagliflozin on other coadministered drugs.
 Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
 
-Table 8: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Table 9: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively.inAUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
+| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
 | --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Coadministered Drug |  |
 | No dosing adjustments required for the following: |  |  |  |

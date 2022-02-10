@@ -15,7 +15,7 @@ Inform patients about the importance of regular testing of renal function and he
 
 Instruct patients to inform their healthcare provider that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Hypotension
+Volume Depletion
 
 Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
@@ -26,36 +26,31 @@ Inform patients that ketoacidosis is a serious life-threatening condition and th
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.3)].
 
-Acute Kidney Injury
-
-Inform patients that acute kidney injury has been reported during use of dapagliflozin.
-Advise patients to seek medical advice immediately if they have reduced oral intake (due to acute illness or fasting) or increased fluid losses (due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue XIGDUO XR use in those settings [see Warnings and Precautions (5.4)].
-
 Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.5)].
+Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
 
 Hypoglycemia
 
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.6)].
+Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
 Inform patients that necrotizing infections of the perineum (Fournier’s Gangrene) have occurred with dapagliflozin, a component of XIGDUO XR.
-Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.6)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
-Genital Mycotic Infections in Males (e.g., Balanitis)
+Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 

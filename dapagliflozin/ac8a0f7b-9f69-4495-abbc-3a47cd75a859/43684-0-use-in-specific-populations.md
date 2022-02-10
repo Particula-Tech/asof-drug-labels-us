@@ -102,6 +102,10 @@ A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years a
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
 In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin had adverse reactions of hypotension [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
+In the overall population of the DAPA-HF study, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years.
+Out of 2139 patients with HFrEF and type 2 diabetes mellitus, 1211 (56.6%) were older than 65 years.
+Safety and efficacy were similar for patients age 65 years and younger and those older than 65 in both the overall population and the patients with type 2 diabetes mellitus.
+
 Metformin HCl
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients.
@@ -110,20 +114,23 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 
 ## 8.6 Renal Impairment
 
-Dapagliflozin
+XIGDUO XR is not recommended in patients with an eGFR below 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end stage renal disease or patients on dialysis [see Dosage and Administration (2.4), Contraindications (4) and Warnings and Precautions (5.1, 5.2)].
 
-Use of dapagliflozin is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.3) and Warnings and Precautions (5.4)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
+Dapagliflozin
 
 Dapagliflozin was evaluated in two glycemic control studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2, and an eGFR of 30 to less than 60 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 The safety profile of dapagliflozin in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes.
 Although patients in the dapagliflozin arm had reduction in eGFR compared to the placebo arm, eGFR generally returned towards baseline after treatment discontinuation.
-Patients with renal impairment using dapagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury.
+Patients with diabetes and renal impairment using dapagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury.
 In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving dapagliflozin experienced bone fractures compared to none receiving placebo.
+
+In the DAPA-HF study [see Clinical Studies (14.3)] that included patients with eGFR equal to or above 30 mL/min/1.73 m2, there were 1926 (41%) patients with eGFR below 60 mL/min/1.73 m2 and 719 (15%) with eGFR below 45 mL/min/1.73 m2.
+No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
 
 Metformin HCl
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-XIGDUO XR is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+XIGDUO XR is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
