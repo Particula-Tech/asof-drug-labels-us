@@ -42,7 +42,13 @@ Doravirine was excreted into the milk of lactating rats following oral administr
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of PIFELTRO have not been established in pediatric patients less than 18 years of age.
+The safety and efficacy of PIFELTRO for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 35 kg [see Indications and Usage (1) and Dosage and Administration (2.1)].
+
+Use of PIFELTRO in this group is supported by evidence from adequate and well-controlled trials in adults and an open-label trial in virologically-suppressed or treatment-naïve pediatric subjects 12 to less than 18 years of age.
+The safety, efficacy, and exposure of doravirine in these pediatric subjects were similar to that in adults.
+[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3).]
+
+Safety and efficacy of PIFELTRO in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 

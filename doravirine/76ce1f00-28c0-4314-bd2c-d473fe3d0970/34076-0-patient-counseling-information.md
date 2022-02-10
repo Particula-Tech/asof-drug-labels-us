@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Drug Interactions
 
-Inform patients that PIFELTRO may interact with certain other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7.1)]
+Inform patients that PIFELTRO may interact with certain other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7.1)].
 
 For patients concomitantly receiving rifabutin, take one tablet of PIFELTRO twice daily (approximately 12 hours apart) [see Dosage and Administration (2.2)].
 

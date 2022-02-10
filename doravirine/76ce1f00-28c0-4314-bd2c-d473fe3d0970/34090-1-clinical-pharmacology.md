@@ -6,7 +6,7 @@ Doravirine is an antiretroviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of PIFELTRO, (in combination with FTC/TDF) in HIV-1 infected subjects with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
+In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of PIFELTRO, (in combination with FTC/TDF) in HIV-1-infected subjects with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
 
 Cardiac Electrophysiology
 
@@ -22,7 +22,7 @@ Table 7: Pharmacokinetic Properties of Doravirine
 | Parameter | Doravirine |
 | --- | --- |
 | General |  |
-| Steady State ExposureDoravirine 100 mg once daily to HIV-1 infected subjects,Presented as geometric mean (%CV: geometric coefficient of variation) |  |
+| Steady State ExposureDoravirine 100 mg once daily to HIV-1-infected subjects,Presented as geometric mean (%CV: geometric coefficient of variation) |  |
 | AUC0-24 (mcg∙h/mL) | 16.1 (29) |
 | Cmax (mcg/mL) | 0.962 (19) |
 | C24 (mcg/mL) | 0.396 (63) |
@@ -52,7 +52,7 @@ Table 7: Pharmacokinetic Properties of Doravirine
 
 Specific Populations
 
-No clinically significant difference on the pharmacokinetics of doravirine were observed based on age (18 to 78 years of age), sex, and race/ethnicity, mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault), or moderate hepatic impairment (Child-Pugh B). The pharmacokinetics of doravirine in patients with end-stage renal disease or undergoing dialysis, severe hepatic impairment (Child-Pugh C), or <18 years of age is unknown.
+In adults, no clinically significant difference on the pharmacokinetics of doravirine were observed based on age (18 to 78 years of age), sex, and race/ethnicity, mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault), or moderate hepatic impairment (Child-Pugh B). The pharmacokinetics of doravirine in patients with end-stage renal disease or undergoing dialysis, or severe hepatic impairment (Child-Pugh C) is unknown.
 
 Patients with Renal Impairment
 
@@ -65,6 +65,21 @@ Patients with Hepatic Impairment
 No clinically significant difference in the pharmacokinetics of doravirine was observed in subjects with moderate hepatic impairment (Child-Pugh score B) compared to subjects without hepatic impairment.
 Doravirine has not been studied in subjects with severe hepatic impairment (Child-Pugh score C) [see Use in Specific Populations (8.7)].
 
+Pediatric Patients
+
+Mean doravirine exposures were similar in 54 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received doravirine or DELSTRIGO in IMPAACT 2014 (Protocol 027) relative to adults following administration of doravirine or DELSTRIGO (Table 8).
+For pediatric patients weighing ≥ 35 kg and < 45 kg who receive doravirine 100 mg or DELSTRIGO, the population pharmacokinetic model-predicted mean C24 of doravirine was comparable to that achieved in adults, whereas mean AUC0-24 and Cmax of doravirine were 25% and 36% higher than adult values, respectively.
+However, the predicted AUC0-24 and Cmax increases are not considered clinically significant.
+
+Table 8: Steady State Pharmacokinetics for Doravirine Following Administration of Doravirine or DELSTRIGO in HIV-1-Infected Pediatric Patients Aged 12 to Less than 18 Years and Weighing at Least 35 kg
+
+| ParameterPresented as geometric mean (%CV: geometric coefficient of variation) | DoravirineFrom population PK analysis (n=53 weighing ≥45 kg, n=1 weighing ≥35 kg to <45 kg) |
+| --- | --- |
+| AUC0-24 (mcg∙h/mL) | 16.4 (24) |
+| Cmax (mcg/mL) | 1.03 (16) |
+| C24 (mcg/mL) | 0.379 (42) |
+| Abbreviations: AUC=area under the time concentration curve; Cmax=maximum concentration; C24=concentration at 24 hours |  |
+
 Drug Interaction Studies
 
 Doravirine is primarily metabolized by CYP3A, and drugs that induce or inhibit CYP3A may affect the clearance of doravirine.
@@ -75,10 +90,10 @@ Doravirine is not likely to have a clinically relevant effect on the exposure of
 Doravirine did not inhibit major drug metabolizing enzymes in vitro, including CYPs 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A4, and UGT1A1 and is not likely to be an inducer of CYP1A2, 2B6, or 3A4.
 Based on in vitro assays, doravirine is not likely to be an inhibitor of OATP1B1, OATP1B3, P-glycoprotein, BSEP, OAT1, OAT3, OCT2, MATE1, and MATE2K.
 Drug interaction studies were performed with doravirine and other drugs likely to be co-administered or commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration with other drugs on the exposure (Cmax, AUC, and C24) of doravirine are summarized in Table 8.
+The effects of co-administration with other drugs on the exposure (Cmax, AUC, and C24) of doravirine are summarized in Table 9.
 A single doravirine 100 mg dose was administered in these studies unless otherwise noted.
 
-Table 8: Drug Interactions: Changes in Pharmacokinetic Parameter Values of Doravirine in the Presence of Co-administered Drug
+Table 9: Drug Interactions: Changes in Pharmacokinetic Parameter Values of Doravirine in the Presence of Co-administered Drug
 
 | AUCAUC0-∞ for single-dose, AUC0-24 for once daily. | Cmax | C24 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -88,6 +103,7 @@ Table 8: Drug Interactions: Changes in Pharmacokinetic Parameter Values of Dorav
 | Antimycobacterials |  |  |  |  |  |
 | rifampin | 600 mg QD | 10 | 0.12 (0.10, 0.15) | 0.43 (0.35, 0.52) | 0.03 (0.02, 0.04) |
 | rifabutin | 300 mg QD | 12 | 0.50 (0.45, 0.55) | 0.99 (0.85, 1.15) | 0.32 (0.28, 0.35) |
+| 300 mg QDDoravirine 100 mg BID resulted in similar pharmacokinetic values when compared to 100 mg QD without rifabutin. | 15 | 1.03 (0.94, 1.14) | 0.97 (0.87, 1.08) | 0.98 (0.88, 1.10) |  |
 | HIV Antiviral Agents |  |  |  |  |  |
 | ritonavir,A single doravirine 50 mg dose (0.5 times the recommended approved dose) was administered. | 100 mg BID | 8 | 3.54 (3.04, 4.11) | 1.31 (1.17, 1.46) | 2.91 (2.33, 3.62) |
 | efavirenz | 600 mg QDThe first day following the cessation of efavirenz therapy and initiation of doravirine 100 mg QD. | 17 | 0.38 (0.33, 0.45) | 0.65 (0.58, 0.73) | 0.15 (0.10, 0.23) |
@@ -138,7 +154,7 @@ In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 9
 
 Clinical Trial Results in Virologically-Suppressed Adults
 
-In the DRIVE-SHIFT clinical trial [see Clinical Studies 14.2], there were 6 subjects in the immediate switch group (n=447) and 2 subjects in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
+In the DRIVE-SHIFT clinical trial [see Clinical Studies (14.2)], there were 6 subjects in the immediate switch group (n=447) and 2 subjects in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
 Two of the 6 virologic failure subjects in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
 One of the two virologic failure subjects in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
 
@@ -146,7 +162,7 @@ Cross-Resistance
 
 Cross-resistance has been observed among NNRTIs.
 Treatment-emergent doravirine resistance-associated substitutions can confer cross-resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
-Of the 8 virologic failures who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 3 had resistance to etravirine in the Monogram PhenoSense assay.
+Of the 8 virologic failure subjects who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 4 had resistance to etravirine in the Monogram PhenoSense assay.
 Of the 11 virologic failure subjects in DRIVE-AHEAD phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
 
 The treatment-emergent doravirine resistance-associated substitution Y318F did not confer reduced susceptibility to efavirenz, etravirine, or rilpivirine.

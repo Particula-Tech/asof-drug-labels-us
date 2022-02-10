@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dosage regimen of PIFELTRO in adults is one 100 mg tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
+The recommended dosage regimen of PIFELTRO in adults and pediatric patients weighing at least 35 kg is one 100 mg tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Dosage Adjustment with Rifabutin
 
