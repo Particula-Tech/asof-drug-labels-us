@@ -29,4 +29,4 @@ The published literature has included some reports of dantrolene sodium use in p
 Dantrolene Sodium for Injection is not indicated for the treatment of NMS and patients may expire despite treatment with Dantrolene Sodium for Injection.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

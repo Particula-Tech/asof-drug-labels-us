@@ -2,12 +2,14 @@ Manufactured by:
 
 HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 
-Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 – Terrugem SNT, PORTUGAL
+Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 – Terrugem Sintra, Portugal
 
 Distributed by:
 
-Eatontown, NJ 07724 USA
+Hikma Pharmaceuticals USA Inc.
 
-Revised: January 2019
+Berkeley Heights, NJ 07922
 
-PIN474-WES/2
+Revised: August 2020
+
+PIN474-WES/3

@@ -72,7 +72,7 @@ Pregnancy Category C
 
 Dantrolene sodium has been shown to be embryocidal in the rabbit and has been shown to decrease pup survival in the rat when given at doses seven times the human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
-Dantrolene Sodium for Injectionshould be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Dantrolene Sodium for Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Labor and Delivery
 

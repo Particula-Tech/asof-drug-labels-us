@@ -23,7 +23,7 @@ Specific metabolic pathways for the degradation and elimination of dantrolene so
 Dantrolene is found in measurable amounts in blood and urine.
 Its major metabolites in body fluids are 5-hydroxy dantrolene and an acetylamino metabolite of dantrolene.
 Another metabolite with an unknown structure appears related to the latter.
-Dantrolene sodiummay also undergo hydrolysis and subsequent oxidation forming nitrophenylfuroic acid.
+Dantrolene sodium may also undergo hydrolysis and subsequent oxidation forming nitrophenylfuroic acid.
 
 The mean biologic half-life of dantrolene sodium after intravenous administration is variable, between 4 to 8 hours under most experimental conditions.
 Based on assays of whole blood and plasma, slightly greater amounts of dantrolene are associated with red blood cells than with the plasma fraction of blood.
