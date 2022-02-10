@@ -25,13 +25,13 @@ Data
 
 Human Data
 
-Lamivudine: The APR has received a total of over 12,000 prospective reports with follow-up data of possible exposure to lamivudine-containing regimens; over 5,400 reports in the first trimester; over 5,500 reports in the second trimester; and over 1,800 reports in the third trimester.
-Birth defects occurred in 151 of 5,008 (3.0%, 95% CI: 2.6% to 3.5%) live births for lamivudine-containing regimens (first trimester exposure); and 210 of 7,356 (2.9%, 95% CI: 2.5% to 3.3%) live births for lamivudine-containing regimens (second/third trimester exposure).
+Lamivudine: The APR has received a total of over 13,000 prospective reports with follow-up data of possible exposure to lamivudine-containing regimens; over 5,900 reports in the first trimester; over 5,600 reports in the second trimester; and over 1,800 reports in the third trimester.
+Birth defects occurred in 170 of 5,472 (3.1%, 95% CI: 2.7% to 3.6%) live births for lamivudine-containing regimens (first trimester exposure); and 218 of 7,513 (2.9%, 95% CI: 2.5% to 3.3%) live births for lamivudine-containing regimens (second/third trimester exposure).
 Among pregnant mothers in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between lamivudine and overall birth defects observed in the APR.
 
-TDF: The APR has received a total of over 5,500 prospective reports with follow-up data of possible exposure to tenofovir disoproxil-containing regimens; over 3,900 reports in the first trimester; over 1,000 reports in the second trimester; and over 500 reports in the third trimester.
-Birth defects occurred in 82 of 3,535 (2.3%, 95% CI: 1.9% to 2.9%) live births for TDF-containing regimens (first trimester exposure); and 35 of 1,570 (2.2%, 95% CI: 1.6% to 3.1%) live births for TDF-containing regimens (second/third trimester exposure).
+TDF: The APR has received a total of over 7,000 prospective reports with follow-up data of possible exposure to tenofovir disoproxil-containing regimens; over 5,100 reports in the first trimester; over 1,300 reports in the second trimester; and over 600 reports in the third trimester.
+Birth defects occurred in 113 of 4,576 (2.5%, 95% CI: 2.0% to 3.0%) live births for TDF-containing regimens (first trimester exposure); and 51 of 1,965 (2.6%, 95% CI: 1.9% to 3.4%) live births for TDF-containing regimens (second/third trimester exposure).
 Among pregnant mothers in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between tenofovir and overall birth defects observed in the APR.
 
@@ -67,7 +67,13 @@ Doravirine: Doravirine was excreted into the milk of lactating rats following or
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of DELSTRIGO have not been established in pediatric patients less than 18 years of age.
+The safety and efficacy of DELSTRIGO for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 35 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
+
+Use of DELSTRIGO in this group is supported by evidence from adequate and well-controlled trials in adults with additional pharmacokinetic, safety, and efficacy data from an open-label trial in virologically-suppressed or treatment-naïve pediatric subjects 12 to less than 18 years of age.
+The safety and efficacy of DELSTRIGO in these pediatric subjects were similar to that in adults, and there was no clinically significant difference in exposure for the components of DELSTRIGO.
+[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3).]
+
+Safety and efficacy of DELSTRIGO in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 

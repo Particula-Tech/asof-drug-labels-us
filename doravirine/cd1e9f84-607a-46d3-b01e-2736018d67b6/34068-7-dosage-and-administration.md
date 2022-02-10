@@ -10,7 +10,7 @@ In patients with chronic kidney disease, also assess serum phosphorus [see Warni
 ## 2.2 Recommended Dosage
 
 DELSTRIGO is a fixed-dose combination product containing 100 mg of doravirine (DOR), 300 mg of lamivudine (3TC), and 300 mg of TDF.
-The recommended dosage of DELSTRIGO in adults is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
+The recommended dosage of DELSTRIGO in adults and pediatric patients weighing at least 35 kg is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Renal Impairment
 

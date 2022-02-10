@@ -154,6 +154,13 @@ Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Supp
 | HDL-Cholesterol (mg/dL) | 50.0 | -1.3 | 48.5 | 1.9 | - |
 | Subjects on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=26 and PI+ritonavir n=13). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=4 and PI+ritonavir n=2). |  |  |  |  |  |
 
+Adverse Reactions in Pediatric Patients
+
+The safety of DELSTRIGO was evaluated in 45 HIV-1-infected virologically-suppressed or treatment-naïve pediatric patients 12 to less than 18 years of age through Week 24 in an open-label trial (IMPAACT 2014 (Protocol 027)) [see Clinical Studies (14.3)].
+The safety profile in pediatric subjects was similar to that in adults.
+There were no serious or Grade 3 or 4 adverse reactions.
+No subjects discontinued due to an adverse event.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing experience in patients receiving lamivudine- or TDF-containing regimens.

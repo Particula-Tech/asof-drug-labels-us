@@ -40,11 +40,18 @@ Consider the potential for drug interactions prior to and during DELSTRIGO thera
 
 Bone Mineral Density
 
-In clinical trials in HIV-1 infected adults, TDF (a component of DELSTRIGO) was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+In clinical trials in HIV-1-infected adults, TDF (a component of DELSTRIGO) was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving TDF.
 
+Clinical trials evaluating TDF in pediatric subjects were conducted.
+Under normal circumstances, BMD increases rapidly in pediatric patients.
+In HIV-1 infected subjects 2 years to less than 18 years of age, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
+Total body BMD gain was less in the TDF-treated HIV-1 infected pediatric subjects as compared to the control groups.
+Similar trends were observed in chronic HBV-infected pediatric subjects 2 years to less than 18 years of age.
+In all pediatric trials, normal skeletal growth (height) was not affected for the duration of the clinical trials.
+
 The effects of TDF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
-Assessment of BMD should be considered for HIV-1 infected adult patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Assessment of BMD should be considered for HIV-1-infected adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial in all patients.
 If bone abnormalities are suspected, then appropriate consultation should be obtained.
 
