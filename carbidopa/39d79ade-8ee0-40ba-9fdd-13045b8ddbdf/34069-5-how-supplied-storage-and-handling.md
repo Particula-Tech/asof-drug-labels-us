@@ -8,7 +8,7 @@ The unscored side of the tablet is debossed with logo “AV70l”.
 
 DHIVY is supplied as follows:
 
-- NDC 75854-701-01 bottles of 100.
+NDC 75854-701-01 bottles of 100.
 
 ## 16.2 Storage and Handling
 
