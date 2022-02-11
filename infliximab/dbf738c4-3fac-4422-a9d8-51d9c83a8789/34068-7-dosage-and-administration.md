@@ -78,11 +78,14 @@ The reconstituted infusion solution should be prepared by a trained medical prof
    Slowly add the total volume of reconstituted RENFLEXIS solution to the 250 mL infusion bottle or bag.
    Gently mix.
    The resulting infusion concentration should range between 0.4 mg/mL and 4 mg/mL.
-4. The RENFLEXIS infusion should begin within 3 hours of reconstitution and dilution.
+4. The RENFLEXIS infusion should begin within 4 hours of reconstitution and dilution.
    The infusion must be administered over a period of not less than 2 hours and must use an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 μm or less).
-   The vials do not contain antibacterial preservatives.
+   - The diluted RENFLEXIS solution may be stored at room temperature at 25 ºC (77ºF) for up to 4 hours, including reconstitution and dilution time.
+   - If needed, the diluted RENFLEXIS solution may be stored refrigerated at 2ºC to 8ºC (36ºF to 46ºF) for up to 34 days.
+     After removal from refrigeration, the diluted solution may be stored at room temperature at up to 25ºC (77ºF) for an additional 6 hours.
+5. The vials do not contain antibacterial preservatives.
    Therefore, any unused portion of the infusion solution should not be stored for reuse.
-5. No physical biochemical compatibility studies have been conducted to evaluate the coadministration of RENFLEXIS with other agents.
+6. No physical biochemical compatibility studies have been conducted to evaluate the coadministration of RENFLEXIS with other agents.
    RENFLEXIS should not be infused concomitantly in the same intravenous line with other agents.
-6. Parenteral drug products should be inspected visually before and after reconstitution for particulate matter and discoloration prior to administration, whenever solution and container permit.
+7. Parenteral drug products should be inspected visually before and after reconstitution for particulate matter and discoloration prior to administration, whenever solution and container permit.
    If visibly opaque particles, discoloration or other foreign particulates are observed, the solution should not be used.

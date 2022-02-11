@@ -75,4 +75,4 @@
 | U.S. License No. 2046 |  |  |  |  |  |
 | Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA |  |  |  |  |  |
 | The trademarks above are owned by their respective owners. For more information, go to www.RENFLEXIS.com or call 1-844-674-3200. |  |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  | Revised: June 2021 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  | Revised: January 2022 |
