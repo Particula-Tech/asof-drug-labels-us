@@ -17,13 +17,13 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8064912 Revised September 2017
+8084534 Revised October 2021
 
 PATIENT INFORMATION
 
@@ -186,7 +186,7 @@ This patient leaflet summarizes the most important information about sildenafil 
 If you would like more information about sildenafil tablets talk with your doctor.
 You can ask your doctor or pharmacist for information about sildenafil tablets that is written for health professionals.
 
-For more information Call 1-269-544-2299.
+For more information Call 1-800-912-9561.
 
 What are the ingredients in sildenafil tablets?
 
@@ -205,10 +205,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8064913 Revised September 2017
+8084535 Revised October 2021
