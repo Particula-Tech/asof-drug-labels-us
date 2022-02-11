@@ -130,7 +130,7 @@ Desvenlafaxine can cause serious side effects, including:
   Call your healthcare provider if you have changes in your vision or eye pain. • Discontinuation syndrome.
   Suddenly stopping desvenlafaxine when you take higher doses may cause you to have serious side effects.
   Your healthcare provider may want to decrease your dose slowly.
-  Symptoms may include: o dizziness o nausea o headache o irritability and agitation o problems sleeping o diarrhea o anxiety o tiredness o abnormal dreams o sweating o confusion o changes in your mood o seizures o electric shock sensation (paresthesia) o hypomania o ringing in your ears (tinnitus)
+  Symptoms may include the following, some of which can be severe and last for a long time: o dizziness o ringing in your ears (tinnitus) o headache o irritability and agitation o nausea o diarrhea o anxiety o problems sleeping o abnormal dreams o aggressiveness (including hostility, rage) o tiredness o changes in your mood o tremor o confusion o hypomania o sweating o electric shock sensation (paresthesia) o problems with eyesight (such as blurred vision and trouble focusing) o seizures o increase in blood pressure
 - Seizures (convulsions).
 - Low sodium levels in your blood (hyponatremia).
   Low sodium levels can happen during treatment with desvenlafaxine.
@@ -187,13 +187,14 @@ You can ask your pharmacist or healthcare provider for information about desvenl
 
 For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.bpirx.com.
 
-What are the ingredients in desvenlafaxine?
+What are the ingredients in desvenlafaxine extended-release tablets?
 
 Active ingredient: desvenlafaxine
 
 Inactive ingredients:
 
 25 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethylene glycol, talc, and titanium dioxide.
+
 50 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
 100 mg tablet: hypromellose, magnesium stearate, microcrystalline cellulose, povidone, talc and film coating, which consists of hypromellose, iron oxide black, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
@@ -212,4 +213,4 @@ Village Panelav, P. O. Tajpura, Near Baska,
 
 Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 10/2021
+Revised: 12/2021

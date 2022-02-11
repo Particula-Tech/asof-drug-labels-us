@@ -7,7 +7,7 @@ Carcinogenesis
 Desvenlafaxine succinate administered by oral gavage to mice and rats for 2 years did not increase the incidence of tumors in either study.
 
 Mice received desvenlafaxine succinate at dosages up to 500/300 mg/kg/day (dosage lowered after 45 weeks of dosing).
-AUC exposure at 300 mg/kg/day dose is estimated at 10 times the AUC exposure at an adult human dose of 100 mg per day.
+The AUC exposure at 300 mg/kg/day dose is estimated at 10 times the AUC exposure at an adult human dose of 100 mg per day.
 
 Rats received desvenlafaxine succinate at dosages up to 300 mg/kg/day (males) or 500 mg/kg/day (females).
 The AUC exposure at the highest dose is estimated at 11 (males) or 26 (females) times the AUC exposure at an adult human dose of 100 mg per day.

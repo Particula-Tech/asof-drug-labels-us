@@ -24,7 +24,9 @@ Table 9: Primary Efficacy (HAM-D17) Results for Short-term Studies
 
 a Standard deviation;
 
-b Adjusted p-value < 0.05; c Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
+b Adjusted p-value < 0.05; c Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals
+
+Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.
 
 In a longer-term trial (Study 5), adult outpatients meeting DSM-IV criteria for major depressive disorder, who responded to 8 weeks of open-label acute treatment with 50 mg per day desvenlafaxine and subsequently remained stable for 12 weeks on desvenlafaxine, were assigned randomly in a double-blind manner to remain on active treatment or switch to placebo for up to 26 weeks of observation for relapse.

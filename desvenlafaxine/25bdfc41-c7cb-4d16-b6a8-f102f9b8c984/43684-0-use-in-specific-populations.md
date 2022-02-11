@@ -48,7 +48,7 @@ Another study that assessed venlafaxine exposure in gestational weeks 10 to 20 a
 Available data are limited by possible outcome misclassification and possible confounding due to depression severity and other confounders.
 
 Retrospective cohort studies based on claims data have suggested an association between venlafaxine use near the time of delivery or through delivery and postpartum hemorrhage.
-One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women [adj RR 2.24, (95% CI 1.69 to 2.97)].
+One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women [adj RR 2.24 (95% CI 1.69 to 2.97)].
 There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy.
 Limitations of this study include possible confounding due to depression severity and other confounders.
 Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64 to 1.76).
@@ -82,7 +82,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-A lactation study was conducted in 10 breastfeeding women (at a mean of 4.3 months postpartum) who were being treated with a 50 to 150 mg daily dose of desvenlafaxine for postpartum depression.
+A lactation study was conducted in 10 breastfeeding women (at a mean of 4.3 months post-partum) who were being treated with a 50 to 150 mg daily dose of desvenlafaxine for postpartum depression.
 Sampling was performed at steady state (up to 8 samples) over a 24 hour dosing period, and included foremilk and hindmilk.
 The mean relative infant dose was calculated to be 6.8% (range of 5.5 to 8.1%).
 No adverse reactions were seen in the infants.

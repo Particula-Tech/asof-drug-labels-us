@@ -75,7 +75,7 @@ Desvenlafaxine on Other Drugs
 The effects of desvenlafaxine on the exposures of other drugs are summarized in Figure 3.
 
 Figure 3.
-Effects of Desvenlafaxineon Pharmacokinetics of Other Drugs
+Effects of Desvenlafaxine on Pharmacokinetics of Other Drugs
 
 In Vitro Studies
 

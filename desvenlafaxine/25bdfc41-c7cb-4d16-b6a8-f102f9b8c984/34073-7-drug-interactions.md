@@ -15,7 +15,7 @@ Table 8: Clinically Important Drug Interactions with Desvenlafaxine
 | Examples | other SNRIs, SSRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John’s Wort |
 | Drugs that Interfere with Hemostasis |  |
 | Clinical Impact | Concomitant use of desvenlafaxine with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding. This may be due to the effect of desvenlafaxine on the release of serotonin by platelets. |
-| ntervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when desvenlafaxine is initiated or discontinued [see Warnings and Precautions (5.4)]. |
+| Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when desvenlafaxine is initiated or discontinued [see Warnings and Precautions (5.4)]. |
 | Examples | NSAIDs, aspirin, and warfarin |
 | Drugs that are Primarily Metabolized by CYP2D6 |  |
 | Clinical Impact | Concomitant use of desvenlafaxine increases Cmax and AUC of a drug primarily metabolized by CYP2D6 which may increase the risk of toxicity of the CYP2D6 substrate drug [see Clinical Pharmacology (12.3)]. |
