@@ -34,3 +34,5 @@ Claravis Dosing by Body Weight (Based on Administration With Food)
 | 80 | 176 | 40 | 80 | 160 |
 | 90 | 198 | 45 | 90 | 180 |
 | 100 | 220 | 50 | 100 | 200 |
+
+*See DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day.

@@ -24,7 +24,7 @@ Clinical studies have shown that there is no difference in the pharmacokinetics 
 Table 2.
 Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N=74
 
-| Claravis 2 x 40 mg Capsules | AUCo-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
+| Claravis 2 x 40 mg Capsules | AUC0-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
 | --- | --- | --- | --- | --- |
 | FedEating a standardized high fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
@@ -53,7 +53,7 @@ Isotretinoin and its metabolites are further metabolized into conjugates, which 
 
 Following oral administration of an 80 mg dose of 14C-isotretinoin as a liquid suspension, 14C-activity in blood declined with a half-life of 90 hours.
 The metabolites of isotretinoin and any conjugates are ultimately excreted in the feces and urine in relatively equal amounts (total of 65% to 83%).
-After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects under fed conditions, the mean + SD elimination half-lives (t½) of isotretinoin and 4-oxo-isotretinoin were 21 + 8.2 hours and 24 + 5.3 hours, respectively.
+After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects under fed conditions, the mean ± SD elimination half-lives (t½) of isotretinoin and 4-oxo-isotretinoin were 21 ± 8.2 hours and 24 ± 5.3 hours, respectively.
 After both single and multiple doses, the observed accumulation ratios of isotretinoin ranged from 0.9 to 5.43 in patients with cystic acne.
 
 ## Special Patient Populations

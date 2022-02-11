@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS AND WARNINGS
 
-Claravis™ must not be used by female patients who are or may become pregnant.
+Claravis™ must not be used by patients who are or may become pregnant.
 There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking Claravis in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
@@ -13,7 +13,7 @@ Documented external abnormalities include: skull abnormality; ear abnormalities 
 Documented internal abnormalities include: CNS abnormalities (including cerebral abnormalities, cerebellar malformation, hydrocephalus, microcephaly, cranial nerve deficit); cardiovascular abnormalities; thymus gland abnormality; parathyroid hormone deficiency.
 In some cases death has occurred with certain of the abnormalities previously noted.
 
-If pregnancy does occur during treatment of a female patient who is taking Claravis, Claravis must be discontinued immediately and she should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+If pregnancy does occur during treatment of a patient who is taking Claravis, Claravis must be discontinued immediately and the patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 
 Special Prescribing Requirements
 
@@ -24,7 +24,7 @@ Claravis must only be dispensed by a pharmacy registered and activated with iPLE
 
 INFORMATION FOR PHARMACISTS
 
-Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com), telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) to obtain an authorization and the “do not dispense to patient after” date.
+Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
 Claravis must only be dispensed in no more than a 30-day supply.
 
 REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.

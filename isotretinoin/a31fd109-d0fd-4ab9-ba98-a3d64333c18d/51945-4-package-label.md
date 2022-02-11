@@ -18,8 +18,6 @@ Protect from Light
 
 of 10 Capsules Each (30 Capsules)
 
-TEVA
-
 CONTRAINDICATED IN PREGNANCY
 
 PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
@@ -30,7 +28,7 @@ Usual Dosage: See package brochure and other important prescribing information.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
+TEVA PHARMACEUTICALS USA, Inc., North Wales, PA 19454
 
 # Package/Label Display Panel, Part 2 of 2
 
@@ -54,8 +52,6 @@ Protect from Light
 
 of 10 Capsules Each (30 Capsules)
 
-TEVA
-
 CONTRAINDICATED IN PREGNANCY
 
 PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
@@ -66,7 +62,7 @@ Usual Dosage: See package brochure and other important prescribing information.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
+TEVA PHARMACEUTICALS USA, Inc., North Wales, PA 19454
 
 # Package/Label Display Panel, Part 2 of 2
 
@@ -90,8 +86,6 @@ Protect from Light
 
 of 10 Capsules Each (30 Capsules)
 
-TEVA
-
 CONTRAINDICATED IN PREGNANCY
 
 PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
@@ -102,7 +96,7 @@ Usual Dosage: See package brochure and other important prescribing information.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
+TEVA PHARMACEUTICALS USA, Inc., North Wales, PA 19454
 
 # Package/Label Display Panel, Part 2 of 2
 
@@ -126,8 +120,6 @@ Protect from Light
 
 of 10 Capsules Each (30 Capsules)
 
-TEVA
-
 CONTRAINDICATED IN PREGNANCY
 
 PHARMACIST: DISPENSE PRESCRIPTION BLISTER PACKS INTACT.
@@ -138,6 +130,6 @@ Usual Dosage: See package brochure and other important prescribing information.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
+TEVA PHARMACEUTICALS USA, Inc., North Wales, PA 19454
 
 # Package/Label Display Panel, Part 2 of 2

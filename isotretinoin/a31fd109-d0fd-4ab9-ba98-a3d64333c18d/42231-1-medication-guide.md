@@ -18,14 +18,14 @@ What is the most important information I should know about Claravis?
 
 1.
 Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-Female patients who are pregnant or who plan to become pregnant must not take Claravis.
-Female patients must not get pregnant:
+Patients who are pregnant or who plan to get pregnant must not take Claravis.
+Patients must not get pregnant:
 
 - for 1 month before starting Claravis
 - while taking Claravis
 - for 1 month after stopping Claravis.
 
-If you get pregnant while taking Claravis, stop taking it right away and call your doctor.
+If you become pregnant while taking Claravis, stop taking it right away and call your doctor.
 Doctors and patients should report all cases of pregnancy to:
 
 - FDA MedWatch at 1-800-FDA-1088, and
@@ -97,7 +97,7 @@ Tell your doctor if you or a family member has any of the following health condi
 - food or medicine allergies
 
 Tell your doctor if you are pregnant or breastfeeding.
-Claravis must not be used by women who are pregnant or breastfeeding.
+Claravis must not be used by patients who are pregnant or breastfeeding.
 
 Tell your doctor about all of the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Claravis and certain other medicines can interact with each other, sometimes causing serious side effects.
@@ -130,8 +130,8 @@ How should I take Claravis?
   You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing Claravis, your doctor will:
 - explain the iPLEDGE Program to you
-- have you sign the Patient Information/Informed Consent (for all patients).
-  Female patients who can get pregnant must also sign another consent form.
+- have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
+  Patients who can get pregnant must also sign another consent form.
 
 You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
@@ -152,8 +152,8 @@ You will not be prescribed Claravis if you cannot agree to or follow all the ins
   Talk with your doctor if this is a problem for you.
 - You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from Claravis.
-  Female patients who can get pregnant will get a pregnancy test each month.
-- Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Claravis.
+  Patients who can get pregnant will get a pregnancy test each month.
+- Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Claravis.
   You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
   To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
@@ -169,7 +169,8 @@ What should I avoid while taking Claravis?
 - Do not breast feed while taking Claravis and for one month after stopping Claravis.
   We do not know if Claravis can pass through your milk and harm the baby.
 - Do not give blood while you take Claravis and for one month after stopping Claravis.
-  If someone who is pregnant gets your donated blood, her baby may be exposed to Claravis and may be born with birth defects.
+  If someone who is pregnant gets your donated blood, the baby may be exposed to Claravis and may be born with birth defects.
+
 - Do not take other medicines or herbal products with Claravis unless you talk to your doctor.
   See “What should I tell my doctor before taking Claravis?”
 - Do not drive at night until you know if Claravis has affected your vision.
@@ -297,4 +298,4 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-I 4/2018
+M 1/2022
