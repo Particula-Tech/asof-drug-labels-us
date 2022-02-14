@@ -193,10 +193,10 @@ Inactive ingredients: microcrystalline cellulose and carboxymethylcellulose sodi
 The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
-Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
+Distributed by Eisai Inc., Nutley, NJ 07110
 
-Revised: 04/2020
+Revised: 12/2021
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2020 Eisai Inc.
+© 2008-2021 Eisai Inc.
