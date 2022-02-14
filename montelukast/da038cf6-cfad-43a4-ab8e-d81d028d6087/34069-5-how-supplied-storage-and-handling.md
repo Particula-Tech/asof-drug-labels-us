@@ -22,8 +22,6 @@ Bottles of 500 NDC 13668-081-05
 
 Bottles of 3,200 NDC 13668-081-32
 
-100 Unit Dose Tablets NDC 13668-081-74
-
 For Montelukast sodium chewable tablets 4 mg and 5 mg
 
 The tablets are available as follow:
@@ -37,8 +35,6 @@ Bottles of 90 NDC 13668-079-90
 
 Bottles of 500 NDC 13668-079-05
 
-100 Unit Dose Tablets NDC 13668-079-74
-
 Montelukast sodium chewable tablets, 5 mg, are pink colored, round shaped, uncoated tablets, debossed with '1080' on one side and '5 MG' on other side.
 They are supplied as follows:
 
@@ -47,8 +43,6 @@ Bottles of 30 NDC 13668-080-30
 Bottles of 90 NDC 13668-080-90
 
 Bottles of 500 NDC 13668-080-05
-
-100 Unit Dose Tablets NDC 13668-080-74
 
 Storage
 

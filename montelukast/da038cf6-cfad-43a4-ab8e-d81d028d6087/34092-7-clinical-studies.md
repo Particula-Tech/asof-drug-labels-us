@@ -165,7 +165,7 @@ The remaining three trials that demonstrated efficacy showed similar results.
 
 Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score * in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis(ANCOVA Model)
 
-| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
+| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI)�Least-Squares Mean |
 | --- | --- | --- | --- |
 | Montelukast 10 mg (344) | 2.09 | -0.39 | -0.13 ‡ (-0.21, -0.06) |
 | Placebo (351) | 2.10 | -0.26 | N.A. |
