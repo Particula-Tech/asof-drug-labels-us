@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ketorolac tromethamine ophthalmic solution, 0.5% is supplied sterile in a white LDPE plastic DROP-TAINER* bottle, a natural dropper tip and a gray polypropylene cap as follows:
+Ketorolac tromethamine ophthalmic solution, 0.5% is supplied sterile in a white LDPE plastic bottle, a natural dropper tip and a gray polypropylene cap as follows:
 
 5 mL in 8 mL bottle NDC 61314-126-05
 

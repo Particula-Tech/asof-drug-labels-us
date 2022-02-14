@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects. Pregnancy Category C
+### Teratogenic Effects.
 
 Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits and rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
 These doses are approximately 100 times and 250 times higher respectively than the maximum recommended human topical ophthalmic daily dose of 2 mg (5 mg/mL x 0.05 mL/drop, x 4 drops x 2 eyes) to affected eyes on a mg/kg basis.

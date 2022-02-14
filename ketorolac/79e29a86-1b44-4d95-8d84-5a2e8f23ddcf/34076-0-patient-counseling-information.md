@@ -34,8 +34,4 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-Printed in USA
-
-Revised: May 2021
-
 300042904-0521
