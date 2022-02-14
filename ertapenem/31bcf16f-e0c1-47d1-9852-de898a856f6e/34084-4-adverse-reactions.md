@@ -37,7 +37,7 @@ Table 3
 | Nausea | 8.5 | 8.7 | 6.4 | 7.4 |
 | Vomiting | 3.7 | 5.3 | 4 | 4 |
 | Altered mental status‡ | 5.1 | 3.4 | 3.3 | 2.5 |
-| Dizziness | 2.1 | 3.0 | 1.5 | 2.1 |
+| Dizziness | 2.1 | 3 | 1.5 | 2.1 |
 | Headache | 5.6 | 5.4 | 6.8 | 6.9 |
 | Insomnia | 3.2 | 5.2 | 3 | 4.1 |
 | Dyspnea | 2.6 | 1.8 | 1 | 2.4 |

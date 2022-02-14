@@ -17,4 +17,4 @@ If this occurs, patients should contact their physician as soon as possible.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India Novaplus is a registered trademark of Vizient, Inc.
+Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Novaplus is a registered trademark of Vizient, Inc.
