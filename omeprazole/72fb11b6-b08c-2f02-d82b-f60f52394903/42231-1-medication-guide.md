@@ -1,8 +1,6 @@
 MEDICATION GUIDE
 
-Omeprazole Delayed-Release Capsules, USP
-
-(oh mep' ra zole)
+Omeprazole (oh mep' ra zole) Delayed-Release Capsules, USP
 
 Read this Medication Guide before you start taking omeprazole delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -231,9 +229,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 INSTRUCTIONS FOR USE
 
-Omeprazole Delayed-Release Capsules, USP
-
-(oh mep' ra zole)
+Omeprazole (oh mep' ra zole) Delayed-Release Capsules, USP
 
 Taking omeprazole delayed-release capsules with applesauce:
 
@@ -257,7 +253,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1120
+Revised: 1221
 
 Dispense with medication guide available at:
 

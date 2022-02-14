@@ -143,10 +143,10 @@ H. pylori eradication status assessed at same time point as ulcer recurrence.
 Combined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms.
 
 3.
-(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated.
+Combined results for omeprazole + clarithromycin and omeprazole treatment arms.
 
 4.
-Combined results for omeprazole + clarithromycin and omeprazole treatment arms.
+(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated.
 
 ## 14.3 Active Benign Gastric Ulcer
 
@@ -235,7 +235,7 @@ Life Table Analysis
 | Percent in endoscopic remission at 6 months | 701 | 34 | 11 |
 
 1.
-(p < 0.01) OMEPRAZOLE 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
+(p < 0.01) omeprazole 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
 
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of EE.

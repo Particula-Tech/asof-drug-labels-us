@@ -8,13 +8,13 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Bone Fracture [see Warnings and Precautions (5.4)]
 
-• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
 
-• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
 
-• Hypomagnesemia [see Warnings and Precautions (5.8)]
+• Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.9)]
 
-•Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+•Fundic Gland Polyps [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience with Omeprazole
 
@@ -71,7 +71,7 @@ Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (s
 
 Infections and Infestations: Clostridium difficile-associated diarrhea
 
-Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
+Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain [see Warnings and Precautions (5.9)].
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 

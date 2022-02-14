@@ -18,7 +18,7 @@ Dual Therapy
 
 Omeprazole delayed-release capsules in combination with clarithromycin are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
-Among patients who fail therapy, omeprazole delayed-release capsules are with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
+Among patients who fail therapy, omeprazole delayed-release capsules with clarithromycin are more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
 If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Clinical Pharmacology (12.4) and the clarithromycin prescribing information, Microbiology section].
 
