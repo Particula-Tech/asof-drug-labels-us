@@ -16,7 +16,7 @@ GEODON can also be used as maintenance treatment of bipolar disorder when added 
 Who Should Take GEODON?
 
 Only your doctor can know if GEODON is right for you.
-GEODON may be prescribed for you if you have schizophrenia or bipolar disorder.
+GEODON may be prescribed for you if you are an adult with schizophrenia or bipolar disorder.
 
 Symptoms of schizophrenia may include:
 
@@ -110,6 +110,8 @@ Because these problems could mean you're having a heart rhythm abnormality, cont
 
 Common side effects of GEODON include the following and should also be discussed with your doctor if they occur:
 
+Adults:
+
 - Feeling unusually tired or sleepy
 - Nausea or upset stomach
 - Constipation
@@ -187,6 +189,6 @@ For the most recent prescribing information, please visit www.pfizer.com
 
 Distributed by Roerig Division of Pfizer Inc. New York, NY 10017
 
-LAB-0272-10.0
+LAB-0272-11.0
 
-Revised: May 2021
+Revised: January 2022

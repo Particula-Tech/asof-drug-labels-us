@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
+Clinical trials in adults for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
 These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000; and (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
 An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
@@ -16,7 +16,7 @@ Over 325 of these subjects participated in trials involving the administration o
 Adverse reactions during exposure were obtained by collecting voluntarily reported adverse experiences, as well as results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
-A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone
 
@@ -160,7 +160,7 @@ Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of pat
 
 BIPOLAR DISORDER
 
-Acute Treatment of Manic or Mixed Episodes
+Acute Treatment of Manic or Mixed Episodes in Adults
 
 Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
 

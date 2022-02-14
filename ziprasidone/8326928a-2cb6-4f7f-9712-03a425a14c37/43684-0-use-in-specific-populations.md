@@ -79,7 +79,11 @@ Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ziprasidone in pediatric patients have not been established.
+The safety and effectiveness of Geodon have not been established in pediatric patients.
+
+Geodon was studied in one 4-week, placebo-controlled trial in patients 10 to 17 years of age with bipolar I disorder.
+However, the data were insufficient to fully assess the safety of Geodon in pediatric patients.
+Therefore, a safe and effective dose for use could not be established.
 
 ## 8.5 Geriatric Use
 
