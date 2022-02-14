@@ -881,8 +881,6 @@ Adverse reactions occurring in patients with MSI-H or dMMR CRC were similar to t
 
 Gastric Cancer
 
-First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric Cancer with Trastuzumab and Chemotherapy
-
 The safety analysis of Study KEYNOTE-811 included 217 patients with HER2-positive gastric cancer who received KEYTRUDA 200 mg, trastuzumab, and CAPOX (n=189) or FP (n=28) every 3 weeks, compared to 216 patients who received placebo, trastuzumab, and CAPOX (n=187) or FP (n=29) every 3 weeks [see Clinical Studies (14.9)].
 
 The median duration of exposure to KEYTRUDA was 5.8 months (range: 1 day to 17.7 months).
@@ -898,12 +896,6 @@ There were no clinically meaningful differences in incidence of Grade 3-4 toxici
 
 There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for increased ALT (34% vs 29%), and increased creatinine (20% vs 10%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
-
-Previously Treated Gastric Cancer
-
-Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
-Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
-Adverse reactions occurring in patients with gastric cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 Esophageal Cancer
 

@@ -9,8 +9,6 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 - stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
 - metastatic NSCLC [see Clinical Studies (14.2)].
 - first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
-- metastatic gastric cancer [see Clinical Studies (14.9)].
-  If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
 - previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].
 - recurrent or metastatic cervical cancer with disease progression on or after chemotherapy [see Clinical Studies (14.11)].
 
@@ -44,7 +42,7 @@ Table 1: Recommended Dosage
 | Monotherapy |  |  |
 | Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant treatment of adult patients with melanoma or RCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
-| Adult patients with NSCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with NSCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
 | Pediatric patients with cHL, PMBCL, MSI-H or dMMR Cancer, MCC, or TMB- H Cancer | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Pediatric patients (12 years and older) for adjuvant treatment of melanoma | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease recurrence, unacceptable toxicity, or up to 12 months |

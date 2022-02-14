@@ -851,8 +851,6 @@ Table 68: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 
 ## 14.9 Gastric Cancer
 
-First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
-
 The efficacy of KEYTRUDA in combination with trastuzumab plus fluoropyrimidine and platinum chemotherapy was investigated in KEYNOTE-811 (NCT03615326), a multicenter, randomized, double-blind, placebo-controlled trial that was designed to enroll 692 patients with HER2-positive advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma who had not previously received systemic therapy for metastatic disease.
 Patients with an autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 Randomization was stratified by PD-L1 expression (CPS ≥1 or CPS <1), chemotherapy regimen (5-FU plus cisplatin [FP] or capecitabine plus oxaliplatin [CAPOX]), and geographic region (Europe/Israel/North America/Australia, Asia, or Rest of the World).
@@ -888,30 +886,6 @@ Table 69: Efficacy Results for KEYNOTE-811
 | Duration of Response | n=99 | n=68 |
 | Median in months (range) | 10.6 (1.1+, 16.5+) | 9.5 (1.4+, 15.4+) |
 | % with duration ≥6 months | 65% | 53% |
-
-Previously Treated Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
-
-The efficacy of KEYTRUDA was investigated in KEYNOTE-059 (NCT02335411), a multicenter, non-randomized, open-label multi-cohort trial that enrolled 259 patients with gastric or gastroesophageal junction (GEJ) adenocarcinoma who progressed on at least 2 prior systemic treatments for advanced disease.
-Previous treatment must have included a fluoropyrimidine and platinum doublet.
-HER2/neu positive patients must have previously received treatment with approved HER2/neu-targeted therapy.
-Patients with active autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
-Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
-Patients without disease progression were treated for up to 24 months.
-Assessment of tumor status was performed every 6 to 9 weeks.
-The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, as assessed by BICR, and DoR.
-
-Among the 259 patients, 55% (n = 143) had tumors that expressed PD-L1 with a CPS ≥1 and microsatellite stable (MSS) tumor status or undetermined MSI or MMR status.
-PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx kit.
-The baseline characteristics of these 143 patients were: median age of 64 years, 47% age 65 or older; 77% male; 82% White and 11% Asian; and 43% ECOG PS of 0 and 57% ECOG PS of 1.
-Eighty-five percent had M1 disease and 7% had M0 disease.
-Fifty-one percent had two and 49% had three or more prior lines of therapy in the recurrent or metastatic setting.
-
-For the 143 patients, the ORR was 13.3% (95% CI: 8.2, 20.0); 1.4% had a complete response and 11.9% had a partial response.
-Among the 19 responding patients, the DoR ranged from 2.8+ to 19.4+ months, with 11 patients (58%) having responses of 6 months or longer and 5 patients (26%) having responses of 12 months or longer.
-
-Among the 259 patients enrolled in KEYNOTE-059, 7 (3%) had tumors that were determined to be MSI-H.
-An objective response was observed in 4 patients, including 1 complete response.
-The DoR ranged from 5.3+ to 14.1+ months.
 
 ## 14.10 Esophageal Cancer
 
@@ -1204,15 +1178,14 @@ Treatment with KEYTRUDA and axitinib continued until RECIST v1.1-defined progres
 Administration of KEYTRUDA and axitinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benefit by the investigator.
 Assessment of tumor status was performed at baseline, after randomization at Week 12, then every 6 weeks thereafter until Week 54, and then every 12 weeks thereafter.
 
-The study population characteristics were: median age of 62 years (range: 26 to 90); 38% age 65 or older; 73% male; 79% White and 16% Asian; 19% and 80% of patients had a baseline KPS of 70 to 80 and 90 to 100, respectively; and patient distribution by IMDC risk categories was 31% favorable, 56% intermediate and 13% poor.
+The study population characteristics were: median age of 62 years (range: 26 to 90), 38% age 65 or older; 73% male; 79% White and 16% Asian; 20% and 80% of patients had a baseline KPS of 70 to 80 and 90 to 100, respectively; and patient distribution by IMDC risk categories was 31% favorable, 56% intermediate, and 13% poor.
 
 The main efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 Additional efficacy outcome measures included ORR, as assessed by BICR.
-A statistically significant improvement in OS was demonstrated at the pre-specified interim analysis in patients randomized to KEYTRUDA in combination with axitinib compared with sunitinib.
+A statistically significant improvement in OS was demonstrated at the first pre-specified interim analysis in patients randomized to KEYTRUDA in combination with axitinib compared with sunitinib.
 The trial also demonstrated statistically significant improvements in PFS and ORR.
+An updated OS analysis was conducted when 418 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
 Table 76 and Figure 18 summarize the efficacy results for KEYNOTE-426.
-The median follow-up time was 12.8 months (range 0.1 to 22.0 months).
-Consistent results were observed across pre-specified subgroups, IMDC risk categories and PD-L1 tumor expression status.
 
 Table 76: Efficacy Results in KEYNOTE-426
 
@@ -1224,7 +1197,10 @@ Table 76: Efficacy Results in KEYNOTE-426
 | Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) |
 | Hazard ratioBased on the stratified Cox proportional hazard model (95% CI) | 0.53 (0.38, 0.74) |  |
 | p-ValueBased on stratified log-rank test | <0.0001p-Value (one-sided) is compared with the allocated alpha of 0.0001 for this interim analysis (with 39% of the planned number of events for final analysis). |  |
-| 12-month OS rate | 90% (86, 92) | 78% (74, 82) |
+| Updated OS |  |  |
+| Number of patients with event (%) | 193 (45%) | 225 (52%) |
+| Median in months (95% CI) | 45.7 (43.6, NR) | 40.1 (34.3, 44.2) |
+| Hazard ratio (95% CI) | 0.73 (0.60, 0.88) |  |
 | PFS |  |  |
 | Number of patients with event (%) | 183 (42%) | 213 (50%) |
 | Median in months (95% CI) | 15.1 (12.6, 17.7) | 11.0 (8.7, 12.5) |
@@ -1237,8 +1213,10 @@ Table 76: Efficacy Results in KEYNOTE-426
 | p-ValueBased on Miettinen and Nurminen method stratified by IMDC risk group and geographic region | <0.0001 |  |
 | NR = not reached |  |  |
 
-| Figure 18: Kaplan-Meier Curve for Overall Survival in KEYNOTE-426 |
+| Figure 18: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
 | --- |
+
+In an exploratory analysis, the updated analysis of OS in patients with IMDC favorable, intermediate, intermediate/poor, and poor risk demonstrated a HR of 1.17 (95% CI: 0.76, 1.80), 0.67 (95% CI: 0.52, 0.86), 0.64 (95% CI: 0.52, 0.80), and 0.51 (95% CI: 0.32, 0.81), respectively.
 
 First-line treatment with lenvatinib
 
