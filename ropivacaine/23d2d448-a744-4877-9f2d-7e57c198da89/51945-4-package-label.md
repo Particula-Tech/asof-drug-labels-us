@@ -18,7 +18,7 @@ Not for Intravenous Administration.
 
 10 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Carton Label Panel
 
 NDC 63323-285-13 278513
 
@@ -60,7 +60,7 @@ Not for Intravenous Administration.
 
 20 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Carton Label Panel
 
 NDC 63323-285-23 278523
 
@@ -102,7 +102,7 @@ Not for Intravenous Administration.
 
 20 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Carton Label Panel
 
 NDC 63323-286-23 278623
 
@@ -186,7 +186,7 @@ Not for Intravenous Administration.
 
 30 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Carton Label Panel
 
 NDC 63323-286-35 278635
 
@@ -229,7 +229,7 @@ Not for Intravenous Administration.
 
 20 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Carton Label Panel
 
 NDC 63323-287-21 278721
 
@@ -268,7 +268,7 @@ Not for Intravenous Administration.
 
 10 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Carton Label Panel
 
 NDC 63323-288-11 278811
 
@@ -306,7 +306,7 @@ Not for Intravenous Administration.
 
 20 mL Single Dose Vial Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Carton Label Panel
 
 NDC 63323-288-21 278821
 
