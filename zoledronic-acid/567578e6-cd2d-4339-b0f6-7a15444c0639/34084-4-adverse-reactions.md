@@ -281,7 +281,7 @@ In some cases, symptoms resolved with topical steroids.
 Hypersensitivity Reactions
 
 There have been reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
-Cases of anaphylactic reaction/shock have also been reported.
+Cases of anaphylactic reaction/shock have been reported.
 Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:

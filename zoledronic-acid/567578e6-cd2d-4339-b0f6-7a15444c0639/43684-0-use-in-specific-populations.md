@@ -59,7 +59,7 @@ Infertility
 
 Females
 
-Based on animal studies, zoledronic acid may impair fertility in females of reproductive potential [see Nonclinical Toxicology (13.1)].
+Based on animal studies, zoledronic acid injection may impair fertility in females of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
