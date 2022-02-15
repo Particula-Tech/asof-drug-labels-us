@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214476"
+  ],
+  "inn": "posaconazole",
+  "labeler": "Biocon Phama Inc.",
+  "package_ndcs": [
+    "70377-038-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "posaconazole",
+      "name": "POSACONAZOLE"
+    }
+  ],
+  "setid": "e0e8023a-3c82-e455-a57b-ccc0206ad156",
+  "source": "dailymed"
+}
