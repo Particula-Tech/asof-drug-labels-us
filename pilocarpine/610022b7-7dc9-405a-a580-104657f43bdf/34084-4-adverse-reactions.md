@@ -7,10 +7,10 @@ The majority of patients were between 50 and 64 years (51%), 33% were 65 years a
 
 The most frequent adverse experiences associated with pilocarpine hydrochloride tablets were a consequence of the expected pharmacologic effects of pilocarpine.
 
-|  | (30 mg/day) | (15 mg/day) |  |
-| --- | --- | --- | --- |
 | Adverse Event | Pilocarpine HCl |  | Placebo |
+| --- | --- | --- | --- |
 |  | 10 mg t.i.d. | 5 mg t.i.d. | (t.i.d.) |
+|  | (30 mg/day) | (15 mg/day) |  |
 |  | N=121 | N=141 | N=152 |
 | Sweating | 68% | 29% | 9% |
 | Nausea | 15 | 6 | 4 |
@@ -24,11 +24,11 @@ The most frequent adverse experiences associated with pilocarpine hydrochloride 
 
 In addition, the following adverse events (≥3% incidence) were reported at dosages of 15-30 mg/day in the controlled clinical trials:
 
-|  | N=212 | N=152 |
-| --- | --- | --- |
 | Adverse Event | Pilocarpine HCl | Placebo |
+| --- | --- | --- |
 |  | 5-10 mg t.i.d. | (t.i.d.) |
 |  | (15-30 mg/day) |  |
+|  | N=212 | N=152 |
 | Headache | 11% | 8% |
 | Dyspepsia | 7 | 5 |
 | Lacrimation | 6 | 8 |
@@ -77,11 +77,11 @@ In the 2 placebo-controlled studies, the most common adverse events related to d
 The most commonly reported reason for patient discontinuation of treatment was sweating.
 Expected pharmacologic effects of pilocarpine include the following adverse experiences associated with pilocarpine hydrochloride tablets:
 
-|  | N=255 | N=253 |
-| --- | --- | --- |
 | Adverse Event | Pilocarpine HCl | Placebo |
+| --- | --- | --- |
 |  | 5 mg q.i.d. | (q.i.d.) |
 |  | (20 mg/day) |  |
+|  | N=255 | N=253 |
 | Sweating | 40% | 7% |
 | Urinary Frequency | 10 | 4 |
 | Nausea | 9 | 9 |
@@ -94,11 +94,11 @@ Expected pharmacologic effects of pilocarpine include the following adverse expe
 
 In addition, the following adverse events (≥3% incidence) were reported at dosages of 20 mg/day in the controlled clinical trials:
 
-|  | N=255 | N=253 |
-| --- | --- | --- |
 | Adverse Event | Pilocarpine HCl | Placebo |
+| --- | --- | --- |
 |  | 5 mg q.i.d. | (q.i.d.) |
 |  | (20 mg/day) |  |
+|  | N=255 | N=253 |
 | Headache | 13% | 19% |
 | Flu Syndrome | 9 | 9 |
 | Dyspepsia | 7 | 7 |

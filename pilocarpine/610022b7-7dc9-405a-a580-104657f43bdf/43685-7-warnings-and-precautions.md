@@ -33,16 +33,19 @@ The use of pilocarpine in these patients is not recommended.
 
 Child-Pugh Scoring System for Hepatic Impairment
 
-|  | 1 | 2 | 3 |
-| --- | --- | --- | --- |
 | Clinical and Biochemical Measurements | Points Scored for Increasing Abnormality |  |  |
+| --- | --- | --- | --- |
+|  | 1 | 2 | 3 |
 | Encephalopathy (grade)* | None | 1 and 2 | 3 and 4 |
 | Ascites | Absent | Slight | Moderate |
 | Bilirubin (mg. per 100 ml.) | 1-2 | 2-3 | >3 |
 | Albumin (g. per 100 ml.) | 3-5 | 2.8-3.5 | <2.8 |
 | Prothrombin Time (sec. Prolonged) | 1-4 | 4-6 | >6 |
 | For Primary Biliary Cirrhosis:- Bilirubin (mg. per 100 ml.) | 1-4 | 4-10 | >10 |
-| * According to grading of Trey C, Burns D, and Saunders S. Treatment of hepatic coma by exchange blood transfusion. N Engl J Med. 1966; 274:473-481. |  |  |  |
+
+* According to grading of Trey C, Burns D, and Saunders S. Treatment of hepatic coma by exchange blood transfusion.
+N Engl J Med.
+1966; 274:473-481.
 
 Reference: Pugh RNH, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R. Transection of the oesophagus for bleeding oesophageal varices.
 Brit.

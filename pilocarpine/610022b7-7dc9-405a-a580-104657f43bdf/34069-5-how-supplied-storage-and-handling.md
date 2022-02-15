@@ -16,10 +16,10 @@ NDC 0228-2837-11 bottles of 100 with a child-resistant closure.
 
 Store up to 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 
-Manufactured for: Activis Pharma, Inc. Parsippany, NJ 07054
+Manufactured for: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-by: Patheon Inc. Ontario,Canada L5N 7K9
+by: Patheon Inc. Ontario, Canada L5N 7K9
 
-LF-118617-01 Revised-September 2019
+LF-121899-01 Revised - January 2021
 
-2000011736
+2000013377
