@@ -33,7 +33,7 @@ General Pharmacokinetic Characteristics
 Posaconazole Delayed-Release Tablets
 
 Noxafil delayed-release tablets exhibit dose proportional pharmacokinetics after single and multiple dosing up to 300 mg.
-The mean pharmacokinetic parameters of posaconazole at steady state following administration of Noxafil delayed-release tablets 300 mg twice daily (twice daily) on Day 1, then 300 mg once daily (once daily) thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 10.
+The mean pharmacokinetic parameters of posaconazole at steady state following administration of Noxafil delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 10.
 
 Table 10: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Noxafil Delayed-Release Tablets (300 mg)300 mg twice daily on Day 1, then 300 mg once daily thereafter
 
@@ -41,7 +41,7 @@ Table 10: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunte
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Healthy Volunteers | 12 | 51618 (25) | 2151 (25) | 2764 (21) | 1785 (29) | 4 (3-6) | 31 (40) | 7.5 (26) |
 | Patients | 50 | 37900 (42) | 1580 (42) | 2090 (38) | 1310 (50) | 4 (1.3-8.3) | - | 9.39 (45) |
-| CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t½ = terminal phase half-life; CL /F = Apparent total body clearance |  |  |  |  |  |  |  |  |
+| CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t½ = terminal phase half-life; CL/F = Apparent total body clearance |  |  |  |  |  |  |  |  |
 
 Posaconazole Oral Suspension
 
@@ -86,7 +86,7 @@ Table 13: The Effect of Concomitant Medications that Affect the Gastric pH and G
 | --- | --- | --- | --- |
 | Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 meq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
 | Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 -1.23)↑ | ↓3% (0.97; 0.84 -1.12) |
-| Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
+| Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
 | Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |
 
 Posaconazole Oral Suspension
@@ -105,10 +105,10 @@ Table 14: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Follo
 
 | Dose (mg) | Cmax (ng/mL) | TmaxMedian [min-max]. (hr) | AUC (I) (ng∙hr/mL) | CL/F (L/hr) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
-| 200 mg fasted (n=20)n=15 for AUC (I), CL/F, and t ½ | 132 (50) [45-267] | 3.50 [1.5-36The subject with Tmax of 36 hrs had relatively constant plasma levels over 36 hrs (1.7 ng/mL difference between 4 hrs and 36 hrs).] | 4179 (31) [2705-7269] | 51 (25) [28-74] | 23.5 (25) [15.3-33.7] |
+| 200 mg fasted (n=20)n=15 for AUC (I), CL/F, and t½ | 132 (50) [45-267] | 3.50 [1.5-36The subject with Tmax of 36 hrs had relatively constant plasma levels over 36 hrs (1.7 ng/mL difference between 4 hrs and 36 hrs).] | 4179 (31) [2705-7269] | 51 (25) [28-74] | 23.5 (25) [15.3-33.7] |
 | 200 mg nonfat (n=20) | 378 (43) [131-834] | 4 [3-5] | 10,753 (35) [4579-17,092] | 21 (39) [12-44] | 22.2 (18) [17.4-28.7] |
 | 200 mg high fat (54 gm fat) (n=20) | 512 (34) [241-1016] | 5 [4-5] | 15,059 (26) [10,341-24,476] | 14 (24) [8.2-19] | 23.0 (19) [17.2-33.4] |
-| 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t ½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
+| 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
 | 400 mg with liquid nutritional supplement (14 gm fat) (n=23) | 355 (43) [145-720] | 5 [4-8] | 11,295 (40) [3865-20,592] | 43 (56) [19-103] | 26.0 (19) [18.2-35.0] |
 
 Table 15: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Noxafil Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.
@@ -180,7 +180,7 @@ Table 18: Summary of the Effect of Noxafil on Coadministered Drugs in Healthy Vo
 | Cyclosporine | Stable maintenance dose in heart transplant recipients | 200 mg (tablets) once daily x 10 daysThe tablet refers to a non-commercial tablet formulation without polymer. | ↑ cyclosporine whole blood trough concentrations Cyclosporine dose reductions of up to 29% were required |  |
 | Tacrolimus | 0.05-mg/kg single oral dose | 400 mg (oral suspension) twice daily × 7 days | ↑ 121% (2.21; 2.01-2.42) | ↑ 358% (4.58; 4.03-5.19) |
 | Simvastatin | 40-mg single oral dose | 100 mg (oral suspension) once daily x 13 days | Simvastatin ↑ 841% (9.41, 7.13-12.44) Simvastatin Acid ↑ 817% (9.17, 7.36-11.43) | Simvastatin ↑ 931% (10.31, 8.40-12.67) Simvastatin Acid ↑634% (7.34, 5.82-9.25) |
-|  |  | 200 mg (oral suspension) once daily x 13 days | Simvastatin ↑ 1041% (11.41, 7.99-16.29) Simvastatin Acid ↑851% (9.51, 8.15-11.10) | Simvastatin ↑ 960% (10.60, 8.63-13.02) Simvastatin Acid ↑748% (8.48, 7.04-10.23) |
+|  |  | 200 mg (oral suspension) once daily x 13 days | Simvastatin ↑ 1041% (11.41, 7.99-16.29) Simvastatin Acid ↑851% (9.51, 8.15-11.10) | Simvastatin ↑ 960% (10.60, 8.63-13.02) Simvastatin Acid ↑ 748% (8.48, 7.04-10.23) |
 | Midazolam | 0.4-mg single intravenous doseThe mean terminal half-life of midazolam was increased from 3 hours to 7 to 11 hours during coadministration with Noxafil. | 200 mg (oral suspension) twice daily x 7 days | ↑ 30% (1.3; 1.13-1.48) | ↑ 362% (4.62; 4.02-5.3) |
 |  | 0.4-mg single intravenous dose | 400 mg (oral suspension) twice daily x 7 days | ↑62% (1.62; 1.41-1.86) | ↑524% (6.24; 5.43-7.16) |
 |  | 2-mg single oral dose | 200 mg (oral suspension) once daily x 7 days | ↑ 169% (2.69; 2.46-2.93) | ↑ 470% (5.70; 4.82-6.74) |

@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Calcineurin-Inhibitor Drug Interactions
+## 5.1 Calcineurin-Inhibitor Toxicity
 
 Concomitant administration of posaconazole with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Nephrotoxicity and leukoencephalopathy (including deaths) have been reported in clinical efficacy studies in patients with elevated cyclosporine or tacrolimus concentrations.
@@ -39,9 +39,9 @@ Discontinuation of posaconazole must be considered if clinical signs and symptom
 
 ## 5.5 Renal Impairment
 
-Due to the variability in exposure with Posaconazole delayed-release tablets and Posaconazole oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+Due to the variability in exposure with Posaconazole delayed-release tablets and Posaconazole oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 
-## 5.6 Concomitant Use with Midazolam
+## 5.6 Midazolam Toxicity
 
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
@@ -55,3 +55,12 @@ Reserve azole antifungals, including posaconazole, for patients receiving a vinc
 ## 5.8 Breakthrough Fungal Infections
 
 Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving Posaconazole delayed-release tablets.
+
+## 5.9 Venetoclax Toxicity
+
+Concomitant administration of posaconazole, a strong CYP3A4 inhibitor, with venetoclax may increase venetoclax toxicities, including the risk of tumor lysis syndrome (TLS), neutropenia, and serious infections.
+In patients with CLL/SLL, administration of posaconazole during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].
+Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients.
+
+For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering posaconazole with venetoclax [see Drug Interactions (7.15)].
+Refer to the venetoclax prescribing information for dosing instructions.
