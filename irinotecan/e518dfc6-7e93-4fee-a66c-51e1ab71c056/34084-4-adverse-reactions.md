@@ -38,11 +38,11 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks N=225 |  | Bolus 5-FU/LV daily × 5 every 4 weeks N=219 |  | Irinotecan weekly × 4 every 6 weeks N=223 |  |  |
 | TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
 | GASTROINTESTINAL |  |  |  |  |  |  |
-| Diarrhea | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
-| Late | -- | 15.1 | -- | 5.9 | -- | 18.4 |
-| grade 3 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
-| grade 4 | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
-| Early |  |  |  |  |  |  |
+| Diarrhea |  |  |  |  |  |  |
+| Late | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
+| grade 3 | -- | 15.1 | -- | 5.9 | -- | 18.4 |
+| grade 4 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
+| Early | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
 | Nausea | 79.1 | 15.6 | 67.6 | 8.2 | 81.6 | 16.1 |
 | Abdominal pain | 63.1 | 14.6 | 50.2 | 11.5 | 67.7 | 13.0 |
 | Vomiting | 60.4 | 9.7 | 46.1 | 4.1 | 62.8 | 12.1 |
@@ -65,10 +65,10 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Infection | 22.2 | 0 | 16.0 | 1.4 | 13.9 | 0.4 |
 | METABOLIC & NUTRITIONAL |  |  |  |  |  |  |
 | Bilirubin | 87.6 | 7.1 | 92.2 | 8.2 | 83.9 | 7.2 |
-| DERMATOLOGIC | 0.9 | 0 | 3.2 | 0.5 | 0 | 0 |
-| Exfoliative dermatitis | 19.1 | 0 | 26.5 | 0.9 | 14.3 | 0.4 |
-| Rash | 43.1 | -- | 26.5 | -- | 46.1 | -- |
-| AlopeciaComplete hair loss = Grade 2 |  |  |  |  |  |  |
+| DERMATOLOGIC |  |  |  |  |  |  |
+| Exfoliative dermatitis | 0.9 | 0 | 3.2 | 0.5 | 0 | 0 |
+| Rash | 19.1 | 0 | 26.5 | 0.9 | 14.3 | 0.4 |
+| AlopeciaComplete hair loss = Grade 2 | 43.1 | -- | 26.5 | -- | 46.1 | -- |
 | RESPIRATORY |  |  |  |  |  |  |
 | Dyspnea | 27.6 | 6.3 | 16.0 | 0.5 | 22.0 | 2.2 |
 | Cough | 26.7 | 1.3 | 18.3 | 0 | 20.2 | 0.4 |
@@ -77,10 +77,10 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Dizziness | 23.1 | 1.3 | 16.4 | 0 | 21.1 | 1.8 |
 | Somnolence | 12.4 | 1.8 | 4.6 | 1.8 | 9.4 | 1.3 |
 | Confusion | 7.1 | 1.8 | 4.1 | 0 | 2.7 | 0 |
-| CARDIOVASCULAR | 9.3 | 0.9 | 5.0 | 0 | 9.0 | 0 |
-| Vasodilatation | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
-| Hypotension | 9.3 | -- | 11.4 | -- | 5.4 | -- |
-| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |  |  |
+| CARDIOVASCULAR |  |  |  |  |  |  |
+| Vasodilatation | 9.3 | 0.9 | 5.0 | 0 | 9.0 | 0 |
+| Hypotension | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
+| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 9.3 | -- | 11.4 | -- | 5.4 | -- |
 
 Table 6.
 Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
@@ -91,11 +91,11 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N= 145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N=143 |  |  |
 | TOTAL Adverse Events | 100 | 72.4 | 100 | 39.2 |
 | GASTROINTESTINAL |  |  |  |  |
-| Diarrhea | 72.4 | 14.4 | 44.8 | 6.3 |
-| late | -- | 10.3 | -- | 4.2 |
-| grade 3 | -- | 4.1 | -- | 2.1 |
-| grade 4 | 28.3 | 1.4 | 0.7 | 0 |
-| Cholinergic syndromeIncludes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) |  |  |  |  |
+| Diarrhea |  |  |  |  |
+| late | 72.4 | 14.4 | 44.8 | 6.3 |
+| grade 3 | -- | 10.3 | -- | 4.2 |
+| grade 4 | -- | 4.1 | -- | 2.1 |
+| Cholinergic syndromeIncludes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) | 28.3 | 1.4 | 0.7 | 0 |
 | Nausea | 66.9 | 2.1 | 55.2 | 3.5 |
 | Abdominal pain | 17.2 | 2.1 | 16.8 | 0.7 |
 | Vomiting | 44.8 | 3.5 | 32.2 | 2.8 |
@@ -118,15 +118,15 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Infection | 35.9 | 7.6 | 33.6 | 3.5 |
 | METABOLIC AND NUTRITIONAL |  |  |  |  |
 | Bilirubin | 19.1 | 3.5 | 35.9 | 10.6 |
-| DERMATOLOGIC | 10.3 | 0.7 | 12.6 | 0.7 |
-| Hand and foot syndrome | 17.2 | 0.7 | 20.3 | 0 |
-| Cutaneous signs | 56.6 | -- | 16.8 | -- |
-| AlopeciaComplete hair loss = Grade 2 |  |  |  |  |
+| DERMATOLOGIC |  |  |  |  |
+| Hand and foot syndrome | 10.3 | 0.7 | 12.6 | 0.7 |
+| Cutaneous signs | 17.2 | 0.7 | 20.3 | 0 |
+| AlopeciaComplete hair loss = Grade 2 | 56.6 | -- | 16.8 | -- |
 | RESPIRATORY |  |  |  |  |
 | Dyspnea | 9.7 | 1.4 | 4.9 | 0 |
-| CARDIOVASCULAR | 3.4 | 1.4 | 0.7 | 0 |
-| Hypotension | 11.7 | -- | 5.6 | -- |
-| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |
+| CARDIOVASCULAR |  |  |  |  |
+| Hypotension | 3.4 | 1.4 | 0.7 | 0 |
+| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 11.7 | -- | 5.6 | -- |
 
 Second-Line Single-Agent Therapy
 
@@ -147,7 +147,7 @@ Thirteen (4.3%) patients discontinued treatment with CAMPTOSAR because of advers
 The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 7.
-Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or RectumSeverity of adverse events based on NCI CTC (version 1.0)
+Adverse Events Occurring in >10% of 304 Previously Treated Patients With Metastatic Carcinoma of the Colon or RectumSeverity of adverse events based on NCI CTC (version 1.0)
 
 | Body System & Event | NCI Grades 1–4 | NCI Grades 3 & 4 |
 | --- | --- | --- |
@@ -213,7 +213,8 @@ Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
 Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
-Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
+Table 8.
+Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
 
 | Adverse Event | Irinotecan N=189 | BSC BSC = best supportive care N=90 | Irinotecan N=127 | 5-FU N=129 |
 | --- | --- | --- | --- | --- |

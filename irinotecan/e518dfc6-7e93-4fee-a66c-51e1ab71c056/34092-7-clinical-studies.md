@@ -7,7 +7,7 @@ Clinical studies of combination and single-agent use are described below.
 
 ## 14.1 Metastatic Colorectal Cancer
 
-First Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
+First-Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
 
 Two phase 3, randomized, controlled, multinational clinical trials support the use of CAMPTOSAR Injection as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
 In each study, combinations of irinotecan with 5-FU and LV were compared with 5-FU and LV alone.
@@ -186,8 +186,7 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | For metastatic disease | 70 | 63 | 58 | 68 |
 | As adjuvant treatment | 30 | 37 | 42 | 32 |
 | Prior irradiation (%) | 26 | 27 | 18 | 20 |
-| Duration of study treatment (median, months) | 4.1 | -- | 4.2 | 2.8 |
-| (Log-rank test) |  |  | (p=0.02) |  |
+| Duration of study treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p=0.02) | 2.8 |
 | Relative dose intensity (median %)Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. | 94 | -- | 95 | 81–99 |
 | Survival |  |  |  |  |
 | Survival (median, months) | 9.2 | 6.5 | 10.8 | 8.5 |

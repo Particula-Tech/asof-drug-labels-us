@@ -74,22 +74,23 @@ Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there 
 Table 3.
 Single-Agent Regimens of CAMPTOSAR and Dose Modifications
 
-| Regimen 1 (weekly)Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance. | 125 mg/m2 intravenous infusion over 90 minutes, days 1,8,15,22 then 2-week rest |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Starting Dose and Modified Dose LevelsProvided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit. (mg/m2) |  |  |  |
-|  | Starting Dose | Dose Level -1 | Dose Level -2 |  |
-|  | 125 | 100 | 75 |  |
-| Regimen 2 (every 3 weeks)Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance. | 350 mg/m2 intravenous infusion over 90 minutes, once every 3 weeks |  |  |  |
-|  | Starting Dose and Modified Dose Levels (mg/m2) |  |  |  |
-|  | Starting Dose | Dose Level -1 | Dose Level -2 |  |
-|  | 350 | 300 | 250 |  |
+| Regimen 1 (weekly)Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance. | 125 mg/m2 intravenous infusion over 90 minutes, days 1,8,15,22 then 2-week rest |  |  |
+| --- | --- | --- | --- |
+|  | Starting Dose and Modified Dose LevelsProvided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit. (mg/m2) |  |  |
+|  | Starting Dose | Dose Level -1 | Dose Level -2 |
+|  | 125 | 100 | 75 |
+| Regimen 2 (every 3 weeks)Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance. | 350 mg/m2 intravenous infusion over 90 minutes, once every 3 weeks |  |  |
+|  | Starting Dose and Modified Dose Levels (mg/m2) |  |  |
+|  | Starting Dose | Dose Level -1 | Dose Level -2 |
+|  | 350 | 300 | 250 |
 
 Dose Modifications
 
 Based on recommended dose-levels described in Table 3, Single-Agent Regimens of CAMPTOSAR and Dose Modifications, subsequent doses should be adjusted as suggested in Table 4, Recommended Dose Modifications for Single-Agent Schedules.
 All dose modifications should be based on the worst preceding toxicity.
 
-Table 4: Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
+Table 4.
+Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
 
 |  | Weekly | Weekly | Once Every 3 Weeks |
 | --- | --- | --- | --- |
@@ -114,10 +115,10 @@ Table 4: Recommended Dose Modifications For Single-Agent SchedulesAll dose modif
 | 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
 | 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 
-## 2.3 Dosage in Patients with Reduced UGT1A1 Activity
+## 2.3 Dosage in Patients With Reduced UGT1A1 Activity
 
-When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of CAMPTOSAR should be considered for patients known to be homozygous for the UGT1A1*28 allele [see Dosage and Administration (2.1 and 2.2) and Warnings and Precautions (5.3)].
-However, the precise dose reduction in this patient population is not known, and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 1–4).
+When administered in combination with other agents, or as a single-agent, consider a reduction in the starting dose by at least one level of CAMPTOSAR for patients known to be homozygous for the UGT1A1*28 or *6 alleles (*28/*28, *6/*6) or compound heterozygous for the UGT1A1*28 and *6 alleles (*6/*28) [see Dosage and Administration (2.1, 2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3, 12.5)].
+Subsequent dosage modifications may be required based on individual patient tolerance to treatment [see Dosage and Administration (2.1, 2.2)].
 
 ## 2.4 Premedication
 
@@ -135,27 +136,23 @@ Inspect vial contents for particulate matter and discoloration and repeat inspec
 
 CAMPTOSAR Injection 20 mg/mL is intended for single use only and any unused portion should be discarded.
 
-CAMPTOSAR Injection must be diluted prior to infusion.
+CAMPTOSAR Injection must be diluted prior to infusion using aseptic technique.
 CAMPTOSAR should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 mg/mL to 2.8 mg/mL.
 Other drugs should not be added to the infusion solution.
 
-The solution is physically and chemically stable for up to 24 hours at room temperature and in ambient fluorescent lighting.
-Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temperatures (approximately 2° to 8°C, 36° to 46°F), and protected from light are physically and chemically stable for 48 hours.
-Refrigeration of admixtures using 0.9% Sodium Chloride Injection, USP, is not recommended due to a low and sporadic incidence of visible particulates.
-Freezing CAMPTOSAR and admixtures of CAMPTOSAR may result in precipitation of the drug and should be avoided.
-
-The CAMPTOSAR Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
-Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
-In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g., on Laminar Air Flow bench), CAMPTOSAR Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+Prepare the infusion solution immediately prior to use and commence infusion as soon as possible after preparation.
+If visible particulates are present in the infusion solution discard.
+If it is not possible to use the infusion solution immediately, the infusion solution may be stored for up to 24 hours at 2 °C to 8 °C or discarded.
 
 ## 2.6 Safe Handling
+
+CAMPTOSAR is a hazardous drug.
+Follow applicable special handling and disposal procedures.1
 
 Care should be exercised in the handling and preparation of infusion solutions prepared from CAMPTOSAR Injection.
 The use of gloves is recommended.
 If a solution of CAMPTOSAR contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If CAMPTOSAR contacts the mucous membranes, flush thoroughly with water.
-Several published guidelines for handling and disposal of anticancer agents are available.
 
 ## 2.7 Extravasation
 
