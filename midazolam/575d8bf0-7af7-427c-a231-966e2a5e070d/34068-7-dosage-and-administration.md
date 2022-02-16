@@ -2,11 +2,6 @@
 
 NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use)
 
-The 1 mL and 2 mL Midazolam Injection vials include a cautionary label that extends above the main label and highlights the drug name and strength per total volume.
-The purpose of the extended label is to prevent medication errors due to the different strengths of Midazolam Injection.
-Read the label and confirm you have selected the correct medication and strength.
-Then locate the “Tear Here” point on the label, and remove this cautionary label prior to removing the flip-off cap.
-
 Midazolam is a potent sedative agent that requires slow administration and individualization of dosage.
 Clinical experience has shown midazolam to be 3 to 4 times as potent per mg as diazepam.
 BECAUSE SERIOUS AND LIFE-THREATENING CARDIORESPIRATORY ADVERSE EVENTS HAVE BEEN REPORTED, PROVISION FOR MONITORING, DETECTION AND CORRECTION OF THESE REACTIONS MUST BE MADE FOR EVERY PATIENT TO WHOM MIDAZOLAM INJECTION IS ADMINISTERED, REGARDLESS OF AGE OR HEALTH STATUS.
