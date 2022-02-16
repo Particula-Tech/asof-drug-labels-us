@@ -17,6 +17,8 @@ However, if they miss one day of icosapent ethyl capsules, they should not doubl
 
 For more information about Icosapent Ethyl Capsules, go to www.apotex.com or call 1-800-706-5575.
 
+Dispense with Patient Information Leaflet available at www1.apotex.com/products/us
+
 APOTEX INC. ICOSAPENT ETHYL CAPSULES 1 gram
 
 Manufactured in Canada for:
@@ -25,4 +27,4 @@ Apotex Corp.
 
 Weston, FL 33326 USA
 
-Revised: May 2021 Rev.: 5
+Revised: February 2022 Rev.: 6
