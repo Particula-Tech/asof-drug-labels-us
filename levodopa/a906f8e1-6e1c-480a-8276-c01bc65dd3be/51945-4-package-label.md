@@ -2,7 +2,7 @@
 
 NDC 10144-342-60 Rx ONLY
 
-Inbrija™ (levodopa inhalation powder)
+Inbrija® (levodopa inhalation powder)
 
 For Oral Inhalation Only
 
@@ -10,6 +10,6 @@ For Oral Inhalation Only
 
 CONTENTS: 60 capsules (15 blister strips of 4 capsules each) 1 inhaler Prescribing Information Patient Information Instructions for Use
 
-Do not swallow Inbrija™ capsules
+Do not swallow Inbrija® capsules
 
-Inbrija™ capsules are for use with Inbrija™ inhaler only.
+Inbrija® capsules are for use with Inbrija® inhaler only.
