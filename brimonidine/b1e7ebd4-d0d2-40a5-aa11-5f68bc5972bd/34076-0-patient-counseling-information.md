@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-As with other drugs in this class, Brimonidine Tartrate Ophthalmic Solution, 0.15% may cause fatigue and/or drowsiness in some patients.
+As with other drugs in this class, brimonidine tartrate ophthalmic solution, 0.15% may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
 Rx Only
 
-*POLYQUAD is a registered trademark of Alcon Research, Ltd.
+*POLYQUAD is a registered trademark of Alcon Research, LLC.
 
 **ALPHAGAN P is a registered trademark of Allergan, Inc.
 
@@ -19,4 +19,4 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-Printed in USA
+300042903-0521

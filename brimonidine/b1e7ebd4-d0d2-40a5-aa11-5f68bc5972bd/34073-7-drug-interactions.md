@@ -7,15 +7,15 @@ Caution in using drugs such as beta-blockers (ophthalmic and systemic), anti-hyp
 
 ## 7.2 CNS Depressants
 
-Although specific drug interaction studies have not been conducted with Brimonidine Tartrate Ophthalmic Solution, 0.15%, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, or anesthetics) should be considered.
+Although specific drug interaction studies have not been conducted with brimonidine tartrate ophthalmic solution, 0.15%, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, or anesthetics) should be considered.
 
 ## 7.3 Tricyclic Antidepressants
 
 Tricyclic antidepressants have been reported to blunt the hypotensive effect of systemic clonidine.
-It is not known whether the concurrent use of these agents with Brimonidine Tartrate Ophthalmic Solution, 0.15% in humans can lead to resulting interference with its IOP-lowering effect.
+It is not known whether the concurrent use of these agents with brimonidine tartrate ophthalmic solution, 0.15% in humans can lead to resulting interference with its IOP-lowering effect.
 Caution, however, is advised in patients taking tricyclic antidepressants, which can affect the metabolism and uptake of circulating amines.
 
 ## 7.4 Monoamine Oxidase Inhibitors
 
 Monoamine oxidase (MAO) inhibitors may theoretically interfere with the metabolism of brimonidine and potentially result in an increased systemic side-effect such as hypotension.
-Caution is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines
+Caution is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines.

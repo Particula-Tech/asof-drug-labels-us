@@ -2,14 +2,12 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category: B
-
-Reproductive studies performed in rats and rabbits with oral doses of 0.66 mg base/kg revealed no evidence of harm to the fetus due to Brimonidine Tartrate Ophthalmic Solution, 0.15%.
+Reproductive studies performed in rats and rabbits with oral doses of 0.66 mg base/kg revealed no evidence of harm to the fetus due to brimonidine tartrate ophthalmic solution, 0.15%.
 Dosing at this level produced an exposure in rats and rabbits that is 80 and 40 times higher than the exposure seen in humans, respectively.
 
 There are no adequate and well-controlled studies in pregnant women.
 In animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent.
-Brimonidine Tartrate Ophthalmic Solution, 0.15% should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
+Brimonidine tartrate ophthalmic solution, 0.15% should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 

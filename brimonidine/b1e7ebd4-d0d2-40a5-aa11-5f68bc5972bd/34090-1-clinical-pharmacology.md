@@ -2,12 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Brimonidine Tartrate Ophthalmic Solution, 0.15% is an alpha-2 adrenergic receptor agonist.
+Brimonidine tartrate ophthalmic solution, 0.15% is an alpha-2 adrenergic receptor agonist.
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
 ## 12.2 Pharmacodynamics
 
-Brimonidine Tartrate Ophthalmic Solution, 0.15% has a peak ocular hypotensive effect occurring at two hours post-dosing.
+Brimonidine tartrate ophthalmic solution, 0.15% has a peak ocular hypotensive effect occurring at two hours post-dosing.
 
 Elevated IOP presents a major risk factor in glaucomatous field loss.
 The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
@@ -17,7 +17,7 @@ Brimonidine tartrate has the action of lowering intraocular pressure with minima
 
 Absorption
 
-In a pharmacokinetic study, 14 healthy subjects (4 males and 10 females) received a single topical ocular administration of Brimonidine Tartrate Ophthalmic Solution, 0.15%, one drop per eye.
+In a pharmacokinetic study, 14 healthy subjects (4 males and 10 females) received a single topical ocular administration of brimonidine tartrate ophthalmic solution, 0.15%, one drop per eye.
 The peak plasma concentrations (Cmax) and AUC0-inf were 73 ± 19 pg/mL and 375 ± 89 pg•hr/mL, respectively.
 Tmax was 1.7 ± 0.7 hours after dosing.
 The systemic half-life was approximately 2.1 hours.

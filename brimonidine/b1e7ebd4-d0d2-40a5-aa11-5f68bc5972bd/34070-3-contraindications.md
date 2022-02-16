@@ -2,4 +2,4 @@
 
 ## 4.1 Hypersensitivity
 
-Brimonidine Tartrate Ophthalmic Solution, 0.15% is contraindicated in patients with hypersensitivity to any component of this product.
+Brimonidine tartrate ophthalmic solution, 0.15% is contraindicated in patients with hypersensitivity to any component of this product.
