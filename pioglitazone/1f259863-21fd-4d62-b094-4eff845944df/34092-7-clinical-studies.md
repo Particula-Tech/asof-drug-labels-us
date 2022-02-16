@@ -46,7 +46,7 @@ Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration Monotherapy
 | Baseline (mean) | 279 | 268 | 281 |
 | Change from baseline (adjusted mean†) | 18 | -44 | -50 |
 | Difference from placebo (adjusted mean†) 95% Confidence Interval |  | -62‡ (-82, -0.41) | -68‡ (-88, -0.48) |
-| * Final dose in forced titration † Adjusted for baseline, pooled center, and pooled center by treatment interaction ‡ p ≤ 0.05 vs. placebo |  |  |  |
+| * Final dose in forced titration † Adjusted for baseline, pooled center, and pooled center by treatment interaction ‡ p ≤0.05 vs. placebo |  |  |  |
 
 In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of pioglitazone or placebo once daily.
 Therapy with any previous antidiabetic agent was discontinued six weeks prior to the double-blind period.
@@ -66,7 +66,7 @@ Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
 | Baseline (mean) | 270 | 273 |
 | Change from baseline (adjusted mean*) | 8 | -50 |
 | Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -58† (-77, -38) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤0.05 vs. placebo |  |  |
 
 ## 14.2 Combination Therapy
 
@@ -93,7 +93,7 @@ Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Sulfonylurea Tria
 | Baseline (mean) | 236 | 247 | 239 |
 | Change from baseline (adjusted mean*) | 6 | -34 | -52 |
 | Difference from placebo + sulfonylurea (adjusted mean*) 95% Confidence Interval |  | -39† (-52, -27) | -58† (-70, -46) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + sulfonylurea |  |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p≤0.05 vs. placebo + sulfonylurea |  |  |  |
 
 In the second trial, 702 patients were randomized to receive 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current sulfonylurea regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 1.6% for the 30 mg dose and 1.7% for the 45 mg dose (see Table 21).
@@ -136,7 +136,7 @@ Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Metformin Trial
 | Baseline (mean) | 260 | 254 |
 | Change from baseline (adjusted mean*) | -5 | -43 |
 | Difference from placebo + metformin (adjusted mean*) 95% Confidence Interval |  | -38† (-49, -26) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + metformin |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p≤0.05 vs. placebo + metformin |  |  |
 
 In the second trial, 827 patients were randomized to receive either 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current metformin regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 0.8% for the 30 mg dose and 1% for the 45 mg dose (see Table 23).
@@ -156,7 +156,7 @@ Glycemic Parameters in a 24-Week Add-on to Metformin Study
 | Baseline (mean) | 233 | 232 |
 | Change from baseline (adjusted mean*) | -38 | -51 |
 | Difference from 30 mg daily pioglitazone + Metformin (adjusted mean*) (95% CI) |  | -12† (-21, -4) |
-| 95% CI = 95% confidence interval *Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone + metformin |  |  |
+| 95% CI = 95% confidence interval *Adjusted for baseline, pooled center, and pooled center by treatment interaction † p≤0.05 vs. 30 mg daily pioglitazone + metformin |  |  |
 
 The therapeutic effect of pioglitazone in combination with metformin was observed in patients regardless of the metformin dose.
 Add-on to Insulin Trials Two clinical trials were conducted with pioglitazone in combination with insulin.
@@ -182,7 +182,7 @@ Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Insulin Trial
 | Baseline (mean) | 221 | 222 | 229 |
 | Change from baseline (adjusted mean*) | 1 | -35 | -48 |
 | Difference from placebo + Insulin (adjusted mean*) 95% Confidence Interval |  | -35† (-51, -19) | -49† (-65, -33) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + insulin |  |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p≤0.05 vs. placebo + insulin |  |  |  |
 
 In the second trial, 690 patients receiving a median of 60 units per day of insulin were randomized to receive either 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current insulin regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 1.2% for the 30 mg dose and 1.5% for the 45 mg dose.
@@ -206,4 +206,4 @@ Glycemic Parameters in a 24-Week Add-on to Insulin Trial
 | Baseline (mean) | 202 | 199 |
 | Change from baseline (adjusted mean*) | -32 | -46 |
 | Difference from 30 mg daily pioglitazone + Insulin (adjusted mean*) (95% CI) |  | -14† (-25, -3) |
-| 95% CI = 95% confidence interval * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone + insulin |  |  |
+| 95% CI = 95% confidence interval * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p≤0.05 vs. 30 mg daily pioglitazone + insulin |  |  |
