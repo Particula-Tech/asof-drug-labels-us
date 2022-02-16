@@ -21,7 +21,7 @@ If the dose is increased to 20 mg, this should occur after a minimum of one week
 Maintenance Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-Systematic evaluation of continuing Lexapro 10 or 20 mg/day in adults patients with major depressive disorder who responded while taking Lexapro during an 8-week, acute-treatment phase demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.1)].
+Systematic evaluation of continuing Lexapro 10 or 20 mg/day in adult patients with major depressive disorder who responded while taking Lexapro during an 8-week, acute-treatment phase demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.1)].
 Nevertheless, the physician who elects to use Lexapro for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 

@@ -57,7 +57,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormal bleeding: Lexapro and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Lexapro and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
 Seizures or convulsions
@@ -164,7 +164,7 @@ Before starting Lexapro, tell your healthcare provider if you:
 - Are taking certain drugs such as:
 - Triptans used to treat migraine headache
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-- Tramadol
+- Opioids (including tramadol and fentanyl)
 - Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
@@ -190,8 +190,7 @@ Lexapro and some medicines may interact with each other, may not work as well, o
 Your healthcare provider or pharmacist can tell you if it is safe to take Lexapro with your other medicines.
 Do not start or stop any medicine while taking Lexapro without talking to your healthcare provider first.
 
-| If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
-| --- |
+If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa.
 
 How should I take Lexapro?
 
@@ -281,11 +280,11 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-Revised: 09/2021
+Revised: 02/2022
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2021 Allergan.
+© 2022 Allergan.
 All rights reserved.
 
-v3.0MG2005
+v4.0MG2005

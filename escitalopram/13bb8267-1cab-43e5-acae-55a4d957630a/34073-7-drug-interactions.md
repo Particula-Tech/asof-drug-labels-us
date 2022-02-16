@@ -10,7 +10,7 @@
 
 ## 7.3Triptans
 
-There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
+There have been rare post marketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of Lexapro with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
 ## 7.4CNS Drugs
@@ -21,7 +21,7 @@ Given the primary CNS effects of escitalopram, caution should be used when it is
 
 Although Lexapro did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking Lexapro is not recommended.
 
-## 7.6Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+## 7.6Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
@@ -51,7 +51,7 @@ The mechanism of this pharmacodynamic interaction is not known.
 
 ## 7.11Sumatriptan
 
-There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan.
+There have been rare post marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram, escitalopram) is clinically warranted, appropriate observation of the patient is advised.
 
 ## 7.12Theophylline
