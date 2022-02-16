@@ -92,7 +92,7 @@ The median duration of treatment with abiraterone acetate with a corticosteroid 
 
 Table 3:Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
 
-|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid (N=540) |  |
+|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid(N=540) |  |
 | --- | --- | --- | --- | --- |
 | System Organ ClassAdverse Reaction | All Grades1% | Grade 3-4% | All Grades% | Grade 3-4% |
 | General Disorders |  |  |  |  |

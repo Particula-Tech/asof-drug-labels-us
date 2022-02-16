@@ -56,13 +56,11 @@ At the primary analysis, increased incidences of fractures (28.6% vs 11.4%) and 
 ## 5.5 Embryo-Fetal Toxicity
 
 The safety and efficacy of YONSA have not been established in females.
-Based on animal reproductive studies and mechanism of action, abiraterone acetate can cause fetal harm and loss of pregnancy when administered to a pregnant female.
+Based on animal reproductive studies and mechanism of action, YONSA can cause fetal harm and loss of pregnancy when administered to a pregnant female.
 In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with YONSA and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1, 8.3)].
-YONSA should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with YONSA and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1, 8.3)].YONSA should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].
 
 ## 5.6 Hypoglycemia
 
-Severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide [see Drug Interactions (7.2)].
-Monitor blood glucose in patients with diabetes during and after discontinuation of treatment with abiraterone acetate.
+Severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide [see Drug Interactions (7.2)].Monitor blood glucose in patients with diabetes during and after discontinuation of treatment with abiraterone acetate.
 Assess if antidiabetic drug dosage needs to be adjusted to minimize the risk of hypoglycemia.

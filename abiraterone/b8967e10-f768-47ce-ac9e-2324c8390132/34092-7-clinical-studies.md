@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of abiraterone acetate with a corticosteroid in patients with metastatic castration-resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter phase 3 clinical trials.
+The efficacy and safety of abiraterone acetate with prednisone in patients with metastatic castration-resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, international clinical studies.
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
@@ -35,7 +35,7 @@ Table 5: Overall Survival of Patients Treated with Either Abiraterone Acetate or
 | (95% CI) |  |  |  |
 | Hazard ratio (95% CI)2 |  | 0.740 (0.638, 0.859) |  |
 | 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic) |  |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with corticosteroid. |  |  |  |
+| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |  |
 
 Figure 1: Kaplan-Meier Overall Survival Curves in Study 1 (Intent-to-Treat Analysis)
 
@@ -68,7 +68,9 @@ Table 6: Overall Survival of Patients Treated with Either Abiraterone Acetate or
 | Median survival (months)(95% CI) | 34.7(3.7, 36.8) | 30.3(28.7, 33.3) |
 | p-value1 | 0.0033 |  |
 | Hazard ratio2 (95% CI) | 0.81 (0.70, 0.93) |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1).2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with corticosteroid.Figure 2: Kaplan Meier Overall Survival Curves in Study 2 |  |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1).2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
+
+Figure 2: Kaplan Meier Overall Survival Curves in Study 2
 
 At the pre-specified rPFS analysis, 150 (28%) patients treated with abiraterone acetate with a corticosteroid and 251 (46%) patients treated with placebo with a corticosteroid had radiographic progression.
 A significant difference in rPFS between treatment groups was observed (Table 7 and Figure 3).
@@ -83,7 +85,7 @@ Table 7: Radiographic Progression-free Survival of Patients Treated with Either 
 | Hazard ratio2 (95% CI) | 0.425 (0.347, 0.522) |  |
 | NR= Not Reached |  |  |
 | 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with corticosteroid. |  |  |
+| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
 
 Figure 3: Kaplan Meier Curves of Radiographic Progression-free Survival in Study 2 (Intent-to-Treat Analysis)
 
