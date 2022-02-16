@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040089"
+  ],
+  "inn": "acetazolamide",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9006-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "acetazolamide",
+      "name": "AcetaZOLAMIDE"
+    }
+  ],
+  "setid": "5502e5ba-9b5e-460a-855f-60534b625461",
+  "source": "dailymed"
+}
