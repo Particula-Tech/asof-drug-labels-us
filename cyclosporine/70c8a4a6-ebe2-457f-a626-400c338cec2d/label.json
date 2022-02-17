@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050790"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-6202-1",
+    "60505-6202-2"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "cyclosporine",
+      "name": "Cyclosporine"
+    }
+  ],
+  "setid": "70c8a4a6-ebe2-457f-a626-400c338cec2d",
+  "source": "dailymed"
+}
