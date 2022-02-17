@@ -22,6 +22,7 @@ Respiratory Depression
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
 Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs.
+[see Warnings and Precautions (5.7)].
 
 Use in Pregnancy
 
@@ -31,4 +32,4 @@ Encourage patients to enroll in the NAAED Pregnancy Registry if they become preg
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Revised: 05/2020
+Revised: 02/2022

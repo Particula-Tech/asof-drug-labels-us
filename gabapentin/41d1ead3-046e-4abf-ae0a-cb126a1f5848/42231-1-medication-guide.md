@@ -146,14 +146,14 @@ See “What is the most important information I should know about gabapentin cap
   - feeling drowsy
   - nausea and vomiting
   - difficulty with speaking
-  - tremor
-  - swelling, usually of legs and feet
-  - feeling tired
-  - fever
   - jerky movements
+  - tremor
   - difficulty with coordination
+  - swelling,usually of legs and feet
   - double vision
+  - feeling tired
   - unusual eye movement
+  - fever
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -200,4 +200,4 @@ Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Haup
 
 Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Revised: 05/2020
+Revised: 02/2022
