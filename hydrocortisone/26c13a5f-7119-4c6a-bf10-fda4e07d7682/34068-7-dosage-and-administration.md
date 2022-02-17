@@ -13,11 +13,14 @@
 - Monitor patients for symptoms of under and/or overtreatment including signs and symptoms of adrenocortical insufficiency, linear growth and weight gain.
   Adjust doses accordingly.
 - During episodes of acute febrile illness, gastroenteritis, surgery or major trauma, patients may need increased doses [see Warnings and Precautions (5.1)].
-- When switching patients from conventional oral hydrocortisone replacement therapy to ALKINDI SPRINKLE, use the same total daily dose.
-  ALKINDI SPRINKLE is therapeutically equivalent to conventional oral hydrocortisone tablet formulations, however, the potential dosing inaccuracy of manipulated oral hydrocortisone preparations (e.g., split or crushed tablets or compounded suspension) could lead to a difference in exposure on the same nominal dose.
-  This could lead to unintended clinical consequences [see Warnings and Precautions (5.2)].
 
-## 2.2 Administration Instructions
+## 2.2 Switching to ALKINDI SPRINKLE from Other Oral Hydrocortisone Formulations
+
+When switching patients from other oral hydrocortisone formulations to ALKINDI SPRINKLE, use the same total daily hydrocortisone dosage.
+Closely monitor patients after switching to ALKINDI SPRINKLE for symptoms of adrenocortical insufficiency.
+If symptoms of adrenal insufficiency occur after switching, increase the total daily dosage of ALKINDI SPRINKLE [see Warnings and Precautions (5.1)].
+
+## 2.3 Administration Instructions
 
 - ALKINDI SPRINKLE are oral granules contained within capsules.
 - Do not swallow the capsules.

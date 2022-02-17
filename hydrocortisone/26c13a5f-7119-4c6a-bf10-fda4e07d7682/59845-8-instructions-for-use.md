@@ -1,12 +1,12 @@
 Instructions for Use
 
-ALKINDI® SPRINKLE(ælˈkɪndi spr-en-kle) (hydrocortisone) oral granules
+ALKINDI SPRINKLE® (ælˈkɪndi spr-en-kle) (hydrocortisone) oral granules
 
 Read this Instructions for Use before you start using ALKINDI SPRINKLE, and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your child’s medical condition or treatment.
 
-Important information you need to know before giving ALKINDI SPRINKLE
+Important information you need to know before giving ALKINDI SPRINKLE:
 
 - ALKINDI SPRINKLE comes in a capsule that must be opened before use.
 - Do not let your child swallow the capsule.
@@ -75,4 +75,4 @@ For more information, go to www.alkindisprinkle.com or call 1-833-343-2500.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: 03/2021
+Issued: 02/2022
