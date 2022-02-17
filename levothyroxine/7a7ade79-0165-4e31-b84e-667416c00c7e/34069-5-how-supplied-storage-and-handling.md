@@ -28,7 +28,7 @@ Each blister pack contains 10 capsules placed in individual cavities labeled wit
 
 ## 16.2 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°-30°C (59-86°F) [see USP Controlled Room Temperature].
 TIROSINT capsules should be protected from heat, light and moisture.
 
 Do not separate the individual cavities containing the drug from the intact blister as important information may be lost (i.e., manufacturer/distributor names, distributor contact phone number, lot number, and expiration date), and do not remove the individual capsules from blister packaging until ready to use.
