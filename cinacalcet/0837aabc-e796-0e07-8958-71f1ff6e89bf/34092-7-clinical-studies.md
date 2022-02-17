@@ -92,7 +92,7 @@ n = Number of patients with non-missing values at the timepoint.
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.
 Patients at EOT are those who completed titration.
 
-## 14.3 Patients with Severe Hypercalcemia Due to Primary Hyperparathyroidism
+## 14.3 Patients with Hypercalcemia Due to Primary Hyperparathyroidism
 
 Seventeen patients with severe hypercalcemia due to primary HPT, who had failed or had contraindications to parathyroidectomy, participated in an open-label, single-arm study.
 The study consisted of two phases, a dose-titration phase and a maintenance phase.
@@ -114,3 +114,12 @@ n = Number of patients with non-missing values at the timepoint.
 
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.
 Patients at EOT are those who completed titration.
+
+Sixty-seven patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), but who were unable to undergo parathyroidectomy participated in a randomized, double-blind, placebo-controlled study.
+A total of 33 patients were randomized to cinacalcet and 34 patients randomized to placebo.
+The mean age of the patients was 72 years, 52% were female, 61% were Caucasian, and 5% were Blacks.
+The study started with a 12-week titration phase, followed by a 16-week efficacy-assessment phase.
+Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range.
+
+During the efficacy period a significantly higher percentage of cinacalcet-treated patients compared with the placebo-treated patients achieved mean corrected total serum calcium concentration (≤ 10.3 mg/dL [2.57 mmol/L], 75.8% vs 0%, p < 0.001) and ≥ 1 mg/dL [0.25 mmol/L] decrease from baseline in mean corrected total serum calcium concentration (84.8% vs 5.9%, p < 0.001).
+The median dose of cinacalcet at the completion of the study was 60 mg/day.
