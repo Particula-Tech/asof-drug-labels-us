@@ -166,7 +166,7 @@ Time to Renal-Related Event or Death in Adults with Lupus Nephritis (Trial 5)
 | Efficacy Endpoint | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Hazard Ratio (HR) vs. Placebo (95% CI) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Time to Renal-Related Event or Deatha |  |  |  |  |  |  |  |
-| Percentage of patients with eventbNumber (n) of patients with event | 28%63 | 16%35 |  |  |  |  |  |
+| Percentage of patients with eventbNumber of patients with event | 28%63 | 16%35 |  |  |  |  |  |
 | Time to eventc |  |  | 0.5(0.3, 0.8)P = 0.001 |  |  |  |  |
 | Components of endpointdPercentage of patients with event |  |  |  |  |  |  |  |
 | End-stage renal disease (ESRD) | 0.4% | 1% |  |  |  |  |  |

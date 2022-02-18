@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49401-101-01
 
-Benlysta®
+Benlysta
 
 (belimumab)
 
@@ -18,28 +18,28 @@ Discard unused portion
 Reconstitution: Reconstitute with 1.5 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
 
-Dilute: Further dilute in 250 mL of one of the following solutions before use:
+Dilution: Further dilute to 250 mL of one of the following solutions before use:
 
 - •0.9% Sodium Chloride Injection, USP
 - •0.45% Sodium Chloride Injection, USP
 - •Lactated Ringer’s Injection, USP
 
-Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
+Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this carton.
 
 Rx only
 
-©2016 the GSK group of companies
+©2021 GSK group of companies or its licensor.
 
 Rev.
-6/16
+4/21
 
-10000000141921
+62000000063941
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49401-102-01
 
-Benlysta®
+Benlysta
 
 (belimumab)
 
@@ -55,22 +55,22 @@ Discard unused portion.
 Reconstitution: Reconstitute with 4.8 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
 
-Dilute: Further dilute in 250 mL of one of the following solutions before use:
+Dilute: Further dilute to 250 mL of one of the following solutions before use:
 
 - •0.9% Sodium Chloride Injection, USP
 - •0.45% Sodium Chloride Injection, USP
 - •Lactated Ringer’s Injection, USP
 
-Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
+Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this carton.
 
 Rx only
 
-©2016 the GSK group of companies
+©2021 GSK group of companies or its licensor.
 
 Rev.
-7/16
+4/21
 
-10000000141890
+62000000063921
 
 PRINCIPAL DISPLAY PANEL
 
@@ -99,9 +99,9 @@ Contents:
 
 Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
 
-©2020 GSK group of companies or is licensor.
+©2021 GSK group of companies or is licensor.
 
 Rev.
-12/20
+7/21
 
-DFT-02865-5760659
+62000000063282
