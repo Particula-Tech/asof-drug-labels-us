@@ -9,7 +9,7 @@ Controlled Clinical Trials
 The most frequent adverse reactions associated with dorzolamide were ocular burning, stinging, or discomfort immediately following ocular administration (approximately one-third of patients).
 Approximately one-quarter of patients noted a bitter taste following administration.
 Superficial punctate keratitis occurred in 10 to 15% of patients and signs and symptoms of ocular allergic reaction in approximately 10%.
-Reactions occurring in approximately 1 to 5% of patients were conjunctivitis and lid reactions [see Warnings and Precautions (5.5)], blurred vision, eye redness, tearing, dryness, and photophobia.
+Reactions occurring in approximately 1 to 5% of patients were conjunctivitis and lid reactions [see Warnings and Precautions (5.4)], blurred vision, eye redness, tearing, dryness, and photophobia.
 Other ocular reactions and systemic reactions were reported infrequently, including headache, nausea, asthenia/fatigue; and, rarely, skin rashes, urolithiasis, and iridocyclitis.
 
 In a 3-month, double-masked, active-treatment-controlled, multicenter study in pediatric patients, the adverse reactions profile of dorzolamide was comparable to that seen in adult patients.
