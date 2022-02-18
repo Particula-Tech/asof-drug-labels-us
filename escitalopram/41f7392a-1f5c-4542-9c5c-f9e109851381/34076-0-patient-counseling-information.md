@@ -25,6 +25,11 @@ Pre-existing glaucoma is almost always open-angle glaucoma because angle closure
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
 
+Sexual Dysfunction
+
+Advise patients that use of escitalopram may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
 Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
@@ -81,4 +86,4 @@ INDIA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2020 ID#: 266377
+Revised: March 2022 ID#: 269215

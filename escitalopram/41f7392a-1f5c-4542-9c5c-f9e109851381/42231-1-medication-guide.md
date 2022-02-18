@@ -98,6 +98,23 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
+10.
+Sexual Dysfunction.
+Taking selective serotonin reuptake inhibitors (SSRIs), including Escitalopram, may cause sexual problems.
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Escitalopram.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop escitalopram tablets without first talking to your healthcare provider.
 Stopping escitalopram tablets too quickly may cause serious symptoms including:
 
@@ -277,4 +294,4 @@ Goa 403 722
 
 INDIA
 
-Revised: October 2020 ID#: 266378
+Revised: March 2022 ID#: 269444
