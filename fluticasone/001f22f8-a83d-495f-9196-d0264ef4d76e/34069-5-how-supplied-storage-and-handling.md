@@ -5,7 +5,6 @@ The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC
 
 FLOVENT DISKUS 100 mcg is supplied as a disposable orange plastic inhaler containing a foil blister strip with 60 blisters.
 The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC 0173-0602-02).
-FLOVENT DISKUS 100 mcg is also supplied in an institutional pack containing 28 blisters (NDC 0173-0602-00).
 
 FLOVENT DISKUS 250 mcg is supplied as a disposable orange plastic inhaler containing a foil blister strip with 60 blisters.
 The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC 0173-0601-02).
