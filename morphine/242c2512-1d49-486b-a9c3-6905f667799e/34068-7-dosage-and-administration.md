@@ -1,55 +1,70 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosage and Administration Instructions
+## 2.1 Dosage and Administration Overview
 
-Morphine sulfate oral solution is available in one concentration: 100 mg per 5 mL (20 mg/mL).
+Morphine sulfate oral solution is available in one concentration: 100 mg per 5 mL (20 mg/mL) [see Dosage Forms and Strengths (3)].
 
-Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-tolerant patients only who have already been receiving opioid therapy.
-Use this strength only for patients who have already been titrated to a stable analgesic regimen using lower strengths of morphine sulfate and who can benefit from use of a smaller volume of oral solution.
+- Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is only indicated for use in opioid-tolerant adult patients who have already been receiving opioid therapy.
+  This concentration is to be used only in adult patients who have already been titrated to a stable analgesic regimen using lower concentrations of morphine sulfate and who can benefit from use of a higher concentration (smaller volume) of oral solution.
+  - Adult patients considered to be opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
+  - Always use the enclosed calibrated oral syringe when administering morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
+- Ensure accuracy when prescribing, dispensing, and administering morphine sulfate oral solution to avoid dosing errors due to confusion between mg and mL, and with other morphine solutions of different concentrations, which could result in accidental overdose and death.
+  Ensure the proper dose is communicated and dispensed.
+  When writing prescriptions, include both the total dose (in mg) and the total dose in volume (mL).
+- Instruct patients on how to accurately measure and take the correct dose of morphine sulfate oral solution.
+- Instruct patients to never use household teaspoons or tablespoons to measure morphine sulfate oral solution.
 
-Patients considered to be opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
+Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
+However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Ensure accuracy when prescribing, dispensing, and administering morphine sulfate oral solution to avoid dosing errors due to confusion between mg and mL, and with other morphine solutions of different concentrations, which could result in accidental overdose and death.
-Ensure the proper dose is communicated and dispensed.
-When writing prescriptions, include both the total dose in mg and the total dose in volume.
-
-Always use the enclosed calibrated oral syringe when administering morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
-
-Do not use household teaspoons or tablespoons to measure morphine sulfate oral solution, as using a tablespoon instead of a teaspoon could lead to overdosage.
+## 2.2 Important Dosage and Administration Instructions
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
 - Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate oral solution and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
-## 2.2 Initial Dosage
+## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Initiating Treatment with Morphine Sulfate Oral Solution Do not initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg per mL) in patients who are opioid naïve.
-Select an alternate product with lower concentration.
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with morphine sulfate oral solution [see Warnings and Precautions (5.4), Patient Counseling Information (17)].
 
-Initiate treatment with morphine sulfate oral solution in a dosing range of 10 mg to 20 mg every 4 hours as needed for pain.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.4, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.4 Initial Dosage
+
+Initiating Treatment with Morphine Sulfate Oral Solution Adults: Do not initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg per mL) in adult patients who are opioid-naïve or in pediatric patients.
+The recommended dosage to initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg per mL) in opioid-tolerant adults is 10 mg to 20 mg every 4 hours as needed for pain.
 
 Conversion from Parenteral Morphine to Morphine Sulfate Oral Solution For conversion from parenteral morphine to morphine sulfate oral solution, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
 
 Conversion from Other Opioids to Morphine Sulfate Oral Solution There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of morphine sulfate oral solution.
 It is safer to underestimate a patient’s 24-hour morphine sulfate oral solution dosage than to overestimate the 24-hour morphine sulfate oral solution dosage and manage an adverse reaction due to overdose.
-Initiate treatment in a dosage range of 10 to 20 mg every 4 hours as needed for pain.
+Initiate treatment in adults a dosage range of 10 to 20 mg every 4 hours as needed for pain.
 
 Conversion from Morphine Sulfate Oral Solution to Extended-Release Morphine For a given dose, the same total amount of morphine sulfate is available from morphine sulfate oral solution and extended-release morphine formulations.
 The extended duration of release of morphine sulfate from extended-release formulations results in reduced maximum and increased minimum plasma morphine sulfate concentrations than with shorter acting morphine sulfate products.
 Conversion from morphine sulfate oral solution to the same total daily dose of an extended-release formulation could lead to excessive sedation at peak serum levels.
 Therefore, conversion to extended-release morphine formulations must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-## 2.3 Titration and Maintenance of Therapy
+Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
+However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+## 2.5 Titration and Maintenance of Therapy
 
 Individually titrate morphine sulfate oral solution to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving morphine sulfate oral solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+Continually reevaluate patients receiving morphine sulfate oral solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the morphine sulfate oral solution dosage.
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of Morphine Sulfate Oral Solution
+## 2.6 Safe Reduction or Discontinuation of Morphine Sulfate Oral Solution
 
 Do not abruptly discontinue morphine sulfate oral solution in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.

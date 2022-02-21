@@ -7,7 +7,7 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Oral Sol
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation. If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.3), Warnings and Precautions (5.2, 5.4, 5.6)]. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
@@ -16,14 +16,15 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Oral Sol
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.4, 5.8)]. |
 | Intervention: | Do not use morphine sulfate oral solution in patients taking MAOIs or within 14 days of stopping such treatment. |
-| Examples: | phenelzine, tranylcypromine, linezolid |
+| Examples: | Phenelzine, tranylcypromine, linezolid. |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | May reduce the analgesic effect of morphine sulfate oral solution and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
-| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine. |
+| Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine. |
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate oral solution and/or the muscle relaxant as necessary. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate oral solution and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.3), Warnings and Precautions (5.4, 5.6)]. |
+| Examples: | Cyclobenzaprine, metaxalone. |
 | Cimetidine |  |
 | Clinical Impact: | The concomitant use of morphine and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report. |
 | Intervention: | Monitor patients for increased respiratory and CNS depression when morphine sulfate oral solution is used concomitantly with cimetidine. |
@@ -36,4 +37,4 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Oral Sol
 | P-Glycoprotein (P-gp) Inhibitors |  |
 | Clinical Impact: | The concomitant use of P-gp inhibitors can increase the exposure to morphine by two-fold and can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate oral solution and/or the P-gp inhibitor as necessary. |
-| Examples: | quinidine, verapamil |
+| Examples: | Quinidine, verapamil. |

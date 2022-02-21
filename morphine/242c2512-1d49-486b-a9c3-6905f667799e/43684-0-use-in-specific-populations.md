@@ -4,32 +4,32 @@
 
 Risk Summary Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 There are no available data with morphine sulfate oral solution in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
-Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
+Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects (see Human Data).
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
-Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3 to 4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].
+Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3 to 4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD (see Animal Data).
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations Fetal/Neonatal Adverse Reactions: Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
-Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
-Labor or Delivery: Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine sulfate oral solution is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including morphine sulfate oral solution, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data Human Data: The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
+Data Human Data The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and non-randomized study design.
 
-Animal Data: Formal reproductive and developmental toxicology studies for morphine have not been conducted.
+Animal Data Formal reproductive and developmental toxicology studies for morphine have not been conducted.
 Exposure margins for the following published study reports are based on human daily dose of 60 mg morphine using a body surface area comparison (HDD).
 
 Neural tube defects (exencephaly and cranioschisis) were noted following subcutaneous administration of morphine sulfate (35 to 322 mg/kg) on Gestation Day 8 to pregnant hamsters (4.7 to 43.5 times the HDD).
@@ -79,7 +79,10 @@ In published animal studies, morphine administration adversely effected fertilit
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness and the pharmacokinetics of morphine sulfate oral solution in pediatric patients below the age of 18 have not been established.
+The safety and effectiveness of morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) have not been established in pediatric patients.
+
+Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
+However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

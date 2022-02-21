@@ -1,11 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Morphine Sulfate Oral Solution
+Morphine Sulfate Oral Solution:
 
-100 mg per 5 mL (20 mg/mL) is available as a clear, light blue liquid with raspberry odor.
-Supplied with calibrated syringe: Bottles of 15 mL...........NDC 0406-8003-15 Bottles of 30 mL...........NDC 0406-8003-30 Bottles of 120 mL.........NDC 0406-8003-12 Bottles of 240 mL.........NDC 0406-8003-24 Storage
+100 mg per 5 mL (20 mg/mL) Oral Solution (color added) (only for opioid-tolerant adults) is supplied as a clear, light-blue liquid with raspberry odor.
+Each 1 mL of clear, light-blue oral solution contains 20 mg of morphine sulfate, USP (equivalent to 15 mg morphine).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+- NDC 0406-8003-15: Bottle of 15 mL with an Oral Syringe
+- NDC 0406-8003-30: Bottle of 30 mL with an Oral Syringe
+- NDC 0406-8003-12: Bottle of 120 mL with an Oral Syringe
+- NDC 0406-8003-24: Bottle of 240 mL with an Oral Syringe
+
+Storage Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 PROTECT FROM LIGHT.
 

@@ -38,10 +38,10 @@ The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2, 2.5)].
 
 Concentration–Adverse Reaction Relationships There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.4, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -52,7 +52,7 @@ Administration of 30 mg of morphine sulfate oral solution every six hours for 5 
 The steady-state levels were achieved within 48 hours for both tablets and solution.
 The mean steady state Cmax values were about 78 and 58 ng/mL for tablet and solution, respectively.
 
-Food Effects: Although the presence of a food effect was not assessed with morphine sulfate oral solution, significant food effect is not expected with a solution formulation.
+Food Effects Although the presence of a food effect was not assessed with morphine sulfate oral solution, significant food effect is not expected with a solution formulation.
 
 Distribution Once absorbed, morphine sulfate is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 Although the primary site of action is the CNS, only small quantities cross the blood-brain barrier.
@@ -86,3 +86,6 @@ Adequate studies of the pharmacokinetics of morphine in patients with severe hep
 Renal Impairment: Morphine pharmacokinetics are altered in patients with renal failure.
 Clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
 Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.
+
+Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
+However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
