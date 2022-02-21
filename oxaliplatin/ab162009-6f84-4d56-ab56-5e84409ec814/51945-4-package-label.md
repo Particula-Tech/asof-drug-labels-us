@@ -16,9 +16,9 @@ FOR INRAVENOUS USE ONLY
 
 SINGLE-DOSE VIAL
 
-Sterile Aqueous Solution - Preservative Free
+Sterile Aqueous Solution
 
-See Package insert for further required dilution.
+Preservative Free
 
 Rx only
 
@@ -40,8 +40,8 @@ FOR INRAVENOUS USE ONLY
 
 SINGLE-DOSE VIAL
 
-Sterile Aqueous Solution - Preservative Free
+Sterile Aqueous Solution
 
-See Package insert for further required dilution.
+Preservative Free
 
 Rx only

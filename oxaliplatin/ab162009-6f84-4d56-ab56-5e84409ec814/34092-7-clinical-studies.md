@@ -267,7 +267,7 @@ Table 24: Response Rates in Refractory and Relapsed Colorectal Cancer Clinical T
 | --- | --- | --- | --- |
 | Complete Response | 0 | 0 | 0 |
 | Partial Response | 13 (9%) | 2 (1%) | 0 |
-| p-value | 0.0002 for FU/LV vs. Oxaliplatin + FU/LV |  |  |
+| P-value | 0.0002 FU/LV vs. Oxaliplatin + FU/LV |  |  |
 | 95% CI | 4.6%, 14.2% | 0.2%, 4.6% | 0, 2.4% |
 
 1. Table 25: Radiographic Time to Progression (TTP)* in Refractory and Relapsed Colorectal Cancer Clinical Trial
