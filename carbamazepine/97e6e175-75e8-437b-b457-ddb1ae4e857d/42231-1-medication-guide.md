@@ -16,8 +16,7 @@ Stopping carbamazepine tablets or chewable tablets suddenly can cause serious pr
 
 Carbamazepine tablets or chewable tablets can cause serious side effects, including:
 
-1.
-Carbamazepine tablets or chewable tablets may cause rare but serious skin rashes that may lead to death.
+1.Carbamazepine tablets or chewable tablets may cause rare but serious skin rashes that may lead to death.
 These serious skin reactions are more likely to happen when you begin taking carbamazepine tablets or chewable tablets within the first four months of treatment but may occur at later times.
 These reactions can happen in anyone, but are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take carbamazepine tablets or chewable tablets to see if you are at a higher risk for serious skin reactions with this medicine.
@@ -243,6 +242,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Levittown, PA 19057
 
-8078199 Revised March 2020
+8085069 Revised MNovember 2021
