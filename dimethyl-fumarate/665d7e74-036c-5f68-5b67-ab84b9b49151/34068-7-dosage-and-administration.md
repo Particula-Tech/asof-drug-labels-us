@@ -11,7 +11,7 @@ The incidence of flushing may be reduced by administration of TECFIDERA with foo
 Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to TECFIDERA dosing may reduce the incidence or severity of flushing [see Clinical Pharmacology (12.3)].
 
 TECFIDERA should be swallowed whole and intact.
-TECFIDERA should not be crushed or chewed and the capsule contents should not be sprinkled on food.
+TECFIDERA should not be crushed or chewed, and the capsule contents should not be sprinkled on food.
 TECFIDERA can be taken with or without food.
 
 ## 2.2 Blood Tests Prior to Initiation of Therapy

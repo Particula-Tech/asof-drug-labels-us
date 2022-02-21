@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Dosage
 
@@ -49,10 +49,10 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
 
-41347-13
+41347-14
 
 Manufactured for: Biogen Inc. Cambridge, MA 02142
 
 TECFIDERA is a registered trademark of Biogen.
 
-© Biogen 2013 - 2021
+© Biogen 2013 - 2022

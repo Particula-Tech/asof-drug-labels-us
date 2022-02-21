@@ -67,8 +67,10 @@ The adverse reaction profile of TECFIDERA in the uncontrolled clinical studies w
 The following adverse reaction has been identified during post approval use of TECFIDERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in postmarketing experience [See Warnings and Precautions (5.5)].
+Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)]
 
-Herpes zoster infection and other serious opportunistic infections have has been reported with TECFIDERA administration in postmarketing experience [See Warnings and Precautions (5.3)].
+Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)]
 
-Rhinorrhea has been reported with TECFIDERA administration in post marketing experience.
+Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea
+
+Skin and Subcutaneous: Alopecia
