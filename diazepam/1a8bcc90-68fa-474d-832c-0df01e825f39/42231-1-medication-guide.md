@@ -24,7 +24,7 @@
 | What should I avoid while using VALTOCO? See "What is the most important information I should know about VALTOCO?" What are the possible side effects of VALTOCO? VALTOCO may cause serious side effects, including: |  |  |  |  |
 | See "What is the most important information I should know about VALTOCO?"Increase in eye pressure in people with open-angle glaucoma. See "Do not use VALTOCO if you:" |  |  |  |  |
 | The most common side effects of VALTOCO include: |  |  |  |  |
-|  | feeling sleepy or drowsy | headache | nose discomfort |  |
+| feeling sleepy or drowsy |  | headache | nose discomfort |  |
 | These are not all of the possible side effects of VALTOCO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
 | How should I store VALTOCO? |  |  |  |  |
 | Store VALTOCO at room temperature between 68°F to 77°F (20°C to 25°C).Do not freeze VALTOCO.Keep VALTOCO in its blister pack until ready to use. Protect it from light.Keep VALTOCO and all medicines out of the reach of children. |  |  |  |  |

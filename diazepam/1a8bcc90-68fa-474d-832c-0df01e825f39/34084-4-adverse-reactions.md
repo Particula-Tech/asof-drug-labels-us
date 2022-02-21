@@ -51,10 +51,10 @@ Table 3: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Paral
 VALTOCO (Diazepam Nasal Spray)
 
 Clinical studies of patients with epilepsy 6 years of age and older were conducted to support the safety and tolerability of VALTOCO for the treatment of acute repetitive seizures.
-A total of 190 patients 6 years of age and older received VALTOCO, of whom 114 received VALTOCO for at least 6 months, and 67 for at least 1 year.
+A total of 220 patients 6 years of age and older received VALTOCO, of whom 134 received VALTOCO for at least 1 year.
 Other than adverse reactions related to local nasal administration, the adverse reactions reported in these studies were similar to those seen in the efficacy trials of diazepam rectal gel.
 
-The most common local adverse reactions that occurred in VALTOCO-treated patients were nasal discomfort (6%), nasal congestion (3%), epistaxis (3%), and dysgeusia (2%).
+The most common local adverse reactions that occurred in VALTOCO-treated patients were nasal discomfort (6%), dysgeusia (3%), and epistaxis (2%).
 
 Other Adverse Reactions
 
