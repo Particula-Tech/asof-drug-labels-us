@@ -1,0 +1,19 @@
+# DOSAGE AND ADMINISTRATION
+
+Preservative-free Timolol Maleate Ophthalmic Solution in OCUDOSE is a sterile solution that does not contain a preservative.
+The solution from one individual unit is to be used immediately after opening for administration to one or both eyes.
+Since sterility cannot be guaranteed after the individual unit is opened, the remaining contents should be discarded immediately after administration.
+
+Preservative-free Timolol Maleate Ophthalmic Solution in OCUDOSE is available in concentrations of 0.25 and 0.5%.
+The usual starting dose is one drop of 0.25% Preservative-free Timolol Maleate Ophthalmic Solution in OCUDOSE in the affected eye(s) administered twice a day.
+Apply enough gentle pressure on the individual container to obtain a single drop of solution.
+If the clinical response is not adequate, the dosage may be changed to one drop of 0.5% solution in the affected eye(s) administered twice a day.
+
+Since in some patients the pressure-lowering response to Preservative-free Timolol Maleate Ophthalmic Solution in OCUDOSE may require a few weeks to stabilize, evaluation should include a determination of intraocular pressure after approximately 4 weeks of treatment with Preservative-free Timolol Maleate Ophthalmic Solution in OCUDOSE.
+
+If the intraocular pressure is maintained at satisfactory levels, the dosage schedule may be changed to one drop once a day in the affected eye(s).
+Because of diurnal variations in intraocular pressure, satisfactory response to the once-a-day dose is best determined by measuring the intraocular pressure at different times during the day.
+
+Dosages above one drop of 0.5% Timolol Maleate Ophthalmic Solution twice a day generally have not been shown to produce further reduction in intraocular pressure.
+If the patient’s intraocular pressure is still not at a satisfactory level on this regimen, concomitant therapy with other agent(s) for lowering intraocular pressure can be instituted taking into consideration that the preparation(s) used concomitantly may contain one or more preservatives.
+The concomitant use of two topical beta-adrenergic blocking agents is not recommended (see PRECAUTIONS, Drug Interactions, Beta-adrenergic blocking agents).
