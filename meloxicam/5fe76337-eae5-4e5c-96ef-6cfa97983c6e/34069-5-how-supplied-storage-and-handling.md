@@ -8,6 +8,8 @@ Meloxicam Tablets USP 7.5 mg are available as follows:
 
 NDC 29300-124-13; Bottles of 30
 
+NDC 29300-124-19; Bottles of 90
+
 NDC 29300-124-01; Bottles of 100
 
 NDC 29300-124-10; Bottles of 1,000
@@ -17,6 +19,8 @@ NDC 29300-124-50; Bottles of 5,000
 Meloxicam Tablets USP 15 mg are available as follows:
 
 NDC 29300-125-13; Bottles of 30
+
+NDC 29300-125-19; Bottles of 90
 
 NDC 29300-125-01; Bottles of 100
 
