@@ -81,13 +81,13 @@ The treatment effect was primarily driven by the reduction in total HF hospitali
 
 Table 4: Treatment Effect for the Primary Composite Endpoint and its Components in PARAGON-HF
 
-|  | ENTRESTO N = 2,407 |  | Valsartan N = 2,389 |  | Effect Size (95% CI) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Efficacy Endpoints | n | Event Ratea | n | Event Ratea |  |  |
-| Composite of total (first and recurrent) HF hospitalizations and CV death | 894 | 12.8 | 1,009 | 14.6 | RR = 0.87 (0.75, 1.01) p-value 0.06 |  |
-| Total HF Hospitalizations | 690 | 9.9 | 797 | 11.6 | RR = 0.85 (0.72, 1.00) |  |
-| CV Deathb | 204 | 2.9 | 212 | 3.1 | HR = 0.95 (0.79, 1.16) |  |
-| Abbreviations: RR = rate ratio, HR = hazard ratio. aEvent rate per 100 patient-years. bIncludes patients who had CV death following HF hospitalization event. |  |  |  |  |  |  |
+|  | ENTRESTO N = 2,407 |  | Valsartan N = 2,389 |  | Effect Size (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+| Efficacy Endpoints | n | Event Ratea | n | Event Ratea |  |
+| Composite of total (first and recurrent) HF hospitalizations and CV death | 894 | 12.8 | 1,009 | 14.6 | RR = 0.87 (0.75, 1.01) p-value 0.06 |
+| Total HF Hospitalizations | 690 | 9.9 | 797 | 11.6 | RR = 0.85 (0.72, 1.00) |
+| CV Deathb | 204 | 2.9 | 212 | 3.1 | HR = 0.95 (0.79, 1.16) |
+| Abbreviations: RR = rate ratio, HR = hazard ratio. aEvent rate per 100 patient-years. bIncludes patients who had CV death following HF hospitalization event. |  |  |  |  |  |
 
 Figure 5 shows the mean number of composite endpoint events of total HF hospitalizations and CV death over time.
 

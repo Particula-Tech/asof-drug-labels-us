@@ -45,3 +45,35 @@ Rx only
 60 Tablets
 
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+Physician Sample Not for Sale
+
+Entresto®
+
+(sacubitril/valsartan) tablets
+
+24 mg / 26 mg
+
+Rx only
+
+28 Tablets
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+Physician Sample Not for Sale
+
+Entresto®
+
+(sacubitril/valsartan) tablets
+
+49 mg / 51 mg
+
+Rx only
+
+28 Tablets
+
+NOVARTIS
