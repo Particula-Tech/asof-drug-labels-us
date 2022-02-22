@@ -30,7 +30,7 @@ Luminous Phenomena (Phosphenes)
 
 Phosphenes are phenomena described as a transiently enhanced brightness in a limited area of the visual field, halos, image decomposition (stroboscopic or kaleidoscopic effects), colored bright lights, or multiple images (retinal persistency).
 Phosphenes are usually triggered by sudden variations in light intensity.
-Corlanor can cause phosphenes, thought to be mediated through Corlanor's effects on retinal photoreceptors [see Clinical Pharmacology (12.1)].
+Corlanor can cause phosphenes, thought to be mediated through Corlanor’s effects on retinal photoreceptors [see Clinical Pharmacology (12.1)].
 Onset is generally within the first 2 months of treatment, after which they may occur repeatedly.
 Phosphenes were generally reported to be of mild to moderate intensity and led to treatment discontinuation in < 1% of patients; most resolved during or after treatment.
 
