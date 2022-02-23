@@ -54,7 +54,7 @@ Naropin® (ropivacaine HCl Injection, USP) 0.5% 150 mg per 30 mL (5 mg per mL) F
 
 Not for Intravenous Administration.
 
-Rx only Twenty-five 30 mL Single Dose Vials
+Twenty-five 30 mL Single Dose Vials
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Label
 
@@ -93,8 +93,6 @@ For Infiltration, Nerve Block, and
 Epidural Administration Only.
 
 Not for Intravenous Administration.
-
-Rx only
 
 Twenty-five 20 mL Single Dose Vials
 
@@ -135,7 +133,5 @@ For Infiltration, Nerve Block, and
 Epidural Administration Only.
 
 Not for Intravenous Administration.
-
-Rx only
 
 Twenty-five 20 mL Single Dose Vials
