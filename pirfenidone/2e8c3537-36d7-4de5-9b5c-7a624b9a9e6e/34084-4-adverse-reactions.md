@@ -36,17 +36,17 @@ Adverse Reactions Occurring in ≥10% of ESBRIET-Treated Patients and More Commo
 | Diarrhea | 26% | 20% |
 | Fatigue | 26% | 19% |
 | Headache | 22% | 19% |
+| Decreased Appetite | 21% | 8% |
 | Dyspepsia | 19% | 7% |
 | Dizziness | 18% | 11% |
 | Vomiting | 13% | 6% |
-| Anorexia | 13% | 5% |
 | Gastro-esophageal Reflux Disease | 11% | 7% |
 | Sinusitis | 11% | 10% |
 | Insomnia | 10% | 7% |
 | Weight Decreased | 10% | 5% |
 | Arthralgia | 10% | 7% |
 
-Adverse reactions occurring in ≥5 to <10% of ESBRIET-treated patients and more commonly than placebo are photosensitivity reaction (9% vs. 1%), decreased appetite (8% vs. 3%), pruritus (8% vs. 5%), asthenia (6% vs. 4%), dysgeusia (6% vs. 2%), and non-cardiac chest pain (5% vs. 4%).
+Adverse reactions occurring in ≥5 to <10% of ESBRIET-treated patients and more commonly than placebo are photosensitivity reaction (9% vs. 1%), pruritus (8% vs. 5%), asthenia (6% vs. 4%), dysgeusia (6% vs. 2%), and non-cardiac chest pain (5% vs. 4%).
 
 ## 6.2 Postmarketing Experience
 
