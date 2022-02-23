@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-ALOPRIM (allopurinol) for Injection is a sterile, white, lyophilized powder or cake, in a single-dose vial for reconstitution.
+ALOPRIM (allopurinol) for Injection, a xanthine oxidase inhibitor, is a sterile, white, lyophilized powder or cake, in a single-dose vial for reconstitution.
 Each vial contains 500 mg of allopurinol equivalent to 580.7 mg of allopurinol sodium and 148 mg of sodium hydroxide as a solubilizer.
 Sodium hydroxide is also used as a pH adjuster.
 ALOPRIM (allopurinol) for Injection contains no preservatives.
