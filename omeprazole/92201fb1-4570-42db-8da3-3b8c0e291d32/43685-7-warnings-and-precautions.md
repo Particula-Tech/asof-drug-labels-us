@@ -75,15 +75,12 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported in patients trea
 Serious adverse reactions include tetany, arrhythmias, and seizures.
 Hypomagnesemia may lead to hypocalcemia and/or hypokalemia and may exacerbate underlying hypocalcemia in at-risk patients.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
-In cases of severe hypocalcemia, both intravenous magnesium and calcium replacement may be required.
 
-Consider monitoring magnesium and calcium levels prior to initiation of Omeprazole Delayed-Release Capsules and periodically while on treatment in patients:
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-- expected to be on prolonged treatment with Omeprazole Delayed-Release Capsules
-- taking medications such as digoxin or other drugs that may cause hypomagnesemia (e.g., diuretics) or that may cause hypocalcemia
-- with a preexisting risk of hypocalcemia (e.g., hypoparathyroidism)
-
-Supplement with magnesium and/or calcium as necessary.
+Consider monitoring magnesium and calcium levels prior to initiation of Omeprazole Delayed-Release Capsules and periodically while on treatment in patients with a preexisting risk of hypocalcemia (e.g., hypoparathyroidism).
+Supplement with magnesium and/or calcium, as necessary.
+If hypocalcemia is refractory to treatment, consider discontinuing the PPI.
 
 ## 5.10 Interaction with St. John’s Wort or Rifampin
 
