@@ -5,26 +5,31 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Ehlers-Danlos-like Syndrome
 
 Advise patients and caregivers that PROCYSBI may cause abnormalities of the skin, bones, and joints.
-Advise patients to report any skin changes or problems with their bones or joints to their physician [see Warning and Precautions (5.1)].
+Advise patients to report any skin changes or problems with their bones or joints to their physician [see Warnings and Precautions (5.1)].
 
 Skin Rash
 
-Advise patients and caregivers to contact their physician immediately if they experience a skin rash [see Warning and Precautions (5.2)].
+Advise patients and caregivers to contact their physician immediately if they experience a skin rash [see Warnings and Precautions (5.2)].
 
 Gastrointestinal Ulcers and Bleeding
 
 Advise patients and caregivers that PROCYSBI may cause ulcers and bleeding.
-Advise patients to contact their physician immediately if they experience stomach pain, nausea, vomiting, loss of appetite, or are vomiting blood [see Warning and Precautions (5.3)].
+Advise patients to contact their physician immediately if they experience stomach pain, nausea, vomiting, loss of appetite, or are vomiting blood [see Warnings and Precautions (5.3)].
+
+Fibrosing Colonopathy
+
+Advise patients and caregivers that fibrosing colonopathy has been reported with PROCYSBI.
+Advise patients to contact their physician immediately if they experience severe, persistent and/or worsening stomach pain, vomiting, bloody or persistent diarrhea, or inability to control bowel movements [see Warnings and Precautions (5.4)].
 
 Central Nervous System Symptoms
 
 Advise patients and caregivers that PROCYSBI may impair their ability to perform tasks such as driving or operating machinery.
-Advise patients to contact their physician immediately if they experience seizures, lethargy, somnolence, depression, and encephalopathy [see Warning and Precautions (5.4)].
+Advise patients to contact their physician immediately if they experience seizures, lethargy, somnolence, depression, and encephalopathy [see Warnings and Precautions (5.5)].
 
 Benign Intracranial Hypertension
 
 Advise patients and caregivers that PROCYSBI may cause benign intracranial hypertension.
-Advise patients to contact their physician immediately if they experience headache, tinnitus, dizziness, nausea, double vision, blurry vision, loss of vision, or eye pain [see Warning and Precautions (5.6)].
+Advise patients to contact their physician immediately if they experience headache, tinnitus, dizziness, nausea, double vision, blurry vision, loss of vision, or eye pain [see Warnings and Precautions (5.7)].
 
 Use by Pregnant Women
 

@@ -19,7 +19,16 @@ Gastrointestinal (GI) ulceration and bleeding have been reported in patients rec
 GI tract symptoms including nausea, vomiting, anorexia and abdominal pain, sometimes severe, have been associated with cysteamine.
 If severe GI tract symptoms develop, consider decreasing the dose of PROCYSBI [see Dosage and Administration (2.1, 2.4)].
 
-## 5.4 Central Nervous System Symptoms
+## 5.4 Fibrosing Colonopathy
+
+Fibrosing colonopathy, including colonic stricture formation, has been reported with postmarketing use of PROCYSBI in pediatric and young adult patients with nephropathic cystinosis.
+Some of these patients had been treated with PROCYSBI for prolonged periods of time.
+Reported symptoms include: abdominal pain, vomiting, bloody or persistent diarrhea, and fecal incontinence.
+Evaluate patients with severe, persistent, and/or worsening abdominal symptoms for fibrosing colonopathy.
+If the diagnosis is confirmed, permanently discontinue PROCYSBI and switch to immediate-release cysteamine bitartrate capsules.
+An association between methacrylic acid-ethyl acrylate copolymer (an inactive ingredient in PROCYSBI) and fibrosing colonopathy cannot be ruled out.
+
+## 5.5 Central Nervous System Symptoms
 
 Central Nervous System (CNS) symptoms such as seizures, lethargy, somnolence, depression, and encephalopathy have been associated with immediate-release cysteamine.
 Neurological complications have also been described in some patients with cystinosis who have not been treated with cysteamine.
@@ -27,13 +36,13 @@ Carefully evaluate and monitor patients who develop CNS symptoms.
 Interrupt medication or adjust the dose as necessary for patients with severe symptoms or with symptoms that persist or progress.
 Inform patients that PROCYSBI may impair their ability to perform tasks such as driving or operating machinery.
 
-## 5.5 Leukopenia and/or Elevated Alkaline Phosphatase Levels
+## 5.6 Leukopenia and/or Elevated Alkaline Phosphatase Levels
 
 Cysteamine has been associated with reversible leukopenia and elevated alkaline phosphatase levels.
 Monitor white blood cell counts and alkaline phosphatase levels.
 If tests values remain elevated, consider decreasing the dose or discontinuing the drug until values revert to normal.
 
-## 5.6 Benign Intracranial Hypertension
+## 5.7 Benign Intracranial Hypertension
 
 Benign intracranial hypertension (pseudotumor cerebri; PTC) and/or papilledema have been reported in patients receiving immediate-release cysteamine bitartrate treatment.
 Monitor patients for signs and symptoms of PTC, including headache, tinnitus, dizziness, nausea, diplopia, blurry vision, loss of vision, pain behind the eye or pain with eye movement.

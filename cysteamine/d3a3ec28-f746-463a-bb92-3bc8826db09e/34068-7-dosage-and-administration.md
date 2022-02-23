@@ -63,7 +63,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 - WBC cystine concentration may be measured using the mixed leukocyte assay or by using assays for specific WBC subsets (e.g., granulocyte method).
   The methods used for measuring cystine and total protein content may also vary among individual laboratories [see Clinical Pharmacology (12.2)].
 - Normal WBC cystine ranges and therapeutic target levels for cystine depletion depend upon the assay method used by the individual laboratory.
-  WBC cystine values obtained from using different assay methods may not be interchangeable.
+  WBC cystine values obtained from using different assay methods may not be comparable.
   Refer to the assay-specific therapeutic target for cystine depletion.
   When using the mixed leukocyte assay, the recommended target WBC cystine concentration is less than 1 nmol ½ cystine/mg protein.
 - The recommended frequency of monitoring WBC cystine concentration is as follows:
@@ -96,7 +96,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 
 Oral Administration in Food or Liquid
 
-Administration of PROCYSBI capules or oral granules with foods and liquids not included below has not been studied clinically and is not recommended.
+Administration of PROCYSBI capsules or oral granules with foods and liquids not included below has not been studied clinically and is not recommended.
 
 Administration in Applesauce or Berry Jelly:
 

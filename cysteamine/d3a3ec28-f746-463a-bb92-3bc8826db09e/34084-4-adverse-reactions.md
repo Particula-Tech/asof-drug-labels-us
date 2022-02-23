@@ -5,9 +5,10 @@ The following adverse reactions are also discussed in other sections of the labe
 - Ehlers-Danlos-like Syndrome [see Warnings and Precautions (5.1)]
 - Skin Rash [see Warnings and Precautions (5.2)]
 - Gastrointestinal (GI) Ulcers and Bleeding [see Warnings and Precautions (5.3)]
-- Central Nervous System Symptoms [see Warnings and Precautions (5.4)]
-- Leukopenia and/or Elevated Phosphatase Levels [see Warnings and Precautions (5.5)]
-- Benign Intracranial Hypertension [see Warnings and Precautions (5.6)]
+- Fibrosing Colonopathy [see Warnings and Precautions (5.4)]
+- Central Nervous System Symptoms [see Warnings and Precautions (5.5)]
+- Leukopenia and/or Elevated Phosphatase Levels [see Warnings and Precautions (5.6)]
+- Benign Intracranial Hypertension [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -70,9 +71,10 @@ Withdrawals due to intolerance, vomiting, anorexia, lethargy, and fever occurred
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of immediate-release cysteamine bitartrate.
+The following adverse reactions have been identified during post-approval use of cysteamine bitartrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Musculoskeletal: Joint hyperextension, leg pain, osteopenia, compression fracture, scoliosis, genu valgum [see Warnings and Precautions (5.1)].
 - Skin: Erythema multiforme bullosa, toxic epidermal necrolysis, Ehlers-Danlos-like syndrome, molluscoid pseudotumors, skin striae, skin fragility [see Warnings and Precautions (5.1, 5.2)].
-- Central Nervous System: seizures, lethargy, somnolence, depression and encephalopathy [see Warnings and Precautions (5.4)], benign intracranial hypertension (or PTC) and/or papilledema [see Warnings and Precautions (5.6)].
+- Gastrointestinal: Fibrosing colonopathy reported with PROCYSBI [see Warnings and Precautions (5.4)].
+- Central Nervous System: seizures, lethargy, somnolence, depression and encephalopathy [see Warnings and Precautions (5.5)], benign intracranial hypertension (or PTC) and/or papilledema [see Warnings and Precautions (5.7)].
