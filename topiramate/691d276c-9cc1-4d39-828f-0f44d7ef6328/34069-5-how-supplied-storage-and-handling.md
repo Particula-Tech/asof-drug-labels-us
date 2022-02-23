@@ -25,7 +25,7 @@ Topiramate extended-release capsules contain beads of topiramate in a capsule an
 150 mg: pale yellow and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "150 mg" on the body in black ink.
 150 mg capsules are supplied in the following package configurations:
 
-- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1075-30)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1075-30
 - Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1075-90
 
 200 mg: brown and grey capsules, printed with "UPSHER-SMITH" on the cap in white ink and "200 mg" on the body in black ink.
