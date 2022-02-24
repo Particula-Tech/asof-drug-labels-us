@@ -92,15 +92,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured for:
+Manufactured for: Sandoz Inc., Princeton, NJ 08540
 
-Sandoz Inc.
+Manufactured by: FAREVA Unterach GmbH
 
-Princeton, NJ 08540
+Mondseestraße 11, 4866 Unterach, Austria
 
-Manufactured by:
-
-EBEWE Pharma Ges.m.b.H.
-Nfg.KG
-
-A-4866 Unterach, Austria
+46290108-01

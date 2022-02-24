@@ -282,7 +282,7 @@ All patients in both treatment arms who did not have progressive disease were to
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF (median OS: 70.6 vs 30.1 months respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]=0.54 to 0.90).
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF (median OS: 70.6 vs 30.1 months, respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]=0.54 to 0.90).
 Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)

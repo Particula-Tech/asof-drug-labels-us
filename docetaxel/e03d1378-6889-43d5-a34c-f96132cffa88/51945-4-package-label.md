@@ -1,12 +1,12 @@
 # Package/Label Principal Display Panel
 
-Rx only NDC 66758-050-01
+NDC 66758-050-01
 
 2 mL Multiple Dose Vial
 
-DOCETAXEL
+Docetaxel
 
-INJECTION
+Injection
 
 20 mg/2mL
 
@@ -14,21 +14,25 @@ INJECTION
 
 For Intravenous Infusion Only
 
+Caution: Cytotoxic Agent
+
+Rx Only
+
 Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-SANDOZ
+SANDOZ – A Novartis Division
 
 # Package/Label Principal Display Panel
 
-Rx only NDC 66758-050-02
+NDC 66758-050-02
 
-8 mL Multiple Dose Vial
+8 mL Multiple-Dose Vial
 
-DOCETAXEL
+Docetaxel
 
-INJECTION
+Injection
 
 80 mg/8mL
 
@@ -36,21 +40,25 @@ INJECTION
 
 For Intravenous Infusion Only
 
+Caution: Cytotoxic Agent
+
+Rx Only
+
 Ready to add to infusion solution.
 Check concentration prior to preparation.
-See package insert for complete instruction
+See package insert for complete instructions.
 
-SANDOZ
+SANDOZ – A Novartis Division
 
 # Package/Label Principal Display Panel
 
-Rx only NDC 66758-050-03
+NDC 66758-050-03
 
-16 mL Multiple Dose Vial
+16 mL Multiple-Dose Vial
 
-DOCETAXEL
+Docetaxel
 
-INJECTION
+Injection
 
 160 mg/16mL
 
@@ -58,8 +66,12 @@ INJECTION
 
 For Intravenous Infusion Only
 
+Cytotoxic Agent
+
+Rx Only
+
 Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-SANDOZ
+SANDOZ – A Novartis Division
