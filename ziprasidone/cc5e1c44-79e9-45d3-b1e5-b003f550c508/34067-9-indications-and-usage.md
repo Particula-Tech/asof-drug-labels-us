@@ -11,4 +11,4 @@ Whether ziprasidone will cause torsade de pointes or increase the rate of sudden
 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 - Ziprasidone capsules are indicated as monotherapy for the acute treatment of adults with manic or mixed episodes associated with bipolar I disorder [see Clinical Studies (14.2)].
-- Ziprasidone capsules is indicated as an adjunct to lithium or valproate for the maintenance treatment of bipolar I disorder in adults [see Clinical Studies (14.2)].
+- Ziprasidone capsules are indicated as an adjunct to lithium or valproate for the maintenance treatment of bipolar I disorder in adults [see Clinical Studies (14.2)].

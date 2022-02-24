@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
+Clinical trials in adults for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
 These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000; and (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
 An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
@@ -13,7 +13,7 @@ The conditions and duration of treatment with ziprasidone included open-label an
 Adverse reactions during exposure were obtained by collecting voluntarily reported adverse experiences, as well as results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
-A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone
 
@@ -195,7 +195,7 @@ Rare gynecomastia, vaginal hemorrhage, nocturia, oliguria, female sexual dysfunc
 
 BIPOLAR DISORDER
 
-Acute Treatment of Manic or Mixed Episodes
+Acute Treatment of Manic or Mixed Episodes in Adults
 
 Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
 
@@ -208,41 +208,41 @@ Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated With Bipolar Disorder
 
-| Body Syst e m/ Adverse Reaction | Ziprasidone (N=279) | Placebo (N=136) |
+| Body System/ Adverse Reaction | Ziprasidone (N=279) | Placebo (N=136) |
 | --- | --- | --- |
-|  | Perce ntage of Patients Repor ting Reac t ion |  |
+|  | Percentage of Patients Reporting Reaction |  |
 | Body as a Whole |  |  |
 | Headache | 18 | 17 |
 | Asthenia | 6 | 2 |
 | Accidental Injury | 4 | 1 |
 | Cardiovascular |  |  |
-| H ype rtension | 3 | 2 |
+| Hypertension | 3 | 2 |
 | Digestive |  |  |
 | Nausea | 10 | 7 |
-| Dia rrhea | 5 | 4 |
-| D ry Mouth | 5 | 4 |
-| V o miting | 5 | 2 |
-| Increased Salivati on | 4 | 0 |
-| Tongue Ede ma | 3 | 1 |
-| D ysphagia | 2 | 0 |
-| Musculos kel etal |  |  |
+| Diarrhea | 5 | 4 |
+| Dry Mouth | 5 | 4 |
+| Vomting | 5 | 2 |
+| Increased Salivation | 4 | 0 |
+| Tongue Edema | 3 | 1 |
+| Dysphagia | 2 | 0 |
+| Musculoskeletal |  |  |
 | Myalgia | 2 | 0 |
 | Nervous |  |  |
-| S o mnolence | 31 | 12 |
-| Extrapyr a midal Sy mpt o ms* | 31 | 12 |
+| Somnolence | 31 | 12 |
+| Extrapyramidal Symptoms* | 31 | 12 |
 | Dizziness** | 16 | 7 |
 | Akathisia | 10 | 5 |
 | Anxiety | 5 | 4 |
-| H ypesthesia | 2 | 1 |
+| Hypesthesia | 2 | 1 |
 | Speech Disorder | 2 | 0 |
-| Respira tory |  |  |
+| Respiratory |  |  |
 | Pharyngitis | 3 | 1 |
-| D yspnea | 2 | 1 |
-| S kin and Appen dages |  |  |
-| Fungal Der ma titis | 2 | 1 |
+| Dyspnea | 2 | 1 |
+| Skin and Appendages |  |  |
+| Fungal Dermatitis | 2 | 1 |
 | Special Senses |  |  |
-| Abnor mal Vision | 6 | 3 |
-| * Ext rap yra midal Sy mpt o ms includes the following a dve rse reaction ter ms: ext rap yr a midal synd r o me, h ype rtonia, d ystonia, d yskin esia, h ypokinesia, t re mor, pa ral ysis and twitching. None of the se adve rse reactions occu rred individ ually at an incidence g reater than 10% in bipolar man ia trials. ** Dizziness includes the adverse react ion ter ms dizziness and lightheadedness. |  |  |
+| Abnormal Vision | 6 | 3 |
+| * Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness. |  |  |
 
 Explorations for interactions on the basis of gender did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of this demographic factor.
 

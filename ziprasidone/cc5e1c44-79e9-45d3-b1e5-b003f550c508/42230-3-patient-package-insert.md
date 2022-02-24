@@ -12,7 +12,7 @@ Ziprasidone capsules can also be used as maintenance treatment of bipolar disord
 Who Should Take ziprasidone capsules?
 
 Only your doctor can know if ziprasidone capsules are right for you.
-Ziprasidone capsules may be prescribed for you if you have schizophrenia or bipolar disorder.
+Ziprasidone capsules may be prescribed for you if you are an adult with schizophrenia or bipolar disorder.
 Symptoms of schizophrenia may include:
 
 - hearing voices, seeing things, or sensing things that are not there (hallucinations)
@@ -87,7 +87,7 @@ Possible Side Effects Because these problems could mean you’re having a heart 
 - Faint or lose consciousness
 - Feel a change in the way that your heart beats (palpitations)
 
-Common side effects of ziprasidone capsules include the following and should also be discussed with your doctor if they occur:
+Common side effects of ziprasidone capsules include the following and should also be discussed with your doctor if they occur: Adults:
 
 - Feeling unusually tired or sleepy
 - Nausea or upset stomach
@@ -138,4 +138,4 @@ For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2021
+Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 02/2022
