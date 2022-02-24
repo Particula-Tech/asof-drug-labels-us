@@ -1,22 +1,25 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 ## Manifestations
 
 In general, the symptoms of overdosage would be an exaggeration of known pharmacologic effects and adverse reactions, the most prominent of which would be: 1) severe extrapyramidal reactions, 2) hypotension, or 3) sedation.
-The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shocklike state.
+The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shock-like state.
 The extrapyramidal reactions would be manifested by muscular weakness or rigidity and a generalized or localized tremor as demonstrated by the akinetic or agitans types respectively.
 With accidental overdosage, hypertension rather than hypotension occurred in a two-year old child.
-The risk of ECG changes associated with Torsades de Pointes should be considered.
-(For further information regarding Torsades de Pointes, please refer to ADVERSE REACTIONS).
+The risk of ECG changes associated with torsade de pointes should be considered.
+(For further information regarding torsade de pointes, please refer to ADVERSE REACTIONS.)
 
 ## Treatment
 
 Since there is no specific antidote, treatment is primarily supportive.
+Dialysis is not recommended in the treatment of overdose because it removes only very small amounts of haloperidol.
 A patent airway must be established by use of an oropharyngeal airway or endotracheal tube or, in prolonged cases of coma, by tracheostomy.
 Respiratory depression may be counteracted by artificial respiration and mechanical respirators.
 Hypotension and circulatory collapse may be counteracted by use of intravenous fluids, plasma, or concentrated albumin, and vasopressor agents such as metaraminol, phenylephrine and norepinephrine.
-Epinephrine should not be used.
+Epinephrine must not be used.
 In case of severe extrapyramidal reactions, antiparkinson medication should be administered.
-ECG and vital signs should be monitored especially for signs of QT-prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
+ECG and vital signs should be monitored especially for signs of QTc-interval prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
 
-Severe arrhythmias should be treated with appropriate antiarrhythmic measures.
+Severe arrhythmias should be treated with appropriate anti-arrhythmic measures.
+
+In case of an overdose, consult a Certified Poison Control Center (1-800-222-1222).

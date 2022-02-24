@@ -1,5 +1,3 @@
-# INDICATIONS:
+# INDICATIONS AND USAGE
 
-Haloperidol injection is indicated for use in the treatment of schizophrenia.
-
-Haloperidol is indicated for the control of tics and vocal utterances of Tourette's Disorder.
+Haloperidol injection is indicated for the treatment of patients with schizophrenia.

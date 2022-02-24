@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
 Haloperidol injection is contraindicated in patients with:
 

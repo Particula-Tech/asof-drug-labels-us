@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
@@ -28,11 +28,30 @@ The data described below reflect exposure to haloperidol in the following:
 
 Based on the pooled safety data, the most common adverse reactions in haloperidol-treated patients from these double-blind placebo-controlled clinical trials (≥5%) were: extrapyramidal disorder, hyperkinesia, tremor, hypertonia, dystonia, and somnolence.
 
-## Adverse Reactions Reported at ≥1% Incidence in Double-Blind Placebo-Controlled Clinical Trials with Oral Haloperidol
+Adverse Reactions Reported at ≥1% Incidence in Double-Blind Placebo-Controlled Clinical Trials with Oral Haloperidol
 
 Adverse reactions occurring in ≥1% of haloperidol-treated patients and at higher rate than placebo in 3 double-blind, parallel, placebo-controlled, clinical trials with the oral formulation are shown in Table 1.
 
-## Additional Adverse Reactions Reported in Double-Blind, Placebo- or Active Comparator-Controlled Clinical Trials with Injectable or Oral Haloperidol
+Table 1.
+Adverse Reactions Occurring in ≥1% of Haloperidol-Treated Patients in Double-Blind, Parallel Placebo-Controlled Clinical Trials (Oral Haloperidol)
+
+| System/Organ Class Adverse Reaction | Haloperidol (n=284) % | Placebo (n=282) % |
+| --- | --- | --- |
+| Gastrointestinal Disorders |  |  |
+| Constipation | 4.2 | 1.8 |
+| Dry mouth | 1.8 | 0.4 |
+| Salivary hypersecretion | 1.2 | 0.7 |
+| Nervous System Disorders |  |  |
+| Extrapyramidal disordera | 50.7 | 16.0 |
+| Hyperkinesia | 10.2 | 2.5 |
+| Tremor | 8.1 | 3.6 |
+| Hypertonia | 7.4 | 0.7 |
+| Dystonia | 6.7 | 0.4 |
+| Bradykinesia | 4.2 | 0.4 |
+| Somnolence | 5.3 | 1.1 |
+| a Represents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table |  |  |
+
+### Additional Adverse Reactions Reported in Double-Blind, Placebo- or Active Comparator-Controlled Clinical Trials with Injectable or Oral Haloperidol
 
 Additional adverse reactions that are listed below were reported by haloperidol-treated patients in double-blind, active comparator-controlled clinical trials with the injectable or oral formulation, or at <1% incidence in double-blind, parallel, placebo-controlled, clinical trials with the oral formulation.
 
@@ -56,14 +75,24 @@ Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
 
 Vascular Disorders: Hypotension, Orthostatic hypotension
 
+### Adverse Reactions Identified in Clinical Trials with Haloperidol Decanoate
+
+The adverse reactions listed below were identified in clinical trials with haloperidol decanoate (long-acting depot formulation), and reflect exposure to the active moiety haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder.
+These clinical trials comprised:
+
+- 1 double-blind, active comparator-controlled trial with fluphenazine decanoate.
+- 2 trials comparing the decanoate formulation to oral haloperidol.
+- 9 open-label trials.
+- 1 dose-response trial.
+
+Nervous System Disorders: Akinesia, Cogwheel rigidity, Masked facies.
+
 ## Postmarketing Experience
 
 The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia,
-
-Leukopenia, Neutropenia
+Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
 
 Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
 
@@ -71,9 +100,7 @@ Endocrine Disorders: Inappropriate antidiuretic hormone secretion
 
 Gastrointestinal Disorders: Vomiting, Nausea
 
-General Disorders and Administration Site Conditions: Sudden death, Face edema,
-
-Edema, Hyperthermia, Hypothermia
+General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia
 
 Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
 
@@ -95,8 +122,6 @@ Renal and Urinary Disorders: Urinary retention
 
 Reproductive System and Breast Disorders: Priapism, Gynecomastia
 
-Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm,
-
-Laryngospasm, Dyspnea
+Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
 
 Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis

@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Haloperidol is the first of the butyrophenone series of major antipsychotics.
 The chemical designation is 4-[4-(p-chlorophenyl)-4-hydroxypiperidino]- 4'-fluorobutyrophenone and it has the following structural formula:

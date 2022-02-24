@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 There is considerable variation from patient to patient in the amount of medication required for treatment.
 As with all drugs used to treat schizophrenia, dosage should be individualized according to the needs and response of each patient.
@@ -23,4 +23,4 @@ In the absence of bioavailability studies establishing bioequivalence between th
 For an initial approximation of the total daily dose required, the parenteral dose administered in the preceding 24 hours may be used.
 Since this dose is only an initial estimate, it is recommended that careful monitoring of clinical signs and symptoms, including clinical efficacy, sedation, and adverse effects, be carried out periodically for the first several days following the initiation of switchover.
 In this way, dosage adjustments, either upward or downward, can be quickly accomplished.
-Depending on the patient's clinical status, the first oral dose should be given within 12 to 24 hours following the last parenteral dose.
+Depending on the patient's clinical status, the first oral dose should be given within 12-24 hours following the last parenteral dose.
