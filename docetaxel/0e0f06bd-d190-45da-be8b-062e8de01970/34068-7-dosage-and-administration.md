@@ -14,7 +14,7 @@ Administer in a facility equipped to manage possible complications (e.g., anaphy
 
 - •For treatment after failure of prior platinum-based chemotherapy, docetaxel was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
   A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized, controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
-- •For chemotherapy-naïve patients, docetaxel was evaluated in combination with cisplatin.
+- •For chemotherapy-naive patients, docetaxel was evaluated in combination with cisplatin.
   The recommended dose of Docetaxel Injection is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30-60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
@@ -126,7 +126,7 @@ The dose modifications for cisplatin and fluorouracil in the gastric cancer stud
 Cisplatin dose modifications and delays
 
 Peripheral neuropathy: A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
-In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCI-CTAE grade:
+In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCI-CTCAE grade:
 
 - •Grade 2: Reduce cisplatin dose by 20%.
 - •Grade 3: Discontinue treatment.

@@ -92,12 +92,9 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by:
+Manufactured by: FAREVA Unterach GmbH
 
-EBEWE Pharma Ges.m.b.H.
-Nfg.KG
-
-A-4866 Unterach, Austria
+Mondseestraße 11, 4866 Unterach, Austria
 
 Distributed by:
 
@@ -106,3 +103,5 @@ Baxter Healthcare Corporation
 Deerfield, IL 60015 USA
 
 Baxter is a registered trademark of Baxter International Inc.
+
+46290115-01
