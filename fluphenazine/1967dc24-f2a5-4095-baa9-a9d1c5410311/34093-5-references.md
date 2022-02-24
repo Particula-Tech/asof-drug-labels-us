@@ -7,8 +7,8 @@
 Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by West-Ward Pharmaceuticals Eatontown, NJ 07724 USA
+Distributed by Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-PIN409-WES/2
+PIN409-WES/3
 
-Revised November 2016
+Revised July 2020
