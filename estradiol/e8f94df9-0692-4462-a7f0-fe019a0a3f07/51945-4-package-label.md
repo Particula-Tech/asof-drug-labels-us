@@ -24,7 +24,7 @@ DELESTROGEN® (estradiol valerate injection, USP)
 
 For Intramuscular Use Only
 
-- 5 mL Multiple Dose Vial
+5 mL Multiple Dose Vial
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
 
@@ -38,4 +38,4 @@ DELESTROGEN® (estradiol valerate injection, USP)
 
 For Intramuscular Use Only
 
-- 5 mL Multiple Dose Vial
+5 mL Multiple Dose Vial

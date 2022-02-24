@@ -21,10 +21,15 @@ The lowest effective dose of DELESTROGEN has not been determined for any indicat
 Treated patients with an intact uterus should be monitored closely for signs of endometrial cancer, and appropriate diagnostic measures should be taken to rule out malignancy in the event of persistent or recurring abnormal vaginal bleeding.
 See PRECAUTIONS concerning addition of a progestin.
 
-- 1.For treatment of moderate to severe vasomotor symptoms, vulvar and vaginal atrophy associated with the menopause, the lowest dose and regimen that will control symptoms should be chosen and medication should be discontinued as promptly as possible.
-  The usual dosage is 10 to 20 mg DELESTROGEN every four weeks.
-  Attempts to discontinue or taper medication should be made at 3-month to 6-month intervals.
-- 2.For treatment of female hypoestrogenism due to hypogonadism, castration, or primary ovarian failure.
-  The usual dosage is 10 to 20 mg DELESTROGEN every four weeks.
-- 3.For treatment of advanced androgen-dependent carcinoma of the prostate, for palliation only.
-  The usual dosage is 30 mg or more administered every one or two weeks.
+1.
+For treatment of moderate to severe vasomotor symptoms, vulvar and vaginal atrophy associated with the menopause, the lowest dose and regimen that will control symptoms should be chosen and medication should be discontinued as promptly as possible.
+The usual dosage is 10 to 20 mg DELESTROGEN every four weeks.
+Attempts to discontinue or taper medication should be made at 3-month to 6-month intervals.
+
+2.
+For treatment of female hypoestrogenism due to hypogonadism, castration, or primary ovarian failure.
+The usual dosage is 10 to 20 mg DELESTROGEN every four weeks.
+
+3.
+For treatment of advanced androgen-dependent carcinoma of the prostate, for palliation only.
+The usual dosage is 30 mg or more administered every one or two weeks.
