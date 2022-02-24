@@ -2,17 +2,13 @@
 
 NDC 68025-071-30
 
-ConZip®
-
-(tramadol hydrochloride) extended-release capsules
-
-100 mg per capsule
+ConZip® (tramadol hydrochloride) extended-release capsules
 
 CIV
 
-Once daily
+100 mg per capsule
 
-Rx Only
+Once daily Rx Only
 
 VERTICAL PHARMACEUTICALS, LLC
 
@@ -22,17 +18,13 @@ VERTICAL PHARMACEUTICALS, LLC
 
 NDC 68025-072-30
 
-ConZip®
-
-(tramadol hydrochloride) extended-release capsules
-
-200 mg per capsule
+ConZip® (tramadol hydrochloride) extended-release capsules
 
 CIV
 
-Once daily
+200 mg per capsule
 
-Rx Only
+Once daily Rx Only
 
 VERTICAL PHARMACEUTICALS, LLC
 
@@ -42,17 +34,13 @@ VERTICAL PHARMACEUTICALS, LLC
 
 NDC 68025-073-30
 
-ConZip®
-
-(tramadol hydrochloride) extended-release capsules
-
-300 mg per capsule
+ConZip® (tramadol hydrochloride) extended-release capsules
 
 CIV
 
-Once daily
+300 mg per capsule
 
-Rx Only
+Once daily Rx Only
 
 VERTICAL PHARMACEUTICALS, LLC
 
