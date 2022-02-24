@@ -112,7 +112,7 @@ Macrolide Antibiotics and Protease Inhibitors)
 
 See CONTRAINDICATIONS and WARNINGS.
 
-SSRIs
+SSRI's
 
 Weakness, hyperreflexia, and incoordination have been reported rarely when 5-HT1 agonists have been co-administered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI's and dihydroergotamine mesylate injection.

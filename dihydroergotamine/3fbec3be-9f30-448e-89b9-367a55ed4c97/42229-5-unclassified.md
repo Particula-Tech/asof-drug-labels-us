@@ -10,20 +10,14 @@ Hikma Farmacêutica (Portugal), S.A.
 
 Estrada do Rio da Mó 8, 8A e 8B – Fervença
 
-2705-906 Terrugem – Sintra
-
-Portugal
+2705-906 Terrugem – Sintra, Portugal
 
 Distributed by:
 
-WEST-WARD
+Hikma Pharmaceuticals USA Inc.
 
-A HIKMA COMPANY
+Berkeley Heights, NJ 07922
 
-EATONTOWN NJ 07724
+Revised: August 2020
 
-U.S.A.
-
-Revised: September 2017
-
-PIN482-WES/1
+PIN482-WES/2

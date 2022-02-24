@@ -82,16 +82,26 @@ If you have used more medication than you have been instructed, contact your doc
 
 How to use the Dihydroergotamine Mesylate Injection, USP
 
-1. Use available training materials.
-   - Read and follow the instructions in the patient instruction booklet which is provided with the Dihydroergotamine Mesylate Injection, USP package before attempting to use the product.
-   - If there are any questions concerning the use of your Dihydroergotamine Mesylate Injection, USP, ask your Doctor or pharmacist.
-2. Preparing for the Injection
-   - Carefully examine the ampule (glass vial) of Dihydroergotamine Mesylate Injection, USP for any cracks or breaks, and the liquid for discoloration, cloudiness, or particles.
-     If any of these defects are present, use a new ampule, make certain it is intact, and return the defective ampule to your doctor or pharmacy.
-     Once you open an ampule, if it is not used within an hour, it should be thrown away.
-3. Locating an Injection Site
-   - Administer your subcutaneous injection in the middle of your thigh, well above the knee.
-4. Drawing the Medication into the Syringe
+1.
+Use available training materials.
+
+- Read and follow the instructions in the patient instruction booklet which is provided with the Dihydroergotamine Mesylate Injection, USP package before attempting to use the product.
+- If there are any questions concerning the use of your Dihydroergotamine Mesylate Injection, USP, ask your Doctor or pharmacist.
+
+2.
+Preparing for the Injection
+
+- Carefully examine the ampule (glass vial) of Dihydroergotamine Mesylate Injection, USP for any cracks or breaks, and the liquid for discoloration, cloudiness, or particles.
+  If any of these defects are present, use a new ampule, make certain it is intact, and return the defective ampule to your doctor or pharmacy.
+  Once you open an ampule, if it is not used within an hour, it should be thrown away.
+
+3.
+Locating an Injection Site
+
+- Administer your subcutaneous injection in the middle of your thigh, well above the knee.
+
+4.
+Drawing the Medication into the Syringe
 
 A. Wash your hands thoroughly with soap and water.
 
@@ -117,20 +127,25 @@ Slowly and carefully push the plunger up so that the bubbles are pushed out thro
 H. When there are no air bubbles, check the dose of the medication.
 If the dose is incorrect, repeat steps E, F, G and H until you draw up the right dose.
 
-1. Preparing the Injection Site
-   - With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
-     Wait for the injection site to dry before injecting.
-2. Administering the Injection
-   - Hold the syringe/needle in your right hand.
-   - With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
-   - Push the needle shaft, bevel side up, all the way into the fold of skin at a 45º to 90º angle, then release the fold of skin.
-   - While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
-   - If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
-     If you do see blood in the syringe, that means the needle has penetrated a vein.
-     If this happens, pull the needle/syringe out of the skin slightly and draw back on the plunger again.
-     If no blood is seen this time, inject the medication.
-   - Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
-     Immediately press the alcohol wipe on the injection site and rub.
+5.
+Preparing the Injection Site
+
+- With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
+  Wait for the injection site to dry before injecting.
+
+6.
+Administering the Injection
+
+- Hold the syringe/needle in your right hand.
+- With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
+- Push the needle shaft, bevel side up, all the way into the fold of skin at a 45º to 90º angle, then release the fold of skin.
+- While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
+- If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
+  If you do see blood in the syringe, that means the needle has penetrated a vein.
+  If this happens, pull the needle/syringe out of the skin slightly and draw back on the plunger again.
+  If no blood is seen this time, inject the medication.
+- Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
+  Immediately press the alcohol wipe on the injection site and rub.
 
 Check the expiration date printed on the ampule containing medication.
 If the expiration date has passed, do not use it.
