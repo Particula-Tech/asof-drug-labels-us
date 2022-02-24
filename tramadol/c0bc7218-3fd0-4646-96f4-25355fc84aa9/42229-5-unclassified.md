@@ -1,6 +1,6 @@
 Manufactured by: Galephar P.R., Inc. Juncos, Puerto Rico 00777
 
-Manufactured for: Trigen Laboratories, LLC Bridgewater, NJ 08807, USA
+Distributed by: Trigen Laboratories, LLC Alpharetta, GA 30005, USA
 
 Rev.
-03/2021
+1/2022

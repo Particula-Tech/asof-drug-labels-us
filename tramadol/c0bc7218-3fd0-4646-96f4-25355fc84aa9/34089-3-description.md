@@ -19,4 +19,4 @@ Tramadol Hydrochloride Extended-Release Capsules contain a total dose of tramado
 | 300 mg | 50 mg | 250 mg |
 
 Tramadol Hydrochloride Extended-Release Capsules are white in color.
-Inactive ingredients include gelatin, titanium dioxide, shellac, FD & C Blue #2 aluminum lake (E132), D & C Red #7 calcium lake (E180), D & C Yellow #10 aluminum lake, lactose monohydrate 200 mesh, microcrystalline cellulose, povidone K30, corn starch, sodium starch glycolate, magnesium stearate, sucrose stearate, hypromellose, talc, polysorbate 80, Eudragit NE 30D, and simethicone emulsion.
+Inactive ingredients include gelatin, titanium dioxide, shellac, FD & C Blue #2 aluminum lake (E132) (100 and 200 mg capsules), D & C Red #7 calcium lake (E180) (200 and 300 mg capsules), D & C Yellow #10 aluminum lake (300 mg capsule), lactose monohydrate 200 mesh, microcrystalline cellulose, povidone K30, corn starch, sodium starch glycolate, magnesium stearate, sucrose stearate, hypromellose, talc, polysorbate 80, Eudragit NE 30D, and simethicone emulsion.

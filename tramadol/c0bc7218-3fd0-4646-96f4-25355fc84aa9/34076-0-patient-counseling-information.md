@@ -47,8 +47,7 @@ If naloxone is prescribed, also advise patients and caregivers:
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death.
-[see Warnings and Precautions (5.3)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store Tramadol Hydrochloride Extended-Release Capsules securely and to dispose of unused Tramadol Hydrochloride Extended-Release Capsules in accordance with the local state guidelines and/or regulations.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
@@ -86,7 +85,7 @@ Important Administration Instructions
 Instruct patients how to properly take Tramadol Hydrochloride Extended-Release Capsules, including the following:
 
 - Tramadol Hydrochloride Extended-Release Capsules are designed to work properly only if swallowed intact.
-  Taking cut, broken, chewed, crushed, or dissolved Tramadol Hydrochloride Extended-Release Capsules can result in a fatal overdose [see Dosage and Administration (2.1)]
+  Taking cut, broken, chewed, crushed, or dissolved Tramadol Hydrochloride Extended-Release Capsules can result in a fatal overdose [see Dosage and Administration (2.1)].
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
 - Tramadol Hydrochloride Extended-Release Capsules should not be taken with alcohol containing beverages.
 

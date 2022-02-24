@@ -187,8 +187,7 @@ Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol ER
 The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism.
-[see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
