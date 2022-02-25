@@ -39,8 +39,6 @@ Mechanism of Resistance Resistance to amoxicillin is mediated primarily through 
 Amoxicillin has been shown to be active against most isolates of the bacteria listed below, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 Gram-Positive Bacteria Enterococcus faecalis Staphylococcus spp.
 Streptococcus pneumoniae Streptococcus spp.
-(alpha and beta-hemolytic) Gram-Negative Bacteria Escherichia coli Haemophilus influenzae Helicobacter pylori Proteus mirabilis
-
-Susceptibility Testing
+(alpha and beta-hemolytic) Gram-Negative Bacteria Escherichia coli Haemophilus influenzae Helicobacter pylori Proteus mirabilis Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
