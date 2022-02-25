@@ -97,7 +97,7 @@ Pancreatitis has been observed in patients undergoing treatment with voriconazol
 ## 5.12 Skeletal Adverse Reactions
 
 Fluorosis and periostitis have been reported during long-term voriconazole therapy.
-If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, voriconazole should be discontinued [see Adverse Reactions (6.2)].
+If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, voriconazole should be discontinued [see Adverse Reactions(6.2)].
 
 ## 5.13 Clinically Significant Drug Interactions
 

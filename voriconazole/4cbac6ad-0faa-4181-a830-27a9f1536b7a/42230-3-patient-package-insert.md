@@ -21,12 +21,8 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
 
-| ocisapride | opimozide | oquinidine |
+| opimozideorifampinoefavirenz oergotamine, dihydroergotamine (ergot alkaloids)otolvaptanovenetoclax | oquinidineocarbamazepine oritonaviroSt.John’s Wort (herbal supplement)olurasidone | osirolimusolong-acting barbiturates like phenobarbitalorifabutinonaloxegoloivabradine |
 | --- | --- | --- |
-| osirolimus | orifampin | ocarbamazepine |
-| olong-acting barbiturates like phenobarbital | oefavirenz | oritonavir |
-| orifabutin | oergotamine, dihydroergotamine (ergot alkaloids) | oSt. John’s Wort (herbal supplement) |
-| onaloxegoloivabradineovenetoclax | otolvaptan | olurasidone |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
@@ -90,9 +86,9 @@ Voriconazole tablets may cause serious side effects including:
 
 - •vision changes.
   Symptoms of vision changes may include:
-- oblurred vision
-- ochanges in the way you see colors
-- osensitivity to light (photophobia)
+- •blurred vision
+- •changes in the way you see colors
+- •sensitivity to light (photophobia)
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
@@ -145,6 +141,20 @@ The most common side effects of voriconazole tablets in adults include:
 | onausea | oheadache | ofast heart beat (tachycardia) |
 | ohallucinations (seeing or hearing things that are not there) | oabnormal liver function testsochills | ofever |
 
+The most common side effects of voriconazole tablets in children include:
+
+| ofever | ohigh blood pressure | oinflammation of mucous membranes |
+| --- | --- | --- |
+| odiarrhea | ocough | ohallucinations (seeing or hearing things that are not there) |
+| olow platelet counts | olow blood pressure | ocoughing up blood |
+| oabnormal liver function tests | oswelling in the arms and legs |  |
+| olow blood calcium levels | ohigh blood sugar levels | oconstipation |
+| olow blood phosphate levels | oheadache | olow blood magnesium levels |
+| ovision changes | ofast heart beat (tachycardia) | ofullness of the stomach area |
+| orash | onose bleeds | ovomiting |
+| ostomach pain | olow blood potassium levels | onausea |
+|  |  | oupper respiratory tract infection |
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of voriconazole tablets.
@@ -178,7 +188,7 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited Pithampur, Madhya Pradesh 454 775, India
+Glenmark Pharmaceuticals Limited Pithampur, Madhya Pradesh 454775, India
 
 Manufactured for:
 
@@ -189,6 +199,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-November 2021
+February 2022
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

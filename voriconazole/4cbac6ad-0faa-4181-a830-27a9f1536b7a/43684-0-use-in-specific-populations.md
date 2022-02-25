@@ -20,12 +20,14 @@ Data
 Animal Data
 
 Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6 to 17) at 10, 30, and 60 mg/kg/day.
-Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
-Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternbrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
+Voriconazole was associated with increased incidences of the malformations hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on body surface area comparisons, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on body surface area comparisons.
+Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternebrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
+
 Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7 to 19) at 10, 40, and 100 mg/kg/day.
-Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
+Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on body surface area comparisons).
 Fetal skeletal variations (increases in the incidence of cervical rib and extra sternebral ossification sites) were observed at 100 mg/kg/day.
+
 In a peri- and postnatal toxicity study in rats, voriconazole was administered orally to female rats from implantation through the end of lactation at 1, 3, and 10 mg/kg/day.
 Voriconazole prolonged the duration of gestation and labor and produced dystocia with related increases in maternal mortality and decreases in perinatal survival of F1 pups at 10 mg/kg/day, approximately 0.3 times the RMD.
 
@@ -46,8 +48,8 @@ Monitoring for adverse reactions associated with oral contraceptives and voricon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of voriconazole have been established in pediatric patients aged 12 to 14 years weighing greater than or equal to 50 kg and those aged 15 years and older regardless of body weight based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
-A total of 51 pediatric patients aged 12 to less than 18 [N=51] from eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The safety and effectiveness of voriconazole have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
+A total of 105 pediatric patients aged 2 to less than 12 [N=26] and aged 12 to less than 18 [N=79] from two, non-comparative Phase 3 pediatric studies and eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Safety and effectiveness in pediatric patients below the age of 2 years has not been established.
 Therefore, voriconazole is not recommended for pediatric patients less than 2 years of age.
@@ -61,9 +63,6 @@ Sun avoidance and dermatologic follow-up are recommended in pediatric patients e
 
 Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
 Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.10)].
-
-- Additional pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
