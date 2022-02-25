@@ -88,9 +88,9 @@ Do not take omeprazole delayed-release capsules if you:
 
 What should I tell my doctor before taking omeprazole delayed-release capsules?
 
-Before taking omeprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
+Before taking PRILOSEC, tell your doctor about all of your medical conditions, including if you:
 
-- have been told that you have low magnesium levels in your blood
+- have low magnesium levels, low calcium levels and low potassium levels in your blood
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -159,6 +159,12 @@ Your doctor may check the level of magnesium in your body before you start takin
 
 - Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+- Severe skin reactions.
+  Omeprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening: Stop taking omeprazole delayed-release capsules and call your doctor right away.
+  These symptoms may be the first sign of a severe skin reaction.
+  - Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 
 The most common side effects with omeprazole delayed-release capsules in adults and children include:
 
