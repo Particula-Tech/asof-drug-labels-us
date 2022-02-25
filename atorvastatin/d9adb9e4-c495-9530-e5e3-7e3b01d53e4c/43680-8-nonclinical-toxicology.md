@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 2-year carcinogenicity study in rats at dose levels of 10, 30, and 100 mg/kg/day, 2 rare tumors were found in muscle in high-dose females: in one, there was a rhabdomyosarcoma and, in another, there was a fibrosarcoma.
+In a 2-year carcinogenicity study in rats at dose levels of 10, 30, and 100 mg/kg/day, 2 rare tumors were found in muscle in high-dose females: in one, there was a rhabdomyosarcoma, and, in another, there was a fibrosarcoma.
 This dose represents a plasma AUC (0 to 24) value of approximately 16 times the mean human plasma drug exposure after an 80 mg oral dose.
 
 A 2-year carcinogenicity study in mice given 100, 200, or 400 mg/kg/day resulted in a significant increase in liver adenomas in high-dose males and liver carcinomas in high-dose females.

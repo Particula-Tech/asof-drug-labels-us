@@ -28,6 +28,8 @@ Advise women not to breastfeed during treatment with atorvastatin calcium tablet
 
 All registered trademarks in this document are the property of their respective owners.
 
+Dispense with Patient Information Leaflet available at www1.apotex.com/products/us
+
 APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 
 | Manufactured By | Manufactured For |
@@ -36,7 +38,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: December 2020
+Revised: January 2021
 
 Rev.
-18
+19
