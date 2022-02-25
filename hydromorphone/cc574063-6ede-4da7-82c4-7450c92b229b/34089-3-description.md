@@ -9,10 +9,10 @@ The structural formula is:
 C17H19NO3 ●HCl M.W.
 321.80
 
-Each Hydromorphone Hydrochloride Tablet USP for oral administration, contains 4 mg or 8 mg hydromorphone hydrochloride USP.
+Each Hydromorphone Hydrochloride Tablet, USP for oral administration, contains 4 mg or 8 mg hydromorphone hydrochloride, USP.
 In addition, the tablets include lactose anhydrous and magnesium stearate.
-Hydromorphone Hydrochloride Tablets USP may contain traces of sodium metabisulfite.
+Hydromorphone Hydrochloride Tablets, USP may contain traces of sodium metabisulfite.
 
-Each 5 mL (1 teaspoonful) of Hydromorphone Hydrochloride Oral Solution USP contains 5 mg of hydromorphone hydrochloride, USP.
+Each 5 mL (1 teaspoonful) of Hydromorphone Hydrochloride Oral Solution, USP contains 5 mg of hydromorphone hydrochloride, USP.
 In addition, other ingredients include FD&C Red No. 40, methyl paraben, propylene glycol, propylparaben, purified water, raspberry blend, saccharin sodium and sorbitol solution.
-Hydromorphone Hydrochloride Oral Solution USP may contain traces of sodium metabisulfite.
+Hydromorphone Hydrochloride Oral Solution, USP may contain traces of sodium metabisulfite.

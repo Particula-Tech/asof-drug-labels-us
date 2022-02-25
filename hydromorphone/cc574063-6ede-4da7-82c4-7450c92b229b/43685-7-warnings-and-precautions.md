@@ -20,6 +20,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets, but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets.
@@ -56,9 +57,23 @@ Overestimating the Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hy
 
 Accidental ingestion of even one dose of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets, especially by children, can result in respiratory depression and death due to an overdose of hydromorphone.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.7)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
+[see Warnings and Precautions (5.2, 5.6), Patient Counseling Information (17)].
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
@@ -79,6 +94,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see dosage and Administration (2.2), Warnings and Precautions (5.4)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -156,5 +173,5 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 
 Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
-Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
 Use of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets is contraindicated in patients with hypersensitivity to sulfite-containing medications.
