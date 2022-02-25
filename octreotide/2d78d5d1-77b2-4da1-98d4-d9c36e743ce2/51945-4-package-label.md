@@ -6,7 +6,7 @@ Octreotide Acetate Injection 50 mcg/mL
 
 Needle shield may contain latex
 
-Subcutaneous Injection See Insert
+For Subcutaneous or Intravenous Use
 
 Discard Unused Portion
 
@@ -36,7 +36,7 @@ Made in Italy
 
 Mylan.com
 
-MI:239:10C:R6
+MI:239:10C:R7
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg
 
@@ -46,7 +46,7 @@ Octreotide Acetate Injection 100 mcg/mL
 
 Needle shield may contain latex
 
-Subcutaneous Injection See Insert
+For Subcutaneous or Intravenous Use
 
 Discard Unused Portion
 
@@ -76,7 +76,7 @@ Made in Italy
 
 Mylan.com
 
-MI:245:10C:R6
+MI:245:10C:R7
 
 # PRINCIPAL DISPLAY PANEL - 500 mcg
 
@@ -88,7 +88,7 @@ Octreotide Acetate Injection
 
 Needle shield may contain latex
 
-Subcutaneous Injection See Insert
+For Subcutaneous or Intravenous Use
 
 Discard Unused Portion
 
@@ -118,4 +118,4 @@ Made in Italy
 
 Mylan.com
 
-MI:246:10C:R6
+MI:246:10C:R7
