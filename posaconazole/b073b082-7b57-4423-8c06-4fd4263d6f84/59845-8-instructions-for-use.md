@@ -189,16 +189,16 @@ How should I store Noxafil PowderMix?
 
 Keep NOXAFIL PowderMix and all medicines out of the reach of children.
 
-For more information go to www.NOXAFIL.com or call 1-800-622-4477.
+For more information go to www.Noxafil.com or call 1-800-622-4477.
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2021-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-ifu-mk5592-2105r000
+ifu-mk5592-2202r001
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: May 2021
+Revised: February 2022
