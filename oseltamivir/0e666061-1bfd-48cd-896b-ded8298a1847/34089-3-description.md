@@ -10,3 +10,5 @@ Oseltamivir phosphate is a white crystalline solid with the chemical name (3R,4R
 The chemical formula is C16H28N2O4 (free base).
 The molecular weight is 312.4 for oseltamivir free base and 410.4 for oseltamivir phosphate salt.
 The structural formula is as follows:
+
+Structure

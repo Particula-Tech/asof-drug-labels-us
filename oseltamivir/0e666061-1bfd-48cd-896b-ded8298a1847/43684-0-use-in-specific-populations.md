@@ -64,7 +64,7 @@ Prophylaxis of Influenza
 
 The safety and efficacy of oseltamivir phosphate for the prophylaxis of influenza in pediatric patients 1 year to 17 years old has been established [see Dosage and Administration (2.3), Clinical Pharmacology (12.3), and Clinical Studies (14.2)] and is based on:
 
-- 13 to 17 years of age: Prophylaxis in adolescent patients 13 to 17 years of age is supported by one randomized, placebo-controlled post-exposure household prophylaxis trial of oseltamivir phosphate 75 mg taken orally once daily for 7 days in household contacts including 207 adolescents [see Clinical Studies (14.2)].
+- 13 to 17 years of age: Prophylaxis in adolescent patients 13 to 17 years of age is supported by one randomized, placebo-controlled post-exposure household prophylaxis trial of oseltamivir phosphate 75 mg taken orally once daily for 7 days in household contacts including 207 adolescents [seeClinical Studies (14.2)].
 - 1 year to 12 years of age: Oseltamivir phosphate for prophylaxis in pediatric patients 1 year to 12 years of age is supported by one randomized, open-label, post-exposure household prophylaxis trial including pediatric subjects 1 year to 12 years of age who received 30 to 60 mg of oseltamivir phosphate for oral suspension (supplied as powder) taken orally once daily for 10 days [see Clinical Studies (14.2)].
   Additional safety information was provided in a 6-week seasonal prophylaxis (community outbreak) safety study in 49 patients 1 year to 12 years of age.
 

@@ -15,4 +15,4 @@ Oseltamivir Phosphate Capsules, USP are indicated for the prophylaxis of influen
   Emergence of resistance substitutions could decrease drug effectiveness.
   Other factors (for example, changes in viral virulence) might also diminish clinical benefit of antiviral drugs.
   Prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use Oseltamivir Phosphate Capsules, USP [see Microbiology (12.4)]
-- Oseltamivir Phosphate Capsules, USP are not recommended for patients with end-stage renal disease not undergoing dialysis [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
+- Oseltamivir Phosphate Capsules, USP are not recommended for patients with end-stage renal disease not undergoing dialysis [see Dosage and Administration (2.4) and Use inSpecific Populations (8.6)].
