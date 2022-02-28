@@ -52,7 +52,7 @@ Discontinue CELEXA in patients who are found to have persistent QTc measurements
 ## 5.3Serotonin Syndrome
 
 SSRIs, including CELEXA, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, opioids (including tramadol and fentanyl), lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
 Serotonin syndrome can also occur when these drugs are used alone.
 Symptoms of serotonin syndrome were noted in 0.1% of MDD patients treated with CELEXA in premarketing clinical trials.
 
