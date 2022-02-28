@@ -33,7 +33,7 @@ No correlations were seen between the baseline ejection fraction and the occurre
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
 DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
 The development of maximal ventricular class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
-On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [see Clinical Studies(14)].
+On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [see Clinical Trials(14)].
 
 ## 12.3 Pharmacokinetics
 

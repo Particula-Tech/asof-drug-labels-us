@@ -6,11 +6,11 @@ Recommend that patients avoid grapefruit juice, over-the-counter cough medicine 
 Inform patients that most manufacturers of corneal refractive laser surgery devices contraindicate corneal refractive laser surgery in patients taking amiodarone.
 Discuss the symptoms of hypo- and hyper-thyroidism, particularly if patients will be transitioned to oral amiodarone.
 
-Manufactured by: HIKMA FARMACEUTICA (PORTUGAL), S.A.
-Estrada do Rio da Mo, nº 8, 8A e 8B - Fervença, 2705 - 906 Terrugem SNT PORTUGAL
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Estrada do Rio da Mó, nº 8, 8A e 8B - Fervença, 2705 - 906 Terrugem SNT PORTUGAL
 
-Manufactured by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised: July 2016
+Revised: June 2020
 
-PIN193-WES/4
+PIN193-WES/5

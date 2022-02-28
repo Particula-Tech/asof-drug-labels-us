@@ -47,7 +47,7 @@ Amiodarone does not need to be protected from light during administration.
 
 NOTE: Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Table 2: AMIODARONE HCl SOLUTION STABILITY
+Table 2: AMIODARONE HYDROCHLORIDE SOLUTION STABILITY
 
 | Solution | Concentration (mg/mL) | Container | Comments |
 | --- | --- | --- | --- |
