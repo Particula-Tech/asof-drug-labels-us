@@ -1,29 +1,49 @@
 # PRINCIPAL DISPLAY PANEL – 60 mL Printed Bottle
 
-60 mL
+NDC 0037-0022-07 7 X 60 mL Unit-Dose Bottles
 
-NDC 0037-0022-60
+7 pack
 
-sfROWASA®
+SF Rowasa® (mesalamine) Rectal Suspension Enema, 4.0g/60mL Sulfite-Free Formulation
 
-(mesalamine)
+For Rectal Use Only Rx Only
 
-Rectal Suspension 4.0 g/60 mL
+Each disposable unit contains:
 
-Sulfite-Free Formulation
+Mesalamine (5-aminosalicylic acid)……..….4 grams in suspension containing carbomer 934P, edetate disodium, potassium acetate, purified water, sodium benzoate, and xanthan gum.
 
-Rx ONLY
+USUAL DOSE: One unit-dose suspension in the evenings before going to bed.
 
-FOR RECTAL USE ONLY
+See package insert for complete prescribing information including usual dose.
 
-Distributed by:
+See enclosed directions for use.
 
-MEDA
+Use as directed by your physician.
 
-PHARMACEUTICALS®
+KEEP THIS AND ANY MEDICATION OUT OF REACH OF CHILDREN.
 
-Somerset, New Jersey 08873-4120
+SHAKE WELL BEFORE USING.
 
-©2013 Meda Pharmaceuticals Inc.
+FOIL WRAP PROTECTS PRODUCT FROM DISCOLORATION.
+DO NOT REMOVE PRODUCT FROM FOIL WRAP UNTIL READY TO USE.
 
-www.sfROWASA.com
+Once the foil-wrapped unit of seven bottles is opened, any bottles remaining after 14 days should be discarded.
+
+Product contents may darken with time.
+
+NOTE: product contents will cause staining of most direct contact surfaces.
+
+Store at controlled room temperature 20° to 25°C (68° to 77°F); brief excursions permitted 15° to 30°C (59° to 86°F) [See USP].
+
+Dispensed in original foil-wrapped package.
+
+For medical inquiries, call toll-free 1-866-210-5949.
+
+SHAKE WELL BEFORE USING
+
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+
+© 2022 Viatris Inc.
+
+UC-003207-03 Rev.
+1/2022

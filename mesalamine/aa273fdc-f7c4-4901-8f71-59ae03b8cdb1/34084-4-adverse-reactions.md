@@ -41,6 +41,8 @@ Cases of pancreatitis and fibrosing alveolitis have been reported as manifestati
 Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.
 Anemia, leukocytosis, and thrombocytosis can be part of the clinical presentation of inflammatory bowel disease.
 
+Postmarketing cases of severe cutaneous adverse reactions (SJS/TEN, DRESS, and AGEP) and pleurisy/pleuritis have been reported.
+
 ## Hair Loss
 
 Mild hair loss characterized by “more hair in the comb” but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.

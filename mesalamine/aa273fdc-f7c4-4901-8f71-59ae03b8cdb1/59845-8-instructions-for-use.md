@@ -57,7 +57,7 @@ U.S. Patent No. 7,645,801
 
 SFROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 
-IN-003260-04 Rev.
-06/2021
+IN-003260-05 Rev.
+11/2021
 
 For Medical Inquiries, Call Toll Free: 1-866-210-5950
