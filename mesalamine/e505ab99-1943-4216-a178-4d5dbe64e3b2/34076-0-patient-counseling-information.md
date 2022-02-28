@@ -35,8 +35,8 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx only
 
-IN-003606-X6 Rev.
-10/2021
+IN-003606-05 Rev.
+11/2021
 
 Distributed by:
 
