@@ -23,10 +23,12 @@ Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years
 | System Organ Class | Treatment Trials |  | Prophylaxis Trials |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Oseltamivir Phosphate 75 mg twice daily (n = 2646) | Placebo (n = 1977) | Oseltamivir Phosphate 75 mg once daily (n = 1943) | Placebo (n = 1586) |
-| Gastrointestinal Disorders |  |  |  |  |
+| Gastrointestinal |  |  |  |  |
+| Disorders |  |  |  |  |
 | Nausea | 10% | 6% | 8% | 4% |
 | Vomiting | 8% | 3% | 2% | 1% |
-| Nervous System Disorders |  |  |  |  |
+| Nervous System |  |  |  |  |
+| Disorders |  |  |  |  |
 | Headache | 2% | 1% | 17% | 16% |
 | General Disorders |  |  |  |  |
 | Pain | <1% | <1% | 4% | 3% |

@@ -44,24 +44,26 @@ Prophylaxis in pediatric patients is recommended for 10 days following close con
 
 Table1 Oseltamivir Phosphate for Oral Suspension Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
 
-| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 daysThe recommended duration for post-exposure prophylaxis is 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). The amount supplied (e.g., number of bottles) for seasonal prophylaxis may be greater than for post-exposure prophylaxis. | Volume of Oral Suspension (6 mg/mL) for each DoseAn oral dosing dispensing device that measures the appropriate volume in mL should be utilized with the oral suspension. |  | Number of Bottles of Oral Suspension to Dispense |
-| --- | --- | --- | --- | --- | --- |
-| Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |
-| Any weight | 3 mg/kg twice daily | Not applicable | 0.5 mL/kgUse an oral dosing dispensing device that measures the appropriate volume in mL with the oral suspension. |  | 1 bottle |
-| Patients 1 to 12 Years of Age Based on Body Weight |  |  |  |  |  |
-| 15 kg or less | 30 mg twice daily | 30 mg once daily |  | 5 mL | 1 bottle |
-| 15.1 kg to 23 kg | 45 mg twice daily | 45 mg once daily |  | 7.5 mL | 2 bottles |
-| 23.1 kg to 40 kg | 60 mg twice daily | 60 mg once daily |  | 10 mL | 2 bottles |
-| 40.1 kg or more | 75 mg twice daily | 75 mg once daily |  | 12.5 mL | 3 bottles |
+| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 daysThe recommended duration for post-exposure prophylaxis is 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). The amount supplied (e.g., number of bottles) for seasonal prophylaxis may be greater than for post-exposure prophylaxis. | Volume of Oral Suspension (6 mg/mL) for each DoseAn oral dosing dispensing device that measures the appropriate volume in mL should be utilized with the oral suspension. | Number of Bottles of Oral Suspension to Dispense |
+| --- | --- | --- | --- | --- |
+| Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |
+| Any weight | 3 mg/kg twice daily | Not applicable | 0.5 mL/kgUse an oral dosing dispensing device that measures the appropriate volume in mL with the oral suspension. | 1 bottle |
+| Patients 1 to 12 Years of Age Based on Body Weight |  |  |  |  |
+| 15 kg or less | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle |
+| 15.1 kg to 23 kg | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottle |
+| 23.1 kg to 40 kg | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottle |
+| 40.1 kg or more | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottle |
 
 ## 2.4 Dosage in Patients with Renal Impairment
 
 Table 2 displays the dosage recommendations for the treatment and prophylaxis of influenza in adults with various stages of renal impairment (estimated creatinine clearance of less than or equal to 90 mL per minute).
 Dosage modifications are recommended in adults with an estimated creatinine clearance less than or equal to 60 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
+Caption: Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+
 Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
 
-| Renal Impairment (Creatinine Clearance) | Recommended Treatment RegimenOseltamivir phosphate for oral suspension can be used for 30 mg dosing | Recommended Prophylaxis RegimenThe recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). |
+| Renal Impairment (Creatinine Clearance) | Recommended Treatment Regimen Oseltamivir phosphate for oral suspension can be used for 30 mg dosing | Recommended Prophylaxis RegimenThe recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). |
 | --- | --- | --- |
 | Mild (>60-90 mL/minute) | 75 mg twice daily for 5 days | 75 mg once daily |
 | Moderate (>30-60 mL/minute) | 30 mg twice daily for 5 days | 30 mg once daily |
