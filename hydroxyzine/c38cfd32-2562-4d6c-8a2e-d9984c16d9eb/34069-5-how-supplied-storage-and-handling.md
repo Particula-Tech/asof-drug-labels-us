@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-HydrOXYzine Pamoate Capsules, USP, for oral administration, are available as
+Hydroxyzine Pamoate Capsules, USP, for oral administration, are available as
 
 25 mg
 
@@ -42,9 +42,9 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-46192889
+46299654
 
 Rev.
-November 2020
+November 2021
 
-MF0674REV1120
+MF42024530REV11/21
