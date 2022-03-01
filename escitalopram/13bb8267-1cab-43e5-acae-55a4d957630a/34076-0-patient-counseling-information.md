@@ -4,11 +4,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behaviors
 
-Advise patients, their families and caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients, their families and caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)]
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, opioids (including tramadol and fentanyl), lithium, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Activation of Mania or Hypomania
 
@@ -72,7 +72,7 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-© 2022 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
-V4.0USPI2005
+v3.0USPI2005

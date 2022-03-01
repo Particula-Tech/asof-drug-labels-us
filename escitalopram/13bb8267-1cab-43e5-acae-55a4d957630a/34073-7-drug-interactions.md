@@ -10,7 +10,7 @@
 
 ## 7.3Triptans
 
-There have been rare post marketing reports of serotonin syndrome with use of an SSRI and a triptan.
+There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of Lexapro with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
 ## 7.4CNS Drugs
@@ -51,7 +51,7 @@ The mechanism of this pharmacodynamic interaction is not known.
 
 ## 7.11Sumatriptan
 
-There have been rare post marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan.
+There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram, escitalopram) is clinically warranted, appropriate observation of the patient is advised.
 
 ## 7.12Theophylline

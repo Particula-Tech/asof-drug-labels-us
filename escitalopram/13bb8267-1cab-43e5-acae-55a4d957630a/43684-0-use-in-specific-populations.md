@@ -5,11 +5,11 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
 
 Risk Summary
 
-Available data from published epidemiologic studies and post marketing reports have not established an increased risk of major birth defects or miscarriage.
+Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including LEXAPRO, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
