@@ -15,7 +15,7 @@ As with all ophthalmic preparations containing benzalkonium chloride, advise pat
 
 Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA ZYLET is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-© 2021 Bausch & Lomb Incorporated or its affiliates
+© 2022 Bausch & Lomb Incorporated or its affiliates
 
 9007708 (FOLDED)
 

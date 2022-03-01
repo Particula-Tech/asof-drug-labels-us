@@ -57,7 +57,7 @@ The developmental and health benefits of breastfeeding should be considered, alo
 
 ## 8.4 Pediatric Use
 
-Two trials were conducted to evaluate the safety and efficacy of ZYLET(loteprednol etabonate and tobramycin ophthalmic suspension) in pediatric subjects age zero to six years; one was in subjects with lid inflammation and the other was in subjects with blepharoconjunctivitis.
+Two trials were conducted to evaluate the safety and efficacy of ZYLET (loteprednol etabonate and tobramycin ophthalmic suspension) in pediatric subjects age zero to six years; one was in subjects with lid inflammation and the other was in subjects with blepharoconjunctivitis.
 
 In the lid inflammation trial, ZYLET with warm compresses did not demonstrate efficacy compared to vehicle with warm compresses.
 Patients received warm compress lid treatment plus ZYLET or vehicle for 14 days.
