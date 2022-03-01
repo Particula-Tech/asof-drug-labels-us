@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA214902"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Sol-Gel Technologies, Inc.",
+  "package_ndcs": [
+    "79167-301-30",
+    "79167-301-50",
+    "79167-301-99"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin and benzoyl peroxide",
+      "name": "TWYNEO"
+    }
+  ],
+  "setid": "0a4e3970-4945-4569-8dd9-d39289aa7308",
+  "source": "dailymed"
+}
