@@ -18,8 +18,6 @@ provided separately to each patient.
 
 Rx Only
 
-Actavis
-
 # Principal Display Panel
 
 NDC 0228-2029-10
@@ -39,8 +37,6 @@ provided separately to each patient.
 100 Tablets
 
 Rx Only
-
-Actavis
 
 # Principal Display Panel
 
@@ -62,8 +58,6 @@ provided separately to each patient.
 
 Rx Only
 
-Actavis
-
 # Principal Display Panel
 
 NDC 0228-2039-10
@@ -83,5 +77,3 @@ provided separately to each patient.
 100 Tablets
 
 Rx Only
-
-Actavis
