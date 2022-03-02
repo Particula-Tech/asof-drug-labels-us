@@ -6,11 +6,11 @@ DEA Order Form Required.
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2017 Mallinckrodt.
+© 2021 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 09/2017
+Rev 12/2021
 
 Mallinckrodt™ Pharmaceuticals
 

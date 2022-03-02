@@ -174,12 +174,12 @@ Nonteratogenic Effects
 Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
 
-Nursing Mothers
+## Nursing Mothers
 
 Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
 
-Pediatric Use
+## Pediatric Use
 
 Long-term effects of amphetamines in pediatric patients have not been well established.
 
