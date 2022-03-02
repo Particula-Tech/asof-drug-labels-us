@@ -116,8 +116,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 0858 1 673714
+10 0858 2 6009091
 
-Issued March 2017
+Issued May 2021
