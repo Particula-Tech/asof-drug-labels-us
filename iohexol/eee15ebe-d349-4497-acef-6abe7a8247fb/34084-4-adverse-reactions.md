@@ -5,10 +5,11 @@ The following clinically significant adverse reactions are described elsewhere i
 - Risks Associated with Inadvertent Intrathecal Administration [see Warnings and Precautions (5.1)]
 - Risks Associated with Inadvertent Parenteral Administration [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Contrast Induced Kidney Injury [see Warnings and Precautions (5.4)]
+- Contrast-Induced Kidney Injury [see Warnings and Precautions (5.4)]
 - Cardiovascular Adverse Reactions [see Warnings and Precautions (5.5)]
 - Thromboembolic Events [see Warnings and Precautions (5.6)]
-- Severe Cutaneous Reactions [see Warnings and Precautions (5.11)]
+- Thyroid Dysfunction in Pediatric Patients 0 to 3 Years of Age [see Warnings and Precautions (5.9)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -59,7 +60,7 @@ TABLE 25 ADVERSE REACTIONS – INTRAVASCULAR ADMINISTRATION
 
 | System Organ Class | Adverse Reaction | Incidence |
 | --- | --- | --- |
-| Cardiovascular System | Arrhythmias including PVCs and PACs (2%), | 2% |
+| Cardiovascular System | Arrhythmias including PVCs and PACs | 2% |
 | Hypotension | 0.7% |  |
 | Others including cardiac failure, asystole, bradycardia, tachycardia, and vasovagal reaction | ≤ 0.3% |  |
 | Nervous System | Vertigo (including dizziness and lightheadedness) | 0.5% |
@@ -151,61 +152,60 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 General
 
-Immune System Disorders: Hypersensitivity reactions, anaphylactic or anaphylactoid reactions, anaphylactic or anaphylactoid shock including life-threatening or fatal anaphylaxis.
+Immune System Disorders: Hypersensitivity reactions, anaphylactic or anaphylactoid reactions, anaphylactic or anaphylactoid shock including life-threatening or fatal anaphylaxis
 
-General Disorders and Administration Site Conditions: Pyrexia, chills, pain and discomfort, asthenia, administration site conditions including extravasation.
+General Disorders and Administration Site Conditions: Pyrexia, chills, pain and discomfort, asthenia, administration site conditions including extravasation
 
 Intrathecal Administration
 
-Nervous System Disorders: Meningism, aseptic meningitis, seizures or status epilepticus, disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia.
+Nervous System Disorders: Meningism, aseptic meningitis, seizures or status epilepticus, disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia
 
-Musculoskeletal and Connective Tissue Disorders: Pain, muscle spasms or spasticity.
+Musculoskeletal and Connective Tissue Disorders: Pain, muscle spasms or spasticity
 
-Psychiatric Disorders: Confusional state, agitation, anxiety.
+Psychiatric Disorders: Confusional state, agitation, anxiety
 
-Eye Disorders: Transient visual impairment including cortical blindness.
+Eye Disorders: Transient visual impairment including cortical blindness
 
-Renal Reactions: Acute kidney injury.
+Renal Reactions: Acute kidney injury
 
 Intravascular Administration
 
-Cardiovascular Disorders: Severe cardiac complications (including cardiac arrest, cardiopulmonary arrest), shock, peripheral vasodilatation, palpitations, vasospasm including spasm of coronary arteries, myocardial infarction, syncope, cyanosis, pallor, flushing, chest pain.
+Cardiovascular Disorders: Severe cardiac complications (including cardiac arrest, cardiopulmonary arrest), shock, peripheral vasodilatation, palpitations, vasospasm including spasm of coronary arteries, myocardial infarction, syncope, cyanosis, pallor, flushing, chest pain
 
-Hemodynamic Reactions: Vasospasm and thrombophlebitis following intravenous injection.
+Hemodynamic Reactions: Vasospasm and thrombophlebitis following intravenous injection
 
-Blood and Lymphatic System Disorders: Neutropenia.
+Blood and Lymphatic System Disorders: Neutropenia
 
-Nervous System Disorders: Disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia.
+Nervous System Disorders: Disorientation, coma, depressed or loss of consciousness, transient contrast-induced toxic encephalopathy (including amnesia, hallucination, paralysis, paresis, speech disorder, aphasia, dysarthria), restlessness, tremors, hypoesthesia
 
-Psychiatric Disorders: Confusional state, agitation.
+Psychiatric Disorders: Confusional state, agitation
 
-Eye Disorders: Eye irritation or itchiness, periorbital edema, ocular or conjunctival hyperemia, lacrimation.
+Eye Disorders: Eye irritation or itchiness, periorbital edema, ocular or conjunctival hyperemia, lacrimation
 
-Renal Reactions: Acute kidney injury, toxic nephropathy (CIN), transient proteinuria, oliguria or anuria, increased serum creatinine.
+Renal Reactions: Acute kidney injury, toxic nephropathy (CIN), transient proteinuria, oliguria or anuria, increased serum creatinine
 
-Gastrointestinal Disorders: Abdominal pain, pancreatitis aggravated, salivary gland enlargement.
+Gastrointestinal Disorders: Abdominal pain, pancreatitis aggravated, salivary gland enlargement
 
-Endocrine Reactions: Hyperthyroidism.
-Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
-Some patients were treated for hypothyroidism.
+Endocrine Reactions: Hyperthyroidism, hypothyroidism
 
-Respiratory; Thoracic, and Mediastinal Disorders: Respiratory distress, respiratory failure, pulmonary edema, bronchospasm, laryngospasm, throat irritation, throat tightness, laryngeal edema, wheezing, chest discomfort, asthmatic attack.
+Respiratory; Thoracic, and Mediastinal Disorders: Respiratory distress, respiratory failure, pulmonary edema, bronchospasm, laryngospasm, throat irritation, throat tightness, laryngeal edema, wheezing, chest discomfort, asthmatic attack
 
-Skin and Subcutaneous Tissue Disorders: Contrast media reactions range from mild (e.g. pleomorphic rashes, drug eruption, erythema and skin discoloration, blisters, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g.
-Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), bullous or exfoliative dermatitis, acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
+Skin and Subcutaneous Tissue Disorders: Contrast media reactions range from mild (e.g., pleomorphic rashes, drug eruption, erythema and skin discoloration, blisters, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g., Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), bullous or exfoliative dermatitis, acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)]
 
 Oral Administration
 
-Gastrointestinal Disorders: Dysphagia, abdominal pain.
+Gastrointestinal Disorders: Dysphagia, abdominal pain
 
 Body Cavity Administration
 
-Gastrointestinal Disorders: Pancreatitis.
+Gastrointestinal Disorders: Pancreatitis
 
-Musculoskeletal and Connective Tissue Disorders: Arthritis (arthrography).
+Musculoskeletal and Connective Tissue Disorders: Arthritis (arthrography)
 
 Hysterosalpingography: Injection of OMNIPAQUE for hysterosalpingography is associated with immediate, transient pain.
 Monitor injection pressure and volume instilled to minimize pain and to avoid disruptive distention of the uterus and fallopian tubes.
 Fluoroscopic monitoring is recommended.
+
 Nervous system: Pain (49%), somnolence and fever each with an individual incidence of 3%.
-Gastrointestinal system: Nausea (3%).
+
+Gastrointestinal system: Nausea (3%)

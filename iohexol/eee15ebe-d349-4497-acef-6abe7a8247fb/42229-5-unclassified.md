@@ -5,4 +5,4 @@ Product of Norwegian Origin.
 OMNIPAQUE is a trademark of General Electric Company or one of its subsidiaries.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-© 2021 General Electric Company - All rights reserved.
+© 2022 General Electric Company - All rights reserved.

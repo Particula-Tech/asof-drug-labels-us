@@ -11,7 +11,7 @@ In animal reproduction studies, no developmental toxicity occurred with intraven
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -102,8 +102,9 @@ The safety and effectiveness of OMNIPAQUE have not been established in pediatric
 In general, the frequency of adverse reactions in pediatric patients was similar to that seen in adults [see Adverse Reactions (6.1)].
 Pediatric patients at higher risk of experiencing adverse events during contrast-medium administration may include those having asthma, a sensitivity to medication and/or allergens, congestive heart failure, a serum creatinine greater than 1.5 mg/dL or those less than 12 months of age.
 
-Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to pediatric patients, including infants.
-Some patients were treated for hypothyroidism [see Adverse Reactions (6.2)].
+Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
+Some patients were treated for hypothyroidism.
+Monitor pediatric patients 0 to 3 years of age closely, particularly those with one or more potential risk factors, for thyroid dysfunction [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
 
 ## 8.5 Geriatric Use
 

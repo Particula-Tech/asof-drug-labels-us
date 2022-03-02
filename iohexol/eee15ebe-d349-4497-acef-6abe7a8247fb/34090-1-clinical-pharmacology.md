@@ -40,7 +40,7 @@ Examinations of the uterus (hysterosalpingography) and bladder (voiding cystoure
 
 ## 12.3 Pharmacokinetics
 
-Following the intravenous administration of iohexol (between 500 mg iodine/kg to 1500 mg iodine/kg) to 16 adult human subjects, apparent first-order terminal elimination half-life was 12.6 hrs and total body clearance was 131 (98-165) mL/min.
+Following the intravenous administration of iohexol (between 500 mg iodine/kg to 1500 mg iodine/kg) to 16 adult human subjects, apparent first-order terminal elimination half-life was 12.6 hrs and total body clearance was 131 (98 to 165) mL/min.
 Clearance was not dose dependent.
 
 Absorption
@@ -50,9 +50,9 @@ This amount may increase in the presence of bowel perforation or bowel obstructi
 
 Distribution
 
-In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the plasma volume of distribution was165 (108-219) mL/kg.
+In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the plasma volume of distribution was165 (108 to 219) mL/kg.
 
-In five adult patients receiving 16 mL to 18 mL of OMNIPAQUE (180 mg iodine/mL) by lumbar intrathecal injection the plasma volume of distribution was 559 (350-849) mL/kg.
+In five adult patients receiving 16 mL to 18 mL of OMNIPAQUE (180 mg iodine/mL) by lumbar intrathecal injection the plasma volume of distribution was 559 (350 to 849) mL/kg.
 
 Elimination
 

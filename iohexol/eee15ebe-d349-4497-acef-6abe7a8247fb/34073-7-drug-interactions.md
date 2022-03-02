@@ -12,7 +12,7 @@ Re-evaluate eGFR 48 hours after the imaging procedure, and reinstitute metformin
 Radioactive Iodine
 
 Administration of iodinated contrast agents may interfere with thyroid uptake of radioactive iodine (I-131 and I-123) and decrease therapeutic and diagnostic efficacy in patients with carcinoma of the thyroid.
-The decrease in efficacy lasts for 6-8 weeks.
+The decrease in efficacy lasts for 6 to 8 weeks.
 
 Beta-adrenergic Blocking Agents
 
@@ -29,7 +29,7 @@ Drugs such as monoamine oxidase (MAO) inhibitors, tricyclic antidepressants, CNS
 Such medications should be discontinued at least 48 hours before myelography, should not be used for the control of nausea or vomiting during or after myelography, and should not be resumed for at least 24 hours post procedure.
 In non-elective procedures in patients on these drugs, consider prophylactic use of anticonvulsants.
 
-## 7.2 Drug Laboratory Test Interactions
+## 7.2 Drug-Laboratory Test Interactions
 
 Effect on Thyroid Tests
 

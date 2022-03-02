@@ -2,22 +2,22 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-1. OMNIPAQUE 140, 180, 240, 300 and 350 are indicated for intravascular, oral, rectal, intraarticular, and body cavity administration.
-   OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
-2. Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
-3. OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
-4. Do not use if tamper-evident ring is broken or missing.
-5. OMNIPAQUE injection may be administered at either body (37°C, 98.6°F) or room temperature (20° to 25°C, 68° to 77°F).
-6. Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
-   Do not administer if OMNIPAQUE injection contains particulate matter or is discolored.
-7. Do not mix OMNIPAQUE injection with, or inject in intravenous lines containing, other drugs or total nutritional admixtures.
-8. Use the lowest dose necessary to obtain adequate visualization.
-9. Individualize the volume, strength, and rate of administration of OMNIPAQUE injection.
-   Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
-10. Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [see Warnings and Precautions (5.6)].
-11. Hydrate patients before and after intravascular administration of OMNIPAQUE injection [see Warnings and Precautions (5.4)].
-12. Each bottle of OMNIPAQUE injection and oral solution is intended for one procedure only.
-    Discard any unused portion.
+- OMNIPAQUE 140, 180, 240, 300 and 350 are indicated for intravascular, oral, rectal, intraarticular, and body cavity administration.
+  OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
+- Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
+- OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
+- Do not use if tamper-evident ring is broken or missing.
+- OMNIPAQUE injection may be administered at either body (37°C, 98.6°F) or room temperature (20° to 25°C, 68° to 77°F).
+- Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
+  Do not administer if OMNIPAQUE injection contains particulate matter or is discolored.
+- Do not mix OMNIPAQUE injection with, or inject in intravenous lines containing, other drugs or total nutritional admixtures.
+- Use the lowest dose necessary to obtain adequate visualization.
+- Individualize the volume, strength, and rate of administration of OMNIPAQUE injection.
+  Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
+- Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [see Warnings and Precautions (5.6)].
+- Hydrate patients before and after intravascular administration of OMNIPAQUE injection [see Warnings and Precautions (5.4)].
+- Each bottle of OMNIPAQUE injection and oral solution is intended for one procedure only.
+  Discard any unused portion.
 
 ## 2.2 Intrathecal Dosage and Administration
 
