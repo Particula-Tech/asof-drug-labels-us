@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-DEXTROAMPHETAMINE SULFATE ORAL SOLUTION CII, 5 mg/5 mL
+Dextroamphetamine Sulfate Oral SolutionCII, 5 mg/5 mL
 
 (DEX-troe-am-FET-a-meen SUL-fate)
 
@@ -201,8 +201,13 @@ Manufactured by
 
 Tris Pharma, Inc.
 
+Monmouth Junction, NJ 08852
+
+www.trispharma.com
+
 LB8255
 
-Rev 05
+Rev.
+06
 
-01/2020
+Revised February 2022
