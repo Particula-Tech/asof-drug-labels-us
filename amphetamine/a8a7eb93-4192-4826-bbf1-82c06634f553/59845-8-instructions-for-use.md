@@ -63,13 +63,7 @@ Keep DYANAVEL XR and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration Approved: 05/2017
 
-Manufactured by:
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-Tris Pharma, Inc. Monmouth Junction, NJ 08852
-
-LB8635
-
-Rev.
-00
-
-December 2021
+LB8635 Rev.
+01 February 2022

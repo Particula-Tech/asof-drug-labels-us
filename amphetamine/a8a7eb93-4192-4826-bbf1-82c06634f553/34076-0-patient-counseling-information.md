@@ -79,3 +79,8 @@ Advise patients to avoid alcohol while taking DYANAVEL XR.
 Consumption of alcohol while taking
 
 DYANAVEL XR may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12.3)].
+
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
+
+LB8635 Rev.
+01 February 2022

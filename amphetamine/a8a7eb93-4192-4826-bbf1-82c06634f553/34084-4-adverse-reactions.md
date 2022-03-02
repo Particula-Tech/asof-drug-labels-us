@@ -68,7 +68,7 @@ Endocrine: impotence, changes in libido, frequent or prolonged erections
 
 Eye Disorders: vision blurred, mydriasis
 
-Gastrointestinal: unpleasant taste, constipation, other gastrointestinal disturbances
+Gastrointestinal: unpleasant taste, constipation, intestinal ischemia, and other gastrointestinal disturbances
 
 Musculoskeletal, Connective Tissue, and Bone Disorders: rhabdomyolysis
 
