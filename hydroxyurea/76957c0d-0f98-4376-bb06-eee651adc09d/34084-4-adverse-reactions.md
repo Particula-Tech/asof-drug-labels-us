@@ -4,32 +4,32 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.2)]
-- Embryo-fetal toxicity [see Boxed Warning and Warnings and Precautions (5.3)]
 - Vasculitic toxicities (including Leg Ulcers) [see Warnings and Precautions (5.4)]
 - Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.5)]
 - Risk with concomitant use of live virus vaccine [see Warnings and Precautions (5.6)]
 - Macrocytosis [see Warnings and Precautions (5.7)]
+- Hemolytic Anemia [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of SIKLOS has been assessed in 405 pediatric patients with sickle cell disease from 2-18 years of age in the European Sickle Cell Disease prospective Cohort study ESCORT-HU.
+The safety of SIKLOS has been assessed in 405 pediatric patients with sickle cell disease from 2-18 years of age and 1077 adults in the European Sickle Cell Disease prospective Cohort study ESCORT-HU.
 
 The most frequently reported adverse reactions in ESCORT-HU were infections and myelosuppression, with mild to moderate neutropenia as the most common manifestation.
 
 Other adverse reactions include skin and subcutaneous disorders (skin depigmentation/melanonychia, skin rash, alopecia), gastrointestinal disorders, vitamin D deficiency and headache.
 
-At least one serious adverse reaction was reported in 33% of the 405 pediatric patients with sickle cell disease in ESCORT-HU.
-The most frequent serious adverse reactions were infections (18%), and blood and lymphatic system disorders (9%).
-This included serious neutropenia (3.2%), thrombocytopenia (3%) and anemia (3%).
+At least one serious adverse reaction was reported in 33% of the 405 pediatric patients and 32% of the 1077 adults with sickle cell disease in ESCORT-HU.
+The most frequent serious adverse reactions were infections (18%), and blood and lymphatic system disorders (9%) in children, including serious neutropenia (3.2%), thrombocytopenia (3%) and anemia (3%).
 Other reported serious adverse reactions were gastrointestinal disorders (3.2 %), fever (2.5 %) and nervous system disorders (4%), including headache (2.7%).
+Among adults, the most frequent serious adverse reactions were infections (12.9%), respiratory, thoracic and mediastinal disorders (5.8%), blood and lymphatic disorders (4.8%), nervous system disorders (3.6%), and general disorders and administration site disorders (3.1%).
 
 Table 2: Most frequent (greater than or equal to 2%) adverse reactions reported in pediatric patients enrolled in ESCORT-HU
 
 |  | n | % | n | % | n | % | n | % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Global Safety Set (N=405) | Total |  | Intensity |  |  |  |  |  |
+| Global Safety Set (N=405) | Total |  | Severity |  |  |  |  |  |
 | Mild |  | Moderate |  | Severe |  |  |  |  |
 | At least one adverse reaction | 261 | 64 |  |  |  |  |  |  |
 | Infections | 161 | 40 | 120 | 30 | 88 | 22 | 18 | 4.4 |
@@ -63,17 +63,58 @@ Table 2: Most frequent (greater than or equal to 2%) adverse reactions reported 
 | Renal and urinary disorders | 8 | 2 | 2 | 0.5 | 4 | 1 | 0 | 0 |
 | n: number of patients with an adverse reaction |  |  |  |  |  |  |  |  |
 
+Table 3: Most frequent (greater than or equal to 3%) adverse reactions reported in adult patients enrolled in ESCORT-HU
+
+|  | n | % | n | % | n | % | n | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Global adult safety set (N=1077) | Total |  | Severity |  |  |  |  |  |
+| Mild |  | Moderate |  | Severe |  |  |  |  |
+| At least one adverse reaction | 897 | 84 | 586 | 54 | 617 | 57 | 345 | 32 |
+| Infections | 465 | 43 | 171 | 16 | 240 | 22 | 101 | 9 |
+| Viral infection | 47 | 4.4 | 17 | 1.6 | 21 | 1.9 | 5 | 0.5 |
+| Bacterial infection | 45 | 4.2 | 9 | 0.8 | 27 | 2.5 | 5 | 0.5 |
+| Bronchitis | 41 | 3.8 | 10 | 0.9 | 19 | 1.8 | 3 | 0.3 |
+| Influenza | 40 | 3.7 | 8 | 0.7 | 15 | 1.4 | 5 | 0.5 |
+| Urinary tract infection | 40 | 3.7 | 19 | 1.8 | 11 | 1.0 | 1 | 0.1 |
+| Nasopharyngitis | 40 | 3.7 | 21 | 1.9 | 13 | 1.2 | 1 | 0.1 |
+| Nervous system disorders | 313 | 29 | 131 | 12 | 125 | 12 | 54 | 5 |
+| Headache | 211 | 20 | 84 | 8 | 74 | 7 | 27 | 2.5 |
+| Dizziness | 100 | 9 | 43 | 4.0 | 32 | 3.0 | 9 | 0.8 |
+| General disorders and administration site conditions | 300 | 28 | 111 | 10 | 113 | 10 | 24 | 2.2 |
+| Asthenia | 100 | 9 | 30 | 2.8 | 18 | 1.7 | 10 | 0.9 |
+| Pyrexia | 91 | 8 | 27 | 2.5 | 39 | 3.6 | 4 | 0.4 |
+| Fatigue | 51 | 4.7 | 22 | 2.0 | 17 | 1.6 | 2 | 0.2 |
+| Edema peripheral | 33 | 3.1 | 9 | 0.8 | 13 | 1.2 | 2 | 0.2 |
+| Skin and subcutaneous tissue disorders | 297 | 28 | 160 | 15 | 123 | 11 | 23 | 2.1 |
+| Dry skin | 128 | 12 | 67 | 6.2 | 36 | 3.3 | 5 | 0.5 |
+| Skin ulcer | 80 | 7 | 19 | 1.8 | 44 | 4.1 | 11 | 1.0 |
+| Alopecia | 49 | 4.5 | 31 | 2.9 | 13 | 1.2 | 5 | 0.5 |
+| Gastrointestinal disorders | 267 | 25 | 116 | 11 | 110 | 10 | 25 | 2.3 |
+| Nausea | 69 | 6 | 28 | 2.6 | 26 | 2.4 | 3 | 0.3 |
+| Abdominal pain upper | 52 | 4.8 | 15 | 1.4 | 22 | 2.0 | 5 | 0.5 |
+| Diarrhea | 37 | 3.4 | 10 | 0.9 | 13 | 1.2 |  |  |
+| Respiratory, thoracic and mediastinal disorders | 256 | 24 | 70 | 7 | 103 | 10 | 48 | 4.5 |
+| Cough | 59 | 5.5 | 23 | 2.1 | 21 | 1.9 | 3 | 0.3 |
+| Lung disorder | 51 | 4.7 | 4 | 0.4 | 28 | 2.6 | 16 | 1.5 |
+| Dyspnea | 44 | 4.1 | 12 | 1.1 | 14 | 1.3 | 4 | 0.4 |
+| Blood and lymphatic system disorders | 250 | 23 | 74 | 7 | 121 | 11.2 | 61 | 6 |
+| Anemia | 103 | 10 | 11 | 1.0 | 51 | 4.7 | 37 | 3.4 |
+| Thrombocytopenia | 70 | 7 | 29 | 2.7 | 30 | 2.8 | 13 | 1.2 |
+| Neutropenia | 50 | 4.6 | 24 | 2.2 | 18 | 1.7 | 7 | 0.6 |
+| Musculoskeletal and connective tissue disorders | 247 | 23 | 93 | 9 | 101 | 9 | 25 | 2.3 |
+| Arthralgia | 95 | 9 | 26 | 2.4 | 31 | 2.9 | 7 | 0.6 |
+| Back pain | 48 | 4.5 | 11 | 1.0 | 18 | 1.7 | 6 | 0.6 |
+| Pain in extremity | 33 | 3.1 | 14 | 1.3 | 10 | 0.9 |  |  |
+| Investigations | 198 | 18 | 40 | 3.7 | 47 | 4.4 | 10 | 0.9 |
+| Weight increased | 43 | 4.0 | 15 | 1.4 | 22 | 2.0 | 4 | 0.4 |
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of SIKLOS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Infections and infestations: Parvovirus B19 infection
-- Blood and lymphatic system disorders: bone marrow depression including neutropenia (<2.0 × 109/l), reticulocytopenia (<80 × 109/l), macrocytosis, thrombocytopenia (<80 × 109/l), anemia (hemoglobin <4.5g/dl)
-- Nervous system disorders: headache, dizziness
-- Gastrointestinal disorders: nausea, gastrointestinal disturbances, vomiting, gastrointestinal ulcer, severe hypomagnesemia
+- Blood and lymphatic system disorders: macrocytosis, hemolytic anemia in patients who are treated with hydroxyurea for myeloproliferative disorders.
+- Gastrointestinal disorders: vomiting, gastrointestinal ulcer, severe hypomagnesemia
 - Hepatobiliary disorders: elevation of hepatic enzymes
-- Skin and subcutaneous tissue disorders: skin reactions (oral, ungula and cutaneous pigmentation), oral mucositis, rash, melanonychia, alopecia, leg ulcers, cutaneous dryness
+- Skin and subcutaneous tissue disorders: skin reactions (oral, ungula and cutaneous pigmentation), oral mucositis, rash, melanonychia,
 - Reproductive system and breast disorders: oligospermia, azoospermia, amenorrhea
-- General disorders: fever
-- Investigations: weight gain

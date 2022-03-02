@@ -14,10 +14,13 @@ The correlation between hydroxyurea concentrations, reduction of crisis rate, an
 
 ## 12.3 Pharmacokinetics
 
+Mean peak plasma concentrations and AUCs increase more than proportionally with increase of dose.
+There is no drug accumulation upon once daily dosing of hydroxyurea.
+
 Absorption
 
 Following oral administration, hydroxyurea reaches peak plasma concentrations in 1 to 4 hours.
-Mean peak plasma concentrations and AUCs increase more than proportionally with increase of dose.
+The oral bioavailability of hydroxyurea was reported to be 85 -100%.
 
 Effect of Food
 
@@ -29,6 +32,8 @@ Hydroxyurea distributes throughout the body with a volume of distribution approx
 Hydroxyurea concentrates in leukocytes and erythrocytes.
 
 Elimination
+
+Half-life of hydroxyurea is about 2-4 hours.
 
 Metabolism
 

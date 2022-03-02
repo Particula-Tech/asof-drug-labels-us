@@ -7,7 +7,7 @@ Do not initiate treatment with hydroxyurea in patients if bone marrow function i
 Bone marrow suppression may occur, and leukopenia is generally its first and most common manifestation.
 Thrombocytopenia and anemia occur less often, and are seldom seen without a preceding leukopenia.
 
-Some patients, treated at the recommended initial dose of 20 mg/kg/day, have experienced severe or life-threatening myelosuppression.
+Some patients, treated at the recommended initial dose of 15 mg/kg/day in adults or 20 mg/kg/day in children, have experienced severe or life-threatening myelosuppression.
 Due to the change in body weight requiring modification of daily dose, pediatric patients have an increased risk of myelosuppression at the time of dose adjustment.
 
 Evaluate hematologic status prior to and every two weeks during treatment with SIKLOS.
@@ -19,6 +19,10 @@ Resume therapy after interruption at a lower dose [see Dosage and Administration
 
 Hydroxyurea is a human carcinogen.
 In patients receiving long-term hydroxyurea for myeloproliferative disorders (a condition for which Siklos is not approved), secondary leukemia has been reported.
+
+Leukemia secondary to long-term hydroxyurea has also been reported in patients with sickle cell disease.
+Leukemia has also been reported in patients with sickle cell disease and no prior history of treatment with hydroxyurea.
+
 Skin cancer has also been reported in patients receiving long-term hydroxyurea.
 Advise protection from sun exposure and monitor for the development of secondary malignancies.
 
@@ -31,7 +35,7 @@ Advise pregnant women of the potential risk to a fetus [see Use in Specific Popu
 Advise females of reproductive potential to use effective contraception during and after treatment with SIKLOS for at least 6 months after therapy.
 Advise males of reproductive potential to use effective contraception during and after treatment with SIKLOS for at least 6 months after therapy [see Use in Specific Populations (8.1, 8.3)].
 
-## 5.4 Vasculitic Toxicities (including Leg Ulcers)
+## 5.4 Vasculitic Toxicities (Including Leg Ulcers)
 
 Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea.
 These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy.
@@ -61,3 +65,9 @@ Prophylactic administration of folic acid is recommended.
 ## 5.8 Test Interference
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.3)].
+
+## 5.9 Hemolytic Anemia
+
+Cases of hemolytic anemia in patients treated with hydroxyurea for myeloproliferative diseases have been reported [see Adverse Reactions (6.1)].
+Patients who develop acute jaundice or hematuria in the presence of persistent or worsening of anemia should have laboratory tests evaluated for hemolysis (e.g., measurement of serum lactate dehydrogenase, haptoglobin, reticulocyte, unconjugated bilirubin levels, urinalysis, and direct and indirect antiglobulin [Coombs] tests).
+In the setting of confirmed diagnosis of hemolytic anemia not related to the disease and in the absence of other causes, discontinue SIKLOS.

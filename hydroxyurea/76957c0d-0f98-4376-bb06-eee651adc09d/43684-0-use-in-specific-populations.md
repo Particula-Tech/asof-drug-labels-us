@@ -97,6 +97,6 @@ The safety and effectiveness of SIKLOS have not been established in pediatric pa
 The exposure to SIKLOS is higher in patients with creatinine clearance of less than 60 mL/min.
 Reduce dosage and closely monitor the hematologic parameters when SIKLOS is to be administered to these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic impairment
+## 8.7 Hepatic Impairment
 
 Monitor hematologic parameters more frequently in patients with hepatic impairment receiving SIKLOS.
