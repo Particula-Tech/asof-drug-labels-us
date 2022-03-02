@@ -34,16 +34,16 @@ There were no statistically significant differences between the NEUPOGEN and the
 The safety and efficacy of NEUPOGEN to reduce the duration of neutropenia in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by autologous bone marrow transplantation was evaluated in 2 randomized controlled trials of patients with lymphoma (Study 6 and Study 9).
 The safety and efficacy of NEUPOGEN to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo-controlled trial (Study 10).
 
-In Study 6, patients with Hodgkin’s disease received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”), and patients with non-Hodgkin’s lymphoma received intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
+In Study 6, patients with Hodgkin's disease received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU ("CVP"), and patients with non-Hodgkin's lymphoma received intravenous BCNU, etoposide, cytosine arabinoside and melphalan ("BEAM").
 There were 54 patients randomized 1:1:1 to control, NEUPOGEN 10 mcg/kg/day, and NEUPOGEN 30 mcg/kg/day as a 24-hour continuous infusion starting 24 hours after bone marrow infusion for a maximum of 28 days.
-The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin’s disease and 31% non-Hodgkin’s lymphoma.
+The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin's disease and 31% non-Hodgkin's lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
 A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group, and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 
-In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
+In Study 9, patients with Hodgkin's disease and non-Hodgkin's lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU ("CVP").
 There were 43 evaluable patients randomized to continuous subcutaneous infusion NEUPOGEN 10 mcg/kg/day (n = 19), NEUPOGEN 30 mcg/kg/day (n = 10) and no treatment (n = 14) starting the day after marrow infusion for a maximum of 28 days.
-The median age was 33 (range 17 to 56) years; 67% males; 28% Hodgkin’s disease and 72% non-Hodgkin’s lymphoma.
+The median age was 33 (range 17 to 56) years; 67% males; 28% Hodgkin's disease and 72% non-Hodgkin's lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia.
 There was statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) in the NEUPOGEN-treated groups versus the control group (21.5 days in the control group versus 10 days in the NEUPOGEN-treated groups, p < 0.001).
@@ -65,10 +65,10 @@ Two of the 64 patients (3%) did not achieve the criteria for engraftment as defi
 In clinical trials of NEUPOGEN for the mobilization of hematopoietic progenitor cells‚ NEUPOGEN was administered to patients at doses between 5 to 24 mcg/kg/day after reinfusion of the collected cells until a sustainable ANC (≥ 500/mm3) was reached.
 The rate of engraftment of these cells in the absence of NEUPOGEN post transplantation has not been studied.
 
-Study 11 was a randomized, unblinded study of patients with Hodgkin’s disease or non-Hodgkin’s lymphoma undergoing myeloablative chemotherapy‚ 27 patients received NEUPOGEN-mobilized autologous hematopoietic progenitor cells and 31 patients received autologous bone marrow.
-The preparative regimen was intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
+Study 11 was a randomized, unblinded study of patients with Hodgkin's disease or non-Hodgkin's lymphoma undergoing myeloablative chemotherapy‚ 27 patients received NEUPOGEN-mobilized autologous hematopoietic progenitor cells and 31 patients received autologous bone marrow.
+The preparative regimen was intravenous BCNU, etoposide, cytosine arabinoside and melphalan ("BEAM").
 Patients received daily NEUPOGEN 24 hours after stem cell infusion at a dose of 5 mcg/kg/day.
-The median age was 33 (range 1 to 59) years; 64% males; 57% Hodgkin’s disease and 43% non-Hodgkin’s lymphoma.
+The median age was 33 (range 1 to 59) years; 64% males; 57% Hodgkin's disease and 43% non-Hodgkin's lymphoma.
 The main efficacy endpoint was number of days of platelet transfusions.
 Patients randomized to NEUPOGEN-mobilized autologous peripheral blood progenitor cells compared to autologous bone marrow had significantly fewer days of platelet transfusions (median 6 vs 10 days).
 

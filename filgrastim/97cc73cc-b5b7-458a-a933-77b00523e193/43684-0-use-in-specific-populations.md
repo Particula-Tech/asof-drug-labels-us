@@ -41,7 +41,7 @@ There is published literature documenting transfer of filgrastim into human milk
 There are a few case reports describing the use of filgrastim in breastfeeding mothers with no adverse effects noted in the infants.
 There are no data on the effects of filgrastim on milk production.
 Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NEUPOGEN and any potential adverse effects on the breastfed child from NEUPOGEN or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NEUPOGEN and any potential adverse effects on the breastfed child from NEUPOGEN or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -59,7 +59,7 @@ Of the 731 patients in the surveillance study, 429 were pediatric patients < 18 
 Long-term follow-up data from the postmarketing surveillance study suggest that height and weight are not adversely affected in patients who received up to 5 years of NEUPOGEN treatment.
 Limited data from patients who were followed in the phase 3 study for 1.5 years did not suggest alterations in sexual maturation or endocrine function.
 
-Pediatric patients with congenital types of neutropenia (Kostmann’s syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN treatment.
+Pediatric patients with congenital types of neutropenia (Kostmann's syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN treatment.
 The relationship of these events to NEUPOGEN administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
 
 The use of NEUPOGEN to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on studies conducted in animals and clinical data supporting the use of NEUPOGEN in other approved indications [see Dosage and Administration (2.1 to 2.4) and Clinical Studies (14.6)].

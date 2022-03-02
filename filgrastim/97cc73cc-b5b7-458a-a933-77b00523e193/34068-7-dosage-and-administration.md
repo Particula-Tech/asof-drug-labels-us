@@ -10,6 +10,7 @@ Recommend stopping NEUPOGEN if the ANC increases beyond 10‚000/mm3 [see Warnin
 Administer NEUPOGEN at least 24 hours after cytotoxic chemotherapy.
 Do not administer NEUPOGEN within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.13)].
 A transient increase in neutrophil count is typically seen 1 to 2 days after initiation of NEUPOGEN therapy.
+
 Therefore, to ensure a sustained therapeutic response‚ administer NEUPOGEN daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
 The duration of NEUPOGEN therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
 
@@ -47,7 +48,7 @@ The recommended starting dosage in patients with Congenital Neutropenia is 6 mcg
 Dosage Adjustments in Patients with Severe Chronic Neutropenia
 
 Chronic daily administration is required to maintain clinical benefit.
-Individualize the dosage based on the patient’s clinical course as well as ANC.
+Individualize the dosage based on the patient's clinical course as well as ANC.
 In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN were: 6 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
 In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN greater than or equal to 100 mcg/kg/day.
 
@@ -62,7 +63,7 @@ Thereafter, if the patient is clinically stable, less frequent routine monitorin
 The recommended dose of NEUPOGEN is 10 mcg/kg as a single daily subcutaneous injection for patients exposed to myelosuppressive doses of radiation.
 Administer NEUPOGEN as soon as possible after suspected or confirmed exposure to radiation doses greater than 2 gray (Gy).
 
-Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
+Estimate a patient's absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
 
 Obtain a baseline CBC and then serial CBCs approximately every third day until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs.
 Do not delay administration of NEUPOGEN if a CBC is not readily available.

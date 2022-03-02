@@ -19,7 +19,7 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
 - Glomerulonephritis may occur.
   Symptoms include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
-- There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive Neupogen and in patients with breast and lung cancer who receive Neupogen in conjunction with chemotherapy and/or radiation therapy.
+- There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive NEUPOGEN and in patients with breast and lung cancer who receive NEUPOGEN in conjunction with chemotherapy and/or radiation therapy.
   Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding.
   Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
 - Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
@@ -39,17 +39,3 @@ Instruct patients who self-administer NEUPOGEN using the prefilled syringe or si
   If difficulty occurs, use of the NEUPOGEN vial may be considered.
 - Difference in product concentration of the NEUPOGEN prefilled syringe in comparison to the NEUPOGEN vial.
   When switching patients from the NEUPOGEN prefilled syringe to the NEUPOGEN vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of NEUPOGEN differs between the prefilled syringe and the vial.
-
-NEUPOGEN® (filgrastim)
-
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License Number 1080
-
-Patent: http://pat.amgen.com/neupogen/
-
-© 1991-2021 Amgen Inc. All rights reserved.
-
-www.NEUPOGEN.com 1-800-77-AMGEN (1-800-772-6436)
-
-1xxxxxx
-
-v33

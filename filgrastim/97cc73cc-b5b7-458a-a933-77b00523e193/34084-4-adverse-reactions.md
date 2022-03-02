@@ -26,7 +26,7 @@ The following adverse reaction data in Table 2 are from three randomized, placeb
 
 - small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide (Study 1)
 - small cell lung cancer receiving ifosfamide, doxorubicin‚ and etoposide (Study 2), and
-- non-Hodgkin’s lymphoma (NHL) receiving doxorubicin, cyclophosphamide, vindesine, bleomycin, methylprednisolone, and methotrexate (“ACVBP”) or mitoxantrone, ifosfamide, mitoguazone, teniposide, methotrexate, folinic acid, methylprednisolone, and methotrexate (“VIM3”) (Study 3).
+- non-Hodgkin's lymphoma (NHL) receiving doxorubicin, cyclophosphamide, vindesine, bleomycin, methylprednisolone, and methotrexate ("ACVBP") or mitoxantrone, ifosfamide, mitoguazone, teniposide, methotrexate, folinic acid, methylprednisolone, and methotrexate ("VIM3") (Study 3).
 
 A total of 451 patients were randomized to receive subcutaneous NEUPOGEN 230 mcg/m2 (Study 1), 240 mcg/m2 (Study 2) or 4 or 5 mcg/kg/day (Study 3) (n = 294) or placebo (n = 157).
 The patients in these studies were median age 61 (range 29 to 78) years and 64% were male.
@@ -149,7 +149,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - capillary leak syndrome [see Warnings and Precautions (5.7)]
 - leukocytosis [see Warnings and Precautions (5.10)]
 - cutaneous vasculitis [see Warnings and Precautions (5.11)]
-- Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- Sweet's syndrome (acute febrile neutrophilic dermatosis)
 - decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with NEUPOGEN
 - myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
 - aortitis [see Warnings and Precautions (5.15)]

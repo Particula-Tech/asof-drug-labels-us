@@ -24,7 +24,7 @@ Single-dose, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe®
 
 The needle cap of the prefilled syringe contains dry natural rubber (a derivative of latex) [see Dosage and Administration (2.6)].
 
-Store NEUPOGEN at 2° to 8°C (36° to 46°F) in the carton to protect from light.
+Store NEUPOGEN at 2°C to 8°C (36°F to 46°F) in the carton to protect from light.
 Do not leave NEUPOGEN in direct sunlight.
 Avoid freezing; if frozen, thaw in the refrigerator before administration.
 Discard NEUPOGEN if frozen more than once.
