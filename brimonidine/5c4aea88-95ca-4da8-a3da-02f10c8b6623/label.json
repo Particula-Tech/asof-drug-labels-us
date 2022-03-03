@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021262"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Pacific Pharma, Inc.",
+  "package_ndcs": [
+    "82182-773-05",
+    "82182-773-10",
+    "82182-773-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate",
+      "name": "Brimonidine tartrate"
+    }
+  ],
+  "setid": "5c4aea88-95ca-4da8-a3da-02f10c8b6623",
+  "source": "dailymed"
+}
