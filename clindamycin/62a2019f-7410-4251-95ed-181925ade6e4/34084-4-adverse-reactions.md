@@ -4,16 +4,16 @@ In 18 clinical studies of various formulations of Clindamycin Phosphate using pl
 
 Number of Patients Reporting Events
 
-| Treatment Emergent Adverse Event |  | Solution |  |  | Gel |  |  | Lotion |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | n=553 | (%) |  | n=148 | (%) |  | n=160 | (%) |
-| Burning |  | 62 | (11) |  | 15 | (10) |  | 17 | (11) |
-| Itching |  | 36 | (7) |  | 15 | (10) |  | 17 | (11) |
-| Burning/Itching |  | 60 | (11) |  | # | (–) |  | # | (–) |
-| Dryness |  | 105 | (19) |  | 34 | (23) |  | 29 | (18) |
-| Erythema |  | 86 | (16) |  | 10 | (7) |  | 22 | (14) |
-| Oiliness/Oily Skin |  | 8 | (1) |  | 26 | (18) |  | 12* | (10) |
-| Peeling |  | 61 | (11) |  | # | (–) |  | 11 | (7) |
+| Treatment Emergent Adverse Event | Solution |  | Gel |  | Lotion |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | n=553 | (%) | n=148 | (%) | n=160 | (%) |
+| Burning | 62 | (11) | 15 | (10) | 17 | (11) |
+| Itching | 36 | (7) | 15 | (10) | 17 | (11) |
+| Burning/Itching | 60 | (11) | # | (–) | # | (–) |
+| Dryness | 105 | (19) | 34 | (23) | 29 | (18) |
+| Erythema | 86 | (16) | 10 | (7) | 22 | (14) |
+| Oiliness/Oily Skin | 8 | (1) | 26 | (18) | 12* | (10) |
+| Peeling | 61 | (11) | # | (–) | 11 | (7) |
 
 # not recorded
 
