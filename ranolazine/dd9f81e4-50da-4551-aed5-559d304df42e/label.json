@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA216018"
+  ],
+  "inn": "ranolazine",
+  "labeler": "SUN PHARMACEUTICAL INDUSTRIES, INC.",
+  "package_ndcs": [
+    "47335-624-11",
+    "47335-624-30",
+    "47335-624-60",
+    "47335-625-11",
+    "47335-625-30",
+    "47335-625-60"
+  ],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "ranolazine",
+      "name": "ASPRUZYO SPRINKLE"
+    }
+  ],
+  "setid": "dd9f81e4-50da-4551-aed5-559d304df42e",
+  "source": "dailymed"
+}
