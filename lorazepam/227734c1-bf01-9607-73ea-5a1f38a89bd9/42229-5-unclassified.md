@@ -1,5 +1,7 @@
-Brands listed are trademarks of their respective owners.
-
 Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
-PI658-00
+Loreev XR is protected by U.S. Patent No. 8,999,393.
+
+Loreev XR is a registered trademark of Almatica Pharma LLC.
+
+PI658-01

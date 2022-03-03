@@ -12,6 +12,7 @@ Risk Summary
 Infants born to mothers using benzodiazepines during the later stages of pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8), Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 Available data from observational studies have identified a small increased relative risk with benzodiazepine use in early pregnancy and miscarriage, and a small increase in relative risk with benzodiazepine use later in pregnancy and preterm birth (see Data).
+
 In animal studies, administration of lorazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically.
 Data for benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Data).
 

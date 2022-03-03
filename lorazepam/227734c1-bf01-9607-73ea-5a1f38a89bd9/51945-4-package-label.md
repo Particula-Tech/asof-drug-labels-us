@@ -12,6 +12,16 @@ Contains FD&C Yellow No. 5 (tartrazine) as a color additive.
 
 # PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
 
+NDC 52427-661-30
+
+Loreev XR® CIV (lorazepam) Extended-Release Capsules
+
+1.5 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
+
 NDC 52427-663-30
 
 Loreev XR® CIV (lorazepam) Extended-Release Capsules
