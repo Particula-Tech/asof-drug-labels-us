@@ -1,11 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CYSTARAN (cysteamine ophthalmic solution) 0.44% is supplied in a 15 mL, opaque, white, low-density polyethylene (LDPE) bottle with a 15 mm white, LDPE controlled dropper tip and closed with a white, polypropylene screw cap.
+Fifteen (15) mL of CYSTARAN (cysteamine ophthalmic solution) 0.44% is supplied in the following bottles:
+
+- an opaque, white, low-density polyethylene (LDPE) 70 mm tall bottle with a 15 mm white, LDPE controlled dropper tip and closed with a white, polypropylene screw cap.
+  The bottle is stored in a carton.
+  NDC 54482-020-01
+- an opaque, white, LDPE 88 mm tall bottle with a 1.6 mm blue, silicone rubber flow-controlled dropper tip and closed with a white, high-density polyethylene (HDPE) screw cap.
+  The bottle is foil-wrapped and stored in a carton.
+  NDC 54482-020-02
 
 Storage: Store in freezer at -25°C to -15°C (-13°F to 5°F) in the original carton.
 Thaw for approximately 24 hours before use.
 Store thawed bottle at 2°C to 25°C (36°F to 77°F) for up to 1 week.
+The thawed bottle does not require refrigeration between use.
 Do not refreeze the thawed medication.
 Discard after 1 week of use.
-
-NDC 54482-020-01

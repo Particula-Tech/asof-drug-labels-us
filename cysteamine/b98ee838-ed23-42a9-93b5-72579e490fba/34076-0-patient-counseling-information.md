@@ -8,7 +8,7 @@ Storage of Bottles
 4. After the bottle is completely thawed, the patient should record the discard date on the bottle label.
    The discard date is seven (7) days from the day the bottle is thawed.
 5. Patients should be advised to store thawed bottle at 2°C to 25°C (36°F to 77°F) for up to 1 week.
-   The thawed bottles should not be refrozen.
+   The thawed bottle does not require refrigeration between use and should not be refrozen.
 6. At the end of 1 week (7 days), patients should discard the bottle.
    There may be medication left in the bottle; however, the bottle must be discarded by the patient because the medication is only stable for 1 week after thawing.
 
