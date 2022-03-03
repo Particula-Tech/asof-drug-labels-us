@@ -6,7 +6,7 @@ Amphetamine Sulfate Tablets USP, 5 mg
 
 CII
 
-Rx Only
+Rx only
 
 100 Tablets
 
@@ -18,7 +18,7 @@ Amphetamine Sulfate Tablets USP, 10 mg
 
 CII
 
-Rx Only
+Rx only
 
 100 Tablets
 
