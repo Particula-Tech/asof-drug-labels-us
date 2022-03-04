@@ -9,7 +9,7 @@ A total of 357 adults (age 18 to 60 years) with complex partial seizures, with o
 Patients were required to be on an adequate and stable dose of an anticonvulsant, and have a history of failure on an adequate regimen of carbamazepine or phenytoin.
 Patients had a history of about 8 seizures per month (median) for about 20 years (median) prior to entrance into the study.
 These studies were not capable by design of demonstrating direct superiority of vigabatrin over any other anticonvulsant added to a regimen to which the patient had not adequately responded.
-Further, in these studies, patients had previously been treated with a limited range of anticonvulsants.
+Further, in these studies patients had previously been treated with a limited range of anticonvulsants.
 
 The primary measure of efficacy was the patient’s reduction in mean monthly frequency of complex partial seizures plus partial seizures secondarily generalized at end of study compared to baseline.
 

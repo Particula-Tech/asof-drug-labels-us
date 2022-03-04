@@ -53,7 +53,7 @@ If a decision is made to breastfeed, nursing mothers should be counseled to obse
 Withdrawal of Vigabatrin Therapy
 
 Instruct patients and caregivers not to suddenly discontinue vigabatrin therapy without consulting with their healthcare provider.
-As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.6)].
+As with all AEDs, withdrawal should be gradual [see Warnings and Precautions (5.6)].
 
 Distributed by:
 
@@ -62,4 +62,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-01-2020-04
+02-2022-05

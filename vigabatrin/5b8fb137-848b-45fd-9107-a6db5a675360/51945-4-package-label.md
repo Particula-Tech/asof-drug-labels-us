@@ -4,7 +4,7 @@ NDC 69238-1425-1
 
 Vigabatrin Oral Solution
 
-Rx Only
+Rx only
 
 Single Packet
 
@@ -14,7 +14,7 @@ NDC 69238-1425-5
 
 Vigabatrin Oral Solution
 
-Rx Only
+Rx only
 
 Carton of 50 Packets
 

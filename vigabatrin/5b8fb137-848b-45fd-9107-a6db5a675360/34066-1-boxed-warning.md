@@ -9,10 +9,10 @@
 - Vision assessment is recommended at baseline (no later than 4 weeks after starting vigabatrin), at least every 3 months during therapy, and about 3 to 6 months after the discontinuation of therapy.
 - Once detected, vision loss due to vigabatrin is not reversible.
   It is expected that, even with frequent monitoring, some patients will develop severe vision loss.
-- Consider drug discontinuation, balancing benefit and risk, if vision loss is documented.
+- Consider drug discontinuation, balancing benefit and risk, if visual loss is documented.
 - Risk of new or worsening vision loss continues as long as vigabatrin is used.
   It is possible that vision loss can worsen despite discontinuation of vigabatrin.
-- Because of the risk of vision loss, vigabatrin should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2 to 4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious.
+- Because of the risk of visual loss, vigabatrin should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2 to 4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious.
   Patient response to and continued need for vigabatrin should be periodically reassessed.
 - Vigabatrin should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks.
 - Vigabatrin should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks.
