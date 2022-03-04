@@ -29,7 +29,7 @@ Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | --- | --- | --- |
 |  | Atomoxetine Hydrochloride (N=1597) | Placebo(N=934) |
 | Gastrointestinal Disorders |  |  |
-| Abdominal Painb | 18 | 10 |
+| Abdominal painb | 18 | 10 |
 | Vomiting | 11 | 6 |
 | Nausea | 10 | 5 |
 | General Disorders and Administration Site Conditions |  |  |
@@ -100,7 +100,7 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class/Adverse Reaction | Atomoxetine Hydrochloride (N=1697) | Placebo(N=1560) |
+|  | Atomoxetine Hydrochloride (N=1697) | Placebo(N=1560) |
 | Cardiac Disorders |  |  |
 | Palpitations | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -177,11 +177,11 @@ Cardiovascular system – QT prolongation, syncope.
 
 Peripheral vascular effects — Raynaud’s phenomenon
 
-General Disorders and Administration Site Conditions — Lethargy.
+General disorders and administration site conditions — Lethargy.
 
 Musculoskeletal system — Rhabdomyolysis
 
-Nervous System Disorders — Hypoaesthesia, paraesthesia in children and adolescents; sensory disturbances; tics
+Nervous system disorders — Hypoaesthesia, paraesthesia in children and adolescents; sensory disturbances; tics
 
 Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
 

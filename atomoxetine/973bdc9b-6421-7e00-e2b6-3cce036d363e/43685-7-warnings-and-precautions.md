@@ -36,7 +36,7 @@ Such reactions may occur several months after therapy is started, but laboratory
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 
 Atomoxetine hydrochloride should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted.
-Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17.3)].
+Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17)].
 
 ## 5.3 Serious Cardiovascular Events
 
@@ -157,7 +157,7 @@ Growth should be monitored during treatment with atomoxetine hydrochloride.
 
 Routine laboratory tests are not required.
 
-CYP2D6 Metabolism - Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
+CYP2D6 metabolism - Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
 Approximately 7% of a Caucasian population are PMs.
 Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
@@ -167,4 +167,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of atomoxetine hydrochloride may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-[see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+[see Dosage and Administration (2.5) and Drug Interactions (7.2)].

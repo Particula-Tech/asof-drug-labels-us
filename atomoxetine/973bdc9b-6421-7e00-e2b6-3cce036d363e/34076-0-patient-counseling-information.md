@@ -2,35 +2,31 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-General Information
-
-Physicians should instruct their patients to read the Medication Guide before starting therapy with atomoxetine hydrochloride and to reread it each time the prescription is renewed.
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with atomoxetine hydrochloride and should counsel them in its appropriate use.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking atomoxetine hydrochloride.
-
 Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, depression, and suicidal ideation, especially early during atomoxetine hydrochloride treatment and when the dose is adjusted.
 Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1)].
 
 Severe Liver Injury
 
 Patients initiating atomoxetine hydrochloride should be cautioned that severe liver injury may develop.
-Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms.
+Patients should be instructed to contact their healthcare provider immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms.
 [See Warnings and Precautions (5.2)].
+
+Screening Patients for Bipolar Disorder
+
+Instruct patients and their caregivers to look for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
 Aggression or Hostility
 
-Patients should be instructed to call their doctor as soon as possible should they notice an increase in aggression or hostility.
+Instruct patients and their caregivers to contact their healthcare provider as soon as possible should they notice an increase in aggression or hostility [see Warnings and Precautions (5.7)].
 
 Priapism
 
 Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine hydrochloride.
-The parents or guardians of pediatric patients taking atomoxetine hydrochloride and adult patients taking atomoxetine hydrochloride should be instructed that priapism requires prompt medical attention.
+The parents or guardians of pediatric patients taking atomoxetine hydrochloride and adult patients taking atomoxetine hydrochloride should be instructed that priapism requires prompt medical attention [see Warnings and Precautions (5.10)].
 
 Ocular Irritant
 
@@ -41,7 +37,7 @@ Hands and any potentially contaminated surfaces should be washed as soon as poss
 
 Drug-Drug Interaction
 
-Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
+Patients should be instructed to consult a healthcare provider if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
 
 Pregnancy Registry
 
@@ -69,4 +65,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised: 0320
+Revised: 0122
