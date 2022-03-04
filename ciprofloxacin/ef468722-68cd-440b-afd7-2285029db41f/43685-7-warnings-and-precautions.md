@@ -94,9 +94,9 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.11 Clostridium difficile -Associated Diarrhea
+## 5.11 Clostridioides difficile -Associated Diarrhea
 
-Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -133,7 +133,7 @@ Discontinue ciprofloxacin if phototoxicity occurs [see Adverse Reactions (6.1)].
 
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.16 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.16 Potential Risks With Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
 Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

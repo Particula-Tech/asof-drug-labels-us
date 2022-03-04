@@ -23,14 +23,14 @@ The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier 
 
 ## 1.6 Uncomplicated Cervical and Urethral Gonorrhea
 
-Ciprofloxacin is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae[see Warnings and Precautions (5.17)].
+Ciprofloxacin is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.17)].
 
 ## 1.7 Inhalational Anthrax (Post-Exposure)
 
 Ciprofloxacin is indicated in adults and pediatric patients from birth to 17 years of age for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication1.
-Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001 [see Clinical Studies (14.2)].
+Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.
+1Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001 [see Clinical Studies (14.2)].
 
 ## 1.8 Plague
 

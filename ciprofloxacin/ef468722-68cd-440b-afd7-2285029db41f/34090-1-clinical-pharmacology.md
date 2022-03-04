@@ -9,7 +9,7 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 Absorption
 
 The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
-Ciprofloxacin maximum serum concentrations (Cmax)and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
+Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
 | Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of Ciprofloxacin Tablets to Healthy Subjects |  |  |
 | --- | --- | --- |
@@ -26,20 +26,17 @@ Serum concentrations increase proportionately with doses up to 1000 mg.
 
 A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
-A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13).
+A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose (Table 13).
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours.
 
-| Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects |  |  |  |  |
+| Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses (Adults) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 8 hours, intravenous |
-| AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
-| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+|  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
+| AUC0-24h,ss (μg•h/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
+| Cmax,ss (μg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
-1.
-AUC 0–12h 2.
-AUC 24h = AUC 0–12h x 2 3.
-AUC 24h = AUC 0–8h x 3
+*AUC 0–12h x 2 **AUC 0-8h x 3
 
 Food When ciprofloxacin tablet is given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
 The overall absorption of ciprofloxacin tablet, however, is not substantially affected.
@@ -177,8 +174,8 @@ Gram-positive bacteria Bacillus anthracis Enterococcus faecalis Staphylococcus a
 Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤ 1 mcg/mL).
-However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin against isolates of similar genus or organism group.
+However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 
