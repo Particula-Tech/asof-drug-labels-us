@@ -72,6 +72,9 @@ Pediatric Patients: The dosage regimen for daptomycin for injection in pediatric
 
 ## 2.7 Preparation and Administration of Daptomycin for Injection
 
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
+Carefully follow the reconstitution and storage procedures described in this labeling.
+
 Reconstitution of Daptomycin for Injection Vial
 
 Daptomycin for injection is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized cake or powder.
@@ -141,7 +144,7 @@ The combined storage time (reconstituted solution in vial and diluted solution i
 
 ## 2.8 Compatible Intravenous Solutions
 
-Daptomycin for injection is compatible with 0.9% sodium chloride injection and lactated Ringer’s injection.
+Daptomycin for injection is compatible with 0.9% sodium chloride injection and Lactated Ringer’s injection.
 
 ## 2.9 Incompatibilities
 
