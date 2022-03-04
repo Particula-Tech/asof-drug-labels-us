@@ -7,9 +7,11 @@ Healthcare providers are encouraged to register patients by contacting the Natio
 Risk Summary Neonates exposed to antipsychotic drugs, including ziprasidone hydrochloride, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone hydrochloride, during pregnancy (see Clinical Considerations).
+
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
 Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
 (see Data).
+
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -30,6 +32,7 @@ The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based 
 In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD based on mg/m2 body surface area) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
 Doses of 40 and 160 mg/kg/day (2 and 8 times the MRHD based on mg/m2 body surface area) were associated with maternal toxicity.
 The developmental no-effect dose is 5 mg/kg/day (0.2 times the MRHD based on mg/m2 body surface area).
+
 There was an increase in the number of pups born dead and a decrease in postnatal survival through the first 4 days of lactation among the offspring of female rats treated during gestation and lactation with doses of 10 mg/kg/day (0.5 times the MRHD based on mg/m2 body surface area) or greater.
 Offspring developmental delays (decreased pup weights) and neurobehavioral functional impairment (eye opening air righting) were observed at doses of 5 mg/kg/day (0.2 times the MRHD based on mg/m2 body surface area) or greater.
 A no-effect level was not established for these effects.
@@ -48,7 +51,11 @@ Infertility Females Based on the pharmacologic action of ziprasidone (D2 antagon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ziprasidone in pediatric patients have not been established.
+The safety and effectiveness of ziprasidone hydrochloride have not been established in pediatric patients.
+
+Ziprasidone hydrochloride was studied in one 4-week, placebo-controlled trial in patients 10 to 17 years of age with bipolar I disorder.
+However, the data were insufficient to fully assess the safety of ziprasidone hydrochloride in pediatric patients.
+Therefore, a safe and effective dose for use could not be established.
 
 ## 8.5 Geriatric Use
 

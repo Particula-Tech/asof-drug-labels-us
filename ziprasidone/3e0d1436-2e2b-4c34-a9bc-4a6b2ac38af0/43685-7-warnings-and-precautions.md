@@ -16,7 +16,7 @@ Ziprasidone hydrochloride is not approved for the treatment of patients with dem
 
 ## 5.3 QT Prolongation and Risk of Sudden Death
 
-Ziprasidone use should be avoided in combination with other drugs that are known to prolong the QTc interval [see Contraindications (4.1), and Drug Interactions (7.4)].
+Ziprasidone use should be avoided in combination with other drugs that are known to prolong the QTc interval [see Contraindications (4.1) and Drug Interactions (7.4)].
 Additionally, clinicians should be alert to the identification of other drugs that have been consistently observed to prolong the QTc interval.
 Such drugs should not be prescribed with ziprasidone.
 Ziprasidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias [see Contraindications (4)].
@@ -30,7 +30,7 @@ The mean increase in QTc from baseline for ziprasidone ranged from approximately
 
 In the second phase of the study, the effect of ziprasidone on QTc length was not augmented by the presence of a metabolic inhibitor (ketoconazole 200 mg twice daily).
 
-In placebo-controlled trials, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
+In placebo-controlled trials in adults, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
 In clinical trials with oral ziprasidone, the electrocardiograms of 2/2988 (0.06%) patients who received ziprasidone hydrochloride and 1/440 (0.23%) patients who received placebo revealed QTc intervals exceeding the potentially clinically relevant threshold of 500 msec.
 In the ziprasidone-treated patients, neither case suggested a role of ziprasidone.
 One patient had a history of prolonged QTc and a screening measurement of 489 msec; QTc was 503 msec during ziprasidone treatment.
@@ -62,11 +62,14 @@ For patients taking ziprasidone who experience symptoms that could indicate the 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with administration of antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+
 The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to exclude cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology.
+
 The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for NMS.
+
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
@@ -76,6 +79,7 @@ Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Drug Reaction with
 DRESS consists of a combination of three or more of the following: cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, lymphadenopathy and one or more systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and pericarditis.
 DRESS is sometimes fatal.
 Discontinue ziprasidone if DRESS is suspected.
+
 Other severe cutaneous adverse reactions Other severe cutaneous adverse reactions, such as Stevens-Johnson syndrome, have been reported with ziprasidone exposure.
 Severe cutaneous adverse reactions are sometimes fatal.
 Discontinue ziprasidone if severe cutaneous adverse reactions are suspected.
@@ -85,15 +89,19 @@ Discontinue ziprasidone if severe cutaneous adverse reactions are suspected.
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients undergoing treatment with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
+
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
+
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+
 Given these considerations, ziprasidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
+
 If signs and symptoms of tardive dyskinesia appear in a patient on ziprasidone, drug discontinuation should be considered.
 However, some patients may require treatment with ziprasidone despite the presence of the syndrome.
 
@@ -102,20 +110,23 @@ However, some patients may require treatment with ziprasidone despite the presen
 Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
 While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+
 Hyperglycemia and Diabetes Mellitus Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia or diabetes in patients treated with ziprasidone hydrochloride.
 Although fewer patients have been treated with ziprasidone hydrochloride, it is not known if this more limited experience is the sole reason for the paucity of such reports.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
-Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia- related adverse reactions is not completely understood.
+Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
 Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
+
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
+
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 1-4.
 Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20-40 mg BID) or high (60-80 mg BID) dose based on the subject’s modal daily dose.
-In the tables showing categorical changes, the percentages (% column) are calculated as 100x (n/N).
+In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
 
 Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -125,7 +136,7 @@ Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
 
-*”Random” glucose measurements - fasting/non-fasting status unknown
+*"Random" glucose measurements - fasting/non-fasting status unknown
 
 Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -136,7 +147,7 @@ Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Con
 | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 159 | 54 (34.0%) |  |
 | Placebo | 66 | 22 (33.3%) |  |  |
 
-*”Random” glucose measurements – fasting/non-fasting status unknown
+*"Random" glucose measurements – fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20-40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60-80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
 
@@ -173,7 +184,7 @@ Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 | Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
 | Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10.0 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
 
-*”Random” lipid measurements, fasting/non-fasting status unknown
+*"Random" lipid measurements, fasting/non-fasting status unknown
 
 Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -192,7 +203,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |  |
 | Placebo | 82 | 22 (26.8%) |  |  |
 
-*”Random” lipid measurements, fasting/non-fasting status unknown
+*"Random" lipid measurements, fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20-40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60-80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20-40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60-80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
@@ -267,11 +278,11 @@ Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Contro
 
 *Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.
 
-Schizophrenia -The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4-and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
+Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
 In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
 During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (> 7% of body weight) in patients with low BMI (<23) compared to normal (23-27) or overweight patients (>27).
-There was a mean weight gain of 1.4 kg for those patients with a “low” baseline BMI, no mean change for patients with a “normal” BMI, and a 1.3 kg mean weight loss for patients who entered the program with a “high”BMI.
+There was a mean weight gain of 1.4 kg for those patients with a “low” baseline BMI, no mean change for patients with a “normal” BMI, and a 1.3 kg mean weight loss for patients who entered the program with a “high” BMI.
 
 Bipolar Disorder - During a 6-month placebo-controlled bipolar maintenance study in adults with ziprasidone as an adjunct to lithium or valproate, the incidence of clinically significant weight gain (≥ 7% of body weight) during the double-blind period was 5.6% for both ziprasidone and placebo treatment groups who completed the 6 months of observation for relapse.
 Interpretation of these findings should take into consideration that only patients who adequately tolerated ziprasidone entered the double-blind phase of the study, and there were substantial dropouts during the open label phase.
@@ -286,7 +297,7 @@ Upon appearance of rash for which an alternative etiology cannot be identified, 
 
 ## 5.9 Orthostatic Hypotension
 
-Ziprasidone may induce orthostatic hypotension associated with dizziness, tachycardia, and, in some patients, syncope, especially during the initial dosetitration period, probably reflecting its α1-adrenergic antagonist properties.
+Ziprasidone may induce orthostatic hypotension associated with dizziness, tachycardia, and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonist properties.
 Syncope was reported in 0.6% of the patients treated with ziprasidone.
 Ziprasidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
@@ -323,14 +334,16 @@ As with other drugs that antagonize dopamine D2 receptors, ziprasidone elevates 
 Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density.
 
 ## 5.15 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
-In the 4-and 6-week placebo-controlled trials, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
-Somnolence led to discontinuation in 0.3% of patients in short-term clinical trials.
+In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
+Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adults.
+
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
 ## 5.16 Priapism
@@ -352,6 +365,7 @@ Prescriptions for ziprasidone should be written for the smallest quantity of cap
 ## 5.19 Patients With Concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
+
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients.
