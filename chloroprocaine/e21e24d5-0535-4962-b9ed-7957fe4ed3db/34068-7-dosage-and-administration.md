@@ -9,21 +9,32 @@ For specific techniques and procedures, refer to standard textbooks.
 
 There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
 Chloroprocaine hydrochloride injection is not approved for this use.
-(See WARNINGSand DOSAGE AND ADMINISTRATION).
+(See WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Caudal and Lumbar Epidural Block: In order to guard against adverse experiences sometimes noted following unintended penetration of the subarachnoid space, the following procedure modifications are recommended:
 
 - Use an adequate test dose (3 mL of chloroprocaine hydrochloride injection 3% or 5 mL of chloroprocaine hydrochloride injection 2%) prior to induction of complete block.
   This test dose should be repeated if the patient is moved in such a fashion as to have displaced the epidural catheter.
   Allow adequate time for onset of anesthesia following administration of each test dose.
+
 - Avoid the rapid injection of a large volume of local anesthetic injection through the catheter.
   Consider fractional doses, when feasible.
+
 - In the event of the known injection of a large volume of local anesthetic injection into the subarachnoid space, after suitable resuscitation and if the catheter is in place, consider attempting the recovery of drug by draining a moderate amount of cerebrospinal fluid (such as 10 mL) through the epidural catheter.
 
 As a guide for some routine procedures, suggested doses are given below:
 
 - Infiltration and Peripheral Nerve Block: Chloroprocaine HCl Injection, USP
-- Anesthetic Procedure Solution Concentration % Volume (mL) Total Dose (mg) Mandibular 2 2 to 3 40 to 60 Infraorbital 2 0.5 to 1 10 to 20 Brachial plexus 2 30 to 40 600 to 800 Digital (without epinephrine) 1 3 to 4 30 to 40 Pudendal 2 10 on each side 400 Paracervical (see also PRECAUTIONS) 1 3 per each of 4 sites up to 120
+
+| Anesthetic Procedure | Solution Concentration % | Volume (mL) | Total Dose (mg) |
+| --- | --- | --- | --- |
+| Mandibular | 2 | 2 to 3 | 40 to 60 |
+| Infraorbital | 2 | 0.5 to 1 | 10 to 20 |
+| Brachial plexus | 2 | 30 to 40 | 600 to 800 |
+| Digital (without epinephrine) | 1 | 3 to 4 | 30 to 40 |
+| Pudendal | 2 | 10 on each side | 400 |
+| Paracervical (see also PRECAUTIONS) | 1 | 3 per each of 4 sites | up to 120 |
+
 - Caudal and Lumbar Epidural Block: For caudal anesthesia, the initial dose is 15 to 25 mL of a 2% or 3% solution.
   Repeated doses may be given at 40 to 60 minute intervals.
   For lumbar epidural anesthesia, 2 to 2.5 mL per segment of a 2% or 3% solution can be used.

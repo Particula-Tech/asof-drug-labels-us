@@ -1,49 +1,89 @@
 # VIAL LABEL 2%
 
-Chloroprocaine HCl Injection, USP
+NDC 0143-9209-01 Rx only
 
-2% 400 mg/20 mL
+Chloroprocaine
+
+HCl Injection, USP
+
+2%
+
+400 mg per 20 mL
 
 (20 mg/mL)
 
-20 mL Single Dose Vial
+For Infiltration, Nerve Block, Caudal
 
-NDC 0143-9209-01
+and Epidural Anesthesia.
+
+Not for Spinal Anesthesia,.
+
+20 mL Single Dose Vial
 
 # VIAL LABEL 3%
 
-Chloroprocaine HCl Injection, USP
+NDC 0143-9210-01 Rx only
 
-3% 600 mg/20 mL
+Chloroprocaine
+
+HCl Injection, USP
+
+3%
+
+600 mg per 20 mL
 
 (30 mg/mL)
 
-20 mL Single Dose Vial
+For Infiltration, Nerve Block, Caudal
 
-NDC 0143-9210-01
+and Epidural Anesthesia.
+
+Not for Spinal Anesthesia,.
+
+20 mL Single Dose Vial
 
 # CARTON LABEL 2%
 
-NDC 0143-9209-10
+NDC 0143-9209-10 Rx only
 
-Chloroprocaine HCl Injection, USP
+Chloroprocaine
 
-2% 400 mg/20 mL
+HCl Injection, USP
+
+2%
+
+400 mg per 20 mL
 
 (20 mg/mL)
 
-20 mL Single Dose Vial
+For Infiltration, Nerve Block, Caudal
+
+and Epidural Anesthesia.
+
+Not for Spinal Anesthesia,.
+
+10 x 20 mL Single Dose Vials
 
 # CARTON LABEL 3%
 
-Chloroprocaine HCl Injection, USP
+NDC 0143-9210-10 Rx only
 
-3% 600 mg/20 mL
+Chloroprocaine
+
+HCl Injection, USP
+
+3%
+
+600 mg per 20 mL
 
 (30 mg/mL)
 
-10 x 20 mL Single Dose Vial
+For Infiltration, Nerve Block, Caudal
 
-NDC 0143-9210-10
+and Epidural Anesthesia.
+
+Not for Spinal Anesthesia,.
+
+10 x 20 mL Single Dose Vials
 
 # SERIALIZATION IMAGE

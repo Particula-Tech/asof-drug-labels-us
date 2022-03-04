@@ -8,10 +8,10 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by
 
-West-Ward Pharmaceuticals
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724 USA
+Berkeley Heights, NJ 07922
 
-Revised April 2016
+Revised: January 2020
 
-PIN431-WES/1
+PIN431-WES/2
