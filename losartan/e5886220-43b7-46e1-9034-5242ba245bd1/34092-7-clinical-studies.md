@@ -70,9 +70,9 @@ The Components of Primary Endpoint (as a first event) counts only the events tha
 
 Table 3: Incidence of Primary Endpoint Events
 
-|  | Losartan |  | Atenolol |  | Risk Reduction † | 95% Cl | p-Value |
+|  | Losartan |  | Atenolol |  | Risk Reduction Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy | 95% Cl | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | N (%) | Rate* | N (%) | Rate* |  |  |  |
+|  | N (%) | Rate Rate per 1000 patient-years of follow-up | N (%) | Rate |  |  |  |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
 | Components of Primary Composite Endpoint (as a first event) |  |  |  |  |  |  |  |
 | Stroke (nonfatal) | 209 (5) |  | 286 (6) |  |  |  |  |
@@ -84,10 +84,7 @@ Table 3: Incidence of Primary Endpoint Events
 | Cardiovascular mortality | 204 (4) | 9.2 | 234 (5) | 10.6 | 11% | -7% to 27% | 0.206 |
 | Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
-| Other‡ | 39(1) | 1.8 | 48 (1) | 2.2 | 16% | -28 to 45% | 0.411 |
-| * Rate per 1000 patient-years of follow-up |  |  |  |  |  |  |  |
-| † Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy |  |  |  |  |  |  |  |
-| ‡ Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
+| Other Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease | 39(1) | 1.8 | 48 (1) | 2.2 | 16% | -28 to 45% | 0.411 |
 
 Although the LIFE study favored losartan over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
 Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
@@ -129,18 +126,18 @@ Figure 4: Kaplan-Meier curve for the primary composite endpoint of doubling of s
 
 Table 4: Incidence of Primary Endpoint Events
 
-|  | Incidence |  | Risk reduction | 95% C.I. | p-Value |
-| --- | --- | --- | --- | --- | --- |
-|  | Losartan | Placebo |  |  |  |
-| Primary Composite Endpoint | 43.5% | 47.1% | 16.1% | 2.3% to 27.9% | 0.022 |
-| Doubling of Serum Creatinine, ESRD and Death Occuring as a First Event |  |  |  |  |  |
-| Doubling of Serum Creatinine | 21.6% | 26.0% |  |  |  |
-| ESRD | 8.5% | 8.5% |  |  |  |
-| Death | 13.4% | 12.6% |  |  |  |
-| Overall Incidence of Doubling of Serum Creatinine, ESRD and Death |  |  |  |  |  |
-| Doubling of Serum Creatinine | 21.6% | 26.0% | 25.3% | 7.8% to 39.4% | 0.006 |
-| ESRD | 19.6% | 25.5% | 28.6% | 11.5% to 42.4% | 0.002 |
-| Death | 21.0% | 20.3% | -1.7% | -26.9% to 18.6% | 0.884 |
+|  |  | Incidence |  |  | Risk reduction | 95% C.I. | p-Value |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Losartan |  | Placebo |  |  |  |
+| Primary Composite Endpoint |  | 43.5% |  | 47.1% | 16.1% | 2.3% to 27.9% | 0.022 |
+| Doubling of Serum Creatinine, ESRD and Death Occuring as a First Event |  |  |  |  |  |  |  |
+| Doubling of Serum Creatinine |  | 21.6% |  | 26.0% |  |  |  |
+| ESRD |  | 8.5% |  | 8.5% |  |  |  |
+| Death |  | 13.4% |  | 12.6% |  |  |  |
+| Overall Incidence of Doubling of Serum Creatinine, ESRD and Death |  |  |  |  |  |  |  |
+| Doubling of Serum Creatinine | 21.6% |  | 26.0% |  | 25.3% | 7.8% to 39.4% | 0.006 |
+| ESRD | 19.6% |  | 25.5% |  | 28.6% | 11.5% to 42.4% | 0.002 |
+| Death | 21.0% |  | 20.3% |  | -1.7% | -26.9% to 18.6% | 0.884 |
 
 The secondary endpoints of the study were change in proteinuria, change in the rate of progression of renal disease, and the composite of morbidity and mortality from cardiovascular causes (hospitalization for heart failure, myocardial infarction, revascularization, stroke, hospitalization for unstable angina, or cardiovascular death).
 Compared with placebo, losartan significantly reduced proteinuria by an average of 34%, an effect that was evident within 3 months of starting therapy, and significantly reduced the rate of decline in glomerular filtration rate during the study by 13%, as measured by the reciprocal of the serum creatinine concentration.

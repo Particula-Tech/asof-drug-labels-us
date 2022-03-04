@@ -62,7 +62,7 @@ Following oral 14C-labeled losartan, about 35% of radioactivity is recovered in 
 Following an intravenous dose of 14C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
 Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 
-Special Populations
+Specific Populations
 
 Pediatric:
 
@@ -75,10 +75,10 @@ Table 2: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | --- | --- | --- | --- | --- |
 |  | Parent | Active Metabolite | Parent | Active Metabolite |
-| AUC 0-24 (ng.hr/mL)Mean ± standard deviation | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
-| CMAX (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
-| T½ (h) Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| T PEAK (h) Median | 0.9 | 3.5 | 2.0 | 4.1 |
+| AUC 0-24 (ng.hr/mL) Mean ± standard deviation | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
+| CMAX (ng/mL) * | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
+| T½ (h) † | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
+| T PEAK (h) ‡ | 0.9 | 3.5 | 2.0 | 4.1 |
 | CL REN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
