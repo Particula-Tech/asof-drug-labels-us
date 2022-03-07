@@ -13,11 +13,21 @@
     "0069-2250-30",
     "0069-2260-30",
     "0069-2270-30",
-    "0069-2960-30",
-    "0069-2970-30",
-    "0069-2980-30"
+    "0069-6180-30",
+    "0069-6323-30",
+    "0069-6565-30",
+    "0069-6747-30",
+    "0069-7232-30",
+    "0069-7476-30",
+    "0069-7654-30",
+    "0069-7810-30"
   ],
   "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amlodipine and atorvastatin",
+      "name": "Caduet"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "amlodipine besylate and atorvastatin calcium",
