@@ -98,7 +98,7 @@ Central Nervous System: Psychotic episodes at recommended doses, overstimulation
 
 Eye Disorders: Mydriasis.
 
-Gastrointestinal: Unpleasant taste, constipation.
+Gastrointestinal: Unpleasant taste, constipation, intestinal ischemia.
 
 Allergic: Urticaria, rash, hypersensitivity reactions, including angioedema and anaphylaxis.
 Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported.
