@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA201452"
+  ],
+  "inn": "lenalidomide",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-1242-28",
+    "0480-1243-28",
+    "0480-1244-21",
+    "0480-1246-21"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "Lenalidomide"
+    }
+  ],
+  "setid": "1b2716cf-24b4-4157-a218-58ede63917bd",
+  "source": "dailymed"
+}
