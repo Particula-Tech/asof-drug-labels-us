@@ -55,10 +55,12 @@ Lansoprazole Delayed-Release Capsules
   - Alternatively, lansoprazole delayed-release capsules can be administered with apple juice via nasogastric tube
   - See the Instructions for Use for a description of all preparation and administration instructions
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-P 12/2020
+Q 1/2022

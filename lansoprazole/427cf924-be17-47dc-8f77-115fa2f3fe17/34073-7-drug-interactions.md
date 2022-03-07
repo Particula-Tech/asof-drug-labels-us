@@ -4,9 +4,6 @@ Tables 2 and 3 include drugs with clinically important drug interactions and int
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Table 2.
-Clinically Relevant Interactions Affecting Drugs Co-administered with Lansoprazole and Interactions with Diagnostics
-
 | Antiretrovirals |  |
 | --- | --- |
 | Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
@@ -25,7 +22,7 @@ Clinically Relevant Interactions Affecting Drugs Co-administered with Lansoprazo
 | Intervention: | Individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood concentrations. |
 | Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
 | Clinical Impact: | Lansoprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
-| Intervention: | Mycophenolate mofetil (MMF): Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Intervention: | Mycophenolate mofetil (MMF): Coadministration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Combination Therapy with Clarithromycin and Amoxicillin |  |
 | Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
 | Intervention: | See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.See Drug Interactions in prescribing information for amoxicillin. |
@@ -41,9 +38,6 @@ Clinically Relevant Interactions Affecting Drugs Co-administered with Lansoprazo
 | False Positive Urine Tests for THC |  |
 | Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs. |
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
-
-Table 3.
-Clinically Relevant Interactions Affecting Lansoprazole When Co-administered with Other Drugs
 
 | CYP2C19 OR CYP3A4 Inducers |  |
 | --- | --- |

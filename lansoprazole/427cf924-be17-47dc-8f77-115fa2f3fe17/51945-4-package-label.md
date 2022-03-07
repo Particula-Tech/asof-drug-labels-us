@@ -2,19 +2,11 @@
 
 NDC 0093-7350-56
 
-Lansoprazole
-
-Delayed-Release
-
-Capsules, USP
+Lansoprazole Delayed-Release Capsules, USP
 
 15 mg
 
-PHARMACIST: PLEASE DISPENSE
-
-WITH ACCOMPANYING
-
-MEDICATION GUIDE
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -24,19 +16,11 @@ Rx only
 
 NDC 0093-7351-56
 
-Lansoprazole
-
-Delayed-Release
-
-Capsules, USP
+Lansoprazole Delayed-Release Capsules, USP
 
 30 mg
 
-PHARMACIST: PLEASE DISPENSE
-
-WITH ACCOMPANYING
-
-MEDICATION GUIDE
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 

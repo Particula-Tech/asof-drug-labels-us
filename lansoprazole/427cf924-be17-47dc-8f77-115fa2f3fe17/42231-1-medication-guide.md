@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Lansoprazole (lan soe’ pra zole) Delayed-Release Capsules, for oral use
 
 What is the most important information that I should know about lansoprazole delayed-release capsules?
@@ -28,7 +30,7 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 Talk to your doctor about your risk of these serious side effects.
 
 Lansoprazole delayed-release capsules can have other serious side effects.
-See “What are the possible side effects of lansoprazole delayed-release capsules?”
+See “What are the possible side effects of lansoprazole delayed-release capsules?”.
 
 What are lansoprazole delayed-release capsules?
 
@@ -41,7 +43,7 @@ In adults, lansoprazole delayed-release capsules are used for:
 - maintaining healing of duodenal ulcers.
   Lansoprazole delayed-release capsules have not been studied beyond 12 months for this purpose.
 - up to 8 weeks for the healing and symptom relief of stomach ulcers.
-- up to 8 weeks for the healing of stomach ulcers in people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- up to 8 weeks for the healing of stomach ulcers in people taking pain medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
   Lansoprazole delayed-release capsules have not been studied beyond 8 weeks for this purpose.
 - reducing the risk of stomach ulcers in people who are at risk of developing stomach ulcers with NSAIDs.
   Lansoprazole delayed-release capsules have not been studied beyond 12 weeks for this purpose.
@@ -76,7 +78,7 @@ Do not take lansoprazole delayed-release capsules if you are:
 
 - allergic to lansoprazole, any other PPI medicine, or any of the ingredients in lansoprazole delayed-release capsules.
   See the end of this Medication Guide for a complete list of ingredients in lansoprazole delayed-release capsules.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus).
+- taking a medicine that contains rilpivirine (EDURANT®, COMPLERA®, ODEFSEY®, JULUCA®) used to treat HIV-1 (Human Immunodeficiency Virus)
 
 Before you take lansoprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
@@ -90,7 +92,7 @@ Before you take lansoprazole delayed-release capsules, tell your doctor about al
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL, REDITREX, XATMEP).
+Especially tell your doctor if you take methotrexate (OTREXUP®, RASUVO®, TREXALL®, REDITREX®, XATMEP®).
 
 How should I take lansoprazole delayed-release capsules?
 
@@ -116,7 +118,7 @@ What are the possible side effects of lansoprazole delayed-release capsules?
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-- See “What is the most important information that I should know about lansoprazole delayed-release capsules?”
+- See “What is the most important information that I should know about lansoprazole delayed-release capsules?”.
 - Low vitamin B12 levels in the body can happen in people who have taken lansoprazole for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
 - Low magnesium levels in the body can happen in people who have taken lansoprazole for at least 3 months.
@@ -134,7 +136,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lansoprazole delayed-release capsules?
 
-Store lansoprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
+Store lansoprazole delayed-release capsules between 68°F to 77°F (20°C to 25°C).
 
 Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
@@ -153,19 +155,19 @@ Active ingredient: lansoprazole.
 Inactive ingredients in lansoprazole delayed-release capsules: black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 Additionally, 15 mg capsule contains brilliant blue FCF - FD&C blue 1.
 
-For more information, call 1-888-838-2872.
-
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Kfar Saba, 4410202, Israel
+Ltd., Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054
+
+For more information, call 1-888-838-2872.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-F 12/2020
+G 1/2022
 
 ## INSTRUCTIONS FOR USE
 
@@ -222,7 +224,7 @@ This Instruction for Use has been approved by the U.S. Food and Drug Administrat
 Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 12/2020
+F 1/2022

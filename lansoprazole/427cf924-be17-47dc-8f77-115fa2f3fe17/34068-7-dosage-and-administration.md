@@ -7,7 +7,7 @@
 | Duodenal Ulcers |  |  |
 | Short-Term Treatment | 15 mg | Once daily for 4 weeks |
 | Maintenance of Healed | 15 mg | Once daily |
-| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer RecurrencePlease refer to amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
+| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence* |  |  |
 | Triple Therapy: |  |  |
 | Lansoprazole | 30 mg | Twice daily for 10 or 14 days |
 | Amoxicillin | 1 gram | Twice daily for 10 or 14 days |
@@ -18,13 +18,14 @@
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
 | NSAID-Associated Gastric Ulcer |  |  |
-| Healing | 30 mg | Once daily for 8 weeksControlled studies did not extend beyond indicated duration. |
-| Risk Reduction | 15 mg | Once daily for up to 12 weeks |
+| Healing | 30 mg | Once daily for 8 weeks† |
+| Risk Reduction | 15 mg | Once daily for up to 12 weeks† |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered. |
-| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks‡ |
+| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily¶ |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily§ |
+| *Please refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients.† Controlled studies did not extend beyond indicated duration.‡ For patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered.¶ Controlled studies did not extend beyond 12 months.§ Varies with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |  |  |
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
@@ -80,11 +81,11 @@ Administration in Liquids (apple juice, orange juice or tomato juice):
 4. Swallow immediately.
 5. To ensure complete delivery of the dose, rinse the glass with two or more volumes of juice and swallow the contents immediately.
 
-Administration with Apple Juice Through a Nasogastric Tube (≥ 16 French)
+Administration with Apple Juice Through a Nasogastric Tube (≥16 French)
 
 1. Open capsule.
 2. Sprinkle intact granules into 40 mL of apple juice.
 3. Mix briefly.
-4. Using a catheter tipped syringe, draw up the mixture.
+4. Using a catheter-tipped syringe, draw up the mixture.
 5. Inject through the nasogastric tube into the stomach.
 6. Flush with additional apple juice to clear the tube.

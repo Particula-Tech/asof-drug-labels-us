@@ -21,7 +21,7 @@ This diagnosis should be considered for diarrhea that does not improve [see Adve
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
 CDAD has been reported with use of nearly all antibacterial agents.
-For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole delayed-release capsules, refer to Warnings and Precautions sections of their prescribing information.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole delayed-release capsules, refer to Warnings and Precautions section of their prescribing information.
 
 ## 5.4 Bone Fracture
 
@@ -40,7 +40,7 @@ The most common form of CLE reported in patients treated with PPIs was subacute 
 Generally, histological findings were observed without organ involvement.
 
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
-PPI-associated SLE is usually milder than non-drug induced SLE.
+PPI-associated SLE is usually milder than nondrug induced SLE.
 Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
 The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
 
