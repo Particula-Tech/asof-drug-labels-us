@@ -53,7 +53,7 @@ Some of these cases have resulted in liver transplant or death.
 Time to onset for cases ranged from months to years after treatment initiation with tocilizumab.
 While most cases presented with marked elevations of transaminases (> 5 times ULN), some cases presented with signs or symptoms of liver dysfunction and only mildly elevated transaminases.
 
-During randomized controlled studies, treatment with ACTEMRA was associated with a higher incidence of transaminase elevations [see Adverse Reactions (6.1, 6.2, 6.5, 6.7)].
+During randomized controlled studies, treatment with ACTEMRA was associated with a higher incidence of transaminase elevations [see Adverse Reactions (6.1, 6.2, 6.6, 6.8)].
 Increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., MTX) were used in combination with ACTEMRA.
 
 For RA, GCA and SSc-ILD patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating ACTEMRA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
@@ -68,9 +68,9 @@ ACTEMRA should only be restarted in patients with another explanation for the li
 A similar pattern of liver enzyme elevation is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor liver test panel at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
 
-## 5.4 Laboratory Parameters
+## 5.4 Changes in Laboratory Parameters
 
-Rheumatoid Arthritis, Giant Cell Arteritis and Systemic Sclerosis-Associated Interstitial Lung Disease
+Patients with Rheumatoid Arthritis, Giant Cell Arteritis and Systemic Sclerosis-Associated Interstitial Lung Disease
 
 Neutropenia
 
@@ -104,7 +104,7 @@ Treatment with ACTEMRA was associated with increases in lipid parameters such as
 - –Assess lipid parameters approximately 4 to 8 weeks following initiation of ACTEMRA therapy.
 - –Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-Polyarticular and Systemic Juvenile Idiopathic Arthritis
+Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
@@ -126,7 +126,7 @@ Injection site reactions were categorized separately [see Adverse Reactions (6)]
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.7)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.8)].
 ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
 For ACTEMRA subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
 If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Rheumatoid Arthritis
+## 2.1 Recommended Dosage for Rheumatoid Arthritis
 
 ACTEMRA may be used as monotherapy or concomitantly with methotrexate or other non-biologic DMARDs as an intravenous infusion or as a subcutaneous injection.
 
@@ -21,7 +21,18 @@ When transitioning from ACTEMRA intravenous therapy to subcutaneous administrati
 
 Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
 
-## 2.2 Giant Cell Arteritis
+## 2.2 Recommended Dosage for Giant Cell Arteritis
+
+Recommended Intravenous Dosage Regimen:
+
+The recommended dosage of ACTEMRA for adult patients given as a 60-minute single intravenous drip infusion is 6 mg per kg every 4 weeks in combination with a tapering course of glucocorticoids.
+
+ACTEMRA can be used alone following discontinuation of glucocorticoids.
+
+- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
+- Doses exceeding 600 mg per infusion are not recommended in GCA patients [see Clinical Pharmacology (12.3)].
+
+Recommended Subcutaneous Dosage Regimen:
 
 The recommended dose of ACTEMRA for adult patients with GCA is 162 mg given once every week as a subcutaneous injection in combination with a tapering course of glucocorticoids.
 
@@ -29,10 +40,11 @@ A dose of 162 mg given once every other week as a subcutaneous injection in comb
 
 ACTEMRA can be used alone following discontinuation of glucocorticoids.
 
-- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
-- Intravenous administration is not approved for GCA.
+When transitioning from ACTEMRA intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-## 2.3 Systemic Sclerosis-Associated Interstitial Lung Disease
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
+
+## 2.3 Recommended Dosage for Systemic Sclerosis-Associated Interstitial Lung Disease
 
 The recommended dose of ACTEMRA for adult patients with SSc-ILD is 162 mg given once every week as a subcutaneous injection.
 
@@ -40,7 +52,7 @@ The recommended dose of ACTEMRA for adult patients with SSc-ILD is 162 mg given 
 - Subcutaneous administration with the prefilled ACTPen® autoinjector has not been studied in SSc-ILD.
 - Intravenous administration is not approved for SSc-ILD.
 
-## 2.4 Polyarticular Juvenile Idiopathic Arthritis
+## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
 ACTEMRA may be used as an intravenous infusion or as a subcutaneous injection alone or in combination with methotrexate.
 Do not change dose based solely on a single visit body weight measurement, as weight may fluctuate.
@@ -65,7 +77,7 @@ When transitioning from ACTEMRA intravenous therapy to subcutaneous administrati
 
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10].
 
-## 2.5 Systemic Juvenile Idiopathic Arthritis
+## 2.5 Recommended Dosage for Systemic Juvenile Idiopathic Arthritis
 
 ACTEMRA may be used as an intravenous infusion or as a subcutaneous injection alone or in combination with methotrexate.
 Do not change a dose based solely on a single visit body weight measurement, as weight may fluctuate.
@@ -90,7 +102,7 @@ When transitioning from ACTEMRA intravenous therapy to subcutaneous administrati
 
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
-## 2.6 Cytokine Release Syndrome (CRS)
+## 2.6 Recommended Dosage for Cytokine Release Syndrome (CRS)
 
 Use only the intravenous route for treatment of CRS.
 The recommended dose of ACTEMRA for treatment of CRS given as a 60-minute intravenous infusion is:
@@ -104,7 +116,7 @@ The recommended dose of ACTEMRA for treatment of CRS given as a 60-minute intrav
 - If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of ACTEMRA may be administered.
   The interval between consecutive doses should be at least 8 hours.
 - Doses exceeding 800 mg per infusion are not recommended in CRS patients.
-- Subcutaneous administration is not approved for CRS
+- Subcutaneous administration is not approved for CRS.
 
 ## 2.7 General Considerations for Administration
 
@@ -129,6 +141,7 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
 | --- | --- | --- |
 | Dosage | Indication | Volume of ACTEMRA injection per kg of body weight |
 | 4 mg/kg | Adult RA | 0.2 mL/kg |
+| 6 mg/kg | Adult GCA | 0.3 mL/kg |
 | 8 mg/kg | Adult RA SJIA, PJIA and CRS (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
 | 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
 | 12 mg/kg | SJIA and CRS (less than 30 kg of body weight) | 0.6 mL/kg |
@@ -137,8 +150,8 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
   Withdraw the amount of ACTEMRA for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride Injection, USP infusion bag or bottle.
   To mix the solution, gently invert the bag to avoid foaming.
 
-- The fully diluted ACTEMRA solutions for infusion using 0.9% Sodium Chloride Injection, USP may be stored at 36° to 46°F (2° to 8°C) or room temperature for up to 24 hours and should be protected from light.
-- The fully diluted ACTEMRA solutions for infusion using 0.45% Sodium Chloride Injection, USP may be stored at 36° to 46°F (2° to 8°C) for up to 24 hours or room temperature for up to 4 hours and should be protected from light.
+- The fully diluted ACTEMRA solutions for infusion using 0.9% Sodium Chloride Injection, USP may be stored at 36°F to 46°F (2°C to 8°C) or room temperature for up to 24 hours and should be protected from light.
+- The fully diluted ACTEMRA solutions for infusion using 0.45% Sodium Chloride Injection, USP may be stored at 36°F to 46°F (2°C to 8°C) for up to 24 hours or room temperature for up to 4 hours and should be protected from light.
 - ACTEMRA solutions do not contain preservatives; therefore, unused product remaining in the vials should not be used.
 - Allow the fully diluted ACTEMRA solution to reach room temperature prior to infusion.
 - The infusion should be administered over 60 minutes, and must be administered with an infusion set.
@@ -167,31 +180,35 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
 
 ## 2.10 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
 
+Serious Infections
+
 Hold ACTEMRA treatment if a patient develops a serious infection until the infection is controlled.
+
+Laboratory Abnormalities
 
 Rheumatoid Arthritis, Giant Cell Arteritis and Systemic Sclerosis-Associated Interstitial Lung Disease
 
-| Lab Value | Recommendation |
-| --- | --- |
-| Liver Enzyme Abnormalities [see Warnings and Precautions (5.3,5.4)]: |  |
-| Greater than 1 to 3× ULN | Dose modify concomitant DMARDs (RA, SSc-ILD) or immunomodulatory agents (GCA) if appropriate For persistent increases in this range: For patients receiving intravenous ACTEMRA, reduce dose to 4 mg per kg or hold ACTEMRA until ALT or AST have normalizedFor patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate. |
-| Greater than 3 to 5× ULN (confirmed by repeat testing) | Hold ACTEMRA dosing until less than 3× ULN and follow recommendations above for greater than 1 to 3× ULN For persistent increases greater than 3× ULN, discontinue ACTEMRA |
-| Greater than 5× ULN | Discontinue ACTEMRA |
+| Lab Value | Recommendation for RA and SSc-ILD | Recommendation for GCA |
+| --- | --- | --- |
+| Liver Enzyme Abnormalities [see Warnings and Precautions (5.3, 5.4)] |  |  |
+| Greater than 1 to 3× ULN | Dose modify concomitant DMARDs if appropriate For persistent increases in this range: For patients receiving intravenous ACTEMRA, reduce dose to 4 mg per kg or hold ACTEMRA until ALT or AST have normalizedFor patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate | Dose modify immunomodulatory agents if appropriate For persistent increases in this range: For patients receiving intravenous ACTEMRA, hold ACTEMRA until ALT or AST have normalized For patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
+| Greater than 3 to 5× ULN (confirmed by repeat testing) | Hold ACTEMRA dosing until less than 3× ULN and follow recommendations above for greater than 1 to 3× ULN For persistent increases greater than 3× ULN, discontinue ACTEMRA | Hold ACTEMRA dosing until less than 3x ULN and follow recommendations above for greater than 1 to 3x ULN For persistent increases greater than 3x ULN, discontinue ACTEMRA |
+| Greater than 5× ULN | Discontinue ACTEMRA | Discontinue ACTEMRA |
 
-| Lab Value (cells per mm3) | Recommendation |
-| --- | --- |
-| Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.4)]: |  |
-| ANC greater than 1000 | Maintain dose |
-| ANC 500 to 1000 | Hold ACTEMRA dosing When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
-| ANC less than 500 | Discontinue ACTEMRA |
+| Lab Value (cells per mm3) | Recommendation for RA and SSc-ILD | Recommendation for GCA |
+| --- | --- | --- |
+| Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.4)] |  |  |
+| ANC greater than 1000 | Maintain dose | Maintain dose |
+| ANC 500 to 1000 | Hold ACTEMRA dosing When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate | Hold ACTEMRA dosing When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 6 mg per kgFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
+| ANC less than 500 | Discontinue ACTEMRA | Discontinue ACTEMRA |
 
-| Lab Value (cells per mm3) | Recommendation |
-| --- | --- |
-| Low Platelet Count [see Warnings and Precautions (5.4)]: |  |
-| 50,000 to 100,000 | Hold ACTEMRA dosing When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
-| Less than 50,000 | Discontinue ACTEMRA |
+| Lab Value (cells per mm3) | Recommendation for RA and SSc-ILD | Recommendation for GCA |
+| --- | --- | --- |
+| Low Platelet Count [see Warnings and Precautions (5.4)] |  |  |
+| 50,000 to 100,000 | Hold ACTEMRA dosing When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate | Hold ACTEMRA dosing When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 6 mg per kgFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
+| Less than 50,000 | Discontinue ACTEMRA | Discontinue ACTEMRA |
 
-Polyarticular and Systemic Juvenile Idiopathic Arthritis:
+Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 Dose reduction of ACTEMRA has not been studied in the PJIA and SJIA populations.
 Dose interruptions of ACTEMRA are recommended for liver enzyme abnormalities, low neutrophil counts, and low platelet counts in patients with PJIA and SJIA at levels similar to what is outlined above for patients with RA and GCA.

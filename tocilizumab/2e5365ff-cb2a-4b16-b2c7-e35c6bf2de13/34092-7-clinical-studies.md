@@ -241,7 +241,17 @@ Table 8 Efficacy Results from Study WA28119
 
 The estimated annual cumulative prednisone dose was lower in the two ACTEMRA dose groups (medians of 1887 mg and 2207 mg on ACTEMRA QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
 
-## 14.4 Systemic Sclerosis-Associated Interstitial Lung Disease– Subcutaneous Administration
+## 14.4 Giant Cell Arteritis – Intravenous Administration
+
+Intravenously administered ACTEMRA in patients with GCA was assessed in WP41152 (NCT03923738), an open-label PK-PD and safety study to determine the appropriate intravenous dose of ACTEMRA that achieved comparable PK-PD profiles to the ACTEMRA-SC regimen.
+
+At enrollment, all patients (n=24) were in remission on ACTEMRA-IV.
+In Period 1, all patients received open-label ACTEMRA-IV 7 mg/kg every 4 weeks for 20 weeks.
+Patients who completed Period 1 and remained in remission (n=22) were eligible to enter Period 2, and received open-label ACTEMRA-IV 6 mg/kg every 4 weeks for 20 weeks.
+
+The efficacy of intravenous ACTEMRA 6 mg/kg in adult patients with GCA is based on pharmacokinetic exposure and extrapolation to the efficacy established for subcutaneous ACTEMRA in patients with GCA [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+
+## 14.5 Systemic Sclerosis-Associated Interstitial Lung Disease– Subcutaneous Administration
 
 The clinical efficacy of ACTEMRA was assessed in a phase 3 multicenter, randomized, double-blind, placebo controlled study in patients with SSc (Study WA29767).
 A phase 2/3 multicenter, randomized, double-blind, placebo controlled study in patients with SSc (Study WA27788) provided supportive information.
@@ -294,7 +304,7 @@ Figure 2 Mean Change from Baseline to Week 48 in Observed Forced Vital Capacity 
 | PBO = placebo; TCZ = tocilizumab; QW = every week dose |
 | --- |
 
-## 14.5 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.6 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of ACTEMRA was assessed in a three-part study, WA19977 (NCT00988221), including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -318,7 +328,7 @@ ACTEMRA treated patients experienced significantly fewer disease flares compared
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.6 Polyarticular Juvenile Idiopathic Arthritis—Subcutaneous Administration
+## 14.7 Polyarticular Juvenile Idiopathic Arthritis—Subcutaneous Administration
 
 Subcutaneously administered ACTEMRA in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) was assessed in WA28117 (NCT01904279), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
 PJIA patients aged 1 to 17 years with an inadequate response or inability to tolerate MTX, including patients with well-controlled disease on treatment with ACTEMRA-IV and ACTEMRA-naïve patients with active disease, were treated with subcutaneous ACTEMRA based on body weight.
@@ -326,9 +336,9 @@ PJIA patients aged 1 to 17 years with an inadequate response or inability to tol
 Patients weighing at or above 30 kg (n = 25) were treated with 162 mg of ACTEMRA-SC every 2 weeks and patients weighing less than 30 kg (n = 27) received 162 mg of ACTEMRA-SC every 3 weeks for 52 weeks.
 Of these 52 patients, 37 (71%) were naive to ACTEMRA and 15 (29%) had been receiving ACTEMRA-IV and switched to ACTEMRA-SC at baseline.
 
-The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in polyarticular JIA patients and subcutaneous ACTEMRA in patients with RA [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.5)].
+The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in polyarticular JIA patients and subcutaneous ACTEMRA in patients with RA [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.6)].
 
-## 14.7 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.8 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in WA18221 (NCT00642460), a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -339,9 +349,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 JIA ACR (American College of Rheumatology) responses are defined as the percentage improvement (e.g., 30%, 50%, 70%) in 3 of any 6 core outcome variables compared to baseline, with worsening in no more than 1 of the remaining variables by 30% or more.
 Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
 
-Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 11.
+Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 10.
 
-Table 11 Efficacy Findings at Week 12
+Table 10 Efficacy Findings at Week 12
 
 |  | ACTEMRA N=75 | Placebo N=37 |
 | --- | --- | --- |
@@ -379,16 +389,16 @@ Health Related Outcomes
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the ACTEMRA treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
 
-## 14.8 Systemic Juvenile Idiopathic Arthritis—Subcutaneous Administration
+## 14.9 Systemic Juvenile Idiopathic Arthritis—Subcutaneous Administration
 
 Subcutaneously administered ACTEMRA in pediatric patients with systemic juvenile idiopathic arthritis (SJIA) was assessed in WA28118 (NCT01904292), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
 
 Eligible patients received ACTEMRA subcutaneously dosed according to body weight, with patients weighing at or above 30 kg (n = 26) dosed with 162 mg of ACTEMRA every week and patients weighing below 30 kg (n = 25) dosed with 162 mg of ACTEMRA every 10 days (n=8) or every 2 weeks (n=17) for 52 weeks.
 Of these 51 patients, 26 (51%) were naive to subcutaneous ACTEMRA and 25 (49%) had been receiving ACTEMRA intravenously and switched to subcutaneous ACTEMRA at baseline.
 
-The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.7)].
+The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.8)].
 
-## 14.9 Cytokine Release Syndrome—Intravenous Administration
+## 14.10 Cytokine Release Syndrome—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
 Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.

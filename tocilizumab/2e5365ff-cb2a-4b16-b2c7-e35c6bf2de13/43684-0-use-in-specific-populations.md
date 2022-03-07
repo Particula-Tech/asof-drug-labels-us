@@ -24,7 +24,7 @@ Clinical Considerations
 Fetal/Neonatal adverse reactions
 
 Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
-Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions 5.9)]
+Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions 5.9)].
 
 Data
 
