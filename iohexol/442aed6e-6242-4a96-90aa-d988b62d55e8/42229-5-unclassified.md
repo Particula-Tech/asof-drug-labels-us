@@ -76,5 +76,5 @@ Marlborough, MA 01752 U.S.A. Product of Norwegian Origin.
 Omnipaque is a trademark of GE Healthcare or one of its subsidiaries.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-© 2019 General Electric Company - All rights reserved.
-Revised July 2019
+© 2022 General Electric Company - All rights reserved.
+Revised 2/2022
