@@ -10,7 +10,7 @@ The highest doses of brimonidine tartrate in rats (2.5 mg/kg/day) and rabbits (5
 There are no adequate and well-controlled studies in pregnant women; however, in animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent.
 Because animal reproduction studies are not always predictive of human response, ALPHAGAN® P should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
-8.3 Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether brimonidine tartrate is excreted in human milk, although in animal studies, brimonidine tartrate has been shown to be excreted in breast milk.
 Because of the potential for serious adverse reactions from ALPHAGAN® P in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
