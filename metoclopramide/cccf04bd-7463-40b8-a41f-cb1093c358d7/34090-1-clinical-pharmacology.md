@@ -72,10 +72,11 @@ In another study, nine pediatric cancer patients (age range, 1 to 9 yr) received
 After the last dose, the peak serum concentrations of metoclopramide ranged from 1060 to 5680 mcg/L.
 The mean elimination half-life, clearance, and volume of distribution of metoclopramide were 4.5 hr (range, 2.0 to 12.5 hr), 0.37 L/h/kg (range, 0.10 to 1.24 L/h/kg), and 1.93 L/kg (range, 0.95 to 5.50 L/kg), respectively.
 
-| Reference | Dose, Route | t1/2 (hr) | CI (L/hr/kg) | Vd (L/kg) | Cmax (mcg/L) |
+| Reference | Dose, Route | t1/2 (hr) | Cl (L/hr/kg) | Vd (L/kg) | Cmax (mcg/L) |
 | --- | --- | --- | --- | --- | --- |
 | Pediatric Pharmacokinetic Studies |  |  |  |  |  |
 | 1. | 0.35 mg/kg, IV over 5 min | 4.4±0.56 | 0.56±0.10 | 3.0±0.38 (Dose/Cp0) | 152±31 |
-| 2. | 2 mg/kg 30 min IV infusion 4 to 5 times within 9.5 hours | 4.5SEM not available. | 0.37 | 1.93 | 1060 to 5680 |
+| 2. | 2 mg/kg 30 min IV infusion 4 to 5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
+| a. SEM not available. |  |  |  |  |  |
 | 1. Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983. |  |  |  |  |  |
 | 2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |

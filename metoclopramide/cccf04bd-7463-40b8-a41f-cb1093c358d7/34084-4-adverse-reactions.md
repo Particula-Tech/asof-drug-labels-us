@@ -68,4 +68,4 @@ Porphyria.
 
 Transient flushing of the face and upper body, without alterations in vital signs, following high doses intravenously.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

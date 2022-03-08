@@ -115,14 +115,14 @@ Caution should be exercised when metoclopramide is administered to a nursing mot
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGEandDOSAGE AND ADMINISTRATION).
+Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGE and DOSAGE AND ADMINISTRATION).
 
 Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (see CLINICAL PHARMACOLOGY — Pharmacokinetics).
 In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
 Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(See WARNINGS andADVERSE REACTIONS — Extrapyramidal Reactions.)
+(See WARNINGS and ADVERSE REACTIONS — Extrapyramidal Reactions.)
 
 ## Geriatric Use
 

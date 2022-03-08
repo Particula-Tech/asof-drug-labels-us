@@ -1,10 +1,10 @@
-# MEDICATION GUIDE
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Metoclopramide (met” oh kloe’ pra mide) Injection
+MEDICATION GUIDE Metoclopramide (met” oh kloe’ pra mide) Injection
 
 Rx Only
 
-You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection USP and before you get another dose of metoclopramide injection.
+You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection and before you get another dose of metoclopramide injection.
 There may be new information.
 If you take another product that contains metoclopramide (such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution), you should read the Medication Guide that comes with that product.
 Some of the information may be different.
@@ -167,7 +167,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 This Medication Guide summarizes the most important information about metoclopramide.
 If you would like more information about metoclopramide, talk with your doctor.
 You can ask your doctor or pharmacist for information about metoclopramide that is written for healthcare professionals.
-For more information, call Teva Pharmaceuticals at 1-888-838-2872.
+For more information, call Teva at 1-888-838-2872.
 
 What are the ingredients in metoclopramide?
 
@@ -177,9 +177,12 @@ Inactive ingredients: sodium chloride, water, hydrochloric acid or sodium hydrox
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
+Zagreb, Croatia
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 2/2020
+A 1/2022

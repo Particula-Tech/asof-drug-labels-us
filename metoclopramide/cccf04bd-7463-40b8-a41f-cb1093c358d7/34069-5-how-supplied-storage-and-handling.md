@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Metoclopramide Injection USP is supplied in 2 mL single-dose vials packaged 25 per shelf pack.
+Metoclopramide injection, USP is supplied in 2 mL single-dose vials packaged 25 per shelf pack.
 
-| NDC Number | Metoclopramide Injection USP | Volume |
+| NDC Number | Metoclopramide Injection, USP | Volume |
 | --- | --- | --- |
 | 0703-4502-04 | 5 mg/mL | 2 mL in a 2 mL single-dose vial |
 
@@ -17,7 +17,12 @@ Do not freeze.
 Do not store open single-dose vials for later use, as they contain no preservative.
 Discard unused portion.
 
-Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
+Zagreb, Croatia
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-C 2/2020
+A 1/2022
