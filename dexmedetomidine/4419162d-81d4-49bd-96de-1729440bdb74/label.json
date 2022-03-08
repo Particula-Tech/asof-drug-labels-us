@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021038"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1174-01",
+    "0409-1174-10",
+    "0409-1454-01",
+    "0409-1454-20",
+    "0409-3301-01",
+    "0409-3301-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Precedex"
+    }
+  ],
+  "setid": "4419162d-81d4-49bd-96de-1729440bdb74",
+  "source": "dailymed"
+}
