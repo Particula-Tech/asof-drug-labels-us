@@ -62,7 +62,7 @@ Risk Summary
 Limited data from a published case report indicate the presence of ziprasidone in human milk.
 Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
 There is no information on the effects of ziprasidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone hydrochloride and any potential adverse effects on the breastfed child from ziprasidone capsules or from the mother’s underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone and any potential adverse effects on the breastfed child from ziprasidone capsules or from the mother’s underlying condition.
 
 Clinical Considerations
 
@@ -78,7 +78,11 @@ Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ziprasidone in pediatric patients have not been established.
+The safety and effectiveness of ziprasidone have not been established in pediatric patients.
+
+Ziprasidone was studied in one 4-week, placebo-controlled trial in patients 10 to 17 years of age with bipolar I disorder.
+However, the data were insufficient to fully assess the safety of ziprasidone in pediatric patients.
+Therefore, a safe and effective dose for use could not be established.
 
 ## 8.5 Geriatric Use
 

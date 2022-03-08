@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Increased Mortality in Elderly Patients With Dementia-Related
+## 5.1 Increased Mortality in Elderly Patients With Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -30,7 +30,7 @@ The mean increase in QTc from baseline for ziprasidone ranged from approximately
 
 In the second phase of the study, the effect of ziprasidone on QTc length was not augmented by the presence of a metabolic inhibitor (ketoconazole 200 mg twice daily).
 
-In placebo-controlled trials, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
+In placebo-controlled trials in adults, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
 In clinical trials with oral ziprasidone, the electrocardiograms of 2/2988 (0.06%) patients who received ziprasidone and 1/440 (0.23%) patients who received placebo revealed QTc intervals exceeding the potentially clinically relevant threshold of 500 msec.
 In the ziprasidone-treated patients, neither case suggested a role of ziprasidone.
 One patient had a history of prolonged QTc and a screening measurement of 489 msec; QTc was 503 msec during ziprasidone treatment.
@@ -356,8 +356,9 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 ## 5.15 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
-In the 4- and 6-week placebo-controlled trials, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
-Somnolence led to discontinuation in 0.3% of patients in short-term clinical trials.
+In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
+Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adult.
+
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
 ## 5.16 Priapism
@@ -373,10 +374,10 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 
 ## 5.18 Suicide
 
-The possibility of a suicide attempt is inherent in psychotic illness, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients With Concomitant Illnesses
+## 5.19 Patients with Concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Usein Specific Populations (8.6),(8.7)]
 

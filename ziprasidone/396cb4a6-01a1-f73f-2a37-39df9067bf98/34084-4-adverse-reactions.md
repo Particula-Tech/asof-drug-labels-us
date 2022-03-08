@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
+Clinical trials in adults for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
 These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000; and (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
 An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
@@ -206,7 +206,7 @@ Rare gynecomastia, vaginal hemorrhage, nocturia, oliguria, female sexual dysfunc
 
 BIPOLAR DISORDER
 
-Acute Treatment of Manic or Mixed Episodes
+Acute Treatment of Manic or Mixed Episodes in Adults
 
 Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials Approximately 6.5% (18/279) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 3.7% (5/136) on placebo.
 The most common reactions associated with dropout in the ziprasidone-treated patients were akathisia, anxiety, depression, dizziness, dystonia, rash and vomiting, with 2 dropouts for each of these reactions among ziprasidone patients (1%) compared to one placebo patient each for dystonia and rash (1%) and no placebo patients for the remaining adverse reactions.

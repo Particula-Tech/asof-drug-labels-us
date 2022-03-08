@@ -20,7 +20,7 @@ Ziprasidone capsules can also be used as maintenance treatment of bipolar disord
 Who should take ziprasidone capsules?
 
 Only your doctor can know if ziprasidone capsules are right for you.
-Ziprasidone capsules may be prescribed for you if you have schizophrenia or bipolar disorder.
+Ziprasidone capsules may be prescribed for you if you are an adult with schizophrenia or bipolar disorder.
 Symptoms of schizophrenia may include:
 
 - hearing voices, seeing things, or sensing things that are not there (hallucinations)
@@ -129,6 +129,8 @@ Because these problems could mean you’re having a heart rhythm abnormality, co
 
 Common side effects of ziprasidone capsules include the following and should also be discussed with your doctor if they occur:
 
+Adults:
+
 - Feeling unusually tired or sleepy
 
 - Nausea or upset stomach
@@ -216,6 +218,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 8/2021
+Revised: 02/2022
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf
