@@ -166,8 +166,7 @@ However, some studies report a small increase in the risk of breast cancer among
 
 ### Cervical Cancer
 
-A causal relationship between the use of CHCs and the development of cervical cancer and intraepithelial neoplasia has not been clearly established.
-Some observational studies suggest that COC use has been associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
+Some studies suggest that COC use has been associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
 ## 5.13 Effect on Binding Globulins
