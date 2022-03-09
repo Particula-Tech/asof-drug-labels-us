@@ -10,7 +10,7 @@ In animal reproduction studies, no adverse developmental effects were observed f
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defects, loss or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -41,11 +41,15 @@ However, a lactating woman may consider interrupting breastfeeding and pumping a
 ## 8.4 Pediatric Use
 
 The safety and efficacy of OMNIPAQUE 300 mg iodine/mL have been established in pediatric patients birth to 17 years of age for CT imaging of the head and body.
-Use of OMNIPAQUE 300 mg iodine/mL is supported by controlled clinical trials in pediatric patients undergoing head CT and evidence of effectiveness from well-controlled studies of Omnipaque in adults for head and body CT.
+Use of OMNIPAQUE 300 mg iodine/mL is supported by controlled clinical trials in pediatric patients undergoing head CT and evidence of effectiveness from well-controlled studies of OMNIPAQUE in adults for head and body CT.
 The safety and efficacy of OMNIPAQUE 350 mg iodine/mL have not been established in pediatric patients birth to 17 years of age for CT imaging of the head and body.
 
 In general, the frequency of adverse reactions in pediatric patients was similar to that seen in adults [see Adverse Reactions (6.1)].
 Pediatric patients at higher risk of experiencing adverse events during contrast agent administration may include those having asthma, sensitivity to medication and/or allergens, congestive heart failure, a serum creatinine greater than 1.5 mg/dL or those less than 12 months of age.
+
+Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
+Some patients were treated for hypothyroidism.
+Monitor pediatric patients 0 to 3 years of age closely, particularly those with one or more potential risk factors, for thyroid dysfunction [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
 
 ## 8.5 Geriatric Use
 

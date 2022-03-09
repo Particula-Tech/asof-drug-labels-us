@@ -6,4 +6,4 @@ OMNIPAQUE is a trademark of GE Healthcare or one of its subsidiaries.
 
 GE and the GE Monogram are trademarks of General Electric Company.
 
-© 2019 General Electric Company - All rights reserved.
+© 2022 General Electric Company - All rights reserved.

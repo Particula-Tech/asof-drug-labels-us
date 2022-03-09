@@ -4,9 +4,10 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Risks Associated with Inadvertent Intrathecal Administration [see Warnings and Precautions (5.1)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Contrast Induced Kidney Injury [see Warnings and Precautions (5.3)]
+- Contrast-Induced Kidney Injury [see Warnings and Precautions (5.3)]
 - Cardiovascular Adverse Reactions [see Warnings and Precautions (5.4)]
-- Severe Cutaneous Reactions [see Warnings and Precautions (5.9)]
+- Thyroid Dysfunction in Pediatric Patients 0 to 3 Years of Age [see Warnings and Precautions (5.7)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,7 +34,7 @@ In controlled clinical trials involving pediatric patients for CT head imaging, 
 The following additional reactions have been identified during post-approval intravascular use of OMNIPAQUE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to exposure.
 
-Hemodynamic Reactions: vein cramp and thrombophlebitis following intravenous injection.
+Hemodynamic Reactions: vein cramp and thrombophlebitis following intravenous injection
 
 Blood and Lymphatic System Disorders: neutropenia
 
@@ -41,10 +42,7 @@ Cardiovascular Disorders: cardiac arrest, shock, peripheral vasodilatation hyper
 
 Eye Disorders: transient visual impairment including cortical blindness, eyelid edema, conjunctival symptoms, lacrimation
 
-Endocrine Reactions: hyperthyroidism.
-
-Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
-Some patients were treated for hypothyroidism.
+Endocrine Reactions: hyperthyroidism, hypothyroidism
 
 Gastrointestinal Disorders: abdominal pain, pancreatitis aggravated, salivary gland enlargement
 
@@ -62,5 +60,4 @@ Renal Disorders: acute kidney injury, nephropathy toxic, transient proteinuria, 
 
 Respiratory; Thoracic, and Mediastinal Disorders: respiratory arrest, pulmonary or laryngeal edema, bronchospasm, sneezing, throat irritation, throat tightness, laryngeal edema, pharyngeal edema, asthmatic attack
 
-Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. pleomorphic rashes, drug eruption, erythema, pruritus, urticaria and skin discoloration, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g.
-Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
+Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. pleomorphic rashes, drug eruption, erythema, pruritus, urticaria and skin discoloration, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g., Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)]
