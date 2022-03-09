@@ -1,6 +1,6 @@
-# Package Label-Principle Display Panel (Container Label)
+# Package Label Principle Display Panel (Container Label)
 
-NDC 10702-223-21
+NDC 10702- 223-21
 
 Atovaquone Oral Suspension, USP
 
@@ -18,9 +18,9 @@ Rx only 210 mL
 
 KVK-Tech, Inc.
 
-# Package Label-Principle Display Panel (Carton Label)
+# Package Label Principle Display Panel (Carton Label)
 
-NDC 10702-223-21
+NDC 10702- 223-21
 
 Atovaquone Oral Suspension, USP
 

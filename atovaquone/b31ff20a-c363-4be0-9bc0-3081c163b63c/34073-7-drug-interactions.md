@@ -1,4 +1,4 @@
-# DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Rifampin/Rifabutin
 
@@ -17,6 +17,6 @@ Metoclopramide may reduce the bioavailability of atovaquone and should be used o
 
 ## 7.4 Indinavir
 
-Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir [see Clinical Pharmacology (12.3)].
+Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and C max of indinavir but resulted in a decrease in the C trough of indinavir [see Clinical Pharmacology (12.3)].
 Caution should be exercised when prescribing atovaquone oral suspension with indinavir due to the decrease in trough concentrations of indinavir.
 Monitor patients for potential loss of efficacy of indinavir if coadministration with atovaquone oral suspension is necessary.

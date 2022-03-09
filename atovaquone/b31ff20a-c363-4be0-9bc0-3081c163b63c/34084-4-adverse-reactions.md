@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reaction is discussed in another section of the labeling:
 
@@ -10,7 +10,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Additionally, because many subjects who participated in clinical trials with atovaquone had complications of advanced human immunodeficiency virus (HIV) disease, it was often difficult to distinguish adverse reactions caused by atovaquone from those caused by underlying medical conditions.
 
-PCP Prevention Trials In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+PCP Prevention Trials In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm 3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
 
 Dapsone Comparative Trial: In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Subjects received atovaquone oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
@@ -29,7 +29,7 @@ The most frequent adverse reaction requiring discontinuation of dosing in the gr
 
 Other reactions occurring in ≥10% of subjects receiving the recommended dose of atovaquone oral suspension (1,500 mg once daily) included vomiting, sweating, flu syndrome, sinusitis, pruritus, insomnia, depression, and myalgia.
 
-PCP Treatment Trials Safety information is presented from 2 clinical efficacy trials of the atovaquone tablet formulation: 1) a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air; 2) a randomized, open-label trial comparing atovaquone tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+PCP Treatment Trials Safety information is presented from 2 clinical efficacy trials of the atovaquone tablet formulation: 1) a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO 2] ≤45 mm Hg and PaO 2 ≥60 mm Hg on room air; 2) a randomized, open-label trial comparing atovaquone tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 
 TMP-SMX Comparative Trial: In the TMP-SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
 Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or TMP 320 mg plus SMX 1,600 mg 3 times daily for 21 days; median durations of exposure were 21 and 15 days, respectively.

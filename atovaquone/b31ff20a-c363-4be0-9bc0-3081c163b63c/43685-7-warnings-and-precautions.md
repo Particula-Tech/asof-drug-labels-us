@@ -1,4 +1,4 @@
-# WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Risk of Limited Oral Absorption
 
