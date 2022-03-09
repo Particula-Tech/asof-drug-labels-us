@@ -6,8 +6,6 @@ Rx only
 
 Tetracaine Hydrochloride
 
-Ophthalmic Solution, USP 0.05% (Sterile)
-
-15 mL
+Ophthalmic Solution, USP 0.5% (Sterile) 15 mL
 
 OCEANSIDE PHARMACEUTICALS
