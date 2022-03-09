@@ -14,4 +14,4 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 Discard unused portion.
 
 Sterile, Nonpyrogenic, Preservative-free, DEHP-free, PVC-free.
-The container closure is not made with natural rubber latex.
+The container and container closure are not made with natural rubber latex.

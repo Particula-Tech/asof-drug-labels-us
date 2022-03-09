@@ -53,4 +53,4 @@ Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switz
 
 novaplusTM+ Novaplus is a registered trademark of Vizient, Inc.
 
-Revised: October 2020
+Revised: September 2021
