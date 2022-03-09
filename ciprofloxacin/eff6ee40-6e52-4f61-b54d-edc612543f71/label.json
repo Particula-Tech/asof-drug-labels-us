@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020805"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0855-26"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "ciprofloxacin hydrochloride and hydrocortisone",
+      "name": "CIPRO"
+    }
+  ],
+  "setid": "eff6ee40-6e52-4f61-b54d-edc612543f71",
+  "source": "dailymed"
+}
