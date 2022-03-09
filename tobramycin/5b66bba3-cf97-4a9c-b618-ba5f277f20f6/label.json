@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050555"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0813-01"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "tobramycin",
+      "name": "TOBREX"
+    }
+  ],
+  "setid": "5b66bba3-cf97-4a9c-b618-ba5f277f20f6",
+  "source": "dailymed"
+}
