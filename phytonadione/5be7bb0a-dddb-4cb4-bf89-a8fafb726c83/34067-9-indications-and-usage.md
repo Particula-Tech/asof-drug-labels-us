@@ -4,5 +4,5 @@ Mephyton is indicated for the treatment of adults with the following coagulation
 
 - •anticoagulant-induced hypoprothrombinemia caused by coumarin or indanedione derivatives;
 - •hypoprothrombinemia secondary to antibacterial therapy;
-- •hypoprothrombinemia secondary to factors limiting absorpsion or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancrease, and regional enteritis;
+- •hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis;
 - •Other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates.
