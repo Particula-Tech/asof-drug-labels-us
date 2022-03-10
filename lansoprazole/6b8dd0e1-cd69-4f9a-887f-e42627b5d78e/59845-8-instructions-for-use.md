@@ -49,7 +49,7 @@ This Instruction for Use has been approved by the U.S. Food and Drug Administrat
 Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 12/2020
+E 1/2022
