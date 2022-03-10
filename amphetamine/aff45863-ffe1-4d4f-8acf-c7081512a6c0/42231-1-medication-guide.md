@@ -201,6 +201,6 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. © 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 Rev.
-8/2020
+2/2022
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

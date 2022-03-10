@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 The premarketing development program for ADDERALL XR included exposures in a total of 1315 participants in clinical trials (635 pediatric patients, 350 adolescent patients, 248 adult patients, and 82 healthy adult subjects).
 Of these, 635 patients (ages 6 to 12) were evaluated in two controlled clinical studies, one open-label clinical study, and two single-dose clinical pharmacology studies (N= 40).
@@ -94,7 +94,7 @@ Vision blurred, mydriasis.
 
 Gastrointestinal
 
-Unpleasant taste, constipation, other gastrointestinal disturbances.
+Unpleasant taste, constipation, intestinal ischemia, and other gastrointestinal disturbances.
 
 Allergic
 
