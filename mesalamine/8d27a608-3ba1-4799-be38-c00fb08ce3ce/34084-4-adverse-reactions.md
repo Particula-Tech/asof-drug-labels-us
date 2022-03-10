@@ -6,9 +6,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - •Hepatic Failure [see Warnings and Precautions (5.4)]
-- •Photosensitivity [see Warnings and Precautions (5.5)]
-- •Nephrolithiasis [see Warnings and Precautions (5.6)]
-- •Risks in Patients with Phenylketonuria [see Warnings and Precautions (5.7)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Photosensitivity [see Warnings and Precautions (5.6)]
+- •Nephrolithiasis [see Warnings and Precautions (5.7)]
+- •Risks in Patients with Phenylketonuria [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -70,10 +71,10 @@ Nervous System: intracranial hypertension
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis
 
-Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)]
+Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
-Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis
+Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis, pleurisy/pleuritis
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)]
 
 Renal/Urogenital: reversible oligospermia

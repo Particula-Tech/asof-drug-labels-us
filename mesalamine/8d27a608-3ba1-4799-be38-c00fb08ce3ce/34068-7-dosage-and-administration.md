@@ -10,5 +10,5 @@ Administration Instructions
 - •Swallow mesalamine extended-release capsules whole.
   Do not cut, break, crush or chew the capsules.
 - •Avoid co-administration of mesalamine extended-release capsules with antacids [see Drug Interactions (7.1)].
-- •Drink an adequate amount of fluids [see Warnings and Precautions (5.5)].
+- •Drink an adequate amount of fluids [see Warnings and Precautions (5.6)].
 - •Take mesalamine extended-release capsules without regard to meals [see Clinical Pharmacology (12.3)].
