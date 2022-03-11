@@ -12,13 +12,20 @@ Treatment was continued in both arms until disease progression or unacceptable t
 A total of 737 patients were randomized: 368 to the DRd arm and 369 to the Rd arm.
 The baseline demographic and disease characteristics were similar between the two treatment groups.
 The median age was 73 (range: 45–90) years, with 44% of the patients ≥75 years of age.
-The majority were white (92%), male (52%), 34% had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 50% had an ECOG performance score of 1 and 17% had an ECOG performance score of ≥2.
+Fifty-two percent (52%) of patients were male, 92% White, 4% Black or African American, and 1% Asian.
+Three percent (3%) of patients reported an ethnicity of Hispanic or Latino.
+Thirty-four (34%) had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 50% had an ECOG performance score of 1 and 17% had an ECOG performance score of ≥2.
 Twenty-seven percent had International Staging System (ISS) Stage I, 43% had ISS Stage II and 29% had ISS Stage III disease.
 Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
 
 MAIA demonstrated an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p<0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
 
 Figure 1: Kaplan-Meier Curve of PFS in MAIA
+
+After a median follow-up of 56 months, MAIA demonstrated an improvement in overall survival (OS) in the DRd arm as compared to the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013), representing a 32% reduction in the risk of death in patients treated in the DRd arm.
+Median OS was not reached for either arm.
+
+Figure 2: Kaplan-Meier Curve of OS in MAIA
 
 Additional efficacy results from MAIA are presented in Table 23.
 
@@ -65,13 +72,13 @@ Efficacy was evaluated by PFS based on IMWG criteria and overall survival (OS).
 ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the VMP arm (HR=0.50; 95% CI: 0.38, 0.65; p<0.0001), representing a 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
 After a median follow-up of 40 months, the median PFS was 36.4 months (95% CI: 32.1, 45.9) in the D-VMP arm and 19.3 months (95% CI: 18.0, 20.4) in the VMP arm.
 
-| Figure 2: Kaplan-Meier Curve of PFS in ALCYONEPFS median follow-up of 16.5 months |
+| Figure 3: Kaplan-Meier Curve of PFS in ALCYONEPFS median follow-up of 16.5 months |
 | --- |
 
 After a median follow-up of 40 months, ALCYONE demonstrated an improvement in overall survival (OS) in the D-VMP arm as compared to the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm.
 Median OS was not reached for either arm.
 
-Figure 3: Kaplan-Meier Curve of OS in ALCYONE
+Figure 4: Kaplan-Meier Curve of OS in ALCYONE
 
 Additional efficacy results from ALCYONE are presented in Table 24.
 
@@ -131,7 +138,7 @@ Table 25: Efficacy Results From CASSIOPEIA at Day 100 Post-Transplant
 CASSIOPEIA demonstrated an improvement in PFS in the DVTd arm as compared to the VTd arm; with a median follow up of 18.8 months, the median PFS had not been reached in either arm.
 Treatment with DVTd resulted in a reduction in the risk of progression or death by 53% compared to VTd alone (HR=0.47; 95% CI: 0.33, 0.67; p<0.0001).
 
-| Figure 4: Kaplan-Meier Curve of PFS in CASSIOPEIAbased on interim analysis and the boundary for PFS was crossed. |
+| Figure 5: Kaplan-Meier Curve of PFS in CASSIOPEIAbased on interim analysis and the boundary for PFS was crossed. |
 | --- |
 
 ## 14.2 Relapsed/Refractory Multiple Myeloma
@@ -158,7 +165,7 @@ Efficacy was evaluated by PFS based on IMWG criteria.
 POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing a 63% reduction in the risk of disease progression or death in patients treated with DRd.
 After a median follow-up of 55 months, the median PFS was 45.0 months (95% CI: 34.1, 53.9) in the DRd arm and was 17.5 months (95% CI: 13.9, 20.8) in the Rd arm.
 
-| Figure 5: Kaplan-Meier Curve of PFS in POLLUXPFS median follow-up of 13.5 months |
+| Figure 6: Kaplan-Meier Curve of PFS in POLLUXPFS median follow-up of 13.5 months |
 | --- |
 
 Additional efficacy results from POLLUX are presented in Table 26.
@@ -203,7 +210,7 @@ Efficacy was evaluated by PFS based on IMWG criteria.
 CASTOR demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm (HR=0.39; 95% CI: 0.28, 0.53; p<0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
 After a median follow-up of 50 months, the median PFS was 16.7 months (95% CI: 13.1, 19.4) in the DVd arm and was 7.1 months (95% CI: 6.2, 7.7) in the Vd arm.
 
-| Figure 6: Kaplan-Meier Curve of PFS in CASTORPFS median follow-up of 7.4 months |
+| Figure 7: Kaplan-Meier Curve of PFS in CASTORPFS median follow-up of 7.4 months |
 | --- |
 
 Additional efficacy results from CASTOR are presented in Table 27.
@@ -247,10 +254,10 @@ The majority of patients (92%) received a prior PI and of those 34% were refract
 Fourty-two percent (42%) of patients had received prior lenalidomide and of those, 33% were refractory to a lenalidomide containing regimen.
 
 Efficacy was evaluated by IRC evaluation of PFS based on the IMWG response criteria.
-Efficacy results are provided in Figure 7.
+Efficacy results are provided in Figure 8.
 CANDOR demonstrated an improvement in PFS in the DKd arm as compared to the Kd arm; the median PFS had not been reached in the DKd arm and was 15.8 months in the Kd arm (hazard ratio [HR]=0.63; 95% CI: 0.46, 0.85; p=0.0014), representing 37% reduction in the risk of disease progression or death for patients treated with DKd versus Kd.
 
-Figure 7: Kaplan-Meier Curve of PFS in CANDOR
+Figure 8: Kaplan-Meier Curve of PFS in CANDOR
 
 Additional efficacy results from CANDOR are presented in Table 28.
 

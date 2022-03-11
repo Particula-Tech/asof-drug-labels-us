@@ -19,7 +19,7 @@ Less common signs and symptoms were wheezing, allergic rhinitis, pyrexia, chest 
 
 When DARZALEX dosing was interrupted in the setting of ASCT (CASSIOPEIA) for a median of 3.75 months (range: 2.4 to 6.9 months), upon re-initiation of DARZALEX, the incidence of infusion-related reactions was 11% for the first infusion following ASCT.
 Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption for ASCT.
-Infusion-related reactions occurring at re-initiation of DARZALEX following ASCT were consistent in terms of symptoms and severity (Grade 3 or 4:<1%) with those reported in previous studies at Week 2 or subsequent infusions.
+Infusion-related reactions occurring at re-initiation of DARZALEX following ASCT were consistent in terms of symptoms and severity (Grade 3 or 4: <1%) with those reported in previous studies at Week 2 or subsequent infusions.
 
 In EQUULEUS, patients receiving combination treatment (n=97) were administered the first 16 mg/kg dose at Week 1 split over two days i.e. 8 mg/kg on Day 1 and Day 2, respectively.
 The incidence of any grade infusion-related reactions was 42%, with 36% of patients experiencing infusion-related reactions on Day 1 of Week 1, 4% on Day 2 of Week 1, and 8% with subsequent infusions.

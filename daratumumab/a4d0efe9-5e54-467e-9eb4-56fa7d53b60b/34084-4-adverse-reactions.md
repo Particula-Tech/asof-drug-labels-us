@@ -542,9 +542,8 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other daratumumab products may be misleading.
 
-In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, none of the 111 evaluable monotherapy patients, and 2 of the 1,383 evaluable combination therapy patients, tested positive for anti-daratumumab antibodies.
-One patient administered DARZALEX as combination therapy, developed transient neutralizing antibodies against daratumumab.
-However, this assay has limitations in detecting anti-daratumumab antibodies in the presence of high concentrations of daratumumab; therefore, the incidence of antibody development might not have been reliably determined.
+In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, 0.35% (6/1,713) of patients developed treatment-emergent anti-daratumumab antibodies.
+Of those, 4 patients tested positive for neutralizing antibodies.
 
 ## 6.3 Postmarketing Experience
 
