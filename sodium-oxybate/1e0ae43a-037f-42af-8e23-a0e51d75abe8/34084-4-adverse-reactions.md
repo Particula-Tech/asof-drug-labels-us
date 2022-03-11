@@ -149,5 +149,5 @@ Pain, pain in extremity, cataplexy, disturbance in attention, sleep paralysis, a
 The following adverse reactions have been identified during postapproval use of sodium oxybate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-1. Arthralgia, fall*, fluid retention, hangover, hypersensitivity, hypertension, memory impairment, nocturia, and vision blurred.
-2. * The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.
+- Arthralgia, fall*, fluid retention, hangover, hypersensitivity, hypertension, memory impairment, nocturia, and vision blurred.
+- * The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.

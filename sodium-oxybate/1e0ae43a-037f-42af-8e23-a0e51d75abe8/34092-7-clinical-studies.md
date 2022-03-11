@@ -56,7 +56,7 @@ Patients entered the study either taking a stable dosage of Xyrem or were Xyrem-
 CNS stimulants were allowed at entry, and approximately 50% of patients continued taking a stable dose of stimulant throughout the stable-dose and double-blind periods.
 Xyrem-naïve patients were initiated and titrated based on body weight over a period of up to 10 weeks.
 The total nightly dose was administered in two divided doses, with the first dose given at nighttime and the second given 2.5 to 4 hours later [see Dosage and Administration (2.2)].
-Once a stable dosage of Xyrem had been achieved, these patients entered the 2-week stable-dose period; patients on a stable dosage of Xyrem at study entry remained on this dosage for 3 weeks, prior to randomization.
+Once a stable dosage of Xyrem had been achieved, these patients entered the 2-week stable-dose period; patients on a stable dosage of Xyrem at study entry remained on this dosage for 3 weeks prior to randomization.
 Efficacy was established at dosages ranging from 3 g to 9 g of Xyrem per night.
 
 The primary efficacy measure was the change in frequency of cataplexy attacks.
