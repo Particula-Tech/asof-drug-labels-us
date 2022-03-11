@@ -48,9 +48,11 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-C 9/2021
+D 1/2022

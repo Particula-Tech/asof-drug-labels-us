@@ -2,48 +2,40 @@
 
 NDC 0591-3982-60
 
-Celecoxib Capsules
-
-50 mg
+Celecoxib Capsules 50 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-60 Capsules
-
 Rx only
+
+60 Capsules
 
 NDC 0591-3983-01
 
-Celecoxib Capsules
-
-100 mg
+Celecoxib Capsules 100 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 Capsules
-
 Rx only
+
+100 Capsules
 
 NDC 0591-3984-01
 
-Celecoxib Capsules
-
-200 mg
+Celecoxib Capsules 200 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only
 
 100 Capsules
 
-Rx only
-
 NDC 0591-3985-60
 
-Celecoxib Capsules
-
-400 mg
+Celecoxib Capsules 400 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-60 Capsules
-
 Rx only
+
+60 Capsules

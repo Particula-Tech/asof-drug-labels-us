@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 | Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs) |  |
 | --- | --- |
 | What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?NSAIDs can cause serious side effects, including: Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: ○ with increasing doses of NSAIDs ○ with longer use of NSAIDsDo not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).” Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: ○ anytime during use ○ without warning symptoms ○ that may cause deathThe risk of getting an ulcer or bleeding increases with: |  |
@@ -29,5 +31,5 @@
 | If you take too much of your NSAID, call your healthcare provider or get medical help right away.These are not all the possible side effects of NSAIDs. For more information, ask your healthcare provider or pharmacist about NSAIDs. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | Other information about NSAIDs Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the stomach and intestines.Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |  |
 | General information about the safe and effective use of NSAIDsMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them.If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
-| Manufactured in India by: Watson Pharma Private Limited, Verna, Salcette Goa 403 722 INDIADistributed by: Actavis Pharma, Inc., Parsippany, NJ 07054 USAFor more information, call 1-888-838-2872. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. C 9/2021 |  |
+| Manufactured In India By: Watson Pharma Private Limited, Verna, Salcette Goa 403 722 INDIA Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054 For more information, call 1-888-838-2872. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. D 1/2022 |  |
