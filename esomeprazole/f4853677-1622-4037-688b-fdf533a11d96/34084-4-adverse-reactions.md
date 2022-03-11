@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- •Hypomagnesemia [see Warnings and Precautions (5.8)]
-- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.9)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,19 +20,9 @@ Adults
 The safety of NEXIUM delayed-release capsules was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
 Over 2,900 patients were treated in long-term studies for up to 6 to 12 months.
 
-The safety in the treatment of healing of EE in adults was assessed in four randomized comparative clinical trials, which
-
-included 1,240 patients who received NEXIUM 20 mg once daily, 2,434 patients on NEXIUM 40 mg once daily, and
-
-3,008 patients on omeprazole 20 mg once daily.
-The most frequently occurring adverse reactions (at least 1%) in all three
-
-groups were headache (5.5%, 5%, and 3.8%, respectively) and diarrhea (no difference among the three groups).
-Nausea,
-
-flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or
-
-omeprazole.
+The safety in the treatment of healing of EE in adults was assessed in four randomized comparative clinical trials, which included 1,240 patients who received NEXIUM 20 mg once daily, 2,434 patients on NEXIUM 40 mg once daily, and 3,008 patients on omeprazole 20 mg once daily.
+The most frequently occurring adverse reactions (at least 1%) in all three groups were headache (5.5%, 5%, and 3.8%, respectively) and diarrhea (no difference among the three groups).
+Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM omeprazole.
 
 Less common adverse reactions with an incidence of less than 1% are listed below by body system:
 
@@ -72,73 +63,35 @@ Decreases were seen in hemoglobin, white blood cell count, platelets, potassium,
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
 
-The incidence of adverse reactions during 6-month trials for the maintenance of healing of EE with NEXIUM 20 mg once
-
-daily was similar to placebo.
-There were no differences in types of adverse reactions seen during maintenance treatment
-
-up to 12 months compared to short-term treatment.
+The incidence of adverse reactions during 6-month trials for the maintenance of healing of EE with NEXIUM 20 mg once daily was similar to placebo.
+There were no differences in types of adverse reactions seen during maintenance treatment up to 12 months compared to short-term treatment.
 
 Two placebo-controlled studies were conducted in 710 adult patients for the treatment of symptomatic GERD.
-The most
-
-common adverse reactions that were reported were: diarrhea (4%), headache (4%), and abdominal pain (4%).
+The most common adverse reactions that were reported were: diarrhea (4%), headache (4%), and abdominal pain (4%).
 
 Combination Treatment with NEXIUM, Amoxicillin and Clarithromycin
 
-In clinical trials of H. pylori eradication of to reduce duodenal ulcer recurrence, no additional adverse reactions specific to
+In clinical trials of H. pylori eradication of to reduce duodenal ulcer recurrence, no additional adverse reactions specific to the combination of NEXIUM delayed-release capsules, amoxicillin and clarithromycin were observed and were similar to those observed with NEXIUM, amoxicillin, or clarithromycin alone.
+The most frequently reported adverse reactions for patients who received NEXIUM, amoxicillin and clarithromycin for 10 days were diarrhea (9%), taste perversion (4%), and abdominal pain (4%).
+No adverse reactions were observed at higher rates with NEXIUM, amoxicillin and clarithromycin than were observed with NEXIUM alone.
 
-the combination of NEXIUM delayed-release capsules, amoxicillin and clarithromycin were observed and were similar to
+In clinical trials using of NEXIUM, amoxicillin and clarithromycin, no additional increased laboratory abnormalities particular to these drug combinations were observed.
 
-those observed with NEXIUM, amoxicillin, or clarithromycin alone.
-The most frequently reported adverse reactions for
-
-patients who received NEXIUM, amoxicillin and clarithromycin for 10 days were diarrhea (9%), taste perversion (4%),
-
-and abdominal pain (4%).
-No adverse reactions were observed at higher rates with NEXIUM, amoxicillin and
-
-clarithromycin than were observed with NEXIUM alone.
-
-In clinical trials using of NEXIUM, amoxicillin and clarithromycin, no additional increased laboratory abnormalities
-
-particular to these drug combinations were observed.
-
-For more information on adverse reactions and laboratory changes with amoxicillin or clarithromycin, refer to Adverse
-
-Reactions section of the respective prescribing information.
+For more information on adverse reactions and laboratory changes with amoxicillin or clarithromycin, refer to Adverse Reactions section of the respective prescribing information.
 
 Pediatrics
 
 1 Year to 17 Years of Age
 
-The safety of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension was evaluated in 316
-
-pediatric and adolescent patients aged 1 year to 17 years in four clinical trials for the treatment of symptomatic GERD
-
-[see Clinical Studies (14.3)].
-In 109 pediatric patients aged 1 year to 11 years, the most frequently reported (at least 1%)
-
-treatment-related adverse reactions in these patients were diarrhea (3%), headache (2%) and somnolence (2%).
-In 149
-
-pediatric patients aged 12 years to 17 years the most frequently reported adverse reactions (at least 2%) were headache
-
-(8%), abdominal pain (3%), diarrhea (2%), and nausea (2%).
+The safety of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension was evaluated in 316 pediatric and adolescent patients aged 1 year to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.3)].
+In 109 pediatric patients aged 1 year to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (3%), headache (2%) and somnolence (2%).
+In 149 pediatric patients aged 12 years to 17 years the most frequently reported adverse reactions (at least 2%) were headache (8%), abdominal pain (3%), diarrhea (2%), and nausea (2%).
 
 1 Month to Less Than 1 Year of Age
 
-The safety of esomeprazole magnesium was evaluated in 167 infants from 1 month to less than 1 year of age with GERD
-
-in three clinical trials [see Use in Specific Populations (8.4)].
-In a study that included 43 pediatric patients, the most
-
-frequently reported adverse reactions (at least 5%) with esomeprazole magnesium were irritability and vomiting.
-In a
-
-study that included 98 pediatric patients, administered esomeprazole magnesium for up to 6 weeks (including 39 patients
-
-randomized to the withdrawal phase), reported adverse reactions were: abdominal pain (1%), regurgitation (1%),
+The safety of esomeprazole magnesium was evaluated in 167 infants from 1 month to less than 1 year of age with GERD in three clinical trials [see Use in Specific Populations (8.4)].
+In a study that included 43 pediatric patients, the most frequently reported adverse reactions (at least 5%) with esomeprazole magnesium were irritability and vomiting.
+In a study that included 98 pediatric patients, administered esomeprazole magnesium for up to 6 weeks (including 39 patients randomized to the withdrawal phase), reported adverse reactions were: abdominal pain (1%), regurgitation (1%),
 
 tachypnea (1%), and increased ALT (1%).
 
@@ -160,7 +113,7 @@ Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 
 Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
 
-Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia;
+Metabolism and nutritional disorders: hypomagnesemia (may lead to hypocalcemia and/or hypokalemia) [see Warnings and Precautions (5.9)];
 
 Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 
@@ -174,7 +127,7 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), cutaneous lupus erythematosus.
 
 Adverse reactions associated with omeprazole may also be expected to occur with esomeprazole.
 See the full prescribing information for omeprazole for complete safety information.

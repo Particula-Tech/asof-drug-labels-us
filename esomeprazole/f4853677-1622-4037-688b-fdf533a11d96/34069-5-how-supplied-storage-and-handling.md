@@ -7,7 +7,7 @@ NDC 0186-5020-31 unit of use bottles of 30
 
 NDC 0186-5020-54 bottles of 90
 
-NEXIUM Delayed-Release Capsules, 40 mg, esomeprazole, are opaque, hard gelatin, amethyst colored capsules with three radial bars in yellow on the cap and NEXIUM 40 mg in yellow on the body.
+NEXIUM Delayed-Release Capsules, 40 mg esomeprazole, are opaque, hard gelatin, amethyst colored capsules with three radial bars in yellow on the cap and NEXIUM 40 mg in yellow on the body.
 They are supplied as follows:
 
 NDC 0186-5040-31 unit of use bottles of 30

@@ -81,10 +81,10 @@ Tell your doctor right away or get emergency medical help if you get any of the 
 
 Before taking NEXIUM, tell your doctor about all of your medical conditions, including if you:
 
-- •have low magnesium levels in your blood.
+- •have low magnesium levels, low calcium levels and low potassium levels in your blood.
 - •have liver problems.
 - •are pregnant or plan to become pregnant.
-  It is not known if NEXIUM can harm your unborn baby.
+  It is not known if NEXIUM will harm your unborn baby.
 - •are breastfeeding or planning to breastfeed.
   NEXIUM may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take NEXIUM.
@@ -120,14 +120,22 @@ What are the possible side effects of NEXIUM?
 NEXIUM can cause serious side effects, including:
 
 - •See “What is the most important information I should know about NEXIUM?”
-- •Vitamin B-12 levels in your body can happen in people who have taken NEXIUM for a long time (more than 3 years).
+- •Low vitamin B-12 levels in your body can happen in people who have taken NEXIUM for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
-- •Low magnesium levels in your body. can happen in people who have taken NEXIUM for at least 3 months.
+- •Low magnesium levels in your body can happen in people who have taken NEXIUM for at least 3 months.
 - Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+- •Severe skin reactions.
+  NEXIUM can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+  - •Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - •You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 
-The most common side effects with NEXIUM may include:
+Stop taking NEXIUM and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
+
+The most common side effects of NEXIUM may include:
 
 | •headache•diarrhea •nausea •gas | •stomach (abdominal) pain•constipation•dry mouth |
 | --- | --- |
@@ -170,10 +178,10 @@ NEXIUM is a registered trademark of the AstraZeneca group of companies.
 ©2020 AstraZeneca Pharmaceuticals LP.
 All rights reserved
 
-For more information, go to www.purplepill.com or call 1-800-463-9486
+For more information, go to www.purplepill.com or call 1-800-463-9486.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: August 2021
+Revised: March 2022
 
 Instructions for Use
 

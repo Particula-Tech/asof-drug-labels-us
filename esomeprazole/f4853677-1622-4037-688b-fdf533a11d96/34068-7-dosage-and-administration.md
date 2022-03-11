@@ -9,7 +9,7 @@ NEXIUM should only be initiated and continued if the benefits outweigh the risks
 
 Table 1: Recommended Dosage of NEXIUM in Adults by Indication
 
-| Adult Indication | Recommended Dosage of NEXIUMdelayed-release capsules and NEXIUM for delayed-release oral suspension | Treatment Duration |
+| Adult Indication | Recommended Dosage of NEXIUM delayed-release capsules and NEXIUM for delayed-release oral suspension | Treatment Duration |
 | --- | --- | --- |
 | Healing of EE | 20 mg or 40 mgA maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. once daily | 4 to 8 weeksMost patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)]. |
 | Maintenance of Healing of EE | 20 mg once daily | Controlled studies do not extend beyond 6 months |
