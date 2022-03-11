@@ -141,7 +141,8 @@ Table 9 Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child a
 | Median Epworth Sleepiness Scale (Child and Adolescent) Score |  |  |  |  |
 | Placebo (n=31**) | 11 | 12 | 3 | - |
 | Xyrem (n=30**) | 8 | 9 | 0 | 0.0004 |
-| * For weekly number of cataplexy attacks, baseline value is calculated from the last 14 days of the stable-dose period. † For Epworth Sleepiness Scale score, baseline value is collected at the end of stable-dose period. ‡ Weekly number of cataplexy attacks is calculated from all days within the double-blind treatment period. § For Epworth Sleepiness Scale, value is collected at the end of the double-blind treatment period. ¶ P-value from rank-based analysis of covariance (ANCOVA) with treatment as a factor and rank baseline value as a covariate. ** One patient in each of the treatment groups did not have baseline ESS score available and were not included in this analysis. |  |  |  |  |
+
+* For weekly number of cataplexy attacks, baseline value is calculated from the last 14 days of the stable-dose period. † For Epworth Sleepiness Scale score, baseline value is collected at the end of stable-dose period. ‡ Weekly number of cataplexy attacks is calculated from all days within the double-blind treatment period. § For Epworth Sleepiness Scale, value is collected at the end of the double-blind treatment period. ¶ P-value from rank-based analysis of covariance (ANCOVA) with treatment as a factor and rank baseline value as a covariate. ** One patient in each of the treatment groups did not have baseline ESS score available and were not included in this analysis.
 
 Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of cataplexy severity and narcolepsy overall according to the clinician’s assessment compared with patients randomized to continue receiving Xyrem (see Table 10).
 
@@ -152,4 +153,5 @@ Table 10 Clinical Global Impression of Change (CGIc) for Cataplexy Severity and 
 | Placebo (n=32) | Xyrem (n=29) ‡ | Placebo (n=32) | Xyrem (n=29) ‡ |  |
 | Much worse or very much worse | 66% | 17% | 59% | 10% |
 | p-value§ | 0.0001 |  | <0.0001 |  |
-| * Responses indicate change of severity or symptoms relative to receiving Xyrem treatment at baseline. † Percentages based on total number of observed values. ‡ Two patients randomized to Xyrem did not have the CGIc assessments completed and were excluded from the analysis. § P-value from Pearson’s chi-square test. |  |  |  |  |
+
+* Responses indicate change of severity or symptoms relative to receiving Xyrem treatment at baseline. † Percentages based on total number of observed values. ‡ Two patients randomized to Xyrem did not have the CGIc assessments completed and were excluded from the analysis. § P-value from Pearson’s chi-square test.

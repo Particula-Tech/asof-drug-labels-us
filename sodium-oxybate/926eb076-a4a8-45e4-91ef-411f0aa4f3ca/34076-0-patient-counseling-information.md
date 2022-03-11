@@ -25,7 +25,7 @@ Therefore, provide patients and/or caregivers with the telephone number and webs
 
 Alcohol or Sedative Hypnotics
 
-Advise patients and/or caregivers that alcohol and other sedative hypnotics should not be taken with Xyrem.
+Advise patients and/or caregivers that alcohol and other sedative hypnotics should not be taken with Xyrem [see Contraindications (4)].
 
 Sedation
 
@@ -58,4 +58,4 @@ Instruct patients and/or caregivers that Xyrem has been associated with sleepwal
 Sodium Intake
 
 Instruct patients and/or caregivers that Xyrem contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,731,963; 8,772,306; 9,050,302; 9,486,426; and 10,213,400.
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,731,963; 8,772,306; 9,050,302; 9,486,426; 10,213,400; 10,864,181; and 11,253,494.

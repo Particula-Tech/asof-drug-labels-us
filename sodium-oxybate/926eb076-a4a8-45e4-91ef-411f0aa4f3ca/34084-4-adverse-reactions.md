@@ -108,5 +108,5 @@ The overall adverse reaction profile of Xyrem in the pediatric clinical trial wa
 The following adverse reactions have been identified during postapproval use of Xyrem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-1. arthralgia, decreased appetite, fall*, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
-2. *The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.
+- arthralgia, decreased appetite, fall*, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
+- * The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.

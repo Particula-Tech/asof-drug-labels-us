@@ -18,7 +18,7 @@ Patients have exhibited varying degrees of depressed consciousness that may fluc
 Emesis (even when obtunded), diaphoresis, headache, and impaired psychomotor skills have been observed.
 No typical pupillary changes have been described to assist in diagnosis; pupillary reactivity to light is maintained.
 Blurred vision has been reported.
-An increasing depth of coma has been observed at higher doses.
+An increasing depth of coma and acidosis have been observed at higher doses.
 Myoclonus and tonic-clonic seizures have been reported.
 Respiration may be unaffected or compromised in rate and depth.
 Cheyne-Stokes respiration and apnea have been observed.
@@ -32,8 +32,7 @@ Although the gag reflex may be absent in deeply comatose patients, even unconsci
 Vital signs and consciousness should be closely monitored.
 The bradycardia reported with GHB overdose has been responsive to atropine intravenous administration.
 No reversal of the central depressant effects of Xyrem can be expected from naloxone or flumazenil administration.
-The use of hemodialysis and other forms of extracorporeal drug removal have not been studied in GHB overdose.
-However, due to the rapid metabolism of sodium oxybate, these measures are not warranted.
+The use of hemodialysis and other forms of extracorporeal drug removal have not been studied in GHB overdose, but have been reported in cases of acidosis associated with GHB ingestions of 125 g or greater; however, due to the rapid metabolism of sodium oxybate, these measures may not be warranted.
 
 ## 10.4 Poison Control Center
 
