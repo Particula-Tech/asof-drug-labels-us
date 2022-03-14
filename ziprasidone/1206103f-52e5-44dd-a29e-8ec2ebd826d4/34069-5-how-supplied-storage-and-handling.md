@@ -6,7 +6,7 @@ Each mL of ziprasidone mesylate for injection (when reconstituted) affords a col
 | Package | Concentration | NDC Code |
 | --- | --- | --- |
 | GEODON for Injection |  |  |
-| Single-use Vials (carton of 10 vials) | 20 mg/mL | NDC-0049-1203-01 (Unit) NDC-0049-1203-10 (Pack) |
+| Single-dose Vials (carton of 10 vials) | 20 mg/mL | NDC-0049-1203-01 (Unit) NDC-0049-1203-10 (Pack) |
 
 GEODON for Injection should be stored at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in dry form.
 Protect from light.
