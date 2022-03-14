@@ -2,12 +2,14 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Eli Lilly and Company Indianapolis, IN 46285 USA
 
+Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
+
 JARDIANCE is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the EMPA-REG OUTCOME® and EMPEROR-Reduced® trademarks under license.
+Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the EMPA-REG OUTCOME®, EMPEROR-Reduced® and EMPEROR-Preserved® trademarks under license.
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8914DH162021
+COL8914EB232022

@@ -12,5 +12,5 @@
 - Use for glycemic control is not recommended in patients with an eGFR less than 30 mL/min/1.73 m2.
 - Data are insufficient to provide a dosing recommendation in patients;
   - who have type 2 diabetes and established cardiovascular disease with an eGFR less than 30 mL/min/1.73 m2, or
-  - who have heart failure with reduced ejection fraction with an eGFR less than 20 mL/min/1.73 m2 [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+  - who have heart failure with an eGFR less than 20 mL/min/1.73 m2 [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 - JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].

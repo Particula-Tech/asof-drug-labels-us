@@ -66,7 +66,8 @@ JARDIANCE is expected to have diminished glycemic efficacy in elderly patients w
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-In the EMPEROR-Reduced study, a total of 1188 (64%) patients with heart failure 65 years of age and older were treated with 10 mg of JARDIANCE.
+In heart failure studies, EMPEROR-Reduced included 1188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
+EMPEROR-Preserved included 2402 (80%) patients treated with JARDIANCE 65 years of age and older, and 1281 (43%) patients 75 years of age and older.
 Safety and efficacy were similar for patients 65 years and younger and those older than 65 years.
 
 ## 8.6 Renal Impairment
@@ -80,9 +81,9 @@ Use of JARDIANCE for glycemic control in patients without established cardiovasc
 In a large cardiovascular outcomes study of patients with type 2 diabetes and established cardiovascular disease, there were 1819 patients with eGFR below 60 mL/min/1.73 m2.
 The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14)].
 
-In the study in patients with heart failure with reduced ejection fraction [see Clinical Studies (14)] patients with eGFR equal to or above 20 mL/min/1.73 m2 were included.
+Studies of patients with heart failure [see Clinical Studies (14)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
 No dose adjustment is recommended for these patients.
-There is insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
+There are insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
 
 Efficacy and safety studies with JARDIANCE did not enroll patients with an eGFR less than 20 mL/min/1.73 m2.
 JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].

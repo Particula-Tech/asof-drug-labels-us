@@ -256,7 +256,7 @@ The mean change in body weight from baseline was -1.95 kg for JARDIANCE 10 mg, a
 
 Renal Impairment
 
-A total of 738 patients with type 2 diabetes and a baseline eGFR less than 90 mL/min/1.73 m2 participated in a randomized, double-blind, placebo-controlled, parallel-group to evaluate the efficacy and safety of JARDIANCE in patients with type 2 diabetes and renal impairment.
+A total of 738 patients with type 2 diabetes and a baseline eGFR less than 90 mL/min/1.73 m2 participated in a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of JARDIANCE in patients with type 2 diabetes and renal impairment.
 The trial population comprised of 290 patients with mild renal impairment (eGFR 60 to less than 90 mL/min/1.73 m2), 374 patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and 74 with severe renal impairment (eGFR less than 30 mL/min/1.73 m2).
 A total of 194 patients with moderate renal impairment had a baseline eGFR of 30 to less than 45 mL/min/1.73 m2 and 180 patients a baseline eGFR of 45 to less than 60 mL/min/1.73 m2.
 
@@ -317,7 +317,7 @@ Table 13 Treatment Effect for the Primary Composite Endpoint, and its Components
 | Non-fatal myocardial infarctionc | 121 (5.2%) | 213 (4.5%) | 0.87 (0.70, 1.09) |
 | Non-fatal strokec | 60 (2.6%) | 150 (3.2%) | 1.24 (0.92, 1.67) |
 | Cardiovascular deathc | 137 (5.9%) | 172 (3.7%) | 0.62 (0.49, 0.77) |
-| aTreated set (patients who had received at least one dose of study drug) bp−value for superiority (2−sided) 0.04 cTotal number of events |  |  |  |
+| aTreated set (patients who had received at least one dose of study drug) bp-value for superiority (2-sided) 0.04 cTotal number of events |  |  |  |
 
 The efficacy of JARDIANCE on cardiovascular death was generally consistent across major demographic and disease subgroups.
 
@@ -326,9 +326,9 @@ A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
 The non-cardiovascular deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with JARDIANCE, and 2.4% of patients treated with placebo).
 
-Heart Failure with Reduced Ejection Fraction
+Heart Failure
 
-EMPEROR-Reduced (NCT03057977) was a randomized, double-blind, placebo-controlled study conducted in patients with chronic heart failure (New York Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular ejection fraction [LVEF] 40% or less) to evaluate the efficacy and safety of JARDIANCE 10 mg once daily, as adjunct to standard of care heart failure therapy.
+EMPEROR-Reduced (NCT03057977) was a double-blind study conducted in patients with chronic heart failure (New York Heart Association [NYHA] functional class II-IV) with left ventricular ejection fraction (LVEF) ≤40% to evaluate the efficacy and safety of JARDIANCE as adjunct to standard of care heart failure therapy.
 
 Of 3730 patients, 1863 were randomized to JARDIANCE 10 mg and 1867 to placebo and were followed for a median of 16 months.
 The mean age of the study population was 67 years (range: 25 to 94 years) and 76% were men, 24% were women, and 27% were 75 years of age or older.
@@ -338,35 +338,74 @@ At baseline, 50% of the patients had type 2 diabetes mellitus.
 At randomization, 75% of patients were NYHA class II, 24% were class III and 0.5% were class IV.
 The mean LVEF was 28%.
 At baseline, the mean eGFR was 62 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g.
-Approximately half of the patients (52%) had eGFR ≥60 mL/min/1.73 m2, 24% had eGFR 45 to <60 mL/min/1.73 m2, 19% had eGFR 30 to <45 mL/min/1.73 m2 and 5% had eGFR 20 to <30 ml/min/1.73 m2.
+Approximately half of the patients (52%) had eGFR equal to or above 60 mL/min/1.73 m2, 24% had eGFR 45 to less than 60 mL/min/1.73 m2, 19% had eGFR 30 to less than 45 mL/min/1.73 m2 and 5% had eGFR 20 to less than 30 mL/min/1.73 m2.
 
 At baseline, 88% of patients were treated with angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARB), or angiotensin receptor-neprilysin inhibitors (ARNI), 95% with beta-blockers, 71% with mineralocorticoid receptor antagonists (MRA), and 95% with diuretics.
 
 The primary endpoint was the time to first event of either cardiovascular death (CV) or hospitalization for heart failure (HHF).
-Occurrence of HHF (first and recurrent) was assessed as a key secondary endpoint.
+First and recurrent HHF was assessed as a key secondary endpoint.
 
 JARDIANCE was superior in reducing the risk of the primary composite endpoint of cardiovascular death or hospitalization for heart failure compared with placebo, mostly through a reduction in hospitalization for heart failure.
-JARDIANCE significantly reduced the risk of occurrence of HHF (first and recurrent) (see Table 14 and Figures 7 and 8).
+JARDIANCE reduced the risk of first and recurrent HHF (see Table 14 and Figures 7 and 8).
 
 Table 14 Treatment Effect for the Primary Composite Endpoint, its Components, and Key Secondary Endpoints
 
 |  | Number of Patients (%) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo N=1867 | JARDIANCE 10 mg N=1863 | Hazard ratio vs placebo (95% CI) | p-value |
-| Primary composite of cardiovascular death or hospitalization for heart failure (time to first event) | 462 (24.7%) | 361 (19.4%) | 0.75 (0.65-0.86) | <0.0001 |
-| Cardiovascular deatha,b | 202 (10.8%) | 187 (10.0%) | 0.92 (0.75, 1.12) |  |
-| Hospitalization for heart failurea | 342 (18.3%) | 246 (13.2%) | 0.69 (0.59, 0.81) |  |
+| CV death or HHFa | 462 (24.7%) | 361 (19.4%) | 0.75 (0.65, 0.86) | <0.0001 |
+| CV deatha,b | 202 (10.8%) | 187 (10.0%) | 0.92 (0.75, 1.12) |  |
+| HHFa | 342 (18.3%) | 246 (13.2%) | 0.69 (0.59, 0.81) |  |
 |  | Number of Events |  |  |  |
-| Hospitalization for heart failure (first and recurrent) | 553 | 388 | 0.70 (0.58, 0.85) | 0.0003 |
-| aTime to first event bIncludes deaths following hospitalization |  |  |  |  |
+| First and recurrent HHFc | 553 | 388 | 0.70 (0.58, 0.85) | 0.0003 |
+| aTime to first event bIncludes deaths following hospitalization cJoint frailty model accounting for CV death |  |  |  |  |
 
 Figure 7 Time to First Occurrence of the Primary Composite Endpoint of Cardiovascular Death or Hospitalization for Heart Failure
 
 Figure 8 Time to Event of Hospitalization for Heart Failure (First and Recurrent)
 
-The results of the primary composite were generally consistent across the pre-specified subgroups, including heart failure patients with and without type 2 diabetes mellitus (see Figure 9).
+The results of the primary composite were generally consistent across the pre-specified subgroups (see Figure 9).
 
 Figure 9 Treatment Effects for the Primary Composite Endpoint (Cardiovascular Death and Hospitalization for Heart Failure) Subgroup Analysis (EMPEROR-Reduced)
 
-LVEF >30%: Includes both above and below the median NTproBNP.
-To be eligible for inclusion, patients with an LVEF >30% were required to meet a higher NTproBNP threshold than those with LVEF ≤30%, unless they additionally had a history of HHF within the past 12 months.
+LVEF >30%: Includes both above and below the median NT-proBNP.
+To be eligible for inclusion, patients with an LVEF >30% were required to meet a higher NT-proBNP threshold than those with LVEF ≤30%, unless they additionally had a history of HHF within the past 12 months.
+
+EMPEROR-Preserved (NCT03057951) was a double-blind study conducted in patients with chronic heart failure NYHA Class II-IV with LVEF >40% to evaluate the efficacy and safety of JARDIANCE as adjunct to standard of care therapy.
+
+Of 5988 patients, 2997 were randomized to JARDIANCE 10 mg and 2991 to placebo and were followed for a median of 26 months.
+The mean age of the study population was 72 years (range: 22 to 100 years) and 55% were men, 45% were women, and 43% were 75 years of age or older.
+Approximately 76% of the study population were White, 14% Asian and 4% Black or African American.
+
+At randomization, 82% of patients were NYHA class II, 18% were class III and 0.3% were class IV.
+The EMPEROR-Preserved study population included patients with a LVEF <50% (33.1%), with a LVEF 50 to <60% (34.4%) and a LVEF ≥60% (32.5%).
+At baseline, the mean eGFR was 61 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g.
+Approximately half of the patients (50%) had eGFR equal to or above 60 mL/min/1.73 m2, 26% had eGFR 45 to less than 60 mL/min/1.73 m2, 19% had eGFR 30 to less than 45 mL/min/1.73 m2, and 5% had eGFR 20 to less than 30 mL/min/1.73 m2.
+
+At baseline, 81% of patients were treated with ACE inhibitors, ARBs, or ARNI, 86% with beta-blockers, 38% with MRAs, and 86% with diuretics.
+
+The primary endpoint was the time to first event of either CV death or HHF.
+First and recurrent HHF was assessed as a key secondary endpoint.
+
+JARDIANCE was superior in reducing the risk of the primary composite endpoint compared with placebo, mostly through a reduction in hospitalization for heart failure.
+JARDIANCE reduced the risk of first and recurrent HHF (see Table 15 and Figures 10 and 11).
+
+Table 15 Treatment Effect for the Primary Composite Endpoint, its Components, and Key Secondary Endpoints
+
+|  | Number of Patients (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo N=2991 | JARDIANCE 10 mg N=2997 | Hazard ratio vs placebo (95% CI) | p-value |
+| CV death or HHFa | 511 (17.1%) | 415 (13.8%) | 0.79 (0.69, 0.90) | 0.0003 |
+| CV deatha,b | 244 (8.2%) | 219 (7.3%) | 0.91 (0.76, 1.09) |  |
+| HHFa | 352 (11.8%) | 259 (8.6%) | 0.71 (0.60, 0.83) |  |
+|  | Number of Events |  |  |  |
+| First and recurrent HHFc | 541 | 407 | 0.73 (0.61, 0.88) | 0.0009 |
+| aTime to first event bIncludes deaths following hospitalization cJoint frailty model accounting for CV death |  |  |  |  |
+
+Figure 10 Time to First Occurrence of the Primary Composite Endpoint of Cardiovascular Death or Hospitalization for Heart Failure
+
+Figure 11 Time to Event of Hospitalization for Heart Failure (First and Recurrent)
+
+The results of the primary composite endpoint were consistent across the pre-specified subgroups (see Figure 12).
+
+Figure 12 Treatment Effects for the Primary Composite Endpoint (Cardiovascular Death or Hospitalization for Heart Failure) Subgroup Analysis (EMPEROR-Preserved)

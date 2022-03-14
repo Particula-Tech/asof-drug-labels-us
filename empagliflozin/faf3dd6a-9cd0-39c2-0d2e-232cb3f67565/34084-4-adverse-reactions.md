@@ -107,10 +107,11 @@ Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
 The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
 
-Clinical Trial in Patients with Heart Failure
+Clinical Trials in Patients with Heart Failure
 
-The EMPEROR-Reduced study included 3726 patients with heart failure and reduced ejection fraction, treated with JARDIANCE 10 mg or placebo.
-No new adverse reactions were identified in the EMPEROR-Reduced heart failure study.
+The EMPEROR-Reduced study included 3730 patients with heart failure and left ventricular ejection fraction (LVEF) ≤40% followed for a median of 16 months, and EMPEROR-Preserved included 5988 patients with heart failure and LVEF >40% followed for a median of 26 months.
+In both studies, patients were randomized to JARDIANCE 10 mg or placebo.
+The safety profile in patients with heart failure was generally consistent with that observed in patients with type 2 diabetes mellitus.
 
 Laboratory Tests
 
