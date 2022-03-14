@@ -8,8 +8,9 @@ Advise patients to report to their healthcare provider if they experience any si
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precaution (5.5)]
-- •Hypomagnesemia [see Warnings and Precautions (5.7)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precaution (5.6)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
 
 Drug Interactions
 
@@ -17,10 +18,10 @@ Advise patients to report to their healthcare provider before they start treatme
 
 - 
   - •Rilpivirine-containing products [see Contraindications (4)]
-  - •Clopidogrel [see Warnings and Precautions (5.6)]
+  - •Clopidogrel [see Warnings and Precautions (5.7)]
   - •St.
-    John’s Wort or rifampin [see Warnings and Precautions (5.8)]
-  - •High-dose methotrexate [see Warnings and Precautions (5.10)]
+    John’s Wort or rifampin [see Warnings and Precautions (5.9)]
+  - •High-dose methotrexate [see Warnings and Precautions (5.11)]
 
 Administration
 
@@ -34,4 +35,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-© AstraZeneca 2020
+© AstraZeneca 2022

@@ -5,9 +5,10 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Hypomagnesemia [see Warnings and Precautions (5.7)]
-- •Fundic Gland Polyps [see Warnings and Precautions (5.11)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -86,7 +87,7 @@ Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematos
 
 Infections and Infestations: GI candidiasis;
 
-Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia;
+Metabolism and nutritional disorders: hypomagnesemia (may lead to hypocalcemia and/or hypokalemia) [see Warnings and Precautions (5.8)], hyponatremia;
 
 Musculoskeletal and Connective Tissue Disorders: muscular weakness, myalgia, bone fracture;
 
@@ -100,7 +101,7 @@ Reproductive System and Breast Disorders: gynecomastia;
 
 Respiratory, Thoracic and Mediastinal Disorders: bronchospasm;
 
-Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
+Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), cutaneous lupus erythematosus.
 
 Adverse reactions associated with omeprazole may also be expected to occur with NEXIUM I.V.
 See the full prescribing information for oral omeprazole for complete safety information.
