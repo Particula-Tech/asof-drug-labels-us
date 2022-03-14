@@ -19,6 +19,13 @@ Convulsions
 Inform patients and caregivers that reports of convulsions have been observed in patients receiving GnRH agonists, including leuprolide acetate.
 Patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and patients on concomitant medications that have been associated with convulsions may be at increased risk [see Warnings and Precautions (5.3)].
 
+Pseudotumor Cerebri (Idiopathic Intracranial Hypertension)
+
+Inform patients and caregivers that reports of pseudotumor cerebri (idiopathic intracranial hypertension) have been observed in pediatric patients receiving GnRH agonists, including leuprolide acetate.
+Advise patients and caregivers to monitor for headache, and vision issues such as blurred vision, double vision, loss of vision, pain behind the eye or pain with eye movement, ringing in the ears, dizziness, and nausea.
+Advise patients and caregivers to contact their healthcare provider if the patient develops any these symptoms.
+[see Warnings and Precautions (5.4)].
+
 Injection Site Reactions
 
 Inform patients and caregivers that injection site related adverse reactions may occur such as transient burning/stinging, pain, bruising, and redness.
@@ -35,7 +42,7 @@ Inform caregivers about the importance of adherence to the FENSOLVI dosing sched
 
 Rx only
 
-Revised 05/2020
+Revised 03/2022
 
 Manufactured by: Tolmar, Inc. Fort Collins, CO 80526 for Tolmar International Ltd. Dublin 2, Ireland D02 T380
 
@@ -45,4 +52,4 @@ Distributed by: Tolmar Pharmaceuticals, Inc. Fort Collins, CO 80526
 FENSOLVI, ATRIGEL, Tolmar, and associated logos, are trademarks of the Tolmar group.
 
 04006141 Rev.
-0 05/20
+1 03/22

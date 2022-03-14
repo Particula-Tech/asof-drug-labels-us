@@ -5,6 +5,7 @@ The following serious adverse reactions are described here and elsewhere in the 
 - Initial rise in gonadotropin and sex steroid levels [see Warnings and Precautions (5.1)].
 - Psychiatric Events [see Warnings and Precautions (5.2)].
 - Convulsions [see Warnings and Precautions (5.3)].
+- Pseudotumor Cerebri (Idiopathic Intracranial Hypertension) [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,7 +43,7 @@ Emotional disorder (2%) and irritability (2%)
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been observed in post-approval use of products containing leuprolide acetate in pediatric patients.
+The following adverse reactions have been identifed during postapproval use of leuprolide acetate or FENSOLVI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Allergic Reactions: anaphylactic, rash, urticaria, and photosensitivity reactions.
@@ -55,9 +56,10 @@ Metabolic: diabetes mellitus.
 
 Musculoskeletal and Connective Tissue: arthralgia, epiphysiolysis, muscle spasms, myalgia.
 
-Neurologic: neuropathy peripheral, convulsion, paralysis, insomnia.
+Neurologic: neuropathy peripheral, convulsion, paralysis, insomnia, pseudotumor cerebri (idiopathic intracranial hypertension).
 
-Psychiatric: emotional lability, such as crying, irritability, impatience, anger and aggression has been observed with GnRHa, including FENSOLVI; Depression, including rare reports of suicidal ideation and attempt, has been reported for GnRH agonists in pediatric patients treated for CPP.
+Psychiatric: emotional lability, such as crying, irritability, impatience, anger and aggression.
+Depression, including rare reports of suicidal ideation and attempt.
 Many, but not all, of these patients had a history of psychiatric illness or other comorbidities with an increased risk of depression.
 
 Skin and Subcutaneous Tissue: injection site reactions including induration and abscess, flushing, hyperhidrosis.
