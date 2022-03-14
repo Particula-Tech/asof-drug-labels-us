@@ -32,6 +32,9 @@ Change from Baseline to Week 12 in "Off" Time and in "On" Time Without Troubleso
 | "On" time without troublesome dyskinesia |  |  |
 | Oral immediate-release carbidopa-levodopa | 8.0 | 2.2 |
 | DUOPA | 8.7 | 4.1* |
-| LS Mean Change from Baseline based on Analysis of Covariance (ANCOVA).*=Statistically Significant. |  |  |
+| LS Mean Change from Baseline based on Analysis of Covariance (ANCOVA). *=Statistically Significant. |  |  |
 
 Figure 2 shows results over time according to treatment for the efficacy variable (change from baseline in “Off” time) that served as the clinical outcome measure at the end of the trial at 12 weeks.
+
+Figure 2.
+Change in “Off” Time Over 12 Weeks.

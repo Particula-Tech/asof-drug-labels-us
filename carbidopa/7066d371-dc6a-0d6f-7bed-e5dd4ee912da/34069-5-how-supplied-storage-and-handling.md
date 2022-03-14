@@ -15,7 +15,7 @@ Cassettes should be protected from light and kept in the carton prior to use.
 
 Thawing instructions for pharmacies
 
-- Assign a 12 week “Use By” date based on the time the cartons are put into the refrigerator to thaw.
+- Assign a 15 week “Use By” date based on the time the cartons are put into the refrigerator to thaw.
 - Fully thaw DUOPA in the refrigerator prior to dispensing.
 - In order to ensure controlled thawing of DUOPA, take the cartons containing the seven individual cassettes out of the transport box and separate the cartons from each other.
 - Thawing may take up to 96 hours when the cartons are taken out of the transport box.

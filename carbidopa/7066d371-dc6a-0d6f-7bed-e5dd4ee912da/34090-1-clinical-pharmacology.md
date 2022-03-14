@@ -24,6 +24,9 @@ Patients remained on their individualized DUOPA doses.
 
 The plasma concentrations versus time profile for levodopa with DUOPA 16-hour intrajejunal infusion is presented in Figure 1.
 
+Figure 1.
+Plasma Concentrations (mean ± standard deviation) versus Time Profile of Levodopa with DUOPA (levodopa, 1580 ± 403 mg; carbidopa, 366 ± 92 mg) 16-Hour Infusion
+
 Absorption and Bioavailability
 
 Following initiation of the 16-hour intrajejunal infusion of DUOPA, peak plasma levels of levodopa is reached at 2.5 hours.

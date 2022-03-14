@@ -12,22 +12,9 @@ What is the most important information I should know about DUOPA?
 
 DUOPA can cause serious side effects, including:
 
-- Stomach and intestine (gastrointestinal) problems and problems from the procedure you will need to have to receive DUOPA (gastrointestinal procedure-related problems).Some of these problems may require surgery and may lead to death.
-  - a blockage of your stomach or intestines (bezoar)
-  - stopping movement through intestines (ileus)
-  - drainage, redness, swelling, pain, feeling of warmth around the small hole in your stomach wall (stoma)
-  - bleeding from stomach ulcers or your intestines
-  - inflammation of your pancreas (pancreatitis)
-  - infection in your lungs (pneumonia)
-  - air or gas in your abdominal cavity
-  - skin infection around the intestinal tube, pocket of infection (abscess), infection in your blood (sepsis) or abdominal cavity may occur, after surgery
-  - stomach pain, nausea or vomiting
-- Tell your healthcare provider right away if you have any of the following symptoms of stomach and intestine problems and gastrointestinal procedure-related problems:
-  - stomach (abdominal) pain
-  - constipation that does not go away
-  - nausea or vomiting
-  - fever
-  - blood in your stool or a dark tarry stool (melanotic stool)
+- Stomach and intestine (gastrointestinal) problems and problems from the procedure you will need to have to receive DUOPA (gastrointestinal procedure-related problems).
+  Some of these problems may require surgery and may lead to death. ○ a blockage of your stomach or intestines (bezoar) ○ stopping movement through intestines (ileus) ○ drainage, redness, swelling, pain, feeling of warmth around the small hole in your stomach wall (stoma) ○ bleeding from stomach ulcers or your intestines ○ inflammation of your pancreas (pancreatitis) ○ infection in your lungs (pneumonia) ○ air or gas in your abdominal cavity ○ skin infection around the intestinal tube, pocket of infection (abscess), infection in your blood (sepsis) or abdominal cavity may occur, after surgery ○ stomach pain, nausea or vomiting
+- Tell your healthcare provider right away if you have any of the following symptoms of stomach and intestine problems and gastrointestinal procedure-related problems: ○ stomach (abdominal) pain ○ constipation that does not go away ○ nausea or vomiting ○ fever ○ blood in your stool or a dark tarry stool (melanotic stool)
 
 You will need to have a procedure to make a small hole (called a “stoma”) in your stomach wall to place a gastro-jejunostomy tube (called a PEG-J tube) in an area of your small intestine called the jejunum.
 DUOPA is delivered directly to your small intestine through this tube.
@@ -108,18 +95,12 @@ How should I use DUOPA?
 - Keep a supply of oral carbidopa-levodopa immediate release (IR) tablets with you in case you are unable to give your DUOPA infusion.
 - DUOPA is given continuously over 16 hours through a tube that is put into your stomach called a PEG-J.
   A small pump (CADD-Legacy 1400) is used to move DUOPA from the medication cassette through your PEG-J tube.
-- Your DUOPA dose has three parts:
-  - a morning dose
-  - a continuous dose
-  - extra doses
+- Your DUOPA dose has three parts: ○ a morning dose ○ a continuous dose ○ extra doses
 - DUOPA can also be given for a short time (short-term) through a tube put into your nose called a naso-jejunal (NJ) tube.
 - The CADD-Legacy 1400 portable infusion pump should be used to give DUOPA through your PEG-J tube.
   See the Instructions for Use that comes with your CADD-Legacy 1400 portable infusion pump for complete instructions on how to use the pump.
-- DUOPA comes in a small plastic container (cassette) that you connect to the pump to get your medicine.
-  - Each cassette can only be used 1 time.
-    An opened cassette should not be reused.
-  - The cassette should not be used for longer than 16 hours.
-  - The cassette should be thrown away at the end of the infusion, even if there is some medicine still in the cassette.
+- DUOPA comes in a small plastic container (cassette) that you connect to the pump to get your medicine. ○ Each cassette can only be used 1 time.
+  An opened cassette should not be reused. ○ The cassette should not be used for longer than 16 hours. ○ The cassette should be thrown away at the end of the infusion, even if there is some medicine still in the cassette.
 - Disconnect the pump from your PEG-J tube after the 16 hour dosing time is finished.
   Use a syringe filled with room temperature water to flush your PEG-J tube.
   See the “Instructions for Use” for more information about how to flush your PEG-J tube with a syringe.
@@ -138,18 +119,12 @@ DUOPA may cause serious side effects, including:
 
 - See “What is the most important information I should know about DUOPA?”
 - Falling asleep during normal daily activities.
-  DUOPA may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
-  - You could fall asleep without any warning.
-  - Some people using DUOPA have had car accidents because they fell asleep while driving.
-    Do not drive or operate machinery until you are sure how DUOPA affects you.
-    Tell your healthcare provider if you take other medicines that can make you sleepy such as sleep medicines, antidepressants, or antipsychotics.
+  DUOPA may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating. ○ You could fall asleep without any warning. ○ Some people using DUOPA have had car accidents because they fell asleep while driving.
+  Do not drive or operate machinery until you are sure how DUOPA affects you.
+  Tell your healthcare provider if you take other medicines that can make you sleepy such as sleep medicines, antidepressants, or antipsychotics.
 - Low blood pressure when you sit or stand up quickly.
   After you have been sitting or lying down, stand up slowly until you know how DUOPA affects you.
-  This may help reduce the following symptoms while you are using DUOPA:
-  - dizziness
-  - nausea
-  - sweating
-  - fainting
+  This may help reduce the following symptoms while you are using DUOPA: ○ dizziness ○ nausea ○ sweating ○ fainting
 - Seeing things that are not there, hearing sounds or feeling sensations that are not real (hallucinations).
   Hallucinations can happen in people who use DUOPA.
   Tell your healthcare provider if you have hallucinations.
@@ -170,12 +145,7 @@ DUOPA may cause serious side effects, including:
   DUOPA may cause changes in certain blood tests, especially certain hormone and kidney function blood tests.
 - Worsening of the increased pressure in your eyes (glaucoma).
   The pressure in your eyes should be checked after starting DUOPA.
-- The most common side effects of DUOPA include:
-  - swelling of legs and feet
-  - nausea
-  - high blood pressure (hypertension)
-  - depression
-  - mouth and throat pain
+- The most common side effects of DUOPA include: ○ swelling of legs and feet ○ nausea ○ high blood pressure (hypertension) ○ depression ○ mouth and throat pain
 
 Call your healthcare provider or get medical care right away if you have any of the above symptoms.
 Your healthcare provider will tell you if you should stop treatment with DUOPA and if needed, tell you how to discontinue DUOPA.
@@ -223,4 +193,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2019-2020 AbbVie Inc. 03-C123 Revised: May 2020
+© 2019-2022 AbbVie Inc. 20070164 Revised: March 2022
