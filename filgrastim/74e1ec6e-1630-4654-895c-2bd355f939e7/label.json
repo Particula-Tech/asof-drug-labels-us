@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761082"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1568-1",
+    "70121-1568-7",
+    "70121-1569-1",
+    "70121-1569-7",
+    "70121-1570-1",
+    "70121-1570-7",
+    "70121-1571-1",
+    "70121-1571-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "filgrastim",
+      "name": "RELEUKO"
+    }
+  ],
+  "setid": "74e1ec6e-1630-4654-895c-2bd355f939e7",
+  "source": "dailymed"
+}
