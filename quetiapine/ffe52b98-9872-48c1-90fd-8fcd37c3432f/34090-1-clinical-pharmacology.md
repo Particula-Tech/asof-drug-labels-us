@@ -9,7 +9,7 @@ The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activi
 ## 12.2 Pharmacodynamics
 
 Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
-The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1290 nM, respectively.
+The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1,040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1,086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1,290 nM, respectively.
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
 Effect on QT Interval
@@ -109,5 +109,5 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 |  | Coadministered drug | Quetiapine |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10­ to 12% |
-| Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
+| Lithium | Up to 2,400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
 | Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |

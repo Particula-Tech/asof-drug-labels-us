@@ -53,7 +53,7 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine (800 mg/day)* | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
 
-SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. aDifference (drug minus placebo) in least-squares mean change from baseline. *Doses that are statistically significant superior to placebo.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. *Doses that are statistically significant superior to placebo.
 
 #Doses that are statistically significant superior to quetiapine 50 mg BID.
 
@@ -118,7 +118,7 @@ Bipolar Disorder, Depressive Episodes
 
 Adults
 
-The efficacy of quetiapine for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1045) (studies 5 and 6 in Table 21).
+The efficacy of quetiapine for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1,045) (studies 5 and 6 in Table 21).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
 Patients randomized to quetiapine were administered fixed doses of either 300 mg or 600 mg once daily.
 

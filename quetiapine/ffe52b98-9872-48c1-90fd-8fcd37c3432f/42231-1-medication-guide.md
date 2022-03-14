@@ -1,6 +1,6 @@
 # Medication Guide
 
-Quetiapine (kwe-TYE-a-peen) Tablets USP
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products Quetiapine (kwe-TYE-a-peen) Tablets USP
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
@@ -263,6 +263,7 @@ Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, sil
 The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg and 400 mg tablets contain only yellow ferric oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
 
 Distributed by:
 
@@ -272,13 +273,11 @@ Cranbury, NJ 08512
 
 Manufactured by:
 
-Sun Pharmaceutical Industries Limited
+Sun Pharmaceutical Industries Ltd.
 
 Survey No.: 259/15,
 
 Dadra-396 191 (U.T. of D & NH), India.
 
 ISS.
-10/2020
-
-PGPI0246H
+03/2022
