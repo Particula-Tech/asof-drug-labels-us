@@ -114,6 +114,4 @@ Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg and 100 mg Inacti
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 07/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 02/2022
