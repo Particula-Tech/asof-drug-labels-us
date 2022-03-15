@@ -1,6 +1,6 @@
 # 1. INDICATIONS AND USAGE
 
-ZIMHITM is indicated in adults and pediatric patients for:
+ZIMHI TM is indicated in adults and pediatric patients for:
 
 - the emergency treatment of known or suspected opioid overdose, as manifested by respiratory and/or central nervous system depression.
 

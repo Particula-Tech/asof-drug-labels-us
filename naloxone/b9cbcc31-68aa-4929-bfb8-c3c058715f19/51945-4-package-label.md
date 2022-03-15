@@ -1,3 +1,3 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 38739-600-02 Rx Only ZIMHITM (naloxone HCL Injection, USP) 5 mg/ 0.5 mL
+NDC 38739-600-02 Rx Only ZIMHI TM (naloxone HCL Injection, USP) 5 mg/ 0.5 mL

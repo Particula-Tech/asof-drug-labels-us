@@ -6,7 +6,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The following adverse reactions were observed in ZIMHITM clinical studies in healthy volunteers without opioid dependence: nausea, dizziness, lightheadedness, and elevated bilirubin.
+The following adverse reactions were observed in ZIMHI TM clinical studies in healthy volunteers without opioid dependence: nausea, dizziness, lightheadedness, and elevated bilirubin.
 
 The following adverse reactions have been identified during post-approval use of naloxone hydrochloride in the post-operative setting.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest.

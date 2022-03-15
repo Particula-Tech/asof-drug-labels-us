@@ -12,13 +12,13 @@ Younger individuals or those with limited hand strength may find the device diff
 ZIMHI is light sensitive.
 Store ZIMHI in the outer case provided to protect it from light.
 
-Prior to a medical emergency (during storage), periodically visually inspect ZIMHITM through the viewing window on the device.
-If the solution is discolored yellow or brown color, cloudy, or contains particles, replace ZIMHITM with a new one [see How Supplied/Storage and Handling (16.2)].
+Prior to a medical emergency (during storage), periodically visually inspect ZIMHI TM through the viewing window on the device.
+If the solution is discolored yellow or brown color, cloudy, or contains particles, replace ZIMHI TM with a new one [see How Supplied/Storage and Handling (16.2)].
 
 Do not attempt to reuse ZIMHI.
 Each ZIMHI contains a single dose of naloxone hydrochloride for single-dose injection.
 
-Instruct the patient or caregiver to read the Instructions for Use at the time they receive a prescription for ZIMHITM.
+Instruct the patient or caregiver to read the Instructions for Use at the time they receive a prescription for ZIMHI TM.
 Emphasize the following instructions to the patient or caregiver:
 
 - Seek emergency medical care immediately after use.
@@ -56,8 +56,8 @@ Show the healthcare provider where the injection was administered.
 
 Initial Dosing
 
-Administer the initial dose of ZIMHITM to adult or pediatric patients intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary, and seek emergency medical assistance.
-Administer ZIMHITM as quickly as possible because prolonged respiratory depression may result in damage to the central nervous system or death.
+Administer the initial dose of ZIMHI TM to adult or pediatric patients intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary, and seek emergency medical assistance.
+Administer ZIMHI TM as quickly as possible because prolonged respiratory depression may result in damage to the central nervous system or death.
 
 Repeat Dosing
 

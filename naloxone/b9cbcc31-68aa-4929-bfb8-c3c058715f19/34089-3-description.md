@@ -4,7 +4,7 @@ ZIMHI (naloxone hydrochloride injection, USP) is an opioid antagonist supplied i
 ZIMHI is not made with natural rubber latex.
 Chemically, naloxone hydrochloride is the hydrochloride salt of 17-Allyl-4,5α-epoxy-3,14-dihydroxymorphinan-6-one hydrochloride with the following structure:
 
-C19H21NO4• HCl
+C 19H 21NO 4• HCl
 
 363.8 g/mol
 

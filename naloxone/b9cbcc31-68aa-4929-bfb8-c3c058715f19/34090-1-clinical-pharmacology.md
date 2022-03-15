@@ -16,24 +16,24 @@ The duration of action is dependent upon the dose and route of administration of
 
 ## 12.3 Pharmacokinetics
 
-In a pharmacokinetic study of 14 healthy adults, a single intramuscular injection of 5 mg ZIMHI in a single-dose prefilled syringe in a delivery device provides significantly higher Cmax and AUC compared to a single intramuscular injection of 2 mg naloxone hydrochloride (1mg /1mL).
+In a pharmacokinetic study of 14 healthy adults, a single intramuscular injection of 5 mg ZIMHI in a single-dose prefilled syringe in a delivery device provides significantly higher C max and AUC compared to a single intramuscular injection of 2 mg naloxone hydrochloride (1mg /1mL).
 Naloxone plasma concentration versus time profiles are shown in Figure 1.
 
 The pharmacokinetic parameters of naloxone in plasma are shown in Table 1.
 
-Table 1: Mean Pharmacokinetic Parameters (CV%) for Naloxone Following a Single Intramuscular Injection of 5 mg ZIMHITM (naloxone HCl) and a Single Intramuscular Injection of 2 mg Naloxone HCl in Healthy Subjects
+Table 1: Mean Pharmacokinetic Parameters (CV%) for Naloxone Following a Single Intramuscular Injection of 5 mg ZIMHI TM (naloxone HCl) and a Single Intramuscular Injection of 2 mg Naloxone HCl in Healthy Subjects
 
 | Parameter | Intramuscular Injection of 5 mg ZIMHI (N = 14) | Intramuscular Injection of 2 mg Naloxone HCl (N = 14) |
 | --- | --- | --- |
-| Tmax (h)* | 0.25 (0.17, 0.52) | 0.25 (0.05, 3.00) |
-| Cmax (ng/mL) | 17.2 (44) | 3.58 (58.1) |
-| AUC0-t (ng.h/mL) | 26.2 (21.5) | 9.43 (23.8) |
-| AUC0-inf (ng.h/mL) | 26.6 (21.2) | 9.97 (22.6) |
-| AUC0-0.04h (ng.h/mL) | 0.02 (208) | 0.01 (164) |
-| AUC0-0.08h (ng.h/mL) | 0.15 (117) | 0.04 (128) |
-| T1/2 (h) | 1.50 (15.2) | 1.86 (28.9) |
+| T max (h)* | 0.25 (0.17, 0.52) | 0.25 (0.05, 3.00) |
+| C max (ng/mL) | 17.2 (44) | 3.58 (58.1) |
+| AUC 0-t (ng.h/mL) | 26.2 (21.5) | 9.43 (23.8) |
+| AUC 0-inf (ng.h/mL) | 26.6 (21.2) | 9.97 (22.6) |
+| AUC 0-0.04h (ng.h/mL) | 0.02 (208) | 0.01 (164) |
+| AUC 0-0.08h (ng.h/mL) | 0.15 (117) | 0.04 (128) |
+| T 1/2 (h) | 1.50 (15.2) | 1.86 (28.9) |
 
-*tmax reported as median (minimum, maximum)
+*t max reported as median (minimum, maximum)
 
 Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-30 min and (b) 0-12 h Following a Single Intramuscular Administration of 5 mg ZIMHI and a Single Intramuscular Administration of 2 mg Naloxone HCl
 

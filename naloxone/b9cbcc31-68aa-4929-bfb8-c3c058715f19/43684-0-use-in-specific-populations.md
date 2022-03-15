@@ -23,7 +23,7 @@ Data
 
 Animal Data
 
-Naloxone hydrochloride was administered during organogenesis to mice and rats at doses 4-times and 8-times, respectively, the dose of 10 mg/day given to a 50 kg human (when based on body surface area or mg/m2).
+Naloxone hydrochloride was administered during organogenesis to mice and rats at doses 4-times and 8-times, respectively, the dose of 10 mg/day given to a 50 kg human (when based on body surface area or mg/m 2).
 These studies demonstrated no embryotoxic or teratogenic effects due to naloxone hydrochloride.
 
 ## 8.2 Lactation
@@ -36,7 +36,7 @@ Studies in nursing mothers have shown that naloxone does not affect prolactin or
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ZIMHITM (for intramuscular and subcutaneous use) have been established in pediatric patients of all ages for the emergency treatment of known or suspected opioid overdose as manifested by respiratory and/or central nervous system depression.
+The safety and effectiveness of ZIMHI TM (for intramuscular and subcutaneous use) have been established in pediatric patients of all ages for the emergency treatment of known or suspected opioid overdose as manifested by respiratory and/or central nervous system depression.
 Use of naloxone hydrochloride in all pediatric patients is supported by adult bioequivalence studies coupled with evidence from the safe and effective use of another naloxone hydrochloride injectable product.
 No pediatric studies were conducted for ZIMHI.
 

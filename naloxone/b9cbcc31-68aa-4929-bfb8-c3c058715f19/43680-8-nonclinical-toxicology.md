@@ -12,4 +12,4 @@ Naloxone was weakly positive in the Ames mutagenicity and in the in vitro human 
 
 Impairment of Fertility
 
-Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of 10 mg/day given to a 50 kg human (when based on surface area or mg/m2), demonstrated no adverse effect of naloxone hydrochloride on fertility.
+Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of 10 mg/day given to a 50 kg human (when based on surface area or mg/m 2), demonstrated no adverse effect of naloxone hydrochloride on fertility.

@@ -12,7 +12,7 @@ Inform patients of the following:
 
 Recognition of Opioid Overdose
 
-Instruct the patients and their family members or caregivers how to recognize the signs and symptoms of an opioid overdose requiring the use of ZIMHITM such as the following:
+Instruct the patients and their family members or caregivers how to recognize the signs and symptoms of an opioid overdose requiring the use of ZIMHI TM such as the following:
 
 - Extreme somnolence - inability to awaken a patient verbally or upon a firm sternal rub.
 - Respiratory depression - this can range from slow or shallow respiration to no respiration in a patient who is unarousable.
