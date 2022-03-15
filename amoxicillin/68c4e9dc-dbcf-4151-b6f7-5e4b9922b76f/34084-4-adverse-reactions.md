@@ -81,7 +81,7 @@ Nervous System/Psychiatric: depression, agitation, aggression, hallucinations, c
 
 Respiratory: epistaxis
 
-Skin and subcutaneous tissue disorders: Severe cutaneous adverse reactions (SCAR) such as SJS, TEN, and AGEP, photosensitivity, urticaria, pruritus, petechiae, purpura, alopecia, dry skin, hyperhidrosis
+Skin and subcutaneous tissue disorders: SCAR such as SJS, TEN, DRESS, AGEP, photosensitivity, urticaria, pruritus, petechiae, purpura, alopecia, dry skin, hyperhidrosis
 
 Special Senses: tinnitus, taste perversion
 
@@ -101,9 +101,9 @@ Renal: crystalluria [see Overdosage (10)]
 
 Hemic and Lymphatic Systems: anemia, hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis
 
-Central Nervous System: hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, behavioral changes, and/or dizziness
+Central Nervous System: hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, aseptic meningitis, behavioral changes, and/or dizziness
 
-Skin and subcutaneous tissue disorders: SCAR, such as SJS, TEN, and AGEP.
+Skin and subcutaneous tissue disorders: SCAR, such as SJS, TEN, DRESS, and AGEP.
 
 Rifabutin
 

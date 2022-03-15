@@ -13,8 +13,7 @@ Discontinue TALICIA and institute immediate therapy, if hypersensitivity reactio
 
 ## 5.2 Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported with the components of TALICIA: rifabutin, amoxicillin, and omeprazole [see Warnings and Precautions (5.1) and Adverse Reactions (6.3)].
-In addition, drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with rifabutin, a component of TALICIA.
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the components of TALICIA: rifabutin, amoxicillin, and omeprazole [see Warnings and Precautions (5.1) and Adverse Reactions (6.3)].
 
 Monitor closely and discontinue TALICIA at the first signs of SCAR.
 
