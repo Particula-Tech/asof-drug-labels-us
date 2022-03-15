@@ -15,24 +15,24 @@ At the 5 mg daily dose, decreases in deoxypyridinoline/creatinine were evident w
 Changes in bone formation markers were observed later than changes in resorption markers, as expected, due to the coupled nature of bone resorption and bone formation; decreases in bone-specific alkaline phosphatase of about 20% were evident within 3 months of treatment.
 Bone turnover markers reached a nadir of about 40% below baseline values by the sixth month of treatment and remained stable with continued treatment for up to 3 years.
 Bone turnover is decreased as early as 14 days and maximally within about 6 months of treatment, with achievement of a new steady-state that more nearly approximates the rate of bone turnover seen in premenopausal women.
-In a 1-year study comparing Risedronate sodium 35 mg weekly taken immediately after breakfast versus risedronate sodium immediate-release 5 mg daily oral dosing regimens in postmenopausal women, mean decreases from baseline at 1 year in urinary collagen cross-linked N-telopeptide were 47% in the Risedronate sodium 35 mg once-a-week following breakfast group and 42% in the risedronate sodium immediate-release 5 mg daily group.
-In addition, serum bone-specific alkaline phosphatase at 1 year was reduced by 33% in the Risedronate sodium 35 mg once-a-week following breakfast group and 32% in the risedronate sodium immediate-release 5 mg daily group.
+In a 1-year study comparing Risedronate sodium delayed-release 35 mg weekly taken immediately after breakfast versus risedronate sodium immediate-release 5 mg daily oral dosing regimens in postmenopausal women, mean decreases from baseline at 1 year in urinary collagen cross-linked N-telopeptide were 47% in the Risedronate sodium delayed-release 35 mg once-a-week following breakfast group and 42% in the risedronate sodium immediate-release 5 mg daily group.
+In addition, serum bone-specific alkaline phosphatase at 1 year was reduced by 33% in the Risedronate sodium delayed-release 35 mg once-a-week following breakfast group and 32% in the risedronate sodium immediate-release 5 mg daily group.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 The mean absolute oral bioavailability of the 30 mg risedronate sodium immediate-release tablet taken 4 hours prior to a meal is 0.63% (90% confidence interval [CI]: 0.54% to 0.75%) and is similar to an oral solution.
-The time to peak concentration (Tmax) for Risedronate sodium tablet is approximately 3 hours when administered in the morning 4 hours prior to a meal.
+The time to peak concentration (Tmax) for Risedronate sodium delayed-release tablet is approximately 3 hours when administered in the morning 4 hours prior to a meal.
 
 Food Effect
 
-In a crossover pharmacokinetic study, the bioavailability of Risedronate sodium 35 mg delayed-release tablets decreased by approximately 30% when administered immediately after a high-fat breakfast compared to administration in the morning 4 hours before a meal.
+In a crossover pharmacokinetic study, the bioavailability of Risedronate sodium delayed-release 35 mg delayed-release tablets decreased by approximately 30% when administered immediately after a high-fat breakfast compared to administration in the morning 4 hours before a meal.
 
-The bioavailability of the 35 mg Risedronate sodium tablet administered after a high-fat breakfast was similar to risedronate sodium 35 mg immediate-release tablet dosed 4 hours before a meal in one study and was approximately 2- to 4-fold greater than the immediate-release 35 mg tablet administered 30 minutes prior to a high-fat breakfast.
+The bioavailability of the 35 mg Risedronate sodium delayed-release tablet administered after a high-fat breakfast was similar to risedronate sodium 35 mg immediate-release tablet dosed 4 hours before a meal in one study and was approximately 2- to 4-fold greater than the immediate-release 35 mg tablet administered 30 minutes prior to a high-fat breakfast.
 
-In a separate study, Risedronate sodium administered after dinner exhibited approximately 87% increase in risedronate exposure compared to administration following a breakfast.
-The safety and efficacy of dosing Risedronate sodium after dinner has not been evaluated [see Dosage and Administration (2)].
+In a separate study, Risedronate sodium delayed-release administered after dinner exhibited approximately 87% increase in risedronate exposure compared to administration following a breakfast.
+The safety and efficacy of dosing Risedronate sodium delayed-release after dinner has not been evaluated [see Dosage and Administration (2)].
 
 Distribution
 
@@ -56,18 +56,18 @@ In osteopenic postmenopausal women, the terminal exponential half-life was 561 h
 
 Specific Populations
 
-Pediatric: Risedronate sodium is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
+Pediatric: Risedronate sodium delayed-release is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
-Geriatric: Effect of age on bioavailability of Risedronate sodium has not been evaluated.
+Geriatric: Effect of age on bioavailability of Risedronate sodium delayed-release has not been evaluated.
 Based on data from risedronate immediate-release tablet, bioavailability and disposition of risedronate are similar in elderly (greater than 60 years of age) and younger subjects.
 No dosage adjustment is necessary.
 
 Race: Pharmacokinetic differences due to race have not been studied.
-The clinical trial of Risedronate sodium was conducted mostly in Caucasians.
+The clinical trial of Risedronate sodium delayed-release was conducted mostly in Caucasians.
 
 Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
-Risedronate sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
+Risedronate sodium delayed-release is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
 Hepatic Impairment: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
@@ -77,9 +77,9 @@ Therefore, dosage adjustment is unlikely to be needed in patients with hepatic i
 
 Drug Interactions: Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
-Calcium supplement: A Phase 1 single-dose, cross-over study in 101 postmenopausal women evaluated the relative bioavailability of Risedronate sodium 35 mg delayed-release tablets taken after breakfast and following a 600 mg elemental calcium/400 international units vitamin D supplement, compared to Risedronate sodium alone taken after breakfast without calcium or vitamin D supplementation.
+Calcium supplement: A Phase 1 single-dose, cross-over study in 101 postmenopausal women evaluated the relative bioavailability of Risedronate sodium delayed-release 35 mg delayed-release tablets taken after breakfast and following a 600 mg elemental calcium/400 international units vitamin D supplement, compared to Risedronate sodium delayed-release alone taken after breakfast without calcium or vitamin D supplementation.
 The addition of the calcium/vitamin D supplement following the meal resulted in an approximate 38% reduction in the amount of risedronate absorbed [see Drug Interactions (7)].
 
-Proton Pump Inhibitors: A Phase 1, 2-period, cross-over study in 60 healthy postmenopausal female subjects evaluated the relative bioavailability of a single dose Risedronate sodium 35 mg delayed-release tablet taken after breakfast following 6 days of esomeprazole magnesium delayed release 40 mg capsules.
-On Day 6, esomeprazole 40 mg capsule was administered with 240 mL water one hour before breakfast and Risedronate sodium 35 mg tablet was administered with 240 mL water within 10 minutes after a standard breakfast.
+Proton Pump Inhibitors: A Phase 1, 2-period, cross-over study in 60 healthy postmenopausal female subjects evaluated the relative bioavailability of a single dose Risedronate sodium delayed-release 35 mg delayed-release tablet taken after breakfast following 6 days of esomeprazole magnesium delayed release 40 mg capsules.
+On Day 6, esomeprazole 40 mg capsule was administered with 240 mL water one hour before breakfast and Risedronate sodium delayed-release 35 mg tablet was administered with 240 mL water within 10 minutes after a standard breakfast.
 The Cmax and AUCinf of risedronate were increased by 60 percent and 22 percent, respectively, in presence of esomeprazole.

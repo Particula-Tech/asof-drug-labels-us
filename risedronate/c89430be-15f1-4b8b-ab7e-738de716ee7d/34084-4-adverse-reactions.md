@@ -6,23 +6,23 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Treatment of Postmenopausal Osteoporosis
 
-Once-a-Week Dosing with Risedronate sodium (risedronate sodium) delayed-release tablets
+Once-a-Week Dosing with Risedronate sodium delayed-release tablets
 
-The safety of Risedronate sodium 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing Risedronate sodium 35 mg once-a-week to risedronate sodium immediate-release 5 mg daily in postmenopausal women 50 years of age or older.
-Risedronate sodium was administered either at least 30 minutes before (N = 308) or immediately following (N = 307) breakfast, and risedronate sodium immediate-release 5 mg daily (N = 307) was administered at least 30 minutes before breakfast.
+The safety of Risedronate sodium delayed-release 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing Risedronate sodium delayed-release 35 mg once-a-week to risedronate sodium immediate-release 5 mg daily in postmenopausal women 50 years of age or older.
+Risedronate sodium delayed-release was administered either at least 30 minutes before (N = 308) or immediately following (N = 307) breakfast, and risedronate sodium immediate-release 5 mg daily (N = 307) was administered at least 30 minutes before breakfast.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
-All women received daily supplementation with 1000 mg of elemental calcium plus 800 to 1000 international units vitamin D. As treatment with Risedronate sodium resulted in a significantly higher incidence of abdominal pain when administered before breakfast under fasting conditions, safety results that follow refer only to Risedronate sodium 35 mg once-a-week immediately following breakfast and risedronate sodium immediate-release 5 mg daily.
+All women received daily supplementation with 1000 mg of elemental calcium plus 800 to 1000 international units vitamin D. As treatment with Risedronate sodium delayed-release resulted in a significantly higher incidence of abdominal pain when administered before breakfast under fasting conditions, safety results that follow refer only to Risedronate sodium delayed-release 35 mg once-a-week immediately following breakfast and risedronate sodium immediate-release 5 mg daily.
 
-The incidence of all-cause mortality was 0.0% in the Risedronate sodium 35 mg once-a-week group and 0.3% in the risedronate sodium immediate-release 5 mg daily group.
-The incidence of serious adverse reactions was 6.5% in the Risedronate sodium 35 mg once-a-week group and 7.2% in the risedronate sodium immediate-release 5 mg daily group.
-The percentage of patients who withdrew from the study due to adverse reactions was 9.1% in the Risedronate sodium 35 mg once-a-week group and 8.1% in the risedronate sodium immediate-release 5 mg daily group.
+The incidence of all-cause mortality was 0.0% in the Risedronate sodium delayed-release 35 mg once-a-week group and 0.3% in the risedronate sodium immediate-release 5 mg daily group.
+The incidence of serious adverse reactions was 6.5% in the Risedronate sodium delayed-release 35 mg once-a-week group and 7.2% in the risedronate sodium immediate-release 5 mg daily group.
+The percentage of patients who withdrew from the study due to adverse reactions was 9.1% in the Risedronate sodium delayed-release 35 mg once-a-week group and 8.1% in the risedronate sodium immediate-release 5 mg daily group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 Table 1 lists adverse reactions reported in greater than or equal to 2% of patients.
 Adverse reactions are shown without attribution of causality.
 
 Table 1 Adverse Reactions Occurring at a Frequency of greater than or equal to 2% in Either Treatment Group
 
-|  | 35 mg Risedronate sodium Delayed-release | 5 mg Risedronate sodium Immediate- release |
+|  | 35 mg Risedronate sodium delayed-release | 5 mg Risedronate sodium Immediate- release |
 | --- | --- | --- |
 |  | Weekly | Daily |
 | System Organ Class | N = 307 | N = 307 |
@@ -50,21 +50,21 @@ Table 1 Adverse Reactions Occurring at a Frequency of greater than or equal to 2
 | Headache | 2.6 | 4.9 |
 
 Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
-The overall incidence of acute phase reaction was 2.3% in the Risedronate sodium 35 mg once-a-week group and 1.3% in the risedronate sodium immediate-release 5 mg daily group.
+The overall incidence of acute phase reaction was 2.3% in the Risedronate sodium delayed-release 35 mg once-a-week group and 1.3% in the risedronate sodium immediate-release 5 mg daily group.
 These incidence rates are based on reporting of one or more pre-specified acute phase reaction-like symptoms within 3 days of the first dose and for a duration of 7 days or less.
 
-Gastrointestinal Adverse Reactions: Adverse reactions related to the upper gastrointestinal tract occurred in 16% of subjects treated with Risedronate sodium 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
-The incidence of upper gastrointestinal tract adverse reactions in the Risedronate sodium 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (5.2% versus 2.9%), dyspepsia (3.9% versus 3.9%), upper abdominal pain (2.9% versus 2.3%), gastritis (1.0% versus 1.0%), and gastroesophageal reflux disease (1.0% versus 1.6%).
-Study discontinuation due to abdominal pain occurred in 1.3% of the Risedronate sodium 35 mg once-a-week group and 0.7% of the risedronate sodium immediate-release 5 mg daily group.
+Gastrointestinal Adverse Reactions: Adverse reactions related to the upper gastrointestinal tract occurred in 16% of subjects treated with Risedronate sodium delayed-release 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
+The incidence of upper gastrointestinal tract adverse reactions in the Risedronate sodium delayed-release 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (5.2% versus 2.9%), dyspepsia (3.9% versus 3.9%), upper abdominal pain (2.9% versus 2.3%), gastritis (1.0% versus 1.0%), and gastroesophageal reflux disease (1.0% versus 1.6%).
+Study discontinuation due to abdominal pain occurred in 1.3% of the Risedronate sodium delayed-release 35 mg once-a-week group and 0.7% of the risedronate sodium immediate-release 5 mg daily group.
 
-Musculoskeletal Adverse Reactions: Selected musculoskeletal adverse reactions were reported in 16% of subjects treated with Risedronate sodium 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
-The incidence of musculoskeletal adverse reactions in the Risedronate sodium 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: arthralgia (6.8% versus 7.8%), back pain (6.8% versus 5.9%), musculoskeletal pain (2.0% versus 1.6%), and myalgia (1.3% versus 1.0%).
+Musculoskeletal Adverse Reactions: Selected musculoskeletal adverse reactions were reported in 16% of subjects treated with Risedronate sodium delayed-release 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
+The incidence of musculoskeletal adverse reactions in the Risedronate sodium delayed-release 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: arthralgia (6.8% versus 7.8%), back pain (6.8% versus 5.9%), musculoskeletal pain (2.0% versus 1.6%), and myalgia (1.3% versus 1.0%).
 
 Laboratory Test Findings:
 
-Parathyroid hormone: The effect of Risedronate sodium 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily on parathyroid hormone was evaluated in postmenopausal women with osteoporosis.
-At week 52, in subjects with normal levels at baseline, PTH levels greater than 65 pg/mL (upper limit of normal) were noted in 9% of subjects receiving Risedronate sodium 35 mg once-a-week and 8% of subjects receiving risedronate sodium immediate-release 5 mg daily.
-In subjects with normal levels at baseline, PTH levels greater than 97 pg/mL (1.5 times the upper limit of normal) were seen in 2% of subjects receiving Risedronate sodium 35 mg once-a-week and no subjects receiving risedronate sodium immediate-release 5 mg daily.
+Parathyroid hormone: The effect of Risedronate sodium delayed-release 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily on parathyroid hormone was evaluated in postmenopausal women with osteoporosis.
+At week 52, in subjects with normal levels at baseline, PTH levels greater than 65 pg/mL (upper limit of normal) were noted in 9% of subjects receiving Risedronate sodium delayed-release 35 mg once-a-week and 8% of subjects receiving risedronate sodium immediate-release 5 mg daily.
+In subjects with normal levels at baseline, PTH levels greater than 97 pg/mL (1.5 times the upper limit of normal) were seen in 2% of subjects receiving Risedronate sodium delayed-release 35 mg once-a-week and no subjects receiving risedronate sodium immediate-release 5 mg daily.
 There were no clinically significant differences between treatment groups for levels of calcium, phosphorus and magnesium.
 
 Daily Dosing with risedronate sodium immediate-release 5 mg tablets
@@ -97,7 +97,7 @@ Clinically important findings (perforations, ulcers, or bleeding) among this sym
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported with the use of Risedronate sodium.
+The following adverse reactions have been reported with the use of Risedronate sodium delayed-release.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity Reactions

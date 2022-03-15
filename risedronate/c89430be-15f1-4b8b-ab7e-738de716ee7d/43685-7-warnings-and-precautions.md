@@ -2,28 +2,28 @@
 
 ## 5.1Drug Products with the Same Active Ingredient
 
-Risedronate sodium contains the same active ingredient found in Actonel®.
-A patient being treated with Actonel should not receive Risedronate sodium.
+Risedronate sodium delayed-release contains the same active ingredient found in Risedronate sodium immediate-release.
+A patient being treated with Risedronate sodium immediate-release should not receive Risedronate sodium delayed-release.
 
 ## 5.2 Upper Gastrointestinal Adverse Reactions
 
-Risedronate sodium, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
-Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when Risedronate sodium is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
+Risedronate sodium delayed-release, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when Risedronate sodium delayed-release is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
 Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates.
 In some cases, these have been severe and required hospitalization.
-Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue Risedronate sodium and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
+Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue Risedronate sodium delayed-release and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
 The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates and/or who fail to swallow it with the recommended 4 ounces of water, and/or who continue to take oral bisphosphonates after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2)].
-In patients who cannot comply with dosing instructions due to mental disability, therapy with Risedronate sodium should be used under appropriate supervision.
+In patients who cannot comply with dosing instructions due to mental disability, therapy with Risedronate sodium delayed-release should be used under appropriate supervision.
 
 There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
 
 ## 5.3Mineral Metabolism
 
-Hypocalcemia has been reported in patients taking Risedronate sodium.
-Treat hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting Risedronate sodium therapy.
+Hypocalcemia has been reported in patients taking Risedronate sodium delayed-release.
+Treat hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting Risedronate sodium delayed-release therapy.
 Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
 Adequate intake of calcium and vitamin D is important in all patients [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
@@ -64,9 +64,9 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.7Renal Impairment
 
-Risedronate sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+Risedronate sodium delayed-release is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 
 ## 5.8 Laboratory Test Interactions
 
 Bisphosphonates are known to interfere with the use of bone-imaging agents.
-Specific studies with Risedronate sodium have not been performed.
+Specific studies with Risedronate sodium delayed-release have not been performed.

@@ -2,16 +2,16 @@
 
 ## 14.1Treatment of Osteoporosis in Postmenopausal Women
 
-The efficacy of Risedronate sodium 35 mg once-a-week in the treatment of postmenopausal osteoporosis was demonstrated in a randomized, double-blind, active-control trial of approximately 900 subjects.
+The efficacy of Risedronate sodium delayed-release 35 mg once-a-week in the treatment of postmenopausal osteoporosis was demonstrated in a randomized, double-blind, active-control trial of approximately 900 subjects.
 All patients in this study received supplemental calcium (1000 mg/day) and vitamin D (800 to 1000 international units/day).
 The primary efficacy endpoint was percent change in lumbar spine bone mineral density at 1 year.
 
-Risedronate sodium 35 mg once-a-week administered after breakfast was shown to be non-inferior to risedronate sodium immediate-release 5 mg daily.
+Risedronate sodium delayed-release 35 mg once-a-week administered after breakfast was shown to be non-inferior to risedronate sodium immediate-release 5 mg daily.
 Table 2 presents the primary efficacy analysis, percent change in lumbar spine BMD, in the intent-to-treat population with last observation carried forward (LOCF).
 
 Table 2 Lumbar Spine BMD - Percent Change from Baseline at Endpoint[a]
 
-|  | Risedronate sodium immediate-release 5 mg Daily | Risedronate sodium 35 mg Once-a-Week Following Breakfast |
+|  | Risedronate sodium immediate-release 5 mg Daily | Risedronate sodium delayed-release 35 mg Once-a-Week Following Breakfast |
 | --- | --- | --- |
 |  | N = 307 | N = 307 |
 | Primary Efficacy (LOCF) |  |  |
@@ -25,7 +25,7 @@ Fracture efficacy with risedronate sodium immediate-release 5 mg daily
 The fracture efficacy of risedronate sodium immediate-release 5 mg daily in the treatment of postmenopausal osteoporosis was demonstrated in 2 large, randomized, placebo-controlled, double-blind studies that enrolled a total of almost 4000 postmenopausal women under similar protocols.
 The Multinational study (VERT MN) (risedronate sodium immediate-release 5 mg daily, N = 408) was conducted primarily in Europe and Australia; a second study was conducted in North America (VERT NA) (risedronate sodium immediate-release 5 mg daily, N = 821).
 Patients were selected on the basis of radiographic evidence of previous vertebral fracture, and therefore, had established disease.
-The average number of prevalent vertebral fractures per patient at study entry was 4 inVERT MN, and 2.5 in VERT NA, with a broad range of baseline BMD levels.
+The average number of prevalent vertebral fractures per patient at study entry was 4 in VERT MN, and 2.5 in VERT NA, with a broad range of baseline BMD levels.
 All patients in these studies received supplemental calcium 1000 mg/day.
 Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) also received 500 international units/day supplemental vitamin D.
 
