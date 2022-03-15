@@ -13,9 +13,7 @@ Eyelash changes are usually reversible upon discontinuation of treatment.
 
 Handling the Container
 
-Instruct patients to avoid allowing the tip of the dispensing container to contact the eye,
-
-surrounding structures, fingers, or any other surface in order to avoid contamination of the solution by common bacteria known to cause ocular infections.
+Instruct patients to avoid allowing the tip of the dispensing container to contact the eye, surrounding structures, fingers, or any other surface in order to avoid contamination of the solution by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
 
 When to Seek Physician Advice
@@ -31,14 +29,12 @@ Use with Other Ophthalmic Drugs
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-Distributed by:
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-Allergan USA, Inc. Madison, NJ 07940
-
-© 2020 Allergan.
+© 2022 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
-See: www.allergan.com/patents
+See: www.allergan.com/patents Rev: 03/2022
 
-Rev: 9/2020
+v1.0USPI3205

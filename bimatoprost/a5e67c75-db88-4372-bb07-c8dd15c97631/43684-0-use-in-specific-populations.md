@@ -7,7 +7,7 @@ Risk Summary
 There are no adequate and well-controlled studies of LUMIGAN® (bimatoprost ophthalmic solution) 0.01% administration in pregnant women.
 There is no increase in the risk of major birth defects or miscarriages based on bimatoprost postmarketing experience.
 
-In embryofetal developmental studies, administraton of bimatoprost to pregnant mice and rats during organogenesis, resulted in abortion and early delivery at oral doses at least 33 times (mice) or 94 times (rats) the human exposure to bimatoprost 0.03% dosed bilaterally once daily (based on blood area under the curve [AUC] levels).
+In embryofetal developmental studies, administration of bimatoprost to pregnant mice and rats during organogenesis, resulted in abortion and early delivery at oral doses at least 33 times (mice) or 94 times (rats) the human exposure to bimatoprost 0.03% dosed bilaterally once daily (based on blood area under the curve [AUC] levels).
 These adverse effects were not observed at 2.6 times (mice) and 47 times (rats) the human exposure to bimatoprost 0.03% dosed bilaterally once daily (based on blood AUC levels).
 
 In pre/postnatal development studies, administration of bimatoprost to pregnant rats from organogenesis to the end of lactation resulted in reduced gestation length and fetal body weight, and increased fetal and pup mortality at oral doses at least 41 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily (based on blood AUC levels).
