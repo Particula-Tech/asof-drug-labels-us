@@ -229,7 +229,7 @@ Bronchospasm and pneumonia.
 
 Skin
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, acute generalized exanthematous pustulosis.
 
 Special Senses
 
