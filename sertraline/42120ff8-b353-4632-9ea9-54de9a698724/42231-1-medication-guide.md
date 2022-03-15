@@ -78,6 +78,24 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking, memory problems
 
+9.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including sertraline hydrochloride tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with sertraline hydrochloride tablets.
+There may be treatments your healthcare provider can suggest.
+
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
 
@@ -225,7 +243,7 @@ Active ingredient: sertraline hydrochloride
 
 Inactive ingredients:
 
-D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide.
+D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide and vanillin.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
@@ -241,4 +259,4 @@ United States
 
 MADE IN INDIA
 
-Revised: September 2017 ID#: 252898
+Revised: March 2022 ID#: 269601

@@ -1,14 +1,11 @@
 # 10 OVERDOSAGE
 
-Human Experience
+The following have been reported with sertraline tablet overdosage:
 
-The most common signs and symptoms associated with non-fatal sertraline hydrochloride overdosage were somnolence, vomiting, tachycardia, nausea, dizziness, agitation and tremor.
-No cases of fatal overdosage with only sertraline have been reported.
+- Seizures, which may be delayed, and altered mental status including coma.
+- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation.
+  Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
+- Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
-Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QTc-interval prolongation, Torsade de Pointes, serotonin syndrome, stupor, and syncope.
-[See Clinical Pharmacology (12.2)].
-
-Overdose Management
-
-No specific antidotes for sertraline hydrochloride are known.
-Contact Poison Control (1-800-222-1222) for latest recommendations.
+Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a sertraline overdose.
+Consider contacting a Poison Center (1-800-221-2222) or a medical toxicologist for additional overdosage management recommendations.
