@@ -158,3 +158,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2 × ULN, alkaline phosphatase ≥2 × ULN, transaminase ≥5 × ULN).
+
+Psychiatric disorders: delirium
