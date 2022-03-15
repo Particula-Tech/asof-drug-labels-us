@@ -24,7 +24,7 @@ Thirteen (4.3%) patients discontinued treatment with Irinotecan Hydrochloride In
 The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
 
 Table 3.
-Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectuma
+Adverse Events Occurring in >10% of 304 Previously Treated Patients With Metastatic Carcinoma of the Colon or Rectuma
 
 | Body System & Event | % of Patients Reporting |  |
 | --- | --- | --- |

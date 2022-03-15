@@ -31,7 +31,7 @@ Maximum concentrations of the active metabolite SN-38 are generally seen within 
 Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 5:
 
 Table 5.
-Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients with Solid Tumors
+Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients With Solid Tumors
 
 | Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,15 +46,15 @@ Irinotecan exhibits moderate plasma protein binding (30% to 68% bound).
 SN-38 is highly bound to human plasma proteins (approximately 95% bound).
 The plasma protein to which irinotecan and SN-38 predominantly binds is albumin.
 
+Elimination
+
 Metabolism
 
-Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
-Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive oxidation products, one of which can be hydrolyzed by carboxylesterase to release SN-38.
-In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
-UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
-Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
-In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
-SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
+Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases that form an active metabolite SN-38, and UGT1A1 which mediates the glucuronidation of SN-38 to form an inactive metabolite.
+SN 38 glucuronide had 1/50 to 1/100 the activity of SN-38.
+Patients who are homozygous for either the UGT1A1*28 or *6 alleles, or who are compound heterozygous for these alleles, have higher SN-38 AUC than patients with the wild-type UGT1A1 alleles [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.5)].
+
+Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive metabolites, one of which can be hydrolyzed by carboxylesterase to release the active metabolite SN-38.
 
 Excretion
 
@@ -62,7 +62,9 @@ The disposition of irinotecan has not been fully elucidated in humans.
 The urinary excretion of irinotecan is 11% to 20%; SN-38, <1%; and SN-38 glucuronide, 3%.
 The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
 
-Effect of Age
+Specific Populations
+
+Geriatric Patients
 
 The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
 Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients <65 years of age compared with patients ≥65 years of age.
@@ -70,26 +72,48 @@ In a study of 162 patients that was not prospectively designed to investigate th
 Although dose-normalized AUC0-24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
 
-Effect of Gender
+Male and Female Patients
 
 The pharmacokinetics of irinotecan do not appear to be influenced by gender.
 
-Effect of Race
+Racial and Ethnic Groups
 
 The influence of race on the pharmacokinetics of irinotecan has not been evaluated.
 
-Effect of Hepatic Impairment
+Patients with Renal Impairment
+
+The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
+
+Patients with Hepatic Impairment
 
 Irinotecan clearance is diminished in patients with hepatic impairment while exposure to the active metabolite SN-38 is increased relative to that in patients with normal hepatic function.
 The magnitude of these effects is proportional to the degree of liver impairment as measured by elevations in total bilirubin and transaminase concentrations.
-However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2.1), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)].
+However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently.
 
-Effect of Renal Impairment
+Drug Interaction Studies
 
-The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
-Therefore, caution should be undertaken in patients with impaired renal function.
-Irinotecan is not recommended for use in patients on dialysis [see Use in Specific Populations (8.6)].
-
-Drug Interactions
+Clinical Studies and Model-Informed Approaches
 
 Dexamethasone, a moderate CYP3A4 inducer, does not appear to alter the pharmacokinetics of irinotecan.
+
+In Vitro Studies
+
+Irinotecan and the metabolites SN-38 and aminopentane carboxylic acid (APC) do not inhibit cytochrome P-450 isozymes.
+
+## 12.5 Pharmacogenomics
+
+The active metabolite SN-38 is further metabolized via UGT1A1.
+Genetic variants of the UGT1A1 gene such as the UGT1A1*28 [(TA)7] and *6 alleles lead to reduced UGT1A1 enzyme expression or activity and decreased function to a similar extent.
+
+Individuals who are homozygous or compound (double) heterozygous for these alleles (e.g., *28/*28, *6/*6, *6/*28) are UGT1A1 poor metabolizers and are at increased risk for severe or life-threatening neutropenia from Irinotecan Hydrochloride, USPI due to elevated systemic exposure to SN-38.
+The UGT1A1*6/*6 genotype should not be confused with 6/6 genotype, which is sometimes used to represent the genotype of individuals who are wild type for UGT1A1*28.
+Individuals who are heterozygous for either the UGT1A1*28 or *6 alleles (*1/*6, *1/*28) are UGT1A1 intermediate metabolizers and may also have an increased risk of severe or life-threatening neutropenia [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+
+Published studies have shown that individuals with UGT1A1*28 and *6 alleles may be at an increased risk of severe diarrhea.
+The risk evidence appears greater in UGT1A1*28 and *6 homozygous patients and in those taking irinotecan doses > 125 mg/m2 [see Warnings and Precautions (5.1)].
+
+UGT1A1*28 and *6 alleles occur at various frequencies in different populations.
+Approximately 20% of Black or African American, 10% of White, and 2% of East Asian individuals are homozygous for the UGT1A1*28 allele.
+Approximately 2–6 % of East Asian individuals are homozygous for the UGT1A1*6 allele.
+The UGT1A1*6 allele is uncommon in Black or African American or in White individuals.
+Decreased function alleles other than UGT1A1*28 and *6 may be present in certain populations.

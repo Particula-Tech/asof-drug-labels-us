@@ -10,7 +10,7 @@
 - •Patients should be warned about the potential for dizziness or visual disturbances which may occur within 24 hours following the administration of Irinotecan Hydrochloride Injection, USP.
 - •Explain the significance of routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever or infection.
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.9), Use in Specific Populations (8.1 and 8.3), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)]
+- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)]
   - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy.
   - •Advise females of reproductive potential to use effective contraception during treatment with Irinotecan Hydrochloride Injection, USP and for 6 months after the final dose.
   - •Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of Irinotecan Hydrochloride Injection, USP.
@@ -23,4 +23,4 @@
 
 Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1341-3.0
+LAB-1341-4.0

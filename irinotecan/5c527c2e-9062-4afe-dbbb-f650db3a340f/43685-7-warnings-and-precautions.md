@@ -43,22 +43,21 @@ Patients who have previously received pelvic/abdominal irradiation are at increa
 Based on sparse available data, the concurrent administration of Irinotecan Hydrochloride Injection, USP with irradiation is not recommended.
 
 Patients with baseline serum total bilirubin levels of 1.0 mg/dL or more also had a greater likelihood of experiencing first-cycle grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/266]; p<0.001).
-Patients with deficient glucuronidation of bilirubin, such as those with Gilbert's syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection, USP.
+Patients with deficient glucuronidation of bilirubin, such as those with Gilbert's syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection, USP [see Warnings and Precautions (5.3)].
 
-## 5.3 Patients With Reduced UGT1A1 Activity
+## 5.3 Increased Risk of Neutropenia in Patients With Reduced UGT1A1 Activity
 
-Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of Irinotecan Hydrochloride Injection, USP treatment.
+Published studies have shown that individuals who are homozygous for either the UGT1A1*28 or *6 alleles (*28/*28, *6/*6) or who are compound or double heterozygous for the UGT1A1*28 and *6 alleles (*6/*28) are at increased risk for severe or life-threatening neutropenia during treatment with Irinotecan Hydrochloride, USP.
+These individuals are UGT1A1 poor metabolizers and experience increased systemic exposure to SN-38, an active metabolite of irinotecan.
+Individuals who are heterozygous for either the UGT1A1*28 or *6 alleles (*1/*28, *1/*6) are intermediate metabolizers and may also have an increased risk of severe or life-threatening neutropenia [see Dosage and Administration (2) and Clinical Pharmacology (12.3, 12.5)].
 
-In a study of 66 patients who received single-agent Irinotecan Hydrochloride Injection, USP (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
-No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
+Consider UGT1A1 genotype testing for the *28 and *6 alleles to determine UGT1A1 metabolizer status [see Clinical Pharmacology (12.5)].
 
-When administered as a single-agent, a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection, USP should be considered for patients known to be homozygous for the UGT1A1*28 allele.
-However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment [see Dosage and Administration (2)].
+When administering Irinotecan Hydrochloride, USP, consider a reduction in the Irinotecan Hydrochloride, USP starting dose by at least one level for patients known to be homozygous or compound heterozygous for the UGT1A1*28 and/or *6 alleles (*28/*28, *6/*6, *6/*28).
 
-UGT1A1 Testing
-
-A laboratory test is available to determine the UGT1A1 status of patients.
-Testing can detect the UGT1A1 6/6, 6/7 and 7/7 genotypes.
+Closely monitor patients with UGT1A1 *28 or *6 alleles for neutropenia during and after treatment with Irinotecan Hydrochloride, USP.
+The precise dosage reduction in this patient population is not known.
+Subsequent dosage modifications may be required based on individual patient tolerance to treatment [see Dosage and Administration (2.2)].
 
 ## 5.4 Hypersensitivity
 
@@ -72,7 +71,7 @@ Renal impairment and acute renal failure have been identified, usually in patien
 ## 5.6 Pulmonary Toxicity
 
 Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have occurred in patients receiving irinotecan (as monotherapy).
-Risk factors include preexisting lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
+Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
 Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy.
 In Japanese studies, a reticulonodular pattern on chest x-ray was observed in a small percentage of patients.
 New or progressive, dyspnea, cough, and fever should prompt interruption of chemotherapy, pending diagnostic evaluation.
@@ -83,7 +82,7 @@ If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued an
 Outside of a well-designed clinical study, Irinotecan Hydrochloride Injection, USP should not be used in combination with a regimen of 5-FU/LV administered for 4-5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
 Irinotecan Hydrochloride Injection, USP should be used as recommended [see Dosage and Administration (2)].
 
-## 5.8 Increased Toxicity in Patients with Performance Status 2
+## 5.8 Increased Toxicity in Patients With Performance Status 2
 
 In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
@@ -96,7 +95,7 @@ Advise pregnant women of the potential risk to a fetus.
 Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment with Irinotecan Hydrochloride Injection, USP and for 6 months after the final dose.
 Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of Irinotecan Hydrochloride Injection, USP [see Use in Specific Populations (8.1), (8.3) and Nonclinical Toxicology (13.1)].
 
-## 5.10 Patients with Hepatic Impairment
+## 5.10 Patients With Hepatic Impairment
 
 The use of Irinotecan Hydrochloride Injection, USP in patients with significant hepatic impairment has not been established.
 In clinical trials of either dosing schedule, irinotecan was not administered to patients with serum bilirubin >2.0 mg/dL, or transaminase >3 times the upper limit of normal if no liver metastasis, or transaminase >5 times the upper limit of normal with liver metastasis.
