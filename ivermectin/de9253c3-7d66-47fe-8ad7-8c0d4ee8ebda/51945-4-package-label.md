@@ -4,8 +4,6 @@ NDC 0591-4052-89 Ivermectin Cream 1%
 
 45 GRAMS
 
-TEVA
-
 FOR TOPICAL USE ONLY
 
 Not for Oral, Ophthalmic, or Intravaginal Use

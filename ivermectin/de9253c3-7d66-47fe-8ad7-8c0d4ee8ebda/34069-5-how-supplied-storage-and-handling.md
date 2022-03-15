@@ -2,7 +2,7 @@
 
 Ivermectin cream, 1% is a white to pale yellow cream, supplied in a laminated tube with a child resistant cap in the following size:
 
-45 gram – NDC 0591-4052-89
+45 gram - NDC 0591-4052-89
 
 Storage
 
