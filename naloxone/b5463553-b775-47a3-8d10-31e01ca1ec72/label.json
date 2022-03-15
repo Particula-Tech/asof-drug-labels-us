@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215457"
+  ],
+  "inn": "naloxone",
+  "labeler": "Kaleo, Inc.",
+  "package_ndcs": [
+    "60842-002-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Naloxone Hydrochloride Injection, USP, Auto-Injector"
+    }
+  ],
+  "setid": "b5463553-b775-47a3-8d10-31e01ca1ec72",
+  "source": "dailymed"
+}
