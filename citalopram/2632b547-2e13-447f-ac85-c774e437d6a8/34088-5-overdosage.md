@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 The following have been reported with citalopram tablet overdosage:
 
@@ -10,5 +10,4 @@ The following have been reported with citalopram tablet overdosage:
 Prolonged cardiac monitoring is recommended in citalopram overdosage ingestions due to the arrhythmia risk.
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a citalopram overdose.
-
-Consider contacting a Poison Center (1‐800‐222‐2222) or a medical toxicologist for additional overdosage management recommendations.
+Consider contacting a Poison Center (1‐800‐221‐2222) or a medical toxicologist for additional overdosage management recommendations.
