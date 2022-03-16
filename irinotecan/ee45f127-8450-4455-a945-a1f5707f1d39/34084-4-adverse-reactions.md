@@ -20,36 +20,42 @@ Neutropenic fever occurred in nine (3%) other patients; these patients recovered
 One hundred nineteen (39.1%) of the 304 patients were hospitalized because of adverse events; 81 (26.6%) patients were hospitalized for events judged to be related to administration of irinotecan hydrochloride injection.
 The primary reasons for drug-related hospitalization were diarrhea, with or without nausea and/or vomiting (18.4%); neutropenia/leukopenia, with or without diarrhea and/or fever (8.2%); and nausea and/or vomiting (4.9%).
 
-The first dose of at least one cycle of irinotecan hydrochloride was reduced for 67% of patients who began the studies at the 125 mg/m 2 starting dose.
-Within-cycle dose reductions were required for 32% of the cycles initiated at the 125 mg/m 2 dose level.
+The first dose of at least one cycle of irinotecan hydrochloride was reduced for 67% of patients who began the studies at the 125 mg/m2 starting dose.
+Within-cycle dose reductions were required for 32% of the cycles initiated at the 125 mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with irinotecan hydrochloride because of adverse events.
 The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 3.
-Adverse Events Occurring in > 10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectum a
+Adverse Events Occurring in > 10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectuma
 
 | Body System & Event | % of Patients Reporting |  |
 | --- | --- | --- |
 | NCI Grades 1 to 4 | NCI Grades 3 & 4 |  |
-| GASTROINTESTINAL Diarrhea (late) b 7 to 9 stools/day (grade 3) ≥ 10 stools/day (grade 4) Nausea Vomiting Anorexia Diarrhea (early) c Constipation Flatulence Stomatitis Dyspepsia | 88 -- -- 86 67 55 51 30 12 12 10 | 31 (16) (14) 17 12 6 8 2 0 1 0 |
-| HEMATOLOGIC Leukopenia Anemia Neutropenia 500 to <1000/mm 3 (grade 3) <500/mm 3 (grade 4) | 63 60 54 -- -- | 28 7 26 (15) (12) |
-| BODY AS A WHOLE Asthenia Abdominal cramping/pain Fever Pain Headache Back pain Chills Minor infection d Edema Abdominal enlargement | 76 57 45 24 17 14 14 14 10 10 | 12 16 1 2 1 2 0 0 1 0 |
-| METABOLIC AND NUTRITIONAL ↓ Body weight Dehydration ↑ Alkaline phosphatase ­ ↑ SGOT | 30 15 13 10 | 1 4 4 1 |
-| DERMATOLOGIC Alopecia Sweating Rash | 60 16 13 | NA e 0 1 |
+| GASTROINTESTINAL |  |  |
+| Diarrhea (late)b | 88 | 31 |
+| 7 to 9 stools/day (grade 3) | -- | (16) |
+| ≥ 10 stools/day (grade 4) | -- | (14) |
+| Nausea | 86 | 17 |
+| Vomiting | 67 | 12 |
+| Anorexia | 55 | 6 |
+| Diarrhea (early)c | 51 | 8 |
+| Constipation | 30 | 2 |
+| Flatulence | 12 | 0 |
+| Stomatitis | 12 | 1 |
+| Dyspepsia | 10 | 0 |
+| HEMATOLOGIC Leukopenia Anemia Neutropenia 500 to <1000/mm3 (grade 3) <500/mm3 (grade 4) | 63 60 54 -- -- | 28 7 26 (15) (12) |
+| BODY AS A WHOLE Asthenia Abdominal cramping/pain Fever Pain Headache Back pain Chills Minor infectiond Edema Abdominal enlargement | 76 57 45 24 17 14 14 14 10 10 | 12 16 1 2 1 2 0 0 1 0 |
+| METABOLIC AND NUTRITIONAL ↓ Body weight Dehydration ↑ Alkaline phosphatase ↑ SGOT | 30 15 13 10 | 1 4 4 1 |
+| DERMATOLOGIC Alopecia Sweating Rash | 60 16 13 | NAe 0 1 |
 | RESPIRATORY Dyspnea ↑ Coughing Rhinitis | 22 17 16 | 4 0 0 |
 | NEUROLOGIC Insomnia Dizziness | 19 15 | 0 0 |
 | CARDIOVASCULAR Vasodilation (flushing) | 11 | 0 |
-
-a Severity of adverse events based on NCl CTC (version 1.0)
-
-b Occurring > 24 hours after administration of irinotecan hydrochloride
-
-c Occurring ≤ 24 hours after administration of irinotecan hydrochloride
-
-d Primarily upper respiratory infections
-
-e Not applicable; complete hair loss = NCI grade 2
+| a Severity of adverse events based on NCl CTC (version 1.0) |  |  |
+| b Occurring > 24 hours after administration of irinotecan hydrochloride |  |  |
+| c Occurring ≤ 24 hours after administration of irinotecan hydrochloride |  |  |
+| d Primarily upper respiratory infections |  |  |
+| e Not applicable; complete hair loss = NCI grade 2 |  |  |
 
 Once-Every-3-Week Dosage Schedule
 
@@ -65,11 +71,11 @@ Of the 316 patients treated with irinotecan, the most clinically significant adv
 Table 4 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
 Table 4.
-Percent of Patients Experiencing Grade 3 & 4 Adverse Events in Comparative Studies of Once-Every-3-Week Irinotecan Therapy a
+Percent of Patients Experiencing Grade 3 & 4 Adverse Events in Comparative Studies of Once-Every-3-Week Irinotecan Therapya
 
 | Adverse Event | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| Irinotecan N=189 | BSC b N=90 | Irinotecan N=127 | 5-FU N=129 |  |
+| Irinotecan N=189 | BSCb N=90 | Irinotecan N=127 | 5-FU N=129 |  |
 | TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |
 | GASTROINTESTINAL Diarrhea Vomiting Nausea Abdominal pain Constipation Anorexia Mucositis | 22 14 14 14 10 5 2 | 6 8 3 16 8 7 1 | 22 14 11 9 8 6 2 | 11 5 4 8 6 4 5 |
 | HEMATOLOGIC Leukopenia/Neutropenia Anemia Hemorrhage Thrombocytopenia Infection without grade 3/4 neutropenia with grade 3/4 neutropenia Fever without grade 3/4 neutropenia with grade 3/4 neutropenia | 22 7 5 1 8 1 2 2 | 0 6 3 0 3 0 1 0 | 14 6 1 4 1 2 2 4 | 2 3 3 2 4 0 0 2 |
@@ -80,22 +86,16 @@ Percent of Patients Experiencing Grade 3 & 4 Adverse Events in Comparative Studi
 | NEUROLOGIC f | 12 | 13 | 9 | 4 |
 | CARDIOVASCULAR g | 9 | 3 | 4 | 2 |
 | OTHERh | 32 | 28 | 12 | 14 |
+| a Severity of adverse events based on NCl CTC (version 1.0) |  |  |  |  |
+| b BSC = best supportive care |  |  |  |  |
+| c Hepatic includes events such as ascites and jaundice |  |  |  |  |
+| d Cutaneous signs include events such as rash |  |  |  |  |
+| e Respiratory includes events such as dyspnea and cough |  |  |  |  |
+| f Neurologic includes events such as somnolence |  |  |  |  |
+| g Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction |  |  |  |  |
+| h Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss |  |  |  |  |
 
-a Severity of adverse events based on NCl CTC (version 1.0)
-
-b BSC = best supportive care
-
-c Hepatic includes events such as ascites and jaundice
-
-d Cutaneous signs include events such as rash
-
-e Respiratory includes events such as dyspnea and cough
-
-f Neurologic includes events such as somnolence
-
-g Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction
-
-h Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as irinotecan hydrochloride than when these drugs were given on separate days (1.3%, 1/80 patients).
+The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as irinotecan hydrochloride than when these drugs were given on separate days (1.3%, 1/80 patients).
 The 8.5% incidence of akathisia, however, is within the range reported for use of prochlorperazine when given as a premedication for other chemotherapies.
 
 ## 6.2 Postmarketing Experience
@@ -115,3 +115,5 @@ Transient dysarthria has been reported in patients treated with irinotecan hydro
 
 Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.
+
+Infections: fungal and viral infections have been reported.
