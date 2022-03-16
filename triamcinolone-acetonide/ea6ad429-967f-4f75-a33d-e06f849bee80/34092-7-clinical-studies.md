@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of XIPERE™ was assessed in a 6-month, randomized, multicenter, double-masked, sham-controlled study in patients with macular edema associated with anterior-, intermediate-, posterior-, or pan-uveitis.
-Patients were treated at baseline and week 12.
+Patients were treated at baseline and Week 12.
 The primary efficacy endpoint was the proportion of patients in whom best corrected visual acuity (BCVA) had improved by ≥ 15 letters from baseline after 24 weeks of follow-up (Table 2).
 
 Table 2: Number of Patients with ≥ 15 Letters Improvement from Baseline at Week 24

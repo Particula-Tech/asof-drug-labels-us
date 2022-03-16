@@ -8,8 +8,13 @@ When to Seek Physician Advice
 
 Advise patients that if the eye becomes red, sensitive to light, painful, or develops a change in vision, they should seek immediate care from an ophthalmologist.
 
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Patented.
-See http://patents.bausch.com for US patent information.
-XIPERE™, SCS®, and SCS Microinjector® are trademarks of Clearside Biomedical, Inc. used under license. © 2021 Bausch & Lomb Incorporated or its affiliates
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-9763200
+Patented.
+See http://patents.bausch.com for US patent information.
+
+XIPERE™, SCS®, and SCS Microinjector® are trademarks of Clearside Biomedical, Inc. used under license.
+
+© 2022 Bausch & Lomb Incorporated or its affiliates
+
+9772100
