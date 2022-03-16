@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078479"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0564-1",
+    "60505-0564-2",
+    "60505-0564-3"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate",
+      "name": "Brimonidine Tartrate"
+    }
+  ],
+  "setid": "64b21e68-610c-5194-ccb2-9d9f6ff8cda9",
+  "source": "dailymed"
+}
