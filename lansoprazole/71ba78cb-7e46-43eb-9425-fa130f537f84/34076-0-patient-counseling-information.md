@@ -16,21 +16,25 @@ Bone Fracture
 
 To report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+To discontinue PREVACID or PREVACID SoluTab and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
+
 Cutaneous and Systemic Lupus Erythematosus
 
-To immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+To immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
 
 Cyanocobalamin (Vitamin B12) Deficiency
 
-To report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider, if they have been receiving PREVACID or PREVACID SoluTab for longer than three years [see Warnings and Precautions (5.6)].
+To report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider, if they have been receiving PREVACID or PREVACID SoluTab for longer than three years [see Warnings and Precautions (5.7)].
 
-Hypomagnesemia
+Hypomagnesemia and Mineral Metabolism
 
-To report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving PREVACID or PREVACID SoluTab for at least three months [see Warnings and Precautions (5.7)].
+To report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving PREVACID or PREVACID SoluTab for at least three months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
+Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.10)].
 
 Pregnancy
 

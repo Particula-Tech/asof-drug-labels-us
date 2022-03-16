@@ -70,7 +70,7 @@ In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% 
 These elevations reached a plateau within two months of therapy and returned to pretreatment levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9)].
 
 Endocrine Effects
 
@@ -179,7 +179,7 @@ Methotrexate and 7-hydroxymethotrexate:
 In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and PREVACID 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
 However, this study was conducted with low doses of methotrexate.
-A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.9)].
+A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.10)].
 
 Amoxicillin:
 
