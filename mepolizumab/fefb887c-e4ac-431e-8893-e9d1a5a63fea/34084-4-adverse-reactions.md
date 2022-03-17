@@ -82,7 +82,7 @@ Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo 
 | Pyrexia | 3 | 2 |
 | Nasal dryness | 3 | <1 |
 | Rash | 3 | <1 |
-| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps |  |  |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps. |  |  |
 
 Systemic Reactions, including Hypersensitivity Reactions
 
@@ -99,7 +99,7 @@ Injection site reactions (e.g., erythema, pruritus) occurred at a rate of 2% in 
 
 A total of 136 patients with EGPA were evaluated in 1 randomized, placebo-controlled, multicenter, 52-week treatment trial.
 Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks.
-Patients enrolled had a diagnosis of EGPA for at least 6 months prior to enrollment with a history of relapsing or refractory disease and were on a stable dosage of oral prednisolone or prednisone of greater than or equal to 7.5 mg/day (but not greater than 50 mg/day) for at least 4 weeks prior to enrollment [see Clinical Studies (14.2)].
+Patients enrolled had a diagnosis of EGPA for at least 6 months prior to enrollment with a history of relapsing or refractory disease and were on a stable dosage of oral prednisolone or prednisone of greater than or equal to 7.5 mg/day (but not greater than 50 mg/day) for at least 4 weeks prior to enrollment [see Clinical Studies (14.3)].
 Of the patients enrolled, 59% were female, 92% were White, and ages ranged from 20 to 71 years.
 No additional adverse reactions were identified to those reported in the severe asthma trials.
 

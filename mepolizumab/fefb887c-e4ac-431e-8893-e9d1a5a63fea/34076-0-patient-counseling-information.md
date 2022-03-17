@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Hypersensitivity Reactions
 
@@ -41,6 +41,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-NCL:8PI
+NCL:9PI

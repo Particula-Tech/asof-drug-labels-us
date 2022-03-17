@@ -10,7 +10,7 @@ The recommended dosage of NUCALA in adults and adolescents aged 12 years and old
 
 Pediatric Patients Aged 6 to 11 Years
 
-The recommended dosage of NUCALA for injection in pediatric patients aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5)].
+The recommended dosage of NUCALA for injection in pediatric patients aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
 
 ## 2.2 Chronic Rhinosinusitis with Nasal Polyps
 
@@ -60,19 +60,24 @@ Administration of 100-mg Dose
 
 Administration of 40-mg Dose
 
-1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5 inch (13-mm) needle.
+1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
 2. 2.Just before administration, remove 0.4 mL of reconstituted NUCALA for injection.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. 3.Administer the 0.4-mL injection (equivalent to 40 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
 Each vial of NUCALA for injection should be used for a single patient, and any remainder of the contents should be discarded.
 
-## 2.6 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringe
+## 2.6 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringes
 
 NUCALA injection is intended for use under the guidance of a healthcare provider.
-The NUCALA injection prefilled autoinjector and prefilled syringe are only for use in adults and adolescents aged 12 years and older.
-A patient may self-inject or the patient caregiver may administer NUCALA injection subcutaneously after the healthcare provider determines it is appropriate.
-Provide proper training in subcutaneous injection technique and on the preparation and administration of NUCALA injection prior to use according to the “Instructions for Use”.
+
+The 100-mg/mL prefilled autoinjector and 100-mg/mL prefilled syringe are only for use in adults and adolescents aged 12 years and older.
+A patient may self-inject or the patient caregiver may administer NUCALA injection 100 mg/mL subcutaneously after the healthcare provider determines it is appropriate.
+
+The 40-mg/0.4-mL prefilled syringe is only for use in children aged 6 to 11 years and must be administered by the healthcare provider or the patient caregiver.
+The patient caregiver may administer NUCALA injection 40 mg/0.4 mL subcutaneously after the healthcare provider determines it is appropriate.
+
+Provide proper training in subcutaneous injection technique and on the preparation and administration of NUCALA injection prior to use [see Instructions for Use].
 
 1. 1.Remove the prefilled autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to injection.
    Do not warm NUCALA injection in any other way.

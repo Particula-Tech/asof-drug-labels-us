@@ -70,3 +70,38 @@ Do not accept if security seal is missing or broken.
 
 1. 62000000038009 Rev.
    4/19
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0173-0904-42
+
+Nucala
+
+(mepolizumab)
+
+Injection
+
+40mg/0.4 mL
+
+Rx Only
+
+Prefilled Syringe
+
+For subcutaneous use only.
+
+Contents:
+
+- 1 Single-Dose 0.4-mL Prefilled Syringe
+
+- Instructions for Use
+
+- Prescribing Information
+
+- Patient Information
+
+©2022 GSK group of companies or its licensor.
+
+Rev.
+2/22
+
+62000000073075
