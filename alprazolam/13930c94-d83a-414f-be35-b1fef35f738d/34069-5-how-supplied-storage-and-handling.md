@@ -1,24 +1,14 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## HOW SUPPLIED
+Alprazolam is supplied in the following strengths and package configurations:
 
-Alprazolam tablets are available as follows:
+Alprazolam Tablets
 
-| 0.25 mg (white, oval, scored, imprinted "G3719") |  |
-| --- | --- |
-| Bottles of 100 | NDC 59762-3719-1 |
-| Bottles of 500 | NDC 59762-3719-3 |
-| Bottles of 1000 | NDC 59762-3719-4 |
-| 0.5 mg (peach, oval, scored, imprinted "G3720") |  |
-| Bottles of 100 | NDC 59762-3720-1 |
-| Bottles of 500 | NDC 59762-3720-3 |
-| Bottles of 1000 | NDC 59762-3720-4 |
-| 1 mg (blue, oval, scored, imprinted "G3721") |  |
-| Bottles of 100 | NDC 59762-3721-1 |
-| Bottles of 500 | NDC 59762-3721-3 |
-| Bottles of 1000 | NDC 59762-3721-4 |
-| 2 mg (white, oblong, multi-scored, imprinted "G3722") |  |
-| Bottles of 100 | NDC 59762-3722-1 |
-| Bottles of 500 | NDC 59762-3722-3 |
+| Package Configuration | Tablet Strength (mg) | NDC | Print |
+| --- | --- | --- | --- |
+| Bottles of 100 Bottles of 500 Bottles of 1000 | 0.25 mg | NDC 59762-3719-1 NDC 59762-3719-3 NDC 59762-3719-4 | white, oval, scored, imprinted "G3719" |
+| Bottles of 100 Bottles of 500 Bottles of 1000 | 0.5 mg | NDC 59762-3720-1 NDC 59762-3720-3 NDC 59762-3720-4 | peach, oval, scored, imprinted "G3720" |
+| Bottles of 100 Bottles of 500 Bottles of 1000 | 1 mg | NDC 59762-3721-1 NDC 59762-3721-3 NDC 59762-3721-4 | blue, oval, scored, imprinted "G3721" |
+| Bottles of 100 Bottles of 500 | 2 mg | NDC 59762-3722-1 NDC 59762-3722-3 | white, oblong, multi-scored, imprinted "G3722" |
 
-Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
+Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
