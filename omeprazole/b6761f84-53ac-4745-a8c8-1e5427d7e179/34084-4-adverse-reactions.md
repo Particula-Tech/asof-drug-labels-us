@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- •Hypomagnesemia [see Warnings and Precautions (5.8)]
-- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.9)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience with PRILOSEC
 
@@ -65,7 +66,7 @@ Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (s
 
 Infections and Infestations: Clostridium difficile-associated diarrhea
 
-Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
+Metabolism and Nutritional disorders: Hypomagnesemia, hypocalcemia, hypokalemia [Warnings and Precautions (5.9)], hyponatremia, hypoglycemia, weight gain
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 
@@ -73,7 +74,7 @@ Nervous System/Psychiatric: Psychiatric and sleep disturbances including depress
 
 Respiratory: Epistaxis, pharyngeal pain
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, cutaneous lupus erythematosus erythema multiforme; Acute Generalized Exanthematous Pustulosis (AGEP) and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
+Skin: Severe generalized skin reactions including toxic SJS/TEN (some fatal), DRESS, AGEP, cutaneous lupus erythematosus and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
 
 Special Senses: Tinnitus, taste perversion
 

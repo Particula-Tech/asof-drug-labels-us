@@ -14,21 +14,25 @@ Bone Fracture
 
 Advise the patient or caregiver to report any fractures, especially of the hip, wrist or spine, to the patient’s healthcare provider [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise the patient or caregiver to discontinue PRILOSEC and report to their healthcare provider at the first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5)].
+
 Cutaneous and Systemic Lupus Erythematosus
 
-Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)]
+Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)]
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving PRILOSEC for longer than 3 years [see Warnings and Precautions (5.7)].
+Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving PRILOSEC for longer than 3 years [see Warnings and Precautions (5.8)].
 
-Hypomagnesemia
+Hypomagnesemia and Mineral Metabolism
 
-Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia to the patient’s healthcare provider, if they have been receiving PRILOSEC for at least 3 months [see Warnings and Precautions (5.8)].
+Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to the patient’s healthcare provider, if they have been receiving PRILOSEC for at least 3 months [see Warnings and Precautions (5.9)].
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.6, 5.9, 5.11)].
+Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.7, 5.10, 5.12)].
 
 Administration
 
