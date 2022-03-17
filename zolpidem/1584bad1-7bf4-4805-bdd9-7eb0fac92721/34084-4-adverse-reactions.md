@@ -69,7 +69,7 @@ Table 2 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlle
 | Drowsiness | 8 | 5 |
 | Dizziness | 5 | 1 |
 | Lethargy | 3 | 1 |
-| Drugged feeling | 3 | - |
+| �Drugged feeling | 3 | - |
 | Lightheadedness | 2 | 1 |
 | Depression | 2 | 1 |
 | Abnormal dreams | 1 | - |
@@ -158,3 +158,4 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2 x ULN, alkaline phosphatase ≥2 x ULN, transaminase ≥5 x ULN).
+Psychiatric disorders: delirium

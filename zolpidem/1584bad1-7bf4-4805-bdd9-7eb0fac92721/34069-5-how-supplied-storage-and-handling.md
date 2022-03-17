@@ -16,8 +16,6 @@ NDC NumberSize
 
 13668-007-15 bottle of 1500
 
-13668-007-74 carton of 100 unit dose
-
 Zolpidem tartrate 10 mg tablets, USP are peach-yellow colored, capsule shaped tablets with the Torrent logo debossed on one side and '10 MG' debossed on the other side and supplied as:
 
 NDC NumberSize
@@ -33,7 +31,5 @@ NDC NumberSize
 13668-008-10 bottle of 1000
 
 13668-008-15 bottle of 1500
-
-13668-008-74 carton of 100 unit dose
 
 Store at 20º to 25°C (68º to 77°F); excursions permitted to 15° to 30°C (59º to 86°F) [see USP Controlled Room Temperature].

@@ -34,6 +34,8 @@ Alcohol and Other Drugs
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
 Advise patients not to use zolpidem if they drank alcohol that evening or before bed.
 
+Concomitant Use with Opioids Inform patients and caregivers that potentially serious additive effects may occur if Zolpidem tartrate tablets is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2, 5.7), Drug Interactions (7.1)].
+
 Tolerance, Abuse, and Dependence
 
 Tell patients not to increase the dose of zolpidem on their own, and to inform you if they believe the drug "does not work".
@@ -62,6 +64,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC.,Levittown, PA 19057
+TORRENT PHARMA INC., Levittown PA 19057.
 
-8082727 Revised October 2021
+8086887 Revised March 2022
