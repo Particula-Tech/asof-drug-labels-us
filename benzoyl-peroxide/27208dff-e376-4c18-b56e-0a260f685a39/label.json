@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214902"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5945-00",
+    "0299-5945-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin and benzoyl peroxide",
+      "name": "TWYNEO"
+    }
+  ],
+  "setid": "27208dff-e376-4c18-b56e-0a260f685a39",
+  "source": "dailymed"
+}
