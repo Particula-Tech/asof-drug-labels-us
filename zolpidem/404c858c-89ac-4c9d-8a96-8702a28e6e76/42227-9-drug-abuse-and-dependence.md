@@ -21,11 +21,17 @@ Because persons with a history of addiction to, or abuse of, drugs or alcohol ar
 
 ## 9.3 Dependence
 
+Use of Ambien CR may lead to development of physical and/or psychological dependence.
+This risk of dependence increases with dose and duration of treatment.
+The risk of abuse and dependence is also greater in patients with history of alcohol or drug abuse.
+AMBIEN CR should be used with extreme caution in patients with current or past alcohol or drug abuse.
+
 Physical dependence is a state of adaptation that is manifested by a specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood level of the drug, and/or administration of an antagonist.
 
 Sedative/hypnotics have produced withdrawal signs and symptoms following abrupt discontinuation.
-These reported symptoms range from mild dysphoria and insomnia to a withdrawal syndrome that may include abdominal and muscle cramps, vomiting, sweating, tremors, and convulsions.
-The following adverse events, which are considered to meet the DSM-III-R criteria for uncomplicated sedative/hypnotic withdrawal, were reported during U.S. clinical trials following placebo substitution occurring within 48 hours following last zolpidem treatment: fatigue, nausea, flushing, lightheadedness, uncontrolled crying, emesis, stomach cramps, panic attack, nervousness, and abdominal discomfort.
+These reported symptoms range from mild dysphoria and insomnia to a withdrawal syndrome that may include abdominal and muscle cramps, vomiting, sweating, tremors, convulsions, and delirium.
+
+The following adverse events, which are considered to meet the DSM-III-R criteria for uncomplicated sedative/hypnotic withdrawal, were reported during AMBIEN CR clinical trials following placebo substitution occurring within 48 hours following last zolpidem treatment: fatigue, nausea, flushing, lightheadedness, uncontrolled crying, emesis, stomach cramps, panic attack, nervousness, and abdominal discomfort.
 These reported adverse events occurred at an incidence of 1% or less.
 However, available data cannot provide a reliable estimate of the incidence, if any, of dependence during treatment at recommended doses.
-Postmarketing reports of abuse, dependence and withdrawal have been received.
+There have been postmarketing reports of abuse, dependence and withdrawal with zolpidem.

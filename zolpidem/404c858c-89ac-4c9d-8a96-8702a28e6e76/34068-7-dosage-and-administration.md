@@ -11,6 +11,9 @@ AMBIEN CR should be taken as a single dose and should not be readministered duri
 
 The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 
+Treatment with AMBIEN CR should be as short as possible.
+Extended treatment should not take place without re-evaluation of the patient's status, since the risk of abuse and dependence increases with duration of treatment [see Drug Abuse and Dependence (9.3)].
+
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
@@ -22,7 +25,7 @@ Avoid AMBIEN CR use in patients with severe hepatic impairment as it may contrib
 
 ## 2.3 Use with CNS Depressants
 
-Dosage adjustment may be necessary when AMBIEN CR is combined with other CNS-depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.2)].
+Dosage adjustment may be necessary when AMBIEN CR is combined with other CNS-depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.2, 5.7)].
 
 ## 2.4 Administration
 
