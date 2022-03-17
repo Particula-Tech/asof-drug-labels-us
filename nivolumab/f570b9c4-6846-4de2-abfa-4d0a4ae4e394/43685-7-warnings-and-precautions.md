@@ -15,7 +15,7 @@ Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodi
 In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection.
 Institute medical management promptly, including specialty consultation as appropriate.
 
-Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.3)].
 In general, if OPDIVO requires interruption or discontinuation, administer systemic corticosteroid therapy (1 to 2 mg/kg/day prednisone or equivalent) until improvement to Grade 1 or less.
 Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
 Consider administration of other systemic immunosuppressants in patients whose immune-mediated adverse reactions are not controlled with corticosteroid therapy.
@@ -130,7 +130,7 @@ Adrenal Insufficiency
 
 OPDIVO can cause primary or secondary adrenal insufficiency.
 For grade 2 or higher adrenal insufficiency, initiate symptomatic treatment, including hormone replacement as clinically indicated.
-Withhold OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
 OPDIVO as a Single Agent
 
@@ -173,7 +173,7 @@ OPDIVO can cause immune-mediated hypophysitis.
 Hypophysitis can present with acute symptoms associated with mass effect such as headache, photophobia, or visual field defects.
 Hypophysitis can cause hypopituitarism.
 Initiate hormone replacement as clinically indicated.
-Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
 OPDIVO as a Single Agent
 
@@ -207,7 +207,7 @@ OPDIVO can cause immune-mediated thyroid disorders.
 Thyroiditis can present with or without endocrinopathy.
 Hypothyroidism can follow hyperthyroidism.
 Initiate hormone replacement or medical management as clinically indicated.
-Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
 Thyroiditis
 
@@ -284,7 +284,7 @@ Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
 
 Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
 Initiate treatment with insulin as clinically indicated.
-Withhold OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
 OPDIVO as a Single Agent
 
@@ -311,9 +311,9 @@ Of the 7 patients in whom OPDIVO was withheld for nephritis or renal dysfunction
 ### Immune-Mediated Dermatologic Adverse Reactions
 
 OPDIVO can cause immune-mediated rash or dermatitis, defined as requiring the use of steroids and no clear alternate etiology.
-Exfoliative dermatitis, including Stevens-Johnson Syndrome, toxic epidermal necrolysis (TEN), and DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) has occurred with PD-1/L-1 blocking antibodies.
+Exfoliative dermatitis, including Stevens-Johnson Syndrome, toxic epidermal necrolysis (TEN), and DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) has occurred with PD-1/PD-L1 blocking antibodies.
 Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes.
-Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.2)].
+Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
 OPDIVO as a Single Agent
 

@@ -2,7 +2,7 @@
 
 ## 2.1 Patient Selection
 
-Select patients with metastatic NSCLC for treatment with OPDIVO in combination with ipilimumab based on PD-L1 expression [see Clinical Studies (14.3)].
+Select patients with metastatic NSCLC for treatment with OPDIVO in combination with ipilimumab based on PD-L1 expression [see Clinical Studies (14.4)].
 
 Information on FDA-approved tests for the determination of PD-L1 expression in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
 
@@ -14,42 +14,45 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 
 | Indication | Recommended OPDIVO Dosage | Duration of Therapy |
 | --- | --- | --- |
-| Unresectable or metastatic melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
+| Unresectable or metastatic melanoma | 240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity |
 | Metastatic non-small cell lung cancer |  |  |
 | Advanced renal cell carcinoma |  |  |
 | Classical Hodgkin lymphoma |  |  |
 | Squamous cell carcinoma of the head and neck |  |  |
 | Locally advanced or metastatic urothelial carcinoma |  |  |
 | Esophageal squamous cell carcinoma |  |  |
-| Adjuvant treatment of melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease recurrence or unacceptable toxicity for up to 1 year |
+| Adjuvant treatment of melanoma | 240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease recurrence or unacceptable toxicity for up to 1 year |
 | Adjuvant treatment of urothelial carcinoma (UC) |  |  |
-| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
-| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
-| Adjuvant treatment of resected esophageal or gastroesophageal junction cancer | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity for a total treatment duration of 1 year |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity |
+| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks* |  |  |
+| Adjuvant treatment of resected esophageal or gastroesophageal junction cancer | 240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity for a total treatment duration of 1 year |
+| * 30-minute intravenous infusion. |  |  |
 
 The recommended dosages of OPDIVO in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with OPDIVO for the recommended dosage information, as appropriate.
 
 Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Agents
 
-| Indication | Recommended OPDIVO Dosage | Duration of Therapy |
-| --- | --- | --- |
-| Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 90 minutes on the same day | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
-| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
-| Metastatic non-small cell lung cancer expressing PD-L1 | 3 mg/kg every 2 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion) | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
-| Metastatic or recurrent non-small cell lung cancer | 360 mg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion)and histology-based platinum doublet chemotherapy every 3 weeks | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
-| 2 cycles of histology-based platinum-doublet chemotherapy |  |  |
-| Malignant pleural mesothelioma | 360 mg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion) | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
-| Advanced renal cell carcinoma | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
-| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion)Administer OPDIVO in combination with cabozantinib 40 mg orally once daily without food | OPDIVO: Until disease progression, unacceptable toxicity, or up to 2 years |  |
-| Cabozantinib: Until disease progression or unacceptable toxicity |  |  |
-| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy with ipilimumab, administer as single agent until disease progression or unacceptable toxicity |  |
-| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
-| Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
-| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
-| Hepatocellular carcinoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
-| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
-| Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks(30-minute intravenous infusion)with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor360 mg every 3 weeks(30-minute intravenous infusion)with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |
+| Indication | Recommended OPDIVO Dosage | Duration of Therapy |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks*with ipilimumab 3 mg/kg intravenously* | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |  |  |  |
+| 240 mg every 2 weeks*or480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |  |  |  |
+| Neoadjuvant treatment of resectable non-small cell lung cancer | 360 mg every 3 weeks*with platinum-doublet chemotherapy on the same day every 3 weeks | In combination with platinum-doublet chemotherapy for 3 cycles |  |  |  |
+| Metastatic non-small cell lung cancer expressing PD-L1 | 3 mg/kg every 2 weeks*with ipilimumab 1 mg/kg every 6 weeks* | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |  |  |  |
+| Metastatic or recurrent non-small cell lung cancer | 360 mg every 3 weeks*with ipilimumab 1 mg/kg every 6 weeks*and histology-based platinum doublet chemotherapy every 3 weeks | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |  |  |  |
+| 2 cycles of histology-based platinum-doublet chemotherapy |  |  |  |  |  |
+| Malignant pleural mesothelioma | 360 mg every 3 weeks*with ipilimumab 1 mg/kg every 6 weeks* | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |  |  |  |
+| Advanced renal cell carcinoma | 3 mg/kg every 3 weeks*with ipilimumab 1 mg/kg intravenously* | In combination with ipilimumab for 4 doses |  |  |  |
+| 240 mg every 2 weeks*or480 mg every 4 weeks*Administer OPDIVO in combination with cabozantinib 40 mg orally once daily without food | OPDIVO: Until disease progression, unacceptable toxicity, or up to 2 years |  |  |  |  |
+| Cabozantinib: Until disease progression or unacceptable toxicity |  |  |  |  |  |
+| 240 mg every 2 weeks*or480 mg every 4 weeks* | After completing 4 doses of combination therapy with ipilimumab, administer as single agent until disease progression or unacceptable toxicity |  |  |  |  |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks*with ipilimumab 1 mg/kg intravenously* | In combination with ipilimumab for 4 doses |  |  |  |
+| Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks*or480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |  |  |  |
+| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks* |  |  |  |  |  |
+| Hepatocellular carcinoma | 1 mg/kg every 3 weeks*with ipilimumab 3 mg/kg intravenously* | In combination with ipilimumab for 4 doses |  |  |  |
+| 240 mg every 2 weeks*or480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |  |  |  |
+| Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks*with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor360 mg every 3 weeks*with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |  |  |  |
+| * 30-minute intravenous infusion on the same day. |  |  |  |  |  |
 
 ## 2.3 Dose Modifications
 

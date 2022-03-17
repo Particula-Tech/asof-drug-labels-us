@@ -45,7 +45,7 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of OPDIVO as a single agent and in combination with ipilimumab have been established in pediatric patients age 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
-Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady-state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.9)].
+Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady-state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.10)].
 
 The safety and effectiveness of OPDIVO have not been established (1) in pediatric patients <12 years old with MSI-H or dMMR mCRC or (2) in pediatric patients less than 18 years old for the other approved indications [see Indications and Usage (1)].
 
@@ -80,6 +80,9 @@ In elderly patients with intermediate or poor risk, no overall difference in eff
 
 Of the 49 patients who received OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg in CHECKMATE-040 (hepatocellular carcinoma), 29% were between 65 years and 74 years of age and 8% were 75 years or older.
 Clinical studies of OPDIVO in combination with ipilimumab did not include sufficient numbers of patients with hepatocellular carcinoma aged 65 and over to determine whether they respond differently from younger patients.
+
+Of the 179 patients randomized to OPDIVO 360 mg in combination with platinum-doublet chemotherapy every 3 weeks for 3 cycles in CHECKMATE-816, 48% were 65 years old or older and 6% were 75 years old or older.
+No overall differences in safety or effectiveness were reported between patients older and younger than 65 years.
 
 Of the 576 patients randomized to OPDIVO 3 mg/kg every 2 weeks with ipilimumab 1 mg/kg every 6 weeks in CHECKMATE-227 (NSCLC), 48% were 65 years or older and 10% were 75 years or older.
 No overall difference in safety was reported between older patients and younger patients; however, there was a higher discontinuation rate due to adverse reactions in patients aged 75 years or older (29%) relative to all patients who received OPDIVO with ipilimumab (18%).
