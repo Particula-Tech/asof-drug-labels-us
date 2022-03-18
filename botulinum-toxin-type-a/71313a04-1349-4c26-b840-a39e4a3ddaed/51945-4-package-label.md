@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 300 UNIT
 
-Galderma Dysport®(AbobotulinumtoxinA) for injection For intramuscular use
+GALDERMA Dysport®(AbobotulinumtoxinA) for injection For intramuscular use
 
 300 UNITS/SINGLE-DOSE VIAL
 
@@ -9,7 +9,5 @@ Galderma Dysport®(AbobotulinumtoxinA) for injection For intramuscular use
 WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products
 
 NDC 0299-5962-30
-
-GALDERMA
 
 Rx only
