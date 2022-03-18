@@ -1,6 +1,4 @@
-# Instructions for Use
-
-INSTRUCTIONS FOR USE
+# INSTRUCTIONS FOR USE
 
 ZEGERID® (ze-ger-id)
 
@@ -38,5 +36,10 @@ Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or
 8. 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
 9. 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
 
-Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates 9658602 Revised 11/2020
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+
+Any other product/brand names are trademarks of the respective owners.
+
+© 2022 Salix Pharmaceuticals, Inc. or its affiliates
+
+9658603 Revised: 03/2022

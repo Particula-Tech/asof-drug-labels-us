@@ -18,7 +18,7 @@ In a 2-year carcinogenicity study in Sprague Dawley rats, no astrocytomas were f
 A 78-week mouse carcinogenicity study of omeprazole did not show increased tumor occurrence, but the study was not conclusive.
 A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
-Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivobone marrow cell chromosomal aberration assay.
+Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivo bone marrow cell chromosomal aberration assay.
 Omeprazole was negative in the in vitro Ames test, an in vitro mouse lymphoma cell forward mutation assay and an in vivo rat liver DNA damage assay.
 
 In a 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals.

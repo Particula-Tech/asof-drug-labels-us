@@ -26,28 +26,32 @@ Bone Fracture
 
 Advise the patient to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.5)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise the patient to discontinue ZEGERID and immediately call their healthcare provider atfirst appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.6)].
+
 Cutaneous and Systemic Lupus Erythematosus
 
-Advise the patient to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
+Advise the patient to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.7)].
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise the patient to report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider if they have been receiving ZEGERID for longer than 3 years [see Warnings and Precautions (5.8)].
+Advise the patient to report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider if they have been receiving ZEGERID for longer than 3 years [see Warnings and Precautions (5.9)].
 
-Hypomagnesemia
+Hypomagnesemia and Mineral Metabolism
 
-Advise the patient to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving ZEGERID for at least 3 months [see Warnings and Precautions (5.9)].
+Advise the patient to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving ZEGERID for at least 3 months [see Warnings and Precautions (5.10)].
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate [see Contraindications (4) and Warnings and Precautions (5.7, 5.10, 5.12)].
+Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate [see Contraindications (4) and Warnings and Precautions (5.8, 5.11, 5.13)].
 
 Administration
 
 - Instruct patients that:
 
-1. 1.Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
-2. 2.Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
+- •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
 Administration of ZEGERID Capsules
 
@@ -61,4 +65,4 @@ Administration of ZEGERID for Oral Suspension
 - •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates 9658602
+Any other product/brand names are trademarks of the respective owners. © 2022 Salix Pharmaceuticals, Inc. or its affiliates 9658603

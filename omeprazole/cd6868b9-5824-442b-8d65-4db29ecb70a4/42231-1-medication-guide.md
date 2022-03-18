@@ -65,7 +65,7 @@ Do not take ZEGERID if you are:
   See the end of this Medication Guide for a complete list of ingredients in ZEGERID.
 - •taking a medicine that contains rilpivirine, used to treat HIV-1 (Human Immunodeficiency Virus).
 
-Before taking ZEGERID, tell your doctor about all your medical conditions, including if you:
+Before taking ZEGERID, tell your doctor about all of your medical conditions, including if you:
 
 - •have low magnesium, calcium, or potassium levels in your blood.
 - •have problems with the acid-base (pH) balance in your body.
@@ -121,18 +121,26 @@ What are the possible side effects of ZEGERID?
 ZEGERID can cause serious side effects, including:
 
 - •See “What is the most important information I should know about ZEGERID?”
-- •Low vitamin B-12 levels in your body can happen in people who have taken ZEGERID for a long time (more than 3 years).Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- •Low vitamin B-12 levels in your body can happen in people who have taken ZEGERID for a long time (more than 3 years).
+  Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
 - •Low magnesium levels in your body can happen in people who have taken ZEGERID for at least 3 months.
   Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
-  The most common side effects of ZEGERID include:
-- •headache
-- •abdominal pain
-- •nausea
-- •diarrhea
-- •vomiting
-- •gas
+- •Severe skin reactions.
+  ZEGERID can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+- oSkin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+- oYou may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+- Stop taking ZEGERID and call your doctor right away.
+  These symptoms may be the first sign of a severe skin reaction.
+- •The most common side effects of ZEGERID include:
+- oheadache
+- oabdominal pain
+- onausea
+- odiarrhea
+- ovomiting
+- ogas
 
 These are not all the possible side effects of ZEGERID.
 
@@ -165,6 +173,8 @@ Inactive ingredients in ZEGERID for oral suspension: xylitol, sucrose, sucralose
 Inactive ingredients in ZEGERID capsules, for oral use: croscarmellose sodium and sodium stearyl fumarate.
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates For more information, go to www.Salix.com or 1-800-321-4576.
+Any other product/brand names are trademarks of the respective owners. © 2022 Salix Pharmaceuticals, Inc. or its affiliates For more information, go to www.Salix.com or 1-800-321-4576.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-9658602 Revised: 11/2020
+Revised: 03/2022
+
+9658603

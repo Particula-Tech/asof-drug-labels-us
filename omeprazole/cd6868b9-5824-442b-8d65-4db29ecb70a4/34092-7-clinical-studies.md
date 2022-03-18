@@ -65,7 +65,7 @@ Table 15: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
 |  | Omeprazole 40 mg once daily (n = 187) | Omeprazole 20 mg once daily (n = 200) | Ranitidine 150 mg twice daily (n = 199) |
 | --- | --- | --- | --- |
-| Week 4 | 78.1 | 63.5 | 56.3 |
+| Week 4 | 78.1(p < 0.01) omeprazole 40 mg versus ranitidine(p < 0.01) omeprazole 40 mg versus 20 mg | 63.5 | 56.3 |
 | Week 8 | 91.4 | 81.5 | 78.4 |
 
 ## 14.3 Symptomatic GERD
@@ -77,10 +77,10 @@ Table 16: % Successful Symptomatic OutcomeDefined as complete resolution of hear
 
 |  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All Patients | 46(p < 0.005) versus placebo (n = 205) | 31 (n = 199) | 13 (n = 105) |
+| All Patients | 46(p < 0.005) versus 10 mg (n = 205) | 31 (n = 199) | 13 (n = 105) |
 | Patients with Confirmed GERD | 56 (n = 115) | 36 (n = 109) | 14 (n = 59) |
 
-14.4 EE Due to Acid-Mediated GERD
+## 14.4 EE Due to Acid-Mediated GERD
 
 In a U.S. multicenter, double-blind, placebo-controlled study of 40 mg or 20 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 17.
 
@@ -88,7 +88,7 @@ Table 17: % Patients Healed
 
 |  | Omeprazole 40 mg (n = 87) | Omeprazole 20 mg (n = 83) | Placebo (n = 43) |
 | --- | --- | --- | --- |
-| Week 4 | 45(p < 0.01) omeprazole versus placebo. | 39 | 7 |
+| Week 4 | 45 | 39 | 7 |
 | Week 8 | 75 | 74 | 14 |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of omeprazole in the percentage healing rate.

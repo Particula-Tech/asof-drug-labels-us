@@ -19,7 +19,7 @@ Table 8: Effect of ZEGERID for Oral Suspension on Intragastric pH, Day 7
 | Parameter | 40 mg omeprazole and1,680 mg sodium bicarbonate (n = 24) | 20 mg omeprazole and 1,680 mg sodium bicarbonate (n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of Variation | 20% | 24% |
-| % Time Gastric pH > 4 P < 0.05 20 mg vs. 40 mg (Hours) | 77% (18.6 h) | 51% (12.2 h) |
+| % Time Gastric pH > 4 (Hours) | 77% (18.6 h) | 51% (12.2 h) |
 | Coefficient of Variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
 | Coefficient of Variation | 17% | 37% |
@@ -78,7 +78,7 @@ Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of
 |  | Day 1 | Day 7 | % Change (Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 498.1 (50.9) | 679.8 (44.0) | 36 | 1154 (53.0) | 1526 (48.7) | 32 |
 | Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
-| AUC0-inf* (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
+| AUC0-inf * (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
 
 - n.a.: not applicable
 - * AUC0-24h was used on Day 7
@@ -90,7 +90,7 @@ Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax o
 |  | Day 1 | Day 7 | % Change(Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 671.9 (43.8) | 902.2 (39.6) | 34 | 1412 (43.7) | 1954 (33.5) | 38 |
 | Tmax (hr)[min – max] | 0.50[0.17-1.5] | 0.47[0.17-1.0] | n.a. | 0.44[0.17-1.0] | 0.58[0.25-1.0] | n.a. |
-| AUC0-inf* (ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
+| AUC0-inf * (ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
 
 - n.a.: not applicable
 - * AUC0-24h was used on Day 7
