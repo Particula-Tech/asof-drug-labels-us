@@ -39,9 +39,9 @@ Do not mix with milk, milk products, or soft foods containing milk products.
 | Step 1 – Prepare cup or bowl Place 2 teaspoons of the soft food into a small cup or bowl. |  |
 | --- | --- |
 
-| Step 2 – Collect PRADAXA Oral Pellets packet(s) Open the silver aluminum bag by cutting at the top with scissors. The aluminum bag contains 60 silver-colored packets of PRADAXA Oral Pellets and a desiccant.Remove desiccant from aluminum bag and throw away.Do not open or eat the desiccant. |  |
+| Step 2 – Collect PRADAXA Oral Pellets packet(s) Open the silver aluminum bag by cutting at the top with scissors. The aluminum bag contains 60 silver-colored packets of PRADAXA Oral Pellets and a desiccant container.Remove desiccant container from silver aluminum bag. Throw away (dispose of) desiccant container in your household trash.Do not open or eat the desiccant. |  |
 | --- | --- |
-| Remove the prescribed number of PRADAXA Oral Pellets packets from the aluminum bag.Leave the unused packets of PRADAXA Oral Pellets in the aluminum bag. |  |
+| Remove the prescribed number of PRADAXA Oral Pellets packets from the silver aluminum bag.Leave the unused packets of PRADAXA Oral Pellets in the silver aluminum bag. |  |
 
 | Step 3 – Open the PRADAXA Oral Pellets packet(s) Tap the packet of Oral Pellets on a flat surface to ensure that the contents settle to the bottom. |  |
 | --- | --- |
@@ -58,9 +58,9 @@ Do not mix with milk, milk products, or soft foods containing milk products.
 
 How to prepare and give a dose of PRADAXA Oral Pellets with apple juice:
 
-| Step 1 – Pour about 1 to 2 ounces of apple juice into a clean drinking cup. Step 2 – Collect PRADAXA Oral Pellets packet(s) Open the silver aluminum bag by cutting at the top with scissors. The aluminum bag includes 60 silver-colored packets of pellets and a desiccant.Remove desiccant from aluminum bag and throw away.Do not open or eat the desiccant. |  |
+| Step 1 – Pour about 1 to 2 ounces of apple juice into a clean drinking cup. Step 2 – Collect PRADAXA Oral Pellets packet(s) Open the silver aluminum bag by cutting at the top with scissors. The silver aluminum bag includes 60 silver-colored packets of pellets and a desiccant container.Remove desiccant container from silver aluminum bag. Throw away (dispose of) desiccant container in your household trash.Do not open or eat the desiccant. |  |
 | --- | --- |
-| Remove the prescribed number of PRADAXA Oral Pellets packets from the aluminum bag.Leave the unused packets of PRADAXA Oral Pellets in the aluminum bag. |  |
+| Remove the prescribed number of PRADAXA Oral Pellets packets from the silver aluminum bag.Leave the unused packets of PRADAXA Oral Pellets in the silver aluminum bag. |  |
 
 | Step 3 – Open PRADAXA Oral Pellets packet(s) Tap the packet on a flat surface to make sure that the contents settle to the bottom. |  |
 | --- | --- |
@@ -72,18 +72,23 @@ How to prepare and give a dose of PRADAXA Oral Pellets with apple juice:
 
 Storing PRADAXA Oral Pellets
 
-- Store at room temperature from 68°F to 77°F (20°C to 25°C).
-- Keep PRADAXA Oral Pellets packets in the aluminum bag until you are ready to use them.
-  Do not open PRADAXA Oral Pellets packets until you are ready to use them.
-- Use the PRADAXA Oral Pellets within 6 months of opening the aluminum bag.
+- Store PRADAXA Oral Pellets at room temperature from 68°F to 77°F (20°C to 25°C).
+- After opening the silver aluminum bag that contains the packets of Oral Pellets:
+  - The silver aluminum bag contains a desiccant container.
+    Throw away (dispose of) the desiccant container in your household trash.
+  - PRADAXA Oral Pellets must be used within 6 months.
+    Safely throw away any unused PRADAXA Oral Pellets after 6 months.
+- Keep PRADAXA Oral Pellets packets in the original silver aluminum bag to keep them dry (protect the packets from moisture).
+  Do not open packets of PRADAXA Oral Pellets until you are ready to use them.
+- Throw away any PRADAXA Oral Pellets that have not been given within 30 minutes after the Oral Pellets come into contact with apple juice or food.
 
 Keep PRADAXA Oral Pellets and all medicines out of the reach of children.
 
 For more information about PRADAXA Oral Pellets, call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Copyright © 2021 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Copyright © 2022 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-COL8834AF252021
+COL8834CB072022
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: June 2021
+Revised: February 2022

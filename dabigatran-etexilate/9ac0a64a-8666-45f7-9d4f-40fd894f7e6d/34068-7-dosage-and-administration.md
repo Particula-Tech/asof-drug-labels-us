@@ -100,6 +100,8 @@ PRADAXA Oral Pellets should not be administered:
 - via syringes or feeding tubes
 - with milk, milk products, or soft foods containing milk products
 
+Instruct patients/caregivers to discard the desiccant once the package is opened.
+
 See Instructions for Use.
 
 ## 2.5 Converting from or to Warfarin
