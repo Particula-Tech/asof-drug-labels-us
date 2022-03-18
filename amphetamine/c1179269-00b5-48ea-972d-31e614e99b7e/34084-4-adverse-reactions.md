@@ -96,7 +96,7 @@ Central Nervous System: Restlessness, irritability, euphoria, dyskinesia, dyspho
 
 Eye Disorders: Vision blurred, mydriasis.
 
-Gastrointestinal: Unpleasant taste, constipation, other gastrointestinal disturbances.
+Gastrointestinal: Unpleasant taste, constipation, intestinal ischemia, other gastrointestinal disturbances.
 
 Allergic: Urticaria, rash, hypersensitivity reactions including angioedema and anaphylaxis.
 Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported.
