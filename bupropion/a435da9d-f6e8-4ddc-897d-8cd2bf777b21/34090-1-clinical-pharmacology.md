@@ -144,7 +144,7 @@ Nevertheless, there may be the potential for clinically important alterations of
 Drugs Metabolized by CYP2D6
 
 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.
-In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T½ of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 

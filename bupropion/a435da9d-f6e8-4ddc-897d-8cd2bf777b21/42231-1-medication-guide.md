@@ -14,10 +14,10 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+4. 4.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. •Keep all follow up visits with your healthcare provider as scheduled.
+5. 5.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. 6.Keep all follow up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -98,13 +98,13 @@ Do not take Wellbutrin XL again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take Wellbutrin XL?”).
 - •Manic episodes.
   Some people may have periods of mania while taking Wellbutrin XL, including:
-- oGreatly increased energy
-- oSevere trouble sleeping
-- oRacing thoughts
-- oReckless behavior
-- oUnusually grand ideas
-- oExcessive happiness or irritability
-- oTalking more or faster than usual
+- •Greatly increased energy
+- •Severe trouble sleeping
+- •Racing thoughts
+- •Reckless behavior
+- •Unusually grand ideas
+- •Excessive happiness or irritability
+- •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -112,9 +112,9 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   Some patients have unusual thoughts or behaviors while taking Wellbutrin XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual problems.
-- oeye pain
-- ochanges in vision
-- oswelling or redness in or around the eye
+- •eye pain
+- •changes in vision
+- •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
@@ -137,8 +137,8 @@ Do not take Wellbutrin XL if you:
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - odo not take an MAOI within 2 weeks of stopping Wellbutrin XL unless directed to do so by your healthcare provider.
-  - odo not start Wellbutrin XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - •do not take an MAOI within 2 weeks of stopping Wellbutrin XL unless directed to do so by your healthcare provider.
+  - •do not start Wellbutrin XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in Wellbutrin XL, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in Wellbutrin XL.
 
@@ -149,22 +149,22 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-- ohave liver problems, especially cirrhosis of the liver.
-- ohave kidney problems.
-- ohave, or have had, an eating disorder such as anorexia nervosa or bulimia.
-- ohave had a head injury.
-- ohave had a seizure (convulsion, fit).
-- ohave a tumor in your nervous system (brain or spine).
-- ohave had a heart attack, heart problems, or high blood pressure.
-- oare a diabetic taking insulin or other medicines to control your blood sugar.
-- odrink alcohol.
-- oabuse prescription medicines or street drugs.
-- oare pregnant or plan to become pregnant.
+- •have liver problems, especially cirrhosis of the liver.
+- •have kidney problems.
+- •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+- •have had a head injury.
+- •have had a seizure (convulsion, fit).
+- •have a tumor in your nervous system (brain or spine).
+- •have had a heart attack, heart problems, or high blood pressure.
+- •are a diabetic taking insulin or other medicines to control your blood sugar.
+- •drink alcohol.
+- •abuse prescription medicines or street drugs.
+- •are pregnant or plan to become pregnant.
   Talk to your healthcare provider about the risk to your unborn baby if you take Wellbutrin XL during pregnancy.
-  - oTell your healthcare provider if you become pregnant or think you are pregnant during treatment with Wellbutrin XL.
-  - oIf you become pregnant during treatment with Wellbutrin XL, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  - •Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with Wellbutrin XL.
+  - •If you become pregnant during treatment with Wellbutrin XL, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
     You can register by calling 1-844-405-6185.
-- oare breastfeeding or plan to breastfeed during treatment with Wellbutrin XL.
+- •are breastfeeding or plan to breastfeed during treatment with Wellbutrin XL.
   Wellbutrin XL passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with Wellbutrin XL.
 
@@ -263,4 +263,4 @@ All other product/brand names are the trademarks of the respective owners.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 - Revised: 7/2021
-- 9395608
+- 9395609
