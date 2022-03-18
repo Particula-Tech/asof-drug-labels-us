@@ -28,4 +28,6 @@ Advise women not to breastfeed during treatment with atorvastatin calcium [see C
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 12/2020
+Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
+
+Rev: 1/2022

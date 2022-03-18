@@ -167,8 +167,10 @@ What are the Ingredients in Atorvastatin Calcium Tablets, USP?
 
 Active Ingredient: atorvastatin calcium, USP
 
-Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecithin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
+Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; hypromellose, polyethylene glycol, talc, titanium dioxide, and iron oxide yellow.
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 12/2020
+Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
+
+Rev: 1/2022
