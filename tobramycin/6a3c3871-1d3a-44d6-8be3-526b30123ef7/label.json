@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050753"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-345-73",
+    "49502-345-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "TOBI"
+    }
+  ],
+  "setid": "6a3c3871-1d3a-44d6-8be3-526b30123ef7",
+  "source": "dailymed"
+}
