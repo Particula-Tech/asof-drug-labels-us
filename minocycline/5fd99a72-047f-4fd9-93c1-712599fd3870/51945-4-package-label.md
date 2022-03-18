@@ -95,3 +95,9 @@ Amzeeq®
 For topical use only, not for oral, ophthalmic or intravaginal use
 
 Rx only
+
+# AMZEEQ 3 gram Physician Sample Labels
+
+AMZEEQ 3 gram Physician Sample (NDC 72356-101-92) - LABEL
+
+AMZEEQ 3 gram Physician Sample (NDC 72356-101-92) - CARTON

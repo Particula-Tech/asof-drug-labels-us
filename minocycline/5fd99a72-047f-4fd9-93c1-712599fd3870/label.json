@@ -3,10 +3,11 @@
     "NDA212379"
   ],
   "inn": "minocycline",
-  "labeler": "VYNE Pharmaceuticals Inc.",
+  "labeler": "Journey Medical Corporation",
   "package_ndcs": [
     "72356-101-03",
-    "72356-101-90"
+    "72356-101-90",
+    "72356-101-92"
   ],
   "products": [
     {
