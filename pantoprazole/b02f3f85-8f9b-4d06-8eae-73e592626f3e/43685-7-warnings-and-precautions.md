@@ -6,35 +6,35 @@ In adults, symptomatic response to therapy with Pantoprazole Sodium for Injectio
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Hypersensitivity and Severe Skin Reactions
-
-Anaphylaxis and other serious reactions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN) have been reported with use of pantoprazole sodium.
-These may require emergency medical treatment [see Adverse Reactions (6.2)].
-
-## 5.3 Injection Site Reactions
+## 5.2 Injection Site Reactions
 
 Thrombophlebitis was associated with the administration of another intravenous pantoprazole sodium product.
 
-## 5.4 Acute Tubulointerstitial Nephritis
+## 5.3 Acute Tubulointerstitial Nephritis
 
 Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
 Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
 In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
 Discontinue Pantoprazole Sodium for Injection and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
-## 5.5 Clostridium difficile-Associated Diarrhea
+## 5.4 Clostridium difficile-Associated Diarrhea
 
 Published observational studies suggest that PPI therapy like Pantoprazole Sodium for Injection may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-## 5.6 Bone Fracture
+## 5.5 Bone Fracture
 
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2.2, 2.4) and Adverse Reactions (6)].
+
+## 5.6 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with the use of PPIs [see Adverse Reactions (6.2)].
+Discontinue Pantoprazole Sodium for Injection at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
 
 ## 5.7 Cutaneous and Systemic Lupus Erythematosus
 
@@ -61,13 +61,18 @@ ANA) may be positive and elevated serological test results may take longer to re
 Mild, transient transaminase elevations have been observed in clinical studies.
 The clinical significance of this finding in a large population of subjects administered intravenous pantoprazole sodium is unknown [see Adverse Reactions (6.1)].
 
-## 5.9 Hypomagnesemia
+## 5.9 Hypomagnesemia and Mineral Metabolism
 
 Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, and in most cases after a year of therapy.
-Serious adverse events include tetany, arrhythmias, and seizures.
+Serious adverse reactions include tetany, arrhythmias, and seizures.
+Hypomagnesemia may lead to hypocalcemia and/or hypokalemia and may exacerbate underlying hypocalcemia in at-risk patients.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), healthcare professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
+
+Consider monitoring magnesium and calcium levels prior to initiation of Pantoprazole Sodium for Injection and periodically while on treatment in patients with a preexisting risk of hypocalcemia (e.g., hypoparathyroidism).
+Supplement with magnesium and/or calcium as necessary.
+If hypocalcemia is refractory to treatment, consider discontinuing the PPI.
 
 ## 5.10 Fundic Gland Polyps
 

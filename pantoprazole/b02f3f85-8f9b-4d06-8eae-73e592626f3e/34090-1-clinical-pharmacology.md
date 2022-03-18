@@ -10,7 +10,7 @@ The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect
 
 Antisecretory Activity
 
-The magnitude and time course for inhibition of pentagastrin-stimulated acid output (PSAO) by single intravenous doses (20 to 120 mg) of pantoprazole were assessed in a single-dose, open-label, placebo- controlled, dose-response study.
+The magnitude and time course for inhibition of pentagastrin-stimulated acid output (PSAO) by single intravenous doses (20 to 120 mg) of pantoprazole were assessed in a single-dose, open-label, placebo-controlled, dose-response study.
 The results of this study are shown in Table 3.
 Healthy subjects received a continuous infusion for 25 hours of pentagastrin (PG) at 1 mcg/kg/hour, a dose known to produce submaximal gastric acid secretion.
 The placebo group showed a sustained, continuous acid output for 25 hours, validating the reliability of the testing model.
@@ -149,7 +149,7 @@ There was also no interaction with concomitantly administered antacids.
 ## 12.5 Pharmacogenomics
 
 CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers).
-Although these subpopulations of pantoprazole poor metabolizers have elimination half- life values of 3.5 to 10 hours in adults, they still have minimal accumulation (less than or equal to 23%) with once-daily dosing.
+Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (less than or equal to 23%) with once-daily dosing.
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19*2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19*1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.
