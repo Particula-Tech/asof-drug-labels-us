@@ -17,7 +17,7 @@ FLUOROPLEX Cream is applied with the fingers, and the hands should be washed imm
 The reaction to FLUOROPLEX Cream in treated areas may be unsightly during therapy, and, in some cases, for several weeks following cessation of therapy.
 
 Fluorouracil, including FLUOROPLEX Cream may be fatal if ingested by pets.
-Avoid allowing pets to contact the FLUOROPLEX Cream container or the skin where FLUOROPLEX Cream has been applied.
+Avoid allowing pets to contact the FLUOROPLEX Cream container or the skin where FLUOROPLEX® Cream has been applied.
 Store FLUOROPLEX Cream out of reach of pets.
 Safely discard or clean any cloth or applicator that may retain FLUOROPLEX Cream and avoid leaving any residues of FLUOROPLEX Cream on your hands, clothing, carpeting or furniture.
 
@@ -34,7 +34,7 @@ In mice, single-dose intravenous and intraperitoneal injections of fluorouracil 
 
 Fluorouracil was negative in the dominant lethal mutation assay performed in mice.
 
-Pregnancy: Teratogenic Effects: Fluorouracil may cause fetal harm when administered to a pregnant woman.
+Pregnancy: Teratogenic effects: Fluorouracil may cause fetal harm when administered to a pregnant woman.
 Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats and hamsters, and embryolethal in monkeys.
 Fluorouracil is contraindicated in women who are or may become pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.

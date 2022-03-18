@@ -20,8 +20,7 @@ SEE CRIMP FOR LOT NO. AND EXPIRATION DATE
 
 Manufactured by: Almirall Hermal GmbH, 21465 Reinbek, Germany
 
-Distributed by: Almirall, LLC, 101 Lindenwood Drive, Suite 400, Malvern, PA.
-19355, U.S.A.
+Distributed by: Almirall, LLC, Exton, PA 19341, U.S.A.
 
 Fluoroplex is a registered trademark of Almirall, LLC
 
@@ -47,8 +46,7 @@ Store at 15° - 30°C (59° - 86°F).
 
 Manufactured by: Almirall Hermal GmbH, 21465 Reinbek, Germany
 
-Distributed by: Almirall, LLC, 101 Lindenwood Drive, Suite 400, Malvern, PA.
-19355, U.S.A.
+Distributed by: Almirall, LLC, Exton, PA 19341, U.S.A.
 
 Fluoroplex is a registered trademark of Almirall, LLC
 
