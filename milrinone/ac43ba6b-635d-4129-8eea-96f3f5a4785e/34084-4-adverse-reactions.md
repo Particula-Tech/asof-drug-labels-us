@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 ## Cardiovascular Effects
 
 In patients receiving milrinone in Phase II and III clinical trials, ventricular arrhythmias were reported in 12.1%: Ventricular ectopic activity, 8.5%; nonsustained ventricular tachycardia, 2.8%; sustained ventricular tachycardia, 1% and ventricular fibrillation, 0.2% (two patients experienced more than one type of arrhythmia).
