@@ -26,7 +26,7 @@ The pharmacokinetics of atomoxetine have been evaluated in more than 400 childre
 Single-dose and steady-state individual pharmacokinetic data were also obtained in children, adolescents, and adults.
 When doses were normalized to a mg/kg basis, similar half-life, Cmax, and AUC values were observed in children, adolescents, and adults.
 Clearance and volume of distribution after adjustment for body weight were also similar.
-Absorption and distribution— Atomoxetine is rapidly absorbed after oral administration, with absolute bioavailability of about 63% in Ems and 94% in PMs.
+Absorption and distribution — Atomoxetine is rapidly absorbed after oral administration, with absolute bioavailability of about 63% in Ems and 94% in PMs.
 Maximal plasma concentrations (Cmax) are reached approximately 1 to 2 hours after dosing.
 Atomoxetine can be administered with or without food.
 Administration of atomoxetine with a standard high-fat meal in adults did not affect the extent of oral absorption of atomoxetine (AUC), but did decrease the rate of absorption, resulting in a 37% lower Cmax, and delayed Tmax by 3 hours.
@@ -34,7 +34,7 @@ In clinical trials with children and adolescents, administration of atomoxetine 
 The steady-state volume of distribution after intravenous administration is 0.85 L/kg indicating that atomoxetine distributes primarily into total body water.
 Volume of distribution is similar across the patient weight range after normalizing for body weight.
 At therapeutic concentrations, 98% of atomoxetine in plasma is bound to protein, primarily albumin.
-Metabolism and elimination— Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
+Metabolism and elimination — Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
 People with reduced activity in this pathway (PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (Ems).
 For PMs, AUC of atomoxetine is approximately 10-fold and Css,max is about 5-fold greater than Ems.
 Laboratory tests are available to identify CYP2D6 PMs.

@@ -238,4 +238,4 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 06/2020
+Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 03/2022

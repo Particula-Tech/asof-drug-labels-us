@@ -26,7 +26,7 @@ However, these effects on heart rate and blood pressure were not seen in another
 ## 7.5 Effect of Atomoxetine on P450 Enzymes
 
 Atomoxetine did not cause clinically important inhibition or induction of cytochrome P450 enzymes, including CYP1A2, CYP3A, CYP2D6, and CYP2C9.
-CYP3A Substrate (e.g., Midazolam)— Coadministration of atomoxetine (60 mg BID for 12 days) with midazolam, a model compound for CYP3A4 metabolized drugs (single dose of 5 mg), resulted in 15% increase in AUC of midazolam.
+CYP3A Substrate (e.g., Midazolam) — Coadministration of atomoxetine (60 mg BID for 12 days) with midazolam, a model compound for CYP3A4 metabolized drugs (single dose of 5 mg), resulted in 15% increase in AUC of midazolam.
 No dose adjustment is recommended for drugs metabolized by CYP3A.
 CYP2D6 Substrate (e.g., Desipramine) — Coadministration of atomoxetine (40 or 60 mg BID for 13 days) with desipramine, a model compound for CYP2D6 metabolized drugs (single dose of 50 mg), did not alter the pharmacokinetics of desipramine.
 No dose adjustment is recommended for drugs metabolized by CYP2D6.
