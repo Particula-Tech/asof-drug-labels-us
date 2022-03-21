@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA205006"
+  ],
+  "inn": "lacosamide",
+  "labeler": "Glenmark Pharmaceuticals Inc. USA",
+  "package_ndcs": [
+    "68462-678-10",
+    "68462-678-30",
+    "68462-678-60",
+    "68462-679-10",
+    "68462-679-30",
+    "68462-679-60",
+    "68462-680-10",
+    "68462-680-30",
+    "68462-680-60",
+    "68462-681-10",
+    "68462-681-30",
+    "68462-681-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lacosamide",
+      "name": "lacosamide"
+    }
+  ],
+  "setid": "df1d2e6a-6129-49c9-b2c1-0fdf73f38b9c",
+  "source": "dailymed"
+}
