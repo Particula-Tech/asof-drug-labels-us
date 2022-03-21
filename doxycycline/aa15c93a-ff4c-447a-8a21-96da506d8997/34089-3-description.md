@@ -9,4 +9,3 @@ The chemical designation for doxycycline is 2-Naphthacenecar-boxamide,4-(dimethy
 It is very slightly soluble in water.
 
 Inert ingredients in the formulation are: hypromellose, iron oxide red, iron oxide yellow, methacrylic acid copolymer, polyethylene glycol, Polysorbate 80, sugar spheres, talc, titanium dioxide, and triethyl citrate.
-Active ingredients: Each capsule contains doxycycline, USP in an amount equivalent to 40 mg of anhydrous doxycycline.

@@ -39,23 +39,16 @@ Placebo (n=268)
 Adverse Reactions for Tetracyclines: The following adverse reactions have been observed in patients receiving tetracyclines at higher, antimicrobial doses:
 
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with vaginal candidiasis) in the anogenital region.
-Hepatotoxicity has been reported rarely.
-Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving the capsule forms of the drugs in the tetracycline-class.
+Hepatotoxicity, Esophagitis and esophageal ulcerations have been reported in patients receiving the capsule forms of the drugs in the tetracycline-class.
 Most of the patients experiencing esophagitis and/or esophageal ulceration took their medication immediately before lying down [see Dosage and Administration (2)].
-
+Renal toxicity: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.4)].
 Skin: maculopapular and erythematous rashes.
-Exfoliative dermatitis has been reported but is uncommon.
-Photosensitivity is discussed above [see Warnings and Precautions (5.4)].
-
-Renal toxicity: Rise in BUN has been reported and is apparently dose related [see Warnings and Precautions (5.3)].
-
+Exfoliative dermatitis.
+Photosensitivity is discussed above [see Warnings and Precautions (5.5)].
 Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
-
-Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
+Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia.
 
 ## 6.2 Postmarketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of ORACEA:
-
-• Nervous system: Pseudotumor cerebri (benign intracranial hypertension), headache.
+The following adverse reactions have been identified during post approval use of ORACEA: Nervous system: Pseudotumor cerebri (benign intracranial hypertension), headache.
