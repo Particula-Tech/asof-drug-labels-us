@@ -48,4 +48,4 @@ Advise patients to store RediTrex between 20˚C to 25˚C (68˚F to 77˚F), and t
 
 Inform patients and caregivers of the need for proper disposal after use, including the use of a sharps disposal container.
 
-Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203 RediTrex™ is a trademark of Cumberland Pharmaceuticals Inc.
+Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203 RediTrex® is a trademark of Cumberland Pharmaceuticals Inc.

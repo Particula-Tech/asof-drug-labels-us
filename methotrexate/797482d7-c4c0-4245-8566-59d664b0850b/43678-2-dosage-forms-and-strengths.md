@@ -6,6 +6,7 @@ RediTrex is available at a concentration of 25 mg/mL to administer the following
 
 - 7.5 mg
 - 10 mg
+- 12.5 mg
 - 15 mg
 - 17.5 mg
 - 20 mg
