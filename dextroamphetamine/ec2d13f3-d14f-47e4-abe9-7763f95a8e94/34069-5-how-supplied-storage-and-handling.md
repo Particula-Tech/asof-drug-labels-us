@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dextroamphetamine Sulfate Tablets USP are available as:
+Dextroamphetamine Sulfate Tablets, USP are available as:
 
 5 mg: Peach, round, flat-faced, beveled-edge, scored tablet, debossed with 952/5 on the scored side and stylized b on the other side.
 Available in bottles of 100 (NDC: 0555-0952-02).
@@ -16,9 +16,13 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 DEA Order Form Required.
 
-Teva Pharmaceuticals USA, Inc.
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-North Wales, PA 19454
+Manufactured For:
+
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-D 12/2021
+E 2/2022

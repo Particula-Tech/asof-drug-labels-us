@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-DEXTROAMPHETAMINE SULFATE TABLETS USP, CII
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-(DEX-troe-am-FET-uh-meen SULL-fate)
+Dextroamphetamine Sulfate (dex'' troe am fet' uh meen sul' fate) Tablets, USP CII
 
 Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets before you or your child starts taking them and each time you get a refill.
 There may be new information.
@@ -147,19 +147,13 @@ What are the ingredients in Dextroamphetamine Sulfate Tablets?
 
 Active Ingredient: dextroamphetamine sulfate
 
-## Inactive Ingredients
-
-Calcium sulfate, colloidal silicon dioxide, compressible sugar, corn starch, magnesium stearate, and microcrystalline cellulose.
-
+Inactive Ingredients: Calcium sulfate, colloidal silicon dioxide, compressible sugar, corn starch, magnesium stearate, and microcrystalline cellulose.
 The 5 mg also contains D&C yellow no. 10 aluminum lake and FD&C red no. 40 aluminum lake.
-
 The 10 mg also contains FD&C red no. 40 aluminum lake and FD&C yellow no. 6 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 9/2016
+C 2/2022

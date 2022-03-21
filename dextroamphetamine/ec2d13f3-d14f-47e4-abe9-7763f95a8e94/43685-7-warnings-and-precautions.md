@@ -1,5 +1,3 @@
-# WARNING
-
 # WARNINGS
 
 ## Serious Cardiovascular Events
@@ -218,8 +216,6 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Dextroamphetamine has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.

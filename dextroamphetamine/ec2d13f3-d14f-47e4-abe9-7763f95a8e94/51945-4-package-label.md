@@ -2,11 +2,11 @@
 
 NDC 0555-0952-02
 
-Dextroamphetamine Sulfate Tablets USP 5 mg
+Dextroamphetamine Sulfate Tablets, USP CII
 
-CII
+5 mg
 
-PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -16,11 +16,11 @@ Rx only
 
 NDC 0555-0953-02
 
-Dextroamphetamine Sulfate Tablets USP 10 mg
+Dextroamphetamine Sulfate Tablets, USP CII
 
-CII
+10 mg
 
-PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
