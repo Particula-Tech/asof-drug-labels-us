@@ -1,59 +1,39 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 25 mg
-
-NDC: 0054-0220-25
+NDC 0054-0220-25 Quetiapine Tablets, USP 25 mg (100s)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 25 mg
-
-NDC: 0054-0220-20
+NDC 0054-0220-20 Quetiapine Tablets, USP 25 mg (2x5x10 Unit-Dose)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 50 mg
-
-NDC: 0054-0229-25
+NDC 0054-0229-25 Quetiapine Tablets, USP 50 mg (100s)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 50 mg
-
-NDC: 0054-0229-20
+NDC 0054-0229-20 Quetiapine Tablets, USP 50 mg (2x5x10 Unit-Dose)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 100 mg
-
-NDC: 0054-0221-25
+NDC 0054-0221-25 Quetiapine Tablets, USP 100 mg (100s)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 100 mg
-
-NDC: 0054-0221-20
+NDC 0054-0221-20 Quetiapine Tablets, USP 100 mg (2x5x10 Unit-Dose)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 200 mg
-
-NDC: 0054-0222-25
+NDC 0054-0222-25 Quetiapine Tablets, USP 200 mg (100s)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 300 mg
-
-NDC: 0054-0223-21
+NDC 0054-0223-21 Quetiapine Tablets, USP 300 mg (60s)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 300 mg
-
-NDC: 0054-0223-20
+NDC 0054-0223-20 Quetiapine Tablets, USP 300 mg (2x5x10 Unit-Dose)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Quetiapine Tablets USP, 400 mg
-
-NDC: 0054-0230-25
+NDC 0054-0230-25 Quetiapine Tablets, USP 400 mg (100s)

@@ -80,8 +80,8 @@ Effectiveness and safety of quetiapine have not been established in pediatric pa
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-10004966/10
+C50000602/01
 
-Revised September 2020
+Revised February 2022

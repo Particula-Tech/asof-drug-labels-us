@@ -1,6 +1,6 @@
 # Medication Guide
 
-Quetiapine Tablets USP
+Quetiapine Tablets, USP
 
 (kwe tye′ a peen)
 
@@ -246,18 +246,18 @@ You can ask your pharmacist or healthcare provider for information about quetiap
 
 For more information, please call 1-800-962-8364.
 
-What are the ingredients in Quetiapine Tablets USP?
+What are the ingredients in Quetiapine Tablets, USP?
 
 Active ingredient: quetiapine, USP
 
 Inactive ingredients: The 25 mg tablet contains lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
 
-The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+The 50 mg, 100 mg, 200 mg, 300 mg, and 400 mg tablets contain colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-10004966/10
+C50000616/01
 
-Revised September 2020
+Revised February 2022
