@@ -30,12 +30,14 @@ Other adverse events in pediatric patients reported in spontaneous reports and l
 
 Table 5:
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |  |  |
-| --- | --- | --- | --- |
-|  | Increases Compared to Placebo |  |  |
-| <18 18 to 24 | 14 additional cases 5 additional cases |  |  |
-|  | Decreases Compared to Placebo |  |  |
-| 25 to 64 ≥65 |  | 1 fewer case 6 fewer cases |  |
+| Age Range | Drug-Placebo Difference in Number of Cases ofSuicidality per 1,000 Patients Treated |
+| --- | --- |
+|  | Increases Compared to Placebo |
+| <18 | 14 additional cases |
+| 18 to 24 | 5 additional cases |
+|  | Decreases Compareds to Placebo |
+| 25 to 64 | 1 fewer case |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -301,7 +303,8 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 | Placebo | 598 | 16 (2.7) |  |  |
 | Major Depressive Disorder (Adjunctive Therapy) c | Aripiprazole | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
-| a 4 to 6 weeks duration. b3 weeks duration. c6 weeks duration |  |  |  |  |
+
+a 4 to 6 weeks duration. b3 weeks duration. c6 weeks duration
 
 Pediatric Patients and Adolescents
 
@@ -324,7 +327,8 @@ Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 | Placebo | 98 | 7 (7.1) |  |  |
 | Tourette's Disorder c | Aripiprazole | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
-| a 4 to 6 weeks duration. b 8 weeks duration. c 8-10 weeks duration |  |  |  |  |
+
+a 4 to 6 weeks duration. b 8 weeks duration. c 8-10 weeks duration
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.

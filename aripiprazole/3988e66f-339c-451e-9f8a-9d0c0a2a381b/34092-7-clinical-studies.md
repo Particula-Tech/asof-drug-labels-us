@@ -2,12 +2,12 @@
 
 Efficacy of the oral formulations of aripiprazole was established in the following adequate and well-controlled trials:
 
-- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13 to 17) with schizophrenia [see Clinical Studies (14.1)]
-- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17) with manic or mixed episodes [see Clinical Studies (14.2)]
-- One maintenance monotherapy trial in adult patients with bipolar I disorder [see Clinical Studies (14.2)]
+- Four short-term trials and one maintenance trial in adult patients and one-short term trial in adolescents (ages 13 to 17) with schizophrenia [see Clinical Studies (14.1)].
+- F﻿our short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17) with manic or mixed episodes [see Clinical Studies (14.2)].
+- Once maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with biopolar 1 disorder [see Clinical Studies (14.2)].
 - Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.3)]
-- Two short-term trials in pediatric patients (ages 6 to17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
-- Two short-term trials in pediatric patients (ages 6 to 18 years) with Tourette's disorder [see Clinical Studies (14.5)]
+- Two short-term trials in pediatric patients (ages 6 to 17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
+- Two short-term trials in pediatric patients (ages 6 to 18 years with Tourette's disorder [see Clinical Studies (14.5)].
 
 ## 14.1 Schizophrenia
 
@@ -60,9 +60,7 @@ Table 26: Schizophrenia Studies
 | Study 3 | Aripiprazole (10mg/day) * Aripiprazole (15 mg/day) * Aripiprazole (20 mg/day) * Placebo | 92.7(19.5) 93.2(21.6) 92.5(20.9) 92.3(21.8) | -15.0(2.38) -11.7(2.38) -14.4(2.45) -2.3(2.35) | -12.7(-19.00,-6.14) -9.4(-15.17,-3.08) -12.1(-18.53,-5.68) -- |
 | Study 4 | Aripiprazole (2 mg/day) Aripiprazole (5 mg/day) Aripiprazole (10 mg/day) * Placebo | 90.7(14.5) 92.0(12.6) 90.0(11.9) 90.8(13.3) | -8.2(1.90) -10.6(1.93) -11.3(1.88) -5.3(1.97) | -2.9(-8.29,2.47) -5.2(-10.7,0.19) -5.9(-11.3,-0.58) -- |
 | Study 6 (Pediatric, 13 to 17 years) | Aripiprazole (10 mg/day) * Aripiprazole (30 mg/day) * Placebo | 93.6(15.7) 94.0(16.1) 94.6(15.6) | -26.7(1.91) -28.6(1.92) -21.2(1.93) | -5.5(-10.7,-0.21) -7.4(-12.7,-2.13) -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
-| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
@@ -110,9 +108,8 @@ Table 27: Bipolar Studies
 | Study 4 | Aripiprazole (15 to 30 mg/day)* Placebo | 28.0 (5.8) 28.3 (5.8) | -11.98(0.80) -9.70(0.83) | -2.28(-4.44, -0.11) -- |
 | Study 5 | Aripiprazole (15 or 30 mg/day)* + Lithium/Valproate Placebo + Lithium/Valproate | 23.2 (5.7) 23.0 (4.6) | -13.31(0.50) -10.70(0.69) | -2.62(-4.49, -0.95) -- |
 | Study 6 (Pediatric, 10 to 17 years) | Aripiprazole (10 mg/day)* Aripiprazole (30 mg/day)* Placebo | 29.8 (6.5) 29.5 (6.3) 30.7 (6.8) | -14.2(0.89) -16.5(0.87) -8.2(0.91) | -5.99(-8.49, -3.50) -8.26(-10.7, -5.77) -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
-| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| * Doses statistically significantly superior to placebo. |  |  |  |  |
+
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo.
 
 Maintenance Treatment of Bipolar I Disorder
 
@@ -173,9 +170,8 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-subtracted difference a (95%CI) |  |  |
 | Study 1 | Aripiprazole (5 to 20 mg/day)* + Antidepressant Placebo + Antidepressant | 25.2 (6.2) 27.0 (5.5) | -8.49(0.66) -5.65(0.64) | -2.84(-4.53, -1.15) -- |
 | Study 2 | Aripiprazole (5 to 20 mg/day)* + Antidepressant Placebo + Antidepressant | 26.0 (6.0) 26.0 (6.5) | -8.78(0.63) -5.77(0.67) | -3.01(-4.66, -1.37) -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
-| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| * Doses statistically significantly superior to placebo. |  |  |  |  |
+
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo.
 
 ## 14.4 Irritability Associated with Autistic Disorder
 
@@ -206,9 +202,10 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-subtracted difference a (95%CI) |  |  |
 | Study 1 | Aripiprazole (2 to 15 mg/day)* Placebo | 29.6 (6.37) 30.2 (6.52) | -12.9 (1.44) -5.0 (1.43) | -7.9 (-11.7, -4.1) -- |
 | Study 2 | Aripiprazole (5 mg/day) * Aripiprazole (10 mg/day) * Aripiprazole (15 mg/day) * Placebo | 28.6 (7.56) 28.2 (7.36) 28.9 (6.41) 28.0 (6.89) | -12.4 (1.36) -13.2 (1.25) -14.4 (1.31) -8.4 (1.39) | -4.0 (-7.7, -0.4) -4.8 (-8.4,-1.3) -6.0 (-9.6,-2.3) -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
-| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| * Doses statistically significantly superior to placebo. |  |  |  |  |
+
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline.
+
+* Doses statistically significantly superior to placebo.
 
 ## 14.5 Tourette’s Disorder
 
@@ -281,6 +278,7 @@ Table 31: Agitation Associated with Schizophrenia or Bipolar Mania Studies
 | Study 2 | Aripiprazole (9.75 mg) * Placebo | 18.82 (2.67) 18.74 (2.71) | -7.27 (0.59) -4.78 (0.69) | -2.48 (-3.77, -1.19) -- |
 | Agitation Associated with Bipolar Mania |  |  |  |  |
 | Study 3 | Aripiprazole (9.75 mg) * Aripiprazole (15 mg) * Placebo | 18.77 (2.45) 18.29 (2.49) 17.95 (2.63) | -8.74 (0.57) -8.67 (0.57) -5.76 (0.58) | -2.99 (-4.53, -1.44) -2.91 (-4.44, -1.38) -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
-| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
-| * Doses statistically significantly superior to placebo. |  |  |  |  |
+
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline.
+
+* Doses statistically significantly superior to placebo.

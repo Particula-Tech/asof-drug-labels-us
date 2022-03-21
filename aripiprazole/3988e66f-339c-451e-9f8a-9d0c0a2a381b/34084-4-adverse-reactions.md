@@ -107,7 +107,8 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Pharyngolaryngeal Pain | 3 | 2 |
 | Cough | 3 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+
+a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
 
 An examination of population subgroups did not reveal any clear evidence of differential adverse reaction incidence on the basis of age, gender, or race.
 
@@ -152,7 +153,8 @@ Table 18: Adverse Reactions in Short-Term, Placebo-Controlled Trial of Adjunctiv
 | Insomnia | 8 | 4 |
 | Anxiety | 4 | 1 |
 | Restlessness | 2 | 1 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |
+
+a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -294,7 +296,8 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Epistaxis | 2 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
-| a Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+
+a Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
 
 Adult Patients Receiving Aripiprazole as Adjunctive Treatment of Major Depressive Disorder
 
@@ -326,7 +329,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Fatigue | 8 | 4 |
 | Feeling Jittery | 3 | 1 |
 | Infections and Infestations |  |  |
-| Upper Respiratory Tract Infection | 6 | 4 |
+| � Upper Respiratory Tract Infection | 6 | 4 |
 | Investigations |  |  |
 | Weight Increased | 3 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
@@ -345,8 +348,8 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Psychiatric Disorders |  |  |
 | Restlessness | 2 | 1 |
 | Insomnia | 8 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
-| * Antidepressant Therapy |  |  |
+
+a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Antidepressant Therapy
 
 Dose-Related Adverse Reactions
 
