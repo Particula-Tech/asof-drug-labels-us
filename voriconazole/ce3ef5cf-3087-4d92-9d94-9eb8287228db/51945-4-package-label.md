@@ -31,13 +31,13 @@ Tablets
 NDC 0049-3190-28
 
 Vfend® I.V.
-(voriconazole) for injection
+(voriconazole) for injection 200 mg* 200 mg* of voriconazole
 
-200 mg* 200 mg* of voriconazole
+Not made with natural rubber latex No Preservatives
 
-Not made with natural rubber latex No Preservatives Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
+Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
 
@@ -56,19 +56,15 @@ Sterile Single-Dose Vial – Discard Unused Portion
 
 For Intravenous Infusion Only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
-Pfizer
+Pfizer NDC 0049-3160-44
 
-NDC 0049-3160-44
-
-Vfend® (voriconazole)
+Vfend® (voriconazole) for oral suspension
 
 40 mg/mL*
-
-for oral suspension
 
 ORANGE FLAVORED
 
@@ -78,15 +74,9 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
 
-Pfizer
+Pfizer NDC 0049-3160-44
 
-NDC 0049-3160-44
-
-Vfend® (voriconazole)
-
-40 mg/mL*
-
-for oral suspension
+Vfend® (voriconazole) for oral suspension 40 mg/mL*
 
 ORANGE FLAVORED
 
