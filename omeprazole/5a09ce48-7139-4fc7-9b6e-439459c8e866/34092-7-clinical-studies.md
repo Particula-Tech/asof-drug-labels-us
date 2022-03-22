@@ -133,11 +133,11 @@ Table 11 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Pa
 
 In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg once daily, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
 
-| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Omeprazole20 mg once daily(n=202) | Omeprazole40 mg once daily(n=214) | Placebo(n=104) |  |
-| Week 4 | 47.5* | 55.6* | 30.8 |  |
-| Week 8 | 74.8* | 82.7*† | 48.1 |  |
+| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |
+| --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=202) | Omeprazole40 mg once daily(n=214) | Placebo(n=104) |
+| Week 4 | 47.5* | 55.6* | 30.8 |
+| Week 8 | 74.8* | 82.7*† | 48.1 |
 
 *(p <0.01) omeprazole 40 mg or 20 mg versus placebo.
 
@@ -148,11 +148,11 @@ For patients with ulcer size greater than 1 cm, 40 mg was significantly more eff
 
 In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once daily, 20 mg once daily, and ranitidine 150 mg twice a day were evaluated.
 
-| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Omeprazole20 mg once daily(n=200) | Omeprazole40 mg once daily(n=187) | Ranitidine 150 mg twice daily(n=199) |  |
-| Week 4 | 63.5 | 78.1*† | 56.3 |  |
-| Week 8 | 81.5 | 91.4*† | 78.4 |  |
+| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |
+| --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=200) | Omeprazole40 mg once daily(n=187) | Ranitidine 150 mg twice daily(n=199) |
+| Week 4 | 63.5 | 78.1*† | 56.3 |
+| Week 8 | 81.5 | 91.4*† | 78.4 |
 
 *(p <0.01) omeprazole 40 mg versus ranitidine.
 

@@ -38,7 +38,7 @@ In comparison with histamine H2-receptor antagonists, the median increases produ
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 Enterochromaffin-like (ECL) Cell Effects
 
@@ -227,7 +227,7 @@ The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1
 Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when co-administered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.6), Drug Interactions (7)].
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Mycophenolate Mofetil
 
