@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
@@ -6,26 +6,41 @@ The following serious adverse reactions are described below and elsewhere in the
 - Dizziness and Ataxia [see Warnings and Precautions (5.2)]
 - Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.3)]
 - Syncope [see Warnings and Precautions (5.4)]
-- Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the premarketing development of adjunctive therapy for partial-onset seizures, 1327 patients received lacosamide in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months.
+Lacosamide Tablet and Oral Solution in Adults
 
-Lacosamide
+In the premarketing development of adjunctive therapy for partial-onset seizures, 1327 adult patients received lacosamide tablets in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months.
+The monotherapy development program for partial-onset seizures included 425 adult patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
+
+Partial-Onset Seizures
+
+Monotherapy Historical-Control Trial (Study 1)
+
+In the monotherapy trial for partial-onset seizures, 16% of patients randomized to receive lacosamide at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction.
+The adverse reaction most commonly (≥1% on lacosamide) leading to discontinuation was dizziness.
+
+Adverse reactions that occurred in this study were generally similar to those that occurred in adjunctive placebo-controlled studies.
+One adverse reaction, insomnia, occurred at a rate of ≥2% and was not reported at a similar rate in previous studies.
+This adverse reaction has also been observed in postmarketing experience [see Adverse Reactions (6.2)].
+Because this study did not include a placebo control group, causality could not be established.
+
+Dizziness, headache, nausea, somnolence, and fatigue all occurred at lower incidences during the AED Withdrawal Phase and Monotherapy Phase, compared with the Titration Phase [see Clinical Studies (14.1)].
 
 Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)
 
-In adjunctive therapy controlled clinical trials, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive lacosamide tablets at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day, and 5% in patients randomized to receive placebo.
-The adverse reactions most commonly (>1% on lacosamide tablets and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
+In adjunctive therapy controlled clinical trials for partial-onset seizures, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive lacosamide at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day (1.5 times greater than the maximum recommended dose), and 5% in patients randomized to receive placebo.
+The adverse reactions most commonly (>1% on lacosamide and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
 
-Table 2 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the lacosamide total group and for which the incidence was greater than placebo.
+Table 3 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the lacosamide total group and for which the incidence was greater than placebo.
 
-Table 2: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
+Table 3: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
 
-| System Organ Class/ Preferred Term | Placebo N=364 % | Lacosamide 200 mg/day N=270 % | Lacosamide 400 mg/day N=471 % | Lacosamide 600 mg/day N=203 % | Lacosamide Total N=944 % |
+| Adverse Reaction | Placebo N=364 % | Lacosamide 200 mg/day N=270 % | Lacosamide 400 mg/day N=471 % | Lacosamide 600 mg/day600 mg dose is 1.5 times greater than the maximum recommended dose. N=203 % | Lacosamide Total N=944 % |
 | --- | --- | --- | --- | --- | --- |
 | Ear and labyrinth disorder |  |  |  |  |  |
 | Vertigo | 1 | 5 | 3 | 4 | 4 |
@@ -58,21 +73,27 @@ Table 2: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Contr
 | Pruritus | 1 | 3 | 2 | 3 | 2 |
 
 The overall adverse reaction rate was similar in male and female patients.
-Although there were few non-Caucasian patients, no differences in the incidences of adverse events compared to Caucasian patients were observed.
+Although there were few non-Caucasian patients, no differences in the incidences of adverse reactions compared to Caucasian patients were observed.
+
+Lacosamide Tablet and Oral Solution in Pediatric Patients
+
+Safety of lacosamide was evaluated in clinical studies of pediatric patients 4 to less than 17 years of age for the treatment of partial-onset seizures.
+Across studies in pediatric patients with partial-onset seizures, 328 patients 4 to less than 17 years of age received lacosamide oral solution or tablet, of whom 148 received lacosamide for at least 1 year.
+Adverse reactions reported in clinical studies of pediatric patients 4 to less than 17 years of age were similar to those seen in adult patients.
 
 Laboratory Abnormalities
 
-Abnormalities in liver function tests have occurred in controlled trials with lacosamide tablets in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
-Elevations of ALT to ≥3× ULN occurred in 0.7% (7/935) of lacosamide patients and 0% (0/356) of placebo patients.
-One case of hepatitis with transaminases >20× ULN occurred in one healthy subject 10 days after lacosamide treatment completion, along with nephritis (proteinuria and urine casts).
+Abnormalities in liver function tests have occurred in controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
+Elevations of ALT to ≥3 × ULN occurred in 0.7% (7/935) of lacosamide patients and 0% (0/356) of placebo patients.
+One case of hepatitis with transaminases >20 × ULN occurred in one healthy subject 10 days after lacosamide treatment completion, along with nephritis (proteinuria and urine casts).
 Serologic studies were negative for viral hepatitis.
 Transaminases returned to normal within one month without specific treatment.
 At the time of this event, bilirubin was normal.
-The hepatitis/nephritis was interpreted as a delayed hypersensitivity reaction to lacosamide.
+The hepatitis/nephritis was interpreted as a delayed hypersensitivity reaction to lacosamide tablets.
 
 Other Adverse Reactions
 
-The following is a list of adverse reactions reported by patients treated with lacosamide in all clinical trials in patients with partial-onset seizures, including controlled trials and long-term open-label extension trials.
+The following is a list of adverse reactions reported by patients treated with lacosamide in all clinical trials in adult patients, including controlled trials and long-term open-label extension trials.
 Adverse reactions addressed in other tables or sections are not listed here.
 
 Blood and lymphatic system disorders: neutropenia, anemia
@@ -93,6 +114,9 @@ Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysart
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
 
+Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ® (lacosamide) tablets.
+However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of lacosamide.
@@ -103,3 +127,5 @@ Blood and lymphatic system disorders: Agranulocytosis
 Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
 
 Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
+
+Neurologic disorders: Dyskinesia, new or worsening seizures

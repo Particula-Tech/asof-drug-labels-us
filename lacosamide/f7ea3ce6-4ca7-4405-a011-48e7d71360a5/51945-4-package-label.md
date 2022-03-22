@@ -4,15 +4,15 @@ NDC 51991-348-06
 
 CV
 
-Lacosamide Tablets
+Lacosamide Tablets, USP
 
 50 mg
 
-60 Tablets Rx Only
-
 PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
 
-Breckenridge Pharmaceutical, Inc.
+Rx Only 60 Tablets
+
+breckenridge A Towa Company
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -20,15 +20,15 @@ NDC 51991-349-06
 
 CV
 
-Lacosamide Tablets
+Lacosamide Tablets, USP
 
 100 mg
 
-60 Tablets Rx Only
-
 PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
 
-Breckenridge Pharmaceutical, Inc.
+Rx Only 60 Tablets
+
+breckenridge A Towa Company
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
@@ -36,15 +36,15 @@ NDC 51991-350-06
 
 CV
 
-Lacosamide Tablets
+Lacosamide Tablets, USP
 
 150 mg
 
-60 Tablets Rx Only
-
 PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
 
-Breckenridge Pharmaceutical, Inc.
+Rx Only 60 Tablets
+
+breckenridge A Towa Company
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
@@ -52,12 +52,12 @@ NDC 51991-351-06
 
 CV
 
-Lacosamide Tablets
+Lacosamide Tablets, USP
 
 200 mg
 
-60 Tablets Rx Only
-
 PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
 
-Breckenridge Pharmaceutical, Inc.
+Rx Only 60 Tablets
+
+breckenridge A Towa Company

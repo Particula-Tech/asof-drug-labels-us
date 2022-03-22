@@ -1,11 +1,11 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including lacosamide, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including lacosamide tablets, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
@@ -16,11 +16,11 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 
-Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -33,61 +33,61 @@ Anyone considering prescribing lacosamide tablets or any other AED must balance 
 Epilepsy and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## 5.2 Dizziness and Ataxia
 
-Lacosamide may cause dizziness and ataxia.
-
-In patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
+Lacosamide may cause dizziness and ataxia in adult and pediatric patients.
+In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
 There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
-PR interval prolongation
+PR Interval Prolongation, Atrioventricular Block, and Ventricular Tachyarrhythmia
 
-Dose-dependent prolongations in PR interval with lacosamide tablets have been observed in clinical studies in patients and in healthy volunteers [see Clinical Pharmacology (12.2)].
-In adjunctive clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive lacosamide and 0% (0/364) of patients randomized to receive placebo.
-In clinical trials in patients with diabetic neuropathy, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving lacosamide tablets and 0% (0/291) of patients receiving placebo.
-Second degree and complete AV block have been reported in patients in pain studies and in patients with seizures.
+Dose-dependent prolongations in PR interval with lacosamide tablets have been observed in clinical studies in adult patients and in healthy volunteers [see Clinical Pharmacology (12.2)].
+In adjunctive clinical trials in adult patients with partial-onset seizures, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive lacosamide and 0% (0/364) of patients randomized to receive placebo.
+One case of profound bradycardia was observed in a patient during a 15-minute infusion of 150 mg lacosamide.
 When lacosamide is given with other drugs that prolong the PR interval, further PR prolongation is possible.
 
-Lacosamide tablets should be used with caution in patients with known conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.
-In such patients, obtaining an ECG before beginning lacosamide tablets, and after lacosamide tablets is titrated to steady-state maintenance dose, is recommended.
+In the postmarketing setting, there have been reports of cardiac arrhythmias in patients treated with lacosamide, including bradycardia, AV block, and ventricular tachyarrhythmia, which have rarely resulted in asystole, cardiac arrest, and death.
+Most, although not all, cases have occurred in patients with underlying proarrhythmic conditions, or in those taking concomitant medications that affect cardiac conduction or prolong the PR interval.
+These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [see Overdosage (10)].
 
-Atrial fibrillation and Atrial flutter
+Lacosamide tablets should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).
+Lacosamide should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].
+In such patients, obtaining an ECG before beginning lacosamide, and after lacosamide is titrated to steady-state maintenance dose, is recommended.
 
-In the short-term investigational trials of lacosamide tablets in epilepsy patients, there were no cases of atrial fibrillation or flutter.
-Both atrial fibrillation and atrial flutter have been reported in open label epilepsy trials and in postmarketing experience.
-In patients with diabetic neuropathy, 0.5% of patients treated with lacosamide tablets experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
+In addition, these patients should be closely monitored if they are administered lacosamide through the intravenous route [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
+
+Atrial Fibrillation and Atrial Flutter
+
+In the short-term investigational trials of lacosamide tablets in adult patients with partial-onset seizures there were no cases of atrial fibrillation or flutter.
+Both atrial fibrillation and atrial flutter have been reported in open label partial-onset seizure trials and in postmarketing experience.
+In adult patients with diabetic neuropathy, for which lacosamide is not indicated, 0.5% of patients treated with lacosamide experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
 Lacosamide tablets administration may predispose to atrial arrhythmias (atrial fibrillation or flutter), especially in patients with diabetic neuropathy and/or cardiovascular disease.
 
 ## 5.4 Syncope
 
-In the short-term controlled trials of lacosamide in epilepsy patients with no significant system illnesses, there was no increase in syncope compared to placebo.
-In the short-term controlled trials of lacosamide in patients with diabetic neuropathy, 1.2% of patients who were treated with lacosamide reported an adverse reaction of syncope or loss of consciousness, compared to 0% of placebo-treated patients with diabetic neuropathy.
+In the short-term controlled trials of lacosamide in adult patients with partial-onset seizures with no significant system illnesses, there was no increase in syncope compared to placebo.
+In the short-term controlled trials in adult patients with diabetic neuropathy, for which lacosamide is not indicated, 1.2% of patients who were treated with lacosamide reported an adverse reaction of syncope or loss of consciousness, compared with 0% of placebo-treated patients with diabetic neuropathy.
 Most of the cases of syncope were observed in patients receiving doses above 400 mg/day.
 The cause of syncope was not determined in most cases.
 However, several were associated with either changes in orthostatic blood pressure, atrial flutter/fibrillation (and associated tachycardia), or bradycardia.
-Cases of syncope have also been observed in open-label clinical epilepsy studies.
+Cases of syncope have also been observed in open-label clinical partial-onset seizure studies in adult and pediatric patients.
 These cases were associated with a history of risk factors for cardiac disease and the use of drugs that slow AV conduction.
 
 ## 5.5 Withdrawal of Antiepileptic Drugs (AEDs)
 
 As with all AEDs, lacosamide tablets should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizure frequency in patients with seizure disorders.
 
-## 5.6 Multiorgan Hypersensitivity Reactions
+## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
-One case of symptomatic hepatitis and nephritis was observed among 4011 subjects exposed to lacosamide during clinical development.
-The event occurred in a healthy volunteer, 10 days after stopping lacosamide tablets treatment.
-The subject was not taking any concomitant medication and potential known viral etiologies for hepatitis were ruled out.
-The subject fully recovered within a month, without specific treatment.
-The case is consistent with a delayed multiorgan hypersensitivity reaction.
-Additional potential cases included 2 with rash and elevated liver enzymes and 1 with myocarditis and hepatitis of uncertain etiology.
-
-Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, or DRESS) have been reported with other antiepileptics and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis.
-Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
-If this reaction is suspected, lacosamide tablets should be discontinued and alternative treatment started.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has been reported in patients taking antiepileptic drugs, including lacosamide.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Lacosamide tablets should be discontinued if an alternative etiology for the signs or symptoms cannot be established.

@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 The chemical name of lacosamide, the single (R)-enantiomer, is (R)-2-acetamido-N-benzyl-3-methoxypropionamide (IUPAC).
 Lacosamide is a functionalized amino acid.
@@ -10,14 +10,14 @@ It is sparingly soluble in water and slightly soluble in acetonitrile and ethano
 
 ## 11.1 Lacosamide Tablets
 
-Lacosamide tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, lecithin, low-substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and dye pigments as specified below:
+Lacosamide Tablets, USP for oral administration contain lacosamide and the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, lecithin, low-substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide and dye pigments as specified below:
 
-Lacosamide tablets are supplied as debossed tablets and contain the following coloring agents:
+Lacosamide Tablets, USP are supplied as debossed tablets and contain the following coloring agents:
 
-50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2/indigo carmine aluminum lake
+50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2 / indigo carmine aluminum lake
 
 100 mg tablets: yellow iron oxide
 
 150 mg tablets: yellow iron oxide, red iron oxide, black iron oxide
 
-200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
+200 mg tablets: FD&C Blue #2 / indigo carmine aluminum lake

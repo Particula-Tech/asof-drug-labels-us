@@ -1,5 +1,5 @@
-Manufactured by: Natco Pharma Limited Kothur-509228, India
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
-Distributed by: Breckenridge Pharmaceutical, Inc. Boca Raton, FL 33487
+Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037, USA
 
-Revised: 04/2016
+Trademarks are the property of their respective owners.
