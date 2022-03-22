@@ -54,9 +54,7 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | There have been clinical reports of interactions with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram). |
 | Intervention: | Monitor patients to determine if it is necessary to adjust the dosage of these other drugs when taken concomitantly with ZEGERID. |
 
-Table 7: Clinically Relevant Interactions Affecting Omeprazole When Co-Administered
-
-with Other Drugs
+Table 7: Clinically Relevant Interactions Affecting Omeprazole When Co-Administered with Other Drugs
 
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |

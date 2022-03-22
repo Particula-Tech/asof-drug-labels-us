@@ -58,7 +58,7 @@ Clinical Trial of 40 mg ZEGERID for Oral Suspension
 
 Adverse reactions reported in at least 3% of critically ill adult patients in a clinical trial of 40 mg ZEGERID for oral suspension compared to intravenous cimetidine for up to 14 days are presented in Table 5.
 
-Table 5: Common Adverse Reactions1 by Body System and Preferred Term in a Randomized Controlled Trial of Critically Ill Adult Patients Treated up to 14 Days
+Table 5: Common Adverse Reactionsreported in at least 3% of patients in either treatment group. by Body System and Preferred Term in a Randomized Controlled Trial of Critically Ill Adult Patients Treated up to 14 Days
 
 | Body System Preferred Term | ZEGERID40 mg for oral suspension once daily% (N=178) | Intravenous Cimetidine1,200 mg per day% (N=181) |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Table 5: Common Adverse Reactions1 by Body System and Preferred Term in a Random
 | Supraventricular Tachycardia | 3.4 | 1.1 |
 | Tachycardia NOS | 3.4 | 3.3 |
 | Ventricular Tachycardia | 4.5 | 3.3 |
-| Gastrointestinal Disorders2 |  |  |
+| Gastrointestinal DisordersIn this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table. |  |  |
 | Constipation | 4.5 | 4.4 |
 | Diarrhea NOS | 3.9 | 8.3 |
 | Gastric Hypomotility | 1.7 | 3.3 |
@@ -111,12 +111,7 @@ Table 5: Common Adverse Reactions1 by Body System and Preferred Term in a Random
 | Vascular Disorders |  |  |
 | Hypertension NOS | 7.9 | 3.3 |
 | Hypotension NOS | 9.6 | 6.6 |
-
-NOS = not otherwise specified
-
-1reported in at least 3% of patients in either treatment group.
-
-2 In this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table.
+| NOS = not otherwise specified |  |  |
 
 ## 6.2 Postmarketing Experience
 

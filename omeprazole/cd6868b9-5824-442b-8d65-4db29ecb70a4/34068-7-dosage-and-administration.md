@@ -7,8 +7,8 @@
 - •The sodium content of ZEGERID capsules and ZEGERID for oral suspension should be taken into consideration when prescribing this product [see Warnings and Precautions (5.3)]:
   - oZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
     The total content of sodium in each capsule is 304 mg.
-- oZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
-  The total content of sodium in each packet is 460 mg.
+  - oZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
+    The total content of sodium in each packet is 460 mg.
 - •Due to the sodium bicarbonate content of ZEGERID:
 - •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
 - •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
@@ -23,18 +23,11 @@ Table 1: Recommended Dosage Regimen of ZEGERID for Oral Suspension and ZEGERID C
 
 | Indication | Dosage of ZEGERID for oral suspension or ZEGERID capsules | Treatment Duration |
 | --- | --- | --- |
-| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeks1,2 |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy [see Clinical Studies (14.1)].The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of ZEGERID may be considered. |
 | Treatment of Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
 | Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
 | Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks |
 | Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily | Controlled studies do not extend beyond 12 months. |
-
-1 Most patients heal within 4 weeks.
-Some patients may require an additional 4 weeks of therapy [see Clinical Studies (14.1)].
-
-2 The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established.
-If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of ZEGERID may be considered.
 
 Table 2: Recommended Dosage Regimen of 40 mg ZEGERID for Oral Suspension in Adults by Indication
 

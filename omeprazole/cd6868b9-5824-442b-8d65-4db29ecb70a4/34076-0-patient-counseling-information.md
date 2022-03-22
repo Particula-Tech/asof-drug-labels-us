@@ -28,7 +28,7 @@ Advise the patient to report any fractures, especially of the hip, wrist or spin
 
 Severe Cutaneous Adverse Reactions
 
-Advise the patient to discontinue ZEGERID and immediately call their healthcare provider atfirst appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.6)].
+Advise the patient to discontinue ZEGERID and immediately call their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.6)].
 
 Cutaneous and Systemic Lupus Erythematosus
 
