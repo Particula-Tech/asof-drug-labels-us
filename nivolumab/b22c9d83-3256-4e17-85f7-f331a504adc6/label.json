@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761234"
+  ],
+  "inn": "nivolumab",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-7125-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nivolumab and relatlimab-rmbw",
+      "name": "OPDUALAG"
+    }
+  ],
+  "setid": "b22c9d83-3256-4e17-85f7-f331a504adc6",
+  "source": "dailymed"
+}
