@@ -2,9 +2,9 @@
 
 20 mL For Single Patient Use Only
 
-PROPOFOL Injectable Emulsion 200 mg/20 mL (10 mg/mL)
+PROPOFOL Injectable Emulsion, USP 200 mg/20 mL (10 mg/mL)
 
-CONTAINS BENZYL ALCOHOL
+CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
 
 SHAKE WELL BEFORE USING.
 
@@ -12,11 +12,13 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Carton
 
-5 Units X 20 mL For Single Patient Use Only
+5 x 20 mL Vials For Single Patient Use Only
 
-PROPOFOL Injectable Emulsion 200 mg/20 mL (10 mg/mL)
+PROPOFOL Injectable Emulsion, USP 200 mg/20 mL (10 mg/mL)
 
-CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
+CONTAINS BENZYL ALCOHOL
+
+FOR INTRAVENOUS ADMINISTRATION
 
 Hospira
 
@@ -34,7 +36,7 @@ LIFT HERE
 
 50 mL For Single Patient Use Only
 
-PROPOFOL Injectable Emulsion 500 mg/50 mL (10 mg/mL)
+PROPOFOL Injectable Emulsion, USP 500 mg/50 mL (10 mg/mL)
 
 CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
 
@@ -44,17 +46,15 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Vial Tray
 
-20 Units X 50 mL For Single Patient Use Only
+20 x 50 mL Vials For Single Patient Use Only
 
-PROPOFOL Injectable Emulsion 500 mg/50 mL (10 mg/mL)
+PROPOFOL Injectable Emulsion, USP 500 mg/50 mL (10 mg/mL)
 
 CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
 
 Hospira
 
-Rx only
-
-NDC 0409-4699-33 Contains 20 of NDC 0409-4699-53
+Rx only NDC 0409-4699-33 Contains 20 of NDC 0409-4699-53
 
 - CONTAINS BENZYL ALCOHOL, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening
 - Use strict aseptic technique
