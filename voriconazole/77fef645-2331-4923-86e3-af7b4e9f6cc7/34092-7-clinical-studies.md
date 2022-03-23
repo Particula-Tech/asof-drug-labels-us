@@ -101,7 +101,7 @@ Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-U
 | C. tropicalis | 17/53 (32%) | 1/16 (6%) |
 | C. parapsilosis | 24/45 (53%) | 10/19 (53%) |
 | C. glabrata | 12/36 (33%) | 7/21 (33%) |
-| C. krusei | ¼ | 0/1 |
+| C. krusei | 1/4 | 0/1 |
 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 

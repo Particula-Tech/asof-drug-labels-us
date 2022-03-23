@@ -20,12 +20,12 @@ Data
 
 Animal Data
 
-Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day..Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
-Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternbrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
+Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day..Voriconazole was associated with increased incidences of the malformations hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on body surface area comparisons, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on body surface area comparisons.
+Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternebrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
 
 Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7–19) at 10, 40, and 100 mg/kg/day.
-Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
+Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on body surface area comparisons).
 Fetal skeletal variations (increases in the incidence of cervical rib and extra sternebral ossification sites) were observed at 100 mg/kg/day.
 
 In a peri- and postnatal toxicity study in rats, voriconazole was administered orally to female rats from implantation through the end of lactation at 1, 3, and 10 mg/kg/day.

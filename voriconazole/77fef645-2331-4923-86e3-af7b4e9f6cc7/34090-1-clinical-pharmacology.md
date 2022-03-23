@@ -58,7 +58,7 @@ In healthy subjects, the absorption of voriconazole is not affected by coadminis
 Distribution
 
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
-Plasma protein binding is estimated to be 58% and was shown to be independent of plasma concentrations achieved following single and multiple oral doses of 200 mg or 300 mg (approximate range: 0.9–15 µg/mL).
+Plasma protein binding is estimated to be 58% and was shown to be independent of plasma concentrations achieved following single and multiple oral doses of 200 mg or 300 mg (approximate range: 0.9 –15 µg/mL).
 Varying degrees of hepatic and renal impairment do not affect the protein binding of voriconazole.
 
 Elimination
