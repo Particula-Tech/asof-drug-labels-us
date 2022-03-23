@@ -41,9 +41,9 @@ How should I store voriconazole oral suspension?
   Throw away (discard) any unused voriconazole after the expiration date.
 - Keep voriconazole and all medicines out of the reach of children.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.greenstonellc.com.
 
-LAB-1397-3.0 Revised: 10/2021
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+LAB-1397-4.0 Revised: 1/2022

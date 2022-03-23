@@ -10,6 +10,8 @@ ORANGE FLAVORED 40 mg/mL*
 
 Rx only
 
+8716723
+
 LOT: EXP:
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
