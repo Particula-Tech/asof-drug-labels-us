@@ -3,7 +3,7 @@
 - VFEND is contraindicated in patients with known hypersensitivity to voriconazole or its excipients.
   There is no information regarding cross-sensitivity between VFEND (voriconazole) and other azole antifungal agents.
   Caution should be used when prescribing VFEND to patients with hypersensitivity to other azoles.
-- Coadministration of cisapride, pimozide, quinidine or ivabradine with VFEND is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes [see Drug Interactions (7)].
+- Coadministration of pimozide, quinidine or ivabradine with VFEND is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes [see Drug Interactions (7)].
 - Coadministration of VFEND with sirolimus is contraindicated because VFEND significantly increases sirolimus concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - Coadministration of VFEND with rifampin, carbamazepine, long-acting barbiturates, and St John's Wort is contraindicated because these drugs are likely to decrease plasma voriconazole concentrations significantly [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg every 24 hours or higher is contraindicated, because efavirenz significantly decreases plasma voriconazole concentrations in healthy subjects at these doses.
