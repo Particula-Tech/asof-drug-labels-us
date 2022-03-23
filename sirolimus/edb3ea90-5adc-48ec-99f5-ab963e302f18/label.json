@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213478"
+  ],
+  "inn": "sirolimus",
+  "labeler": "NOBELPHARMA AMERICA, LLC",
+  "package_ndcs": [
+    "73683-101-10"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "sirolimus",
+      "name": "HYFTOR"
+    }
+  ],
+  "setid": "edb3ea90-5adc-48ec-99f5-ab963e302f18",
+  "source": "dailymed"
+}
