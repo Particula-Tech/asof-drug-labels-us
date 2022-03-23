@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022500"
+  ],
+  "inn": "clonidine",
+  "labeler": "Athena Bioscience, LLC",
+  "package_ndcs": [
+    "71511-503-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "Nexiclon XR"
+    }
+  ],
+  "setid": "dad35a6f-d57e-f302-e053-2995a90a9efb",
+  "source": "dailymed"
+}
