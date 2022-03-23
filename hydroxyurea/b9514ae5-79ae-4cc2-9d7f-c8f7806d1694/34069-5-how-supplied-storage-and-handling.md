@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Hydroxyurea Capsules USP 500 mg are available as a two-piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder, imprinted in black ink stylized barr 882 and packaged in bottles of 100 capsules (NDC 0555-0882-02).
+Hydroxyurea capsules USP 500 mg are available as a two-piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder, imprinted in black ink stylized barr 882 and packaged in bottles of 100 capsules (NDC 0555-0882-02).
 
 ## 16.2 Storage
 
@@ -18,12 +18,12 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 ## 16.3 Handling and Disposal
 
-Hydroxyurea Capsules USP are a cytotoxic drug.
+Hydroxyurea capsules USP are a cytotoxic drug.
 Follow applicable special handling and disposal procedures [see References (15)].
 
-To decrease the risk of contact, advise caregivers to wear disposable gloves when handling Hydroxyurea Capsules USP or bottles containing Hydroxyurea Capsules USP.
-Wash hands with soap and water before and after contact with the bottle or capsules when handling Hydroxyurea Capsules USP.
-Do not open Hydroxyurea Capsules USP.
+To decrease the risk of contact, advise caregivers to wear disposable gloves when handling hydroxyurea capsules USP or bottles containing hydroxyurea capsules USP.
+Wash hands with soap and water before and after contact with the bottle or capsules when handling hydroxyurea capsules USP.
+Do not open hydroxyurea capsules USP.
 Avoid exposure to crushed or opened capsules.
 If contact with crushed or opened capsules occurs on the skin, wash affected area immediately and thoroughly with soap and water.
 If contact with crushed or opened capsules occurs on the eye(s), the affected area should be flushed thoroughly with water or isotonic eyewash designated for that purpose for at least 15 minutes.
