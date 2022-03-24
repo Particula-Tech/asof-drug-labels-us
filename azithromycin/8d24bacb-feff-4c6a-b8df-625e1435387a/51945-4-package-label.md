@@ -1,16 +1,14 @@
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
 
-NDC 0069-0400-01
+Single-Dose Vial NDC 0069-0400-01
 
 Zithromax® (azithromycin) for injection
 
-500 mg
+500 mg/vial
 
 For I.V. infusion only
 
-STERILE
-
-equivalent to 500 mg of azithromycin
+STERILE equivalent to 500 mg of azithromycin
 
 No Latex No Preservative
 
@@ -20,7 +18,7 @@ INTALERE CHOICESM
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
-10 Vials
+10 Single-Dose Vials
 
 NDC 0069-0400-10 Contains 10 of NDC 0069-0400-01
 
@@ -28,13 +26,9 @@ Zithromax® (azithromycin) for injection
 
 500 mg/vial
 
-Sterile
+Sterile For I.V. infusion only
 
-For I.V. infusion only
-
-Equivalent to 500 mg/vial of azithromycin
-
-To yield 100 mg/mL* of solution when reconstituted as directed
+Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
 
 No Latex No Preservative
 
