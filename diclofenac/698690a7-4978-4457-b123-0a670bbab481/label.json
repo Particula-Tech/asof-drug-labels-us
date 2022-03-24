@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022202"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-275-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "diclofenac potassium",
+      "name": "Diclofenac Potassium"
+    }
+  ],
+  "setid": "698690a7-4978-4457-b123-0a670bbab481",
+  "source": "dailymed"
+}
