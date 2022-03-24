@@ -5,9 +5,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Lactic Acidosis
 
 Inform patients of the risks of lactic acidosis due to metformin, its symptoms, and conditions that predispose to its development.
-Advise patients to discontinue SYNJARDY XR immediately and to notify their doctor promptly if unexplained hyperventilation, malaise, myalgia, unusual somnolence, or other nonspecific symptoms occur.
+Advise patients to discontinue SYNJARDY XR immediately and to notify their healthcare provider promptly if unexplained hyperventilation, malaise, myalgia, unusual somnolence, or other nonspecific symptoms occur.
 Counsel patients against excessive alcohol intake and inform patients about the importance of regular testing of renal function while receiving SYNJARDY XR.
-Instruct patients to inform their doctor that they are taking SYNJARDY XR prior to any surgical or radiological procedure, as temporary discontinuation may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
+Instruct patients to inform their healthcare provider that they are taking SYNJARDY XR prior to any surgical or radiological procedure, as temporary discontinuation may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
 Ketoacidosis
 
@@ -26,7 +26,7 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
 
-Hypoglycemia
+Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Inform patients that the risk of hypoglycemia is increased when SYNJARDY XR is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
 
@@ -49,7 +49,7 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with empagliflozin, a component of SYNJARDY XR.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing physician [see Warnings and Precautions (5.8)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.8)].
 
 Vitamin B12 Deficiency
 
@@ -62,7 +62,7 @@ Inform patients that elevated glucose in urinalysis is expected when taking SYNJ
 Pregnancy
 
 Advise pregnant patients, and patients of reproductive potential, of the potential risk to a fetus with treatment with SYNJARDY XR [see Use in Specific Populations (8.1)].
-Instruct patients to report pregnancies to their physicians as soon as possible.
+Instruct patients to report pregnancies to their healthcare provider as soon as possible.
 
 Lactation
 
