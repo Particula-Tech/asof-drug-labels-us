@@ -6,7 +6,7 @@ Pancreatitis
 
 Inform patients that acute pancreatitis has been reported during use of linagliptin.
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Instruct patients to discontinue GLYXAMBI promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.1)].
+Instruct patients to discontinue GLYXAMBI promptly and contact their healthcare provider if persistent severe abdominal pain occurs [see Warnings and Precautions (5.1)].
 
 Ketoacidosis
 
@@ -25,9 +25,9 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
 
-Hypoglycemia
+Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Inform patients that the incidence of hypoglycemia is increased when GLYXAMBI is used in combination with an sulfonylurea or insulin, and that a lower dose of the sulfonylurea or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
+Inform patients that the incidence of hypoglycemia is increased when GLYXAMBI is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
@@ -74,7 +74,7 @@ Inform patients that elevated glucose in urinalysis is expected when taking GLYX
 Pregnancy
 
 Advise pregnant patients, and patients of reproductive potential, of the potential risk to a fetus with treatment with GLYXAMBI [see Use in Specific Populations (8.1)].
-Instruct patients to report pregnancies to their physicians as soon as possible.
+Instruct patients to report pregnancies to their healthcare provider as soon as possible.
 
 Lactation
 

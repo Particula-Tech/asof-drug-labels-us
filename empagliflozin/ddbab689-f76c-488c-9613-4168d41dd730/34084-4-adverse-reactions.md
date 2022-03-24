@@ -98,14 +98,16 @@ The clinical significance of elevations in lipase and amylase with linagliptin i
 Additional adverse reactions have been identified during postapproval use of linagliptin and empagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Acute Pancreatitis, including Fatal Pancreatitis [see Indications and Usage (1)]
-- Ketoacidosis
-- Urosepsis and Pyelonephritis
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene)
-- Hypersensitivity Reactions including Anaphylaxis, Angioedema, and Exfoliative Skin Conditions
-- Severe and Disabling Arthralgia
-- Bullous Pemphigoid
-- Acute Kidney Injury
-- Skin Reactions (e.g., rash, urticaria)
-- Mouth Ulceration, Stomatitis
-- Rhabdomyolysis
+Gastrointestinal Disorders: Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1)], constipation, mouth ulceration, stomatitis
+
+Immune System Disorders: Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions
+
+Infections: Necrotizing fasciitis of the perineum (Fournier's gangrene), urosepsis and pyelonephritis
+
+Metabolism and Nutrition Disorders: Ketoacidosis
+
+Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis, severe and disabling arthralgia
+
+Renal and Urinary Disorders: Acute kidney injury
+
+Skin and Subcutaneous Tissue Disorders: Bullous pemphigoid, skin reactions (e.g., rash, urticaria)

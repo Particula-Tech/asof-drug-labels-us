@@ -84,7 +84,7 @@ Table 7 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
 | Non-fatal strokec | 60 (2.6%) | 150 (3.2%) | 1.24 (0.92, 1.67) |
 | Cardiovascular deathc | 137 (5.9%) | 172 (3.7%) | 0.62 (0.49, 0.77) |
 | aTreated set (patients who had received at least one dose of study drug) |  |  |  |
-| bp–value for superiority (2–sided) 0.04 |  |  |  |
+| bp-value for superiority (2-sided) 0.04 |  |  |  |
 | cTotal number of events |  |  |  |
 
 Figure 4 Estimated Cumulative Incidence of First MACE
@@ -96,7 +96,7 @@ The efficacy of empagliflozin on cardiovascular death was generally consistent a
 Vital status was obtained for 99.2% of subjects in the trial.
 A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
-The non-cardiovascular deaths were only a small proportion of deaths, and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
+The non-cardiovascular deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
 
 Linagliptin Cardiovascular Safety Trials
 
