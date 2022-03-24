@@ -6,9 +6,9 @@ NDC 0143-9680-25 Rx only Glycopyrrolate Injection, USP 1 mg/5 mL (0.2 mg/mL) NOT
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9681-01 Glycopyrrolate Injection, USP 0.4 mg/2 mL (0.2 mg/mL) Rx only CONTAINS BENZYL ALCOHOL FOR IM OR IV USE 2 mL Single Dose Vial
+NDC 0143-9681-01 Rx only Glycopyrrolate Injection, USP 0.4 mg/2 mL (0.2 mg/mL) CONTAINS BENZYL ALCOHOL FOR IM OR IV USE 2 mL Single Dose Vial
 
-NDC 0143-9681-25 Glycopyrrolate Injection, USP 0,4 mg/2 mL (0.2 mg/mL) Rx only NOT FOR USE IN NEWBORNS CONTAINS BENZYL ALCOHOL FOR IM OR IV ADMINISTRATION 25 x 2 mL Single Dose Vials
+NDC 0143-9681-25 Rx only Glycopyrrolate Injection, USP 0,4 mg/2 mL (0.2 mg/mL) NOT FOR USE IN NEWBORNS CONTAINS BENZYL ALCOHOL FOR IM OR IV ADMINISTRATION 25 x 2 mL Single Dose Vials
 
 # PRINCIPAL DISPLAY PANEL
 
