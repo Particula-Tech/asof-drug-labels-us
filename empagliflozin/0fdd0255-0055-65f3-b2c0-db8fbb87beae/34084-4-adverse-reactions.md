@@ -161,13 +161,16 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Empagliflozin
 
-- Ketoacidosis
-- Urosepsis and Pyelonephritis
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene)
-- Angioedema
-- Acute Kidney Injury
-- Skin Reactions (e.g., rash, urticaria)
+Gastrointestinal Disorders: Constipation
+
+Infections: Necrotizing fasciitis of the perineum (Fournier's gangrene), urosepsis and pyelonephritis
+
+Metabolism and Nutrition Disorders: Ketoacidosis
+
+Renal and Urinary Disorders: Acute kidney injury
+
+Skin and Subcutaneous Tissue Disorders: Angioedema, skin reactions (e.g., rash, urticaria)
 
 Metformin hydrochloride
 
-- Cholestatic, hepatocellular, and mixed hepatocellular liver injury
+Hepatobiliary Disorders: Cholestatic, hepatocellular, and mixed hepatocellular liver injury
