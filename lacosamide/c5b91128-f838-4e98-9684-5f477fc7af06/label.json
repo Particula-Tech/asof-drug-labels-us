@@ -1,0 +1,39 @@
+{
+  "application_numbers": [
+    "ANDA204787"
+  ],
+  "inn": "lacosamide",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-812-05",
+    "31722-812-18",
+    "31722-812-32",
+    "31722-812-60",
+    "31722-813-05",
+    "31722-813-18",
+    "31722-813-32",
+    "31722-813-60",
+    "31722-814-05",
+    "31722-814-18",
+    "31722-814-32",
+    "31722-814-60",
+    "31722-815-05",
+    "31722-815-18",
+    "31722-815-32",
+    "31722-815-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lacosamide",
+      "name": "LACOSAMIDE"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lacosamide",
+      "name": "LACOSAMIDE"
+    }
+  ],
+  "setid": "c5b91128-f838-4e98-9684-5f477fc7af06",
+  "source": "dailymed"
+}
