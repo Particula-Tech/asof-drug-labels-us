@@ -1,6 +1,8 @@
 # MEDICATION GUIDE
 
-Pantoprazole Sodium Delayed-Release Tablets, USP (pan toe' pra zole soe' dee um)
+Pantoprazole Sodium Delayed-Release Tablets, USP
+
+(pan toe' pra zole soe' dee um)
 
 What is the most important information I should know about pantoprazole sodium delayed-release tablets?
 
@@ -24,6 +26,8 @@ Pantoprazole sodium delayed-release tablets can cause serious side effects, incl
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including pantoprazole sodium delayed-release tablets, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
+- Low magnesium and other mineral levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for at least 3 months.
+  Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 
 Talk to your doctor about your risk of these serious side effects.
 
@@ -61,7 +65,7 @@ Do not take pantoprazole sodium delayed-release tablets if you are:
 
 Before taking pantoprazole sodium delayed-release tablets, tell your doctor about all of your medical conditions, including if you:
 
-- have low magnesium levels in your blood.
+- have low magnesium levels, low calcium levels and low potassium levels in your blood.
 - are pregnant or plan to become pregnant.
   Pantoprazole sodium delayed-release tablets may harm your unborn baby.
   Tell your doctor if you become pregnant or think you may be pregnant during treatment with pantoprazole sodium delayed-release tablets.
@@ -92,10 +96,16 @@ Pantoprazole sodium delayed-release tablets can cause serious side effects, incl
 - See “What is the most important information I should know about pantoprazole sodium delayed-release tablets?”
 - Low vitamin B-12 levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
-- Low magnesium levels in your body can happen in people who have taken pantoprazole sodium delayed-release tablets for at least 3 months.
-  Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+- Severe skin reactions.
+  Pantoprazole sodium delayed-release tablets can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+  - Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+
+Stop taking pantoprazole sodium delayed-release tablets and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
 
 The most common side effects of pantoprazole sodium delayed-release tablets in adults include: headache, diarrhea, nausea, stomach-area (abdominal) pain, vomiting, gas, dizziness, and joint pain.
 
@@ -129,9 +139,5 @@ The tablets are imprinted with brown ink containing ammonium hydroxide, iron oxi
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2021
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2022

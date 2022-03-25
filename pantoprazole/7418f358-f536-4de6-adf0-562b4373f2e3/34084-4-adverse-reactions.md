@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- Hypomagnesemia [see Warnings and Precautions (5.7)]
-- Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -68,4 +69,4 @@ In clinical studies of ZE Syndrome, adverse reactions reported in 35 patients ta
 
 The following adverse reactions have been identified during postapproval use of pantoprazole sodium delayed-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions are listed below by body system: Gastrointestinal Disorders: fundic gland polyps General Disorders and Administration Conditions: asthenia, fatigue, malaise Hematologic: pancytopenia, agranulocytosis Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus Infections and Infestations: Clostridium difficile associated diarrhea Investigations: weight changes Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia Musculoskeletal Disorders: rhabdomyolysis, bone fracture Nervous: ageusia, dysgeusia Psychiatric Disorders: hallucination, confusion, insomnia, somnolence Renal and Urinary Disorders: acute tubulointerstitial nephritis Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus
+These adverse reactions are listed below by body system: Gastrointestinal Disorders: fundic gland polyps General Disorders and Administration Conditions: asthenia, fatigue, malaise Hematologic: pancytopenia, agranulocytosis Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus Infections and Infestations: Clostridium difficile associated diarrhea Investigations: weight changes Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia Musculoskeletal Disorders: rhabdomyolysis, bone fracture Nervous: ageusia, dysgeusia Psychiatric Disorders: hallucination, confusion, insomnia, somnolence Renal and Urinary Disorders: acute tubulointerstitial nephritis Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke’s edema) and cutaneous lupus erythematosus

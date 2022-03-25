@@ -129,8 +129,9 @@ Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD 
 | tmax (h)b | 2 | 2 |
 | AUC (mcg•h/mL)a | 6.9 | 5.5 |
 | CL/F (L/h)b | 6.6 | 6.8 |
+| a Geometric mean values b Median values |  |  |
 
-a Geometric mean values b Median values Male and Female Patients There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
+Male and Female Patients There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.
 
