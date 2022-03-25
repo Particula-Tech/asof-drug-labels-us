@@ -11,7 +11,7 @@
 |  | dark colored urinesevere skin itchingyellowing of the skin and eyes (jaundice) | light-colored stoolstiredness | vomitingloss of appetite |  |
 | serious allergic reactions: In rare cases, serious allergic reactions (anaphylaxis) have happened while taking FLUCONAZOLE. Stop taking FLUCONAZOLE, call your healthcare provider or go to the nearest hospital emergency room right away if you get any signs or symptoms of an allergic reaction including: |  |  |  |  |
 |  | shortness of breathfeverswelling of the eyelids | coughingskin rash, hives, blisters or skin peelingface, mouth, neck, or any other part of the body | wheezingthrobbing of the heart or earschills |  |
-| serious skin problems. Some people with serious medical problems have developed serious skin problems that have caused death while taking FLUCONAZOLE. Tell your healthcare provider right away if you develop a rash while taking FLCONAZOLE. |  |  |  |  |
+| serious skin problems. Some people with serious medical problems have developed serious skin problems that have caused death while taking FLUCONAZOLE. Tell your healthcare provider right away if you develop a rash while taking FLUCONAZOLE. |  |  |  |  |
 | The most common side effects of FLUCONAZOLE include: |  |  |  |  |
 | headachedizziness |  | diarrheastomach pain | nausea or upset stomachchanges in the way food tastes |  |
 | Other side effects include: adrenal insufficiency: Some people who have taken FLUCONAZOLE developed adrenal insufficiency that was reversible. Tell your healthcare provider right away if you have symptoms of adrenal insufficiency including: |  |  |  |  |
@@ -22,6 +22,6 @@
 | How should I store FLUCONAZOLE? Store FLUCONAZOLE tablets below 86°F (30°C). Keep FLUCONAZOLE and all medicines out of the reach of children. |  |  |  |  |
 | General information about the safe and effective use of FLUCONAZOLE. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use FLUCONAZOLE for a condition for which it was not prescribed. Do not give FLUCONAZOLE to other people, even if they have the same symptoms you have. It may harm them. You can ask your healthcare provider for information about FLUCONAZOLE that is written for health professionals. |  |  |  |  |
 | What are the ingredients in FLUCONAZOLE? Active ingredient: fluconazole Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, povidone, croscarmellose sodium, FD&C Red No. 40 aluminum lake dye, and magnesium stearate. |  |  |  |  |
-| Manufactured by: For Medical Information about FLUCONAZOLE, please visit www.greenstonellc.com |  |  |  |  |
+| For Medical Information about FLUCONAZOLE, please visit www.greenstonellc.com |  |  |  |  |
 
-LAB-0367-14.0 Revised October 2021
+LAB-0367-15.0 Revised October 2021
