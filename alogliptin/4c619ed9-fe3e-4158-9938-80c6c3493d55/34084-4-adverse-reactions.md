@@ -213,7 +213,7 @@ After excluding patients in whom exposure to study drug was less than one year a
 After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone.
 During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.7)].
 
-## 6.2 Laboratory Abnormalities
+Laboratory Abnormalities
 
 Pioglitazone
 
@@ -231,25 +231,34 @@ Six of these nine patients continued to receive pioglitazone, two patients were 
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone therapy is unknown.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Alogliptin
 
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, rhabdomyolysis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
+Gastrointestinal disorders: acute pancreatitis, diarrhea, constipation, nausea, ileus
+
+Hepatobiliary disorders: fulminant hepatic failure
+
+Immune system disorders: hypersensitivity reactions including anaphylaxis
+
+Investigations: hepatic enzyme elevations
+
+Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, rhabdomyolysis
+
+Renal and urinary disorders: tubulointerstitial nephritis
+
+Skin and subcutaneous tissue disorders: angioedema, rash, urticaria and severe cutaneous adverse reactions including Stevens-Johnson syndrome, bullous pemphigoid
 
 Pioglitazone
 
 The following adverse reactions have been identified during the postmarketing use of pioglitazone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.9)].
+Cardiac disorders: rapid increases in weight and increases in excess of that generally observed in clinical trials, excessive edema, congestive heart failure both with and without previously known heart disease and both with and without concomitant insulin administration
 
-Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.4)].
+Eye disorders: New onset or worsening diabetic macular edema with decreased visual
 
-Postmarketing reports of congestive heart failure have been reported in patients treated with pioglitazone, both with and without previously known heart disease and both with and without concomitant insulin administration.
-
-In postmarketing experience, there have been reports of unusually rapid increases in weight and increases in excess of that generally observed in clinical trials.
-Patients who experience such increases should be assessed for fluid accumulation and volume-related events such as excessive edema and congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)].
+Hepatobiliary disorders: Fatal and nonfatal hepatic failure

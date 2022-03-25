@@ -30,12 +30,12 @@ If pancreatitis is suspected, OSENI should promptly be discontinued and appropri
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with alogliptin.
 These reactions include anaphylaxis, angioedema and severe cutaneous adverse reactions, including Stevens-Johnson syndrome.
-If a serious hypersensitivity reaction is suspected, discontinue OSENI, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.3)].
+If a serious hypersensitivity reaction is suspected, discontinue OSENI, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.2)].
 Use caution in patients with a history of angioedema with another dipeptidyl peptidase-4 (DPP-4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with OSENI.
 
 ## 5.4 Hepatic Effects
 
-There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking pioglitazone or alogliptin, although some of the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.3)].
+There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking pioglitazone or alogliptin, although some of the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.2)].
 
 In glycemic control trials of alogliptin in patients with type 2 diabetes, serum alanine aminotransferase (ALT) elevations greater than three times the upper limit of normal (ULN) were reported in 1.3% of patients treated with alogliptin 25 mg and 1.7% of patients treated with active comparators or placebo.
 In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), increases in serum alanine aminotransferase three times the upper limit of the reference range occurred in 2.4% of patients treated with alogliptin and in 1.8% of patients treated with placebo.
@@ -94,7 +94,7 @@ There are insufficient data to determine whether pioglitazone is a tumor promote
 
 Consequently, OSENI should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with OSENI should be considered in patients with a prior history of bladder cancer.
 
-## 5.8 Use with Medications Known to Cause Hypoglycemia
+## 5.8 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues, such as sulfonylureas, are known to cause hypoglycemia.
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with OSENI.
@@ -126,7 +126,3 @@ Postmarketing cases of bullous pemphigoid requiring hospitalization have been re
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving OSENI.
 If bullous pemphigoid is suspected, OSENI should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.12 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with OSENI.

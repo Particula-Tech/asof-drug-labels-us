@@ -3,7 +3,7 @@
 ## 2.1 Recommendations for All Patients
 
 OSENI should be taken once daily and can be taken with or without food.
-The tablets must not be split before swallowing.
+Do not spilt tablets.
 
 The recommended starting dose for OSENI (alogliptin and pioglitazone):
 
