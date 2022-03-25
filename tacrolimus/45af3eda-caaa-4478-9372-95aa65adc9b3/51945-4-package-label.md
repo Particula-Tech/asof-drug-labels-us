@@ -19,11 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2045A4
+RM2045A5
 
 # PRINCIPAL DISPLAY PANEL – 1 mg
 
@@ -46,11 +48,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2046A4
+RM2046A5
 
 # PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -73,8 +77,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2047A4
+RM2047A5

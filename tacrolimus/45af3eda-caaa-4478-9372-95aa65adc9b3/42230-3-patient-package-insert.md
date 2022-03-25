@@ -28,6 +28,8 @@ However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 7/2021 TACR:R10ppb/PL:TACR:R8ppb
+Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
+
+Revised: 3/2022 TACR:R11ppb/PL:TACR:R9ppb
