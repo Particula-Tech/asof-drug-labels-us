@@ -99,7 +99,7 @@ Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Study of 
 | Abdominal discomfort | 6.4 | 4.8 |
 | Headache | 5.7 | 4.8 |
 
-## 6.2 Laboratory Abnormalities
+Laboratory Abnormalities
 
 Alogliptin and Metformin Hydrochloride
 
@@ -107,18 +107,29 @@ No clinically meaningful differences were observed among treatment groups regard
 
 Metformin Hydrochloride
 
-Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on KAZANO, and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.6)].
+In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Alogliptin
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, rhabdomyolysis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.8, 5.9).
+Gastrointestinal disorders: acute pancreatitis, diarrhea, constipation, nausea, ileus
+
+Hepatobiliary disorders: fulminant hepatic failure
+
+Immune system disorders: hypersensitivity reactions including anaphylaxis
+
+Investigations: hepatic enzyme elevations
+
+Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, rhabdomyolysis
+
+Renal and urinary disorders: tubulointerstitial nephritis
+
+Skin and subcutaneous tissue disorders: angioedema, rash, urticaria and severe cutaneous adverse reactions including Stevens-Johnson syndrome, bullous pemphigoid
 
 Metformin
 
-Cholestatic, hepatocellular, and mixed hepatocellular liver injury.
+Hepatobiliary disorders: Cholestatic, hepatocellular, mixed hepatocellular liver injury

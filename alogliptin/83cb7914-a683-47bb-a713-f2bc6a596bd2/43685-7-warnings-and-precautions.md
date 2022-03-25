@@ -90,12 +90,12 @@ If heart failure develops, evaluate and manage according to current standards of
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with alogliptin.
 These reactions include anaphylaxis, angioedema and severe cutaneous adverse reactions, including Stevens-Johnson syndrome.
-If a serious hypersensitivity reaction is suspected, discontinue KAZANO, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.3)].
+If a serious hypersensitivity reaction is suspected, discontinue KAZANO, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.2)].
 Use caution in patients with a history of angioedema with another dipeptidyl peptidase-4 (DPP-4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with KAZANO.
 
 ## 5.5 Hepatic Effects
 
-There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking alogliptin, although some of the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.3)].
+There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking alogliptin, although some of the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.2)].
 
 In glycemic control trials in patients with type 2 diabetes, serum alanine aminotransferase (ALT) elevations greater than three times the upper limit of normal (ULN) were reported in 1.3% of patients treated with alogliptin 25 mg and 1.7% of patients treated with active comparators or placebo.
 In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), increases in serum alanine aminotransferase three times the upper limit of the reference range occurred in 2.4% of patients treated with alogliptin and in 1.8% of patients treated with placebo.
@@ -106,24 +106,15 @@ KAZANO should not be restarted in these patients without another explanation for
 
 ## 5.6 Vitamin B12 Levels
 
-In controlled, 29-week clinical trials of immediate-release metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on KAZANO, and any apparent abnormalities should be appropriately investigated and managed.
+In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12 -intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
+Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on KAZANO and manage any abnormalities [see Adverse Reactions (6.1)].
 
-## 5.7 Use with Medications Known to Cause Hypoglycemia
-
-Alogliptin
+## 5.7 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues, such as sulfonylureas, are known to cause hypoglycemia.
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with KAZANO.
-
-Metformin Hydrochloride
-
-Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
-Elderly, debilitated or malnourished patients and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly and in people who are taking β-adrenergic blocking drugs.
 
 ## 5.8 Severe and Disabling Arthralgia
 
@@ -139,7 +130,3 @@ Postmarketing cases of bullous pemphigoid requiring hospitalization have been re
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving KAZANO.
 If bullous pemphigoid is suspected, KAZANO should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.10 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with KAZANO or any other antidiabetic drug.

@@ -19,7 +19,6 @@ Metformin Hydrochloride
 
 Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -74,8 +73,6 @@ Metformin Hydrochloride
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of immediate release metformin HCl tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally less than 1 mcg/mL.
-During controlled clinical trials, which served as the basis for approval for metformin, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
 
 Metabolism
 
