@@ -51,7 +51,7 @@ Some of these changes included decreased inhibition (e.g., aggressiveness and ex
 Visual and auditory hallucinations have been reported.
 
 In controlled trials, <1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with AMBIEN 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see USE IN SPECIFIC POPULATIONS (8.4)].
+In a clinical trial, 7% of pediatric patients treated with Ambien 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see USE IN SPECIFIC POPULATIONS (8.4)] There have been postmarketing reports of delirium with zolpidem use [see ADVERSE REACTIONS (6.2)].
 
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
@@ -65,9 +65,9 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 ## 5.7 Respiratory Depression
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild to moderate sleep apnea when treated with zolpidem compared to placebo.
-Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem tartrate extended-release tablets are prescribed to patients with compromised respiratory function.
+Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem tartrate extended-release tablets are prescribed to patients with compromised respiratory function or concomitant use with opioids or other CNS depressants.
 Postmarketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
-The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate extended-release tablets in patients with respiratory impairment including sleep apnea and myasthenia gravis.
+The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate extended-release tablets in patients with respiratory impairment including sleep apnea and myasthenia gravis or with concomitant opioid use [see DOSAGE AND ADMINISTRATION (2.3), DRUG INTERACTIONS (7.1)].
 
 ## 5.8 Precipitation of Hepatic Encephalopathy
 

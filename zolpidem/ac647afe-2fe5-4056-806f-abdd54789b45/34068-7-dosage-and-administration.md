@@ -11,6 +11,9 @@ Zolpidem tartrate extended-release tablets should be taken as a single dose and 
 
 The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 
+Treatment with zolpidem tartrate extended-release tablet should be as short as possible.
+Extended treatment should not take place without re-evaluation of the patient's status, since the risk of abuse and dependence increases with duration of treatment [see DRUG ABUSE AND DEPENDENCE (9.3)].
+
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
@@ -22,7 +25,7 @@ Avoid zolpidem tartrate extended-release tablets use in patients with severe hep
 
 ## 2.3 Use with CNS Depressants
 
-Dosage adjustment may be necessary when zolpidem tartrate extended-release tablets are combined with other CNS-depressant drugs because of the potentially additive effects [see WARNINGS AND PRECAUTIONS (5.2)].
+Dosage adjustment may be necessary when zolpidem tartrate extended-release tablets are combined with other CNS-depressant drugs because of the potentially additive effects [see WARNINGS AND PRECAUTIONS (5.2)(5.7)].
 
 ## 2.4 Administration
 

@@ -33,6 +33,10 @@ Alcohol and other Drugs
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
 Advise patients not to use zolpidem tartrate extended-release tablets if they drank alcohol that evening or before bed.
 
+Concomitant Use with Opioids
+
+Inform patients and caregivers that potentially serious additive effects may occur if zolpidem tartrate extended-release tablets is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider [WARNINGS AND PRECAUTIONS (5.2, 5.7), DRUG INTERACTIONS (7.1)].
+
 Tolerance, Abuse, and Dependence
 
 Tell patients not to increase the dose of zolpidem tartrate extended-release tablets on their own, and to inform you if they believe the drug "does not work."
@@ -73,4 +77,4 @@ Goa 403 722
 
 INDIA
 
-Revised: October 2019 ID#: 262323
+Revised: April 2022 ID#: 270216
