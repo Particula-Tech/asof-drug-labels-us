@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213857"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Laurus Labs Limited",
+  "package_ndcs": [
+    "42385-933-60",
+    "42385-934-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lopinavir and ritonavir",
+      "name": "Lopinavir and Ritonavir"
+    }
+  ],
+  "setid": "a7072c60-6dbf-4125-95e7-497c05a9e6a6",
+  "source": "dailymed"
+}
