@@ -36,7 +36,7 @@ The mean fasting gastrin level increased in a dose-related manner.
 The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)]
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)]
 
 Enterochromaffin-like (ECL) Cell Effects
 
@@ -70,11 +70,11 @@ Table 6: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole on D
 | Parameter1 (CV) | Esomeprazole magnesium delayed-release capsules |  |
 | --- | --- | --- |
 | 40 mg once daily (n=36) | 20 mg once daily (n=36) |  |
-| AUC (micromol/.h/L) | 12.6 (42%) | 4.2 (59%) |
+| AUC (micromol.h/L) | 12.6 (42%) | 4.2 (59%) |
 | Cmax (micromol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (hours) | 1.6 | 1.6 |
 | t1/2 (hours) | 1.5 | 1.2 |
-| 1 Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation |  |  |
+| 1. Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation |  |  |
 
 Esomeprazole is a time-dependent inhibitor of CYP2C19, resulting in autoinhibition and nonlinear pharmacokinetics.
 The systemic exposure increases in a more than dose proportional manner after multiple oral doses of esomeprazole.
@@ -136,11 +136,12 @@ Table 9: Comparison of Esomeprazole Pharmacokinetic Parameters Following Once Da
 | tmax (h) | 2 | 1.75 | 1.6 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Data presented are geometric means for AUC, Cmax and t½λz, and median value for tmax. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 Data obtained from two independent studies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Data obtained from two independent studies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Male and Female Patients
 
-The AUC and Cmax values of esomeprazole were slightly higher (13%) in females than in males at steady state when dosed orally This increase in exposure is not considered clinically relevant.
+The AUC and Cmax values of esomeprazole were slightly higher (13%) in females than in males at steady state when dosed orally.
+This increase in exposure is not considered clinically relevant.
 
 Patients with Renal Impairment
 
@@ -184,7 +185,7 @@ Clopidogrel
 
 In a crossover study, healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day as the maintenance dosage for 28 days) alone and with esomeprazole (40 mg orally once daily at the same time as clopidogrel) for 29 days.
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period when clopidogrel and esomeprazole were administered together.
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Mycophenolate Mofetil
 

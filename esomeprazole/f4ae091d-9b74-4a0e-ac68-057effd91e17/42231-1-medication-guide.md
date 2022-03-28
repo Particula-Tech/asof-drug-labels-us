@@ -67,7 +67,7 @@ Tell your doctor right away or get emergency medical help if you get any of the 
 
 Before taking esomeprazole magnesium delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
-- have low magnesium levels in your blood.
+- have low magnesium levels, low calcium levels and low potassium levels in your blood.
 - have liver problems.
 - are pregnant or plan to become pregnant.
   It is not known if esomeprazole magnesium delayed-release capsules will harm your unborn baby.
@@ -99,7 +99,7 @@ How should I take esomeprazole magnesium delayed-release capsules?
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
 - If you take too much esomeprazole magnesium delayed-release capsules, call your doctor or local poison control center right away at 1-800-222-1222, or go to the nearest hospital emergency room.
-- See the Instructions for Use at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules through a nasogastric tube or gastric tube.
+- See the Instructions for Use at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules through a nasogastric tube.
 
 What are the possible side effects of esomeprazole magnesium delayed-release capsules?
 
@@ -112,6 +112,16 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+- Severe skin reactions.
+  Esomeprazole magnesium delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+
+• Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+
+• You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+
+Stop taking esomeprazole magnesium delayed-release capsules and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
 
 The most common side effects of esomeprazole magnesium delayed-release capsules include:
 

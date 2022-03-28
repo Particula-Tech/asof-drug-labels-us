@@ -15,8 +15,8 @@ Table 1: Recommended Dosage of Esomeprazole Magnesium Delayed-Release Capsules i
 | Maintenance of Healing of EE | 20 mg once daily | Controlled studies do not extend beyond 6 months |
 | Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
 | Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg1 once daily | Controlled studies do not extend beyond 6 months |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole magnesium delayed-release capsules 40 mg once daily1 Amoxicillin 1000 mg twice daily3 Clarithromycin 500 mg twice daily3 Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs. | 10 days 10 days 10 days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole magnesium delayed-release capsules 40 mg once daily1 Amoxicillin 1000 mg twice daily3 Clarithromycin 500 mg twice daily3 | 10 days 10 days 10 days |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs. Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
 | 1. A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. 2. Most patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)]. 3. Refer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients. 4. A starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. |  |  |
 
 ## 2.2 Recommended Dosage in Pediatric Patients by Indication
@@ -32,7 +32,7 @@ Table 2: Recommended Dosage of Esomeprazole Magnesium Delayed-Release Capsules i
 
 ## 2.3 Preparation and Administration Instructions
 
-- Take Esomeprazole magnesium delayed-release capsules at least one hour before meals [see Clinical Pharmacology (12.3)].
+- Take esomeprazole magnesium delayed-release capsules at least one hour before meals [see Clinical Pharmacology (12.3)].
 - Antacids may be used concomitantly with esomeprazole magnesium delayed-release capsules.
 - Take a missed dose as soon as possible.
   If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
