@@ -1,0 +1,8 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Lacosamide Tablets, USP
+
+- 50 mg: pink, oval, film coated tablets debossed with ‘SG’ on one side and ‘192’ on the other.
+- 100 mg: yellow, oval, film coated tablets debossed with ‘SG’ on one side and ‘193’on the other.
+- 150 mg: beige, oval, film coated tablets debossed with ‘SG’ on one side and ‘194’ on the other.
+- 200 mg: blue, oval, film coated tablets debossed with ‘SG’ on one side and ‘195’ on the other.

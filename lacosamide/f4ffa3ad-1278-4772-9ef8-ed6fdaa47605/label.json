@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205237"
+  ],
+  "inn": "lacosamide",
+  "labeler": "ScieGen Pharmaceuticals Inc",
+  "package_ndcs": [
+    "50228-192-10",
+    "50228-192-30",
+    "50228-193-10",
+    "50228-193-30",
+    "50228-194-10",
+    "50228-194-30",
+    "50228-195-10",
+    "50228-195-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lacosamide",
+      "name": "LACOSAMIDE"
+    }
+  ],
+  "setid": "f4ffa3ad-1278-4772-9ef8-ed6fdaa47605",
+  "source": "dailymed"
+}
