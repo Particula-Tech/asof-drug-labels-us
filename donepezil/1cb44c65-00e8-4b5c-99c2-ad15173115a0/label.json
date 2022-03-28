@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA212304"
+  ],
+  "inn": "donepezil",
+  "labeler": "Corium, Inc.",
+  "package_ndcs": [
+    "65038-055-01",
+    "65038-055-03",
+    "65038-055-04",
+    "65038-055-07",
+    "65038-055-10",
+    "65038-056-01",
+    "65038-056-03",
+    "65038-056-04",
+    "65038-056-07",
+    "65038-056-10"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "donepezil hydrochloride",
+      "name": "Adlarity"
+    }
+  ],
+  "setid": "1cb44c65-00e8-4b5c-99c2-ad15173115a0",
+  "source": "dailymed"
+}
