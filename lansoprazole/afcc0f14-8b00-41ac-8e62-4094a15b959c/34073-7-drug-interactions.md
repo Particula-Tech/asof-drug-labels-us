@@ -15,7 +15,7 @@ Clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazo
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |
 | Methotrexate |  |
-| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)]. |
+| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)]. |
 | Intervention: | A temporary withdrawal of lansoprazole may be considered in some patients receiving high-dose methotrexate. |
 | Digoxin |  |
 | Clinical Impact: | Potential for increased exposure of digoxin. |
@@ -28,12 +28,12 @@ Clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazo
 | Intervention: | Mycophenolate mofetil (MMF): Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving lansoprazole and MMF. Use lansoprazole with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Combination Therapy with Clarithromycin and Amoxicillin |  |
 | Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
-| Intervention: | See Contraindications and Warnings and Precautions in prescribing information for clarithromycin. See Drug Interactions in prescribing information for amoxicillin. |
+| Intervention: | See Contraindications and Warnings and Precautions in prescribing information for clarithromycin.See Drug Interactions in prescribing information for amoxicillin. |
 | Tacrolimus |  |
 | Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood trough concentrations. Dose adjustment of tacrolimus may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9), Clinical Pharmacology (12.2)]. |
 | Intervention: | Temporarily stop lansoprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Interaction with Secretin Stimulation Test |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |

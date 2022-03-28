@@ -66,7 +66,7 @@ In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% 
 These elevations reached a plateau within two months of therapy and returned to pre-treatment levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9)].
 
 Endocrine Effects
 
@@ -176,7 +176,7 @@ In an open-label, single-arm,eight day, pharmacokinetic study of 28 adult rheuma
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
 However, this study was conducted with low doses of methotrexate.
 A drug interaction study with high doses of methotrexate has not been conducted.
-[see Warnings and Precautions (5.9)].
+[see Warnings and Precautions (5.10)].
 
 Amoxicillin:
 
@@ -209,7 +209,7 @@ Microbiology
 
 Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Warnings and Precautions (5.9)].
 
-Helicobacter pylori Pre-treatment Resistance
+Helicobacter pylori Pretreatment Resistance
 
 Clarithromycin pre-treatment resistance (≥2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 

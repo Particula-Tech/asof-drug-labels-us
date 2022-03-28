@@ -229,7 +229,7 @@ In a U.S., randomized, double-blind, study, lansoprazole 15 mg daily (n = 100) w
 Treatment with lansoprazole resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
 In addition, lansoprazole was significantly more effective than ranitidine in providing complete relief of both daytime and night time heartburn.
 Patients treated with lansoprazole remained asymptomatic for a significantly longer period of time than patients treated with ranitidine.
-[see Indications and Usage (1.9)]
+[see Indications and Usage (1.9)].
 
 ## 14.10 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 

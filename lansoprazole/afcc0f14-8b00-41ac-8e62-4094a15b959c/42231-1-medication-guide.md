@@ -51,7 +51,7 @@ In adults Lansoprazole delayed-release capsules used for:
 - up to 8 weeks of to treat heartburn and other symptoms of that happen with gastroesophageal reflux disease (GERD).
   GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste or burping.
-- Up to 8 weeks for thehealing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).Your doctor may prescribe another 8 to 16 weeks of lansoprazole for patients whose EE does not improve or whose symptoms return.
+- up to 8 weeks for thehealing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).Your doctor may prescribe another 8 to 16 weeks of lansoprazole for patients whose EE does not improve or whose symptoms return.
 - maintaining healing of EE.
   Lansoprazole has not been studied beyond 12 months for this purpose.
 - the long-term treatment of conditions where your stomach makes too much acid.
@@ -80,7 +80,7 @@ Do not take lansoprazole if you are:
 
 Before you take lansoprazole, tell your doctor about all of your medical conditions, including if you:
 
-- have low magnesium levels in your blood.
+- have low magnesium, calcium, potassium or sodium levels in your blood or you are taking a diuretic.
 - have liver problems
 - are pregnant, think you may be pregnant or plan to become pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
@@ -105,7 +105,7 @@ Lansoprazole delayed-release capsules:
 ○ Do not crush or chew lansoprazole delayed-release capsules.
 
 ○ If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
-See the "Instructions for Use" at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
+See the "Instructions for Use" at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods or juices.
 
 ○ See the "Instructions for Use" at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube (NG tube).
 
@@ -120,10 +120,20 @@ What are the possible side effects of lansoprazole delayed-release capsules?
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
 - See "What is the most important information that I should know about lansoprazole delayed-release capsules?"
-- Low vitamin B12 levels in the body can happen in people who have taken lansoprazole delayed-release capsules for a long time (more than 3 years).
-  Tell your doctor if you have symptoms of low vitamin B12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- Low vitamin B 12 levels in the body can happen in people who have taken lansoprazole delayed-release capsules for a long time (more than 3 years).
+  Tell your doctor if you have symptoms of low vitamin B 12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growth called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 - Low magnesium levels In the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
-  Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+- Severe skin reactions.
+  Lansoprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+- Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+- You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+
+Stop taking lansoprazole and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
 
 The most common side effects of lansoprazole include: diarrhea,stomach-area (abdomen) pain,nausea and constipation.
 
@@ -176,7 +186,7 @@ Important:
 
 Lansoprazole delayed-release capsules
 
-Taking Lansoprazole delayed-release capsules with certain food:
+Taking Lansoprazole delayed-release capsules with certain foods:
 
 You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
 
@@ -247,8 +257,8 @@ Lifestar Pharma LLC.
 
 Mahwah, NJ 07430 USA
 
-Revised: December 2020
+Revised: March 2022
 
 All other trademarks names are the property of their respective owners.
 
-ECA3TGIOIOUS74206
+ECA3TGIOIOUS74207
