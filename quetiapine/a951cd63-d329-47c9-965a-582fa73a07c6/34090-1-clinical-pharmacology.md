@@ -88,6 +88,8 @@ Drug-Drug Interaction Studies
 
 The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see DOSAGE AND ADMINISTRATION (2.5 and 2.6) and DRUG INTERACTIONS (7.1)].
 
+Table17:TheEffectofOtherDrugsonthePharmacokineticsofQuetiapine
+
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
 | --- | --- | --- | --- |
 |  | Coadministered Drug | Quetiapine |  |
