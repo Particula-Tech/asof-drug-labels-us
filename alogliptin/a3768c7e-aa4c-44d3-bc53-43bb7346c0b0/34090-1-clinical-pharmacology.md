@@ -89,7 +89,7 @@ Hepatic Impairment
 Total exposure to alogliptin was approximately 10% lower and peak exposure was approximately 8% lower in patients with moderate hepatic impairment (Child-Pugh Grade B) compared to healthy subjects.
 The magnitude of these reductions is not considered to be clinically meaningful.
 Patients with severe hepatic impairment (Child-Pugh Grade C) have not been studied.
-Use caution when administering NESINA to patients with liver disease [see Use in Specific Populations (8.6) and Warnings and Precautions (5.3)].
+Use caution when administering NESINA to patients with liver disease [see Use in Specific Populations (8.6) and Warnings and Precautions (5.4)].
 
 Gender
 

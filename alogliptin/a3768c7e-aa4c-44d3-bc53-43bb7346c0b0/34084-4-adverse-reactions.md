@@ -93,4 +93,16 @@ Worsening of chronic kidney disease stage was seen in 16.8% of patients treated 
 The following adverse reactions have been identified during the postmarketing use of NESINA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, rhabdomyolysis, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].
+Gastrointestinal disorders: acute pancreatitis, diarrhea, constipation, nausea, ileus
+
+Hepatobiliary disorders: fulminant hepatic failure
+
+Immune system disorders: hypersensitivity reactions including anaphylaxis
+
+Investigations: hepatic enzyme elevations
+
+Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, rhabdomyolysis
+
+Renal and urinary disorders: tubulointerstitial nephritis
+
+Skin and subcutaneous tissue disorders: angioedema, rash, urticaria and severe cutaneous adverse reactions including Stevens-Johnson syndrome, bullous pemphigoid

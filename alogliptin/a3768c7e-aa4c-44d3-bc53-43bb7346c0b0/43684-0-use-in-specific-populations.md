@@ -17,7 +17,7 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
 
 Data
@@ -59,4 +59,4 @@ The overall incidences of adverse reactions, serious adverse reactions and adver
 ## 8.7 Hepatic Impairment
 
 No dose adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
-NESINA has not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering NESINA to patients with liver disease [see Warnings and Precautions (5.3)].
+NESINA has not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering NESINA to patients with liver disease [see Warnings and Precautions (5.4)].
