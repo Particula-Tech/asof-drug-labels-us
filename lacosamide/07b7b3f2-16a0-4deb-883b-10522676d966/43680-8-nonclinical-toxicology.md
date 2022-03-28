@@ -1,0 +1,17 @@
+# 13 NONCLINICAL TOXICOLOGY
+
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+There was no evidence of drug related carcinogenicity in mice or rats.
+Mice and rats received lacosamide once daily by oral administration for 104 weeks at doses producing plasma exposures (AUC) up to approximately 1 and 3 times, respectively, the plasma AUC in humans at the maximum recommended human dose (MRHD) of 400 mg/day.
+
+Mutagenesis
+
+Lacosamide was negative in an in vitro Ames test and an in vivo mouse micronucleus assay.
+Lacosamide induced a positive response in the in vitro mouse lymphoma assay.
+
+Fertility
+
+No adverse effects on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the MRHD.
