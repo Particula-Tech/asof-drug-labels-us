@@ -103,6 +103,8 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Urinary tract infection | —† | 1% | 0% |
 | *Incidence based on the number of female patients.†Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
 
+The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
+
 Seasonal Affective Disorder
 
 In placebo-controlled clinical trials in SAD, 9% of patients treated with bupropion hydrochloride extended-release tablets (XL) and 5% of patients treated with placebo discontinued treatment because of adverse reactions.

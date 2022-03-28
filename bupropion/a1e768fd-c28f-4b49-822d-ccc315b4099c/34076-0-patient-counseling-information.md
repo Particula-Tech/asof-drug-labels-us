@@ -70,9 +70,13 @@ Bupropion hydrochloride extended-release tablets (XL) should be administered in 
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For:
+
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-C 10/2021
+D 1/2022
