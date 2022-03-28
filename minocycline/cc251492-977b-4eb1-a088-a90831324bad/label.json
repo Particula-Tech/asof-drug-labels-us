@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212379"
+  ],
+  "inn": "minocycline",
+  "labeler": "Journey Medical Corporation",
+  "package_ndcs": [
+    "69489-201-30"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "minocycline",
+      "name": "AMZEEQ"
+    }
+  ],
+  "setid": "cc251492-977b-4eb1-a088-a90831324bad",
+  "source": "dailymed"
+}

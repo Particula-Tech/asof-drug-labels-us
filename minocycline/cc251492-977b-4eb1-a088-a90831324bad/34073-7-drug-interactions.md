@@ -1,0 +1,13 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Anticoagulants
+
+Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
+
+## 7.2 Penicillin
+
+Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline-class drugs in conjunction with penicillin.
+
+## 7.3 Drug/Laboratory Test Interactions
+
+False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test.
