@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204813"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-789-17"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "Bromfenac"
+    }
+  ],
+  "setid": "fa40fc6b-1bd0-4496-b53a-8b3e1c122a50",
+  "source": "dailymed"
+}
