@@ -76,4 +76,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 1/2022
+F 3/2022

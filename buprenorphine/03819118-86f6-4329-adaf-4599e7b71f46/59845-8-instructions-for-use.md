@@ -14,8 +14,9 @@ Preparing to take buprenorphine sublingual tablets:
   Let them dissolve completely.
 
 - While buprenorphine sublingual tablets are dissolving, do not chew or swallow the tablet because the medicine will not work as well.
-
 - Talking while the tablet is dissolving can affect how well the medicine in buprenorphine sublingual tablets are absorbed.
+- After buprenorphine sublingual tablets are completely dissolved, rinse your mouth with water and swallow.
+  Wait for at least one hour before brushing teeth.
 - If you miss a dose of buprenorphine sublingual tablets, take your medicine when you remember.
   If it is almost time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
@@ -50,4 +51,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-A 8/2021
+B 3/2022
