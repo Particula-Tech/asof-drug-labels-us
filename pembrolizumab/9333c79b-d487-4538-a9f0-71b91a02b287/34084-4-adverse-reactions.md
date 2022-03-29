@@ -1349,6 +1349,8 @@ Table 40: SelectedLaboratory abnormalities occurring at same or higher incidence
 
 Endometrial Carcinoma
 
+In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is Not MSI-H or dMMR
+
 The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.15)].
 Patients with endometrial carcinoma that is not MSI-H or dMMR received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
@@ -1436,6 +1438,11 @@ Table 42: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 | Anemia | 49 | 8 | 84 | 14 |
 | Leukopenia | 43 | 3.5 | 83 | 43 |
 | Neutropenia | 31 | 6 | 76 | 58 |
+
+As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
+
+Among the 90 patients with MSI-H or dMMR endometrial carcinoma enrolled in KEYNOTE-158 [see Clinical Studies (14.15)] treated with KEYTRUDA as a single agent, the median duration of exposure to KEYTRUDA was 8.3 months (range: 1 day to 26.9 months).
+Adverse reactions occurring in patients with endometrial carcinoma were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 TMB-H Cancer
 

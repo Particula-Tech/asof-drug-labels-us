@@ -108,6 +108,8 @@ KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at interme
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation.
 
+KEYTRUDA, as a single agent, is indicated for the treatment of patients with advanced endometrial carcinoma that is MSI-H or dMMR, as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
+
 ## 1.16 Tumor Mutational Burden-High Cancer
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
