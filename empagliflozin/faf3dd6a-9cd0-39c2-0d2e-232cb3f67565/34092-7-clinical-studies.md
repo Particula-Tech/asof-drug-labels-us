@@ -264,7 +264,7 @@ At Week 24, JARDIANCE 25 mg provided statistically significant reduction in HbA1
 A statistically significant reduction relative to placebo was also observed with JARDIANCE 25 mg in patients with either mild [-0.7 (95% CI: -0.9, -0.5)] or moderate [-0.4 (95% CI: -0.6, -0.3)] renal impairment and with JARDIANCE 10 mg in patients with mild [-0.5 (95% CI: -0.7, -0.3)] renal impairment.
 
 The glucose lowering efficacy of JARDIANCE 25 mg decreased with decreasing level of renal function in the mild to moderate range.
-Least square mean Hb1Ac changes at 24 weeks were -0.6%, -0.5%, and -0.2% for those with a baseline eGFR of 60 to less than 90 mL/min/1.73 m2, 45 to less than 60 mL/min/1.73 m2, and 30 to less than 45 mL/min/1.73 m2, respectively [see Dosage and Administration (2) and Use in Specific Populations (8.6)].
+Least square mean HbA1c changes at 24 weeks were -0.6%, -0.5%, and -0.2% for those with a baseline eGFR of 60 to less than 90 mL/min/1.73 m2, 45 to less than 60 mL/min/1.73 m2, and 30 to less than 45 mL/min/1.73 m2, respectively [see Dosage and Administration (2) and Use in Specific Populations (8.6)].
 For placebo, least square mean HbA1c changes at 24 weeks were 0.1%, -0.1%, and 0.2% for patients with a baseline eGFR of 60 to less than 90 mL/min/1.73 m2, 45 to less than 60 mL/min/1.73 m2, and 30 to less than 45 mL/min/1.73 m2, respectively.
 
 Table 12 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in Patients with Type 2 Diabetes and Renal Impairment

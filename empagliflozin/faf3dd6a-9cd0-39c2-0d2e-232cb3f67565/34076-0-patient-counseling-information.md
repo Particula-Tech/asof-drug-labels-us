@@ -19,7 +19,7 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.3)].
 
-Hypoglycemia
+Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Inform patients that the incidence of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
 
