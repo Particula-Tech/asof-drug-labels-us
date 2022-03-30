@@ -2,8 +2,7 @@
 
 ## 16.1 How Supplied
 
-Cardene I.V.
-Premixed Injection is supplied as a single-use, ready-to-use, iso-osmotic solution for intravenous administration in a 200 mL GALAXY container with 20 mg (0.1 mg/mL) nicardipine hydrochloride in either dextrose or sodium chloride or 40 mg (0.2 mg/mL) nicardipine hydrochloride in sodium chloride.
+CARDENE I.V. is supplied as a single-dose, ready-to-use, iso-osmotic solution for intravenous administration in a 200 mL GALAXY container with 20 mg (0.1 mg/mL) nicardipine hydrochloride in either dextrose or sodium chloride or 40 mg (0.2 mg/mL) nicardipine hydrochloride in sodium chloride.
 
 | Pack Size | Diluent | NDC Number |
 | --- | --- | --- |
@@ -16,3 +15,4 @@ Store at controlled room temperature 20◦ to 25◦ C (68◦ to 77◦ F), refer 
 Protect from freezing.
 Avoid excessive heat.
 Protect from light, store in carton until ready to use.
+Discard unused portion.

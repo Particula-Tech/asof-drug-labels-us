@@ -2,10 +2,8 @@
 
 ## 7.1 Beta-Blockers
 
-In most patients, Cardene I.V.
-Premixed Injection can safely be used concomitantly with beta blockers.
-However, titrate slowly when using Cardene I.V.
-Premixed Injection in combination with a beta-blocker in heart failure patients [see Warnings and Precautions (5.2)].
+In most patients, CARDENE I.V. can safely be used concomitantly with beta blockers.
+However, titrate slowly when using CARDENE I.V. in combination with a beta-blocker in heart failure patients [see Warnings and Precautions (5.2)].
 
 ## 7.2 Cimetidine
 
@@ -16,14 +14,12 @@ Data with other histamine-2 antagonists are not available.
 ## 7.3 Cyclosporine
 
 Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4.
-Closely monitor plasma concentrations of cyclosporine during Cardene I.V.
-Premixed Injection administration, and reduce the dose of cyclosporine accordingly.
+Closely monitor plasma concentrations of cyclosporine during CARDENE I.V. administration, and reduce the dose of cyclosporine accordingly.
 
 ## 7.4 Tacrolimus
 
 Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4.
-Closely monitor plasma concentrations of tacrolimus during Cardene I.V.
-Premixed Injection administration, and adjust the dose of tacrolimus accordingly.
+Closely monitor plasma concentrations of tacrolimus during CARDENE I.V. administration, and adjust the dose of tacrolimus accordingly.
 
 ## 7.5 In Vitro Interaction
 
