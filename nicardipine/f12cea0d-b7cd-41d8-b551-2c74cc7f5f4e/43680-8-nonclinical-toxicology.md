@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Rats treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of 5, 15, or 45 mg/kg/day) for two years showed a dose-dependent increase in thyroid hyperplasia and neoplasia (follicular adenoma/carcinoma).
-One- and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH).
+One and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH).
 Chronic elevation of TSH is known to cause hyperstimulation of the thyroid.
 
 In rats on an iodine deficient diet, nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation.
