@@ -52,7 +52,7 @@ There have been isolated reports of cardiomyopathy associated with chronic amphe
 
 Central Nervous System: Psychotic episodes at recommended doses, overstimulation, irritability, restlessness, dizziness, insomnia, euphoria, mood swings, aggression, anger, logorrhea, dermatillomania, dyskinesia, dysphoria, tremor, fatigue, headache, exacerbation of motor and phonic tics and Tourette's syndrome
 
-Gastrointestinal: Dry mouth, unpleasant taste, constipation, nausea, other gastrointestinal disturbances, anorexia, and weight loss.
+Gastrointestinal: Dry mouth, unpleasant taste, constipation, nausea, intestinal ischemia, other gastrointestinal disturbances, anorexia, and weight loss.
 
 Allergic: Urticaria, rash, hypersensitivity reactions, including angioedema and anaphylaxis.
 Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported.

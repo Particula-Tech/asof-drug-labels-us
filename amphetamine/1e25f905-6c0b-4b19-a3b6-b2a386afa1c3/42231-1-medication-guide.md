@@ -33,4 +33,4 @@
 | ©2020 Arbor Pharmaceuticals, LLC |  |  |
 | All rights reserved. |  |  |
 | For more information about EVEKEO ODT, please contact Arbor Pharmaceuticals, LLC at 1-866-516-4950. |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. EVK-MG-02 |  | Revised: X/2021 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. EVK-MG-02 |  | Revised: 4/2021 |
