@@ -41,20 +41,22 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking risedronate.
 Patients should be instructed that any time they have a medical problem they think may be from risedronate, they should talk to their doctor.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are trademarks of their respective owners.
+
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured In Israel By:
 
 Teva Pharmaceutical Ind.
 Ltd.
 
-Jerusalem, 9777402, Israel
+Kfar Saba, 4410202, Israel
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-I 1/2020
+K 1/2022

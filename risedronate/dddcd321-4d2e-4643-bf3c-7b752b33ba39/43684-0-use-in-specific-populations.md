@@ -19,7 +19,7 @@ The impact of variables such as time between cessation of bisphosphonate therapy
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 

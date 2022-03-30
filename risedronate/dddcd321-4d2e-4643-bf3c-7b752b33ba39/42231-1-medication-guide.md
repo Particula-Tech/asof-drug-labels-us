@@ -1,4 +1,6 @@
-# Medication Guide
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+MEDICATION GUIDE
 
 Risedronate Sodium (ris ed' roe nate soe' dee um)
 
@@ -204,13 +206,13 @@ Manufactured In Israel By:
 Teva Pharmaceutical Ind.
 Ltd.
 
-Jerusalem, 9777402, Israel
+Kfar Saba, 4410202, Israel
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-C 1/2020
+E 1/2022

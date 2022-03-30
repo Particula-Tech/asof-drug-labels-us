@@ -2,43 +2,43 @@
 
 NDC 0093-3099-56
 
-Risedronate Sodium Tablets USP, 5 mg
+Risedronate Sodium Tablets, USP
+
+5 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 TABLETS
-
-Teva
+30 Tablets
 
 # Package/Label Display Panel
 
 NDC 0093-3100-56
 
-Risedronate Sodium Tablets USP, 30 mg
+Risedronate Sodium Tablets, USP
+
+30 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-Teva
-
-# Package/Label Display Panel, Part 1 of 2
+# Package/Label Display Panel
 
 NDC 0093-3098-44
 
 Once-a-Week
 
-4 Week Supply (4 Tablets)
-
-Risedronate Sodium Tablets USP
+Risedronate Sodium Tablets, USP
 
 35 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Print Medication Guides at: www.tevausa.com/medguides
 
 Each film-coated tablet contains the equivalent of 35 mg of anhydrous risedronate sodium, USP in the form of the monohydrate.
 
@@ -50,6 +50,4 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Rx only
 
-Teva
-
-# Package/Label Display Panel, Part 2 of 2
+4 Week Supply (4 Tablets)
