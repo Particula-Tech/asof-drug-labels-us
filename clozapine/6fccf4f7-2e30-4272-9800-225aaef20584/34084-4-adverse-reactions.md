@@ -67,14 +67,14 @@ Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=84
 | Restlessness | 4 |
 | Hypokinesia/Akinesia | 4 |
 | Agitation | 4 |
-| Seizures (convulsions) | 3* |
+| Seizures (convulsions) | 3† |
 | Rigidity | 3 |
 | Akathisia | 3 |
 | Confusion | 3 |
 | Fatigue | 2 |
 | Insomnia | 2 |
 | Cardiovascular |  |
-| Tachycardia | 25* |
+| Tachycardia | 25† |
 | Hypotension | 9 |
 | Hypertension | 4 |
 | Gastrointestinal |  |
@@ -98,6 +98,7 @@ Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=84
 | Miscellaneous |  |
 | Fever | 5 |
 | Weight Gain | 4 |
+| † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
 
 Table 11 summarizes the most commonly reported adverse reactions (≥10% of the clozapine or olanzapine group) in the InterSePT™ Study.
 This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
@@ -141,7 +142,7 @@ Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolong
 
 ### Endocrine System
 
-Pseudopheochromocytoma
+Pseudopheochromocytoma.
 
 ### Gastrointestinal System
 

@@ -31,9 +31,10 @@ Table 2: Clozapine Treatment Recommendations Based on Absolute Neutrophil Count 
 | --- | --- | --- |
 | Normal range (≥1500/μL) | Initiate treatment If treatment interrupted: <30 days, continue monitoring as before ≥30 days, monitor as if new patient | Weekly from initiation to 6 months Every 2 weeks from 6 to 12 months Monthly after 12 months |
 | Discontinuation for reasons other than neutropenia | See Section 2.4 |  |
-| Mild Neutropenia (1000 to 1499/μL)* | Continue treatment | Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, return to patient’s last “Normal Range” ANC monitoring interval† |
-| Moderate Neutropenia (500 to 999/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine induced neutropenia Resume treatment once ANC ≥1000/μL | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval† |
-| Severe Neutropenia (less than 500/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
+| Mild Neutropenia (1000 to 1499/μL)* | Continue treatment | Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, return to patient’s last “Normal Range” ANC monitoring interval** |
+| Moderate Neutropenia (500 to 999/μL) * | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Resume treatment once ANC ≥1000/μL | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
+| Severe Neutropenia (less than 500/μL) * | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
+| * Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours** If clinically appropriate |  |  |
 
 ### Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
@@ -54,8 +55,9 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
 | --- | --- | --- |
 | Normal BEN Range (Established ANC baseline ≥1000/μL) | Obtain at least two baseline ANC levels before initiating treatment If treatment interrupted <30 days, continue monitoring as before ≥30 days, monitor as if new patient | Weekly from initiation to 6 months Every 2 weeks from 6 to 12 months Monthly after 12 months |
 | Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |  |
-| BEN Neutropenia 500 to 999/μL* | Recommend hematology consultation Continue treatment | Three times weekly until ANC ≥1000/μL or ≥ patient’s known baseline Once ANC ≥1000/μL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.† |
-| BEN Severe Neutropenia less than 500/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/μL, then Three times weekly until ANC ≥patient’s baseline If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/μL or at patient’s baseline |
+| BEN Neutropenia (500 to 999/μL)* | Recommend hematology consultation Continue treatment | Three times weekly until ANC ≥1000/μL or ≥ patient’s known baseline Once ANC ≥1000/μL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
+| BEN Severe Neutropenia (less than 500/μL)* | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/μL, then Three times weekly until ANC ≥patient’s baseline If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/μL or at patient’s baseline |
+| * Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours** If clinically appropriate |  |  |
 
 ### General Guidelines for Management of All Patients with Fever or with Neutropenia
 
@@ -90,7 +92,7 @@ Notable requirements of the Clozapine REMS Program include:
 - Patients who receive clozapine must be enrolled in the program and comply with the ANC testing and monitoring requirements.
 - Pharmacies dispensing clozapine must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine.
 
-Further information is available at www.clozapinerems.com or 1-844-267-8678.
+Further information is available at www.clozapinerems.com or 1-888-586-0758.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 
@@ -398,4 +400,4 @@ Clozapine should be used with caution in patients with risk factors for cerebrov
 
 ## 5.21 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 
-If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.

@@ -21,8 +21,7 @@ Available in bottles of 100 (NDC 0093-5419-01) and cartons of 48 tablets for Ins
 
 ## 16.2 Storage and Handling
 
-Store Clozapine Orally Disintegrating Tablets at 20° to 25°C (68° to 77°F).
-(See USP Controlled Room Temperature.)
+Store Clozapine Orally Disintegrating Tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.
 
 Keep in a sealed blister until time of use.
