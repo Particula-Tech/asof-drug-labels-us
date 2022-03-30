@@ -28,7 +28,7 @@ CONTAINS PRESERVATIVE NOT FOR INTRATHECAL USE
 
 50 mg/ 2 mL (25 mg/mL)
 
-Cytotoxic Agent
+Hazardous Drug
 
 # PRINCIPAL DISPLAY PANEL - 40 mL Vial Label
 
