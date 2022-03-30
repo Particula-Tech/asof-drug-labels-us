@@ -21,8 +21,6 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see WARNINGS AND PRECAUTIONS (5.3)].
 
-AMERICAN REGENT, INC. SHIRLEY, NY 11967
+Revised March 2021
 
-Revised May 2017
-
-RQ1069-00
+RQ1069-A
