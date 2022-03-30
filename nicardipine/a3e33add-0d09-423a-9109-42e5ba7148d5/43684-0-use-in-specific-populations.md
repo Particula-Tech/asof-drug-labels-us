@@ -7,7 +7,7 @@ Pregnancy Category C
 There are no adequate and well-controlled studies of nicardipine use in pregnant women.
 However, limited human data in pregnant women with preeclampsia or pre-term labor are available.
 In animal studies, no embryotoxicity occurred in rats with oral doses 8 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2), but did occur in rabbits with oral doses at 24 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2).
-Cardene I.V. should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+CARDENE I.V. should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Hypotension, reflex tachycardia, postpartum hemorrhage, tocolysis, headache, nausea, dizziness, and flushing have been reported in pregnant women who were treated with intravenous nicardipine for hypertension during pregnancy.
 Fetal safety results ranged from transient fetal heart rate decelerations to no adverse events.
