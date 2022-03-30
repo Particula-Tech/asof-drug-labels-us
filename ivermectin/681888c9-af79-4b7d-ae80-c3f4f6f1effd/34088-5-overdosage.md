@@ -1,5 +1,7 @@
 # OVERDOSAGE
 
+Cases of neurotoxicity, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death have been reported with recommended dosage and overdosage of ivermectin (see WARNINGS).
+
 Significant lethality was observed in mice and rats after single oral doses of 25 to 50 mg/kg and 40 to 50 mg/kg, respectively.
 No significant lethality was observed in dogs after single oral doses of up to 10 mg/kg.
 At these doses, the treatment-related signs that were observed in these animals include ataxia, bradypnea, tremors, ptosis, decreased activity, emesis, and mydriasis.

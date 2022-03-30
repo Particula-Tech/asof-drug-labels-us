@@ -59,3 +59,5 @@ Conjunctival hemorrhage
 ### All Indications
 
 Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, hepatitis, elevation of liver enzymes, and elevation of bilirubin.
+
+Neurotoxicity including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation, and death (see WARNINGS).

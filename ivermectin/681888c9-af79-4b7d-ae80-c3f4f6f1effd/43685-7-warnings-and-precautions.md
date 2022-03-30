@@ -9,6 +9,9 @@ The treatment of severe Mazzotti reactions has not been subjected to controlled 
 Oral hydration, recumbency, intravenous normal saline, and/or parenteral corticosteroids have been used to treat postural hypotension.
 Antihistamines and/or aspirin have been used for most mild to moderate cases.
 
+Neurotoxicity with the use of ivermectin, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death, has been reported in patients without onchocerciasis or in patients with onchocerciasis in the absence of Loa loa infection.
+These reactions have generally resolved with supportive care and the discontinuation of ivermectin.
+
 # PRECAUTIONS
 
 ## General
