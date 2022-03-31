@@ -19,13 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompa- nying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Puerto Rico
 
-RM0182A11
+RM0182A12
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -48,13 +48,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompa- nying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Puerto Rico
 
-RM0183A9
+RM0183A10
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -77,13 +77,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompa- nying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Puerto Rico
 
-RM0184A9
+RM0184A10
 
 PRINCIPAL DISPLAY PANEL - 60 mg
 
@@ -106,13 +106,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompa- nying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Puerto Rico
 
-RM0187A2
+RM0187A3
 
 PRINCIPAL DISPLAY PANEL - 80 mg
 
@@ -135,10 +135,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompa- nying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Puerto Rico
 
-RM0185A9
+RM0185A10
