@@ -105,9 +105,6 @@ Consider these data when selecting antibacterial therapy for use in adult patien
 
 Clinically relevant plasma concentrations of daptomycin have been observed to cause a significant concentration-dependent false prolongation of prothrombin time (PT) and elevation of International Normalized Ratio (INR) when certain recombinant thromboplastin reagents are utilized for the assay [see Drug Interactions (7.2)].
 
-## 5.12 Non-Susceptible Microorganisms
-
-The use of antibacterials may promote the overgrowth of non-susceptible microorganisms.
-If these infections occur during therapy, appropriate measures should be taken.
+## 5.12 Development of Drug-Resistant Bacteria
 
 Prescribing Daptomycin for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

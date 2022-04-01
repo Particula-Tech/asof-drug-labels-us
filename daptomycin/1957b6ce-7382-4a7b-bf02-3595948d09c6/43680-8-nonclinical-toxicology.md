@@ -47,7 +47,7 @@ In neonatal dogs, adverse nervous system and/or muscular system effects were ass
 At a dose of 25 mg/kg/day with associated Cmax and AUCinf values of 147 mcg/mL and 717 mcg∙h/mL, respectively (1.6 and 1.0-fold the adult human Cmax and AUC, respectively, at the 6 mg/kg/day dose), mild clinical signs of twitching and one incidence of muscle rigidity were observed with no corresponding effect on body weight.
 These effects were found to be reversible within 28 days after treatment had stopped.
 
-At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥321 mcg/mL and ≥1470 mcg∙h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
+At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥321 mcg/mL and ≥1,470 mcg∙h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
 Resulting decreases in body weights and overall body condition at doses ≥50 mg/kg/day necessitated early discontinuation by postnatal day (PND) 19.
 
 Histopathological assessment did not reveal any daptomycin-related changes in the peripheral and central nervous system tissue, as well as in the skeletal muscle or other tissues assessed, at any dose level.

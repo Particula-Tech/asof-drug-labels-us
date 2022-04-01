@@ -38,7 +38,7 @@ The dosage regimen for Daptomycin for Injection in pediatric patients with renal
 
 ## 2.5 Preparation and Administration of Daptomycin for Injection
 
-There are other formulations of daptomycin that have differences concerning storage and reconstitution.
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
 Carefully follow the reconstitution and storage procedures described in this labeling.
 
 Reconstitution of Daptomycin for Injection Vial
