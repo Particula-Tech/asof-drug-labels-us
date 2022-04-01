@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Dosage
 
-Inform patients that they will be provided two strengths of dimethyl fumarate delayed-release capsules when starting treatment: 120 mg capsules for the 7 day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
+Inform patients that they will be provided two strengths of dimethyl fumarate delayed-release capsules when starting treatment: 120 mg capsules for the 7-day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
 Inform patients to swallow dimethyl fumarate delayed-release capsules whole and intact.
 Inform patients to not crush, chew, or sprinkle capsule contents on food.
 Inform patients that dimethyl fumarate delayed-release capsules can be taken with or without food [see Dosage and Administration (2.1)].
@@ -66,4 +66,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 5/2021
+Revised: 3/2022

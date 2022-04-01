@@ -45,11 +45,11 @@ Consider withholding dimethyl fumarate delayed-release capsules treatment in pat
 ## 5.4 Lymphopenia
 
 Dimethyl fumarate may decrease lymphocyte counts.
-In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate and then remained stable.
+In the MS placebo-controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate and then remained stable.
 Four weeks after stopping dimethyl fumarate, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of dimethyl fumarate patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate or placebo, respectively.
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
+There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or ≤ 0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
 
 In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
 Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts.
