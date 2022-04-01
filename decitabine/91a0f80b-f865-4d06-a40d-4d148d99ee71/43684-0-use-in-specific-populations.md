@@ -52,7 +52,7 @@ Follow up studies indicated that treatment of pregnant mice with decitabine on g
 Risk Summary
 
 There are no data on the presence of cedazuridine, decitabine, or their metabolites in human milk or on their effects on the breastfed child or milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with INQOVI and for at least 2 weeks after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with INQOVI and for 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 

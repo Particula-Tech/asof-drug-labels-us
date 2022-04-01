@@ -120,3 +120,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Blood and Lymphatic System Disorders: Differentiation syndrome
 
 Respiratory, Thoracic and Mediastinal Disorders: Interstitial lung disease
+
+Cardiac Disorders: Cardiomyopathy

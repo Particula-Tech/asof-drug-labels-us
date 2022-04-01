@@ -59,6 +59,7 @@ Table 4: Pharmacokinetics of the Components of INQOVIMean (%CV)
 Specific Populations
 
 Age (32 to 90 years), sex, and mild hepatic impairment (total bilirubin > 1 to 1.5 × ULN or AST > ULN) did not have an effect on the pharmacokinetics of decitabine or cedazuridine after dosing with INQOVI.
+
 Decitabine exposure (AUC) increased with decreasing body surface area or body weight, and cedazuridine exposure increased with decreasing CLcr; however, body surface area (1.3 to 2.9 m2), body weight (41 to 158 kg), and mild to moderate renal impairment (CLcr 30 to 89 mL/min based on Cockcroft Gault) did not have a clinically meaningful effect on the pharmacokinetics of decitabine and cedazuridine after dosing with INQOVI.
 
 The effects of moderate (total bilirubin > 1.5 to 3 × ULN and any AST) and severe hepatic impairment (total bilirubin > 3 × ULN and any AST) or severe renal impairment (CLcr 15 to <30 mL/min) and ESRD (CLcr <15 mL/min) on the pharmacokinetics of decitabine and cedazuridine are unknown.
