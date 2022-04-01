@@ -31,7 +31,7 @@ The mean increase in QTc from baseline for ziprasidone ranged from approximately
 
 In the second phase of the study, the effect of ziprasidone on QTc length was not augmented by the presence of a metabolic inhibitor (ketoconazole 200 mg twice daily).
 
-In placebo-controlled trials, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
+In placebo-controlled trials in adults, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
 In clinical trials with oral ziprasidone, the electrocardiograms of 2/2988 (0.06%) patients who received ziprasidone capsules and 1/440 (0.23%) patients who received placebo revealed QTc intervals exceeding the potentially clinically relevant threshold of 500 msec.
 In the ziprasidone-treated patients, neither case suggested a role of ziprasidone.
 One patient had a history of prolonged QTc and a screening measurement of 489 msec; QTc was 503 msec during ziprasidone treatment.
@@ -129,7 +129,7 @@ Patients who develop symptoms of hyperglycemia during treatment with atypical an
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
 
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Table 1 to 4.
-Note that for the flexible dose study in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
+Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
 In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
 
 Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
@@ -212,7 +212,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 *”Random” lipid measurements, fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
-In long-term (at least 1 year), placebo- controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
+In long-term (at least 1 year), placebo- controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28 mg/dL (N=9).
 
 Table 7: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder
 
@@ -355,8 +355,8 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 ## 5.15 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
-In the 4- and 6-week placebo-controlled trials, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
-Somnolence led to discontinuation in 0.3% of patients in short-term clinical trials.
+In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
+Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adults.
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
 ## 5.16 Priapism
@@ -375,7 +375,7 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients With Concomitant Illnesses
+## 5.19 Patients With Concomitant Illness
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 

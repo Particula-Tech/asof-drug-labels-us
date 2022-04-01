@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
+Clinical trials in adults for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
 These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000; and (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
 An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
@@ -111,7 +111,7 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Adverse reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions:
 
-Frequent - adverse reactions occurring in at least 1/100 patients (≥1.0% of patients) (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing);
+Frequent - adverse reactions occurring in at least 1/100 patients (≥1% of patients) (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing);
 
 Infrequent - adverse reactions occurring in 1/100 to 1/1000 patients (in 0.1 to 1 % of patients)
 
@@ -160,7 +160,7 @@ Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of pat
 
 BIPOLAR DISORDER
 
-Acute Treatment of Manic or Mixed Episodes
+Acute Treatment of Manic or Mixed Episodes in Adults
 
 Adverse Reactions Associated With Discontinuation of Treatment in Short Term, Placebo-Controlled Trials
 
@@ -222,4 +222,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following:
 
-Cardiac Disorders Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [see Warnings and Precautions (5.3)]; Digestive System Disorders Swollen Tongue; Reproductive System and Breast Disorders Galactorrhea, priapism; Nervous System Disorders Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders Enuresis, urinary incontinence; Vascular Disorders Postural hypotension, syncope.
+Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [see Warnings and Precautions (5.3)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous: Tissue Disorders Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
