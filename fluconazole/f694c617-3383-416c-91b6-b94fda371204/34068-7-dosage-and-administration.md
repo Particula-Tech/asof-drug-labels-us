@@ -141,5 +141,5 @@ The concentrations of the reconstituted suspensions are as follows:
 | 1400 mg | 40 mg/mL |
 
 Note: Shake oral suspension well before using.
-Store reconstituted suspension between 86°F (30°C) and 41°F (5°C) and discard unused portion after 2 weeks.
+Store reconstituted suspension between 30°C (86°F) and 5°C (41°F) and discard unused portion after 2 weeks.
 Protect from freezing.

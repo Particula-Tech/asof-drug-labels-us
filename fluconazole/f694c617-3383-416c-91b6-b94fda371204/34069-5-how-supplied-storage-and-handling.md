@@ -29,7 +29,7 @@ DIFLUCAN 200 mg Tablets: Engraved with "DIFLUCAN" and "200" on the front and "RO
 
 ## Storage
 
-Store tablets below 86°F (30°C).
+Store tablets below 30°C (86°F).
 
 DIFLUCAN for Oral Suspension: DIFLUCAN for Oral Suspension is supplied as an orange-flavored powder to provide 35 mL per bottle as follows:
 
@@ -39,6 +39,6 @@ DIFLUCAN for Oral Suspension: DIFLUCAN for Oral Suspension is supplied as an ora
 
 ## Storage
 
-Store dry powder below 86°F (30°C).
-Store reconstituted suspension between 86°F (30°C) and 41°F (5°C) and discard unused portion after 2 weeks.
+Store dry powder below 30°C (86°F).
+Store reconstituted suspension between 30°C (86°F) and 5°C (41°F) and discard unused portion after 2 weeks.
 Protect from freezing.
