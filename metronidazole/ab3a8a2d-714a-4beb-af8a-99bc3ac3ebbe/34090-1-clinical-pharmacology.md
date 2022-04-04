@@ -7,6 +7,7 @@ The mechanism of action of metronidazole in the treatment of rosacea is unknown.
 ## 12.2 Pharmacodynamics
 
 The pharmacodynamics of metronidazole in association with the treatment of rosacea are unknown.
+Cardiac Electrophysiology: The effect of METROGEL on the QTc interval has not been adequately characterized.
 
 ## 12.3 Pharmacokinetics
 

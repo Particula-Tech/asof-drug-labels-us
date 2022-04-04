@@ -1,3 +1,3 @@
-# 1 INDICATIONS AND USAGE AND USAGE
+# 1 INDICATIONS AND USAGE
 
-METROGEL® is indicated for the topical treatment of inflammatory lesions of rosacea.
+METROGEL, 1% is indicated for the topical treatment of inflammatory lesions of rosacea.

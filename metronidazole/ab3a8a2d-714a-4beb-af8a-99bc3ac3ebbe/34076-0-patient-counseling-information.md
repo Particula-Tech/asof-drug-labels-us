@@ -1,17 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients using METROGEL should receive the following information and instructions.:
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-1. This medication is to used as directed.
-2. It is for external use only.
-3. Avoid contact with the eyes.
-4. Cleanse affected area(s) before applying METROGEL.
-5. This medication should not be used for any condition other than that for which it is prescribed.
-6. Keep out of reach of children.
-7. Patients should report any adverse reaction to their physicians.
+Administration Instructions Use as directed.
+Avoid contact with the eyes.
+Cleanse treated areas before the application of METROGEL Advise patients to report any adverse reaction to their healthcare providers.
+Lactation Advise women not to breastfeed during treatment with METROGEL [see Use in Specific Populations (8.2)].
 
 Rx Only US Patent No. 6,881,726 and 7,348,317
 
-Manufactured by: G Production Inc. Baie D'Urfé, QC, H8X 3S4 Canada Made in Canada.
 Marketed by: Galderma Laboratories, L.P.
-Fort Worth, TX 76177 USA P50742-3
+Fort Worth, TX 76177 USA P50742-4 Made in Candada All trademarks are the property of their respective owners.

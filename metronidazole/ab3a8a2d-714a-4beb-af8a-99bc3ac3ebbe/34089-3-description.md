@@ -1,6 +1,7 @@
 # 11 DESCRIPTION
 
-METROGEL (metronidazole) Gel, 1% contains metronidazole, USP.
+METROGEL contains metronidazole, USP.
+It is intended for topical use.
 Chemically, metronidazole is 2-methyl-5-nitro-1 H-imidazole-1-ethanol.
 The molecular formula for metronidazole is C6H9N3O3.
 It has the following structural formula:
