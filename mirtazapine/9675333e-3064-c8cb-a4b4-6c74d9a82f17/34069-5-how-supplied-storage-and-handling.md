@@ -7,10 +7,6 @@ They are supplied as follows:
 
 Bottles of 30 NDC 60505-0247-1
 
-Bottles of 100 NDC 60505-0247-3
-
-Bottles of 500 NDC 60505-0247-5
-
 Bottles of 1,000 NDC 60505-0247-8
 
 Mirtazapine Tablets, USP 30 mg are available for oral administration as light pink, oval-shaped, scored, film-coated tablets imprinted “APO” on one side and “MI” bisect “30” on the other side.
@@ -18,20 +14,12 @@ They are supplied as follows:
 
 Bottles of 30 NDC 60505-0248-1
 
-Bottles of 100 NDC 60505-0248-3
-
-Bottles of 500 NDC 60505-0248-5
-
 Bottles of 1,000 NDC 60505-0248-8
 
 Mirtazapine Tablets, USP 45 mg are available for oral administration as white to off-white, oval-shaped, unscored, film-coated tablets imprinted “APO” on one side and “MI-45” on the other side.
 They are supplied as follows:
 
 Bottles of 30 NDC 60505-0249-1
-
-Bottles of 100 NDC 60505-0249-3
-
-Bottles of 500 NDC 60505-0249-5
 
 Bottles of 1,000 NDC 60505-0249-8
 

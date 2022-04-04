@@ -24,7 +24,7 @@ Plasma levels of mirtazapine are linearly related to dose over a dose range of 1
 Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio=1.5).
 The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
 
-Absorbtion
+Absorption
 
 Mirtazapine has an absolute bioavailability of about 50% following oral administration.
 Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose.
@@ -57,7 +57,7 @@ Specific Populations
 Geriatric Patients
 
 Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
-The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.14), Use in Specific Populations (8.5)].
+The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.15), Use in Specific Populations (8.5)].
 
 Male and Female Patients
 
@@ -69,11 +69,11 @@ There have been no clinical studies to evaluate the effect of race on the pharma
 
 Patients with Renal Impairment
 
-When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m2) [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
+When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m2) [see Warnings and Precautions (5.15), Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.12, 5.14), Use in Specific Populations (8.6)].
+Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions(5.13, 5.15), Use in Specific Populations (8.6)].
 
 Drug Interactions Studies
 

@@ -234,6 +234,11 @@ You may want to undergo an eye examination to see if you are at risk and receive
 
 • Heart rhythm problems.
 
+• Severe skin reaction.
+Mirtazapine tablets may cause a severe skin reaction that may include rash, fever, swollen glands, and other organ involvement such as liver, kidney, lung and heart.
+The reaction may sometimes be fatal.
+Tell your healthcare provider right away if you experience any of these signs.
+
 • Increased appetite and weight gain.
 
 • Sleepiness.
@@ -369,7 +374,7 @@ APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: May 2021
+Revised: March 2022
 
 Rev.
-17
+18

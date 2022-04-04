@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behaviors
 
-Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Agranulocytosis
 
@@ -20,24 +20,28 @@ QTc Prolongation and Torsades de Pointes
 Inform patients to consult their physician immediately if they feel faint, lose consciousness, or have heart palpitations [see Warnings and Precautions (5.5), Drug Interactions (7), Overdosage (10)].
 Advise patients to inform physicians that they are taking mirtazapine tablets before any new drug is taken.
 
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Advise patients to report to their healthcare provider at the earliest onset of fever, rash, swollen lymph nodes, or other signs and symptoms suggestive of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Contraindications (4), Warnings and Precautions (5.6)].
+
 Somnolence
 
 Advise patients that mirtazapine tablets may impair judgment, thinking, and particularly, motor skills, because of its prominent sedative effect.
 Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that mirtazapine tablets therapy does not adversely affect their ability to engage in such activities.
-[see Warnings and Precautions (5.7)].
+[see Warnings and Precautions (5.8)].
 
 Alcohol
 
-Advise patients to avoid alcohol while taking mirtazapine tablets [see Warnings and Precautions (5.7), Drug Interactions (7)].
+Advise patients to avoid alcohol while taking mirtazapine tablets [see Warnings and Precautions (5.8), Drug Interactions (7)].
 
 Activation of Mania/Hypomania
 
-Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.8)].
+Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.9)].
 
 Discontinuation Syndrome
 
 Advise patients not to abruptly discontinue mirtazapine tablets and to discuss any tapering regimen with their healthcare provider.
-Adverse reactions can occur when mirtazapine tablets are discontinued [see Dosage and Administration (2.6), Warnings and Precautions (5.13)].
+Adverse reactions can occur when mirtazapine tablets are discontinued [see Dosage and Administration (2.6),Warnings and Precautions (5.14)].
 
 Allergic Reactions
 
@@ -73,6 +77,6 @@ MIRTAZAPINE TABLETS, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9l 1T9 | 33326 |
 
-Revised: May 2021
+Revised: March 2022
 
-Rev: 17
+Rev: 18

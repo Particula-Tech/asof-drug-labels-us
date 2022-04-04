@@ -3,12 +3,12 @@
 ## 2.1 Recommended Dosage
 
 The recommended starting dose of mirtazapine tablets is 15 mg once daily, administered orally, preferably in the evening prior to sleep.
-If patients do not have an adequate response to the initial 15 mg dose increase the dose up to a maximum of 45 mg per day.
+If patients do not have an adequate response to the initial 15 mg dose, increase the dose up to a maximum of 45 mg per day.
 Dose changes should not be made in intervals of less than 1 to 2 weeks to allow sufficient time for evaluation of response to a given dose [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Screen for Bipolar Disorder Prior to Starting Mirtazapine Tablets
 
-Prior to initiating treatment with mirtazapine tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.8)].
+Prior to initiating treatment with mirtazapine tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.9)].
 
 ## 2.4 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
@@ -25,7 +25,7 @@ Conversely, a decrease in dosage of mirtazapine tablets may be needed if the CYP
 Strong CYP3A Inhibitors
 
 A decrease in dosage of mirtazapine tablets may be needed with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole, clarithromycin).
-Conversely, an increase in dosage of mirtazapine tablets may be needed if the CYP3A4 inducer is discontinued [see Drug Interactions (7)].
+Conversely, an increase in dosage of mirtazapine tablets may be needed if the CYP3A4 inhibitor is discontinued [see Drug Interactions (7)].
 
 Cimetidine
 
@@ -34,5 +34,5 @@ Conversely, an increase in dosage of mirtazapine tablets may be needed if cimeti
 
 ## 2.6 Discontinuation of Mirtazapine Tablets Treatment
 
-Adverse reactions may occur upon discontinuation or dose reduction of mirtazapine tablets [see Warnings and Precautions (5.13)].
+Adverse reactions may occur upon discontinuation or dose reduction of mirtazapine tablets [see Warnings and Precautions (5.14)].
 Gradually reduce the dosage of mirtazapine tablets rather than stopping abruptly whenever possible.

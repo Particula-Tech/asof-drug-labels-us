@@ -14,23 +14,25 @@ The following adverse reactions are described in more detail in other sections o
 
 • QT Prolongation and Torsades de Pointes [see Warnings and Precautions (5.5)]
 
-• Increased Appetite and Weight Gain [see Warnings and Precautions (5.6)]
+• Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 
-• Somnolence [see Warnings and Precautions (5.7)]
+• Increased Appetite and Weight Gain [see Warnings and Precautions (5.7)]
 
-• Activation of Mania or Hypomania [see Warnings and Precautions (5.8)]
+• Somnolence [see Warnings and Precautions (5.8)]
 
-• Seizures [see Warnings and Precautions (5.9)]
+• Activation of Mania or Hypomania [see Warnings and Precautions (5.9)]
 
-• Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.10)]
+• Seizures [see Warnings and Precautions (5.10)]
 
-• Hyponatremia [see Warnings and Precautions (5.11)]
+• Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.11)]
 
-• Transaminase Elevations [see Warnings and Precautions (5.12)]
+• Hyponatremia [see Warnings and Precautions (5.12)]
 
-• Discontinuation Syndrome [see Warnings and Precautions (5.13)]
+• Transaminase Elevations [see Warnings and Precautions (5.13)]
 
-• Use in Patients with Concomitant Illness [see Warnings and Precautions (5.14)]
+• Discontinuation Syndrome [see Warnings and Precautions (5.14)]
+
+• Use in Patients with Concomitant Illness [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -148,4 +150,4 @@ Psychiatric disorders: somnambulism (ambulation and other complex behaviors out 
 
 Reproductive system and breast disorder: priapism
 
-Skin and subcutaneous tissue disorders: severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis
+Skin and subcutaneous tissue disorders: severe skin reactions, including DRESS, Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis
