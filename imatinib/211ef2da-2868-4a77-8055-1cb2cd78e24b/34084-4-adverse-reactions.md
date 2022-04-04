@@ -39,7 +39,7 @@ Adverse reactions, regardless of relationship to study drug, that were reported 
 
 Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Gleevec versus IFN+Ara-C Study (greater than or equal to 10% of Gleevec-treated patients)(1)
 
-|  | All Grades |  | CTC Grades*3/4 |  |
+|  | All Grades |  | CTC Grades* 3/4 |  |
 | --- | --- | --- | --- | --- |
 |  | Gleevec | IFN+Ara−C | Gleevec | IFN+Ara−C |
 | Preferred Term | N = 551 (%) | N = 533 (%) | N = 551 (%) | N = 533 (%) |
@@ -71,7 +71,7 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Insomnia | 14.7 | 18.6 | 0 | 2.3 |
 | Depression | 14.9 | 35.8 | 0.5 | 13.1 |
 | Influenza | 13.8 | 6.2 | 0.2 | 0.2 |
-| Bone Pain | 11.3 | 15.6 | 1.6 | 3.4 |
+| Bone pain | 11.3 | 15.6 | 1.6 | 3.4 |
 | Constipation | 11.4 | 14.4 | 0.7 | 0.2 |
 | Sinusitis | 11.4 | 6.0 | 0.2 | 0.2 |
 | Abbreviations: CML, chronic myeloid leukemia; CNS, central nervous system; CTC, common terminology criteria; GI, gastrointestinal; IFN, Interferon-alpha. *NCI Common Terminology Criteria for Adverse Events, version 3.0. (1)All adverse reactions occurring in greater than or equal to10% of Gleevec-treated patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |
@@ -225,7 +225,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 600 mg n = 223 400 mg n = 37 |  | 600 mg n = 158 400 mg n = 77 |  | 400 mg |  |
 |  | % |  | % |  | % |  |
-| CTC Grades1 | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| CTC Grades(1) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology Parameters |  |  |  |  |  |  |
 | − Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
 | − Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | < 1 |
@@ -262,7 +262,7 @@ The study population included patients with a median age of 10 years (1 to 21 ye
 Patients with Ph+ ALL (n = 92) were assigned to receive Gleevec and treated in 5 successive cohorts.
 Gleevec exposure was systematically increased in successive cohorts by earlier introduction and more prolonged duration.
 
-The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (less than 750/mcL) and thrombocytopenia (less than 75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
+The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of Grade 3 and 4 adverse events, neutropenia (less than 750/mcL) and thrombocytopenia (less than 75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
 The safety was also evaluated comparing the incidence of adverse events in cycles of therapy administered with or without Gleevec.
 The protocol included up to 18 cycles of therapy.
 Patients were exposed to a cumulative total of 1425 cycles of therapy, 778 with Gleevec, and 647 without Gleevec.
@@ -366,14 +366,14 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 |  | N = 12 |  |
 | --- | --- | --- |
-| CTC Grades1 | Grade 3 % | Grade 4 % |
+| CTC Grades(1) | Grade 3 % | Grade 4 % |
 | Hematology Parameters |  |  |
 | - Anemia | 17 | 0 |
 | - Thrombocytopenia | 17 | 0 |
 | - Neutropenia | 0 | 8 |
 | Biochemistry Parameters |  |  |
 | - Elevated Creatinine | 0 | 8 |
-| Abbreviation: CTC, common terminology criteria. 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN). |  |  |
+| Abbreviation: CTC, common terminology criteria. (1)CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN). |  |  |
 
 Gastrointestinal Stromal Tumors
 
@@ -581,7 +581,7 @@ Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferre
 | Dry skin | 6.7 | 6.1 | 0.5 | 0 |
 | Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
 | Palpitations | 5.2 | 5.1 | 0 | 0 |
-| Abbreviations: AE, adverse event; CTC, common terminology criteria. (1)All adverse reactions occurring in greater than or equal to5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
+| Abbreviations: AE, adverse event; CTC, common terminology criteria. (1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
 Adverse Reactions from Multiple Clinical Trials
 
@@ -716,7 +716,7 @@ Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor
 
 Infections: hepatitis B virus reactivation1
 
-Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 
 Nervous System Disorders: cerebral edema1
 
@@ -724,7 +724,7 @@ Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
 Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
 
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria
+Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria, pemphigus
 
 Vascular Disorders: thrombosis/embolism, anaphylactic shock
 

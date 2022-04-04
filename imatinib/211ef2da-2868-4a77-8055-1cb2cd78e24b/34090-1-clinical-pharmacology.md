@@ -8,8 +8,8 @@ Imatinib inhibits colony formation in assays using ex vivo peripheral blood and 
 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
-Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-kit, and inhibits PDGF- and SCF-mediated cellular events.
-In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-kit mutation.
+Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
+In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-Kit mutation.
 
 ## 12.3 Pharmacokinetics
 

@@ -6,8 +6,8 @@ Gleevec is often associated with edema and occasionally serious fluid retention 
 Weigh and monitor patients regularly for signs and symptoms of fluid retention.
 Investigate unexpected rapid weight gain carefully and provide appropriate treatment.
 The probability of edema was increased with higher Gleevec dose and age greater than 65 years in the CML studies.
-Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
-In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
+Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking Gleevec, and in 2% to 6% of other adult CML patients taking Gleevec.
+In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2% to 6% of other adult CML patients taking Gleevec.
 Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.1)].
 In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Gleevec and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving Gleevec and in 3.9% of patients receiving nilotinib 300 mg twice daily.
 Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the Gleevec arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
@@ -25,7 +25,7 @@ These generally occur within the first several months of therapy [see Dosage and
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities, including previous medical history of cardiac disease.
 In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patient in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patients in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 

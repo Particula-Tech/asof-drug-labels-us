@@ -210,7 +210,7 @@ Table 21: Effect of Gleevec on Relapsed/Refractory Ph+ ALL
 | MCyR | 15 (35) |  |
 | CCyR | 9 (21) |  |
 | PCyR | 6 (14) |  |
-| Abbreviations: CCyR, complete cytogenetic response; CHR, complete hematologic response; MCyR, major cytogenetic response; NEL, no evidence of Leukemia; PCyR, partial cytogenic response; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; PHR, partial hematologic response; RTC, return to chronic phase. |  |  |
+| Abbreviations: CCyR, complete cytogenetic response; CHR, complete hematologic response; MCyR, major cytogenetic response; NEL, no evidence of leukemia; PCyR, partial cytogenic response; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; PHR, partial hematologic response; RTC, return to chronic phase. |  |  |
 
 ## 14.4 Pediatric ALL
 
@@ -259,7 +259,7 @@ Table 22: Response in MDS/MPD
 | Chromosome 4 Translocation | 2 | 2 (100) | 1 (50) |
 | Others/no Translocation | 14 | 1 (7) | 0 |
 | Molecular Relapse | 1 | NE | NE |
-| Abbreviations: NE, not evaluable; MDS/MDP, myelodysplastic/myeloproliferative disease. |  |  |  |
+| Abbreviations: NE, not evaluable; MDS/MPD, myelodysplastic/myeloproliferative disease. |  |  |  |
 
 ## 14.6 Aggressive Systemic Mastocytosis
 
@@ -274,7 +274,7 @@ Patients with this cytogenetic abnormality were predominantly males and had eosi
 Two patients had a Kit mutation in the juxtamembrane region (one Phe522Cys and one K509I) and four patients had a D816V c-Kit mutation (not considered sensitive to Gleevec), one with concomitant CML.
 
 Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (PHR) (61% overall response rate).
-Median duration of Gleevec therapy for the 5 ASM patients in the Phase 2 study was 13 months (range\, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
+Median duration of Gleevec therapy for the 5 ASM patients in the Phase 2 study was 13 months (range, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
 A summary of the response rates to Gleevec in ASM is provided in Table 23.
 Response durations of literature patients ranged from 1+ to 30+ months.
 
