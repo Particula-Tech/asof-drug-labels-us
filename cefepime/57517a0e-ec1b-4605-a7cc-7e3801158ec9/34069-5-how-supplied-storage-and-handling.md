@@ -3,7 +3,7 @@
 Cefepime for Injection USP and Dextrose Injection USP in the DUPLEX® Container is a flexible dual chamber container supplied in two strengths, 1 and 2 g cefepime.
 The diluent chamber contains approximately 50 mL of 5% Dextrose Injection.
 
-Cefepime for Injection USP and Dextrose Injection USP is supplied sterile and nonpyrogenic in the DUPLEX® Container packaged 24 units per case.
+Cefepime for Injection USP and Dextrose Injection USP is supplied sterile and nonpyrogenic in the DUPLEX Container packaged 24 single-dose units per case.
 
 | NDC | REF | Dose | Volume |
 | --- | --- | --- | --- |
@@ -14,6 +14,8 @@ Store the unactivated unit at 20–25°C (68–77°F).
 Excursions permitted to 15–30°C (59–86°F).
 [See USP Controlled Room Temperature.]
 Do not freeze.
+
+Not made with natural rubber latex, PVC or Di(2-ethylhexyl)phthalate (DEHP).
 
 As with other cephalosporins, reconstituted Cefepime for Injection USP and Dextrose Injection USP tends to darken depending on storage conditions, within the stated recommendations.
 However, product potency is not adversely affected.

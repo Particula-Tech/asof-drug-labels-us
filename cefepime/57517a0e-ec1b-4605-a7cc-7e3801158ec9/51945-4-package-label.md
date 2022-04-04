@@ -4,21 +4,21 @@ Cefepime for Injection USP and Dextrose Injection USP 1g*
 
 REF 3193-11 NDC 0264-3193-11
 
-DUPLEX® CONTAINER
+DUPLEX®CONTAINER
 
 50 mL
 
 Use only after mixing contents of both chambers.
 
-For IV Use Only Hyperosmotic Single Dose Sterile/Nonpyrogenic
+For IV Use Only Hyperosmotic Single-Dose Sterile/Nonpyrogenic
 
 * Contains sterile Cefepime Hydrochloride USP equivalent to 1 g of cefepime and L-arginine for pH adjustment.
 
-After reconstitution each 50 mL single dose unit contains: Cefepime for Injection (equivalent to 1 g cefepime) with approximately 2.83 g (5% w/v) Hydrous Dextrose USP in Water for Injection USP.
+After reconstitution each 50 mL single-dose unit contains: Cefepime for Injection (equivalent to 1 g cefepime) with approximately 2.83 g (5% w/v) Hydrous Dextrose USP in Water for Injection USP.
 Approximate osmolality: 431 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature.].
+Excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
 After foil strip removal, product must be used within 7 days, but not beyond the labeled expiration date.
@@ -37,13 +37,14 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 See package insert for complete directions for reconstitution and administration.
 Do not freeze.
+Discard unused portion.
 
 Not made with natural rubber latex, PVC or DEHP.
 Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
-Y37-002-555 LD-210-6
+Y37-002-579 LD-210-7
 
 EXP LOT
 
@@ -56,21 +57,21 @@ Cefepime for Injection USP and Dextrose Injection USP 2g*
 
 REF 3195-11 NDC 0264-3195-11
 
-DUPLEX® CONTAINER
+DUPLEX®CONTAINER
 
 50 mL
 
 Use only after mixing contents of both chambers.
 
-For IV Use Only Hyperosmotic Single Dose Sterile/Nonpyrogenic
+For IV Use Only Hyperosmotic Single-Dose Sterile/Nonpyrogenic
 
 * Contains sterile Cefepime Hydrochloride USP equivalent to 2 g of cefepime and L-arginine for pH adjustment.
 
-After reconstitution each 50 mL single dose unit contains: Cefepime for Injection (equivalent to 2 g cefepime) with approximately 2.83 g (5% w/v) Hydrous Dextrose USP in Water for Injection USP.
+After reconstitution each 50 mL single-dose unit contains: Cefepime for Injection (equivalent to 2 g cefepime) with approximately 2.83 g (5% w/v) Hydrous Dextrose USP in Water for Injection USP.
 Approximate osmolality: 577 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature.].
+Excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
 After foil strip removal, product must be used within 7 days, but not beyond the labeled expiration date.
@@ -89,13 +90,14 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 See package insert for complete directions for reconstitution and administration.
 Do not freeze.
+Discard unused portion.
 
 Not made with natural rubber latex, PVC or DEHP.
 Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
-Y37-002-556 LD-211-6
+Y37-002-580 LD-211-7
 
 EXP LOT
 

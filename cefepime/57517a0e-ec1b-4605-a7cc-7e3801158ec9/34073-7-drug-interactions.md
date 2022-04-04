@@ -1,9 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Aminoglycosides
+## 7.1 Drug/Laboratory Test Interactions
 
-Renal function should be monitored carefully if high doses of aminoglycosides are to be administered with Cefepime for Injection USP and Dextrose Injection USP because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
+The administration of Cefepime for Injection and Dextrose Injection may result in a false-positive reaction for glucose in the urine with certain methods.
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.
 
-## 7.2 Diuretics
+## 7.2 Aminoglycosides
+
+Monitor renal function if aminoglycosides are to be administered with Cefepime for Injection and Dextrose Injection because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibacterials.
+
+## 7.3 Diuretics
 
 Nephrotoxicity has been reported following concomitant administration of cephalosporins with potent diuretics such as furosemide.
+Monitor renal function when cefepime is concomitantly administered with potent diuretics.
