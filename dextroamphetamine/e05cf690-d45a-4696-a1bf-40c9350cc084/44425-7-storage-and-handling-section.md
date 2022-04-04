@@ -2,15 +2,13 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in well-closed containers with a child-resistant closure as defined in the USP.
 
-DEA Order Form Required.
-
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2021 Mallinckrodt.
+© 2022 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 12/2021
+Rev 02/2022
 
 Mallinckrodt™ Pharmaceuticals
 
