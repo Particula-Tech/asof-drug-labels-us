@@ -35,9 +35,9 @@ Ahmedabad 382213, INDIA
 
 Distributed by:
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
 Rev.
-08-2018-00
+02-2022-01

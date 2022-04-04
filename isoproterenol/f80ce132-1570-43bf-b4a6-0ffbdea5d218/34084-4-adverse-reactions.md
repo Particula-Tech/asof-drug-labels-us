@@ -12,4 +12,4 @@ Respiratory: Dyspnea.
 
 Other: Flushing of the skin, sweating, mild tremors, weakness, pallor.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Biosciences at 1-855-266-3251 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
