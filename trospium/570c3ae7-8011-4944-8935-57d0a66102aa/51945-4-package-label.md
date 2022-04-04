@@ -10,8 +10,6 @@ Pharmacist: Please Dispense with Patient Information Leaflet Provided Separately
 
 Rx only
 
-Heritage
-
 NDC 23155-530-02
 
 Trospium Chloride Tablets, USP 20 mg
@@ -21,5 +19,3 @@ Pharmacist: Please Dispense with Patient Information Leaflet Provided Separately
 200 Tablets
 
 Rx only
-
-Heritage

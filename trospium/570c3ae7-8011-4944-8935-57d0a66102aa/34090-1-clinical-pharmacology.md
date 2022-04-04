@@ -56,15 +56,13 @@ Figure 1 - Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose o
 Distribution: Protein binding ranged from 50 to 85% when concentration levels of trospium chloride (0.5 to 50 ng/mL) were incubated with human serum in vitro.
 
 The 3H-trospium chloride ratio of plasma to whole blood was 1.6:1.
-This ratio indicates that the majority of 3H-trospium chloride is distributed in plasma.
-
-The apparent volume of distribution for a 20 mg oral dose is 395 (± 140) liters.
+This ratio indicates that the majority of 3H-trospium chloride is distributed in plasma.The apparent volume of distribution for a 20 mg oral dose is 395 (± 140) liters.
 
 Metabolism: The metabolic pathway of trospium in humans has not been fully defined.
 Of the 10% of the dose absorbed, metabolites account for approximately 40% of the excreted dose following oral administration.
 The major metabolic pathway is hypothesized as ester hydrolysis with subsequent conjugation of benzylic acid to form azoniaspironortropanol with glucuronic acid.
 Cytochrome P450 (CYP) is not expected to contribute significantly to the elimination of trospium.
-Data taken from in vitro human liver microsomes investigating the inhibitory effect of trospium on seven CYP isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
+Data taken from in vitro human liver microsomes investigating the inhibitory effect of trospium on seven CYP isoenzyme substrates (CYP1A2,2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
 
 Excretion: The plasma half-life for trospium chloride following oral administration is approximately 20 hours.
 After oral administration of an immediate-release formulation of 14C-trospium chloride, the majority of the dose (85.2%) was recovered in feces and a smaller amount (5.8% of the dose) was recovered in urine; 60% of the radioactivity excreted in urine was unchanged trospium.
@@ -82,7 +80,7 @@ The effect of decrease in trospium exposure on the efficacy of SANCTURA XR®+ [a
 The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR®+ [an extended release form of trospium chloride capsules, 60 mg] once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
 
-Specific Populations
+Specif﻿﻿ic Populations
 
 Age: Age did not appear to significantly affect the pharmacokinetics of trospium chloride, however, increased anticholinergic side effects unrelated to drug exposure were observed in patients greater than or equal to 75 years of age [see Use in Specific Populations (8.5)].
 
@@ -95,9 +93,9 @@ When a single 40 mg trospium chloride tablets dose was administered to 16 elderl
 When 20 mg trospium chloride tablets was dosed twice daily for 4 days to 6 elderly males and 6 elderly females (60 to 75 years), AUC and Cmax were 26% and 68% higher, respectively, in females without hormone replacement therapy than in males.
 
 Renal Impairment: In a clinical pharmacokinetic study where a single dose of 40 mg immediate release trospium chloride was administered to 12 healthy males and 12 males with severe renal impairment, severe renal impairment (creatinine clearance less than 30 mL/minute) significantly altered the disposition of trospium chloride.
-A 4.2-fold and 1.8-fold increase in mean AUC(0-∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
+A 4.2-fold and 1.8-fold increase in mean AUC(0-∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half life (~33 hours vs. 18 hours) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
 The different pharmacokinetic behavior of trospium chloride in patients with severe renal impairment necessitates adjustment of dosage frequency [see Dosage and Administration (2)].
 The pharmacokinetics of trospium have not been studied in patients with creatinine clearance ranging from 30 to 80 mL/min.
 
-Hepatic Impairment: In a clinical pharmacokinetic study in patients with mild (Child-Pugh score 5 to 6) and with moderate (Child-Pugh score 7 to 8) hepatic impairment, given a single dose of 40 mg immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
+Hepatic Impairment: In a clinical pharmacokinetic study in patients with mild (Child-Pugh score 5 to 6) and with moderate (Child-Pugh score 7 to 8) hepatic impairment, given a single dose of 40 mg immediaterelease trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC (0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 There is no information regarding the effect of severe hepatic impairment on exposure to trospium chloride.
