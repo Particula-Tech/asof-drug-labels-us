@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207986"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "ALK-Abello, Inc.",
+  "package_ndcs": [
+    "0268-8200-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "otiprio",
+      "name": "OTIPRIO"
+    }
+  ],
+  "setid": "31e8074e-63a7-409b-bd85-b6102199618b",
+  "source": "dailymed"
+}
