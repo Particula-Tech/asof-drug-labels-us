@@ -1,13 +1,5 @@
-# PRINCIPAL DISPLAY PANEL
+# CITALOPRAM TABLETS 10 MG
 
-Citalopram Tablets USP 10 mg: Label (Indrad Site)
+# CITALOPRAM TABLETS 20 MG
 
-Citalopram Tablets USP 20 mg: Label (Indrad Site)
-
-Citalopram Tablets USP 40 mg: Label (Indrad Site)
-
-Citalopram Tablets USP 10 mg: Label (Bharuch Site)
-
-Citalopram Tablets USP 20 mg: Label (Bharuch Site)
-
-Citalopram Tablets USP 40 mg: Label (Bharuch Site)
+# CITALOPRAM TABLETS 40 MG
