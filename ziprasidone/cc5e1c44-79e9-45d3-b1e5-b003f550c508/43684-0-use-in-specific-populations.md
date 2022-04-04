@@ -81,10 +81,6 @@ Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with
 
 The safety and effectiveness of ziprasidone have not been established in pediatric patients.
 
-Ziprasidone was studied in one 4-week, placebo-controlled trial in patients 10 to 17 years of age with bipolar I disorder.
-However, the data were insufficient to fully assess the safety of ziprasidone in pediatric patients.
-Therefore, a safe and effective dose for use could not be established.
-
 ## 8.5 Geriatric Use
 
 Of the total number of subjects in clinical studies of ziprasidone, 2.4 percent were 65 and over.

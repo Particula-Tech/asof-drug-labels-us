@@ -221,7 +221,7 @@ Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Plac
 | Nausea | 10 | 7 |
 | Diarrhea | 5 | 4 |
 | Dry Mouth | 5 | 4 |
-| Vomting | 5 | 2 |
+| Vomiting | 5 | 2 |
 | Increased Salivation | 4 | 0 |
 | Tongue Edema | 3 | 1 |
 | Dysphagia | 2 | 0 |
