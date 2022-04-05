@@ -42,17 +42,11 @@ Lactation
 
 Advise women not to breastfeed during treatment with alprazolam tablets [see Use in Specific Populations (8.2)].
 
-Manufactured by:
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Actavis Elizabeth LLC
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Elizabeth, NJ 07207 USA
-
-Distributed by:
-
-Actavis Pharma, Inc.
-
-Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 3/2021
+B 2/2022

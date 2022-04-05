@@ -19,9 +19,10 @@ The data in the two tables below are estimates of adverse reaction incidence amo
 - 4-week placebo-controlled clinical studies with alprazolam dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
 - Short-term (up to 10 weeks) placebo-controlled clinical studies with alprazolam dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
 
-| Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety |  |  |
-| --- | --- | --- |
+Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety
+
 |  | Alprazolam n=565 | Placebo n=505 |
+| --- | --- | --- |
 | Nervous system disorders |  |  |
 | Drowsiness | 41% | 22% |
 | Light-headedness | 21% | 19% |
@@ -37,9 +38,10 @@ The data in the two tables below are estimates of adverse reaction incidence amo
 
 In addition to the adverse reactions (i.e., greater than 1%) enumerated in the table above for patients with generalized anxiety disorder, the following adverse reactions have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
-| Table 2: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder |  |  |
-| --- | --- | --- |
+Table 2: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder
+
 |  | Alprazolam n=1388 | Placebo n=1231 |
+| --- | --- | --- |
 | Drowsiness | 77% | 43% |
 | Fatigue and Tiredness | 49% | 42% |
 | Impaired Coordination | 40% | 18% |
@@ -64,9 +66,10 @@ Adverse Reactions Reported as Reasons for Discontinuation in Treatment of Panic 
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo-treated group are shown in Table 3.
 
-| Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-treated Patients and > Placebo-treated Patients |  |
-| --- | --- |
+Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-treated Patients and > Placebo-treated Patients
+
 |  | Alprazolam-treated Patients n=641 |
+| --- | --- |
 | Nervous system disorders |  |
 | Insomnia | 29.5% |
 | Light-headedness | 19.3% |
@@ -109,7 +112,7 @@ Instances of irritability, hostility, and intrusive thoughts have been reported 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of alprazolam.
+The following adverse reactions have been identified during postapproval use of alprazolam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Endocrine disorders: Hyperprolactinemia
