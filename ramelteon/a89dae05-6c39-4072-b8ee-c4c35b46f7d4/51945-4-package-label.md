@@ -9,5 +9,3 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 Rx only
 
 100 Tablets
-
-TEVA

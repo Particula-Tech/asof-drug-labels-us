@@ -6,5 +6,7 @@ NDC 0591-2191-30 Bottles of 30
 
 NDC 0591-2191-01 Bottles of 100
 
+Dispense in a tight, light-resistant container with child-resistant closure.
+
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Keep container tightly closed and protected from moisture and humidity.

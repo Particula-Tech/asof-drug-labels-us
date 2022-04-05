@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-Ramelteon (ra-mel'-tee-on)
-
-Tablets
+Ramelteon (ra mel' tee on) Tablets
 
 Read the Medication Guide that comes with ramelteon tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -112,11 +110,10 @@ Possible serious side effects of ramelteon tablets include:
 - hormone effects.
   Ramelteon tablets can decrease testosterone levels and increase prolactin levels in the blood.
   Symptoms of low testosterone or high prolactin levels are:
-
-- decreased interest in sex
-- problems getting pregnant
-- irregular menstrual periods or no menstrual periods
-- leakage of milk from the nipples of a person who is not breastfeeding
+  - decreased interest in sex
+  - problems getting pregnant
+  - irregular menstrual periods or no menstrual periods
+  - leakage of milk from the nipples of a person who is not breastfeeding
 
 Call your doctor right away if you have any of the above side effects or any other side effects that worry you while using ramelteon tablets.
 Call your doctor for medical advice about side effects.
@@ -135,7 +132,7 @@ Ask your doctor or pharmacist for more information.
 
 How should I Store ramelteon tablets?
 
-- Store ramelteon tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+- Store ramelteon tablets at (68° to 77°F) 20° to 25°C [See USP Controlled Room Temperature].
   Keep the container tightly closed and protected from moisture and humidity.
 - Keep ramelteon tablets and all medicines out of reach of children.
 
@@ -149,7 +146,7 @@ General Information about ramelteon tablets
 This Medication Guide summarizes the most important information about ramelteon tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ramelteon tablets that is written for healthcare professionals.
-For more information about ramelteon tablets, please call Teva Pharmaceuticals USA, Inc. at 1-888-TEVAUSA (1-888-838-2872) or visit www.tevagenerics.com.
+For more information about ramelteon tablets, please call Teva at 1-888-838-2872.
 
 What are the ingredients in ramelteon tablets?
 
@@ -159,11 +156,11 @@ Inactive Ingredients: lactose monohydrate, corn starch, hydroxylpropyl cellulose
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
 Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-A 1/2019
+B 3/2022
