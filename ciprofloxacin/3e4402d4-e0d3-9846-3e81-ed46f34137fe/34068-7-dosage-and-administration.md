@@ -91,7 +91,7 @@ In patients with severe infections and severe renal impairment, a unit dose of 7
 Patients should be carefully monitored.
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of cUTI and pyelonephritis.
-No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of less than 50 mL/min/1.73m2).
+No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of <50 mL/min/1.73m2).
 
 ## 2.4 Important Administration Instructions
 

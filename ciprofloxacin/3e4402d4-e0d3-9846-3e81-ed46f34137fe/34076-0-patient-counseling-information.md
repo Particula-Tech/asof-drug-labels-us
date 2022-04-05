@@ -13,7 +13,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Tendinitis and tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with ciprofloxacin tablets use, symptoms may occur soon after initiation of therapy and may be irreversible.
+- Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with ciprofloxacin tablet use, symptoms may occur soon after initiation of therapy and may be irreversible.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue ciprofloxacin tablets and tell them to contact their physician.
 - Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including ciprofloxacin tablets.
   Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
@@ -78,9 +78,11 @@ Therefore, approval for these conditions was based on efficacy studies conducted
 
 Brands listed are the trademarks of their respective owners.
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany NJ 07054
 
 Rev.
-E 9/2021
+F 2/2022

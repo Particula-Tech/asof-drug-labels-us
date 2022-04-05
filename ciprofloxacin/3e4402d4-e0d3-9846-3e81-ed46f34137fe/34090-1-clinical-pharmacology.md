@@ -36,11 +36,11 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
 |  | every 12 hours, | every 12 hours, | every 12 hours, | every 8 hours, |
-|  | Orally | intravenously | orally | intravenously |
+|  | orally | intravenously | orally | intravenously |
 | AUC0-24h,ss (mcg•hr/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
-| Cmax, ss (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| * AUC 0–12h x 2 |  |  |  |  |
-| ** AUC 0–8h x 3 |  |  |  |  |
+| Cmax,ss (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+| * AUC0–12h x 2 |  |  |  |  |
+| ** AUC0–8h x 3 |  |  |  |  |
 
 Food
 
@@ -184,7 +184,7 @@ Mechanism of Resistance
 The mechanism of action of fluoroquinolones, including ciprofloxacin, is different from that of penicillins, cephalosporins, aminoglycosides, macrolides, and tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to ciprofloxacin.
 Resistance to fluoroquinolones occurs primarily by either mutations in the DNA gyrases, decreased outer membrane permeability, or drug efflux.
 In vitro resistance to ciprofloxacin develops slowly by multiple step mutations.
-Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between less than 10-9 to 1x10-6.
+Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between <10-9 to 1x10-6.
 
 Cross Resistance
 
