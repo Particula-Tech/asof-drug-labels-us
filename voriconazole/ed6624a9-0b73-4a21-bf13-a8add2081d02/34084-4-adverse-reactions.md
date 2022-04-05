@@ -33,14 +33,14 @@ Five hundred sixty one patients had a duration of voriconazole therapy of greate
 Table 4 includes all adverse reactions which were reported at an incidence of ≥ 2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of < 2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy (OLAT) in the primary treatment of patients with acute IA.
-The rate of discontinuation from voriconazole study medication due to adverse events was 21.4% (42/196 patients).
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 21.4% (42/196 patients).
 In study 608, 403 patients with candidemia were treated to compare voriconazole (272 patients) to the regimen of amphotericin B followed by fluconazole (131 patients).
-The rate of discontinuation from voriconazole study medication due to adverse events was 19.5% out of 272 patients.
+The rate of discontinuation from voriconazole study medication due to adverse reactions was 19.5% out of 272 patients.
 Study 305 evaluated the effects of oral voriconazole (200 patients) and oral fluconazole (191 patients) in the treatment of EC.
-The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
+The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown†
 
 |  | Therapeutic Studies* | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
@@ -94,7 +94,7 @@ Fourteen days after the end of dosing, ERG, visual fields and color perception r
 Dermatological Reactions
 
 Dermatological reactions were common in patients treated with voriconazole.
-The mechanism underlying these dermatologic adverse events remains unknown.
+The mechanism underlying these dermatologic adverse reactions remains unknown.
 
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
@@ -125,7 +125,7 @@ Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amn
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosus, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
@@ -194,15 +194,119 @@ Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laborat
 
 Clinical Trials Experience in Pediatric Patients
 
-The safety of voriconazole was investigated in pediatric patients, including 52 pediatric patients less than 18 years of age who were enrolled in the adult therapeutic studies.
+The safety of voriconazole was investigated in 105 pediatric patients aged 2 to less than 18 years, including 52 pediatric patients less than 18 years of age who were enrolled in the adult therapeutic studies.
+
+Serious Adverse Reactions and Adverse Reactions Leading to Discontinuation
+
+In clinical studies, serious adverse reactions occurred in 46% (48/105) of voriconazole treated pediatric patients.
+Treatment discontinuations due to adverse reactions occurred in 12 /105 (11%) of all patients.
+Hepatic adverse reactions (i.e.
+ALT increased; liver function test abnormal; jaundice) 6% (6/105) accounted for the majority of voriconazole treatment discontinuations.
+
+Most Common Adverse Reactions
+
+The most common adverse reactions occurring in ≥5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
+
+Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
+
+| Body System | Adverse Reaction | Pooled Pediatric Dataa N=105n (%) |
+| --- | --- | --- |
+| Blood and Lymphatic Systems Disorders | Thrombocytopenia | 10 (10) |
+| Cardiac Disorders | Tachycardia | 7 (7) |
+| Eye Disorders | Visual Disturbancesb | 27 (26) |
+| Photophobia | 6 (6) |  |
+| Gastrointestinal Disorders | Vomiting | 21 (20) |
+| Nausea | 14 (13) |  |
+| Abdominal painc | 13 (12) |  |
+| Diarrhea | 12 (11) |  |
+| Abdominal distention | 5 (5) |  |
+| Constipation | 5 (5) |  |
+| General Disorders and Administration Site Conditions | Pyrexia | 25 (25) |
+| Peripheral edema | 9 (9) |  |
+| Mucosal inflammation | 6 (6) |  |
+| Infections and Infestations | Upper respiratory tract infection | 5 (5) |
+| Investigations | ALT abnormald | 9 (9) |
+| LFT abnormal | 6 (6) |  |
+| Metabolism and Nutrition Disorders | Hypokalemia | 11 (11) |
+| Hyperglycemia | 7 (7) |  |
+| Hypocalcemia | 6 (6) |  |
+| Hypophosphotemia | 6 (6) |  |
+| Hypoalbuminemia | 5 (5) |  |
+| Hypomagnesemia | 5 (5) |  |
+| Nervous System Disorders | Headache | 10 (10) |
+| Dizziness | 5 (5) |  |
+| Psychiatric Disorders | Hallucinationse | 5 (5) |
+| Renal and Urinary Disorders | Renal impairmentf | 5 (5) |
+| Respiratory Disorders | Epistaxis | 17 (16) |
+| Cough | 10 (10) |  |
+| Dyspnea | 6 (6) |  |
+| Hemoptysis | 5 (5) |  |
+| Skin and Subcutaneous Tissue Disorders | Rashg | 14 (13) |
+| Vascular Disorders | Hypertension | 12 (11) |
+| Hypotension | 9 (9) |  |
+| a Reflects all adverse reactions and not treatment-related only. b Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment. Several patients had more than one visual disturbance. c Pooled reports include such terms as: abdominal pain and abdominal pain, upper. d Pooled reports include such terms as: ALT abnormal and ALT increased. e Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual. Several patients had both visual and auditory hallucinations. f Pooled reports include such terms as: renal failure and a single patient with renal impairment. g Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic. Abbreviations: ALT = alanine aminotransferase; LFT = liver function test |  |  |
+
+The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole:
+
+Blood and Lymphatic System Disorders: anemia, leukopenia, pancytopenia
+
+Cardiac Disorders: bradycardia, palpitations, supraventricular tachycardia
+
+Eye Disorders: dry eye, keratitis
+
+Ear and Labyrinth Disorders: tinnitus, vertigo
+
+Gastrointestinal Disorders: abdominal tenderness, dyspepsia
+
+General Disorders and Administration Site Conditions: asthenia, catheter site pain, chills, hypothermia, lethargy
+
+Hepatobiliary Disorders: cholestasis, hyperbilirubinemia, jaundice
+
+Immune System Disorders: hypersensitivity, urticaria
+
+Infections and Infestations: conjunctivitis
+
+Laboratory Investigations: AST increased, blood creatinine increased, gamma-glutamyl transferase increased
+
+Metabolism and Nutrition Disorders: hypercalcemia, hypermagnesemia, hyperphosphatemia, hypoglycemia
+
+Musculoskeletal and Connective Tissue Disorders: arthralgia, myalgia
+
+Nervous System Disorders: ataxia, convulsion, dizziness, nystagmus, paresthesia, syncope
+
+Psychiatric Disorders: affect lability, agitation, anxiety, depression, insomnia
+
+Respiratory Disorders: bronchospasm, nasal congestion, respiratory failure, tachypnea
+
+Skin and Subcutaneous Tissue Disorders: alopecia, dermatitis (allergic, contact, and exfoliative), pruritus
+
+Vascular Disorders: flushing, phlebitis
 
 Hepatic-Related Adverse Reactions in Pediatric Patients
 
 The frequency of hepatic-related adverse reactions in pediatric patients exposed to voriconazole in therapeutic studies was numerically higher than that of adults (28.6% compared to 24.1%, respectively).
 The higher frequency of hepatic adverse reactions in the pediatric population was mainly due to an increased frequency of liver enzyme elevations (21.9% in pediatric patients compared to 16.1% in adults), including transaminase elevations (ALT and AST combined) 7.6% in the pediatric patients compared to 5.1% in adults.
 
-Additional pediatric use information is approved for Pfizer’s VFEND (voriconazole).
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that information.
+Clinical Laboratory Values in Pediatric Patients
+
+The overall incidence of transaminase increases >3x upper limit of normal was 27.2% (28/103) in pediatric and 17.7% (268/1514) in adult patients treated with voriconazole in pooled clinical trials.
+The majority of abnormal liver function tests either resolved on treatment with or without dose adjustment or after voriconazole discontinuation.
+
+A higher frequency of clinically significant liver laboratory abnormalities, irrespective of baseline laboratory values (>3x ULN ALT or AST), was consistently observed in the combined therapeutic pediatric population (15.5% AST and 22.5% ALT) when compared to adults (12.9% AST and 11.6% ALT).
+The incidence of bilirubin elevation was comparable between adult and pediatric patients.
+The incidence of hepatic abnormalities in pediatric patients is shown in Table 9.
+
+Table 9:
+
+Incidence of Hepatic Abnormalities among Pediatric Subjects
+
+|  | Criteria | n/N (%) |
+| --- | --- | --- |
+| Total bilirubin | >1.5x ULN | 19/102 (19) |
+| AST | >3.0x ULN | 16/103 (16) |
+| ALT | >3.0x ULN | 23/102 (23) |
+| Alkaline Phosphatase | >3.0x ULN | 8/97 (8) |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferaseULN = upper limit of normal |  |  |
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 

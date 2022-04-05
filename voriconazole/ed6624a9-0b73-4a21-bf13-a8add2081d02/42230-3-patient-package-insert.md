@@ -18,13 +18,13 @@ Do not take voriconazole for oral suspension if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole for oral suspension.
 - are taking any of the following medicines:
 
-| cisapride | pimozide | o quinidine |
+| pimozide | quinidine | sirolimus |
 | --- | --- | --- |
-| sirolimus | rifampin | carbamazepine |
-| long-acting barbiturates like phenobarbital | efavirenz | ritonavir |
-| rifabutin | ergotamine, dihydroergotamine (ergot alkaloids) | St. John’s Wort (herbal supplement) |
-| naloxegol | tolvaptan |  |
-| ivabradine | venetoclax |  |
+| rifampin | carbamazepine | long-acting barbiturates like phenobarbital |
+| efavirenz | ritonavir | rifabutin |
+| ergotamine, dihydroergotamine (ergot alkaloids) | St. John’s Wort (herbal supplement) | naloxegol |
+| tolvaptan | lurasidone | venetoclax |
+| ivabradine |  |  |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
@@ -134,7 +134,7 @@ Symptoms of adrenal insufficiency include:
 
 Symptoms of Cushing’s syndrome include:
 
-| weight gain | fatty hump between the shoulders (buffalo of the skin hump) and a rounded face (moon face) | darkening of the skin on the stomach, thighs, breasts, and arms |
+| weight gain | fatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | darkening of the skin on the stomach, thighs, breasts, and arms |
 | --- | --- | --- |
 | thinning skin | bruising easily | high blood sugar |
 | excessive hair growth | excessive sweating |  |
@@ -152,6 +152,19 @@ The most common side effects of voriconazole for oral suspension in adults inclu
 | nausea | headache | fast heart beat (tachycardia) |
 | hallucinations (seeing or hearing things that are not there) | abnormal liver function tests | fever |
 |  | chills |  |
+
+The most common side effects of voriconazole for oral suspension in children include:
+
+| fever | high blood pressure | inflammation of mucous membranes |
+| --- | --- | --- |
+| diarrhea | cough | hallucinations (seeing or hearing things that are not there) |
+| low platelet counts | low blood pressure | coughing up blood |
+| abnormal liver function tests | swelling in the arms and legs | constipation |
+| low blood calcium levels | high blood sugar levels | low blood magnesium levels |
+| low blood phosphate levels | headache | fullness of the stomach area |
+| vision changes | fast heart beat (tachycardia) | vomiting |
+| rash | nose bleeds | nausea |
+| stomach pain | low blood potassium levels | upper respiratory tract infection |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -191,9 +204,6 @@ For more information, go to www.amneal.com or call 1-877-835-5472.
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.amneal.com or call 1-877-835-5472.
 
-Additional pediatric use information is approved for Pfizer’s VFEND (voriconazole).
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distributed by:
@@ -203,4 +213,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-04-2021-07
+03-2022-08

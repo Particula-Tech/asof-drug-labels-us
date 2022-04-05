@@ -106,12 +106,20 @@ However, the safety profile of voriconazole in young and elderly subjects was si
 
 Pediatric Patients
 
+The recommended doses in pediatric patients were based on a population pharmacokinetic analysis of data obtained from 112 immunocompromised pediatric patients aged 2 to less than 12 years and 26 immunocompromised pediatric patients aged 12 to less than 17 years.
+
+A comparison of the pediatric and adult population pharmacokinetic data indicated that the predicted total exposure (AUC12) in pediatric patients aged 2 to less than 12 years following administration of a 9 mg/kg intravenous loading dose was comparable to that in adults following a 6 mg/kg intravenous loading dose.
+The predicted total exposures in pediatric patients aged 2 to less than 12 years following intravenous maintenance doses of 4 and 8 mg/kg twice daily were comparable to those in adults following 3 and 4 mg/kg IV twice daily, respectively.
+
+The predicted total exposure in pediatric patients aged 2 to less than 12 years following an oral maintenance dose of 9 mg/kg (maximum of 350 mg) twice daily was comparable to that in adults following 200 mg oral twice daily.
+An 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose in pediatric patients aged 2 to less than 12 years.
+
 Voriconazole exposures in the majority of pediatric patients aged 12 to less than 17 years were comparable to those in adults receiving the same dosing regimens.
 However, lower voriconazole exposure was observed in some pediatric patients aged 12 to less than 17 years with low body weight compared to adults [see Dosage and Administration (2.4)].
 
-Additional pediatric use information is approved for Pfizer’s VFEND (voriconazole).
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that information.
-
+Limited voriconazole trough plasma samples were collected in pediatric patients aged 2 to less than 18 years with IA or invasive candidiasis including candidemia, and EC in two prospective, open-label, non-comparative, multicenter clinical studies.
+In eleven pediatric patients aged 2 to less than 12 years and aged 12 to 14 years, with body weight less than 50 kg, who received 9 mg/kg intravenously every 12 hours as a loading dose on the first day of treatment, followed by 8 mg/kg every 12 hours as an intravenous maintenance dose, or 9 mg/kg every 12 hours as an oral maintenance dose, the mean trough concentration of voriconazole was 3.6 mcg/mL (range 0.3 to 10.7 mcg/mL).
+In four pediatric patients aged 2 to less than 12 years and aged 12 to 14 years, with body weight less than 50 kg, who received 4 mg/kg intravenously every 12 hours, the mean trough concentration of voriconazole was 0.9 mcg/mL (range 0.3 to 1.6 mcg/mL) [see Clinical Studies (14.5)].
 Patients with Hepatic Impairment
 
 After a single oral dose (200 mg) of voriconazole in 8 patients with mild (Child-Pugh Class A) and 4 patients with moderate (Child-Pugh Class B) hepatic impairment, the mean systemic exposure (AUC) was 3.2-fold higher than in age and weight matched controls with normal hepatic function.
@@ -145,8 +153,8 @@ Drug Interaction Studies
 Effects of Other Drugs on Voriconazole
 
 Voriconazole is metabolized by the human hepatic cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4.
-Results of in vitro metabolism studies indicate that the affinity of voriconazole is highest for CYP2C19, followed by CYP2C9, and is appreciably lowerfor CYP3A4.
-Inhibitors or inducers of these three enzymes may increase or decrease voriconazole systemic exposure (plasmaconcentrations), respectively.
+Results of in vitro metabolism studies indicate that the affinity of voriconazole is highest for CYP2C19, followed by CYP2C9, and is appreciably lower for CYP3A4.
+Inhibitors or inducers of these three enzymes may increase or decrease voriconazole systemic exposure (plasma concentrations), respectively.
 
 The systemic exposure to voriconazole is significantly reduced by the concomitant administration of the following agents and their use is contraindicated:
 
@@ -162,7 +170,7 @@ St. John’s Wort (CYP450 inducer; P-gp inducer)–In an independent published s
 In contrast, co-administration of single oral doses of St. John’s Wort and voriconazole had no appreciable effect on voriconazole AUC0-∞.
 Long-term use of St. John’s Wort could lead to reduced voriconazole exposure [see Contraindications (4)].
 
-Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
+Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor)–Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect [see Drug Interactions (7)].
@@ -189,7 +197,7 @@ The systemic exposure of the following drugs is significantly increased by co-ad
 
 Sirolimus (CYP3A4 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects [see Contraindications (4)].
 
-Co-administration of voriconazole with the following agents results in increased to these drugs.
+Co-administration of voriconazole with the following agents results in increased exposure to these drugs.
 Therefore, careful monitoring and/or dosage adjustment of these drugs is needed:
 
 Alfentanil (CYP3A4 substrate)–Co-administration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC0-∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone [see Drug Interactions (7)].
@@ -204,7 +212,7 @@ Cyclosporine (CYP3A4 substrate)–In stable renal transplant recipients receivin
 Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the Cmax and AUCτ of pharmacologically active Rmethadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 mg to 100 mg every 24 hours).
 The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (90% CI: 85%, 124%), respectively [see Drug Interactions (7)].
 
-Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [seeDrug Interactions (7)].
+Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7)].
 
 Warfarin (CYP2C9 substrate)–Co-administration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects [see Drug Interactions (7)].
 
@@ -229,17 +237,17 @@ Rifabutin (potent CYP450 inducer)–Rifabutin (300 mg once daily) decreased the 
 During co-administration with rifabutin (300 mg once daily), the steady-state Cmax and AUCτ of voriconazole following an increased dose of 400 mg twice daily were on average approximately 2 times higher, compared with voriconazole alone at 200 mg twice daily.
 Co-administration of voriconazole at 400 mg twice daily with rifabutin 300 mg twice daily increased the Cmax and AUCτ of rifabutin by an average of 3-times (90% CI: 2.2, 4.0) and 4 times (90% CI: 3.5, 5.4), respectively, compared to rifabutin given alone [see Contraindications (4)].
 
-Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse events/toxicity:
+Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity:
 
 Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)–Standard doses of voriconazole and efavirenz (400 mg every 24 hours or higher) must not be co-administered [see Drug Interactions (7)].
 Steady-state efavirenz (400 mg PO every 24 hours) decreased the steady-state Cmax and AUCτ of voriconazole (400 mg PO every 12 hours for 1 day, then 200 mg PO every 12 hours for 8 days) by an average of 61% and 77%, respectively, in healthy male subjects.
 Voriconazole at steady-state (400 mg PO every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the steady-state Cmax and AUCτ of efavirenz (400 mg PO every 24 hours for 9 days) by an average of 38% and 44%, respectively, in healthy subjects.
 
 The pharmacokinetics of adjusted doses of voriconazole and efavirenz were studied in healthy male subjects following administration of voriconazole (400 mg PO every 12 hours on Days 2 to 7) with efavirenz (300 mg PO every 24 hours on Days 1 to 7), relative to steady-state administration of voriconazole (400 mg for 1 day, then 200 mg PO every 12 hours for 2 days) or efavirenz (600 mg every 24 hours for 9 days).
-Co-administration of voriconazole 400 mg every 12 hours with efavirenz 300 mg every 24 hours, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent [see Dosage and Administration (2.7), Contraindications (4), andDrug Interactions (7)].
+Co-administration of voriconazole 400 mg every 12 hours with efavirenz 300 mg every 24 hours, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent [see Dosage and Administration (2.7), Contraindications (4), and Drug Interactions (7)].
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer)–Repeat dose administration of phenytoin (300 mg once daily) decreased the steady-state Cmax and AUCτ of orally administered voriconazole (200 mg every 12 hours x 14 days) by an average of 50% and 70%, respectively, in healthy subjects.
-Administration of a higher voriconazole dose (400 mg every 12 hours x 7 days) with phenytoin (300 mg once daily) resulted in comparable steady-state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg every 12 hours without phenytoin [see Dosage and Administration (2.7) andDrug Interactions (7)].
+Administration of a higher voriconazole dose (400 mg every 12 hours x 7 days) with phenytoin (300 mg once daily) resulted in comparable steady-state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg every 12 hours without phenytoin [see Dosage and Administration (2.7) and Drug Interactions (7)].
 
 Repeat dose administration of voriconazole (400 mg every 12 hours x 10 days) increased the steady-state Cmax and AUCτ of phenytoin (300 mg once daily) by an average of 70% and 80%, respectively, in healthy subjects.
 The increase in phenytoin Cmax and AUC when co-administered with voriconazole may be expected to be as high as 2 times the Cmax and AUC estimates when phenytoin is given without voriconazole [see Drug Interactions (7)].
@@ -303,7 +311,7 @@ Fusarium spp. including Fusarium solani
 Scedosporium apiospermum
 
 * In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥ 4 mcg/mL) to voriconazole.
-However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL.
+However, based on 1,054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL.
 
 The following data are available, but their clinical significance is unknown.
 At least 90 percent of the following fungi exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group.
