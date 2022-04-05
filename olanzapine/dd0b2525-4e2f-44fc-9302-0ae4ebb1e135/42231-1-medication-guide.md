@@ -1,4 +1,6 @@
-# Medication Guide
+# MEDICATION GUIDE
+
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Olanzapine (oh lan' za peen)
 
@@ -13,10 +15,14 @@ What is the most important information I should know about olanzapine orally dis
 
 Olanzapine orally disintegrating tablets may cause serious side effects, including:
 
-1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-2. High blood sugar (hyperglycemia).
-3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
-4. Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+1.
+Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+2.
+High blood sugar (hyperglycemia).
+3.
+High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+4.
+Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
@@ -226,9 +232,9 @@ Inactive ingredients: aspartame powder, colloidal silicon dioxide, crospovidone,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-G 4/2020
+H 1/2022

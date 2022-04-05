@@ -92,9 +92,11 @@ Atypical antipsychotics are not intended for use in the pediatric patient who ex
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the healthcare provider’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 4/2020
+I 1/2022

@@ -91,7 +91,7 @@ Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50
 The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of Olanzapine and Fluoxetine
+Table 1: Approximate Dose Correspondence Between Symbyax
 
 | For Symbyax(mg/day) | Use in Combination |  |
 | --- | --- | --- |

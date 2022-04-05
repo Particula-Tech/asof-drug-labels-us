@@ -85,7 +85,7 @@ Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term, Placebo-Controlled Trials
 
-Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with oral olanzapine (doses >2.5 mg/day) and with incidence greater than placebo who participated in the acute phase of placebo-controlled trials.
+Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with oral olanzapine (doses ≥2.5 mg/day) and with incidence greater than placebo who participated in the acute phase of placebo-controlled trials.
 
 Table 11: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials with Oral Olanzapine
 
