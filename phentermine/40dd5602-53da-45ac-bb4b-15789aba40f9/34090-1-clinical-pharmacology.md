@@ -87,7 +87,7 @@ Compared to healthy volunteers, phentermine AUC 0-inf was 91%, 45%, and 22% high
 Compared to healthy volunteers, topiramate AUC 0-inf was 126%, 85%, and 25% higher for patients with severe, moderate, and mild renal impairment, respectively; topiramate C max was 6% to 17% higher.
 An inverse relationship between phentermine or topiramate C max or AUC and creatinine clearance was observed.
 
-Qsymia has not been studied in patients with end-stage renal disease on dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.13), and Use in Specific Populations (8.7)].
+Qsymia has not been studied in patients with end-stage renal disease on dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.13), and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -121,7 +121,7 @@ Effect of Phentermine/Topiramate on the Pharmacokinetics of Co-administered Drug
 | Drug and Dose (mg) | Change in AUC | Change in C max |  |
 | --- | --- | --- | --- |
 | Phentermine/Topiramate | Co-administered Drug and Dosing Regimen |  |  |
-| A single study examined the effect of multiple-dose Qsymia 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. 15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
+| A single study examined the effect of multiple-dose Qsymia 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively.15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
 | 15 mg/92 mg dose QD for 21 days | Sitagliptin 100 mg QD for 5 days | ↓ 3% | ↓ 9% |
 | 15 mg/92 mg dose QD for 15 days | Oral contraceptive single dose norethindrone 1 mg ethinyl estradiol 35 mcg | ↑ 16% ↓ 16% | ↑ 22% ↓ 8% |
 
@@ -135,7 +135,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Phentermine/Topiramat
 | Co-administered Drug and Dosing Regimen | Phentermine/Topiramate |  |  |
 | Topiramate 92 mg single dose | 15 mg phentermine single dose | ↑ 42% | ↑ 13% |
 | Phentermine 15 mg single dose | 92 mg topiramate single dose | ↑ 6% | ↑ 2% |
-| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
+| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively.Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
 | Sitagliptin 100 mg QD for 5 days | 15 mg/92 mg dose QD for 21 days phentermine topiramate | ↑ 9% ↓ 2% | ↑ 10% ↓ 2% |
 | Probenecid 2 g QD | 15 mg/92 mg dose QD for 11 days phentermine topiramate | ↓ 0.3% ↑ 0.7% | ↑ 4% ↑ 3% |
 

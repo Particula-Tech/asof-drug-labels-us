@@ -1,12 +1,12 @@
-Manufactured for VIVUS, Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
+Manufactured for VIVUS LLC by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
 
-Copyright © 2012 - 2020 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2022 VIVUS LLC All rights reserved.
 
-VIVUS, Inc 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
+VIVUS LLC 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
 
 US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; 8,580,299; 8,895,057; 8,895,058, 9,011,905; and 9,011,906
 
-Qsymia is a registered trademark of VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS LLC
 
 Who should not take Qsymia?
 
@@ -168,14 +168,14 @@ Active Ingredient: phentermine hydrochloride and topiramate extended-release
 
 Inactive Ingredients: methylcellulose, sucrose, starch, microcrystalline cellulose, ethylcellulose, povidone, gelatin, talc, titanium dioxide, FD&C Blue #1, FD&C Red #3, FD&C Yellow #5 and #6, and pharmaceutical black and white inks.
 
-Copyright © 2012 - 2020 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2022 VIVUS LLC All rights reserved.
 
-VIVUS, Inc 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
+VIVUS LLC 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
 
 US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; 8,580,299; 8,895,057; 8,895,058; 9,011,905; and 9,011,906
 
-Qsymia is a registered trademark of VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS LLC
 
-PH-03-002-10
+PH-03-002-12
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 10/2020
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 03/2022
