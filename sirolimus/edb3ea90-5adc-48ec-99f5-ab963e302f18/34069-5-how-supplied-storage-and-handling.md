@@ -1,13 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-HYFTORTM (sirolimus) Gel, 0.2%
+How Supplied
 
-| NDC | Product Code |
-| --- | --- |
-| aluminum tube |  |
+HYFTOR™ (sirolimus topical gel) 0.2% is a colorless and transparent gel supplied as 10 g in aluminum tubes (NDC 73683-101-10).
+Each gram contains 2 mg of sirolimus.
 
-Store at refrigerated at 2-8°C (36-46°F).
+Storage and Handling
 
-Distributed by:
-
-Nobelpharma America, LLC
+Store refrigerated at 2° to 8°C (36° to 46°F).
+Protect from light.

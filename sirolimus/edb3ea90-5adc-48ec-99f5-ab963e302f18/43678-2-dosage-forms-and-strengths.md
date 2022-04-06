@@ -1,6 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-HYFTORTMGel, 0.2% comes in one strength: 0.2% (w/w%)
-
-HYFTORTM Gel 0.
-2% is for use on children aged 3 years and older and adults.
+Topical gel, 0.2%: Each gram contains 2 mg of sirolimus in a colorless and transparent gel in 10-gram tubes.

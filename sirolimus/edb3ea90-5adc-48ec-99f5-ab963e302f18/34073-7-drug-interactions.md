@@ -1,8 +1,16 @@
 # 7 DRUG INTERACTIONS
 
-Formal topical drug interaction studies with HYFTORTM Gel, 0.2% have not been conducted.
-Based on its extent of absorption, interactions of HYFTORTM Gel, 0.2% with systemically administered drugs are unlikely to occur but cannot be ruled out [see Clinical Pharmacology (12)].
-The concomitant administration of strong CYP3A4 and P-gp inducers or strong CYP3A4/P-gp inhibitors that decrease or increase sirolimus concentrations should be avoided.
+## 7.1 Effects of Other Drugs on HYFTOR
 
-Ultraviolet phototherapies such as PUVA should be carefully performed because HYFTORTM Gel, 0.2% may develop the possibility of photosensitivity.
-HYFTORTM Gel, 0.2% has a potential activity in photosensitivity enhancement as observed in guinea pigs.
+Table 2 presents clinically significant drug interactions involving drugs that affect HYFTOR.
+
+Table 2: Effects of CYP3A4 Inhibitors on HYFTOR
+
+| Clinical Impact | Concomitant use of HYFTOR with inhibitors of CYP3A4 has the potential to increase the systemic exposure of sirolimus and increase the risk of HYFTOR adverse reactions. |
+| --- | --- |
+| Intervention | Monitor for adverse reactions of HYFTOR. |
+
+## 7.2 Effects of HYFTOR on Other Drugs
+
+Systemic exposure of drugs that are both substrates and inhibitors of CYP3A could be increased with coadministration with HYFTOR.
+Monitor for adverse reactions of such co-administered drugs.

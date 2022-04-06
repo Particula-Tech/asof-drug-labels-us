@@ -1,40 +1,29 @@
 # 6 ADVERSE REACTIONS
 
-Two 12-week randomized vehicle-controlled studies and one long term safety study were conducted.
-94 patients have been treated with HYFTORTM Gel, 0.2%.
-
-The most common adverse events associated with HYFTORTM Gel, 0.2% application in the Phase 3 study were dry skin (36.7%), application site irritation (36.7%), pruritus (16.7%), and acne (6.7%).
-
-The most common adverse events associated with HYFTORTM Gel, 0.2% application in the long term study were application site irritation (30.9%), dry skin (27.7%), acne (20.2%), pruritus and eye irritation (8.5%), erythema (7.4%), dermatitis acneiform (6.4%), and contact dermatitis (5.3%).
-
-Reported adverse events were generally mild to moderate in severity and rarely led to treatment discontinuation.
-
-The duration of long-term safety for adult and pediatric patients in the safety study is tabulated below.
-
-Duration of Follow-up in Open-label Long-term Study
-
-| Time on Study | Adult | Pediatrics | Total |
-| --- | --- | --- | --- |
-| <52 weeks | 4 | 1 | 5 |
-| ≥52 weeks, >104 weeks | 10 | 10 | 20 |
-| ≥104 weeks | 30 | 39 | 69 |
-
-The following table depicts the adjusted incidence of drug-related adverse events in the Phase 3 and the long-term study in the HYFTORTM Gel, 0.2% treatment groups.
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Incidence of Treatment Emergent Adverse Events (≥5%)
+In a randomized, double-blind, vehicle-controlled trial, subjects aged 6 years and older with facial angiofibroma associated with tuberous sclerosis applied HYFTOR twice daily for 12 weeks.
+A total of 30 subjects were treated with HYFTOR and 32 with the vehicle.
+The majority of the subjects were female (54.8%).
+A total of 40.3% were less than 18 years of age.
 
-| System Organ Class (Preferred Term) | Phase 3 (N=30) No. of Patients (%) | Long Term Study (N=94) No. of Patients (%) |
+The most common adverse reactions reported by ≥1% of subjects treated with HYFTOR and more frequently than in subjects treated with vehicle are presented in Table 1.
+Adverse reactions occurred with similar frequency in pediatric subjects 6 years of age and older.
+
+Table 1: Adverse Reactions in ≥1% of Subjects Aged 6 Years and Older with Facial Angiofibroma Associated with Tuberous Sclerosis Through Week 12
+
+| Preferred Term | HYFTOR N = 30 | Vehicle N = 32 |
 | --- | --- | --- |
-| Eye Disorders |  |  |
-| Eye irritation | 1 (3.3) | 8 (8.5) |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Acne | 2 (6.7) | 19 (20.2) |
-| Dermatitis acneiform | 1 (3.3) | 6 (6.4) |
-| Dermatitis contact | 0 (0.0) | 5 (5.3) |
-| Dry skin | 11 (36.7) | 26 (27.7) |
-| Erythema | 0 (0.0) | 7 (7.4) |
-| Pruritus | 5 (16.7) | 8 (8.5) |
-| General Disorders and Administration Site Conditions |  |  |
-| Application site irritation | 11 (36.7) | 29 (30.9) |
+| Dry skin Dry skin includes dry skin and asteatosis | 12 (40%) | 4 (13%) |
+| Application site irritation | 11 (37%) | 9 (28%) |
+| Pruritus | 5 (17%) | 4 (13%) |
+| Acne | 2 (7%) | 0 (0%) |
+| Acneiform dermatitis | 1 (3%) | 0 (0%) |
+| Ocular hyperemia | 1 (3%) | 0 (0%) |
+| Skin hemorrhage | 1 (3%) | 0 (0%) |
+| Skin irritation | 1 (3%) | 0 (0%) |
+
+In a 104-week, open-label safety trial, the most common adverse reactions associated with HYFTOR application were application site irritation (31%), dry skin (28%), acne (20%), pruritus (9%), eye irritation (9%), erythema (7%), acneiform dermatitis (6%), contact dermatitis (5%), solar dermatitis (1%), and photosensitivity reaction (1%).
+Adverse reactions occurred with similar frequency in adult and pediatric subjects 6 years of age and older.
