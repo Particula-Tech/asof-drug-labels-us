@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-[see Dosage and Administration (2), Contraindications (4) and Clinical Pharmacology (12.3).]
+[see Dosage and Administration (2), Contraindications (4) and Clinical Pharmacology (12.3)].
 
 Rilpivirine is primarily metabolized by cytochrome P450 (CYP)3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of rilpivirine.
 Coadministration of EDURANT and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs.
@@ -39,7 +39,7 @@ Table 5: Established and Other Potentially Significant Drug Interactions: Altera
 | Macrolide or ketolide antibiotics: azithromycin clarithromycin erythromycin | ↑ rilpivirine ↔ azithromycin ↔ clarithromycin ↔ erythromycin | Macrolides are expected to increase concentrations of rilpivirine and are associated with a risk of Torsade de Pointes [Warnings and Precautions (5.4)]. Where possible, consider alternatives, such as azithromycin, which increases rilpivirine concentrations less than other macrolides. |
 | Narcotic Analgesics: methadone | ↓ R(-) methadone ↓ S(+) methadone | No dose adjustments are required when initiating coadministration of methadone with EDURANT. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 | Proton Pump Inhibitors: e.g., esomeprazole lansoprazole omeprazole pantoprazole rabeprazole | ↓Rilpivirine | Coadministration is contraindicated with EDURANT [see Contraindications (4)]. |
-| ↑ = increase, ↓ = decrease, ↔ = no change |  |  |
+| ↑=increase, ↓=decrease, ↔=no change |  |  |
 
 In addition to the drugs included in Table 5, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, cabotegravir, ethinylestradiol, norethindrone, raltegravir, sildenafil, simeprevir and tenofovir disoproxil fumarate.
 Rilpivirine did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.

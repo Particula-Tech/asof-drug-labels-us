@@ -31,12 +31,12 @@ Data
 
 Human Data
 
-Based on prospective reports to the APR of over 390 exposures to rilpivirine during the first trimester of pregnancy resulting in live births, there was no significant difference between the overall risk of birth defects with rilpivirine compared to the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 1.3% (95% CI: 0.4% to 3.0%) and 1.1% (95% CI: 0.1% to 4.0%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
+Based on prospective reports to the APR of over 550 exposures to rilpivirine during the first trimester of pregnancy resulting in live births, there was no significant difference between the overall risk of birth defects with rilpivirine compared to the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 1.4% (95% CI: 0.6% to 2.8%) and 1.5% (95% CI: 0.3% to 4.3%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
 
 Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant women during the second and third trimesters and postpartum.
 Each of the women were on a rilpivirine-based regimen at the time of enrollment.
-Twelve subjects completed the trial through the postpartum period (6-12 weeks after delivery) and pregnancy outcomes are missing for six subjects.
+Twelve subjects completed the trial through the postpartum period (6–12 weeks after delivery) and pregnancy outcomes are missing for six subjects.
 The exposure (C0h and AUC) of total rilpivirine was approximately 30 to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
 The protein binding of rilpivirine was similar (>99%) during second trimester, third trimester, and postpartum period.
 One subject discontinued the trial following spontaneous termination of the pregnancy at 25 weeks gestation due to suspected premature rupture of membranes.
@@ -72,7 +72,12 @@ However, rilpivirine was detected in the plasma of nursing pups on lactation day
 
 ## 8.4 Pediatric Use
 
-The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open-label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open-label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+
+MOCHA Trial (NCT03497676) in Adolescents
+
+The safety, tolerability, and pharmacokinetics of oral and injectable cabotegravir and oral and injectable rilpivirine are being assessed in an ongoing Phase 1/2 multicenter, open-label, non comparative study, MOCHA (IMPAACT 2017) [see Adverse Reactions (6.1)].
+Refer to the VOCABRIA and CABENUVA prescribing information for additional information when EDURANT is used in combination with cabotegravir.
 
 Safety and effectiveness in pediatric patients less than 12 years of age or weighing less than 35 kg have not been established.
 

@@ -6,7 +6,7 @@ Severe skin and hypersensitivity reactions have been reported during the postmar
 While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries.
 During the Phase 3 clinical trials, treatment-related rashes with at least Grade 2 severity were reported in 3% of subjects receiving EDURANT.
 No Grade 4 rash was reported.
-Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6 and 6.2)].
+Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6.1 and 6.2)].
 Discontinue EDURANT immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia.
 Clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.
 
@@ -23,13 +23,13 @@ Liver enzyme monitoring should also be considered for patients without pre-exist
 The adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with EDURANT.
 Patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to EDURANT, and if so, to determine whether the risks of continued therapy outweigh the benefits.
 
-During the Phase 3 trials in adults (N = 1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among EDURANT (n = 686) or efavirenz (n = 682) was 9% and 8%, respectively.
+During the Phase 3 trials in adults (N=1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among EDURANT (n=686) or efavirenz (n=682) was 9% and 8%, respectively.
 Most events were mild or moderate in severity.
 The incidence of Grade 3 and 4 depressive disorders (regardless of causality) was 1% for both EDURANT and efavirenz.
 The incidence of discontinuation due to depressive disorders among EDURANT or efavirenz was 1% in each arm.
 Suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the EDURANT arm.
 
-During the Phase 2 trial in pediatric subjects 12 to less than 18 years of age (N = 36) receiving EDURANT through 48 weeks, the incidence of depressive disorders (regardless of causality, severity) was 19.4% (7/36).
+During the Phase 2 trial in pediatric subjects 12 to less than 18 years of age (N=36) receiving EDURANT through 48 weeks, the incidence of depressive disorders (regardless of causality, severity) was 19.4% (7/36).
 Most events were mild or moderate in severity.
 The incidence of Grade 3 and 4 depressive disorders (regardless of causality) was 5.6% (2/36).
 None of the subjects discontinued due to depressive disorders.

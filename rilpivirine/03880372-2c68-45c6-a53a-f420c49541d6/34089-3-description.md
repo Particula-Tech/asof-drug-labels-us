@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-EDURANT (rilpivirine) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1).
+EDURANT® (rilpivirine) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1).
 EDURANT is available as a white to off-white, film-coated, round, biconvex, 6.4 mm tablet for oral administration.
 Each tablet contains 27.5 mg of rilpivirine hydrochloride, which is equivalent to 25 mg of rilpivirine.
 

@@ -1,1 +1,1 @@
-EDURANT® is a registered trademark of Johnson & Johnson © Janssen Products, LP 2011
+EDURANT® is a registered trademark of Johnson & Johnson © 2011 Janssen Products, LP

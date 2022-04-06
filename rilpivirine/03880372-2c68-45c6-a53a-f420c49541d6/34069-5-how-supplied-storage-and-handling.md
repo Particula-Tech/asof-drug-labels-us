@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-EDURANT (rilpivirine) tablets are supplied as white to off-white, film-coated, round, biconvex, 6.4 mm tablets.
+EDURANT® (rilpivirine) tablets are supplied as white to off-white, film-coated, round, biconvex, 6.4 mm tablets.
 Each tablet contains 27.5 mg of rilpivirine hydrochloride, which is equivalent to 25 mg of rilpivirine.
 Each tablet is debossed with "TMC" on one side and "25" on the other side.
 

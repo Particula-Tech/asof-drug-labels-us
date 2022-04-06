@@ -78,46 +78,46 @@ Table 3: Selected Changes in Laboratory Parameters (Grades 1 to 4) Observed in A
 | Laboratory Parameter Abnormality, (%) | DAIDS Toxicity Range | Pooled Data from the Phase 3 TMC278-C209 and TMC278-C215 Trials |  |
 | EDURANT + BR N=686 | Efavirenz + BR N=682 |  |  |
 | Increased Creatinine |  |  |  |
-| Grade 1 | ≥ 1.1–≤ 1.3 × ULN | 6% | 1% |
-| Grade 2 | > 1.3–≤ 1.8 × ULN | 1% | 1% |
-| Grade 3 | > 1.8–≤ 3.4 × ULN | <1% | 0 |
-| Grade 4 | > 3.4 × ULN | 0 | <1% |
+| Grade 1 | ≥1.1–≤1.3 × ULN | 6% | 1% |
+| Grade 2 | >1.3–≤1.8 × ULN | 1% | 1% |
+| Grade 3 | >1.8–≤3.4 × ULN | <1% | 0 |
+| Grade 4 | >3.4 × ULN | 0 | <1% |
 | Increased AST |  |  |  |
-| Grade 1 | ≥ 1.25–≤ 2.5 × ULN | 16% | 19% |
-| Grade 2 | > 2.5–≤ 5.0 × ULN | 4% | 7% |
-| Grade 3 | > 5.0–≤ 10.0 × ULN | 2% | 2% |
-| Grade 4 | > 10.0 × ULN | 1% | 1% |
+| Grade 1 | ≥1.25–≤2.5 × ULN | 16% | 19% |
+| Grade 2 | >2.5–≤5.0 × ULN | 4% | 7% |
+| Grade 3 | >5.0–≤10.0 × ULN | 2% | 2% |
+| Grade 4 | >10.0 × ULN | 1% | 1% |
 | Increased ALT |  |  |  |
-| Grade 1 | ≥ 1.25–≤ 2.5 × ULN | 18% | 20% |
-| Grade 2 | > 2.5–≤ 5.0 × ULN | 5% | 7% |
-| Grade 3 | > 5.0–≤ 10.0 × ULN | 1% | 2% |
-| Grade 4 | > 10.0 × ULN | 1% | 1% |
+| Grade 1 | ≥1.25–≤2.5 × ULN | 18% | 20% |
+| Grade 2 | >2.5–≤5.0 × ULN | 5% | 7% |
+| Grade 3 | >5.0–≤10.0 × ULN | 1% | 2% |
+| Grade 4 | >10.0 × ULN | 1% | 1% |
 | Increased Total Bilirubin |  |  |  |
-| Grade 1 | ≥ 1.1–≤ 1.5 × ULN | 5% | <1% |
-| Grade 2 | > 1.5–≤ 2.5 × ULN | 3% | 1% |
-| Grade 3 | > 2.5–≤ 5.0 × ULN | 1% | <1% |
-| Grade 4 | > 5.0 × ULN | 0 | 0 |
+| Grade 1 | ≥1.1–≤1.5 × ULN | 5% | <1% |
+| Grade 2 | >1.5–≤2.5 × ULN | 3% | 1% |
+| Grade 3 | >2.5–≤5.0 × ULN | 1% | <1% |
+| Grade 4 | >5.0 × ULN | 0 | 0 |
 | Increased Total Cholesterol (fasted) |  |  |  |
 | Grade 1 | 5.18–6.19 mmol/L 200–239 mg/dL | 17% | 31% |
 | Grade 2 | 6.20–7.77 mmol/L 240–300 mg/dL | 7% | 19% |
-| Grade 3 | > 7.77 mmol/L > 300 mg/dL | <1% | 3% |
+| Grade 3 | >7.77 mmol/L >300 mg/dL | <1% | 3% |
 | Increased LDL Cholesterol (fasted) |  |  |  |
 | Grade 1 | 3.37–4.12 mmol/L 130–159 mg/dL | 14% | 26% |
 | Grade 2 | 4.13–4.90 mmol/L 160–190 mg/dL | 5% | 13% |
-| Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 1% | 5% |
+| Grade 3 | ≥4.91 mmol/L ≥191 mg/dL | 1% | 5% |
 | Increased Triglycerides (fasted) |  |  |  |
 | Grade 2 | 5.65–8.48 mmol/L 500–750 mg/dL | 2% | 2% |
 | Grade 3 | 8.49–13.56 mmol/L 751–1,200 mg/dL | 1% | 3% |
-| Grade 4 | > 13.56 mmol/L > 1,200 mg/dL | 0 | 1% |
-| BR = background regimen; ULN = upper limit of normal |  |  |  |
-| N = number of subjects per treatment group |  |  |  |
+| Grade 4 | >13.56 mmol/L >1,200 mg/dL | 0 | 1% |
+| BR=background regimen; ULN=upper limit of normal |  |  |  |
+| N=number of subjects per treatment group |  |  |  |
 | Note: Percentages were calculated versus the number of subjects in ITT. |  |  |  |
 
 Adrenal Function
 
 In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -0.69 (-1.12, 0.27) micrograms/dL in the EDURANT group and of -0.02 (-0.48, 0.44) micrograms/dL in the efavirenz group.
 
-In the EDURANT group, 43/588 (7.3%) of subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level < 18.1 micrograms/dL) during the trial compared to 18/561 (3.2%) in the efavirenz group.
+In the EDURANT group, 43/588 (7.3%) of subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level <18.1 micrograms/dL) during the trial compared to 18/561 (3.2%) in the efavirenz group.
 Of the subjects who developed an abnormal 250 micrograms ACTH stimulation test during the trial, fourteen subjects in the EDURANT group and nine subjects in the efavirenz group had an abnormal 250 micrograms ACTH stimulation test at Week 96.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the higher abnormal rate of 250 micrograms ACTH stimulation tests in the EDURANT group is not known.
@@ -146,7 +146,7 @@ Table 4: Lipid Values, Mean Change from BaselineExcludes subjects who received l
 | HDL-cholesterol (fasted) | 545 | 41 | 46 | 4 | 505 | 40 | 51 | 11 |
 | LDL-cholesterol (fasted) | 543 | 96 | 98 | 1 | 503 | 95 | 109 | 14 |
 | Triglycerides (fasted) | 546 | 122 | 116 | -6 | 507 | 130 | 141 | 11 |
-| N = number of subjects per treatment group; BR = background regimen |  |  |  |  |  |  |  |  |
+| N=number of subjects per treatment group; BR=background regimen |  |  |  |  |  |  |  |  |
 
 Subjects Co-infected with Hepatitis B and/or Hepatitis C Virus
 
@@ -156,8 +156,8 @@ The pharmacokinetic exposure of rilpivirine in co-infected subjects was comparab
 
 Use in Combination with Cabotegravir
 
-Safety findings from Phase 3 trials in adults were similar when EDURANT was administered in combination with VOCABRIA (cabotegravir) or other antiretrovirals.
-See full prescribing information for VOCABRIA and CABENUVA (cabotegravir; rilpivirine) extended-release injectable suspensions for additional information.
+Safety findings from Phase 3/3b trials in adults were similar when EDURANT was administered in combination with VOCABRIA (cabotegravir) or other antiretrovirals.
+See full prescribing information for VOCABRIA and CABENUVA (cabotegravir extended-release injectable suspension; rilpivirine extended-release injectable suspension) for additional information.
 
 Clinical Trials Experience in Pediatric Patients
 
@@ -172,11 +172,15 @@ The most common ADRs reported in at least 2 subjects (regardless of severity) in
 
 Observed laboratory abnormalities were comparable to those in adults.
 
+Trial 208580 [MOCHA]
+
+Based on data from the Week 16 analysis of the MOCHA study in 15 adolescents (aged 12 to younger than 18 years and weighing ≥35 kg) receiving EDURANT (25 mg once daily) in addition to continuing background antiretroviral therapy, the safety profile during the oral-lead in period in adolescents was consistent with the safety profile established with EDURANT in adults.
+
 Adrenal Function
 
 In trial TMC278 C213, at Week 48, the overall mean change from baseline in basal cortisol showed an increase of 1.59 (0.24, 2.93) micrograms/dL.
 
-Six of 30 (20%) subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level < 18.1 micrograms/dL) during the trial.
+Six of 30 (20%) subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level <18.1 micrograms/dL) during the trial.
 Three of these subjects had an abnormal 250 micrograms ACTH stimulation test at Week 48.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
