@@ -115,9 +115,9 @@ Especially tell your doctor if you take:
 
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride tablets may not work as well if you take these medicines.
-- extended-release pramipexole (MIRAPEX ER).
-  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets (MIRAPEX ER).
-  If you are taking extended-release pramipexole tablets (MIRAPEX ER), you should not take pramipexole dihydrochloride tablets.
+- extended-release pramipexole.
+  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
+  If you are taking extended-release pramipexole tablets, you should not take pramipexole dihydrochloride tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.

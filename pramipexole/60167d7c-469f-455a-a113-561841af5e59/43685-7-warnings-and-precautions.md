@@ -55,8 +55,6 @@ In addition, certain medications used to treat psychosis may exacerbate the symp
 
 In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
 
-ed treatment and the symptoms resolved.
-
 ## 5.5 Dyskinesia
 
 Pramipexole dihydrochloride tablets may cause or exacerbate preexisting dyskinesia.
