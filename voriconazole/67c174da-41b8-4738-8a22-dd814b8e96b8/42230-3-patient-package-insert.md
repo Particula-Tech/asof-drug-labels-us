@@ -26,7 +26,7 @@
 | Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of voriconazole tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |  |  |  |  |  |  |
 | How should I store voriconazole tablets? •Store voriconazole tablets at room temperature, 20° to 25°C (68° to 77°F). •Keep voriconazole tablets in a tightly closed container.•Safely throw away medicine that is out of date or no longer needed.•Keep voriconazole tablets, as well as all other medicines, out of the reach of children. |  |  |  |  |  |  |  |  |  |  |
 | General information about the safe and effective use of voriconazole tabletsMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use voriconazole tablets for a condition for which they were not prescribed. Do not give voriconazole tablets to other people, even if they have the same symptoms that you have. They may harm them. You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals. |  |  |  |  |  |  |  |  |  |  |
-| What are the ingredients in voriconazole tablets?Active ingredient: voriconazole.Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (corn), titanium dioxide and triacetin. For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). The brands listed are trademarks of their respective owners. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505Manufactured by: Mylan Laboratories Limited, Hyderabad – 500 096, India |  |  |  |  |  |  |  |  |  |  |
+| What are the ingredients in voriconazole tablets?Active ingredient: voriconazole.Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (corn), titanium dioxide and triacetin. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad – 500 096, India For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). The brands listed are trademarks of their respective owners. |  |  |  |  |  |  |  |  |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -36,4 +36,4 @@ Manufactured by: Mylan Laboratories Limited Hyderabad – 500 096, India
 
 75084108
 
-Revised: 2/2022 MX:VORIC:R15
+Revised: 4/2022 MX:VORIC:R16

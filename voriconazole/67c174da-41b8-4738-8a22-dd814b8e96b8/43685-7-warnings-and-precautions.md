@@ -2,7 +2,8 @@
 
 ## 5.1 Hepatic Toxicity
 
-In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly hematological malignancy).
+In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
+Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly hematological malignancy).
 Hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 Liver dysfunction has usually been reversible on discontinuation of therapy [see Adverse Reactions (6.1)].
 
@@ -31,7 +32,8 @@ Rigorous attempts to correct potassium, magnesium and calcium should be made bef
 
 ## 5.4 Visual Disturbances
 
-The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
+The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.
+There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.5 Severe Cutaneous Adverse Reactions
