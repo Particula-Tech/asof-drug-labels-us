@@ -46,7 +46,8 @@ Therefore, the patient should be closely observed when any of these are used con
 
 ## Atropinism
 
-Since a subtherapeutic dose of atropine has been added to Lomotil, consideration should be given to the development of adverse reactions associated with of atropine (see WARNINGS).Lomotil has caused atropinism (hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes) particularly in pediatric patients with Down's syndrome.
+Since a subtherapeutic dose of atropine has been added to Lomotil, consideration should be given to the development of adverse reactions associated with atropine (see WARNINGS).
+Lomotil has caused atropinism (hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes) particularly in pediatric patients with Down's syndrome.
 Lomotil is not indicated for use in pediatric patients (see CONTRAINDICATIONS and WARNINGS).
 Monitor patients for signs of atropinism.
 
