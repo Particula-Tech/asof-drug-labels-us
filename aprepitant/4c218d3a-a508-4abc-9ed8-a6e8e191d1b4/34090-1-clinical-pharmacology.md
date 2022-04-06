@@ -24,7 +24,7 @@ Aprepitant Pharmacokinetic Parameters (Mean (± Standard Deviation)) After Singl
 
 |  | CINVANTI 130 mg 2-minute intravenous injection | CINVANTI 130 mg 30-minute intravenous infusion | CINVANTI 100 mg 30-minute intravenous infusion |
 | --- | --- | --- | --- |
-| AUC0-72hr (mcg•hr/mL) | 45.6 (± 15.5) | 43.9 (± 12.7) | 27.8 (± 6.5) |
+| AUC0-72hr (mcg∙hr/mL) | 45.6 (± 15.5) | 43.9 (± 12.7) | 27.8 (± 6.5) |
 | Cmax (mcg/mL) | 13.9 (±3.8) | 6.1 (± 1.5) | 4.3 (± 1.2) |
 
 Distribution
@@ -61,7 +61,7 @@ These differences are not considered clinically meaningful [see Use in Specific 
 
 Male and Female Patients
 
-Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 14% and 22% higher in females as compared with males.
+Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 
@@ -98,42 +98,49 @@ Drug Interactions Studies
 
 Aprepitant is a substrate, and a weak-to-moderate (dose-dependent) inhibitor of CYP3A4.
 Aprepitant is also an inducer of CYP3A4, and CYP2C9.
-Aprepitant is unlikely to interact with drugs that are substrates for the P- glycoprotein transporter.
+Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 Substrates:
 
-- Midazolam: Fosaprepitant 150 mg (corresponding to CINVANTI 130 mg) administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by approximately 1.8-fold on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4.
+Midazolam: Fosaprepitant 150 mg (corresponding to CINVANTI 130 mg) administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by approximately 1.8-fold on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4.
 
 Corticosteroids:
 
-- Dexamethasone: Fosaprepitant administered as a single 150 mg (corresponding to CINVANTI 130 mg) intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, administered as a single 8 mg oral dose on Days 1, 2, and Day 3, by approximately 2-fold on Days 1 and 2 [see Dosage and Administration (2.1), Drug Interactions (7.1)].
-- Methylprednisolone: When oral aprepitant as a 3-day regimen (125 mg/80 mg/80 mg) was administered with intravenous methylprednisolone 125 mg on Day 1 and oral methylprednisolone 40 mg on Days 2 and 3, the AUC of methylprednisolone was increased by 1.34-fold on Day 1 and by 2.5-fold on Day 3 [see Drug Interactions (7.1)].
+Dexamethasone: Fosaprepitant administered as a single 150 mg (corresponding to CINVANTI 130 mg) intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, administered as a single 8 mg oral dose on Days 1, 2, and Day 3, by approximately 2-fold on Days 1 and 2 [see Dosage and Administration (2.1), Drug Interactions (7.1)].
+
+Methylprednisolone: When oral aprepitant as a 3-day regimen (125 mg/80 mg/80 mg) was administered with intravenous methylprednisolone 125 mg on Day 1 and oral methylprednisolone 40 mg on Days 2 and 3, the AUC of methylprednisolone was increased by 1.34-fold on Day 1 and by 2.5-fold on Day 3 [see Drug Interactions (7.1)].
 
 Chemotherapeutic agents:
 
-- Docetaxel: In a pharmacokinetic study, oral aprepitant administered as a 3-day regimen (125 mg/80 mg/80 mg) did not influence the pharmacokinetics of docetaxel [see Drug Interactions (7.1)].
-- Vinorelbine: In a pharmacokinetic study, oral aprepitant administered as a 3-day regimen (125 mg/80 mg/80 mg) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree [see Drug Interactions (7.1)].
+Docetaxel: In a pharmacokinetic study, oral aprepitant administered as a 3-day regimen (125 mg/80 mg/80 mg) did not influence the pharmacokinetics of docetaxel [see Drug Interactions (7.1)].
+
+Vinorelbine: In a pharmacokinetic study, oral aprepitant administered as a 3-day regimen (125 mg/80 mg/80 mg) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree [see Drug Interactions (7.1)].
 
 CYP2C9 substrates (Warfarin, Tolbutamide):
 
-- Warfarin: A single 125 mg dose of oral aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to subjects who were stabilized on chronic warfarin therapy.
-  Although there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with oral aprepitant [see Drug Interactions (7.1)].
-- Tolbutamide: Oral aprepitant, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide by 23% on Day 4, 28% on Day 8, and 15% on Day 15, when a single dose of tolbutamide 500 mg was administered prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
-  This effect was not considered clinically important.
+Warfarin: A single 125 mg dose of oral aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to subjects who were stabilized on chronic warfarin therapy.
+Although there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with oral aprepitant [see Drug Interactions (7.1)].
+
+Tolbutamide: Oral aprepitant, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide by 23% on Day 4, 28% on Day 8, and 15% on Day 15, when a single dose of tolbutamide 500 mg was administered prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
+This effect was not considered clinically important.
 
 Other Drugs:
 
-- Oral contraceptives: When oral aprepitant was administered as a 3-day regimen (125 mg/80 mg/80 mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment [see Drug Interactions (7.1)].
-- P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter, as demonstrated by the lack of interaction of oral aprepitant with digoxin in a clinical drug interaction study.
-- 5-HT3 antagonists: In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
+Oral contraceptives: When oral aprepitant was administered as a 3-day regimen (125 mg/80 mg/80 mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment [see Drug Interactions (7.1)].
+
+P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter, as demonstrated by the lack of interaction of oral aprepitant with digoxin in a clinical drug interaction study.
+
+5-HT3 antagonists: In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 
 Effect of Other Drugs on the Pharmacokinetics of Fosaprepitant/Aprepitant
 
-- Rifampin: When a single 375 mg dose of oral aprepitant was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampin, a strong CYP3A4 inducer, the AUC of aprepitant decreased approximately 11-fold and the mean terminal half-life decreased approximately 3-fold [see Drug Interactions (7.2)].
-- Ketoconazole: When a single 125 mg dose of oral aprepitant was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
-- Diltiazem: In a study in 10 patients with mild to moderate hypertension, administration of 100 mg of fosaprepitant as an intravenous infusion with 120 mg of diltiazem, a moderate CYP3A4 inhibitor administered three times daily, resulted in a 1.5-fold increase in the aprepitant AUC and a 1.4-fold increase in the diltiazem AUC.
+Rifampin: When a single 375 mg dose of oral aprepitant was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampin, a strong CYP3A4 inducer, the AUC of aprepitant decreased approximately 11-fold and the mean terminal half-life decreased approximately 3-fold [see Drug Interactions (7.2)].
+
+Ketoconazole: When a single 125 mg dose of oral aprepitant was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
+
+Diltiazem: In a study in 10 patients with mild to moderate hypertension, administration of 100 mg of fosaprepitant as an intravenous infusion with 120 mg of diltiazem, a moderate CYP3A4 inhibitor administered three times daily, resulted in a 1.5-fold increase in the aprepitant AUC and a 1.4-fold increase in the diltiazem AUC.
 
 When fosaprepitant was administered with diltiazem, the mean maximum decrease in diastolic blood pressure was significantly greater than that observed with diltiazem alone [24.3 ± 10.2 mm Hg with fosaprepitant versus 15.6 ± 4.1 mm Hg without fosaprepitant].
 The mean maximum decrease in systolic blood pressure was also greater after co-administration of diltiazem with fosaprepitant than administration of diltiazem alone [29.5 ± 7.9 mm Hg with fosaprepitant versus 23.8 ± 4.8 mm Hg without fosaprepitant].

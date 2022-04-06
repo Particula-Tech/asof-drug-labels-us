@@ -6,8 +6,7 @@ Below is a description of the results of these adequate and well-controlled stud
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC
 
 In a randomized, parallel, double-blind, active-controlled study, 150 mg fosaprepitant as a single intravenous infusion (N = 1147) was compared to a 3-day oral aprepitant regimen (N = 1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
-All patients in both groups received dexamethasone and ondansetron (see Table 11).
-Patient demographics were similar between the two treatment groups.
+All patients in both groups received dexamethasone and ondansetron (see Table 11) Patient demographics were similar between the two treatment groups.
 Of the total 2322 patients, 63% were men, 56% White, 26% Asian, 3% American Indian/Alaska Native, 2% Black, 13% Multi-Racial, and 33% Hispanic/Latino ethnicity.
 Patient ages ranged from 19 to 86 years of age, with a mean age of 56 years.
 Other concomitant chemotherapy agents commonly administered were fluorouracil (17%), gemcitabine (16%), paclitaxel (15%), and etoposide (12%).
@@ -74,7 +73,7 @@ The results by treatment group are shown in Table 14.
 Table 14.
 Percent of Patients Receiving MEC Responding by Treatment Group
 
-| ENDPOINTS | Intravenous Fosaprepitant Regimen (N = 502)N: Number of patients included in the intention to treat population. % | Standard Therapy Regimen (N = 498) % | P-Value | Treatment Difference (95% CI) |
+| ENDPOINTS | Intravenous Fosaprepitant Regimen (N = 502)N: Number of patients included in the intention to treat population. % | Standard Therapy Regimen (N = 498) % | p-Value | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |  |
 | Complete ResponseComplete Response = no vomiting and no use of rescue therapy. |  |  |  |  |
@@ -82,7 +81,7 @@ Percent of Patients Receiving MEC Responding by Treatment Group
 
 3-Day Oral Aprepitant -- MEC
 
-In a multicenter, randomized, double-blind, parallel-group, clinical study in breast cancer patients, a 3-day oral aprepitant regimen was compared with a standard of care therapy in patients receiving a MEC regimen that included cyclophosphamide 750 to1500 mg/m2; or cyclophosphamide 500 to 1500 mg/m2 and doxorubicin (≤ 60 mg/m2) or epirubicin (≤ 100 mg/m2).
+In a multicenter, randomized, double-blind, parallel-group, clinical study in breast cancer patients, a 3-day oral aprepitant regimen was compared with a standard of care therapy in patients receiving a MEC regimen that included cyclophosphamide 750 to1500 mg/m2; or cyclophosphamide 500 to1500 mg/m2 and doxorubicin (≤ 60 mg/m2) or epirubicin (≤ 100 mg/m2).
 Patients (N = 866) were randomized to either the aprepitant regimen (N = 438) or standard therapy (N = 428).
 The treatment regimens are defined in Table 15.
 

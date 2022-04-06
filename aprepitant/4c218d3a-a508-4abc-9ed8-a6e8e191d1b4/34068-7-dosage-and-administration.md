@@ -52,11 +52,11 @@ Differences in preparation for each dose are displayed as bolded text.
 Table 4.
 Preparation Instructions for CINVANTI Intravenous Infusion
 
-| Step 1 | Aseptically withdraw 18 mL for the 130 mg dose or 14 mL for the 100 mg dose from the vial and transfer it into an infusion bagUse only Non-DEHP tubing, non-PVC infusion bags filled with 100 mL of 0.9% Sodium Chloride Injection, USP or 5% Dextrose for Injection, USP. |  |
-| --- | --- | --- |
-| Step 2 | Gently invert the bag 4 to 5 times. Avoid shaking. |  |
-| Step 3 | Before administration, inspect the bag for particulate matter and discoloration. Discard the bag if particulate and/or discoloration are observed. |  |
-| Note: The differences in preparation for each recommended dosage of CINVANTI are displayed in bolded text (see Table 1 for HEC Regimen and Table 2 for MEC Regimen). |  |  |
+| Step 1 | Aseptically withdraw 18 mL for the 130 mg dose or 14 mL for the 100 mg dose from the vial and transfer it into an infusion bagUse only Non-DEHP tubing, non-PVC infusion bags filled with 100 mL of 0.9% Sodium Chloride Injection, USP or 5% Dextrose for Injection, USP. |
+| --- | --- |
+| Step 2 | Gently invert the bag 4 to 5 times. Avoid shaking. |
+| Step 3 | Before administration, inspect the bag for particulate matter and discoloration. Discard the bag if particulate and/or discoloration are observed. |
+| Note: The differences in preparation for each recommended dosage of CINVANTI are displayed in bolded text (see Table 1 for HEC Regimen and Table 2 for MEC Regimen). |  |
 
 Caution: Do not mix CINVANTI with solutions for which physical and chemical compatibility have not been established.
 

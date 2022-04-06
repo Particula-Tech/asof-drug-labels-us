@@ -19,6 +19,3 @@ Instruct patients to use effective alternative or back-up methods of non-hormona
 Pregnancy
 
 Advise pregnant women of the potential risk to a fetus and to avoid use of CINVANTI during pregnancy [see Use in Specific Populations (8.1)].
-
-Manufactured for: Heron Therapeutics, Inc., San Diego, CA, 92121, USA Copyright© 2019 HERON THERAPEUTICS, San Diego, CA, 92121, USA.
-All rights reserved
