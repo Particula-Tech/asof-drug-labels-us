@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage for Gastroesophageal Reflux Disease Associated with a History of Erosive Esophagitis
+## 2.1 Dosage for Gastroesophageal Reflux Disease Associated With a History of Erosive Esophagitis
 
 The recommended adult dosage of Pantoprazole Sodium for Injection is 40 mg given once daily by intravenous infusion for 7 to 10 days.
 
