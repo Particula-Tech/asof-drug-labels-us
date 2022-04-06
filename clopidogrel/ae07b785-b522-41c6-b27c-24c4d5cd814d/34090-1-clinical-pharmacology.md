@@ -70,6 +70,8 @@ Drug Interactions
 
 Effect of other drugs on clopidogrel
 
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+
 CYP2C19 inducers
 
 Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
