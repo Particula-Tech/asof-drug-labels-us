@@ -9,7 +9,7 @@ The recommended dose of YONSA is 500 mg (four 125 mg tablets) administered orall
 To avoid medication errors and overdose, be aware that YONSA (abiraterone acetate) tablets may have different dosing and food effects than other abiraterone acetate products.
 Patients receiving YONSA should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
 
-YONSA tablets can be taken with or without food [see Clinical Pharmacology (12.3)].
+YONSA tablets must be taken as a single dose once daily with or without food [see Clinical Pharmacology (12.3)].
 The tablets should be swallowed whole with water.
 Do not crush or chew tablets.
 
@@ -31,7 +31,7 @@ For patients who resume treatment, monitor serum transaminases and bilirubin at 
 
 If hepatotoxicity recurs at the dose of 375 mg once daily, re-treatment may be restarted at a reduced dose of 250 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
 
-If hepatotoxicity recurs at the reduced dose of 250 mg once daily, discontinue treatment with abiraterone acetate.
+If hepatotoxicity recurs at the reduced dose of 250 mg once daily, discontinue treatment with YONSA.
 
 Permanently discontinue YONSA for patients who develop a concurrent elevation of ALT greater than 3 x ULN and total bilirubin greater than 2 x ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Warnings and Precautions (5.3)].
 

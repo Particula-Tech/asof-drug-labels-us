@@ -28,7 +28,7 @@ Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
 Table 1 shows adverse reactions on the abiraterone acetate arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with abiraterone acetate with a corticosteroid was 8 months.
 
-Table 1:Adverse Reactions due to Abiraterone Acetate in Study 1
+Table 1: Adverse Reactions due to Abiraterone Acetate in Study 1
 
 |  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid (N=394) |  |
 | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Table 1:Adverse Reactions due to Abiraterone Acetate in Study 1
 Table 2 shows laboratory abnormalities of interest from Study 1.
 Grade 3-4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the abiraterone acetate with a corticosteroid arm.
 
-Table 2 Laboratory Abnormalities of Interest in Study 1
+Table 2: Laboratory Abnormalities of Interest in Study 1
 
 |  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid(N=394) |  |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Patients were ineligible if AST and/or ALT ≥ 2.5X ULN and patients were exclud
 Table 3 shows adverse reactions on the abiraterone acetate arm in Study 2 that occurred in ≥ 5% of patients with a ≥ 2% absolute increase in frequency compared to placebo.
 The median duration of treatment with abiraterone acetate with a corticosteroid was 13.8 months.
 
-Table 3:Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
+Table 3: Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
 
 |  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid(N=540) |  |
 | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@ Table 3:Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in
 
 Table 4 shows laboratory abnormalities that occurred in greater than 15% of patients, and more frequently (>5%) in the abiraterone acetate arm compared to placebo in Study 2.
 
-Table 4:Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Arm of Study 2
+Table 4: Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Arm of Study 2
 
 |  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid(N=540) |  |
 | --- | --- | --- | --- | --- |

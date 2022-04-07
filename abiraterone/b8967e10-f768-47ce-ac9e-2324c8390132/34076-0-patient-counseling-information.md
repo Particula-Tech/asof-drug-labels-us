@@ -22,7 +22,7 @@ Hepatotoxicity
 Hypoglycemia
 
 - Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
-  Advise patients with diabetes to monitor blood glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
+  Advise patients with diabetes to monitor blood glucose levels during and after treatment with YONSA [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
 
 Use in Combination with Radium Ra 223 Dichloride
 
@@ -34,7 +34,7 @@ Dosing and Administration
 - Inform patients that YONSA tablets may not be interchangeable with other abiraterone acetate products due to different dosing and food effects [see Dosage and Administration (2.2)].
 - Inform patients that YONSA is taken once daily with methylprednisolone twice daily and to not interrupt or stop either of these medications without consulting their healthcare provider [see Dosage and Administration (2.2)].
 - Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with YONSA [see Dosage and Administration (2.2)].
-- Instruct patients that YONSA can be taken with or without food.
+- Instruct patients to take YONSA tablets as a single dose once orally with or without food.
   Instruct patients to swallow tablets whole with water and not to crush or chew the tablets [see Dosage and Administration (2.2)].
 - Inform patients that if they miss a dose of YONSA or methylprednisolone, they should take their normal dose the following day.
   If more than one daily dose is skipped, inform patients to contact their healthcare provider [see Dosage and Administration (2.2)].
@@ -42,7 +42,7 @@ Dosing and Administration
 Embryo-Fetal Toxicity
 
 - Inform patients that YONSA may harm a developing fetus and can cause loss of pregnancy.
-- Advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1)].
+- Advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the last dose of YONSA [see Use in Specific Populations (8.1)].
 - Advise females who are pregnant or women who may be pregnant not to handle YONSA tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
 
 Infertility
@@ -65,6 +65,4 @@ YONSA is a registered trademark of Sun Pharma Global FZE
 
 All rights reserved.
 
-Revised: January 2022
-
-uspi-YONSA-tab-00003
+uspi-YONSA-tab-00004

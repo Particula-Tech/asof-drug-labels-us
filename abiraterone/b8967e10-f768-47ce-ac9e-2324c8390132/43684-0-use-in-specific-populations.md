@@ -32,7 +32,7 @@ Contraception
 
 Males
 
-Based on findings in animal reproduction studies and its mechanism of action, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1)].
+Based on findings in animal reproduction studies and its mechanism of action, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the last dose of YONSA [see Use in Specific Populations (8.1)].
 
 Infertility
 
@@ -48,7 +48,7 @@ Of the total number of patients receiving abiraterone acetate in the two randomi
 No overall differences in safety or effectiveness were observed between these elderly patients and younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-## 8.6 Patients with Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 The pharmacokinetics of abiraterone were examined in subjects with baseline mild (N=8) or moderate (N=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone after a single oral dose equivalent to 500 mg of YONSA increased by approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively compared to subjects with normal hepatic function.
@@ -56,12 +56,11 @@ The systemic exposure (AUC) of abiraterone after a single oral dose equivalent t
 In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone increased by approximately 7-fold and the fraction of free drug increased 2-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
 
-No dosage adjustment is necessary for patients with baseline mild hepatic impairment.
-In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of YONSA to 125 mg once daily.
+No dosage modification is recommended for patients with baseline mild hepatic impairment (Child-Pugh Class A). In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of YONSA to 125 mg once daily.
 Do not use YONSA in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate treatment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 For patients who develop hepatotoxicity during treatment, interruption of treatment and dosage adjustment may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
-## 8.7 Patients with Renal Impairment
+## 8.7 Renal Impairment
 
-No dosage adjustment is necessary for patients with renal impairment [see Clinical Pharmacology (12.3)].
+No dosage modification is receommended for patients with renal impairment [see Clinical Pharmacology (12.3)].

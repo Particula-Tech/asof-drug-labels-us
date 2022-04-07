@@ -4,7 +4,7 @@ The efficacy and safety of abiraterone acetate with prednisone in patients with 
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
-Study 1:Patients with metastatic CRPC who had received prior docetaxel chemotherapy
+Study 1: Patients with metastatic CRPC who had received prior docetaxel chemotherapy
 
 A total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose equivalent to 500 mg of YONSA once daily in combination with a different corticosteroid orally twice daily (N=797) or placebo once daily plus a different corticosteroid orally twice daily (N=398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient’s baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
