@@ -47,7 +47,7 @@ Table 2 Weight-Based Dosing for PRADAXA Oral Pellets for Pediatric Patients betw
 | 13 kg to less than 16 kg | 140 mg | one 30 mg packet plus one 110 mg packet twice daily |
 | 16 kg to less than 21 kg | 170 mg | one 20 mg packet plus one 150 mg packet twice daily |
 | 21 kg to less than 41 kg | 220 mg | two 110 mg packets twice daily |
-| 41 kg or greater | 260 mg | one 110 mg packets plus one 150 mg packet twice daily |
+| 41 kg or greater | 260 mg | one 110 mg packet plus one 150 mg packet twice daily |
 
 Evaluation of the extent of anticoagulation in pediatric patients on PRADAXA Oral Pellets may be accomplished using dTT or ECT, and not INR [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
@@ -86,7 +86,6 @@ Administration with soft foods
 
 PRADAXA Oral Pellets may be mixed with two teaspoons of the following soft foods at room temperature:
 
-- Baby rice cereal, prepared with water
 - Mashed carrots
 - Apple sauce
 - Mashed banana

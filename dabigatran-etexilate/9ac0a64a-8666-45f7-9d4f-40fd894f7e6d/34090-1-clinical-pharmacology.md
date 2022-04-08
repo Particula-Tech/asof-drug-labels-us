@@ -75,10 +75,10 @@ In pediatric patients taking age- and weight-adjusted doses of PRADAXA pellets (
 Renal Impairment
 
 An open, parallel-group, single-center study compared dabigatran pharmacokinetics in healthy adult subjects and adult patients with mild to moderate renal impairment receiving a single dose of PRADAXA capsules 150 mg.
-Exposure to dabigatran increases with severity of renal function impairment (Table 5).
+Exposure to dabigatran increases with severity of renal function impairment (Table 4).
 Similar findings were observed in the RE-LY, RE-COVER and RE-NOVATE II trials.
 
-Table 5 Impact of Renal Impairment on Dabigatran Pharmacokinetics
+Table 4 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in Cmax | t1/2 (h) |
 | --- | --- | --- | --- | --- |

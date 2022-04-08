@@ -9,9 +9,9 @@ Instructions for Patients
 - Remind patients or their caregivers not to discontinue PRADAXA Oral Pellets without talking to the healthcare provider who prescribed it.
 - Provide the following instructions on administration to the patients or caregivers:
   - Take the prescribed dose of PRADAXA Oral Pellets twice a day, approximately 12 hours apart;
-  - PRADAXA Oral Pellets may be sprinkled on baby rice cereal prepared with water, mashed carrots, apple sauce, or mashed banana, or may be taken with approximately 1-2 ounces of apple juice;
+  - PRADAXA Oral Pellets may be sprinkled on mashed carrots, apple sauce, or mashed banana, or may be taken with approximately 1-2 ounces of apple juice;
   - PRADAXA Oral Pellets should not be mixed with milk or with foods that contain milk;
-  - Once the Oral Pellets are mixed with the soft food or apple juice, the patient should take the dose within 30 minutes;
+  - Once the PRADAXA Oral Pellets are mixed with the soft food or apple juice, the patient should take the dose within 30 minutes;
   - If a dose of PRADAXA Oral Pellets is not taken at the scheduled time, the dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.
     The dose of PRADAXA Oral Pellets should not be doubled to make up for a missed dose.
 

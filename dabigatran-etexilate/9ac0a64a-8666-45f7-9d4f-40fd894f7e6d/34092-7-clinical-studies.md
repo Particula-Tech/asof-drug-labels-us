@@ -12,13 +12,13 @@ The median treatment duration during the treatment period was 85 days.
 In total, 267 patients entered the study (leading index VTE was 64% deep vein thrombosis, 10% cerebral venous thrombosis or sinus thrombosis, and 9.0% pulmonary embolism), with 18% of patients having a central line-associated thrombosis.
 The patient population was 49.8% male, 91.8% white, 4.9% Asian, and 1.5% black; 168 patients were 12 to <18 years old, 64 patients 2 to <12 years, and 35 patients were younger than 2 years.
 The concomitant VTE-related risk factors of patients in this trial among study arms were as follows: inherited thrombophilia disorder (PRADAXA: 20%; SOC: 22%), congenital heart disease (PRADAXA: 12%; SOC: 30%), heart failure (PRADAXA: 3%; SOC: 18%), history of cancer (PRADAXA: 10%; SOC: 1%), CVL insertion (PRADAXA: 23%; SOC: 27%), immobility (PRADAXA: 13%; SOC: 10%) and significant infection (PRADAXA: 15%; SOC: 13%).
-The number of patients taking concomitant medications with hemostatic effects were similar in both treatment groups (PRADAXA: 15%; SOC: 16%).
+The number of patients taking concomitant medications with hemostatic effects was similar in both treatment groups (PRADAXA: 15%; SOC: 16%).
 
 The efficacy of PRADAXA was established based on a composite endpoint of patients with complete thrombus resolution, freedom from recurrent venous thromboembolic event, and freedom from mortality related to venous thromboembolic event (composite primary endpoint).
 Of the 267 randomized patients, 81 patients (45.8%) in the dabigatran etexilate group and 38 patients (42.2%) in the SOC group met the criteria for the composite primary endpoint.
-The corresponding rate difference and 95% CI was -0.038 (-0.161, 0.086) and thus demonstrated non-inferiority of PRADAXA to SOC, since the upper bound of the 95% CI was lower than the predefined non-inferiority margin of 20% (see Table 6).
+The corresponding rate difference and 95% CI was -0.038 (-0.161, 0.086) and thus demonstrated non-inferiority of PRADAXA to SOC, since the upper bound of the 95% CI was lower than the predefined non-inferiority margin of 20% (see Table 5).
 
-Table 6 Efficacy Results [ITT population] DIVERSITY Study
+Table 5 Efficacy Results [ITT population] DIVERSITY Study
 
 |  | PRADAXA |  | Standard of Care |  |
 | --- | --- | --- | --- | --- |

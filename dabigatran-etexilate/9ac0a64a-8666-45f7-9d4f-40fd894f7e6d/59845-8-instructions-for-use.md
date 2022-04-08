@@ -29,7 +29,6 @@ How to prepare and give a dose of PRADAXA Oral Pellets with soft foods:
 The food should be at room temperature before mixing with the pellets.
 Use only one of the following soft foods:
 
-- Baby rice cereal, prepared with water
 - Mashed carrots
 - Apple sauce (for administration with apple juice see below)
 - Mashed banana
@@ -88,7 +87,7 @@ For more information about PRADAXA Oral Pellets, call Boehringer Ingelheim Pharm
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Copyright © 2022 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-COL8834CB072022
+COL8834DC302022
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: February 2022
+Revised: March 2022

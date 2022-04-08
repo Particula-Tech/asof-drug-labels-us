@@ -4,4 +4,6 @@ PRADAXA is a registered trademark of and used under license from Boehringer Inge
 
 Copyright © 2022 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-COL8834CB072022 SPL8854D
+COL8834DC302022
+
+SPL8854E

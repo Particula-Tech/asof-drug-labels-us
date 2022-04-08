@@ -29,10 +29,10 @@ Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73m2 wer
 
 Bleeding
 
-Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding, and minor bleeding events for the PRADAXA group and the SOC group in the DIVERSITY study are reported in Table 4.
+Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding, and minor bleeding events for the PRADAXA group and the SOC group in the DIVERSITY study are reported in Table 3.
 There was no statistically significant difference in the time to first major bleeding event.
 
-Table 4 Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSITY
+Table 3 Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSITY
 
 | Patients | N=176 | N=90 |
 | --- | --- | --- |
