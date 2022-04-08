@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214301"
+  ],
+  "inn": "lacosamide",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-791-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lacosamide",
+      "name": "LACOSAMIDE"
+    }
+  ],
+  "setid": "6b4536d0-5703-42b0-9f59-46a3e1b75b22",
+  "source": "dailymed"
+}
