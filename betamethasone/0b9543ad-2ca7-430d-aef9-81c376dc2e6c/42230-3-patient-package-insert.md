@@ -18,5 +18,5 @@
 | What are the ingredients in DIPROLENE Ointment? |  |
 | Active ingredient: augmented betamethasone dipropionate Inactive ingredients: propylene glycol; propylene glycol stearate; white petrolatum; and white wax. |  |
 | Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA |  |
-| Copyright © 2021 Organon Global Inc. All rights reserved. usppi-og1460-ot-2106r000 For patent information: www.organon.com/our-solutions/patent/ |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 6/2021 |
+| © 2022 Organon group of companies. All rights reserved. usppi-og1460-ot-2202r001 For patent information: www.organon.com/our-solutions/patent/ |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 2/2022 |

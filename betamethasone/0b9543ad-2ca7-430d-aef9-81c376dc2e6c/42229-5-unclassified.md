@@ -2,6 +2,7 @@ Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 0730
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2022 Organon group of companies.
+All rights reserved.
 
-uspi-og1460-ot-2106r000
+uspi-og1460-ot-2202r001
