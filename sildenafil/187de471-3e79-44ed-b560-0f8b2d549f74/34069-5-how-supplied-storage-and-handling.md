@@ -6,4 +6,6 @@ They are available as follows:
 
 Bottles of 90: NDC 65162-351-09
 
+Bottles of 1000: NDC 65162-351-11
+
 Recommended Storage for Sildenafil Tablets, USP: Store at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
