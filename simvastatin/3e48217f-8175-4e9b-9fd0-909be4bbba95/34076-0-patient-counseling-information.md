@@ -1,47 +1,31 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)- recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
+Myopathy and Rhabdomyolysis
 
-Patients should be advised about substances they should not take concomitantly with simvastatin [see CONTRAINDICATONS (4) and WARNINGS AND PRECAUTIONS (5.1)].
-Patients should also be advised to inform other healthcare professionals prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
+Advise patients that simvastatin may cause myopathy and rhabdomyolysis.
+Inform patients taking the 80 mg daily dose of simvastatin that they are at an increased risk.
+Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.1), AND DRUG INTERACTIONS (7.1)].
 
-## 17.1 Muscle Pain
+Hepatic Dysfunction
 
-All patients starting therapy with simvastatin should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin.
-Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin is increased when taking certain types of medication or consuming grapefruit juice.
-Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
+Inform patients that simvastatin may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see WARNINGS AND PRECAUTIONS (5.3)].
 
-## 17.2 Liver Enzymes
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-It is recommended that liver function tests be performed before the initiation of simvastatin, and thereafter when clinically indicated.
-All patients treated with simvastatin should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with simvastatin.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see WARNINGS AND PRECAUTIONS (5.4)].
 
-## 17.3 Pregnancy
+Pregnancy
 
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using simvastatin.
-Discuss future pregnancy plans with your patients, and discuss when to stop taking simvastatin if they are trying to conceive.
-Patients should be advised that if they become pregnant they should stop taking simvastatin and call their healthcare professional.
+Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if simvastatin should be discontinued [see USE IN SPECIFIC POPULATIONS (8.1)].
 
-## 17.4 Breastfeeding
+Lactation
 
-Women who are breastfeeding should not use simvastatin.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
-
-1National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
-Pediatrics.
-89(3):495-501.
-1992.
-
-2Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
-
-3D.R.
-Taves, Minimization: a new method of assigning patients to treatment and control groups.
-Clin.
-Pharmacol.
-Ther.
-15 (1974), pp.
-443-453.
+Advise patients that breastfeeding is not recommended during treatment with simvastatin [see USE IN SPECIFIC POPULATIONS (8.2)].
 
 Manufactured for:
 
@@ -53,4 +37,4 @@ United States
 
 MADE IN INDIA.
 
-March 2021 ID#: 266883
+April 2022 ID#: 270385
