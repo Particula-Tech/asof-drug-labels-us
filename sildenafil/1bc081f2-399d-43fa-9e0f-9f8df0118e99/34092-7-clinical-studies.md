@@ -57,7 +57,7 @@ Kaplan- Meier plot of time to clinical worsening is presented in Figure 11.
 Table 4.
 Clinical Worsening Events in Study 2
 
-|  | Placebo (N = 131) |  | Sildenafil (N = 134) |  |
+|  | Placebo(N = 131) |  | Sildenafil(N = 134) |  |
 | --- | --- | --- | --- | --- |
 | Number of subjects with clinical worsening first event | 23 |  | 8 |  |
 |  | First Event | All Events | First Event | All Events |
@@ -70,7 +70,7 @@ Clinical Worsening Events in Study 2
 Improvements in WHO functional class for PAH were also demonstrated in subjects on sildenafil citrate compared to placebo.
 More than twice as many sildenafil citrate -treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.
 
-Study 3 (REVATIO monotherapy (1 mg, 5 mg, and 20 mg three times a day))
+Study 3 (Sildenafil citrate monotherapy (1 mg, 5 mg, and 20 mg three times a day))
 
 A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
 This study was prematurely terminated with 129 subjects enrolled.
@@ -83,6 +83,9 @@ The majority of subjects were Asian (67%), and 28% were Caucasian.
 The primary efficacy endpoint was the change from baseline at Week 12 (at least 4 hours after the last dose) in the 6-minute walk distance.
 Similar increases in walk distance (mean increase of 38 to 41 meters) were observed in the 5 and 20 mg dose groups.
 These increases were significantly better than those observed in the 1 mg dose group (Figure 12).
+
+Figure 12.
+Mean Change from Bas eline in Six Minute Walk (meters) by Visit to Week 12 – ITT Population Sildenafil Protocol A1481244
 
 Study 4 (Sildenafil citrate added to bosentan therapy – lack of effect on exercise capacity)
 
