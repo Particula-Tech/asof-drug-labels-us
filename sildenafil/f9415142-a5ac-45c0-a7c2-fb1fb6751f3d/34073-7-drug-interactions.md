@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Nitrates Concomitant use of sildenafil tablets with nitrates in any form is contraindicated [see Contraindications (4)].
+Nitrates Concomitant use of sildenafil tablets with nitrates in any form is contraindicated [see Contraindications(4)].
 Ritonavir and other Potent CYP3A Inhibitors Concomitant use of sildenafil tablets with ritonavir and other potent CYP3A inhibitors is not recommended [see Clinical Pharmacology (12.3)].
 Other drugs that reduce blood pressure Alpha blockers.
 In drug-drug interaction studies, sildenafil (25 mg, 50 mg, or 100 mg) and the alpha-blocker doxazosin (4 mg or 8 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
@@ -10,4 +10,4 @@ There were infrequent reports of patients who experienced symptomatic postural h
 These reports included dizziness and light-headedness, but not syncope.
 Amlodipine.
 When sildenafil 100 mg oral was co-administered with amlodipine, 5 mg or 10 mg oral, to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic.
-Monitor blood pressure when co-administering blood pressure lowering drugs with sildenafil tablets [see Warnings and Precautions (5.2)].
+Monitor blood pressure when co-administering blood pressure lowering drugs with sildenafil tablets [see Warnings and Precautions(5.2)].

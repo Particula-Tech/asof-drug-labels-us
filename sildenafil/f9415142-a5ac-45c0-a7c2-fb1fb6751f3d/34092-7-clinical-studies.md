@@ -31,7 +31,7 @@ Patients on sildenafil tablets achieved a statistically significant reduction in
 A mean placebo-corrected treatment effect of -3.9 mmHg was observed in favor of sildenafil tablets (95% CI: -5.7, -2.1) (p = 0.00003).
 Time to clinical worsening of PAH was defined as the time from randomization to the first occurrence of a clinical worsening event (death, lung transplantation, initiation of bosentan therapy, or clinical deterioration requiring a change in epoprostenol therapy).
 Table 4 displays the number of patients with clinical worsening events in Study 2.
-Kaplan-Meier estimates and a stratified log-rank test demonstrated that placebo-treated patients were 3 times more likely to experience a clinical worsening event than sildenafil-treated patients and that sildenafil-treated patients experienced a significant delay in time to clinical worsening versus placebo-treated patients (p = 0.0074).
+Kaplan-Meier estimates and a stratified log-rank test demonstrated that placebo-treated patients were 3 times more likely to experience a clinical worsening event than sildenafil-treated patients and that sildenafil -treated patients experienced a significant delay in time to clinical worsening versus placebo-treated patients (p = 0.0074).
 Kaplan-Meier plot of time to clinical worsening is presented in Figure 11.
 Table 4.
 Clinical Worsening Events in Study 2
@@ -44,7 +44,7 @@ Clinical Worsening Events in Study 2
 | Lung Transplantation, n | 1 | 1 | 0 | 0 |
 | Hospitalization due to PAH, n | 9 | 11 | 8 | 8 |
 | Clinical deterioration resulting in: Change of Epoprostenol Dose, n Initiation of Bosentan, n | 9 1 | 16 1 | 0 0 | 2 0 |
-| Proportion Worsened 95% Confidence Intervals | 0.187 (0.12 - 0.26) |  | 0.062 (0.02 - 0.10) |  |
+| Proportion Worsened 95% Confidence Interval | 0.187 (0.12 - 0.26) |  | 0.062 (0.02 - 0.10) |  |
 
 Figure 11.
 Kaplan-Meier Plot of Time (in Days) to Clinical Worsening of PAH in Study 2 Improvements in WHO functional class for PAH were also demonstrated in subjects on sildenafil tablets compared to placebo.

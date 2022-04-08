@@ -24,23 +24,21 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 |  | Placebo (n = 65)* | Sildenafil Tablets 20 mg three times a day (n = 65)* |
 | --- | --- | --- |
 | mPAP (mmHg) | 0.6 (-0.8, 2) | -2.1 (-4.3, 0) |
-| PVR (dyn⋅s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
-| SVR (dyn⋅s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
+| PVR (dyn⋅ s/cm 5) | 49 (-54, 153) | -122 (-217, -27) |
+| SVR (dyn⋅ s/cm 5) | -78 (-197, 41) | -167 (-307, -26) |
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
 | CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
 | HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
 
-mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate
-
-∗The number of patients per treatment group varied slightly for each parameter due to missing assessments.
-In another study evaluating lower doses of sildenafil 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
+mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate ∗The number of patients per treatment group varied slightly for each parameter due to missing assessments.
+In another study evaluating lower doses of sildenafil 1 mg, 5 mg and 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
 Effects of Sildenafil Tablets on Blood Pressure Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
 The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing, and was not different from placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
 After chronic dosing of 80 mg three times a day to patients with PAH, no clinically relevant effects on ECG were reported.
-After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9 mmHg and 8.4 mmHg, respectively.
+After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9.0 mmHg and 8.4 mmHg, respectively.
 After chronic dosing of 80 mg three times a day sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 mmHg and 9.1 mmHg, respectively.
 After chronic dosing of 80 mg three times a day sildenafil to patients with PAH, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
 Effects of Sildenafil Tablets on Vision At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
@@ -51,7 +49,7 @@ An evaluation of visual function at doses up to 200 mg revealed no effects of si
 
 Absorption and Distribution Sildenafil tablets are rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (25 to 63%).
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
-When sildenafil tablets are taken with a high-fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
+When sildenafil tablets are taken with a high-fat meal, the rate of absorption is reduced, with a mean delay in T max of 60 minutes and a mean reduction in Cmax of 29%.
 The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
@@ -67,26 +65,24 @@ Population Pharmacokinetics Age, gender, race, and renal and hepatic function we
 The dataset available for the population pharmacokinetic evaluation contained a wide range of demographic data and laboratory parameters associated with hepatic and renal function.
 None of these factors had a significant impact on sildenafil pharmacokinetics in patients with PAH.
 In patients with PAH, the average steady-state concentrations were 20 to 50% higher when compared to those of healthy volunteers.
-There was also a doubling of Cmin levels compared to healthy volunteers.
+There was also a doubling of C min levels compared to healthy volunteers.
 Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
 Geriatric Patients Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma concentrations of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18 to 45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively.
 Renal Impairment In volunteers with mild (CLcr = 50 to 80 mL/min) and moderate (CLcr = 30 to 49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
-In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
-In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
-Hepatic Impairment In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh class A and B), sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and C max compared to age-matched volunteers with no renal impairment.
+In addition, N-desmethyl metabolite AUC and C max values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
+Hepatic Impairment In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh class A and B), sildenafil clearance was reduced, resulting in increases in AUC (84%) and C max (47%) compared to age-matched volunteers with no hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh class C) have not been studied.
 Drug Interaction Studies In vitro studies Sildenafil metabolism is principally mediated by the CYP3A (major route) and CYP2C9 (minor route) cytochrome P450 isoforms.
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than 150 μM).
 Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
-In vivo studies The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 7 and Figure 8, respectively.
+In vivostudies The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 7 and Figure 8, respectively.
 Figure 7.
-Effects of Other Drugs on Sildenafil Pharmacokinetics •••No benefit on exercise capacity when sildenafil added to bosentan therapy [see Clinical Studies (14)]
+Effects of Other Drugs on Sildenafil Pharmacokinetics
 
-Figure 8 Effects of Sildenafil on Other Drugs
-
-CYP3A Inhibitors and Beta Blockers Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
+***No benefit on exercise capacity when sildenafil added to bosentan therapy [see Clinical Studies (14)] Figure 8 Effects of Sildenafil on Other Drugs CYP3A Inhibitors and Beta Blockers Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 CYP3A4 inducers including bosentan Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.

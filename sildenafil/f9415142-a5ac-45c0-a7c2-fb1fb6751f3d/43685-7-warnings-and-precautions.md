@@ -23,7 +23,7 @@ Should signs of pulmonary edema occur when sildenafil tablets are administered, 
 The incidence of epistaxis was 13% in patients taking sildenafil tablets with PAH secondary to CTD.
 This effect was not seen in idiopathic PAH (sildenafil 3%, placebo 2%) patients.
 The incidence of epistaxis was also higher in sildenafil -treated patients with a concomitant oral vitamin K antagonist (9% versus 2% in those not treated with concomitant vitamin K antagonist).
-The safety of sildenafil tablets are unknown in patients with bleeding disorders or active peptic ulceration.
+The safety of sildenafil tablets is unknown in patients with bleeding disorders or active peptic ulceration.
 
 ## 5.5 Visual Loss
 
@@ -48,11 +48,11 @@ In many cases, medical follow-up information was limited.
 It is not possible to determine whether these reported events are related directly to the use of sildenafil tablets, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors.
 Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking PDE-5 inhibitors, including sildenafil tablets.
 
-## 5.7 Combination with other PDE-5 Inhibitors
+## 5.7 Combination with other PDE-5 inhibitors
 
-Sildenafil is also marketed as VIAGRA®.
+Sildenafil is also marketed as VIAGRA ®.
 The safety and efficacy of combinations of sildenafil tablets with VIAGRA or other PDE-5 inhibitors have not been studied.
-Inform patients taking sildenafil tablets not to take VIAGRA or other PDE­5 inhibitors.
+Inform patients taking sildenafil tablets not to take VIAGRA or other PDE­-5 inhibitors.
 
 ## 5.8 Priapism
 
