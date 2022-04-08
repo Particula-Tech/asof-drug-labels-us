@@ -9,7 +9,7 @@ Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or 
 In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
 
-In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
+In vitro, dolutegravir did not inhibit (IC50 >50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
@@ -24,7 +24,7 @@ Drugs that induce those enzymes and transporters may decrease dolutegravir plasm
 
 Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentrations.
 
-Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir and is expected to be mitigated by atazanavir/ritonavir (Table 6) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
 In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.
 
@@ -34,34 +34,34 @@ Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, da
 
 There were no drug-drug interaction trials conducted with the abacavir, dolutegravir, and lamivudine fixed-dose combination tablets.
 
-Information regarding potential drug interactions with the individual components of TRIUMEQ are provided below.
+Information regarding potential drug interactions with the individual components of TRIUMEQ and TRIUMEQ PD are provided below.
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
 [See Contraindications (4), Clinical Pharmacology (12.3).]
 
-Table 5.
+Table 6.
 Established and Other Potentially Significant Drug Interactions for Dolutegravir: Alterations in Dose May Be Recommended Based on Drug Interaction Trials or Predicted Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
 | HIV-1 Antiviral Agents |  |  |
-| Non-nucleoside reverse transcriptase inhibitor: Etravirinea | ↓Dolutegravir | Use of TRIUMEQ with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended. |
-| Non-nucleoside reverse transcriptase inhibitor: Efavirenza | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
-| Non-nucleoside reverse transcriptase inhibitor: Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
-| Protease inhibitor: Fosamprenavir/ritonavira Tipranavir/ritonavira | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
+| Non-nucleoside reverse transcriptase inhibitor: Etravirinea | ↓Dolutegravir | Use of TRIUMEQ or TRIUMEQ PD with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended. |
+| Non-nucleoside reverse transcriptase inhibitor: Efavirenza | ↓Dolutegravir | In adults and in pediatric patients weighing at least 25 kg, adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of TIVICAY should be taken, separated by 12 hours from TRIUMEQ.In pediatric patients weighing 10 to <25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
+| Non-nucleoside reverse transcriptase inhibitor: Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ or TRIUMEQ PD because there are insufficient data to make dosing recommendations. |
+| Protease inhibitor: Fosamprenavir/ritonavira Tipranavir/ritonavira | ↓Dolutegravir | In adults and in pediatric patients weighing at least 25 kg, adjust dolutegravir dose to 50 mg twice daily. An additional TIVICAY 50-mg dose should be taken, separated by 12 hours from TRIUMEQ.In pediatric patients weighing 10 to <25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
 | Other Agents |  |  |
-| Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with TRIUMEQ [see Contraindications (4)]. |
-| Potassium channel blocker: Dalfampridine | ↑Dalfampridine | Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with TRIUMEQ should be considered against the risk of seizures in these patients. |
-| Carbamazepinea | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
-| Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
-| Medications containing polyvalent cations (e.g., Mg or Al): Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
-| Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | When taken with food, TRIUMEQ and supplements or multivitamins containing calcium or iron can be taken at the same time. Under fasting conditions, TRIUMEQ should be taken 2 hours before or 6 hours after taking supplements containing calcium or iron. |
-| Metformina | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of TRIUMEQ and metformin. |
-| Rifampina | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
+| Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with TRIUMEQ and TRIUMEQ PD [see Contraindications (4)]. |
+| Potassium channel blocker: Dalfampridine | ↑Dalfampridine | Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with TRIUMEQ or TRIUMEQ PD should be considered against the risk of seizures in these patients. |
+| Carbamazepinea | ↓Dolutegravir | In adults and in pediatric patients weighing at least 25 kg, adjust dolutegravir dose to 50 mg twice daily. An additional TIVICAY 50-mg dose should be taken, separated by 12 hours from TRIUMEQ.In pediatric patients weighing 10 to < 25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
+| Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ or TRIUMEQ PD because there are insufficient data to make dosing recommendations. |
+| Medications containing polyvalent cations (e.g., Mg or Al): Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TRIUMEQ or TRIUMEQ PD 2 hours before or 6 hours after taking medications containing polyvalent cations. |
+| Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | When taken with food, TRIUMEQ or TRIUMEQ PD and supplements or multivitamins containing calcium or iron can be taken at the same time. Under fasting conditions, TRIUMEQ or TRIUMEQ PD should be taken 2 hours before or 6 hours after taking supplements containing calcium or iron. |
+| Metformina | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of TRIUMEQ or TRIUMEQ PD and metformin. |
+| Rifampina | ↓Dolutegravir | In adults and in pediatric patients weighing at least 25 kg, adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of TIVICAY should be taken, separated by 12 hours from TRIUMEQ.In pediatric patients weighing 10 to < 25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
 | a See Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction. |  |  |
 
 Methadone
 
-Abacavir: In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
+Abacavir: In a trial of 11 HIV-1–infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
 
 Sorbitol

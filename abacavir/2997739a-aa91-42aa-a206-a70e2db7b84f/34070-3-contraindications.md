@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-TRIUMEQ is contraindicated in patients:
+TRIUMEQ and TRIUMEQ PD are contraindicated in patients:
 
 - •who have the HLA-B*5701 allele [see Warnings and Precautions (5.1)].
 - •with prior hypersensitivity reaction to abacavir, dolutegravir [see Warnings and Precautions (5.1)], or lamivudine.

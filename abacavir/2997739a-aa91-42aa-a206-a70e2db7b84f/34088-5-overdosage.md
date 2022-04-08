@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-There is no known specific treatment for overdose with TRIUMEQ.
-If overdose occurs, the patient should be monitored and standard supportive treatment applied as required.
+There is no known specific treatment for overdose with TRIUMEQ or TRIUMEQ PD.
+If overdose occurs, the patient should be monitored, and standard supportive treatment applied as required.
 
 Dolutegravir
 

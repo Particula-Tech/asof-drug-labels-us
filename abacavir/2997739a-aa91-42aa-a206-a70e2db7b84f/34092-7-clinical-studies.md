@@ -2,14 +2,14 @@
 
 ## 14.1 Adult Subjects
 
-The efficacy of TRIUMEQ is supported by data from a randomized, controlled trial (double-blind through 96 weeks and open-label phase from 96 to 144 weeks) in antiretroviral treatment-naïve subjects, SINGLE (ING114467, NCT01263015) and other trials in treatment-naïve subjects.
+The efficacy of TRIUMEQ is supported by data from a randomized, controlled trial (double-blind through 96 weeks and open-label phase from 96 to 144 weeks) in antiretroviral treatment- naive subjects, SINGLE (ING114467, NCT01263015) and other trials in treatment- naive subjects.
 See full prescribing information for TIVICAY.
-The efficacy of dolutegravir, in combination with at least two active background regimens in treatment-experienced, INSTI-naïve subjects is supported by data from SAILING (ING111762, NCT01231516) (refer to the prescribing information for TIVICAY).
+The efficacy of dolutegravir, in combination with at least two active background regimens in treatment-experienced, INSTI- naive subjects is supported by data from SAILING (ING111762, NCT01231516) (refer to the prescribing information for TIVICAY).
 
-Treatment-Naïve Subjects
+Treatment-Naive Subjects
 
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir disoproxil fumarate (ATRIPLA).
-At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV‑1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
+At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV‑1 RNA >100,000 copies/mL, and 53% had CD4+ cell count <350 cells/mm3; these characteristics were similar between treatment groups.
 
 Week 144 (open-label-phase analysis which followed the Week 96 double-blind phase) outcomes for SINGLE are provided in Table 11.
 
@@ -32,13 +32,13 @@ Virologic Outcomes of Randomized Treatment in SINGLE at 144 Weeks (Snapshot Algo
 | Proportion (%) of Subjects with HIV‑1 RNA <50 copies/mL by Baseline Category |  |  |
 | Plasma viral load (copies/mL) |  |  |
 | ≤100,000 | 73% | 64% |
-| >100,000 | 69% | 61% |
+| ≥100,000 | 69% | 61% |
 | Gender |  |  |
 | Male | 72% | 66% |
 | Female | 69% | 48% |
 | Race |  |  |
 | White | 72% | 71% |
-| African-American/African Heritage/Other | 71% | 47% |
+| African American/African Heritage/Other | 71% | 47% |
 | a Adjusted for pre-specified stratification factors. b Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window. c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. d The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%). |  |  |
 
 Treatment differences were maintained across baseline characteristics including baseline viral load, CD4+ cell count, age, gender, and race.
@@ -48,16 +48,16 @@ The adjusted difference between treatment arms and 95% CI was 46.9 cells per mm3
 Treatment-Experienced
 
 In SAILING, there were 715 subjects included in the efficacy and safety analyses (see full prescribing information for TIVICAY).
-At Week 48, 71% of subjects randomized to TIVICAY plus background regimen versus 64% of subjects randomized to raltegravir plus background regimen had HIV‑1 RNA less than 50 copies per mL (treatment difference and 95% CI: 7.4% [0.7%, 14.2%]).
+At Week 48, 71% of subjects randomized to TIVICAY plus background regimen versus 64% of subjects randomized to raltegravir plus background regimen had HIV‑1 RNA <50 copies/mL (treatment difference and 95% CI: 7.4% [0.7%, 14.2%]).
 
 ## 14.2 Pediatric Subjects
 
-The efficacy of the individual components of TRIUMEQ for the treatment of HIV-1 infection was evaluated in pediatric patients enrolled in the IMPAACT P1093 trial (NCT01302847) or the ARROW trial (NCT02028676), as summarized below.
+The efficacy of the individual components of TRIUMEQ and TRIUMEQ PD for the treatment of HIV-1 infection was evaluated in pediatric patients enrolled in the ARROW trial (NCT02028676) and IMPAACT P1093 trial (NCT01302847), as summarized below.
 
-- •Abacavir and lamivudine once daily, in combination with a third antiretroviral drug, were evaluated in a randomized, multicenter trial (ARROW) in HIV-1–infected, treatment-naïve subjects.
+- •Abacavir and lamivudine once daily, in combination with a third antiretroviral drug, were evaluated in a randomized, multicenter trial (ARROW) in treatment- naive pediatric subjects with HIV-1 infection.
   Subjects randomized to once-daily dosing (n = 336) and who weighed at least 25 kg received abacavir 600 mg and lamivudine 300 mg, as either the single entities or as EPZICOM.
-  At Week 96, 67% of subjects receiving abacavir and lamivudine once-daily in combination with a third antiretroviral drug, had HIV-1 RNA less than 80 copies per mL.
-- •Dolutegravir, in combination with other antiretroviral drugs was evaluated in treatment-experienced, INSTI-naïve, HIV-1–infected subjects aged 6 to less than 18 years in a 48-week open-label, multicenter, dose-finding clinical trial, IMPAACT P1093.
-  Subjects aged 12 to less than 18 years were enrolled in Cohort I and subjects aged 6 to less than 12 years were enrolled in Cohort IIA.
-  At 48 weeks, 61% (14/23) of subjects aged 12 to less than 18 years treated with TIVICAY once daily plus optimized background therapy achieved virologic response defined as HIV‑1 RNA less than 50 copies per mL.
-  Across both cohorts, virologic suppression at Week 48 was achieved in 67% (16/24) of subjects weighing at least 40 kg.
+  At Week 96, 67% of subjects receiving abacavir and lamivudine once-daily in combination with a third antiretroviral drug, had HIV-1 RNA <80 copies/mL.
+- •Dolutegravir (TIVICAY or TIVICAY PD), in combination with other antiretroviral drugs was evaluated in treatment naive or treatment-experienced, INSTI- naive, HIV-1–infected subjects aged at least 4 weeks to 18 years in an ongoing open-label, multicenter, dose-finding clinical trial, IMPAACT P1093.
+  Subjects were stratified by age cohort; subjects aged 12 to <18 years were enrolled in Cohort I, subjects aged 6 to <12 years were enrolled in Cohort IIA, and subjects aged 2 to <6 years were enrolled in Cohort III-DT.
+  Subjects weighing at least 10 kg from Cohorts I (n = 19), IIA (n = 5), and III-DT (n = 3) who received the recommended dose (determined by weight and age) and formulation contributed to the efficacy analysis at Week 48.
+  Across all 3 cohorts, 67% (18/27) of subjects weighing at least 10 kg achieved HIV‑1 RNA <50 copies/mL at Week 48 (Snapshot algorithm).
