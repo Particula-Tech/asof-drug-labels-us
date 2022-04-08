@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207961"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-621-60",
+    "31722-622-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate",
+      "name": "Dabigatran Etexilate"
+    }
+  ],
+  "setid": "3c24e235-218b-438e-9456-42c18ff01913",
+  "source": "dailymed"
+}
