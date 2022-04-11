@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA013263"
+  ],
+  "inn": "diazepam",
+  "labeler": "Waylis Therapuetics LLC",
+  "package_ndcs": [
+    "80725-004-01",
+    "80725-005-01",
+    "80725-006-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "diazepam",
+      "name": "Valium"
+    }
+  ],
+  "setid": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+  "source": "dailymed"
+}
