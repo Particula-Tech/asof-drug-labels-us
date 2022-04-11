@@ -21,11 +21,13 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM1101A8
+RM1101A9
 
 PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -50,11 +52,13 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2302A8
+RM2302A9
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -79,8 +83,10 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM3205A8
+RM3205A9
