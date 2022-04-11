@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "NDA215039"
+  ],
+  "inn": "alpelisib",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-1021-51",
+    "0078-1021-84",
+    "0078-1021-90",
+    "0078-1021-91",
+    "0078-1028-51",
+    "0078-1028-84",
+    "0078-1028-90",
+    "0078-1028-91",
+    "0078-1035-02",
+    "0078-1035-61",
+    "0078-1035-92",
+    "0078-1035-94"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "alpelisib",
+      "name": "VIJOICE"
+    },
+    {
+      "form": "TABLET",
+      "generic": "alpelisib",
+      "name": "VIJOICE"
+    }
+  ],
+  "setid": "638069a4-aee0-46c9-9e21-54ad449c163c",
+  "source": "dailymed"
+}
