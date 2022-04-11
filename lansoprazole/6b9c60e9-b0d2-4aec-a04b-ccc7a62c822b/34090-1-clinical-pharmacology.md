@@ -61,7 +61,7 @@ Serum Gastrin Effects In over 2100 patients, median fasting serum gastrin levels
 These elevations reached a plateau within two months of therapy and returned to pretreatment levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9)].
 
 Endocrine Effects Human studies for up to one year have not detected any clinically significant effects on the endocrine system.
 Hormones studied include testosterone, luteinizing hormone (LH), follicle stimulating hormone (FSH), sex hormone binding globulin (SHBG), dehydroepiandrosterone sulfate (DHEA-S), prolactin, cortisol, estradiol, insulin, aldosterone, parathormone, glucagon, thyroid stimulating hormone (TSH), triiodothyronine (T3), thyroxine (T4), and somatotropic hormone (STH).
@@ -130,7 +130,9 @@ The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 t
 
 In patients with compensated and decompensated cirrhosis, there was an approximate 6-and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
-Drug Interaction Studies Effect of Lansoprazole on Other Drugs
+Drug Interaction Studies
+
+Effect of Lansoprazole on Other Drugs
 
 Cytochrome P450 Interactions: Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
 Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
@@ -142,7 +144,7 @@ Because of the small magnitude and the direction of the effect on theophylline c
 Methotrexate and 7-hydroxymethotrexate: In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
 However, this study was conducted with low doses of methotrexate.
-A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.9)].
+A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.10)].
 
 Amoxicillin: Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
 
@@ -194,7 +196,6 @@ A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times dai
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
-Susceptibility Test for Helicobacter pylori:
+Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 
-For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

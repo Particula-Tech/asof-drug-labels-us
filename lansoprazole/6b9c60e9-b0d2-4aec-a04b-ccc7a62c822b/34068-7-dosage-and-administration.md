@@ -32,22 +32,22 @@
 Pediatric Patients 1 to 11 Years of Age
 
 In clinical studies, lansoprazole delayed-release capsules were not administered beyond 12 weeks in 1 to 11 year olds.
-It is not known if lansoprazole is safe and effective if used longer than there commended duration.
+It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 
-| Indication | Recommended Dose | Frequency |
-| --- | --- | --- |
-| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
-| ≤30 kg | 15 mg | Once daily for up to 12 weeks |
-| >30 kg | 30 mg | Once daily for up to 12 weeks |
+| Indication | Recommended Dose |  | Frequency |
+| --- | --- | --- | --- |
+| Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |  |
+| ≤30 kg | 15 mg |  | Once daily for up to 12 weeks |
+| >30 kg | 30 mg |  | Once daily for up to 12 weeks |
 
 Pediatric Patients 12 to 17 Years of Age
 
-| Indication | Recommended Dose | Frequency |
-| --- | --- | --- |
-| Short-Term Treatment of Symptomatic GERD |  |  |
-| Non-erosive GERD | 15 mg | Once daily for up to 8 weeks |
-| Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
+| Indication | Recommended Dose |  | Frequency |
+| --- | --- | --- | --- |
+| Short-Term Treatment of Symptomatic GERD |  |  |  |
+| Non-erosive GERD | 15 mg |  | Once daily for up to 8 weeks |
+| Erosive Esophagitis | 30 mg |  | Once daily for up to 8 weeks |
 
 ## 2.3 Hepatic Impairment
 

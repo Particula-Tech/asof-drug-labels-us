@@ -1,7 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
-
 Advise patients to:
 
 Acute Tubulointerstitial Nephritis To call their healthcare provider if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Warnings and Precautions (5.2)].
@@ -10,13 +9,15 @@ Clostridium difficile-Associated Diarrhea To immediately call their healthcare p
 
 Bone Fracture To report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 
-Cutaneous and Systemic Lupus Erythematosus To immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+Severe Cutaneous Adverse Reactions To discontinue lansoprazole delayed-release capsules and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
 
-Cyanocobalamin (Vitamin B12) Deficiency To report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for longer than three years [see Warnings and Precautions (5.6)].
+Cutaneous and Systemic Lupus Erythematosus To immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
 
-Hypomagnesemia To report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for at least three months [see Warnings and Precautions (5.7)].
+Cyanocobalamin (Vitamin B12) Deficiency To report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for longer than three years [see Warnings and Precautions (5.7)].
 
-Drug Interactions Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
+Hypomagnesemia and Mineral Metabolism To report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for at least three months [see Warnings and Precautions (5.8)].
+
+Drug Interactions Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.10)].
 
 Pregnancy Advise a pregnant woman of the potential risk to a fetus.
 Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].

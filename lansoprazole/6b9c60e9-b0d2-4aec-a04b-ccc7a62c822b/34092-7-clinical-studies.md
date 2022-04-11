@@ -138,7 +138,7 @@ Symptomatic GERD: In a US multicenter, double-blind, placebo-controlled study of
 No significant additional benefit from lansoprazole 30 mg once daily was observed.
 
 The intent-to-treat analyses demonstrated significant reduction in frequency and severity of day and night heartburn.
-Data for frequency and severity for the eight week treatment period are presented in Table 17 and in Figures 1 and2:
+Data for frequency and severity for the eight week treatment period are presented in Table 17 and in Figures 1 and 2:
 
 | Table 17: Frequency of Heartburn |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
