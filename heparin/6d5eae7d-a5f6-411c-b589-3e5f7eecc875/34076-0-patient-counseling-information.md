@@ -25,8 +25,8 @@ Other Medications
 
 Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.1)].
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2020 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2021 Sagent Pharmaceuticals, Inc.
 
-Revised: August 2020
+Revised: October 2021
 
 SAGENT Pharmaceuticals ®
