@@ -6,17 +6,33 @@ Topiramate Tablets USP, 25 mg are white, circular, biconvex, film-coated tablets
 
 Bottles of 60 NDC 65862-171-60
 
+Bottles of 500 NDC 65862-171-05
+
+Bottles of 1,000 NDC 65862-171-99
+
 Topiramate Tablets USP, 50 mg are light yellow colored, circular, biconvex, film-coated tablets debossed with ‘E’ on one side and ‘33’ on the other side.
 
 Bottles of 60 NDC 65862-172-60
+
+Bottles of 500 NDC 65862-172-05
+
+Bottles of 1,000 NDC 65862-172-99
 
 Topiramate Tablets USP, 100 mg are dark yellow colored, circular, biconvex, beveled edge, film-coated tablets debossed with ‘E’ on one side and ‘23’ on the other side.
 
 Bottles of 60 NDC 65862-173-60
 
+Bottles of 500 NDC 65862-173-05
+
+Bottles of 1,000 NDC 65862-173-99
+
 Topiramate Tablets USP, 200 mg are pink colored, circular, biconvex, beveled edge, film-coated tablets debossed with ‘E’ on one side and ‘24’ on the other side.
 
 Bottles of 60 NDC 65862-174-60
+
+Bottles of 500 NDC 65862-174-05
+
+Bottles of 1,000 NDC 65862-174-99
 
 ## 16.2 Storage and Handling
 

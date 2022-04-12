@@ -228,4 +228,4 @@ In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg t
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2021
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2021
