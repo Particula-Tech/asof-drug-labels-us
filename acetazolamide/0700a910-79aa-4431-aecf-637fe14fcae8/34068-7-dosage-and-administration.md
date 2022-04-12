@@ -9,7 +9,7 @@ In all cases, the dosage should be adjusted with careful individual attention bo
 Continuous supervision by a physician is advisable.
 
 In treatment of secondary glaucoma and in the preoperative treatment of some cases of acute congestive (closed-angle) glaucoma, the preferred dosage is 250 mg every four hours, although some cases have responded to 250 mg twice daily on short-term therapy.
-In some acute cases, it may be more satisfactory to administer an initial dose of 500 mg followed by 125 or 250 mg every four hours depending on the individual case.
+In some acute cases, it may be more satisfactory to administer an initial dose of 500 mg followed by 125 mg or 250 mg every four hours depending on the individual case.
 A complementary effect has been noted when acetazolamide has been used in conjunction with miotics or mydriatics as the case demanded.
 
 Epilepsy
@@ -17,7 +17,7 @@ Epilepsy
 It is not clearly known whether the beneficial effects observed in epilepsy are due to direct inhibition of carbonic anhydrase in the central nervous system or whether they are due to the slight degree of acidosis produced by the divided dosage.
 The best results to date have been seen in petit mal in children.
 Good results, however, have been seen in patients, both children and adult, in other types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk patterns, etc. The suggested total daily dose is 8 to 30 mg per kg in divided doses.
-Although some patients respond to a low dose, the optimum range appears to be from 375 to 1000 mg daily.
+Although some patients respond to a low dose, the optimum range appears to be from 375 to 1,000 mg daily.
 However, some investigators feel that daily doses in excess of 1 g do not produce any better results than a 1 g dose.
 When acetazolamide tablets are given in combination with other anticonvulsants, it is suggested that the starting dose should be 250 mg once daily in addition to the existing medications.
 This can be increased to levels as indicated above.
@@ -39,8 +39,8 @@ Recommended dosage is 250 to 375 mg of acetazolamide once a day for one or two d
 
 Acute Mountain Sickness
 
-Dosage is 500 mg to 1000 mg daily, in divided doses.
-In circumstances of rapid ascent, such as in rescue or military operations, the higher dose level of 1000 mg is recommended.
+Dosage is 500 mg to 1,000 mg daily, in divided doses.
+In circumstances of rapid ascent, such as in rescue or military operations, the higher dose level of 1,000 mg is recommended.
 It is preferable to initiate dosing 24 to 48 hours before ascent and to continue for 48 hours while at high altitude, or longer as necessary to control symptoms.
 
 Note: The dosage recommendations for glaucoma and epilepsy differ considerably from those for congestive heart failure, since the first two conditions are not dependent upon carbonic anhydrase inhibition in the kidney which requires intermittent dosage if it is to recover from the inhibitory effect of the therapeutic agent.

@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions, occurring most often early in therapy, include paresthesias, particularly a "tingling" feeling in the extremities, hearing dysfunction or tinnitus, loss of appetite, taste alteration and gastrointestinal disturbances such as nausea, vomiting and diarrhea; polyuria, and occasional instances of drowsiness and confusion.
+Adverse reactions, occurring most often early in therapy, include paresthesias, particularly a "tingling" feeling in the extremities, hearing dysfunction or tinnitus, loss of appetite, taste alteration and gastrointestinal disturbances such as nausea, vomiting and diarrhea, polyuria, and occasional instances of drowsiness and confusion.
 
 Metabolic acidosis and electrolyte imbalance may occur.
 

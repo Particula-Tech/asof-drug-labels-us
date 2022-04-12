@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy) and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema).
+Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema).
 
 Acetazolamide is not a mercurial diuretic.
 Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological activity distinctly different from the bacteriostatic sulfonamides.
@@ -15,5 +15,5 @@ Alkalinization of the urine and promotion of diuresis are thus affected.
 Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by the renal tubules as a result of urinary alkalinization.
 
 Placebo-controlled clinical trials have shown that prophylactic administration of acetazolamide at a dose of 250 mg every eight to 12 hours (or a 500 mg controlled-release capsule once daily) before and during rapid ascent to altitude results in fewer and/or less severe symptoms (such as headache, nausea, shortness of breath, dizziness, drowsiness, and fatigue) of acute mountain sickness (AMS).
-Pulmonary function (e.g., minute ventilation, expired vital capacity, and peak flow) is greater in the acetazolamide treated group, both in subjects with AMS and asymptomatic subjects.
+Pulmonary function (e.g., minute ventilation, expired vital capacity and peak flow) is greater in the acetazolamide treated group, both in subjects with AMS and asymptomatic subjects.
 The acetazolamide treated climbers also had less difficulty in sleeping.

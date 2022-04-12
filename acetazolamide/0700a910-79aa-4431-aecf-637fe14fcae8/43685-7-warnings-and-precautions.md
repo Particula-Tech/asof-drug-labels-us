@@ -4,7 +4,7 @@ Fatalities have occurred, although rarely, due to severe reactions to sulfonamid
 Sensitizations may recur when a sulfonamide is readministered irrespective of the route of administration.
 If signs of hypersensitivity or other serious reactions occur, discontinue use of this drug.
 
-Caution is advised for patients receiving concomitant highdose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, coma and death have been reported.
+Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, coma and death have been reported.
 
 # PRECAUTIONS
 
@@ -24,7 +24,7 @@ In patients with pulmonary obstruction or emphysema where alveolar ventilation m
 Gradual ascent is desirable to try to avoid acute mountain sickness.
 If rapid ascent is undertaken and acetazolamide tablets are used, it should be noted that such use does not obviate the need for prompt descent if severe forms of high altitude sickness occur, i.e., high altitude pulmonary edema (HAPE) or high altitude cerebral edema.
 
-Caution is advised for patients receiving concomitant highdose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, coma and death have been reported (see WARNINGS).
+Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, coma and death have been reported (see WARNINGS).
 
 ## Laboratory Tests
 
@@ -37,7 +37,7 @@ Periodic monitoring of serum electrolytes is recommended.
 Long-term studies in animals to evaluate the carcinogenic potential of acetazolamide have not been conducted.
 In a bacterial mutagenicity assay, acetazolamide was not mutagenic when evaluated with and without metabolic activation.
 
-The drug had no effect on fertility when administered in the diet to male and female rats at a daily intake of up to 4 times the recommended human dose of 1000 mg in a 50 kg individual.
+The drug had no effect on fertility when administered in the diet to male and female rats at a daily intake of up to 4 times the recommended human dose of 1,000 mg in a 50 kg individual.
 
 ## Pregnancy
 
