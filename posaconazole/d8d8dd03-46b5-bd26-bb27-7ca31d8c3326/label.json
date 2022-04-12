@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212500"
+  ],
+  "inn": "posaconazole",
+  "labeler": "Dr.Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-470-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "posaconazole",
+      "name": "Posaconazole"
+    }
+  ],
+  "setid": "d8d8dd03-46b5-bd26-bb27-7ca31d8c3326",
+  "source": "dailymed"
+}
