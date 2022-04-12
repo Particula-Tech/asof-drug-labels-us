@@ -73,13 +73,42 @@ There is usually no effect on total cholesterol, HDL3, LDL, or VLDL.
 
 ## 4. Drug Interactions
 
-The effectiveness of progestin-only pills is reduced by hepatic enzyme-inducing drugs such as the anticonvulsants phenytoin, carbamazepine, and barbiturates, and the antituberculosis drug rifampin.
-No significant interaction has been found with broad-spectrum antibiotics.
+Consult the labeling of concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-Herbal products containing St. John’s Wort (Hypericum perforatum) may induce hepatic enzymes (cytochrome P450) and p-glycoprotein transporter and may reduce the effectiveness of contraceptive steroids.
-This may also result in breakthrough bleeding.
+- •Effects of Other Drugs on Hormonal Contraceptives
 
-Concurrent use of bosentan and norethindrone containing products may result in decreased concentrations of these contraceptive hormones thereby increasing the risk of unintended pregnancy and unscheduled bleeding.
+Substances decreasing the systemic concentrations of hormonal contraceptives (HCs) and potentially diminishing the efficacy of HCs:
+
+Drugs or herbal products that induce certain enzymes, including cytochrome P450 3A4 (CYP3A4), may decrease the systemic concentrations of HCs and potentially diminish the effectiveness of HCs or increase breakthrough bleeding.
+
+Some drugs or herbal products that may decrease the effectiveness of HCs include efavirenz, phenytoin, barbiturates, carbamazepine, bosentan, felbamate, griseofulvin, oxcarbazepine, rifampicin, rifabutin, rufinamide, aprepitant, and products containing St. John’s wort.
+Interactions between HCs and other drugs may lead to breakthrough bleeding and/or contraceptive failure.
+Counsel women to use an alternative non-hormonal method of contraception or a back-up method when enzyme inducers are used with HCs, and to continue back-up non-hormonal contraception for 28 days after discontinuing the enzyme inducer to ensure contraceptive reliability.
+
+Substances increasing the systemic concentrations of HCs:
+
+Co-administration of certain HCs and strong or moderate CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase the systemic concentrations of progestins, including norethindrone.
+
+Human Immunodeficiency Virus (HIV)/Hepatitis C Virus (HCV) protease inhibitors and nonnucleoside reverse transcriptase inhibitors:
+
+Significant decreases in systemic concentrations of progestin have been noted in cases of co-administration with some HIV protease inhibitors (e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir), some HCV protease inhibitors (e.g., boceprevir and telaprevir), and some non-nucleoside reverse transcriptase inhibitors (e.g., nevirapine, efavirenz).
+
+In contrast, significant increases in systemic exposure of the progestin have been noted in cases of co-administration with certain other HIV protease inhibitors (e.g., indinavir and atazanavir/ritonavir) and with other non-nucleoside reverse transcriptase inhibitors (e.g., etravirine).
+
+These changes may be clinically relevant in some cases.
+
+Consult the prescribing information of anti-viral and anti-retroviral concomitant medications to identify potential interactions.
+
+- •Effects of Hormonal Contraceptives on Other Drugs
+
+Hormonal contraceptives may affect the metabolism of other drugs.
+Consequently, systemic concentrations may either increase (for example, cyclosporine) or decrease.
+Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
+
+- •Interactions between ulipristal and hormonal contraceptives
+
+Effectiveness of progestin-containing hormonal contraceptives and emergency contraceptive ulipristal acetate may be decreased if progestin-containing hormonal contraceptives are used within five days after ulipristal acetate dosing.
+Therefore, if a woman wishes to use norethindrone tablets after using ulipristal acetate, she should do so no sooner than 5 days after the intake of ulipristal acetate and she should use a reliable barrier method for subsequent acts of intercourse until her next menstrual period.
 
 ## 5. Interactions with Laboratory Tests
 

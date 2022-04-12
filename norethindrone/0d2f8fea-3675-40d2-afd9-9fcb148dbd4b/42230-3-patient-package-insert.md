@@ -1,13 +1,13 @@
 # DETAILED PATIENT LABELING
 
-Norethindrone Tablets USP, 0.35 mg
+Norethindrone Tablets, USP 0.35 mg
 
 This product (like all oral contraceptives) is used to prevent pregnancy.
 It does not protect against HIV infection (AIDS) or other sexually transmitted diseases.
 
 ## DESCRIPTION
 
-### Norethindrone tablets USP, 0.35 mg
+### Norethindrone tablets, USP 0.35 mg
 
 Each tablet contains 0.35 mg norethindrone USP.
 Inactive ingredients include colloidal silicon dioxide, corn starch, D&C Yellow No. 10, ethyl cellulose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, methylene chloride, isopropyl alcohol and talc.
@@ -32,37 +32,64 @@ United States.
 
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One Year |
 | --- | --- | --- | --- |
-| Method (1) | Typical Use (2) | Perfect Use (3) | (4) |
-| Chance | 85 | 85 |  |
-| Spermicides | 26 | 6 | 40 |
-| Periodic abstinence | 25 |  | 63 |
-| Calendar |  | 9 |  |
-| Ovulation Method |  | 3 |  |
-| Sympto-Thermal |  | 2 |  |
-| Post-Ovulation |  | 1 |  |
-| Cap |  |  |  |
-| Parous Women | 40 | 26 | 42 |
-| Nulliparous Women | 20 | 9 | 56 |
-| Sponge |  |  |  |
-| Parous Women | 40 | 20 | 42 |
-| Nulliparous Women | 20 | 9 | 56 |
-| Diaphragm | 20 | 6 | 56 |
-| Withdrawal | 19 | 4 |  |
-| Condom |  |  |  |
-| Female (Reality®) | 21 | 5 | 56 |
-| Male | 14 | 3 | 61 |
-| Pill | 5 |  | 71 |
-| Progestin Only |  | 0.5 |  |
-| Combined |  | 0.1 |  |
-| IUD |  |  |  |
-| Progesterone T | 2.0 | 1.5 | 81 |
-| Copper T380A | 0.8 | 0.6 | 78 |
-| LNg 20 | 0.1 | 0.1 | 81 |
-| Depo-Provera® | 0.3 | 0.3 | 70 |
-| Norplant® and Norplant-2® | 0.05 | 0.05 | 88 |
-| Female Sterilization | 0.5 | 0.5 | 100 |
-| Male Sterilization | 0.15 | 0.10 | 100 |
-| Adapted from Hatcher et al, 1998, Ref. # 1 Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75% Lactational Amenorrhea Method: LAM is highly effective, temporary method of contraception Source: Trussell J, Contraceptive efficacy. In Hatcher RA, Trussel J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition. New York NY: Irvington Publishers, 1998. |  |  |  |
+| Method (1) | Typical Use(2) | Perfect Use(3) | (4) |
+| No method4 | 85 | 85 |  |
+| Spermicides | 28 | 18 | 42 |
+| Fertility awareness-based methods | 24 |  | 47 |
+| Standard Days method6 |  | 5 |  |
+| TwoDay method6 |  | 4 |  |
+| Ovulation method6 |  | 3 |  |
+| Symptothermal method6 |  | 0.4 |  |
+| Withdrawal | 22 | 4 | 46 |
+| Sponge |  |  | 36 |
+| Parous women | 24 | 20 |  |
+| Nulliparous women | 12 | 9 |  |
+| Condom7 |  |  |  |
+| Female (fc) | 21 | 5 | 41 |
+| Male | 18 | 2 | 43 |
+| Diaphragm8 | 12 | 6 | 57 |
+| Combined pill and progestin-only pill | 9 | 0.3 | 67 |
+| Norelgestromin and ethinyl estradiol patch | 9 | 0.3 | 67 |
+| NuvaRing | 9 | 0.3 | 67 |
+| Depo-Provera | 6 | 0.2 | 56 |
+| Intrauterine contraceptives |  |  |  |
+| ParaGard (copper T) | 0.8 | 0.6 | 78 |
+| Mirena (LNg) | 0.2 | 0.2 | 80 |
+| Implanon | 0.05 | 0.05 | 84 |
+| Female sterilization | 0.5 | 0.5 | 100 |
+| Male sterilization | 0.15 | 0.10 | 100 |
+
+Emergency Contraception: Emergency contraceptive pills or insertion of a copper intrauterine contraceptive after unprotected intercourse substantially reduces the risk of pregnancy.9 (See Chapter 6.).
+
+Lactational Amenorrhea Method: LAM is a highly effective, temporary method of contraception.10 (See Chapter 18.)
+
+Source: Trussell J. Contraceptive Efficacy.
+In Hatcher RA, Trussell J, Nelson AL, Cates W, Kowal D, Policar M. Contraceptive Techology: Twentieth Revised Edition.
+New York NY: Ardent Media, 2011.
+
+Notes:
+
+1. 1.Among typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
+   Estimates of the probability of pregnancy during the first year of typical use for spermicides, withdrawal, fertility awareness-based methods, the diaphragm, the male condom, the oral contraceptive pill, and Depo-Provera are taken from the 1995 National Survey of Family Growth corrected for underreporting of abortion; see the text for the derivation of estimates for the other methods.
+2. 2.Among couples who initiate use of a method (not necessarily for the first time) and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
+   See the text for the derivation of the estimate for each method.
+3. 3.Among couples attempting to avoid pregnancy, the percentage who continue to use a method for 1 year.
+4. 4.The percentages becoming pregnant in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant.
+   Among such populations, about 89% become pregnant within 1 year.
+   This estimate was lowered slightly (to 85%) to represent the percentage who would become pregnant within 1 year among women now relying on reversible methods of contraception if they abandoned contraception altogether.
+5. 5.Foams, creams, gels, vaginal suppositories, and vaginal film.
+6. 6.The Ovulation and TwoDay methods are based on evaluation of cervical mucus.
+   The Standard Days method avoids intercourse on cycle days 8 through 19.
+   The Symptothermal method is a double-check method based on evaluation of cervical mucus to determine the first fertile day and evaluation of cervical mucus and temperature to determine the last fertile day.
+7. 7.Without spermicides.
+8. 8.With spermicidal cream or jelly.
+9. 9. ella, Plan B One-Step and Next Choice are the only dedicated products specifically marketed for emergency contraception.
+   The label for Plan B One-Step (one dose is 1 white pill) says to take the pill within 72 hours after unprotected intercourse.
+   Research has shown that all of the brands listed here are effective when used within 120 hours after unprotected sex.
+   The label for Next Choice (one dose is 1 peach pill) says to take 1 pill within 72 hours after unprotected intercourse and another pill 12 hours later.
+   Research has shown that both pills can be taken at the same time with no decrease in efficacy or increase in side effects and that they are effective when used within 120 hours after unprotected sex.
+   The FDA has in addition declared the following 19 brands of oral contraceptives to be safe and effective for emergency contraception: Ogestrel (1 dose is 2 white pills), Nordette (1 dose is 4 light-orange pills), Cryselle, Levora, Low-Ogestrel, Lo/Ovral, or Quasence (1 dose is 4 white pills), Jolessa, Portia, Seasonale or Trivora (1 dose is 4 pink pills), Seasonique (1 dose is 4 light-blue-green pills), Enpresse (one dose is 4 orange pills), Lessina (1 dose is 5 pink pills), Aviane or LoSeasonique (one dose is 5 orange pills), Lutera or Sronyx (one dose is 5 white pills), and Lybrel (one dose is 6 yellow pills).
+10. 10.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age.
 
 Norethindrone tablets have not been studied for and are not indicated for use in emergency contraception.
 
@@ -79,11 +106,9 @@ POPs can prevent pregnancy in different ways including:
 - •If there is any chance you may be pregnant.
 - •If you have breast cancer
 - •If you have bleeding between your periods that has not been diagnosed
-- •If you are taking certain drugs for epilepsy (seizures) or for TB, or medicine for pulmonary hypertension or certain herbal products.
-  (See "Using POPs with Other Medicines" below)
 - •If you are hypersensitive, or allergic, to any component of this product.
-- •If you have liver tumors, either benign or cancerous
-- •If you have acute liver disease
+- •If you have liver tumors, either benign or cancerous.
+- •If you have acute liver disease.
 
 ## RISKS OF TAKING POPs
 
@@ -159,22 +184,48 @@ These medicines can make POPs less effective:
 
 Medicines for seizures such as:
 
-- •Phenytoin (Dilantin®)
-- •Carbamazepine (Tegretol®)
+- •Phenytoin
+- •Carbamazepine
 - •Phenobarbital
+- •Felbamate
+- •Oxcarbazepine
+- •Rufinamide
 
-Medicine for TB:
+Medicine for nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines:
 
-- •Rifampin (Rifampicin)
+- •(Fos)aprepitant
+
+Medicines for tuberculosis (TB):
+
+- •Rifampin and rifabutin
+
+Medicine for fungal infections such as:
+
+- •Griseofulvin
 
 Medicine for pulmonary hypertension such as:
 
-- •Bosentan (Tracleer®)
+- •Bosentan
+
+Medicines used for the treatment of HIV infections or AIDS and infections due to Hepatitis C such as:
+
+- •Efavirenz, nevirapine, nelfinavir, and some ritonavir-containing drugs
 
 Herbal products such as:
 
 - •St.
-  John’s Wort
+  John’s wort
+
+These medicines and substances can increase your exposure to POPs:
+
+Grapefruit juice
+
+Medicines for fungal infections such as:
+
+- •Itraconazole
+- •Voriconazole
+- •Fluconazole
+- •Ketoconazole
 
 Before you begin taking any new medicines be sure your healthcare professional knows you are taking a progestin-only birth control pill.
 
@@ -252,19 +303,19 @@ You can also ask for the more detailed “Professional Labeling” written for d
 
 ## HOW TO STORE YOUR POPs
 
-Store at 20o to 25oC (68o to 77oF) [see USP Controlled Room Temperature].
+Store at 20oC to 25oC (68oF to 77oF) [see USP Controlled Room Temperature].
 
 Keep out of reach of children.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 0743
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-February 2015
+April 2022
