@@ -173,7 +173,7 @@ Immune System Disorders: anaphylaxis including anaphylactoid reactions
 
 Musculoskeletal and Connective Tissue Disorders: muscular weakness
 
-Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor
+Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor, encephalopathy (recovery was prolonged in patients with renal impairment)
 
 Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
