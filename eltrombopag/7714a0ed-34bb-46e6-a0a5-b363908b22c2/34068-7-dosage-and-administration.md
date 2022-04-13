@@ -100,7 +100,7 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 | Pediatric patients 6 to 11 years | 75 mg once daily for 6 months |
 | Pediatric patients 2 to 5 years | 2.5 mg/kg once daily for 6 months |
 
-For patients with severe aplastic anemia of East-/Southeast-Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
 If baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
 Determine the initial dose for these patients based on Table 3 or Table 4.
