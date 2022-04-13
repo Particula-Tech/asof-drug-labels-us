@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076095"
+  ],
+  "inn": "misoprostol",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-443-10",
+    "70954-443-20",
+    "70954-444-10",
+    "70954-444-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "misoprostol",
+      "name": "Misoprostol"
+    }
+  ],
+  "setid": "21386aa1-dc51-41c9-8872-dec4c71ebb46",
+  "source": "dailymed"
+}
