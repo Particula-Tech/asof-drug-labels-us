@@ -16,23 +16,25 @@ Adverse Reactions Occurring more than 1% More Frequently in BPH Patients Treated
 | BODY SYSTEM | Doxazosin Tablets N=665 | Placebo N=300 |
 | --- | --- | --- |
 | NERVOUS SYSTEM DISORDERS |  |  |
-| DizzinessIncludes vertigo | 15.6% | 9.0% |
-| Somnolence | 3.0% | 1.0% |
+| Dizziness† | 15.6% | 9% |
+| Somnolence | 3% | 1% |
 | CARDIAC DISORDERS |  |  |
 | Hypotension | 1.7% | 0% |
 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
-| Dyspnea | 2.6% | 0.3% |
+| Dyspnoea | 2.6% | 0.3% |
 | GASTROINTESTINAL DISORDERS |  |  |
 | Dry Mouth | 1.4% | 0.3% |
 | GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
-| Fatigue | 8.0% | 1.7% |
-| edema | 2.7% | 0.7% |
+| Fatigue | 8% | 1.7% |
+| Oedema | 2.7% | 0.7% |
+
+†Includes vertigo
 
 Other adverse reactions occurring less than 1% more frequently in BPH patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets include: palpitations.
 
 Hypertension
 
-Doxazosin tablets have been administered to approximately 4,000 hypertensive patients in clinical trials, of whom 1,679 were included in the hypertension clinical development program.
+Doxazosin tablets has been administered to approximately 4,000 hypertensive patients in clinical trials, of whom 1,679 were included in the hypertension clinical development program.
 In placebo-controlled studies, adverse events occurred in 49% and 40% of patients in the doxazosin and placebo groups, respectively, and led to discontinuation in 2% of patients in each group.
 
 Adverse reactions occurring more than 1% more frequently in hypertensive patients treated with doxazosin tablets vs placebo are summarized in Table 1.
@@ -54,13 +56,15 @@ Adverse Reactions Occurring more than 1% More Frequently in Hypertensive Patient
 | REPRODUCTIVE SYSTEM AND BREAST DISORDERS GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Fatigue / Malaise | 12% | 6% |
 
-Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets use include vertigo, hypotension, hot flushes, epistaxis and edema.
+Other adverse reactions occurring less than 1% more frequently in hypertensive patients treated with doxazosin tablets vs placebo but plausibly related to doxazosin tablets use include vertigo, hypotension, hot flushes, epistaxis and oedema.
 
-Doxazosin tablets have been associated with decreases in white blood cell counts
+Doxazosin tablets has been associated with decreases in white blood cell counts
 
 Laboratory changes observed in clinical studies
 
-Leukopenia/Neutropenia: Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving doxazosin tablets.
+Leukopenia/Neutropenia:
+
+Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving doxazosin tablets.
 In cases where follow-up was available, WBC and neutrophil counts returned to normal after discontinuation of doxazosin tablets.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 

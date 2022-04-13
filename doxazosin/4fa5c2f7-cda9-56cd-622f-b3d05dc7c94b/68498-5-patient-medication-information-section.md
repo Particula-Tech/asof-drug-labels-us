@@ -40,7 +40,7 @@ Doxazosin tablets may affect the way other medicines work, and other medicines m
 
 Especially tell your healthcare provider if you take:
 
-- other medicine for high blood pressuremedicine to treat erectile dysfunction (ED) called a phosphodiesterase type 5 (PDE-5) inhibitor.
+- other medicine for high blood pressure or medicine to treat erectile dysfunction (ED) called a phosphodiesterase type 5 (PDE-5) inhibitor.
   The use of doxazosin tablets with PDE-5 inhibitors can lead to a drop in blood pressure or to fainting.
 
 Know the medicines you take.
@@ -90,7 +90,7 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about the safe and effective use of doxazsosin tablets.
+General information about the safe and effective use of doxazosin tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use doxazosin tablets for a condition for which it was not prescribed.
@@ -115,7 +115,7 @@ APOTEX INC. DOXAZOSIN TABLETS, USP 1 mg, 2 mg, 4 mg and 8 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: July 2021
+Revised: April 2022
 
 Rev.
-6
+7

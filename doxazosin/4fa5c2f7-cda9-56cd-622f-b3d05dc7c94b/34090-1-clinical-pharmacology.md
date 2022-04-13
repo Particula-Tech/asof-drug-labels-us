@@ -34,7 +34,7 @@ Like other alpha1-adrenergic blocking agents, doxazosin has a greater effect on 
 Absorption After oral administration of therapeutic doses, peak plasma levels of doxazosin occur at about 2 to 3 hours.
 Bioavailability is approximately 65%, reflecting first-pass metabolism of doxazosin by the liver.
 The effect of food on the pharmacokinetics of doxazosin was examined in a crossover study with twelve hypertensive subjects.
-Reductions of 18% in mean maximum plasma concentration (Cmax) and 12% in the area under the concentration-time curve (AUC) occurred when doxazosin tablets were administered with food.
+Reductions of 18% in mean maximum plasma concentration (Cmax) and 12% in the area under the concentration-time curve (AUC) occurred when doxazosin tablets was administered with food.
 Neither of these differences is clinically significant.
 
 In a crossover study in 24 normotensive subjects, the pharmacokinetics and safety of doxazosin were shown to be similar with morning and evening dosing regimens.

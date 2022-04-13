@@ -17,7 +17,7 @@ APOTEX INC. DOXAZOSIN TABLETS, USP 1 mg, 2 mg, 4 mg and 8 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: July 2021
+Revised: April 2022
 
 Rev.
-6
+7
