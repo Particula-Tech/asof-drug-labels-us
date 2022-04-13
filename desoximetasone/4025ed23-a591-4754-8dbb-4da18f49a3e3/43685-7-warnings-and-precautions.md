@@ -32,7 +32,6 @@ Some local adverse reactions may be irreversible.
 ## Allergic Contact Dermatitis with Topical Corticosteroids
 
 Allergic contact dermatitis to any component of topical corticosteroids is usually diagnosed by a failure to heal rather than a clinical exacerbation.
-
 Clinical diagnosis of allergic contact dermatitis can be confirmed by patch testing.
 
 ## Concomitant Skin Infections
@@ -65,24 +64,17 @@ ACTH stimulation test
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
-
 Desoximetasone was nonmutagenic in the Ames test.
 
-## Pregnancy.
-
-### Teratorgenic Effects.
-
-#### Pregnancy Category C
+## Pregnancy. Teratogenic Effects. Pregnancy Category C
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
 Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 3 to 30 times the human dose of desoximetasone ointment USP, 0.25%
 
 There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
 Therefore, desoximetasone ointment USP, 0.25% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
 Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time.
 
 ## Nursing Mothers -
