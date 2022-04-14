@@ -4,9 +4,18 @@ Vijoice™ (alpelisib) tablets
 
 NDC 0078-1021-84
 
-50 mg
+50 mg daily dose
+
+Take one 50 mg tablet once daily
 
 Rx only
+
+Recommended Dosage: Take one 50 mg tablet once daily with food.
+Swallow tablets whole.
+DO NOT chew, crush, or split tablets.
+See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+28-Day Supply
 
 Contains: One blister pack containing 28 tablets
 
@@ -18,9 +27,18 @@ Vijoice™ (alpelisib) tablets
 
 NDC 0078-1028-84
 
-125 mg
+125 mg daily dose
+
+Take one 125 mg tablet once daily
 
 Rx only
+
+Recommended Dosage: Take one 125 mg tablet once daily with food.
+Swallow tablets whole.
+DO NOT chew, crush, or split tablets.
+See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+28-Day Supply
 
 Contains: One blister pack containing 28 tablets
 
@@ -32,11 +50,20 @@ Vijoice™ (alpelisib) tablets
 
 NDC 0078-1035-02
 
-250 mg 200 mg tablet + 50 mg tablet
+250 mg daily dose
+
+Take one 200 mg tablet and one 50 mg tablet once daily
 
 Rx only
 
-Contains: Two blister packs each containing 28 tablets (56 tablets total):
+Recommended Dosage: Take one 200 mg tablet and one 50 mg tablet once daily with food.
+Swallow tablets whole.
+DO NOT chew, crush, or split tablets.
+See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+28-Day Supply (56 Tablets)
+
+Contains: Two 14-day blister packs each containing 28 tablets:
 
 200 mg 14 tablets per pack
 

@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of VIJOICE was assessed in EPIK-P1 (NCT04285723), a single-arm clinical study in patients who were treated as part of an expanded access program for compassionate use which enrolled patients across seven sites in five countries (France, Spain, US, Ireland and Australia).
-Eligible patients 2 years of age and older with PIK3CA-Related Overgrowth Spectrum (PROS) who received VIJOICE had clinical manifestations of PROS that were assessed by the treating physician as severe or life-threatening and necessitating systemic treatment and had documented evidence of mutation in the PIK3CA gene as determined by a local laboratory.
+Eligible patients 2 years of age and older with PIK3CA-Related Overgrowth Spectrum (PROS) who received VIJOICE had clinical manifestations of PROS that were assessed by the treating physician as severe or life-threatening and necessitating systemic treatment and had documented evidence of mutation in the PIK3CA gene.
 Patients received VIJOICE at dosages based on age ranging from 50 mg to 250 mg orally once daily.
 
 The efficacy of VIJOICE was evaluated in a total of 37 patients with at least one target lesion identified on imaging performed within 24 weeks prior to receipt of the first dose of VIJOICE.
