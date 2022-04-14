@@ -164,8 +164,6 @@ The administration of carbidopa-levodopa at dose levels of 10 to 20, 10 to 50, o
 
 ## Pregnancy
 
-### Teratogenic Effects
-
 There are no adequate and well-controlled studies with carbidopa in pregnant women.
 It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.
 Carbidopa concentrations in fetal tissue appeared to be minimal.

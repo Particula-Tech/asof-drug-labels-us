@@ -4,5 +4,7 @@ See the WARNINGS and DOSAGE AND ADMINISTRATION sections before initiating therap
 
 Manufactured for: Edenbridge Pharmaceuticals, LLC Parsippany, NJ 07054 877-381-3336
 
+Item Code: 552601
+
 Rev.
-04/2021
+05/2021
