@@ -50,17 +50,10 @@ Hepatic Impairment: Patients with hepatic impairment have developed with cases o
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of XIGDUO XR in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.2 Volume Depletion
+## 5.2 Ketoacidosis
 
-Dapagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine.
-There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving sodium-glucose co-transporter 2 (SGLT2) inhibitors, including dapagliflozin.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
-Before initiating XIGDUO XR in patients with one or more of these characteristics, assess volume status and renal function.
-Monitor for signs and symptoms of hypotension and renal function after initiating therapy.
-
-## 5.3 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus taking SGLT2 inhibitors, including dapagliflozin [see Adverse Reactions (6.1)].
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus taking sodium-glucose co-transporter 2 (SGLT2) inhibitors, including dapagliflozin [see Adverse Reactions (6.1)].
+In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
 Fatal cases of ketoacidosis have been reported in patients taking dapagliflozin.
 XIGDUO XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
@@ -80,6 +73,14 @@ Consider monitoring for ketoacidosis and temporarily discontinuing XIGDUO XR in 
 Ensure risk factors for ketoacidosis are resolved prior to restarting XIGDUO XR.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue XIGDUO XR and seek medical attention immediately if signs and symptoms occur.
+
+## 5.3 Volume Depletion
+
+Dapagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine.
+There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating XIGDUO XR in patients with one or more of these characteristics, assess volume status and renal function.
+Monitor for signs and symptoms of hypotension and renal function after initiating therapy.
 
 ## 5.4 Urosepsis and Pyelonephritis
 

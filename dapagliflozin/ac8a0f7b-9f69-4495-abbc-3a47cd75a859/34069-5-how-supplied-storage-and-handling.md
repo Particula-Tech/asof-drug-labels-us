@@ -2,9 +2,9 @@
 
 ### How Supplied
 
-XIGDUO® XR (dapagliflozin and metformin HCl extended-release) tablets have markings on one side, are plain on the reverse side, and are available in the strengths and packages listed in Table 17.
+XIGDUO® XR (dapagliflozin and metformin HCl extended-release) tablets have markings on one side, are plain on the reverse side, and are available in the strengths and packages listed in Table 19.
 
-Table 17: XIGDUO XR Tablet Presentations
+Table 19: XIGDUO XR Tablet Presentations
 
 | Tablet Strength | Film-Coated Tablet Color/Shape | Tablet Markings | Pack Size | NDC Code |
 | --- | --- | --- | --- | --- |

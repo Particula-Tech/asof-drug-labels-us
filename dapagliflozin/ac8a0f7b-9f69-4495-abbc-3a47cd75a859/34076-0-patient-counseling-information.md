@@ -15,16 +15,16 @@ Inform patients about the importance of regular testing of renal function and he
 
 Instruct patients to inform their healthcare provider that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Volume Depletion
-
-Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
-Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
-
 Ketoacidosis
 
 Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of dapagliflozin, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.3)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.2)].
+
+Volume Depletion
+
+Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.3)].
+Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Serious Urinary Tract Infections
 

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 5: Clinically Relevant Interactions with XIGDUO XR
+Table 6: Clinically Relevant Interactions with XIGDUO XR
 
 | Carbonic Anhydrase Inhibitors |  |
 | --- | --- |

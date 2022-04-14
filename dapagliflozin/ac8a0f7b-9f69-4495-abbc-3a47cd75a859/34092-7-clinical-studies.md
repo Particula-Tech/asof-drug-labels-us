@@ -19,14 +19,13 @@ A total of 1236 treatment-naive patients with inadequately controlled type 2 dia
 In one study, 638 patients randomized to 1 of 3 treatment arms following a 1-week lead-in period received: dapagliflozin 10 mg plus metformin XR (up to 2000 mg/day), dapagliflozin 10 mg plus placebo, or metformin XR (up to 2000 mg/day) plus placebo.
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
 
-The combination treatment of dapagliflozin 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 10 and Figure 2).
+The combination treatment of dapagliflozin 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 11 and Figure 2).
 Dapagliflozin 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was noninferior to metformin XR monotherapy in lowering HbA1c.
 
-Table 10: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
+Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin10 mg+Metformin XR | Dapagliflozin10 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin10 mg+Metformin XRN=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin10 mg N=219 | Metformin XR N=208 |
 | --- | --- | --- | --- |
-|  | N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=219 | N=208 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | -2.0 | -1.5 | -1.4 |
@@ -48,13 +47,12 @@ Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week
 In the second study, 603 patients were randomized to 1 of 3 treatment arms following a 1-week lead-in period: dapagliflozin 5 mg plus metformin XR (up to 2000 mg/day), dapagliflozin 5 mg plus placebo, or metformin XR (up to 2000 mg/day) plus placebo.
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
 
-The combination treatment of dapagliflozin 5 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 11).
+The combination treatment of dapagliflozin 5 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 12).
 
-Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
+Table 12: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin5 mg+Metformin XR | Dapagliflozin5 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin5 mg+Metformin XRN=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin5 mg N=203 | Metformin XR N=201 |
 | --- | --- | --- | --- |
-|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.2 | 9.1 | 9.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | -2.1 | -1.2 | -1.4 |
@@ -77,13 +75,13 @@ A total of 546 patients with type 2 diabetes mellitus with inadequate glycemic c
 Patients on metformin at a dose of at least 1500 mg/day were randomized after completing a 2-week, single-blind, placebo lead-in period.
 Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of metformin.
 
-As add-on treatment to metformin, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 12 and Figure 3).
+As add-on treatment to metformin, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 13 and Figure 3).
 Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were -4.5 mmHg and -5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin, respectively.
 
-Table 12: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
+Table 13: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
 Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
 
-| Efficacy Parameter | Dapagliflozin10 mg+MetforminN=135All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin5 mg+MetforminN=137 | Placebo +Metformin N=137 |
+| Efficacy Parameter | Dapagliflozin10 mg+MetforminN=135All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin5 mg+MetforminN=137 | Placebo+Metformin N=137 |
 | --- | --- | --- | --- |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 7.9 | 8.2 | 8.1 |
@@ -109,13 +107,13 @@ Patients on metformin at a dose of at least 1500 mg/day were randomized followin
 Thereafter, doses were kept constant, except for down-titration to prevent hypoglycemia.
 
 At the end of the titration period, 87% of patients treated with dapagliflozin had been titrated to the maximum study dose (10 mg) versus 73% treated with glipizide (20 mg).
-Dapagliflozin treatment led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating noninferiority (see Table 13).
+Dapagliflozin treatment led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating noninferiority (see Table 14).
 Dapagliflozin treatment led to a statistically significant mean reduction in body weight from baseline at Week 52 (LOCF) compared with a mean increase in body weight in the glipizide group.
 Statistically significant (p<0.0001) mean change from baseline in systolic blood pressure relative to glipizide plus metformin was −5.0 mmHg with dapagliflozin plus metformin.
 
-Table 13: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing Dapagliflozin to Glipizide as Add-On to Metformin
+Table 14: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing Dapagliflozin to Glipizide as Add-On to Metformin
 
-| Efficacy Parameter | Dapagliflozin+MetforminN=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide+MetforminN=401 |
+| Efficacy Parameter | Dapagliflozin+MetforminN=400Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement. | Glipizide+MetforminN=401 |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
@@ -132,9 +130,9 @@ Dapagliflozin was assessed in two placebo-controlled studies of patients with ty
 
 Patients with type 2 diabetes mellitus and an eGFR between 45 to less than 60 mL/min/1.73 m2 inadequately controlled on current diabetes therapy participated in a 24-week, double-blind, placebo-controlled clinical study (NCT02413398).
 Patients were randomized to either dapagliflozin 10 mg or placebo, administered orally once daily.
-At Week 24, dapagliflozin provided statistically significant reductions in HbA1c compared with placebo (Table 14).
+At Week 24, dapagliflozin provided statistically significant reductions in HbA1c compared with placebo (Table 15).
 
-Table 14: Results at Week 24 of Placebo-Controlled Study for Dapagliflozin in Patients with Type 2 Diabetes Mellitus and Renal Impairment (eGFR 45 to less than 60 mL/min/1.73 m2)
+Table 15: Results at Week 24 of Placebo-Controlled Study for Dapagliflozin in Patients with Type 2 Diabetes Mellitus and Renal Impairment (eGFR 45 to less than 60 mL/min/1.73 m2)
 
 |  | Dapagliflozin 10 mg | Placebo |
 | --- | --- | --- |
@@ -170,14 +168,14 @@ Approximately 81.3% of patients were treated with angiotensin converting enzyme 
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio (HR) of the composite of CV death, myocardial infarction (MI), or ischemic stroke (MACE) and if non-inferiority was demonstrated, to test for superiority on the two primary endpoints: 1) the composite of hospitalization for heart failure or CV death, and 2) MACE.
 
 The incidence rate of MACE was similar in both treatment arms: 2.30 MACE events per 100 patient-years on dapagliflozin vs 2.46 MACE events per 100 patient-years on placebo.
-The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95% CI of (0.84,1.03).
+The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95% CI of (0.84, 1.03).
 The upper bound of this confidence interval, 1.03, excluded the pre-specified non-inferiority margin of 1.3.
 
 Dapagliflozin 10 mg was superior to placebo in reducing the incidence of the primary composite endpoint of hospitalization for heart failure or CV death (HR 0.83 [95% CI 0.73, 0.95]).
 
-The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to dapagliflozin 10 mg (HR 0.73 [95% CI 0.61, 0.88]), with no change in the risk of CV death (Table 15 and Figures 4 and 5).
+The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to dapagliflozin 10 mg (HR 0.73 [95% CI 0.61, 0.88]), with no change in the risk of CV death (Table 16 and Figures 4 and 5).
 
-Table 15: Treatment Effects for the Primary Endpoints* and their ComponentsFull analysis set. in the DECLARE Study
+Table 16: Treatment Effects for the Primary Endpoints* and their ComponentsFull analysis set. in the DECLARE Study
 
 |  | Patients with events n(%) |  |  |
 | --- | --- | --- | --- |
@@ -190,7 +188,7 @@ Table 15: Treatment Effects for the Primary Endpoints* and their ComponentsFull 
 | CV Death | 245 (2.9) | 249 (2.9) | 0.98 (0.82, 1.17) |
 | Myocardial Infarction | 393 (4.6) | 441 (5.1) | 0.89 (0.77, 1.01) |
 | Ischemic Stroke | 235 (2.7) | 231 (2.7) | 1.01 (0.84, 1.21) |
-| N=Number of patients, CI=Confidence interval, CV=Cardiovascular, MI=Myocardial infarction, eGFR=estimated glomerular filtration rate, ESRD=End stage renal disease |  |  |  |
+| N=Number of patients, CI=Confidence interval, CV=Cardiovascular, MI=Myocardial infarction, eGFR=estimated glomerular filtration rate, ESRD=End-stage renal disease |  |  |  |
 
 Figure 4: Time to First Occurrence of Hospitalization for Heart Failure or CV Death in the DECLARE Study
 
@@ -218,16 +216,16 @@ In these patients, mean eGFR was 63 mL/min/1.73 m2.
 Dapagliflozin 10 mg reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit in overall population (HR 0.74 [95% CI 0.65, 0.85]; p<0.0001).
 All three components of the primary composite endpoint individually contributed to the treatment effect.
 There were few urgent heart failure visits.
-The Kaplan–Meier curves for dapagliflozin 10 mg and placebo separated early and continued to diverge over the study period (Table 16 and Figure 6).
+The Kaplan–Meier curves for dapagliflozin 10 mg and placebo separated early and continued to diverge over the study period (Table 17 and Figure 6).
 
 The treatment benefit of dapagliflozin 10 mg in reducing the incidence of the primary composite endpoint was consistent in patients with type 2 diabetes mellitus (HR 0.75 [95% CI 0.63, 0.90]), and in patients with type 2 diabetes mellitus and metformin as background therapy (HR 0.67 [95% CI 0.51, 0.88]).
 
-Table 16: Treatment Effects for the Primary Composite EndpointFull analyses set., its Components, and Secondary Endpoints in the DAPA-HF Study
+Table 17: Treatment Effects for the Primary Composite EndpointFull analyses set., its Components, and Secondary Endpoints in the DAPA-HF Study
 
 |  | Patients with events (event rateEvent rates are presented as the number of subjects with event per 100 patient years of follow-up.) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Efficacy Variable(time to first occurrence) | Dapagliflozin10 mg N=2373 | Placebo N=2371 | Hazard ratio (95% CI) | p-valueTwo-sided p-values. |
-| Composite of hHF, CV Death or Urgent Heart Failure Visit Urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 |
+| Efficacy Variable(time to first occurrence) | Dapagliflozin 10 mg N=2373 | Placebo N=2371 | Hazard ratio (95% CI) | p-valueTwo-sided p-values. |
+| Composite of hHF, CV Death or Urgent Heart Failure VisitUrgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 |
 | Composite of CV Death or hHF | 382 (11.4) | 495 (15.3) | 0.75 (0.65, 0.85) | <0.0001 |
 | Components of the Composite Endpoints |  |  |  |  |
 | CV Death | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  |
@@ -238,3 +236,59 @@ Table 16: Treatment Effects for the Primary Composite EndpointFull analyses set.
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular, hHF=hospitalization for heart failureNOTE: Hazard Ratio based on Cox proportional hazards model with treatment as a factor, stratified by T2DM status at randomization, and adjusted for history of hHF (except for the analysis of all-cause mortality). The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint. |  |  |  |  |
 
 Figure 6: Time to the First Occurrence of the Composite of Cardiovascular Death, Hospitalization for Heart Failure or Urgent Heart Failure Visit in the DAPA-HF Study
+
+## 14.4 Chronic Kidney Disease
+
+The Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria (urine albumin creatinine ratio [UACR] between 200 and 5000 mg/g) who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
+
+The primary objective was to determine whether dapagliflozin 10 mg reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
+
+A total of 4304 patients were randomized equally to dapagliflozin 10 mg or placebo and were followed for a median of 28.5 months.
+The study included patients with type 2 diabetes mellitus (n=2906) and patients without diabetes (n=1398).
+The mean age of the study population was 62 years and 67% were male.
+The population was 53% White, 4% Black or African-American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
+At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73m2 to less than 45 mL/min/1.73m2, and 15% of patients had an eGFR less than 30 mL/min/1.73m2.
+Median UACR was 950 mg/g.
+The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hypertensive nephropathy (16%), and IgA nephropathy (6%).
+At baseline, 97% of patients were treated with ACEi or ARB.
+Approximately 44% were taking antiplatelet agents, and 65% were on a statin.
+
+Out of 2906 (68%) patients who had type 2 diabetes mellitus at randomization, 1455 patients received dapagliflozin 10 mg and 1451 received placebo.
+At baseline of the patients with type 2 diabetes mellitus, 43% were being treated with metformin (631 patients on dapagliflozin 10 mg and 613 on placebo) and 55% were treated with insulin.
+
+The mean age of the type 2 diabetes mellitus study population was 64 years, 67% were male, 53% White, 5% Black or African American and 32% Asian, 27% were of Hispanic or Latino ethnicity.
+In these patients, mean eGFR was 44 mL/min/1.73 m2, 43% of patients had an eGFR 30 mL/min/1.73 m2 to below 45 mL/min/1.73 m2, and 14% of patients had an eGFR below 30 mL/min/1.73 m2.
+Median UACR was 1017 mg/g.
+The most common etiologies of CKD in this group were diabetic nephropathy (86%) and ischemic/hypertensive nephropathy (7%).
+
+Dapagliflozin 10 mg reduced the incidence of the primary composite endpoint of ≥50% sustained decline in eGFR, progression to ESKD, CV or renal death in overall population (HR 0.61 [95% CI 0.51,0.72]; p<0.0001).
+The dapagliflozin 10 mg and placebo event curves separate by Month 4 and continue to diverge over the study period.
+The treatment effect reflected a reduction in ≥50% sustained decline in eGFR, progression to ESKD, and CV death.
+There were few renal deaths during the trial (Table 18 and Figure 7).
+
+The treatment benefit of dapagliflozin 10 mg was consistent in reducing the incidence of the primary composite endpoint in patients with type 2 diabetes mellitus (HR 0.64 [95% CI 0.52, 0.79]) and in patients with type 2 diabetes mellitus and metformin as background therapy (HR 0.74 [95% CI 0.53, 1.03]).
+
+The treatment benefit of dapagliflozin 10 mg was consistent in reducing the incidence of the composite endpoint of CV death or hospitalization for heart failure and all-cause mortality in patients with type 2 diabetes mellitus (HR 0.70 [95% CI 0.53, 0.92] and HR 0.74 [95% CI 0.56, 0.98], respectively) and in patients with type 2 diabetes mellitus and metformin as background therapy (HR 0.59 [95% CI 0.38, 0.91] and HR 0.71 [95% CI 0.46, 1.10]).
+
+Table 18: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints in DAPA-CKD Study
+
+|  | Patients with events (event rate) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Efficacy Variable(time to first occurrence) | Dapagliflozin 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-valueNominal p-value. |
+| Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
+| Components of the primary composite endpoint |  |  |  |  |
+| ≥50% Sustained eGFR Decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
+| ESKDESKD is defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
+| CV Death | 65 (1.4) | 80 (1.7) | 0.81 (0.58, 1.12) |  |
+| Renal Death | 2 (<0.1) | 6 (0.1) |  |  |
+| ≥50% sustained eGFR decline, ESKD or renal death | 142 (3.3) | 243 (5.8) | 0.56 (0.45, 0.68) | <0.0001 |
+| CV death or Hospitalization for Heart Failure | 100 (2.2) | 138 (3.0) | 0.71 (0.55, 0.92) | 0.0089 |
+| Hospitalization for Heart Failure | 37 (0.8) | 71 (1.6) | 0.51 (0.34, 0.76) |  |
+| All-Cause Mortality | 101 (2.2) | 146 (3.1) | 0.69 (0.53, 0.88) | 0.0035 |
+| N=Number of patients, CI=Confidence interval, CV=Cardiovascular.NOTE: Time to first event was analyzed in a Cox proportional hazards model. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.There were too few events of renal death to compute a reliable hazard ratio. |  |  |  |  |
+
+Figure 7: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Study)
+
+DAPA-CKD enrolled a population with relatively advanced CKD at high risk of progression.
+Exploratory analyses of a randomized, double-blind, placebo-controlled trial conducted to determine the effect of dapagliflozin 10 mg on CV outcomes (the DECLARE trial) support the conclusion that dapagliflozin 10 mg is also likely to be effective in patients with less advanced CKD.
