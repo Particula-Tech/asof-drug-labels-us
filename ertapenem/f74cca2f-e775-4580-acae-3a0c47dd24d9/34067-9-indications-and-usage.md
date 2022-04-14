@@ -17,13 +17,13 @@ Ertapenem for injection is indicated for the treatment of adult patients and ped
 
 Ertapenem for injection is indicated for the treatment of adult patients and pediatric patients (3 months of age and older) with complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae.
 
-## 1.5 Acute Pelvic Infections Including Postpartum Endomyometritis, Septic Abortion and Post Surgical Gynecologic Infections
+## 1.5 Acute Pelvic Infections Including Postpartum Endomyometritis, Septic Abortion and Post-Surgical Gynecologic Infections
 
-Ertapenem for injection is indicated for the treatment of adult patients and pediatric patients (3 months of age and older) with acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecological infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+Ertapenem for injection is indicated for the treatment of adult patients and pediatric patients (3 months of age and older) with acute pelvic infections including postpartum endomyometritis, septic abortion and post-surgical gynecological infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
 
 ## 1.6 Prophylaxis of Surgical Site Infection Following Elective Colorectal Surgery
 
-Ertapenem for injection is indicated for the prevention of surgical site infection following elective colorectal surgery.
+Ertapenem for injection is indicated in adults for the prevention of surgical site infection following elective colorectal surgery.
 
 ## 1.7 Usage
 

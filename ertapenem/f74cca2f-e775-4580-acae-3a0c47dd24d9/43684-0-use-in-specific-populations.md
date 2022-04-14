@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Available data from a small number of postmarketing cases with ertapenem use in pregnancy are insufficient to inform any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Risk Summary Available data from a small number of post-marketing cases with ertapenem use in pregnancy are insufficient to inform any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction studies after intravenous administration of ertapenem during the period of organogenesis, there was no evidence of developmental malformations in rats at systemic exposures (AUC) up to approximately 1.2 times the human exposure at the maximum recommended human dose (MRHD) and in mice at doses up to approximately 3 times the MRHD based on body surface area comparison.
 In pregnant rats administered ertapenem during organogenesis through lactation, fetal toxicity, developmental delays, and impaired reproduction did not occur in first generation offspring at systemic exposures (AUC) approximately 1.2 times the human exposure at the MRHD (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -19,7 +19,7 @@ Risk Summary Ertapenem is present in human milk (see Data).
 There are no data on the effects on the breastfed infant or the effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ertapenem and any potential adverse effects on the breastfed infant from ertapenem or from the underlying maternal condition.
 Data The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3 to 10 days of therapy) showed low levels.
-The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/ml), although peak concentrations were not assessed.
+The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/mL), although peak concentrations were not assessed.
 By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman.
 The concentration of ertapenem in transitional milk observed in this study may not reflect the concentration of ertapenem in mature milk.
 

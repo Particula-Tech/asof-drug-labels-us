@@ -21,8 +21,8 @@ Table 1 presents treatment guidelines for Ertapenem for injection.
 | Complicated skin and skin structure infections, including diabetic foot infections§ | 1 g | 15 mg/kg twice daily‡ | 7 to 14 days¶ |
 | Community acquired pneumonia | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
 | Complicated urinary tract infections, including pyelonephritis | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
-| Acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections | 1 g | 15 mg/kg twice daily‡ | 3 to 10 days |
-| * defined as creatinine clearance >90 mL/min/1.73 m2 † due to the designated pathogens [see Indications and Usage (1)] ‡ not to exceed 1 g/day § Ertapenem for injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. ¶ adult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) # duration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |  |  |  |
+| Acute pelvic infections including postpartum endomyometritis, septic abortion and post-surgical gynecologic infections | 1 g | 15 mg/kg twice daily‡ | 3 to 10 days |
+| * defined as creatinine clearance >90 mL/min/1.73 m2 † due to the designated pathogens [see Indications and Usage (1)] ‡ not to exceed 1 g/day § Ertapenem for injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. ¶adult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) # duration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |  |  |  |
 
 ## 2.3 Prophylactic Regimen in Adults
 
@@ -55,6 +55,11 @@ The serum creatinine should represent a steady state of renal function.
 | (72) x serum creatinine (mg/100 mL) |  |
 | Females: | (0.85) x (value calculated for males) |
 
+________________________________ 1Cockcroft and Gault equation: Cockcroft DW, Gault MH.
+Prediction of creatinine clearance from serum creatinine.
+Nephron.
+1976
+
 ## 2.6 Patients with Hepatic Impairment
 
 No dose adjustment recommendations can be made in patients with hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
@@ -63,7 +68,6 @@ No dose adjustment recommendations can be made in patients with hepatic impairme
 
 Vials Adults and pediatric patients 13 years of age and older Preparation for intravenous administration: DO NOT MIX OR CO-INFUSE ERTAPENEM FOR INJECTION WITH OTHER MEDICATIONS.
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
-
 ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 1.Reconstitute the contents of a 1 g vial of Ertapenem for injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
 NOTE: Use with a needleless IV system is not recommended.
@@ -77,13 +81,13 @@ Shake vial thoroughly to form solution.
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 Pediatric patients 3 months to 12 years of age Preparation for intravenous administration: DO NOT MIX OR CO-INFUSE ERTAPENEM FOR INJECTION WITH OTHER MEDICATIONS.
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
-
 ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 1.
 Reconstitute the contents of a 1 g vial of Ertapenem for injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
 NOTE: Use with a needleless IV system is not recommended.
 2.
-Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.Discard vial with unused portion of Ertapenem for injection reconstituted solution.
+Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
+Discard vial with unused portion of Ertapenem for injection reconstituted solution.
 3.
 Complete the infusion within 6 hours of reconstitution.
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
@@ -96,19 +100,9 @@ Discard vial with unused portion of Ertapenem for injection reconstituted soluti
 3.
 The reconstituted IM solution should be used within 1 hour after preparation.
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
-
-Storage
-
-When prepared with the diluent, Ertapenem for injection maintains satisfactory potency for 6 hours at room temperature (25°C) or for 24 hours under refrigeration (5°C) and used within 4 hours after removal from refrigeration.
+Storage When prepared with the diluent, Ertapenem for injection maintains satisfactory potency for 6 hours at room temperature (25°C) or for 24 hours under refrigeration (5°C) and used within 4 hours after removal from refrigeration.
 Solutions of Ertapenem for injection should not be frozen.
-
 Before administering, see accompanying package circular for Ertapenem for injection.
-
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use, whenever solution and container permit.
 Solutions of Ertapenem for injection range from colorless to pale yellow.
-Variations of color within this range do not affect the potency of the product.
-
-1 Cockcroft and Gault equation: Cockcroft DW, Gault MH.
-Prediction of creatinine clearance from serum creatinine.
-Nephron.
-1976 2 Refer to the prescribing information for lidocaine HCl.
+Variations of color within this range do not affect the potency of the product. _________________________ 2 Refer to the prescribing information for lidocaine HCl.

@@ -14,7 +14,7 @@ Average plasma concentrations (mcg/mL) of ertapenem following a single 30-minute
 | Dose/Route | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 18 hr | 24 hr |
 | 1 g IV* | 155 | 115 | 83 | 48 | 31 | 20 | 9 | 3 | 1 |
 | 1 g IM | 33 | 53 | 67 | 57 | 40 | 27 | 13 | 4 | 2 |
-| *Infused at a constant rate over 30 minutes |  |  |  |  |  |  |  |  |  |
+| * Infused at a constant rate over 30 minutes |  |  |  |  |  |  |  |  |  |
 
 The area under the plasma concentration-time curve (AUC) of ertapenem in adults increased less-than dose-proportional based on total ertapenem concentrations over the 0.5 to 2 g dose range, whereas the AUC increased greater-than dose-proportional based on unbound ertapenem concentrations.
 Ertapenem exhibits non-linear pharmacokinetics due to concentration-dependent plasma protein binding at the proposed therapeutic dose [see Clinical Pharmacology (12.3)].
@@ -57,7 +57,6 @@ The mean plasma half-life in pediatric patients 13 to 17 years of age is approxi
 Following the administration of 1 g IV radiolabeled ertapenem to healthy young adults, approximately 80% is recovered in urine and 10% in feces.
 Of the 80% recovered in urine, approximately 38% is excreted as unchanged drug and approximately 37% as the ring-opened metabolite.
 In healthy young adults given a 1 g IV dose, the mean percentage of the administered dose excreted in urine was 17.4% during 0-2 hours postdose, 5.4% during 4-6 hours postdose, and 2.4% during 12-24 hours postdose.
-
 Special Populations Renal Impairment Total and unbound fractions of ertapenem pharmacokinetics were investigated in 26 adult subjects (31 to 80 years of age) with varying degrees of renal impairment.
 Following a single 1 g IV dose of ertapenem, the unbound AUC increased 1.5-fold and 2.3-fold in subjects with mild renal impairment (CLCR 60-90 mL/min/1.73 m2) and moderate renal impairment (CLCR 31-59 mL/min/1.73 m2), respectively, compared with healthy young subjects (25 to 45 years of age).
 No dosage adjustment is necessary in patients with CLCR ≥31 mL/min/1.73 m2.
@@ -67,25 +66,20 @@ The recommended dose of ertapenem in adult patients with CLCR ≤30 mL/min/1.73 
 Following a single 1 g IV dose given immediately prior to a 4 hour hemodialysis session in 5 adult patients with end-stage renal disease, approximately 30% of the dose was recovered in the dialysate.
 Dose adjustments are recommended for patients with severe renal impairment and end-stage renal disease [see Dosage and Administration (2.4)].
 There are no data in pediatric patients with renal impairment.
-
 Hepatic Impairment The pharmacokinetics of ertapenem in patients with hepatic impairment have not been established.
 However, ertapenem does not appear to undergo hepatic metabolism based on in vitro studies and approximately 10% of an administered dose is recovered in the feces [see Clinical Pharmacology (12.3) and Dosage and Administration (2.6)].
-
 Gender The effect of gender on the pharmacokinetics of ertapenem was evaluated in healthy male (n=8) and healthy female (n=8) subjects.
 The differences observed could be attributed to body size when body weight was taken into consideration.
 No dose adjustment is recommended based on gender.
-
 Geriatric Patients The impact of age on the pharmacokinetics of ertapenem was evaluated in healthy male (n=7) and healthy female (n=7) subjects ≥65 years of age.
 The total and unbound AUC increased 37% and 67%, respectively, in elderly adults relative to young adults.
 These changes were attributed to age-related changes in creatinine clearance.
 No dosage adjustment is necessary for elderly patients with normal (for their age) renal function.
-
 Pediatric Patients Plasma concentrations of ertapenem are comparable in pediatric patients 13 to 17 years of age and adults following a 1 g once daily IV dose.
 Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age (N=6) were generally comparable to those in healthy young adults.
 Plasma concentrations at the midpoint of the dosing interval following a single 15 mg/kg IV dose of ertapenem in patients 3 months to 12 years of age are comparable to plasma concentrations at the midpoint of the dosing interval following a 1 g once daily IV dose in adults [see Clinical Pharmacology (12.3)].
 The plasma clearance (mL/min/kg) of ertapenem in patients 3 months to 12 years of age is approximately 2-fold higher as compared to that in adults.
 At the 15 mg/kg dose, the AUC value (doubled to model a twice daily dosing regimen, i.e., 30 mg/kg/day exposure) in patients 3 months to 12 years of age was comparable to the AUC value in young healthy adults receiving a 1 g IV dose of ertapenem.
-
 Drug Interactions When ertapenem is co-administered with probenecid (500 mg p.o. every 6 hours), probenecid competes for active tubular secretion and reduces the renal clearance of ertapenem.
 Based on total ertapenem concentrations, probenecid increased the AUC of ertapenem by 25%, and reduced the plasma and renal clearance of ertapenem by 20% and 35%, respectively.
 The half-life of ertapenem was increased from 4.0 to 4.8 hours.
@@ -98,8 +92,8 @@ Mechanism of Action Ertapenem has in vitro activity against Gram-positive and Gr
 The bactericidal activity of ertapenem results from the inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin binding proteins (PBPs).
 In Escherichia coli, it has strong affinity toward PBPs 1a, 1b, 2, 3, 4 and 5 with preference for PBPs 2 and 3.
 Resistance Ertapenem is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
-Ertapenem is hydrolyzed by metallo-betalactamases.
+Ertapenem is hydrolyzed by metallo-beta-lactamases.
 Antimicrobial Activity Ertapenem has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section: Gram-positive bacteria: Staphylococcus aureus (methicillin susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae (penicillin susceptible isolates only) Streptococcus pyogenes Gram-negative bacteria: Escherichia coli Haemophilus influenzae (beta-lactamase negative isolates only) Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Anaerobic bacteria: Bacteroides fragilis Bacteroides distasonis Bacteroides ovatus Bacteroides thetaiotaomicron Bacteroides uniformis Clostridium clostridioforme Eubacterium lentum Peptostreptococcus species Porphyromonas asaccharolytica Prevotella bivia The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ertapenem.
 However, the efficacy of ertapenem in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials: Gram-positive bacteria: Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus pneumoniae (penicillin-intermediate isolates) Gram-negative bacteria: Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Haemophilus influenzae (beta-lactamase positive isolates only) Haemophilus parainfluenzae Klebsiella oxytoca (excluding ESBL producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens Anaerobic bacteria: Bacteroides vulgatus Clostridium perfringens Fusobacterium spp.
-Susceptibility Testing: For specific information regarding susceptibility testing methods interpretive criteria, and associated test methods, and quality control standards recognized by FDA for ertapenem, please see: https://www.fda.gov/STIC.
+Susceptibility Testing For specific information regarding susceptibility testing methods interpretive criteria, and associated test methods, and quality control standards recognized by FDA for ertapenem, please see: https://www.fda.gov/STIC.
