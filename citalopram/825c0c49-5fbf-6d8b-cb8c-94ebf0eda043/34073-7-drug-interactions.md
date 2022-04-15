@@ -1,0 +1,25 @@
+# 7 DRUG INTERACTIONS
+
+Table 5 presents clinically important drug interactions with citalopram tablets.
+
+Table 5: Clinically Important Drug Interactions with Citalopram Tablets
+
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| --- | --- |
+| Clinical Impact: | Concomitant use of SSRIs, including citalopram tablets, and MAOIs increases the risk of serotonin syndrome. |
+| Intervention: | Citalopram tablets are contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.5), Contraindications (4), Warnings and Precautions (5.3)]. |
+| Pimozide |  |
+| Clinical Impact: | Concomitant use of citalopram tablets with pimozide increases plasma concentrations of pimozide, a drug with a narrow therapeutic index, and may increase the risk of QT prolongation and/or ventricular arrhythmias compared to use of citalopram tablets alone [see Clinical Pharmacology (12.2)]. |
+| Intervention: | Citalopram tablets are contraindicated in patients taking pimozide [see Contraindications (4), Warnings and Precautions (5.2)]. |
+| Drugs that Prolong the QTc Interval |  |
+| Clinical Impact: | Concomitant use of citalopram tablets with drugs that prolong QT can cause additional QT prolongation compared to the use of citalopram tablets alone [see Clinical Pharmacology (12.2)]. |
+| Intervention: | Avoid concomitant use of citalopram tablets with drugs that prolong the QT interval (citalopram tablets are contraindicated in patients taking pimozide) [see Contraindications (4), Warnings and Precautions (5.2)]. |
+| CYP2C19 Inhibitors |  |
+| Clinical Impact: | Concomitant use of citalopram tablets with CYP2C19 inhibitors increases the risk of QT prolongation and/or ventricular arrhythmias compared to the use of citalopram tablets alone [see Clinical Pharmacology (12.2)]. |
+| Intervention: | The maximum recommended dosage of citalopram tablets is 20 mg daily when used concomitantly with a CYP2C19 inhibitor [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | Concomitant use of citalopram tablets and other serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during citalopram tablets initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of citalopram tablets and/or concomitant serotonergic drugs [see Warnings and Precautions (5.3)]. |
+| Drugs That Interfere With Hemostasis (antiplatelet agents and anticoagulants) |  |
+| Clinical Impact: | Concomitant use of citalopram tablets and an antiplatelet or anticoagulant may potentiate the risk of bleeding. |
+| Intervention: | Inform patients of the increased risk of bleeding associated with the concomitant use of citalopram tablets and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.4)]. |

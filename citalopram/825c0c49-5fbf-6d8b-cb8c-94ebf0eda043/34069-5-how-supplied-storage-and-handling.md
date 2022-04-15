@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Citalopram Tablets, USP are available containing citalopram hydrobromide, USP equivalent to 10 mg, 20 mg or 40 mg citalopram.
 
@@ -23,7 +23,7 @@ NDC 0378-6233-01 bottles of 100 tablets
 
 NDC 0378-6233-05 bottles of 500 tablets
 
-Store at 20° to 25°C (68° to 77°F).
+Storage and Handling: Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
