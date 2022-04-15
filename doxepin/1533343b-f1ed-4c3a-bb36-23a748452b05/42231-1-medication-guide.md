@@ -1,6 +1,6 @@
 # Medication Guide
 
-Medication Guide Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -56,6 +56,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JUNE 2015 DXPN:R30mmh
+Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
+
+Revised: 3/2022 DXPN:R31mmh

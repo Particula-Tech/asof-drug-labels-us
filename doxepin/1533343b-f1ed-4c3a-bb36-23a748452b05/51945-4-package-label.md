@@ -25,11 +25,13 @@ Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
 Severe symptomatology: 150 mg to 300 mg.
 See package insert for complete dosage information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM1049A11
+RM1049A12
 
 # PRINCIPAL DISPLAY PANEL - 25 mg
 
@@ -58,11 +60,13 @@ Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
 Severe symptomatology: 150 mg to 300 mg.
 See package insert for complete dosage information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM3125A13
+RM3125A14
 
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -91,11 +95,13 @@ Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
 Severe symptomatology: 150 mg to 300 mg.
 See package insert for complete dosage information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM4250A12
+RM4250A13
 
 # PRINCIPAL DISPLAY PANEL - 75 mg
 
@@ -124,11 +130,13 @@ Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
 Severe symptomatology: 150 mg to 300 mg.
 See package insert for complete dosage information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM5375A12
+RM5375A13
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -157,8 +165,10 @@ Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
 Severe symptomatology: 150 mg to 300 mg.
 See package insert for complete dosage information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM6410A11
+RM6410A12
