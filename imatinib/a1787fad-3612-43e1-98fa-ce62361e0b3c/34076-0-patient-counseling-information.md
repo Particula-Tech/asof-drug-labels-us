@@ -27,6 +27,8 @@ Therefore, closely monitor growth in children under imatinib mesylate tablet tre
 Driving and Using Machines: Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 8/2020 IMAT:R11
+Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
+
+Revised: 3/2022 IMAT:R12

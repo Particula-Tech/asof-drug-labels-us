@@ -21,11 +21,13 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2245MM
+RM2245MM1
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -50,8 +52,10 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Puerto Rico
 
 Mylan.com
 
-RM2246H
+RM2246H1
