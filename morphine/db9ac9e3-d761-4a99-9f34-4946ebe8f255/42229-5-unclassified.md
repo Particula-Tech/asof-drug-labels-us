@@ -1,7 +1,5 @@
-Manufactured by:
+Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Revised: June 2020
 
-Revised: January 2020
-
-462-217-03
+462-217-04
