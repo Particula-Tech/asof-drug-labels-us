@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761231"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1754-1",
+    "70121-1754-7",
+    "70121-1755-1",
+    "70121-1755-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-maly",
+      "name": "ALYMSYS"
+    }
+  ],
+  "setid": "6b4040a2-a5c5-4ff0-ab45-935d7e49cf78",
+  "source": "dailymed"
+}
