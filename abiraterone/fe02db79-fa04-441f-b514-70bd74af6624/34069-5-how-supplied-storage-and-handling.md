@@ -9,23 +9,10 @@ NDC 0378-6921-91
 
 bottles of 60 tablets
 
-250 mg film-coated tablets: The 250 mg tablets are white, film-coated, oval, unscored tablets debossed with M on one side of the tablet and AB250 on the other side.
-They are available as follows:
-
-NDC 0378-6924-78
-
-bottles of 120 tablets
-
-NDC 0378-6924-37
-
-bottles of 360 tablets
-
 250 mg uncoated tablets: The 250 mg tablets are white to off-white, oval, unscored tablets debossed with M on one side of the tablet and AB250 on the other side.
 They are available as follows:
 
 NDC 0378-6920-78 bottles of 120 tablets
-
-NDC 0378-6920-37 bottles of 360 tablets
 
 Storage and Handling: Store at 20° to 25°C (68° to 77°F); excursions permitted in the range from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

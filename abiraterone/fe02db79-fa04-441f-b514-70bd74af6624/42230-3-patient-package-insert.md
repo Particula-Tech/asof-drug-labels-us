@@ -18,6 +18,8 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 8/2021 ABIRT:R13p/PL:ABIRT:R11p
+Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
+
+1. Revised: 3/2022 ABIRT:R14p/PL:ABIRT:R12p
