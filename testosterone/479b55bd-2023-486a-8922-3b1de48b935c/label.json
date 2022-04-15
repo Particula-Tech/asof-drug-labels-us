@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208088"
+  ],
+  "inn": "testosterone",
+  "labeler": "Antares Pharma, Inc.",
+  "package_ndcs": [
+    "54436-112-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "testosterone undecanoate",
+      "name": "Tlando"
+    }
+  ],
+  "setid": "479b55bd-2023-486a-8922-3b1de48b935c",
+  "source": "dailymed"
+}
