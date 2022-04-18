@@ -2,27 +2,49 @@
 
 NDC 0641-6135-01
 
-Prochlorperazine Edisylate Injection, USP
+Rx Only
 
-10 mg/2 mL (5 mg/mL)
+Prochlorperazine
+
+Edisylate Injection, USP
+
+10 mg per 2 mL
+
+(5mg/mL)
+
+For deep IM
+
+or IV use ONLY
+
+Not for SC use
+
+Protect from light
+
+2 mL vial
+
+NDC 0641-6135-01
 
 Rx only
 
-2 mL Vial
+Prochlorperazine
 
-FOR DEEP IM OR IV USE ONLY NOT FOR SC USE PROTECT FROM LIGHT
+Edisylate Injection, USP
 
-NDC 0641-6135-25 Rx only
+10 mg per 2 mL
 
-Prochlorperazine Edisylate Injection, USP
+(5mg/mL)
 
-10 mg/2 mL (5 mg/mL)
+For deep IM or IV use ONLY
 
-25 x 2 mL Vials
+Not for Subcutaneous use
 
-FOR DEEP IM OR IV USE ONLY NOT FOR SUBCUTANEOUS USE
+Protect from light: Keep covered
 
-PROTECT FROM LIGHT: Keep covered in carton until time of use.
-Discard contents if markedly discolored.
+in carton until time of use.
+Discard contents
+
+if markedly discolored.
+
+25 x 2 mL vial
 
 # SERIALIZATION IMAGE
