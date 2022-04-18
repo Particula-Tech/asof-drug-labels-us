@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214439"
+  ],
+  "inn": "amlodipine",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-035-15"
+  ],
+  "products": [
+    {
+      "form": "Solution",
+      "generic": "amlodipine",
+      "name": "NORLIQVA"
+    }
+  ],
+  "setid": "c1730a51-4383-4c61-a9a1-7e1326bd0abe",
+  "source": "dailymed"
+}
