@@ -65,10 +65,10 @@ Nephron.
 1976 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function.
 
-| Males: | (weight in kg) × (140-age in years) |
-| --- | --- |
-| (72) × serum creatinine (mg/100 mL) |  |
-| Females: | (0.85) × (value calculated for males) |
+| Males: | (weight in kg) × (140-age in years) |  |
+| --- | --- | --- |
+| (72) × serum creatinine (mg/100 mL) |  |  |
+| Females: | (0.85) × (value calculated for males) |  |
 
 ## 2.6 Patients with Hepatic Impairment
 

@@ -24,9 +24,8 @@ The most common drug-related adverse experiences in patients treated with ertape
 
 Table 3 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem for injection in Clinical Trials
 
-|  | (N=802) |  | (N=1152) |  |
+| Adverse Events | Ertapenem for injectionIncludes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials 1 g daily (N=802) | Piperacillin/Tazobactam 3.375 g q6h (N=774) | Ertapenem for injectionIncludes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials 1 g daily (N=1152) | Ceftriaxone 1 or 2 g daily (N=942) |
 | --- | --- | --- | --- | --- |
-| Adverse Events | Ertapenem for injectionIncludes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials 1 g daily | Piperacillin/Tazobactam 3.375 g q6h (N=774) | Ertapenem for injectionIncludes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials 1 g daily | Ceftriaxone 1 or 2 g daily (N=942) |
 | Local: |  |  |  |  |
 | Infused vein complication | 7.1 | 7.9 | 5.4 | 6.7 |
 | Systemic: |  |  |  |  |
@@ -174,7 +173,7 @@ Immune System Disorders: anaphylaxis including anaphylactoid reactions
 
 Musculoskeletal and Connective Tissue Disorders: muscular weakness
 
-Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor
+Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor, encephalopathy (recovery was prolonged in patients with renal impairment)
 
 Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
@@ -190,9 +189,8 @@ Ertapenem for injection was discontinued due to laboratory adverse experiences i
 
 Table 6 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test (%) of Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem for injection in Clinical Trials
 
-|  | (n=766) |  | (n=1122) |  |
+| Adverse laboratory experiences | Ertapenem for injectionIncludes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials 1 g daily (n=766) | Piperacillin/Tazobactam 3.375 g q6h (nNumber of patients with one or more laboratory tests=755) | Ertapenem for injectionIncludes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials 1 g daily (n=1122) | Ceftriaxone 1 or 2 g daily (n=920) |
 | --- | --- | --- | --- | --- |
-| Adverse laboratory experiences | Ertapenem for injectionIncludes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials 1 g daily | Piperacillin/Tazobactam 3.375 g q6h (nNumber of patients with one or more laboratory tests=755) | Ertapenem for injectionIncludes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials 1 g daily | Ceftriaxone 1 or 2 g daily (n=920) |
 | ALT increased | 8.8 | 7.3 | 8.3 | 6.9 |
 | AST increased | 8.4 | 8.3 | 7.1 | 6.5 |
 | Serum alkaline phosphatase increased | 6.6 | 7.2 | 4.3 | 2.8 |
