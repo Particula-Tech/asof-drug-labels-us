@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212806"
+  ],
+  "inn": "regadenoson",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-201-85"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "regadenoson",
+      "name": "Regadenoson"
+    }
+  ],
+  "setid": "a550b451-fb30-4c1c-a60e-6e40fba20c88",
+  "source": "dailymed"
+}
