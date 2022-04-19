@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022195"
+  ],
+  "inn": "morphine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0404-41",
+    "0054-0404-44",
+    "0054-0404-50",
+    "0054-0517-41",
+    "0054-0517-44",
+    "0054-0517-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "ca359246-4674-4b32-b8b2-673d32b7112f",
+  "source": "dailymed"
+}
