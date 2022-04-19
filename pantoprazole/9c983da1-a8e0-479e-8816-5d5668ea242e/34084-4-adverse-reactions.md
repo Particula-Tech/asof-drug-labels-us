@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile- Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- Hypomagnesemia [see Warnings and Precautions (5.7)]
-- Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
+Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3 Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
@@ -102,7 +103,7 @@ Infections and Infestations:Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
-Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia, hypokalemia, hyponatremia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 

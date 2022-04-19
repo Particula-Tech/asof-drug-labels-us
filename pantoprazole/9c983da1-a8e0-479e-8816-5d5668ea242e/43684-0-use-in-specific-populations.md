@@ -82,6 +82,7 @@ All 4 of these patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 w
 Because EE is uncommon in the pediatric population, predominantly pediatric patients with endoscopically-proven or symptomatic GERD were also included in these studies.
 Patients were treated with a range of doses of pantoprazole once daily for 8 weeks.
 For safety findings see Adverse Reactions (6.1).
+
 Because these pediatric trials had no placebo, active comparator, or evidence of a dose response, the trials were inconclusive regarding the clinical benefit of pantoprazole for symptomatic GERD in the pediatric population.
 The effectiveness of pantoprazole sodium delayed-release tablets for treating symptomatic GERD in pediatric patients has not been established.
 
