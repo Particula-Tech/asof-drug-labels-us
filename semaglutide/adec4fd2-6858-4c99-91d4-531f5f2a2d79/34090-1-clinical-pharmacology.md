@@ -53,7 +53,7 @@ Semaglutide causes a delay of early postprandial gastric emptying, thereby reduc
 Cardiac electrophysiology (QTc)
 
 The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial.
-At a dose 1.5 times the maximum recommended dose, semaglutide does not prolong QTc intervals to any clinically relevant extent.
+Semaglutide does not prolong QTc intervals at doses up to 1.5 mg at steady-state.
 
 ## 12.3 Pharmacokinetics
 
@@ -64,13 +64,15 @@ Maximum concentration of semaglutide is reached 1 to 3 days post dose.
 
 Similar exposure is achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm.
 
-In patients with type 2 diabetes, semaglutide exposure increases in a dose-proportional manner for once-weekly doses of 0.5 mg and 1 mg.
+In patients with type 2 diabetes, semaglutide exposure increases in a dose-proportional manner for once-weekly doses of 0.5 mg, 1 mg and 2 mg.
 Steady-state exposure is achieved following 4-5 weeks of once-weekly administration.
 In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations following once weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65.0 ng/mL and 123.0 ng/mL, respectively.
+In the trial comparing semaglutide 1 mg and 2 mg, the mean steady state concentrations were 111.1 ng/mL and 222.1 ng/mL, respectively.
 
 Distribution
 
-The mean apparent volume of distribution of semaglutide following subcutaneous administration in patients with type 2 diabetes is approximately 12.5 L. Semaglutide is extensively bound to plasma albumin (>99%).
+The mean apparent volume of distribution of semaglutide following subcutaneous administration in patients with type 2 diabetes is approximately 12.5L.
+Semaglutide is extensively bound to plasma albumin (>99%).
 
 Elimination
 
@@ -109,10 +111,11 @@ Drug Interaction Studies
 
 In vitro studies have shown very low potential for semaglutide to inhibit or induce CYP enzymes, and to inhibit drug transporters.
 
-The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral medicinal products.
+The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral medicinal products [see Drug Interactions (7.2)].
 The potential effect of semaglutide on the absorption of co-administered oral medications was studied in trials at semaglutide 1 mg steady-state exposure.
 
 No clinically relevant drug-drug interaction with semaglutide (Figure 4) was observed based on the evaluated medications; therefore, no dose adjustment is required when co-administered with semaglutide.
+In a separate study, no apparent effect on the rate of gastric emptying was observed with semaglutide 2.4 mg.
 
 Figure 4.
 Impact of semaglutide on the exposure of co-administered oral medications

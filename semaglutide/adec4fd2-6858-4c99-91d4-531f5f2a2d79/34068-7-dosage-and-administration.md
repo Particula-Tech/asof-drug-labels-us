@@ -3,10 +3,11 @@
 ## 2.1 Recommended Dosage
 
 - •Start OZEMPIC with a 0.25 mg subcutaneous injection once weekly for 4 weeks.
-  The 0.25 mg dose is intended for treatment initiation and is not effective for glycemic control.
-- •After 4 weeks on the 0.25 mg dose, increase the dosage to 0.5 mg once weekly.
-- •If additional glycemic control is needed after at least 4 weeks on the 0.5 mg dose, the dosage may be increased to 1 mg once weekly.
-  The maximum recommended dosage is 1 mg once weekly.
+  The 0.25 mg dosage is intended for treatment initiation and is not effective for glycemic control.
+- •After 4 weeks on the 0.25 mg dosage, increase the dosage to 0.5 mg once weekly.
+- •If additional glycemic control is needed after at least 4 weeks on the 0.5 mg dosage, the dosage may be increased to 1 mg once weekly.
+- •If additional glycemic control is needed after at least 4 weeks on the 1 mg dosage, the dosage may be increased to 2 mg once weekly.
+  The maximum recommended dosage is 2 mg once weekly.
 - •Administer OZEMPIC once weekly, on the same day each week, at any time of the day, with or without meals.
 - •The day of weekly administration can be changed if necessary as long as the time between two doses is at least 2 days (>48 hours).
 - •If a dose is missed, administer OZEMPIC as soon as possible within 5 days after the missed dose.

@@ -9,8 +9,8 @@ There are clinical considerations regarding the risks of poorly controlled diabe
 Based on animal reproduction studies, there may be potential risks to the fetus from exposure to semaglutide during pregnancy.
 OZEMPIC should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In pregnant rats administered semaglutide during organogenesis, embryofetal mortality, structural abnormalities and alterations to growth occurred at maternal exposures below the maximum recommended human dose (MRHD) based on AUC.
-In rabbits and cynomolgus monkeys administered semaglutide during organogenesis, early pregnancy losses and structural abnormalities were observed at below the MRHD (rabbit) and ≥5-fold the MRHD (monkey).
+In pregnant rats administered semaglutide during organogenesis, embryofetal mortality, structural abnormalities and alterations to growth occurred at maternal clinical exposure based on AUC.
+In rabbits and cynomolgus monkeys administered semaglutide during organogenesis, early pregnancy losses or structural abnormalities were observed at clinical exposure (rabbit) and ≥2-fold the MRHD (monkey).
 These findings coincided with a marked maternal body weight loss in both animal species (see Data).
 
 The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
@@ -20,26 +20,26 @@ Clinical Considerations
 
 Disease associated maternal and fetal risk
 
-Poorly controlled diabetes during pregnancy increases the maternal risk for diabetic ketoacidosis, pre- eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes during pregnancy increases the maternal risk for diabetic ketoacidosis, pre- eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
 
 Animal Data
 
-In a combined fertility and embryofetal development study in rats, subcutaneous doses of 0.01, 0.03 and 0.09 mg/kg/day (0.1-, 0.4-, and 1.1-fold the MRHD) were administered to males for 4 weeks prior to and throughout mating and to females for 2 weeks prior to mating, and throughout organogenesis to Gestation Day 17.
+In a combined fertility and embryofetal development study in rats, subcutaneous doses of 0.01, 0.03 and 0.09 mg/kg/day (0.06-, 0.2-, and 0.6-fold the MRHD) were administered to males for 4 weeks prior to and throughout mating and to females for 2 weeks prior to mating, and throughout organogenesis to Gestation Day 17.
 In parental animals, pharmacologically mediated reductions in body weight gain and food consumption were observed at all dose levels.
 In the offspring, reduced growth and fetuses with visceral (heart blood vessels) and skeletal (cranial bones, vertebra, ribs) abnormalities were observed at the human exposure.
 
-In an embryofetal development study in pregnant rabbits, subcutaneous doses of 0.0010, 0.0025 or 0.0075 mg/kg/day (0.03-, 0.3-, and 2.3-fold the MRHD) were administered throughout organogenesis from Gestation Day 6 to 19.
+In an embryofetal development study in pregnant rabbits, subcutaneous doses of 0.0010, 0.0025 or 0.0075 mg/kg/day (0.02-, 0.2-, and 1.2-fold the MRHD) were administered throughout organogenesis from Gestation Day 6 to 19.
 Pharmacologically mediated reductions in maternal body weight gain and food consumption were observed at all dose levels.
 Early pregnancy losses and increased incidences of minor visceral (kidney, liver) and skeletal (sternebra) fetal abnormalities were observed at ≥0.0025 mg/kg/day, at clinically relevant exposures.
 
-In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (1.0-, 5.2-, and 14.9-fold the MRHD) were administered throughout organogenesis, from Gestation Day 16 to 50.
-Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at ≥0.075 mg/kg twice weekly (≥5X human exposure).
+In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.5-, 3-, and 8-fold the MRHD) were administered throughout organogenesis, from Gestation Day 16 to 50.
+Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at ≥0.075 mg/kg twice weekly (≥3X human exposure).
 
-In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.7-, 3.3-, and 7.2-fold the MRHD) were administered from Gestation Day 16 to 140.
-Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at ≥0.075 mg/kg twice weekly (≥3X human exposure).
+In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.3-, 2-, and 4-fold the MRHD) were administered from Gestation Day 16 to 140.
+Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at ≥0.075 mg/kg twice weekly (≥2X human exposure).
 
 ## 8.2 Lactation
 

@@ -6,6 +6,7 @@ OZEMPIC has been studied as monotherapy and in combination with metformin, metfo
 The efficacy of OZEMPIC was compared with placebo, sitagliptin, exenatide extended-release (ER), and insulin glargine.
 
 Most trials evaluated the use of OZEMPIC 0.5 mg, and 1 mg, with the exception of the trial comparing OZEMPIC and exenatide ER where only the 1 mg dose was studied.
+One trial evaluated the use of OZEMPIC 2 mg once weekly.
 
 In patients with type 2 diabetes mellitus, OZEMPIC produced clinically relevant reduction from baseline in HbA1c compared with placebo.
 
@@ -165,6 +166,45 @@ The mean baseline body weight was 93.7 kg, 94.0 kg, 92.6 kg in the OZEMPIC 0.5 m
 The mean changes from baseline to week 30 were -3.2 kg, -4.7 kg and 0.9 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
 The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (-6.4, -4.8).
 
+Combination with metformin or metformin with sulfonylurea
+
+In a 40-week, double-blind trial (NCT03989232), 961 patients with type 2 diabetes currently treated with metformin with or without sulfonylurea treatment were randomized to OZEMPIC 2 mg or OZEMPIC 1 mg once weekly.
+Patients had a mean age of 58.0 years and 58.6% were men.
+The mean duration of type 2 diabetes was 9.5 years and the mean BMI was 34.6 kg/m2.
+At randomization, 53.3% of patients were treated with sulfonylurea and metformin.
+Overall, 88.1% were White, 4.5% were Black or African American, and 7.2% were Asian; 11.6% identified as Hispanic or Latino ethnicity.
+Treatment with OZEMPIC 2 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with OZEMPIC 1 mg (see Table 7).
+
+Patients were stratified by region (Japan/outside Japan) at randomization.
+
+Table 7.
+Results at Week 40 in a Trial of OZEMPIC 2 mg Compared to OZEMPIC 1 mg in Adult Patients with Type 2 Diabetes Mellitus in Combination With Metformin or Metformin with Sulfonylurea
+
+|  | OZEMPIC 1 mg | OZEMPIC 2 mg |
+| --- | --- | --- |
+| Intent-to-Treat (ITT) Population (N)a | 481 | 480 |
+| HbA1c (%) |  |  |
+| Baseline (mean) | 8.8 | 8.9 |
+| Change at week 40b | -1.9 | -2.1 |
+| Difference from OZEMPIC 1 mg [95% CI] |  | -0.2[-0.31; -0.04]c |
+| Patients (%) achieving HbA1c <7%a | 56 | 64 |
+| FPG (mg/dL) |  |  |
+| Baseline (mean) | 196 | 193 |
+| Change at week 40b | -55 | -59 |
+
+a The intent-to-treat population includes all randomized subjects.
+At week 40 the primary HbA1c endpoint was missing for 3% and 5% of patients randomized to OZEMPIC 1 mg and OZEMPIC 2 mg, respectively.
+Missing data were imputed using multiple imputation based on retrieved dropouts.
+For calculation of proportions, imputed values are dichotomized and the denominator is the number of all randomized subjects.
+
+b Intent-to-treat analysis using ANCOVA adjusted for baseline value and stratification factor.
+
+c p<0.01 (2-sided) for superiority, adjusted for multiplicity.
+
+The mean baseline body weight was 98.6 kg and 100.1 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
+The mean changes from baseline to week 40 were -5.6 kg and -6.4 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
+The difference between treatment arms in body weight change from baseline at week 40 was not statistically significant.
+
 Combination with basal insulin
 
 In a 30-week, double-blind trial (NCT02305381), 397 patients with type 2 diabetes mellitus inadequately controlled with basal insulin, with or without metformin, were randomized to OZEMPIC 0.5 mg once weekly, OZEMPIC 1 mg once weekly, or placebo.
@@ -173,9 +213,9 @@ Patients had a mean age of 59 years and 56% were men.
 The mean duration of type 2 diabetes was 13 years, and the mean BMI was 32 kg/m2.
 Overall, 78% were White, 5% were Black or African American, and 17% were Asian; 12% identified as Hispanic or Latino ethnicity.
 
-Treatment with OZEMPIC resulted in a statistically significant reduction in HbA1c after 30 weeks of treatment compared to placebo (see Table 7).
+Treatment with OZEMPIC resulted in a statistically significant reduction in HbA1c after 30 weeks of treatment compared to placebo (see Table 8).
 
-Table 7.
+Table 8.
 Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes Mellitus in Combination with Basal Insulin with or without Metformin
 
 |  | Placebo | OZEMPIC0.5 mg | OZEMPIC1 mg |
@@ -224,14 +264,14 @@ Type-1 error was controlled across multiple tests using a hierarchical testing s
 
 OZEMPIC significantly reduced the occurrence of MACE.
 The estimated hazard ratio for time to first MACE was 0.74 (95% CI: 0.58, 0.95).
-Refer to Figure 6 and Table 8.
+Refer to Figure 6 and Table 9.
 
 Figure 6.
 Kaplan-Meier: Time to First Occurrence of a MACE in the SUSTAIN 6 Trial
 
-The treatment effect for the primary composite endpoint and its components in the SUSTAIN 6 trial is shown in Table 8.
+The treatment effect for the primary composite endpoint and its components in the SUSTAIN 6 trial is shown in Table 9.
 
-Table 8.
+Table 9.
 Treatment Effect for MACE and its Components, Median Study Observation Time of 2.1 Years
 
 |  | PlaceboN=1649 (%) | OZEMPICN=1648 (%) | Hazard ratio vs Placebo(95% CI)a |

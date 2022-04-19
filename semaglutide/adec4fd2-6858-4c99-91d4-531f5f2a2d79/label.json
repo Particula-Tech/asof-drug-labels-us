@@ -12,9 +12,18 @@
     "0169-4132-90",
     "0169-4132-97",
     "0169-4136-02",
-    "0169-4136-11"
+    "0169-4136-11",
+    "0169-4772-11",
+    "0169-4772-12",
+    "0169-4772-90",
+    "0169-4772-97"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "semaglutide",
+      "name": "Ozempic"
+    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "semaglutide",

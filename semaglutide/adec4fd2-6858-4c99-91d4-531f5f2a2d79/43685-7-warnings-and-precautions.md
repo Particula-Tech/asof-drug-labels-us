@@ -61,3 +61,10 @@ Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contrain
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with OZEMPIC.
+
+## 5.8 Acute Gallbladder Disease
+
+Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
+In placebo-controlled trials, cholelithiasis was reported in 1.5% and 0.4% of patients-treated with OZEMPIC 0.5 mg and 1 mg, respectively.
+Cholelithiasis was not reported in placebo-treated patients.
+If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.

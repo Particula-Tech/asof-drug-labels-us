@@ -94,6 +94,7 @@ How should I use OZEMPIC?
 Your dose of OZEMPIC and other diabetes medicines may need to change because of:
 
 - •change in level of physical activity or exercise, weight gain or loss, increased stress, illness, change in diet, fever, trauma, infection, surgery or because of other medicines you take.
+- •If you take too much OZEMPIC, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of OZEMPIC?
 
@@ -124,9 +125,16 @@ OZEMPIC may cause serious side effects, including:
   - oproblems breathing or swallowing
   - osevere rash or itching
   - ofainting or feeling dizzy
-  - overy rapid heartbeat.
+  - overy rapid heartbeat
+- •gallbladder problems.
+  Gallbladder problems have happened in some people who take OZEMPIC.
+  Tell your healthcare provider right away if you get symptoms of gallbladder problems which may include:
 
-The most common side effects of OZEMPIC may include nausea, vomiting, diarrhea, stomach (abdominal) pain and constipation.
+| opain in your upper stomach (abdomen) | oyellowing of skin or eyes (jaundice) |
+| --- | --- |
+| ofever | oclay-colored stools |
+
+The most common side effects of OZEMPIC may include nausea, vomiting, diarrhea, stomach (abdominal) pain, and constipation.
 
 Talk to your healthcare provider about any side effect that bothers you or does not go away.
 These are not all the possible side effects of OZEMPIC.
@@ -157,8 +165,8 @@ OZEMPIC® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2022 Novo Nordisk
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2021
+Revised: 03/2022
