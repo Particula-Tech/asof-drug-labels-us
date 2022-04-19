@@ -10,16 +10,14 @@ Each tablet contains 7 mg of teriflunomide.
 
 AUBAGIO 14 mg tablets are supplied as:
 
-| NDC 58468-0210-2 | Carton of 28 tablets containing 1 wallet composed of 2 folded blister cards of 14 tablets per blister card |
-| --- | --- |
 | NDC 58468-0210-4 | Carton containing a bottle of 30 tablets |
+| --- | --- |
 | NDC 58468-0210-1 | Carton of 5 tablets with one blister card with five tablets |
 
 AUBAGIO 7 mg tablets are supplied as:
 
-| NDC 58468-0211-1 | Carton of 28 tablets containing 1 wallet composed of 2 folded blister cards of 14 tablets per blister card |
-| --- | --- |
 | NDC 58468-0211-4 | Carton containing a bottle of 30 tablets |
+| --- | --- |
 | NDC 58468-0211-2 | Carton of 5 tablets with one blister card with five tablets |
 
 Store at 68°F to 77°F (20°C to 25°C) with excursions permitted between 59°F and 86°F (15°C and 30°C).
