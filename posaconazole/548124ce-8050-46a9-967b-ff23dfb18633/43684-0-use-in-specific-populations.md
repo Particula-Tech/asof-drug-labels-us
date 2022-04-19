@@ -5,7 +5,7 @@
 Risk Summary
 
 Based on findings from animal data, posaconazole may cause fetal harm when administered to pregnant women.
-Available data for use of posaconazole in pregnant women are insufficient to establish a drug- associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Available data for use of posaconazole in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction studies, skeletal malformations (cranial malformations and missing ribs) and maternal toxicity (reduced food consumption and reduced body weight gain) were observed when posaconazole was dosed orally to pregnant rats during organogenesis at doses ≥1.4 times the 400 mg twice daily oral suspension regimen based on steady-state plasma concentrations of posaconazole in healthy volunteers.
 In pregnant rabbits dosed orally during organogenesis, increased resorptions, reduced litter size, and reduced body weight gain of females were seen at doses 5 times the exposure achieved with the 400 mg twice daily oral suspension regimen.
 Doses of ≥ 3 times the clinical exposure caused an increase in resorptions in these rabbits (see Data).
@@ -36,29 +36,30 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of posaconazole delayed-release tablets have been established in the age groups 13 to 17 years of age.
-Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adults.
-The safety and effectiveness of posaconazole in pediatric patients below the age of 13 years (birth to 12 years) have not been established.
+The safety and effectiveness of posaconazole delayed-release tablets for the prophylaxis of invasive Aspergillus and Candida infections have been established in pediatric patients aged 13 years and older who are at high risk of developing these infections due to being severely immunocompromised, such as HSCT recipients with GVHD or those with hematologic malignancies with prolonged neutropenia from chemotherapy.
 
-A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of posaconazole oral suspension for prophylaxis of invasive fungal infections.
-The safety profile in these patients <18 years of age appears similar to the safety profile observed in adults.
-Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state average posaconazole concentration (Cavg) was similar between these patients and adults (≥18 years of age).
-In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with posaconazole oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
+Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adult and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 13 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
+
+The safety and effectiveness of posaconazole have not been established in pediatric patients younger than 2 years of age.
+
+Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) delayed-release tablets.
+However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
+No overall differences in the safety of posaconazole delayed-release tablets were observed between geriatric patients and younger adult patients in the clinical trials; therefore, no dosage adjustment is recommended for any formulation of posaconazole in geriatric patients.
+No clinically meaningful differences in the pharmacokinetics of posaconazole were observed in geriatric patients compared to younger adult patients during clinical trials [see Clinical Pharmacology (12.3)].
+
 Of the 230 patients treated with posaconazole delayed-release tablets, 38 (17%) were greater than 65 years of age.
-The pharmacokinetics of posaconazole delayed-release tablets are comparable in young and elderly subjects.
-No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for geriatric patients.
 
 No overall differences in the pharmacokinetics and safety were observed between elderly and young subjects during clinical trials, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Following single-dose administration of 400 mg of the oral suspension, there was no significant effect of mild (eGFR: 50-80 mL/min/1.73 m2, n=6) or moderate (eGFR: 20-49 mL/min/1.73 m2, n=6) renal impairment on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
+Following single-dose administration of 400 mg of the posaconazole oral suspension, there was no significant effect of mild (eGFR: 50-80 mL/min/1.73 m2, n=6) or moderate (eGFR: 20-49 mL/min/1.73 m2, n=6) renal impairment on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
 In subjects with severe renal impairment (eGFR: <20 mL/min/1.73 m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (eGFR: >80 mL/min/1.73 m2); however, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal impairment as compared to that in the other renal impairment groups (CV<40%).
-Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2)].
-Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with the delayed-release tablets.
+Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.9)].
+Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with the posaconazole delayed-release tablets.
 
 ## 8.7 Hepatic Impairment
 
@@ -72,7 +73,7 @@ Similar recommendations apply to posaconazole delayed-release tablets; however, 
 
 ## 8.8 Gender
 
-The pharmacokinetics of posaconazole are comparable in men and women.
+The pharmacokinetics of posaconazole are comparable in males and females.
 No adjustment in the dosage of posaconazole is necessary based on gender.
 
 ## 8.9 Race

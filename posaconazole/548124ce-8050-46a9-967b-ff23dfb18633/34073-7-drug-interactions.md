@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Posaconazole is primarily metabolized via UDP glucuronosyltransferase and is a substrate of p glycoprotein (P-gp) efflux.
+Posaconazole is primarily metabolized via UDP glucuronosyltransferase and is a substrate of p -glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
 Coadministration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.
 If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections.
@@ -8,7 +8,7 @@ If such drugs are necessary, patients should be monitored closely for breakthrou
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
 
-The following information was derived from data with posaconazole oral suspension or early tablet formulation.
+The following information was derived from data with posaconazole oral suspension or early tablet formulation otherwise noted.
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 

@@ -14,7 +14,7 @@ Baltimore, Maryland - 21202
 
 United States
 
-Decemeber 2020
+November 2021
 
 The trademarks referenced herein are owned by their respective companies.
 

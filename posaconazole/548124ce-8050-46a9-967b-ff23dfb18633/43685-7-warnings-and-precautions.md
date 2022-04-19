@@ -12,7 +12,7 @@ Some azoles, including posaconazole, have been associated with prolongation of t
 In addition, cases of torsades de pointes have been reported in patients taking posaconazole.
 
 Results from a multiple time-matched ECG analysis in healthy volunteers did not show any increase in the mean of the QTc interval.
-Multiple, time-matched ECGs collected over a 12-hour period were recorded at baseline and steady-state from 173 healthy male and female volunteers (18-85 years of age) administered posaconazole oral suspension 400 mg BID with a high-fat meal.
+Multiple, time-matched ECGs collected over a 12-hour period were recorded at baseline and steady-state from 173 healthy male and female volunteers (18-85 years of age) administered posaconazole oral suspension 400 mg twice daily with a high-fat meal.
 In this pooled analysis, the mean QTc (Fridericia) interval change from baseline was –5 msec following administration of the recommended clinical dose.
 A decrease in the QTc(F) interval (–3 msec) was also observed in a small number of subjects (n=16) administered placebo.
 The placebo-adjusted mean maximum QTc(F) interval change from baseline was <0 msec (–8 msec).
@@ -28,20 +28,20 @@ Electrolyte disturbances, especially those involving potassium, magnesium or cal
 ## 5.4 Hepatic Toxicity
 
 Hepatic reactions (e.g., mild to moderate elevations in alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase, total bilirubin, and/or clinical hepatitis) have been reported in clinical trials.
-The elevations in liver function tests were generally reversible on discontinuation of therapy, and in some instances these tests normalized without drug interruption.
+The elevations in liver tests were generally reversible on discontinuation of therapy, and in some instances these tests normalized without drug interruption.
 Cases of more severe hepatic reactions including cholestasis or hepatic failure including deaths have been reported in patients with serious underlying medical conditions (e.g., hematologic malignancy) during treatment with posaconazole.
-These severe hepatic reactions were seen primarily in subjects receiving the posaconazole oral suspension 800 mg daily (400 mg BID or 200 mg QID) in clinical trials.
+These severe hepatic reactions were seen primarily in subjects receiving the posaconazole oral suspension 800 mg daily (400 mg twice daily or 200 mg four times a day) in clinical trials.
 
-Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
-Patients who develop abnormal liver function tests during posaconazole therapy should be monitored for the development of more severe hepatic injury.
-Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
+Liver tests should be evaluated at the start of and during the course of posaconazole therapy.
+Patients who develop abnormal liver tests during posaconazole therapy should be monitored for the development of more severe hepatic injury.
+Patient management should include laboratory evaluation of hepatic function (particularly liver tests and bilirubin).
 Discontinuation of posaconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to posaconazole.
 
 ## 5.5 Renal Impairment
 
-Due to the variability in exposure with Posaconazole delayed-release tablets, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+Due to the variability in exposure with Posaconazole delayed-release tablets, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
 
-## 5.6 Use with Midazolam
+## 5.6 Concomitant Use with Midazolam
 
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
@@ -51,3 +51,7 @@ Patients must be monitored closely for adverse effects associated with high plas
 
 Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
 Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].
+
+## 5.9 Breakthrough Fungal Infections
+
+Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving posaconazole delayed-release tablets.
