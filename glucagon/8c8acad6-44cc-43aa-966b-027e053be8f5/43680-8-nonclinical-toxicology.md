@@ -15,5 +15,5 @@ The weight of evidence indicates that synthetic and recombinant glucagon are not
 
 Impairment of Fertility
 
-Glucagon (rDNA and synthetic origin) was not tested in animal fertility studies.
+Glucagon was not tested in animal fertility studies.
 Studies in rats have shown that pancreatic glucagon does not cause impaired fertility.
