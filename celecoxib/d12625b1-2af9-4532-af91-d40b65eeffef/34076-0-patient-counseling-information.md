@@ -50,9 +50,15 @@ Inform patients not to use low-dose aspirin concomitantly with celecoxib capsule
 
 Manufactured by:
 
-Cipla Ltd,
+Cipla Ltd.,
 
 Kurkumbh, India
+
+&
+
+Cipla Ltd.,
+
+Indore, India
 
 Manufactured for:
 

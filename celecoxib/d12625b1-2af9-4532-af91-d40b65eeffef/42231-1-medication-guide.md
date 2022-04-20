@@ -128,9 +128,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Cipla Ltd,
+Cipla Ltd.,
 
 Kurkumbh, India
+
+&
+
+Cipla Ltd.,
+
+Indore, India
 
 Manufactured for:
 
