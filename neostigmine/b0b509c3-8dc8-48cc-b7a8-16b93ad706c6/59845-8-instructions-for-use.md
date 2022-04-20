@@ -28,4 +28,6 @@ For more information concerning this drug, please call Fresenius Kabi USA, LLC a
 
 To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Lake Zurich, IL 60047 www.fresenius-kabi.com/us 451585A Revised: 3/2020
+U.S. Patents 9,731,082 and 10,661,018
+
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us 451585B
