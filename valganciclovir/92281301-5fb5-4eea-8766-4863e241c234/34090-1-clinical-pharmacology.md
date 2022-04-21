@@ -13,7 +13,7 @@ Pharmacokinetics in Adults: The pharmacokinetics of ganciclovir after administra
 
 Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
-| PK parameter | N | Value (Mean ± SD) |
+| PK parameter | N | Value (Mean ±SD) |
 | --- | --- | --- |
 | AUC0-24h (mcg∙h/mL) | 57 | 29.1 ± 9.7 |
 | Cmax (mcg/mL) | 58 | 5.61 ± 1.52 |
@@ -51,12 +51,12 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | Tmax (h) median (min-max) (fed conditions) |  | 2.18 1.7h to 3.0h |
 | Food effect (high fat meal/fasting): PK parameter ratio and 90% confidence intervala |  | Cmax: 1.14 (0.95, 1.36) AUC: 1.30 (1.07, 1.51)a Tmax: ↔ |
 | Distribution |  |  |
-| % Bound to human plasma proteins (ex vivo) | Unknown | 1 to 2% over 0.5­- 51 mcg/mL |
+| % Bound to human plasma proteins (ex vivo) | Unknown | 1% to 2% over 0.5­ mcg/mL to 51 mcg/mL |
 | Cerebrospinal fluid penetration | Unknown | Yes |
 | Metabolism |  |  |
 |  | Hydrolyzed by intestinal and liver esterases | No significant metabolism |
 | Elimination |  |  |
-| Dose proportionality |  | AUC was dose proportional under fed conditions across a valganciclovir dose range of 450 to 2625 mg |
+| Dose proportionality |  | AUC was dose proportional under fed conditions across a valganciclovir dose range of 450 mg to 2625 mg |
 | Major route of elimination | Metabolism to ganciclovir | Glomerular filtration and active tubular secretion |
 | t1/2 (h) |  | See Tables 10 and 11 |
 | % Of dose excreted in urine | Unknown |  |
@@ -74,7 +74,7 @@ Table 13 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 | Estimated |  | Apparent Clearance | AUClast | Half-life |
 | --- | --- | --- | --- | --- |
 | Creatinine Clearance* |  | (mL/min) | (mcg·h/mL) | (hours) |
-| (mL/min) | N | Mean ± SD | Mean ± SD | Mean ± SD |
+| (mL/min) | N | Mean ± SD | Mean ± SD | Mean ±SD |
 | 51 to 70 | 6 | 249 ± 99 | 49.5 ± 22.4 | 4.85 ± 1.4 |
 | 21 to 50 | 6 | 136 ± 64 | 91.9 ± 43.9 | 10.2 ± 4.4 |
 | 11 to 20 | 6 | 45 ± 11 | 223 ± 46 | 21.8 ± 5.2 |
@@ -143,10 +143,10 @@ The virustatic activity of ganciclovir is due to inhibition of the viral DNA pol
 
 Antiviral Activity: The quantitative relationship between the cell culture susceptibility of human herpes viruses to antivirals and clinical response to antiviral therapy has not been established, and virus sensitivity testing has not been standardized.
 Sensitivity test results, expressed as the concentration of drug required to inhibit the growth of virus in cell culture by 50% (EC50), vary greatly depending upon a number of factors including the assay used.
-Thus, the reported EC50 values of ganciclovir that inhibit human CMV replication in cell culture (laboratory and clinical isolates) have ranged from 0.08 to 22.94 μM (0.02 to 5.75 mcg/mL).
+Thus, the reported EC50 values of ganciclovir that inhibit human CMV replication in cell culture (laboratory and clinical isolates) have ranged from 0.08 to 22.94 μM (0.02 mcg/mL to 5.75 mcg/mL).
 The distribution and range in susceptibility observed in one assay evaluating 130 clinical isolates was 0 to 1 μM (35%), 1.1 to 2 μM (20%), 2.1 to 3 μM (27%), 3.1 to 4 μM (13%), 4.1 to 5 μM (5%), less than 5 μM (less than 1%).
 Ganciclovir inhibits mammalian cell proliferation (CC50) in cell culture at higher concentrations ranging from 40 to greater than 1,000 μM (10.21 to greater than 250 mcg/mL).
-Bone marrow-derived colony-forming cells are more sensitive [CC50 value = 2.7 to 12 μM (0.69 to 3.06 mcg/mL)].
+Bone marrow-derived colony-forming cells are more sensitive [CC50 value = 2.7 to 12 μM (0.69 mcg/mL to 3.06 mcg/mL)].
 
 Viral Resistance:
 
@@ -160,7 +160,7 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C480F, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
 | pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 

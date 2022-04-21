@@ -39,7 +39,7 @@ Valganciclovir for oral solution is the preferred formulation since it provides 
 ## 2.4 Preparation of Valganciclovir for Oral Solution
 
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
-Prior to dispensing to the patient, valganciclovir for oral solution must be prepared by the pharmacist as follows [see How Supplied/Storage and Handling (16)]
+Prior to dispensing to the patient, valganciclovir for oral solution must be prepared by the pharmacist as follows [see How Supplied/Storage and Handling (16)]:
 
 - Measure 91 mL of purified water in a graduated cylinder.
 - Shake the valganciclovir bottle to loosen the powder.

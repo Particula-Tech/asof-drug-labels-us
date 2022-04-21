@@ -76,6 +76,6 @@ Actavis Pharma, Inc.
 Parsippany, NJ 07054 USA
 
 Rev.
-B 6/2021
+C 3/2022
 
 For more information, call 1-888-838-2872.

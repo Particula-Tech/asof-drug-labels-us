@@ -40,13 +40,13 @@ Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or
 | Organ | VGCV | GCV | VGCV | GCV | VGCV | GCV |
 |  | (N=239) | (N=125) | (N=239) | (N=125) | (N=239) | (N=125) |
 | Liver | 19% | 12% | 14% | 3% | 5% | 8% |
-| (n=177) | (22/118) | (7/59) | (16/118) | (2/59) | (6/118) | (5 / 59) |
+| (n=177) | (22/118) | (7/59) | (16/118) | (2/59) | (6/118) | (5/59) |
 | Kidney | 6% | 23% | 1% | 5% | 5% | 18% |
-| (n=120) | (5/81) | (9/39) | (1/81) | (2/39) | (4/81) | (7 / 39) |
+| (n=120) | (5/81) | (9/39) | (1/81) | (2/39) | (4/81) | (7/39) |
 | Heart | 6% | 10% | 0% | 5% | 6% | 5% |
-| (n=56) | (2/35) | (2/21) | (0/35) | (1/21) | (2/35) | (1 / 21) |
-| Kidney / Pancreas | 0% | 17% | 0% | 17% | 0% | 0% |
-| (n=11) | (0/5) | (1/6) | (0/5) | (1/6) | (0/5) | (0 / 6) |
+| (n=56) | (2/35) | (2/21) | (0/35) | (1/21) | (2/35) | (1/21) |
+| Kidney/Pancreas | 0% | 17% | 0% | 17% | 0% | 0% |
+| (n=11) | (0/5) | (1/6) | (0/5) | (1/6) | (0/5) | (0/6) |
 
 GCV = oral ganciclovir; VGCV = valganciclovir 1Number of patients with CMV disease = Number of patients with tissue-invasive CMV disease or CMV syndrome 2CMV syndrome was defined as evidence of CMV viremia accompanied with fever greater than or equal to 38°C on two or more occasions separated by at least 24 hours within a 7-day period and one or more of the following: malaise, leukopenia, atypical lymphocytosis, thrombocytopenia, and elevation of hepatic transaminases
 

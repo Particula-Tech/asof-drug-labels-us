@@ -44,7 +44,7 @@ In children, valganciclovir for oral solution is used:
 
 It is not known if valganciclovir for oral solution is safe and effective in children for prevention of CMV disease in liver transplant, in kidney transplant in infants less than 4 months of age, in heart transplant in infants less than 1 month of age, in children with AIDS who have CMV retinitis, and in infants with congenital CMV infection.
 
-Do not take valganciclovir for oral solution if you have had a serious allergic reaction to valganciclovir for oral solution, ganciclovir or any of the ingredients of valganciclovir for oral solution.
+Do not take valganciclovir for oral solution if you have had a serious allergic reaction to valganciclovir, ganciclovir or any of the ingredients of valganciclovir for oral solution.
 See the end of this leaflet for a list of the ingredients in valganciclovir for oral solution.
 
 Before you take valganciclovir for oral solution, tell your healthcare provider about all of your medical conditions, including if you:
@@ -125,11 +125,11 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about valganciclovir for oral solution that is written for health professionals.
 
 What are the ingredients in valganciclovir for oral solution?
-Active ingredient: valganciclovir hydrochloride Inactive ingredients for Oral Solution: mannitol, sodium benzoate, sucralose, tartaric acid and tutti-frutti flavoring.
+Active ingredient: valganciclovir hydrochloride Inactive ingredients: mannitol, sodium benzoate, sucralose, tartaric acid and tutti-frutti flavoring.
 
 Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-B 6/2021
+C 3/2022

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Valganciclovir for oral solution contains valganciclovir hydrochloride, USP, a hydrochloride salt of the L-valyl ester of ganciclovir that exists as a mixture of two diastereomers.
+Valganciclovir for oral solution contains valganciclovir hydrochloride USP, a hydrochloride salt of the L-valyl ester of ganciclovir that exists as a mixture of two diastereomers.
 Ganciclovir is a synthetic guanine derivative active against CMV.
 
 Valganciclovir is available as a powder blend for oral solution, which when constituted with water as directed contains 50 mg/mL valganciclovir free base.
@@ -13,6 +13,7 @@ The pKa for valganciclovir hydrochloride, USP is 7.6.
 
 The chemical structure of valganciclovir hydrochloride, USP is:
 
-C14H22N6O5·HCl M.W.390.83
+C14H22N6O5·HCl M.W.
+390.83
 
 All doses in this insert are specified in terms of valganciclovir.

@@ -34,7 +34,7 @@ Increased embryo-fetal mortality was also seen in mice.
 Daily intravenous doses of approximately 1.7 times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
 
 Data from an ex-vivo human placental model showed that ganciclovir crosses the human placenta.
-The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 to 10 mg/mL.
+The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 mg/mL to 10 mg/mL.
 
 ## 8.2 Lactation
 
