@@ -1,10 +1,18 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Solaraze® Gel is applied to lesion areas twice daily.
-It is to be smoothed onto the affected skin gently.
-The amount needed depends upon the size of the lesion site.
-Assure that enough Solaraze® Gel is applied to adequately cover each lesion.
-Normally 0.5 g of gel is used on each 5 cm x 5 cm lesion site.
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings
+
+and Precautions (5)].
+
+Apply Solaraze gently to lesion areas twice daily. to adequately cover each lesion.
+Use 0.5 g of gel (pea size) on each 5
+
+cm x 5 cm lesion site.
 The recommended duration of therapy is from 60 days to 90 days.
-Complete healing of the lesion(s) or optimal therapeutic effect may not be evident for up to 30 days following cessation of therapy.
-Lesions that do not respond to therapy should be carefully re-evaluated and management reconsidered.
+Complete healing of the lesion(s)
+
+or optimal therapeutic effect may not be evident for up to 30 days following cessation of therapy.
+Lesions that do not
+
+respond to therapy should be re-evaluated and management reconsidered.
+Avoid contact of Solaraze with eyes and mucous membranes.

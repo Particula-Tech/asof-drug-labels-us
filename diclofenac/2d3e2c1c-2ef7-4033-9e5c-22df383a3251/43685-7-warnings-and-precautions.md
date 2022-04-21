@@ -1,43 +1,26 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Fetal Toxicity
+## 5.1 Anaphylactic Reactions
 
-Premature Closure of Fetal Ductus Arteriosus:
+Diclofenac has been associated with anaphylactic reactions in patients with and without known hypersensitivity to diclofenac and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.2)].
 
-Avoid use of NSAIDs, including Solaraze® Gel, in pregnant women at about 30 weeks gestation and later.
-NSAIDs including Solaraze® Gel, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+Seek emergency help if an anaphylactic reaction occurs.
 
-Oligohydramnios/Neonatal Renal Impairment:
+## 5.2 Exacerbation of Asthma Related to Aspirin Sensitivity
 
-Use of NSAIDs, including Solaraze® Gel, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
-Oligohydramnios is often, but not always reversible with treatment discontinuation.
-Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
-In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, Solaraze is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+When Solaraze is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
-If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Solaraze® Gel use to the lowest effective dose and shortest duration possible.
-Consider ultrasound monitoring of amniotic fluid if Solaraze® Gel treatment extends beyond 48 hours.
-Discontinue Solaraze® Gel if oligohydramnios occurs and follow up according to clinical practice [see PRECAUTIONS; Pregnancy].
+## 5.3 Serious Skin Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without prior exposure to diclofenac.
-Diclofenac sodium should be given with caution to patients with the aspirin triad.
-The triad typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
+NSAIDs, including diclofenac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of Solaraze at the first appearance of skin rash or any other sign of hypersensitivity.
+Solaraze is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+Do not apply Solaraze to open skin wounds, infections, or exfoliative dermatitis, as it may affect absorption and tolerability of the drug [see Contraindications (4)].
 
-Serious Skin Reactions, Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
-
-Drug Rash with Eosinophiliaand Systemic Symptoms (DRESS)
-
-Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported in patients taking NSAIDs such as Solaraze® Gel.
-Some of these events have been fatal or life-threatening.
-DRESS typically although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
-Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
-Sometimes symptoms of DRESS may resemble an acute viral infection.
-Eosinophilia is often present.
-Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
-If such signs or symptoms are present, discontinue Solaraze® Gel and evaluate the patient immediately.
-
-Cardiovascular Thrombotic Events
+## 5.4 Cardiovascular Thrombotic Events
 
 Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
@@ -55,19 +38,75 @@ The concurrent use of aspirin and an NSAID, such as diclofenac, increases the ri
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Two controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG.
 
 Post-MI Patients
 
 Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
-In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+In this same cohort, the incidence of death in the first-year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
-Avoid the use of Solaraze® Gel in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
-If Solaraze® Gel is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+Avoid the use of Solaraze in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If Solaraze is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
-Heart Failure and Edema
+## 5.5 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+NSAIDs, including diclofenac, cause serious GI adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
+
+Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year.
+However, even short-term NSAID therapy is not without risk.
+
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+Strategies to Minimize the GI Risks in NSAID-Treated Patients:
+
+• Use the lowest effective dosage for the shortest possible duration.
+
+• Avoid administration of more than one NSAID at a time.
+
+• Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+For
+
+such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+
+• Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+
+• If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue Solaraze until a serious GI adverse event is ruled out.
+
+• In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+
+## 5.6 Hepatotoxicity
+
+In clinical trials with Solaraze, 2-3% of subjects had elevations of liver function tests (LFTs) [see Clinical Trials Experience (6.1)].
+To minimize the potential risk for an adverse liver-related event in patients treated with Solaraze, use the lowest effective dose for the shortest duration possible.
+Exercise caution when prescribing Solaraze with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, anti-epileptics).
+
+Physicians should measure transaminases at baseline and periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
+The optimum times for making the first and subsequent transaminase measurements are not known.
+Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+However, severe hepatic reactions can occur at any time during treatment with diclofenac.
+
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), Solaraze should be discontinued immediately.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue Solaraze immediately, and perform a clinical evaluation of the patient.
+
+## 5.7 Hypertension
+
+NSAIDs, including Solaraze, can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE)inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
+
+## 5.8 Heart Failure and Edema
 
 The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
@@ -75,154 +114,96 @@ In a Danish National Registry study of patients with heart failure, NSAID use in
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
 Use of diclofenac may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)].
 
-Avoid the use of Solaraze® Gel in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
-If Solaraze® Gel is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+Avoid the use of Solaraze in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If Solaraze is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-# PRECAUTIONS
+## 5.9 Renal Toxicity and Hyperkalemia
 
-## General
+Renal Toxicity
 
-Solaraze® (diclofenac sodium) Gel should be used with caution in patients with active gastrointestinal ulceration or bleeding and severe renal or hepatic impairments.
-Solaraze® should not be applied to open skin wounds, infections, or exfoliative dermatitis.
-It should not be allowed to come in contact with the eyes.
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 
-The safety of the concomitant use of sunscreens, cosmetics or other topical medications and Solaraze® is unknown.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
-## Information for Patients Fetal Toxicity If treatment with Solaraze® Gel is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours. Inform pregnant women to avoid use of Solaraze® Geland other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus. [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy].
+No information is available from controlled clinical trials regarding the use of Solaraze in patients with advanced renal disease.
+The renal effects of Solaraze may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
 
-In clinical studies, localized dermal side effects such as contact dermatitis, exfoliation, dry skin and rash were found in patients treated with Solaraze® at a higher incidence than in those with placebo.
+Correct volume status in dehydrated or hypovolemic patients prior to initiating Solaraze.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of Solaraze [see Drug Interactions (7)].
+Avoid the use of Solaraze in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If Solaraze is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
-Patients should understand the importance of monitoring and follow-up evaluation, the signs and symptoms of dermal adverse reactions, and the possibility of irritant or allergic contact dermatitis.
-If severe dermal reactions occur, treatment with Solaraze® may be interrupted until the condition subsides.
-Exposure to sunlight and the use of sunlamps should be avoided.
+Hyperkalemia
 
-Safety and efficacy of the use of Solaraze® together with other dermal products, including cosmetics, sunscreens, and other topical medications on the area being treated, have not been studied.
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
-Serious Skin Reactions, including DRESS
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Advise patients to stop taking Solaraze® Gel immediately if they develop any type of rash or fever and to
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Solaraze.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue Solaraze and evaluate the patient immediately.
 
-contact their healthcare provider as soon as possible [see WARNINGS, Serious Skin Reactions].
-
-Cardiovascular Thrombotic Events
-
-Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately.
-
-Heart Failure and Edema
-
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur.
-
-## Drug Interactions
-
-Specific interaction studies between Solaraze® Gel and other topical or oral agents were not performed.
-
-## Oral Nonsteroidal Anti-Inflammatory Drugs
-
-Although low, there is systemic exposure to diclofenac following labeled use of Solaraze® Gel.
-Therefore, concomitant administration of Solaraze® Gel with oral NSAIDS or aspirin may result in increased NSAID adverse effects.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-There did not appear to be any increase in drug-related neoplasms following daily topical applications of diclofenac sodium gel for 2 years at concentrations up to 0.035% diclofenac sodium and 2.5% hyaluronate sodium in albino mice.
-(Note: Solaraze® contains 3% diclofenac sodium.)
-
-When administered orally for 2 years, diclofenac showed no evidence of carcinogenic potential in rats given diclofenac sodium at up to 2 mg/kg/day (3 times the estimated systemic human exposure*), or in mice given diclofenac sodium at up to 0.3 mg/kg/day in males and 1 mg/kg/day in females (25% and 83%, respectively, of the estimated systemic human exposure).
-
-A photococarcinogenicity study with up to 0.035% diclofenac in the Solaraze® vehicle gel was conducted in hairless mice at topical doses up to 2.8 mg/ kg/day.
-Median tumor onset was earlier in the 0.035% group (Solaraze® contains 3% diclofenac sodium).
-
-Diclofenac was not genotoxic in in vitro point mutation assays in mammalian mouse lymphoma cells and Ames microbial test systems, or when tested in mammalian in vivo assays including dominant lethal and male germinal epithelial chromosomal studies in mice, and nucleus anomaly and chromosomal aberration studies in Chinese hamsters.
-It was also negative in the transformation assay utilizing BALB/3T3 mouse embryo cells.
-
-Fertility studies have not been conducted with Solaraze® Gel.
-Diclofenac sodium showed no evidence of impairment of fertility after oral treatment with 4 mg/kg/day (7 times the estimated systemic human exposure) in male or female rats.
-
-* Based on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium).
-
-## Pregnancy:
-
-Risk Summary
-
-Use of NSAIDs, including Solaraze® Gel, can cause fetal renal dysfunction leading to oligohydramniosand, in some cases, neonatal renal impairment from 20 weeks of gestation, and premature closure of the fetal ductus arteriosus from 30 weeks of gestation.
-Because of these risks, limit dose and duration of Solaraze® Gel use between about 20 and 30 weeks of gestation, and avoid Solaraze® Gel use at about 30 weeks of gestation and later in pregnancy (see WARNINGS; Fetal Toxicity).
-
-Oligohydramnios/Neonatal Renal Impairment
-
-Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+## 5.11 Fetal Toxicity
 
 Premature Closure of Fetal Ductus Arteriosus
 
-Use of NSAIDs, including Solaraze® Gel, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-
-Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
-
-In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses at least 15 times, the maximum recommended human dose (MRHD) of Solaraze® Gel (See Animal Data).
-
-Based on published animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization, and administration of prostaglandin synthesis inhibitors such as diclofenac sodium, resulted in increased pre- and post-implantation loss.
-Prostaglandins also have been shown to have an important role in fetal kidney development.
-In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
-
-The safety of Solaraze® (diclofenac sodium) Gel has not been established during pregnancy.
-
-Clinical Considerations
-
-Fetal/Neonatal Adverse Reactions
-
-Premature Closure of Fetal Ductus Arteriosus:
-
-Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Solaraze® Gel, can cause premature closure of the fetal ductus arteriosus (see WARNINGS;Fetal Toxicity).
+Avoid use of NSAIDs, including Solaraze, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including Solaraze, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
 Oligohydramnios/Neonatal Renal Impairment
 
-If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
-If Solaraze® Gel treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
-If oligohydramnios occurs, discontinue Solaraze® Gel and follow up according to clinical practice (see WARNINGS; Fetal Toxicity).
+Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after
 
-Data
+NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some
 
-Human Data
+postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
 
-Premature Closure of Fetal Ductus Arteriosus:
+If, after careful consideration of alternative treatment options for actinic keratoses, NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Solaraze use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if diclofenac treatment extends beyond 48 hours.
+Discontinue Solaraze if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
-Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+## 5.12 Hematologic Toxicity
 
-Oligohydramnios/Neonatal Renal Impairment:
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
+If a patient treated with Solaraze has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
-These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
-In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
-There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
-Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+NSAIDs, including Solaraze, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
-These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
-Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
+## 5.13 Masking of Inflammation and Fever
 
-Animal Data
+The pharmacological activity of Solaraze in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-Reproductive studies performed with diclofenac sodium alone at oral doses up to 20 mg/kg/day (15 times the estimated systemic human exposure*) in mice, 10 mg/kg/day (15 times the estimated systemic human exposure) in rats, and 10 mg/kg/day (30 times the estimated systemic human exposure) in rabbits have revealed no evidence of teratogenicity despite the induction of maternal toxicity.
-In rats, maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
-Diclofenac has been shown to cross the placental barrier in mice and rats.
+## 5.14 Laboratory Monitoring
 
-* Based on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium)
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.5, 5.6, 5.9)].
 
-## Labor and Delivery
+## 5.15 Photosensitivity
 
-The effects of diclofenac on labor and delivery in pregnant women are unknown.
-Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), use of diclofenac during late pregnancy should be avoided and, as with other nonsteroidal anti-inflammatory drugs, it is possible that diclofenac may inhibit uterine contractions and delay parturition.
+Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using Solaraze.
+If patients need to be outdoors while using Solaraze, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
+Advise patients to discontinue treatment with Solaraze at the first evidence of sunburn.
 
-## Nursing Mothers
+## 5.16 Exposure to Eyes and Mucosal Membranes
 
-Because of the potential for serious adverse reactions in nursing infants from diclofenac sodium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Avoid contact of Solaraze with eyes and mucosa.
+Advise patients that if contact in the eye, or mucosal membranes occurs, immediately wash out the eye or mucosal membranes with water or saline and consult a physician if irritation persists for more than an hour.
 
-## Pediatric Use
+## 5.17 Oral Nonsteroidal Anti-inflammatory Drugs
 
-Actinic keratoses is not a condition seen within the pediatric population.
-Solaraze® should not be used by children.
-
-## Geriatric Use
-
-Of the 211 subjects treated with Solaraze® in controlled clinical studies, 143 subjects were 65 and over.
-Of those 143 subjects, 55 subjects were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Concomitant use of oral and topical NSAIDs may result in a higher rate of hemorrhage, more frequent abnormal creatinine, urea and hemoglobin.
+Do not use Solaraze in combination with an oral NSAID unless the benefit outweighsthe risk and periodic laboratory evaluations are conducted.

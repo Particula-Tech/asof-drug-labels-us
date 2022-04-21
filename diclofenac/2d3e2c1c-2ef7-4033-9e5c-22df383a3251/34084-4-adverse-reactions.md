@@ -1,24 +1,42 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Of the 423 patients evaluable for safety in adequate and well-controlled trials, 211 were treated with Solaraze® drug product and 212 were treated with a vehicle gel.
-Eighty-seven percent (87%) of the Solaraze®-treated patients (183 patients) and 84% of the vehicle-treated patients (178 patients) experienced one or more adverse events (AEs) during the studies.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- •Anaphylactic Reactions [see Warnings and Precautions (5.1)]
+- •Exacerbation of Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.2)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.3)]
+- •Cardiovascular Thrombotic Events [see Warnings and Precautions (5.4)]
+- •GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.5)]
+- •Hepatotoxicity [see Warnings and Precautions (5.6)]
+- •Hypertension [see Warnings and Precautions (5.7)]
+- •Heart Failure and Edema [see Warnings and Precautions (5.8)]
+- •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.9)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.12)]
+- •Photosensitivity [see Warnings and Precautions (5.15)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Of the 423 subjects evaluable for safety in adequate and well-controlled trials, 211 were treated with Solaraze drug product and 212 were treated with a vehicle gel.
+Eighty-seven percent (87%) of the Solaraze-treated subjects (183subjects) and 84% of the vehicle-treated subjects (178 subjects) experienced one or more adverse events (AEs) during the trials.
 The majority of these reactions were mild to moderate in severity and resolved upon discontinuation of therapy.
 
-Of the 211 patients treated with Solaraze®, 172 (82%) experienced AEs involving skin and the application site compared to 160 (75%) vehicle-treated patients.
-Application site reactions (ASRs) were the most frequent AEs in both Solaraze®-and vehicle-treated groups.
-Of note, four reactions, contact dermatitis, rash, dry skin and exfoliation (scaling) were significantly more prevalent in the Solaraze® group than in the vehicle-treated patients.
+Of the 211 subjects treated with Solaraze, 172 (82%) experienced AEs involving skin and the application site compared to 160 (75%) vehicle-treated subjects.
+Application site reactions (ASRs) were the most frequent AEs in both Solaraze-and vehicle-treated groups.
+Of note, four reactions, contact dermatitis, rash, dry skin and exfoliation (scaling) were significantly more prevalent in the Solaraze group than in the vehicle-treated subjects.
 
-Eighteen percent of Solaraze®-treated patients and 4% of vehicle-treated patients discontinued from the clinical trials due to adverse events (whether considered related to treatment or not).
+Eighteen percent of Solaraze-treated subjects and 4% of vehicle-treated subjects discontinued from the clinical trials due to adverse events (whether considered related to treatment or not).
 These discontinuations were mainly due to skin irritation or related cutaneous adverse reactions.
 
-Table 1 below presents the AEs reported at an incidence of >1% for patients treated with either Solaraze® Gel or vehicle (60- and 90-day treatment groups) during the phase 3 studies.
+Table 1 below presents the AEs reported at an incidence of >1% for subjects treated with either Solaraze or vehicle (60- and 90-day treatment groups) during the phase 3 trials.
 
 Table 1.
-Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 Clinical Trials Incidences for 60-Day and 90-Day Treatments
+Adverse Events Reported (>1% in Any Treatment Group) During Solaraze Phase 3 Clinical Trials Incidences for 60-Day and 90-Day Treatments
 
 |  | 60-day Treatment |  | 90-day Treatment |  |
 | --- | --- | --- | --- | --- |
-|  | Solaraze® (%) | Gel Vehicle (%) | Solaraze® (%) | Gel Vehicle (%) |
+|  | Solaraze (%) | Gel Vehicle (%) | Solaraze (%) | Gel Vehicle (%) |
 |  | N=48 | N=49 | N=114 | N=114 |
 | BODY AS A WHOLE | 21 | 20 | 20 | 18 |
 | Abdominal Pain | 2 | 0 | 1 | 0 |
@@ -74,7 +92,7 @@ Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 C
 | Edema | 4 | 0 | 3 | 0 |
 | Exfoliation | 6 | 4 | 24 | 13 |
 | Hyperesthesia | 0 | 0 | 3 | 1 |
-| Pain 15 | 22 | 26 | 30 |  |
+| Pain | 15 | 22 | 26 | 30 |
 | Paresthesia | 8 | 4 | 20 | 20 |
 | Photosensitivity Reaction | 0 | 2 | 3 | 0 |
 | Pruritus | 31 | 59 | 52 | 45 |
@@ -98,9 +116,9 @@ Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 C
 | OTHER | 0 | 0 | 0 | 3 |
 | Procedure | 0 | 0 | 0 | 3 |
 
-Skin and Appendages Adverse Events Reported for Solaraze® at Less Than 1% Incidence in the Phase 3 Studies: skin hypertrophy, paresthesia, seborrhea, urticaria, application site reactions (skin carcinoma, hypertonia, skin hypertrophy lacrimation disorder, maculopapular rash, purpuric rash, vasodilation).
+Skin and Appendages Adverse Events Reported for Solaraze at Less Than 1% Incidence in the Phase 3 Studies: skin hypertrophy, paresthesia, seborrhea, urticaria, application site reactions (skin carcinoma, hypertonia, skin hypertrophy lacrimation disorder, maculopapular rash, purpuric rash, vasodilation).
 
-Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze® Gel): *Incidence Greater than 1% marked with asterisk.
+Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze): *Incidence Greater than 1% marked with asterisk.
 
 Body as a Whole: abdominal pain or cramps*, headache*, fluid retention*, abdominal distention*, malaise, swelling of lips and tongue, photosensitivity, anaphylaxis, anaphylactoid reactions, chest pain.
 

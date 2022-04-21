@@ -1,9 +1,14 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Due to the low systemic absorption of topically-applied Solaraze® Gel, overdosage is unlikely.
-There have been no reports of ingestion of Solaraze®.
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding, hypertension, acute renal failure, respiratory depression, and coma have been reported.
+[see Warnings and Precautions (5.4, 5.5, 5.7,5.9)].
+
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
+There are no specific antidotes.
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+
 In the event of oral ingestion, resulting in significant systemic side effects, it is recommended that the stomach be emptied by vomiting or lavage.
-Forced diuresis may theoretically be beneficial because the drug is excreted in the urine.
-The effect of dialysis or hemoperfusion in the elimination of diclofenac (99% protein-bound) remains unproven.
 In addition to supportive measures, the use of oral activated charcoal may help to reduce the absorption of diclofenac.
-Supportive and symptomatic treatment should be given for complications such as renal failure, convulsions, gastrointestinal irritation and respiratory depression.
+
+For additional information about overdosage treatment, call a poison control center (1-800-222-1222).
