@@ -44,7 +44,7 @@ Specific Populations
 
 Geriatric
 
-The renal clearance of vigabatrin in healthy elderly patients (greater than or equal to 65 years of age) was 36% less than those in healthy younger patients.
+The renal clearance of vigabatrin in healthy elderly patients (≥65 years of age) was 36% less than those in healthy younger patients.
 This finding is confirmed by an analysis of data from a controlled clinical trial [see Use in Specific Populations (8.5)].
 
 Pediatric
@@ -64,11 +64,11 @@ Inter-subject variability in renal clearance was 20% in Caucasians and was 30% i
 
 Renal Impairment
 
-Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from greater than 50 to 80 mL/min) in comparison to normal subjects.
+Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50 to 80 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from greater than 30 to 50 mL/min) in comparison to normal subjects.
+Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30 to 50 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from greater than 10 to 30 mL/min) in comparison to normal subjects.
+Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10 to 30 mL/min) in comparison to normal subjects.
 
 Adult Patients with Renal Impairment
 

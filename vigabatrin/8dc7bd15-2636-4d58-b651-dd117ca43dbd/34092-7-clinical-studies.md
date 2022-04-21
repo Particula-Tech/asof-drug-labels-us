@@ -39,7 +39,7 @@ A positive value on the Y-axis indicates an improvement from baseline (i.e., a d
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in complex partial seizure frequency was consistently higher for the vigabatrin 3 and 6 g/day groups compared to the placebo group.
 For example, 51% of patients randomized to vigabatrin 3 g/day and 53% of patients randomized to vigabatrin 6 g/day experienced a 50% or greater reduction in seizure frequency, compared to 9% of patients randomized to placebo.
-Patients with an increase in seizure frequency greater than 100% are represented on the Y-axis as equal to or greater than -100%.
+Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
 Study 2
 
@@ -63,7 +63,7 @@ A positive value on the Y-axis indicates an improvement from baseline (i.e., a d
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the vigabatrin 3 g/day group compared to the placebo group.
 For example, 39% of patients randomized to vigabatrin (3 g/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
-Patients with an increase in seizure frequency greater than 100% are represented on the Y-axis as equal to or greater than -100%.
+Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.

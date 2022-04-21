@@ -12,6 +12,6 @@ Tablets are supplied in bottles of 100 (NDC 0591-3851-01).
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
 
-Dispense in a tight, light-resistant container that is defined in the USP.
+Dispense in a tight, light-resistant container with a child-resistant closure.
 
 Keep this and all drugs out of the reach of children.

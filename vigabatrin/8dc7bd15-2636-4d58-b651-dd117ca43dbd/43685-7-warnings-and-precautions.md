@@ -180,10 +180,10 @@ There is insufficient evidence to determine if development of these signs and sy
 
 Vigabatrin causes weight gain in adult and pediatric patients.
 
-Data pooled from randomized controlled trials in adults found that 17% (77/443) of vigabatrin patients versus 8% (22/275) of placebo patients gained greater than or equal to 7% of baseline body weight.
+Data pooled from randomized controlled trials in adults found that 17% (77/443) of vigabatrin patients versus 8% (22/275) of placebo patients gained ≥7% of baseline body weight.
 In these same trials, the mean weight change among vigabatrin patients was 3.5 kg compared to 1.6 kg for placebo patients.
 
-Data pooled from randomized controlled trials in pediatric patients with refractory complex partial seizures found that 47% (77/163) of vigabatrin patients versus 19% (19/102) of placebo patients gained greater than or equal to 7% of baseline body weight.
+Data pooled from randomized controlled trials in pediatric patients with refractory complex partial seizures found that 47% (77/163) of vigabatrin patients versus 19% (19/102) of placebo patients gained ≥7% of baseline body weight.
 
 In all epilepsy trials, 0.6% (31/4855) of vigabatrin patients discontinued for weight gain.
 The long term effects of vigabatrin related weight gain are not known.
