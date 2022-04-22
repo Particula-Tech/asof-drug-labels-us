@@ -17,11 +17,11 @@ Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A,
 
 Table 10 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
-The table includes potentially significant interactions but is not all inclusive [see Contraindications (4) and Clinical Pharmacology (12.3)].
+The table includes examples of potentially significant interactions but is not all inclusive [see Contraindications (4) and Clinical Pharmacology (12.3)], and therefore the label of each drug that is co-administered with PREZISTA/ritonavir should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
 
-Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see Contraindications (4) for a complete list of contraindicated drugs) [see Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 15 and 16]
+Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see Contraindications (4) for a list of examples of contraindicated drugs) [see Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 15 and 16]
 
-| Concomitant Drug Class Drug Name | Effect on Concentration of Darunavir Or Concomitant Drug | Clinical Comment |
+| Concomitant Drug Class Drug Name Examples | Effect on Concentration of Darunavir Or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
 | HIV-1-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
 | didanosine | ↔ darunavir ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZISTA/ritonavir (which are administered with food). |
@@ -79,8 +79,6 @@ Table 10: Established and Other Potentially Significant Drug Interactions: Alter
 | bosentan | ↑ bosentan | Co-administration of bosentan in patients on PREZISTA/ritonavir: In patients who have been receiving PREZISTA/ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Co-administration of PREZISTA/ritonavir in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of PREZISTA/ritonavir. After at least 10 days following the initiation of PREZISTA/ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. |
 | Ergot derivatives: |  |  |
 | e.g. dihydroergotamine, ergotamine, methylergonovine | ↑ ergot derivatives | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
-| GI motility agent: |  |  |
-| cisapride | ↑ cisapride | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Hepatitis C virus (HCV): |  |  |
 | Direct-Acting Antivirals: elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
 | glecaprevir/pibrentasvir | ↑ glecaprevir ↑ pibrentasvir | Co-administration of PREZISTA/ritonavir with glecaprevir/pibrentasvir is not recommended. |

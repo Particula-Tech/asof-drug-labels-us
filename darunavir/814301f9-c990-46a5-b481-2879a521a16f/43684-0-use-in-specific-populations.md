@@ -9,9 +9,8 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available limited data from the APR show no difference in rate of overall birth defects for darunavir (2.7%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
-The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
-The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks gestation.
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
+Available limited data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15-20%.
@@ -49,9 +48,7 @@ There were no new clinically relevant safety findings compared with the known sa
 Among the 31 infants with HIV test results available data, born to the 31 HIV-infected pregnant women who completed trial through delivery or postpartum period, all 31 infants had test results that were negative for HIV-1 at the time of delivery and/or through 16 weeks postpartum.
 All 31 infants received antiretroviral prophylactic treatment containing zidovudine.
 
-Based on prospective reports to the APR of 615 live births following exposure to darunavir-containing regimens during pregnancy (including 385 exposed in the first trimester and 230 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
-
-The prevalence of birth defects in live births was 2.6% (95% CI: 1.2% to 4.7%) with first trimester exposure to darunavir containing regimens and 1.7% (95% CI: 0.5% to 4.4%) with second/third trimester exposure to darunavir containing regimens.
+Based on prospective reports to the APR of over 980 exposures to darunavir-containing regimens during pregnancy resulting in live births (including over 660 exposed in the first trimester and over 320 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.6.% (95% CI: 2.3% to 5.3.%) with first trimester exposure to darunavir-containing regimens and 2.5% (95% CI: 1.1% to 4.8%) with second/third trimester exposure to darunavir-containing regimens.
 
 Animal Data
 
