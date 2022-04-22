@@ -156,8 +156,9 @@ Preparation
 
 Storage
 
-- If the syringe containing DARZALEX FASPRO is not used immediately, store the DARZALEX FASPRO solution for up to 4 hours at ambient temperature and ambient light.
-  Discard after 4 hours, if not used.
+- If the syringe containing DARZALEX FASPRO is not used immediately, store refrigerated at 2°C to 8°C (36°F to 46°F) for up to 24 hours and/or at room temperature at 15°C to 25°C (59°F to 77°F) for up to 12 hours under ambient light.
+- Discard if storage time exceeds these limits.
+- If stored in the refrigerator, allow the solution to come to room temperature before administration.
 
 Administration
 

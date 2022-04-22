@@ -41,7 +41,7 @@ Table 6: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 | Infections |  |  |
 | Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, tonsillitis, upper respiratory tract infection, and viral pharyngitis. | 39 | 0 |
 | Bronchitis | 16 | 0 |
-| PneumoniaPneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, pneumonia, and pneumonia bacterial. | 15 | 7Only grade 3 adverse reactions occurred. |
+| PneumoniaPneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, pneumonia, and pneumonia bacterial. | 15 | 7Only Grade 3 adverse reactions occurred. |
 | Gastrointestinal disorders |  |  |
 | Constipation | 37 | 0 |
 | Nausea | 36 | 0 |
@@ -122,7 +122,7 @@ Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO with Lenalidomide and Dexamethasone (N=65) |  |
 | General disorders and administration site conditions |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 52 | 5Only grade 3 adverse reactions occurred. |
+| FatigueFatigue includes asthenia, and fatigue. | 52 | 5Only Grade 3 adverse reactions occurred. |
 | Pyrexia | 23 | 2 |
 | Edema peripheral | 18 | 3 |
 | Gastrointestinal disorders |  |  |
@@ -196,7 +196,7 @@ Table 10: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO-Pd (N=149) |  | Pd (N=150) |  |
 | General disorders and administration site conditions |  |  |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 46 | 13 | 39 | 5Only grade 3 adverse reactions occurred. |
+| FatigueFatigue includes asthenia, and fatigue. | 46 | 13 | 39 | 5Only Grade 3 adverse reactions occurred. |
 | Pyrexia | 19 | 0 | 14 | 0 |
 | Edema peripheralEdema peripheral includes edema, edema peripheral and peripheral swelling. | 15 | 0 | 9 | 0 |
 | Infections |  |  |  |  |
@@ -248,7 +248,7 @@ Permanent discontinuation of DARZALEX FASPRO due to an adverse reaction occurred
 
 Dosage interruptions due to an adverse reaction occurred in 46% of patients who received DARZALEX FASPRO.
 
-The most common adverse reactions (≥20%) were upper respiratory tract infection, fatigue, insomnia, hypertension, diarrhea, cough, dyspnea, headache, pyrexia, nausea and edema peripheral.
+The most common adverse reactions (≥20%) were upper respiratory tract infection, fatigue, insomnia, hypertension, diarrhea, cough, dyspnea, headache, pyrexia, nausea, and edema peripheral.
 
 Table 12 summarizes the adverse reactions in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES.
 
@@ -335,7 +335,7 @@ Table 14: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO (N=260) |  | Intravenous Daratumumab (N=258) |  |
 | Infections |  |  |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes acute sinusitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, rhinovirus infection, sinusitis, and upper respiratory tract infection. | 24 | 1Only grade 3 adverse reactions occurred. | 22 | 1 |
+| Upper respiratory tract infectionUpper respiratory tract infection includes acute sinusitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, rhinovirus infection, sinusitis, and upper respiratory tract infection. | 24 | 1Only Grade 3 adverse reactions occurred. | 22 | 1 |
 | PneumoniaPneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, and pneumonia. | 8 | 5 | 10 | 6Grade 5 adverse reactions occurred. |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 15 | 1 | 11 | 0.4 |
@@ -407,7 +407,7 @@ Table 16: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Receive
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO-VCd (N=193) |  | VCd (N=188) |  |
 | Infections |  |  |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, rhinovirus infection, sinusitis, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, and viral upper respiratory tract infection. | 40 | 1Only grade 3 adverse reactions occurred. | 21 | 1 |
+| Upper respiratory tract infectionUpper respiratory tract infection includes laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, rhinovirus infection, sinusitis, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, and viral upper respiratory tract infection. | 40 | 1Only Grade 3 adverse reactions occurred. | 21 | 1 |
 | PneumoniaPneumonia includes lower respiratory tract infection, pneumonia, pneumonia aspiration, and pneumonia pneumococcal. | 15 | 10 | 9 | 5 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 36 | 6 | 30 | 4 |
