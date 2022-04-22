@@ -20,7 +20,9 @@ The changes in doses between Phase 2 and 3 resulted from optimization of the man
 
 Figure 1 Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
 
-FAS = full analysis set; a Trials were not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate inhalation powder.
+FAS = full analysis set;
+
+a Trials were not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate inhalation powder.
 
 ## 14.2 Trials in the Maintenance Treatment of Asthma
 
@@ -43,7 +45,7 @@ Baseline FEV1 measurements were similar across treatments: fluticasone propionat
 
 The primary endpoints for this trial were the change from baseline in trough FEV1 at week 12 for all patients and standardized baseline-adjusted FEV1 AUEC0-12h at week 12 analyzed for a subset of 312 patients who performed postdose serial spirometry.
 
-Patients receiving fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg had significantly greater improvements in trough FEV1 compared with the placebo group
+Patients receiving fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg had significantly greater improvements in trough FEV1 compared with the placebo group:
 
 - Fluticasone propionate MDPI 55 mcg: LS mean change of 0.172 L at 12 weeks
 - Fluticasone propionate MDPI 113 mcg: LS mean change of 0.204 L at 12 weeks
@@ -99,7 +101,7 @@ Estimated mean differences between:
 
 In addition, the mean FEV1 results at each visit are displayed in Figure 4.
 
-Figure 4: Mean (Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
+Figure 4: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 

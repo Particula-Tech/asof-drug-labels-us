@@ -4,7 +4,9 @@ ARMONAIR® DIGIHALERTM (ar´ moe nayr di´ji haye´´ ler) (fluticasone propiona
 
 ARMONAIR DIGIHALER (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 113 mcg
 
-ARMONAIR DIGIHALER (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 232 mcg for oral inhalation use
+ARMONAIR DIGIHALER (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 232 mcg
+
+for oral inhalation use
 
 Your ARMONAIR DIGIHALER Inhaler
 
