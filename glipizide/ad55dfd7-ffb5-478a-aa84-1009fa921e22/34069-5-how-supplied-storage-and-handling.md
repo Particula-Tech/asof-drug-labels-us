@@ -12,9 +12,9 @@ Dispense in a tight container as defined in the USP.
 
 Keep this and all medication out of the reach of children.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-A 3/2021
+B 3/2021

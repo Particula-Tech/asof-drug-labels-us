@@ -1,11 +1,7 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0591-0460-01 GlipiZIDE Tablets, USP 5 mg 100 Tablets Rx Only
-
-Actavis
+NDC 0591-0460-01 GlipiZIDE Tablets, USP 5 mg Rx only 100 Tablets
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0591-0461-01 GlipiZIDE Tablets, USP 10 mg 100 Tablets Rx Only
-
-Actavis
+NDC 0591-0461-01 GlipiZIDE Tablets, USP 10 mg Rx only 100 Tablets
