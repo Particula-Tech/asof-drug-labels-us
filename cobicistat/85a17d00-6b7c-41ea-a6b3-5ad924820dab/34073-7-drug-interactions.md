@@ -31,15 +31,15 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 
 ## 7.5 Significant Drug Interactions
 
-Table 4 provides a listing of established or potentially clinically significant drug interactions with SYMTUZA and recommended steps to prevent or manage these interactions.
+Table 4 provides examples of established or potentially clinically significant drug interactions with SYMTUZA and recommended steps to prevent or manage these interactions.
 These recommendations are based on drug interaction trials conducted with the components of SYMTUZA, as individual agents or in combination, or are predicted interactions.
 No drug interaction trials have been performed with SYMTUZA or with all the components administered together.
 Drug interaction trials have been conducted with darunavir co-administered with ritonavir or cobicistat or with emtricitabine and tenofovir prodrugs.
-The table includes potentially significant interactions but is not all inclusive.
+The table includes potentially significant interactions but is not all inclusive, and therefore the label of each drug that is co- administered with SYMTUZA should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co- administration.
 
 Table 4: Significant Drug Interactions
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
+| Concomitant Drug Class: Drug Name Examples | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
 | Alpha 1-adrenoreceptor antagonist: alfuzosin | ↑ alfuzosin | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
 | Antibacterials: clarithromycin, erythromycin, telithromycin | ↑ darunavir ↑ cobicistat ↑ antibacterial | Consider alternative antibiotics with concomitant use of SYMTUZA. |
