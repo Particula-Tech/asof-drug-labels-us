@@ -18,12 +18,12 @@ Co-administration of PREZCOBIX and other drugs that inhibit CYP3A may result in 
 
 Table 1 provides dosing recommendations for expected clinically relevant interactions with PREZCOBIX (this table is not all inclusive).
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of therapeutic effect.
-The table includes potentially significant interactions but is not all inclusive.
-For the list of contraindicated drugs, [see Contraindications (4)].
+The table includes examples of potentially significant interactions but is not all inclusive, and therefore the label of each drug that is co-administered with PREZCOBIX should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
+For the list of examples of contraindicated drugs, [see Contraindications (4)].
 
 Table 1: Established and Other Potentially Significantthis table is not all inclusive Drug Interactions: Alterations in Dose or Regimen May Be Recommended
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir, Cobicistat, or Concomitant Drug | Clinical Comment |
+| Concomitant Drug Class: Drug Name Examples | Effect on Concentration of Darunavir, Cobicistat, or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
 | HIV-1 antiviral agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
 | didanosine | ↔ darunavir ↔ cobicistat ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZCOBIX (administered with food). |

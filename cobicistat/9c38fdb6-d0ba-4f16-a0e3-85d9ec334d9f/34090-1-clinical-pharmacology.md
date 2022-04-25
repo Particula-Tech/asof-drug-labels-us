@@ -168,14 +168,14 @@ Table 4: Pharmacokinetic Results of Total Darunavir after Administration of PREZ
 | AUC24h, ng.h/mL | 47293 ± 19058 | 47991 ± 9879 | 99613 ± 34862 |
 | Cmin, ng/mL | 168 ± 149 | 184 ± 99 | 1538 ± 1344 |
 
-Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat After Administration of PREZCOBIX at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd and 3rd Trimester of Pregnancy Compared to Postpartum
+Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat after Administration of PREZCOBIX at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd and 3rd Trimester of Pregnancy Compared to Postpartum
 
 Legend: 90% CI: 90% confidence interval; GMR: geometric mean ratio (i.e. second or third trimester / postpartum).
 Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8 and 1.25.
 
 Drug Interactions
 
-Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in-vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
+Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
