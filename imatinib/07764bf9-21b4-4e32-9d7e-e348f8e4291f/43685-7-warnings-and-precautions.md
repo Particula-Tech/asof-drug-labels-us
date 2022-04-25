@@ -16,15 +16,15 @@ Effusions (including pleural effusion, pericardial effusion, ascites) or pulmona
 Treatment with imatinib mesylate is associated with anemia, neutropenia, and thrombocytopenia.
 Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
-In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia and anemia.
+In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia, and anemia.
 These generally occur within the first several months of therapy [see Dosage and Administration (2.14)].
 
 ## 5.3 Congestive Heart Failure and Left Ventricular Dysfunction
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking imatinib mesylate tablets.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities including previous medical history of cardiac disease.
-In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate tablets compared to 0.9% of patients taking IFN + Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate tablets compared to 0.9% of patients taking IFN + Ara-C.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patients in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
@@ -49,7 +49,7 @@ In addition, gastric antral vascular ectasia has been reported in postmarketing 
 
 Imatinib mesylate is sometimes associated with GI irritation.
 Imatinib mesylate tablets should be taken with food and a large glass of water to minimize this problem.
-There have been rare reports, including fatalities, of gastrointestinal perforation.
+There have been rare reports, including fatalities, of GI perforation.
 
 ## 5.7 Hypereosinophilic Cardiac Toxicity
 
@@ -72,18 +72,18 @@ In these instances, imatinib mesylate was resumed at a dose lower than that at w
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with imatinib mesylate.
 Monitor TSH levels in such patients.
 
-## 5.10 Embryo-fetal Toxicity
+## 5.10 Embryo-Fetal Toxicity
 
 Imatinib mesylate can cause fetal harm when administered to a pregnant woman.
-Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.
-Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on body surface area.
+Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area (BSA).
+Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on BSA.
 Advise sexually active female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate and for 14 days after stopping imatinib mesylate.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.11 Growth Retardation in Children and Adolescents
 
 Growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate.
-The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
+The long-term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
 Therefore, monitor growth in children under imatinib mesylate treatment [see Adverse Reactions (6.1)].
 
 ## 5.12 Tumor Lysis Syndrome
@@ -102,5 +102,5 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 ml/min/1.73m2 (N=1190) to 75 ml/min/1.73m2 at 12 months (N=1082) and 69 ml/min/1.73m2 at 60 months (N=549).
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 mL/min/1.73m2 (N=1190) to 75 mL/min/1.73m2 at 12 months (N=1082) and 69 mL/min/1.73m2 at 60 months (N=549).
 Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction, such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

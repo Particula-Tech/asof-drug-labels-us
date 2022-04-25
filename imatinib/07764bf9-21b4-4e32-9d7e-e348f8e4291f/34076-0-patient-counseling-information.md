@@ -55,5 +55,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512 PJPI0610B
 
-ISS.
-08/2020
+Revised: 04/2022

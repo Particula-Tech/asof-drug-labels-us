@@ -14,7 +14,7 @@ One of these intermediates was also positive in the mouse lymphoma assay.
 Imatinib was not genotoxic when tested in an in vitro bacterial cell assay (Ames test), an in vitro mammalian cell assay (mouse lymphoma) and an in vivo rat micronucleus assay.
 
 In a study of fertility, male rats were dosed for 70 days prior to mating and female rats were dosed 14 days prior to mating and through to gestational Day 6.
-Testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately three-fourths the maximum clinical dose of 800 mg/day based on body surface area.
+Testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately three-fourths the maximum clinical dose of 800 mg/day based on BSA.
 This was not seen at doses less than or equal to 20 mg/kg (one-fourth the maximum human dose of 800 mg).
 The fertility of male and female rats was not affected.
 
@@ -23,12 +23,10 @@ In the preclinical pre- and postnatal study in rats, fertility in the first gene
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Toxicities from Long-Term Use
-
-It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
+Toxicities from Long-Term Use It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
-Increased BUN and creatinine were observed in several of these animals.
+Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies.
 In a 39 week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
 Lymphopenia was observed in animals (as in humans).
