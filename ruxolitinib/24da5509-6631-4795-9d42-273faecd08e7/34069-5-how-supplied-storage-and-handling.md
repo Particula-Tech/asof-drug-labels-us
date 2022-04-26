@@ -2,9 +2,11 @@
 
 How Supplied
 
-OPZELURA is a white to off-white cream containing 1.5% ruxolitinib and is supplied in 60 g aluminum tubes.
+OPZELURA is a white to off-white cream containing 1.5% ruxolitinib and is supplied in 60 g and 100 g tubes.
 
 60 g tube: NDC 50881-007-05
+
+100 g tube: NDC 50881-007-07
 
 Storage and Handling
 
