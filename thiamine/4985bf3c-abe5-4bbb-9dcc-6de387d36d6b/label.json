@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208703"
+  ],
+  "inn": "thiamine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-273-01",
+    "55150-273-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "thiamine hydrochloride",
+      "name": "Thiamine Hydrochloride"
+    }
+  ],
+  "setid": "4985bf3c-abe5-4bbb-9dcc-6de387d36d6b",
+  "source": "dailymed"
+}
