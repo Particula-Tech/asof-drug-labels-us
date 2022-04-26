@@ -30,7 +30,7 @@ Adults
 The adverse reactions reported below are specific to the clinical trials with TREXIMET 85/500 mg.
 See also the full prescribing information for naproxen and sumatriptan products.
 
-Table 1 lists adverse reactions that occurred in 2 placebo-controlled clinical trials (Study 1 and 2) in adult patients who received 1 dose of study drug.
+Table 1 lists adverse reactions that occurred in 2 placebo controlled clinical trials (Study 1 and 2) in adult patients who received 1 dose of study drug.
 Only adverse reactions that occurred at a frequency of 2% or more in any group treated with TREXIMET 85/500 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1.
@@ -55,7 +55,7 @@ There were insufficient data to assess the impact of race on the incidence of ad
 
 Pediatric Patients 12 to 17 Years of Age
 
-In a placebo-controlled clinical trial that evaluated pediatric patients 12 to 17 years of age who received 1 dose of TREXIMET 10/60 mg, 30/180 mg, or 85/500 mg, adverse reactions occurred in 13% of patients who received 10/60 mg, 9% of patients who received 30/180 mg, 13% who received 85/500 mg, and 8% who received placebo.
+In a placebo controlled clinical trial that evaluated pediatric patients 12 to 17 years of age who received 1 dose of TREXIMET 10/60 mg, 30/180 mg, or 85/500 mg, adverse reactions occurred in 13% of patients who received 10/60 mg, 9% of patients who received 30/180 mg, 13% who received 85/500 mg, and 8% who received placebo.
 No patients who received TREXIMET experienced adverse reactions leading to withdrawal from the trial.
 The incidence of adverse reactions in pediatric patients 12 to 17 years of age was comparable across all 3 doses compared with placebo.
 Table 2 lists adverse reactions that occurred in a placebo-controlled trial in pediatric patients 12 to 17 years of age at a frequency of 2% or more with TREXIMET and were more frequent than the placebo group.

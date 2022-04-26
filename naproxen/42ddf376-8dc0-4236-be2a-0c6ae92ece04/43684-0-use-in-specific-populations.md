@@ -107,7 +107,7 @@ The highest no-effect dose was 50 mg/kg/day, or approximately 3 times the MRHD o
 In offspring of pregnant rats treated orally with sumatriptan during organogenesis, there was a decrease in pup survival.
 The highest no-effect dose for this effect was 60 mg/kg/day, or approximately 3 times the MRHD on a mg/m2 basis.
 Oral treatment of pregnant rats with sumatriptan during the latter part of gestation and throughout lactation resulted in a decrease in pup survival.
-The highest no-effect dose for this finding was 100 mg/kg/day, or approximately 6 times the MRHD on a mg/m2 basis.
+The highest no-effect dose for this finding was 100 mg/ kg/day, or approximately 6 times the MRHD on a mg/m2 basis.
 
 In reproduction studies of naproxen in rats (20 mg/kg/day), rabbits (20 mg/kg/day, and mice (170 mg/kg/day, no evidence of impaired fertility or harm to the fetus was observed.
 The doses tested in rats, rabbits, and mice were less (≤0.8 times) the MRHD, based on body surface area (mg/m2) comparisons.
@@ -152,7 +152,7 @@ The safety and efficacy of TREXIMET for the acute treatment of migraine in pedia
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-TREXIMET is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly [see Warnings and Precautions (5.1, 5.2, 5.3, 5.8,5.12) and Clinical Pharmacology (12.3)].
+TREXIMET is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly [see Warnings and Precautions (5.1, 5.2, 5.3, 5.8, 5.12) and Clinical Pharmacology (12.3)].
 
 A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving TREXIMET [see Warnings and Precautions (5.1)].
 

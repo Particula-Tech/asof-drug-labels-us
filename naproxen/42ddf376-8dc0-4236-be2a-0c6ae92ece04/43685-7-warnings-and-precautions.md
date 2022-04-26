@@ -4,7 +4,7 @@
 
 The use of TREXIMET is contraindicated in patients with ischemic or vasospastic coronary artery disease (CAD) and in the setting of coronary artery bypass graft (CABG) surgery due to increased risk of serious cardiovascular events with sumatriptan and NSAIDS [see Contraindications (4)].
 
-Cardiovascular Events with Sumatriptan
+Cardiovascular Events With Sumatriptan
 
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan.
 Some of these reactions occurred in patients without known CAD.
@@ -96,7 +96,7 @@ TREXIMET is contraindicated in patients with a history of stroke or TIA [see Con
 
 ## 5.6 Other Vasospasm Reactions
 
-Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud′s syndrome.
+Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud's syndrome.
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional TREXIMET.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
@@ -186,12 +186,12 @@ In patients with normal renal function, these effects have been attributed to a 
 
 Anaphylactic reactions may occur in patients without known prior exposure to either component of TREXIMET.
 Such reactions can be life-threatening or fatal.
-In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
 TREXIMET should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in patients with asthma who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
 
 TREXIMET is contraindicated in patients with a history of hypersensitivity reaction to sumatriptan, naproxen, or any other component of TREXIMET.
-Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
+Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
 Seek emergency help if an anaphylactic reaction occurs.
 
 ## 5.14 Serious Skin Reactions
