@@ -62,7 +62,7 @@ Published literature show that infliximab is present at low levels in human milk
 Systemic exposure in a breastfed infant is expected to be low because infliximab products are largely degraded in the gastrointestinal tract.
 A U.S. multi-center study of 168 women treated with infliximab for inflammatory bowel disease (breast milk samples obtained, n=29) showed that infants exposed to infliximab through breast milk had no increase in rates of infections and developed normally.
 There are no data on the effects of infliximab products on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for INFLECRA and any potential adverse effects on the breastfed child from INFLECTRA or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for INFLECTRA and any potential adverse effects on the breastfed child from INFLECTRA or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

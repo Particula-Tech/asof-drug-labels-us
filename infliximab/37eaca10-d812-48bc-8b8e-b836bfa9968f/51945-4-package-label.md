@@ -8,7 +8,9 @@ Inflectra® (infliximab-dyyb) For Injection
 
 For Intravenous Infusion Only
 
-Single-use vial – Discard unused portion
+Single-dose vial Discard unused portion
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
@@ -20,7 +22,7 @@ Inflectra® (infliximab-dyyb) For Injection
 
 For Intravenous Infusion Only
 
-Single-use vial – Discard unused portion
+Single-dose vial Discard unused portion
 
 Dispense the enclosed Medication Guide to each patient.
 
