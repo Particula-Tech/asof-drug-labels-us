@@ -70,9 +70,9 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about CUTIVATE® Lotion that is written for health professionals.
 
 What are the ingredients in CUTIVATE® Lotion?
-Active ingredient: fluticasone propionate, USP Inactive ingredients: cetomacrogol 1000, cetostearyl alcohol, citric acid monohydrate, dimethicone 350, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate
+Active ingredient: fluticasone propionate, USP Inactive ingredients:, polyoxyl 20 cetostearyl ether, cetostearyl alcohol, citric acid monohydrate, dimethicone 350, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate
 
 Manufactured by: For more information, go to www.pharmaderm.com or call 1-800-645-9833.
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-46154831C/46155409C Revised: 08/2018 #192
+46154831E/46155409E Revised: 05/2021 #192
