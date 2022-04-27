@@ -1,7 +1,27 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0641-6207-01 Lorazepam Injection, USP CIV 2 mg/mL 1 mL Vial Rx only FOR IM USE REFRIGERATE FOR IV ROUTE, SEE DIRECTIONS.
+NDC 0641-6207-01 Lorazepam Injection, USP CIV 2 mg/mL
 
-NDC 0641-6207-25 Lorazepam Injection, USP CIV 2 mg/mL Rx only 25 x 1 mL Vials FOR IM USE; FOR IV USE DILUTION REQUIRED, SEE ENCLOSED DIRECTIONS
+For IM use
+
+Dilute for IV use
+
+Protect from light
+
+Refrigerate
+
+1 mL Vial Rx only
+
+NDC 0641-6207-25 Rx only Lorazepam Injection, USP CIV 2 mg/mL
+
+For Intramuscular use
+
+For Intravenous use, dilution
+
+required; see insert.
+
+Refrigerate
+
+25 x 1 mL Vials
 
 # SERIALIZATION IMAGE
