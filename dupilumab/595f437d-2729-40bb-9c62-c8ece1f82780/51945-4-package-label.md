@@ -104,8 +104,6 @@ Dosage and Administration: See package insert for dosage information and directi
 
 300 mg/2 mL
 
-Area reserved for security sticker
-
 SANOFI GENZYME
 
 REGENERON
