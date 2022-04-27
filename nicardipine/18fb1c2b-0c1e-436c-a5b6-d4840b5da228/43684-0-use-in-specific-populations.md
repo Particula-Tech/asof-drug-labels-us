@@ -13,7 +13,7 @@ In reproduction studies conducted in rats and rabbits, increased embryolethality
 
 Increased embryolethality was also observed when nicardipine was administered orally to pregnant rabbits at a dose equivalent to a human oral dose of about 48 mg/kg/day (a dose 24 times the maximum recommended human oral dose and one associated with marked maternal body weight gain suppression).
 At a lower oral dose, equivalent to a human dose of about 32 mg/kg/day (16 times the maximum recommended human oral dose), in a different strain of rabbit, there were no adverse effects on the fetus, though there was increased maternal mortality.
-There was no evidence of embyolethality or teratogenicity when pregnant rats were administered nicardipine orally at a dose equivalent to a human oral dose of about 16 mg/kg/day (8 times the MRHD); however, dystocia, reduced birth weight, reduced neonatal survival and reduced neonatal weight gain were reported [see Nonclinical Toxicology (13.3)].
+There was no evidence of embryolethality or teratogenicity when pregnant rats were administered nicardipine orally at a dose equivalent to a human oral dose of about 16 mg/kg/day (8 times the MRHD); however, dystocia, reduced birth weight, reduced neonatal survival and reduced neonatal weight gain were reported [see Nonclinical Toxicology (13.3)].
 
 ## 8.3 Nursing Mothers
 
