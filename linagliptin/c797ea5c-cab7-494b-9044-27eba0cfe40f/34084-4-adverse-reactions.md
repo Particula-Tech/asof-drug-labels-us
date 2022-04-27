@@ -3,11 +3,11 @@
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
 - Pancreatitis [see Warnings and Precautions (5.1)]
-- Heart Failure [see Warnings and Precautions (5.2)]
-- Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.3)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.5)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.6)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.4)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.5)]
+- Heart Failure [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,18 +22,16 @@ TRADJENTA 5 mg once daily was studied as monotherapy in three placebo-controlled
 The use of TRADJENTA in combination with other antihyperglycemic agents was studied in six placebo-controlled trials: two with metformin (12 and 24 weeks' treatment duration); one with a sulfonylurea (18 weeks' treatment duration); one with metformin and sulfonylurea (24 weeks' treatment duration); one with pioglitazone (24 weeks' treatment duration); and one with insulin (primary endpoint at 24 weeks).
 
 In a pooled dataset of 14 placebo-controlled clinical trials, adverse reactions that occurred in ≥2% of patients receiving TRADJENTA (n = 3625) and more commonly than in patients given placebo (n = 2176), are shown in Table 1.
-The overall incidence of adverse events with TRADJENTA were similar to placebo.
 
 Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with TRADJENTA and Greater than Placebo in Placebo-Controlled Clinical Studies of TRADJENTA Monotherapy or Combination Therapy
 
-| TRADJENTA 5 mg n = 3625 | Placebo n = 2176 |  |
+| Adverse Reactions | TRADJENTA 5 mg (%) n = 3625 | Placebo (%) n = 2176 |
 | --- | --- | --- |
-|  | Number (%) of Patients |  |
-| Nasopharyngitis | 254 (7.0) | 132 (6.1) |
-| Diarrhea | 119 (3.3) | 65 (3.0) |
-| Cough | 76 (2.1) | 30 (1.4) |
+| Nasopharyngitis | 7.0 | 6.1 |
+| Diarrhea | 3.3 | 3.0 |
+| Cough | 2.1 | 1.4 |
 
-Rates for other adverse reactions for TRADJENTA 5 mg vs placebo when TRADJENTA was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when TRADJENTA was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when TRADJENTA was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when TRADJENTA was used as add-on to basal insulin therapy.
+Rates for other adverse reactions for TRADJENTA 5 mg vs placebo when TRADJENTA was used in combination with specific antidiabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when TRADJENTA was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when TRADJENTA was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when TRADJENTA was used as add-on to basal insulin therapy.
 Other adverse reactions reported in clinical studies with treatment of TRADJENTA were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
 
 Following 104 weeks' treatment in a controlled study comparing TRADJENTA with glimepiride in which all patients were also receiving metformin, adverse reactions reported in ≥5% of patients treated with TRADJENTA (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were back pain (9.1% vs 8.4%), arthralgia (8.1% vs 6.1%), upper respiratory tract infection (8.0% vs 7.6%), headache (6.4% vs 5.2%), cough (6.1% vs 4.9%), and pain in extremity (5.3% vs 3.9%).
@@ -46,18 +44,18 @@ Hypoglycemia
 Table 2 summarizes the incidence of hypoglycemia in placebo-controlled studies of TRADJENTA.
 The incidence of hypoglycemia increased when TRADJENTA was administered with sulfonylurea or insulin.
 
-Table 2: Incidence (%) of Hypoglycemia in Placebo-Controlled Clinical Studies of TRADJENTA in Patients with Type 2 Diabetes Mellitus
+Table 2 Incidence (%) of Hypoglycemia in Placebo-Controlled Clinical Studies of TRADJENTA in Patients with Type 2 Diabetes Mellitus
 
 | Add-on to Sulfonylurea (18 Weeks) | Placebo (N=84) | TRADJENTA (N=161) |
 | --- | --- | --- |
-| Hypoglycemia with plasma glucose <54 mg/dL | 1.2% | 1.9% |
-| Severe* hypoglycemia (%) | 0% | 0% |
+| Hypoglycemia with plasma glucose <54 mg/dL (%) | 1.2 | 1.9 |
+| Severe* hypoglycemia (%) | 0 | 0 |
 | Add-on to Metformin and Sulfonylurea (24 Weeks) | Placebo (N=263) | TRADJENTA (N=792) |
-| Hypoglycemia with plasma glucose <54 mg/dL | 5.3% | 8.1% |
-| Severe* hypoglycemia (%) | 0.8% | 0.6% |
+| Hypoglycemia with plasma glucose <54 mg/dL (%) | 5.3 | 8.1 |
+| Severe* hypoglycemia (%) | 0.8 | 0.6 |
 | Add-on to Basal Insulin (52 Weeks) | Placebo (N=630) | TRADJENTA (N=631) |
-| Hypoglycemia with plasma glucose <54 mg/dL | 21.6% | 19.8% |
-| Severe* hypoglycemia (%) | 1.1% | 1.7% |
+| Hypoglycemia with plasma glucose <54 mg/dL (%) | 21.6 | 19.8 |
+| Severe* hypoglycemia (%) | 1.1 | 1.7 |
 | *Hypoglycemia requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |
 
 In an active-controlled (glimepiride) cardiovascular safety study with TRADJENTA (CAROLINA) with median time on treatment of 5.9 years, the incidence of severe hypoglycemia was 0.3% in the TRADJENTA group (N=3014) and 2.2% in glimepiride group (N=3000).

@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-TRADJENTA (linagliptin) tablets contain, as the active ingredient, an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
+TRADJENTA tablets for oral use contain linagliptin, an inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 
-Linagliptin is described chemically as 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
+The chemical name of linagliptin is 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
 
-The empirical formula is C25H28N8O2 and the molecular weight is 472.54 g/mol.
+The molecular formula is C25H28N8O2 and the molecular weight is 472.54 g/mol.
 The structural formula is:
 
 Linagliptin is a white to yellowish, not or only slightly hygroscopic solid substance.

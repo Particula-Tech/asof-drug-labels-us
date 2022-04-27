@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Glycemic Control Trials
+Glycemic Control Trials
 
 TRADJENTA has been studied as monotherapy and in combination with metformin, sulfonylurea, pioglitazone, and insulin.
 TRADJENTA has also been studied in patients with type 2 diabetes and severe chronic renal impairment.
@@ -45,7 +45,9 @@ Table 5 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJEN
 | Baseline (mean) | -- | -- | 258 | 244 |
 | Change from baseline (adjusted mean***) | -- | -- | -34 | 25 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -- | -58 (-82, -34) | -- |
-| *Full analysis population using last observation on study **18-week study: Placebo, n=68; TRADJENTA, n=136 24-week study: Placebo, n=147; TRADJENTA, n=306 ***18-week study. HbA1c: ANCOVA model included treatment, reason for metformin intolerance and number of prior oral anti-diabetic medicine(s) (OADs) as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, reason for metformin intolerance and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. 24-week study. HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |  |  |
+| *Full analysis population using last observation on study |  |  |  |  |
+| **18-week study: Placebo, n=68; TRADJENTA, n=136 24-week study: Placebo, n=147; TRADJENTA, n=306 |  |  |  |  |
+| ***18-week study. HbA1c: ANCOVA model included treatment, reason for metformin intolerance and number of prior oral anti-diabetic medicine(s) (OADs) as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, reason for metformin intolerance and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. 24-week study. HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |  |  |
 
 Add-on Combination Therapy with Metformin
 
@@ -79,7 +81,9 @@ Table 6 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | Baseline (mean) | 270 | 274 |
 | Change from baseline (adjusted mean***) | -49 | 18 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
-| *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin, n=485; Placebo + Metformin, n=163 ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
+| *Full analysis population using last observation on study |  |  |
+| **TRADJENTA 5 mg + Metformin, n=485; Placebo + Metformin, n=163 |  |  |
+| ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
 
 Initial Combination Therapy with Metformin
 
@@ -115,7 +119,10 @@ Table 7 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | Baseline (mean) | 203 | 195 | 191 | 199 | 191 | 196 |
 | Change from baseline (adjusted mean****) | 10 | -9 | -16 | -33 | -32 | -49 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
-| *Total daily dose of TRADJENTA is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
+| *Total daily dose of TRADJENTA is equal to 5 mg |  |  |  |  |  |  |
+| **Full analysis population using last observation on study |  |  |  |  |  |  |
+| ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 |  |  |  |  |  |  |
+| ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
 Active-Controlled Study vs Glimepiride in Combination with Metformin
 
@@ -147,7 +154,10 @@ Table 8 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to 
 | Hypoglycemia incidence (%)*** |  |  |  |  |
 | Number of patients | n = 776 | n = 775 | n = 776 | n = 775 |
 | Incidence**** | 5.3 * | 31.1 | 7.5 * | 36.1 |
-| *p<0.0001 vs glimepiride; †p=0.0012 vs glimepiride **Full analysis population using last observation on study ***Hypoglycemic incidence included both asymptomatic events (not accompanied by typical symptoms and plasma glucose concentration of ≤70 mg/dL) and symptomatic events with typical symptoms of hypoglycemia and plasma glucose concentration of ≤70 mg/dL. ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. Hypoglycemia incidence (%): Cochran-Mantel-Haenszel test was performed on the patient population contained in the treated set, to compare the proportion of patients with hypoglycemic events between patients treated with linagliptin and patients treated with glimepiride. |  |  |  |  |
+| *p<0.0001 vs glimepiride; †p=0.0012 vs glimepiride |  |  |  |  |
+| **Full analysis population using last observation on study |  |  |  |  |
+| ***Hypoglycemic incidence included both asymptomatic events (not accompanied by typical symptoms and plasma glucose concentration of ≤70 mg/dL) and symptomatic events with typical symptoms of hypoglycemia and plasma glucose concentration of ≤70 mg/dL. |  |  |  |  |
+| ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. Hypoglycemia incidence (%): Cochran-Mantel-Haenszel test was performed on the patient population contained in the treated set, to compare the proportion of patients with hypoglycemic events between patients treated with linagliptin and patients treated with glimepiride. |  |  |  |  |
 
 Patients treated with linagliptin had a mean baseline body weight of 86 kg and were observed to have an adjusted mean decrease in body weight of 1.1 kg at 52 weeks and 1.4 kg at 104 weeks.
 Patients on glimepiride had a mean baseline body weight of 87 kg and were observed to have an adjusted mean increase from baseline in body weight of 1.4 kg at 52 weeks and 1.3 kg at 104 weeks (treatment difference p<0.0001 for both timepoints).
@@ -180,7 +190,8 @@ Table 9 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | Baseline (mean) | 188 | 186 |
 | Change from baseline (adjusted mean**) | -33 | -18 |
 | Difference from placebo + pioglitazone (adjusted mean) (95% CI) | -14 (-21, -7) | -- |
-| *Full analysis population using last observation on study **HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
+| *Full analysis population using last observation on study |  |  |
+| **HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
 Add-On Combination with Sulfonylureas
 
@@ -210,7 +221,10 @@ Table 10 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | Baseline (mean) | 180 | 171 |
 | Change from baseline (adjusted mean***) | -8 | -2 |
 | Difference from placebo + SU (adjusted mean) (95% CI) | -6 (-17, 4) | -- |
-| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg + SU, n=156; Placebo + SU, n=82 ***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates |  |  |
+| SU = sulfonylurea |  |  |
+| *Full analysis population using last observation on study |  |  |
+| **TRADJENTA 5 mg + SU, n=156; Placebo + SU, n=82 |  |  |
+| ***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates |  |  |
 
 Add-On Combination Therapy with Metformin and a Sulfonylurea
 
@@ -240,7 +254,10 @@ Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | Baseline (mean) | 159 | 163 |
 | Change from baseline (adjusted mean***) | -5 | 8 |
 | Difference from placebo (adjusted mean) (95% CI) | -13 (-18, -7) | -- |
-| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247 ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
+| SU = sulfonylurea |  |  |
+| *Full analysis population using last observation on study |  |  |
+| **TRADJENTA 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247 |  |  |
+| ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
 Add-On Combination Therapy with Insulin
 
@@ -273,7 +290,9 @@ Table 12 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | Baseline (mean) | 147 | 151 |
 | Change from baseline (adjusted mean***) | -8 | 3 |
 | Difference from placebo (adjusted mean) (95% CI) | -11 (-16, -6) | -- |
-| *Full analysis population using last observation carried forward (LOCF) method on study **TRADJENTA + Insulin, n=595; Placebo + Insulin, n=593 ***HbA1c: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
+| *Full analysis population using last observation carried forward (LOCF) method on study |  |  |
+| **TRADJENTA + Insulin, n=595; Placebo + Insulin, n=593 |  |  |
+| ***HbA1c: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
 The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGFR ≥90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n= 565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
 
@@ -289,7 +308,7 @@ At baseline in this trial, 62.5% of patients were receiving insulin alone as bac
 After 12 weeks of treatment, TRADJENTA 5 mg provided statistically significant improvement in A1C compared to placebo, with an adjusted mean change of -0.6% compared to placebo (95% confidence interval -0.9, -0.3) based on the analysis using last observation carried forward (LOCF).
 With adjustments in antidiabetic background therapy after the initial 12 weeks, efficacy was maintained for 52 weeks, with an adjusted mean change from baseline in A1C of -0.7% compared to placebo (95% confidence interval -1.0, -0.4) based on analysis using LOCF.
 
-## 14.2 Cardiovascular Safety Trials
+Cardiovascular Safety Trials
 
 CARMELINA
 
@@ -323,7 +342,8 @@ Table 13 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CA
 | CV death** | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
 | Non-fatal MI** | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
 | Non-fatal stroke** | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |
-| *PY=patient years **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
+| *PY=patient years |  |  |  |  |  |
+| **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
 
 Figure 1 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial
 

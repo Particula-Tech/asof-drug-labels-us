@@ -12,19 +12,19 @@ Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha-cells, 
 ## 12.2 Pharmacodynamics
 
 Linagliptin binds to DPP-4 in a reversible manner and thus increases the concentrations of incretin hormones.
-Linagliptin glucose dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
-Linagliptin binds selectively to DPP-4, and selectively inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
+Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
+Linagliptin binds selectively to DPP-4 and selectively inhibits DPP-4, but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
 
 Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, active-comparator, 4-way crossover study, 36 healthy subjects were administered a single oral dose of linagliptin 5 mg, linagliptin 100 mg (20 times the recommended dose), moxifloxacin, and placebo.
-No increase in QTc was observed with either the recommended dose of 5 mg or the 100-mg dose.
-At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5-mg dose.
+No increase in QTc was observed with either the recommended dose of 5 mg or the 100 mg dose.
+At the 100 mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5 mg dose.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of linagliptin has been characterized in healthy subjects and patients with type 2 diabetes.
-After oral administration of a single 5-mg dose to healthy subjects, peak plasma concentrations of linagliptin occurred at approximately 1.5 hours post dose (Tmax); the mean plasma area under the curve (AUC) was 139 nmol*h/L and maximum concentration (Cmax) was 8.9 nmol/L.
+After oral administration of a single 5 mg dose to healthy subjects, peak plasma concentrations of linagliptin occurred at approximately 1.5 hours post dose (Tmax); the mean plasma area under the curve (AUC) was 139 nmol*h/L and maximum concentration (Cmax) was 8.9 nmol/L.
 
 Plasma concentrations of linagliptin decline in at least a biphasic manner with a long terminal half-life (>100 hours), related to the saturable binding of linagliptin to DPP-4.
 The prolonged elimination phase does not contribute to the accumulation of the drug.
@@ -87,28 +87,9 @@ In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of lina
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
 
-Body Mass Index (BMI)/Weight
+Effects of Age, Body Mass Index (BMI), Gender, and Race
 
-No dose adjustment is necessary based on BMI/weight.
-BMI/weight had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
-
-Gender
-
-No dose adjustment is necessary based on gender.
-Gender had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
-
-Geriatric
-
-Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
-
-Pediatric
-
-Studies characterizing the pharmacokinetics of linagliptin in pediatric patients have not yet been performed.
-
-Race
-
-No dose adjustment is necessary based on race.
-Race had no clinically meaningful effect on the pharmacokinetics of linagliptin based on available pharmacokinetic data, including subjects of White, Hispanic, Black, and Asian racial groups.
+Based on the population pharmacokinetic analysis, age, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
 Drug Interactions
 
@@ -134,7 +115,11 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
 | Rifampin** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| *Multiple dose (steady-state) unless otherwise noted **For information regarding clinical recommendations [see Drug Interactions (7.1)]. #Single dose †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+| *Multiple dose (steady-state) unless otherwise noted |  |  |  |  |
+| **For information regarding clinical recommendations [see Drug Interactions (7.1)]. |  |  |  |  |
+| #Single dose |  |  |  |  |
+| †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
+| QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
@@ -148,4 +133,8 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| *Multiple dose (steady-state) unless otherwise noted #Single dose †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
+| *Multiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
+| #Single dose |  |  |  |  |  |
+| †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |  |
+| **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points |  |  |  |  |  |
+| INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
