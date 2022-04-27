@@ -102,7 +102,7 @@ Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 
-## 5.11 Increased International Normalized Ratio (INR)/ Prolonged Prothrombin Time
+## 5.11 Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time
 
 Clinically relevant plasma concentrations of daptomycin have been observed to cause a significant concentration-dependent false prolongation of prothrombin time (PT) and elevation of International Normalized Ratio (INR) when certain recombinant thromboplastin reagents are utilized for the assay [see Drug Interactions (7.2)].
 

@@ -129,7 +129,7 @@ Table 17: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | Complicated Bacteremia | 26/60 (43%) | 23/61 (38%) | 5.6% (-17.3, 28.6)¶ |
 | Right-Sided Infective Endocarditis | 8/19 (42%) | 7/16 (44%) | -1.6 % (-44.9, 41.6)¶ |
 | Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (-51.6, 100.0)¶ |
-| Complicated Right-Sided Infective Endocarditis | 5/13(39%) | 6/12 (50%) | -11.5% (-62.4, 39.4)¶ |
+| Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | -11.5% (-62.4, 39.4)¶ |
 | Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | -11.1% (-55.9, 33.6)¶ |
 
 *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.

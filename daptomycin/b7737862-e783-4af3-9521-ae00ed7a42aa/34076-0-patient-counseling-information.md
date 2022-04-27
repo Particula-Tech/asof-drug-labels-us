@@ -9,7 +9,7 @@ Muscle Pain or Weakness (Myopathy and Rhabdomyolysis, Peripheral Neuropathy)
 
 Advise patients to report muscle pain or weakness, especially in the forearms and lower legs, as well as tingling or numbness [See Warnings and Precautions (5.2, 5.6)].
 
-Cough, Breathlessness or Fever (Eosinophilic Pneumonia)
+Cough, Breathlessness, or Fever (Eosinophilic Pneumonia)
 
 Advise patients to report any symptoms of cough, breathlessness, or fever.
 [See Warnings and Precautions (5.3)].
@@ -41,4 +41,4 @@ Mylan Laboratories Limited
 
 Bangalore, India
 
-DECEMBER 2021
+APRIL 2022
