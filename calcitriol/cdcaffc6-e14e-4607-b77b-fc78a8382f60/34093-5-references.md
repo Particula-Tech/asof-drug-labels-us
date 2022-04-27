@@ -4,18 +4,18 @@
    Clin Nephrol.
    1994;42:44-49.
 
-Mfd. by: Catalent
+Manufactured by: Catalent
 
 Pharma Solutions, LLC
 
 St. Petersburg, FL 33716
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000404/01
+C50000404/02
 
-Revised September 2020
+Revised August 2021
