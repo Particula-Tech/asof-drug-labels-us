@@ -10,9 +10,7 @@ Rx only 500 Capsules
 
 *Each capsule contains cysteamine bitartrate equivalent to 50 mg of cysteamine.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -21,15 +19,21 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light and moisture.
 
-Usual Dosage: See accompanying prescribing information.
-
 This container is not intended for dispensing for household use.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in India
 
 Mylan.com
 
-RM9040B5
+RMX9040B
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89
 
 # PRINCIPAL DISPLAY PANEL - 150 mg
 
@@ -43,9 +47,7 @@ Rx only 500 Capsules
 
 *Each capsule contains cysteamine bitartrate equivalent to 150 mg of cysteamine.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -54,12 +56,18 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light and moisture.
 
-Usual Dosage: See accompanying prescribing information.
-
 This container is not intended for dispensing for household use.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in India
 
 Mylan.com
 
-RM9045B6
+RMX9045B
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89

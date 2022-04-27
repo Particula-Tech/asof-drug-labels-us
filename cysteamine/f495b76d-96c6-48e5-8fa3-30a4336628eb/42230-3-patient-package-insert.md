@@ -125,6 +125,10 @@ Active ingredient: cysteamine free base as cysteamine bitartrate.
 
 Inactive ingredients: ammonium hydroxide, black iron oxide, colloidal silicon dioxide, croscarmellose sodium, gelatin, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, pregelatinized starch, propylene glycol, sodium lauryl sulfate and titanium dioxide.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2019 CYST:R16p/PL:CYST:R8p
+Manufactured by: Mylan Laboratories Limited Hyderabad – 500 096, India
+
+75082040
+
+Revised: 8/2021 MX:CYST:R1p/MX:PL:CYST:R1p
