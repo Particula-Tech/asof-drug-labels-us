@@ -8,7 +8,7 @@ Monitor blood pressure and heart rate both during and after the infusion to avoi
 Administer Nicardipine Hydrochloride by slow continuous infusion by a central line or through a large peripheral vein.
 Change the infusion site every 12 hours if administered via peripheral vein [see Intravenous Infusion Site (5.7)].
 
-## ​2.2 Inspection and Preparation
+## 2.2 Inspection and Preparation
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
@@ -29,30 +29,6 @@ Nicardipine hydrochloride injection has been found compatible and stable in poly
 Dextrose (5%) Injection, USP Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP Dextrose (5%) with 40 mEq Potassium, USP Sodium Chloride (0.45%) Injection, USP Sodium Chloride (0.9%) Injection, USP
 
 Nicardipine hydrochloride is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
-
-Flexible Containers
-
-Dilution is not required for Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection.
-
-Check the container for minute leaks prior to use by squeezing the bag firmly; ensure that the seal is intact.
-If leaks are found, discard solution as sterility may be impaired.
-
-Do not combine Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection with any product in the same intravenous line or premixed container.
-Do not add supplementary medication to the bag.
-Protect from light until ready to use.
-
-Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the fluid from the secondary container is complete.
-
-Preparation for administration
-
-1.
-Suspend container from eyelet support.
-2.
-Remove protector from outlet port at bottom of container.
-3.
-Attach administration set.
-Refer to complete directions accompanying set.
 
 ## 2.3 Dosage as a Substitute for Oral Nicardipine Therapy
 

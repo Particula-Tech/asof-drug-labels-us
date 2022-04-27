@@ -1,4 +1,4 @@
-# ​6 ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Adverse Reactions Observed in Clinical Trials
 
