@@ -4,12 +4,12 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 - Lactic Acidosis [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
-- Heart Failure [see Warnings and Precautions (5.3)]
-- Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
-- Vitamin B12 Levels [see Warnings and Precautions (5.6)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.7)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.8)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.3)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.5)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.6)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.7)]
+- Heart Failure [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,11 +26,10 @@ In a 24-week factorial design study, adverse reactions reported in ≥5% of pati
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin + Metformin and Greater than with Placebo in a 24-week Factorial-Design Study
 
-|  | Placebo n=72 | Linagliptin Monotherapy n=142 | Metformin Monotherapy n=291 | Combination of Linagliptin with Metformin n=286 |
+| Adverse Reactions | Placebo (%) n=72 | Linagliptin Monotherapy (%) n=142 | Metformin Monotherapy (%) n=291 | Combination of Linagliptin with Metformin (%) n=286 |
 | --- | --- | --- | --- | --- |
-|  | n (%) | n (%) | n (%) | n (%) |
-| Nasopharyngitis | 1 (1.4) | 8 (5.6) | 8 (2.7) | 18 (6.3) |
-| Diarrhea | 2 (2.8) | 5 (3.5) | 11 (3.8) | 18 (6.3) |
+| Nasopharyngitis | 1.4 | 5.6 | 2.7 | 6.3 |
+| Diarrhea | 2.8 | 3.5 | 3.8 | 6.3 |
 
 Other adverse reactions reported in clinical studies with treatment of linagliptin + metformin were hypersensitivity (e.g., urticaria, angioedema, or bronchial hyperreactivity), cough, decreased appetite, nausea, vomiting, pruritus, and pancreatitis.
 
@@ -46,7 +45,7 @@ Three additional cases of pancreatitis were reported following the last administ
 
 Metformin
 
-The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
+The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
 Hypoglycemia
 
@@ -57,7 +56,7 @@ The incidence of hypoglycemia with plasma glucose <54 mg/dL was 8.1% in the lina
 
 Linagliptin
 
-The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52 week study.
+The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52-week study.
 
 Laboratory Tests
 
@@ -74,7 +73,7 @@ The clinical significance of elevations in lipase and amylase with linagliptin i
 
 Metformin
 
-Decrease in Vitamin B12 Absorption: Treatment with metformin has been associated with a decrease in vitamin B12 absorption which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.6)].
+Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 
