@@ -1,5 +1,17 @@
 # 1. INDICATIONS AND USAGE
 
+## 1.1 Hormone Receptor-Positive, HER2-Negative Breast Cancer
+
+Everolimus tablets are indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer in combination with exemestane, after failure of treatment with letrozole or anastrozole.
+
+## 1.2 Neuroendocrine Tumors (NET)
+
+Everolimus tablets are indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.
+
+Everolimus tablets are indicated for the treatment of adult patients with progressive, well-differentiated, non-functional NET of gastrointestinal (GI) or lung origin with unresectable, locally advanced or metastatic disease.
+
+Limitations of Use: Everolimus tablets are not indicated for the treatment of patients with functional carcinoid tumors [see Clinical Studies (14.2)].
+
 ## 1.3 Renal Cell Carcinoma (RCC)
 
 Everolimus tablets are indicated for the treatment of adult patients with advanced RCC after failure of treatment with sunitinib or sorafenib.

@@ -37,7 +37,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to starting everolimus tablets [see Use in Specific Population (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to starting everolimus tablets [see Use in Specific Populations(8.1)].
 
 Contraception
 
@@ -74,6 +74,8 @@ Other Indications
 
 The safety and effectiveness of everolimus tablets in pediatric patients have not been established in:
 
+- Hormone receptor-positive, HER2-negative breast cancer
+- Neuroendocrine tumors (NET)
 - Renal cell carcinoma (RCC)
 - TSC-associated renal angiomyolipoma
 
@@ -92,6 +94,6 @@ No overall differences in safety or effectiveness were observed between elderly 
 
 Everolimus tablets exposure may increase in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For patients with RCC and TSC-associated renal angiomyolipoma who have hepatic impairment, reduce the everolimus tablets dose as recommended [see Dosage and Administration (2.10)].
+For patients with breast cancer, NET, RCC, and TSC-associated renal angiomyolipoma who have hepatic impairment, reduce the everolimus tablets dose as recommended [see Dosage and Administration (2.10)].
 
-For patients with TSC-associated SEGA who have severe hepatic impairment (Child-Pugh C), reduce the starting dose of everolimus tablets as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].
+For patients with TSC-associated SEGA who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of everolimus tablets as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].

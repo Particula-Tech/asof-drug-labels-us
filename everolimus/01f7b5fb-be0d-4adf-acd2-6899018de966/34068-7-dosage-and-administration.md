@@ -2,7 +2,17 @@
 
 ## 2.1 Important Dosage Information
 
+- Everolimus tablets and everolimus tablets for oral suspension are two different dosage forms.
+  Do not combine everolimus tablets and everolimus tablets for oral suspension to achieve the total dose.
 - Modify the dosage for patients with hepatic impairment or for patients taking drugs that inhibit or induce P-glycoprotein (P-gp) and CYP3A4 [see Dosage and Administration (2.10, 2.11, 2.12)].
+
+## 2.2 Recommended Dosage for Hormone Receptor-Positive, HER2-Negative Breast Cancer
+
+The recommended dosage of everolimus tablets is 10 mg orally once daily until disease progression or unacceptable toxicity.
+
+## 2.3 Recommended Dosage for Neuroendocrine Tumors (NET)
+
+The recommended dosage of everolimus tablets is 10 mg orally once daily until disease progression or unacceptable toxicity.
 
 ## 2.4 Recommended Dosage for Renal Cell Carcinoma (RCC)
 
@@ -26,7 +36,7 @@ The recommended starting dosage of everolimus tablets is 4.5 mg/m2 orally once d
 
 Table 1: Recommended Timing of Therapeutic Drug Monitoring
 
-| Event | When to Asses Trough Concentrations After Event |
+| Event | When to Assess Trough Concentrations After Event |
 | --- | --- |
 | Initiation of everolimus tablets | 1 to 2 weeks |
 | Modification of everolimus tablets dose | 1 to 2 weeks |
@@ -71,9 +81,9 @@ Table 3: Recommended Dosage Modifications for Patients with Hepatic Impairment
 
 | Indication | Dose Modification for Everolimus Tablets |
 | --- | --- |
-| RCC and TSC-Associated Renal Angiomyolipoma | Mild hepatic impairment (Child-Pugh class A) – 7.5 mg orally once daily; decrease the dose to 5 mg orally once daily if a dose of 7.5 mg once daily is not tolerated.Moderate hepatic impairment (Child-Pugh class B) – 5 mg orally once daily; decrease the dose to 2.5 mg orally once daily if a dose of 5 mg once daily is not tolerated.Severe hepatic impairment (Child-Pugh class C) – 2.5 mg orally once daily if the desired benefit outweighs the risk; do not exceed a dose of 2.5 mg once daily. |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Mild hepatic impairment (Child-Pugh class A) – 7.5 mg orally once daily; decrease the dose to 5 mg orally once daily if a dose of 7.5 mg once daily is not tolerated.Moderate hepatic impairment (Child-Pugh class B) – 5 mg orally once daily; decrease the dose to 2.5 mg orally once daily if a dose of 5 mg once daily is not tolerated.Severe hepatic impairment (Child-Pugh class C) – 2.5 mg orally once daily if the desired benefit outweighs the risk; do not exceed a dose of 2.5 mg once daily. |
 | TSC-Associated SEGA | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |
-| Abbreviations: RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |
+| Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |
 
 ## 2.11 Dosage Modifications for P-gp and CYP3A4 Inhibitors
 
@@ -85,7 +95,7 @@ Table 4: Recommended Dosage Modifications for Concurrent Use of Everolimus Table
 
 | Indication | Dose Modification for Everolimus Tablets |
 | --- | --- |
-| RCC and TSC-Associated Renal Angiomyolipoma | Reduce dose to 2.5 mg once daily.May increase dose to 5 mg once daily if tolerated.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days. |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Reduce dose to 2.5 mg once daily.May increase dose to 5 mg once daily if tolerated.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days. |
 | TSC-Associated SEGA | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
 
 ## 2.12 Dosage Modifications for P-gp and CYP3A4 Inducers
@@ -97,7 +107,7 @@ Table 5: Recommended Dosage Modifications for Concurrent Use of Everolimus Table
 
 | Indication | Dose Modification for Everolimus Tablets |
 | --- | --- |
-| RCC and TSC-Associated Renal Angiomyolipoma | Avoid coadministration where alternatives exist.If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required.Resume the dose administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Avoid coadministration where alternatives exist.If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required.Resume the dose administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
 | TSC-Associated SEGA | Double the daily dose using increments of 5 mg or less. Multiple increments may be required.Addition of another strong CYP3A4 inducer in a patient already receiving treatment with a strong CYP3A4 inducer may not require additional dosage modification.Assess trough concentrations when initiating and discontinuing the inducer [see Dosage and Administration (2.8)].Resume the dose administered before starting any inducer, once all inducers are discontinued for 5 days. |
 
 ## 2.13 Administration and Preparation

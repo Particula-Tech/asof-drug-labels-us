@@ -11,15 +11,285 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Impaired Wound Healing [see Warnings and Precautions (5.7)].
 - Metabolic Disorders [see Warnings and Precautions (5.9)].
 - Myelosuppression [see Warnings and Precautions (5.10)].
+- Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.12)].
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
+Hormone Receptor-Positive, HER2-Negative Breast Cancer
+
+The safety of everolimus tablets (10 mg orally once daily) in combination with exemestane (25 mg orally once daily) (n = 485) vs. placebo in combination with exemestane (n = 239) was evaluated in a randomized, controlled trial (BOLERO-2) in patients with advanced or metastatic hormone receptor-positive, HER2-negative breast cancer.
+The median age of patients was 61 years (28 to 93 years), and 75% were White.
+The median follow-up was approximately 13 months.
+The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, rash, fatigue, diarrhea, and decreased appetite.
+The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis, infections, hyperglycemia, fatigue, dyspnea, pneumonitis, and diarrhea.
+The most common laboratory abnormalities (incidence ≥ 50%) were hypercholesterolemia, hyperglycemia, increased aspartate transaminase (AST), anemia, leukopenia, thrombocytopenia, lymphopenia, increased alanine transaminase (ALT), and hypertriglyceridemia.
+The most common Grade 3-4 laboratory abnormalities (incidence ≥ 3%) were lymphopenia, hyperglycemia, anemia, hypokalemia, increased AST, increased ALT, and thrombocytopenia.
+
+Fatal adverse reactions occurred in 2% of patients who received everolimus tablets.
+The rate of adverse reactions resulting in permanent discontinuation was 24% for the everolimus tablets arm.
+Dose adjustments (interruptions or reductions) occurred in 63% of patients in the everolimus tablets arm.
+
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving everolimus tablets vs. placebo are presented in Table 6.
+Laboratory abnormalities are presented in Table 7.
+The median duration of treatment with everolimus tablets was 23.9 weeks; 33% were exposed to everolimus tablets for a period of ≥ 32 weeks.
+
+Table 6: Adverse Reactions Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | Everolimus Tablets with Exemestane |  | Placebo with Exemestane |  |
+|  | N = 482 |  | N = 238 |  |
+| Gastrointestinal |  |  |  |  |
+| StomatitisIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration. | 67 | 8No Grade 4 adverse reactions were reported. | 11 | 0.8 |
+| Diarrhea | 33 | 2 | 18 | 0.8 |
+| Nausea | 29 | 0.4 | 28 | 1 |
+| Vomiting | 17 | 1 | 12 | 0.8 |
+| Constipation | 14 | 0.4 | 13 | 0.4 |
+| Dry mouth | 11 | 0 | 7 | 0 |
+| General |  |  |  |  |
+| Fatigue | 36 | 4 | 27 | 1 |
+| Edema peripheral | 19 | 1 | 6 | 0.4 |
+| Pyrexia | 15 | 0.2 | 7 | 0.4 |
+| Asthenia | 13 | 2 | 4 | 0 |
+| Infections |  |  |  |  |
+| InfectionsIncludes all reported infections, including, but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. | 50 | 6 | 25 | 2 |
+| Investigations |  |  |  |  |
+| Weight loss | 25 | 1 | 6 | 0 |
+| Metabolism and nutrition |  |  |  |  |
+| Decreased appetite | 30 | 1 | 12 | 0.4 |
+| Hyperglycemia | 14 | 5 | 2 | 0.4 |
+| Musculoskeletal and connective tissue |  |  |  |  |
+| Arthralgia | 20 | 0.8 | 17 | 0 |
+| Back pain | 14 | 0.2 | 10 | 0.8 |
+| Pain in extremity | 9 | 0.4 | 11 | 2 |
+| Nervous system |  |  |  |  |
+| Dysgeusia | 22 | 0.2 | 6 | 0 |
+| Headache | 21 | 0.4 | 14 | 0 |
+| Psychiatric |  |  |  |  |
+| Insomnia | 13 | 0.2 | 8 | 0 |
+| Respiratory, thoracic and mediastinal |  |  |  |  |
+| Cough | 24 | 0.6 | 12 | 0 |
+| Dyspnea | 21 | 4 | 11 | 1 |
+| Epistaxis | 17 | 0 | 1 | 0 |
+| PneumonitisIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis. | 19 | 4 | 0.4 | 0 |
+| Skin and subcutaneous tissue |  |  |  |  |
+| Rash | 39 | 1 | 6 | 0 |
+| Pruritus | 13 | 0.2 | 5 | 0 |
+| Alopecia | 10 | 0 | 5 | 0 |
+| Vascular |  |  |  |  |
+| Hot flush | 6 | 0 | 14 | 0 |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
+
+Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+| Laboratory Parameter | Everolimus Tablets with Exemestane N = 482 |  | Placebo with Exemestane N = 238 |  |
+| HematologyReflects corresponding adverse drug reaction reports of anemia, leukopenia, lymphopenia, neutropenia, and thrombocytopenia (collectively as pancytopenia), which occurred at lower frequency. |  |  |  |  |
+| Anemia | 68 | 6 | 40 | 1 |
+| Leukopenia | 58 | 2 No Grade 4 laboratory abnormalities were reported. | 28 | 6 |
+| Thrombocytopenia | 54 | 3 | 5 | 0.4 |
+| Lymphopenia | 54 | 12 | 37 | 6 |
+| Neutropenia | 31 | 2 | 11 | 2 |
+| Chemistry |  |  |  |  |
+| Hypercholesterolemia | 70 | 1 | 38 | 2 |
+| Hyperglycemia | 69 | 9 | 44 | 1 |
+| Increased AST | 69 | 4 | 45 | 3 |
+| Increased ALT | 51 | 4 | 29 | 5 |
+| Hypertriglyceridemia | 50 | 0.8 | 26 | 0 |
+| Hypoalbuminemia | 33 | 0.8 | 16 | 0.8 |
+| Hypokalemia | 29 | 4 | 7 | 1 |
+| Increased creatinine | 24 | 2 | 13 | 0 |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
+
+Topical Prophylaxis for Stomatitis
+
+In a single arm study (SWISH; N = 92) in postmenopausal women with hormone receptor-positive, HER2-negative breast cancer beginning everolimus tablets (10 mg orally once daily) in combination with exemestane (25 mg orally once daily), patients started dexamethasone 0.5 mg/5 mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with everolimus tablets and exemestane.
+No food or drink was to be consumed for at least 1 hour after swishing and spitting the dexamethasone mouthwash.
+The primary objective of this study was to assess the incidence of Grade 2 to 4 stomatitis within 8 weeks.
+The incidence of Grade 2 to 4 stomatitis within 8 weeks was 2%, which was lower than the 33% reported in the BOLERO-2 trial.
+The incidence of Grade 1 stomatitis was 19%.
+No cases of Grade 3 or 4 stomatitis were reported.
+Oral candidiasis was reported in 2% of patients in this study compared to 0.2% in the BOLERO-2 trial.
+
+Coadministration of everolimus tablets and dexamethasone alcohol-free oral solution has not been studied in pediatric patients.
+
+Pancreatic Neuroendocrine Tumors (PNET)
+
+In a randomized, controlled trial (RADIANT-3) of everolimus tablets (n = 204) vs. placebo (n = 203) in patients with advanced PNET the median age of patients was 58 years (20 to 87 years), 79% were White, and 55% were male.
+Patients on the placebo arm could cross over to open-label everolimus tablets upon disease progression.
+
+The most common adverse reactions (incidence ≥ 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
+The most common Grade 3-4 adverse reactions (incidence ≥ 5%) were stomatitis and diarrhea.
+The most common laboratory abnormalities (incidence ≥ 50%) were anemia, hyperglycemia, increased alkaline phosphatase, hypercholesterolemia, decreased bicarbonate, and increased AST.
+The most common Grade 3-4 laboratory abnormalities (incidence ≥ 3%) were hyperglycemia, lymphopenia, anemia, hypophosphatemia, increased alkaline phosphatase, neutropenia, increased AST, hypokalemia, and thrombocytopenia.
+
+Deaths during double-blind treatment where an adverse reaction was the primary cause occurred in seven patients on everolimus tablets.
+Causes of death on the everolimus tablets arm included one case of each of the following: acute renal failure, acute respiratory distress, cardiac arrest, death (cause unknown), hepatic failure, pneumonia, and sepsis.
+After cross-over to open-label everolimus tablets, there were three additional deaths, one due to hypoglycemia and cardiac arrest in a patient with insulinoma, one due to myocardial infarction with congestive heart failure, and the other due to sudden death.
+The rate of adverse reactions resulting in permanent discontinuation was 20% for the everolimus tablets group.
+Dose delay or reduction was necessary in 61% of everolimus tablets patients.
+Grade 3-4 renal failure occurred in six patients in the everolimus tablets arm.
+Thrombotic events included five patients with pulmonary embolus in the everolimus tablets arm as well as three patients with thrombosis in the everolimus tablets arm.
+
+Table 8 compares the incidence of adverse reactions reported with an incidence of ≥ 10% for patients receiving everolimus tablets vs. placebo.
+Laboratory abnormalities are summarized in Table 9.
+The median duration of treatment in patients who received everolimus tablets was 37 weeks.
+
+In female patients aged 18 to 55 years, irregular menstruation occurred in 5 of 46 (11%) everolimus tablets-treated females.
+
+Table 8: Adverse Reactions Reported in ≥ 10% of Patients with PNET in RADIANT-3
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | Everolimus Tablets N = 204 |  | Placebo N = 203 |  |
+| Gastrointestinal |  |  |  |  |
+| StomatitisIncludes stomatitis, aphthous stomatitis, gingival pain/swelling/ulceration, glossitis, glossodynia, lip ulceration, mouth ulceration, tongue ulceration, and mucosal inflammation. | 70 | 7No Grade 4 adverse reactions were reported. | 20 | 0 |
+| DiarrheaIncludes diarrhea, enteritis, enterocolitis, colitis, defecation urgency, and steatorrhea. | 50 | 6 | 25 | 3 |
+| Abdominal pain | 36 | 4 | 32 | 7 |
+| Nausea | 32 | 2 | 33 | 2 |
+| Vomiting | 29 | 1 | 21 | 2 |
+| Constipation | 14 | 0 | 13 | 0.5 |
+| Dry mouth | 11 | 0 | 4 | 0 |
+| General |  |  |  |  |
+| Fatigue/malaise | 45 | 4 | 27 | 3 |
+| Edema (general and peripheral) | 39 | 2 | 12 | 1 |
+| Fever | 31 | 1 | 13 | 0.5 |
+| Asthenia | 19 | 3 | 20 | 3 |
+| Infections |  |  |  |  |
+| Nasopharyngitis/rhinitis/URI | 25 | 0 | 13 | 0 |
+| Urinary tract infection | 16 | 0 | 6 | 0.5 |
+| Investigations |  |  |  |  |
+| Weight loss | 28 | 0.5 | 11 | 0 |
+| Metabolism and nutrition |  |  |  |  |
+| Decreased appetite | 30 | 1 | 18 | 1 |
+| Diabetes mellitus | 10 | 2 | 0.5 | 0 |
+| Musculoskeletal and connective tissue |  |  |  |  |
+| Arthralgia | 15 | 1 | 7 | 0.5 |
+| Back pain | 15 | 1 | 11 | 1 |
+| Pain in extremity | 14 | 0.5 | 6 | 1 |
+| Muscle spasms | 10 | 0 | 4 | 0 |
+| Nervous system |  |  |  |  |
+| Headache/migraine | 30 | 0.5 | 15 | 1 |
+| Dysgeusia | 19 | 0 | 5 | 0 |
+| Dizziness | 12 | 0.5 | 7 | 0 |
+| Psychiatric |  |  |  |  |
+| Insomnia | 14 | 0 | 8 | 0 |
+| Respiratory, thoracic and mediastinal |  |  |  |  |
+| Cough/productive cough | 25 | 0.5 | 13 | 0 |
+| Epistaxis | 22 | 0 | 1 | 0 |
+| Dyspnea/dyspnea exertional | 20 | 3 | 7 | 0.5 |
+| PneumonitisIncludes pneumonitis, interstitial lung disease, pulmonary fibrosis, and restrictive pulmonary disease. | 17 | 4 | 0 | 0 |
+| Oropharyngeal pain | 11 | 0 | 6 | 0 |
+| Skin and subcutaneous |  |  |  |  |
+| Rash | 59 | 0.5 | 19 | 0 |
+| Nail disorders | 22 | 0.5 | 2 | 0 |
+| Pruritus/pruritus generalized | 21 | 0 | 13 | 0 |
+| Dry skin/xeroderma | 13 | 0 | 6 | 0 |
+| Vascular |  |  |  |  |
+| Hypertension | 13 | 1 | 6 | 1 |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
+
+Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with PNET in RADIANT-3
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+| Laboratory Parameter | Everolimus Tablets N = 204 |  | Placebo N = 203 |  |
+| Hematology |  |  |  |  |
+| Anemia | 86 | 15 | 63 | 1 |
+| Lymphopenia | 45 | 16 | 22 | 4 |
+| Thrombocytopenia | 45 | 3 | 11 | 0 |
+| Leukopenia | 43 | 2 | 13 | 0 |
+| Neutropenia | 30 | 4 | 17 | 2 |
+| Chemistry |  |  |  |  |
+| Hyperglycemia (fasting) | 75 | 17 | 53 | 6 |
+| Increased alkaline phosphatase | 74 | 8 | 66 | 8 |
+| Hypercholesterolemia | 66 | 0.5 | 22 | 0 |
+| Bicarbonate decreased | 56 | 0 | 40 | 0 |
+| Increased AST | 56 | 4 | 41 | 4 |
+| Increased ALT | 48 | 2 | 35 | 2 |
+| Hypophosphatemia | 40 | 10 | 14 | 3 |
+| Hypertriglyceridemia | 39 | 0 | 10 | 0 |
+| Hypocalcemia | 37 | 0.5 | 12 | 0 |
+| Hypokalemia | 23 | 4 | 5 | 0 |
+| Increased creatinine | 19 | 2 | 14 | 0 |
+| Hyponatremia | 16 | 1 | 16 | 1 |
+| Hypoalbuminemia | 13 | 1 | 8 | 0 |
+| Hyperbilirubinemia | 10 | 1 | 14 | 2 |
+| Hyperkalemia | 7 | 0 | 10 | 0.5 |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
+
+Neuroendocrine Tumors (NET) of Gastrointestinal (GI) or Lung Origin
+
+In a randomized, controlled trial (RADIANT-4) of everolimus tablets (n = 202 treated) vs. placebo (n = 98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (22-86 years), 76% were White, and 53% were female.
+The median duration of exposure to everolimus tablets was 9.3 months; 64% of patients were treated for ≥ 6 months and 39% were treated for ≥ 12 months.
+Everolimus tablets was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of everolimus tablets-treated patients.
+
+Serious adverse reactions occurred in 42% of everolimus tablets-treated patients and included 3 fatal events (cardiac failure, respiratory failure, and septic shock).
+Adverse reactions occurring at an incidence of ≥ 10% and at ≥ 5% absolute incidence over placebo (all Grades) or ≥ 2% higher incidence over placebo (Grade 3 and 4) are presented in Table 10.
+Laboratory abnormalities are presented in Table 11.
+
+Table 10: Adverse Reactions in ≥ 10% of Everolimus Tablets-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | Everolimus Tablets N = 202 |  | Placebo N = 98 |  |
+| Gastrointestinal |  |  |  |  |
+| StomatitisIncludes stomatitis, mouth ulceration, aphthous stomatitis, gingival pain, glossitis, tongue ulceration, and mucosal inflammation. | 63 | 9No Grade 4 adverse reactions were reported. | 22 | 0 |
+| Diarrhea | 41 | 9 | 31 | 2 |
+| Nausea | 26 | 3 | 17 | 1 |
+| Vomiting | 15 | 4 | 12 | 2 |
+| General |  |  |  |  |
+| Peripheral edema | 39 | 3 | 6 | 1 |
+| Fatigue | 37 | 5 | 36 | 1 |
+| Asthenia | 23 | 3 | 8 | 0 |
+| Pyrexia | 23 | 2 | 8 | 0 |
+| Infections |  |  |  |  |
+| InfectionsUrinary tract infection, nasopharyngitis, upper respiratory tract infection, lower respiratory tract infection (pneumonia, bronchitis), abscess, pyelonephritis, septic shock and viral myocarditis. | 58 | 11 | 29 | 2 |
+| Investigations |  |  |  |  |
+| Weight loss | 22 | 2 | 11 | 1 |
+| Metabolism and nutrition |  |  |  |  |
+| Decreased appetite | 22 | 1 | 17 | 1 |
+| Nervous system |  |  |  |  |
+| Dysgeusia | 18 | 1 | 4 | 0 |
+| Respiratory, thoracic and mediastinal |  |  |  |  |
+| Cough | 27 | 0 | 20 | 0 |
+| Dyspnea | 20 | 3 | 11 | 2 |
+| PneumonitisIncludes pneumonitis and interstitial lung disease. | 16 | 2 | 2 | 0 |
+| Epistaxis | 13 | 1 | 3 | 0 |
+| Skin and subcutaneous |  |  |  |  |
+| Rash | 30 | 1 | 9 | 0 |
+| Pruritus | 17 | 1 | 9 | 0 |
+| Grading according to NCI CTCAE Version 4.03. |  |  |  |  |
+
+Table 11: Selected Laboratory Abnormalities in ≥ 10% of Everolimus Tablets-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
+
+|  | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |
+| --- | --- | --- | --- | --- |
+|  | Everolimus Tablets N = 202 |  | Placebo N = 98 |  |
+| Hematology |  |  |  |  |
+| Anemia | 81 | 5No Grade 4 laboratory abnormalities were reported. | 41 | 2 |
+| Lymphopenia | 66 | 16 | 32 | 2 |
+| Leukopenia | 49 | 2 | 17 | 0 |
+| Thrombocytopenia | 33 | 2 | 11 | 0 |
+| Neutropenia | 32 | 2 | 15 | 3 |
+| Chemistry |  |  |  |  |
+| Hypercholesterolemia | 71 | 0 | 37 | 0 |
+| Increased AST | 57 | 2 | 34 | 2 |
+| Hyperglycemia (fasting) | 55 | 6 | 36 | 1 |
+| Increased ALT | 46 | 5 | 39 | 1 |
+| Hypophosphatemia | 43 | 4 | 15 | 2 |
+| Hypertriglyceridemia | 30 | 3 | 8 | 1 |
+| Hypokalemia | 27 | 6 | 12 | 3 |
+| Hypoalbuminemia | 18 | 0 | 8 | 0 |
+| Grading according to NCI CTCAE Version 4.03. |  |  |  |  |
+
 Renal Cell Carcinoma (RCC)
 
 The data described below reflect exposure to everolimus tablets (n = 274) and placebo (n = 137) in a randomized, controlled trial (RECORD-1) in patients with metastatic RCC who received prior treatment with sunitinib and/or sorafenib.
-The median age of patients was 61 years (range 27 to 85 years), 88% were White, and 78% were male.
+The median age of patients was 61 years (27 to 85 years), 88% were White, and 78% were male.
 The median duration of blinded study treatment was 141 days (19 to 451 days) for patients receiving everolimus tablets.
 
 The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, asthenia, fatigue, cough, and diarrhea.
@@ -46,7 +316,7 @@ Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Hi
 | Diarrhea | 30 | 2No Grade 4 adverse reactions were reported. | 7 | 0 |
 | Nausea | 26 | 2 | 19 | 0 |
 | Vomiting | 20 | 2 | 12 | 0 |
-| InfectionsIncludes all reported infections including, but not limited to, respiratory tract (upper and lower) infections, urinary tract infections, and skin infections. | 37 | 10 | 18 | 2 |
+| InfectionsIncludes all reported infections, including, but not limited to, respiratory tract (upper and lower) infections, urinary tract infections, and skin infections. | 37 | 10 | 18 | 2 |
 | General |  |  |  |  |
 | Asthenia | 33 | 4 | 23 | 4 |
 | Fatigue | 31 | 6 | 27 | 4 |
@@ -101,7 +371,7 @@ Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a H
 | Hypercholesterolemia | 77 | 4 | 35 | 0 |
 | Hypertriglyceridemia | 73 | < 1 | 34 | 0 |
 | Hyperglycemia | 57 | 16 | 25 | 2 |
-| Increased creatinine increased | 50 | 2 | 34 | 0 |
+| Increased creatinine | 50 | 2 | 34 | 0 |
 | Hypophosphatemia | 37 | 6 | 8 | 0 |
 | Increased AST | 25 | 1 | 7 | 0 |
 | Increased ALT | 21 | 1 | 4 | 0 |
@@ -200,23 +470,23 @@ Table 16: Adverse Reactions Reported in ≥ 10% of Everolimus Tablets -Treated P
 | --- | --- | --- | --- | --- |
 |  | Everolimus Tablets N = 78 |  | Placebo N = 39 |  |
 | Gastrointestinal |  |  |  |  |
-| StomatitisIncludes mouth ulceration, stomatitis, and lip ulceration | 62 | 9No Grade 4 adverse reactions were reported. | 26 | 3 |
+| StomatitisIncludes mouth ulceration, stomatitis, and lip ulceration. | 62 | 9No Grade 4 adverse reactions were reported. | 26 | 3 |
 | Vomiting | 22 | 1 | 13 | 0 |
 | Diarrhea | 17 | 0 | 5 | 0 |
 | Constipation | 10 | 0 | 3 | 0 |
 | Infections |  |  |  |  |
-| Respiratory tract infectionIncludes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral | 31 | 3 | 23 | 0 |
-| GastroenteritisIncludes gastroenteritis, gastroenteritis viral, and gastrointestinal infection | 10 | 5 | 3 | 0 |
+| Respiratory tract infectionIncludes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral. | 31 | 3 | 23 | 0 |
+| GastroenteritisIncludes gastroenteritis, gastroenteritis viral, and gastrointestinal infection. | 10 | 5 | 3 | 0 |
 | Pharyngitis streptococcal | 10 | 0 | 3 | 0 |
 | General |  |  |  |  |
 | Pyrexia | 23 | 6 | 18 | 3 |
 | Fatigue | 14 | 0 | 3 | 0 |
 | Psychiatric |  |  |  |  |
-| Anxiety, aggression or other behavioral disturbanceIncludes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder | 21 | 5 | 3 | 0 |
+| Anxiety, aggression or other behavioral disturbanceIncludes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder. | 21 | 5 | 3 | 0 |
 | Skin and subcutaneous tissue |  |  |  |  |
-| RashIncludes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria | 21 | 0 | 8 | 0 |
+| RashIncludes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria. | 21 | 0 | 8 | 0 |
 | Acne | 10 | 0 | 5 | 0 |
-| Grading according to NCI CTCAE Version 3.0 |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
 
 Amenorrhea occurred in 17% of everolimus tablets-treated females aged 10 to 55 years (3 of 18).
 For this same group of everolimus tablets-treated females, the following menstrual abnormalities were reported: dysmenorrhea (6%), menorrhagia (6%), metrorrhagia (6%), and unspecified menstrual irregularity (6%).
@@ -253,4 +523,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hepatobiliary: Cholecystitis and cholelithiasis
 - Infections: Sepsis and septic shock
 - Nervous System: Reflex sympathetic dystrophy
-- Vascular: Arterial thrombotic events
+- Vascular: Arterial thrombotic events, lymphedema
+- Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall
