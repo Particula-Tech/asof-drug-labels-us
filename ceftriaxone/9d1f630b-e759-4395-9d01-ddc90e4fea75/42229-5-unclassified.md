@@ -78,9 +78,9 @@ ADD-Vantage® is a trademark of Hospira, Inc.
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-Revised: August 2020
+Revised: March 2022
 
-46274075
+46306804
 
 Manufactured by Sandoz GmbH for Hospira, Inc.
 

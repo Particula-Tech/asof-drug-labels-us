@@ -18,6 +18,16 @@ Ceftriaxone must not be administered simultaneously with calcium-containing IV s
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
 In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
+## Neurological Adverse Reactions
+
+Serious neurological adverse reactions have been reported during postmarketing surveillance with ceftriaxone use.
+These reactions include encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and non-convulsive status epilepticus (see ADVERSE REACTIONS).
+Some cases occurred in patients with severe renal impairment who did not receive appropriate dosage adjustment.
+However, in other cases, neurological adverse reactions occurred in patients receiving an appropriate dosage adjustment.
+The neurological adverse reactions were reversible and resolved after discontinuation.
+If neurological adverse reactions associated with ceftriaxone for injection therapy occur, discontinue ceftriaxone for injection and institute appropriate supportive measures.
+Make appropriate dosage adjustments in patients with severe renal impairment (see DOSAGE AND ADMINISTRATION).
+
 ## Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ceftriaxone, and may range in severity from mild diarrhea to fatal colitis.
@@ -38,6 +48,11 @@ Severe cases of hemolytic anemia, including fatalities, have been reported durin
 If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalosporin associated anemia should be considered and ceftriaxone stopped until the etiology is determined.
 
 # PRECAUTIONS
+
+Information for Patients
+
+- •Advise patients that neurological adverse reactions could occur with ceftriaxone for injection use.
+  Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and nonconvulsive status epilepticus, for immediate treatment, or discontinuation of ceftriaxone for injection (see WARNINGS and PRECAUTIONS).
 
 Development of Drug-resistant Bacteria
 

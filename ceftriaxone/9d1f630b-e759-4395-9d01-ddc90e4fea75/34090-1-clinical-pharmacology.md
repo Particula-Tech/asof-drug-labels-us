@@ -8,12 +8,12 @@ Ceftriaxone Plasma Concentrations after Single Dose Administration
 | Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.5 hour | 1 hour | 2 hour | 4 hour | 6 hour | 8 hour | 12 hour | 16 hour | 24 hour |  |
-| 0.5 g IV | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
+| 0.5 g IV* | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
 | 0.5 g IM250 mg/mL | 22 | 33 | 38 | 35 | 30 | 26 | 16 | ND | 5 |
 | 0.5 g IM 350 mg/mL | 20 | 32 | 38 | 34 | 31 | 24 | 16 | ND | 5 |
-| 1 g IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
+| 1 g IV* | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
 | 1 g IM | 40 | 68 | 76 | 68 | 56 | 44 | 29 | ND | ND |
-| 2 g lV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
+| 2 g IV* | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
 | ND = Not determined. |  |  |  |  |  |  |  |  |  |
 
 * IV doses were infused at a constant rate over 30 minutes.
@@ -70,7 +70,7 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 | Healthy Subjects | 5.8 to 8.7 | 0.58 to 1.45 | 5.8 to 13.5 |
 | Elderly Subjects(mean age, 70.5 year) | 8.9 | 0.83 | 10.7 |
 | Patients WithRenal Impairment |  |  |  |
-| Hemodialysis Patients (0 to 5 mL/min) | 14.7 | 0.65 | 13.7 |
+| Hemodialysis Patients (0 to 5 mL/min) * | 14.7 | 0.65 | 13.7 |
 | Severe (5 to 15 mL/min) | 15.7 | 0.56 | 12.5 |
 | Moderate (16 to 30 mL/min) | 11.4 | 0.72 | 11.8 |
 | Mild (31 to 60 mL/min) | 12.4 | 0.70 | 13.3 |
