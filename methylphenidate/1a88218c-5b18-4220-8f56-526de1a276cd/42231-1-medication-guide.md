@@ -150,16 +150,6 @@ Inactive Ingredients: butylated hydroxytoluene, carnauba wax, cellulose acetate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
-Janssen-Cilag Manufacturing, LLC
-
-Gurabo, Puerto Rico 00778 or
-
-Alza Corp.
-
-Vacaville, CA 95688
-
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
-
-Revised: December 2013
+Revised: April 2022
