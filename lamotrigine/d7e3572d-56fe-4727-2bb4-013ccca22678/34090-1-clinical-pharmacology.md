@@ -145,7 +145,7 @@ Summary of Drug Interactions with Lamotrigine
 | Olanzapine | ↔ | ↔e |  |  |  |  |  |
 | Oxcarbazepine | ↔ | ↔ |  |  |  |  |  |
 | 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |  |  |  |  |  |
-| Perampanel | Not assessed | ↔ |  |  |  |  |  |
+| Perampanel | Not assessed | ↔e |  |  |  |  |  |
 | Phenobarbital/primidone | ↔ | ↓ |  |  |  |  |  |
 | Phenytoin | ↔ | ↓ |  |  |  |  |  |
 | Pregabalin | ↔ | ↔ |  |  |  |  |  |
