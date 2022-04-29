@@ -5,7 +5,7 @@ Intentional or accidental over dosage with sotalol has resulted in death.
 Symptoms and Treatment of Over dosage
 
 The most common signs to be expected are bradycardia, congestive heart failure, hypotension, bronchospasm and hypoglycemia.
-In cases of massive intentional overdosage (2–16 grams) of sotalol the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
+In cases of massive intentional overdosage (2 to 16 grams) of sotalol the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
 If overdosage occurs, therapy with sotalol should be discontinued and the patient observed closely.
 Because of the lack of protein binding, hemodialysis is useful for reducing sotalol plasma concentrations.
 Patients should be carefully observed until QT intervals are normalized and the heart rate returns to levels >50 bpm.
