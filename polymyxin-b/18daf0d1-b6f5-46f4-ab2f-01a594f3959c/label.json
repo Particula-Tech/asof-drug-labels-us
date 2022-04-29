@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA060716"
+  ],
+  "inn": "polymyxin-b",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9941-01",
+    "0143-9941-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "polymyxin b sulfate",
+      "name": "Polymyxin B"
+    }
+  ],
+  "setid": "18daf0d1-b6f5-46f4-ab2f-01a594f3959c",
+  "source": "dailymed"
+}
