@@ -22,6 +22,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2019 MIDO:R5
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+Revised: 8/2021 ALP:MIDO:R1 3512/0
