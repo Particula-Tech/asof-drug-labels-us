@@ -38,7 +38,7 @@ Advise patients on the following after the implant removal procedure (if it is d
 Advise patients on the following throughout SUSVIMO treatment:
 
 - Do not drive or use machinery until the eye shield can be removed and visual function has recovered sufficiently [see Adverse Reactions (6.1)].
-- The SUSVIMO implant and/or implant related procedures have been associated with conjunctival reactions (bleb, erosion, retraction), vitreous hemorrhage, endophthalmitis, rhegmatogenous retinal detachment, the dislocation of the implant, and a temporary decrease in vision.
+- The SUSVIMO implant and/or implant related procedures have been associated with conjunctival reactions (bleb, erosion, retraction), vitreous hemorrhage, endophthalmitis, rhegmatogenous retinal detachment, the dislocation of the implant, septum dislodgement, and a temporary decrease in vision.
 - While the implant is in the eye, avoid rubbing the eye or touching the area as much as possible.
   However, if necessary to do so, make sure hands are cleaned prior to touching the eye.
 - Seek immediate care from an ophthalmologist if there are sudden changes in their vision (an increase in moving spots, the appearance of "spider webs", flashing lights, or a loss in vision), increasing eye pain, progressive vision loss, sensitivity to light, redness in the white of the eye, a sudden sensation that something is in their eye, or eye discharge or watering [see Warnings and Precautions (5)].

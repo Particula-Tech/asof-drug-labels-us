@@ -5,10 +5,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Endophthalmitis [see Warnings and Precautions (5.1)]
 - Rhegmatogenous Retinal Detachment [see Warnings and Precautions (5.2)]
 - Implant Dislocation [see Warnings and Precautions (5.3)]
-- Vitreous Hemorrhage [see Warnings and Precautions (5.4)]
-- Conjunctival Erosion or Retraction [see Warnings and Precautions (5.5)]
-- Conjunctival Bleb [see Warnings and Precautions (5.6)]
-- Postoperative Decrease in Visual Acuity [see Warnings and Precautions (5.7)]
+- Vitreous Hemorrhage [see Warnings and Precautions (5.5)]
+- Conjunctival Erosion or Retraction [see Warnings and Precautions (5.6)]
+- Conjunctival Bleb [see Warnings and Precautions (5.7)]
+- Postoperative Decrease in Visual Acuity [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
