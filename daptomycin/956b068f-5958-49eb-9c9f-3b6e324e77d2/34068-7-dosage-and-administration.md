@@ -74,8 +74,8 @@ The dosage regimen for daptomycin for injection in pediatric patients with renal
 
 ## 2.7 Preparation and Administration of Daptomycin for Injection
 
-There are two formulations of daptomycin that have differences concerning storage and reconstitution.
-Carefully follow the reconstitution and storage procedures in labeling.
+There are other formulations of daptomycin that have differences concerning reconstitution and storage.
+Carefully follow the reconstitution and storage procedures described in this labeling.
 
 Reconstitution of Daptomycin for Injection Vial
 
@@ -126,14 +126,14 @@ Discard unused portions of daptomycin for injection.
 
 In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acceptable Intravenous Diluents
 
-Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2 to 8°C (36 to 46°F).
+Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2°C to 8°C (36 to 46°F).
 
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
 ## 2.8 Compatible Intravenous Solutions
 
-Daptomycin for Injection is compatible with 0.9% sodium chloride injection and lactated Ringer's injection.
+Daptomycin for Injection is compatible with 0.9% sodium chloride injection and Lactated Ringer's injection.
 
 ## 2.9 Incompatibilities
 

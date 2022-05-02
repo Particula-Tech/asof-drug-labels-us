@@ -2,13 +2,13 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-- Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
-- Tubulointerstitial nephritis [see Warnings and Precautions (5.5)]
-- Peripheral neuropathy [see Warnings and Precautions (5.6)]
-- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+- Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
+- Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
+- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -171,7 +171,7 @@ Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 The safety of daptomycin was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous daptomycin and 133 patients treated with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
 The doses given by age group were as follows: 10mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
-Patients treated with daptomycin were (51%) male, (49%) female and (46 %) Caucasian and (32 %) Asian.
+Patients treated with daptomycin were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
 
 Adverse Reactions Leading to Discontinuation
 
@@ -206,7 +206,7 @@ The safety of daptomycin was evaluated in one clinical trial (in S. aureus bacte
 Patients were given age-dependent doses once daily for a treatment period of up to 42 days (mean duration of IV treatment was 12 days).
 The doses by age group were as follows: 12 mg/kg for 1 to < 6 years, 9 mg/kg for 7 to 11 years and 7 mg/kg for 12 to 17 years of age [see Clinical Studies (14).
 Patients treated with daptomycin were (69%) male and (31%) female.
-No patients 1 to 2 years of age were enrolled.
+No patients 1 to < 2 years of age were enrolled.
 
 Adverse Reactions Leading to Discontinuation
 
@@ -218,7 +218,7 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
 
-| Daptomycin N=55 n(%) | Comparator Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) N=26 n(%) |  |
+| Daptomycin N=55 n(%) | Comparator N=26 n(%) |  |
 | --- | --- | --- |
 | Adverse Reaction |  |  |
 | Gastrointestinal disorders |  |  |
@@ -235,7 +235,7 @@ Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4) and Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)]
 
@@ -247,7 +247,7 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia,
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)].
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)].
 
 Gastrointestinal Disorders: nausea, vomiting
 
