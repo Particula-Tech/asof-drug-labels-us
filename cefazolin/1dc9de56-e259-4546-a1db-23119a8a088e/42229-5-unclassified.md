@@ -5,8 +5,8 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
 
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL) S.A.
-Estrada do Rio da Mó, nº8, 8A and 8B – Fervença 2705-906 Terrugem SNT PORTUGAL
+Estrada do Rio da Mó, 8, 8A e 8B – Fervença 2705-906 Terrugem SNT PORTUGAL
 
-Distributed by: WEST-WARD A HIKMA COMPANY EATONTOWN, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised: September 2018 PIN001-WES/7
+Revised: June 2020 PIN001-WES/8
