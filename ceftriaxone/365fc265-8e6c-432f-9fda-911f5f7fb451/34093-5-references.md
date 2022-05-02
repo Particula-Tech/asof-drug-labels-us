@@ -7,9 +7,9 @@
 Flagyl® is a registered trademark of G.D.
 Searle & Co.
 
-Revised: July 2020
+Revised: March 2022
 
-46274072
+46307066
 
 Manufactured by Sandoz GmbH for
 

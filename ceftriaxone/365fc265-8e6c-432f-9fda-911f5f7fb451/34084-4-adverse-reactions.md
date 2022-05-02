@@ -91,9 +91,9 @@ Hematological Changes
 
 Isolated cases of agranulocytosis (<500/mm3) have been reported, most of them after 10 days of treatment and following total doses of 20 g or more.
 
-Nervous System Disorders
+Neurologic
 
-Convulsion
+Encephalopathy, seizures, myoclonus, and non-convulsive status epilepticus (see WARNINGS and PRECAUTIONS).
 
 Other, Adverse Reactions
 

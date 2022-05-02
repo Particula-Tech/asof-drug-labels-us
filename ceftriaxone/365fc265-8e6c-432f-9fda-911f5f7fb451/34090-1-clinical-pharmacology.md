@@ -52,12 +52,12 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients with Men
 |  | 50 mg/kg IV | 75 mg/kg IV |
 | --- | --- | --- |
 | Maximum Plasma Concentrations (mcg/mL) | 216 | 275 |
-| Elimination Half-life (hour) | 4.6 | 4.3 |
-| Plasma Clearance (mL/hour/kg) | 49 | 60 |
+| Elimination Half-life (hr) | 4.6 | 4.3 |
+| Plasma Clearance (mL/hr/kg) | 49 | 60 |
 | Volume of Distribution (mL/kg) | 338 | 373 |
 | CSF Concentration –inflamed meninges (mcg/mL) | 5.6 | 6.4 |
 | Range (mcg/mL) | 1.3 to 18.5 | 1.3 to 44 |
-| Time after dose (hour) | 3.7 (± 1.6) | 3.3 (± 1.4) |
+| Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
 
 Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 g per day.
 Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis; in six of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced.
