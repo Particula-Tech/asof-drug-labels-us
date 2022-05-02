@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 25 mg
+# PRINCIPAL DISPLAY PANEL – 25 mg
 
-NDC 0378-0018-77
+NDC 0378-0018-01
 
 Metoprolol Tartrate Tablets, USP 25 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 25 mg
 
@@ -21,19 +21,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM0018MM
+3241/1
+
+RALP0018A1
 
 # PRINCIPAL DISPLAY PANEL – 37.5 mg
 
-NDC 0378-4593-77
+NDC 0378-4593-01
 
 Metoprolol Tartrate Tablets, USP 37.5 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 37.5 mg
 
@@ -50,19 +52,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM4593MM
+3352/0
 
-PRINCIPAL DISPLAY PANEL - 50 mg
+RALP4593A
 
-NDC 0378-0032-77
+# PRINCIPAL DISPLAY PANEL – 50 mg
+
+NDC 0378-0032-01
 
 Metoprolol Tartrate Tablets, USP 50 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 50 mg
 
@@ -79,19 +83,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM0032MM
+3243/1
 
-# PRINCIPAL DISPLAY PANEL - 75 mg
+RALP0032A1
 
-NDC 0378-4594-77
+# PRINCIPAL DISPLAY PANEL – 75 mg
+
+NDC 0378-4594-01
 
 Metoprolol Tartrate Tablets, USP 75 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 75 mg
 
@@ -108,19 +114,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM4594MM
+3353/0
 
-PRINCIPAL DISPLAY PANEL - 100 mg
+RALP4594A
 
-NDC 0378-0047-77
+# PRINCIPAL DISPLAY PANEL – 100 mg
+
+NDC 0378-0047-01
 
 Metoprolol Tartrate Tablets, USP 100 mg
 
-Rx only 90 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Metoprolol tartrate, USP 100 mg
 
@@ -137,8 +145,10 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM0047MM
+3245/1
+
+RALP0047A1

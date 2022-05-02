@@ -97,7 +97,7 @@ The elimination half-life of metoprolol is considerably prolonged, depending on 
 ### Hypertension
 
 In controlled clinical studies, metoprolol has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100 mg to 450 mg daily.
-In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
+In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
 ### Angina Pectoris
 

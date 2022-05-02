@@ -21,8 +21,8 @@ Chronically administered beta-blocking therapy should not be routinely withdrawn
 
 ## Bradycardia
 
-Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of metoprolol.
-Patients with first-degree atrioventricular block sinus node dysfunction or conduction disorders may be at increased risk.
+Bradycardia, including sinus pause, heart block and cardiac arrest have occurred with the use of metoprolol.
+Patients with first-degree atrioventricular block, sinus node dysfunction or conduction disorders may be at increased risk.
 Monitor heart rate and rhythm in patients receiving metoprolol.
 If severe bradycardia develops, reduce or stop metoprolol.
 
