@@ -53,8 +53,10 @@ Reclast® is a registered trademark of Novartis Pharmaceutical Corporation.
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICALS CORP. A HIKMA COMPANY Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Revised: January 2019
+Berkeley Heights, NJ 07922
 
-PIN307-WES/7
+Revised: January 2021
+
+PIN307-WES/9

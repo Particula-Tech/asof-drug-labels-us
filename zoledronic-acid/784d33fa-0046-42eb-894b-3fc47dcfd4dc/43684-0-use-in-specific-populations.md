@@ -4,15 +4,14 @@
 
 Risk Summary
 
-Based on findings from animal studies and its mechanism of action, zoledronic acid in pregnant women.
-Zoledronic acid can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Based on findings from animal studies and its mechanism of action, zoledronic acid can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women to inform the drug-associated risk.
 In animal reproduction studies, administration of zoledronic acid to pregnant rats during organogenesis resulted in fetal malformations and embryo-fetal lethality at maternal exposures that were ≥ 2.4 times the human clinical exposure based on AUC (see Data).
 Bisphosphonates, such as zoledronic acid, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major births defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
 
 Data
 
@@ -30,7 +29,7 @@ Other adverse fetal effects observed in the high-dose group included reduced len
 Skeletal variations were also observed in the low-dose group at 0.1 mg/kg/day (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Signs of maternal toxicity were observed in the high-dose group and included reduced body weights and food consumption, indicating that maximal exposure levels were achieved in this study.
 
-In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (greater than or equal to 0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal effects were observed.
+In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (less than or equal to 0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal effects were observed.
 Maternal mortality and abortion occurred in all treatment groups (at doses greater than or equal to 0.05 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas).
 Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia.
 
@@ -39,7 +38,7 @@ Adverse maternal effects were associated with, and may have been caused by, drug
 Risk Summary
 
 After administration of Zoledronic acid, it is not known whether zoledronic acid is present in human milk, or whether it affects milk production or the breastfed child.
-Zoledronic acid binds to bone long term and may be released over weeks to years.
+Zoledronic acid binds to bone long term and may be released over periods of weeks to years.
 Because of the potential for serious adverse reactions in a breastfed child, advise a lactating woman not to breastfeed during and after Zoledronic acid treatment.
 
 ## 8.3 Females and Males of Reproductive Potential
