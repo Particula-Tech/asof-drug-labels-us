@@ -1,4 +1,4 @@
-Manufactured by: Tulex Pharmaceuticals, Inc. 5 Cedarbrook Dr Cranbury Township, NJ 08512 USA
+EPRONTIA is a trademark of Azurity Pharmaceuticals, Inc.
 
 Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
 
