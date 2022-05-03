@@ -8,6 +8,9 @@ The treatment of severe Mazzotti reactions has not been subjected to controlled 
 Oral hydration, recumbency, intravenous normal saline, and/or parenteral corticosteroids have been used to treat postural hypotension.
 Antihistamines and/or aspirin have been used for most mild to moderate cases.
 
+Neurotoxicity with the use of ivermectin, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death, has been reported in patients without onchocerciasis or in patients with onchocerciasis in the absence of Loa loa infection.
+These reactions have generally resolved with supportive care and the discontinuation of ivermectin.
+
 # PRECAUTIONS
 
 ## General
@@ -43,9 +46,7 @@ Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay o
 
 Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m2/day basis).
 
-## Pregnancy
-
-### Teratogenic Effects
+## Pregnancy, Teratogenic Effects
 
 Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m2/day basis).
 Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits.

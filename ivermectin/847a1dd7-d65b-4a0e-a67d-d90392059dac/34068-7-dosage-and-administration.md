@@ -12,12 +12,12 @@ Table 1: Dosage Guidelines for Ivermectin Tablets for Strongyloidiasis
 
 | Body Weight (kg) | Single Oral Dose Number of 3-mg Tablets |
 | --- | --- |
-| 15 to 24 | 1 tablet |
-| 25 to 35 | 2 tablets |
-| 36 to 50 | 3 tablets |
-| 51 to 65 | 4 tablets |
-| 66 to 79 | 5 tablets |
-| greater than or equal to 80 | 200 mcg/kg |
+| 15-24 | 1 tablet |
+| 25-35 | 2 tablets |
+| 36-50 | 3 tablets |
+| 51-65 | 4 tablets |
+| 66-79 | 5 tablets |
+| ≥ 80 | 200 mcg/kg |
 
 ## Onchocerciasis
 
@@ -31,8 +31,8 @@ Table 2: Dosage Guidelines for Ivermectin Tablets for Onchocerciasis
 
 | Body Weight (kg) | Single Oral Dose Number of 3-mg Tablets |
 | --- | --- |
-| 15 to 25 | 1 tablet |
-| 26 to 44 | 2 tablets |
-| 45 to 64 | 3 tablets |
-| 65 to 84 | 4 tablets |
-| greater than or equal to 85 | 150 mcg/kg |
+| 15-25 | 1 tablet |
+| 26-44 | 2 tablets |
+| 45-64 | 3 tablets |
+| 65-84 | 4 tablets |
+| ≥ 85 | 150 mcg/kg |

@@ -5,6 +5,7 @@ Ivermectin is indicated for the treatment of the following infections:
 ## Strongyloidiasis of the intestinal tract
 
 Ivermectin is indicated for the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis.
+
 This indication is based on clinical studies of both comparative and open-label designs, in which 64-100% of infected patients were cured following a single 200-mcg/kg dose of ivermectin (See CLINICAL PHARMACOLOGY, Clinical Studies).
 
 ## Onchocerciasis
