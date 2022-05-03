@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Moxifloxacin ophthalmic solution USP, 0.5% is indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms:
+Moxifloxacin ophthalmic solution, 0.5% is indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms:
 
 Corynebacterium species*
 
