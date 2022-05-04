@@ -40,7 +40,7 @@ Renal Impairment: A single 20 mg oral dose of pravastatin was administered to 24
 No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).
 Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmax values, respectively, and a 0.61 hour shorter t½ for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).
 
-Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18 fold in cirrhotic patients and 5-fold in healthy subjects.
+Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18-fold in cirrhotic patients and 5-fold in healthy subjects.
 Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Warnings and Precautions (5.3)].
 
 Geriatric: In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).
@@ -55,7 +55,7 @@ Drug-Drug Interactions
 
 Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
-| Coadministered Drug and Dosing Regimen |  | Pravastatin |  |
+| Coadministered Drug and Dosing Regimen | Pravastatin |  |  |
 | --- | --- | --- | --- |
 | Dose (mg) | Change in AUC | Change in Cmax |  |
 | Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
