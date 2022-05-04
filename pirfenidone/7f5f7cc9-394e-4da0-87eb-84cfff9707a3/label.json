@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212560"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-8085-32",
+    "0781-8086-92"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pirfenidone",
+      "name": "Pirfenidone"
+    }
+  ],
+  "setid": "7f5f7cc9-394e-4da0-87eb-84cfff9707a3",
+  "source": "dailymed"
+}
