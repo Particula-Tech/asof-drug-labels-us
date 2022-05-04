@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA215398"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-2088-6"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "bexarotene",
+      "name": "Bexarotene"
+    }
+  ],
+  "setid": "2c21f361-e3d1-45a5-a6e7-df8164e3f90d",
+  "source": "dailymed"
+}
