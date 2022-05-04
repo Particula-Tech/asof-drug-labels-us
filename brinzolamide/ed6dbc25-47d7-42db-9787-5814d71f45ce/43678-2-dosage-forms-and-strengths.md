@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Solution containing 10 mg/mL brinzolamide.
+Ophthalmic suspension containing brinzolamide 10 mg/mL (1%).
