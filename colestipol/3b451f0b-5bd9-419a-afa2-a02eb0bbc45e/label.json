@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215223"
+  ],
+  "inn": "colestipol",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1653-5",
+    "70771-1653-7"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "colestipol hydrochloride",
+      "name": "Colestipol hydrochloride"
+    }
+  ],
+  "setid": "3b451f0b-5bd9-419a-afa2-a02eb0bbc45e",
+  "source": "dailymed"
+}
