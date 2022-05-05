@@ -12,7 +12,7 @@ The intensity of action is directly related to the degree of benzodiazepine rece
 Intravenous or intramuscular administration of the recommended dose of 2 mg to 4 mg of lorazepam injection to adult patients is followed by dose-related effects of sedation (sleepiness or drowsiness), relief of preoperative anxiety, and lack of recall of events related to the day of surgery in the majority of patients.
 The clinical sedation (sleepiness or drowsiness) thus noted is such that the majority of patients are able to respond to simple instructions whether they give the appearance of being awake or asleep.
 The lack of recall is relative rather than absolute, as determined under conditions of careful patient questioning and testing, using props designed to enhance recall.
-The majority of patients under these reinforced conditions had difficulty recalling preoperative events or recognizing props from before surgery.
+The majority of patients under these reinforced conditions had difficulty recalling perioperative events or recognizing props from before surgery.
 The lack of recall and recognition was optimum within 2 hours following intramuscular administration and 15 to 20 minutes after intravenous injection.
 
 The intended effects of the recommended adult dose of lorazepam injection usually last 6 to 8 hours.

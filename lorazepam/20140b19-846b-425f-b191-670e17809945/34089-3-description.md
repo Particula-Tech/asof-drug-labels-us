@@ -7,4 +7,4 @@ No. is [846-49-1].
 The structural formula is:
 
 Lorazepam is a nearly white powder almost insoluble in water.
-Each mL of sterile injection contains either 2.0 or 4.0 mg of lorazepam, 0.18 mL polyethylene glycol 400 in propylene glycol with 2.0% benzyl alcohol as preservative.
+Each mL of sterile injection contains either 2 or 4 mg of lorazepam, 0.18 mL polyethylene glycol 400 in propylene glycol with 2% benzyl alcohol as preservative.
