@@ -15,5 +15,5 @@ Desvenlafaxine extended-release tablets are formulated as an extended-release ta
 
 Each tablet contains 38 mg, 76 mg or 152 mg of desvenlafaxine succinate equivalent to 25 mg, 50 mg or 100 mg of desvenlafaxine, respectively.
 
-Inactive ingredients for the 25 mg, 50 mg and 100 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate, polyethylene oxide and colloidal silicon dioxide and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxide yellow and iron oxide red.
-The imprinting ink contains hypromellose, propylene glycol and iron oxide black.
+Inactive ingredients for the 25 mg, 50 mg and 100 mg tablet consist of colloidal silicon dioxide, hypromellose 2208, magnesium stearate, microcrystalline cellulose, polyethylene oxide, talc and film coating, which consists of iron oxide red, iron oxide yellow, polyethylene glycol 3350, polyvinyl alcohol-part hydrolyzed, talc and titanium dioxide.
+The imprinting ink contains ammonium hydroxide, iron oxide black, propylene glycol and shellac glaze.

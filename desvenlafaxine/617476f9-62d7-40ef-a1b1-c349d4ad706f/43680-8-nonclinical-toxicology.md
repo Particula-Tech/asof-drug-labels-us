@@ -17,7 +17,7 @@ Mutagenesis
 Desvenlafaxine was not mutagenic in the in vitro bacterial mutation assay (Ames test) and was not clastogenic in an in vitro chromosome aberration assay in cultured CHO cells, an in vivo mouse micronucleus assay, or an in vivo chromosome aberration assay in rats.
 Additionally, desvenlafaxine was not genotoxic in the in vitro CHO mammalian cell forward mutation assay and was negative in the in vitro BALB/c-3T3 mouse embryo cell transformation assay.
 
-Impairment of fertility
+Impairment of Fertility
 
 When desvenlafaxine succinate was administered orally to male and female rats, fertility was reduced at the high dose of 300 mg/kg/day, which is 10 (males) and 19 (females) times the AUC exposure at an adult human dose of 100 mg per day.
 There was no effect on fertility at 100 mg/kg/day, which is 3 (males) or 5 (females) times the AUC exposure at an adult human dose of 100 mg per day.

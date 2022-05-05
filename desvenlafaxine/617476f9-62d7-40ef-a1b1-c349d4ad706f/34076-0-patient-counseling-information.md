@@ -22,18 +22,23 @@ Advise patients that they should have regular monitoring of blood pressure when 
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of desvenlafaxine extended-release tablets with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
+Advise patients to inform their healthcare providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 
-Advise patients, their families, and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
+Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
 
-Discontinuation
+Discontinuation Syndrome
 
 Advise patients not to abruptly stop taking desvenlafaxine extended-release tablets without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine extended-release tablets, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Switching Patients From Other Antidepressants to Desvenlafaxine Extended-Release Tablets
+Sexual Dysfunction
+
+Advise patients that use of desvenlafaxine extended-release tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+
+Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine extended-release tablets.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
@@ -54,16 +59,15 @@ Pregnancy
 
 Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to desvenlafaxine extended-release tablets during pregnancy [see Use in Specific Populations (8.1)].
-[see Use in Specific Populations (8.1)].
 
 Residual Inert Matrix Tablet
 
 Patients receiving desvenlafaxine extended-release tablets may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 10/2019
+B 3/2022

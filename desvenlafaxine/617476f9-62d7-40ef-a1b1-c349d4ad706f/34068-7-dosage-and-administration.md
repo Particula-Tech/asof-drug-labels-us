@@ -16,7 +16,7 @@ When discontinuing therapy, gradual dose reduction is recommended whenever possi
 ## 2.2 Dosage Recommendations for Patients with Renal Impairment
 
 The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [ClCr] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
-The maximum recommended dose in patients with severe renal impairment (ClCr15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, ClCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
+The maximum recommended dose in patients with severe renal impairment (ClCr 15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, ClCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosage Recommendations for Patients with Hepatic Impairment
@@ -33,14 +33,15 @@ Patients should be periodically reassessed to determine the need for continued t
 ## 2.5 Discontinuing Desvenlafaxine Extended-Release Tablets
 
 Adverse reactions may occur upon discontinuation of desvenlafaxine extended-release tablets [see Warnings and Precautions (5.7)].
-Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly whenever possible.
+Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly when discontinuing therapy with desvenlafaxine extended-release tablets.
+In some patients, discontinuation may need to occur over a period of several months.
 
-## 2.6 Switching Patients From Other Antidepressants to Desvenlafaxine Extended-Release Tablets
+## 2.6 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine extended-release tablets.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
 
-## 2.7 Switching Patients to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.7 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with desvenlafaxine extended-release tablets.
 Conversely, at least 7 days should be allowed after stopping desvenlafaxine extended-release tablets before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].

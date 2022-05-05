@@ -7,7 +7,7 @@ Table 8: Clinically Important Drug Interactions with Desvenlafaxine Extended-Rel
 | Monoamine Oxidase Inhibitors (MAOI) |  |
 | --- | --- |
 | Clinical Impact | The concomitant use of SSRIs and SNRIs including desvenlafaxine extended-release tablets with MAOIs increases the risk of serotonin syndrome. |
-| Intervention | Concomitant use of desvenlafaxine extended-release tablets is contraindicated: • With an MAOI intended to treat psychiatric disorders or within 7 days of stopping treatment with desvenlafaxine extended-release tablets. • Within 14 days of stopping an MAOI intended to treat psychiatric disorders. • In a patient who is being treated with linezolid or intravenous methylene blue. [see Dosage and Administration (2.7), Contraindications (4) and Warnings and Precautions (5.2)]. |
+| Intervention | Concomitant use of desvenlafaxine extended-release tablets is contraindicated: With an MAOI intended to treat psychiatric disorders or within 7 days of stopping treatment with desvenlafaxine extended-release tablets. Within 14 days of stopping an MAOI intended to treat psychiatric disorders. In a patient who is being treated with linezolid or intravenous methylene blue. [see Dosage and Administration (2.7), Contraindications (4) and Warnings and Precautions (5.2)]. |
 | Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Other Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of desvenlafaxine extended-release tablets with other serotonergic drugs increases the risk of serotonin syndrome. |
@@ -24,7 +24,7 @@ Table 8: Clinically Important Drug Interactions with Desvenlafaxine Extended-Rel
 
 ## 7.2 Drugs Having No Clinically Important Interactions with Desvenlafaxine Extended-Release Tablets
 
-Based on pharmacokinetic studies, no dosage adjustment is required for drugs that are mainly metabolized by CYP3A4 (e.g., midazolam), or for drugs that are metabolized by both CYP2D6 and CYP3A4 (e.g., tamoxifen, aripiprazole), when administered concomitantly with desvenlafaxine extended-release tablets[see Clinical Pharmacology (12.3)].
+Based on pharmacokinetic studies, no dosage adjustment is required for drugs that are mainly metabolized by CYP3A4 (e.g., midazolam), or for drugs that are metabolized by both CYP2D6 and CYP3A4 (e.g., tamoxifen, aripiprazole), when administered concomitantly with desvenlafaxine extended-release tablets [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Alcohol
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Desvenlafaxine Extended-Release Tablets are available as follows:
+Desvenlafaxine extended-release tablets are available as follows:
 
 25 mg, light pink, square, pyramid tablets imprinted with “A112” in black ink on one side
 
