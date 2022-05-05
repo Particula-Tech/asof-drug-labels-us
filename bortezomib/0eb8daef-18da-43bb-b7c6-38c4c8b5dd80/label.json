@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210204"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1411-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "BORTEZOMIB"
+    }
+  ],
+  "setid": "0eb8daef-18da-43bb-b7c6-38c4c8b5dd80",
+  "source": "dailymed"
+}
