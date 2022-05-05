@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209659"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-821-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "Bortezomib"
+    }
+  ],
+  "setid": "3494c357-a692-4e55-89e1-93532b0baef7",
+  "source": "dailymed"
+}
