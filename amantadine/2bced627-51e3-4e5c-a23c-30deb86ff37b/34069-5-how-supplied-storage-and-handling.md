@@ -11,6 +11,13 @@ Round, biconvex, white coated tablets, imprinted on one side with a black “VP�
 - Bottles of 30: NDC 68025-075-30
 - Bottles of 90: NDC 68025-075-90
 
+161 mg tablets:
+
+Round, biconvex, orange coated tablets, imprinted on one side with a black "VP" over "021"
+
+- Bottles of 30: NDC 68025-021-30
+- Bottles of 90: NDC 68025-021-90
+
 193 mg tablets:
 
 Round, biconvex, green coated tabled, imprinted on one side with a black “VP” over “076”

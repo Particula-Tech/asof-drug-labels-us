@@ -19,7 +19,7 @@ Amantadine can exacerbate psychiatric symptoms in patients with a history of psy
 Monitor patients for depression, including suicidal ideation or behavior.
 Prescribers should consider whether the benefits outweigh the risks of treatment with OSMOLEX ER in patients with a history of suicidality or depression.
 
-## 5.3 Hallucinations/Psychotic Behavior
+## 5.3 Hallucination/Psychotic Behavior
 
 Patients with a major psychotic disorder should ordinarily not be treated with OSMOLEX ER because of the risk of exacerbating psychosis.
 Treatment with amantadine or abrupt withdrawal can cause confusion, psychosis, personality changes, agitation, aggressive behavior, hallucinations, paranoia, other psychotic or paranoia reactions [see Warnings and Precautions (5.5)].

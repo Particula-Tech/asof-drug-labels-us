@@ -1,10 +1,10 @@
 # PATIENT INFORMATION
 
-OSMOLEX ER (Oz-mole-x ee-are)
+OSMOLEX ® ER (Oz-mole-x ee-are)
 
 (amantadine) extended release tablets
 
-What is OSMOLEX ER?
+What is OSMOLEX ® ER?
 
 OSMOLEX ER is a prescription medicine used to treat:
 
@@ -13,9 +13,9 @@ OSMOLEX ER is a prescription medicine used to treat:
 
 It is not known if OSMOLEX ER is safe and effective in children.
 
-Do not take OSMOLEX ER if you have severe kidney problems.
+Do not take OSMOLEX ® ER if you have severe kidney problems.
 
-Before taking OSMOLEX ER, tell your doctor about all of your medical conditions, including if
+Before taking OSMOLEX ® ER, tell your doctor about all of your medical conditions, including if
 
 you:
 
@@ -40,7 +40,7 @@ Especially tell your doctor if you:
 - are planning to receive a flu (influenza) vaccine.
   You may receive the flu vaccine shot but should not get a live flu vaccine (nasal spray) while taking OSMOLEX ER.
 
-How should I take OSMOLEX ER?
+How should I take OSMOLEX ® ER?
 
 - Take OSMOLEX ER exactly as your doctor tells you to.
 - Start OSMOLEX ER with 1 tablet in the morning.
@@ -57,16 +57,16 @@ How should I take OSMOLEX ER?
 - The OSMOLEX ER tablet shell does not dissolve completely even after all the drug has been released.
   The tablet shell may be seen in your stool.
 
-What should I avoid while taking OSMOLEX ER?
+What should I avoid while taking OSMOLEX ® ER?
 
 - Do not drive, operate machinery, or do other dangerous activities until you know how OSMOLEX ER affects you.
   If you have become sleepy during the day or have fallen asleep while doing normal daily activities during treatment with OSMOLEX ER, do not drive, operate machinery, or do other dangerous activities that could cause harm if you become sleepy.
 - You should not drink alcohol during treatment with OSMOLEX ER.
   Drinking alcohol can increase your chances of getting serious side effects.
 
-What are the possible side effects of OSMOLEX ER?
+What are the possible side effects of OSMOLEX ® ER?
 
-OSMOLEX ER may cause serious side effects, including:
+OSMOLEX ® ER may cause serious side effects, including:
 
 - falling asleep during normal activities.
   You may fall asleep while doing normal activities such as driving a car, talking, or eating while taking OSMOLEX ER.
@@ -90,19 +90,19 @@ OSMOLEX ER may cause serious side effects, including:
   Examples of this are strong urges to gamble, increased sexual urges, strong urges to spend money, binge eating and the inability to control these urges.
   If you notice or your family notices that you are developing any unusual behaviors, talk to your doctor.
 
-The most common side effects of OSMOLEX ER include nausea, dizziness, lightheadedness, and trouble sleeping (insomnia).
+The most common side effects of OSMOLEX ® ER include nausea, dizziness, lightheadedness, and trouble sleeping (insomnia).
 
 These are not all the possible side effects of OSMOLEX ER.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Vertical Pharmaceuticals, LLC at 1-877-482-3788 or FDA at 1-800-FDA-1088.
 
-How should I store OSMOLEX ER?
+How should I store OSMOLEX ® ER?
 
 - Store OSMOLEX ER at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep OSMOLEX ER and all medicines out of the reach of children.
+Keep OSMOLEX ® ER and all medicines out of the reach of children.
 
-General information about the safe and effective use of OSMOLEX ER.
+General information about the safe and effective use of OSMOLEX ® ER.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use OSMOLEX ER for a condition for which it was not prescribed.
@@ -110,12 +110,13 @@ Do not give OSMOLEX ER to other people, even if they have the same symptoms that
 It may harm them.
 You can ask your pharmacist or doctor for information about OSMOLEX ER that is written for health professionals.
 
-What are the ingredients in OSMOLEX ER?
+What are the ingredients in OSMOLEX ® ER?
 
 Active ingredient: amantadine hydrochloride
 
 Inactive ingredients: cellulose acetate, colloidal silicon dioxide, copovidone, D&C Yellow No. 10, FD&C Yellow No. 6, ferrosoferric oxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, propylene glycol, sodium chloride, and titanium dioxide.
 OSMOLEX ER 129 mg tablets also contain lactose monohydrate and triacetin.
+OSMOLEX ER 161 mg tablets also contain ferric oxide yellow and red iron oxide.
 OSMOLEX ER 193 mg tablets also contain FD&C Blue No. 2 and FD&C Red No. 40.
 OSMOLEX ER 258 mg tablets also contain FD&C Blue No. 1, FD&C Red No. 40, and ferric oxide yellow.
 
@@ -126,4 +127,4 @@ For more information, go to www.OSMOLEX-ER.com or call 1-877-482-3788.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued: 10/2019
+Issued: 04/2020
