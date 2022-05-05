@@ -6,9 +6,9 @@ INCRUSE ELLIPTA
 
 (umeclidinium inhalation powder)
 
-Rx Only
-
 62.5 mcg
+
+Rx Only
 
 FOR ORAL INHALATION ONLY
 
@@ -18,7 +18,8 @@ Each blister contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose 
 
 Made in Singapore
 
-©2017 GSK group of companies or its licensor
+©2022 GSK group of companies or its licensor
 
-1. 10000000147473 Rev.
-   9/17
+1. 62000000074512 Rev.
+   1/22
+2. 
