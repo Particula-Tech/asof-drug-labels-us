@@ -11,7 +11,7 @@ Prophylaxis of P. falciparum Malaria
 
 In 3 clinical trials (2 of which were placebo-controlled) 381 adults (mean age: 31 years) received MALARONE for the prophylaxis of malaria; the majority of adults were black (90%) and 79% were male.
 In a clinical trial for the prophylaxis of malaria, 125 pediatric patients (mean age: 9 years) received MALARONE; all subjects were black and 52% were male.
-Adverse experiences reported in adults and pediatric patients, considered attributable to therapy occurred in similar proportions of subjects receiving MALARONE or placebo in all studies.
+Adverse experiences reported in adults and pediatric patients considered attributable to therapy occurred in similar proportions of subjects receiving MALARONE or placebo in all studies.
 Prophylaxis with MALARONE was discontinued prematurely due to a treatment-related adverse experience in 3 of 381 (0.8%) adults and 0 of 125 pediatric patients.
 
 In a placebo-controlled study of malaria prophylaxis with MALARONE involving 330 pediatric patients (aged 4 to 14 years) in Gabon, a malaria-endemic area, the safety profile of MALARONE was consistent with that observed in the earlier prophylactic studies in adults and pediatric patients.

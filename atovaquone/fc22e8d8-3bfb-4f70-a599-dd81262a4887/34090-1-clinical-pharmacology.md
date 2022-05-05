@@ -42,7 +42,7 @@ Metabolism: In a study where 14C-labeled atovaquone was administered to healthy 
 There was little or no excretion of atovaquone in the urine (less than 0.6%).
 There is indirect evidence that atovaquone may undergo limited metabolism; however, a specific metabolite has not been identified.
 Between 40% to 60% of proguanil is excreted by the kidneys.
-Proguanil is metabolized to cycloguanil (primarily via cytochrome P450 2C19 [CYP2C19] and 4-chlorophenylbiguanide.
+Proguanil is metabolized to cycloguanil (primarily via cytochrome P450 2C19 [CYP2C19]) and 4-chlorophenylbiguanide.
 
 Excretion: A population pharmacokinetic analysis in adult and pediatric patients showed that the apparent clearance (CL/F) of both atovaquone and proguanil is related to body weight.
 The values CL/F for both atovaquone and proguanil in subjects with body weight ≥11 kg are shown in Table 4.
@@ -69,7 +69,7 @@ In clinical trials, plasma trough concentrations of atovaquone and proguanil in 
 
 Geriatric Patients: In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 elderly subjects (aged 65 to 79 years) with those of 13 younger subjects (aged 30 to 45 years).
 In the elderly subjects, the extent of systemic exposure (AUC) of cycloguanil was increased (point estimate: 2.36, 90% CI: 1.70, 3.28).
-Tmax was longer in elderly subjects (median: 8 hours) compared with younger subjects (median 4 hours) and average elimination half-life was longer in elderly subjects (mean: 14.9 hours) compared with younger subjects (mean 8.3 hours).
+Tmax was longer in elderly subjects (median: 8 hours) compared with younger subjects (median: 4 hours) and average elimination half-life was longer in elderly subjects (mean: 14.9 hours) compared with younger subjects (mean: 8.3 hours).
 
 Patients with Renal Impairment: In patients with mild renal impairment (creatinine clearance 50 to 80 mL/min), oral clearance and/or AUC data for atovaquone, proguanil, and cycloguanil are within the range of values observed in patients with normal renal function (creatinine clearance >80 mL/min).
 In patients with moderate renal impairment (creatinine clearance 30 to 50 mL/min), mean oral clearance for proguanil was reduced by approximately 35% compared with patients with normal renal function (creatinine clearance >80 mL/min) and the oral clearance of atovaquone was comparable between patients with normal renal function and mild renal impairment.

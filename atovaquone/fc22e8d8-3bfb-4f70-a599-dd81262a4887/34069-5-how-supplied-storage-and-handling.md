@@ -3,7 +3,7 @@
 MALARONE tablets, containing 250 mg atovaquone and 100 mg proguanil hydrochloride.
 
 - •Bottle of 100 tablets with child-resistant closure (NDC 0173-0675-01).
-- •Unit Dose Pack of 24 (NDC 0173-0675-02).
+- •Unit Dose Pack of 24 tablets with child-resistant lid foil (NDC 0173-0675-02).
 
 MALARONE pediatric tablets, containing 62.5 mg atovaquone and 25 mg proguanil hydrochloride.
 

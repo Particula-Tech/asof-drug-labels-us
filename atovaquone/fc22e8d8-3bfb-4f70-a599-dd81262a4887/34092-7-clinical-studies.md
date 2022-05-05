@@ -46,7 +46,7 @@ Prevention of Parasitemiaa in Active-Controlled Clinical Trials of MALARONE for 
 | a Free of parasitemia during the period of prophylactic therapy. |  |  |  |  |  |  |
 
 A third randomized, open-label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and aged 2 to 17 years) who were at risk of contracting malaria by traveling to an endemic area.
-The mean duration of travel was 15 days (range 1 to 30 days).
+The mean duration of travel was 15 days (range: 1 to 30 days).
 Prophylaxis with MALARONE (n = 110, dosage based on body weight) began 1 or 2 days before entering the endemic area and lasted until 7 days after leaving the area.
 A control group (n = 111) received prophylaxis with chloroquine/proguanil dosed according to WHO guidelines.
 No cases of malaria occurred in either group of children.

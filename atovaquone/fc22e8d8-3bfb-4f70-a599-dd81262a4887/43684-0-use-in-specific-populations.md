@@ -5,7 +5,7 @@
 Risk Summary
 
 Available data from published literature and postmarketing experience with use of MALARONE in pregnant women are insufficient to identify a drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-The proguanil component of MALARONE acts to inhibit parasitic dihydrofolate reductase; however, pregnant women and females of reproductive potential should continue folate supplementation to prevent neural tube defects [see Clinical Pharmacology (12.1)].
+The proguanil component of MALARONE acts to inhibit parasitic dihydrofolate reductase; however, pregnant women and females of reproductive potential should continue folate supplementation to prevent neural tube defects [see Clinical Pharmacology (12.4)].
 Pregnant women with malaria are at increased risk for adverse pregnancy outcomes (see Clinical Considerations).
 
 Atovaquone administered by oral gavage to pregnant rats and rabbits during the period of organogenesis was not associated with fetal malformations at plasma exposures approximately 7 times and equal to, respectively, the estimated human exposure for the treatment of malaria based on AUC.
@@ -73,7 +73,7 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 ## 8.6 Renal Impairment
 
 Do not use MALARONE for malaria prophylaxis in patients with severe renal impairment (creatinine clearance <30 mL/min).
-Use with caution for the treatment of malaria in patients with severe renal impairment, only if the benefits of the 3-day treatment regimen outweigh the potential risks associated with increased drug exposure.
+Use with caution for the treatment of malaria in patients with severe renal impairment only if the benefits of the 3-day treatment regimen outweigh the potential risks associated with increased drug exposure.
 No dosage adjustments are needed in patients with mild (creatinine clearance 50 to 80 mL/min) or moderate (creatinine clearance 30 to 50 mL/min) renal impairment.
 [See Clinical Pharmacology (12.3).]
 
