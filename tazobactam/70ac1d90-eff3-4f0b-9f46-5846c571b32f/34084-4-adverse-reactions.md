@@ -9,6 +9,8 @@ The following serious reactions are described in greater detail in the Warnings 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and also may not reflect rates observed in practice.
 
+Adult Patients
+
 Complicated Intra-abdominal Infections and Complicated Urinary Tract Infections, Including Pyelonephritis
 
 ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI and cUTI, which included a total of 1015 patients treated with ZERBAXA (1.5 g every 8 hours, adjusted based on renal function where appropriate) and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days.
@@ -18,13 +20,13 @@ Most patients (75%) enrolled in the cUTI trial were female, and most patients (5
 Most patients (>70%) in both trials were enrolled in Eastern Europe and were White.
 
 The most common adverse reactions (5% or greater in either indication) occurring in patients receiving ZERBAXA were nausea, diarrhea, headache, and pyrexia.
-Table 5 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 cIAI and cUTI clinical trials.
+Table 6 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 cIAI and cUTI clinical trials.
 
-Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 cIAI and cUTI Clinical Trials
+Table 6: Adverse Reactions Occurring in 1% or Greater of Adult Patients (18 years and older) Receiving ZERBAXA in Phase 3 cIAI and cUTI Clinical Trials
 
 | ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) n (%) | Meropenem (N=497) n (%) | ZERBAXA (N=533) n (%) | Levofloxacin (N=535) n (%) |  |
 | --- | --- | --- | --- | --- |
-| Preferred Term | Complicated Intra-abdominal Infections |  | Complicated Urinary Tract Infections, Including Pyelonephritis |  |
+| Adverse Reaction | Complicated Intra-abdominal Infections |  | Complicated Urinary Tract Infections, Including Pyelonephritis |  |
 | Nausea | 38 (7.9) | 29 (5.8) | 15 (2.8) | 9 (1.7) |
 | Headache | 12 (2.5) | 9 (1.8) | 31 (5.8) | 26 (4.9) |
 | Diarrhea | 30 (6.2) | 25 (5) | 10 (1.9) | 23 (4.3) |
@@ -50,7 +52,7 @@ Renal impairment (including the terms renal impairment, renal failure, and renal
 Increased Mortality
 
 In the cIAI trials (Phase 2 and 3), death occurred in 2.5% (14/564) of patients receiving ZERBAXA and in 1.5% (8/536) of patients receiving meropenem.
-The causes of death varied and included worsening and/or complications of infection, surgery and underlying conditions.
+The causes of death varied and included worsening and/or complications of infection, surgery, and underlying conditions.
 
 Less Common Adverse Reactions in Phase 3 cIAI and cUTI Clinical Trials
 
@@ -60,11 +62,11 @@ The following selected adverse reactions were reported in ZERBAXA-treated subjec
 - Gastrointestinal disorders: gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic
 - General disorders and administration site conditions: infusion site reactions
 - Infections and infestations: candidiasis including oropharyngeal and vulvovaginal, fungal urinary tract infection
-- Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test
+- Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs’ test
 - Metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia
 - Nervous system disorders: ischemic stroke
 - Renal and urinary system: renal impairment, renal failure
-- Respiratory, thoracic and mediastinal disorders: dyspnea
+- Respiratory, thoracic, and mediastinal disorders: dyspnea
 - Skin and subcutaneous tissue disorders: urticaria
 - Vascular disorders: venous thrombosis
 
@@ -77,13 +79,13 @@ Most patients (71%) enrolled in the trial were male.
 All subjects were mechanically ventilated at randomization and 92% were in an intensive care unit (ICU) at randomization.
 The median APACHE II score was 17, and 33% of subjects had a baseline APACHE II score of ≥20, indicating a high severity of illness for many patients enrolled in this trial.
 
-Table 6 lists adverse reactions occurring in 2% or greater of patients receiving ZERBAXA in a Phase 3 HABP/VABP clinical trial.
+Table 7 lists adverse reactions occurring in 2% or greater of patients receiving ZERBAXA in a Phase 3 HABP/VABP clinical trial.
 
-Table 6: Adverse Reactions Occurring in 2% or Greater of Patients Receiving ZERBAXA in a Phase 3 HABP/VABP Clinical Trial
+Table 7: Adverse Reactions Occurring in 2% or Greater of Adult Patients (18 years and older) Receiving ZERBAXA in a Phase 3 HABP/VABP Clinical Trial
 
 | Adverse Reactions | ZERBAXAThe ZERBAXA for injection dose was 3 g intravenously every 8 hours, adjusted to match renal function where appropriate. N=361 n (%) | Meropenem N=359 n (%) |
 | --- | --- | --- |
-| Hepatic transaminase increasedIncludes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased, hypertransaminasaemia, liver function test abnormal. | 43 (11.9) | 26 (7.2) |
+| Hepatic transaminase increasedIncludes alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, hepatic enzyme increased, hypertransaminasemia, liver function test abnormal. | 43 (11.9) | 26 (7.2) |
 | Renal impairment/renal failureIncludes acute renal failure, anuria, azotemia, oliguria, prerenal failure, renal failure, renal impairment. | 32 (8.9) | 22 (6.1) |
 | Diarrhea | 23 (6.4) | 25 (7.0) |
 | Intracranial hemorrhageIncludes cerebellar hemorrhage, cerebral hematoma, cerebral hemorrhage, hemorrhage intracranial, hemorrhagic stroke, hemorrhagic transformation stroke, intraventricular hemorrhage, subarachnoid hemorrhage, subdural hematoma. | 16 (4.4) | 5 (1.4) |
@@ -98,9 +100,41 @@ The following selected adverse reactions were reported in ZERBAXA-treated subjec
 
 - Investigations: blood alkaline phosphatase increased, gamma-glutamyltransferase increased, Coombs direct test positive
 
+Pediatric Patients
+
+Complicated Intra-abdominal Infections and Complicated Urinary Tract Infections, Including Pyelonephritis
+
+ZERBAXA was evaluated in two blinded, randomized, active-controlled clinical studies in pediatric patients from birth to less than 18 years of age, one in cIAI and the other in cUTI, which included a total of 170 pediatric patients treated with ZERBAXA and 54 pediatric patients treated with the comparator.
+The ZERBAXA dosing regimen was the same in each trial [see Dosage and Administration (2.2)].
+Patients were randomized 3:1 to receive ZERBAXA plus metronidazole or meropenem plus placebo in the cIAI study and ZERBAXA or meropenem in the cUTI study [see Clinical Studies [(14.1, 14.2)].
+In these pediatric patients, the type of adverse reactions were generally comparable to those observed in adults.
+Table 8 lists adverse reactions occurring in 4% or greater of pediatric patients receiving ZERBAXA in either the pediatric cIAI or cUTI clinical trial.
+
+Table 8: Adverse Reactions Occurring in 4% or Greater of Pediatric Patients (birth to less than 18 years of age) Receiving ZERBAXA in either the cIAI or cUTI Clinical Trial
+
+| ZERBAXAIn the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=70) n (%) | Meropenem (N=21) n (%) | ZERBAXA (N=100) n (%) | Meropenem (N=33) n (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Complicated Intra-abdominal Infections |  | Complicated Urinary Tract Infections, Including Pyelonephritis |  |
+| ThrombocytosisIncludes platelet count increased. | 11 (16) | 3 (14) | 9 (9) | 3 (9) |
+| Diarrhea | 12 (17) | 5 (24) | 7 (7) | 3 (9) |
+| PyrexiaIncludes hyperthermia. | 9 (13) | 3 (14) | 7 (7) | 1 (3) |
+| LeukopeniaIncludes neutropenia and neutrophil count decreased. | 3 (4) | 0 (0) | 8 (8) | 0 (0) |
+| Abdominal painIncludes upper abdominal pain. | 8 (11) | 0 (0) | 2 (2) | 1 (3) |
+| AST increased | 5 (7) | 1 (5) | 4 (4) | 2 (6) |
+| Vomiting | 7 (10) | 1 (5) | 1 (1) | 1 (3) |
+| ALT increased | 4 (6) | 1 (5) | 4 (4) | 2 (6) |
+| Anemia | 5 (7) | 0 (0) | 2 (2) | 0 (0) |
+| PhlebitisIncludes superficial phlebitis. | 4 (6) | 0 (0) | 1 (1) | 1 (3) |
+| Hypertension | 3(4) | 0 (0) | 0 (0) | 1 (3) |
+| Gastritis | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+| HypokalemiaIncludes blood potassium decreased. | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+| BradypneaIncludes respiratory rate decreased. | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+
 Laboratory Values
 
 The development of a positive direct Coombs test may occur during treatment with ZERBAXA.
-The incidence of seroconversion to a positive direct Coombs test was 0.2% in patients receiving ZERBAXA and 0% in patients receiving the comparator in the cUTI and cIAI clinical trials.
-The incidence of seroconversion to a positive direct Coombs test was 31.2% in patients receiving ZERBAXA and 3.6% in patients receiving meropenem in the HABP/VABP clinical trial.
+The incidence of seroconversion to a positive direct Coombs test was 0.2% in patients receiving ZERBAXA and 0% in patients receiving the comparator in the adult cUTI and cIAI clinical trials.
+The incidence of seroconversion to a positive direct Coombs test was 31.2% in patients receiving ZERBAXA and 3.6% in patients receiving meropenem in the adult HABP/VABP clinical trial.
+The incidence of seroconversion to a positive direct Coombs test was 45.3% in patients receiving ZERBAXA and 33.3% in patients receiving meropenem in the pediatric cIAI clinical trial.
+The incidence of seroconversion to a positive direct Coombs test was 29.7% in patients receiving ZERBAXA and 8.7% in patients receiving meropenem in the pediatric cUTI clinical trial.
 In clinical trials, there was no evidence of hemolysis in patients who developed a positive direct Coombs test in any treatment group.

@@ -2,15 +2,15 @@
 
 ## 1.1 Complicated Intra-abdominal Infections
 
-ZERBAXA used in combination with metronidazole is indicated for the treatment of patients 18 years and older with complicated intra-abdominal infections (cIAI) caused by the following susceptible Gram-negative and Gram-positive microorganisms: Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, and Streptococcus salivarius.
+ZERBAXA used in combination with metronidazole is indicated for the treatment of adult and pediatric patients (birth to less than 18 years old) with complicated intra-abdominal infections (cIAI) caused by the following susceptible Gram-negative and Gram-positive microorganisms: Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, and Streptococcus salivarius.
 
 ## 1.2 Complicated Urinary Tract Infections, Including Pyelonephritis
 
-ZERBAXA is indicated for the treatment of patients 18 years and older with complicated urinary tract infections (cUTI), including pyelonephritis, caused by the following susceptible Gram-negative microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, and Pseudomonas aeruginosa.
+ZERBAXA is indicated for the treatment of adult and pediatric patients (birth to less than 18 years old) with complicated urinary tract infections (cUTI), including pyelonephritis, caused by the following susceptible Gram-negative microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, and Pseudomonas aeruginosa.
 
 ## 1.3 Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
 
-ZERBAXA is indicated for the treatment of patients 18 years and older with hospital-acquired bacterial pneumonia and ventilator-associated bacterial pneumonia, caused by the following susceptible Gram-negative microorganisms: Enterobacter cloacae, Escherichia coli, Haemophilus influenzae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, and Serratia marcescens.
+ZERBAXA is indicated for the treatment of adult patients (18 years and older) with hospital-acquired bacterial pneumonia and ventilator-associated bacterial pneumonia (HABP/VABP), caused by the following susceptible Gram-negative microorganisms: Enterobacter cloacae, Escherichia coli, Haemophilus influenzae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, and Serratia marcescens.
 
 ## 1.4 Usage
 

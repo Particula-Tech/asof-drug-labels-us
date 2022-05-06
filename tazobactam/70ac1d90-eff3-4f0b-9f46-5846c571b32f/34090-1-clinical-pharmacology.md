@@ -19,9 +19,9 @@ In a randomized, positive and placebo-controlled crossover thorough QTc study, 5
 Ceftolozane and tazobactam pharmacokinetics are similar following single- and multiple-dose administrations.
 The Cmax and AUC of ceftolozane and tazobactam increase in proportion to dose.
 
-The mean steady-state population pharmacokinetic parameters of ZERBAXA in patients with cIAI and cUTI receiving 1-hour intravenous infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or patients with HABP/VABP receiving 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) every 8 hours are summarized in Table 7.
+The mean steady-state population pharmacokinetic parameters of ZERBAXA in patients with cIAI and cUTI receiving 1-hour intravenous infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or patients with HABP/VABP receiving 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) every 8 hours are summarized in Table 9.
 
-Table 7: Mean (SD) Steady-State Plasma Population Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) after Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or 3 g (ceftolozane 2 g and tazobactam 1 g) Every 8 Hours in Patients with CrCl Greater than 50 mL/min
+Table 9: Mean (SD) Steady-State Plasma Population Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) after Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or 3 g (ceftolozane 2 g and tazobactam 1 g) Every 8 Hours in Adult Patients with CrCl Greater than 50 mL/min
 
 | Ceftolozane (n=317) | Tazobactam (n=244) | Ceftolozane (n=247) | Tazobactam (n=247) |  |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,57 @@ Dosage adjustment for ZERBAXA in geriatric patients should be based on renal fun
 
 Pediatric Patients
 
-Safety and effectiveness in pediatric patients have not been established.
+The pharmacokinetics of ceftolozane and tazobactam in pediatric patients (birth to <18 years) were evaluated from 3 clinical studies: patients with proven or suspected gram-negative infection, cIAI, and cUTI.
+Ceftolozane exposures were numerically higher in pediatric patients with cUTI compared to pediatric patients with cIAI, however, such a difference was not observed for tazobactam (Table 10 and Table 11) [see Clinical Studies 14.2].
+
+In patients with cIAI (Table 10) and cUTI (Table 11) total body clearance of both ceftolozane and tazobactam increases with age, with values in adolescents approaching those in the adult population.
+Whereas elimination half-life tends to decrease with a decrease of age.
+While ceftolozane exposures in pediatric patients with cIAI and cUTI overlap with the range of exposures seen in adults, in general they are lower than mean exposures in adults.
+Tazobactam exposures are comparable between pediatric and adult patients except for patients aged birth to <3 months (Group 5) with cUTI, who had higher exposures.
+
+Population pharmacokinetic analyses and target attainment simulations in pediatric patients with cIAI and cUTI demonstrated that the recommended pediatric dosing regimens for patients from birth to less than 18 years with eGFR greater than 50 mL/min/1.73 m2 result in no clinically relevant differences in systemic exposure to those in adult patients given ZERBAXA 1.5 grams.
+
+There is insufficient information to assess the exposure of ZERBAXA in the pediatric patients with eGFR ≤ 50 mL/min/1.73 m2.
+
+Table 10: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cIAI PatientsOne patient was enrolled in Group 4 in the C/T arm but discontinued before the day of PK sample collection; one participant was enrolled for Group 5 in the C/T arm with steady-state ceftolozane PK parameter values: AUC0-8=173 mcg*h/mL; Ceoi=43.4 mcg/mL; and with tazobactam PK parameter values: AUC0-8=69.9 mcg*h/mL; Ceoi=30.5 mcg/mL.
+
+| Patient Characteristics | Group 1 (12 to <18 years) | Group 2 (6 to <12 years) | Group 3 (2 to <6 years) |
+| --- | --- | --- | --- |
+|  | N=16 | N=30 | N=20 |
+| Ceftolozane |  |  |  |
+| AUC0-8 (mcg•h/mL) | 123 (46) | 116 (30) | 98.8 (26) |
+| Ceoi (mcg/mL) | 51.1 (21) | 53.7 (18) | 42.4 (13) |
+| t1/2 (hr) | 2.2 (0.4) | 1.8 (0.2) | 1.7 (0.3) |
+| Vss (L) | 23.0 (14.6) | 11.5 (5.7) | 7.4 (3.2) |
+| Clearance (L/h) | 9.55 (4.70) | 5.81 (2.15) | 3.58 (1.12) |
+| Tazobactam |  |  |  |
+| AUC0-8 (mcg•h/mL) | 31.7 (16) | 30.1 (7) | 23.4 (6) |
+| Ceoi (mcg/mL) | 21.7 (10) | 21.4 (6) | 16.9 (6) |
+| t1/2 (hr) | 1.3 (0.2) | 1.1 (0.2) | 1.0 (0.2) |
+| Vss (L) | 18.8 (10.7) | 10.6 (6.2) | 7.1 (4.0) |
+| Clearance (L/h) | 18.87 (7.54) | 11.02 (4.06) | 7.62 (2.40) |
+| AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; VSS, steady-state volume of distribution. |  |  |  |
+
+Table 11: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cUTI Patients
+
+| Patient Characteristics | Group 1 (12 to <18 years) | Group 2 (6 to <12 years) | Group 3 (2 to <6 years) | Group 4 (3 months to <2 years) | Group 5 (Birth to <3 months) |
+| --- | --- | --- | --- | --- | --- |
+|  | N=14 | N=19 | N=20 | N=22 | N=14 |
+| Ceftolozane |  |  |  |  |  |
+| AUC0-8 (mcg•h/mL) | 177 (65) | 145 (54) | 133 (49) | 129 (57) | 144 (39) |
+| Ceoi (mcg/mL) | 68.7 (21) | 60.8 (20) | 60.3 (24) | 50.3 (20) | 43.1 (12) |
+| t1/2 (hr) | 2.3 (0.4) | 2.0 (0.6) | 1.8 (0.4) | 2.0 (0.7) | 2.7 (0.6) |
+| Vss (L) | 15.8 (5.5) | 10.7 (5.2) | 5.4 (2.1) | 3.7 (2.5) | 2.5 (1.0) |
+| Clearance (L/h) | 6.31 (2.17) | 4.84 (2.18) | 2.59 (0.69) | 1.53 (0.64) | 0.75 (0.34) |
+| Tazobactam |  |  |  |  |  |
+| AUC0-8 (mcg•h/mL) | 35.0 (12) | 26.7 (10) | 26.6 (8) | 28.6 (13) | 44.6 (15) |
+| Ceoi (mcg/mL) | 22.9 (8) | 19.2 (7) | 19.9 (7) | 18.9 (8) | 25.9 (10) |
+| t1/2 (hr) | 1.3 (0.5) | 1.2 (0.4) | 1.0 (0.3) | 1.1 (0.4) | 1.2 (0.7) |
+| Vss (L) | 16.0 (6.6) | 10.6 (8.2) | 5.1 (2.7) | 3.7 (3.4) | 1.5 (0.8) |
+| Clearance (L/h) | 15.67 (4.49) | 12.83 (5.39) | 6.37 (2.02) | 3.53 (1.71) | 1.32 (0.81) |
+| AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; VSS, steady-state volume of distribution. |  |  |  |  |  |
+
+For ZERBAXA dosage recommendation in pediatric cIAI and cUTI patients, refer to table 2 [see Dosage and Administration (2.1)].
 
 Drug Interactions
 

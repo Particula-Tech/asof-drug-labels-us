@@ -56,7 +56,21 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Complicated Intra-abdominal Infections (cIAI) and Complicated Urinary Tract Infections (cUTI), including Pyelonephritis
+
+The safety and effectiveness of ZERBAXA for the treatment of cIAI and cUTI have been established in pediatric patients aged birth to less than 18 years old.
+Use of ZERBAXA in these age groups is supported by evidence from adequate and well-controlled studies of ZERBAXA in adults with cUTI and cIAI and additional pharmacokinetic and safety data from pediatric trials [see Clinical Pharmacology (12.3) and Clinical Studies (14.1 and 14.2)].
+
+The safety profile of ZERBAXA in pediatric patients was similar to adults with cIAI and cUTI, treated with ZERBAXA [see Adverse Reactions (6.1)].
+
+There is insufficient information to recommend dosage adjustment for pediatric patients younger than 18 years of age with cIAI and cUTI with eGFR 50 mL/min/1.73m2 or less [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+ZERBAXA is not recommended in pediatric patients who have an eGFR 50 mL/min/1.73m2 or less.
+Pediatric patients born at term or pre-term may not have an eGFR of 50 mL/min/1.73m2 or greater at birth or within the first few months of life.
+
+Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
+
+The safety and effectiveness of ZERBAXA in pediatric patients have not been established for the treatment of HABP and VABP.
 
 ## 8.5 Geriatric Use
 
@@ -70,9 +84,15 @@ The incidence of adverse events in both treatment groups was higher in older sub
 In the trial, Day 28 all-cause mortality rates in the elderly (aged 65 years and older) were comparable between treatment arms:50/160 (31.3%) in the ZERBAXA arm and 54/160 (33.8%) in the comparator arm.
 
 ZERBAXA is substantially excreted by the kidney and the risk of adverse reactions to ZERBAXA may be greater in patients with renal impairment.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Adjust dosage for elderly patients based on renal function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is required in patients with CrCl 50 mL/min or less, including patients with ESRD on HD [see Dosage and Administration (2.2), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Adult Patients
+
+Dosage adjustment is required in adult patients with CrCl 50 mL/min or less, including adult patients with ESRD on HD [see Dosage and Administration (2.2), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+Pediatric Patients
+
+No dose adjustment has been established in pediatric patients aged birth to less than 18 years of age with eGFR 50 mL/min/1.73 m2 or less [see Clinical Pharmacology (12.3)].
