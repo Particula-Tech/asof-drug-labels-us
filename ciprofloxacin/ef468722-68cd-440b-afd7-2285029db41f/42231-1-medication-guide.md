@@ -72,7 +72,7 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 | depression | memory problems |
 | reduced awareness of surroundings | false or strange thoughts or beliefs (delusions) |
 
-The changes may be permanent.
+These changes may be permanent.
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
@@ -237,7 +237,8 @@ Ciprofloxacin tablets may cause serious side effects, including:
 | o throat tightness, hoarseness |  |
 
 Skin rash may happen in people taking ciprofloxacin tablets even after only 1 dose.
-Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider, Skin rash may be a sign of a more serious reaction to ciprofloxacin.
+Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
+Skin rash may be a sign of a more serious reaction to ciprofloxacin.
 
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ciprofloxacin tablets.
@@ -304,7 +305,7 @@ How should I store ciprofloxacin tablets?
 
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
-General Information about the safe & effective use of ciprofloxacin tablets.
+General Information about the safe and effective use of ciprofloxacin tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
@@ -327,7 +328,7 @@ Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals &
 Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
 For more information, call 1-844-874-7464.
-132079
+132754
 
 Revised: Jan.
 2022

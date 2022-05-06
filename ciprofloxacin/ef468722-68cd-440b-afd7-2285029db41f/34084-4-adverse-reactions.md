@@ -121,6 +121,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 ## 6.3 Adverse Laboratory Changes
 
 Changes in laboratory parameters while on ciprofloxacin are listed below: Hepatic–Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
-Hematologic– Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
+Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

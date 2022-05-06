@@ -79,5 +79,5 @@ Therefore, approval for these conditions was based on efficacy studies conducted
 Pharmacist: Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 Rx only Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-132079 Revised: Jan.
+132754 Revised: Jan.
 2022 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf
