@@ -5,6 +5,8 @@
   "inn": "rosuvastatin",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
+    "0310-7560-90",
+    "0310-7570-90",
     "0310-7580-90",
     "0310-7590-30"
   ],

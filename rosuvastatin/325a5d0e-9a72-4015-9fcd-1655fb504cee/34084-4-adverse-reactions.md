@@ -29,7 +29,7 @@ These studies had a treatment duration of up to 12 weeks.
 
 Table 1.
 Adverse ReactionsAdverse reactions by COSTART preferred term.
-Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in PlaceboControlled Trials (% of Patients)
+Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in Placebo-Controlled Trials (% of Patients)
 
 | Adverse Reactions | CRESTOR 5 mg N=291 | CRESTOR 10 mg N=283 | CRESTOR 20 mg N=64 | CRESTOR 40 mg N=106 | Total CRESTOR 5 mg‑40 mg N=744 | Placebo N=382 |
 | --- | --- | --- | --- | --- | --- | --- |
