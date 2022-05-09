@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 ADHD studies in Children and Adolescents
+## 14.1 ADHD Studies in Children and Adolescents
 
 Acute Studies
 
@@ -12,7 +12,7 @@ Each item on the ADHDRS maps directly to one symptom criterion for ADHD in the D
 
 In Study 1, an 8-week randomized, double-blind, placebo-controlled, dose-response, acute treatment study of children and adolescents aged 8 to 18 (N=297), patients received either a fixed dose of atomoxetine (0.5, 1.2, or 1.8 mg/kg/day) or placebo.
 Atomoxetine was administered as a divided dose in the early morning and late afternoon/early evening.
-At the 2 higher doses, improvements in ADHD symptoms were statistically significantly superior in atomoxetine -treated patients compared with placebo-treated patients as measured on the ADHDRS scale.
+At the 2 higher doses, improvements in ADHD symptoms were statistically significantly superior in atomoxetine-treated patients compared with placebo-treated patients as measured on the ADHDRS scale.
 The 1.8 mg/kg/day atomoxetine dose did not provide any additional benefit over that observed with the 1.2 mg/kg/day dose.
 
 The 0.5 mg/kg/day atomoxetine dose was not superior to placebo.
@@ -36,14 +36,14 @@ There was not sufficient exposure of ethnic groups other than Caucasian to allow
 
 Maintenance Study
 
-The effectiveness of atomoxetine in the maintenance treatment of ADHD was established in an outpatient study of children and adolescents (ages 6-15 years).
+The effectiveness of atomoxetine in the maintenance treatment of ADHD was established in an outpatient study of children and adolescents (ages 6 to 15 years).
 Patients meeting DSM-IV criteria for ADHD who showed continuous response for about 4 weeks during an initial 10 week open-label treatment phase with atomoxetine (1.2 to 1.8 mg/kg/day) were randomized to continuation of their current dose of atomoxetine (N=292) or to placebo (N=124) under double-blind treatment for observation of relapse.
 Response during the open-label phase was defined as CGI-ADHD-S score ≤2 and a reduction of at least 25% from baseline in ADHDRS-IV-Parent:Inv total score.
 Patients who were assigned to atomoxetine and showed continuous response for approximately 8 months during the first double-blind treatment phase were again randomized to continuation of their current dose of atomoxetine (N=81) or to placebo (N=82) under double-blind treatment for observation of relapse.
 Relapse during the double-blind phase was defined as CGI-ADHD-S score increases of at least 2 from the end of open-label phase and ADHDRS-IV-Parent:Inv total score returns to ≥90% of study entry score for 2 consecutive visits.
 In both double-blind phases, patients receiving continued atomoxetine treatment experienced significantly longer times to relapse than those receiving placebo.
 
-## 14.2 ADHD studies in Adults
+## 14.2 ADHD Studies in Adults
 
 The effectiveness of atomoxetine in the treatment of ADHD was established in 2 randomized, double-blind, placebo-controlled clinical studies of adult patients, age 18 and older, who met DSM-IV criteria for ADHD.
 

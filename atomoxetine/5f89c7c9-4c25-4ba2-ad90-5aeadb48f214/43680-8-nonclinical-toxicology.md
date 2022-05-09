@@ -20,4 +20,4 @@ The metabolite N-desmethylatomoxetine hydrochloride was negative in the Ames Tes
 
 Impairment of fertility
 
-Atomoxetine hydrochloride did not impair fertility in rats when given in the diet at doses of up to 57 mg/kg/day, which is approximately 6 times the MRHDon a mg/m2 basis.
+Atomoxetine hydrochloride did not impair fertility in rats when given in the diet at doses of up to 57 mg/kg/day, which is approximately 6 times the MRHD on a mg/m2 basis.

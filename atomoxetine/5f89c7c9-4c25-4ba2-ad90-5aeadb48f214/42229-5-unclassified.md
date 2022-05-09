@@ -1,6 +1,8 @@
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
+
+(formerly known as Cadila Healthcare Ltd.)
 
 Ahmedabad, India
 
@@ -10,4 +12,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 09/20
+Rev.: 04/22

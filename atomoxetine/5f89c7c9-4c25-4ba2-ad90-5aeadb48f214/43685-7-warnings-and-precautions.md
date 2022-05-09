@@ -37,7 +37,7 @@ Such reactions may occur several months after therapy is started, but laboratory
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 
 Atomoxetine should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted.
-Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained "flu like" symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17.3)].
+Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained "flu like" symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17)].
 
 ## 5.3 Serious Cardiovascular Events
 
@@ -79,9 +79,7 @@ Table 1Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=hea
 | HR (≥ 20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2 |
 
 In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these atomoxetine patients compared with 0% (0/934) of placebo patients.
-The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients
-
-9.4 beats/minute.
+The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
 In adult clinical trials where EM/PM status was available, the mean heart rate increase in PM patients was significantly higher than in EM patients (11 beats/minute versus 7.5 beats/minute).
 The heart rate effects could be clinically important in some PM patients.
@@ -89,37 +87,31 @@ The heart rate effects could be clinically important in some PM patients.
 In placebo-controlled registration studies involving adult patients, tachycardia was identified as an adverse event for 1.5% (8/540) of atomoxetine patients compared with 0.5% (2/402) of placebo patients.
 
 In adult clinical trials where EM/PM status was available, the mean change from baseline in diastolic blood pressure in PM patients was higher than in EM patients (4.21 versus 2.13 mm Hg) as was the mean change from baseline in systolic blood pressure (PM: 2.75 versus EM: 2.40 mm Hg).
-The blood pressure effects could be clinically important in
-
-some PM patients.
+The blood pressure effects could be clinically important in some PM patients.
 
 Orthostatic hypotension and syncope have been reported in patients taking atomoxetine.
-In child and adolescent registration studies, 0.2% (12/5596) of atomoxetine -treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
+In child and adolescent registration studies, 0.2% (12/5596) of atomoxetine-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
 In short-term child and adolescent registration studies, 1.8% (6/340) of atomoxetine-treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
 Syncope was not reported during short-term child and adolescent placebo-controlled ADHD registration studies.
 Atomoxetine should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
 
 ## 5.5 Emergence of New Psychotic or Manic Symptoms
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1056 placebo-treated patients.
+Psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
+If such symptoms occur, consider discontinuing atomoxetine.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
-In general, particular care should be taken in treating ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with atomoxetine, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+Patients with bipolar disorder or risk factors for bipolar disorder may be at increased risk of developing mania or mixed episodes during treatment with atomoxetine.
+It may not be possible to determine whether a manic or mixed episode that appears during treatment with atomoxetine is due to an adverse reaction to atomoxetine or a patient's underlying bipolar disorder.
+Before initiating treatment with atomoxetine, patients should be adequately screened for risk factors for bipolar disorder such as a personal or family history of mania and depression.
 
 ## 5.7 Aggressive Behavior or Hostility
 
-Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In pediatric short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
-0.67-2.64 – not statistically significant]).
-In adult placebo-controlled clinical trials, 6/1697 (0.35%) of atomoxetine patients versus 4/1560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
-0.39-4.88 – not statistically significant]).
-Although this is not conclusive evidence that atomoxetine causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with atomoxetine compared to placebo.
+Patients beginning treatment with atomoxetine should be monitored for the appearance or worsening of aggressive behavior or hostility.
+There is evidence that atomoxetine may cause the emergence or worsening of aggressive behavior or hostility.
+ADHD and other mental illnesses can be associated with irritability, which can make it difficult to determine if the drug or the underlying psychiatric condition is causing the emergence or worsening of aggressive behavior or hostility in specific patients.
+If such symptoms occur during treatment, consider a possible causal role of atomoxetine.
 
 ## 5.8 Allergic Events
 
@@ -155,7 +147,7 @@ Patients who were pubertal (girls >8 to ≤13 years old, boys >9 to ≤14 years 
 Growth followed a similar pattern in both extensive and poor metabolizers (EMs, PMs).
 PMs treated for at least two years gained an average of 2.4 kg and 1.1 cm less than predicted, while EMs gained an average of 0.2 kg and 0.4 cm less than predicted.
 
-In short-term controlled studies (up to 9 weeks), atomoxetine -treated patients lost an average of 0.4 kg and gained an average of 0.9 cm, compared to a gain of 1.5 kg and 1.1 cm in the placebo-treated patients.
+In short-term controlled studies (up to 9 weeks), atomoxetine-treated patients lost an average of 0.4 kg and gained an average of 0.9 cm, compared to a gain of 1.5 kg and 1.1 cm in the placebo-treated patients.
 In a fixed-dose controlled trial, 1.3%, 7.1%, 19.3%, and 29.1% of patients lost at least 3.5% of their body weight in the placebo, 0.5, 1.2, and 1.8 mg/kg/day dose groups.
 
 Growth should be monitored during treatment with atomoxetine.
@@ -175,4 +167,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 ## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.5) and Drug Interactions (7.2)].

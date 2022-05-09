@@ -11,7 +11,7 @@ Child and Adolescent Clinical Trials
 
 Reasons for discontinuation of treatment due to adverse reactions in child and adolescent clinical trials — In acute child and adolescent placebo-controlled trials, 3.0% (48/1,613) of atomoxetine subjects and 1.4% (13/945) placebo subjects discontinued for adverse reactions.
 For all studies, (including open-label and long-term studies), 6.3% of extensive metabolizer (EM) patients and 11.2% of poor metabolizer (PM) patients discontinued because of an adverse reaction.
-Among atomoxetine -treated patients, irritability (0.3%, N=5); somnolence (0.3%, N=5); aggression (0.2%, N=4); nausea (0.2%, N=4); vomiting (0.2%, N=4); abdominal pain (0.2%, N=4); constipation (0.1%, N=2); fatigue (0.1%, N=2); feeling abnormal (0.1%, N=2); and headache (0.1%, N=2) were the reasons for discontinuation reported by more than 1 patient.
+Among atomoxetine-treated patients, irritability (0.3%, N=5); somnolence (0.3%, N=5); aggression (0.2%, N=4); nausea (0.2%, N=4); vomiting (0.2%, N=4); abdominal pain (0.2%, N=4); constipation (0.1%, N=2); fatigue (0.1%, N=2); feeling abnormal (0.1%, N=2); and headache (0.1%, N=2) were the reasons for discontinuation reported by more than 1 patient.
 
 Seizures
 
@@ -138,14 +138,14 @@ Table 4 Common Treatment-Emergent Adverse Reactions Associated with the Use of A
 | Hyperhidrosis | 4 | 1 |  |
 | Vascular Disorders |  |  |  |
 | Hot flush | 3 | 0 |  |
-| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. |  |  |  |
-| b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, |  |  |  |
+| aReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. |  |  |  |
+| bAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, |  |  |  |
 | epigastric discomfort. |  |  |  |
-| c Somnolence includes the terms: sedation, somnolence. |  |  |  |
-| d Insomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. |  |  |  |
-| e Urinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |  |
-| f Based on total number of males (atomoxetine, N=943; placebo, N=869). |  |  |  |
-| g Based on total number of females (atomoxetine, N=754; placebo, N=691). |  |  |  |
+| cSomnolence includes the terms: sedation, somnolence. |  |  |  |
+| dInsomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. |  |  |  |
+| eUrinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |  |
+| fBased on total number of males (atomoxetine, N=943; placebo, N=869). |  |  |  |
+| gBased on total number of females (atomoxetine, N=754; placebo, N=691). |  |  |  |
 
 The following adverse events occurred in at least 2% of adult CYP2D6 poor metaboliser (PM) patients and were statistically significantly more frequent in PM patients compared to CYP2D6 extensive metaboliser (EM) patients: vision blurred (4% of PMs, 1% of EMs); dry mouth (35% of PMs, 17% of EMs); constipation (11% of PMs, 7% of EMs); feeling jittery (5% of PMs, 2% of EMs); decreased appetite (23% of PMs, 15% of EMs); tremor (5% of PMs, 1% of EMs); insomnia (19% of PMs, 11% of EMs); sleep disorder (7% of PMs, 3% of EMs); middle insomnia (5% of PMs, 3% of EMs); terminal insomnia (3% of PMs, 1% of EMs); urinary retention (6% of PMs, 1% of EMs); erectile dysfunction (21% of PMs, 9% of EMs); ejaculation disorder (6% of PMs, 2% of EMs); hyperhidrosis (15% of PMs, 7% of EMs); peripheral coldness (3% of PMs, 1% of EMs).
 

@@ -96,6 +96,7 @@ Atomoxetine capsules should be used as a part of a total treatment program for A
 Atomoxetine capsules have not been studied in children less than 6 years old.
 
 Who should not take atomoxetine capsules?
+
 Atomoxetine capsules should not be taken if you or your child:
 
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
@@ -142,7 +143,7 @@ Do not start any new medicine while taking atomoxetine capsules without talking 
 
 How should atomoxetine capsules be taken?
 
-- Take atomoxetinecapsules exactly as prescribed.
+- Take atomoxetine capsules exactly as prescribed.
   Atomoxetine comes in different dose strength capsules.
   Your doctor may adjust the dose until it is right for you or your child.
 - Do not chew, crush, or open the capsules.
@@ -201,7 +202,7 @@ Other information for children, teenagers, and adults:
   If you have an erection that lasts more than 4 hours, seek medical help right away.
   Because of the potential for lasting damage, including the potential inability to have erections, priapism should be evaluated by a doctor immediately.
 - Atomoxetine capsules may affect your ability or your child's ability to drive or operate heavy machinery.
-  Be careful until you know how atomoxetine capsules affect you or your child.
+  Be careful until you know how atomoxetine capsule affects you or your child.
 - Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
@@ -246,7 +247,9 @@ Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
+
+(formerly known as Cadila Healthcare Ltd.)
 
 Ahmedabad, India
 
@@ -256,4 +259,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 09/20
+Rev.: 04/22
