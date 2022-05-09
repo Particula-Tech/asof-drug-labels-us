@@ -2,19 +2,19 @@
 
 ## 14.1 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-The clinical evidence for the efficacy of dabigatran etexilate capsules was derived from RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy), a multi-center, multi-national, randomized parallel group trial comparing two blinded doses of dabigatran etexilate capsules (110 mg twice daily and 150 mg twice daily) with open-label warfarin (dosed to target INR of 2 to 3) in patients with non-valvular, persistent, paroxysmal, or permanent atrial fibrillation and one or more of the following additional risk factors: • Previous stroke, transient ischemic attack (TIA), or systemic embolism • Left ventricular ejection fraction <40% • Symptomatic heart failure, ≥ New York Heart Association Class 2 • Age ≥75 years • Age ≥65 years and one of the following: diabetes mellitus, coronary artery disease (CAD), or hypertension The primary objective of this study was to determine if dabigatran etexilate capsules were non-inferior to warfarin in reducing the occurrence of the composite endpoint, stroke (ischemic and hemorrhagic) and systemic embolism.
+The clinical evidence for the efficacy of dabigatran etexilate capsules was derived from RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy), a multi-center, multi-national, randomized, parallel group trial comparing two blinded doses of dabigatran etexilate capsules (110 mg twice daily and 150 mg twice daily) with open-label warfarin (dosed to target INR of 2 to 3) in patients with non-valvular, persistent, paroxysmal, or permanent atrial fibrillation and one or more of the following additional risk factors: • Previous stroke, transient ischemic attack (TIA), or systemic embolism • Left ventricular ejection fraction <40% • Symptomatic heart failure, ≥ New York Heart Association Class 2 • Age ≥75 years • Age ≥65 years and one of the following: diabetes mellitus, coronary artery disease (CAD), or hypertension The primary objective of this study was to determine if dabigatran etexilate capsules were non-inferior to warfarin in reducing the occurrence of the composite endpoint, stroke (ischemic and hemorrhagic) and systemic embolism.
 The study was designed to ensure that dabigatran etexilate capsules preserved more than 50% of warfarin’s effect as established by previous randomized, placebo-controlled trials of warfarin in atrial fibrillation.
 Statistical superiority was also analyzed.
 A total of 18,113 patients were randomized and followed for a median of 2 years.
-The patients’ mean age was 71.5 years and the mean CHADS2 score was 2.1.
+The patients’ mean age was 71.5 years and the mean CHADS 2 score was 2.1.
 The patient population was 64% male, 70% Caucasian, 16% Asian, and 1% black.
 Twenty percent of patients had a history of a stroke or TIA and 50% were Vitamin K antagonist (VKA) naïve, defined as less than 2 months total lifetime exposure to a VKA.
 Thirty-two percent of the population had never been exposed to a VKA.
 Concomitant diseases of patients in this trial included hypertension 79%, diabetes 23%, and CAD 28%.
 At baseline, 40% of patients were on aspirin and 6% were on clopidogrel.
 For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2 to 3) was 64%.
-Relative to warfarin and to dabigatran etexilate capsules 110 mg twice daily, dabigatran etexilate capsules 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 9 and Figure 4).
-Table 9 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study *
+Relative to warfarin and to dabigatran etexilate capsules 110 mg twice daily, dabigatran etexilate capsules 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 11 and Figure 4).
+Table 11 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study *
 
 |  | Dabigatran etexilatecapsules150 mg twice daily | Dabigatran etexilatecapsules 110 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
@@ -27,10 +27,10 @@ Table 9 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study *
 
 * Randomized ITT Figure 4 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
 
-The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 10.
+The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 12.
 The treatment effect was primarily a reduction in stroke.
 Dabigatran etexilate capsules 150 mg twice daily was superior in reducing ischemic and hemorrhagic strokes relative to warfarin.
-Table 10 Strokes and Systemic Embolism in the RE-LY Study
+Table 12 Strokes and Systemic Embolism in the RE-LY Study
 
 |  | Dabigatran etexilatecapsules150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% CI) |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Table 10 Strokes and Systemic Embolism in the RE-LY Study
 | Hemorrhagic stroke | 12 | 45 | 0.26 (0.14, 0.49) |
 | Systemicembolism | 13 | 21 | 0.61 (0.30, 1.21) |
 
-In the RE-LY trial, the rate of all-cause mortality was lower on dabigatran 150 mg than on warfarin (3.6% per year versus 4.1% per year).
+In the RE-LY trial, the rate of all-cause mortality was lower on dabigatran etexilate capsules 150 mg than on warfarin (3.6% per year versus 4.1% per year).
 The rate of vascular death was lower on dabigatran 150 mg compared to warfarin (2.3% per year versus 2.7% per year).
 Non-vascular death rates were similar in the treatment arms.
 The efficacy of dabigatran etexilate capsules 150 mg twice daily was generally consistent across major subgroups (see Figure 5).

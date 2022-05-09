@@ -37,6 +37,7 @@ Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrill
 Reduce the dose of dabigatran etexilate capsules to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dosing recommendations for patients with CrCl ≤30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+
 Pediatric patients with renal impairment Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
@@ -75,11 +76,13 @@ However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusi
 
 If possible, discontinue dabigatran etexilate capsules in adults 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days (CrCl <50 mL/min) before invasive or surgical procedures because of the increased risk of bleeding.
 Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.2)].
-This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1, 5.3)].
+This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1,5.3)].
 Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures when reversal of the anticoagulant effect of dabigatran is needed in adults.
 Efficacy and safety of idarucizumab have not been established in pediatric patients [see Warnings and Precautions (5.2)].
 Refer to the idarucizumab prescribing information for additional information.
 Restart dabigatran etexilate capsules as soon as medically appropriate.
+
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

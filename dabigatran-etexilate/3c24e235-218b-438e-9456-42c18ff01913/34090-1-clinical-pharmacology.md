@@ -21,7 +21,7 @@ Figure 2 Average Time Course for Effects of Dabigatran on aPTT, Following Approv
 There may be quantitative differences between various established methods for aPTT assessment.
 The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT).
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
-In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
+In the RE-LY trial, the median (10 th to 90 th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 Cardiac Electrophysiology No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

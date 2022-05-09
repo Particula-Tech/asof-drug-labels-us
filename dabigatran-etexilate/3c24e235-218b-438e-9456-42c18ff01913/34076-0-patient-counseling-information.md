@@ -38,4 +38,4 @@ Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
 
 Manufactured by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
 
-Revised: 12/2021
+Revised: 04/2022

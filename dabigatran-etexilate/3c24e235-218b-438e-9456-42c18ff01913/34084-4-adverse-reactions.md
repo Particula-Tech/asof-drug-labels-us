@@ -48,6 +48,8 @@ In case of recurrent events of the same category, the first event was considered
 There was a higher rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg than in patients receiving warfarin (6.6% vs 4.2%, respectively).
 The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
 
+Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
+
 Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified.
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
