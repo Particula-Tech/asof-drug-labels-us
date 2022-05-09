@@ -7,6 +7,6 @@ Manufactured by Sandoz GmbH for Hospira, Inc.
 
 Lake Forest, IL 60045, USA
 
-Revised: July 2020
+Revised: March 2022
 
-46274059
+46306969
