@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210824"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0530-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "Bortezomib"
+    }
+  ],
+  "setid": "aef02171-bf8a-43ad-b40c-7642623f9802",
+  "source": "dailymed"
+}
