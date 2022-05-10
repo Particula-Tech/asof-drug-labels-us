@@ -56,4 +56,4 @@ Other:
 
 Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West‐Ward Pharmaceuticals Corp. at 1‐877‐233‐2001 or FDA at 1‐800‐FDA‐1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1‐877‐233‐2001 or FDA at 1‐800‐FDA‐1088 or www.fda.gov/medwatch.

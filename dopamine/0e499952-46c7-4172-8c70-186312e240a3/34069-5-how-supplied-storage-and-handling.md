@@ -28,10 +28,10 @@ PORTUGAL
 
 Distributed by:
 
-WEST-WARD PHARMACEUTICALS CORP.
+Hikma Pharmaceuticals USA Inc.
 
-EATONTOWN, NJ 07724
+Berkeley Heights, NJ 07922
 
-USA
+Revised: August 2020
 
-Revised: September 2016
+PIN491-WES/2
