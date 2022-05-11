@@ -1,10 +1,11 @@
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme LLC, Rahway, NJ 07065, USA
 
 Manufactured by: Patheon Manufacturing Services LLC, 5900 Martin Luther King Jr.
 Highway, Greenville, NC 27834, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2008-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2008-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk0517-iv-edta5-2004r008
+uspi-mk0517-iv-edta5-2205r009
