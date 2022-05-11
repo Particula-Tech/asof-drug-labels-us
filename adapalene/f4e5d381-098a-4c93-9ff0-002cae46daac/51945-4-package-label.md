@@ -4,7 +4,7 @@ Rx only NDC 0299-5906-45
 
 EPIDUO® FORTE
 
-(adapalene and benzoyl peroxide) Gel 0.3%/2.5%
+(adapalene and benzoyl peroxide) Topical Gel 0.3%/2.5%
 
 PUMP
 
@@ -43,4 +43,4 @@ All trademarks are the property of their respective owners
 
 www.epiduoforte.com
 
-P52750-2
+P52750-X
