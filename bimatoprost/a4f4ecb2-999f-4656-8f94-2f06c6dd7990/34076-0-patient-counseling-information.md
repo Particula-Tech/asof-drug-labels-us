@@ -14,6 +14,6 @@ Use with Other Ophthalmic Drugs Advise patients that if more than one topical op
 
 Rx Only
 
-Manufactured for: Alembic Pharmaceutical, Inc. 750 Route 202, Bridgewater, NJ 08807 USA Made in India.
+Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
 
-Manufactured by: Gland Pharma Limited Hyderabad- 500043, INDIA Revised 10/2020
+Manufactured by: Gland Pharma Limited Hyderabad- 500043, INDIA Revised: 03/2022
