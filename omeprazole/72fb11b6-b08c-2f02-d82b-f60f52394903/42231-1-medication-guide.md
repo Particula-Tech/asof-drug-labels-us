@@ -92,7 +92,7 @@ What should I tell my doctor before taking omeprazole delayed-release capsules?
 
 Before taking omeprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
-• have been told that you have low magnesium levels in your blood
+• have low magnesium levels, low calcium levels and low potassium levels in your blood
 
 • have liver problems
 
@@ -178,6 +178,15 @@ In addition to the side effects listed above, the most common side effects in ch
 | • respiratory system events | • fever |
 | --- | --- |
 
+- Severe skin reactions.
+  Omeprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+  - Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+
+Stop taking omeprazole delayed-release capsules and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
+
 Other side effects:
 
 Serious allergic reactions.
@@ -253,7 +262,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1221
+Revised: 02/2022
 
 Dispense with medication guide available at:
 
