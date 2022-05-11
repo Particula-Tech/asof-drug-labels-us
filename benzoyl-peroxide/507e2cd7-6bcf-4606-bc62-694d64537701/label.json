@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214510"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5890-00",
+    "0299-5890-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "benzoyl peroxide",
+      "name": "EPSOLAY"
+    }
+  ],
+  "setid": "507e2cd7-6bcf-4606-bc62-694d64537701",
+  "source": "dailymed"
+}
