@@ -29,12 +29,12 @@ The area under the plasma-concentration time curve (AUC) for MPA appears to incr
 
 Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
-| Healthy Volunteers | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Total AUC (mcg•h/mL) |
+| Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
 | Single dose | 1 g/oral | 0.80 | 24.5 | 63.9 |
 | (±0.36) | (±9.5) | (±16.2) |  |  |
 | (n=129) | (n=129) | (n=117) |  |  |
-| Kidney Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0- 12h)(mcg•h/mL) |
+| Kidney Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
 | 5 days | 1 g/iv | 1.58 | 12.0 | 40.8 |
 | (±0.46) | (±3.82) | (±11.4) |  |  |
 | (n=31) | (n=31) | (n=31) |  |  |
@@ -47,28 +47,27 @@ Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administratio
 | Early (Less than 40 days) | 1.5 g/oral | 1.21 | 13.5 | 38.4 |
 | (±0.81) | (±8.18) | (±15.4) |  |  |
 | (n=27) | (n=27) | (n=27) |  |  |
-| Late (Greater than 3 | 1.5 g/oral | 0.90 | 24.1 | 65.3 |
-| months) | (±0.24) | (±12.1) | (±35.4) |  |
+| Late (Greater than 3 months) | 1.5 g/oral | 0.90 | 24.1 | 65.3 |
+| (±0.24) | (±12.1) | (±35.4) |  |  |
 | (n=23) | (n=23) | (n=23) |  |  |
-| Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0- 12h)(mcg•h/mL) |
-| Early | 1.5 g/oral | 1.8 | 11.5 | 43.3 |
-| (Day before discharge) | (±1.3) | (±6.8) | (±20.8) |  |
+| Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
+| Early (Day before discharge) | 1.5 g/oral | 1.8 | 11.5 | 43.3 |
+| (±1.3) | (±6.8) | (±20.8) |  |  |
 | (n=11) | (n=11) | (n=9) |  |  |
-| Late (Greater than 6 | 1.5 g/oral | 1.1 | 20.0 | 54.1a |
-| months) | (±0.7) | (±9.4) | (±20.4) |  |
+| Late (Greater than 6 months) | 1.5 g/oral | 1.1 | 20.0 | 54.1a |
+| (±0.7) | (±9.4) | (±20.4) |  |  |
 | (n=52) | (n=52) | (n=49) |  |  |
-| Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0- 12h)(mcg•h/mL) |
+| Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 | 17.0 | 34.0 |
 | (±0.517) | (±12.7) | (±17.4) |  |  |
 | (n=22) | (n=22) | (n=22) |  |  |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 | 13.1 | 29.2 |
 | (±0.432) | (±6.76) | (±11.9) |  |  |
 | (n=20) | (n=20) | (n=20) |  |  |
-| Late (Greater than 6 | 1.5 g/oral | 1.54 | 19.3 | 49.3 |
-| months) | (±0.51) | (±11.7) | (±14.8) |  |
+| Late (Greater than 6 months) | 1.5 g/oral | 1.54 | 19.3 | 49.3 |
+| (±0.51) | (±11.7) | (±14.8) |  |  |
 | (n=6) | (n=6) | (n=6) |  |  |
-
-aAUC(0-12h) values quoted are extrapolated from data from samples collected over 4 hours.
+| aAUC(0-12h) values quoted are extrapolated from data from samples collected over 4 hours. |  |  |  |  |
 
 In the early post-transplant period (less than 40 days post-transplant), kidney, heart, and liver transplant patients had mean MPA AUCs approximately 20% to 41% lower and mean Cmax approximately 32% to 44% lower compared to the late transplant period (i.e., 3 to 6 months post-transplant) (non-stationarity in MPA pharmacokinetics).
 
@@ -105,7 +104,7 @@ In vivo, MPAG is converted to MPA during enterohepatic recirculation.
 The following metabolites of the 2-hydroxyethyl-morpholino moiety are also recovered in the urine following oral administration of MMF to healthy subjects: N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide of N-(2-hydroxyethyl)-morpholine.
 
 Due to the enterohepatic recirculation of MPAG/MPA, secondary peaks in the plasma MPA concentration-time profile are usually observed 6 to 12 hours post-dose.
-Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdose (10) and Drug Interaction Studies below].
+Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdosage (10) and Drug Interaction Studies below].
 
 Excretion
 
@@ -156,23 +155,19 @@ MPA AUC was 44.1 mcg•h/mL (±15.5).
 
 Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
-| Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | Dose | Tmax(h) | Cmax (mcg/mL) | AUC(0-96h)(mcg•h/mL) |  |
-| Healthy VolunteersGFR greater than 80 mL/min/1.73 m2 (n=6) |  | 1 g | 0.75 | 25.3 | 45.0 |  |
-| (±0.27) | (±7.99) | (±22.6) |  |  |  |  |
-| Mild Renal ImpairmentGFR 50 to 80 mL/min/1.73 m2(n=6) |  | 1 g | 0.75 | 26.0 | 59.9 |  |
-| (±0.27) | (±3.82) | (±12.9) |  |  |  |  |
-| Moderate Renal ImpairmentGFR 25 to 49 mL/min/1.73 m2(n=6) |  | 1 g | 0.75 | 19.0 | 52.9 |  |
-| (±0.27) | (±13.2) | (±25.5) |  |  |  |  |
-| Severe Renal ImpairmentGFR less than 25 mL/min/1.73 m2(n=7) |  | 1 g | 1.00 | 16.3 | 78.6 |  |
-| (±0.41) | (±10.8) | (±46.4) |  |  |  |  |
-| Pharmacokinetic Parameters for Hepatic Impairment |  |  |  |  |  |  |
-|  | Dose |  | Tmax(h) | Cmax (mcg/mL) | AUC(0-48h)(mcg•h/mL) |  |
-| Healthy Volunteers(n=6) | 1 g |  | 0.63 | 24.3 | 29.0 |  |
-| (±0.14) | (±5.73) | (±5.78) |  |  |  |  |
-| Alcoholic Cirrhosis(n=18) | 1 g |  | 0.85 | 22.4 | 29.8 |  |
-| (±0.58) | (±10.1) | (±10.7) |  |  |  |  |
+| Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-96h) (mcg•h/mL) |
+| Healthy VolunteersGFR greater than 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75(±0.27) | 25.3(±7.99) | 45.0(±22.6) |
+| Mild Renal ImpairmentGFR 50 to 80 mL/min/1.73 m2(n=6) | 1 g | 0.75(±0.27) | 26.0(±3.82) | 59.9(±12.9) |
+| Moderate Renal ImpairmentGFR 25 to 49 mL/min/1.73 m2(n=6) | 1 g | 0.75(±0.27) | 19.0(±13.2) | 52.9(±25.5) |
+| Severe Renal ImpairmentGFR less than 25 mL/min/1.73 m2(n=7) | 1 g | 1.00(±0.41) | 16.3(±10.8) | 78.6(±46.4) |
+| Pharmacokinetic Parameters for Hepatic Impairment |  |  |  |  |
+|  | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-48h) (mcg•h/mL) |
+| Healthy Volunteers | 1 g | 0.63 | 24.3 | 29.0 |
+| (n=6) | (±0.14) | (±5.73) | (±5.78) |  |
+| Alcoholic Cirrhosis | 1 g | 0.85 | 22.4 | 29.8 |
+| (n=18) | (±0.58) | (±10.1) | (±10.7) |  |
 
 Pediatric Patients
 
@@ -181,25 +176,27 @@ The pharmacokinetic data for MPA is provided in Table 10.
 
 Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
-| Age Group (n) | Time | Tmax(h) | Dose AdjustedaCmax(mcg/mL) | Dose Adjusteda AUC0-12(mcg•h/mL) |
-| --- | --- | --- | --- | --- |
-| Early (Day 7) |  |  |  |  |
-| 1 to less than 2 yr (6)d |  | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
-| 1 to less than 6 yr (17) |  | 1.63 (2.85) | 13.2 (7.16) | 27.4 (9.54) |
-| 6 to less than 12 yr (16) |  | 0.940 (0.546) | 13.1 (6.30) | 33.2 (12.1) |
-| 12 to 18 yr (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)b |
-| Late (Month 3) |  |  |  |  |
-| 1 to less than 2 yr (4)d |  | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
-| 1 to less than 6 yr (15) |  | 0.989 (0.511) | 22.7 (10.1) | 49.7 (18.2) |
-| 6 to less than 12 yr (14) |  | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |
-| 12 to 18 yr (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)c |
-| Late (Month 9) |  |  |  |  |
-| 1 to less than 2 yr (4)d |  | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
-| 1 to less than 6 yr (12) |  | 0.869 (0.479) | 30.4 (9.16) | 61.0 (10.7) |
-| 6 to less than 12 yr (11) |  | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |
-| 12 to 18 yr (14) |  | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14.0) |
-
-a adjusted to a dose of 600 mg/m2 b n=20 c n=16 d a subset of 1 to <6 yr
+| Age Group | (n) | Time | Tmax (h) | Dose AdjustedaCmax (mcg/mL) | Dose AdjustedaAUC0-12(mcg•h/mL) |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Early (Day 7) |  |  |  |
+| 1 to less than 2 yr | (6)d |  | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
+| 1 to less than 6 yr | (17) |  | 1.63 (2.85) | 13.2 (7.16) | 27.4 (9.54) |
+| 6 to less than 12 yr | (16) |  | 0.940 (0.546) | 13.1 (6.30) | 33.2 (12.1) |
+| 12 to 18 yr | (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)b |
+|  |  | Late (Month 3) |  |  |  |
+| 1 to less than 2 yr | (4) d |  | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
+| 1 to less than 6 yr | (15) |  | 0.989 (0.511) | 22.7 (10.1) | 49.7 (18.2) |
+| 6 to less than 12 yr | (14) |  | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |
+| 12 to 18 yr | (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)c |
+|  |  | Late (Month 9) |  |  |  |
+| 1 to less than 2 yr | (4) d |  | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
+| 1 to less than 6 yr | (12) |  | 0.869 (0.479) | 30.4 (9.16) | 61.0 (10.7) |
+| 6 to less than 12 yr | (11) |  | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |
+| 12 to 18 yr | (14) |  | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14.0) |
+| a adjusted to a dose of 600 mg/m2 |  |  |  |  |  |
+| b n=20 |  |  |  |  |  |
+| c n=16 |  |  |  |  |  |
+| d a subset of 1 to <6 yr |  |  |  |  |  |
 
 The mycophenolate mofetil oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
@@ -244,7 +241,7 @@ Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) wer
 The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
-In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
+In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30% to 50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance­-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
@@ -263,10 +260,10 @@ The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±2
 
 Oral Contraceptives
 
-A study of coadministration of mycophenolate mofetil capsules (1 g twice daily) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) was conducted in 18 women with psoriasis over 3 consecutive menstrual cycles.
+A study of coadministration of mycophenolate mofetil capsules (1 g twice daily) and combined oral contraceptives containing ethinyl estradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) was conducted in 18 women with psoriasis over 3 consecutive menstrual cycles.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
-Mean AUC(0-24h) was similar for ethinylestradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0-24h) significantly decreased by about 15%.
-There was large inter-patient variability (%CV in the range of 60% to 70%) in the data, especially for ethinylestradiol.
+Mean AUC(0-24h) was similar for ethinyl estradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0-24h) significantly decreased by about 15%.
+There was large inter-patient variability (%CV in the range of 60% to 70%) in the data, especially for ethinyl estradiol.
 
 Sevelamer
 

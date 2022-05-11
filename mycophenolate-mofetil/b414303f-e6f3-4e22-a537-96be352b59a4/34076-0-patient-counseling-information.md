@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Information for Patients
-
-See FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 ## 17.1 Embryofetal Toxicity
 
@@ -33,7 +31,7 @@ Contraception
 ## 17.3 Increased Risk of Serious Infections
 
 Inform patients that they are at increased risk of developing a variety of infections due to immunosuppression.
-Instruct them to contact their physician if they develop any of the signs and symptoms of infection explained in the Medication Guide.
+Instruct them to contact their physician if they develop any of the signs and symptoms of infection explained in the Medication Guide [see Warnings and Precautions (5.3)].
 
 ## 17.4 Blood Dyscrasias
 
@@ -45,12 +43,18 @@ Advise patients to immediately contact their healthcare provider if they experie
 Inform patients that mycophenolate mofetil capsules can cause gastrointestinal tract complications including bleeding, intestinal perforations, and gastric or duodenal ulcers.
 Advise the patient to contact their healthcare provider if they have symptoms of gastrointestinal bleeding, or sudden onset or persistent abdominal pain [see Warnings and Precautions (5.5)].
 
-## 17.6 Immunizations
+## 17.6 Acute Inflammatory Syndrome
+
+Inform patients that acute inflammatory reactions have been reported in some patients who received mycophenolate mofetil capsules.
+Some reactions were severe, requiring hospitalization.
+Advise patients to contact their physician if they develop fever, joint stiffness, joint pain or muscle pains [see Warnings and Precautions (5.7)].
+
+## 17.7 Immunizations
 
 Inform patients that mycophenolate mofetil capsules can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.7)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
 
-## 17.7 Administration Instructions
+## 17.8 Administration Instructions
 
 - Advise patients not to open mycophenolate mofetil capsules.
 
@@ -60,18 +64,18 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 
 - Advise patients to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case they should continue to take mycophenolate mofetil capsules at the usual times.
 
-## 17.8 Blood Donation
+## 17.9 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil capsules.
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.11)].
 
-## 17.9 Semen Donation
+## 17.10 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules.
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.12)].
 
-## 17.10 Potential to Impair Driving and Use of Machinery
+## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil capsules can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules.
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules [See Warnings and Precautions (5.14)].
 
 Brands listed are the trademarks of their respective owners.
 
@@ -83,4 +87,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-Q 8/2021
+R 3/2022

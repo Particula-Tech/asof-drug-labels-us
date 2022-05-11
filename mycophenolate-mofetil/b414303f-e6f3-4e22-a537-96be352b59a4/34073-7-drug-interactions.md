@@ -10,15 +10,15 @@ Table 5 Drug Interactions with Mycophenolate Mofetil Capsules that Affect Mycoph
 | Prevention or Management | Administer magnesium or aluminum hydroxide containing antacids at least 2h after mycophenolate mofetil capsules administration. |
 | Proton Pump Inhibitors (PPIs) |  |
 | Clinical Impact | Concomitant use with PPIs decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
-| Prevention or Management | Monitor patients for alterations in efficacy when PPIs are co- administered with mycophenolate mofetil capsules. |
+| Prevention or Management | Monitor patients for alterations in efficacy when PPIs are coadministered with mycophenolate mofetil capsules. |
 | Examples | Lansoprazole, pantoprazole |
 | Drugs that Interfere with Enterohepatic Recirculation |  |
 | Clinical Impact | Concomitant use with drugs that directly interfere with enterohepatic recirculation, or indirectly interfere with enterohepatic recirculation by altering the gastrointestinal flora, can decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
-| Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil capsules. |
+| Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are coadministered with mycophenolate mofetil capsules. |
 | Examples | Trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
 | Drugs Modulating Glucuronidation |  |
 | Clinical Impact | Concomitant use with drugs inducing glucuronidation decreases MPA systemic exposure, potentially reducing mycophenolate mofetil efficacy, while use with drugs inhibiting glucuronidation increases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may increase the risk of mycophenolate mofetil related adverse reactions. |
-| Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil capsules. |
+| Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are coadministered with mycophenolate mofetil capsules. |
 | Examples | Telmisartan (induces glucuronidation); isavuconazole (inhibits glucuronidation). |
 | Calcium Free Phosphate Binders |  |
 | Clinical Impact | Concomitant use with calcium free phosphate binders decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
@@ -32,8 +32,8 @@ Table 6 Drug Interactions with Mycophenolate Mofetil Capsules that Affect Other 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |
 | Clinical Impact | When concomitantly used with mycophenolate mofetil capsules, its metabolite MPAG, may compete with drugs eliminated by renal tubular secretion which may increase plasma concentrations and/or adverse reactions associated with these drugs. |
-| Prevention or Management | Monitor for drug-related adverse reactions in patients with renalimpairment. |
+| Prevention or Management | Monitor for drug-related adverse reactions in patients with renal impairment. |
 | Examples | Acyclovir, ganciclovir, probenecid, valacyclovir, valganciclovir |
 | Combination Oral Contraceptives |  |
-| Clinical Impact | Concomitant use with mycophenolate mofetil capsules decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |
+| Clinical Impact | Concomitant use with mycophenolate mofetil capsules decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinyl estradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |
 | Prevention or Management | Use additional barrier contraceptive methods. |

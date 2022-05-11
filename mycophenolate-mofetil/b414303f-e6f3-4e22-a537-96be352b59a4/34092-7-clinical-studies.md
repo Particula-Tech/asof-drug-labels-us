@@ -17,7 +17,7 @@ Patients who prematurely discontinued treatment were not followed for the occurr
 
 Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
 
-| USA Study (N=499 patients) | Mycophenolate Mofetil 2 g/day (n=167 patients) | Mycophenolate Mofetil 3 g/day (n=166 patients) | AZA1 to 2 mg/kg/day (n=166 patients) |
+| USA Study(N=499 patients) | Mycophenolate Mofetil 2 g/day (n=167 patients) | Mycophenolate Mofetil 3 g/day (n=166 patients) | AZA1 to 2 mg/kg/day (n=166 patients) |
 | --- | --- | --- | --- |
 | All 3 groups received anti-thymocyte globulin induction, cyclosporine and corticosteroids |  |  |  |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
@@ -33,8 +33,7 @@ Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
 | All treatment failures | 30.3% | 38.8% | 56.0% |
 | Early termination without prior acute rejection | 11.5% | 22.5% | 7.2% |
 | Biopsy-proven rejectionepisode on treatment | 17.0% | 13.8% | 46.4% |
-
-*Does not include death and graft loss as reason for early termination.
+| *Does not include death and graft loss as reason for early termination. |  |  |  |
 
 No advantage of mycophenolate mofetil at 12 months with respect to graft loss or patient death (combined) was established (Table 12).
 Numerically, patients receiving mycophenolate mofetil 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving mycophenolate mofetil 2 g/day experienced a better outcome than mycophenolate mofetil 3 g/day in two of the three studies.
@@ -42,7 +41,7 @@ Patients in all treatment groups who terminated treatment early were found to ha
 
 Table 12 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
-| Study | Mycophenolate Mofetil 2 g/day | Mycophenolate Mofetil 3 g/day | Control (AZA or Placebo) |
+| Study | Mycophenolate Mofetil2 g/day | Mycophenolate Mofetil3 g/day | Control (AZA or Placebo) |
 | --- | --- | --- | --- |
 | USA | 8.5% | 11.5% | 12.2% |
 | Europe/Canada/Australia | 11.7% | 11.0% | 13.6% |
@@ -71,13 +70,12 @@ The analyses of the endpoints showed:
 
 Table 13 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
-|  | All Patients (ITT) | Treated Patients |  |  |
+|  | All Patients (ITT) |  | Treated Patients |  |
 | --- | --- | --- | --- | --- |
 | AZA N = 323 | Mycophenolate Mofetil N = 327 | AZA N = 289 | Mycophenolate Mofetil N = 289 |  |
 | Biopsy-proven rejection with hemodynamic compromise at 6 monthsa | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
-| Death or re-transplantation at 1 year | 49(15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
-
-a Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition.
+| Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
+| a Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition. |  |  |  |  |
 
 ## 14.3 Liver Transplantation
 
@@ -90,9 +88,9 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 
 In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14).
 
-Table 14 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
+Table 14 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
 |  | AZA N = 287 | Mycophenolate Mofetil N = 278 |
 | --- | --- | --- |
-| Biopsy-proven, treated rejection at 6 months (includes death or re- transplantation) | 137 (47.7%) | 107 (38.5%) |
+| Biopsy-proven, treated rejection at 6 months (includes death or re-transplantation) | 137 (47.7%) | 107 (38.5%) |
 | Death or re-transplantation at 1 year | 42 (14.6%) | 41 (14.7%) |

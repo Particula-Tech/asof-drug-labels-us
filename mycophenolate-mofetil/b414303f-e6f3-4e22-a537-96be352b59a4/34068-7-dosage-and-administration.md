@@ -23,15 +23,15 @@ Patients should be instructed to take a missed dose as soon as they remember, ex
 
 Adults
 
-The recommended dose for adult kidney transplant patients is 1 g orally, twice daily (daily dose of 2 g).
+The recommended dosage for adult kidney transplant patients is 1 g orally, twice daily (daily dose of 2 g).
 
 Pediatrics (3 months and older)
 
 Pediatric dosing is based on body surface area (BSA).
-The recommended dose of mycophenolate mofetil oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2g or 10 mL of the oral suspension).
+The recommended dosage of mycophenolate mofetil oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
 Pediatric patients with BSA ≥1.25 m2 may be dosed with capsules or tablets as follows:
 
-Table 1 Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
+Table 1: Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
 | Body Surface Area | Dosing |
 | --- | --- |
@@ -40,11 +40,11 @@ Table 1 Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transpla
 
 ## 2.3 Dosing for Heart Transplant Patients: Adults
 
-The recommended dose of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally administered twice daily (daily dose of 3 g).
+The recommended dosage of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally administered twice daily (daily dose of 3 g).
 
 ## 2.4 Dosing for Liver Transplant Patients: Adults
 
-The recommended dose of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g).
+The recommended dosage of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g).
 
 ## 2.5 Dosing Adjustments: Patients with Renal Impairment, Neutropenia
 

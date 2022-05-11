@@ -16,7 +16,7 @@ Consider alternative immunosuppressants with less potential for embryofetal toxi
 Risks and benefits of mycophenolate mofetil capsules should be discussed with the pregnant woman.
 
 The estimated background risk of pregnancy loss and congenital malformations in organ transplant populations is not clear.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -25,7 +25,7 @@ Human Data
 A spectrum of congenital malformations (including multiple malformations in individual newborns) has been reported in 23 to 27% of live births in MMF exposed pregnancies, based on published data from pregnancy registries.
 Malformations that have been documented include external ear, eye, and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system.
 
-Based on published data from pregnancy registries, the risk of first trimester pregnancy loss has been reported at 45 to 49% following MMF exposure.
+Based on published data from pregnancy registries, the risk of first trimester pregnancy loss has been reported at 45% to 49% following MMF exposure.
 
 Animal Data
 
@@ -76,31 +76,17 @@ Patients must use acceptable birth control during the entire mycophenolate mofet
 
 Patients should be aware that mycophenolate mofetil capsules reduce blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7 Acceptable Contraception Methods for Females of Reproductive Potential
+Table 7 Acceptable Contraception Methods for Females of Reproductive Potential Pick from the following birth control options:
 
-Pick from the following birth control options:
-
-| Option 1 |  |
-| --- | --- |
-| Methods to | Intrauterine devices (IUDs) |
-| Use Alone | Tubal sterilization |
-|  | Patient’s partner vasectomy |
-
-| OR |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Option 2 | Hormone Methodschoose 1 |  | Barrier Methodschoose 1 |  |
-| Choose One Hormone Method AND | Estrogen and Progesterone Oral Contraceptive Pill |  | Diaphragm with spermicide |  |
-| One Barrier Method | Transdermal patch |  | Cervical cap with spermicide |  |
-|  | Vaginal ring | AND | Contraceptive sponge |  |
-|  |  |  | Male condom |  |
-|  | Progesterone-only |  | Female condom |  |
-|  | Injection |  |  |  |
-|  | Implant |  |  |  |
-| OR |  |  |  |  |
-| Option 3 | Barrier Methodschoose 1 |  | Barrier Methodschoose 1 |  |
-| Choose One Barrier Method from each column (must choose two methods) | Diaphragm with spermicide |  | Male condom |  |
-|  | Cervical cap with spermicide | AND | Female condom |  |
-|  | Contraceptive sponge |  |  |  |
+| Option 1 |  |  |  |
+| --- | --- | --- | --- |
+| Methods toUse Alone | Intrauterine devices (IUDs)Tubal sterilizationPatient’s partner vasectomy |  |  |
+| OR |  |  |  |
+| Option 2 | Hormone Methodschoose 1 |  | Barrier Methodschoose 1 |
+| Choose One Hormone Method ANDOne BarrierMethod | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ringProgesterone-onlyInjectionImplant | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive spongeMale condomFemale condom |
+| OR |  |  |  |
+| Option 3 | Barrier Methodschoose 1 |  | Barrier Methodschoose 1 |
+| Choose One Barrier Method from each column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
 
 Male Patients
 
@@ -119,14 +105,14 @@ Safety and effectiveness in pediatric patients receiving allogeneic heart or liv
 ## 8.5 Geriatric Use
 
 Clinical studies of mycophenolate mofetil capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies [see Adverse Reactions (6.1), Drug Interactions (7)].
+Other reported clinical experience has not identified differences in responses between the geriatric and younger patients.
+In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies [see Adverse Reactions (6.1), Drug Interactions (7)].
 
 ## 8.6 Patients with Renal Impairment
 
 Patients with Kidney Transplant
 
-No dose adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
+No dosage adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
 
 Patients with Heart and Liver Transplant
@@ -138,8 +124,8 @@ Mycophenolate mofetil capsules may be used for heart or liver transplant patient
 
 Patients with Kidney Transplant
 
-No dose adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
-However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
+No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
+However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
 
 Patients with Heart Transplant
 
