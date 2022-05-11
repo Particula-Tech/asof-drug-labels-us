@@ -12,9 +12,9 @@ While serious, life-threatening, or fatal respiratory depression can occur at an
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
 Monitor patients closely for respiratory depression, when initiating therapy with methadone hydrochloride tablets for oral suspension and following dose increases.
 
-Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
+Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression [see Patient Counseling Information (17)].
 
-To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.4)].
+To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.5)].
 Overestimating the methadone dosage when initiating treatment can result in fatal overdose with the first dose.
 
 To further reduce the risk of respiratory depression, consider the following:
@@ -22,14 +22,26 @@ To further reduce the risk of respiratory depression, consider the following:
 - Patients tolerant to other opioids may be incompletely tolerant to methadone.
   Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-  Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.4)].
+  Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.5)].
 - Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2)].
 
-## 5.2 Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+## 5.2 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
 
 Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -49,6 +61,9 @@ In others, gradually tapering a patient off a prescribed benzodiazepine or other
 For patients in methadone treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
+
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
+
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
@@ -72,7 +87,7 @@ The use of methadone in patients already known to have a prolonged QT interval h
 ## 5.4 Accidental Ingestion
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets for oral suspension, especially by children, can result in respiratory depression and death due to an overdose.
-Keep methadone hydrochloride tablets for oral suspension out of reach of children to prevent accidental ingestion.
+Keep methadone hydrochloride tablets for oral suspension out of reach of children to prevent accidental ingestion [see Warnings and Precautions (5.1)].
 
 ## 5.5 Misuse, Abuse, and Diversion of Opioids
 
@@ -165,7 +180,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including methadone hydrochloride tablets for oral suspension.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing methadone hydrochloride tablets for oral suspension, gradually taper the dosage [see Dosage and Administration (2.6, 2.7)].
+When discontinuing methadone hydrochloride tablets for oral suspension, gradually taper the dosage [see Dosage and Administration (2.7, 2.8)].
 Do not abruptly discontinue methadone hydrochloride tablets for oral suspension [see Drug Abuse and Dependence (9.3)].
 
 ## 5.16 Risks of Driving and Operating Machinery

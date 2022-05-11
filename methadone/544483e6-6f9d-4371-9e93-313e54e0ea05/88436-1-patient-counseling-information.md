@@ -2,12 +2,28 @@
 
 Provide the following information to patients receiving methadone hydrochloride tablets for oral suspension or to their caregivers:
 
-Life-Threatening Respiratory Depression Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting methadone hydrochloride tablets for oral suspension or when the dose is increased [see Warnings and Precautions (5.1)].
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Life-Threatening Respiratory Depression Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting methadone hydrochloride tablets for oral suspension or when the dose is increased.
 
-Interactions with Benzodiazepines and Other CNS Depressants
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.1)].
 
-Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets for oral suspension are used with benzodiazepines or other CNS depressants, including alcohol.
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to naloxone with the patient and caregiver.
+Also discuss the importance of having access to naloxone if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
+Repeat administration may be necessary, particularly for overdose involving methadone hydrochloride tablets for oral suspension, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.3), Warnings and Precautions (5.1), Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
+
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets for oral suspension are used with benzodiazepines or other CNS depressants, including alcohol.
 Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2)].
 
 Symptoms of Arrhythmia Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.3)].
@@ -49,9 +65,13 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Neonatal Opioid Withdrawal Advise women that if they are pregnant while being treated with methadone hydrochloride tablets for oral suspension, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.6), Specific Populations (8.1)].
 
-Lactation Instruct nursing mothers using methadone hydrochloride tablets for oral suspension to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+Lactation Advise women who are breastfeeding to monitor the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
+Instruct nursing mothers using methadone hydrochloride tablets for oral suspension to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
+
+Infertility Advise patients that chronic use of opioids, such as methadone hydrochloride tablets for oral suspension, may cause reduced fertility.
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery Inform patients that methadone hydrochloride tablets for oral suspension may impair the ability to perform potentially hazardous activities such as driving or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
@@ -64,6 +84,6 @@ Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and 
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 01/2021
+Issued: 06/2021
 
 Mallinckrodt™ Pharmaceuticals
