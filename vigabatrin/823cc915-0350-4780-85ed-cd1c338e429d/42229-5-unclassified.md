@@ -103,4 +103,4 @@ Manufactured By: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Haup
 
 Manufactured for: Cipla USA, Inc. 10 Independence Boulevard, Suite 300 Warren, NJ 07059
 
-Revised: 02/2020
+Revised: 04/2022

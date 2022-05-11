@@ -55,4 +55,4 @@ Withdrawal of Vigabatrin for oral solution Therapy
 Instruct patients and caregivers not to suddenly discontinue vigabatrin for oral solution therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.6)].
 
-Revised: 02/2020
+Revised: 04/2022

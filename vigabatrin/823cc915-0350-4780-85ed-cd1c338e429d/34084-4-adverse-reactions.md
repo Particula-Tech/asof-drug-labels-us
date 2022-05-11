@@ -209,7 +209,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 11 |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of vigabatrin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

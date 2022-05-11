@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Vigabatrin for Oral Solution, USP 500 mg packets contain a white to off-white powder and supplied as:
+Vigabatrin for Oral Solution, USP 500 mg packets contain a white to off-white granular powder and supplied as:
 
 Carton of 50 unit dose packets (NDC 69097-964-53).
 The oral syringes are provided separately by the pharmacy.
