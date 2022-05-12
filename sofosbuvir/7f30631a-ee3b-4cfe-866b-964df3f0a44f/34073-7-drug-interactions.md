@@ -49,10 +49,10 @@ Table 4 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 
 ## 7.4 Drugs without Clinically Significant Interactions with EPCLUSA
 
-Based on drug interaction studies conducted with the components of EPCLUSA (sofosbuvir or velpatasvir) or EPCLUSA, no clinically significant drug interactions have been observed with the following drugs [see Clinical Pharmacology (12.3)]:
+Based on drug interaction studies conducted with the components of EPCLUSA (sofosbuvir or velpatasvir) or EPCLUSA, no clinically significant drug interactions have been observed or are expected with the following drugs [see Clinical Pharmacology (12.3)]:
 
-- EPCLUSA: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine.
-- Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus.
+- EPCLUSA: atazanavir/ritonavir, buprenorphine/naloxone, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, methadone, naltrexone, raltegravir, or rilpivirine.
+- Sofosbuvir: ethinyl estradiol/norgestimate, or tacrolimus.
 - Velpatasvir: ethinyl estradiol/norgestimate, ketoconazole, or pravastatin.
 
 See Table 4 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].

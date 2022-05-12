@@ -66,8 +66,8 @@ For more information, call 1-800-445-3235 or go to www.EPCLUSA.com.
 
 Manufactured for and distributed by: Gilead Sciences, Inc., Foster City, CA 94404 EPCLUSA is a trademark of Gilead Sciences, Inc., or its related companies.
 
-© 2021 Gilead Sciences, Inc. All rights reserved.
-208341-GS-009
+© 2022 Gilead Sciences, Inc. All rights reserved.
+208341-GS-010
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Issued: June 2021

@@ -196,48 +196,48 @@ No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, or velpata
 
 Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, or EPCLUSAAll interaction studies conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, or EPCLUSA No Effect=1.00 |  |  |  |
-| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | atazanavir 300 once daily | 400 once daily | 100 once daily | 24 | 1.09 (1.00, 1.19) | 1.20 (1.10, 1.31) | 1.39 (1.20, 1.61) |  |
-| ritonavir 100 once daily | 0.89 (0.82, 0.97) | 0.97 (0.89, 1.05) | 1.29 (1.15, 1.44) |  |  |  |  |  |
-| emtricitabine 200 once daily | 1.01 (0.96, 1.06) | 1.02 (0.99, 1.04) | 1.06 (1.02, 1.11) |  |  |  |  |  |
-| tenofovir DF 300 once daily | 1.55 (1.43, 1.68) | 1.30 (1.24, 1.36) | 1.39 (1.31, 1.48) |  |  |  |  |  |
-| Atorvastatin | 40 single dose | 400 once daily | 100 once daily | 26 | 1.68 (1.49, 1.89) | 1.54 (1.45, 1.64) | NA |  |
-| Darunavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | darunavir 800 once daily | 400 once daily | 100 once daily | 29 | 0.90 (0.86, 0.95) | 0.92 (0.87, 0.98) | 0.87 (0.79, 0.95) |  |
-| ritonavir 100 once daily | 1.07 (0.97, 1.17) | 1.12 (1.05, 1.19) | 1.09 (1.02, 1.15) |  |  |  |  |  |
-| emtricitabine 200 once daily | 1.05 (1.01, 1.08) | 1.05 (1.02, 1.08) | 1.04 (0.98, 1.09) |  |  |  |  |  |
-| tenofovir DF 300 once daily | 1.55 (1.45, 1.66) | 1.39 (1.33, 1.44) | 1.52 (1.45, 1.59) |  |  |  |  |  |
-| Digoxin | 0.25 single dose | ND | 100 | 21 | 1.88 (1.71, 2.08) | 1.34 (1.13, 1.60) | NA |  |
-| Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | 400 once daily | 100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |  |
-| emtricitabine 200 once daily | 1.07 (0.98, 1.18) | 1.07 (1.00, 1.14) | 1.10 (0.97, 1.25) |  |  |  |  |  |
-| tenofovir DF 300 once daily | 1.77 (1.53, 2.04) | 1.81 (1.68, 1.94) | 2.21 (2.00, 2.43) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |  |
-| cobicistat 150 once daily | 1.16 (1.09, 1.23) | 1.30 (1.23, 1.38) | 2.03 (1.67, 2.48) |  |  |  |  |  |
-| emtricitabine 200 once daily | 1.02 (0.97, 1.06) | 1.01 (0.98, 1.04) | 1.02 (0.97, 1.07) |  |  |  |  |  |
-| tenofovir alafenamide 10 once daily | 0.80 (0.68, 0.94) | 0.87 (0.81, 0.94) | NA |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as STRIBILD (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |  |
-| cobicistat 150 once daily | 1.11 (1.06, 1.17) | 1.23 (1.17, 1.29) | 1.71 (1.54, 1.90) |  |  |  |  |  |
-| emtricitabine 200 once daily | 1.02 (0.97, 1.08) | 1.01 (0.98, 1.04) | 1.06 (1.01, 1.11) |  |  |  |  |  |
-| tenofovir DF 300 once daily | 1.36 (1.25, 1.47) | 1.35 (1.29, 1.42) | 1.45 (1.39, 1.51) |  |  |  |  |  |
-| Emtricitabine/ rilpivirine/ tenofovir DFAdministered as COMPLERA® (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |  |
-| rilpivirine 25 once daily | 0.93 (0.88, 0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90, 1.03) |  |  |  |  |  |
-| tenofovir DF 300 once daily | 1.44 (1.33, 1.55) | 1.40 (1.34, 1.46) | 1.84 (1.76, 1.92) |  |  |  |  |  |
-| Norelgestromin | norgestimate 0.180/0.215/0.25/ethinyl estradiol 0.025 once daily | ND | 100 once daily | 13 | 0.97 (0.88, 1.07) | 0.90 (0.82, 0.98) | 0.92 (0.83, 1.03) |  |
-| 400 once daily | ND | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |  |  |  |
-| Norgestrel | ND | 100 once daily | 13 | 0.96 (0.78, 1.19) | 0.91 (0.73, 1.15) | 0.92 (0.73, 1.18) |  |  |
-| 400 once daily | ND | 15 | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |  |
-| Ethinyl estradiol | ND | 100 once daily | 12 | 1.39 (1.17, 1.66) | 1.04 (0.87, 1.24) | 0.83 (0.65, 1.06) |  |  |
-| 400 once daily | ND | 15 | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |
-| Pravastatin | 40 single dose | ND | 100 once daily | 18 | 1.28 (1.08, 1.52) | 1.35 (1.18, 1.54) | NA |  |
-| Rosuvastatin | 10 single dose | ND | 100 once daily | 18 | 2.61 (2.32, 2.92) | 2.69 (2.46, 2.94) | NA |  |
-| Raltegravir + emtricitabine/ tenofovir DF | emtricitabine 200 once daily | 400 once daily | 100 once daily | 30 | 1.08 (1.04, 1.12) | 1.05 (1.03, 1.07) | 1.02 (0.97, 1.08) |  |
-| tenofovir DF 300 once daily | 1.46 (1.39, 1.54) | 1.40 (1.34, 1.45) | 1.70 (1.61, 1.79) |  |  |  |  |  |
-| raltegravir 400 twice daily | 1.03 (0.74, 1.43) | 0.97 (0.73, 1.28) | 0.79 (0.42, 1.48) |  |  |  |  |  |
-| Tacrolimus | 5 single dose | 400 single dose | ND | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |  |
-| NA = not available/not applicable, ND = not dosed, DF = disoproxil fumarate. |  |  |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, or EPCLUSA No Effect=1.00 |  |  |
+| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | atazanavir 300 once daily | 400 once daily | 100 once daily | 24 | 1.09 (1.00, 1.19) | 1.20 (1.10, 1.31) | 1.39 (1.20, 1.61) |
+| ritonavir 100 once daily | 0.89 (0.82, 0.97) | 0.97 (0.89, 1.05) | 1.29 (1.15, 1.44) |  |  |  |  |
+| emtricitabine 200 once daily | 1.01 (0.96, 1.06) | 1.02 (0.99, 1.04) | 1.06 (1.02, 1.11) |  |  |  |  |
+| tenofovir DF 300 once daily | 1.55 (1.43, 1.68) | 1.30 (1.24, 1.36) | 1.39 (1.31, 1.48) |  |  |  |  |
+| Atorvastatin | 40 single dose | 400 once daily | 100 once daily | 26 | 1.68 (1.49, 1.89) | 1.54 (1.45, 1.64) | NA |
+| Darunavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | darunavir 800 once daily | 400 once daily | 100 once daily | 29 | 0.90 (0.86, 0.95) | 0.92 (0.87, 0.98) | 0.87 (0.79, 0.95) |
+| ritonavir 100 once daily | 1.07 (0.97, 1.17) | 1.12 (1.05, 1.19) | 1.09 (1.02, 1.15) |  |  |  |  |
+| emtricitabine 200 once daily | 1.05 (1.01, 1.08) | 1.05 (1.02, 1.08) | 1.04 (0.98, 1.09) |  |  |  |  |
+| tenofovir DF 300 once daily | 1.55 (1.45, 1.66) | 1.39 (1.33, 1.44) | 1.52 (1.45, 1.59) |  |  |  |  |
+| Digoxin | 0.25 single dose | ND | 100 | 21 | 1.88 (1.71, 2.08) | 1.34 (1.13, 1.60) | NA |
+| Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | 400 once daily | 100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |
+| emtricitabine 200 once daily | 1.07 (0.98, 1.18) | 1.07 (1.00, 1.14) | 1.10 (0.97, 1.25) |  |  |  |  |
+| tenofovir DF 300 once daily | 1.77 (1.53, 2.04) | 1.81 (1.68, 1.94) | 2.21 (2.00, 2.43) |  |  |  |  |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |
+| cobicistat 150 once daily | 1.16 (1.09, 1.23) | 1.30 (1.23, 1.38) | 2.03 (1.67, 2.48) |  |  |  |  |
+| emtricitabine 200 once daily | 1.02 (0.97, 1.06) | 1.01 (0.98, 1.04) | 1.02 (0.97, 1.07) |  |  |  |  |
+| tenofovir alafenamide 10 once daily | 0.80 (0.68, 0.94) | 0.87 (0.81, 0.94) | NA |  |  |  |  |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as STRIBILD (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |
+| cobicistat 150 once daily | 1.11 (1.06, 1.17) | 1.23 (1.17, 1.29) | 1.71 (1.54, 1.90) |  |  |  |  |
+| emtricitabine 200 once daily | 1.02 (0.97, 1.08) | 1.01 (0.98, 1.04) | 1.06 (1.01, 1.11) |  |  |  |  |
+| tenofovir DF 300 once daily | 1.36 (1.25, 1.47) | 1.35 (1.29, 1.42) | 1.45 (1.39, 1.51) |  |  |  |  |
+| Emtricitabine/ rilpivirine/ tenofovir DFAdministered as COMPLERA® (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |
+| rilpivirine 25 once daily | 0.93 (0.88, 0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90, 1.03) |  |  |  |  |
+| tenofovir DF 300 once daily | 1.44 (1.33, 1.55) | 1.40 (1.34, 1.46) | 1.84 (1.76, 1.92) |  |  |  |  |
+| Norelgestromin | norgestimate 0.180/0.215/0.25/ethinyl estradiol 0.025 once daily | ND | 100 once daily | 13 | 0.97 (0.88, 1.07) | 0.90 (0.82, 0.98) | 0.92 (0.83, 1.03) |
+| 400 once daily | ND | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |  |  |
+| Norgestrel | ND | 100 once daily | 13 | 0.96 (0.78, 1.19) | 0.91 (0.73, 1.15) | 0.92 (0.73, 1.18) |  |
+| 400 once daily | ND | 15 | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |
+| Ethinyl estradiol | ND | 100 once daily | 12 | 1.39 (1.17, 1.66) | 1.04 (0.87, 1.24) | 0.83 (0.65, 1.06) |  |
+| 400 once daily | ND | 15 | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |
+| Pravastatin | 40 single dose | ND | 100 once daily | 18 | 1.28 (1.08, 1.52) | 1.35 (1.18, 1.54) | NA |
+| Rosuvastatin | 10 single dose | ND | 100 once daily | 18 | 2.61 (2.32, 2.92) | 2.69 (2.46, 2.94) | NA |
+| Raltegravir + emtricitabine/ tenofovir DF | emtricitabine 200 once daily | 400 once daily | 100 once daily | 30 | 1.08 (1.04, 1.12) | 1.05 (1.03, 1.07) | 1.02 (0.97, 1.08) |
+| tenofovir DF 300 once daily | 1.46 (1.39, 1.54) | 1.40 (1.34, 1.45) | 1.70 (1.61, 1.79) |  |  |  |  |
+| raltegravir 400 twice daily | 1.03 (0.74, 1.43) | 0.97 (0.73, 1.28) | 0.79 (0.42, 1.48) |  |  |  |  |
+| Tacrolimus | 5 single dose | 400 single dose | ND | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
+| NA = not available/not applicable, ND = not dosed, DF = disoproxil fumarate. |  |  |  |  |  |  |  |
 
-No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with EPCLUSA (dolutegravir or lopinavir/ritonavir) or its components sofosbuvir (cyclosporine or methadone) or velpatasvir (cyclosporine).
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed or is expected with EPCLUSA (buprenorphine/naloxone, dolutegravir, lopinavir/ritonavir, or methadone) or its components sofosbuvir (cyclosporine) or velpatasvir (cyclosporine).
 
 ## 12.4 Microbiology
 
