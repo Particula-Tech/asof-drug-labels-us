@@ -103,7 +103,7 @@ Additional adverse experiences that were reported with ertapenem with an inciden
 
 The following additional adverse reactions have been identified during the post-approval use of ertapenem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Gastrointestinal Disorders: teeth staining Immune System Disorders: anaphylaxis including anaphylactoid reactions Musculoskeletal and Connective Tissue Disorders: muscular weakness Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), hypersensitivity vasculitis
+Gastrointestinal Disorders: teeth staining Immune System Disorders: anaphylaxis including anaphylactoid reactions Musculoskeletal and Connective Tissue Disorders: muscular weakness Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor, encephalopathy (recovery was prolonged in patients with renal impairment) Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), hypersensitivity vasculitis
 
 ## 6.3 Adverse Laboratory Changes in Clinical Trials
 
