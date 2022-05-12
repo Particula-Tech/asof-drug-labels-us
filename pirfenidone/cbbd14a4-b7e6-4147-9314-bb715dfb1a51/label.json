@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212759"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-3610-87",
+    "0480-3611-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pirfenidone",
+      "name": "Pirfenidone"
+    }
+  ],
+  "setid": "cbbd14a4-b7e6-4147-9314-bb715dfb1a51",
+  "source": "dailymed"
+}
