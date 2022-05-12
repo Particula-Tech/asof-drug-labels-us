@@ -4,15 +4,15 @@ Adverse Reactions
 
 Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
-- Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
-- Injection Site Reactions [see Warnings and Precautions (5.3)]
-- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.4)]
-- Acute Tubulointerstitial Nephritis [see Contraindications (4), Warnings and Precautions (5.5)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
-- Bone Fracture [see Warnings and Precautions (5.7)]
+- Injection Site Reactions [see Warnings and Precautions (5.2)]
+- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3)]
+- Acute Tubulointerstitial Nephritis [see Contraindications (4), Warnings and Precautions (5.4)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- Bone Fracture [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
 - Hepatic Effects [see Warnings and Precautions (5.9)]
-- Hypomagnesemia [see Warnings and Precautions (5.10)]
+- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.10)]
 
 Drug Interactions
 
