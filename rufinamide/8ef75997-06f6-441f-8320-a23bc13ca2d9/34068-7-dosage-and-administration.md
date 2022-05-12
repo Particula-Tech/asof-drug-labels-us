@@ -38,4 +38,4 @@ Caution should be exercised in treating patients with mild to moderate hepatic i
 
 ## 2.5 Dosing in Patients Taking Valproate
 
-Patients taking valproate should begin rufinamide at a dose lower than 10 mg/kg per day in pediatric patients or 400 mg per day adults [seeDrug Interactions (7.2)].
+Patients taking valproate should begin rufinamide at a dose lower than 10 mg/kg per day in pediatric patients or 400 mg per day adults [see Drug Interactions (7.2)].

@@ -34,7 +34,7 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 
 Breast-feeding:
 
-Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [seeUse in Specific Populations (8.2)].
+Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
 
 Distr. by: Hikma
 
@@ -42,6 +42,6 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000902/01
+C50000902/03
 
 Revised September 2020
