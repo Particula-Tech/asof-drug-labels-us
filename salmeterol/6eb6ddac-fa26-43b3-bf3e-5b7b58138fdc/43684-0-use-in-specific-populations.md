@@ -26,7 +26,7 @@ Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or mod
 Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
 
 Labor and Delivery: There are no human studies evaluating the effects of fluticasone propionate/salmeterol DISKUS during labor and delivery.
-Because of the potential for beta agonist interference with uterine contractility, use of Fluticasone Propionate/Salmeterol DISKUS during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+Because of the potential for beta-agonist interference with uterine contractility, use of Fluticasone Propionate/Salmeterol DISKUS during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
 Data
 

@@ -44,6 +44,7 @@ Containing 1 Foil Strip of 60 Blisters
 
 1. 62000000053597 Rev.
    8/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -67,3 +68,4 @@ Containing 1 Foil Strip of 60 Blisters
 
 1. 62000000053600 Rev.
    8/20
+2. 

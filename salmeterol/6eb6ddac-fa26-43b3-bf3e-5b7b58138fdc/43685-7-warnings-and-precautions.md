@@ -207,7 +207,7 @@ Consider referral to an ophthalmologist in patients who develop ocular symptoms 
 
 Effects of treatment with fluticasone propionate/salmeterol DISKUS 500/50 mcg, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on development of cataracts or glaucoma was evaluated in a subset of 658 subjects with COPD in the 3-year survival trial.
 Ophthalmic examinations were conducted at baseline and at 48, 108, and 158 weeks.
-Conclusions about cataracts cannot be drawn from this trial because the high incidence of cataracts at baseline (61% to 71%) resulted in an inadequate number of subjects treated with fluticasone propionate/salmeterol DISKUS 500/50 mcg who were eligible and available for evaluation of cataracts at the end of the trial (n = 53).
+Conclusions about cataracts cannot be drawn from this trial because the high incidence of cataracts at baseline (61% to 71%) resulted in an inadequate number of subjects treated with fluticasone propionate/salmeterol DISKUS 500/50 mcg, who were eligible and available for evaluation of cataracts at the end of the trial (n = 53).
 The incidence of newly diagnosed glaucoma was 2% with fluticasone propionate/salmeterol DISKUS 500/50 mcg, 5% with fluticasone propionate, 0% with salmeterol, and 2% with placebo.
 
 ## 5.16 Eosinophilic Conditions and Churg-Strauss Syndrome
