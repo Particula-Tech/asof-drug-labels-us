@@ -24,6 +24,6 @@ The effects on fertility are reversible [see Warnings and Precautions (5.15) and
 
 The brand mentioned is trademark of its respective owner and are not trademark Macleods Pharmaceuticals Limited.
 
-Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revised: March 2022
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Limited Daman (U.T.), INDIA Revised: May 2022
 
-PM02474708
+PM02474709
