@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214919"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "76045-023-00",
+    "76045-023-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "685aaf64-1a64-42f9-a96f-4764d650c26f",
+  "source": "dailymed"
+}
