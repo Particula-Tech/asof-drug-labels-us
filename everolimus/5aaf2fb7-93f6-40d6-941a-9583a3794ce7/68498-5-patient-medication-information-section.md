@@ -71,10 +71,8 @@ Do not take Everolimus Tablets if you have had a severe allergic reaction to eve
 
 Talk to your healthcare provider before taking this medicine if you are allergic to:
 
-- •sirolimus (Rapamune®)
-- •temsirolimus (Torisel®)
-
-Ask your healthcare provider if you do not know.
+- •a medicine that contains sirolimus
+- •a medicine that contains temsirolimus Ask your healthcare provider if you do not know.
 
 Before taking Everolimus Tablets,tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -155,7 +153,7 @@ It may make the amount of Everolimus in your blood increase to a harmful level.
 
 What are the possible side effects of Everolimus Tablets?
 
-Everolimus Tablets can cause serious side effects.
+Everolimus Tablets can cause serious side effects, including:
 
 - •See “What is the most important information I should know about Everolimus Tablets?” for more information.
 - •Risk of wound healing problems.
@@ -225,8 +223,6 @@ This leaflet summarizes the most important information about Everolimus Tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information written for healthcare professionals.
 
-For more information, please call 1-800-962-8364.
-
 What are the ingredients in Everolimus Tablets?
 
 Active ingredient: everolimus.
@@ -236,10 +232,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc.
 
+For more information call 1-800-962-8364.
+
 Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001080/01
+C50001080/02
 
-Revised May 2021
+Revised May 2022

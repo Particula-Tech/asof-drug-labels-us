@@ -112,7 +112,7 @@ Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a H
 Tuberous Sclerosis Complex (TSC)-Associated Renal Angiomyolipoma
 
 The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-2) of Everolimus in 118 patients with renal angiomyolipoma as a feature of TSC (n = 113) or sporadic lymphangioleiomyomatosis (n = 5).
-The median age of patients was 31 years (18 to 61 years), 89% were White, and 34% were male.
+The median age of patients was 31 years (18 to 61 years), 89% were white, and 34% were male.
 The median duration of blinded study treatment was 48 weeks (2 to 115 weeks) for patients receiving Everolimus.
 
 The most common adverse reaction reported for Everolimus (incidence ≥ 30%) was stomatitis.
@@ -181,7 +181,7 @@ Updated safety information from 112 patients treated with Everolimus for a media
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of Everolimus.
+The following adverse reactions have been identified during postapproval use of Everolimus.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
 
 - •Blood and lymphatic disorders: Thrombotic microangiopathy
@@ -190,5 +190,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Hepatobiliary: Cholecystitis and cholelithiasis
 - •Infections: Sepsis and septic shock
 - •Nervous System: Reflex sympathetic dystrophy
-- •Vascular: Arterial thrombotic events
+- •Vascular: Arterial thrombotic events, lymphedema
 - •Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall

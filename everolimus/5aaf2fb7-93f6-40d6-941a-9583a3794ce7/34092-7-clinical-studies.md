@@ -37,7 +37,7 @@ The primary analyses of efficacy outcome measures were limited to the blinded tr
 The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes vs. no).
 
 Of the 118 patients enrolled, 79 were randomized to Everolimus and 39 to placebo.
-The median age was 31 years (18 to 61 years), 34% were male, and 89% were White.
+The median age was 31 years (18 to 61 years), 34% were male, and 89% were white.
 At baseline, 17% of patients were receiving EIAEDs.
 On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (9 to 1612 cm3) and 120 cm3 (3 to 4520 cm3) in the Everolimus and placebo arms, respectively.
