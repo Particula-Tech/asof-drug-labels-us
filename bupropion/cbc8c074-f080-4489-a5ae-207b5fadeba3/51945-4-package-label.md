@@ -134,4 +134,3 @@ Trademark owned or licensed by GSK.
 
 1. 62000000041494 Rev.
    7/19
-2. 
