@@ -30,7 +30,7 @@ Risk factors for VTEs include smoking, obesity, and family history of VTE, in ad
 While the increased risk of VTE associated with the use of CHCs is well-established, the rates of VTE are even greater during pregnancy, especially during the postpartum period (see Figure 1).
 The rate of VTE in women using CHCs has been estimated to be 3 to 12 cases per 10,000 woman-years for non-oral CHCs.
 
-The risk of VTE is highest during the first year of use of a COC and when restarting hormonal contraception after a break of four weeks or longer.
+The risk of VTE is highest during the first year of use of a combined oral contraceptive (COC) and when restarting hormonal contraception after a break of four weeks or longer.
 This initial higher risk declines during the first year, but users of CHCs remain at an increased risk of VTE compared to non-users of CHCs.
 Based on results from a few studies, there is some evidence that this is true for non-oral products as well.
 The risk of thromboembolic disease due to CHCs gradually disappears after CHC use is discontinued.
@@ -123,7 +123,7 @@ Women reported a mean number of unscheduled bleeding/spotting days per month tha
 A total of 45 women (2.2%) discontinued the study prematurely due to menstrual disorders including metrorrhagia, vaginal hemorrhage, menorrhagia, dysmenorrhea, irregular menstruation, dysfunctional uterine bleeding, and menstrual disorder [see Clinical Trial Experience (6.1) and Clinical Studies (14)].
 
 Amenorrhea and Oligomenorrhea Women who use TWIRLA may experience absence of scheduled (withdrawal) bleeding, even if they are not pregnant.
-Based on electronic patient diaries from the clinical trial, the percentages of women with no bleeding and/or spotting days (amenorrhea) in a cycle ranged from 11.9% in Cycle 1 to 6.3% in Cycle 13 [see Clinical Trial Experience (6.1) and Clinical Studies (14)].
+Based on electronic patient diaries from the clinical trial, the percentages of women with no bleeding and/or spotting days (amenorrhea) in a cycle ranged from 6.3% to 11.9% over 13 cycles [see Clinical Trial Experience (6.1) and Clinical Studies (14)].
 
 If scheduled bleeding does not occur, consider the possibility of pregnancy.
 If the woman has not adhered to the prescribed dosing schedule (missed days of active therapy or started her TDS on a day later than she should have), consider the possibility of pregnancy at the time of the first missed period and perform appropriate diagnostic measures.
@@ -136,9 +136,15 @@ After discontinuation of TWIRLA, amenorrhea or oligomenorrhea may occur, especia
 Carefully observe women with a history of depression and discontinue TWIRLA if depression recurs to a serious degree.
 Data on the association of CHCs with onset of depression or exacerbation of existing depression are limited.
 
-## 5.11 Cervical Cancer
+## 5.11 Malignant Neoplasms
 
-Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
+Breast Cancer Twirla is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
+
+Epidemiology studies have not found a consistent association between use of COCs and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience (6.2)].
+
+Cervical Cancer Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 There is controversy about the extent to which these findings are due to differences in sexual behavior and other factors.
 
 ## 5.12 Effect on Binding Globulins

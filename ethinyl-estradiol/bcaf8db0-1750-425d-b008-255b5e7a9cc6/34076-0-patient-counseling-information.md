@@ -5,7 +5,7 @@ Advise the woman to read the FDA-approved patient labeling (Patient Information 
 Cigarette Smoking Advise the woman that cigarette smoking increases the risk of serious cardiovascular events from CHC use.
 Women who are over 35 years old and smoke should not use TWIRLA [see Boxed Warning and Warnings and Precautions (5.1)].
 
-Venous Thromboembolism Advise the woman that there is an increased risk of VTE compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater interruption in intake) the same or a different.
+Venous Thromboembolism Advise the woman that there is an increased risk of VTE compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater interruption in intake) the same or a different CHC.
 
 Use during Pregnancy TWIRLA is not to be used during pregnancy.
 Instruct the woman to stop TWIRLA if pregnancy is confirmed during treatment [see Contraindications (4)].

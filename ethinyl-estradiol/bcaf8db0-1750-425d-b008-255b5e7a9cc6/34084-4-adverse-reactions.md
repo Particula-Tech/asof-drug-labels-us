@@ -17,14 +17,14 @@ The safety population for this clinical trial was composed of 2,031 women that c
 Of these 2,031 women, 989 women completed 13 treatment cycles.
 The mean age was 27.5 years.
 The mean BMI for the safety population was 28.3 kg/m2.
-The BMI of the safety population was widely distributed: 39.4% had a BMI < 25 kg/m2, 25.3% had a BMI 25 kg/m2 and < 30 kg/m2, and 35.3% had a BMI 30 kg/m2.
+The BMI of the safety population was widely distributed: 39.4% had a BMI < 25 kg/m2, 25.3% had a BMI ≥ 25 kg/m2 and < 30 kg/m2, and 35.3% had a BMI ≥ 30 kg/m2.
 
 For women who received TWIRLA, the most common reasons for discontinuation from the study were a womans decision (15.3%) and lost to follow-up (11.3%).
 
 Discontinuation due to an adverse reaction occurred in 10.9% of women.
-The most common (2%) adverse reactions leading to discontinuation were application site disorder (3.1%) and any bleeding irregularities (2.2%).
+The most common (≥ 2%) adverse reactions leading to discontinuation were application site disorder (3.1%) and any bleeding irregularities (2.2%).
 
-The most common adverse reactions that occurred in 2% of the 2,031 women that used TWIRLA are shown in Table 3.
+The most common adverse reactions that occurred in ≥ 2% of the 2,031 women that used TWIRLA are shown in Table 3.
 
 Table 3: Adverse Drug Reactions Reported by 2% of TWIRLA-Treated Women in One Phase 3 Clinical Trial
 
@@ -39,6 +39,21 @@ Table 3: Adverse Drug Reactions Reported by 2% of TWIRLA-Treated Women in One Ph
 Venous Thromboembolic Events (VTEs)
 
 A total of four VTEs (including pulmonary embolism and deep vein thrombosis) in TWIRLA-treated patients were identified in the clinical trial.
-Of these, all were in women with a BMI ≥ 30 kg/m2 [see Contraindications (4)].
+Of these, all were in women with a BMI > 30 kg/m2 [see Contraindications (4)].
 
 Other Serious Adverse Reactions The following serious adverse reactions occurred in < 1% of women who received TWIRLA: cholelithiasis, cholecystitis, major depression, suicidal ideation, appendicitis, ectopic pregnancy, pneumonia, and gastroenteritis.
+
+## 6.2 Postmarketing Experience
+
+Five studies that compared breast cancer risk between ever-users (current or past use) of combined oral contraceptives (COCs) and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 - 1.12 (Figure 2).
+
+Three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 2).
+One of these studies reported no association between breast cancer risk and COC use.
+The other two studies found an increased relative risk of 1.19 - 1.33 with current or recent use.
+Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.
+
+Figure 2.
+Relevant Studies of Risk of Breast Cancer with Combined Oral Contraceptives
+
+RR = relative risk; OR = odds ratio; HR = hazard ratio.
+“ever COC” are females with current or past COC use; “never COC use” are females that never used COCs.

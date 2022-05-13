@@ -187,10 +187,10 @@ Your TWIRLA patch should never be off more than 7 days in a row.
 
 Manufactured by: Corium International, Inc. 4558 50th Street, SE Grand Rapids, MI 49512
 
-Manufactured for: Agile Therapeutics, Inc. 101 Poor Farm Rd.
-Princeton, NJ 08540
+Manufactured for: Agile Therapeutics, Inc. 500 College Rd.
+E, Suite 310 Princeton, NJ 08540
 
 For more information call 1-855-389-4752 or email: medicalaffairs@agiletherapeutics.com.
 
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration | Approved: February 2020 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration | Approved: 04/2022 |
 | --- | --- |

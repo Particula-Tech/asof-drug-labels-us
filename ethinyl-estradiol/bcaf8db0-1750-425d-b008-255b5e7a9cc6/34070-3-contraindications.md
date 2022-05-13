@@ -1,8 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-TWIRLA is contraindicated in women with any of the following conditions:
+Twirla is contraindicated in females who are known to have or develop the following conditions:
 
-- A high risk of arterial or venous thrombotic diseases.
+- At high risk of arterial or venous thrombotic diseases.
   Examples include women who
   - Smoke, if over age 35 [see Boxed Warning and Warnings and Precautions (5.1)]
   - Have current or history of deep vein thrombosis or pulmonary embolism [see Warnings and Precautions (5.1)]
@@ -19,7 +19,7 @@ TWIRLA is contraindicated in women with any of the following conditions:
 - Liver tumors (benign or malignant), acute viral hepatitis, or severe (decompensated) cirrhosis, or liver disease [see Warnings and Precautions (5.2)]
 - Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.9)]
 - Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
-- Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past
+- Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive [see Warnings and Precautions (5.11)]
 - Hypersensitivity to any components of TWIRLA.
   Observed reactions include itching and irritation at the TDS application site [see Adverse Reactions (6.1)]
 - Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to the potential for alanine aminotransferase (ALT) elevations [see Warnings and Precautions (5.3)]

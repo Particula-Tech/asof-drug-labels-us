@@ -19,9 +19,15 @@ Table 7: Pearl Index Efficacy Analysis in TWIRLA-Treated Patients by BMI Subgrou
 | ≥ 25 and < 30 kg/m2 | 3881 | 5.7 (3.0 - 8.4) |
 | ≥ 30 kg/m2 | 5264 | 8.6 (5.8 - 11.5) |
 
-Figure 6 shows a model of the rate of pregnancy as BMI increases based on data from Study 1.
+Figure 7 shows a model of the rate of pregnancy as BMI increases based on data from Study 1.
 There is an increase in pregnancy rate (i.e., the number of pregnancies per 100 woman-years), as BMI increased based on the primary analysis population (N = 1,735).
 TWIRLA is contraindicated in women with a BMI ≥ 30 kg/m2 [see Indications and Usage (1) and Contraindications (4)].
+
+Figure 7.
+Pregnancy Rates (Estimated*) in TWIRLA-Treated Patients as BMI Increases for Women ≤ 35 Years of Age in Study 1
+
+*Plot is based on Poisson Model with continuous BMI as the predictor (N=1,735); one woman in the primary analysis population had no BMI information.
+The solid line displays the estimated pregnancy rate, and the shaded area displays the 95% confidence interval for the estimated pregnancy rate.
 
 Adhesion Based on a Phase 1 study in 78 subjects wearing one TWIRLA on the lower abdomen for 7 days, 77 systems applied (98.7%) exhibited 75% or greater surface area adhesion at all timepoints evaluated (every 24 hours) throughout the wear period.
 In the Phase 3 trial, 5.0% of all transdermal systems worn during the year-long trial (55,900 transdermal systems) fully detached.
