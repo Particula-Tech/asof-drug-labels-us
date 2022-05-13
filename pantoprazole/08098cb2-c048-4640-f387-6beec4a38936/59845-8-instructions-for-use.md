@@ -40,13 +40,13 @@ Store PROTONIX at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep PROTONIX and all medicines out of the reach of children.
 
-This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
-For current full prescribing information, please go to www.pfizer.com.
+For the most recent prescribing information, please go to www.pfizer.com.
 
 under license from Takeda GmbH D78467 Konstanz, Germany
 
-LAB-0574-15.0
+LAB-1511-1.0
 
-Revised: November 2020
+Revised: March 2022
