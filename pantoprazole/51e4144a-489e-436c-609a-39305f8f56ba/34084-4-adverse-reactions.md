@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
-- Injection Site Reactions [see Warnings and Precautions (5.3)]
-- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.4)]
-- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
-- Bone Fracture [see Warnings and Precautions (5.7)]
+- Injection Site Reactions [see Warnings and Precautions (5.2)]
+- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- Bone Fracture [see Warnings and Precautions (5.6)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
 - Hepatic Effects [see Warnings and Precautions (5.9)]
-- Hypomagnesemia [see Warnings and Precautions (5.10)]
+- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.10)]
 - Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
@@ -75,7 +75,7 @@ Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lu
 
 Investigations: weight changes
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN), angioedema (Quincke's edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke's edema) and cutaneous lupus erythematosus
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
@@ -85,7 +85,7 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 
 Psychiatric Disorder: hallucinations, confusion, insomnia, somnolence
 
-Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
 
 Infections and Infestations: Clostridium difficile associated diarrhea
 
