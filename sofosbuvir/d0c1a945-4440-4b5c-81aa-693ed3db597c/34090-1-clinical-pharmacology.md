@@ -237,7 +237,7 @@ Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | Tacrolimus | 5 single dose | 400 single dose | ND | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
 | NA = not available/not applicable, ND = not dosed, DF = disoproxil fumarate. |  |  |  |  |  |  |  |
 
-No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir and velpatasvir (dolutegravir or lopinavir/ritonavir) or its components sofosbuvir (cyclosporine or methadone) or velpatasvir (cyclosporine).
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed or is expected with sofosbuvir and velpatasvir (buprenorphine/naloxone, dolutegravir, lopinavir/ritonavir, or methadone) or its components sofosbuvir (cyclosporine) or velpatasvir (cyclosporine).
 
 ## 12.4 Microbiology
 

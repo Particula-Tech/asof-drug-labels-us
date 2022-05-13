@@ -60,9 +60,9 @@ No clinically meaningful differences in pharmacokinetics were observed in compar
 
 The safety and effectiveness in pediatric subjects were comparable to those observed in adults.
 However, among the 41 pediatric subjects less than 6 years of age, vomiting and product use issue (spitting up the drug) were reported more frequently (15% and 10%, respectively; all Grade 1 or 2) compared to subjects 6 years of age and older.
-Five subjects (12%) discontinued treatment after vomiting or spitting up the drug [see Dosage and Administration (2.4, 2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+Five subjects (12%) discontinued treatment after vomiting or spitting up the drug [see Dosage and Administration (2.4, 2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.8)].
 
-The safety and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 5 in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis are supported by sofosbuvir, GS-331007, and velpatasvir exposures in adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+The safety and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 5 in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis are supported by sofosbuvir, GS-331007, and velpatasvir exposures in adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.8)].
 Similar rationale is used to support dosing recommendations for pediatric patients with HCV genotype 1, 2, 3, 4, 5, or 6 infection who have decompensated cirrhosis (Child-Pugh B or C).
 
 In patients with severe renal impairment, including those requiring dialysis, exposures of GS-331007, the inactive metabolite of sofosbuvir, are increased [see Clinical Pharmacology (12.3)].
@@ -88,3 +88,8 @@ Refer to ribavirin tablet prescribing information regarding use of ribavirin in 
 No dosage adjustment of sofosbuvir and velpatasvir is recommended for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Clinical and hepatic laboratory monitoring (including direct bilirubin), as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with sofosbuvir and velpatasvir and ribavirin [see Adverse Reactions (6.1)].
+
+## 8.8 People Who Inject Drugs (PWID), Including Those on Medication-Assisted Treatment (MAT) for Opioid Use Disorder
+
+Based on data from the Phase 2 trial SIMPLIFY, the safety and effectiveness of sofosbuvir and velpatasvir in subjects who self-reported injection drug use, including in those on concomitant MAT, were similar to the known safety and effectiveness profile of sofosbuvir and velpatasvir.
+No dosage adjustment of sofosbuvir and velpatasvir is recommended for PWID, including those on MAT for opioid use disorder [see Adverse Reactions (6.1) and Clinical Studies (14.7)].

@@ -3,7 +3,7 @@
 ## 14.1 Description of Clinical Trials
 
 Table 12 presents the clinical trial design including different treatment groups that were conducted with sofosbuvir and velpatasvir with and without ribavirin in subjects with chronic hepatitis C (HCV) genotype 1, 2, 3, 4, 5, and 6 infection.
-For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2.2, 2.3, and 2.4) and Clinical Studies (14.2, 14.3, 14.4, 14.5, 14.6, and 14.7)].
+For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2.2, 2.3, and 2.4) and Clinical Studies (14.2, 14.3, 14.4, 14.5, 14.6, 14.7, and 14.8)].
 
 Table 12 Trials Conducted with Sofosbuvir and Velpatasvir in Subjects with Genotype 1, 2, 3, 4, 5, or 6 HCV Infection
 
@@ -16,8 +16,9 @@ Table 12 Trials Conducted with Sofosbuvir and Velpatasvir in Subjects with Genot
 | ASTRAL-4 (NCT02201901) | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (90) Sofosbuvir and velpatasvir + RBV 12 weeks (87) Sofosbuvir and velpatasvir 24 weeks (90) |
 | 2104 (NCT02781571) | Genotype 1, 2, 3, and 4 TN and TETE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen or an HCV-specific DAA-based regimen that does not include an NS5A inhibitor. liver transplant recipients, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (79) |
 | 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TETE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | Sofosbuvir and velpatasvir 12 weeks (59) |
+| SIMPLIFY (NCT02336139) | Genotype 1, 2, 3, and 4 PWID, including those on MAT for opioid use disorder, without cirrhosis or with compensated cirrhosis | Sofosbuvir and velpatasvir 12 weeks (103) |
 | 1143 (NCT03022981) | Genotype 1, 2, 3, 4, and 6 TN and TETE = treatment-experienced subjects are those who have failed an interferon-based regimen with or without ribavirin and with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir). pediatric subjects 3 years of age and older | Sofosbuvir and velpatasvir 12 weeks (214) |
-| TN = treatment-naïve subjects; SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh; ESRD = End Stage Renal Disease. |  |  |
+| TN = treatment-naïve subjects; SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh; ESRD = End Stage Renal Disease; PWID = People Who Inject Drugs; MAT = Medication-Assisted Treatment. |  |  |
 
 The ribavirin dosage was weight-based (1000 mg daily administered in two divided doses for subjects less than 75 kg and 1200 mg for those greater than or equal to 75 kg) and administered in two divided doses when used in combination with sofosbuvir in the ASTRAL-2 and ASTRAL-3 trials or in combination with sofosbuvir and velpatasvir in the ASTRAL-4 trial.
 Ribavirin dosage adjustments were performed according to the ribavirin prescribing information.
@@ -186,7 +187,17 @@ At baseline, 29% of subjects had cirrhosis, 22% were treatment-experienced (subj
 The overall SVR rate was 95% (56/59).
 Of the subjects completing 12 weeks of sofosbuvir and velpatasvir, 1 subject experienced virologic relapse.
 
-## 14.7 Clinical Trial in Pediatric Subjects
+## 14.7 Clinical Trial in People who Inject Drugs (PWID), Including Those on Medication-Assisted Treatment (MAT) for Opioid Use Disorder
+
+SIMPLIFY was an open-label Phase 2 clinical trial that evaluated 12 weeks of treatment with sofosbuvir and velpatasvir tablets (400 mg/100 mg) in 103 HCV-infected PWID (defined as self-reported injection drug use within previous 6 months), including 58 subjects on MAT for opioid use disorder.
+The proportions of subjects with genotype 1, 2, 3, and 4 HCV infection were 35%, 5%, 58%, and 2%, respectively.
+The median age was 48 years (range: 24 to 67); 71% were male; 89% were White; and 2% were Black.
+At baseline, 74% and 26% of subjects reported injection drug use or daily injection drug use, respectively, in the past month; 56% had baseline HCV RNA levels at least 800,000 IU/mL; 10% had compensated cirrhosis; and all subjects were naïve to prior exposure with SOF or an HCV NS5A inhibitor.
+Subjects on MAT for opioid use disorder reported concomitant use of methadone (76%) and buprenorphine naloxone (17%) with sofosbuvir and velpatasvir.
+The overall SVR rate was 94% (97/103).
+One subject completed sofosbuvir and velpatasvir treatment and was re-infected with a phylogenetically different virus; the other 5 subjects who did not achieve SVR12 did not meet virologic failure criteria.
+
+## 14.8 Clinical Trial in Pediatric Subjects
 
 The efficacy of sofosbuvir and velpatasvir once daily for 12 weeks was evaluated in an open-label trial (Study 1143) in 214 genotype 1, 2, 3, 4, or 6 HCV treatment-naïve (N=188) or treatment-experienced (N=26) pediatric subjects 3 years of age and older without cirrhosis or with compensated cirrhosis.
 

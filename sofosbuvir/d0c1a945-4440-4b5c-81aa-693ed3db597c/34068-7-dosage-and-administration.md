@@ -8,7 +8,7 @@ Test all patients for evidence of current or prior HBV infection by measuring he
 
 Table 1 shows the recommended treatment regimen and duration based on patient population.
 
-For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1.
+For patients with HCV/HIV-1 coinfection follow the dosage recommendations in Table 1.
 For treatment-naïve and treatment-experienced liver transplant recipients without cirrhosis or with compensated cirrhosis (Child-Pugh A), the recommended regimen is sofosbuvir and velpatasvir once daily for 12 weeks [see Clinical Studies (14.3 and 14.5)].
 Refer to Drug Interactions (7) for dosage recommendations for concomitant drugs.
 
@@ -32,7 +32,7 @@ For ribavirin dosage modifications refer to the ribavirin prescribing informatio
 The recommended dosage of sofosbuvir and velpatasvir in pediatric patients 3 years of age and older is based on weight and provided in Table 2.
 Table 3 provides the weight-based dosage of ribavirin when used in combination with sofosbuvir and velpatasvir for pediatric patients.
 Take sofosbuvir and velpatasvir once daily with or without food.
-In pediatric patients less than 6 years of age, administer the sofosbuvir and velpatasvir (EPCLUSA) oral pellets with food to increase tolerability related to palatability [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+In pediatric patients less than 6 years of age, administer the sofosbuvir and velpatasvir (EPCLUSA) oral pellets with food to increase tolerability related to palatability [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), and Clinical Studies (14.8)].
 
 Table 2 Dosing for Pediatric Patients 3 Years and Older with Genotype 1, 2, 3, 4, 5, or 6 HCV
 

@@ -49,10 +49,10 @@ Table 4 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 
 ## 7.4 Drugs without Clinically Significant Interactions with Sofosbuvir and Velpatasvir
 
-Based on drug interaction studies conducted with sofosbuvir, velpatasvir, or sofosbuvir and velpatasvir tablets (400 mg/100 mg) no clinically significant drug interactions have been observed with the following drugs [see Clinical Pharmacology (12.3)]:
+Based on drug interaction studies conducted with sofosbuvir, velpatasvir, or sofosbuvir and velpatasvir tablets (400 mg/100 mg) no clinically significant drug interactions have been observed or are expected with the following drugs [see Clinical Pharmacology (12.3)]:
 
-- Sofosbuvir and velpatasvir: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine.
-- Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus.
+- Sofosbuvir and velpatasvir: atazanavir/ritonavir, buprenorphine/naloxone, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, methadone, naltrexone, raltegravir, or rilpivirine.
+- Sofosbuvir: ethinyl estradiol/norgestimate or tacrolimus.
 - Velpatasvir: ethinyl estradiol/norgestimate, ketoconazole, or pravastatin.
 
 See Table 4 for use of sofosbuvir and velpatasvir with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].
