@@ -9,4 +9,5 @@ The tablets are available in bottles of: • 60 tablets - NDC 59212-562-60 • 1
 ## 16.2 Storage
 
 Dispense in a tight, light-resistant container as defined in the USP/NF.
+
 Store at room temperature up to 30°C (86°F) and allow for excursions between 15°C and 30°C (59°F and 86°F).
