@@ -49,7 +49,7 @@ Single-dose vial - Discard Unused Portion
 Recommended Dosage: See Prescribing Information.
 
 This package contains one single-dose vial of sterile DAPZURA RT (daptomycin for injection) and one package insert.
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP controlled Room Temprature.]
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP controlled Room Temperature.]
 See package insert for storage of reconstituted and further diluted product.
 
 Not made with Natural rubber latex
@@ -60,9 +60,9 @@ Baxter Healthcare Corporation Deerfield, IL 60015
 
 Made in the USA
 
-2VR500 07-01-00-0774
+2VR500 07-01-00-0894
 
-3-5930-520
+3-6118-520
 
 NDC 60977-145-01
 
