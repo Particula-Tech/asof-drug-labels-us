@@ -28,17 +28,17 @@ The half-lives of the lactone (active) forms of irinotecan and SN-38 are similar
 
 Over the recommended dose range of 50 to 350 mg/m2, the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose.
 Maximum concentrations of the active metabolite SN-38 are generally seen within 1 hour following the end of a 90-minute infusion of irinotecan.
-Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 5:
+Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 9:
 
-Table 5.
+Table 9.
 Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients With Solid Tumors
 
-| Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
+| Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) | Vz (L/m2) | CL (L/h/m2) | Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | AUC0-24 (ng∙h/mL) | t1/2(h) | Vz(L/m2) | CL (L/h/m2) | Cmax (ng/mL) | AUC0-24 (ng∙h/mL) | t1/2(h) |  |
-| 125(N = 64) | 1,660±797 | 10,200±3,270 | 5.8a±0.7 | 110±48.5 | 13.3±6.01 | 26.3±11.9 | 229±108 | 10.4a±3.1 |
-| 340(N = 6) | 3,392±874 | 20,604±6,027 | 11.7b±1.0 | 234±69.6 | 13.9±4.0 | 56.0±28.2 | 474±245 | 21.0b±4.3 |
-| Cmax - Maximum plasma concentration AUC0-24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90-minute infusion t1/2 - Terminal elimination half-life Vz - Volume of distribution of terminal elimination phase CL - Total systemic clearance a Plasma specimens collected for 24 hours following the end of the 90-minute infusion. b Plasma specimens collected for 48 hours following the end of the 90-minute infusion. Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38. |  |  |  |  |  |  |  |  |
+| Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
+| 125 (N = 64) | 1,660 ±797 | 10,200 ±3,270 | 5.8Plasma specimens collected for 24 hours following the end of the 90-minute infusion. ±0.7 | 110 ±48.5 | 13.3 ±6.01 | 26.3 ±11.9 | 229 ±108 | 10.4 ±3.1 |
+| 340 (N = 6) | 3,392 ±874 | 20,604 ±6,027 | 11.7Plasma specimens collected for 48 hours following the end of the 90-minute infusion. Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38. ±1.0 | 234 ±69.6 | 13.9 ±4.0 | 56.0 ±28.2 | 474 ±245 | 21.0 ±4.3 |
+| Cmax - Maximum plasma concentration AUC0–24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90-minute infusion t1/2 - Terminal elimination half-life Vz - Volume of distribution of terminal elimination phase CL - Total systemic clearance |  |  |  |  |  |  |  |  |
 
 Distribution
 
@@ -52,7 +52,7 @@ Metabolism
 
 Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases that form an active metabolite SN-38, and UGT1A1 which mediates the glucuronidation of SN-38 to form an inactive metabolite.
 SN 38 glucuronide had 1/50 to 1/100 the activity of SN-38.
-Patients who are homozygous for either the UGT1A1*28 or *6 alleles, or who are compound heterozygous for these alleles, have higher SN-38 AUC than patients with the wild-type UGT1A1 alleles [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.5)].
+Patients who are homozygous for either the UGT1A1*28 or *6 alleles, or who are compound heterozygous for these alleles, have higher SN-38 AUC than patients with the wild-type UGT1A1 alleles [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.5)].
 
 Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive metabolites, one of which can be hydrolyzed by carboxylesterase to release the active metabolite SN-38.
 
@@ -69,7 +69,7 @@ Geriatric Patients
 The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
 Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients <65 years of age compared with patients ≥65 years of age.
 In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients <65 years of age compared to patients ≥65 years of age were observed.
-Although dose-normalized AUC0-24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
+Although dose-normalized AUC0–24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
 
 Male and Female Patients
@@ -107,7 +107,7 @@ Genetic variants of the UGT1A1 gene such as the UGT1A1*28 [(TA)7] and *6 alleles
 
 Individuals who are homozygous or compound (double) heterozygous for these alleles (e.g., *28/*28, *6/*6, *6/*28) are UGT1A1 poor metabolizers and are at increased risk for severe or life-threatening neutropenia from Irinotecan Hydrochloride, USPI due to elevated systemic exposure to SN-38.
 The UGT1A1*6/*6 genotype should not be confused with 6/6 genotype, which is sometimes used to represent the genotype of individuals who are wild type for UGT1A1*28.
-Individuals who are heterozygous for either the UGT1A1*28 or *6 alleles (*1/*6, *1/*28) are UGT1A1 intermediate metabolizers and may also have an increased risk of severe or life-threatening neutropenia [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+Individuals who are heterozygous for either the UGT1A1*28 or *6 alleles (*1/*6, *1/*28) are UGT1A1 intermediate metabolizers and may also have an increased risk of severe or life-threatening neutropenia [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 Published studies have shown that individuals with UGT1A1*28 and *6 alleles may be at an increased risk of severe diarrhea.
 The risk evidence appears greater in UGT1A1*28 and *6 homozygous patients and in those taking irinotecan doses > 125 mg/m2 [see Warnings and Precautions (5.1)].

@@ -10,7 +10,7 @@ Consider prophylactic or therapeutic administration of 0.25 mg to 1 mg of intrav
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
 Late diarrhea (generally occurring more than 24 hours after administration of Irinotecan Hydrochloride Injection, USP) can be life threatening since it may be prolonged and may lead to dehydration, electrolyte imbalance, or sepsis.
-Grade 3-4 late diarrhea occurred in 23-31% of patients receiving weekly dosing.
+Grade 3–4 late diarrhea occurred in 23–31% of patients receiving weekly dosing.
 In the clinical studies, the median time to the onset of late diarrhea was 5 days with 3-week dosing and 11 days with weekly dosing.
 Late diarrhea can be complicated by colitis, ulceration, bleeding, ileus, obstruction, and infection.
 Cases of megacolon and intestinal perforation have been reported.
@@ -57,7 +57,7 @@ When administering Irinotecan Hydrochloride, USP, consider a reduction in the Ir
 
 Closely monitor patients with UGT1A1 *28 or *6 alleles for neutropenia during and after treatment with Irinotecan Hydrochloride, USP.
 The precise dosage reduction in this patient population is not known.
-Subsequent dosage modifications may be required based on individual patient tolerance to treatment [see Dosage and Administration (2.2)].
+Subsequent dosage modifications may be required based on individual patient tolerance to treatment [see Dosage and Administration (2.1, 2.2)].
 
 ## 5.4 Hypersensitivity
 
@@ -70,7 +70,7 @@ Renal impairment and acute renal failure have been identified, usually in patien
 
 ## 5.6 Pulmonary Toxicity
 
-Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have occurred in patients receiving irinotecan (as monotherapy).
+Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have occurred in patients receiving irinotecan (in combination and as monotherapy).
 Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
 Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy.
 In Japanese studies, a reticulonodular pattern on chest x-ray was observed in a small percentage of patients.
@@ -79,12 +79,12 @@ If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued an
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
-Outside of a well-designed clinical study, Irinotecan Hydrochloride Injection, USP should not be used in combination with a regimen of 5-FU/LV administered for 4-5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
-Irinotecan Hydrochloride Injection, USP should be used as recommended [see Dosage and Administration (2)].
+Outside of a well-designed clinical study, Irinotecan Hydrochloride Injection, USP should not be used in combination with a regimen of 5-FU/LV administered for 4–5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
+Irinotecan Hydrochloride Injection, USP should be used as recommended in Table 2 [see Dosage and Administration (2)].
 
 ## 5.8 Increased Toxicity in Patients With Performance Status 2
 
-In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
+In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
 ## 5.9 Embryo-Fetal Toxicity
 
