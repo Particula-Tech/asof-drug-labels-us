@@ -31,7 +31,6 @@ Rare cases have also been reported in association with the use of injectable dih
 Do not use D.H.E.
 45 (dihydroergotamine mesylate) Injection, USP if you:
 
-- •are pregnant or nursing.
 - •have any disease affecting your heart, arteries, or circulation.
 - •are taking certain anti-HIV medications (protease inhibitors).
 - •are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
@@ -53,14 +52,28 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
   Do you think you might be pregnant?
   Are you trying to become pregnant?
   Are you sexually active and not using birth control?
-  Are you breastfeeding?
+- oD.H.E.
+  45 may cause preterm labor.
+  D.H.E.
+  45 should be avoided during pregnancy.
+  Talk to your healthcare provider right away if you are pregnant or want to become pregnant.
+- •Are you breastfeeding?
+- oD.H.E.
+  45 may reduce breast milk supply and pass into your breast milk.
+  D.H.E.
+  45 may be harmful to your baby.
+  Do not breastfeed your baby while taking D.H.E.
+  45 and for 3 days after you use D.H.E.
+  45.
+  Talk with your healthcare provider about the best way to feed your baby if you take D.H.E.
+  45.
 - •Have you ever had to stop taking this or any other medication because of an allergy or bad reaction?
 - •Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor's prescription?
 - •Do you smoke?
 - •Have you had, or do you have, any disease of the liver or kidney?
 - •Is this headache different from your usual migraine attacks?
 - •Are you using D.H.E.
-  45 (dihydroergotamine mesylate) Injection, USP nasal spray or other dihydroergotamine mesylate containing drugs on a daily basis?
+  45 (dihydroergotamine mesylate) Injection, USP or other dihydroergotamine mesylate containing drugs on a daily basis?
 - •Are you taking a protease inhibitor for HIV therapy?
 - •Are you taking a macrolide class of antibiotic?
 
@@ -111,36 +124,36 @@ How to use the D.H.E.
 3. 3.Locating an Injection Site
    1. •Administer your subcutaneous injection in the middle of your thigh, well above the knee.
 4. 4.Drawing the Medication into the Syringe
-   1. a.Wash your hands thoroughly with soap and water.
-   2. b. Check the dose of your medication.
-   3. c.Look to see if there is any liquid at the top of the ampul.
-      If there is, gently flick the ampul with your finger to get all the liquid into the bottom portion of the ampul.
-   4. d.Hold the bottom of the ampul in one hand.
-      Clean the ampul neck with an alcohol wipe using the other hand.
-      To break, place the alcohol wipe around the neck of the ampul and break it open by pressing your thumb against the neck of the ampul.
-   5. e.Tilt the ampul down at a 45° angle.
-      Insert the needle into the solution in the ampul.
-   6. f.Draw up the medication by pulling back the plunger slowly and steadily until you reach your dose.
-   7. g.Check the syringe for air bubbles.
-      Hold it with the needle pointing upward.
-      If there are air bubbles, tap your finger against the barrel of the syringe to get the bubbles to the top.
-      Slowly and carefully push the plunger up so that the bubbles are pushed out through the needle and you see a drop of medication.
-   8. h.When there are no air bubbles, check the dose of the medication.
-      If the dose is incorrect, repeat steps e, f, g, and h until you draw up the right dose.
-5. 5.Preparing the Injection Site
-   1. •With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
-      Wait for the injection site to dry before injecting.
-6. 6.Administering the Injection
-   1. •Hold the syringe/needle in your right hand.
-   2. •With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
-   3. •Push the needle shaft, bevel side up, all the way into the fold of skin at a 45° to 90° angle, then release the fold of skin.
-   4. •While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
-   5. •If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
-      If you do see blood in the syringe, that means the needle has penetrated a vein.
-      If this happens, pull the needle/syringe out of the skin slightly and draw back on the plunger again.
-      If no blood is seen this time, inject the medication.
-   6. •Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
-      Immediately press the alcohol wipe on the injection site and rub.
+5. a)Wash your hands thoroughly with soap and water.
+6. b)Check the dose of your medication.
+7. c)Look to see if there is any liquid at the top of the ampul.
+   If there is, gently flick the ampul with your finger to get all the liquid into the bottom portion of the ampul.
+8. d)Hold the bottom of the ampul in one hand.
+   Clean the ampul neck with an alcohol wipe using the other hand.
+   To break, place the alcohol wipe around the neck of the ampul and break it open by pressing your thumb against the neck of the ampul.
+9. e)Tilt the ampul down at a 45° angle.
+   Insert the needle into the solution in the ampul.
+10. f)Draw up the medication by pulling back the plunger slowly and steadily until you reach your dose.
+11. g)Check the syringe for air bubbles.
+    Hold it with the needle pointing upward.
+    If there are air bubbles, tap your finger against the barrel of the syringe to get the bubbles to the top.
+    Slowly and carefully push the plunger up so that the bubbles are pushed out through the needle and you see a drop of medication.
+12. h)When there are no air bubbles, check the dose of the medication.
+    If the dose is incorrect, repeat steps e, f, g, and h until you draw up the right dose.
+13. 5.Preparing the Injection Site
+    1. •With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
+       Wait for the injection site to dry before injecting.
+14. 6.Administering the Injection
+    1. •Hold the syringe/needle in your right hand.
+    2. •With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
+    3. •Push the needle shaft, bevel side up, all the way into the fold of skin at a 45° to 90° angle, then release the fold of skin.
+    4. •While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
+    5. •If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
+       If you do see blood in the syringe, that means the needle has penetrated a vein.
+       If this happens, pull the needle/syringe out of the skin slightly and draw back on the plunger again.
+       If no blood is seen this time, inject the medication.
+    6. •Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
+       Immediately press the alcohol wipe on the injection site and rub.
 
 Check the expiration date printed on the ampul containing medication.
 If the expiration date has passed, do not use it.
@@ -178,7 +191,12 @@ Bridgewater, NJ 08807 USA
 
 Manufactured by: Jubilant HollisterStier General Partnership 16751 Trans-Canada Highway Kirkland, Quebec H9H 4J4, Canada
 
-®/™ are trademarks of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates
+®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-1. Rev.
-   11/19 9614601 6W500 9L J2
+© 2022 Bausch Health Companies Inc. or its affiliates
+
+1. 
+
+04/2022
+
+9614602

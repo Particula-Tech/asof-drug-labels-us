@@ -19,25 +19,6 @@ In addition to those conditions mentioned above, D.H.E.
 45 (dihydroergotamine mesylate) Injection, USP is also contraindicated in patients with known peripheral arterial disease, sepsis, following vascular surgery and severely impaired hepatic or renal function.
 
 D.H.E.
-45 (dihydroergotamine mesylate) Injection, USP may cause fetal harm when administered to a pregnant woman.
-Dihydroergotamine possesses oxytocic properties and, therefore, should not be administered during pregnancy.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-
-There are no adequate studies of dihydroergotamine in human pregnancy, but developmental toxicity has been demonstrated in experimental animals.
-In embryofetal development studies of dihydroergotamine mesylate nasal spray, intranasal administration to pregnant rats throughout the period of organogenesis resulted in decreased fetal body weights and/or skeletal ossification at doses of 0.16 mg/day (associated with maternal plasma dihydroergotamine exposures [AUC] approximately 0.4 to 1.2 times the exposures in humans receiving the MRDD of 4 mg) or greater.
-A no effect level for embryofetal toxicity was not established in rats.
-Delayed skeletal ossification was also noted in rabbit fetuses following intranasal administration of 3.6 mg/day (maternal exposures approximately 7 times human exposures at the MRDD) during organogenesis.
-A no effect level was seen at 1.2 mg/day (maternal exposures approximately 2.5 times human exposures at the MRDD).
-
-When dihydroergotamine mesylate nasal spray was administered intranasally to female rats during pregnancy and lactation, decreased body weights and impaired reproductive function (decreased mating indices) were observed in the offspring at doses of 0.16 mg/day or greater.
-A no effect level was not established.
-Effects on development occurred at doses below those that produced evidence of significant maternal toxicity in these studies.
-
-Dihydroergotamine-induced intrauterine growth retardation has been attributed to reduced uteroplacental blood flow resulting from prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone.
-
-D.H.E.
 45 (dihydroergotamine mesylate) Injection, USP is contraindicated in patients who have previously shown hypersensitivity to ergot alkaloids.
-
-Dihydroergotamine mesylate should not be used by nursing mothers (see PRECAUTIONS).
 
 Dihydroergotamine mesylate should not be used with peripheral and central vasoconstrictors because the combination may result in additive or synergistic elevation of blood pressure.

@@ -80,6 +80,19 @@ D.H.E.
 
 An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5-HT1 agonist in a study evaluating subjects undergoing cardiac catheterization.
 
+Medication Overuse Headache
+
+Overuse of acute migraine drugs (e.g., ergotamines, triptans, opioids, or a combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (i.e., medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
+Detoxification of patients including withdrawal of the overused drugs and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+
+Preterm Labor
+
+Based on the mechanism of action of dihydroergotamine and findings from the published literature, D.H.E.
+45 may cause preterm labor.
+Avoid use of D.H.E.
+45 during pregnancy (see PRECAUTIONS).
+
 # PRECAUTIONS
 
 ## General
@@ -111,7 +124,7 @@ D.H.E.
 ### Sumatriptan
 
 Sumatriptan has been reported to cause coronary artery vasospasm, and its effect could be additive with D.H.E.
-45(dihydroergotamine mesylate) Injection, USP.
+45 (dihydroergotamine mesylate) Injection, USP.
 Sumatriptan and D.H.E.
 45 (dihydroergotamine mesylate) Injection, USP should not be taken within 24 hours of each other (see CONTRAINDICATIONS).
 
@@ -130,7 +143,7 @@ Nicotine may provoke vasoconstriction in some patients, predisposing to a greate
 
 Weakness, hyperreflexia, and incoordination have been reported rarely when 5-HT1 agonists have been co-administered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI's and D.H.E.
-45(dihydroergotamine mesylate) Injection, USP.
+45 (dihydroergotamine mesylate) Injection, USP.
 
 ### Oral Contraceptives
 
@@ -141,7 +154,10 @@ The effect of oral contraceptives on the pharmacokinetics of D.H.E.
 
 ### Carcinogenesis
 
-Assessment of the carcinogenic potential of dihydroergotamine mesylate in mice and rats is ongoing.
+In a 2-year mouse carcinogenicity study, subcutaneous (SC) administration of dihydroergotamine mesylate (0, 0.5, 1.5 or 5 mg/kg/day) resulted in an increased incidence of fibrosarcoma at the injection sites in males and females at the high dose.
+The higher dose not associated with an increase in tumors (1.5 mg/kg/day) is approximately 2 times the recommended human dose (RHD) of 3 mg/day SC on a body surface area (mg/m2) basis.
+
+In a 2-year rat carcinogenicity study, intranasal administration of dihydroergotamine mesylate (0, 0.4, 0.8 or 1.6 mg/day for 13 weeks, followed by 0, 0.08, 0.24 or 0.8 mg/day for the remainder of the study) did not result in an increase in tumors.
 
 ### Mutagenesis
 
@@ -151,21 +167,53 @@ Dihydroergotamine was not clastogenic in the in vivo mouse and hamster micronucl
 
 ### Impairment of Fertility
 
-Impairment of fertility was not evaluated for D.H.E.
-45 (dihydroergotamine mesylate) Injection, USP.
-There was no evidence of impairment of fertility in rats given intranasal doses of MigranaL® Nasal Spray up to 1.6 mg/day (associated with mean plasma dihydroergotamine mesylate exposures [AUC] approximately 9 to 11 times those in humans receiving the MRDD of 4 mg).
+Intranasal administration of dihydroergotamine to rats at doses up to 1.6 mg/day was not associated with adverse effects on fertility.
 
 ## Pregnancy
 
+Risk Summary
+
+Available data from published literature indicate an increased risk of preterm delivery
+
+with D.H.E.
+45 use during pregnancy.
+Avoid use of D.H.E.
+45 during pregnancy (see WARNINGS).
+Data collected over decades have shown no increased risk of major birth defects or miscarriage with the use of dihydroergotamine mesylate during pregnancy.
+
+In animal reproduction studies, adverse effects on development were observed following intranasal administration of dihydroergotamine mesylate during pregnancy (decreased fetal body weight and/or skeletal ossification) in rats and rabbits or during pregnancy and lactation in rats (decreased body weight and impaired reproductive function in the offspring) at doses that were not associated with maternal toxicity (see Data).
+
+The estimated rate of major birth defects (2.2% to 2.9%) and miscarriage (17%) among deliveries to women with migraine are similar to rates reported in women without migraine.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
+
+Intranasal administration of dihydroergotamine mesylate to pregnant rats throughout the period of organogenesis resulted in decreased fetal body weight and/or skeletal ossification at doses of 0.16 mg/day and greater.
+A no-effect level for adverse effects on embryofetal development was not identified in rats.
+Intranasal administration of dihydroergotamine mesylate to pregnant rabbits throughout organogenesis resulted in decreased skeletal ossification at 3.6 mg/day.
+The no-effect dose for adverse effects on embryofetal development in rabbits was 1.2 mg/day.
+
+Intranasal administration of dihydroergotamine mesylate to female rats throughout pregnancy and lactation resulted in decreased body weight and impaired reproductive function (decreased mating indices) in the offspring at doses of 0.16 mg/day or greater.
+A no-effect dose for adverse effects on pre- and postnatal development in rats was not established.
+Effects on offspring development occurred at doses below those that produced evidence of maternal toxicity in these studies.
+
+Dihydroergotamine-induced intrauterine growth retardation has been attributed to reduced uteroplacental blood flow resulting from prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone.
+
 ## Nursing Mothers
 
-Ergot drugs are known to inhibit prolactin.
-It is likely that D.H.E.
-45 (dihydroergotamine mesylate) Injection, USP is excreted in human milk, but there are no data on the concentration of dihydroergotamine in human milk.
-It is known that ergotamine is excreted in breast milk and may cause vomiting, diarrhea, weak pulse, and unstable blood pressure in nursing infants.
-Because of the potential for these serious adverse events in nursing infants exposed to D.H.E.
-45 (dihydroergotamine mesylate) Injection, USP, nursing should not be undertaken with the use of D.H.E.
-45 (dihydroergotamine mesylate) Injection, USP (see CONTRAINDICATIONS).
+Risk Summary
+
+There are no data on the presence of dihydroergotamine in human milk; however, ergotamine, a related drug, is present in human milk.
+There are reports of vomiting, diarrhea, weak pulse, and unstable blood pressure in breastfed infants exposed to ergotamine.
+D.H.E.
+45 may reduce milk supply because it may decrease prolactin levels.
+
+Because of the potential for reduced milk supply and serious adverse events in the breastfed infant, including diarrhea, vomiting, weak pulse, and unstable blood pressure, advise patients not to breastfeed during treatment with D.H.E.
+45 and for 3 days after the last dose.
+Breast milk supply during this time should be pumped and discarded.
 
 ## Pediatric Use
 

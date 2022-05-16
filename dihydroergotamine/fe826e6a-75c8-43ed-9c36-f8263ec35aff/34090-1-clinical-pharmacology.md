@@ -10,7 +10,7 @@ Two current theories have been proposed to explain the efficacy of 5-HT1D recept
 One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arteriovenous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
 The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
 
-In addition, dihydroergotamine possesses oxytocic properties (see CONTRAINDICATIONS).
+In addition, dihydroergotamine possesses oxytocic properties.
 
 ## Pharmacokinetics
 
