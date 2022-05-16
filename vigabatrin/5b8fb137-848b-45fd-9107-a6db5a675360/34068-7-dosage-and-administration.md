@@ -26,7 +26,7 @@ If a decision is made to discontinue vigabatrin for oral solution, the dose shou
 Adults (Patients 17 Years of Age and Older)
 
 Treatment should be initiated at 1,000 mg/day (500 mg twice daily).
-Total daily dose may be increased in 500 mg increments at weekly intervals depending on response.
+Total daily dose may be increased in 500 mg increments at weekly intervals, depending on response.
 The recommended dose of vigabatrin for oral solution in adults is 3,000 mg/day (1,500 mg twice daily).
 A 6,000 mg/day dose has not been shown to confer additional benefit compared to the 3,000 mg/day dose and is associated with an increased incidence of adverse events.
 
