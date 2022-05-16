@@ -6,9 +6,9 @@ The following adverse reactions are discussed in greater detail in other section
 - Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 - Hyperglycemia [see Warnings and Precautions (5.3)]
 - Pneumonitis [see Warnings and Precautions (5.4)]
-- Diarrhea [see Warnings and Precautions (5.5)]
+- Diarrhea or Colitis [see Warnings and Precautions (5.5)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -33,7 +33,7 @@ The most frequent ARs leading to treatment discontinuation of PIQRAY in > 2% pat
 Dose reductions due to ARs occurred in 55% of patients receiving PIQRAY plus fulvestrant.
 The most frequent ARs leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%), and mucosal inflammation (2.1%).
 
-The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, gamma glutamyl transferase (GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, activated partial thromboplastin time (aPTT) prolonged, and alopecia.
+The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, gamma-glutamyl transferase (GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, activated partial thromboplastin time (aPTT) prolonged, and alopecia.
 
 Adverse reactions and laboratory abnormalities are listed in Table 6 and Table 7, respectively.
 
@@ -79,33 +79,35 @@ Of the 153 patients who experienced rash, 141 had resolution of the rash.
 
 Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 
-|  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |
-|  | % | % | % | % |  |  |
-| Hematological parameters |  |  |  |  |  |  |
-| Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |  |  |
-| Hemoglobin decreased | 42 | 4.2* | 29 | 1* |  |  |
-| Activated Partial Thromboplastin Time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |  |  |
-| Platelet count decreased | 14 | 1.1 | 6 | 0* |  |  |
-| Biochemical parameters |  |  |  |  |  |  |
-| Glucose increased1 | 79 | 39 | 34 | 1 |  |  |
-| Creatinine increased | 67 | 2.8* | 25 | 0.7* |  |  |
-| Gamma Glutamyl Transferase (GGT) increased | 52 | 11 | 44 | 10 |  |  |
-| Alanine Aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |  |  |
-| Lipase increased | 42 | 7 | 25 | 6 |  |  |
-| Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |  |  |
-| Glucose decreased | 26 | 0.4 | 14 | 0* |  |  |
-| Potassium decreased | 14 | 6 | 2.8 | 0.7* |  |  |
-| Albumin decreased | 14 | 0* | 8 | 0* |  |  |
-| Magnesium decreased | 11 | 0.4* | 4.2 | 0* |  |  |
-| 1Glucose increase is an expected laboratory abnormality of PI3K inhibition. *No Grade 4 laboratory abnormalities were reported. |  |  |  |  |  |  |
+|  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |
+| --- | --- | --- | --- | --- |
+| Laboratory abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+|  | % | % | % | % |
+| Hematological parameters |  |  |  |  |
+| Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |
+| Hemoglobin decreased | 42 | 4.2* | 29 | 1* |
+| Activated partial thromboplastin time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
+| Platelet count decreased | 14 | 1.1 | 6 | 0* |
+| Biochemical parameters |  |  |  |  |
+| Glucose increased1 | 79 | 39 | 34 | 1 |
+| Creatinine increased | 67 | 2.8* | 25 | 0.7* |
+| Gamma-glutamyl transferase (GGT) increased | 52 | 11 | 44 | 10 |
+| Alanine aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
+| Lipase increased | 42 | 7 | 25 | 6 |
+| Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |
+| Glucose decreased | 26 | 0.4 | 14 | 0* |
+| Potassium decreased | 14 | 6 | 2.8 | 0.7* |
+| Albumin decreased | 14 | 0* | 8 | 0* |
+| Magnesium decreased | 11 | 0.4* | 4.2 | 0* |
+| 1Glucose increase is an expected laboratory abnormality of PI3K inhibition. *No Grade 4 laboratory abnormalities were reported. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of PIQRAY.
+The following adverse reactions have been identified during postapproval use of PIQRAY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders: Colitis
 
 Metabolism and nutrition disorders: Hyperglycemic hyperosmolar nonketotic syndrome (HHNKS).
 
-Skin and sub-cutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS).
+Skin and subcutaneous tissue disorders: Angioedema, Drug reaction with eosinophilia and systemic symptoms (DRESS).

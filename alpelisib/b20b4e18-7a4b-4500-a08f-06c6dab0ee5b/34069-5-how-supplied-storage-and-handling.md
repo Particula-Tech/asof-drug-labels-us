@@ -2,7 +2,7 @@
 
 PIQRAY (alpelisib) 50 mg, 150 mg, and 200 mg film-coated tablets [see Dosage Forms and Strengths (3)].
 
-| Daily Dose | Each carton contains | Each blister pack contains | NDC |
+| Daily dose | Each carton contains | Each blister pack contains | NDC |
 | --- | --- | --- | --- |
 | 300 mg daily dose | 2 blister packs (56 tablets total) | A 14-day supply of 28 tablets (28 tablets, 150 mg alpelisib per tablet) | NDC 0078-0708-02 |
 | 250 mg daily dose | 2 blister packs (56 tablets total) | A 14-day supply of 28 tablets (14 tablets, 200 mg alpelisib per tablet and 14 tablets, 50 mg alpelisib per tablet) | NDC 0078-0715-02 |

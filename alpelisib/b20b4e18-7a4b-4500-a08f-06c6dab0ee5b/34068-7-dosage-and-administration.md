@@ -32,7 +32,7 @@ The recommended dose modifications for adverse reactions (ARs) are listed in Tab
 
 Table 1: PIQRAY Dose Reduction Guidelines for Adverse Reactions1
 
-| PIQRAY Dose Level | Dose and Schedule | Number and Strength of Tablets |
+| PIQRAY dose level | Dose and schedule | Number and strength of tablets |
 | --- | --- | --- |
 | Starting dose | 300 mg once daily | Two 150 mg tablets |
 | First-dose reduction | 250 mg once daily | One 200 mg tablet and one 50 mg tablet |
@@ -68,30 +68,30 @@ Table 3: Dose Modification and Management for Hyperglycemia
 
 | [see Warnings and Precautions (5.3)] |  |
 | --- | --- |
-| Fasting Plasma Glucose (FPG)/Fasting Blood Glucose Values1 | Recommendation |
+| Fasting plasma glucose (FPG)/Fasting blood glucose values1 | Recommendation |
 | Dose modifications and management should only be based on fasting glucose values (FPG or fasting blood glucose). |  |
 | Grade 1 Fasting glucose > ULN -160 mg/dL or > ULN -8.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-hyperglycemic treatment2. |
 | Grade 2 Fasting glucose > 160-250 mg/dL or > 8.9-13.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-hyperglycemic treatment2. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-hyperglycemic treatment2,3, reduce PIQRAY dose by 1 dose level and follow fasting glucose value specific recommendations. |
 | Grade 3 > 250-500 mg/dL or > 13.9-27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify oral anti-hyperglycemic treatment2 and consider additional anti-hyperglycemic medications3 for 1-2 days until hyperglycemia improves, as clinically indicated. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). If fasting glucose decreases to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, resume PIQRAY at 1 lower dose level. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, consultation with a physician with expertise in the treatment of hyperglycemia is recommended. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days following appropriate anti-hyperglycemic treatment2,3, permanently discontinue PIQRAY treatment. |
-| Grade 4 > 500 mg/dL or ≥ 27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify appropriate anti-hyperglycemic treatment2,3 (administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances)), re-check fasting glucose within 24 hours and as clinically indicated. If fasting glucose decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow fasting glucose value-specific recommendations for Grade 3. If fasting glucose is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue PIQRAY treatment. |
-| Abbreviation: ULN, upper limit of normal. 1FPG/Fasting Blood Glucose/Grade levels reflect hyperglycemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 4.03. 2Initiate applicable anti-hyperglycemic medications, including metformin, SGLT2 inhibitors or insulin sensitizers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), and review respective prescribing information for dosing and dose titration recommendations, including local hyperglycemic treatment guidelines. Metformin was recommended in the SOLAR-1 trial with the following guidance: Initiate metformin 500 mg once daily. Based on tolerability, metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1,000 mg with dinner, followed by further increase to 1,000 mg twice daily if needed [see Warnings and Precautions (5.3)]. 3As recommended in the SOLAR-1 trial, insulin may be used for 1-2 days until hyperglycemia resolves. However, this may not be necessary in the majority of PIQRAY-induced hyperglycemia, given the short half-life of PIQRAY and the expectation of glucose levels normalizing after interruption of PIQRAY. |  |
+| Grade 4 > 500 mg/dL or > 27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify appropriate anti-hyperglycemic treatment2,3 (administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances)), re-check fasting glucose within 24 hours and as clinically indicated. If fasting glucose decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow fasting glucose value-specific recommendations for Grade 3. If fasting glucose is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue PIQRAY treatment. |
+| Abbreviation: ULN, upper limit of normal. 1FPG/Fasting blood glucose/Grade levels reflect hyperglycemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 4.03. 2Initiate applicable anti-hyperglycemic medications, including metformin, SGLT2 inhibitors or insulin sensitizers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), and review respective prescribing information for dosing and dose titration recommendations, including local hyperglycemic treatment guidelines. Metformin was recommended in the SOLAR-1 trial with the following guidance: Initiate metformin 500 mg once daily. Based on tolerability, metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1,000 mg with dinner, followed by further increase to 1,000 mg twice daily if needed [see Warnings and Precautions (5.3)]. 3As recommended in the SOLAR-1 trial, insulin may be used for 1-2 days until hyperglycemia resolves. However, this may not be necessary in the majority of PIQRAY-induced hyperglycemia, given the short half-life of PIQRAY and the expectation of glucose levels normalizing after interruption of PIQRAY. |  |
 
-Diarrhea
+Diarrhea or Colitis
 
-Table 4: Dose Modification and Management for Diarrhea
+Table 4: Dose Modification and Management for Diarrhea or Colitis
 
 | [see Warnings and Precautions (5.5)] |  |
 | --- | --- |
 | Grade1 | Recommendation |
 | Grade 1 | No PIQRAY dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated. |
-| Grade 2 | Interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the same dose level. If diarrhea recurs at Grade ≥ 2, interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the next lower dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. |
-| Grade 3 | Interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the next lower dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. |
+| Grade 2 | Interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the same dose level. For recurrent Grade ≥ 2, interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the next lower dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicated2. |
+| Grade 3 | Interrupt PIQRAY dose until improvement to Grade ≤ 1, then resume PIQRAY at the next lower dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicated2. |
 | Grade 4 | Permanently discontinue PIQRAY. |
-| 1Grading according to CTCAE Version 5.0. |  |
+| 1Grading according to CTCAE Version 5.0. 2For Grade 2 and 3 colitis, consider additional treatment, such as enteric-acting and/or systemic steroids. |  |
 
 Other Toxicities
 
-Table 5: Dose Modification and Management for Other Toxicities (Excluding Hyperglycemia, Rash and Severe Cutaneous Adverse Reactions, and Diarrhea)
+Table 5: Dose Modification and Management for Other Toxicities (Excluding Hyperglycemia, Rash and Severe Cutaneous Adverse Reactions, and Diarrhea or Colitis)
 
 | Grade1 | Recommendation |
 | --- | --- |

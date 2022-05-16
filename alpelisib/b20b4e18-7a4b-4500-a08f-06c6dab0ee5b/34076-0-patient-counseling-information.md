@@ -14,17 +14,18 @@ Advise patients to contact their healthcare provider immediately for signs and s
 
 Hyperglycemia
 
-Advise patients of the possibility of developing hyperglycemia and the need to monitor fasting blood glucose periodically during therapy.
+Advise patients that PIQRAY may cause hyperglycemia and requires monitoring of fasting blood glucose periodically during therapy.
 Advise patients to contact their healthcare provider immediately for signs and symptoms of hyperglycemia [see Warnings and Precautions (5.3)].
 
 Pneumonitis
 
-Inform patients of the possibility of developing pneumonitis and to immediately contact their healthcare provider if they experience respiratory problems [see Warnings and Precautions (5.4)].
+Inform patients that PIQRAY may cause pneumonitis and to immediately contact their healthcare provider if they experience respiratory problems [see Warnings and Precautions (5.4)].
 
-Diarrhea
+Diarrhea or Colitis
 
-Advise patients that PIQRAY may cause diarrhea, which may be severe in some cases.
-Inform patients to start antidiarrheal treatment, increase oral fluids, and notify their healthcare provider if diarrhea occurs while taking PIQRAY [see Warnings and Precautions (5.5)].
+Advise patients that PIQRAY may cause diarrhea, which may be severe, and to start antidiarrheal treatment, increase oral fluids, and notify their healthcare provider if diarrhea occurs while taking PIQRAY [see Warnings and Precautions (5.5)].
+
+Advise patients that PIQRAY may cause colitis and to notify their healthcare provider immediately of any symptoms of colitis, such as abdominal pain and mucus or blood in stool, while taking PIQRAY [see Warnings and Precautions (5.5)].
 
 Embryo-Fetal Toxicity
 
@@ -65,4 +66,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2021-104
+T2022-33

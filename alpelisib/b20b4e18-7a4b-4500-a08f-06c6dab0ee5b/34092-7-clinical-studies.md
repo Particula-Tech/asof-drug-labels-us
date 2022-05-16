@@ -45,6 +45,6 @@ Table 8: Efficacy Results in SOLAR-1 (Per Investigator Assessment of Patients wi
 | p-value1 | 0.0013 |  |
 | Overall Response Rate | N = 126 | N = 136 |
 | ORR2 (95% CI) | 35.7 (27.4, 44.7) | 16.2 (10.4, 23.5) |
-| 1Both log-rank test and Cox proportional hazards model are stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto stopping boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed Complete Response or Partial Response with measurable disease at baseline |  |  |
+| 1Both log-rank test and Cox proportional hazards model are stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto stopping boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed Complete Response or Partial Response with measurable disease at baseline. |  |  |
 
 Figure 1: Progression Free Survival in SOLAR-1 (Per Investigator Assessment of Patients with a PIK3CA Tumor Mutation)
