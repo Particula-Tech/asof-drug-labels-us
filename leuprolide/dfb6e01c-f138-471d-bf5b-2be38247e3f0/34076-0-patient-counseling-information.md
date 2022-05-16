@@ -42,7 +42,7 @@ Inform caregivers about the importance of adherence to the FENSOLVI dosing sched
 
 Rx only
 
-Revised 03/2022
+Revised 04/2022
 
 Manufactured by: Tolmar, Inc. Fort Collins, CO 80526 for Tolmar International Ltd. Dublin 2, Ireland D02 T380
 
@@ -52,4 +52,4 @@ Distributed by: Tolmar Pharmaceuticals, Inc. Fort Collins, CO 80526
 FENSOLVI, ATRIGEL, Tolmar, and associated logos, are trademarks of the Tolmar group.
 
 04006141 Rev.
-1 03/22
+2 04/22
