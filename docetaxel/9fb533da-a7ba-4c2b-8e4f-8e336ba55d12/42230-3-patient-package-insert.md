@@ -77,8 +77,7 @@ Before you receive Docetaxel Injection, tell your healthcare provider about all 
   Docetaxel Injection can harm your unborn baby.
   You should not become pregnant during treatment with Docetaxel Injection.
   Tell your healthcare provider if you become pregnant or you think you may be pregnant during treatment with Docetaxel Injection.
-  Females who are able to become pregnant:Males with female partners who are able to become pregnant should use effective birth control during treatment with Docetaxel Injection and for 3 months after the last dose.
-  Talk to your healthcare provider if you have questions about birth control options that are right for you.
+  Females who are able to become pregnant:Males with female partners who are able to become pregnant should use effective birth control during treatment with Docetaxel Injection and for 3 months after the last dose.Talk to your healthcare provider if you have questions about birth control options that are right for you.
   - Your healthcare provider will check to see if you are pregnant before you start treatment with Docetaxel Injection.
   - You should use effective birth control (contraception) during treatment with Docetaxel Injection and for 6 months after the last dose.
 - are breastfeeding or plan to breastfeed.
@@ -106,8 +105,7 @@ Docetaxel Injection may cause serious side effects including death.
 - See " What is the most important information I should know about Docetaxel Injection?"
 - Risk of new cancers.An increase in new (second) cancers has happened in people treated with Docetaxel Injection together with certain other anticancer treatments.
   This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin's Lymphoma (NHL), and kidney cancer.
-  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
-    Your healthcare provider will check you for new cancers during and after your treatment with Docetaxel Injection.
+  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.Your healthcare provider will check you for new cancers during and after your treatment with Docetaxel Injection.
 - Skin reactions including redness and swelling of your arms and legs with peeling of your skin.
   Tell your healthcare provider if you are having a skin reaction.
 - Neurologic problems.
@@ -123,7 +121,7 @@ Docetaxel Injection may cause serious side effects including death.
 
 The most common side effects of Docetaxel Injection include:
 
-| infectionslow white blood cells (help fight infections), low red blood cells (anemia), and low platelets (help blood to clot)allergic reactions (See “ What is the most important information I should know about Docetaxel Injection?”) changes in your sense of tasteshortness of breathconstipationdecreased appetitechanges in your fingernails or toenailsswelling of your hands, face or feetfeeling weak or tired | joint and muscle painnausea and vomitingdiarrheamouth or lip soreshair loss: in some people, permanent hair loss has been reportedredness of the eye, excess tearingskin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skintissue damage if Docetaxel Injection leaks out of the vein into the tissues |
+| infectionslow white blood cells (help fight infections), low red blood cells (anemia), and low platelets (help blood to clot)allergic reactions (See “ What is the most important information I should know about Docetaxel Injection?”)changes in your sense of tasteshortness of breathconstipationdecreased appetitechanges in your fingernails or toenailsswelling of your hands, face or feetfeeling weak or tired | joint and muscle painnausea and vomitingdiarrheamouth or lip soreshair loss: in some people, permanent hair loss has been reportedredness of the eye, excess tearingskin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skintissue damage if Docetaxel Injection leaks out of the vein into the tissues |
 | --- | --- |
 
 Tell your healthcare provider if you have a fast or irregular heartbeat, severe shortness of breath, dizziness or fainting during your infusion.
@@ -159,4 +157,10 @@ Inactive ingredients: polysorbate 80, anhydrous citric acid, dehydrated alcohol 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc. March 2021
+meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
+
+Mfd. by Kindos Pharmaceuticals Co., Ltd. Chengdu, China 611731
+
+Revised: February 2022
+
+LB-528-V1

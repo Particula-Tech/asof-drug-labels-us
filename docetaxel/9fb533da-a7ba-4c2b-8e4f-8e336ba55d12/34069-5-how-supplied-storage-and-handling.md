@@ -6,7 +6,7 @@ Docetaxel Injection, USP is a non-aqueous, clear, colorless to pale yellow solut
 
 | NDC | Docetaxel Injection, USP (10 mg per mL) | Package Factor |
 | --- | --- | --- |
-| 71288- 143-02 71288- 144-08 71288- 144-16 | 20 mg per 2 mL (10 mg per mL) Single-Dose Vial 80 mg per 8 mL (10 mg per mL) Multi-Dose Vial 160 mg per 16 mL (10 mg per mL) Multi-Dose Vial | 1 vial per carton 1 vial per carton 1 vial per carton |
+| 71288- 144-08 71288- 144-16 | 80 mg per 8 mL (10 mg per mL) Multi-Dose Vial 160 mg per 16 mL (10 mg per mL) Multi-Dose Vial | 1 vial per carton 1 vial per carton |
 
 ## 16.2 Storage
 

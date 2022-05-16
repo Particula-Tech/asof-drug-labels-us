@@ -87,6 +87,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
+meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
 
-Revised: March 2021
+Mfd. by Kindos Pharmaceuticals Co., Ltd. Chengdu, China 611731
+
+Revised: February 2022
+
+LB-356-V3
