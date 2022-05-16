@@ -150,4 +150,4 @@ ANNOVERA is a registered trademark of Population Council and licensed by Therape
 
 The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-ANVA-LAB-20001.2 Revised: 01/2020
+ANVA-LAB-20001.3 Revised: 04/2022

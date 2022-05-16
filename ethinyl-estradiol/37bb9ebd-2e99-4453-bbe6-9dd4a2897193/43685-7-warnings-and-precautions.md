@@ -148,7 +148,17 @@ Some females may experience amenorrhea or oligomenorrhea after stopping ANNOVERA
 Carefully observe females with a history of depression and discontinue ANNOVERA if depression recurs to a serious degree.
 Data on the association of CHCs with onset of depression or exacerbation of existing depression are limited.
 
-## 5.11 Cervical Cancer
+## 5.11 Malignant Neoplasms
+
+Breast Cancer
+
+Annovera is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
+
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience (6.2)].
+
+Cervical Cancer
 
 Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there is controversy about the extent to which these findings are due to differences in sexual behavior and other factors.

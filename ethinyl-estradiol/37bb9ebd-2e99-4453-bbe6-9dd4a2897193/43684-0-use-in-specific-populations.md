@@ -48,7 +48,7 @@ ANNOVERA has not been studied in females who have reached menopause and is not i
 
 No studies have been conducted to evaluate the effect of hepatic impairment on the disposition of ANNOVERA.
 However, steroid hormones may be poorly metabolized in patients with hepatic impairment.
-Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [See Contraindications (4) and Warnings and Precautions (5.2)].
+Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 ## 8.7 Renal Impairment
 
