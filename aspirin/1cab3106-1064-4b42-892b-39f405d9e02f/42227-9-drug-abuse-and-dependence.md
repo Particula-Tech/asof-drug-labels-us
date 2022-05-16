@@ -1,14 +1,14 @@
-# 9 DRUG ABUSE AND DEPENDENCE
+# 9DRUG ABUSE AND DEPENDENCE
 
-## 9.1 Controlled Substance
+## 9.1Controlled Substance
 
-ASCOMP with CODEINE contains codeine.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP contains codeine.
 Codeine in combination with butalbital, aspirin, and caffeine is a Schedule III controlled substance.
 
-## 9.2 Abuse
+## 9.2Abuse
 
-ASCOMP with CODEINE contains codeine, a substance with a high potential for abuse similar to other opioids, including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
-ASCOMP with CODEINE can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP contains codeine, a substance with a high potential for abuse similar to other opioids, including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
@@ -25,16 +25,16 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-ASCOMP with CODEINE, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of ASCOMP with CODEINE
+Risks Specific to Abuse of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP
 
-ASCOMP with CODEINE is for oral use only.
-Abuse of ASCOMP with CODEINE poses a risk of overdose and death.
-The risk is increased with concurrent abuse of ASCOMP with CODEINE with alcohol and other central nervous system depressants.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is for oral use only.
+Abuse of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP poses a risk of overdose and death.
+The risk is increased with concurrent abuse of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with alcohol and other central nervous system depressants.
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
@@ -52,22 +52,22 @@ Treatment of barbiturate dependence consists of cautious and gradual withdrawal 
 Barbiturate-dependent patients can be withdrawn by using a number of different withdrawal regimens.
 One method involves initiating treatment at the patient’s regular dosage level and gradually decreasing the daily dosage as tolerated by the patient.
 
-## 9.3 Dependence
+## 9.3Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs and may develop at different rates for different effects.
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
+Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Do not abruptly discontinue ASCOMP with Codeine in a patient physically dependent on opioids.
-Rapid tapering of ASCOMP with Codeine in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Do not abruptly discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP in a patient physically dependent on opioids.
+Rapid tapering of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
-When discontinuing ASCOMP with Codeine, gradually taper the dosage using a patient-specific plan that considers the following: the dose of ASCOMP with Codeine the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+When discontinuing Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, gradually taper the dosage using a patient-specific plan that considers the following: the dose of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.3), Warnings and Precautions (5.15)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4), Warnings and Precautions (5.15)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1, 8.2)].

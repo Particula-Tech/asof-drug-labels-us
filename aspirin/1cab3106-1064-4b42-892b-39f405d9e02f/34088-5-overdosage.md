@@ -1,17 +1,23 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 Clinical Presentation
 
-Acute overdose with ASCOMP with CODEINE can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Acute overdose with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
 Signs and Symptoms
 
-Acute Barbiturate Poisoning: Symptoms include drowsiness, confusion, and coma; respiratory depression; hypotension; hypovolemic shock.
+Acute Barbiturate Poisoning:
 
-Acute Aspirin Poisoning: Symptoms include hyperpnea; acid-base disturbances with development of metabolic acidosis; vomiting and abdominal pain; tinnitus, hyperthermia; hypoprothrombinemia; restlessness; delirium; convulsions.
+Symptoms include drowsiness, confusion, and coma; respiratory depression; hypotension; hypovolemic shock.
 
-Acute Caffeine Poisoning: Symptoms include insomnia, restlessness, tremor, and delirium; tachycardia and extrasystoles.
+Acute Aspirin Poisoning:
+
+Symptoms include hyperpnea; acid-base disturbances with development of metabolic acidosis; vomiting and abdominal pain; tinnitus, hyperthermia; hypoprothrombinemia; restlessness; delirium; convulsions.
+
+Acute Caffeine Poisoning:
+
+Symptoms include insomnia, restlessness, tremor, and delirium; tachycardia and extrasystoles.
 
 Codeine:
 
@@ -24,11 +30,10 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to codeine phosphate overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to codeine overdose.
 
-Because the duration of opioid reversal is expected to be less than the duration of action of codeine in ASCOMP with CODEINE, carefully monitor the patient until spontaneous respiration is reliably re-established.
+Because the duration of opioid reversal is expected to be less than the duration of action of codeine in Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, carefully monitor the patient until spontaneous respiration is reliably re-established.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
