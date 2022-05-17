@@ -14,7 +14,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third semester.
+Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Therefore, efgartigimod alfa-fcab may be transmitted from the mother to the developing fetus.
 
 As VYVGART is expected to reduce maternal IgG antibody levels, reduction in passive protection to the newborn is anticipated.

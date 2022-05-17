@@ -2,7 +2,7 @@
 
 NDC 73475-3041-5
 
-VYVGART™ (efgartigimod alfa-fcab)
+VYVGART® (efgartigimod alfa-fcab)
 
 INJECTION
 

@@ -44,7 +44,7 @@ Table 2: MG-ADL and QMG Responders During Cycle 1 in AChR-Ab Positive Patients (
 | --- | --- | --- | --- | --- |
 | MG-ADL Responders | 67.7 | 29.7 | < 0.0001 | 4.951 (2.213, 11.528) |
 | QMG Responders | 63.1 | 14.1 | < 0.0001 | 10.842 (4.179, 31.200) |
-| MG-ADL=Myasthenia Gravis Activities of Daily Living QMG =Quantitative Myasthenia Gravis; mITT=modified intent-to-treat; n=number of patients for whom the observation was reported; CI = confidence interval; Logistic regression stratified for AChR-Ab status (if applicable), Japanese/Non-Japanese and standard of care, with baseline MG-ADL as covariate / QMG as covariates Two-sided exact p-value |  |  |  |  |
+| MG-ADL=Myasthenia Gravis Activities of Daily Living; QMG =Quantitative Myasthenia Gravis; mITT=modified intent-to-treat; n=number of patients for whom the observation was reported; CI = confidence interval; Logistic regression stratified for AChR-Ab status (if applicable), Japanese/Non-Japanese and standard of care, with baseline MG-ADL as covariate / QMG as covariates Two-sided exact p-value |  |  |  |  |
 
 Figure 1 shows the mean change from baseline on the MG-ADL during cycle 1.
 
