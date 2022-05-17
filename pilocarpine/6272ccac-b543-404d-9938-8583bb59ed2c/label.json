@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077248"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-5922-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Pilocarpine Hydrochloride"
+    }
+  ],
+  "setid": "6272ccac-b543-404d-9938-8583bb59ed2c",
+  "source": "dailymed"
+}
