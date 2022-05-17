@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214779"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-633-01",
+    "62332-633-04",
+    "62332-633-30",
+    "62332-633-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "Arformoterol tartrate"
+    }
+  ],
+  "setid": "f2feda53-54b9-4e40-8a01-9e7b45cb3d8c",
+  "source": "dailymed"
+}
