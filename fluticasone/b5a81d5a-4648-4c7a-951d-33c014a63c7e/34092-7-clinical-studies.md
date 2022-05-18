@@ -2,7 +2,7 @@
 
 ## 14.1 Chronic Obstructive Pulmonary Disease
 
-The clinical efficacy of TRELEGY ELLIPTA has been evaluated in 3 clinical trials in subjects with COPD, including chronic bronchitis and/or emphysema: Trial 1 (NCT #01957163), Trial 2 (NCT #02119286), and Trial 3 (NCT #02164513).
+The clinical efficacy of TRELEGY ELLIPTA has been evaluated in 3 clinical trials in subjects with COPD, including chronic bronchitis and/or emphysema: Trial 1 (NCT01957163), Trial 2 (NCT02119286), and Trial 3 (NCT02164513).
 
 Trials 1 and 2 were multicenter, randomized, double-blind, parallel-group, 12-week treatment trials in subjects with COPD.
 Across both trials, a total of 412 subjects received coadministration of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg, the components of TRELEGY ELLIPTA.
@@ -84,7 +84,7 @@ In Trial 3, subjects treated with TRELEGY ELLIPTA on average used less rescue me
 
 ## 14.2 Asthma
 
-The safety and efficacy of TRELEGY ELLIPTA were evaluated in 2,436 subjects in a randomized, double-blind, parallel-group, active-controlled confirmatory trial of 24 to 52 weeks’ duration in adult subjects with asthma inadequately controlled on their current treatments of combination therapy (ICS plus a LABA) (Trial 4, NCT #02924688).
+The safety and efficacy of TRELEGY ELLIPTA were evaluated in 2,436 subjects in a randomized, double-blind, parallel-group, active-controlled confirmatory trial of 24 to 52 weeks’ duration in adult subjects with asthma inadequately controlled on their current treatments of combination therapy (ICS plus a LABA) (Trial 4, NCT02924688).
 
 Subjects with an Asthma Control Questionnaire (ACQ-6) score ≥1.5 on their current asthma treatment of ICS (greater than fluticasone propionate 250 mcg/day or equivalent) plus LABA entered a 3-week run-in period of treatment with fluticasone propionate/salmeterol 250/50 mcg twice daily.
 Subjects who remained inadequately controlled (ACQ-6 ≥1.5) after the run-in period were transferred to fluticasone furoate/vilanterol 100/25 mcg once daily for a 2-week stabilization period.

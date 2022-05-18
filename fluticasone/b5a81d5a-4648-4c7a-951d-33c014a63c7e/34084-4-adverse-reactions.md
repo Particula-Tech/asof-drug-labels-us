@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in greater detail in other sections:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
 - •Candida albicans infection [see Warnings and Precautions (5.4)]
@@ -21,7 +21,7 @@ The safety of TRELEGY ELLIPTA in COPD is based on the safety data from two 12-we
 
 Trials 1 and 2
 
-Two 12-week treatment trials (Trial 1, NCT #01957163 and Trial 2, NCT #02119286) evaluated the coadministration of umeclidinium + fluticasone furoate/vilanterol, the components of TRELEGY ELLIPTA, compared with placebo + fluticasone furoate/vilanterol.
+Two 12-week treatment trials (Trial 1 and Trial 2) evaluated the coadministration of umeclidinium + fluticasone furoate/vilanterol, the components of TRELEGY ELLIPTA, compared with placebo + fluticasone furoate/vilanterol.
 A total of 824 subjects with COPD across two 12-week, randomized, double-blind clinical trials received at least 1 dose of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg or placebo + fluticasone furoate/vilanterol 100/25 mcg administered once daily (mean age: 64 years, 92% White, 66% male across all treatments) [see Clinical Studies (14.1)].
 The incidence of adverse reactions associated with the use of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg presented in Table 2 is based on the two 12-week trials.
 
@@ -46,7 +46,7 @@ Adverse Reactions with Umeclidinium + Fluticasone Furoate/Vilanterol with ≥1% 
 
 Trial 3 – Long-term Safety Data
 
-A 52-week trial (Trial 3, NCT #02164513) evaluated the long-term safety of TRELEGY ELLIPTA 100/62.5/25 mcg compared with the fixed-dose combinations of fluticasone furoate/vilanterol 100/25 mcg and umeclidinium/vilanterol 62.5/25 mcg.
+A 52-week trial (Trial 3) evaluated the long-term safety of TRELEGY ELLIPTA 100/62.5/25 mcg compared with the fixed-dose combinations of fluticasone furoate/vilanterol 100/25 mcg and umeclidinium/vilanterol 62.5/25 mcg.
 A total of 10,355 subjects with COPD with a history of moderate or severe exacerbations within the prior 12 months were randomized (2:2:1) to receive TRELEGY ELLIPTA 100/62.5/25 mcg, fluticasone furoate/vilanterol, or umeclidinium/vilanterol administered once daily in a double‑blind clinical trial (mean age: 65 years, 77% White, 66% male across all treatments) [see Clinical Studies (14.1)].
 
 The incidence of adverse reactions in the long-term trial were consistent with those in Trials 1 and 2.
@@ -54,7 +54,7 @@ However, in addition to the adverse reactions shown in Table 2, adverse reaction
 
 ## 6.2 Clinical Trials Experience in Asthma
 
-The safety of TRELEGY ELLIPTA in asthma is based on a randomized, double-blind, parallel‑group, active-controlled trial of 24 to 52 weeks’ duration (Trial 4, NCT #02924688) that enrolled 2,436 adult subjects inadequately controlled on their current treatment of combination therapy (ICS plus a LABA) [see Clinical Studies (14.2)].
+The safety of TRELEGY ELLIPTA in asthma is based on a randomized, double-blind, parallel‑group, active-controlled trial of 24 to 52 weeks’ duration (Trial 4) that enrolled 2,436 adult subjects inadequately controlled on their current treatment of combination therapy (ICS plus a LABA) [see Clinical Studies (14.2)].
 In the overall population, 62% were female and 80% were White; mean age was 53 years.
 The incidence of adverse reactions occurring in ≥1% of the subjects treated with TRELEGY ELLIPTA 100/62.5/25 mcg or TRELEGY ELLIPTA 200/62.5/25 mcg is shown in Table 3.
 Adverse reactions observed for the groups treated with TRELEGY ELLIPTA were similar to those observed for the fluticasone furoate/vilanterol arms.
@@ -93,3 +93,7 @@ These events have been chosen for inclusion due to either their seriousness, fre
 Immune System Disorders
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
+
+Eye Disorders
+
+Blurred vision, eye pain, glaucoma.

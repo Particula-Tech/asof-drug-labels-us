@@ -2,7 +2,7 @@
 
 ## 1.1 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-TRELEGY ELLIPTA 100/62.5/25 mcg is indicated for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).
+TRELEGY ELLIPTA is indicated for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).
 
 ## 1.2 Maintenance Treatment of Asthma
 

@@ -62,8 +62,8 @@ Subcutaneous administration of umeclidinium to lactating rats at greater than or
 
 ## 8.4 Pediatric Use
 
-TRELEGY ELLIPTA is not indicated for use in children and adolescents.
-The safety and efficacy in pediatric patients (aged 17 years and younger) have not been established.
+The safety and effectiveness of TRELEGY ELLIPTA have not been established in pediatric patients (aged 17 years and younger).
+TRELEGY ELLIPTA is not indicated for use in pediatric patients.
 
 Effects on Growth
 

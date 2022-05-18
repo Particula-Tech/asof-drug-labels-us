@@ -1,22 +1,20 @@
 # 10 OVERDOSAGE
 
-No human overdosage data has been reported for TRELEGY ELLIPTA.
-
 TRELEGY ELLIPTA contains fluticasone furoate, umeclidinium, and vilanterol; therefore, the risks associated with overdosage for the individual components described below apply to TRELEGY ELLIPTA.
 Treatment of overdosage consists of discontinuation of TRELEGY ELLIPTA together with institution of appropriate symptomatic and/or supportive therapy.
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medicine can produce bronchospasm.
 Cardiac monitoring is recommended in cases of overdosage.
 
-## 10.1 Fluticasone Furoate
+Fluticasone Furoate
 
 Because of low systemic bioavailability (15.2%) and an absence of acute drug-related systemic findings in clinical trials, overdosage of fluticasone furoate is unlikely to require any treatment other than observation.
 If used at excessive doses for prolonged periods, systemic effects such as hypercorticism may occur [see Warnings and Precautions (5.8)].
 
-## 10.2 Umeclidinium
+Umeclidinium
 
 High doses of umeclidinium may lead to anticholinergic signs and symptoms.
 
-## 10.3 Vilanterol
+Vilanterol
 
 The expected signs and symptoms with overdosage of vilanterol are those of excessive beta‑adrenergic stimulation and/or occurrence or exaggeration of any of the signs and symptoms of beta-adrenergic stimulation (e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, muscle cramps, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, insomnia, hyperglycemia, hypokalemia, metabolic acidosis).
 As with all inhaled sympathomimetic medicines, cardiac arrest and even death may be associated with an overdose of vilanterol.

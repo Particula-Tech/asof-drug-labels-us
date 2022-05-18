@@ -51,17 +51,13 @@ No clinically meaningful effects on cardiac rhythm were observed.
 
 The cardiovascular effects from dual combinations of fluticasone furoate/vilanterol and umeclidinium/vilanterol in healthy subjects are presented below.
 
-Fluticasone Furoate/Vilanterol Combination
-
-Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover study in 85 healthy volunteers.
+Fluticasone Furoate/Vilanterol Combination: Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover study in 85 healthy volunteers.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate/vilanterol 200/25 mcg and fluticasone furoate/vilanterol 800/100 mcg, respectively.
 
 A dose-dependent increase in heart rate was also observed.
 The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline correction was 7.8 (9.4) beats/min and 17.1 (18.7) beats/min seen 10 minutes after dosing for fluticasone furoate/vilanterol 200/25 mcg and fluticasone furoate/vilanterol 800/100 mcg (8/4 times the recommended dosage), respectively.
 
-Umeclidinium/Vilanterol Combination
-
-Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover trial in 86 healthy subjects.
+Umeclidinium/Vilanterol Combination: Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover trial in 86 healthy subjects.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 4.6 (7.1) milliseconds and 8.2 (10.7) milliseconds for umeclidinium/vilanterol 125/25 mcg and umeclidinium/vilanterol 500/100 mcg (8/4 times the recommended dosage), respectively.
 
 A dose-dependent increase in heart rate was also observed.
@@ -147,14 +143,8 @@ Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate 
 Figure 2.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF), Umeclidinium (UMEC), and Vilanterol (VI) following Coadministration in Asthmaa
 
-a Age, ethnicity, and gender comparison for TRELEGY ELLIPTA 200/62.5/25 mcg in subjects with asthma.
-
 Figure 3.
 Impact of Intrinsic Factorsa and Coadministered Drugsb on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) following Administration as Fluticasone Furoate/Vilanterol Combination or following Vilanterol Coadministered with Umeclidinium
-
-a Renal groups (fluticasone furoate/vilanterol 200/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200/25 mcg or fluticasone furoate/vilanterol 100/12.5 mcg).
-
-b Compared with placebo group.
 
 Figure 4.
 Impact of Intrinsic Factors and Coadministered Drugs on the Systemic Exposure of Umeclidinium
@@ -187,7 +177,7 @@ There were no additional clinically relevant effects of the fluticasone furoate/
 Patients with Renal Impairment: Fluticasone Furoate: Systemic exposure was not increased in subjects with severe renal impairment compared with healthy subjects (Figure 3).
 There was no evidence of greater corticosteroid class-related systemic effects (assessed by serum cortisol) in subjects with severe renal impairment compared with healthy subjects.
 
-Umeclidinium: The pharmacokinetics of umeclidinium has been evaluated in subjects with severe renal impairment (creatinine clearance <30 mL/min).
+Umeclidinium: The pharmacokinetics of umeclidinium has been evaluated in subjects with severe renal impairment (CrCl <30 mL/min).
 There was no evidence of an increase in systemic exposure to umeclidinium (Cmax and AUC) (Figure 4).
 There was no evidence of altered protein binding in subjects with severe renal impairment compared with healthy subjects.
 

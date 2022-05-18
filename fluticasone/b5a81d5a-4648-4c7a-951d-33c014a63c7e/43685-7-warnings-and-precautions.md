@@ -39,7 +39,7 @@ TRELEGY ELLIPTA is not indicated for use in pediatric patients aged 17 years and
 
 Salmeterol Multicenter Asthma Research Trial (SMART)
 
-A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol versus 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 Use of background ICS was not required in SMART.
 The increased risk of asthma-related death is considered a class effect of LABA monotherapy.
 
@@ -98,10 +98,11 @@ Adjudicated, on‑treatment deaths due to pneumonia occurred in 13 subjects rece
 Chickenpox and measles can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
+The safety and effectiveness of TRELEGY have not been established in pediatric patients and TRELEGY is not indicated for use in this population.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If a patient is exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+(See the respective Prescribing Information for VZIG and IG.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
 ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
@@ -158,7 +159,7 @@ If paradoxical bronchospasm occurs following dosing with TRELEGY ELLIPTA, it sho
 
 Hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of TRELEGY ELLIPTA.
 Discontinue TRELEGY ELLIPTA if such reactions occur.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use TRELEGY ELLIPTA [see Contraindications (4)].
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use TRELEGY ELLIPTA [see Contraindications (4), Adverse Reactions (6.3)].
 
 ## 5.12 Cardiovascular Effects
 
@@ -193,7 +194,7 @@ Consider referral to an ophthalmologist in patients who develop ocular symptoms 
 
 ## 5.15 Worsening of Urinary Retention
 
-TRELEGY ELLIPTA, like all medicines containing an anticholinergic, should be used with caution in patients with urinary retention.
+TRELEGY ELLIPTA, like all therapies containing an anticholinergic, should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
@@ -206,9 +207,10 @@ Doses of the related beta2-adrenoceptor agonist albuterol, when administered int
 
 Beta-adrenergic agonist therapies may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation.
-Beta-agonist medications may produce transient hyperglycemia in some patients.
+Beta-agonist therapies may produce transient hyperglycemia in some patients.
 
 ## 5.18 Effect on Growth
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to children and adolescents.
+The safety and effectiveness of TRELEGY have not been established in pediatric patients (aged 17 years and younger) and TRELEGY is not indicated for use in this population.
 [See Use in Specific Populations (8.4).]

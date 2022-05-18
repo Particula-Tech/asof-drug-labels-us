@@ -99,6 +99,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2020 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-TRL:6PI
+TRL:7PI

@@ -18,7 +18,7 @@ Vilanterol trifenatate is a white powder with a molecular weight of 774.8, and t
 It is practically insoluble in water.
 
 TRELEGY ELLIPTA is a light grey and beige plastic inhaler containing 2 foil blister strips.
-Each blister on one strip contains a white powder mix of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 or 12.3 mg) and each blister on the other strip contains a white powder blend of micronized umeclidinium bromide (74.2 mcg equivalent to 62.5 mcg of umeclidinium), micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (75 mcg), and lactose monohydrate (12.3 mg).
+Each blister on one strip contains a white powder blend of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 or 12.3 mg) and each blister on the other strip contains a white powder blend of micronized umeclidinium bromide (74.2 mcg equivalent to 62.5 mcg of umeclidinium), micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (75 mcg), and lactose monohydrate (12.3 mg).
 The lactose monohydrate contains milk proteins.
 After the inhaler is activated, the powder within both blisters is exposed and ready for dispersion into the airstream created by the patient inhaling through the mouthpiece.
 
