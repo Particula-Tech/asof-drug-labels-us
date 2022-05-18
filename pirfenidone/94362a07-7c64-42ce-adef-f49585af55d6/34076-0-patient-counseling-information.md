@@ -28,4 +28,4 @@ Take with Food
 Instruct patients to take pirfenidone tablets with food to help decrease nausea and dizziness.
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
-03-2022-01
+05-2022-02
